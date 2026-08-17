@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "question": "அசோகரின் சமயச்சார்பின்மையை பற்றி அறிந்து கொள்ள உதவும் கல்வெட்டு _________ அரசாணை.",
+    "options": [
+      "10 வது பாறை",
+      "32 வது பாறை",
+      "12 வது பாறை",
+      "356 வது பாறை"
+    ],
+    "correct": 2,
+    "question_en": "The edict that helps to know about Ashoka's secularism is the _________ rock edict.",
+    "options_en": [
+      "10th rock",
+      "32nd rock",
+      "12th rock",
+      "356th rock"
+    ],
+    "explanation": "அசோகரின் சமயச்சார்பின்மையை பற்றி அறிந்து கொள்ள உதவும் கல்வெட்டு 12 வது பாறை அரசாணை.",
+    "explanation_en": "The edict that helps to know about Ashoka's secularism is the 12th rock rock edict."
+  },
+  {
+    "id": 2,
+    "question": "சமயச் சார்பற்ற நாட்டில் எவருக்கும் தனிப்பட்ட முறையில் ________ அளிப்பதில்லை.",
+    "options": [
+      "பணம்",
+      "நட்பு",
+      "சலுகை",
+      "தண்டனை"
+    ],
+    "correct": 2,
+    "question_en": "In a secular country, no individual is granted personal ________.",
+    "options_en": [
+      "money",
+      "friendship",
+      "privilege",
+      "punishment"
+    ],
+    "explanation": "சமயச் சார்பற்ற நாட்டில் எவருக்கும் தனிப்பட்ட முறையில் சலுகை அளிப்பதில்லை.",
+    "explanation_en": "In a secular country, no individual is granted personal privilege."
+  },
+  {
+    "id": 3,
+    "question": "சமய நடைமுறைகள் மற்றும் நம்பிக்கைகள் அடிப்படையில் அரசு ________ காட்டுவதில்லை.",
+    "options": [
+      "பாகுபாடு",
+      "வேடிக்கை",
+      "தனி உரிமை",
+      "முரண்பாடு"
+    ],
+    "correct": 0,
+    "question_en": "The state does not show ________ on the basis of religious practices and beliefs.",
+    "options_en": [
+      "discrimination",
+      "fun",
+      "special right",
+      "contradiction"
+    ],
+    "explanation": "சமய நடைமுறைகள் மற்றும் நம்பிக்கைகள் அடிப்படையில் அரசு பாகுபாடு காட்டுவதில்லை.",
+    "explanation_en": "The state does not show discrimination on the basis of religious practices and beliefs."
+  },
+  {
+    "id": 4,
+    "question": "சமயச்சார்பின்மை என்பது ________.",
+    "options": [
+      "அரசு அனைத்து சமயத்திற்கும் எதிரானது",
+      "அரசு ஒரே ஒரு சமயத்தை மட்டும் ஏற்றுக்கொள்கிறது",
+      "எந்த சமயத்தைச் சார்ந்த குடிமகனும் சகிப்புத்தன்மையுடன் அமைதியாக இணக்கமாக வாழ்தல்",
+      "இவற்றுள் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Secularism means ________.",
+    "options_en": [
+      "The state is against all religions",
+      "The state accepts only one religion",
+      "Citizens belonging to any religion living peacefully and harmoniously with tolerance",
+      "None of these"
+    ],
+    "explanation": "சமயச்சார்பின்மை என்பது எந்த சமயத்தைச் சார்ந்த குடிமகனும் சகிப்புத்தன்மையுடன் அமைதியாக இணக்கமாக வாழ்தல்.",
+    "explanation_en": "Secularism means Citizens belonging to any religion living peacefully and harmoniously with tolerance."
+  },
+  {
+    "id": 5,
+    "question": "முகலாய பேரரசர்களில் மதசகிப்புத் தன்மை கொள்கையைப் பின்பற்றியவர் ________.",
+    "options": [
+      "ஔரங்கசீப்",
+      "ஷாஜஹான்",
+      "பாபர்",
+      "அக்பர்"
+    ],
+    "correct": 3,
+    "question_en": "Among the Mughal emperors, the one who followed the policy of religious tolerance was ________.",
+    "options_en": [
+      "Aurangzeb",
+      "Shah Jahan",
+      "Babur",
+      "Akbar"
+    ],
+    "explanation": "முகலாய பேரரசர்களில் மதசகிப்புத் தன்மை கொள்கையைப் பின்பற்றியவர் அக்பர்.",
+    "explanation_en": "Among the Mughal emperors, the one who followed the policy of religious tolerance was Akbar."
+  },
+  {
+    "id": 6,
+    "question": "சமயச்சார்பின்மை என்பது ________.",
+    "options": [
+      "மதப்பற்று",
+      "அரசியலமைப்பின் ஒரு அங்கம்",
+      "மதவாதம்",
+      "அரசியல் கொள்கை"
+    ],
+    "correct": 1,
+    "question_en": "Secularism is a ________.",
+    "options_en": [
+      "Religious devotion",
+      "Part of the constitution",
+      "Communalism",
+      "Political ideology"
+    ],
+    "explanation": "சமயச்சார்பின்மை என்பது அரசியலமைப்பின் ஒரு அங்கம்.",
+    "explanation_en": "Secularism is a Part of the constitution."
+  },
+  {
+    "id": 7,
+    "question": "சமயச்சார்பின்மை இந்தியாவில் ________ வளர்ச்சிக்கான அடிப்படை கொள்கைகளில் ஒன்றாகும்.",
+    "options": [
+      "மதம்",
+      "மக்கள்",
+      "இனம்",
+      "மக்களாட்சி"
+    ],
+    "correct": 3,
+    "question_en": "Secularism is one of the fundamental principles for the development of ________ in India.",
+    "options_en": [
+      "religion",
+      "people",
+      "race",
+      "democracy"
+    ],
+    "explanation": "சமயச்சார்பின்மை இந்தியாவில் மக்களாட்சி வளர்ச்சிக்கான அடிப்படை கொள்கைகளில் ஒன்றாகும்.",
+    "explanation_en": "Secularism is one of the fundamental principles for the development of democracy in India."
+  },
+  {
+    "id": 8,
+    "question": "சமயசார்பற்ற என்ற சொல்லானது ________ ஆம் ஆண்டு ஏற்றுக்கொள்ளப்பட்ட அரசியல் அமைப்பில் குறிப்பிடப்படவில்லை.",
+    "options": [
+      "1947",
+      "1919",
+      "1951",
+      "1950"
+    ],
+    "correct": 3,
+    "question_en": "The word secular was not mentioned in the Constitution adopted in the year ________.",
+    "options_en": [
+      "1947",
+      "1919",
+      "1951",
+      "1950"
+    ],
+    "explanation": "சமயசார்பற்ற என்ற சொல்லானது 1950 ஆம் ஆண்டு ஏற்றுக்கொள்ளப்பட்ட அரசியல் அமைப்பில் குறிப்பிடப்படவில்லை.",
+    "explanation_en": "The word secular was not mentioned in the Constitution adopted in the year 1950."
+  },
+  {
+    "id": 9,
+    "question": "________ ஆம் ஆண்டு இந்திய அரசியலமைப்பில் மேற்கொள்ளப்பட்ட ________ சட்டத்திருத்தத்தின் மூலம் முகவுரையில் சமயச்சார்பற்ற என்ற சொல் சேர்க்கப்பட்டது",
+    "options": [
+      "1975, 42",
+      "1950, 35",
+      "1976, 42",
+      "1965, 35"
+    ],
+    "correct": 2,
+    "question_en": "The word 'secular' was added to the Preamble through the ________ amendment made to the Indian Constitution in the year ________.",
+    "options_en": [
+      "1975, 42",
+      "1950, 35",
+      "1976, 42",
+      "1965, 35"
+    ],
+    "explanation": "1976, 42 ஆம் ஆண்டு இந்திய அரசியலமைப்பில் மேற்கொள்ளப்பட்ட 1976, 42 சட்டத்திருத்தத்தின் மூலம் முகவுரையில் சமயச்சார்பற்ற என்ற சொல் சேர்க்கப்பட்டது",
+    "explanation_en": "The word 'secular' was added to the Preamble through the 1976, 42 amendment made to the Indian Constitution in the year 1976, 42."
+  },
+  {
+    "id": 10,
+    "question": "இந்தியா ஒரு __________ கொண்ட நாடாகும்.",
+    "options": [
+      "பல்வேறு சமய நம்பிக்கை",
+      "பல்வேறு பண்பாட்டு நம்பிக்கை",
+      "(1) மற்றும் (2)",
+      "இவற்றுள் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "India is a country with __________.",
+    "options_en": [
+      "Various religious beliefs",
+      "Various cultural beliefs",
+      "(1) and (2)",
+      "None of these"
+    ],
+    "explanation": "இந்தியா ஒரு (1) மற்றும் (2) கொண்ட நாடாகும்.",
+    "explanation_en": "India is a country with (1) and (2)."
+  },
+  {
+    "id": 11,
+    "question": "நமது அரசியலமைப்பின் அடிப்படை நோக்கம் ________.",
+    "options": [
+      "ஒற்றுமையும் ஒருமைப்பாடும்",
+      "சகிப்புத் தன்மை",
+      "தனிமனித மாண்பு",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "The basic objective of our Constitution is ________.",
+    "options_en": [
+      "Unity and integrity",
+      "Tolerance",
+      "Individual dignity",
+      "All of these"
+    ],
+    "explanation": "நமது அரசியலமைப்பின் அடிப்படை நோக்கம் இவை அனைத்தும்.",
+    "explanation_en": "The basic objective of our Constitution is All of these."
+  },
+  {
+    "id": 12,
+    "question": "எந்த வழக்கில் உச்ச நீதிமன்றம் இந்தியாவில் வாழும் வெளிநாட்டவரும் சமய சுதந்திரத்திற்கு உறுதி அளித்தது?",
+    "options": [
+      "மோதிலால் - ரஹ்மான்",
+      "ரத்திலால் - பன்சந்த்",
+      "ராபர்ட் – கிளைமண்ட்",
+      "பம்பாய் மாநிலம் – ரத்திலால் பன்சந்த்"
+    ],
+    "correct": 3,
+    "question_en": "In which case did the Supreme Court assure religious freedom even to foreigners living in India?",
+    "options_en": [
+      "Motilal - Rahman",
+      "Ratilal - Panachand",
+      "Robert - Clement",
+      "State of Bombay - Ratilal Panachand"
+    ],
+    "explanation": "பம்பாய் மாநிலம் – ரத்திலால் பன்சந்த்",
+    "explanation_en": "State of Bombay - Ratilal Panachand"
+  },
+  {
+    "id": 13,
+    "question": "ரத்திலால் பன்சந்த் வழக்கு உச்சநீதிமன்றத்தில் நடைபெற்ற ஆண்டு _________.",
+    "options": [
+      "1954",
+      "1965",
+      "1976",
+      "1950"
+    ],
+    "correct": 0,
+    "question_en": "The year in which the Ratilal Panachand case took place in the Supreme Court was _________.",
+    "options_en": [
+      "1954",
+      "1965",
+      "1976",
+      "1950"
+    ],
+    "explanation": "ரத்திலால் பன்சந்த் வழக்கு உச்சநீதிமன்றத்தில் நடைபெற்ற ஆண்டு 1954.",
+    "explanation_en": "The year in which the Ratilal Panachand case took place in the Supreme Court was 1954."
+  },
+  {
+    "id": 14,
+    "question": "ரத்திலால் பன்சந்த் எந்த மாநிலத்திற்கு எதிராக வழக்கு தொடுத்தார்?",
+    "options": [
+      "சென்னை",
+      "பம்பாய்",
+      "உத்திரபிரதேசம்",
+      "ஆந்திரபிரதேசம்"
+    ],
+    "correct": 1,
+    "question_en": "Against which state did Ratilal Panachand file a case?",
+    "options_en": [
+      "Chennai",
+      "Bombay",
+      "Uttar Pradesh",
+      "Andhra Pradesh"
+    ],
+    "explanation": "பம்பாய்",
+    "explanation_en": "Bombay"
+  },
+  {
+    "id": 15,
+    "question": "கஜூராஹோவில் உள்ள 19 ஆம் நூற்றாண்டைச் சார்ந்த இந்து கோயிலின் அமைப்பு",
+    "options": [
+      "1 – c, 2 – d, 3 – a, 4 – b",
+      "1 – b, 2 – c, 3 – d, 4 – a",
+      "1 – d, 3 – c, 4 – a, 2 – b",
+      "1 – a, 2 – c, 3 – b, 4 – d"
+    ],
+    "correct": 1,
+    "question_en": "The structure of the 19th century Hindu temple in Khajuraho",
+    "options_en": [
+      "1 – c, 2 – d, 3 – a, 4 – b",
+      "1 – b, 2 – c, 3 – d, 4 – a",
+      "1 – d, 3 – c, 4 – a, 2 – b",
+      "1 – a, 2 – c, 3 – b, 4 – d"
+    ],
+    "explanation": "1 – b, 2 – c, 3 – d, 4 – a",
+    "explanation_en": "1 – b, 2 – c, 3 – d, 4 – a"
+  },
+  {
+    "id": 16,
+    "question": "கஜூராஹோவில் உள்ள சமயச்சார்பின்மையைப் பிரதிபலிக்கும் இந்து கோவில் எந்த நூற்றாண்டைச் சார்ந்தது?",
+    "options": [
+      "8",
+      "20",
+      "18",
+      "19"
+    ],
+    "correct": 3,
+    "question_en": "The Hindu temple reflecting secularism in Khajuraho belongs to which century?",
+    "options_en": [
+      "8th",
+      "20th",
+      "18th",
+      "19th"
+    ],
+    "explanation": "19",
+    "explanation_en": "19th"
+  },
+  {
+    "id": 17,
+    "question": "\"சமயம், இனம், சாதி, பாலினம் அல்லது பிறப்பிடம் ஆகியவற்றின் அடிப்படையில் பாகுபாடுகளை தடை செய்கிறது\", இது குறிப்பிடும் அரசியலமைப்பின் பிரிவு எது?",
+    "options": [
+      "பிரிவு 16",
+      "பிரிவு 15",
+      "பிரிவு 20",
+      "பிரிவு 25"
+    ],
+    "correct": 1,
+    "question_en": "\"Prohibits discrimination on grounds of religion, race, caste, sex or place of birth\", which Article of the Constitution does this refer to?",
+    "options_en": [
+      "Article 16",
+      "Article 15",
+      "Article 20",
+      "Article 25"
+    ],
+    "explanation": "\"சமயம், இனம், சாதி, பாலினம் அல்லது பிறப்பிடம் ஆகியவற்றின் அடிப்படையில் பாகுபாடுகளை தடை செய்கிறது\", இது குறிப்பிடும் அரசியலமைப்பின் பிரிவு பிரிவு 15 ஆகும்.",
+    "explanation_en": "Article 15"
+  },
+  {
+    "id": 18,
+    "question": "\"பொது வேலைவாய்ப்பில் சமமான வாய்ப்பளித்தல்\" பற்றி கூறும் இது அரசியலமைப்பின் எந்த பிரிவு?",
+    "options": [
+      "பிரிவு 15",
+      "பிரிவு 17",
+      "பிரிவு 16",
+      "பிரிவு 45"
+    ],
+    "correct": 2,
+    "question_en": "Which Article of the Constitution deals with \"Equality of opportunity in matters of public employment\"?",
+    "options_en": [
+      "Article 15",
+      "Article 17",
+      "Article 16",
+      "Article 45"
+    ],
+    "explanation": "பிரிவு 16",
+    "explanation_en": "Article 16"
+  },
+  {
+    "id": 19,
+    "question": "பொருத்துக (விளக்கம் - பிரிவு)",
+    "options": [
+      "a – 1, b – 3, c – 4, d – 2, e – 5",
+      "a – 3, b – 1, c – 4, d – 5, e – 2",
+      "a – 3, b – 1, c – 5, d – 2, e – 4",
+      "a – 2, b – 3, c – 4, d – 1, e – 5"
+    ],
+    "correct": 2,
+    "question_en": "Match the following (Description - Article)",
+    "options_en": [
+      "a – 1, b – 3, c – 4, d – 2, e – 5",
+      "a – 3, b – 1, c – 4, d – 5, e – 2",
+      "a – 3, b – 1, c – 5, d – 2, e – 4",
+      "a – 2, b – 3, c – 4, d – 1, e – 5"
+    ],
+    "explanation": "a – 3, b – 1, c – 5, d – 2, e – 4",
+    "explanation_en": "a – 3, b – 1, c – 5, d – 2, e – 4"
+  },
+  {
+    "id": 20,
+    "question": "இந்திய அரசியலமைப்பின் முகவுரை திருத்தப்பட்ட ஆண்டு _________.",
+    "options": [
+      "1951",
+      "1976",
+      "1974",
+      "1967"
+    ],
+    "correct": 1,
+    "question_en": "The year the Preamble of the Indian Constitution was amended is _________.",
+    "options_en": [
+      "1951",
+      "1976",
+      "1974",
+      "1967"
+    ],
+    "explanation": "இந்திய அரசியலமைப்பின் முகவுரை திருத்தப்பட்ட ஆண்டு 1976.",
+    "explanation_en": "The year the Preamble of the Indian Constitution was amended is 1976."
+  },
+  {
+    "id": 21,
+    "question": "அக்பரின் கல்லறை அமைவிடம் ________.",
+    "options": [
+      "பம்பாய்",
+      "சிக்கந்தரா",
+      "புல்வாமா",
+      "பதேபூர் சிக்ரி"
+    ],
+    "correct": 1,
+    "question_en": "The location of Akbar's tomb is ________.",
+    "options_en": [
+      "Bombay",
+      "Sikandra",
+      "Pulwama",
+      "Fatehpur Sikri"
+    ],
+    "explanation": "அக்பரின் கல்லறை அமைவிடம் சிக்கந்தரா.",
+    "explanation_en": "The location of Akbar's tomb is Sikandra."
+  },
+  {
+    "id": 22,
+    "question": "பின்வருவனவற்றுள் எது இந்தியாவை சமயச்சார்பற்ற நாடாக விவரிக்கிறது?",
+    "options": [
+      "அடிப்படை உரிமைகள்",
+      "அடிப்படை கடமைகள்",
+      "அரசு நெறிமுறைப்படுத்தும் கொள்கைகள்",
+      "அரசியலமைப்பின் முகவுரை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following describes India as a secular state?",
+    "options_en": [
+      "Fundamental Rights",
+      "Fundamental Duties",
+      "Directive Principles of State Policy",
+      "Preamble of the Constitution"
+    ],
+    "explanation": "அரசியலமைப்பின் முகவுரை",
+    "explanation_en": "Preamble of the Constitution"
+  },
+  {
+    "id": 23,
+    "question": "சமயச் சுதந்திர உரிமை எதனுடன் தொடர்புடையது?",
+    "options": [
+      "நீதித்துறை",
+      "பாராளுமன்றம்",
+      "அரசு நெறிமுறைப்படுத்தும் கொள்கை",
+      "அடிப்படை உரிமைகள்"
+    ],
+    "correct": 3,
+    "question_en": "The Right to freedom of religion is related to what?",
+    "options_en": [
+      "Judiciary",
+      "Parliament",
+      "Directive Principles of State Policy",
+      "Fundamental Rights"
+    ],
+    "explanation": "அடிப்படை உரிமைகள்",
+    "explanation_en": "Fundamental Rights"
+  },
+  {
+    "id": 24,
+    "question": "மக்களாட்சி நாடு சீராக செயல்படுவதற்கு ________ மிகவும் அவசியமாகும்",
+    "options": [
+      "படைகள்",
+      "சமயச்சார்பின்மை",
+      "ஒற்றுமை",
+      "நிதி"
+    ],
+    "correct": 0,
+    "question_en": "For a democratic country to function smoothly, ________ is very essential.",
+    "options_en": [
+      "Forces",
+      "Secularism",
+      "Unity",
+      "Finance"
+    ],
+    "explanation": "மக்களாட்சி நாடு சீராக செயல்படுவதற்கு படைகள் மிகவும் அவசியமாகும்",
+    "explanation_en": "For a democratic country to function smoothly, Forces is very essential."
+  },
+  {
+    "id": 25,
+    "question": "அரசியலமைப்பின் பிரிவு 28 எந்த வகையான கல்வியை அரசு உதவிபெறும் கல்வி நிறுவனங்களில் தடை செய்துள்ளது?",
+    "options": [
+      "சமய போதனைகள்",
+      "நீதி நெறிக்கல்வி",
+      "உடற்கல்வி",
+      "இவற்றுள் எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Article 28 of the Constitution prohibits which type of education in state-aided educational institutions?",
+    "options_en": [
+      "Religious instructions",
+      "Moral education",
+      "Physical education",
+      "None of these"
+    ],
+    "explanation": "நீதி நெறிக்கல்வி",
+    "explanation_en": "Moral education"
+  },
+  {
+    "id": 26,
+    "question": "தவறான இணை எது?",
+    "options": [
+      "நாத்திகம் - கடவுள் நம்பிக்கையற்றிருத்தல்",
+      "செகுலம் - காலம்",
+      "அக்பரின் கல்லறை - தீன் இலாஹி",
+      "இந்தியா - மதச்சார்பற்ற நாடு"
+    ],
+    "correct": 2,
+    "question_en": "Which is the incorrect pair?",
+    "options_en": [
+      "Atheism - Lack of belief in God",
+      "Saeculum - Time/Age",
+      "Akbar's tomb - Din-i-Ilahi",
+      "India - Secular state"
+    ],
+    "explanation": "தவறான இணை அக்பரின் கல்லறை - தீன் இலாஹி ஆகும்.",
+    "explanation_en": "Akbar's tomb - Din-i-Ilahi is the incorrect pair."
+  },
+  {
+    "id": 27,
+    "question": "ஒரு நாடு சமயச்சார்பற்ற நாடாக எப்போது கருதப்படும் ___________.",
+    "options": [
+      "ஒரு குறிப்பிட்ட சமயத்திற்கு முக்கியத்துவம் அளித்தால்",
+      "அரசு உதவி பெறும் கல்வி நிறுவனங்களில் சமய போதனைகளைத் தடை செய்தால்",
+      "ஒரு குறிப்பிட்ட சமயத்திற்கு முக்கியத்துவம் அளிக்காமல் இருந்தால்",
+      "எந்த சமய நம்பிக்கையையும் பரப்ப தடை விதித்தால்"
+    ],
+    "correct": 2,
+    "question_en": "When will a country be considered a secular state ___________.",
+    "options_en": [
+      "If it gives importance to a particular religion",
+      "If it bans religious instructions in state-aided educational institutions",
+      "If it does not give importance to a particular religion",
+      "If it bans the propagation of any religious belief"
+    ],
+    "explanation": "ஒரு நாடு சமயச்சார்பற்ற நாடாக எப்போது கருதப்படும் ஒரு குறிப்பிட்ட சமயத்திற்கு முக்கியத்துவம் அளிக்காமல் இருந்தால்.",
+    "explanation_en": "When will a country be considered a secular state If it does not give importance to a particular religion."
+  },
+  {
+    "id": 28,
+    "question": "பொருத்துக:",
+    "options": [
+      "(1) அ–v, ஆ–iv, இ-vi, ஈ-ii, உ- i, ஊ-iii",
+      "(2) அ–iii, ஆ-iv, இ–v, ஈ–vi, உ– i, ஊ–ii",
+      "(3) அ–ii, ஆ–iv, இ–v, ஈ–vi, உ– ii, ஊ–i",
+      "(4) அ–v, ஆ–iv, இ–iii, ஈ–vi, உ– i, ஊ-ii"
+    ],
+    "correct": 1,
+    "question_en": "Match the following:",
+    "options_en": [
+      "(1) a-v, b-iv, c-vi, d-ii, e-i, f-iii",
+      "(2) a-iii, b-iv, c-v, d-vi, e-i, f-ii",
+      "(3) a-ii, b-iv, c-v, d-vi, e-ii, f-i",
+      "(4) a-v, b-iv, c-iii, d-vi, e-i, f-ii"
+    ],
+    "explanation": "(2) அ–iii, ஆ-iv, இ–v, ஈ–vi, உ– i, ஊ–ii",
+    "explanation_en": "(2) a-iii, b-iv, c-v, d-vi, e-i, f-ii"
+  },
+  {
+    "id": 29,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடுக்குக:",
+    "options": [
+      "(1) (i), (ii) மட்டும்",
+      "(2) (ii), (iii) மட்டும்",
+      "(3) (iv) மட்டும்",
+      "(4) (i),(ii) ,(iv) மட்டும்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct statement:",
+    "options_en": [
+      "(1) (i), (ii) only",
+      "(2) (ii), (iii) only",
+      "(3) (iv) only",
+      "(4) (i), (ii), (iv) only"
+    ],
+    "explanation": "(4) (i),(ii) ,(iv) மட்டும்",
+    "explanation_en": "(4) (i), (ii), (iv) only"
+  },
+  {
+    "id": 30,
+    "question": "கூற்று: ஒரு வெளிநாட்டவர் இந்தியாவில் தனது சமயத்தைப் பின்பற்றலாம்.\nகாரணம்: அரசியலமைப்பில் உறுதியளிக்கப்பட்டுள்ள சமய சுதந்திரம் இந்தியர்களுக்கு மட்டுமல்லாமல் வெளிநாட்டவருக்கும் உண்டு.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று, காரணம் இரண்டும் சரி, காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று, காரணம் இரண்டும் சரி, காரணம் கூற்றை விளக்கவில்லை."
+    ],
+    "correct": 1,
+    "question_en": "Assertion: A foreigner can practice their religion in India.\nReason: The freedom of religion guaranteed in the Constitution is available not only to Indians but also to foreigners.",
+    "options_en": [
+      "Assertion is correct, reason is wrong",
+      "Both assertion and reason are correct, reason explains the assertion",
+      "Assertion is wrong, reason is correct",
+      "Both assertion and reason are correct, reason does not explain the assertion"
+    ],
+    "explanation": "கூற்று, காரணம் இரண்டும் சரி, காரணம் கூற்றை விளக்குகிறது.",
+    "explanation_en": "Both assertion and reason are correct, reason explains the assertion"
+  },
+  {
+    "id": 31,
+    "question": "தவறான இணையைத் தேர்வு செய்க.",
+    "options": [
+      "தீன் இலாஹி - ஒரு புத்தகம்",
+      "கஜூராஹோ - இந்து கோவில்",
+      "அசோகர் - பாறைக் கல்வெட்டு",
+      "இக்பால் - கவிஞர்"
+    ],
+    "correct": 0,
+    "question_en": "Select the incorrect pair.",
+    "options_en": [
+      "Din-i-Ilahi - A book",
+      "Khajuraho - Hindu temple",
+      "Ashoka - Rock edict",
+      "Iqbal - Poet"
+    ],
+    "explanation": "தீன் இலாஹி - ஒரு புத்தகம்",
+    "explanation_en": "Din-i-Ilahi - A book"
+  },
+  {
+    "id": 32,
+    "question": "கூற்று: இந்தியாவில் சமயச்சார்பின்மை என்ற கொள்கை மிக்க மதிப்புள்ளதாகும்.\nகாரணம்: இந்தியா பல்வேறு சமயம் மற்றும் பன்முக கலாச்சாரம் கொண்ட நாடாகும்.",
+    "options": [
+      "கூற்று, காரணம் இரண்டும் சரி, காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று, காரணம் இரண்டும் சரி, காரணம் கூற்றை விளக்கவில்லை.",
+      "கூற்று தவறு, காரணம் சரி.",
+      "இரண்டும் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Assertion: The principle of secularism is highly valued in India.\nReason: India is a country with diverse religions and multiculturalism.",
+    "options_en": [
+      "Both assertion and reason are correct, reason explains the assertion.",
+      "Both assertion and reason are correct, reason does not explain the assertion.",
+      "Assertion is wrong, reason is correct.",
+      "Both are wrong."
+    ],
+    "explanation": "கூற்று, காரணம் இரண்டும் சரி, காரணம் கூற்றை விளக்குகிறது.",
+    "explanation_en": "Both assertion and reason are correct, reason explains the assertion."
+  },
+  {
+    "id": 33,
+    "question": "‘secularism’ என்ற பதத்தை உருவாக்கியவர் ________.",
+    "options": [
+      "கவிஞர் இக்பால்",
+      "ஜார்ஜ் ஜேக்கப் ஹோல்யோக்",
+      "கபீர்",
+      "சர் சையது அகமதுகான்"
+    ],
+    "correct": 1,
+    "question_en": "The term 'secularism' was coined by ________.",
+    "options_en": [
+      "Poet Iqbal",
+      "George Jacob Holyoake",
+      "Kabir",
+      "Sir Syed Ahmad Khan"
+    ],
+    "explanation": "‘secularism’ என்ற பதத்தை உருவாக்கியவர் ஜார்ஜ் ஜேக்கப் ஹோல்யோக்.",
+    "explanation_en": "The term 'secularism' was coined by George Jacob Holyoake."
+  },
+  {
+    "id": 34,
+    "question": "‘நாம் அனைவரும் இந்தியர்கள் மற்றும் இந்தியா நமது வீடு’ என்று கூறியவர் ________.",
+    "options": [
+      "கவிஞர் கண்ணதாசன்",
+      "பாரதியார்",
+      "கவிஞர் இக்பால்",
+      "மகாத்மா காந்தி"
+    ],
+    "correct": 2,
+    "question_en": "Who said 'We are all Indians and India is our home' ________.",
+    "options_en": [
+      "Poet Kannadasan",
+      "Bharathiyar",
+      "Poet Iqbal",
+      "Mahatma Gandhi"
+    ],
+    "explanation": "‘நாம் அனைவரும் இந்தியர்கள் மற்றும் இந்தியா நமது வீடு’ என்று கூறியவர் கவிஞர் இக்பால்.",
+    "explanation_en": "Who said 'We are all Indians and India is our home' Poet Iqbal."
+  },
+  {
+    "id": 35,
+    "question": "அனைத்து சமயத்தினரிடையே அமைதி மற்றும் நல்லிணக்கத்தை எடுத்தியம்பும் அக்பரின் கோட்பாடு ________.",
+    "options": [
+      "சுல் – இ – குல்",
+      "குல் – இ – சுல்",
+      "தீன் – இலாஹி",
+      "சு – இ – ஷாகி"
+    ],
+    "correct": 0,
+    "question_en": "Akbar's principle that advocated peace and harmony among all religions is ________.",
+    "options_en": [
+      "Sulh-i-kul",
+      "Kul-i-sulh",
+      "Din-i-Ilahi",
+      "Su-i-shahi"
+    ],
+    "explanation": "அனைத்து சமயத்தினரிடையே அமைதி மற்றும் நல்லிணக்கத்தை எடுத்தியம்பும் அக்பரின் கோட்பாடு சுல் – இ – குல்.",
+    "explanation_en": "Akbar's principle that advocated peace and harmony among all religions is Sulh-i-kul."
+  },
+  {
+    "id": 36,
+    "question": "“இந்தியா பல்வேறு நம்பிக்கைகளைச் சமமாக போற்றி மதிக்கப்படும் இடமாக இருப்பதோடு ஒரே தேசியக் கண்ணோட்டத்தைக் கொண்டிருக்கும்” எனக் கூறியவர் ________.",
+    "options": [
+      "மகாத்மா காந்தி",
+      "இரவீந்திரநாத் தாகூர்",
+      "ஜவகர்லால் நேரு",
+      "இராஜாராம் மோகன்ராய்"
+    ],
+    "correct": 2,
+    "question_en": "Who said, \"India will be a land of many faiths, equally honoured and respected, but of one national outlook\" ________.",
+    "options_en": [
+      "Mahatma Gandhi",
+      "Rabindranath Tagore",
+      "Jawaharlal Nehru",
+      "Raja Ram Mohan Roy"
+    ],
+    "explanation": "“இந்தியா பல்வேறு நம்பிக்கைகளைச் சமமாக போற்றி மதிக்கப்படும் இடமாக இருப்பதோடு ஒரே தேசியக் கண்ணோட்டத்தைக் கொண்டிருக்கும்” எனக் கூறியவர் ஜவகர்லால் நேரு.",
+    "explanation_en": "Who said, \"India will be a land of many faiths, equally honoured and respected, but of one national outlook\" Jawaharlal Nehru."
+  },
+  {
+    "id": 37,
+    "question": "சமண சமயம் தோன்றிய நாடு ________.",
+    "options": [
+      "சீனா",
+      "இலங்கை",
+      "இந்தியா",
+      "மலேசியா"
+    ],
+    "correct": 2,
+    "question_en": "The country where Jainism originated is ________.",
+    "options_en": [
+      "China",
+      "Sri Lanka",
+      "India",
+      "Malaysia"
+    ],
+    "explanation": "சமண சமயம் தோன்றிய நாடு இந்தியா.",
+    "explanation_en": "The country where Jainism originated is India."
+  },
+  {
+    "id": 38,
+    "question": "பல்வேறு சமயங்களைச் சார்ந்த கூறுகள் தன்னுடைய கல்லறையில் இடம்பெற வேண்டுமென வலியுறுத்திய முகலாய அரசர் _________.",
+    "options": [
+      "பாபர்",
+      "ஒளரங்கசீப்",
+      "ஷாஜகான்",
+      "அக்பர்"
+    ],
+    "correct": 3,
+    "question_en": "The Mughal emperor who insisted that elements of various religions should be featured in his tomb was _________.",
+    "options_en": [
+      "Babur",
+      "Aurangzeb",
+      "Shah Jahan",
+      "Akbar"
+    ],
+    "explanation": "பல்வேறு சமயங்களைச் சார்ந்த கூறுகள் தன்னுடைய கல்லறையில் இடம்பெற வேண்டுமென வலியுறுத்திய முகலாய அரசர் அக்பர்.",
+    "explanation_en": "The Mughal emperor who insisted that elements of various religions should be featured in his tomb was Akbar."
+  },
+  {
+    "id": 39,
+    "question": "சமயச்சார்பற்ற கல்வியின் நோக்கங்கள் _________.",
+    "options": [
+      "குறுகிய மனப்பான்மையைப் போக்குதல்",
+      "வாழ்க்கை குறித்த பரந்த பார்வையை அளித்தல்",
+      "தார்மீக மற்றும் மனிதநேய பார்வையை உருவாக்குதல்",
+      "இவை அனைத்தும்."
+    ],
+    "correct": 3,
+    "question_en": "The objectives of secular education are _________.",
+    "options_en": [
+      "To remove narrow-mindedness",
+      "To provide a broader vision of life",
+      "To develop a moral and humanistic outlook",
+      "All of these."
+    ],
+    "explanation": "சமயச்சார்பற்ற கல்வியின் நோக்கங்கள் இவை அனைத்தும்..",
+    "explanation_en": "The objectives of secular education are All of these.."
+  },
+  {
+    "id": 40,
+    "question": "அரசானது எந்த ஒரு மதத்தைச் சார்ந்த பிரிவினருக்கும் எதிராக குற்றம் சாட்டாது என்று அறிவித்த முதல் பேரரசர் ________.",
+    "options": [
+      "ஹர்ஷர்",
+      "அசோகர்",
+      "சிவாஜி",
+      "அக்பர்"
+    ],
+    "correct": 1,
+    "question_en": "The first emperor to declare that the state would not prosecute any religious sect was ________.",
+    "options_en": [
+      "Harsha",
+      "Ashoka",
+      "Shivaji",
+      "Akbar"
+    ],
+    "explanation": "அரசானது எந்த ஒரு மதத்தைச் சார்ந்த பிரிவினருக்கும் எதிராக குற்றம் சாட்டாது என்று அறிவித்த முதல் பேரரசர் அசோகர்.",
+    "explanation_en": "The first emperor to declare that the state would not prosecute any religious sect was Ashoka."
+  },
+  {
+    "id": 41,
+    "question": "இந்திய அரசியலமைப்பில் மேற்கொள்ளப்பட்ட முகவுரையில் \"சமயச் சார்பற்ற\" என்ற சொல் எந்தச் சட்டத் திருத்தத்தின் மூலம் சேர்க்கப்பட்டது?",
+    "options": [
+      "42-வது",
+      "44-வது",
+      "61-வது",
+      "103-வது"
+    ],
+    "correct": 0,
+    "question_en": "Through which amendment was the word \"secular\" added to the Preamble of the Indian Constitution?",
+    "options_en": [
+      "42nd",
+      "44th",
+      "61st",
+      "103rd"
+    ],
+    "explanation": "42-வது",
+    "explanation_en": "42nd"
+  },
+  {
+    "id": 42,
+    "question": "பிரிவு 26 குறிப்பது _________.",
+    "options": [
+      "பொது வேலைவாய்ப்பில் சமமான வாய்ப்பளித்தல்",
+      "சமய விவகாரங்களை நிர்வகிக்கும் சுதந்திரம்",
+      "அரசு உதவி பெறும் கல்வி நிறுவனங்களில் பாகுபாடு காட்டத் தடை.",
+      "சில கல்வி நிறுவனங்களில் சமய வழிபாடு நிகழ்ச்சிகளில் கலந்து கொள்ளாமல் இருக்கும் உரிமை."
+    ],
+    "correct": 1,
+    "question_en": "Article 26 refers to _________.",
+    "options_en": [
+      "Equality of opportunity in matters of public employment",
+      "Freedom to manage religious affairs",
+      "Prohibition of discrimination in state-aided educational institutions.",
+      "Right to not attend religious worship in certain educational institutions."
+    ],
+    "explanation": "பிரிவு 26 குறிப்பது சமய விவகாரங்களை நிர்வகிக்கும் சுதந்திரம்.",
+    "explanation_en": "Article 26 refers to Freedom to manage religious affairs."
+  }
+]

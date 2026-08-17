@@ -1,0 +1,2845 @@
+[
+  {
+    "id": 1,
+    "question": "புவியில் அனைத்து இடங்களிலும், அனைத்து காலங்களிலும் காணப்படுவது ________.",
+    "options": [
+      "காற்று",
+      "நீர்",
+      "மண்",
+      "சூரிய ஒளி"
+    ],
+    "correct": 0,
+    "explanation": "புவியில் அனைத்து இடங்களிலும், அனைத்து காலங்களிலும் காணப்படுவது காற்று.",
+    "question_en": "________ is found everywhere and at all times on earth.",
+    "options_en": [
+      "wind",
+      "Water",
+      "Soil",
+      "sunlight"
+    ],
+    "explanation_en": "wind is found everywhere and at all times on earth."
+  },
+  {
+    "id": 2,
+    "question": "வெற்று (காலி) பாத்திரத்தில் உள்ளது எது?",
+    "options": [
+      "காற்று",
+      "நீர்",
+      "மண்",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "explanation": "வெற்று (காலி) பாத்திரத்தில் உள்ளது காற்று ஆகும்.",
+    "question_en": "What is in the empty vessel?",
+    "options_en": [
+      "wind",
+      "Water",
+      "Soil",
+      "Everything"
+    ],
+    "explanation_en": "Wind is in the empty vessel."
+  },
+  {
+    "id": 3,
+    "question": "புவி மேலோட்டைச்சுற்றி அனைத்து திசைகளிலும் சுமார் ________ கிமீ காற்று பரவியுள்ளது.",
+    "options": [
+      "80",
+      "800",
+      "8000",
+      "80000"
+    ],
+    "correct": 1,
+    "explanation": "புவி மேலோட்டைச்சுற்றி அனைத்து திசைகளிலும் சுமார் 800 கிமீ காற்று பரவியுள்ளது.",
+    "question_en": "Wind spreads about ________ km in all directions around the Earth's crust.",
+    "options_en": [
+      "80",
+      "800",
+      "8000",
+      "80000"
+    ],
+    "explanation_en": "Wind spreads about 800 km in all directions around the Earth's crust."
+  },
+  {
+    "id": 4,
+    "question": "புவியைச் சூழ்ந்துள்ள காற்று உறை ________.",
+    "options": [
+      "அடி வளிமண்டலம்",
+      "அயனி மண்டலம்",
+      "புற வளிமண்டலம்",
+      "வளிமண்டலம்"
+    ],
+    "correct": 3,
+    "explanation": "புவியைச் சூழ்ந்துள்ள காற்று உறை வளிமண்டலம்.",
+    "question_en": "The air envelope that surrounds the earth is ________.",
+    "options_en": [
+      "ft. atmosphere",
+      "ionic zone",
+      "External atmosphere",
+      "Atmosphere"
+    ],
+    "explanation_en": "The air envelope that surrounds the earth is Atmosphere."
+  },
+  {
+    "id": 5,
+    "question": "வளிமண்டல அடுக்குகள் ________.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "வளிமண்டல அடுக்குகள் 5.",
+    "question_en": "Atmospheric layers ________.",
+    "options_en": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation_en": "Atmospheric layers 5."
+  },
+  {
+    "id": 6,
+    "question": "பொருத்துக.\na) அடி வளிமண்டலம் - i) Stratosphere\nb) அடுக்கு வளிமண்டலம் - ii) Exosphere\nc) இடை வளிமண்டலம் - iii) Troposphere\nd) புற வளிமண்டலம் - iv) Mesosphere\ne) அயனி மண்டலம் - v) Ionosphere",
+    "options": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e - v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "correct": 1,
+    "explanation": "a – iii b – i c – iv d – ii e - v",
+    "question_en": "match\na) Lower atmosphere - i) Stratosphere\nb) Stratosphere - ii) Exosphere\nc) Middle atmosphere - iii) Troposphere\nd) Outer atmosphere - iv) Mesosphere\ne) Ionosphere - v) Ionosphere",
+    "options_en": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e – v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "explanation_en": "a – iii b – i c – iv d – ii e – v"
+  },
+  {
+    "id": 7,
+    "question": "புவியைச் சுற்றி காற்றின் அடர்த்தி அதிகமாக உள்ள பகுதி ________.",
+    "options": [
+      "அடி வளிமண்டலம்",
+      "அயனி மண்டலம்",
+      "புற வளிமண்டலம்",
+      "வளிமண்டலம்"
+    ],
+    "correct": 0,
+    "explanation": "புவியைச் சுற்றி காற்றின் அடர்த்தி அதிகமாக உள்ள பகுதி அடி வளிமண்டலம்.",
+    "question_en": "The area around the Earth where the air is densest is ________.",
+    "options_en": [
+      "ft. atmosphere",
+      "ionic zone",
+      "External atmosphere",
+      "Atmosphere"
+    ],
+    "explanation_en": "The area around the Earth where the air is densest is ft. atmosphere."
+  },
+  {
+    "id": 8,
+    "question": "காற்றின் இயக்கம் அதிகம் காணப்படும் வளிமண்டல அடுக்கு ________.",
+    "options": [
+      "அடி வளிமண்டலம்",
+      "அயனி மண்டலம்",
+      "புற வளிமண்டலம்",
+      "வளிமண்டலம்"
+    ],
+    "correct": 0,
+    "explanation": "காற்றின் இயக்கம் அதிகம் காணப்படும் வளிமண்டல அடுக்கு அடி வளிமண்டலம்.",
+    "question_en": "The layer of the atmosphere where most of the air movement occurs is the ________.",
+    "options_en": [
+      "ft. atmosphere",
+      "ionic zone",
+      "External atmosphere",
+      "Atmosphere"
+    ],
+    "explanation_en": "The layer of the atmosphere where most of the air movement occurs is the ft. atmosphere."
+  },
+  {
+    "id": 9,
+    "question": "வானூர்தி பயணிக்கும் வளிமண்டல அடுக்கு ________",
+    "options": [
+      "அடி வளிமண்டலம்",
+      "அயனி மண்டலம்",
+      "அடுக்கு வளிமண்டலம்",
+      "புற வளிமண்டலம்"
+    ],
+    "correct": 2,
+    "explanation": "வானூர்தி பயணிக்கும் வளிமண்டல அடுக்கு அடுக்கு வளிமண்டலம்",
+    "question_en": "The layer of atmosphere through which an airplane travels is ________",
+    "options_en": [
+      "ft. atmosphere",
+      "ionic zone",
+      "Stratified atmosphere",
+      "External atmosphere"
+    ],
+    "explanation_en": "The layer of atmosphere through which an airplane travels is Stratified atmosphere"
+  },
+  {
+    "id": 10,
+    "question": "ஓசோன் படலம் காணப்படும் அடுக்கு ________.",
+    "options": [
+      "அடி வளிமண்டலம்",
+      "அயனி மண்டலம்",
+      "அடுக்கு வளிமண்டலம்",
+      "புற வளிமண்டலம்"
+    ],
+    "correct": 2,
+    "explanation": "ஓசோன் படலம் காணப்படும் அடுக்கு அடுக்கு வளிமண்டலம்.",
+    "question_en": "The layer where the ozone layer is found is ________.",
+    "options_en": [
+      "ft. atmosphere",
+      "ionic zone",
+      "Stratified atmosphere",
+      "External atmosphere"
+    ],
+    "explanation_en": "The layer where the ozone layer is found is Stratified atmosphere."
+  },
+  {
+    "id": 11,
+    "question": "காற்று வீசும் திசையைக் காட்டும் கருவி ________.",
+    "options": [
+      "திசைகாட்டி",
+      "காற்று திசைகாட்டி",
+      "காற்றாலை",
+      "ஏரோ மீட்டர்"
+    ],
+    "correct": 1,
+    "explanation": "காற்று வீசும் திசையைக் காட்டும் கருவி காற்று திசைகாட்டி.",
+    "question_en": "An instrument that shows wind direction is ________.",
+    "options_en": [
+      "Compass",
+      "Wind compass",
+      "windmill",
+      "Aero meter"
+    ],
+    "explanation_en": "An instrument that shows wind direction is Wind compass."
+  },
+  {
+    "id": 12,
+    "question": "காற்றின் வேகத்தை அளவிடும் கருவி ________.",
+    "options": [
+      "ஓடோமீட்டர்",
+      "ஸ்பீடோ மீட்டர்",
+      "அனிமோ மீட்டர்",
+      "ஏரோ மீட்டர்"
+    ],
+    "correct": 2,
+    "explanation": "காற்றின் வேகத்தை அளவிடும் கருவி அனிமோ மீட்டர்.",
+    "question_en": "An instrument that measures wind speed is ________.",
+    "options_en": [
+      "Odometer",
+      "Speedometer",
+      "Animo meter",
+      "Aero meter"
+    ],
+    "explanation_en": "An instrument that measures wind speed is Animo meter."
+  },
+  {
+    "id": 13,
+    "question": "காற்று என்பது ஓர் ________.",
+    "options": [
+      "தனிமம்",
+      "சேர்மம்",
+      "கலவை",
+      "தூய பொருள்"
+    ],
+    "correct": 2,
+    "explanation": "காற்று என்பது ஓர் கலவை.",
+    "question_en": "Air is a ________.",
+    "options_en": [
+      "the element",
+      "compound",
+      "composition",
+      "pure substance"
+    ],
+    "explanation_en": "Air is a composition."
+  },
+  {
+    "id": 14,
+    "question": "தாவரங்கள் ஒளிச்சேர்க்கை செய்ய சூரிய ஒளி அவசியம் என்பதை நிரூபித்தவர் ________.",
+    "options": [
+      "லவாய்சியர்",
+      "ஜோசப் ஃபிரீஸ்ட்லீ",
+      "ஜான் இன்ஜென்ஹவுஸ்",
+      "ஹேபர்"
+    ],
+    "correct": 2,
+    "explanation": "தாவரங்கள் ஒளிச்சேர்க்கை செய்ய சூரிய ஒளி அவசியம் என்பதை நிரூபித்தவர் ஜான் இன்ஜென்ஹவுஸ்.",
+    "question_en": "________ who proved that sunlight is necessary for plants to undergo photosynthesis.",
+    "options_en": [
+      "Lavoisier",
+      "Joseph Freistlee",
+      "John Ingenhaus",
+      "Haber"
+    ],
+    "explanation_en": "John Ingenhaus who proved that sunlight is necessary for plants to undergo photosynthesis."
+  },
+  {
+    "id": 15,
+    "question": "காற்று ஓர் அடிப்படைப் பொருள் அல்ல. அது ஓர் கலவை என்பதை சோதனை மூலம் நிரூபித்தவர் ________.",
+    "options": [
+      "லவாய்சியர்",
+      "ஜோசப் ஃபிரீஸ்ட்லீ",
+      "டேனியல் ரூதர்ஃபோர்டு",
+      "ஷீலே"
+    ],
+    "correct": 1,
+    "explanation": "காற்று ஓர் அடிப்படைப் பொருள் அல்ல. அது ஓர் கலவை என்பதை சோதனை மூலம் நிரூபித்தவர் ஜோசப் ஃபிரீஸ்ட்லீ.",
+    "question_en": "Air is not a basic substance. It was experimentally proved that it was a compound by ________.",
+    "options_en": [
+      "Lavoisier",
+      "Joseph Freistlee",
+      "Daniel Rutherford",
+      "Sheila"
+    ],
+    "explanation_en": "Air is not a basic substance. It was experimentally proved that it was a compound by Joseph Freistlee."
+  },
+  {
+    "id": 16,
+    "question": "ஆக்ஸிஜனைத் தீக்காற்று என அழைத்தவர் ________.",
+    "options": [
+      "லவாய்சியர்",
+      "ஜோசப் ஃபிரீஸ்ட்லீ",
+      "டேனியல் ரூதர்ஃபோர்டு",
+      "ஷீலே"
+    ],
+    "correct": 3,
+    "explanation": "ஆக்ஸிஜனைத் தீக்காற்று என அழைத்தவர் ஷீலே.",
+    "question_en": "Oxygen was called the air of fire by ________.",
+    "options_en": [
+      "Lavoisier",
+      "Joseph Freistlee",
+      "Daniel Rutherford",
+      "Sheila"
+    ],
+    "explanation_en": "Oxygen was called the air of fire by Sheila."
+  },
+  {
+    "id": 17,
+    "question": "ஆக்ஸிஜன் எனப் பெயரிட்டவர் ________.",
+    "options": [
+      "லவாய்சியர்",
+      "ஜோசப் ஃபிரீஸ்ட்லீ",
+      "டேனியல் ரூதர்ஃபோர்டு",
+      "ஷீலே"
+    ],
+    "correct": 0,
+    "explanation": "ஆக்ஸிஜன் எனப் பெயரிட்டவர் லவாய்சியர்.",
+    "question_en": "Oxygen was named by ________.",
+    "options_en": [
+      "Lavoisier",
+      "Joseph Freistlee",
+      "Daniel Rutherford",
+      "Sheila"
+    ],
+    "explanation_en": "Oxygen was named by Lavoisier."
+  },
+  {
+    "id": 18,
+    "question": "ஆக்ஸிஜனின் பெயர்க் காரணம் ________.",
+    "options": [
+      "உப்பு உருவாக்கி",
+      "அமில உருவாக்கி",
+      "கார உருவாக்கி",
+      "ஈரணு மூலக்கூறு"
+    ],
+    "correct": 1,
+    "explanation": "ஆக்ஸிஜனின் பெயர்க் காரணம் அமில உருவாக்கி.",
+    "question_en": "Oxygen is named because ________.",
+    "options_en": [
+      "Making salt",
+      "Acid forming",
+      "Alkaline generator",
+      "Nuclear molecule"
+    ],
+    "explanation_en": "Oxygen is named because Acid forming."
+  },
+  {
+    "id": 19,
+    "question": "காற்றிலிருந்து நைட்ரஜனை முதன்முதலில் பிரித்தெடுத்தவர் யார்?",
+    "options": [
+      "லவாய்சியர்",
+      "ஜோசப் ஃபிரீஸ்ட்லீ",
+      "டேனியல் ரூதர்ஃபோர்டு",
+      "ஷீலே"
+    ],
+    "correct": 2,
+    "explanation": "காற்றிலிருந்து நைட்ரஜனை முதன்முதலில் பிரித்தெடுத்தவர் டேனியல் ரூதர்ஃபோர்டு.",
+    "question_en": "Who was the first to extract nitrogen from air?",
+    "options_en": [
+      "Lavoisier",
+      "Joseph Freistlee",
+      "Daniel Rutherford",
+      "Sheila"
+    ],
+    "explanation_en": "Daniel Rutherford"
+  },
+  {
+    "id": 20,
+    "question": "காற்றில் நைட்ரஜன் உள்ளதை சோதனை மூலம் நிரூபித்தவர் ________.",
+    "options": [
+      "லவாய்சியர்",
+      "ஜோசப் ஃபிரீஸ்ட்லீ",
+      "டேனியல் ரூதர்ஃபோர்டு",
+      "ஷீலே"
+    ],
+    "correct": 0,
+    "explanation": "காற்றில் நைட்ரஜன் உள்ளதை சோதனை மூலம் நிரூபித்தவர் லவாய்சியர்.",
+    "question_en": "The presence of nitrogen in air was experimentally proved by ________.",
+    "options_en": [
+      "Lavoisier",
+      "Joseph Freistlee",
+      "Daniel Rutherford",
+      "Sheila"
+    ],
+    "explanation_en": "The presence of nitrogen in air was experimentally proved by Lavoisier."
+  },
+  {
+    "id": 21,
+    "question": "பொருத்துக.\na) லவாய்சியர் - i) காற்று\nb) ஜோசப் ஃபிரீஸ்ட்லீ - ii) தீக்காற்று\nc) டேனியல் ரூதர்ஃபோர்டு - iii) ஆக்ஸிஜன்\nd) ஷீலே - iv) நைட்ரஜன்\ne) ஜான் இன்ஜென்ஹவுஸ் - v) சூரிய ஒளி",
+    "options": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e - v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e - v"
+    ],
+    "correct": 1,
+    "explanation": "a – iii b – i c – iv d – ii e - v",
+    "question_en": "match\na) Lavoisier – i) Air\nb) Joseph Freistlee - ii) Wind of Fire\nc) Daniel Rutherford – iii) Oxygen\nd) Scheele – iv) Nitrogen\ne) John Ingenhaus - v) Sunshine",
+    "options_en": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e – v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "explanation_en": "a – iii b – i c – iv d – ii e – v"
+  },
+  {
+    "id": 22,
+    "question": "ஒளிச்சேர்க்கையின் பொழுது வெளிவரும் வாயு ________.",
+    "options": [
+      "ஹைட்ரஜன்",
+      "மீத்தேன்",
+      "நைட்ரஜன்",
+      "ஆக்ஸிஜன்"
+    ],
+    "correct": 3,
+    "explanation": "ஒளிச்சேர்க்கையின் பொழுது வெளிவரும் வாயு ஆக்ஸிஜன்.",
+    "question_en": "The gas released during photosynthesis is ________.",
+    "options_en": [
+      "Hydrogen",
+      "Methane",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "explanation_en": "The gas released during photosynthesis is Oxygen."
+  },
+  {
+    "id": 23,
+    "question": "பொருத்துக.\na) H2 - i) ஹீலியம்\nb) He - ii) ஆக்ஸிஜன்\nc) CO2 - iii) நைட்ரஜன்\nd) N2 - iv) ஹைட்ரஜன்\ne) O2 - v) கார்பன் டை ஆக்ஸைடு",
+    "options": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e - v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – iv b – i c – v d – iii e – ii"
+    ],
+    "correct": 2,
+    "explanation": "a – iv b – i c – v d – iii e – ii",
+    "question_en": "match\na) H2 – i) Helium\nb) He – ii) Oxygen\nc) CO2 – iii) Nitrogen\nd) N2 – iv) Hydrogen\ne) O2 - v) Carbon dioxide",
+    "options_en": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e – v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – iv b – i c – v d – iii e – ii"
+    ],
+    "explanation_en": "a – iv b – i c – v d – iii e – ii"
+  },
+  {
+    "id": 24,
+    "question": "இரும்பு துருப்பிடிக்க ________ தேவை",
+    "options": [
+      "நீர், சூரிய ஒளி",
+      "நீர், ஆக்ஸிஜன்",
+      "சூரிய ஒளி, மீத்தேன்",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "explanation": "இரும்பு துருப்பிடிக்க நீர், ஆக்ஸிஜன் தேவை",
+    "question_en": "Iron requires ________ to rust",
+    "options_en": [
+      "Water, sunlight",
+      "Water, oxygen",
+      "Sunlight, methane",
+      "Everything"
+    ],
+    "explanation_en": "Iron requires Water, oxygen to rust"
+  },
+  {
+    "id": 25,
+    "question": "பொருத்துக.\na) ஆக்ஸிஜன் - i) 78.09 %\nb) நைட்ரஜன் - ii) < 1 %\nc) நீராவி, தூசு - iii) 0.03 % (0.04 %)\nd) கார்பன் டை ஆக்ஸைடு - iv) 20.95 %",
+    "options": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d – ii",
+      "a – iv b – i c – ii d – iii",
+      "a – i b – iii c – iv d – ii"
+    ],
+    "correct": 2,
+    "explanation": "a – iv b – i c – ii d – iii",
+    "question_en": "match\na) Oxygen – i) 78.09 %\nb) Nitrogen – ii) < 1 %\nc) Vapor, dust - iii) 0.03 % (0.04 %)\nd) Carbon Dioxide – iv) 20.95 %",
+    "options_en": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d – ii",
+      "a – iv b – i c – ii d – iii",
+      "a – i b – iii c – iv d – ii"
+    ],
+    "explanation_en": "a – iv b – i c – ii d – iii"
+  },
+  {
+    "id": 26,
+    "question": "காற்றில் உள்ள ________ மற்றும் ________ வாயுக்களின் கூடுதல் காற்றின் 99 % இயைபாகிறது.",
+    "options": [
+      "நைட்ரஜன், ஹைட்ரஜன்",
+      "நைட்ரஜன், ஆக்ஸிஜன்",
+      "ஹைட்ரஜன், ஆக்ஸிஜன்",
+      "ஹைட்ரஜன், ஓசோன்"
+    ],
+    "correct": 1,
+    "explanation": "காற்றில் உள்ள நைட்ரஜன், ஆக்ஸிஜன் மற்றும் நைட்ரஜன், ஆக்ஸிஜன் வாயுக்களின் கூடுதல் காற்றின் 99 % இயைபாகிறது.",
+    "question_en": "99% of the excess of ________ and ________ gases in the air is vapor.",
+    "options_en": [
+      "Nitrogen, Hydrogen",
+      "Nitrogen, Oxygen",
+      "Hydrogen, oxygen",
+      "Hydrogen, Ozone"
+    ],
+    "explanation_en": "99% of the excess of Nitrogen, Oxygen and Nitrogen, Oxygen gases in the air is vapor."
+  },
+  {
+    "id": 27,
+    "question": "இன்ஜென்ஹவுஸ் சோதனையின்படி எப்படத்தில் ஆக்ஸிஜன் இருக்க வாய்ப்புள்ளது?",
+    "image": "image/unit21/q27.PNG",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "correct": 3,
+    "explanation": "d",
+    "question_en": "According to the Ingenhaus experiment, oxygen is likely to be present in which of the following?",
+    "options_en": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation_en": "d"
+  },
+  {
+    "id": 28,
+    "question": "படத்தில் அ என குறிப்பிட்ட பகுதி காற்றிலுள்ள எந்த வாயுவைக் குறிக்கிறது?",
+    "image": "image/unit21/q28.PNG",
+    "options": [
+      "ஹைட்ரஜன்",
+      "மீத்தேன்",
+      "நைட்ரஜன்",
+      "ஆக்ஸிஜன்"
+    ],
+    "correct": 2,
+    "explanation": "நைட்ரஜன்",
+    "question_en": "Which gas in air is represented by the area marked as a in the figure?",
+    "options_en": [
+      "Hydrogen",
+      "Methane",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "explanation_en": "Nitrogen"
+  },
+  {
+    "id": 29,
+    "question": "படத்தில் நீர்மட்டம் உயர்ந்து காணப்படக் காரணம் எது?",
+    "image": "image/unit21/q29.PNG",
+    "options": [
+      "இரும்பு துருப்பிடிக்க காற்றைப் பயன்படுத்தியதால் ஏற்படும் வெற்றிடத்தை நிரப்ப வெளிக்காற்று நீரை அழுத்தி நீர்மட்டத்தை உயரச் செய்கிறது.",
+      "இரும்பு துருப்பிடிக்க கார்பன் டை ஆக்ஸைடைப் பயன்படுத்தியதால் ஏற்படும் குறைவழுத்தத்தை நிரப்ப வெளிக்காற்று நீரை அழுத்தி நீர்மட்டத்தை உயரச் செய்கிறது.",
+      "இரும்பு துருப்பிடிக்க ஆக்ஸிஜனைப் பயன்படுத்தியதால் ஏற்படும் குறைவழுத்தத்தை நிரப்ப வெளிக்காற்று நீரை அழுத்தி நீர்மட்டத்தை உயரச் செய்கிறது.",
+      "இரும்பு துருப்பிடிக்க நைட்ரஜனைப் பயன்படுத்தியதால் ஏற்படும் குறைவழுத்தத்தை நிரப்ப வெளிக்காற்று நீரை அழுத்தி நீர்மட்டத்தை உயரச் செய்கிறது."
+    ],
+    "correct": 2,
+    "explanation": "படத்தில் நீர்மட்டம் உயர்ந்து காணப்படக் காரணம் இரும்பு துருப்பிடிக்க ஆக்ஸிஜனைப் பயன்படுத்தியதால் ஏற்படும் குறைவழுத்தத்தை நிரப்ப வெளிக்காற்று நீரை அழுத்தி நீர்மட்டத்தை உயரச் செய்கிறது. ஆகும்.",
+    "question_en": "What is the reason for the rising water level in the picture?",
+    "options_en": [
+      "The outside air compresses the water to fill the vacuum created by using air to rust the iron, causing the water level to rise.",
+      "The outside air compresses the water and raises the water level to fill the vacuum caused by using carbon dioxide to rust the iron.",
+      "The outside air compresses the water and raises the water level to fill the vacuum caused by the use of oxygen to rust the iron.",
+      "The outside air compresses the water and raises the water level to fill the vacuum caused by the use of nitrogen to rust the iron."
+    ],
+    "explanation_en": "The outside air compresses the water and raises the water level to fill the vacuum caused by the use of oxygen to rust the iron. is the reason for the rising water level in the picture."
+  },
+  {
+    "id": 30,
+    "question": "காற்றிலுள்ள தூசுப் பொருள்களை அளவிட நமக்கு உதவுவது எது?",
+    "options": [
+      "வெள்ளைத்தாள்",
+      "வரைபடத்தாள்",
+      "வண்ணத்தாள்",
+      "நெகிழித்தாள்"
+    ],
+    "correct": 1,
+    "explanation": "காற்றிலுள்ள தூசுப் பொருள்களை அளவிட நமக்கு உதவுவது வரைபடத்தாள் ஆகும்.",
+    "question_en": "What helps us measure dust particles in the air?",
+    "options_en": [
+      "white paper",
+      "Map sheet",
+      "coloring paper",
+      "She was flexible"
+    ],
+    "explanation_en": "Map sheet"
+  },
+  {
+    "id": 31,
+    "question": "பனிக்கட்டி உள்ள முகவையின் வெளிப்புறத்தில் நீர்த் திவலைகள் காணப்படக் காரணம் எது?",
+    "options": [
+      "பனிக்கட்டி உருகி நீர்த் திவலைகளாக காட்சி தருகிறது.",
+      "காற்றிலுள்ள நீராவி சுருங்கி நீர்த் திவலைகளாக காட்சி தருகிறது.",
+      "பனி கடுமையாகப் பொழியும் பொழுது இவ்வாறு நிகழும்.",
+      "பனிக்கட்டியிலிருந்து வெப்பம் வெளியேறுவதால் இவ்வாறு நிகழும்."
+    ],
+    "correct": 1,
+    "explanation": "பனிக்கட்டி உள்ள முகவையின் வெளிப்புறத்தில் நீர்த் திவலைகள் காணப்படக் காரணம் காற்றிலுள்ள நீராவி சுருங்கி நீர்த் திவலைகளாக காட்சி தருகிறது. ஆகும்.",
+    "question_en": "What causes water droplets to appear on the outside of an icy crater?",
+    "options_en": [
+      "The ice melts and forms waterfalls.",
+      "The water vapor in the air condenses and forms water droplets.",
+      "This happens when it snows heavily.",
+      "This happens due to heat escaping from the ice."
+    ],
+    "explanation_en": "The water vapor in the air condenses and forms water droplets."
+  },
+  {
+    "id": 32,
+    "question": "எரியும் மெழுகுவர்த்தியானது ஒரு குவளையால் மூடும் பொழுது அணையக் காரணம் எது?",
+    "options": [
+      "ஆக்ஸிஜன் முழுவதும் கார்பன் டை ஆக்ஸைடாக மாற்றப்படுவதால்",
+      "ஆக்ஸிஜன் முழுவதும் நைட்ரஜன் டை ஆக்ஸைடாக மாற்றப்படுவதால்",
+      "கார்பன் டை ஆக்ஸைடு முழுவதும் ஆக்ஸிஜனாக மாற்றப்படுவதால்",
+      "நைட்ரஜன் டை ஆக்ஸைடு முழுவதும் ஆக்ஸிஜனாக மாற்றப்படுவதால்"
+    ],
+    "correct": 0,
+    "explanation": "எரியும் மெழுகுவர்த்தியானது ஒரு குவளையால் மூடும் பொழுது அணையக் காரணம் ஆக்ஸிஜன் முழுவதும் கார்பன் டை ஆக்ஸைடாக மாற்றப்படுவதால் ஆகும்.",
+    "question_en": "What is the cause of burning candle when covered by a glass?",
+    "options_en": [
+      "As oxygen is completely converted to carbon dioxide",
+      "As all the oxygen is converted to nitrogen dioxide",
+      "As carbon dioxide is completely converted to oxygen",
+      "As nitrogen dioxide is completely converted to oxygen"
+    ],
+    "explanation_en": "As oxygen is completely converted to carbon dioxide is the cause of burning candle when covered by a glass."
+  },
+  {
+    "id": 33,
+    "question": "ஆக்ஸிஜனைப் பற்றிய சரியான கூற்று எது?",
+    "options": [
+      "ஆக்ஸிஜன் எரியும்.",
+      "இரும்பு துருப்பிடிக்க ஆக்ஸிஜன் தேவையில்லை",
+      "ஆக்ஸிஜன் எரிவதற்கு துணை புரியும்.",
+      "ஆக்ஸிஜன் எரிவதற்கு துணை புரியாது."
+    ],
+    "correct": 2,
+    "explanation": "ஆக்ஸிஜன் எரிவதற்கு துணை புரியும்.",
+    "question_en": "Which statement is correct about oxygen?",
+    "options_en": [
+      "Oxygen burns.",
+      "Iron does not need oxygen to rust",
+      "Oxygen aids in combustion.",
+      "Oxygen does not support combustion."
+    ],
+    "explanation_en": "Oxygen aids in combustion."
+  },
+  {
+    "id": 34,
+    "question": "வளிமண்டல உயர் அடுக்குகளில் ________ குறைவாக இருப்பதால், எரிபொருளுடன் இதனையும் சேர்த்தே ராக்கெட்டை விண்ணில் செலுத்துகிறோம்.",
+    "options": [
+      "ஹைட்ரஜன்",
+      "மீத்தேன்",
+      "நைட்ரஜன்",
+      "ஆக்ஸிஜன்"
+    ],
+    "correct": 3,
+    "explanation": "வளிமண்டல உயர் அடுக்குகளில் ஆக்ஸிஜன் குறைவாக இருப்பதால், எரிபொருளுடன் இதனையும் சேர்த்தே ராக்கெட்டை விண்ணில் செலுத்துகிறோம்.",
+    "question_en": "As there is less ________ in the upper atmosphere, we use this with the fuel to launch the rocket.",
+    "options_en": [
+      "Hydrogen",
+      "Methane",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "explanation_en": "As there is less Oxygen in the upper atmosphere, we use this with the fuel to launch the rocket."
+  },
+  {
+    "id": 35,
+    "question": "எரிதல் என்பது ஆக்ஸிஜன் முன்னிலையில் ________ , ________ ஐ வெளிப்படுத்தும் நிகழ்வாகும்.",
+    "options": [
+      "ஒளி, ஒலி",
+      "ஒலி, வெப்பம்",
+      "ஒளி, வெப்பம்",
+      "ஒலி, ஆக்ஸிஜன்"
+    ],
+    "correct": 2,
+    "explanation": "எரிதல் என்பது ஆக்ஸிஜன் முன்னிலையில் ஒளி, வெப்பம் , ஒளி, வெப்பம் ஐ வெளிப்படுத்தும் நிகழ்வாகும்.",
+    "question_en": "Combustion is a phenomenon in which ________ , ________ in the presence of oxygen.",
+    "options_en": [
+      "Light, sound",
+      "Sound, heat",
+      "Light, heat",
+      "Sound, oxygen"
+    ],
+    "explanation_en": "Combustion is a phenomenon in which Light, heat , Light, heat in the presence of oxygen."
+  },
+  {
+    "id": 36,
+    "question": "ஒளியின்றி வெப்பத்தை வெளிப்படுத்தும் நிகழ்வு ________ என அழைக்கப்படுகிறது?",
+    "options": [
+      "எரிதல்",
+      "உள்ளெரிதல்",
+      "வெளியெரிதல்",
+      "நின்றொளிர்தல்"
+    ],
+    "correct": 1,
+    "explanation": "ஒளியின்றி வெப்பத்தை வெளிப்படுத்தும் நிகழ்வு உள்ளெரிதல் என அழைக்கப்படுகிறது?",
+    "question_en": "The phenomenon of heat transfer without light is called ________?",
+    "options_en": [
+      "Burning",
+      "internalization",
+      "Emergence",
+      "Stallion"
+    ],
+    "explanation_en": "The phenomenon of heat transfer without light is called internalization?"
+  },
+  {
+    "id": 37,
+    "question": "தாவரங்களின் சுவாசித்தல் குறித்த பின்வரும் கருத்துக்களில் சரியானது எது??",
+    "options": [
+      "தாவரங்கள் சுவாசிப்பதில்லை",
+      "தாவரங்கள் பகலில் மட்டும் சுவாசிக்கின்றன.",
+      "தாவரங்கள் இரவில் மட்டும் சுவாசிக்கின்றன.",
+      "தாவரங்கள் உயிருள்ளவரை இரவு பகல் என்ற பாகுபாடு இன்றி சுவாசிக்கின்றன."
+    ],
+    "correct": 3,
+    "explanation": "தாவரங்களின் சுவாசித்தல் குறித்த பின்வரும் கருத்துக்களில் சரியானது தாவரங்கள் உயிருள்ளவரை இரவு பகல் என்ற பாகுபாடு இன்றி சுவாசிக்கின்றன. ஆகும்.?",
+    "question_en": "Which of the following statements about plant respiration is correct?",
+    "options_en": [
+      "Plants do not respire",
+      "Plants respire only during the day.",
+      "Plants only respire at night.",
+      "Plants breathe without discrimination of day and night as long as they are alive."
+    ],
+    "explanation_en": "Plants breathe without discrimination of day and night as long as they are alive."
+  },
+  {
+    "id": 38,
+    "question": "உயிரினங்களின் சுவாசத்தின் பொழுது என்ன நிகழ்கிறது?",
+    "options": [
+      "ஆக்ஸிஜன் கார்பன் டை ஆக்ஸைடாக மாற்றப்படுகிறது",
+      "ஆக்ஸிஜன் நைட்ரஜன் டை ஆக்ஸைடாக மாற்றப்படுகிறது.",
+      "கார்பன் டை ஆக்ஸைடு ஆக்ஸிஜனாக மாற்றப்படுகிறது.",
+      "நைட்ரஜன் டை ஆக்ஸைடு ஆக்ஸிஜனாக மாற்றப்படுகிறது."
+    ],
+    "correct": 0,
+    "explanation": "ஆக்ஸிஜன் கார்பன் டை ஆக்ஸைடாக மாற்றப்படுகிறது",
+    "question_en": "What happens during respiration in living organisms?",
+    "options_en": [
+      "Oxygen is converted into carbon dioxide",
+      "Oxygen is converted to nitrogen dioxide.",
+      "Carbon dioxide is converted to oxygen.",
+      "Nitrogen dioxide is converted to oxygen."
+    ],
+    "explanation_en": "Oxygen is converted into carbon dioxide"
+  },
+  {
+    "id": 39,
+    "question": "உயிரினங்களில் சுவாசம் எங்கு நடைபெறுகிறது?",
+    "options": [
+      "மூக்கில் நடைபெறுகிறது",
+      "நுரையீரலில் நடைபெறுகிறது",
+      "அனைத்து செல்களிலும் நடைபெறுகிறது",
+      "இரத்தக் குழாய்களில் நடைபெறுகிறது"
+    ],
+    "correct": 2,
+    "explanation": "அனைத்து செல்களிலும் நடைபெறுகிறது",
+    "question_en": "Where does respiration take place in living things?",
+    "options_en": [
+      "Takes place in the nose",
+      "Takes place in the lungs",
+      "Occurs in all cells",
+      "Takes place in blood vessels"
+    ],
+    "explanation_en": "Occurs in all cells"
+  },
+  {
+    "id": 40,
+    "question": "மனிதனின் நாசி (மூக்கு)யைப் போன்று தாவரங்களின் சுவாச உறுப்பு எது?",
+    "options": [
+      "வேர்",
+      "தண்டு",
+      "இலைத்துளை",
+      "மலர்"
+    ],
+    "correct": 2,
+    "explanation": "மனிதனின் நாசி (மூக்கு)யைப் போன்று தாவரங்களின் சுவாச உறுப்பு இலைத்துளை ஆகும்.",
+    "question_en": "Which respiratory organ of plants is similar to human nostril (nose)?",
+    "options_en": [
+      "root",
+      "stem",
+      "leaf hole",
+      "flower"
+    ],
+    "explanation_en": "leaf hole"
+  },
+  {
+    "id": 41,
+    "question": "தாவரத்திலுள்ள மிகச்சிறிய இலைத்துளைகளின் பெயர் என்ன?",
+    "options": [
+      "ஸ்டொமட்டா",
+      "குளோரோஃபில்",
+      "சைலம்",
+      "ஃபுளோயம்"
+    ],
+    "correct": 0,
+    "explanation": "ஸ்டொமட்டா",
+    "question_en": "What is the name of the smallest leaf opening in a plant?",
+    "options_en": [
+      "Stomata",
+      "Chlorophyll",
+      "Xylem",
+      "Phloem"
+    ],
+    "explanation_en": "Stomata is the name of the smallest leaf opening in a plant."
+  },
+  {
+    "id": 42,
+    "question": "தாவரங்கள் உணவு தயாரிக்கும் நிகழ்வு ________.",
+    "options": [
+      "மகரந்தச்சேர்க்கை",
+      "ஒளிச்சேர்க்கை",
+      "நீராவியாதல்",
+      "சுவாசித்தல்"
+    ],
+    "correct": 1,
+    "explanation": "தாவரங்கள் உணவு தயாரிக்கும் நிகழ்வு ஒளிச்சேர்க்கை.",
+    "question_en": "The process by which plants make food is ________.",
+    "options_en": [
+      "Pollination",
+      "Photosynthesis",
+      "Evaporation",
+      "breathing"
+    ],
+    "explanation_en": "The process by which plants make food is Photosynthesis."
+  },
+  {
+    "id": 43,
+    "question": "ஒளிச்சேர்க்கை, சுவாசம் ஆகிய இரு நிகழ்வுகளில் ஒன்றில்கூட பங்குபெறாதது எது?",
+    "options": [
+      "நீர்",
+      "சூரிய ஒளி",
+      "நைட்ரஜன்",
+      "ஆக்ஸிஜன்"
+    ],
+    "correct": 2,
+    "explanation": "ஒளிச்சேர்க்கை, சுவாசம் ஆகிய இரு நிகழ்வுகளில் ஒன்றில்கூட பங்குபெறாதது நைட்ரஜன் ஆகும்.",
+    "question_en": "Which does not participate in either of the two processes of photosynthesis and respiration?",
+    "options_en": [
+      "Water",
+      "sunlight",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "explanation_en": "Nitrogen"
+  },
+  {
+    "id": 44,
+    "question": "விலங்குகளின் கழிவான கார்பன் டை ஆக்ஸைடை தாவரங்கள் எடுத்துக் கொண்டு ________ ஆக மாற்றுகிறது.",
+    "options": [
+      "ஹைட்ரஜன்",
+      "மீத்தேன்",
+      "நைட்ரஜன்",
+      "ஆக்ஸிஜன்"
+    ],
+    "correct": 3,
+    "explanation": "விலங்குகளின் கழிவான கார்பன் டை ஆக்ஸைடை தாவரங்கள் எடுத்துக் கொண்டு ஆக்ஸிஜன் ஆக மாற்றுகிறது.",
+    "question_en": "Plants take in carbon dioxide from animal waste and turn it into ________.",
+    "options_en": [
+      "Hydrogen",
+      "Methane",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "explanation_en": "Plants take in carbon dioxide from animal waste and turn it into Oxygen."
+  },
+  {
+    "id": 45,
+    "question": "ஒளிச்சேர்க்கை : _____________ : : சுவாசம் : ஆக்ஸிஜன்",
+    "options": [
+      "ஹைட்ரஜன்",
+      "மீத்தேன்",
+      "நைட்ரஜன்",
+      "கார்பன் டை ஆக்ஸைடு"
+    ],
+    "correct": 3,
+    "explanation": "ஒளிச்சேர்க்கை : கார்பன் டை ஆக்ஸைடு : : சுவாசம் : ஆக்ஸிஜன்",
+    "question_en": "Photosynthesis : _____________ : : Respiration : Oxygen",
+    "options_en": [
+      "Hydrogen",
+      "Methane",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "explanation_en": "Photosynthesis : Carbon dioxide : : Respiration : Oxygen"
+  },
+  {
+    "id": 46,
+    "question": "காற்றின் 78 % : எரிதலுக்கு துணை புரிவதில்லை : : காற்றின் 21 % : ________.",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "எரிதலுக்கு துணைபுரியும்",
+      "நைட்ரஜன்",
+      "உயிர்வளி"
+    ],
+    "correct": 1,
+    "explanation": "காற்றின் 78 % : எரிதலுக்கு துணை புரிவதில்லை : : காற்றின் 21 % : எரிதலுக்கு துணைபுரியும்.",
+    "question_en": "78 % of air : does not support combustion : : 21 % of air : ________.",
+    "options_en": [
+      "Oxygen",
+      "Aids in burning",
+      "Nitrogen",
+      "give life"
+    ],
+    "explanation_en": "78 % of air : does not support combustion : : 21 % of air : Aids in burning."
+  },
+  {
+    "id": 47,
+    "question": "பின்வருவனவற்றுள் சுவாசித்தலின் போது உட்சென்ற அளவில் மாற்றமின்றி வெளியேறுபவை எவை?",
+    "options": [
+      "ஹைட்ரஜன், மீத்தேன்",
+      "மீத்தேன், ஆக்ஸிஜன்",
+      "நைட்ரஜன், மந்த வாயு",
+      "ஆக்ஸிஜன், மந்த வாயு"
+    ],
+    "correct": 2,
+    "explanation": "பின்வருவனவற்றுள் சுவாசித்தலின் போது உட்சென்ற அளவில் மாற்றமின்றி வெளியேறுபவை நைட்ரஜன், மந்த வாயு ஆகும்.",
+    "question_en": "Which of the following is exhaled during respiration with no change in intake?",
+    "options_en": [
+      "Hydrogen, methane",
+      "Methane, Oxygen",
+      "Nitrogen, an inert gas",
+      "Oxygen, an inert gas"
+    ],
+    "explanation_en": "Nitrogen, an inert gas is exhaled during respiration with no change in intake."
+  },
+  {
+    "id": 48,
+    "question": "பொருத்துக.\na) தவளை - i) செவுள்\nb) மீன் - ii) ஸ்டொமட்டா\nc) தாவரம் - iii) குளோரோஃபில்\nd) பச்சையம் - iv) தோல்",
+    "options": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d – ii",
+      "a – iv b – i c – ii d – iii",
+      "a – I b – iii c – iv d – ii"
+    ],
+    "correct": 2,
+    "explanation": "a – iv b – i c – ii d – iii",
+    "question_en": "match\na) Frog - i) Gill\nb) Fish – ii) Stomata\nc) Plant – iii) Chlorophyll\nd) Green - iv) Leather",
+    "options_en": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d – ii",
+      "a – iv b – i c – ii d – iii",
+      "a – I b – iii c – iv d – ii"
+    ],
+    "explanation_en": "a – iv b – i c – ii d – iii"
+  },
+  {
+    "id": 49,
+    "question": "பின்வருவனவற்றுள் சுவாசித்தலின் போது உட்சென்ற அளவைவிட குறைந்த அளவு வெளியேறுவது எது?",
+    "options": [
+      "கார்பன் டை ஆக்ஸைடு",
+      "ஆக்ஸிஜன்",
+      "நைட்ரஜன்",
+      "மந்த வாயு"
+    ],
+    "correct": 1,
+    "explanation": "பின்வருவனவற்றுள் சுவாசித்தலின் போது உட்சென்ற அளவைவிட குறைந்த அளவு வெளியேறுவது ஆக்ஸிஜன் ஆகும்.",
+    "question_en": "Which of the following leaves less volume than the intake during exhalation?",
+    "options_en": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Inert gas"
+    ],
+    "explanation_en": "Oxygen"
+  },
+  {
+    "id": 50,
+    "question": "பின்வருவனவற்றுள் சுவாசித்தலின் போது உட்சென்ற அளவைவிட அதிக அளவு வெளியேறுவது எது?",
+    "options": [
+      "கார்பன் டை ஆக்ஸைடு",
+      "ஆக்ஸிஜன்",
+      "நைட்ரஜன்",
+      "மந்த வாயு"
+    ],
+    "correct": 0,
+    "explanation": "பின்வருவனவற்றுள் சுவாசித்தலின் போது உட்சென்ற அளவைவிட அதிக அளவு வெளியேறுவது கார்பன் டை ஆக்ஸைடு ஆகும்.",
+    "question_en": "Which of the following leaves more volume than intake during exhalation?",
+    "options_en": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Inert gas"
+    ],
+    "explanation_en": "Carbon dioxide"
+  },
+  {
+    "id": 51,
+    "question": "கார்பன் டை ஆக்ஸைடு + நீர் சூரிய ஒளி, பச்சையம் _________ + _________.",
+    "options": [
+      "கார்பன் டை ஆக்ஸைடு, உணவு",
+      "ஆக்ஸிஜன், உணவு",
+      "நைட்ரஜன், உணவு",
+      "மந்த வாயு, உணவு"
+    ],
+    "correct": 1,
+    "explanation": "கார்பன் டை ஆக்ஸைடு + நீர் சூரிய ஒளி, பச்சையம் ஆக்ஸிஜன், உணவு + ஆக்ஸிஜன், உணவு.",
+    "question_en": "Carbon Dioxide + Water Sunlight Green _________ + _________.",
+    "options_en": [
+      "Carbon dioxide, food",
+      "Oxygen, food",
+      "Nitrogen, food",
+      "Inert gas, food"
+    ],
+    "explanation_en": "Carbon Dioxide + Water Sunlight Green Oxygen, food + Oxygen, food."
+  },
+  {
+    "id": 52,
+    "question": "6 CO2 + 6 H2O சூரிய ஒளி, பச்சையம் _________ + _________.",
+    "options": [
+      "C6H12O6 + 6O2",
+      "6 C6H12O6 + O2",
+      "6 C6H12O6 + 6O2",
+      "C6H12O6 + O2"
+    ],
+    "correct": 0,
+    "explanation": "6 CO2 + 6 H2O சூரிய ஒளி, பச்சையம் C6H12O6 + 6O2 + C6H12O6 + 6O2.",
+    "question_en": "6 CO2 + 6 H2O Sunlight, green _________ + _________.",
+    "options_en": [
+      "C6H12O6 + 6O2",
+      "6 C6H12O6 + O2",
+      "6 C6H12O6 + 6O2",
+      "C6H12O6 + O2"
+    ],
+    "explanation_en": "6 CO2 + 6 H2O Sunlight, green C6H12O6 + 6O2 + C6H12O6 + 6O2."
+  },
+  {
+    "id": 53,
+    "question": "உணவு + ஆக்ஸிஜன் → ________ + _________.",
+    "options": [
+      "கார்பன் டை ஆக்ஸைடு, நீர்",
+      "கார்பன் டை ஆக்ஸைடு, நீர், உணவு",
+      "கார்பன் டை ஆக்ஸைடு, நீர், ஆற்றல்",
+      "மந்த வாயு, உணவு"
+    ],
+    "correct": 2,
+    "explanation": "உணவு + ஆக்ஸிஜன் → கார்பன் டை ஆக்ஸைடு, நீர், ஆற்றல் + கார்பன் டை ஆக்ஸைடு, நீர், ஆற்றல்.",
+    "question_en": "Food + Oxygen → ________ + _________.",
+    "options_en": [
+      "Carbon dioxide, water",
+      "Carbon dioxide, water, food",
+      "Carbon dioxide, water, energy",
+      "Inert gas, food"
+    ],
+    "explanation_en": "Food + Oxygen → Carbon dioxide, water, energy + Carbon dioxide, water, energy."
+  },
+  {
+    "id": 54,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்றைத் தேர்வு செய்க.",
+    "options": [
+      "நைட்ரஜன், ஆக்ஸிஜன் ஆகிய இரு வாயுக்களும் நீரில் கரையாது.",
+      "நைட்ரஜன், ஆக்ஸிஜன் ஆகிய இரு வாயுக்களும் சிறிதளவு நீரில் கரையும்.",
+      "நைட்ரஜனைப் போல் இருமடங்கு ஆக்ஸிஜன் நீரில் கரையும்.",
+      "ஆக்ஸிஜனைப் போல் இருமடங்கு நைட்ரஜன் நீரில் கரையும்."
+    ],
+    "correct": 2,
+    "explanation": "நைட்ரஜனைப் போல் இருமடங்கு ஆக்ஸிஜன் நீரில் கரையும்.",
+    "question_en": "Choose the correct statement from the following.",
+    "options_en": [
+      "Both nitrogen and oxygen are insoluble in water.",
+      "Both nitrogen and oxygen are slightly soluble in water.",
+      "Oxygen is twice as soluble in water as nitrogen.",
+      "Nitrogen is twice as soluble in water as oxygen."
+    ],
+    "explanation_en": "Oxygen is twice as soluble in water as nitrogen."
+  },
+  {
+    "id": 55,
+    "question": "கார்பன் டை ஆக்ஸைடு வாயுவை குளிர்விக்கும் போது அது திரவமாகாமல் ________ ஆக மாறுகிறது",
+    "options": [
+      "உலர் பனிக்கட்டி",
+      "பனிக்கட்டி",
+      "திரவ பனிக்கட்டி",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 0,
+    "explanation": "கார்பன் டை ஆக்ஸைடு வாயுவை குளிர்விக்கும் போது அது திரவமாகாமல் உலர் பனிக்கட்டி ஆக மாறுகிறது",
+    "question_en": "When carbon dioxide gas is cooled it becomes ________ rather than a liquid",
+    "options_en": [
+      "Dry ice",
+      "Ice cube",
+      "Liquid ice",
+      "All right"
+    ],
+    "explanation_en": "When carbon dioxide gas is cooled it becomes Dry ice rather than a liquid"
+  },
+  {
+    "id": 56,
+    "question": "இறைச்சி, மீன் போன்ற உணவுப் பொருள்களை பதப்படுத்த ________ பயன்படுகிறது.",
+    "options": [
+      "உலர் பனிக்கட்டி",
+      "பனிக்கட்டி",
+      "திரவ நைட்ரஜன்",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 3,
+    "explanation": "இறைச்சி, மீன் போன்ற உணவுப் பொருள்களை பதப்படுத்த அனைத்தும் சரி பயன்படுகிறது.",
+    "question_en": "________ is used to process food items like meat and fish.",
+    "options_en": [
+      "Dry ice",
+      "Ice cube",
+      "liquid nitrogen",
+      "All right"
+    ],
+    "explanation_en": "All right is used to process food items like meat and fish."
+  },
+  {
+    "id": 57,
+    "question": "நம் நாட்டில் தற்போது வாகனங்களில் காற்றுக்கு பதிலாக நைட்ரஜனை பயன்படுத்துகின்றனர். ஏன் நாம் கார்பன் டை ஆக்ஸைடை காற்றுக்கு பதிலாக பயன்படுத்துவதில்லை?",
+    "options": [
+      "கார்பன் டை ஆக்ஸைடு, காற்றை விட கனமானது.",
+      "கார்பன் டை ஆக்ஸைடு, காற்றை விட இலேசானது.",
+      "கார்பன் டை ஆக்ஸைடு வெப்பத்தை உட்கவர்ந்து விரிவடைந்து டயர் வெடித்துச் சிதறும் அபாயம் உள்ளது.",
+      "2 மற்றும் 3 சரி."
+    ],
+    "correct": 2,
+    "explanation": "கார்பன் டை ஆக்ஸைடு வெப்பத்தை உட்கவர்ந்து விரிவடைந்து டயர் வெடித்துச் சிதறும் அபாயம் உள்ளது.",
+    "question_en": "Nitrogen is used instead of air in vehicles in our country. Why don't we use carbon dioxide instead of air?",
+    "options_en": [
+      "Carbon dioxide is heavier than air.",
+      "Carbon dioxide is lighter than air.",
+      "Carbon dioxide absorbs heat and expands causing the tire to explode.",
+      "2 and 3 are correct."
+    ],
+    "explanation_en": "Carbon dioxide absorbs heat and expands causing the tire to explode."
+  },
+  {
+    "id": 58,
+    "question": "பின்வருவனவற்றுள் காற்றின் பயன் எது?",
+    "options": [
+      "உயிரினங்கள் சுவாசிக்கப் பயன்படுகிறது.",
+      "தாவரங்கள் உணவு தயாரிக்கப் பயன்படுகிறது.",
+      "காற்றாலை மின் உற்பத்தியில் பயன்படுகிறது.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "பின்வருவனவற்றுள் காற்றின் பயன் அனைத்தும் ஆகும்.",
+    "question_en": "Which of the following is the use of air?",
+    "options_en": [
+      "Organisms use respiration.",
+      "Plants are used to make food.",
+      "Wind turbines are used in power generation.",
+      "Everything"
+    ],
+    "explanation_en": "Everything is the use of air."
+  },
+  {
+    "id": 59,
+    "question": "மலை ஏறுபவர்கள், ஆழ்கடல் ஆராய்ச்சியாளர்கள், சுவாச நோயாளிகள் பயன்படுத்தும் உருளைகளில் அடைக்கப்பட்ட வாயு எது?",
+    "options": [
+      "ஹைட்ரஜன்",
+      "மீத்தேன்",
+      "நைட்ரஜன்",
+      "ஆக்ஸிஜன்"
+    ],
+    "correct": 3,
+    "explanation": "மலை ஏறுபவர்கள், ஆழ்கடல் ஆராய்ச்சியாளர்கள், சுவாச நோயாளிகள் பயன்படுத்தும் உருளைகளில் அடைக்கப்பட்ட வாயு ஆக்ஸிஜன் ஆகும்.",
+    "question_en": "Which gas is contained in cylinders used by mountain climbers, deep sea explorers, respiratory patients?",
+    "options_en": [
+      "Hydrogen",
+      "Methane",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "explanation_en": "Oxygen"
+  },
+  {
+    "id": 60,
+    "question": "வளிமண்டலத்தைப் பற்றிய தவறான கூற்று எது?",
+    "options": [
+      "வளிமண்டலத்தை புரிந்து கொள்வதற்காக நாம் 5 அடுக்குகளாக வகைப்படுத்தியுள்ளோம்.",
+      "வளிமண்டலம் (ஓசோன்) சூரிய கதிர்வீச்சுகளை வடிகட்டி புவியைக் காக்கிறது.",
+      "வளிமண்டலம் புவி வெப்பநிலையை குறைக்கிறது.",
+      "வளிமண்டலம் நிலவில் காணப்படுவதில்லை."
+    ],
+    "correct": 2,
+    "explanation": "வளிமண்டலம் புவி வெப்பநிலையை குறைக்கிறது.",
+    "question_en": "Which statement about atmosphere is false?",
+    "options_en": [
+      "To understand the atmosphere we have classified it into 5 layers.",
+      "The atmosphere (ozone) filters solar radiation and protects the Earth.",
+      "The atmosphere lowers the Earth's temperature.",
+      "Atmosphere is not found on moon."
+    ],
+    "explanation_en": "The atmosphere lowers the Earth's temperature."
+  },
+  {
+    "id": 61,
+    "question": "புவியோட்டில் உள்ள தனிமங்களின் சதவீத இயைபின் அடிப்படையில் பொருத்துக.\na) ஆக்ஸிஜன் (O) - i) 27.7 %\nb) சிலிக்கான் (Si) - ii) 3.6 %\nc) அலுமினியம் (Al) - iii) 5 %\nd) இரும்பு (Fe) - iv) 46.6 %\ne) கால்சியம் (Ca) - v) 8.1 %",
+    "options": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e - v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "correct": 2,
+    "explanation": "a – iv b – i c – v d – iii e – ii",
+    "question_en": "Match the percentages of elements in the earth.\na) Oxygen (O) - i) 27.7 %\nb) Silicon (Si) - ii) 3.6 %\nc) Aluminum (Al) - iii) 5 %\nd) Iron (Fe) - iv) 46.6 %\ne) Calcium (Ca) - v) 8.1 %",
+    "options_en": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e – v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "explanation_en": "a – iv b – i c – v d – iii e – ii"
+  },
+  {
+    "id": 62,
+    "question": "கூற்று: ஆக்ஸிஜன் வளிமண்டலத்தில் 21 % மட்டுமே உள்ள நிலையில் புவியோட்டில் 46.6 % காணப்படுகிறது.\nகாரணம்: ஆக்ஸிஜன் புவியோட்டில் சிலிக்கேட்டுகள், கார்பனேட்டுகள் மற்றும் நீர் போன்ற சேர்மங்களாகவும் உள்ளது.",
+    "options": [
+      "கூற்று தவறு, காரணம் சரி.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று, காரணம் இரண்டும் தவறு.",
+      "கூற்று, காரணம் இரண்டும் சரி. மேலும் காரணம் கூற்றை விளக்குகிறது."
+    ],
+    "correct": 3,
+    "explanation": "கூற்று, காரணம் இரண்டும் சரி. மேலும் காரணம் கூற்றை விளக்குகிறது.",
+    "question_en": "Assertion: Oxygen is only 21% in the atmosphere and 46.6% is found on Earth.\nReason: Oxygen is also present in Earth as compounds like silicates, carbonates and water.",
+    "options_en": [
+      "The statement is wrong, the reason is right.",
+      "The statement is right, the reason is wrong.",
+      "Both the statement and the reason are false.",
+      "Both statement and reason are correct. And reason explains the claim."
+    ],
+    "explanation_en": "Both statement and reason are correct. And reason explains the claim."
+  },
+  {
+    "id": 63,
+    "question": "பின்வரும் தனிமங்கள் நீரில் கரையும் திறன் அடிப்படையில் சரியான வரிசையைத் தேர்வு செய்க.",
+    "options": [
+      "CO2 > O2 > N2",
+      "CO2 < O2 < N2",
+      "CO2 < O2 > N2",
+      "CO2 > O2 < N2"
+    ],
+    "correct": 0,
+    "explanation": "CO2 > O2 > N2",
+    "question_en": "Choose the following elements in the correct order based on their solubility in water.",
+    "options_en": [
+      "CO2 > O2 > N2",
+      "CO2 < O2 < N2",
+      "CO2 < O2 > N2",
+      "CO2 > O2 < N2"
+    ],
+    "explanation_en": "CO2 > O2 > N2"
+  },
+  {
+    "id": 64,
+    "question": "பின்வருவனவற்றுள் ஆக்ஸிஜனைப் பற்றிய சரியான கூற்று எது?",
+    "options": [
+      "ஆக்ஸிஜன் நிறம், மணம், சுவை அற்ற வாயு.",
+      "வெப்பம், மின்சாரத்தை கடத்தாது.",
+      "காற்றை விட கனமானது.",
+      "அனைத்தும்."
+    ],
+    "correct": 3,
+    "explanation": "அனைத்தும்.",
+    "question_en": "Which of the following statements about oxygen is correct?",
+    "options_en": [
+      "Oxygen is a colorless, odorless, tasteless gas.",
+      "Heat does not conduct electricity.",
+      "Heavier than air.",
+      "Everything."
+    ],
+    "explanation_en": "Everything."
+  },
+  {
+    "id": 65,
+    "question": "பின்வருவனவற்றுள் ஆக்ஸிஜனைப் பற்றிய தவறான கூற்று எது?",
+    "options": [
+      "குளிர்ந்த நீரில் நன்கு கரையும்.",
+      "அதிக அழுத்தம், குறைந்த வெப்பநிலைக்கு உட்படுத்தும் போது திரவமாக மாறும்.",
+      "எரிதலுக்குத் துணைபுரியாது.",
+      "ஆக்ஸிஜன் ஓர் ஈரணு மூலக்கூறு."
+    ],
+    "correct": 2,
+    "explanation": "எரிதலுக்குத் துணைபுரியாது.",
+    "question_en": "Which of the following statements about oxygen is false?",
+    "options_en": [
+      "Soluble in cold water.",
+      "Becomes a liquid when subjected to high pressure and low temperature.",
+      "Does not support burns.",
+      "Oxygen is an atomic molecule."
+    ],
+    "explanation_en": "Does not support burns."
+  },
+  {
+    "id": 66,
+    "question": "கூற்று: ஆக்ஸிஜன் நைட்ரஜனை விட இருமடங்கு நீரில் கரையும்.\nவிளைவு: ஆக்ஸிஜன் நைட்ரஜனைப் போன்றே குறைவான கரைதிறனைப் பெற்றிருக்குமானால் நீர்வாழ் உயிரினங்கள் உயிர்வாழ்தல் கடினமாக இருக்கும்.",
+    "options": [
+      "கூற்று தவறு, விளைவு சரி",
+      "கூற்று சரி, விளைவு தவறு",
+      "கூற்று, விளைவு இரண்டும் தவறு",
+      "கூற்று, விளைவு இரண்டும் சரி"
+    ],
+    "correct": 3,
+    "explanation": "கூற்று, விளைவு இரண்டும் சரி",
+    "question_en": "Assertion: Oxygen is twice as soluble in water as nitrogen.\nConsequence: If oxygen has a low solubility similar to nitrogen, aquatic life will have a hard time surviving.",
+    "options_en": [
+      "Statement is false, result is true",
+      "The statement is true, the result is false",
+      "Both the statement and the result are false",
+      "Both statement and result are true"
+    ],
+    "explanation_en": "Both statement and result are true"
+  },
+  {
+    "id": 67,
+    "question": "கூற்று: ஆக்ஸிஜன் தானாகவே தீப்பற்றி எரியும் தன்மையுடையது.\nவிளைவு: ஆக்சிஜன் எரியும் தன்மை பெற்றிருந்தால் வளிமண்டலத்திலுள்ள ஆக்ஸிஜனை எரியச் செய்ய ஒரு தீக்குச்சியே போதுமானது.",
+    "options": [
+      "கூற்று தவறு, விளைவு சரி.",
+      "கூற்று சரி, விளைவு தவறு.",
+      "கூற்று, விளைவு இரண்டும் தவறு.",
+      "கூற்று, விளைவு இரண்டும் சரி. மேலும் விளைவு கூற்றை விளக்குகிறது."
+    ],
+    "correct": 0,
+    "explanation": "கூற்று தவறு, விளைவு சரி.",
+    "question_en": "Assertion: Oxygen is spontaneously flammable.\nEFFECT: A single match is sufficient to ignite oxygen in the atmosphere if oxygen is flammable.",
+    "options_en": [
+      "Statement is false, result is true.",
+      "The statement is true, the result is false.",
+      "Both the statement and the result are false.",
+      "Both statement and result are true. And the effect illustrates the claim."
+    ],
+    "explanation_en": "Statement is false, result is true."
+  },
+  {
+    "id": 68,
+    "question": "ஆக்ஸிஜன் உலோகங்களுடன் வினைபுரிந்து ________ தன்மை உடைய உலோக ஆக்ஸைடுகளை உருவாக்குகிறது.",
+    "options": [
+      "கார",
+      "அமில",
+      "நடுநிலை",
+      "உப்பு"
+    ],
+    "correct": 0,
+    "explanation": "ஆக்ஸிஜன் உலோகங்களுடன் வினைபுரிந்து கார தன்மை உடைய உலோக ஆக்ஸைடுகளை உருவாக்குகிறது.",
+    "question_en": "Oxygen reacts with metals to form metal oxides of ________ character.",
+    "options_en": [
+      "Alkaline",
+      "Acidic",
+      "Neutral",
+      "Salt"
+    ],
+    "explanation_en": "Oxygen reacts with metals to form metal oxides of Alkaline character."
+  },
+  {
+    "id": 69,
+    "question": "ஆக்ஸிஜன் அலோகங்களுடன் வினைபுரிந்து ________ தன்மை உடைய அலோக ஆக்ஸைடுகளை உருவாக்குகிறது.",
+    "options": [
+      "கார",
+      "அமில",
+      "நடுநிலை",
+      "உப்பு"
+    ],
+    "correct": 1,
+    "explanation": "ஆக்ஸிஜன் அலோகங்களுடன் வினைபுரிந்து அமில தன்மை உடைய அலோக ஆக்ஸைடுகளை உருவாக்குகிறது.",
+    "question_en": "Oxygen reacts with metals to form metal oxides of ________ nature.",
+    "options_en": [
+      "Alkaline",
+      "Acidic",
+      "Neutral",
+      "Salt"
+    ],
+    "explanation_en": "Oxygen reacts with metals to form metal oxides of Acidic nature."
+  },
+  {
+    "id": 70,
+    "question": "அறை வெப்பநிலையிலேயே ஆக்ஸிஜனுடன் வினைபுரியும் உலோகம் எது?",
+    "options": [
+      "Mg",
+      "Ca",
+      "K",
+      "Au"
+    ],
+    "correct": 2,
+    "explanation": "அறை வெப்பநிலையிலேயே ஆக்ஸிஜனுடன் வினைபுரியும் உலோகம் K ஆகும்.",
+    "question_en": "Which metal reacts with oxygen at room temperature?",
+    "options_en": [
+      "Mg",
+      "Ca",
+      "K",
+      "Au"
+    ],
+    "explanation_en": "K"
+  },
+  {
+    "id": 71,
+    "question": "மெதுவாக வெப்பப்படுத்த ஆக்ஸிஜனுடன் வினைபுரியும் உலோகம் எது?",
+    "options": [
+      "Mg, Ca",
+      "K, Ca",
+      "Au, Pt",
+      "Au, Fe"
+    ],
+    "correct": 0,
+    "explanation": "மெதுவாக வெப்பப்படுத்த ஆக்ஸிஜனுடன் வினைபுரியும் உலோகம் Mg, Ca ஆகும்.",
+    "question_en": "Which metal reacts with oxygen to heat slowly?",
+    "options_en": [
+      "Mg, Ca",
+      "K, Ca",
+      "Au, Pt",
+      "Au, Fe"
+    ],
+    "explanation_en": "Mg, Ca"
+  },
+  {
+    "id": 72,
+    "question": "ஆக்ஸிஜனுடன் வினைபுரியாத உலோகம் எது?",
+    "options": [
+      "Mg Ca",
+      "K, Ca",
+      "Au, Pt",
+      "Au, Fe"
+    ],
+    "correct": 2,
+    "explanation": "ஆக்ஸிஜனுடன் வினைபுரியாத உலோகம் Au, Pt ஆகும்.",
+    "question_en": "Which metal does not react with oxygen?",
+    "options_en": [
+      "Mg Ca",
+      "K, Ca",
+      "Au, Pt",
+      "Au, Fe"
+    ],
+    "explanation_en": "Au, Pt"
+  },
+  {
+    "id": 73,
+    "question": "பிற உலோகங்களைத் தவிர்த்து நகை செய்வதற்கு தங்கம் (Au), பிளாட்டினம் (Pt) போன்றவற்றைப் பயன்படுத்துவதன் காரணம் யாது?",
+    "options": [
+      "அதிக விலைக்கு விற்பனை செய்வதால்.",
+      "காற்று, நீர் போன்றவற்றுடன் வினைபுரியாது நீண்ட காலம் இயல்பு மாறாது இருப்பதால்.",
+      "அழகிய நிறத்தில் காட்சி தருவதால்.",
+      "வெப்பத்தை உறிஞ்சி உடலுக்கு நன்மை செய்வதால்."
+    ],
+    "correct": 1,
+    "explanation": "பிற உலோகங்களைத் தவிர்த்து நகை செய்வதற்கு தங்கம் (Au), பிளாட்டினம் (Pt) போன்றவற்றைப் பயன்படுத்துவதன் காரணம் காற்று, நீர் போன்றவற்றுடன் வினைபுரியாது நீண்ட காலம் இயல்பு மாறாது இருப்பதால். ஆகும்.",
+    "question_en": "What is the reason for using gold (Au), platinum (Pt) etc. for jewelery instead of other metals?",
+    "options_en": [
+      "By selling at a higher price.",
+      "Because it does not react with air, water etc. and does not change its nature for a long time.",
+      "Because it displays beautiful colors.",
+      "Because it absorbs heat and benefits the body."
+    ],
+    "explanation_en": "Because it does not react with air, water etc. and does not change its nature for a long time. is the reason for using gold (Au), platinum (Pt) etc. for jewelery instead of other metals."
+  },
+  {
+    "id": 74,
+    "question": "ஹைட்ரோ கார்பன்கள் ஆக்ஸிஜன் துணையுடன் எரிந்து ________ , ________ , ________ , ________ ஐ வெளியிடுகிறது.",
+    "options": [
+      "CO2, ஒளி, வெப்பம், நீராவி",
+      "O2, ஒளி, வெப்பம், நீராவி",
+      "N2, ஒளி, வெப்பம், நீராவி",
+      "Ar, ஒளி, வெப்பம், நீராவி"
+    ],
+    "correct": 0,
+    "explanation": "ஹைட்ரோ கார்பன்கள் ஆக்ஸிஜன் துணையுடன் எரிந்து CO2, ஒளி, வெப்பம், நீராவி , CO2, ஒளி, வெப்பம், நீராவி , CO2, ஒளி, வெப்பம், நீராவி , CO2, ஒளி, வெப்பம், நீராவி ஐ வெளியிடுகிறது.",
+    "question_en": "Hydrocarbons burn with oxygen to release ________ , ________ , ________ , ________ .",
+    "options_en": [
+      "CO2, light, heat, steam",
+      "O2, light, heat, steam",
+      "N2, light, heat, steam",
+      "Ar, light, heat, steam"
+    ],
+    "explanation_en": "Hydrocarbons burn with oxygen to release CO2, light, heat, steam , CO2, light, heat, steam , CO2, light, heat, steam , CO2, light, heat, steam ."
+  },
+  {
+    "id": 75,
+    "question": "காற்றிலுள்ள ________ , ________ இரும்பு துருப்பிடிக்க காரணமாகிறது.",
+    "options": [
+      "CO2 , நீராவி",
+      "O2 , நீராவி",
+      "N2, நீராவி",
+      "Ar, நீராவி"
+    ],
+    "correct": 1,
+    "explanation": "காற்றிலுள்ள O2 , நீராவி , O2 , நீராவி இரும்பு துருப்பிடிக்க காரணமாகிறது.",
+    "question_en": "________ in the air causes ________ iron to rust.",
+    "options_en": [
+      "CO2 , water vapor",
+      "O2 , steam",
+      "N2, steam",
+      "Ar, steam"
+    ],
+    "explanation_en": "O2 , steam in the air causes O2 , steam iron to rust."
+  },
+  {
+    "id": 76,
+    "question": "Fe + O2 → Fe2O3",
+    "options": [
+      "Fe + O2 → Fe2O3",
+      "4Fe + 3O2 → 2Fe2O3",
+      "3Fe + 4O2 → 2Fe2O3",
+      "2Fe + 3O2 → 4Fe2O3"
+    ],
+    "correct": 1,
+    "explanation": "4Fe + 3O2 → 2Fe2O3",
+    "question_en": "Fe + O2 → Fe2O3",
+    "options_en": [
+      "Fe + O2 → Fe2O3",
+      "4Fe + 3O2 → 2Fe2O3",
+      "3Fe + 4O2 → 2Fe2O3",
+      "2Fe + 3O2 → 4Fe2O3"
+    ],
+    "explanation_en": "4Fe + 3O2 → 2Fe2O3"
+  },
+  {
+    "id": 77,
+    "question": "Fe2O3.XH2O என்ற இரும்புத்துருவின் மூலக்கூறு வாய்ப்பாட்டில் X என்பது எதைக் குறிக்கிறது?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "வேறுபட்ட மதிப்பு"
+    ],
+    "correct": 3,
+    "explanation": "வேறுபட்ட மதிப்பு",
+    "question_en": "What does X stand for in the molecular formula of iron oxide Fe2O3.XH2O?",
+    "options_en": [
+      "0",
+      "1",
+      "2",
+      "A different value"
+    ],
+    "explanation_en": "A different value"
+  },
+  {
+    "id": 78,
+    "question": "பின்வரும் சமன்பாட்டை சமன் செய்க.\nNa + O2 → Na2O",
+    "options": [
+      "4Na + 2O2 → 2Na2O",
+      "2Na + 2O2 → 2Na2O",
+      "2Na + O2 → 2Na2O",
+      "4Na + O2 → 2Na2O"
+    ],
+    "correct": 3,
+    "explanation": "4Na + O2 → 2Na2O",
+    "question_en": "Balance the following equation.\nNa + O2 → Na2O",
+    "options_en": [
+      "4Na + 2O2 → 2Na2O",
+      "2Na + 2O2 → 2Na2O",
+      "2Na + O2 → 2Na2O",
+      "4Na + O2 → 2Na2O"
+    ],
+    "explanation_en": "4Na + O2 → 2Na2O"
+  },
+  {
+    "id": 79,
+    "question": "பின்வரும் சமன்பாட்டை சமன் செய்க.\nC + O2 →",
+    "options": [
+      "C + O2 → 2CO",
+      "2C + O2 → 2CO",
+      "2C + O2 → CO",
+      "C + O2 → CO2"
+    ],
+    "correct": 3,
+    "explanation": "C + O2 → CO2",
+    "question_en": "Balance the following equation.\nC + O2 →",
+    "options_en": [
+      "C + O2 → 2CO",
+      "2C + O2 → 2CO",
+      "2C + O2 → CO",
+      "C + O2 → CO2"
+    ],
+    "explanation_en": "C + O2 → CO2"
+  },
+  {
+    "id": 80,
+    "question": "பின்வரும் சமன்பாட்டை சமன் செய்க.\nCO2 + H2O → C6H12O6 + O2",
+    "options": [
+      "6CO2 + 6H2O சூரிய ஒளி, பச்சையம் C6H12O6 + 6O2",
+      "6CO2 + H2O சூரிய ஒளி, பச்சையம் C6H12O6 + O2",
+      "6CO2 + 6H2O C6H12O6 + 6O2",
+      "6CO2 + 6H2O 6C6H12O6 + 6O2"
+    ],
+    "correct": 0,
+    "explanation": "6CO2 + 6H2O சூரிய ஒளி, பச்சையம் C6H12O6 + 6O2",
+    "question_en": "Balance the following equation.\nCO2 + H2O → C6H12O6 + O2",
+    "options_en": [
+      "6CO2 + 6H2O sunlight, green C6H12O6 + 6O2",
+      "6CO2 + H2O sunlight, green C6H12O6 + O2",
+      "6CO2 + 6H2O C6H12O6 + 6O2",
+      "6CO2 + 6H2O 6C6H12O6 + 6O2"
+    ],
+    "explanation_en": "6CO2 + 6H2O sunlight, green C6H12O6 + 6O2"
+  },
+  {
+    "id": 81,
+    "question": "பின்வருவனவற்றுள் ஆக்ஸிஜனின் பயன் அல்லாதது எது?",
+    "options": [
+      "எஃகிலுள்ள கார்பன் மாசை நீக்கப் பயன்படுகிறது.",
+      "கரித்தூளுடன் இணைந்து வெடிபொருள் தயாரிக்கப் பயன்படுகிறது.",
+      "விமானத்தில் எரிபொருளாகப் பயன்படுகிறது.",
+      "மெத்தனால் மற்றும் அம்மோனியா தயாரிக்கப் பயன்படுகிறது."
+    ],
+    "correct": 2,
+    "explanation": "பின்வருவனவற்றுள் ஆக்ஸிஜனின் பயன் அல்லாதது விமானத்தில் எரிபொருளாகப் பயன்படுகிறது. ஆகும்.",
+    "question_en": "Which of the following is not a use of oxygen?",
+    "options_en": [
+      "Used to remove carbon stains from steel.",
+      "Used in combination with charcoal powder to make explosives.",
+      "Used as fuel in aircraft.",
+      "Used to make methanol and ammonia."
+    ],
+    "explanation_en": "Used as fuel in aircraft. is not a use of oxygen."
+  },
+  {
+    "id": 82,
+    "question": "உலோகங்களை வெட்டவும், இணைக்கவும் பயன்படுத்தப்படும் வாயுக் கலவை எது?",
+    "options": [
+      "ஆக்ஸிஜன் - மீத்தேன்",
+      "ஆக்ஸிஜன் – ஹைட்ரஜன்",
+      "நைட்ரஜன் – ஹைட்ரஜன்",
+      "ஆக்ஸிஜன் – அசிட்டிலீன்"
+    ],
+    "correct": 3,
+    "explanation": "உலோகங்களை வெட்டவும், இணைக்கவும் பயன்படுத்தப்படும் வாயுக் கலவை ஆக்ஸிஜன் – அசிட்டிலீன் ஆகும்.",
+    "question_en": "Which gas mixture is used to cut and join metals?",
+    "options_en": [
+      "Oxygen - Methane",
+      "Oxygen – Hydrogen",
+      "Nitrogen – Hydrogen",
+      "Oxygen – Acetylene"
+    ],
+    "explanation_en": "Oxygen – Acetylene"
+  },
+  {
+    "id": 83,
+    "question": "தாவரங்கள் மற்றும் விலங்குகளின் வளர்ச்சிக்கு உறுதுணையாக அமைவது எது?",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்",
+      "அசிட்டிலீன்"
+    ],
+    "correct": 2,
+    "explanation": "தாவரங்கள் மற்றும் விலங்குகளின் வளர்ச்சிக்கு உறுதுணையாக அமைவது நைட்ரஜன் ஆகும்.",
+    "question_en": "What helps plants and animals grow?",
+    "options_en": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Acetylene"
+    ],
+    "explanation_en": "Nitrogen"
+  },
+  {
+    "id": 84,
+    "question": "உயினங்களின் அடிப்படை கட்டமைப் பொருள்களான புரதம், நியூக்ளிக் அமிலங்களில் அமைவது எது?",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்",
+      "அசிட்டிலீன்"
+    ],
+    "correct": 2,
+    "explanation": "உயினங்களின் அடிப்படை கட்டமைப் பொருள்களான புரதம், நியூக்ளிக் அமிலங்களில் அமைவது நைட்ரஜன் ஆகும்.",
+    "question_en": "What are the basic building blocks of animals like protein and nucleic acids?",
+    "options_en": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Acetylene"
+    ],
+    "explanation_en": "Nitrogen"
+  },
+  {
+    "id": 85,
+    "question": "விவசாயிகள் பயன்படுத்தும் உரங்களில் தழை, மணி, சாம்பல் சத்து அடங்கியுள்ளது. இவற்றில் தழைச்சத்தில் அடங்கியுள்ள தனிமம் எது?",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்",
+      "அசிட்டிலீன்"
+    ],
+    "correct": 2,
+    "explanation": "விவசாயிகள் பயன்படுத்தும் உரங்களில் தழை, மணி, சாம்பல் சத்து அடங்கியுள்ளது. இவற்றில் தழைச்சத்தில் அடங்கியுள்ள தனிமம் நைட்ரஜன் ஆகும்.",
+    "question_en": "Fertilizers used by farmers include leaf, bell and ash nutrients. Which of these elements is present in the soil?",
+    "options_en": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Acetylene"
+    ],
+    "explanation_en": "Nitrogen"
+  },
+  {
+    "id": 86,
+    "question": "நைட்ரோன் மற்றும் ஜீன் என்ற கிரேக்கச் சொற்களிலிருந்து உருவானது எது?",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்",
+      "அசிட்டிலீன்"
+    ],
+    "correct": 2,
+    "explanation": "நைட்ரோன் மற்றும் ஜீன் என்ற கிரேக்கச் சொற்களிலிருந்து உருவானது நைட்ரஜன் ஆகும்.",
+    "question_en": "Which is derived from the Greek words nitrone and zein?",
+    "options_en": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Acetylene"
+    ],
+    "explanation_en": "Nitrogen is derived from the Greek words nitrone and zein."
+  },
+  {
+    "id": 87,
+    "question": "பொட்டாசியம் நைட்ரேட் (KNO3) என்பது எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "அசோட்",
+      "சால்ட்பீட்டர்",
+      "நைட்டர்",
+      "(2) மற்றும் (3)"
+    ],
+    "correct": 2,
+    "explanation": "நைட்டர்",
+    "question_en": "What is potassium nitrate (KNO3) called?",
+    "options_en": [
+      "Azot",
+      "Saltpeter",
+      "Nighter",
+      "(2) and (3)"
+    ],
+    "explanation_en": "Nighter is potassium nitrate (KNO3) called."
+  },
+  {
+    "id": 88,
+    "question": "மனித உடலில் அதிகம் காணப்படும் தனிமங்களில் நான்காமிடம் பெறுவது எது?",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "ஹைட்ரஜன்",
+      "நைட்ரஜன்",
+      "அசிட்டிலீன்"
+    ],
+    "correct": 2,
+    "explanation": "மனித உடலில் அதிகம் காணப்படும் தனிமங்களில் நான்காமிடம் பெறுவது நைட்ரஜன் ஆகும்.",
+    "question_en": "Which is the fourth most abundant element in the human body?",
+    "options_en": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Acetylene"
+    ],
+    "explanation_en": "Nitrogen is the fourth most abundant element in the human body."
+  },
+  {
+    "id": 89,
+    "question": "பின்வருவனவற்றுள் நைட்ரஜனைப் பற்றிய தவறான கூற்று எது?",
+    "options": [
+      "மனித உடலின் மொத்த நிறையில் 3 % உள்ளது.",
+      "அண்டத்தில் மிகையளவு காணப்படும் தனிமங்களில் 7ம் இடம் பெற்றுள்ளது.",
+      "சனிக்கோளின் துணைக்கோளான டைட்டனில் 100 % உள்ளது",
+      "தனித்த நிலையில் ஈரணு மூலக்கூறாக (N2) உள்ளது."
+    ],
+    "correct": 2,
+    "explanation": "சனிக்கோளின் துணைக்கோளான டைட்டனில் 100 % உள்ளது",
+    "question_en": "Which of the following statements about nitrogen is false?",
+    "options_en": [
+      "3% of the total mass of the human body.",
+      "It is the 7th most abundant element in the universe.",
+      "Saturn's satellite Titan has 100 %",
+      "In the isolated state, the nucleus is a molecule (N2)."
+    ],
+    "explanation_en": "Saturn's satellite Titan has 100 %"
+  },
+  {
+    "id": 90,
+    "question": "தவறான இணையைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "NaNO3 – சிலி சால்ட்பீட்டர் (Chile saltpeter)",
+      "KNO3 - சால்ட்பீட்டர் (saltpeter)",
+      "N2 – நைட்ரஜன்",
+      "O3 – ஆக்ஸிஜன்"
+    ],
+    "correct": 3,
+    "explanation": "O3 – ஆக்ஸிஜன்",
+    "question_en": "To select the wrong counterpart.",
+    "options_en": [
+      "NaNO3 – Chile saltpeter",
+      "KNO3 - saltpeter",
+      "N2 – Nitrogen",
+      "O3 – Oxygen"
+    ],
+    "explanation_en": "O3 – Oxygen"
+  },
+  {
+    "id": 91,
+    "question": "பின்வருவனவற்றுள் நைட்ரஜனைப் பற்றிய தவறான கூற்று எது?",
+    "options": [
+      "எரிமலையிலிருந்தும் நிலக்கரியை எரிக்கும் பொழுதும் நைட்ரஜன் வெளிப்படுகிறது.",
+      "நிறம், மணம், சுவை அற்ற காற்றைவிட சிறிதளவு இலேசான வாயு.",
+      "நிறம், மணம், சுவை அற்ற காற்றைவிட கனமான வாயு.",
+      "உறையும் பொழுது வெண்மை நிறத் திண்மமாக மாறுகிறது."
+    ],
+    "correct": 2,
+    "explanation": "நிறம், மணம், சுவை அற்ற காற்றைவிட கனமான வாயு.",
+    "question_en": "Which of the following statements about nitrogen is false?",
+    "options_en": [
+      "Nitrogen is released from volcanoes and when coal is burned.",
+      "Colorless, odorless, tasteless gas slightly lighter than air.",
+      "Colorless, odorless, tasteless gas heavier than air.",
+      "On freezing it turns into a white solid."
+    ],
+    "explanation_en": "Colorless, odorless, tasteless gas heavier than air."
+  },
+  {
+    "id": 92,
+    "question": "கூற்று: காற்றிலுள்ள நைட்ரஜன் எரிதலைக் கட்டுப்படுத்தி வளிமண்டலத்தைக் காக்கிறது.\nகாரணம்: நைட்ரஜன் தானாக எரிவதில்லை. மேலும் எரியத் துணை புரிவதும் இல்லை.",
+    "options": [
+      "கூற்று, காரணம் இரண்டும் சரி.",
+      "கூற்று, காரணம் இரண்டும் தவறு.",
+      "கூற்று, காரணம் இரண்டும் தவறு.",
+      "கூற்று, காரணம் இரண்டும் சரி. மேலும் காரணம் கூற்றை விளக்குகிறது."
+    ],
+    "correct": 3,
+    "explanation": "கூற்று, காரணம் இரண்டும் சரி. மேலும் காரணம் கூற்றை விளக்குகிறது.",
+    "question_en": "Assertion: Nitrogen in the air controls combustion and protects the atmosphere.\nReason: Nitrogen does not spontaneously combust. And there is no combustion support.",
+    "options_en": [
+      "Both statement and reason are correct.",
+      "Both the statement and the reason are false.",
+      "Both the statement and the reason are false.",
+      "Both statement and reason are correct. And reason explains the claim."
+    ],
+    "explanation_en": "Both statement and reason are correct. And reason explains the claim."
+  },
+  {
+    "id": 93,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்று எது?",
+    "options": [
+      "ஆக்ஸிஜன், நைட்ரஜன் - அமிலத் தன்மை உடையவை.",
+      "ஆக்ஸிஜன், நைட்ரஜன் - காரத் தன்மை உடையவை.",
+      "ஆக்ஸிஜன், நைட்ரஜன் - நடுநிலைத் தன்மை உடையவை.",
+      "ஆக்ஸிஜன், நைட்ரஜன் - உப்புத்தன்மை உடையவை."
+    ],
+    "correct": 2,
+    "explanation": "ஆக்ஸிஜன், நைட்ரஜன் - நடுநிலைத் தன்மை உடையவை.",
+    "question_en": "Which of the following is the correct statement?",
+    "options_en": [
+      "Oxygen, Nitrogen – are acidic in nature.",
+      "Oxygen and nitrogen are alkaline.",
+      "Oxygen, Nitrogen - are neutral.",
+      "Oxygen, Nitrogen - Salty."
+    ],
+    "explanation_en": "Oxygen, Nitrogen - are neutral. is the correct statement."
+  },
+  {
+    "id": 94,
+    "question": "ஆக்ஸிஜனை ஒப்பிடும் பொழுது நைட்ரஜனின் வினைத்திறன் ________.",
+    "options": [
+      "அதிகம்",
+      "குறைவு",
+      "மிக அதிகம்",
+      "சமம்"
+    ],
+    "correct": 1,
+    "explanation": "ஆக்ஸிஜனை ஒப்பிடும் பொழுது நைட்ரஜனின் வினைத்திறன் குறைவு.",
+    "question_en": "The reactivity of nitrogen as compared to oxygen is ________.",
+    "options_en": [
+      "A lot",
+      "less",
+      "Very much",
+      "equal to"
+    ],
+    "explanation_en": "The reactivity of nitrogen as compared to oxygen is less."
+  },
+  {
+    "id": 95,
+    "question": "நைட்ரஜனின் வினைத்திறன் மிகக் குறைவாக இருப்பதால் உலோகம், அலோகங்களுடன் வினைப்படுத்த அவற்றை ________ க்கு உட்படுத்த வேண்டும்?",
+    "options": [
+      "மீ உயர் வெப்பநிலை",
+      "தாழ் வெப்பநிலை",
+      "மித வெப்பநிலை",
+      "மீ தாழ் வெப்பநிலை"
+    ],
+    "correct": 0,
+    "explanation": "நைட்ரஜனின் வினைத்திறன் மிகக் குறைவாக இருப்பதால் உலோகம், அலோகங்களுடன் வினைப்படுத்த அவற்றை மீ உயர் வெப்பநிலை க்கு உட்படுத்த வேண்டும்?",
+    "question_en": "Since the reactivity of nitrogen is very low, the metal must undergo ________ to react with non-alloys?",
+    "options_en": [
+      "m high temperature",
+      "Low temperature",
+      "Moderate temperature",
+      "m low temperature"
+    ],
+    "explanation_en": "Since the reactivity of nitrogen is very low, the metal must undergo m high temperature to react with non-alloys?"
+  },
+  {
+    "id": 96,
+    "question": "பொருத்துக.\na) திரவ நைட்ரஜன் - i) குளிர்சாதனப் பெட்டி\nb) வாயு நைட்ரஜன் - ii) டிரை நைட்ரோ டொலுவீன்\nc) ஹேபர் முறை - iii) டயர் (Tyre)\nd) TNT - iv) அம்மோனியா (NH3)\ne) கால்சியம் நைட்ரைடு - v) Ca3N2",
+    "options": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e - v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "correct": 3,
+    "explanation": "a – i b – iii c – iv d – ii e – v",
+    "question_en": "match\na) Liquid nitrogen – i) Refrigerator\nb) Nitrogen gas – ii) Tri nitro toluene\nc) Haber method - iii) Tire\nd) TNT – iv) Ammonia (NH3)\ne) Calcium Nitride – v) Ca3N2",
+    "options_en": [
+      "a – ii b – i c – iv d – iii e – v",
+      "a – iii b – i c – iv d – ii e – v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "explanation_en": "a – i b – iii c – iv d – ii e – v"
+  },
+  {
+    "id": 97,
+    "question": "பொருத்துக.\na) வெப்பப்படுத்துதல் - i) \nb) வீழ்படிவாதல் - ii) \nc) மீளாவினை - iii) +\nd) வாயு வெளிப்படுதல் - iv) →\ne) சேர்த்தல் - v) ",
+    "options": [
+      "a – ii b – i c – iv d – v e – iii",
+      "a – iii b – i c – iv d – ii e - v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "correct": 0,
+    "explanation": "a – ii b – i c – iv d – v e – iii",
+    "question_en": "match\na) Heating – i) \nb) Degeneracy – ii) \nc) Reaction - iii) +\nd) Outgassing – iv) →\ne) Addition – v) ",
+    "options_en": [
+      "a – ii b – i c – iv d – v e – iii",
+      "a – iii b – i c – iv d – ii e – v",
+      "a – iv b – i c – v d – iii e – ii",
+      "a – i b – iii c – iv d – ii e – v"
+    ],
+    "explanation_en": "a – ii b – i c – iv d – v e – iii"
+  },
+  {
+    "id": 98,
+    "question": "வெப்பநிலைமானிகளில் நைட்ரஜன் பயன்படுத்தக் காரணம் எது?",
+    "options": [
+      "வெப்பநிலை மிகச் சரியாக அளவிட",
+      "பாதரசம் உருகுவதைத் தடுக்க",
+      "பாதரசம் ஆவியாவதைத் தடுக்க",
+      "பாதரசம் உறைவதைத் தடுக்க"
+    ],
+    "correct": 2,
+    "explanation": "வெப்பநிலைமானிகளில் நைட்ரஜன் பயன்படுத்தக் காரணம் பாதரசம் ஆவியாவதைத் தடுக்க ஆகும்.",
+    "question_en": "Why is nitrogen used in thermometers?",
+    "options_en": [
+      "Measure the temperature very accurately",
+      "To prevent melting of mercury",
+      "To prevent evaporation of mercury",
+      "To prevent freezing of mercury"
+    ],
+    "explanation_en": "To prevent evaporation of mercury"
+  },
+  {
+    "id": 99,
+    "question": "பின்வருவனவற்றுள் நைட்ரஜனின் பயன் எது?",
+    "options": [
+      "உணவுப்பொருள்களைப் பதப்படுத்துதல்",
+      "துருப்பிடிக்காத இரும்பு தயாரித்தல்",
+      "ஒளிரும் விளக்குகளில் வெப்பத்தைக் கட்டுப்படுத்த",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "பின்வருவனவற்றுள் நைட்ரஜனின் பயன் அனைத்தும் ஆகும்.",
+    "question_en": "Which of the following is the use of nitrogen?",
+    "options_en": [
+      "Food processing",
+      "Manufacture of stainless steel",
+      "To control heat in incandescent lamps",
+      "Everything"
+    ],
+    "explanation_en": "Everything is the use of nitrogen."
+  },
+  {
+    "id": 100,
+    "question": "வளிமண்டலத்தில் உள்ள நைட்ரஜனை நீரில் கரையும் நைட்ரேட்டுகளாக மாற்றி மண்ணில் நிலைபெறச் செய்யும் முறை ________.",
+    "options": [
+      "நைட்ரஜன் நிலை நிறுத்தம்",
+      "நைட்ரஜன் இறுக்கம்",
+      "நைட்ரஜன் ஒடுக்கம்",
+      "அனைத்தும்."
+    ],
+    "correct": 0,
+    "explanation": "வளிமண்டலத்தில் உள்ள நைட்ரஜனை நீரில் கரையும் நைட்ரேட்டுகளாக மாற்றி மண்ணில் நிலைபெறச் செய்யும் முறை நைட்ரஜன் நிலை நிறுத்தம்.",
+    "question_en": "The process by which atmospheric nitrogen is converted into water-soluble nitrates and fixed in the soil is ________.",
+    "options_en": [
+      "Nitrogen fixation",
+      "Nitrogen fixation",
+      "Nitrogen condensation",
+      "Everything."
+    ],
+    "explanation_en": "The process by which atmospheric nitrogen is converted into water-soluble nitrates and fixed in the soil is Nitrogen fixation."
+  },
+  {
+    "id": 101,
+    "question": "நைட்ரஜன் நிலைநிறுத்தத்தில் பங்குபெறுவது எது?",
+    "options": [
+      "வைரஸ்",
+      "பூஞ்சை",
+      "பாக்டீரியா",
+      "அனைத்தும்."
+    ],
+    "correct": 2,
+    "explanation": "நைட்ரஜன் நிலைநிறுத்தத்தில் பங்குபெறுவது பாக்டீரியா ஆகும்.",
+    "question_en": "What participates in nitrogen fixation?",
+    "options_en": [
+      "Virus",
+      "Fungus",
+      "Bacteria",
+      "Everything."
+    ],
+    "explanation_en": "Bacteria"
+  },
+  {
+    "id": 102,
+    "question": "பின்வரும் சமன்பாட்டை சமன் செய்க.\nCa + N2",
+    "options": [
+      "2Ca + N2 → Ca2N2",
+      "3Ca + N2 → Ca3N2",
+      "Ca + N2 → CaN2",
+      "2Ca + N2 → 2CaN"
+    ],
+    "correct": 1,
+    "explanation": "3Ca + N2 → Ca3N2",
+    "question_en": "Balance the following equation.\nCa + N2",
+    "options_en": [
+      "2Ca + N2 → Ca2N2",
+      "3Ca + N2 → Ca3N2",
+      "Ca + N2 → CaN2",
+      "2Ca + N2 → 2CaN"
+    ],
+    "explanation_en": "3Ca + N2 → Ca3N2"
+  },
+  {
+    "id": 103,
+    "question": "சரியான சமன்பாடு எது?",
+    "options": [
+      "3H2 + 2N2 → 2NH3",
+      "3H2 + N2 → 2NH3",
+      "2H2 + 3N2 → 3NH3",
+      "2H2 + 3N2 → 3NH3"
+    ],
+    "correct": 1,
+    "explanation": "சரியான சமன்பாடு 3H2 + N2 → 2NH3 ஆகும்.",
+    "question_en": "Which is the correct equation?",
+    "options_en": [
+      "3H2 + 2N2 → 2NH3",
+      "3H2 + N2 → 2NH3",
+      "2H2 + 3N2 → 3NH3",
+      "2H2 + 3N2 → 3NH3"
+    ],
+    "explanation_en": "3H2 + N2 → 2NH3 is the correct equation."
+  },
+  {
+    "id": 104,
+    "question": "பின்வருவனவற்றுள் கார்பன் டை ஆக்ஸைடு பற்றிய சரியான கூற்று எது?",
+    "options": [
+      "காற்றைவிட கனமானது",
+      "எரிதலுக்குத் துணைபுரியும்.",
+      "சிவப்பு லிட்மஸ் தாளை நீலமாக மாற்றும்",
+      "அனைத்தும்."
+    ],
+    "correct": 0,
+    "explanation": "காற்றைவிட கனமானது",
+    "question_en": "Which of the following is a correct statement about carbon dioxide?",
+    "options_en": [
+      "Heavier than air",
+      "Aids in burning.",
+      "Turns red litmus paper blue",
+      "Everything."
+    ],
+    "explanation_en": "Heavier than air is a correct statement about carbon dioxide."
+  },
+  {
+    "id": 105,
+    "question": "கார்பன் டை ஆக்ஸைடு, சுண்ணாம்பு நீரை ________ மாற்றுகிறது.",
+    "options": [
+      "பால் ஆக",
+      "பால் போல்",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "explanation": "கார்பன் டை ஆக்ஸைடு, சுண்ணாம்பு நீரை பால் போல் மாற்றுகிறது.",
+    "question_en": "Carbon dioxide turns lime water into ________.",
+    "options_en": [
+      "Become milk",
+      "Like milk",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation_en": "Carbon dioxide turns lime water into Like milk."
+  },
+  {
+    "id": 106,
+    "question": "கார்பன் டை ஆக்ஸைடு சுண்ணாம்பு நீருடன் சேர்ந்து ________ ஐ உருவாக்குவதால் பால் போன்று வெண்மை நிறத்தில் காட்சி தருகிறது.",
+    "options": [
+      "Na2CO3",
+      "CaCO3",
+      "Ca(HCO3)2",
+      "Ca2(HCO3)2"
+    ],
+    "correct": 1,
+    "explanation": "கார்பன் டை ஆக்ஸைடு சுண்ணாம்பு நீருடன் சேர்ந்து CaCO3 ஐ உருவாக்குவதால் பால் போன்று வெண்மை நிறத்தில் காட்சி தருகிறது.",
+    "question_en": "Carbon dioxide combines with lime water to form ________, giving it a milky white appearance.",
+    "options_en": [
+      "Na2CO3",
+      "CaCO3",
+      "Ca(HCO3)2",
+      "Ca2(HCO3)2"
+    ],
+    "explanation_en": "Carbon dioxide combines with lime water to form CaCO3, giving it a milky white appearance."
+  },
+  {
+    "id": 107,
+    "question": "அதிகளவு கார்பன் டை ஆக்ஸைடு சுண்ணாம்பு நீருடன் சேர்ந்து ________ ஐ உருவாக்குவதால் பால் போன்று வெண்மை நிறம் மறைகிறது.",
+    "options": [
+      "Na2CO3",
+      "CaCO3",
+      "Ca(HCO3)2",
+      "Ca2(HCO3)2"
+    ],
+    "correct": 2,
+    "explanation": "அதிகளவு கார்பன் டை ஆக்ஸைடு சுண்ணாம்பு நீருடன் சேர்ந்து Ca(HCO3)2 ஐ உருவாக்குவதால் பால் போன்று வெண்மை நிறம் மறைகிறது.",
+    "question_en": "Too much carbon dioxide combines with lime water to form ________, causing the milky white color to fade.",
+    "options_en": [
+      "Na2CO3",
+      "CaCO3",
+      "Ca(HCO3)2",
+      "Ca2(HCO3)2"
+    ],
+    "explanation_en": "Too much carbon dioxide combines with lime water to form Ca(HCO3)2, causing the milky white color to fade."
+  },
+  {
+    "id": 108,
+    "question": "கூற்று: கார்பன் டை ஆக்ஸைடு சிவப்பு லிட்மஸ் தாளை நீல நிறமாக மாற்றுகிறது.\nகாரணம்: கார்பன் டை ஆக்ஸைடு அமிலத் தன்மையுடையது.",
+    "options": [
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று, காரணம் இரண்டும் தவறு. மேலும் கூற்று காரணத்தை விளக்கவில்லை.",
+      "கூற்று, காரணம் இரண்டும் சரி. மேலும் கூற்று காரணத்தை விளக்குகிறது."
+    ],
+    "correct": 0,
+    "explanation": "கூற்று தவறு, காரணம் சரி",
+    "question_en": "Assertion: Carbon dioxide turns red litmus paper blue.\nReason: Carbon dioxide is acidic.",
+    "options_en": [
+      "The statement is wrong, the reason is right",
+      "The statement is right, the reason is wrong",
+      "Both the statement and the reason are false. And the statement does not explain the reason.",
+      "Both statement and reason are correct. And the statement explains why."
+    ],
+    "explanation_en": "The statement is wrong, the reason is right"
+  },
+  {
+    "id": 109,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்றுகளைத் தேர்வு செய்க.\na. கார்பன் டை ஆக்ஸைடின் மூலக்கூறு வாய்பாடு CO2\nb. கார்பன் டை ஆக்ஸைடு ஓர் தனிமம்.\nc. கார்பன் டை ஆக்ஸைடு ஓர் சேர்மம்\nd. வளிமண்டலத்தில் கார்பன் டை ஆக்ஸைடின் அளவு அதிகரிப்பது புவியின் வெப்பநிலையை மிகவும் உயர்த்தி தீய விளைவுகளை உண்டாக்கும்.",
+    "options": [
+      "a, b, c",
+      "b, c, d",
+      "a, c, d",
+      "a,b,d"
+    ],
+    "correct": 2,
+    "explanation": "a, c, d",
+    "question_en": "Choose the correct statements from the following.\na. The molecular formula for carbon dioxide is CO2\nb. Carbon dioxide is an element.\nc. Carbon dioxide is a compound\nd. An increase in the amount of carbon dioxide in the atmosphere will greatly increase the temperature of the earth and cause adverse effects.",
+    "options_en": [
+      "a, b, c",
+      "b, c, d",
+      "a, c, d",
+      "a, b, d"
+    ],
+    "explanation_en": "a, c, d"
+  },
+  {
+    "id": 110,
+    "question": "கூற்று: புவியால் திருப்பி அனுப்பப்பட்ட சூரிய ஒளியை, கார்பன் டை ஆக்ஸைடு மீண்டும் புவிக்கு அனுப்பி வைக்கிறது.\nவிளைவு: புவியில் உயிரினங்கள் உயிர்வாழத் தேவையான வெப்பநிலையை கார்பன் டை ஆக்ஸைடு நிலைநிறுத்துகிறது.",
+    "options": [
+      "கூற்று தவறு, விளைவு சரி",
+      "கூற்று சரி, விளைவு தவறு",
+      "கூற்று, விளைவு இரண்டும் தவறு.",
+      "கூற்று, விளைவு இரண்டும் சரி. மேலும் விளைவு கூற்றை விளக்குகிறது."
+    ],
+    "correct": 3,
+    "explanation": "கூற்று, விளைவு இரண்டும் சரி. மேலும் விளைவு கூற்றை விளக்குகிறது.",
+    "question_en": "Assertion: Sunlight reflected back by Earth is reflected back to Earth by carbon dioxide.\nEffect: Carbon dioxide maintains the temperature necessary for life on Earth to survive.",
+    "options_en": [
+      "Statement is false, result is true",
+      "The statement is true, the result is false",
+      "Both the statement and the result are false.",
+      "Both statement and result are true. And the effect illustrates the claim."
+    ],
+    "explanation_en": "Both statement and result are true. And the effect illustrates the claim."
+  },
+  {
+    "id": 111,
+    "question": "இயல்பு நிலையை விட பெருமளவு கார்பன் டை ஆக்ஸைடு அதிகரிக்கக் காரணம் ________.",
+    "options": [
+      "மனித செயல்பாடுகள்",
+      "விலங்கு செயல்பாடுகள்",
+      "தாவரங்கள்",
+      "எரிமலை வெடிப்பு"
+    ],
+    "correct": 0,
+    "explanation": "இயல்பு நிலையை விட பெருமளவு கார்பன் டை ஆக்ஸைடு அதிகரிக்கக் காரணம் மனித செயல்பாடுகள்.",
+    "question_en": "A large increase in carbon dioxide over normal levels is due to ________.",
+    "options_en": [
+      "Human activities",
+      "Animal activities",
+      "Plants",
+      "Volcanic eruption"
+    ],
+    "explanation_en": "A large increase in carbon dioxide over normal levels is due to Human activities."
+  },
+  {
+    "id": 112,
+    "question": "கார்பன் டை ஆக்ஸைடு காரங்களுடன் வினைபட்டு உப்பு, நீரை உருவாக்கும். இவ்வினையின் பொதுப்பெயர் ________.",
+    "options": [
+      "ஆக்ஸிஜனேற்ற வினை",
+      "ஆக்ஸிஜனொடுக்க வினை",
+      "நடுநிலையாக்கல் வினை",
+      "வெப்ப ஏற்பு வினை"
+    ],
+    "correct": 2,
+    "explanation": "கார்பன் டை ஆக்ஸைடு காரங்களுடன் வினைபட்டு உப்பு, நீரை உருவாக்கும். இவ்வினையின் பொதுப்பெயர் நடுநிலையாக்கல் வினை.",
+    "question_en": "Carbon dioxide reacts with alkalis to form salt and water. Common name for this is ________.",
+    "options_en": [
+      "Oxidation reaction",
+      "Oxidation reaction",
+      "neutralizing verb",
+      "Heat acceptance reaction"
+    ],
+    "explanation_en": "Carbon dioxide reacts with alkalis to form salt and water. Common name for this is neutralizing verb."
+  },
+  {
+    "id": 113,
+    "question": "கார்பன் டை ஆக்ஸைடை கார்பனாக ஒடுக்குவது எது?",
+    "options": [
+      "உலோகங்கள்",
+      "அலோகங்கள்",
+      "உலோகப் போலிகள்",
+      "அலோகப் போலிகள்"
+    ],
+    "correct": 0,
+    "explanation": "கார்பன் டை ஆக்ஸைடை கார்பனாக ஒடுக்குவது உலோகங்கள் ஆகும்.",
+    "question_en": "What condenses carbon dioxide into carbon?",
+    "options_en": [
+      "Metals",
+      "Metals",
+      "Metal forgings",
+      "Metal forgings"
+    ],
+    "explanation_en": "Metals"
+  },
+  {
+    "id": 114,
+    "question": "விடுபட்டதை நிரப்புக.\n4Na + ? → 2Na2CO3 + C",
+    "options": [
+      "CO",
+      "CO2",
+      "3CO2",
+      "C2O"
+    ],
+    "correct": 2,
+    "explanation": "3CO2",
+    "question_en": "Fill in the blanks.\n4Na + ? → 2Na2CO3 + C",
+    "options_en": [
+      "CO",
+      "CO2",
+      "3CO2",
+      "C2O"
+    ],
+    "explanation_en": "3CO2"
+  },
+  {
+    "id": 115,
+    "question": "விடுபட்டதை நிரப்புக.\n? + CO2 → ? + C",
+    "options": [
+      "2Mg, 2MgO",
+      "2MgO, 2Mg",
+      "Mg, MgO",
+      "MgO, Mg"
+    ],
+    "correct": 0,
+    "explanation": "2Mg, 2MgO",
+    "question_en": "Fill in the blanks.\n? + CO2 → ? + C",
+    "options_en": [
+      "2Mg, 2MgO",
+      "2MgO, 2Mg",
+      "Mg, MgO",
+      "MgO, Mg"
+    ],
+    "explanation_en": "2Mg, 2MgO"
+  },
+  {
+    "id": 116,
+    "question": "பூமியால் திருப்பி அனுப்பப்பட்ட சூரிய ஆற்றலை உறிஞ்சும் வளிமண்டலத்திலுள்ள வாயுக்கள் ________.",
+    "options": [
+      "கார்பன் டை ஆக்ஸைடு, மீத்தேன், நைட்ரஸ் ஆக்ஸைடு",
+      "கார்பன் டை ஆக்ஸைடு, மீத்தேன், நைட்ரஜன்",
+      "CFC, மீத்தேன், நைட்ரஜன்",
+      "அனைத்தும்."
+    ],
+    "correct": 0,
+    "explanation": "பூமியால் திருப்பி அனுப்பப்பட்ட சூரிய ஆற்றலை உறிஞ்சும் வளிமண்டலத்திலுள்ள வாயுக்கள் கார்பன் டை ஆக்ஸைடு, மீத்தேன், நைட்ரஸ் ஆக்ஸைடு.",
+    "question_en": "Gases in the atmosphere that absorb solar energy returned by Earth are ________.",
+    "options_en": [
+      "Carbon dioxide, methane, nitrous oxide",
+      "Carbon dioxide, methane, nitrogen",
+      "CFC, Methane, Nitrogen",
+      "Everything."
+    ],
+    "explanation_en": "Gases in the atmosphere that absorb solar energy returned by Earth are Carbon dioxide, methane, nitrous oxide."
+  },
+  {
+    "id": 117,
+    "question": "வெள்ளிக் கோளின் மேற்பரப்பு வெப்பநிலை 462 ºC வரை உயரக் காரணமான வாயு (சுமார் 97%) ________.",
+    "options": [
+      "நைட்ரஸ் ஆக்ஸைடு",
+      "மீத்தேன்",
+      "கார்பன் டை ஆக்ஸைடு",
+      "CFC"
+    ],
+    "correct": 2,
+    "explanation": "வெள்ளிக் கோளின் மேற்பரப்பு வெப்பநிலை 462 ºC வரை உயரக் காரணமான வாயு (சுமார் 97%) கார்பன் டை ஆக்ஸைடு.",
+    "question_en": "The gas (about 97%) responsible for raising the surface temperature of Venus to 462 ºC is ________.",
+    "options_en": [
+      "Nitrous oxide",
+      "Methane",
+      "Carbon dioxide",
+      "CFC"
+    ],
+    "explanation_en": "The gas (about 97%) responsible for raising the surface temperature of Venus to 462 ºC is Carbon dioxide."
+  },
+  {
+    "id": 118,
+    "question": "கார்பன் டை ஆக்ஸைடின் பயன் அல்லாதது எது?",
+    "options": [
+      "காற்றேற்றப்பட்ட குளிர்பானங்கள் தயாரிக்கப் பயன்படுகிறது.",
+      "திட கார்பன் டை ஆக்ஸைடு உலர் பனிக்கட்டி என்றழைக்கப்படுகிறது.",
+      "பழங்களைப் பழுக்கவைக்க பயன்படுகிறது.",
+      "சால்வே முறையில் சோடியம் பை கார்பனேட் தயாரிக்கப் பயன்படுகிறது."
+    ],
+    "correct": 2,
+    "explanation": "கார்பன் டை ஆக்ஸைடின் பயன் அல்லாதது பழங்களைப் பழுக்கவைக்க பயன்படுகிறது. ஆகும்.",
+    "question_en": "What is not a use of carbon dioxide?",
+    "options_en": [
+      "Used to make aerated soft drinks.",
+      "Solid carbon dioxide is called dry ice.",
+      "Used to ripen fruits.",
+      "It is used to prepare sodium bicarbonate by salve method."
+    ],
+    "explanation_en": "Used to ripen fruits. is not a use of carbon dioxide."
+  },
+  {
+    "id": 119,
+    "question": "கூற்று: சுண்ணாம்பு நீரில் அதிகளவு கார்பன் டை ஆக்ஸைடினை செலுத்த பாலாக மாறுகிறது.\nவிளைவு: சுண்ணாம்பு நீரில் அதிகளவு கார்பன் டை ஆக்ஸைடினை செலுத்த, நீரில் கரையக்கூடிய கால்சியம் ஹைட்ரஜன் கார்பனேட் {Ca(HCO3)2} உருவாவதால் பால் நிறம் தோன்றி மறைகிறது.",
+    "options": [
+      "கூற்று தவறு, விளைவு சரி",
+      "கூற்று சரி, விளைவு தவறு.",
+      "கூற்று, விளைவு இரண்டும் தவறு",
+      "கூற்று, விளைவு இரண்டும் சரி. மேலும் விளைவு கூற்றை விளக்குகிறது."
+    ],
+    "correct": 0,
+    "explanation": "கூற்று தவறு, விளைவு சரி",
+    "question_en": "Assertion: Lime turns milky to give off too much carbon dioxide in water.\nEffect: The milky color appears and disappears due to the formation of water-soluble calcium hydrogen carbonate {Ca(HCO3)2} to drive more carbon dioxide into the lime water.",
+    "options_en": [
+      "Statement is false, result is true",
+      "The statement is true, the result is false.",
+      "Both the statement and the result are false",
+      "Both statement and result are true. And the effect illustrates the claim."
+    ],
+    "explanation_en": "Statement is false, result is true"
+  },
+  {
+    "id": 120,
+    "question": "புவி வெப்பமடையக் காரணமான கார்பன் டை ஆக்ஸைடு, மீத்தேன், நைட்ரஸ் ஆக்ஸைடு, CFC வாயுக்களுக்கு ________ என்று பெயர்.",
+    "options": [
+      "பசுமை இல்ல வாயுக்கள்",
+      "புவி வெப்ப வாயுக்கள்",
+      "நச்சு வாயுக்கள்",
+      "தீங்கு செய்யும் வாயுக்கள்"
+    ],
+    "correct": 0,
+    "explanation": "புவி வெப்பமடையக் காரணமான கார்பன் டை ஆக்ஸைடு, மீத்தேன், நைட்ரஸ் ஆக்ஸைடு, CFC வாயுக்களுக்கு பசுமை இல்ல வாயுக்கள் என்று பெயர்.",
+    "question_en": "Carbon dioxide, methane, nitrous oxide, CFC gases which cause global warming are called ________.",
+    "options_en": [
+      "greenhouse gases",
+      "Geothermal gases",
+      "Toxic gases",
+      "Noxious gases"
+    ],
+    "explanation_en": "Carbon dioxide, methane, nitrous oxide, CFC gases which cause global warming are called greenhouse gases."
+  },
+  {
+    "id": 121,
+    "question": "பசுமை இல்ல வாயுக்களின் அதிகரிப்பால் ஏற்படும் உலக வெப்பமயமாதலின் விளைவு எது?",
+    "options": [
+      "பனிமலைகள் உருகுதல்.",
+      "பவளப்பாறைகள் அழிந்து பல்லுயிர்த்தன்மை பாதிக்கப்படுதல்.",
+      "பருவகால மாற்றத்தினால் ஏற்படும் வறட்சி, அதி கனமழை.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "பசுமை இல்ல வாயுக்களின் அதிகரிப்பால் ஏற்படும் உலக வெப்பமயமாதலின் விளைவு அனைத்தும் ஆகும்.",
+    "question_en": "What is the effect of global warming due to increase in greenhouse gases?",
+    "options_en": [
+      "Melting glaciers.",
+      "Loss of coral reefs and loss of biodiversity.",
+      "Drought, heavy rain due to seasonal change.",
+      "Everything"
+    ],
+    "explanation_en": "Everything is the effect of global warming due to increase in greenhouse gases."
+  },
+  {
+    "id": 122,
+    "question": "பின்வருவனவற்றுள் உலக வெப்பமயமாதலை தடுக்கும் முறை எது?",
+    "options": [
+      "படிம எரிபொருள்களை குறைவாகப் பயன்படுத்துதல்.",
+      "CFC பயன்பாட்டைக் குறைத்தல்.",
+      "நமது சுற்றுப்புறத்தில் குறுங்காடுகளை உருவாக்குதல்.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "பின்வருவனவற்றுள் உலக வெப்பமயமாதலை தடுக்கும் முறை அனைத்தும் ஆகும்.",
+    "question_en": "Which of the following is a method to prevent global warming?",
+    "options_en": [
+      "Less use of fossil fuels.",
+      "Reducing CFC use.",
+      "Creating small shops in our neighborhood.",
+      "Everything"
+    ],
+    "explanation_en": "Everything is a method to prevent global warming."
+  },
+  {
+    "id": 123,
+    "question": "பின்வருவனவற்றுள் (அறிவியல் முறைப்படி) தூய நீர் எது?",
+    "options": [
+      "ஆற்று நீர்",
+      "ஏரி நீர்",
+      "மழைநீர்",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "explanation": "பின்வருவனவற்றுள் (அறிவியல் முறைப்படி) தூய நீர் மழைநீர் ஆகும்.",
+    "question_en": "Which of the following is (according to scientific method) pure water?",
+    "options_en": [
+      "River water",
+      "Lake water",
+      "rain water",
+      "Everything"
+    ],
+    "explanation_en": "Rain water is (according to scientific method) pure water."
+  },
+  {
+    "id": 124,
+    "question": "மழைநீரில் நைட்ரஜன், சல்ஃபர் ஆக்ஸைடுகள் கரைந்து உருவாவது எது?",
+    "options": [
+      "அமில மழை",
+      "கார மழை",
+      "அசுத்த மழை",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "explanation": "மழைநீரில் நைட்ரஜன், சல்ஃபர் ஆக்ஸைடுகள் கரைந்து உருவாவது அமில மழை ஆகும்.",
+    "question_en": "Nitrogen and sulfur oxides dissolve in rain water and what is formed?",
+    "options_en": [
+      "Acid rain",
+      "Alkaline rain",
+      "dirty rain",
+      "Everything"
+    ],
+    "explanation_en": "Nitrogen and sulfur oxides dissolve in rain water and Acid rain is formed."
+  },
+  {
+    "id": 125,
+    "question": "அமில மழை உருவாகக் காரணம் எது?",
+    "options": [
+      "தொழிற்சாலைகளிலிருந்து வெளிவரும் நச்சு வாயுக்கள்",
+      "எரிமலை வெடிப்பு",
+      "NO2, SO2",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "அமில மழை உருவாகக் காரணம் அனைத்தும் ஆகும்.",
+    "question_en": "What causes acid rain?",
+    "options_en": [
+      "Noxious gases from factories",
+      "Volcanic eruption",
+      "NO2, SO2",
+      "Everything"
+    ],
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 126,
+    "question": "பின்வருவனவற்றுள் அமில மழையின் விளைவு எது?",
+    "options": [
+      "விவசாய பாதிப்பு",
+      "கட்டடங்களின் அரிமானம்",
+      "நீர்வாழ் உயிரினங்கள் பாதிக்கப்படுவது.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "பின்வருவனவற்றுள் அமில மழையின் விளைவு அனைத்தும் ஆகும்.",
+    "question_en": "Which of the following is an effect of acid rain?",
+    "options_en": [
+      "Agricultural damage",
+      "Erosion of buildings",
+      "Affecting aquatic life.",
+      "Everything"
+    ],
+    "explanation_en": "Everything is an effect of acid rain."
+  },
+  {
+    "id": 127,
+    "question": "NO2, SO2 மழைநீரில் கரைந்து ________ , ________ ஆக மாறி அமிலமழை உருவாகிறது?",
+    "options": [
+      "HNO3, H2SO4",
+      "HNO2, H2SO4",
+      "HNO2, H2SO2",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "explanation": "NO2, SO2 மழைநீரில் கரைந்து HNO3, H2SO4 , HNO3, H2SO4 ஆக மாறி அமிலமழை உருவாகிறது?",
+    "question_en": "NO2, SO2 dissolves in rainwater and becomes ________ , ________ to form acid rain?",
+    "options_en": [
+      "HNO3, H2SO4",
+      "HNO2, H2SO4",
+      "HNO2, H2SO2",
+      "Everything"
+    ],
+    "explanation_en": "NO2, SO2 dissolves in rainwater and becomes HNO3, H2SO4 , HNO3, H2SO4 to form acid rain?"
+  },
+  {
+    "id": 128,
+    "question": "அமில மழை உருவாவதைத் தடுக்கும் வழிமுறை எது?",
+    "options": [
+      "படிம எரிபொருள்களை குறைவாகப் பயன்படுத்துதல்.",
+      "தொழிற்சாலைக் கழிவுகளை சுத்திகரித்து வெளியேற்றுதல்.",
+      "செயற்கை உரங்களைக் கட்டுப்படுத்துதல்.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "அமில மழை உருவாவதைத் தடுக்கும் வழிமுறை அனைத்தும் ஆகும்.",
+    "question_en": "Which mechanism prevents the formation of acid rain?",
+    "options_en": [
+      "Less use of fossil fuels.",
+      "Treatment and disposal of industrial waste.",
+      "Control of synthetic fertilizers.",
+      "Everything"
+    ],
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 129,
+    "question": "pH மதிப்பின் துணைகொண்டு நாம் பொருளின் ________ கண்டறியலாம்.",
+    "options": [
+      "அமிலத்தன்மையை மட்டும்",
+      "காரத்தன்மையை மட்டும்",
+      "நடுநிலைத்தன்மையை மட்டும்",
+      "அமில, கார மற்றும் நடுநிலைத்தன்மையை"
+    ],
+    "correct": 3,
+    "explanation": "pH மதிப்பின் துணைகொண்டு நாம் பொருளின் அமில, கார மற்றும் நடுநிலைத்தன்மையை கண்டறியலாம்.",
+    "question_en": "With the help of pH value we can determine the ________ of the substance.",
+    "options_en": [
+      "Acidity alone",
+      "Alkalinity only",
+      "Neutrality only",
+      "Acidity, alkalinity and neutrality"
+    ],
+    "explanation_en": "With the help of pH value we can determine the Acidity, alkalinity and neutrality of the substance."
+  },
+  {
+    "id": 130,
+    "question": "pH மதிப்பு 7 க்கு குறைவாக இருந்தால் அவை ________.",
+    "options": [
+      "அமிலங்கள்",
+      "காரங்கள்",
+      "உப்புகள்",
+      "புளிப்புகள்"
+    ],
+    "correct": 0,
+    "explanation": "pH மதிப்பு 7 க்கு குறைவாக இருந்தால் அவை அமிலங்கள்.",
+    "question_en": "If the pH value is less than 7 they are ________.",
+    "options_en": [
+      "acids",
+      "alkalis",
+      "salts",
+      "sours"
+    ],
+    "explanation_en": "If the pH value is less than 7 they are acids."
+  },
+  {
+    "id": 131,
+    "question": "எப்பொருளை திட்டமாகக் கொண்டு pH மதிப்பின் உதவியுடன் அமிலம், காரம் என வகைப்படுத்தப்படுகிறது?",
+    "options": [
+      "பெட்ரோல்",
+      "டீசல்",
+      "தூயநீர்",
+      "பாதரசம்"
+    ],
+    "correct": 2,
+    "explanation": "தூயநீர்",
+    "question_en": "Which substance is classified as acid or base with the help of pH value?",
+    "options_en": [
+      "Petrol",
+      "Diesel",
+      "Pure water",
+      "mercury"
+    ],
+    "explanation_en": "Pure water"
+  },
+  {
+    "id": 132,
+    "question": "pH மதிப்புடன் பொருத்துக.\na) மழைநீர் - i) 7.4\nb) மனித இரத்தம் - ii) 5\nc) தூய நீர் - iii) 5.6\nd) சோடா நீர் - iv) 7",
+    "options": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d – ii",
+      "a – iv b – i c – ii d – iii",
+      "a – i b – iii c – iv d – ii"
+    ],
+    "correct": 0,
+    "explanation": "a – ii b – i c – iv d – iii",
+    "question_en": "Match the pH value.\na) Rainwater – i) 7.4\nb) Human blood – ii) 5\nc) Pure water – iii) 5.6\nd) Soda water – iv) 7",
+    "options_en": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d – ii",
+      "a – iv b – i c – ii d – iii",
+      "a – i b – iii c – iv d – ii"
+    ],
+    "explanation_en": "a – ii b – i c – iv d – iii"
+  },
+  {
+    "id": 133,
+    "question": "மாசு கலக்காத மழைநீரின் தன்மை ________.",
+    "options": [
+      "நடுநிலையானது",
+      "வலிமையான அமிலத்தன்மை",
+      "அமிலத்தன்மை",
+      "காரத்தன்மை"
+    ],
+    "correct": 2,
+    "explanation": "மாசு கலக்காத மழைநீரின் தன்மை அமிலத்தன்மை.",
+    "question_en": "The nature of unpolluted rainwater is ________.",
+    "options_en": [
+      "neutral",
+      "Strong acidity",
+      "Acidity",
+      "alkalinity"
+    ],
+    "explanation_en": "The nature of unpolluted rainwater is Acidity."
+  },
+  {
+    "id": 134,
+    "question": "கூற்று 1: கார்பன் டை ஆக்ஸைடால் புவி வெப்பமடைதல், பனிமலைகள் உருகுதல் போன்ற தொடர் இன்னல்கள் நமக்கு ஏற்படுகிறது.\nகூற்று 2: கார்பன் டை ஆக்ஸைடு இருப்பதாலே நமக்கு உணவு கிடைக்கிறது.\nகூற்று 3: கார்பன் டை ஆக்ஸைடு மிகையளவு அதிகரித்து எல்லை மீறுவதால் மட்டுமே நாம் தற்போது இடர்பாடாகக் கருதுகிறோம்.\nகூற்று 4: புவியில் உயிரினங்கள் தோன்றி உயிர் வாழ கார்பன் டை ஆக்ஸைடு தனது பெரும்பங்கை ஆற்றி வருகிறது.",
+    "options": [
+      "கூற்று 1, 2, 3 சரி",
+      "கூற்று 1, 2, 4 சரி",
+      "கூற்று 2, 3, 4 சரி",
+      "அனைத்து கூற்றுகளும் சரி."
+    ],
+    "correct": 3,
+    "explanation": "அனைத்து கூற்றுகளும் சரி.",
+    "question_en": "Assertion 1: Carbon dioxide is causing global warming, melting glaciers, etc.\nAssertion 2: Carbon dioxide gives us food.\nAssertion 3: We currently consider carbon dioxide to be a threat only if it increases excessively and exceeds limits.\nAssertion 4: Carbon dioxide plays a major role in the formation of life on Earth.",
+    "options_en": [
+      "Statement 1, 2, 3 are correct",
+      "Statement 1, 2, 4 are correct",
+      "Statement 2, 3, 4 are correct",
+      "All statements are correct."
+    ],
+    "explanation_en": "All statements are correct."
+  },
+  {
+    "id": 135,
+    "question": "பின்வருவனவற்றுள் ஆக்ஸிஜனைப் பற்றிய சரியான கூற்று எது?",
+    "options": [
+      "முழுமையாக எரியும் வாயு",
+      "பகுதியளவு எரியும் வாயு",
+      "எரிதலுக்குத் துணைபுரியும் வாயு",
+      "எரிதலுக்குத் துணைபுரியாத வாயு"
+    ],
+    "correct": 2,
+    "explanation": "எரிதலுக்குத் துணைபுரியும் வாயு",
+    "question_en": "Which of the following statements about oxygen is correct?",
+    "options_en": [
+      "Fully combustible gas",
+      "Partially burning gas",
+      "Combustion gas",
+      "A gas that does not support combustion"
+    ],
+    "explanation_en": "Combustion gas"
+  },
+  {
+    "id": 136,
+    "question": "பொருத்துக.\na) நைட்ரஜன் - i) உரம்\nb) ஆக்ஸிஜன் - ii) தீயணைப்பான்\nc) CO2 - iii) சுவாசம்\nd) CFC - iv) குளிர் பதனப்பெட்டி",
+    "options": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d - ii",
+      "a – i b – ii c – iv d – iii",
+      "a – i b – iii c – ii d – iv"
+    ],
+    "correct": 3,
+    "explanation": "a – i b – iii c – ii d – iv",
+    "question_en": "match\na) Nitrogen – i) Fertilizer\nb) Oxygen – ii) Extinguisher\nc) CO2 – iii) Respiration\nd) CFC - iv) Cold storage",
+    "options_en": [
+      "a – ii b – i c – iv d – iii",
+      "a – iii b – i c – iv d – ii",
+      "a – i b – ii c – iv d – iii",
+      "a – i b – iii c – ii d – iv"
+    ],
+    "explanation_en": "a – i b – iii c – ii d – iv"
+  },
+  {
+    "id": 137,
+    "question": "பசுமை இல்ல விளைவு ஏற்படுவதற்கு கீழ்க்கண்டவற்றுள் எந்த கூற்று காரணமாகிறது (NMMS-2011)",
+    "options": [
+      "எரிபொருட்களை அதிகம் பயன்படுத்துதல் மற்றும் காடுகளை அழிப்பதால், CO2 சதவீதம் குறைதல்",
+      "கார்பன் ஆக்ஸிஜனேற்றம் அடைதல்.",
+      "அதிக எரிபொருட்களை பயன்படுத்துதல் மற்றும் காடுகளை அழிப்பதால், CO2 சதவீதம் அதிகரித்தல்.",
+      "புவி வெப்பம் குறைதல்."
+    ],
+    "correct": 2,
+    "explanation": "அதிக எரிபொருட்களை பயன்படுத்துதல் மற்றும் காடுகளை அழிப்பதால், CO2 சதவீதம் அதிகரித்தல்.",
+    "question_en": "Which of the following accounts for the greenhouse effect (NMMS-2011)",
+    "options_en": [
+      "Due to increased use of fossil fuels and deforestation, the percentage of CO2 decreases",
+      "Achieving carbon oxidation.",
+      "Increasing CO2 percentage due to use of more fossil fuels and deforestation.",
+      "Global warming."
+    ],
+    "explanation_en": "Increasing CO2 percentage due to use of more fossil fuels and deforestation."
+  },
+  {
+    "id": 138,
+    "question": "எந்த வெப்பநிலையில் CO2 ஆனது வெள்ளைப் (உலர்) பனிக்கட்டியாக மாற்றம் அடைகிறது? (NMMS-2011)",
+    "options": [
+      "−78 ºC",
+      "78 ºC",
+      "−98 ºC",
+      "98 ºC"
+    ],
+    "correct": 0,
+    "explanation": "−78 ºC",
+    "question_en": "At what temperature does CO2 transform into white (dry) ice? (NMMS-2011)",
+    "options_en": [
+      "-78 ºC",
+      "78 ºC",
+      "-98 ºC",
+      "98 ºC"
+    ],
+    "explanation_en": "-78 ºC"
+  },
+  {
+    "id": 139,
+    "question": "நீர்த்த சுண்ணாம்புக் கரைசலுடன் CO2 ஐ சேர்க்கும் பொழுது உண்டாகும் சேர்மம் (NMMS-2011)",
+    "options": [
+      "CaCO3",
+      "CaCl2",
+      "CaO",
+      "Ca(OH)2"
+    ],
+    "correct": 0,
+    "explanation": "CaCO3",
+    "question_en": "Compound formed when CO2 is added to dilute lime solution (NMMS-2011)",
+    "options_en": [
+      "CaCO3",
+      "CaCl2",
+      "CaO",
+      "Ca(OH)2"
+    ],
+    "explanation_en": "CaCO3"
+  },
+  {
+    "id": 140,
+    "question": "வெஜிடபிள் - பிரியாணி சமைக்கும் போது அதன் வாசனை சுற்றுப்புறம் முழுவதும் பரவுகிறது ஏன்? [NMMS-2016]",
+    "options": [
+      "வாயுவின் கட்டிலா மூலக்கூறுகள் அல்லது துகள்கள்.",
+      "வாயு மூலக்கூறுகளின் உயர் வேகம்.",
+      "வாயு மூலக்கூறுகளுக்கிடையே உள்ள அதிக இடைவெளி",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "மேற்கண்ட அனைத்தும்",
+    "question_en": "Why does the smell of vegetable-biryani permeate the surroundings when it is cooked? [NMMS-2016]",
+    "options_en": [
+      "A mass of molecules or particles of gas.",
+      "High speed of gas molecules.",
+      "Greater spacing between gas molecules",
+      "All of the above"
+    ],
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 141,
+    "question": "உலர் பனிக்கட்டி என்பது ________. (NMMS 2019-2020)",
+    "options": [
+      "திட நிலையிலுள்ள ஆக்ஸிஜன்",
+      "திட நிலையிலுள்ள கார்பன்-டை-ஆக்ஸைடு",
+      "திட நிலையிலுள்ள நைட்ரஜன்",
+      "திட நிலையிலுள்ள ஹைட்ரஜன்"
+    ],
+    "correct": 1,
+    "explanation": "உலர் பனிக்கட்டி என்பது திட நிலையிலுள்ள கார்பன்-டை-ஆக்ஸைடு. (NMMS 2019-2020)",
+    "question_en": "Dry ice is ________. (NMMS 2019-2020)",
+    "options_en": [
+      "Oxygen in solid state",
+      "Carbon-dioxide in solid state",
+      "Nitrogen in solid state",
+      "Hydrogen in the solid state"
+    ],
+    "explanation_en": "Dry ice is Carbon-dioxide in solid state. (NMMS 2019-2020)"
+  },
+  {
+    "id": 142,
+    "question": "கார்பன் மோனாக்ஸைடு ________ க்கு வழி வகுக்கிறது (NMMS - 2020 – 21)",
+    "options": [
+      "சுவாசப் பிரச்சனை",
+      "உலக வெப்பமயமாதல்",
+      "அமில மழை",
+      "வாந்தி"
+    ],
+    "correct": 0,
+    "explanation": "கார்பன் மோனாக்ஸைடு சுவாசப் பிரச்சனை க்கு வழி வகுக்கிறது (NMMS - 2020 – 21)",
+    "question_en": "Carbon monoxide leads to ________ (NMMS - 2020 – 21)",
+    "options_en": [
+      "Breathing problem",
+      "Global warming",
+      "Acid rain",
+      "vomiting"
+    ],
+    "explanation_en": "Carbon monoxide leads to Breathing problem (NMMS - 2020 – 21)"
+  }
+]

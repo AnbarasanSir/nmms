@@ -1,0 +1,2407 @@
+[
+  {
+    "id": 1,
+    "question": "அலகு என்பது ________ ஆகும்.",
+    "options": [
+      "நிலையான எண் அளவு",
+      "நிலையற்ற எண் அளவு",
+      "நிலையான மதிப்பு",
+      "நிலையற்ற மதிப்பு"
+    ],
+    "correct": 2,
+    "explanation": "அலகு என்பது நிலையான மதிப்பு ஆகும்.",
+    "question_en": "The unit is ________.",
+    "options_en": [
+      "Fixed numeric size",
+      "A non-volatile number scale",
+      "constant value",
+      "A volatile value"
+    ],
+    "explanation_en": "The unit is constant value."
+  },
+  {
+    "id": 2,
+    "question": "நீளத்தை அளவிடும் திட்ட அளவீடு எது?",
+    "options": [
+      "சாண்",
+      "முழம்",
+      "மீட்டர்",
+      "கஜம்"
+    ],
+    "correct": 2,
+    "explanation": "நீளத்தை அளவிடும் திட்ட அளவீடு மீட்டர் ஆகும்.",
+    "question_en": "What is the standard measure of length?",
+    "options_en": [
+      "Chan",
+      "the cubit",
+      "meter",
+      "yard"
+    ],
+    "explanation_en": "Meter is the standard measure of length."
+  },
+  {
+    "id": 3,
+    "question": "நீளத்திற்கான அலகு அல்லாதது எது?",
+    "options": [
+      "கி.மீ.",
+      "ஒளி ஆண்டு",
+      "பவுண்ட்",
+      "மைல்"
+    ],
+    "correct": 2,
+    "explanation": "நீளத்திற்கான அலகு அல்லாதது பவுண்ட் ஆகும்.",
+    "question_en": "Which is the non-unit for length?",
+    "options_en": [
+      "km",
+      "light year",
+      "Pound",
+      "Mile"
+    ],
+    "explanation_en": "Pound is the non-unit for length."
+  },
+  {
+    "id": 4,
+    "question": "ஒளிச்செறிவின் SI அலகு எது?",
+    "options": [
+      "கப்பா",
+      "ரேடியன்",
+      "கேண்டிலா",
+      "லூமென்"
+    ],
+    "correct": 2,
+    "explanation": "ஒளிச்செறிவின் SI அலகு கேண்டிலா ஆகும்.",
+    "question_en": "What is the SI unit of luminance?",
+    "options_en": [
+      "Kappa",
+      "Radian",
+      "Candela",
+      "Lumen"
+    ],
+    "explanation_en": "Candela is the SI unit of luminance."
+  },
+  {
+    "id": 5,
+    "question": "SI அலகு முறை அமல்படுத்தப்பட்ட ஆண்டு எது?",
+    "options": [
+      "1871",
+      "1971",
+      "1861",
+      "1961"
+    ],
+    "correct": 1,
+    "explanation": "SI அலகு முறை அமல்படுத்தப்பட்ட ஆண்டு 1971 ஆகும்.",
+    "question_en": "In which year the SI unit system was implemented?",
+    "options_en": [
+      "1871",
+      "1971",
+      "1861",
+      "1961"
+    ],
+    "explanation_en": "1971"
+  },
+  {
+    "id": 6,
+    "question": "SI அலகு முறையின் விரிவாக்கம்",
+    "options": [
+      "Indian System of Units",
+      "International System of Units",
+      "Italian System of Units",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "explanation": "International System of Units",
+    "question_en": "An extension of the SI unit system",
+    "options_en": [
+      "Indian System of Units",
+      "International System of Units",
+      "Italian System of Units",
+      "Nothing"
+    ],
+    "explanation_en": "International System of Units"
+  },
+  {
+    "id": 7,
+    "question": "SI அலகு முறையில் அடங்கியுள்ள அடிப்படை அளவுகள் எத்தனை?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "SI அலகு முறையில் அடங்கியுள்ள அடிப்படை அளவுகள் 7 ஆகும்.",
+    "question_en": "How many basic quantities are included in the SI unit system?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation_en": "7 basic quantities are included in the SI unit system."
+  },
+  {
+    "id": 8,
+    "question": "SI அலகு முறையில் அடங்கியுள்ள வழி அளவுகள் எத்தனை?",
+    "options": [
+      "12",
+      "22",
+      "2",
+      "22"
+    ],
+    "correct": 1,
+    "explanation": "SI அலகு முறையில் அடங்கியுள்ள வழி அளவுகள் 22 ஆகும்.",
+    "question_en": "How many units are included in the SI unit system?",
+    "options_en": [
+      "12",
+      "22",
+      "2",
+      "22"
+    ],
+    "explanation_en": "22 units are included in the SI unit system."
+  },
+  {
+    "id": 9,
+    "question": "SI அலகுமுறையில் குறியீடுகளை எழுதும் விதிமுறைகளுள் தவறானது எது?",
+    "options": [
+      "அலகுகளை சிறிய எழுத்துகளில் மட்டுமே எழுத வேண்டும்.",
+      "அறிவியல் அறிஞர்களின் பெயர்களில் அலகுகள் அமையுமாயின் குறியீட்டை பெரிய எழுத்துகளில் எழுத வேண்டும்.",
+      "அலகுகளின் முடிவில் நிறுத்தற் குறிகள் இடவேண்டும்.",
+      "அலகுகளைப் பன்மையில் எழுதக்கூடாது."
+    ],
+    "correct": 2,
+    "explanation": "SI அலகுமுறையில் குறியீடுகளை எழுதும் விதிமுறைகளுள் தவறானது அலகுகளின் முடிவில் நிறுத்தற் குறிகள் இடவேண்டும். ஆகும்.",
+    "question_en": "Which of the following is incorrect in terms of writing symbols in SI units?",
+    "options_en": [
+      "Units should be written in lowercase letters only.",
+      "If units are named after scientists, the code should be written in capital letters.",
+      "Use punctuation marks at the end of units.",
+      "Units should not be written in plural."
+    ],
+    "explanation_en": "Use punctuation marks at the end of units. is incorrect in terms of writing symbols in SI units."
+  },
+  {
+    "id": 10,
+    "question": "SI அலகு முறைப்படி நீளத்தின் குறியீடு எது?",
+    "options": [
+      "M",
+      "Me",
+      "m",
+      "met"
+    ],
+    "correct": 2,
+    "explanation": "SI அலகு முறைப்படி நீளத்தின் குறியீடு m ஆகும்.",
+    "question_en": "What is the SI symbol for length?",
+    "options_en": [
+      "M",
+      "Me",
+      "m",
+      "Met"
+    ],
+    "explanation_en": "M is the SI symbol for length."
+  },
+  {
+    "id": 11,
+    "question": "விசையின் அலகிற்கான குறியீடு எது?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "n",
+      "N"
+    ],
+    "correct": 3,
+    "explanation": "விசையின் அலகிற்கான குறியீடு N ஆகும்.",
+    "question_en": "What is the symbol for the unit of force?",
+    "options_en": [
+      "Pascal",
+      "Newton",
+      "n",
+      "N"
+    ],
+    "explanation_en": "N is the symbol for the unit of force."
+  },
+  {
+    "id": 12,
+    "question": "வெப்ப ஆற்றலின் அலகு எது?",
+    "options": [
+      "Celsius",
+      "Kelvin",
+      "Joule",
+      "joule"
+    ],
+    "correct": 3,
+    "explanation": "வெப்ப ஆற்றலின் அலகு joule ஆகும்.",
+    "question_en": "What is the unit of thermal energy?",
+    "options_en": [
+      "Celsius",
+      "Kelvin",
+      "Joule",
+      "joule"
+    ],
+    "explanation_en": "Joule is the unit of thermal energy."
+  },
+  {
+    "id": 13,
+    "question": "40 கிலோகிராம் என்பதைக் குறிக்கும் முறை எது?",
+    "options": [
+      "40 Kilogram",
+      "40 kilogram",
+      "40 Kilograms",
+      "40 kilograms"
+    ],
+    "correct": 1,
+    "explanation": "40 கிலோகிராம் என்பதைக் குறிக்கும் முறை 40 kilogram ஆகும்.",
+    "question_en": "What is the method of noting 40 kilograms?",
+    "options_en": [
+      "40 Kilograms",
+      "40 kilograms",
+      "40 Kilograms",
+      "40 kilograms"
+    ],
+    "explanation_en": "40 kilograms is the method of noting 40 kilograms."
+  },
+  {
+    "id": 14,
+    "question": "கூற்று: பரப்பளவு என்பது ஒரு வழி அளவு.\nகாரணம்: அடிப்படை அளவான நீளத்தை மூன்று முறை பெருக்கினால் கிடைக்கிறது.",
+    "options": [
+      "கூற்று சரி. காரணம் தவறு",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 0,
+    "explanation": "கூற்று சரி. காரணம் தவறு",
+    "question_en": "Assertion: Area is a one way quantity.\nReason: The basic measure is obtained by multiplying the length three times.",
+    "options_en": [
+      "The statement is correct. The reason is wrong",
+      "The statement is false. The reason is correct",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation_en": "The statement is correct. The reason is wrong"
+  },
+  {
+    "id": 15,
+    "question": "கூற்று: சம நிறையுள்ள இரும்பு மற்றும் தங்கத்தை ஒப்பிட்டால், இரும்பானது அதிக பருமனைக் கொண்டிருக்கும்.\nகாரணம் 1: இரும்பைவிட தங்கத்தின் அடர்த்தி குறைவு.\nகாரணம் 2: தங்கத்தைவிட இரும்பின் அடர்த்தி குறைவு.\nகாரணம் 3: தங்கம் மற்றும் இரும்பின் அடர்த்தி சமம்.",
+    "options": [
+      "கூற்று சரி காரணம் 1 கூற்றை விளக்குகின்றது.",
+      "கூற்று சரி காரணம் 2 கூற்றை விளக்குகின்றது.",
+      "கூற்று சரி காரணம் 3 கூற்றை விளக்குகின்றது.",
+      "கூற்று மற்றும் காரணம் 1,2,3 தவறு"
+    ],
+    "correct": 1,
+    "explanation": "கூற்று சரி காரணம் 2 கூற்றை விளக்குகின்றது.",
+    "question_en": "Assertion: If equal masses of iron and gold are compared, iron has greater density.\nReason 1: Gold is less dense than iron.\nReason 2: Iron is less dense than gold.\nReason 3: Density of gold and iron are equal.",
+    "options_en": [
+      "The statement is correct Reason 1 explains the statement.",
+      "The statement is correct because 2 explains the statement.",
+      "The statement is correct Reason 3 explains the statement.",
+      "Statement and reason 1,2,3 are false"
+    ],
+    "explanation_en": "The statement is correct because 2 explains the statement."
+  },
+  {
+    "id": 16,
+    "question": "SI அலகு முறையின் சிறப்பியல்புகளுள் தவறானது எது?",
+    "options": [
+      "அணுப் பண்புகளின் அடிப்படையில் அமைந்துள்ளது.",
+      "காலத்தைப் பொறுத்து மாறாதது.",
+      "அணு எண்களின் அடிப்படையில் அமைந்துள்ளது.",
+      "பயன்படுத்துவற்கு மிக எளிமையானது."
+    ],
+    "correct": 2,
+    "explanation": "SI அலகு முறையின் சிறப்பியல்புகளுள் தவறானது அணு எண்களின் அடிப்படையில் அமைந்துள்ளது. ஆகும்.",
+    "question_en": "Which of the following characteristics of the SI system of units is false?",
+    "options_en": [
+      "Based on atomic properties.",
+      "Invariant over time.",
+      "Based on atomic numbers.",
+      "Very simple to use."
+    ],
+    "explanation_en": "Based on atomic numbers."
+  },
+  {
+    "id": 17,
+    "question": "பொருத்துக: a) நீளம் b) நிறை c) காலம் d) வெப்பநிலை \ni) கிலோகிராம் ii) கெல்வின் iii) வினாடி iv) மீட்டர்",
+    "options": [
+      "a-iii b-ii c-iv d-i",
+      "a-ii b-i c-iii d-iv",
+      "a-iv b-i d-iii",
+      "a-iv b-i c-iii d-ii"
+    ],
+    "correct": 3,
+    "explanation": "a-iv b-i c-iii d-ii",
+    "question_en": "Match: a) Length b) Mass c) Period d) Temperature \ni) Kilogram ii) Kelvin iii) Second iv) Meter",
+    "options_en": [
+      "a-iii b-ii c-iv d-i",
+      "a-ii b-i c-iii d-iv",
+      "a-iv b-i d-iii",
+      "a-iv b-i c-iii d-ii"
+    ],
+    "explanation_en": "a-iv b-i c-iii d-ii"
+  },
+  {
+    "id": 18,
+    "question": "பொருத்துக: a) நீளம் b) நிறை c) காலம் d) வெப்பநிலை \ni) K ii) s iii) m iv) kg",
+    "options": [
+      "a-iii b-iv c-ii d-i",
+      "a-ii b-i c-id d-iv",
+      "a-iv b-i c-ii d-ii",
+      "a-iv b-i c-iii d-ii"
+    ],
+    "correct": 0,
+    "explanation": "a-iii b-iv c-ii d-i",
+    "question_en": "Match: a) Length b) Mass c) Period d) Temperature \ni) K ii) s iii) m iv) kg",
+    "options_en": [
+      "a-iii b-iv c-ii d-i",
+      "a-ii b-i c-id d-iv",
+      "a-iv b-i c-ii d-ii",
+      "a-iv b-i c-iii d-ii"
+    ],
+    "explanation_en": "a-iii b-iv c-ii d-i"
+  },
+  {
+    "id": 19,
+    "question": "பொருத்துக: a) மின்னோட்டம் b) பொருளின் அளவு c) ஒளிச்செறிவு d) தளக்கோணம் \ni) ரேடியன் ii) கேண்டிலா iii) ஆம்பியர் iv) மோல்",
+    "options": [
+      "a-iii b-ii c-iv d-iv",
+      "a-iii b-iv c-ii d-i",
+      "a-ij b-i c-iv d-iii",
+      "a-ii b-iii c=iv d-i"
+    ],
+    "correct": 1,
+    "explanation": "a-iii b-iv c-ii d-i",
+    "question_en": "Match: a) Current b) Volume of object c) Transmittance d) Plan angle \ni) Radian ii) Candela iii) Ampere iv) Mole",
+    "options_en": [
+      "a-iii b-ii c-iv d-iv",
+      "a-iii b-iv c-ii d-i",
+      "a-ij b-i c-iv d-iii",
+      "a-ii b-iii c=iv d-i"
+    ],
+    "explanation_en": "a-iii b-iv c-ii d-i"
+  },
+  {
+    "id": 20,
+    "question": "ஒளிச்செறிவினை அளவிடும் கருவி எது?",
+    "options": [
+      "ஒளிமானி (photometer)",
+      "ஒளிச்செறிவுமானி (Luminous Intensity meter)",
+      "மேற்கண்ட இரண்டும்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "explanation": "ஒளிச்செறிவினை அளவிடும் கருவி மேற்கண்ட இரண்டும் ஆகும்.",
+    "question_en": "What is the instrument for measuring photoreactivity?",
+    "options_en": [
+      "photometer",
+      "Luminous Intensity meter",
+      "Both of the above",
+      "Nothing"
+    ],
+    "explanation_en": "Both of the above is the instrument for measuring photoreactivity."
+  },
+  {
+    "id": 21,
+    "question": "ஒளிப்பாயம் அல்லது ஒளித்திறனின் அலகு",
+    "options": [
+      "லூமென்",
+      "கேண்டிலா",
+      "பாஸ்கல்",
+      "நியூட்டன்"
+    ],
+    "correct": 0,
+    "explanation": "லூமென்",
+    "question_en": "Luminance or unit of light intensity",
+    "options_en": [
+      "Lumen",
+      "Candela",
+      "Pascal",
+      "Newton"
+    ],
+    "explanation_en": "Lumen"
+  },
+  {
+    "id": 22,
+    "question": "SI அலகு முறையில் வெப்பநிலையின் அலகு",
+    "options": [
+      "கெல்வின்",
+      "செல்சியஸ்",
+      "ஃபாரன்ஹீட்",
+      "நியூட்டன்"
+    ],
+    "correct": 0,
+    "explanation": "கெல்வின்",
+    "question_en": "Unit of temperature in SI unit system",
+    "options_en": [
+      "Kelvin",
+      "Celsius",
+      "Fahrenheit",
+      "Newton"
+    ],
+    "explanation_en": "Kelvin"
+  },
+  {
+    "id": 23,
+    "question": "SI அலகு முறையில் மின்னோட்டத்தின் அலகு",
+    "options": [
+      "வோல்ட்",
+      "யூனிட்",
+      "ஆம்பியர்",
+      "நியூட்டன்"
+    ],
+    "correct": 2,
+    "explanation": "ஆம்பியர்",
+    "question_en": "Unit of current in SI unit system",
+    "options_en": [
+      "Volt",
+      "unit",
+      "Ampere",
+      "Newton"
+    ],
+    "explanation_en": "Ampere"
+  },
+  {
+    "id": 24,
+    "question": "பின்வருவனவற்றுள் மெட்ரிக் அலகுமுறை அல்லாதது எது?",
+    "options": [
+      "FPS",
+      "CGS",
+      "MKS",
+      "SI"
+    ],
+    "correct": 0,
+    "explanation": "பின்வருவனவற்றுள் மெட்ரிக் அலகுமுறை அல்லாதது FPS ஆகும்.",
+    "question_en": "Which of the following is not a metric unit?",
+    "options_en": [
+      "FPS",
+      "CGS",
+      "MKS",
+      "SI"
+    ],
+    "explanation_en": "FPS is not a metric unit."
+  },
+  {
+    "id": 25,
+    "question": "CGS, FPS, MKS ஆகிய மூன்று அலகு முறையிலும் ஒரே அலகினை உடையது எது?",
+    "options": [
+      "நீளம்",
+      "நிறை",
+      "காலம்",
+      "நீளமும் நிறையும்"
+    ],
+    "correct": 2,
+    "explanation": "CGS, FPS, MKS ஆகிய மூன்று அலகு முறையிலும் ஒரே அலகினை உடையது காலம் ஆகும்.",
+    "question_en": "Which has the same unit in all the three unit systems CGS, FPS, MKS?",
+    "options_en": [
+      "length",
+      "Mass",
+      "Period",
+      "Length and mass"
+    ],
+    "explanation_en": "Period"
+  },
+  {
+    "id": 26,
+    "question": "A என்ற பொருளானது B என்ற திரவத்தில் மிதக்கிறது. எனில் A, B என்பது முறையே",
+    "options": [
+      "இரும்பு, நீர்",
+      "இரும்பு, மண்ணெண்ணெய்",
+      "இரும்பு, பாதரசம்",
+      "இரும்பு, ஆல்கஹால்"
+    ],
+    "correct": 2,
+    "explanation": "இரும்பு, பாதரசம்",
+    "question_en": "A substance A floats in a liquid B. If A and B are respectively",
+    "options_en": [
+      "Iron, water",
+      "Iron, Kerosene",
+      "Iron, mercury",
+      "Iron, alcohol"
+    ],
+    "explanation_en": "Iron, mercury"
+  },
+  {
+    "id": 27,
+    "question": "காலத்தை மிகத் துல்லியமாக அளவிடும் கருவி எது?",
+    "options": [
+      "மணற்கடிகை",
+      "சூரிய கடிகை",
+      "அணு கடிகாரம்",
+      "நீர்க் கடிகாரம்"
+    ],
+    "correct": 2,
+    "explanation": "காலத்தை மிகத் துல்லியமாக அளவிடும் கருவி அணு கடிகாரம் ஆகும்.",
+    "question_en": "Which instrument measures time most accurately?",
+    "options_en": [
+      "Sandstone",
+      "Sundial",
+      "Atomic clock",
+      "Water clock"
+    ],
+    "explanation_en": "Atomic clock"
+  },
+  {
+    "id": 28,
+    "question": "எண்ணிலக்க கடிகாரங்கள் அதாவது மின்னணுவியல் கடிகாரங்கள் எவ்வகையைச் சார்ந்தது?",
+    "options": [
+      "காட்சி அடிப்படையில் அமைந்த கடிகாரம்",
+      "செயல்படும் திறன் அடிப்படையில் அமைந்த கடிகாரம்",
+      "கைக் கடிகாரங்கள்",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 0,
+    "explanation": "எண்ணிலக்க கடிகாரங்கள் அதாவது மின்னணுவியல் கடிகாரங்கள் காட்சி அடிப்படையில் அமைந்த கடிகாரம் வகையைச் சார்ந்தது.",
+    "question_en": "What type of electronic clocks are digital clocks?",
+    "options_en": [
+      "Display based clock",
+      "A watch based on performance",
+      "Wristwatches",
+      "All right"
+    ],
+    "explanation_en": "Display based clock"
+  },
+  {
+    "id": 29,
+    "question": "பின்வருவனவற்றுள் செயல்படும் திறன் அடிப்படையில் அமைந்த கடிகார வகை எது?",
+    "options": [
+      "குவார்ட்ஸ் கடிகாரம்",
+      "அணு கடிகாரம்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "explanation": "பின்வருவனவற்றுள் செயல்படும் திறன் அடிப்படையில் அமைந்த கடிகார வகை 1 மற்றும் 2 ஆகும்.",
+    "question_en": "Which of the following is a type of clock based on performance?",
+    "options_en": [
+      "Quartz watch",
+      "Atomic clock",
+      "1 and 2",
+      "Nothing"
+    ],
+    "explanation_en": "1 and 2 is a type of clock based on performance."
+  },
+  {
+    "id": 30,
+    "question": "குவார்ட்ஸ், அணு கடிகாரங்கள் எத்தத்துவத்தில் செயல்படுகிறது?",
+    "options": [
+      "குவார்ட்ஸ் படிகங்கள், அணு அதிர்வுகளின் அடைப்படையில்",
+      "குவார்ட்ஸ் படிகங்கள், அணு வேதிப்பண்புகளின் அடைப்படையில்",
+      "குவார்ட்ஸ் படிகங்கள், அணு எடை அடைப்படையில்",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 0,
+    "explanation": "குவார்ட்ஸ் படிகங்கள், அணு அதிர்வுகளின் அடைப்படையில்",
+    "question_en": "Quartz, atomic clocks work on how well?",
+    "options_en": [
+      "Quartz crystals are subject to atomic vibrations",
+      "Quartz crystals under nuclear chemistry",
+      "Quartz crystals, in atomic weight brackets",
+      "All right"
+    ],
+    "explanation_en": "Quartz crystals are subject to atomic vibrations"
+  },
+  {
+    "id": 31,
+    "question": "துல்லியத்தன்மை அடிப்படையில் சிறந்த கடிகார வகை எது?",
+    "options": [
+      "குவார்ட்ஸ் கடிகாரம்",
+      "அணு கடிகாரம்",
+      "1 மற்றும் 2",
+      "எண்ணிலக்க கடிகாரம்"
+    ],
+    "correct": 2,
+    "explanation": "துல்லியத்தன்மை அடிப்படையில் சிறந்த கடிகார வகை 1 மற்றும் 2 ஆகும்.",
+    "question_en": "Which type of watch is best in terms of accuracy?",
+    "options_en": [
+      "Quartz watch",
+      "Atomic clock",
+      "1 and 2",
+      "Digital clock"
+    ],
+    "explanation_en": "1 and 2"
+  },
+  {
+    "id": 32,
+    "question": "கூற்று : தற்போது விண்வெளித்துறையில் அணு கடிகாரங்கள் பயன்படுத்தப்படுகிறது.\nகாரணம்: அணு கடிகாரங்கள் அதி துல்லியத்தன்மை வாய்ந்தவை.",
+    "options": [
+      "கூற்று சரி. காரணம் கூற்றை தெளிவாக விளக்குகிறது.",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று சரி. காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் தவறு."
+    ],
+    "correct": 0,
+    "explanation": "கூற்று சரி. காரணம் கூற்றை தெளிவாக விளக்குகிறது.",
+    "question_en": "Assertion : At present atomic clocks are used in space industry.\nReason: Atomic clocks are highly accurate.",
+    "options_en": [
+      "The statement is correct. Reason clearly explains the statement.",
+      "The statement is false. The reason is correct",
+      "The statement is correct. The reason is wrong",
+      "The statement and reason are false."
+    ],
+    "explanation_en": "The statement is correct. Reason clearly explains the statement."
+  },
+  {
+    "id": 33,
+    "question": "பின்வருவனவற்றுள் காட்சியின் அடிப்படையில் அமைந்த கடிகார வகை எது?",
+    "options": [
+      "குவார்ட்ஸ் கடிகாரம்",
+      "ஒப்புமை கடிகாரம்",
+      "1 மற்றும் 2",
+      "அணு கடிகாரம்"
+    ],
+    "correct": 1,
+    "explanation": "பின்வருவனவற்றுள் காட்சியின் அடிப்படையில் அமைந்த கடிகார வகை ஒப்புமை கடிகாரம் ஆகும்.",
+    "question_en": "Which of the following is a type of clock based on display?",
+    "options_en": [
+      "Quartz watch",
+      "analog clock",
+      "1 and 2",
+      "Atomic clock"
+    ],
+    "explanation_en": "Analog clock is a type of clock based on display."
+  },
+  {
+    "id": 34,
+    "question": "பின்வருவனவற்றுள் தவறான இணை எது?",
+    "options": [
+      "அணு கடிகாரம் - அணு நிறை",
+      "குவார்ட்ஸ் கடிகாரம் - மின்னணு அலைவுகள்",
+      "அணு கடிகாரம் - 1/10^13",
+      "குவார்ட்ஸ் கடிகாரம் - 1/10^9"
+    ],
+    "correct": 0,
+    "explanation": "பின்வருவனவற்றுள் தவறான இணை அணு கடிகாரம் - அணு நிறை ஆகும்.",
+    "question_en": "Which of the following is an incorrect pairing?",
+    "options_en": [
+      "Atomic Clock - Atomic mass",
+      "Quartz clock - electronic oscillations",
+      "Atomic clock - 1/10^13",
+      "Quartz watch - 1/10^9"
+    ],
+    "explanation_en": "Atomic Clock - Atomic mass is an incorrect pairing."
+  },
+  {
+    "id": 35,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்று எது?",
+    "options": [
+      "இங்கிலாந்து லண்டன் நகருக்கு அருகில் கிரீன்விச் என்னுமிடத்தில் இராயல் வானியல் ஆய்வுமையம் அமைந்துள்ளது.",
+      "புவியானது 15° இடைவெளியில் அமைந்த தீர்க்கக்கோடுகளின் அடிப்படையில் 24 நேர மண்டலங்களாகப் பிரிக்கப்பட்டுள்ளது.",
+      "இரு அடுத்தடுத்த நேரமண்டலங்களுக்கு இடையே உள்ள காலஇடைவெளி 1 மணி நேரம் ஆகும்.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "அனைத்தும்",
+    "question_en": "Which of the following is the correct statement?",
+    "options_en": [
+      "The Royal Astronomical Observatory is located in Greenwich, near London, England.",
+      "Earth is divided into 24 time zones based on equatorial lines spaced 15° apart.",
+      "The interval between two consecutive time zones is 1 hour.",
+      "Everything"
+    ],
+    "explanation_en": "Everything is the correct statement."
+  },
+  {
+    "id": 36,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்று எது?",
+    "options": [
+      "உத்திரப்பிரதேச மாநிலத்தில் உள்ள மிர்சாபூர் வழியே செல்லும் தீர்க்கக்கோட்டை ஆதாரமாகக் கொண்டு இந்திய திட்ட நேரம் கணக்கிடப்படுகிறது.",
+      "இக்கோடானது 82.5° கிழக்கில் செல்லும் தீர்க்கக்கோட்டில் அமைந்துள்ளது.",
+      "இந்திய திட்டநேரம் = கிரீன்விச் சராசரி நேரம் + 5.30 மணி",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "அனைத்தும்",
+    "question_en": "Which of the following is the correct statement?",
+    "options_en": [
+      "Indian project time is calculated based on Poshkot passing through Mirzapur in the state of Uttar Pradesh.",
+      "This line is located on the longitude of 82.5° East.",
+      "Indian Plan Time = Greenwich Mean Time + 5.30 hrs",
+      "Everything"
+    ],
+    "explanation_en": "Everything is the correct statement."
+  },
+  {
+    "id": 37,
+    "question": "பொருத்துக: a) மிர்சாபூர் b) IST c) கிரீன்விச் d) 24 நேர மண்டலங்கள் \ni) GMT+5.30 ii) 15° iii) 82.5° iv) 0°",
+    "options": [
+      "a-ii b-i c-iv d-ii",
+      "a-iii b-i c-iv d-ii",
+      "a-iv b-1 c-ii d-iii",
+      "a-i b-ii c-iv d-i"
+    ],
+    "correct": 1,
+    "explanation": "a-iii b-i c-iv d-ii",
+    "question_en": "Match: a) Mirzapur b) IST c) Greenwich d) 24 time zones \ni) GMT+5.30 ii) 15° iii) 82.5° iv) 0°",
+    "options_en": [
+      "a-ii b-i c-iv d-ii",
+      "a-iii b-i c-iv d-ii",
+      "a-iv b-1 c-ii d-iii",
+      "a-i b-ii c-iv d-i"
+    ],
+    "explanation_en": "a-iii b-i c-iv d-ii"
+  },
+  {
+    "id": 38,
+    "question": "பொருத்துக: a) ஓர் ஆண்டு b) ஓர் ஒளி ஆண்டு c) ப்ராக்ஷிமா செண்டாரி d) அண்ட மையத்திலிருந்து புவியின் தொலைவு \ni) 9.46 x 10^15 ii) 4.22 ஒளி ஆண்டு iii) 25000 ஒளி ஆண்டு iv) 3.153x10^7",
+    "options": [
+      "a-ii b-i c-iv d-iii",
+      "a-iii b-i d-ii",
+      "a-iv b-i c-ii d-iii",
+      "a-i c-iv d-ii"
+    ],
+    "correct": 2,
+    "explanation": "a-iv b-i c-ii d-iii",
+    "question_en": "Match: a) One year b) One light year c) Proxima Centauri d) Earth's distance from cosmic center \ni) 9.46 x 10^15 ii) 4.22 light years iii) 25000 light years iv) 3.153x10^7",
+    "options_en": [
+      "a-ii b-i c-iv d-iii",
+      "a-iii b-i d-ii",
+      "a-iv b-i c-ii d-iii",
+      "a-i c-iv d-ii"
+    ],
+    "explanation_en": "a-iv b-i c-ii d-iii"
+  },
+  {
+    "id": 39,
+    "question": "ஒரு அளவீட்டை சிறப்பாக மேற்கொள்ள _________ அவசியமாகிறது.",
+    "options": [
+      "கருவி",
+      "திட்ட அளவு",
+      "ஏற்றுக்கொள்ளப்பட்ட அலகு",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "ஒரு அளவீட்டை சிறப்பாக மேற்கொள்ள அனைத்தும் அவசியமாகிறது.",
+    "question_en": "To carry out a measurement well _________ is necessary.",
+    "options_en": [
+      "Tool",
+      "Project size",
+      "accepted unit",
+      "Everything"
+    ],
+    "explanation_en": "To carry out a measurement well Everything is necessary."
+  },
+  {
+    "id": 40,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்று எது?",
+    "options": [
+      "கண்டறியப்பட்ட மதிப்பு உண்மையான மதிப்பிற்கு எவ்வளவு நெருக்கமாக உள்ளது என்பதை துல்லியத்தன்மை குறிக்கிறது.",
+      "இரண்டு அல்லது அதற்கு மேற்பட்ட அளவீடுகள் எவ்வளவு நெருக்கமாக உள்ளது என்பதை நுட்பம் குறிக்கிறது.",
+      "தோராய மதிப்பு என்பது உண்மையான மதிப்புக்கு நெருக்கமாக உள்ள மதிப்பாகும்.",
+      "அனைத்தும் சரி."
+    ],
+    "correct": 3,
+    "explanation": "அனைத்தும் சரி.",
+    "question_en": "Which of the following is the correct statement?",
+    "options_en": [
+      "Accuracy refers to how close the detected value is to the true value.",
+      "The technique indicates how close two or more measurements are.",
+      "An approximate value is a value that is close to the true value.",
+      "All right."
+    ],
+    "explanation_en": "All right. is the correct statement."
+  },
+  {
+    "id": 41,
+    "question": "ஓர் எண்ணை முழுமையாக்குதலுக்கான விதிகளை வரிசைப்படுத்துக.",
+    "options": [
+      "அ,ஆ,இ,ஈ",
+      "அ,இ,ஈ,ஆ",
+      "ஈ,ஆ, இ,அ",
+      "ஆ, ஈ, அ, இ"
+    ],
+    "correct": 3,
+    "explanation": "ஆ, ஈ, அ, இ",
+    "question_en": "List the rules for rounding a number.",
+    "options_en": [
+      "A, B, E, E",
+      "A, E, E, B",
+      "E, B, E, A",
+      "A, E, A, E"
+    ],
+    "explanation_en": "A, E, A, E"
+  },
+  {
+    "id": 42,
+    "question": "எண்களை முழுமையாக்கலின் அடிப்படையில் பின்வருவனவற்றுள் தவறான இணை எது ?",
+    "options": [
+      "1.864 -> 1.86",
+      "1.868 -> 1.87",
+      "1.864 -> 1.87",
+      "1.865 -> 1.87"
+    ],
+    "correct": 2,
+    "explanation": "1.864 -> 1.87",
+    "question_en": "Which of the following is a wrong combination based on rounding off numbers?",
+    "options_en": [
+      "1.864 -> 1.86",
+      "1.868 -> 1.87",
+      "1.864 -> 1.87",
+      "1.865 -> 1.87"
+    ],
+    "explanation_en": "1.864 -> 1.87 is a wrong combination based on rounding off numbers."
+  },
+  {
+    "id": 43,
+    "question": "பின்வருவனவற்றுள் சிறந்த துல்லியத்தன்மை, நுட்பம் ஆகியவற்றைக் குறிக்கும் படம் எது?",
+    "image": "image/q43.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "பின்வருவனவற்றுள் சிறந்த துல்லியத்தன்மை, நுட்பம் ஆகியவற்றைக் குறிக்கும் படம் படம் 3 ஆகும்.",
+    "question_en": "Which of the following pictures represents the best accuracy, technique?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Figure 3"
+  },
+  {
+    "id": 44,
+    "question": "பின்வரும் கூற்றுகளில் சரியானது எது?",
+    "options": [
+      "நிறை என்பது பொருளில் உள்ள பருப்பொருளின் அளவே ஆகும்.",
+      "எடை என்பது நிறையின் மீது செயல்படும் புவிஈர்ப்பு விசை ஆகும்.",
+      "இடத்தைப் பொறுத்து நிறை மாறாது, எடை மாறும்.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "அனைத்தும்",
+    "question_en": "Which of the following statements is correct?",
+    "options_en": [
+      "Mass is the amount of matter in matter.",
+      "Weight is the force of gravity acting on mass.",
+      "Mass does not change with position, weight does.",
+      "Everything"
+    ],
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 45,
+    "question": "திரவங்களின் பருமனை அளக்கும் கருவி எது?",
+    "options": [
+      "அளவிடும் குடுவை",
+      "பியூரெட்",
+      "பிப்பெட்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "திரவங்களின் பருமனை அளக்கும் கருவி அனைத்தும் ஆகும்.",
+    "question_en": "Which instrument measures density of liquids?",
+    "options_en": [
+      "Measuring flask",
+      "Burette",
+      "Pipette",
+      "Everything"
+    ],
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 46,
+    "question": "1 லிட்டர் =",
+    "options": [
+      "100 CC",
+      "1000 CC",
+      "10000 CC",
+      "100000 CC"
+    ],
+    "correct": 1,
+    "explanation": "1000 CC",
+    "question_en": "1 liter =",
+    "options_en": [
+      "100 cc",
+      "1000 cc",
+      "10000 cc",
+      "100000 cc"
+    ],
+    "explanation_en": "1000 cc"
+  },
+  {
+    "id": 47,
+    "question": "பொருத்துக: a) பரப்பளவு b) கனஅளவு c) அடர்த்தி \ni) பொருளின் மேற்பரப்பு ii) நிறை / பருமன் iii) பருமன் \nஅ) m³ ஆ) kg/m³ இ) m²",
+    "options": [
+      "a-iii-2 b-ii-2 c-i-91",
+      "a-ii-9i b-i-2 c-iii-91",
+      "a-i-இ b-iii-அ c-ii-ஆ",
+      "a-i-91 b-iii-2 c-ii-91"
+    ],
+    "correct": 2,
+    "explanation": "a-i-இ b-iii-அ c-ii-ஆ",
+    "question_en": "Match: a) Area b) Volume c) Density \ni) Surface area of object ii) Mass / bulk iii) Volume \na) m³ b) kg/m³ c) m²",
+    "options_en": [
+      "a-iii-2 b-ii-2 c-i-91",
+      "a-ii-9i b-i-2 c-iii-91",
+      "a-i-e b-iii-a c-ii-b",
+      "a-i-91 b-iii-2 c-ii-91"
+    ],
+    "explanation_en": "a-i-e b-iii-a c-ii-b"
+  },
+  {
+    "id": 48,
+    "question": "பொருத்துக: (i) சதுரம் (ii) செவ்வகம் (iii) முக்கோணம் (iv) வட்டம் (v) ஒழுங்கற்ற வடிவம் \na. lb b. 1/2bh c. வரைபடத்தாள் d. a² e. πr²",
+    "options": [
+      "(i)-c (ii)-d (iii)-a (iv)-e (v)-b",
+      "(i)-d (ii)-a (iii)-b (iv)-e (v)-c",
+      "(i)-d (ii)-e (iii)-a (iv)-c (v)-b",
+      "(i)-c (ii)-a (iii)-b (iv)-e (v)-d"
+    ],
+    "correct": 1,
+    "explanation": "(i)-d (ii)-a (iii)-b (iv)-e (v)-c",
+    "question_en": "Match: (i) Square (ii) Rectangle (iii) Triangle (iv) Circle (v) Irregular shape \na. lb b. 1/2 bh c. Graph paper d. a² e. πr²",
+    "options_en": [
+      "(i)-c (ii)-d (iii)-a (iv)-e (v)-b",
+      "(i)-d (ii)-a (iii)-b (iv)-e (v)-c",
+      "(i)-d (ii)-e (iii)-a (iv)-c (v)-b",
+      "(i)-c (ii)-a (iii)-b (iv)-e (v)-d"
+    ],
+    "explanation_en": "(i)-d (ii)-a (iii)-b (iv)-e (v)-c"
+  },
+  {
+    "id": 49,
+    "question": "பொருத்துக: a) கனசதுரம் b) கனசெவ்வகம் c) கோளம் d) உருளை \ni) நீளம் x நீளம் x நீளம் ii) நீளம் x அகலம் x உயரம் iii) πr²h iv) 4/3 πr³",
+    "options": [
+      "a-ii b-i c-iv d-iii",
+      "a-iii b-i c-iv d-ii",
+      "a-i b-ii c-iv d-iii",
+      "a-i b-iii c-iv d-ii"
+    ],
+    "correct": 2,
+    "explanation": "a-i b-ii c-iv d-iii",
+    "question_en": "Match: a) Cube b) Rectangle c) Sphere d) Cylinder \ni) length x length x length ii) length x width x height iii) πr²h iv) 4/3 πr³",
+    "options_en": [
+      "a-ii b-i c-iv d-iii",
+      "a-iii b-i c-iv d-ii",
+      "a-i b-ii c-iv d-iii",
+      "a-i b-iii c-iv d-ii"
+    ],
+    "explanation_en": "a-i b-ii c-iv d-iii"
+  },
+  {
+    "id": 50,
+    "question": "12 மீ நீளமும், 4 மீ அகலமும் உடைய செவ்வகத்தின் பரப்பு",
+    "options": [
+      "48 மீ",
+      "3",
+      "48 மீ²",
+      "154"
+    ],
+    "correct": 2,
+    "explanation": "48 மீ²",
+    "question_en": "Area of ​​a rectangle 12 m long and 4 m wide",
+    "options_en": [
+      "48 m",
+      "3",
+      "48 m²",
+      "154"
+    ],
+    "explanation_en": "48 m²"
+  },
+  {
+    "id": 51,
+    "question": "7 மீ ஆரமுடைய வட்டத்தின் பரப்பு",
+    "options": [
+      "154 மீ²",
+      "54 மீ²",
+      "48 மீ²",
+      "3.154"
+    ],
+    "correct": 0,
+    "explanation": "154 மீ²",
+    "question_en": "Area of ​​a circle of radius 7 m",
+    "options_en": [
+      "154 m²",
+      "54 m²",
+      "48 m²",
+      "3.154"
+    ],
+    "explanation_en": "154 m²"
+  },
+  {
+    "id": 52,
+    "question": "அடிப்பக்கம் 6 மீ, உயரம் 8 மீ உடைய முக்கோணத்தின் பரப்பு",
+    "options": [
+      "24 மீ",
+      "48 மீ",
+      "24 மீ²",
+      "48 மீ²"
+    ],
+    "correct": 2,
+    "explanation": "24 மீ²",
+    "question_en": "Area of ​​a triangle with base 6 m and height 8 m",
+    "options_en": [
+      "24 m",
+      "48 m",
+      "24 m²",
+      "48 m²"
+    ],
+    "explanation_en": "24 m²"
+  },
+  {
+    "id": 53,
+    "question": "ஒழுங்கற்ற வடிவமுடைய பொருளின் பரப்பளவை ________ ஐ பயன்படுத்தி கண்டறியலாம்.",
+    "options": [
+      "அளவுகோல்",
+      "அளவு நாடா",
+      "காகிதம்",
+      "வரைபடத்தாள்"
+    ],
+    "correct": 3,
+    "explanation": "ஒழுங்கற்ற வடிவமுடைய பொருளின் பரப்பளவை வரைபடத்தாள் ஐ பயன்படுத்தி கண்டறியலாம்.",
+    "question_en": "The surface area of ​​an irregularly shaped object can be found using ________.",
+    "options_en": [
+      "Criterion",
+      "Measuring tape",
+      "Paper",
+      "Map sheet"
+    ],
+    "explanation_en": "The surface area of ​​an irregularly shaped object can be found using Map sheet."
+  },
+  {
+    "id": 54,
+    "question": "அளவீட்டு முகவை, நிரம்பி வழியும் முகவை போன்றவற்றைப் பயன்படுத்தி ________ பொருளின் கனஅளவைக் கண்டறியலாம்.",
+    "options": [
+      "ஒழுங்கான வடிவமுடைய",
+      "ஒழுங்கற்ற வடிவமுடைய",
+      "ஒழுங்கான, ஒழுங்கற்ற வடிவமுடைய",
+      "அதிக அடர்த்தி கொண்ட"
+    ],
+    "correct": 1,
+    "explanation": "அளவீட்டு முகவை, நிரம்பி வழியும் முகவை போன்றவற்றைப் பயன்படுத்தி ஒழுங்கற்ற வடிவமுடைய பொருளின் கனஅளவைக் கண்டறியலாம்.",
+    "question_en": "The volume of ________ substance can be found using volumetric flask, overflow flask, etc.",
+    "options_en": [
+      "Regularly shaped",
+      "Irregular shaped",
+      "Regular, irregular shaped",
+      "High density"
+    ],
+    "explanation_en": "The volume of Irregular shaped substance can be found using volumetric flask, overflow flask, etc."
+  },
+  {
+    "id": 55,
+    "question": "அளவீட்டு முகவை, நிரம்பி வழியும் முகவை போன்றவற்றைப் பயன்படுத்தி ________ பொருளின் கனஅளவைக் கண்டறியலாம்.",
+    "options": [
+      "ஒழுங்கான வடிவமுடைய",
+      "ஒழுங்கற்ற வடிவமுடைய",
+      "ஒழுங்கான, ஒழுங்கற்ற வடிவமுடைய",
+      "அதிக அடர்த்தி கொண்ட"
+    ],
+    "correct": 2,
+    "explanation": "அளவீட்டு முகவை, நிரம்பி வழியும் முகவை போன்றவற்றைப் பயன்படுத்தி ஒழுங்கான, ஒழுங்கற்ற வடிவமுடைய பொருளின் கனஅளவைக் கண்டறியலாம்.",
+    "question_en": "The volume of ________ substance can be found using volumetric flask, overflow flask, etc.",
+    "options_en": [
+      "Regularly shaped",
+      "Irregular shaped",
+      "Regular, irregular shaped",
+      "High density"
+    ],
+    "explanation_en": "The volume of Regular, irregular shaped substance can be found using volumetric flask, overflow flask, etc."
+  },
+  {
+    "id": 56,
+    "question": "அடர்த்தி =",
+    "options": [
+      "நிறை / கனஅளவு",
+      "நிறை x கனஅளவு",
+      "கனஅளவு + நிறை",
+      "கனஅளவு - நிறை"
+    ],
+    "correct": 0,
+    "explanation": "நிறை / கனஅளவு",
+    "question_en": "Density =",
+    "options_en": [
+      "Mass / Volume",
+      "Mass x volume",
+      "Volume + Mass",
+      "Volume - mass"
+    ],
+    "explanation_en": "Mass / Volume"
+  },
+  {
+    "id": 57,
+    "question": "அடர்த்தியின் SI அலகு",
+    "options": [
+      "கி.கி.மீ-3",
+      "கி.கி.மீ",
+      "கி.கி./மீ3",
+      "1 மற்றும் 3"
+    ],
+    "correct": 3,
+    "explanation": "1 மற்றும் 3",
+    "question_en": "SI unit of density",
+    "options_en": [
+      "km-3",
+      "km",
+      "kg/m3",
+      "1 and 3"
+    ],
+    "explanation_en": "1 and 3"
+  },
+  {
+    "id": 58,
+    "question": "பின்வருவனவற்றுள் தவறானது எது?",
+    "options": [
+      "நிறை = அடர்த்தி × கனஅளவு",
+      "நிறை = அடர்த்தி / கனஅளவு",
+      "கனஅளவு = நிறை / அடர்த்தி",
+      "அடர்த்தி = நிறை / கனஅளவு"
+    ],
+    "correct": 1,
+    "explanation": "பின்வருவனவற்றுள் தவறானது நிறை = அடர்த்தி / கனஅளவு ஆகும்.",
+    "question_en": "Which of the following is false?",
+    "options_en": [
+      "Mass = Density × Volume",
+      "Mass = Density / Volume",
+      "Volume = mass / density",
+      "Density = mass / volume"
+    ],
+    "explanation_en": "Mass = Density / Volume is false."
+  },
+  {
+    "id": 59,
+    "question": "படத்தை உற்றுநோக்கி கல்லின் கனஅளவைக் கூறுக.",
+    "image": "image/q59.png",
+    "options": [
+      "10 மி.லி",
+      "30 மி.லி",
+      "40 மி.லி",
+      "50 மி.லி"
+    ],
+    "correct": 0,
+    "explanation": "10 மி.லி",
+    "question_en": "Look at the picture and tell the mass of the stone.",
+    "options_en": [
+      "10 ml",
+      "30 ml",
+      "40 ml",
+      "50 ml"
+    ],
+    "explanation_en": "10 ml"
+  },
+  {
+    "id": 60,
+    "question": "படத்திலிருந்து நாம் அறிவது என்ன? (தக்கை, இரும்புக் குண்டு)",
+    "image": "image/q60.png",
+    "options": [
+      "தக்கை நீரைவிட குறைவான அடர்த்தியைப் பெற்றிருப்பதால் நீரில் மிதக்கிறது.",
+      "இரும்பு நீரைவிட அதிகமான அடர்த்தியைப் பெற்றிருப்பதால் நீரில் மூழ்குகிறது.",
+      "இரும்பைவிட தக்கை குறைவான அடர்த்தியைப் பெற்றுள்ளது.",
+      "அனைத்தும் சரியான கூற்றுகள்."
+    ],
+    "correct": 3,
+    "explanation": "அனைத்தும் சரியான கூற்றுகள்.",
+    "question_en": "What do we know from the film? (Thai, Iron Bullet)",
+    "options_en": [
+      "A plant floats in water because it has less density than water.",
+      "Iron sinks in water because it is denser than water.",
+      "Steel is less dense than iron.",
+      "All are correct statements."
+    ],
+    "explanation_en": "All are correct statements."
+  },
+  {
+    "id": 61,
+    "question": "படத்திலிருந்து தவறான கூற்றத் தேர்வு செய்க.",
+    "image": "image/q61.png",
+    "options": [
+      "தக்கை, நீரைவிட குறைவான அடர்த்தியைப் பெற்றிருப்பதால் நீரில் மிதக்கிறது.",
+      "தக்கை, இரும்பு, நீர் ஆகிய மூன்று பொருள்களை ஒப்பிடும்போது, நீர் குறைவான அடர்த்தியைப் பெற்றுள்ளது.",
+      "இரும்பைவிட தக்கை குறைவான அடர்த்தியைப் பெற்றுள்ளது.",
+      "இரும்பு நீரைவிட அதிகமான அடர்த்தியைப் பெற்றிருப்பதால் நீரில் மூழ்குகிறது."
+    ],
+    "correct": 1,
+    "explanation": "தக்கை, இரும்பு, நீர் ஆகிய மூன்று பொருள்களை ஒப்பிடும்போது, நீர் குறைவான அடர்த்தியைப் பெற்றுள்ளது.",
+    "question_en": "Choose the incorrect statement from the picture.",
+    "options_en": [
+      "Bamboo floats on water because it has less density than water.",
+      "Compared to the three materials of wood, iron and water, water has less density.",
+      "Steel is less dense than iron.",
+      "Iron sinks in water because it is denser than water."
+    ],
+    "explanation_en": "Compared to the three materials of wood, iron and water, water has less density."
+  },
+  {
+    "id": 62,
+    "question": "தக்கை, இரும்பு, நீர் ஆகிய மூன்று பொருள்களின் சரியான அடர்த்தி வரிசை எது?",
+    "options": [
+      "தக்கை < இரும்பு < நீர்",
+      "தக்கை > இரும்பு > நீர்",
+      "தக்கை < நீர் < இரும்பு",
+      "தக்கை > இரும்பு < நீர்"
+    ],
+    "correct": 2,
+    "explanation": "தக்கை, இரும்பு, நீர் ஆகிய மூன்று பொருள்களின் சரியான அடர்த்தி வரிசை தக்கை < நீர் < இரும்பு ஆகும்.",
+    "question_en": "What is the correct order of density of the three substances carbon, iron and water?",
+    "options_en": [
+      "Steel < Iron < Water",
+      "Iron > Iron > Water",
+      "Succulents < Water < Iron",
+      "Iron > Iron < Water"
+    ],
+    "explanation_en": "Succulents < Water < Iron is the correct order of density of the three substances carbon, iron and water."
+  },
+  {
+    "id": 63,
+    "question": "280 கி.கி நிறை கொண்ட ஒரு திட உருளையின் கனஅளவு 4 மீ³ எனில் அதன் அடர்த்தி யாது?",
+    "options": [
+      "70 கி.கி / மீ3",
+      "1120 கி.கி /மீ3",
+      "70 கி.கி / மீ-3",
+      "1120 கி.கி / மீ3"
+    ],
+    "correct": 0,
+    "explanation": "280 கி.கி நிறை கொண்ட ஒரு திட உருளையின் கனஅளவு 4 மீ³ எனில் அதன் அடர்த்தி 70 கி.கி / மீ3 ஆகும்.",
+    "question_en": "What is the density of a solid cylinder of mass 280 kg if its volume is 4 m³?",
+    "options_en": [
+      "70 kg / m3",
+      "1120 kg/m3",
+      "70 kg / m-3",
+      "1120 kg / m3"
+    ],
+    "explanation_en": "70 kg / m3 is the density of a solid cylinder of mass 280 kg if its volume is 4 m³."
+  },
+  {
+    "id": 64,
+    "question": "ஒரு பெட்டியின் பருமன் 100 மீ³ எனில் அதன் நிறை யாது? (அடர்த்தி 10 கி /மீ3)",
+    "options": [
+      "10 கிகி",
+      "1000 கிகி",
+      "0.1 கிகி",
+      "0.1 கி.கி"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு பெட்டியின் பருமன் 100 மீ³ எனில் அதன் நிறை 1000 கிகி ஆகும். (அடர்த்தி 10 கி /மீ3)",
+    "question_en": "What is the mass of a box if its volume is 100 m³? (density 10 kg/m3)",
+    "options_en": [
+      "10 kg",
+      "1000 kg",
+      "0.1 kg",
+      "0.1 kg"
+    ],
+    "explanation_en": "1000 kg is the mass of a box if its volume is 100 m³. (density 10 kg/m3)"
+  },
+  {
+    "id": 65,
+    "question": "சமநிறையுள்ள இரு கோளங்களின் கன அளவு விகிதம் 2:1 எனில், அவற்றின் அடர்த்தியின் விகிதம்",
+    "options": [
+      "2:1",
+      "1:2",
+      "4:1",
+      "1:4"
+    ],
+    "correct": 1,
+    "explanation": "1:2",
+    "question_en": "If the volume ratio of two equal spheres is 2:1, then the ratio of their densities is",
+    "options_en": [
+      "2:1",
+      "1:2",
+      "4:1",
+      "1:4"
+    ],
+    "explanation_en": "1:2"
+  },
+  {
+    "id": 66,
+    "question": "ஒப்புமை தருக. பரப்பளவு : மீ² : : கன அளவு : ?",
+    "options": [
+      "a³",
+      "மீ³",
+      "a²",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "மீ³",
+    "question_en": "Give an analogy. Area : m² : : Volume : ?",
+    "options_en": [
+      "a³",
+      "m³",
+      "a²",
+      "4"
+    ],
+    "explanation_en": "m³"
+  },
+  {
+    "id": 67,
+    "question": "ஒப்புமையின் அடிப்படையில் சரியான இணை எது?",
+    "options": [
+      "பரப்பளவு : வரைபடத்தாள் :கன அளவு :அளவுகோல்",
+      "திரவம் : லிட்டர் : : திடப்பொருள் :அடர்த்தி",
+      "கன அளவு : lbh :: பரப்பளவு : a²",
+      "அடர்த்தி : kg m³ : : வாயுப்பொருள் : குறைந்த அடர்த்தி"
+    ],
+    "correct": 2,
+    "explanation": "ஒப்புமையின் அடிப்படையில் சரியான இணை கன அளவு : lbh :: பரப்பளவு : a² ஆகும்.",
+    "question_en": "Which is the correct counterpart based on the analogy?",
+    "options_en": [
+      "Area : Map Sheet : Volume : Scale",
+      "Liquid : Liter : : Solid : Density",
+      "Volume : lbh :: Area : a²",
+      "Density : kg m³ : : Gaseous substance : Low density"
+    ],
+    "explanation_en": "Volume : lbh :: Area : a² is the correct counterpart based on the analogy."
+  },
+  {
+    "id": 68,
+    "question": "பின்வருனவற்றுள் சரியான கூற்று எது?",
+    "options": [
+      "ஒரு பொருளின் மேற்பரப்பே அதன் கன அளவு எனப்படும்.",
+      "திரவங்களின் கன அளவை வரைபடத்தாள் உதவியுடன் காணலாம்.",
+      "இரும்பு குண்டு பாதரசத்தில் மிதக்கும்.",
+      "ஒழுங்கற்ற வடிவமுடைய பொருளின் கன அளவை வாய்பாடுகள் மூலம் கணக்கிடலாம்."
+    ],
+    "correct": 2,
+    "explanation": "இரும்பு குண்டு பாதரசத்தில் மிதக்கும்.",
+    "question_en": "Which of the following statements is correct?",
+    "options_en": [
+      "The surface area of ​​an object is called its volume.",
+      "Volume of liquids can be found with the help of graph paper.",
+      "Iron bullet floats in mercury.",
+      "The volume of an irregularly shaped object can be calculated by probability."
+    ],
+    "explanation_en": "Iron bullet floats in mercury."
+  },
+  {
+    "id": 69,
+    "question": "ஒரு வானியல் அலகு என்பது",
+    "options": [
+      "149.6 மில்லியன் கி.மீ.",
+      "1.496 x 10^8 கி.மீ.",
+      "1.496 x 10^{11} மீ.",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "அனைத்தும்",
+    "question_en": "An astronomical unit is",
+    "options_en": [
+      "149.6 million km.",
+      "1.496 x 10^8 km.",
+      "1.496 x 10^{11} m.",
+      "Everything"
+    ],
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 70,
+    "question": "ஒரு ஒளி ஆண்டு என்பது",
+    "options": [
+      "9.46 x 10^{15} மீ",
+      "1.496 x 10^8 கி.மீ",
+      "1.496 x 10^{11} மீ",
+      "2 மற்றும் 3"
+    ],
+    "correct": 0,
+    "explanation": "9.46 x 10^{15} மீ",
+    "question_en": "A light year is",
+    "options_en": [
+      "9.46 x 10^{15} m",
+      "1.496 x 10^8 km",
+      "1.496 x 10^{11} m",
+      "2 and 3"
+    ],
+    "explanation_en": "9.46 x 10^{15} m"
+  },
+  {
+    "id": 71,
+    "question": "கோள்களுக்கிடைப்பட்ட தொலைவை ________ என்ற அலகால் அளக்கிறோம்.",
+    "options": [
+      "வானியல் அலகு",
+      "மீட்டர்",
+      "ஒளி ஆண்டு",
+      "நாட்டிகல் மைல்"
+    ],
+    "correct": 0,
+    "explanation": "கோள்களுக்கிடைப்பட்ட தொலைவை வானியல் அலகு என்ற அலகால் அளக்கிறோம்.",
+    "question_en": "The distance between the planets is measured by ________.",
+    "options_en": [
+      "Astronomical unit",
+      "meter",
+      "light year",
+      "Nautical miles"
+    ],
+    "explanation_en": "The distance between the planets is measured by Astronomical unit."
+  },
+  {
+    "id": 72,
+    "question": "விண்மீன்களுக்கிடைப்பட்ட தொலைவை ________ என்ற அலகால் அளக்கிறோம்.",
+    "options": [
+      "வானியல் அலகு",
+      "மீட்டர்",
+      "ஒளி ஆண்டு",
+      "நாட்டிகல் மைல்"
+    ],
+    "correct": 2,
+    "explanation": "விண்மீன்களுக்கிடைப்பட்ட தொலைவை ஒளி ஆண்டு என்ற அலகால் அளக்கிறோம்.",
+    "question_en": "The distance between the stars is measured by ________.",
+    "options_en": [
+      "Astronomical unit",
+      "meter",
+      "light year",
+      "Nautical miles"
+    ],
+    "explanation_en": "The distance between the stars is measured by light year."
+  },
+  {
+    "id": 73,
+    "question": "பின்வருவனவற்றுள் தவறான இணை எது?",
+    "options": [
+      "ஃபிராக்ஸிமா சென்டாரி - புவியிலிருந்து 4.22 ஒளி ஆண்டு தொலைவு",
+      "பூமி - அண்ட மையத்திலிருந்து 25000 ஒளி ஆண்டு தொலைவு",
+      "ஒளி ஆண்டு - 9.46x10^{15} மீ",
+      "வானியல் அலகு - -1.496x10^{11} மீ"
+    ],
+    "correct": 3,
+    "explanation": "பின்வருவனவற்றுள் தவறான இணை வானியல் அலகு - -1.496x10^{11} மீ ஆகும்.",
+    "question_en": "Which of the following is an incorrect pairing?",
+    "options_en": [
+      "Fraxima Centauri - 4.22 light years from Earth",
+      "Earth - 25000 light years from the center of the universe",
+      "Light year - 9.46x10^{15} m",
+      "Astronomical unit - -1.496x10^{11} m"
+    ],
+    "explanation_en": "Astronomical unit - -1.496x10^{11} m is an incorrect pairing."
+  },
+  {
+    "id": 74,
+    "question": "பின்வருவனவற்றுள் தவறான இணை எது?",
+    "options": [
+      "1 அடி - 30 மி.மீ.",
+      "1 கேலன் - 3785 மி.லி",
+      "1 அவுன்ஸ் - 30 மி.லி",
+      "1 குவார்ட் - 1 லிட்டர்"
+    ],
+    "correct": 0,
+    "explanation": "பின்வருவனவற்றுள் தவறான இணை 1 அடி - 30 மி.மீ. ஆகும்.",
+    "question_en": "Which of the following is an incorrect pairing?",
+    "options_en": [
+      "1 ft - 30 mm",
+      "1 gallon - 3785 ml",
+      "1 oz - 30 ml",
+      "1 quart - 1 liter"
+    ],
+    "explanation_en": "1 ft - 30 mm is an incorrect pairing."
+  },
+  {
+    "id": 75,
+    "question": "ஒரு பொருள் பெற்றிருக்கும் வெப்பம் அல்லது குளிர்ச்சியின் அளவு ________ எனப்படுகிறது.",
+    "options": [
+      "வெப்ப ஆற்றல்",
+      "வெப்பநிலை",
+      "வெப்பமானி",
+      "வெப்பநிலைமானி"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு பொருள் பெற்றிருக்கும் வெப்பம் அல்லது குளிர்ச்சியின் அளவு வெப்பநிலை எனப்படுகிறது.",
+    "question_en": "The amount of heat or cold an object has acquired is called ________.",
+    "options_en": [
+      "Heat energy",
+      "temperature",
+      "Thermometer",
+      "Thermometer"
+    ],
+    "explanation_en": "The amount of heat or cold an object has acquired is called temperature."
+  },
+  {
+    "id": 76,
+    "question": "ஒரு பொருளில் அடங்கியுள்ள மூலக்கூறுகளின் சராசரி இயக்க ஆற்றல்",
+    "options": [
+      "வெப்பம்",
+      "வெப்பநிலை",
+      "வெப்ப ஏற்புத்திறன்",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "explanation": "வெப்பநிலை",
+    "question_en": "The average kinetic energy of the molecules contained in a substance",
+    "options_en": [
+      "Heat",
+      "temperature",
+      "Heat receptivity",
+      "Everything"
+    ],
+    "explanation_en": "temperature"
+  },
+  {
+    "id": 77,
+    "question": "மின்னோட்டம் I =",
+    "options": [
+      "Q/t",
+      "Q x t",
+      "t/Q",
+      "2 மற்றும் 3"
+    ],
+    "correct": 0,
+    "explanation": "Q/t",
+    "question_en": "Current I =",
+    "options_en": [
+      "Q/t",
+      "Q x t",
+      "t/Q",
+      "2 and 3"
+    ],
+    "explanation_en": "Q/t"
+  },
+  {
+    "id": 78,
+    "question": "இரு கோடுகள் அல்லது இரு தளங்கள் வெட்டிக் கொள்வதால் உருவாகும் கோணம்",
+    "options": [
+      "தளக்கோணம்",
+      "திண்மக்கோணம்",
+      "செங்கோணம்",
+      "ஐங்கோணம்"
+    ],
+    "correct": 0,
+    "explanation": "தளக்கோணம்",
+    "question_en": "An angle formed by the intersection of two lines or planes",
+    "options_en": [
+      "Base angle",
+      "solid angle",
+      "right angle",
+      "pentagon"
+    ],
+    "explanation_en": "Base angle"
+  },
+  {
+    "id": 79,
+    "question": "மூன்று அல்லது அதற்கு மேற்பட்ட தளங்கள் வெட்டிக் கொள்வதால் உருவாகும் கோணம்",
+    "options": [
+      "தளக்கோணம்",
+      "திண்மக்கோணம்",
+      "செங்கோணம்",
+      "ஐங்கோணம்"
+    ],
+    "correct": 1,
+    "explanation": "திண்மக்கோணம்",
+    "question_en": "An angle formed by the intersection of three or more planes",
+    "options_en": [
+      "Base angle",
+      "solid angle",
+      "right angle",
+      "pentagon"
+    ],
+    "explanation_en": "solid angle"
+  },
+  {
+    "id": 80,
+    "question": "பின்வருவனவற்றுள் முப்பரிமாணம் கொண்டது எது?",
+    "options": [
+      "தளக்கோணம்",
+      "திண்மக்கோணம்",
+      "செங்கோணம்",
+      "ஐங்கோணம்"
+    ],
+    "correct": 1,
+    "explanation": "பின்வருவனவற்றுள் முப்பரிமாணம் கொண்டது திண்மக்கோணம் ஆகும்.",
+    "question_en": "Which of the following has three dimensions?",
+    "options_en": [
+      "Base angle",
+      "solid angle",
+      "right angle",
+      "pentagon"
+    ],
+    "explanation_en": "solid angle"
+  },
+  {
+    "id": 81,
+    "question": "தளக்கோணத்தின் அலகு",
+    "options": [
+      "ரேடியன்",
+      "rad",
+      "1 மற்றும் 2",
+      "1 மட்டும்"
+    ],
+    "correct": 2,
+    "explanation": "1 மற்றும் 2",
+    "question_en": "Unit of base angle",
+    "options_en": [
+      "Radian",
+      "rad",
+      "1 and 2",
+      "1 only"
+    ],
+    "explanation_en": "1 and 2"
+  },
+  {
+    "id": 82,
+    "question": "திண்மக்கோணத்தின் அலகு",
+    "options": [
+      "ஸ்ட்ரேடியன்",
+      "sr",
+      "1 மற்றும் 2",
+      "1 மட்டும்"
+    ],
+    "correct": 2,
+    "explanation": "1 மற்றும் 2",
+    "question_en": "Unit of solid angle",
+    "options_en": [
+      "Stration",
+      "sr",
+      "1 and 2",
+      "1 only"
+    ],
+    "explanation_en": "1 and 2"
+  },
+  {
+    "id": 83,
+    "question": "பின்வருவனவற்றுள் சரியானது எது?",
+    "options": [
+      "π ரேடியன் = 180°",
+      "1 ரேடியன் = 180° / π",
+      "π / 180° = 1 / ரேடியன்",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 3,
+    "explanation": "பின்வருவனவற்றுள் சரியானது அனைத்தும் சரி ஆகும்.",
+    "question_en": "Which of the following is correct?",
+    "options_en": [
+      "π radian = 180°",
+      "1 radian = 180° / π",
+      "π / 180° = 1 / radian",
+      "All right"
+    ],
+    "explanation_en": "All right is correct."
+  },
+  {
+    "id": 84,
+    "question": "60° என்பதன் ரேடியன் மதிப்பு யாது?",
+    "options": [
+      "π ரேடியன்",
+      "π / 2 ரேடியன்",
+      "π / 3 ரேடியன்",
+      "π / 4 ரேடியன்"
+    ],
+    "correct": 2,
+    "explanation": "60° என்பதன் ரேடியன் மதிப்பு π / 3 ரேடியன் ஆகும்.",
+    "question_en": "What is the radian value of 60°?",
+    "options_en": [
+      "π radian",
+      "π / 2 radian",
+      "π / 3 radian",
+      "π / 4 radian"
+    ],
+    "explanation_en": "Π / 3 radian is the radian value of 60°."
+  },
+  {
+    "id": 85,
+    "question": "π / 4 ரேடியன் என்பதன் டிகிரி மதிப்பு யாது?",
+    "options": [
+      "60°",
+      "45°",
+      "30°",
+      "15°"
+    ],
+    "correct": 1,
+    "explanation": "π / 4 ரேடியன் என்பதன் டிகிரி மதிப்பு 45° ஆகும்.",
+    "question_en": "What is the degree value of π / 4 radian?",
+    "options_en": [
+      "60°",
+      "45°",
+      "30°",
+      "15°"
+    ],
+    "explanation_en": "45° is the degree value of π / 4 radian."
+  },
+  {
+    "id": 86,
+    "question": "30 K (-243.15 °C) என்ற மிகக் குறைந்த வெப்பநிலையில், சில கடத்திகள் எந்த விதமான மின் இழப்பும் இன்றி மின்னோட்டத்தைக் கடத்துகின்றன. இக்கடத்திகள் ________ எனப்படும்.",
+    "options": [
+      "குறைக்கடத்திகள்",
+      "மீக்கடத்திகள்",
+      "நற்கடத்திகள்",
+      "காப்பான்கள்"
+    ],
+    "correct": 1,
+    "explanation": "30 K (-243.15 °C) என்ற மிகக் குறைந்த வெப்பநிலையில், சில கடத்திகள் எந்த விதமான மின் இழப்பும் இன்றி மின்னோட்டத்தைக் கடத்துகின்றன. இக்கடத்திகள் மீக்கடத்திகள் எனப்படும்.",
+    "question_en": "At temperatures as low as 30 K (-243.15 °C), some conductors conduct current without any electrical loss. These conductors are called ________.",
+    "options_en": [
+      "Semiconductors",
+      "conductors",
+      "Conductors",
+      "Keepers"
+    ],
+    "explanation_en": "At temperatures as low as 30 K (-243.15 °C), some conductors conduct current without any electrical loss. These conductors are called conductors."
+  },
+  {
+    "id": 87,
+    "question": "மீக்கடத்திகள் எங்கு பயன்படுகிறது?",
+    "options": [
+      "கணினி நினைவகம், புல்லட் ரயில்",
+      "வீடுகள், கடைகள்",
+      "வாகனங்கள், கணினி",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "explanation": "கணினி நினைவகம், புல்லட் ரயில்",
+    "question_en": "Where are superconductors used?",
+    "options_en": [
+      "Computer memory, bullet train",
+      "Houses, shops",
+      "Vehicles, computer",
+      "Everything"
+    ],
+    "explanation_en": "Computer memory, bullet train"
+  },
+  {
+    "id": 88,
+    "question": "பின்வருவனவற்றுள் தவறான இணை எது?",
+    "options": [
+      "மின்னூட்டம் - கூலூம்",
+      "மின்னோட்டம் - ஆம்பியர்",
+      "ஒளிச்செறிவு - மோல்",
+      "ஒளிப்பாயம் - லூமென்"
+    ],
+    "correct": 2,
+    "explanation": "பின்வருவனவற்றுள் தவறான இணை ஒளிச்செறிவு - மோல் ஆகும்.",
+    "question_en": "Which of the following is an incorrect pairing?",
+    "options_en": [
+      "Charge - Coulomb",
+      "Current – ​​Ampere",
+      "Photoluminescence - Mol",
+      "Lumen - Lumen"
+    ],
+    "explanation_en": "Photoluminescence - Mol is an incorrect pairing."
+  },
+  {
+    "id": 89,
+    "question": "ஒலியின் அளவினை அளக்கப் பயன்படும் அலகு எது?",
+    "options": [
+      "கேண்டிலா",
+      "ஆம்பியர்",
+      "டெசிபல்",
+      "வாட்"
+    ],
+    "correct": 2,
+    "explanation": "ஒலியின் அளவினை அளக்கப் பயன்படும் அலகு டெசிபல் ஆகும்.",
+    "question_en": "Which unit is used to measure the volume of sound?",
+    "options_en": [
+      "Candela",
+      "Ampere",
+      "Decibel",
+      "Watt"
+    ],
+    "explanation_en": "Decibel"
+  },
+  {
+    "id": 90,
+    "question": "பின்வருவனவற்றுள் சரியான வரிசை எது?",
+    "options": [
+      "மீட்டர் < கிலோமீட்டர் < ஒளி ஆண்டு < வானியல் அலகு",
+      "கிலோமீட்டர் < மீட்டர் < ஒளி ஆண்டு < வானியல் அலகு",
+      "மீட்டர் < கிலோமீட்டர் < வானியல் அலகு < ஒளி ஆண்டு",
+      "மீட்டர் > கிலோமீட்டர் > வானியல் அலகு > ஒளி ஆண்டு"
+    ],
+    "correct": 2,
+    "explanation": "பின்வருவனவற்றுள் சரியான வரிசை மீட்டர் < கிலோமீட்டர் < வானியல் அலகு < ஒளி ஆண்டு ஆகும்.",
+    "question_en": "Which of the following is the correct order?",
+    "options_en": [
+      "Meter < Kilometer < Light Year < Astronomical Unit",
+      "Kilometer < meter < light year < astronomical unit",
+      "Meter < Kilometer < Astronomical Unit < Light Year",
+      "Meter > Kilometer > Astronomical Unit > Light Year"
+    ],
+    "explanation_en": "Meter < Kilometer < Astronomical Unit < Light Year is the correct order."
+  },
+  {
+    "id": 91,
+    "question": "கூற்று 1: குவார்ட்ஸ் கடிகாரம் 1/10^9 வினாடி துல்லியத்தன்மை கொண்டது.\nகூற்று 2: அணு கடிகாரம் 1/10^13 வினாடி துல்லியத்தன்மை கொண்டது.\nகூற்று 3: சூரிய கடிகாரம், நீர் கடிகாரம் 1/10^2 வினாடி துல்லியத்தன்மை கொண்டது.",
+    "options": [
+      "கூற்று 1 மட்டும் சரி",
+      "கூற்று 1,2 சரி",
+      "கூற்று 2,3 சரி",
+      "அனைத்து கூற்றுகளும் சரி"
+    ],
+    "correct": 1,
+    "explanation": "கூற்று 1,2 சரி",
+    "question_en": "Assertion 1: A quartz clock has an accuracy of 1/10^9 second.\nAssertion 2: Atomic clock has an accuracy of 1/10^13 second.\nAssertion 3: A sundial, a water clock has an accuracy of 1/10^2 second.",
+    "options_en": [
+      "Only statement 1 is correct",
+      "Statement 1,2 are correct",
+      "Statement 2,3 are correct",
+      "All statements are correct"
+    ],
+    "explanation_en": "Statement 1,2 are correct"
+  },
+  {
+    "id": 92,
+    "question": "ஒப்புமை தருக: திரவம் : லிட்டர் :: திடப்பொருள் : ?",
+    "options": [
+      "மி.லி",
+      "கி.கி",
+      "செ.மீ",
+      "மீ"
+    ],
+    "correct": 1,
+    "explanation": "கி.கி",
+    "question_en": "Analogy: Liquid : Liter :: Solid : ?",
+    "options_en": [
+      "ml",
+      "KG",
+      "cm",
+      "m"
+    ],
+    "explanation_en": "KG"
+  },
+  {
+    "id": 93,
+    "question": "கூற்று: கல்லின் கனஅளவை அளவிடும் முகவை மூலம் அளக்கலாம்.\nகாரணம்: கல் ஒரு ஒழுங்கற்ற வடிவமுடைய பொருள்.",
+    "options": [
+      "கூற்று சரி. காரணம் தவறு",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 3,
+    "explanation": "கூற்று மற்றும் காரணம் சரி",
+    "question_en": "Assertion: The volume of a stone can be measured using a measuring cup.\nReason: Stone is an irregularly shaped material.",
+    "options_en": [
+      "The statement is correct. The reason is wrong",
+      "The statement is false. The reason is correct",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation_en": "The statement and reason are correct"
+  },
+  {
+    "id": 94,
+    "question": "கூற்று: மரக்கட்டை நீரில் மிதக்கும்.\nகாரணம்: நீர் ஒளி ஊடுருவும் பொருள்.",
+    "options": [
+      "கூற்று சரி. காரணம் தவறு (விளக்கவில்லை)",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 0,
+    "explanation": "கூற்று சரி. காரணம் தவறு (விளக்கவில்லை)",
+    "question_en": "Assertion: A log floats on water.\nReason: Water is light penetrating material.",
+    "options_en": [
+      "The statement is correct. Reason is wrong (not explained).",
+      "The statement is false. The reason is correct",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation_en": "The statement is correct. Reason is wrong (not explained)."
+  },
+  {
+    "id": 95,
+    "question": "ஒரு கனமீட்டர் என்பது",
+    "options": [
+      "1000000 கன சென்டி மீட்டர்",
+      "100000",
+      "10000",
+      "1000"
+    ],
+    "correct": 0,
+    "explanation": "1000000 கன சென்டி மீட்டர்",
+    "question_en": "A cubic meter is",
+    "options_en": [
+      "1000000 cubic centimeter",
+      "100000",
+      "10000",
+      "1000"
+    ],
+    "explanation_en": "1000000 cubic centimeter"
+  },
+  {
+    "id": 96,
+    "question": "பாதரசத்தின் அடர்த்தி",
+    "options": [
+      "13600 கிகி/மீ3",
+      "1000",
+      "10000",
+      "100"
+    ],
+    "correct": 0,
+    "explanation": "13600 கிகி/மீ3",
+    "question_en": "Density of mercury",
+    "options_en": [
+      "13600 kg/m3",
+      "1000",
+      "10000",
+      "100"
+    ],
+    "explanation_en": "13600 kg/m3"
+  },
+  {
+    "id": 97,
+    "question": "பொருத்துக: a) பரப்பு b) நீளம் c) அடர்த்தி d) நிறை \ni) தள வடிவ பொருள் ii) கயிறு iii) பருப்பொருளின் அளவு iv) கி / செமீ³",
+    "options": [
+      "a-ii b-i c-iv d-iii",
+      "a-iii b-i c-iv d-ii",
+      "a-i b-ii c-iv d-iii",
+      "a-i b-iii c-iv d-ii"
+    ],
+    "correct": 2,
+    "explanation": "a-i b-ii c-iv d-iii",
+    "question_en": "Match: a) Area b) Length c) Density d) Mass \ni) Planar material ii) Rope iii) Volume of mass iv) Kg/cm³",
+    "options_en": [
+      "a-ii b-i c-iv d-iii",
+      "a-iii b-i c-iv d-ii",
+      "a-i b-ii c-iv d-iii",
+      "a-i b-iii c-iv d-ii"
+    ],
+    "explanation_en": "a-i b-ii c-iv d-iii"
+  },
+  {
+    "id": 98,
+    "question": "ஒளிச்செறிவு என்பது ________ ன் ஒளிச்செறிவாகும்.",
+    "options": [
+      "லேசர் ஒளி",
+      "புற ஊதாக்கதிர்",
+      "கண்ணுறு ஒளி",
+      "அகச் சிவப்புக்கதிர்"
+    ],
+    "correct": 2,
+    "explanation": "ஒளிச்செறிவு என்பது கண்ணுறு ஒளி ன் ஒளிச்செறிவாகும்.",
+    "question_en": "Light transmittance is the light transmittance of ________.",
+    "options_en": [
+      "Laser light",
+      "Ultraviolet",
+      "Eye light",
+      "Infrared"
+    ],
+    "explanation_en": "Light transmittance is the light transmittance of Eye light."
+  },
+  {
+    "id": 99,
+    "question": "பொருத்துக: a) வெப்பநிலை b) தளக்கோணம் c) திண்மக்கோணம் d) துல்லியத்தன்மை e) நுட்பம் \ni) உண்மையான மதிப்பின் நெருங்கிய அளவு ii) வெப்பம் அல்லது குளிர்ச்சியின் அளவு iii) நெருங்கிய தன்மை iv) மூன்று அல்லது மேற்பட்ட தளங்கள் v) இரண்டு தளங்கள்",
+    "options": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-i c-iv d-ii e-v",
+      "a-i b-ii c-iv d-ii e-v",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "correct": 0,
+    "explanation": "a-ii b-v c-iv d-i e-iii",
+    "question_en": "Match: a) Temperature b) Plan angle c) Solid angle d) Precision e) Technique \ni) Proximity to the actual value ii) Degree of heat or cold iii) Proximity iv) Three or more bases v) Two bases",
+    "options_en": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-i c-iv d-ii e-v",
+      "a-i b-ii c-iv d-ii e-v",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "explanation_en": "a-ii b-v c-iv d-i e-iii"
+  },
+  {
+    "id": 100,
+    "question": "கூற்று : SI அலகுமுறை அளவீடுகளுக்கான மிகச்சரியான அலகுமுறையாகும்.\nகாரணம் : வெப்பநிலையின் SI அலகு கெல்வின் ஆகும்.",
+    "options": [
+      "கூற்று மற்றும் காரணம் சரி. மேலும் காரணம் கூற்றுக்குச் சரியான விளக்கம்.",
+      "கூற்று மற்றும் காரணம் சரி. மேலும் காரணம் கூற்றுக்குச் சரியான விளக்கம் அல்ல.",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று தவறு மற்றும் காரணம் சரி"
+    ],
+    "correct": 1,
+    "explanation": "கூற்று மற்றும் காரணம் சரி. மேலும் காரணம் கூற்றுக்குச் சரியான விளக்கம் அல்ல.",
+    "question_en": "Assertion : The SI unit system is the perfect unit for measurements.\nReason : The SI unit of temperature is Kelvin.",
+    "options_en": [
+      "The statement and reason are correct. And reason is the correct explanation for the statement.",
+      "The statement and reason are correct. And reason is not a valid explanation for the claim.",
+      "The statement and reason are false",
+      "The statement is false and the reason is correct"
+    ],
+    "explanation_en": "The statement and reason are correct. And reason is not a valid explanation for the claim."
+  },
+  {
+    "id": 101,
+    "question": "கூற்று (A): திண்மக்கோணத்தின் அலகு ரேடியன்.\nகூற்று (B): ஒரு வட்டத்தின் ஆரத்திற்குச் சமமான வில் ஒன்று வட்டத்தின் மையத்தில் ஏற்படுத்தும் கோணமே ஒரு ரேடியன் எனப்படும்.",
+    "options": [
+      "கூற்று (A), (B) சரி",
+      "கூற்று (A) மட்டும் சரி",
+      "கூற்று (B) மட்டும் சரி",
+      "கூற்று (A), (B) தவறு"
+    ],
+    "correct": 2,
+    "explanation": "கூற்று (B) மட்டும் சரி",
+    "question_en": "Assertion (A): The unit of solid angle is radian.\nAssertion (B): The angle subtended by an arc equal to the radius of a circle at the center of the circle is called a radian.",
+    "options_en": [
+      "Statement (A), (B) are correct",
+      "Only statement (A) is correct",
+      "Only statement (B) is correct",
+      "Statement (A), (B) is false"
+    ],
+    "explanation_en": "Only statement (B) is correct"
+  },
+  {
+    "id": 102,
+    "question": "36 கி.மீ/மணி = ________ மீ/விநாடி",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "1000"
+    ],
+    "correct": 1,
+    "explanation": "36 கி.மீ/மணி = 10 மீ/விநாடி",
+    "question_en": "36 km/hr = ________ m/sec",
+    "options_en": [
+      "1",
+      "10",
+      "100",
+      "1000"
+    ],
+    "explanation_en": "36 km/hr = 10 m/sec"
+  },
+  {
+    "id": 103,
+    "question": "ஒரு நேனோமீட்டர் என்பது",
+    "options": [
+      "10^-9 மீட்டர்",
+      "10^9 மீட்டர்",
+      "10^-8 மீட்டர்",
+      "10^8 மீட்டர்"
+    ],
+    "correct": 0,
+    "explanation": "10^-9 மீட்டர்",
+    "question_en": "A nanometer is",
+    "options_en": [
+      "10^-9 meters",
+      "10^9 meters",
+      "10^-8 meters",
+      "10^8 meters"
+    ],
+    "explanation_en": "10^-9 meters"
+  },
+  {
+    "id": 104,
+    "question": "கடல் மட்டத்தில் வளிமண்டல அழுத்தத்தின் மதிப்பு",
+    "options": [
+      "10^3 N/m²",
+      "10^4 N/m²",
+      "10^5 N/m²",
+      "10^2 N/m²"
+    ],
+    "correct": 2,
+    "explanation": "10^5 N/m²",
+    "question_en": "Value of atmospheric pressure at sea level",
+    "options_en": [
+      "10^3 N/m²",
+      "10^4 N/m²",
+      "10^5 N/m²",
+      "10^2 N/m²"
+    ],
+    "explanation_en": "10^5 N/m²"
+  },
+  {
+    "id": 105,
+    "question": "கீழே கொடுக்கப்பட்ட படத்தில் சிறிய கனச்சதுரம் ஒன்றின் பக்கம் 2 செ.மீ எனில் பெரிய கனச்சதுரத்தின் பருமன் யாது?",
+    "image": "image/q105.png",
+    "options": [
+      "8 செ.மீ³",
+      "64 செ.மீ³",
+      "192 செ.மீ³",
+      "32 செ.மீ³"
+    ],
+    "correct": 1,
+    "explanation": "கீழே கொடுக்கப்பட்ட படத்தில் சிறிய கனச்சதுரம் ஒன்றின் பக்கம் 2 செ.மீ எனில் பெரிய கனச்சதுரத்தின் பருமன் 64 செ.மீ³ ஆகும்.",
+    "question_en": "In the figure below, if the side of the smaller cube is 2 cm, what is the volume of the larger cube?",
+    "options_en": [
+      "8 cm³",
+      "64 cm³",
+      "192 cm³",
+      "32 cm³"
+    ],
+    "explanation_en": "In the figure below, if the side of the smaller cube is 2 cm, 64 cm³ is the volume of the larger cube."
+  },
+  {
+    "id": 106,
+    "question": "A, B என்ற இரு பொருள்களின் நிறை விகிதம் 1:4 மேலும் அவற்றின் பரும விகிதம் சமம் எனில் அவற்றின் அடர்த்தி விகிதம்",
+    "options": [
+      "4:1",
+      "1:4",
+      "2:1",
+      "3:1"
+    ],
+    "correct": 1,
+    "explanation": "1:4",
+    "question_en": "If the mass ratio of two objects A and B is 1:4 and their volume ratio is equal, then their density ratio is equal",
+    "options_en": [
+      "4:1",
+      "1:4",
+      "2:1",
+      "3:1"
+    ],
+    "explanation_en": "1:4"
+  },
+  {
+    "id": 107,
+    "question": "நீரில் மிதக்கும் மரத்தக்கை ஒன்றை ஆல்கஹாலில் போட்டால்",
+    "options": [
+      "சற்று மேலெழும்பி மிதக்கும்",
+      "நீரில் மிதந்தது போலவே மிதக்கும்",
+      "மூழ்கும்",
+      "மூழ்கி பின் மிதக்கும்"
+    ],
+    "correct": 2,
+    "explanation": "மூழ்கும்",
+    "question_en": "A piece of wood floating in water is dipped in alcohol",
+    "options_en": [
+      "Slightly raised and floats",
+      "It floats like it floats in water",
+      "sinking",
+      "Sinks and then floats"
+    ],
+    "explanation_en": "sinking"
+  },
+  {
+    "id": 108,
+    "question": "ஒரு தனி ஊசலை அமைத்து... நிறையினை அதிகரித்து... தற்போதைய அலைவு நேரம்",
+    "options": [
+      "அலைவு நேரம் மாறுவதில்லை.",
+      "அலைவு நேரம் அதிகரிக்கிறது",
+      "அலைவு நேரம் குறைகிறது.",
+      "முதலில் அதிகரித்து பின்பு குறைகிறது."
+    ],
+    "correct": 0,
+    "explanation": "ஒரு தனி ஊசலை அமைத்துஅலைவு நேரம் மாறுவதில்லை. நிறையினை அதிகரித்துஅலைவு நேரம் மாறுவதில்லை. தற்போதைய அலைவு நேரம்",
+    "question_en": "Setting up a separate pendulum... increasing the mass... current oscillation time",
+    "options_en": [
+      "Oscillation time does not change.",
+      "Oscillation time increases",
+      "Oscillation time decreases.",
+      "First increases and then decreases."
+    ],
+    "explanation_en": "Setting up a separate pendulumOscillation time does not change. increasing the massOscillation time does not change. current oscillation time"
+  },
+  {
+    "id": 109,
+    "question": "கீழ்க்கண்டவற்றுள் எது வழி அளவுகள் கிடையாது?",
+    "options": [
+      "பரப்பளவு",
+      "கன அளவு",
+      "நீளம்",
+      "அடர்த்தி"
+    ],
+    "correct": 2,
+    "explanation": "கீழ்க்கண்டவற்றுள் எது வழி அளவுகள் கிடைநீளம் ஆகும்.",
+    "question_en": "Which of the following is not a path measure?",
+    "options_en": [
+      "area",
+      "volume",
+      "length",
+      "density"
+    ],
+    "explanation_en": "Length is not a path measure."
+  },
+  {
+    "id": 110,
+    "question": "பின்வருவனவற்றுள் எது SI அலகு முறைப்படி சரியானது?",
+    "options": [
+      "newton",
+      "Joule",
+      "Kgs",
+      "M"
+    ],
+    "correct": 0,
+    "explanation": "newton",
+    "question_en": "Which of the following is the correct SI unit system?",
+    "options_en": [
+      "newton",
+      "Joule",
+      "Kgs",
+      "M"
+    ],
+    "explanation_en": "Newton is the correct SI unit system."
+  },
+  {
+    "id": 111,
+    "question": "ஒரு பரப்பின் மீது 50 N விசை செயல்பட்டு 25 N/m² அழுத்தத்தை ஏற்படுத்துகிறது எனில் அந்த பரப்பு எவ்வளவு?",
+    "options": [
+      "5 m²",
+      "10 m²",
+      "2 m²",
+      "15 m²"
+    ],
+    "correct": 2,
+    "explanation": "2 m²",
+    "question_en": "If a force of 50 N acts on a surface and exerts a pressure of 25 N/m², what is the surface area?",
+    "options_en": [
+      "5 m²",
+      "10 m²",
+      "2 m²",
+      "15 m²"
+    ],
+    "explanation_en": "If a force of 50 N acts on a surface and exerts a pressure of 25 N/m², 2 m² is the surface area."
+  },
+  {
+    "id": 112,
+    "question": "ஒரு தனி ஊசலின் நீளம் அதிகரிக்கும் பொழுது அதன் அலைவு நேரம்",
+    "options": [
+      "குறையும்",
+      "அதிகரிக்கும்",
+      "மாறாமல் இருக்கும்",
+      "அதிகரிக்கும் அல்லது குறையும்"
+    ],
+    "correct": 1,
+    "explanation": "அதிகரிக்கும்",
+    "question_en": "As the length of a single pendulum increases, so does its period of oscillation",
+    "options_en": [
+      "decrease",
+      "will increase",
+      "will remain unchanged",
+      "increase or decrease"
+    ],
+    "explanation_en": "will increase"
+  },
+  {
+    "id": 113,
+    "question": "மிகச்சிறிய அளவில் உள்ள அணுக்களை ________ என்ற அளவில் குறிப்பிடுகிறோம்.",
+    "options": [
+      "10^-9 m",
+      "10^-8 m",
+      "10^-7 m",
+      "10^-6 m"
+    ],
+    "correct": 0,
+    "explanation": "மிகச்சிறிய அளவில் உள்ள அணுக்களை 10^-9 m என்ற அளவில் குறிப்பிடுகிறோம்.",
+    "question_en": "The smallest atoms are referred to as ________.",
+    "options_en": [
+      "10^-9 m",
+      "10^-8 m",
+      "10^-7 m",
+      "10^-6 m"
+    ],
+    "explanation_en": "The smallest atoms are referred to as 10^-9 m."
+  },
+  {
+    "id": 114,
+    "question": "பொருத்துக: 1 ஏக்கர், 1 ஹெக்டேர், 1 மீட்டர், 1 சதுர மீட்டர் \n(i) 3.28 அடி (ii) 10.76 சதுர அடி (iii) 4047 m² (iv) 2.47 ஏக்கர்",
+    "options": [
+      "iii, iv, i, ii",
+      "iii, i, iv, ii",
+      "iv, i, iii, ii",
+      "i, ii, iv, i"
+    ],
+    "correct": 0,
+    "explanation": "iii, iv, i, ii",
+    "question_en": "Fit: 1 acre, 1 hectare, 1 meter, 1 square meter \n(i) 3.28 ft (ii) 10.76 sq ft (iii) 4047 m² (iv) 2.47 acres",
+    "options_en": [
+      "iii, iv, i, ii",
+      "iii, i, iv, ii",
+      "iv, i, iii, ii",
+      "i, ii, iv, i"
+    ],
+    "explanation_en": "iii, iv, i, ii"
+  },
+  {
+    "id": 115,
+    "question": "90° என்பதை ரேடியனாக மாற்றுக",
+    "options": [
+      "π/2 ரேடியன்",
+      "π/3 ரேடியன்",
+      "2π/2 ரேடியன்",
+      "3π/2 ரேடியன்"
+    ],
+    "correct": 0,
+    "explanation": "π/2 ரேடியன்",
+    "question_en": "Convert 90° to radians",
+    "options_en": [
+      "π/2 radian",
+      "π/3 radian",
+      "2π/2 radians",
+      "3π/2 radians"
+    ],
+    "explanation_en": "π/2 radian"
+  },
+  {
+    "id": 116,
+    "question": "மிகத் துல்லியத் தன்மை கொண்ட கடிகாரம்",
+    "options": [
+      "அணுக் கடிகாரம்",
+      "எண்ணிலக்க கடிகாரம்",
+      "குவார்ட்ஸ் கடிகாரம்",
+      "சூரியக் கடிகாரம்"
+    ],
+    "correct": 0,
+    "explanation": "அணுக் கடிகாரம்",
+    "question_en": "A highly accurate watch",
+    "options_en": [
+      "Atomic clock",
+      "Digital clock",
+      "Quartz watch",
+      "Sundial"
+    ],
+    "explanation_en": "Atomic clock"
+  },
+  {
+    "id": 117,
+    "question": "சரியான பொருத்தம்: (i) வெப்பநிலை (A) கேண்டிலா (ii) பொருளின் அளவு (B) கெல்வின் (iii) ஒளிச்செறிவு (C) மோல் (iv) நிறை (D) கிலோகிராம்",
+    "options": [
+      "(i)-(B) (ii)-(A) (iii)-(D) (iv)-(C)",
+      "(i)-(C) (ii)-(D) (iii)-(A) (iv)-(B)",
+      "(i)-(D) (ii)-(B) (iii)-(C) (iv)-(A)",
+      "(i)-(B) (ii)-(C) (iii)-(A) (iv)-(D)"
+    ],
+    "correct": 3,
+    "explanation": "(i)-(B) (ii)-(C) (iii)-(A) (iv)-(D)",
+    "question_en": "Correct Match: (i) Temperature (A) Candela (ii) Volume of substance (B) Kelvin (iii) Light intensity (C) Mole (iv) Mass (D) Kilogram",
+    "options_en": [
+      "(i)-(B) (ii)-(A) (iii)-(D) (iv)-(C)",
+      "(i)-(C) (ii)-(D) (iii)-(A) (iv)-(B)",
+      "(i)-(D) (ii)-(B) (iii)-(C) (iv)-(A)",
+      "(i)-(B) (ii)-(C) (iii)-(A) (iv)-(D)"
+    ],
+    "explanation_en": "(i)-(B) (ii)-(C) (iii)-(A) (iv)-(D)"
+  },
+  {
+    "id": 118,
+    "question": "அணுக்கள் மற்றும் மூலக்கூறுகள் அளக்கப் பயன்படும் அலகு",
+    "options": [
+      "நேனோமீட்டர்",
+      "மில்லிமீட்டர்",
+      "சென்டிமீட்டர்",
+      "கிலோமீட்டர்"
+    ],
+    "correct": 0,
+    "explanation": "நேனோமீட்டர்",
+    "question_en": "A unit used to measure atoms and molecules",
+    "options_en": [
+      "Nanometer",
+      "millimeter",
+      "centimeter",
+      "kilometers"
+    ],
+    "explanation_en": "Nanometer"
+  },
+  {
+    "id": 119,
+    "question": "TMC என்பது",
+    "options": [
+      "ஆயிரம் மில்லியன் கன அடி",
+      "பத்தாயிரம் மில்லியன் கன அடி",
+      "பத்து மில்லியன் கன அடி",
+      "இருபதாயிரம் மில்லியன் கன அடி"
+    ],
+    "correct": 0,
+    "explanation": "ஆயிரம் மில்லியன் கன அடி",
+    "question_en": "TMC stands for",
+    "options_en": [
+      "One thousand million cubic feet",
+      "Ten thousand million cubic feet",
+      "Ten million cubic feet",
+      "Twenty thousand million cubic feet"
+    ],
+    "explanation_en": "One thousand million cubic feet"
+  },
+  {
+    "id": 120,
+    "question": "பொருத்துக: (1) கூலூம் (i) σ (2) ஆம்பியர் (ii) Ω (3) மின்கடத்துத் திறன் (iii) I (4) மின்தடை (iv) q",
+    "options": [
+      "iii, i, iv, ii",
+      "iv, iii, i, ii",
+      "iv, iii, ii, i",
+      "ii, iv, iii, i"
+    ],
+    "correct": 1,
+    "explanation": "iv, iii, i, ii",
+    "question_en": "Match: (1) Coulomb (i) σ (2) Ampere (ii) Ω (3) Conductivity (iii) I (4) Resistivity (iv) q",
+    "options_en": [
+      "iii, i, iv, ii",
+      "iv, iii, i, ii",
+      "iv, iii, ii, i",
+      "ii, iv, iii, i"
+    ],
+    "explanation_en": "iv, iii, i, ii"
+  }
+]

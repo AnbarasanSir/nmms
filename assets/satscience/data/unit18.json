@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "question": "உலகில் இயற்கையின் மிகப்பெரிய கொடையாக ________ ஐ கருதலாம்",
+    "options": [
+      "தாவரங்கள்",
+      "விலங்குகள்",
+      "மனிதர்கள்",
+      "பூச்சிகள்"
+    ],
+    "correct": 1,
+    "explanation": "உலகில் இயற்கையின் மிகப்பெரிய கொடையாக விலங்குகள் ஐ கருதலாம்",
+    "question_en": "________ can be considered as the greatest gift of nature in the world",
+    "options_en": [
+      "Plants",
+      "Animals",
+      "Human beings",
+      "Insects"
+    ],
+    "explanation_en": "Animals can be considered as the greatest gift of nature in the world"
+  },
+  {
+    "id": 2,
+    "question": "பிறந்த குழந்தைகள் அல்லது குட்டிகளின் முக்கிய ஆதார ஊட்டச்சத்து உணவு ________.",
+    "options": [
+      "புரதம்",
+      "கார்போஹைட்ரேட்",
+      "நீர்",
+      "பால்"
+    ],
+    "correct": 3,
+    "explanation": "பிறந்த குழந்தைகள் அல்லது குட்டிகளின் முக்கிய ஆதார ஊட்டச்சத்து உணவு பால்.",
+    "question_en": "The main source of nutrition for newborns or young children is food ________.",
+    "options_en": [
+      "protein",
+      "Carbohydrate",
+      "Water",
+      "Milk"
+    ],
+    "explanation_en": "The main source of nutrition for newborns or young children is food Milk."
+  },
+  {
+    "id": 3,
+    "question": "பாலில் உள்ள முக்கிய ஊட்டச்சத்துக்கள் ________.",
+    "options": [
+      "புரதம் மற்றும் கார்போஹைட்ரேட்",
+      "புரதம் மற்றும் கால்சியம்",
+      "கால்சியம் மற்றும் கொழுப்பு",
+      "புரதம் மற்றும் கொழுப்பு"
+    ],
+    "correct": 1,
+    "explanation": "பாலில் உள்ள முக்கிய ஊட்டச்சத்துக்கள் புரதம் மற்றும் கால்சியம்.",
+    "question_en": "The main nutrients in milk are ________.",
+    "options_en": [
+      "Protein and carbohydrates",
+      "Protein and calcium",
+      "Calcium and fat",
+      "Protein and fat"
+    ],
+    "explanation_en": "The main nutrients in milk are Protein and calcium."
+  },
+  {
+    "id": 4,
+    "question": "பெண் பறவையினங்கள் முட்டையிடுவது ________.",
+    "options": [
+      "உணவுக்காக",
+      "இளம்உயிர்கள் உருவாவதற்கு",
+      "அடிப்படை செயல்பாட்டிற்காக",
+      "அடைகாத்தலுக்காக"
+    ],
+    "correct": 1,
+    "explanation": "பெண் பறவையினங்கள் முட்டையிடுவது இளம்உயிர்கள் உருவாவதற்கு.",
+    "question_en": "Female birds lay eggs by ________.",
+    "options_en": [
+      "for food",
+      "For the formation of young organisms",
+      "For basic functionality",
+      "For incubation"
+    ],
+    "explanation_en": "Female birds lay eggs by For the formation of young organisms."
+  },
+  {
+    "id": 5,
+    "question": "புரதச்சத்து மிக்க உணவு ________ வளர்ச்சிக்கு உதவுகிறது.",
+    "options": [
+      "உடல் வளர்ச்சி மற்றும் மூளை வளர்ச்சி",
+      "உடல் வளர்ச்சி மற்றும் மனவளர்ச்சி",
+      "மூளை வளர்ச்சி மற்றும் தசை வளர்ச்சி",
+      "எலும்பு வளர்ச்சி மற்றும் மூளை வளர்ச்சி"
+    ],
+    "correct": 0,
+    "explanation": "புரதச்சத்து மிக்க உணவு உடல் வளர்ச்சி மற்றும் மூளை வளர்ச்சி வளர்ச்சிக்கு உதவுகிறது.",
+    "question_en": "A diet rich in protein helps in the development of ________.",
+    "options_en": [
+      "Physical development and brain development",
+      "Physical development and mental development",
+      "Brain development and muscle development",
+      "Bone growth and brain development"
+    ],
+    "explanation_en": "A diet rich in protein helps in the development of Physical development and brain development."
+  },
+  {
+    "id": 6,
+    "question": "தேனீக்கள் மலர்களிலிருந்து ________ என்ற இனிப்புச்சாற்றை சேகரித்து அதை தேனாக மாற்றி தேன் கூட்டில் சேகரிக்கிறது.",
+    "options": [
+      "வெக்டார்",
+      "தேனடை",
+      "நெக்டார்",
+      "மல்பெரி"
+    ],
+    "correct": 2,
+    "explanation": "தேனீக்கள் மலர்களிலிருந்து நெக்டார் என்ற இனிப்புச்சாற்றை சேகரித்து அதை தேனாக மாற்றி தேன் கூட்டில் சேகரிக்கிறது.",
+    "question_en": "Bees collect the sweet nectar called ________ from flowers and convert it into honey and collect it in the hive.",
+    "options_en": [
+      "Vector",
+      "Honeycomb",
+      "Nectar",
+      "Mulberry"
+    ],
+    "explanation_en": "Bees collect the sweet nectar called Nectar from flowers and convert it into honey and collect it in the hive."
+  },
+  {
+    "id": 7,
+    "question": "கீழ்க்கண்டவற்றுள் எவை வேலைக்காரத் தேனீக்களின் வேலை இல்லை?",
+    "options": [
+      "தேனை சேகரித்தல்",
+      "இளந்தேனீக்களை வளர்த்தல்",
+      "தேன்கூட்டினை சேதமடையாமல் பாதுகாத்தல்",
+      "இனப்பெருக்கம் செய்தல்"
+    ],
+    "correct": 3,
+    "explanation": "இனப்பெருக்கம் செய்தல்",
+    "question_en": "Which of the following is not a job of worker bees?",
+    "options_en": [
+      "Collecting honey",
+      "Rearing of young bees",
+      "Protecting the hive from damage",
+      "Breeding"
+    ],
+    "explanation_en": "Breeding is not a job of worker bees."
+  },
+  {
+    "id": 8,
+    "question": "கோழிகளுக்கு உருவாகும் ________ நோய் வைரஸால் ஏற்படுகிறது.",
+    "options": [
+      "ஆஸ்பர்ஜில்லஸ் நோய்",
+      "சால்மோனெல்லோசிஸ்",
+      "ராணிக்கெட் நோய்",
+      "பூஞ்சை நோய்"
+    ],
+    "correct": 2,
+    "explanation": "கோழிகளுக்கு உருவாகும் ராணிக்கெட் நோய் நோய் வைரஸால் ஏற்படுகிறது.",
+    "question_en": "________ disease in chickens is caused by a virus.",
+    "options_en": [
+      "Aspergillus disease",
+      "Salmonellosis",
+      "Ranicket's disease",
+      "Fungal disease"
+    ],
+    "explanation_en": "Ranicket's disease disease in chickens is caused by a virus."
+  },
+  {
+    "id": 9,
+    "question": "________ உரோமம் ஓவியம் தீட்டும் தூரிகையை உருவாக்கப்பயன்படுகிறது.",
+    "options": [
+      "ஆடு",
+      "குதிரை",
+      "முயல்",
+      "நாய்"
+    ],
+    "correct": 1,
+    "explanation": "குதிரை உரோமம் ஓவியம் தீட்டும் தூரிகையை உருவாக்கப்பயன்படுகிறது.",
+    "question_en": "________ fur is used to make a painting brush.",
+    "options_en": [
+      "Goat",
+      "Horse",
+      "Rabbit",
+      "the dog"
+    ],
+    "explanation_en": "Horse fur is used to make a painting brush."
+  },
+  {
+    "id": 10,
+    "question": "இவற்றில் எதிலிருந்து கம்பளி இழைகள் எடுக்கப்படுவது இல்லை?",
+    "options": [
+      "முயல்",
+      "யாக்",
+      "அல்பாகா",
+      "கக்கூன்"
+    ],
+    "correct": 3,
+    "explanation": "கக்கூன்",
+    "question_en": "Which of the following is NOT the source of wool fibers?",
+    "options_en": [
+      "Rabbit",
+      "Yak",
+      "Alpaca",
+      "Cuckoo"
+    ],
+    "explanation_en": "Cuckoo is NOT the source of wool fibers."
+  },
+  {
+    "id": 11,
+    "question": "கம்பளியை உருவாக்கும் பின்வரும் நிலைகளை வரிசைப்படுத்துக.",
+    "options": [
+      "1) தரம் பிரித்தல் 2) கழுவுதல் 3) கத்தரித்தல் 4) நூற்றல் 5) சிக்கெடுத்தல்",
+      "1) கத்தரித்தல் 2) தரம் பிரித்தல் 3) கழுவுதல் 4) சிக்கெடுத்தல் 5) நூற்றல்",
+      "1) சிக்கெடுத்தல் 2) கத்தரித்தல் 3) தரம் பிரித்தல் 4) நூற்றல் 5) கழுவுதல்",
+      "1) கத்தரித்தல் 2) கழுவுதல் 3) தரம் பிரித்தல் 4) சிக்கெடுத்தல் 5) நூற்றல்"
+    ],
+    "correct": 1,
+    "explanation": "1) கத்தரித்தல் 2) தரம் பிரித்தல் 3) கழுவுதல் 4) சிக்கெடுத்தல் 5) நூற்றல்",
+    "question_en": "Sequence the following stages of making wool.",
+    "options_en": [
+      "1) Grading 2) Washing 3) Shearing 4) Spinning 5) Trapping",
+      "1) Shearing 2) Grading 3) Washing 4) Trapping 5) Spinning",
+      "1) Trapping 2) Shearing 3) Grading 4) Spinning 5) Washing",
+      "1) Shearing 2) Washing 3) Grading 4) Trapping 5) Spinning"
+    ],
+    "explanation_en": "1) Shearing 2) Grading 3) Washing 4) Trapping 5) Spinning"
+  },
+  {
+    "id": 12,
+    "question": "பட்டுப்பூச்சிகளை வளர்ப்பதும் பட்டு இழைகளை உருவாக்குவதும் ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "ஹார்ட்டி கல்சர்",
+      "புளோரிகல்சர்",
+      "அக்ரிகல்சர்",
+      "செரிகல்சர்"
+    ],
+    "correct": 3,
+    "explanation": "பட்டுப்பூச்சிகளை வளர்ப்பதும் பட்டு இழைகளை உருவாக்குவதும் செரிகல்சர் என அழைக்கப்படுகிறது.",
+    "question_en": "Rearing silkworms and producing silk fibers is called ________.",
+    "options_en": [
+      "Hearty culture",
+      "Floriculture",
+      "Agriculture",
+      "Sericulture"
+    ],
+    "explanation_en": "Rearing silkworms and producing silk fibers is called Sericulture."
+  },
+  {
+    "id": 13,
+    "question": "பிரித்தெடுப்பவரின் நோய் என்றழைக்கப்படுவது ________.",
+    "options": [
+      "ஆஸ்துமா",
+      "ஆந்த்ராக்ஸ்",
+      "டைபாய்டு",
+      "காலரா"
+    ],
+    "correct": 1,
+    "explanation": "பிரித்தெடுப்பவரின் நோய் என்றழைக்கப்படுவது ஆந்த்ராக்ஸ்.",
+    "question_en": "Extractor's disease is called ________.",
+    "options_en": [
+      "Asthma",
+      "Anthrax",
+      "Typhoid",
+      "Cholera"
+    ],
+    "explanation_en": "Extractor's disease is called Anthrax."
+  },
+  {
+    "id": 14,
+    "question": "கூற்று: விலங்குகளின் உரோமங்களிலிருந்து இழைகள் எடுக்கப்படுகின்றன.\nகாரணம்: ஆடு, யாக் அல்பாகா மற்றும் முயல் கம்பளி இழைகளை தருகின்றன.",
+    "options": [
+      "கூற்றும் காரணமும் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்றும் காரணமும் தவறு"
+    ],
+    "correct": 0,
+    "explanation": "கூற்றும் காரணமும் சரி",
+    "question_en": "Claim: Fibers are extracted from animal fur.\nReason: Goat, yak, alpaca and rabbit produce wool fibers.",
+    "options_en": [
+      "The statement and reason are correct",
+      "The statement is right, the reason is wrong",
+      "The statement is false and the reason is correct",
+      "Both the statement and the reason are wrong"
+    ],
+    "explanation_en": "The statement and reason are correct"
+  },
+  {
+    "id": 15,
+    "question": "காய வைத்த கம்பளி இழைகளை ஆலைகளில் இட்டு மெல்லிய கம்பி போன்ற இழைகளாக மாற்ற வேண்டும் இவைகளை தட்டையான தாளாக மாற்றுவது ________ எனப்படும்.",
+    "options": [
+      "பந்து",
+      "கழுவுதல்",
+      "வலை",
+      "பிசின்"
+    ],
+    "correct": 2,
+    "explanation": "காய வைத்த கம்பளி இழைகளை ஆலைகளில் இட்டு மெல்லிய கம்பி போன்ற இழைகளாக மாற்ற வேண்டும் இவைகளை தட்டையான தாளாக மாற்றுவது வலை எனப்படும்.",
+    "question_en": "The dried wool fibers are taken to mills to be converted into fine wire-like fibers which are then converted into flat sheets called ________.",
+    "options_en": [
+      "ball",
+      "Washing",
+      "web",
+      "Resin"
+    ],
+    "explanation_en": "The dried wool fibers are taken to mills to be converted into fine wire-like fibers which are then converted into flat sheets called web."
+  },
+  {
+    "id": 16,
+    "question": "பட்டுப்பூச்சியின் வளர்ச்சி நிலைகள் வரிசைப்படுத்துக.",
+    "options": [
+      "i. முட்டை ii. கூட்டுப்புழு(கக்கூன்) iii. லார்வா iv. பட்டுப்பூச்சி",
+      "i. கூட்டுப்புழு ii. முட்டை iii. லார்வா iv. பட்டுப்பூச்சி",
+      "i. முட்டை ii. லார்வா iii. கூட்டுப்புழு iv. பட்டுப்பூச்சி",
+      "i. பட்டுப்பூச்சி ii. முட்டை iii. லார்வா iv. கூட்டுப்புழு"
+    ],
+    "correct": 2,
+    "explanation": "i. முட்டை ii. லார்வா iii. கூட்டுப்புழு iv. பட்டுப்பூச்சி",
+    "question_en": "Arrange the developmental stages of the silkworm.",
+    "options_en": [
+      "i. Egg ii. Coccus iii. Larva iv. silkworm",
+      "i. Co-worm ii. Egg iii. Larva iv. silkworm",
+      "i. Egg ii. Larva iii. Co-worm iv. silkworm",
+      "i. Silkworm ii. Egg iii. Larva iv. Colloidal worm"
+    ],
+    "explanation_en": "i. Egg ii. Larva iii. Co-worm iv. silkworm"
+  },
+  {
+    "id": 17,
+    "question": "இழைகளிலேயே மிகவும் வலிமையான இழை ________.",
+    "options": [
+      "கம்பளி",
+      "பட்டு இழை",
+      "சணல்",
+      "பருத்தி இழை"
+    ],
+    "correct": 1,
+    "explanation": "இழைகளிலேயே மிகவும் வலிமையான இழை பட்டு இழை.",
+    "question_en": "The strongest of all fibers is ________.",
+    "options_en": [
+      "Wool",
+      "Silk thread",
+      "Hemp",
+      "Cotton fiber"
+    ],
+    "explanation_en": "The strongest of all fibers is Silk thread."
+  },
+  {
+    "id": 18,
+    "question": "பாக்டீரியாவால் பாதிக்கப்பட்ட விலங்குகளின் உரோமம் மற்றும் அங்கு வாழும் விலங்குகளைக் கையாளுவோர்க்கு ________ என்ற நோய் ஏற்படுகிறது.",
+    "options": [
+      "நிமோனியா",
+      "ஆஸ்துமா",
+      "பேசில்லஸ்",
+      "ஆந்த்ராக்ஸ்"
+    ],
+    "correct": 3,
+    "explanation": "பாக்டீரியாவால் பாதிக்கப்பட்ட விலங்குகளின் உரோமம் மற்றும் அங்கு வாழும் விலங்குகளைக் கையாளுவோர்க்கு ஆந்த்ராக்ஸ் என்ற நோய் ஏற்படுகிறது.",
+    "question_en": "Animal fur infected with the bacteria and those who handle the animals living there cause ________.",
+    "options_en": [
+      "Pneumonia",
+      "Asthma",
+      "Bacillus",
+      "Anthrax"
+    ],
+    "explanation_en": "Animal fur infected with the bacteria and those who handle the animals living there cause Anthrax."
+  },
+  {
+    "id": 19,
+    "question": "அகிம்சை பட்டை உருவாக்கியவர் ________.",
+    "options": [
+      "குசுமா ராஜய்யா",
+      "சீனர்",
+      "இந்தியர்",
+      "எகிப்தியர்"
+    ],
+    "correct": 0,
+    "explanation": "அகிம்சை பட்டை உருவாக்கியவர் குசுமா ராஜய்யா.",
+    "question_en": "The non-violence band was created by ________.",
+    "options_en": [
+      "Kusuma Rajaiah",
+      "Chinese",
+      "Indian",
+      "Egyptian"
+    ],
+    "explanation_en": "The non-violence band was created by Kusuma Rajaiah."
+  },
+  {
+    "id": 20,
+    "question": "பெனிசிலின், சிப்ரோஃப்ளோக்சின் மருந்துகள் எந்த நோயை குணப்படுத்தப் பயன்படுத்தப்படுகிறது?",
+    "options": [
+      "டைபாய்டு",
+      "காலரா",
+      "நிமோனியா",
+      "ஆந்த்ராக்ஸ்"
+    ],
+    "correct": 3,
+    "explanation": "ஆந்த்ராக்ஸ்",
+    "question_en": "Penicillin, ciprofloxacin drugs are used to treat which disease?",
+    "options_en": [
+      "Typhoid",
+      "Cholera",
+      "Pneumonia",
+      "Anthrax"
+    ],
+    "explanation_en": "Anthrax"
+  },
+  {
+    "id": 21,
+    "question": "கீழ்க்கண்டவற்றுள் கம்பளி வகையில் இல்லாதது எது?",
+    "options": [
+      "மல்பெரி",
+      "அல்பாகா பைபர்",
+      "மோகிர் காஷ்மீரே",
+      "ஆட்டுக்குட்டி கம்பளி"
+    ],
+    "correct": 0,
+    "explanation": "கீழ்க்கண்டவற்றுள் கம்பளி வகையில் இல்லாதது மல்பெரி ஆகும்.",
+    "question_en": "Which of the following is not a type of wool?",
+    "options_en": [
+      "Mulberry",
+      "Alpaca piper",
+      "Mohir Kashmir",
+      "Lamb's wool"
+    ],
+    "explanation_en": "Mulberry is not a type of wool."
+  },
+  {
+    "id": 22,
+    "question": "இந்திய அரசு விலங்குகளைப் பாதுகாக்க ________ ம் ஆண்டு நான்கு புதிய சட்டங்களை இயற்றியது.",
+    "options": [
+      "1950",
+      "1960",
+      "1970",
+      "1955"
+    ],
+    "correct": 1,
+    "explanation": "இந்திய அரசு விலங்குகளைப் பாதுகாக்க 1960 ம் ஆண்டு நான்கு புதிய சட்டங்களை இயற்றியது.",
+    "question_en": "Government of India enacted four new laws in ________ to protect animals.",
+    "options_en": [
+      "1950",
+      "1960",
+      "1970",
+      "1955"
+    ],
+    "explanation_en": "Government of India enacted four new laws in 1960 to protect animals."
+  },
+  {
+    "id": 23,
+    "question": "விலங்குகளின் இனப்பெருக்கத்தை ஆய்வுசெய்தல் அவற்றின் பராமரிப்பு பற்றி படிக்கும் பிரிவிற்கு ________ என்று பெயர்.",
+    "options": [
+      "விலங்கு பாதுகாப்பு",
+      "விலங்கு வளர்ப்பு",
+      "உயிரினப்பாதுகாப்பு",
+      "புளூகிராஸ்"
+    ],
+    "correct": 1,
+    "explanation": "விலங்குகளின் இனப்பெருக்கத்தை ஆய்வுசெய்தல் அவற்றின் பராமரிப்பு பற்றி படிக்கும் பிரிவிற்கு விலங்கு வளர்ப்பு என்று பெயர்.",
+    "question_en": "The study of reproduction of animals is called ________ for the study of their care.",
+    "options_en": [
+      "Animal protection",
+      "Animal husbandry",
+      "Biosecurity",
+      "Bluegrass"
+    ],
+    "explanation_en": "The study of reproduction of animals is called Animal husbandry for the study of their care."
+  },
+  {
+    "id": 24,
+    "question": "பொருத்துக:\ni. கூட்டுப்புழு - a. கோழிப்பண்ணை\nii. அமைதிப்பட்டு - b. தேன்\niii. பிராய்லர் - c. ஆந்திரபிரதேசம்\niv. இனிப்பான திரவம் - d. பட்டுப்பூச்சி",
+    "options": [
+      "i - b, ii - c, iii - a, iv - d",
+      "i - d, ii - c, iii - a, iv - b",
+      "i - d, ii - b, iii - a, iv - c",
+      "i - c, ii - a, iii - d, iv - b"
+    ],
+    "correct": 1,
+    "explanation": "i - d, ii - c, iii - a, iv - b",
+    "question_en": "Match:\ni. Co-worm – a. Poultry farm\nii. Calm down - b. Honey\niii. Broiler - c. Andhra Pradesh\niv. Sweet liquid - d. silkworm",
+    "options_en": [
+      "i - b, ii - c, iii - a, iv - d",
+      "i - d, ii - c, iii - a, iv - b",
+      "i - d, ii - b, iii - a, iv - c",
+      "i - c, ii - a, iii - d, iv - b"
+    ],
+    "explanation_en": "i - d, ii - c, iii - a, iv - b"
+  },
+  {
+    "id": 25,
+    "question": "கூற்று: பெனிசிலின் மற்றும் சிப்ரோஃப்ளோக்சாசின்.\nகாரணம்: இந்த மருந்துகள் பசு அம்மையைக் குணமாக்கும்.",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்றும் தவறு காரணமும் தவறு",
+      "கூற்றும் சரி, காரணமும் சரி"
+    ],
+    "correct": 0,
+    "explanation": "கூற்று சரி காரணம் தவறு",
+    "question_en": "Claim: Penicillin and Ciprofloxacin.\nRationale: These medicines cure cowpox.",
+    "options_en": [
+      "The statement is true and the reason is false",
+      "The statement is false and the reason is correct",
+      "The statement is false and the reason is false",
+      "The statement is correct and the reason is correct"
+    ],
+    "explanation_en": "The statement is true and the reason is false"
+  },
+  {
+    "id": 26,
+    "question": "ஒப்புமைப்படுத்துக:\n1. நீர் : குழாய் : : மின்சாரம் : ________\n2. பாக்டீரியா : சால்மோனெல்லோசிஸ், வைரஸ்: ________",
+    "options": [
+      "i. கம்பி ii. ராணிக்கெட் நோய்",
+      "i. ஒயர் ii. பூஞ்சை நோய்",
+      "i. கம்பி ii. ஆஸ்பர்ஜில்லஸ் நோய்",
+      "i. கம்பளி ii. கேப்ரி லோ"
+    ],
+    "correct": 0,
+    "explanation": "ஒப்புமைப்படுத்துக:\n1. நீர் : குழாய் : : மின்சாரம் : i. கம்பி ii. ராணிக்கெட் நோய்\n2. பாக்டீரியா : சால்மோனெல்லோசிஸ், வைரஸ்: i. கம்பி ii. ராணிக்கெட் நோய்",
+    "question_en": "Compare:\n1. Water : Pipeline : : Electricity : ________\n2. Bacteria : Salmonellosis, Virus : ________",
+    "options_en": [
+      "i. wire ii. Ranicket's disease",
+      "i. Wire ii. Fungal disease",
+      "i. wire ii. Aspergillus disease",
+      "i. Wool ii. Capri Low"
+    ],
+    "explanation_en": "Compare:\n1. Water : Pipeline : : Electricity : i. wire ii. Ranicket's disease\n2. Bacteria : Salmonellosis, Virus : i. wire ii. Ranicket's disease"
+  },
+  {
+    "id": 27,
+    "question": "பட்டுப்புழு ________ நாட்களில் பட்டு இழைகளை உற்பத்தி செய்யும்.",
+    "options": [
+      "6 நாட்களில்",
+      "ஐந்து நாட்கள்",
+      "7 நாட்களில்",
+      "4 நாட்களில்"
+    ],
+    "correct": 1,
+    "explanation": "பட்டுப்புழு ஐந்து நாட்கள் நாட்களில் பட்டு இழைகளை உற்பத்தி செய்யும்.",
+    "question_en": "Silkworm produces silk thread in ________ days.",
+    "options_en": [
+      "In 6 days",
+      "Five days",
+      "In 7 days",
+      "In 4 days"
+    ],
+    "explanation_en": "Silkworm produces silk thread in Five days days."
+  },
+  {
+    "id": 28,
+    "question": "பால் உற்பத்தியில் முதலிடம் வகிக்கும் நாடு எது?",
+    "options": [
+      "இந்தியா",
+      "நியூசிலாந்து",
+      "கனடா",
+      "சீனா"
+    ],
+    "correct": 3,
+    "explanation": "பால் உற்பத்தியில் முதலிடம் வகிக்கும் நாடு சீனா ஆகும்.",
+    "question_en": "Which country is the top producer of milk?",
+    "options_en": [
+      "India",
+      "New Zealand",
+      "Canada",
+      "China"
+    ],
+    "explanation_en": "China"
+  },
+  {
+    "id": 29,
+    "question": "கீழ்கண்டவற்றுள் எவற்றிலிருந்து உரோமம் பெறப்படுவது இல்லை?",
+    "options": [
+      "லாமா",
+      "வெள்ளாடு",
+      "செம்மறி ஆடு",
+      "வரையாடு"
+    ],
+    "correct": 3,
+    "explanation": "வரையாடு",
+    "question_en": "Fur is not derived from which of the following?",
+    "options_en": [
+      "Llama",
+      "Goat",
+      "Sheep",
+      "Draft"
+    ],
+    "explanation_en": "Draft"
+  },
+  {
+    "id": 30,
+    "question": "கீழ்க்கண்டவற்றுள் எவை இழு விலங்கு அல்ல?",
+    "options": [
+      "குதிரை",
+      "காளைமாடு",
+      "யானை",
+      "ஜெர்ஸி"
+    ],
+    "correct": 3,
+    "explanation": "ஜெர்ஸி",
+    "question_en": "Which of the following is not a draft animal?",
+    "options_en": [
+      "Horse",
+      "bull",
+      "Elephant",
+      "Jersey"
+    ],
+    "explanation_en": "Jersey is not a draft animal."
+  },
+  {
+    "id": 31,
+    "question": "விலங்குகளிடமிருந்து பெறப்படும் ஆபரண பொருள் ________.",
+    "options": [
+      "தங்கம்",
+      "வைரம்",
+      "முத்து",
+      "வெள்ளி"
+    ],
+    "correct": 2,
+    "explanation": "விலங்குகளிடமிருந்து பெறப்படும் ஆபரண பொருள் முத்து.",
+    "question_en": "Ornamental material derived from animals is ________.",
+    "options_en": [
+      "Gold",
+      "Diamond",
+      "Pearl",
+      "Friday"
+    ],
+    "explanation_en": "Ornamental material derived from animals is Pearl."
+  },
+  {
+    "id": 32,
+    "question": "விலங்குகளைப் பாதுகாக்கும் அமைப்பு எது?",
+    "options": [
+      "ப்ளூ கிராஸ்",
+      "ரெட் கிராஸ்",
+      "கிரீன் கிராஸ்",
+      "ஒயிட் கிராஸ்"
+    ],
+    "correct": 0,
+    "explanation": "விலங்குகளைப் பாதுகாக்கும் அமைப்பு ப்ளூ கிராஸ் ஆகும்.",
+    "question_en": "What is an animal protection organization?",
+    "options_en": [
+      "Blue Cross",
+      "Red Cross",
+      "Green Cross",
+      "White Cross"
+    ],
+    "explanation_en": "Blue Cross is an animal protection organization."
+  },
+  {
+    "id": 33,
+    "question": "இழைகளின் ராணி என அழைக்கப்படுவது ________.",
+    "options": [
+      "சணல்",
+      "கம்பளி",
+      "பட்டு",
+      "பருத்தி"
+    ],
+    "correct": 2,
+    "explanation": "இழைகளின் ராணி என அழைக்கப்படுவது பட்டு.",
+    "question_en": "________ is known as the queen of fibers.",
+    "options_en": [
+      "Hemp",
+      "Wool",
+      "Silk",
+      "Cotton"
+    ],
+    "explanation_en": "Silk is known as the queen of fibers."
+  },
+  {
+    "id": 34,
+    "question": "முட்டை உற்பத்தியில் தமிழ்நாட்டில் முதலில் உள்ள இடத்தில் உள்ள மாவட்டம் எது?",
+    "options": [
+      "நாமக்கல்",
+      "சேலம்",
+      "ஈரோடு",
+      "கோவை"
+    ],
+    "correct": 0,
+    "explanation": "முட்டை உற்பத்தியில் தமிழ்நாட்டில் முதலில் உள்ள இடத்தில் உள்ள மாவட்டம் நாமக்கல் ஆகும்.",
+    "question_en": "Which district ranks first in Tamil Nadu in egg production?",
+    "options_en": [
+      "Namakkal",
+      "Salem",
+      "Erode",
+      "Coimbatore"
+    ],
+    "explanation_en": "Namakkal"
+  },
+  {
+    "id": 35,
+    "question": "கூற்று: யானை, ஆடு, கோழி, மீன் போன்றவற்றில் தவறான ஒன்று யானை.\nகாரணம்: யானையைத் தவிர ஆடு, கோழி, மீன் போன்றவை உணவு தரும் விலங்குகள்.",
+    "options": [
+      "கூற்றும் காரணமும் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "explanation": "கூற்றும் காரணமும் சரி",
+    "question_en": "Statement: Among elephant, goat, chicken, fish, elephant is wrong.\nReason: Apart from elephant, goat, chicken, fish etc. are food producing animals.",
+    "options_en": [
+      "The statement and reason are correct",
+      "The statement is right, the reason is wrong",
+      "The statement is wrong, the reason is right",
+      "Both are wrong"
+    ],
+    "explanation_en": "The statement and reason are correct"
+  },
+  {
+    "id": 36,
+    "question": "மிருதுவான மற்றும் விலை உயர்ந்த சால்வை எந்த விலங்கிலிருந்து பெறப்படுகின்றது?",
+    "options": [
+      "லாமா",
+      "அங்கோரா",
+      "சடை எருமை",
+      "பஷ்மினா"
+    ],
+    "correct": 3,
+    "explanation": "பஷ்மினா",
+    "question_en": "From which animal is the soft and expensive shawl obtained?",
+    "options_en": [
+      "Llama",
+      "Angora",
+      "Braided buffalo",
+      "Pashmina"
+    ],
+    "explanation_en": "Pashmina"
+  },
+  {
+    "id": 37,
+    "question": "பட்டு உற்பத்தியில் முதலிடத்தில் உள்ள நாடு எது?",
+    "options": [
+      "இந்தியா",
+      "சீனா",
+      "ரஷ்யா",
+      "அமெரிக்கா"
+    ],
+    "correct": 1,
+    "explanation": "பட்டு உற்பத்தியில் முதலிடத்தில் உள்ள நாடு சீனா ஆகும்.",
+    "question_en": "Which country is the largest producer of silk?",
+    "options_en": [
+      "India",
+      "China",
+      "Russia",
+      "America"
+    ],
+    "explanation_en": "China"
+  },
+  {
+    "id": 38,
+    "question": "தாவரத்தின் இனப்பெருக்கத்திற்கு பெரிதும் உதவும் விலங்கு எது?",
+    "options": [
+      "புலி",
+      "ஆடு",
+      "தேனீக்கள்",
+      "மைனா"
+    ],
+    "correct": 2,
+    "explanation": "தாவரத்தின் இனப்பெருக்கத்திற்கு பெரிதும் உதவும் விலங்கு தேனீக்கள் ஆகும்.",
+    "question_en": "Which animal helps the plant to reproduce?",
+    "options_en": [
+      "tiger",
+      "Goat",
+      "Bees",
+      "Myna"
+    ],
+    "explanation_en": "Bees"
+  },
+  {
+    "id": 39,
+    "question": "வெள்ளி புரட்சி என்பது எதைக் குறிக்கும்?",
+    "options": [
+      "பால் உற்பத்தி",
+      "பட்டு உற்பத்தி",
+      "பருத்தி உற்பத்தி",
+      "முட்டை உற்பத்தி"
+    ],
+    "correct": 3,
+    "explanation": "முட்டை உற்பத்தி",
+    "question_en": "What does silver revolution mean?",
+    "options_en": [
+      "Milk production",
+      "Silk production",
+      "Cotton production",
+      "Egg production"
+    ],
+    "explanation_en": "Egg production"
+  },
+  {
+    "id": 40,
+    "question": "அதிக தேனைக் கொடுக்கும் தேனீ இனம் ________.",
+    "options": [
+      "ஏபிஸ் டார்சேட்டா",
+      "ஏபிஸ் புளோரியா",
+      "ஏபிஸ் இண்டிகா",
+      "ஏபிஸ் மெல்லிபெரா"
+    ],
+    "correct": 3,
+    "explanation": "அதிக தேனைக் கொடுக்கும் தேனீ இனம் ஏபிஸ் மெல்லிபெரா.",
+    "question_en": "The species of bee that produces the most honey is ________.",
+    "options_en": [
+      "Apis dorsata",
+      "Apis floria",
+      "Apis indica",
+      "Apis mellifera"
+    ],
+    "explanation_en": "The species of bee that produces the most honey is Apis mellifera."
+  },
+  {
+    "id": 41,
+    "question": "கீழ்க்கண்டவற்றுள் எது பட்டு வகை அல்ல?",
+    "options": [
+      "மல்பெரி பட்டு",
+      "எரி பட்டு",
+      "காஞ்சி பட்டு",
+      "முகா பட்டு"
+    ],
+    "correct": 2,
+    "explanation": "காஞ்சி பட்டு",
+    "question_en": "Which of the following is not a type of silk?",
+    "options_en": [
+      "Mulberry silk",
+      "Fire silk",
+      "Kanji silk",
+      "Muga silk"
+    ],
+    "explanation_en": "Kanji silk is not a type of silk."
+  },
+  {
+    "id": 42,
+    "question": "தோலினை சேதப்படுத்தாமல் கம்பளிக்காக உரோமம் எடுக்கும் முறை ________.",
+    "options": [
+      "எக்கோகிளிப்",
+      "ஆட்டோகிளிப்",
+      "பயோகிளிப்",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 2,
+    "explanation": "தோலினை சேதப்படுத்தாமல் கம்பளிக்காக உரோமம் எடுக்கும் முறை பயோகிளிப்.",
+    "question_en": "A method of removing fur for wool without damaging the skin is ________.",
+    "options_en": [
+      "Echoclip",
+      "Autoclip",
+      "Bioclip",
+      "All these"
+    ],
+    "explanation_en": "A method of removing fur for wool without damaging the skin is Bioclip."
+  },
+  {
+    "id": 43,
+    "question": "கீழ்க்கண்டவற்றுள் எது இந்திய தேனீ இனம் அல்ல?",
+    "options": [
+      "ஏபிஸ் மெல்லிபெரா",
+      "ஏபிஸ் டார்சேட்டா",
+      "ஏபிஸ் புளோரியா",
+      "ஏபிஸ் இண்டிகா"
+    ],
+    "correct": 0,
+    "explanation": "ஏபிஸ் மெல்லிபெரா",
+    "question_en": "Which of the following is not an Indian bee species?",
+    "options_en": [
+      "Apis mellifera",
+      "Apis dorsata",
+      "Apis floria",
+      "Apis indica"
+    ],
+    "explanation_en": "Apis mellifera is not an Indian bee species."
+  },
+  {
+    "id": 44,
+    "question": "கீழ்க்கண்டவற்றுள் எந்த கூட்டுப்பொருள் தேனில் இல்லை?",
+    "options": [
+      "சர்க்கரை",
+      "கொழுப்பு",
+      "தாது உப்பு",
+      "நீர்"
+    ],
+    "correct": 1,
+    "explanation": "கொழுப்பு",
+    "question_en": "Which of the following compounds is not present in honey?",
+    "options_en": [
+      "Sugar",
+      "Fat",
+      "Mineral salt",
+      "Water"
+    ],
+    "explanation_en": "Fat"
+  },
+  {
+    "id": 45,
+    "question": "கீழ்க்கண்டவற்றுள் எது பட்டின் பயன் அல்ல?",
+    "options": [
+      "பட்டாடை",
+      "தொலைபேசி",
+      "வார்னிஷ்",
+      "பாராசூட்"
+    ],
+    "correct": 2,
+    "explanation": "வார்னிஷ்",
+    "question_en": "Which of the following is not a use of silk?",
+    "options_en": [
+      "Patatai",
+      "Telephone",
+      "Varnish",
+      "Parachute"
+    ],
+    "explanation_en": "Varnish is not a use of silk."
+  },
+  {
+    "id": 46,
+    "question": "அச்சுமை தயாரிக்கப் பயன்படும் பூச்சி எது?",
+    "options": [
+      "வண்ணத்துப்பூச்சி",
+      "பட்டுப்பூச்சி",
+      "அரக்கு பூச்சி",
+      "கம்பளி பூச்சி"
+    ],
+    "correct": 2,
+    "explanation": "அச்சுமை தயாரிக்கப் பயன்படும் பூச்சி அரக்கு பூச்சி ஆகும்.",
+    "question_en": "Which insect is used to produce mold?",
+    "options_en": [
+      "Butterfly",
+      "silkworm",
+      "Lacquer insect",
+      "Woolly bug"
+    ],
+    "explanation_en": "Lacquer insect"
+  },
+  {
+    "id": 47,
+    "question": "கம்பளி இழை எதனால் ஆனது?",
+    "options": [
+      "புரதம்",
+      "கார்போஹைட்ரேட்",
+      "கொழுப்பு",
+      "நீர் சத்து"
+    ],
+    "correct": 0,
+    "explanation": "புரதம்",
+    "question_en": "What is wool fiber made of?",
+    "options_en": [
+      "protein",
+      "Carbohydrate",
+      "Fat",
+      "Water is a nutrient"
+    ],
+    "explanation_en": "Protein is wool fiber made of."
+  },
+  {
+    "id": 48,
+    "question": "முதல் முதலில் பட்டாடை உடுத்திய சைலிங்ஸி எந்த நாட்டைச் சேர்ந்தவர்?",
+    "options": [
+      "இந்தியா",
+      "இலங்கை",
+      "சீனா",
+      "ஜப்பான்"
+    ],
+    "correct": 2,
+    "explanation": "சீனா",
+    "question_en": "Sailingsi who was the first to wear pattaadi belonged to which country?",
+    "options_en": [
+      "India",
+      "Sri Lanka",
+      "China",
+      "Japan"
+    ],
+    "explanation_en": "China"
+  },
+  {
+    "id": 49,
+    "question": "தமிழ்நாட்டின் மாநில விலங்கு எது?",
+    "options": [
+      "யானை",
+      "புலி",
+      "வரையாடு",
+      "சிறுத்தை"
+    ],
+    "correct": 2,
+    "explanation": "தமிழ்நாட்டின் மாநில விலங்கு வரையாடு ஆகும்.",
+    "question_en": "Which is the state animal of Tamil Nadu?",
+    "options_en": [
+      "Elephant",
+      "tiger",
+      "Draft",
+      "leopard"
+    ],
+    "explanation_en": "Draft is the state animal of Tamil Nadu."
+  },
+  {
+    "id": 50,
+    "question": "கூற்று 1: முட்டைக்காக வளர்க்கப்படும் கோழி முட்டையிடும் கோழி.\nகூற்று 2: கறிக்காக வளர்க்கப்படும் கோழி பிராய்லர் எனப்படும்.",
+    "options": [
+      "கூற்று 1 சரி 2 தவறு",
+      "கூற்று 1 தவறு 2 சரி",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "explanation": "இரண்டும் சரி",
+    "question_en": "Statement 1: A hen raised for eggs is a laying hen.\nStatement 2: Chicken raised for curry is called broiler.",
+    "options_en": [
+      "Statement 1 is true 2 is false",
+      "Statement 1 is false 2 is correct",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation_en": "Both are correct"
+  },
+  {
+    "id": 51,
+    "question": "பட்டுப்புழுவின் லார்வாக்கள் எத்தனை நாட்கள் மல்பெரி இலையை உண்டு வாழும்?",
+    "options": [
+      "42",
+      "37",
+      "35",
+      "43"
+    ],
+    "correct": 2,
+    "explanation": "35",
+    "question_en": "How many days do silkworm larvae live on mulberry leaves?",
+    "options_en": [
+      "42",
+      "37",
+      "35",
+      "43"
+    ],
+    "explanation_en": "35 days do silkworm larvae live on mulberry leaves."
+  },
+  {
+    "id": 52,
+    "question": "பட்டு இழைகள் மருத்துவத் துறையில் அறுவை சிகிச்சையின்போது _________ ஆகப் பயன்படுகிறது.",
+    "options": [
+      "மருந்து கட்டும் துணி",
+      "தையல் நூல்",
+      "இரத்தக் கழிவுகளை அகற்ற",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "explanation": "பட்டு இழைகள் மருத்துவத் துறையில் அறுவை சிகிச்சையின்போது தையல் நூல் ஆகப் பயன்படுகிறது.",
+    "question_en": "Silk fibers are used in medical field as _________ during surgery.",
+    "options_en": [
+      "Medicated cloth",
+      "தையல் நூல்",
+      "To remove blood waste",
+      "Everything"
+    ],
+    "explanation_en": "Silk fibers are used in medical field as தையல் நூல் during surgery."
+  },
+  {
+    "id": 53,
+    "question": "பட்டுப் பூச்சிகள், அவற்றின் ஆரம்ப எடையைவிட எத்தனை மடங்கு மல்பெரி இலைகளை உண்ணும்?",
+    "options": [
+      "40000",
+      "50000",
+      "70000",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "explanation": "50000",
+    "question_en": "How many times their initial weight of mulberry leaves will silkworms eat?",
+    "options_en": [
+      "40000",
+      "50000",
+      "70000",
+      "Nothing"
+    ],
+    "explanation_en": "50000 times their initial weight of mulberry leaves will silkworms eat."
+  },
+  {
+    "id": 54,
+    "question": "கூட்டுப்புழுக்களைக் கொல்லாமல், மனிதநேய அடிப்படையில், பாரம்பரிய முறைப்படி அல்லாது, உருவாக்கப்படும் பட்டு யாது?",
+    "options": [
+      "அகிம்சைப் பட்டு",
+      "அமைதிப் பட்டு",
+      "ஆரணிப் பட்டு",
+      "1 மற்றும் 2"
+    ],
+    "correct": 3,
+    "explanation": "கூட்டுப்புழுக்களைக் கொல்லாமல், மனிதநேய அடிப்படையில், பாரம்பரிய முறைப்படி அல்லாது, உருவாக்கப்படும் பட்டு 1 மற்றும் 2 ஆகும்.",
+    "question_en": "What is silk that is produced humanely, not traditionally, without killing the silkworms?",
+    "options_en": [
+      "Non-violence",
+      "Calm down",
+      "Arani silk",
+      "1 and 2"
+    ],
+    "explanation_en": "1 and 2 is silk that is produced humanely, not traditionally, without killing the silkworms."
+  },
+  {
+    "id": 55,
+    "question": "அமைதிப் பட்டு ________ ஆம் ஆண்டு உருவாக்கப்பட்டது.",
+    "options": [
+      "1990",
+      "1980",
+      "1999",
+      "1992"
+    ],
+    "correct": 3,
+    "explanation": "அமைதிப் பட்டு 1992 ஆம் ஆண்டு உருவாக்கப்பட்டது.",
+    "question_en": "Established in the year ________ after peace.",
+    "options_en": [
+      "1990",
+      "1980",
+      "1999",
+      "1992"
+    ],
+    "explanation_en": "Established in the year 1992 after peace."
+  },
+  {
+    "id": 56,
+    "question": "விலங்குகளின் தோலில் இருந்து பெறப்படும் தடித்த உரோமங்கள் ________ ஆல் ஆனது.",
+    "options": [
+      "கொழுப்பு",
+      "புரதம்",
+      "கார்போஹைட்ரேட்",
+      "பொட்டாசியம்"
+    ],
+    "correct": 1,
+    "explanation": "விலங்குகளின் தோலில் இருந்து பெறப்படும் தடித்த உரோமங்கள் புரதம் ஆல் ஆனது.",
+    "question_en": "Thick hairs obtained from animal skins are composed of ________.",
+    "options_en": [
+      "Fat",
+      "protein",
+      "Carbohydrate",
+      "Potassium"
+    ],
+    "explanation_en": "Thick hairs obtained from animal skins are composed of protein."
+  },
+  {
+    "id": 57,
+    "question": "தமிழ்நாட்டில் மாநில விலங்கு ________.",
+    "options": [
+      "வரையாடு",
+      "செம்மறி ஆடு",
+      "வெள்ளாடு",
+      "லாமா"
+    ],
+    "correct": 0,
+    "explanation": "தமிழ்நாட்டில் மாநில விலங்கு வரையாடு.",
+    "question_en": "The state animal in Tamil Nadu is ________.",
+    "options_en": [
+      "Draft",
+      "Sheep",
+      "Goat",
+      "Llama"
+    ],
+    "explanation_en": "The state animal in Tamil Nadu is Draft."
+  }
+]

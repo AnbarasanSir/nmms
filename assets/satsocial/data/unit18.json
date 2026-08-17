@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "question": "ஆழ்வார்கள் மொத்தம் எத்தனை பேர் ________.",
+    "options": [
+      "2",
+      "64",
+      "12",
+      "21"
+    ],
+    "correct": 2,
+    "question_en": "Alvars How many people ________ in total.",
+    "options_en": [
+      "2",
+      "64",
+      "12",
+      "21"
+    ],
+    "explanation": "ஆழ்வார்கள் மொத்தம் எத்தனை பேர் 12.",
+    "explanation_en": "Alvars How many people 12 in total."
+  },
+  {
+    "id": 2,
+    "question": "விஷ்ணு சித்தர் என்று அழைக்கப்பட்டவர் ________.",
+    "options": [
+      "பெரியாழ்வார்",
+      "திருமங்கை ஆழ்வார்",
+      "மதுரகவி ஆழ்வார்",
+      "ஆண்டாள்"
+    ],
+    "correct": 0,
+    "question_en": "Vishnu called Siddhar was ________.",
+    "options_en": [
+      "Periyalwar",
+      "Thirumangai Alwar",
+      "Madhurakavi Alvar",
+      "Andal"
+    ],
+    "explanation": "விஷ்ணு சித்தர் என்று அழைக்கப்பட்டவர் பெரியாழ்வார்.",
+    "explanation_en": "Vishnu called Siddhar was Periyalwar."
+  },
+  {
+    "id": 3,
+    "question": "கீழ்கண்ட நூல்களில் ஆண்டாளின் கவிதை நூல் ________.",
+    "options": [
+      "நாலாயிரத் திவ்ய பிரபந்தம்",
+      "திருமுறை",
+      "இராமசரிதமானஸ்",
+      "திருப்பாவை"
+    ],
+    "correct": 3,
+    "question_en": "Among the following books, Andal's poetry book is ________.",
+    "options_en": [
+      "Four thousand Divya Prabandham",
+      "The ceremony",
+      "Ramacharitamanas",
+      "Turn around"
+    ],
+    "explanation": "கீழ்கண்ட நூல்களில் ஆண்டாளின் கவிதை நூல் திருப்பாவை.",
+    "explanation_en": "Among the following books, Andal's poetry book is Turn around."
+  },
+  {
+    "id": 4,
+    "question": "மும்மூர்த்திகள் என்றழைக்கப்பட்டவர்கள் யார்?",
+    "options": [
+      "ஞானசம்பந்தர், அப்பர், சுந்தரர்",
+      "ஆதிசங்கரர், அப்பர், இராமானுஜர்",
+      "சுந்தரர், ஆண்டாள், ஆதிசங்கரர்",
+      "ஆண்டாள், அப்பர், சுந்தரர்"
+    ],
+    "correct": 0,
+    "question_en": "Who are the Trinity?",
+    "options_en": [
+      "Gnanasambandar, Appar, Sundarar",
+      "Adi Shankar, Appar, Ramanujar",
+      "Sundarar, Andal, Adi Shankar",
+      "Andal, Appar, Sundarar"
+    ],
+    "explanation": "மும்மூர்த்திகள் என்றழைக்கப்பட்டவர்கள் ஞானசம்பந்தர், அப்பர், சுந்தரர்.",
+    "explanation_en": "Gnanasambandar, Appar, Sundarar"
+  },
+  {
+    "id": 5,
+    "question": "பெரியபுராணத்தின் ஆசிரியர் ________.",
+    "options": [
+      "நம்பியாண்டார் நம்பி",
+      "சேக்கிழார்",
+      "சங்கரர்",
+      "துளசிதாசர்"
+    ],
+    "correct": 1,
+    "question_en": "The author of Periyapurana is ________.",
+    "options_en": [
+      "Nambiandar Nambi",
+      "Sekizhar",
+      "Sankara",
+      "Tulsidasar"
+    ],
+    "explanation": "பெரியபுராணத்தின் ஆசிரியர் சேக்கிழார்.",
+    "explanation_en": "The author of Periyapurana is Sekizhar."
+  },
+  {
+    "id": 6,
+    "question": "வேதாந்தப் பள்ளியின் அடிப்படை நூல் ________.",
+    "options": [
+      "பிரம்ம சூத்திரம்",
+      "பைஜக்",
+      "பெரிய புராணம்",
+      "திருப்பாவை"
+    ],
+    "correct": 0,
+    "question_en": "The basic text of the Vedanta school is ________.",
+    "options_en": [
+      "Brahma Sutra",
+      "Baijak",
+      "Great legend",
+      "Turn around"
+    ],
+    "explanation": "வேதாந்தப் பள்ளியின் அடிப்படை நூல் பிரம்ம சூத்திரம்.",
+    "explanation_en": "The basic text of the Vedanta school is Brahma Sutra."
+  },
+  {
+    "id": 7,
+    "question": "தெலுங்கு தத்துவஞானி ________.",
+    "options": [
+      "சூர்தாஸ்",
+      "துளசிதாசர்",
+      "கபீர்",
+      "வல்லபாச்சாரியார்"
+    ],
+    "correct": 3,
+    "question_en": "Telugu philosopher ________.",
+    "options_en": [
+      "Surdas",
+      "Tulsidasar",
+      "Kabir",
+      "Vallabhacharya"
+    ],
+    "explanation": "தெலுங்கு தத்துவஞானி வல்லபாச்சாரியார்.",
+    "explanation_en": "Telugu philosopher Vallabhacharya."
+  },
+  {
+    "id": 8,
+    "question": "சுரவார்டி அமைப்பைத் தோற்றுவித்தவர் ________.",
+    "options": [
+      "அமீர் குஸ்ரு",
+      "துக்காராம்",
+      "அப்துல் - வகித் அபு நஜிப்",
+      "மொய்னுதீன் சிஸ்டி"
+    ],
+    "correct": 2,
+    "question_en": "Survardi system was founded by ________.",
+    "options_en": [
+      "Amir Khusru",
+      "Tukaram",
+      "Abdul-Waqid Abu Najib",
+      "Moinuddin Cst"
+    ],
+    "explanation": "சுரவார்டி அமைப்பைத் தோற்றுவித்தவர் அப்துல் - வகித் அபு நஜிப்.",
+    "explanation_en": "Survardi system was founded by Abdul-Waqid Abu Najib."
+  },
+  {
+    "id": 9,
+    "question": "ஆஜ்மீரில் உள்ள ஷரிப் தர்கா அமைந்துள்ள மாநிலம் ________.",
+    "options": [
+      "மகாராஷ்டிரா",
+      "ராஜஸ்தான்",
+      "பீகார்",
+      "கோவர்தன் குன்று"
+    ],
+    "correct": 1,
+    "question_en": "The state where Sharif Dargah is located in Ajmer is ________.",
+    "options_en": [
+      "Maharashtra",
+      "Rajasthan",
+      "Bihar",
+      "Govardhan hill"
+    ],
+    "explanation": "ஆஜ்மீரில் உள்ள ஷரிப் தர்கா அமைந்துள்ள மாநிலம் ராஜஸ்தான்.",
+    "explanation_en": "The state where Sharif Dargah is located in Ajmer is Rajasthan."
+  },
+  {
+    "id": 10,
+    "question": "குருநானக்கின் 550 வது பிறந்த நாளைச் சிறப்பிக்கும் வகையில் இந்திய அரசு ________ அமைத்து வருகிறது.",
+    "options": [
+      "தியான அறை",
+      "கப்பல் கட்டும் தளம்",
+      "விமான நிலையம்",
+      "நடைபாதை"
+    ],
+    "correct": 3,
+    "question_en": "Government of India is organizing ________ to celebrate Guru Nanak's 550th birth anniversary.",
+    "options_en": [
+      "Meditation room",
+      "Shipyard",
+      "Airport",
+      "sidewalk"
+    ],
+    "explanation": "குருநானக்கின் 550 வது பிறந்த நாளைச் சிறப்பிக்கும் வகையில் இந்திய அரசு நடைபாதை அமைத்து வருகிறது.",
+    "explanation_en": "Government of India is organizing sidewalk to celebrate Guru Nanak's 550th birth anniversary."
+  },
+  {
+    "id": 11,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "ஆதிசங்கரர் - விசிஷ்டாத்வைதம்",
+      "பைஜக் - கபீர்",
+      "இராமானுஜர் - அத்வைதம்",
+      "நம்மாழ்வார் - நாச்சியார் திருமொழி"
+    ],
+    "correct": 1,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Adi Shankara - Visishtadvaitam",
+      "Baijak - Kabir",
+      "Ramanuja - Advaita",
+      "Nammalwar - Nachiyar Thirumozhi"
+    ],
+    "explanation": "பைஜக் - கபீர்",
+    "explanation_en": "Baijak - Kabir"
+  },
+  {
+    "id": 12,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "துவாரகா - ஆதிசங்கரர் மடம்",
+      "ஆண்டாள் - நாயன்மார்கள்",
+      "கபீர் - ஆழ்வார்கள்",
+      "குருநானக் - விஷ்ணு சித்தர்"
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Dwarka - Adi Shankara Math",
+      "Andal - Nayanmars",
+      "Kabir - Aalwar",
+      "Guru Nanak - Vishnu Siddhartha"
+    ],
+    "explanation": "துவாரகா - ஆதிசங்கரர் மடம்",
+    "explanation_en": "Dwarka - Adi Shankara Math"
+  },
+  {
+    "id": 13,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "தென்கலை - காஞ்சிபுரம்",
+      "மதுரகவி - சிருங்கேரி",
+      "நம்மாழ்வார் - 4000 பாடல்கள்",
+      "வடகலை - திருவரங்கம்"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Thenkalai - Kanchipuram",
+      "Madhurakavi - Sringeri",
+      "Nammalwar - 4000 songs",
+      "Vadakalai - Thiruvarangam"
+    ],
+    "explanation": "நம்மாழ்வார் - 4000 பாடல்கள்",
+    "explanation_en": "Nammalwar - 4000 songs"
+  },
+  {
+    "id": 14,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "கேஷ் - இரும்புக் காப்பு",
+      "கன்கா - வெட்டப்படாத முடி",
+      "கிற்பான் - குறுவாள்",
+      "கடா - சிகைக்கோல்"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Cash - Iron backup",
+      "Ganga - uncut hair",
+      "Kirpan - short sword",
+      "Gada - hair stick"
+    ],
+    "explanation": "கிற்பான் - குறுவாள்",
+    "explanation_en": "Kirpan - short sword"
+  },
+  {
+    "id": 15,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "சூர்தாஸ் - பார்வை திறனற்றவர்",
+      "நாதமுனி - பிரம்ம சூத்திரம்",
+      "துக்காராம் - இராமசரித மானஸ்",
+      "சுரவார்டி - மகாராஷ்டிரா"
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Surdas - Visually impaired",
+      "Nathamuni - Brahma Sutra",
+      "Tukaram - Ramacharita Manas",
+      "Suravardi - Maharashtra"
+    ],
+    "explanation": "சூர்தாஸ் - பார்வை திறனற்றவர்",
+    "explanation_en": "Surdas - Visually impaired"
+  },
+  {
+    "id": 16,
+    "question": "தவறான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "பாகல் - திருமுழுக்கு (இனிப்பு நீர்)",
+      "ரவிதாசின் சீடர் - மீராபாய்",
+      "லேனா - கபீரின் சீடர்",
+      "துக்காராம் - அபங்கா"
+    ],
+    "correct": 2,
+    "question_en": "Choose the wrong parallel.",
+    "options_en": [
+      "Bagal - Tirumuzku (sweet water)",
+      "Ravidas' disciple - Meerabai",
+      "Lena - Disciple of Kabir",
+      "Tukaram - Abanga"
+    ],
+    "explanation": "லேனா - கபீரின் சீடர்",
+    "explanation_en": "Lena - Disciple of Kabir"
+  },
+  {
+    "id": 17,
+    "question": "தவறான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "தர்ம சாலை - குருத்துவாரா",
+      "கபீர் பாடல்கள் - போஜ்புரி + உருது",
+      "பஜனை பாடல்கள் - மீராபாய்",
+      "சிவனை வழிபடும் சைவர்கள் - ஆழ்வார்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the wrong parallel.",
+    "options_en": [
+      "Dharma Road - Gurudwara",
+      "Kabir Songs - Bhojpuri + Urdu",
+      "Bhajan Songs - Meerabai",
+      "The Saivas who worship Shiva - the Alvars"
+    ],
+    "explanation": "சிவனை வழிபடும் சைவர்கள் - ஆழ்வார்கள்",
+    "explanation_en": "The Saivas who worship Shiva - the Alvars"
+  },
+  {
+    "id": 18,
+    "question": "கூற்று (A): ஆதிசங்கரர் - அத்வைத தத்துவம், இராமானுஜர் - விசிஷ்டாத்வைத தத்துவம்\nகூற்று (B): கடவுளின் மீதான முழு பக்தியே மனிதனை வாழ்வின் இடர்பாடுகளிலிருந்து காத்து முக்தி அருளும் - சூபி இயக்கம்",
+    "options": [
+      "(A) மட்டும் சரி",
+      "(B) மட்டும் சரி",
+      "(A) மற்றும் (B) சரி",
+      "(A) மற்றும் (B) தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion (A): Adi Shankara – Advaita philosophy, Ramanuja – Visishtadvaita philosophy\nAssertion (B): Absolute devotion to God protects man from the pitfalls of life and bestows salvation - Supi Movement",
+    "options_en": [
+      "(A) only is correct",
+      "(B) only is correct",
+      "(A) and (B) are correct",
+      "(A) and (B) are wrong"
+    ],
+    "explanation": "(A) மட்டும் சரி",
+    "explanation_en": "(A) only is correct"
+  },
+  {
+    "id": 19,
+    "question": "கூற்று (A): அறிவின் வழிப்பட ஞானமார்க்கம் மேலும் சடங்குகள், நற்செயல்கள் வழிப்படகர்மா மார்க்கம் இவை இரண்டையும் விட சிறந்தது பக்தி மார்க்கம் - பகவத் கீதை\nகூற்று (B): இந்துக்களும் இஸ்லாமியரும் கடவுளை வெவ்வேறு பெயர்களில் அழைத்தாலும் இருப்பது ஒரேயொரு கடவுள் மட்டுமே - ஹரிதாசர்",
+    "options": [
+      "(A) மற்றும் (B) தவறு",
+      "(A) மற்றும் (B) சரி",
+      "(A) மட்டும் சரி",
+      "(B) மட்டும் சரி"
+    ],
+    "correct": 1,
+    "question_en": "Assertion (A): Worship of knowledge Gnanamargam plus rites, good deeds Worship Karma is better than both Bhakti margam - Bhagavad Gita\nAssertion (B): Hindus and Muslims call God by different names but there is only one God - Haridasar",
+    "options_en": [
+      "(A) and (B) are wrong",
+      "(A) and (B) are correct",
+      "(A) only is correct",
+      "(B) only is correct"
+    ],
+    "explanation": "(A) மற்றும் (B) சரி",
+    "explanation_en": "(A) and (B) are correct"
+  },
+  {
+    "id": 20,
+    "question": "கூற்று (A): தொடக்ககால இஸ்லாம் சமயத்தின் உலகப்பற்றுதலுக்கு எதிராகத் தோன்றியதே சூபி தத்துவம்\nகூற்று (B): தீவிர உணர்ச்சிவயப்பட்ட பக்தி, ஆழமான தியானம் மூலமே கடவுளை உணர முடியுமென சூபி கோட்பாடு மறுக்கிறது",
+    "options": [
+      "(A) மற்றும் (B) சரி",
+      "(B) மட்டும் தவறு",
+      "(A) மற்றும் (B) தவறு",
+      "(B) மட்டும் தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Assertion (A): Sufi philosophy emerged against the secularism of early Islam\nAssertion (B): The Sufi doctrine denies that God can be realized only through intense passionate devotion and deep meditation.",
+    "options_en": [
+      "(A) and (B) are correct",
+      "(B) only is wrong",
+      "(A) and (B) are wrong",
+      "(B) only is wrong"
+    ],
+    "explanation": "(B) மட்டும் தவறு",
+    "explanation_en": "(B) only is wrong"
+  },
+  {
+    "id": 21,
+    "question": "பொருத்துக.\n(i) ராமானுஜர் - a. இராமாநந்தர்\n(ii) கபீர் - b. நட்பு\n(iii) இராமசரித மானஸ் - c. பீகார்\n(iv) பிர்தௌசி அமைப்பு - d. வைணவச் சிந்தனையாளர்",
+    "options": [
+      "(i) - a, (ii) - b, (iii) - c, (iv) - d",
+      "(i) - c, (ii) - d, (iii) - a, (iv) - b",
+      "(i) - d, (ii) - a, (iii) - b, (iv) - c",
+      "(i) - d, (ii) - c, (iii) - b, (iv) - a"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) Ramanuja - a. Ramananda\n(ii) Kabir - b. friendship\n(iii) Ramacharita Manus - c. Bihar\n(iv) Birtausi System – d. Vaishnava thinker",
+    "options_en": [
+      "(i) - a, (ii) - b, (iii) - c, (iv) - d",
+      "(i) - c, (ii) - d, (iii) - a, (iv) - b",
+      "(i) - d, (ii) - a, (iii) - b, (iv) - c",
+      "(i) - d, (ii) - c, (iii) - b, (iv) - a"
+    ],
+    "explanation": "(i) - d, (ii) - a, (iii) - b, (iv) - c",
+    "explanation_en": "(i) - d, (ii) - a, (iii) - b, (iv) - c"
+  },
+  {
+    "id": 22,
+    "question": "பொருத்துக.\n(i) சமஸ்கிருத வேத நூல் - (a) தென் கலை\n(ii) திவ்ய பிரபந்தம் - (b) 1102 பத்தி\n(iii) ஆதிசங்கரர் - (c) வடகலை\n(iv) நம்மாழ்வார் - (d) பத்ரிநாத்",
+    "options": [
+      "(i) - c, (ii) - a, (iii) - d, (iv) - b",
+      "(i) - a, (ii) - b, (iii) - c, (iv) - d",
+      "(i) - a, (ii) - d, (iii) - c, (iv) - b",
+      "(i) - d, (ii) - c, (iii) - b, (iv) - a"
+    ],
+    "correct": 0,
+    "question_en": "match\n(i) Sanskrit Vedic Text – (a) South Art\n(ii) Divya Prabandham - (b) 1102 para\n(iii) Adi Shankara - (c) Vadakalai\n(iv) Nammalwar - (d) Badrinath",
+    "options_en": [
+      "(i) - c, (ii) - a, (iii) - d, (iv) - b",
+      "(i) - a, (ii) - b, (iii) - c, (iv) - d",
+      "(i) - a, (ii) - d, (iii) - c, (iv) - b",
+      "(i) - d, (ii) - c, (iii) - b, (iv) - a"
+    ],
+    "explanation": "(i) - c, (ii) - a, (iii) - d, (iv) - b",
+    "explanation_en": "(i) - c, (ii) - a, (iii) - d, (iv) - b"
+  },
+  {
+    "id": 23,
+    "question": "பொருத்துக.\n(i) கோவில் நகரம் - (a) பந்தர்பூர்\n(ii) சைதன்யதேவர் - (b) திருவில்லிபுத்தூர்\n(iii) பாண்டு ரங்கா - (c) 1469\n(iv) குருநானக் - (d) கிருஷ்ணன் வழிபாடு",
+    "options": [
+      "(i) - a, (ii) - d, (iii) - b, (iv) - c",
+      "(i) - b, (ii) - d, (iii) - a, (iv) - c",
+      "(i) - a, (ii) - b, (iii) - c, (iv) - d",
+      "(i) - c, (ii) - d, (iii) - a, (iv) - b"
+    ],
+    "correct": 1,
+    "question_en": "match\n(i) Temple City - (a) Bandarpur\n(ii) Chaitanyadeva - (b) Thiruvilliputhur\n(iii) Pandu Ranga - (c) 1469\n(iv) Guru Nanak - (d) Krishna worship",
+    "options_en": [
+      "(i) - a, (ii) - d, (iii) - b, (iv) - c",
+      "(i) - b, (ii) - d, (iii) - a, (iv) - c",
+      "(i) - a, (ii) - b, (iii) - c, (iv) - d",
+      "(i) - c, (ii) - d, (iii) - a, (iv) - b"
+    ],
+    "explanation": "(i) - b, (ii) - d, (iii) - a, (iv) - c",
+    "explanation_en": "(i) - b, (ii) - d, (iii) - a, (iv) - c"
+  },
+  {
+    "id": 24,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடு.",
+    "options": [
+      "பொய்கையாழ்வார்",
+      "சேக்கிழார்",
+      "பூதத்தாழ்வார்",
+      "பேயாழ்வார்"
+    ],
+    "correct": 1,
+    "question_en": "Select one that does not apply.",
+    "options_en": [
+      "Poikaiyavar",
+      "Sekizhar",
+      "Bhuthathalwar",
+      "Beyalwar"
+    ],
+    "explanation": "சேக்கிழார்",
+    "explanation_en": "Sekizhar"
+  },
+  {
+    "id": 25,
+    "question": "விஷ்ணுவின் மீதும் அவர் இணையான லட்சுமியின் மீதும் இராமானுஜர் கொண்டிருந்த பக்திநெறி ________.",
+    "options": [
+      "ஸ்ரீவைஷ்ணவம்",
+      "கிரந்தவளி",
+      "ஞான மார்க்கம்",
+      "இவற்றில் ஏதுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Ramanuja's devotion to Vishnu and his counterpart Lakshmi was ________.",
+    "options_en": [
+      "Sri Vaishnavism",
+      "Grantavali",
+      "Wisdom path",
+      "None of these"
+    ],
+    "explanation": "விஷ்ணுவின் மீதும் அவர் இணையான லட்சுமியின் மீதும் இராமானுஜர் கொண்டிருந்த பக்திநெறி ஸ்ரீவைஷ்ணவம்.",
+    "explanation_en": "Ramanuja's devotion to Vishnu and his counterpart Lakshmi was Sri Vaishnavism."
+  },
+  {
+    "id": 26,
+    "question": "சீக்கியர்களின் புனித நூல் ________.",
+    "options": [
+      "பைஜக்",
+      "இராமசரிதமானஸ்",
+      "உபநிடதங்கள்",
+      "குரு கிரந்தசாகிப்"
+    ],
+    "correct": 3,
+    "question_en": "The holy book of Sikhs is ________.",
+    "options_en": [
+      "Baijak",
+      "Ramacharitamanas",
+      "Upanishads",
+      "Guru Granth Sahib"
+    ],
+    "explanation": "சீக்கியர்களின் புனித நூல் குரு கிரந்தசாகிப்.",
+    "explanation_en": "The holy book of Sikhs is Guru Granth Sahib."
+  },
+  {
+    "id": 27,
+    "question": "குருநானக் ________ இல் இயற்கை எய்தினார்",
+    "options": [
+      "1500",
+      "1535",
+      "1537",
+      "1539"
+    ],
+    "correct": 3,
+    "question_en": "Guru Nanak died in ________",
+    "options_en": [
+      "1500",
+      "1535",
+      "1537",
+      "1539"
+    ],
+    "explanation": "குருநானக் 1539 இல் இயற்கை எய்தினார்",
+    "explanation_en": "Guru Nanak died in 1539"
+  },
+  {
+    "id": 28,
+    "question": "குரு கோவிந்த் சிங்கிற்குப் பின்னர் ________ குருவாகக் கருதப்பட்டது",
+    "options": [
+      "கிற்பான்",
+      "குரு கிரந்த் சாகிப்",
+      "கன்கா",
+      "கடா"
+    ],
+    "correct": 1,
+    "question_en": "After Guru Gobind Singh ________ was considered as Guru",
+    "options_en": [
+      "Kipan",
+      "Guru Granth Sahib",
+      "Ganga",
+      "Don't"
+    ],
+    "explanation": "குரு கோவிந்த் சிங்கிற்குப் பின்னர் குரு கிரந்த் சாகிப் குருவாகக் கருதப்பட்டது",
+    "explanation_en": "After Guru Gobind Singh Guru Granth Sahib was considered as Guru"
+  },
+  {
+    "id": 29,
+    "question": "நாயன்மார்கள் மொத்தம் ________.",
+    "options": [
+      "50",
+      "60",
+      "63",
+      "64"
+    ],
+    "correct": 2,
+    "question_en": "Nayanmars total ________.",
+    "options_en": [
+      "50",
+      "60",
+      "63",
+      "64"
+    ],
+    "explanation": "நாயன்மார்கள் மொத்தம் 63.",
+    "explanation_en": "Nayanmars total 63."
+  },
+  {
+    "id": 30,
+    "question": "ஆழ்வார்களில் உள்ள ஒரே பெண்பால் ஆழ்வார் ________.",
+    "options": [
+      "திருமங்கை ஆழ்வார்",
+      "ஆண்டாள்",
+      "மதுரகவி",
+      "பேயாழ்வார்"
+    ],
+    "correct": 1,
+    "question_en": "Alvar is the only female among the Alvars ________.",
+    "options_en": [
+      "Thirumangai Alwar",
+      "Andal",
+      "Madhurakavi",
+      "Beyalwar"
+    ],
+    "explanation": "ஆழ்வார்களில் உள்ள ஒரே பெண்பால் ஆழ்வார் ஆண்டாள்.",
+    "explanation_en": "Alvar is the only female among the Alvars Andal."
+  },
+  {
+    "id": 31,
+    "question": "ஆத்மாவானது பிரம்மத்துடன் கலந்த பின்னரும் தனக்கான அடையாளத்தைத் தக்கவைத்துக் கொள்கிறது - இத்தத்துவத்தை கூறுவது ________.",
+    "options": [
+      "விசிஷ்டாத்வைதம்",
+      "பக்தி இயக்கம்",
+      "அத்வைதம்",
+      "சூபியிஸம்"
+    ],
+    "correct": 0,
+    "question_en": "The soul retains its own identity even after merging with Brahman – this attutva is said to be ________.",
+    "options_en": [
+      "Visishtadvaitam",
+      "Bhakti movement",
+      "Advaita",
+      "Sufiism"
+    ],
+    "explanation": "ஆத்மாவானது பிரம்மத்துடன் கலந்த பின்னரும் தனக்கான அடையாளத்தைத் தக்கவைத்துக் கொள்கிறது - இத்தத்துவத்தை கூறுவது விசிஷ்டாத்வைதம்.",
+    "explanation_en": "The soul retains its own identity even after merging with Brahman – this attutva is said to be Visishtadvaitam."
+  },
+  {
+    "id": 32,
+    "question": "பக்தி இயக்கத்தின் வளர்ச்சிக்குத் தங்கள் பங்களிப்பால் தனித்துவம் பெற்ற இரண்டு ஆழ்வார்கள் ________.",
+    "options": [
+      "பேயாழ்வார், மதுரகவி",
+      "நம்மாழ்வார், ஆண்டாள்",
+      "பூதத்தாழ்வார், ஆண்டாள்",
+      "திருமங்கை ஆழ்வார், மதுரகவி"
+    ],
+    "correct": 1,
+    "question_en": "Two Alwars who are distinguished for their contribution to the development of Bhakti movement are ________.",
+    "options_en": [
+      "Beyalwar, Maduragavi",
+      "Nammalvar, Andal",
+      "Bhuthathalwar, Andal",
+      "Tirumangai Alwar, Maduragavi"
+    ],
+    "explanation": "பக்தி இயக்கத்தின் வளர்ச்சிக்குத் தங்கள் பங்களிப்பால் தனித்துவம் பெற்ற இரண்டு ஆழ்வார்கள் நம்மாழ்வார், ஆண்டாள்.",
+    "explanation_en": "Two Alwars who are distinguished for their contribution to the development of Bhakti movement are Nammalvar, Andal."
+  },
+  {
+    "id": 33,
+    "question": "நம்மாழ்வாரின் பாடல்கள் ________.",
+    "options": [
+      "5000",
+      "2000",
+      "4000",
+      "3000"
+    ],
+    "correct": 2,
+    "question_en": "Nammalwar's songs are ________.",
+    "options_en": [
+      "5000",
+      "2000",
+      "4000",
+      "3000"
+    ],
+    "explanation": "நம்மாழ்வாரின் பாடல்கள் 4000.",
+    "explanation_en": "Nammalwar's songs are 4000."
+  },
+  {
+    "id": 34,
+    "question": "நாதமுனி தொகுத்த நூல் ________.",
+    "options": [
+      "நாச்சியார் திருமொழி",
+      "திருப்பாவை",
+      "பிரம்ம சூத்திரம்",
+      "நாலாயிரத் திவ்ய பிரபந்தம்"
+    ],
+    "correct": 3,
+    "question_en": "The book compiled by Nathamuni is ________.",
+    "options_en": [
+      "Nachiyar Thirumozhi",
+      "Turn around",
+      "Brahma Sutra",
+      "Four thousand Divya Prabandham"
+    ],
+    "explanation": "நாதமுனி தொகுத்த நூல் நாலாயிரத் திவ்ய பிரபந்தம்.",
+    "explanation_en": "The book compiled by Nathamuni is Four thousand Divya Prabandham."
+  },
+  {
+    "id": 35,
+    "question": "ஞானத்தைப் பெறுவதன் வழியாக ஜீவாத்மா பரமாத்மாவுடன் இணையும் என்று கூறும் தத்துவம் ________.",
+    "options": [
+      "சிஸ்டி அமைப்பு",
+      "அத்வைதம்",
+      "சுரவார்டி அமைப்பு",
+      "விசிஷ்டாத்வைதம்"
+    ],
+    "correct": 1,
+    "question_en": "________ is the philosophy that states that the soul merges with the Supreme Soul through the attainment of enlightenment.",
+    "options_en": [
+      "CST system",
+      "Advaita",
+      "Survardi system",
+      "Visishtadvaitam"
+    ],
+    "explanation": "ஞானத்தைப் பெறுவதன் வழியாக ஜீவாத்மா பரமாத்மாவுடன் இணையும் என்று கூறும் தத்துவம் அத்வைதம்.",
+    "explanation_en": "Advaita is the philosophy that states that the soul merges with the Supreme Soul through the attainment of enlightenment."
+  },
+  {
+    "id": 36,
+    "question": "வட இந்தியாவில் பக்திச் சிந்தனையை மக்கள் இயக்கமாக மாற்றியவர் ________.",
+    "options": [
+      "இராமாநந்தர்",
+      "மீராபாய்",
+      "துளசிதாசர்",
+      "கபீர்"
+    ],
+    "correct": 0,
+    "question_en": "It was ________ who transformed Bhakti thought into a mass movement in North India.",
+    "options_en": [
+      "Ramananda",
+      "Mirabai",
+      "Tulsidasar",
+      "Kabir"
+    ],
+    "explanation": "வட இந்தியாவில் பக்திச் சிந்தனையை மக்கள் இயக்கமாக மாற்றியவர் இராமாநந்தர்.",
+    "explanation_en": "It was Ramananda who transformed Bhakti thought into a mass movement in North India."
+  },
+  {
+    "id": 37,
+    "question": "மதுரா அருகே கோவர்தன் குன்றில் கிருஷ்ண பகவானுக்கு கோவிலை அமைத்தவர் ________.",
+    "options": [
+      "சங்கராச்சாரியார்",
+      "வல்லபாச்சாரியார்",
+      "இராமானுஜர்",
+      "ஆண்டாள்"
+    ],
+    "correct": 1,
+    "question_en": "________ who built a temple for Lord Krishna at Govardhan Hill near Mathura.",
+    "options_en": [
+      "Shankaracharya",
+      "Vallabhacharya",
+      "Ramanujar",
+      "Andal"
+    ],
+    "explanation": "மதுரா அருகே கோவர்தன் குன்றில் கிருஷ்ண பகவானுக்கு கோவிலை அமைத்தவர் வல்லபாச்சாரியார்.",
+    "explanation_en": "Vallabhacharya who built a temple for Lord Krishna at Govardhan Hill near Mathura."
+  },
+  {
+    "id": 38,
+    "question": "ஆதிசங்கரரின் மற்றொரு பெயர் ________.",
+    "options": [
+      "இராமானுஜர்",
+      "துளசிதாசர்",
+      "இராமாநந்தர்",
+      "சங்கராச்சாரியார்"
+    ],
+    "correct": 3,
+    "question_en": "Another name of Adi Shankara is ________.",
+    "options_en": [
+      "Ramanujar",
+      "Tulsidasar",
+      "Ramananda",
+      "Shankaracharya"
+    ],
+    "explanation": "ஆதிசங்கரரின் மற்றொரு பெயர் சங்கராச்சாரியார்.",
+    "explanation_en": "Another name of Adi Shankara is Shankaracharya."
+  },
+  {
+    "id": 39,
+    "question": "மொய்னுதீன் சிஸ்டி இயற்கை எய்திய இடம் ________.",
+    "options": [
+      "கர்தார்பூர் (1236)",
+      "லாகூர் (1326)",
+      "ஆஜ்மீர் (1236)",
+      "குர்தாஸ்பூர் (1539)"
+    ],
+    "correct": 2,
+    "question_en": "Moinuddin Chisti natural site is ________.",
+    "options_en": [
+      "Kartarpur (1236)",
+      "Lahore (1326)",
+      "Ajmer (1236)",
+      "Gurdaspur (1539)"
+    ],
+    "explanation": "மொய்னுதீன் சிஸ்டி இயற்கை எய்திய இடம் ஆஜ்மீர் (1236).",
+    "explanation_en": "Moinuddin Chisti natural site is Ajmer (1236)."
+  },
+  {
+    "id": 40,
+    "question": "பக்தி இயக்க காலப்பகுதியின் உயிர்த் துடிப்புடன் விளங்கிய ஒரே பழமையான மொழி ________.",
+    "options": [
+      "சமஸ்கிருதம்",
+      "உருது",
+      "தமிழ்",
+      "கன்னடம்"
+    ],
+    "correct": 2,
+    "question_en": "________ is the only ancient language that was alive during the period of Bhakti movement.",
+    "options_en": [
+      "Sanskrit",
+      "Urdu",
+      "Tamil",
+      "Kannada"
+    ],
+    "explanation": "பக்தி இயக்க காலப்பகுதியின் உயிர்த் துடிப்புடன் விளங்கிய ஒரே பழமையான மொழி தமிழ்.",
+    "explanation_en": "Tamil is the only ancient language that was alive during the period of Bhakti movement."
+  },
+  {
+    "id": 41,
+    "question": "கீழ்கண்ட கூற்றுகளில் தவறான கூற்றை தேர்வு செய்க\nகூற்று (A): துளசிதாசர் இந்தியில் எழுதிய இராமசரிதமானஸ் எனும் நூல் நட்பு, விசுவாசம் ஆகிய உணர்வுகளுக்கு அதிகம் அழுத்தம் கொடுத்தது\nகூற்று (B): வங்காளத்திற்கு சைதன்ய தேவா எவ்விதமோ அதைப்போன்றே மகாராஷ்டிராவுக்கு துக்காராம் விளங்குகிறார்\nகூற்று (C): சூபிக்கள் சொர சொரப்பான முரட்டுக் கம்பளியாலான உடைகளை தவிர்த்தனர்",
+    "options": [
+      "கூற்று (A) மட்டும்",
+      "கூற்று (C) மட்டும்",
+      "கூற்று (A), (B) மட்டும்",
+      "கூற்று (B), (C) மட்டும்"
+    ],
+    "correct": 1,
+    "question_en": "Choose the incorrect statement from the following statements\nAssertion (A): Ramacharitamanas written by Tulsidasara in Hindi lays great stress on feelings of friendship and loyalty.\nAssertion (B): Dukaram is to Maharashtra what Caitanya Deva is to Bengal.\nAssertion (C): The Sufis avoided coarse woolen clothes",
+    "options_en": [
+      "Statement (A) only",
+      "Statement (C) only",
+      "Statement (A), (B) only",
+      "Statement (B), (C) only"
+    ],
+    "explanation": "கூற்று (C) மட்டும்",
+    "explanation_en": "Statement (C) only"
+  },
+  {
+    "id": 42,
+    "question": "பொருத்துக.\n(a) துளசிதாஸ் - (i) பிஜகா\n(b) மாணிக்கவாசகர் - (ii) ராமசரிதமானஸ்\n(c) ராமானுஜர் - (iii) திருவாசகம்\n(d) கபீர் - (iv) வைணவம்",
+    "options": [
+      "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+      "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)",
+      "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+      "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)"
+    ],
+    "correct": 2,
+    "question_en": "match\n(a) Tulsidas — (i) Bijaka\n(b) Manikkavasaka - (ii) Ramacharitamanas\n(c) Ramanuja - (iii) Tiruvasakam\n(d) Kabir - (iv) Vaishnavism",
+    "options_en": [
+      "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+      "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)",
+      "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+      "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)"
+    ],
+    "explanation": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+    "explanation_en": "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)"
+  },
+  {
+    "id": 43,
+    "question": "கோவில்களில் நுழைவதற்கான சாதியக் கட்டுப்பாடுகளைக் கண்டனம் செய்தவர் ________.",
+    "options": [
+      "இராமானுஜர்",
+      "ஆதிசங்கரர்",
+      "கபீர்",
+      "குருநானக்"
+    ],
+    "correct": 0,
+    "question_en": "________ who condemned caste restrictions on entry into temples.",
+    "options_en": [
+      "Ramanujar",
+      "Adi Shankara",
+      "Kabir",
+      "Guru Nanak"
+    ],
+    "explanation": "கோவில்களில் நுழைவதற்கான சாதியக் கட்டுப்பாடுகளைக் கண்டனம் செய்தவர் இராமானுஜர்.",
+    "explanation_en": "Ramanujar who condemned caste restrictions on entry into temples."
+  },
+  {
+    "id": 44,
+    "question": "புகழ்பெற்ற சமஸ்கிருதக் கல்வி மையம் ________.",
+    "options": [
+      "திருவரங்கம்",
+      "சென்னை",
+      "காஞ்சிபுரம்",
+      "மதுரை"
+    ],
+    "correct": 2,
+    "question_en": "Renowned center of Sanskrit education is ________.",
+    "options_en": [
+      "Thiruvarangam",
+      "Chennai",
+      "Kanchipuram",
+      "Madurai"
+    ],
+    "explanation": "புகழ்பெற்ற சமஸ்கிருதக் கல்வி மையம் காஞ்சிபுரம்.",
+    "explanation_en": "Renowned center of Sanskrit education is Kanchipuram."
+  },
+  {
+    "id": 45,
+    "question": "சூர்தாஸின் புகழ்பெற்ற கவிதைத் தொகுப்பு ________.",
+    "options": [
+      "இராமசரிதமானஸ்",
+      "சூர்சாகர்",
+      "அபங்கா",
+      "சூபியிசம்"
+    ],
+    "correct": 1,
+    "question_en": "A famous collection of poems by Surdas is ________.",
+    "options_en": [
+      "Ramacharitamanas",
+      "Sursagar",
+      "Abanga",
+      "Sufism"
+    ],
+    "explanation": "சூர்தாஸின் புகழ்பெற்ற கவிதைத் தொகுப்பு சூர்சாகர்.",
+    "explanation_en": "A famous collection of poems by Surdas is Sursagar."
+  },
+  {
+    "id": 46,
+    "question": "கடவுள் ஒருவரே என்றும், வடிவமற்றவர் என்றும் நம்பியவர் ________.",
+    "options": [
+      "குருநானக்",
+      "இராமானுஜர்",
+      "ஆதிசங்கரர்",
+      "கபீர்"
+    ],
+    "correct": 3,
+    "question_en": "A person who believed that God was one and formless was ________.",
+    "options_en": [
+      "Guru Nanak",
+      "Ramanujar",
+      "Adi Shankara",
+      "Kabir"
+    ],
+    "explanation": "கடவுள் ஒருவரே என்றும், வடிவமற்றவர் என்றும் நம்பியவர் கபீர்.",
+    "explanation_en": "A person who believed that God was one and formless was Kabir."
+  },
+  {
+    "id": 47,
+    "question": "சீக்கியர்களின் முதல் குருவாகக் கருதப்படுபவர் ________.",
+    "options": [
+      "குருநானக்",
+      "லேனா",
+      "சூர்தாஸ்",
+      "வல்லபாச்சாரியார்"
+    ],
+    "correct": 0,
+    "question_en": "The first guru of the Sikhs is considered to be ________.",
+    "options_en": [
+      "Guru Nanak",
+      "Lena",
+      "Surdas",
+      "Vallabhacharya"
+    ],
+    "explanation": "சீக்கியர்களின் முதல் குருவாகக் கருதப்படுபவர் குருநானக்.",
+    "explanation_en": "The first guru of the Sikhs is considered to be Guru Nanak."
+  },
+  {
+    "id": 48,
+    "question": "சூபி என்ற சொல்லின் பொருள் ________.",
+    "options": [
+      "கவிதை",
+      "நூல்",
+      "இயக்கம்",
+      "கம்பளி"
+    ],
+    "correct": 3,
+    "question_en": "The meaning of the word Supi is ________.",
+    "options_en": [
+      "Poetry",
+      "Thread",
+      "Movement",
+      "Wool"
+    ],
+    "explanation": "சூபி என்ற சொல்லின் பொருள் கம்பளி.",
+    "explanation_en": "The meaning of the word Supi is Wool."
+  },
+  {
+    "id": 49,
+    "question": "பக்தி இயக்கம் அல்லது வழிபாட்டு முறைகளிலான புத்துணர்ச்சி தமிழகத்தில் தொடங்கிய காலம் ________.",
+    "options": [
+      "கி.பி.6 ஆம் நூற்றாண்டு",
+      "கி.பி.7 ஆம் நூற்றாண்டு",
+      "கி.பி.5 ஆம் நூற்றாண்டு",
+      "கி.பி.8 ஆம் நூற்றாண்டு"
+    ],
+    "correct": 1,
+    "question_en": "Bhakti movement or revival in worship began in Tamil Nadu during ________.",
+    "options_en": [
+      "6th century AD",
+      "7th century AD",
+      "5th century AD",
+      "8th century AD"
+    ],
+    "explanation": "பக்தி இயக்கம் அல்லது வழிபாட்டு முறைகளிலான புத்துணர்ச்சி தமிழகத்தில் தொடங்கிய காலம் கி.பி.7 ஆம் நூற்றாண்டு.",
+    "explanation_en": "Bhakti movement or revival in worship began in Tamil Nadu during 7th century AD."
+  },
+  {
+    "id": 50,
+    "question": "சிஸ்டி அமைப்பை இந்தியாவில் பிரபலமாக்கியவர் ________.",
+    "options": [
+      "துளசிதாசர்",
+      "இராமானுஜர்",
+      "மொய்னுதீன் சிஸ்டி",
+      "ரவிதாஸ்"
+    ],
+    "correct": 2,
+    "question_en": "CST system was popularized in India by ________.",
+    "options_en": [
+      "Tulsidasar",
+      "Ramanujar",
+      "Moinuddin Cst",
+      "Ravidas"
+    ],
+    "explanation": "சிஸ்டி அமைப்பை இந்தியாவில் பிரபலமாக்கியவர் மொய்னுதீன் சிஸ்டி.",
+    "explanation_en": "CST system was popularized in India by Moinuddin Cst."
+  }
+]

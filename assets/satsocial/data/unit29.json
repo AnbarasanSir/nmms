@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "question": "1757 ஆம் ஆண்டில் வங்காளத்தை ஆட்சி செய்தவர் ________.",
+    "options": [
+      "சுஜா-உத்-தௌலா",
+      "சிராஜ்-உத்-தௌலா",
+      "மீர்காசிம்",
+      "திப்பு சுல்தான்"
+    ],
+    "correct": 1,
+    "question_en": "________ ruled Bengal in 1757.",
+    "options_en": [
+      "Suja-ud-Daula",
+      "Siraj-ud-Daula",
+      "Mirkasim",
+      "Tipu Sultan"
+    ],
+    "explanation": "1757 ஆம் ஆண்டில் வங்காளத்தை ஆட்சி செய்தவர் சிராஜ்-உத்-தௌலா.",
+    "explanation_en": "Siraj-ud-Daula ruled Bengal in 1757."
+  },
+  {
+    "id": 2,
+    "question": "பிளாசிப் போர் நடைபெற்ற ஆண்டு ________.",
+    "options": [
+      "1757",
+      "1764",
+      "1765",
+      "1775"
+    ],
+    "correct": 0,
+    "question_en": "The year the Battle of Plasipus took place was ________.",
+    "options_en": [
+      "1757",
+      "1764",
+      "1765",
+      "1775"
+    ],
+    "explanation": "பிளாசிப் போர் நடைபெற்ற ஆண்டு 1757.",
+    "explanation_en": "The year the Battle of Plasipus took place was 1757."
+  },
+  {
+    "id": 3,
+    "question": "பக்சார் போரின் முடிவில் ஏற்பட்ட உடன்படிக்கை ________.",
+    "options": [
+      "அலகாபாத்",
+      "கர்நாடக",
+      "அலிநகர்",
+      "பாரிசு"
+    ],
+    "correct": 0,
+    "question_en": "The treaty at the end of the Battle of Buxar was ________.",
+    "options_en": [
+      "Allahabad",
+      "Karnataka",
+      "Alinagar",
+      "Paris"
+    ],
+    "explanation": "பக்சார் போரின் முடிவில் ஏற்பட்ட உடன்படிக்கை அலகாபாத்.",
+    "explanation_en": "The treaty at the end of the Battle of Buxar was Allahabad."
+  },
+  {
+    "id": 4,
+    "question": "பாண்டிச்சேரி உடன்படிக்கையின் படி ________ கர்நாடகப்போர் முடிவுக்கு கொண்டு வரப்பட்டது.",
+    "options": [
+      "முதல்",
+      "இரண்டாம்",
+      "மூன்றாம்",
+      "ஏதுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "According to the Treaty of Pondicherry, the ________ Karnataka War was ended.",
+    "options_en": [
+      "First",
+      "Second",
+      "Third",
+      "Nothing"
+    ],
+    "explanation": "பாண்டிச்சேரி உடன்படிக்கையின் படி இரண்டாம் கர்நாடகப்போர் முடிவுக்கு கொண்டு வரப்பட்டது.",
+    "explanation_en": "According to the Treaty of Pondicherry, the Second Karnataka War was ended."
+  },
+  {
+    "id": 5,
+    "question": "ஹைதர் அலி மைசூர் அரியணை ஏறிய ஆண்டு ________.",
+    "options": [
+      "1756",
+      "1761",
+      "1763",
+      "1764"
+    ],
+    "correct": 1,
+    "question_en": "Hyder Ali ascended the throne of Mysore in ________.",
+    "options_en": [
+      "1756",
+      "1761",
+      "1763",
+      "1764"
+    ],
+    "explanation": "ஹைதர் அலி மைசூர் அரியணை ஏறிய ஆண்டு 1761.",
+    "explanation_en": "Hyder Ali ascended the throne of Mysore in 1761."
+  },
+  {
+    "id": 6,
+    "question": "மங்களூர் உடன்படிக்கை ________, ________ இடையே கையெழுத்தானது.",
+    "options": [
+      "பிரெஞ்சுக்காரர் மற்றும் திப்பு சுல்தான்",
+      "ஹைதர் அலி மற்றும் மன்னர் சாமரின்",
+      "ஆங்கிலேயர் மற்றும் திப்பு சுல்தான்",
+      "திப்பு சுல்தான் மற்றும் மராத்தியர்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Treaty of Mangalore was signed between ________, ________.",
+    "options_en": [
+      "The French and Tipu Sultan",
+      "Hyder Ali and King Chamerin",
+      "British and Tipu Sultan",
+      "Tipu Sultan and the Marathas"
+    ],
+    "explanation": "மங்களூர் உடன்படிக்கை ஆங்கிலேயர் மற்றும் திப்பு சுல்தான், ஆங்கிலேயர் மற்றும் திப்பு சுல்தான் இடையே கையெழுத்தானது.",
+    "explanation_en": "Treaty of Mangalore was signed between British and Tipu Sultan, British and Tipu Sultan."
+  },
+  {
+    "id": 7,
+    "question": "மூன்றாம் ஆங்கில - மைசூர் போரின் போது ஆங்கிலேயத் தலைமை ஆளுநர் ________.",
+    "options": [
+      "இராபர்ட் கிளைவ்",
+      "வாரன் ஹேஸ்டிங்ஸ்",
+      "காரன்வாலிஸ்",
+      "வெல்லெஸ்லி"
+    ],
+    "correct": 2,
+    "question_en": "During the Third Anglo-Mysore War the British Governor-in-Chief ________.",
+    "options_en": [
+      "Robert Clive",
+      "Warren Hastings",
+      "Cornwallis",
+      "Wellesley"
+    ],
+    "explanation": "மூன்றாம் ஆங்கில - மைசூர் போரின் போது ஆங்கிலேயத் தலைமை ஆளுநர் காரன்வாலிஸ்.",
+    "explanation_en": "During the Third Anglo-Mysore War the British Governor-in-Chief Cornwallis."
+  },
+  {
+    "id": 8,
+    "question": "ஆங்கிலேயருடன் பசின் உடன்படிக்கை செய்து கொண்டவர் ________.",
+    "options": [
+      "இரண்டாம் பாஜிராவ்",
+      "தௌலத்ராவ் சிந்தியா",
+      "ஷாம்பாஜி போன்ஸ்லே",
+      "ஷாயாஜி ராவ் கெய்க்வார்"
+    ],
+    "correct": 0,
+    "question_en": "Pacin Treaty with British was signed by ________.",
+    "options_en": [
+      "Bajirao II",
+      "Daulatrao Scindia",
+      "Shambhaji Bhonsle",
+      "Shayaji Rao Gaikwar"
+    ],
+    "explanation": "ஆங்கிலேயருடன் பசின் உடன்படிக்கை செய்து கொண்டவர் இரண்டாம் பாஜிராவ்.",
+    "explanation_en": "Pacin Treaty with British was signed by Bajirao II."
+  },
+  {
+    "id": 9,
+    "question": "மராத்திய பேரரசின் கடைசி பேஷ்வா ________.",
+    "options": [
+      "பாலாஜி விஸ்வநாத்",
+      "இரண்டாம் பாஜிராவ்",
+      "பாலாஜி பாஜிராவ்",
+      "பாஜிராவ்"
+    ],
+    "correct": 1,
+    "question_en": "The last Peshwa of the Maratha Empire was ________.",
+    "options_en": [
+      "Balaji Viswanath",
+      "Bajirao II",
+      "Balaji Bajirao",
+      "Bajirao"
+    ],
+    "explanation": "மராத்திய பேரரசின் கடைசி பேஷ்வா இரண்டாம் பாஜிராவ்.",
+    "explanation_en": "The last Peshwa of the Maratha Empire was Bajirao II."
+  },
+  {
+    "id": 10,
+    "question": "துணைப்படைத் திட்டத்தில் இணைந்து கொண்ட முதல் இந்திய சுதேச அரசு எது?",
+    "options": [
+      "அயோத்தி",
+      "ஹைதராபாத்",
+      "உதய்பூர்",
+      "குவாலியர்"
+    ],
+    "correct": 1,
+    "question_en": "Which was the first Indian princely state to join the Auxiliary Forces Programme?",
+    "options_en": [
+      "Ayodhya",
+      "Hyderabad",
+      "Udaipur",
+      "Gwalior"
+    ],
+    "explanation": "துணைப்படைத் திட்டத்தில் இணைந்து கொண்ட முதல் இந்திய சுதேச அரசு ஹைதராபாத் ஆகும்.",
+    "explanation_en": "Hyderabad"
+  },
+  {
+    "id": 11,
+    "question": "அலிநகர் உடன்படிக்கை கையெழுத்திடப்பட்ட ஆண்டு",
+    "options": [
+      "1755",
+      "1763",
+      "1757",
+      "1803"
+    ],
+    "correct": 2,
+    "question_en": "Year of signing Alinagar Treaty",
+    "options_en": [
+      "1755",
+      "1763",
+      "1757",
+      "1803"
+    ],
+    "explanation": "1757",
+    "explanation_en": "1757"
+  },
+  {
+    "id": 12,
+    "question": "சிராஜ்-உத்-தௌலாவின் தலைமைப் படைத் தளபதி ________.",
+    "options": [
+      "மீர்காசிம்",
+      "நவாப்",
+      "ஆலம்ஷா",
+      "பாஜிராவ்"
+    ],
+    "correct": 1,
+    "question_en": "Commander-in-Chief of Siraj-ud-Daula was ________.",
+    "options_en": [
+      "Mirkasim",
+      "Nawab",
+      "Alamsha",
+      "Bajirao"
+    ],
+    "explanation": "சிராஜ்-உத்-தௌலாவின் தலைமைப் படைத் தளபதி நவாப்.",
+    "explanation_en": "Commander-in-Chief of Siraj-ud-Daula was Nawab."
+  },
+  {
+    "id": 13,
+    "question": "இரண்டாம் கர்நாடகப் போருக்கான முக்கிய காரணம்",
+    "options": [
+      "நாட்டை கைப்பற்றுதல்",
+      "வாரிசுரிமைப் போர்",
+      "வணிகம் செய்ய",
+      "வரி வசூலித்தல்"
+    ],
+    "correct": 1,
+    "question_en": "Main cause of Second Carnatic War",
+    "options_en": [
+      "Taking over the country",
+      "War of Succession",
+      "To do business",
+      "Collection of tax"
+    ],
+    "explanation": "வாரிசுரிமைப் போர்",
+    "explanation_en": "War of Succession"
+  },
+  {
+    "id": 14,
+    "question": "இந்தியாவில் பிரிட்டிஷ் சாம்ராஜ்யத்தை விரிவுபடுத்துவதற்காக, வாரிசு இழப்புக் கொள்கையைக் கொண்டு வந்தவர் ________.",
+    "options": [
+      "காரன்வாலிஸ் பிரபு",
+      "வெல்லெஸ்லி பிரபு",
+      "டல்கௌசி பிரபு",
+      "வில்லியம் பிரபு"
+    ],
+    "correct": 2,
+    "question_en": "In order to expand the British Empire in India, the policy of disinheritance was introduced by ________.",
+    "options_en": [
+      "Lord Cornwallis",
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord William"
+    ],
+    "explanation": "இந்தியாவில் பிரிட்டிஷ் சாம்ராஜ்யத்தை விரிவுபடுத்துவதற்காக, வாரிசு இழப்புக் கொள்கையைக் கொண்டு வந்தவர் டல்கௌசி பிரபு.",
+    "explanation_en": "In order to expand the British Empire in India, the policy of disinheritance was introduced by Lord Dalhousie."
+  },
+  {
+    "id": 15,
+    "question": "திப்பு சுல்தானை இறுதியாகத் தோற்கடித்தவர் ________.",
+    "options": [
+      "வெல்லெஸ்லி பிரபு",
+      "டல்கௌசி பிரபு",
+      "காரன்வாலிஸ் பிரபு",
+      "வில்லியம் பிரபு"
+    ],
+    "correct": 0,
+    "question_en": "Tipu Sultan was finally defeated by ________.",
+    "options_en": [
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord Cornwallis",
+      "Lord William"
+    ],
+    "explanation": "திப்பு சுல்தானை இறுதியாகத் தோற்கடித்தவர் வெல்லெஸ்லி பிரபு.",
+    "explanation_en": "Tipu Sultan was finally defeated by Lord Wellesley."
+  },
+  {
+    "id": 16,
+    "question": "திப்பு சுல்தான் இறப்புக்குப் பின் ________ வசம் மைசூர் ஒப்படைக்கப்பட்டது.",
+    "options": [
+      "மராத்தியர்",
+      "டச்சுக்காரர்",
+      "ஆங்கிலேயர்",
+      "பிரெஞ்சுக்காரர்"
+    ],
+    "correct": 2,
+    "question_en": "After the death of Tipu Sultan, Mysore was handed over to ________.",
+    "options_en": [
+      "Marathi",
+      "Dutchman",
+      "Englishman",
+      "Frenchman"
+    ],
+    "explanation": "திப்பு சுல்தான் இறப்புக்குப் பின் ஆங்கிலேயர் வசம் மைசூர் ஒப்படைக்கப்பட்டது.",
+    "explanation_en": "After the death of Tipu Sultan, Mysore was handed over to Englishman."
+  },
+  {
+    "id": 17,
+    "question": "1800 ஆம் ஆண்டு கல்கத்தாவில் உள்ள வில்லியம் கோட்டையில் ஒரு கல்லூரியை நிறுவியவர் ________.",
+    "options": [
+      "காரன்வாலிஸ் பிரபு",
+      "வெல்லெஸ்லி பிரபு",
+      "டல்கௌசி பிரபு",
+      "வில்லியம் பிரபு"
+    ],
+    "correct": 1,
+    "question_en": "________ founded a college in Fort William, Calcutta in 1800.",
+    "options_en": [
+      "Lord Cornwallis",
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord William"
+    ],
+    "explanation": "1800 ஆம் ஆண்டு கல்கத்தாவில் உள்ள வில்லியம் கோட்டையில் ஒரு கல்லூரியை நிறுவியவர் வெல்லெஸ்லி பிரபு.",
+    "explanation_en": "Lord Wellesley founded a college in Fort William, Calcutta in 1800."
+  },
+  {
+    "id": 18,
+    "question": "அலிநகர் உடன்படிக்கை யார் யாருக்கு இடையே ஏற்பட்டது?",
+    "options": [
+      "சிராஜ்-உத்-தௌலா - இராபர்ட் கிளைவ்",
+      "இராபர்ட் கிளைவ் - திப்பு சுல்தான்",
+      "டல்கௌசி பிரபு - திப்பு சுல்தான்",
+      "ஜோசப்ஸ்மித் - ஹைதர் அலி"
+    ],
+    "correct": 0,
+    "question_en": "Treaty of Alinagar was concluded between whom?",
+    "options_en": [
+      "Siraj-ud-Daula - Robert Clive",
+      "Robert Clive - Tipu Sultan",
+      "Lord Dalhousie - Tipu Sultan",
+      "Joseph Smith - Hyder Ali"
+    ],
+    "explanation": "சிராஜ்-உத்-தௌலா - இராபர்ட் கிளைவ்",
+    "explanation_en": "Siraj-ud-Daula - Robert Clive"
+  },
+  {
+    "id": 19,
+    "question": "இருட்டறைத் துயரச் சம்பவம் நடைபெற்ற இடம் ________.",
+    "options": [
+      "வங்காளம்",
+      "டெல்லி",
+      "மதராஸ்",
+      "கல்கத்தா"
+    ],
+    "correct": 3,
+    "question_en": "The darkroom tragedy took place at ________.",
+    "options_en": [
+      "Bengal",
+      "Delhi",
+      "Madras",
+      "Calcutta"
+    ],
+    "explanation": "இருட்டறைத் துயரச் சம்பவம் நடைபெற்ற இடம் கல்கத்தா.",
+    "explanation_en": "The darkroom tragedy took place at Calcutta."
+  },
+  {
+    "id": 20,
+    "question": "தஸ்தக் என்பது ________ வரி.",
+    "options": [
+      "மகசூல்வரி",
+      "வீட்டுவரி",
+      "சுங்கவரி",
+      "குத்தகை"
+    ],
+    "correct": 2,
+    "question_en": "Dastak is ________ tax.",
+    "options_en": [
+      "Revenue tax",
+      "House tax",
+      "customs duty",
+      "Lease"
+    ],
+    "explanation": "தஸ்தக் என்பது சுங்கவரி வரி.",
+    "explanation_en": "Dastak is customs duty tax."
+  },
+  {
+    "id": 21,
+    "question": "இரட்டை ஆட்சி முறையைக் கொண்டு வந்தவர் ________.",
+    "options": [
+      "இராபர்ட் கிளைவ்",
+      "டல்கௌசி பிரபு",
+      "வெல்லெஸ்லி பிரபு",
+      "கவுண்டி-டி-லாலி"
+    ],
+    "correct": 0,
+    "question_en": "Dual system of government was introduced by ________.",
+    "options_en": [
+      "Robert Clive",
+      "Lord Dalhousie",
+      "Lord Wellesley",
+      "County-de-Laly"
+    ],
+    "explanation": "இரட்டை ஆட்சி முறையைக் கொண்டு வந்தவர் இராபர்ட் கிளைவ்.",
+    "explanation_en": "Dual system of government was introduced by Robert Clive."
+  },
+  {
+    "id": 22,
+    "question": "நவாப் படைக்குத் தலைமை வகித்தவர் ________.",
+    "options": [
+      "பாரடைஸ்",
+      "மாபூஸ்கான்",
+      "கவுண்டி-டி-லாலி",
+      "நிஜாம்-உத்-தௌலா"
+    ],
+    "correct": 1,
+    "question_en": "The Nawab's army was commanded by ________.",
+    "options_en": [
+      "Paradise",
+      "Mabuscon",
+      "County-de-Laly",
+      "Nizam-ud-Daula"
+    ],
+    "explanation": "நவாப் படைக்குத் தலைமை வகித்தவர் மாபூஸ்கான்.",
+    "explanation_en": "The Nawab's army was commanded by Mabuscon."
+  },
+  {
+    "id": 23,
+    "question": "ஆஸ்திரிய வாரிசுரிமைப் போரின் முடிவில் எந்த உடன்படிக்கை ஏற்பட்டது?",
+    "options": [
+      "அலகாபாத்",
+      "சால்பை",
+      "மதராஸ்",
+      "அய்லா-சப்பேல்"
+    ],
+    "correct": 3,
+    "question_en": "Which treaty ended the War of Austrian Succession?",
+    "options_en": [
+      "Allahabad",
+      "Salbai",
+      "Madras",
+      "Ayla-Shabele"
+    ],
+    "explanation": "அய்லா-சப்பேல்",
+    "explanation_en": "Ayla-Shabele"
+  },
+  {
+    "id": 24,
+    "question": "பிரெஞ்சு ஆளுநர் கோதேயுக்கும், ஆங்கிலேயருக்கும் இடையே ஏற்பட்ட உடன்படிக்கை",
+    "options": [
+      "மதராஸ்",
+      "பாண்டிச்சேரி",
+      "அய்லா-சப்பேல்",
+      "அலகாபாத்"
+    ],
+    "correct": 1,
+    "question_en": "Agreement between the French Governor Goethe and the English",
+    "options_en": [
+      "Madras",
+      "Pondicherry",
+      "Ayla-Shabele",
+      "Allahabad"
+    ],
+    "explanation": "பாண்டிச்சேரி",
+    "explanation_en": "Pondicherry"
+  },
+  {
+    "id": 25,
+    "question": "செயின்ட் டேவிட் கோட்டை எங்குள்ளது?",
+    "options": [
+      "வந்தவாசி",
+      "கல்கத்தா",
+      "கடலூர்",
+      "ஆக்ரா"
+    ],
+    "correct": 2,
+    "question_en": "Where is St. David's Castle?",
+    "options_en": [
+      "comer",
+      "Calcutta",
+      "Cuddalore",
+      "Agra"
+    ],
+    "explanation": "கடலூர்",
+    "explanation_en": "Cuddalore is St. David's Castle."
+  },
+  {
+    "id": 26,
+    "question": "மதராஸ் உடன்படிக்கை நடைபெற்ற ஆண்டு ________.",
+    "options": [
+      "1769",
+      "1755",
+      "1748",
+      "1765"
+    ],
+    "correct": 0,
+    "question_en": "Madras Agreement was held in ________.",
+    "options_en": [
+      "1769",
+      "1755",
+      "1748",
+      "1765"
+    ],
+    "explanation": "மதராஸ் உடன்படிக்கை நடைபெற்ற ஆண்டு 1769.",
+    "explanation_en": "Madras Agreement was held in 1769."
+  },
+  {
+    "id": 27,
+    "question": "ஆங்கிலேயப் படைத்தளபதி சர் அயர்கூட், ஹைதர் அலியைத் தோற்கடித்த இடம் ________.",
+    "options": [
+      "வந்தவாசி",
+      "கடலூர்",
+      "பரங்கிப்பேட்டை",
+      "மைசூர்"
+    ],
+    "correct": 2,
+    "question_en": "British commander Sir Ayerkoot defeated Hyder Ali at ________.",
+    "options_en": [
+      "comer",
+      "Cuddalore",
+      "Parangipet",
+      "Mysore"
+    ],
+    "explanation": "ஆங்கிலேயப் படைத்தளபதி சர் அயர்கூட், ஹைதர் அலியைத் தோற்கடித்த இடம் பரங்கிப்பேட்டை.",
+    "explanation_en": "British commander Sir Ayerkoot defeated Hyder Ali at Parangipet."
+  },
+  {
+    "id": 28,
+    "question": "புரந்தர் உடன்படிக்கை யார் யாருக்கு இடையே ஏற்பட்டது ________.",
+    "options": [
+      "ஆங்கிலேயர் - ரகுநாதராவ்",
+      "வெல்லெஸ்லி - பேஷ்வா",
+      "ஹேஸ்டிங்ஸ் - சிந்தியா",
+      "அப்டன் - பூனா பாதுகாப்பு படை"
+    ],
+    "correct": 3,
+    "question_en": "Purandar agreement was made between whom ________.",
+    "options_en": [
+      "English - Raghunathrao",
+      "Wellesley - Peshwa",
+      "Hastings - Cynthia",
+      "Upton - Poona Defense Force"
+    ],
+    "explanation": "புரந்தர் உடன்படிக்கை யார் யாருக்கு இடையே ஏற்பட்டது அப்டன் - பூனா பாதுகாப்பு படை.",
+    "explanation_en": "Purandar agreement was made between whom Upton - Poona Defense Force."
+  },
+  {
+    "id": 29,
+    "question": "மராத்தியரின் கடைசி பேஷ்வா ________.",
+    "options": [
+      "இரண்டாம் பாஜிராவ்",
+      "முதலாம் பாஜிராவ்",
+      "சிவாஜி",
+      "மாதராவ் சிந்தியா"
+    ],
+    "correct": 0,
+    "question_en": "The last Peshwa of Marathas was ________.",
+    "options_en": [
+      "Bajirao II",
+      "Bajirao first",
+      "Shivaji",
+      "Madarao Scindia"
+    ],
+    "explanation": "மராத்தியரின் கடைசி பேஷ்வா இரண்டாம் பாஜிராவ்.",
+    "explanation_en": "The last Peshwa of Marathas was Bajirao II."
+  },
+  {
+    "id": 30,
+    "question": "இங்கிலாந்தில் உள்ள கிழக்கிந்தியக் கல்லூரி ஆரம்பிக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1786",
+      "1800",
+      "1833",
+      "1806"
+    ],
+    "correct": 3,
+    "question_en": "East India College in England was founded in ________.",
+    "options_en": [
+      "1786",
+      "1800",
+      "1833",
+      "1806"
+    ],
+    "explanation": "இங்கிலாந்தில் உள்ள கிழக்கிந்தியக் கல்லூரி ஆரம்பிக்கப்பட்ட ஆண்டு 1806.",
+    "explanation_en": "East India College in England was founded in 1806."
+  },
+  {
+    "id": 31,
+    "question": "__________ சட்டத்தின் படி முதன் முதலில் போட்டித் தேர்வின் மூலம் அரசு ஊழியர் நியமனம் செய்தனர்.",
+    "options": [
+      "வங்காள",
+      "காந்தி - இர்வின்",
+      "வாரிசுரிமை",
+      "பட்டய"
+    ],
+    "correct": 3,
+    "question_en": "According to the __________ Act, government employees were first appointed through competitive examination.",
+    "options_en": [
+      "Bengal",
+      "Gandhi - Irvine",
+      "Inheritance",
+      "Chartered"
+    ],
+    "explanation": "பட்டய சட்டத்தின் படி முதன் முதலில் போட்டித் தேர்வின் மூலம் அரசு ஊழியர் நியமனம் செய்தனர்.",
+    "explanation_en": "According to the Chartered Act, government employees were first appointed through competitive examination."
+  },
+  {
+    "id": 32,
+    "question": "ஐ.சி.எஸ் தேர்வில் தேர்ச்சி பெற்ற முதல் இந்தியர் ________.",
+    "options": [
+      "ரவீந்திரநாத் தாகூர்",
+      "ராமசாமி",
+      "வல்லபாய் படேல்",
+      "சத்தியேந்திரநாத் தாகூர்"
+    ],
+    "correct": 3,
+    "question_en": "________ was the first Indian to clear the ICS examination.",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Ramasamy",
+      "Vallabhbhai Patel",
+      "Satyendranath Tagore"
+    ],
+    "explanation": "ஐ.சி.எஸ் தேர்வில் தேர்ச்சி பெற்ற முதல் இந்தியர் சத்தியேந்திரநாத் தாகூர்.",
+    "explanation_en": "Satyendranath Tagore was the first Indian to clear the ICS examination."
+  },
+  {
+    "id": 33,
+    "question": "முதன் முதலில் காவல் துறை உருவாக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1790",
+      "1857",
+      "1795",
+      "1791"
+    ],
+    "correct": 3,
+    "question_en": "The police department was first formed in the year ________.",
+    "options_en": [
+      "1790",
+      "1857",
+      "1795",
+      "1791"
+    ],
+    "explanation": "முதன் முதலில் காவல் துறை உருவாக்கப்பட்ட ஆண்டு 1791.",
+    "explanation_en": "The police department was first formed in the year 1791."
+  },
+  {
+    "id": 34,
+    "question": "மதராஸ் உச்சநீதிமன்றம் அமைக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1801",
+      "1803",
+      "1773",
+      "1775"
+    ],
+    "correct": 0,
+    "question_en": "Madras Supreme Court was established in ________.",
+    "options_en": [
+      "1801",
+      "1803",
+      "1773",
+      "1775"
+    ],
+    "explanation": "மதராஸ் உச்சநீதிமன்றம் அமைக்கப்பட்ட ஆண்டு 1801.",
+    "explanation_en": "Madras Supreme Court was established in 1801."
+  },
+  {
+    "id": 35,
+    "question": "கீழே உள்ளவர்களில் யார் ஏகாதிபத்தியவாதி?",
+    "options": [
+      "வெல்லெஸ்லி",
+      "கர்சன்",
+      "டல்கௌசி",
+      "திப்பு சுல்தான்"
+    ],
+    "correct": 2,
+    "question_en": "Who among the following is an imperialist?",
+    "options_en": [
+      "Wellesley",
+      "Curzon",
+      "Dalhousie",
+      "Tipu Sultan"
+    ],
+    "explanation": "டல்கௌசி",
+    "explanation_en": "Dalhousie"
+  },
+  {
+    "id": 36,
+    "question": "பின்வருவனவற்றைப் பொருத்துக.\nI. அய் - லா - சப்பேல் உடன்படிக்கை - a. முதல் ஆங்கில - மைசூர் போர்\nII. சால்பை உடன்படிக்கை - b. முதல் கர்நாடகப் போர்\nIII. பாரீஸ் உடன்படிக்கை - c. மூன்றாம் கர்நாடகப் போர்\nIV. ஸ்ரீரங்கப்பட்டின உடன்படிக்கை - d. முதல் மராத்திய போர்\nV. மதராஸ் உடன்படிக்கை - e. மூன்றாம் ஆங்கில - மைசூர் போர்",
+    "options": [
+      "(1) i - d, ii - e, iii - c, iv - b, v - a",
+      "(2) i - b, ii - d, iii - c, iv - e, v - a",
+      "(3) i - b, ii - a, iii - c, iv - e, v - d",
+      "(4) i - e, ii - a, iii - c, iv - b, v - d"
+    ],
+    "correct": 1,
+    "question_en": "Match the following.\nI. Ay - La - Sappale Agreement - a. First Anglo-Mysore War\nII. Salbai Agreement – ​​b. First Carnatic War\nIII. Treaty of Paris – c. Third Carnatic War\nIV. Treaty of Srirangapatna - d. First Maratha War\nV. Madras Treaty – e. Third Anglo-Mysore War",
+    "options_en": [
+      "(1) i - d, ii - e, iii - c, iv - b, v - a",
+      "(2) i - b, ii - d, iii - c, iv - e, v - a",
+      "(3) i - b, ii - a, iii - c, iv - e, v - d",
+      "(4) i - e, ii - a, iii - c, iv - b, v - d"
+    ],
+    "explanation": "(2) i - b, ii - d, iii - c, iv - e, v - a",
+    "explanation_en": "(2) i - b, ii - d, iii - c, iv - e, v - a"
+  },
+  {
+    "id": 37,
+    "question": "கீழ்க்கண்டவற்றுள் எது சரியாகப் பொருந்தியுள்ளது?",
+    "options": [
+      "(1) அடையாறு போர் - 1748",
+      "(2) ஆம்பூர் போர் - 1754",
+      "(3) வந்தவாசிப் போர் - 1760",
+      "(4) ஆற்காட்டுப் போர் - 1749"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is correct?",
+    "options_en": [
+      "(1) Battle of Adyar - 1748",
+      "(2) Battle of Ambur – 1754",
+      "(3) Vandavasi War – 1760",
+      "(4) War of Arcot – 1749"
+    ],
+    "explanation": "(3) வந்தவாசிப் போர் - 1760",
+    "explanation_en": "(3) Vandavasi War – 1760 is correct."
+  },
+  {
+    "id": 38,
+    "question": "பின்வருவனவற்றைப் பொருத்துக.\ni. அலிநகர் உடன்படிக்கை - a. 1763\nii. அலகாபாத் உடன்படிக்கை - b. 1748\niii. அய் - லா - சப்பேல் உடன்படிக்கை - c. 1765\niv. பாரீஸ் உடன்படிக்கை - d. 1757",
+    "options": [
+      "(1) i - d, ii - c, iii - a, iv - b",
+      "(2) i - a, ii - c, iii - d, iv - b",
+      "(3) i - b, ii - a, iii - c, iv - d",
+      "(4) i - d, ii - c, iii - b, iv - a"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\ni. Pact of Alinagar – a. 1763\nii. Treaty of Allahabad – b. 1748\niii. Ay - La - Sappéal Agreement - c. 1765\niv. Treaty of Paris – d. 1757",
+    "options_en": [
+      "(1) i - d, ii - c, iii - a, iv - b",
+      "(2) i - a, ii - c, iii - d, iv - b",
+      "(3) i - b, ii - a, iii - c, iv - d",
+      "(4) i - d, ii - c, iii - b, iv - a"
+    ],
+    "explanation": "(4) i - d, ii - c, iii - b, iv - a",
+    "explanation_en": "(4) i - d, ii - c, iii - b, iv - a"
+  },
+  {
+    "id": 39,
+    "question": "பின்வருவனவற்றில் பொருந்தாதது எது?",
+    "options": [
+      "(1) புரந்தர் ஒப்பந்தம் - 1776",
+      "(2) அர்ஜூன் ஒப்பந்தம் - 1803",
+      "(3) சூரத் ஒப்பந்தம் - 1775",
+      "(4) திமோசான் ஒப்பந்தம் - 1802"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not applicable?",
+    "options_en": [
+      "(1) Treaty of Purandar - 1776",
+      "(2) Treaty of Arjuna – 1803",
+      "(3) Treaty of Surat – 1775",
+      "(4) Treaty of Timosan – 1802"
+    ],
+    "explanation": "பின்வருவனவற்றில் பொருந்தாதது (4) திமோசான் ஒப்பந்தம் - 1802 ஆகும்.",
+    "explanation_en": "(4) Treaty of Timosan – 1802 is not applicable."
+  },
+  {
+    "id": 40,
+    "question": "கீழ் உள்ளவற்றைப் பொருத்துக\ni. ராயல் கமிஷன் - a. 1791\nii. இந்தியர் உயர் பதவி - b. லீ பிரபு\niii. காவல் துறை - c. திவானி அதாலத்\niv. சிவில் நீதிமன்றம் - d. சுபேதார்",
+    "options": [
+      "(1) i - b, ii - d, iii - a, iv - c",
+      "(2) i - a, ii - c, iii - d, iv - b",
+      "(3) i - a, ii - c, iii - b, iv - d",
+      "(4) i - d, ii - c, iii - b, iv - a"
+    ],
+    "correct": 0,
+    "question_en": "Match the following\ni. Royal Commission – a. 1791\nii. High rank of Indian – b. Lord Lee\niii. Police Department - c. Diwani Adalat\niv. Civil Court – d. Subedar",
+    "options_en": [
+      "(1) i - b, ii - d, iii - a, iv - c",
+      "(2) i - a, ii - c, iii - d, iv - b",
+      "(3) i - a, ii - c, iii - b, iv - d",
+      "(4) i - d, ii - c, iii - b, iv - a"
+    ],
+    "explanation": "(1) i - b, ii - d, iii - a, iv - c",
+    "explanation_en": "(1) i - b, ii - d, iii - a, iv - c"
+  },
+  {
+    "id": 41,
+    "question": "பின்வரும் கூற்றுகளில் தவறானது எது?\ni. துணைப்படைத் திட்டத்தை அறிமுகப்படுத்தியவர் டல்கௌசி பிரபு.\nii. வாரிசு இழப்புக் கொள்கையை கொண்டு வந்தவர் வெல்லெஸ்லி பிரபு.\niii. காவல் துறையை நிர்வகிக்கும் பொறுப்பு மாவட்ட ஆட்சித் தலைவரிடம் இருந்தது.\niv. இராணுவத்தில் 86% பேர் இந்தியர்கள் இருந்தனர்.",
+    "options": [
+      "(1) ii மட்டும்",
+      "(2) ii, iv மட்டும்",
+      "(3) i, ii மட்டும்",
+      "(4) iv மட்டும்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements is false?\ni. It was Lord Dalhousie who introduced the Auxiliary Army Scheme.\nii. It was Lord Wellesley who came up with the principle of disinheritance.\niii. The District Governor was responsible for managing the police department.\niv. 86% of the army was Indians.",
+    "options_en": [
+      "(1) ii only",
+      "(2) ii, iv only",
+      "(3) i, ii only",
+      "(4) iv only"
+    ],
+    "explanation": "(3) i, ii மட்டும்",
+    "explanation_en": "(3) i, ii only"
+  },
+  {
+    "id": 42,
+    "question": "பின்வரும் கூற்றுகளில் சரியானது எது?",
+    "options": [
+      "(1) வங்காள நவாப் அலிவர்த்திகான் 1750-ல் இறந்தார்.",
+      "(2) பீகாரின் கங்கை நதிக்கரையில் அமைந்த சிறிய நகரம் பக்சார்.",
+      "(3) பிரெஞ்சுப் படைத்தளபதி மாபூஸ்கான்.",
+      "(4) முகமது அலியின் மகன் அன்வாருதின்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is correct?",
+    "options_en": [
+      "(1) Nawab Alivarthi Khan of Bengal died in 1750.",
+      "(2) Paksar is a small town on the banks of the Ganges in Bihar.",
+      "(3) French Commander Mabuscon.",
+      "(4) Muhammad Ali's son Anwaruddin."
+    ],
+    "explanation": "(2) பீகாரின் கங்கை நதிக்கரையில் அமைந்த சிறிய நகரம் பக்சார்.",
+    "explanation_en": "(2) Paksar is a small town on the banks of the Ganges in Bihar."
+  },
+  {
+    "id": 43,
+    "question": "பின்வரும் கூற்றுகளில் தவறானது எது?",
+    "options": [
+      "(1) 1751ல் ஆற்காட்டுப் போர் நடைபெற்றது.",
+      "(2) மைசூர் சமஸ்தானத்தின் ஆட்சியாளர் ஹைதர் அலி.",
+      "(3) 1775ல் சூரத் ஒப்பந்தம்.",
+      "(4) 1770ல் புரந்தர் ஒப்பந்தம்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following statements is false?",
+    "options_en": [
+      "(1) In 1751 the Battle of Arcot took place.",
+      "(2) Hyder Ali, the ruler of the Mysore kingdom.",
+      "(3) Treaty of Surat in 1775.",
+      "(4) Treaty of Purandar in 1770."
+    ],
+    "explanation": "(4) 1770ல் புரந்தர் ஒப்பந்தம்.",
+    "explanation_en": "(4) Treaty of Purandar in 1770."
+  },
+  {
+    "id": 44,
+    "question": "பின்வரும் கூற்றுகளில் சரியானது எது?",
+    "options": [
+      "(1) இரண்டாம் பாஜிராவ் வருடாந்திர ஓய்வூதியம் ரூ 8 லட்சம் பெற்றார்.",
+      "(2) இந்தியப்படை வீரர்களின் மாதச் சம்பளம் ரூ 350.",
+      "(3) இருட்டறைத் துயரச் சம்பவத்தில் 146 பேர் மூச்சுத் திணறி இறந்தனர்.",
+      "(4) இந்திய ஆட்சிப்பணியில் 35% பேர் தேர்வு."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following statements is correct?",
+    "options_en": [
+      "(1) Bajirao II received an annual pension of Rs 8 lakhs.",
+      "(2) Monthly Salary of Indian Army Soldiers Rs.350.",
+      "(3) 146 people died of suffocation in the darkroom tragedy.",
+      "(4) 35% selection in Indian Civil Service."
+    ],
+    "explanation": "(1) இரண்டாம் பாஜிராவ் வருடாந்திர ஓய்வூதியம் ரூ 8 லட்சம் பெற்றார்.",
+    "explanation_en": "(1) Bajirao II received an annual pension of Rs 8 lakhs."
+  },
+  {
+    "id": 45,
+    "question": "பின்வருவனவற்றைப் பொருத்துக.\ni. போர்ச்சுகல் மாலுமி - a. சிராஜ்-உத்-தௌலா\nii. இருட்டறைத் துயரச் சம்பவம் - b. லீ பிரபு\niii. இரட்டை ஆட்சி முறை - c. வாஸ்கோடகாமா\niv. ராயல் கமிஷன் - d. இராபர்ட் கிளைவ்",
+    "options": [
+      "(1) i - b, ii - d, iii - a, iv - c",
+      "(2) i - a, ii - c, iii - d, iv - b",
+      "(3) i - a, ii - c, iii - b, iv - d",
+      "(4) i - c, ii - a, iii - d, iv - b"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\ni. Portuguese sailor - a. Siraj-ud-Daula\nii. Darkroom Tragedy – b. Lord Lee\niii. Dual system of governance – c. Vasco da Gama\niv. Royal Commission – d. Robert Clive",
+    "options_en": [
+      "(1) i - b, ii - d, iii - a, iv - c",
+      "(2) i - a, ii - c, iii - d, iv - b",
+      "(3) i - a, ii - c, iii - b, iv - d",
+      "(4) i - c, ii - a, iii - d, iv - b"
+    ],
+    "explanation": "(4) i - c, ii - a, iii - d, iv - b",
+    "explanation_en": "(4) i - c, ii - a, iii - d, iv - b"
+  },
+  {
+    "id": 46,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1) சந்தா சாகிப்",
+      "(2) முகமது அலி",
+      "(3) நாசிர் ஜங்",
+      "(4) முசாபர் ஜங்"
+    ],
+    "correct": 1,
+    "question_en": "Select one that does not apply.",
+    "options_en": [
+      "(1) Chanda Sahib",
+      "(2) Muhammad Ali",
+      "(3) Nasir Jung",
+      "(4) Muzaffar Jung"
+    ],
+    "explanation": "(2) முகமது அலி",
+    "explanation_en": "(2) Muhammad Ali"
+  },
+  {
+    "id": 47,
+    "question": "பொருத்துக.\na) பிளாசிப் போர் - i. 1760\nb) பக்சார் போர் - ii. 1757\nc) வந்தவாசிப் போர் - iii. 1751\nd) ஆற்காட்டுப் போர் - iv. 1764",
+    "options": [
+      "(1) iv iii i ii",
+      "(2) ii iv i iii",
+      "(3) ii iv iii i",
+      "(4) iii ii i iv"
+    ],
+    "correct": 2,
+    "question_en": "match\na) Plasip War – i. 1760\nb) Battle of Buxar – ii. 1757\nc) Battle of Vandavasi – iii. 1751\nd) Arhat War – iv. 1764",
+    "options_en": [
+      "(1) iv iii i ii",
+      "(2) ii iv i iii",
+      "(3) ii iv iii i",
+      "(4) iii ii i iv"
+    ],
+    "explanation": "(3) ii iv iii i",
+    "explanation_en": "(3) ii iv iii i"
+  },
+  {
+    "id": 48,
+    "question": "இந்திய ஆட்சிப்பணிச் சட்டம் இயற்றப்பட்ட ஆண்டு ________.",
+    "options": [
+      "(1) 1862",
+      "(2) 1861",
+      "(3) 1859",
+      "(4) 1857"
+    ],
+    "correct": 1,
+    "question_en": "The Indian Civil Service Act was enacted in ________.",
+    "options_en": [
+      "(1) 1862",
+      "(2) 1861",
+      "(3) 1859",
+      "(4) 1857"
+    ],
+    "explanation": "இந்திய ஆட்சிப்பணிச் சட்டம் இயற்றப்பட்ட ஆண்டு (2) 1861.",
+    "explanation_en": "The Indian Civil Service Act was enacted in (2) 1861."
+  },
+  {
+    "id": 49,
+    "question": "கூற்று-I: பிளாசிப் போர் கி.பி. 1757-ஆம் ஆண்டு நடைபெற்றது.\nகூற்று-II: இப்போர் வங்காள நவாப் மற்றும் ஆங்கிலேயர்களுக்கிடையே நடைபெற்றது.",
+    "options": [
+      "(1) கூற்று I மற்றும் II சரியானவை",
+      "(2) கூற்று I மற்றும் II தவறானவை",
+      "(3) கூற்று I சரி, கூற்று II தவறு",
+      "(4) கூற்று I தவறு, கூற்று II சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion-I: Battle of Plasip in AD Held in 1757.\nAssertion-II: The battle was fought between the Nawab of Bengal and the British.",
+    "options_en": [
+      "(1) Statement I and II are correct",
+      "(2) Statements I and II are false",
+      "(3) Statement I is true and statement II is false",
+      "(4) Statement I is false, statement II is true"
+    ],
+    "explanation": "(1) கூற்று I மற்றும் II சரியானவை",
+    "explanation_en": "(1) Statement I and II are correct"
+  },
+  {
+    "id": 50,
+    "question": "கீழ்க்கண்டவற்றைக் காலக்கிரமப்படி வரிசைப்படுத்துக.\n(a) ரோஹில்லாப் போர் (b) இரண்டாவது ஆங்கில மைசூர் போர்\n(c) மங்களூர் உடன்படிக்கை (d) முதலாம் ஆங்கில மராத்தியப் போர்",
+    "options": [
+      "(1) (a), (c), (b), (d)",
+      "(2) (a), (d), (c), (b)",
+      "(3) (a), (d), (b), (c)",
+      "(4) (d), (b), (a), (c)"
+    ],
+    "correct": 2,
+    "question_en": "Arrange the following in chronological order.\n(a) Rohilla War (b) Second Anglo-Mysore War\n(c) Treaty of Mangalore (d) First Anglo-Maratha War",
+    "options_en": [
+      "(1) (a), (c), (b), (d)",
+      "(2) (a), (d), (c), (b)",
+      "(3) (a), (d), (b), (c)",
+      "(4) (d), (b), (a), (c)"
+    ],
+    "explanation": "(3) (a), (d), (b), (c)",
+    "explanation_en": "(3) (a), (d), (b), (c)"
+  },
+  {
+    "id": 51,
+    "question": "ஒழுங்குமுறைச் சட்டம் கொண்டு வரப்பட்ட ஆண்டு ________.",
+    "options": [
+      "(1) 1775",
+      "(2) 1773",
+      "(3) 1778",
+      "(4) 1771"
+    ],
+    "correct": 1,
+    "question_en": "The year in which the Ordinance was brought was ________.",
+    "options_en": [
+      "(1) 1775",
+      "(2) 1773",
+      "(3) 1778",
+      "(4) 1771"
+    ],
+    "explanation": "ஒழுங்குமுறைச் சட்டம் கொண்டு வரப்பட்ட ஆண்டு (2) 1773.",
+    "explanation_en": "The year in which the Ordinance was brought was (2) 1773."
+  },
+  {
+    "id": 52,
+    "question": "தவறான இணையைக் கண்டுபிடிக்கவும்",
+    "options": [
+      "(1) முதல் கர்நாடகப் போர் - கி.பி. 1746 - 1748",
+      "(2) பிளாசிப் போர் - கி.பி 1757",
+      "(3) பக்சார் போர் - கி.பி 1765",
+      "(4) முதலாவது ஆங்கில மைசூர் போர் - கி.பி. 1767 – 1769"
+    ],
+    "correct": 2,
+    "question_en": "Find the wrong parallel",
+    "options_en": [
+      "(1) First Carnatic War - AD 1746 - 1748",
+      "(2) Battle of Plasipus – 1757 AD",
+      "(3) Battle of Buxar - 1765 AD",
+      "(4) First Anglo-Mysore War - AD 1767 – 1769"
+    ],
+    "explanation": "(3) பக்சார் போர் - கி.பி 1765",
+    "explanation_en": "(3) Battle of Buxar - 1765 AD"
+  }
+]

@@ -1,0 +1,1662 @@
+[
+  {
+    "id": 1,
+    "question": "கீழ்க்காணும் வாக்கியங்களில் சரியானது எது?",
+    "options": [
+      "முதலமைச்சர் என்பவர் எதிர்க்கட்சித் தலைவர்.",
+      "தமிழ்நாட்டில் ஈரவைச் சட்டமன்றம் செயல்படுகிறது.",
+      "உயர் நீதிமன்றம் மாநில அரசின் உச்சபட்ச நீதி அமைப்பு.",
+      "மாநில அரசின் மூன்று முக்கிய நிர்வாகப் பிரிவுகள் கிராமம், நகரம், மாநிலம்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following sentences is correct?",
+    "options_en": [
+      "The Chief Minister is the Leader of the Opposition.",
+      "Irrigation Assembly is functioning in Tamil Nadu.",
+      "The High Court is the highest judicial organ of the State Government.",
+      "The three main administrative divisions of the state government are village, town and state."
+    ],
+    "explanation": "கீழ்க்காணும் வாக்கியங்களில் சரியானது உயர் நீதிமன்றம் மாநில அரசின் உச்சபட்ச நீதி அமைப்பு. ஆகும்.",
+    "explanation_en": "The High Court is the highest judicial organ of the State Government."
+  },
+  {
+    "id": 2,
+    "question": "இந்தியாவிலுள்ள மொத்த மாநிலங்களின் எண்ணிக்கை ________.",
+    "options": [
+      "26",
+      "28",
+      "27",
+      "30"
+    ],
+    "correct": 1,
+    "question_en": "Total number of states in India is ________.",
+    "options_en": [
+      "26",
+      "28",
+      "27",
+      "30"
+    ],
+    "explanation": "இந்தியாவிலுள்ள மொத்த மாநிலங்களின் எண்ணிக்கை 28.",
+    "explanation_en": "Total number of states in India is 28."
+  },
+  {
+    "id": 3,
+    "question": "பொருத்துக.\ni. ஆளுநர் - அ. 9\nii. முதலமைச்சர் - ஆ. தலைமைச் செயலகம்\niii. யூனியன் பிரதேசங்கள் - இ. மாநிலத்தின் தலைவர்\niv. புனித ஜார்ஜ் கோட்டை - ஈ. பெரும்பான்மைக் கட்சித் தலைவர்",
+    "options": [
+      "i – அ, ii – ஆ, iii – இ, iv – ஈ",
+      "i – இ, ii – ஈ, iii – அ, iv - ஆ",
+      "i – ஈ, ii - ஆ, iii – அ, iv - இ",
+      "i – இ, ii – அ, iii – ஈ, iv - ஆ"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. ஆளுநர் - அ. 9\nii. Chief Minister - A. Head Office\niii. Union Territories – e. Head of state\niv. Fort St. George - E. Majority Party Leader",
+    "options_en": [
+      "i – a, ii – b, iii – e, iv – e",
+      "i – e, ii – e, iii – a, iv – b",
+      "i – e, ii – b, iii – a, iv – e",
+      "i – e, ii – a, iii – e, iv – b"
+    ],
+    "explanation": "i – இ, ii – ஈ, iii – அ, iv - ஆ",
+    "explanation_en": "i – e, ii – e, iii – a, iv – b"
+  },
+  {
+    "id": 4,
+    "question": "தவறான இணையைக் கண்டுபிடி.",
+    "options": [
+      "சட்டமன்றப் பேரவை - கீழவை",
+      "சட்டமன்ற மேலவை - மேலவை",
+      "ஆளுநர் - மாநில அரசின் தலைவர்",
+      "முதலமைச்சர் - எதிர்க்கட்சித் தலைவர்"
+    ],
+    "correct": 3,
+    "question_en": "Find the wrong parallel.",
+    "options_en": [
+      "Legislative Assembly – Lower",
+      "Upper House of Assembly - Upper House",
+      "Governor – Head of the State Government",
+      "Chief Minister - Leader of Opposition"
+    ],
+    "explanation": "முதலமைச்சர் - எதிர்க்கட்சித் தலைவர்",
+    "explanation_en": "Chief Minister - Leader of Opposition"
+  },
+  {
+    "id": 5,
+    "question": "உயர் நீதிமன்ற நீதிபதிகளை நியமிப்பதில் பங்கு பெறாதவர் யார்?",
+    "options": [
+      "ஆளுநர்",
+      "உச்ச நீதிமன்றத் தலைமை நீதிபதி",
+      "முதலமைச்சர்",
+      "குடியரசுத்தலைவர்"
+    ],
+    "correct": 2,
+    "question_en": "Who does not participate in the appointment of High Court Judges?",
+    "options_en": [
+      "Governor",
+      "Chief Justice of the Supreme Court",
+      "Chief Minister",
+      "President of the Republic"
+    ],
+    "explanation": "உயர் நீதிமன்ற நீதிபதிகளை நியமிப்பதில் பங்கு பெறாதவர் முதலமைச்சர்.",
+    "explanation_en": "Chief Minister"
+  },
+  {
+    "id": 6,
+    "question": "கீழ்க்கண்ட கூற்றுகளில் தவறானவற்றைத் தேர்ந்தெடுக்கவும்.\n(i) சட்டமன்றத்தில் உறுப்பினர்களின் கேள்விகளுக்கு அமைச்சர்கள் பதிலளிப்பர்.\n(ii) மாநிலத்திலுள்ள பல்கலைக்கழகங்களின் வேந்தராக முதலமைச்சர் செயல்படுகிறார்.\n(iii) ஒரு மாநிலத்தின் ஆளுநர், பிரதமரால் நியமிக்கப்படுகிறார்.\n(iv) உயர் நீதிமன்ற நீதிபதிகள் ஓய்வு பெறும் வயது 62.",
+    "options": [
+      "i மற்றும் ii",
+      "iii மற்றும் iv",
+      "i மற்றும் iv",
+      "ii மற்றும் iii"
+    ],
+    "correct": 3,
+    "question_en": "Choose the false from the following statements.\n(i) Ministers answer questions of members in the Assembly.\n(ii) The Chief Minister acts as the Chancellor of the Universities in the State.\n(iii) The Governor of a State is appointed by the Prime Minister.\n(iv) Retirement age of High Court Judges is 62.",
+    "options_en": [
+      "i and ii",
+      "iii and iv",
+      "i and iv",
+      "ii and iii"
+    ],
+    "explanation": "ii மற்றும் iii",
+    "explanation_en": "ii and iii"
+  },
+  {
+    "id": 7,
+    "question": "மாநிலச் சட்டமன்ற உறுப்பினர்கள் கீழ்க்கண்டவர்களுள் யாரைத் தேர்ந்தெடுப்பதில் பங்கு பெறுகின்றனர்?\n(i) குடியரசுத் தலைவர்\n(ii) துணைக் குடியரசுத் தலைவர்\n(iii) ராஜ்ஜிய சபா உறுப்பினர்கள்\n(iv) சட்ட மேலவை உறுப்பினர்கள்",
+    "options": [
+      "i, ii மற்றும் iii சரி",
+      "i மற்றும் iii சரி",
+      "i, iii மற்றும் iv சரி",
+      "i, ii, iii மற்றும் iv சரி"
+    ],
+    "correct": 2,
+    "question_en": "Who among the following participates in electing members of state legislatures?\n(i) குடியரசுத் தலைவர்\n(ii) துணைக் குடியரசுத் தலைவர்\n(iii) ராஜ்ஜிய சபா உறுப்பினர்கள்\n(iv) சட்ட மேலவை உறுப்பினர்கள்",
+    "options_en": [
+      "i, ii and iii are correct",
+      "i and iii are correct",
+      "i, iii and iv are correct",
+      "i, ii, iii and iv are correct"
+    ],
+    "explanation": "i, iii மற்றும் iv சரி",
+    "explanation_en": "i, iii and iv are correct"
+  },
+  {
+    "id": 8,
+    "question": "ஈரவைச் சட்டமன்றம் இல்லாத மாநிலம் எது?",
+    "options": [
+      "கர்நாடகம்",
+      "பீகார்",
+      "தெலுங்கானா",
+      "கேரளா"
+    ],
+    "correct": 3,
+    "question_en": "Which state does not have Wet Legislature?",
+    "options_en": [
+      "Karnataka",
+      "Bihar",
+      "Telangana",
+      "Kerala"
+    ],
+    "explanation": "ஈரவைச் சட்டமன்றம் இல்லாத மாநிலம் கேரளா ஆகும்.",
+    "explanation_en": "Kerala"
+  },
+  {
+    "id": 9,
+    "question": "கூற்று: இந்தியா கூட்டாட்சி முறை அரசாங்கத்தைக் கொண்டது.\nகாரணம்: இந்திய அரசியலமைப்பின் அதிகாரம், மத்திய மற்றும் மாநில அரசுகளுக்கிடையே பகிர்ந்தளிக்கப்பட்டுள்ளது.",
+    "options": [
+      "கூற்று சரி, கூற்றிற்கான விளக்கமும் சரியானது.",
+      "கூற்று சரி, கூற்றிற்கான விளக்கம் சரியல்ல.",
+      "கூற்று சரி, விளக்கம் தவறு.",
+      "கூற்று மற்றும் விளக்கம் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Assertion: India has a federal system of government.\nReason: The Constitution of India devolves power between the Central and State Governments.",
+    "options_en": [
+      "The statement is correct and the explanation for the statement is also correct.",
+      "The statement is correct, the explanation for the statement is incorrect.",
+      "The statement is correct, the explanation is incorrect.",
+      "Statement and interpretation are false."
+    ],
+    "explanation": "கூற்று சரி, கூற்றிற்கான விளக்கமும் சரியானது.",
+    "explanation_en": "The statement is correct and the explanation for the statement is also correct."
+  },
+  {
+    "id": 10,
+    "question": "ஈரவை என்பதற்குச் சரியான விளக்கத்தைத் தேர்ந்தெடு.",
+    "options": [
+      "இரு முதலமைச்சர்களைக் கொண்ட சட்டமன்றம்.",
+      "ஆண் மற்றும் பெண் உறுப்பினர்களைக் கொண்ட சட்டமன்றம்.",
+      "மேலவை மற்றும் கீழவையைக் கொண்ட சட்டமன்றம்.",
+      "கவர்னரைத் தலைவராகவும், சட்டமன்ற உறுப்பினர்களையும் கொண்ட அவை."
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct description of wet.",
+    "options_en": [
+      "Legislative Assembly with two Chief Ministers.",
+      "An assembly with both male and female members.",
+      "Legislature consisting of an upper and a lower house.",
+      "They consist of the Governor as Chairman and members of the Legislative Assembly."
+    ],
+    "explanation": "மேலவை மற்றும் கீழவையைக் கொண்ட சட்டமன்றம்.",
+    "explanation_en": "Legislature consisting of an upper and a lower house."
+  },
+  {
+    "id": 11,
+    "question": "மாநிலச் சட்டப்பேரவையின் உறுப்பினராவதற்குக் குறைந்தபட்ச வயது ________.",
+    "options": [
+      "18",
+      "21",
+      "25",
+      "30"
+    ],
+    "correct": 2,
+    "question_en": "The minimum age for becoming a member of the State Legislature is ________.",
+    "options_en": [
+      "18",
+      "21",
+      "25",
+      "30"
+    ],
+    "explanation": "மாநிலச் சட்டப்பேரவையின் உறுப்பினராவதற்குக் குறைந்தபட்ச வயது 25.",
+    "explanation_en": "The minimum age for becoming a member of the State Legislature is 25."
+  },
+  {
+    "id": 12,
+    "question": "மாநில அரசு என்பது ________.",
+    "options": [
+      "மாநில அரசின் துறைகள்",
+      "சட்டமன்றம்",
+      "(1) மற்றும் (2)",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "A state government is a ________.",
+    "options_en": [
+      "Departments of State Govt",
+      "Legislature",
+      "(1) and (2)",
+      "None of these"
+    ],
+    "explanation": "மாநில அரசு என்பது (1) மற்றும் (2).",
+    "explanation_en": "A state government is a (1) and (2)."
+  },
+  {
+    "id": 13,
+    "question": "மாநில அரசு நிர்வாகத்தின் ஒட்டுமொத்தத் தலைவர் ________.",
+    "options": [
+      "குடியரசுத் தலைவர்",
+      "பிரதமர்",
+      "முதலமைச்சர்",
+      "ஆளுநர்"
+    ],
+    "correct": 3,
+    "question_en": "The overall head of state government administration is ________.",
+    "options_en": [
+      "President of the Republic",
+      "Prime Minister",
+      "Chief Minister",
+      "Governor"
+    ],
+    "explanation": "மாநில அரசு நிர்வாகத்தின் ஒட்டுமொத்தத் தலைவர் ஆளுநர்.",
+    "explanation_en": "The overall head of state government administration is Governor."
+  },
+  {
+    "id": 14,
+    "question": "முதலமைச்சர் மற்றும் ஏனைய அமைச்சர்களை நியமிப்பவர் ________.",
+    "options": [
+      "கவர்னர்",
+      "பிரதமர்",
+      "குடியரசுத் தலைவர்",
+      "தேர்தல் ஆணையர்"
+    ],
+    "correct": 0,
+    "question_en": "The Chief Minister and other Ministers are appointed by ________.",
+    "options_en": [
+      "Governor",
+      "Prime Minister",
+      "President of the Republic",
+      "Election Commissioner"
+    ],
+    "explanation": "முதலமைச்சர் மற்றும் ஏனைய அமைச்சர்களை நியமிப்பவர் கவர்னர்.",
+    "explanation_en": "The Chief Minister and other Ministers are appointed by Governor."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்க்காணும் வாக்கியங்களில் தவறானதைத் தேர்ந்தெடு.",
+    "options": [
+      "சட்டமன்ற உறுப்பினர்கள் மக்களுடைய பிரதிநிதிகள் அல்லர்.",
+      "ஆளுங்கட்சி சட்டமன்ற உறுப்பினர்களைச் சாராத அனைத்து அரசியல் கட்சியைச் சார்ந்த சட்டமன்ற உறுப்பினர்கள் எதிர்க்கட்சி உறுப்பினர்கள் என்று அழைக்கப்படுவர்.",
+      "அரசு செயல்படுவதற்குச் சட்டமன்ற உறுப்பினர்கள் பொறுப்புடையவர்கள் ஆவார்கள்.",
+      "ச.ம.உ என்பதன் விரிவாக்கம் சட்டமன்ற உறுப்பினர் (MLA) ஆகும்."
+    ],
+    "correct": 0,
+    "question_en": "Choose the incorrect one from the following sentences.",
+    "options_en": [
+      "Legislators are not representatives of the people.",
+      "All legislators belonging to a political party other than the ruling party legislators are called Opposition Members.",
+      "The legislators are responsible for the functioning of the government.",
+      "The extension of SMU is Member of Legislative Assembly (MLA)."
+    ],
+    "explanation": "சட்டமன்ற உறுப்பினர்கள் மக்களுடைய பிரதிநிதிகள் அல்லர்.",
+    "explanation_en": "Legislators are not representatives of the people."
+  },
+  {
+    "id": 16,
+    "question": "உயர் நீதிமன்றத் தலைமை நீதிபதி ஓய்வு பெறும் வயது ________.",
+    "options": [
+      "58",
+      "64",
+      "62",
+      "60"
+    ],
+    "correct": 2,
+    "question_en": "The retirement age of the Chief Justice of the High Court is ________.",
+    "options_en": [
+      "58",
+      "64",
+      "62",
+      "60"
+    ],
+    "explanation": "உயர் நீதிமன்றத் தலைமை நீதிபதி ஓய்வு பெறும் வயது 62.",
+    "explanation_en": "The retirement age of the Chief Justice of the High Court is 62."
+  },
+  {
+    "id": 17,
+    "question": "ஆளுநரின் பதவிக்காலம் ________.",
+    "options": [
+      "1 ஆண்டு",
+      "5 ஆண்டுகள்",
+      "6 ஆண்டுகள்",
+      "3 ஆண்டுகள்"
+    ],
+    "correct": 1,
+    "question_en": "The tenure of the Governor is ________.",
+    "options_en": [
+      "1 year",
+      "5 years",
+      "6 years",
+      "3 years"
+    ],
+    "explanation": "ஆளுநரின் பதவிக்காலம் 5 ஆண்டுகள்.",
+    "explanation_en": "The tenure of the Governor is 5 years."
+  },
+  {
+    "id": 18,
+    "question": "மாநில அரசுப் பல்கலைக்கழகங்களின் வேந்தராகத் திகழ்பவர் ________.",
+    "options": [
+      "முதல்வர்",
+      "கல்வியாளர்",
+      "நீதிபதி",
+      "ஆளுநர்"
+    ],
+    "correct": 3,
+    "question_en": "The Chancellor of State Government Universities is ________.",
+    "options_en": [
+      "Chief Minister",
+      "Educator",
+      "Judge",
+      "Governor"
+    ],
+    "explanation": "மாநில அரசுப் பல்கலைக்கழகங்களின் வேந்தராகத் திகழ்பவர் ஆளுநர்.",
+    "explanation_en": "The Chancellor of State Government Universities is Governor."
+  },
+  {
+    "id": 19,
+    "question": "தேர்தல்களை நடத்துவதும் அவற்றைக்காண்காணிக்கும் பணியைச் செய்வதுமான அமைப்பு?",
+    "options": [
+      "செயலாட்சிக் குழு",
+      "தேர்தல் ஆணையம்",
+      "சட்டமன்றம்",
+      "நீதித்துறை"
+    ],
+    "correct": 1,
+    "question_en": "The body responsible for conducting and monitoring elections?",
+    "options_en": [
+      "Executive Committee",
+      "Election Commission",
+      "Legislature",
+      "Department of Justice"
+    ],
+    "explanation": "தேர்தல் ஆணையம்",
+    "explanation_en": "Election Commission"
+  },
+  {
+    "id": 20,
+    "question": "ஆங்கிலேயர்களால் இந்தியாவில் கட்டப்பட்ட முதல் கோட்டை ________.",
+    "options": [
+      "வில்லியம் கோட்டை",
+      "மும்பை கோட்டை",
+      "லூயிஸ் கோட்டை",
+      "புனித ஜார்ஜ் கோட்டை"
+    ],
+    "correct": 3,
+    "question_en": "The first fort built by the British in India was ________.",
+    "options_en": [
+      "Fort William",
+      "Mumbai Fort",
+      "Castle Lewis",
+      "Fort St. George"
+    ],
+    "explanation": "ஆங்கிலேயர்களால் இந்தியாவில் கட்டப்பட்ட முதல் கோட்டை புனித ஜார்ஜ் கோட்டை.",
+    "explanation_en": "The first fort built by the British in India was Fort St. George."
+  },
+  {
+    "id": 21,
+    "question": "இந்தியாவில் எத்தனை மாநிலங்களில் சட்டமன்ற மேலவை உள்ளது?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 1,
+    "question_en": "How many states in India have legislative assemblies?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "6",
+    "explanation_en": "6 states in India have legislative assemblies."
+  },
+  {
+    "id": 22,
+    "question": "சட்டமன்ற மேலவை உறுப்பினர்களின் பதவிக்காலம் ________.",
+    "options": [
+      "3 ஆண்டுகள்",
+      "5 ஆண்டுகள்",
+      "6 ஆண்டுகள்",
+      "7 ஆண்டுகள்"
+    ],
+    "correct": 2,
+    "question_en": "The tenure of members of the Legislative Council is ________.",
+    "options_en": [
+      "3 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "explanation": "சட்டமன்ற மேலவை உறுப்பினர்களின் பதவிக்காலம் 6 ஆண்டுகள்.",
+    "explanation_en": "The tenure of members of the Legislative Council is 6 years."
+  },
+  {
+    "id": 23,
+    "question": "மாறுபட்ட ஒன்றைக் கண்டுபிடி.",
+    "options": [
+      "மகாராஷ்டிரா",
+      "தெலுங்கானா",
+      "தமிழ்நாடு",
+      "பீகார்"
+    ],
+    "correct": 2,
+    "question_en": "Find something different.",
+    "options_en": [
+      "Maharashtra",
+      "Telangana",
+      "Tamil Nadu",
+      "Bihar"
+    ],
+    "explanation": "தமிழ்நாடு",
+    "explanation_en": "Tamil Nadu"
+  },
+  {
+    "id": 24,
+    "question": "மாநிலத்தின் கீழவை எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "பிரபுக்கள் அவை",
+      "சட்டமன்றப் பேரவை",
+      "சட்டமன்ற மேலவை",
+      "பொது அவை"
+    ],
+    "correct": 1,
+    "question_en": "What is the sub state called?",
+    "options_en": [
+      "They are nobles",
+      "Legislative Assembly",
+      "Legislative Council",
+      "They are public"
+    ],
+    "explanation": "சட்டமன்றப் பேரவை",
+    "explanation_en": "Legislative Assembly is the sub state called."
+  },
+  {
+    "id": 25,
+    "question": "யாருடைய ஒப்புதலுடன் மாநில அரசின் வரவு செலவுத் திட்டம் சட்டப்பேரவையில் அறிமுகப்படுத்தப்படும்?",
+    "options": [
+      "முதலமைச்சர்",
+      "பிரதமர்",
+      "ஆளுநர்",
+      "நிதி அமைச்சர்"
+    ],
+    "correct": 2,
+    "question_en": "With whose approval the State Government Budget is introduced in the Legislative Assembly?",
+    "options_en": [
+      "Chief Minister",
+      "Prime Minister",
+      "Governor",
+      "Finance Minister"
+    ],
+    "explanation": "ஆளுநர்",
+    "explanation_en": "Governor"
+  },
+  {
+    "id": 26,
+    "question": "முதலமைச்சர் என்பவர் ________.",
+    "options": [
+      "பெரும்பான்மைக் கட்சியின் தலைவர்",
+      "எதிர்க்கட்சித் தலைவர்",
+      "(1) மற்றும் (2)",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "The Chief Minister is ________.",
+    "options_en": [
+      "Leader of the majority party",
+      "Leader of Opposition",
+      "(1) and (2)",
+      "None of these"
+    ],
+    "explanation": "முதலமைச்சர் என்பவர் பெரும்பான்மைக் கட்சியின் தலைவர்.",
+    "explanation_en": "The Chief Minister is Leader of the majority party."
+  },
+  {
+    "id": 27,
+    "question": "மாநில அரசின் மூன்று முக்கிய நிர்வாகப் பிரிவுகள் ________.",
+    "options": [
+      "மேயர், ஆளுநர், சட்டமன்ற உறுப்பினர்",
+      "ஊராட்சி, நகராட்சி, மாநகராட்சி",
+      "கிராமம், நகரம், மாநிலம்",
+      "சட்டமன்றம், நிர்வாகத்துறை, நீதித்துறை"
+    ],
+    "correct": 3,
+    "question_en": "The three main administrative divisions of the state government are ________.",
+    "options_en": [
+      "Mayor, Governor, Member of Legislative Assembly",
+      "Panchayat, Municipality, Corporation",
+      "Village, City, State",
+      "Legislature, Executive, Judiciary"
+    ],
+    "explanation": "மாநில அரசின் மூன்று முக்கிய நிர்வாகப் பிரிவுகள் சட்டமன்றம், நிர்வாகத்துறை, நீதித்துறை.",
+    "explanation_en": "The three main administrative divisions of the state government are Legislature, Executive, Judiciary."
+  },
+  {
+    "id": 28,
+    "question": "மாநில அரசின் உச்சபட்ச நீதி அமைப்பு ________.",
+    "options": [
+      "உச்ச நீதிமன்றம்",
+      "உயர் நீதிமன்றம்",
+      "சட்டமன்றம்",
+      "மாவட்ட நீதிமன்றம்"
+    ],
+    "correct": 1,
+    "question_en": "The supreme judicial body of the state government is ________.",
+    "options_en": [
+      "Supreme Court",
+      "High Court",
+      "Legislature",
+      "District Court"
+    ],
+    "explanation": "மாநில அரசின் உச்சபட்ச நீதி அமைப்பு உயர் நீதிமன்றம்.",
+    "explanation_en": "The supreme judicial body of the state government is High Court."
+  },
+  {
+    "id": 29,
+    "question": "ச. ம. உ என்பதன் விரிவாக்கம் ________.",
+    "options": [
+      "சட்டமன்ற உறுப்பினர்",
+      "சட்டமன்ற உரிமை",
+      "சமத்துவ மக்கள் உறுப்பினர்",
+      "சட்டமன்ற உள்ளாட்சி"
+    ],
+    "correct": 0,
+    "question_en": "Ch. M. The expansion of U is ________.",
+    "options_en": [
+      "Member of Legislative Assembly",
+      "Legislature",
+      "Member of Equality People",
+      "Legislative Local Government"
+    ],
+    "explanation": "ச. ம. உ என்பதன் விரிவாக்கம் சட்டமன்ற உறுப்பினர்.",
+    "explanation_en": "Ch. M. The expansion of U is Member of Legislative Assembly."
+  },
+  {
+    "id": 30,
+    "question": "ஒரு குறிப்பிட்ட பகுதியைச் சேர்ந்த வாக்காளர்களால் தேர்ந்தெடுக்கப்படுபவர் ________ ஆவார்.",
+    "options": [
+      "முதலமைச்சர்",
+      "பிரதமர்",
+      "சட்டமன்ற உறுப்பினர்",
+      "ஆளுநர்"
+    ],
+    "correct": 2,
+    "question_en": "A person elected by the electorate of a particular region is ________.",
+    "options_en": [
+      "Chief Minister",
+      "Prime Minister",
+      "Member of Legislative Assembly",
+      "Governor"
+    ],
+    "explanation": "ஒரு குறிப்பிட்ட பகுதியைச் சேர்ந்த வாக்காளர்களால் தேர்ந்தெடுக்கப்படுபவர் சட்டமன்ற உறுப்பினர் ஆவார்.",
+    "explanation_en": "A person elected by the electorate of a particular region is Member of Legislative Assembly."
+  },
+  {
+    "id": 31,
+    "question": "சட்டமன்றத்திற்குத் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர் ஆளும் கட்சியைச் சாராதவராக இருப்பின் ________ என்று அழைக்கப்படுவார்.",
+    "options": [
+      "எதிர்க்கட்சித் தலைவர்",
+      "எதிர்க்கட்சி உறுப்பினர்",
+      "நிர்வாகி",
+      "மேயர்"
+    ],
+    "correct": 1,
+    "question_en": "A member elected to the legislature who is independent of the ruling party is called a ________.",
+    "options_en": [
+      "Leader of Opposition",
+      "Member of the Opposition",
+      "Administrator",
+      "Mayor"
+    ],
+    "explanation": "சட்டமன்றத்திற்குத் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர் ஆளும் கட்சியைச் சாராதவராக இருப்பின் எதிர்க்கட்சி உறுப்பினர் என்று அழைக்கப்படுவார்.",
+    "explanation_en": "A member elected to the legislature who is independent of the ruling party is called a Member of the Opposition."
+  },
+  {
+    "id": 32,
+    "question": "ஒரு மாநிலத்தின் ஆளுநர் யாரால் நியமிக்கப்படுகிறார்?",
+    "options": [
+      "குடியரசுத் தலைவர்",
+      "துணைக் குடியரசுத் தலைவர்",
+      "பிரதம மந்திரி",
+      "முதலமைச்சர்"
+    ],
+    "correct": 0,
+    "question_en": "Who appoints the Governor of a state?",
+    "options_en": [
+      "President of the Republic",
+      "Vice President",
+      "Prime Minister",
+      "Chief Minister"
+    ],
+    "explanation": "குடியரசுத் தலைவர்",
+    "explanation_en": "President of the Republic"
+  },
+  {
+    "id": 33,
+    "question": "கீழ்க்காணும் வாக்கியங்களில் தவறானது எது?",
+    "options": [
+      "ஆளுநராக இந்தியக் குடிமகனாக இருத்தல் வேண்டும்.",
+      "25 வயது நிரம்பியவராக இருத்தல் வேண்டும்.",
+      "நல்ல மனநலமுடையவராக இருத்தல் வேண்டும்.",
+      "இலாபம் தரும் எந்தப் பதவியிலும் இருத்தல் கூடாது."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following sentences is incorrect?",
+    "options_en": [
+      "Governor should be a citizen of India.",
+      "Must be 25 years of age.",
+      "Must be of good mental health.",
+      "Should not hold any position of profit."
+    ],
+    "explanation": "கீழ்க்காணும் வாக்கியங்களில் தவறானது 25 வயது நிரம்பியவராக இருத்தல் வேண்டும். ஆகும்.",
+    "explanation_en": "Must be 25 years of age."
+  },
+  {
+    "id": 34,
+    "question": "மாநில அமைச்சரவைக் குழுவின் தலைவர் ________.",
+    "options": [
+      "ஆளுநர்",
+      "முதலமைச்சர்",
+      "சபாநாயகர்",
+      "உள்துறை அமைச்சர்"
+    ],
+    "correct": 1,
+    "question_en": "The Chairman of the State Cabinet Committee is ________.",
+    "options_en": [
+      "Governor",
+      "Chief Minister",
+      "Speaker",
+      "Home Minister"
+    ],
+    "explanation": "மாநில அமைச்சரவைக் குழுவின் தலைவர் முதலமைச்சர்.",
+    "explanation_en": "The Chairman of the State Cabinet Committee is Chief Minister."
+  },
+  {
+    "id": 35,
+    "question": "மாநிலச் சட்டமன்றக் கூட்டத்தைக் கூட்டவும், ஒத்திவைக்கவும் அதிகாரம் பெற்றவர் ________.",
+    "options": [
+      "உள்துறை அமைச்சர்",
+      "குடியரசுத் தலைவர்",
+      "சபாநாயகர்",
+      "ஆளுநர்"
+    ],
+    "correct": 3,
+    "question_en": "Power to convene and adjourn the State Legislative Assembly is ________.",
+    "options_en": [
+      "Home Minister",
+      "President of the Republic",
+      "Speaker",
+      "Governor"
+    ],
+    "explanation": "மாநிலச் சட்டமன்றக் கூட்டத்தைக் கூட்டவும், ஒத்திவைக்கவும் அதிகாரம் பெற்றவர் ஆளுநர்.",
+    "explanation_en": "Power to convene and adjourn the State Legislative Assembly is Governor."
+  },
+  {
+    "id": 36,
+    "question": "மாவட்ட நீதிபதிகள் ________ ஆல் நியமிக்கப்படுகிறார்.",
+    "options": [
+      "உச்ச நீதிமன்றத் தலைமை நீதிபதி",
+      "மாவட்ட ஆட்சித் தலைவர்",
+      "முதலமைச்சர்",
+      "ஆளுநர்"
+    ],
+    "correct": 3,
+    "question_en": "District Judges are appointed by ________.",
+    "options_en": [
+      "Chief Justice of the Supreme Court",
+      "District Head",
+      "Chief Minister",
+      "Governor"
+    ],
+    "explanation": "மாவட்ட நீதிபதிகள் ஆளுநர் ஆல் நியமிக்கப்படுகிறார்.",
+    "explanation_en": "District Judges are appointed by Governor."
+  },
+  {
+    "id": 37,
+    "question": "ஆளுநர் ஒரு மாநிலத்தின் ________ ஆவார்.",
+    "options": [
+      "செயலாளர்",
+      "தலைவர்",
+      "நீதிபதி",
+      "அங்கம்"
+    ],
+    "correct": 1,
+    "question_en": "Governor is the ________ of a state.",
+    "options_en": [
+      "Secretary",
+      "Chairman",
+      "Judge",
+      "organ"
+    ],
+    "explanation": "ஆளுநர் ஒரு மாநிலத்தின் தலைவர் ஆவார்.",
+    "explanation_en": "Governor is the Chairman of a state."
+  },
+  {
+    "id": 38,
+    "question": "கீழ்க்கண்டவற்றைப் பொருத்துக.\na. ஆளுநர் – i. கீழவை\nb. முதலமைச்சர் – ii. பெயரளவுத் தலைவர்\nc. சட்டமன்றப் பேரவை – iii. மேலவை\nd. சட்டமன்ற மேலவை – iv. உண்மையான தலைவர்",
+    "options": [
+      "a - ii, b – iv, c – i, d – iii",
+      "a – iii, b – i, c – ii, d - iv",
+      "a – iii, b – ii, c – i, d – iv",
+      "a – iv, b – iii, c – i, d - ii"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\na. Governor – i. the following\nb. Chief Minister – ii. Nominal leader\nc. Legislative Assembly – iii. Above\nd. Legislative Council – iv. A true leader",
+    "options_en": [
+      "a - ii, b - iv, c - i, d - iii",
+      "a – iii, b – i, c – ii, d – iv",
+      "a – iii, b – ii, c – i, d – iv",
+      "a – iv, b – iii, c – i, d – ii"
+    ],
+    "explanation": "a - ii, b – iv, c – i, d – iii",
+    "explanation_en": "a - ii, b - iv, c - i, d - iii"
+  },
+  {
+    "id": 39,
+    "question": "பின்வருவனவற்றில் ஈரவைச் சட்டமன்றம் கொண்ட மாநிலம் எது?",
+    "options": [
+      "தமிழ்நாடு",
+      "கேரளா",
+      "கர்நாடகம்",
+      "ஒரிசா"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following states has a Wetland Assembly?",
+    "options_en": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Orissa"
+    ],
+    "explanation": "பின்வருவனவற்றில் ஈரவைச் சட்டமன்றம் கொண்ட மாநிலம் கர்நாடகம் ஆகும்.",
+    "explanation_en": "Karnataka"
+  },
+  {
+    "id": 40,
+    "question": "எந்தச் சட்டப்பிரிவு மாநிலத்தில் குடியரசுத் தலைவர் ஆட்சியை ஏற்படுத்துகிறது?",
+    "options": [
+      "சட்டம் 354",
+      "சட்டம் 256",
+      "சட்டம் 357",
+      "சட்டம் 356"
+    ],
+    "correct": 3,
+    "question_en": "Which article establishes President's rule in the state?",
+    "options_en": [
+      "Act 354",
+      "Act 256",
+      "சட்டம் 357",
+      "Act 356"
+    ],
+    "explanation": "சட்டம் 356",
+    "explanation_en": "Act 356"
+  },
+  {
+    "id": 41,
+    "question": "________ ஒப்புதலுக்குப் பின்னரே பண மசோதா சட்டமன்றத்தில் கொண்டு வர முடியும்.",
+    "options": [
+      "ஆளுநர்",
+      "குடியரசுத் தலைவர்",
+      "முதலமைச்சர்",
+      "நீதிபதி"
+    ],
+    "correct": 0,
+    "question_en": "A money bill can be introduced in the legislature only after ________ assent.",
+    "options_en": [
+      "Governor",
+      "President of the Republic",
+      "Chief Minister",
+      "Judge"
+    ],
+    "explanation": "ஆளுநர் ஒப்புதலுக்குப் பின்னரே பண மசோதா சட்டமன்றத்தில் கொண்டு வர முடியும்.",
+    "explanation_en": "A money bill can be introduced in the legislature only after Governor assent."
+  },
+  {
+    "id": 42,
+    "question": "கீழ்க்கண்டவற்றில் எது தவறான கூற்று?",
+    "options": [
+      "மாநில நிர்வாகத் துறையின் உண்மையான தலைவர் முதலமைச்சர்.",
+      "மாநில அமைச்சரவையின் தலைவர் முதலமைச்சர்.",
+      "முதலமைச்சரின் பதவிக்காலம் 6 ஆண்டுகள்.",
+      "உயர் நீதிமன்ற நீதிபதிகள் தவறான நடத்தை, திறமையின்மை காரணமாக நீக்கப்படலாம்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "The real head of the state administration is the Chief Minister.",
+      "The head of the state cabinet is the Chief Minister.",
+      "The tenure of the Chief Minister is 6 years.",
+      "High Court Judges can be removed for misconduct, incompetence."
+    ],
+    "explanation": "முதலமைச்சரின் பதவிக்காலம் 6 ஆண்டுகள்.",
+    "explanation_en": "The tenure of the Chief Minister is 6 years. is a false statement."
+  },
+  {
+    "id": 43,
+    "question": "சட்டமன்ற மேலவை உறுப்பினராவதற்குத் தகுதியுள்ள வயது?",
+    "options": [
+      "18",
+      "25",
+      "40",
+      "30"
+    ],
+    "correct": 3,
+    "question_en": "Eligible age for becoming a member of Legislative Council?",
+    "options_en": [
+      "18",
+      "25",
+      "40",
+      "30"
+    ],
+    "explanation": "30",
+    "explanation_en": "30"
+  },
+  {
+    "id": 44,
+    "question": "கீழ்க்கண்டவற்றில் எது தவறான கூற்று?",
+    "options": [
+      "ஒரு சட்டமன்றத் தொகுதி 1,00,000 அல்லது அதற்கு மேல் மக்கள் தொகையைப் பெற்றிருக்க வேண்டும்.",
+      "ஒருவர் ஒரு சட்டமன்றத் தொகுதியில் மட்டுமே போட்டியிட முடியும்.",
+      "உயர் நீதிமன்றம், சார்நிலை நீதிமன்றத்தில் நிலுவையில் உள்ள ஒரு வழக்கில் தலையிடலாம்.",
+      "உயர் நீதிமன்றம் ஆட்கொணர்வு நீதிப்பேராணையைப் பிறப்பிக்க முடியும்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "An assembly constituency must have a population of 1,00,000 or more.",
+      "A person can contest only one assembly seat.",
+      "The High Court may intervene in a case pending in the Subordinate Court.",
+      "The High Court can issue writs of recruitment."
+    ],
+    "explanation": "ஒருவர் ஒரு சட்டமன்றத் தொகுதியில் மட்டுமே போட்டியிட முடியும்.",
+    "explanation_en": "A person can contest only one assembly seat. is a false statement."
+  },
+  {
+    "id": 45,
+    "question": "பின்வருவனவற்றில் எது சரியாகப் பொருந்தவில்லை?",
+    "options": [
+      "உயர் நீதிமன்றம் - கட்டளையிடும் நீதிப்பேராணை",
+      "பெண் திருமண வயது - 18",
+      "தமிழ்நாடு சட்டமன்றம் - 236 உறுப்பினர்",
+      "சட்டமன்ற மேலவை - 30 வயது நிரம்பியவர்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not correct?",
+    "options_en": [
+      "High Court – Commanding Judiciary",
+      "Age of Marriage for Female – 18",
+      "Tamil Nadu Legislative Assembly - 236 members",
+      "Upper House of Assembly – 30 years of age"
+    ],
+    "explanation": "தமிழ்நாடு சட்டமன்றம் - 236 உறுப்பினர்",
+    "explanation_en": "Tamil Nadu Legislative Assembly - 236 members is not correct."
+  },
+  {
+    "id": 46,
+    "question": "கீழ்க்கண்டவற்றில் எது சரியான கூற்று?",
+    "options": [
+      "மாநிலத்தின் உயரிய நீதி அமைப்பு உச்சநீதிமன்றம்.",
+      "தலைமை நீதிபதி 60 வயது வரை பதவியில் இருக்கலாம்.",
+      "மாவட்ட நீதிபதிகளைக் குடியரசுத் தலைவர் நியமனம் செய்கிறார்.",
+      "உயர் நீதிமன்றம் மாநிலத்தில் உள்ள அனைத்துச் சார்நிலை நீதிமன்றங்களைக் கட்டுப்படுத்துகிறது."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is a correct statement?",
+    "options_en": [
+      "The highest judicial body of the state is the Supreme Court.",
+      "The Chief Justice can hold office till the age of 60 years.",
+      "District Judges are appointed by the President.",
+      "The High Court controls all subordinate courts in the state."
+    ],
+    "explanation": "உயர் நீதிமன்றம் மாநிலத்தில் உள்ள அனைத்துச் சார்நிலை நீதிமன்றங்களைக் கட்டுப்படுத்துகிறது.",
+    "explanation_en": "The High Court controls all subordinate courts in the state. is a correct statement."
+  },
+  {
+    "id": 47,
+    "question": "பொருத்துக.\n(1) ஈரவைச் சட்டமன்றம் – i. குடியரசுத் தலைவர்\n(2) பல்கலைக்கழக வேந்தர் – ii. தமிழ்நாடு\n(3) ஓரவைச் சட்டமன்றம் – iii. ஆளுநர்\n(4) முதல் குடிமகன் – iv. தெலுங்கானா",
+    "options": [
+      "(1)-ii, (2)-iii, (3)-i, (4)-iv",
+      "(1)-iii, (2)-iv, (3)-i, (4)-ii",
+      "(1)-iv, (2)-iii, (3)-ii, (4)-i",
+      "(1)-iv, (2)-ii, (3)-iii, (4)-i"
+    ],
+    "correct": 2,
+    "question_en": "match\n(1) Wetland Assembly – i. President of the Republic\n(2) Chancellor of the University – ii. Tamil Nadu\n(3) Oravai Legislature – iii. Governor\n(4) First Citizen – iv. Telangana",
+    "options_en": [
+      "(1)-ii, (2)-iii, (3)-i, (4)-iv",
+      "(1)-iii, (2)-iv, (3)-i, (4)-ii",
+      "(1)-iv, (2)-iii, (3)-ii, (4)-i",
+      "(1)-iv, (2)-ii, (3)-iii, (4)-i"
+    ],
+    "explanation": "(1)-iv, (2)-iii, (3)-ii, (4)-i",
+    "explanation_en": "(1)-iv, (2)-iii, (3)-ii, (4)-i"
+  },
+  {
+    "id": 48,
+    "question": "சரியான கூற்றுகளைத் தேர்ந்தெடுக்கவும்.\nஉயர் நீதிமன்றத்தின் நீதிபதி பின்வரும் தகுதிகளைக் கட்டாயம் கொண்டிருத்தல் வேண்டும்.\ni. இந்தியக் குடிமகனாக இருத்தல் வேண்டும்.\nii. இந்தியாவில் ஓராண்டுக் காலம் நீதித்துறை அலுவலராகப் பணியாற்றி இருக்க வேண்டும்.\niii. ஒன்று அல்லது அதற்கு மேற்பட்ட உயர் நீதிமன்றங்களில் வழக்கறிஞராகக் குறைந்தபட்சம் 10 ஆண்டுகள் அனுபவம் பெற்றிருத்தல் வேண்டும்.\niv. வயது வரம்பு 35 க்குள் இருத்தல் வேண்டும்.",
+    "options": [
+      "i & ii",
+      "ii & iii",
+      "iii & iv",
+      "i & iii"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct statements.\nA Judge of a High Court must possess the following qualifications:\ni. Must be a citizen of India.\nii. Should have worked as a Judicial Officer in India for one year.\niii. Minimum 10 years of experience as an Advocate in one or more High Courts.\niv. Age limit should be within 35.",
+    "options_en": [
+      "i & ii",
+      "ii & iii",
+      "iii & iv",
+      "i & iii"
+    ],
+    "explanation": "i & iii",
+    "explanation_en": "i & iii"
+  },
+  {
+    "id": 49,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடுக்கவும்.\nஆளுநரின் அதிகாரம் மற்றும் பணிகள்",
+    "options": [
+      "ஆளுநர், முதலமைச்சரையும் ஏனைய அமைச்சர்களையும் நியமிக்கிறார்.",
+      "மாநிலத்திலுள்ள பல்கலைக்கழகங்களின் வேந்தராக ஆளுநர் செயல்படுகிறார்.",
+      "சட்டமன்றத்திற்கு ஓர் ஆங்கிலோ இந்திய உறுப்பினரை நியமனம் செய்யும் அதிகாரத்தைப் பெற்றுள்ளார்.",
+      "மாநிலச் சட்ட மேலவைக்கு அறிவியல், இலக்கியம், கலை, சமூக சேவை கூட்டுறவு இயக்கம் ஆகிய துறைகளில் சிறப்பாகப் பங்காற்றிய அறிஞர்களில் 5/6 அளவிற்குப் பிரதிநிதித்துவ அடிப்படையில் நியமிக்கிறார்."
+    ],
+    "correct": 3,
+    "question_en": "Choose the incorrect statement.\nPowers and Duties of the Governor",
+    "options_en": [
+      "ஆளுநர், முதலமைச்சரையும் ஏனைய அமைச்சர்களையும் நியமிக்கிறார்.",
+      "The Governor acts as the chancellor of the universities in the state.",
+      "சட்டமன்றத்திற்கு ஓர் ஆங்கிலோ இந்திய உறுப்பினரை நியமனம் செய்யும் அதிகாரத்தைப் பெற்றுள்ளார்.",
+      "He appoints 5/6th of the scholars who have contributed well in the fields of science, literature, art and social service cooperative movement to the State Legislative Council on a representative basis."
+    ],
+    "explanation": "மாநிலச் சட்ட மேலவைக்கு அறிவியல், இலக்கியம், கலை, சமூக சேவை கூட்டுறவு இயக்கம் ஆகிய துறைகளில் சிறப்பாகப் பங்காற்றிய அறிஞர்களில் 5/6 அளவிற்குப் பிரதிநிதித்துவ அடிப்படையில் நியமிக்கிறார்.",
+    "explanation_en": "He appoints 5/6th of the scholars who have contributed well in the fields of science, literature, art and social service cooperative movement to the State Legislative Council on a representative basis."
+  },
+  {
+    "id": 50,
+    "question": "பொருத்துக.\na. நிர்வாகம் - i. சட்டங்களை நிலைநாட்டல்.\nb. சட்டமன்றம் - ii. சட்டங்களைச் செயல்படுத்துதல்.\nc. நீதித்துறை - iii. சட்டங்களை இயற்றுதல்",
+    "options": [
+      "a – ii, b – iii, c – i",
+      "a – iii, b – ii, c – i",
+      "a – ii, b – i, c – iii",
+      "a – i, b – iii, c – ii"
+    ],
+    "correct": 0,
+    "question_en": "match\na. நிர்வாகம் - i. Enactment of laws.\nb. சட்டமன்றம் - ii. Enforcement of laws.\nc. நீதித்துறை - iii. Enactment of laws",
+    "options_en": [
+      "a – ii, b – iii, c – i",
+      "a – iii, b – ii, c – i",
+      "a – ii, b – i, c – iii",
+      "a – i, b – iii, c – ii"
+    ],
+    "explanation": "a – ii, b – iii, c – i",
+    "explanation_en": "a – ii, b – iii, c – i"
+  },
+  {
+    "id": 51,
+    "question": "சட்டமன்றக் கீழவை உறுப்பினர்கள் யாரால் தேர்ந்தெடுக்கப்படுகின்றனர்?",
+    "options": [
+      "மேலவை உறுப்பினர்கள்",
+      "பாராளுமன்ற உறுப்பினர்கள்",
+      "நியமனம் செய்யப்படுபவர்",
+      "மக்கள்"
+    ],
+    "correct": 3,
+    "question_en": "By whom are the members of the Legislative Assembly elected?",
+    "options_en": [
+      "Council members",
+      "Members of Parliament",
+      "Appointee",
+      "People"
+    ],
+    "explanation": "மக்கள்",
+    "explanation_en": "People"
+  },
+  {
+    "id": 52,
+    "question": "இந்தியாவின் தலைநகரம் ________.",
+    "options": [
+      "சென்னை",
+      "மும்பை",
+      "புதுடெல்லி",
+      "கல்கத்தா"
+    ],
+    "correct": 2,
+    "question_en": "Capital of India is ________.",
+    "options_en": [
+      "Chennai",
+      "Mumbai",
+      "New Delhi",
+      "Calcutta"
+    ],
+    "explanation": "இந்தியாவின் தலைநகரம் புதுடெல்லி.",
+    "explanation_en": "Capital of India is New Delhi."
+  },
+  {
+    "id": 53,
+    "question": "தேர்தலில் வாக்களிக்கத் தேவையான குறைந்தபட்ச வயது ________.",
+    "options": [
+      "25",
+      "18",
+      "30",
+      "35"
+    ],
+    "correct": 1,
+    "question_en": "The minimum age required to vote in an election is ________.",
+    "options_en": [
+      "25",
+      "18",
+      "30",
+      "35"
+    ],
+    "explanation": "தேர்தலில் வாக்களிக்கத் தேவையான குறைந்தபட்ச வயது 18.",
+    "explanation_en": "The minimum age required to vote in an election is 18."
+  },
+  {
+    "id": 54,
+    "question": "முதலமைச்சராக எத்தனை வயது பூர்த்தி அடைந்திருக்க வேண்டும்?",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "30"
+    ],
+    "correct": 2,
+    "question_en": "How old should the chief minister be?",
+    "options_en": [
+      "21",
+      "23",
+      "25",
+      "30"
+    ],
+    "explanation": "25",
+    "explanation_en": "25"
+  },
+  {
+    "id": 55,
+    "question": "பல்கலைக்கழகத் துணை வேந்தர்களை நியமிப்பவர் ________.",
+    "options": [
+      "ஆளுநர்",
+      "முதலமைச்சர்",
+      "பதிவாளர்",
+      "உயர் நீதிமன்ற நீதிபதி"
+    ],
+    "correct": 0,
+    "question_en": "The Vice-Chancellors of the University are appointed by ________.",
+    "options_en": [
+      "Governor",
+      "Chief Minister",
+      "Registrar",
+      "High Court Judge"
+    ],
+    "explanation": "பல்கலைக்கழகத் துணை வேந்தர்களை நியமிப்பவர் ஆளுநர்.",
+    "explanation_en": "The Vice-Chancellors of the University are appointed by Governor."
+  },
+  {
+    "id": 56,
+    "question": "யூனியன் பிரதேசங்களின் தலைவர் யார்?",
+    "options": [
+      "குடியரசுத் தலைவர்",
+      "ஆளுநர்",
+      "பிரதமர்",
+      "தலைமை நீதிபதி"
+    ],
+    "correct": 0,
+    "question_en": "Who is the President of the Union Territories?",
+    "options_en": [
+      "President of the Republic",
+      "Governor",
+      "Prime Minister",
+      "Chief Justice"
+    ],
+    "explanation": "யூனியன் பிரதேசங்களின் தலைவர் குடியரசுத் தலைவர்.",
+    "explanation_en": "President of the Republic is the President of the Union Territories."
+  },
+  {
+    "id": 57,
+    "question": "பாராளுமன்ற உறுப்பினர்களை ________ என அழைக்கின்றனர்.",
+    "options": [
+      "M.L.A.",
+      "P.M.",
+      "C.M.",
+      "M.P."
+    ],
+    "correct": 3,
+    "question_en": "Members of Parliament are called ________.",
+    "options_en": [
+      "M.L.A.",
+      "P.M.",
+      "C.M.",
+      "M.P."
+    ],
+    "explanation": "பாராளுமன்ற உறுப்பினர்களை M.P. என அழைக்கின்றனர்.",
+    "explanation_en": "Members of Parliament are called M.P.."
+  },
+  {
+    "id": 58,
+    "question": "திருமணம் / விவாகரத்துத் தொடர்பான பிரச்சினைகளுக்குத் தீர்வு காணும் அமைப்பு ஏது?",
+    "options": [
+      "சட்டமன்றம்",
+      "உயர் நீதிமன்றம்",
+      "குடும்ப நல நீதிமன்றம்",
+      "உச்ச நீதிமன்றம்"
+    ],
+    "correct": 2,
+    "question_en": "Which body resolves the issues related to marriage/divorce?",
+    "options_en": [
+      "Legislature",
+      "High Court",
+      "Family Welfare Court",
+      "Supreme Court"
+    ],
+    "explanation": "குடும்ப நல நீதிமன்றம்",
+    "explanation_en": "Family Welfare Court"
+  },
+  {
+    "id": 59,
+    "question": "கீழ்க்காணும் கூற்றுகளில் சரியானது எது?",
+    "options": [
+      "இந்தியாவிலுள்ள அனைத்து மாநிலங்களிலும் யூனியன் பிரதேசங்களிலும் தனித்தனியாக அரசாங்க அமைப்பு இல்லை.",
+      "சட்டமன்ற உறுப்பினர்கள் ஆளுநரால் நியமிக்கப்படுகின்றனர்.",
+      "செங்கோட்டை சென்னையில் உள்ளது.",
+      "இந்திய அரசியலமைப்பில் மத்திய அரசும், மாநில அரசுகளும் இணைந்தே செயல்படுகின்றன."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following statements is correct?",
+    "options_en": [
+      "All the states and union territories in India do not have a separate body of government.",
+      "Members of the Legislative Assembly are appointed by the Governor.",
+      "Red Fort is in Chennai.",
+      "In the Constitution of India, the Central Government and the State Governments work together."
+    ],
+    "explanation": "இந்திய அரசியலமைப்பில் மத்திய அரசும், மாநில அரசுகளும் இணைந்தே செயல்படுகின்றன.",
+    "explanation_en": "In the Constitution of India, the Central Government and the State Governments work together."
+  },
+  {
+    "id": 60,
+    "question": "மாநில அரசின் எதிர்பாரா செலவின நிதி யாருடைய கட்டுப்பாட்டில் இருக்கும்?",
+    "options": [
+      "ஆளுநர்",
+      "முதலமைச்சர்",
+      "குடியரசுத் தலைவர்",
+      "பிரதமர்"
+    ],
+    "correct": 0,
+    "question_en": "Who will control the Contingency Fund of the State Government?",
+    "options_en": [
+      "Governor",
+      "Chief Minister",
+      "President of the Republic",
+      "Prime Minister"
+    ],
+    "explanation": "ஆளுநர்",
+    "explanation_en": "Governor"
+  },
+  {
+    "id": 61,
+    "question": "ஆளுநர்: ____________ :: சட்டமன்ற உறுப்பினர் : நாடாளுமன்ற உறுப்பினர்",
+    "options": [
+      "சட்ட மேலவை உறுப்பினர்",
+      "ஜனாதிபதி",
+      "முதலமைச்சர்",
+      "உயர் நீதிமன்ற நீதிபதி"
+    ],
+    "correct": 1,
+    "question_en": "Governor: ____________ :: Member of Legislative Assembly : Member of Parliament",
+    "options_en": [
+      "Member of Legislative Council",
+      "President",
+      "Chief Minister",
+      "High Court Judge"
+    ],
+    "explanation": "ஆளுநர்: ஜனாதிபதி :: சட்டமன்ற உறுப்பினர் : நாடாளுமன்ற உறுப்பினர்",
+    "explanation_en": "Governor: President :: Member of Legislative Assembly : Member of Parliament"
+  },
+  {
+    "id": 62,
+    "question": "ஒரு மாநிலச் சட்டமன்றத்தின் நிலையான அவை",
+    "options": [
+      "மக்களவை",
+      "சட்டமன்றப் பேரவை",
+      "சட்டமன்ற மேலவை",
+      "மாநிலங்களவை"
+    ],
+    "correct": 2,
+    "question_en": "Standing Houses of a State Legislature",
+    "options_en": [
+      "Lok Sabha",
+      "Legislative Assembly",
+      "Legislative Council",
+      "Rajya Sabha"
+    ],
+    "explanation": "சட்டமன்ற மேலவை",
+    "explanation_en": "Legislative Council"
+  },
+  {
+    "id": 63,
+    "question": "சட்டமன்றக் கூட்டத்திற்குத் தலைமை ஏற்பவர் யார்?",
+    "options": [
+      "ஆளுநர்",
+      "முதலமைச்சர்",
+      "சபாநாயகர்",
+      "சட்டத்துறை அமைச்சர்"
+    ],
+    "correct": 2,
+    "question_en": "Who presides over the Legislative Assembly?",
+    "options_en": [
+      "Governor",
+      "Chief Minister",
+      "Speaker",
+      "Law Minister"
+    ],
+    "explanation": "சட்டமன்றக் கூட்டத்திற்குத் தலைமை ஏற்பவர் சபாநாயகர்.",
+    "explanation_en": "Speaker"
+  },
+  {
+    "id": 64,
+    "question": "முதலமைச்சர் சட்டமன்ற உறுப்பினராக இல்லாவிட்டால் எத்தனை மாதத்திற்குள் சட்டமன்ற உறுப்பினராகத் தேர்ந்தெடுக்கப்பட வேண்டும்?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "10"
+    ],
+    "correct": 2,
+    "question_en": "If the chief minister is not a member of the legislature, within how many months should he be elected as a member of the legislature?",
+    "options_en": [
+      "3",
+      "5",
+      "6",
+      "10"
+    ],
+    "explanation": "6",
+    "explanation_en": "If the chief minister is not a member of the legislature, within 6 months should he be elected as a member of the legislature."
+  },
+  {
+    "id": 65,
+    "question": "கீழ்க்கண்ட குழுவில் பொருந்தாதது எது?",
+    "options": [
+      "லோக்சபா",
+      "மாநிலங்களவை",
+      "ராஜ்யசபா",
+      "நாடாளுமன்ற மேலவை"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following group does not fit?",
+    "options_en": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "Rajya Sabha",
+      "Upper House of Parliament"
+    ],
+    "explanation": "கீழ்க்கண்ட குழுவில் பொருந்தாதது லோக்சபா ஆகும்.",
+    "explanation_en": "Lok Sabha"
+  },
+  {
+    "id": 66,
+    "question": "கீழ்க்கண்ட நிகழ்வுகளை வரிசைப்படுத்துக.\ni. மசோதாவில் திருத்தங்கள் மேற்கொள்ளப்படுகின்றன.\nii. மசோதா மீது விவாதங்கள் நடைபெறுகின்றன.\niii. மசோதா நிறைவேறுகிறது.\niv. ஆளுநர் கையொப்பத்துடன் சட்டமாகிறது.\nv. சட்டப்பேரவையில் மசோதா அறிமுகப்படுத்தப்படுகிறது.",
+    "options": [
+      "v, i, ii, iii, iv",
+      "v, ii, i, iii, iv",
+      "v, i, ii, iv, iii",
+      "ii, v, i, ii, iii"
+    ],
+    "correct": 1,
+    "question_en": "Arrange the following events.\ni. Amendments are being made to the bill.\nii. Debates on the Bill are underway.\niii. The bill passes.\niv. Becomes law with Governor's signature.\nv. A bill is introduced in the assembly.",
+    "options_en": [
+      "v, i, ii, iii, iv",
+      "v, ii, i, iii, iv",
+      "v, i, ii, iv, iii",
+      "ii, v, i, ii, iii"
+    ],
+    "explanation": "v, ii, i, iii, iv",
+    "explanation_en": "v, ii, i, iii, iv"
+  },
+  {
+    "id": 67,
+    "question": "உயர் நீதிமன்றமானது கீழ்க்கண்ட எதைக் கண்காணிக்க முடியாது?",
+    "options": [
+      "இராணுவ நீதிமன்றம்",
+      "சார்நிலை நீதிமன்றம்",
+      "மாவட்ட நீதிமன்றம்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following cannot be monitored by the High Court?",
+    "options_en": [
+      "Military court",
+      "Subsidiary Court",
+      "District Court",
+      "None of these"
+    ],
+    "explanation": "உயர் நீதிமன்றமானது கீழ்க்கண்ட எதைக் கண்காணிக்க முடிஇராணுவ நீதிமன்றம் ஆகும்.",
+    "explanation_en": "Military court"
+  },
+  {
+    "id": 68,
+    "question": "ஆவணங்களைத் தாக்கல் செய்ய வலியுறுத்தும் நீதிப்பேராணை, தகுதிமுறை வினவும் நீதிப்பேராணை ஆகியவற்றைப் பிறப்பிக்கத் தகுதியான அமைப்பு",
+    "options": [
+      "சட்டமன்றம்",
+      "நாடாளுமன்றம்",
+      "உயர் நீதிமன்றம்",
+      "உச்ச நீதிமன்றம்"
+    ],
+    "correct": 2,
+    "question_en": "Competent body to issue subpoenas, subpoenas and subpoenas",
+    "options_en": [
+      "Legislature",
+      "Parliament",
+      "High Court",
+      "Supreme Court"
+    ],
+    "explanation": "உயர் நீதிமன்றம்",
+    "explanation_en": "High Court"
+  },
+  {
+    "id": 69,
+    "question": "அமைச்சரவையின் செயல்பாடுகளில் திருப்தி ஏற்படாவிட்டால்",
+    "options": [
+      "காவல்நிலையத்தில் புகார் செய்யலாம்.",
+      "தீர்ப்பாயங்களில் முறையிடலாம்.",
+      "தேர்தல் ஆணையத்தில் நிரூபித்துப் பதவி நீக்கம் செய்யலாம்.",
+      "சட்டமன்றத்தில் நம்பிக்கை இல்லாத் தீர்மானத்தை இயற்றி நீக்கம் செய்யலாம்."
+    ],
+    "correct": 3,
+    "question_en": "If not satisfied with the functioning of the cabinet",
+    "options_en": [
+      "You can file a complaint at the police station.",
+      "Appeals can be made to tribunals.",
+      "Dismissal can be proved in Election Commission.",
+      "A motion of no-confidence can be passed in the Assembly and removed."
+    ],
+    "explanation": "சட்டமன்றத்தில் நம்பிக்கை இல்லாத் தீர்மானத்தை இயற்றி நீக்கம் செய்யலாம்.",
+    "explanation_en": "A motion of no-confidence can be passed in the Assembly and removed."
+  },
+  {
+    "id": 70,
+    "question": "சட்டமேலவையின் உறுப்பினர்களில் _______ பங்கு உறுப்பினர்கள் _______ ஆண்டுகளுக்கு ஒருமுறை ஓய்வு பெறுவர்.",
+    "options": [
+      "1/2, 3",
+      "1/3, 2",
+      "1/3, 6",
+      "1/6, 6"
+    ],
+    "correct": 1,
+    "question_en": "_______ share of the members of the Legislative Council shall retire once in _______ years.",
+    "options_en": [
+      "1/2, 3",
+      "1/3, 2",
+      "1/3, 6",
+      "1/6, 6"
+    ],
+    "explanation": "சட்டமேலவையின் உறுப்பினர்களில் 1/3, 2 பங்கு உறுப்பினர்கள் 1/3, 2 ஆண்டுகளுக்கு ஒருமுறை ஓய்வு பெறுவர்.",
+    "explanation_en": "1/3, 2 share of the members of the Legislative Council shall retire once in 1/3, 2 years."
+  },
+  {
+    "id": 71,
+    "question": "இவற்றில் ஆளுநரால் நியமிக்கப்படாத பணியிடம் எது?",
+    "options": [
+      "அரசுத் தலைமை வழக்கறிஞர்",
+      "அரசுப் பணியாளர் தேர்வாணையத் தலைவர்",
+      "மாநிலத் தலைமைத் தேர்தல் ஆணையர்",
+      "வட்டாட்சியர்"
+    ],
+    "correct": 3,
+    "question_en": "Which of these posts is not appointed by the Governor?",
+    "options_en": [
+      "Chief Public Prosecutor",
+      "Chairman, Government Staff Selection Commission",
+      "State Chief Election Commissioner",
+      "District Governor"
+    ],
+    "explanation": "இவற்றில் ஆளுநரால் நியமிக்கப்படாத பணியிடம் வட்டாட்சியர் ஆகும்.",
+    "explanation_en": "District Governor"
+  },
+  {
+    "id": 72,
+    "question": "கூற்று 1: ஆளுநருக்கு அவசரநிலைச் சட்டத்தைப் பிறப்பிக்கும் அதிகாரம் உண்டு.\nகூற்று 2: மாநில அரசின் எதிர்பாரா செலவின நிதி முதலமைச்சரின் கட்டுப்பாட்டில் இருக்கும்.",
+    "options": [
+      "கூற்று 1 மட்டும் சரி",
+      "கூற்று 2 மட்டும் சரி",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion 1: The Governor has the power to enact emergency laws.\nAssertion 2: The Contingency Fund of the State Government is under the control of the Chief Minister.",
+    "options_en": [
+      "Only statement 1 is correct",
+      "Only statement 2 is correct",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation": "கூற்று 1 மட்டும் சரி",
+    "explanation_en": "Only statement 1 is correct"
+  },
+  {
+    "id": 73,
+    "question": "இவற்றில் எது முதலமைச்சரின் கடமை அன்று?",
+    "options": [
+      "மாநில அரசின் கொள்கைகளை உருவாக்குதல்.",
+      "பல்வேறு துறைகளைக் கண்காணித்து ஆலோசனை வழங்குதல்.",
+      "மத்திய அரசு மற்றும் மாநில அரசிற்கிடையே உறவைப் பராமரித்தல்.",
+      "மாநில உயர் அதிகாரிகளை நியமிக்க ஆளுநருக்கு ஆலோசனை வழங்குதல்."
+    ],
+    "correct": 2,
+    "question_en": "Which of these is the duty of the Chief Minister?",
+    "options_en": [
+      "Formulation of State Government Policies.",
+      "Monitoring and advising various departments.",
+      "Maintaining relationship between Central Government and State Government.",
+      "Advising the Governor to appoint high officials of the State."
+    ],
+    "explanation": "மத்திய அரசு மற்றும் மாநில அரசிற்கிடையே உறவைப் பராமரித்தல்.",
+    "explanation_en": "Maintaining relationship between Central Government and State Government. is the duty of the Chief Minister."
+  },
+  {
+    "id": 74,
+    "question": "கீழ்க்கண்டவற்றுள் தவறானதைத் தேர்ந்தெடு.\n(a) சட்டமன்ற மேலவையில் மூன்றில் ஒரு பங்கு உறுப்பினர்கள் சட்டமன்ற உறுப்பினர்களால் தேர்ந்தெடுக்கப்படுகின்றனர்.\n(b) பன்னிரண்டில் ஒரு பங்கு உறுப்பினர்கள் பட்டதாரிகளால் தேர்ந்தெடுக்கப்படுகின்றனர்.\n(c) ஆறில் ஒரு பங்கு உறுப்பினர்கள் மாநில முதலமைச்சரால் நியமனம் செய்யப்படுகின்றனர்.\n(d) சட்டமன்ற மேலவை உறுப்பினர்களின் பதவிக்காலம் ஆறு ஆண்டுகளாகும்.",
+    "options": [
+      "a மற்றும் b",
+      "c மற்றும் d",
+      "c மட்டும்",
+      "a மற்றும் d"
+    ],
+    "correct": 1,
+    "question_en": "Choose the incorrect one from the following.\n(a) One-third of the members of the Legislative Council are elected by the members of the Legislative Assembly.\n(b) One-twelfth of the members shall be elected by the graduates.\n(c) One-sixth members are appointed by the Chief Minister of the State.\n(d) The term of office of the members of the Legislative Council shall be six years.",
+    "options_en": [
+      "a and b",
+      "c and d",
+      "c only",
+      "a and d"
+    ],
+    "explanation": "c மற்றும் d",
+    "explanation_en": "c and d"
+  },
+  {
+    "id": 75,
+    "question": "அரசியலமைப்புச் சட்டப்படி சட்டமேலவை மற்றும் சட்டப்பேரவையில் இருக்கவேண்டிய குறைந்தபட்ச உறுப்பினர்களின் எண்ணிக்கை _______, ________.",
+    "options": [
+      "40, 60",
+      "60, 40",
+      "60, மூன்றில் ஒரு பங்கு",
+      "40, 500"
+    ],
+    "correct": 0,
+    "question_en": "The minimum number of members required in the Legislative Assembly and Legislative Assembly as per the Constitution is _______, ________.",
+    "options_en": [
+      "40, 60",
+      "60, 40",
+      "60, one-third",
+      "40, 500"
+    ],
+    "explanation": "அரசியலமைப்புச் சட்டப்படி சட்டமேலவை மற்றும் சட்டப்பேரவையில் இருக்கவேண்டிய குறைந்தபட்ச உறுப்பினர்களின் எண்ணிக்கை 40, 60, 40, 60.",
+    "explanation_en": "The minimum number of members required in the Legislative Assembly and Legislative Assembly as per the Constitution is 40, 60, 40, 60."
+  },
+  {
+    "id": 76,
+    "question": "ஒரு மாநிலத்தின் சட்டப்பேரவையில் 450 உறுப்பினர்கள் இருப்பார்களானால், அம்மாநிலச் சட்டமேலவையில் இருக்க வேண்டிய அதிகபட்ச உறுப்பினர்களின் எண்ணிக்கை ________.",
+    "options": [
+      "225",
+      "226",
+      "150",
+      "450"
+    ],
+    "correct": 2,
+    "question_en": "If a state legislature has 450 members, the maximum number of members the state legislature should have is ________.",
+    "options_en": [
+      "225",
+      "226",
+      "150",
+      "450"
+    ],
+    "explanation": "ஒரு மாநிலத்தின் சட்டப்பேரவையில் 450 உறுப்பினர்கள் இருப்பார்களானால், அம்மாநிலச் சட்டமேலவையில் இருக்க வேண்டிய அதிகபட்ச உறுப்பினர்களின் எண்ணிக்கை 150.",
+    "explanation_en": "If a state legislature has 450 members, the maximum number of members the state legislature should have is 150."
+  },
+  {
+    "id": 77,
+    "question": "அரசியலமைப்புச் சட்டப்படி, ஒரு மாநிலத்தின் சட்டப்பேரவையில் இருக்க வேண்டிய அதிகபட்ச உறுப்பினர்களின் எண்ணிக்கை ________.",
+    "options": [
+      "234",
+      "500",
+      "545",
+      "250"
+    ],
+    "correct": 1,
+    "question_en": "According to the constitution, the maximum number of members a state legislature can have is ________.",
+    "options_en": [
+      "234",
+      "500",
+      "545",
+      "250"
+    ],
+    "explanation": "அரசியலமைப்புச் சட்டப்படி, ஒரு மாநிலத்தின் சட்டப்பேரவையில் இருக்க வேண்டிய அதிகபட்ச உறுப்பினர்களின் எண்ணிக்கை 500.",
+    "explanation_en": "According to the constitution, the maximum number of members a state legislature can have is 500."
+  },
+  {
+    "id": 78,
+    "question": "கீழ்க்கண்டவற்றில் எது தவறான கூற்று?",
+    "options": [
+      "மாநிலத்தின் சட்டமன்றம், அரசியலமைப்பைத் திருத்தும் சில நேர்வுகளில் பங்கேற்கிறது.",
+      "உயர்நீதிமன்றம், வழக்குகள் பற்றிய பதிவேடுகளின் ஆதாரச் சான்றாக உள்ள பதிவுறு நீதிமன்றமாக விளங்குகிறது.",
+      "சட்டங்களை நடைமுறைப்படுத்துவது அமைச்சரவையின் பணியாகும்.",
+      "உயர் நீதிமன்றம், அமைச்சரவையின் மீது கட்டுப்பாட்டினைச் செலுத்துகிறது."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "The legislature of the state participates in some cases of amending the constitution.",
+      "The High Court is the court of record where records of cases are evidenced.",
+      "It is the job of the Cabinet to implement the laws.",
+      "The High Court exercises control over the Cabinet."
+    ],
+    "explanation": "உயர் நீதிமன்றம், அமைச்சரவையின் மீது கட்டுப்பாட்டினைச் செலுத்துகிறது.",
+    "explanation_en": "The High Court exercises control over the Cabinet. is a false statement."
+  },
+  {
+    "id": 79,
+    "question": "கீழ்க்கண்ட கூற்றுகளை ஆராய்க.\ni. அங்கீகரிக்கப்படாத கட்சியின் வேட்பாளர்கள் சுயேச்சை வேட்பாளர்கள் என அழைக்கப்படுகின்றனர்.\nii. சட்டமன்ற அனுமதி இல்லாமல் மாநில அரசு வரி விதிக்க இயலாது.\niii. மாநிலத்தின் நிதியைக் கட்டுப்படுத்தும் அமைப்பு உயர் நீதிமன்றம்.",
+    "options": [
+      "ii சரி மற்றவை தவறு",
+      "i தவிர அனைத்தும் சரி",
+      "அனைத்தும் தவறு",
+      "iii தவறு i, ii சரி"
+    ],
+    "correct": 0,
+    "question_en": "Examine the following statements.\ni. Candidates of an unrecognized party are called independent candidates.\nii. The State Government cannot levy taxes without the consent of the Legislature.\niii. The High Court is the body that controls the finances of the state.",
+    "options_en": [
+      "ii is correct others are incorrect",
+      "All are correct except i",
+      "Everything is wrong",
+      "iii is wrong i, ii is right"
+    ],
+    "explanation": "ii சரி மற்றவை தவறு",
+    "explanation_en": "ii is correct others are incorrect"
+  },
+  {
+    "id": 80,
+    "question": "தமிழ்நாட்டின் தற்போதைய ஆளுநர் _______.",
+    "options": [
+      "திரு.பன்வாரிலால் புரோகித்",
+      "திரு.R.N.ரவி",
+      "திரு.ராம்நாத் கோவிந்த்",
+      "வெங்கையா நாயுடு"
+    ],
+    "correct": 1,
+    "question_en": "The present Governor of Tamil Nadu is _______.",
+    "options_en": [
+      "Mr. Banwarilal Purohit",
+      "Mr. R. N. Ravi",
+      "Mr. Ramnath Kovind",
+      "Venkaiah Naidu"
+    ],
+    "explanation": "தமிழ்நாட்டின் தற்போதைய ஆளுநர் திரு.R.N.ரவி.",
+    "explanation_en": "The present Governor of Tamil Nadu is Mr. R. N. Ravi."
+  },
+  {
+    "id": 81,
+    "question": "தமிழ்நாட்டின் தற்போதைய முதலமைச்சர் _______.",
+    "options": [
+      "திரு.மு.க.ஸ்டாலின்",
+      "திரு.உதயநிதி ஸ்டாலின்",
+      "திரு.K.பழனிச்சாமி",
+      "திரு. ஓ.பன்னீர் செல்வம்"
+    ],
+    "correct": 0,
+    "question_en": "The current Chief Minister of Tamil Nadu is _______.",
+    "options_en": [
+      "Mr. M. K. Stalin",
+      "Mr. Udayanidhi Stalin",
+      "Mr. K. Palanishamy",
+      "Mr. O. Panneer Selvam"
+    ],
+    "explanation": "தமிழ்நாட்டின் தற்போதைய முதலமைச்சர் திரு.மு.க.ஸ்டாலின்.",
+    "explanation_en": "The current Chief Minister of Tamil Nadu is Mr. M. K. Stalin."
+  },
+  {
+    "id": 82,
+    "question": "சென்னை உயர் நீதிமன்றத்தின் தற்போதைய தலைமை நீதிபதி _______.",
+    "options": [
+      "திரு.மீனா குமாரி",
+      "திரு.கிருபாகரன்",
+      "திரு. H.A. பாப்பட",
+      "திரு.சஞ்சீப் பானர்ஜி"
+    ],
+    "correct": 3,
+    "question_en": "The present Chief Justice of Madras High Court is _______.",
+    "options_en": [
+      "Mr. Meena Kumari",
+      "Mr. Krupakaran",
+      "Mr. H.A. sin",
+      "Mr. Sanjeep Banerjee"
+    ],
+    "explanation": "சென்னை உயர் நீதிமன்றத்தின் தற்போதைய தலைமை நீதிபதி திரு.சஞ்சீப் பானர்ஜி.",
+    "explanation_en": "The present Chief Justice of Madras High Court is Mr. Sanjeep Banerjee."
+  },
+  {
+    "id": 83,
+    "question": "தமிழ்நாட்டின் தற்போதைய சபாநாயகர் _______.",
+    "options": [
+      "திரு.மு.அப்பாவு",
+      "திரு.D.ஜெயக்குமார்",
+      "திரு.ப.தனபால்",
+      "திரு.அன்பில் மகேஷ் பொய்யாமொழி"
+    ],
+    "correct": 0,
+    "question_en": "The current Speaker of Tamil Nadu is _______.",
+    "options_en": [
+      "Mr. M. Appavu",
+      "Mr. D. Jayakumar",
+      "Mr. P. Dhanapal",
+      "Mr. Anbil Mahesh Poiyamozhi"
+    ],
+    "explanation": "தமிழ்நாட்டின் தற்போதைய சபாநாயகர் திரு.மு.அப்பாவு.",
+    "explanation_en": "The current Speaker of Tamil Nadu is Mr. M. Appavu."
+  }
+]
