@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix NMMS Exam Portal",
+  "description": "National Means-cum-Merit Scholarship (NMMS) Exam Portal for MAT and SAT subjects with AI question extraction from photo/PDF/text, secure student testing with countdown timer, auto-grading, teacher analytics, and mark analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

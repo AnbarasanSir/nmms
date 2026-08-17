@@ -1,0 +1,81 @@
+export interface AuthorizedStudent {
+  examNumber: string;
+  studentName: string;
+}
+
+export const AUTHORIZED_STUDENTS: AuthorizedStudent[] = [
+  {
+    examNumber: '8001',
+    studentName: 'அஜய் ஞா',
+  },
+  {
+    examNumber: '8006',
+    studentName: 'ஐயப்பன் மு',
+  },
+  {
+    examNumber: '8007',
+    studentName: 'மதிவாணன் ச',
+  },
+  {
+    examNumber: '8010',
+    studentName: 'நகுல் ச',
+  },
+  {
+    examNumber: '8013',
+    studentName: 'ரவிச்சந்திரன் ஏ',
+  },
+  {
+    examNumber: '8014',
+    studentName: 'சசிதரன் நி',
+  },
+  {
+    examNumber: '8015',
+    studentName: 'யுவராஜ் கு',
+  },
+  {
+    examNumber: '8021',
+    studentName: 'திக்சியா அ',
+  },
+  {
+    examNumber: '8025',
+    studentName: 'மாலஸ் ஸ்ரீ கு',
+  },
+  {
+    examNumber: '8027',
+    studentName: 'மோனிஷா ர',
+  },
+  {
+    examNumber: '8028',
+    studentName: 'பத்மாவதி தி',
+  },
+  {
+    examNumber: '8029',
+    studentName: 'பூமிகா வீ',
+  },
+  {
+    examNumber: '8030',
+    studentName: 'ரூபிகா வி',
+  },
+  {
+    examNumber: '8032',
+    studentName: 'சுமித்ரா த',
+  },
+  {
+    examNumber: '8034',
+    studentName: 'வினிதா ஆ',
+  },
+  {
+    examNumber: '8035',
+    studentName: 'வினோதினி அ',
+  },
+];
+
+export function findAuthorizedStudent(inputCodeOrNumber: string): AuthorizedStudent | null {
+  if (!inputCodeOrNumber) return null;
+  const clean = inputCodeOrNumber.trim().toUpperCase();
+  return (
+    AUTHORIZED_STUDENTS.find(
+      (s) => s.examNumber === clean || s.examNumber.toLowerCase() === clean.toLowerCase()
+    ) || null
+  );
+}
