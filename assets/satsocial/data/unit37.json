@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "question": "நீர் கடலிலிருந்து, வளிமண்டலத்திற்கும், வளிமண்டலத்திலிருந்து நிலத்திற்கும், மீண்டும் நிலத்திலிருந்து கடலுக்குச் செல்லும் முறைக்கு________ என்றுபெயர்.",
+    "options": [
+      "ஆற்றின் சுழற்சி",
+      "நீரின் சுழற்சி",
+      "பாறைச் சுழற்சி",
+      "வாழ்க்கைச் சுழற்சி"
+    ],
+    "correct": 1,
+    "question_en": "The process of water moving from the ocean to the atmosphere, from the atmosphere to the land, and back to the ocean is called the ________.",
+    "options_en": [
+      "River cycle",
+      "Water cycle",
+      "Rock cycle",
+      "Life cycle"
+    ],
+    "explanation": "நீர் கடலிலிருந்து, வளிமண்டலத்திற்கும், வளிமண்டலத்திலிருந்து நிலத்திற்கும், மீண்டும் நிலத்திலிருந்து கடலுக்குச் செல்லும் முறைக்குநீரின் சுழற்சி என்றுபெயர்.",
+    "explanation_en": "The process of water moving from the ocean to the atmosphere, from the atmosphere to the land, and back to the ocean is called the Water cycle."
+  },
+  {
+    "id": 2,
+    "question": "தாவரங்களும், விலங்குகளும் உயிர்வாழ்வதற்கு________ அத்தியாவசியமானதாகும்.",
+    "options": [
+      "நீர்",
+      "உறைபனி",
+      "பனிக்கட்டி",
+      "குடாக்கள்"
+    ],
+    "correct": 0,
+    "question_en": "________ is essential for the survival of plants and animals.",
+    "options_en": [
+      "Water",
+      "Frost",
+      "Ice",
+      "Gulfs"
+    ],
+    "explanation": "தாவரங்களும், விலங்குகளும் உயிர்வாழ்வதற்குநீர் அத்தியாவசியமானதாகும்.",
+    "explanation_en": "Water is essential for the survival of plants and animals."
+  },
+  {
+    "id": 3,
+    "question": "புவியின் மேற்பரப்பில் உள்ள நீரின் மொத்த அளவு________.",
+    "options": [
+      "61%",
+      "70%",
+      "71%",
+      "81%"
+    ],
+    "correct": 2,
+    "question_en": "The total amount of water on the Earth's surface is ________.",
+    "options_en": [
+      "61%",
+      "70%",
+      "71%",
+      "81%"
+    ],
+    "explanation": "புவியின் மேற்பரப்பில் உள்ள நீரின் மொத்த அளவு71%.",
+    "explanation_en": "The total amount of water on the Earth's surface is 71%."
+  },
+  {
+    "id": 4,
+    "question": "பொருத்துக:\nநீர் ஆதாரம் - மொத்த நீரின் சதவீதம்\ni. பேராழிகள், கடல்கள் மற்றும் குடாக்கள் - a) 0.001%\nii. நிலத்தடி நீர் - b) 0.0002%\niii. வளிமண்டலம் - c) 96.54%\niv. ஆறுகள் - d) 1.69%",
+    "options": [
+      "i - c, ii - a, iii - b, iv - d",
+      "i - c, ii - d, iii - b, iv - a",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "correct": 3,
+    "question_en": "Match the following:\nWater Source - Percentage of Total Water\ni. Oceans, Seas and Gulfs - a) 0.001%\nii. Groundwater - b) 0.0002%\niii. Atmosphere - c) 96.54%\niv. Rivers - d) 1.69%",
+    "options_en": [
+      "i - c, ii - a, iii - b, iv - d",
+      "i - c, ii - d, iii - b, iv - a",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "explanation": "i - c, ii - d, iii - a, iv - b",
+    "explanation_en": "i - c, ii - d, iii - a, iv - b"
+  },
+  {
+    "id": 5,
+    "question": "புவியில் உள்ள மொத்த நீரில் உவர்ப்பு நீரின் சதவீதம்________.",
+    "options": [
+      "97.2%",
+      "98.2%",
+      "96.2 %",
+      "95.2%"
+    ],
+    "correct": 0,
+    "question_en": "The percentage of saline water in the total water on Earth is ________.",
+    "options_en": [
+      "97.2%",
+      "98.2%",
+      "96.2 %",
+      "95.2%"
+    ],
+    "explanation": "புவியில் உள்ள மொத்த நீரில் உவர்ப்பு நீரின் சதவீதம்97.2%.",
+    "explanation_en": "The percentage of saline water in the total water on Earth is 97.2%."
+  },
+  {
+    "id": 6,
+    "question": "புவியில் உள்ள நன்னீரின் சதவீதம்________.",
+    "options": [
+      "71%",
+      "97%",
+      "2.8%",
+      "0.6%"
+    ],
+    "correct": 2,
+    "question_en": "The percentage of fresh water on Earth is ________.",
+    "options_en": [
+      "71%",
+      "97%",
+      "2.8%",
+      "0.6%"
+    ],
+    "explanation": "புவியில் உள்ள நன்னீரின் சதவீதம்2.8%.",
+    "explanation_en": "The percentage of fresh water on Earth is 2.8%."
+  },
+  {
+    "id": 7,
+    "question": "பொருளாதார ரீதியில் நவீன தொழில்நுட்பத்தின் மூலம் துளையிட்டு எடுக்கப்படும் மொத்த நிலத்தடி நீரின் சதவீதம்________.",
+    "options": [
+      "0.6%",
+      "71%",
+      "97%",
+      "2.8%"
+    ],
+    "correct": 0,
+    "question_en": "The percentage of total groundwater that can be economically extracted using modern drilling technology is ________.",
+    "options_en": [
+      "0.6%",
+      "71%",
+      "97%",
+      "2.8%"
+    ],
+    "explanation": "பொருளாதார ரீதியில் நவீன தொழில்நுட்பத்தின் மூலம் துளையிட்டு எடுக்கப்படும் மொத்த நிலத்தடி நீரின் சதவீதம்0.6%.",
+    "explanation_en": "The percentage of total groundwater that can be economically extracted using modern drilling technology is 0.6%."
+  },
+  {
+    "id": 8,
+    "question": "கூற்று(i): நீர், ஆவியாதல் மூலம் வளிமண்டலத்தின் உயரமான பகுதிகளுக்குச் செல்லும்போது, திரவமாகச் சுருங்குதலின் மூலம் மேகங்களாக மாறுகிறது.\nகூற்று(ii): மேகத்தில் உள்ள நீர்த்திவலைகள் உருகுதல் மற்றும் மேகம் உடைதல் காரணமாக பொழிவின் பல்வேறு வடிவங்களில் புவியை வந்தடைகிறது.",
+    "options": [
+      "கூற்று I சரி ii தவறு",
+      "கூற்று I மற்றும் ii சரி",
+      "கூற்று I தவறு ii சரி",
+      "கூற்று I மற்றும் ii தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Statement (i): When water travels to higher parts of the atmosphere through evaporation, it turns into clouds through liquid condensation.\nStatement (ii): Water droplets in the cloud reach the Earth in various forms of precipitation due to melting and cloud bursting.",
+    "options_en": [
+      "Statement I is correct, II is wrong",
+      "Statements I and II are correct",
+      "Statement I is wrong, II is correct",
+      "Statements I and II are wrong"
+    ],
+    "explanation": "கூற்று I மற்றும் ii சரி",
+    "explanation_en": "Statements I and II are correct"
+  },
+  {
+    "id": 9,
+    "question": "நீரின் பல்வேறு அம்சங்களைப் பற்றிய அறிவியல் படிப்பிற்கு________ என்றுபெயர்.",
+    "options": [
+      "பாறைக்கோளம்",
+      "வாயுக்கோளம்",
+      "நீரியல்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "The scientific study of various aspects of water is called ________.",
+    "options_en": [
+      "Lithosphere",
+      "Atmosphere",
+      "Hydrology",
+      "None of these"
+    ],
+    "explanation": "நீரின் பல்வேறு அம்சங்களைப் பற்றிய அறிவியல் படிப்பிற்குநீரியல் என்றுபெயர்.",
+    "explanation_en": "The scientific study of various aspects of water is called Hydrology."
+  },
+  {
+    "id": 10,
+    "question": "நீரியல் சுழற்சிக்கு தேவையான ஆற்றல் எங்கிருந்து கிடைக்கிறது?",
+    "options": [
+      "சூரியன்",
+      "மின் மையங்கள்",
+      "தாவரங்கள்",
+      "விலங்கினங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Where does the energy required for the hydrological cycle come from?",
+    "options_en": [
+      "Sun",
+      "Power stations",
+      "Plants",
+      "Animals"
+    ],
+    "explanation": "சூரியன்",
+    "explanation_en": "Sun"
+  },
+  {
+    "id": 11,
+    "question": "மேகத்திலிருந்து நிலத்தின் மீது விழும் நீர்த்துளிகளுக்கு________ என்றுபெயர்.",
+    "options": [
+      "ஆவியீர்ப்பு",
+      "நீர் சுருங்குதல்",
+      "ஆவியாதல்",
+      "மழைப்பொழிவு"
+    ],
+    "correct": 3,
+    "question_en": "Water droplets falling from the clouds to the ground are called ________.",
+    "options_en": [
+      "Evapotranspiration",
+      "Condensation",
+      "Evaporation",
+      "Precipitation"
+    ],
+    "explanation": "மேகத்திலிருந்து நிலத்தின் மீது விழும் நீர்த்துளிகளுக்குமழைப்பொழிவு என்றுபெயர்.",
+    "explanation_en": "Water droplets falling from the clouds to the ground are called Precipitation."
+  },
+  {
+    "id": 12,
+    "question": "பனிப்பாறைகளில் இருந்து நேரடியாக நீர் ஆவியாவது________ என்று அழைக்கப்படுகிறது.",
+    "options": [
+      "சுருங்குதல்",
+      "பதங்கமாதல்",
+      "மழைப்பொழிவு",
+      "உட்கசிந்து வெளியேறுதல்"
+    ],
+    "correct": 1,
+    "question_en": "The direct evaporation of water from glaciers is called ________.",
+    "options_en": [
+      "Condensation",
+      "Sublimation",
+      "Precipitation",
+      "Transpiration"
+    ],
+    "explanation": "பனிப்பாறைகளில் இருந்து நேரடியாக நீர் ஆவியாவதுபதங்கமாதல் என்று அழைக்கப்படுகிறது.",
+    "explanation_en": "The direct evaporation of water from glaciers is called Sublimation."
+  },
+  {
+    "id": 13,
+    "question": "நீராவியின் நீர்சுருங்குதல் மூலம் உருவாகும் நீர்த்துளி________ எனப்படுகிறது.",
+    "options": [
+      "மேகங்கள்",
+      "மழைப்பொழிவு",
+      "பனி",
+      "மூடுபனி"
+    ],
+    "correct": 0,
+    "question_en": "The water droplets formed by the condensation of water vapor are called ________.",
+    "options_en": [
+      "Clouds",
+      "Precipitation",
+      "Snow",
+      "Fog"
+    ],
+    "explanation": "நீராவியின் நீர்சுருங்குதல் மூலம் உருவாகும் நீர்த்துளிமேகங்கள் எனப்படுகிறது.",
+    "explanation_en": "The water droplets formed by the condensation of water vapor are called Clouds."
+  },
+  {
+    "id": 14,
+    "question": "வளி மண்டலத்தில் உள்ள நீராவியின் அளவு _________ எனப்படும்.",
+    "options": [
+      "பனிப்பொழிவு",
+      "வெப்ப நீர்",
+      "ஆவியீர்ப்பு",
+      "ஈரப்பதம்"
+    ],
+    "correct": 3,
+    "question_en": "The amount of water vapor in the atmosphere is called _________.",
+    "options_en": [
+      "Snowfall",
+      "Thermal water",
+      "Evapotranspiration",
+      "Humidity"
+    ],
+    "explanation": "வளி மண்டலத்தில் உள்ள நீராவியின் அளவு ஈரப்பதம் எனப்படும்.",
+    "explanation_en": "The amount of water vapor in the atmosphere is called Humidity."
+  },
+  {
+    "id": 15,
+    "question": "நீரியல் சுழற்சி________ முக்கிய கூறுகள் உள்ளன.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct": 3,
+    "question_en": "The hydrological cycle has ________ main components.",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "explanation": "நீரியல் சுழற்சி6 முக்கிய கூறுகள் உள்ளன.",
+    "explanation_en": "The hydrological cycle has 6 main components."
+  },
+  {
+    "id": 16,
+    "question": "திட, திரவ, வாயுநிலையில் இயற்கையாக காணப்படும் ஒரே பொருள்________.",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "ஹைட்ரஜன்",
+      "நீர்",
+      "ஹீலியம்"
+    ],
+    "correct": 2,
+    "question_en": "The only substance naturally found in solid, liquid, and gaseous states is ________.",
+    "options_en": [
+      "Oxygen",
+      "Hydrogen",
+      "Water",
+      "Helium"
+    ],
+    "explanation": "திட, திரவ, வாயுநிலையில் இயற்கையாக காணப்படும் ஒரே பொருள்நீர்.",
+    "explanation_en": "The only substance naturally found in solid, liquid, and gaseous states is Water."
+  },
+  {
+    "id": 17,
+    "question": "வளிமண்டலத்தில் நீர் எந்த வடிவத்தில் காணப்படுகிறது.?",
+    "options": [
+      "பெருங்கடல்கள்",
+      "ஆறுகள்",
+      "மேகங்கள்",
+      "ஏரிகள்"
+    ],
+    "correct": 2,
+    "question_en": "In what form is water found in the atmosphere?",
+    "options_en": [
+      "Oceans",
+      "Rivers",
+      "Clouds",
+      "Lakes"
+    ],
+    "explanation": "மேகங்கள்",
+    "explanation_en": "Clouds"
+  },
+  {
+    "id": 18,
+    "question": "கீழ்க்கண்டவற்றில் எவை பொழிவின் உருவங்கள் ஆகும்.?",
+    "options": [
+      "மழை",
+      "ஆலங்கட்டி மழை",
+      "பனி",
+      "இவையனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following are forms of precipitation?",
+    "options_en": [
+      "Rain",
+      "Hail",
+      "Snow",
+      "All of these"
+    ],
+    "explanation": "இவையனைத்தும்",
+    "explanation_en": "All of these are forms of precipitation."
+  },
+  {
+    "id": 19,
+    "question": "புவியின் மேற்பரப்பு நீர்நிலைகளில் இருந்து ஆவியாதல் வழியாகவும் மற்றும் தாவரங்களிலிருந்து நீர் உட்கசிந்து வெளியிடுதல் மூலம் நிகழும் புவியின் மொத்த நீர் இழப்பு________.",
+    "options": [
+      "ஆவியீர்ப்பு",
+      "திரவமாய் சுருங்குதல்",
+      "பொழிவு",
+      "நீர் ஊடுருவல்"
+    ],
+    "correct": 0,
+    "question_en": "The Earth's total water loss occurring through evaporation from surface water bodies and transpiration from plants is called ________.",
+    "options_en": [
+      "Evapotranspiration",
+      "Condensation",
+      "Precipitation",
+      "Infiltration"
+    ],
+    "explanation": "புவியின் மேற்பரப்பு நீர்நிலைகளில் இருந்து ஆவியாதல் வழியாகவும் மற்றும் தாவரங்களிலிருந்து நீர் உட்கசிந்து வெளியிடுதல் மூலம் நிகழும் புவியின் மொத்த நீர் இழப்புஆவியீர்ப்பு.",
+    "explanation_en": "The Earth's total water loss occurring through evaporation from surface water bodies and transpiration from plants is called Evapotranspiration."
+  },
+  {
+    "id": 20,
+    "question": "பேராழிகள், கடல்கள், ஏரிகள் மற்றும் ஆறுகள் போன்றவற்றிலிருந்து________% ஈரப்பதம் ஆவியாகிறது.",
+    "options": [
+      "80%",
+      "90%",
+      "70%",
+      "60%"
+    ],
+    "correct": 1,
+    "question_en": "________% of moisture evaporates from oceans, seas, lakes, and rivers.",
+    "options_en": [
+      "80%",
+      "90%",
+      "70%",
+      "60%"
+    ],
+    "explanation": "பேராழிகள், கடல்கள், ஏரிகள் மற்றும் ஆறுகள் போன்றவற்றிலிருந்து90%% ஈரப்பதம் ஆவியாகிறது.",
+    "explanation_en": "90%% of moisture evaporates from oceans, seas, lakes, and rivers."
+  },
+  {
+    "id": 21,
+    "question": "கூற்று: உலக அளவில் நீர் எவ்வளவு ஆவியாகிறதோ, அதே அளவு பொழிவாக புவிக்கு மீண்டும் கிடைக்கிறது.\nகாரணம்: புவியியல் ரீதியாக ஆவியாதல் செயல்முறைகள் நடைபெறுவதில்லை. காற்று அதிகமாக உள்ள காலங்களில் ஆவியாதல் விகிதம் குறைவு. காற்று குறைவாக உள்ள காலங்களில் ஆவியாதல் விகிதம் அதிகம்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று தவறு, காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் சரி; காரணம் கூற்றை விளக்குகிறது",
+      "கூற்று மற்றும் காரணம் சரி; காரணம் கூற்றை விளக்கவில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Statement: Globally, the same amount of water that evaporates is returned to the Earth as precipitation.\nReason: Evaporation processes do not occur geographically. The evaporation rate is low during highly windy periods. The evaporation rate is high during less windy periods.",
+    "options_en": [
+      "Statement is correct, Reason is wrong.",
+      "Statement is wrong, Reason is correct.",
+      "Both Statement and Reason are correct; Reason explains the Statement.",
+      "Both Statement and Reason are correct; Reason does not explain the Statement."
+    ],
+    "explanation": "கூற்று சரி, காரணம் தவறு.",
+    "explanation_en": "Statement is correct, Reason is wrong."
+  },
+  {
+    "id": 22,
+    "question": "கீழ்க்கண்ட வாக்கியத்திற்கு பொருத்தமற்றதைத் தேர்ந்தெடு:\nஆவியாதல் விகிதம் அதிகரித்தலானது,",
+    "options": [
+      "காற்றின் வேகம் அதிகரிக்கும் பொழுது",
+      "வெப்பநிலை அதிகரிக்கும் பொழுது",
+      "ஈரப்பதம் குறையும் பொழுது",
+      "பூமியில் நீர்நிலைகள் அதிகரிக்காத பொழுது"
+    ],
+    "correct": 3,
+    "question_en": "Select the irrelevant option for the following sentence:\nThe increase in the rate of evaporation occurs,",
+    "options_en": [
+      "When wind speed increases",
+      "When temperature increases",
+      "When humidity decreases",
+      "When water bodies on Earth do not increase"
+    ],
+    "explanation": "பூமியில் நீர்நிலைகள் அதிகரிக்காத பொழுது",
+    "explanation_en": "When water bodies on Earth do not increase"
+  },
+  {
+    "id": 23,
+    "question": "நீரியல் சுழற்சி _________ நிலைகளில் நடைபெறுகிறது?",
+    "options": [
+      "நீர் வழிந்தோடல்",
+      "நீர் உட்கசிந்து வெளியிடுதல்",
+      "ஆவியீர்ப்பு",
+      "இவை மூன்றும்"
+    ],
+    "correct": 3,
+    "question_en": "The hydrological cycle involves _________ processes?",
+    "options_en": [
+      "Runoff",
+      "Transpiration",
+      "Evapotranspiration",
+      "All three of these"
+    ],
+    "explanation": "நீரியல் சுழற்சி இவை மூன்றும் நிலைகளில் நடைபெறுகிறது?",
+    "explanation_en": "The hydrological cycle involves All three of these processes?"
+  },
+  {
+    "id": 24,
+    "question": "கீழ்க்காணும் எந்த வளத்தின் மூலம் தாவரங்களின் வேர்களுக்கு நீரை செலுத்துகின்றன?",
+    "options": [
+      "கனிம வளம்",
+      "நீர் வளம்",
+      "மண் வளம்",
+      "உயிர் வளம்"
+    ],
+    "correct": 2,
+    "question_en": "Through which of the following resources is water sent to the roots of plants?",
+    "options_en": [
+      "Mineral resource",
+      "Water resource",
+      "Soil resource",
+      "Biological resource"
+    ],
+    "explanation": "மண் வளம்",
+    "explanation_en": "Soil resource"
+  },
+  {
+    "id": 25,
+    "question": "நீராவி, நீராக மாறும் செயல்முறைக்கு________ என்று பெயர்.",
+    "options": [
+      "நீர் சுருங்குதல்",
+      "நீர் விரிவடைதல்",
+      "நீர் ஊடுருவல்",
+      "நீர் உட்கசிதல்"
+    ],
+    "correct": 0,
+    "question_en": "The process of water vapor turning into water is called ________.",
+    "options_en": [
+      "Condensation",
+      "Water expansion",
+      "Infiltration",
+      "Transpiration"
+    ],
+    "explanation": "நீராவி, நீராக மாறும் செயல்முறைக்குநீர் சுருங்குதல் என்று பெயர்.",
+    "explanation_en": "The process of water vapor turning into water is called Condensation."
+  },
+  {
+    "id": 26,
+    "question": "நீர்த்துளிகள் புவியின் மேற்பரப்பில் குளிர்ந்த பொருள்களின் மீது படும்போது________ உருவாகிறது.",
+    "options": [
+      "உறைபனி",
+      "பனித்துளி",
+      "அடர் மூடுபனி",
+      "மூடுபனி"
+    ],
+    "correct": 1,
+    "question_en": "When water droplets come in contact with cold objects on the Earth's surface, ________ is formed.",
+    "options_en": [
+      "Frost",
+      "Dew",
+      "Dense fog",
+      "Fog"
+    ],
+    "explanation": "நீர்த்துளிகள் புவியின் மேற்பரப்பில் குளிர்ந்த பொருள்களின் மீது படும்போதுபனித்துளி உருவாகிறது.",
+    "explanation_en": "When water droplets come in contact with cold objects on the Earth's surface, Dew is formed."
+  },
+  {
+    "id": 27,
+    "question": "சரியான இணையை தேர்ந்தெடுக்க.",
+    "options": [
+      "நீர் சுருங்குதல் - ஆவியாதலின் நேர்வினை",
+      "நீர் சுருங்குதல் - ஆவியாதலின் எதிர்வினை",
+      "நீர் உட்கசிந்து வெளியிடுதல் - நீர் சுருங்குதல்",
+      "நீர்த்துளிகள் - ஆவியாதலின் நேர்வினை"
+    ],
+    "correct": 1,
+    "question_en": "Select the correct pair.",
+    "options_en": [
+      "Condensation - Direct reaction of evaporation",
+      "Condensation - Opposite of evaporation",
+      "Transpiration - Condensation",
+      "Water droplets - Direct reaction of evaporation"
+    ],
+    "explanation": "நீர் சுருங்குதல் - ஆவியாதலின் எதிர்வினை",
+    "explanation_en": "Condensation - Opposite of evaporation"
+  },
+  {
+    "id": 28,
+    "question": "குளிர்ந்த பொருட்களின் மேற்பரப்புகளின் மீது நீராவி படிந்து பனிப்படிகங்களாக மாறுவதையே________ என்கிறோம்.",
+    "options": [
+      "உறைபனி",
+      "பனி",
+      "மூடுபனி",
+      "அடர் மூடுபனி"
+    ],
+    "correct": 0,
+    "question_en": "Water vapor condensing on the surfaces of cold objects and turning into ice crystals is called ________.",
+    "options_en": [
+      "Frost",
+      "Snow",
+      "Fog",
+      "Dense fog"
+    ],
+    "explanation": "குளிர்ந்த பொருட்களின் மேற்பரப்புகளின் மீது நீராவி படிந்து பனிப்படிகங்களாக மாறுவதையேஉறைபனி என்கிறோம்.",
+    "explanation_en": "Water vapor condensing on the surfaces of cold objects and turning into ice crystals is called Frost."
+  },
+  {
+    "id": 29,
+    "question": "காற்றில் இருக்கும் நீர் சுருங்குதலால் செறிவூட்டப்பட்ட மிக நுண்ணிய நீர்த்துளிகளே________ எனப்படும்.",
+    "options": [
+      "உறைபனி",
+      "பனி",
+      "மூடுபனி",
+      "அடர் மூடுபனி"
+    ],
+    "correct": 3,
+    "question_en": "The tiny water droplets saturated by the condensation of water in the air are called ________.",
+    "options_en": [
+      "Frost",
+      "Snow",
+      "Fog",
+      "Mist/Dense fog"
+    ],
+    "explanation": "காற்றில் இருக்கும் நீர் சுருங்குதலால் செறிவூட்டப்பட்ட மிக நுண்ணிய நீர்த்துளிகளேஅடர் மூடுபனி எனப்படும்.",
+    "explanation_en": "The tiny water droplets saturated by the condensation of water in the air are called Mist/Dense fog."
+  },
+  {
+    "id": 30,
+    "question": "காற்றடுக்கில் அடர் மூடுபனி எந்த வகையான போக்குவரத்துக்கு உகந்தது? அதன் உயரம் என்ன?",
+    "options": [
+      "ரயில் போக்குவரத்து (50 km)",
+      "விமான போக்குவரத்து (10 km)",
+      "விமான போக்குவரத்து (15 km)",
+      "ரயில் போக்குவரத்து (40 km)"
+    ],
+    "correct": 1,
+    "question_en": "For which type of transport is dense fog in the troposphere suitable? What is its height?",
+    "options_en": [
+      "Railway transport (50 km)",
+      "Air transport (10 km)",
+      "Air transport (15 km)",
+      "Railway transport (40 km)"
+    ],
+    "explanation": "விமான போக்குவரத்து (10 km)",
+    "explanation_en": "For which type of transport is dense fog in the troposphere suitable. Air transport (10 km) is its height."
+  },
+  {
+    "id": 31,
+    "question": "காற்றில் தொங்கும் நிலையில் மிதக்கும் நுண்ணிய நீர்த்துளிகளையே________ என்கிறோம்.",
+    "options": [
+      "மூடுபனி",
+      "அடர் மூடுபனி",
+      "உறைபனி",
+      "பனி"
+    ],
+    "correct": 0,
+    "question_en": "The microscopic water droplets suspended and floating in the air are called ________.",
+    "options_en": [
+      "Fog",
+      "Mist",
+      "Frost",
+      "Snow"
+    ],
+    "explanation": "காற்றில் தொங்கும் நிலையில் மிதக்கும் நுண்ணிய நீர்த்துளிகளையேமூடுபனி என்கிறோம்.",
+    "explanation_en": "The microscopic water droplets suspended and floating in the air are called Fog."
+  },
+  {
+    "id": 32,
+    "question": "காற்றில் உள்ள நீராவி விரைவாகக் குளிர்வதால் பார்வைக்குத் தெரியாத வாயுநிலையிலிருந்து பார்வைக்குப் புலனாகும் நீர்த்துளிகளாக மாறுவது________.",
+    "options": [
+      "பனி",
+      "மூடுபனி",
+      "அடர் மூடுபனி",
+      "உறைபனி"
+    ],
+    "correct": 1,
+    "question_en": "The rapid cooling of water vapor in the air, changing from an invisible gaseous state to visible water droplets, is ________.",
+    "options_en": [
+      "Snow",
+      "Fog",
+      "Mist",
+      "Frost"
+    ],
+    "explanation": "காற்றில் உள்ள நீராவி விரைவாகக் குளிர்வதால் பார்வைக்குத் தெரியாத வாயுநிலையிலிருந்து பார்வைக்குப் புலனாகும் நீர்த்துளிகளாக மாறுவதுமூடுபனி.",
+    "explanation_en": "The rapid cooling of water vapor in the air, changing from an invisible gaseous state to visible water droplets, is Fog."
+  },
+  {
+    "id": 33,
+    "question": "வளிமண்டலத்தில் காணப்படும் குறைந்த எடை கொண்ட மிக நுண்ணிய நீர்த்துளிகள் மற்றும் பனிப்படிகங்களைக் கொண்டது________.",
+    "options": [
+      "பனி",
+      "மூடுபனி",
+      "மேகங்கள்",
+      "உறைபனி"
+    ],
+    "correct": 2,
+    "question_en": "________ consist of microscopic water droplets and ice crystals with low weight found in the atmosphere.",
+    "options_en": [
+      "Snow",
+      "Fog",
+      "Clouds",
+      "Frost"
+    ],
+    "explanation": "வளிமண்டலத்தில் காணப்படும் குறைந்த எடை கொண்ட மிக நுண்ணிய நீர்த்துளிகள் மற்றும் பனிப்படிகங்களைக் கொண்டதுமேகங்கள்.",
+    "explanation_en": "Clouds consist of microscopic water droplets and ice crystals with low weight found in the atmosphere."
+  },
+  {
+    "id": 34,
+    "question": "மேகங்களில் காணப்படும் நீர்த்துளிகளின் அளவானது________ மைக்ரான் முதல்________ மைக்ரான் கொண்டது.",
+    "options": [
+      "2 முதல் 90",
+      "2 முதல் 80",
+      "2 முதல் 100",
+      "2 முதல் 110"
+    ],
+    "correct": 2,
+    "question_en": "The size of water droplets found in clouds ranges from ________ microns to ________ microns.",
+    "options_en": [
+      "2 to 90",
+      "2 to 80",
+      "2 to 100",
+      "2 to 110"
+    ],
+    "explanation": "மேகங்களில் காணப்படும் நீர்த்துளிகளின் அளவானது2 முதல் 100 மைக்ரான் முதல்2 முதல் 100 மைக்ரான் கொண்டது.",
+    "explanation_en": "The size of water droplets found in clouds ranges from 2 to 100 microns to 2 to 100 microns."
+  },
+  {
+    "id": 35,
+    "question": "வளிமண்டலத்தில் உள்ள மேகங்களிலிருந்து பல்வேறு வடிவங்களில் நீராக புவியின் மேற்பரப்பை வந்தடைவது________.",
+    "options": [
+      "மழைப்பொழிவு",
+      "மேகங்கள்",
+      "கார்திரள் மேகம்",
+      "படைத்திரள் மேகங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Water reaching the Earth's surface in various forms from the clouds in the atmosphere is called ________.",
+    "options_en": [
+      "Precipitation",
+      "Clouds",
+      "Cumulonimbus clouds",
+      "Stratocumulus clouds"
+    ],
+    "explanation": "வளிமண்டலத்தில் உள்ள மேகங்களிலிருந்து பல்வேறு வடிவங்களில் நீராக புவியின் மேற்பரப்பை வந்தடைவதுமழைப்பொழிவு.",
+    "explanation_en": "Water reaching the Earth's surface in various forms from the clouds in the atmosphere is called Precipitation."
+  },
+  {
+    "id": 36,
+    "question": "நீர்த்துளிகளும் 5 மி.மீ. விட்டத்திற்கு மேல் உள்ள பனித்துளிகளும் கலந்து காணப்படும் பொழிவிற்கு ________ என்று பெயர்.",
+    "options": [
+      "மழை",
+      "கல்மழை",
+      "உறைபனி மழை",
+      "ஆலங்கட்டி மழை"
+    ],
+    "correct": 1,
+    "question_en": "The precipitation consisting of a mixture of water droplets and ice pellets larger than 5 mm in diameter is called ________.",
+    "options_en": [
+      "Rain",
+      "Sleet",
+      "Freezing rain",
+      "Hail"
+    ],
+    "explanation": "நீர்த்துளிகளும் 5 மி.மீ. விட்டத்திற்கு மேல் உள்ள பனித்துளிகளும் கலந்து காணப்படும் பொழிவிற்கு கல்மழை என்று பெயர்.",
+    "explanation_en": "The precipitation consisting of a mixture of water droplets and ice pellets larger than 5 mm in diameter is called Sleet."
+  },
+  {
+    "id": 37,
+    "question": "கூற்று (i): மழைப்பொழிவு நீர்த்துளிகளின் வடிவத்தில் உள்ளதால் மழை எனப்படுகிறது.\nகூற்று (ii): நீர்த்துளிகள் 0.5 மி.மீ. விட்டத்திற்கு அதிகமாக இருந்தால் மழைப்பொழிவு எனவும் 0.5 மி.மீ. க்கு குறைவாக இருந்தால் அதை தூறல் எனவும் அழைக்கப்படுகிறது.",
+    "options": [
+      "கூற்று I சரி ii தவறு",
+      "கூற்று I தவறு ii சரி",
+      "கூற்று I மற்றும் ii தவறு",
+      "கூற்று I மற்றும் ii சரி"
+    ],
+    "correct": 3,
+    "question_en": "Statement (i): Precipitation in the form of water droplets is called rain.\nStatement (ii): If the water droplets are larger than 0.5 mm in diameter, it is called rainfall, and if they are less than 0.5 mm, it is called a drizzle.",
+    "options_en": [
+      "Statement I is correct, II is wrong",
+      "Statement I is wrong, II is correct",
+      "Statements I and II are wrong",
+      "Statements I and II are correct"
+    ],
+    "explanation": "கூற்று I மற்றும் ii சரி",
+    "explanation_en": "Statements I and II are correct"
+  },
+  {
+    "id": 38,
+    "question": "ஆலங்கட்டி மழை கீழ்கண்ட எந்த மேகங்களுடன் தொடர்புடையது.",
+    "options": [
+      "கார்திரள் மேகம்",
+      "திரள் மேகம்",
+      "படை மேகம்",
+      "கீற்று மேகம்"
+    ],
+    "correct": 0,
+    "question_en": "Hail is associated with which of the following clouds?",
+    "options_en": [
+      "Cumulonimbus cloud",
+      "Cumulus cloud",
+      "Stratus cloud",
+      "Cirrus cloud"
+    ],
+    "explanation": "கார்திரள் மேகம்",
+    "explanation_en": "Cumulonimbus cloud"
+  },
+  {
+    "id": 39,
+    "question": "மேகத்திலுள்ள வெப்பம் குறைவதால் நீராவி அடிக்கடி நேரடியாக ________ஆக மாற்றப்படுகிறது.",
+    "options": [
+      "உறைபனி",
+      "கல்மழை",
+      "பனிக்கட்டி",
+      "மழை"
+    ],
+    "correct": 2,
+    "question_en": "Due to the decrease in temperature in the cloud, water vapor is often directly converted into ________.",
+    "options_en": [
+      "Frost",
+      "Sleet",
+      "Ice",
+      "Rain"
+    ],
+    "explanation": "மேகத்திலுள்ள வெப்பம் குறைவதால் நீராவி அடிக்கடி நேரடியாக பனிக்கட்டிஆக மாற்றப்படுகிறது.",
+    "explanation_en": "Due to the decrease in temperature in the cloud, water vapor is often directly converted into Ice."
+  },
+  {
+    "id": 40,
+    "question": "புவியின் மேற்பரப்பிலுள்ள மண்ணின் அடுக்கிற்குள் நீர்ப் புகுவதிற்கு ________ என்று பெயர்.",
+    "options": [
+      "நீர் ஊடுருவல்",
+      "நீர் வழிதல்",
+      "நீர் தள்ளுதல்",
+      "நீர் கொள்ளல்"
+    ],
+    "correct": 0,
+    "question_en": "The penetration of water into the soil layer on the Earth's surface is called ________.",
+    "options_en": [
+      "Infiltration",
+      "Runoff",
+      "Water pushing",
+      "Water retention"
+    ],
+    "explanation": "புவியின் மேற்பரப்பிலுள்ள மண்ணின் அடுக்கிற்குள் நீர்ப் புகுவதிற்கு நீர் ஊடுருவல் என்று பெயர்.",
+    "explanation_en": "The penetration of water into the soil layer on the Earth's surface is called Infiltration."
+  },
+  {
+    "id": 41,
+    "question": "நீர், மண்ணின் இரண்டாவது அடுக்கிலிருந்து அல்லது புவியின் மேற்பரப்பு வழியாக ஆறுகளிலும், ஓடைகளிலும், ஏரிகளிலும் பெருங்கடலுக்குச் செல்லும் முறைக்கு ________ என்று பெயர்.",
+    "options": [
+      "ஆவி சுருங்குதல்",
+      "ஆவியாதல்",
+      "நீர் உட்கசிந்து வெளியிடுதல்",
+      "நீர் வழிந்தோடல்"
+    ],
+    "correct": 3,
+    "question_en": "The process of water moving from the second layer of soil or across the Earth's surface into rivers, streams, lakes, and oceans is called ________.",
+    "options_en": [
+      "Condensation",
+      "Evaporation",
+      "Transpiration",
+      "Runoff"
+    ],
+    "explanation": "நீர், மண்ணின் இரண்டாவது அடுக்கிலிருந்து அல்லது புவியின் மேற்பரப்பு வழியாக ஆறுகளிலும், ஓடைகளிலும், ஏரிகளிலும் பெருங்கடலுக்குச் செல்லும் முறைக்கு நீர் வழிந்தோடல் என்று பெயர்.",
+    "explanation_en": "The process of water moving from the second layer of soil or across the Earth's surface into rivers, streams, lakes, and oceans is called Runoff."
+  },
+  {
+    "id": 42,
+    "question": "நீரானது தாவரங்களின் இலைகளிலிருந்து நீராவியாக மாறுவதற்கு ________ என்று பெயர்.",
+    "options": [
+      "நீர் உட்கசிந்து வெளியிடுதல்",
+      "நீர் சுருங்குதல்",
+      "நீராவி சுருங்குதல்",
+      "பொழிவு"
+    ],
+    "correct": 0,
+    "question_en": "The process of water changing into water vapor from the leaves of plants is called ________.",
+    "options_en": [
+      "Transpiration",
+      "Condensation",
+      "Vapor condensation",
+      "Precipitation"
+    ],
+    "explanation": "நீரானது தாவரங்களின் இலைகளிலிருந்து நீராவியாக மாறுவதற்கு நீர் உட்கசிந்து வெளியிடுதல் என்று பெயர்.",
+    "explanation_en": "The process of water changing into water vapor from the leaves of plants is called Transpiration."
+  },
+  {
+    "id": 43,
+    "question": "குடிப்பதற்கு உகந்த நீரை ________ என்று அழைப்பர்.",
+    "options": [
+      "நிலத்தடி நீர்",
+      "மேற்பரப்பு நீர்",
+      "நன்னீர்",
+      "ஆர்ட்டீசியன் நீர்"
+    ],
+    "correct": 2,
+    "question_en": "Water suitable for drinking is called ________.",
+    "options_en": [
+      "Groundwater",
+      "Surface water",
+      "Fresh water",
+      "Artesian water"
+    ],
+    "explanation": "குடிப்பதற்கு உகந்த நீரை நன்னீர் என்று அழைப்பர்.",
+    "explanation_en": "Water suitable for drinking is called Fresh water."
+  },
+  {
+    "id": 44,
+    "question": "பொருந்தாத இணையைத் கண்டறிக.",
+    "options": [
+      "மழை வழிவின் கனஅளவு – ஏக்கர் அடி / கனஅடி",
+      "நீர் வழிந்தோடல் – கனஅடி / விநாடி",
+      "மழைப்பொழிவு – அங்குலம் / மி.மீ. / செ.மீ.",
+      "ஆவியாதல் – கனஅடி / விநாடி"
+    ],
+    "correct": 3,
+    "question_en": "Find the mismatched pair.",
+    "options_en": [
+      "Volume of runoff - Acre-feet / Cubic feet",
+      "Runoff - Cubic feet / second",
+      "Rainfall - Inch / mm / cm",
+      "Evaporation - Cubic feet / second"
+    ],
+    "explanation": "ஆவியாதல் – கனஅடி / விநாடி",
+    "explanation_en": "Evaporation - Cubic feet / second"
+  },
+  {
+    "id": 45,
+    "question": "சரியான கூற்றைத் தேர்வு செய்யவும்.\nநீராவியாதல் என்பது,\ni நீராவி நீராக மாறும் செயலாக்கம்\nii. நீர் நீராவியாக மாறும் செயலாக்கம்\niii. நீர் 100°C வெப்பநிலையில் கொதிக்கிறது. ஆனால் 0°C வெப்பநிலையில்ஆவியாக ஆரம்பிக்கிறது.\niv. ஆவியாதல் மேகங்கள் உருவாக காரணமாக அமைவதில்லை.",
+    "options": [
+      "i, iv சரி",
+      "ii சரி",
+      "ii, iii சரி",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement.\nEvaporation is,\ni. The process of water vapor changing into water\nii. The process of water changing into water vapor\niii. Water boils at 100°C but begins to evaporate at 0°C.\niv. Evaporation does not cause clouds to form.",
+    "options_en": [
+      "i, iv are correct",
+      "ii is correct",
+      "ii, iii are correct",
+      "All are correct"
+    ],
+    "explanation": "ii, iii சரி",
+    "explanation_en": "ii, iii are correct"
+  },
+  {
+    "id": 46,
+    "question": "பொருத்துக.\ni. தாவரங்கள் - a) மேகங்கள்\nii. நீர்சுருங்குதல் - b) கல்மழை\niii. பனித்துளி மற்றும் மழைத்துளி - c) புவியின் மேற்பரப்பு\niv. நீர் ஊடுருவுதல் - d) நீர் உட்கசிந்து வெளியிடுதல்",
+    "options": [
+      "i – d, ii – a, iii – b, iv – c",
+      "i – d, ii – b, iii – a, iv – c",
+      "i – b, ii – a, iii – d, iv – c",
+      "i – d, ii – b, iii – c, iv – a"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\ni. Plants - a) Clouds\nii. Condensation - b) Sleet\niii. Dewdrop and raindrop - c) Earth's surface\niv. Infiltration - d) Transpiration",
+    "options_en": [
+      "i - d, ii - a, iii - b, iv - c",
+      "i - d, ii - b, iii - a, iv - c",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - d, ii - b, iii - c, iv - a"
+    ],
+    "explanation": "i – d, ii – a, iii – b, iv – c",
+    "explanation_en": "i - d, ii - a, iii - b, iv - c"
+  },
+  {
+    "id": 47,
+    "question": "கூற்று: நீர்த் துளிகள் புவியின் மேற்பரப்பில் குளிர்ந்த பொருள்களின் மீது படும்போது பனி உருவாகிறது\nகாரணம்: பொருட்களின் வெப்பநிலை பனிநிலையின் வெப்ப நிலையைவிட அதிகமாக இருக்கும் போது உருவாகிறது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு",
+      "கூற்று சரி ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+      "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்குகிறது"
+    ],
+    "correct": 2,
+    "question_en": "Statement: Dew is formed when water droplets come into contact with cold objects on the Earth's surface.\nReason: It is formed when the temperature of the objects is higher than the dew point temperature.",
+    "options_en": [
+      "Both Statement and Reason are correct.",
+      "Both Statement and Reason are wrong.",
+      "Statement is correct but the Reason does not explain the Statement.",
+      "Statement is correct and the Reason explains the Statement."
+    ],
+    "explanation": "கூற்று சரி ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+    "explanation_en": "Statement is correct but the Reason does not explain the Statement."
+  },
+  {
+    "id": 48,
+    "question": "நீர்த்துளிகளும், 5 மி.மீ விட்டத்திற்கு மேல் உள்ள பனித்துளிகளும் கலந்து காணப்படும் பொழிவிற்கு ________ என்று பெயர்.",
+    "options": [
+      "ஆலங்கட்டி மழை",
+      "பனி",
+      "மழை",
+      "கல் மழை"
+    ],
+    "correct": 3,
+    "question_en": "The precipitation containing a mixture of water droplets and ice pellets larger than 5 mm in diameter is called ________.",
+    "options_en": [
+      "Hail",
+      "Snow",
+      "Rain",
+      "Sleet"
+    ],
+    "explanation": "நீர்த்துளிகளும், 5 மி.மீ விட்டத்திற்கு மேல் உள்ள பனித்துளிகளும் கலந்து காணப்படும் பொழிவிற்கு கல் மழை என்று பெயர்.",
+    "explanation_en": "The precipitation containing a mixture of water droplets and ice pellets larger than 5 mm in diameter is called Sleet."
+  }
+]

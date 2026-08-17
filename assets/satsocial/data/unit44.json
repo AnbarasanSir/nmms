@@ -1,0 +1,2242 @@
+[
+  {
+    "id": 1,
+    "question": "மனித உரிமை என்ற கருத்து ஆரம்பித்த இடம் ________.",
+    "options": [
+      "இந்தியா",
+      "தமிழ்நாடு",
+      "ஐரோப்பா",
+      "சீனா"
+    ],
+    "correct": 2,
+    "question_en": "The concept of human rights originated in ________.",
+    "options_en": [
+      "India",
+      "Tamil Nadu",
+      "Europe",
+      "China"
+    ],
+    "explanation": "மனித உரிமை என்ற கருத்து ஆரம்பித்த இடம் ஐரோப்பா.",
+    "explanation_en": "The concept of human rights originated in Europe."
+  },
+  {
+    "id": 2,
+    "question": "மனித உரிமை ஆவணங்களின் முன்னோடியாகக் கருதப்படும் ஆவணம் ________.",
+    "options": [
+      "அரசியல் சட்டங்கள்",
+      "மேக்னா கார்ட்டா",
+      "ஆங்கில உரிமைகள் மசோதா",
+      "ஐ.நா. மனித உரிமை ஆவணம்"
+    ],
+    "correct": 1,
+    "question_en": "The document considered the forerunner of human rights documents is ________.",
+    "options_en": [
+      "Constitutions",
+      "Magna Carta",
+      "English Bill of Rights",
+      "UN Human Rights Document"
+    ],
+    "explanation": "மனித உரிமை ஆவணங்களின் முன்னோடியாகக் கருதப்படும் ஆவணம் மேக்னா கார்ட்டா.",
+    "explanation_en": "The document considered the forerunner of human rights documents is Magna Carta."
+  },
+  {
+    "id": 3,
+    "question": "மனித உரிமைகளுக்கான உலகளாவிய அறிவிப்பினை வெளியிட்ட அமைப்பு எது?",
+    "options": [
+      "அமெரிக்க ஐக்கிய நாடுகள்",
+      "சார்க் நாடுகள்",
+      "ஐரோப்பிய ஒன்றியம்",
+      "ஐக்கிய நாடுகள் சபை"
+    ],
+    "correct": 3,
+    "question_en": "Which organization issued the Universal Declaration of Human Rights?",
+    "options_en": [
+      "United States of America",
+      "SAARC nations",
+      "European Union",
+      "United Nations Organization"
+    ],
+    "explanation": "மனித உரிமைகளுக்கான உலகளாவிய அறிவிப்பினை வெளியிட்ட அமைப்பு ஐக்கிய நாடுகள் சபை ஆகும்.",
+    "explanation_en": "United Nations Organization"
+  },
+  {
+    "id": 4,
+    "question": "மனித உரிமைகளுக்கான உலகளாவிய அறிவிப்பு எந்த ஆண்டு வெளியிடப்பட்டது?",
+    "options": [
+      "1945",
+      "1936",
+      "1949",
+      "1948"
+    ],
+    "correct": 3,
+    "question_en": "In which year was the Universal Declaration of Human Rights published?",
+    "options_en": [
+      "1945",
+      "1936",
+      "1949",
+      "1948"
+    ],
+    "explanation": "1948",
+    "explanation_en": "1948"
+  },
+  {
+    "id": 5,
+    "question": "உலக மனித உரிமைகள் தினம் கொண்டாடப்படும் நாள் ________.",
+    "options": [
+      "மார்ச் 8",
+      "டிசம்பர் 1",
+      "மே 1",
+      "டிசம்பர் 10"
+    ],
+    "correct": 3,
+    "question_en": "Human Rights Day is celebrated on ________.",
+    "options_en": [
+      "March 8",
+      "December 1",
+      "May 1",
+      "December 10"
+    ],
+    "explanation": "உலக மனித உரிமைகள் தினம் கொண்டாடப்படும் நாள் டிசம்பர் 10.",
+    "explanation_en": "Human Rights Day is celebrated on December 10."
+  },
+  {
+    "id": 6,
+    "question": "உலகிலேயே அதிகமாக மொழிபெயர்க்கப்பட்ட ஆவணம் ________.",
+    "options": [
+      "அமெரிக்க அரசியல் சட்டம்",
+      "மனித உரிமைகளுக்கான உலகளாவிய அறிவிப்பு",
+      "அனைத்துலக வர்த்தக ஒப்பந்தம்",
+      "ஹமுராபியின் தண்டனைச் சட்டங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "The most translated document in the world is ________.",
+    "options_en": [
+      "The American Constitution",
+      "Universal Declaration of Human Rights",
+      "International Trade Agreement",
+      "Hammurabi's Code of Law"
+    ],
+    "explanation": "உலகிலேயே அதிகமாக மொழிபெயர்க்கப்பட்ட ஆவணம் மனித உரிமைகளுக்கான உலகளாவிய அறிவிப்பு.",
+    "explanation_en": "The most translated document in the world is Universal Declaration of Human Rights."
+  },
+  {
+    "id": 7,
+    "question": "ஐக்கிய நாடுகள் சபை உருவாக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1917",
+      "1939",
+      "1945",
+      "1950"
+    ],
+    "correct": 2,
+    "question_en": "The year the United Nations Organization was established is ________.",
+    "options_en": [
+      "1917",
+      "1939",
+      "1945",
+      "1950"
+    ],
+    "explanation": "ஐக்கிய நாடுகள் சபை உருவாக்கப்பட்ட ஆண்டு 1945.",
+    "explanation_en": "The year the United Nations Organization was established is 1945."
+  },
+  {
+    "id": 8,
+    "question": "மனித உரிமைப் பிரகடனத்திலுள்ள சட்டப்பிரிவுகளின் எண்ணிக்கை ________.",
+    "options": [
+      "20",
+      "36",
+      "40",
+      "30"
+    ],
+    "correct": 3,
+    "question_en": "The number of articles in the Universal Declaration of Human Rights is ________.",
+    "options_en": [
+      "20",
+      "36",
+      "40",
+      "30"
+    ],
+    "explanation": "மனித உரிமைப் பிரகடனத்திலுள்ள சட்டப்பிரிவுகளின் எண்ணிக்கை 30.",
+    "explanation_en": "The number of articles in the Universal Declaration of Human Rights is 30."
+  },
+  {
+    "id": 9,
+    "question": "மனித உரிமையின் அடிப்படை மதிப்புகளாகக் கூறப்படுபவை ________.",
+    "options": [
+      "நீதி, நேர்மை, சட்டம்",
+      "சமூகநீதி, சகோதரத்துவம், சமதர்மம்",
+      "சமத்துவம், சமதர்மம், நேர்மை",
+      "கண்ணியம், நீதி, சமத்துவம்"
+    ],
+    "correct": 3,
+    "question_en": "The fundamental values of human rights are said to be ________.",
+    "options_en": [
+      "Justice, Honesty, Law",
+      "Social justice, Brotherhood, Socialism",
+      "Equality, Socialism, Honesty",
+      "Dignity, Justice, Equality"
+    ],
+    "explanation": "மனித உரிமையின் அடிப்படை மதிப்புகளாகக் கூறப்படுபவை கண்ணியம், நீதி, சமத்துவம்.",
+    "explanation_en": "The fundamental values of human rights are said to be Dignity, Justice, Equality."
+  },
+  {
+    "id": 10,
+    "question": "பின்வருவனவற்றுள் மனித உரிமையின் அடிப்படைப் பண்புகளில் சேராதது எது?",
+    "options": [
+      "இவை அரசால் வழங்கப்படுபவை",
+      "மாற்ற முடியாதவை",
+      "உலகளாவியவை",
+      "சார்புடையவை"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is not a basic characteristic of human rights?",
+    "options_en": [
+      "They are granted by the state",
+      "Inalienable",
+      "Universal",
+      "Interdependent"
+    ],
+    "explanation": "பின்வருவனவற்றுள் மனித உரிமையின் அடிப்படைப் பண்புகளில் சேராதது இவை அரசால் வழங்கப்படுபவை ஆகும்.",
+    "explanation_en": "They are granted by the state is not a basic characteristic of human rights."
+  },
+  {
+    "id": 11,
+    "question": "கீழ்க்காணும் கூற்றுகளில் தவறானது எது?",
+    "options": [
+      "மனித உரிமைகள் எப்போதும் தனிநபரிடமிருந்து பறிக்க முடியாதவை.",
+      "ஒருவர் தான் விரும்பிய மதத்தைப் பின்பற்றுவதற்கு அரசின் அனுமதி வேண்டும்.",
+      "ஒருவர் பேசும் கருத்து மற்றொருவரின் நலனுக்குத் தீங்கு விளைவிப்பதாக இருந்தால், அதனை மறுத்துப்பேச நமக்கு உரிமை உண்டு.",
+      "குடும்பங்களில் ஆண் குழந்தைக்கு மட்டும் சிறப்புக் கவனம் செலுத்துவது மனித உரிமைக்கும் சமத்துவத்துக்கும் எதிரானது."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is incorrect?",
+    "options_en": [
+      "Human rights can never be taken away from an individual.",
+      "One needs the government's permission to follow the religion of their choice.",
+      "If someone's statement harms another's interest, we have the right to speak against it.",
+      "Paying special attention only to the male child in families is against human rights and equality."
+    ],
+    "explanation": "ஒருவர் தான் விரும்பிய மதத்தைப் பின்பற்றுவதற்கு அரசின் அனுமதி வேண்டும்.",
+    "explanation_en": "One needs the government's permission to follow the religion of their choice."
+  },
+  {
+    "id": 12,
+    "question": "பின்வருவனவற்றுள் மனித உரிமைக்கு எதிரான து ________.",
+    "options": [
+      "கண்ணியமாக வாழ்தல்.",
+      "சாதியின் பெயரால் இழிவுபடுத்துதல்.",
+      "கருத்துச் சுதந்திரம்",
+      "பாகுபாடின்மை"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is against human rights?",
+    "options_en": [
+      "Living with dignity.",
+      "Degrading in the name of caste.",
+      "Freedom of expression",
+      "Non-discrimination"
+    ],
+    "explanation": "பின்வருவனவற்றுள் மனித உரிமைக்கு எதிரான து சாதியின் பெயரால் இழிவுபடுத்துதல்..",
+    "explanation_en": "Degrading in the name of caste. is against human rights."
+  },
+  {
+    "id": 13,
+    "question": "நாடுகளுக்கும், அரசுகளின் கொள்கைகளுக்கும் ஏற்ப மனித உரிமைகள்",
+    "options": [
+      "அவ்வப்போது மாறுபவை.",
+      "மாறாதவை.",
+      "நீக்கப்படுபவை.",
+      "நாட்டுக்கு நாடு வேறுபடுபவை."
+    ],
+    "correct": 1,
+    "question_en": "According to countries and government policies, human rights",
+    "options_en": [
+      "Change from time to time.",
+      "Are unchangeable.",
+      "Are removable.",
+      "Differ from country to country."
+    ],
+    "explanation": "மாறாதவை.",
+    "explanation_en": "Are unchangeable."
+  },
+  {
+    "id": 14,
+    "question": "The fullform of \"UNIFEM\" is",
+    "options": [
+      "United Nations Development Fund for Wild animals.",
+      "United Nations Development Fund for Windmills.",
+      "United Nations Development Fund for Women.",
+      "United Nations Development Fund for Wolves."
+    ],
+    "correct": 2,
+    "question_en": "The fullform of \"UNIFEM\" is",
+    "options_en": [
+      "United Nations Development Fund for Wild animals.",
+      "United Nations Development Fund for Windmills.",
+      "United Nations Development Fund for Women.",
+      "United Nations Development Fund for Wolves."
+    ],
+    "explanation": "United Nations Development Fund for Women.",
+    "explanation_en": "United Nations Development Fund for Women."
+  },
+  {
+    "id": 15,
+    "question": "மனித உரிமை என்ற கருத்துக்குள் பொருந்தாதது ________.",
+    "options": [
+      "பேச்சுரிமை",
+      "வாழ்வதற்கான உரிமை",
+      "குற்றத்துக்கு ஏற்ற தண்டனை",
+      "கட்டாயத் தொழிலாளர் முறை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following does not fit into the concept of human rights?",
+    "options_en": [
+      "Freedom of speech",
+      "Right to life",
+      "Punishment proportionate to the crime",
+      "Forced labor system"
+    ],
+    "explanation": "மனித உரிமை என்ற கருத்துக்குள் பொருந்தாதது கட்டாயத் தொழிலாளர் முறை.",
+    "explanation_en": "Forced labor system"
+  },
+  {
+    "id": 16,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடு.",
+    "options": [
+      "மனித உரிமைகளின் வரையறை நாட்டுக்கு நாடு வேறுபடுகிறது.",
+      "அதிகாரத்தில் உள்ளோர் தம் விருப்பத்துக்கேற்ப வழங்குவதே சாமானியர்களின் வாழ்வுரிமை ஆகும்.",
+      "குற்றம் சாட்டப்படும் ஒருவருக்குத் தன்மேல் சுமத்தப்பட்ட குற்றச்சாட்டின் மேல் நேர்மையான விசாரணை நடத்துமாறு கோர உரிமை உண்டு.",
+      "காவல்துறையால் கைது செய்யப்படுபவர்கள் அனைவரும் குற்றவாளிகளே."
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement.",
+    "options_en": [
+      "The definition of human rights varies from country to country.",
+      "The right to life of commoners is what those in power grant according to their wishes.",
+      "An accused person has the right to demand a fair trial for the charges leveled against them.",
+      "Everyone arrested by the police is a criminal."
+    ],
+    "explanation": "குற்றம் சாட்டப்படும் ஒருவருக்குத் தன்மேல் சுமத்தப்பட்ட குற்றச்சாட்டின் மேல் நேர்மையான விசாரணை நடத்துமாறு கோர உரிமை உண்டு.",
+    "explanation_en": "An accused person has the right to demand a fair trial for the charges leveled against them."
+  },
+  {
+    "id": 17,
+    "question": "தேர்தலில் வாக்களிக்கும் உரிமை என்பது ________.",
+    "options": [
+      "கருத்துரிமை",
+      "வாழ்வதற்கான உரிமை",
+      "அரசியல் உரிமை",
+      "புரட்சிக்கான உரிமை"
+    ],
+    "correct": 2,
+    "question_en": "The right to vote in an election is a ________.",
+    "options_en": [
+      "Freedom of expression",
+      "Right to life",
+      "Political right",
+      "Right to rebel"
+    ],
+    "explanation": "தேர்தலில் வாக்களிக்கும் உரிமை என்பது அரசியல் உரிமை.",
+    "explanation_en": "The right to vote in an election is a Political right."
+  },
+  {
+    "id": 18,
+    "question": "மனித உரிமைகள் ஆணையத்தின் தலைவராக இருந்த எலினார் அம்மையாரின் கணவர் யார்?",
+    "options": [
+      "தியோடார் ரூஸ்வெல்ட்",
+      "பிராங்க்ளின் டி. ரூஸ்வெல்ட்",
+      "ரூதர்போர்டு",
+      "பராக் ஒபாமா"
+    ],
+    "correct": 1,
+    "question_en": "Who was the husband of Mrs. Eleanor, who chaired the Human Rights Commission?",
+    "options_en": [
+      "Theodore Roosevelt",
+      "Franklin D. Roosevelt",
+      "Rutherford",
+      "Barack Obama"
+    ],
+    "explanation": "மனித உரிமைகள் ஆணையத்தின் தலைவராக இருந்த எலினார் அம்மையாரின் கணவர் பிராங்க்ளின் டி. ரூஸ்வெல்ட்.",
+    "explanation_en": "Franklin D. Roosevelt was the husband of Mrs. Eleanor, who chaired the Human Rights Commission."
+  },
+  {
+    "id": 19,
+    "question": "சிவில் அல்லது வாழ்வியல் உரிமைகள் ________.",
+    "options": [
+      "நாட்டுக்கு நாடு வேறுபடும்.",
+      "நாடுகளுக்கிடையே ஒப்பந்தங்கள் மூலம் நிர்ணயிக்கப்படும்.",
+      "உலகம் முழுவதும் ஒரே மாதிரியானவை.",
+      "இயற்கையாக அமையப் பெற்றவை."
+    ],
+    "correct": 0,
+    "question_en": "Civil rights ________.",
+    "options_en": [
+      "Vary from country to country.",
+      "Are determined through agreements between countries.",
+      "Are uniform all over the world.",
+      "Are inherently natural."
+    ],
+    "explanation": "சிவில் அல்லது வாழ்வியல் உரிமைகள் நாட்டுக்கு நாடு வேறுபடும்..",
+    "explanation_en": "Civil rights Vary from country to country.."
+  },
+  {
+    "id": 20,
+    "question": "UDHR என்பது ________.",
+    "options": [
+      "பெண்களுக்கான ஐக்கிய நாடுகளின் மேம்பாட்டு நிதி அமைப்பு",
+      "உலக மனித உரிமைகள் பிரகடனம்",
+      "மாநில மனித உரிமைகள் ஆணையம்",
+      "தேசிய மனித உரிமைகள் ஆணையம்"
+    ],
+    "correct": 1,
+    "question_en": "UDHR stands for ________.",
+    "options_en": [
+      "United Nations Development Fund for Women",
+      "Universal Declaration of Human Rights",
+      "State Human Rights Commission",
+      "National Human Rights Commission"
+    ],
+    "explanation": "UDHR என்பது உலக மனித உரிமைகள் பிரகடனம்.",
+    "explanation_en": "UDHR stands for Universal Declaration of Human Rights."
+  },
+  {
+    "id": 21,
+    "question": "மனித உரிமையில் அடங்காதது ________.",
+    "options": [
+      "வழிபடும் உரிமை",
+      "பொருளாதார உரிமை",
+      "அனுமதியின்றி நாடுகளுக்கிடையே பயணிப்பது",
+      "வாக்களிக்கும் உரிமை"
+    ],
+    "correct": 2,
+    "question_en": "Which is not included in human rights?",
+    "options_en": [
+      "Right to worship",
+      "Economic rights",
+      "Traveling between countries without permission",
+      "Right to vote"
+    ],
+    "explanation": "மனித உரிமையில் அடங்காதது அனுமதியின்றி நாடுகளுக்கிடையே பயணிப்பது.",
+    "explanation_en": "Traveling between countries without permission is not included in human rights."
+  },
+  {
+    "id": 22,
+    "question": "இந்தியாவில் தேசிய மனித உரிமைகள் ஆணையம் நிறுவப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1991",
+      "1993",
+      "1965",
+      "1998"
+    ],
+    "correct": 1,
+    "question_en": "The year the National Human Rights Commission was established in India is ________.",
+    "options_en": [
+      "1991",
+      "1993",
+      "1965",
+      "1998"
+    ],
+    "explanation": "இந்தியாவில் தேசிய மனித உரிமைகள் ஆணையம் நிறுவப்பட்ட ஆண்டு 1993.",
+    "explanation_en": "The year the National Human Rights Commission was established in India is 1993."
+  },
+  {
+    "id": 23,
+    "question": "தேசிய மனித உரிமைகள் ஆணையத்தின் தலைவர் மற்றும் உறுப்பினர்கள் ________.",
+    "options": [
+      "மக்களால் தேர்ந்தெடுக்கப்படுகிறார்கள்.",
+      "குடியரசுத் தலைவரால் நியமிக்கப்படுகிறார்கள்.",
+      "ஐ.நா. சபையால் நியமிக்கப்படுகிறார்கள்.",
+      "அரசு அதிகாரிகளால் நியமிக்கப்படுகிறார்கள்."
+    ],
+    "correct": 1,
+    "question_en": "The Chairperson and Members of the National Human Rights Commission ________.",
+    "options_en": [
+      "Are elected by the people.",
+      "Are appointed by the President.",
+      "Are appointed by the UN.",
+      "Are appointed by government officials."
+    ],
+    "explanation": "தேசிய மனித உரிமைகள் ஆணையத்தின் தலைவர் மற்றும் உறுப்பினர்கள் குடியரசுத் தலைவரால் நியமிக்கப்படுகிறார்கள்..",
+    "explanation_en": "The Chairperson and Members of the National Human Rights Commission Are appointed by the President.."
+  },
+  {
+    "id": 24,
+    "question": "SHRC என்பது ___________.",
+    "options": [
+      "பெண்களுக்கான ஐக்கிய நாடுகளின் மேம்பாட்டு நிதி அமைப்பு",
+      "உலக மனித உரிமைகள் பிரகடனம்",
+      "மாநில மனித உரிமைகள் ஆணையம்",
+      "தேசிய மனித உரிமைகள் ஆணையம்"
+    ],
+    "correct": 2,
+    "question_en": "SHRC means ___________.",
+    "options_en": [
+      "United Nations Development Fund for Women",
+      "Universal Declaration of Human Rights",
+      "State Human Rights Commission",
+      "National Human Rights Commission"
+    ],
+    "explanation": "SHRC என்பது மாநில மனித உரிமைகள் ஆணையம்.",
+    "explanation_en": "SHRC means State Human Rights Commission."
+  },
+  {
+    "id": 25,
+    "question": "இந்தியாவில் மனித உரிமைகள் ஆணையத்தின் தலைவராக யார் தேர்ந்தெடுக்கப்படுகிறார்?",
+    "options": [
+      "மனித உரிமை செயற்பாட்டாளர்",
+      "ஓய்வுபெற்ற உச்சநீதிமன்றத் தலைமை நீதிபதி",
+      "குடியரசுத்தலைவர் விரும்பிய யாரேனும் ஒருவர்",
+      "ஓய்வு பெற்ற உயர்நீதிமன்ற நீதிபதி"
+    ],
+    "correct": 1,
+    "question_en": "Who is appointed as the Chairperson of the Human Rights Commission in India?",
+    "options_en": [
+      "Human rights activist",
+      "Retired Chief Justice of the Supreme Court",
+      "Anyone desired by the President",
+      "Retired High Court Judge"
+    ],
+    "explanation": "ஓய்வுபெற்ற உச்சநீதிமன்றத் தலைமை நீதிபதி",
+    "explanation_en": "Retired Chief Justice of the Supreme Court is appointed as the Chairperson of the Human Rights Commission in India."
+  },
+  {
+    "id": 26,
+    "question": "குழந்தைத் தொழிலாளர் முறையைத் தடை செய்யும் இந்திய அரசியலமைப்புச் சட்டப் பிரிவு",
+    "options": [
+      "பிரிவு 246",
+      "பிரிவு 356",
+      "பிரிவு 24",
+      "பிரிவு 45"
+    ],
+    "correct": 2,
+    "question_en": "The Article of the Indian Constitution that prohibits child labor is",
+    "options_en": [
+      "Article 246",
+      "Article 356",
+      "Article 24",
+      "Article 45"
+    ],
+    "explanation": "பிரிவு 24",
+    "explanation_en": "Article 24"
+  },
+  {
+    "id": 27,
+    "question": "மனித உரிமைகளைப் பாதுகாக்கவும், மனித உரிமை மீறல்களை முடிவுக்குக் கொண்டுவரவும் முயற்சிக்கும் அரசு சாரா நிறுவனம் ________.",
+    "options": [
+      "யுனெஸ்கோ",
+      "செஞ்சிலுவைச் சங்கம்",
+      "பீட்டா",
+      "ஆம்னஸ்டி இன்டர்நேஷனல்"
+    ],
+    "correct": 3,
+    "question_en": "The non-governmental organization that strives to protect human rights and end human rights abuses is ________.",
+    "options_en": [
+      "UNESCO",
+      "Red Cross Society",
+      "PETA",
+      "Amnesty International"
+    ],
+    "explanation": "மனித உரிமைகளைப் பாதுகாக்கவும், மனித உரிமை மீறல்களை முடிவுக்குக் கொண்டுவரவும் முயற்சிக்கும் அரசு சாரா நிறுவனம் ஆம்னஸ்டி இன்டர்நேஷனல்.",
+    "explanation_en": "The non-governmental organization that strives to protect human rights and end human rights abuses is Amnesty International."
+  },
+  {
+    "id": 28,
+    "question": "பொருந்தாததைக் கண்டுபிடி.",
+    "options": [
+      "குழந்தைகள் பாதுகாப்பு நிதியம்",
+      "உலக சுகாதார நிறுவனம்",
+      "மனித உரிமைகள் கண்காணிப்பகம்",
+      "ஆம்னஸ்டி இன்டர்நேஷனல்"
+    ],
+    "correct": 1,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Children's Defense Fund",
+      "World Health Organization",
+      "Human Rights Watch",
+      "Amnesty International"
+    ],
+    "explanation": "உலக சுகாதார நிறுவனம்",
+    "explanation_en": "World Health Organization"
+  },
+  {
+    "id": 29,
+    "question": "குழந்தை என்ற வரையறைக்குள் வருபவர்கள் ________.",
+    "options": [
+      "0-18 வயதுடையோர்",
+      "0-14 வயதுடையோர்",
+      "0-10 வயதுடையோர்",
+      "0-21 வயதுடையோர்"
+    ],
+    "correct": 0,
+    "question_en": "Those who fall under the definition of a child are ________.",
+    "options_en": [
+      "0-18 years old",
+      "0-14 years old",
+      "0-10 years old",
+      "0-21 years old"
+    ],
+    "explanation": "குழந்தை என்ற வரையறைக்குள் வருபவர்கள் 0-18 வயதுடையோர்.",
+    "explanation_en": "Those who fall under the definition of a child are 0-18 years old."
+  },
+  {
+    "id": 30,
+    "question": "ஐ.நா. சபையால் சர்வதேசக் குழந்தைகள் ஆண்டாக அறிவிக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1979",
+      "1989",
+      "2009",
+      "2019"
+    ],
+    "correct": 0,
+    "question_en": "The year declared as the International Year of the Child by the UN is ________.",
+    "options_en": [
+      "1979",
+      "1989",
+      "2009",
+      "2019"
+    ],
+    "explanation": "ஐ.நா. சபையால் சர்வதேசக் குழந்தைகள் ஆண்டாக அறிவிக்கப்பட்ட ஆண்டு 1979.",
+    "explanation_en": "The year declared as the International Year of the Child by the UN is 1979."
+  },
+  {
+    "id": 31,
+    "question": "கீழ்க்கண்டவற்றில் எந்த அமைப்பின் தலைவர் தேசிய மனித உரிமை ஆணையத்தில் நேரிணை உறுப்பினராக இல்லை?",
+    "options": [
+      "சிறுபான்மையினருக்கான தேசிய ஆணையம்",
+      "பட்டியல் சமூகத்திற்கான தேசிய ஆணையம்",
+      "பழங்குடியினருக்கான தேசிய ஆணையம்",
+      "மாற்றுத் திறனாளிகளுக்கான தேசிய ஆணையம்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following organization's chairperson is not an ex-officio member of the National Human Rights Commission?",
+    "options_en": [
+      "National Commission for Minorities",
+      "National Commission for Scheduled Castes",
+      "National Commission for Scheduled Tribes",
+      "National Commission for Persons with Disabilities"
+    ],
+    "explanation": "மாற்றுத் திறனாளிகளுக்கான தேசிய ஆணையம்",
+    "explanation_en": "National Commission for Persons with Disabilities"
+  },
+  {
+    "id": 32,
+    "question": "6 முதல் 14 வரையிலான அனைத்துக் குழந்தைகளுக்கும் இலவசக் கட்டாயக்கல்வி வழங்க வகை செய்யும் சட்டம் _______.",
+    "options": [
+      "குழந்தைத் தொழிலாளர் தடைச் சட்டம்",
+      "தொழிலாளர் நல உரிமைச் சட்டம்",
+      "கல்வி உரிமைச் சட்டம்",
+      "சிறார் நீதிச்சட்டம்"
+    ],
+    "correct": 2,
+    "question_en": "The act that provides for free and compulsory education for all children between 6 and 14 years is _______.",
+    "options_en": [
+      "Child Labour Prohibition Act",
+      "Labour Welfare Rights Act",
+      "Right to Education Act",
+      "Juvenile Justice Act"
+    ],
+    "explanation": "6 முதல் 14 வரையிலான அனைத்துக் குழந்தைகளுக்கும் இலவசக் கட்டாயக்கல்வி வழங்க வகை செய்யும் சட்டம் கல்வி உரிமைச் சட்டம்.",
+    "explanation_en": "The act that provides for free and compulsory education for all children between 6 and 14 years is Right to Education Act."
+  },
+  {
+    "id": 33,
+    "question": "பாலியல் குற்றங்களிலிருந்து குழந்தைகளைப் பாதுகாக்க இயற்றப்பட்ட சட்டம்",
+    "options": [
+      "இந்திய தண்டனைச் சட்டம்",
+      "சிறார் நலன் சட்டம்",
+      "தொழிலாளர் மேம்பாட்டுச் சட்டம்",
+      "போக்சோ சட்டம்"
+    ],
+    "correct": 3,
+    "question_en": "The law enacted to protect children from sexual offenses is",
+    "options_en": [
+      "Indian Penal Code",
+      "Juvenile Welfare Act",
+      "Labour Development Act",
+      "POCSO Act"
+    ],
+    "explanation": "போக்சோ சட்டம்",
+    "explanation_en": "POCSO Act"
+  },
+  {
+    "id": 34,
+    "question": "எந்த வயதுக்குக் கீழுள்ள குழந்தைகளைப் பணிக்கு அமர்த்துவது சட்டப்படிக் குற்றம்?",
+    "options": [
+      "10",
+      "18",
+      "15",
+      "16"
+    ],
+    "correct": 2,
+    "question_en": "Employing children below what age is a legal offense?",
+    "options_en": [
+      "10",
+      "18",
+      "15",
+      "16"
+    ],
+    "explanation": "15",
+    "explanation_en": "15"
+  },
+  {
+    "id": 35,
+    "question": "குழந்தைகளுக்கு எதிரான அநீதிகளைப் புகாரளிக்க உருவாக்கப்பட்ட உதவி மையத்தின் தொலைபேசி எண் ________.",
+    "options": [
+      "108",
+      "101",
+      "1008",
+      "1098"
+    ],
+    "correct": 3,
+    "question_en": "The helpline number created to report injustices against children is ________.",
+    "options_en": [
+      "108",
+      "101",
+      "1008",
+      "1098"
+    ],
+    "explanation": "குழந்தைகளுக்கு எதிரான அநீதிகளைப் புகாரளிக்க உருவாக்கப்பட்ட உதவி மையத்தின் தொலைபேசி எண் 1098.",
+    "explanation_en": "The helpline number created to report injustices against children is 1098."
+  },
+  {
+    "id": 36,
+    "question": "தமிழ்நாடு மனித உரிமைகள் ஆணையத் தலைமையகம் அமைந்துள்ள இடம்",
+    "options": [
+      "புதுடெல்லி",
+      "சென்னை",
+      "மும்பை",
+      "கொள்ளுத்தா"
+    ],
+    "correct": 1,
+    "question_en": "The headquarters of the Tamil Nadu State Human Rights Commission is located in",
+    "options_en": [
+      "New Delhi",
+      "Chennai",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "explanation": "சென்னை",
+    "explanation_en": "Chennai"
+  },
+  {
+    "id": 37,
+    "question": "தவறான கூற்றைக் கண்டறியவும். தேசிய மனித உரிமைகள் ஆணையம் என்பது",
+    "options": [
+      "ஒரு சட்ட ரீதியான அமைப்பு.",
+      "ஓர் அரசியலமைப்பு சார்ந்த அமைப்பு",
+      "ஒரு சுதந்திரமான அமைப்பு.",
+      "பலதரப்பு நிறுவனங்களைக் கொண்டது."
+    ],
+    "correct": 1,
+    "question_en": "Identify the incorrect statement. The National Human Rights Commission is",
+    "options_en": [
+      "A statutory body.",
+      "A constitutional body.",
+      "An independent body.",
+      "A multi-member institution."
+    ],
+    "explanation": "ஓர் அரசியலமைப்பு சார்ந்த அமைப்பு",
+    "explanation_en": "A constitutional body."
+  },
+  {
+    "id": 38,
+    "question": "தேசிய மனித உரிமைகள் ஆணையத் தலைவரின் பதவிக்காலம் என்ன?",
+    "options": [
+      "5 ஆண்டுகள் அல்லது 62 வயது வரை.",
+      "5 ஆண்டுகள் அல்லது 65 வயது வரை",
+      "6 ஆண்டுகள் அல்லது 65 வயது வரை.",
+      "5 ஆண்டுகள் அல்லது 70 வயது வரை."
+    ],
+    "correct": 3,
+    "question_en": "What is the tenure of the Chairperson of the National Human Rights Commission?",
+    "options_en": [
+      "5 years or up to 62 years of age.",
+      "5 years or up to 65 years of age.",
+      "6 years or up to 65 years of age.",
+      "5 years or up to 70 years of age."
+    ],
+    "explanation": "5 ஆண்டுகள் அல்லது 70 வயது வரை.",
+    "explanation_en": "5 years or up to 70 years of age. is the tenure of the Chairperson of the National Human Rights Commission."
+  },
+  {
+    "id": 39,
+    "question": "பெண்களின் திருமண வயது 21 என நிர்ணயித்த சட்டம் ________.",
+    "options": [
+      "பெண்கள் சொத்துரிமைச்சட்டம்",
+      "இந்து திருமணச்சட்டம்",
+      "குழந்தைத் தொழிலாளர் சட்டம்",
+      "கல்வி உரிமைச் சட்டம்"
+    ],
+    "correct": 1,
+    "question_en": "The law that fixed the marriage age for women at 21 is ________.",
+    "options_en": [
+      "Women's Property Rights Act",
+      "Hindu Marriage Act",
+      "Child Labour Act",
+      "Right to Education Act"
+    ],
+    "explanation": "பெண்களின் திருமண வயது 21 என நிர்ணயித்த சட்டம் இந்து திருமணச்சட்டம்.",
+    "explanation_en": "The law that fixed the marriage age for women at 21 is Hindu Marriage Act."
+  },
+  {
+    "id": 40,
+    "question": "பெண்களைப் பாதுகாக்கும் வகையில் குடும்ப வன்முறைத் தடுப்புச்சட்டம் இயற்றப்பட்ட ஆண்டு",
+    "options": [
+      "2002",
+      "2005",
+      "2015",
+      "1995"
+    ],
+    "correct": 1,
+    "question_en": "The year the Protection of Women from Domestic Violence Act was passed is",
+    "options_en": [
+      "2002",
+      "2005",
+      "2015",
+      "1995"
+    ],
+    "explanation": "2005",
+    "explanation_en": "2005"
+  },
+  {
+    "id": 41,
+    "question": "உலக மனித உரிமைகள் தினம் டிசம்பர் 10ல் கொண்டாடப்படுவதற்கான காரணம் ________.",
+    "options": [
+      "ஐ.நா.சபை உருவான நாள்",
+      "இரண்டாம் உலகப்போர் முடிவுற்ற நாள்",
+      "எலினார் ரூஸ்வெல்ட் பிறந்த நாள்",
+      "ஐ.நா.சபை மனித உரிமைப் பிரகடனத்தை வெளியிட்ட நாள்"
+    ],
+    "correct": 3,
+    "question_en": "The reason World Human Rights Day is celebrated on December 10 is ________.",
+    "options_en": [
+      "The day UN was formed",
+      "The day World War II ended",
+      "Eleanor Roosevelt's birthday",
+      "The day the UN issued the Universal Declaration of Human Rights"
+    ],
+    "explanation": "உலக மனித உரிமைகள் தினம் டிசம்பர் 10ல் கொண்டாடப்படுவதற்கான காரணம் ஐ.நா.சபை மனித உரிமைப் பிரகடனத்தை வெளியிட்ட நாள்.",
+    "explanation_en": "The reason World Human Rights Day is celebrated on December 10 is The day the UN issued the Universal Declaration of Human Rights."
+  },
+  {
+    "id": 42,
+    "question": "பின்வரும் கூற்றுகளை ஆராய்க.\nகூற்று (i): மனித உரிமைகள் என்பவை ஒவ்வொரு மனிதருக்குமான சமத்துவம் மற்றும் கண்ணியம் பற்றியதாகும்.\nகூற்று (ii): பெற்றோரின் பூர்வீகச் சொத்துகளில் பெண் குழந்தைகளுக்கும் சம உரிமை உண்டு.\nகூற்று (iii): தேசிய மனித உரிமைகள் ஆணையத்தின் தலைவர் பொறுப்பினை இந்தியப் பிரதமரே ஏற்றுள்ளார்.\nகூற்று (iv): வயதான பெற்றோரைப் பராமரித்துக் காப்பாற்றுவது அவர்களது பிள்ளைகளின் கடமையாகும்.",
+    "options": [
+      "i, ii சரி, iii, iv தவறு",
+      "i, ii, iii சரி, iv தவறு",
+      "i, ii, iv சரி, iii தவறு",
+      "i, ii தவறு, iii, iv சரி"
+    ],
+    "correct": 2,
+    "question_en": "Examine the following statements.\nStatement (i): Human rights are about equality and dignity for every human being.\nStatement (ii): Female children have equal rights in parents' ancestral properties.\nStatement (iii): The Prime Minister of India assumes the post of the Chairperson of the National Human Rights Commission.\nStatement (iv): It is the duty of children to take care of and protect their elderly parents.",
+    "options_en": [
+      "i, ii are correct, iii, iv are wrong",
+      "i, ii, iii are correct, iv is wrong",
+      "i, ii, iv are correct, iii is wrong",
+      "i, ii are wrong, iii, iv are correct"
+    ],
+    "explanation": "i, ii, iv சரி, iii தவறு",
+    "explanation_en": "i, ii, iv are correct, iii is wrong"
+  },
+  {
+    "id": 43,
+    "question": "கீழ்க்காணும் கூற்றுகளில் தவறான கூற்றுகள் எவை?\ni. மனித உரிமைகள் மற்றும் வாழ்வியல் உரிமைகள் ஒரே மாதிரியானவை.\nii. மனித உரிமைகள் - பிறப்பின் அடிப்படையில் இயற்கையாக அமையப் பெற்ற உரிமைகள்.\niii. மனித உரிமைகளின் பாதுகாப்பை உறுதி செய்வதற்காகத் தேசிய, மாநில அளவிலான மனித உரிமைகள் ஆணையம் நிறுவப்பட்டுள்ளது.\niv. பாதிக்கப்பட்டவர்களுக்குத் தண்டனை வழங்க, தேசிய மனித உரிமைகள் ஆணையம் அதிகாரம் பெற்றுள்ளது.",
+    "options": [
+      "i, iv",
+      "i, iii",
+      "ii, iv",
+      "i, ii"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following statements are incorrect?\ni. Human rights and civil rights are the same.\nii. Human rights are natural rights acquired by birth.\niii. National and State Human Rights Commissions have been established to ensure the protection of human rights.\niv. The National Human Rights Commission has the power to punish the offenders.",
+    "options_en": [
+      "i, iv",
+      "i, iii",
+      "ii, iv",
+      "i, ii"
+    ],
+    "explanation": "i, iv",
+    "explanation_en": "i, iv"
+  },
+  {
+    "id": 44,
+    "question": "சிவில் அல்லது வாழ்வியல் உரிமைகள் ________ அடிப்படையில் அமையப் பெற்றவை ஆகும்.",
+    "options": [
+      "அதிகாரத்தின்",
+      "அரசியல் அமைப்புச் சட்டத்தின்",
+      "இயற்கை நியாயத்தின்",
+      "ஆட்சி செய்வோர் விருப்பத்தின்"
+    ],
+    "correct": 1,
+    "question_en": "Civil rights are based on ________.",
+    "options_en": [
+      "Power",
+      "The Constitution",
+      "Natural justice",
+      "The will of the rulers"
+    ],
+    "explanation": "சிவில் அல்லது வாழ்வியல் உரிமைகள் அரசியல் அமைப்புச் சட்டத்தின் அடிப்படையில் அமையப் பெற்றவை ஆகும்.",
+    "explanation_en": "Civil rights are based on The Constitution."
+  },
+  {
+    "id": 45,
+    "question": "எது தவறான கூற்று? மனித உரிமை அமைப்புகள் என்பவை ________.",
+    "options": [
+      "அரசாங்கங்களின் மனித உரிமை மீறல் நடவடிக்கைகளைக் கண்காணிக்கின்றன.",
+      "மனித உரிமைகளை மதிக்கும்படி வலியுறுத்துகின்றன.",
+      "மனித உரிமைகளுக்குச் சட்ட அங்கீகாரம் கிடைக்க முயற்சி செய்கின்றன.",
+      "நாடுகளுக்கிடையே வர்த்தகம் செய்கின்றன."
+    ],
+    "correct": 3,
+    "question_en": "Which is an incorrect statement? Human rights organizations ________.",
+    "options_en": [
+      "Monitor the human rights violation activities of governments.",
+      "Urge respect for human rights.",
+      "Strive to get legal recognition for human rights.",
+      "Trade between countries."
+    ],
+    "explanation": "நாடுகளுக்கிடையே வர்த்தகம் செய்கின்றன.",
+    "explanation_en": "Which is an incorrect statement? Human rights organizations Trade between countries.."
+  },
+  {
+    "id": 46,
+    "question": "பொருத்துக.\n(i) ஐ.நா.சபை மனித உரிமைப் பிரகடனம் - A. 1997\n(ii) இந்திய தேசிய மனித உரிமைகள் ஆணையம் - B. 2012\n(iii) போக்சோ சட்டம் - C. 1993\n(iv) தமிழ்நாடு மாநில மனித உரிமைகள் ஆணையம் - D. 1948",
+    "options": [
+      "i - A, ii - C, iii - D, iv - B",
+      "i - A, ii - B, iii - D, iv - C",
+      "i - C, ii - D, iii - A, iv - B",
+      "i - D, ii - C, iii - B, iv - A"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\n(i) UN Universal Declaration of Human Rights - A. 1997\n(ii) National Human Rights Commission of India - B. 2012\n(iii) POCSO Act - C. 1993\n(iv) Tamil Nadu State Human Rights Commission - D. 1948",
+    "options_en": [
+      "i - A, ii - C, iii - D, iv - B",
+      "i - A, ii - B, iii - D, iv - C",
+      "i - C, ii - D, iii - A, iv - B",
+      "i - D, ii - C, iii - B, iv - A"
+    ],
+    "explanation": "i - D, ii - C, iii - B, iv - A",
+    "explanation_en": "i - D, ii - C, iii - B, iv - A"
+  },
+  {
+    "id": 47,
+    "question": "கீழ்க்காணும் கூற்றுகளில் சரியான கூற்று/ கூற்றுகள் எவை?\ni சிவில் உரிமைகள் என்பன பிறப்புடன் உள்ளார்ந்த அடிப்படை உரிமைகளாகும்.\nii குழந்தை ஒரு முக்கியமான தேசியச் சொத்தாகக் கருதப்படுகிறார்கள்.\niii பிரிவு 39(f) குழந்தைத் தொழிலாளர் முறையைத் தடை செய்கிறது.\niv 15 வயது பூர்த்தியடையாத எந்த ஒரு குழந்தையையும் வேலைக்கு அமர்த்தலாம்.",
+    "options": [
+      "i, iv",
+      "i, iii, iv",
+      "ii மட்டும்",
+      "i தவிர அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statement(s) is/are correct?\ni. Civil rights are fundamental rights inherent with birth.\nii. Children are considered an important national asset.\niii. Article 39(f) prohibits child labor.\niv. Any child who has not completed 15 years of age can be employed.",
+    "options_en": [
+      "i, iv",
+      "i, iii, iv",
+      "ii only",
+      "All except i"
+    ],
+    "explanation": "ii மட்டும்",
+    "explanation_en": "ii only"
+  },
+  {
+    "id": 48,
+    "question": "கூற்று: குழந்தைகள் தேசியச் சொத்தாகக் கருதப்படுகிறார்கள்.\nகாரணம்: பெற்றோரின் சொத்துகள் குழந்தைகளுக்குச் சென்று சேர்வதால் அவர்கள் தேசியச் சொத்தாக இருக்கிறார்கள்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று காரணம் இரண்டும் சரி",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று, காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Children are considered a national asset.\nReason: They are a national asset because their parents' properties pass on to them.",
+    "options_en": [
+      "Assertion is correct, Reason is wrong",
+      "Both Assertion and Reason are correct",
+      "Assertion is wrong, Reason is correct",
+      "Both Assertion and Reason are wrong"
+    ],
+    "explanation": "கூற்று சரி, காரணம் தவறு",
+    "explanation_en": "Assertion is correct, Reason is wrong"
+  },
+  {
+    "id": 49,
+    "question": "18 வயதுக்குக் கீழுள்ள பெண் குழந்தைக்குத் திருமண ஏற்பாடு செய்யப்பட்டால் அது குறித்து ரகசியமாகப் புகாரளிக்க அழைக்க வேண்டிய தொலைபேசி எண் ________.",
+    "options": [
+      "1088",
+      "1098",
+      "1089",
+      "1099"
+    ],
+    "correct": 1,
+    "question_en": "The telephone number to call to report secretly if a marriage is arranged for a girl child below 18 years of age is ________.",
+    "options_en": [
+      "1088",
+      "1098",
+      "1089",
+      "1099"
+    ],
+    "explanation": "18 வயதுக்குக் கீழுள்ள பெண் குழந்தைக்குத் திருமண ஏற்பாடு செய்யப்பட்டால் அது குறித்து ரகசியமாகப் புகாரளிக்க அழைக்க வேண்டிய தொலைபேசி எண் 1098.",
+    "explanation_en": "The telephone number to call to report secretly if a marriage is arranged for a girl child below 18 years of age is 1098."
+  },
+  {
+    "id": 50,
+    "question": "இரண்டாம் உலகப் போருக்குப் பின் மனித உரிமைகளைப் பாதுகாக்க பல நடவடிக்கைகளை எடுத்துள்ள அமைப்பு எது?",
+    "options": [
+      "ஐ.நா. சபை",
+      "உச்ச நீதிமன்றம்",
+      "சர்வதேச நீதிமன்றம்",
+      "இவைகளில் எதுவும் இல்லை"
+    ],
+    "correct": 0,
+    "question_en": "Which organization has taken several steps to protect human rights after World War II?",
+    "options_en": [
+      "UNO",
+      "Supreme Court",
+      "International Court of Justice",
+      "None of these"
+    ],
+    "explanation": "இரண்டாம் உலகப் போருக்குப் பின் மனித உரிமைகளைப் பாதுகாக்க பல நடவடிக்கைகளை எடுத்துள்ள அமைப்பு ஐ.நா. சபை ஆகும்.",
+    "explanation_en": "UNO"
+  },
+  {
+    "id": 51,
+    "question": "1995 ஆம் ஆண்டில் உலகம் முழுவதிலும் இருந்து பெண்கள் கூடிய இடம் ________.",
+    "options": [
+      "நியூ டெல்லி",
+      "சென்னை",
+      "பெய்ஜிங்",
+      "டார்ஜிலிங்"
+    ],
+    "correct": 2,
+    "question_en": "The place where women from all over the world gathered in 1995 is ________.",
+    "options_en": [
+      "New Delhi",
+      "Chennai",
+      "Beijing",
+      "Darjeeling"
+    ],
+    "explanation": "1995 ஆம் ஆண்டில் உலகம் முழுவதிலும் இருந்து பெண்கள் கூடிய இடம் பெய்ஜிங்.",
+    "explanation_en": "The place where women from all over the world gathered in 1995 is Beijing."
+  },
+  {
+    "id": 52,
+    "question": "மனித உரிமைகளின் \"நவீன சர்வதேச மகாசாசனம்\" என அழைக்கப்படுவது ________.",
+    "options": [
+      "மனித உரிமைகளுக்கான உலகளாவிய அறிவிப்பு",
+      "தேசிய மனித உரிமைகள் ஆணையம்",
+      "மாநில மனித உரிமைகள் ஆணையம்",
+      "சர்வதேசப் பெண்கள் ஆண்டு"
+    ],
+    "correct": 0,
+    "question_en": "What is called the \"modern international Magna Carta\" of human rights?",
+    "options_en": [
+      "Universal Declaration of Human Rights",
+      "National Human Rights Commission",
+      "State Human Rights Commission",
+      "International Women's Year"
+    ],
+    "explanation": "மனித உரிமைகளின் \"நவீன சர்வதேச மகாசாசனம்\" என அழைக்கப்படுவது மனித உரிமைகளுக்கான உலகளாவிய அறிவிப்பு.",
+    "explanation_en": "Universal Declaration of Human Rights is called the \"modern international Magna Carta\" of human rights."
+  },
+  {
+    "id": 53,
+    "question": "பொருத்துக.\n(a) டிசம்பர் 10 - (i) ஐ.நா. தினம்\n(b) அக்டோபர் 24 - (ii) உலக மக்கள் தொகை தினம்\n(c) ஜூலை 11 - (iii) உலக எழுத்தறிவு தினம்\n(d) செப்டம்பர் 8 - (iv) மனித உரிமைகள் தினம்",
+    "options": [
+      "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+      "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)",
+      "(a) - (iv), (b) - (i), (c) - (iii), (d) - (ii)",
+      "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\n(a) December 10 - (i) UN Day\n(b) October 24 - (ii) World Population Day\n(c) July 11 - (iii) World Literacy Day\n(d) September 8 - (iv) Human Rights Day",
+    "options_en": [
+      "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+      "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)",
+      "(a) - (iv), (b) - (i), (c) - (iii), (d) - (ii)",
+      "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)"
+    ],
+    "explanation": "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)",
+    "explanation_en": "(a) - (iv), (b) - (i), (c) - (ii), (d) - (iii)"
+  },
+  {
+    "id": 54,
+    "question": "இனம், பாலினம், தேசிய இனம், மொழி மற்றும் சமய வேறுபாடுகளின்றி அனைத்து மனிதர்களுக்குமான இயல்பான உரிமைகள் ________ ஆகும்.",
+    "options": [
+      "வாழ்வியல் உரிமை",
+      "சமூக உரிமை",
+      "மனித உரிமை",
+      "கலாச்சார உரிமைகள்"
+    ],
+    "correct": 2,
+    "question_en": "The inherent rights of all human beings regardless of race, sex, nationality, language and religion are ________.",
+    "options_en": [
+      "Civil rights",
+      "Social rights",
+      "Human rights",
+      "Cultural rights"
+    ],
+    "explanation": "இனம், பாலினம், தேசிய இனம், மொழி மற்றும் சமய வேறுபாடுகளின்றி அனைத்து மனிதர்களுக்குமான இயல்பான உரிமைகள் மனித உரிமை ஆகும்.",
+    "explanation_en": "The inherent rights of all human beings regardless of race, sex, nationality, language and religion are Human rights."
+  },
+  {
+    "id": 55,
+    "question": "கீழ்க்காணும் கூற்றுகளில் சரியான கூற்றைத் தேர்ந்தெடுக்கவும்.\nஅடிப்படை உரிமைகள் மற்றும் சுதந்திரங்களின் தொகுப்பானது,",
+    "options": [
+      "ஐரோப்பிய மற்றும் ஆப்பிரிக்க நாடுகளில் வேரூன்றி இருந்தது.",
+      "அமெரிக்க மற்றும் இந்திய நாடுகளில் வேரூன்றி இருந்தது.",
+      "ஐரோப்பிய மற்றும் அமெரிக்க நாடுகளில் வேரூன்றி இருந்தது.",
+      "அமெரிக்க மற்றும் ஆஸ்திரேலிய நாடுகளில் வேரூன்றி இருந்தது."
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement from the following.\nThe set of fundamental rights and freedoms,",
+    "options_en": [
+      "Was rooted in European and African countries.",
+      "Was rooted in American and Indian countries.",
+      "Was rooted in European and American countries.",
+      "Was rooted in American and Australian countries."
+    ],
+    "explanation": "ஐரோப்பிய மற்றும் அமெரிக்க நாடுகளில் வேரூன்றி இருந்தது.",
+    "explanation_en": "Was rooted in European and American countries."
+  },
+  {
+    "id": 56,
+    "question": "உலகிலேயே முதன்முதலில் \"ஒரு நாட்டை ஆளும் அரசரையும் சட்டத்திற்கு உட்படுத்திச் சாசனம்\" எழுதிய நாடு ________.",
+    "options": [
+      "இங்கிலாந்து",
+      "அமெரிக்கா",
+      "இந்தியா",
+      "பிரான்ஸ்"
+    ],
+    "correct": 0,
+    "question_en": "The first country in the world to write a charter subjecting even the ruling king to the law is ________.",
+    "options_en": [
+      "England",
+      "America",
+      "India",
+      "France"
+    ],
+    "explanation": "உலகிலேயே முதன்முதலில் \"ஒரு நாட்டை ஆளும் அரசரையும் சட்டத்திற்கு உட்படுத்திச் சாசனம்\" எழுதிய நாடு இங்கிலாந்து.",
+    "explanation_en": "The first country in the world to write a charter subjecting even the ruling king to the law is England."
+  },
+  {
+    "id": 57,
+    "question": "உலகிலேயே முதன்முதலில் \"சட்டத்தின் முன் அனைவரும் சமம்\" என்று கூறிய சாசனம் இயற்றப்பட்ட நாடு ________.",
+    "options": [
+      "இங்கிலாந்து",
+      "அமெரிக்கா",
+      "இந்தியா",
+      "பிரான்ஸ்"
+    ],
+    "correct": 3,
+    "question_en": "The country where the charter stating \"All are equal before the law\" was first enacted in the world is ________.",
+    "options_en": [
+      "England",
+      "America",
+      "India",
+      "France"
+    ],
+    "explanation": "உலகிலேயே முதன்முதலில் \"சட்டத்தின் முன் அனைவரும் சமம்\" என்று கூறிய சாசனம் இயற்றப்பட்ட நாடு பிரான்ஸ்.",
+    "explanation_en": "The country where the charter stating \"All are equal before the law\" was first enacted in the world is France."
+  },
+  {
+    "id": 58,
+    "question": "சரியான கூற்றை / கூற்றுகளைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "மாநில மனித உரிமைகள் ஆணையம் அரசியலமைப்பின் 7 வது அட்டவணையின் கீழுள்ள சில துறைகளில் மனித உரிமை மீறல்களை விசாரிக்கும்.",
+      "மாநில மனித உரிமைகள் ஆணையம் ஒரு தலைவர் மற்றும் மூன்று உறுப்பினர்களைக் கொண்டது ஆகும்.",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct statement(s).",
+    "options_en": [
+      "The State Human Rights Commission investigates human rights violations in subjects under the 7th Schedule of the Constitution.",
+      "The State Human Rights Commission consists of a Chairperson and three members.",
+      "1 and 2",
+      "None"
+    ],
+    "explanation": "மாநில மனித உரிமைகள் ஆணையம் அரசியலமைப்பின் 7 வது அட்டவணையின் கீழுள்ள சில துறைகளில் மனித உரிமை மீறல்களை விசாரிக்கும்.",
+    "explanation_en": "The State Human Rights Commission investigates human rights violations in subjects under the 7th Schedule of the Constitution."
+  },
+  {
+    "id": 59,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "ஐ.நா. தினம் - மார்ச் 8",
+      "சர்வதேச பெண்கள் தினம் - நவம்பர் 19",
+      "மனித உரிமைகள் தினம் - டிசம்பர் 10",
+      "தேசிய ஒருமைப்பாட்டு தினம் - அக்டோபர் 24"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct pair.",
+    "options_en": [
+      "UN Day - March 8",
+      "International Women's Day - November 19",
+      "Human Rights Day - December 10",
+      "National Integration Day - October 24"
+    ],
+    "explanation": "மனித உரிமைகள் தினம் - டிசம்பர் 10",
+    "explanation_en": "Human Rights Day - December 10"
+  },
+  {
+    "id": 60,
+    "question": "தேசிய மனித உரிமைகள் ஆணையம் குறித்து பின்வரும் எந்தக் கூற்று சரியானது அன்று?",
+    "options": [
+      "இது 1993 இல் நிறுவப்பட்டது.",
+      "மனித உரிமை மீறல் வழக்குகளில் குற்றவாளியைத் தண்டிக்க எந்த உரிமையும் இல்லை",
+      "இந்த ஆணையத்தின் தலைவரும் உறுப்பினர்களும் இந்திய உச்ச நீதிமன்றத்தால் நியமிக்கப்படுகிறார்கள்.",
+      "இந்த ஆணையம் தனது ஆண்டு அறிக்கையை மத்திய அரசு மற்றும் மாநில அரசுகளுக்கு அனுப்புகிறது."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements about the National Human Rights Commission is not correct?",
+    "options_en": [
+      "It was established in 1993.",
+      "It has no right to punish the offender in human rights violation cases.",
+      "The Chairperson and members of this commission are appointed by the Supreme Court of India.",
+      "This commission sends its annual report to the Central and State Governments."
+    ],
+    "explanation": "இந்த ஆணையத்தின் தலைவரும் உறுப்பினர்களும் இந்திய உச்ச நீதிமன்றத்தால் நியமிக்கப்படுகிறார்கள்.",
+    "explanation_en": "The Chairperson and members of this commission are appointed by the Supreme Court of India."
+  },
+  {
+    "id": 61,
+    "question": "சிறார் உதவித் தொடர்பு (Child helpline) எண் ________.",
+    "options": [
+      "4172",
+      "1091",
+      "139",
+      "1098"
+    ],
+    "correct": 3,
+    "question_en": "Child helpline number is ________.",
+    "options_en": [
+      "4172",
+      "1091",
+      "139",
+      "1098"
+    ],
+    "explanation": "சிறார் உதவித் தொடர்பு (Child helpline) எண் 1098.",
+    "explanation_en": "Child helpline number is 1098."
+  },
+  {
+    "id": 62,
+    "question": "ஐக்கிய நாடுகள் சபையின் சாசனச் சட்டம் உருவாக்கப்பட்ட மாநாடு ________.",
+    "options": [
+      "வட்டமேஜை மாநாடு",
+      "பிரான்ஸ் மாநாடு",
+      "சான்பிரான்சிஸ்கோ மாநாடு",
+      "இங்கிலாந்து மாநாடு"
+    ],
+    "correct": 2,
+    "question_en": "The conference where the United Nations Charter was created is ________.",
+    "options_en": [
+      "Round Table Conference",
+      "France Conference",
+      "San Francisco Conference",
+      "England Conference"
+    ],
+    "explanation": "ஐக்கிய நாடுகள் சபையின் சாசனச் சட்டம் உருவாக்கப்பட்ட மாநாடு சான்பிரான்சிஸ்கோ மாநாடு.",
+    "explanation_en": "The conference where the United Nations Charter was created is San Francisco Conference."
+  },
+  {
+    "id": 63,
+    "question": "“உலக மனித உரிமைகள் வரலாற்றில் ஒரு மைல்கல்” என்று அழைக்கப்படுவது ________.",
+    "options": [
+      "ஐக்கிய நாடுகள் சபையின் தோற்றம்",
+      "உலக பொது நீதிமன்றம் உருவானது.",
+      "உலக பொது சுகாதார நிறுவனம் ஏற்படுத்தப்பட்டது.",
+      "உலக மனித உரிமைகள் அறிவிப்பு ஐ.நா.வால் ஏற்றுக் கொள்ளப்பட்டது."
+    ],
+    "correct": 3,
+    "question_en": "What is called a \"milestone in the history of world human rights\"?",
+    "options_en": [
+      "The origin of the United Nations",
+      "The formation of the International Court of Justice.",
+      "The establishment of the World Health Organization.",
+      "The adoption of the Universal Declaration of Human Rights by the UN."
+    ],
+    "explanation": "“உலக மனித உரிமைகள் வரலாற்றில் ஒரு மைல்கல்” என்று அழைக்கப்படுவது உலக மனித உரிமைகள் அறிவிப்பு ஐ.நா.வால் ஏற்றுக் கொள்ளப்பட்டது..",
+    "explanation_en": "The adoption of the Universal Declaration of Human Rights by the UN. is called a \"milestone in the history of world human rights\"."
+  },
+  {
+    "id": 64,
+    "question": "“உலக மனித உரிமைகள் பிரகடனம்” வெளியிடப்பட்ட இடம் ________.",
+    "options": [
+      "பாரிஸ் நகரம்",
+      "புதுடெல்லி",
+      "டோக்கியோ",
+      "வாஷிங்டன்"
+    ],
+    "correct": 0,
+    "question_en": "The place where the \"Universal Declaration of Human Rights\" was issued is ________.",
+    "options_en": [
+      "City of Paris",
+      "New Delhi",
+      "Tokyo",
+      "Washington"
+    ],
+    "explanation": "“உலக மனித உரிமைகள் பிரகடனம்” வெளியிடப்பட்ட இடம் பாரிஸ் நகரம்.",
+    "explanation_en": "The place where the \"Universal Declaration of Human Rights\" was issued is City of Paris."
+  },
+  {
+    "id": 65,
+    "question": "பொருத்துக.\ni. சட்டப்பிரிவு 24 - 1. ஆரோக்கியமாகக் குழந்தைகள் வளர வழி செய்தல்.\nii. சட்டப்பிரிவு 39 (F) - 2. இலவசக் கட்டாயக் கல்வி (6 - 14 வயது வரை).\niii. சட்டப்பிரிவு 45 - 3. குழந்தைத் தொழிலாளர் முறையைத் தடை செய்தல்.\niv. சட்டப்பிரிவு 21A - 4. 6 வயது வரை குழந்தைப் பராமரிப்பு மற்றும் கல்வி.",
+    "options": [
+      "i - 2, ii - 4, iii - 1, iv - 3",
+      "i - 3, ii - 1, iii - 4, iv - 2",
+      "i - 2, ii - 3, iii - 1, iv - 4",
+      "i - 3, ii - 4, iii - 1, iv - 2"
+    ],
+    "correct": 1,
+    "question_en": "Match the following.\ni. Article 24 - 1. Paving the way for children to grow up healthy.\nii. Article 39 (F) - 2. Free and compulsory education (6 - 14 years).\niii. Article 45 - 3. Prohibition of child labour.\niv. Article 21A - 4. Child care and education up to 6 years.",
+    "options_en": [
+      "i - 2, ii - 4, iii - 1, iv - 3",
+      "i - 3, ii - 1, iii - 4, iv - 2",
+      "i - 2, ii - 3, iii - 1, iv - 4",
+      "i - 3, ii - 4, iii - 1, iv - 2"
+    ],
+    "explanation": "i - 3, ii - 1, iii - 4, iv - 2",
+    "explanation_en": "i - 3, ii - 1, iii - 4, iv - 2"
+  },
+  {
+    "id": 66,
+    "question": "“மக்கள் அனைவருக்கும் தங்களின் சொந்த மதத்தைத் தேர்ந்தெடுக்கும் உரிமை உண்டு” என்று கூறியவர் ________.",
+    "options": [
+      "அலெக்சாண்டர்",
+      "சாக்ரடீஸ்",
+      "மகா சைரஸ்",
+      "கன்பூசியஸ்"
+    ],
+    "correct": 2,
+    "question_en": "Who said, \"All people have the right to choose their own religion\"?",
+    "options_en": [
+      "Alexander",
+      "Socrates",
+      "Cyrus the Great",
+      "Confucius"
+    ],
+    "explanation": "“மக்கள் அனைவருக்கும் தங்களின் சொந்த மதத்தைத் தேர்ந்தெடுக்கும் உரிமை உண்டு” என்று கூறியவர் மகா சைரஸ்.",
+    "explanation_en": "Cyrus the Great"
+  },
+  {
+    "id": 67,
+    "question": "“மகா சைரஸ்” என்ற மன்னரால் செதுக்கப்பட்ட “சைரஸ் சிலிண்டரில்” பயன்படுத்தப்பட்ட எழுத்துக்கள் ________.",
+    "options": [
+      "சீன எழுத்துக்கள்",
+      "கியூனிபார்ம் எழுத்துக்கள்",
+      "தமிழ் எழுத்துக்கள்",
+      "ஆங்கில எழுத்துக்கள்"
+    ],
+    "correct": 1,
+    "question_en": "The script used in the \"Cyrus Cylinder\" engraved by King \"Cyrus the Great\" is ________.",
+    "options_en": [
+      "Chinese script",
+      "Cuneiform script",
+      "Tamil script",
+      "English script"
+    ],
+    "explanation": "“மகா சைரஸ்” என்ற மன்னரால் செதுக்கப்பட்ட “சைரஸ் சிலிண்டரில்” பயன்படுத்தப்பட்ட எழுத்துக்கள் கியூனிபார்ம் எழுத்துக்கள்.",
+    "explanation_en": "The script used in the \"Cyrus Cylinder\" engraved by King \"Cyrus the Great\" is Cuneiform script."
+  },
+  {
+    "id": 68,
+    "question": "பாரசீக மன்னர் “மகா சைரஸ்” ஆல் செதுக்கப்பட்ட சைரஸ் சிலிண்டரில் பயன்படுத்தப்பட்ட மொழி ________.",
+    "options": [
+      "தமிழ்",
+      "ஆங்கிலம்",
+      "பிரெஞ்சு மொழி",
+      "அக்காடியன் மொழி"
+    ],
+    "correct": 3,
+    "question_en": "The language used in the Cyrus Cylinder engraved by the Persian King \"Cyrus the Great\" is ________.",
+    "options_en": [
+      "Tamil",
+      "English",
+      "French language",
+      "Akkadian language"
+    ],
+    "explanation": "பாரசீக மன்னர் “மகா சைரஸ்” ஆல் செதுக்கப்பட்ட சைரஸ் சிலிண்டரில் பயன்படுத்தப்பட்ட மொழி அக்காடியன் மொழி.",
+    "explanation_en": "The language used in the Cyrus Cylinder engraved by the Persian King \"Cyrus the Great\" is Akkadian language."
+  },
+  {
+    "id": 69,
+    "question": "ஐநா சபையின் 6 அலுவல் மொழிகளில் மொழிபெயர்க்கப்பட்டுள்ள ஒரே ஆவணம் ________.",
+    "options": [
+      "சைரஸ் சிலிண்டர்",
+      "மனித உரிமைகளுக்கான பிரகடனம்",
+      "உலக பொது சுகாதார நிறுவனத்தின் அறிக்கைகள்",
+      "இவற்றில் எதுவும் இல்லை"
+    ],
+    "correct": 0,
+    "question_en": "The only document translated into all 6 official languages of the UN is ________.",
+    "options_en": [
+      "Cyrus Cylinder",
+      "Declaration of Human Rights",
+      "Reports of the World Health Organization",
+      "None of these"
+    ],
+    "explanation": "ஐநா சபையின் 6 அலுவல் மொழிகளில் மொழிபெயர்க்கப்பட்டுள்ள ஒரே ஆவணம் சைரஸ் சிலிண்டர்.",
+    "explanation_en": "The only document translated into all 6 official languages of the UN is Cyrus Cylinder."
+  },
+  {
+    "id": 70,
+    "question": "கல்வி உரிமைச் சட்டம் நடைமுறைப்படுத்தப்பட்ட ஆண்டு ________.",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "correct": 1,
+    "question_en": "The year the Right to Education Act was implemented is ________.",
+    "options_en": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "explanation": "கல்வி உரிமைச் சட்டம் நடைமுறைப்படுத்தப்பட்ட ஆண்டு 2009.",
+    "explanation_en": "The year the Right to Education Act was implemented is 2009."
+  },
+  {
+    "id": 71,
+    "question": "2018-ம் ஆண்டில் ஐ.நா. வின் மனித உரிமைகள் சபைக்கு அதிக வாக்குகள் வித்தியாசத்தில் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர் நாடு எது?",
+    "options": [
+      "வங்கதேசம்",
+      "நேபாளம்",
+      "சீனா",
+      "இந்தியா"
+    ],
+    "correct": 3,
+    "question_en": "Which member country was elected to the UN Human Rights Council with the highest margin of votes in 2018?",
+    "options_en": [
+      "Bangladesh",
+      "Nepal",
+      "China",
+      "India"
+    ],
+    "explanation": "2018-ம் ஆண்டில் ஐ.நா. வின் மனித உரிமைகள் சபைக்கு அதிக வாக்குகள் வித்தியாசத்தில் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர் நாடு இந்தியா ஆகும்.",
+    "explanation_en": "India"
+  },
+  {
+    "id": 72,
+    "question": "கீழ்க்கண்டவற்றுள் எது மனித உரிமையின் அடிப்படைப் பண்புகளில் ஒன்று ஆகும்?",
+    "options": [
+      "இயல்பானவை",
+      "மாற்றக்கூடியவை",
+      "பிரிக்க முடியும்",
+      "தேசியத்திற்கு சொந்தமானது"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is one of the basic characteristics of human rights?",
+    "options_en": [
+      "Inherent",
+      "Changeable",
+      "Divisible",
+      "Belongs to nationality"
+    ],
+    "explanation": "இயல்பானவை",
+    "explanation_en": "Inherent is one of the basic characteristics of human rights."
+  },
+  {
+    "id": 73,
+    "question": "மனித உரிமைகளில் உள்ள முதன்மைப் பிரிவுகளின் எண்ணிக்கை ________.",
+    "options": [
+      "30",
+      "5",
+      "21",
+      "18"
+    ],
+    "correct": 1,
+    "question_en": "The number of primary categories in human rights is ________.",
+    "options_en": [
+      "30",
+      "5",
+      "21",
+      "18"
+    ],
+    "explanation": "மனித உரிமைகளில் உள்ள முதன்மைப் பிரிவுகளின் எண்ணிக்கை 5.",
+    "explanation_en": "The number of primary categories in human rights is 5."
+  },
+  {
+    "id": 74,
+    "question": "கீழ்க்கண்டவற்றுள் எது வாழ்வியல் உரிமைகளில் ஒன்று அன்று?",
+    "options": [
+      "சுதந்திரம்",
+      "நியாயமற்ற முறையில் கைது செய்யாமை",
+      "கருத்துச் சுதந்திரம்",
+      "அடிமைத் தளையிலிருந்து விடுபடுதல்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not one of the civil rights?",
+    "options_en": [
+      "Freedom",
+      "Freedom from arbitrary arrest",
+      "Freedom of expression",
+      "Freedom from slavery"
+    ],
+    "explanation": "கருத்துச் சுதந்திரம்",
+    "explanation_en": "Freedom of expression is not one of the civil rights."
+  },
+  {
+    "id": 75,
+    "question": "கீழ்க்கண்டவற்றுள் எது அரசியல் உரிமைகளில் ஒன்று அன்று?",
+    "options": [
+      "வாக்களிக்கும் உரிமை",
+      "பேச்சுரிமை",
+      "கருத்து சுதந்திரம்",
+      "சொத்துரிமை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not one of the political rights?",
+    "options_en": [
+      "Right to vote",
+      "Freedom of speech",
+      "Freedom of expression",
+      "Right to property"
+    ],
+    "explanation": "சொத்துரிமை",
+    "explanation_en": "Right to property is not one of the political rights."
+  },
+  {
+    "id": 76,
+    "question": "“கல்வி பெறும் உரிமை” எவ்வகையைச் சார்ந்தது?",
+    "options": [
+      "வாழ்வியல் உரிமை",
+      "அரசியல் உரிமை",
+      "சமூக உரிமைகள்",
+      "பொருளாதார உரிமைகள்"
+    ],
+    "correct": 2,
+    "question_en": "\"Right to Education\" belongs to which category?",
+    "options_en": [
+      "Civil right",
+      "Political right",
+      "Social rights",
+      "Economic rights"
+    ],
+    "explanation": "“கல்வி பெறும் உரிமை” சமூக உரிமைகள் வகையைச் சார்ந்தது.",
+    "explanation_en": "Social rights"
+  },
+  {
+    "id": 77,
+    "question": "தமிழ்நாட்டில் மாநில மனித உரிமைகள் ஆணையம் உருவாக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "ஏப்ரல் 17, 1996",
+      "ஏப்ரல் 17, 1997",
+      "ஏப்ரல் 17, 1998",
+      "ஏப்ரல் 17, 1999"
+    ],
+    "correct": 1,
+    "question_en": "The year the State Human Rights Commission was formed in Tamil Nadu is ________.",
+    "options_en": [
+      "April 17, 1996",
+      "April 17, 1997",
+      "April 17, 1998",
+      "April 17, 1999"
+    ],
+    "explanation": "தமிழ்நாட்டில் மாநில மனித உரிமைகள் ஆணையம் உருவாக்கப்பட்ட ஆண்டு ஏப்ரல் 17, 1997.",
+    "explanation_en": "The year the State Human Rights Commission was formed in Tamil Nadu is April 17, 1997."
+  },
+  {
+    "id": 78,
+    "question": "“தகவல்களைப் பெறும் உரிமை” என்பது எவ்வகையைச் சார்ந்தது?",
+    "options": [
+      "மனித உரிமைகள்",
+      "அரசியல் உரிமைகள்",
+      "இவை இரண்டும்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "\"Right to Information\" belongs to which category?",
+    "options_en": [
+      "Human rights",
+      "Political rights",
+      "Both of these",
+      "None of these"
+    ],
+    "explanation": "“தகவல்களைப் பெறும் உரிமை” என்பது அரசியல் உரிமைகள் வகையைச் சார்ந்தது.",
+    "explanation_en": "Political rights"
+  },
+  {
+    "id": 79,
+    "question": "தேசிய மனித உரிமைகள் ஆணையத்தின் தற்போதைய தலைவர் ________.",
+    "options": [
+      "ஸ்ரீ சத்யேந்திர பால்",
+      "அருண் குமார் மிஸ்ரா",
+      "கே.ஜி.பாலகிருஷ்ணன்",
+      "ஸ்ரீ எச்.எல்.தத்து"
+    ],
+    "correct": 1,
+    "question_en": "The current Chairperson of the National Human Rights Commission is ________.",
+    "options_en": [
+      "Shri Satyendra Pal",
+      "Arun Kumar Mishra",
+      "K.G. Balakrishnan",
+      "Shri H.L. Dattu"
+    ],
+    "explanation": "தேசிய மனித உரிமைகள் ஆணையத்தின் தற்போதைய தலைவர் அருண் குமார் மிஸ்ரா.",
+    "explanation_en": "The current Chairperson of the National Human Rights Commission is Arun Kumar Mishra."
+  },
+  {
+    "id": 80,
+    "question": "மனித உரிமைகள் பற்றிய கீழ்க்காணும் கூற்றுகளில் எது தவறானது?",
+    "options": [
+      "இவை உலகில் உள்ள அனைத்து நாடுகளுக்கும் உரியதாகும்.",
+      "எந்த ஒரு தேசமும் தனிநபருக்கான மனித உரிமைகளைப் பறிக்க முடியாது",
+      "வாக்குரிமை அடிப்படையில் இயற்கையாக அமையப் பெற்ற அடிப்படை உரிமைகள் ஆகும்.",
+      "இவை இனம், மதம், வயது, மொழி போன்றவற்றைப் பொருட்படுத்தாது."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements about human rights is incorrect?",
+    "options_en": [
+      "They are applicable to all countries in the world.",
+      "No nation can take away an individual's human rights.",
+      "They are fundamental rights naturally established on the basis of voting rights.",
+      "They do not regard race, religion, age, language, etc."
+    ],
+    "explanation": "வாக்குரிமை அடிப்படையில் இயற்கையாக அமையப் பெற்ற அடிப்படை உரிமைகள் ஆகும்.",
+    "explanation_en": "They are fundamental rights naturally established on the basis of voting rights."
+  },
+  {
+    "id": 81,
+    "question": "சிவில் உரிமைகள் பற்றிய கீழ்க்காணும் கூற்றுகளில் எது சரியானது?",
+    "options": [
+      "இவை குடியுரிமை பெறுவதன் மூலம் ஒருவர் அனுபவிக்கும் உரிமைகள் ஆகும்.",
+      "இவற்றின் மூலம் ஒரு நாடு சுதந்திரங்களை வழங்கவோ அல்லது மறுக்கவோ முடியாது.",
+      "இவை பிறப்பின் அடிப்படையில் உருவாக்கப்படுகின்றன.",
+      "இவை அரசியல் சட்டம் சாராதவை."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following statements about civil rights is correct?",
+    "options_en": [
+      "These are the rights one enjoys by acquiring citizenship.",
+      "Through these, a country cannot grant or deny freedoms.",
+      "They are created by birth.",
+      "They are non-constitutional."
+    ],
+    "explanation": "இவை குடியுரிமை பெறுவதன் மூலம் ஒருவர் அனுபவிக்கும் உரிமைகள் ஆகும்.",
+    "explanation_en": "These are the rights one enjoys by acquiring citizenship."
+  },
+  {
+    "id": 82,
+    "question": "கீழ்க்காண்பவைகளில் எது தேசிய மனித உரிமைகள் ஆணையத்தின் 5 பிரிவுகளில் ஒன்று அன்று?",
+    "options": [
+      "சுகாதாரப் பிரிவு",
+      "சட்டப்பிரிவு",
+      "புலனாய்வுப் பிரிவு",
+      "பயிற்சி அளித்தல் பிரிவு"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is not one of the 5 divisions of the National Human Rights Commission?",
+    "options_en": [
+      "Health Division",
+      "Law Division",
+      "Investigation Division",
+      "Training Division"
+    ],
+    "explanation": "சுகாதாரப் பிரிவு",
+    "explanation_en": "Health Division is not one of the 5 divisions of the National Human Rights Commission."
+  },
+  {
+    "id": 83,
+    "question": "பொருத்துக.\ni. தொழிற்சாலைச் சட்டம் - 1. 1948\nii. தோட்டத் தொழிலாளர்கள் சட்டம் - 2. 1961\niii. சுரங்கச் சட்டம் - 3. 1951\niv. மகப்பேறு நலச்சட்டம் - 4. 1952",
+    "options": [
+      "i - 4, ii - 2, iii - 1, iv - 3",
+      "i - 1, ii - 3, iii - 4, iv - 2",
+      "i - 1, ii - 4, iii - 2, iv - 3",
+      "i - 4, ii - 1, iii - 2, iv - 3"
+    ],
+    "correct": 1,
+    "question_en": "Match the following.\ni. Factories Act - 1. 1948\nii. Plantation Labour Act - 2. 1961\niii. Mines Act - 3. 1951\niv. Maternity Benefit Act - 4. 1952",
+    "options_en": [
+      "i - 4, ii - 2, iii - 1, iv - 3",
+      "i - 1, ii - 3, iii - 4, iv - 2",
+      "i - 1, ii - 4, iii - 2, iv - 3",
+      "i - 4, ii - 1, iii - 2, iv - 3"
+    ],
+    "explanation": "i - 1, ii - 3, iii - 4, iv - 2",
+    "explanation_en": "i - 1, ii - 3, iii - 4, iv - 2"
+  },
+  {
+    "id": 84,
+    "question": "தமிழ்நாடு மனித உரிமைகள் ஆணைய உறுப்பினர்களின் மொத்த எண்ணிக்கை",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correct": 1,
+    "question_en": "Total number of members in the Tamil Nadu Human Rights Commission",
+    "options_en": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "explanation": "மூன்று",
+    "explanation_en": "Three"
+  },
+  {
+    "id": 85,
+    "question": "இந்தியாவில் முதன் முதலாக அறிமுகப்படுத்தப்பட்ட 24 மணி நேர கட்டணமில்லா அவசரத் தொலைத்தொடர்புச் சேவை எண் ________.",
+    "options": [
+      "100",
+      "108",
+      "1089",
+      "1098"
+    ],
+    "correct": 3,
+    "question_en": "The first 24-hour toll-free emergency telecommunication service number introduced in India is ________.",
+    "options_en": [
+      "100",
+      "108",
+      "1089",
+      "1098"
+    ],
+    "explanation": "இந்தியாவில் முதன் முதலாக அறிமுகப்படுத்தப்பட்ட 24 மணி நேர கட்டணமில்லா அவசரத் தொலைத்தொடர்புச் சேவை எண் 1098.",
+    "explanation_en": "The first 24-hour toll-free emergency telecommunication service number introduced in India is 1098."
+  },
+  {
+    "id": 86,
+    "question": "ஐநா சபையின் தற்போதைய பொதுச் செயலாளர் ________.",
+    "options": [
+      "பான் கீ மூன்",
+      "ஜோபைடன்",
+      "அண்டோனியோ கட்டரஸ்",
+      "அமர்த்தியா சென்"
+    ],
+    "correct": 2,
+    "question_en": "The current Secretary-General of the UN is ________.",
+    "options_en": [
+      "Ban Ki-moon",
+      "Joe Biden",
+      "António Guterres",
+      "Amartya Sen"
+    ],
+    "explanation": "ஐநா சபையின் தற்போதைய பொதுச் செயலாளர் அண்டோனியோ கட்டரஸ்.",
+    "explanation_en": "The current Secretary-General of the UN is António Guterres."
+  },
+  {
+    "id": 87,
+    "question": "பொருந்தாத இணையைத் தெரிவு செய்க.",
+    "options": [
+      "இந்து விதவை மறுமணச் சட்டம் - 1856",
+      "வரதட்சணைத் தடைச் சட்டம் - 1961",
+      "இந்து வாரிசுச் சட்டம் - 1986",
+      "இந்து திருமணச் சட்டம் - 1955"
+    ],
+    "correct": 2,
+    "question_en": "Select the mismatched pair.",
+    "options_en": [
+      "Hindu Widow Remarriage Act - 1856",
+      "Dowry Prohibition Act - 1961",
+      "Hindu Succession Act - 1986",
+      "Hindu Marriage Act - 1955"
+    ],
+    "explanation": "இந்து வாரிசுச் சட்டம் - 1986",
+    "explanation_en": "Hindu Succession Act - 1986"
+  },
+  {
+    "id": 88,
+    "question": "“UDHR” ன் விரிவாக்கம் ________.",
+    "options": [
+      "Universal Declaration of Hungry Rights",
+      "Universal Declaration of Holy Rights",
+      "Universal Declaration of Human Rights",
+      "Universal Declaration of Health Rights"
+    ],
+    "correct": 2,
+    "question_en": "The expansion of “UDHR” is ________.",
+    "options_en": [
+      "Universal Declaration of Hungry Rights",
+      "Universal Declaration of Holy Rights",
+      "Universal Declaration of Human Rights",
+      "Universal Declaration of Health Rights"
+    ],
+    "explanation": "“UDHR” ன் விரிவாக்கம் Universal Declaration of Human Rights.",
+    "explanation_en": "The expansion of “UDHR” is Universal Declaration of Human Rights."
+  },
+  {
+    "id": 89,
+    "question": "“NHRC” ன் விரிவாக்கம் ________.",
+    "options": [
+      "National Heart Rights Commission",
+      "National Habitation Rights Commission",
+      "National Habits Rights Commission",
+      "National Human Rights Commission"
+    ],
+    "correct": 3,
+    "question_en": "The expansion of “NHRC” is ________.",
+    "options_en": [
+      "National Heart Rights Commission",
+      "National Habitation Rights Commission",
+      "National Habits Rights Commission",
+      "National Human Rights Commission"
+    ],
+    "explanation": "“NHRC” ன் விரிவாக்கம் National Human Rights Commission.",
+    "explanation_en": "The expansion of “NHRC” is National Human Rights Commission."
+  },
+  {
+    "id": 90,
+    "question": "“SHRC” ன் விரிவாக்கம் ________.",
+    "options": [
+      "State Heart Rights Commission",
+      "State Habitation Rights Commission",
+      "State Habits Rights Commission",
+      "State Human Rights Commission"
+    ],
+    "correct": 3,
+    "question_en": "The expansion of “SHRC” is ________.",
+    "options_en": [
+      "State Heart Rights Commission",
+      "State Habitation Rights Commission",
+      "State Habits Rights Commission",
+      "State Human Rights Commission"
+    ],
+    "explanation": "“SHRC” ன் விரிவாக்கம் State Human Rights Commission.",
+    "explanation_en": "The expansion of “SHRC” is State Human Rights Commission."
+  },
+  {
+    "id": 91,
+    "question": "இந்தியாவின் தற்போதைய உச்சநீதிமன்றத் தலைமை நீதிபதி யார்?",
+    "options": [
+      "M. கோபால்",
+      "N.V. ரமணா",
+      "M.K குன்ஹா",
+      "இவர்களில் எவருமில்லை."
+    ],
+    "correct": 1,
+    "question_en": "Who is the current Chief Justice of India?",
+    "options_en": [
+      "M. Gopal",
+      "N.V. Ramana",
+      "M.K. Cunha",
+      "None of them."
+    ],
+    "explanation": "இந்தியாவின் தற்போதைய உச்சநீதிமன்றத் தலைமை நீதிபதி N.V. ரமணா.",
+    "explanation_en": "N.V. Ramana is the current Chief Justice of India."
+  },
+  {
+    "id": 92,
+    "question": "யுனிபெம் (UNIFEM) என்பது ________.",
+    "options": [
+      "ஐரோப்பியப் பெண்களுக்கான நிதி அமைப்பு",
+      "தேசியப் பெண்கள் மேம்பாட்டு நிதி அமைப்பு",
+      "பெண்களுக்கான ஐக்கிய நாடுகளின் மேம்பாட்டு நிதி அமைப்பு",
+      "ஐரோப்பா மற்றும் பிரான்சில் தொடங்கப்பட்ட பெண்களுக்கான நிதி முனையம்"
+    ],
+    "correct": 2,
+    "question_en": "UNIFEM is ________.",
+    "options_en": [
+      "Financial organization for European women",
+      "National Women's Development Fund Organization",
+      "United Nations Development Fund for Women",
+      "Financial terminal for women started in Europe and France"
+    ],
+    "explanation": "யுனிபெம் (UNIFEM) என்பது பெண்களுக்கான ஐக்கிய நாடுகளின் மேம்பாட்டு நிதி அமைப்பு.",
+    "explanation_en": "UNIFEM is United Nations Development Fund for Women."
+  },
+  {
+    "id": 93,
+    "question": "ஐக்கிய நாடுகள் சபையின் மனித உரிமை ஆணையத்தின் முதல் தலைவர் ________.",
+    "options": [
+      "மகாசைரஸ்",
+      "ஜார்ஜ்புஷ்",
+      "ஜான் கென்னடி",
+      "எலினார் ரூஸ்வெல்ட்"
+    ],
+    "correct": 3,
+    "question_en": "The first chairperson of the United Nations Commission on Human Rights was ________.",
+    "options_en": [
+      "Cyrus the Great",
+      "George Bush",
+      "John Kennedy",
+      "Eleanor Roosevelt"
+    ],
+    "explanation": "ஐக்கிய நாடுகள் சபையின் மனித உரிமை ஆணையத்தின் முதல் தலைவர் எலினார் ரூஸ்வெல்ட்.",
+    "explanation_en": "The first chairperson of the United Nations Commission on Human Rights was Eleanor Roosevelt."
+  },
+  {
+    "id": 94,
+    "question": "அடிமைகளை விடுவித்த, முதல் பாரசீக மன்னன் ________ ஆவார்.",
+    "options": [
+      "எலினார்",
+      "ரூஸ்வெல்ட்",
+      "மகாசைரஸ்",
+      "அசோகர்"
+    ],
+    "correct": 2,
+    "question_en": "The first Persian king who freed the slaves was ________.",
+    "options_en": [
+      "Eleanor",
+      "Roosevelt",
+      "Cyrus the Great",
+      "Ashoka"
+    ],
+    "explanation": "அடிமைகளை விடுவித்த, முதல் பாரசீக மன்னன் மகாசைரஸ் ஆவார்.",
+    "explanation_en": "The first Persian king who freed the slaves was Cyrus the Great."
+  },
+  {
+    "id": 95,
+    "question": "சைரஸ் சிலிண்டரின் காலம் ________.",
+    "options": [
+      "கி.பி. 539",
+      "கி.மு. 739",
+      "கி.மு. 539",
+      "கி.மு. 639"
+    ],
+    "correct": 2,
+    "question_en": "The period of the Cyrus Cylinder is ________.",
+    "options_en": [
+      "539 AD",
+      "739 BC",
+      "539 BC",
+      "639 BC"
+    ],
+    "explanation": "சைரஸ் சிலிண்டரின் காலம் கி.மு. 539.",
+    "explanation_en": "The period of the Cyrus Cylinder is 539 BC."
+  },
+  {
+    "id": 96,
+    "question": "தேசிய மனித உரிமைகள் ஆணையத் தலைமையகம் அமைந்துள்ள இடம் ________.",
+    "options": [
+      "புதுடெல்லி",
+      "சென்னை",
+      "மும்பை",
+      "கொல்கத்தா"
+    ],
+    "correct": 0,
+    "question_en": "The headquarters of the National Human Rights Commission is located in ________.",
+    "options_en": [
+      "New Delhi",
+      "Chennai",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "explanation": "தேசிய மனித உரிமைகள் ஆணையத் தலைமையகம் அமைந்துள்ள இடம் புதுடெல்லி.",
+    "explanation_en": "The headquarters of the National Human Rights Commission is located in New Delhi."
+  },
+  {
+    "id": 97,
+    "question": "NHRC என்பது ________.",
+    "options": [
+      "தேசிய மனித உரிமைகள் அமைப்பு",
+      "தேசிய மனித உரிமைகள் ஆணையம்",
+      "உலக சுகாதார நிறுவனம்",
+      "மாநில மனித உரிமைகள் அமைப்பு"
+    ],
+    "correct": 1,
+    "question_en": "NHRC is ________.",
+    "options_en": [
+      "National Human Rights Organization",
+      "National Human Rights Commission",
+      "World Health Organization",
+      "State Human Rights Organization"
+    ],
+    "explanation": "NHRC என்பது தேசிய மனித உரிமைகள் ஆணையம்.",
+    "explanation_en": "NHRC is National Human Rights Commission."
+  },
+  {
+    "id": 98,
+    "question": "குழந்தைகளின் உரிமைகள் தொடர்பான ஐக்கிய நாடுகளின் மாநாடு நடைபெற்ற ஆண்டு _____",
+    "options": [
+      "1989",
+      "1999",
+      "2010",
+      "2020"
+    ],
+    "correct": 0,
+    "question_en": "The year the United Nations Convention on the Rights of the Child took place is _____",
+    "options_en": [
+      "1989",
+      "1999",
+      "2010",
+      "2020"
+    ],
+    "explanation": "குழந்தைகளின் உரிமைகள் தொடர்பான ஐக்கிய நாடுகளின் மாநாடு நடைபெற்ற ஆண்டு 1989",
+    "explanation_en": "The year the United Nations Convention on the Rights of the Child took place is 1989"
+  },
+  {
+    "id": 99,
+    "question": "பெண்களைக் கேலி செய்வதற்கு எதிரான சட்டம் இயற்றப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1977",
+      "1967",
+      "1999",
+      "1997"
+    ],
+    "correct": 3,
+    "question_en": "The year the law against eve-teasing was enacted is ________.",
+    "options_en": [
+      "1977",
+      "1967",
+      "1999",
+      "1997"
+    ],
+    "explanation": "பெண்களைக் கேலி செய்வதற்கு எதிரான சட்டம் இயற்றப்பட்ட ஆண்டு 1997.",
+    "explanation_en": "The year the law against eve-teasing was enacted is 1997."
+  },
+  {
+    "id": 100,
+    "question": "பெண்களை அநாகரிகமாகச் சித்தரித்தலுக்கெதிரான சட்டம் இயற்றப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1999",
+      "2000",
+      "1950",
+      "1969"
+    ],
+    "correct": 0,
+    "question_en": "The year the law against the indecent representation of women was enacted is ________.",
+    "options_en": [
+      "1999",
+      "2000",
+      "1950",
+      "1969"
+    ],
+    "explanation": "பெண்களை அநாகரிகமாகச் சித்தரித்தலுக்கெதிரான சட்டம் இயற்றப்பட்ட ஆண்டு 1999.",
+    "explanation_en": "The year the law against the indecent representation of women was enacted is 1999."
+  },
+  {
+    "id": 101,
+    "question": "ஐ. நா. சபை எந்த ஆண்டைச் சர்வதேசப் பெண்கள் ஆண்டாக அறிவித்துள்ளது.",
+    "options": [
+      "1969",
+      "1968",
+      "1978",
+      "1979"
+    ],
+    "correct": 2,
+    "question_en": "Which year did the UN declare as the International Women's Year?",
+    "options_en": [
+      "1969",
+      "1968",
+      "1978",
+      "1979"
+    ],
+    "explanation": "1978",
+    "explanation_en": "1978"
+  },
+  {
+    "id": 102,
+    "question": "பிரான்சில் குடிமக்களின் உரிமைகள் பற்றிய பிரகடனம் எந்த ஆண்டு அறிவிக்கப்பட்டது?",
+    "options": [
+      "1989",
+      "1970",
+      "1789",
+      "1769"
+    ],
+    "correct": 2,
+    "question_en": "In which year was the Declaration of the Rights of Man and of the Citizen announced in France?",
+    "options_en": [
+      "1989",
+      "1970",
+      "1789",
+      "1769"
+    ],
+    "explanation": "1789",
+    "explanation_en": "1789"
+  },
+  {
+    "id": 103,
+    "question": "அமெரிக்க அரசியலமைப்புச் சட்டம் எந்த ஆண்டு இயற்றப்பட்டது?",
+    "options": [
+      "1768",
+      "1769",
+      "1779",
+      "1791"
+    ],
+    "correct": 3,
+    "question_en": "In which year was the United States Constitution enacted?",
+    "options_en": [
+      "1768",
+      "1769",
+      "1779",
+      "1791"
+    ],
+    "explanation": "1791",
+    "explanation_en": "1791"
+  },
+  {
+    "id": 104,
+    "question": "பொருத்துக.\ni. மகாசாசனம் - 1. 1679\nii. உரிமை மனு - 2. 1689\niii. ஹேபியஸ் கார்பஸ் சட்டம் - 3. 1215\niv. ஆங்கில உரிமை மசோதா - 4. 1628",
+    "options": [
+      "i - 1, ii - 3, iii - 4, iv - 2",
+      "i - 2, ii - 4, iii - 3, iv - 1",
+      "i - 3, ii - 4, iii - 1, iv - 2",
+      "i - 3, ii - 2, iii - 4, iv - 1"
+    ],
+    "correct": 2,
+    "question_en": "Match the following.\ni. Magna Carta - 1. 1679\nii. Petition of Right - 2. 1689\niii. Habeas Corpus Act - 3. 1215\niv. English Bill of Rights - 4. 1628",
+    "options_en": [
+      "i - 1, ii - 3, iii - 4, iv - 2",
+      "i - 2, ii - 4, iii - 3, iv - 1",
+      "i - 3, ii - 4, iii - 1, iv - 2",
+      "i - 3, ii - 2, iii - 4, iv - 1"
+    ],
+    "explanation": "i - 3, ii - 4, iii - 1, iv - 2",
+    "explanation_en": "i - 3, ii - 4, iii - 1, iv - 2"
+  },
+  {
+    "id": 105,
+    "question": "சரியான கூற்றைத் தேர்வு செய்க.\n1) மகாசாசனம் மனு - இங்கிலாந்து\n2) ஹேபியஸ் கார்பஸ் சட்டம் - இங்கிலாந்து\n3) மனிதன் மற்றும் குடிமக்கள் உரிமைகள் பற்றிய அறிவிப்பு - பிரான்சு\n4) அமெரிக்க அரசியலமைப்புச் சட்டம் மற்றும் உரிமைகள் மசோதா - அமெரிக்கா",
+    "options": [
+      "1, 2, 3 சரி",
+      "1, 2, 3, 4 அனைத்தும் சரி",
+      "1, 2 சரி மற்றும் 3, 4 தவறு",
+      "3 மட்டும் சரி"
+    ],
+    "correct": 1,
+    "question_en": "Choose the correct statement.\n1) Magna Carta - England\n2) Habeas Corpus Act - England\n3) Declaration of the Rights of Man and of the Citizen - France\n4) The US Constitution and Bill of Rights - America",
+    "options_en": [
+      "1, 2, 3 are correct",
+      "All 1, 2, 3, 4 are correct",
+      "1, 2 are correct and 3, 4 are wrong",
+      "3 only is correct"
+    ],
+    "explanation": "1, 2, 3, 4 அனைத்தும் சரி",
+    "explanation_en": "All 1, 2, 3, 4 are correct"
+  },
+  {
+    "id": 106,
+    "question": "உலக மனித உரிமைகள் அறிவிப்பு பற்றிய தவறான ஒரு கூற்றைத் தெரிவு செய்க.",
+    "options": [
+      "ஐ.நா. பொதுச் சபையால் 1948ஆம் ஆண்டு டிசம்பர் 10 ஆம் நாள் அறிவிக்கப்பட்டது.",
+      "பிரான்சு நாட்டின் பாரீஸ் நகரில் அறிவிக்கப்பட்ட இந்த அறிவிப்பு மனித உரிமைகள் வரலாற்றில் ஒரு மைல்கல் ஆகும்.",
+      "1950 ஆம் ஆண்டு முதல் ஒவ்வொரு ஆண்டும் டிசம்பர் 10 ஆம் நாள் மனித உரிமைகள் தினமாக அனுசரிக்கப்படுகிறது.",
+      "இது வளர்ச்சியடைந்த நாடுகளுக்கான சில சிறப்பான மனித உரிமைகளை வரையறுத்துள்ளது."
+    ],
+    "correct": 3,
+    "question_en": "Choose the incorrect statement regarding the Universal Declaration of Human Rights.",
+    "options_en": [
+      "It was proclaimed by the UN General Assembly on December 10, 1948.",
+      "This declaration, proclaimed in Paris, France, is a milestone in the history of human rights.",
+      "Since 1950, December 10 is observed every year as Human Rights Day.",
+      "It defines certain special human rights for developed countries."
+    ],
+    "explanation": "இது வளர்ச்சியடைந்த நாடுகளுக்கான சில சிறப்பான மனித உரிமைகளை வரையறுத்துள்ளது.",
+    "explanation_en": "It defines certain special human rights for developed countries."
+  },
+  {
+    "id": 107,
+    "question": "உலக மனித உரிமைகள் அறிவிப்பு பற்றிய சரியான கூற்றைத் தெரிவு செய்:\n(1) இது மனித உரிமைகளின் நவீன சர்வதேச மகாசாசனம் என்று அழைக்கப்படுகிறது.\n(2) இதன் கொள்கைகள் 500 க்கும் மேற்பட்ட மொழிகளில் மொழிபெயர்க்கப்பட்டுள்ளது.\n(3) இதன் கொள்கைகள் ஐரோப்பிய, அமெரிக்க நாடுகளுக்கு மட்டும் பொருந்தும் வண்ணம் உருவாக்கப்பட்டுள்ளது.\n(4) இது உலகில் அதிகமாக மொழிபெயர்க்கப்பட்ட ஆவணம் ஆகும்.",
+    "options": [
+      "அனைத்தும் சரி",
+      "1, 2, 3 - சரி மேலும் 4 - தவறு",
+      "1, 2, 4 - சரி மேலும் 3 - தவறு",
+      "2, 3, 4 - சரி மேலும் 1 - தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement(s) regarding the Universal Declaration of Human Rights:\n(1) It is known as the modern international Magna Carta of human rights.\n(2) Its principles have been translated into more than 500 languages.\n(3) Its principles have been created to apply only to European and American countries.\n(4) It is the most translated document in the world.",
+    "options_en": [
+      "All are correct",
+      "1, 2, 3 are correct and 4 is wrong",
+      "1, 2, 4 are correct and 3 is wrong",
+      "2, 3, 4 are correct and 1 is wrong"
+    ],
+    "explanation": "1, 2, 4 - சரி மேலும் 3 - தவறு",
+    "explanation_en": "1, 2, 4 are correct and 3 is wrong"
+  },
+  {
+    "id": 108,
+    "question": "கூற்று: மனித உரிமைகள் ஒன்றுக்கொன்று தொடர்புடையவை.\nகாரணம்: ஒரு உரிமையைப் பயன்படுத்தும் போது மற்றொன்றை உணராமல் இருக்க முடியாது.",
+    "options": [
+      "கூற்று சரி, காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று சரி, காரணம் கூற்றை விளக்கவில்லை.",
+      "கூற்று, காரணம் இரண்டும் தவறு.",
+      "கூற்றும், காரணமும் ஒன்றுக்கொன்று தொடர்பற்றவை."
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Human rights are interdependent.\nReason: The exercise of one right cannot be realized without the other.",
+    "options_en": [
+      "Assertion is correct, Reason explains the assertion.",
+      "Assertion is correct, Reason does not explain the assertion.",
+      "Both Assertion and Reason are wrong.",
+      "Assertion and Reason are unrelated to each other."
+    ],
+    "explanation": "கூற்று சரி, காரணம் கூற்றை விளக்குகிறது.",
+    "explanation_en": "Assertion is correct, Reason explains the assertion."
+  },
+  {
+    "id": 110,
+    "question": "பொருத்துக.\ni. அரசியல் உரிமை - 1. சிவில் உரிமை\nii. சமூக உரிமை - 2. பேச்சுரிமை, தகவல்களைப் பெறும் உரிமை\niii. பொருளாதார உரிமை - 3. கல்வி, சுகாதாரம், உணவு, உடை\niv. கலாச்சார உரிமை - 4. சொத்துரிமை\nv. வாழ்வியல் உரிமை - 5. சமயச்சுதந்திரம், மொழியைப் பேசுவதற்கான உரிமை",
+    "options": [
+      "i - 5, ii - 3, iii - 1, iv - 2, v - 4",
+      "i - 2, ii - 3, iii - 4, iv - 5, v - 1",
+      "i - 5, ii - 1, iii - 2, iv - 3, v - 4",
+      "i - 4, ii - 3, iii - 2, iv - 1, v - 5"
+    ],
+    "correct": 1,
+    "question_en": "Match the following.\ni. Political right - 1. Civil right\nii. Social right - 2. Freedom of speech, right to information\niii. Economic right - 3. Education, health, food, clothing\niv. Cultural right - 4. Right to property\nv. Civil right - 5. Freedom of religion, right to speak language",
+    "options_en": [
+      "i - 5, ii - 3, iii - 1, iv - 2, v - 4",
+      "i - 2, ii - 3, iii - 4, iv - 5, v - 1",
+      "i - 5, ii - 1, iii - 2, iv - 3, v - 4",
+      "i - 4, ii - 3, iii - 2, iv - 1, v - 5"
+    ],
+    "explanation": "i - 2, ii - 3, iii - 4, iv - 5, v - 1",
+    "explanation_en": "i - 2, ii - 3, iii - 4, iv - 5, v - 1"
+  },
+  {
+    "id": 111,
+    "question": "கீழ்க்கண்டவற்றுள் எது அரசு சாரா மனித உரிமை நிறுவனம் அன்று?",
+    "options": [
+      "ஆம்னஸ்டி இன்டர்நேஷனல்",
+      "குழந்தைகள் பாதுகாப்பு நிதியம்",
+      "யுனிசெஃப்",
+      "மனித உரிமைகள் கண்காணிப்பகம்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not a non-governmental human rights organization?",
+    "options_en": [
+      "Amnesty International",
+      "Children's Defense Fund",
+      "UNICEF",
+      "Human Rights Watch"
+    ],
+    "explanation": "யுனிசெஃப்",
+    "explanation_en": "UNICEF is not a non-governmental human rights organization."
+  },
+  {
+    "id": 112,
+    "question": "கீழ்க்காணும் கூற்றுகளை ஆராய்க.\n(a) தேசிய மனித உரிமை ஆணையத்தில் மனித உரிமைகள் பற்றிய அறிவு, அனுபவம் கொண்டவர்கள் மூவர் இருத்தல் வேண்டும்.\n(b) தேசிய மனித உரிமைகள் ஆணையம் விசாரிக்கும் வழக்குகளை மாநில மனித உரிமைகள் ஆணையம் விசாரிக்காது.\n(c) அரசியலமைப்பின் ஏழாம் அட்டவணையில், மாநிலப் பட்டியலின் துறைகளில் உள்ள மனித உரிமை மீறல்களை மட்டும் SHRC விசாரிக்கும்.",
+    "options": [
+      "c தவிர மற்றவை தவறு",
+      "a தவிர மற்றவை தவறு",
+      "b மட்டும் சரி",
+      "அனைத்தும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Examine the following statements.\n(a) The National Human Rights Commission must have three members with knowledge and experience in human rights.\n(b) The State Human Rights Commission cannot investigate cases already being inquired into by the National Human Rights Commission.\n(c) In the 7th schedule of the Constitution, the SHRC can investigate only human rights violations in the subjects of the State List.",
+    "options_en": [
+      "All are wrong except c",
+      "All are wrong except a",
+      "Only b is correct",
+      "All are wrong"
+    ],
+    "explanation": "b மட்டும் சரி",
+    "explanation_en": "Only b is correct"
+  },
+  {
+    "id": 113,
+    "question": "பொருத்துக.\n(a). ஐ.நா.சபை உருவான ஆண்டு - i. 2005\n(b). வன்கொடுமை தடுப்புச் சட்டம் - ii. 1945\n(c). குடிமக்களின் உரிமைகள் பற்றிய பிரான்சின் அறிவிப்பு - iii. 1791\n(d). அமெரிக்க அரசியலமைப்புச் சட்டம் மற்றும் உரிமைகள் மசோதா - iv. 1789",
+    "options": [
+      "a - ii, b - i, c - iv, d - iii",
+      "a - iii, b - ii, c - iv, d - i",
+      "a - iv, b - iii, c - i, d - ii",
+      "a - ii, b - i, c - iii, d - iv"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\n(a). Year of formation of UN - i. 2005\n(b). Prevention of Atrocities Act - ii. 1945\n(c). French Declaration of the Rights of Man and of the Citizen - iii. 1791\n(d). US Constitution and Bill of Rights - iv. 1789",
+    "options_en": [
+      "a - ii, b - i, c - iv, d - iii",
+      "a - iii, b - ii, c - iv, d - i",
+      "a - iv, b - iii, c - i, d - ii",
+      "a - ii, b - i, c - iii, d - iv"
+    ],
+    "explanation": "a - ii, b - i, c - iv, d - iii",
+    "explanation_en": "a - ii, b - i, c - iv, d - iii"
+  }
+]

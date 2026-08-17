@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "question": "பண்டங்கள் வாங்கும் போது அதற்கான செலுத்துத் தொகையாக அனைவராலும் ஏற்றுக் கொள்ளக்கூடிய எதையும் பணம் என்று கூறியவர் ________.",
+    "options": [
+      "இராபர்ட்சன்",
+      "ஏ.பி.ஜே. அப்துல் கலாம்",
+      "ஆடம் ஸ்மித்",
+      "அமித்யா சென்"
+    ],
+    "correct": 0,
+    "question_en": "Who defined money as anything that is generally acceptable as a means of exchange for goods and services?",
+    "options_en": [
+      "Robertson",
+      "A.P.J. Abdul Kalam",
+      "Adam Smith",
+      "Amartya Sen"
+    ],
+    "explanation": "பண்டங்கள் வாங்கும் போது அதற்கான செலுத்துத் தொகையாக அனைவராலும் ஏற்றுக் கொள்ளக்கூடிய எதையும் பணம் என்று கூறியவர் இராபர்ட்சன்.",
+    "explanation_en": "Robertson"
+  },
+  {
+    "id": 2,
+    "question": "இந்தியாவின் \"ரூபாய்\" என்ற சொல் ________ மொழியிலிருந்து பெறப்பட்டது.",
+    "options": [
+      "தமிழ்",
+      "தெலுங்கு",
+      "சமஸ்கிருதம்",
+      "மலையாளம்"
+    ],
+    "correct": 2,
+    "question_en": "The Indian word \"Rupee\" is derived from the ________ language.",
+    "options_en": [
+      "Tamil",
+      "Telugu",
+      "Sanskrit",
+      "Malayalam"
+    ],
+    "explanation": "இந்தியாவின் \"ரூபாய்\" என்ற சொல் சமஸ்கிருதம் மொழியிலிருந்து பெறப்பட்டது.",
+    "explanation_en": "The Indian word \"Rupee\" is derived from the Sanskrit language."
+  },
+  {
+    "id": 3,
+    "question": "கூற்று 1: பணம் என்ற வார்த்தை ரோம் வார்த்தையான \"மொனேட்டா ஜூனோ\" விலிருந்து பெறப்பட்டது.\nகூற்று 2: இது ரோமின் பெண் கடவுள் மற்றும் ரோம் பேரரசின் குடியரசு பணமாகும்.",
+    "options": [
+      "கூற்று 1 சரி, 2 தவறு",
+      "கூற்று 2 சரி, 1 தவறு",
+      "கூற்று இரண்டும் தவறு",
+      "கூற்று இரண்டும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Statement 1: The word 'money' is derived from the Roman word 'Moneta Juno'.\nStatement 2: She is the Roman goddess and the republic money of the Roman Empire.",
+    "options_en": [
+      "Statement 1 is correct, 2 is wrong",
+      "Statement 2 is correct, 1 is wrong",
+      "Both statements are wrong",
+      "Both statements are correct"
+    ],
+    "explanation": "கூற்று இரண்டும் சரி",
+    "explanation_en": "Both statements are correct"
+  },
+  {
+    "id": 4,
+    "question": "பண்டைய கால வரலாற்றின் தந்தை என அழைக்கப்படுபவர் ________.",
+    "options": [
+      "இராபர்ட் புரூஸ்ட்",
+      "ஹெரோடோடஸ்",
+      "மிடோஸ்",
+      "அலெக்சாண்டர்"
+    ],
+    "correct": 1,
+    "question_en": "Who is called the father of ancient history?",
+    "options_en": [
+      "Robert Bruce",
+      "Herodotus",
+      "Midas",
+      "Alexander"
+    ],
+    "explanation": "பண்டைய கால வரலாற்றின் தந்தை என அழைக்கப்படுபவர் ஹெரோடோடஸ்.",
+    "explanation_en": "Herodotus is called the father of ancient history."
+  },
+  {
+    "id": 5,
+    "question": "உலோக நாணயத்தை கண்டுபிடித்தவர் ________ எந்த நூற்றாண்டு ________.",
+    "options": [
+      "இராபர்ட் புரூஸ்ட், 6",
+      "ஹெரோடோடஸ், 12",
+      "லிடியாவின் பேரரசர் மிடாஸ், 8",
+      "மாவீரர் நெப்போலியன், 8"
+    ],
+    "correct": 2,
+    "question_en": "The metal coin was invented by ________ in which century ________.",
+    "options_en": [
+      "Robert Bruce, 6",
+      "Herodotus, 12",
+      "Emperor Midas of Lydia, 8",
+      "Emperor Napoleon, 8"
+    ],
+    "explanation": "உலோக நாணயத்தை கண்டுபிடித்தவர் லிடியாவின் பேரரசர் மிடாஸ், 8 எந்த நூற்றாண்டு லிடியாவின் பேரரசர் மிடாஸ், 8.",
+    "explanation_en": "The metal coin was invented by Emperor Midas of Lydia, 8 in which century Emperor Midas of Lydia, 8."
+  },
+  {
+    "id": 6,
+    "question": "இந்தியாவில் பூரணாஸ், கர்ஷபணம், பனாஸ் போன்ற நாணயங்கள் ________ ஆட்சியில் அச்சடிக்கப்பட்டன.",
+    "options": [
+      "மகாஜனபதங்கள்",
+      "அதிஷ்ட கஜங்கள்",
+      "முகலாயர்கள்",
+      "டெல்லி சுல்தானியர்கள்"
+    ],
+    "correct": 0,
+    "question_en": "In India, coins like Puranas, Karshapanas, and Panas were minted during the rule of ________.",
+    "options_en": [
+      "Mahajanapadas",
+      "Adishta Gajangal",
+      "Mughals",
+      "Delhi Sultans"
+    ],
+    "explanation": "இந்தியாவில் பூரணாஸ், கர்ஷபணம், பனாஸ் போன்ற நாணயங்கள் மகாஜனபதங்கள் ஆட்சியில் அச்சடிக்கப்பட்டன.",
+    "explanation_en": "In India, coins like Puranas, Karshapanas, and Panas were minted during the rule of Mahajanapadas."
+  },
+  {
+    "id": 7,
+    "question": "தங்கம், வெள்ளி, தாமிரம் அல்லது ஈயம் போன்ற நாணயங்களை துளையிட்டு வெளியிட்டவர்கள் ________.",
+    "options": [
+      "சேரர்கள்",
+      "சோழர்கள்",
+      "மௌரியர்கள்",
+      "பாண்டியர்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Those who issued punched coins of gold, silver, copper, or lead were ________.",
+    "options_en": [
+      "Cheras",
+      "Cholas",
+      "Mauryas",
+      "Pandyas"
+    ],
+    "explanation": "தங்கம், வெள்ளி, தாமிரம் அல்லது ஈயம் போன்ற நாணயங்களை துளையிட்டு வெளியிட்டவர்கள் மௌரியர்கள்.",
+    "explanation_en": "Those who issued punched coins of gold, silver, copper, or lead were Mauryas."
+  },
+  {
+    "id": 8,
+    "question": "இந்தியாவில் கிரேக்க மரபுப்படி சித்திரங்கள் பொறிக்கப்பட்ட நாணயங்களை அறிமுகப்படுத்தியவர்கள் ________.",
+    "options": [
+      "மௌரிய அரசர்கள்",
+      "குஷாண அரசர்கள்",
+      "சமண அரசர்கள்",
+      "புத்த வம்சத்தினர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Who introduced coins engraved with images according to the Greek tradition in India?",
+    "options_en": [
+      "Mauryan kings",
+      "Kushan kings",
+      "Jain kings",
+      "Buddhist dynasties"
+    ],
+    "explanation": "இந்தியாவில் கிரேக்க மரபுப்படி சித்திரங்கள் பொறிக்கப்பட்ட நாணயங்களை அறிமுகப்படுத்தியவர்கள் குஷாண அரசர்கள்.",
+    "explanation_en": "Kushan kings"
+  },
+  {
+    "id": 9,
+    "question": "12வது நூற்றாண்டில் நாணயத்தில் இந்திய அரசர்களின் உருவத்தை நீக்கி இஸ்லாமிய எழுத்துக்களைப் பொறித்தவர்கள் யார்?",
+    "options": [
+      "அரேபியர்கள்",
+      "மௌரியர்கள்",
+      "டெல்லி துருக்கி சுல்தான்கள்",
+      "மெசபடோமியர்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Who removed the images of Indian kings from coins and engraved Islamic letters in the 12th century?",
+    "options_en": [
+      "Arabs",
+      "Mauryas",
+      "Turkish Sultans of Delhi",
+      "Mesopotamians"
+    ],
+    "explanation": "12வது நூற்றாண்டில் நாணயத்தில் இந்திய அரசர்களின் உருவத்தை நீக்கி இஸ்லாமிய எழுத்துக்களைப் பொறித்தவர்கள் டெல்லி துருக்கி சுல்தான்கள்.",
+    "explanation_en": "Turkish Sultans of Delhi"
+  },
+  {
+    "id": 10,
+    "question": "12ஆம் நூற்றாண்டில் தங்கம், வெள்ளி மற்றும் தாமிரத்தால் ஆன நாணயங்களை ________ என்று அழைத்தனர்.",
+    "options": [
+      "டாங்கா",
+      "ஜிட்டால்",
+      "ரூபியா",
+      "ரூபாய்"
+    ],
+    "correct": 0,
+    "question_en": "In the 12th century, coins made of gold, silver, and copper were called ________.",
+    "options_en": [
+      "Tanka",
+      "Jittal",
+      "Rupiya",
+      "Rupee"
+    ],
+    "explanation": "12ஆம் நூற்றாண்டில் தங்கம், வெள்ளி மற்றும் தாமிரத்தால் ஆன நாணயங்களை டாங்கா என்று அழைத்தனர்.",
+    "explanation_en": "In the 12th century, coins made of gold, silver, and copper were called Tanka."
+  },
+  {
+    "id": 11,
+    "question": "12ஆம் நூற்றாண்டில் மதிப்பு குறைந்த நாணயங்களை ________ என்று அழைத்தனர்.",
+    "options": [
+      "டாங்கா",
+      "ஜிட்டால்",
+      "ரூபியா",
+      "ரூபாய்"
+    ],
+    "correct": 1,
+    "question_en": "In the 12th century, coins of lower value were called ________.",
+    "options_en": [
+      "Tanka",
+      "Jittal",
+      "Rupiya",
+      "Rupee"
+    ],
+    "explanation": "12ஆம் நூற்றாண்டில் மதிப்பு குறைந்த நாணயங்களை ஜிட்டால் என்று அழைத்தனர்.",
+    "explanation_en": "In the 12th century, coins of lower value were called Jittal."
+  },
+  {
+    "id": 12,
+    "question": "முகலாயரின் ஆட்சிக்காலத்தில் ஹுமாயூனை தோற்கடித்தவர் ________.",
+    "options": [
+      "அக்பர்",
+      "ஔரங்கசீப்",
+      "பாபர்",
+      "ஷெர்ஷா சூரி"
+    ],
+    "correct": 3,
+    "question_en": "Who defeated Humayun during the Mughal rule?",
+    "options_en": [
+      "Akbar",
+      "Aurangzeb",
+      "Babur",
+      "Sher Shah Suri"
+    ],
+    "explanation": "முகலாயரின் ஆட்சிக்காலத்தில் ஹுமாயூனை தோற்கடித்தவர் ஷெர்ஷா சூரி.",
+    "explanation_en": "Sher Shah Suri"
+  },
+  {
+    "id": 13,
+    "question": "ஷெர்ஷா சூரி வெளியிட்ட வெள்ளி நாணயத்தின் பெயர் ________",
+    "options": [
+      "டாங்கா",
+      "ஜிட்டால்",
+      "ரூபியா",
+      "ரூபாய்"
+    ],
+    "correct": 2,
+    "question_en": "The silver coin issued by Sher Shah Suri was named ________",
+    "options_en": [
+      "Tanka",
+      "Jittal",
+      "Rupiya",
+      "Rupee"
+    ],
+    "explanation": "ஷெர்ஷா சூரி வெளியிட்ட வெள்ளி நாணயத்தின் பெயர் ரூபியா",
+    "explanation_en": "The silver coin issued by Sher Shah Suri was named Rupiya"
+  },
+  {
+    "id": 14,
+    "question": "ஷெர்ஷா சூரி காலத்தில் பயன்படுத்தப்பட்ட நாணய முறை ________.",
+    "options": [
+      "ஆ தவிர அனைத்தும்",
+      "அ, இ மட்டும்",
+      "அ, ஆ, இ மட்டும்",
+      "அ, ஈ மட்டும்"
+    ],
+    "correct": 0,
+    "question_en": "The currency system used during the time of Sher Shah Suri was ________.",
+    "options_en": [
+      "All except b",
+      "a, c only",
+      "a, b, c only",
+      "a, d only"
+    ],
+    "explanation": "ஷெர்ஷா சூரி காலத்தில் பயன்படுத்தப்பட்ட நாணய முறை ஆ தவிர அனைத்தும்.",
+    "explanation_en": "The currency system used during the time of Sher Shah Suri was All except b."
+  },
+  {
+    "id": 15,
+    "question": "முகலாயர் ஆட்சி காலம் முழுவதும் பயன்பாட்டில் இருந்த நாணயம் ________.",
+    "options": [
+      "வெள்ளி",
+      "செம்பு",
+      "ஜிட்டால்",
+      "டாங்கா"
+    ],
+    "correct": 0,
+    "question_en": "The coin that remained in use throughout the Mughal period was ________.",
+    "options_en": [
+      "Silver",
+      "Copper",
+      "Jittal",
+      "Tanka"
+    ],
+    "explanation": "முகலாயர் ஆட்சி காலம் முழுவதும் பயன்பாட்டில் இருந்த நாணயம் வெள்ளி.",
+    "explanation_en": "The coin that remained in use throughout the Mughal period was Silver."
+  },
+  {
+    "id": 16,
+    "question": "ஆங்கிலேயர்களுக்கு முகலாய பண நாணயத்தை பம்பாய் அச்சகத்தில் அச்சடிக்க அனுமதி அளித்த முகலாயப் பேரரசர் ________",
+    "options": [
+      "ஷெர்ஷா சூரி",
+      "ஹுமாயூன்",
+      "அக்பர்",
+      "பாருக் ஷாயர்"
+    ],
+    "correct": 3,
+    "question_en": "The Mughal emperor who gave permission to the British to mint Mughal currency coins at the Bombay mint was ________",
+    "options_en": [
+      "Sher Shah Suri",
+      "Humayun",
+      "Akbar",
+      "Farrukhsiyar"
+    ],
+    "explanation": "ஆங்கிலேயர்களுக்கு முகலாய பண நாணயத்தை பம்பாய் அச்சகத்தில் அச்சடிக்க அனுமதி அளித்த முகலாயப் பேரரசர் பாருக் ஷாயர்",
+    "explanation_en": "The Mughal emperor who gave permission to the British to mint Mughal currency coins at the Bombay mint was Farrukhsiyar"
+  },
+  {
+    "id": 17,
+    "question": "பொருத்துக.\ni. தங்க நாணயங்கள் - a) டின்னி\nii. வெள்ளி நாணயங்கள் - b) கப்ரூன்\niii. செம்பு நாணயங்கள் - c) ஏஞ்சலினா\niv. வெண்கல நாணயங்கள் - d) கரோலினா",
+    "options": [
+      "i - d, ii - c, iii - b, iv - a",
+      "i - d, ii - b, iii - c, iv - a",
+      "i - d, ii - c, iii - a, iv - b",
+      "i - b, ii - c, iii - a, iv - d"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\ni. Gold coins - a) Tinny\nii. Silver coins - b) Cuproon\niii. Copper coins - c) Angelina\niv. Bronze coins - d) Carolina",
+    "options_en": [
+      "i - d, ii - c, iii - b, iv - a",
+      "i - d, ii - b, iii - c, iv - a",
+      "i - d, ii - c, iii - a, iv - b",
+      "i - b, ii - c, iii - a, iv - d"
+    ],
+    "explanation": "i - d, ii - c, iii - b, iv - a",
+    "explanation_en": "i - d, ii - c, iii - b, iv - a"
+  },
+  {
+    "id": 18,
+    "question": "உப்பு, அரிசி, கோதுமை, பாத்திரங்கள், ஆயுதங்கள் போன்ற பண்டங்களை பொதுவாக பரிமாற்றிக்கொள்வது ________ ஆகும்.",
+    "options": [
+      "பண்டமாற்று முறை",
+      "காகித மாற்றுமுறை",
+      "பணம் மாற்றுமுறை",
+      "நாணயங்கள் மாற்று முறை"
+    ],
+    "correct": 0,
+    "question_en": "The general exchange of goods like salt, rice, wheat, utensils, weapons, etc., is ________.",
+    "options_en": [
+      "Barter system",
+      "Paper exchange system",
+      "Money exchange system",
+      "Coin exchange system"
+    ],
+    "explanation": "உப்பு, அரிசி, கோதுமை, பாத்திரங்கள், ஆயுதங்கள் போன்ற பண்டங்களை பொதுவாக பரிமாற்றிக்கொள்வது பண்டமாற்று முறை ஆகும்.",
+    "explanation_en": "The general exchange of goods like salt, rice, wheat, utensils, weapons, etc., is Barter system."
+  },
+  {
+    "id": 19,
+    "question": "மனித நாகரிக முன்னேற்றத்தின் அரிய கண்டுபிடிப்பு ________.",
+    "options": [
+      "தங்கம்",
+      "வெள்ளி",
+      "பணம்",
+      "செம்பு"
+    ],
+    "correct": 2,
+    "question_en": "A rare invention of human civilizational progress is ________.",
+    "options_en": [
+      "Gold",
+      "Silver",
+      "Money",
+      "Copper"
+    ],
+    "explanation": "மனித நாகரிக முன்னேற்றத்தின் அரிய கண்டுபிடிப்பு பணம்.",
+    "explanation_en": "A rare invention of human civilizational progress is Money."
+  },
+  {
+    "id": 20,
+    "question": "கூற்று: காகித பணம் கண்டுபிடிப்பு பணத்தின் வளர்ச்சியில் ஒரு முக்கிய நிலையாக கருதப்பட்டது.\nகாரணம்: தங்கம் மற்றும் வெள்ளி நாணயங்களை ஓர் இடத்திலிருந்து மற்றொரு இடத்திற்கு கொண்டு செல்வது சிரமமாகவும், ஆபத்தானதாகவும் உள்ளது.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று மற்றும் காரணம் சரி; காரணம் கூற்றை சரியாக விளக்குகிறது",
+      "கூற்று மற்றும் காரணம் சரி; கூற்றை காரணம் சரியாக விளக்கவில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: The invention of paper money is considered an important stage in the development of money.\nReason: Carrying gold and silver coins from one place to another is difficult and dangerous.",
+    "options_en": [
+      "Assertion is correct, Reason is wrong",
+      "Assertion is wrong, Reason is correct",
+      "Both Assertion and Reason are correct; Reason correctly explains the Assertion",
+      "Both Assertion and Reason are correct; Reason does not correctly explain the Assertion"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி; காரணம் கூற்றை சரியாக விளக்குகிறது",
+    "explanation_en": "Both Assertion and Reason are correct; Reason correctly explains the Assertion"
+  },
+  {
+    "id": 21,
+    "question": "பண மதிப்பிழப்பு செய்வதாக அறிவித்த ஆண்டு ________.",
+    "options": [
+      "2016 நவம்பர் 8",
+      "2017 ஜூலை 1",
+      "2016 ஜூலை 1",
+      "2017 நவம்பர் 8"
+    ],
+    "correct": 0,
+    "question_en": "The year demonetization was announced ________.",
+    "options_en": [
+      "2016 November 8",
+      "2017 July 1",
+      "2016 July 1",
+      "2017 November 8"
+    ],
+    "explanation": "பண மதிப்பிழப்பு செய்வதாக அறிவித்த ஆண்டு 2016 நவம்பர் 8.",
+    "explanation_en": "The year demonetization was announced 2016 November 8."
+  },
+  {
+    "id": 22,
+    "question": "பண மோசடி நடவடிக்கை தடுப்புச் சட்டம் கொண்டுவரப்பட்ட ஆண்டு ________.",
+    "options": [
+      "2002",
+      "2001",
+      "2003",
+      "2004"
+    ],
+    "correct": 0,
+    "question_en": "The year the Prevention of Money Laundering Act was introduced ________.",
+    "options_en": [
+      "2002",
+      "2001",
+      "2003",
+      "2004"
+    ],
+    "explanation": "பண மோசடி நடவடிக்கை தடுப்புச் சட்டம் கொண்டுவரப்பட்ட ஆண்டு 2002.",
+    "explanation_en": "The year the Prevention of Money Laundering Act was introduced 2002."
+  },
+  {
+    "id": 23,
+    "question": "பணம் என்ற வார்த்தை ________ மொழியிலிருந்து பெறப்பட்டது.",
+    "options": [
+      "ரோமன்",
+      "இத்தாலி",
+      "இலத்தீன்",
+      "கிரேக்கம்"
+    ],
+    "correct": 0,
+    "question_en": "The word 'money' is derived from the ________ language.",
+    "options_en": [
+      "Roman",
+      "Italian",
+      "Latin",
+      "Greek"
+    ],
+    "explanation": "பணம் என்ற வார்த்தை ரோமன் மொழியிலிருந்து பெறப்பட்டது.",
+    "explanation_en": "The word 'money' is derived from the Roman language."
+  },
+  {
+    "id": 24,
+    "question": "கீழ்க்கண்ைவற்றுள் எது பண்டமாற்று முறையின் குறைபாடு அல்ல?",
+    "options": [
+      "இருமுகத் தேவை பொருத்தமின்மை",
+      "பொதுவான மதிப்பின் அளவுகோல்",
+      "செல்வத்தைச் சேமிக்க எளிதானது",
+      "பொருள்களின் பகுபடாமை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not a defect of the barter system?",
+    "options_en": [
+      "Lack of double coincidence of wants",
+      "Common measure of value",
+      "Easy to store wealth",
+      "Indivisibility of commodities"
+    ],
+    "explanation": "செல்வத்தைச் சேமிக்க எளிதானது",
+    "explanation_en": "Easy to store wealth is not a defect of the barter system."
+  },
+  {
+    "id": 25,
+    "question": "எந்தப் பொருட்கள் பொதுவாகப் பணமாகப் பயன்படுத்தப்பட்டன?",
+    "options": [
+      "உப்பு",
+      "அரிசி",
+      "கோதுமை",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which commodities were generally used as money?",
+    "options_en": [
+      "Salt",
+      "Rice",
+      "Wheat",
+      "All of the above"
+    ],
+    "explanation": "மேற்கண்ட அனைத்தும்",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 26,
+    "question": "எந்த உலோகங்கள் உலோகப் பணமாகப் பயன்படுத்தப்பட்டன?",
+    "options": [
+      "தங்கம்",
+      "வெள்ளி",
+      "தாமிரம்",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which metals were used as metallic money?",
+    "options_en": [
+      "Gold",
+      "Silver",
+      "Copper",
+      "All of the above"
+    ],
+    "explanation": "மேற்கண்ட அனைத்தும்",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 27,
+    "question": "எந்த நூற்றாண்டில் லிடியாவில் முதல் உலோக நாணயம் கண்டறியப்பட்டது?",
+    "options": [
+      "பொ.ஆ.பி.8",
+      "கி.மு.8",
+      "பொ.ஆ.மு.6",
+      "கி.பி.12"
+    ],
+    "correct": 1,
+    "question_en": "In which century was the first metallic coin invented in Lydia?",
+    "options_en": [
+      "8th century CE",
+      "8th century BCE",
+      "6th century BCE",
+      "12th century CE"
+    ],
+    "explanation": "கி.மு.8",
+    "explanation_en": "8th century BCE"
+  },
+  {
+    "id": 28,
+    "question": "பொ.ஆ.மு. 6 ஆம் நூற்றாண்டில் கீழ்க்கண்ட எந்த இந்திய நாணயம் மகாஜனபதங்களால் அச்சடிக்கப்படவில்லை?",
+    "options": [
+      "பூரணாஸ்",
+      "ரூபியா",
+      "பனாஸ்",
+      "கர்ஷபணம்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following Indian coins was not minted by the Mahajanapadas in the 6th century BCE?",
+    "options_en": [
+      "Puranas",
+      "Rupiya",
+      "Panas",
+      "Karshapanas"
+    ],
+    "explanation": "ரூபியா",
+    "explanation_en": "Rupiya"
+  },
+  {
+    "id": 29,
+    "question": "காகிதப் பணத்தினை ஒழுங்குபடுத்துவதும் கட்டுப்படுத்துவதும் ஒரு நாட்டின் __________ வங்கியாகும்.",
+    "options": [
+      "மைய வங்கி",
+      "பாரத ஸ்டேட் வங்கி",
+      "இந்தியன் வங்கி",
+      "கூட்டுறவு வங்கி"
+    ],
+    "correct": 0,
+    "question_en": "Regulating and controlling paper money is the responsibility of a country's __________ bank.",
+    "options_en": [
+      "Central bank",
+      "State Bank of India",
+      "Indian Bank",
+      "Cooperative bank"
+    ],
+    "explanation": "காகிதப் பணத்தினை ஒழுங்குபடுத்துவதும் கட்டுப்படுத்துவதும் ஒரு நாட்டின் மைய வங்கி வங்கியாகும்.",
+    "explanation_en": "Regulating and controlling paper money is the responsibility of a country's Central bank bank."
+  },
+  {
+    "id": 30,
+    "question": "வங்கிக் காசோலை ________ எனவும் அழைக்கப்படுகிறது.",
+    "options": [
+      "கடன் பணம்",
+      "வங்கிப் பணம்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "A bank cheque is also known as ________.",
+    "options_en": [
+      "Credit money",
+      "Bank money",
+      "1 and 2",
+      "None"
+    ],
+    "explanation": "வங்கிக் காசோலை 1 மற்றும் 2 எனவும் அழைக்கப்படுகிறது.",
+    "explanation_en": "A bank cheque is also known as 1 and 2."
+  },
+  {
+    "id": 31,
+    "question": "பணமில்லா நடவடிக்கையானது கீழ்க்கண்டவற்றுள் எதன் நோக்கமாகும்?",
+    "options": [
+      "உலோகப் பணம்",
+      "காகிதப் பணம்",
+      "பண்டமாற்று முறை",
+      "நெகிழிப் பணம்"
+    ],
+    "correct": 3,
+    "question_en": "Cashless transaction is the objective of which of the following?",
+    "options_en": [
+      "Metallic money",
+      "Paper money",
+      "Barter system",
+      "Plastic money"
+    ],
+    "explanation": "நெகிழிப் பணம்",
+    "explanation_en": "Plastic money"
+  },
+  {
+    "id": 32,
+    "question": "விலைகள் வீழ்ச்சி அடைந்து பணத்தின் மதிப்பு உயர்வது ________ ஆகும்.",
+    "options": [
+      "பணவீக்கம்",
+      "பணவாட்டம்",
+      "தேவை",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "The fall in prices and rise in the value of money is ________.",
+    "options_en": [
+      "Inflation",
+      "Deflation",
+      "Demand",
+      "None"
+    ],
+    "explanation": "விலைகள் வீழ்ச்சி அடைந்து பணத்தின் மதிப்பு உயர்வது பணவாட்டம் ஆகும்.",
+    "explanation_en": "The fall in prices and rise in the value of money is Deflation."
+  },
+  {
+    "id": 33,
+    "question": "தனிநபர் வருமானத்தின் ஒரு பகுதி ________ ஆகும்.",
+    "options": [
+      "முதலீடு",
+      "சேமிப்பு",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "A part of personal income is ________.",
+    "options_en": [
+      "Investment",
+      "Savings",
+      "1 and 2",
+      "None"
+    ],
+    "explanation": "தனிநபர் வருமானத்தின் ஒரு பகுதி சேமிப்பு ஆகும்.",
+    "explanation_en": "A part of personal income is Savings."
+  },
+  {
+    "id": 34,
+    "question": "கீழ்க்கண்டவற்றுள் எது/எவை தவறான கூற்று/கள்?\nஅ) ரூபியா என்றால் வெள்ளி நாணயம் என்று பொருள்.\nஆ) பண்டமாற்று செயலில் பணத்தின் ஈடுபாடு இல்லாமல் இருப்பது ஒரு தீமையாகும்.\nஇ) பண்டமாற்று முறை என்பது குறைகள் இல்லாத ஒரு முறையாகும்.\nஈ) பண்டமாற்று முறை என்பது பழங்கால முறையாகும்.",
+    "options": [
+      "ஈ தவிர அனைத்தும்",
+      "அ மற்றும் ஈ",
+      "ஆ மற்றும் இ",
+      "இ மட்டும்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is/are incorrect statement(s)?\na) Rupiya means silver coin.\nb) Lack of involvement of money in the barter process is a disadvantage.\nc) The barter system is a system without flaws.\nd) The barter system is an ancient system.",
+    "options_en": [
+      "All except d",
+      "a and d",
+      "b and c",
+      "c only"
+    ],
+    "explanation": "ஆ மற்றும் இ",
+    "explanation_en": "b and c"
+  },
+  {
+    "id": 35,
+    "question": "கீழ்க்கண்ட குழுவில் பொருந்தாதது எது?",
+    "options": [
+      "நெகிழிப் பணம்",
+      "உலோகப் பணம்",
+      "மின்னணு பணம்",
+      "நிகழ்நிலை வங்கி"
+    ],
+    "correct": 1,
+    "question_en": "Which is the odd one out in the following group?",
+    "options_en": [
+      "Plastic money",
+      "Metallic money",
+      "Electronic money",
+      "Online banking"
+    ],
+    "explanation": "கீழ்க்கண்ட குழுவில் பொருந்தாதது உலோகப் பணம் ஆகும்.",
+    "explanation_en": "Metallic money is the odd one out in the following group."
+  },
+  {
+    "id": 36,
+    "question": "கால வரிசைப்படுத்து\nஅ) உலோக பணம்\nஆ) நிகர் பணம்\nஇ) பண்டப் பணம்\nஈ) காகித பணம்\nஉ) வங்கிப் பணம்",
+    "options": [
+      "இ, ஆ, உ, அ, ஈ",
+      "அ, ஆ, இ, ஈ, உ",
+      "உ, ஆ, அ, இ, ஈ",
+      "இ, அ, ஈ, உ, ஆ"
+    ],
+    "correct": 3,
+    "question_en": "Arrange in chronological order:\na) Metallic money\nb) Near money\nc) Commodity money\nd) Paper money\ne) Bank money",
+    "options_en": [
+      "c, b, e, a, d",
+      "a, b, c, d, e",
+      "e, b, a, c, d",
+      "c, a, d, e, b"
+    ],
+    "explanation": "இ, அ, ஈ, உ, ஆ",
+    "explanation_en": "c, a, d, e, b"
+  },
+  {
+    "id": 37,
+    "question": "கூற்று: தங்கம், வெள்ளி, வெண்கலம் போன்ற உலோகங்கள் உலோக பணமாகப் பயன்படுத்தப்பட்டன.\nகாரணம்: அவைகள் வெவ்வேறு பிரிவுகளாகப் பிரிப்பதற்கும், எடுத்துச் செல்வதற்கும், செலுத்துவதற்கும் வசதியாக இருந்தன.",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்றுக்கு காரணம் சரியான பொருத்தமில்லை",
+      "கூற்று சரி காரணம் பொருத்தமே"
+    ],
+    "correct": 3,
+    "question_en": "Assertion: Metals like gold, silver, bronze were used as metallic money.\nReason: They were convenient to divide into different denominations, carry, and pay.",
+    "options_en": [
+      "Assertion is correct, Reason is wrong",
+      "Assertion is wrong, Reason is correct",
+      "Reason is not a correct match for the Assertion",
+      "Assertion is correct and Reason is a perfect match"
+    ],
+    "explanation": "கூற்று சரி காரணம் பொருத்தமே",
+    "explanation_en": "Assertion is correct and Reason is a perfect match"
+  },
+  {
+    "id": 38,
+    "question": "இந்திய ரூபாய் (₹) குறியீட்டினை வடிவமைத்தவர் யார்?",
+    "options": [
+      "உதயகுமார்",
+      "அமர்த்தியாசென்",
+      "அபிஜித் பானர்ஜி",
+      "இவர்களில் எவருமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Who designed the Indian Rupee (₹) symbol?",
+    "options_en": [
+      "Udaya Kumar",
+      "Amartya Sen",
+      "Abhijit Banerjee",
+      "None of these"
+    ],
+    "explanation": "இந்திய ரூபாய் (₹) குறியீட்டினை வடிவமைத்தவர் உதயகுமார்.",
+    "explanation_en": "Udaya Kumar"
+  },
+  {
+    "id": 39,
+    "question": "பணத்தின் மதிப்பு ________.",
+    "options": [
+      "அக மதிப்பு",
+      "புற மதிப்பு",
+      "1 மற்றும் 2",
+      "எதுவும் இல்லை"
+    ],
+    "correct": 2,
+    "question_en": "The value of money is ________.",
+    "options_en": [
+      "Internal value",
+      "External value",
+      "1 and 2",
+      "None"
+    ],
+    "explanation": "பணத்தின் மதிப்பு 1 மற்றும் 2.",
+    "explanation_en": "The value of money is 1 and 2."
+  },
+  {
+    "id": 40,
+    "question": "வங்கிப் பணம் என்பது எது?",
+    "options": [
+      "காசோலை",
+      "வரைவு",
+      "கடன் மற்றும் பற்று அட்டைகள்",
+      "மேற்கூறிய அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What is bank money?",
+    "options_en": [
+      "Cheque",
+      "Draft",
+      "Credit and debit cards",
+      "All of the above"
+    ],
+    "explanation": "வங்கிப் பணம் என்பது மேற்கூறிய அனைத்தும் ஆகும்.",
+    "explanation_en": "All of the above is bank money."
+  },
+  {
+    "id": 41,
+    "question": "தவறான ஒன்றை தேர்ந்தெடுக்கவும். முதலீட்டுக் கருவிகள் என்பவை",
+    "options": [
+      "பங்கு வர்த்தகம்",
+      "பத்திரங்கள்",
+      "பரஸ்பர நிதி",
+      "வரி செலுத்துவது"
+    ],
+    "correct": 3,
+    "question_en": "Choose the incorrect one. Investment instruments are",
+    "options_en": [
+      "Stock market",
+      "Bonds",
+      "Mutual funds",
+      "Paying tax"
+    ],
+    "explanation": "வரி செலுத்துவது",
+    "explanation_en": "Paying tax"
+  },
+  {
+    "id": 42,
+    "question": "பின்வருவனவற்றில் கருப்புப் பணம் குவிப்பதற்குக் காரணமானவர்கள் ________.",
+    "options": [
+      "வரி ஏய்ப்பவர்கள்",
+      "பதுக்குபவர்கள்",
+      "கடத்தல்காரர்கள்",
+      "இவர்கள் அனைவரும்"
+    ],
+    "correct": 3,
+    "question_en": "Who among the following are responsible for the accumulation of black money?",
+    "options_en": [
+      "Tax evaders",
+      "Hoarders",
+      "Smugglers",
+      "All of them"
+    ],
+    "explanation": "பின்வருவனவற்றில் கருப்புப் பணம் குவிப்பதற்குக் காரணமானவர்கள் இவர்கள் அனைவரும்.",
+    "explanation_en": "All of them"
+  },
+  {
+    "id": 43,
+    "question": "நிகழ்நிலை வங்கியை _________ என்று அழைக்கலாம்.",
+    "options": [
+      "மின்னணு வங்கி",
+      "இணைய வங்கி",
+      "இவ்விரண்டும்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Online banking can also be called _________.",
+    "options_en": [
+      "E-banking",
+      "Internet banking",
+      "Both of these",
+      "None"
+    ],
+    "explanation": "நிகழ்நிலை வங்கியை இணைய வங்கி என்று அழைக்கலாம்.",
+    "explanation_en": "Online banking can also be called Internet banking."
+  },
+  {
+    "id": 44,
+    "question": "மின்னணு வங்கியை ________ என்று அழைக்கலாம்.",
+    "options": [
+      "தேசிய மின்னணு நிதி பரிமாற்றம்",
+      "நிகழ்நிலை வங்கி",
+      "RTGS",
+      "IMPS"
+    ],
+    "correct": 0,
+    "question_en": "E-banking can be called ________.",
+    "options_en": [
+      "National Electronic Fund Transfer",
+      "Online banking",
+      "RTGS",
+      "IMPS"
+    ],
+    "explanation": "மின்னணு வங்கியை தேசிய மின்னணு நிதி பரிமாற்றம் என்று அழைக்கலாம்.",
+    "explanation_en": "E-banking can be called National Electronic Fund Transfer."
+  },
+  {
+    "id": 45,
+    "question": "கடன் அட்டைகள் மற்றும் பற்று அட்டைகள் _________ பணமாகும்.",
+    "options": [
+      "உலோகப் பணம்",
+      "நெகிழிப் பணம்",
+      "மின் பணம்",
+      "காகிதப் பணம்"
+    ],
+    "correct": 1,
+    "question_en": "Credit cards and debit cards are _________ money.",
+    "options_en": [
+      "Metallic money",
+      "Plastic money",
+      "E-money",
+      "Paper money"
+    ],
+    "explanation": "கடன் அட்டைகள் மற்றும் பற்று அட்டைகள் நெகிழிப் பணம் பணமாகும்.",
+    "explanation_en": "Credit cards and debit cards are Plastic money money."
+  },
+  {
+    "id": 46,
+    "question": "இந்திய ரிசர்வ் வங்கி தோற்றுவிக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "கி.பி.1717",
+      "கி.பி.1600",
+      "கி.பி.1935",
+      "கி.பி.2016"
+    ],
+    "correct": 2,
+    "question_en": "The year the Reserve Bank of India was established ________.",
+    "options_en": [
+      "1717 AD",
+      "1600 AD",
+      "1935 AD",
+      "2016 AD"
+    ],
+    "explanation": "இந்திய ரிசர்வ் வங்கி தோற்றுவிக்கப்பட்ட ஆண்டு கி.பி.1935.",
+    "explanation_en": "The year the Reserve Bank of India was established 1935 AD."
+  },
+  {
+    "id": 47,
+    "question": "தவறான ஒன்றைக் கண்டுபிடிக்க. பரிமாற்றத்திற்கு பணத்தின் சமீபத்திய வடிவங்கள்",
+    "options": [
+      "பற்று அட்டை",
+      "பண்டமாற்று முறை",
+      "கடன் அட்டை",
+      "நிகழ்நிலை வங்கி"
+    ],
+    "correct": 1,
+    "question_en": "Find the incorrect one. Recent forms of money for exchange",
+    "options_en": [
+      "Debit card",
+      "Barter system",
+      "Credit card",
+      "Online banking"
+    ],
+    "explanation": "பண்டமாற்று முறை",
+    "explanation_en": "Barter system"
+  },
+  {
+    "id": 48,
+    "question": "பொருத்துக.\nஅ) பண்டமாற்று முறை - i) வரி ஏமாற்றுபவர்கள்\nஆ) இந்திய ரிசர்வ் வங்கி சட்டம் - ii) மின்னணு பணம்\nஇ) மின் பணம் - iii) நுகர்வு தவிர்த்த வருமானம்\nஈ) சேமிப்பு - iv) பண்டங்களுக்கு பண்டங்கள் பரிமாற்றம்\nஉ) கருப்புப் பணம் - v) 1935",
+    "options": [
+      "அ - i, ஆ - ii, இ - iii, ஈ - iv, உ - v",
+      "அ - iv, ஆ - ii, இ - i, ஈ - v, உ - iii",
+      "அ - iv, ஆ - iii, இ - ii, ஈ - v, உ - i",
+      "அ - iv, ஆ - v, இ - ii, ஈ - iii, உ - i"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\na) Barter system - i) Tax evaders\nb) Reserve Bank of India Act - ii) E-money\nc) E-money - iii) Income saved from consumption\nd) Savings - iv) Exchange of goods for goods\ne) Black money - v) 1935",
+    "options_en": [
+      "a - i, b - ii, c - iii, d - iv, e - v",
+      "a - iv, b - ii, c - i, d - v, e - iii",
+      "a - iv, b - iii, c - ii, d - v, e - i",
+      "a - iv, b - v, c - ii, d - iii, e - i"
+    ],
+    "explanation": "அ - iv, ஆ - v, இ - ii, ஈ - iii, உ - i",
+    "explanation_en": "a - iv, b - v, c - ii, d - iii, e - i"
+  },
+  {
+    "id": 49,
+    "question": "இந்தியாவில் ரூபாய் நோட்டுகளை அச்சிட்டு வெளியிடுவது யார்?",
+    "options": [
+      "நிதி அமைச்சகம்",
+      "ரிசர்வ் வங்கி",
+      "அரசு அனுமதி பெற்ற அச்சகம்",
+      "மத்திய கூட்டுறவு வங்கி"
+    ],
+    "correct": 1,
+    "question_en": "Who prints and issues rupee notes in India?",
+    "options_en": [
+      "Ministry of Finance",
+      "Reserve Bank of India",
+      "Government-approved printing press",
+      "Central Cooperative Bank"
+    ],
+    "explanation": "இந்தியாவில் ரூபாய் நோட்டுகளை அச்சிட்டு வெளியிடுவது ரிசர்வ் வங்கி.",
+    "explanation_en": "Reserve Bank of India"
+  },
+  {
+    "id": 50,
+    "question": "தவறான ஒன்றினைக் கண்டுபிடி. பொருளாதாரத்தில் கருப்புப் பணத்தின் விளைவுகள்",
+    "options": [
+      "இரட்டை பொருளாதாரம்",
+      "சமத்துவம் வலுவிழத்தல்",
+      "உற்பத்தியில் விளைவுகள் இல்லை",
+      "ஆடம்பர நுகர்வுச் செலவு"
+    ],
+    "correct": 2,
+    "question_en": "Find the incorrect one. Effects of black money on the economy",
+    "options_en": [
+      "Dual economy",
+      "Weakening of equality",
+      "No effect on production",
+      "Luxury consumption expenditure"
+    ],
+    "explanation": "உற்பத்தியில் விளைவுகள் இல்லை",
+    "explanation_en": "No effect on production"
+  },
+  {
+    "id": 51,
+    "question": "தவறான இணையைக் கண்டறிக.",
+    "options": [
+      "பண்டப் பணம் - ஆயுதங்கள்",
+      "உலோகப் பணம் - தாமிரம்",
+      "காகிதப் பணம் - பொற்கொல்லர் ரசீது",
+      "நிகர் பணம் - பரஸ்பர நிதி"
+    ],
+    "correct": 3,
+    "question_en": "Find the incorrect pair.",
+    "options_en": [
+      "Commodity money - Weapons",
+      "Metallic money - Copper",
+      "Paper money - Goldsmith's receipt",
+      "Near money - Mutual funds"
+    ],
+    "explanation": "நிகர் பணம் - பரஸ்பர நிதி",
+    "explanation_en": "Near money - Mutual funds"
+  },
+  {
+    "id": 52,
+    "question": "பதிவு செய்யப்பட்ட வரலாற்றில் எவ்வகையான பணம் முக்கிய பங்கு வகித்தது?",
+    "options": [
+      "உலோகப் பணம்",
+      "பண்டப் பணம்",
+      "நிகர் பணம்",
+      "காகிதப் பணம்"
+    ],
+    "correct": 0,
+    "question_en": "Which type of money played a major role in recorded history?",
+    "options_en": [
+      "Metallic money",
+      "Commodity money",
+      "Near money",
+      "Paper money"
+    ],
+    "explanation": "உலோகப் பணம்",
+    "explanation_en": "Metallic money"
+  },
+  {
+    "id": 53,
+    "question": "அமெரிக்க நாட்டின் நாணயத்தின் பெயர் ________.",
+    "options": [
+      "ரூபாய்",
+      "யென்",
+      "டாலர்",
+      "பவுண்ட்"
+    ],
+    "correct": 2,
+    "question_en": "The name of the currency of the USA is ________.",
+    "options_en": [
+      "Rupee",
+      "Yen",
+      "Dollar",
+      "Pound"
+    ],
+    "explanation": "அமெரிக்க நாட்டின் நாணயத்தின் பெயர் டாலர்.",
+    "explanation_en": "The name of the currency of the USA is Dollar."
+  },
+  {
+    "id": 54,
+    "question": "குழுவில் பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "கருவூல பட்டியல்",
+      "கடன் பத்திரங்கள்",
+      "காப்பீடு",
+      "உண்டியல்"
+    ],
+    "correct": 2,
+    "question_en": "Choose the odd one out in the group.",
+    "options_en": [
+      "Treasury bill",
+      "Bonds",
+      "Insurance",
+      "Bill of exchange"
+    ],
+    "explanation": "காப்பீடு",
+    "explanation_en": "Insurance"
+  },
+  {
+    "id": 55,
+    "question": "பங்கு வர்த்தகம், பத்திரங்கள், பரஸ்பர நிதி, காப்பீடு அடங்கிய குழுவிற்குப் பெயரிடுக.",
+    "options": [
+      "சேமிப்பு",
+      "முதலீடு",
+      "நிகர் பணம்",
+      "பணத்தின் சமீபத்திய வடிவங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Name the group comprising stock market, bonds, mutual funds, and insurance.",
+    "options_en": [
+      "Savings",
+      "Investments",
+      "Near money",
+      "Recent forms of money"
+    ],
+    "explanation": "முதலீடு",
+    "explanation_en": "Investments"
+  },
+  {
+    "id": 56,
+    "question": "நாணயங்கள் அடிப்படையில் குழுவில் பொருந்தாததைத் தேர்ந்தெடு.",
+    "options": [
+      "இந்தியா",
+      "சிங்கப்பூர்",
+      "பாகிஸ்தான்",
+      "ஸ்ரீலங்கா"
+    ],
+    "correct": 1,
+    "question_en": "Choose the odd one out in the group based on currencies.",
+    "options_en": [
+      "India",
+      "Singapore",
+      "Pakistan",
+      "Sri Lanka"
+    ],
+    "explanation": "சிங்கப்பூர்",
+    "explanation_en": "Singapore"
+  },
+  {
+    "id": 57,
+    "question": "வங்கியில் கணினி அமைப்புகளில் உள்ள மின்னணு முறையின் மூலம் பணப் பரிவர்த்தனை மேற்கொள்ளப் படுவது",
+    "options": [
+      "மின்னணு பணம்",
+      "இணைய வங்கி",
+      "நிகழ்நிலை வங்கி",
+      "மின் வங்கி"
+    ],
+    "correct": 0,
+    "question_en": "Money transactions carried out through electronic systems in bank computer systems are called",
+    "options_en": [
+      "E-money",
+      "Internet banking",
+      "Online banking",
+      "E-banking"
+    ],
+    "explanation": "மின்னணு பணம்",
+    "explanation_en": "E-money"
+  },
+  {
+    "id": 58,
+    "question": "பணப் பரிணாம வளர்ச்சியின் இறுதி நிலை ________.",
+    "options": [
+      "காகிதப் பணம்",
+      "பண்டப் பணம்",
+      "நிகர் பணம்",
+      "வங்கிப் பணம்"
+    ],
+    "correct": 2,
+    "question_en": "The final stage in the evolution of money is ________.",
+    "options_en": [
+      "Paper money",
+      "Commodity money",
+      "Near money",
+      "Bank money"
+    ],
+    "explanation": "பணப் பரிணாம வளர்ச்சியின் இறுதி நிலை நிகர் பணம்.",
+    "explanation_en": "The final stage in the evolution of money is Near money."
+  },
+  {
+    "id": 59,
+    "question": "NEFT என்பது ________.",
+    "options": [
+      "National Education Fundamental Training",
+      "National Eco Forest Type",
+      "National Empowerment of Foreign Treaty",
+      "National Electronic Fund Transfer"
+    ],
+    "correct": 3,
+    "question_en": "NEFT stands for ________.",
+    "options_en": [
+      "National Education Fundamental Training",
+      "National Eco Forest Type",
+      "National Empowerment of Foreign Treaty",
+      "National Electronic Fund Transfer"
+    ],
+    "explanation": "NEFT என்பது National Electronic Fund Transfer.",
+    "explanation_en": "NEFT stands for National Electronic Fund Transfer."
+  },
+  {
+    "id": 60,
+    "question": "பின்வருவனவற்றில் தவறான கூற்று எது?",
+    "options": [
+      "காகித பணமும் கடன் பணமும் ஒரே நேரத்தில் வளர்ந்தன.",
+      "பணத்தின் புற மதிப்பு என்பது வெளி மாநிலத்தில் உள்ள பண்ட மற்றும் பணிகளை வாங்கும் சக்தியைக் குறிக்கும்.",
+      "பணத்தின் மதிப்பும் விலையின் அளவும் எதிர்விகிதத் தொடர்புடையது.",
+      "‘பணமாகப் பிரகடனம் செய்யப்படும் எவையும் பணமாகும்’ என சில வல்லுநர்கள் பணத்தைச் சட்டபூர்வமான சொற்களால் வரையறுத்துள்ளனர்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is incorrect?",
+    "options_en": [
+      "Paper money and credit money developed simultaneously.",
+      "External value of money refers to the purchasing power of goods and services in a foreign state.",
+      "The value of money and the price level are inversely related.",
+      "Some experts defined money in legal terms as 'anything declared as money by the state is money'."
+    ],
+    "explanation": "பணத்தின் புற மதிப்பு என்பது வெளி மாநிலத்தில் உள்ள பண்ட மற்றும் பணிகளை வாங்கும் சக்தியைக் குறிக்கும்.",
+    "explanation_en": "External value of money refers to the purchasing power of goods and services in a foreign state."
+  },
+  {
+    "id": 61,
+    "question": "பணத்தின் மதிப்பு என்பது ________.",
+    "options": [
+      "பொருட்களை விற்கும் போது கிடைக்கும் லாபத்தைக் குறிக்கும்.",
+      "பண்ட மற்றும் பணிகளை வாங்கும் சக்தியைக் குறிக்கும்.",
+      "மேற்கண்ட இரண்டும்.",
+      "இவை எதுவுமில்லை."
+    ],
+    "correct": 1,
+    "question_en": "The value of money means ________.",
+    "options_en": [
+      "Refers to the profit made while selling goods.",
+      "Refers to the purchasing power of goods and services.",
+      "Both of the above.",
+      "None of these."
+    ],
+    "explanation": "பணத்தின் மதிப்பு என்பது பண்ட மற்றும் பணிகளை வாங்கும் சக்தியைக் குறிக்கும்..",
+    "explanation_en": "The value of money means Refers to the purchasing power of goods and services.."
+  },
+  {
+    "id": 62,
+    "question": "உள்நாட்டில் உள்ள பண்ட மற்றும் பணிகளின் வாங்கும் சக்தியைக் குறிப்பது ________.",
+    "options": [
+      "பணத்தின் புற மதிப்பு",
+      "பணத்தின் அக மதிப்பு",
+      "கடன் பணம் (அ) வங்கிப் பணம்",
+      "இவற்றில் எதுவும் இல்லை"
+    ],
+    "correct": 1,
+    "question_en": "The purchasing power of goods and services within the country refers to ________.",
+    "options_en": [
+      "External value of money",
+      "Internal value of money",
+      "Credit money or bank money",
+      "None of these"
+    ],
+    "explanation": "உள்நாட்டில் உள்ள பண்ட மற்றும் பணிகளின் வாங்கும் சக்தியைக் குறிப்பது பணத்தின் அக மதிப்பு.",
+    "explanation_en": "The purchasing power of goods and services within the country refers to Internal value of money."
+  },
+  {
+    "id": 63,
+    "question": "’எதைமயல்லாம் செய்யவல்லதோ அதுவே பணம்’ எனக் கூறியவர் யார்?",
+    "options": [
+      "பேராசிரியர் வாக்கர்",
+      "ஸ்டோவ்ஸ்கி",
+      "சர் ஜான் ஹிக்ஸ்",
+      "இராபர்ட்சன்"
+    ],
+    "correct": 0,
+    "question_en": "Who said 'Money is what money does'?",
+    "options_en": [
+      "Professor Walker",
+      "Scitovsky",
+      "Sir John Hicks",
+      "Robertson"
+    ],
+    "explanation": "’எதைமயல்லாம் செய்யவல்லதோ அதுவே பணம்’ எனக் கூறியவர் பேராசிரியர் வாக்கர்.",
+    "explanation_en": "Professor Walker"
+  },
+  {
+    "id": 64,
+    "question": "பொருத்துக.\nஅ) மாணவர் சேமிப்புக் கணக்கு - i) வியாபாரிகள்\nஆ) சேமிப்பு வைப்பு - ii) பூஜ்ய இருப்பு\nஇ) நடப்பு கணக்கு வைப்பு - iii) நிலையான வருவாய்\nஈ) நிரந்தர வைப்பு - iv) பெயரளவு வட்டி",
+    "options": [
+      "அ - iv, ஆ - iii, இ - i, ஈ - ii",
+      "அ - ii, ஆ - iv, இ - iii, ஈ - i",
+      "அ - ii, ஆ - iv, இ - i, ஈ - iii",
+      "அ - iv, ஆ - i, இ - ii, ஈ - iii"
+    ],
+    "correct": 2,
+    "question_en": "Match the following.\na) Student Savings Account - i) Traders\nb) Savings Deposit - ii) Zero balance\nc) Current Account Deposit - iii) Fixed income\nd) Fixed Deposit - iv) Nominal interest",
+    "options_en": [
+      "a - iv, b - iii, c - i, d - ii",
+      "a - ii, b - iv, c - iii, d - i",
+      "a - ii, b - iv, c - i, d - iii",
+      "a - iv, b - i, c - ii, d - iii"
+    ],
+    "explanation": "அ - ii, ஆ - iv, இ - i, ஈ - iii",
+    "explanation_en": "a - ii, b - iv, c - i, d - iii"
+  },
+  {
+    "id": 65,
+    "question": "கூற்று: ஸ்டோவ்ஸ்கியின் கருத்துப்படி “பணம் என்பது ஒரு கடினமான கருத்தாகும்.\nகாரணம் 1: ஏனெனில் பணத்தின் வரையறைகள் அதனுடைய செயல்பாட்டைப் பொறுத்தே வரையறுக்கப்பட்டுள்ளது.",
+    "options": [
+      "கூற்று மற்றும் காரணங்கள் சரி",
+      "கூற்றுக்கு காரணம் 1 மட்டுமே பொருத்தமானது காரணம் 2 பொருத்தமில்லை",
+      "கூற்றுக்கு காரணம் 2 மட்டுமே சரியாக விளக்குகிறது.",
+      "கூற்று தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: According to Scitovsky, 'Money is a difficult concept'.\nReason 1: Because the definitions of money are defined based on its functions.",
+    "options_en": [
+      "Assertion and reasons are correct",
+      "Reason 1 alone is suitable for the assertion, reason 2 is not",
+      "Only reason 2 explains the assertion correctly",
+      "Assertion is wrong"
+    ],
+    "explanation": "கூற்றுக்கு காரணம் 2 மட்டுமே சரியாக விளக்குகிறது.",
+    "explanation_en": "Only reason 2 explains the assertion correctly"
+  },
+  {
+    "id": 66,
+    "question": "கீழ்க்கண்டவற்றுள் ஒரே குழுவில் அடங்குவன எவை?\nஅ) மதிப்பின் நிலைகலன் அல்லது வாங்கும் சக்தியின் நிலைகலன்\nஆ) மதிப்பின் அளவுகோல்\nஇ) மாற்று மதிப்பு அல்லது மாற்று வாங்கும் சக்தி\nஈ) எதிர்கால செலுத்துகைக்கான நிலை மதிப்பு\nஉ) பரிமாற்ற கருவி அல்லது பண செலுத்துகை",
+    "options": [
+      "அ, இ, ஈ",
+      "ஆ, உ, இ",
+      "அ, ஆ, உ",
+      "ஆ, ஈ"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following belong to the same group?\na) Store of value or store of purchasing power\nb) Measure of value\nc) Medium of exchange or means of purchasing power\nd) Standard of deferred payment\ne) Medium of exchange or payment of money",
+    "options_en": [
+      "a, c, d",
+      "b, e, c",
+      "a, b, e",
+      "b, d"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் ஒரே குழுவில் அடங்குவன அ, இ, ஈ ஆகும்.\nஅ) மதிப்பின் நிலைகலன் அல்லது வாங்கும் சக்தியின் நிலைகலன்\nஆ) மதிப்பின் அளவுகோல்\nஇ) மாற்று மதிப்பு அல்லது மாற்று வாங்கும் சக்தி\nஈ) எதிர்கால செலுத்துகைக்கான நிலை மதிப்பு\nஉ) பரிமாற்ற கருவி அல்லது பண செலுத்துகை",
+    "explanation_en": "a, c, d"
+  },
+  {
+    "id": 67,
+    "question": "ஸ்டோவ்ஸ்கியின் கருத்துப்படி பணத்தின் பணிகள் ________.\nஅ) மாற்று மதிப்பு\nஆ) கணக்கீட்டின் அலகு\nஇ) மதிப்பின் அளவுகோல்\nஈ) மதிப்பின் நிலைகலன்",
+    "options": [
+      "அ, ஆ, இ",
+      "அ, இ, ஈ",
+      "ஆ, இ, ஈ",
+      "அ, ஆ, ஈ"
+    ],
+    "correct": 2,
+    "question_en": "According to Scitovsky, the functions of money are ________.\na) Medium of exchange\nb) Unit of account\nc) Measure of value\nd) Store of value",
+    "options_en": [
+      "a, b, c",
+      "a, c, d",
+      "b, c, d",
+      "a, b, d"
+    ],
+    "explanation": "ஸ்டோவ்ஸ்கியின் கருத்துப்படி பணத்தின் பணிகள் ஆ, இ, ஈ.\nஅ) மாற்று மதிப்பு\nஆ) கணக்கீட்டின் அலகு\nஇ) மதிப்பின் அளவுகோல்\nஈ) மதிப்பின் நிலைகலன்",
+    "explanation_en": "According to Scitovsky, the functions of money are b, c, d.\na) Medium of exchange\nb) Unit of account\nc) Measure of value\nd) Store of value"
+  },
+  {
+    "id": 68,
+    "question": "சர்.ஜான் என்பாரின் பணம் பற்றிய கூற்று கீழ்க்கண்டவற்றுள் எது?",
+    "options": [
+      "எதையெல்லாம் செய்ய வல்லதோ அதுவே பணம்",
+      "பணம் அதன் பணிகளால் வரையறுக்கப் படுகிறது. எவையெல்லாம் பணமாகக் கருதப்படுகிறதோ அவை பணமாகப் பயன்படுத்தப்படுகிறது.",
+      "பணமாகப் பிரகடனம் செய்யப்படும் எவையும் பணமாகும்.",
+      "பொது ஏற்புத்தன்மையை அடிப்படையாகக் கொண்டு பண்டங்கள் வாங்கும் போது அதற்கான செலுத்துத் தொகையாக அனைவராலும் ஏற்றுக் கொள்ளக்கூடிய எதையும் பணமாகக் கருதலாம்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is Sir John's statement about money?",
+    "options_en": [
+      "Money is what money does",
+      "Money is defined by its functions, anything that is treated as money is used as money",
+      "Anything declared as money is money",
+      "Anything generally acceptable as a means of payment for goods can be considered money"
+    ],
+    "explanation": "பணம் அதன் பணிகளால் வரையறுக்கப் படுகிறது. எவையெல்லாம் பணமாகக் கருதப்படுகிறதோ அவை பணமாகப் பயன்படுத்தப்படுகிறது.",
+    "explanation_en": "Money is defined by its functions, anything that is treated as money is used as money is Sir John's statement about money."
+  },
+  {
+    "id": 69,
+    "question": "பணத்தின் பணிகள் எத்தனை பிரிவுகளின் கீழ் வகைப்படுத்தப்படுகின்றன?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "10"
+    ],
+    "correct": 0,
+    "question_en": "Under how many categories are the functions of money classified?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "10"
+    ],
+    "explanation": "2",
+    "explanation_en": "Under 2 categories are the functions of money classified."
+  },
+  {
+    "id": 70,
+    "question": "கீழ்க்கண்டவற்றுள் பணத்தின் பணிகள் அல்லாதவை எது?\nஅ) பண்டம் மற்றும் பணிகளை வாங்க பயன்படுத்தப்படுகிறது.\nஆ) அனைத்து வகையான பண்டங்கள் மற்றும் பணிகள் மதிப்பையும் பணத்தால் அளவிடலாம்.\nஇ) எதிர்கால செலுத்துகைக்கு பணம் ஒரு கருவியாகப் பயன்படுகிறது.\nஈ) எதிர்காலத்திற்காகச் சேமிக்க முடியும்.\nஉ) தொலைதூர இடங்களுக்கும் பண்டங்களைப் பரிமாற்றம் செய்ய முடியும்.",
+    "options": [
+      "ஈ மட்டும்",
+      "ஈ மற்றும் உ",
+      "ஆ மட்டும்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following are not functions of money?\na) Used to buy goods and services.\nb) The value of all kinds of goods and services can be measured in money.\nc) Money serves as a medium for deferred payments.\nd) Can be saved for the future.\ne) Goods can be transferred to distant places.",
+    "options_en": [
+      "d only",
+      "d and e",
+      "b only",
+      "None of these"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் பணத்தின் பணிகள் அல்லாதவை இவற்றில் எதுவுமில்லை ஆகும்.\nஅ) பண்டம் மற்றும் பணிகளை வாங்க பயன்படுத்தப்படுகிறது.\nஆ) அனைத்து வகையான பண்டங்கள் மற்றும் பணிகள் மதிப்பையும் பணத்தால் அளவிடலாம்.\nஇ) எதிர்கால செலுத்துகைக்கு பணம் ஒரு கருவியாகப் பயன்படுகிறது.\nஈ) எதிர்காலத்திற்காகச் சேமிக்க முடியும்.\nஉ) தொலைதூர இடங்களுக்கும் பண்டங்களைப் பரிமாற்றம் செய்ய முடியும்.",
+    "explanation_en": "None of these are not functions of money.\na) Used to buy goods and services.\nb) The value of all kinds of goods and services can be measured in money.\nc) Money serves as a medium for deferred payments.\nd) Can be saved for the future.\ne) Goods can be transferred to distant places."
+  },
+  {
+    "id": 71,
+    "question": "தவறான கூற்று எது?",
+    "options": [
+      "பணத்தைக் கொண்டு நாட்டின் வருவாயை அளவிடலாம்.",
+      "பணம் அனைவரிடமும் பொதுவான ஏற்புத் திறனைக் கொண்டுள்ளது.",
+      "பணவீக்கம் என்பது பணத்தின் மதிப்பு உயர்ந்து விலைகள் குறைவதைக் குறிக்கும்.",
+      "பணம் சுதந்திரமாகப் பரவக்கூடியது."
+    ],
+    "correct": 2,
+    "question_en": "Which is the incorrect statement?",
+    "options_en": [
+      "National income can be measured using money.",
+      "Money has general acceptability among everyone.",
+      "Inflation means the value of money increases and prices fall.",
+      "Money circulates freely."
+    ],
+    "explanation": "பணவீக்கம் என்பது பணத்தின் மதிப்பு உயர்ந்து விலைகள் குறைவதைக் குறிக்கும்.",
+    "explanation_en": "Inflation means the value of money increases and prices fall. is the incorrect statement."
+  },
+  {
+    "id": 72,
+    "question": "வர்த்தகர்கள், வர்த்தக நிறுவனங்கள், பொது அதிகாரிகள் கீழ்க்கண்ட எந்த கணக்கைத் துவக்க வேண்டும்?",
+    "options": [
+      "மாணவர் சேமிப்புக் கணக்கு",
+      "சேமிப்பு வைப்பு",
+      "நடப்பு கணக்கு வைப்பு",
+      "நிரந்தர வைப்பு"
+    ],
+    "correct": 2,
+    "question_en": "Traders, commercial organizations, and public authorities should open which of the following accounts?",
+    "options_en": [
+      "Student Savings Account",
+      "Savings Deposit",
+      "Current Account Deposit",
+      "Fixed Deposit"
+    ],
+    "explanation": "நடப்பு கணக்கு வைப்பு",
+    "explanation_en": "Current Account Deposit"
+  },
+  {
+    "id": 73,
+    "question": "மாணவர்கள் சேமிப்பு பழக்கத்தை ஊக்குவிக்க கீழ்க்கண்ட எந்த திட்டம் பயன்படுகிறது?",
+    "options": [
+      "சஞ்சாயிகா",
+      "கிஸான் விகாஸ் பத்திரம்",
+      "சஞ்சீவினி",
+      "செல்வமகள்/ செல்வமகன்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following schemes is used to encourage the saving habit among students?",
+    "options_en": [
+      "Sanchayika",
+      "Kisan Vikas Patra",
+      "Sanjeevani",
+      "Selvamagal / Selvamagan"
+    ],
+    "explanation": "சஞ்சாயிகா",
+    "explanation_en": "Sanchayika"
+  },
+  {
+    "id": 74,
+    "question": "குழுவில் பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "ஆண்டுத்தொகை",
+      "பரஸ்பர நிதி",
+      "சொத்துக்கள்",
+      "நிரந்தர வைப்பு"
+    ],
+    "correct": 3,
+    "question_en": "Choose the odd one out in the group.",
+    "options_en": [
+      "Annuity",
+      "Mutual funds",
+      "Assets",
+      "Fixed deposit"
+    ],
+    "explanation": "நிரந்தர வைப்பு",
+    "explanation_en": "Fixed deposit"
+  },
+  {
+    "id": 75,
+    "question": "மூலதன உருவாக்கத்திற்கும் வருவாய்க்கும் உதவுவது",
+    "options": [
+      "சேமிப்பு",
+      "முதலீடு",
+      "நீர்மை தன்மை",
+      "இவை எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "What helps in capital formation and income?",
+    "options_en": [
+      "Savings",
+      "Investment",
+      "Liquidity",
+      "None of these"
+    ],
+    "explanation": "முதலீடு",
+    "explanation_en": "Investment"
+  },
+  {
+    "id": 76,
+    "question": "முதலீடு சம்பந்தப்பட்ட கீழ்க்கண்ட கருதுகோள்களில் அடைப்புக் குறிக்குள் உள்ள தவறானதைத் தேர்ந்தெடுக்க.\nஇடர்ப்பாடு - [அ) புறக்கணிக்கப்பட்ட அளவு, ஆ) மிக அதிகம்]\nவருவாய் - [இ) ஒப்பீட்டளவில் அதிகம், ஈ) குறைவு]\nநீர்மை தன்மை - [உ) குறைந்த நீர்மை, ஊ) அதிக நீர்மை]",
+    "options": [
+      "அ, ஊ, இ",
+      "ஆ, இ, உ",
+      "ஆ, ஈ, உ",
+      "அ, ஈ, ஊ"
+    ],
+    "correct": 3,
+    "question_en": "Select the incorrect ones in brackets regarding investment concepts below.\nRisk - [a) Negligible amount, b) Very high]\nReturn - [c) Relatively high, d) Low]\nLiquidity - [e) Low liquidity, f) High liquidity]",
+    "options_en": [
+      "a, f, c",
+      "b, c, e",
+      "b, d, e",
+      "a, d, f"
+    ],
+    "explanation": "அ, ஈ, ஊ",
+    "explanation_en": "a, d, f"
+  },
+  {
+    "id": 77,
+    "question": "கீழ்க்காணும் கூற்றுகளில் எது தவறு?",
+    "options": [
+      "கருப்புப் பணம் என்பது கணக்கில் கொண்டுவராத பணத்தின் ஒரு வடிவமாகும்.",
+      "வெளிநாட்டு வங்கிகளில் இந்தியர்கள் கருப்புப் பணத்தைப் பதுக்கி வைத்துள்ளனர்.",
+      "கருப்புப் பணத்தினால் சமுதாயத்தில் பணக்காரர், ஏழைகளிடையே இடைவெளி அதிகமாகிறது.",
+      "கருப்புப் பணத்திற்கு மிகக்குறைந்த அளவே வரி செலுத்துகின்றனர்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following statements is wrong?",
+    "options_en": [
+      "Black money is a form of unaccounted money.",
+      "Indians have hoarded black money in foreign banks.",
+      "Black money widens the gap between the rich and the poor in society.",
+      "They pay a very low amount of tax on black money."
+    ],
+    "explanation": "கருப்புப் பணத்திற்கு மிகக்குறைந்த அளவே வரி செலுத்துகின்றனர்.",
+    "explanation_en": "They pay a very low amount of tax on black money."
+  },
+  {
+    "id": 78,
+    "question": "கீழ்க்காண்பவைகளில் எது பொருளாதாரத்தில் கருப்புப் பணத்தின் விளைவுகள் இல்லை?",
+    "options": [
+      "சமுதாயத்தில் பொது ஒழுக்க நிலைகளில் வீழ்ச்சி ஏற்படுகிறது.",
+      "சமத்துவம் வலுவிழக்கிறது.",
+      "உற்பத்தி மீதான விளைவுகள் ஏற்படுவதில்லை.",
+      "வரி ஏமாற்றுதல் மூலம் அரசுக்கு வருவாய் இழப்பு ஏற்படுகிறது."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not an effect of black money on the economy?",
+    "options_en": [
+      "Decline in general moral standards in society.",
+      "Weakening of equality.",
+      "No effects on production.",
+      "Loss of revenue to the government through tax evasion."
+    ],
+    "explanation": "உற்பத்தி மீதான விளைவுகள் ஏற்படுவதில்லை.",
+    "explanation_en": "No effects on production. is not an effect of black money on the economy."
+  },
+  {
+    "id": 79,
+    "question": "பொருத்துக.\nஅ) ரியல் எஸ்டேட் சட்டம் - i) 1988\nஆ) ஊழல் தடுப்புச் சட்டம் - ii) 2016\nஇ) இந்திய ரூபாய் குறியீடு அங்கீகரிப்பு - iii) 2002\nஈ) பண மோசடி தடுப்புச் சட்டம் - iv) 2010",
+    "options": [
+      "அ - i, ஆ - ii, இ - iii, ஈ - iv",
+      "அ - ii, ஆ - iv, இ - iii, ஈ - i",
+      "அ - ii, ஆ - i, இ - iv, ஈ - iii",
+      "அ - iv, ஆ - iii, இ - i, ஈ - ii"
+    ],
+    "correct": 2,
+    "question_en": "Match.\na) Real Estate Act - i) 1988\nb) Prevention of Corruption Act - ii) 2016\nc) Recognition of Indian Rupee Symbol - iii) 2002\nd) Prevention of Money Laundering Act - iv) 2010",
+    "options_en": [
+      "a - i, b - ii, c - iii, d - iv",
+      "a - ii, b - iv, c - iii, d - i",
+      "a - ii, b - i, c - iv, d - iii",
+      "a - iv, b - iii, c - i, d - ii"
+    ],
+    "explanation": "அ - ii, ஆ - i, இ - iv, ஈ - iii",
+    "explanation_en": "a - ii, b - i, c - iv, d - iii"
+  },
+  {
+    "id": 80,
+    "question": "கருப்புப் பணத்திற்கு எதிராக எந்த நாடு தன் நாட்டுச் சட்டத்தில் திருத்தங்கள் ஏற்படுத்தி பிற நாடுகளுக்கு உதவியுள்ளது?",
+    "options": [
+      "லிடியா",
+      "சுவிட்சர்லாந்து",
+      "இந்தியா",
+      "சீனா"
+    ],
+    "correct": 1,
+    "question_en": "Which country has helped other countries by making amendments to its laws against black money?",
+    "options_en": [
+      "Lydia",
+      "Switzerland",
+      "India",
+      "China"
+    ],
+    "explanation": "சுவிட்சர்லாந்து",
+    "explanation_en": "Switzerland"
+  },
+  {
+    "id": 81,
+    "question": "வெளிக்கொணரப்படாத வெளிநாட்டு வருமானம் மற்றும் சொத்து மசோதா(வரி விதித்தல்) கொண்டுவரப்பட்ட ஆண்டு ________.",
+    "options": [
+      "2002",
+      "1988",
+      "2016",
+      "2015"
+    ],
+    "correct": 3,
+    "question_en": "The year the Undisclosed Foreign Income and Assets (Imposition of Tax) Bill was introduced ________.",
+    "options_en": [
+      "2002",
+      "1988",
+      "2016",
+      "2015"
+    ],
+    "explanation": "வெளிக்கொணரப்படாத வெளிநாட்டு வருமானம் மற்றும் சொத்து மசோதா(வரி விதித்தல்) கொண்டுவரப்பட்ட ஆண்டு 2015.",
+    "explanation_en": "The year the Undisclosed Foreign Income and Assets (Imposition of Tax) Bill was introduced 2015."
+  },
+  {
+    "id": 82,
+    "question": "'எதுவெல்லாம் பணமாகக் கருதப்படுகிறதோ அவை பணமாகப் பயன்படுத்தப்படுகிறது' என்பது யாருடைய கூற்று?",
+    "options": [
+      "ஸ்டோவ்ஸ்கி",
+      "இராபர்ட்சன்",
+      "சர் ஜான் ஹிக்ஸ்",
+      "ஆடம் ஸ்மித்"
+    ],
+    "correct": 2,
+    "question_en": "Who stated 'Whatever is considered as money is used as money'?",
+    "options_en": [
+      "Scitovsky",
+      "Robertson",
+      "Sir John Hicks",
+      "Adam Smith"
+    ],
+    "explanation": "சர் ஜான் ஹிக்ஸ்",
+    "explanation_en": "Sir John Hicks"
+  },
+  {
+    "id": 83,
+    "question": "எந்த மதிப்பிலான ரூபாய் நோட்டினை முதன்முதலாக இந்திய ரிசர்வ் வங்கி வெளியிட்டது?",
+    "options": [
+      "ஒரு ரூபாய் நோட்டு",
+      "இரண்டு ரூபாய் நோட்டு",
+      "ஐந்து ரூபாய் நோட்டு",
+      "பத்து ரூபாய் நோட்டு"
+    ],
+    "correct": 2,
+    "question_en": "Which denomination of rupee note was first issued by the Reserve Bank of India?",
+    "options_en": [
+      "One rupee note",
+      "Two rupee note",
+      "Five rupee note",
+      "Ten rupee note"
+    ],
+    "explanation": "ஐந்து ரூபாய் நோட்டு",
+    "explanation_en": "Five rupee note"
+  },
+  {
+    "id": 84,
+    "question": "நெகிழிப் பணம் என்பது _________.",
+    "options": [
+      "இணைய வங்கி",
+      "மின்னணு பணம்",
+      "பற்று அட்டை",
+      "மின் வங்கி"
+    ],
+    "correct": 2,
+    "question_en": "Plastic money is _________.",
+    "options_en": [
+      "Internet banking",
+      "E-money",
+      "Debit card",
+      "E-banking"
+    ],
+    "explanation": "நெகிழிப் பணம் என்பது பற்று அட்டை.",
+    "explanation_en": "Plastic money is Debit card."
+  }
+]

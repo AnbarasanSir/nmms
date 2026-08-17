@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "question": "புவியில் காணப்படும் சிற்றினங்களின் எண்ணிக்கை ஏறத்தாழ",
+    "options": [
+      "8.7 மில்லியன்",
+      "8.6 மில்லியன்",
+      "8.5 மில்லியன்",
+      "8.8 மில்லியன்"
+    ],
+    "correct": 0,
+    "question_en": "The number of dwarfs found on Earth is approx",
+    "options_en": [
+      "8.7 million",
+      "8.6 million",
+      "8.5 million",
+      "8.8 million"
+    ],
+    "explanation": "8.7 மில்லியன்",
+    "explanation_en": "8.7 million"
+  },
+  {
+    "id": 2,
+    "question": "ஐந்துலக வகைப்பாடு யாரால் முன்மொழியப்பட்டது?",
+    "options": [
+      "அரிஸ்டாட்டில்",
+      "லின்னேயஸ்",
+      "விட்டேக்கர்",
+      "பிளாட்டோ"
+    ],
+    "correct": 2,
+    "question_en": "Who proposed the pentagram classification?",
+    "options_en": [
+      "Aristotle",
+      "Linnaeus",
+      "Whittaker",
+      "Plato"
+    ],
+    "explanation": "விட்டேக்கர்",
+    "explanation_en": "Whittaker"
+  },
+  {
+    "id": 3,
+    "question": "புறாவின் இருசொல் பெயர்",
+    "options": [
+      "ஹோமோ சேப்பியன்ஸ்",
+      "ராட்டஸ் ராட்டஸ்",
+      "மாஞ்சிபெரா இண்டிகா",
+      "கொலம்பா லிவியா"
+    ],
+    "correct": 3,
+    "question_en": "A two-word name for pigeon",
+    "options_en": [
+      "Homo sapiens",
+      "Rattus Rattus",
+      "Manchipera indica",
+      "Columba Livia"
+    ],
+    "explanation": "கொலம்பா லிவியா",
+    "explanation_en": "Columba Livia"
+  },
+  {
+    "id": 4,
+    "question": "உயிரி வகைப்பாட்டில் மிகப்பெரிய பிரிவு எது?",
+    "options": [
+      "வரிசை",
+      "உலகம்",
+      "தொகுதி",
+      "குடும்பம்"
+    ],
+    "correct": 1,
+    "question_en": "Which is the largest division in the classification of organisms?",
+    "options_en": [
+      "sequence",
+      "the world",
+      "Vol",
+      "Family"
+    ],
+    "explanation": "உயிரி வகைப்பாட்டில் மிகப்பெரிய பிரிவு உலகம் ஆகும்.",
+    "explanation_en": "The world is the largest division in the classification of organisms."
+  },
+  {
+    "id": 5,
+    "question": "உயிரின வகைப்பாட்டின் சரியான வரிசையை கண்டுபிடி",
+    "options": [
+      "உலகம், வரிசை, குடும்பம், வரிசை, தொகுதி, பேரினம், சிற்றினம்.",
+      "உலகம், தொகுதி, வகுப்பு, வரிசை, குடும்பம், பேரினம், சிற்றினம்.",
+      "உலகம், வகுப்பு, வரிசை, தொகுதி, குடும்பம், பேரினம், சிற்றினம்.",
+      "உலகம், குடும்பம், வகுப்பு, வரிசை, தொகுதி, பேரினம், சிற்றினம்."
+    ],
+    "correct": 1,
+    "question_en": "Find the correct order of classification of organisms",
+    "options_en": [
+      "world, order, family, series, batch, genus, genus.",
+      "world, block, class, order, family, genus, sex.",
+      "world, class, order, block, family, genus, sex.",
+      "world, family, class, order, block, genus, sex."
+    ],
+    "explanation": "உலகம், தொகுதி, வகுப்பு, வரிசை, குடும்பம், பேரினம், சிற்றினம்.",
+    "explanation_en": "world, block, class, order, family, genus, sex."
+  },
+  {
+    "id": 6,
+    "question": "அரிஸ்டாட்டில் குறித்த எக்கருத்து தவறானது?",
+    "options": [
+      "இவர் 2400 ஆண்டுகளுக்கு முன் வாழ்ந்த ஒரு கிரேக்கத் தத்துவ ஞானி.",
+      "இவர் அனைத்து உயிரினங்களையும் தாவரங்கள், விலங்குகள் என பிரித்தார்.",
+      "இவர் விலங்குகளை இரத்தம் உடைய விலங்குகள், இரத்தம் அற்ற விலங்குகள் என பிரித்தார்.",
+      "இவர் விலங்குகளை ஐந்து வகைகளாகப் பிரித்தார்."
+    ],
+    "correct": 3,
+    "question_en": "Which statement about Aristotle is false?",
+    "options_en": [
+      "He was a Greek philosopher who lived 2400 years ago.",
+      "He divided all living things into plants and animals.",
+      "He divided animals into blooded animals and non-blooded animals.",
+      "He divided animals into five categories."
+    ],
+    "explanation": "இவர் விலங்குகளை ஐந்து வகைகளாகப் பிரித்தார்.",
+    "explanation_en": "He divided animals into five categories."
+  },
+  {
+    "id": 7,
+    "question": "பொருத்துக: (i) அல்லியம் சீபா - (a) மனிதன், (ii) ஒரைசா சட்டைவா - (b) வெங்காயம், (iii) ஹோமோசேப்பியன்ஸ் - (c) வேப்பமரம், (iv) அசாடிரேக்டா இண்டிகா - (d) நெல்",
+    "options": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iii) (b)-(i) (c)-(iv) (d)-(ii)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "correct": 1,
+    "question_en": "Match: (i) Allium cepa - (a) Man, (ii) Oryza sativa - (b) Onion, (iii) Homo sapiens - (c) Neem, (iv) Azadiecta indica - (d) Paddy",
+    "options_en": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iii) (b)-(i) (c)-(iv) (d)-(ii)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "explanation": "(a)-(iii) (b)-(i) (c)-(iv) (d)-(ii)",
+    "explanation_en": "(a)-(iii) (b)-(i) (c)-(iv) (d)-(ii)"
+  },
+  {
+    "id": 8,
+    "question": "இருசொல் பெயரிடும் முறையை அறிமுகப்படுத்தியவர்",
+    "options": [
+      "கரோலஸ் லின்னேயஸ்",
+      "காஸ்பார்டு பாஹின்",
+      "அரிஸ்டாட்டில்",
+      "சாக்கரடீஸ்"
+    ],
+    "correct": 1,
+    "question_en": "Introduced binomial nomenclature",
+    "options_en": [
+      "Carolus Linnaeus",
+      "Gaspard Bahin",
+      "Aristotle",
+      "Socrates"
+    ],
+    "explanation": "காஸ்பார்டு பாஹின்",
+    "explanation_en": "Gaspard Bahin"
+  },
+  {
+    "id": 9,
+    "question": "பொருத்துக: (a) இஞ்சி - (i) காக்கஸ் நியூசிபெரா, (b) தேங்காய் - (ii) டேமரின்டஸ் இண்டிகா, (c) புளிய மரம் - (iii) காரிகா பப்பாயா, (d) பப்பாளி - (iv) ஜிஞ்சிபர் அஃபிஸினேல்",
+    "options": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "correct": 2,
+    "question_en": "Match: (a) Ginger - (i) Caucus nucipera, (b) Coconut - (ii) Tamarintus indica, (c) Tamarind tree - (iii) Carica papaya, (d) Papaya - (iv) Ginger officinale",
+    "options_en": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "explanation": "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+    "explanation_en": "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)"
+  },
+  {
+    "id": 10,
+    "question": "பொருத்துக: (a) எலுமிச்சை - (i) கட்லா கட்லா, (b) தவளை - (ii) சிட்ரஸ் ஆரேன்ஷியம், (c) மீன் - (iii) ரானா ஹெக்சா டாக்டைலா, (d) ஆரஞ்சு - (iv) சிட்ரஸ் அருண்டிஃபோலியா",
+    "options": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "correct": 3,
+    "question_en": "Match: (a) Lemon - (i) Cutla cutla, (b) Frog - (ii) Citrus orantium, (c) Fish - (iii) Rana hexa dactyla, (d) Orange - (iv) Citrus aruntifolia",
+    "options_en": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "explanation": "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)",
+    "explanation_en": "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+  },
+  {
+    "id": 11,
+    "question": "சரியான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "புறா - ரேட்டஸ் ரேட்டஸ்",
+      "நல் - காக்கஸ் நியூசிபெரா",
+      "பப்பாளி - காரிகா பப்பாயா",
+      "தவளை - கட்லா கட்லா"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Pigeon - Rattus Rattus",
+      "Null - Caucus nucipera",
+      "Papaya - Carica papaya",
+      "Frog - Katla Katla"
+    ],
+    "explanation": "பப்பாளி - காரிகா பப்பாயா",
+    "explanation_en": "Papaya - Carica papaya"
+  },
+  {
+    "id": 12,
+    "question": "தவறான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "பேரிச்சை - ஃபோனிக்ஸ் டாக்டைலிஃபெரா",
+      "ஆரஞ்சு - சிட்ரஸ் அருண்டி ஃபோலியா",
+      "மனிதன் - ஹோமோசேப்பியன்ஸ்",
+      "புறா - கொலம்பா லிவியா"
+    ],
+    "correct": 1,
+    "question_en": "Choose the wrong parallel.",
+    "options_en": [
+      "Persimmon - Phoenix dactylifera",
+      "Orange - Citrus arundi folia",
+      "Man - Homosapiens",
+      "Pigeon - Columba livia"
+    ],
+    "explanation": "ஆரஞ்சு - சிட்ரஸ் அருண்டி ஃபோலியா",
+    "explanation_en": "Orange - Citrus arundi folia"
+  },
+  {
+    "id": 13,
+    "question": "(A): இரு சொல் பெயரிடும் முறையை அறிமுகப்படுத்தியவர் கரோலஸ் லின்னேயஸ். (B): இவர் வகைப்பாட்டியலின் தந்தை என அழைக்கப்படுகிறார்.",
+    "options": [
+      "(A), (B) இரண்டும் சரி",
+      "(A) சரி, (B) தவறு",
+      "(A) தவறு, (B) சரி",
+      "(A), (B) இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "(A): Carolus Linnaeus introduced binomial nomenclature. (B): He is called the father of taxonomy.",
+    "options_en": [
+      "Both (A) and (B) are correct",
+      "(A) True, (B) False",
+      "(A) False, (B) Correct",
+      "Both (A) and (B) are wrong"
+    ],
+    "explanation": "(A) தவறு, (B) சரி",
+    "explanation_en": "(A) False, (B) Correct"
+  },
+  {
+    "id": 14,
+    "question": "விலங்குகள் உலகத்தில் மனிதன் எந்தப் பிரிவில் வைக்கப்பட்டுள்ளான்?",
+    "options": [
+      "ஊர்வன",
+      "இருவாழ்விகள்",
+      "பாலூட்டிகள்",
+      "நடப்பன"
+    ],
+    "correct": 2,
+    "question_en": "In which category is man placed in the animal world?",
+    "options_en": [
+      "Reptile",
+      "Two lives",
+      "Mammals",
+      "happening"
+    ],
+    "explanation": "பாலூட்டிகள்",
+    "explanation_en": "Mammals"
+  },
+  {
+    "id": 15,
+    "question": "தாவர உலகின் இருவாழ்விகள் என அழைக்கப்படுவது",
+    "options": [
+      "மாஸ்கள்",
+      "பெரணிகள்",
+      "பாசிகள்",
+      "ஜிம்னோஸ்பெர்ம்"
+    ],
+    "correct": 1,
+    "question_en": "The so-called amphibians of the plant world",
+    "options_en": [
+      "masses",
+      "Giants",
+      "Algae",
+      "Gymnosperm"
+    ],
+    "explanation": "பெரணிகள்",
+    "explanation_en": "Giants"
+  },
+  {
+    "id": 16,
+    "question": "பரிணாம வளர்ச்சி அடிப்படையில் முதலில் நிலத்தில் வாழத்தொடங்கிய தாவரங்கள் எவை?",
+    "options": [
+      "மாஸ்கள்",
+      "பெரணிகள்",
+      "பாசிகள்",
+      "ஜிம்னோஸ்பெர்ம்"
+    ],
+    "correct": 1,
+    "question_en": "In terms of evolution, which were the first plants to live on land?",
+    "options_en": [
+      "masses",
+      "Giants",
+      "Algae",
+      "Gymnosperm"
+    ],
+    "explanation": "பரிணாம வளர்ச்சி அடிப்படையில் முதலில் நிலத்தில் வாழத்தொடங்கிய தாவரங்கள் பெரணிகள் ஆகும்.",
+    "explanation_en": "Giants"
+  },
+  {
+    "id": 17,
+    "question": "பொருத்துக: (a) அமீபா - (i) நெமடோடா/புரோட்டோசோவா, (b) லியூக்கோசொலினியா - (ii) பிளாட்டி ஹெல்மின்தஸ், (c) ஹைட்ரா - (iii) பொரிபெரா, (d) கல்லீரல் புழு - (iv) சீலென்டிரேட்டா (சரியான இணையைக் காண்க)",
+    "options": [
+      "(a)-(ii)(b)-(iv)(c)-(i)(d)-(iii)",
+      "(a)-(iv)(b)-(iii)(c)-(ii)(d)-(i)",
+      "(a)(iv) (b) (i) (c) (ii) (d) (iii)",
+      "(a) (iv) (b) (iii) (c) (i) (d) (ii)"
+    ],
+    "correct": 0,
+    "question_en": "Match: (a) Amoeba - (i) Nematoda/Protozoa, (b) Leucosolinia - (ii) Platy helminths, (c) Hydra - (iii) Porypera, (d) Liverworm - (iv) Coelenterata (see correct counterpart)",
+    "options_en": [
+      "(a)-(ii)(b)-(iv)(c)-(i)(d)-(iii)",
+      "(a)-(iv)(b)-(iii)(c)-(ii)(d)-(i)",
+      "(a)(iv) (b) (i) (c) (ii) (d) (iii)",
+      "(a) (iv) (b) (iii) (c) (i) (d) (ii)"
+    ],
+    "explanation": "(a)-(ii)(b)-(iv)(c)-(i)(d)-(iii)",
+    "explanation_en": "(a)-(ii)(b)-(iv)(c)-(i)(d)-(iii)"
+  },
+  {
+    "id": 18,
+    "question": "பொருத்துக: (i) குழியுடலி, (ii) புரோட்டோசோவா, (iii) தட்டைப் புழு, (iv) துளையுடலி",
+    "options": [
+      "(a)-(ii)(b)-(iv)(c)-(i)(d)-(iii)",
+      "(a)-(iv)(b)-(iii)(c)-(ii)(d)-(i)",
+      "(a) (iii) (b) (i) (c) (iv) (d) (ii)",
+      "(a) (iv) (b) (iii) (c) (i) (d) (ii)"
+    ],
+    "correct": 2,
+    "question_en": "Match: (i) Cavite, (ii) Protozoa, (iii) Flatworm, (iv) Foraminifera",
+    "options_en": [
+      "(a)-(ii)(b)-(iv)(c)-(i)(d)-(iii)",
+      "(a)-(iv)(b)-(iii)(c)-(ii)(d)-(i)",
+      "(a) (iii) (b) (i) (c) (iv) (d) (ii)",
+      "(a) (iv) (b) (iii) (c) (i) (d) (ii)"
+    ],
+    "explanation": "(a) (iii) (b) (i) (c) (iv) (d) (ii)",
+    "explanation_en": "(a) (iii) (b) (i) (c) (iv) (d) (ii)"
+  },
+  {
+    "id": 19,
+    "question": "பொருத்துக: (a) குழியுடலி - (i) நெமடோடா, (b) துளையுடலி - (ii) பிளாட்டி ஹெல்மின்தஸ், (c) தட்டைப் புழுக்கள் - (iii) பொரிபெரா, (d) உருளைப் புழுக்கள் - (iv) சீலென்டிரேட்டா",
+    "options": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "correct": 1,
+    "question_en": "Match: (a) Worms - (i) Nematoda, (b) Foraminifera - (ii) Platy helminths, (c) Flatworms - (iii) Porypera, (d) Roundworms - (iv) Coelenterata",
+    "options_en": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "explanation": "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+    "explanation_en": "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)"
+  },
+  {
+    "id": 20,
+    "question": "பொருத்துக: (a) வளைதசை புழு - (i) ஆர்த்ரோபோடா, (b) கணுக்காலிகள் - (ii) மொலஸ்கா, (c) மெல்லுடலிகள் - (iii) எக்கைனோடெர்மேட்டா, (d) முட்தோலிகள் - (iv) அனலிடா",
+    "options": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "correct": 2,
+    "question_en": "Match: (a) Earthworm - (i) Arthropoda, (b) Arthropods - (ii) Mollusca, (c) Mollusca - (iii) Echinodermata, (d) Echinoderms - (iv) Analida",
+    "options_en": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "explanation": "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+    "explanation_en": "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)"
+  },
+  {
+    "id": 21,
+    "question": "பொருத்துக: (a) மீன்கள் - (i) ரெப்டைல்ஸ், (b) இருவாழ்விகள் - (ii) ஏவ்ஸ், (c) ஊர்வன - (iii) ஆம்பீபியா, (d) பறவைகள் - (iv) பிஸ்ஸஸ்",
+    "options": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "correct": 3,
+    "question_en": "Match: (a) Fishes – (i) Reptiles, (b) Amphibians – (ii) Aves, (c) Reptiles – (iii) Amphibia, (d) Birds – (iv) Fishes",
+    "options_en": [
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+    ],
+    "explanation": "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)",
+    "explanation_en": "(a)-(iv) (b)-(iii) (c)-(i) (d)-(ii)"
+  },
+  {
+    "id": 22,
+    "question": "சரியான இணையைத் தேர்ந்தெடு",
+    "options": [
+      "ஆமை - இருவாழ்வி",
+      "திமிங்கிலம் - மீன்",
+      "நத்தை - ஊர்வன",
+      "நட்சதிர மீன் - முட்தோலி"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct counterpart",
+    "options_en": [
+      "Tortoise - Amphibian",
+      "Whale - fish",
+      "Snail - Reptile",
+      "Starfish - Muttoli"
+    ],
+    "explanation": "நட்சதிர மீன் - முட்தோலி",
+    "explanation_en": "Starfish - Muttoli"
+  },
+  {
+    "id": 23,
+    "question": "விலங்குகளின் வகைப்பாட்டின் அடிப்படையில் தனித்த ஒன்றினைக் கண்டுபிடி",
+    "options": [
+      "தவளை",
+      "வௌவால்",
+      "சாலமண்டர்",
+      "சிசிலியன்"
+    ],
+    "correct": 1,
+    "question_en": "Find a unique one based on the classification of animals",
+    "options_en": [
+      "the frog",
+      "Bat",
+      "Salamander",
+      "Sicilian"
+    ],
+    "explanation": "வௌவால்",
+    "explanation_en": "Bat"
+  },
+  {
+    "id": 24,
+    "question": "விலங்குகளின் வகைப்பாட்டின் அடிப்படையில் தனித்த ஒன்றினைக் கண்டுபிடி",
+    "options": [
+      "மனிதன்",
+      "ஆமை",
+      "திமிங்கலம்",
+      "பிளாட்டிபஸ்"
+    ],
+    "correct": 3,
+    "question_en": "Find a unique one based on the classification of animals",
+    "options_en": [
+      "the man",
+      "Tortoise",
+      "the whale",
+      "Platypus"
+    ],
+    "explanation": "பிளாட்டிபஸ்",
+    "explanation_en": "Platypus"
+  },
+  {
+    "id": 25,
+    "question": "(A): பூஞ்சைகள் தற்சார்பு ஊட்ட உயிரிகளாகும். (B): ஈஸ்ட் என்பது ஒரு செல் பூஞ்சையாகும்.",
+    "options": [
+      "(A), (B) இரண்டும் சரி",
+      "(A) சரி, (B) தவறு",
+      "(A) தவறு, (B) சரி",
+      "(A), (B) இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "(A): Fungi are autotrophic organisms. (B): Yeast is a unicellular fungus.",
+    "options_en": [
+      "Both (A) and (B) are correct",
+      "(A) True, (B) False",
+      "(A) False, (B) Correct",
+      "Both (A) and (B) are wrong"
+    ],
+    "explanation": "(A) தவறு, (B) சரி",
+    "explanation_en": "(A) False, (B) Correct"
+  },
+  {
+    "id": 26,
+    "question": "பொருத்துக: (a) மொனிரா - (i) யூக்ளினா, (b) புரோட்டிஸ்டா - (ii) பாக்டீரியா, (c) பூஞ்சை - (iii) வண்ணத்துப் பூச்சி, (d) அனிமாலியா - (iv) மோல்டுகள்",
+    "options": [
+      "(a)-(ii) (b)-(i) (c)-(iv) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(ii)"
+    ],
+    "correct": 0,
+    "question_en": "Match: (a) Monira - (i) Euclina, (b) Protista - (ii) Bacteria, (c) Fungi - (iii) Insects, (d) Animalia - (iv) Molds",
+    "options_en": [
+      "(a)-(ii) (b)-(i) (c)-(iv) (d)-(iii)",
+      "(a)-(iv) (b)-(iii) (c)-(ii) (d)-(i)",
+      "(a)-(iv) (b)-(i) (c)-(ii) (d)-(iii)",
+      "(a)-(ii) (b)-(iv) (c)-(i) (d)-(ii)"
+    ],
+    "explanation": "(a)-(ii) (b)-(i) (c)-(iv) (d)-(iii)",
+    "explanation_en": "(a)-(ii) (b)-(i) (c)-(iv) (d)-(iii)"
+  },
+  {
+    "id": 27,
+    "question": "தவறான ஒன்றைக் கண்டுபிடி",
+    "options": [
+      "ஜிம்னோஸ்பெர்ம்கள் உண்மையான வேர், தண்டு, இலை கொண்ட பல்லாண்டு வாழ் தாவரங்களாகும்.",
+      "இவை வாஸ்குலர் கற்றைகள் உடையவை.",
+      "விதைகள் சதைப்பற்றால் மூடி பாதுகாக்கப்படுகின்றன.",
+      "பைனஸ், சைக்கஸ், ஜிம்னோர்ஸ்பெர்ம் இனத்திற்கு எடுத்துக்காட்டுகளாகும்."
+    ],
+    "correct": 2,
+    "question_en": "Find something wrong",
+    "options_en": [
+      "Gymnosperms are perennial plants with true roots, stems, and leaves.",
+      "These have vascular bundles.",
+      "The seeds are protected by a fleshy covering.",
+      "Pinus, Cycus, and Gymnosperms are examples of genus."
+    ],
+    "explanation": "விதைகள் சதைப்பற்றால் மூடி பாதுகாக்கப்படுகின்றன.",
+    "explanation_en": "The seeds are protected by a fleshy covering."
+  },
+  {
+    "id": 28,
+    "question": "தவறான கூற்றினைக் கண்டுபிடி",
+    "options": [
+      "கணுக்காலிகள் தடித்த 'கைட்டின்' என்ற பொருளிலான புறச்சட்டகத்தைக் கொண்டுள்ளன.",
+      "கணுக்காலிகள் ஆங்கிலத்தில் 'அன்னலிடா' என அழைக்கப்படுகின்றன.",
+      "இணைக்கால்கள் மற்றும் இணையுறுப்புகள் உடையன",
+      "மரவட்டை கணுக்காலிகளுக்கு ஓர் எடுத்துக்காட்டாகும்."
+    ],
+    "correct": 1,
+    "question_en": "Find the wrong statement",
+    "options_en": [
+      "The ankles have a thick 'kytin' lining.",
+      "Annelids are called 'Annalita' in English.",
+      "Have conjunctions and conjunctions",
+      "An example of wooden ankles."
+    ],
+    "explanation": "கணுக்காலிகள் ஆங்கிலத்தில் 'அன்னலிடா' என அழைக்கப்படுகின்றன.",
+    "explanation_en": "Annelids are called 'Annalita' in English."
+  },
+  {
+    "id": 29,
+    "question": "(A): நெல் ஒருவித்திலை தாவரத்திற்கு எடுத்துக்காட்டாகும். (B): நெல்லின் அறிவியல் பெயர் ஒரைசா சட்டைவா ஆகும்.",
+    "options": [
+      "(A), (B) இரண்டும் சரி",
+      "(A) சரி, (B) தவறு",
+      "(A) தவறு, (B) சரி",
+      "(A), (B) இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "(A): Rice is an example of a monocot plant. (B): The scientific name of paddy is Oryza sativa.",
+    "options_en": [
+      "Both (A) and (B) are correct",
+      "(A) True, (B) False",
+      "(A) False, (B) Correct",
+      "Both (A) and (B) are wrong"
+    ],
+    "explanation": "(A), (B) இரண்டும் சரி",
+    "explanation_en": "Both (A) and (B) are correct"
+  },
+  {
+    "id": 30,
+    "question": "கீழ்க்கண்ட கூற்றுகளில் சரியானது எது? (i) தவளை ஓர் இருவாழ்வி ஆகும். (ii) தவளை ஒரு குளிர் இரத்த விலங்காகும். (iii) தவளை பாலிலா இனப்பெருக்கம் செய்யும் விலங்காகும். (iv) தவளையின் அறிவியல் பெயர் ரானாஹெக்சா டாக்டைலா",
+    "options": [
+      "(i), (ii) மற்றும் (iv) சரி",
+      "(ii) மற்றும் (iv) சரி",
+      "(iii) மற்றும் (iv) சரி",
+      "(i) மற்றும் (iv) சரி"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following statements is correct? (i) Frog is an amphibian. (ii) Frog is a cold blooded animal. (iii) Frog is monogamous animal. (iv) The scientific name of the frog is Ranahexa dactyla",
+    "options_en": [
+      "(i), (ii) and (iv) are correct",
+      "(ii) and (iv) are correct",
+      "(iii) and (iv) are correct",
+      "(i) and (iv) are correct"
+    ],
+    "explanation": "(i), (ii) மற்றும் (iv) சரி",
+    "explanation_en": "(i), (ii) and (iv) are correct"
+  },
+  {
+    "id": 31,
+    "question": "கீழ்க்கண்ட கூற்றுகளில் சரியானது எது? (i) பாலூட்டிகள் குட்டிபோட்டு பாலூட்டும் இயல்புடையவை. (ii) திமிங்கலம் ஒரு பாலூட்டியாகும். (iii) பாலூட்டிகள் காதுமடல் மற்றும் தசைகளால் ஆன உதரவிதானம் பெற்றவை. (iv) உட்கரு அற்ற இரத்த சிவப்பணுக்களைக் கொண்டுள்ளன.",
+    "options": [
+      "(i), (ii) மற்றும் (iv) சரி",
+      "(ii) மற்றும் (iv) சரி",
+      "(iii) மற்றும் (iv) சரி",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following statements is correct? (i) Mammals are lactating in nature. (ii) Whale is a mammal. (iii) Mammals have tympanic membrane and muscular diaphragm. (iv) have anucleated red blood cells.",
+    "options_en": [
+      "(i), (ii) and (iv) are correct",
+      "(ii) and (iv) are correct",
+      "(iii) and (iv) are correct",
+      "All right"
+    ],
+    "explanation": "அனைத்தும் சரி",
+    "explanation_en": "All right"
+  },
+  {
+    "id": 32,
+    "question": "மெல்லுடலிகள் குறித்த பின்வரும் கூற்றுகளில் தவறானது எது என கண்டுபிடி.",
+    "options": [
+      "கால்சியத்தினால் ஆன ஓட்டைப் பெற்றுள்ளன.",
+      "தலைப்பகுதி மற்றும் பாதப்பகுதி மெல்லிய தசைகளால் ஆக்கப்பட்டுள்ளன.",
+      "பாலினப்பெருக்கம் முறையில் இனப்பெருக்கம் செய்கின்றன.",
+      "மெல்லிய கண்டங்கள் உடல் முழுவதும் காணப்படுகின்றன."
+    ],
+    "correct": 3,
+    "question_en": "Find which of the following statements about gums is false.",
+    "options_en": [
+      "They have a shell made of calcium.",
+      "The head and feet are made up of fine muscles.",
+      "They reproduce asexually.",
+      "Thin continents are found all over the body."
+    ],
+    "explanation": "மெல்லிய கண்டங்கள் உடல் முழுவதும் காணப்படுகின்றன.",
+    "explanation_en": "Thin continents are found all over the body."
+  },
+  {
+    "id": 33,
+    "question": "கூற்று (A): அடையாளங்காணுதல், வகைப்படுத்துதல், தொகுத்தல் ஆகியவை வகைப்பாட்டியலில் அவசியமானவை. காரணம் (R): இவை வகைப்பாட்டியலின் அடிப்படைப் படிநிலை",
+    "options": [
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம் .",
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம் அன்று.",
+      "(A) சரி, (R) தவறு",
+      "(A) தவறு, (R) சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion (A): Identification, classification, grouping are essential in taxonomy. Reason (R): These are the basic hierarchy of taxonomy",
+    "options_en": [
+      "Both (A) and (R) are correct. (R) is the interpretation of (A).",
+      "Both (A) and (R) are correct. (R) is the explanation for (A).",
+      "(A) True, (R) False",
+      "(A) False, (R) Correct"
+    ],
+    "explanation": "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம் .",
+    "explanation_en": "Both (A) and (R) are correct. (R) is the interpretation of (A)."
+  },
+  {
+    "id": 34,
+    "question": "தவறான இணையைக் கண்டுபிடி",
+    "options": [
+      "மொனிரா - ஒரு செல் உயினம்",
+      "அகாரிகஸ் - ஒரு பூஞ்சை",
+      "அஸ்காரிஸ் லும்பிரிக்காய்ட்ஸ் - ஒரு தட்டை புழுவினத்தைச் சேர்ந்த உயிரி.",
+      "ஸ்பைரோகைரா - ஒரு பல செல் பாசி"
+    ],
+    "correct": 2,
+    "question_en": "Find the wrong parallel",
+    "options_en": [
+      "Monira - A single cell",
+      "Agaricus - a fungus",
+      "Ascaris lumbricoides - A tapeworm organism.",
+      "Spirogyra - a multicellular algae"
+    ],
+    "explanation": "அஸ்காரிஸ் லும்பிரிக்காய்ட்ஸ் - ஒரு தட்டை புழுவினத்தைச் சேர்ந்த உயிரி.",
+    "explanation_en": "Ascaris lumbricoides - A tapeworm organism."
+  },
+  {
+    "id": 35,
+    "question": "(A): பூவாத் தாவரங்கள் ஒரு வித்திலை மற்றும் இரு வித்திலை தாவரங்கள் என இரு வகைகளாகப் பிரிக்கப்படுகின்றன. (B): பூவாத் தாவரங்கள் சதைப்பற்றுள்ள கனிகளை உருவாக்குகின்றன.",
+    "options": [
+      "(A), (B) இரண்டும் சரி",
+      "(A) சரி, (B) தவறு",
+      "(A) தவறு, (B) சரி",
+      "(A), (B) இரண்டும் தவறு"
+    ],
+    "correct": 3,
+    "question_en": "(A): Poovad plants are divided into monocotyledonous and dicotyledonous plants. (B): Poovad plants produce fleshy fruits.",
+    "options_en": [
+      "Both (A) and (B) are correct",
+      "(A) True, (B) False",
+      "(A) False, (B) Correct",
+      "Both (A) and (B) are wrong"
+    ],
+    "explanation": "(A), (B) இரண்டும் தவறு",
+    "explanation_en": "Both (A) and (B) are wrong"
+  },
+  {
+    "id": 36,
+    "question": "ஒரு செல் பாசிக்கு எடுத்துக்காட்டு",
+    "options": [
+      "ஈஸ்ட்",
+      "கிளாமிடோமானஸ்",
+      "காரா",
+      "பாரமீசியம்"
+    ],
+    "correct": 0,
+    "question_en": "Example of a single cell algae",
+    "options_en": [
+      "Yeast",
+      "Chlamydomonus",
+      "Cara",
+      "Paramecium"
+    ],
+    "explanation": "ஈஸ்ட்",
+    "explanation_en": "Yeast"
+  },
+  {
+    "id": 37,
+    "question": "மண்புழு எத்தொகுதியைச் சார்ந்தது?",
+    "options": [
+      "ஆர்த்ரோபோடா",
+      "மொலஸ்கா",
+      "பிளாட்டி ஹெல்மின்தஸ்",
+      "அன்னலிடா"
+    ],
+    "correct": 3,
+    "question_en": "Earthworm belongs to which group?",
+    "options_en": [
+      "Arthropoda",
+      "Mollusca",
+      "Platy helminths",
+      "Annalida"
+    ],
+    "explanation": "அன்னலிடா",
+    "explanation_en": "Annalida"
+  },
+  {
+    "id": 38,
+    "question": "கொசு எந்தத் தொகுதியைச் சார்ந்தது?",
+    "options": [
+      "பறவை",
+      "பாலூட்டி",
+      "கணுக்காலி",
+      "மெல்லுடலி"
+    ],
+    "correct": 2,
+    "question_en": "Which group does mosquito belong to?",
+    "options_en": [
+      "the bird",
+      "mammal",
+      "Ankle",
+      "Meludali"
+    ],
+    "explanation": "கணுக்காலி",
+    "explanation_en": "Ankle"
+  },
+  {
+    "id": 39,
+    "question": "நவீன வகைப்பாட்டியலின் தந்தை என அழைக்கப்படுபவர் யார்?",
+    "options": [
+      "கரோலஸ் லின்னேயஸ்",
+      "காஸ்பார்டு பாஹின்",
+      "அரிஸ்டாட்டில்",
+      "விட்டேக்கர்"
+    ],
+    "correct": 0,
+    "question_en": "Who is called the father of modern taxonomy?",
+    "options_en": [
+      "Carolus Linnaeus",
+      "Gaspard Bahin",
+      "Aristotle",
+      "Whittaker"
+    ],
+    "explanation": "நவீன வகைப்பாட்டியலின் தந்தை என அழைக்கப்படுபவர் கரோலஸ் லின்னேயஸ்.",
+    "explanation_en": "Carolus Linnaeus is called the father of modern taxonomy."
+  },
+  {
+    "id": 40,
+    "question": "உயிருள்ள மற்றும் உயிரற்றவைகளின் பண்புகளைப் பெற்றவை",
+    "options": [
+      "புரோட்டோசோவா",
+      "வைரஸ்",
+      "பாக்டீரியா",
+      "பூஞ்சை"
+    ],
+    "correct": 1,
+    "question_en": "Having the characteristics of both living and non-living things",
+    "options_en": [
+      "Protozoa",
+      "Virus",
+      "Bacteria",
+      "Fungus"
+    ],
+    "explanation": "வைரஸ்",
+    "explanation_en": "Virus"
+  },
+  {
+    "id": 41,
+    "question": "நீர் மற்றும் நிலத்தில் வாழும் குளிர் இரத்தப் பிராணிக்கு எடுத்துக்காட்டு",
+    "options": [
+      "ஆமை",
+      "சாலமண்டர்",
+      "பாம்பு",
+      "முதலை"
+    ],
+    "correct": 1,
+    "question_en": "Examples of cold-blooded animals that live in water and on land",
+    "options_en": [
+      "Tortoise",
+      "Salamander",
+      "Snake",
+      "Crocodile"
+    ],
+    "explanation": "சாலமண்டர்",
+    "explanation_en": "Salamander"
+  },
+  {
+    "id": 42,
+    "question": "சிசிலியன் என்ற விலங்கு ஒரு / ஓர்",
+    "options": [
+      "பாலூட்டி",
+      "இருவாழ்வி",
+      "பறவை",
+      "மீன்"
+    ],
+    "correct": 1,
+    "question_en": "An animal called a Sicilian is a /or",
+    "options_en": [
+      "mammal",
+      "double life",
+      "the bird",
+      "Fish"
+    ],
+    "explanation": "இருவாழ்வி",
+    "explanation_en": "double life"
+  },
+  {
+    "id": 43,
+    "question": "பிளாட்டிபஸ் என்பது ஒரு / ஓர்",
+    "options": [
+      "பாலூட்டி",
+      "பறவை",
+      "ஊர்வன",
+      "தாவரம்"
+    ],
+    "correct": 0,
+    "question_en": "A platypus is a /or",
+    "options_en": [
+      "mammal",
+      "the bird",
+      "Reptile",
+      "plant"
+    ],
+    "explanation": "பாலூட்டி",
+    "explanation_en": "mammal"
+  },
+  {
+    "id": 44,
+    "question": "லியூகோசெலினியா என்பது",
+    "options": [
+      "புரோட்டோசோவா",
+      "துளையுடலி",
+      "குழியுடலி",
+      "மெல்லுடலி"
+    ],
+    "correct": 1,
+    "question_en": "Leukoselinia is",
+    "options_en": [
+      "Protozoa",
+      "Perforation",
+      "cavity",
+      "Meludali"
+    ],
+    "explanation": "துளையுடலி",
+    "explanation_en": "Perforation"
+  },
+  {
+    "id": 45,
+    "question": "கல்லீரல் புழு என்பது",
+    "options": [
+      "வளைதசைப் புழு",
+      "தட்டைப் புழு",
+      "உருளைப் புழு",
+      "முட்தோலி"
+    ],
+    "correct": 1,
+    "question_en": "Liverworm is",
+    "options_en": [
+      "Hookworm",
+      "Flatworm",
+      "Cylindrical worm",
+      "Scalp"
+    ],
+    "explanation": "தட்டைப் புழு",
+    "explanation_en": "Flatworm"
+  },
+  {
+    "id": 46,
+    "question": "கணவாய் மீன் எனப்படுவது",
+    "options": [
+      "ஒரு மீன்",
+      "ஓர் இருவாழ்வி",
+      "ஒரு மெல்லுடலி",
+      "ஒரு முட்தோலி"
+    ],
+    "correct": 2,
+    "question_en": "Called squid",
+    "options_en": [
+      "A fish",
+      "A double life",
+      "A gummy bear",
+      "A bald head"
+    ],
+    "explanation": "ஒரு மெல்லுடலி",
+    "explanation_en": "A gummy bear"
+  },
+  {
+    "id": 47,
+    "question": "நட்சத்திர மீன்",
+    "options": [
+      "ஒரு மீன்",
+      "ஓர் இருவாழ்வி",
+      "ஒரு மெல்லுடலி",
+      "ஒரு முட்தோலி"
+    ],
+    "correct": 3,
+    "question_en": "Starfish",
+    "options_en": [
+      "A fish",
+      "A double life",
+      "A gummy bear",
+      "A bald head"
+    ],
+    "explanation": "ஒரு முட்தோலி",
+    "explanation_en": "A bald head"
+  },
+  {
+    "id": 48,
+    "question": "சைகஸ் மற்றும் பைனஸ் ______ க்கு எடுத்துக்காட்டு.",
+    "options": [
+      "ஜிம்னோஸ்பெர்ம்",
+      "ஆஞ்சியோஸ்பெர்ம்",
+      "ஒரு வித்திலை தாவரம்",
+      "இரு வித்திலை தாவரம்"
+    ],
+    "correct": 0,
+    "question_en": "Cygus and Pinus are examples of ______.",
+    "options_en": [
+      "Gymnosperm",
+      "Angiosperm",
+      "A seed plant",
+      "A dicotyledonous plant"
+    ],
+    "explanation": "சைகஸ் மற்றும் பைனஸ் ஜிம்னோஸ்பெர்ம் க்கு எடுத்துக்காட்டு.",
+    "explanation_en": "Cygus and Pinus are examples of Gymnosperm."
+  },
+  {
+    "id": 49,
+    "question": "நீலப் பச்சைப்பாசி",
+    "options": [
+      "மொனிரா",
+      "புரோட்டிஸ்டா",
+      "ஒரு பூஞ்சை",
+      "இரு வாழ்வி"
+    ],
+    "correct": 0,
+    "question_en": "Blue green algae",
+    "options_en": [
+      "Monira",
+      "Protista",
+      "A fungus",
+      "Live two lives"
+    ],
+    "explanation": "மொனிரா",
+    "explanation_en": "Monira"
+  },
+  {
+    "id": 50,
+    "question": "மாஞ்சிபெரா இண்டிகா என்பது எதன் அறிவியல் பெயர்",
+    "options": [
+      "புளி",
+      "மா",
+      "அல்லி",
+      "வெங்காயம்"
+    ],
+    "correct": 1,
+    "question_en": "Its scientific name is Manchibera indica",
+    "options_en": [
+      "tamarind",
+      "Ma",
+      "Lily",
+      "onion"
+    ],
+    "explanation": "மா",
+    "explanation_en": "Ma"
+  },
+  {
+    "id": 51,
+    "question": "பெரும்பாலான பூஞ்சைகளின் செல் சுவரில் காணக்கூடிய முக்கியமானதொரு பகுதிப்பொருள்?",
+    "options": [
+      "கைட்டின்",
+      "பெப்டிடோகிளைக்கான்",
+      "செல்லுலோஸ்",
+      "ஹெமிசெல்லுலோஸ்"
+    ],
+    "correct": 0,
+    "question_en": "What is an important component found in the cell wall of most fungi?",
+    "options_en": [
+      "Kite's",
+      "Peptidoglycan",
+      "Cellulose",
+      "Hemicellulose"
+    ],
+    "explanation": "கைட்டின்",
+    "explanation_en": "Kite's is an important component found in the cell wall of most fungi."
+  },
+  {
+    "id": 52,
+    "question": "R.H. விட்டேக்கர் என்பவரால் முன்மொழியப்பட்ட ஐந்து உலக வகைப்பாடு இதன் அடிப்படையில் அமையவில்லை?",
+    "options": [
+      "இனப்பெருக்க முறை",
+      "உணவூட்ட முறை",
+      "நன்கு வரையறுக்கப்பட்ட உட்கரு கொண்டது அல்லது அற்றது",
+      "சிக்கலான உடல் அமைப்பு"
+    ],
+    "correct": 2,
+    "question_en": "R.H. Which of the following is not the basis of the five world classification proposed by Whittaker?",
+    "options_en": [
+      "Reproductive system",
+      "Feeding method",
+      "With or without a well-defined nucleus",
+      "Complex body structure"
+    ],
+    "explanation": "நன்கு வரையறுக்கப்பட்ட உட்கரு கொண்டது அல்லது அற்றது",
+    "explanation_en": "R.H. With or without a well-defined nucleus is not the basis of the five world classification proposed by Whittaker."
+  },
+  {
+    "id": 53,
+    "question": "இரு சொல் பெயரிடும் முறையை பயன்படுத்தியவர்",
+    "options": [
+      "கரோலஸ் லின்னேயஸ்",
+      "அரிஸ்டாட்டில்",
+      "ஹிப்போகிரேட்டஸ்",
+      "காஸ்பார்டு பாஹின்"
+    ],
+    "correct": 0,
+    "question_en": "who used the two-word nomenclature",
+    "options_en": [
+      "Carolus Linnaeus",
+      "Aristotle",
+      "Hippocrates",
+      "Gaspard Bahin"
+    ],
+    "explanation": "கரோலஸ் லின்னேயஸ்",
+    "explanation_en": "Carolus Linnaeus"
+  },
+  {
+    "id": 54,
+    "question": "கீழ்க்கண்டவற்றுள் மிகச் சிறிய டாக்ஸான்?",
+    "options": [
+      "வகுப்பு",
+      "வரிசை",
+      "சிற்றினம்",
+      "பேரினம்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is the smallest taxon?",
+    "options_en": [
+      "Class",
+      "sequence",
+      "Sexuality",
+      "race"
+    ],
+    "explanation": "சிற்றினம்",
+    "explanation_en": "Sexuality is the smallest taxon."
+  },
+  {
+    "id": 55,
+    "question": "இரு சொல் பெயரிடும் முறையில், உள்ள இரு பெயர்களின் பகுதிகள்?",
+    "options": [
+      "குடும்பம் மற்றும் பேரினம்",
+      "வரிசை மற்றும் குடும்பம்",
+      "பேரினம் மற்றும் வகை",
+      "பேரினம் மற்றும் சிற்றினம்"
+    ],
+    "correct": 3,
+    "question_en": "In two-word nomenclature, parts of two names in?",
+    "options_en": [
+      "Family and race",
+      "Order and family",
+      "genus and species",
+      "Gender and sexuality"
+    ],
+    "explanation": "பேரினம் மற்றும் சிற்றினம்",
+    "explanation_en": "Gender and sexuality"
+  },
+  {
+    "id": 56,
+    "question": "டாக்ஸான் என்பது எதைக் குறிக்கின்றது?",
+    "options": [
+      "சிற்றினம்",
+      "வகைப்பாட்டின் அலகு",
+      "வகைப்பாட்டின் உயர்ந்த நிலை",
+      "நெருக்கமான உறவு கொண்ட குழு"
+    ],
+    "correct": 1,
+    "question_en": "What does taxon mean?",
+    "options_en": [
+      "Sexuality",
+      "Unit of classification",
+      "A higher level of classification",
+      "A close-knit group"
+    ],
+    "explanation": "வகைப்பாட்டின் அலகு",
+    "explanation_en": "Unit of classification"
+  },
+  {
+    "id": 57,
+    "question": "வகைப்பாட்டின் மிகச்சிறிய அலகு யாது?",
+    "options": [
+      "வகுப்பு",
+      "வகுப்பு துணை",
+      "சிற்றினம்",
+      "பேரினம்"
+    ],
+    "correct": 2,
+    "question_en": "What is the smallest unit of classification?",
+    "options_en": [
+      "Class",
+      "Class mate",
+      "Sexuality",
+      "race"
+    ],
+    "explanation": "வகைப்பாட்டின் மிகச்சிறிய அலகு சிற்றினம் ஆகும்.",
+    "explanation_en": "Sexuality is the smallest unit of classification."
+  },
+  {
+    "id": 58,
+    "question": "வகைப்பாட்டியல் (Taxonomy) என்னும் சொல்லை உருவாக்கியவர் யார்?",
+    "options": [
+      "கன்டோல்",
+      "வாக்ஸ்மேன்",
+      "லூவென்ஹாக்",
+      "லூயிஸ் பாஸ்டர்"
+    ],
+    "correct": 0,
+    "question_en": "Who coined the term taxonomy?",
+    "options_en": [
+      "Candol",
+      "Waxman",
+      "Leuvenhoek",
+      "Louis Pasteur"
+    ],
+    "explanation": "வகைப்பாட்டியல் (Taxonomy) என்னும் சொல்லை உருவாக்கியவர் கன்டோல்.",
+    "explanation_en": "Candol"
+  },
+  {
+    "id": 59,
+    "question": "உயிரின வகைப்பாட்டின் அடிப்படை அலகு?",
+    "options": [
+      "வகுப்பு",
+      "சிற்றினம்",
+      "குடும்பம்",
+      "இனத்தொகுதி"
+    ],
+    "correct": 1,
+    "question_en": "Basic unit of organism classification?",
+    "options_en": [
+      "Class",
+      "Sexuality",
+      "Family",
+      "ethnicity"
+    ],
+    "explanation": "சிற்றினம்",
+    "explanation_en": "Sexuality"
+  },
+  {
+    "id": 60,
+    "question": "வகைப்பாட்டியலின் முதல்படி எது?",
+    "options": [
+      "பெயரிடுதல்",
+      "வகைப்பாடு",
+      "அடையாளம் காணல்",
+      "படிநிலை வரிசையமைப்பு"
+    ],
+    "correct": 2,
+    "question_en": "Which is the first step of classification?",
+    "options_en": [
+      "Naming",
+      "classification",
+      "Identification",
+      "Hierarchical Sorting"
+    ],
+    "explanation": "வகைப்பாட்டியலின் முதல்படி அடையாளம் காணல் ஆகும்.",
+    "explanation_en": "Identification is the first step of classification."
+  },
+  {
+    "id": 61,
+    "question": "கீழ்க்கண்டவற்றில் எது சரியான படிநிலை?",
+    "options": [
+      "உலகம், பிரிவு, தொகுதி, பேரினம் மற்றும் சிற்றினம்",
+      "தொகுதி, பிரிவு, பேரினம் மற்றும் வகுப்பு",
+      "உலகம், பேரினம், வகுப்பு, தொகுதி மற்றும் பிரிவு நிலை",
+      "தொகுதி, உலகம், பேரினம், சிற்றினம் மற்றும் வகுப்பு"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is the correct hierarchy?",
+    "options_en": [
+      "World, Division, Block, Genus and Sex",
+      "Block, Section, Genus and Class",
+      "World, Genus, Class, Block and Division level",
+      "Block, world, race, gender and class"
+    ],
+    "explanation": "உலகம், பிரிவு, தொகுதி, பேரினம் மற்றும் சிற்றினம்",
+    "explanation_en": "World, Division, Block, Genus and Sex is the correct hierarchy."
+  },
+  {
+    "id": 62,
+    "question": "டாக்ஸானில் அடங்கியுள்ளது?",
+    "options": [
+      "பேரினம் மற்றும் சிற்றினம்",
+      "உலகம் மற்றும் பிரிவு",
+      "படிநிலையில் உள்ள அனைத்தும்",
+      "மேற்கண்ட எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Contains Taxon?",
+    "options_en": [
+      "Gender and sexuality",
+      "The world and division",
+      "Everything in the hierarchy",
+      "None of the above"
+    ],
+    "explanation": "படிநிலையில் உள்ள அனைத்தும்",
+    "explanation_en": "Everything in the hierarchy"
+  },
+  {
+    "id": 63,
+    "question": "கீழ்க்கண்ட டாக்ஸானில் அதிக உயிர்களை உள்ளடக்கியது?",
+    "options": [
+      "வரிசை",
+      "சிற்றினம்",
+      "பேரினம்",
+      "தொகுதி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following taxon includes most organisms?",
+    "options_en": [
+      "sequence",
+      "Sexuality",
+      "race",
+      "Vol"
+    ],
+    "explanation": "தொகுதி",
+    "explanation_en": "Vol"
+  },
+  {
+    "id": 64,
+    "question": "வகைப்பாட்டியல் அலகாக இல்லாதது எது?",
+    "options": [
+      "வரிசை",
+      "குடும்பம்",
+      "குளுமசீயே",
+      "தொகுதி"
+    ],
+    "correct": 2,
+    "question_en": "Which is not a taxonomic unit?",
+    "options_en": [
+      "sequence",
+      "Family",
+      "Glumaceae",
+      "Vol"
+    ],
+    "explanation": "வகைப்பாட்டியல் அலகாக இல்லாதது குளுமசீயே ஆகும்.",
+    "explanation_en": "Glumaceae is not a taxonomic unit."
+  },
+  {
+    "id": 65,
+    "question": "பாக்டீரியாக்களின் செல்சுவர் உருவாக்குதலை தடுக்கக்கூடிய உயிர்எதிர்ப்பி?",
+    "options": [
+      "பென்சிலின்",
+      "ரியாம்பிசின்",
+      "ஸ்ரெப்டோமைசின்",
+      "ஆந்தராசைக்ளின்"
+    ],
+    "correct": 0,
+    "question_en": "Antibody that inhibits cell wall formation of bacteria?",
+    "options_en": [
+      "Penicillin",
+      "Riampicin",
+      "Streptomycin",
+      "Anthracycline"
+    ],
+    "explanation": "பென்சிலின்",
+    "explanation_en": "Penicillin"
+  },
+  {
+    "id": 66,
+    "question": "\"ஸ்பீஸிஸ் பிளாண்டாரம்\" என்ற நூலை எழுதியவர்?",
+    "options": [
+      "காஸ்பார்டு பாஹின்",
+      "அரிஸ்டாட்டில்",
+      "கரோலஸ் லின்னேயஸ்",
+      "தியோப்ராஸ்டஸ்"
+    ],
+    "correct": 2,
+    "question_en": "Who wrote \"Species Plantarum\"?",
+    "options_en": [
+      "Gaspard Bahin",
+      "Aristotle",
+      "Carolus Linnaeus",
+      "Theoprastus"
+    ],
+    "explanation": "கரோலஸ் லின்னேயஸ்",
+    "explanation_en": "Carolus Linnaeus"
+  },
+  {
+    "id": 67,
+    "question": "இருசொல் பெயரிட்டு முறையில் முதல் பெயராக வருவது?",
+    "options": [
+      "பேரினப்பெயர்",
+      "சிற்றினப் பெயர்",
+      "1 மற்றும் 2",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "A first name in a two-word nomenclature?",
+    "options_en": [
+      "Surname",
+      "Little name",
+      "1 and 2",
+      "None of these"
+    ],
+    "explanation": "பேரினப்பெயர்",
+    "explanation_en": "Surname"
+  },
+  {
+    "id": 68,
+    "question": "இருசொல் பெயர்கள் உள்ள மொழி?",
+    "options": [
+      "ஆங்கிலம்",
+      "ஸ்வீடிஸ்",
+      "இலத்தீன்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "A language with two-word names?",
+    "options_en": [
+      "English",
+      "Swedes",
+      "Latin",
+      "None of these"
+    ],
+    "explanation": "இலத்தீன்",
+    "explanation_en": "Latin"
+  },
+  {
+    "id": 69,
+    "question": "நான்கு அறைகளை கொண்ட இதயம் இருப்பது?",
+    "options": [
+      "தவளை",
+      "முதலை",
+      "ஓணான்",
+      "சுறா"
+    ],
+    "correct": 1,
+    "question_en": "Having a four-chambered heart?",
+    "options_en": [
+      "the frog",
+      "Crocodile",
+      "Onan",
+      "Shark"
+    ],
+    "explanation": "முதலை",
+    "explanation_en": "Crocodile"
+  },
+  {
+    "id": 70,
+    "question": "எலும்பு மஜ்ஜை இதில் இல்லை?",
+    "options": [
+      "ஊர்வன",
+      "இருவாழ்விகள்",
+      "பறவைகள்",
+      "மீன்கள்"
+    ],
+    "correct": 2,
+    "question_en": "No bone marrow in it?",
+    "options_en": [
+      "Reptile",
+      "Two lives",
+      "Birds",
+      "fishes"
+    ],
+    "explanation": "பறவைகள்",
+    "explanation_en": "Birds"
+  },
+  {
+    "id": 71,
+    "question": "உலகின் பெரிய மற்றும் அதிக எடை கொண்ட பாலூட்டி?",
+    "options": [
+      "நீலத்திமிங்கலம்",
+      "யானை",
+      "சிங்கம்",
+      "சுறா"
+    ],
+    "correct": 0,
+    "question_en": "World's largest and heaviest mammal?",
+    "options_en": [
+      "Nilathimangalam",
+      "Elephant",
+      "the lion",
+      "Shark"
+    ],
+    "explanation": "நீலத்திமிங்கலம்",
+    "explanation_en": "Nilathimangalam"
+  },
+  {
+    "id": 72,
+    "question": "கீழ்க்கண்டவற்றுள் எது முட்டையிடும் பாலூட்டி?",
+    "options": [
+      "கங்காரு",
+      "பிளாடிபஸ்",
+      "பென்குயின்",
+      "திமிங்கலம்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is an egg-laying mammal?",
+    "options_en": [
+      "Kangaroo",
+      "Platypus",
+      "Penguin",
+      "the whale"
+    ],
+    "explanation": "பிளாடிபஸ்",
+    "explanation_en": "Platypus is an egg-laying mammal."
+  },
+  {
+    "id": 73,
+    "question": "மிக வேகமாக நீந்தும் மீனின் உந்துவிசைக்கு காரணம்?",
+    "options": [
+      "இடுப்பு துடுப்பு",
+      "தோள் துடுப்பு",
+      "முதுகுத் துடிப்பு",
+      "வால் துடுப்பு"
+    ],
+    "correct": 3,
+    "question_en": "What is the reason for the momentum of a fast swimming fish?",
+    "options_en": [
+      "Waist paddle",
+      "Shoulder paddle",
+      "Spinal cord",
+      "Tail fin"
+    ],
+    "explanation": "வால் துடுப்பு",
+    "explanation_en": "Tail fin is the reason for the momentum of a fast swimming fish."
+  },
+  {
+    "id": 74,
+    "question": "பாலூட்டிகளின் மிக முக்கிய சிறப்பு பண்புகளில் ஒன்றாகக் கருதப்படுவது?",
+    "options": [
+      "வெப்பம் மாறா தன்மை",
+      "நான்கு அறை இதயம்",
+      "உதரவிதானம் பெற்றிருத்தல்",
+      "விலா எலும்புக் கூடு"
+    ],
+    "correct": 2,
+    "question_en": "What is considered to be one of the most important distinguishing characteristics of mammals?",
+    "options_en": [
+      "Thermal stability",
+      "Four chambered heart",
+      "Having a diaphragm",
+      "Rib cage"
+    ],
+    "explanation": "உதரவிதானம் பெற்றிருத்தல்",
+    "explanation_en": "Having a diaphragm is considered to be one of the most important distinguishing characteristics of mammals."
+  },
+  {
+    "id": 75,
+    "question": "பொதுவாக அட்டைகள்",
+    "options": [
+      "இரத்த உண்ணிகள்",
+      "ஊன் உண்ணிகள்",
+      "பூச்சி உண்ணிகள்",
+      "தாவர உண்ணிகள்"
+    ],
+    "correct": 0,
+    "question_en": "Cards in general",
+    "options_en": [
+      "Blood ticks",
+      "Ticks",
+      "Insectivores",
+      "Herbivores"
+    ],
+    "explanation": "இரத்த உண்ணிகள்",
+    "explanation_en": "Blood ticks"
+  },
+  {
+    "id": 76,
+    "question": "நாடாப் புழு ஒட்டுண்ணியாக வாழுமிடம்",
+    "options": [
+      "கல்லீரல்",
+      "வயிறு",
+      "குடல்",
+      "மேற்கண்ட எல்லா இடங்களிலும்"
+    ],
+    "correct": 2,
+    "question_en": "Habitat as a tapeworm parasite",
+    "options_en": [
+      "Liver",
+      "Stomach",
+      "intestine",
+      "In all the above places"
+    ],
+    "explanation": "குடல்",
+    "explanation_en": "intestine"
+  },
+  {
+    "id": 77,
+    "question": "கீழ்கண்டவற்றில் எது அதிக சிற்றினங்களை உடையது?",
+    "options": [
+      "பூச்சிகள்",
+      "பறவைகள்",
+      "ஆஞ்சியோஸ்பெர்ம்ஸ்",
+      "பூஞ்சைகள்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following has more cells?",
+    "options_en": [
+      "Insects",
+      "Birds",
+      "Angiosperms",
+      "fungi"
+    ],
+    "explanation": "பூச்சிகள்",
+    "explanation_en": "Insects"
+  },
+  {
+    "id": 78,
+    "question": "கீழ்க்கண்டவற்றில் எது செவுள் மூலம் சுவாசிக்கிறது?",
+    "options": [
+      "திமிங்கலம்",
+      "ஆமை",
+      "தவளை",
+      "இறால்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following breathes through gills?",
+    "options_en": [
+      "the whale",
+      "Tortoise",
+      "the frog",
+      "Shrimp"
+    ],
+    "explanation": "இறால்",
+    "explanation_en": "Shrimp"
+  },
+  {
+    "id": 79,
+    "question": "கீழ்க்கண்டவற்றுள் கணுக்காலிகளின் சிறப்பு பண்பு எது?",
+    "options": [
+      "நீர்வாழ் தனி உயிரிகள்",
+      "கைட்டினாலான புறச்சட்டகம் மற்றும் கணுக்களையுடைய கால்கள்",
+      "நாற்கரம்",
+      "மேற்கண்ட எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a special feature of ankles?",
+    "options_en": [
+      "Aquatic organisms",
+      "Chitinous outer frame and gnarled legs",
+      "square",
+      "None of the above"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் கணுக்காலிகளின் சிறப்பு பண்பு கைட்டினாலான புறச்சட்டகம் மற்றும் கணுக்களையுடைய கால்கள் ஆகும்.",
+    "explanation_en": "Chitinous outer frame and gnarled legs is a special feature of ankles."
+  },
+  {
+    "id": 80,
+    "question": "மெல்லுடலி என்பது?",
+    "options": [
+      "ஈரடுக்கு கொண்டது, உடற்குழி அற்றது",
+      "மூவடுக்கு கொண்டது, உடற்குழி அற்றது",
+      "ஈரடுக்கு கொண்டது, உடற்குழி உடையது",
+      "மூவடுக்கு கொண்டது, உடற்குழி உடையது"
+    ],
+    "correct": 3,
+    "question_en": "Meludali is?",
+    "options_en": [
+      "Cordyceps, without body cavity",
+      "Three-layered, without body cavity",
+      "Cartilaginous, with a body cavity",
+      "Three-layered, with a body cavity"
+    ],
+    "explanation": "மூவடுக்கு கொண்டது, உடற்குழி உடையது",
+    "explanation_en": "Meludali is Three-layered, with a body cavity."
+  },
+  {
+    "id": 81,
+    "question": "எந்த தொகுதி உயிரினங்களின் புறச்சட்டகம் கைட்டினால் ஆனது?",
+    "options": [
+      "கணுக்காலிகள்",
+      "துளையுடலிகள்",
+      "வளைதசை புழுக்கள்",
+      "முட்தோலிகள்"
+    ],
+    "correct": 0,
+    "question_en": "The exoskeleton of which block of organisms is made up of chitin?",
+    "options_en": [
+      "ankles",
+      "Perforators",
+      "Hookworms",
+      "Hair follicles"
+    ],
+    "explanation": "கணுக்காலிகள்",
+    "explanation_en": "ankles"
+  },
+  {
+    "id": 82,
+    "question": "கீழ்க்கண்டவற்றுள், எந்த இரத்த உறைவு எதிர்பொருளை அட்டை சுரக்கிறது?",
+    "options": [
+      "ஹிருடின்",
+      "ஹெபரின்",
+      "செரடோனின்",
+      "ஹிஸ்டமைன்"
+    ],
+    "correct": 0,
+    "question_en": "Among the following, which anticoagulant does the cardia secrete?",
+    "options_en": [
+      "Hirudin",
+      "Heparin",
+      "Serotonin",
+      "Histamine"
+    ],
+    "explanation": "ஹிருடின்",
+    "explanation_en": "Hirudin"
+  },
+  {
+    "id": 83,
+    "question": "கீழ்க்கண்ட விலங்கு தொகுதியில் எது முழுவதுமாக கடலில் வாழ்கிறது?",
+    "options": [
+      "கணுக்காலிகள்",
+      "துளையுடலிகள்",
+      "மெல்லுடலிகள்",
+      "முட்தோலிகள்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following group of animals lives entirely in the sea?",
+    "options_en": [
+      "ankles",
+      "Perforators",
+      "Gums",
+      "Hair follicles"
+    ],
+    "explanation": "முட்தோலிகள்",
+    "explanation_en": "Hair follicles"
+  },
+  {
+    "id": 84,
+    "question": "நான்கு அறை இதயம் இல்லாதது எது?",
+    "options": [
+      "பாலூட்டிகள்",
+      "பறவைகள்",
+      "பாம்பு",
+      "முதலை"
+    ],
+    "correct": 2,
+    "question_en": "What does not have a four-chambered heart?",
+    "options_en": [
+      "Mammals",
+      "Birds",
+      "Snake",
+      "Crocodile"
+    ],
+    "explanation": "நான்கு அறை இதயம் இல்லாதது பாம்பு ஆகும்.",
+    "explanation_en": "Snake"
+  },
+  {
+    "id": 85,
+    "question": "நீர் மற்றும் நிலம் ஆகிய இரு வாழிடங்களிலும் வாழக்கூடிய விலங்குகளைக் கொண்ட முதல் நான்கு காலி, முதுகெலும்பு உயிரி எது?",
+    "options": [
+      "ஊர்வன",
+      "இருவாழ்விகள்",
+      "பறவைகள்",
+      "மீன்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Which are the first four vertebrates that have animals that can live in both water and land habitats?",
+    "options_en": [
+      "Reptile",
+      "Two lives",
+      "Birds",
+      "fishes"
+    ],
+    "explanation": "நீர் மற்றும் நிலம் ஆகிய இரு வாழிடங்களிலும் வாழக்கூடிய விலங்குகளைக் கொண்ட முதல் நான்கு காலி, முதுகெலும்பு உயிரி இருவாழ்விகள் ஆகும்.",
+    "explanation_en": "Two lives"
+  },
+  {
+    "id": 86,
+    "question": "முதுகெலும்பிகளில் முதலில் தோன்றிய வெப்ப இரத்த உயிரினம் எது?",
+    "options": [
+      "ஊர்வன",
+      "இரு வாழ்விகள்",
+      "பறவைகள்",
+      "மீன்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the vertebrates was the first warm-blooded organism?",
+    "options_en": [
+      "Reptile",
+      "Two lives",
+      "Birds",
+      "fishes"
+    ],
+    "explanation": "முதுகெலும்பிகளில் முதலில் தோன்றிய வெப்ப இரத்த உயிரினம் பறவைகள் ஆகும்.",
+    "explanation_en": "Birds"
+  },
+  {
+    "id": 87,
+    "question": "குளிர் இரத்த பிராணிகள் எவை?",
+    "options": [
+      "மீன், தவளை, பல்லி, மனிதன்",
+      "மீன், தவளை, பல்லி, மாடு",
+      "மீன், தவளை, பல்லி, பாம்பு",
+      "மீன், தவளை, பல்லி, காகம்"
+    ],
+    "correct": 2,
+    "question_en": "Which are cold blooded animals?",
+    "options_en": [
+      "Fish, Frog, Lizard, Man",
+      "Fish, Frog, Lizard, Cow",
+      "Fish, Frog, Lizard, Snake",
+      "Fish, Frog, Lizard, Crow"
+    ],
+    "explanation": "குளிர் இரத்த பிராணிகள் மீன், தவளை, பல்லி, பாம்பு ஆகும்.",
+    "explanation_en": "Fish, Frog, Lizard, Snake"
+  },
+  {
+    "id": 88,
+    "question": "காற்றறைகள் மற்றும் காற்று எலும்புகள் எவற்றில் காணப்படுகிறது?",
+    "options": [
+      "மீன்கள்",
+      "பறவைகள்",
+      "தவளைகள்",
+      "வௌவால்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Air chambers and air bones are found in which?",
+    "options_en": [
+      "fishes",
+      "Birds",
+      "Frogs",
+      "Bats"
+    ],
+    "explanation": "பறவைகள்",
+    "explanation_en": "Birds"
+  },
+  {
+    "id": 89,
+    "question": "பொருத்துக: (a) குழியுடலிகள் - (i) நத்தை, (b) தட்டைப்புழுக்கள் - (ii) நட்சத்திர மீன், (c) முட்தோலிகள் - (iii) நாடாப்புழு, (d) மெல்லுடலிகள் - (iv) ஹைட்ரா",
+    "options": [
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iv), b-(ii), c-(iii), d-(i)",
+      "a-(iv), b-(i), c-(iii), d-(ii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)"
+    ],
+    "correct": 0,
+    "question_en": "Match: (a) Gastropods - (i) Snail, (b) Flatworms - (ii) Starfish, (c) Echinoderms - (iii) Tapeworm, (d) Molluscs - (iv) Hydra",
+    "options_en": [
+      "a-(iv), b-(iii), c-(ii), d-(i)",
+      "a-(iv), b-(ii), c-(iii), d-(i)",
+      "a-(iv), b-(i), c-(iii), d-(ii)",
+      "a-(i), b-(ii), c-(iii), d-(iv)"
+    ],
+    "explanation": "a-(iv), b-(iii), c-(ii), d-(i)",
+    "explanation_en": "a-(iv), b-(iii), c-(ii), d-(i)"
+  },
+  {
+    "id": 90,
+    "question": "கரோலஸ் லின்னேயஸ் என்பவர்",
+    "options": [
+      "இங்கிலாந்து தாவரவியலாளர்",
+      "இந்திய தாவரவியலாளர்",
+      "ஜெர்மானிய தாவரவியலாளர்",
+      "ஸ்வீடன் தாவரவியலாளர்"
+    ],
+    "correct": 3,
+    "question_en": "Carolus Linnaeus",
+    "options_en": [
+      "British botanist",
+      "Indian botanist",
+      "German botanist",
+      "Swedish botanist"
+    ],
+    "explanation": "ஸ்வீடன் தாவரவியலாளர்",
+    "explanation_en": "Swedish botanist"
+  },
+  {
+    "id": 91,
+    "question": "முட்தோலி வகை விலங்கு எது?",
+    "options": [
+      "ஜெல்லி மீன்",
+      "நட்சத்திர மீன்",
+      "ஆக்டோபஸ்",
+      "காட்பிஸ்"
+    ],
+    "correct": 1,
+    "question_en": "Which animal is an echinoderm?",
+    "options_en": [
+      "Jelly fish",
+      "Starfish",
+      "Octopus",
+      "Godbis"
+    ],
+    "explanation": "முட்தோலி வகை விலங்கு நட்சத்திர மீன் ஆகும்.",
+    "explanation_en": "Starfish"
+  },
+  {
+    "id": 92,
+    "question": "நீரிலும் நிலத்திலும் வாழும் தாவரம் எது?",
+    "options": [
+      "ஃபியூனேரியா",
+      "காரா",
+      "அடியாண்டம்",
+      "சைகஸ்"
+    ],
+    "correct": 0,
+    "question_en": "Which plant lives in water and land?",
+    "options_en": [
+      "Funeria",
+      "Cara",
+      "sub-month",
+      "Cygnus"
+    ],
+    "explanation": "நீரிலும் நிலத்திலும் வாழும் தாவரம் ஃபியூனேரியா ஆகும்.",
+    "explanation_en": "Funeria"
+  },
+  {
+    "id": 93,
+    "question": "கூற்று (A):ஜிம்னோஸ்பெர்ம்கள் திறந்த விதை கொண்ட தாவரங்கள் என அழைக்கப்படுகின்றன. காரணம் (R): சூல்கள் திறந்தவை மற்றும் சூற்பை காணப்படுவதில்லை.",
+    "options": [
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம்.",
+      "(A) சரி, (R) தவறு",
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம் அன்று.",
+      "(A) தவறு, (R) சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion (A):Gymnosperms are known as open seeded plants. Reason (R): The sula are open and the sula is not visible.",
+    "options_en": [
+      "Both (A) and (R) are correct. (R) is an interpretation of (A).",
+      "(A) True, (R) False",
+      "Both (A) and (R) are correct. (R) is the explanation for (A).",
+      "(A) False, (R) Correct"
+    ],
+    "explanation": "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம்.",
+    "explanation_en": "Both (A) and (R) are correct. (R) is an interpretation of (A)."
+  },
+  {
+    "id": 94,
+    "question": "கூற்று (A): ஆல்காக்களின் உடலமைப்பு தாலஸ் எனப்படும். காரணம் (R): தாவர உடல் வேர், தண்டு மற்றும் இலை என வேறுபாடுடன் காணப்படுகிறது.",
+    "options": [
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம்.",
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம் அன்று.",
+      "(A) சரி, (R) தவறு",
+      "(A) தவறு, (R) சரி"
+    ],
+    "correct": 2,
+    "question_en": "Assertion (A): The body structure of algae is called thallus. Reason (R): The plant body is differentiated into root, stem and leaf.",
+    "options_en": [
+      "Both (A) and (R) are correct. (R) is an interpretation of (A).",
+      "Both (A) and (R) are correct. (R) is the explanation for (A).",
+      "(A) True, (R) False",
+      "(A) False, (R) Correct"
+    ],
+    "explanation": "(A) சரி, (R) தவறு",
+    "explanation_en": "(A) True, (R) False"
+  },
+  {
+    "id": 95,
+    "question": "இராபர்ட் ஹார்டிங் விட்டேக்கர் வகைப்பாட்டில் மூன்றாவதாக இடம் பெறும் உலகம் எது?",
+    "options": [
+      "மொனிரா",
+      "பூஞ்சை",
+      "தாவரங்கள்",
+      "புரோடிஸ்டா"
+    ],
+    "correct": 1,
+    "question_en": "Which world ranks third in the Robert Harding Whittaker classification?",
+    "options_en": [
+      "Monira",
+      "Fungus",
+      "Plants",
+      "Protista"
+    ],
+    "explanation": "இராபர்ட் ஹார்டிங் விட்டேக்கர் வகைப்பாட்டில் மூன்றாவதாக இடம் பெறும் உலகம் பூஞ்சை ஆகும்.",
+    "explanation_en": "Fungus"
+  },
+  {
+    "id": 96,
+    "question": "கூற்று (A): பச்சையம் அற்ற தாவரம் பூஞ்சைகள் ஆகும். காரணம் (R): பச்சையம் காணப்படுவதில்லை. பிற சார்பு ஊட்டமுறை கொண்டவை.",
+    "options": [
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம்.",
+      "(A) சரி, (R) தவறு",
+      "(A) தவறு, (R) சரி",
+      "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம் அன்று."
+    ],
+    "correct": 0,
+    "question_en": "Assertion (A): Non green plant are fungi. Reason (R): Green is not seen. Others are dependent on nutrients.",
+    "options_en": [
+      "Both (A) and (R) are correct. (R) is an interpretation of (A).",
+      "(A) True, (R) False",
+      "(A) False, (R) Correct",
+      "Both (A) and (R) are correct. (R) is the explanation for (A)."
+    ],
+    "explanation": "(A), (R) இரண்டும் சரி. (R) என்பது (A)க்கான விளக்கம்.",
+    "explanation_en": "Both (A) and (R) are correct. (R) is an interpretation of (A)."
+  },
+  {
+    "id": 97,
+    "question": "இரு சொல் பெயரிடும் முறை அறிமுகப்படுத்திய ஆண்டு?",
+    "options": [
+      "1632",
+      "1631",
+      "1753",
+      "1623"
+    ],
+    "correct": 2,
+    "question_en": "Year of introduction of two word nomenclature?",
+    "options_en": [
+      "1632",
+      "1631",
+      "1753",
+      "1623"
+    ],
+    "explanation": "1753",
+    "explanation_en": "1753"
+  },
+  {
+    "id": 98,
+    "question": "பொருத்துக. (1) பிரையோஃபைட்டுகள் - (i) திறந்த விதைத் தாவரங்கள், (2) டெரிடோஃபைட்டுகள் - (ii) வாஸ்குலார்த் திசுக்களற்ற பூவாத் தாவரங்கள், (3) ஜிம்னோஸ்பெர்ம்கள் - (iii) மூடிய விதைத் தாவரங்கள், (4) ஆஞ்சியோஸ்பெர்ம்கள் - (iv) வாஸ்குலார்த் தொகுப்புடைய பூவாத் தாவரங்கள்",
+    "options": [
+      "a (i), b (ii), c (iii), d (iv)",
+      "a (ii), b (iii), c (iv), d (i)",
+      "a (ii), b (iv), c (i), d (iii)",
+      "a (iv), b (ii), c (i), d (iii)"
+    ],
+    "correct": 2,
+    "question_en": "match (1) Bryophytes - (i) Open-seeded plants, (2) Pteridophytes - (ii) Vascular plants, (3) Gymnosperms - (iii) Angiosperms, (iv) Angiosperms - (iv) Vascular plants",
+    "options_en": [
+      "a (i), b (ii), c (iii), d (iv)",
+      "a (ii), b (iii), c (iv), d (i)",
+      "a (ii), b (iv), c (i), d (iii)",
+      "a (iv), b (ii), c (i), d (iii)"
+    ],
+    "explanation": "a (ii), b (iv), c (i), d (iii)",
+    "explanation_en": "a (ii), b (iv), c (i), d (iii)"
+  },
+  {
+    "id": 99,
+    "question": "நாம் உண்ணும் அரிசியின் அறிவியல் பெயர் எது?",
+    "options": [
+      "டிட்ரிகம் வல்கேர்",
+      "பைசம் சட்டைவம்",
+      "அல்லியம் சட்டைவம்",
+      "ஒரைசா சட்டைவா"
+    ],
+    "correct": 3,
+    "question_en": "What is the scientific name of the rice we eat?",
+    "options_en": [
+      "Titricum vulgare",
+      "Paisham frame",
+      "Allium Chativam",
+      "Orissa shirt"
+    ],
+    "explanation": "நாம் உண்ணும் அரிசியின் அறிவியல் பெயர் ஒரைசா சட்டைவா ஆகும்.",
+    "explanation_en": "Orissa shirt is the scientific name of the rice we eat."
+  },
+  {
+    "id": 100,
+    "question": "நமது வீட்டில் வளர்க்கும் செல்ல பிராணி நாயின் விலங்கியல் பெயர்?",
+    "options": [
+      "கேனிஸ் பெமிலியாரிஸ்",
+      "மஸ்கா டொமஸ்டிகா",
+      "ஃபெலிஸ் ஃபெலிஸ்",
+      "பான்திரா லியோ"
+    ],
+    "correct": 0,
+    "question_en": "What is the zoological name of our pet dog?",
+    "options_en": [
+      "Canis familiaris",
+      "Musca domestica",
+      "Felice Felice",
+      "Panthera Leo"
+    ],
+    "explanation": "கேனிஸ் பெமிலியாரிஸ்",
+    "explanation_en": "Canis familiaris is the zoological name of our pet dog."
+  },
+  {
+    "id": 101,
+    "question": "உருளைக்கிழங்கின் இருசொற் பெயர்",
+    "options": [
+      "ஒரைசா சட்டைவா",
+      "மாஞ்சிஃபெரா இண்டிகா",
+      "சொலானம் டியுபரோஸம்",
+      "ஹைபிஸ்கஸ் ரோஸாசைனன்சிஸ்"
+    ],
+    "correct": 2,
+    "question_en": "A two-word name for potato",
+    "options_en": [
+      "Orissa shirt",
+      "Manchifera indica",
+      "Solanum tuberosum",
+      "Hibiscus rosacinensis"
+    ],
+    "explanation": "சொலானம் டியுபரோஸம்",
+    "explanation_en": "Solanum tuberosum"
+  },
+  {
+    "id": 102,
+    "question": "நீர்த் தேவையின் அடிப்படையில் தாவரங்களை வகைப்படுத்தியவர் யார்?",
+    "options": [
+      "பிளம்மிங்",
+      "வார்மிங்",
+      "டார்வின்",
+      "மெண்டல்"
+    ],
+    "correct": 1,
+    "question_en": "Who classified plants based on water requirement?",
+    "options_en": [
+      "Plumming",
+      "Warming up",
+      "Darwin",
+      "Mendel"
+    ],
+    "explanation": "நீர்த் தேவையின் அடிப்படையில் தாவரங்களை வகைப்படுத்தியவர் வார்மிங்.",
+    "explanation_en": "Warming up"
+  },
+  {
+    "id": 103,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "தவளை - மஸ்கா டொமஸ்டிகா",
+      "புறா - ரானா ஹெக்ஸாடக்டைலா",
+      "கரப்பான் பூச்சி - பெரிபிளானேட்டா அமெரிக்கானா",
+      "மனிதன் - கொலம்பாலிவியா"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Frog - Musca domestica",
+      "Pigeon - Rana hexadactyla",
+      "Cockroach - Periplaneta americana",
+      "Man - Columbalivia"
+    ],
+    "explanation": "கரப்பான் பூச்சி - பெரிபிளானேட்டா அமெரிக்கானா",
+    "explanation_en": "Cockroach - Periplaneta americana"
+  },
+  {
+    "id": 104,
+    "question": "பொருந்தாத இணை / இணைகளைக் கண்டறியவும். a) மெல்லுடலிகள் - கடினமான உடல் மற்றும் ஓடு இல்லாதவை, b) கணுக்காலிகள் - இணைப்புகள் இல்லா கால்கள், c) தட்டைப்புழுக்கள் - சுடர் செல்கள், d) வளை தசை புழுக்கள் - கண்டங்களால் ஆன உடல்",
+    "options": [
+      "a மட்டும்",
+      "c மற்றும் d மட்டும்",
+      "c மட்டும்",
+      "a மற்றும் b மட்டும்"
+    ],
+    "correct": 3,
+    "question_en": "Find mismatched parallels / parallels. a) Molluscs - hard body and shellless, b) Arthropods - legs without appendages, c) Flatworms - flame cells, d) Archaea - continental body",
+    "options_en": [
+      "a only",
+      "c and d only",
+      "c only",
+      "a and b only"
+    ],
+    "explanation": "a மற்றும் b மட்டும்",
+    "explanation_en": "a and b only"
+  },
+  {
+    "id": 105,
+    "question": "தேங்காயின் தாவரவியல் பெயர்",
+    "options": [
+      "அல்லியம் சட்டைவம்",
+      "ஒரைசா சட்டைவா",
+      "காக்கஸ் நியூசிபெரா",
+      "சிட்ரஸ் செனன்ஸிஸ்"
+    ],
+    "correct": 2,
+    "question_en": "Botanical name of coconut",
+    "options_en": [
+      "Allium Chativam",
+      "Orissa shirt",
+      "Caucus nucipera",
+      "Citrus senensis"
+    ],
+    "explanation": "காக்கஸ் நியூசிபெரா",
+    "explanation_en": "Caucus nucipera"
+  }
+]

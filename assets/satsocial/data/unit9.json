@@ -1,0 +1,1162 @@
+[
+  {
+    "id": 1,
+    "question": "இந்தியா எப்போது மக்களாட்சி நாடானது?",
+    "options": [
+      "1951",
+      "1950",
+      "1952",
+      "1953"
+    ],
+    "correct": 1,
+    "question_en": "When did India become a democratic country?",
+    "options_en": [
+      "1951",
+      "1950",
+      "1952",
+      "1953"
+    ],
+    "explanation": "1950",
+    "explanation_en": "1950"
+  },
+  {
+    "id": 2,
+    "question": "கீழ்க்கண்ட நிகழ்வுகளை அவை நடைபெற்ற காலங்களின் அடிப்படையில் வரிசைப்படுத்தவும்.\n1. இந்தியா மக்களாட்சி நாடாக மாறியது.\n2. இந்தியா சுதந்திர நாடாக மாறியது.\n3. இந்தியாவில் அரசியல் கட்சிகளுக்கு ஒதுக்கப்படும் தேர்தல் சின்னங்களை நெறிப்படுத்துதல் சம்பந்தப்பட்ட ஆணை வெளியிடப்பட்டது.",
+    "options": [
+      "1, 2, 3",
+      "1, 3, 2",
+      "2, 3, 1",
+      "2, 1, 3"
+    ],
+    "correct": 3,
+    "question_en": "Arrange the following events chronologically based on their occurrence.\n1. India became a democratic country.\n2. India became an independent country.\n3. The order regulating the allotment of election symbols to political parties in India was issued.",
+    "options_en": [
+      "1, 2, 3",
+      "1, 3, 2",
+      "2, 3, 1",
+      "2, 1, 3"
+    ],
+    "explanation": "2, 1, 3",
+    "explanation_en": "2, 1, 3"
+  },
+  {
+    "id": 3,
+    "question": "அரசியல் கட்சியின் கூறுகள் எத்தனை?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "question_en": "How many components does a political party have?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "அரசியல் கட்சியின் கூறுகள் 3 ஆகும்.",
+    "explanation_en": "3 components does a political party have."
+  },
+  {
+    "id": 4,
+    "question": "அரசியல் கட்சிகளானது அளவு, அமைப்பு மற்றும் ___________ ஆகியவற்றின் அடிப்படையில் வேறுபடுகின்றன.",
+    "options": [
+      "கொள்கை",
+      "வடிவம்",
+      "தீர்மானம்",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Political parties differ on the basis of size, organization, and ___________.",
+    "options_en": [
+      "Policy",
+      "Form",
+      "Resolution",
+      "All of the above"
+    ],
+    "explanation": "அரசியல் கட்சிகளானது அளவு, அமைப்பு மற்றும் கொள்கை ஆகியவற்றின் அடிப்படையில் வேறுபடுகின்றன.",
+    "explanation_en": "Political parties differ on the basis of size, organization, and Policy."
+  },
+  {
+    "id": 5,
+    "question": "கீழ்க்கண்ட கூற்றுகளை ஆராய்க. ஒரு கட்சி அங்கீகரிக்கப்பட வேண்டுமெனில்,\n1. பத்து ஆண்டுகளாக அரசியல் செயல்பாடுகளில் ஈடுபட்டிருக்க வேண்டும்.\n2. வேட்பாளர்கள் குறைந்தபட்சம் 2 % ஓட்டுக்களை இறுதியாக நடைபெற்ற பொதுத்தேர்தலில் பெற்றிருத்தல் வேண்டும்.",
+    "options": [
+      "கூற்று 1, 2 சரி",
+      "கூற்று 1 சரி, 2 தவறு",
+      "கூற்று 1 தவறு, 2 சரி",
+      "கூற்று 1, 2 தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Examine the following statements. For a party to be recognized:\n1. It must have been engaged in political activity for ten years.\n2. Its candidates must have secured at least 2% of the total valid votes in the last general election.",
+    "options_en": [
+      "Statements 1, 2 are true",
+      "Statement 1 is true, 2 is false",
+      "Statement 1 is false, 2 is true",
+      "Statements 1, 2 are false"
+    ],
+    "explanation": "கூற்று 1, 2 தவறு",
+    "explanation_en": "Statements 1, 2 are false"
+  },
+  {
+    "id": 6,
+    "question": "\"மக்களாட்சியின் முதுகெலும்பு\" என்று அழைக்கப்படுவது ___________",
+    "options": [
+      "அமைச்சரவை",
+      "எதிர்க்கட்சிகள்",
+      "ஆளும் கட்சிகள்",
+      "அரசியல் கட்சிகள்"
+    ],
+    "correct": 3,
+    "question_en": "The \"backbone of democracy\" is ___________",
+    "options_en": [
+      "Cabinet",
+      "Opposition parties",
+      "Ruling parties",
+      "Political parties"
+    ],
+    "explanation": "\"மக்களாட்சியின் முதுகெலும்பு\" என்று அழைக்கப்படுவது அரசியல் கட்சிகள்",
+    "explanation_en": "The \"backbone of democracy\" is Political parties"
+  },
+  {
+    "id": 7,
+    "question": "பின்வருவனவற்றுள் எது ஓர் அரசியல் கட்சியின் அடிப்படை அம்சங்களில் ஒன்று?",
+    "options": [
+      "தலைவர்",
+      "செயல் உறுப்பினர்கள்",
+      "தொண்டர்கள்",
+      "இவை மூன்றும்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is one of the basic components of a political party?",
+    "options_en": [
+      "Leader",
+      "Active members",
+      "Followers",
+      "All three"
+    ],
+    "explanation": "செயல் உறுப்பினர்கள்",
+    "explanation_en": "Active members is one of the basic components of a political party."
+  },
+  {
+    "id": 8,
+    "question": "அரசியல் கட்சிகளின் இயல்புகள் குறித்துக் கீழ்க்காணும் கூற்றுகளில் தவறானவை எவை?\n1. பொதுவான குறிக்கோள் மற்றும் பகிர்ந்தளிக்கப்பட்ட மதிப்பீடுகள்.\n2. தனக்கென கொள்கை மற்றும் திட்டங்கள்.\n3. அரசியலமைப்பின் வழியாக மட்டுமல்லாமல், அனைத்து வழியிலும் ஆட்சியைக் கைப்பற்ற முயலுதல்.\n4. தன் நலன்களை வலியுறுத்த முயற்சி செய்தல்.",
+    "options": [
+      "1, 4 தவறு",
+      "3, 4 தவறு",
+      "2, 1 தவறு",
+      "1, 3 தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements about the nature of political parties are incorrect?\n1. Common goal and shared values.\n2. Own policies and programs.\n3. Attempt to capture power by all means, not just through constitutional means.\n4. Attempt to assert its own interests.",
+    "options_en": [
+      "1, 4 are incorrect",
+      "3, 4 are incorrect",
+      "2, 1 are incorrect",
+      "1, 3 are incorrect"
+    ],
+    "explanation": "2, 1 தவறு",
+    "explanation_en": "2, 1 are incorrect"
+  },
+  {
+    "id": 9,
+    "question": "குடிமக்களுக்கும், கொள்கை வகுப்பாளர்களுக்கும் இடையே ஒரு பாலமாக இருந்து செயல்படுவது ___________",
+    "options": [
+      "நாட்டு நலப்பணித் திட்டங்கள்",
+      "அரசியல் தலைவர்கள்",
+      "அரசியல் கட்சிகள்",
+      "ஆளும் கட்சி"
+    ],
+    "correct": 3,
+    "question_en": "What acts as a bridge between citizens and policymakers?",
+    "options_en": [
+      "National Service Schemes",
+      "Political leaders",
+      "Political parties",
+      "Ruling party"
+    ],
+    "explanation": "குடிமக்களுக்கும், கொள்கை வகுப்பாளர்களுக்கும் இடையே ஒரு பாலமாக இருந்து செயல்படுவது ஆளும் கட்சி",
+    "explanation_en": "Ruling party"
+  },
+  {
+    "id": 10,
+    "question": "தேர்தலுக்கு முன்பான பரப்புரையில் வேட்பாளர்கள் தங்களது கட்சி ஆட்சிக்கு வந்தால் மேற்கொள்ளப்படும் திட்டங்கள் கொள்கைகள் பற்றிய அறிக்கை ___________",
+    "options": [
+      "கட்சியின் வேட்பாளர் அறிக்கை",
+      "கட்சியின் செல்வாக்கு அறிக்கை",
+      "கட்சியின் தேர்தல் அறிக்கை",
+      "கட்சி பற்றிய வரலாற்று அறிக்கை"
+    ],
+    "correct": 2,
+    "question_en": "The document outlining the programs and policies a party will implement if it comes to power, released before the election campaign, is ___________",
+    "options_en": [
+      "Party's candidate manifesto",
+      "Party's popularity manifesto",
+      "Party's election manifesto",
+      "Party's historical manifesto"
+    ],
+    "explanation": "தேர்தலுக்கு முன்பான பரப்புரையில் வேட்பாளர்கள் தங்களது கட்சி ஆட்சிக்கு வந்தால் மேற்கொள்ளப்படும் திட்டங்கள் கொள்கைகள் பற்றிய அறிக்கை கட்சியின் தேர்தல் அறிக்கை",
+    "explanation_en": "The document outlining the programs and policies a party will implement if it comes to power, released before the election campaign, is Party's election manifesto"
+  },
+  {
+    "id": 11,
+    "question": "பொருத்துக.\na. ஒரு கட்சி முறை\nb. இரு கட்சி முறை\nc. பல கட்சி முறை\nd. இந்தியத் தேர்தல் ஆணையத் தலைமையிடம்",
+    "options": [
+      "a - iii b - i c - iv d - ii",
+      "a - i b - iv c - ii d - iii",
+      "a - i b - ii c - iii d - iv",
+      "a - iii b - i c - iv d - ii"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\na. Single party system\nb. Bi-party system\nc. Multi-party system\nd. Election Commission of India headquarters",
+    "options_en": [
+      "a - iii b - i c - iv d - ii",
+      "a - i b - iv c - ii d - iii",
+      "a - i b - ii c - iii d - iv",
+      "a - iii b - i c - iv d - ii"
+    ],
+    "explanation": "a - iii b - i c - iv d - ii",
+    "explanation_en": "a - iii b - i c - iv d - ii"
+  },
+  {
+    "id": 12,
+    "question": "கூற்றுகளை ஆராய்க.\nகூற்று: அமெரிக்காவில் இரு கட்சி முறை பின்பற்றப்படுகிறது.\nகாரணம்: அரசாங்கத்தை ஏற்படுத்தும் உரிமை ஓர் அரசியல் கட்சிக்கு மட்டுமே உண்டு.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான விளக்கமாகும்.",
+      "காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல.",
+      "கூற்று சரி ஆனால் காரணம் தவறு.",
+      "கூற்று காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 2,
+    "question_en": "Examine the statements.\nAssertion: A bi-party system is followed in the USA.\nReason: Only one political party has the right to form the government.",
+    "options_en": [
+      "Reason is the correct explanation for the assertion.",
+      "Reason is not the correct explanation for the assertion.",
+      "Assertion is true but Reason is false.",
+      "Both Assertion and Reason are false."
+    ],
+    "explanation": "கூற்று சரி ஆனால் காரணம் தவறு.",
+    "explanation_en": "Assertion is true but Reason is false."
+  },
+  {
+    "id": 13,
+    "question": "கூற்றுகளை ஆராய்க.\n(i) இந்தியா மக்களாட்சி நாடாக மாறிய ஆண்டு 1968\n(ii) இந்தியாவில் அரசியல் கட்சிகளுக்கு ஒதுக்கப்படும் தேர்தல் சின்னங்களை நெறிப்படுத்துதல் தொடர்பான ஆணை வெளியிடப்பட்ட ஆண்டு 1950.",
+    "options": [
+      "i சரி, ii சரி",
+      "i சரி, ii தவறு",
+      "i தவறு, ii சரி",
+      "i தவறு, ii தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Examine the statements.\n(i) India became a democratic country in 1968.\n(ii) The Election Symbols (Reservation and Allotment) Order was issued in 1950.",
+    "options_en": [
+      "i is true, ii is true",
+      "i is true, ii is false",
+      "i is false, ii is true",
+      "i is false, ii is false"
+    ],
+    "explanation": "i தவறு, ii தவறு",
+    "explanation_en": "i is false, ii is false"
+  },
+  {
+    "id": 14,
+    "question": "அரசியல் கட்சி என்பது",
+    "options": [
+      "தன்னார்வம் கொண்ட அரசு குழுக்களின் அமைப்பு",
+      "அரசு செயல்படுத்தும் அமைப்பு.",
+      "தன்னார்வம் கொண்ட தனி மனிதர்களின் அமைப்பு.",
+      "தன்னார்வம் கொண்ட நிறுவன குழுக்களின் அமைப்பு."
+    ],
+    "correct": 2,
+    "question_en": "A political party is",
+    "options_en": [
+      "A voluntary organization of government groups.",
+      "An organization implemented by the government.",
+      "A voluntary organization of individuals.",
+      "A voluntary organization of corporate groups."
+    ],
+    "explanation": "தன்னார்வம் கொண்ட தனி மனிதர்களின் அமைப்பு.",
+    "explanation_en": "A voluntary organization of individuals."
+  },
+  {
+    "id": 15,
+    "question": "கூற்று 1: தேர்தல் ஆணையம் தேர்தல்களை நடத்துவதற்கு அதிகாரம் கொண்ட ஒரு கட்டுப்பாடான சட்டப்படியான அரசியலமைப்பு ஆகும்.\nகூற்று 2: இதன் தலைமையிடம் புதுடெல்லி.",
+    "options": [
+      "கூற்று 1, 2 சரி",
+      "கூற்று 1 சரி 2 தவறு",
+      "கூற்று 1, 2 தவறு",
+      "கூற்று 1 தவறு 2 சரி"
+    ],
+    "correct": 0,
+    "question_en": "Statement 1: The Election Commission is an independent statutory constitutional body with the authority to conduct elections.\nStatement 2: Its headquarters is in New Delhi.",
+    "options_en": [
+      "Statements 1, 2 are true",
+      "Statement 1 is true, 2 is false",
+      "Statements 1, 2 are false",
+      "Statement 1 is false, 2 is true"
+    ],
+    "explanation": "கூற்று 1, 2 சரி",
+    "explanation_en": "Statements 1, 2 are true"
+  },
+  {
+    "id": 16,
+    "question": "ஒரு கட்சி தேசியக் கட்சியாக அங்கீகாரம் பெறுவதற்கான நிபந்தனைகள் குறித்த கூற்றுகளை ஆராய்க.\nகூற்று (அ): மக்களவைத் தேர்தலில் அல்லது 3 மாநிலங்களுக்கான சட்டமன்றத் தேர்தல்களில், செல்லத்தக்க மொத்த வாக்குகளில் 4 % வாக்குகளைப் பெற்றிருத்தல் வேண்டும்.\nகூற்று (ஆ): ஒன்று அல்லது ஒன்றிற்கு மேற்பட்ட மாநிலங்களில் நான்கு மக்களவைத் தொகுதிகளில் வெற்றி பெற்றிருத்தல் வேண்டும்.\nகூற்று (இ): இறுதியாக நடைபெற்ற மாநிலங்களவைத் தேர்தலில் குறைந்தபட்சம் 3 மாநிலங்களில் 2 % தொகுதிகளில் வெற்றி பெற்றிருத்தல் வேண்டும்.",
+    "options": [
+      "கூற்று (அ), (ஆ), (இ) சரி",
+      "கூற்று (அ), (ஆ) சரி மற்றும் (இ) தவறு",
+      "கூற்று (அ), (இ) தவறு மற்றும் (ஆ) சரி",
+      "கூற்று (அ), (ஆ) தவறு மற்றும் (இ) சரி"
+    ],
+    "correct": 2,
+    "question_en": "Examine the statements regarding conditions for a party to be recognized as a national party.\nStatement (a): Must secure at least 4% of valid votes in Lok Sabha elections or Assembly elections in 3 states.\nStatement (b): Must win four Lok Sabha seats from any one or more states.\nStatement (c): Must win 2% of seats in the Lok Sabha from at least 3 states in the last general election.",
+    "options_en": [
+      "Statements (a), (b), (c) are true",
+      "Statements (a), (b) are true and (c) is false",
+      "Statements (a), (c) are false and (b) is true",
+      "Statements (a), (b) are false and (c) is true"
+    ],
+    "explanation": "கூற்று (அ), (இ) தவறு மற்றும் (ஆ) சரி",
+    "explanation_en": "Statements (a), (c) are false and (b) is true"
+  },
+  {
+    "id": 17,
+    "question": "கூற்று: அங்கீகரிக்கப்பட்ட கட்சிகளுக்குத் தேர்தல் ஆணையம் சின்னம் ஒன்று ஒதுக்கும்.\nகாரணம்: தேசியக் கட்சிகள் மட்டுமே தனக்குரிய சின்னத்தைப் பயன்படுத்தும்.",
+    "options": [
+      "கூற்று சரி, காரணம் கூற்றின் சரியான விளக்கம்.",
+      "கூற்று சரி, காரணம் கூற்றின் சரியான விளக்கம் அல்ல.",
+      "கூற்று தவறு, காரணமும் தவறு.",
+      "கூற்று தவறு, ஆனால் காரணம் சரி."
+    ],
+    "correct": 1,
+    "question_en": "Assertion: The Election Commission assigns a symbol to recognized parties.\nReason: Only national parties will use their own symbol.",
+    "options_en": [
+      "Assertion is true, Reason is the correct explanation.",
+      "Assertion is true, Reason is not the correct explanation.",
+      "Assertion is false, Reason is also false.",
+      "Assertion is false, but Reason is true."
+    ],
+    "explanation": "கூற்று சரி, காரணம் கூற்றின் சரியான விளக்கம் அல்ல.",
+    "explanation_en": "Assertion is true, Reason is not the correct explanation."
+  },
+  {
+    "id": 18,
+    "question": "ஓர் அரசியல் கட்சியைத் தோற்றுவிக்கத் தேவையான நிபந்தனைகளை ஆராய்க.\n(i) இந்தியத் தேர்தல் ஆணையத்தில் பதிவு செய்து கொள்ளுதல் வேண்டும்.\n(ii) எந்த வயதினரானாலும் 100 உறுப்பினர்களைக் கொண்டிருக்க வேண்டும்.\n(iii) கட்சி அமைப்பு குறித்த எந்த ஆவணத்தையும் கொண்டிருக்க வேண்டியதில்லை.",
+    "options": [
+      "கூற்று (i), (ii) சரி (iii) தவறு",
+      "கூற்று (i), (ii) தவறு (iii) சரி",
+      "கூற்று (i) சரி (ii), (iii) தவறு",
+      "கூற்று (i), (iii) சரி (ii) தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Examine the conditions required to form a political party.\n(i) It must be registered with the Election Commission of India.\n(ii) It must have 100 members of any age group.\n(iii) It does not need to have any document regarding the party structure.",
+    "options_en": [
+      "Statements (i), (ii) are true, (iii) is false",
+      "Statements (i), (ii) are false, (iii) is true",
+      "Statement (i) is true, (ii), (iii) are false",
+      "Statements (i), (iii) are true, (ii) is false"
+    ],
+    "explanation": "கூற்று (i) சரி (ii), (iii) தவறு",
+    "explanation_en": "Statement (i) is true, (ii), (iii) are false"
+  },
+  {
+    "id": 19,
+    "question": "இந்தியாவில் கட்சிகளின் படிநிலைகள் ___________",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct": 1,
+    "question_en": "The levels of party system in India are ___________",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "explanation": "இந்தியாவில் கட்சிகளின் படிநிலைகள் 3",
+    "explanation_en": "The levels of party system in India are 3"
+  },
+  {
+    "id": 20,
+    "question": "கூற்று 1: தேர்தல் ஆணையம் விலங்குகளின் சின்னங்களை வழங்குவதை நிறுத்தி உள்ளது.\nகூற்று 2: விதிவிலக்காக யானை மற்றும் சிங்கம் ஆகிய சின்னங்கள் மட்டுமே வழங்கப்பட்டுள்ளன.",
+    "options": [
+      "கூற்று 1, 2 தவறு",
+      "கூற்று 1, 2 சரி",
+      "கூற்று 1 சரி 2 தவறு",
+      "கூற்று 1 தவறு 2 சரி"
+    ],
+    "correct": 1,
+    "question_en": "Statement 1: The Election Commission has stopped allotting animal symbols.\nStatement 2: As exceptions, only elephant and lion symbols are retained.",
+    "options_en": [
+      "Statements 1, 2 are false",
+      "Statements 1, 2 are true",
+      "Statement 1 is true, 2 is false",
+      "Statement 1 is false, 2 is true"
+    ],
+    "explanation": "கூற்று 1, 2 சரி",
+    "explanation_en": "Statements 1, 2 are true"
+  },
+  {
+    "id": 21,
+    "question": "தேர்தல் சின்னங்கள் தொடர்பான ஆணை வெளியிடப்பட்ட ஆண்டு ___________",
+    "options": [
+      "1967",
+      "1968",
+      "1969",
+      "1989"
+    ],
+    "correct": 1,
+    "question_en": "The Election Symbols Order was issued in the year ___________",
+    "options_en": [
+      "1967",
+      "1968",
+      "1969",
+      "1989"
+    ],
+    "explanation": "தேர்தல் சின்னங்கள் தொடர்பான ஆணை வெளியிடப்பட்ட ஆண்டு 1968",
+    "explanation_en": "The Election Symbols Order was issued in the year 1968"
+  },
+  {
+    "id": 22,
+    "question": "1968 ஆம் ஆண்டு தேர்தல் சின்னங்கள் ஆணைப்படி எத்தனை வகை சின்னங்கள் உள்ளன?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correct": 2,
+    "question_en": "According to the Election Symbols Order of 1968, how many types of symbols are there?",
+    "options_en": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "explanation": "2",
+    "explanation_en": "According to the Election Symbols Order of 1968, 2 types of symbols are there."
+  },
+  {
+    "id": 23,
+    "question": "கூற்று 1: தேசியக் கட்சியானது மாநில, தேசிய மற்றும் சர்வதேச விவகாரங்களைத் தீர்த்து வைக்கிறது.\nகூற்று 2: தேசியக் கட்சி அதிகபட்சம் நான்கு மாநிலங்களில் வலிமை உடையதாக இருக்க வேண்டும்.",
+    "options": [
+      "1, 2",
+      "கூற்று 1 சரி, 2 தவறு",
+      "கூற்று 1 தவறு, 2 சரி",
+      "கூற்று 1, 2 தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Statement 1: A national party resolves state, national, and international issues.\nStatement 2: A national party should be strong in a maximum of four states.",
+    "options_en": [
+      "1, 2",
+      "Statement 1 is true, 2 is false",
+      "Statement 1 is false, 2 is true",
+      "Statements 1, 2 are false"
+    ],
+    "explanation": "கூற்று 1, 2 தவறு",
+    "explanation_en": "Statements 1, 2 are false"
+  },
+  {
+    "id": 24,
+    "question": "எந்த ஒரு கட்சியையும் சாராமல் தனியாகத் தேர்தலில் போட்டியிடும் உறுப்பினர் ___________",
+    "options": [
+      "கேபினட்",
+      "எதிர்க்கட்சி உறுப்பினர்",
+      "சுயேட்சை",
+      "சட்டமன்ற உறுப்பினர்"
+    ],
+    "correct": 2,
+    "question_en": "A member contesting in an election independently without being affiliated to any party is ___________",
+    "options_en": [
+      "Cabinet",
+      "Opposition member",
+      "Independent",
+      "Legislative member"
+    ],
+    "explanation": "எந்த ஒரு கட்சியையும் சாராமல் தனியாகத் தேர்தலில் போட்டியிடும் உறுப்பினர் சுயேட்சை",
+    "explanation_en": "A member contesting in an election independently without being affiliated to any party is Independent"
+  },
+  {
+    "id": 25,
+    "question": "எதிர்க்கட்சித் தலைவர் ___________ அந்தஸ்தைக் கொண்டிருப்பார்.",
+    "options": [
+      "சட்டமன்ற உறுப்பினர்",
+      "கட்சியின் தலைவர்",
+      "கேபினட் அமைச்சர்",
+      "உள்துறை அமைச்சர்"
+    ],
+    "correct": 2,
+    "question_en": "The Leader of the Opposition enjoys the rank of a ___________.",
+    "options_en": [
+      "Legislative member",
+      "Party leader",
+      "Cabinet minister",
+      "Home minister"
+    ],
+    "explanation": "எதிர்க்கட்சித் தலைவர் கேபினட் அமைச்சர் அந்தஸ்தைக் கொண்டிருப்பார்.",
+    "explanation_en": "The Leader of the Opposition enjoys the rank of a Cabinet minister."
+  },
+  {
+    "id": 26,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள நாடுகளில் ஒரு கட்சி முறை நடைமுறையில் உள்ள நாடு எது?",
+    "options": [
+      "இந்தியா",
+      "அமெரிக்கா",
+      "பிரான்ஸ்",
+      "சீனா"
+    ],
+    "correct": 3,
+    "question_en": "In which of the following countries is a single-party system in practice?",
+    "options_en": [
+      "India",
+      "USA",
+      "France",
+      "China"
+    ],
+    "explanation": "கீழே கொடுக்கப்பட்டுள்ள நாடுகளில் ஒரு கட்சி முறை நடைமுறையில் உள்ள நாடு சீனா ஆகும்.",
+    "explanation_en": "China"
+  },
+  {
+    "id": 27,
+    "question": "மாநிலக் கட்சிககளை அங்கீகரிப்பதற்கான நிபந்தனைகள் குறித்த கூற்றுகளை ஆராய்க.\nகூற்று (அ) : மாநில சட்டப்பேரவைக்கான தேர்தலில் குறைந்தபட்சம் 6% வாக்குகளைப் பெற்றிருத்தல் வேண்டும்.\nகூற்று (ஆ) : 25 தொகுதிகளுக்கு ஒரு மக்களவைத் தொகுதி (அ) சட்டப்பேரவைத் தேர்தலில் குறைந்தபட்சம் 2 தொகுதிகளில் வெற்றி பெற்றிருத்தல் வேண்டும்.\nகூற்று (இ) : மாநிலச் சட்டமன்ற மொத்தத் தொகுதிகளில் 3 % வெற்றி பெறவேண்டும்.",
+    "options": [
+      "கூற்று (அ), (ஆ), சரி (இ) தவறு",
+      "கூற்று (அ) சரி (ஆ), (இ) தவறு",
+      "கூற்று (அ), (ஆ) தவறு (இ) சரி",
+      "கூற்று (அ), (ஆ), (இ) சரி"
+    ],
+    "correct": 3,
+    "question_en": "Examine the conditions for recognition as a state party.\nStatement (a): Must secure at least 6% of valid votes in the state legislative assembly election.\nStatement (b): Must win one Lok Sabha seat for every 25 seats or at least 2 seats in the legislative assembly election.\nStatement (c): Must win 3% of the total seats in the state legislative assembly.",
+    "options_en": [
+      "Statements (a), (b) are true, (c) is false",
+      "Statement (a) is true, (b), (c) are false",
+      "Statements (a), (b) are false, (c) is true",
+      "Statements (a), (b), (c) are true"
+    ],
+    "explanation": "கூற்று (அ), (ஆ), (இ) சரி",
+    "explanation_en": "Statements (a), (b), (c) are true"
+  },
+  {
+    "id": 28,
+    "question": "ஒரு கட்சி தேசியக் கட்சியாக அங்கீகரிக்கப்படுவதற்கு இறுதியாக நடைபெற்ற மக்களவைத் தேர்தலில் குறைந்தபட்சம் ___________ மாநிலங்களில் ___________ தொகுதிகளில் வெற்றி பெற்று இருத்தல் வேண்டும்.",
+    "options": [
+      "இரண்டு, 2%",
+      "இரண்டு, 3%",
+      "மூன்று, 3%",
+      "மூன்று, 2%"
+    ],
+    "correct": 3,
+    "question_en": "To be recognized as a national party, a party must have won at least ___________ seats from at least ___________ states in the last Lok Sabha election.",
+    "options_en": [
+      "Two, 2%",
+      "Two, 3%",
+      "Three, 3%",
+      "Three, 2%"
+    ],
+    "explanation": "ஒரு கட்சி தேசியக் கட்சியாக அங்கீகரிக்கப்படுவதற்கு இறுதியாக நடைபெற்ற மக்களவைத் தேர்தலில் குறைந்தபட்சம் மூன்று, 2% மாநிலங்களில் மூன்று, 2% தொகுதிகளில் வெற்றி பெற்று இருத்தல் வேண்டும்.",
+    "explanation_en": "To be recognized as a national party, a party must have won at least Three, 2% seats from at least Three, 2% states in the last Lok Sabha election."
+  },
+  {
+    "id": 29,
+    "question": "ஓர் அரசியல் கட்சியைத் தோற்றுவிக்கக் குறைந்தபட்சம் வாக்காளர் அட்டை கொண்ட ___________ உறுப்பினர்கள் தேவை.",
+    "options": [
+      "50",
+      "75",
+      "90",
+      "100"
+    ],
+    "correct": 3,
+    "question_en": "To form a political party, a minimum of ___________ members holding voter ID cards are required.",
+    "options_en": [
+      "50",
+      "75",
+      "90",
+      "100"
+    ],
+    "explanation": "ஓர் அரசியல் கட்சியைத் தோற்றுவிக்கக் குறைந்தபட்சம் வாக்காளர் அட்டை கொண்ட 100 உறுப்பினர்கள் தேவை.",
+    "explanation_en": "To form a political party, a minimum of 100 members holding voter ID cards are required."
+  },
+  {
+    "id": 30,
+    "question": "ஒரு கட்சி தேசியக் கட்சியாக அங்கீகரிக்கப்பட குறைந்தபட்சம் ___________ மாநிலங்களில் நடைபெற்ற சட்டமன்றத் தேர்தல்களில் குறைந்தபட்சம் ___________ செல்லத்தக்க வாக்குகளைப் பெற்று இருக்க வேண்டும்.",
+    "options": [
+      "2, 3%",
+      "4, 3%",
+      "5, 6%",
+      "4, 6%"
+    ],
+    "correct": 3,
+    "question_en": "To be recognized as a national party, a party must secure at least ___________ of the valid votes in assembly elections in at least ___________ states.",
+    "options_en": [
+      "2, 3%",
+      "4, 3%",
+      "5, 6%",
+      "4, 6%"
+    ],
+    "explanation": "ஒரு கட்சி தேசியக் கட்சியாக அங்கீகரிக்கப்பட குறைந்தபட்சம் 4, 6% மாநிலங்களில் நடைபெற்ற சட்டமன்றத் தேர்தல்களில் குறைந்தபட்சம் 4, 6% செல்லத்தக்க வாக்குகளைப் பெற்று இருக்க வேண்டும்.",
+    "explanation_en": "To be recognized as a national party, a party must secure at least 4, 6% of the valid votes in assembly elections in at least 4, 6% states."
+  },
+  {
+    "id": 31,
+    "question": "இரு கட்சி முறை என்பது",
+    "options": [
+      "இரண்டு கட்சிகள் அரசாங்கத்தை நடத்துவது",
+      "இரண்டு உறுப்பினர்கள் ஒரு கட்சியை நடத்துவது",
+      "இரண்டு பெரிய அரசியல் கட்சிகள் தேர்தலில் போட்டியிடுவது",
+      "இவற்றுள் எதுவும் இல்லை"
+    ],
+    "correct": 2,
+    "question_en": "A bi-party system means",
+    "options_en": [
+      "Two parties running the government",
+      "Two members running a party",
+      "Two major political parties contesting in elections",
+      "None of these"
+    ],
+    "explanation": "இரண்டு பெரிய அரசியல் கட்சிகள் தேர்தலில் போட்டியிடுவது",
+    "explanation_en": "Two major political parties contesting in elections"
+  },
+  {
+    "id": 32,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள நாடுகளில் எந்த நாட்டில் இரு கட்சி முறை நடைமுறையில் இல்லை?",
+    "options": [
+      "பிரிட்டன்",
+      "அமெரிக்கா",
+      "1 மற்றும் 2",
+      "இந்தியா"
+    ],
+    "correct": 3,
+    "question_en": "In which of the following countries is a bi-party system not in practice?",
+    "options_en": [
+      "Britain",
+      "USA",
+      "1 and 2",
+      "India"
+    ],
+    "explanation": "இந்தியா",
+    "explanation_en": "India"
+  },
+  {
+    "id": 33,
+    "question": "இந்தியாவில் காணப்படும் கட்சி முறை",
+    "options": [
+      "ஒரு கட்சி முறை",
+      "இரு கட்சி முறை",
+      "பல கட்சி முறை",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "The party system found in India is",
+    "options_en": [
+      "Single party system",
+      "Bi-party system",
+      "Multi-party system",
+      "None of these"
+    ],
+    "explanation": "பல கட்சி முறை",
+    "explanation_en": "Multi-party system"
+  },
+  {
+    "id": 34,
+    "question": "கீழ்க்கண்டவற்றில் ஒரு கட்சி முறை கொண்ட நாடு எது?",
+    "options": [
+      "சீனா",
+      "இந்தியா",
+      "கியூபா",
+      "1 மற்றும் 3"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is a country with a single party system?",
+    "options_en": [
+      "China",
+      "India",
+      "Cuba",
+      "1 and 3"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றில் ஒரு கட்சி முறை கொண்ட நாடு 1 மற்றும் 3 ஆகும்.",
+    "explanation_en": "1 and 3 is a country with a single party system."
+  },
+  {
+    "id": 35,
+    "question": "அரசியல் கட்சிகளை அங்கீகரிக்கும் அமைப்பு",
+    "options": [
+      "தேர்தல் ஆணையம்",
+      "குடியரசுத்தலைவர்",
+      "உச்சநீதிமன்றம்",
+      "ஒரு குழு"
+    ],
+    "correct": 0,
+    "question_en": "The body that recognizes political parties is",
+    "options_en": [
+      "Election Commission",
+      "President",
+      "Supreme Court",
+      "A committee"
+    ],
+    "explanation": "தேர்தல் ஆணையம்",
+    "explanation_en": "Election Commission"
+  },
+  {
+    "id": 36,
+    "question": "அரசியல் கட்சிகள் பொதுவாக எதன் அடிப்படையில் தோற்றுவிக்கப்படுகின்றன?",
+    "options": [
+      "சமயக் கொள்கைகள்",
+      "பொதுநலன்",
+      "பொருளாதாரக் கோட்பாடுகள்",
+      "சாதி"
+    ],
+    "correct": 1,
+    "question_en": "Political parties are generally formed on the basis of",
+    "options_en": [
+      "Religious principles",
+      "Public interest",
+      "Economic theories",
+      "Caste"
+    ],
+    "explanation": "பொதுநலன்",
+    "explanation_en": "Public interest"
+  },
+  {
+    "id": 37,
+    "question": "பொருத்துக.\na. மக்களாட்சி\nb. தேர்தல் ஆணையம்\nc. பெரும்பான்மைக் கட்சி-\nd. எதிர்க்கட்சி",
+    "options": [
+      "a - iii b - iv c - ii d - i",
+      "a - iv b - iii c - ii d - i",
+      "a - ii b - i c - iv d - iii",
+      "a - iii b - i c - iv d - i"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\na. Democracy\nb. Election Commission\nc. Majority party\nd. Opposition party",
+    "options_en": [
+      "a - iii b - iv c - ii d - i",
+      "a - iv b - iii c - ii d - i",
+      "a - ii b - i c - iv d - iii",
+      "a - iii b - i c - iv d - i"
+    ],
+    "explanation": "a - iii b - iv c - ii d - i",
+    "explanation_en": "a - iii b - iv c - ii d - i"
+  },
+  {
+    "id": 38,
+    "question": "பின்வரும் கூற்றுகளில் சரியானதைத் தேர்வு செய்க.\n(1) நாட்டிலுள்ள ஒவ்வொரு கட்சியும் தேர்தல் ஆணையத்தில் பதிவு செய்து கொள்ளுதல் வேண்டும்.\n(2) தேர்தல் ஆணையம் அனைத்துக் கட்சிகளையும் சமமாக நடத்துகிறது.\n(3) தேர்தல் ஆணையம் அங்கீகரிக்கப்பட்ட கட்சிகளுக்குத் தனிச் சின்னத்தை ஒதுக்குகிறது.\n(4) இவை அனைத்தும்.",
+    "options": [
+      "நாட்டிலுள்ள ஒவ்வொரு கட்சியும் தேர்தல் ஆணையத்தில் பதிவு செய்து கொள்ளுதல் வேண்டும்.",
+      "தேர்தல் ஆணையம் அனைத்துக் கட்சிகளையும் சமமாக நடத்துகிறது.",
+      "தேர்தல் ஆணையம் அங்கீகரிக்கப்பட்ட கட்சிகளுக்குத் தனிச் சின்னத்தை ஒதுக்குகிறது.",
+      "இவை அனைத்தும்."
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct statement from the following.\n(1) Every party in the country has to register with the Election Commission.\n(2) The Election Commission treats all parties equally.\n(3) The Election Commission allots unique symbols to recognized parties.\n(4) All of the above.",
+    "options_en": [
+      "Every party in the country has to register with the Election Commission.",
+      "The Election Commission treats all parties equally.",
+      "The Election Commission allots unique symbols to recognized parties.",
+      "All of the above."
+    ],
+    "explanation": "இவை அனைத்தும்.",
+    "explanation_en": "All of the above."
+  },
+  {
+    "id": 39,
+    "question": "கூற்று: பெரும்பான்மைக் கட்சி ஒரு நாட்டின் சட்டங்களை உருவாக்குவதில் முக்கியப் பங்கு வகிக்கிறது.\nகாரணம்: தேர்தலில் பிற கட்சிகளைக் காட்டிலும் அதிக எண்ணிக்கையில் உறுப்பினர்கள் தேர்ந்தெடுக்கப்பட்டிருப்பது ஆகும்.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான விளக்கமாகும்.",
+      "காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல.",
+      "காரணம் தவறு, கூற்று சரி.",
+      "கூற்று காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Assertion: The majority party plays a major role in making laws for a country.\nReason: It has the largest number of members elected in an election compared to other parties.",
+    "options_en": [
+      "Reason is the correct explanation for the assertion.",
+      "Reason is not the correct explanation for the assertion.",
+      "Reason is false, assertion is true.",
+      "Both assertion and reason are false."
+    ],
+    "explanation": "காரணம் கூற்றிற்கான சரியான விளக்கமாகும்.",
+    "explanation_en": "Reason is the correct explanation for the assertion."
+  },
+  {
+    "id": 40,
+    "question": "இந்தியா முழுவதும் நடைபெறும் தேர்தலில் போட்டியிடும் கட்சி ___________",
+    "options": [
+      "மாநிலக் கட்சி",
+      "பிராந்தியக் கட்சி",
+      "தேசியக் கட்சி",
+      "பெரும்பான்மைக் கட்சி"
+    ],
+    "correct": 2,
+    "question_en": "A party that contests in elections held throughout India is a ___________",
+    "options_en": [
+      "State party",
+      "Regional party",
+      "National party",
+      "Majority party"
+    ],
+    "explanation": "இந்தியா முழுவதும் நடைபெறும் தேர்தலில் போட்டியிடும் கட்சி தேசியக் கட்சி",
+    "explanation_en": "A party that contests in elections held throughout India is a National party"
+  },
+  {
+    "id": 41,
+    "question": "தேர்தலில் வெற்றி பெற்ற கட்சிக்கு அடுத்ததாக அதிக எண்ணிக்கையில் வெற்றி பெற்ற உறுப்பினர்களைக் கொண்ட கட்சி ___________",
+    "options": [
+      "எதிர்க்கட்சி",
+      "ஆளும் கட்சி",
+      "தேசிய கட்சி",
+      "மாநில கட்சி"
+    ],
+    "correct": 0,
+    "question_en": "The party with the second-largest number of elected members, next to the winning party, is the ___________",
+    "options_en": [
+      "Opposition party",
+      "Ruling party",
+      "National party",
+      "State party"
+    ],
+    "explanation": "தேர்தலில் வெற்றி பெற்ற கட்சிக்கு அடுத்ததாக அதிக எண்ணிக்கையில் வெற்றி பெற்ற உறுப்பினர்களைக் கொண்ட கட்சி எதிர்க்கட்சி",
+    "explanation_en": "The party with the second-largest number of elected members, next to the winning party, is the Opposition party"
+  },
+  {
+    "id": 42,
+    "question": "கூட்டணி அரசாங்கம் என்பது எந்தக் கட்சி முறையில் சாத்தியம்?",
+    "options": [
+      "ஒரு கட்சி முறை",
+      "இரு கட்சி முறை",
+      "பல கட்சி முறை",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Coalition government is possible in which party system?",
+    "options_en": [
+      "Single party system",
+      "Bi-party system",
+      "Multi-party system",
+      "None of these"
+    ],
+    "explanation": "பல கட்சி முறை",
+    "explanation_en": "Multi-party system"
+  },
+  {
+    "id": 43,
+    "question": "ஒரு கட்சி மாநிலக் கட்சியாக அங்கீகரிக்கப்பட மாநிலச் சட்டமன்றத் தேர்தலில் குறைந்தபட்சம் ___________ தொகுதிகளில் வெற்றி பெறவேண்டும்.",
+    "options": [
+      "2%",
+      "3%",
+      "4%",
+      "5%"
+    ],
+    "correct": 1,
+    "question_en": "To be recognized as a state party, a party must win at least ___________ seats in the state legislative assembly election.",
+    "options_en": [
+      "2%",
+      "3%",
+      "4%",
+      "5%"
+    ],
+    "explanation": "ஒரு கட்சி மாநிலக் கட்சியாக அங்கீகரிக்கப்பட மாநிலச் சட்டமன்றத் தேர்தலில் குறைந்தபட்சம் 3% தொகுதிகளில் வெற்றி பெறவேண்டும்.",
+    "explanation_en": "To be recognized as a state party, a party must win at least 3% seats in the state legislative assembly election."
+  },
+  {
+    "id": 44,
+    "question": "ஒரு கட்சி மாநிலக் கட்சியாக அங்கீகரிக்கப்பட, மாநிலச் சட்டப்பேரவைத் தேர்தலில் குறைந்தபட்சம் ___________ வாக்குகளைப் பெற்று இருத்தல் வேண்டும்.",
+    "options": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ],
+    "correct": 3,
+    "question_en": "To be recognized as a state party, a party must secure at least ___________ of valid votes in the state legislative assembly election.",
+    "options_en": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ],
+    "explanation": "ஒரு கட்சி மாநிலக் கட்சியாக அங்கீகரிக்கப்பட, மாநிலச் சட்டப்பேரவைத் தேர்தலில் குறைந்தபட்சம் 6% வாக்குகளைப் பெற்று இருத்தல் வேண்டும்.",
+    "explanation_en": "To be recognized as a state party, a party must secure at least 6% of valid votes in the state legislative assembly election."
+  },
+  {
+    "id": 45,
+    "question": "பதிவு செய்யப்பட்ட, அங்கீகரிக்கப்படாத கட்சிகள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "மாநில கட்சி",
+      "தேசிய கட்சி",
+      "சுயேச்சைகள்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "How are registered, unrecognized parties termed?",
+    "options_en": [
+      "State party",
+      "National party",
+      "Independents",
+      "None of these"
+    ],
+    "explanation": "இவற்றில் எதுவுமில்லை",
+    "explanation_en": "None of these"
+  },
+  {
+    "id": 46,
+    "question": "இந்தியாவில் கட்சி முறை எப்போது உருவாக்கப்பட்டது?",
+    "options": [
+      "பத்தொன்பதாம் நூற்றாண்டின் முற்பகுதி",
+      "பத்தொன்பதாம் நூற்றாண்டின் பிற்பகுதி",
+      "பதினெட்டாம் நூற்றாண்டின் முற்பகுதி",
+      "பதினெட்டாம் நூற்றாண்டின் பிற்பகுதி"
+    ],
+    "correct": 1,
+    "question_en": "When was the party system developed in India?",
+    "options_en": [
+      "Early 19th century",
+      "Late 19th century",
+      "Early 18th century",
+      "Late 18th century"
+    ],
+    "explanation": "பத்தொன்பதாம் நூற்றாண்டின் பிற்பகுதி",
+    "explanation_en": "Late 19th century was the party system developed in India."
+  },
+  {
+    "id": 47,
+    "question": "இந்தியாவில் பொதுத் தேர்தல் எத்தனை ஆண்டுகளுக்கு ஒருமுறை நடத்தப்படுகிறது?",
+    "options": [
+      "4 ஆண்டுகள்",
+      "5 ஆண்டுகள்",
+      "6 ஆண்டுகள்",
+      "7 ஆண்டுகள்"
+    ],
+    "correct": 1,
+    "question_en": "How often are general elections held in India?",
+    "options_en": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "explanation": "5 ஆண்டுகள்",
+    "explanation_en": "5 years"
+  },
+  {
+    "id": 48,
+    "question": "ஒரு கட்சியை எளிதாகக் கண்டறிய உதவுவது",
+    "options": [
+      "கட்சியின் கொள்கைகள்",
+      "கட்சியின் சின்னங்கள்",
+      "கட்சியின் தேர்தல் அறிக்கைகள்",
+      "கட்சியின் உறுப்பினர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "What helps to easily identify a party?",
+    "options_en": [
+      "Party's policies",
+      "Party's symbols",
+      "Party's election manifestos",
+      "Party's members"
+    ],
+    "explanation": "கட்சியின் சின்னங்கள்",
+    "explanation_en": "Party's symbols"
+  },
+  {
+    "id": 49,
+    "question": "இந்தியத் தேர்தல் ஆணையம் தேர்தல் சின்னங்களாக அறிவித்துள்ள விலங்குகள் யாவை?",
+    "options": [
+      "யானை",
+      "சிங்கம்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which animals have been recognized as election symbols by the Election Commission of India?",
+    "options_en": [
+      "Elephant",
+      "Lion",
+      "1 and 2",
+      "None"
+    ],
+    "explanation": "1 மற்றும் 2",
+    "explanation_en": "1 and 2"
+  },
+  {
+    "id": 50,
+    "question": "இந்தியக் குடியரசு தினம் கொண்டாடப்படும் நாள்",
+    "options": [
+      "ஜனவரி 26",
+      "ஆகஸ்ட் 15",
+      "ஜனவரி 10",
+      "டிசம்பர் 10"
+    ],
+    "correct": 2,
+    "question_en": "The Republic Day of India is celebrated on",
+    "options_en": [
+      "January 26",
+      "August 15",
+      "January 10",
+      "December 10"
+    ],
+    "explanation": "ஜனவரி 10",
+    "explanation_en": "January 10"
+  },
+  {
+    "id": 51,
+    "question": "இந்தியாவில் தேர்தலை நடத்தும் தன்னாட்சி அமைப்பு ___________",
+    "options": [
+      "பாராளுமன்றம்",
+      "தேர்தல் ஆணையம்",
+      "நிதி ஆணையம்",
+      "உச்சநீதி மன்றம்"
+    ],
+    "correct": 1,
+    "question_en": "The autonomous body that conducts elections in India is ___________",
+    "options_en": [
+      "Parliament",
+      "Election Commission",
+      "Finance Commission",
+      "Supreme Court"
+    ],
+    "explanation": "இந்தியாவில் தேர்தலை நடத்தும் தன்னாட்சி அமைப்பு தேர்தல் ஆணையம்",
+    "explanation_en": "The autonomous body that conducts elections in India is Election Commission"
+  },
+  {
+    "id": 52,
+    "question": "உள்ளாட்சித் தேர்தலை நடத்துவது",
+    "options": [
+      "மாநிலத் தேர்தல் ஆணையம்",
+      "தலைமைத் தேர்தல் ஆணையம்",
+      "மாவட்டத் தேர்தல் ஆணையம்",
+      "மாநில அரசு"
+    ],
+    "correct": 0,
+    "question_en": "Local body elections are conducted by",
+    "options_en": [
+      "State Election Commission",
+      "Chief Election Commission",
+      "District Election Commission",
+      "State Government"
+    ],
+    "explanation": "மாநிலத் தேர்தல் ஆணையம்",
+    "explanation_en": "State Election Commission"
+  },
+  {
+    "id": 53,
+    "question": "அரசியல் கட்சிகள் ___________ மற்றும் ___________ இடையே பாலமாகச் செயல்படுகின்றன.",
+    "options": [
+      "குடிமக்கள், பிரதமர்",
+      "தொண்டர்கள், கட்சித் தலைவர்",
+      "கொள்கை வகுப்பாளர்கள், குடிமக்கள்",
+      "குடிமக்கள், கட்சித் தலைவர்"
+    ],
+    "correct": 2,
+    "question_en": "Political parties act as a bridge between ___________ and ___________.",
+    "options_en": [
+      "Citizens, Prime Minister",
+      "Followers, Party leader",
+      "Policymakers, Citizens",
+      "Citizens, Party leader"
+    ],
+    "explanation": "அரசியல் கட்சிகள் கொள்கை வகுப்பாளர்கள், குடிமக்கள் மற்றும் கொள்கை வகுப்பாளர்கள், குடிமக்கள் இடையே பாலமாகச் செயல்படுகின்றன.",
+    "explanation_en": "Political parties act as a bridge between Policymakers, Citizens and Policymakers, Citizens."
+  },
+  {
+    "id": 54,
+    "question": "தவறான கூற்று / கூற்றுகளைத் தேர்ந்தெடு.\nஅரசியல் கட்சிகள் என்பவை\nA) தனக்கென கொள்கைகள் மற்றும் திட்டங்களைக் கொண்டிருக்கின்றன.\nB) தேசிய நலன்களை வலியுறுத்த முயற்சி செய்கின்றன.\nC) அரசியல் அமைப்பின் வழியாக மட்டுமல்லாமல் ஏதாவது ஒரு வகையில் ஆட்சியைக் கைப்பற்ற முயற்சி செய்கின்றன.\nD) பொதுவான குறிக்கோள்களைக் கொண்ட மக்கள் குழுக்களாக இருக்கின்றன.",
+    "options": [
+      "A, B",
+      "C",
+      "A, B, C",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Choose the incorrect statement(s).\nPolitical parties:\nA) Have their own policies and programs.\nB) Try to emphasize national interests.\nC) Try to capture power by any means, not just through constitutional means.\nD) Are groups of people with common goals.",
+    "options_en": [
+      "A, B",
+      "C",
+      "A, B, C",
+      "None of these"
+    ],
+    "explanation": "C",
+    "explanation_en": "C"
+  },
+  {
+    "id": 55,
+    "question": "தற்போதைய இந்தியத் தலைமைத் தேர்தல் ஆணையர் யார்?",
+    "options": [
+      "ஸ்ரீ சுஷில் சந்திரா",
+      "சுனில் அரோரா",
+      "ராஜேஷ் லக்கானி",
+      "சத்யபிரதா சாஹூ"
+    ],
+    "correct": 0,
+    "question_en": "Who is the current Chief Election Commissioner of India?",
+    "options_en": [
+      "Shri Sushil Chandra",
+      "Sunil Arora",
+      "Rajesh Lakhoni",
+      "Satyabrata Sahoo"
+    ],
+    "explanation": "தற்போதைய இந்தியத் தலைமைத் தேர்தல் ஆணையர் ஸ்ரீ சுஷில் சந்திரா.",
+    "explanation_en": "Shri Sushil Chandra is the current Chief Election Commissioner of India."
+  },
+  {
+    "id": 56,
+    "question": "தற்போதைய தமிழகத் தலைமைத் தேர்தல் ஆணையர் யார்?",
+    "options": [
+      "ஸ்ரீ சுஷில் சந்திரா",
+      "சுனில் அரோரா",
+      "ராஜேஷ் லக்கானி",
+      "பழனிக்குமார்"
+    ],
+    "correct": 3,
+    "question_en": "Who is the current State Election Commissioner of Tamil Nadu?",
+    "options_en": [
+      "Shri Sushil Chandra",
+      "Sunil Arora",
+      "Rajesh Lakhoni",
+      "Palani Kumar"
+    ],
+    "explanation": "தற்போதைய தமிழகத் தலைமைத் தேர்தல் ஆணையர் பழனிக்குமார்.",
+    "explanation_en": "Palani Kumar is the current State Election Commissioner of Tamil Nadu."
+  },
+  {
+    "id": 57,
+    "question": "அரசியல் கட்சிகளின் செயல்பாடுகளில் தவறானவை எது/ எவை?\nA) நேர்மையான எதிர்ப்பு, பொறுப்புடைமை, ஸ்திரத்தன்மை வழங்குதல்.\nB) அரசாங்கத்தை ஏற்படுத்தி இயக்குதல்.\nC) மக்கள் நலனுக்காகப் பல்வேறு திட்டங்களையும் கொள்கைகளையும் முன்வைத்தல்.\nD) பொதுவான குறிக்கோள் மற்றும் பகிர்ந்தளிக்கப்பட்ட மதிப்பீடுகளைக் கொண்ட குழுக்களாக இருத்தல்.",
+    "options": [
+      "A மற்றும் B",
+      "C தவிர அனைத்தும்",
+      "D மட்டும்",
+      "இவற்றில் எதுவும் இல்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is/are incorrect regarding the functions of political parties?\nA) Providing honest opposition, accountability, and stability.\nB) Forming and running the government.\nC) Proposing various programs and policies for public welfare.\nD) Being groups of people with a common goal and shared values.",
+    "options_en": [
+      "A and B",
+      "All except C",
+      "D only",
+      "None of these"
+    ],
+    "explanation": "அரசியல் கட்சிகளின் செயல்பாடுகளில் தவறானவை எது/ D மட்டும் ஆகும்.\nA) நேர்மையான எதிர்ப்பு, பொறுப்புடைமை, ஸ்திரத்தன்மை வழங்குதல்.\nB) அரசாங்கத்தை ஏற்படுத்தி இயக்குதல்.\nC) மக்கள் நலனுக்காகப் பல்வேறு திட்டங்களையும் கொள்கைகளையும் முன்வைத்தல்.\nD) பொதுவான குறிக்கோள் மற்றும் பகிர்ந்தளிக்கப்பட்ட மதிப்பீடுகளைக் கொண்ட குழுக்களாக இருத்தல்.",
+    "explanation_en": "D only"
+  },
+  {
+    "id": 58,
+    "question": "கூட்டாட்சி அமைப்பினைப் பின்பற்றும் நாடுகளில் எத்தனை வகையான கட்சிகள் காணப்படுகின்றன?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "question_en": "How many types of parties are found in countries following a federal system?",
+    "options_en": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "explanation": "2",
+    "explanation_en": "2 types of parties are found in countries following a federal system."
+  }
+]

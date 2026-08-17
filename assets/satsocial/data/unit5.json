@@ -1,0 +1,2922 @@
+[
+  {
+    "id": 1,
+    "question": "புவியின் உள்ளமைப்பை பழத்துடன் ஒப்பிடலாம்.",
+    "options": [
+      "ஆப்பிள்",
+      "ஆரஞ்சு",
+      "கொய்யா",
+      "மாதுளை"
+    ],
+    "correct": 0,
+    "question_en": "The interior of the earth can be compared to an ________ fruit.",
+    "options_en": [
+      "Apple",
+      "Orange",
+      "Guava",
+      "Pomegranate"
+    ],
+    "explanation": "ஆப்பிள்",
+    "explanation_en": "The interior of the earth can be compared to an Apple fruit."
+  },
+  {
+    "id": 2,
+    "question": "புவிக்கோளம் அடுக்குகளாக பிரிக்கப்பட்டுள்ளன.",
+    "options": [
+      "இரண்டு",
+      "நான்கு",
+      "மூன்று",
+      "ஐந்து"
+    ],
+    "correct": 2,
+    "question_en": "The earth's sphere is divided into ________ layers.",
+    "options_en": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "explanation": "மூன்று",
+    "explanation_en": "The earth's sphere is divided into Three layers."
+  },
+  {
+    "id": 3,
+    "question": "புவியின் வெளிப்புற அடுக்கு",
+    "options": [
+      "கவசம்",
+      "உட்கருவம்",
+      "மாக்மா",
+      "மேலோடு"
+    ],
+    "correct": 3,
+    "question_en": "The outermost layer of the earth is ________.",
+    "options_en": [
+      "Mantle",
+      "Inner core",
+      "Magma",
+      "Crust"
+    ],
+    "explanation": "மேலோடு",
+    "explanation_en": "The outermost layer of the earth is Crust."
+  },
+  {
+    "id": 4,
+    "question": "புவி மேலோட்டின் சராசரி பருமன் முதல் வரை உள்ளது.",
+    "options": [
+      "3 முதல் 30 கி.மீ. வரை",
+      "5 முதல் 30 கி.மீ. வரை",
+      "4 முதல் 40 கி.மீ. வரை",
+      "5 முதல் 25 கி.மீ. வரை"
+    ],
+    "correct": 1,
+    "question_en": "The average thickness of the earth's crust ranges from ________ to ________.",
+    "options_en": [
+      "3 to 30 km",
+      "5 to 30 km",
+      "4 to 40 km",
+      "5 to 25 km"
+    ],
+    "explanation": "5 முதல் 30 கி.மீ. வரை",
+    "explanation_en": "The average thickness of the earth's crust ranges from 5 to 30 km to 5 to 30 km."
+  },
+  {
+    "id": 5,
+    "question": "புவி மேலோட்டின் பருமன் கண்டப்பகுதியில் ஆக உள்ளது.",
+    "options": [
+      "35 கி.மீ.",
+      "50 கி.மீ.",
+      "15 கி.மீ.",
+      "45 கி.மீ."
+    ],
+    "correct": 0,
+    "question_en": "The thickness of the earth's crust in the continental area is ________.",
+    "options_en": [
+      "35 km",
+      "50 km",
+      "15 km",
+      "45 km"
+    ],
+    "explanation": "35 கி.மீ.",
+    "explanation_en": "The thickness of the earth's crust in the continental area is 35 km."
+  },
+  {
+    "id": 6,
+    "question": "புவி மேலோட்டின் பருமன் கடற்தளத்தில் ஆக உள்ளது.",
+    "options": [
+      "3 கி.மீ.",
+      "4 கி.மீ.",
+      "7 கி.மீ.",
+      "5 கி.மீ."
+    ],
+    "correct": 3,
+    "question_en": "The thickness of the earth's crust on the ocean floor is ________.",
+    "options_en": [
+      "3 km",
+      "4 km",
+      "7 km",
+      "5 km"
+    ],
+    "explanation": "5 கி.மீ.",
+    "explanation_en": "The thickness of the earth's crust on the ocean floor is 5 km."
+  },
+  {
+    "id": 7,
+    "question": "கடல் மேலோடுகள் மற்றும் பாறைகளின் கலவையாகும்.",
+    "options": [
+      "மென்மையான மற்றும் கடினமான",
+      "சொரசொரப்பான மற்றும் வழவழப்பான",
+      "இலகுவான மற்றும் அடர்ந்த",
+      "உயரமான மற்றும் கூர்மையான"
+    ],
+    "correct": 2,
+    "question_en": "Oceanic crusts are a mixture of ________ and ________ rocks.",
+    "options_en": [
+      "Soft and hard",
+      "Rough and smooth",
+      "Light and dense",
+      "Tall and sharp"
+    ],
+    "explanation": "இலகுவான மற்றும் அடர்ந்த",
+    "explanation_en": "Oceanic crusts are a mixture of Light and dense and Light and dense rocks."
+  },
+  {
+    "id": 8,
+    "question": "பெரும்பாலும் கடலின் மேற்பரப்பானது பாறைகளால் ஆனது.",
+    "options": [
+      "கடின",
+      "மென்மையான",
+      "கரும்பாறை",
+      "பசால்ட்"
+    ],
+    "correct": 3,
+    "question_en": "The ocean surface is mostly made up of ________ rocks.",
+    "options_en": [
+      "Hard",
+      "Soft",
+      "Granite",
+      "Basalt"
+    ],
+    "explanation": "பசால்ட்",
+    "explanation_en": "The ocean surface is mostly made up of Basalt rocks."
+  },
+  {
+    "id": 9,
+    "question": "நீலக்கோள் என அழைக்கப்படுவது எது?",
+    "options": [
+      "வியாழன்",
+      "வெள்ளி",
+      "புதன்",
+      "புவி"
+    ],
+    "correct": 3,
+    "question_en": "Which is called the Blue Planet?",
+    "options_en": [
+      "Jupiter",
+      "Venus",
+      "Mercury",
+      "Earth"
+    ],
+    "explanation": "நீலக்கோள் என அழைக்கப்படுவது புவி ஆகும்.",
+    "explanation_en": "Earth is called the Blue Planet."
+  },
+  {
+    "id": 10,
+    "question": "புவியின் பரப்பு நீரால் சூழப்பட்டுள்ளது.",
+    "options": [
+      "65%",
+      "70%",
+      "71%",
+      "40%"
+    ],
+    "correct": 2,
+    "question_en": "________ of the Earth's surface is surrounded by water.",
+    "options_en": [
+      "65%",
+      "70%",
+      "71%",
+      "40%"
+    ],
+    "explanation": "71%",
+    "explanation_en": "71% of the Earth's surface is surrounded by water."
+  },
+  {
+    "id": 11,
+    "question": "புவி மேலோடு பிரிவுகளைக் கொண்டுள்ளது.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct": 0,
+    "question_en": "The earth's crust has ________ divisions.",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "explanation": "2",
+    "explanation_en": "The earth's crust has 2 divisions."
+  },
+  {
+    "id": 12,
+    "question": "கண்டங்களின் மேற்பகுதி ஆல் ஆனது.",
+    "options": [
+      "நீர்",
+      "மண்",
+      "மணல்",
+      "கருங்கற்பாறை"
+    ],
+    "correct": 3,
+    "question_en": "The upper part of the continents is made of ________.",
+    "options_en": [
+      "Water",
+      "Soil",
+      "Sand",
+      "Granite rocks"
+    ],
+    "explanation": "கருங்கற்பாறை",
+    "explanation_en": "The upper part of the continents is made of Granite rocks."
+  },
+  {
+    "id": 13,
+    "question": "புவி மேலோட்டின் மேல் பகுதி மற்றும் தாதுக்களால் ஆனது.",
+    "options": [
+      "சிலிக்கா, அலுமினியம்",
+      "மைக்கா, துத்தநாகம்",
+      "சிலிக்கா, மெக்னீசியம்",
+      "தாமிரம், இரும்பு"
+    ],
+    "correct": 0,
+    "question_en": "The upper part of the earth's crust is made of ________ and ________ minerals.",
+    "options_en": [
+      "Silica, Aluminum",
+      "Mica, Zinc",
+      "Silica, Magnesium",
+      "Copper, Iron"
+    ],
+    "explanation": "சிலிக்கா, அலுமினியம்",
+    "explanation_en": "The upper part of the earth's crust is made of Silica, Aluminum and Silica, Aluminum minerals."
+  },
+  {
+    "id": 14,
+    "question": "புவி மேலோட்டின் மேல் பகுதி என அழைக்கப்படுகிறது.",
+    "options": [
+      "வெளிகவசம்",
+      "சியால்",
+      "உட்கவசம்",
+      "சிமா"
+    ],
+    "correct": 1,
+    "question_en": "The upper part of the earth's crust is called ________.",
+    "options_en": [
+      "Outer mantle",
+      "SIAL",
+      "Inner mantle",
+      "SIMA"
+    ],
+    "explanation": "சியால்",
+    "explanation_en": "The upper part of the earth's crust is called SIAL."
+  },
+  {
+    "id": 15,
+    "question": "சியாலின் சராசரி அடர்த்தி",
+    "options": [
+      "3.7 கிராம் / செ.மீ³",
+      "3.3 கிராம் / செ.மீ³",
+      "2.7 கிராம் / செ.மீ³",
+      "2.5 கிராம் / செ.மீ³"
+    ],
+    "correct": 2,
+    "question_en": "The average density of SIAL is ________.",
+    "options_en": [
+      "3.7 g/cm³",
+      "3.3 g/cm³",
+      "2.7 g/cm³",
+      "2.5 g/cm³"
+    ],
+    "explanation": "2.7 கிராம் / செ.மீ³",
+    "explanation_en": "The average density of SIAL is 2.7 g/cm³."
+  },
+  {
+    "id": 16,
+    "question": "புவி மேலோட்டின் கீழ்ப்பகுதி பாறைகளால் ஆனது.",
+    "options": [
+      "சியால்",
+      "கரும்பாறை",
+      "பசால்ட்",
+      "அடர்ந்த"
+    ],
+    "correct": 2,
+    "question_en": "The lower part of the earth's crust is made of ________ rocks.",
+    "options_en": [
+      "SIAL",
+      "Granite",
+      "Basalt",
+      "Dense"
+    ],
+    "explanation": "பசால்ட்",
+    "explanation_en": "The lower part of the earth's crust is made of Basalt rocks."
+  },
+  {
+    "id": 17,
+    "question": "புவி மேலோட்டின் கீழ்ப்பகுதி மற்றும் மூலக்கூறுகளாக கொண்டுள்ளது.",
+    "options": [
+      "சிலிக்கா, தாமிரம்",
+      "சிலிக்கா, மெக்னீசியம்",
+      "மைக்கா, துத்தநாகம்",
+      "இரும்பு, அலுமினியம்"
+    ],
+    "correct": 1,
+    "question_en": "The lower part of the earth's crust has ________ and ________ as its components.",
+    "options_en": [
+      "Silica, Copper",
+      "Silica, Magnesium",
+      "Mica, Zinc",
+      "Iron, Aluminum"
+    ],
+    "explanation": "சிலிக்கா, மெக்னீசியம்",
+    "explanation_en": "The lower part of the earth's crust has Silica, Magnesium and Silica, Magnesium as its components."
+  },
+  {
+    "id": 18,
+    "question": "புவி மேலோட்டின் கீழ்ப்பகுதி என அழைக்கப்படுகிறது.",
+    "options": [
+      "சிமா",
+      "சியால்",
+      "உட்கவசம்",
+      "கருவம்"
+    ],
+    "correct": 0,
+    "question_en": "The lower part of the earth's crust is called ________.",
+    "options_en": [
+      "SIMA",
+      "SIAL",
+      "Inner mantle",
+      "Core"
+    ],
+    "explanation": "சிமா",
+    "explanation_en": "The lower part of the earth's crust is called SIMA."
+  },
+  {
+    "id": 19,
+    "question": "சிமாவின் சராசரி அடர்த்தி",
+    "options": [
+      "4.0 கிராம் / செ.மீ³",
+      "3.0 கிராம் / செ.மீ³",
+      "2.0 கிராம் / செ.மீ³",
+      "3.3 கிராம் / செ.மீ³"
+    ],
+    "correct": 1,
+    "question_en": "The average density of SIMA is ________.",
+    "options_en": [
+      "4.0 g/cm³",
+      "3.0 g/cm³",
+      "2.0 g/cm³",
+      "3.3 g/cm³"
+    ],
+    "explanation": "3.0 கிராம் / செ.மீ³",
+    "explanation_en": "The average density of SIMA is 3.0 g/cm³."
+  },
+  {
+    "id": 20,
+    "question": "புவி மேலோட்டின் கருப்பொருளாக இருப்பது மற்றும்",
+    "options": [
+      "உட்கரு, வெளிக்கரு",
+      "உட்கவசம், வெளிகவசம்",
+      "சியால், சிமா",
+      "கடல், கண்டம்"
+    ],
+    "correct": 2,
+    "question_en": "The core elements of the earth's crust are ________ and ________.",
+    "options_en": [
+      "Inner core, outer core",
+      "Inner mantle, outer mantle",
+      "SIAL, SIMA",
+      "Ocean, continent"
+    ],
+    "explanation": "சியால், சிமா",
+    "explanation_en": "The core elements of the earth's crust are SIAL, SIMA and SIAL, SIMA."
+  },
+  {
+    "id": 21,
+    "question": "புவி மேலோட்டின் கீழ் அடுக்கு",
+    "options": [
+      "கவசம்",
+      "சியால்",
+      "சிமா",
+      "உட்கரு"
+    ],
+    "correct": 0,
+    "question_en": "The layer below the earth's crust is ________.",
+    "options_en": [
+      "Mantle",
+      "SIAL",
+      "SIMA",
+      "Inner core"
+    ],
+    "explanation": "கவசம்",
+    "explanation_en": "The layer below the earth's crust is Mantle."
+  },
+  {
+    "id": 22,
+    "question": "புவி மேலோட்டையும் கவசத்தையும் பிரிக்கும் எல்லை",
+    "options": [
+      "வெய்சார்ட்",
+      "உட்கருவம்",
+      "மோஹோரோவிசிக்",
+      "பசால்ட்"
+    ],
+    "correct": 2,
+    "question_en": "The boundary separating the earth's crust and the mantle is ________.",
+    "options_en": [
+      "Wiechert",
+      "Inner core",
+      "Mohorovicic",
+      "Basalt"
+    ],
+    "explanation": "மோஹோரோவிசிக்",
+    "explanation_en": "The boundary separating the earth's crust and the mantle is Mohorovicic."
+  },
+  {
+    "id": 23,
+    "question": "புவியின் கவசமானது கி.மீ தடிமன் கொண்டது.",
+    "options": [
+      "2000 கி.மீ.",
+      "3000 கி.மீ.",
+      "4000 கி.மீ.",
+      "2900 கி.மீ."
+    ],
+    "correct": 3,
+    "question_en": "The earth's mantle is ________ km thick.",
+    "options_en": [
+      "2000 km",
+      "3000 km",
+      "4000 km",
+      "2900 km"
+    ],
+    "explanation": "2900 கி.மீ.",
+    "explanation_en": "The earth's mantle is 2900 km km thick."
+  },
+  {
+    "id": 24,
+    "question": "புவியின் கவசத்தை ஆக பிரிக்கலாம்.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 0,
+    "question_en": "The earth's mantle can be divided into ________ parts.",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "2",
+    "explanation_en": "The earth's mantle can be divided into 2 parts."
+  },
+  {
+    "id": 25,
+    "question": "புவியின் மேல்கவசத்தின் அடர்த்தி முதல்",
+    "options": [
+      "4.4 முதல் 5.4 கி / செ.மீ³",
+      "4.4 முதல் 5.0 கி / செ.மீ³",
+      "3.4 முதல் 4.4 கி / செ.மீ³",
+      "2.4 முதல் 3.4 கி / செ.மீ³"
+    ],
+    "correct": 2,
+    "question_en": "The density of the earth's upper mantle ranges from ________.",
+    "options_en": [
+      "4.4 to 5.4 g/cm³",
+      "4.4 to 5.0 g/cm³",
+      "3.4 to 4.4 g/cm³",
+      "2.4 to 3.4 g/cm³"
+    ],
+    "explanation": "3.4 முதல் 4.4 கி / செ.மீ³",
+    "explanation_en": "The density of the earth's upper mantle ranges from 3.4 to 4.4 g/cm³."
+  },
+  {
+    "id": 26,
+    "question": "புவியின் மேல்கவசத்தின் ஆழம் கி.மீ வரை உள்ளது.",
+    "options": [
+      "700 கி.மீ.",
+      "300 கி.மீ.",
+      "400 கி.மீ.",
+      "200 கி.மீ."
+    ],
+    "correct": 0,
+    "question_en": "The depth of the earth's upper mantle is up to ________ km.",
+    "options_en": [
+      "700 km",
+      "300 km",
+      "400 km",
+      "200 km"
+    ],
+    "explanation": "700 கி.மீ.",
+    "explanation_en": "The depth of the earth's upper mantle is up to 700 km km."
+  },
+  {
+    "id": 27,
+    "question": "புவியின் கீழ்க் கவசத்தின் அடர்த்தி முதல்",
+    "options": [
+      "3.4 முதல் 4.4 கி / செ.மீ³",
+      "4.4 முதல் 5.5 கி / செ.மீ³",
+      "2.4 முதல் 3.4 கி / செ.மீ³",
+      "1.4 முதல் 3.4 கி / செ.மீ³"
+    ],
+    "correct": 1,
+    "question_en": "The density of the earth's lower mantle ranges from ________.",
+    "options_en": [
+      "3.4 to 4.4 g/cm³",
+      "4.4 to 5.5 g/cm³",
+      "2.4 to 3.4 g/cm³",
+      "1.4 to 3.4 g/cm³"
+    ],
+    "explanation": "4.4 முதல் 5.5 கி / செ.மீ³",
+    "explanation_en": "The density of the earth's lower mantle ranges from 4.4 to 5.5 g/cm³."
+  },
+  {
+    "id": 28,
+    "question": "புவியின் கீழ்க் கவசத்தின் ஆழம் முதல் வரை உள்ளது.",
+    "options": [
+      "700 முதல் 2900 கி.மீ.",
+      "900 முதல் 3000 கி.மீ.",
+      "600 முதல் 900 கி.மீ.",
+      "500 முதல் 1500 கி.மீ."
+    ],
+    "correct": 0,
+    "question_en": "The depth of the earth's lower mantle ranges from ________ to ________.",
+    "options_en": [
+      "700 to 2900 km",
+      "900 to 3000 km",
+      "600 to 900 km",
+      "500 to 1500 km"
+    ],
+    "explanation": "700 முதல் 2900 கி.மீ.",
+    "explanation_en": "The depth of the earth's lower mantle ranges from 700 to 2900 km to 700 to 2900 km."
+  },
+  {
+    "id": 29,
+    "question": "புவியின் மையப்பகுதி எனப்படுகிறது.",
+    "options": [
+      "புவிக்கருவம்",
+      "கவசம்",
+      "சியால்",
+      "சிமா"
+    ],
+    "correct": 0,
+    "question_en": "The central part of the earth is called ________.",
+    "options_en": [
+      "Core",
+      "Mantle",
+      "SIAL",
+      "SIMA"
+    ],
+    "explanation": "புவிக்கருவம்",
+    "explanation_en": "The central part of the earth is called Core."
+  },
+  {
+    "id": 30,
+    "question": "புவிக்கருவம் என்றும் அழைக்கப்படுகிறது.",
+    "options": [
+      "சியால்",
+      "சிமா",
+      "பசால்ட்",
+      "பேரிஸ்பியர்"
+    ],
+    "correct": 3,
+    "question_en": "The earth's core is also known as ________.",
+    "options_en": [
+      "SIAL",
+      "SIMA",
+      "Basalt",
+      "Barysphere"
+    ],
+    "explanation": "பேரிஸ்பியர்",
+    "explanation_en": "The earth's core is also known as Barysphere."
+  },
+  {
+    "id": 31,
+    "question": "புவிக்கருவத்திற்கும் கவசத்திற்கும் இடையே எல்லையாக அமைவது",
+    "options": [
+      "மோஹோரோவிசிக்",
+      "வெய்சார்ட் குட்டன்பெர்க்",
+      "மாக்மா",
+      "பசால்ட்"
+    ],
+    "correct": 1,
+    "question_en": "The boundary between the earth's core and the mantle is the ________.",
+    "options_en": [
+      "Mohorovicic",
+      "Weichert-Gutenberg",
+      "Magma",
+      "Basalt"
+    ],
+    "explanation": "வெய்சார்ட் குட்டன்பெர்க்",
+    "explanation_en": "The boundary between the earth's core and the mantle is the Weichert-Gutenberg."
+  },
+  {
+    "id": 32,
+    "question": "புவிக் கருவம் அடுக்குகளைக் கொண்டுள்ளது.",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "7"
+    ],
+    "correct": 0,
+    "question_en": "The earth's core has ________ layers.",
+    "options_en": [
+      "2",
+      "4",
+      "3",
+      "7"
+    ],
+    "explanation": "2",
+    "explanation_en": "The earth's core has 2 layers."
+  },
+  {
+    "id": 33,
+    "question": "திரவநிலையில் உள்ள இரும்பு குழம்பாலானது.",
+    "options": [
+      "உட்கருவம்",
+      "வெளிக்கருவம்",
+      "கவசம்",
+      "மேலோடு"
+    ],
+    "correct": 1,
+    "question_en": "The ________ is made of molten iron in a liquid state.",
+    "options_en": [
+      "Inner core",
+      "Outer core",
+      "Mantle",
+      "Crust"
+    ],
+    "explanation": "வெளிக்கருவம்",
+    "explanation_en": "The Outer core is made of molten iron in a liquid state."
+  },
+  {
+    "id": 34,
+    "question": "வெளிக்கருவம் முதல் ஆழம் வரை காணப்படுகிறது.",
+    "options": [
+      "2000 கி.மீ - 3500 கி.மீ",
+      "1000 கி.மீ - 1500 கி.மீ",
+      "2900 கி.மீ - 5150 கி.மீ",
+      "3500 கி.மீ - 4500 கி.மீ"
+    ],
+    "correct": 2,
+    "question_en": "The outer core is found from ________ to ________ depth.",
+    "options_en": [
+      "2000 km - 3500 km",
+      "1000 km - 1500 km",
+      "2900 km - 5150 km",
+      "3500 km - 4500 km"
+    ],
+    "explanation": "2900 கி.மீ - 5150 கி.மீ",
+    "explanation_en": "The outer core is found from 2900 km - 5150 km to 2900 km - 5150 km depth."
+  },
+  {
+    "id": 35,
+    "question": "உட்கருவம் திடநிலையில் உள்ள மற்றும் ஆல் ஆனது.",
+    "options": [
+      "இரும்பு, தாமிரம்",
+      "செம்பு, அலுமினியம்",
+      "மைக்கா, அலுமினியம்",
+      "நிக்கல், இரும்பு"
+    ],
+    "correct": 3,
+    "question_en": "The inner core is in a solid state and is composed of ________ and ________.",
+    "options_en": [
+      "Iron, Copper",
+      "Copper, Aluminum",
+      "Mica, Aluminum",
+      "Nickel, Iron"
+    ],
+    "explanation": "நிக்கல், இரும்பு",
+    "explanation_en": "The inner core is in a solid state and is composed of Nickel, Iron and Nickel, Iron."
+  },
+  {
+    "id": 36,
+    "question": "நைஃப் என்ற உட்கருவம் முதல் ஆழம் வரை பரந்துள்ளது.",
+    "options": [
+      "5150 - 6370 கி.மீ",
+      "5000 - 7000 கி.மீ",
+      "4500 - 5000 கி.மீ",
+      "3500 - 4000 கி.மீ"
+    ],
+    "correct": 0,
+    "question_en": "The inner core known as NIFE extends from ________ to ________ depth.",
+    "options_en": [
+      "5150 - 6370 km",
+      "5000 - 7000 km",
+      "4500 - 5000 km",
+      "3500 - 4000 km"
+    ],
+    "explanation": "5150 - 6370 கி.மீ",
+    "explanation_en": "The inner core known as NIFE extends from 5150 - 6370 km to 5150 - 6370 km depth."
+  },
+  {
+    "id": 37,
+    "question": "உட்கருவத்தின் (NIFE) அடர்த்தி",
+    "options": [
+      "13.0 கிராம் / செ.மீ³",
+      "12.0 கிராம் / செ.மீ³",
+      "10.0 கிராம் / செ.மீ³",
+      "15.0 கிராம் / செ.மீ³"
+    ],
+    "correct": 0,
+    "question_en": "The density of the inner core (NIFE) is ________.",
+    "options_en": [
+      "13.0 g/cm³",
+      "12.0 g/cm³",
+      "10.0 g/cm³",
+      "15.0 g/cm³"
+    ],
+    "explanation": "13.0 கிராம் / செ.மீ³",
+    "explanation_en": "The density of the inner core (NIFE) is 13.0 g/cm³."
+  },
+  {
+    "id": 38,
+    "question": "புவியின் கொள்ளளவில் புவி மேலோடு ஆகும்.",
+    "options": [
+      "4%",
+      "1%",
+      "3%",
+      "10%"
+    ],
+    "correct": 1,
+    "question_en": "The earth's crust accounts for ________ of the earth's volume.",
+    "options_en": [
+      "4%",
+      "1%",
+      "3%",
+      "10%"
+    ],
+    "explanation": "1%",
+    "explanation_en": "The earth's crust accounts for 1% of the earth's volume."
+  },
+  {
+    "id": 39,
+    "question": "புவியின் கொள்ளளவில் கவசம் ஆகும்.",
+    "options": [
+      "34%",
+      "50%",
+      "84%",
+      "47%"
+    ],
+    "correct": 2,
+    "question_en": "The mantle accounts for ________ of the earth's volume.",
+    "options_en": [
+      "34%",
+      "50%",
+      "84%",
+      "47%"
+    ],
+    "explanation": "84%",
+    "explanation_en": "The mantle accounts for 84% of the earth's volume."
+  },
+  {
+    "id": 40,
+    "question": "புவியின் கொள்ளளவில் புவிக்கருவம் ஆகும்.",
+    "options": [
+      "35%",
+      "45%",
+      "25%",
+      "15%"
+    ],
+    "correct": 3,
+    "question_en": "The core accounts for ________ of the earth's volume.",
+    "options_en": [
+      "35%",
+      "45%",
+      "25%",
+      "15%"
+    ],
+    "explanation": "15%",
+    "explanation_en": "The core accounts for 15% of the earth's volume."
+  },
+  {
+    "id": 41,
+    "question": "புவியின் ஆரம் ஆகும்.",
+    "options": [
+      "7450 கி.மீ.",
+      "1000 கி.மீ.",
+      "6371 கி.மீ.",
+      "4750 கி.மீ."
+    ],
+    "correct": 2,
+    "question_en": "The radius of the earth is ________.",
+    "options_en": [
+      "7450 km",
+      "1000 km",
+      "6371 km",
+      "4750 km"
+    ],
+    "explanation": "6371 கி.மீ.",
+    "explanation_en": "The radius of the earth is 6371 km."
+  },
+  {
+    "id": 42,
+    "question": "பாறைக்கோளத்தில் ஏற்படும் உடைப்பு ஐ உருவாக்குகின்றது.",
+    "options": [
+      "கற்கோள தட்டுகள்",
+      "புவித்தட்டுகள்",
+      "சுனாமி",
+      "மழை"
+    ],
+    "correct": 1,
+    "question_en": "The fracture occurring in the lithosphere creates ________.",
+    "options_en": [
+      "Lithospheric plates",
+      "Tectonic plates",
+      "Tsunami",
+      "Rain"
+    ],
+    "explanation": "புவித்தட்டுகள்",
+    "explanation_en": "The fracture occurring in the lithosphere creates Tectonic plates."
+  },
+  {
+    "id": 43,
+    "question": "நிலத்தட்டுகளின் நகர்வுகளே நகர்வுகளாகும்.",
+    "options": [
+      "கண்டத்தட்டு",
+      "புவித்தட்டு",
+      "நிலத்தட்டு",
+      "மடிப்பு"
+    ],
+    "correct": 0,
+    "question_en": "The movements of lithospheric plates are called ________ movements.",
+    "options_en": [
+      "Continental plate",
+      "Tectonic plate",
+      "Lithospheric plate",
+      "Fold"
+    ],
+    "explanation": "கண்டத்தட்டு",
+    "explanation_en": "The movements of lithospheric plates are called Continental plate movements."
+  },
+  {
+    "id": 44,
+    "question": "அடர்த்தி வேறுபடுவதால் இரண்டு தட்டுகள் மோதிக்கொள்ளும் போது உருவாகின்றன.",
+    "options": [
+      "மடிப்புகள்",
+      "பாறைக் குழம்பு",
+      "சுனாமி",
+      "கடல் அகழிகள்"
+    ],
+    "correct": 3,
+    "question_en": "Due to differences in density, when two plates collide, ________ are formed.",
+    "options_en": [
+      "Folds",
+      "Magma",
+      "Tsunami",
+      "Ocean trenches"
+    ],
+    "explanation": "கடல் அகழிகள்",
+    "explanation_en": "Due to differences in density, when two plates collide, Ocean trenches are formed."
+  },
+  {
+    "id": 45,
+    "question": "தட்டுகள் ஒன்றின் மீது மற்றொன்று மோதும் போது உருவாகின்றன.",
+    "options": [
+      "கடல் அலை",
+      "புயல்",
+      "சுனாமி",
+      "வளைந்த மடிப்புகள்"
+    ],
+    "correct": 3,
+    "question_en": "When plates collide with each other, ________ are formed.",
+    "options_en": [
+      "Ocean wave",
+      "Storm",
+      "Tsunami",
+      "Folded mountains"
+    ],
+    "explanation": "வளைந்த மடிப்புகள்",
+    "explanation_en": "When plates collide with each other, Folded mountains are formed."
+  },
+  {
+    "id": 46,
+    "question": "தட்டுகள் ஒன்றின் மீது மற்றொன்று மோதி உருவான வளைந்த மடிப்புகள்",
+    "options": [
+      "தக்காண பீடபூமி",
+      "இமயமலை சிகரம்",
+      "காற்றழுத்தம்",
+      "திபெத் பீடபூமி"
+    ],
+    "correct": 1,
+    "question_en": "The folded mountains formed when plates collide with each other include ________.",
+    "options_en": [
+      "Deccan Plateau",
+      "Himalayan peak",
+      "Atmospheric pressure",
+      "Tibetan Plateau"
+    ],
+    "explanation": "இமயமலை சிகரம்",
+    "explanation_en": "The folded mountains formed when plates collide with each other include Himalayan peak."
+  },
+  {
+    "id": 47,
+    "question": "நகர்வுகள் புவியின் மேற்பரப்பில் பல்வேறு மாற்றங்களை உருவாக்குகின்றன.",
+    "options": [
+      "மேகம்",
+      "கடல் அலை",
+      "கண்டத்தட்டு",
+      "உட்கருவம்"
+    ],
+    "correct": 2,
+    "question_en": "________ movements create various changes on the earth's surface.",
+    "options_en": [
+      "Cloud",
+      "Ocean wave",
+      "Tectonic plate",
+      "Inner core"
+    ],
+    "explanation": "கண்டத்தட்டு",
+    "explanation_en": "Tectonic plate movements create various changes on the earth's surface."
+  },
+  {
+    "id": 48,
+    "question": "புவியின் உள்ளிருந்து வெளிப்படும் ஆற்றலானது சக்திகள் எனப்படுகிறது.",
+    "options": [
+      "அக உந்து சக்திகள்",
+      "புற உந்து சக்திகள்",
+      "உந்து சக்திகள்",
+      "வெப்ப சக்திகள்"
+    ],
+    "correct": 0,
+    "question_en": "The energy emanating from within the earth is called ________ forces.",
+    "options_en": [
+      "Endogenic forces",
+      "Exogenic forces",
+      "Propulsive forces",
+      "Thermal forces"
+    ],
+    "explanation": "அக உந்து சக்திகள்",
+    "explanation_en": "The energy emanating from within the earth is called Endogenic forces forces."
+  },
+  {
+    "id": 49,
+    "question": "புவியின் வெளிப்புறத்தில் இருந்து இயங்கும் சக்திகள் என்று அழைக்கப்படுகிறது.",
+    "options": [
+      "அக உந்து சக்திகள்",
+      "புற உந்து சக்திகள்",
+      "சூரிய சக்தி",
+      "இயக்க சக்திகள்"
+    ],
+    "correct": 1,
+    "question_en": "The forces operating from the outside of the earth are called ________.",
+    "options_en": [
+      "Endogenic forces",
+      "Exogenic forces",
+      "Solar energy",
+      "Kinetic forces"
+    ],
+    "explanation": "புற உந்து சக்திகள்",
+    "explanation_en": "The forces operating from the outside of the earth are called Exogenic forces."
+  },
+  {
+    "id": 50,
+    "question": "நிலநடுக்கம் மற்றும் எரிமலை வெடிப்பு போன்ற அளவற்ற பேரழிவுகளை புவியின் மேற்பரப்பில் ஏற்படுத்துகின்றன.",
+    "options": [
+      "புற உந்து சக்திகள்",
+      "இயக்க சக்திகள்",
+      "சூரிய சக்தி",
+      "அக உந்து சக்திகள்"
+    ],
+    "correct": 3,
+    "question_en": "________ cause immense disasters like earthquakes and volcanic eruptions on the earth's surface.",
+    "options_en": [
+      "Exogenic forces",
+      "Kinetic forces",
+      "Solar energy",
+      "Endogenic forces"
+    ],
+    "explanation": "அக உந்து சக்திகள்",
+    "explanation_en": "Endogenic forces cause immense disasters like earthquakes and volcanic eruptions on the earth's surface."
+  },
+  {
+    "id": 51,
+    "question": "புவி மேலோட்டிற்கும் கவச மேலடுக்கிற்கும் இடையே உள்ள பகுதியே ஆகும்.",
+    "options": [
+      "சியால்",
+      "சிமா",
+      "மென்பாறைக் கோளம்",
+      "புவிக்கரு"
+    ],
+    "correct": 2,
+    "question_en": "The part between the earth's crust and the upper mantle is the ________.",
+    "options_en": [
+      "SIAL",
+      "SIMA",
+      "Asthenosphere",
+      "Core"
+    ],
+    "explanation": "மென்பாறைக் கோளம்",
+    "explanation_en": "The part between the earth's crust and the upper mantle is the Asthenosphere."
+  },
+  {
+    "id": 52,
+    "question": "புவியின் மேலோட்டின், ஒரு பகுதியில் ஏற்படும் திடீர் நகர்வானது, நிலத்தை அதிரவைக்கும் அசைவையும், நடுக்கத்தையும் ஏற்படுத்துவதையே என்கிறோம்.",
+    "options": [
+      "சுனாமி",
+      "புயல்",
+      "சீற்றம்",
+      "நிலநடுக்கம்"
+    ],
+    "correct": 3,
+    "question_en": "A sudden movement in a part of the earth's crust that causes the ground to shake and tremble is called an ________.",
+    "options_en": [
+      "Tsunami",
+      "Storm",
+      "Surge",
+      "Earthquake"
+    ],
+    "explanation": "நிலநடுக்கம்",
+    "explanation_en": "A sudden movement in a part of the earth's crust that causes the ground to shake and tremble is called an Earthquake."
+  },
+  {
+    "id": 53,
+    "question": "எந்த ஒரு இடத்தில் நிலநடுக்கத்தை ஏற்படுத்துகின்றனவோ அதனை என்கிறோம்.",
+    "options": [
+      "வானிலை மையம்",
+      "ஆய்வுமையம்",
+      "நிலநடுக்கமையம்",
+      "புவி மையம்"
+    ],
+    "correct": 2,
+    "question_en": "The point where an earthquake originates is called the ________.",
+    "options_en": [
+      "Weather center",
+      "Research center",
+      "Focus / Hypocenter",
+      "Earth's center"
+    ],
+    "explanation": "நிலநடுக்கமையம்",
+    "explanation_en": "The point where an earthquake originates is called the Focus / Hypocenter."
+  },
+  {
+    "id": 54,
+    "question": "மையத்திற்கு மேல் புவியோட்டு பகுதியில் அமைந்திருக்கும் புள்ளி என அழைக்கப்படுகிறது.",
+    "options": [
+      "நிலநடுக்க மேல் மையப்புள்ளி",
+      "ஆதிப்புள்ளி",
+      "நிலநடுக்க மையம்",
+      "ஈர்ப்பு மையம்"
+    ],
+    "correct": 0,
+    "question_en": "The point on the earth's surface directly above the focus is called the ________.",
+    "options_en": [
+      "Epicenter",
+      "Point of origin",
+      "Focus",
+      "Center of gravity"
+    ],
+    "explanation": "நிலநடுக்க மேல் மையப்புள்ளி",
+    "explanation_en": "The point on the earth's surface directly above the focus is called the Epicenter."
+  },
+  {
+    "id": 55,
+    "question": "புவி அதிர்வு அலைகளை பதிவு செய்யும் கருவியை என குறிப்பிடுகின்றனர்.",
+    "options": [
+      "அழுத்தமானி",
+      "வெப்பமானி",
+      "ரிக்டர்",
+      "நில அதிர்வுமானி"
+    ],
+    "correct": 3,
+    "question_en": "The instrument that records seismic waves is referred to as a ________.",
+    "options_en": [
+      "Barometer",
+      "Thermometer",
+      "Richter",
+      "Seismograph"
+    ],
+    "explanation": "நில அதிர்வுமானி",
+    "explanation_en": "The instrument that records seismic waves is referred to as a Seismograph."
+  },
+  {
+    "id": 56,
+    "question": "நிலநடுக்கத்தின் ஆற்றல் செறிவின் அளவினை மூலம் அளக்கலாம்.",
+    "options": [
+      "ரிக்டர் அளவுகோல்",
+      "அழுத்தமானி",
+      "வெப்பநிலைமானி",
+      "நில அதிர்வுமானி"
+    ],
+    "correct": 0,
+    "question_en": "The magnitude of the energy intensity of an earthquake can be measured by the ________.",
+    "options_en": [
+      "Richter scale",
+      "Barometer",
+      "Thermometer",
+      "Seismograph"
+    ],
+    "explanation": "ரிக்டர் அளவுகோல்",
+    "explanation_en": "The magnitude of the energy intensity of an earthquake can be measured by the Richter scale."
+  },
+  {
+    "id": 57,
+    "question": "ரிக்டர் அளவை முதல் வரை உள்ளது.",
+    "options": [
+      "1, 8",
+      "0, 9",
+      "3, 7",
+      "0, 5"
+    ],
+    "correct": 1,
+    "question_en": "The Richter scale ranges from ________ to ________.",
+    "options_en": [
+      "1, 8",
+      "0, 9",
+      "3, 7",
+      "0, 5"
+    ],
+    "explanation": "0, 9",
+    "explanation_en": "The Richter scale ranges from 0, 9 to 0, 9."
+  },
+  {
+    "id": 58,
+    "question": "புவி அதிர்வானது புவி மேற்பரப்பில் பரவச் செய்கிறது.",
+    "options": [
+      "வெப்பம்",
+      "நீராவி",
+      "அலைகள்",
+      "எரிமலை குழம்பு"
+    ],
+    "correct": 2,
+    "question_en": "The earthquake spreads ________ on the earth's surface.",
+    "options_en": [
+      "Heat",
+      "Water vapor",
+      "Seismic waves",
+      "Lava"
+    ],
+    "explanation": "அலைகள்",
+    "explanation_en": "The earthquake spreads Seismic waves on the earth's surface."
+  },
+  {
+    "id": 59,
+    "question": "ஆல் புவியின் மேலோட்டில் பிளவு ஏற்படுகிறது.",
+    "options": [
+      "சுனாமி",
+      "புவி அதிர்வு",
+      "மழை",
+      "வெயில்"
+    ],
+    "correct": 1,
+    "question_en": "The earth's crust fractures due to ________.",
+    "options_en": [
+      "Tsunami",
+      "Earthquake",
+      "Rain",
+      "Sunlight"
+    ],
+    "explanation": "புவி அதிர்வு",
+    "explanation_en": "The earth's crust fractures due to Earthquake."
+  },
+  {
+    "id": 60,
+    "question": "நிலநடுக்கத்தின் முக்கிய விளைவு",
+    "options": [
+      "வெயில் அதிகரிப்பது",
+      "மழை அதிகரிப்பது",
+      "புயல்",
+      "கட்டடங்கள் இடிந்து விழுவது"
+    ],
+    "correct": 3,
+    "question_en": "The main effect of an earthquake is ________.",
+    "options_en": [
+      "Increase in sunlight",
+      "Increase in rain",
+      "Storm",
+      "Collapse of buildings"
+    ],
+    "explanation": "கட்டடங்கள் இடிந்து விழுவது",
+    "explanation_en": "The main effect of an earthquake is Collapse of buildings."
+  },
+  {
+    "id": 61,
+    "question": "நில அதிர்வலைகள் வகைப்படும்.",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "correct": 1,
+    "question_en": "Seismic waves are classified into ________ types.",
+    "options_en": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "explanation": "3",
+    "explanation_en": "Seismic waves are classified into 3 types."
+  },
+  {
+    "id": 62,
+    "question": "கடலுக்கு அடியில் அல்லது கடற்கரை ஓரங்களில் ஏற்படும் நிலநடுக்கமானது ஐ ஏற்படுத்துகின்றன.",
+    "options": [
+      "புயல்",
+      "அலை",
+      "கடல் பேரலைகள்",
+      "மழை"
+    ],
+    "correct": 2,
+    "question_en": "An earthquake occurring under the sea or along coastal areas causes ________.",
+    "options_en": [
+      "Storms",
+      "Waves",
+      "Tsunami/Ocean waves",
+      "Rain"
+    ],
+    "explanation": "கடல் பேரலைகள்",
+    "explanation_en": "An earthquake occurring under the sea or along coastal areas causes Tsunami/Ocean waves."
+  },
+  {
+    "id": 63,
+    "question": "கடல் பேரலைகளை என்ற ஜப்பானிய சொல் மூலம் குறிப்பிடுகின்றனர்.",
+    "options": [
+      "புயல்",
+      "பேரிடர்",
+      "சூறாவளி",
+      "சுனாமி"
+    ],
+    "correct": 3,
+    "question_en": "Giant ocean waves are referred to by the Japanese word ________.",
+    "options_en": [
+      "Storm",
+      "Disaster",
+      "Cyclone",
+      "Tsunami"
+    ],
+    "explanation": "சுனாமி",
+    "explanation_en": "Giant ocean waves are referred to by the Japanese word Tsunami."
+  },
+  {
+    "id": 64,
+    "question": "மற்றும் ல் சுனாமியின் நிகழ்வு அதிகம் காணப்படுகிறது.",
+    "options": [
+      "இமயமலை, தக்காண பீடபூமி",
+      "ஜப்பானிய, பசிபிக் கடலோர பகுதிகள்",
+      "அரபிக்கடல், வங்காள விரிகுடா",
+      "பாலை, வறண்ட நிலங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "The occurrence of tsunamis is mostly seen in the ________ and ________.",
+    "options_en": [
+      "Himalayas, Deccan Plateau",
+      "Japanese, Pacific coastal areas",
+      "Arabian Sea, Bay of Bengal",
+      "Desert, arid lands"
+    ],
+    "explanation": "ஜப்பானிய, பசிபிக் கடலோர பகுதிகள்",
+    "explanation_en": "The occurrence of tsunamis is mostly seen in the Japanese, Pacific coastal areas and Japanese, Pacific coastal areas."
+  },
+  {
+    "id": 65,
+    "question": "சுனாமி என்பது சொல்.",
+    "options": [
+      "ஜப்பானிய",
+      "அமெரிக்கா",
+      "இத்தாலி",
+      "சீனா"
+    ],
+    "correct": 0,
+    "question_en": "Tsunami is a ________ word.",
+    "options_en": [
+      "Japanese",
+      "American",
+      "Italian",
+      "Chinese"
+    ],
+    "explanation": "ஜப்பானிய",
+    "explanation_en": "Tsunami is a Japanese word."
+  },
+  {
+    "id": 66,
+    "question": "இந்தியப் பெருங்கடலில் சுனாமி ஏற்பட்ட நாள்",
+    "options": [
+      "ஜனவரி 25, 2003",
+      "டிசம்பர் 26, 2004",
+      "ஆகஸ்ட் 15, 2009",
+      "ஜனவரி 26, 2008"
+    ],
+    "correct": 1,
+    "question_en": "The day the tsunami occurred in the Indian Ocean was ________.",
+    "options_en": [
+      "January 25, 2003",
+      "December 26, 2004",
+      "August 15, 2009",
+      "January 26, 2008"
+    ],
+    "explanation": "டிசம்பர் 26, 2004",
+    "explanation_en": "The day the tsunami occurred in the Indian Ocean was December 26, 2004."
+  },
+  {
+    "id": 67,
+    "question": "உலகின் நிலநடுக்க பகுதிகளின் பெரும்பகுதி பகுதியில் அமைந்துள்ளன.",
+    "options": [
+      "இந்தியப் பெருங்கடல்",
+      "அரபிக் கடல்",
+      "ஆர்டிக் பெருங்கடல்",
+      "பசிபிக் பெருங்கடல்"
+    ],
+    "correct": 3,
+    "question_en": "Most of the world's earthquake zones are located in the ________ region.",
+    "options_en": [
+      "Indian Ocean",
+      "Arabian Sea",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "explanation": "பசிபிக் பெருங்கடல்",
+    "explanation_en": "Most of the world's earthquake zones are located in the Pacific Ocean region."
+  },
+  {
+    "id": 68,
+    "question": "உலகில் நிலநடுக்கங்கள் பசிபிக் பெருங்கடலில் தான் ஏற்படுகிறது.",
+    "options": [
+      "35%",
+      "68%",
+      "90%",
+      "88%"
+    ],
+    "correct": 1,
+    "question_en": "________ of earthquakes in the world occur in the Pacific Ocean.",
+    "options_en": [
+      "35%",
+      "68%",
+      "90%",
+      "88%"
+    ],
+    "explanation": "68%",
+    "explanation_en": "68% of earthquakes in the world occur in the Pacific Ocean."
+  },
+  {
+    "id": 69,
+    "question": "இந்தியாவின் மற்றும் பகுதிகள் நிலநடுக்க பகுதிகளாக கண்டறியப்பட்டுள்ளன.",
+    "options": [
+      "கிழக்கு, மேற்கு தொடர்ச்சி மலை",
+      "டெல்லி, மும்பை",
+      "தமிழக, கர்நாடக எல்லை",
+      "இமயமலை, கங்கை - பிரம்மபுத்திரா சமவெளிகள்"
+    ],
+    "correct": 3,
+    "question_en": "The ________ and ________ regions of India are identified as earthquake zones.",
+    "options_en": [
+      "Eastern, Western Ghats",
+      "Delhi, Mumbai",
+      "Tamil Nadu, Karnataka border",
+      "Himalayas, Ganga-Brahmaputra plains"
+    ],
+    "explanation": "இமயமலை, கங்கை - பிரம்மபுத்திரா சமவெளிகள்",
+    "explanation_en": "The Himalayas, Ganga-Brahmaputra plains and Himalayas, Ganga-Brahmaputra plains regions of India are identified as earthquake zones."
+  },
+  {
+    "id": 70,
+    "question": "இந்தியாவில் ல் உத்திரகாசியிலும், ல் சாமோலியிலும் மோசமான நிலநடுக்கங்கள் ஏற்பட்டுள்ளன.",
+    "options": [
+      "1991, 1999",
+      "2000, 2010",
+      "1995, 1998",
+      "2015, 2019"
+    ],
+    "correct": 0,
+    "question_en": "In India, severe earthquakes occurred in Uttarkashi in ________ and in Chamoli in ________.",
+    "options_en": [
+      "1991, 1999",
+      "2000, 2010",
+      "1995, 1998",
+      "2015, 2019"
+    ],
+    "explanation": "1991, 1999",
+    "explanation_en": "In India, severe earthquakes occurred in Uttarkashi in 1991, 1999 and in Chamoli in 1991, 1999."
+  },
+  {
+    "id": 71,
+    "question": "தக்காண பீடபூமியில் இல் கெய்னாவிலும், இல் லாத்தூரிலும் மிக மோசமான நிலநடுக்கங்கள் ஏற்பட்டுள்ளன.",
+    "options": [
+      "1991, 1999",
+      "1947, 1948",
+      "1967, 1993",
+      "1975, 1984"
+    ],
+    "correct": 2,
+    "question_en": "In the Deccan Plateau, severe earthquakes occurred in Koyna in ________ and in Latur in ________.",
+    "options_en": [
+      "1991, 1999",
+      "1947, 1948",
+      "1967, 1993",
+      "1975, 1984"
+    ],
+    "explanation": "1967, 1993",
+    "explanation_en": "In the Deccan Plateau, severe earthquakes occurred in Koyna in 1967, 1993 and in Latur in 1967, 1993."
+  },
+  {
+    "id": 72,
+    "question": "புவி மேற்பரப்பில் உள்ள பிளவு அல்லது துளை வழியே வெப்பம் மிகுந்த மாக்மா என்னும் பாறைக் குழம்பு வெளியேறுவதையே என்கிறோம்.",
+    "options": [
+      "சூறாவளி",
+      "எரிமலை",
+      "புயல்",
+      "சுனாமி"
+    ],
+    "correct": 1,
+    "question_en": "The ejection of highly heated magma through an opening or vent on the earth's surface is called a ________.",
+    "options_en": [
+      "Cyclone",
+      "Volcano",
+      "Storm",
+      "Tsunami"
+    ],
+    "explanation": "எரிமலை",
+    "explanation_en": "The ejection of highly heated magma through an opening or vent on the earth's surface is called a Volcano."
+  },
+  {
+    "id": 73,
+    "question": "எரிமலையின் வாய் வடிவில் காணப்படும்.",
+    "options": [
+      "வட்ட",
+      "நீள் வட்ட",
+      "கூம்பு",
+      "முக்கோண"
+    ],
+    "correct": 0,
+    "question_en": "The vent of a volcano is found in a ________ shape.",
+    "options_en": [
+      "Circular",
+      "Elliptical",
+      "Conical",
+      "Triangular"
+    ],
+    "explanation": "வட்ட",
+    "explanation_en": "The vent of a volcano is found in a Circular shape."
+  },
+  {
+    "id": 74,
+    "question": "புவியினுள் உள்ள வாயுக்களுடன் கூடிய பாறைக்குழம்பு எனப்படும்.",
+    "options": [
+      "பசால்ட்",
+      "மாக்மா",
+      "லாவா",
+      "சுனாமி"
+    ],
+    "correct": 1,
+    "question_en": "The molten rock material with gases inside the earth is called ________.",
+    "options_en": [
+      "Basalt",
+      "Magma",
+      "Lava",
+      "Tsunami"
+    ],
+    "explanation": "மாக்மா",
+    "explanation_en": "The molten rock material with gases inside the earth is called Magma."
+  },
+  {
+    "id": 75,
+    "question": "மாக்மா என்ற பாறைக்குழம்பு புவியின் மேற்பரப்பிற்கு வரும் போது என அழைக்கப்படுகிறது.",
+    "options": [
+      "கவசம்",
+      "உட்கருவம்",
+      "லாவா",
+      "சிமா"
+    ],
+    "correct": 2,
+    "question_en": "When the molten rock called magma comes to the earth's surface, it is called ________.",
+    "options_en": [
+      "Mantle",
+      "Inner core",
+      "Lava",
+      "SIMA"
+    ],
+    "explanation": "லாவா",
+    "explanation_en": "When the molten rock called magma comes to the earth's surface, it is called Lava."
+  },
+  {
+    "id": 76,
+    "question": "புவியிலுள்ள பாறைக்குழம்பு வெளியேறும் பகுதி",
+    "options": [
+      "மாக்மா",
+      "லாவா",
+      "மேலோடு",
+      "எரிமலை வாய்"
+    ],
+    "correct": 3,
+    "question_en": "The opening through which magma from the earth erupts is the ________.",
+    "options_en": [
+      "Magma",
+      "Lava",
+      "Crust",
+      "Vent"
+    ],
+    "explanation": "எரிமலை வாய்",
+    "explanation_en": "The opening through which magma from the earth erupts is the Vent."
+  },
+  {
+    "id": 77,
+    "question": "கூம்பு வடிவ குன்றின் உச்சி பகுதியில் தோன்றும் பள்ளத்தையே என்கின்றனர்.",
+    "options": [
+      "பேராழி",
+      "கிணறு",
+      "எரிமலைப் பள்ளம்",
+      "குளம்"
+    ],
+    "correct": 2,
+    "question_en": "The depression formed at the top of a cone-shaped hill is called a ________.",
+    "options_en": [
+      "Ocean",
+      "Well",
+      "Crater",
+      "Pond"
+    ],
+    "explanation": "எரிமலைப் பள்ளம்",
+    "explanation_en": "The depression formed at the top of a cone-shaped hill is called a Crater."
+  },
+  {
+    "id": 78,
+    "question": "புவியின் உள் ஆழம் அதிகரிக்க அதிகரிக்க வெப்பமானது ஒவ்வொரு மீட்டருக்கும் வீதம் உயர்ந்து கொண்டே செல்கிறது.",
+    "options": [
+      "42 மீ, 2° செ",
+      "22 மீ, 1° செ",
+      "32 மீ, 1° செ",
+      "52 மீ, 3° செ"
+    ],
+    "correct": 2,
+    "question_en": "As the depth inside the earth increases, the temperature rises at the rate of ________ per ________.",
+    "options_en": [
+      "42 m, 2° C",
+      "22 m, 1° C",
+      "32 m, 1° C",
+      "52 m, 3° C"
+    ],
+    "explanation": "32 மீ, 1° செ",
+    "explanation_en": "As the depth inside the earth increases, the temperature rises at the rate of 32 m, 1° C per 32 m, 1° C."
+  },
+  {
+    "id": 79,
+    "question": "புவியின் ஆழம் அதிகரிக்க, அதிகரிக்க வெப்பத்துடன் அதிகரிக்கின்றது.",
+    "options": [
+      "வேகமும்",
+      "அழுத்தமும்",
+      "காற்றும்",
+      "நீரும்"
+    ],
+    "correct": 1,
+    "question_en": "As the depth of the earth increases, ________ also increases along with temperature.",
+    "options_en": [
+      "Speed",
+      "Pressure",
+      "Wind",
+      "Water"
+    ],
+    "explanation": "அழுத்தமும்",
+    "explanation_en": "As the depth of the earth increases, Pressure also increases along with temperature."
+  },
+  {
+    "id": 80,
+    "question": "புவியில் 15 கி.மீ ஆழத்தில் அழுத்தமானது சதுர செ.மீக்கு என்ற அளவில் உயருகின்றது.",
+    "options": [
+      "3 டன்கள்",
+      "4 டன்கள்",
+      "1 டன்கள்",
+      "5 டன்கள்"
+    ],
+    "correct": 3,
+    "question_en": "At a depth of 15 km in the earth, the pressure rises to ________ per square cm.",
+    "options_en": [
+      "3 tons",
+      "4 tons",
+      "1 ton",
+      "5 tons"
+    ],
+    "explanation": "5 டன்கள்",
+    "explanation_en": "At a depth of 15 km in the earth, the pressure rises to 5 tons per square cm."
+  },
+  {
+    "id": 81,
+    "question": "எரிமலைகள் பற்றிய அறிவியல்பூர்வமான ஆய்வுகளை என அழைக்கின்றோம்.",
+    "options": [
+      "சீஸ்மோகிராபி",
+      "கள ஆய்வியல்",
+      "சமூக ஆய்வியல்",
+      "எரிமலை ஆய்வியல்"
+    ],
+    "correct": 3,
+    "question_en": "The scientific study of volcanoes is called ________.",
+    "options_en": [
+      "Seismography",
+      "Field studies",
+      "Sociology",
+      "Volcanology"
+    ],
+    "explanation": "எரிமலை ஆய்வியல்",
+    "explanation_en": "The scientific study of volcanoes is called Volcanology."
+  },
+  {
+    "id": 82,
+    "question": "எரிமலைக் குழம்பின் வெளியேற்றம் மற்றும் பரவல் மெதுவாக நடைபெறுவதை என்கிறோம்.",
+    "options": [
+      "மாக்மா",
+      "லாவா",
+      "பேரழிவு",
+      "பிளவு வெடிப்பு வகை எரிமலை"
+    ],
+    "correct": 3,
+    "question_en": "The slow ejection and spread of lava is known as a ________.",
+    "options_en": [
+      "Magma",
+      "Lava",
+      "Catastrophe",
+      "Fissure eruption type volcano"
+    ],
+    "explanation": "பிளவு வெடிப்பு வகை எரிமலை",
+    "explanation_en": "The slow ejection and spread of lava is known as a Fissure eruption type volcano."
+  },
+  {
+    "id": 83,
+    "question": "பிளவு வெடிப்பு வகை எரிமலைக்கு உதாரணம் மற்றும்",
+    "options": [
+      "தக்காண பீடபூமி, கொலம்பியா பீடபூமி",
+      "இமயமலை, எவரெஸ்ட்",
+      "அந்தமான், நிக்கோபர் தீவு",
+      "கிளிமாஞ்சரோ, கென்யா எரிமலைகள்"
+    ],
+    "correct": 0,
+    "question_en": "Examples of fissure eruption type volcanoes are ________ and ________.",
+    "options_en": [
+      "Deccan Plateau, Columbia Plateau",
+      "Himalayas, Everest",
+      "Andaman, Nicobar Islands",
+      "Kilimanjaro, Kenya volcanoes"
+    ],
+    "explanation": "தக்காண பீடபூமி, கொலம்பியா பீடபூமி",
+    "explanation_en": "Examples of fissure eruption type volcanoes are Deccan Plateau, Columbia Plateau and Deccan Plateau, Columbia Plateau."
+  },
+  {
+    "id": 84,
+    "question": "இந்தோனேசியாவில் தீவிலுள்ள எரிமலை 27 ஆகஸ்ட் 1883 ம் ஆண்டு வெடித்து மாக்மாவை வெளியேற்றியது.",
+    "options": [
+      "சுபத்ரா",
+      "கரக்காட்டாவோ",
+      "சும்பாவா",
+      "பினாங்"
+    ],
+    "correct": 1,
+    "question_en": "The volcano on ________ island in Indonesia erupted on August 27, 1883, ejecting magma.",
+    "options_en": [
+      "Sumatra",
+      "Krakatoa",
+      "Sumbawa",
+      "Penang"
+    ],
+    "explanation": "கரக்காட்டாவோ",
+    "explanation_en": "The volcano on Krakatoa island in Indonesia erupted on August 27, 1883, ejecting magma."
+  },
+  {
+    "id": 85,
+    "question": "லாவாவின் பரவல் மற்றும் வேகம் அதிலுள்ள மற்றும் அளவை பொறுத்ததாகும்.",
+    "options": [
+      "சிலிகா, நீர்",
+      "வெப்பம், காற்று",
+      "மாக்மா, அழுத்தம்",
+      "எரிமலை, வெப்பநிலை"
+    ],
+    "correct": 0,
+    "question_en": "The spread and speed of lava depend on the amount of ________ and ________ in it.",
+    "options_en": [
+      "Silica, water",
+      "Heat, wind",
+      "Magma, pressure",
+      "Volcano, temperature"
+    ],
+    "explanation": "சிலிகா, நீர்",
+    "explanation_en": "The spread and speed of lava depend on the amount of Silica, water and Silica, water in it."
+  },
+  {
+    "id": 86,
+    "question": "அந்தமான் தலைநகரிலிருந்து 138 கி.மீ வடகிழக்கே அமைந்துள்ள தீவு",
+    "options": [
+      "கரக்காட்டாவோ",
+      "சுபத்ரா",
+      "பினாங்",
+      "பேரென் தீவு"
+    ],
+    "correct": 3,
+    "question_en": "The island located 138 km northeast of the capital of Andaman is ________.",
+    "options_en": [
+      "Krakatoa",
+      "Sumatra",
+      "Penang",
+      "Barren Island"
+    ],
+    "explanation": "பேரென் தீவு",
+    "explanation_en": "The island located 138 km northeast of the capital of Andaman is Barren Island."
+  },
+  {
+    "id": 87,
+    "question": "சுமத்ராவில் இருந்து மியான்மர் வரை உள்ள நெருப்பு வளையத்தினுள் இருக்கும் ஒரு செயல்படும் எரிமலை",
+    "options": [
+      "ஸ்ட்ராம்போலி",
+      "பினாடுபோ",
+      "பேரென் தீவு",
+      "செயிண்ட் ஹெலன்"
+    ],
+    "correct": 2,
+    "question_en": "An active volcano in the Ring of Fire stretching from Sumatra to Myanmar is ________.",
+    "options_en": [
+      "Stromboli",
+      "Pinatubo",
+      "Barren Island",
+      "Mount St. Helens"
+    ],
+    "explanation": "பேரென் தீவு",
+    "explanation_en": "An active volcano in the Ring of Fire stretching from Sumatra to Myanmar is Barren Island."
+  },
+  {
+    "id": 88,
+    "question": "பேரென் தீவானது கடைசியாக ஆம் ஆண்டில் எரிமலைக் குழம்பை வெடித்து வெளியேற்றியது.",
+    "options": [
+      "2017",
+      "2019",
+      "2009",
+      "2005"
+    ],
+    "correct": 0,
+    "question_en": "Barren Island last erupted and ejected lava in the year ________.",
+    "options_en": [
+      "2017",
+      "2019",
+      "2009",
+      "2005"
+    ],
+    "explanation": "2017",
+    "explanation_en": "Barren Island last erupted and ejected lava in the year 2017."
+  },
+  {
+    "id": 89,
+    "question": "அடிக்கடி வெடித்தும், பாறைக்குழம்பை வெளியேற்றும் எரிமலைகள் எனப்படும்.",
+    "options": [
+      "செயலிழந்த எரிமலை",
+      "உறங்கும் எரிமலை",
+      "செயல்படும் எரிமலை",
+      "பெரிய எரிமலை"
+    ],
+    "correct": 2,
+    "question_en": "Volcanoes that erupt frequently and eject magma are called ________.",
+    "options_en": [
+      "Extinct volcano",
+      "Dormant volcano",
+      "Active volcano",
+      "Large volcano"
+    ],
+    "explanation": "செயல்படும் எரிமலை",
+    "explanation_en": "Volcanoes that erupt frequently and eject magma are called Active volcano."
+  },
+  {
+    "id": 90,
+    "question": "எரிமலைகள் வகைப்படும்.",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "correct": 1,
+    "question_en": "Volcanoes are classified into ________ types.",
+    "options_en": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "explanation": "3",
+    "explanation_en": "Volcanoes are classified into 3 types."
+  },
+  {
+    "id": 91,
+    "question": "கடற்கரையோரமாக உள்ள பெரும்பாலான எரிமலைகள் செயல்படும் எரிமலைகள் ஆகும்.",
+    "options": [
+      "ஆர்டிக்",
+      "இந்திய",
+      "அட்லாண்டிக்",
+      "பசிபிக்"
+    ],
+    "correct": 3,
+    "question_en": "Most of the volcanoes situated along the coast of the ________ Ocean are active volcanoes.",
+    "options_en": [
+      "Arctic",
+      "Indian",
+      "Atlantic",
+      "Pacific"
+    ],
+    "explanation": "பசிபிக்",
+    "explanation_en": "Most of the volcanoes situated along the coast of the Pacific Ocean are active volcanoes."
+  },
+  {
+    "id": 92,
+    "question": "உலகெங்கும் செயல்படும் எரிமலைகள் உள்ளன.",
+    "options": [
+      "500",
+      "600",
+      "300",
+      "400"
+    ],
+    "correct": 1,
+    "question_en": "There are about ________ active volcanoes around the world.",
+    "options_en": [
+      "500",
+      "600",
+      "300",
+      "400"
+    ],
+    "explanation": "600",
+    "explanation_en": "There are about 600 active volcanoes around the world."
+  },
+  {
+    "id": 93,
+    "question": "மத்திய தரைக்கடல் பகுதியில் உள்ள செயல்படும் எரிமலை",
+    "options": [
+      "ஸ்ட்ராம்போலி",
+      "செயிண்ட் ஹெலன்",
+      "பினாடுபோ",
+      "கரக்கடோவா"
+    ],
+    "correct": 0,
+    "question_en": "An active volcano in the Mediterranean region is ________.",
+    "options_en": [
+      "Stromboli",
+      "Mount St. Helens",
+      "Pinatubo",
+      "Krakatoa"
+    ],
+    "explanation": "ஸ்ட்ராம்போலி",
+    "explanation_en": "An active volcano in the Mediterranean region is Stromboli."
+  },
+  {
+    "id": 94,
+    "question": "உலகின் மிகப்பெரிய செயல்படும் எரிமலை ஆகும்.",
+    "options": [
+      "மத்திய தரைக்கடல் பகுதியில் உள்ள ஸ்ட்ராம்போலி",
+      "அமெரிக்க ஐக்கிய நாடுகளில் உள்ள செயிண்ட் ஹெலன்",
+      "பிலப்பைன்ஸ் தீவிலுள்ள பினாடுபோ",
+      "ஹவாய் தீவிலுள்ள மவுனாலோ"
+    ],
+    "correct": 3,
+    "question_en": "The world's largest active volcano is ________.",
+    "options_en": [
+      "Stromboli in the Mediterranean region",
+      "Mount St. Helens in the USA",
+      "Pinatubo in the Philippines",
+      "Mauna Loa in Hawaii"
+    ],
+    "explanation": "ஹவாய் தீவிலுள்ள மவுனாலோ",
+    "explanation_en": "The world's largest active volcano is Mauna Loa in Hawaii."
+  },
+  {
+    "id": 95,
+    "question": "மத்திய தரைக்கடலின் கலங்கரை விளக்கம் என அழைக்கப்படும் எரிமலை",
+    "options": [
+      "கிளிமாஞ்சரோ",
+      "ஸ்ட்ராம்போலி",
+      "கரக்கடோவா",
+      "வெசுவியஸ்"
+    ],
+    "correct": 1,
+    "question_en": "The volcano known as the Lighthouse of the Mediterranean is ________.",
+    "options_en": [
+      "Kilimanjaro",
+      "Stromboli",
+      "Krakatoa",
+      "Vesuvius"
+    ],
+    "explanation": "ஸ்ட்ராம்போலி",
+    "explanation_en": "The volcano known as the Lighthouse of the Mediterranean is Stromboli."
+  },
+  {
+    "id": 96,
+    "question": "பல வருடங்களாக எரிமலைக் குழம்பை வெளியேற்றுவதற்கான எந்த ஒரு அறிகுறியும் வெளிப்படுத்தாமல், எப்போது வேண்டுமானாலும் செயல்படலாம் என்ற நிலையில் உள்ள எரிமலைகள் ஆகும்.",
+    "options": [
+      "உறங்கும் எரிமலை",
+      "செயல்படும் எரிமலை",
+      "வெடிக்கும் எரிமலை",
+      "செயலிழந்த எரிமலை"
+    ],
+    "correct": 0,
+    "question_en": "Volcanoes that have not shown any sign of erupting magma for many years, but may erupt at any time, are called ________.",
+    "options_en": [
+      "Dormant volcano",
+      "Active volcano",
+      "Explosive volcano",
+      "Extinct volcano"
+    ],
+    "explanation": "உறங்கும் எரிமலை",
+    "explanation_en": "Volcanoes that have not shown any sign of erupting magma for many years, but may erupt at any time, are called Dormant volcano."
+  },
+  {
+    "id": 97,
+    "question": "இந்தோனேசியாவில் உள்ள கரக்கடோவா எரிமலைக்கு எடுத்துக்காட்டு ஆகும்.",
+    "options": [
+      "வெடிக்கும் எரிமலை",
+      "செயல்படும் எரிமலை",
+      "செயலிழந்த எரிமலை",
+      "உறங்கும் எரிமலை"
+    ],
+    "correct": 3,
+    "question_en": "The Krakatoa volcano in Indonesia is an example of a/an ________.",
+    "options_en": [
+      "Explosive volcano",
+      "Active volcano",
+      "Extinct volcano",
+      "Dormant volcano"
+    ],
+    "explanation": "உறங்கும் எரிமலை",
+    "explanation_en": "The Krakatoa volcano in Indonesia is an example of a/an Dormant volcano."
+  },
+  {
+    "id": 98,
+    "question": "வெடிப்பு ஆற்றல் முழுவதையும் இழந்து சுமார் 1000 ஆண்டுகளாக வெடிப்பதை நிறுத்திவிட்ட எரிமலை என அழைக்கப்படுகிறது.",
+    "options": [
+      "உறங்கும் எரிமலை",
+      "செயல்படும் எரிமலை",
+      "வெடிக்கும் எரிமலை",
+      "செயலிழந்த எரிமலை"
+    ],
+    "correct": 3,
+    "question_en": "A volcano that has lost all its eruptive power and stopped erupting for about 1000 years is called a/an ________.",
+    "options_en": [
+      "Dormant volcano",
+      "Active volcano",
+      "Explosive volcano",
+      "Extinct volcano"
+    ],
+    "explanation": "செயலிழந்த எரிமலை",
+    "explanation_en": "A volcano that has lost all its eruptive power and stopped erupting for about 1000 years is called a/an Extinct volcano."
+  },
+  {
+    "id": 99,
+    "question": "ஆப்பிரிக்காவின் கிளிமாஞ்சரோ ஒரு எரிமலைக்கு எடுத்துக்காட்டு ஆகும்.",
+    "options": [
+      "செயல்படும் எரிமலை",
+      "சீறும் எரிமலை",
+      "செயலிழந்த எரிமலை",
+      "உறங்கும் எரிமலை"
+    ],
+    "correct": 2,
+    "question_en": "Kilimanjaro in Africa is an example of a/an ________.",
+    "options_en": [
+      "Active volcano",
+      "Raging volcano",
+      "Extinct volcano",
+      "Dormant volcano"
+    ],
+    "explanation": "செயலிழந்த எரிமலை",
+    "explanation_en": "Kilimanjaro in Africa is an example of a/an Extinct volcano."
+  },
+  {
+    "id": 100,
+    "question": "அதிகமாக வளைந்த அல்லது பிளவுபட்ட பகுதிகளில்தான் ஏற்படுகிறது.",
+    "options": [
+      "புயல்",
+      "சுனாமி",
+      "நிலநடுக்கம்",
+      "எரிமலை"
+    ],
+    "correct": 3,
+    "question_en": "________ occurs in highly folded or faulted regions.",
+    "options_en": [
+      "Storm",
+      "Tsunami",
+      "Earthquake",
+      "Volcano"
+    ],
+    "explanation": "எரிமலை",
+    "explanation_en": "Volcano occurs in highly folded or faulted regions."
+  },
+  {
+    "id": 101,
+    "question": "உலகின் முக்கிய எரிமலை நிகழ்வுப் பகுதிகள்",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஆறு"
+    ],
+    "correct": 1,
+    "question_en": "There are ________ major volcanic zones in the world.",
+    "options_en": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "explanation": "மூன்று",
+    "explanation_en": "There are Three major volcanic zones in the world."
+  },
+  {
+    "id": 102,
+    "question": "உலகின் முக்கிய நில அதிர்வு பகுதிகளாக விளங்குபவை",
+    "options": [
+      "பீடபூமி பகுதிகள்",
+      "கடல் பகுதிகள்",
+      "மலைப்பகுதிகள்",
+      "எரிமலை பிரதேசங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "The major seismic zones of the world coincide with ________.",
+    "options_en": [
+      "Plateau regions",
+      "Oceanic regions",
+      "Mountain regions",
+      "Volcanic regions"
+    ],
+    "explanation": "எரிமலை பிரதேசங்கள்",
+    "explanation_en": "The major seismic zones of the world coincide with Volcanic regions."
+  },
+  {
+    "id": 103,
+    "question": "உலகில் மூன்றில் இரண்டு பங்கு எரிமலைகள் பகுதியில் அமைந்துள்ளன.",
+    "options": [
+      "அரபிக்கடல்",
+      "ஆர்டிக் பெருங்கடல்",
+      "பசிபிக் பெருங்கடல்",
+      "அட்லாண்டிக் பெருங்கடல்"
+    ],
+    "correct": 2,
+    "question_en": "Two-thirds of the world's volcanoes are located in the ________ region.",
+    "options_en": [
+      "Arabian Sea",
+      "Arctic Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean"
+    ],
+    "explanation": "பசிபிக் பெருங்கடல்",
+    "explanation_en": "Two-thirds of the world's volcanoes are located in the Pacific Ocean region."
+  },
+  {
+    "id": 104,
+    "question": "குவிய கடல்தட்டின் எல்லைப் பகுதியில் அமைந்துள்ள எரிமலைப் பகுதி",
+    "options": [
+      "பசிபிக் வளையப் பகுதி",
+      "மத்திய கண்டப் பகுதி",
+      "மத்திய அட்லாண்டிக் பகுதி",
+      "மத்திய ஆர்டிக் பகுதி"
+    ],
+    "correct": 0,
+    "question_en": "The volcanic zone located at the convergent oceanic plate boundaries is the ________.",
+    "options_en": [
+      "Circum-Pacific belt",
+      "Mid-continental belt",
+      "Mid-Atlantic belt",
+      "Mid-Arctic region"
+    ],
+    "explanation": "பசிபிக் வளையப் பகுதி",
+    "explanation_en": "The volcanic zone located at the convergent oceanic plate boundaries is the Circum-Pacific belt."
+  },
+  {
+    "id": 105,
+    "question": "மூன்றில் இரண்டு பங்கு எரிமலைகள் பசிபிக் வளையப்பகுதியில் அமைந்திருப்பதால் இப்பகுதியை என அழைக்கின்றனர்.",
+    "options": [
+      "ஆர்டிக் நெருப்பு வளையம்",
+      "பசிபிக் நெருப்பு வளையம்",
+      "அட்லாண்டிக் நெருப்புவளையம்",
+      "எரிமலை பிரதேசம்"
+    ],
+    "correct": 1,
+    "question_en": "Since two-thirds of the volcanoes are located in the Circum-Pacific belt, this region is called the ________.",
+    "options_en": [
+      "Arctic Ring of Fire",
+      "Pacific Ring of Fire",
+      "Atlantic Ring of Fire",
+      "Volcanic Region"
+    ],
+    "explanation": "பசிபிக் நெருப்பு வளையம்",
+    "explanation_en": "Since two-thirds of the volcanoes are located in the Circum-Pacific belt, this region is called the Pacific Ring of Fire."
+  },
+  {
+    "id": 106,
+    "question": "மத்திய கண்டப்பகுதியில் அமைந்துள்ள ஒரு முக்கிய எரிமலை",
+    "options": [
+      "போப்பா",
+      "மவுனாலோ",
+      "கிளிமாஞ்சரோ",
+      "கரக்கடோவா"
+    ],
+    "correct": 2,
+    "question_en": "An important volcano located in the mid-continental belt is ________.",
+    "options_en": [
+      "Mount Popa",
+      "Mauna Loa",
+      "Kilimanjaro",
+      "Krakatoa"
+    ],
+    "explanation": "கிளிமாஞ்சரோ",
+    "explanation_en": "An important volcano located in the mid-continental belt is Kilimanjaro."
+  },
+  {
+    "id": 107,
+    "question": "மத்திய அட்லாண்டிக் மலைத் தொடரில் அமைந்துள்ள ஐஸ்லாந்தில் அமைந்துள்ளன.",
+    "options": [
+      "உறங்கும் எரிமலைகள்",
+      "வெடிக்கும் எரிமலைகள்",
+      "செயலிழந்த எரிமலைகள்",
+      "செயல்படும் எரிமலைகள்"
+    ],
+    "correct": 3,
+    "question_en": "Iceland, located on the Mid-Atlantic Ridge, has ________.",
+    "options_en": [
+      "Dormant volcanoes",
+      "Explosive volcanoes",
+      "Extinct volcanoes",
+      "Active volcanoes"
+    ],
+    "explanation": "செயல்படும் எரிமலைகள்",
+    "explanation_en": "Iceland, located on the Mid-Atlantic Ridge, has Active volcanoes."
+  },
+  {
+    "id": 108,
+    "question": "விலகிச் செல்லுகின்ற தட்டுகளின் எல்லை",
+    "options": [
+      "மத்திய அட்லாண்டிக் பகுதி",
+      "மத்திய கண்டப் பகுதி",
+      "பசிபிக் வளையப் பகுதி",
+      "இமயமலைப் பகுதி"
+    ],
+    "correct": 0,
+    "question_en": "The boundary of divergent plates is the ________.",
+    "options_en": [
+      "Mid-Atlantic belt",
+      "Mid-continental belt",
+      "Circum-Pacific belt",
+      "Himalayan region"
+    ],
+    "explanation": "மத்திய அட்லாண்டிக் பகுதி",
+    "explanation_en": "The boundary of divergent plates is the Mid-Atlantic belt."
+  },
+  {
+    "id": 109,
+    "question": "நைஃப் ஆல் உருவாக்கப்பட்டது.",
+    "options": [
+      "நிக்கல் மற்றும் ஃபெர்ரஸ்",
+      "சிலிக்கா மற்றும் அலுமினியம்",
+      "இரும்பு மற்றும் மெக்னீசியம்",
+      "சிலிக்கா மற்றும் மெக்னீசியம்"
+    ],
+    "correct": 0,
+    "question_en": "NIFE is made up of ________.",
+    "options_en": [
+      "Nickel and Ferrous",
+      "Silica and Aluminum",
+      "Iron and Magnesium",
+      "Silica and Magnesium"
+    ],
+    "explanation": "நிக்கல் மற்றும் ஃபெர்ரஸ்",
+    "explanation_en": "NIFE is made up of Nickel and Ferrous."
+  },
+  {
+    "id": 110,
+    "question": "நில நடுக்கம் மற்றும் எரிமலை வெடிப்பு நுனியின் அருகில் ஏற்படுகின்றது.",
+    "options": [
+      "பீடபூமிகள்",
+      "தட்டுக்கள்",
+      "சமவெளிகள்",
+      "மலை"
+    ],
+    "correct": 1,
+    "question_en": "Earthquakes and volcanic eruptions occur near the edges of ________.",
+    "options_en": [
+      "Plateaus",
+      "Plates",
+      "Plains",
+      "Mountains"
+    ],
+    "explanation": "தட்டுக்கள்",
+    "explanation_en": "Earthquakes and volcanic eruptions occur near the edges of Plates."
+  },
+  {
+    "id": 111,
+    "question": "பாறைக் குழம்பு வெளியேறும் குறுகலான துளையை என்று அழைக்கிறோம்.",
+    "options": [
+      "எரிமலைக் குழாய்",
+      "எரிமலைப் பள்ளம்",
+      "நிலநடுக்க மையம்",
+      "எரிமலையின் வாய்"
+    ],
+    "correct": 3,
+    "question_en": "The narrow opening through which magma ejects is called a ________.",
+    "options_en": [
+      "Volcanic pipe",
+      "Crater",
+      "Epicenter",
+      "Vent"
+    ],
+    "explanation": "எரிமலையின் வாய்",
+    "explanation_en": "The narrow opening through which magma ejects is called a Vent."
+  },
+  {
+    "id": 112,
+    "question": "மாக்மா புவி மேற்பரப்பிற்கு வரும்பொழுது என அழைக்கப்படுகிறது.",
+    "options": [
+      "மாக்மா",
+      "லாவா",
+      "எரிமலை பள்ளம்",
+      "சிமா"
+    ],
+    "correct": 1,
+    "question_en": "When magma reaches the earth's surface, it is called ________.",
+    "options_en": [
+      "Magma",
+      "Lava",
+      "Crater",
+      "SIMA"
+    ],
+    "explanation": "லாவா",
+    "explanation_en": "When magma reaches the earth's surface, it is called Lava."
+  },
+  {
+    "id": 113,
+    "question": "நைஃப் என் அழைக்கப்படுகிறது.",
+    "options": [
+      "உட்கருவம்",
+      "வெளிக்கருவம்",
+      "கவசம்",
+      "மேலோடு"
+    ],
+    "correct": 1,
+    "question_en": "NIFE is known as the ________.",
+    "options_en": [
+      "Inner core",
+      "Outer core",
+      "Mantle",
+      "Crust"
+    ],
+    "explanation": "வெளிக்கருவம்",
+    "explanation_en": "NIFE is known as the Outer core."
+  },
+  {
+    "id": 114,
+    "question": "P அலைகள் என்பது",
+    "options": [
+      "காந்த அலைகள்",
+      "அழுத்த அலைகள்",
+      "முறிவு அலைகள்",
+      "மேற்பரப்பு அலைகள்"
+    ],
+    "correct": 1,
+    "question_en": "P-waves are ________.",
+    "options_en": [
+      "Magnetic waves",
+      "Compressional waves",
+      "Shear waves",
+      "Surface waves"
+    ],
+    "explanation": "அழுத்த அலைகள்",
+    "explanation_en": "P-waves are Compressional waves."
+  },
+  {
+    "id": 115,
+    "question": "S அலைகள் என்பது",
+    "options": [
+      "அழுத்த அலைகள்",
+      "காந்த அலைகள்",
+      "மேற்பரப்பு அலைகள்",
+      "முறிவு அலைகள்"
+    ],
+    "correct": 3,
+    "question_en": "S-waves are ________.",
+    "options_en": [
+      "Compressional waves",
+      "Magnetic waves",
+      "Surface waves",
+      "Shear waves"
+    ],
+    "explanation": "முறிவு அலைகள்",
+    "explanation_en": "S-waves are Shear waves."
+  },
+  {
+    "id": 116,
+    "question": "L அலைகள் என்பது",
+    "options": [
+      "முறிவு அலைகள்",
+      "மேற்பரப்பு அலைகள்",
+      "பேரலைகள்",
+      "அழுத்த அலைகள்"
+    ],
+    "correct": 1,
+    "question_en": "L-waves are ________.",
+    "options_en": [
+      "Shear waves",
+      "Surface waves",
+      "Ocean waves",
+      "Compressional waves"
+    ],
+    "explanation": "மேற்பரப்பு அலைகள்",
+    "explanation_en": "L-waves are Surface waves."
+  },
+  {
+    "id": 117,
+    "question": "புவிக்கரு என்றும் அழைக்கப்படுகிறது.",
+    "options": [
+      "பேரிஸ்பியர்",
+      "கவசம்",
+      "மாக்மா",
+      "லாவா"
+    ],
+    "correct": 0,
+    "question_en": "The core of the earth is also called the ________.",
+    "options_en": [
+      "Barysphere",
+      "Mantle",
+      "Magma",
+      "Lava"
+    ],
+    "explanation": "பேரிஸ்பியர்",
+    "explanation_en": "The core of the earth is also called the Barysphere."
+  },
+  {
+    "id": 118,
+    "question": "புவிக்கரு தாதுவை அதிகமாகக் கொண்டுள்ளது.",
+    "options": [
+      "தாமிரம்",
+      "அலுமினியம்",
+      "நிக்கல்",
+      "மைக்கா"
+    ],
+    "correct": 2,
+    "question_en": "The earth's core contains a large amount of ________ mineral.",
+    "options_en": [
+      "Copper",
+      "Aluminum",
+      "Nickel",
+      "Mica"
+    ],
+    "explanation": "நிக்கல்",
+    "explanation_en": "The earth's core contains a large amount of Nickel mineral."
+  },
+  {
+    "id": 119,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "செயல்படும் எரிமலை",
+      "செயல்படாத எரிமலை",
+      "செயலிழந்த எரிமலை",
+      "உறங்கும் எரிமலை"
+    ],
+    "correct": 1,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Active volcano",
+      "Inactive volcano",
+      "Extinct volcano",
+      "Dormant volcano"
+    ],
+    "explanation": "செயல்படாத எரிமலை",
+    "explanation_en": "Inactive volcano"
+  },
+  {
+    "id": 120,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "ஸ்ராட்டோஸ்பியர்",
+      "டிரோபோஸ்பியர்",
+      "பேரிஸ்பியர்",
+      "எக்சோஸ்பியர்"
+    ],
+    "correct": 2,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Stratosphere",
+      "Troposphere",
+      "Barysphere",
+      "Exosphere"
+    ],
+    "explanation": "பேரிஸ்பியர்",
+    "explanation_en": "Barysphere"
+  },
+  {
+    "id": 121,
+    "question": "எரிமலைக் குழம்பு என அழைக்கப்படுவது",
+    "options": [
+      "சியால்",
+      "கவசம்",
+      "சிமா",
+      "லாவா"
+    ],
+    "correct": 3,
+    "question_en": "The molten rock erupted from a volcano is called ________.",
+    "options_en": [
+      "SIAL",
+      "Mantle",
+      "SIMA",
+      "Lava"
+    ],
+    "explanation": "லாவா",
+    "explanation_en": "The molten rock erupted from a volcano is called Lava."
+  },
+  {
+    "id": 122,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "மேலோடு",
+      "மாக்மா",
+      "கவசம்",
+      "புவிக்கருவம்"
+    ],
+    "correct": 1,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Crust",
+      "Magma",
+      "Mantle",
+      "Core"
+    ],
+    "explanation": "மாக்மா",
+    "explanation_en": "Magma"
+  },
+  {
+    "id": 123,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "வென்ட்",
+      "எரிமலை வாய்",
+      "சிலிக்கா",
+      "எரிமலைப் பள்ளம்"
+    ],
+    "correct": 2,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Vent",
+      "Volcano mouth",
+      "Silica",
+      "Crater"
+    ],
+    "explanation": "சிலிக்கா",
+    "explanation_en": "Silica"
+  },
+  {
+    "id": 124,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "நிலநடுக்க மையம்",
+      "நிலநடுக்க மேல் மையப்புள்ளி",
+      "எரிமலை வாய்",
+      "சிஸ்மிக் அலைகள்"
+    ],
+    "correct": 2,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Focus",
+      "Epicenter",
+      "Vent",
+      "Seismic waves"
+    ],
+    "explanation": "எரிமலை வாய்",
+    "explanation_en": "Vent"
+  },
+  {
+    "id": 125,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "உத்திரகாசி",
+      "சாமோலி",
+      "கெய்னா",
+      "கரக்கடோவா"
+    ],
+    "correct": 3,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Uttarkashi",
+      "Chamoli",
+      "Koyna",
+      "Krakatoa"
+    ],
+    "explanation": "கரக்கடோவா",
+    "explanation_en": "Krakatoa"
+  },
+  {
+    "id": 126,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "ஸ்ட்ராம்போலி",
+      "ஹெலென்",
+      "பினாடுபோ",
+      "பியூஜியாமா"
+    ],
+    "correct": 3,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Stromboli",
+      "Mt. Helens",
+      "Pinatubo",
+      "Fujiyama"
+    ],
+    "explanation": "பியூஜியாமா",
+    "explanation_en": "Fujiyama"
+  },
+  {
+    "id": 127,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "அழுத்த அலைகள்",
+      "மின்காந்த அலைகள்",
+      "முறிவு அலைகள்",
+      "மேற்பரப்பு அலைகள்"
+    ],
+    "correct": 1,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Compressional waves",
+      "Electromagnetic waves",
+      "Shear waves",
+      "Surface waves"
+    ],
+    "explanation": "மின்காந்த அலைகள்",
+    "explanation_en": "Electromagnetic waves"
+  },
+  {
+    "id": 128,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "வெசுவியஸ்",
+      "பியூஜியாமா",
+      "மவுனாலோ",
+      "கரக்கடோவா"
+    ],
+    "correct": 2,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Vesuvius",
+      "Fujiyama",
+      "Mauna Loa",
+      "Krakatoa"
+    ],
+    "explanation": "மவுனாலோ",
+    "explanation_en": "Mauna Loa"
+  },
+  {
+    "id": 129,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "போப்பா",
+      "கிளிமாஞ்சரோ",
+      "கென்யா எரிமலைகள்",
+      "ஸ்ட்ராம்போலி"
+    ],
+    "correct": 3,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Mt. Popa",
+      "Kilimanjaro",
+      "Kenya volcanoes",
+      "Stromboli"
+    ],
+    "explanation": "ஸ்ட்ராம்போலி",
+    "explanation_en": "Stromboli"
+  },
+  {
+    "id": 130,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "பசிபிக் வளையப் பகுதி",
+      "மத்திய கண்டப் பகுதி",
+      "இந்தியப் பெருங்கடல் பகுதி",
+      "மத்திய அட்லாண்டிக் பகுதி"
+    ],
+    "correct": 2,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Circum-Pacific belt",
+      "Mid-continental belt",
+      "Indian Ocean region",
+      "Mid-Atlantic belt"
+    ],
+    "explanation": "இந்தியப் பெருங்கடல் பகுதி",
+    "explanation_en": "Indian Ocean region"
+  },
+  {
+    "id": 131,
+    "question": "பொருத்துக",
+    "options": [
+      "i-c, ii-d, iii-e, iv-a, v-b",
+      "i-b, ii-c, iii-a, iv-e, v-b",
+      "i-c, ii-d, iii-b, iv-e, v-a",
+      "i-b, ii-e, iii-a, iv-b, v-c"
+    ],
+    "correct": 0,
+    "question_en": "Match the following",
+    "options_en": [
+      "i-c, ii-d, iii-e, iv-a, v-b",
+      "i-b, ii-c, iii-a, iv-e, v-b",
+      "i-c, ii-d, iii-b, iv-e, v-a",
+      "i-b, ii-e, iii-a, iv-b, v-c"
+    ],
+    "explanation": "i-c, ii-d, iii-e, iv-a, v-b",
+    "explanation_en": "i-c, ii-d, iii-e, iv-a, v-b"
+  },
+  {
+    "id": 132,
+    "question": "பொருத்துக",
+    "options": [
+      "i-e, ii-a, iii-d, iv-c, v-b",
+      "i-d, ii-c, iii-e, iv-a, v-b",
+      "i-d, ii-a, iii-b, iv-e, v-c",
+      "i-e, ii-a, iii-d, iv-b, v-c"
+    ],
+    "correct": 3,
+    "question_en": "Match the following",
+    "options_en": [
+      "i-e, ii-a, iii-d, iv-c, v-b",
+      "i-d, ii-c, iii-e, iv-a, v-b",
+      "i-d, ii-a, iii-b, iv-e, v-c",
+      "i-e, ii-a, iii-d, iv-b, v-c"
+    ],
+    "explanation": "i-e, ii-a, iii-d, iv-b, v-c",
+    "explanation_en": "i-e, ii-a, iii-d, iv-b, v-c"
+  },
+  {
+    "id": 133,
+    "question": "கூற்று: புவியின் உருவத்தை ஒரு ஆப்பிளோடு கூட ஒப்பிடலாம். காரணம்: புவியின் உட்பகுதி மேலோடு, மெல்லிய புறத்தோல், புவிக்கருவம் ஆகியவற்றைக் கொண்டது.",
+    "options": [
+      "கூற்றும், காரணமும் சரி, கூற்றை காரணம் சரியாக விளக்குகிறது.",
+      "கூற்று சரி, காரணம் சரி",
+      "கூற்றும் காரணமும் சரி, ஆனால் கூற்றைக் காரணம் சரியாக விளக்கவில்லை.",
+      "கூற்றும், காரணமும் தவறானவை"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: The shape of the earth can be compared to an apple.\nReason: The interior of the earth consists of the crust, a thin skin, and the core.",
+    "options_en": [
+      "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion.",
+      "Assertion is correct, Reason is correct.",
+      "Both Assertion and Reason are correct, but Reason is not the correct explanation of Assertion.",
+      "Both Assertion and Reason are wrong."
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி, ஆனால் கூற்றைக் காரணம் சரியாக விளக்கவில்லை.",
+    "explanation_en": "Both Assertion and Reason are correct, but Reason is not the correct explanation of Assertion."
+  },
+  {
+    "id": 134,
+    "question": "கூற்று: உலகின் மூன்றில் இரண்டு பங்கு எரிமலைகள் பசிபிக் கடலில் உள்ளது. காரணம்: பசிபிக் கடலின் மேற்கு மற்றும் கிழக்கு கடற்கரைப் பகுதியை பசிபிக் நெருப்பு வளையம் என அழைக்கிறோம்.",
+    "options": [
+      "கூற்றும் காரணமும் சரி, கூற்றை காரணம் சரியாக விளக்குகிறது.",
+      "கூற்றும் காரணமும் சரி, ஆனால் கூற்றை காரணம் சரியாக விளக்கவில்லை.",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்றும் காரணமும் தவறானவை"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Two-thirds of the world's volcanoes are located in the Pacific Ocean.\nReason: The western and eastern coastal regions of the Pacific Ocean are called the Pacific Ring of Fire.",
+    "options_en": [
+      "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion.",
+      "Both Assertion and Reason are correct, but Reason is not the correct explanation of Assertion.",
+      "Assertion is wrong, Reason is correct.",
+      "Both Assertion and Reason are wrong."
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி, கூற்றை காரணம் சரியாக விளக்குகிறது.",
+    "explanation_en": "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "id": 135,
+    "question": "கூற்று: கட்டிடங்கள் இடிந்து விழுவது நிலநடுக்கத்தின் முக்கிய விளைவாகும். காரணம்: நிலநடுக்கம் புவி மேற்பரப்பில் பல்வேறு மாற்றங்களை ஏற்படுத்துகிறது.",
+    "options": [
+      "கூற்றும் காரணமும் சரி, கூற்றை காரணம் சரியாக விளக்குகிறது.",
+      "கூற்றும் காரணமும் சரி, ஆனால் கூற்றை காரணம் சரியாக விளக்கவில்லை.",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்றும் காரணமும் தவறானவை"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: The collapse of buildings is a major effect of an earthquake.\nReason: Earthquakes cause various changes on the earth's surface.",
+    "options_en": [
+      "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion.",
+      "Both Assertion and Reason are correct, but Reason is not the correct explanation of Assertion.",
+      "Assertion is wrong, Reason is correct.",
+      "Both Assertion and Reason are wrong."
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி, கூற்றை காரணம் சரியாக விளக்குகிறது.",
+    "explanation_en": "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "id": 136,
+    "question": "கூற்று: இந்தியாவின் இமயமலைப் பகுதிகள், கங்கை பிரம்மபுத்திரா சமவெளிகள் நிலநடுக்கப் பகுதிகளாகக் கண்டறியப்பட்டுள்ளன. காரணம்: அதிக எண்ணிக்கையிலுள்ள நிலநடுக்கங்கள் பிரம்மபுத்திரா பகுதிகளில் ஏற்படுகின்றன.",
+    "options": [
+      "கூற்று, காரணம் சரி, ஆனால், கூற்றை காரணம் விளக்கவில்லை",
+      "கூற்று, காரணம் சரி, கூற்றை காரணம் விளக்குகிறது",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்றும் காரணமும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Assertion: The Himalayan regions and the Ganga-Brahmaputra plains of India are identified as earthquake zones.\nReason: A large number of earthquakes occur in the Brahmaputra regions.",
+    "options_en": [
+      "Assertion and Reason are correct, but Reason does not explain the Assertion.",
+      "Assertion and Reason are correct, and Reason explains the Assertion.",
+      "Assertion is wrong, Reason is correct.",
+      "Both Assertion and Reason are wrong."
+    ],
+    "explanation": "கூற்று, காரணம் சரி, கூற்றை காரணம் விளக்குகிறது",
+    "explanation_en": "Assertion and Reason are correct, and Reason explains the Assertion."
+  },
+  {
+    "id": 137,
+    "question": "கூற்று: சியால், சிமா அடுக்கின் மீது மிதக்கிறது. காரணம்: சியாலின் அடர்த்தி, சிமா அடர்த்தியை விடக் குறைவு.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: SIAL floats over the SIMA layer.\nReason: The density of SIAL is less than that of SIMA.",
+    "options_en": [
+      "Both Assertion and Reason are correct.",
+      "Assertion is correct, Reason is wrong.",
+      "Assertion is wrong, Reason is correct.",
+      "Both Assertion and Reason are wrong."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+    "explanation_en": "Both Assertion and Reason are correct."
+  },
+  {
+    "id": 138,
+    "question": "கூற்று: கண்டப்பகுதிகளின் அடர்த்தி கடல் மேலோட்டின் அடர்த்தியை விட குறைந்தே காணப்படுகிறது. காரணம்: கடல் மேலோடுகள் இலகுவான மற்றும் அடர்ந்த பாறைகளின் கலவையாகும்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு",
+      "கூற்று தவறு காரணம் சரி"
+    ],
+    "correct": 1,
+    "question_en": "Assertion: The density of continental crusts is less than the density of the oceanic crust.\nReason: Oceanic crusts are a mixture of lighter and denser rocks.",
+    "options_en": [
+      "Assertion is correct, Reason is wrong.",
+      "Both Assertion and Reason are correct.",
+      "Both Assertion and Reason are wrong.",
+      "Assertion is wrong, Reason is correct."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+    "explanation_en": "Both Assertion and Reason are correct."
+  },
+  {
+    "id": 139,
+    "question": "கூற்று: எரிமலைக் குழம்பின் வெளியேற்றம் மற்றும் பரவல் மெதுவாக நடைபெறுவதால் பிளவு வெடிப்பு எரிமலைகள் உருவாகின்றன. காரணம்: லாவாவின் பரவல் மற்றும் வேகம் அதிலுள்ள சிலிகா மற்றும் நீரின் அளவைப் பொறுத்தது.",
+    "options": [
+      "கூற்றும் காரணமும் சரி. கூற்றை காரணம் சரியாக விளக்குகிறது.",
+      "கூற்றும் காரணமும் சரி. கூற்றை காரணம் சரியாக விளக்கவில்லை.",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Slow ejection and spread of lava result in fissure eruption volcanoes.\nReason: The spread and speed of lava depend on the amount of silica and water present in it.",
+    "options_en": [
+      "Both Assertion and Reason are correct. Reason is the correct explanation of Assertion.",
+      "Both Assertion and Reason are correct. Reason is not the correct explanation of Assertion.",
+      "Assertion is wrong, Reason is correct.",
+      "Both Assertion and Reason are wrong."
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி. கூற்றை காரணம் சரியாக விளக்குகிறது.",
+    "explanation_en": "Both Assertion and Reason are correct. Reason is the correct explanation of Assertion."
+  },
+  {
+    "id": 140,
+    "question": "கூற்று: பலவீனமான புவி மேல் ஓட்டுப் பகுதியில் பாறைக்குழம்பு வெடித்து வெளியேறுகிறது. காரணம்: மாக்மா மிகுதியான அழுத்த நிலையில் எளிதில் தீப்பற்றக் கூடிய வாயுக்களை ஈர்த்துக்கொள்கிறது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு",
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்றும் காரணமும் சரி கூற்றை காரணம் சரியாக விளக்குகிறது.",
+      "கூற்றும் காரணமும் சரி. கூற்றை காரணம் சரியாக விளக்கவில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: Magma erupts through weak sections of the earth's crust.\nReason: Magma absorbs highly combustible gases under immense pressure conditions.",
+    "options_en": [
+      "Both Assertion and Reason are wrong.",
+      "Assertion is correct, Reason is wrong.",
+      "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion.",
+      "Both Assertion and Reason are correct. Reason is not the correct explanation of Assertion."
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி கூற்றை காரணம் சரியாக விளக்குகிறது.",
+    "explanation_en": "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion."
+  },
+  {
+    "id": 141,
+    "question": "கூற்று: புவித் தட்டுகள் புவி மேற்பரப்பில் அகன்ற பிளவுகளை உருவாக்குகிறது. காரணம்: கண்டத் திட்டுகள் மற்றும் கடற்தட்டுகளும் ஒன்றோடொன்று நெருங்கிச் செல்கிறது.",
+    "options": [
+      "கூற்றும் காரணமும் சரி கூற்றை காரணம் சரியாக விளக்குகிறது.",
+      "கூற்றும் காரணமும் சரி. கூற்றை காரணம் சரியாக விளக்கவில்லை.",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: Tectonic plates create wide fissures on the earth's surface.\nReason: Continental plates and oceanic plates move closer to each other.",
+    "options_en": [
+      "Both Assertion and Reason are correct, and Reason is the correct explanation of Assertion.",
+      "Both Assertion and Reason are correct. Reason is not the correct explanation of Assertion.",
+      "Assertion is wrong, Reason is correct.",
+      "Both Assertion and Reason are wrong."
+    ],
+    "explanation": "கூற்று தவறு காரணம் சரி",
+    "explanation_en": "Assertion is wrong, Reason is correct."
+  },
+  {
+    "id": 142,
+    "question": "கூற்று: இமயமலை சிகரம் மடிப்பு மலைகளில் ஒன்றாகும். காரணம்: கண்டத்திட்டு மற்றும் கடற்தட்டு ஒன்றோடொன்று மோதும்போது வளைந்து மடிப்புகளை உருவாக்குகிறது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: The Himalayan peak is one of the fold mountains.\nReason: When a continental plate and an oceanic plate collide, they bend and create folds.",
+    "options_en": [
+      "Both Assertion and Reason are correct.",
+      "Assertion is correct, Reason is wrong.",
+      "Both Assertion and Reason are wrong.",
+      "Assertion is wrong, Reason is correct."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+    "explanation_en": "Both Assertion and Reason are correct."
+  },
+  {
+    "id": 143,
+    "question": "'மோஹோரோவிசிக்' என்பது உடன் தொடர்புடையது",
+    "options": [
+      "சியால்",
+      "சிமா",
+      "கவசம்",
+      "புவிக் கருவம் (Core)"
+    ],
+    "correct": 2,
+    "question_en": "'Mohorovicic' is associated with the ________.",
+    "options_en": [
+      "SIAL",
+      "SIMA",
+      "Mantle",
+      "Core"
+    ],
+    "explanation": "கவசம்",
+    "explanation_en": "'Mohorovicic' is associated with the Mantle."
+  },
+  {
+    "id": 144,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்",
+    "options": [
+      "பினாடுபோ",
+      "கரக்கடோவா",
+      "செயிண்ட் ஹெலன்",
+      "ஸ்ட்ராம்போலி"
+    ],
+    "correct": 1,
+    "question_en": "Select the odd one out.",
+    "options_en": [
+      "Pinatubo",
+      "Krakatoa",
+      "Mt. St. Helens",
+      "Stromboli"
+    ],
+    "explanation": "கரக்கடோவா",
+    "explanation_en": "Krakatoa"
+  },
+  {
+    "id": 145,
+    "question": "இந்தியாவில் உள்ள ஒரே ஒரு செயல்படும் எரிமலை உள்ள இடம்",
+    "options": [
+      "ஹவாய் தீவு",
+      "பாரன் தீவு",
+      "நார்கண்டம் தீவு",
+      "ஐஸ்லாந்து"
+    ],
+    "correct": 1,
+    "question_en": "The only active volcano in India is located at ________.",
+    "options_en": [
+      "Hawaii Island",
+      "Barren Island",
+      "Narcondam Island",
+      "Iceland"
+    ],
+    "explanation": "பாரன் தீவு",
+    "explanation_en": "The only active volcano in India is located at Barren Island."
+  },
+  {
+    "id": 146,
+    "question": "பூமியில் மிக அதிகப்படியான அழிவுகள் ஏற்படக் காரணமாக அமைவது",
+    "options": [
+      "P - அலைகள்",
+      "S - அலைகள்",
+      "இரண்டாம் நிலை அலைகள்",
+      "L - அலைகள்"
+    ],
+    "correct": 3,
+    "question_en": "The waves that cause the most destruction on Earth are ________.",
+    "options_en": [
+      "P - waves",
+      "S - waves",
+      "Secondary waves",
+      "L - waves"
+    ],
+    "explanation": "L - அலைகள்",
+    "explanation_en": "The waves that cause the most destruction on Earth are L - waves."
+  }
+]

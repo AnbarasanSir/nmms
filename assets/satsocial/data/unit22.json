@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "question": "நில வரைபடத்தை வரைந்து உருவாக்குபவர் ________.",
+    "options": [
+      "புவியியலாளர்",
+      "ஓவியர்",
+      "கார்டோகிராபர்",
+      "விஞ்ஞானி"
+    ],
+    "correct": 2,
+    "question_en": "A person who draws and prepares a land map is ________.",
+    "options_en": [
+      "Geologist",
+      "Painter",
+      "Cartographer",
+      "Scientist"
+    ],
+    "explanation": "நில வரைபடத்தை வரைந்து உருவாக்குபவர் கார்டோகிராபர்.",
+    "explanation_en": "A person who draws and prepares a land map is Cartographer."
+  },
+  {
+    "id": 2,
+    "question": "கிராபிக் என்பதன் பொருள் ________.",
+    "options": [
+      "வரைதல்",
+      "எழுதுதல்",
+      "நிலவரைபடம்",
+      "தொல்லியல்"
+    ],
+    "correct": 0,
+    "question_en": "Graphic means ________.",
+    "options_en": [
+      "Drawing",
+      "Writing",
+      "Land map",
+      "Archaeology"
+    ],
+    "explanation": "கிராபிக் என்பதன் பொருள் வரைதல்.",
+    "explanation_en": "Graphic means Drawing."
+  },
+  {
+    "id": 3,
+    "question": "நில வரைபடங்கள் அளவையின் அடிப்படையில் ________ வகைப்படும்.",
+    "options": [
+      "மூன்று",
+      "இரண்டு",
+      "நான்கு",
+      "பல"
+    ],
+    "correct": 1,
+    "question_en": "Land maps are classified as ________ based on size.",
+    "options_en": [
+      "Three",
+      "Two",
+      "Four",
+      "Many"
+    ],
+    "explanation": "நில வரைபடங்கள் அளவையின் அடிப்படையில் இரண்டு வகைப்படும்.",
+    "explanation_en": "Land maps are classified as Two based on size."
+  },
+  {
+    "id": 4,
+    "question": "சிறிய பரப்பளவு குறித்து அதிக விவரங்கள் தருவது ________.",
+    "options": [
+      "அட்லஸ்",
+      "சுவர் படங்கள்",
+      "நில அளவை படங்கள்",
+      "தலவரைபடம்"
+    ],
+    "correct": 3,
+    "question_en": "Giving more details about a small area is ________.",
+    "options_en": [
+      "Atlas",
+      "Wall pictures",
+      "Land survey images",
+      "Head map"
+    ],
+    "explanation": "சிறிய பரப்பளவு குறித்து அதிக விவரங்கள் தருவது தலவரைபடம்.",
+    "explanation_en": "Giving more details about a small area is Head map."
+  },
+  {
+    "id": 5,
+    "question": "கிராமம் மற்றும் நகர்புறங்களின் வரைபடம் ________ ஆகும்.",
+    "options": [
+      "கருத்து வரை படம்",
+      "சிறிய வரைபடம்",
+      "நிலஅளவைப் படம்",
+      "அட்லஸ்"
+    ],
+    "correct": 2,
+    "question_en": "A map of rural and urban areas is ________.",
+    "options_en": [
+      "Picture up to the comment",
+      "Small map",
+      "Survey image",
+      "Atlas"
+    ],
+    "explanation": "கிராமம் மற்றும் நகர்புறங்களின் வரைபடம் நிலஅளவைப் படம் ஆகும்.",
+    "explanation_en": "A map of rural and urban areas is Survey image."
+  },
+  {
+    "id": 6,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடு:",
+    "options": [
+      "புவி மாதிரியினை கையில் எடுத்துச் செல்ல இயலாது",
+      "நிலவரைபடத்தை கையில் எடுத்துச் செல்ல இயலாது",
+      "புவி மாதிரி இரு பரிமாண அமைப்பு.",
+      "நிலவரைபடம் முப்பரிமாண அமைப்பு."
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct statement:",
+    "options_en": [
+      "Earth model cannot be carried in hand",
+      "A map cannot be carried in hand",
+      "Earth model is a two-dimensional structure.",
+      "A topography is a three-dimensional structure."
+    ],
+    "explanation": "புவி மாதிரியினை கையில் எடுத்துச் செல்ல இயலாது",
+    "explanation_en": "Earth model cannot be carried in hand"
+  },
+  {
+    "id": 7,
+    "question": "வரைபடங்கள் ________ நோக்கிய நிலையில் வரையப்படுகிறது.",
+    "options": [
+      "தெற்கு",
+      "வடக்கு",
+      "கிழக்கு",
+      "மேற்கு"
+    ],
+    "correct": 1,
+    "question_en": "Graphs are drawn in the direction of ________.",
+    "options_en": [
+      "South",
+      "North",
+      "East",
+      "West"
+    ],
+    "explanation": "வரைபடங்கள் வடக்கு நோக்கிய நிலையில் வரையப்படுகிறது.",
+    "explanation_en": "Graphs are drawn in the direction of North."
+  },
+  {
+    "id": 8,
+    "question": "பொருத்துக.\n1. விவசாயம் - (a) பழுப்பு\n2. சம உயரக்கோடு - (b) மஞ்சள்\n3. பனி - (c) சிவப்பு\n4. குடியிருப்பு - (d) வெள்ளை",
+    "options": [
+      "1-(d), 2-(a), 3-(b), 4-(c)",
+      "1-(b), 2-(c), 3-(d), 4-(a)",
+      "1-(b), 2-(a), 3-(d), 4-(c)",
+      "1-(d), 2-(a), 3-(b), 4-(c)"
+    ],
+    "correct": 2,
+    "question_en": "match\n1. Agriculture – (a) Brown\n2. Equal height line – (b) Yellow\n3. Snow – (c) Red\n4. Residence – (d) White",
+    "options_en": [
+      "1-(d), 2-(a), 3-(b), 4-(c)",
+      "1-(b), 2-(c), 3-(d), 4-(a)",
+      "1-(b), 2-(a), 3-(d), 4-(c)",
+      "1-(d), 2-(a), 3-(b), 4-(c)"
+    ],
+    "explanation": "1-(b), 2-(a), 3-(d), 4-(c)",
+    "explanation_en": "1-(b), 2-(a), 3-(d), 4-(c)"
+  },
+  {
+    "id": 9,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடு.",
+    "options": [
+      "கலாச்சார வரைபடங்கள் மனிதனால் உருவாக்கப்பட்ட அமைப்புகளை காட்டுவது ஆகும்",
+      "இயற்கை அமைப்பு வரைபடங்கள் மண், நிலத்தோற்றம், வடிகால், தாவரங்கள் போன்றவைகளைக் காட்டுவது ஆகும் .",
+      "நிலவரைபட நூல் என்பது பல வகையான நிலவரைபடங்களின் தொகுப்பு புத்தகம் ஆகும் .",
+      "சுவர் வரைபடங்கள் கிராமம் மற்றும் நகர்ப்புறங்களின் வரைபடமாகும்."
+    ],
+    "correct": 3,
+    "question_en": "Select the incorrect statement.",
+    "options_en": [
+      "Cultural maps show human-made structures",
+      "Landscape maps show soil, topography, drainage, vegetation, etc.",
+      "A land map book is a collection of many types of land maps.",
+      "Wall maps are maps of rural and urban areas."
+    ],
+    "explanation": "சுவர் வரைபடங்கள் கிராமம் மற்றும் நகர்ப்புறங்களின் வரைபடமாகும்.",
+    "explanation_en": "Wall maps are maps of rural and urban areas."
+  },
+  {
+    "id": 10,
+    "question": "கண்டங்கள், நாடுகள், பெருநகரங்கள், மற்றும் சிறிய உள்ளூர் பகுதிகள் உட்பட சில குறிப்பிட்ட விவரங்களைக் காட்டி வரையப்படுவது ________ ஆகும்.",
+    "options": [
+      "தல வரைபடம்",
+      "கருத்து வரைபடம்",
+      "சுவர் வரைபடம்",
+      "நிலவரைபடம்"
+    ],
+    "correct": 3,
+    "question_en": "A ________ is a drawing that shows some specific details, including continents, countries, cities, and small local areas.",
+    "options_en": [
+      "Head map",
+      "Concept map",
+      "Wall map",
+      "Land map"
+    ],
+    "explanation": "கண்டங்கள், நாடுகள், பெருநகரங்கள், மற்றும் சிறிய உள்ளூர் பகுதிகள் உட்பட சில குறிப்பிட்ட விவரங்களைக் காட்டி வரையப்படுவது நிலவரைபடம் ஆகும்.",
+    "explanation_en": "A Land map is a drawing that shows some specific details, including continents, countries, cities, and small local areas."
+  },
+  {
+    "id": 11,
+    "question": "ஒரு நாட்டின் மாநில நிர்வாகப் பிரிவுகளைக் காட்டுவது ________ வரைபடமாகும்.",
+    "options": [
+      "அரசியல்",
+      "பொருளாதார",
+      "கருத்து",
+      "போக்குவரத்து"
+    ],
+    "correct": 0,
+    "question_en": "A ________ map showing the state administrative divisions of a country.",
+    "options_en": [
+      "Politics",
+      "economic",
+      "Comment",
+      "Transportation"
+    ],
+    "explanation": "ஒரு நாட்டின் மாநில நிர்வாகப் பிரிவுகளைக் காட்டுவது அரசியல் வரைபடமாகும்.",
+    "explanation_en": "A Politics map showing the state administrative divisions of a country."
+  },
+  {
+    "id": 12,
+    "question": "நிலவரைபடத்தில் பயன்படுத்த வேண்டிய முறைக்குறிகள் மற்றும் குறியீடுகளின் தொகுப்பினைத் ________ துறையானது தயாரித்துள்ளது.",
+    "options": [
+      "இந்திய தொல்லியல்",
+      "இந்திய நில அளவை",
+      "மாநில நில அளவை",
+      "இந்திய வானிலை"
+    ],
+    "correct": 1,
+    "question_en": "A set of symbols and symbols to be used in topographical maps has been prepared by the ________ department.",
+    "options_en": [
+      "Indian Archaeology",
+      "India's land mass",
+      "State land size",
+      "Indian weather"
+    ],
+    "explanation": "நிலவரைபடத்தில் பயன்படுத்த வேண்டிய முறைக்குறிகள் மற்றும் குறியீடுகளின் தொகுப்பினைத் இந்திய நில அளவை துறையானது தயாரித்துள்ளது.",
+    "explanation_en": "A set of symbols and symbols to be used in topographical maps has been prepared by the India's land mass department."
+  },
+  {
+    "id": 13,
+    "question": "ஒவ்வொரு நிலவரைபடமும் தகவல்களை விவரிக்கும் ________ கொண்டிருக்க வேண்டும்.",
+    "options": [
+      "திசை",
+      "அளவை",
+      "தலைப்பு",
+      "குறிப்பு"
+    ],
+    "correct": 2,
+    "question_en": "Every topographic map should have a ________ describing the information.",
+    "options_en": [
+      "Direction",
+      "size",
+      "title",
+      "Note"
+    ],
+    "explanation": "ஒவ்வொரு நிலவரைபடமும் தகவல்களை விவரிக்கும் தலைப்பு கொண்டிருக்க வேண்டும்.",
+    "explanation_en": "Every topographic map should have a title describing the information."
+  },
+  {
+    "id": 14,
+    "question": "நிலவரைபடத்தில் பயன்படுத்தப்படும் பொதுவான சின்னம் மற்றும் குறியீடுகள் ________ அளவில் ஏற்றுக்கொள்ளப்பட்டது.",
+    "options": [
+      "மாநில",
+      "மாவட்ட",
+      "உள்ளூர்",
+      "தேசிய"
+    ],
+    "correct": 3,
+    "question_en": "Common symbols and symbols used in topographical maps are adopted at the ________ scale.",
+    "options_en": [
+      "State",
+      "District",
+      "local",
+      "National"
+    ],
+    "explanation": "நிலவரைபடத்தில் பயன்படுத்தப்படும் பொதுவான சின்னம் மற்றும் குறியீடுகள் தேசிய அளவில் ஏற்றுக்கொள்ளப்பட்டது.",
+    "explanation_en": "Common symbols and symbols used in topographical maps are adopted at the National scale."
+  },
+  {
+    "id": 15,
+    "question": "கூற்று 1: ஒரு இடத்தின் அதிகப்படியான தகவல்களை நிலவரைபடம் வழங்க இயலாது.\nகூற்று 2: நிலவரைபடம் சிறிய மற்றும் பெரிய பரப்பளவைக் காட்டுகிறது.",
+    "options": [
+      "கூற்று 1 சரி, 2 தவறு",
+      "கூற்று 1 தவறு, 2 சரி",
+      "இரண்டும் சரி",
+      "இரண்டு தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Assertion 1: A topographical map cannot provide too much information about a place.\nStatement 2: A topographic map shows small and large areas.",
+    "options_en": [
+      "Statement 1 is true, 2 is false",
+      "Statement 1 is false, 2 is true",
+      "Both are correct",
+      "Two are wrong"
+    ],
+    "explanation": "கூற்று 1 தவறு, 2 சரி",
+    "explanation_en": "Statement 1 is false, 2 is true"
+  },
+  {
+    "id": 16,
+    "question": "கூற்று 1: நிலவரைபடம் என்பது புவியின் இரு பரிமாண அமைப்பு.\nகூற்று 2: புவி மாதிரி என்பது புவியின் முப்பரிமாண அமைப்பு.",
+    "options": [
+      "கூற்று 2 சரி, 1 தவறு",
+      "இரண்டும் தவறு",
+      "கூற்று 1 சரி, 2 தவறு",
+      "இரண்டும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Statement 1: A topography is a two-dimensional structure of the Earth.\nAssertion 2: A geo-model is a three-dimensional structure of the earth.",
+    "options_en": [
+      "Statement 2 is true, 1 is false",
+      "Both are wrong",
+      "Statement 1 is true, 2 is false",
+      "Both are correct"
+    ],
+    "explanation": "இரண்டும் சரி",
+    "explanation_en": "Both are correct"
+  },
+  {
+    "id": 17,
+    "question": "வரிசைப்படுத்துக.",
+    "options": [
+      "தலைப்பு, அளவை, குறிப்பு, திசை",
+      "திசை, குறிப்பு, அளவை, தலைப்பு",
+      "அளவை, தலைப்பு, திசை, குறிப்பு",
+      "தலைப்பு, திசை, அளவை, குறிப்பு"
+    ],
+    "correct": 3,
+    "question_en": "Sort out.",
+    "options_en": [
+      "Title, size, reference, direction",
+      "direction, reference, scale, heading",
+      "Size, Title, Direction, Note",
+      "Title, Direction, Size, Note"
+    ],
+    "explanation": "தலைப்பு, திசை, அளவை, குறிப்பு",
+    "explanation_en": "Title, Direction, Size, Note"
+  },
+  {
+    "id": 18,
+    "question": "கண்டங்கள் அல்லது நாடுகள் போன்ற பெரிய அளவிலான பகுதிகளை ________ கொண்டு வரையப்படும்.",
+    "options": [
+      "சிறிய அளவை",
+      "பெரிய அளவை",
+      "மீட்டர் அளவை",
+      "அட்லஸ்"
+    ],
+    "correct": 0,
+    "question_en": "Large areas such as continents or countries are drawn with ________.",
+    "options_en": [
+      "Small size",
+      "Large size",
+      "Meter size",
+      "Atlas"
+    ],
+    "explanation": "கண்டங்கள் அல்லது நாடுகள் போன்ற பெரிய அளவிலான பகுதிகளை சிறிய அளவை கொண்டு வரையப்படும்.",
+    "explanation_en": "Large areas such as continents or countries are drawn with Small size."
+  },
+  {
+    "id": 19,
+    "question": "குறுகிய பரப்பளவிலான இடங்களைக் குறித்து அதிக விவரங்களை தரும் வரைபடம் ________.",
+    "options": [
+      "அட்லஸ்",
+      "பெரிய அளவை வரைபடம்",
+      "சிறிய அளவை வரைபடம்",
+      "சுவர் வரைபடம்"
+    ],
+    "correct": 1,
+    "question_en": "A map that gives more detail about places in a smaller area is ________.",
+    "options_en": [
+      "Atlas",
+      "Large scale map",
+      "Small scale map",
+      "Wall map"
+    ],
+    "explanation": "குறுகிய பரப்பளவிலான இடங்களைக் குறித்து அதிக விவரங்களை தரும் வரைபடம் பெரிய அளவை வரைபடம்.",
+    "explanation_en": "A map that gives more detail about places in a smaller area is Large scale map."
+  },
+  {
+    "id": 20,
+    "question": "நிலவரைபடத்தை உருவாக்கும் அறிவியல் என்பது ________.",
+    "options": [
+      "பிசியோகிராபி",
+      "கார்டோகிராபி",
+      "ஜியோகிராஃபி",
+      "வானிலையியல்"
+    ],
+    "correct": 1,
+    "question_en": "The science of mapping is ________.",
+    "options_en": [
+      "Physiography",
+      "Cartography",
+      "Geography",
+      "Meteorology"
+    ],
+    "explanation": "நிலவரைபடத்தை உருவாக்கும் அறிவியல் என்பது கார்டோகிராபி.",
+    "explanation_en": "The science of mapping is Cartography."
+  },
+  {
+    "id": 21,
+    "question": "நிலவரைபடங்கள் ________ முன்னறிவிப்பிற்கு பயன்படுகிறது.",
+    "options": [
+      "வானிலை",
+      "மழை",
+      "பனி",
+      "புயல்"
+    ],
+    "correct": 0,
+    "question_en": "Land maps are used for ________ forecasting.",
+    "options_en": [
+      "Weather",
+      "the rain",
+      "Snow",
+      "Storm"
+    ],
+    "explanation": "நிலவரைபடங்கள் வானிலை முன்னறிவிப்பிற்கு பயன்படுகிறது.",
+    "explanation_en": "Land maps are used for Weather forecasting."
+  },
+  {
+    "id": 22,
+    "question": "நிலவரைபடங்கள் இராணுவத்தின் ________ பணியில் முக்கிய பங்கு வகிக்கிறது.",
+    "options": [
+      "பாதுகாப்பு",
+      "திட்டமிடல்",
+      "போர்",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Maps play an important role in the military's ________ mission.",
+    "options_en": [
+      "Security",
+      "planning",
+      "War",
+      "Everything"
+    ],
+    "explanation": "நிலவரைபடங்கள் இராணுவத்தின் திட்டமிடல் பணியில் முக்கிய பங்கு வகிக்கிறது.",
+    "explanation_en": "Maps play an important role in the military's planning mission."
+  },
+  {
+    "id": 23,
+    "question": "வடக்கு, தெற்கு, கிழக்கு மற்றும் மேற்கு ஆகிய நான்கும் ________ திசைகள் ஆகும்.",
+    "options": [
+      "கோணங்கள்",
+      "துணை திசைகள்",
+      "தீர்க்கரேகை",
+      "அடிப்படை"
+    ],
+    "correct": 3,
+    "question_en": "North, South, East and West are the four ________ directions.",
+    "options_en": [
+      "Angles",
+      "Sub-directions",
+      "Longitude",
+      "Basic"
+    ],
+    "explanation": "வடக்கு, தெற்கு, கிழக்கு மற்றும் மேற்கு ஆகிய நான்கும் அடிப்படை திசைகள் ஆகும்.",
+    "explanation_en": "North, South, East and West are the four Basic directions."
+  },
+  {
+    "id": 24,
+    "question": "நிலவரைபடத்தில் இரண்டு இடங்களுக்கிடையே உள்ள தூரத்திற்கும் நிலத்தில் அதே இரண்டு இடங்களுக்கிடையேயுள்ள தூரத்திற்கும் உள்ள விகிதம் ________ எனப்படும்.",
+    "options": [
+      "திசை",
+      "குறிப்பு",
+      "அளவை",
+      "தலைப்பு"
+    ],
+    "correct": 2,
+    "question_en": "The ratio of the distance between two points on a map to the distance between the same two points on land is called ________.",
+    "options_en": [
+      "Direction",
+      "Note",
+      "size",
+      "title"
+    ],
+    "explanation": "நிலவரைபடத்தில் இரண்டு இடங்களுக்கிடையே உள்ள தூரத்திற்கும் நிலத்தில் அதே இரண்டு இடங்களுக்கிடையேயுள்ள தூரத்திற்கும் உள்ள விகிதம் அளவை எனப்படும்.",
+    "explanation_en": "The ratio of the distance between two points on a map to the distance between the same two points on land is called size."
+  },
+  {
+    "id": 25,
+    "question": "புவியியலாளர்களின் ஒரு முக்கிய கருவியாக ________ அமைகிறது.",
+    "options": [
+      "காம்பாஸ்",
+      "சாய்வுமானி",
+      "தல வரைபடம்",
+      "நில வரைபடம்"
+    ],
+    "correct": 3,
+    "question_en": "________ is an important tool of geographers.",
+    "options_en": [
+      "Compass",
+      "Protractor",
+      "Head map",
+      "Land map"
+    ],
+    "explanation": "புவியியலாளர்களின் ஒரு முக்கிய கருவியாக நில வரைபடம் அமைகிறது.",
+    "explanation_en": "Land map is an important tool of geographers."
+  },
+  {
+    "id": 26,
+    "question": "தாதுக்கள், தொழிற்சாலை அமைவிடங்கள், வாணிப வழிகள் மற்றும் பொருள்களை எடுத்துச் செல்லும் வழிகளைப் பற்றி ________ நில வரைபடம் விளக்குகிறது.",
+    "options": [
+      "கருத்து",
+      "கலாச்சார",
+      "போக்குவரத்து",
+      "பொருளாதார"
+    ],
+    "correct": 3,
+    "question_en": "A ________ map describes ores, industrial sites, trade routes, and transportation routes.",
+    "options_en": [
+      "Comment",
+      "Cultural",
+      "Transportation",
+      "economic"
+    ],
+    "explanation": "தாதுக்கள், தொழிற்சாலை அமைவிடங்கள், வாணிப வழிகள் மற்றும் பொருள்களை எடுத்துச் செல்லும் வழிகளைப் பற்றி பொருளாதார நில வரைபடம் விளக்குகிறது.",
+    "explanation_en": "A economic map describes ores, industrial sites, trade routes, and transportation routes."
+  },
+  {
+    "id": 27,
+    "question": "பொருத்துக.\n1. காலநிலை நில வரைபடம் - (a) துறைமுகம்\n2. அரசியல் நில வரைபடம் - (b) ஒப்பு ஈரப்பதம்\n3. போக்குவரத்து நில வரைபடம் - (c) மலைகள்\n4. நிலத்தோற்ற வரைபடம் - (d) மாநில",
+    "options": [
+      "1-(d), 2-(a), 3-(b), 4-(c)",
+      "1-(b), 2-(d), 3-(a), 4-(c)",
+      "1-(c), 2-(a), 3-(d), 4-(b)",
+      "1-(d), 2-(b), 3-(a), 4-(c)"
+    ],
+    "correct": 1,
+    "question_en": "match\n1. Climatic topography – (a) Port\n2. Political Topography – (b) Agreeable humidity\n3. Transport Topography – (c) Hills\n4. Topographic Map – (d) State",
+    "options_en": [
+      "1-(d), 2-(a), 3-(b), 4-(c)",
+      "1-(b), 2-(d), 3-(a), 4-(c)",
+      "1-(c), 2-(a), 3-(d), 4-(b)",
+      "1-(d), 2-(b), 3-(a), 4-(c)"
+    ],
+    "explanation": "1-(b), 2-(d), 3-(a), 4-(c)",
+    "explanation_en": "1-(b), 2-(d), 3-(a), 4-(c)"
+  },
+  {
+    "id": 28,
+    "question": "நாடுகள் குறித்து அதிக விவரங்களை உள்ளடக்கிய வகையில் ________ நில வரைபட நூல் தயாரிக்கப்படுகிறது.",
+    "options": [
+      "பள்ளி",
+      "தேசிய",
+      "வட்டார",
+      "புவியியல்"
+    ],
+    "correct": 1,
+    "question_en": "A ________ map book is prepared to cover more details about the countries.",
+    "options_en": [
+      "School",
+      "National",
+      "Regional",
+      "Geography"
+    ],
+    "explanation": "நாடுகள் குறித்து அதிக விவரங்களை உள்ளடக்கிய வகையில் தேசிய நில வரைபட நூல் தயாரிக்கப்படுகிறது.",
+    "explanation_en": "A National map book is prepared to cover more details about the countries."
+  },
+  {
+    "id": 29,
+    "question": "கூற்று 1: முற்காலத்தில் நிலவரைபடம் தயாரிக்க துணிகள், பாப்பிரஸ், ஈரநிலம் மற்றும் களிமண் பயன்படுத்தப்பட்டன.\nகூற்று 2: ஒவ்வொரு நிலவரைபடமும் அதன் வடிவமைப்பு, பொருளடக்கம் மற்றும் கட்டமைப்பில் தனித்துவமுடையது.",
+    "options": [
+      "கூற்று 1 சரி, 2 தவறு",
+      "கூற்று 2 சரி, 1 தவறு",
+      "இரண்டும் சரி",
+      "இரண்டு தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion 1: Cloth, papyrus, wetland and clay were used to make maps in earlier times.\nAssertion 2: Every topography is unique in its design, content and structure.",
+    "options_en": [
+      "Statement 1 is true, 2 is false",
+      "Statement 2 is true, 1 is false",
+      "Both are correct",
+      "Two are wrong"
+    ],
+    "explanation": "இரண்டும் சரி",
+    "explanation_en": "Both are correct"
+  },
+  {
+    "id": 30,
+    "question": "கலாச்சார நில வரைபடங்கள் என்பது ________ அமைப்புகளைக் காட்டுவதாகும்.",
+    "options": [
+      "மனிதனால் உருவாக்கப்பட்ட",
+      "நிலத்தோற்றம்",
+      "இயற்கையான",
+      "வானிலை"
+    ],
+    "correct": 0,
+    "question_en": "Cultural maps are meant to show ________ systems.",
+    "options_en": [
+      "Man-made",
+      "Earthquake",
+      "Natural",
+      "Weather"
+    ],
+    "explanation": "கலாச்சார நில வரைபடங்கள் என்பது மனிதனால் உருவாக்கப்பட்ட அமைப்புகளைக் காட்டுவதாகும்.",
+    "explanation_en": "Cultural maps are meant to show Man-made systems."
+  },
+  {
+    "id": 31,
+    "question": "மனிதனால் விரிவாக்கப்பட்ட அமைப்புகளைக் காட்டுவது ________.",
+    "options": [
+      "மண் நிலவரைபடம்",
+      "அரசியல் நிலவரைபடம்",
+      "கலாச்சார நிலவரைபடம்",
+      "பள்ளி நிலவரைபடம்"
+    ],
+    "correct": 2,
+    "question_en": "Showing human-enhanced systems is ________.",
+    "options_en": [
+      "Soil map",
+      "Political map",
+      "Cultural geography",
+      "School map"
+    ],
+    "explanation": "மனிதனால் விரிவாக்கப்பட்ட அமைப்புகளைக் காட்டுவது கலாச்சார நிலவரைபடம்.",
+    "explanation_en": "Showing human-enhanced systems is Cultural geography."
+  },
+  {
+    "id": 32,
+    "question": "நில வரைபடம் தயாரிக்க முதன்முதலில் பயன்படுத்தப்பட்டவை ________.",
+    "options": [
+      "விலங்குகள் தோல்",
+      "செப்பேடுகள்",
+      "காகிதம்",
+      "மண்தூள்"
+    ],
+    "correct": 0,
+    "question_en": "________ were first used to make land maps.",
+    "options_en": [
+      "Animal skin",
+      "Chests",
+      "Paper",
+      "dust"
+    ],
+    "explanation": "நில வரைபடம் தயாரிக்க முதன்முதலில் பயன்படுத்தப்பட்டவை விலங்குகள் தோல்.",
+    "explanation_en": "Animal skin were first used to make land maps."
+  },
+  {
+    "id": 33,
+    "question": "ஒரு குறிப்பிட்ட சிறிய பரப்புடைய இடத்தைப் பற்றிய அதிக விவரங்களை பெற உதவுபவை ________.",
+    "options": [
+      "அட்லஸ்",
+      "உலக உருண்டை",
+      "சிறிய அளவை வரைபடம்",
+      "பெரிய அளவை வரைபடம்"
+    ],
+    "correct": 3,
+    "question_en": "________ are those that help us get more details about a specific small area.",
+    "options_en": [
+      "Atlas",
+      "Globe",
+      "Small scale map",
+      "Large scale map"
+    ],
+    "explanation": "ஒரு குறிப்பிட்ட சிறிய பரப்புடைய இடத்தைப் பற்றிய அதிக விவரங்களை பெற உதவுபவை பெரிய அளவை வரைபடம்.",
+    "explanation_en": "Large scale map are those that help us get more details about a specific small area."
+  },
+  {
+    "id": 34,
+    "question": "1 செ.மீ = 200 கி.மீ என்பது ஒரு ________.",
+    "options": [
+      "சிறிய அளவு வரைபடம்",
+      "பெரிய அளவு வரைபடம்",
+      "தல அளவை வரைபடம்",
+      "அளவை சாராது"
+    ],
+    "correct": 0,
+    "question_en": "1 cm = 200 km is a ________.",
+    "options_en": [
+      "Small scale map",
+      "Large size map",
+      "Head size chart",
+      "Regardless of size"
+    ],
+    "explanation": "1 செ.மீ = 200 கி.மீ என்பது ஒரு சிறிய அளவு வரைபடம்.",
+    "explanation_en": "1 cm = 200 km is a Small scale map."
+  },
+  {
+    "id": 35,
+    "question": "காடுகளின் பரவலை மட்டும் ஒரு நில வரைபடம் மூலம் அறிந்து கொண்டால் அவ்வரைபடம் ________.",
+    "options": [
+      "இயற்கை அமைப்பு நில வரைபடம்",
+      "கருத்து நில வரைபடம்",
+      "புவியியல் நில வரைபடம்",
+      "மண் நில வரைபடம்"
+    ],
+    "correct": 1,
+    "question_en": "If only the distribution of forests is known through a map, then the map is ________.",
+    "options_en": [
+      "Landscape map",
+      "Concept map",
+      "Geographical map",
+      "Soil map"
+    ],
+    "explanation": "காடுகளின் பரவலை மட்டும் ஒரு நில வரைபடம் மூலம் அறிந்து கொண்டால் அவ்வரைபடம் கருத்து நில வரைபடம்.",
+    "explanation_en": "If only the distribution of forests is known through a map, then the map is Concept map."
+  },
+  {
+    "id": 36,
+    "question": "நில வரைபடத்தில் கொடுக்கப்பட்டுள்ள விவரத்தைத் தெளிவாக புரிந்து கொள்ள உதவுவது ________.",
+    "options": [
+      "தலைப்பு",
+      "அளவை",
+      "திசைகள்",
+      "குறிப்பு"
+    ],
+    "correct": 1,
+    "question_en": "________ helps to clearly understand the detail given in the land map.",
+    "options_en": [
+      "title",
+      "size",
+      "directions",
+      "Note"
+    ],
+    "explanation": "நில வரைபடத்தில் கொடுக்கப்பட்டுள்ள விவரத்தைத் தெளிவாக புரிந்து கொள்ள உதவுவது அளவை.",
+    "explanation_en": "size helps to clearly understand the detail given in the land map."
+  },
+  {
+    "id": 37,
+    "question": "வானிலை சூழ்நிலையைக் குறித்து அறிய உதவும் நில வரைபடம் ________.",
+    "options": [
+      "புவியியல்",
+      "காலநிலை",
+      "மண்",
+      "கலாச்சாரம்"
+    ],
+    "correct": 1,
+    "question_en": "A topographical map helps to know the weather conditions ________.",
+    "options_en": [
+      "Geography",
+      "Climate",
+      "Soil",
+      "Culture"
+    ],
+    "explanation": "வானிலை சூழ்நிலையைக் குறித்து அறிய உதவும் நில வரைபடம் காலநிலை.",
+    "explanation_en": "A topographical map helps to know the weather conditions Climate."
+  },
+  {
+    "id": 38,
+    "question": "பின்வருவனவற்றுள் பிரதான சாலையைக் குறிக்கும் நிறம் ________.",
+    "options": [
+      "சிவப்பு",
+      "பழுப்பு",
+      "கருப்பு",
+      "மஞ்சள்"
+    ],
+    "correct": 0,
+    "question_en": "Among the following the color representing the main road is ________.",
+    "options_en": [
+      "Red",
+      "brown",
+      "Black",
+      "Yellow"
+    ],
+    "explanation": "பின்வருவனவற்றுள் பிரதான சாலையைக் குறிக்கும் நிறம் சிவப்பு.",
+    "explanation_en": "Among the following the color representing the main road is Red."
+  },
+  {
+    "id": 39,
+    "question": "நாட்டின் தலைநகரத்தைக் குறிக்கும் குறியீடு ________.",
+    "options": [
+      "முக்கோணம்",
+      "வட்டம்",
+      "சதுரத்திற்குள் வட்டம்",
+      "அலை அலையான கோடு"
+    ],
+    "correct": 2,
+    "question_en": "The symbol for the country's capital is ________.",
+    "options_en": [
+      "Triangle",
+      "Circle",
+      "A circle within a square",
+      "Wavy line"
+    ],
+    "explanation": "நாட்டின் தலைநகரத்தைக் குறிக்கும் குறியீடு சதுரத்திற்குள் வட்டம்.",
+    "explanation_en": "The symbol for the country's capital is A circle within a square."
+  }
+]

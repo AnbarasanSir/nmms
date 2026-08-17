@@ -1,0 +1,1522 @@
+[
+  {
+    "id": 1,
+    "question": "பட்டு நெசவு மற்றும் வீட்டு உபயோகப் பொருட்கள் சார்ந்த தொழிலகங்கள் ________ பிரிவுகளின் கீழ் வருகின்றன.",
+    "options": [
+      "சிறிய அளவிலான தொழிலகம்",
+      "பெரிய அளவிலான தொழிலகம்",
+      "கடல்வளம் சார்ந்த தொழிலகம்",
+      "மூலதனம் சார்ந்த தொழிலகம்"
+    ],
+    "correct": 0,
+    "question_en": "Silk weaving and household goods industries come under the category of ________.",
+    "options_en": [
+      "Small scale industries",
+      "Large scale industries",
+      "Marine based industries",
+      "Capital intensive industries"
+    ],
+    "explanation": "பட்டு நெசவு மற்றும் வீட்டு உபயோகப் பொருட்கள் சார்ந்த தொழிலகங்கள் சிறிய அளவிலான தொழிலகம் பிரிவுகளின் கீழ் வருகின்றன.",
+    "explanation_en": "Silk weaving and household goods industries come under the category of Small scale industries."
+  },
+  {
+    "id": 2,
+    "question": "உடைமையாளர்கள் அடிப்படையிலான தொழிலகங்கள் ________ வகைகளாகப் பிரிக்கப்பட்டுள்ளன.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "question_en": "On the basis of ownership, industries are classified into ________ types.",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "உடைமையாளர்கள் அடிப்படையிலான தொழிலகங்கள் 4 வகைகளாகப் பிரிக்கப்பட்டுள்ளன.",
+    "explanation_en": "On the basis of ownership, industries are classified into 4 types."
+  },
+  {
+    "id": 3,
+    "question": "ஆனந்த் பால் பண்ணைத் தொழிலகம் (அமுல்) ________ துறைக்குச் சிறந்த எடுத்துக் காட்டாகும்.",
+    "options": [
+      "தனியார் துறை",
+      "பொதுத்துறை",
+      "கூட்டுறவுத் துறை",
+      "கூட்டுத்துறை"
+    ],
+    "correct": 2,
+    "question_en": "Anand Milk Union Limited (AMUL) is the best example of the ________ sector.",
+    "options_en": [
+      "Private sector",
+      "Public sector",
+      "Co-operative sector",
+      "Joint sector"
+    ],
+    "explanation": "ஆனந்த் பால் பண்ணைத் தொழிலகம் (அமுல்) கூட்டுறவுத் துறை துறைக்குச் சிறந்த எடுத்துக் காட்டாகும்.",
+    "explanation_en": "Anand Milk Union Limited (AMUL) is the best example of the Co-operative sector sector."
+  },
+  {
+    "id": 4,
+    "question": "இரும்பு எஃகு மற்றும் சிமெண்ட் தொழிலகங்கள் ________ தொழிலகங்களுக்குச் சிறந்த எடுத்துக்காட்டாகும்.",
+    "options": [
+      "வேளாண் சார்ந்த",
+      "கனிம வளம் சார்ந்த",
+      "வனப் பொருட்கள் சார்ந்த",
+      "கடல் வளம் சார்ந்த"
+    ],
+    "correct": 1,
+    "question_en": "Iron and steel and cement industries are the best examples of ________ industries.",
+    "options_en": [
+      "Agro based",
+      "Mineral based",
+      "Forest based",
+      "Marine based"
+    ],
+    "explanation": "இரும்பு எஃகு மற்றும் சிமெண்ட் தொழிலகங்கள் கனிம வளம் சார்ந்த தொழிலகங்களுக்குச் சிறந்த எடுத்துக்காட்டாகும்.",
+    "explanation_en": "Iron and steel and cement industries are the best examples of Mineral based industries."
+  },
+  {
+    "id": 5,
+    "question": "சார்புத் துறை ________ வகைகளாகப் பிரிக்கப்பட்டுள்ளது.",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correct": 2,
+    "question_en": "The tertiary (services) sector is divided into ________ types.",
+    "options_en": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "explanation": "சார்புத் துறை 2 வகைகளாகப் பிரிக்கப்பட்டுள்ளது.",
+    "explanation_en": "The tertiary (services) sector is divided into 2 types."
+  },
+  {
+    "id": 6,
+    "question": "வங்கித் துறை என்பது ________ பொருளாதார நடவடிக்கையாகும்.",
+    "options": [
+      "முதல் நிலை",
+      "இரண்டாம் நிலை",
+      "மூன்றாம் நிலை",
+      "நான்காம் நிலை"
+    ],
+    "correct": 3,
+    "question_en": "The banking sector is a ________ economic activity.",
+    "options_en": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Quaternary"
+    ],
+    "explanation": "வங்கித் துறை என்பது நான்காம் நிலை பொருளாதார நடவடிக்கையாகும்.",
+    "explanation_en": "The banking sector is a Quaternary economic activity."
+  },
+  {
+    "id": 7,
+    "question": "மூன்றாம் நிலை தொழில்கள் ________ மற்றும் ________ ஆக வகைப்படுத்தப்படுகிறது.",
+    "options": [
+      "i மற்றும் ii",
+      "iii மற்றும் ii",
+      "iii மற்றும் iv",
+      "iv மற்றும் ii"
+    ],
+    "correct": 2,
+    "question_en": "Tertiary activities are classified into ________ and ________.",
+    "options_en": [
+      "i and ii",
+      "iii and ii",
+      "iii and iv",
+      "iv and ii"
+    ],
+    "explanation": "மூன்றாம் நிலை தொழில்கள் iii மற்றும் iv மற்றும் iii மற்றும் iv ஆக வகைப்படுத்தப்படுகிறது.",
+    "explanation_en": "Tertiary activities are classified into iii and iv and iii and iv."
+  },
+  {
+    "id": 8,
+    "question": "அரசாங்க முடிவு எடுக்கும் செயல்முறைகள் ________ துறையின் கீழ்வரும் மூன்றாம் நிலை செயல்பாடாகும்.",
+    "options": [
+      "ஐந்தாம் நிலை",
+      "நான்காம் நிலை",
+      "மேற்கண்ட இரண்டும்",
+      "இவை எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Government decision-making processes are a tertiary activity that comes under the ________ sector.",
+    "options_en": [
+      "Quinary",
+      "Quaternary",
+      "Both of the above",
+      "None of these"
+    ],
+    "explanation": "அரசாங்க முடிவு எடுக்கும் செயல்முறைகள் ஐந்தாம் நிலை துறையின் கீழ்வரும் மூன்றாம் நிலை செயல்பாடாகும்.",
+    "explanation_en": "Government decision-making processes are a tertiary activity that comes under the Quinary sector."
+  },
+  {
+    "id": 9,
+    "question": "மூலப்பொருட்கள் அடிப்படையில் பருத்தி நெசவாலை ஒரு ________ தொழிலாகும்.",
+    "options": [
+      "வேளாண் சார்ந்த",
+      "கனிம வளம் சார்ந்த",
+      "வனப் பொருட்கள் சார்ந்த",
+      "கடல் வளம் சார்ந்த"
+    ],
+    "correct": 0,
+    "question_en": "On the basis of raw materials, cotton textile is an ________ industry.",
+    "options_en": [
+      "Agro based",
+      "Mineral based",
+      "Forest based",
+      "Marine based"
+    ],
+    "explanation": "மூலப்பொருட்கள் அடிப்படையில் பருத்தி நெசவாலை ஒரு வேளாண் சார்ந்த தொழிலாகும்.",
+    "explanation_en": "On the basis of raw materials, cotton textile is an Agro based industry."
+  },
+  {
+    "id": 10,
+    "question": "பெரிய அளவிலான தொழிற்சாலையை நிறுவுவதற்குத் தேவையான மூலதனம் ________ ஆகும்.",
+    "options": [
+      "≥10,000,000",
+      "1,000,000",
+      ">1,000,000",
+      "<10,000,000"
+    ],
+    "correct": 0,
+    "question_en": "The capital required to establish a large-scale industry is ________.",
+    "options_en": [
+      "≥10,000,000",
+      "1,000,000",
+      ">1,000,000",
+      "<10,000,000"
+    ],
+    "explanation": "பெரிய அளவிலான தொழிற்சாலையை நிறுவுவதற்குத் தேவையான மூலதனம் ≥10,000,000 ஆகும்.",
+    "explanation_en": "The capital required to establish a large-scale industry is ≥10,000,000."
+  },
+  {
+    "id": 11,
+    "question": "ஆனந்த் பால் ஒன்றிய நிறுவனம் ________ துறைக்குச் சான்றாகும்.",
+    "options": [
+      "கூட்டுறவுத் துறை",
+      "தனியார் துறை",
+      "கூட்டுத் துறை",
+      "அரசுத் துறை"
+    ],
+    "correct": 3,
+    "question_en": "Anand Milk Union Limited is an example of the ________ sector.",
+    "options_en": [
+      "Co-operative sector",
+      "Private sector",
+      "Joint sector",
+      "Public sector"
+    ],
+    "explanation": "ஆனந்த் பால் ஒன்றிய நிறுவனம் அரசுத் துறை துறைக்குச் சான்றாகும்.",
+    "explanation_en": "Anand Milk Union Limited is an example of the Public sector sector."
+  },
+  {
+    "id": 12,
+    "question": "பொருத்துக.\nஅ) நீதித்துறை - i) தனியார் துறை\nஆ) தொலைக்காட்சி ஒளிபரப்பு - ii) புவியியல் அல்லாத காரணிகள்\nஇ) புவியியல் காரணிகள் - iii) நான்காம் நிலை செயல்பாடு\nஈ) மூலதனம் - iv) மூலப்பொருட்கள்\nஉ) Bajaj Auto - v) ஐந்தாம் நிலை செயல்பாடுகள்",
+    "options": [
+      "அ - ii, ஆ - iii, இ - v, ஈ - iv, உ - i",
+      "அ - v, ஆ - ii, இ - iv, ஈ - i, உ - iii",
+      "அ - ii, ஆ - iii, இ - iv, ஈ - i, உ - v",
+      "அ - v, ஆ - iii, இ - iv, ஈ - ii, உ - i"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\na) Judicial sector - i) Private sector\nb) Television broadcasting - ii) Non-geographical factors\nc) Geographical factors - iii) Quaternary activity\nd) Capital - iv) Raw materials\ne) Bajaj Auto - v) Quinary activities",
+    "options_en": [
+      "a - ii, b - iii, c - v, d - iv, e - i",
+      "a - v, b - ii, c - iv, d - i, e - iii",
+      "a - ii, b - iii, c - iv, d - i, e - v",
+      "a - v, b - iii, c - iv, d - ii, e - i"
+    ],
+    "explanation": "அ - v, ஆ - iii, இ - iv, ஈ - ii, உ - i",
+    "explanation_en": "a - v, b - iii, c - iv, d - ii, e - i"
+  },
+  {
+    "id": 13,
+    "question": "தொழிற்துறை ஒரு ________ பொருளாதார நடவடிக்கை சார்ந்தது.",
+    "options": [
+      "மூன்றாம் நிலை",
+      "நான்காம் நிலை",
+      "ஐந்தாம் நிலை",
+      "இரண்டாம் நிலை"
+    ],
+    "correct": 2,
+    "question_en": "Industry belongs to a ________ economic activity.",
+    "options_en": [
+      "Tertiary",
+      "Quaternary",
+      "Quinary",
+      "Secondary"
+    ],
+    "explanation": "தொழிற்துறை ஒரு ஐந்தாம் நிலை பொருளாதார நடவடிக்கை சார்ந்தது.",
+    "explanation_en": "Industry belongs to a Quinary economic activity."
+  },
+  {
+    "id": 14,
+    "question": "கடல் மற்றும் பெருங்கடல் சார்ந்த பொருட்களை மூலப்பொருட்களாகப் பயன்படுத்துவது ________.",
+    "options": [
+      "கடல்சார்ந்த தொழிலகங்கள்",
+      "வனவளம் சார்ந்த தொழிலகங்கள்",
+      "வேளாண் சார்ந்த தொழிலகங்கள்",
+      "கனிமவளம் சார்ந்த தொழிலகங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Using sea and ocean-based products as raw materials is known as ________.",
+    "options_en": [
+      "Marine based industries",
+      "Forest based industries",
+      "Agro based industries",
+      "Mineral based industries"
+    ],
+    "explanation": "கடல் மற்றும் பெருங்கடல் சார்ந்த பொருட்களை மூலப்பொருட்களாகப் பயன்படுத்துவது கடல்சார்ந்த தொழிலகங்கள்.",
+    "explanation_en": "Using sea and ocean-based products as raw materials is known as Marine based industries."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்க்கண்ட 4 கூற்றுகளைப் படித்து விடையளிக்கவும்.\nA) இந்தியாவின் டெட்ராய்ட் சென்னை ஆகும்.\nB) சென்னை நகரம் உலக பாரம்பரிய வாகன தொழில் மையமாக அறியப்படுகிறது.\nC) சென்னை நாட்டின் வாகன தொழில் ஏற்றுமதியில் 60% பங்கினைக் கொண்டுள்ளது.\nD) சென்னையில் உலக புகழ்பெற்ற நிறுவனங்களான பஜாஜ் ஆட்டோ, மாருதி உத்யோக் ஆகியவை அமைந்துள்ளன.",
+    "options": [
+      "B ஐத் தவிர அனைத்தும் சரி",
+      "C சரி ஆனால் B தவறு",
+      "A சரி அதற்கான காரணம்",
+      "A ஐத் தவிர அனைத்தும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Read the following 4 statements and answer.\nA) Detroit of India is Chennai.\nB) Chennai city is known as the traditional global automobile industrial center.\nC) Chennai accounts for 60% of the country's automotive exports.\nD) World famous companies like Bajaj Auto and Maruti Udyog are located in Chennai.",
+    "options_en": [
+      "All are correct except B",
+      "C is correct but B is wrong",
+      "A is correct and its reason",
+      "All are wrong except A"
+    ],
+    "explanation": "B ஐத் தவிர அனைத்தும் சரி",
+    "explanation_en": "All are correct except B"
+  },
+  {
+    "id": 16,
+    "question": "இந்திய மொத்த உள்நாட்டு உற்பத்தியில் ________ துறை 53% பங்கு வகிக்கிறது.",
+    "options": [
+      "சேவை",
+      "இரண்டாம் நிலை",
+      "முதன்மை",
+      "வாகன உற்பத்தி"
+    ],
+    "correct": 0,
+    "question_en": "The ________ sector accounts for 53% of India's Gross Domestic Product (GDP).",
+    "options_en": [
+      "Service",
+      "Secondary",
+      "Primary",
+      "Automobile manufacturing"
+    ],
+    "explanation": "இந்திய மொத்த உள்நாட்டு உற்பத்தியில் சேவை துறை 53% பங்கு வகிக்கிறது.",
+    "explanation_en": "The Service sector accounts for 53% of India's Gross Domestic Product (GDP)."
+  },
+  {
+    "id": 17,
+    "question": "பருத்தி ஜவுளித் தொழிலுக்கு ________, ________ காலநிலை உகந்தது.\nA) குளிரான, B) வெப்பமான, C) ஈரப்பதமான, D) வறண்ட",
+    "options": [
+      "A மற்றும் B",
+      "A மற்றும் C",
+      "B மற்றும் D",
+      "C மற்றும் D"
+    ],
+    "correct": 1,
+    "question_en": "________, ________ climate is suitable for the cotton textile industry.\nA) Cool, B) Hot, C) Humid, D) Dry",
+    "options_en": [
+      "A and B",
+      "A and C",
+      "B and D",
+      "C and D"
+    ],
+    "explanation": "பருத்தி ஜவுளித் தொழிலுக்கு A மற்றும் C, A மற்றும் C காலநிலை உகந்தது.\nA) குளிரான, B) வெப்பமான, C) ஈரப்பதமான, D) வறண்ட",
+    "explanation_en": "A and C, A and C climate is suitable for the cotton textile industry.\nA) Cool, B) Hot, C) Humid, D) Dry"
+  },
+  {
+    "id": 18,
+    "question": "உலக பாரம்பரிய வாகன தொழில் மையம் என்று அழைக்கப்படுவது ________.",
+    "options": [
+      "சென்னை",
+      "டெட்ராய்ட்",
+      "ஜப்பான்",
+      "மைசூர்"
+    ],
+    "correct": 1,
+    "question_en": "Which is called the world's traditional automobile industrial center?",
+    "options_en": [
+      "Chennai",
+      "Detroit",
+      "Japan",
+      "Mysore"
+    ],
+    "explanation": "உலக பாரம்பரிய வாகன தொழில் மையம் என்று அழைக்கப்படுவது டெட்ராய்ட்.",
+    "explanation_en": "Detroit is called the world's traditional automobile industrial center."
+  },
+  {
+    "id": 19,
+    "question": "________ தொழிலகங்கள் தனிநபர் மற்றும் தனிநபர் குழுக்களால் இயக்கப்படுகிறது.",
+    "options": [
+      "தனியார் துறை",
+      "பொதுத்துறை",
+      "கூட்டுறவுத்துறை",
+      "கூட்டுத்துறை"
+    ],
+    "correct": 0,
+    "question_en": "________ industries are owned and operated by individuals or a group of individuals.",
+    "options_en": [
+      "Private sector",
+      "Public sector",
+      "Co-operative sector",
+      "Joint sector"
+    ],
+    "explanation": "தனியார் துறை தொழிலகங்கள் தனிநபர் மற்றும் தனிநபர் குழுக்களால் இயக்கப்படுகிறது.",
+    "explanation_en": "Private sector industries are owned and operated by individuals or a group of individuals."
+  },
+  {
+    "id": 20,
+    "question": "ஒரு நாட்டின் பொருளாதார வலிமை ________ வளர்ச்சியால் அளவிடப்படுகிறது.",
+    "options": [
+      "விவசாயம்",
+      "தொழிலகங்கள்",
+      "கல்வி",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "The economic strength of a country is measured by the development of ________.",
+    "options_en": [
+      "Agriculture",
+      "Industries",
+      "Education",
+      "All of these"
+    ],
+    "explanation": "ஒரு நாட்டின் பொருளாதார வலிமை தொழிலகங்கள் வளர்ச்சியால் அளவிடப்படுகிறது.",
+    "explanation_en": "The economic strength of a country is measured by the development of Industries."
+  },
+  {
+    "id": 21,
+    "question": "இரண்டாம் நிலை செயல்பாடுகளுள் சரியான வரிசை எது?\nA. முறைப்படுத்துதல், B. முடிவுற்ற பொருள்கள் வெளியீடு, C. உள்ளீடு",
+    "options": [
+      "A, B, C",
+      "C, B, A",
+      "B, A, C",
+      "C, A, B"
+    ],
+    "correct": 3,
+    "question_en": "Which is the correct sequence in secondary activities?\nA. Processing, B. Output of finished goods, C. Input",
+    "options_en": [
+      "A, B, C",
+      "C, B, A",
+      "B, A, C",
+      "C, A, B"
+    ],
+    "explanation": "இரண்டாம் நிலை செயல்பாடுகளுள் சரியான வரிசை C, A, B ஆகும்.\nA. முறைப்படுத்துதல், B. முடிவுற்ற பொருள்கள் வெளியீடு, C. உள்ளீடு",
+    "explanation_en": "C, A, B is the correct sequence in secondary activities.\nA. Processing, B. Output of finished goods, C. Input"
+  },
+  {
+    "id": 22,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடு.",
+    "options": [
+      "AMUL",
+      "HAL",
+      "SAIL",
+      "BHEL"
+    ],
+    "correct": 0,
+    "question_en": "Choose the odd one out.",
+    "options_en": [
+      "AMUL",
+      "HAL",
+      "SAIL",
+      "BHEL"
+    ],
+    "explanation": "AMUL",
+    "explanation_en": "AMUL"
+  },
+  {
+    "id": 23,
+    "question": "மூலப்பொருட்களை முடிவுற்ற பொருட்களாக மாற்றும் இடம் ________.",
+    "options": [
+      "கிடங்கு",
+      "தொழிற்சாலை",
+      "அமைச்சரவை",
+      "சந்தை"
+    ],
+    "correct": 1,
+    "question_en": "The place where raw materials are converted into finished goods is ________.",
+    "options_en": [
+      "Warehouse",
+      "Factory",
+      "Cabinet",
+      "Market"
+    ],
+    "explanation": "மூலப்பொருட்களை முடிவுற்ற பொருட்களாக மாற்றும் இடம் தொழிற்சாலை.",
+    "explanation_en": "The place where raw materials are converted into finished goods is Factory."
+  },
+  {
+    "id": 24,
+    "question": "மூலப்பொருட்களை _____ பொருட்களாக மாற்ற வேண்டும்.",
+    "options": [
+      "சேவை",
+      "கனிம",
+      "நுகர்வு",
+      "உற்பத்தி"
+    ],
+    "correct": 2,
+    "question_en": "Raw materials should be converted into _____ goods.",
+    "options_en": [
+      "Service",
+      "Mineral",
+      "Consumer",
+      "Production"
+    ],
+    "explanation": "மூலப்பொருட்களை நுகர்வு பொருட்களாக மாற்ற வேண்டும்.",
+    "explanation_en": "Raw materials should be converted into Consumer goods."
+  },
+  {
+    "id": 25,
+    "question": "கீழ்க்கண்டவற்றில் தவறான கூற்று எது?",
+    "options": [
+      "மூலப்பொருட்களை நுகர்வு பொருட்களாக மாற்றுவதே உற்பத்தித் தொழிற்சாலையின் சாராம்சம் ஆகும்.",
+      "இயற்கையிலிருந்து நேரடியாக வளங்களைப் பெற்று மனிதர்கள் தங்கள் தேவைகளைப் பூர்த்தி செய்துகொள்ளும் தொழிலை முதல்நிலைத் தொழில் என்கிறோம்.",
+      "சுரங்கத்திலிருந்து இரும்புத்தாது வெட்டியெடுப்பது இரண்டாம் நிலைத் தொழில் ஆகும்.",
+      "நான்காம் நிலைத் தொழில் அறிவார்ந்த நடவடிக்கைகளை உள்ளடக்கியது."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is an incorrect statement?",
+    "options_en": [
+      "Converting raw materials into consumer goods is the essence of manufacturing.",
+      "The activity where humans obtain resources directly from nature to meet their needs is called primary activity.",
+      "Mining iron ore from a mine is a secondary activity.",
+      "Quaternary activity involves knowledge-based activities."
+    ],
+    "explanation": "சுரங்கத்திலிருந்து இரும்புத்தாது வெட்டியெடுப்பது இரண்டாம் நிலைத் தொழில் ஆகும்.",
+    "explanation_en": "Mining iron ore from a mine is a secondary activity. is an incorrect statement."
+  },
+  {
+    "id": 26,
+    "question": "பின்வருவனவற்றில் எது பொருளாதார நடவடிக்கை?",
+    "options": [
+      "விநியோகம்",
+      "உற்பத்தி",
+      "நுகர்வு",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is an economic activity?",
+    "options_en": [
+      "Distribution",
+      "Production",
+      "Consumption",
+      "All of these"
+    ],
+    "explanation": "இவை அனைத்தும்",
+    "explanation_en": "All of these is an economic activity."
+  },
+  {
+    "id": 27,
+    "question": "தவறான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "முதன்மை நிலை பொருளாதார நடவடிக்கை - உழவுத் தொழில்",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை - செங்கல் தயாரித்தல்",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை - அறுவை சிகிச்சை நிபுணர்",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை - கல்வி அமைச்சர்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the incorrect pair.",
+    "options_en": [
+      "Primary economic activity - Agriculture",
+      "Secondary economic activity - Brick making",
+      "Tertiary economic activity - Surgeon",
+      "Quaternary economic activity - Education Minister"
+    ],
+    "explanation": "நான்காம் நிலை பொருளாதார நடவடிக்கை - கல்வி அமைச்சர்",
+    "explanation_en": "Quaternary economic activity - Education Minister"
+  },
+  {
+    "id": 28,
+    "question": "ரவி தன் தொலைக்காட்சியில் '18 வயதிற்கு மேற்பட்ட அனைவருக்கும் தடுப்பூசி இலவசம்' என்று பிரதமர் அறிவிப்பதைக் காண்கிறார். அடுத்த நாள் ஆரம்ப சுகாதார நிலையம் சென்று தடுப்பூசி செலுத்திக் கொள்கிறார். வரும் வழியில் கரும்பிலிருந்து கரும்புச்சாறு தயாரிப்பதைக் காண்கிறார். உடனே சென்று ஒரு குவளை கரும்புச்சாறு அருந்துகிறார். - மேற்கண்ட தொடரில் இடம்பெறாத பொருளாதார நடவடிக்கை எது?",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 0,
+    "question_en": "Ravi watches the Prime Minister announce on TV that 'Vaccination is free for all above 18 years'. The next day, he goes to the primary health center and gets vaccinated. On his way back, he sees sugarcane juice being made from sugarcane. He immediately goes and drinks a glass of sugarcane juice. - Which economic activity is not present in the above passage?",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "ரவி தன் தொலைக்காட்சியில் '18 வயதிற்கு மேற்பட்ட அனைவருக்கும் தடுப்பூசி இலவசம்' என்று பிரதமர் அறிவிப்பதைக் காண்கிறார். அடுத்த நாள் ஆரம்ப சுகாதார நிலையம் சென்று தடுப்பூசி செலுத்திக் கொள்கிறார். வரும் வழியில் கரும்பிலிருந்து கரும்புச்சாறு தயாரிப்பதைக் காண்கிறார். உடனே சென்று ஒரு குவளை கரும்புச்சாறு அருந்துகிறார். - மேற்கண்ட தொடரில் இடம்பெறாத பொருளாதார நடவடிக்கை முதல்நிலை பொருளாதார நடவடிக்கை ஆகும்.",
+    "explanation_en": "Primary economic activity"
+  },
+  {
+    "id": 29,
+    "question": "பொருத்தமற்ற ஒன்றைத் தேர்ந்தெடு.",
+    "options": [
+      "கால்நடை மேய்த்தல்",
+      "கல் உடைத்தல்",
+      "ரொட்டி தயாரித்தல்",
+      "தேன் எடுத்தல்"
+    ],
+    "correct": 2,
+    "question_en": "Choose the odd one out.",
+    "options_en": [
+      "Cattle rearing",
+      "Stone quarrying/crushing",
+      "Bread making",
+      "Honey extraction"
+    ],
+    "explanation": "ரொட்டி தயாரித்தல்",
+    "explanation_en": "Bread making"
+  },
+  {
+    "id": 30,
+    "question": "பழங்காலம் முதல் உள்ள பொருளாதார நடவடிக்கை ________.",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 0,
+    "question_en": "The economic activity that has existed since ancient times is ________.",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "பழங்காலம் முதல் உள்ள பொருளாதார நடவடிக்கை முதல்நிலை பொருளாதார நடவடிக்கை.",
+    "explanation_en": "The economic activity that has existed since ancient times is Primary economic activity."
+  },
+  {
+    "id": 31,
+    "question": "மூலப்பொருட்களை முறைப்படுத்துதல் மற்றும் உற்பத்தி மூலம் பயன்படும் பொருட்களாக மாற்றம் செய்வது ________.",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 1,
+    "question_en": "Processing raw materials and transforming them into usable goods through manufacturing is ________.",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "மூலப்பொருட்களை முறைப்படுத்துதல் மற்றும் உற்பத்தி மூலம் பயன்படும் பொருட்களாக மாற்றம் செய்வது இரண்டாம் நிலை பொருளாதார நடவடிக்கை.",
+    "explanation_en": "Processing raw materials and transforming them into usable goods through manufacturing is Secondary economic activity."
+  },
+  {
+    "id": 32,
+    "question": "கேக் தயாரித்தல் என்பது ________.",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 1,
+    "question_en": "Cake making is a ________.",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "கேக் தயாரித்தல் என்பது இரண்டாம் நிலை பொருளாதார நடவடிக்கை.",
+    "explanation_en": "Cake making is a Secondary economic activity."
+  },
+  {
+    "id": 33,
+    "question": "அடுமனைகளில் கேக் விற்பனை செய்வது ________.",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 2,
+    "question_en": "Selling cakes in bakeries is a ________.",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "அடுமனைகளில் கேக் விற்பனை செய்வது மூன்றாம் நிலை பொருளாதார நடவடிக்கை.",
+    "explanation_en": "Selling cakes in bakeries is a Tertiary economic activity."
+  },
+  {
+    "id": 34,
+    "question": "மூன்றாம் நிலை பொருளாதார நடவடிக்கையின் வேறு பெயர்கள் ________.\nஅ) முதன்மை நிலை, ஆ) சார்புத்துறை, இ) சேவைகள் துறை, ஈ) அறிவுசார் துறை, உ) தகவல் நுட்பத் தொழிலகங்கள்",
+    "options": [
+      "அ மற்றும் ஆ",
+      "ஆ மற்றும் இ",
+      "இ மற்றும் ஈ",
+      "ஈ மற்றும் உ"
+    ],
+    "correct": 1,
+    "question_en": "Other names for tertiary economic activities are ________.\na) Primary sector, b) Dependent/Service sector, c) Services sector, d) Knowledge sector, e) Information technology industries",
+    "options_en": [
+      "a and b",
+      "b and c",
+      "c and d",
+      "d and e"
+    ],
+    "explanation": "மூன்றாம் நிலை பொருளாதார நடவடிக்கையின் வேறு பெயர்கள் ஆ மற்றும் இ.\nஅ) முதன்மை நிலை, ஆ) சார்புத்துறை, இ) சேவைகள் துறை, ஈ) அறிவுசார் துறை, உ) தகவல் நுட்பத் தொழிலகங்கள்",
+    "explanation_en": "Other names for tertiary economic activities are b and c.\na) Primary sector, b) Dependent/Service sector, c) Services sector, d) Knowledge sector, e) Information technology industries"
+  },
+  {
+    "id": 35,
+    "question": "அத்தியாவசிய சேவைகளை அளிக்கும் துறை ________.",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 2,
+    "question_en": "The sector that provides essential services is ________.",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "அத்தியாவசிய சேவைகளை அளிக்கும் துறை மூன்றாம் நிலை பொருளாதார நடவடிக்கை.",
+    "explanation_en": "The sector that provides essential services is Tertiary economic activity."
+  },
+  {
+    "id": 36,
+    "question": "இவற்றுள் எது / எவை மூன்றாம் நிலை பொருளாதார நடவடிக்கை இல்லை?\nஅ) தமிழ்நாடு அரசுப் போக்குவரத்து கழகம், ஆ) பங்குச் சந்தை, இ) ஊ.ஒ.ந.நி.பள்ளி, கோமாளியூர், ஈ) மளிகைக் கடை, உ) பொதிகை தொலைக்காட்சி, ஊ) அரசு ஆரம்ப சுகாதார நிலையம், எ) இந்தியன் வங்கி",
+    "options": [
+      "உ மற்றும் ஆ",
+      "அ மற்றும் ஊ",
+      "இ மற்றும் ஈ",
+      "உ மட்டும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of these is/are not a tertiary economic activity?\na) Tamil Nadu State Transport Corporation, b) Stock market, c) Panchayat Union Middle School, Komaliyur, d) Grocery shop, e) Podhigai TV, f) Government Primary Health Centre, g) Indian Bank",
+    "options_en": [
+      "e and b",
+      "a and f",
+      "c and d",
+      "e only"
+    ],
+    "explanation": "உ மட்டும்",
+    "explanation_en": "e only"
+  },
+  {
+    "id": 37,
+    "question": "'என்னைத் தொட்டுணர முடியாது. சேமிக்கவும் முடியாது' நான் யார்?",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 2,
+    "question_en": "'You cannot touch me. You cannot save me.' Who am I?",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "'என்னைத் தொட்டுணர முடியாது. சேமிக்கவும் முடியாது' நான் மூன்றாம் நிலை பொருளாதார நடவடிக்கை.",
+    "explanation_en": "Tertiary economic activity"
+  },
+  {
+    "id": 38,
+    "question": "ஆராய்ச்சி மற்றும் பயிற்சி உள்ளிட்ட தகவல் உருவாக்கம் மற்றும் பரிமாற்றங்களுடன் தொடர்புடையது எது?",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "மூன்றாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 3,
+    "question_en": "Which is associated with information generation and sharing, including research and training?",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Tertiary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "ஆராய்ச்சி மற்றும் பயிற்சி உள்ளிட்ட தகவல் உருவாக்கம் மற்றும் பரிமாற்றங்களுடன் தொடர்புடையது நான்காம் நிலை பொருளாதார நடவடிக்கை ஆகும்.",
+    "explanation_en": "Quaternary economic activity is associated with information generation and sharing, including research and training."
+  },
+  {
+    "id": 39,
+    "question": "நான்காம் நிலை பொருளாதார நடவடிக்கையின் வேறு பெயர் ________.",
+    "options": [
+      "தகவல் நுட்பத் தொழிலகங்கள்",
+      "சார்புத் துறை",
+      "சேவைகள் துறை",
+      "முதன்மைத் துறை"
+    ],
+    "correct": 0,
+    "question_en": "Another name for quaternary economic activity is ________.",
+    "options_en": [
+      "Information technology industries",
+      "Dependent sector",
+      "Services sector",
+      "Primary sector"
+    ],
+    "explanation": "நான்காம் நிலை பொருளாதார நடவடிக்கையின் வேறு பெயர் தகவல் நுட்பத் தொழிலகங்கள்.",
+    "explanation_en": "Another name for quaternary economic activity is Information technology industries."
+  },
+  {
+    "id": 40,
+    "question": "இந்தியப் பொருளாதாரத்தின் முதுகெலும்பாக உள்ள துறை ________.",
+    "options": [
+      "தொழிலகங்கள்",
+      "சேவைகள் துறை",
+      "உழவுத்துறை",
+      "முதல்நிலை பொருளாதார நடவடிக்கைகள்"
+    ],
+    "correct": 1,
+    "question_en": "The sector that is the backbone of the Indian economy is ________.",
+    "options_en": [
+      "Industries",
+      "Services sector",
+      "Agriculture sector",
+      "Primary economic activities"
+    ],
+    "explanation": "இந்தியப் பொருளாதாரத்தின் முதுகெலும்பாக உள்ள துறை சேவைகள் துறை.",
+    "explanation_en": "The sector that is the backbone of the Indian economy is Services sector."
+  },
+  {
+    "id": 41,
+    "question": "தொழிற்சாலைகள், வணிகம், கல்வி மற்றும் அரசாங்கங்களின் உயர்மட்ட அளவில் முடிவெடுக்கும் நிர்வாகிகள் குறிப்பிடுவது ________.",
+    "options": [
+      "முதல்நிலை பொருளாதார நடவடிக்கை",
+      "இரண்டாம் நிலை பொருளாதார நடவடிக்கை",
+      "ஐந்தாம் நிலை பொருளாதார நடவடிக்கை",
+      "நான்காம் நிலை பொருளாதார நடவடிக்கை"
+    ],
+    "correct": 2,
+    "question_en": "High-level decision-making executives in industries, business, education, and government refer to ________.",
+    "options_en": [
+      "Primary economic activity",
+      "Secondary economic activity",
+      "Quinary economic activity",
+      "Quaternary economic activity"
+    ],
+    "explanation": "தொழிற்சாலைகள், வணிகம், கல்வி மற்றும் அரசாங்கங்களின் உயர்மட்ட அளவில் முடிவெடுக்கும் நிர்வாகிகள் குறிப்பிடுவது ஐந்தாம் நிலை பொருளாதார நடவடிக்கை.",
+    "explanation_en": "High-level decision-making executives in industries, business, education, and government refer to Quinary economic activity."
+  },
+  {
+    "id": 42,
+    "question": "கீழ்க்கண்டவற்றில் ஐந்தாம் நிலை பொருளாதார நடவடிக்கைகளில் வருபவர் யார்?",
+    "options": [
+      "கணித ஆசிரியர்",
+      "பல்கலைக்கழக துணைவேந்தர்",
+      "வங்கி மேலாளர்",
+      "பண்பலை"
+    ],
+    "correct": 1,
+    "question_en": "Who among the following comes under quinary economic activities?",
+    "options_en": [
+      "Math teacher",
+      "University Vice-Chancellor",
+      "Bank Manager",
+      "FM Radio"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றில் ஐந்தாம் நிலை பொருளாதார நடவடிக்கைகளில் வருபவர் பல்கலைக்கழக துணைவேந்தர்.",
+    "explanation_en": "University Vice-Chancellor"
+  },
+  {
+    "id": 43,
+    "question": "ஒரு மாநிலத்தின் பல்வேறு மக்கள் நலன் பற்றிய முடிவுகளை எடுப்பவர்கள் யார்?",
+    "options": [
+      "பொருளாதார வல்லுநர்கள்",
+      "மாவட்ட ஆட்சியர்கள்",
+      "அமைச்சரவை குழுவினர்",
+      "பிரதமர்"
+    ],
+    "correct": 2,
+    "question_en": "Who makes decisions regarding various public welfare policies of a state?",
+    "options_en": [
+      "Economists",
+      "District Collectors",
+      "Cabinet ministers",
+      "Prime Minister"
+    ],
+    "explanation": "ஒரு மாநிலத்தின் பல்வேறு மக்கள் நலன் பற்றிய முடிவுகளை எடுப்பவர்கள் அமைச்சரவை குழுவினர்.",
+    "explanation_en": "Cabinet ministers"
+  },
+  {
+    "id": 44,
+    "question": "தொழிலக அமைவிட காரணிகளின் பிரிவுகளின் எண்ணிக்கை ________.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct": 0,
+    "question_en": "The number of categories of industrial location factors is ________.",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "explanation": "தொழிலக அமைவிட காரணிகளின் பிரிவுகளின் எண்ணிக்கை 2.",
+    "explanation_en": "The number of categories of industrial location factors is 2."
+  },
+  {
+    "id": 45,
+    "question": "கீழ்க்கண்ட கூற்று மற்றும் காரணங்களைப் படித்து விடையளிக்க.\nகூற்று: சேலம் இரும்பு எஃகு ஆலையானது கஞ்சமலைக்கு அருகில் அமைந்துள்ளது\nகாரணம் 1: இதன் மூலப்பொருள் விரைவில் எடை இழக்கும் தன்மை வாய்ந்தது.\nகாரணம் 2: இதன் மூலப்பொருள் எடை அதிகமுள்ளதால் அதிக தூரம் கொண்டு செல்வது கடினம்.",
+    "options": [
+      "கூற்று சரி, காரணம் 1 தவறு",
+      "கூற்று சரி, காரணங்கள் பொருத்தமில்லை",
+      "கூற்று தவறு, காரணம் 2 சரி",
+      "கூற்று சரி, காரணம் 2 சரி"
+    ],
+    "correct": 3,
+    "question_en": "Read the following statement and reasons and answer.\nStatement: The Salem Iron and Steel Plant is located near Kanjamalai.\nReason 1: Its raw material loses weight quickly.\nReason 2: Its raw material is heavy, making it difficult to transport over long distances.",
+    "options_en": [
+      "Statement is true, Reason 1 is false",
+      "Statement is true, Reasons are irrelevant",
+      "Statement is false, Reason 2 is true",
+      "Statement is true, Reason 2 is true"
+    ],
+    "explanation": "கூற்று சரி, காரணம் 2 சரி",
+    "explanation_en": "Statement is true, Reason 2 is true"
+  },
+  {
+    "id": 46,
+    "question": "சேலம் இரும்பு எஃகு ஆலைக்கான மூலப்பொருள் எங்கிருந்து கிடைக்கிறது?",
+    "options": [
+      "சேர்வராயன் மலை",
+      "கஞ்ச மலை",
+      "கல்ராயன் மலை",
+      "ஏற்காடு மலை"
+    ],
+    "correct": 1,
+    "question_en": "Where does the raw material for the Salem Iron and Steel Plant come from?",
+    "options_en": [
+      "Servarayan Hills",
+      "Kanjamalai",
+      "Kalrayan Hills",
+      "Yercaud Hills"
+    ],
+    "explanation": "கஞ்ச மலை",
+    "explanation_en": "Kanjamalai"
+  },
+  {
+    "id": 47,
+    "question": "சர்க்கரைத் தொழிற்சாலை எதற்கு அருகில் அமையும்?",
+    "options": [
+      "சந்தை",
+      "மூலப்பொருள் கிடைக்குமிடம்",
+      "நல்ல காலநிலை உள்ள இடம்",
+      "நீர்வளம் உள்ள இடம்"
+    ],
+    "correct": 1,
+    "question_en": "Where will a sugar factory be located near?",
+    "options_en": [
+      "Market",
+      "Availability of raw materials",
+      "Place with good climate",
+      "Place with water resources"
+    ],
+    "explanation": "மூலப்பொருள் கிடைக்குமிடம்",
+    "explanation_en": "Availability of raw materials"
+  },
+  {
+    "id": 48,
+    "question": "பெரும்பாலான தொழிலகங்களை இயக்குவதற்குத் தேவையான ஒன்று ________.",
+    "options": [
+      "எரிசக்தி",
+      "பேருந்து வசதி",
+      "இவ்விரண்டும்",
+      "இவை எதுவும் இல்லை"
+    ],
+    "correct": 0,
+    "question_en": "One of the things required to run most industries is ________.",
+    "options_en": [
+      "Power / Energy",
+      "Bus facility",
+      "Both of these",
+      "None of these"
+    ],
+    "explanation": "பெரும்பாலான தொழிலகங்களை இயக்குவதற்குத் தேவையான ஒன்று எரிசக்தி.",
+    "explanation_en": "One of the things required to run most industries is Power / Energy."
+  },
+  {
+    "id": 49,
+    "question": "மரபு சார் மூலங்கள் எனப்படுபவை ________.\nஅ) நிலக்கரி, ஆ) அணுசக்தி, இ) நீர், ஈ) தாது எண்ணெய்",
+    "options": [
+      "அ, ஆ மற்றும் இ",
+      "அ, இ மற்றும் ஈ",
+      "ஆ, இ மற்றும் ஈ",
+      "அ, ஆ மற்றும் ஈ"
+    ],
+    "correct": 1,
+    "question_en": "Conventional sources are ________.\na) Coal, b) Atomic energy, c) Water, d) Mineral oil",
+    "options_en": [
+      "a, b and c",
+      "a, c and d",
+      "b, c and d",
+      "a, b and d"
+    ],
+    "explanation": "மரபு சார் மூலங்கள் எனப்படுபவை அ, இ மற்றும் ஈ.\nஅ) நிலக்கரி, ஆ) அணுசக்தி, இ) நீர், ஈ) தாது எண்ணெய்",
+    "explanation_en": "Conventional sources are a, c and d.\na) Coal, b) Atomic energy, c) Water, d) Mineral oil"
+  },
+  {
+    "id": 50,
+    "question": "சரியான கூற்று எது?",
+    "options": [
+      "காபி பொடி தயாரிக்கும் தொழிற்சாலை சேமிப்பு கிடங்கு இருக்கும் இடங்களுக்கு அருகில் அமையும்.",
+      "தொழிற்சாலையை நிறுவுவதற்கு சமமான இடம் தேவையில்லை.",
+      "தொழிற்சாலைக்குத் தீவிர காலநிலை அவசியமானதாகும்.",
+      "பொதுவாக தொழிற்சாலைகளுக்கு மலிவான மற்றும் திறமையான தொழிலாளர்கள் அவசியம்."
+    ],
+    "correct": 3,
+    "question_en": "Which is the correct statement?",
+    "options_en": [
+      "Coffee powder manufacturing factories will be located near warehouses.",
+      "A level ground is not necessary to establish a factory.",
+      "Extreme climate is essential for a factory.",
+      "Generally, cheap and skilled labor is necessary for factories."
+    ],
+    "explanation": "பொதுவாக தொழிற்சாலைகளுக்கு மலிவான மற்றும் திறமையான தொழிலாளர்கள் அவசியம்.",
+    "explanation_en": "Generally, cheap and skilled labor is necessary for factories. is the correct statement."
+  },
+  {
+    "id": 51,
+    "question": "தவறான கூற்று எது?\nஅ) எளிதான போக்குவரத்து தொழிலகங்களின் அமைவிடத்தைத் தீர்மானிப்பதில் முக்கிய பங்கு வகிக்கிறது.\nஆ) சமமற்ற இடம் போக்குவரத்து சாதனங்களைப் பயன்படுத்திக் கொள்ள ஏதுவாக இருக்கும்.\nஇ) முடிவுற்ற பொருள் சந்தைக்கு எடுத்துச் செல்லும் வரை சேமிக்கப்படல் வேண்டும்.\nஈ) தொழில் முதலீட்டாளர்கள் போதுமான மூலதனத்தை வைத்துக் கொண்டு தான் தொழில் தொடங்குவர்.",
+    "options": [
+      "அ மற்றும் ஆ",
+      "இ மற்றும் ஈ",
+      "அ மற்றும் இ",
+      "ஆ மற்றும் ஈ"
+    ],
+    "correct": 3,
+    "question_en": "Which is the incorrect statement?\na) Easy transport plays an important role in determining the location of industries.\nb) Uneven land is convenient for using transport facilities.\nc) Finished goods must be stored until they are taken to the market.\nd) Industrial investors start a business holding sufficient capital.",
+    "options_en": [
+      "a and b",
+      "c and d",
+      "a and c",
+      "b and d"
+    ],
+    "explanation": "ஆ மற்றும் ஈ",
+    "explanation_en": "B and d is the incorrect statement.\na) Easy transport plays an important role in determining the location of industries.\nb) Uneven land is convenient for using transport facilities.\nc) Finished goods must be stored until they are taken to the market.\nd) Industrial investors start a business holding sufficient capital."
+  },
+  {
+    "id": 52,
+    "question": "தவறான இணை எது?",
+    "options": [
+      "மூலப்பொருட்கள் - சர்க்கரை தொழிற்சாலை",
+      "மனித சக்தி - தேயிலை தொழிற்சாலை",
+      "கால நிலை - இரும்பு எஃகு ஆலை",
+      "நீர்வளம் - இரசாயன தொழிற்சாலை"
+    ],
+    "correct": 2,
+    "question_en": "Which is the incorrect pair?",
+    "options_en": [
+      "Raw materials - Sugar factory",
+      "Human power - Tea factory",
+      "Climate - Iron and steel plant",
+      "Water resources - Chemical factory"
+    ],
+    "explanation": "தவறான இணை கால நிலை - இரும்பு எஃகு ஆலை ஆகும்.",
+    "explanation_en": "Climate - Iron and steel plant is the incorrect pair."
+  },
+  {
+    "id": 53,
+    "question": "கொடுக்கப்பட்ட தொழிலக அமைவிட காரணிகளுள், புவியியல் அல்லாத காரணிகளுடன் தொடர்பற்றது எது?",
+    "options": [
+      "நீர்வளம்",
+      "மூலதனம்",
+      "கடன்வசதி",
+      "அரசாங்கக் கொள்கைகள்"
+    ],
+    "correct": 0,
+    "question_en": "Among the given industrial location factors, which is not related to non-geographical factors?",
+    "options_en": [
+      "Water resources",
+      "Capital",
+      "Credit facility",
+      "Government policies"
+    ],
+    "explanation": "கொடுக்கப்பட்ட தொழிலக அமைவிட காரணிகளுள், புவியியல் அல்லாத காரணிகளுடன் தொடர்பற்றது நீர்வளம் ஆகும்.",
+    "explanation_en": "Among the given industrial location factors, Water resources is not related to non-geographical factors."
+  },
+  {
+    "id": 54,
+    "question": "தவறான கூற்று எது?",
+    "options": [
+      "நீர்வழிகள், சாலைவழிகள் மற்றும் இருப்புப்பாதைகளின் வலைப்பின்னல் கொண்ட பகுதிகள் சிறந்த தொழில் மையங்களாகத் திகழ்கின்றன.",
+      "மூலதனம் இல்லாமல் எந்த தொழிற்சாலையையும் நிறுவ முடியாது.",
+      "அரசாங்க கொள்கைகள் தொழிலக அமைவிடத்தைத் தீர்மானிக்கின்றன. அரசாங்க விதிமுறைகள் தீர்மானிப்பதில்லை.",
+      "கடன் மற்றும் காப்பீடு வழங்கும் நிறுவனங்களின் சேவை தொழில் முனைவோருக்குத் தேவைப்படுகிறது."
+    ],
+    "correct": 2,
+    "question_en": "Which is the incorrect statement?",
+    "options_en": [
+      "Areas with a network of waterways, roadways, and railways serve as excellent industrial centers.",
+      "No factory can be established without capital.",
+      "Government policies determine the location of industries. Government regulations do not determine them.",
+      "The services of credit and insurance providing institutions are needed by entrepreneurs."
+    ],
+    "explanation": "அரசாங்க கொள்கைகள் தொழிலக அமைவிடத்தைத் தீர்மானிக்கின்றன. அரசாங்க விதிமுறைகள் தீர்மானிப்பதில்லை.",
+    "explanation_en": "Government policies determine the location of industries. Government regulations do not determine them. is the incorrect statement."
+  },
+  {
+    "id": 55,
+    "question": "அரசாங்கக் கொள்கைகள் தொழிலக அமைவிடத்தைத் தீர்மானிக்கின்றன. ஏனெனில் ________.\nஅ) பிராந்திய ஏற்றத்தாழ்வுகளைக் குறைப்பதற்காக\nஆ) அதிகமான மாசுபாட்டைக் கட்டுப்படுத்துவதற்காக\nஇ) முறையான வரி வசூல் இலக்கு நிர்ணயிப்பதற்காக\nஈ) பெருநகரங்களில் மிகுதியான தொழிலகங்களைத் தவிர்ப்பதற்காக",
+    "options": [
+      "அ மற்றும் ஆ",
+      "ஆ, இ மற்றும் ஈ",
+      "அ, ஆ, இ, ஈ",
+      "அ, ஆ, ஈ"
+    ],
+    "correct": 3,
+    "question_en": "Government policies determine industrial locations because ________.\na) To reduce regional disparities\nb) To control excessive pollution\nc) To set proper tax collection targets\nd) To avoid excessive concentration of industries in metropolitan cities",
+    "options_en": [
+      "a and b",
+      "b, c and d",
+      "a, b, c, d",
+      "a, b, d"
+    ],
+    "explanation": "அரசாங்கக் கொள்கைகள் தொழிலக அமைவிடத்தைத் தீர்மானிக்கின்றன. ஏனெனில் அ, ஆ, ஈ.\nஅ) பிராந்திய ஏற்றத்தாழ்வுகளைக் குறைப்பதற்காக\nஆ) அதிகமான மாசுபாட்டைக் கட்டுப்படுத்துவதற்காக\nஇ) முறையான வரி வசூல் இலக்கு நிர்ணயிப்பதற்காக\nஈ) பெருநகரங்களில் மிகுதியான தொழிலகங்களைத் தவிர்ப்பதற்காக",
+    "explanation_en": "Government policies determine industrial locations because a, b, d.\na) To reduce regional disparities\nb) To control excessive pollution\nc) To set proper tax collection targets\nd) To avoid excessive concentration of industries in metropolitan cities"
+  },
+  {
+    "id": 56,
+    "question": "மூலப்பொருள் அடிப்படையில் தொழிலகங்கள் எத்தனை வகையாக வகைப்படுத்தப்படுகின்றன?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "question_en": "On the basis of raw materials, into how many types are industries classified?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "4",
+    "explanation_en": "On the basis of raw materials, into 4 types are industries classified."
+  },
+  {
+    "id": 57,
+    "question": "வேளாண் சார்ந்த தொழிலகங்களின் மூலப்பொருட்கள் ________.",
+    "options": [
+      "விவசாயம் சார்ந்த பொருட்கள்",
+      "கடல் சார்ந்த பொருட்கள்",
+      "விலங்கு சார்ந்த பொருட்கள்",
+      "1 மற்றும் 3"
+    ],
+    "correct": 3,
+    "question_en": "Raw materials for agro-based industries are ________.",
+    "options_en": [
+      "Agriculture based products",
+      "Marine based products",
+      "Animal based products",
+      "1 and 3"
+    ],
+    "explanation": "வேளாண் சார்ந்த தொழிலகங்களின் மூலப்பொருட்கள் 1 மற்றும் 3.",
+    "explanation_en": "Raw materials for agro-based industries are 1 and 3."
+  },
+  {
+    "id": 58,
+    "question": "வேளாண் சார்ந்த தொழிலகங்களில் குழுவில் பொருந்தாதது எது?",
+    "options": [
+      "உணவுப் பதப்படுத்துதல்",
+      "மரத் தளவாடங்கள்",
+      "பருத்தி நெசவாலைகள்",
+      "பால் உற்பத்திப் பொருட்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Which is the odd one out in the group of agro-based industries?",
+    "options_en": [
+      "Food processing",
+      "Wooden furniture",
+      "Cotton textile mills",
+      "Dairy products"
+    ],
+    "explanation": "வேளாண் சார்ந்த தொழிலகங்களில் குழுவில் பொருந்தாதது மரத் தளவாடங்கள் ஆகும்.",
+    "explanation_en": "Wooden furniture is the odd one out in the group of agro-based industries."
+  },
+  {
+    "id": 59,
+    "question": "கனிமத் தாதுக்களை மூலப்பொருட்களாகக் கொண்டது எது?",
+    "options": [
+      "சிமெண்ட் தொழிற்சாலை",
+      "கனிம வளம் சார்ந்த தொழிற்சாலைகள்",
+      "சர்க்கரை ஆலை",
+      "வேளாண் சார்ந்த தொழிற்சாலைகள்"
+    ],
+    "correct": 0,
+    "question_en": "Which uses mineral ores as raw materials?",
+    "options_en": [
+      "Cement factory",
+      "Mineral based factories",
+      "Sugar mill",
+      "Agro based factories"
+    ],
+    "explanation": "கனிமத் தாதுக்களை மூலப்பொருட்களாகக் கொண்டது சிமெண்ட் தொழிற்சாலை ஆகும்.",
+    "explanation_en": "Cement factory"
+  },
+  {
+    "id": 60,
+    "question": "கனிம வளம் சார்ந்த தொழிலகங்களில் பொருந்தாதது எது?",
+    "options": [
+      "இரும்பு எஃகு தொழிற்சாலை",
+      "காகித தொழிற்சாலை",
+      "தாவர எண்ணெய் உற்பத்தி",
+      "மீன் எண்ணெய் ஆலை"
+    ],
+    "correct": 2,
+    "question_en": "Which is the odd one out in mineral-based industries? (Translation based on source text; choices actually mix various types)",
+    "options_en": [
+      "Iron and steel factory",
+      "Paper factory",
+      "Vegetable oil production",
+      "Fish oil plant"
+    ],
+    "explanation": "கனிம வளம் சார்ந்த தொழிலகங்களில் பொருந்தாதது தாவர எண்ணெய் உற்பத்தி ஆகும்.",
+    "explanation_en": "Vegetable oil production is the odd one out in mineral-based industries. (Translation based on source text; choices actually mix various types)"
+  },
+  {
+    "id": 61,
+    "question": "காடுகளில் இருந்து பெறப்படும் பொருட்கள் மூலப்பொருட்களாகப் பயன்படுவது ________.",
+    "options": [
+      "வனவளம் சார்ந்த தொழிலகங்கள்",
+      "வேளாண் சார்ந்த தொழிலகங்கள்",
+      "கனிமவளம் சார்ந்த தொழிலகங்கள்",
+      "கடல்வளம் சார்ந்த தொழிலகங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Products obtained from forests used as raw materials are ________.",
+    "options_en": [
+      "Forest based industries",
+      "Agro based industries",
+      "Mineral based industries",
+      "Marine based industries"
+    ],
+    "explanation": "காடுகளில் இருந்து பெறப்படும் பொருட்கள் மூலப்பொருட்களாகப் பயன்படுவது வனவளம் சார்ந்த தொழிலகங்கள்.",
+    "explanation_en": "Products obtained from forests used as raw materials are Forest based industries."
+  },
+  {
+    "id": 62,
+    "question": "படத்தில் காணப்படுவது எவ்வகை தொழிலகத்திற்கு உதாரணம்?",
+    "options": [
+      "இயந்திரத் தொழிலகம்",
+      "வேளாண் சார்ந்த தொழிலகம்",
+      "காடுவளம் சார்ந்த தொழிலகம்",
+      "கனிம வளம் சார்ந்த தொழிலகம்"
+    ],
+    "correct": 2,
+    "question_en": "The image shows an example of which type of industry?",
+    "options_en": [
+      "Machine industry",
+      "Agro based industry",
+      "Forest based industry",
+      "Mineral based industry"
+    ],
+    "explanation": "காடுவளம் சார்ந்த தொழிலகம்",
+    "explanation_en": "Forest based industry"
+  },
+  {
+    "id": 63,
+    "question": "சிமெண்ட் தொழிற்சாலை எவ்வகை தொழிலகத்திற்கு உதாரணம்?\nஅ) கனிம வளம் சார்ந்த தொழிலகம்\nஆ) வேளாண் சார்ந்த தொழிலகம்\nஇ) சிறிய அளவிலான தொழிலகம்\nஈ) பெரிய அளவிலான தொழிலகம்\nஉ) அரசுத்துறை தொழிலகம்",
+    "options": [
+      "அ மட்டும்",
+      "ஈ மற்றும் ஆ",
+      "உ மற்றும் இ",
+      "ஈ மற்றும் அ"
+    ],
+    "correct": 3,
+    "question_en": "Cement factory is an example of which type of industry?\na) Mineral based industry\nb) Agro based industry\nc) Small scale industry\nd) Large scale industry\ne) Public sector industry",
+    "options_en": [
+      "a only",
+      "d and b",
+      "e and c",
+      "d and a"
+    ],
+    "explanation": "ஈ மற்றும் அ",
+    "explanation_en": "d and a"
+  },
+  {
+    "id": 64,
+    "question": "குழுவில் பொருந்தாத ஒன்றை தேர்ந்தெடு",
+    "options": [
+      "இரும்பு எஃகு ஆலை",
+      "பட்டு நெசவு",
+      "எண்ணெய் சுத்திகரிப்பு ஆலை",
+      "நெசவாலை தொழிலகங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Choose the odd one out in the group",
+    "options_en": [
+      "Iron and steel plant",
+      "Silk weaving",
+      "Oil refinery",
+      "Textile industries"
+    ],
+    "explanation": "பட்டு நெசவு",
+    "explanation_en": "Silk weaving"
+  },
+  {
+    "id": 65,
+    "question": "குழுவில் பொருந்தாத ஒன்றை தேர்ந்தெடு",
+    "options": [
+      "கூடை முடைதல்",
+      "பானை தயாரித்தல்",
+      "கைவினைப் பொருட்கள் தயாரிப்பு",
+      "கப்பல் கட்டுதல்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the odd one out in the group",
+    "options_en": [
+      "Basket weaving",
+      "Pot making",
+      "Handicrafts manufacturing",
+      "Ship building"
+    ],
+    "explanation": "கப்பல் கட்டுதல்",
+    "explanation_en": "Ship building"
+  },
+  {
+    "id": 66,
+    "question": "சிறிய அளவிலான தொழிலகங்கள் எவ்வளவு மூலதனம் கொண்டு நிறுவப்படும்?",
+    "options": [
+      "1,000,000க்கு மேல்",
+      "10,000,000க்கு மேல்",
+      "50,000,000க்கு மேல்",
+      "1 பில்லியனுக்கும் மேல்"
+    ],
+    "correct": 0,
+    "question_en": "How much capital is used to establish small scale industries?",
+    "options_en": [
+      "Above 1,000,000",
+      "Above 10,000,000",
+      "Above 50,000,000",
+      "Above 1 billion"
+    ],
+    "explanation": "1,000,000க்கு மேல்",
+    "explanation_en": "Above 1,000,000"
+  },
+  {
+    "id": 67,
+    "question": "ஹூண்டாய் தொழிலகம் எங்கு அமைந்துள்ளது?",
+    "options": [
+      "டெட்ராய்ட்",
+      "மைசூர்",
+      "மும்பை",
+      "சென்னை"
+    ],
+    "correct": 3,
+    "question_en": "Where is the Hyundai industry located?",
+    "options_en": [
+      "Detroit",
+      "Mysore",
+      "Mumbai",
+      "Chennai"
+    ],
+    "explanation": "சென்னை",
+    "explanation_en": "Chennai is the Hyundai industry located."
+  },
+  {
+    "id": 68,
+    "question": "குடும்ப உறுப்பினர்களின் உதவியுடன் கைவினைப்பொருட்கள் தயாரிக்கும் தொழிலகங்கள் எவ்வாறு வகைப்படுத்தப்பட்டுள்ளன?\nஅ) சீரான வகை தொழிலகங்கள், ஆ) சிறு தொழில்கள், இ) இதரவகை தொழிலகங்கள், ஈ) வனவளம் சார்ந்த தொழிலகங்கள்",
+    "options": [
+      "அ தவிர அனைத்தும்",
+      "ஆ மற்றும் இ",
+      "ஆ மட்டும்",
+      "ஆ மற்றும் ஈ"
+    ],
+    "correct": 1,
+    "question_en": "How are industries that manufacture handicrafts with the help of family members classified?\na) Uniform type industries, b) Cottage industries, c) Other types of industries, d) Forest based industries",
+    "options_en": [
+      "All except a",
+      "b and c",
+      "b only",
+      "b and d"
+    ],
+    "explanation": "ஆ மற்றும் இ",
+    "explanation_en": "b and c"
+  },
+  {
+    "id": 69,
+    "question": "ரிலையன்ஸ் குழும தலைவர் யார்?",
+    "options": [
+      "ரத்தன் டாடா",
+      "லட்சுமி மிட்டல்",
+      "முகேஷ் அம்பானி",
+      "அனில் பிர்லா"
+    ],
+    "correct": 2,
+    "question_en": "Who is the chairman of the Reliance Group?",
+    "options_en": [
+      "Ratan Tata",
+      "Lakshmi Mittal",
+      "Mukesh Ambani",
+      "Anil Birla"
+    ],
+    "explanation": "ரிலையன்ஸ் குழும தலைவர் முகேஷ் அம்பானி.",
+    "explanation_en": "Mukesh Ambani is the chairman of the Reliance Group."
+  },
+  {
+    "id": 70,
+    "question": "குழுவில் பொருந்தாததைத் தேர்ந்தெடு",
+    "options": [
+      "பஜாஜ் ஆட்டோ",
+      "ரிலையன்ஸ்",
+      "TVS",
+      "HAL"
+    ],
+    "correct": 3,
+    "question_en": "Choose the odd one out in the group",
+    "options_en": [
+      "Bajaj Auto",
+      "Reliance",
+      "TVS",
+      "HAL"
+    ],
+    "explanation": "HAL",
+    "explanation_en": "HAL"
+  },
+  {
+    "id": 71,
+    "question": "அரசால் இயக்கப்படும் அரசுக்குச் சொந்தமான தொழிலகங்கள் ________.",
+    "options": [
+      "பொதுத்துறை தொழிலகங்கள்",
+      "அரசுசாரா தொழிலகங்கள்",
+      "கூட்டுறவுத்துறை தொழிலகங்கள்",
+      "கூட்டுத்துறை தொழிலகங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Government-owned industries operated by the government are ________.",
+    "options_en": [
+      "Public sector industries",
+      "Non-governmental industries",
+      "Co-operative sector industries",
+      "Joint sector industries"
+    ],
+    "explanation": "அரசால் இயக்கப்படும் அரசுக்குச் சொந்தமான தொழிலகங்கள் பொதுத்துறை தொழிலகங்கள்.",
+    "explanation_en": "Government-owned industries operated by the government are Public sector industries."
+  },
+  {
+    "id": 72,
+    "question": "அரசுத்துறை மற்றும் தனியார் துறை இணைந்து இயக்கும் தொழிலகங்கள் ________.",
+    "options": [
+      "கூட்டுறவுத்துறை",
+      "பொதுத்துறை",
+      "கூட்டுத்துறை",
+      "தனியார் துறை"
+    ],
+    "correct": 2,
+    "question_en": "Industries owned and operated jointly by the public sector and private sector are ________.",
+    "options_en": [
+      "Co-operative sector",
+      "Public sector",
+      "Joint sector",
+      "Private sector"
+    ],
+    "explanation": "அரசுத்துறை மற்றும் தனியார் துறை இணைந்து இயக்கும் தொழிலகங்கள் கூட்டுத்துறை.",
+    "explanation_en": "Industries owned and operated jointly by the public sector and private sector are Joint sector."
+  },
+  {
+    "id": 73,
+    "question": "மூலப்பொருளை உற்பத்தி செய்பவர் அல்லது விநியோகிப்பவர் அல்லது தொழிலாளர்களை அளிப்பவர்களால் நிர்வகிக்கப்படும் தொழிலகங்கள் ________.",
+    "options": [
+      "கூட்டுறவுத்துறை",
+      "பொதுத்துறை",
+      "கூட்டுத்துறை",
+      "தனியார் துறை"
+    ],
+    "correct": 0,
+    "question_en": "Industries owned and managed by producers or suppliers of raw materials, or workers are ________.",
+    "options_en": [
+      "Co-operative sector",
+      "Public sector",
+      "Joint sector",
+      "Private sector"
+    ],
+    "explanation": "மூலப்பொருளை உற்பத்தி செய்பவர் அல்லது விநியோகிப்பவர் அல்லது தொழிலாளர்களை அளிப்பவர்களால் நிர்வகிக்கப்படும் தொழிலகங்கள் கூட்டுறவுத்துறை.",
+    "explanation_en": "Industries owned and managed by producers or suppliers of raw materials, or workers are Co-operative sector."
+  },
+  {
+    "id": 74,
+    "question": "பின்வருவனவற்றுள் தொழிலக அமைவிடத்தை நிர்ணயிக்கும் காரணிகளாக அல்லாதது எது?",
+    "options": [
+      "மூலதனம்",
+      "நிலம்",
+      "போக்குவரத்து",
+      "உள்ளீடு"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a factor determining industrial location?",
+    "options_en": [
+      "Capital",
+      "Land",
+      "Transport",
+      "Input"
+    ],
+    "explanation": "பின்வருவனவற்றுள் தொழிலக அமைவிடத்தை நிர்ணயிக்கும் காரணிகளாக அல்லாதது உள்ளீடு ஆகும்.",
+    "explanation_en": "Input is not a factor determining industrial location."
+  },
+  {
+    "id": 75,
+    "question": "பொருத்துக.\ni) இந்தியாவின் டெட்ராய்ட் - a) சேலம்\nii) BHEL - b) பெங்களூரு\niii) SAIL - c) திருச்சி\niv) HAL - d) சென்னை",
+    "options": [
+      "i – d, ii – c, iii – b, iv - a",
+      "i – d, ii – a, iii – b, iv - c",
+      "i – d, ii – c, iii – a, iv - b",
+      "i – a, ii – c, iii – d, iv – b"
+    ],
+    "correct": 2,
+    "question_en": "Match the following.\ni) Detroit of India - a) Salem\nii) BHEL - b) Bengaluru\niii) SAIL - c) Trichy\niv) HAL - d) Chennai",
+    "options_en": [
+      "i – d, ii – c, iii – b, iv - a",
+      "i – d, ii – a, iii – b, iv - c",
+      "i – d, ii – c, iii – a, iv - b",
+      "i – a, ii – c, iii – d, iv – b"
+    ],
+    "explanation": "i – d, ii – c, iii – a, iv - b",
+    "explanation_en": "i – d, ii – c, iii – a, iv - b"
+  },
+  {
+    "id": 76,
+    "question": "பொருந்தாத இணையைத் தேர்ந்தெடுக்கவும். [NMMS-2016]",
+    "options": [
+      "BHEL - திருச்சி",
+      "SAIL - சேலம்",
+      "TAMIN - திருவனந்தபுரம்",
+      "TISCO - ஜாம்ஷெட்பூர்"
+    ],
+    "correct": 2,
+    "question_en": "Select the mismatched pair. [NMMS-2016]",
+    "options_en": [
+      "BHEL - Trichy",
+      "SAIL - Salem",
+      "TAMIN - Thiruvananthapuram",
+      "TISCO - Jamshedpur"
+    ],
+    "explanation": "TAMIN - திருவனந்தபுரம்",
+    "explanation_en": "TAMIN - Thiruvananthapuram"
+  }
+]

@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 1,
+    "question": "ராஜபுதனத்தில் மிகவும் புகழ்பெற்றது",
+    "options": [
+      "மாளவம்",
+      "குஜராத்",
+      "சித்தூர்",
+      "கன்னோஜ்"
+    ],
+    "correct": 2,
+    "question_en": "Most famous in Rajputana",
+    "options_en": [
+      "Malavam",
+      "Gujarat",
+      "Chittoor",
+      "Kannauj"
+    ],
+    "explanation": "சித்தூர்",
+    "explanation_en": "Chittoor"
+  },
+  {
+    "id": 2,
+    "question": "சித்தூரின் ராணா மாளவத்தை வெற்றிகொண்டதன் நினைவாக நிறுவப்பட்ட தூண்",
+    "options": [
+      "ஜெய ஸ்தம்பா",
+      "கஜூராகோ",
+      "குதுப்மினார்",
+      "சாரணாத்"
+    ],
+    "correct": 0,
+    "question_en": "A pillar erected to commemorate the conquest of Malava by the Rana of Chittoor",
+    "options_en": [
+      "Jaya Stamba",
+      "Khajurago",
+      "Kutupminar",
+      "Sarnath"
+    ],
+    "explanation": "ஜெய ஸ்தம்பா",
+    "explanation_en": "Jaya Stamba"
+  },
+  {
+    "id": 3,
+    "question": "பந்தேல்கண்டின் ராஜபுத்திர இனக்குழு",
+    "options": [
+      "தோமரர்கள்",
+      "சந்தேலர்கள்",
+      "சௌகான்கள்",
+      "பரமாரர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Rajput ethnic group of Bandelkhand",
+    "options_en": [
+      "The Tomars",
+      "Chandelas",
+      "Chaukhans",
+      "Successors"
+    ],
+    "explanation": "சந்தேலர்கள்",
+    "explanation_en": "Chandelas"
+  },
+  {
+    "id": 4,
+    "question": "ராஜபுத்திர அரசகுலங்களின் எண்ணிக்கை",
+    "options": [
+      "16",
+      "26",
+      "36",
+      "46"
+    ],
+    "correct": 2,
+    "question_en": "Number of Rajput dynasties",
+    "options_en": [
+      "16",
+      "26",
+      "36",
+      "46"
+    ],
+    "explanation": "36",
+    "explanation_en": "36"
+  },
+  {
+    "id": 5,
+    "question": "கூர்ஜர அரச வம்சத்திற்கு அடிக்கல் நாட்டியவர்",
+    "options": [
+      "ஹரிச்சந்திரா",
+      "வத்சராஜா",
+      "முதலாம் போஜா",
+      "முதலாம் நாகபட்டர்"
+    ],
+    "correct": 0,
+    "question_en": "He laid the foundation stone of the Gurjara royal dynasty",
+    "options_en": [
+      "Harichandra",
+      "Vatsaraja",
+      "First poja",
+      "Nagabhata first"
+    ],
+    "explanation": "ஹரிச்சந்திரா",
+    "explanation_en": "Harichandra"
+  },
+  {
+    "id": 6,
+    "question": "பிரதிகார அரசர்களுள் முதல் தலைசிறந்த அரசர்",
+    "options": [
+      "ஹரிச்சந்திரா",
+      "ராமபத்ரா",
+      "மிகிர போஜா",
+      "முதலாம் நாகபட்டர்"
+    ],
+    "correct": 3,
+    "question_en": "The first great king among the Pratikhara kings",
+    "options_en": [
+      "Harichandra",
+      "Ramabhadra",
+      "Great Bhoja",
+      "Nagabhata first"
+    ],
+    "explanation": "முதலாம் நாகபட்டர்",
+    "explanation_en": "Nagabhata first"
+  },
+  {
+    "id": 7,
+    "question": "பால அரச வம்சத்தை உருவாக்கியவர்",
+    "options": [
+      "தர்மபாலர்",
+      "கோபாலர்",
+      "தேவபாலர்",
+      "முதலாம் மகிபாலர்"
+    ],
+    "correct": 1,
+    "question_en": "Founder of the Pala dynasty",
+    "options_en": [
+      "Dharmapala",
+      "Gopalar",
+      "Devabalar",
+      "First Mahipala"
+    ],
+    "explanation": "கோபாலர்",
+    "explanation_en": "Gopalar"
+  },
+  {
+    "id": 8,
+    "question": "விக்கிரமசீலா பல்கலைக்கழகத்தைத் தோற்றுவித்தவர்",
+    "options": [
+      "தர்மபாலர்",
+      "ஜெயபாலர்",
+      "தேவபாலர்",
+      "முதலாம் மகிபாலர்"
+    ],
+    "correct": 0,
+    "question_en": "Founder of Wickramasila University",
+    "options_en": [
+      "Dharmapala",
+      "Jayapalar",
+      "Devabalar",
+      "First Mahipala"
+    ],
+    "explanation": "தர்மபாலர்",
+    "explanation_en": "Dharmapala"
+  },
+  {
+    "id": 9,
+    "question": "பௌத்த கல்விக்கான மிகச்சிறந்த மையம்",
+    "options": [
+      "விக்கிரமசீலா",
+      "நாளந்தா",
+      "கஜூராகோ",
+      "தில்வாரா"
+    ],
+    "correct": 0,
+    "question_en": "A great center for Buddhist education",
+    "options_en": [
+      "Wickramasila",
+      "Nalanda",
+      "Khajurago",
+      "Dilwara"
+    ],
+    "explanation": "விக்கிரமசீலா",
+    "explanation_en": "Wickramasila"
+  },
+  {
+    "id": 10,
+    "question": "பௌத்தர்களுக்கு ஐந்து கிராமங்களை கொடையாக வழங்கியவர்",
+    "options": [
+      "ஜெயபாலர்",
+      "தர்மபாலர்",
+      "தேவபாலர்",
+      "முதலாம் மகிபாலர்"
+    ],
+    "correct": 2,
+    "question_en": "He gifted five villages to Buddhists",
+    "options_en": [
+      "Jayapalar",
+      "Dharmapala",
+      "Devabalar",
+      "First Mahipala"
+    ],
+    "explanation": "தேவபாலர்",
+    "explanation_en": "Devabalar"
+  },
+  {
+    "id": 11,
+    "question": "தர்மபாலர், தேவபாலர் ஆகியோரின் ஆட்சிக் காலங்கள் வங்காள வரலாற்றின் சிறப்புமிக்க ஒளிரும் அத்தியாயங்கள் என கூறிய அறிஞர்",
+    "options": [
+      "அதிசா",
+      "சந்த் பார்தை",
+      "ஜேம்ஸ் டாட்",
+      "ஆர்.சி. மஜூம்தார்"
+    ],
+    "correct": 3,
+    "question_en": "The scholar said that the reigns of Dharmapala and Devapala are the special shining episodes in the history of Bengal.",
+    "options_en": [
+      "Atisa",
+      "Chand saw",
+      "James Dodd",
+      "R.C. Majumdar"
+    ],
+    "explanation": "ஆர்.சி. மஜூம்தார்",
+    "explanation_en": "R.C. Majumdar"
+  },
+  {
+    "id": 12,
+    "question": "பால வம்சத்தின் மிகச்சிறந்த, வலிமைமிக்க அரசர்",
+    "options": [
+      "தர்மபாலர்",
+      "ஜெயபாலர்",
+      "தேவபாலர்",
+      "முதலாம் மகிபாலர்"
+    ],
+    "correct": 3,
+    "question_en": "The greatest and most powerful king of the Pala dynasty",
+    "options_en": [
+      "Dharmapala",
+      "Jayapalar",
+      "Devabalar",
+      "First Mahipala"
+    ],
+    "explanation": "முதலாம் மகிபாலர்",
+    "explanation_en": "First Mahipala"
+  },
+  {
+    "id": 13,
+    "question": "யாருடைய படையெடுப்பின் காரணமாக வாரணாசிக்கு அப்பால் தனது அதிகாரத்தை விரிவுபடுத்த முதலாம் மகிபாலரால் இயலாமல் போயிற்று?",
+    "options": [
+      "ராஜராஜ சோழன்",
+      "ராஜேந்திர சோழன்",
+      "குலோத்துங்கன்",
+      "சிம்மராஜன்"
+    ],
+    "correct": 1,
+    "question_en": "Mahipala I was unable to extend his power beyond Varanasi due to whose invasion?",
+    "options_en": [
+      "Rajaraja Cholan",
+      "Rajendra Cholan",
+      "Kulothungan",
+      "Simmarajan"
+    ],
+    "explanation": "ராஜேந்திர சோழன்",
+    "explanation_en": "Rajendra Cholan"
+  },
+  {
+    "id": 14,
+    "question": "சௌகான்கள் எனும் ராஜபுத்திர அரச வம்சத்தை தோற்றுவித்தவர்",
+    "options": [
+      "சிம்மராஜ்",
+      "பிருதிவிராஜ்",
+      "போஜராஜ்",
+      "தேவராஜ்"
+    ],
+    "correct": 0,
+    "question_en": "He was the founder of the Rajput royal dynasty called Chaukhans",
+    "options_en": [
+      "Shimraj",
+      "Prithviraj",
+      "Bhojaraj",
+      "Devaraj"
+    ],
+    "explanation": "சிம்மராஜ்",
+    "explanation_en": "Shimraj"
+  },
+  {
+    "id": 15,
+    "question": "சௌகான் வம்சாவளி அரசர்களுள் தலை சிறந்தவர்",
+    "options": [
+      "சிம்மராஜ்",
+      "பிருதிவிராஜ்",
+      "போஜராஜ்",
+      "தேவராஜ்"
+    ],
+    "correct": 1,
+    "question_en": "He was the best among the kings of Chaukhan lineage",
+    "options_en": [
+      "Shimraj",
+      "Prithviraj",
+      "Bhojaraj",
+      "Devaraj"
+    ],
+    "explanation": "பிருதிவிராஜ்",
+    "explanation_en": "Prithviraj"
+  },
+  {
+    "id": 16,
+    "question": "பிருதிவிராஜ ராசோ எனும் நூலை எழுதியவர்",
+    "options": [
+      "கல்ஹணர்",
+      "விசாகதத்தர்",
+      "ராஜசேகரர்",
+      "சந்த் பார்தை"
+    ],
+    "correct": 3,
+    "question_en": "Author of Prithiviraja Raso",
+    "options_en": [
+      "Kalhanar",
+      "Visakhapatnam",
+      "Rajasekar",
+      "Chand saw"
+    ],
+    "explanation": "சந்த் பார்தை",
+    "explanation_en": "Chand saw"
+  },
+  {
+    "id": 17,
+    "question": "முதல் தரெய்ன் போரில் வெற்றி பெற்றவர் : தோல்வியுற்றவர்",
+    "options": [
+      "பிருதிவிராஜ் சௌகான் : முகமது கோரி",
+      "முகமது கோரி : பிருதிவிராஜ் சௌகான்",
+      "சிம்மராஜ் சௌகான் : முகமது கோரி",
+      "முகமது கோரி : சிம்மராஜ் சௌகான்"
+    ],
+    "correct": 0,
+    "question_en": "Winner of the First Terrain War : Loser",
+    "options_en": [
+      "Prithiviraj Chouhan : Mohammad Ghori",
+      "Mohammad Gori : Prithiviraj Chouhan",
+      "Simmraj Chouhan : Mohammad Ghori",
+      "Mohammad Ghori : Simmraj Chouhan"
+    ],
+    "explanation": "பிருதிவிராஜ் சௌகான் : முகமது கோரி",
+    "explanation_en": "Prithiviraj Chouhan : Mohammad Ghori"
+  },
+  {
+    "id": 18,
+    "question": "இரண்டாம் தரெய்ன் போர் நடைபெற்ற ஆண்டு",
+    "options": [
+      "1191",
+      "1192",
+      "1193",
+      "1194"
+    ],
+    "correct": 1,
+    "question_en": "The year of the second battle of Tarain",
+    "options_en": [
+      "1191",
+      "1192",
+      "1193",
+      "1194"
+    ],
+    "explanation": "1192",
+    "explanation_en": "1192"
+  },
+  {
+    "id": 19,
+    "question": "பொருத்துக:\n(i) சூரியனார் கோவில்\n(ii) தில்வாரா சமணக்கோவில்\n(iii) காந்தர்யா கோவில்\n(iv) கஜூராகோ கோவில\na) மத்தியப்பிரதேசம்\nb) கோனார்க்\nc) பந்தேல்கண்ட்\nd) அபுகுன்று",
+    "options": [
+      "(i) - b (ii) - a (iii) - c (iv) - d",
+      "(i) - c (ii) - a (iii) - d (iv) - b",
+      "(i) - c (ii) - a (iii) - b (iv) - d",
+      "(i) - b (ii) - d (iii) - a (iv) - c"
+    ],
+    "correct": 3,
+    "question_en": "Match:\n(i) Suryanar Temple\n(ii) Dilwara Jain temple\n(iii) Gandarya Temple\n(iv) Khajurago Temple\na) Madhya Pradesh\nb) Konark\nc) Pantelkhand\nd) Abukunnu",
+    "options_en": [
+      "(i) - b (ii) - a (iii) - c (iv) - d",
+      "(i) - c (ii) - a (iii) - d (iv) - b",
+      "(i) - c (ii) - a (iii) - b (iv) - d",
+      "(i) - b (ii) - d (iii) - a (iv) - c"
+    ],
+    "explanation": "(i) - b (ii) - d (iii) - a (iv) - c",
+    "explanation_en": "(i) - b (ii) - d (iii) - a (iv) - c"
+  },
+  {
+    "id": 20,
+    "question": "ரக்ஷாபந்தன் என்ற மரபு யாருக்கு உரியது?",
+    "options": [
+      "சோழர்கள்",
+      "பாலர்கள்",
+      "ராஜபுத்திரர்கள்",
+      "அரேபியர்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Who owns the tradition of Rakshabandhan?",
+    "options_en": [
+      "Cholas",
+      "Preschoolers",
+      "Rajputs",
+      "Arabs"
+    ],
+    "explanation": "ராஜபுத்திரர்கள்",
+    "explanation_en": "Rajputs"
+  },
+  {
+    "id": 21,
+    "question": "வங்கப்பிரிவினையின் போது பெருமளவில் மக்கள் பங்கேற்ற ரக்ஷாபந்தன் விழையைத் தொடங்கியவர்",
+    "options": [
+      "ரவீந்திரநாத் தாகூர்",
+      "மகிபாலர்",
+      "பகத்சிங்",
+      "பாலகங்காதர திலகர்"
+    ],
+    "correct": 0,
+    "question_en": "During the partition of Bengal, he started the Rakshabandhan festival which was widely participated in by the people",
+    "options_en": [
+      "Rabindranath Tagore",
+      "Mahipalar",
+      "Bhagat Singh",
+      "Balakandhara Tilak"
+    ],
+    "explanation": "ரவீந்திரநாத் தாகூர்",
+    "explanation_en": "Rabindranath Tagore"
+  },
+  {
+    "id": 22,
+    "question": "திபெத்திய பௌத்தத்தை சீர்செய்தவர்",
+    "options": [
+      "அதிசா",
+      "சந்த் பார்தை",
+      "ஜேம்ஸ் டாட்",
+      "ஆர்.சி.மஜூம்தார்"
+    ],
+    "correct": 0,
+    "question_en": "Reformer of Tibetan Buddhism",
+    "options_en": [
+      "Atisa",
+      "Chand saw",
+      "James Dodd",
+      "RC Majumdar"
+    ],
+    "explanation": "அதிசா",
+    "explanation_en": "Atisa"
+  },
+  {
+    "id": 23,
+    "question": "ஓர் இஸ்லாமிய அரசு அரசியல்ரீதியாகவும், மதரீதியாகவும் ஒரே நபரால் ஆளப்பட்டால் அவ்வரசு என்றழைக்கப்பட்டது.",
+    "options": [
+      "உமையத்து",
+      "கலீஃபத்",
+      "அப்பாசித்து",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "An Islamic state is called a state when it is ruled politically and religiously by the same person.",
+    "options_en": [
+      "Umaiyattu",
+      "Caliph",
+      "Abassitu",
+      "Nothing"
+    ],
+    "explanation": "கலீஃபத்",
+    "explanation_en": "Caliph"
+  },
+  {
+    "id": 24,
+    "question": "கஜினி மாமூது இந்தியாவின் மீது முறை படையெடுப்பு நடத்தியதாகக் கூறப்படுகிறது.",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "correct": 3,
+    "question_en": "It is said that Mamoud of Ghazni had systematically invaded India.",
+    "options_en": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "explanation": "17",
+    "explanation_en": "17"
+  },
+  {
+    "id": 25,
+    "question": "கஜினி மாமூதின் இந்திய படையெடுப்பிற்கு முக்கியக் காரணம்",
+    "options": [
+      "சிலை வழிபாட்டை ஒழிப்பது",
+      "செல்வங்களை சூறையாடல்",
+      "இந்தியாவில் இஸ்லாமை பரப்புவது",
+      "இந்தியாவில் ஒரு முஸ்லீம் அரசை நிறுவுவது"
+    ],
+    "correct": 1,
+    "question_en": "Ghazni was the main cause of Mammoud's invasion of India",
+    "options_en": [
+      "Abolition of idolatry",
+      "Looting of wealth",
+      "Spreading Islam in India",
+      "Establishment of a Muslim State in India"
+    ],
+    "explanation": "செல்வங்களை சூறையாடல்",
+    "explanation_en": "Looting of wealth"
+  },
+  {
+    "id": 26,
+    "question": "மாமூது கஜினியால் தோற்கடிக்கப்பட்ட பஞ்சாபின் ஷாகி வம்ச அரசர்",
+    "options": [
+      "ஆனந்தபாலர்",
+      "ஜெயபாலர்",
+      "மகிபாலர்",
+      "தருமபாலர்"
+    ],
+    "correct": 0,
+    "question_en": "Shahi dynasty king of Punjab who was defeated by Mamud Ghazni",
+    "options_en": [
+      "Anandapalar",
+      "Jayapalar",
+      "Mahipalar",
+      "Darumapalar"
+    ],
+    "explanation": "ஆனந்தபாலர்",
+    "explanation_en": "Anandapalar"
+  },
+  {
+    "id": 27,
+    "question": "முகமது பின் காசிம் தோற்கடித்த சிந்து மன்னன்",
+    "options": [
+      "தாகீர்",
+      "சுல்தான்",
+      "முகமது கோரி",
+      "பீமதேவர்"
+    ],
+    "correct": 0,
+    "question_en": "King of Indus defeated by Muhammad bin Qasim",
+    "options_en": [
+      "Tagir",
+      "Sultan",
+      "Mohammad Kori",
+      "Bhimadeva"
+    ],
+    "explanation": "தாகீர்",
+    "explanation_en": "Tagir"
+  },
+  {
+    "id": 28,
+    "question": "சிந்துவின் தலைநகராக இருந்தது",
+    "options": [
+      "கன்னோஜ்",
+      "அரோர்",
+      "தானேஸ்வர்",
+      "நாகர்கோட்"
+    ],
+    "correct": 1,
+    "question_en": "It was the capital of Sindh",
+    "options_en": [
+      "Kannauj",
+      "Arora",
+      "Thaneswar",
+      "Nagarkot"
+    ],
+    "explanation": "அரோர்",
+    "explanation_en": "Arora"
+  },
+  {
+    "id": 29,
+    "question": "இந்தியர்களிடமிருந்து மேலைநாட்டவரும், அரேபியரும் கற்றுக் கொண்ட விளையாட்டு.",
+    "options": [
+      "கபடி",
+      "கைப்பந்து",
+      "சதுரங்கம்",
+      "ஹாக்கி"
+    ],
+    "correct": 2,
+    "question_en": "A game learned from the Indians by the Westerners and the Arabs.",
+    "options_en": [
+      "Kabaddi",
+      "Volleyball",
+      "Chess",
+      "Hockey"
+    ],
+    "explanation": "சதுரங்கம்",
+    "explanation_en": "Chess"
+  },
+  {
+    "id": 30,
+    "question": "கஜினி மாமூது புனித நகரமான மதுராவைக் கொள்ளையடித்த ஆண்டு",
+    "options": [
+      "1018",
+      "1019",
+      "1020",
+      "1021"
+    ],
+    "correct": 0,
+    "question_en": "The year Mamud of Ghazni sacked the holy city of Mathura",
+    "options_en": [
+      "1018",
+      "1019",
+      "1020",
+      "1021"
+    ],
+    "explanation": "1018",
+    "explanation_en": "1018"
+  },
+  {
+    "id": 31,
+    "question": "“டெல்லியின் முதல் சுல்தான்” என தன்னைப் பிரகடனப்படுத்திக் கொண்டவர்",
+    "options": [
+      "குத்புதீன் ஐபக்",
+      "கஜினி மாமூது",
+      "அல்ப்-டஜின்",
+      "சபக்டிஜின்"
+    ],
+    "correct": 0,
+    "question_en": "The self-proclaimed “First Sultan of Delhi”.",
+    "options_en": [
+      "Qutbuddin Aibak",
+      "Ghazini Mamoodu",
+      "Alp-dazin",
+      "Subaktigin"
+    ],
+    "explanation": "குத்புதீன் ஐபக்",
+    "explanation_en": "Qutbuddin Aibak"
+  },
+  {
+    "id": 32,
+    "question": "இந்தியாவின் மீதான கஜினி மாமூதின் இறுதி படையெடுப்பு",
+    "options": [
+      "புனிதநகர் மதுராவில் கொள்ளையடிப்பு",
+      "அன்கில்வாட் நகரை சூறையாடியது",
+      "தானேஸ்வர் நகரை சூறையாடியது",
+      "சோமநாதபுரம் கோவில் கொள்ளையடிப்பு"
+    ],
+    "correct": 3,
+    "question_en": "Ghazni Mammud's final invasion of India",
+    "options_en": [
+      "Robbery in Punitanagar Mathura",
+      "Ankilwad sacked the city",
+      "Ransacked the city of Thaneswar",
+      "Somanathapuram temple looting"
+    ],
+    "explanation": "சோமநாதபுரம் கோவில் கொள்ளையடிப்பு",
+    "explanation_en": "Somanathapuram temple looting"
+  },
+  {
+    "id": 33,
+    "question": "ராஜபுத்திரர்களுக்கு பேரிழப்பை ஏற்படுத்திய போர்",
+    "options": [
+      "முதல் தரெய்ன் போர்",
+      "இரண்டாம் தரெய்ன் போர்",
+      "மூன்றாம் தரெய்ன் போர்",
+      "நான்காம் தரெய்ன் போர்"
+    ],
+    "correct": 1,
+    "question_en": "A war that caused disaster for the Rajputs",
+    "options_en": [
+      "First Battle of Terrain",
+      "Second Battle of Tarrain",
+      "Battle of Third Terrain",
+      "Fourth Battle of Terrain"
+    ],
+    "explanation": "இரண்டாம் தரெய்ன் போர்",
+    "explanation_en": "Second Battle of Tarrain"
+  },
+  {
+    "id": 34,
+    "question": "மீது ஆதிக்கம் நிறுவவே மும்முனைப் போராட்டம் நடைபெற்றது.",
+    "options": [
+      "குஜராத்",
+      "பந்தேல்கண்ட்",
+      "கன்னோஜ்",
+      "அரோர்"
+    ],
+    "correct": 2,
+    "question_en": "A three-pronged struggle was held to establish dominance over",
+    "options_en": [
+      "Gujarat",
+      "Bandelkhand",
+      "Kannauj",
+      "Arora"
+    ],
+    "explanation": "கன்னோஜ்",
+    "explanation_en": "Kannauj"
+  },
+  {
+    "id": 35,
+    "question": "இந்தியாவில் முதல் இஸ்லாமியப் பேரரசை உருவாக்கியவர்",
+    "options": [
+      "முகமது கோரி",
+      "கஜினி மாமூது",
+      "குத்புதீன் ஐபக்",
+      "அல்ப்-டஜின்"
+    ],
+    "correct": 0,
+    "question_en": "He created the first Islamic empire in India",
+    "options_en": [
+      "Mohammad Kori",
+      "Ghazini Mamoodu",
+      "Qutbuddin Aibak",
+      "Alp-dazin"
+    ],
+    "explanation": "முகமது கோரி",
+    "explanation_en": "Mohammad Kori"
+  },
+  {
+    "id": 36,
+    "question": "கஜினி எனும் ஒரு சிறிய அரசு அமைந்திருந்த இடம்",
+    "options": [
+      "மங்கோலியா",
+      "துருக்கி",
+      "பாரசீகம்",
+      "ஆப்கானிஸ்தான்"
+    ],
+    "correct": 1,
+    "question_en": "Ghazni was the seat of a small government",
+    "options_en": [
+      "Mongolia",
+      "Turkey",
+      "Persia",
+      "Afghanistan"
+    ],
+    "explanation": "துருக்கி",
+    "explanation_en": "Turkey"
+  },
+  {
+    "id": 37,
+    "question": "ஆனந்தபாலர், மாமூது கஜினியால் தோற்கடிக்கப்பட்ட இடம்",
+    "options": [
+      "தரெய்ன்",
+      "சாகம்பரி",
+      "வைகிந்த்",
+      "அரோர்"
+    ],
+    "correct": 2,
+    "question_en": "Anandabalar is the place where Mamud was defeated by Ghajini",
+    "options_en": [
+      "Therein",
+      "Sagambari",
+      "Vaikinth",
+      "Arora"
+    ],
+    "explanation": "வைகிந்த்",
+    "explanation_en": "Vaikinth"
+  },
+  {
+    "id": 38,
+    "question": "ஆஜ்மீர் நகரத்தை நிர்மாணித்தவர்",
+    "options": [
+      "குத்புதீன் ஐபக்",
+      "முகமது கோரி",
+      "கஜினி மாமூது",
+      "சிம்மராஜ்"
+    ],
+    "correct": 3,
+    "question_en": "He built the city of Ajmer",
+    "options_en": [
+      "Qutbuddin Aibak",
+      "Mohammad Kori",
+      "Ghazini Mamoodu",
+      "Shimraj"
+    ],
+    "explanation": "சிம்மராஜ்",
+    "explanation_en": "Shimraj"
+  },
+  {
+    "id": 39,
+    "question": "இஸ்லாமைத் தோற்றுவித்தவர்",
+    "options": [
+      "முகமது நபி",
+      "முகமது அலி",
+      "கஜினி மாமூது",
+      "முகமது பின் காசிம்"
+    ],
+    "correct": 0,
+    "question_en": "Founder of Islam",
+    "options_en": [
+      "Prophet Muhammad",
+      "Muhammad Ali",
+      "Ghazini Mamoodu",
+      "Muhammad bin Qasim"
+    ],
+    "explanation": "முகமது நபி",
+    "explanation_en": "Prophet Muhammad"
+  },
+  {
+    "id": 40,
+    "question": "மெக்கா அமைந்துள்ள இடம்",
+    "options": [
+      "ஆப்கானிஸ்தான்",
+      "அரேபியா",
+      "குவைத்",
+      "துருக்கி"
+    ],
+    "correct": 1,
+    "question_en": "Where Mecca is located",
+    "options_en": [
+      "Afghanistan",
+      "Arabia",
+      "Kuwait",
+      "Turkey"
+    ],
+    "explanation": "அரேபியா",
+    "explanation_en": "Arabia"
+  },
+  {
+    "id": 41,
+    "question": "சௌகான் வம்சாவளியின் கடைசி அரசன்",
+    "options": [
+      "சிம்மராஜ் சௌகான்",
+      "பிருதிவிராஜ் சௌகான்",
+      "தேவராஜ் சௌகான்",
+      "பீமராஜ் சௌகான்"
+    ],
+    "correct": 1,
+    "question_en": "The last king of the Chaukhan dynasty",
+    "options_en": [
+      "Simmraj Chouhan",
+      "Prithviraj Chauhan",
+      "Devaraj Chauhan",
+      "Bhimraj Chauhan"
+    ],
+    "explanation": "பிருதிவிராஜ் சௌகான்",
+    "explanation_en": "Prithviraj Chauhan"
+  },
+  {
+    "id": 42,
+    "question": "மகிபாலரின் இறப்பால் பால வம்சம் வீழ்ச்சியுற்று, வம்சம் உருவானது.",
+    "options": [
+      "சௌகான்",
+      "பரமாரர்",
+      "சேனா",
+      "சந்தேலர்"
+    ],
+    "correct": 2,
+    "question_en": "With the death of Mahipala, the Pala dynasty fell and the dynasty came into existence.",
+    "options_en": [
+      "Chauhan",
+      "Successor",
+      "Army",
+      "Chantelar"
+    ],
+    "explanation": "சேனா",
+    "explanation_en": "Army"
+  },
+  {
+    "id": 43,
+    "question": "மக்களால் அரசராக தேர்ந்தெடுக்கப்பட்டவர்",
+    "options": [
+      "கோபாலர்",
+      "தர்மபாலர்",
+      "தேவபாலர்",
+      "முதலாம் மகிபாலர்"
+    ],
+    "correct": 0,
+    "question_en": "Elected as king by the people",
+    "options_en": [
+      "Gopalar",
+      "Dharmapala",
+      "Devabalar",
+      "First Mahipala"
+    ],
+    "explanation": "கோபாலர்",
+    "explanation_en": "Gopalar"
+  },
+  {
+    "id": 44,
+    "question": "ரக்ஷாபந்தன் என்பது உறவு தொடர்பான ஒரு விழாவாகும்.",
+    "options": [
+      "நண்பர்கள்",
+      "சகோதர",
+      "சமூகம்",
+      "சமயம்"
+    ],
+    "correct": 1,
+    "question_en": "Rakshabandhan is a festival related to relationships.",
+    "options_en": [
+      "Friends",
+      "fraternal",
+      "Society",
+      "time"
+    ],
+    "explanation": "சகோதர",
+    "explanation_en": "fraternal"
+  },
+  {
+    "id": 45,
+    "question": "சிந்துவை அரேபியர்கள் கைப்பற்றிய ஆண்டு",
+    "options": [
+      "கி.பி.710",
+      "கி.பி.711",
+      "கி.பி.712",
+      "கி.பி.713"
+    ],
+    "correct": 2,
+    "question_en": "Year of conquest of Indus by the Arabs",
+    "options_en": [
+      "AD 710",
+      "AD 711",
+      "AD 712",
+      "AD 713"
+    ],
+    "explanation": "கி.பி.712",
+    "explanation_en": "AD 712"
+  },
+  {
+    "id": 46,
+    "question": "பாலர்களின் கலை எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "மேற்கிந்திய கலை",
+      "கிழக்கிந்திய கலை",
+      "தெற்கத்திய கலை",
+      "வடக்கத்திய கலை"
+    ],
+    "correct": 1,
+    "question_en": "What is the art of preschoolers called?",
+    "options_en": [
+      "West Indian Art",
+      "East Indian Art",
+      "Southern art",
+      "Northern art"
+    ],
+    "explanation": "கிழக்கிந்திய கலை",
+    "explanation_en": "East Indian Art is the art of preschoolers called."
+  },
+  {
+    "id": 47,
+    "question": "பாலர்கள் மதத்தை பின்பற்றியராவர்.",
+    "options": [
+      "மகாயான பௌத்தம்",
+      "ஹீனயான பௌத்தம்",
+      "இஸ்லாம்",
+      "கிறிஸ்தவம்"
+    ],
+    "correct": 0,
+    "question_en": "Balars follow religion.",
+    "options_en": [
+      "Mahayana Buddhism",
+      "Hinayana Buddhism",
+      "Islam",
+      "Christianity"
+    ],
+    "explanation": "மகாயான பௌத்தம்",
+    "explanation_en": "Mahayana Buddhism"
+  },
+  {
+    "id": 48,
+    "question": "அபுகுன்றின் மேலுள்ள சமணக்கோவிலில் உள்ள கூடத்தில் பொதுமைய வட்டங்களைக் கொண்ட குவிமாடம் உள்ளது.",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 1,
+    "question_en": "The hall in the Jain temple above Abukun has a dome with concentric circles.",
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation": "11",
+    "explanation_en": "11"
+  },
+  {
+    "id": 49,
+    "question": "வங்கப்பிரிவினை நடைபெற்ற ஆண்டு",
+    "options": [
+      "1900",
+      "1903",
+      "1905",
+      "1910"
+    ],
+    "correct": 2,
+    "question_en": "The year of partition of Bengal",
+    "options_en": [
+      "1900",
+      "1903",
+      "1905",
+      "1910"
+    ],
+    "explanation": "1905",
+    "explanation_en": "1905"
+  },
+  {
+    "id": 50,
+    "question": "ராஜபுத்திர ஓவிய பாணிகள் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "இந்துஸ்தானி",
+      "ராஜஸ்தானி",
+      "மேற்கத்திய கலை",
+      "தெற்கத்திய கலை"
+    ],
+    "correct": 1,
+    "question_en": "What is the Rajput style of painting called?",
+    "options_en": [
+      "Hindustani",
+      "Rajasthani",
+      "Western art",
+      "Southern art"
+    ],
+    "explanation": "ராஜஸ்தானி",
+    "explanation_en": "Rajasthani is the Rajput style of painting called."
+  },
+  {
+    "id": 51,
+    "question": "இந்தியாவில் இஸ்லாமியர்களின் காலக்கட்டம் எப்போதிலிருந்து தொடங்கியது?",
+    "options": [
+      "கி.பி. 712",
+      "கி.பி. 1200",
+      "பொ.ஆ. 1200",
+      "கி.பி. 712"
+    ],
+    "correct": 1,
+    "question_en": "When did the period of Islam begin in India?",
+    "options_en": [
+      "AD 712",
+      "AD 1200",
+      "B.A. 1200",
+      "AD 712"
+    ],
+    "explanation": "கி.பி. 1200",
+    "explanation_en": "AD 1200"
+  },
+  {
+    "id": 52,
+    "question": "\"ராஜ்புத்\"என்னும் சொல் லிருந்து பெறப்பட்டது",
+    "options": [
+      "”ராஜ்புத்ர” எனும் வடமொழி",
+      "”ராஜ்புத்ர” எனும் சமஸ்கிருத மொழி",
+      "”ராஜ்புத்ர” எனும் அரபு மொழி",
+      "”ராஜ்புத்ர” எனும் ஸ்பானிய மொழி"
+    ],
+    "correct": 1,
+    "question_en": "Derived from the word \"Rajput\".",
+    "options_en": [
+      "\"Rajputra\" is vernacular",
+      "\"Rajputra\" is a Sanskrit language",
+      "\"Rajputra\" is Arabic",
+      "\"Rajputra\" is Spanish"
+    ],
+    "explanation": "”ராஜ்புத்ர” எனும் சமஸ்கிருத மொழி",
+    "explanation_en": "\"Rajputra\" is a Sanskrit language"
+  },
+  {
+    "id": 53,
+    "question": "கூற்று : (அ) “ஜேம்ஸ் டாட்\" என்பவர் கீழ்த்திசைப் புலமையாளர்\nகூற்று : (ஆ) கி.பி.(பொ. ஆ) 1829 இல் 36 ராஜபுத்திர அரச குலங்களைப் பட்டியலிட்டுள்ளார்.",
+    "options": [
+      "'அ 'சரி 'ஆ' தவறு",
+      "'அ‘ மற்றும் 'ஆ' இரண்டும் தவறு",
+      "'அ' தவறு ‘ஆ‘ சரி",
+      "'அ' மற்றும் 'ஆ‘ இரண்டும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Assertion : (a) “James Dodd” is a downward scholar\nAssertion : (b) In 1829 AD (B. B) listed 36 Rajput royal clans.",
+    "options_en": [
+      "'A' is correct and 'B' is wrong",
+      "Both 'A' and 'B' are wrong",
+      "'A' is wrong and 'B' is correct",
+      "Both 'A' and 'B' are correct"
+    ],
+    "explanation": "'அ' மற்றும் 'ஆ‘ இரண்டும் சரி",
+    "explanation_en": "Both 'A' and 'B' are correct"
+  },
+  {
+    "id": 54,
+    "question": "வட இந்திய பிரதிகார அரசர்களை வரிசைப்படுத்துக",
+    "options": [
+      "நாகபட்டர், வத்சராஜா, இரண்டாம் நாகபட்டர்,ராமபத்ரா, மிகிரபோஜா.",
+      "மிகிரபோஜா, இரண்டாம் நாகபட்டர்,ராமபத்ரா, நாகப்பட்டர், வத்சராஜா",
+      "இரண்டாம் நாகபட்டர், ராமபத்ரா, மிகிரபோஜா, நாகப்பட்டர், வத்சராஜா",
+      "நாகப்பட்டர், மிகிரபோஜா, வத்சராஜா, இரண்டாம் நாகபட்டர், ராமபத்ரா"
+    ],
+    "correct": 0,
+    "question_en": "List the Pratikara Kings of North India",
+    "options_en": [
+      "Nagabhatta, Vatsaraja, Nagabhatta II, Ramabhadra, Mikrabhoja.",
+      "Migrabhoja, Nagapatra II, Ramabhadra, Nagapatra, Vatsaraja",
+      "Nagapatra II, Ramabhadra, Mikrabhoja, Nagapatra, Vatsaraja",
+      "Nagapatra, Mikrabhoja, Vatsaraja, Nagapatra II, Ramabhadra"
+    ],
+    "explanation": "நாகபட்டர், வத்சராஜா, இரண்டாம் நாகபட்டர்,ராமபத்ரா, மிகிரபோஜா.",
+    "explanation_en": "Nagabhatta, Vatsaraja, Nagabhatta II, Ramabhadra, Mikrabhoja."
+  },
+  {
+    "id": 55,
+    "question": "கூற்று :\n(அ) பால அரச வம்சத்தின் சிறந்த அரசர்கள், தர்மபாலர், தேவபாலர், முதலாம் மகிபாலர்.\n(ஆ) இவர்களின் ஆட்சிகாலம் வங்காள வரலாற்றின் சிறப்பு மிக்க ஒளிரும் அத்தியாயங்கள் நிலவியது .",
+    "options": [
+      "'அ' சரி 'ஆ' தவறு",
+      "'அ' மற்றும் 'ஆ' இரண்டும் தவறு",
+      "'அ' தவறு 'ஆ' சரி",
+      "'அ' மற்றும் 'ஆ‘ இரண்டும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Statement:\n(a) The best kings of the Pala dynasty were Dharmapala, Devapala, Mahipala I.\n(b) Their reigns witnessed some particularly luminous episodes in the history of Bengal.",
+    "options_en": [
+      "'A' is correct and 'B' is wrong",
+      "Both 'a' and 'b' are wrong",
+      "'A' is wrong and 'B' is right",
+      "Both 'A' and 'B' are correct"
+    ],
+    "explanation": "'அ' மற்றும் 'ஆ‘ இரண்டும் சரி",
+    "explanation_en": "Both 'A' and 'B' are correct"
+  },
+  {
+    "id": 56,
+    "question": "ரக்ஷாபந்தன் விழா வங்காளத்தில் தொடங்கப்பட்ட ஆண்டு",
+    "options": [
+      "1905",
+      "1906",
+      "1907",
+      "1908"
+    ],
+    "correct": 0,
+    "question_en": "The year Rakshabandhan festival was started in Bengal",
+    "options_en": [
+      "1905",
+      "1906",
+      "1907",
+      "1908"
+    ],
+    "explanation": "1905",
+    "explanation_en": "1905"
+  },
+  {
+    "id": 57,
+    "question": "பொருத்துக.\ni) பிரதிகாரர்கள்\nii) பாலர்கள்\niii) தென்னிந்திய அரசர்\niv) ஆஜ்மீர் நகரம் தோற்றுவித்தவர்\na) ராஜேந்திர சோழன்\nb) சிம்மராஜ்\nc) கோபாலர்\nd) நாகப்பட்டர்",
+    "options": [
+      "i) b ii) a iii) c iv) d",
+      "i) d ii) c iii) b iv) a",
+      "i) c ii) d iii) b iv) a",
+      "i) d ii) c iii) a iv) b"
+    ],
+    "correct": 3,
+    "question_en": "match\ni) பிரதிகாரர்கள்\nii) பாலர்கள்\niii) தென்னிந்திய அரசர்\niv) ஆஜ்மீர் நகரம் தோற்றுவித்தவர்\na) ராஜேந்திர சோழன்\nb) சிம்மராஜ்\nc) Gopala\nd) நாகப்பட்டர்",
+    "options_en": [
+      "i) b ii) a iii) c iv) d",
+      "i) d ii) c iii) b iv) a",
+      "i) c ii) d iii) b iv) a",
+      "i) d ii) c iii) a iv) b"
+    ],
+    "explanation": "i) d ii) c iii) a iv) b",
+    "explanation_en": "i) d ii) c iii) a iv) b"
+  },
+  {
+    "id": 58,
+    "question": "ராஜபுத்திர அரசர்களின் கலை மற்றும் கட்டடக்கலையை என்று அழைக்கப்படுகின்றன.",
+    "options": [
+      "ராஜஸ்தானி",
+      "பாலர்களின் கலை",
+      "கிழக்கு இந்தியக்கலை",
+      "இந்துஸ்தானி"
+    ],
+    "correct": 0,
+    "question_en": "The art and architecture of the Rajput kings are known as",
+    "options_en": [
+      "Rajasthani",
+      "Children's art",
+      "East Indian Art",
+      "Hindustani"
+    ],
+    "explanation": "ராஜஸ்தானி",
+    "explanation_en": "Rajasthani"
+  },
+  {
+    "id": 59,
+    "question": "தவறான இணையைக் கண்டறிக:",
+    "options": [
+      "மேவார் - உதய்பூர்",
+      "ஜெயசால்மர் - ராஜஸ்தான்",
+      "ஜோத்பூர் - தமிழ் நாடு",
+      "புரி - ஹரியானா"
+    ],
+    "correct": 2,
+    "question_en": "Find the wrong parallel:",
+    "options_en": [
+      "Mewar - Udaipur",
+      "Jaisalmer - Rajasthan",
+      "Jodhpur - Tamil Nadu",
+      "Puri - Haryana"
+    ],
+    "explanation": "ஜோத்பூர் - தமிழ் நாடு",
+    "explanation_en": "Jodhpur - Tamil Nadu"
+  },
+  {
+    "id": 60,
+    "question": "கூற்று (I): அரேபிய அறிஞர்கள் 0 முதல் 9 வரையிலான எண்களை, இந்தியாவிலிருந்தே கற்றுக்கொண்டனர்.\nகூற்று (II): பூஜ்யத்தின் முக்கியத்துவத்தை இந்தியாவிலிருந்து கற்றுக்கொள்ளவில்லை.",
+    "options": [
+      "I சரி",
+      "II சரி",
+      "I மற்றும் II சரி",
+      "I சரி || தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Assertion (I): Arab scholars learned the numbers 0 to 9 from India.\nAssertion (II): Importance of zero was not learned from India.",
+    "options_en": [
+      "I am right",
+      "II is correct",
+      "I and II are correct",
+      "I OK || wrong"
+    ],
+    "explanation": "I சரி || தவறு",
+    "explanation_en": "I OK || wrong"
+  },
+  {
+    "id": 61,
+    "question": "கி.பி.1001 ஆம் ஆண்டு கஜினி மாமூதுவால் தோற்கடிக்கப்பட்ட ஷாகி அரசர்",
+    "options": [
+      "ஜெயபாலர்",
+      "ஆனந்த பாலர்",
+      "ராஜ்யபாலர்",
+      "தர்மபாலர்"
+    ],
+    "correct": 0,
+    "question_en": "Shahi king who was defeated by Mamud of Ghazni in 1001 AD",
+    "options_en": [
+      "Jayapalar",
+      "Ananda Baler",
+      "Rajyapal",
+      "Dharmapala"
+    ],
+    "explanation": "ஜெயபாலர்",
+    "explanation_en": "Jayapalar"
+  },
+  {
+    "id": 62,
+    "question": "பொருத்துக:\ni) ஜெயபாலர்\nii) ஆனந்தபாலர்\niii) ராஜ்ய பாலர்\niv) பீமதேவர்\na) 1024\nb) 1001\nc) 1008\nd) 1018",
+    "options": [
+      "i) b ii) a iii) c iv) d",
+      "i) d ii) c iii) b iv) a",
+      "i) c ii) d iii) b iv) a",
+      "i) b ii) c iii) d iv) a"
+    ],
+    "correct": 3,
+    "question_en": "Match:\ni) Jayapalar\nii) Anandapalas\niii) Rajya Balar\niv) Bhimadeva\na) 1024\nb) 1001\nc) 1008\nd) 1018",
+    "options_en": [
+      "i) b ii) a iii) c iv) d",
+      "i) d ii) c iii) b iv) a",
+      "i) c ii) d iii) b iv) a",
+      "i) b ii) c iii) d iv) a"
+    ],
+    "explanation": "i) b ii) c iii) d iv) a",
+    "explanation_en": "i) b ii) c iii) d iv) a"
+  },
+  {
+    "id": 63,
+    "question": "முதலாம் தரெய்ன் போர் நடைபெற்ற ஆண்டு",
+    "options": [
+      "1191",
+      "1192",
+      "1193",
+      "1194"
+    ],
+    "correct": 0,
+    "question_en": "The year of the First Battle of Tarain",
+    "options_en": [
+      "1191",
+      "1192",
+      "1193",
+      "1194"
+    ],
+    "explanation": "1191",
+    "explanation_en": "1191"
+  },
+  {
+    "id": 64,
+    "question": "முதலாம் தரெய்ன் போர் யார் - யாருக்கும் இடையில் நடைபெற்றது.",
+    "options": [
+      "பிருதிவிராஜ் சௌகான் - முகமது கஜினி",
+      "பிருதிவிராஜ் சௌகான் - முகமது கோரி",
+      "முதலாம் போஜா - ஜெயபாலர்",
+      "முதலாம் போஜா - சந்திர தேவர்"
+    ],
+    "correct": 1,
+    "question_en": "The First Terrain War was fought between who-nobody.",
+    "options_en": [
+      "Prithviraj Chauhan - Mohammad Ghajini",
+      "Prithiviraj Chauhan - Mohammed Ghori",
+      "First Pooja - Jayapalar",
+      "First Bhoja - Chandra Devar"
+    ],
+    "explanation": "பிருதிவிராஜ் சௌகான் - முகமது கோரி",
+    "explanation_en": "Prithiviraj Chauhan - Mohammed Ghori"
+  },
+  {
+    "id": 65,
+    "question": "இந்தியாவில் முதல் இஸ்லாமிய அரசு உறுதியாக நிறுவப்பட்ட இடம்",
+    "options": [
+      "டெல்லி",
+      "கன்னோஜ்",
+      "ஜெய்ப்பூர்",
+      "ஆஜ்மீர்"
+    ],
+    "correct": 3,
+    "question_en": "The place where the first Islamic state was firmly established in India",
+    "options_en": [
+      "Delhi",
+      "Kannauj",
+      "Jaipur",
+      "Ajmer"
+    ],
+    "explanation": "ஆஜ்மீர்",
+    "explanation_en": "Ajmer"
+  },
+  {
+    "id": 66,
+    "question": "ஆஜ்மீர் நகரைத் தோற்றுவித்தவர்",
+    "options": [
+      "மகிபாலர்",
+      "சிம்மராஜ்",
+      "சந்த் பார்தை",
+      "பிருதிவிராஜ் சௌகான்"
+    ],
+    "correct": 1,
+    "question_en": "He founded the city of Ajmer",
+    "options_en": [
+      "Mahipalar",
+      "Shimraj",
+      "Chand saw",
+      "Prithviraj Chauhan"
+    ],
+    "explanation": "சிம்மராஜ்",
+    "explanation_en": "Shimraj"
+  },
+  {
+    "id": 67,
+    "question": "பொருத்துக.\n(a) தர்மபாலர்\n(b) இராஜபோஜ்\n(c) பிரித்திவிராஜ் ரசோ\n(d) லிங்கராஜ கோயில்\n(i) சமஸ்கிருத கல்லூரி\n(ii) சந்த் பார்தை\n(iii) புவனேஸ்வர்\n(iv) நாளந்தா பல்கலைக்கழகம்",
+    "options": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+    ],
+    "correct": 2,
+    "question_en": "match\n(a) Dharmapala\n(b) Rajabhoj\n(c) Prithiviraj Raso\n(d) Lingaraja Temple\n(i) Sanskrit College\n(ii) Chand Parthai\n(iii) Bhubaneswar\n(iv) Nalanda University",
+    "options_en": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+    ],
+    "explanation": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+    "explanation_en": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+  },
+  {
+    "id": 68,
+    "question": "இராசபுத்திரர்கள் காலத்தில் கோயிற் கட்டிடக் கலையின் சிறப்பான எடுத்துக் காட்டாக திகழ்வது",
+    "options": [
+      "தில்வாரா கோயில்",
+      "கடற்கரை கோயில்",
+      "ஆயிரம் தூண் ஆலயம்",
+      "எலிஃபண்டா குகைக் கோவில்"
+    ],
+    "correct": 0,
+    "question_en": "It is an excellent example of temple architecture during the era of the Rajaputras",
+    "options_en": [
+      "Dilwara Temple",
+      "Beach Temple",
+      "Thousand Pillar Temple",
+      "Elephanta Cave Temple"
+    ],
+    "explanation": "தில்வாரா கோயில்",
+    "explanation_en": "Dilwara Temple"
+  },
+  {
+    "id": 69,
+    "question": "எழுதிய 'இந்திய வரலாறு' என்னும் நூலில் முகமது கஜினியின் பதினேழு படையெடுப்புகளைப் பற்றி குறிப்பிடுகிறார்.",
+    "options": [
+      "பிரம்ம குப்தர்",
+      "சர் ஹென்றி எலியட்",
+      "மானகா",
+      "பஹலா"
+    ],
+    "correct": 1,
+    "question_en": "In his 'History of India', Muhammad mentions seventeen invasions of Ghazni.",
+    "options_en": [
+      "Brahma Gupta",
+      "Sir Henry Eliot",
+      "Manaka",
+      "Pahala"
+    ],
+    "explanation": "சர் ஹென்றி எலியட்",
+    "explanation_en": "Sir Henry Eliot"
+  }
+]

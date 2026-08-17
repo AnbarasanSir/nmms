@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 1,
+    "question": "பாலிமர் என்ற சொல் உருவான மொழி",
+    "options": [
+      "தமிழ்",
+      "லத்தின்",
+      "கிரேக்கம்",
+      "ஆங்கிலம்"
+    ],
+    "correct": 2,
+    "question_en": "The language from which the word polymer is derived",
+    "options_en": [
+      "Tamil",
+      "Latin",
+      "Greek",
+      "English"
+    ],
+    "explanation": "கிரேக்கம்",
+    "explanation_en": "Greek"
+  },
+  {
+    "id": 2,
+    "question": "ஒற்றைப்படிகள் ________ பிணைப்பால் இணைந்து உருவாகும் நீண்ட சங்கிலித்தொடர் பலபடி ஆகும்.",
+    "options": [
+      "அயனி",
+      "சகப்பிணைப்பு",
+      "ஹைட்ரஜன் பிணைப்பு",
+      "ஈதல் சகப் பிணைப்பு"
+    ],
+    "correct": 1,
+    "question_en": "A long chain of singlets joined together by ________ bonds is a polytand.",
+    "options_en": [
+      "ion",
+      "Cohesion",
+      "Hydrogen bonding",
+      "Peer-to-peer bonding"
+    ],
+    "explanation": "ஒற்றைப்படிகள் சகப்பிணைப்பு பிணைப்பால் இணைந்து உருவாகும் நீண்ட சங்கிலித்தொடர் பலபடி ஆகும்.",
+    "explanation_en": "A long chain of singlets joined together by Cohesion bonds is a polytand."
+  },
+  {
+    "id": 3,
+    "question": "சரியான இணையைத் தேர்வு செய்க.",
+    "options": [
+      "poly - சிறிய அடிப்படை அலகு",
+      "mer - பல",
+      "எத்திலீன் - ஒற்றைப்படி",
+      "வினைல் குளோரைடு - பலபடி"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "poly - the smallest basic unit",
+      "mer—many",
+      "Ethylene - odd",
+      "Vinyl Chloride - Many"
+    ],
+    "explanation": "எத்திலீன் - ஒற்றைப்படி",
+    "explanation_en": "Ethylene - odd"
+  },
+  {
+    "id": 4,
+    "question": "PVC என்பதன் விரிவாக்கம்",
+    "options": [
+      "Poly vinyl chloride",
+      "Poly vinyl carbonate",
+      "Poly vinyl carbon",
+      "Poly vinyl alcohol"
+    ],
+    "correct": 0,
+    "question_en": "An extension of PVC",
+    "options_en": [
+      "Poly vinyl chloride",
+      "Poly vinyl carbonate",
+      "Poly vinyl carbon",
+      "Poly vinyl alcohol"
+    ],
+    "explanation": "Poly vinyl chloride",
+    "explanation_en": "Poly vinyl chloride"
+  },
+  {
+    "id": 5,
+    "question": "நமது உடல் ________ பலபடிகளால் ஆனது",
+    "options": [
+      "செயற்கை",
+      "இயற்கை",
+      "இயற்கை மற்றும் செயற்கை",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Our body is made up of ________",
+    "options_en": [
+      "Artificial",
+      "Nature",
+      "Natural and artificial",
+      "All of the above"
+    ],
+    "explanation": "நமது உடல் இயற்கை பலபடிகளால் ஆனது",
+    "explanation_en": "Our body is made up of Nature"
+  },
+  {
+    "id": 6,
+    "question": "இயற்கை பலபடிகளுக்கு எடுத்துக்காட்டு",
+    "options": [
+      "புரதம்",
+      "கார்போஹைட்ரேட்",
+      "செல்லுலோஸ்",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "An example of natural polymorphism",
+    "options_en": [
+      "protein",
+      "Carbohydrate",
+      "Cellulose",
+      "All of the above"
+    ],
+    "explanation": "மேற்கண்ட அனைத்தும்",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 7,
+    "question": "புரதங்கள் ________ வகையான அமினோ அமிலங்களால் ஆனது ஆகும்.",
+    "options": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ],
+    "correct": 2,
+    "question_en": "Proteins are made up of ________ types of amino acids.",
+    "options_en": [
+      "40",
+      "30",
+      "20",
+      "10"
+    ],
+    "explanation": "புரதங்கள் 20 வகையான அமினோ அமிலங்களால் ஆனது ஆகும்.",
+    "explanation_en": "Proteins are made up of 20 types of amino acids."
+  },
+  {
+    "id": 8,
+    "question": "புரதப் பலபடிகளுக்கு எடுத்துக்காட்டு",
+    "options": [
+      "டி.என்.ஏ",
+      "நைலான்",
+      "PVC",
+      "கண்ணாடி"
+    ],
+    "correct": 0,
+    "question_en": "Examples of protein complexes",
+    "options_en": [
+      "DNA",
+      "Nylon",
+      "PVC",
+      "Glass"
+    ],
+    "explanation": "டி.என்.ஏ",
+    "explanation_en": "DNA"
+  },
+  {
+    "id": 9,
+    "question": "கார்போஹைட்ரேட் பலபடிகளுக்கு உதாரணம்",
+    "options": [
+      "செல்லுலோஸ்",
+      "கைட்டின்",
+      "லிக்னின்",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Examples of carbohydrates",
+    "options_en": [
+      "Cellulose",
+      "Kite's",
+      "Lignin",
+      "All these"
+    ],
+    "explanation": "இவை அனைத்தும்",
+    "explanation_en": "All these"
+  },
+  {
+    "id": 10,
+    "question": "பின்வருவனவற்றுள் ரேயான் தயாரிப்பில் பயன்படும் வேதிப்பொருள்கள் எவை?",
+    "options": [
+      "சோடியம் கார்பனேட், கார்பன் டை சல்பைடு, கந்தக அமிலம்",
+      "சோடியம் பை கார்பனேட், கார்பன் டை சல்பைடு, கந்தக அமிலம்",
+      "சோடியம் கார்பனேட், கார்பன் டை ஆக்ஸைடு, கந்தக அமிலம்",
+      "சோடியம் பை கார்பனேட், கார்பன் டை ஆக்ஸைடு, கந்தக அமிலம்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following chemicals are used in the manufacture of rayon?",
+    "options_en": [
+      "Sodium carbonate, carbon disulfide, sulfuric acid",
+      "Sodium bicarbonate, carbon disulfide, sulfuric acid",
+      "Sodium carbonate, carbon dioxide, sulfuric acid",
+      "Sodium bicarbonate, carbon dioxide, sulfuric acid"
+    ],
+    "explanation": "பின்வருவனவற்றுள் ரேயான் தயாரிப்பில் பயன்படும் வேதிப்பொருள்கள் சோடியம் கார்பனேட், கார்பன் டை சல்பைடு, கந்தக அமிலம் ஆகும்.",
+    "explanation_en": "Sodium carbonate, carbon disulfide, sulfuric acid"
+  },
+  {
+    "id": 11,
+    "question": "ரேயான் தயாரிப்பில் வேதிப்பொருள்களில் செல்லுலோஸ் கரைந்து உருவாகும் திரவத்தின் பெயர்",
+    "options": [
+      "மால்டோஸ்",
+      "சுக்ரோஸ்",
+      "குளுக்கோஸ்",
+      "விஸ்கோஸ்"
+    ],
+    "correct": 3,
+    "question_en": "The name of the liquid formed by the dissolution of cellulose in the chemicals used in the manufacture of rayon",
+    "options_en": [
+      "Maltose",
+      "Sucrose",
+      "Glucose",
+      "viscose"
+    ],
+    "explanation": "விஸ்கோஸ்",
+    "explanation_en": "viscose"
+  },
+  {
+    "id": 12,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "கம்பளி",
+      "பட்டு",
+      "ரேயான்",
+      "பருத்தி"
+    ],
+    "correct": 2,
+    "question_en": "Select one that does not apply.",
+    "options_en": [
+      "Wool",
+      "Silk",
+      "Rayon",
+      "Cotton"
+    ],
+    "explanation": "ரேயான்",
+    "explanation_en": "Rayon"
+  },
+  {
+    "id": 13,
+    "question": "பொருந்தாத இணையைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "இயற்கை இழை - பட்டு",
+      "செயற்கை இழை - நைலான்",
+      "பகுதி செயற்கை இழை - ரேயான்",
+      "செயற்கை இழை - கம்பளி"
+    ],
+    "correct": 3,
+    "question_en": "To select a match that does not match.",
+    "options_en": [
+      "Natural fiber - silk",
+      "Synthetic Fiber – Nylon",
+      "Partial synthetic fiber - Rayon",
+      "Synthetic Fiber - Wool"
+    ],
+    "explanation": "செயற்கை இழை - கம்பளி",
+    "explanation_en": "Synthetic Fiber - Wool"
+  },
+  {
+    "id": 14,
+    "question": "பொருந்தாத ஒன்றைத் தேர்வு செய்க.",
+    "options": [
+      "கைட்டின்",
+      "லிக்னின்",
+      "செல்லுலோஸ்",
+      "அக்ரிலிக்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the one that doesn't apply.",
+    "options_en": [
+      "Kite's",
+      "Lignin",
+      "Cellulose",
+      "Acrylic"
+    ],
+    "explanation": "அக்ரிலிக்",
+    "explanation_en": "Acrylic"
+  },
+  {
+    "id": 15,
+    "question": "பொருந்தாத ஒன்றைத் தேர்வு செய்க.",
+    "options": [
+      "பாலியெஸ்டர்",
+      "நைலான்",
+      "கம்பளி",
+      "அக்ரிலிக்"
+    ],
+    "correct": 2,
+    "question_en": "Choose the one that doesn't apply.",
+    "options_en": [
+      "Polyester",
+      "Nylon",
+      "Wool",
+      "Acrylic"
+    ],
+    "explanation": "கம்பளி",
+    "explanation_en": "Wool"
+  },
+  {
+    "id": 16,
+    "question": "பொருத்துக: i) நைலான் ii) ரேயான் iii) நெகிழி iv) PVC \na) கந்தக அமிலம், சோடியம் கார்பனேட் b) அடிப்பிக் அமிலம் ஹெக்ஸா மெத்திலீன் டை அமீன் c) வினைல் குளோரைடு d) எத்திலீன், புரொப்பிலீன்",
+    "options": [
+      "i-b, ii-d, iii-a, iv-c",
+      "i-d, ii-c, iii-b, iv-a",
+      "i-a, ii-b, iii-c, iv-d",
+      "i-b, ii-a, iii-d, iv-c"
+    ],
+    "correct": 3,
+    "question_en": "Match: i) Nylon ii) Rayon iii) Elastic iv) PVC \na) Sulfuric acid, sodium carbonate b) Adipic acid Hexamethylene diamine c) Vinyl chloride d) Ethylene, propylene",
+    "options_en": [
+      "i-b, ii-d, iii-a, iv-c",
+      "i-d, ii-c, iii-b, iv-a",
+      "i-a, ii-b, iii-c, iv-d",
+      "i-b, ii-a, iii-d, iv-c"
+    ],
+    "explanation": "i-b, ii-a, iii-d, iv-c",
+    "explanation_en": "i-b, ii-a, iii-d, iv-c"
+  },
+  {
+    "id": 17,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "லாமா - கம்பளி",
+      "யாக் - பட்டு",
+      "மல்பெரி - நைலான்",
+      "கனிமம் - சணல்"
+    ],
+    "correct": 0,
+    "question_en": "To select the correct counterpart.",
+    "options_en": [
+      "Llama - wool",
+      "Yak - silk",
+      "Mulberry - Nylon",
+      "Mineral - Jute"
+    ],
+    "explanation": "லாமா - கம்பளி",
+    "explanation_en": "Llama - wool"
+  },
+  {
+    "id": 18,
+    "question": "தாவரங்களுக்கு கட்டமைப்பைக் கொடுப்பதில் முக்கியமானது",
+    "options": [
+      "கைட்டின்",
+      "லிக்னின்",
+      "செல்லுலோஸ்",
+      "சர்க்கரை"
+    ],
+    "correct": 1,
+    "question_en": "Important in giving structure to plants",
+    "options_en": [
+      "Kite's",
+      "Lignin",
+      "Cellulose",
+      "Sugar"
+    ],
+    "explanation": "லிக்னின்",
+    "explanation_en": "Lignin"
+  },
+  {
+    "id": 19,
+    "question": "பூஞ்சைகளின் செல்சுவர், நண்டுகள், சிலந்திகள் போன்ற பூச்சிகளின் எலும்பு கூடுகளில் காணப்படுவது",
+    "options": [
+      "சர்க்கரை",
+      "லிக்னின்",
+      "கைட்டின்",
+      "செல்லுலோஸ்"
+    ],
+    "correct": 2,
+    "question_en": "Cell wall of fungi, found in bony nests of insects like crabs, spiders",
+    "options_en": [
+      "Sugar",
+      "Lignin",
+      "Kite's",
+      "Cellulose"
+    ],
+    "explanation": "கைட்டின்",
+    "explanation_en": "Kite's"
+  },
+  {
+    "id": 20,
+    "question": "பின்வருவனவற்றுள் ஒற்றைப்படிகளின் பண்புகள், பிணைப்பு அடிப்படையில் பலபடிகள் எவ்வாறு வகைப்படுத்தப்படுகிறது?",
+    "options": [
+      "நைலான், செல்லுலோஸ், ரேயான்",
+      "லிக்னின், கைட்டின், ரேயான்",
+      "இழைகள், நெகிழிகள், புரதங்கள்",
+      "செல்லுலோஸ், அக்ரிலிக், பட்டு"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following are characteristics of monolayers, how are polyhedra classified based on bonding?",
+    "options_en": [
+      "Nylon, Cellulose, Rayon",
+      "Lignin, chitin, rayon",
+      "Fibers, fibers, proteins",
+      "Cellulose, acrylic, silk"
+    ],
+    "explanation": "இழைகள், நெகிழிகள், புரதங்கள்",
+    "explanation_en": "Fibers, fibers, proteins are characteristics of monolayers, how are polyhedra classified based on bonding."
+  },
+  {
+    "id": 21,
+    "question": "பொருத்துக: i) இயற்கை பலபடி ii) செயற்கை பலபடி iii) புரதப் பலபடி iv) பகுதி செயற்கை பலபடி \na) நைலான், பாலியெஸ்டர் b) நமது உடல் c) ரேயான் d) டி.என்.ஏ. நொதிகள்",
+    "options": [
+      "i-b, ii-d, iii-a, iv-c",
+      "i-d, ii-c, iii-b, iv-a",
+      "i-a, ii-b, iii-c, iv-d",
+      "i-b, ii-a, iii-d, iv-c"
+    ],
+    "correct": 3,
+    "question_en": "Match: i) Natural polymorphism ii) Synthetic polymorphism iii) Protein polymorphism iv) Partially synthetic polymorphism \na) Nylon, Polyester b) Our body c) Rayon d) DNA Enzymes",
+    "options_en": [
+      "i-b, ii-d, iii-a, iv-c",
+      "i-d, ii-c, iii-b, iv-a",
+      "i-a, ii-b, iii-c, iv-d",
+      "i-b, ii-a, iii-d, iv-c"
+    ],
+    "explanation": "i-b, ii-a, iii-d, iv-c",
+    "explanation_en": "i-b, ii-a, iii-d, iv-c"
+  },
+  {
+    "id": 22,
+    "question": "பொருந்தாத ஒன்றைத் தேர்வு செய்க.",
+    "options": [
+      "டி.என்.ஏ",
+      "லிக்னின்",
+      "கைட்டின்",
+      "செல்லுலோஸ்"
+    ],
+    "correct": 0,
+    "question_en": "Choose the one that doesn't apply.",
+    "options_en": [
+      "DNA",
+      "Lignin",
+      "Kite's",
+      "Cellulose"
+    ],
+    "explanation": "டி.என்.ஏ",
+    "explanation_en": "DNA"
+  },
+  {
+    "id": 23,
+    "question": "1946 ல் முதல் ரேயான் தொழிற்சாலை எந்த மாநிலத்தில் அமைக்கப்பட்டுள்ளது?",
+    "options": [
+      "தமிழ்நாடு",
+      "கேரளா",
+      "ஆந்திரா",
+      "கோவா"
+    ],
+    "correct": 1,
+    "question_en": "The first rayon factory was set up in 1946 in which state?",
+    "options_en": [
+      "Tamil Nadu",
+      "Kerala",
+      "Andhra",
+      "Goa"
+    ],
+    "explanation": "கேரளா",
+    "explanation_en": "Kerala"
+  },
+  {
+    "id": 24,
+    "question": "தனித்த ஒன்றைத் தேர்வு செய்க.",
+    "options": [
+      "மல்பெரி",
+      "டஸ்ஸர்",
+      "கம்பளி",
+      "எரி"
+    ],
+    "correct": 2,
+    "question_en": "Choose a unique one.",
+    "options_en": [
+      "Mulberry",
+      "Tusser",
+      "Wool",
+      "Eri"
+    ],
+    "explanation": "கம்பளி",
+    "explanation_en": "Wool"
+  },
+  {
+    "id": 25,
+    "question": "செயற்கை பட்டு என அழைக்கப்படுவது",
+    "options": [
+      "மல்பெரி",
+      "டஸ்ஸர்",
+      "ரேயான்",
+      "நைலான்"
+    ],
+    "correct": 2,
+    "question_en": "Also known as artificial silk",
+    "options_en": [
+      "Mulberry",
+      "Tusser",
+      "Rayon",
+      "Nylon"
+    ],
+    "explanation": "ரேயான்",
+    "explanation_en": "Rayon"
+  },
+  {
+    "id": 26,
+    "question": "தவறான இணையைத் தேர்வு செய்க.",
+    "options": [
+      "மல்பெரி, முகா, எரி - பட்டு",
+      "பருத்தி, பட்டு, கம்பளி - இயற்கை இழை",
+      "எத்திலீன், புரொப்பிலீன் - பகுதி செயற்கை இழை",
+      "நைலான், பாலியெஸ்டர் - செயற்கை இழை"
+    ],
+    "correct": 2,
+    "question_en": "Choose the wrong pair.",
+    "options_en": [
+      "Mulberry, Muga, Eri - silk",
+      "Cotton, silk, wool - natural fibers",
+      "Ethylene, propylene - partially synthetic fiber",
+      "Nylon, Polyester - synthetic fiber"
+    ],
+    "explanation": "எத்திலீன், புரொப்பிலீன் - பகுதி செயற்கை இழை",
+    "explanation_en": "Ethylene, propylene - partially synthetic fiber"
+  },
+  {
+    "id": 27,
+    "question": "நெகிழிப்பொருள்கள் தயாரிப்பின் போது கிடைக்கும் துணை விளை பொருள்களிலிருந்து உருவாக்கப்படுவது",
+    "options": [
+      "ரேயான்",
+      "நைலான்",
+      "பேக்கலைட்",
+      "அக்ரிலிக்"
+    ],
+    "correct": 3,
+    "question_en": "Manufactured from by-products obtained during the manufacture of plastics",
+    "options_en": [
+      "Rayon",
+      "Nylon",
+      "Bakelite",
+      "Acrylic"
+    ],
+    "explanation": "அக்ரிலிக்",
+    "explanation_en": "Acrylic"
+  },
+  {
+    "id": 28,
+    "question": "வெப்பத்தினால் இறுகும் நெகிழிக்கு உதாரணம்",
+    "options": [
+      "ரேயான்",
+      "நைலான்",
+      "பேக்கலைட்",
+      "அக்ரிலிக்"
+    ],
+    "correct": 2,
+    "question_en": "An example of heat-shrinkable ductility",
+    "options_en": [
+      "Rayon",
+      "Nylon",
+      "Bakelite",
+      "Acrylic"
+    ],
+    "explanation": "பேக்கலைட்",
+    "explanation_en": "Bakelite"
+  },
+  {
+    "id": 29,
+    "question": "பின்வருவனவற்றுள் சங்கிலிகளுக்கு இடையே குறுக்குப் பிணைப்பு கொண்ட நெகிழி வகை எது?",
+    "options": [
+      "இளகும் நெகிழி",
+      "இறுகும் நெகிழி",
+      "இளகும், இறுகும் நெகிழி",
+      "பாலி எத்திலீன்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a type of elastic cross-linking between chains?",
+    "options_en": [
+      "Soft and flexible",
+      "Tight elastic",
+      "Flexible, tight fit",
+      "Polyethylene"
+    ],
+    "explanation": "பின்வருவனவற்றுள் சங்கிலிகளுக்கு இடையே குறுக்குப் பிணைப்பு கொண்ட நெகிழி வகை இறுகும் நெகிழி ஆகும்.",
+    "explanation_en": "Tight elastic is a type of elastic cross-linking between chains."
+  },
+  {
+    "id": 30,
+    "question": "தீயணைப்பு வீரர்களின் ஆடைகள் தயாரிக்கப் பயன்படுவது",
+    "options": [
+      "மெலமைன்",
+      "பேக்கலைட்",
+      "பாலியெஸ்டர்",
+      "கம்பளி"
+    ],
+    "correct": 0,
+    "question_en": "Used to make firemen's clothing",
+    "options_en": [
+      "Melamine",
+      "Bakelite",
+      "Polyester",
+      "Wool"
+    ],
+    "explanation": "மெலமைன்",
+    "explanation_en": "Melamine"
+  },
+  {
+    "id": 31,
+    "question": "ரெசின் குறியீடு அடிப்படையில் நெகிழி எத்தனை வகைப்படும்?",
+    "options": [
+      "6",
+      "7",
+      "9",
+      "5"
+    ],
+    "correct": 1,
+    "question_en": "How many types of resin are classified based on resin index?",
+    "options_en": [
+      "6",
+      "7",
+      "9",
+      "5"
+    ],
+    "explanation": "7",
+    "explanation_en": "7 types of resin are classified based on resin index."
+  },
+  {
+    "id": 32,
+    "question": "பெட்ரோலிய எண்ணெய், வாயுக்களை பகுதிப் பொருள்களாக பின்னக் காய்ச்சிவடித்தல் முறையில் பிரித்தெடுக்கும் பொழுது கிடைக்கும் துணை விளைபொருள்கள் எவை?",
+    "options": [
+      "பென்சீன், ஈத்தேன்",
+      "எத்திலீன், புரொப்பிலீன்",
+      "கார்பன், பென்சீன்",
+      "மீத்தேன், ஈத்தேன்"
+    ],
+    "correct": 1,
+    "question_en": "What are the by-products obtained during fractional distillation of petroleum oil and gases?",
+    "options_en": [
+      "Benzene, Ethane",
+      "Ethylene, Propylene",
+      "Carbon, Benzene",
+      "Methane, Ethane"
+    ],
+    "explanation": "பெட்ரோலிய எண்ணெய், வாயுக்களை பகுதிப் பொருள்களாக பின்னக் காய்ச்சிவடித்தல் முறையில் பிரித்தெடுக்கும் பொழுது கிடைக்கும் துணை விளைபொருள்கள் எத்திலீன், புரொப்பிலீன் ஆகும்.",
+    "explanation_en": "Ethylene, Propylene"
+  },
+  {
+    "id": 33,
+    "question": "பின்வருவனவற்றுள் நெகிழிகளை உருவாக்கும் அடிப்படை கட்டமைப்புப் பொருள்கள் எவை?",
+    "options": [
+      "பென்சீன், ஈத்தேன்",
+      "எத்திலீன், புரொப்பிலீன்",
+      "கார்பன், பென்சீன்",
+      "மீத்தேன், ஈத்தேன்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following are the basic structural elements that make up ligaments?",
+    "options_en": [
+      "Benzene, Ethane",
+      "Ethylene, Propylene",
+      "Carbon, Benzene",
+      "Methane, Ethane"
+    ],
+    "explanation": "பின்வருவனவற்றுள் நெகிழிகளை உருவாக்கும் அடிப்படை கட்டமைப்புப் பொருள்கள் எத்திலீன், புரொப்பிலீன் ஆகும்.",
+    "explanation_en": "Ethylene, Propylene are the basic structural elements that make up ligaments."
+  },
+  {
+    "id": 34,
+    "question": "கூற்று 1: தொழில்நுட்பம், கட்டுமானம், சுகாதாரம், போக்குவரத்து துறைகளில் நான் அரும்பங்கு ஆற்றுகிறேன். கூற்று 2: குறைந்த எடை, அதிக வலிமை, சிக்கலான பல வடிவங்கள் எடுக்கும் தன்மை உடையவன். கூற்று 3: புற ஊதாக் கதிர்களை தடுக்கும் சக்தியும் எனக்கு உண்டு. நான் யார்?",
+    "options": [
+      "பட்டு",
+      "எத்திலீன்",
+      "நெகிழி",
+      "அக்ரிலிக்"
+    ],
+    "correct": 2,
+    "question_en": "Statement 1: I invest in technology, construction, health, transport sectors. Assertion 2: Light weight, high strength, complex form factor. Statement 3: I also have the power to block UV rays. who am i",
+    "options_en": [
+      "Silk",
+      "Ethylene",
+      "flexibility",
+      "Acrylic"
+    ],
+    "explanation": "நெகிழி",
+    "explanation_en": "flexibility"
+  },
+  {
+    "id": 35,
+    "question": "நெகிழி உறிஞ்சுக்குழாய்கள் தயாரிக்கப் பயன்படுவது",
+    "options": [
+      "அசிட்டிலீன்",
+      "ரேயான்",
+      "புரொப்பிலீன்",
+      "வினைல் குளோரைடு"
+    ],
+    "correct": 2,
+    "question_en": "Used to make flexible suction hoses",
+    "options_en": [
+      "Acetylene",
+      "Rayon",
+      "Propylene",
+      "Vinyl chloride"
+    ],
+    "explanation": "புரொப்பிலீன்",
+    "explanation_en": "Propylene"
+  },
+  {
+    "id": 36,
+    "question": "தமிழக அரசு ஒருமுறை மட்டுமே பயன்படுத்தி எறியப்படும் நெகிழிப் பொருள்களுக்கு தடை விதித்த நாள்",
+    "options": [
+      "சனவரி 1, 2020",
+      "சனவரி 1, 2019",
+      "சனவரி 1, 2021",
+      "சனவரி 1, 2018"
+    ],
+    "correct": 1,
+    "question_en": "The day Tamil Nadu government banned disposable plastic items",
+    "options_en": [
+      "January 1, 2020",
+      "January 1, 2019",
+      "January 1, 2021",
+      "January 1, 2018"
+    ],
+    "explanation": "சனவரி 1, 2019",
+    "explanation_en": "January 1, 2019"
+  },
+  {
+    "id": 37,
+    "question": "தீங்கு விளைவிக்கக்கூடிய காட்மியம், ஈயம் போன்ற கன உலோகங்களைத் தன்னகத்தே கொண்டுள்ள பொருள் எது?",
+    "options": [
+      "PET பாட்டில்",
+      "PVC நீர் குழாய்",
+      "தெர்மாகோல்",
+      "நைலான்"
+    ],
+    "correct": 1,
+    "question_en": "Which material contains harmful heavy metals like cadmium and lead?",
+    "options_en": [
+      "PET bottle",
+      "PVC water pipe",
+      "Thermocol",
+      "Nylon"
+    ],
+    "explanation": "தீங்கு விளைவிக்கக்கூடிய காட்மியம், ஈயம் போன்ற கன உலோகங்களைத் தன்னகத்தே கொண்டுள்ள பொருள் PVC நீர் குழாய் ஆகும்.",
+    "explanation_en": "PVC water pipe"
+  },
+  {
+    "id": 38,
+    "question": "பின்வருவனவற்றுள் புற்றுநோய் ஏற்படுத்த காரணமான பொருள்களுள் ஒன்று எது?",
+    "options": [
+      "குளோரின்",
+      "ஸ்டைரீன்",
+      "அயோடின்",
+      "பாலி அமைடு"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following substances is known to cause cancer?",
+    "options_en": [
+      "Chlorine",
+      "Styrene",
+      "Iodine",
+      "Poly amide"
+    ],
+    "explanation": "பின்வருவனவற்றுள் புற்றுநோய் ஏற்படுத்த காரணமான பொருள்களுள் ஒன்று ஸ்டைரீன் ஆகும்.",
+    "explanation_en": "Styrene"
+  },
+  {
+    "id": 39,
+    "question": "பின்வருவனவற்றுள் நீர் நிலைகளில் நுண்ணிய நெகிழிகள் கலக்கக் காரணமாக அமைவது எது?",
+    "options": [
+      "பற்பசை",
+      "பாலியெஸ்டர்",
+      "உறிஞ்சுக் குழாய்கள்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following causes the mixing of microscopic molecules in aqueous solutions?",
+    "options_en": [
+      "Toothpaste",
+      "Polyester",
+      "Suction tubes",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் நீர் நிலைகளில் நுண்ணிய நெகிழிகள் கலக்கக் காரணமாக அமைவது அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 40,
+    "question": "பின்வருவனவற்றுள் கடலில் கலக்கும் நெகிழிக் கழிவுகள், நுண்ணிய நெகிழிகளாக சிதைவுறக் காரணமாக அமைவது எது?",
+    "options": [
+      "உவர்த்தன்மை",
+      "சூரிய ஒளி",
+      "கடல் அலை",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is responsible for the degradation of plastic waste in the ocean into microplastics?",
+    "options_en": [
+      "Salinity",
+      "sunlight",
+      "sea ​​wave",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் கடலில் கலக்கும் நெகிழிக் கழிவுகள், நுண்ணிய நெகிழிகளாக சிதைவுறக் காரணமாக அமைவது அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is responsible for the degradation of plastic waste in the ocean into microplastics."
+  },
+  {
+    "id": 41,
+    "question": "உற்பத்தியாகும் நெகிழிக் கழிவுகளில் சுமார் _________ % மட்டுமே மறுசுழற்சி செய்யப்படுகிறது.",
+    "options": [
+      "79",
+      "12",
+      "9",
+      "1"
+    ],
+    "correct": 2,
+    "question_en": "Only about _________ % of the plastic waste generated is recycled.",
+    "options_en": [
+      "79",
+      "12",
+      "9",
+      "1"
+    ],
+    "explanation": "உற்பத்தியாகும் நெகிழிக் கழிவுகளில் சுமார் 9 % மட்டுமே மறுசுழற்சி செய்யப்படுகிறது.",
+    "explanation_en": "Only about 9 % of the plastic waste generated is recycled."
+  },
+  {
+    "id": 42,
+    "question": "இயற்கை இழை : கம்பளி :: செயற்கை இழை : ?",
+    "options": [
+      "பட்டு",
+      "பருத்தி",
+      "அக்ரிலிக்",
+      "கம்பளி"
+    ],
+    "correct": 2,
+    "question_en": "Natural Fiber : Wool :: Synthetic Fiber : ?",
+    "options_en": [
+      "Silk",
+      "Cotton",
+      "Acrylic",
+      "Wool"
+    ],
+    "explanation": "அக்ரிலிக்",
+    "explanation_en": "Acrylic"
+  },
+  {
+    "id": 43,
+    "question": "கக்கூன்களை கொதிக்க வைத்து பெறப்படுவது",
+    "options": [
+      "பட்டு",
+      "பருத்தி",
+      "அக்ரிலிக்",
+      "கம்பளி"
+    ],
+    "correct": 0,
+    "question_en": "Obtained by boiling cuckoos",
+    "options_en": [
+      "Silk",
+      "Cotton",
+      "Acrylic",
+      "Wool"
+    ],
+    "explanation": "பட்டு",
+    "explanation_en": "Silk"
+  },
+  {
+    "id": 44,
+    "question": "செயற்கை இழைகளின் சிறப்பு",
+    "options": [
+      "சுருங்காது",
+      "நிறம் மாறாது",
+      "விலை மலிவு",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Specialties of synthetic fibers",
+    "options_en": [
+      "Does not shrink",
+      "The color does not change",
+      "The price is affordable",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 45,
+    "question": "செயற்கை இழைகளின் குறைபாடு",
+    "options": [
+      "எளிதில் தீப்பற்றும்",
+      "வெப்பம் தாங்காது",
+      "காற்றோட்டம் இருக்காது",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Disadvantages of synthetic fibers",
+    "options_en": [
+      "Flammable",
+      "Heat resistant",
+      "There will be no ventilation",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 46,
+    "question": "பின்வருவனவற்றுள் உயிரி நெகிழி தயாரிப்பில் பயன்படும் பொருள் எது?",
+    "options": [
+      "குளோரின்",
+      "கிளிசரின்",
+      "அயோடின்",
+      "ஸ்டைரீன்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is used in the production of bio-plastics?",
+    "options_en": [
+      "Chlorine",
+      "Glycerin",
+      "Iodine",
+      "Styrene"
+    ],
+    "explanation": "பின்வருவனவற்றுள் உயிரி நெகிழி தயாரிப்பில் பயன்படும் பொருள் கிளிசரின் ஆகும்.",
+    "explanation_en": "Glycerin is used in the production of bio-plastics."
+  },
+  {
+    "id": 47,
+    "question": "கூற்று: செயற்கை இழைகள் மறைமுகமாக பெரிய அளவில் நிலம், நீர் நிலைகளை மாசுபடுத்துகிறது. காரணம்: செயற்கை இழைகள் நுண்ணிய இழைகளாக சிதைகிறது.",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று காரணம் இரண்டும் சரி",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்று காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Claim: Synthetic fibers indirectly pollute land and water bodies to a large extent. Reason: Synthetic fibers break down into fine fibers.",
+    "options_en": [
+      "The statement is true and the reason is false",
+      "Both statements are correct",
+      "The statement is false and the reason is correct",
+      "Both statements are false"
+    ],
+    "explanation": "கூற்று காரணம் இரண்டும் சரி",
+    "explanation_en": "Both statements are correct"
+  },
+  {
+    "id": 48,
+    "question": "கூற்று: கண்ணாடி தயாரிக்க மணலுடன் சோடியம் கார்பனேட் சேர்க்கப்படுகிறது. காரணம்: மணலின் வெப்பநிலையை குறைக்க சோடா சாம்பல் பயன்படுகிறது.",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று காரணம் இரண்டும் சரி",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்று காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Assertion: Sodium carbonate is added to sand to make glass. Reason: Soda ash is used to reduce the temperature of the sand.",
+    "options_en": [
+      "The statement is true and the reason is false",
+      "Both statements are correct",
+      "The statement is false and the reason is correct",
+      "Both statements are false"
+    ],
+    "explanation": "கூற்று காரணம் இரண்டும் சரி",
+    "explanation_en": "Both statements are correct"
+  },
+  {
+    "id": 49,
+    "question": "சரியான இணையைத் தேர்வு செய்க.",
+    "options": [
+      "பைரக்ஸ் கண்ணாடி - ஈய ஆக்ஸைடு",
+      "வெட்டக்கூடிய கண்ணாடி - சோடா லைம்",
+      "கருமை நிறக்கண்ணாடி - வெள்ளி அயோடைடு",
+      "சாதாரண கண்ணாடி - போரான் ஆக்ஸைடு"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Pyrex glass - lead oxide",
+      "Cuttable glass - soda lime",
+      "Stained Glass - Silver Iodide",
+      "Ordinary Glass - Boron Oxide"
+    ],
+    "explanation": "கருமை நிறக்கண்ணாடி - வெள்ளி அயோடைடு",
+    "explanation_en": "Stained Glass - Silver Iodide"
+  },
+  {
+    "id": 50,
+    "question": "கூற்று: கண்ணாடி தயாரிப்பின் போது சோடா சாம்பல் சேர்க்கப்பட்ட மணல் விரைவாக குளிர்விக்கப்படுகிறது. காரணம் 1: விரைவாக குளிர்விக்க அணுக்கள் தனது பழைய படிக அமைப்பைப் பெற்று உறுதியாக இருக்கும். காரணம் 2: விரைவாக குளிர்விக்க அணுக்கள் புதிய படிக அமைப்பைப் பெறும்.",
+    "options": [
+      "கூற்று, காரணம் 2 சரி, காரணம் 1 தவறு",
+      "கூற்று, காரணங்கள் சரி",
+      "கூற்று, காரணம் 1 சரி, காரணம் 2 தவறு",
+      "கூற்று, காரணங்கள் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: The sand to which soda ash is added is cooled rapidly during the manufacture of glass. Reason 1: Rapid cooling causes the atoms to regain their old crystal structure and solidify. Reason 2: Atoms acquire a new crystal structure to cool faster.",
+    "options_en": [
+      "Statement, reason 2 is true, reason 1 is false",
+      "The statement, the reasons are correct",
+      "Statement, reason 1 is true, reason 2 is false",
+      "Claims, reasons are wrong"
+    ],
+    "explanation": "கூற்று, காரணம் 1 சரி, காரணம் 2 தவறு",
+    "explanation_en": "Statement, reason 1 is true, reason 2 is false"
+  },
+  {
+    "id": 51,
+    "question": "ஐடெனல்லா சகீயன்சிஸ் 201-F6 என்ற பாக்டீரியா சிதைக்கும் PET பாட்டில்கள் எந்த ரெசின் குறியீட்டு வகையைச் சார்ந்தது?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "question_en": "Idenella sachiensis 201-F6 bacteria-degrading PET bottles belong to which resin code category?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "1",
+    "explanation_en": "1"
+  },
+  {
+    "id": 52,
+    "question": "PET என்பதன் விரிவாக்கம்",
+    "options": [
+      "பாலி டெரிப்தாலேட்",
+      "பாலியெஸ்டர்",
+      "பாலி டெரிலின்",
+      "பாலி எத்திலீன் டெரிப்தாலேட்"
+    ],
+    "correct": 3,
+    "question_en": "An extension of PET",
+    "options_en": [
+      "Poly terephthalate",
+      "Polyester",
+      "Polly Terrilyn",
+      "Polyethylene terephthalate"
+    ],
+    "explanation": "பாலி எத்திலீன் டெரிப்தாலேட்",
+    "explanation_en": "Polyethylene terephthalate"
+  },
+  {
+    "id": 53,
+    "question": "எட்மண்ட் அலெக்ஸாண்டர் பார்க்ஸ் உருவாக்கிய முதல் நெகிழியின் பெயர்",
+    "options": [
+      "பார்க்கிசீன்",
+      "PET",
+      "பாலி லாக்டிக் அமிலம்",
+      "பாலியெஸ்டர்"
+    ],
+    "correct": 0,
+    "question_en": "Name of the first elastic made by Edmund Alexander Parks",
+    "options_en": [
+      "Parkcene",
+      "PET",
+      "Poly lactic acid",
+      "Polyester"
+    ],
+    "explanation": "பார்க்கிசீன்",
+    "explanation_en": "Parkcene"
+  },
+  {
+    "id": 54,
+    "question": "PLA என்பது",
+    "options": [
+      "Poly Lactic Acid",
+      "Poly Lactic Amine",
+      "Programmable Logic Array",
+      "Poly Lactic Amide"
+    ],
+    "correct": 0,
+    "question_en": "PLA stands for",
+    "options_en": [
+      "Poly Lactic Acid",
+      "Polylactic Amine",
+      "Programmable Logic Array",
+      "Poly Lactic Amide"
+    ],
+    "explanation": "Poly Lactic Acid",
+    "explanation_en": "Poly Lactic Acid"
+  },
+  {
+    "id": 55,
+    "question": "பட்டு, கம்பளியை விட வலிமையானது",
+    "options": [
+      "பருத்தி",
+      "நைலான்",
+      "ரேயான்",
+      "அக்ரிலிக்"
+    ],
+    "correct": 1,
+    "question_en": "Silk is stronger than wool",
+    "options_en": [
+      "Cotton",
+      "Nylon",
+      "Rayon",
+      "Acrylic"
+    ],
+    "explanation": "நைலான்",
+    "explanation_en": "Nylon"
+  },
+  {
+    "id": 56,
+    "question": "கம்பளி போன்ற தோற்றமுடையது",
+    "options": [
+      "பருத்தி",
+      "நைலான்",
+      "ரேயான்",
+      "அக்ரிலிக்"
+    ],
+    "correct": 3,
+    "question_en": "Woolly in appearance",
+    "options_en": [
+      "Cotton",
+      "Nylon",
+      "Rayon",
+      "Acrylic"
+    ],
+    "explanation": "அக்ரிலிக்",
+    "explanation_en": "Acrylic"
+  },
+  {
+    "id": 57,
+    "question": "சரியான இணையைத் தேர்வு செய்க.",
+    "options": [
+      "நைலான் - மரக்கூழ்",
+      "PVC - இறுகும் நெகிழி",
+      "பேக்கலைட் - இளகும் நெகிழி",
+      "டெஃப்லான் - ஒட்டாத சமையற்கலன்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Nylon - wood pulp",
+      "PVC - Stretchable PVC",
+      "Bakelite - flexible ductile",
+      "Teflon - Non-stick cookware"
+    ],
+    "explanation": "டெஃப்லான் - ஒட்டாத சமையற்கலன்",
+    "explanation_en": "Teflon - Non-stick cookware"
+  },
+  {
+    "id": 58,
+    "question": "கூற்று: மண்ணில் புதைக்கப்பட்ட காய்கறிக் கழிவுகள் இரு வாரங்களில் மறைய, நெகிழிப்பைகள் அப்படியே உள்ளது. காரணம்: காய்கறிக்கழிவுகள் மட்காத தன்மையும், நெகிழிப்பைகள் மட்கும் தன்மையும் உடையவை.",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று காரணம் இரண்டும் சரி",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்று காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Claim: Vegetable waste buried in soil disappears in two weeks, plastic bags remain intact. Reason: Vegetable waste is non-compostable and plastic bags are compostable.",
+    "options_en": [
+      "The statement is true and the reason is false",
+      "Both statements are correct",
+      "The statement is false and the reason is correct",
+      "Both statements are false"
+    ],
+    "explanation": "கூற்று சரி காரணம் தவறு",
+    "explanation_en": "The statement is true and the reason is false"
+  },
+  {
+    "id": 59,
+    "question": "மரக்கூழ் + சோடியம் ஹைட்ராக்ஸைடு + கார்பன் டை சல்பைடு -> ?",
+    "options": [
+      "ரேயான்",
+      "விஸ்கோஸ்",
+      "நைலான்",
+      "அக்ரிலிக்"
+    ],
+    "correct": 0,
+    "question_en": "Wood pulp + sodium hydroxide + carbon disulfide -> ?",
+    "options_en": [
+      "Rayon",
+      "viscose",
+      "Nylon",
+      "Acrylic"
+    ],
+    "explanation": "ரேயான்",
+    "explanation_en": "Rayon"
+  },
+  {
+    "id": 60,
+    "question": "பாலிகாட் : பாலியெஸ்டர் + பருத்தி :: பாலிவுல் : _________",
+    "options": [
+      "பாலியெஸ்டர் + செம்பருத்தி",
+      "எஸ்டர் + பருத்தி",
+      "பாலியெஸ்டர் + கம்பளி",
+      "எஸ்டர் + கம்பளி"
+    ],
+    "correct": 2,
+    "question_en": "Polycot : Polyester + Cotton :: Polywool : _________",
+    "options_en": [
+      "Polyester + Hibiscus",
+      "Ester + Cotton",
+      "Polyester + Wool",
+      "Ester + wool"
+    ],
+    "explanation": "பாலிகாட் : பாலியெஸ்டர் + பருத்தி :: பாலிவுல் : பாலியெஸ்டர் + கம்பளி",
+    "explanation_en": "Polycot : Polyester + Cotton :: Polywool : Polyester + Wool"
+  },
+  {
+    "id": 61,
+    "question": "மனிதனால் உருவாக்கப்பட்ட முதல் இழை ஆகும்.",
+    "options": [
+      "பாலியெஸ்டர்",
+      "ரேயான்",
+      "பஞ்சு",
+      "நைலான்"
+    ],
+    "correct": 3,
+    "question_en": "It was the first human-made fiber.",
+    "options_en": [
+      "Polyester",
+      "Rayon",
+      "Cotton",
+      "Nylon"
+    ],
+    "explanation": "நைலான்",
+    "explanation_en": "Nylon"
+  },
+  {
+    "id": 62,
+    "question": "ஓர் இயற்கை இழையினை சுடரில் காட்டினால் அவ்விழை",
+    "options": [
+      "உருகும்",
+      "வெடிக்கும்",
+      "சுருங்கும்",
+      "எரியும்"
+    ],
+    "correct": 3,
+    "question_en": "If a natural fiber is exposed to a flame, that fiber",
+    "options_en": [
+      "melting",
+      "Explosive",
+      "will shrink",
+      "burning"
+    ],
+    "explanation": "எரியும்",
+    "explanation_en": "burning"
+  },
+  {
+    "id": 63,
+    "question": "கம்பளியைப் போன்ற பண்புகளை உடைய செயற்கை இழை",
+    "options": [
+      "நைலான்",
+      "பாலியெஸ்டர்",
+      "அக்ரிலிக்",
+      "PVC"
+    ],
+    "correct": 2,
+    "question_en": "A synthetic fiber with properties similar to wool",
+    "options_en": [
+      "Nylon",
+      "Polyester",
+      "Acrylic",
+      "PVC"
+    ],
+    "explanation": "அக்ரிலிக்",
+    "explanation_en": "Acrylic"
+  },
+  {
+    "id": 64,
+    "question": "பொருத்துக.\na) நைலான் b) PVC c) பேக்கலைட் d) டெஃப்லான் e) ரேயான்\ni) ஒட்டாத சமையற்கலன் ii) செயற்கை இழை iii) மரக்கூழ் iv) வெப்பத்தால் இறுகும் நெகிழி v) வெப்பத்தால் இளகும் நெகிழி",
+    "options": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-iv c-i d-v e-ii",
+      "a-i b-ii c-iv d-iii e-v",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "correct": 0,
+    "question_en": "match\na) Nylon b) PVC c) Bakelite d) Teflon e) Rayon\ni) Non-stick cookware ii) Synthetic fiber iii) Wood pulp iv) Thermoset v) Thermoset",
+    "options_en": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-iv c-i d-v e-ii",
+      "a-i b-ii c-iv d-iii e-v",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "explanation": "a-ii b-v c-iv d-i e-iii",
+    "explanation_en": "a-ii b-v c-iv d-i e-iii"
+  },
+  {
+    "id": 65,
+    "question": "ஒப்புமை தருக. பருத்தி : இயற்கை : : _________ : செயற்கை",
+    "options": [
+      "பாலியெஸ்டர்",
+      "பட்டு",
+      "பருத்தி",
+      "கம்பளி"
+    ],
+    "correct": 0,
+    "question_en": "Give an analogy. Cotton : Natural : : _________ : Synthetic",
+    "options_en": [
+      "Polyester",
+      "Silk",
+      "Cotton",
+      "Wool"
+    ],
+    "explanation": "ஒப்புமை தருக. பருத்தி : இயற்கை : : பாலியெஸ்டர் : செயற்கை",
+    "explanation_en": "Give an analogy. Cotton : Natural : : Polyester : Synthetic"
+  },
+  {
+    "id": 66,
+    "question": "ஒப்புமை தருக. PLA கரண்டி : மட்கும் : நெகிழிக் கரண்டி : _________",
+    "options": [
+      "மட்கும்",
+      "மட்காது",
+      "உருகும்",
+      "இறுகும்"
+    ],
+    "correct": 1,
+    "question_en": "Give an analogy. PLA Spoon : Flexible : Flexible Spoon : _________",
+    "options_en": [
+      "fold",
+      "does not stick",
+      "melting",
+      "tight"
+    ],
+    "explanation": "ஒப்புமை தருக. PLA கரண்டி : மட்கும் : நெகிழிக் கரண்டி : மட்காது",
+    "explanation_en": "Give an analogy. PLA Spoon : Flexible : Flexible Spoon : does not stick"
+  },
+  {
+    "id": 67,
+    "question": "மட்கிப் போகும் தன்மை உடைய பிளாஸ்டிக் பொருளின் வணிகப் பெயர் (NMMS 2018)",
+    "options": [
+      "பாலிஹைட்ராக்சி பியூட்டீரேட்",
+      "ஆல்காலிஜன்ஸ்",
+      "பாலிவினைல் குளோரைடு",
+      "நெகிழி"
+    ],
+    "correct": 0,
+    "question_en": "Trade name of compostable plastic material (NMMS 2018)",
+    "options_en": [
+      "Polyhydroxybutyrate",
+      "Alkaligens",
+      "Polyvinyl chloride",
+      "flexibility"
+    ],
+    "explanation": "பாலிஹைட்ராக்சி பியூட்டீரேட்",
+    "explanation_en": "Polyhydroxybutyrate"
+  },
+  {
+    "id": 68,
+    "question": "பொருத்துக (NMMS 2020 21)\n(a) இயற்கை பலபடிகள் i. செல்லுலோஸ்\n(b) செயற்கை பலபடிகள் ii. தோல்\n(c) புரத பலபடிகள் iii. மனித உடல்\n(d) கார்போஹைட்ரேட் பலபடிகள் iv. பிளாஸ்டிக்",
+    "options": [
+      "a-iii, b-iv, c-ii, d-i",
+      "a-i, b-iii, c-ii, d-iv",
+      "a-ii, b-ii, c-i, d-iv",
+      "a-iv, b-ii, c-i, d-iii"
+    ],
+    "correct": 0,
+    "question_en": "Apply (NMMS 2020 21)\n(a) Natural polynomials i. Cellulose\n(b) Artificial polynomials ii. skin\n(c) Protein complexes iii. human body\n(d) Carbohydrate multisteps iv. Plastic",
+    "options_en": [
+      "a-iii, b-iv, c-ii, d-i",
+      "a-i, b-iii, c-ii, d-iv",
+      "a-ii, b-ii, c-i, d-iv",
+      "a-iv, b-ii, c-i, d-iii"
+    ],
+    "explanation": "a-iii, b-iv, c-ii, d-i",
+    "explanation_en": "a-iii, b-iv, c-ii, d-i"
+  },
+  {
+    "id": 69,
+    "question": "நெகிழி உண்ணும் பாக்டீரியா (NMMS 2020-21)",
+    "options": [
+      "அசட்டோபாக்டர்",
+      "நைட்ரோசோமோனாஸ்",
+      "ஐடெனல்லா சகீயன்சிஸ்",
+      "சால்மோனெல்லா"
+    ],
+    "correct": 2,
+    "question_en": "Microbial Bacteria (NMMS 2020-21)",
+    "options_en": [
+      "Acetobacter",
+      "Nitrosomonas",
+      "Idenella sagiensis",
+      "Salmonella"
+    ],
+    "explanation": "ஐடெனல்லா சகீயன்சிஸ்",
+    "explanation_en": "Idenella sagiensis"
+  }
+]

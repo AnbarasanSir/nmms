@@ -1,0 +1,922 @@
+[
+  {
+    "id": 1,
+    "question": "நல் உடல் நலத்தை பேண ______ ஐப் பின்பற்ற வேண்டும்.",
+    "options": [
+      "சுத்தம்",
+      "சுகாதாரம்",
+      "உடல்நலம்",
+      "செல்வம்"
+    ],
+    "correct": 1,
+    "question_en": "______ should be followed to maintain good health.",
+    "options_en": [
+      "Cleaning",
+      "Hygiene",
+      "Health",
+      "Wealth"
+    ],
+    "explanation": "நல் உடல் நலத்தை பேண சுகாதாரம் ஐப் பின்பற்ற வேண்டும்.",
+    "explanation_en": "Hygiene should be followed to maintain good health."
+  },
+  {
+    "id": 2,
+    "question": "சமூக சுகாதாரம் என்பது எவ்வாறு நிர்ணயிக்கப்படுகிறது?",
+    "options": [
+      "மூடிய வடிகால்கள்",
+      "திறந்த வடிகால்கள்",
+      "பிரிக்கப்படாத குப்பைகள்",
+      "தொற்று நோய்கள்"
+    ],
+    "correct": 0,
+    "question_en": "How is community health defined?",
+    "options_en": [
+      "Closed drains",
+      "Open drains",
+      "Unsorted garbage",
+      "Infectious diseases"
+    ],
+    "explanation": "மூடிய வடிகால்கள்",
+    "explanation_en": "Closed drains"
+  },
+  {
+    "id": 3,
+    "question": "டெங்கு காய்ச்சல் ______ வைரஸால் தோற்றுவிக்கப்படுகிறது.",
+    "options": [
+      "ஏடிஸ் எஜிப்டி",
+      "விப்ரியோ காலரே",
+      "DEN -1, 2",
+      "சால்மோனெல்லா டைபி"
+    ],
+    "correct": 2,
+    "question_en": "Dengue fever is caused by ______ virus.",
+    "options_en": [
+      "Aedes aegypti",
+      "Vibrio cholerae",
+      "DEN-1, 2",
+      "Salmonella typhi"
+    ],
+    "explanation": "டெங்கு காய்ச்சல் DEN -1, 2 வைரஸால் தோற்றுவிக்கப்படுகிறது.",
+    "explanation_en": "Dengue fever is caused by DEN-1, 2 virus."
+  },
+  {
+    "id": 4,
+    "question": "ஈறுகளில் இரத்தக் கசிவு ______ வைட்டமின் குறைபாட்டினால் ஏற்படுகிறது.",
+    "options": [
+      "வைட்டமின் A",
+      "வைட்டமின் B",
+      "வைட்டமின் C",
+      "வைட்டமின் D"
+    ],
+    "correct": 2,
+    "question_en": "Bleeding gums are caused by ______ vitamin deficiency.",
+    "options_en": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "explanation": "ஈறுகளில் இரத்தக் கசிவு வைட்டமின் C வைட்டமின் குறைபாட்டினால் ஏற்படுகிறது.",
+    "explanation_en": "Bleeding gums are caused by Vitamin C vitamin deficiency."
+  },
+  {
+    "id": 5,
+    "question": "புகையிலையை மெல்லுவதால் ஏற்படுவது",
+    "options": [
+      "இரத்த சோகை",
+      "பற்குழிகள்",
+      "காசநோய்",
+      "நிமோனியா"
+    ],
+    "correct": 1,
+    "question_en": "Caused by chewing tobacco",
+    "options_en": [
+      "Anemia",
+      "The eye sockets",
+      "Tuberculosis",
+      "Pneumonia"
+    ],
+    "explanation": "பற்குழிகள்",
+    "explanation_en": "The eye sockets"
+  },
+  {
+    "id": 6,
+    "question": "கண்கள் மூலமாக ______ சதவீதம் உணர்வுகளை பெறுகிறோம்.",
+    "options": [
+      "50%",
+      "80%",
+      "70%",
+      "60%"
+    ],
+    "correct": 1,
+    "question_en": "We receive ______ percent of our senses through the eyes.",
+    "options_en": [
+      "50%",
+      "80%",
+      "70%",
+      "60%"
+    ],
+    "explanation": "கண்கள் மூலமாக 80% சதவீதம் உணர்வுகளை பெறுகிறோம்.",
+    "explanation_en": "We receive 80% percent of our senses through the eyes."
+  },
+  {
+    "id": 7,
+    "question": "மெல்லும் மற்றும் ருசிக்கும் செயலை எவ்வாறு அழைக்கலாம்?",
+    "options": [
+      "கருவண்ணம்",
+      "ஃப்ளாசிங்",
+      "மாஸ்டிகேசன்",
+      "சுவை அரும்புகள்"
+    ],
+    "correct": 2,
+    "question_en": "How can the act of chewing and tasting be called?",
+    "options_en": [
+      "Black color",
+      "Flossing",
+      "Mastication",
+      "Sweet beets"
+    ],
+    "explanation": "மாஸ்டிகேசன்",
+    "explanation_en": "Mastication"
+  },
+  {
+    "id": 8,
+    "question": "பொருத்துக.\n(i) ஈறுகளில் இரத்தக் கசிவு - a. புகையிலை மெல்லுதல்\n(ii) புறத்திசு நோய் - b. பல் துலக்குதல்\n(iii) பற்சிதைவு - c. சிட்ரஸ் பழங்கள்\n(iv) பற்களில் காணப்படும் பாக்டீரியாக்கள் - d. அமிலங்களை உற்பத்தி செய்கின்றன",
+    "options": [
+      "i-a, ii-d, iii-b, iv-c",
+      "i-c, ii-a, iii-b, iv-d",
+      "i-d, ii-a, iii-b, iv-c",
+      "i-c, ii-b, iii-c, iv-d"
+    ],
+    "correct": 1,
+    "question_en": "match\n(i) Haemorrhage of gums – a. Chewing tobacco\n(ii) External disease – b. Tooth brushing\n(iii) Caries – c. Citrus fruits\n(iv) Bacteria found in teeth – d. Produces acids",
+    "options_en": [
+      "i-a, ii-d, iii-b, iv-c",
+      "i-c, ii-a, iii-b, iv-d",
+      "i-d, ii-a, iii-b, iv-c",
+      "i-c, ii-b, iii-c, iv-d"
+    ],
+    "explanation": "i-c, ii-a, iii-b, iv-d",
+    "explanation_en": "i-c, ii-a, iii-b, iv-d"
+  },
+  {
+    "id": 9,
+    "question": "ஒரு குறிப்பிட்ட பகுதியில் ஒன்றாக வாழும் மக்களை ______ என அழைக்கிறோம்.",
+    "options": [
+      "மக்கள் தொகை",
+      "சமூகம்",
+      "உயிர்கோளம்",
+      "வாழ்க்கை"
+    ],
+    "correct": 1,
+    "question_en": "People living together in a particular area are called ______.",
+    "options_en": [
+      "Population",
+      "Society",
+      "biosphere",
+      "Life"
+    ],
+    "explanation": "ஒரு குறிப்பிட்ட பகுதியில் ஒன்றாக வாழும் மக்களை சமூகம் என அழைக்கிறோம்.",
+    "explanation_en": "People living together in a particular area are called Society."
+  },
+  {
+    "id": 10,
+    "question": "கண்கள், உலகினைக் காணப் பயன்படும் ______ கருதப்படுகின்றன.",
+    "options": [
+      "உணர்வுகள்",
+      "பார்வை",
+      "சாளரங்கள்",
+      "கருவி"
+    ],
+    "correct": 2,
+    "question_en": "Eyes are considered the ______ used to see the world.",
+    "options_en": [
+      "Feelings",
+      "vision",
+      "windows",
+      "Tool"
+    ],
+    "explanation": "கண்கள், உலகினைக் காணப் பயன்படும் சாளரங்கள் கருதப்படுகின்றன.",
+    "explanation_en": "Eyes are considered the windows used to see the world."
+  },
+  {
+    "id": 11,
+    "question": "பொருத்துக\n(i) மாலைக்கண் நோய் - a. நோய் எதிர்ப்பு சக்தி கொண்ட கண்சொட்டு மருந்து\n(ii) இளம் சிவப்புக்கண் நோய் - b. வடிகட்டிகளுடன் கூடிய கண்ணாடி\n(iii) வண்ணக் குருட்டுத் தன்மை - c. ஆண்டி ஆக்ஸிடண்ட் வைட்டமின்கள்\n(iv) வெண் படல அழற்சி - d. வைரஸ் மற்றும் பாக்டீரியாவால் உண்டாகிறது",
+    "options": [
+      "(i)-c (ii)-a (iii)-b (iv)-d",
+      "(i)-b (ii)-c (iii)-a (iv)-d",
+      "(i)-d (ii)-b (iii)-a (iv)-c",
+      "(i)-c (ii)-b (iii)-a (iv)-d"
+    ],
+    "correct": 0,
+    "question_en": "match\n(i) Evening Eye Disease – a. Antibiotic eye drops\n(ii) Juvenile red eye disease – b. Glasses with filters\n(iii) Color blindness – c. Antioxidant vitamins\n(iv) Vitiligo – d. Caused by viruses and bacteria",
+    "options_en": [
+      "(i)-c (ii)-a (iii)-b (iv)-d",
+      "(i)-b (ii)-c (iii)-a (iv)-d",
+      "(i)-d (ii)-b (iii)-a (iv)-c",
+      "(i)-c (ii)-b (iii)-a (iv)-d"
+    ],
+    "explanation": "(i)-c (ii)-a (iii)-b (iv)-d",
+    "explanation_en": "(i)-c (ii)-a (iii)-b (iv)-d"
+  },
+  {
+    "id": 12,
+    "question": "தலைமுடியின் ஆரோக்கியம் உடலின் ______ நிலையைப் பிரதிபலிக்கிறது.",
+    "options": [
+      "சுகாதாரம்",
+      "ஆரோக்கியம்",
+      "ஊட்டச்சத்து நிலை",
+      "சுத்தமான"
+    ],
+    "correct": 2,
+    "question_en": "Hair health reflects the ______ state of the body.",
+    "options_en": [
+      "Hygiene",
+      "Health",
+      "Nutritional status",
+      "Clean"
+    ],
+    "explanation": "தலைமுடியின் ஆரோக்கியம் உடலின் ஊட்டச்சத்து நிலை நிலையைப் பிரதிபலிக்கிறது.",
+    "explanation_en": "Hair health reflects the Nutritional status state of the body."
+  },
+  {
+    "id": 13,
+    "question": "காச நோய் ______ என்னும் நுண்கிருமியால் உருவாகிறது.",
+    "options": [
+      "வைரஸ்",
+      "பாக்டீரியா",
+      "பூச்சுகள்",
+      "விப்ரியோ காலரே"
+    ],
+    "correct": 1,
+    "question_en": "Tuberculosis is caused by a bacterium called ______.",
+    "options_en": [
+      "Virus",
+      "Bacteria",
+      "coatings",
+      "Vibrio cholerae"
+    ],
+    "explanation": "காச நோய் பாக்டீரியா என்னும் நுண்கிருமியால் உருவாகிறது.",
+    "explanation_en": "Tuberculosis is caused by a bacterium called Bacteria."
+  },
+  {
+    "id": 14,
+    "question": "பின்வருவனவற்றுள் காலரா, டைபாய்டு பரவக் காரணமான காரணி எது?",
+    "options": [
+      "உணவு",
+      "பூச்சிகள்",
+      "மருந்துகள்",
+      "அசுத்தமான நீர்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is responsible for the spread of cholera and typhoid?",
+    "options_en": [
+      "Food",
+      "Insects",
+      "Medicines",
+      "Contaminated water"
+    ],
+    "explanation": "பின்வருவனவற்றுள் காலரா, டைபாய்டு பரவக் காரணமான காரணி அசுத்தமான நீர் ஆகும்.",
+    "explanation_en": "Contaminated water is responsible for the spread of cholera and typhoid."
+  },
+  {
+    "id": 15,
+    "question": "காசநோயை உருவாக்கும் பாக்டீரியா",
+    "options": [
+      "விப்ரியோ காலரே",
+      "மைக்கோ பாக்டீரியம் டியூபர்குலே",
+      "சால்மோனெல்லா டைஃபி",
+      "ஹெபடிட்டிஸ் பி"
+    ],
+    "correct": 1,
+    "question_en": "Tuberculosis-causing bacteria",
+    "options_en": [
+      "Vibrio cholerae",
+      "Mycobacterium tuberculosis",
+      "Salmonella typhi",
+      "Hepatitis B"
+    ],
+    "explanation": "மைக்கோ பாக்டீரியம் டியூபர்குலே",
+    "explanation_en": "Mycobacterium tuberculosis"
+  },
+  {
+    "id": 16,
+    "question": "பொருத்துக\n(i) ரேபிஸ் - a. மஞ்சள் நிற சிறுநீர்\n(ii) காலரா - b. கால்தசை\n(iii) காசநோய் - c. ஹைட்ரோ போபியா\n(iv) ஹெபடிட்டிஸ் - d. மைக்கோ பாக்டீரியம்",
+    "options": [
+      "(i)-a (ii)-b (iii)-c (iv)-d",
+      "(i)-c (ii)-b (iii)-d (iv)-a",
+      "(i)-d (ii)-b (iii)-c (iv)-a",
+      "(i)-c (ii)-b (iii)-d (iv)-a"
+    ],
+    "correct": 3,
+    "question_en": "match\n(i) Rabies – a. Yellow colored urine\n(ii) Cholera – b. leg muscle\n(iii) Tuberculosis – c. Hydrophobia\n(iv) Hepatitis – d. Mycobacterium",
+    "options_en": [
+      "(i)-a (ii)-b (iii)-c (iv)-d",
+      "(i)-c (ii)-b (iii)-d (iv)-a",
+      "(i)-d (ii)-b (iii)-c (iv)-a",
+      "(i)-c (ii)-b (iii)-d (iv)-a"
+    ],
+    "explanation": "(i)-c (ii)-b (iii)-d (iv)-a",
+    "explanation_en": "(i)-c (ii)-b (iii)-d (iv)-a"
+  },
+  {
+    "id": 17,
+    "question": "கூற்றுகளை ஆராய்க.\nகூற்று (i) வயிற்றுப்புண் ஒரு தொற்றுநோய்.\nகூற்று (ii): சின்னம்மை லூகோடெர்மா என்றும் அழைக்கப்படுகிறது.",
+    "options": [
+      "கூற்று i சரி, கூற்று ii தவறு",
+      "கூற்று i தவறு, கூற்று ii சரி",
+      "கூற்று i சரி, கூற்று ii சரி",
+      "கூற்று i தவறு, கூற்று ii தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Examine the claims.\nAssertion (i) Peptic ulcer is an epidemic.\nAssertion (ii): Chicken pox is also known as leucoderma.",
+    "options_en": [
+      "Statement i is true and statement ii is false",
+      "Statement i is false, statement ii is correct",
+      "Statement i is correct, statement ii is correct",
+      "Statement i is false, statement ii is false"
+    ],
+    "explanation": "கூற்று i தவறு, கூற்று ii தவறு",
+    "explanation_en": "Statement i is false, statement ii is false"
+  },
+  {
+    "id": 18,
+    "question": "ஒப்புமை தருக. முதல் நிலைத் தீக்காயம் : மேற்புறத்தோல் : இரண்டாம் நிலை தீக்காயம் : ?",
+    "options": [
+      "உட்தோல்",
+      "BCG",
+      "தோல் (டெர்மிஸ்) ஒட்டுதல்",
+      "உட்தோல் (டெர்மிஸ்)"
+    ],
+    "correct": 3,
+    "question_en": "Give an analogy. First Degree Burn : Epidermal : Second Degree Burn : ?",
+    "options_en": [
+      "Intradermal",
+      "BCG",
+      "Adhesion of the skin (dermis).",
+      "Dermis"
+    ],
+    "explanation": "உட்தோல் (டெர்மிஸ்)",
+    "explanation_en": "Dermis"
+  },
+  {
+    "id": 19,
+    "question": "வாரிசெல்லா ஜோஸ்டர் என்ற வைரஸ் ஏற்படுத்தும் நோய்",
+    "options": [
+      "காலரா",
+      "தட்டம்மை",
+      "ரேபிஸ்",
+      "டைபாய்டு"
+    ],
+    "correct": 1,
+    "question_en": "A disease caused by the varicella zoster virus",
+    "options_en": [
+      "Cholera",
+      "Measles",
+      "Rabies",
+      "Typhoid"
+    ],
+    "explanation": "தட்டம்மை",
+    "explanation_en": "Measles"
+  },
+  {
+    "id": 20,
+    "question": "ஒரு குறிப்பிட்ட நோய்க்கு எதிராக தடுப்பாற்றலை உருவாக்கி அந்த நோய்க்கு எதிராக போராடுவதற்கு நம் உடலை தயார் செய்தலே ______ ன் நோக்கமாகும்.",
+    "options": [
+      "மருந்துகள்",
+      "தடுப்பூசி",
+      "நோய்கள்",
+      "சிகிச்சை"
+    ],
+    "correct": 1,
+    "question_en": "The purpose of ______ is to build immunity against a particular disease and prepare our body to fight against that disease.",
+    "options_en": [
+      "Medicines",
+      "Vaccination",
+      "diseases",
+      "treatment"
+    ],
+    "explanation": "ஒரு குறிப்பிட்ட நோய்க்கு எதிராக தடுப்பாற்றலை உருவாக்கி அந்த நோய்க்கு எதிராக போராடுவதற்கு நம் உடலை தயார் செய்தலே தடுப்பூசி ன் நோக்கமாகும்.",
+    "explanation_en": "The purpose of Vaccination is to build immunity against a particular disease and prepare our body to fight against that disease."
+  },
+  {
+    "id": 21,
+    "question": "______ இறப்பை ஏற்படுத்தக்கூடிய அபாயகரமான தொற்று நோயாகும்",
+    "options": [
+      "சின்னம்மை",
+      "ரேபிஸ்",
+      "காலரா",
+      "தட்டம்மை"
+    ],
+    "correct": 1,
+    "question_en": "______ is a fatal infectious disease",
+    "options_en": [
+      "Smallpox",
+      "Rabies",
+      "Cholera",
+      "Measles"
+    ],
+    "explanation": "ரேபிஸ் இறப்பை ஏற்படுத்தக்கூடிய அபாயகரமான தொற்று நோயாகும்",
+    "explanation_en": "Rabies is a fatal infectious disease"
+  },
+  {
+    "id": 22,
+    "question": "டைபாய்டு காய்ச்சலை உருவாக்கும் பாக்டீரியா",
+    "options": [
+      "சால்மோனெல்லா டைபி",
+      "விப்ரியோ காலரே",
+      "ஹெபாடிட்டிஸ் வைரஸ்",
+      "மைக்கோபாக்டீரியம் டியூபர்குலே"
+    ],
+    "correct": 0,
+    "question_en": "Bacteria that cause typhoid fever",
+    "options_en": [
+      "Salmonella typhi",
+      "Vibrio cholerae",
+      "Hepatitis virus",
+      "Mycobacterium tuberculosis"
+    ],
+    "explanation": "சால்மோனெல்லா டைபி",
+    "explanation_en": "Salmonella typhi"
+  },
+  {
+    "id": 23,
+    "question": "அனோரெக்லியா என்பது எந்த உணர்வைக் குறிக்கிறது?",
+    "options": [
+      "தாகம்",
+      "பசி",
+      "கோபம்",
+      "பசியின்மை"
+    ],
+    "correct": 3,
+    "question_en": "Anorexia refers to which sensation?",
+    "options_en": [
+      "Thirst",
+      "Hungry",
+      "Anger",
+      "loss of appetite"
+    ],
+    "explanation": "பசியின்மை",
+    "explanation_en": "loss of appetite"
+  },
+  {
+    "id": 24,
+    "question": "நாக்கின் மீது வெள்ளைக் கோடுகள் உருவாவது எந்த நோயின் அறிகுறியாக கருதலாம்?",
+    "options": [
+      "மஞ்சள் காமாலை",
+      "காலரா",
+      "டைபாய்டு",
+      "வாரிசெல்லா"
+    ],
+    "correct": 2,
+    "question_en": "White streaks on the tongue can be considered as a symptom of which disease?",
+    "options_en": [
+      "Jaundice",
+      "Cholera",
+      "Typhoid",
+      "Varicella"
+    ],
+    "explanation": "டைபாய்டு",
+    "explanation_en": "Typhoid"
+  },
+  {
+    "id": 25,
+    "question": "தட்டம்மை நோயினை ______ என்றும் அழைக்கலாம்.",
+    "options": [
+      "தொற்றா நோய்",
+      "ரேபிஸ்",
+      "ஊட்டச்சத்தின்மை",
+      "ரூபெல்லா"
+    ],
+    "correct": 3,
+    "question_en": "Measles is also known as ______.",
+    "options_en": [
+      "Infectious disease",
+      "Rabies",
+      "Malnutrition",
+      "Rubella"
+    ],
+    "explanation": "தட்டம்மை நோயினை ரூபெல்லா என்றும் அழைக்கலாம்.",
+    "explanation_en": "Measles is also known as Rubella."
+  },
+  {
+    "id": 26,
+    "question": "ஹைட்ரோபோபியா என்பது நம் உடலின் எந்த உணர்வைக் குறிக்கிறது?",
+    "options": [
+      "நீரைக் கண்டு பயம்",
+      "நெருப்பைக் கண்டு பயம்",
+      "காற்றைக் கண்டு பயம்",
+      "பசி உணர்வு"
+    ],
+    "correct": 0,
+    "question_en": "Hydrophobia refers to which sensation in our body?",
+    "options_en": [
+      "Fear of water",
+      "Fear of fire",
+      "Fear of wind",
+      "Feeling hungry"
+    ],
+    "explanation": "நீரைக் கண்டு பயம்",
+    "explanation_en": "Fear of water"
+  },
+  {
+    "id": 27,
+    "question": "தடுக்கக்கூடிய நோய்களிலிருந்து நம்மைப் பாதுகாக்க இதில் எந்த தடுப்பூசி குழந்தை பருவத்தில் செலுத்தப்படுவதில்லை?",
+    "options": [
+      "BCG",
+      "போலியோ",
+      "DOT",
+      "MMR"
+    ],
+    "correct": 3,
+    "question_en": "Which of these vaccines is not given in childhood to protect us from preventable diseases?",
+    "options_en": [
+      "BCG",
+      "Polio",
+      "DOT",
+      "MMR"
+    ],
+    "explanation": "MMR",
+    "explanation_en": "MMR"
+  },
+  {
+    "id": 28,
+    "question": "பின்வருவனவற்றுள் தொற்றுநோய் எது?",
+    "options": [
+      "வாத நோய்",
+      "ஆஸ்துமா",
+      "காசநோய்",
+      "ஒவ்வாமை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is epidemic?",
+    "options_en": [
+      "rheumatism",
+      "Asthma",
+      "Tuberculosis",
+      "Allergies"
+    ],
+    "explanation": "பின்வருவனவற்றுள் தொற்றுநோய் காசநோய் ஆகும்.",
+    "explanation_en": "Tuberculosis is epidemic."
+  },
+  {
+    "id": 29,
+    "question": "மெலனின் நிறமி இழப்பினால் ஏற்படும் நோயின் பெயர்",
+    "options": [
+      "லூகோடெர்மா",
+      "இரத்த சோகை",
+      "ஒவ்வாமை",
+      "பக்கவாதம்"
+    ],
+    "correct": 0,
+    "question_en": "Name of a disease caused by loss of melanin pigment",
+    "options_en": [
+      "Leukoderma",
+      "Anemia",
+      "Allergies",
+      "Paralysis"
+    ],
+    "explanation": "லூகோடெர்மா",
+    "explanation_en": "Leukoderma"
+  },
+  {
+    "id": 30,
+    "question": "ஊட்டச்சத்து குறைபாட்டால் ______ நோய் உருவாவதில்லை.",
+    "options": [
+      "இரத்த சோகை",
+      "மாலைக்கண் நோய்",
+      "மராஸ்மஸ்",
+      "பக்கவாதம்"
+    ],
+    "correct": 3,
+    "question_en": "Malnutrition does not cause ______ disease.",
+    "options_en": [
+      "Anemia",
+      "Night eye disease",
+      "Marasmus",
+      "Paralysis"
+    ],
+    "explanation": "ஊட்டச்சத்து குறைபாட்டால் பக்கவாதம் நோய் உருவாவதில்லை.",
+    "explanation_en": "Malnutrition does not cause Paralysis disease."
+  },
+  {
+    "id": 31,
+    "question": "உடல் பாகங்கள் தேய்மானம் ஏற்படுவதால் இந்த நோய் உருவாகின்றது?",
+    "options": [
+      "வாத நோய்",
+      "மாரடைப்பு",
+      "வயிற்றுப்புண்",
+      "கண்புரை"
+    ],
+    "correct": 2,
+    "question_en": "Is this disease caused by wear and tear of body parts?",
+    "options_en": [
+      "rheumatism",
+      "heart attack",
+      "Stomach ulcer",
+      "Cataracts"
+    ],
+    "explanation": "வயிற்றுப்புண்",
+    "explanation_en": "Stomach ulcer"
+  },
+  {
+    "id": 32,
+    "question": "குழந்தைகளுக்கு தாய்ப்பாலுக்கு பதிலாக வேறு உணவுகளை கொடுப்பதால் உருவாகும் நோய்",
+    "options": [
+      "வயிற்றுப்போக்கு",
+      "இரத்த சோகை",
+      "சீரோப்தால்மியா",
+      "இருமல்"
+    ],
+    "correct": 1,
+    "question_en": "A disease caused by feeding other foods instead of breast milk",
+    "options_en": [
+      "diarrhea",
+      "Anemia",
+      "Serophthalmia",
+      "Cough"
+    ],
+    "explanation": "இரத்த சோகை",
+    "explanation_en": "Anemia"
+  },
+  {
+    "id": 33,
+    "question": "இரத்த சோகை, பெலாக்ரா, மாலைக்கண்நோய், சீரோப்தால்மியா, முன் கழுத்துக் கழலை இவையெல்லாம் ஏற்படக் காரணம்",
+    "options": [
+      "உடல் பாகங்களில் தேய்மானம் ஏற்படுதல்",
+      "தீங்கு விளைவிக்கக்கூடிய வெளிப்புறக் காரணிகள் உடலில் நுழைதல்",
+      "உடலில் நுண்ணூட்டத் தனிமங்கள் குறைவுபடுதல்",
+      "ஊட்டச்சத்தின்மை"
+    ],
+    "correct": 2,
+    "question_en": "Anemia, pellagra, evening ophthalmia, xerophthalmia, anterior neck ulcer are all causes.",
+    "options_en": [
+      "Deterioration of body parts",
+      "Harmful external factors enter the body",
+      "Deficiency of micronutrients in the body",
+      "Malnutrition"
+    ],
+    "explanation": "உடலில் நுண்ணூட்டத் தனிமங்கள் குறைவுபடுதல்",
+    "explanation_en": "Deficiency of micronutrients in the body"
+  },
+  {
+    "id": 34,
+    "question": "தோல் ஒட்டுதல் சிகிச்சை எந்த தீக்காயங்களுக்கு தேவைப்படுகிறது?",
+    "options": [
+      "முதல் நிலை தீக்காயங்கள்",
+      "இரண்டாம் நிலை தீக்காயங்கள்",
+      "மூன்றாம் நிலை தீக்காயங்கள்",
+      "மின்சார தீக்காயங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Which burns require skin grafting?",
+    "options_en": [
+      "First degree burns",
+      "Second degree burns",
+      "Third degree burns",
+      "Electrical burns"
+    ],
+    "explanation": "மூன்றாம் நிலை தீக்காயங்கள்",
+    "explanation_en": "Third degree burns"
+  },
+  {
+    "id": 35,
+    "question": "ஹெபாடிட்டிஸ் வைரஸ் தோற்றுவிக்கும் நோய்",
+    "options": [
+      "டைபாய்டு",
+      "மஞ்சள் காமாலை",
+      "காலரா",
+      "ஆஸ்துமா"
+    ],
+    "correct": 1,
+    "question_en": "Hepatitis is a disease caused by a virus",
+    "options_en": [
+      "Typhoid",
+      "Jaundice",
+      "Cholera",
+      "Asthma"
+    ],
+    "explanation": "மஞ்சள் காமாலை",
+    "explanation_en": "Jaundice"
+  },
+  {
+    "id": 36,
+    "question": "எந்த வைரஸ் முதுகுப்புற நரம்பு முடிச்சில் பெருகி தண்டுவடத்தின் வழியாக மூளைக்கு பயணிக்கிறது?",
+    "options": [
+      "வாரிசெல்லா ஜோஸ்டர்",
+      "ரேபிஸ்",
+      "ஹைட்ரோ ஃபோசியா",
+      "சால்மோனெல்லா டைபி"
+    ],
+    "correct": 1,
+    "question_en": "Which virus multiplies in the spinal cord and travels through the spinal cord to the brain?",
+    "options_en": [
+      "Varicella zoster",
+      "Rabies",
+      "Hydrophosia",
+      "Salmonella typhi"
+    ],
+    "explanation": "ரேபிஸ்",
+    "explanation_en": "Rabies"
+  },
+  {
+    "id": 37,
+    "question": "கீழ்க்காணும் கூற்றை ஆராய்க\nகூற்று: சின்னம்மை ஒரு வைரஸ் தொற்று நோயாகும்.\nகாரணம்: உடல் முழுவதும் தடிப்புகள், காய்ச்சல் மற்றும் அம்மை கொப்பளங்கள் போன்ற அறிகுறிகளை கிருமிகள் தோற்றுவிக்கின்றன.",
+    "options": [
+      "கூற்று மற்றும் காரணம் சரி, காரணம் கூற்றிற்கான சரியான விளக்கம்",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி, ஆனால் காரணம் கூற்றிற்கான சரியான விளக்கமல்ல",
+      "கூற்று சரி ஆனால் காரணம் தவறு",
+      "கூற்று தவறு ஆனால் காரணம் சரி"
+    ],
+    "correct": 2,
+    "question_en": "Examine the following statement\nStatement: Smallpox is a viral infectious disease.\nCause: Germs cause symptoms like rashes, fever and blisters all over the body.",
+    "options_en": [
+      "Assertion and Reason Correct, Reason is the correct explanation for the statement",
+      "Both the statement and the reason are correct, but the reason is not a valid explanation for the statement",
+      "The statement is correct but the reason is wrong",
+      "The statement is wrong but the reason is right"
+    ],
+    "explanation": "கூற்று சரி ஆனால் காரணம் தவறு",
+    "explanation_en": "The statement is correct but the reason is wrong"
+  },
+  {
+    "id": 38,
+    "question": "நாம் உணவில் இரும்புச் சத்தைப் பெற ______",
+    "options": [
+      "மீன் எண்ணெய் மாத்திரைகள்",
+      "முருங்கைக்கீரை",
+      "பீன்ஸ்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "We get iron in our diet by ______",
+    "options_en": [
+      "Fish oil tablets",
+      "Spinach",
+      "Beans",
+      "Nothing"
+    ],
+    "explanation": "நாம் உணவில் இரும்புச் சத்தைப் பெற எதுவுமில்லை",
+    "explanation_en": "We get iron in our diet by Nothing"
+  },
+  {
+    "id": 39,
+    "question": "சரியா? தவறா?\na. சிறிய தீக்காயங்களைப் பொருத்தவரை பாதிக்கப்பட்ட பகுதியை குளிர்ந்த நீரில் கழுவி கிருமிநாசினி களிம்பை தடவ வேண்டும்\nb. கடுமையான தீக்காயங்களுக்கு குளிர்ந்த நீரில் கழுவி மெல்லிய துணியால் சுற்றி மருத்துவரை அணுக வேண்டும்",
+    "options": [
+      "a சரி, b தவறு",
+      "a தவறு, b சரி",
+      "a சரி, b சரி",
+      "a தவறு, b தவறு"
+    ],
+    "correct": 0,
+    "question_en": "right? Is it wrong?\na. For minor burns wash the affected area with cold water and apply antiseptic ointment\nb. For severe burns, wash with cold water and cover with a thin cloth and consult a doctor",
+    "options_en": [
+      "a is true, b is false",
+      "a is wrong, b is right",
+      "a is correct, b is correct",
+      "a is wrong, b is wrong"
+    ],
+    "explanation": "a சரி, b தவறு",
+    "explanation_en": "a is true, b is false"
+  },
+  {
+    "id": 40,
+    "question": "வெக்டார்கள் என்பது",
+    "options": [
+      "நீர்",
+      "காற்று",
+      "பூச்சிகள்",
+      "உணவு"
+    ],
+    "correct": 2,
+    "question_en": "Vectors are",
+    "options_en": [
+      "Water",
+      "wind",
+      "Insects",
+      "Food"
+    ],
+    "explanation": "பூச்சிகள்",
+    "explanation_en": "Insects"
+  },
+  {
+    "id": 41,
+    "question": "டைபாய்டு : பாக்டீரியா :: ஹெபாடைட்டிஸ் : ______",
+    "options": [
+      "வைரஸ்",
+      "மஞ்சள் காமாலை",
+      "உயிர்க் கொல்லி",
+      "தொற்று நோய்"
+    ],
+    "correct": 0,
+    "question_en": "Typhoid : Bacteria :: Hepatitis : ______",
+    "options_en": [
+      "Virus",
+      "Jaundice",
+      "Life killer",
+      "Infectious disease"
+    ],
+    "explanation": "டைபாய்டு : பாக்டீரியா :: ஹெபாடைட்டிஸ் : வைரஸ்",
+    "explanation_en": "Typhoid : Bacteria :: Hepatitis : Virus"
+  },
+  {
+    "id": 42,
+    "question": "______ செய்யும்போது உணவுத் துகள், பற்காரை மற்றும் பாக்டீரியாக்கள் நீக்கப்படுகின்றன.",
+    "options": [
+      "ஃப்ளோசிங்",
+      "மாஸ்டிகேசன்",
+      "சுத்தம் செய்தல்",
+      "கறையை நீக்குதல்"
+    ],
+    "correct": 0,
+    "question_en": "Food particles, tartar and bacteria are removed during ______.",
+    "options_en": [
+      "Flossing",
+      "Mastication",
+      "Cleaning",
+      "Stain removal"
+    ],
+    "explanation": "ஃப்ளோசிங் செய்யும்போது உணவுத் துகள், பற்காரை மற்றும் பாக்டீரியாக்கள் நீக்கப்படுகின்றன.",
+    "explanation_en": "Food particles, tartar and bacteria are removed during Flossing."
+  },
+  {
+    "id": 43,
+    "question": "வண்ணக் குருட்டுத் தன்மை நோய்க்கு காரணம்",
+    "options": [
+      "தூக்கமின்மை",
+      "வைட்டமின் A குறைபாடு",
+      "கண்ணில் காயம் ஏற்படுதல்",
+      "மரபணு நிலை"
+    ],
+    "correct": 3,
+    "question_en": "Color blindness is the cause of the disease",
+    "options_en": [
+      "Insomnia",
+      "Vitamin A deficiency",
+      "Eye injury",
+      "genetic status"
+    ],
+    "explanation": "மரபணு நிலை",
+    "explanation_en": "genetic status"
+  },
+  {
+    "id": 44,
+    "question": "மருந்துகளின் இராணி என அழைக்கப்படுவது",
+    "options": [
+      "பெனிசிலின்",
+      "அமாக்ஸிலின்",
+      "ஸ்ட்ரெப்டோமைசின்",
+      "கிளான்டோமைசின்"
+    ],
+    "correct": 0,
+    "question_en": "The so-called king of drugs",
+    "options_en": [
+      "Penicillin",
+      "Amoxicillin",
+      "Streptomycin",
+      "Glantomycin"
+    ],
+    "explanation": "பெனிசிலின்",
+    "explanation_en": "Penicillin"
+  },
+  {
+    "id": 45,
+    "question": "வைட்டமின் சி இதில் அதிகமாக உள்ளது.",
+    "options": [
+      "பேரிச்சை",
+      "உருளைக்கிழங்கு",
+      "முளைக்கட்டிய பயிறு வகைகள்",
+      "கேரட்"
+    ],
+    "correct": 2,
+    "question_en": "Vitamin C is high in it.",
+    "options_en": [
+      "Dates",
+      "Potatoes",
+      "Sprouted crops",
+      "Carrot"
+    ],
+    "explanation": "முளைக்கட்டிய பயிறு வகைகள்",
+    "explanation_en": "Sprouted crops"
+  },
+  {
+    "id": 46,
+    "question": "ஈறுகளில் இரத்தக் கசிவுக்கு தீர்வு காண ______ உண்ண வேண்டும்.",
+    "options": [
+      "ஆப்பிள்",
+      "மாம்பழம்",
+      "பலாப்பழம்",
+      "சிட்ரஸ் பழங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Eat ______ to get rid of bleeding gums.",
+    "options_en": [
+      "Apple",
+      "Mango",
+      "jackfruit",
+      "Citrus fruits"
+    ],
+    "explanation": "ஈறுகளில் இரத்தக் கசிவுக்கு தீர்வு காண சிட்ரஸ் பழங்கள் உண்ண வேண்டும்.",
+    "explanation_en": "Eat Citrus fruits to get rid of bleeding gums."
+  }
+]

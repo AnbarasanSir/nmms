@@ -1,0 +1,1462 @@
+[
+  {
+    "id": 1,
+    "question": "பாறைக்கோளம் என அழைக்கப்படுவது ________.",
+    "options": [
+      "நீர்க்கோளம்",
+      "நிலக்கோளம்",
+      "வளிக்கோளம்",
+      "உயிர்க்கோளம்"
+    ],
+    "correct": 1,
+    "question_en": "Which is called Lithosphere?",
+    "options_en": [
+      "Hydrosphere",
+      "Lithosphere",
+      "Atmosphere",
+      "Biosphere"
+    ],
+    "explanation": "பாறைக்கோளம் என அழைக்கப்படுவது நிலக்கோளம்.",
+    "explanation_en": "Lithosphere is called Lithosphere."
+  },
+  {
+    "id": 2,
+    "question": "பாறையியல் என்ற சொல் ________ மொழியிலிருந்து பெறப்பட்டது.",
+    "options": [
+      "தமிழ்",
+      "ஆங்கிலம்",
+      "இலத்தீன்",
+      "கிரேக்கம்"
+    ],
+    "correct": 3,
+    "question_en": "The word Petrology is derived from ________ language.",
+    "options_en": [
+      "Tamil",
+      "English",
+      "Latin",
+      "Greek"
+    ],
+    "explanation": "பாறையியல் என்ற சொல் கிரேக்கம் மொழியிலிருந்து பெறப்பட்டது.",
+    "explanation_en": "The word Petrology is derived from Greek language."
+  },
+  {
+    "id": 3,
+    "question": "________ என்பது ஒரு குறிப்பிட்ட படிப்பை குறிப்பதாகும்.",
+    "options": [
+      "பெட்ரஸ்",
+      "இக்னியஸ்",
+      "ஸ்ட்ராம்",
+      "லோகோஸ்"
+    ],
+    "correct": 3,
+    "question_en": "________ means a specific study.",
+    "options_en": [
+      "Petrus",
+      "Igneous",
+      "Strom",
+      "Logos"
+    ],
+    "explanation": "லோகோஸ் என்பது ஒரு குறிப்பிட்ட படிப்பை குறிப்பதாகும்.",
+    "explanation_en": "Logos means a specific study."
+  },
+  {
+    "id": 4,
+    "question": "பாறைகளை ________ வகைகளாக பிரிக்கலாம்.",
+    "options": [
+      "இரண்டு",
+      "ஐந்து",
+      "மூன்று",
+      "ஏழு"
+    ],
+    "correct": 2,
+    "question_en": "Rocks can be classified into ________ types.",
+    "options_en": [
+      "Two",
+      "Five",
+      "Three",
+      "Seven"
+    ],
+    "explanation": "பாறைகளை மூன்று வகைகளாக பிரிக்கலாம்.",
+    "explanation_en": "Rocks can be classified into Three types."
+  },
+  {
+    "id": 5,
+    "question": "புவியின் ஆழமானப் பகுதியில் காணப்படும் பாறைக் குழம்பு ________.",
+    "options": [
+      "மாக்மா",
+      "பசால்ட்",
+      "லாவா",
+      "ஜிப்சம்"
+    ],
+    "correct": 0,
+    "question_en": "Molten rock found deep inside the earth is ________.",
+    "options_en": [
+      "Magma",
+      "Basalt",
+      "Lava",
+      "Gypsum"
+    ],
+    "explanation": "புவியின் ஆழமானப் பகுதியில் காணப்படும் பாறைக் குழம்பு மாக்மா.",
+    "explanation_en": "Molten rock found deep inside the earth is Magma."
+  },
+  {
+    "id": 6,
+    "question": "தாய்ப் பாறைகள் என அழைக்கப்படுவது ________.",
+    "options": [
+      "படிவுப் பாறைகள்",
+      "தீப்பாறைகள்",
+      "உருமாறிய பாறைகள்",
+      "பாதாளப் பாறைகள்"
+    ],
+    "correct": 1,
+    "question_en": "Parent rocks are known as ________.",
+    "options_en": [
+      "Sedimentary rocks",
+      "Igneous rocks",
+      "Metamorphic rocks",
+      "Plutonic rocks"
+    ],
+    "explanation": "தாய்ப் பாறைகள் என அழைக்கப்படுவது தீப்பாறைகள்.",
+    "explanation_en": "Parent rocks are known as Igneous rocks."
+  },
+  {
+    "id": 7,
+    "question": "இக்னியஸ் என்றால் ________ என்று பொருள்படும்.",
+    "options": [
+      "நீர்",
+      "காற்று",
+      "நெருப்பு",
+      "நிலம்"
+    ],
+    "correct": 2,
+    "question_en": "Igneous means ________.",
+    "options_en": [
+      "Water",
+      "Wind",
+      "Fire",
+      "Land"
+    ],
+    "explanation": "இக்னியஸ் என்றால் நெருப்பு என்று பொருள்படும்.",
+    "explanation_en": "Igneous means Fire."
+  },
+  {
+    "id": 8,
+    "question": "இயற்கை வளங்கள் உருவாக முக்கிய ஆதாரமாக இருக்கும் பாறை ________.",
+    "options": [
+      "உருமாறியப்பாறைகள்",
+      "பாதாளப் பாறைகள்",
+      "தீப்பாறைகள்",
+      "படிவுப் பாறைகள்"
+    ],
+    "correct": 3,
+    "question_en": "The rocks that are major sources of natural resources are ________.",
+    "options_en": [
+      "Metamorphic rocks",
+      "Plutonic rocks",
+      "Igneous rocks",
+      "Sedimentary rocks"
+    ],
+    "explanation": "இயற்கை வளங்கள் உருவாக முக்கிய ஆதாரமாக இருக்கும் பாறை படிவுப் பாறைகள்.",
+    "explanation_en": "The rocks that are major sources of natural resources are Sedimentary rocks."
+  },
+  {
+    "id": 9,
+    "question": "________ நாட்டில் முக்கியமான செயல்படும் எரிமலைகள் உள்ளன.",
+    "options": [
+      "ஜப்பான்",
+      "கிரீன்லாந்து",
+      "இத்தாலி",
+      "இந்தியா"
+    ],
+    "correct": 2,
+    "question_en": "Important active volcanoes are found in ________.",
+    "options_en": [
+      "Japan",
+      "Greenland",
+      "Italy",
+      "India"
+    ],
+    "explanation": "இத்தாலி நாட்டில் முக்கியமான செயல்படும் எரிமலைகள் உள்ளன.",
+    "explanation_en": "Important active volcanoes are found in Italy."
+  },
+  {
+    "id": 10,
+    "question": "இயக்க உருமாற்றத்தினால் கிரானைட் பாறை ________ பாறையாக உருமாறுகிறது.",
+    "options": [
+      "நைஸ்",
+      "பலகை",
+      "பசால்ட்",
+      "டோலோமைட்"
+    ],
+    "correct": 0,
+    "question_en": "Due to dynamic metamorphism, granite turns into ________ rock.",
+    "options_en": [
+      "Gneiss",
+      "Slate",
+      "Basalt",
+      "Dolomite"
+    ],
+    "explanation": "இயக்க உருமாற்றத்தினால் கிரானைட் பாறை நைஸ் பாறையாக உருமாறுகிறது.",
+    "explanation_en": "Due to dynamic metamorphism, granite turns into Gneiss rock."
+  },
+  {
+    "id": 11,
+    "question": "வெப்ப உருமாற்றத்தினால் மணற்பாறைகள் ________ ஆக மாறுகின்றன.",
+    "options": [
+      "களிப் பாறை",
+      "பலகைப் பாறை",
+      "சுண்ணாம்பு பாறை",
+      "கற்பாறை"
+    ],
+    "correct": 3,
+    "question_en": "Due to thermal metamorphism, sandstones turn into ________.",
+    "options_en": [
+      "Shale",
+      "Slate",
+      "Limestone",
+      "Quartzite"
+    ],
+    "explanation": "வெப்ப உருமாற்றத்தினால் மணற்பாறைகள் கற்பாறை ஆக மாறுகின்றன.",
+    "explanation_en": "Due to thermal metamorphism, sandstones turn into Quartzite."
+  },
+  {
+    "id": 12,
+    "question": "உலகின் மிகப்பழமையான படிவுப்பாறைகள் ________ நாட்டில் கண்டுபிடிக்கப்பட்டது.",
+    "options": [
+      "இத்தாலி",
+      "இந்தியா",
+      "கிரீன்லாந்து",
+      "ஜப்பான்"
+    ],
+    "correct": 2,
+    "question_en": "The oldest sedimentary rocks in the world were discovered in ________.",
+    "options_en": [
+      "Italy",
+      "India",
+      "Greenland",
+      "Japan"
+    ],
+    "explanation": "உலகின் மிகப்பழமையான படிவுப்பாறைகள் கிரீன்லாந்து நாட்டில் கண்டுபிடிக்கப்பட்டது.",
+    "explanation_en": "The oldest sedimentary rocks in the world were discovered in Greenland."
+  },
+  {
+    "id": 13,
+    "question": "அலங்கார பொருள்கள் செய்ய பயன்படுவது ________.",
+    "options": [
+      "வெண் பாறை",
+      "பளிங்கு கற்கள்",
+      "பலகைப் பாறை",
+      "சலவைக் கற்கள்"
+    ],
+    "correct": 3,
+    "question_en": "________ is used to make decorative items.",
+    "options_en": [
+      "Chalk",
+      "Crystals",
+      "Slate",
+      "Marble"
+    ],
+    "explanation": "அலங்கார பொருள்கள் செய்ய பயன்படுவது சலவைக் கற்கள்.",
+    "explanation_en": "Marble is used to make decorative items."
+  },
+  {
+    "id": 14,
+    "question": "பாறைகள் ஒரு நிலையிலிருந்து மற்றொரு நிலைக்கு மாறுவது ________.",
+    "options": [
+      "உருமாற்றம்",
+      "வடிவம்",
+      "பாறைச்சுழற்சி",
+      "இயக்க மாற்றம்"
+    ],
+    "correct": 2,
+    "question_en": "The continuous process of transformation of rocks from one form to another is ________.",
+    "options_en": [
+      "Metamorphism",
+      "Form",
+      "Rock cycle",
+      "Dynamic change"
+    ],
+    "explanation": "பாறைகள் ஒரு நிலையிலிருந்து மற்றொரு நிலைக்கு மாறுவது பாறைச்சுழற்சி.",
+    "explanation_en": "The continuous process of transformation of rocks from one form to another is Rock cycle."
+  },
+  {
+    "id": 15,
+    "question": "________ சலவைக்கற்களின் துகள்களிலிருந்து உற்பத்தி செய்யப்படுகிறது.",
+    "options": [
+      "சுண்ணாம்பு",
+      "நெகிழி",
+      "ஜிப்சம்",
+      "எறும்புக்கல்"
+    ],
+    "correct": 1,
+    "question_en": "________ is produced from marble particles.",
+    "options_en": [
+      "Limestone",
+      "Plastics",
+      "Gypsum",
+      "Pumice"
+    ],
+    "explanation": "நெகிழி சலவைக்கற்களின் துகள்களிலிருந்து உற்பத்தி செய்யப்படுகிறது.",
+    "explanation_en": "Plastics is produced from marble particles."
+  },
+  {
+    "id": 16,
+    "question": "புவியின் மேற்பரப்பில் ________ வகையிலான கனிம வகைகள் உள்ளன.",
+    "options": [
+      "2000",
+      "3000",
+      "2500",
+      "3500"
+    ],
+    "correct": 0,
+    "question_en": "There are ________ types of minerals on the earth's surface.",
+    "options_en": [
+      "2000",
+      "3000",
+      "2500",
+      "3500"
+    ],
+    "explanation": "புவியின் மேற்பரப்பில் 2000 வகையிலான கனிம வகைகள் உள்ளன.",
+    "explanation_en": "There are 2000 types of minerals on the earth's surface."
+  },
+  {
+    "id": 17,
+    "question": "________ இலத்தீன் மொழியிலிருந்து பெறப்பட்ட சொல்.",
+    "options": [
+      "பாறையியல்",
+      "மார்பா",
+      "இக்னியஸ்",
+      "மெட்டா"
+    ],
+    "correct": 2,
+    "question_en": "________ is a word derived from Latin.",
+    "options_en": [
+      "Petrology",
+      "Morpha",
+      "Igneous",
+      "Meta"
+    ],
+    "explanation": "இக்னியஸ் இலத்தீன் மொழியிலிருந்து பெறப்பட்ட சொல்.",
+    "explanation_en": "Igneous is a word derived from Latin."
+  },
+  {
+    "id": 18,
+    "question": "உலக அதிசயமான தாஜ்மஹால் கட்டப் பயன்படுத்தப்பட்ட பாறை ________.",
+    "options": [
+      "தீப்பாறை",
+      "உருமாறிய பாறை",
+      "படிவுப்பாறை",
+      "பலகைப் பாறை"
+    ],
+    "correct": 1,
+    "question_en": "The rock used to construct the world wonder Taj Mahal is ________.",
+    "options_en": [
+      "Igneous rock",
+      "Metamorphic rock",
+      "Sedimentary rock",
+      "Slate rock"
+    ],
+    "explanation": "உலக அதிசயமான தாஜ்மஹால் கட்டப் பயன்படுத்தப்பட்ட பாறை உருமாறிய பாறை.",
+    "explanation_en": "The rock used to construct the world wonder Taj Mahal is Metamorphic rock."
+  },
+  {
+    "id": 19,
+    "question": "உப்புபடர் பாறைகள் என அழைக்கப்படுவது ________.",
+    "options": [
+      "இரசாயன படிவுப்பாறை",
+      "பௌதீக படிவுப்பாறை",
+      "உயிரினப் படிவுப்பாறை",
+      "உருமாறிய படிவுப்பாறை"
+    ],
+    "correct": 0,
+    "question_en": "Evaporites are known as ________.",
+    "options_en": [
+      "Chemical sedimentary rocks",
+      "Physical sedimentary rocks",
+      "Organic sedimentary rocks",
+      "Metamorphic sedimentary rocks"
+    ],
+    "explanation": "உப்புபடர் பாறைகள் என அழைக்கப்படுவது இரசாயன படிவுப்பாறை.",
+    "explanation_en": "Evaporites are known as Chemical sedimentary rocks."
+  },
+  {
+    "id": 20,
+    "question": "எரிமலையில் இருந்து வெடித்து வெளியேறும் பாறைக்குழம்பு ________.",
+    "options": [
+      "மாக்மா",
+      "ஜிப்சம்",
+      "பசால்ட்",
+      "லாவா"
+    ],
+    "correct": 3,
+    "question_en": "The molten rock that erupts from a volcano is ________.",
+    "options_en": [
+      "Magma",
+      "Gypsum",
+      "Basalt",
+      "Lava"
+    ],
+    "explanation": "எரிமலையில் இருந்து வெடித்து வெளியேறும் பாறைக்குழம்பு லாவா.",
+    "explanation_en": "The molten rock that erupts from a volcano is Lava."
+  },
+  {
+    "id": 21,
+    "question": "புவியின் தோல் என அழைக்கப்படுவது ________.",
+    "options": [
+      "பாறை",
+      "மண்",
+      "நிலம்",
+      "நீர்"
+    ],
+    "correct": 1,
+    "question_en": "The skin of the earth is called ________.",
+    "options_en": [
+      "Rock",
+      "Soil",
+      "Land",
+      "Water"
+    ],
+    "explanation": "புவியின் தோல் என அழைக்கப்படுவது மண்.",
+    "explanation_en": "The skin of the earth is called Soil."
+  },
+  {
+    "id": 22,
+    "question": "மண் ________ பெரும் பிரிவுகளாக வகைப் படுத்தப்படுகின்றன.",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "question_en": "Soil is classified into ________ major divisions.",
+    "options_en": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "explanation": "மண் 6 பெரும் பிரிவுகளாக வகைப் படுத்தப்படுகின்றன.",
+    "explanation_en": "Soil is classified into 6 major divisions."
+  },
+  {
+    "id": 23,
+    "question": "________ ஆம் நாள் உலக மண் நாளாக கொண்டாடப்படுகிறது.",
+    "options": [
+      "டிசம்பர் 4",
+      "அக்டோபர் 5",
+      "அக்டோபர் 4",
+      "டிசம்பர் 5"
+    ],
+    "correct": 3,
+    "question_en": "________ is celebrated as World Soil Day.",
+    "options_en": [
+      "December 4",
+      "October 5",
+      "October 4",
+      "December 5"
+    ],
+    "explanation": "டிசம்பர் 5 ஆம் நாள் உலக மண் நாளாக கொண்டாடப்படுகிறது.",
+    "explanation_en": "December 5 is celebrated as World Soil Day."
+  },
+  {
+    "id": 24,
+    "question": "ஆற்றுச் சமவெளிகளில் காணப்படும் மண் ________.",
+    "options": [
+      "வண்டல் மண்",
+      "கரிசல் மண்",
+      "செம்மண்",
+      "சரளை மண்"
+    ],
+    "correct": 0,
+    "question_en": "Soil found in river plains is ________.",
+    "options_en": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "explanation": "ஆற்றுச் சமவெளிகளில் காணப்படும் மண் வண்டல் மண்.",
+    "explanation_en": "Soil found in river plains is Alluvial soil."
+  },
+  {
+    "id": 25,
+    "question": "தீப்பாறைகள் சிதைவடைவதால் உருவாகும் மண் ________.",
+    "options": [
+      "வண்டல் மண்",
+      "சரளை மண்",
+      "கரிசல் மண்",
+      "மலை மண்"
+    ],
+    "correct": 2,
+    "question_en": "Soil formed by the weathering of igneous rocks is ________.",
+    "options_en": [
+      "Alluvial soil",
+      "Laterite soil",
+      "Black soil",
+      "Mountain soil"
+    ],
+    "explanation": "தீப்பாறைகள் சிதைவடைவதால் உருவாகும் மண் கரிசல் மண்.",
+    "explanation_en": "Soil formed by the weathering of igneous rocks is Black soil."
+  },
+  {
+    "id": 26,
+    "question": "________ மண்ணில் இரும்பு ஆக்ஸைடு உள்ளது.",
+    "options": [
+      "பாலை மண்",
+      "செம்மண்",
+      "சரளை மண்",
+      "கரிசல் மண்"
+    ],
+    "correct": 1,
+    "question_en": "________ soil contains iron oxide.",
+    "options_en": [
+      "Desert soil",
+      "Red soil",
+      "Laterite soil",
+      "Black soil"
+    ],
+    "explanation": "செம்மண் மண்ணில் இரும்பு ஆக்ஸைடு உள்ளது.",
+    "explanation_en": "Red soil soil contains iron oxide."
+  },
+  {
+    "id": 27,
+    "question": "அயனமண்டல பிரதேச காலநிலைமயில் உருவாகும் மண் ________.",
+    "options": [
+      "கரிசல் மண்",
+      "செம்மண்",
+      "வண்டல் மண்",
+      "சரளைமண்"
+    ],
+    "correct": 3,
+    "question_en": "Soil formed in tropical climatic conditions is ________.",
+    "options_en": [
+      "Black soil",
+      "Red soil",
+      "Alluvial soil",
+      "Laterite soil"
+    ],
+    "explanation": "அயனமண்டல பிரதேச காலநிலைமயில் உருவாகும் மண் சரளைமண்.",
+    "explanation_en": "Soil formed in tropical climatic conditions is Laterite soil."
+  },
+  {
+    "id": 28,
+    "question": "________ காரத்தன்மையைக் கொண்ட மண்.",
+    "options": [
+      "மலை மண்",
+      "கரிசல் மண்",
+      "பாலை மண்",
+      "செம்மண்"
+    ],
+    "correct": 0,
+    "question_en": "________ is an alkaline soil.",
+    "options_en": [
+      "Mountain soil",
+      "Black soil",
+      "Desert soil",
+      "Red soil"
+    ],
+    "explanation": "மலை மண் காரத்தன்மையைக் கொண்ட மண்.",
+    "explanation_en": "Mountain soil is an alkaline soil."
+  },
+  {
+    "id": 29,
+    "question": "________ மண்ணில் வேளாண்மை செய்ய முடியாது.",
+    "options": [
+      "கரிசல் மண்",
+      "மலை மண்",
+      "வண்டல் மண்",
+      "பாலை மண்"
+    ],
+    "correct": 3,
+    "question_en": "Agriculture cannot be practiced in ________ soil.",
+    "options_en": [
+      "Black soil",
+      "Mountain soil",
+      "Alluvial soil",
+      "Desert soil"
+    ],
+    "explanation": "பாலை மண் மண்ணில் வேளாண்மை செய்ய முடியாது.",
+    "explanation_en": "Agriculture cannot be practiced in Desert soil soil."
+  },
+  {
+    "id": 30,
+    "question": "வளமான மண் உருவாக ________ வருடங்கள் ஆகும்.",
+    "options": [
+      "3000",
+      "4000",
+      "2000",
+      "1000"
+    ],
+    "correct": 0,
+    "question_en": "It takes ________ years to form fertile soil.",
+    "options_en": [
+      "3000",
+      "4000",
+      "2000",
+      "1000"
+    ],
+    "explanation": "வளமான மண் உருவாக 3000 வருடங்கள் ஆகும்.",
+    "explanation_en": "It takes 3000 years to form fertile soil."
+  },
+  {
+    "id": 31,
+    "question": "தேயிலை வளர ஏற்ற மண் ________.",
+    "options": [
+      "பாலை மண்",
+      "சரளை மண்",
+      "மலை மண்",
+      "கரிசல் மண்"
+    ],
+    "correct": 1,
+    "question_en": "Suitable soil for growing tea is ________.",
+    "options_en": [
+      "Desert soil",
+      "Laterite soil",
+      "Mountain soil",
+      "Black soil"
+    ],
+    "explanation": "தேயிலை வளர ஏற்ற மண் சரளை மண்.",
+    "explanation_en": "Suitable soil for growing tea is Laterite soil."
+  },
+  {
+    "id": 32,
+    "question": "பருத்தி வளர ஏற்ற மண் ________.",
+    "options": [
+      "செம்மண்",
+      "சரளைமண்",
+      "கரிசல் மண்",
+      "வண்டல் மண்"
+    ],
+    "correct": 2,
+    "question_en": "Suitable soil for growing cotton is ________.",
+    "options_en": [
+      "Red soil",
+      "Laterite soil",
+      "Black soil",
+      "Alluvial soil"
+    ],
+    "explanation": "பருத்தி வளர ஏற்ற மண் கரிசல் மண்.",
+    "explanation_en": "Suitable soil for growing cotton is Black soil."
+  },
+  {
+    "id": 33,
+    "question": "மண்வகையும் - பயிரிடப்படும் பயிர்களும் என்ற அடிப்படையில் பொருந்தாததைத் தேர்ந்தெடு.",
+    "options": [
+      "பருத்தி",
+      "நெல்",
+      "கரும்பு",
+      "சணல்"
+    ],
+    "correct": 0,
+    "question_en": "Choose the mismatched one based on 'Soil type and cultivated crops'.",
+    "options_en": [
+      "Cotton",
+      "Paddy",
+      "Sugarcane",
+      "Jute"
+    ],
+    "explanation": "பருத்தி",
+    "explanation_en": "Cotton"
+  },
+  {
+    "id": 34,
+    "question": "தினை வளர ஏற்ற மண் ________.",
+    "options": [
+      "மலை மண்",
+      "செம்மண்",
+      "பாலை மண்",
+      "கரிசல் மண்"
+    ],
+    "correct": 1,
+    "question_en": "Suitable soil for growing millets is ________.",
+    "options_en": [
+      "Mountain soil",
+      "Red soil",
+      "Desert soil",
+      "Black soil"
+    ],
+    "explanation": "தினை வளர ஏற்ற மண் செம்மண்.",
+    "explanation_en": "Suitable soil for growing millets is Red soil."
+  },
+  {
+    "id": 35,
+    "question": "விவசாயம் மேற்கொள்ளப் பயன்படாத மண் ________.",
+    "options": [
+      "வண்டல் மண்",
+      "கரிசல் மண்",
+      "பாலை மண்",
+      "மலை மண்"
+    ],
+    "correct": 2,
+    "question_en": "Soil not useful for carrying out agriculture is ________.",
+    "options_en": [
+      "Alluvial soil",
+      "Black soil",
+      "Desert soil",
+      "Mountain soil"
+    ],
+    "explanation": "விவசாயம் மேற்கொள்ளப் பயன்படாத மண் பாலை மண்.",
+    "explanation_en": "Soil not useful for carrying out agriculture is Desert soil."
+  },
+  {
+    "id": 36,
+    "question": "________ செவ்வாய் கோளிலும் இருப்பதாக விண்வெளி ஆராய்ச்சியாளர்கள் கூறுகின்றனர்.",
+    "options": [
+      "கரிசல் மண்",
+      "சரளை மண்",
+      "வண்டல் மண்",
+      "செம்மண்"
+    ],
+    "correct": 3,
+    "question_en": "Space researchers claim that ________ is also found on Mars.",
+    "options_en": [
+      "Black soil",
+      "Laterite soil",
+      "Alluvial soil",
+      "Red soil"
+    ],
+    "explanation": "செம்மண் செவ்வாய் கோளிலும் இருப்பதாக விண்வெளி ஆராய்ச்சியாளர்கள் கூறுகின்றனர்.",
+    "explanation_en": "Space researchers claim that Red soil is also found on Mars."
+  },
+  {
+    "id": 37,
+    "question": "துருக்கல் மண் என்பது ________ மண்.",
+    "options": [
+      "பாலை",
+      "மலை",
+      "சரளை",
+      "கரிசல்"
+    ],
+    "correct": 2,
+    "question_en": "Rusty soil refers to ________ soil.",
+    "options_en": [
+      "Desert",
+      "Mountain",
+      "Laterite",
+      "Black"
+    ],
+    "explanation": "துருக்கல் மண் என்பது சரளை மண்.",
+    "explanation_en": "Rusty soil refers to Laterite soil."
+  },
+  {
+    "id": 38,
+    "question": "உலகளவில் மண் ________ வகைகளாகப் பிரிக்கப்படுகின்றன.",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "10"
+    ],
+    "correct": 1,
+    "question_en": "Globally, soils are classified into ________ types.",
+    "options_en": [
+      "6",
+      "12",
+      "8",
+      "10"
+    ],
+    "explanation": "உலகளவில் மண் 12 வகைகளாகப் பிரிக்கப்படுகின்றன.",
+    "explanation_en": "Globally, soils are classified into 12 types."
+  },
+  {
+    "id": 39,
+    "question": "வண்டல் மண்ணுக்கு வழங்கப்படும் வேறு பெயர் ________.",
+    "options": [
+      "குறு மண்",
+      "செம்புறை மண்",
+      "அடைமண்",
+      "அடி மண்"
+    ],
+    "correct": 2,
+    "question_en": "Another name given to Alluvial soil is ________.",
+    "options_en": [
+      "Short soil",
+      "Red earth soil",
+      "Loamy soil",
+      "Subsoil"
+    ],
+    "explanation": "வண்டல் மண்ணுக்கு வழங்கப்படும் வேறு பெயர் அடைமண்.",
+    "explanation_en": "Another name given to Alluvial soil is Loamy soil."
+  },
+  {
+    "id": 40,
+    "question": "________ மண்ணின் பண்புகள் இடத்திற்கு இடம் மாறுபடும்.",
+    "options": [
+      "மலை மண்",
+      "சரளை மண்",
+      "செம்மண்",
+      "பாலை மண்"
+    ],
+    "correct": 0,
+    "question_en": "The properties of ________ soil vary from place to place.",
+    "options_en": [
+      "Mountain soil",
+      "Laterite soil",
+      "Red soil",
+      "Desert soil"
+    ],
+    "explanation": "மலை மண் மண்ணின் பண்புகள் இடத்திற்கு இடம் மாறுபடும்.",
+    "explanation_en": "The properties of Mountain soil soil vary from place to place."
+  },
+  {
+    "id": 41,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "உயிர்க்கோளம்",
+      "வளிக்கோளம்",
+      "பாறைக் கோளம்",
+      "நீர்க்கோளம்"
+    ],
+    "correct": 2,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Biosphere",
+      "Atmosphere",
+      "Lithosphere",
+      "Hydrosphere"
+    ],
+    "explanation": "பாறைக் கோளம்",
+    "explanation_en": "Lithosphere"
+  },
+  {
+    "id": 42,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "தாய்ப் பாறைகள்",
+      "படிவுப் பாறைகள்",
+      "முதன்மைப்புப் பாறைகள்",
+      "தீப்பாறைகள்"
+    ],
+    "correct": 1,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Parent rocks",
+      "Sedimentary rocks",
+      "Primary rocks",
+      "Igneous rocks"
+    ],
+    "explanation": "படிவுப் பாறைகள்",
+    "explanation_en": "Sedimentary rocks"
+  },
+  {
+    "id": 43,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "கருங்கல்",
+      "கிரானைட்",
+      "டயரைட்",
+      "எறும்புக்கல்"
+    ],
+    "correct": 0,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Black stone",
+      "Granite",
+      "Diorite",
+      "Pumice"
+    ],
+    "explanation": "கருங்கல்",
+    "explanation_en": "Black stone"
+  },
+  {
+    "id": 44,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "அரித்தல்",
+      "கடத்துதல்",
+      "படியவைத்தல்",
+      "குளிரூட்டுதல்"
+    ],
+    "correct": 3,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Erosion",
+      "Transportation",
+      "Deposition",
+      "Cooling"
+    ],
+    "explanation": "குளிரூட்டுதல்",
+    "explanation_en": "Cooling"
+  },
+  {
+    "id": 45,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "வண்டல் மண்",
+      "செம்மண்",
+      "பாலை மண்",
+      "கரிசல் மண்"
+    ],
+    "correct": 2,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Alluvial soil",
+      "Red soil",
+      "Desert soil",
+      "Black soil"
+    ],
+    "explanation": "பாலை மண்",
+    "explanation_en": "Desert soil"
+  },
+  {
+    "id": 46,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "நெல்",
+      "கரும்பு",
+      "கோதுமை",
+      "தேயிலை"
+    ],
+    "correct": 3,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Paddy",
+      "Sugarcane",
+      "Wheat",
+      "Tea"
+    ],
+    "explanation": "தேயிலை",
+    "explanation_en": "Tea"
+  },
+  {
+    "id": 47,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "அடுக்கு அரிப்பு",
+      "மண் அரிப்பு",
+      "ஓடை அரிப்பு",
+      "நீர் பள்ள அரிப்பு"
+    ],
+    "correct": 1,
+    "question_en": "Find the odd one out.",
+    "options_en": [
+      "Sheet erosion",
+      "Soil erosion",
+      "Rill erosion",
+      "Gully erosion"
+    ],
+    "explanation": "மண் அரிப்பு",
+    "explanation_en": "Soil erosion"
+  },
+  {
+    "id": 48,
+    "question": "பொருத்துக.\na) படிவுப் பாறைகள் - i) முதன்மைப் பாறைகள்\nb) ஊடுருவிய தீப்பாறைகள் - ii) அடுக்குப் பாறைகள்\nc) தீப்பாறைகள் - iii) பாதாளப் பாறைகள்\nd) அடியாழப் பாறைகள் - iv) படிகப் பாறைகள்",
+    "options": [
+      "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+      "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+      "(a) - (i), (b) - (iv), (c) - (iii), (d) - (iv)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+    ],
+    "correct": 1,
+    "question_en": "Match.\na) Sedimentary rocks - i) Primary rocks\nb) Intrusive igneous rocks - ii) Stratified rocks\nc) Igneous rocks - iii) Plutonic rocks\nd) Deep-seated rocks - iv) Crystalline rocks",
+    "options_en": [
+      "(a) - (i), (b) - (iii), (c) - (iv), (d) - (ii)",
+      "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+      "(a) - (i), (b) - (iv), (c) - (iii), (d) - (iv)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+    ],
+    "explanation": "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)",
+    "explanation_en": "(a) - (ii), (b) - (iv), (c) - (i), (d) - (iii)"
+  },
+  {
+    "id": 49,
+    "question": "பொருத்துக.\na) பசால்ட் - i) அடியாழப் பாறைகள்\nb) கிரானைட் - ii) வெளிப்புறத் தீப்பாறைகள்\nc) ஜிப்சம் - iii) உயிரின படிவுப்பாறை\nd) பட்டுக்கல் - iv) இரசாயன படிவுப்பாறை",
+    "options": [
+      "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+      "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "(a) - (i), (b) - (ii), (c) - (iii), (d) - (iv)"
+    ],
+    "correct": 0,
+    "question_en": "Match.\na) Basalt - i) Deep-seated rocks\nb) Granite - ii) Extrusive igneous rocks\nc) Gypsum - iii) Organic sedimentary rock\nd) Chalk - iv) Chemical sedimentary rock",
+    "options_en": [
+      "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+      "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+      "(a) - (i), (b) - (ii), (c) - (iii), (d) - (iv)"
+    ],
+    "explanation": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)",
+    "explanation_en": "(a) - (ii), (b) - (i), (c) - (iv), (d) - (iii)"
+  },
+  {
+    "id": 50,
+    "question": "பொருத்துக.\na) மெட்டா - i) படியவைத்தல்\nb) இக்னியஸ் - ii) வடிவம்\nc) மார்பா - iii) மாற்றம்\nd) செடிமென்டம் - iv) தீ",
+    "options": [
+      "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+      "(a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+    ],
+    "correct": 3,
+    "question_en": "Match.\na) Meta - i) Settling down\nb) Igneous - ii) Form\nc) Morpha - iii) Change\nd) Sedimentum - iv) Fire",
+    "options_en": [
+      "(a) - (iii), (b) - (ii), (c) - (iv), (d) - (i)",
+      "(a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+    ],
+    "explanation": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+    "explanation_en": "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)"
+  },
+  {
+    "id": 51,
+    "question": "பொருத்துக.\na) தண்ணீர் - i) 5%\nb) கனிமங்கள் - ii) 25%\nc) காற்று - iii) 25%\nd) கரிமப் பொருள்கள் - iv) 45%",
+    "options": [
+      "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)",
+      "(a) - (i), (b) - (ii), (c) - (iv), (d) - (iii)"
+    ],
+    "correct": 2,
+    "question_en": "Match.\na) Water - i) 5%\nb) Minerals - ii) 25%\nc) Air - iii) 25%\nd) Organic matter - iv) 45%",
+    "options_en": [
+      "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)",
+      "(a) - (i), (b) - (ii), (c) - (iv), (d) - (iii)"
+    ],
+    "explanation": "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)",
+    "explanation_en": "(a) - (ii), (b) - (iv), (c) - (iii), (d) - (i)"
+  },
+  {
+    "id": 52,
+    "question": "பொருத்துக.\na) சரளை மண் - i) தினைப்பயிர்\nb) கரிசல் மண் - ii) உணவுப் பயிர்\nc) செம்மண் - iii) தோட்டப் பயிர்\nd) வண்டல் மண் - iv) பணப் பயிர்",
+    "options": [
+      "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+      "(a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (i), (b) - (ii), (c) - (iv), (d) - (iii)"
+    ],
+    "correct": 0,
+    "question_en": "Match.\na) Laterite soil - i) Millets\nb) Black soil - ii) Food crop\nc) Red soil - iii) Plantation crop\nd) Alluvial soil - iv) Cash crop",
+    "options_en": [
+      "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+      "(a) - (ii), (b) - (i), (c) - (iii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (i), (b) - (ii), (c) - (iv), (d) - (iii)"
+    ],
+    "explanation": "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
+    "explanation_en": "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)"
+  },
+  {
+    "id": 53,
+    "question": "பொருத்துக.\na) கருவாடு - i) சரளை மண்\nb) காப்பி - ii) கரிசல் மண்\nc) காரத்தன்மை - iii) பாலை மண்\nd) களி மண் - iv) மலை மண்",
+    "options": [
+      "(a) - (i), (b) - (ii), (c) - (iii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (ii), (b) - (vi), (c) - (ii), (d) - (iii)",
+      "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+    ],
+    "correct": 3,
+    "question_en": "Match.\na) Dry fish (Incorrectly mapped context here refers to Desert/Barren land features) - i) Laterite soil\nb) Coffee - ii) Black soil\nc) Alkalinity - iii) Desert soil\nd) Clayey soil - iv) Mountain soil",
+    "options_en": [
+      "(a) - (i), (b) - (ii), (c) - (iii), (d) - (iv)",
+      "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)",
+      "(a) - (ii), (b) - (vi), (c) - (ii), (d) - (iii)",
+      "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+    ],
+    "explanation": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)",
+    "explanation_en": "(a) - (iii), (b) - (i), (c) - (iv), (d) - (ii)"
+  },
+  {
+    "id": 54,
+    "question": "தவறான இணையைக் கண்டறி.",
+    "options": [
+      "ஹவாய் தீவு - i) செயல்படும் எரிமலை",
+      "தாஹ்மஹால் - ii) பளிங்கு கற்கள்",
+      "கிரீன்லாந்து - iii) படிவுப்பாறைகள்",
+      "இத்தாலி - iv) உருமாறிய பாறைகள்"
+    ],
+    "correct": 3,
+    "question_en": "Find the incorrect pair.",
+    "options_en": [
+      "Hawaii island - i) Active volcano",
+      "Taj Mahal - ii) Marble stones",
+      "Greenland - iii) Sedimentary rocks",
+      "Italy - iv) Metamorphic rocks"
+    ],
+    "explanation": "இத்தாலி - iv) உருமாறிய பாறைகள்",
+    "explanation_en": "Italy - iv) Metamorphic rocks"
+  },
+  {
+    "id": 55,
+    "question": "சரியான இணையைக் கண்டறி.",
+    "options": [
+      "டொலிரைட் - i) இடையாழப் பாறை",
+      "டயரைட் - ii) வெளிப்புறத் தீப்பாறை",
+      "டோலோமைட் - iii) இரசாயன படிவுபாறை",
+      "நைஸ் - iv) பலகைப் பாறை"
+    ],
+    "correct": 0,
+    "question_en": "Find the correct pair.",
+    "options_en": [
+      "Dolerite - i) Hypabyssal rock",
+      "Diorite - ii) Extrusive igneous rock",
+      "Dolomite - iii) Chemical sedimentary rock",
+      "Gneiss - iv) Slate rock"
+    ],
+    "explanation": "டொலிரைட் - i) இடையாழப் பாறை",
+    "explanation_en": "Dolerite - i) Hypabyssal rock"
+  },
+  {
+    "id": 56,
+    "question": "தவறான இணையைக் கண்டறி.",
+    "options": [
+      "உருமாறிய பாறை - i) 2",
+      "படிவுப்பாறை - ii) 3",
+      "அடுக்குப் பாறை - iii) 4",
+      "தீப் பாறைகள் - iv) 2"
+    ],
+    "correct": 2,
+    "question_en": "Find the incorrect pair.",
+    "options_en": [
+      "Metamorphic rock - i) 2",
+      "Sedimentary rock - ii) 3",
+      "Stratified rock - iii) 4",
+      "Igneous rocks - iv) 2"
+    ],
+    "explanation": "அடுக்குப் பாறை - iii) 4",
+    "explanation_en": "Stratified rock - iii) 4"
+  },
+  {
+    "id": 57,
+    "question": "தவறான இணையைக் கண்டறி.",
+    "options": [
+      "பருத்தி - பணப்பயிர்",
+      "தேயிலை - தோட்டப்பயிர்",
+      "நெல் - தினைப்பயிர்",
+      "கோதுமை - உணவுப்பயிர்"
+    ],
+    "correct": 2,
+    "question_en": "Find the incorrect pair.",
+    "options_en": [
+      "Cotton - Cash crop",
+      "Tea - Plantation crop",
+      "Paddy - Millet crop",
+      "Wheat - Food crop"
+    ],
+    "explanation": "நெல் - தினைப்பயிர்",
+    "explanation_en": "Paddy - Millet crop"
+  },
+  {
+    "id": 58,
+    "question": "சரியான இணையைக் கண்டறி.",
+    "options": [
+      "தீப்பாறைகள் - கரிசல் மண்",
+      "படிவுப்பாறைகள் - மலை மண்",
+      "உருமாறிய பாறைகள் - பாலை மண்",
+      "பாதாளப் பாறைகள் - சரளை மண்"
+    ],
+    "correct": 0,
+    "question_en": "Find the correct pair.",
+    "options_en": [
+      "Igneous rocks - Black soil",
+      "Sedimentary rocks - Mountain soil",
+      "Metamorphic rocks - Desert soil",
+      "Plutonic rocks - Laterite soil"
+    ],
+    "explanation": "தீப்பாறைகள் - கரிசல் மண்",
+    "explanation_en": "Igneous rocks - Black soil"
+  },
+  {
+    "id": 59,
+    "question": "தவறான இணையைக் கண்டறி.",
+    "options": [
+      "கரிசல் மண் - ஈரத்தன்மை",
+      "வண்டல் மண் - கனிமத்தன்மை",
+      "மலை மண் - காரத்தன்மை",
+      "பாலை மண் - உவர்ப்புத்தன்மை"
+    ],
+    "correct": 1,
+    "question_en": "Find the incorrect pair.",
+    "options_en": [
+      "Black soil - Moisture retention",
+      "Alluvial soil - Mineral content",
+      "Mountain soil - Alkalinity",
+      "Desert soil - Salinity"
+    ],
+    "explanation": "வண்டல் மண் - கனிமத்தன்மை",
+    "explanation_en": "Alluvial soil - Mineral content"
+  },
+  {
+    "id": 60,
+    "question": "பின்வருவனவற்றுள் தவறான கூற்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "தீப்பாறைகள் கடினத்தன்மை உடையவை.",
+      "தீப்பாறைகள் கட்டுமான வேலைகளுக்குப் பயன்படாது.",
+      "தீப்பாறைகள் நீர்புகாத் தன்மை கொண்டவை.",
+      "தீப்பாறைகள் இரண்டு வகைப்படும்."
+    ],
+    "correct": 1,
+    "question_en": "Select the incorrect statement from the following.",
+    "options_en": [
+      "Igneous rocks are hard in nature.",
+      "Igneous rocks are not used for construction works.",
+      "Igneous rocks are impermeable.",
+      "Igneous rocks are of two types."
+    ],
+    "explanation": "தீப்பாறைகள் கட்டுமான வேலைகளுக்குப் பயன்படாது.",
+    "explanation_en": "Igneous rocks are not used for construction works."
+  },
+  {
+    "id": 61,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "படிவுப்பாறைகள் பல அடுக்குகளை கொண்டது.",
+      "படிவுப்பாறைகள் கடின தன்மை கொண்டது.",
+      "படிவுப்பாறைகள் படிகங்கள் உள்ள பாறை ஆகும்.",
+      "படிவுப்பாறைகள் மூன்று வகைப்படும்."
+    ],
+    "correct": 0,
+    "question_en": "Select the correct statement from the following.",
+    "options_en": [
+      "Sedimentary rocks consist of many layers.",
+      "Sedimentary rocks are hard in nature.",
+      "Sedimentary rocks are crystalline rocks.",
+      "Sedimentary rocks are of three types."
+    ],
+    "explanation": "படிவுப்பாறைகள் பல அடுக்குகளை கொண்டது.",
+    "explanation_en": "Sedimentary rocks consist of many layers."
+  },
+  {
+    "id": 62,
+    "question": "பின்வருவனவற்றுள் தவறான கூற்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "உருமாறிய பாறைகள் படிகத் தன்மை கொண்டவை.",
+      "உருமாறிய பாறைகள் வெளிர், கருமை நிற கனிமங்கள் உள்ளது.",
+      "உருமாறிய பாறைகள், அடுக்குப் பாறைகள் என அழைக்கப்படுகிறது.",
+      "உருமாறிய பாறைகள் இரண்டு வகைப்படும்."
+    ],
+    "correct": 2,
+    "question_en": "Select the incorrect statement from the following.",
+    "options_en": [
+      "Metamorphic rocks are crystalline in nature.",
+      "Metamorphic rocks contain light and dark colored minerals.",
+      "Metamorphic rocks are called stratified rocks.",
+      "Metamorphic rocks are of two types."
+    ],
+    "explanation": "உருமாறிய பாறைகள், அடுக்குப் பாறைகள் என அழைக்கப்படுகிறது.",
+    "explanation_en": "Metamorphic rocks are called stratified rocks."
+  },
+  {
+    "id": 63,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "சரளைமண் பணப்பயிர்கள் பயிரிட ஏற்ற மண்ணாகும்.",
+      "உருமாறிய பாறைகள் சிதைவடைவதால் உருவாகும் மண் சரளை மண்.",
+      "சரளை மண் இயற்கையாகவே ஈரத் தன்மையை தக்க வைத்துக் கொள்ளும் திறன் கொண்டது.",
+      "வளம் குறைந்து காணப்படும் மண் சரளை மண்."
+    ],
+    "correct": 3,
+    "question_en": "Select the correct statement from the following.",
+    "options_en": [
+      "Laterite soil is suitable for growing cash crops.",
+      "Laterite soil is formed by the weathering of metamorphic rocks.",
+      "Laterite soil has a natural capacity to retain moisture.",
+      "Laterite soil is less fertile."
+    ],
+    "explanation": "வளம் குறைந்து காணப்படும் மண் சரளை மண்.",
+    "explanation_en": "Laterite soil is less fertile."
+  },
+  {
+    "id": 64,
+    "question": "பின்வருவனவற்றுள் தவறான கூற்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "மண் என்பது முக்கியமான இயற்கை வளங்களில் ஒன்று.",
+      "மண்ணரிப்பு மண்ணின் வளத்தைக் குறைத்து வேளாண்மை உற்பத்தியைக் குறைக்கிறது.",
+      "மண்ணரிப்பு என்பது மனித செயல்பாடுகளினால் ஏற்படுவது அல்ல.",
+      "அணைகள் கட்டுவதன் மூலமாக மண் வளத்தை பாதுகாக்கலாம்."
+    ],
+    "correct": 2,
+    "question_en": "Select the incorrect statement from the following.",
+    "options_en": [
+      "Soil is one of the important natural resources.",
+      "Soil erosion reduces soil fertility and decreases agricultural production.",
+      "Soil erosion is not caused by human activities.",
+      "Soil fertility can be conserved by building dams."
+    ],
+    "explanation": "மண்ணரிப்பு என்பது மனித செயல்பாடுகளினால் ஏற்படுவது அல்ல.",
+    "explanation_en": "Soil erosion is not caused by human activities."
+  },
+  {
+    "id": 65,
+    "question": "பின்வருவனவற்றை வரிசைப்படுத்தி சரியான விடையைத் தேர்ந்தெடுக்கவும்.\na) உருமாறியப் பாறைகள்\nb) தீப்பாறைகள்\nc) படிவுப்பாறைகள்",
+    "options": [
+      "(c) (b) (a)",
+      "(b) (a) (c)",
+      "(b) (c) (a)",
+      "(a) (b) (c)"
+    ],
+    "correct": 2,
+    "question_en": "Arrange the following and select the correct answer.\na) Metamorphic rocks\nb) Igneous rocks\nc) Sedimentary rocks",
+    "options_en": [
+      "(c) (b) (a)",
+      "(b) (a) (c)",
+      "(b) (c) (a)",
+      "(a) (b) (c)"
+    ],
+    "explanation": "(b) (c) (a)",
+    "explanation_en": "(b) (c) (a)"
+  },
+  {
+    "id": 66,
+    "question": "பின்வருவனவற்றை வரிசைப்படுத்தி சரியான விடையைத் தேர்ந்தெடுக்கவும்.\na) மேல்மட்ட அடுக்கு\nb) உயர் மட்ட அடுக்கு\nc) தாய்ப்பாறை அடுக்கு\nd) படிவுப்பாறைகள்",
+    "options": [
+      "(a) (b) (c) (d)",
+      "(d) (a) (b) (c)",
+      "(b) (c) (d) (c)",
+      "(c) (d) (a) (b)"
+    ],
+    "correct": 1,
+    "question_en": "Arrange the following in sequence and select the correct answer.\na) Topsoil layer\nb) Subsoil layer\nc) Parent rock layer\nd) Bedrock (Sedimentary rocks)",
+    "options_en": [
+      "(a) (b) (c) (d)",
+      "(d) (a) (b) (c)",
+      "(b) (c) (d) (c)",
+      "(c) (d) (a) (b)"
+    ],
+    "explanation": "(d) (a) (b) (c)",
+    "explanation_en": "(d) (a) (b) (c)"
+  },
+  {
+    "id": 67,
+    "question": "கொடுக்கப்பட்டுள்ள கூற்றுகளை ஆராய்ந்து சரியான விடையை கண்டுபிடிக்கவும்.\nகூற்று I: புவியின் ஆழமான பகுதியில் காணப்படும் பாறைக்குழம்பு \"மாக்மா\" ஆகும்.\nகூற்று II: புவியின் உட்பகுதியில் இருந்து வெளியேறும் செந்நிற பாறைக்குழம்பு லாவா ஆகும்.",
+    "options": [
+      "கூற்று I சரி ஆனால் II தவறு",
+      "கூற்று I தவறு ஆனால் II சரி",
+      "கூற்று I மற்றும் II சரி",
+      "கூற்று I மற்றும் II தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Examine the given statements and find the correct answer.\nStatement I: The molten rock found deep inside the earth is \"Magma\".\nStatement II: The red-hot molten rock erupting from the earth's interior is Lava.",
+    "options_en": [
+      "Statement I is true but II is false",
+      "Statement I is false but II is true",
+      "Statements I and II are true",
+      "Statements I and II are false"
+    ],
+    "explanation": "கூற்று I மற்றும் II சரி",
+    "explanation_en": "Statements I and II are true"
+  },
+  {
+    "id": 68,
+    "question": "கொடுக்கப்பட்டுள்ள கூற்றுகளை ஆராய்ந்து சரியான விடையைக் கண்டறி.\nகூற்று I: வெப்ப உருமாற்றத்தினால் கருங்கல் பாறை பலகைப் பாறையாக உருமாறுகிறது.\nகூற்று II: இயக்க உருமாற்றத்தினால் நைஸ் பாறை கிரானைட் பாறையாக உருமாறுகிறது.",
+    "options": [
+      "கூற்று I மற்றும் II சரி",
+      "கூற்று I தவறு ஆனால் II சரி",
+      "கூற்று I மற்றும் II தவறு",
+      "கூற்று I சரி ஆனால் II தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Examine the given statements and find the correct answer.\nStatement I: Due to thermal metamorphism, black stone rock turns into slate.\nStatement II: Due to dynamic metamorphism, gneiss turns into granite.",
+    "options_en": [
+      "Statements I and II are true",
+      "Statement I is false but II is true",
+      "Statements I and II are false",
+      "Statement I is true but II is false"
+    ],
+    "explanation": "கூற்று I சரி ஆனால் II தவறு",
+    "explanation_en": "Statement I is true but II is false"
+  },
+  {
+    "id": 69,
+    "question": "கொடுக்கப்பட்டுள்ள கூற்றுகளை ஆராய்ந்து சரியான விடையைக் கண்டறி.\nகூற்று 1: மண் புவியில் உயிரினங்கள் வாழ்வதற்கு அடிப்படையாக உள்ளது.\nகூற்று 2: மண் சுற்றுச்சூழலுக்கும், நில மேலாண்மைக்கும் துணைபுரிகிறது.",
+    "options": [
+      "கூற்று 1 மற்றும் 2 சரி",
+      "கூற்று 1 மற்றும் 2 தவறு",
+      "கூற்று 1 சரி ஆனால் 2 தவறு",
+      "கூற்று 1 தவறு ஆனால் 2 சரி"
+    ],
+    "correct": 0,
+    "question_en": "Examine the given statements and find the correct answer.\nStatement 1: Soil is fundamental for the survival of organisms on Earth.\nStatement 2: Soil supports the environment and land management.",
+    "options_en": [
+      "Statements 1 and 2 are true",
+      "Statements 1 and 2 are false",
+      "Statement 1 is true but 2 is false",
+      "Statement 1 is false but 2 is true"
+    ],
+    "explanation": "கூற்று 1 மற்றும் 2 சரி",
+    "explanation_en": "Statements 1 and 2 are true"
+  },
+  {
+    "id": 70,
+    "question": "கொடுக்கப்பட்டுள்ள கூற்றுகளை ஆராய்ந்து சரியான விடையை கண்டுபிடிக்கவும்\nகூற்று 1: தோட்டப் பயிர்கள் பயிரிட ஏற்ற மண் செம்மண்.\nகூற்று 2: அரை வறண்ட பிரதேசங்களில் காணப்படும் மண் செம்மண்.",
+    "options": [
+      "கூற்று 1 மற்றும் 2 சரி",
+      "கூற்று 1 மற்றும் 2 தவறு",
+      "கூற்று 1 சரி ஆனால் 2 தவறு",
+      "கூற்று 1 தவறு ஆனால் 2 சரி"
+    ],
+    "correct": 3,
+    "question_en": "Examine the given statements and find the correct answer.\nStatement 1: Red soil is suitable for growing plantation crops.\nStatement 2: Red soil is found in semi-arid regions.",
+    "options_en": [
+      "Statements 1 and 2 are true",
+      "Statements 1 and 2 are false",
+      "Statement 1 is true but 2 is false",
+      "Statement 1 is false but 2 is true"
+    ],
+    "explanation": "கூற்று 1 தவறு ஆனால் 2 சரி",
+    "explanation_en": "Statement 1 is false but 2 is true"
+  },
+  {
+    "id": 71,
+    "question": "சரியான கூற்றுக்களைத் தேர்ந்தெடுக்கவும் (NMMS-2020-21)\ni. அதிக வெப்ப அழுத்தம் காரணமாக தீப்பாறைகளும், படிவுப்பாறைகளும் மாற்றமடைந்து உருமாறிய பாறைகள் என பெயர் பெறுகிறது.\nii. இந்த பாறைகள் கடினத் தன்மை உடையவை.\niii. இப்பாறைகள் படிகங்களற்ற பாறைகளாக உள்ளன.\niv. இந்தியாவில் உள்ள உலக அதிசயங்களில் ஒன்றான தாஜ்மஹால் உருமாறிய பாறைகளிலிருந்து உருவான வெள்ளை பளிங்குக் கற்களால் கட்டப்பட்டது.",
+    "options": [
+      "i மற்றும் ii",
+      "ii மற்றும் iii",
+      "iii மற்றும் iv",
+      "i மற்றும் iv"
+    ],
+    "correct": 3,
+    "question_en": "Select the correct statements (NMMS-2020-21)\ni. Due to high heat and pressure, igneous and sedimentary rocks undergo changes and are called metamorphic rocks.\nii. These rocks are hard in nature.\niii. These rocks are non-crystalline rocks.\niv. Taj Mahal, one of the world wonders in India, is built with white marbles formed from metamorphic rocks.",
+    "options_en": [
+      "i and ii",
+      "ii and iii",
+      "iii and iv",
+      "i and iv"
+    ],
+    "explanation": "i மற்றும் iv",
+    "explanation_en": "i and iv"
+  },
+  {
+    "id": 72,
+    "question": "பொருத்துக. (NMMS 2019-20)\na) படிவுப் பாறைகள் – i. அடியாழப் பாறைகள்\nb) தீப்பாறைகள் – ii. அடுக்குப் பாறைகள்\nc) புளூட்டானிக் பாறைகள் – iii. குறைந்த ஆழத்தில் உள்ள பாறைகள்\nd) ஹைப்பாபைசல் பாறைகள் – iv. தாய்ப் பாறைகள்",
+    "options": [
+      "(1) a-ii, b-iv, c-i, d-iii",
+      "(2) a-iv, b-iii, c-ii, d-i",
+      "(3) a-i, b-iii, c-iv, d-ii",
+      "(4) a-iii, b-iv, c-i, d-ii"
+    ],
+    "correct": 0,
+    "question_en": "Match. (NMMS 2019-20)\na) Sedimentary rocks - i. Deep-seated rocks\nb) Igneous rocks - ii. Stratified rocks\nc) Plutonic rocks - iii. Shallow depth rocks\nd) Hypabyssal rocks - iv. Parent rocks",
+    "options_en": [
+      "(1) a-ii, b-iv, c-i, d-iii",
+      "(2) a-iv, b-iii, c-ii, d-i",
+      "(3) a-i, b-iii, c-iv, d-ii",
+      "(4) a-iii, b-iv, c-i, d-ii"
+    ],
+    "explanation": "(1) a-ii, b-iv, c-i, d-iii",
+    "explanation_en": "(1) a-ii, b-iv, c-i, d-iii"
+  },
+  {
+    "id": 73,
+    "question": "பொருந்தாத இணையைக் தேர்ந்தெடுக்கவும். (NMMS 2019-20)",
+    "options": [
+      "சரளை மண் - சணல்",
+      "கரிசல் மண் - பருத்தி",
+      "வண்டல் மண் - நெல்",
+      "செம்மண் - தினைப் பயிர்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Select the mismatched pair. (NMMS 2019-20)",
+    "options_en": [
+      "Laterite soil - Jute",
+      "Black soil - Cotton",
+      "Alluvial soil - Paddy",
+      "Red soil - Millets"
+    ],
+    "explanation": "சரளை மண் - சணல்",
+    "explanation_en": "Laterite soil - Jute"
+  }
+]

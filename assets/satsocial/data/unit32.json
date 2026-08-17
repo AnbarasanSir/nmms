@@ -1,0 +1,2282 @@
+[
+  {
+    "id": 1,
+    "question": "SSA எனப்படுவது ________.",
+    "options": [
+      "Samagra Siksha Abiyan",
+      "Samagra Siksha for All",
+      "Sarva Siksha Abiyan",
+      "Sarva Siksha for All"
+    ],
+    "correct": 2,
+    "question_en": "SSA is called ________.",
+    "options_en": [
+      "Samagra Siksha Abiyan",
+      "Samagra Siksha for All",
+      "Sarva Siksha Abiyan",
+      "Sarva Siksha for All"
+    ],
+    "explanation": "SSA எனப்படுவது Sarva Siksha Abiyan.",
+    "explanation_en": "SSA is called Sarva Siksha Abiyan."
+  },
+  {
+    "id": 2,
+    "question": "வேதம் என்ற சமஸ்கிருதச் சொல்லின் பொருள் ________.",
+    "options": [
+      "கல்வி",
+      "அறிவு",
+      "கடிகை",
+      "கணக்காயர்"
+    ],
+    "correct": 1,
+    "question_en": "The Sanskrit word Veda means ________.",
+    "options_en": [
+      "Education",
+      "Knowledge",
+      "watch",
+      "Accountant"
+    ],
+    "explanation": "வேதம் என்ற சமஸ்கிருதச் சொல்லின் பொருள் அறிவு.",
+    "explanation_en": "The Sanskrit word Veda means Knowledge."
+  },
+  {
+    "id": 3,
+    "question": "தட்சசீலத்தை யுனெஸ்கோ அமைப்பு, உலகப் பாரம்பரியத் தளமாக எப்போது அறிவித்தது?",
+    "options": [
+      "1970",
+      "1975",
+      "1980",
+      "1985"
+    ],
+    "correct": 2,
+    "question_en": "When was Thaksin declared a World Heritage Site by UNESCO?",
+    "options_en": [
+      "1970",
+      "1975",
+      "1980",
+      "1985"
+    ],
+    "explanation": "1980",
+    "explanation_en": "1980 was Thaksin declared a World Heritage Site by UNESCO."
+  },
+  {
+    "id": 4,
+    "question": "கீழ்க்கண்டவற்றுள் பொருந்தாத ஒன்றை தேர்ந்தெடு.",
+    "options": [
+      "தட்சசீலம்",
+      "காஞ்சி",
+      "விக்ரமசீலா",
+      "இட்சிங்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the one that does not apply from the following.",
+    "options_en": [
+      "Thaksin",
+      "Kanji",
+      "Vikramsila",
+      "Itching"
+    ],
+    "explanation": "இட்சிங்",
+    "explanation_en": "Itching"
+  },
+  {
+    "id": 5,
+    "question": "கீழ்க்கண்டவற்றுள் எந்த இடத்தின் இடிபாடுகளை அலெக்சாண்டர் கன்னிங்காம் கண்டுபிடித்தார்?",
+    "options": [
+      "நாளந்தா",
+      "தட்சசீலம்",
+      "விக்ரமசீலா",
+      "இட்சிங்"
+    ],
+    "correct": 1,
+    "question_en": "Alexander Cunningham discovered the ruins of which of the following places?",
+    "options_en": [
+      "Nalanda",
+      "Thaksin",
+      "Vikramsila",
+      "Itching"
+    ],
+    "explanation": "தட்சசீலம்",
+    "explanation_en": "Thaksin"
+  },
+  {
+    "id": 6,
+    "question": "கீழ்க்கண்டவற்றுள் தவறான இணையைக் கண்டுபிடி.",
+    "options": [
+      "ஆசிரியர்கள் - கடிகை",
+      "காந்தளூர் சாலை - புகழ் பெற்ற கல்லூரி",
+      "திருவிடைக்காளைக் கல்வெட்டு - நூலகம்",
+      "திருவாடுதுறைக் கல்வெட்டு - மருத்துவப் பள்ளி"
+    ],
+    "correct": 0,
+    "question_en": "Find the wrong parallel in the following.",
+    "options_en": [
+      "Teachers - watch",
+      "Kandalur Road - Reputed College",
+      "Tiruvidhaikalai Inscription - Library",
+      "Thiruvaduthuraik Inscription - Medical School"
+    ],
+    "explanation": "ஆசிரியர்கள் - கடிகை",
+    "explanation_en": "Teachers - watch"
+  },
+  {
+    "id": 7,
+    "question": "நாளந்தா பல்கலைக்கழகம் எந்த இடத்தில் அமைந்துள்ளது?",
+    "options": [
+      "காஞ்சி",
+      "வடமேற்குப் பாகிஸ்தான்",
+      "ஸ்ரீரங்கம்",
+      "ராஜகிருகம்"
+    ],
+    "correct": 3,
+    "question_en": "Where is Nalanda University located?",
+    "options_en": [
+      "Kanji",
+      "North West Pakistan",
+      "Srirangam",
+      "Rajakrigam"
+    ],
+    "explanation": "ராஜகிருகம்",
+    "explanation_en": "Rajakrigam is Nalanda University located."
+  },
+  {
+    "id": 8,
+    "question": "தவறான இணையைக் கண்டுபிடி.",
+    "options": [
+      "மக்டப் - தொடக்கப்பள்ளிகள்",
+      "மதரசா - இடைநிலைப் பள்ளிகள்",
+      "டெல்லி - மௌலானா சத்ருதீன் மதரசா",
+      "முதல் மதரசா - இல்துத்மிஷ்"
+    ],
+    "correct": 2,
+    "question_en": "Find the wrong parallel.",
+    "options_en": [
+      "Maktab - Primary Schools",
+      "Madrasas – Secondary Schools",
+      "Delhi - Maulana Shadruddin Madrasa",
+      "First Madrasa - Ildutmish"
+    ],
+    "explanation": "டெல்லி - மௌலானா சத்ருதீன் மதரசா",
+    "explanation_en": "Delhi - Maulana Shadruddin Madrasa"
+  },
+  {
+    "id": 9,
+    "question": "டெல்லியில் மதரசாவை நிறுவிய முதல் ஆட்சியாளர் யார்?",
+    "options": [
+      "இல்துத்மிஷ்",
+      "பிரான்சிஸ் சேவியர்",
+      "சீகன்பால்கு",
+      "புளுட்சோ"
+    ],
+    "correct": 0,
+    "question_en": "Who was the first ruler to establish a madrasah in Delhi?",
+    "options_en": [
+      "Ildutmish",
+      "Francis Xavier",
+      "Seekenpalku",
+      "Blutso"
+    ],
+    "explanation": "டெல்லியில் மதரசாவை நிறுவிய முதல் ஆட்சியாளர் இல்துத்மிஷ்.",
+    "explanation_en": "Ildutmish was the first ruler to establish a madrasah in Delhi."
+  },
+  {
+    "id": 10,
+    "question": "இந்தியாவில் நவீன கல்வி முறையைத் தொடங்கிய முதல் ஐரோப்பிய நாடு எது?",
+    "options": [
+      "இங்கிலாந்து",
+      "டென்மார்க்",
+      "பிரான்சு",
+      "போர்ச்சுக்கல்"
+    ],
+    "correct": 3,
+    "question_en": "Which was the first European country to introduce modern education system in India?",
+    "options_en": [
+      "England",
+      "Denmark",
+      "France",
+      "Portugal"
+    ],
+    "explanation": "இந்தியாவில் நவீன கல்வி முறையைத் தொடங்கிய முதல் ஐரோப்பிய நாடு போர்ச்சுக்கல் ஆகும்.",
+    "explanation_en": "Portugal"
+  },
+  {
+    "id": 11,
+    "question": "பிரான்சிஸ் சேவியர் கீழ்க்கண்ட எந்த இடத்தில் பல்கலைக்கழகத்தைத் தொடங்கினார்?",
+    "options": [
+      "கொச்சி",
+      "ஜெய்ப்பூர்",
+      "பம்பாய்",
+      "பனாரஸ்"
+    ],
+    "correct": 0,
+    "question_en": "Francis Xavier started a university at which of the following places?",
+    "options_en": [
+      "Cochin",
+      "Jaipur",
+      "Bombay",
+      "Banaras"
+    ],
+    "explanation": "கொச்சி",
+    "explanation_en": "Cochin"
+  },
+  {
+    "id": 12,
+    "question": "கோவாவில் முதல் கல்லூரி தொடங்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1576",
+      "1575",
+      "1675",
+      "1676"
+    ],
+    "correct": 1,
+    "question_en": "The year the first college was started in Goa was ________.",
+    "options_en": [
+      "1576",
+      "1575",
+      "1675",
+      "1676"
+    ],
+    "explanation": "கோவாவில் முதல் கல்லூரி தொடங்கப்பட்ட ஆண்டு 1575.",
+    "explanation_en": "The year the first college was started in Goa was 1575."
+  },
+  {
+    "id": 13,
+    "question": "C.S. ஜான் என்பவர் தரங்கம்பாடியில் 20 இலவசப் பள்ளிகளை எந்த ஆண்டு நிறுவினார்?",
+    "options": [
+      "1812",
+      "1912",
+      "1817",
+      "1917"
+    ],
+    "correct": 0,
+    "question_en": "C.S. In which year did John establish 20 free schools in Tharangambadi?",
+    "options_en": [
+      "1812",
+      "1912",
+      "1817",
+      "1917"
+    ],
+    "explanation": "1812",
+    "explanation_en": "1812"
+  },
+  {
+    "id": 14,
+    "question": "மதராஸ், பனாரஸ் ஆகிய இடங்களில் எந்த மொழி சார்ந்த கல்லூரிகள் துவங்கப்பட்டன?",
+    "options": [
+      "சமஸ்கிருதம்",
+      "ஆங்கிலம்",
+      "தமிழ்",
+      "பிரெஞ்சு"
+    ],
+    "correct": 0,
+    "question_en": "Which language colleges were started in Madras and Banaras?",
+    "options_en": [
+      "Sanskrit",
+      "English",
+      "Tamil",
+      "French"
+    ],
+    "explanation": "சமஸ்கிருதம்",
+    "explanation_en": "Sanskrit"
+  },
+  {
+    "id": 15,
+    "question": "இந்தியாவில் கல்வி மேம்பாட்டிற்காக, ஆண்டுதோறும் மானியமாக 1 லட்சம் ரூபாய் தொகையை வழங்குவதற்கான ஏற்பாட்டினைச் செய்த பட்டயச் சட்டம் ________.",
+    "options": [
+      "1813 ஆம் ஆண்டு பட்டயச் சட்டம்",
+      "1833 ஆம் ஆண்டு பட்டயச் சட்டம்",
+      "1853 ஆம் ஆண்டு பட்டயச் சட்டம்",
+      "1858 ஆம் ஆண்டு பட்டயச் சட்டம்"
+    ],
+    "correct": 0,
+    "question_en": "Charter Act ________ which provided for an annual grant of Rs 1 lakh for the development of education in India.",
+    "options_en": [
+      "The Charter Act of 1813",
+      "The Charter Act of 1833",
+      "The Charter Act of 1853",
+      "The Charter Act of 1858"
+    ],
+    "explanation": "இந்தியாவில் கல்வி மேம்பாட்டிற்காக, ஆண்டுதோறும் மானியமாக 1 லட்சம் ரூபாய் தொகையை வழங்குவதற்கான ஏற்பாட்டினைச் செய்த பட்டயச் சட்டம் 1813 ஆம் ஆண்டு பட்டயச் சட்டம்.",
+    "explanation_en": "Charter Act The Charter Act of 1813 which provided for an annual grant of Rs 1 lakh for the development of education in India."
+  },
+  {
+    "id": 16,
+    "question": "பொருத்துக.\ni. தஞ்சாவூர் - a) வட்டார மொழிக் கல்வி\nii. வார்தா - b) அச்சுக்கூடம்\niii. உட்ஸ் - c) காந்தியடிகள்\niv. மவுண்ட் ஸ்டூவர்ட் எல்பின்ஸ்டன் - d) ஆங்கிலக் கல்வியின் மகாசாசனம்",
+    "options": [
+      "i – a, ii – b, iii – c, iv - d",
+      "i – b, ii – c, iii – a, iv - b",
+      "i – b, ii – c, iii – d, iv – a",
+      "i – c, ii – a, iii – b, iv – d"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. Thanjavur - a) Vernacular Education\nii. Wardha - b) Printing house\niii. Woods - c) Gandhiatis\niv. Mount Stuart Elphinstone - d) Mahasasan of English Education",
+    "options_en": [
+      "i – a, ii – b, iii – c, iv – d",
+      "i – b, ii – c, iii – a, iv – b",
+      "i – b, ii – c, iii – d, iv – a",
+      "i – c, ii – a, iii – b, iv – d"
+    ],
+    "explanation": "i – b, ii – c, iii – d, iv – a",
+    "explanation_en": "i – b, ii – c, iii – d, iv – a"
+  },
+  {
+    "id": 17,
+    "question": "பொருத்துக.\ni. 1882 - a) டாக்டர் ராதாகிருஷ்ணன் கல்விக் குழு\nii. 1944 - b) வார்தா கல்வித் திட்டம்\niii. 1937 - c) ஹண்டர் கல்விக் குழு\niv. 1948 - d) சார்ஜண்ட் அறிக்கை",
+    "options": [
+      "i – d, ii – c, iii – a, iv - b",
+      "i – b, ii – c, iii – a, iv - d",
+      "i – c, ii – d, iii – b, iv - a",
+      "i – a, ii – b, iii – c, iv - d"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. 1882 - a) Dr. Radhakrishnan Educational Committee\nii. 1944 - b) Wardha Education Scheme\niii. 1937 - c) Hunter Educational Group\niv. 1948 - d) Report of Sgt",
+    "options_en": [
+      "i – d, ii – c, iii – a, iv – b",
+      "i – b, ii – c, iii – a, iv – d",
+      "i – c, ii – d, iii – b, iv – a",
+      "i – a, ii – b, iii – c, iv – d"
+    ],
+    "explanation": "i – c, ii – d, iii – b, iv - a",
+    "explanation_en": "i – c, ii – d, iii – b, iv – a"
+  },
+  {
+    "id": 18,
+    "question": "புதிய கல்விக் கொள்கை திருத்தி அமைக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1992",
+      "1982",
+      "1972",
+      "1962"
+    ],
+    "correct": 0,
+    "question_en": "The year the new education policy was revised was ________.",
+    "options_en": [
+      "1992",
+      "1982",
+      "1972",
+      "1962"
+    ],
+    "explanation": "புதிய கல்விக் கொள்கை திருத்தி அமைக்கப்பட்ட ஆண்டு 1992.",
+    "explanation_en": "The year the new education policy was revised was 1992."
+  },
+  {
+    "id": 19,
+    "question": "அனைவருக்கும் இடைநிலைக்கல்வித் திட்டம், எந்த ஐந்தாண்டுத் திட்டக் காலத்தில் செயல்படுத்தப்பட்ட திட்டமாகும்?",
+    "options": [
+      "11-வது ஐந்தாண்டுத் திட்டம்",
+      "10-வது ஐந்தாண்டுத் திட்டம்",
+      "9-வது ஐந்தாண்டுத் திட்டம்",
+      "8-வது ஐந்தாண்டுத் திட்டம்"
+    ],
+    "correct": 0,
+    "question_en": "Secondary Education for All scheme was implemented during which Five Year Plan period?",
+    "options_en": [
+      "11th Five Year Plan",
+      "10th Five Year Plan",
+      "9th Five Year Plan",
+      "8th Five Year Plan"
+    ],
+    "explanation": "11-வது ஐந்தாண்டுத் திட்டம்",
+    "explanation_en": "11th Five Year Plan"
+  },
+  {
+    "id": 20,
+    "question": "சரஸ்வதி மஹால் நூலகம் அமைந்துள்ள ஊர் எது?",
+    "options": [
+      "தஞ்சை",
+      "மதுரை",
+      "சென்னை",
+      "கொல்கத்தா"
+    ],
+    "correct": 0,
+    "question_en": "In which city is Saraswati Mahal Library located?",
+    "options_en": [
+      "Tanjore",
+      "Madurai",
+      "Chennai",
+      "Kolkata"
+    ],
+    "explanation": "சரஸ்வதி மஹால் நூலகம் அமைந்துள்ள ஊர் தஞ்சை ஆகும்.",
+    "explanation_en": "Tanjore"
+  },
+  {
+    "id": 21,
+    "question": "அண்ணாமலைப் பல்கலைக் கழகம் எந்த ஆண்டு அமைக்கப்பட்டது?",
+    "options": [
+      "1930",
+      "1940",
+      "1950",
+      "1929"
+    ],
+    "correct": 3,
+    "question_en": "Annamalai University was established in which year?",
+    "options_en": [
+      "1930",
+      "1940",
+      "1950",
+      "1929"
+    ],
+    "explanation": "1929",
+    "explanation_en": "1929"
+  },
+  {
+    "id": 22,
+    "question": "பள்ளிகளில் மதிய உணவுத் திட்டம் அறிமுகப்படுத்தப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1966",
+      "1976",
+      "1956",
+      "1950"
+    ],
+    "correct": 2,
+    "question_en": "The year in which mid day meal scheme was introduced in schools was ________.",
+    "options_en": [
+      "1966",
+      "1976",
+      "1956",
+      "1950"
+    ],
+    "explanation": "பள்ளிகளில் மதிய உணவுத் திட்டம் அறிமுகப்படுத்தப்பட்ட ஆண்டு 1956.",
+    "explanation_en": "The year in which mid day meal scheme was introduced in schools was 1956."
+  },
+  {
+    "id": 23,
+    "question": "சத்துணவுத் திட்டம் விரிவுபடுத்தப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1992",
+      "1982",
+      "1972",
+      "1962"
+    ],
+    "correct": 1,
+    "question_en": "The year the nutrition program was expanded was ________.",
+    "options_en": [
+      "1992",
+      "1982",
+      "1972",
+      "1962"
+    ],
+    "explanation": "சத்துணவுத் திட்டம் விரிவுபடுத்தப்பட்ட ஆண்டு 1982.",
+    "explanation_en": "The year the nutrition program was expanded was 1982."
+  },
+  {
+    "id": 24,
+    "question": "சாணக்கியர் அர்த்தசாஸ்திரத்தை எங்குத் தங்கித் தொகுத்ததாகக் கூறப்படுகிறது?",
+    "options": [
+      "காஞ்சி",
+      "தட்சசீலம்",
+      "நாளந்தா",
+      "விக்ரமசீலா"
+    ],
+    "correct": 1,
+    "question_en": "Where is Chanakya said to have compiled Arthasastra?",
+    "options_en": [
+      "Kanji",
+      "Thaksin",
+      "Nalanda",
+      "Vikramsila"
+    ],
+    "explanation": "தட்சசீலம்",
+    "explanation_en": "Thaksin is Chanakya said to have compiled Arthasastra."
+  },
+  {
+    "id": 25,
+    "question": "தவறான கூற்றைக் கண்டுபிடி.",
+    "options": [
+      "சரகர் மற்றும் சுஸ்ருதர் ஆகியோரின் குறிப்புகள் மருத்துவத்தைக் கற்றுக்கொள்ள ஆதாரங்களாக இருந்தன.",
+      "கல்வியானது மனிதனின் மூன்றாவது கண்ணாகக் கருதப்படுகிறது.",
+      "கோவில்கள் கற்றல் மையங்களாகத் திகழ்ந்தன.",
+      "இவற்றில் எதுவுமில்லை."
+    ],
+    "correct": 3,
+    "question_en": "Find the wrong statement.",
+    "options_en": [
+      "The notes of Sarakhar and Susruthar were sources for learning medicine.",
+      "Education is considered as the third eye of man.",
+      "Temples became centers of learning.",
+      "None of these."
+    ],
+    "explanation": "இவற்றில் எதுவுமில்லை.",
+    "explanation_en": "None of these."
+  },
+  {
+    "id": 26,
+    "question": "வேதம் என்ற சொல் எம்மொழியில் இருந்து வந்தது?",
+    "options": [
+      "இலத்தீன்",
+      "சமஸ்கிருதம்",
+      "பிராகிருதம்",
+      "பாலி"
+    ],
+    "correct": 1,
+    "question_en": "Where does the word Veda come from?",
+    "options_en": [
+      "Latin",
+      "Sanskrit",
+      "Prakrit",
+      "Bali"
+    ],
+    "explanation": "சமஸ்கிருதம்",
+    "explanation_en": "Sanskrit"
+  },
+  {
+    "id": 27,
+    "question": "பின்வருவனவற்றுள் எது பண்டைய காலத்தில் கற்றலுக்கான முக்கிய மையமாக இருந்தது?",
+    "options": [
+      "விகாரங்கள்",
+      "குருகுலம்",
+      "பள்ளிகள்",
+      "இவையனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following was a major center of learning in ancient times?",
+    "options_en": [
+      "Strains",
+      "Gurukulam",
+      "schools",
+      "All of these"
+    ],
+    "explanation": "இவையனைத்தும்",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 28,
+    "question": "இந்தியாவின் மிகப் பழமையான நாளந்தா பல்கலைக் கழகம் அமைந்துள்ள இடம் ________.",
+    "options": [
+      "உத்தரப் பிரதேசம்",
+      "பீகார்",
+      "மகாராஷ்டிரம்",
+      "பஞ்சாப்"
+    ],
+    "correct": 1,
+    "question_en": "India's oldest Nalanda University is situated in ________.",
+    "options_en": [
+      "Uttar Pradesh",
+      "Bihar",
+      "Maharashtra",
+      "Punjab"
+    ],
+    "explanation": "இந்தியாவின் மிகப் பழமையான நாளந்தா பல்கலைக் கழகம் அமைந்துள்ள இடம் பீகார்.",
+    "explanation_en": "India's oldest Nalanda University is situated in Bihar."
+  },
+  {
+    "id": 29,
+    "question": "பின்வரும் குழுக்களில், எந்தக் குழு பல்கலைக்கழக மானியக் குழுவினை அமைக்கப் பரிந்துரை செய்தது?",
+    "options": [
+      "சார்ஜண்ட் அறிக்கை, 1944",
+      "இராதாகிருஷ்ணன் கல்விக் குழு, 1948",
+      "கோத்தாரி கல்விக் குழு, 1964",
+      "தேசியக் கல்விக் கொள்கை, 1968"
+    ],
+    "correct": 1,
+    "question_en": "Among the following committees, which committee recommended setting up of the University Grants Committee?",
+    "options_en": [
+      "Sergeant's Report, 1944",
+      "Radhakrishnan Education Committee, 1948",
+      "Kothari Education Committee, 1964",
+      "National Education Policy, 1968"
+    ],
+    "explanation": "இராதாகிருஷ்ணன் கல்விக் குழு, 1948",
+    "explanation_en": "Radhakrishnan Education Committee, 1948"
+  },
+  {
+    "id": 30,
+    "question": "இந்தியாவில் புதிய கல்விக் கொள்கை எந்த ஆண்டு அறிமுகப்படுத்தப்பட்டது?",
+    "options": [
+      "1968",
+      "1992",
+      "2009",
+      "1986"
+    ],
+    "correct": 3,
+    "question_en": "In which year the new education policy was introduced in India?",
+    "options_en": [
+      "1968",
+      "1992",
+      "2009",
+      "1986"
+    ],
+    "explanation": "1986",
+    "explanation_en": "1986"
+  },
+  {
+    "id": 31,
+    "question": "2009 ஆம் ஆண்டு இலவசக் கட்டாயக் கல்விச் சட்டத்தின் விதிகளை அமல்படுத்துகின்ற முதன்மையான அமைப்பு ________.",
+    "options": [
+      "SSA",
+      "RTE",
+      "RMSA",
+      "SMSA"
+    ],
+    "correct": 0,
+    "question_en": "The primary body implementing the provisions of the Free Compulsory Education Act, 2009 is ________.",
+    "options_en": [
+      "SSA",
+      "RTE",
+      "RMSA",
+      "SMSA"
+    ],
+    "explanation": "2009 ஆம் ஆண்டு இலவசக் கட்டாயக் கல்விச் சட்டத்தின் விதிகளை அமல்படுத்துகின்ற முதன்மையான அமைப்பு SSA.",
+    "explanation_en": "The primary body implementing the provisions of the Free Compulsory Education Act, 2009 is SSA."
+  },
+  {
+    "id": 32,
+    "question": "பொருத்துக.\ni. பிரான்சிஸ் சேவியர் - a. சரஸ்வதி மஹால்\nii. உட்ஸ் கல்வி அறிக்கை - b. கொச்சி பல்கலைக் கழகம்\niii. இரண்டாம் சரபோஜி - c. மதராஸில் மேற்கத்தியக் கல்வி\niv. சர் தாமஸ் மன்ரோ - d. இந்தியக் கல்வியின் மகா சாசனம்",
+    "options": [
+      "i – d, ii – c, iii – a, iv - b",
+      "i – b, ii – c, iii – a, iv - d",
+      "i – b, ii – d, iii – a, iv - c",
+      "i – a, ii – b, iii – c, iv – d"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. Francis Xavier - a. Saraswati Mahal\nii. Woods Academic Statement - b. Cochin University\niii. Saraboji II - c. Western education in Madras\niv. Sir Thomas Munro - d. The Great Charter of Indian Education",
+    "options_en": [
+      "i – d, ii – c, iii – a, iv – b",
+      "i – b, ii – c, iii – a, iv – d",
+      "i – b, ii – d, iii – a, iv – c",
+      "i – a, ii – b, iii – c, iv – d"
+    ],
+    "explanation": "i – b, ii – d, iii – a, iv - c",
+    "explanation_en": "i – b, ii – d, iii – a, iv – c"
+  },
+  {
+    "id": 33,
+    "question": "பின்வருவனவற்றுள் சரியானவற்றைத் தேர்ந்தெடு.\nஅ. நாளந்தா பல்கலைக் கழகம் கி.பி.(பொ.ஆ) ஐந்தாம் நூற்றாண்டில் தோற்றுவிக்கப்பட்டது.\nஆ. பண்டைய இந்தியாவில் மாணவர்களைத் தேர்ந்தெடுப்பது முதல் அவர்களின் பாடத்திட்டத்தினை வடிவமைப்பு செய்வது வரை அனைத்து அம்சங்களிலும் ஆசிரியர்கள் முழுமையான சுயாட்சி கொண்டிருந்தனர்.\nஇ. பண்டைய காலத்தில் ஆசிரியர்கள் கணக்காயர் என்று அழைக்கப்பட்டனர்.\nஈ. சோழர்கள் காலத்தில் புகழ்பெற்ற கல்லூரியாக காந்தளூர் சாலை இருந்தது.",
+    "options": [
+      "அ மற்றும் ஆ சரி",
+      "ஆ மற்றும் ஈ சரி",
+      "இ மற்றும் ஈ சரி",
+      "அ, ஆ மற்றும் இ சரி"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct one from the following.\nA. Nalanda University was established in the fifth century AD.\nb. In ancient India teachers had complete autonomy in all aspects from selecting students to designing their curriculum.\ne. In ancient times teachers were called accountants.\nE. Kandalur Road was a famous college during the Cholas period.",
+    "options_en": [
+      "A and B are correct",
+      "A and D are correct",
+      "E and D are correct",
+      "A, B and C are correct"
+    ],
+    "explanation": "அ, ஆ மற்றும் இ சரி",
+    "explanation_en": "A, B and C are correct"
+  },
+  {
+    "id": 34,
+    "question": "சரியான இணையைக் தேர்ந்தெடு.",
+    "options": [
+      "மக்தப்கள் - இடைநிலைப்பள்ளி",
+      "ஆங்கிலக் கல்வி - மெக்காலேயின் கல்விக் குறிப்பு",
+      "கரும்பலகைத் திட்டம் – இடைநிலைக் கல்வி குழு",
+      "சால போகம் – கோயில்களுக்கு வழங்கப்பட்ட நிலங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Maktabs - Secondary School",
+      "English Education - Macaulay's Educational Note",
+      "Blackboard Project – Secondary Education Committee",
+      "Sala Pogam – Lands granted to temples"
+    ],
+    "explanation": "ஆங்கிலக் கல்வி - மெக்காலேயின் கல்விக் குறிப்பு",
+    "explanation_en": "English Education - Macaulay's Educational Note"
+  },
+  {
+    "id": 35,
+    "question": "வல்லபை பெருஞ்சாலை தமிழ்நாட்டில் எங்குள்ளது?",
+    "options": [
+      "சேலம்",
+      "இராமநாதபுரம்",
+      "திருச்சி",
+      "கன்னியாகுமரி"
+    ],
+    "correct": 3,
+    "question_en": "Where is Vallabhbhai Highway located in Tamil Nadu?",
+    "options_en": [
+      "Salem",
+      "Ramanathapuram",
+      "Trichy",
+      "Kanyakumari"
+    ],
+    "explanation": "கன்னியாகுமரி",
+    "explanation_en": "Kanyakumari is Vallabhbhai Highway located in Tamil Nadu."
+  },
+  {
+    "id": 36,
+    "question": "மெக்காலே கல்விக் குறிப்பு வெளிவந்த ஆண்டு?",
+    "options": [
+      "1854",
+      "1853",
+      "1845",
+      "1835"
+    ],
+    "correct": 3,
+    "question_en": "Year of publication of Macaulay academic note?",
+    "options_en": [
+      "1854",
+      "1853",
+      "1845",
+      "1835"
+    ],
+    "explanation": "1835",
+    "explanation_en": "1835"
+  },
+  {
+    "id": 37,
+    "question": "காந்தி கிராம கிராமியக் கல்லூரி ஏற்படுத்தப்பட்ட ஆண்டு?",
+    "options": [
+      "1845",
+      "1857",
+      "1855",
+      "1975"
+    ],
+    "correct": 3,
+    "question_en": "In which year was Gandhi Grama Rural College established?",
+    "options_en": [
+      "1845",
+      "1857",
+      "1855",
+      "1975"
+    ],
+    "explanation": "1975",
+    "explanation_en": "1975"
+  },
+  {
+    "id": 38,
+    "question": "அண்ணாமலைப் பல்கலைக்கழகம் அமைந்துள்ள இடம்?",
+    "options": [
+      "ஈரோடு",
+      "திருவாரூர்",
+      "சென்னை",
+      "சிதம்பரம்"
+    ],
+    "correct": 3,
+    "question_en": "Where is Annamalai University located?",
+    "options_en": [
+      "Erode",
+      "Tiruvarur",
+      "Chennai",
+      "Chidambaram"
+    ],
+    "explanation": "சிதம்பரம்",
+    "explanation_en": "Chidambaram is Annamalai University located."
+  },
+  {
+    "id": 39,
+    "question": "சென்னைப் பல்கலைக்கழகம் நிறுவப்பட்ட ஆண்டு?",
+    "options": [
+      "1857",
+      "1835",
+      "1876",
+      "1887"
+    ],
+    "correct": 0,
+    "question_en": "Chennai University was founded in?",
+    "options_en": [
+      "1857",
+      "1835",
+      "1876",
+      "1887"
+    ],
+    "explanation": "1857",
+    "explanation_en": "1857"
+  },
+  {
+    "id": 40,
+    "question": "உள்ளூர் வாரியச் சட்டம் நிறைவேற்றப்பட்ட ஆண்டு?",
+    "options": [
+      "1882",
+      "1832",
+      "1852",
+      "1872"
+    ],
+    "correct": 0,
+    "question_en": "In which year Local Board Act was passed?",
+    "options_en": [
+      "1882",
+      "1832",
+      "1852",
+      "1872"
+    ],
+    "explanation": "1882",
+    "explanation_en": "1882"
+  },
+  {
+    "id": 41,
+    "question": "அறிவு என்ற சொல் எதில் இருந்து பெறப்பட்டது ________.",
+    "options": [
+      "வித்",
+      "பட்டு",
+      "சத்து",
+      "படிப்பு"
+    ],
+    "correct": 0,
+    "question_en": "The word knowledge is derived from ________.",
+    "options_en": [
+      "With",
+      "Silk",
+      "Nutrient",
+      "study"
+    ],
+    "explanation": "அறிவு என்ற சொல் எதில் இருந்து பெறப்பட்டது வித்.",
+    "explanation_en": "The word knowledge is derived from With."
+  },
+  {
+    "id": 42,
+    "question": "வித் என்பதன் பொருள் ________.",
+    "options": [
+      "படித்தல்",
+      "அறிதல்",
+      "விதைத்தல்",
+      "விளக்குதல்"
+    ],
+    "correct": 1,
+    "question_en": "With means ________.",
+    "options_en": [
+      "Reading",
+      "Knowing",
+      "Sowing",
+      "Explanation"
+    ],
+    "explanation": "வித் என்பதன் பொருள் அறிதல்.",
+    "explanation_en": "With means Knowing."
+  },
+  {
+    "id": 43,
+    "question": "குருகுலங்களில் பெரும்பாலானவை, பின்வரும் யாரின் பெயரால் அழைக்கப்பட்டன?",
+    "options": [
+      "மன்னர்கள்",
+      "புலவர்கள்",
+      "முனிவர்கள்",
+      "தலைவர்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Most of the Gurukuls were named after who among the following?",
+    "options_en": [
+      "Kings",
+      "Poets",
+      "Sages",
+      "Leaders"
+    ],
+    "explanation": "முனிவர்கள்",
+    "explanation_en": "Sages"
+  },
+  {
+    "id": 44,
+    "question": "பின்வருவனவற்றுள் எது தொல்பொருள் ஆராய்ச்சிப் பகுதி?",
+    "options": [
+      "ஜாவா",
+      "நேபாளம்",
+      "தட்சசீலம்",
+      "பர்மா"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is an area of ​​archaeological research?",
+    "options_en": [
+      "Java",
+      "Nepal",
+      "Thaksin",
+      "Burma"
+    ],
+    "explanation": "தட்சசீலம்",
+    "explanation_en": "Thaksin is an area of ​​archaeological research."
+  },
+  {
+    "id": 45,
+    "question": "________ பல்கலைக்கழகங்கள் கோயில்களின் தொடர்புடன் மேம்பாடு அடைந்தன.\n(அ). பனாரஸ் (ஆ). மதுரை (இ). காஞ்சி (ஈ). இலங்கை",
+    "options": [
+      "அ, ஈ",
+      "ஆ, இ",
+      "அ, இ",
+      "ஆ, ஈ"
+    ],
+    "correct": 2,
+    "question_en": "________ Universities flourished in association with temples.\n(a). Banaras (b). Madurai (E). Kanji (D). Sri Lanka",
+    "options_en": [
+      "A, E",
+      "Ah, E",
+      "A, E",
+      "Ah, E"
+    ],
+    "explanation": "அ, இ பல்கலைக்கழகங்கள் கோயில்களின் தொடர்புடன் மேம்பாடு அடைந்தன.\n(அ). பனாரஸ் (ஆ). மதுரை (இ). காஞ்சி (ஈ). இலங்கை",
+    "explanation_en": "A, E Universities flourished in association with temples.\n(a). Banaras (b). Madurai (E). Kanji (D). Sri Lanka"
+  },
+  {
+    "id": 46,
+    "question": "பின்வருவனவற்றில் கற்பித்தலின் அடிப்படை வழிமுறைகள் எவை?\n(அ). படித்தல் (ஆ). விளையாடுதல் (இ). கலந்தாலோசித்தல் (ஈ). விவாதங்கள்",
+    "options": [
+      "அ, ஈ",
+      "ஆ, இ",
+      "அ, இ",
+      "இ, ஈ"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following are basic methods of teaching?\n(a). Reading (b). Playing (E). Consultation (d). Discussions",
+    "options_en": [
+      "A, E",
+      "Ah, E",
+      "A, E",
+      "E, E"
+    ],
+    "explanation": "பின்வருவனவற்றில் கற்பித்தலின் அடிப்படை வழிமுறைகள் இ, ஈ ஆகும்.\n(அ). படித்தல் (ஆ). விளையாடுதல் (இ). கலந்தாலோசித்தல் (ஈ). விவாதங்கள்",
+    "explanation_en": "E, E are basic methods of teaching.\n(a). Reading (b). Playing (E). Consultation (d). Discussions"
+  },
+  {
+    "id": 47,
+    "question": "உலகின் பழமையான பல்கலைக்கழகம் ________.",
+    "options": [
+      "நாளந்தா",
+      "டெல்லி",
+      "சென்னை",
+      "அண்ணாமலை"
+    ],
+    "correct": 0,
+    "question_en": "The oldest university in the world is ________.",
+    "options_en": [
+      "Nalanda",
+      "Delhi",
+      "Chennai",
+      "Annamalai"
+    ],
+    "explanation": "உலகின் பழமையான பல்கலைக்கழகம் நாளந்தா.",
+    "explanation_en": "The oldest university in the world is Nalanda."
+  },
+  {
+    "id": 48,
+    "question": "ஆசிரியர்களுக்கான பயிற்சிப் பள்ளியைத் தொடங்கியவர்கள் ________.\n(அ). சேவியர் (2) டேவிட் (3) சீகன்பால்கு (4) புளூட்சோ",
+    "options": [
+      "அ, ஈ",
+      "ஆ, இ",
+      "ஈ, இ",
+      "அ, இ"
+    ],
+    "correct": 2,
+    "question_en": "The teachers training school was started by ________.\n(a). Xavier (2) David (3) Seekenbalku (4) Bluetso",
+    "options_en": [
+      "A, E",
+      "Ah, E",
+      "E, E",
+      "A, E"
+    ],
+    "explanation": "ஆசிரியர்களுக்கான பயிற்சிப் பள்ளியைத் தொடங்கியவர்கள் ஈ, இ.\n(அ). சேவியர் (2) டேவிட் (3) சீகன்பால்கு (4) புளூட்சோ",
+    "explanation_en": "The teachers training school was started by E, E.\n(a). Xavier (2) David (3) Seekenbalku (4) Bluetso"
+  },
+  {
+    "id": 49,
+    "question": "ஹண்டர் குழு எக்கல்விக்கு முக்கியத்துவம் தந்தது?",
+    "options": [
+      "ஆரம்பக் கல்வி",
+      "குருகுலக் கல்வி",
+      "இடைநிலைக் கல்வி",
+      "வயதுவந்தோர் கல்வி"
+    ],
+    "correct": 0,
+    "question_en": "Hunter group gave importance to education?",
+    "options_en": [
+      "Elementary education",
+      "Gurukul education",
+      "Secondary education",
+      "Adult education"
+    ],
+    "explanation": "ஆரம்பக் கல்வி",
+    "explanation_en": "Elementary education"
+  },
+  {
+    "id": 50,
+    "question": "தட்சசீலப் பல்கலைக்கழகத்தின் இடிபாடுகள் எப்போது கண்டுபிடிக்கப்பட்டன?",
+    "options": [
+      "20 ம் நூற்றாண்டு",
+      "17 ம் நூற்றாண்டு",
+      "18 ம் நூற்றாண்டு",
+      "19 ம் நூற்றாண்டு"
+    ],
+    "correct": 3,
+    "question_en": "When were the ruins of Thaksin University discovered?",
+    "options_en": [
+      "20th century",
+      "17th century",
+      "18th century",
+      "19th century"
+    ],
+    "explanation": "19 ம் நூற்றாண்டு",
+    "explanation_en": "19th century"
+  },
+  {
+    "id": 51,
+    "question": "கூற்று: ஆங்கிலக் கல்வியின் மகாசாசனம் என அழைக்கப்படுவது உட்ஸ் கல்வி அறிக்கை.\nகாரணம்: எல்லாத் தரப்பினருக்கும் கல்வி வழங்கும் முதல் அறிக்கை இதுவாகும்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று சரி, காரணம் சரி",
+      "காரணம் கூற்றை விளக்கவில்லை.",
+      "கூற்று தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Claim: The Woods Education Report is known as the Great Charter of English Education.\nReason: This is the first report that provides education to all parties.",
+    "options_en": [
+      "The statement is right, the reason is wrong",
+      "The statement is correct, the reason is correct",
+      "Reason does not explain the claim.",
+      "The statement is false"
+    ],
+    "explanation": "கூற்று சரி, காரணம் சரி",
+    "explanation_en": "The statement is correct, the reason is correct"
+  },
+  {
+    "id": 52,
+    "question": "சார்ஜண்ட் அறிக்கை தயாரிக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1944",
+      "1942",
+      "1844",
+      "1947"
+    ],
+    "correct": 0,
+    "question_en": "The year the sergeant's report was prepared was ________.",
+    "options_en": [
+      "1944",
+      "1942",
+      "1844",
+      "1947"
+    ],
+    "explanation": "சார்ஜண்ட் அறிக்கை தயாரிக்கப்பட்ட ஆண்டு 1944.",
+    "explanation_en": "The year the sergeant's report was prepared was 1944."
+  },
+  {
+    "id": 53,
+    "question": "நாடு முழுவதும் ஒரே மாதிரியான கல்வி அமைப்பைப் பரிந்துரை செய்த குழு எது?",
+    "options": [
+      "வார்தா கல்விக்குழு",
+      "டி எஸ் கோத்தாரி கல்விக் குழு",
+      "ஹண்டர் கல்விக் குழு",
+      "உட்ஸ் கல்வி அறிக்கை"
+    ],
+    "correct": 1,
+    "question_en": "Which committee recommended a uniform system of education across the country?",
+    "options_en": [
+      "Wardha Board of Education",
+      "TS Kothari Education Committee",
+      "Hunter Education Group",
+      "Woods Education Report"
+    ],
+    "explanation": "நாடு முழுவதும் ஒரே மாதிரியான கல்வி அமைப்பைப் பரிந்துரை செய்த குழு டி எஸ் கோத்தாரி கல்விக் குழு ஆகும்.",
+    "explanation_en": "TS Kothari Education Committee"
+  },
+  {
+    "id": 54,
+    "question": "ஆசிரியர்களுக்கு வழங்கப்பட்ட நிலங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "சாலபோகம்",
+      "பெருஞ்சாலை",
+      "குருகுலம்",
+      "பாடசாலை"
+    ],
+    "correct": 0,
+    "question_en": "What are the lands given to teachers called?",
+    "options_en": [
+      "The way of life",
+      "Highway",
+      "Gurukulam",
+      "School"
+    ],
+    "explanation": "சாலபோகம்",
+    "explanation_en": "The way of life"
+  },
+  {
+    "id": 55,
+    "question": "இரண்டாம் சரபோஜி காலத்தில், தஞ்சாவூரில் அச்சுக்கூடத்தில் பயன்படுத்திய எழுத்துமுறை",
+    "options": [
+      "தேவநாகரி",
+      "உட்ஸ்",
+      "பளிங்கு",
+      "பிம்பம்"
+    ],
+    "correct": 0,
+    "question_en": "The typeface used in the printing press at Thanjavur during the Saraboji II period",
+    "options_en": [
+      "Devanagari",
+      "Woods",
+      "marble",
+      "Image"
+    ],
+    "explanation": "தேவநாகரி",
+    "explanation_en": "Devanagari"
+  },
+  {
+    "id": 56,
+    "question": "________ ஆம் ஆண்டின் சர் சார்லஸ் உட்ஸ் கல்வி அறிக்கை, இந்தியாவில் ஆங்கிலக் கல்வியின் \"மகாசாசனம்\" என்று அழைக்கப்படுகிறது",
+    "options": [
+      "1854",
+      "1856",
+      "1864",
+      "1866"
+    ],
+    "correct": 0,
+    "question_en": "Sir Charles Woods' Education Report of ________ is known as the \"Edict\" of English education in India",
+    "options_en": [
+      "1854",
+      "1856",
+      "1864",
+      "1866"
+    ],
+    "explanation": "1854 ஆம் ஆண்டின் சர் சார்லஸ் உட்ஸ் கல்வி அறிக்கை, இந்தியாவில் ஆங்கிலக் கல்வியின் \"மகாசாசனம்\" என்று அழைக்கப்படுகிறது",
+    "explanation_en": "Sir Charles Woods' Education Report of 1854 is known as the \"Edict\" of English education in India"
+  },
+  {
+    "id": 57,
+    "question": "எவ்வகைக் குறிக்கோளை அடிப்படையாகக் கொண்டு RMSA வின் இடைநிலைக் கல்வி உருவாக்கப்பட்டது?",
+    "options": [
+      "எளிதில் கிடைக்கக் கூடிய கல்வி",
+      "எளிய அணுகுமுறையுடன் கூடிய கல்வி",
+      "தரமான கல்வி",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "RMSA's secondary education is based on what objective?",
+    "options_en": [
+      "Accessible education",
+      "Education with simple approach",
+      "Quality education",
+      "All these"
+    ],
+    "explanation": "இவை அனைத்தும்",
+    "explanation_en": "All these"
+  },
+  {
+    "id": 58,
+    "question": "கல்வி உரிமைச் சட்டம் ____ வயது முதல் _____ வரை உள்ள அனைத்துக் குழந்தைகளுக்கும் இலவச மற்றும் கட்டாயக் கல்வியை வழங்க வழி செய்கிறது.",
+    "options": [
+      "4, 14",
+      "6, 14",
+      "5, 14",
+      "3, 14"
+    ],
+    "correct": 1,
+    "question_en": "The Right to Education Act provides for free and compulsory education to all children between the age of ____ and _____.",
+    "options_en": [
+      "4, 14",
+      "6, 14",
+      "5, 14",
+      "3, 14"
+    ],
+    "explanation": "கல்வி உரிமைச் சட்டம் 6, 14 வயது முதல் 6, 14 வரை உள்ள அனைத்துக் குழந்தைகளுக்கும் இலவச மற்றும் கட்டாயக் கல்வியை வழங்க வழி செய்கிறது.",
+    "explanation_en": "The Right to Education Act provides for free and compulsory education to all children between the age of 6, 14 and 6, 14."
+  },
+  {
+    "id": 59,
+    "question": "தற்போது கல்வித்துறை ______________ பட்டியலில் இடம்பெற்றுள்ளது.",
+    "options": [
+      "மாநிலப் பட்டியல்",
+      "சிறப்புப் பட்டியல்",
+      "பொதுப் பட்டியல்",
+      "மத்தியப் பட்டியல்"
+    ],
+    "correct": 2,
+    "question_en": "At present the education sector is included in the ______________ list.",
+    "options_en": [
+      "List of States",
+      "Special List",
+      "General list",
+      "Central list"
+    ],
+    "explanation": "தற்போது கல்வித்துறை பொதுப் பட்டியல் பட்டியலில் இடம்பெற்றுள்ளது.",
+    "explanation_en": "At present the education sector is included in the General list list."
+  },
+  {
+    "id": 60,
+    "question": "ஆங்கிலக் கிழக்கிந்திய நிறுவனம் பொ.ஆ. _________ இல் தோற்றுவிக்கப்பட்டது.",
+    "options": [
+      "1500",
+      "1675",
+      "1664",
+      "1600"
+    ],
+    "correct": 3,
+    "question_en": "English East India Company Originated in _________.",
+    "options_en": [
+      "1500",
+      "1675",
+      "1664",
+      "1600"
+    ],
+    "explanation": "ஆங்கிலக் கிழக்கிந்திய நிறுவனம் பொ.ஆ. 1600 இல் தோற்றுவிக்கப்பட்டது.",
+    "explanation_en": "English East India Company Originated in 1600."
+  },
+  {
+    "id": 61,
+    "question": "இந்தியாவிற்கு ஐரோப்பியர்கள் எதற்காக வந்தனர்?",
+    "options": [
+      "நிலங்களைக் கையகப்படுத்துவதற்காக",
+      "ஆட்சி அமைப்பதற்காக",
+      "வணிகம் செய்வதற்காக",
+      "தங்கள் மதத்தைப் பரப்புவதற்காக"
+    ],
+    "correct": 2,
+    "question_en": "Why did Europeans come to India?",
+    "options_en": [
+      "For acquisition of lands",
+      "To form a government",
+      "To do business",
+      "To spread their religion"
+    ],
+    "explanation": "வணிகம் செய்வதற்காக",
+    "explanation_en": "To do business"
+  },
+  {
+    "id": 62,
+    "question": "தட்சசீலம் ________________ இல் அமைந்துள்ளது.",
+    "options": [
+      "பாகிஸ்தான்",
+      "நேபாளம்",
+      "ஆப்கானிஸ்தான்",
+      "இந்தியா"
+    ],
+    "correct": 0,
+    "question_en": "Thaksin is located in ________________.",
+    "options_en": [
+      "Pakistan",
+      "Nepal",
+      "Afghanistan",
+      "India"
+    ],
+    "explanation": "தட்சசீலம் பாகிஸ்தான் இல் அமைந்துள்ளது.",
+    "explanation_en": "Thaksin is located in Pakistan."
+  },
+  {
+    "id": 63,
+    "question": "குருகுலக் கல்வி அமைப்பின் முக்கிய நோக்கங்கள்",
+    "options": [
+      "முழுமையான கற்றல்",
+      "ஒழுக்கமான வாழ்க்கையை வாழ்தல்.",
+      "உள்ளார்ந்த திறமையை உணரவைத்தல்",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Main Objectives of Gurukula Education System",
+    "options_en": [
+      "Complete learning",
+      "Living a decent life.",
+      "Realizing innate talent",
+      "All these"
+    ],
+    "explanation": "உள்ளார்ந்த திறமையை உணரவைத்தல்",
+    "explanation_en": "Realizing innate talent"
+  },
+  {
+    "id": 64,
+    "question": "பின்வருவனவற்றுள் குழுவில் பொருந்தாததைத் தேர்ந்தெடு.",
+    "options": [
+      "வல்லபி",
+      "விக்கிரமசீலா",
+      "அண்ணாமலை",
+      "ஓடண்டாபுரி"
+    ],
+    "correct": 2,
+    "question_en": "Select the group which does not apply among the following.",
+    "options_en": [
+      "Vallabhbhai",
+      "Wickramasila",
+      "Annamalai",
+      "Odantapuri"
+    ],
+    "explanation": "அண்ணாமலை",
+    "explanation_en": "Annamalai"
+  },
+  {
+    "id": 65,
+    "question": "தற்போது புதுப்பிக்கப்பட்டுள்ள பழமையான பல்கலைக் கழகம் எது?",
+    "options": [
+      "தட்சசீலம்",
+      "நாளந்தா",
+      "வல்லபி",
+      "விக்கிரமசீலா"
+    ],
+    "correct": 1,
+    "question_en": "Which is the oldest university which is currently being renovated?",
+    "options_en": [
+      "Thaksin",
+      "Nalanda",
+      "Vallabhbhai",
+      "Wickramasila"
+    ],
+    "explanation": "தற்போது புதுப்பிக்கப்பட்டுள்ள பழமையான பல்கலைக் கழகம் நாளந்தா ஆகும்.",
+    "explanation_en": "Nalanda is the oldest university Nalanda is currently being renovated."
+  },
+  {
+    "id": 66,
+    "question": "முஸ்லிம் ஆட்சியாளர்கள் பள்ளிகளை நிறுவ ஆரம்பித்த நூற்றாண்டு",
+    "options": [
+      "11",
+      "16",
+      "19",
+      "18"
+    ],
+    "correct": 0,
+    "question_en": "Century when Muslim rulers started establishing schools",
+    "options_en": [
+      "11",
+      "16",
+      "19",
+      "18"
+    ],
+    "explanation": "11",
+    "explanation_en": "11"
+  },
+  {
+    "id": 67,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடு.",
+    "options": [
+      "மதரசாக்களின் முக்கிய நோக்கம் தகுதியான அறிஞர்களுக்குக் குடிமைப் பணிக்கான பயிற்சியை அளித்தல்.",
+      "பண்டைய இந்தியாவில் குழுக்கற்றல் முறை நடைமுறையில் இருந்தது.",
+      "தட்சசீலப் பல்கலைக் கழகம், நாகரிகங்களுக்கு இடையேயான தொடர்பு மையமாகக் கருதப்படுகிறது.",
+      "ஆரம்பக் காலத்தில் கிழக்கிந்தியக் கம்பெனி, கல்வியில் அலட்சியம் மற்றும் குறுக்கீடு இன்மை கொள்கையைப் பின்பற்றியது."
+    ],
+    "correct": 2,
+    "question_en": "Select the incorrect statement.",
+    "options_en": [
+      "The main objective of madrasahs is to train qualified scholars for civic work.",
+      "Group learning was practiced in ancient India.",
+      "Thaksin University is considered as a center of contact between civilizations.",
+      "In the early days the East India Company followed a policy of neglect and non-interference in education."
+    ],
+    "explanation": "தட்சசீலப் பல்கலைக் கழகம், நாகரிகங்களுக்கு இடையேயான தொடர்பு மையமாகக் கருதப்படுகிறது.",
+    "explanation_en": "Thaksin University is considered as a center of contact between civilizations."
+  },
+  {
+    "id": 68,
+    "question": "இடைக்கால இந்தியாவில் கல்வி முறையானது, யாருடைய கட்டுப்பாட்டில் இருந்தது?",
+    "options": [
+      "மிஷனரி",
+      "உலேமா",
+      "சுல்தான்கள்",
+      "பேராயர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Who controlled the education system in medieval India?",
+    "options_en": [
+      "Missionary",
+      "Ulema",
+      "Sultans",
+      "Archbishops"
+    ],
+    "explanation": "உலேமா",
+    "explanation_en": "Ulema"
+  },
+  {
+    "id": 69,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடு.",
+    "options": [
+      "இடைக்கால இந்தியாவில் பெண்கள் கல்வி கற்க அனுமதிக்கப்படவில்லை.",
+      "இடைக்கால இந்தியாவில் கல்வியானது சமயம் சார்ந்ததாக இருந்தது.",
+      "இஸ்லாமியர்களின் ஆட்சியில் மருத்துவம், வானியல் போன்ற துறைகள் மேம்பட்டன.",
+      "இஸ்லாமியர்கள் வருகைக்கு முன்னரே இந்தியாவில் ஒரு மேம்பட்ட கல்விமுறை நடைமுறையில் இருந்தது."
+    ],
+    "correct": 0,
+    "question_en": "Select the incorrect statement.",
+    "options_en": [
+      "Women were not allowed to study in medieval India.",
+      "Education in medieval India was religious.",
+      "Under the Islamic rule, fields like medicine and astronomy improved.",
+      "A sophisticated system of education was practiced in India even before the arrival of the Muslims."
+    ],
+    "explanation": "இடைக்கால இந்தியாவில் பெண்கள் கல்வி கற்க அனுமதிக்கப்படவில்லை.",
+    "explanation_en": "Women were not allowed to study in medieval India."
+  },
+  {
+    "id": 70,
+    "question": "அறிவியல் பாடங்களின் கற்றலை ஊக்குவித்த அரசர் ________.",
+    "options": [
+      "இல்துத்மிஷ்",
+      "ராஜா ஜெய்சிங்",
+      "இரண்டாம் சரபோஜி",
+      "அக்பர்"
+    ],
+    "correct": 1,
+    "question_en": "King who encouraged the learning of science subjects was ________.",
+    "options_en": [
+      "Ildutmish",
+      "Raja Jaisingh",
+      "Saraboji II",
+      "Akbar"
+    ],
+    "explanation": "அறிவியல் பாடங்களின் கற்றலை ஊக்குவித்த அரசர் ராஜா ஜெய்சிங்.",
+    "explanation_en": "King who encouraged the learning of science subjects was Raja Jaisingh."
+  },
+  {
+    "id": 71,
+    "question": "மௌலானா சத்ருதீன் மதரசா உள்ள இடம் ________.",
+    "options": [
+      "ஔரங்காபாத்",
+      "டெல்லி",
+      "ஷாஜஹானாபாத்",
+      "ஹைதராபாத்"
+    ],
+    "correct": 2,
+    "question_en": "The location of Maulana Shadruddin Madrasah is ________.",
+    "options_en": [
+      "Aurangabad",
+      "Delhi",
+      "Shahjahanabad",
+      "Hyderabad"
+    ],
+    "explanation": "மௌலானா சத்ருதீன் மதரசா உள்ள இடம் ஷாஜஹானாபாத்.",
+    "explanation_en": "The location of Maulana Shadruddin Madrasah is Shahjahanabad."
+  },
+  {
+    "id": 72,
+    "question": "கீழ்க்கண்டவற்றில் தவறான கூற்று எது?",
+    "options": [
+      "தாமஸ் மன்ரோ கல்வியின் நிலை குறித்து அறிய ஒரு குழுவை அமைத்தார்.",
+      "மன்ரோவின் கல்விக்குழு ஒவ்வொரு மாவட்டத்திலும் 3 முதன்மைப் பள்ளிகளை அமைக்கப் பரிந்துரைத்தது.",
+      "உட்ஸ் கல்வி அறிக்கை சென்னை மாகாணத்தில் பொது வழிகாட்டும் துறையை ஏற்படுத்தியது.",
+      "தேசியக் கல்விக் கொள்கை வரைவுக்குழு 2019 இல் தனது அறிக்கையைச் சமர்ப்பித்தது."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "Thomas Munro set up a committee to inquire about the state of education.",
+      "Munro's Board of Education recommended setting up 3 primary schools in each district.",
+      "The Woods Education Report established the Department of Public Guidance in Madras Province.",
+      "The National Education Policy Drafting Committee submitted its report in 2019."
+    ],
+    "explanation": "மன்ரோவின் கல்விக்குழு ஒவ்வொரு மாவட்டத்திலும் 3 முதன்மைப் பள்ளிகளை அமைக்கப் பரிந்துரைத்தது.",
+    "explanation_en": "Munro's Board of Education recommended setting up 3 primary schools in each district. is a false statement."
+  },
+  {
+    "id": 73,
+    "question": "பொருத்துக.\ni. கியாசுதீன் மதரசா – a. ஸ்ரீரங்கம்\nii. அசஹாபில மடம் – b. கல்கத்தா\niii. எல்பின்ஸ்டன் கல்லூரி – c. பம்பாய்\niv. பிஷப் கல்லூரி – d. டெல்லி",
+    "options": [
+      "i – d, ii – a, iii – d, iv - c",
+      "i – d, ii – c, iii – b, iv - a",
+      "i – c, ii – a, iii – b, iv - a",
+      "i – d, ii – a, iii – c, iv – b"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Ghiyasuddin Madrasah – a. Srirangam\nii. Asahafila Monastery – b. Calcutta\niii. Elphinstone College – c. Bombay\niv. Bishop's College – d. Delhi",
+    "options_en": [
+      "i – d, ii – a, iii – d, iv – c",
+      "i – d, ii – c, iii – b, iv – a",
+      "i – c, ii – a, iii – b, iv – a",
+      "i – d, ii – a, iii – c, iv – b"
+    ],
+    "explanation": "i – d, ii – a, iii – c, iv – b",
+    "explanation_en": "i – d, ii – a, iii – c, iv – b"
+  },
+  {
+    "id": 74,
+    "question": "அசஹாபில மடத்தில் தங்கித் தன் பங்களிப்பைக் கல்விக்காக வழங்கியவர்",
+    "options": [
+      "ஸ்ரீராமானுஜர்",
+      "பெரியாழ்வார்",
+      "ஸ்ரீராமதாசர்",
+      "கூரத்தாழ்வார்"
+    ],
+    "correct": 0,
+    "question_en": "He stayed at the Asahabila Math and contributed towards education",
+    "options_en": [
+      "Sri Ramanujar",
+      "Periyalwar",
+      "Sri Ramadasar",
+      "Kuratthalwar"
+    ],
+    "explanation": "ஸ்ரீராமானுஜர்",
+    "explanation_en": "Sri Ramanujar"
+  },
+  {
+    "id": 75,
+    "question": "பிரான்சிஸ் சேவியர் எந்த அமைப்பின் உறுப்பினர்?",
+    "options": [
+      "இவாஞ்சிலிஸ்டிக்",
+      "பிஷப் மிஷனரி",
+      "கிழக்கிந்தியக் கம்பெனி",
+      "ஏசு சங்கம்"
+    ],
+    "correct": 3,
+    "question_en": "Francis Xavier was a member of which organisation?",
+    "options_en": [
+      "Evangelistic",
+      "Bishop Missionary",
+      "East India Company",
+      "Society of Jesus"
+    ],
+    "explanation": "ஏசு சங்கம்",
+    "explanation_en": "Society of Jesus"
+  },
+  {
+    "id": 76,
+    "question": "கிறித்தவர் அல்லாத குழந்தைகளுக்குக் கல்வியளித்த முதல் சமயப்பரப்பு அமைப்பு",
+    "options": [
+      "இவாஞ்சிலிஸ்டிக்",
+      "மதரசாக்கள்",
+      "அசஹாபில மடம்",
+      "ஏசு சங்கம்"
+    ],
+    "correct": 0,
+    "question_en": "First evangelical organization to educate non-Christian children",
+    "options_en": [
+      "Evangelistic",
+      "Madrasahs",
+      "Asahabila Monastery",
+      "Society of Jesus"
+    ],
+    "explanation": "இவாஞ்சிலிஸ்டிக்",
+    "explanation_en": "Evangelistic"
+  },
+  {
+    "id": 77,
+    "question": "இவர்களில் எவர் இவாஞ்சிலிஸ்டிக் அமைப்பைச் சார்ந்தவர்?",
+    "options": [
+      "பிரான்சிஸ் சேவியர்",
+      "ஜான் கிர்னாண்டர்",
+      "டாக்டர் சி.எஸ்.ஜான்",
+      "சீகன்பால்கு"
+    ],
+    "correct": 1,
+    "question_en": "Who among these belongs to the evangelistic organization?",
+    "options_en": [
+      "Francis Xavier",
+      "John Kirnander",
+      "Dr. CS John",
+      "Seekenpalku"
+    ],
+    "explanation": "ஜான் கிர்னாண்டர்",
+    "explanation_en": "John Kirnander"
+  },
+  {
+    "id": 78,
+    "question": "சீகன்பால்கு மற்றும் புளூட்சோ எந்நாட்டைச் சார்ந்தவர்கள்?",
+    "options": [
+      "இங்கிலாந்து",
+      "ஜெர்மனி",
+      "போர்ச்சுக்கல்",
+      "பிரான்ஸ்"
+    ],
+    "correct": 1,
+    "question_en": "Siegenbalku and Bluetso belong to which country?",
+    "options_en": [
+      "England",
+      "Germany",
+      "Portugal",
+      "France"
+    ],
+    "explanation": "ஜெர்மனி",
+    "explanation_en": "Germany"
+  },
+  {
+    "id": 79,
+    "question": "சீகன்பால்கு மற்றும் புளூட்சோ ஆகியோர் எங்குக் கல்லூரியைத் துவங்கினர்?",
+    "options": [
+      "திருவாரூர்",
+      "திருவிதாங்கூர்",
+      "பம்பாய்",
+      "கல்கத்தா"
+    ],
+    "correct": 1,
+    "question_en": "Where did Siegenbalku and Blutzow start college?",
+    "options_en": [
+      "Tiruvarur",
+      "Travancore",
+      "Bombay",
+      "Calcutta"
+    ],
+    "explanation": "திருவிதாங்கூர்",
+    "explanation_en": "Travancore"
+  },
+  {
+    "id": 80,
+    "question": "கல்கத்தாவின் முதல் பேராயர் யார்?",
+    "options": [
+      "Dr. மிடில்டன்",
+      "Dr. சி.எஸ். ஜான்",
+      "புளூட்சோ",
+      "சேவியர்"
+    ],
+    "correct": 0,
+    "question_en": "Who was the first Archbishop of Calcutta?",
+    "options_en": [
+      "Dr. Middleton",
+      "Dr. CS John",
+      "Bluetso",
+      "Xavier"
+    ],
+    "explanation": "கல்கத்தாவின் முதல் பேராயர் Dr. மிடில்டன்.",
+    "explanation_en": "Dr. Middleton was the first Archbishop of Calcutta."
+  },
+  {
+    "id": 81,
+    "question": "கல்கத்தாவில் பிஷப் கல்லூரியைத் துவங்கியவர் யார்?",
+    "options": [
+      "Dr. மிடில்டன்",
+      "Dr. சி.எஸ். ஜான்",
+      "புளூட்சோ",
+      "சேவியர்"
+    ],
+    "correct": 0,
+    "question_en": "Who started Bishop's College in Calcutta?",
+    "options_en": [
+      "Dr. Middleton",
+      "Dr. CS John",
+      "Bluetso",
+      "Xavier"
+    ],
+    "explanation": "கல்கத்தாவில் பிஷப் கல்லூரியைத் துவங்கியவர் Dr. மிடில்டன்.",
+    "explanation_en": "Dr. Middleton"
+  },
+  {
+    "id": 82,
+    "question": "ஆங்கில ஆட்சியின் கல்வி வரலாற்றை எத்தனை கட்டங்களாகப் பிரிக்கலாம்?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "correct": 2,
+    "question_en": "How many phases can be divided into the history of education under English rule?",
+    "options_en": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ],
+    "explanation": "4",
+    "explanation_en": "4 phases can be divided into the history of education under English rule."
+  },
+  {
+    "id": 83,
+    "question": "மவுண்ட் எல்பின்ஸ்டன் ஓய்வு பெற்ற ஆண்டு",
+    "options": [
+      "1854",
+      "1929",
+      "1827",
+      "1812"
+    ],
+    "correct": 2,
+    "question_en": "The year Mount Elphinstone retired",
+    "options_en": [
+      "1854",
+      "1929",
+      "1827",
+      "1812"
+    ],
+    "explanation": "1827",
+    "explanation_en": "1827"
+  },
+  {
+    "id": 84,
+    "question": "கல்விக்காகத் தங்கள் பங்களிப்பை வழங்கிய இக்குழுவினருள் பொருந்தாதவர் யார்?",
+    "options": [
+      "இராஜா ராம்மோகன்ராய்",
+      "பச்சையப்பர்",
+      "பிரேசர்",
+      "பிரான்சிஸ் சேவியர்"
+    ],
+    "correct": 3,
+    "question_en": "Who does not fit in this group who contributed to education?",
+    "options_en": [
+      "Raja Rammohan Roy",
+      "green",
+      "Fraser",
+      "Francis Xavier"
+    ],
+    "explanation": "கல்விக்காகத் தங்கள் பங்களிப்பை வழங்கிய இக்குழுவினருள் பொருந்தாதவர் பிரான்சிஸ் சேவியர்.",
+    "explanation_en": "Francis Xavier"
+  },
+  {
+    "id": 85,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடு.",
+    "options": [
+      "இராஜா ராம்மோகன்ராய் – வங்காளம்",
+      "பச்சையப்பர் – சென்னை",
+      "பிரேசர் – பம்பாய்",
+      "யுவான் சுவாங் – சீனா"
+    ],
+    "correct": 2,
+    "question_en": "Select one that does not apply.",
+    "options_en": [
+      "Raja Rammohan Roy – Bengal",
+      "Pachaiyappar – Chennai",
+      "Fraser – Bombay",
+      "Yuan Chuang – China"
+    ],
+    "explanation": "பிரேசர் – பம்பாய்",
+    "explanation_en": "Fraser – Bombay"
+  },
+  {
+    "id": 86,
+    "question": "கல்விக்கொள்கை, பயிற்றுமொழி ஆகியவற்றில் கருத்து வேறுபாடுகள் அதிகம் கொண்ட ஆங்கில ஆட்சியின் காலகட்டம் எது?",
+    "options": [
+      "முதல் கட்டம்",
+      "இரண்டாம் கட்டம்",
+      "மூன்றாம் கட்டம்",
+      "நான்காம் கட்டம்"
+    ],
+    "correct": 1,
+    "question_en": "Which period of English rule had the most disagreements on educational policy and language of instruction?",
+    "options_en": [
+      "First stage",
+      "Phase II",
+      "Third phase",
+      "The fourth stage"
+    ],
+    "explanation": "கல்விக்கொள்கை, பயிற்றுமொழி ஆகியவற்றில் கருத்து வேறுபாடுகள் அதிகம் கொண்ட ஆங்கில ஆட்சியின் காலகட்டம் இரண்டாம் கட்டம் ஆகும்.",
+    "explanation_en": "Phase II"
+  },
+  {
+    "id": 87,
+    "question": "பொருத்துக.\ni. கீழ்த்திசைவாதிகள் – a. ஆங்கிலம்\nii. ஆங்கில சார்பு கோட்பாட்டுவாதிகள் – b. சமஸ்கிருதம், பாரசீகம்\niii. மூன்றாவது பிரிவினர் – c. இந்திய மொழி",
+    "options": [
+      "i – c, ii – a, iii – d",
+      "i – a, ii – c, iii – b",
+      "i – c, ii – a, iii – b",
+      "i – b, ii – a, iii – c"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Subordinates – a. English\nii. Pro-English theorists – b. Sanskrit, Persian\niii. Third category – c. Indian language",
+    "options_en": [
+      "i – c, ii – a, iii – d",
+      "i – a, ii – c, iii – b",
+      "i – c, ii – a, iii – b",
+      "i – b, ii – a, iii – c"
+    ],
+    "explanation": "i – b, ii – a, iii – c",
+    "explanation_en": "i – b, ii – a, iii – c"
+  },
+  {
+    "id": 88,
+    "question": "அகில இந்தியக் கல்விக் கொள்கையின் காலம் என்றழைக்கப்படும் ஆங்கில ஆட்சியின் காலகட்டம் எது?",
+    "options": [
+      "முதல் கட்டம்",
+      "இரண்டாம் கட்டம்",
+      "மூன்றாம் கட்டம்",
+      "நான்காம் கட்டம்"
+    ],
+    "correct": 2,
+    "question_en": "Which period of British rule is known as the period of All India Education Policy?",
+    "options_en": [
+      "First stage",
+      "Phase II",
+      "Third phase",
+      "The fourth stage"
+    ],
+    "explanation": "அகில இந்தியக் கல்விக் கொள்கையின் காலம் என்றழைக்கப்படும் ஆங்கில ஆட்சியின் காலகட்டம் மூன்றாம் கட்டம் ஆகும்.",
+    "explanation_en": "Third phase"
+  },
+  {
+    "id": 89,
+    "question": "ஆங்கிலேயக் கல்வி வரலாற்றில் செல்வாக்கு மிக்க மூன்றாம் கட்டம் எந்த ஆண்டில் தொடங்குகிறது?",
+    "options": [
+      "1854",
+      "1929",
+      "1827",
+      "1812"
+    ],
+    "correct": 0,
+    "question_en": "In which year begins the influential third phase in the history of English education?",
+    "options_en": [
+      "1854",
+      "1929",
+      "1827",
+      "1812"
+    ],
+    "explanation": "1854",
+    "explanation_en": "1854"
+  },
+  {
+    "id": 90,
+    "question": "உட்ஸ் கல்வி அறிக்கையின் குறைபாடு என்ன?",
+    "options": [
+      "இது அனைத்துத் தரப்பினருக்கும் கல்வியைப் பரிந்துரை செய்யவில்லை.",
+      "இதன்படி உயர் வகுப்பினர் மட்டுமே ஆங்கிலம் பயில முடியும்.",
+      "இந்தி மொழிப்பாடம் கட்டாயமாக்கப்பட்டது.",
+      "இந்தியர்களின் பண்பாடு, கொள்கைகள் விலக்கி வைக்கப்பட்டது."
+    ],
+    "correct": 3,
+    "question_en": "What is the flaw in the Woods education report?",
+    "options_en": [
+      "It does not prescribe education for all parties.",
+      "According to this only upper classes can learn English.",
+      "Hindi is made compulsory.",
+      "Indian culture and principles were excluded."
+    ],
+    "explanation": "இந்தியர்களின் பண்பாடு, கொள்கைகள் விலக்கி வைக்கப்பட்டது.",
+    "explanation_en": "Indian culture and principles were excluded. is the flaw in the Woods education report."
+  },
+  {
+    "id": 91,
+    "question": "ஆங்கிலேயக் கல்வி வரலாற்றில், நான்காம் கட்டம் ______________ காலகட்டமாகும்.",
+    "options": [
+      "செல்வாக்கு மிக்க",
+      "அலட்சியமான",
+      "கருத்து வேறுபாடுகள் கொண்ட",
+      "சுயாட்சி"
+    ],
+    "correct": 3,
+    "question_en": "In the history of English education, the fourth phase is the ______________ period.",
+    "options_en": [
+      "influential",
+      "Indifferent",
+      "with differences of opinion",
+      "Autonomy"
+    ],
+    "explanation": "ஆங்கிலேயக் கல்வி வரலாற்றில், நான்காம் கட்டம் சுயாட்சி காலகட்டமாகும்.",
+    "explanation_en": "In the history of English education, the fourth phase is the Autonomy period."
+  },
+  {
+    "id": 92,
+    "question": "பொருத்துக.\ni. உலகப் பெருமந்தம் – a. 1968\nii. முதல் தேசியக்கல்விக் கொள்கை – b. 1971\niii. தொலைதூரக் கல்வி – c. 1929\niv. தேசியக் கல்விக் கொள்கை வரைவுக் குழு – d. 2017",
+    "options": [
+      "i – d, ii – a, iii – d, iv - c",
+      "i – d, ii – c, iii – b, iv - a",
+      "i – c, ii – a, iii – b, iv - d",
+      "i – b, ii – a, iii – c, iv – d"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. World Great Depression – a. 1968\nii. First National Education Policy – ​​b. 1971\niii. Distance Education – c. 1929\niv. National Education Policy Drafting Committee – d. 2017",
+    "options_en": [
+      "i – d, ii – a, iii – d, iv – c",
+      "i – d, ii – c, iii – b, iv – a",
+      "i – c, ii – a, iii – b, iv – d",
+      "i – b, ii – a, iii – c, iv – d"
+    ],
+    "explanation": "i – c, ii – a, iii – b, iv - d",
+    "explanation_en": "i – c, ii – a, iii – b, iv – d"
+  },
+  {
+    "id": 93,
+    "question": "மாகாண அமைச்சர்களின் நிலையை வலுப்படுத்தியது எது?",
+    "options": [
+      "1935 ம் ஆண்டு அரசுச் சட்டம்",
+      "1854 ம் ஆண்டு உட்ஸ் கல்வி அறிக்கை",
+      "1909 ம் ஆண்டு மாகாண சுயாட்சி",
+      "1929 ம் ஆண்டு சார்ஜண்ட் அறிக்கை"
+    ],
+    "correct": 0,
+    "question_en": "What strengthened the position of provincial ministers?",
+    "options_en": [
+      "Government Act of 1935",
+      "Woods Educational Report of 1854",
+      "Provincial autonomy in 1909",
+      "A 1929 report by Sgt"
+    ],
+    "explanation": "மாகாண அமைச்சர்களின் நிலையை வலுப்படுத்தியது 1935 ம் ஆண்டு அரசுச் சட்டம் ஆகும்.",
+    "explanation_en": "Government Act of 1935"
+  },
+  {
+    "id": 94,
+    "question": "வார்தா கல்வித் திட்டத்தின் அச்சாணியாக இருந்தது எது?",
+    "options": [
+      "இயற்கை வழிக் கற்றல்",
+      "அகிம்சை",
+      "குழந்தை மையக் கற்றல்",
+      "சுதந்திர உணர்வு"
+    ],
+    "correct": 1,
+    "question_en": "What was the essence of Wardha Education Scheme?",
+    "options_en": [
+      "Natural way of learning",
+      "Non-violence",
+      "Child Centered Learning",
+      "A sense of freedom"
+    ],
+    "explanation": "வார்தா கல்வித் திட்டத்தின் அச்சாணியாக இருந்தது அகிம்சை ஆகும்.",
+    "explanation_en": "Non-violence"
+  },
+  {
+    "id": 95,
+    "question": "பொருத்துக.\ni. அனைவருக்கும் கல்வி இயக்கம் - a) 1952 - 53\nii. இடைநிலைக் கல்விக் குழு - b) 2000 - 01\niii. இடைநிலைக் கல்வி அளவில் இலவசக்கல்வி - c) 2018 - 19\niv. முன்பருவம் முதல் 12 வரை பாகுபாடின்றி முழுமையான கல்வி - d) 1964 - 65",
+    "options": [
+      "i – a, ii – b, iii – c, iv - d",
+      "i – b, ii – a, iii – d, iv - c",
+      "i – b, ii – c, iii – d, iv – a",
+      "i – b, ii – a, iii – c, iv – d"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. Education for All Movement – a) 1952 – 53\nii. Board of Secondary Education – b) 2000 – 01\niii. Free Education at Secondary Education Level – c) 2018 – 19\niv. Comprehensive education from pre-12 to 12 without discrimination - d) 1964 - 65",
+    "options_en": [
+      "i – a, ii – b, iii – c, iv – d",
+      "i – b, ii – a, iii – d, iv – c",
+      "i – b, ii – c, iii – d, iv – a",
+      "i – b, ii – a, iii – c, iv – d"
+    ],
+    "explanation": "i – b, ii – a, iii – d, iv - c",
+    "explanation_en": "i – b, ii – a, iii – d, iv – c"
+  },
+  {
+    "id": 96,
+    "question": "கல்வியில் புதிய அமைப்பு முறைகளையும், பாடப்புத்தகங்களின் தரம், பாடத்திட்டம், கற்பித்தல் முறைகளில் முன்னேற்றங்களையும் பரிந்துரைத்த குழு எது?",
+    "options": [
+      "ராதாகிருஷ்ணன் கல்விக் குழு",
+      "இடைநிலைக் கல்விக் குழு",
+      "கோத்தாரிக் கல்விக் குழு",
+      "பல்கலைக்கழக மானியக் குழு"
+    ],
+    "correct": 2,
+    "question_en": "Which group recommended new organizational methods in education and improvements in the quality of textbooks, curriculum and teaching methods?",
+    "options_en": [
+      "Radhakrishnan Education Committee",
+      "Board of Secondary Education",
+      "Gotharik Education Committee",
+      "University Grants Commission"
+    ],
+    "explanation": "கல்வியில் புதிய அமைப்பு முறைகளையும், பாடப்புத்தகங்களின் தரம், பாடத்திட்டம், கற்பித்தல் முறைகளில் முன்னேற்றங்களையும் பரிந்துரைத்த குழு கோத்தாரிக் கல்விக் குழு ஆகும்.",
+    "explanation_en": "Gotharik Education Committee"
+  },
+  {
+    "id": 97,
+    "question": "10+2+3 கல்வி அமைப்பைப் பரிந்துரைத்த குழு எது?",
+    "options": [
+      "ராதாகிருஷ்ணன் கல்விக் குழு",
+      "இடைநிலைக் கல்விக் குழு",
+      "கோத்தாரிக் கல்விக் குழு",
+      "பல்கலைக்கழக மானியக் குழு"
+    ],
+    "correct": 2,
+    "question_en": "Which committee recommended 10+2+3 education system?",
+    "options_en": [
+      "Radhakrishnan Education Committee",
+      "Board of Secondary Education",
+      "Gotharik Education Committee",
+      "University Grants Commission"
+    ],
+    "explanation": "10+2+3 கல்வி அமைப்பைப் பரிந்துரைத்த குழு கோத்தாரிக் கல்விக் குழு ஆகும்.",
+    "explanation_en": "Gotharik Education Committee"
+  },
+  {
+    "id": 98,
+    "question": "கீழ்க்கண்ட கூற்றுகளில் சரியானவை எவை?\n(அ) புதிய தேசியக் கல்விக் கொள்கை, கிராமப்புற இந்தியாவில் ஏற்றத்தாழ்வுகளை நீக்குதலை வலியுறுத்தியது.\n(ஆ) புதிய தேசியக் கல்விக் கொள்கை, குழந்தை மைய அணுகுமுறையை வலியுறுத்தியது.\n(இ) முதல் தேசியக் கல்விக் கொள்கை, கரும்பலகைத் திட்டத்தை அறிமுகப்படுத்தியது.\n(ஈ) திருத்தப்பட்ட தேசியக் கல்விக் கொள்கை, பணியிடைப் பயிற்சியைப் பரிந்துரைத்தது.",
+    "options": [
+      "அ தவிர அனைத்தும்",
+      "ஆ தவிர அனைத்தும்",
+      "இ தவிர அனைத்தும்",
+      "அ தவிர அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements are correct?\n(a) The new National Education Policy emphasized elimination of disparities in rural India.\n(b) The new National Education Policy emphasized child-centred approach.\n(c) The first National Education Policy introduced the Blackboard Scheme.\n(d) The revised National Education Policy recommended on-the-job training.",
+    "options_en": [
+      "Everything except that",
+      "Everything except ah",
+      "Everything except this",
+      "Everything except that"
+    ],
+    "explanation": "இ தவிர அனைத்தும்",
+    "explanation_en": "Everything except this"
+  },
+  {
+    "id": 99,
+    "question": "கீழ்க்கண்ட கூற்றுகளில் தவறான கூற்று/கூற்றுகள் எது/எவை?\n(1) முதல் தேசியக் கல்விக் கொள்கையின் நோக்கங்கள் தேச முன்னேற்றத்தை ஊக்குவித்தல், தேசிய ஒருமைப்பாட்டினை வலுப்படுத்துதல் ஆகியன ஆகும்.\n(2) புதிய தேசியக் கல்விக் கொள்கையின் நோக்கம் ஒரு நிலையான, துடிப்பான சமுதாயத்தை உருவாக்குவதாகும்.\n(3) இவை இரண்டும்.\n(4) இவற்றில் எதுவுமில்லை.",
+    "options": [
+      "முதல் தேசியக் கல்விக் கொள்கையின் நோக்கங்கள் தேச முன்னேற்றத்தை ஊக்குவித்தல், தேசிய ஒருமைப்பாட்டினை வலுப்படுத்துதல் ஆகியன ஆகும்.",
+      "புதிய தேசியக் கல்விக் கொள்கையின் நோக்கம் ஒரு நிலையான, துடிப்பான சமுதாயத்தை உருவாக்குவதாகும்.",
+      "இவை இரண்டும்.",
+      "இவற்றில் எதுவுமில்லை."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following statement(s) is/are false?\n(1) The objectives of the first National Education Policy are to promote national progress and strengthen national unity.\n(2) The objective of the new National Education Policy is to create a stable, vibrant society.\n(3) Both of these.\n(4) None of these.",
+    "options_en": [
+      "The objectives of the first National Education Policy were to promote national progress and strengthen national unity.",
+      "The objective of the new National Education Policy is to create a sustainable, vibrant society.",
+      "These are both.",
+      "None of these."
+    ],
+    "explanation": "இவற்றில் எதுவுமில்லை.",
+    "explanation_en": "None of these."
+  },
+  {
+    "id": 100,
+    "question": "எப்போது வரை கல்வி மாநிலப் பட்டியலில் இருந்தது?",
+    "options": [
+      "டிச. 1974",
+      "நவ. 1976",
+      "டிச. 1976",
+      "அக். 1986"
+    ],
+    "correct": 2,
+    "question_en": "Till when education was in state list?",
+    "options_en": [
+      "Dec. 1974",
+      "Nov. 1976",
+      "Dec. 1976",
+      "Oct. 1986"
+    ],
+    "explanation": "டிச. 1976",
+    "explanation_en": "Dec. 1976"
+  },
+  {
+    "id": 101,
+    "question": "இந்திய அரசின் முதன்மைத் திட்டம் இவற்றுள் எது?",
+    "options": [
+      "SSA",
+      "RMSA",
+      "SAMAGRA SIKSHA",
+      "RTE"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is the flagship program of the Government of India?",
+    "options_en": [
+      "SSA",
+      "RMSA",
+      "SAMAGRA SIKSHA",
+      "RTE"
+    ],
+    "explanation": "இந்திய அரசின் முதன்மைத் திட்டம் இவற்றுள் SSA ஆகும்.",
+    "explanation_en": "SSA is the flagship program of the Government of India."
+  },
+  {
+    "id": 102,
+    "question": "இவற்றுள் எது அனைவருக்கும் கல்வித் திட்டத்தின் செயல்பாடு இல்லை?",
+    "options": [
+      "பள்ளி மேலாண்மைக் குழு அமைத்தல்.",
+      "மாணவர்களுக்கு உதவித் தொகை வழங்கல்.",
+      "மதிய உணவு வழங்குதல்.",
+      "முன்பருவக்கல்வி வழங்குதல்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a function of an education program for all?",
+    "options_en": [
+      "Formation of School Management Committee.",
+      "Grants to students.",
+      "Serving lunch.",
+      "Provision of pre-school education."
+    ],
+    "explanation": "முன்பருவக்கல்வி வழங்குதல்.",
+    "explanation_en": "Provision of pre-school education. is not a function of an education program for all."
+  },
+  {
+    "id": 103,
+    "question": "அனைவருக்கும் இடைநிலைக் கல்வித்திட்டம், எந்த வயது பிரிவினருக்குக் கல்வி அளிப்பதை நோக்கமாகக் கொண்டது?",
+    "options": [
+      "6-14",
+      "15-16",
+      "3-17",
+      "11-14"
+    ],
+    "correct": 1,
+    "question_en": "Secondary education for all aims to educate which age group?",
+    "options_en": [
+      "6-14",
+      "15-16",
+      "3-17",
+      "11-14"
+    ],
+    "explanation": "15-16",
+    "explanation_en": "15-16"
+  },
+  {
+    "id": 104,
+    "question": "சமமான வாய்ப்புகள் மற்றும் சமமான கற்றல் விளைவுகளை அளவிடுதல் ஆகிய பள்ளியின் செயல்திறனை மேம்படுத்துவதற்கான குறிக்கோளை அடைய ஏற்படுத்தப்பட்ட திட்டம் எது?",
+    "options": [
+      "SSA",
+      "RMSA",
+      "SAMAGRA SIKSHA",
+      "RTE"
+    ],
+    "correct": 2,
+    "question_en": "Which program is designed to achieve the goal of improving school performance by measuring equal opportunities and equal learning outcomes?",
+    "options_en": [
+      "SSA",
+      "RMSA",
+      "SAMAGRA SIKSHA",
+      "RTE"
+    ],
+    "explanation": "சமமான வாய்ப்புகள் மற்றும் சமமான கற்றல் விளைவுகளை அளவிடுதல் ஆகிய பள்ளியின் செயல்திறனை மேம்படுத்துவதற்கான குறிக்கோளை அடைய ஏற்படுத்தப்பட்ட திட்டம் SAMAGRA SIKSHA ஆகும்.",
+    "explanation_en": "SAMAGRA SIKSHA"
+  },
+  {
+    "id": 105,
+    "question": "SSA, RMSA ஆகிய இரண்டு திட்டங்களை உள்ளடக்கிய திட்டம் எது?",
+    "options": [
+      "கரும்பலகைத் திட்டம்",
+      "RTE",
+      "மேம்படுத்தப்பட்ட RMSA",
+      "SAMAGRA SIKSHA"
+    ],
+    "correct": 3,
+    "question_en": "Which scheme includes two schemes SSA and RMSA?",
+    "options_en": [
+      "Blackboard project",
+      "RTE",
+      "Improved RMSA",
+      "SAMAGRA SIKSHA"
+    ],
+    "explanation": "SSA, RMSA ஆகிய இரண்டு திட்டங்களை உள்ளடக்கிய திட்டம் SAMAGRA SIKSHA ஆகும்.",
+    "explanation_en": "SAMAGRA SIKSHA"
+  },
+  {
+    "id": 106,
+    "question": "யுவான் சுவாங் குறிப்புகளின்படி, கற்றலின் மையமாக விளங்கிய நகரம் எது?",
+    "options": [
+      "பனாரஸ்",
+      "மதுரை",
+      "காஞ்சிபுரம்",
+      "நாளந்தா"
+    ],
+    "correct": 2,
+    "question_en": "According to Yuan Chuang notes, which city was the center of learning?",
+    "options_en": [
+      "Banaras",
+      "Madurai",
+      "Kanchipuram",
+      "Nalanda"
+    ],
+    "explanation": "யுவான் சுவாங் குறிப்புகளின்படி, கற்றலின் மையமாக விளங்கிய நகரம் காஞ்சிபுரம் ஆகும்.",
+    "explanation_en": "Kanchipuram"
+  },
+  {
+    "id": 107,
+    "question": "தமிழ் இலக்கிய வரலாற்றில் மிகவும் அறிவார்ந்த மற்றும் புதுமைகளைப் புகுத்திய காலம் எது?",
+    "options": [
+      "பாண்டியர் காலம்",
+      "சோழர் காலம்",
+      "பல்லவர் காலம்",
+      "சேரர் காலம்"
+    ],
+    "correct": 1,
+    "question_en": "Which was the most intellectual and innovative period in the history of Tamil literature?",
+    "options_en": [
+      "Pandya period",
+      "Chola period",
+      "Pallavar period",
+      "Access period"
+    ],
+    "explanation": "தமிழ் இலக்கிய வரலாற்றில் மிகவும் அறிவார்ந்த மற்றும் புதுமைகளைப் புகுத்திய காலம் சோழர் காலம் ஆகும்.",
+    "explanation_en": "Chola period"
+  },
+  {
+    "id": 108,
+    "question": "பல்லவர் காலத்தில் கல்வி நிறுவனங்கள் எவ்வாறு அழைக்கப்பட்டன?",
+    "options": [
+      "கடிகை",
+      "சாலை",
+      "வித்யாசாதனம்",
+      "பள்ளி"
+    ],
+    "correct": 0,
+    "question_en": "What were the educational institutions called during the Pallavar period?",
+    "options_en": [
+      "watch",
+      "Road",
+      "Vidyasathanam",
+      "School"
+    ],
+    "explanation": "கடிகை",
+    "explanation_en": "watch"
+  },
+  {
+    "id": 109,
+    "question": "பாண்டியர் காலத்தில் கல்வி நிறுவனங்கள் எவ்வாறு அழைக்கப்படவில்லை?",
+    "options": [
+      "கடிகை",
+      "சாலை",
+      "வித்யாசாதனம்",
+      "பள்ளி"
+    ],
+    "correct": 3,
+    "question_en": "How educational institutions were not called during Pandyan era?",
+    "options_en": [
+      "watch",
+      "Road",
+      "Vidyasathanam",
+      "School"
+    ],
+    "explanation": "பள்ளி",
+    "explanation_en": "School"
+  },
+  {
+    "id": 110,
+    "question": "கீழ்க்கண்டவற்றில் வேதக் கல்லூரி அமைந்திருந்த இடம் எது?",
+    "options": [
+      "எண்ணாயிரம்",
+      "திருப்புவனை",
+      "1 மற்றும் 2",
+      "இவை எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is the location of Vedic college?",
+    "options_en": [
+      "Eight thousand",
+      "Tirupuvanai",
+      "1 and 2",
+      "None of these"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றில் வேதக் கல்லூரி அமைந்திருந்த இடம் 1 மற்றும் 2 ஆகும்.",
+    "explanation_en": "1 and 2 is the location of Vedic college."
+  },
+  {
+    "id": 111,
+    "question": "திருவாடுதுறைக் கல்வெட்டு எவர் காலத்திய கல்வெட்டு?",
+    "options": [
+      "ராஜராஜ சோழன்",
+      "வீரராஜேந்திர சோழன்",
+      "வீரப்ப நாயக்கர்",
+      "இரண்டாம் சரபோஜி"
+    ],
+    "correct": 1,
+    "question_en": "Thiruvaduthuraik inscription is an inscription of whose period?",
+    "options_en": [
+      "Rajaraja Cholan",
+      "Veerarajendra Cholan",
+      "Veerappa Nayak",
+      "Saraboji II"
+    ],
+    "explanation": "வீரராஜேந்திர சோழன்",
+    "explanation_en": "Veerarajendra Cholan"
+  },
+  {
+    "id": 112,
+    "question": "வீரப்ப நாயக்கர் காலத்தில் மதுரையில் தொடக்கப் பள்ளியை நிறுவியவர்?",
+    "options": [
+      "பிரான்சிஸ் சேவியர்",
+      "சீகன் பால்கு",
+      "பெர்னாண்டஸ்",
+      "புளூட்சோ"
+    ],
+    "correct": 2,
+    "question_en": "Who established primary school in Madurai during Veerappa Nayaka?",
+    "options_en": [
+      "Francis Xavier",
+      "Seegan Balku",
+      "Fernandez",
+      "Bluetso"
+    ],
+    "explanation": "பெர்னாண்டஸ்",
+    "explanation_en": "Fernandez"
+  },
+  {
+    "id": 113,
+    "question": "மதராஸ் மாகாணத்தில், எந்த ஆண்டுவாக்கில், ஆங்கிலப் பாடம் தவிர அனைத்துப் பாடங்களும் தமிழ் மொழியில் கற்பிக்கப்பட்டன?",
+    "options": [
+      "1929",
+      "1971",
+      "1938",
+      "1954"
+    ],
+    "correct": 2,
+    "question_en": "In Madras province, by which year all subjects except English were taught in Tamil?",
+    "options_en": [
+      "1929",
+      "1971",
+      "1938",
+      "1954"
+    ],
+    "explanation": "1938",
+    "explanation_en": "1938"
+  },
+  {
+    "id": 114,
+    "question": "சர்.தாமஸ் மன்ரோ சென்னை ஆளுநராக இருந்த காலகட்டம் எது?",
+    "options": [
+      "1905-09",
+      "1920-27",
+      "1921-47",
+      "1820-27"
+    ],
+    "correct": 3,
+    "question_en": "During which period Sir Thomas Munro was the Governor of Madras?",
+    "options_en": [
+      "1905-09",
+      "1920-27",
+      "1921-47",
+      "1820-27"
+    ],
+    "explanation": "சர்.தாமஸ் மன்ரோ சென்னை ஆளுநராக இருந்த காலகட்டம் 1820-27 ஆகும்.",
+    "explanation_en": "1820-27"
+  }
+]

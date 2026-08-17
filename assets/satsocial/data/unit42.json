@@ -1,0 +1,822 @@
+[
+  {
+    "id": 1,
+    "question": "“சிவிஸ்” என்னும் சொல் ________ மொழியில் இருந்து பெறப்பட்டது.",
+    "options": [
+      "கிரேக்கம்",
+      "இலத்தீன்",
+      "பிரெஞ்சு",
+      "ஆங்கிலம்"
+    ],
+    "correct": 1,
+    "question_en": "The word 'Civis' is derived from the ________ language.",
+    "options_en": [
+      "Greek",
+      "Latin",
+      "French",
+      "English"
+    ],
+    "explanation": "“சிவிஸ்” என்னும் சொல் இலத்தீன் மொழியில் இருந்து பெறப்பட்டது.",
+    "explanation_en": "The word 'Civis' is derived from the Latin language."
+  },
+  {
+    "id": 2,
+    "question": "“Civis” என்னும் இலத்தீன் சொல்லின் பொருள் ________.",
+    "options": [
+      "குடியிருப்பாளர்",
+      "நாடுகளின் உறுப்பினர்",
+      "1 மற்றும் 2",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "The meaning of the Latin word 'Civis' is ________.",
+    "options_en": [
+      "Resident",
+      "Member of nations",
+      "1 and 2",
+      "None of these"
+    ],
+    "explanation": "“Civis” என்னும் இலத்தீன் சொல்லின் பொருள் 1 மற்றும் 2.",
+    "explanation_en": "The meaning of the Latin word 'Civis' is 1 and 2."
+  },
+  {
+    "id": 3,
+    "question": "கீழ்க்காணும் கூற்றுக்களில் சரியான கூற்றைத் தேர்ந்தெடுக்கவும்.\nகூற்று 1: ஒருவர் பிறப்பால் பெறக்கூடிய உரிமை ஒற்றைக் குடியுரிமை எனப்படும்.\nகூற்று 2: ஒருவர் விண்ணப்பித்து பெறும் குடியுரிமை இயல்பு குடியுரிமை எனப்படும்.",
+    "options": [
+      "கூற்று 1 சரி; கூற்று 2 சரி",
+      "கூற்று 1 சரி; கூற்று 2 தவறு",
+      "கூற்று 1 தவறு; கூற்று 2 சரி",
+      "கூற்று 1 தவறு; கூற்று 2 தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement from the following.\nStatement 1: Citizenship acquired by birth is called single citizenship.\nStatement 2: Citizenship acquired by application is called naturalized citizenship.",
+    "options_en": [
+      "Statement 1 is correct; Statement 2 is correct",
+      "Statement 1 is correct; Statement 2 is wrong",
+      "Statement 1 is wrong; Statement 2 is correct",
+      "Statement 1 is wrong; Statement 2 is wrong"
+    ],
+    "explanation": "கூற்று 1 தவறு; கூற்று 2 சரி",
+    "explanation_en": "Statement 1 is wrong; Statement 2 is correct"
+  },
+  {
+    "id": 4,
+    "question": "பொருத்துக.\ni. இந்தியக் குடியுரிமைச் சட்டம் - a. 42-வது சட்டத்திருத்தம்\nii. இந்தியாவுடன் பாண்டிச்சேரி இணைந்த ஆண்டு - b. ஜனவரி 9\niii. அடிப்படை கடமைகள் - c. 1955\niv. பிரவாசி பாரதிய தினம் - d. 1962",
+    "options": [
+      "i – b, ii – c, iii – d, iv – a",
+      "i – b, ii – a, iii – d, iv - c",
+      "i – c, ii – a, iii – b, iv – d",
+      "i – c, ii – d, iii – a, iv – b"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\ni. Indian Citizenship Act - a. 42nd Amendment\nii. Year Pondicherry merged with India - b. January 9\niii. Fundamental Duties - c. 1955\niv. Pravasi Bharatiya Divas - d. 1962",
+    "options_en": [
+      "i – b, ii – c, iii – d, iv – a",
+      "i – b, ii – a, iii – d, iv - c",
+      "i – c, ii – a, iii – b, iv – d",
+      "i – c, ii – d, iii – a, iv – b"
+    ],
+    "explanation": "i – c, ii – d, iii – a, iv – b",
+    "explanation_en": "i – c, ii – d, iii – a, iv – b"
+  },
+  {
+    "id": 5,
+    "question": "கீழ்காணும் கூற்றுகளில் தவறானவற்றைத் தேர்ந்தெடுக்கவும்:\n(i) ஒருவர் தனது பிறப்பால் இந்தியக் குடியுரிமையைப் பெறலாம்.\n(ii) ஒருவர் தனது வம்சாவளியில் இந்தியக் குடியுரிமையைப் பெற முடியாது.\n(iii) ஒருவர் விண்ணப்பித்து அதன் மூலம் இந்தியக் குடியுரிமையைப் பெறலாம்.\n(iv) பிரதேசங்களை இணைப்பதன் மூலம் ஒருவருக்கு இந்தியக் குடியுரிமை வழங்கப்பட மாட்டாது.",
+    "options": [
+      "(i) மற்றும் (ii)",
+      "(ii) மற்றும் (iii)",
+      "(iii) மற்றும் (iv)",
+      "(ii) மற்றும் (iv)"
+    ],
+    "correct": 3,
+    "question_en": "Choose the incorrect statements from the following:\n(i) A person can acquire Indian citizenship by birth.\n(ii) A person cannot acquire Indian citizenship by descent.\n(iii) A person can acquire Indian citizenship through application.\n(iv) Indian citizenship will not be granted to anyone by the incorporation of territory.",
+    "options_en": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(iii) and (iv)",
+      "(ii) and (iv)"
+    ],
+    "explanation": "(ii) மற்றும் (iv)",
+    "explanation_en": "(ii) and (iv)"
+  },
+  {
+    "id": 6,
+    "question": "இந்திய வம்சாவளியைச் சேர்ந்த ஒரு நபர் எந்த நாட்டில் வசித்தாலும், இந்தியாவில் ________ ஆண்டுகள் வசித்த பிறகு இந்திய குடியுரிமையைப் பெற விண்ணப்பிக்க முடியும்.",
+    "options": [
+      "7 ஆண்டுகள்",
+      "8 ஆண்டுகள்",
+      "9 ஆண்டுகள்",
+      "10 ஆண்டுகள்"
+    ],
+    "correct": 0,
+    "question_en": "A person of Indian origin, residing in any country, can apply for Indian citizenship after residing in India for ________ years.",
+    "options_en": [
+      "7 years",
+      "8 years",
+      "9 years",
+      "10 years"
+    ],
+    "explanation": "இந்திய வம்சாவளியைச் சேர்ந்த ஒரு நபர் எந்த நாட்டில் வசித்தாலும், இந்தியாவில் 7 ஆண்டுகள் ஆண்டுகள் வசித்த பிறகு இந்திய குடியுரிமையைப் பெற விண்ணப்பிக்க முடியும்.",
+    "explanation_en": "A person of Indian origin, residing in any country, can apply for Indian citizenship after residing in India for 7 years years."
+  },
+  {
+    "id": 7,
+    "question": "கீழ்க்கண்டவற்றுள் எந்த ஒன்று இந்திய குடியுரிமை பெறும் வழிமுறை அல்ல?",
+    "options": [
+      "பிறப்பின் மூலம்",
+      "சொத்துரிமை பெறுவதன் மூலம்",
+      "வம்சாவளியின் மூலம்",
+      "இயல்புக் குடியுரிமை மூலம்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not a method of acquiring Indian citizenship?",
+    "options_en": [
+      "By birth",
+      "By acquiring property",
+      "By descent",
+      "By naturalization"
+    ],
+    "explanation": "சொத்துரிமை பெறுவதன் மூலம்",
+    "explanation_en": "By acquiring property is not a method of acquiring Indian citizenship."
+  },
+  {
+    "id": 8,
+    "question": "கூற்று: 1962ஆம் ஆண்டு பாண்டிச்சேரி இந்திய யூனியனுடன் இணைந்தது. அங்கு வாழ்ந்த மக்கள் இந்திய குடிமக்களாயினர்.\nகாரணம்: 1955 இந்திய குடியுரிமை சட்டத்தின் படி பிரதேசங்களை இணைத்தல் என்பதன் அடிப்படையில் அவர்கள் இந்திய குடிமக்களாக மாறினர்.",
+    "options": [
+      "காரணம் கூற்றுக்கான சரியான விளக்கம்",
+      "காரணம் கூற்றுக்கான சரியான விளக்கம் அல்ல",
+      "கூற்று தவறு, ஆனால் காரணம் சரி",
+      "காரணம் கூற்று இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Pondicherry merged with the Indian Union in 1962. The people living there became Indian citizens.\nReason: According to the Indian Citizenship Act of 1955, they became Indian citizens based on the incorporation of territory.",
+    "options_en": [
+      "Reason is the correct explanation for the Assertion",
+      "Reason is not the correct explanation for the Assertion",
+      "Assertion is wrong, but Reason is correct",
+      "Both Assertion and Reason are wrong"
+    ],
+    "explanation": "காரணம் கூற்றுக்கான சரியான விளக்கம்",
+    "explanation_en": "Reason is the correct explanation for the Assertion"
+  },
+  {
+    "id": 9,
+    "question": "ஒரு இந்திய குடிமகனின் குடியுரிமை கீழ்க்கண்ட எதனால் முடிவுக்கு வருகிறது?\n(i) ஒருவர் வேறு நாட்டு குடியுரிமையைப் பெறும்போது\n(ii) பதிவு செய்வதன் மூலம்\n(iii) தவறான மோசடி வழிகளில் ஒருவர் குடியுரிமை பெற்றார் என்று அரசு கருதும்போது\n(iv) போர் நடைபெறும்போது எதிரி நாட்டிடம் இந்தியக் குடிமகன் வணிகம் செய்யும்போது",
+    "options": [
+      "i மற்றும் ii சரி",
+      "i மற்றும் iii சரி",
+      "i, ii, மற்றும் iv சரி",
+      "i, ii, மற்றும் iii சரி"
+    ],
+    "correct": 3,
+    "question_en": "By which of the following is the citizenship of an Indian citizen terminated?\n(i) When a person acquires the citizenship of another country\n(ii) By registration\n(iii) When the government considers that a person has acquired citizenship by fraud\n(iv) When an Indian citizen trades with an enemy country during a war",
+    "options_en": [
+      "i and ii are correct",
+      "i and iii are correct",
+      "i, ii, and iv are correct",
+      "i, iii, and iv are correct"
+    ],
+    "explanation": "i, ii, மற்றும் iii சரி",
+    "explanation_en": "By i, iii, and iv are correct is the citizenship of an Indian citizen terminated.\n(i) When a person acquires the citizenship of another country\n(ii) By registration\n(iii) When the government considers that a person has acquired citizenship by fraud\n(iv) When an Indian citizen trades with an enemy country during a war"
+  },
+  {
+    "id": 10,
+    "question": "பூர்வீகம், பிறப்பு மற்றும் இனம் ஆகியவற்றின் அடிப்படையில் ஒருவர் பெறும் குடியுரிமை ________ எனப்படும்.",
+    "options": [
+      "சொத்துரிமை",
+      "இயல்புக் குடியுரிமை",
+      "நாட்டுரிமை",
+      "குடியுரிமை"
+    ],
+    "correct": 2,
+    "question_en": "The status acquired by a person on the basis of ancestry, birth, and race is called ________.",
+    "options_en": [
+      "Property right",
+      "Naturalized citizenship",
+      "Nationality",
+      "Citizenship"
+    ],
+    "explanation": "பூர்வீகம், பிறப்பு மற்றும் இனம் ஆகியவற்றின் அடிப்படையில் ஒருவர் பெறும் குடியுரிமை நாட்டுரிமை எனப்படும்.",
+    "explanation_en": "The status acquired by a person on the basis of ancestry, birth, and race is called Nationality."
+  },
+  {
+    "id": 11,
+    "question": "ஒரு நாட்டின் அரசாங்கத்தால் தனி ஒருவருக்கு வழங்கப்படும் உரிமை ________.",
+    "options": [
+      "நாட்டுரிமை",
+      "குடியுரிமை",
+      "1 மற்றும் 2",
+      "ஏதுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "The right granted to an individual by the government of a country is ________.",
+    "options_en": [
+      "Nationality",
+      "Citizenship",
+      "1 and 2",
+      "None of these"
+    ],
+    "explanation": "ஒரு நாட்டின் அரசாங்கத்தால் தனி ஒருவருக்கு வழங்கப்படும் உரிமை குடியுரிமை.",
+    "explanation_en": "The right granted to an individual by the government of a country is Citizenship."
+  },
+  {
+    "id": 12,
+    "question": "கீழ்காணும் கூற்றுகளில் சரியான கூற்று / கூற்றுகளைத் தேர்ந்தெடுக்கவும்:\ni) ஒருவர் தனது நாட்டு உரிமையை மாற்ற முடியும்.\nii) ஒருவர் தனது குடியுரிமையை மாற்ற முடியாது.",
+    "options": [
+      "i சரி; ii சரி",
+      "i சரி; ii தவறு",
+      "i தவறு; ii சரி",
+      "i தவறு; ii தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct statement(s) from the following:\ni) A person can change their nationality.\nii) A person cannot change their citizenship.",
+    "options_en": [
+      "i is correct; ii is correct",
+      "i is correct; ii is wrong",
+      "i is wrong; ii is correct",
+      "i is wrong; ii is wrong"
+    ],
+    "explanation": "i தவறு; ii தவறு",
+    "explanation_en": "i is wrong; ii is wrong"
+  },
+  {
+    "id": 13,
+    "question": "கீழ்க்கண்டவற்றுள் எவை இரட்டை குடியுரிமையின் கீழ் வருவன?",
+    "options": [
+      "தேசிய குடியுரிமை",
+      "மாநில குடியுரிமை",
+      "இவை இரண்டும்",
+      "மேற்கூறிய எதுவும் இல்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following come under dual citizenship?",
+    "options_en": [
+      "National citizenship",
+      "State citizenship",
+      "Both of these",
+      "None of the above"
+    ],
+    "explanation": "இவை இரண்டும்",
+    "explanation_en": "Both of these"
+  },
+  {
+    "id": 14,
+    "question": "இந்திய அரசியலமைப்புச் சட்டத்தின் எந்தப் பகுதி மற்றும் பிரிவுகள் குடியுரிமையைப் பற்றி குறிப்பிடுகின்றன?",
+    "options": [
+      "பகுைி I; பிரிவு 5 – 11",
+      "பகுைி II; பிரிவு 5 - 11",
+      "பகுைி III; பிரிவு 5 – 11",
+      "பகுைி IV; பிரிவு 5 - 11"
+    ],
+    "correct": 1,
+    "question_en": "Which part and articles of the Indian Constitution mention citizenship?",
+    "options_en": [
+      "Part I; Articles 5 – 11",
+      "Part II; Articles 5 - 11",
+      "Part III; Articles 5 – 11",
+      "Part IV; Articles 5 - 11"
+    ],
+    "explanation": "பகுைி II; பிரிவு 5 - 11",
+    "explanation_en": "Part II; Articles 5 - 11"
+  },
+  {
+    "id": 15,
+    "question": "கீழ்கண்ட கூற்று / கூற்றுகளில் சரியான கூற்றைத் தேர்ந்தெடுக்கவும்:\ni) இந்தியா தனது குடிமக்களுக்கு இரட்டை குடியுரிமையை வழங்குகிறது\nii) சுவிட்சர்லாந்து தனது குடிமக்களுக்கு ஒற்றைக் குடியுரிமையை வழங்குகிறது.",
+    "options": [
+      "i சரி; ii சரி",
+      "i சரி; ii தவறு",
+      "i தவறு; ii சரி",
+      "i தவறு; ii தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct statement(s) from the following:\ni) India provides dual citizenship to its citizens.\nii) Switzerland provides single citizenship to its citizens.",
+    "options_en": [
+      "i is correct; ii is correct",
+      "i is correct; ii is wrong",
+      "i is wrong; ii is correct",
+      "i is wrong; ii is wrong"
+    ],
+    "explanation": "i தவறு; ii தவறு",
+    "explanation_en": "i is wrong; ii is wrong"
+  },
+  {
+    "id": 16,
+    "question": "இந்தியாவின் முதல் குடிமகன் யார்?",
+    "options": [
+      "பிரதமர்",
+      "குடியரசுத் தலைவர்",
+      "முதலமைச்சர்",
+      "இந்திய தலைமை நீதிபதி"
+    ],
+    "correct": 1,
+    "question_en": "Who is the first citizen of India?",
+    "options_en": [
+      "Prime Minister",
+      "President",
+      "Chief Minister",
+      "Chief Justice of India"
+    ],
+    "explanation": "இந்தியாவின் முதல் குடிமகன் குடியரசுத் தலைவர்.",
+    "explanation_en": "President is the first citizen of India."
+  },
+  {
+    "id": 17,
+    "question": "இந்தியக் கடவுச்சீட்டினை (Passport) பெற்று வெளிநாட்டில் வாழும் இந்தியர் ________ என அழைக்கப்படுகிறார்.",
+    "options": [
+      "உள்நாடு வாழ் இந்தியர்",
+      "வெளிநாடு வாழ் இந்தியர்",
+      "அந்நியர்கள்",
+      "மேற்கூறிய எதுவும் இல்லை"
+    ],
+    "correct": 1,
+    "question_en": "An Indian living abroad holding an Indian Passport is called a/an ________.",
+    "options_en": [
+      "Resident Indian",
+      "Non-Resident Indian (NRI)",
+      "Aliens",
+      "None of the above"
+    ],
+    "explanation": "இந்தியக் கடவுச்சீட்டினை (Passport) பெற்று வெளிநாட்டில் வாழும் இந்தியர் வெளிநாடு வாழ் இந்தியர் என அழைக்கப்படுகிறார்.",
+    "explanation_en": "An Indian living abroad holding an Indian Passport is called a/an Non-Resident Indian (NRI)."
+  },
+  {
+    "id": 18,
+    "question": "கீழ்க்காணும் கூற்றுகளில் தவறானவற்றைத் தேர்ந்தெடுக்கவும்:\na) அமெரிக்க ஐக்கிய நாடுகள் இரட்டைக் குடியுரிமையை வழங்குகிறது.\nb) வெளிநாட்டு குடியுரிமை கொண்டு இந்தியாவில் வசிப்பதற்கான அட்டை வைத்திருப்பவர்களுக்கு இந்தியாவில் வாக்குரிமை உண்டு.",
+    "options": [
+      "i சரி; ii சரி",
+      "i சரி; ii தவறு",
+      "i தவறு; ii சரி",
+      "i தவறு; ii தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Choose the incorrect statement(s) from the following:\ni) The United States of America provides dual citizenship.\nii) Overseas Citizen of India cardholders have voting rights in India.",
+    "options_en": [
+      "i is correct; ii is correct",
+      "i is correct; ii is wrong",
+      "i is wrong; ii is correct",
+      "i is wrong; ii is wrong"
+    ],
+    "explanation": "i சரி; ii தவறு",
+    "explanation_en": "i is correct; ii is wrong"
+  },
+  {
+    "id": 19,
+    "question": "இந்திய அரசியலமைப்பு 42வது சட்ட திருத்தத்தின்படி இந்தியக் குடிமக்களுக்கான அடிப்படை ________ வரையறுக்கப்பட்டுள்ளன.",
+    "options": [
+      "உரிமைகள்",
+      "கடமைகள்",
+      "மேற்கூறிய இரண்டும்",
+      "மேற்கூறிய எதுவும் இல்லை"
+    ],
+    "correct": 1,
+    "question_en": "According to the 42nd Amendment of the Indian Constitution, the fundamental ________ for Indian citizens are defined.",
+    "options_en": [
+      "Rights",
+      "Duties",
+      "Both of the above",
+      "None of the above"
+    ],
+    "explanation": "இந்திய அரசியலமைப்பு 42வது சட்ட திருத்தத்தின்படி இந்தியக் குடிமக்களுக்கான அடிப்படை கடமைகள் வரையறுக்கப்பட்டுள்ளன.",
+    "explanation_en": "According to the 42nd Amendment of the Indian Constitution, the fundamental Duties for Indian citizens are defined."
+  },
+  {
+    "id": 20,
+    "question": "கீழ்க்காணும் கூற்றுகளில் சரியானவற்றைத் தேர்ந்தெடுக்கவும்\nகூற்று 1: இந்தியாவை பூர்வீகமாகக் கொண்ட இங்கிலாந்து நாட்டு குடிமகன் OCI அட்டையை பெற்றிருக்கும் பட்சத்தில் அவர் இந்தியாவில் வாக்களிக்கலாம்.\nகூற்று 2: அமெரிக்காவில் வசிக்கும் வெளிநாடு வாழ் இந்தியர் (NRI) ஒருவர் இந்தியத் தேர்தலில், நேரில் வந்து இந்தியாவில் வாக்களிக்கலாம்.",
+    "options": [
+      "கூற்று 1 சரி; கூற்று 2 சரி",
+      "கூற்று 1 சரி; கூற்று 2 தவறு",
+      "கூற்று 1 தவறு; கூற்று 2 சரி",
+      "கூற்று 1 தவறு; கூற்று 2 தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statements from the following:\nStatement 1: A citizen of England of Indian origin holding an OCI card can vote in India.\nStatement 2: A Non-Resident Indian (NRI) living in the USA can vote in Indian elections by appearing in person in India.",
+    "options_en": [
+      "Statement 1 is correct; Statement 2 is correct",
+      "Statement 1 is correct; Statement 2 is wrong",
+      "Statement 1 is wrong; Statement 2 is correct",
+      "Statement 1 is wrong; Statement 2 is wrong"
+    ],
+    "explanation": "கூற்று 1 தவறு; கூற்று 2 சரி",
+    "explanation_en": "Statement 1 is wrong; Statement 2 is correct"
+  },
+  {
+    "id": 21,
+    "question": "கீழ்க்கண்டவற்றுள் எது ஒரு இந்திய குடிமகனின் அடிப்படை கடமைகளுள் ஒன்று அல்ல?",
+    "options": [
+      "நேர்மையாக வரி செலுத்தாமை",
+      "பொதுச் சொத்துக்களைப் பாதுகாத்தல்",
+      "சட்டங்களை மதித்தல்",
+      "நாட்டின் பாதுகாப்பிற்கு செயலாற்றுதல்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is not one of the fundamental duties of an Indian citizen?",
+    "options_en": [
+      "Not paying taxes honestly",
+      "Protecting public property",
+      "Respecting laws",
+      "Serving for the defense of the country"
+    ],
+    "explanation": "நேர்மையாக வரி செலுத்தாமை",
+    "explanation_en": "Not paying taxes honestly is not one of the fundamental duties of an Indian citizen."
+  },
+  {
+    "id": 22,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடுக்கவும்:\nகூற்று 1: ஒரு நாட்டில் வசிக்கும் குடிமகனாக அல்லாத அனைவரும் அந்நியர் எனப்படுவர்.\nகூற்று 2: ஒரு நாட்டில் எவ்வித தடையுமின்றி நிரந்தரமாக வசிப்பதற்கும் பணி புரிவதற்கும் உரிமை பெறும் குடிமகன் குடியேறியவர் எனப்படுகிறார்.",
+    "options": [
+      "கூற்று 1 மட்டும்",
+      "கூற்று 2 மட்டும்",
+      "மேற்கூறிய எதுவும் இல்லை",
+      "மேற்கூறிய இரண்டும்"
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct statement:\nStatement 1: All non-citizens residing in a country are called aliens.\nStatement 2: A citizen who gets the right to reside and work permanently in a country without any restrictions is called an immigrant.",
+    "options_en": [
+      "Statement 1 only",
+      "Statement 2 only",
+      "None of the above",
+      "Both of the above"
+    ],
+    "explanation": "கூற்று 1 மட்டும்",
+    "explanation_en": "Statement 1 only"
+  },
+  {
+    "id": 23,
+    "question": "இன்றைய இளைஞர்களை நவீன சமுதாயத்தை வடிவமைப்பதில் பங்கேற்க வைப்பது ________ நோக்கம் ஆகும்.",
+    "options": [
+      "இயற்கை குடியுரிமையின்",
+      "ஒற்றைக் குடியுரிமையின்",
+      "உலகளாவிய குடியுரிமையின்",
+      "இரட்டைக் குடியுரிமையின்"
+    ],
+    "correct": 2,
+    "question_en": "Making today's youth participate in shaping the modern society is the aim of ________.",
+    "options_en": [
+      "Natural citizenship",
+      "Single citizenship",
+      "Global citizenship",
+      "Dual citizenship"
+    ],
+    "explanation": "இன்றைய இளைஞர்களை நவீன சமுதாயத்தை வடிவமைப்பதில் பங்கேற்க வைப்பது உலகளாவிய குடியுரிமையின் நோக்கம் ஆகும்.",
+    "explanation_en": "Making today's youth participate in shaping the modern society is the aim of Global citizenship."
+  },
+  {
+    "id": 24,
+    "question": "கூற்று: ஒவ்வொரு வருடமும் ஜனவரி 9 ஆம் நாள் வெளிநாடு வாழ் இந்தியர் தினமாகக் கொண்டாடப்படுகிறது.\nகாரணம்: இது மகாத்மா காந்தி அமெரிக்காவிலிருந்து இந்தியாவிற்கு வருகை புரிந்த நாள்.",
+    "options": [
+      "காரணம் கூற்றுக்கான சரியான விளக்கம்",
+      "காரணம் கூற்றுக்கான சரியான விளக்கம் அல்ல",
+      "கூற்று தவறு ஆனால் காரணம் சரி",
+      "காரணம் கூற்று இரண்டும் தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Assertion: January 9th is celebrated as Non-Resident Indian (NRI) Day every year.\nReason: This is the day Mahatma Gandhi arrived in India from America.",
+    "options_en": [
+      "Reason is the correct explanation for the Assertion",
+      "Reason is not the correct explanation for the Assertion",
+      "Assertion is wrong but Reason is correct",
+      "Both Assertion and Reason are wrong"
+    ],
+    "explanation": "காரணம் கூற்று இரண்டும் தவறு",
+    "explanation_en": "Both Assertion and Reason are wrong"
+  },
+  {
+    "id": 25,
+    "question": "ஒவ்வொருவரும் உலகளாவிய சமுதாயத்தின் அங்கம் என்பது ________ ஆகும்.",
+    "options": [
+      "இயற்கை குடியுரிமை",
+      "ஒற்றைக் குடியுரிமை",
+      "உலகளாவிய குடியுரிமை",
+      "இரட்டைக்குடியுரிமை"
+    ],
+    "correct": 2,
+    "question_en": "The idea that everyone is a part of the global community is ________.",
+    "options_en": [
+      "Natural citizenship",
+      "Single citizenship",
+      "Global citizenship",
+      "Dual citizenship"
+    ],
+    "explanation": "ஒவ்வொருவரும் உலகளாவிய சமுதாயத்தின் அங்கம் என்பது உலகளாவிய குடியுரிமை ஆகும்.",
+    "explanation_en": "The idea that everyone is a part of the global community is Global citizenship."
+  },
+  {
+    "id": 26,
+    "question": "“NRI” என்பதன் விரிவாக்கம் ________.",
+    "options": [
+      "Non - Resident Indian",
+      "Non - Rescue Indian",
+      "Non - Region Indian",
+      "Non - Residential Indian"
+    ],
+    "correct": 0,
+    "question_en": "The expansion of 'NRI' is ________.",
+    "options_en": [
+      "Non - Resident Indian",
+      "Non - Rescue Indian",
+      "Non - Region Indian",
+      "Non - Residential Indian"
+    ],
+    "explanation": "“NRI” என்பதன் விரிவாக்கம் Non - Resident Indian.",
+    "explanation_en": "The expansion of 'NRI' is Non - Resident Indian."
+  },
+  {
+    "id": 27,
+    "question": "“PIO” என்பதன் விரிவாக்கம் ________.",
+    "options": [
+      "Person of Indian Ocean",
+      "Person of Indian Orbit",
+      "Person of Indian Organization",
+      "Person of Indian Origin"
+    ],
+    "correct": 3,
+    "question_en": "The expansion of 'PIO' is ________.",
+    "options_en": [
+      "Person of Indian Ocean",
+      "Person of Indian Orbit",
+      "Person of Indian Organization",
+      "Person of Indian Origin"
+    ],
+    "explanation": "“PIO” என்பதன் விரிவாக்கம் Person of Indian Origin.",
+    "explanation_en": "The expansion of 'PIO' is Person of Indian Origin."
+  },
+  {
+    "id": 28,
+    "question": "“OCI” என்பதன் விரிவாக்கம் ________.",
+    "options": [
+      "Overseas Citizen of India",
+      "Overseas Citizen of Indonesia",
+      "Overseas Citizen of Iraq",
+      "Overseas Citizen of Isrel"
+    ],
+    "correct": 0,
+    "question_en": "The expansion of 'OCI' is ________.",
+    "options_en": [
+      "Overseas Citizen of India",
+      "Overseas Citizen of Indonesia",
+      "Overseas Citizen of Iraq",
+      "Overseas Citizen of Israel"
+    ],
+    "explanation": "“OCI” என்பதன் விரிவாக்கம் Overseas Citizen of India.",
+    "explanation_en": "The expansion of 'OCI' is Overseas Citizen of India."
+  },
+  {
+    "id": 29,
+    "question": "இந்தியக் குடியுரிமைச் சட்டம் குடியுரிமை பெறுவதற்கு எத்தனை வழிமுறைகளைப் பரிந்துரைக்கிறது?",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "10"
+    ],
+    "correct": 0,
+    "question_en": "How many methods does the Indian Citizenship Act prescribe for acquiring citizenship?",
+    "options_en": [
+      "5",
+      "3",
+      "7",
+      "10"
+    ],
+    "explanation": "5",
+    "explanation_en": "5 methods does the Indian Citizenship Act prescribe for acquiring citizenship."
+  },
+  {
+    "id": 30,
+    "question": "இந்தியக் குடிமகனை திருமணம் செய்த ஒருவர் குடியுரிமை பெற விண்ணப்பிக்கும் முன் எத்தனை ஆண்டுகள் இந்தியாவில் வசித்தவராக இருக்க வேண்டும்?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "correct": 2,
+    "question_en": "A person married to an Indian citizen must have been a resident of India for how many years before applying for citizenship?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "explanation": "7",
+    "explanation_en": "A person married to an Indian citizen must have been a resident of India for 7 years before applying for citizenship."
+  },
+  {
+    "id": 31,
+    "question": "இந்திய அரசியலமைப்பின் எட்டாவது அட்டவணையில் இடம்பெறாத மொழி _______.",
+    "options": [
+      "ஆங்கிலம்",
+      "தமிழ்",
+      "கன்னடம்",
+      "கொங்கணி"
+    ],
+    "correct": 0,
+    "question_en": "The language not included in the Eighth Schedule of the Indian Constitution is _______.",
+    "options_en": [
+      "English",
+      "Tamil",
+      "Kannada",
+      "Konkani"
+    ],
+    "explanation": "இந்திய அரசியலமைப்பின் எட்டாவது அட்டவணையில் இடம்பெறாத மொழி ஆங்கிலம்.",
+    "explanation_en": "The language not included in the Eighth Schedule of the Indian Constitution is English."
+  },
+  {
+    "id": 32,
+    "question": "இந்திய அரசியலமைப்பின் எட்டாவது அட்டவணையில் உள்ள மொழிகளின் எண்ணிக்கை _______.",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "correct": 0,
+    "question_en": "The number of languages in the Eighth Schedule of the Indian Constitution is _______.",
+    "options_en": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "explanation": "இந்திய அரசியலமைப்பின் எட்டாவது அட்டவணையில் உள்ள மொழிகளின் எண்ணிக்கை 22.",
+    "explanation_en": "The number of languages in the Eighth Schedule of the Indian Constitution is 22."
+  },
+  {
+    "id": 33,
+    "question": "________ முதல் ________ வரை இந்தியாவில் பிறந்த குழந்தைகளின் பெற்றோர் எந்த நாட்டவராக இருந்தாலும், அக்குழந்தை பிறப்பால் இந்தியக் குடியுரிமையைப் பெறுகின்றது.",
+    "options": [
+      "1947 ஆகஸ்ட் 15, 1987 ஜூன் 30",
+      "1950 ஜனவரி 26, 1987 ஜூன் 30",
+      "1987 ஜூலை 1, 2004 டிசம்பர் 2",
+      "1950 ஜனவரி 26, 1978 ஜூன் 30"
+    ],
+    "correct": 1,
+    "question_en": "From ________ to ________, children born in India acquire Indian citizenship by birth, irrespective of the nationality of their parents.",
+    "options_en": [
+      "August 15, 1947 to June 30, 1987",
+      "January 26, 1950 to June 30, 1987",
+      "July 1, 1987 to December 2, 2004",
+      "January 26, 1950 to June 30, 1978"
+    ],
+    "explanation": "1950 ஜனவரி 26, 1987 ஜூன் 30 முதல் 1950 ஜனவரி 26, 1987 ஜூன் 30 வரை இந்தியாவில் பிறந்த குழந்தைகளின் பெற்றோர் எந்த நாட்டவராக இருந்தாலும், அக்குழந்தை பிறப்பால் இந்தியக் குடியுரிமையைப் பெறுகின்றது.",
+    "explanation_en": "From January 26, 1950 to June 30, 1987 to January 26, 1950 to June 30, 1987, children born in India acquire Indian citizenship by birth, irrespective of the nationality of their parents."
+  },
+  {
+    "id": 34,
+    "question": "இந்திய அரசின் எந்த துறை அமைச்சகத்தால், பிரவாசி பாரதிய தினம் கொண்டாடப்படுகின்றது?",
+    "options": [
+      "நிதித்துறை",
+      "வெளியுறவுத் துறை",
+      "நீதித்துறை",
+      "மனிதவள மேம்பாட்டுத் துறை"
+    ],
+    "correct": 1,
+    "question_en": "Which ministry of the Government of India celebrates Pravasi Bharatiya Divas?",
+    "options_en": [
+      "Ministry of Finance",
+      "Ministry of External Affairs",
+      "Ministry of Law and Justice",
+      "Ministry of Human Resource Development"
+    ],
+    "explanation": "வெளியுறவுத் துறை",
+    "explanation_en": "Ministry of External Affairs"
+  },
+  {
+    "id": 35,
+    "question": "வெளிநாட்டு குடியுரிமையைக் கொண்டு இந்தியாவில் வசிப்பதற்கான அட்டையை வைத்திருப்பவர் _______.",
+    "options": [
+      "NRI",
+      "PIO",
+      "OCI",
+      "PCI"
+    ],
+    "correct": 2,
+    "question_en": "A person holding a card to reside in India with foreign citizenship is an _______.",
+    "options_en": [
+      "NRI",
+      "PIO",
+      "OCI",
+      "PCI"
+    ],
+    "explanation": "வெளிநாட்டு குடியுரிமையைக் கொண்டு இந்தியாவில் வசிப்பதற்கான அட்டையை வைத்திருப்பவர் OCI.",
+    "explanation_en": "A person holding a card to reside in India with foreign citizenship is an OCI."
+  },
+  {
+    "id": 36,
+    "question": "மகாத்மா காந்தி தென் ஆப்பிரிக்காவிலிருந்து இந்தியா வந்த தினம் _______.",
+    "options": [
+      "ஆகஸ்ட் 15",
+      "ஜனவரி 9",
+      "ஜனவரி 26",
+      "அக்டோபர் 2"
+    ],
+    "correct": 1,
+    "question_en": "The day Mahatma Gandhi arrived in India from South Africa is _______.",
+    "options_en": [
+      "August 15",
+      "January 9",
+      "January 26",
+      "October 2"
+    ],
+    "explanation": "மகாத்மா காந்தி தென் ஆப்பிரிக்காவிலிருந்து இந்தியா வந்த தினம் ஜனவரி 9.",
+    "explanation_en": "The day Mahatma Gandhi arrived in India from South Africa is January 9."
+  },
+  {
+    "id": 37,
+    "question": "கூற்று: இந்திய அரசின் வெளியுறவுத் துறை அமைச்சகத்தால் இரண்டு ஆண்டுகளுக்கு ஒருமுறை பிரவாசி பாரதிய தினம் கொண்டாடப்படுகிறது.\nகாரணம் : இந்தியாவின் வளர்ச்சிக்காக வெளிநாடு வாழ் இந்தியர்களின் பங்களிப்பைப் பெறுவதற்காகக் கொண்டாடப்படுகின்றது.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Assertion: Pravasi Bharatiya Divas is celebrated once in two years by the Ministry of External Affairs, Government of India.\nReason: It is celebrated to get the contribution of Overseas Indians for the development of India.",
+    "options_en": [
+      "Assertion is correct, Reason is wrong",
+      "Both Assertion and Reason are correct",
+      "Assertion is wrong, Reason is correct",
+      "Both Assertion and Reason are wrong"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி",
+    "explanation_en": "Both Assertion and Reason are correct"
+  },
+  {
+    "id": 38,
+    "question": "கூற்று : கனடாவில் 2004 ஆம் ஆண்டு டிசம்பர் 1 ஆம் தேதி பிறந்த குழந்தைக்கு விண்ணப்பிப்பதன் மூலம் இந்திய அரசு வம்சாவளி குடியுரிமையை வழங்குகிறது.\nகாரணம் : குழந்தையின் தாய் இந்தியக் குடிமகளாக இருப்பதன் மூலம் வம்சாவளி குடியுரிமை பெறுகிறார்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று மற்றும் காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: The Government of India grants citizenship by descent to a child born in Canada on December 1, 2004, upon application.\nReason: The child acquires citizenship by descent as the mother is an Indian citizen.",
+    "options_en": [
+      "Assertion is correct, Reason is wrong",
+      "Assertion is wrong, Reason is correct",
+      "Both Assertion and Reason are correct",
+      "Both Assertion and Reason are wrong"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி",
+    "explanation_en": "Both Assertion and Reason are correct"
+  },
+  {
+    "id": 39,
+    "question": "கீழ்க்கண்டவற்றுள் தவறான கூற்று எது?",
+    "options": [
+      "ஒருவர் வெளிநாட்டுக் குடியுரிமையைத் துறப்பதன் மூலம் அவர் இயல்புக் குடியுரிமையைப் பெறுகின்றார்.",
+      "ஒரு அரசால் அளிக்கப்பட்ட சட்ட உரிமைகளையும், சலுகைகளையும் அனுபவிக்கும் ஒருவர் அந்நியர் எனப்படுகிறார்.",
+      "பிறப்பால் பெறக்கூடிய குடியுரிமை இயற்கைக் குடியுரிமை.",
+      "விண்ணப்பித்துப் பெறும் குடியுரிமை இயல்புக் குடியுரிமை."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is incorrect?",
+    "options_en": [
+      "A person acquires naturalized citizenship by renouncing their foreign citizenship.",
+      "A person enjoying legal rights and privileges granted by a state is called an alien.",
+      "Citizenship acquired by birth is natural citizenship.",
+      "Citizenship acquired by applying is naturalized citizenship."
+    ],
+    "explanation": "ஒரு அரசால் அளிக்கப்பட்ட சட்ட உரிமைகளையும், சலுகைகளையும் அனுபவிக்கும் ஒருவர் அந்நியர் எனப்படுகிறார்.",
+    "explanation_en": "A person enjoying legal rights and privileges granted by a state is called an alien."
+  },
+  {
+    "id": 40,
+    "question": "இந்திய அரசால் PIO முறை திரும்பப் பெறப்பட்டு OCI முறையுடன் இணைக்கப்பட்ட ஆண்டு _______.",
+    "options": [
+      "2004 டிசம்பர் 3",
+      "2015 ஜனவரி 26",
+      "2019 ஜனவரி 5",
+      "2015 ஜனவரி 9"
+    ],
+    "correct": 3,
+    "question_en": "The year when the PIO scheme was withdrawn by the Government of India and merged with the OCI scheme is _______.",
+    "options_en": [
+      "2004 December 3",
+      "2015 January 26",
+      "2019 January 5",
+      "2015 January 9"
+    ],
+    "explanation": "இந்திய அரசால் PIO முறை திரும்பப் பெறப்பட்டு OCI முறையுடன் இணைக்கப்பட்ட ஆண்டு 2015 ஜனவரி 9.",
+    "explanation_en": "The year when the PIO scheme was withdrawn by the Government of India and merged with the OCI scheme is 2015 January 9."
+  },
+  {
+    "id": 41,
+    "question": "ஒரு நாட்டில் எந்தவித தடையுமின்றி நிரந்தரமாக வசிப்பதற்கும் பணிபுரிவதற்கும் உரிமை பெறும் அந்நியர் ________ எனப்படுகிறார்.",
+    "options": [
+      "குடிமகன்",
+      "அந்நியர்",
+      "குடியேறியவர்",
+      "இந்தியாவில் வசிக்கும் வெளிநாட்டுக் குடியுரிமைப் பெற்றவர்"
+    ],
+    "correct": 2,
+    "question_en": "An alien who gets the right to reside and work permanently in a country without any restrictions is called an ________.",
+    "options_en": [
+      "Citizen",
+      "Alien",
+      "Immigrant",
+      "Overseas Citizen of India"
+    ],
+    "explanation": "ஒரு நாட்டில் எந்தவித தடையுமின்றி நிரந்தரமாக வசிப்பதற்கும் பணிபுரிவதற்கும் உரிமை பெறும் அந்நியர் குடியேறியவர் எனப்படுகிறார்.",
+    "explanation_en": "An alien who gets the right to reside and work permanently in a country without any restrictions is called an Immigrant."
+  }
+]
