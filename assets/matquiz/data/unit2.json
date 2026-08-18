@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\na a b _ a a _ b b b _ a a a _ b b b",
+    "options": [
+      "a b a b",
+      "b a a b",
+      "a a a b",
+      "a b b a"
+    ],
+    "correct": 1,
+    "explanation": "தொடர் வடிவம்: a a / b b / a a a / b b b / a a a a / b b b b",
+    "question_en": "Find the missing letter in the series\na a b _ a a _ b b b _ a a a _ b b b",
+    "options_en": [
+      "a b a b",
+      "b a a b",
+      "a a a b",
+      "a b b a"
+    ],
+    "explanation_en": "Serial format: a a / b b / a a a / b b b / a a a a / b b b b"
+  },
+  {
+    "id": 2,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\n_ b b c c c _ _ d d e e e e _",
+    "options": [
+      "b c d e",
+      "b c c e",
+      "a c d e",
+      "a d d e"
+    ],
+    "correct": 3,
+    "explanation": "தொடர் வடிவம்: a / b b / c c c / d d d d / e e e e e",
+    "question_en": "Find the missing letter in the series\n_ b b c c c _ _ d d e e e e _",
+    "options_en": [
+      "b c d e",
+      "b c c e",
+      "a c d e",
+      "a d d e"
+    ],
+    "explanation_en": "Serial format: a / b b / c c c / d d d d / e e e e e"
+  },
+  {
+    "id": 3,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\na b _ _ c a c a _ a _ c",
+    "options": [
+      "a b a b",
+      "c b a b",
+      "c b b b",
+      "c b b a"
+    ],
+    "correct": 2,
+    "explanation": "தொடர் வடிவம்: a b c / b c a / c a b / a b c",
+    "question_en": "Find the missing letter in the series\na b _ _ c a c a _ a _ c",
+    "options_en": [
+      "a b a b",
+      "c b a b",
+      "c b b b",
+      "c b b a"
+    ],
+    "explanation_en": "Series form: a b c / b c a / c a b / a b c"
+  },
+  {
+    "id": 4,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\na _ a b _ a b _ d a _ c d e",
+    "options": [
+      "b b b b",
+      "b c c b",
+      "b b c b",
+      "b c b b"
+    ],
+    "correct": 1,
+    "explanation": "தொடர் வடிவம்: a b / a b c / a b c d / a b c d e",
+    "question_en": "Find the missing letter in the series\na _ a b _ a b _ d a _ c d e",
+    "options_en": [
+      "b b b b",
+      "b c c b",
+      "b b c b",
+      "b c b b"
+    ],
+    "explanation_en": "Series form: a b / a b c / a b c d / a b c d e"
+  },
+  {
+    "id": 5,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\np _ p _ q _ p _ p _ q q",
+    "options": [
+      "q p q q p",
+      "p p q p q",
+      "q p q p q",
+      "q p q q q"
+    ],
+    "correct": 0,
+    "explanation": "தொடர் வடிவம்: p q p p q q / p q p p q q",
+    "question_en": "Find the missing letter in the series\np _ p _ q _ p _ p _ q q",
+    "options_en": [
+      "q p q q p",
+      "p p q p q",
+      "q p q p q",
+      "q p q q q"
+    ],
+    "explanation_en": "Series form: p q p p q q / p q p p q q"
+  },
+  {
+    "id": 6,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\na b _ _ b a a _ _ a b _",
+    "options": [
+      "a a a a a",
+      "a a a b a",
+      "a a b a a",
+      "b a a b b"
+    ],
+    "correct": 2,
+    "explanation": "தொடர் வடிவம்: a b a / a b a / a b a / a b a",
+    "question_en": "Find the missing letter in the series\na b _ _ b a a _ _ a b _",
+    "options_en": [
+      "a a a a a",
+      "a a a b a",
+      "a a b a a",
+      "b a a b b"
+    ],
+    "explanation_en": "Serial form: a b a / a b a / a b a / a b a"
+  },
+  {
+    "id": 7,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nr _ _ s s r _ s s r s _ s s",
+    "options": [
+      "s r s r",
+      "s r r s",
+      "s r s s",
+      "s s r s"
+    ],
+    "correct": 2,
+    "explanation": "தொடர் வடிவம்: r s / r s s / r s s s / r s s s s",
+    "question_en": "Find the missing letter in the series\nr _ _ s s r _ s s r s _ s s",
+    "options_en": [
+      "s r s r",
+      "s r r s",
+      "s r s s",
+      "s s r s"
+    ],
+    "explanation_en": "Serial Format: r s / r s s / r s s s / r s s s s"
+  },
+  {
+    "id": 8,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nm n _ m _ o _ n o m _ o",
+    "options": [
+      "o m n m",
+      "o n m m",
+      "o n m n",
+      "o n n m"
+    ],
+    "correct": 2,
+    "explanation": "தொடர் வடிவம்: m n o / m n o / m n o / m n o",
+    "question_en": "Find the missing letter in the series\nm n _ m _ o _ n o m _ o",
+    "options_en": [
+      "o m n m",
+      "o n m m",
+      "o n m n",
+      "o n n m"
+    ],
+    "explanation_en": "Serial format: m n o / m n o / m n o / m n o"
+  },
+  {
+    "id": 9,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\na _ b _ b c _ c c d _ d d d",
+    "options": [
+      "a b c c",
+      "a b c d",
+      "b c c d",
+      "a b d c"
+    ],
+    "correct": 1,
+    "explanation": "தொடர் வடிவம்: a a / b b b / c c c c / d d d d d",
+    "question_en": "Find the missing letter in the series\na _ b _ b c _ c c d _ d d d",
+    "options_en": [
+      "a b c c",
+      "a b c d",
+      "b c c d",
+      "a b d c"
+    ],
+    "explanation_en": "Serial format: a a / b b b / c c c c / d d d d d"
+  },
+  {
+    "id": 10,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\na _ a _ b b c _ c d _ d",
+    "options": [
+      "b b d c",
+      "b b c d",
+      "a a c d",
+      "a b c d"
+    ],
+    "correct": 3,
+    "explanation": "தொடர் வடிவம்: a a a / b b b / c c c / d d d",
+    "question_en": "Find the missing letter in the series\na _ a _ b b c _ c d _ d",
+    "options_en": [
+      "b b d c",
+      "b b c d",
+      "a a c d",
+      "a b c d"
+    ],
+    "explanation_en": "Serial format: a a a / b b b / c c c / d d d"
+  },
+  {
+    "id": 11,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\na _ b b b _ a _ b b b a _ a b",
+    "options": [
+      "a a a a",
+      "b b b b",
+      "a b a b",
+      "a a b b"
+    ],
+    "correct": 0,
+    "explanation": "தொடர் வடிவம்: a a b b b a / a a b b b a / a a b",
+    "question_en": "Find the missing letter in the series\na _ b b b _ a _ b b b a _ a b",
+    "options_en": [
+      "a a a a",
+      "b b b b",
+      "a b a b",
+      "a a b b"
+    ],
+    "explanation_en": "Serial form: a a b b b a / a a b b b a / a a b"
+  },
+  {
+    "id": 12,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nm _ _ p n o _ _ o p m n",
+    "options": [
+      "n o p m",
+      "m n o p",
+      "o n m m",
+      "n o p p"
+    ],
+    "correct": 0,
+    "explanation": "தொடர் வடிவம்: m n o p / n o p m / o p m n",
+    "question_en": "Find the missing letter in the series\nm _ _ p n o _ _ o p m n",
+    "options_en": [
+      "n o p m",
+      "m n o p",
+      "o n m m",
+      "n o p p"
+    ],
+    "explanation_en": "Serial form: m n o p / n o p m / o p m n"
+  },
+  {
+    "id": 13,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nA, D, H, M, ?, Z",
+    "options": [
+      "B",
+      "G",
+      "S",
+      "N"
+    ],
+    "correct": 2,
+    "explanation": "எழுத்துக்களின் நிலைகள்: +3, +4, +5, +6, +7 என கூடுகின்றன. M(13) + 6 = S(19).",
+    "question_en": "Find the missing letter in the series\nA, D, H, M, ?, Z",
+    "options_en": [
+      "B",
+      "G",
+      "S",
+      "N"
+    ],
+    "explanation_en": "Character levels stack up to: +3, +4, +5, +6, +7. M(13) + 6 = S(19)."
+  },
+  {
+    "id": 14,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nDFI, KMP, ?, YAD",
+    "options": [
+      "QSV",
+      "RTW",
+      "SUX",
+      "RTV"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு குழுவின் முதல் எழுத்தும் +7 கூடுகிறது (D->K->R->Y). அதேபோல் குழுவிற்குள் +2, +3 கூடுகின்றன (R->T->W).",
+    "question_en": "Find the missing letter in the series\nDFI, KMP, ?, YAD",
+    "options_en": [
+      "QSV",
+      "RTW",
+      "SUX",
+      "RTV"
+    ],
+    "explanation_en": "The first letter of each group adds +7 (D->K->R->Y). Similarly within group +2, +3 add up (R->T->W)."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nABC, FGH, LMN, ?",
+    "options": [
+      "IJK",
+      "OPQ",
+      "RST",
+      "STU"
+    ],
+    "correct": 3,
+    "explanation": "தொடர்ச்சியான 3 எழுத்துக்கள். முதல் எழுத்துக்கள் C இலிருந்து F (+3), H இலிருந்து L (+4), N இலிருந்து S (+5) என கூடுகின்றன.",
+    "question_en": "Find the missing letter in the series\nABC, FGH, LMN, ?",
+    "options_en": [
+      "IJK",
+      "OPQ",
+      "RST",
+      "STU"
+    ],
+    "explanation_en": "3 characters in a row. First letters add from C to F (+3), H to L (+4), N to S (+5)."
+  },
+  {
+    "id": 16,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nM3, O5, R7, T9, W11, ?",
+    "options": [
+      "Z13",
+      "X13",
+      "Y13",
+      "X15"
+    ],
+    "correct": 2,
+    "explanation": "எழுத்துக்கள்: M(+2)O(+3)R(+2)T(+3)W(+2)Y. எண்கள்: 3, 5, 7, 9, 11, 13 (அடுத்தடுத்த ஒற்றை எண்கள்).",
+    "question_en": "Find the missing letter in the series\nM3, O5, R7, T9, W11, ?",
+    "options_en": [
+      "Z13",
+      "X13",
+      "Y13",
+      "X15"
+    ],
+    "explanation_en": "Letters: M(+2)O(+3)R(+2)T(+3)W(+2)Y. Numbers: 3, 5, 7, 9, 11, 13 (consecutive odd numbers)."
+  },
+  {
+    "id": 17,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nB, E, I, N, T, ?",
+    "options": [
+      "Z",
+      "A",
+      "Y",
+      "G"
+    ],
+    "correct": 1,
+    "explanation": "எழுத்துக்களின் நிலைகள் +3, +4, +5, +6, +7 என கூடுகின்றன. T(20) + 7 = 27 (அதாவது 26+1 = A).",
+    "question_en": "Find the missing letter in the series\nB, E, I, N, T, ?",
+    "options_en": [
+      "Z",
+      "A",
+      "Y",
+      "G"
+    ],
+    "explanation_en": "Character levels add up to +3, +4, +5, +6, +7. T(20) + 7 = 27 (ie 26+1 = A)."
+  },
+  {
+    "id": 18,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nD-16, F-36, H-64, ?",
+    "options": [
+      "I-81",
+      "I-100",
+      "J-81",
+      "J-100"
+    ],
+    "correct": 3,
+    "explanation": "எழுத்துக்களின் எண்ணுக்கு இணையான வர்க்கம்: D(4)->16, F(6)->36, H(8)->64. அடுத்தது J(10)->100.",
+    "question_en": "Find the missing letter in the series\nD-16, F-36, H-64, ?",
+    "options_en": [
+      "I-81",
+      "I-100",
+      "J-81",
+      "J-100"
+    ],
+    "explanation_en": "Class corresponding to number of letters: D(4)->16, F(6)->36, H(8)->64. Next is J(10)->100."
+  },
+  {
+    "id": 19,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nDZ, EY, FX, GW, ?",
+    "options": [
+      "HV",
+      "HU",
+      "IT",
+      "IR"
+    ],
+    "correct": 0,
+    "explanation": "முதல் எழுத்து +1 கூடுகிறது (D, E, F, G, H). இரண்டாம் எழுத்து -1 குறைகிறது (Z, Y, X, W, V).",
+    "question_en": "Find the missing letter in the series\nDZ, EY, FX, GW, ?",
+    "options_en": [
+      "HV",
+      "HU",
+      "IT",
+      "IR"
+    ],
+    "explanation_en": "First letter adds +1 (D, E, F, G, H). The second character decreases by -1 (Z, Y, X, W, V)."
+  },
+  {
+    "id": 20,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nKJI, MLK, ONM, ?, SRQ, UTS",
+    "options": [
+      "PQR",
+      "QOP",
+      "QPO",
+      "ONP"
+    ],
+    "correct": 2,
+    "explanation": "ஒவ்வொரு குழுவும் பின்னோக்கிய 3 எழுத்துக்கள். முதல் எழுத்துக்கள் K(+2)M(+2)O(+2)Q.",
+    "question_en": "Find the missing letter in the series\nKJI, MLK, ONM, ?, SRQ, UTS",
+    "options_en": [
+      "PQR",
+      "QOP",
+      "QPO",
+      "ONP"
+    ],
+    "explanation_en": "Each group is 3 letters backwards. First characters are K(+2)M(+2)O(+2)Q."
+  },
+  {
+    "id": 21,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nDEF, HIJ, MNO, ?",
+    "options": [
+      "RST",
+      "RTV",
+      "STU",
+      "TUV"
+    ],
+    "correct": 2,
+    "explanation": "தொடர்ச்சியான 3 எழுத்துக்கள். ஒவ்வொரு குழுவின் முதல் எழுத்தும் முறையே +4, +5, +6 கூடுகிறது (D, H, M, S).",
+    "question_en": "Find the missing letter in the series\nDEF, HIJ, MNO, ?",
+    "options_en": [
+      "RST",
+      "RTV",
+      "STU",
+      "TUV"
+    ],
+    "explanation_en": "3 characters in a row. ஒவ்வொரு குழுவின் முதல் எழுத்தும் முறையே +4, +5, +6 கூடுகிறது (D, H, M, S)."
+  },
+  {
+    "id": 22,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nAZ, BY, CX, DW, ?",
+    "options": [
+      "EV",
+      "VE",
+      "EU",
+      "FW"
+    ],
+    "correct": 0,
+    "explanation": "முதல் எழுத்து +1 கூடுகிறது (A, B, C, D, E). இரண்டாம் எழுத்து -1 குறைகிறது (Z, Y, X, W, V).",
+    "question_en": "Find the missing letter in the series\nAZ, BY, CX, DW, ?",
+    "options_en": [
+      "EV",
+      "VE",
+      "EU",
+      "FW"
+    ],
+    "explanation_en": "First letter adds +1 (A, B, C, D, E). The second character decreases by -1 (Z, Y, X, W, V)."
+  },
+  {
+    "id": 23,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nA, D, I, P, ?",
+    "options": [
+      "Y",
+      "W",
+      "U",
+      "X"
+    ],
+    "correct": 0,
+    "explanation": "எழுத்துக்களின் நிலைகள் +3, +5, +7, +9 என கூடுகின்றன. P(16) + 9 = 25 (Y).",
+    "question_en": "Find the missing letter in the series\nA, D, I, P, ?",
+    "options_en": [
+      "Y",
+      "W",
+      "U",
+      "X"
+    ],
+    "explanation_en": "Character levels stack up to +3, +5, +7, +9. P(16) + 9 = 25 (Y)."
+  },
+  {
+    "id": 24,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nY, J, X, K, W, L, V, M, ?, ?",
+    "options": [
+      "N, U",
+      "W, O",
+      "U, N",
+      "O,U"
+    ],
+    "correct": 2,
+    "explanation": "இரண்டு தொடர்கள்: Y, X, W, V, U (-1) மற்றும் J, K, L, M, N (+1).",
+    "question_en": "Find the missing letter in the series\nY, J, X, K, W, L, V, M, ?, ?",
+    "options_en": [
+      "N, U",
+      "W, O",
+      "U,N",
+      "O,U"
+    ],
+    "explanation_en": "Two series: Y, X, W, V, U (-1) and J, K, L, M, N (+1)."
+  },
+  {
+    "id": 25,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nAB, DEF, HIJK, ?, STUVWX",
+    "options": [
+      "LMNOPQ",
+      "LMNOP",
+      "MNOPQ",
+      "QRSTU"
+    ],
+    "correct": 2,
+    "explanation": "குழுக்களில் உள்ள எழுத்துக்களின் எண்ணிக்கை 2, 3, 4, 5, 6. ஒவ்வொரு குழுவிற்கும் இடையே ஒரு எழுத்து விடுபட்டுள்ளது (C, G, L, R விடுபட்டுள்ளன). விடை MNOPQ.",
+    "question_en": "Find the missing letter in the series\nAB, DEF, HIJK, ?, STUVWX",
+    "options_en": [
+      "LMNOPQ",
+      "LMNOP",
+      "MNOPQ",
+      "QRSTU"
+    ],
+    "explanation_en": "Number of letters in groups is 2, 3, 4, 5, 6. One letter is missing between each group (C, G, L, R are missing). Answer is MNOPQ."
+  },
+  {
+    "id": 26,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nY, S, W, V, ?, ?, S, B, Q, E",
+    "options": [
+      "U, V",
+      "U, Y",
+      "S, E",
+      "Y,T"
+    ],
+    "correct": 1,
+    "explanation": "இரண்டு தொடர்கள்: Y, W, U, S, Q (-2) மற்றும் S, V, Y, B, E (+3).",
+    "question_en": "Find the missing letter in the series\nY, S, W, V, ?, ?, S, B, Q, E",
+    "options_en": [
+      "U, V",
+      "U, Y",
+      "S, E",
+      "Y,T"
+    ],
+    "explanation_en": "Two series: Y, W, U, S, Q (-2) and S, V, Y, B, E (+3)."
+  },
+  {
+    "id": 27,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nA, K, E, O, I, S, ?, ?, Q, U",
+    "options": [
+      "I, V",
+      "M, W",
+      "N, X",
+      "I, W"
+    ],
+    "correct": 1,
+    "explanation": "இரண்டு தொடர்கள்: A, E, I, M, Q (+4) மற்றும் K, O, S, W, (A) (+4).",
+    "question_en": "Find the missing letter in the series\nA, K, E, O, I, S, ?, ?, Q, U",
+    "options_en": [
+      "I, V",
+      "M,W",
+      "N, X",
+      "I,W"
+    ],
+    "explanation_en": "Two series: A, E, I, M, Q (+4) and K, O, S, W, (A) (+4)."
+  },
+  {
+    "id": 28,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nA Z, C X, E V, ?",
+    "options": [
+      "GS",
+      "HT",
+      "GT",
+      "HU"
+    ],
+    "correct": 2,
+    "explanation": "முதல் எழுத்து +2 கூடுகிறது (A, C, E, G). இரண்டாம் எழுத்து -2 குறைகிறது (Z, X, V, T).",
+    "question_en": "Find the missing letter in the series\nA Z, C X, E V, ?",
+    "options_en": [
+      "GS",
+      "HT",
+      "GT",
+      "HU"
+    ],
+    "explanation_en": "First letter adds +2 (A, C, E, G). Second character decreases -2 (Z, X, V, T)."
+  },
+  {
+    "id": 29,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nX, U, R, O, L, ?",
+    "options": [
+      "M",
+      "J",
+      "K",
+      "I"
+    ],
+    "correct": 3,
+    "explanation": "எழுத்துக்களின் நிலைகள் -3 என குறைகின்றன (X(24), U(21), R(18), O(15), L(12), I(9)).",
+    "question_en": "Find the missing letter in the series\nX, U, R, O, L, ?",
+    "options_en": [
+      "M",
+      "J",
+      "K",
+      "I"
+    ],
+    "explanation_en": "Character positions decrease to -3 (X(24), U(21), R(18), O(15), L(12), I(9))."
+  },
+  {
+    "id": 30,
+    "question": "கீழ்காணும் தொடரில் சரியாகப் பொருந்தக்கூடிய எழுத்துக்களை காண்க.\nKPA, LQB, MRC, NSD, ?",
+    "options": [
+      "TOE",
+      "ETO",
+      "OET",
+      "OTE"
+    ],
+    "correct": 3,
+    "explanation": "முதல் எழுத்துக்கள்: K, L, M, N, O. இரண்டாம் எழுத்துக்கள்: P, Q, R, S, T. மூன்றாம் எழுத்துக்கள்: A, B, C, D, E. விடை OTE.",
+    "question_en": "Find the missing letter in the series\nKPA, LQB, MRC, NSD, ?",
+    "options_en": [
+      "TOE",
+      "ETO",
+      "OET",
+      "OTE"
+    ],
+    "explanation_en": "First letters: K, L, M, N, O. Second letters: P, Q, R, S, T. Third letters: A, B, C, D, E. Answer is OTE."
+  }
+]

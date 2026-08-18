@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "question": "பள்ளி, ஆசிரியர்கள், மாணவர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "E"
+    ],
+    "correct": 2,
+    "explanation": "பள்ளி என்ற தொகுதியினுள் ஆசிரியர்கள், மாணவர்கள் என்னும் இருவேறான தொகுதிகள் அமைந்துள்ளன. (படம் B)",
+    "question_en": "School, teachers, students",
+    "options_en": [
+      "C",
+      "D",
+      "B",
+      "E"
+    ],
+    "explanation_en": "There are two different blocks namely teachers and students within the block called school. (Figure B)"
+  },
+  {
+    "id": 2,
+    "question": "பயணியர், இரயில், பேருந்து",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "D",
+      "E",
+      "A",
+      "C"
+    ],
+    "correct": 2,
+    "explanation": "பயணியர் என்ற தொகுதியானது இரயில், பேருந்து பயணிகள் என்னும் தொகுதிகளுடன் பகுதியளவில் தொடர்பில் உள்ளது. (படம் A)",
+    "question_en": "Commuter, train, bus",
+    "options_en": [
+      "D",
+      "E",
+      "A",
+      "C"
+    ],
+    "explanation_en": "The passenger block is partially related to the rail and bus passenger blocks. (Figure A)"
+  },
+  {
+    "id": 3,
+    "question": "பெண்கள், தாய்மார்கள், பொறியாளர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "D",
+      "E",
+      "H",
+      "G"
+    ],
+    "correct": 3,
+    "explanation": "பெண்கள் என்ற தொகுதிக்குள் தாய்மார்கள் அனைவரும் அடங்கியுள்ளனர். பொறியாளர்கள் என்ற தொகுதியானது பகுதியளவில் தொடர்பில் உள்ளது. (படம் G)",
+    "question_en": "Women, mothers, engineers",
+    "options_en": [
+      "D",
+      "E",
+      "H",
+      "G"
+    ],
+    "explanation_en": "All mothers are included in the category of women. The block of Engineers is partially related. (Figure G)"
+  },
+  {
+    "id": 4,
+    "question": "எழுத்தாளர்கள், வக்கீல்கள், பாடகர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "D",
+      "F",
+      "H"
+    ],
+    "correct": 1,
+    "explanation": "வக்கீல்கள், பாடகர்கள், எழுத்தாளர்கள் - மூன்றும் ஒன்றுடன் ஒன்று பகுதியளவு தொடர்பு உடையவை. (படம் D)",
+    "question_en": "Writers, lawyers, singers",
+    "options_en": [
+      "A",
+      "D",
+      "F",
+      "H"
+    ],
+    "explanation_en": "Lawyers, singers, writers - all three are partially related to each other. (Figure D)"
+  },
+  {
+    "id": 5,
+    "question": "தாவரங்கள், உணவுப்பொருள்கள், விலங்குகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "correct": 3,
+    "explanation": "தாவரங்கள், விலங்குகள் - இரு வேறான தொகுதிகள். இவை இரண்டும் உணவுப்பொருள்கள் என்ற தொகுதியுடன் பகுதியளவில் தொடர்பில் உள்ளன. (படம் A)",
+    "question_en": "Plants, Foods, Animals",
+    "options_en": [
+      "B",
+      "C",
+      "D",
+      "A"
+    ],
+    "explanation_en": "Plants, animals - two separate blocks. Both of these are partially related to the category of foodstuffs. (Figure A)"
+  },
+  {
+    "id": 6,
+    "question": "ஆங்கிலம், தமிழ், இந்தி",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "F",
+      "A",
+      "E",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "ஆங்கிலம், தமிழ், இந்தி - மூன்றுக்கும் எவ்வித தொடர்பும் இல்லை. (படம் E)",
+    "question_en": "English, Tamil, Hindi",
+    "options_en": [
+      "F",
+      "A",
+      "E",
+      "D"
+    ],
+    "explanation_en": "English, Tamil, Hindi - the three have nothing to do with each other. (Figure E)"
+  },
+  {
+    "id": 7,
+    "question": "புவி, காற்று, நீர்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "F",
+      "B",
+      "A",
+      "G"
+    ],
+    "correct": 1,
+    "explanation": "புவி என்ற தொகுதிக்குள் நீர், காற்று இரு வேறான தொகுதிகளாக உள்ளன. (படம் B)",
+    "question_en": "Earth, air, water",
+    "options_en": [
+      "F",
+      "B",
+      "A",
+      "G"
+    ],
+    "explanation_en": "Water and air are two different blocks within the block called earth. (Figure B)"
+  },
+  {
+    "id": 8,
+    "question": "தமிழ்நாடு, ஆந்திரப்பிரதேசம், மத்தியப்பிரதேசம்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "E",
+      "D",
+      "A",
+      "C"
+    ],
+    "correct": 0,
+    "explanation": "தமிழ்நாடு, ஆந்திரப்பிரதேசம், மத்தியப்பிரதேசம் - மூன்றுக்கும் எவ்வித தொடர்பும் இல்லை. (படம் E)",
+    "question_en": "Tamil Nadu, Andhra Pradesh, Madhya Pradesh",
+    "options_en": [
+      "E",
+      "D",
+      "A",
+      "C"
+    ],
+    "explanation_en": "Tamil Nadu, Andhra Pradesh, Madhya Pradesh - all three have nothing to do with each other. (Figure E)"
+  },
+  {
+    "id": 9,
+    "question": "நீர், மீன்கள், தவளைகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "A",
+      "G",
+      "F"
+    ],
+    "correct": 3,
+    "explanation": "தவளைகள், மீன்கள் - இரு வேறான தொகுதிகள். இவை இரண்டும் நீர் என்ற தொகுதியுடன் தொடர்பில் உள்ளன. (படம் F)",
+    "question_en": "Water, fish, frogs",
+    "options_en": [
+      "C",
+      "A",
+      "G",
+      "F"
+    ],
+    "explanation_en": "Frogs, fishes - two different blocks. Both of these are related to the element water. (Figure F)"
+  },
+  {
+    "id": 10,
+    "question": "ரோஜாக்கள், சிவப்பு, உடைகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "B",
+      "H",
+      "C"
+    ],
+    "correct": 0,
+    "explanation": "சிவப்பு என்ற தொகுதியுடன் ரோஜாக்கள், உடைகள் பகுதியளவில் தொடர்பில் உள்ளன. (படம் A)",
+    "question_en": "Roses, red, clothes",
+    "options_en": [
+      "A",
+      "B",
+      "H",
+      "C"
+    ],
+    "explanation_en": "Roses and clothes are partially associated with the block red. (Figure A)"
+  },
+  {
+    "id": 11,
+    "question": "உலகம், கண்டங்கள், நாடுகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "F",
+      "C",
+      "E"
+    ],
+    "correct": 2,
+    "explanation": "உலகம் என்ற தொகுதியினுள் கண்டங்கள், கண்டங்களுள் நாடுகள் அமைந்துள்ளன. (படம் C)",
+    "question_en": "World, Continents, Countries",
+    "options_en": [
+      "B",
+      "F",
+      "C",
+      "E"
+    ],
+    "explanation_en": "Continents are located within the world and countries are located within the continents. (Figure C)"
+  },
+  {
+    "id": 12,
+    "question": "பாலூட்டி, மயில், ஆடு",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "I",
+      "A",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "பாலூட்டி என்ற தொகுதிக்குள் ஆடு அமைந்துள்ளது. மயில் எவ்வித தொடர்புமின்றி உள்ளது. (படம் I)",
+    "question_en": "Mammal, Peacock, Goat",
+    "options_en": [
+      "I",
+      "A",
+      "D",
+      "E"
+    ],
+    "explanation_en": "Goat is located within the category of Mammals. Peacock is unrelated. (Figure I)"
+  },
+  {
+    "id": 13,
+    "question": "விகிதமுறு எண்கள், முழு எண்கள், இயல் எண்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "D",
+      "A",
+      "E",
+      "C"
+    ],
+    "correct": 3,
+    "explanation": "விகிதமுறு எண்கள் தொகுதிக்குள் முழு எண்கள், அதனுள் இயல் எண்கள் உள்ளன. (படம் C)",
+    "question_en": "Rational numbers, integers, natural numbers",
+    "options_en": [
+      "D",
+      "A",
+      "E",
+      "C"
+    ],
+    "explanation_en": "Rational numbers contain integers within the block, and natural numbers within it. (Figure C)"
+  },
+  {
+    "id": 14,
+    "question": "பேனா, ஆடைகள், சட்டை",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "E",
+      "I",
+      "D",
+      "A"
+    ],
+    "correct": 1,
+    "explanation": "ஆடைகள் என்ற தொகுதிக்குள் சட்டை அமைந்துள்ளது. பேனா எவ்வித தொடர்புமின்றி உள்ளது. (படம் I)",
+    "question_en": "Pen, clothes, shirt",
+    "options_en": [
+      "E",
+      "I",
+      "D",
+      "A"
+    ],
+    "explanation_en": "T-shirt is located in the clothing category. The pen is non-contact. (Figure I)"
+  },
+  {
+    "id": 15,
+    "question": "பின்னம், தகுபின்னம், தகாபின்னம்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "A",
+      "C",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "பின்னம் என்ற தொகுதியினுள் தகுபின்னம், தகாபின்னம் என இரு வேறான தொகுதிகள் உள்ளன. (படம் B)",
+    "question_en": "Fraction, Fraction, Fraction",
+    "options_en": [
+      "B",
+      "A",
+      "C",
+      "E"
+    ],
+    "explanation_en": "Within the module called fraction there are two different modules namely Takupinnam and Tagapinnam. (Figure B)"
+  },
+  {
+    "id": 16,
+    "question": "பெண்கள், விரிவுரையாளர்கள், பொறியாளர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "F",
+      "D",
+      "A",
+      "C"
+    ],
+    "correct": 2,
+    "explanation": "பெண்கள், விரிவுரையாளர்கள், பொறியாளர்கள் - மூன்றும் ஒன்றுடன் ஒன்று பகுதியளவு தொடர்பு உடையவை. (படம் A)",
+    "question_en": "Women, Lecturers, Engineers",
+    "options_en": [
+      "F",
+      "D",
+      "A",
+      "C"
+    ],
+    "explanation_en": "Women, lecturers, engineers - all three are partially related to each other. (Figure A)"
+  },
+  {
+    "id": 17,
+    "question": "ஆண், பெண், மருத்துவர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "D",
+      "G",
+      "B"
+    ],
+    "correct": 3,
+    "explanation": "மருத்துவர்கள் என்ற தொகுதியானது ஆண், பெண் என்ற இரு வேறு தொகுதிகளுடன் பகுதியளவில் தொடர்பில் உள்ளது. (படம் B)",
+    "question_en": "Men, women, doctors",
+    "options_en": [
+      "A",
+      "D",
+      "G",
+      "B"
+    ],
+    "explanation_en": "The category Doctors is partially related to two other categories male and female. (Figure B)"
+  },
+  {
+    "id": 18,
+    "question": "பாலூட்டி, பசு, பறவைகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "F",
+      "D",
+      "C",
+      "I"
+    ],
+    "correct": 3,
+    "explanation": "பாலூட்டி என்ற தொகுதிக்குள் பசு அமைந்துள்ளது. பறவைகள் எவ்வித தொடர்புமின்றி உள்ளது. (படம் I)",
+    "question_en": "Mammals, cows, birds",
+    "options_en": [
+      "F",
+      "D",
+      "C",
+      "I"
+    ],
+    "explanation_en": "Cow is located within the block called Mammal. Birds have no connection. (Figure I)"
+  },
+  {
+    "id": 19,
+    "question": "விளையாட்டு, நீச்சல், யோகா",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "I",
+      "E",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "விளையாட்டு என்ற தொகுதியானது நீச்சல், யோகா என்ற இரு வேறு தொகுதிகளுடன் தொடர்பில் உள்ளது. (படம் I)",
+    "question_en": "Sports, swimming, yoga",
+    "options_en": [
+      "B",
+      "I",
+      "E",
+      "D"
+    ],
+    "explanation_en": "The Sports module is linked to two other modules namely Swimming and Yoga. (Figure I)"
+  },
+  {
+    "id": 20,
+    "question": "காற்றாற்றல், மின்னாற்றல், அணுக்கரு ஆற்றல்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "D",
+      "A",
+      "G",
+      "F"
+    ],
+    "correct": 1,
+    "explanation": "காற்றாற்றல், மின்னாற்றல், அணுக்கரு ஆற்றல் - மூன்றுக்கும் எவ்வித தொடர்பும் இல்லை. (படம் A. விளக்கம் A என்று தரப்பட்டுள்ளது, ஆனால் மூன்றுக்கும் தொடர்பற்றது E ஆகும். எனினும் புத்தகக் குறிப்பு A என கொடுக்கப்பட்டுள்ளது.)",
+    "question_en": "Wind power, electric power, nuclear power",
+    "options_en": [
+      "D",
+      "A",
+      "G",
+      "F"
+    ],
+    "explanation_en": "Wind power, electric power, nuclear power - the three have nothing to do with each other. (Figure A. Explanation is given as A, but unrelated to all three is E. However bibliography is given as A.)"
+  },
+  {
+    "id": 21,
+    "question": "மேசைகள், நாற்காலிகள், மரச்சாமான்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "E",
+      "C",
+      "B"
+    ],
+    "correct": 0,
+    "explanation": "மரச்சாமான்கள் என்ற தொகுதிக்குள் மேசைகள், நாற்காலிகள் இரு வேறான தொகுதிகளாக அடங்கும். (படம் A. புத்தகத்தில் A எனக் குறிப்பிடப்பட்டாலும் B என்பதே சரியானது. புத்தக விடை A.)",
+    "question_en": "Tables, chairs, furniture",
+    "options_en": [
+      "A",
+      "E",
+      "C",
+      "B"
+    ],
+    "explanation_en": "Tables and chairs fall under the category of furniture as two separate categories. (Figure A. Book says A but B is correct. Book answer is A.)"
+  },
+  {
+    "id": 22,
+    "question": "பேராசிரியர்கள், படைப்பாளர்கள், சிங்கங்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "H",
+      "G",
+      "A",
+      "B"
+    ],
+    "correct": 0,
+    "explanation": "பேராசிரியர்கள், படைப்பாளர்கள் பகுதியளவு தொடர்பில் உள்ளனர். சிங்கங்கள் எவ்வித தொடர்புமின்றி உள்ளது. (படம் H)",
+    "question_en": "Professors, creators, lions",
+    "options_en": [
+      "H",
+      "G",
+      "A",
+      "B"
+    ],
+    "explanation_en": "Professors, creators are partially connected. Lions are unrelated. (Figure H)"
+  },
+  {
+    "id": 23,
+    "question": "விலங்குகள், நரிகள், ஓநாய்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "விலங்குகள் என்ற தொகுதிக்குள் நரிகள், ஓநாய்கள் என இரு வேறான தொகுதிகள் உள்ளன. (படம் B)",
+    "question_en": "Animals, foxes, wolves",
+    "options_en": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation_en": "Within the category Animals there are two separate categories Foxes and Wolves. (Figure B)"
+  },
+  {
+    "id": 24,
+    "question": "மருத்துவர்கள், தாய்மார்கள், செவிலியர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "H",
+      "F",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "மருத்துவர்கள், செவிலியர்கள் இரு வேறு தொகுதிகள். இவை தாய்மார்களுடன் பகுதியளவு தொடர்பில் உள்ளன. (படம் A)",
+    "question_en": "Doctors, mothers, nurses",
+    "options_en": [
+      "A",
+      "H",
+      "F",
+      "E"
+    ],
+    "explanation_en": "Doctors and nurses are two different blocks. These are partially related to mothers. (Figure A)"
+  },
+  {
+    "id": 25,
+    "question": "சுறா, பறவைகள், கிளி",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "H",
+      "B",
+      "I",
+      "C"
+    ],
+    "correct": 2,
+    "explanation": "பறவைகள் என்ற தொகுதிக்குள் கிளி அமைந்துள்ளது. சுறா எவ்வித தொடர்புமின்றி உள்ளது. (படம் I)",
+    "question_en": "Shark, birds, parrot",
+    "options_en": [
+      "H",
+      "B",
+      "I",
+      "C"
+    ],
+    "explanation_en": "Parrot is located in the Birds section. The shark is unrelated. (Figure I)"
+  },
+  {
+    "id": 26,
+    "question": "பலகோணங்கள், நாற்கரங்கள், சதுரங்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "B",
+      "H",
+      "I"
+    ],
+    "correct": 0,
+    "explanation": "பலகோணங்கள் என்ற தொகுதிக்குள் நாற்கரங்கள், அதனுள் சதுரங்கள் அமைந்துள்ளன. (படம் C)",
+    "question_en": "Polygons, Quadrilaterals, Squares",
+    "options_en": [
+      "C",
+      "B",
+      "H",
+      "I"
+    ],
+    "explanation_en": "Quadrilaterals are contained within a block called polygons, and squares within that. (Figure C)"
+  },
+  {
+    "id": 27,
+    "question": "மாணவர்கள், கபடி வீரர்கள், கிரிக்கெட் வீரர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "explanation": "மாணவர்கள், கபடி வீரர்கள், கிரிக்கெட் வீரர்கள் - மூன்றும் ஒன்றுடன் ஒன்று பகுதியளவு தொடர்பு உடையவை. (படம் D)",
+    "question_en": "Students, kabaddi players, cricketers",
+    "options_en": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation_en": "Students, kabaddi players, cricketers - all three are partially related to each other. (Figure D)"
+  },
+  {
+    "id": 28,
+    "question": "பள்ளி, மேசைகள், வகுப்பறை",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "G",
+      "C",
+      "E"
+    ],
+    "correct": 2,
+    "explanation": "பள்ளி என்ற தொகுதியினுள் வகுப்பறை, அதனுள் மேசைகள் அமைந்துள்ளன. (படம் C)",
+    "question_en": "School, desks, classroom",
+    "options_en": [
+      "B",
+      "G",
+      "C",
+      "E"
+    ],
+    "explanation_en": "Inside the block called school are classrooms and desks. (Figure C)"
+  },
+  {
+    "id": 29,
+    "question": "தலைமை ஆசிரியர்கள், அறிவியல் ஆசிரியர்கள், ஆய்வக உதவியாளர்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "G",
+      "H",
+      "A",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "பகுதியளவு தொடர்புள்ள இரு தொகுதிகள் மற்றும் ஒன்று தொடர்பற்றது. (படம் H)",
+    "question_en": "Head Teachers, Science Teachers, Laboratory Assistants",
+    "options_en": [
+      "G",
+      "H",
+      "A",
+      "D"
+    ],
+    "explanation_en": "Two blocks are partially connected and one is disconnected. (Figure H)"
+  },
+  {
+    "id": 30,
+    "question": "ரோஜாக்கள், பூக்கள், ஆப்பிள்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "H",
+      "I",
+      "A",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "பூக்கள் என்ற தொகுதிக்குள் ரோஜாக்கள் அமைந்துள்ளது. ஆப்பிள்கள் எவ்வித தொடர்புமின்றி உள்ளது. (படம் I)",
+    "question_en": "Roses, flowers, apples",
+    "options_en": [
+      "H",
+      "I",
+      "A",
+      "D"
+    ],
+    "explanation_en": "Roses are located within the category Flowers. Apples have nothing to do with it. (Figure I)"
+  },
+  {
+    "id": 31,
+    "question": "மஞ்சள் நிறம், சூரிய காந்தி, மல்லிகை",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "F",
+      "I",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "மஞ்சள் நிறம் என்ற தொகுதியுடன் சூரிய காந்தி பகுதியளவு தொடர்பில் உள்ளது. மல்லிகை தொடர்பற்றது. (படம் I)",
+    "question_en": "Yellow color, sun shine, jasmine",
+    "options_en": [
+      "A",
+      "F",
+      "I",
+      "D"
+    ],
+    "explanation_en": "Sunlight is partially related to the yellow color module. Jasmine is unrelated. (Figure I)"
+  },
+  {
+    "id": 32,
+    "question": "வெள்ளீயம், பெட்ரோல், பிளாட்டினம்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "A",
+      "E",
+      "I"
+    ],
+    "correct": 2,
+    "explanation": "வெள்ளீயம், பெட்ரோல், பிளாட்டினம் - மூன்றுக்கும் எவ்வித தொடர்பும் இல்லை. (படம் E)",
+    "question_en": "Silver, Petrol, Platinum",
+    "options_en": [
+      "B",
+      "A",
+      "E",
+      "I"
+    ],
+    "explanation_en": "Silver, petrol, platinum - the three have nothing to do with each other. (Figure E)"
+  },
+  {
+    "id": 33,
+    "question": "ஆசியா, இந்தியா, தார் பாலைவனம்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "A",
+      "B",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "ஆசியா என்ற தொகுதியினுள் இந்தியா, அதனுள் தார் பாலைவனம் அமைந்துள்ளன. (படம் C)",
+    "question_en": "Asia, India, Thar Desert",
+    "options_en": [
+      "C",
+      "A",
+      "B",
+      "E"
+    ],
+    "explanation_en": "India and the Thar Desert are located within the block called Asia. (Figure C)"
+  },
+  {
+    "id": 34,
+    "question": "அறிவியல், உளவியல், இயற்பியல்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "D",
+      "A",
+      "H"
+    ],
+    "correct": 0,
+    "explanation": "அறிவியல் என்ற தொகுதிக்குள் இயற்பியல், உளவியல் அடங்கும். (படம் B)",
+    "question_en": "Science, Psychology, Physics",
+    "options_en": [
+      "B",
+      "D",
+      "A",
+      "H"
+    ],
+    "explanation_en": "Science includes physics and psychology. (Figure B)"
+  },
+  {
+    "id": 35,
+    "question": "பெண்கள், தாய்மார்கள், விதவைகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "G"
+    ],
+    "correct": 3,
+    "explanation": "பெண்கள் என்ற தொகுதிக்குள் தாய்மார்கள், விதவைகள் அமைந்துள்ளனர். (படம் G)",
+    "question_en": "Women, mothers, widows",
+    "options_en": [
+      "A",
+      "B",
+      "C",
+      "G"
+    ],
+    "explanation_en": "Mothers and widows are placed under the category of women. (Figure G)"
+  },
+  {
+    "id": 36,
+    "question": "காரட், உணவு, காய்கறிகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "D",
+      "C",
+      "E",
+      "I"
+    ],
+    "correct": 1,
+    "explanation": "உணவு என்ற தொகுதிக்குள் காய்கறிகள், அதனுள் காரட் அமைந்துள்ளன. (படம் C)",
+    "question_en": "Carrots, food, vegetables",
+    "options_en": [
+      "D",
+      "C",
+      "E",
+      "I"
+    ],
+    "explanation_en": "Vegetables are located within the food category, and carrots are located within it. (Figure C)"
+  },
+  {
+    "id": 37,
+    "question": "கடல், தீவுகள், பாலைவனங்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "I",
+      "G",
+      "B",
+      "A"
+    ],
+    "correct": 0,
+    "explanation": "கடல் என்ற தொகுதிக்குள் தீவுகள் அமைந்துள்ளன. பாலைவனங்கள் தொடர்பற்றவை. (படம் I)",
+    "question_en": "Seas, islands, deserts",
+    "options_en": [
+      "I",
+      "G",
+      "B",
+      "A"
+    ],
+    "explanation_en": "Islands are located within a block called ocean. Deserts are unrelated. (Figure I)"
+  },
+  {
+    "id": 38,
+    "question": "திமிங்கலங்கள், மீன்கள், முதலைகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "D",
+      "E",
+      "C",
+      "F"
+    ],
+    "correct": 1,
+    "explanation": "திமிங்கலங்கள், மீன்கள், முதலைகள் - மூன்றுக்கும் எவ்வித தொடர்பும் இல்லை. (படம் E)",
+    "question_en": "Whales, fish, crocodiles",
+    "options_en": [
+      "D",
+      "E",
+      "C",
+      "F"
+    ],
+    "explanation_en": "Whales, fish, crocodiles - the three have nothing to do with each other. (Figure E)"
+  },
+  {
+    "id": 39,
+    "question": "திருடர்கள், குற்றவாளிகள், நீதிபதிகள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "B",
+      "I",
+      "C"
+    ],
+    "correct": 2,
+    "explanation": "குற்றவாளிகள் என்ற தொகுதிக்குள் திருடர்கள் அடங்குவர். நீதிபதிகள் எவ்வித தொடர்புமின்றி உள்ளனர். (படம் I)",
+    "question_en": "Thieves, criminals, judges",
+    "options_en": [
+      "A",
+      "B",
+      "I",
+      "C"
+    ],
+    "explanation_en": "Criminals include thieves. Judges are out of touch. (Figure I)"
+  },
+  {
+    "id": 40,
+    "question": "கட்டிடம், செங்கல், பாலம்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "A",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "explanation": "செங்கல் என்ற தொகுதியுடன் கட்டிடம், பாலம் பகுதியளவில் தொடர்பில் உள்ளன. (படம் A)",
+    "question_en": "Building, brick, bridge",
+    "options_en": [
+      "C",
+      "A",
+      "D",
+      "E"
+    ],
+    "explanation_en": "The building and the bridge are partially connected to the brick block. (Figure A)"
+  },
+  {
+    "id": 41,
+    "question": "புரோட்டான்கள், எலக்ட்ரான்கள், அணுக்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "அணுக்கள் என்ற தொகுதியினுள் புரோட்டான்கள், எலக்ட்ரான்கள் அமைந்துள்ளன. (படம் B)",
+    "question_en": "Protons, electrons, atoms",
+    "options_en": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation_en": "Atoms are made up of protons and electrons. (Figure B)"
+  },
+  {
+    "id": 42,
+    "question": "பாலூட்டிகள், யானைகள், டைனசார்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "E",
+      "F",
+      "A",
+      "I"
+    ],
+    "correct": 3,
+    "explanation": "பாலூட்டிகள் என்ற தொகுதிக்குள் யானைகள் அமைந்துள்ளன. டைனசார்கள் எவ்வித தொடர்புமின்றி உள்ளன. (படம் I)",
+    "question_en": "Mammals, elephants, dinosaurs",
+    "options_en": [
+      "E",
+      "F",
+      "A",
+      "I"
+    ],
+    "explanation_en": "Elephants fall under the category Mammals. Dinosaurs are unrelated. (Figure I)"
+  },
+  {
+    "id": 43,
+    "question": "மரம், கிளை, இலை",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "E",
+      "H",
+      "G"
+    ],
+    "correct": 0,
+    "explanation": "மரம் என்ற தொகுதியினுள் கிளை, அதனுள் இலை அமைந்துள்ளன. (படம் C)",
+    "question_en": "Tree, branch, leaf",
+    "options_en": [
+      "C",
+      "E",
+      "H",
+      "G"
+    ],
+    "explanation_en": "Within the block called tree are branches and leaves within it. (Figure C)"
+  },
+  {
+    "id": 44,
+    "question": "பூக்கள், மல்லிகை, வாழைப்பழம்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "I",
+      "A",
+      "C",
+      "G"
+    ],
+    "correct": 0,
+    "explanation": "பூக்கள் என்ற தொகுதிக்குள் மல்லிகை அமைந்துள்ளது. வாழைப்பழம் எவ்வித தொடர்புமின்றி உள்ளது. (படம் I)",
+    "question_en": "Flowers, jasmine, banana",
+    "options_en": [
+      "I",
+      "A",
+      "C",
+      "G"
+    ],
+    "explanation_en": "Jasmine is located within the category of flowers. Bananas are unrelated. (Figure I)"
+  },
+  {
+    "id": 45,
+    "question": "மாவட்டம், மண்டலம், கிராமம்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "மண்டலம் என்ற தொகுதியினுள் மாவட்டம், அதனுள் கிராமம் அமைந்துள்ளன. (படம் C)",
+    "question_en": "District, Mandal, Village",
+    "options_en": [
+      "C",
+      "D",
+      "B",
+      "E"
+    ],
+    "explanation_en": "Districts and villages are located within a block called Mandal. (Figure C)"
+  },
+  {
+    "id": 46,
+    "question": "மருத்துவர்கள், படைப்பாளர்கள், பெண்கள்",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "explanation": "மருத்துவர்கள், படைப்பாளர்கள், பெண்கள் - மூன்றும் ஒன்றுடன் ஒன்று பகுதியளவு தொடர்பு உடையவை. (படம் A)",
+    "question_en": "Doctors, creators, women",
+    "options_en": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation_en": "Doctors, creators, women - all three are partially related to each other. (Figure A)"
+  },
+  {
+    "id": 47,
+    "question": "விலங்குகள், பூச்சிகள், கரப்பான் பூச்சி",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "A",
+      "G",
+      "B",
+      "E"
+    ],
+    "correct": 2,
+    "explanation": "விலங்குகள் என்ற தொகுதியினுள் பூச்சிகள், அதனுள் கரப்பான் பூச்சி அமைந்துள்ளன. (படம் B அல்லது C - புத்தக விடை B என தரப்பட்டுள்ளது)",
+    "question_en": "Animals, insects, cockroaches",
+    "options_en": [
+      "A",
+      "G",
+      "B",
+      "E"
+    ],
+    "explanation_en": "Insects, including cockroaches, belong to the category of animals. (Figure B or C - book answer given as B)"
+  },
+  {
+    "id": 48,
+    "question": "தாய், தந்தை, குழந்தை",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "C",
+      "D",
+      "B",
+      "E"
+    ],
+    "correct": 3,
+    "explanation": "தாய், தந்தை, குழந்தை - மூன்றுக்கும் எவ்வித தொடர்பும் இல்லை. (படம் E)",
+    "question_en": "Mother, Father, Child",
+    "options_en": [
+      "C",
+      "D",
+      "B",
+      "E"
+    ],
+    "explanation_en": "Mother, father, child - there is no connection between the three. (Figure E)"
+  },
+  {
+    "id": 49,
+    "question": "நட்சத்திரம், சூரியன், நிலா",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "E",
+      "F",
+      "G",
+      "I"
+    ],
+    "correct": 3,
+    "explanation": "நட்சத்திரம் என்ற தொகுதிக்குள் சூரியன் அமைந்துள்ளது. நிலா எவ்வித தொடர்புமின்றி உள்ளது. (படம் I)",
+    "question_en": "Star, Sun, Moon",
+    "options_en": [
+      "E",
+      "F",
+      "G",
+      "I"
+    ],
+    "explanation_en": "Sun is located within a block called Nakshatra. Nila has no contact. (Figure I)"
+  },
+  {
+    "id": 50,
+    "question": "நகைகள், தங்கம், வெள்ளி என்பதைக் குறிக்கும் பொருத்தமான படம் எது?",
+    "image": "image/unit8/q1-50.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "நகைகள் என்ற தொகுதியுடன் தங்கம், வெள்ளி பகுதியளவில் தொடர்பில் உள்ளன. (படம் A / 2)",
+    "question_en": "Which is the appropriate picture representing jewels, gold, silver?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Gold and silver are partially associated with the category of jewellery. (Figure A/2)"
+  }
+]

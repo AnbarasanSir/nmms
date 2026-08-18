@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Quiz, Question, StudentAttempt } from '../types';
-import { findAuthorizedStudent, AuthorizedStudent } from '../data/students';
+import { findAuthorizedStudent } from '../data/students';
 import { requestFullscreen } from '../utils/fullscreen';
-import { fetchJson } from '../utils/api';
 import { 
   GraduationCap, 
   ArrowRight, 
@@ -62,9 +61,10 @@ export const StudentEntry: React.FC<StudentEntryProps> = ({
 
   // Fetch updated student roster on mount
   useEffect(() => {
-    fetchJson<{ students: AuthorizedStudent[] }>('/api/students/roster')
+    fetch('/api/students/roster')
+      .then((res) => res.json())
       .then((data) => {
-        if (data && data.students && Array.isArray(data.students)) {
+        if (data.students && Array.isArray(data.students)) {
           setStudentRoster(data.students);
         }
       })
@@ -143,19 +143,15 @@ export const StudentEntry: React.FC<StudentEntryProps> = ({
 
     try {
       // Query server for verification and attempts on this specific quiz
-      const data = await fetchJson<{
-        authorized: boolean;
-        error?: string;
-        student?: AuthorizedStudent;
-        allAttempts?: StudentAttempt[];
-        latestAttempt?: StudentAttempt;
-      }>(
+      const res = await fetch(
         `/api/students/verify?examNumber=${encodeURIComponent(cleanNumber)}&quizId=${encodeURIComponent(currentQuiz.id)}`
       );
+      
+      const data = await res.json();
 
-      if (!data || data.authorized === false) {
+      if (!res.ok || data.authorized === false) {
         setErrorMsg(
-          data?.error || 'அங்கீகரிக்கப்படாத தேர்வு எண்! பதிவு செய்யப்பட்ட NMMS மாணவர்கள் மட்டுமே தேர்வெழுத அனுமதிக்கப்படுவர்.'
+          data.error || 'அங்கீகரிக்கப்படாத தேர்வு எண்! பதிவு செய்யப்பட்ட NMMS மாணவர்கள் மட்டுமே தேர்வெழுத அனுமதிக்கப்படுவர்.'
         );
         setIsVerifying(false);
         return;

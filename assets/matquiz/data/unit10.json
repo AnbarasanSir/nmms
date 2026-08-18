@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில், ‘dom pul ta’ என்பது ‘bring hot food’ எனவும் ‘pul tir sop’ என்பது ‘food is good’ எனவும் ‘tak da sop’ என்பது ‘good bright boy’ எனவும் குறியிடப்பட்டால், ‘food’ என்பதை குறிக்கும் குறியீடு.",
+    "options": [
+      "dom",
+      "pul",
+      "tir",
+      "sop"
+    ],
+    "correct": 1,
+    "explanation": "(1), (2) ல் pul, food பொதுவாக உள்ளது. எனவே, pul = food",
+    "question_en": "In a particular code language, if 'dom pul ta' is coded as 'bring hot food', 'pul tir sop' is coded as 'food is good' and 'tak da sop' is coded as 'good bright boy', then the code for 'food' is.",
+    "options_en": [
+      "dom",
+      "pul",
+      "tir",
+      "sop"
+    ],
+    "explanation_en": "In (1), (2) pul, food is common. Hence, pul = food"
+  },
+  {
+    "id": 2,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் ‘tom kun sud’ என்பது ‘Dogs are barking’ எனவும் ‘kun jo mop’ என்பது ‘Dogs and horses’ எனவும் ‘mut tom ko’ என்பது ‘donkeys are mad’ எனவும் குறியிடப்பட்டால் ‘barking’ என்பதன் குறியீடு",
+    "options": [
+      "sud",
+      "kum",
+      "jo",
+      "tom"
+    ],
+    "correct": 0,
+    "explanation": "kun = Dogs ; tom = are என்பதால், sud = barking.",
+    "question_en": "In a particular code language 'tom kun sud' is coded for 'Dogs are barking', 'kun jo mop' is coded for 'Dogs and horses' and 'mut tom ko' is coded for 'donkeys are mad'.",
+    "options_en": [
+      "sud",
+      "kum",
+      "Jo",
+      "Tom"
+    ],
+    "explanation_en": "kun = Dogs ; Since tom = are, sud = barking."
+  },
+  {
+    "id": 3,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் “col tip mot” என்பது “singing is appreciable” எனவும் “ mot baj min” என்பது “ dancing is good” எனவும் “tip nop baj” என்பது “ singing and dancing” எனவும் குறியிடப்பட்டால், “ good “ என்பதன் குறியீடு",
+    "options": [
+      "not",
+      "min",
+      "baj",
+      "col"
+    ],
+    "correct": 1,
+    "explanation": "mot = is ; baj = dancing என்பதால், min = good.",
+    "question_en": "If in a particular code language “col tip mot” is coded for “singing is appreciable”, “mot baj min” is coded for “dancing is good” and “tip nop baj” is coded for “singing and dancing”, the code for “good” is",
+    "options_en": [
+      "not",
+      "Min",
+      "baj",
+      "col"
+    ],
+    "explanation_en": "mot = is ; Since baj = dancing, min = good."
+  },
+  {
+    "id": 4,
+    "question": "ஒரு குறிப்பிட்ட மொழியில் கலம் - I ல் உள்ள வாக்கியத்தில் காணப்படும் வார்த்தைகளுக்கு கலம் II ல் வாக்கியங்களில் காணப்படும் வார்த்தைகளாக குறியீடு செய்யப்பட்டுள்ளது. ஆனால் அவற்றின் உள்ள வார்த்தைகள் அதே வரிசையில் அமைக்கப்பட்டிருக்காது. “ what you like” என்னும் வாக்கியம் எவ்வாறு குறியீடு செய்யப்பட்டுள்ளது என்பதை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.\nகலம் - I : what was it, you go, you like it, she was sick\nகலம் - II : lee ra de, mo nil, nil pom ra, tok lee fo",
+    "options": [
+      "nil ra lee",
+      "pom nil ra",
+      "pom ra lee",
+      "de nil pom"
+    ],
+    "correct": 3,
+    "explanation": "was = lee ; it = ra என்பதால், what = de. you = nil ; it = ra என்பதால், like = pom. எனவே what you like = de nil pom.",
+    "question_en": "In a particular language words found in sentences in cell - I are coded as words found in sentences in cell II. But the words in them are not arranged in the same order. Choose from the alternative answers how the sentence “what you like” is coded.\nKalam - I : what was it, you go, you like it, she was sick\nCell - II : lee ra de, mo nil, nil pom ra, tok lee fo",
+    "options_en": [
+      "nil ra lee",
+      "pom nil ra",
+      "pom ra lee",
+      "de nil pom"
+    ],
+    "explanation_en": "was = lee ; Since it = ra, what = de. you = nil ; Since it = ra, like = pom. So what you like = de nil pom."
+  },
+  {
+    "id": 5,
+    "question": "‘buy good orange’ என்பது ‘ BDG’ எனவும், ‘Distribute good orange’ என்பது ‘BCD’ எனவும், ‘orange are red’ என்பது ‘BEF’ குறியிடப்பட்டால், ‘Red’ என்பதற்கான குறியீடு.",
+    "options": [
+      "B",
+      "B or E",
+      "B or F",
+      "E or F"
+    ],
+    "correct": 3,
+    "explanation": "orange = B. எனவே red = E or F.",
+    "question_en": "'buy good orange' is 'BDG', 'distribute good orange' is 'BCD' and 'orange are red' is coded for 'BEF', code for 'Red'.",
+    "options_en": [
+      "B",
+      "B or E",
+      "B or F",
+      "E or F"
+    ],
+    "explanation_en": "orange = B. So red = E or F."
+  },
+  {
+    "id": 6,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் ‘247’ என்பது ‘Spread red carpet’, என்பதையும், ‘236’ என்பது ‘Dust one carpet’, என்பதையும், ‘234’ என்பது ‘One red carpet’ எனவும் குறியிடப்பட்டால், ‘dust’ என்ற வார்த்தையைக் குறிக்கும் குறியீடு யாது?",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "கூற இயலாது"
+    ],
+    "correct": 2,
+    "explanation": "2 = carpet ; 3 = one என்பதால், 6 = Dust.",
+    "question_en": "If '247' is coded for 'Spread red carpet', '236' is coded for 'Dust one carpet' and '234' is coded for 'One red carpet', then what code represents the word 'dust' in a particular code language?",
+    "options_en": [
+      "2",
+      "3",
+      "6",
+      "Can't say"
+    ],
+    "explanation_en": "2 = carpet; Since 3 = one, 6 = Dust."
+  },
+  {
+    "id": 7,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் ‘253’ என்பது ‘books are old’ என்பதையும் ‘546’ என்பது ‘man is old’ என்பதையும், ‘378’ என்பது ‘buy good books’ என்பதையும் குறித்தால், ‘are’ என்பதன் குறியீடு",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "5 = old ; 3 = books என்பதால், 2 = are.",
+    "question_en": "If in a particular code language '253' stands for 'books are old', '546' stands for 'man is old' and '378' stands for 'buy good books', then the code for 'are'",
+    "options_en": [
+      "2",
+      "5",
+      "3",
+      "8"
+    ],
+    "explanation_en": "5 = old; Since 3 = books, 2 = are."
+  },
+  {
+    "id": 8,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் ‘256’ என்பது ‘red color chalk’ என்பதையும், ‘589’ என்பது ‘green color chalk’ என்பதையும், குறித்தால் ‘245’ என்பது ‘white color chalk’ என்பதையும் குறித்தால், ‘white’ என்பதைக் குறிக்கும் எண் ?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "5 = colour ; 2 = chalk என்பதால், 4 = white.",
+    "question_en": "If in a certain code language '256' stands for 'red color chalk', '589' stands for 'green color chalk' and '245' stands for 'white color chalk', then what number stands for 'white'?",
+    "options_en": [
+      "2",
+      "5",
+      "4",
+      "6"
+    ],
+    "explanation_en": "5 = color ; Since 2 = chalk, 4 = white."
+  },
+  {
+    "id": 9,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் ‘sky’ என்பது ‘sea’ எனவும், ‘sea’ என்பது ‘water’ எனவும், ‘water’ என்பது ‘air’ எனவும், ‘air’ என்பது ‘cloud’ எனவும், ‘cloud’ என்பது ‘river’ எனவும் அழைக்கப்பட்டால், நாம் தாகம் எடுக்கும்போது அருந்துவது என்ன?",
+    "options": [
+      "Sky",
+      "Air",
+      "Water",
+      "Sea"
+    ],
+    "correct": 1,
+    "explanation": "நாம் தாகம் எடுக்கும்போது அருந்துவது water. ஆனால் இங்கு water என்பது air என குறியிடப்பட்டுள்ளது. எனவே, air என்பதே வினாவிற்கு உரிய விடையாகும்.",
+    "question_en": "If in a certain symbolic language 'sky' is called 'sea', 'sea' is called 'water', 'water' is called 'air', 'air' is called 'cloud', and 'cloud' is called 'river', what do we drink when we are thirsty?",
+    "options_en": [
+      "Sky",
+      "Air",
+      "Water",
+      "Sea"
+    ],
+    "explanation_en": "When we are thirsty we drink water. But here water is coded as air. So, air is the correct answer to the question."
+  },
+  {
+    "id": 10,
+    "question": "‘water’ என்பது ‘blue’ எனவும், ‘blue’ என்பது ‘red’ எனவும், ‘red’ என்பது ‘white’ எனவும், ‘white’ என்பது ‘sky’ எனவும், ‘sky’ என்பது ‘rain’ எனவும், ‘rain’ என்பது ‘green’ எனவும், ‘green’ என்பது ‘air’ எனவும் அழைக்கப்பட்டால், பாலின் நிறம் என்ன ?",
+    "options": [
+      "white",
+      "green",
+      "sky",
+      "Rain"
+    ],
+    "correct": 2,
+    "explanation": "பாலின் நிறம் white. ஆனால் இங்கு white என்பது sky என குறியிடப்பட்டுள்ளது. எனவே, sky என்பதே வினாவிற்கு உரிய விடையாகும்.",
+    "question_en": "If 'water' is called 'blue', 'blue' is called 'red', 'red' is called 'white', 'white' is called 'sky', 'sky' is called 'rain', 'rain' is called 'green', and 'green' is called 'air', what is the color of milk?",
+    "options_en": [
+      "white",
+      "green",
+      "sky",
+      "Rain"
+    ],
+    "explanation_en": "The color of milk is white. But here white is coded as sky. So, sky is the correct answer to the question."
+  },
+  {
+    "id": 11,
+    "question": "‘cloud’ என்பதை ‘white’ எனவும், ‘white’ என்பதை ‘rain’ எனவும், ‘rain’ என்பதை ‘green’ எனவும், ‘green’ என்பதை ‘sky’ எனவும் ‘sky’ என்பதை ‘blue’ எனவும் ‘blue’ என்பதை water எனவும் அழைக்கப்பட்டால், பறவைகள் பறக்கும் இடம்......",
+    "options": [
+      "sky",
+      "white",
+      "cloud",
+      "blue"
+    ],
+    "correct": 3,
+    "explanation": "பறவைகள் பறக்கும் இடம் sky. ஆனால் இங்கு sky என்பது blue என குறியிடப்பட்டுள்ளது. எனவே, blue என்பதே வினாவிற்கு உரிய விடையாகும்.",
+    "question_en": "If 'cloud' is called 'white', 'white' is called 'rain', 'rain' is called 'green', 'green' is called 'sky', 'sky' is called 'blue' and 'blue' is called water, the place where birds fly...",
+    "options_en": [
+      "sky",
+      "white",
+      "cloud",
+      "blue"
+    ],
+    "explanation_en": "Sky is where birds fly. But here sky is coded as blue. So, blue is the correct answer to the question."
+  },
+  {
+    "id": 12,
+    "question": "engineer’ என்பதை ‘doctor’ எனவும், ‘doctor’ என்பதை ‘farmer’ எனவும், ‘farmer’ என்பதை ‘teacher’ எனவும், ‘teacher’ என்பதை ‘social reformer’ எனவும், ‘social reformer’ என்பதை ‘technician எனவும் அழைத்தால், நீங்கள் உடல் நலம் குன்றியிருக்கும் போது யாரிடம் சென்று சிகிச்சை செய்வீர்கள் ?",
+    "options": [
+      "doctor",
+      "farmer",
+      "Teacher",
+      "technician"
+    ],
+    "correct": 1,
+    "explanation": "நாம் உடல் நலம் குன்றியிருக்கும் போது doctor-ரிடம் சென்று சிகிச்சை செய்வோம். ஆனால் இங்கு doctor என்பது farmer என குறியிடப்பட்டுள்ளது. எனவே, farmer என்பதே வினாவிற்கு உரிய விடையாகும்.",
+    "question_en": "If 'engineer' is called 'doctor', 'doctor' is called 'farmer', 'farmer' is called 'teacher', 'teacher' is called 'social reformer', and 'social reformer' is called 'technician', who will you go to for treatment when you are ill?",
+    "options_en": [
+      "doctor",
+      "Farmer",
+      "Teacher",
+      "technician"
+    ],
+    "explanation_en": "When we are sick, we go to the doctor for treatment. But here doctor is coded as farmer. So, farmer is the correct answer to the question."
+  },
+  {
+    "id": 13,
+    "question": "‘ant’ என்பது ‘tiger’ எனவும், ‘tiger’ என்பது cheetah’ எனவும், ‘cheetah’ என்பது ‘monkey’ எனவும், ‘monkey’ என்பது ‘dog’ எனவும், ‘dog’ என்பது ‘snake’ எனவும், ‘snake’ என்பது ‘ladybug’ எனவும் அழைக்கப்பட்டால் செல்லப் பிராணியாக வளர்க்கப்படுவது.",
+    "options": [
+      "monkey",
+      "dog",
+      "lady bug",
+      "snake"
+    ],
+    "correct": 3,
+    "explanation": "செல்லப் பிராணியாக வளர்க்கப்படுவது dog. ஆனால், இங்கு dog என்பது snake என குறியிடப்பட்டுள்ளது. எனவே, snake என்பதே வினாவிற்கு உரிய விடையாகும்.",
+    "question_en": "If 'ant' is called 'tiger', 'tiger' is called cheetah, 'cheetah' is called 'monkey', 'monkey' is called 'dog', 'dog' is called 'snake', and 'snake' is called 'ladybug'.",
+    "options_en": [
+      "monkey",
+      "dog",
+      "lady bug",
+      "snake"
+    ],
+    "explanation_en": "A dog is kept as a pet. But here dog is coded as snake. So, snake is the correct answer to the question."
+  },
+  {
+    "id": 14,
+    "question": "ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo) எனில், MOST என்பதன் குறியீடு என்ன?",
+    "options": [
+      "sacw",
+      "swac",
+      "swca",
+      "acws"
+    ],
+    "correct": 0,
+    "explanation": "M = s/a ; O = s/a ; S = c/w ; T = c/w. (விடை sacw).",
+    "question_en": "If ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo), what is the code for MOST?",
+    "options_en": [
+      "sacw",
+      "swac",
+      "swca",
+      "acws"
+    ],
+    "explanation_en": "M = s/a ; O = s/a ; S = c/w ; T = c/w. (Answer sacw)."
+  },
+  {
+    "id": 15,
+    "question": "ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo) எனில், GOAL என்பதன் குறியீடு என்ன?",
+    "options": [
+      "apmg",
+      "mgpa",
+      "agpm",
+      "pamy"
+    ],
+    "correct": 3,
+    "explanation": "G = p/z ; O = s/a ; A = m ; L = g/l/y. (விடை pamy).",
+    "question_en": "If ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo), what is the code for GOAL?",
+    "options_en": [
+      "apmg",
+      "mgpa",
+      "agpm",
+      "pamy"
+    ],
+    "explanation_en": "G = p/z ; O = s/a ; A = m ; L = g/l/y. (Answer pamy)."
+  },
+  {
+    "id": 16,
+    "question": "ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo) எனில், PIETY என்பதன் குறியீடு என்ன?",
+    "options": [
+      "owqyf",
+      "gqowf",
+      "fowyq",
+      "qowyf"
+    ],
+    "correct": 1,
+    "explanation": "P = g/l/y ; I = q ; E = o ; T = c/w ; Y = f. (விடை gqowf).",
+    "question_en": "If ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo), what is the code for PIETY?",
+    "options_en": [
+      "owqyf",
+      "gqowf",
+      "fowyq",
+      "qowyf"
+    ],
+    "explanation_en": "P = g/l/y ; I = q ; E = o ; T = c/w ; Y = f. (Answer gqowf)."
+  },
+  {
+    "id": 17,
+    "question": "ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo) எனில், CARD என்பதன் குறியீடு என்ன?",
+    "options": [
+      "mnkx",
+      "kxmn",
+      "nmxk",
+      "xkmn"
+    ],
+    "correct": 2,
+    "explanation": "C = n ; A = m ; R = x ; D = k. (விடை nmxk).",
+    "question_en": "If ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo), then what is the code of CARD?",
+    "options_en": [
+      "mnkx",
+      "kxmn",
+      "nmxk",
+      "xkmn"
+    ],
+    "explanation_en": "C = n ; A = m ; R = x ; D = k. (Answer nmxk)."
+  },
+  {
+    "id": 18,
+    "question": "ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo) எனில், NICE என்பதன் குறியீடு என்ன?",
+    "options": [
+      "zonq",
+      "qnoz",
+      "onzq",
+      "zqno"
+    ],
+    "correct": 3,
+    "explanation": "N = z/p ; I = q ; C = n ; E = o. (விடை zqno).",
+    "question_en": "If ACRE(omnx), STUDY(dwkfc), RUST(cxwd), MANGO(szpma), GARDEN(kpzxmo), PUBLIC(ngqlyd), DEVICE(okvnqo), what is the code for NICE?",
+    "options_en": [
+      "zonq",
+      "qnoz",
+      "onzq",
+      "zqno"
+    ],
+    "explanation_en": "N = z/p ; I = q ; C = n ; E = o. (Answer zqno)."
+  },
+  {
+    "id": 19,
+    "question": "கலம் I ல் கொடுக்கப்பட்ட வார்த்தைகளுக்கு உரிய குறியீடுகள் கலம் II ல் அதே வரிசையில் கொடுக்கப்பட்டுள்ளது. GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ) எனில், FIRE என்பதன் குறியீடு என்ன?",
+    "options": [
+      "# φ & ∈",
+      "# ! $ @",
+      "& # ® ∈",
+      "# ® & ∈"
+    ],
+    "correct": 3,
+    "explanation": "கலம் I ல் உள்ள வார்த்தைகளுக்கு உரிய குறியீடுகள் கலம் II ல் அதே வரிசையில் கொடுக்கப்பட்டுள்ளதால், F=#, I=®, R=&, E=∈. எனவே # ® & ∈.",
+    "question_en": "The corresponding symbols for the words given in column I are given in column II in the same order. If GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ), what is the code for FIRE?",
+    "options_en": [
+      "# φ & ∈",
+      "# ! $ @",
+      "& # ® ∈",
+      "# ® & ∈"
+    ],
+    "explanation_en": "Since the symbols corresponding to the words in cell I are given in the same order as in cell II, F=#, I=®, R=&, E=∈. Hence # ® & ∈."
+  },
+  {
+    "id": 20,
+    "question": "GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ) எனில், GOAT என்பதன் குறியீடு என்ன?",
+    "options": [
+      "+ ! % ?",
+      "∈ % $ +",
+      "% ! + ?",
+      "% ! ? +"
+    ],
+    "correct": 2,
+    "explanation": "G=%, O=!, A=+, T=?. எனவே % ! + ?.",
+    "question_en": "If GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ), what is the code for GOAT?",
+    "options_en": [
+      "+ ! % ?",
+      "∈ % $ +",
+      "% ! + ?",
+      "% ! ? +"
+    ],
+    "explanation_en": "G=%, O=!, A=+, T=?. So % ! + ?."
+  },
+  {
+    "id": 21,
+    "question": "GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ) எனில், REVISE என்பதன் குறியீடு என்ன?",
+    "options": [
+      "& ∈ μ © ∈ $",
+      "& $ μ © $ ∈",
+      "# © μ ! ® ©",
+      "& ∈ μ ® © ∈"
+    ],
+    "correct": 3,
+    "explanation": "R=&, E=∈, V=μ, I=®, S=©, E=∈. எனவே & ∈ μ ® © ∈.",
+    "question_en": "If GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ), what is the code for REVISE?",
+    "options_en": [
+      "& ∈ μ © ∈ $",
+      "& $ μ © $ ∈",
+      "# © μ ! ® ©",
+      "& ∈ μ ® © ∈"
+    ],
+    "explanation_en": "R=&, E=∈, V=μ, I=®, S=©, E=∈. Hence & ∈ μ ® © ∈."
+  },
+  {
+    "id": 22,
+    "question": "GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ) எனில், ? & ∈ + ? என்பது குறிக்கும் வார்த்தை என்ன?",
+    "options": [
+      "TREAT",
+      "TRADE",
+      "LEAST",
+      "LEAVE"
+    ],
+    "correct": 0,
+    "explanation": "?=T, &=R, ∈=E, +=A, ?=T. எனவே TREAT.",
+    "question_en": "IF GOLF(%!@#), RADIO(&+$®!), TENNIS(?∈φφ®©), VISION(μ®©®!φ), ? & ∈ + ? What does the word mean?",
+    "options_en": [
+      "TREAT",
+      "TRADE",
+      "LEAST",
+      "LEAVE"
+    ],
+    "explanation_en": "?=T, &=R, ∈=E, +=A, ?=T. So TREAT."
+  },
+  {
+    "id": 23,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் வார்த்தைகளுக்கு உரிய குறியீடுகள் கொடுக்கப்பட்டுள்ளது. (ஆனால், அதே வரிசையில் இல்லை). BAR(jdp), SOAP(zvrj), CAN(tjg), POUR(dxrz), NEVER(tqbdq) எனில், SAD (SAV) என்பதன் குறியீடு என்ன?",
+    "options": [
+      "v j b",
+      "j v d",
+      "v i e",
+      "j v z"
+    ],
+    "correct": 0,
+    "explanation": "S=v, A=j, V=b. (புத்தகத்தில் SAD என வினாவில் கொடுத்து SAV க்கான விடை vjb தரப்பட்டுள்ளது).",
+    "question_en": "Words in a particular code language are given appropriate symbols. (But not in the same order). If BAR(jdp), SOAP(zvrj), CAN(tjg), POUR(dxrz), NEVER(tqbdq), what is the code for SAD (SAV)?",
+    "options_en": [
+      "v j b",
+      "j v d",
+      "v i e",
+      "j v z"
+    ],
+    "explanation_en": "S=v, A=j, V=b. (In the book SAD is given in the question and the answer for SAV is given as vjb)."
+  },
+  {
+    "id": 24,
+    "question": "BAR(jdp), SOAP(zvrj), CAN(tjg), POUR(dxrz), NEVER(tqbdq) எனில், REVEAL என்பதன் குறியீடு என்ன?",
+    "options": [
+      "d q b q j m",
+      "d q q b m j",
+      "d q b q m j",
+      "q d b q j m"
+    ],
+    "correct": 0,
+    "explanation": "R=d, E=q, V=b, E=q, A=j, L=m. எனவே d q b q j m.",
+    "question_en": "If BAR(jdp), SOAP(zvrj), CAN(tjg), POUR(dxrz), NEVER(tqbdq), what is the code for REVEAL?",
+    "options_en": [
+      "d q b q j m",
+      "d q q b m j",
+      "d q b q m j",
+      "q d b q j m"
+    ],
+    "explanation_en": "R=d, E=q, V=b, E=q, A=j, L=m. Hence d q b q j m."
+  },
+  {
+    "id": 25,
+    "question": "BAR(jdp), SOAP(zvrj), CAN(tjg), POUR(dxrz), NEVER(tqbdq) எனில், BORN என்பதன் குறியீடு என்ன?",
+    "options": [
+      "d r p t",
+      "t r p d",
+      "p r t d",
+      "p r d t"
+    ],
+    "correct": 3,
+    "explanation": "B=p, O=r, R=d, N=t. எனவே p r d t.",
+    "question_en": "If BAR(jdp), SOAP(zvrj), CAN(tjg), POUR(dxrz), NEVER(tqbdq), what is the code for BORN?",
+    "options_en": [
+      "d r p t",
+      "t r p d",
+      "p r t d",
+      "p r d t"
+    ],
+    "explanation_en": "B=p, O=r, R=d, N=t. So p r d t."
+  }
+]

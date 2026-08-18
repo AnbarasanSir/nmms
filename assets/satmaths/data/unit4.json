@@ -1,0 +1,3922 @@
+[
+    {
+        "id": 240,
+        "question": "(-2)^{-7}= ________.",
+        "options": [
+            "14",
+            "1 / 128",
+            "1 / -14",
+            "-1 / 128"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): −1 / 128",
+        "question_en": "(-2)^{-7}= ________.",
+        "options_en": [
+            "14",
+            "1 / 128",
+            "1 / -14",
+            "-1 / 128"
+        ],
+        "explanation_en": "The correct answer is Option (4): −1 / 128"
+    },
+    {
+        "id": 241,
+        "question": "(\\frac{-1}{3})^{-5} = ________.",
+        "options": [
+            "243",
+            "-243",
+            "15",
+            "-15"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): −243",
+        "question_en": "(\\frac{-1}{3})^{-5} = ________.",
+        "options_en": [
+            "243",
+            "-243",
+            "15",
+            "-15"
+        ],
+        "explanation_en": "The correct answer is Option (2): −243"
+    },
+    {
+        "id": 242,
+        "question": "\\( 8^x = \\frac{1}{64} \\) எனில் 𝑥 இன் மதிப்பு ________.",
+        "options": [
+            "8",
+            "-8",
+            "2",
+            "-2"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): −2",
+        "question_en": "\\( 8^x = \\frac{1}{64} \\) then the value of x is ________.",
+        "options_en": [
+            "8",
+            "-8",
+            "2",
+            "-2"
+        ],
+        "explanation_en": "The correct answer is Option (4): −2"
+    },
+    {
+        "id": 243,
+        "question": "\\( (256)^{-1/4} \\times 4^2 \\) இன் சுருங்கிய  டைிவம் ________.",
+        "options": [
+            "1 / 4",
+            "-1 / 4",
+            "4",
+            "-4"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 4",
+        "question_en": "\\( (256)^{-1/4} \\times 4^2 \\) ________.",
+        "options_en": [
+            "1 / 4",
+            "-1 / 4",
+            "4",
+            "-4"
+        ],
+        "explanation_en": "The correct answer is Option (3): 4"
+    },
+    {
+        "id": 244,
+        "question": "\\( (3^7)^{-2} \\)= ________.",
+        "options": [
+            "35",
+            "3^{-14}",
+            "21^{-2}",
+            "314"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3−14",
+        "question_en": "\\( (3^7)^{-2} \\)= ________.",
+        "options_en": [
+            "35",
+            "3^{-14}",
+            "21^{-2}",
+            "314"
+        ],
+        "explanation_en": "The correct answer is Option (2): 3−14"
+    },
+    {
+        "id": 245,
+        "question": "2\\times 10^{-4} இன் திட்டடைிவம்  ________.",
+        "options": [
+            "0.002",
+            "0.00002",
+            "0.0002",
+            "2000"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 0.0002",
+        "question_en": "2\\times 10^{-4} ________.",
+        "options_en": [
+            "0.002",
+            "0.00002",
+            "0.0002",
+            "2000"
+        ],
+        "explanation_en": "The correct answer is Option (3): 0.0002"
+    },
+    {
+        "id": 246,
+        "question": "(\\frac{-7}{2})^{-1}  இன் மதிப்பு ________.",
+        "options": [
+            "-1",
+            "7 / 2",
+            "-2 / 7",
+            "-7 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −1",
+        "question_en": "(\\frac{-7}{2})^{-1} value of ________.",
+        "options_en": [
+            "-1",
+            "7 / 2",
+            "-2 / 7",
+            "-7 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): −1"
+    },
+    {
+        "id": 247,
+        "question": "கீழ்க்கண்டவற்றுள்  எது அறிவியல்  குறியீடு டைிவில்  உள்ளது?",
+        "options": [
+            "1.26\\times 10^{-5} மீ",
+            "15.75\\times 103 கி.மீ.",
+            "0.18\\times 10^{-7} கி.மீ.",
+            "0.0013\\times 10^{-8} கி.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1.26×10−5 மீ",
+        "question_en": "?",
+        "options_en": [
+            "1.26\\times 10^{-5}",
+            "15.75\\times 103 ..",
+            "0.18\\times 10^{-7} ..",
+            "0.0013\\times 10^{-8} .."
+        ],
+        "explanation_en": "The correct answer is Option (1): 1.26×10−5 மீ"
+    },
+    {
+        "id": 248,
+        "question": "1 4^{-2} இன் மதிப்பு ________.",
+        "options": [
+            "16",
+            "8",
+            "1 / 16",
+            "1 / 8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 16",
+        "question_en": "1 4^{-2} value of ________.",
+        "options_en": [
+            "16",
+            "8",
+            "1 / 16",
+            "1 / 8"
+        ],
+        "explanation_en": "The correct answer is Option (1): 16"
+    },
+    {
+        "id": 249,
+        "question": "\\( 5^p = \\)625 எனில் \\( 5^p = \\) ________.",
+        "options": [
+            "20",
+            "4",
+            "625",
+            "25"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 20",
+        "question_en": "\\( 5^p = \\)625 if \\( 5^p = \\) ________.",
+        "options_en": [
+            "20",
+            "4",
+            "625",
+            "25"
+        ],
+        "explanation_en": "The correct answer is Option (1): 20"
+    },
+    {
+        "id": 250,
+        "question": "\\( 3^5 \\div 3^{-6} \\)= ________.",
+        "options": [
+            "35",
+            "3^{-6}",
+            "311",
+            "3^{-11}"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 35",
+        "question_en": "\\( 3^5 \\div 3^{-6} \\)= ________.",
+        "options_en": [
+            "35",
+            "3^{-6}",
+            "311",
+            "3^{-11}"
+        ],
+        "explanation_en": "The correct answer is Option (1): 35"
+    },
+    {
+        "id": 251,
+        "question": "சூரியனானது  புளுட்டைா  வகாளிலி ருந்து 5913000000 கி.மீ. தாலைவில்  உள்ளது. தானலவை  அறிவியல்  குறியீட்டில்  எழுது.",
+        "options": [
+            "5.913\\times 10^{-11}",
+            "5.913\\times 10^{-9}",
+            "5.913\\times 10^6",
+            "5.913\\times 10^9"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5.913×10−11",
+        "question_en": "5913000000 .. . .",
+        "options_en": [
+            "5.913\\times 10^{-11}",
+            "5.913\\times 10^{-9}",
+            "5.913\\times 10^6",
+            "5.913\\times 10^9"
+        ],
+        "explanation_en": "The correct answer is Option (1): 5.913×10−11"
+    },
+    {
+        "id": 252,
+        "question": "20 ஆம் நூற்றாண்டின்  முடிவில்  உலகின்  மக்கள் தாகை வதாராயமாக  6.125\\times 10^9 எனில்  மக்கள் தாகைவய  திட்டடைிவில்  எழுது.",
+        "options": [
+            "6.125\\times 10^{10}",
+            "6125000000",
+            "612500000",
+            "61250000"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 6.125×1010",
+        "question_en": "20 6.125\\times 10^9 if .",
+        "options_en": [
+            "6.125\\times 10^{10}",
+            "6125000000",
+            "612500000",
+            "61250000"
+        ],
+        "explanation_en": "The correct answer is Option (1): 6.125×1010"
+    },
+    {
+        "id": 253,
+        "question": "[\\( (\\frac{7}{10^9})^0 \\) ]100 = ________.",
+        "options": [
+            "0",
+            "7",
+            "1",
+            "7 / 109"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "[\\( (\\frac{7}{10^9})^0 \\) ]100 = ________.",
+        "options_en": [
+            "0",
+            "7",
+            "1",
+            "7 / 109"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 254,
+        "question": "\\( (\\frac{17}{9})^{-1/2} \\)= ________.",
+        "options": [
+            "4 / 3",
+            "3 / 4",
+            "-4 / 3",
+            "-3 / 4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4 / 3",
+        "question_en": "\\( (\\frac{17}{9})^{-1/2} \\)= ________.",
+        "options_en": [
+            "4 / 3",
+            "3 / 4",
+            "-4 / 3",
+            "-3 / 4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4 / 3"
+    },
+    {
+        "id": 255,
+        "question": "\\( 2^h \\times 2^3 = 2^9 \\) எனில் ℎ இன் மதிப்பு ________.",
+        "options": [
+            "3",
+            "6",
+            "8",
+            "12"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "\\( 2^h \\times 2^3 = 2^9 \\) if ℎ value of ________.",
+        "options_en": [
+            "3",
+            "6",
+            "8",
+            "12"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3"
+    },
+    {
+        "id": 256,
+        "question": "(3^0 - 4^0)\\times 5^2= ________.",
+        "options": [
+            "25",
+            "0",
+            "-25",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 25",
+        "question_en": "(3^0 - 4^0)\\times 5^2= ________.",
+        "options_en": [
+            "25",
+            "0",
+            "-25",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (1): 25"
+    },
+    {
+        "id": 257,
+        "question": "(\\( 1^2 \\times 3^0 - 8 \\times 5^0 \\)) இன் மதிப்பு ________.",
+        "options": [
+            "1 / 2",
+            "2",
+            "4",
+            "1 / 4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 / 2",
+        "question_en": "(\\( 1^2 \\times 3^0 - 8 \\times 5^0 \\)) value of ________.",
+        "options_en": [
+            "1 / 2",
+            "2",
+            "4",
+            "1 / 4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 / 2"
+    },
+    {
+        "id": 258,
+        "question": "\\( (-1)^3 \\), \\( (-10)^3 \\), \\( (1)^5 \\) மற்றும் \\( (-1)^4 \\) இதில் மிகச்சிறிய  மதிப்பு ________.",
+        "options": [
+            "15",
+            "\\( (-10)^3 \\)",
+            "\\( (-1)^4 \\)",
+            "\\( (-1)^3 \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 15",
+        "question_en": "\\( (-1)^3 \\), \\( (-10)^3 \\), \\( (1)^5 \\) and \\( (-1)^4 \\) ________.",
+        "options_en": [
+            "15",
+            "\\( (-10)^3 \\)",
+            "\\( (-1)^4 \\)",
+            "\\( (-1)^3 \\)"
+        ],
+        "explanation_en": "The correct answer is Option (1): 15"
+    },
+    {
+        "id": 259,
+        "question": "\\( \\frac{729 \\times 64}{270} \\) இன்  அடுக்குக்குறி  டைிவம் ________.",
+        "options": [
+            "25\\times 34",
+            "25\\times 33 / 5",
+            "25\\times 33 / 5",
+            "26\\times 32 / 52"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 25×34",
+        "question_en": "\\( \\frac{729 \\times 64}{270} \\) ________.",
+        "options_en": [
+            "25\\times 34",
+            "25\\times 33 / 5",
+            "25\\times 33 / 5",
+            "26\\times 32 / 52"
+        ],
+        "explanation_en": "The correct answer is Option (1): 25×34"
+    },
+    {
+        "id": 260,
+        "question": "(-1)101\\times \\( 8^5 \\) \\( 4^7 \\) இன் மதிப்பு ________.",
+        "options": [
+            "2",
+            "-2",
+            "1 / 16",
+            "-1 / 16"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2",
+        "question_en": "(-1)101\\times \\( 8^5 \\) \\( 4^7 \\) value of ________.",
+        "options_en": [
+            "2",
+            "-2",
+            "1 / 16",
+            "-1 / 16"
+        ],
+        "explanation_en": "The correct answer is Option (1): 2"
+    },
+    {
+        "id": 261,
+        "question": "൬(\\frac{1}{3})^{-2} +(\\frac{1}{4})^{-2} ൰\\div (\\frac{1}{5})^{-2}  இன் மதிப்பு ________.",
+        "options": [
+            "0",
+            "-1",
+            "1",
+            "7 / 5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "൬(\\frac{1}{3})^{-2} +(\\frac{1}{4})^{-2} ൰\\div (\\frac{1}{5})^{-2} value of ________.",
+        "options_en": [
+            "0",
+            "-1",
+            "1",
+            "7 / 5"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 262,
+        "question": "751.65 இன் அறிவியல்  குறியீட்டு  டைிவம் ________",
+        "options": [
+            "7.5165\\times 102",
+            "75.165\\times 101",
+            "7.5165\\times 104",
+            "7.51\\times 102"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 7.5165×102",
+        "question_en": "751.65 ________",
+        "options_en": [
+            "7.5165\\times 102",
+            "75.165\\times 101",
+            "7.5165\\times 104",
+            "7.51\\times 102"
+        ],
+        "explanation_en": "The correct answer is Option (1): 7.5165×102"
+    },
+    {
+        "id": 263,
+        "question": "5.658\\times 105 இன் திட்டடைிவம்  ________.",
+        "options": [
+            "5658",
+            "56580",
+            "565800",
+            "5658000"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5658",
+        "question_en": "5.658\\times 105 ________.",
+        "options_en": [
+            "5658",
+            "56580",
+            "565800",
+            "5658000"
+        ],
+        "explanation_en": "The correct answer is Option (1): 5658"
+    },
+    {
+        "id": 264,
+        "question": "கீழ்க்கண்டவற்றுள்  எது அறிவியல்  குறியீட்டு  டைிவில்  உள்ளது?",
+        "options": [
+            "26.57\\times 104",
+            "2.657\\times 105",
+            "265.7\\times 103",
+            "0.2657\\times 10^6"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 26.57×104",
+        "question_en": "?",
+        "options_en": [
+            "26.57\\times 104",
+            "2.657\\times 105",
+            "265.7\\times 103",
+            "0.2657\\times 10^6"
+        ],
+        "explanation_en": "The correct answer is Option (1): 26.57×104"
+    },
+    {
+        "id": 265,
+        "question": "(\\frac{1}{3})9 \\times \\( (3^4)^2 \\) இன் மதிப்பு ________.",
+        "options": [
+            "39",
+            "3",
+            "(1 / 3)2",
+            "1 / 3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 39",
+        "question_en": "(\\frac{1}{3})9 \\times \\( (3^4)^2 \\) value of ________.",
+        "options_en": [
+            "39",
+            "3",
+            "(1 / 3)2",
+            "1 / 3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 39"
+    },
+    {
+        "id": 266,
+        "question": "\\( (3^2)^2 \\)\\times \\( (4^2)^4 \\) \\( (12^2)^3 \\) இன் மதிப்பு ________.",
+        "options": [
+            "4",
+            "9 / 16",
+            "3",
+            "16 / 9"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "\\( (3^2)^2 \\)\\times \\( (4^2)^4 \\) \\( (12^2)^3 \\) value of ________.",
+        "options_en": [
+            "4",
+            "9 / 16",
+            "3",
+            "16 / 9"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 267,
+        "question": "𝑎=-3, 𝑏=-2 எவில், (𝑏 𝑎)𝑎 +(𝑎 𝑏)𝑏  இன் மதிப்பு ________.",
+        "options": [
+            "180 / 72",
+            "174 / 85",
+            "275 / 72",
+            "245 / 72"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 180 / 72",
+        "question_en": "𝑎=-3, 𝑏=-2 , (𝑏 𝑎)𝑎 +(𝑎 𝑏)𝑏 value of ________.",
+        "options_en": [
+            "180 / 72",
+            "174 / 85",
+            "275 / 72",
+            "245 / 72"
+        ],
+        "explanation_en": "The correct answer is Option (1): 180 / 72"
+    },
+    {
+        "id": 268,
+        "question": "(1^{-1}+2^{-1})2 இன் பெருக்கல்  நேர்மாறு  ________.",
+        "options": [
+            "9 / 4",
+            "5 / 7",
+            "4 / 9",
+            "3 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 9 / 4",
+        "question_en": "(1^{-1}+2^{-1})2 ________.",
+        "options_en": [
+            "9 / 4",
+            "5 / 7",
+            "4 / 9",
+            "3 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 9 / 4"
+    },
+    {
+        "id": 269,
+        "question": "\\( (2^3)^2 \\)\\times \\( (2^2)^3 \\)=(2)𝑥 எனில் 𝑥= ________.",
+        "options": [
+            "3",
+            "6",
+            "12",
+            "17"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "\\( (2^3)^2 \\)\\times \\( (2^2)^3 \\)=(2)𝑥 then x = ________.",
+        "options_en": [
+            "3",
+            "6",
+            "12",
+            "17"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3"
+    },
+    {
+        "id": 270,
+        "question": "\\( (2^4)^8 \\) \\( (4^8)^2 \\)= ________.",
+        "options": [
+            "16",
+            "32",
+            "8",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 16",
+        "question_en": "\\( (2^4)^8 \\) \\( (4^8)^2 \\)= ________.",
+        "options_en": [
+            "16",
+            "32",
+            "8",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (1): 16"
+    },
+    {
+        "id": 271,
+        "question": "\\( \\frac{6^7}{6^3} \\)= ________.",
+        "options": [
+            "67",
+            "66",
+            "65",
+            "64"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 67",
+        "question_en": "\\( \\frac{6^7}{6^3} \\)= ________.",
+        "options_en": [
+            "67",
+            "66",
+            "65",
+            "64"
+        ],
+        "explanation_en": "The correct answer is Option (1): 67"
+    },
+    {
+        "id": 272,
+        "question": "\\( (4^2)^6 \\)= ________.",
+        "options": [
+            "46",
+            "42",
+            "412",
+            "43"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 46",
+        "question_en": "\\( (4^2)^6 \\)= ________.",
+        "options_en": [
+            "46",
+            "42",
+            "412",
+            "43"
+        ],
+        "explanation_en": "The correct answer is Option (1): 46"
+    },
+    {
+        "id": 273,
+        "question": "[(\\frac{1}{3})^{-3} -(\\frac{1}{2})^{-3} ]\\div [1 4]-3 = ________.",
+        "options": [
+            "19 / 64",
+            "64 / 19",
+            "27 / 16",
+            "16 / 27"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 19 / 64",
+        "question_en": "[(\\frac{1}{3})^{-3} -(\\frac{1}{2})^{-3} ]\\div [1 4]-3 = ________.",
+        "options_en": [
+            "19 / 64",
+            "64 / 19",
+            "27 / 16",
+            "16 / 27"
+        ],
+        "explanation_en": "The correct answer is Option (1): 19 / 64"
+    },
+    {
+        "id": 274,
+        "question": "1000+10^{10}+10^{20}+10^{30}= ________.",
+        "options": [
+            "0",
+            "1",
+            "4",
+            "406"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "1000+10^{10}+10^{20}+10^{30}= ________.",
+        "options_en": [
+            "0",
+            "1",
+            "4",
+            "406"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 275,
+        "question": "(8^0 - 3^0)\\times (8^0 + 3^0)= ________.",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "(8^0 - 3^0)\\times (8^0 + 3^0)= ________.",
+        "options_en": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 276,
+        "question": "(൬(\\frac{-1}{2})2 ൰-2 )-1 இன் மதிப்பு ________.",
+        "options": [
+            "1 / 16",
+            "16",
+            "-1 / 16",
+            "-16"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 / 16",
+        "question_en": "(൬(\\frac{-1}{2})2 ൰-2 )-1 value of ________.",
+        "options_en": [
+            "1 / 16",
+            "16",
+            "-1 / 16",
+            "-16"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 / 16"
+    },
+    {
+        "id": 277,
+        "question": "5√𝑥 + 12√𝑥 = 13√𝑥 எவில் x = ________.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 4",
+        "question_en": "5√𝑥 + 12√𝑥 = 13√𝑥 x = ________.",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "The correct answer is Option (4): 4"
+    },
+    {
+        "id": 278,
+        "question": "\\( \\frac{5^2 \\times 7^3}{5 \\times 7^5} \\)= ________.",
+        "options": [
+            "-1 / 49",
+            "49",
+            "1 / 7",
+            "5 / 49"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 5 / 49",
+        "question_en": "52 \\times 73 5 \\times 75= ________.",
+        "options_en": [
+            "-1 / 49",
+            "49",
+            "1 / 7",
+            "5 / 49"
+        ],
+        "explanation_en": "The correct answer is Option (4): 5 / 49"
+    },
+    {
+        "id": 279,
+        "question": "√55= ________.",
+        "options": [
+            "-5 / 2",
+            "5 / 2",
+            "5",
+            "55 / 2"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 55 / 2",
+        "question_en": "√55= ________.",
+        "options_en": [
+            "-5 / 2",
+            "5 / 2",
+            "5",
+            "55 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (4): 55 / 2"
+    },
+    {
+        "id": 280,
+        "question": "(4^{-1})12⁄ இன் மதிப்பு ________.",
+        "options": [
+            "-1",
+            "-1 / 2",
+            "1 / 2",
+            "3 / 2"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1 / 2",
+        "question_en": "(4^{-1})12⁄ value of ________.",
+        "options_en": [
+            "-1",
+            "-1 / 2",
+            "1 / 2",
+            "3 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (3): 1 / 2"
+    },
+    {
+        "id": 281,
+        "question": "(1^3 + 2^3 + 3^3 + 4^3)^{-3} 2 இன் மதிப்பு ________.",
+        "options": [
+            "1",
+            "1 / 1000",
+            "1 / 100",
+            "1000"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "(1^3 + 2^3 + 3^3 + 4^3)^{-3} 2 value of ________.",
+        "options_en": [
+            "1",
+            "1 / 1000",
+            "1 / 100",
+            "1000"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 282,
+        "question": "கீழ்க்கண்டவற்றுள்  எனை் மதிப்பு 25 க்குச் சமமானதல்ல ?",
+        "options": [
+            "(625)1 / 2",
+            "√12523",
+            "52",
+            "(25)0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): (625)1 / 2",
+        "question_en": "25 ?",
+        "options_en": [
+            "(625)1 / 2",
+            "√12523",
+            "52",
+            "(25)0"
+        ],
+        "explanation_en": "The correct answer is Option (1): (625)1 / 2"
+    },
+    {
+        "id": 283,
+        "question": "(\\frac{16}{81})2  இன் மதிப்பு ________.",
+        "options": [
+            "(2 / 9)8",
+            "2 / 9",
+            "(2 / 3)8",
+            "27 / 8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): (2 / 9)8",
+        "question_en": "(\\frac{16}{81})2 value of ________.",
+        "options_en": [
+            "(2 / 9)8",
+            "2 / 9",
+            "(2 / 3)8",
+            "27 / 8"
+        ],
+        "explanation_en": "The correct answer is Option (1): (2 / 9)8"
+    },
+    {
+        "id": 284,
+        "question": "எது சரியானது ?",
+        "options": [
+            "10\\times 1011=10011",
+            "23\\times 32=65",
+            "23>32",
+            "𝑃0=10000"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 10×1011=10011",
+        "question_en": "Which is correct?",
+        "options_en": [
+            "10\\times 1011=10011",
+            "23\\times 32=65",
+            "23>32",
+            "𝑃0=10000"
+        ],
+        "explanation_en": "The correct answer is Option (1): 10×1011=10011"
+    },
+    {
+        "id": 285,
+        "question": "[(\\frac{1}{4})2 -(\\frac{1}{4})3 ]\\times 26=?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "[(\\frac{1}{4})2 -(\\frac{1}{4})3 ]\\times 26=?",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 286,
+        "question": "9^{2x}=729 எனில் 𝑥 இன் மதிப்பு ________.",
+        "options": [
+            "3 / 4",
+            "2 / 3",
+            "5 / 6",
+            "3 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3 / 4",
+        "question_en": "9^{2x}=729 then the value of x is ________.",
+        "options_en": [
+            "3 / 4",
+            "2 / 3",
+            "5 / 6",
+            "3 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3 / 4"
+    },
+    {
+        "id": 287,
+        "question": "(53)𝑥\\times (58)𝑥=572 எனில் 𝑥= ________.",
+        "options": [
+            "66 / 11",
+            "9",
+            "6",
+            "8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 66 / 11",
+        "question_en": "(53)𝑥\\times (58)𝑥=572 then x = ________.",
+        "options_en": [
+            "66 / 11",
+            "9",
+            "6",
+            "8"
+        ],
+        "explanation_en": "The correct answer is Option (1): 66 / 11"
+    },
+    {
+        "id": 288,
+        "question": "5^{-1} - 6^{-1} இன் மதிப்பு ________.",
+        "options": [
+            "1 / 30",
+            "-1 / 30",
+            "30",
+            "-30"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 / 30",
+        "question_en": "5^{-1} - 6^{-1} value of ________.",
+        "options_en": [
+            "1 / 30",
+            "-1 / 30",
+            "30",
+            "-30"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 / 30"
+    },
+    {
+        "id": 289,
+        "question": "{2-3(2+3)-1}-1= ________.",
+        "options": [
+            "12 / 7",
+            "2 / 5",
+            "7 / 5",
+            "5 / 7"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 12 / 7",
+        "question_en": "{2-3(2+3)-1}-1= ________.",
+        "options_en": [
+            "12 / 7",
+            "2 / 5",
+            "7 / 5",
+            "5 / 7"
+        ],
+        "explanation_en": "The correct answer is Option (1): 12 / 7"
+    },
+    {
+        "id": 290,
+        "question": "(2-1\\times 3-1)^{-1} இன் மதிப்பு ________.",
+        "options": [
+            "6^{-1}",
+            "1 / 6^{-1}",
+            "6",
+            "1 / 6"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 6−1",
+        "question_en": "(2-1\\times 3-1)^{-1} value of ________.",
+        "options_en": [
+            "6^{-1}",
+            "1 / 6^{-1}",
+            "6",
+            "1 / 6"
+        ],
+        "explanation_en": "The correct answer is Option (1): 6−1"
+    },
+    {
+        "id": 291,
+        "question": "\\( 2^3 + 1^3 = 3^x \\) எனில் 𝑥 இன் மதிப்பு ________.",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "\\( 2^3 + 1^3 = 3^x \\) then the value of x is ________.",
+        "options_en": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 292,
+        "question": "கீழ்க்கண்டவற்றுள்  தைறான  கூற்று எது?",
+        "options": [
+            "(10+10)4=104+104",
+            "𝑥0\\times 𝑥0=𝑥0\\div 𝑥0 (𝑥≠0)",
+            "49>163",
+            "50\\times 30=80"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): (10+10)4=104+104",
+        "question_en": "?",
+        "options_en": [
+            "(10+10)4=104+104",
+            "𝑥0\\times 𝑥0=𝑥0\\div 𝑥0 (𝑥≠0)",
+            "49>163",
+            "50\\times 30=80"
+        ],
+        "explanation_en": "The correct answer is Option (1): (10+10)4=104+104"
+    },
+    {
+        "id": 293,
+        "question": "\\( 16^{5/2} \\div 16^{1/2} \\)= ________.",
+        "options": [
+            "250",
+            "256",
+            "255",
+            "200"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 250",
+        "question_en": "\\( 16^{5/2} \\div 16^{1/2} \\)= ________.",
+        "options_en": [
+            "250",
+            "256",
+            "255",
+            "200"
+        ],
+        "explanation_en": "The correct answer is Option (1): 250"
+    },
+    {
+        "id": 294,
+        "question": "பாருத்துக .   (i) (\\frac{1}{4})^{-4} \\times (\\frac{1}{4})^{-8} =(\\frac{1}{4})-4𝑥   ─  (a) -1   (ii) (\\frac{-1}{2})^{-19} \\div (\\frac{-1}{2})^{-8} =(\\frac{-1}{2})-2𝑥+1  ─  (b) -4   (iii) (\\frac{5}{4})-𝑥 \\div (\\frac{5}{4})^{-4} =(\\frac{5}{4})5   ─  (c) 6   (iv) (\\frac{8}{3})2𝑥+1 \\times (\\frac{8}{3})5 =(\\frac{8}{3})𝑥+2   ─  (d) 3",
+        "options": [
+            "i – d ii – c iii – a iv – b",
+            "i – d ii – a iii – b iv – c",
+            "i – a ii – c iii – d iv – b",
+            "i – b ii – d iii – c iv – a"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): i – d ii – c iii – a iv – b",
+        "question_en": ". (i) (\\frac{1}{4})^{-4} \\times (\\frac{1}{4})^{-8} =(\\frac{1}{4})-4𝑥 ─ (a) -1 (ii) (\\frac{-1}{2})^{-19} \\div (\\frac{-1}{2})^{-8} =(\\frac{-1}{2})-2𝑥+1 ─ (b) -4 (iii) (\\frac{5}{4})-𝑥 \\div (\\frac{5}{4})^{-4} =(\\frac{5}{4})5 ─ (c) 6 (iv) (\\frac{8}{3})2𝑥+1 \\times (\\frac{8}{3})5 =(\\frac{8}{3})𝑥+2 ─ (d) 3",
+        "options_en": [
+            "i – d ii – c iii – a iv – b",
+            "i – d ii – a iii – b iv – c",
+            "i – a ii – c iii – d iv – b",
+            "i – b ii – d iii – c iv – a"
+        ],
+        "explanation_en": "The correct answer is Option (1): i – d ii – c iii – a iv – b"
+    },
+    {
+        "id": 295,
+        "question": "𝑥=(30+4^{-1})\\times 22, 𝑦=(\\( 3^{-1} + 4^{-1} + 5^{-1} \\))0 எனில் 𝑥+𝑦 இன் மதிப்பு ________.",
+        "options": [
+            "6",
+            "5",
+            "1",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 6",
+        "question_en": "𝑥=(30+4^{-1})\\times 22, 𝑦=(\\( 3^{-1} + 4^{-1} + 5^{-1} \\))0 if 𝑥+𝑦 value of ________.",
+        "options_en": [
+            "6",
+            "5",
+            "1",
+            "3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 6"
+    },
+    {
+        "id": 296,
+        "question": "கீழ்க்கண்டவற்றுள்  எது பெரியது ?",
+        "options": [
+            "(5-1\\times 2^{-1})\\div 6^{-1}",
+            "(1 / 2)^{-3} / \\times (1 / 2)^{-2}",
+            "(2 / 3)^{-2} / \\div (4 / 3)^{-2}",
+            "(2 / 3)4 / \\div (1 / 3)4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): (5−1×2−1)÷6−1",
+        "question_en": "?",
+        "options_en": [
+            "(5-1\\times 2^{-1})\\div 6^{-1}",
+            "(1 / 2)^{-3} / \\times (1 / 2)^{-2}",
+            "(2 / 3)^{-2} / \\div (4 / 3)^{-2}",
+            "(2 / 3)4 / \\div (1 / 3)4"
+        ],
+        "explanation_en": "The correct answer is Option (1): (5−1×2−1)÷6−1"
+    },
+    {
+        "id": 297,
+        "question": "102𝑦=25 எனில் 10𝑦= ________.",
+        "options": [
+            "5",
+            "1 / 5",
+            "25 / 2",
+            "5 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5",
+        "question_en": "102𝑦=25 if 10𝑦= ________.",
+        "options_en": [
+            "5",
+            "1 / 5",
+            "25 / 2",
+            "5 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 5"
+    },
+    {
+        "id": 298,
+        "question": "(-5)^{-2} இன் தலைகீழி  ________.",
+        "options": [
+            "5",
+            "25",
+            "1 / 5",
+            "1 / 25"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5",
+        "question_en": "(-5)^{-2} The reciprocal of ________.",
+        "options_en": [
+            "5",
+            "25",
+            "1 / 5",
+            "1 / 25"
+        ],
+        "explanation_en": "The correct answer is Option (1): 5"
+    },
+    {
+        "id": 299,
+        "question": "(-15)^{-1} ஐ எந்த எண்ணால்  வகுத்தால்  ஈவு (-5)^{-1} கிடைக்கும் ?",
+        "options": [
+            "3^{-1}",
+            "3",
+            "2",
+            "2^{-1}"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3−1",
+        "question_en": "(-15)^{-1} (-5)^{-1} ?",
+        "options_en": [
+            "3^{-1}",
+            "3",
+            "2",
+            "2^{-1}"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3−1"
+    },
+    {
+        "id": 300,
+        "question": "(𝑚-1+𝑛-1)^{-1}= ________.",
+        "options": [
+            "𝑚+𝑛",
+            "𝑚𝑛 / 𝑚 + 𝑛",
+            "𝑚𝑛",
+            "1 / 𝑚𝑛"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 𝑚+𝑛",
+        "question_en": "(𝑚-1+𝑛-1)^{-1}= ________.",
+        "options_en": [
+            "𝑚+𝑛",
+            "𝑚𝑛 / 𝑚 + 𝑛",
+            "𝑚𝑛",
+            "1 / 𝑚𝑛"
+        ],
+        "explanation_en": "The correct answer is Option (1): 𝑚+𝑛"
+    },
+    {
+        "id": 301,
+        "question": "(\\frac{5}{3})^{-5} \\times (\\frac{5}{3})11 =(\\frac{5}{3})8+𝑥  எனில் 𝑥 இன் மதிப்பு ________.",
+        "options": [
+            "-1 / 2",
+            "-2",
+            "2",
+            "1 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −1 / 2",
+        "question_en": "(\\frac{5}{3})^{-5} \\times (\\frac{5}{3})11 =(\\frac{5}{3})8+𝑥 then the value of x is ________.",
+        "options_en": [
+            "-1 / 2",
+            "-2",
+            "2",
+            "1 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): −1 / 2"
+    },
+    {
+        "id": 302,
+        "question": "(\\frac{2}{9})\\times (\\frac{2}{9})^{-6} =(\\frac{9}{2})1-2𝑚  எனில் 𝑚= ________.",
+        "options": [
+            "-2",
+            "1",
+            "-1",
+            "0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): -2",
+        "question_en": "(\\frac{2}{9})\\times (\\frac{2}{9})^{-6} =(\\frac{9}{2})1-2𝑚 if 𝑚= ________.",
+        "options_en": [
+            "-2",
+            "1",
+            "-1",
+            "0"
+        ],
+        "explanation_en": "The correct answer is Option (1): -2"
+    },
+    {
+        "id": 303,
+        "question": "(𝑎 𝑏)𝑥-1 =(𝑏 𝑎)𝑥-3  எவில் 𝑥-ன் மதிப்பு ________.",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "(𝑎 𝑏)𝑥-1 =(𝑏 𝑎)𝑥-3 𝑥-________.",
+        "options_en": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3"
+    },
+    {
+        "id": 304,
+        "question": "எது (\\frac{2}{3})4  இன் தலைகீழி  அல்ல?",
+        "options": [
+            "(3 / 2)^{-4}",
+            "(3 / 2)4",
+            "(2 / 3)^{-4}",
+            "34 / 24"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): (3 / 2)−4",
+        "question_en": "(\\frac{2}{3})4 The reciprocal of ?",
+        "options_en": [
+            "(3 / 2)^{-4}",
+            "(3 / 2)4",
+            "(2 / 3)^{-4}",
+            "34 / 24"
+        ],
+        "explanation_en": "The correct answer is Option (1): (3 / 2)−4"
+    },
+    {
+        "id": 305,
+        "question": "8𝑥-1=2𝑥+3 எனில் 𝑥 இன் மதிப்பு என்ன?",
+        "options": [
+            "2",
+            "4",
+            "1",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2",
+        "question_en": "8𝑥-1=2𝑥+3 then what is the value of x?",
+        "options_en": [
+            "2",
+            "4",
+            "1",
+            "3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 2"
+    },
+    {
+        "id": 306,
+        "question": "2𝑥=100 எனில் 2𝑥-1 இன் மதிப்பு ________.",
+        "options": [
+            "99",
+            "98",
+            "50",
+            "100"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 99",
+        "question_en": "2𝑥=100 if 2𝑥-1 value of ________.",
+        "options_en": [
+            "99",
+            "98",
+            "50",
+            "100"
+        ],
+        "explanation_en": "The correct answer is Option (1): 99"
+    },
+    {
+        "id": 307,
+        "question": "𝑚-𝑥 க்குச் சமமான  மதிப்பேக்  காண்டது  எது?",
+        "options": [
+            "𝑥𝑚",
+            "1 / 𝑚𝑥",
+            "-𝑚𝑥",
+            "-1 / 𝑚𝑥"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 𝑥𝑚",
+        "question_en": "𝑚-𝑥 ?",
+        "options_en": [
+            "𝑥𝑚",
+            "1 / 𝑚𝑥",
+            "-𝑚𝑥",
+            "-1 / 𝑚𝑥"
+        ],
+        "explanation_en": "The correct answer is Option (1): 𝑥𝑚"
+    },
+    {
+        "id": 308,
+        "question": "[6^{-1}+(\\frac{3}{2})^{-1} ]-1  இன் மதிப்பு ________.",
+        "options": [
+            "2 / 3",
+            "5 / 6",
+            "6 / 5",
+            "3 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2 / 3",
+        "question_en": "[6^{-1}+(\\frac{3}{2})^{-1} ]-1 value of ________.",
+        "options_en": [
+            "2 / 3",
+            "5 / 6",
+            "6 / 5",
+            "3 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 2 / 3"
+    },
+    {
+        "id": 309,
+        "question": "൬(((4)2)1 2)3 ൰1 3 = ________.",
+        "options": [
+            "4",
+            "16",
+            "2",
+            "32"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "൬(((4)2)1 2)3 ൰1 3 = ________.",
+        "options_en": [
+            "4",
+            "16",
+            "2",
+            "32"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 310,
+        "question": "2𝑛∙2𝑛+1=64 எனில் 𝑛=________.",
+        "options": [
+            "4",
+            "6",
+            "5 / 2",
+            "3 / 2"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 5 / 2",
+        "question_en": "2𝑛∙2𝑛+1=64 if 𝑛=________.",
+        "options_en": [
+            "4",
+            "6",
+            "5 / 2",
+            "3 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (3): 5 / 2"
+    },
+    {
+        "id": 311,
+        "question": "3^{-2} இன் தலைகீழி  அல்லாதது  எது?",
+        "options": [
+            "1 / 9",
+            "1 / 3^{-2}",
+            "9",
+            "32"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 / 9",
+        "question_en": "3^{-2} The reciprocal of ?",
+        "options_en": [
+            "1 / 9",
+            "1 / 3^{-2}",
+            "9",
+            "32"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 / 9"
+    },
+    {
+        "id": 312,
+        "question": "𝑦6 க்குச் சமமில்லாதது  எது?",
+        "options": [
+            "(𝑦2 / 3)9",
+            "(√𝑦6)2",
+            "√𝑦183",
+            "(𝑦1 / 3)12"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): (𝑦1 / 3)12",
+        "question_en": "𝑦6 ?",
+        "options_en": [
+            "(𝑦2 / 3)9",
+            "(√𝑦6)2",
+            "√𝑦183",
+            "(𝑦1 / 3)12"
+        ],
+        "explanation_en": "The correct answer is Option (4): (𝑦1 / 3)12"
+    },
+    {
+        "id": 313,
+        "question": "√√𝑥234=𝑥𝑘 எனில் 𝑘 இன் மதிப்பு ________.",
+        "options": [
+            "2 / 6",
+            "6",
+            "1 / 6",
+            "7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1 / 6",
+        "question_en": "√√𝑥234=𝑥𝑘 if 𝑘 value of ________.",
+        "options_en": [
+            "2 / 6",
+            "6",
+            "1 / 6",
+            "7"
+        ],
+        "explanation_en": "The correct answer is Option (3): 1 / 6"
+    },
+    {
+        "id": 314,
+        "question": "√𝑥-1𝑦∙√𝑦-1𝑧∙√𝑧-1𝑥= ________.",
+        "options": [
+            "2",
+            "4",
+            "1",
+            "3"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1",
+        "question_en": "√𝑥-1𝑦∙√𝑦-1𝑧∙√𝑧-1𝑥= ________.",
+        "options_en": [
+            "2",
+            "4",
+            "1",
+            "3"
+        ],
+        "explanation_en": "The correct answer is Option (3): 1"
+    },
+    {
+        "id": 315,
+        "question": "4𝑛+1=256 எனில் 𝑛 இன் மதிப்பு ________.",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "63"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3",
+        "question_en": "4𝑛+1=256 if 𝑛 value of ________.",
+        "options_en": [
+            "2",
+            "3",
+            "5",
+            "63"
+        ],
+        "explanation_en": "The correct answer is Option (2): 3"
+    },
+    {
+        "id": 316,
+        "question": "84 3\\times 2^{-1}= ________.",
+        "options": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "84 3\\times 2^{-1}= ________.",
+        "options_en": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 317,
+        "question": "கீழ்க்கண்ட  கூற்றுகளில்  ‘𝑘8’ க்குச் சமமில்லாத  கூற்று எது?   (A) (𝐾0)8 (B) 𝑘16 \\times  𝑘-8 \\times  𝑘7 𝑘9 \\times  𝑘-2 (C)  𝑘\\div 𝑘-7 (D) (𝑘-1)18 𝑘2",
+        "options": [
+            "A மற்றும் B",
+            "A மற்றும் D",
+            "A மட்டும்",
+            "A, B மற்றும் D"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): A மற்றும் B",
+        "question_en": "‘𝑘8’ ? (A) (𝐾0)8 (B) 𝑘16 \\times 𝑘-8 \\times 𝑘7 𝑘9 \\times 𝑘-2 (C) 𝑘\\div 𝑘-7 (D) (𝑘-1)18 𝑘2",
+        "options_en": [
+            "A and B",
+            "A and D",
+            "A only",
+            "A, B and D"
+        ],
+        "explanation_en": "The correct answer is Option (1): A and B"
+    },
+    {
+        "id": 318,
+        "question": "\\( 16^{3/4} \\times 4^{-1/2} \\) இன் மதிப்பு ________.",
+        "options": [
+            "8",
+            "1",
+            "4",
+            "0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 8",
+        "question_en": "\\( 16^{3/4} \\times 4^{-1/2} \\) value of ________.",
+        "options_en": [
+            "8",
+            "1",
+            "4",
+            "0"
+        ],
+        "explanation_en": "The correct answer is Option (1): 8"
+    },
+    {
+        "id": 319,
+        "question": "(95)𝑥=(9^4)𝑥\\div 9^2 எனில் 𝑥= ________.",
+        "options": [
+            "4",
+            "-2",
+            "-3",
+            "2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "(95)𝑥=(9^4)𝑥\\div 9^2 then x = ________.",
+        "options_en": [
+            "4",
+            "-2",
+            "-3",
+            "2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 320,
+        "question": "(530\\times 5^20)\\div (55)9 இன் மதிப்பு ________.",
+        "options": [
+            "5^{-5}",
+            "55",
+            "5^{50}",
+            "5^{95}"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5−5",
+        "question_en": "(530\\times 5^20)\\div (55)9 value of ________.",
+        "options_en": [
+            "5^{-5}",
+            "55",
+            "5^{50}",
+            "5^{95}"
+        ],
+        "explanation_en": "The correct answer is Option (1): 5−5"
+    },
+    {
+        "id": 321,
+        "question": "(𝑎 𝑏)𝑛 =𝑎𝑛 𝑏𝑛 என்ற விதி கீழ்க்கண்ட எந்நிலைக்குப் பாருந்தாது ?",
+        "options": [
+            "𝑎=3, 𝑏=2",
+            "𝑎=-2, 𝑏=3",
+            "𝑛=0",
+            "𝑏=0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 𝑎=3, 𝑏=2",
+        "question_en": "(𝑎 𝑏)𝑛 =𝑎𝑛 𝑏𝑛 ?",
+        "options_en": [
+            "𝑎=3, 𝑏=2",
+            "𝑎=-2, 𝑏=3",
+            "𝑛=0",
+            "𝑏=0"
+        ],
+        "explanation_en": "The correct answer is Option (1): 𝑎=3, 𝑏=2"
+    },
+    {
+        "id": 322,
+        "question": "1022+10^{20} 10^{20} இன் மதிப்பு ________.",
+        "options": [
+            "10",
+            "101",
+            "1022",
+            "1042"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 10",
+        "question_en": "1022+10^{20} 10^{20} value of ________.",
+        "options_en": [
+            "10",
+            "101",
+            "1022",
+            "1042"
+        ],
+        "explanation_en": "The correct answer is Option (1): 10"
+    },
+    {
+        "id": 323,
+        "question": "(6^{-1} - 8^{-1})^{-1} இன் மதிப்பு ________.",
+        "options": [
+            "-1 / 2",
+            "-2",
+            "1 / 24",
+            "24"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −1 / 2",
+        "question_en": "(6^{-1} - 8^{-1})^{-1} value of ________.",
+        "options_en": [
+            "-1 / 2",
+            "-2",
+            "1 / 24",
+            "24"
+        ],
+        "explanation_en": "The correct answer is Option (1): −1 / 2"
+    },
+    {
+        "id": 324,
+        "question": "கீழ்க்கண்டவற்றுள்  சரியான  கூற்று எது?",
+        "options": [
+            "23\\times 32=65",
+            "𝑎𝑚\\times 𝑎𝑛=𝑎𝑚\\times 𝑛",
+            "(4 / 3)5 / \\times (5 / 7)5 / =(4 / 3+5 / 7)5",
+            "29\\times 291-219\\times 281=0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 23×32=65",
+        "question_en": "?",
+        "options_en": [
+            "23\\times 32=65",
+            "𝑎𝑚\\times 𝑎𝑛=𝑎𝑚\\times 𝑛",
+            "(4 / 3)5 / \\times (5 / 7)5 / =(4 / 3+5 / 7)5",
+            "29\\times 291-219\\times 281=0"
+        ],
+        "explanation_en": "The correct answer is Option (1): 23×32=65"
+    },
+    {
+        "id": 325,
+        "question": "\\( 2^{2001} + 2^{1999} \\) \\( 2^{2000} + 2^{1998} \\) இன் மதிப்பு ________.",
+        "options": [
+            "2",
+            "10 / 3",
+            "21000+1",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2",
+        "question_en": "\\( 2^{2001} + 2^{1999} \\) \\( 2^{2000} + 2^{1998} \\) value of ________.",
+        "options_en": [
+            "2",
+            "10 / 3",
+            "21000+1",
+            "10"
+        ],
+        "explanation_en": "The correct answer is Option (1): 2"
+    },
+    {
+        "id": 326,
+        "question": "10^{-100} இன் பெருக்கல்  தலைகீழி  ________.",
+        "options": [
+            "10^{-100}",
+            "1 / 10^{-100}",
+            "(102)^{-50}",
+            "(10^{-50})3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 10−100",
+        "question_en": "10^{-100} ________.",
+        "options_en": [
+            "10^{-100}",
+            "1 / 10^{-100}",
+            "(102)^{-50}",
+            "(10^{-50})3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 10−100"
+    },
+    {
+        "id": 327,
+        "question": "(64)^{-2} 3\\times (\\frac{1}{4})^{-3} = ________",
+        "options": [
+            "4",
+            "1 / 4",
+            "1",
+            "16"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "(64)^{-2} 3\\times (\\frac{1}{4})^{-3} = ________",
+        "options_en": [
+            "4",
+            "1 / 4",
+            "1",
+            "16"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 328,
+        "question": "4^{-3} 2+82 3= ________.",
+        "options": [
+            "21 / 4",
+            "41 / 8",
+            "41 / 4",
+            "81 / 4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 21 / 4",
+        "question_en": "4^{-3} 2+82 3= ________.",
+        "options_en": [
+            "21 / 4",
+            "41 / 8",
+            "41 / 4",
+            "81 / 4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 21 / 4"
+    },
+    {
+        "id": 329,
+        "question": "[(-2)(-2)](-3) இன் மதிப்பு ________.",
+        "options": [
+            "64",
+            "32",
+            "14",
+            "-64"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 64",
+        "question_en": "[(-2)(-2)](-3) value of ________.",
+        "options_en": [
+            "64",
+            "32",
+            "14",
+            "-64"
+        ],
+        "explanation_en": "The correct answer is Option (1): 64"
+    },
+    {
+        "id": 330,
+        "question": "(-3)𝑚+1\\times (-3)5=(-3)7 எனில் 𝑚= ________.",
+        "options": [
+            "1",
+            "-1",
+            "0",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "(-3)𝑚+1\\times (-3)5=(-3)7 if 𝑚= ________.",
+        "options_en": [
+            "1",
+            "-1",
+            "0",
+            "4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 331,
+        "question": "9-1\\times 53 3^{-3} இன் மதிப்பு ________.",
+        "options": [
+            "370",
+            "315",
+            "375",
+            "400"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 370",
+        "question_en": "9-1\\times 53 3^{-3} value of ________.",
+        "options_en": [
+            "370",
+            "315",
+            "375",
+            "400"
+        ],
+        "explanation_en": "The correct answer is Option (1): 370"
+    },
+    {
+        "id": 332,
+        "question": "5√5\\times 53\\div 532⁄ ன் மதிப்பு ________.",
+        "options": [
+            "53",
+            "5^{-3}",
+            "56",
+            "5^{-6}"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 53",
+        "question_en": "5√5\\times 53\\div 532⁄ ________.",
+        "options_en": [
+            "53",
+            "5^{-3}",
+            "56",
+            "5^{-6}"
+        ],
+        "explanation_en": "The correct answer is Option (1): 53"
+    },
+    {
+        "id": 333,
+        "question": "(√2)𝑥=28 எனில் 𝑥 இன் மதிப்பு ________.",
+        "options": [
+            "4",
+            "8",
+            "16",
+            "2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "(√2)𝑥=28 then the value of x is ________.",
+        "options_en": [
+            "4",
+            "8",
+            "16",
+            "2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 334,
+        "question": "(1 x-1)^{-1} = ________.",
+        "options": [
+            "x",
+            "1 / x",
+            "x-2",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): x",
+        "question_en": "(1 x-1)^{-1} = ________.",
+        "options_en": [
+            "x",
+            "1 / x",
+            "x-2",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (1): x"
+    },
+    {
+        "id": 335,
+        "question": "42𝑥-3=42\\times 23\\times 4 எனில் 𝑥= ________.",
+        "options": [
+            "0",
+            "4",
+            "15 / 4",
+            "-9 / 8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "42𝑥-3=42\\times 23\\times 4 then x = ________.",
+        "options_en": [
+            "0",
+            "4",
+            "15 / 4",
+            "-9 / 8"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 336,
+        "question": "8𝑥-1=2𝑥+3 எனில் 𝑥= ________.",
+        "options": [
+            "1",
+            "3",
+            "5",
+            "8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "8𝑥-1=2𝑥+3 then x = ________.",
+        "options_en": [
+            "1",
+            "3",
+            "5",
+            "8"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 337,
+        "question": "3𝑥+3𝑥+1 =36 எனில் 𝑥 இன் மதிப்பு ________.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2",
+        "question_en": "3𝑥+3𝑥+1 =36 then the value of x is ________.",
+        "options_en": [
+            "2",
+            "3",
+            "4",
+            "0"
+        ],
+        "explanation_en": "The correct answer is Option (1): 2"
+    },
+    {
+        "id": 338,
+        "question": "3^{-5} \\times  10^{-5} \\times  125 5^{-7} \\times  6^{-5} இன் சுருங்கிய  டைிவம் ________.",
+        "options": [
+            "52",
+            "53",
+            "54",
+            "55"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 52",
+        "question_en": "3^{-5} \\times 10^{-5} \\times 125 5^{-7} \\times 6^{-5} ________.",
+        "options_en": [
+            "52",
+            "53",
+            "54",
+            "55"
+        ],
+        "explanation_en": "The correct answer is Option (1): 52"
+    },
+    {
+        "id": 339,
+        "question": "(33)^{-2} \\times  (22)^{-3} (24)^{-2} \\times  3^{-4} \\times  4^{-2} இன் சுருக்கிய  மதிப்பு ________.",
+        "options": [
+            "72 / 9",
+            "9^2 / 7",
+            "71 / 9",
+            "91 / 7"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 72 / 9",
+        "question_en": "(33)^{-2} \\times (22)^{-3} (24)^{-2} \\times 3^{-4} \\times 4^{-2} ________.",
+        "options_en": [
+            "72 / 9",
+            "9^2 / 7",
+            "71 / 9",
+            "91 / 7"
+        ],
+        "explanation_en": "The correct answer is Option (1): 72 / 9"
+    },
+    {
+        "id": 340,
+        "question": "(36+64)1 2+(1+43 2)1 2+√20+√45 இன் மதிப்பு ________.",
+        "options": [
+            "13+2√5",
+            "10+5√5",
+            "10+2√5",
+            "13+5√5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 13+2√5",
+        "question_en": "(36+64)1 2+(1+43 2)1 2+√20+√45 value of ________.",
+        "options_en": [
+            "13+2√5",
+            "10+5√5",
+            "10+2√5",
+            "13+5√5"
+        ],
+        "explanation_en": "The correct answer is Option (1): 13+2√5"
+    },
+    {
+        "id": 341,
+        "question": "2x+7=2x+5+3 எவில் x இன் மதிப்பு ________.",
+        "options": [
+            "3",
+            "-3",
+            "5",
+            "-5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "2x+7=2x+5+3 x value of ________.",
+        "options_en": [
+            "3",
+            "-3",
+            "5",
+            "-5"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3"
+    },
+    {
+        "id": 342,
+        "question": "(-7)^{-1} உடன் எந்த எண்ணைப்  பெருக்கினால்  பெருக்கலானது  (10)^{-1} என ஆகும்?",
+        "options": [
+            "-7 / 10",
+            "-10 / 7",
+            "7 / 10",
+            "10 / 7"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −7 / 10",
+        "question_en": "(-7)^{-1} (10)^{-1} ?",
+        "options_en": [
+            "-7 / 10",
+            "-10 / 7",
+            "7 / 10",
+            "10 / 7"
+        ],
+        "explanation_en": "The correct answer is Option (1): −7 / 10"
+    },
+    {
+        "id": 343,
+        "question": "(-4)^{-1} உடன் எந்த எண்ணைப்  பெருக்கினால்  4^{-2} கிடைக்கும் ?",
+        "options": [
+            "-1 / 8",
+            "1 / 8",
+            "-8 / 1",
+            "-2^{-2}"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −1 / 8",
+        "question_en": "(-4)^{-1} 4^{-2} ?",
+        "options_en": [
+            "-1 / 8",
+            "1 / 8",
+            "-8 / 1",
+            "-2^{-2}"
+        ],
+        "explanation_en": "The correct answer is Option (1): −1 / 8"
+    },
+    {
+        "id": 344,
+        "question": "𝑚=(\\frac{4}{5})3 \\times (\\frac{5}{4})^{-3}  எனில் 𝑚1 2 இன் மதிப்பு ________.",
+        "options": [
+            "16 / 25",
+            "-64 / 125",
+            "64 / 125",
+            "-16 / 25"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 16 / 25",
+        "question_en": "𝑚=(\\frac{4}{5})3 \\times (\\frac{5}{4})^{-3} if 𝑚1 2 value of ________.",
+        "options_en": [
+            "16 / 25",
+            "-64 / 125",
+            "64 / 125",
+            "-16 / 25"
+        ],
+        "explanation_en": "The correct answer is Option (1): 16 / 25"
+    },
+    {
+        "id": 345,
+        "question": "[[(\\frac{-1}{3})^{-2} ]-2 ]-1 = ________.",
+        "options": [
+            "81",
+            "729",
+            "124",
+            "27"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 81",
+        "question_en": "[[(\\frac{-1}{3})^{-2} ]-2 ]-1 = ________.",
+        "options_en": [
+            "81",
+            "729",
+            "124",
+            "27"
+        ],
+        "explanation_en": "The correct answer is Option (1): 81"
+    },
+    {
+        "id": 346,
+        "question": "\\( (-2)^{-2} \\) உடன் எந்த எண்ணைப் பெருக்கினால் பெருக்கற்பலன் \\( \\frac{1}{100} \\) கிடைக்கும்?",
+        "options": [
+            "\\( (10)^{-1} \\)",
+            "\\( 4^{-1} \\)",
+            "\\( 25 \\)",
+            "\\( (25)^{-1} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): (25)−1",
+        "question_en": "By which number should \\( (-2)^{-2} \\) be multiplied to get the product \\( \\frac{1}{100} \\)?",
+        "options_en": [
+            "(10)^{-1}",
+            "4^{-1}",
+            "25",
+            "(25)^{-1}"
+        ],
+        "explanation_en": "The correct answer is Option (4): (25)−1"
+    },
+    {
+        "id": 347,
+        "question": "(\\frac{3}{5})6 \\times (\\frac{3}{5})12 =(\\frac{3}{5})7𝑚+4  எனில் 𝑚= ________.",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "6"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2",
+        "question_en": "(\\frac{3}{5})6 \\times (\\frac{3}{5})12 =(\\frac{3}{5})7𝑚+4 if 𝑚= ________.",
+        "options_en": [
+            "3",
+            "4",
+            "2",
+            "6"
+        ],
+        "explanation_en": "The correct answer is Option (3): 2"
+    },
+    {
+        "id": 348,
+        "question": "62𝑦\\div 6^{-4}=624 எனில் 𝑦 இன் மதிப்பு ________.",
+        "options": [
+            "2",
+            "10",
+            "6",
+            "5"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 10",
+        "question_en": "62𝑦\\div 6^{-4}=624 if 𝑦 value of ________.",
+        "options_en": [
+            "2",
+            "10",
+            "6",
+            "5"
+        ],
+        "explanation_en": "The correct answer is Option (2): 10"
+    },
+    {
+        "id": 349,
+        "question": "-(\\frac{1}{7})^{-5} -(\\frac{1}{7})^{-7}=(+7)𝑥 எனில் 𝑥 ன் மதிப்பு ________.",
+        "options": [
+            "+12",
+            "-12",
+            "+2",
+            "-2"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): −2",
+        "question_en": "-(\\frac{1}{7})^{-5} -(\\frac{1}{7})^{-7}=(+7)𝑥 if 𝑥 ________.",
+        "options_en": [
+            "+12",
+            "-12",
+            "+2",
+            "-2"
+        ],
+        "explanation_en": "The correct answer is Option (4): −2"
+    },
+    {
+        "id": 350,
+        "question": "(𝑎𝑚 𝑎𝑛)𝑚+𝑛 \\times (𝑎𝑛 𝑎𝑟)𝑛+𝑟 \\times (𝑎𝑟 𝑎𝑚)𝑟+𝑚  இன் மதிப்பு ________.",
+        "options": [
+            "0",
+            "-1",
+            "2",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1",
+        "question_en": "(𝑎𝑚 𝑎𝑛)𝑚+𝑛 \\times (𝑎𝑛 𝑎𝑟)𝑛+𝑟 \\times (𝑎𝑟 𝑎𝑚)𝑟+𝑚 value of ________.",
+        "options_en": [
+            "0",
+            "-1",
+            "2",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (4): 1"
+    },
+    {
+        "id": 351,
+        "question": "5(𝑎+𝑏)=125, 5(𝑎-𝑏)=25 எனில் 𝑎2-𝑏2 இன் மதிப்பு ________.",
+        "options": [
+            "3",
+            "2",
+            "6",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "5(𝑎+𝑏)=125, 5(𝑎-𝑏)=25 if 𝑎2-𝑏2 value of ________.",
+        "options_en": [
+            "3",
+            "2",
+            "6",
+            "5"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3"
+    },
+    {
+        "id": 352,
+        "question": "𝑥=(-1)2020, 𝑦=(+1)2020 மற்றும் 𝑥+𝑦=𝑧 எனில் 𝑥+𝑦+𝑧=________.",
+        "options": [
+            "0",
+            "2",
+            "4",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "𝑥=(-1)2020, 𝑦=(+1)2020 and 𝑥+𝑦=𝑧 if 𝑥+𝑦+𝑧=________.",
+        "options_en": [
+            "0",
+            "2",
+            "4",
+            "3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 353,
+        "question": "√√𝑎333= ________.",
+        "options": [
+            "𝑎",
+            "1",
+            "𝑎1 / 3",
+            "𝑎3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 𝑎",
+        "question_en": "√√𝑎333= ________.",
+        "options_en": [
+            "𝑎",
+            "1",
+            "𝑎1 / 3",
+            "𝑎3"
+        ],
+        "explanation_en": "The correct answer is Option (1): 𝑎"
+    },
+    {
+        "id": 354,
+        "question": "√√2\\times √3 இன் அடுக்குக்குறி  டைிவம் ________.",
+        "options": [
+            "6^{-1} / 2",
+            "61 / 2",
+            "61 / 4",
+            "6"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 6−1 / 2",
+        "question_en": "√√2\\times √3 ________.",
+        "options_en": [
+            "6^{-1} / 2",
+            "61 / 2",
+            "61 / 4",
+            "6"
+        ],
+        "explanation_en": "The correct answer is Option (1): 6−1 / 2"
+    },
+    {
+        "id": 355,
+        "question": "√𝑎 𝑏=(𝑏 𝑎)1-3𝑥  எனில் 𝑥 இன் மதிப்பு ________.",
+        "options": [
+            "-1 / 2",
+            "1 / 2",
+            "3 / 2",
+            "-2 / 3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −1 / 2",
+        "question_en": "√𝑎 𝑏=(𝑏 𝑎)1-3𝑥 then the value of x is ________.",
+        "options_en": [
+            "-1 / 2",
+            "1 / 2",
+            "3 / 2",
+            "-2 / 3"
+        ],
+        "explanation_en": "The correct answer is Option (1): −1 / 2"
+    },
+    {
+        "id": 356,
+        "question": "3𝑥-3𝑥-2=8 எனில் (-𝑥)-𝑥 ன் மதிப்பு ________.",
+        "options": [
+            "4",
+            "-4",
+            "-1 / 4",
+            "1 / 4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "3𝑥-3𝑥-2=8 if (-𝑥)-𝑥 ________.",
+        "options_en": [
+            "4",
+            "-4",
+            "-1 / 4",
+            "1 / 4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 357,
+        "question": "√2𝑛=1024 எனில்  32(𝑛 4^{-4}) இன் மதிப்பு ________.",
+        "options": [
+            "3",
+            "27",
+            "31",
+            "9"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "√2𝑛=1024 if 32(𝑛 4^{-4}) value of ________.",
+        "options_en": [
+            "3",
+            "27",
+            "31",
+            "9"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3"
+    },
+    {
+        "id": 358,
+        "question": "25𝑥\\div 2𝑥=√2205 எவில் 𝑥-ன் மதிப்பு ________.",
+        "options": [
+            "1 / 2",
+            "1",
+            "5",
+            "25"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 / 2",
+        "question_en": "25𝑥\\div 2𝑥=√2205 𝑥-________.",
+        "options_en": [
+            "1 / 2",
+            "1",
+            "5",
+            "25"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 / 2"
+    },
+    {
+        "id": 359,
+        "question": "-18 -96 என்ற விகிதமுறு  எண்ணை  திட்டடைிவில்  எழுது    [NMMS -2009]",
+        "options": [
+            "-1 / 4",
+            "18 / 96",
+            "3 / 4",
+            "3 / 16"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −1 / 4",
+        "question_en": "-18 -96 [NMMS -2009]",
+        "options_en": [
+            "-1 / 4",
+            "18 / 96",
+            "3 / 4",
+            "3 / 16"
+        ],
+        "explanation_en": "The correct answer is Option (1): −1 / 4"
+    },
+    {
+        "id": 360,
+        "question": "(\\frac{5}{4})2𝑎 =[(\\frac{5}{4})2 ]15  எனில் 𝑎 இன் மதிப்பு காண்க.     [NMMS -2009]",
+        "options": [
+            "15 / 2",
+            "30",
+            "15",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 15 / 2",
+        "question_en": "(\\frac{5}{4})2𝑎 =[(\\frac{5}{4})2 ]15 if 𝑎 value of . [NMMS -2009]",
+        "options_en": [
+            "15 / 2",
+            "30",
+            "15",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (1): 15 / 2"
+    },
+    {
+        "id": 361,
+        "question": "2𝑛∙2𝑛+1=64 எனில் 𝑛 இன் மதிப்பு காண்க.     [NMMS -2009]",
+        "options": [
+            "4",
+            "6",
+            "5 / 2",
+            "3 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "2𝑛∙2𝑛+1=64 if 𝑛 value of . [NMMS -2009]",
+        "options_en": [
+            "4",
+            "6",
+            "5 / 2",
+            "3 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 362,
+        "question": "4 5-𝑥=17 40 எனில் 𝑥 இன் மதிப்பு காண்.     [NMMS -2010]",
+        "options": [
+            "+3 / 8",
+            "+5 / 8",
+            "-3 / 8",
+            "-5 / 8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): +3 / 8",
+        "question_en": "4 5-𝑥=17 40 if 𝑥 value of . [NMMS -2010]",
+        "options_en": [
+            "+3 / 8",
+            "+5 / 8",
+            "-3 / 8",
+            "-5 / 8"
+        ],
+        "explanation_en": "The correct answer is Option (1): +3 / 8"
+    },
+    {
+        "id": 363,
+        "question": "சுருக்குக : (64)^{-2} 3\\times (27)2 3      [NMMS-2010]",
+        "options": [
+            "1",
+            "9 / 16",
+            "4 / 3",
+            "3 / 4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "Simplify: (64)^{-2} 3\\times (27)2 3 [NMMS-2010]",
+        "options_en": [
+            "1",
+            "9 / 16",
+            "4 / 3",
+            "3 / 4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 364,
+        "question": "(\\frac{1}{2})^{-2} +(\\frac{1}{3})^{-2} +(\\frac{1}{4})^{-2} +(\\frac{1}{9})^{-2} = ________.       [NMMS-2010]",
+        "options": [
+            "4",
+            "9",
+            "81",
+            "110"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "(\\frac{1}{2})^{-2} +(\\frac{1}{3})^{-2} +(\\frac{1}{4})^{-2} +(\\frac{1}{9})^{-2} = ________. [NMMS-2010]",
+        "options_en": [
+            "4",
+            "9",
+            "81",
+            "110"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 365,
+        "question": "12+22+22=32, 22+32+62=72 எவில் 32+42+122= ________.   [NMMS-2010]",
+        "options": [
+            "132",
+            "29^2",
+            "19^2",
+            "232"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 132",
+        "question_en": "12+22+22=32, 22+32+62=72 32+42+122= ________. [NMMS-2010]",
+        "options_en": [
+            "132",
+            "29^2",
+            "19^2",
+            "232"
+        ],
+        "explanation_en": "The correct answer is Option (1): 132"
+    },
+    {
+        "id": 366,
+        "question": "1 க்கும் 1000 க்கும் இடைவய  உள்ள முழு கை எண்களின்  எண்ணவிக்னக  ____ [NMMS-2011]",
+        "options": [
+            "29",
+            "8",
+            "35",
+            "30"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 29",
+        "question_en": "1 and 1000 and ____ [NMMS-2011]",
+        "options_en": [
+            "29",
+            "8",
+            "35",
+            "30"
+        ],
+        "explanation_en": "The correct answer is Option (1): 29"
+    },
+    {
+        "id": 367,
+        "question": "(4444)2 1234321 இன் மதிப்பு ________.      [NMMS-2011]",
+        "options": [
+            "36",
+            "64",
+            "49",
+            "16"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 36",
+        "question_en": "(4444)2 1234321 value of ________. [NMMS-2011]",
+        "options_en": [
+            "36",
+            "64",
+            "49",
+            "16"
+        ],
+        "explanation_en": "The correct answer is Option (1): 36"
+    },
+    {
+        "id": 368,
+        "question": "பெருக்கலில்  வநர்மாறு  இல்லாத  எண் ________.     [NMMS-2012]",
+        "options": [
+            "-5",
+            "-1 / 5",
+            "0",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −5",
+        "question_en": "________. [NMMS-2012]",
+        "options_en": [
+            "-5",
+            "-1 / 5",
+            "0",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (1): −5"
+    },
+    {
+        "id": 369,
+        "question": "கீழ்க்காணும்  கூற்றுகளில்  எது தவறானது ?     [NMMS-2012]",
+        "options": [
+            "இரு இயல் எண்களின்  கூடுதல் ஒரு இயல் எண்",
+            "இரு விகிதமுறு  எண்களின்  கூடுதல் ஒரு விகிதமுறு  எண்",
+            "இரு இயல் எண்களின்  கழித்தல்  ஒரு இயல் எண்ணாகவவ  இருக்கும்",
+            "இரு விகிதமுறு  எண்களின்  கழித்தல்  ஒரு விகிதமுறு  எண்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): இரு இயல் எண்களின்  கூடுதல் ஒரு இயல் எண்",
+        "question_en": "is wrong? [NMMS-2012]",
+        "options_en": [
+            "",
+            "",
+            "and",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): இரு இயல் எண்களின்  கூடுதல் ஒரு இயல் எண்"
+    },
+    {
+        "id": 370,
+        "question": "இரு விகிதமுறு  எண்களுக்கு  இடையில்  உள்ள விகிதமுறு  எண்களின்  எண்ணவிக்னக  ________.",
+        "options": [
+            "2",
+            "0   [NMMS-2012]",
+            "3",
+            "மிகப்பெரிய  எண்ணவிக்னக"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2",
+        "question_en": "________.",
+        "options_en": [
+            "2",
+            "0 [NMMS-2012]",
+            "3",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): 2"
+    },
+    {
+        "id": 371,
+        "question": "𝑎-8=(4)^{-4} எவில் 𝑎= ________.     [NMMS-2012]",
+        "options": [
+            "2",
+            "-2",
+            "4",
+            "16"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2",
+        "question_en": "𝑎-8=(4)^{-4} 𝑎= ________. [NMMS-2012]",
+        "options_en": [
+            "2",
+            "-2",
+            "4",
+            "16"
+        ],
+        "explanation_en": "The correct answer is Option (1): 2"
+    },
+    {
+        "id": 372,
+        "question": "1+3+5+7+⋯+99= ________.     [NMMS-2012]",
+        "options": [
+            "502",
+            "512",
+            "49^2",
+            "1002"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 502",
+        "question_en": "1+3+5+7+⋯+99= ________. [NMMS-2012]",
+        "options_en": [
+            "502",
+            "512",
+            "49^2",
+            "1002"
+        ],
+        "explanation_en": "The correct answer is Option (1): 502"
+    },
+    {
+        "id": 373,
+        "question": "ஒரு மினக மெய்யெண்ணின்  வர்க்கமூலம்  அந்த எண்ணவினை  விை பெரியதாக  அமைந்தால்   அந்த எண் ________.       [NMMS-2012]",
+        "options": [
+            "1 க்குக் குறைவாக  (அ) சமமாக இருக்கும் .",
+            "1 க்குக் குறைவாக  இருக்கும் .",
+            "1",
+            "1 க்குப் பெரியதாக  இருக்கும் ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 க்குக் குனைவாக  (அ) சமமாக இருக்கும் .",
+        "question_en": "________. [NMMS-2012]",
+        "options_en": [
+            "1 () and .",
+            "1 and .",
+            "1",
+            "1 and ."
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 க்குக் குனைவாக  (அ) சமமாக இருand ."
+    },
+    {
+        "id": 374,
+        "question": "விகிதமுறு  எண்களின்  கூட்டல் சமனி ________ ஆகும்.   [NMMS-2013]",
+        "options": [
+            "0",
+            "1",
+            "-1",
+            "2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "________ . [NMMS-2013]",
+        "options_en": [
+            "0",
+            "1",
+            "-1",
+            "2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 375,
+        "question": "2 5+(\\frac{-2}{5})=0 எவில் இது எந்தப் பண்னபக்  குவிக்கும் .    [NMMS-2013]",
+        "options": [
+            "கூட்டலின்  சமனிப்பண்பு",
+            "கூட்டலின்  எதிர்மறைப்  பண்பு",
+            "பெருக்கலின்  சமனிப் பண்பு",
+            "பெருக்கலின்  எதிர்மறைப்  பண்பு"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): கூட்டலின்  சமவிப்பண்பு",
+        "question_en": "2 5+(\\frac{-2}{5})=0 and . [NMMS-2013]",
+        "options_en": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): கூட்டலின்  சமவிப்பண்பு"
+    },
+    {
+        "id": 376,
+        "question": "3 4, 4 5 ஆகிய எண்களுக்கிடைவய  உள்ள ஒரு விகிதமுறு  எண் ________.   [NMMS-2013]",
+        "options": [
+            "32 / 40",
+            "38 / 40",
+            "36 / 40",
+            "31 / 40"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 32 / 40",
+        "question_en": "3 4, 4 5 ________. [NMMS-2013]",
+        "options_en": [
+            "32 / 40",
+            "38 / 40",
+            "36 / 40",
+            "31 / 40"
+        ],
+        "explanation_en": "The correct answer is Option (1): 32 / 40"
+    },
+    {
+        "id": 377,
+        "question": "2𝑥=16 எவில் 𝑥 இன் மதிப்பு ________.     [NMMS-2013]",
+        "options": [
+            "4",
+            "8",
+            "32",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "2𝑥=16 𝑥 value of ________. [NMMS-2013]",
+        "options_en": [
+            "4",
+            "8",
+            "32",
+            "5"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 378,
+        "question": "கீழ்க்காணும்  எண்களில்  முழு கை எண் எது?  [TRUST 2018,NMMS-2013]",
+        "options": [
+            "125",
+            "36",
+            "75",
+            "100"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 125",
+        "question_en": "? [TRUST 2018,NMMS-2013]",
+        "options_en": [
+            "125",
+            "36",
+            "75",
+            "100"
+        ],
+        "explanation_en": "The correct answer is Option (1): 125"
+    },
+    {
+        "id": 379,
+        "question": "120 \\times  (-200) \\times  0 6 \\times  10 இன் மதிப்பு ________.     [NMMS-2014]",
+        "options": [
+            "-400",
+            "0",
+            "-20",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −400",
+        "question_en": "120 \\times (-200) \\times 0 6 \\times 10 value of ________. [NMMS-2014]",
+        "options_en": [
+            "-400",
+            "0",
+            "-20",
+            "4"
+        ],
+        "explanation_en": "The correct answer is Option (1): −400"
+    },
+    {
+        "id": 380,
+        "question": "9 11 க்கும் 6 5 க்கும் இடைப்பட்ட  ஒரு விகிதமுறு  எண் ________.   [NMMS-2014]",
+        "options": [
+            "48 / 55",
+            "44 / 55",
+            "67 / 55",
+            "39 / 55"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 48 / 55",
+        "question_en": "9 11 and 6 5 and ________. [NMMS-2014]",
+        "options_en": [
+            "48 / 55",
+            "44 / 55",
+            "67 / 55",
+            "39 / 55"
+        ],
+        "explanation_en": "The correct answer is Option (1): 48 / 55"
+    },
+    {
+        "id": 381,
+        "question": "[(\\frac{-2}{3})^{-2} ]2  இன் மதிப்பு ________.      [NMMS-2014]",
+        "options": [
+            "51 / 6",
+            "51 / 16",
+            "47 / 16",
+            "9 / 16"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 51 / 16",
+        "question_en": "[(\\frac{-2}{3})^{-2} ]2 value of ________. [NMMS-2014]",
+        "options_en": [
+            "51 / 6",
+            "51 / 16",
+            "47 / 16",
+            "9 / 16"
+        ],
+        "explanation_en": "The correct answer is Option (2): 51 / 16"
+    },
+    {
+        "id": 382,
+        "question": "61 2+7 8= ________.       [NMMS-2014]",
+        "options": [
+            "73 / 8",
+            "83 / 7",
+            "37 / 8",
+            "33 / 8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 73 / 8",
+        "question_en": "61 2+7 8= ________. [NMMS-2014]",
+        "options_en": [
+            "73 / 8",
+            "83 / 7",
+            "37 / 8",
+            "33 / 8"
+        ],
+        "explanation_en": "The correct answer is Option (1): 73 / 8"
+    },
+    {
+        "id": 383,
+        "question": "5𝑚=125 எவில் 𝑚 இன் மதிப்னபக்  காண்க.     [NMMS-2015]",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3",
+        "question_en": "5𝑚=125 𝑚 . [NMMS-2015]",
+        "options_en": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "explanation_en": "The correct answer is Option (2): 3"
+    },
+    {
+        "id": 384,
+        "question": "1 5 லிருந்து எந்த எண்ணைக்  கழித்தால்  2 35 கிடைக்கும் ?   [NMMS-2015]",
+        "options": [
+            "2 / 5",
+            "7 / 35",
+            "1 / 7",
+            "2 / 7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1 / 7",
+        "question_en": "1 5 2 35 ? [NMMS-2015]",
+        "options_en": [
+            "2 / 5",
+            "7 / 35",
+            "1 / 7",
+            "2 / 7"
+        ],
+        "explanation_en": "The correct answer is Option (3): 1 / 7"
+    },
+    {
+        "id": 385,
+        "question": "இரட்டை  இயல் எண்களின்  கைம் ஆவது ________.    [NMMS-2015]",
+        "options": [
+            "இரட்டை  எண்",
+            "ஒற்றை எண்",
+            "விகிதமுறா  எண்",
+            "பகா எண்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): இரட்னை  எண்",
+        "question_en": "________. [NMMS-2015]",
+        "options_en": [
+            "",
+            "Odd number",
+            "",
+            "Prime number"
+        ],
+        "explanation_en": "The correct answer is Option (1): இரட்னை  எண்"
+    },
+    {
+        "id": 386,
+        "question": "இரு விகிதமுறா  எண்களின்  பெருக்கல்  ________.    [NMMS-2015]",
+        "options": [
+            "எப்போதும்  விகிதமுறா  எண்",
+            "எப்போதும்  விகிதமுறு  எண்",
+            "எப்போதும்  ஒரு முழு எண்",
+            "விகிதமுறு  அல்லது  விகிதமுறா  எண்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): எப்போதும்  விகிதமுறா  எண்",
+        "question_en": "________. [NMMS-2015]",
+        "options_en": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): எப்போதும்  விகிதமுறா  எண்"
+    },
+    {
+        "id": 387,
+        "question": "-12 இன் பெருக்கல்  தலைகீழி  ________.     [NMMS-2015]",
+        "options": [
+            "12",
+            "1 / 12",
+            "-1 / 12",
+            "0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 12",
+        "question_en": "-12 ________. [NMMS-2015]",
+        "options_en": [
+            "12",
+            "1 / 12",
+            "-1 / 12",
+            "0"
+        ],
+        "explanation_en": "The correct answer is Option (1): 12"
+    },
+    {
+        "id": 388,
+        "question": "(-2.56\\times 4.2)0= ________.       [NMMS-2016]",
+        "options": [
+            "0",
+            "1",
+            "10.752",
+            "-10.752"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "(-2.56\\times 4.2)0= ________. [NMMS-2016]",
+        "options_en": [
+            "0",
+            "1",
+            "10.752",
+            "-10.752"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 389,
+        "question": "எந்த எண்ணுைன்  5 6 ஐக் கூட்டிைால்  49 30 கிடைக்கும் .    [NMMS-2016]",
+        "options": [
+            "4 / 5",
+            "-4 / 5",
+            "5 / 4",
+            "-5 / 4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4 / 5",
+        "question_en": "5 6 49 30 will be obtained . [NMMS-2016]",
+        "options_en": [
+            "4 / 5",
+            "-4 / 5",
+            "5 / 4",
+            "-5 / 4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4 / 5"
+    },
+    {
+        "id": 390,
+        "question": "(13 4\\times 31 7)-(43 8\\div 53 5)= ________.     [NMMS-2016]",
+        "options": [
+            "432 / 23",
+            "423 / 32",
+            "632 / 23",
+            "623 / 32"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 432 / 23",
+        "question_en": "(13 4\\times 31 7)-(43 8\\div 53 5)= ________. [NMMS-2016]",
+        "options_en": [
+            "432 / 23",
+            "423 / 32",
+            "632 / 23",
+            "623 / 32"
+        ],
+        "explanation_en": "The correct answer is Option (1): 432 / 23"
+    },
+    {
+        "id": 391,
+        "question": "√0.00003136  இன் மதிப்பு ________.     [NMMS-2016]",
+        "options": [
+            "0.0056",
+            "0.056",
+            "5.6",
+            "56"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0.0056",
+        "question_en": "√0.00003136 value of ________. [NMMS-2016]",
+        "options_en": [
+            "0.0056",
+            "0.056",
+            "5.6",
+            "56"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0.0056"
+    },
+    {
+        "id": 392,
+        "question": "0, 2, 6, 12, 20, 30, ________ விடுபட்ட  எண்ணைக்  காண்க.   [NMMS-2016]",
+        "options": [
+            "40",
+            "48",
+            "42",
+            "46"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 40",
+        "question_en": "0, 2, 6, 12, 20, 30, ________ . [NMMS-2016]",
+        "options_en": [
+            "40",
+            "48",
+            "42",
+            "46"
+        ],
+        "explanation_en": "The correct answer is Option (1): 40"
+    },
+    {
+        "id": 393,
+        "question": "√4+√21+√5+√121= ________.     [NMMS-2016]",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "√4+√21+√5+√121= ________. [NMMS-2016]",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 394,
+        "question": "(23)-2\\times \\( (3^2)^2 \\)= ________.       [NMMS-2016]",
+        "options": [
+            "64 / 81",
+            "3 / 2",
+            "2 / 3",
+            "81 / 64"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 64 / 81",
+        "question_en": "(23)-2\\times \\( (3^2)^2 \\)= ________. [NMMS-2016]",
+        "options_en": [
+            "64 / 81",
+            "3 / 2",
+            "2 / 3",
+            "81 / 64"
+        ],
+        "explanation_en": "The correct answer is Option (1): 64 / 81"
+    },
+    {
+        "id": 395,
+        "question": "(𝑎11 𝑎13)1 143\\times (𝑎13 𝑎7)1 91\\times (𝑎7 𝑎11)1 77 இன் மதிப்பு ________.      [NMMS-2017]",
+        "options": [
+            "1",
+            "-1",
+            "𝑎",
+            "1 / 𝑎"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "(𝑎11 𝑎13)1 143\\times (𝑎13 𝑎7)1 91\\times (𝑎7 𝑎11)1 77 value of ________. [NMMS-2017]",
+        "options_en": [
+            "1",
+            "-1",
+            "𝑎",
+            "1 / 𝑎"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 396,
+        "question": "பின்வரும்  விகிதமுறு  எண்களில்  3 4 க்கும் 4 5 க்கும் இடைவய  உள்ள எண் எது? [NMMS -2017]",
+        "options": [
+            "29 / 40",
+            "31 / 40",
+            "33 / 40",
+            "27 / 20"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 29 / 40",
+        "question_en": "3 4 and 4 5 and ? [NMMS -2017]",
+        "options_en": [
+            "29 / 40",
+            "31 / 40",
+            "33 / 40",
+            "27 / 20"
+        ],
+        "explanation_en": "The correct answer is Option (1): 29 / 40"
+    },
+    {
+        "id": 397,
+        "question": "√7293 - √812 √10003 - √642 இன் மதிப்பு ________.     [NMMS -2017]",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "னைரயறுக்கப்பைவில்னல"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "√7293 - √812 √10003 - √642 value of ________. [NMMS -2017]",
+        "options_en": [
+            "0",
+            "1",
+            "2",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 398,
+        "question": "பின்வருவைவற்றுள்  எது விகிதமுறா  எண்?     [NMMS -2017]",
+        "options": [
+            "0",
+            "𝜋",
+            "22 / 7",
+            "3.14"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "? [NMMS -2017]",
+        "options_en": [
+            "0",
+            "𝜋",
+            "22 / 7",
+            "3.14"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 399,
+        "question": "2\\times 2\\times 2\\times 2\\times ….𝑛 முனை =1024 எவில் 𝑛= ________.    [NMMS -2017]",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 8",
+        "question_en": "2\\times 2\\times 2\\times 2\\times ….𝑛 =1024 𝑛= ________. [NMMS -2017]",
+        "options_en": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "explanation_en": "The correct answer is Option (1): 8"
+    },
+    {
+        "id": 400,
+        "question": "ஒரு விகிதமுறு  எண்ணுக்கு  அதுவவ தலைகீழியாகவும்  உள்ள எண்களின்  எண்ணவிக்னக   ________.       [NMMS -2018]",
+        "options": [
+            "0",
+            "4",
+            "2",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "________. [NMMS -2018]",
+        "options_en": [
+            "0",
+            "4",
+            "2",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 401,
+        "question": "1 2 of (1 2 of 8)= ________.       [NMMS -2018]",
+        "options": [
+            "4",
+            "1",
+            "16",
+            "2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "1 2 of (1 2 of 8)= ________. [NMMS -2018]",
+        "options_en": [
+            "4",
+            "1",
+            "16",
+            "2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 402,
+        "question": "12𝑥-1^{-12}=132 எவில் 𝑥 இன் மதிப்பு ________.     [NMMS -2018]",
+        "options": [
+            "-3",
+            "3",
+            "2",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −3",
+        "question_en": "12𝑥-1^{-12}=132 𝑥 value of ________. [NMMS -2018]",
+        "options_en": [
+            "-3",
+            "3",
+            "2",
+            "1"
+        ],
+        "explanation_en": "The correct answer is Option (1): −3"
+    },
+    {
+        "id": 403,
+        "question": "√273 உைன் எந்த மிகச்சிவிய  மினக எண்ணைக்  கூட்டிைால்  ஒரு சரியான  கை எண்  கிடைக்கும் ?       [NMMS -2018]",
+        "options": [
+            "5",
+            "9",
+            "27",
+            "-2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5",
+        "question_en": "√273 ? [NMMS -2018]",
+        "options_en": [
+            "5",
+            "9",
+            "27",
+            "-2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 5"
+    },
+    {
+        "id": 404,
+        "question": "இரட்டைப்  பகா எண்களின்  எண்ணவிக்னக  ________.    [NMMS -2018]",
+        "options": [
+            "0",
+            "2",
+            "1",
+            "இரண்டுக்கு  வமலாக"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "Prime number________. [NMMS -2018]",
+        "options_en": [
+            "0",
+            "2",
+            "1",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 405,
+        "question": "ஒரு எண்ணும்  அனை் பெருக்கல்  தலைகீழியும்  அதே எண்ணாக  அமையும்  எவில்     அவ்வெண்கள்  ________.      [NMMS -2018]",
+        "options": [
+            "1 மற்றும் -1",
+            "1 மட்டும்",
+            "-1 மட்டும்",
+            "0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 மற்றும் −1",
+        "question_en": "________. [NMMS -2018]",
+        "options_en": [
+            "1 and -1",
+            "1 only",
+            "-1 only",
+            "0"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 and −1"
+    },
+    {
+        "id": 406,
+        "question": "கீழ்வருவைவற்றுள்  எது விகிதமுறு  எண் இல்னல ?    [NMMS-2018]",
+        "options": [
+            "0",
+            "1 / 2",
+            "√3",
+            "-1 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "? [NMMS-2018]",
+        "options_en": [
+            "0",
+            "1 / 2",
+            "√3",
+            "-1 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 0"
+    },
+    {
+        "id": 407,
+        "question": "8 9 கிடைக்க  ________ என்ற எண்ணை  -6 11 லிருந்து கழிக்க வைண்டும் .   [NMMS 2019]",
+        "options": [
+            "34 / 99",
+            "-142 / 99",
+            "142 / 99",
+            "-34 / 99"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 34 / 99",
+        "question_en": "8 9 to get ________ the number -6 11 . [NMMS 2019]",
+        "options_en": [
+            "34 / 99",
+            "-142 / 99",
+            "142 / 99",
+            "-34 / 99"
+        ],
+        "explanation_en": "The correct answer is Option (1): 34 / 99"
+    },
+    {
+        "id": 408,
+        "question": "112 528 இன் எளிய டைிவில்  உள்ள பகுதியின்  இலக்கங்களின்  கூடுதல் ________.  [NMMS 2019]",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4",
+        "question_en": "112 528 ________. [NMMS 2019]",
+        "options_en": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4"
+    },
+    {
+        "id": 409,
+        "question": "ஒரு நாைாச் சுருளின்  நீளம் 183 4 மீ ஆகும். 4 முழுச் சுருள்கள்  மற்றும் ஒரு சுருளில்  மூன்வில்   ஒரு பகுதியின்  தமாத்த நீளம் ________.       [NMMS-2020]",
+        "options": [
+            "811 / 4 மீ",
+            "821 / 2 மீ",
+            "801 / 2 மீ",
+            "801 / 2 மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 811 / 4 மீ",
+        "question_en": "183 4 . 4 and ________. [NMMS-2020]",
+        "options_en": [
+            "811 / 4",
+            "821 / 2",
+            "801 / 2",
+            "801 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 811 / 4 மீ"
+    },
+    {
+        "id": 410,
+        "question": "[4 3-(\\frac{-3}{2})]+[-5 3\\div 30 12]+[-12 9\\times -27 16] இன் சுருக்கப்பட்ை  மதிப்பு ________.   [NMMS-2020]",
+        "options": [
+            "-53 / 12",
+            "-12 / 53",
+            "53 / 12",
+            "12 / 53"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −53 / 12",
+        "question_en": "[4 3-(\\frac{-3}{2})]+[-5 3\\div 30 12]+[-12 9\\times -27 16] ________. [NMMS-2020]",
+        "options_en": [
+            "-53 / 12",
+            "-12 / 53",
+            "53 / 12",
+            "12 / 53"
+        ],
+        "explanation_en": "The correct answer is Option (1): −53 / 12"
+    },
+    {
+        "id": 411,
+        "question": "9^2 க்கும் 102 க்கும் இடையில்  உள்ள இயல் எண்களின்  எண்ணவிக்னக  _____.  [NMMS-2020]",
+        "options": [
+            "17",
+            "18",
+            "19",
+            "20"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 17",
+        "question_en": "9^2 and 102 and _____. [NMMS-2020]",
+        "options_en": [
+            "17",
+            "18",
+            "19",
+            "20"
+        ],
+        "explanation_en": "The correct answer is Option (1): 17"
+    },
+    {
+        "id": 412,
+        "question": "𝑎 𝑏 என்ை விகிதமுறு  எண்ணவில்  𝑎≠𝑏 எவில் அனை் பெருக்கல்  வநர்மாறு  ____. [NMMS-2021]",
+        "options": [
+            "𝑏  / 𝑎",
+            "𝑎   / 𝑏",
+            "ab",
+            "ba"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 𝑏  / 𝑎",
+        "question_en": "𝑎 𝑏 𝑎≠𝑏 ____. [NMMS-2021]",
+        "options_en": [
+            "𝑏 / 𝑎",
+            "𝑎 / 𝑏",
+            "ab",
+            "ba"
+        ],
+        "explanation_en": "The correct answer is Option (1): 𝑏  / 𝑎"
+    },
+    {
+        "id": 413,
+        "question": "√98 √162 இன் சுருக்கப்பட்ை  மதிப்பு ________.     [NMMS-2021]",
+        "options": [
+            "7 / 9",
+            "6 / 9",
+            "8 / 7",
+            "8 / 6"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 7 / 9",
+        "question_en": "√98 √162 ________. [NMMS-2021]",
+        "options_en": [
+            "7 / 9",
+            "6 / 9",
+            "8 / 7",
+            "8 / 6"
+        ],
+        "explanation_en": "The correct answer is Option (1): 7 / 9"
+    },
+    {
+        "id": 414,
+        "question": "(20+7)+12=20+(7+12) என்பது கீழ்க்கண்ைவற்றுள்  எந்த பண்னப நினைவு தசய்யும் ?            [NMMS-2023]",
+        "options": [
+            "அடைவுப்பண்பு",
+            "பரிமாற்றுப்பண்பு",
+            "வசர்ப்புப்பண்பு",
+            "கூட்டல் சமனி"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): அனைவுப்பண்பு",
+        "question_en": "(20+7)+12=20+(7+12) ? [NMMS-2023]",
+        "options_en": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): அனைவுப்பண்பு"
+    },
+    {
+        "id": 415,
+        "question": "(15\\times 16\\times 17)0 இன் மதிப்பு ________.     [NMMS-2023]",
+        "options": [
+            "0",
+            "1",
+            "15",
+            "17"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1",
+        "question_en": "(15\\times 16\\times 17)0 value of ________. [NMMS-2023]",
+        "options_en": [
+            "0",
+            "1",
+            "15",
+            "17"
+        ],
+        "explanation_en": "The correct answer is Option (2): 1"
+    },
+    {
+        "id": 416,
+        "question": "1 2-(3 4^{-5} 6)≠(1 2-3 4)^{-5} 6 என்பது கழித்தலானது  விகிதமுறு  எண்களின்  ________ பண்பினை   நிவறவு தசய்யாது  என்பவத  விளக்குகிறது .     [NMMS-2023]",
+        "options": [
+            "பரிமாற்று",
+            "அடைவு",
+            "பங்கீட்டு",
+            "வசர்ப்பு"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): வசர்ப்பு",
+        "question_en": "1 2-(3 4^{-5} 6)≠(1 2-3 4)^{-5} 6 ________ . [NMMS-2023]",
+        "options_en": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (4): வசர்ப்பு"
+    },
+    {
+        "id": 417,
+        "question": "-3 5 இன் கூட்டல் தலைகீழி  ________.     [TRUST 2015]",
+        "options": [
+            "-3 / 5",
+            "5 / 3",
+            "3 / 5",
+            "-5 / 3"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3 / 5",
+        "question_en": "-3 5 ________. [TRUST 2015]",
+        "options_en": [
+            "-3 / 5",
+            "5 / 3",
+            "3 / 5",
+            "-5 / 3"
+        ],
+        "explanation_en": "The correct answer is Option (3): 3 / 5"
+    },
+    {
+        "id": 418,
+        "question": "𝑦0= ________.       [TRUST 2015]",
+        "options": [
+            "1",
+            "-1",
+            "0",
+            "𝑦"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "𝑦0= ________. [TRUST 2015]",
+        "options_en": [
+            "1",
+            "-1",
+            "0",
+            "𝑦"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1"
+    },
+    {
+        "id": 419,
+        "question": "2 7\\times (9 10+2 5)=2 7\\times 9 10+2 7\\times 2 5 என்ை கூற்றில்  பயன்படுத்தப்பட்டுள்ள  பெருக்கல்  பண்பு   [TRUST 2018]",
+        "options": [
+            "அடைவுப்பண்பு",
+            "வசர்ப்புப்பண்பு",
+            "பரிமாற்றுப்பண்பு",
+            "பங்கீட்டுப்பண்பு"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): பங்கீட்டுப்பண்பு",
+        "question_en": "2 7\\times (9 10+2 5)=2 7\\times 9 10+2 7\\times 2 5 [TRUST 2018]",
+        "options_en": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (4): பங்கீட்டுப்பண்பு"
+    },
+    {
+        "id": 420,
+        "question": "6.25 இன் வர்க்கமூலம்  காண்க.     [TRUST 2019]",
+        "options": [
+            "0.025",
+            "2.005",
+            "2.05",
+            "2.5"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 2.5",
+        "question_en": "6.25 . [TRUST 2019]",
+        "options_en": [
+            "0.025",
+            "2.005",
+            "2.05",
+            "2.5"
+        ],
+        "explanation_en": "The correct answer is Option (4): 2.5"
+    },
+    {
+        "id": 421,
+        "question": "12𝑥=144 எவில் 𝑥= ________.     [TRUST 2019]",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "6"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "12𝑥=144 𝑥= ________. [TRUST 2019]",
+        "options_en": [
+            "3",
+            "2",
+            "4",
+            "6"
+        ],
+        "explanation_en": "The correct answer is Option (1): 3"
+    },
+    {
+        "id": 422,
+        "question": "1 8-(1 6^{-1} 4) இன் மதிப்பு ________.     [TRUST 2021]",
+        "options": [
+            "5 / 24",
+            "5 / 12",
+            "7 / 24",
+            "7 / 12"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5 / 24",
+        "question_en": "1 8-(1 6^{-1} 4) value of ________. [TRUST 2021]",
+        "options_en": [
+            "5 / 24",
+            "5 / 12",
+            "7 / 24",
+            "7 / 12"
+        ],
+        "explanation_en": "The correct answer is Option (1): 5 / 24"
+    },
+    {
+        "id": 423,
+        "question": "செவ்விய  எண் ________.      [TRUST 2021]",
+        "options": [
+            "26",
+            "27",
+            "28",
+            "29"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 26",
+        "question_en": "________. [TRUST 2021]",
+        "options_en": [
+            "26",
+            "27",
+            "28",
+            "29"
+        ],
+        "explanation_en": "The correct answer is Option (1): 26"
+    },
+    {
+        "id": 424,
+        "question": "எந்த வர்க்கத்தின்  கடைசி இலக்க எண் 6 இல் முடியும் ?   [TRUST 2021]",
+        "options": [
+            "19^2",
+            "112",
+            "242",
+            "132"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 192",
+        "question_en": "6 ? [TRUST 2021]",
+        "options_en": [
+            "19^2",
+            "112",
+            "242",
+            "132"
+        ],
+        "explanation_en": "The correct answer is Option (1): 192"
+    },
+    {
+        "id": 425,
+        "question": "-7 3 உைன் எந்த எண்ணைக்  கூட்டிைால்  3 7 கிடைக்கும் ?   [TRUST 2021]",
+        "options": [
+            "21 / 58",
+            "58 / 21",
+            "47 / 21",
+            "50 / 21"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 21 / 58",
+        "question_en": "-7 3 3 7 ? [TRUST 2021]",
+        "options_en": [
+            "21 / 58",
+            "58 / 21",
+            "47 / 21",
+            "50 / 21"
+        ],
+        "explanation_en": "The correct answer is Option (1): 21 / 58"
+    },
+    {
+        "id": 426,
+        "question": "-5 4 என்ை எண் அமையும்  இடைதவளி  ________.     [TRUST 2021]",
+        "options": [
+            "-3 / 4 மற்றும் 0",
+            "-1 மற்றும் 0",
+            "-2 மற்றும் -1",
+            "-5 மற்றும் -4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −3 / 4 மற்றும் 0",
+        "question_en": "-5 4 ________. [TRUST 2021]",
+        "options_en": [
+            "-3 / 4 and 0",
+            "-1 and 0",
+            "-2 and -1",
+            "-5 and -4"
+        ],
+        "explanation_en": "The correct answer is Option (1): −3 / 4 and 0"
+    },
+    {
+        "id": 427,
+        "question": "55 \\times  5^{-4} \\times  5𝑥 512=5^{-5} எவில் 𝑥 இன் மதிப்பு ________.     [TRUST 2021]",
+        "options": [
+            "6",
+            "5",
+            "4",
+            "2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 6",
+        "question_en": "55 \\times 5^{-4} \\times 5𝑥 512=5^{-5} 𝑥 value of ________. [TRUST 2021]",
+        "options_en": [
+            "6",
+            "5",
+            "4",
+            "2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 6"
+    },
+    {
+        "id": 428,
+        "question": "1 (\\frac{10}{11}) ஆவது (\\frac{1}{10}) 11 ஐக் காட்டிலும்  எவ்வளவு  அதிகம்?    [TRUST 2021]",
+        "options": [
+            "1 / 11",
+            "-1 / 11",
+            "12 / 11",
+            "1 / 10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 / 11",
+        "question_en": "1 (\\frac{10}{11}) (\\frac{1}{10}) 11 ? [TRUST 2021]",
+        "options_en": [
+            "1 / 11",
+            "-1 / 11",
+            "12 / 11",
+            "1 / 10"
+        ],
+        "explanation_en": "The correct answer is Option (1): 1 / 11"
+    },
+    {
+        "id": 429,
+        "question": "𝑎=1 2, 𝑏=2 3 எவில் (𝑎+𝑏)\\div (𝑎-𝑏)= ________.     [TRUST 2022]",
+        "options": [
+            "-7",
+            "7",
+            "6",
+            "-6"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −7",
+        "question_en": "𝑎=1 2, 𝑏=2 3 (𝑎+𝑏)\\div (𝑎-𝑏)= ________. [TRUST 2022]",
+        "options_en": [
+            "-7",
+            "7",
+            "6",
+            "-6"
+        ],
+        "explanation_en": "The correct answer is Option (1): −7"
+    },
+    {
+        "id": 430,
+        "question": "1 3 மற்றும் 5 9 ஆகியவற்விற்கு  இடைவய  உள்ள ஒரு விகிதமுறு  எண் _____.  [TRUST 202 2]",
+        "options": [
+            "4 / 9",
+            "8 / 9",
+            "5 / 9",
+            "1 / 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4 / 9",
+        "question_en": "1 3 and 5 9 _____. [TRUST 202 2]",
+        "options_en": [
+            "4 / 9",
+            "8 / 9",
+            "5 / 9",
+            "1 / 2"
+        ],
+        "explanation_en": "The correct answer is Option (1): 4 / 9"
+    },
+    {
+        "id": 431,
+        "question": "பின்வரும்  வசாடிகளில்  எது சமான எண்களின்  வசாடியாகும் ?   [TRUST 2022]",
+        "options": [
+            "-20 / 12, 5 / 3",
+            "7 / -5, -5 / 7",
+            "-18 / 36, 20 / 44",
+            "16 / -30, -8 / 15"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): −20 / 12, 5 / 3",
+        "question_en": "? [TRUST 2022]",
+        "options_en": [
+            "-20 / 12, 5 / 3",
+            "7 / -5, -5 / 7",
+            "-18 / 36, 20 / 44",
+            "16 / -30, -8 / 15"
+        ],
+        "explanation_en": "The correct answer is Option (1): −20 / 12, 5 / 3"
+    },
+    {
+        "id": 432,
+        "question": "ஒரு குனை எண்ணவின் கைமாைது  ________.     [TRUST 2022]",
+        "options": [
+            "எப்போதும்  குனை எண்ணாகும் .",
+            "எப்போதும்  மினக எண்ணாகும்",
+            "குனை எண்ணுமல்ல , மினக எண்ணுமல்ல",
+            "குனை எண் அல்லது  மினக எண்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): எப்போதும்  குனை எண்ைாகும் .",
+        "question_en": "________. [TRUST 2022]",
+        "options_en": [
+            ".",
+            "",
+            ",",
+            ""
+        ],
+        "explanation_en": "The correct answer is Option (1): எப்போதும்  குனை எண்ைாகும் ."
+    },
+    {
+        "id": 433,
+        "question": "1.86\\times 105 என்பனை்  திட்ைக்குவியீடு  ________.     [TRUST 2022]",
+        "options": [
+            "186000",
+            "18600",
+            "1860000",
+            "1860"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 186000",
+        "question_en": "1.86\\times 105 ________. [TRUST 2022]",
+        "options_en": [
+            "186000",
+            "18600",
+            "1860000",
+            "1860"
+        ],
+        "explanation_en": "The correct answer is Option (1): 186000"
+    },
+    {
+        "id": 434,
+        "question": "3𝑎=1 எவில் 𝑎 இன் மதிப்பு ________.     [TRUST 2022]",
+        "options": [
+            "𝑎",
+            "0",
+            "1",
+            "∞"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 𝑎",
+        "question_en": "3𝑎=1 𝑎 value of ________. [TRUST 2022]",
+        "options_en": [
+            "𝑎",
+            "0",
+            "1",
+            "∞"
+        ],
+        "explanation_en": "The correct answer is Option (1): 𝑎"
+    },
+    {
+        "id": 435,
+        "question": "125 க்கு அடுத்த முழுகை  எண் ________.     [TRUST 2022]    (1)  216 (2) 125 (3) 625 (4) 343  விடைகள்  :  வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண்  1 (2) 31 (4) 61 (4) 91 (4) 121 (4) 151 (1) 181 (1)  2 (3) 32 (3) 62 (1) 9^2 (4) 122 (3) 152 (1) 182 (1)  3 (1) 33 (4) 63 (1) 93 (2) 123 (1) 153 (3) 183 (4)  4 (3) 34 (2) 64 (1) 9^4 (3) 124 (1) 154 (1) 184 (2)  5 (2) 35 (2) 65 (1) 95 (2) 125 (2) 155 (1) 185 (2)  6 (3) 36 (3) 66 (3) 96 (2) 126 (1) 156 (1) 186 (3)  7 (3) 37 (3) 67 (1) 97 (4) 127 (4) 157 (3) 187 (1)  8 (4) 38 (1) 68 (2) 98 (1) 128 (1) 158 (4) 188 (3)  9 (3) 39 (2) 69 (2) 99 (4) 129 (4) 159 (4) 189 (4)  10 (3) 40 (2) 70 (4) 100 (3) 130 (3) 160 (2) 190 (1)  11 (2) 41 (3) 71 (3) 101 (3) 131 (4) 161 (2) 191 (2)  12 (2) 42 (4) 72 (1) 102 (2) 132 (2) 162 (1) 19^2 (1)  13 (3) 43 (2) 73 (1) 103 (1) 133 (2) 163 (3) 193 (4)  14 (2) 44 (2) 74 (1) 104 (2) 134 (2) 164 (4) 19^4 (2)  15 (3) 45 (4) 75 (3) 105 (1) 135 (2) 165 (3) 195 (4)  16 (3) 46 (2) 76 (3) 106 (4) 136 (1) 166 (2) 196 (3)  17 (3) 47 (3) 77 (2) 107 (3) 137 (4) 167 (3) 197 (3)  18 (3) 48 (4) 78 (1) 108 (1) 138 (3) 168 (3) 198 (2)  19 (2) 49 (2) 79 (3) 109 (1) 139 (2) 169 (2) 199 (4)  20 (3) 50 (3) 80 (1) 110 (1) 140 (3) 170 (3) 200 (2)  21 (2) 51 (1) 81 (1) 111 (2) 141 (1) 171 (4) 201 (2)  22 (4) 52 (3) 82 (4) 112 (3) 142 (3) 172 (4) 202 (2)  23 (4) 53 (3) 83 (2) 113 (4) 143 (3) 173 (4) 203 (1)  24 (3) 54 (3) 84 (1) 114 (1) 144 (4) 174 (3) 204 (2)  25 (3) 55 (1) 85 (3) 115 (2) 145 (2) 175 (1) 205 (2)  26 (3) 56 (3) 86 (2) 116 (2) 146 (4) 176 (1) 206 (2)  27 (4) 57 (2) 87 (1) 117 (1) 147 (2) 177 (3) 207 (1)  28 (2) 58 (4) 88 (2) 118 (1) 148 (4) 178 (3) 208 (2)  29 (4) 59 (4) 89 (4) 119 (3) 149 (3) 179 (4) 209 (4)  30 (3) 60 (2) 90 (1) 120 (1) 150 (2) 180 (2) 210 (3)   வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண் வினா  எண் விடை  எண்  211 (4) 246 (3) 281 (2) 316 (2) 351 (3) 386 (4) 421 (2)  212 (2) 247 (1) 282 (4) 317 (2) 352 (3) 387 (3) 422 (1)  213 (4) 248 (1) 283 (3) 318 (3) 353 (3) 388 (2) 423 (3)  214 (1) 249 (1) 284 (4) 319 (2) 354 (3) 389 (1) 424 (3)  215 (2) 250 (3) 285 (3) 320 (2) 355 (2) 390 (2) 425 (2)  216 (1) 251 (4) 286 (4) 321 (4) 356 (4) 391 (1) 426 (3)  217 (1) 252 (2) 287 (1) 322 (2) 357 (4) 39^2 (3) 427 (1)  218 (1) 253 (3) 288 (1) 323 (4) 358 (2) 393 (3) 428 (3)  219 (2) 254 (2) 289 (4) 324 (4) 359 (4) 39^4 (4) 429 (1)  220 (4) 255 (2) 290 (3) 325 (1) 360 (3) 395 (1) 430 (1)  221 (3) 256 (2) 291 (3) 326 (2) 361 (3) 396 (2) 431 (4)  222 (1) 257 (3) 29^2 (1) 327 (1) 362 (3) 397 (1) 432 (1)  223 (4) 258 (2) 293 (2) 328 (2) 363 (2) 398 (2) 433 (1)  224 (2) 259 (2) 29^4 (1) 329 (1) 364 (4) 399 (3) 434 (2)  225 (1) 260 (2) 295 (1) 330 (1) 365 (1) 400 (3) 435 (1)  226 (2) 261 (3) 296 (2) 331 (3) 366 (2) 401 (4)    227 (2) 262 (1) 297 (1) 332 (1) 367 (4) 402 (2)    228 (3) 263 (3) 298 (2) 333 (3) 368 (3) 403 (1)    229 (1) 264 (2) 299 (1) 334 (2) 369 (3) 404 (3)    230 (2) 265 (4) 300 (2) 335 (3) 370 (4) 405 (1)    231 (2) 266 (4) 301 (2) 336 (2) 371 (1) 406 (3)    232 (3) 267 (3) 302 (1) 337 (1) 372 (1) 407 (2)    233 (1) 268 (3) 303 (2) 338 (4) 373 (2) 408 (3)    234 (4) 269 (3) 304 (1) 339 (3) 374 (1) 409",
+        "options": [
+            "235 (3) 270 (4) 305 (4) 340 (4) 375",
+            "410",
+            "236",
+            "271 (4) 306 (3) 341 (4) 376 (4) 411 (2)    / 237 (2) 272 (3) 307 (2) 342 (1) 377 (1) 412 (1)    / 238 (3) 273 (1) 308 (3) 343 (4) 378 (1) 413 (1)    / 239 (3) 274 (3) 309 (1) 344 (3) 379 (2) 414 (3)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 235 (3) 270 (4) 305 (4) 340 (4) 375",
+        "question_en": "125 ________. [TRUST 2022] (1) 216 (2) 125 (3) 625 (4) 343 : 1 (2) 31 (4) 61 (4) 91 (4) 121 (4) 151 (1) 181 (1) 2 (3) 32 (3) 62 (1) 9^2 (4) 122 (3) 152 (1) 182 (1) 3 (1) 33 (4) 63 (1) 93 (2) 123 (1) 153 (3) 183 (4) 4 (3) 34 (2) 64 (1) 9^4 (3) 124 (1) 154 (1) 184 (2) 5 (2) 35 (2) 65 (1) 95 (2) 125 (2) 155 (1) 185 (2) 6 (3) 36 (3) 66 (3) 96 (2) 126 (1) 156 (1) 186 (3) 7 (3) 37 (3) 67 (1) 97 (4) 127 (4) 157 (3) 187 (1) 8 (4) 38 (1) 68 (2) 98 (1) 128 (1) 158 (4) 188 (3) 9 (3) 39 (2) 69 (2) 99 (4) 129 (4) 159 (4) 189 (4) 10 (3) 40 (2) 70 (4) 100 (3) 130 (3) 160 (2) 190 (1) 11 (2) 41 (3) 71 (3) 101 (3) 131 (4) 161 (2) 191 (2) 12 (2) 42 (4) 72 (1) 102 (2) 132 (2) 162 (1) 19^2 (1) 13 (3) 43 (2) 73 (1) 103 (1) 133 (2) 163 (3) 193 (4) 14 (2) 44 (2) 74 (1) 104 (2) 134 (2) 164 (4) 19^4 (2) 15 (3) 45 (4) 75 (3) 105 (1) 135 (2) 165 (3) 195 (4) 16 (3) 46 (2) 76 (3) 106 (4) 136 (1) 166 (2) 196 (3) 17 (3) 47 (3) 77 (2) 107 (3) 137 (4) 167 (3) 197 (3) 18 (3) 48 (4) 78 (1) 108 (1) 138 (3) 168 (3) 198 (2) 19 (2) 49 (2) 79 (3) 109 (1) 139 (2) 169 (2) 199 (4) 20 (3) 50 (3) 80 (1) 110 (1) 140 (3) 170 (3) 200 (2) 21 (2) 51 (1) 81 (1) 111 (2) 141 (1) 171 (4) 201 (2) 22 (4) 52 (3) 82 (4) 112 (3) 142 (3) 172 (4) 202 (2) 23 (4) 53 (3) 83 (2) 113 (4) 143 (3) 173 (4) 203 (1) 24 (3) 54 (3) 84 (1) 114 (1) 144 (4) 174 (3) 204 (2) 25 (3) 55 (1) 85 (3) 115 (2) 145 (2) 175 (1) 205 (2) 26 (3) 56 (3) 86 (2) 116 (2) 146 (4) 176 (1) 206 (2) 27 (4) 57 (2) 87 (1) 117 (1) 147 (2) 177 (3) 207 (1) 28 (2) 58 (4) 88 (2) 118 (1) 148 (4) 178 (3) 208 (2) 29 (4) 59 (4) 89 (4) 119 (3) 149 (3) 179 (4) 209 (4) 30 (3) 60 (2) 90 (1) 120 (1) 150 (2) 180 (2) 210 (3) 211 (4) 246 (3) 281 (2) 316 (2) 351 (3) 386 (4) 421 (2) 212 (2) 247 (1) 282 (4) 317 (2) 352 (3) 387 (3) 422 (1) 213 (4) 248 (1) 283 (3) 318 (3) 353 (3) 388 (2) 423 (3) 214 (1) 249 (1) 284 (4) 319 (2) 354 (3) 389 (1) 424 (3) 215 (2) 250 (3) 285 (3) 320 (2) 355 (2) 390 (2) 425 (2) 216 (1) 251 (4) 286 (4) 321 (4) 356 (4) 391 (1) 426 (3) 217 (1) 252 (2) 287 (1) 322 (2) 357 (4) 39^2 (3) 427 (1) 218 (1) 253 (3) 288 (1) 323 (4) 358 (2) 393 (3) 428 (3) 219 (2) 254 (2) 289 (4) 324 (4) 359 (4) 39^4 (4) 429 (1) 220 (4) 255 (2) 290 (3) 325 (1) 360 (3) 395 (1) 430 (1) 221 (3) 256 (2) 291 (3) 326 (2) 361 (3) 396 (2) 431 (4) 222 (1) 257 (3) 29^2 (1) 327 (1) 362 (3) 397 (1) 432 (1) 223 (4) 258 (2) 293 (2) 328 (2) 363 (2) 398 (2) 433 (1) 224 (2) 259 (2) 29^4 (1) 329 (1) 364 (4) 399 (3) 434 (2) 225 (1) 260 (2) 295 (1) 330 (1) 365 (1) 400 (3) 435 (1) 226 (2) 261 (3) 296 (2) 331 (3) 366 (2) 401 (4) 227 (2) 262 (1) 297 (1) 332 (1) 367 (4) 402 (2) 228 (3) 263 (3) 298 (2) 333 (3) 368 (3) 403 (1) 229 (1) 264 (2) 299 (1) 334 (2) 369 (3) 404 (3) 230 (2) 265 (4) 300 (2) 335 (3) 370 (4) 405 (1) 231 (2) 266 (4) 301 (2) 336 (2) 371 (1) 406 (3) 232 (3) 267 (3) 302 (1) 337 (1) 372 (1) 407 (2) 233 (1) 268 (3) 303 (2) 338 (4) 373 (2) 408 (3) 234 (4) 269 (3) 304 (1) 339 (3) 374 (1) 409",
+        "options_en": [
+            "235 (3) 270 (4) 305 (4) 340 (4) 375",
+            "410",
+            "236",
+            "271 (4) 306 (3) 341 (4) 376 (4) 411 (2) / 237 (2) 272 (3) 307 (2) 342 (1) 377 (1) 412 (1) / 238 (3) 273 (1) 308 (3) 343 (4) 378 (1) 413 (1) / 239 (3) 274 (3) 309 (1) 344 (3) 379 (2) 414 (3)"
+        ],
+        "explanation_en": "The correct answer is Option (1): 235 (3) 270 (4) 305 (4) 340 (4) 375"
+    }
+]

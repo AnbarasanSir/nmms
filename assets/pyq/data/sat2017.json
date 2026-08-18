@@ -1,0 +1,1804 @@
+[
+  {
+    "id": 91,
+    "image": "image/sat17q1.png",
+    "explanationImage": "image/sat17q1.png",
+    "question": "$(\\frac{a^{11}}{a^{13}})^{\\frac{1}{143}}\\times(\\frac{a^{13}}{a^{7}})^{\\frac{1}{91}}\\times(\\frac{a^{7}}{a^{11}})^{\\frac{1}{77}}$ -ன் மதிப்பு:",
+    "options": [
+      "1",
+      "-1",
+      "a",
+      "$\\frac{1}{a}$"
+    ],
+    "correct": 0,
+    "explanation": "பகுதிகளைச் சுருக்கும் போது, $a^{-2/143} \\times a^{6/91} \\times a^{-4/77}$ என வரும்.\nஅடுக்குகளின் மீ.சி.ம (LCM) 1001.\nஅடுக்குகளைக் கூட்டினால் $(-14 + 66 - 52) / 1001 = 0 / 1001 = 0$.\nஎனவே, $a^0 = 1$.",
+    "question_en": "The value of$(\\frac{a^{11}}{a^{13}})^{\\frac{1}{143}}\\times(\\frac{a^{13}}{a^{7}})^{\\frac{1}{91}}\\times(\\frac{a^{7}}{a^{11}})^{\\frac{1}{77}}$is:",
+    "options_en": [
+      "1",
+      "-1",
+      "a",
+      "$\\frac{1}{a}$"
+    ],
+    "explanation_en": "When summing the parts, it comes out as $a^{-2/143} \\times a^{6/91} \\times a^{-4/77}$.\nLayers LCM (LCM) 1001.\nAddition of layers$(-14 + 66 - 52) / 1001 = 0 / 1001 = 0$.\nHence,$a^0 = 1$."
+  },
+  {
+    "id": 92,
+    "question": "பின்வரும் விகிதமுறு எண்களில் 3/4-க்கும், 4/5-க்கும் இடையேயுள்ள எண் எது?",
+    "options": [
+      "29/40",
+      "31/40",
+      "33/40",
+      "27/20"
+    ],
+    "correct": 1,
+    "explanation": "$3/4 = 0.75$\n$4/5 = 0.80$\n\nவிருப்பங்களில்:\n$29/40 = 0.725$\n$31/40 = 0.775$\n$33/40 = 0.825$\n\nஎனவே $0.775$ ($31/40$) என்பது இவ்விரு எண்களுக்கும் இடையில் உள்ளது.",
+    "question_en": "Which of the following proportional numbers is between 3/4 and 4/5?",
+    "options_en": [
+      "29/40",
+      "31/40",
+      "33/40",
+      "27/20"
+    ],
+    "explanation_en": "$3/4 = 0.75$ \n$4/5 = 0.80$\n\nAmong the options:\n$29/40 = 0.725$\n$31/40 = 0.775$\n$33/40 = 0.825$\n\nSo$0.775$($31/40$) is between these two numbers."
+  },
+  {
+    "id": 93,
+    "question": "மதிப்பு காண்க: $\\frac{\\sqrt[3]{729}-\\sqrt{81}}{\\sqrt[3]{1000}-\\sqrt{64}}$",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "வரையறுக்கப்படவில்லை"
+    ],
+    "correct": 0,
+    "explanation": "$\\sqrt[3]{729} = 9$\n$\\sqrt{81} = 9$\n\nதொகுதி (Numerator) $9 - 9 = 0$ ஆகிவிடும்.\nபகுதி (Denominator) $10 - 8 = 2$.\n\nஎனவே $0 / 2 = 0$.",
+    "question_en": "View value: $\\frac{\\sqrt[3]{729}-\\sqrt{81}}{\\sqrt[3]{1000}-\\sqrt{64}}$",
+    "options_en": [
+      "0",
+      "1",
+      "2",
+      "Not defined"
+    ],
+    "explanation_en": "$\\sqrt[3]{729} = 9$ \n$\\sqrt{81} = 9$\n\nThe module (Numerator) becomes $9 - 9 = 0$.\nFraction (Denominator)$10 - 8 = 2$.\n\nHence$0 / 2 = 0$."
+  },
+  {
+    "id": 94,
+    "question": "ஒரு சமபக்க முக்கோணம் எக்கோணத்தைப் பொருத்து, கோண சமச்சீர் உடையது?",
+    "options": [
+      "$60^{\\circ}$",
+      "$90^{\\circ}$",
+      "$120^{\\circ}$",
+      "$180^{\\circ}$"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு சமபக்க முக்கோணத்திற்கு 3 சமச்சீர் கோடுகள் உள்ளன.\nஅதன் சுழற்சி கோணம் (Angle of rotation) = $360^{\\circ} / 3 = 120^{\\circ}$.",
+    "question_en": "Is an equilateral triangle congruent to an angle and has angular symmetry?",
+    "options_en": [
+      "$60^{\\circ}$",
+      "$90^{\\circ}$",
+      "$120^{\\circ}$",
+      "$180^{\\circ}$"
+    ],
+    "explanation_en": "An equilateral triangle has 3 lines of symmetry.\nIts angle of rotation (Angle of rotation) =$360^{\\circ} / 3 = 120^{\\circ}$."
+  },
+  {
+    "id": 95,
+    "question": "பின்வரும் அளவுகளில் எவை ஒரு முக்கோணத்தின் பக்கங்களாக அமையாது?",
+    "options": [
+      "8 செ.மீ., 9 செ.மீ., 10 செ.மீ.",
+      "4.5 செ.மீ., 5 செ.மீ., 6 செ.மீ.",
+      "3 செ.மீ., 4 செ.மீ., 5 செ.மீ.",
+      "1 செ.மீ., 2 செ.மீ., 3 செ.மீ."
+    ],
+    "correct": 3,
+    "explanation": "முக்கோணத்தின் பண்புப்படி: எந்த இரு சிறிய பக்கங்களின் கூடுதலும் மூன்றாவது பக்கத்தை விடப் பெரியதாக இருக்க வேண்டும்.\n$1 + 2 = 3$. இது மூன்றாவது பக்கமான 3-ஐ விடப் பெரியது அல்ல (சமமாக உள்ளது).\nஎனவே இது முக்கோணத்தை அமைக்காது.",
+    "question_en": "Which of the following quantities do not form the sides of a triangle?",
+    "options_en": [
+      "8 cm, 9 cm, 10 cm.",
+      "4.5 cm, 5 cm, 6 cm.",
+      "3 cm, 4 cm, 5 cm.",
+      "1 cm, 2 cm, 3 cm."
+    ],
+    "explanation_en": "By property of triangle: The sum of any two smaller sides must be greater than the third side.\n $1 + 2 = 3$. It is not greater than (equal to) the third side, 3.\nSo it does not form a triangle."
+  },
+  {
+    "id": 96,
+    "question": "மூன்றாம் கால்வட்டப்பகுதியில் அமையும் புள்ளியின் ஆய அச்சுத் தொலைவுகள்:",
+    "options": [
+      "$x>0, y>0$",
+      "$x>0, y<0$",
+      "$x<0, y>0$",
+      "$x<0, y<0$"
+    ],
+    "correct": 3,
+    "explanation": "கார்ட்டீசியன் தளத்தில்:\nI-ம் கால்வட்டம்: (+, +)\nII-ம் கால்வட்டம்: (-, +)\nIII-ம் கால்வட்டம்: (-, -) அதாவது $x<0, y<0$.\nIV-ம் கால்வட்டம்: (+, -)",
+    "question_en": "Axial distances of a point on the third quadrant are:",
+    "options_en": [
+      "$x>0, y>0$",
+      "$x>0, y<0$",
+      "$x<0, y>0$",
+      "$x<0, y<0$"
+    ],
+    "explanation_en": "In the Cartesian base:\nI-Circle: (+, +)\nPhase II: (-, +)\nIIIrd Circle: (-, -) i.e.$x<0, y<0$.\nIVth leg: (+, -)"
+  },
+  {
+    "id": 97,
+    "question": "$a=3$, $b=2$ எனில், $a^b-b^a$ -ன் மதிப்பு:",
+    "options": [
+      "0",
+      "1",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட மதிப்புகளைப் பிரதியிட:\n$3^2 - 2^3 = 9 - 8 = 1$.",
+    "question_en": "If$a=3$is$b=2$, the value of$a^b-b^a$is:",
+    "options_en": [
+      "0",
+      "1",
+      "5",
+      "6"
+    ],
+    "explanation_en": "To replicate the given values:\n $3^2 - 2^3 = 9 - 8 = 1$."
+  },
+  {
+    "id": 98,
+    "question": "மூன்று அடுத்தடுத்த ஒற்றை இயல் எண்களின் கூடுதல் 75 எனில், அவற்றுள் மிகச்சிறிய எண்:",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "correct": 1,
+    "explanation": "அடுத்தடுத்த 3 ஒற்றை எண்கள்: $x, x+2, x+4$.\n$x + x+2 + x+4 = 75$\n$3x + 6 = 75$\n$3x = 69 \\Rightarrow x = 23$.\nஎனவே மிகச்சிறிய எண் 23.",
+    "question_en": "If the sum of three consecutive odd numbers is 75, the smallest number among them is:",
+    "options_en": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "explanation_en": "3 consecutive odd numbers:$x, x+2, x+4$.\n$x + x+2 + x+4 = 75$\n$3x + 6 = 75$\n $3x = 69 \\Rightarrow x = 23$.\nSo the smallest number is 23."
+  },
+  {
+    "id": 99,
+    "question": "சாய்சதுரத்தின் பரப்பளவு 50 மீ² எனில், அதன் மூலைவிட்டங்களின் பெருக்கற்பலன்:",
+    "options": [
+      "25",
+      "50",
+      "100",
+      "200"
+    ],
+    "correct": 2,
+    "explanation": "சாய்சதுரத்தின் பரப்பளவு = $\\frac{1}{2} \\times d_1 \\times d_2$.\n$\\frac{1}{2} \\times (d_1 \\times d_2) = 50$\n$d_1 \\times d_2 = 50 \\times 2 = 100$.",
+    "question_en": "If the area of ​​a hypotenuse is 50 m², the product of its diagonals is:",
+    "options_en": [
+      "25",
+      "50",
+      "100",
+      "200"
+    ],
+    "explanation_en": "Area of ​​diagonal =$\\frac{1}{2} \\times d_1 \\times d_2$.\n$\\frac{1}{2} \\times (d_1 \\times d_2) = 50$\n $d_1 \\times d_2 = 50 \\times 2 = 100$."
+  },
+  {
+    "id": 100,
+    "question": "ஒரு சாலையானது 45 ஆட்களைக் கொண்டு 16 மணி நேரங்களில் சீரமைக்கப்படுகிறது. இவ்வேலையானது மேலும் 8 மணி நேரம் நீட்டிக்கப்படுகிறது எனில், எத்தனை ஆட்கள் குறைக்கப்பட வேண்டும்?",
+    "options": [
+      "15",
+      "30",
+      "20",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "மொத்த வேலை = ஆட்கள் $\\times$ நேரம்.\n$45 \\times 16 = x \\times (16 + 8)$\n$720 = x \\times 24$\n$x = 720 / 24 = 30$ ஆட்கள்.\nஎனவே குறைக்கப்பட வேண்டிய ஆட்கள் = $45 - 30 = 15$.",
+    "question_en": "A road is repaired by 45 men in 16 hours. If the work is extended by another 8 hours, how many workers should be cut?",
+    "options_en": [
+      "15",
+      "30",
+      "20",
+      "25"
+    ],
+    "explanation_en": "Total Work = People$\\times$Time.\n$45 \\times 16 = x \\times (16 + 8)$\n$720 = x \\times 24$\n$x = 720 / 24 = 30$people.\nHence people to be reduced =$45 - 30 = 15$."
+  },
+  {
+    "id": 101,
+    "question": "பின்வருவனவற்றுள் எது விகிதமுறா எண்?",
+    "options": [
+      "0",
+      "$\\pi$",
+      "$\\frac{22}{7}$",
+      "3.14"
+    ],
+    "correct": 1,
+    "explanation": "$\\pi$ (Pi) என்பது ஒரு விகிதமுறா (Irrational) எண் ஆகும். 22/7 மற்றும் 3.14 ஆகியவை $\\pi$-ன் தோராயமான விகிதமுறு மதிப்புகள் மட்டுமே.",
+    "question_en": "Which of the following is an irrational number?",
+    "options_en": [
+      "0",
+      "$\\pi$",
+      "$\\frac{22}{7}$",
+      "3.14"
+    ],
+    "explanation_en": "$\\pi$ (Pi) is an irrational number. 22/7 and 3.14 are just approximate ratio values ​​for $\\pi$."
+  },
+  {
+    "id": 102,
+    "question": "$\\frac{1}{0.2}$ க்குச் சமமானது:",
+    "options": [
+      "$\\frac{1}{2}$",
+      "0.2",
+      "5",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "$\\frac{1}{0.2} = \\frac{1}{2/10} = \\frac{10}{2} = 5$.",
+    "question_en": "Equivalent to $\\frac{1}{0.2}$:",
+    "options_en": [
+      "$\\frac{1}{2}$",
+      "0.2",
+      "5",
+      "2"
+    ],
+    "explanation_en": "$\\frac{1}{0.2} = \\frac{1}{2/10} = \\frac{10}{2} = 5$."
+  },
+  {
+    "id": 103,
+    "question": "ஒரு பையில் 50 பைசா, 25 பைசா மற்றும் 10 பைசா நாணயங்கள் முறையே 5:9:4 என்ற விகிதத்தில் உள்ளன. அவற்றின் மொத்த மதிப்பு ரூ.309 எனில், 50 பைசா நாணயங்களின் எண்ணிக்கை:",
+    "options": [
+      "300",
+      "450",
+      "240",
+      "250"
+    ],
+    "correct": 0,
+    "explanation": "நாணயங்களின் எண்ணிக்கை முறையே $5x, 9x, 4x$ என்க.\nமதிப்பு = $(0.50 \\times 5x) + (0.25 \\times 9x) + (0.10 \\times 4x) = 309$\n$2.5x + 2.25x + 0.4x = 309$\n$5.15x = 309 \\Rightarrow x = 60$.\n50 பைசா நாணயங்களின் எண்ணிக்கை = $5 \\times 60 = 300$.",
+    "question_en": "A bag contains 50 paisa, 25 paisa and 10 paisa coins in the ratio 5:9:4 respectively. If their total value is Rs.309, the number of 50 paisa coins is:",
+    "options_en": [
+      "300",
+      "450",
+      "240",
+      "250"
+    ],
+    "explanation_en": "The number of coins is respectively $5x, 9x, 4x$.\nvalue =$(0.50 \\times 5x) + (0.25 \\times 9x) + (0.10 \\times 4x) = 309$\n$2.5x + 2.25x + 0.4x = 309$\n $5.15x = 309 \\Rightarrow x = 60$.\nNumber of 50 paisa coins =$5 \\times 60 = 300$."
+  },
+  {
+    "id": 104,
+    "question": "பின்வருவனவற்றுள் எது மிகச் சிறியது?",
+    "options": [
+      "7/8",
+      "15%",
+      "1%",
+      "0.75"
+    ],
+    "correct": 2,
+    "explanation": "எல்லாவற்றையும் தசம எண்களாக மாற்றுவோம்:\n$7/8 = 0.875$\n$15\\% = 0.15$\n$1\\% = 0.01$\n$0.75 = 0.75$\nஇவற்றில் மிகச் சிறியது $1\\%$ (0.01) ஆகும்.",
+    "question_en": "Which of the following is smallest?",
+    "options_en": [
+      "7/8",
+      "15%",
+      "1%",
+      "0.75"
+    ],
+    "explanation_en": "Let's convert everything to decimals:\n$7/8 = 0.875$\n$15\\% = 0.15$\n$1\\% = 0.01$\n$0.75 = 0.75$\nThe smallest of these is$1\\%$(0.01)."
+  },
+  {
+    "id": 105,
+    "question": "308 செ.மீ² பரப்பு கொண்ட ஒரு அரைவட்டத்தினை முழுவட்டமாக மாற்றினால் அதன் சுற்றளவு:",
+    "options": [
+      "156 செ.மீ",
+      "88 செ.மீ",
+      "44 செ.மீ",
+      "72 செ.மீ"
+    ],
+    "correct": 1,
+    "explanation": "அரைவட்டத்தின் பரப்பு = $\\frac{\\pi r^2}{2} = 308$\n$\\frac{22/7 \\times r^2}{2} = 308 \\Rightarrow \\frac{11}{7} r^2 = 308 \\Rightarrow r^2 = 196 \\Rightarrow r = 14$.\nமுழு வட்டத்தின் சுற்றளவு = $2\\pi r = 2 \\times \\frac{22}{7} \\times 14 = 88$ செ.மீ.",
+    "question_en": "If a semicircle of area 308 cm² is converted into a complete circle, its circumference is:",
+    "options_en": [
+      "156 cm",
+      "88 cm",
+      "44 cm",
+      "72 cm"
+    ],
+    "explanation_en": "Area of semicircle =$\\frac{\\pi r^2}{2} = 308$\n $\\frac{22/7 \\times r^2}{2} = 308 \\Rightarrow \\frac{11}{7} r^2 = 308 \\Rightarrow r^2 = 196 \\Rightarrow r = 14$.\nCircumference of whole circle =$2\\pi r = 2 \\times \\frac{22}{7} \\times 14 = 88$cm."
+  },
+  {
+    "id": 106,
+    "question": "இரட்டைப் பகா எண்களின் சராசரி:",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "பகா எண்களில் (Prime numbers) உள்ள ஒரே இரட்டைப்படை எண் '2' மட்டுமே.\nஒரே ஒரு எண் மட்டுமே இருப்பதால் அதன் சராசரியும் 2 தான்.",
+    "question_en": "Average of even prime numbers:",
+    "options_en": [
+      "2",
+      "4",
+      "6",
+      "0"
+    ],
+    "explanation_en": "'2' is the only even number among prime numbers.\nSince there is only one number, its mean is 2."
+  },
+  {
+    "id": 107,
+    "question": "ஒரு இருசமபக்க செங்கோண முக்கோணத்தின் கர்ணம் $10\\sqrt{2}$ செ.மீ எனில், அதன் பரப்பு:",
+    "options": [
+      "100 செ.மீ²",
+      "50 செ.மீ²",
+      "25 செ.மீ²",
+      "200 செ.மீ²"
+    ],
+    "correct": 1,
+    "explanation": "இருசமபக்க செங்கோண முக்கோணத்தில் பக்கங்கள் $a, a$ என்க.\nகர்ணம் $a\\sqrt{2} = 10\\sqrt{2} \\Rightarrow a = 10$.\nபரப்பு = $\\frac{1}{2} \\times a \\times a = \\frac{1}{2} \\times 10 \\times 10 = 50$ செ.மீ².",
+    "question_en": "If hypotenuse of an isosceles right triangle is$10\\sqrt{2}$cm, its area is:",
+    "options_en": [
+      "100 cm²",
+      "50 cm²",
+      "25 cm²",
+      "200 cm²"
+    ],
+    "explanation_en": "In an isosceles right triangle, the sides are $a, a$.\nKARNAMA$a\\sqrt{2} = 10\\sqrt{2} \\Rightarrow a = 10$.\nArea =$\\frac{1}{2} \\times a \\times a = \\frac{1}{2} \\times 10 \\times 10 = 50$cm²."
+  },
+  {
+    "id": 108,
+    "question": "பின்வருவனவற்றுள் எது பல்லுறுப்புக் கோவை அல்ல?",
+    "options": [
+      "$x^2+7x-5$",
+      "$x+\\frac{1}{x}$",
+      "$\\sqrt{3}x^2+7x+\\sqrt{2}$",
+      "$\\frac{7}{2}x^3+\\frac{6}{7}x^2-\\frac{5}{3}$"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு பல்லுறுப்புக் கோவையில் (Polynomial) மாறியின் அடுக்கு எதிர்மறை எண்ணாகவோ (Negative) பின்னமாகவோ இருக்கக்கூடாது.\n$x+\\frac{1}{x}$ என்பதில் $\\frac{1}{x} = x^{-1}$ என வருவதால், இது பல்லுறுப்புக் கோவை அல்ல.",
+    "question_en": "Which of the following is not a polynomial matrix?",
+    "options_en": [
+      "$x^2+7x-5$",
+      "$x+\\frac{1}{x}$",
+      "$\\sqrt{3}x^2+7x+\\sqrt{2}$",
+      "$\\frac{7}{2}x^3+\\frac{6}{7}x^2-\\frac{5}{3}$"
+    ],
+    "explanation_en": "The exponent of the variable in a polynomial cannot be a negative number or a negative fraction.\n Since$\\frac{1}{x} = x^{-1}$comes in $x+\\frac{1}{x}$, it is not a polynomial."
+  },
+  {
+    "id": 109,
+    "question": "$a+b=8$ மற்றும் $a-b=7$ எனில் $a^2+b^2 = ?$",
+    "options": [
+      "56",
+      "65",
+      "$65\\frac{1}{2}$",
+      "$56\\frac{1}{2}$"
+    ],
+    "correct": 3,
+    "explanation": "சூத்திரம்: $(a+b)^2 + (a-b)^2 = 2(a^2+b^2)$.\n$8^2 + 7^2 = 2(a^2+b^2)$\n$64 + 49 = 113 = 2(a^2+b^2)$\n$a^2+b^2 = 113 / 2 = 56.5 = 56\\frac{1}{2}$.",
+    "question_en": "$a^2+b^2 = ?$ if$a+b=8$and $a-b=7$",
+    "options_en": [
+      "56",
+      "65",
+      "$65\\frac{1}{2}$",
+      "$56\\frac{1}{2}$"
+    ],
+    "explanation_en": "Formula:$(a+b)^2 + (a-b)^2 = 2(a^2+b^2)$.\n$8^2 + 7^2 = 2(a^2+b^2)$\n$64 + 49 = 113 = 2(a^2+b^2)$\n $a^2+b^2 = 113 / 2 = 56.5 = 56\\frac{1}{2}$."
+  },
+  {
+    "id": 110,
+    "question": "$2\\times2\\times2\\times2\\times2\\dots$ $n$ முறை = 1024 எனில், $n=?$",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "$2 \\times 2 \\dots n$ தடவை = $2^n$.\nகொடுக்கப்பட்டது: $2^n = 1024$.\n$2^{10} = 1024$ என்பதால், $n = 10$.",
+    "question_en": "$2\\times2\\times2\\times2\\times2\\dots$ IF$n$METHOD = 1024, $n=?$",
+    "options_en": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation_en": "$2 \\times 2 \\dots n$ times =$2^n$.\nGiven:$2^n = 1024$.\n Since $2^{10} = 1024$,$n = 10$."
+  },
+  {
+    "id": 111,
+    "question": "ஒரு பேருந்து 90 நிமிடங்களில் 54 கி.மீ. பயணம் செய்கிறது. பேருந்தின் வேகம்:",
+    "options": [
+      "0.6 மீ/வி",
+      "10 மீ/வி",
+      "5.4 மீ/வி",
+      "3.6 மீ/வி"
+    ],
+    "correct": 1,
+    "explanation": "வேகம் = தூரம் / காலம்.\nதூரம் = 54 km = $54000$ m.\nகாலம் = 90 mins = $90 \\times 60 = 5400$ s.\nவேகம் = $54000 / 5400 = 10$ மீ/வி.",
+    "question_en": "A bus covers 54 km in 90 minutes. travels. Speed ​​of Bus:",
+    "options_en": [
+      "0.6 m/s",
+      "10 m/s",
+      "5.4 m/s",
+      "3.6 m/s"
+    ],
+    "explanation_en": "Speed ​​= distance / time.\nDistance = 54 km =$54000$m.\nDuration = 90 mins =$90 \\times 60 = 5400$s.\nVelocity =$54000 / 5400 = 10$m/s."
+  },
+  {
+    "id": 112,
+    "question": "ஒரு தனி ஊசலின் குண்டானது A-யிலிருந்து C-க்கு செல்ல எடுத்துக்கொள்ளும் காலம் $t_1$ மற்றும் C-யிலிருந்து மையப்புள்ளி O-க்கு செல்ல எடுத்துக்கொள்ளும் காலம் $t_2$. இந்த தனிஊசலின் அலைவு காலம்:",
+    "options": [
+      "$t_1+t_2$",
+      "$2(t_1+t_2)$",
+      "$3(t_1+t_2)$",
+      "$4(t_1+t_2)$"
+    ],
+    "correct": 3,
+    "explanation": "அலைவு காலம் (Time period) என்பது குண்டு ஒரு முழுமையான அலைவை முடிக்க எடுக்கும் நேரமாகும்.\nA-யிலிருந்து O-க்கு செல்ல ஆகும் நேரம் = $t_1 + t_2$.\nஇது ஒரு முழு அலைவின் கால் பகுதியாகும் (1/4th).\nஎனவே முழு அலைவு காலம் = $4(t_1 + t_2)$.",
+    "question_en": "The time taken by the pendulum of a single pendulum to travel from A to C is$t_1$and the time taken to travel from C to the center point O is$t_2$. The period of oscillation of this pendulum is:",
+    "options_en": [
+      "$t_1+t_2$",
+      "$2(t_1+t_2)$",
+      "$3(t_1+t_2)$",
+      "$4(t_1+t_2)$"
+    ],
+    "explanation_en": "Time period is the time taken by the bullet to complete one complete oscillation.\nTime taken to go from A to O =$t_1 + t_2$.\nIt is a quarter (1/4th) of a full wave.\nSo period of full oscillation =$4(t_1 + t_2)$."
+  },
+  {
+    "id": 113,
+    "question": "$30^{\\circ}C$-ல் உள்ள ஒரு லிட்டர் நீர், $50^{\\circ}C$-ல் உள்ள ஒரு லிட்டர் நீருடன் கலக்கப்படுகிறது. கலவையின் வெப்பநிலை:",
+    "options": [
+      "$80^{\\circ}C$",
+      "$50^{\\circ}C$-க்கு அதிகமாகவும் $80^{\\circ}C$-க்கு குறைவாகவும்",
+      "$20^{\\circ}C$",
+      "$30^{\\circ}C$ மற்றும் $50^{\\circ}C$-க்கு இடையில்"
+    ],
+    "correct": 3,
+    "explanation": "சம அளவிலான இரு வேறு வெப்பநிலை கொண்ட நீரை கலக்கும் போது, இறுதி வெப்பநிலை அவ்விரண்டின் சராசரியாக அமையும். அதாவது $(30+50)/2 = 40^{\\circ}C$.\nஇது $30^{\\circ}C$ மற்றும் $50^{\\circ}C$-க்கு இடையில் உள்ளது.",
+    "question_en": "One liter of water in$30^{\\circ}C$is mixed with one liter of water in $50^{\\circ}C$. Temperature of mixture:",
+    "options_en": [
+      "$80^{\\circ}C$",
+      "Higher for$50^{\\circ}C$and lower for $80^{\\circ}C$",
+      "$20^{\\circ}C$",
+      "Between$30^{\\circ}C$and $50^{\\circ}C$"
+    ],
+    "explanation_en": "When two equal volumes of water of different temperatures are mixed, the final temperature is the average of the two. ie$(30+50)/2 = 40^{\\circ}C$.\nIt is between$30^{\\circ}C$and $50^{\\circ}C$."
+  },
+  {
+    "id": 114,
+    "question": "கீழே கொடுக்கப்பட்டவைகளில் மிகக் குறைவான வெப்பநிலை எது?",
+    "options": [
+      "1 K",
+      "$1^{\\circ}C$",
+      "$1^{\\circ}F$",
+      "அனைத்தும் சமமானவை"
+    ],
+    "correct": 0,
+    "explanation": "கெல்வின் (Kelvin) அளவுக்கோலில் குறைவான மதிப்பு 0 K (தனிச்சுழி வெப்பநிலை).\n$1 K$ என்பது $-272.15^{\\circ}C$ க்கு சமம். எனவே இதுவே மிகக் குறைந்த வெப்பநிலை.",
+    "question_en": "Which of the following is the lowest temperature?",
+    "options_en": [
+      "1 K",
+      "$1^{\\circ}C$",
+      "$1^{\\circ}F$",
+      "All are equal"
+    ],
+    "explanation_en": "The lowest value on the Kelvin scale is 0 K (freezing temperature).\n$1 K$is equivalent to $-272.15^{\\circ}C$. So this is the lowest temperature."
+  },
+  {
+    "id": 115,
+    "question": "A, B, C என்ற மூன்று பல்புகள், சாவி மற்றும் மின்கலத் தொகுப்புடன் தொடர் இணைப்பில் இணைக்கப்பட்டுள்ளன. சாவி 'ON' ஆகும் பொழுது:",
+    "options": [
+      "C பல்பு முதலில் எரியும்",
+      "B மற்றும் C பல்புகள் ஒரே நேரத்தில் எரியும், பின்பு A எரியும்",
+      "A, B மற்றும் C என்ற அனைத்து பல்புகளும் ஒரே நேரத்தில் எரியும்",
+      "A, B மற்றும் C என்ற வரிசையில் பல்புகள் எரியும்"
+    ],
+    "correct": 2,
+    "explanation": "தொடர் இணைப்பில் (Series Circuit) மின்னோட்டம் அனைத்து கூறுகளின் வழியாகவும் ஒரே நேரத்தில் பாய்வதால், அனைத்து பல்புகளும் ஒரே சமயத்தில் எரியும்.",
+    "question_en": "Three bulbs A, B, C are connected in series with a key and a battery pack. When the key is 'ON':",
+    "options_en": [
+      "Bulb C will light up first",
+      "Bulbs B and C light up simultaneously, followed by A",
+      "All the bulbs A, B and C will light up simultaneously",
+      "The bulbs will burn in sequence A, B and C"
+    ],
+    "explanation_en": "In a series circuit, current flows through all the components simultaneously, so all the bulbs light up at the same time."
+  },
+  {
+    "id": 116,
+    "question": "ஒரு சமதள ஆடியின் முன்னால், 1 மீ தொலைவில் உள்ள மனிதன், அவன் பிம்பத்திலிருந்து எவ்வளவு தொலைவில் இருப்பான்?",
+    "options": [
+      "0.5 மீ",
+      "1 மீ",
+      "2 மீ",
+      "4 மீ"
+    ],
+    "correct": 2,
+    "explanation": "சமதள ஆடியில் (Plane mirror) பொருள் ஆடியிலிருந்து எவ்வளவு தூரத்தில் உள்ளதோ, அதே தூரத்தில் ஆடியின் பின்புறம் பிம்பம் தோன்றும்.\nஎனவே மனிதனுக்கும் ஆடிக்கும் 1 மீ, ஆடிக்கும் பிம்பத்திற்கும் 1 மீ. மொத்தம் = 2 மீ.",
+    "question_en": "How far is a man 1 m in front of a flat car from his image?",
+    "options_en": [
+      "0.5 m",
+      "1 m",
+      "2 m",
+      "4 m"
+    ],
+    "explanation_en": "In a plane mirror, as far as the object is from the mirror, the image appears behind the mirror.\nSo 1 m for man and 1 m for swing and 1 m for swing image. Total = 2 m."
+  },
+  {
+    "id": 117,
+    "question": "கீழே கொடுக்கப்பட்டவைகளில் மெய்பிம்பத்தை உருவாக்க பயன்படுத்துவது:",
+    "options": [
+      "குழி ஆடி மட்டும்",
+      "சமதள ஆடி மட்டும்",
+      "குவி ஆடி மட்டும்",
+      "குழி மற்றும் குவி ஆடிகள் இரண்டும்"
+    ],
+    "correct": 0,
+    "explanation": "குழி ஆடி (Concave mirror) மட்டுமே திரையில் பிடிக்கக்கூடிய மெய்பிம்பத்தை (Real image) உருவாக்க வல்லது.",
+    "question_en": "Using the following to create an illusion:",
+    "options_en": [
+      "Pit swing only",
+      "Flat Audi only",
+      "Audi only",
+      "Both hollow and convex Audis"
+    ],
+    "explanation_en": "Only a concave mirror can create a real image that can be captured on the screen."
+  },
+  {
+    "id": 118,
+    "question": "ஒரு மின்னோட்டத்தால் உருவாக்கக் கூடியவை:",
+    "options": [
+      "வெப்ப விளைவு மட்டும்",
+      "வேதி விளைவு மட்டும்",
+      "காந்த விளைவு மட்டும்",
+      "வேதி, வெப்பம் மற்றும் காந்த விளைவுகள்"
+    ],
+    "correct": 3,
+    "explanation": "மின்னோட்டம் பாயும் போது வெப்பம் (Electric iron), காந்தம் (Electromagnet) மற்றும் வேதியியல் மாற்றங்கள் (Electroplating) ஆகிய மூன்றும் உருவாகக் கூடும்.",
+    "question_en": "A current can produce:",
+    "options_en": [
+      "Thermal effect only",
+      "Chemical effect only",
+      "Magnetic effect only",
+      "Chemical, thermal and magnetic effects"
+    ],
+    "explanation_en": "When current flows, heat (Electric iron), magnetism (Electromagnet) and chemical changes (Electroplating) can be produced."
+  },
+  {
+    "id": 119,
+    "question": "கீழ்க்கண்ட கரைசல்களில் எது மின்சாரத்தை கடத்தாது?",
+    "options": [
+      "எலுமிச்சை சாறு",
+      "குழாய் நீர்",
+      "வினிகர்",
+      "தாவர எண்ணெய்"
+    ],
+    "correct": 3,
+    "explanation": "தாவர எண்ணெயில் (Vegetable oil) மின்சாரத்தை கடத்துவதற்கு தேவையான அயனிகள் (Ions) இல்லை. எனவே இது மின்சாரத்தைக் கடத்தாது.",
+    "question_en": "Which of the following solutions does not conduct electricity?",
+    "options_en": [
+      "Lemon juice",
+      "Tap water",
+      "Vinegar",
+      "Vegetable oil"
+    ],
+    "explanation_en": "Vegetable oil does not have the necessary ions to conduct electricity. Hence it does not conduct electricity."
+  },
+  {
+    "id": 120,
+    "question": "இரண்டு மின்னூட்டம் பெற்ற பொருள்கள் ஒன்றுக்கொன்று மிக அருகில் கொண்டு வரும்போது:",
+    "options": [
+      "அவைகள் கவர்ந்து கொள்ளலாம்",
+      "அவைகள் விலகிக் கொள்ளலாம்",
+      "அவைகள் பெற்றுள்ள மின்னூட்டங்களின் வகையைச் சார்ந்து விலகவோ அல்லது கவரவோ செய்யலாம்",
+      "எந்த விளைவும் ஏற்படுவதில்லை"
+    ],
+    "correct": 2,
+    "explanation": "ஒரே வகையான மின்னூட்டங்கள் (+,+) அல்லது (-,-) ஒன்றை ஒன்று விலக்கும். வெவ்வேறான மின்னூட்டங்கள் (+,-) ஒன்றை ஒன்று ஈர்க்கும்.",
+    "question_en": "When two charged objects are brought very close to each other:",
+    "options_en": [
+      "They can be fascinating",
+      "They can opt out",
+      "They can attract or repel depending on the type of charges they have",
+      "No effect occurs"
+    ],
+    "explanation_en": "Like charges (+,+) or (-,-) repel each other. Opposite charges (+,-) attract each other."
+  },
+  {
+    "id": 121,
+    "question": "1 செண்ட் (Cent) = _____ சதுர அடி:",
+    "options": [
+      "100",
+      "2400",
+      "30.48",
+      "435.60"
+    ],
+    "correct": 3,
+    "explanation": "நிலத்தை அளக்கப் பயன்படும் ஒரு செண்ட் (1 Cent) என்பது தோராயமாக 435.60 சதுர அடிக்குச் (sq. ft) சமம்.",
+    "question_en": "1 Cent = _____ Square Feet:",
+    "options_en": [
+      "100",
+      "2400",
+      "30.48",
+      "435.60"
+    ],
+    "explanation_en": "One cent (1 Cent) used to measure land is equal to approximately 435.60 square feet (sq. ft)."
+  },
+  {
+    "id": 122,
+    "question": "கீழ்க்கண்டவற்றில் எது கனிம அமிலம் இல்லை?",
+    "options": [
+      "HCI",
+      "$CH_3COOH$",
+      "$HNO_3$",
+      "$H_2SO_4$"
+    ],
+    "correct": 1,
+    "explanation": "அசிட்டிக் அமிலம் ($CH_3COOH$) என்பது தாவரங்கள் மற்றும் விலங்குகளில் காணப்படும் ஒரு கரிம அமிலம் (Organic Acid) ஆகும். மற்றவை கனிம அமிலங்கள் (Mineral Acids).",
+    "question_en": "Which of the following is not a mineral acid?",
+    "options_en": [
+      "HCI",
+      "$CH_3COOH$",
+      "$HNO_3$",
+      "$H_2SO_4$"
+    ],
+    "explanation_en": "Acetic acid ($CH_3COOH$) is an organic acid found in plants and animals. Others are mineral acids."
+  },
+  {
+    "id": 123,
+    "question": "நீர், ஆக்ஸிஜன் மற்றும் சர்க்கரை ஆகியவற்றின் மூலக்கூறுகளுக்கிடையேயுள்ள கவர்ச்சி விசை ஏறுவரிசையில்:",
+    "options": [
+      "ஆக்ஸிஜன் < சர்க்கரை < நீர்",
+      "சர்க்கரை < நீர் < ஆக்ஸிஜன்",
+      "நீர் < சர்க்கரை < ஆக்ஸிஜன்",
+      "ஆக்ஸிஜன் < நீர் < சர்க்கரை"
+    ],
+    "correct": 3,
+    "explanation": "மூலக்கூறு கவர்ச்சி விசை: வாயுக்கள் (குறைவு) < திரவங்கள் < திண்மங்கள் (அதிகம்).\nஇங்கு: ஆக்ஸிஜன் (வாயு) < நீர் (திரவம்) < சர்க்கரை (திண்மம்).",
+    "question_en": "The forces of attraction between molecules of water, oxygen and sugar are in ascending order:",
+    "options_en": [
+      "Oxygen < Sugar < Water",
+      "Sugar < Water < Oxygen",
+      "Water < Sugar < Oxygen",
+      "Oxygen < Water < Sugar"
+    ],
+    "explanation_en": "Molecular attractive force: Gases (low) < Liquids < Solids (high).\nHere: Oxygen (gas) < Water (liquid) < Sugar (solid)."
+  },
+  {
+    "id": 124,
+    "question": "நீரில், ஹைட்ரஜன் மற்றும் ஆக்ஸிஜனின் நிறைவிகிதம்:",
+    "options": [
+      "2:8",
+      "1:8",
+      "2:1",
+      "1:16"
+    ],
+    "correct": 1,
+    "explanation": "நீரின் மூலக்கூறு வாய்பாடு $H_2O$.\nஹைட்ரஜனின் அணு நிறை 1, ஆக்ஸிஜனின் அணு நிறை 16.\nநிறை விகிதம் = $(2 \\times 1) : 16 = 2 : 16 = 1 : 8$.",
+    "question_en": "In water, the saturation ratio of hydrogen and oxygen is:",
+    "options_en": [
+      "2:8",
+      "1:8",
+      "2:1",
+      "1:16"
+    ],
+    "explanation_en": "Molecular Formula of Water$H_2O$.\nAtomic mass of hydrogen is 1, atomic mass of oxygen is 16.\nmassRatio =$(2 \\times 1) : 16 = 2 : 16 = 1 : 8$."
+  },
+  {
+    "id": 125,
+    "question": "'X' என்பது இரும்புத்துகளும், சல்பரும் சேர்ந்த கலவை. 'Y' என்பது 'X'-ஐ சூடுபடுத்தி பெறப்பட்ட பொருள். இவற்றின் அருகே காந்தத்தைக் கொண்டுசெல்லும்போது:",
+    "options": [
+      "X மற்றும் Y இரண்டும் கவரப்படுகிறது",
+      "'X' கவரப்படுகிறது, 'Y' கவரப்படவில்லை",
+      "'Y' கவரப்படுகிறது, 'X' கவரப்படவில்லை",
+      "இரண்டும் கவரப்படவில்லை"
+    ],
+    "correct": 1,
+    "explanation": "X ஒரு கலவை (Mixture), இதில் இரும்பு தன் காந்தத் தன்மையைத் தக்கவைத்துக் கொள்ளும்.\nஆனால் Y (FeS) என்பது ஒரு வேதிச் சேர்மம் (Compound). சேர்மமாக மாறிய பின் இரும்பு தன் காந்தத் தன்மையை இழந்துவிடும்.",
+    "question_en": "'X' is a compound of iron and sulphur. 'Y' is the substance obtained by heating 'X'. When a magnet is brought near:",
+    "options_en": [
+      "Both X and Y are attracted",
+      "'X' is attracted, 'Y' is not attracted",
+      "'Y' is attracted, 'X' is not attracted",
+      "Neither is impressed"
+    ],
+    "explanation_en": "X is a mixture in which iron retains its magnetic properties.\nBut Y (FeS) is a compound. Iron loses its magnetic properties after becoming a compound."
+  },
+  {
+    "id": 126,
+    "question": "மெக்னீசிய பால்மம் கீழ்க்கண்ட எத்துறையில் பயன்படுத்தப்படுகிறது?",
+    "options": [
+      "உரத் தொழிற்சாலை",
+      "நூற்பாலை",
+      "நீர் சுத்திகரிப்பு ஆலை",
+      "மருந்து தயாரிக்கும் தொழிற்சாலை"
+    ],
+    "correct": 3,
+    "explanation": "மெக்னீசிய பால்மம் (Milk of Magnesia) வயிற்றுப்புண் மற்றும் அமிலத்தன்மையைக் (Acidity) குணப்படுத்தும் மருந்தாகப் (Antacid) பயன்படுத்தப்படுகிறது.",
+    "question_en": "Magnesia emulsion is used in which of the following fields?",
+    "options_en": [
+      "Fertilizer factory",
+      "Spinning milk",
+      "Water treatment plant",
+      "Pharmaceutical factory"
+    ],
+    "explanation_en": "Milk of Magnesia is used as an antacid for stomach ulcers and acidity."
+  },
+  {
+    "id": 127,
+    "question": "இரும்பு துருப்பிடித்தலின்போது ஏற்படும் பழுப்புநிறத் துருவின் வேதியியல் வாய்பாடு:",
+    "options": [
+      "FeO",
+      "$Fe_2O_3$",
+      "$FeS_2$",
+      "$Fe_3O_4$"
+    ],
+    "correct": 1,
+    "explanation": "துரு (Rust) என்பது நீரேறிய இரும்பு (III) ஆக்ஸைடு ஆகும். இதன் பொதுவான வாய்பாடு $Fe_2O_3 \\cdot nH_2O$.",
+    "question_en": "The chemical possibility of brown rust formed during rusting of iron is:",
+    "options_en": [
+      "FeO",
+      "$Fe_2O_3$",
+      "$FeS_2$",
+      "$Fe_3O_4$"
+    ],
+    "explanation_en": "Rust is hydrated iron (III) oxide. Its most common variant is $Fe_2O_3 \\cdot nH_2O$."
+  },
+  {
+    "id": 128,
+    "question": "நவீன அணுக்கொள்கையை வெளியிட்டவர் யார்?",
+    "options": [
+      "J.J. தாம்சன்",
+      "ஜான் டால்டன்",
+      "ரூதர் ஃபோர்டு",
+      "ஜேம்ஸ் சாட்விக்"
+    ],
+    "correct": 1,
+    "explanation": "ஜான் டால்டன் (John Dalton) என்பவரே 1808 ஆம் ஆண்டில் முதன்முதலில் அறிவியல் பூர்வமான அணுக்கொள்கையை வெளியிட்டார்.",
+    "question_en": "Who published the modern nuclear policy?",
+    "options_en": [
+      "J.J. Thomson",
+      "John Dalton",
+      "Ruth Ford",
+      "James Chadwick"
+    ],
+    "explanation_en": "It was John Dalton who published the first scientific theory of the atom in 1808."
+  },
+  {
+    "id": 129,
+    "question": "குளுக்கோஸின் மூலக்கூறு வாய்பாடு:",
+    "options": [
+      "$C_6H_{12}O_6$",
+      "$C_{12}H_{22}O_{11}$",
+      "$(C_6H_{10}O_5)_n$",
+      "$C_4H_{10}$"
+    ],
+    "correct": 0,
+    "explanation": "குளுக்கோஸ் (Glucose) என்பது 6 கார்பன், 12 ஹைட்ரஜன் மற்றும் 6 ஆக்ஸிஜன் அணுக்களைக் கொண்டது. ($C_6H_{12}O_6$).",
+    "question_en": "Molecular formula of glucose:",
+    "options_en": [
+      "$C_6H_{12}O_6$",
+      "$C_{12}H_{22}O_{11}$",
+      "$(C_6H_{10}O_5)_n$",
+      "$C_4H_{10}$"
+    ],
+    "explanation_en": "Glucose consists of 6 carbon, 12 hydrogen and 6 oxygen atoms. ($C_6H_{12}O_6$)."
+  },
+  {
+    "id": 130,
+    "question": "எறும்பிலுள்ள அமிலத்தின் பெயர்:",
+    "options": [
+      "ஃபார்மிக் அமிலம்",
+      "அசிட்டிக் அமிலம்",
+      "கார்பானிக் அமிலம்",
+      "ஆக்ஸாலிக் அமிலம்"
+    ],
+    "correct": 0,
+    "explanation": "சிவப்பு எறும்புகளின் கொடுக்கில் உள்ள அமிலம் ஃபார்மிக் அமிலம் (Formic acid - HCOOH) ஆகும்.",
+    "question_en": "Name of the acid in formic acid:",
+    "options_en": [
+      "Formic acid",
+      "Acetic acid",
+      "Carbonic acid",
+      "Oxalic acid"
+    ],
+    "explanation_en": "The acid present in red ants is formic acid (HCOOH)."
+  },
+  {
+    "id": 131,
+    "question": "காலமைன் என்பது:",
+    "options": [
+      "கால்சியம் கார்பனேட்",
+      "மெக்னீசியம் கார்பனேட்",
+      "சோடியம் கார்பனேட்",
+      "துத்தநாக கார்பனேட்"
+    ],
+    "correct": 3,
+    "explanation": "காலமைன் (Calamine) தாது என்பது துத்தநாக கார்பனேட் ($ZnCO_3$) ஆகும்.",
+    "question_en": "Calamine is:",
+    "options_en": [
+      "Calcium carbonate",
+      "Magnesium carbonate",
+      "Sodium carbonate",
+      "Zinc carbonate"
+    ],
+    "explanation_en": "Calamine mineral is zinc carbonate ($ZnCO_3$)."
+  },
+  {
+    "id": 132,
+    "question": "1Å என்பதின் மதிப்பு:",
+    "options": [
+      "$10^{-9}m$",
+      "$10^{-12}m$",
+      "$10^{-10}m$",
+      "$10^{-6}m$"
+    ],
+    "correct": 2,
+    "explanation": "ஆங்ஸ்ட்ராம் (Angstrom - Å) என்பது அணுக்களின் விட்டத்தை அளக்கப் பயன்படும் மிகச்சிறிய அலகாகும். $1Å = 10^{-10}$ மீட்டர்.",
+    "question_en": "The value of 1Å is:",
+    "options_en": [
+      "$10^{-9}m$",
+      "$10^{-12}m$",
+      "$10^{-10}m$",
+      "$10^{-6}m$"
+    ],
+    "explanation_en": "Angstrom - Å is the smallest unit used to measure the diameter of atoms. $1Å = 10^{-10}$meter."
+  },
+  {
+    "id": 133,
+    "question": "பொருத்துக:\n(a) அரிசி - (i) சொலானம் டியுபரோசம்\n(b) மாங்காய் - (ii) ஒரைசா சட்டைவா\n(c) தக்காளி - (iii) மாஞ்சிஃபெரா இண்டிகா\n(d) உருளை - (iv) லைகோபெர்சிகான் எஸ்குலண்டம்",
+    "options": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    ],
+    "correct": 3,
+    "explanation": "தாவரவியல் பெயர்கள்:\nஅரிசி = ஒரைசா சட்டைவா (ii)\nமாங்காய் = மாஞ்சிஃபெரா இண்டிகா (iii)\nதக்காளி = லைகோபெர்சிகான் எஸ்குலண்டம் (iv)\nஉருளை = சொலானம் டியுபரோசம் (i).",
+    "question_en": "Match:\n(a) Rice - (i) Solanum tuberosum\n(b) Mango - (ii) Oryza sativa\n(c) Tomato - (iii) Manchifera indica\n(d) cylindrical - (iv) Lycopersicon esculentum",
+    "options_en": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    ],
+    "explanation_en": "Botanical Names:\nRice = Orisa Chativa (ii)\nMango = Manchifera indica (iii)\nTomato = Lycopersicon esculentum (iv)\nCylindrical = Solanum tuberosum (i)."
+  },
+  {
+    "id": 134,
+    "question": "சுற்றுச்சூழல் சட்டம் இயற்றப்பட்ட ஆண்டு:",
+    "options": [
+      "1956",
+      "1966",
+      "1976",
+      "1986"
+    ],
+    "correct": 3,
+    "explanation": "இந்தியாவில் சுற்றுச்சூழல் பாதுகாப்புச் சட்டம் (Environment Protection Act) 1986-ல் இயற்றப்பட்டது.",
+    "question_en": "Year of Enactment of Environment Act:",
+    "options_en": [
+      "1956",
+      "1966",
+      "1976",
+      "1986"
+    ],
+    "explanation_en": "The Environment Protection Act in India was enacted in 1986."
+  },
+  {
+    "id": 135,
+    "question": "வைரஸ் பற்றிய படிப்பு வைராலஜி. ஆல்கா பற்றிய படிப்பு:",
+    "options": [
+      "சைக்காலஜி",
+      "பைக்காலஜி",
+      "மைகாலஜி",
+      "ஆல்காலஜி"
+    ],
+    "correct": 1,
+    "explanation": "பாசிகளைப் (Algae) பற்றிப் படிக்கும் அறிவியல் பிரிவு பைக்காலஜி (Phycology) என்று அழைக்கப்படுகிறது.",
+    "question_en": "Virology is the study of viruses. Studies on Algae:",
+    "options_en": [
+      "Psychology",
+      "Phycology",
+      "Mycology",
+      "Alchology"
+    ],
+    "explanation_en": "The branch of science that studies algae is called Phycology."
+  },
+  {
+    "id": 136,
+    "question": "பெனிசிலியத்தினைக் கண்டுபிடித்தவர்:",
+    "options": [
+      "ஹிப்போகிரேடஸ்",
+      "அலெக்ஸாண்டர் பிளமிங்",
+      "எட்வர்ட் ஜென்னர்",
+      "கரோலஸ் லின்னேயஸ்"
+    ],
+    "correct": 1,
+    "explanation": "அலெக்ஸாண்டர் பிளமிங் (Alexander Fleming) என்பவர் 1928-ஆம் ஆண்டு பெனிசிலின் என்ற முதல் நுண்ணுயிர்க் கொல்லி மருந்தைக் கண்டுபிடித்தார்.",
+    "question_en": "Discoverer of Penicillium:",
+    "options_en": [
+      "Hippocrates",
+      "Alexander Pluming",
+      "Edward Jenner",
+      "Carolus Linnaeus"
+    ],
+    "explanation_en": "Alexander Fleming invented the first antibiotic penicillin in 1928."
+  },
+  {
+    "id": 137,
+    "question": "உயிரியச் சிதைவடையும் பிளாஸ்டிக் பொருளின் வணிகப் பெயர்:",
+    "options": [
+      "பாலி ஹைட்ராக்சி பியூட்டிரேட்",
+      "ஆல்காலிஜன்",
+      "பாலிவினைல் குளோரைடு",
+      "நெகிழி"
+    ],
+    "correct": 0,
+    "explanation": "பாலி ஹைட்ராக்சி பியூட்டிரேட் (PHB) என்பது நுண்ணுயிரிகளால் எளிதில் சிதைக்கப்படக் கூடிய ஒரு சூழல்-நட்பு பிளாஸ்டிக் (Bio-degradable plastic) ஆகும்.",
+    "question_en": "Trade Name of Biodegradable Plastic Product:",
+    "options_en": [
+      "Poly hydroxy butyrate",
+      "Alkaligen",
+      "Polyvinyl chloride",
+      "flexibility"
+    ],
+    "explanation_en": "Poly hydroxy butyrate (PHB) is a bio-degradable plastic that can be easily degraded by microorganisms."
+  },
+  {
+    "id": 138,
+    "question": "பழமரங்களிலேயே மிக நீண்ட காலம் விளைச்சல் தரும் மரம்:",
+    "options": [
+      "கொய்யா",
+      "மா",
+      "ஆரஞ்சு",
+      "ஆப்பிள்"
+    ],
+    "correct": 1,
+    "explanation": "மா மரங்கள் நூற்றுக்கணக்கான ஆண்டுகள் வரை தொடர்ந்து பழங்களை விளைவிக்கக் கூடிய திறன் பெற்றவை.",
+    "question_en": "Longest bearing tree among fruit trees:",
+    "options_en": [
+      "Guava",
+      "Ma",
+      "Orange",
+      "Apple"
+    ],
+    "explanation_en": "Mango trees are capable of bearing fruit continuously for hundreds of years."
+  },
+  {
+    "id": 139,
+    "question": "வாய்ப்புண்ணைக் குணப்படுத்த பயன்படுவது:",
+    "options": [
+      "துளசி",
+      "நெல்லி",
+      "பிரண்டை",
+      "மஞ்சள்"
+    ],
+    "correct": 1,
+    "explanation": "நெல்லிக்காயில் (Gooseberry) வைட்டமின் சி அதிகம் உள்ளதால், இது வாய்ப்புண் மற்றும் ஸ்கர்வி போன்ற நோய்களைக் குணப்படுத்தப் பயன்படுகிறது.",
+    "question_en": "It is used to treat ulcers:",
+    "options_en": [
+      "Basil",
+      "Nelly",
+      "brand",
+      "Yellow"
+    ],
+    "explanation_en": "Gooseberry is rich in vitamin C, so it is used to treat diseases like goiter and scurvy."
+  },
+  {
+    "id": 140,
+    "question": "உள்ளீடற்ற எலும்புகளைக் கொண்ட உயிரினங்கள்:",
+    "options": [
+      "ஊர்வன",
+      "இருவாழ்விகள்",
+      "பறவைகள்",
+      "மனிதர்கள்"
+    ],
+    "correct": 2,
+    "explanation": "பறவைகளின் (Birds) எலும்புகள் காற்று நிரப்பப்பட்ட உள்ளீடற்ற (Pneumatic bones) அமைப்பைக் கொண்டுள்ளன. இது அவை காற்றில் எளிதாகப் பறக்க உதவுகிறது.",
+    "question_en": "Organisms that do not have internal bones:",
+    "options_en": [
+      "Reptile",
+      "Two lives",
+      "Birds",
+      "Human beings"
+    ],
+    "explanation_en": "Birds' bones are pneumatic bones filled with air. This helps them fly easily through the air."
+  },
+  {
+    "id": 141,
+    "question": "காற்றில் உள்ள ஆக்ஸிஜனின் அளவு:",
+    "options": [
+      "78%",
+      "20.9%",
+      "0.03%",
+      "71%"
+    ],
+    "correct": 1,
+    "explanation": "வளிமண்டல காற்றில் அதிகபட்சமாக நைட்ரஜன் (78%) உள்ளது, அதைத் தொடர்ந்து ஆக்ஸிஜன் சுமார் 21% (20.9%) காணப்படுகிறது.",
+    "question_en": "Amount of oxygen in air:",
+    "options_en": [
+      "78%",
+      "20.9%",
+      "0.03%",
+      "71%"
+    ],
+    "explanation_en": "Atmospheric air contains maximum nitrogen (78%), followed by oxygen at about 21% (20.9%)."
+  },
+  {
+    "id": 142,
+    "question": "செல்லின் 'தற்கொலைப் பைகள்' என்று அழைக்கப்படுவது:",
+    "options": [
+      "ரிபோசோம்கள்",
+      "மைட்டோகாண்டிரியா",
+      "உட்கரு",
+      "லைசோசோம்கள்"
+    ],
+    "correct": 3,
+    "explanation": "லைசோசோம்கள் (Lysosomes) செல்லுக்குள் நுழையும் கிருமிகளை அழிப்பதோடு மட்டுமல்லாமல், செல் முதிர்ச்சியடையும் போது தன்னையே அழித்துக் கொள்ளும் நொதிகளைக் கொண்டுள்ளதால் தற்கொலைப் பைகள் எனப்படுகின்றன.",
+    "question_en": "The cell's so-called 'suicide pouches':",
+    "options_en": [
+      "Ribosomes",
+      "Mitochondria",
+      "sit down",
+      "Lysosomes"
+    ],
+    "explanation_en": "Lysosomes (Lysosomes) are called suicide sacs because they not only destroy the germs that enter the cell, but also contain enzymes that destroy itself when the cell matures."
+  },
+  {
+    "id": 143,
+    "question": "ஒரு குழந்தை மரபியல் பண்புகளைப் பெறுவது:",
+    "options": [
+      "தாயிடம் மட்டும்",
+      "தந்தையிடம் மட்டும்",
+      "தாய், தந்தை இருவரிடமும்",
+      "இவற்றில் யாருமில்லை"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு குழந்தை தாய் மற்றும் தந்தை ஆகிய இருவரிடமிருந்தும் சமமான குரோமோசோம்களைப் பெறுவதால், மரபியல் பண்புகள் இருவரிடமிருந்தும் கடத்தப்படுகின்றன.",
+    "question_en": "A child inherits genetic characteristics:",
+    "options_en": [
+      "Mother only",
+      "Father only",
+      "Both mother and father",
+      "None of these"
+    ],
+    "explanation_en": "As a child receives an equal number of chromosomes from both mother and father, genetic traits are passed on from both."
+  },
+  {
+    "id": 144,
+    "question": "பொருத்துக:\n(a) நீளமான எலும்பு\n(b) குட்டையான எலும்பு\n(c) தட்டையான எலும்பு\n(d) ஒழுங்கற்ற எலும்பு\n(i) 12\n(ii) 4\n(iii) 7\n(iv) 5",
+    "options": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    ],
+    "correct": 0,
+    "explanation": "எலும்புகள் அவற்றின் அமைப்பைப் பொறுத்து நீளமான, குட்டையான, தட்டையான மற்றும் ஒழுங்கற்ற எலும்புகள் என வகைப்படுத்தப்படுகின்றன.",
+    "question_en": "Match:\n(a) Long bone\n(b) Short bone\n(c) Flat bone\n(d) Irregular bone\n(i) 12\n(ii) 4\n(iii) 7\n(iv) 5",
+    "options_en": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    ],
+    "explanation_en": "Bones are classified according to their structure as long, short, flat and irregular bones."
+  },
+  {
+    "id": 145,
+    "question": "கணையத்தின் லாங்கர்ஹான் திட்டுகளில் உள்ள ஆல்பா செல்கள் குளுக்ககானை உற்பத்தி செய்கிறது எனில், பீட்டா செல்கள் உற்பத்தி செய்வது:",
+    "options": [
+      "தைராக்ஸின்",
+      "குளுக்கோஸ்",
+      "இன்சுலின்",
+      "அட்ரீனலின்"
+    ],
+    "correct": 2,
+    "explanation": "கணையத்தில் உள்ள பீட்டா செல்கள் ரத்தத்தில் உள்ள சர்க்கரையின் அளவைக் கட்டுப்படுத்தும் இன்சுலின் (Insulin) ஹார்மோனை உற்பத்தி செய்கின்றன.",
+    "question_en": "Alpha cells in the Langerhan patches of the pancreas produce glucagon, while beta cells produce:",
+    "options_en": [
+      "Thyroxine",
+      "Glucose",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "explanation_en": "Beta cells in the pancreas produce insulin, a hormone that controls blood sugar levels."
+  },
+  {
+    "id": 146,
+    "question": "'இந்தியாவின் கிளி' என்று அழைக்கப்படுபவர்:",
+    "options": [
+      "அல்பரூனி",
+      "அமிர் குஸ்ரூ",
+      "ஜியா-உல்-பரணி",
+      "கிஜிர்-கான்"
+    ],
+    "correct": 1,
+    "explanation": "அமிர் குஸ்ரூ (Amir Khusru) ஒரு சிறந்த சூஃபி கவிஞர் மற்றும் இசைக்கலைஞர். அவர் 'இந்தியாவின் கிளி' (Parrot of India) என்று அழைக்கப்படுகிறார்.",
+    "question_en": "Known as the 'Parrot of India':",
+    "options_en": [
+      "Albaruni",
+      "Amir Khusru",
+      "Zia-ul-Bharani",
+      "Khizir-Khan"
+    ],
+    "explanation_en": "Amir Khusru was a great Sufi poet and musician. He is known as 'Parrot of India'."
+  },
+  {
+    "id": 147,
+    "question": "தஞ்சாவூர் நகரத்தினை நிர்மாணித்தவர்:",
+    "options": [
+      "இராஜராஜ சோழன்",
+      "இராஜேந்திர சோழன்",
+      "விஜயாலய சோழன்",
+      "ஆதித்ய சோழன்"
+    ],
+    "correct": 2,
+    "explanation": "முத்தரையர்களை வீழ்த்தி தஞ்சாவூரைக் கைப்பற்றி, பிற்காலச் சோழப் பேரரசை நிறுவியவர் விஜயாலய சோழன் ஆவார்.",
+    "question_en": "Thanjavur city was built by:",
+    "options_en": [
+      "Rajaraja Cholan",
+      "Rajendra Cholan",
+      "Vijayalaya Cholan",
+      "Aditya Cholan"
+    ],
+    "explanation_en": "It was Vijayalaya Chola who defeated the Mutharaiyas and conquered Thanjavur and established the later Chola Empire."
+  },
+  {
+    "id": 148,
+    "question": "'குவாதிர்-வாலி' என்று அழைக்கப்பட்டவர்:",
+    "options": [
+      "குவாஜாமொய்ன்-உத்-தின் சிஸ்டி",
+      "நிஜாம்-உத்-தின் அவுலியா",
+      "நாகூர் ஆண்டவர்",
+      "பாபா ஃபரீத்"
+    ],
+    "correct": 2,
+    "explanation": "நாகூர் ஆண்டவர் எனப் போற்றப்படும் செய்கு சாகுல் அமீது வலியுல்லா அவர்கள் 'குவாதிர்-வாலி' என்று பக்தர்களால் அழைக்கப்பட்டார்.",
+    "question_en": "Known as 'Quadir-Wali':",
+    "options_en": [
+      "Quajamoin-ud-Din Syst",
+      "Nizam-ud-din Auliya",
+      "Lord of Nagor",
+      "Baba Fareed"
+    ],
+    "explanation_en": "Seiku Sagul Ameedu Waliullah, revered as the Lord of Nagor, was called 'Kwadir-Wali' by the devotees."
+  },
+  {
+    "id": 149,
+    "question": "கஜூராஹோ கோவில்களை கட்டியவர்கள்:",
+    "options": [
+      "பாலர்கள்",
+      "சந்தேலர்கள்",
+      "பிரதிகாரர்கள்",
+      "சாளுக்கியர்கள்"
+    ],
+    "correct": 1,
+    "explanation": "மத்தியப் பிரதேசத்தில் உள்ள உலகப் புகழ் பெற்ற கஜூராஹோ கோவில்கள் (Khajuraho temples) சந்தேலர்களால் (Chandellas) கட்டப்பட்டன.",
+    "question_en": "Builders of Khajuraho Temples:",
+    "options_en": [
+      "Preschoolers",
+      "Chandelas",
+      "Defendants",
+      "Chalukyas"
+    ],
+    "explanation_en": "The world famous Khajuraho temples in Madhya Pradesh were built by the Chandellas."
+  },
+  {
+    "id": 150,
+    "question": "உலகப் பாரம்பரிய தினம் கொண்டாடப்படும் நாள்:",
+    "options": [
+      "ஜனவரி 10",
+      "ஏப்ரல் 15",
+      "ஏப்ரல் 18",
+      "ஏப்ரல் 25"
+    ],
+    "correct": 2,
+    "explanation": "பழங்கால நினைவுச் சின்னங்கள் மற்றும் வரலாற்று இடங்களைப் பாதுகாக்கும் விழிப்புணர்வை ஏற்படுத்த ஒவ்வொரு ஆண்டும் ஏப்ரல் 18 ஆம் தேதி உலகப் பாரம்பரிய தினம் (World Heritage Day) கொண்டாடப்படுகிறது.",
+    "question_en": "World Heritage Day is celebrated on:",
+    "options_en": [
+      "January 10",
+      "April 15",
+      "April 18",
+      "April 25"
+    ],
+    "explanation_en": "World Heritage Day is celebrated on 18th April every year to create awareness for the preservation of ancient monuments and historical places."
+  },
+  {
+    "id": 151,
+    "question": "பொருந்தாத ஒன்றை வெளியேற்றுக:",
+    "options": [
+      "பிரகதீஸ்வரர் ஆலயம்",
+      "கங்கை கொண்ட சோழீஸ்வரம்",
+      "ஐராவதேசுவரர் ஆலயம்",
+      "திருபுவனேஸ்வரர் ஆலயம்"
+    ],
+    "correct": 3,
+    "explanation": "முதல் மூன்றும் (பிரகதீஸ்வரர், கங்கை கொண்ட சோழபுரம், தாராசுரம் ஐராவதேசுவரர்) உலகப் பாரம்பரியச் சின்னங்களாக அங்கீகரிக்கப்பட்ட 'அழியாத மாபெரும் சோழர் கோவில்கள்' ஆகும். திருபுவனம் கம்பகரேசுவரர் கோவில் இதில் அடங்காது.",
+    "question_en": "Exclude any that do not match:",
+    "options_en": [
+      "Prahadeeswarar Temple",
+      "Choeeswaram with Ganges",
+      "Airavadesuvarar Temple",
+      "Tiruphuvaneswarar Temple"
+    ],
+    "explanation_en": "The first three (Pragadeeswarar, Ganga Konda Cholapuram, Tarasuram Airavadeswarar) are the 'Great Immortal Chola Temples' recognized as World Heritage Sites. This does not include the Thiruphuvanam Kambakareswarar Temple."
+  },
+  {
+    "id": 152,
+    "question": "பொருத்துக (இராஜபுத்திர அரசுகள்):\n(a) பிரதிகாரர்கள்\n(b) சௌகான்கள்\n(c) ரத்தோர்கள்\n(d) சந்தேலர்கள்\nஇடங்கள்: (i) பந்தல்கண்டு, (ii) கனோஜ், (iii) டெல்லி, (iv) அவந்தி",
+    "options": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    ],
+    "correct": 0,
+    "explanation": "பிரதிகாரர்கள் = கனோஜ் (ii)\nசௌகான்கள் = டெல்லி/அஜ்மீர் (iii)\nரத்தோர்கள் = அவந்தி/மார்வார் (iv)\nசந்தேலர்கள் = பந்தல்கண்டு (i)",
+    "question_en": "Match (Rajput States):\n(a) Defendants\n(b) Chaukhans\n(c) Rathors\n(d) Chandelas\nLocations: (i) Bandalkandu, (ii) Ganoj, (iii) Delhi, (iv) Avanti",
+    "options_en": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    ],
+    "explanation_en": "Defendants = Ganoj (ii)\nChaukhans = Delhi/Ajmer (iii)\nRathors = Avanti/Marwar (iv)\nChandelas = Panthalkandu (i)"
+  },
+  {
+    "id": 153,
+    "question": "கீழ்க்குறிப்பிட்டுள்ள முகலாயப் பேரரசர்களை காலக்கிரமப்படி வரிசைப்படுத்தவும்:\n(a) அக்பர், (b) ஹுமாயூன், (c) ஜஹாங்கீர், (d) பாபர்",
+    "options": [
+      "(d), (a), (b), (c)",
+      "(d), (b), (a), (c)",
+      "(a), (b), (d), (c)",
+      "(a), (c), (b), (d)"
+    ],
+    "correct": 1,
+    "explanation": "முகலாயப் பேரரசர்களின் சரியான வரிசை:\nபாபர் (d) $\\rightarrow$ ஹுமாயூன் (b) $\\rightarrow$ அக்பர் (a) $\\rightarrow$ ஜஹாங்கீர் (c).",
+    "question_en": "Arrange the following Mughal emperors in chronological order:\n(a) Akbar, (b) Humayun, (c) Jahangir, (d) Babur",
+    "options_en": [
+      "(d), (a), (b), (c)",
+      "(d), (b), (a), (c)",
+      "(a), (b), (d), (c)",
+      "(a), (c), (b), (d)"
+    ],
+    "explanation_en": "Exact order of Mughal emperors:\nBabur (d)$\\rightarrow$Humayun (b)$\\rightarrow$Akbar (a)$\\rightarrow$Jahangir (c)."
+  },
+  {
+    "id": 154,
+    "question": "இவரின் படையெடுப்பு முகலாய ஆட்சியினை முடிவுக்கு கொண்டுவந்தது:",
+    "options": [
+      "அகமது ஷா அப்தலி",
+      "நாதிர் ஷா",
+      "பகதூர் ஷா",
+      "ஷெர் ஷா"
+    ],
+    "correct": 1,
+    "explanation": "1739-ல் நாதிர் ஷாவின் படையெடுப்பு தில்லியைச் சூறையாடி முகலாயப் பேரரசுக்கு பலத்த அடியைக் கொடுத்தது.",
+    "question_en": "His invasion ended Mughal rule:",
+    "options_en": [
+      "Ahmad Shah Abdali",
+      "Nadir Shah",
+      "Bahadur Shah",
+      "Sher Shah"
+    ],
+    "explanation_en": "Nadir Shah's invasion in 1739 sacked Delhi and dealt a major blow to the Mughal Empire."
+  },
+  {
+    "id": 155,
+    "question": "காரன்வாலிஸ் சட்டத்தொகுப்பை தொகுத்து வெளியிட்டவர்:",
+    "options": [
+      "சர் தாமஸ் ரோ",
+      "சர் ஜார்ஜ் பார்லோ",
+      "சர் லாரன்ஸ் ராய்",
+      "சர் ஜான் ஷோர்"
+    ],
+    "correct": 1,
+    "explanation": "காரன்வாலிஸ் பிரபுவின் காலத்தில் அவரது நீதித்துறை மற்றும் நிர்வாகச் சீர்திருத்தங்கள் சர் ஜார்ஜ் பார்லோ (Sir George Barlow) என்பவரால் தொகுக்கப்பட்டன.",
+    "question_en": "Cornwallis compiled and published the Code of Laws:",
+    "options_en": [
+      "Sir Thomas Roe",
+      "Sir George Barlow",
+      "Sir Lawrence Roy",
+      "Sir John Shore"
+    ],
+    "explanation_en": "During Lord Cornwallis's tenure, his judicial and administrative reforms were compiled by Sir George Barlow."
+  },
+  {
+    "id": 156,
+    "question": "இந்தியாவில் முதன் முதலில் மக்கள் நல அரசை உருவாக்கிய அரசர்:",
+    "options": [
+      "பிம்பிசாரர்",
+      "கனிஷ்கர்",
+      "அக்பர்",
+      "அசோகர்"
+    ],
+    "correct": 3,
+    "explanation": "விலங்குகளுக்கும் மனிதர்களுக்கும் மருத்துவமனைகள், சாலைகள், மரங்கள் நட்டு ஒரு சிறந்த மக்கள் நல அரசை (Welfare State) உலகிலேயே முதன்முதலில் நிறுவியவர் அசோகர் ஆவார்.",
+    "question_en": "King who created the first People's Welfare Government in India:",
+    "options_en": [
+      "Bimbisarar",
+      "Kanishkar",
+      "Akbar",
+      "Ashoka"
+    ],
+    "explanation_en": "Ashoka was the first person to establish a welfare state in the world by building hospitals, roads and planting trees for animals and humans."
+  },
+  {
+    "id": 157,
+    "question": "சந்திரகுப்த மௌரியரின் தபால்தலை வெளியிடப்பட்ட ஆண்டு:",
+    "options": [
+      "2001",
+      "2002",
+      "2005",
+      "2004"
+    ],
+    "correct": 0,
+    "explanation": "மௌரியப் பேரரசை நிறுவிய சந்திரகுப்த மௌரியரின் சிறப்பை நினைவுகூரும் வகையில் இந்திய அஞ்சல் துறை 2001 ஆம் ஆண்டு தபால்தலை வெளியிட்டது.",
+    "question_en": "Chandragupta Maurya Stamp Issued Year:",
+    "options_en": [
+      "2001",
+      "2002",
+      "2005",
+      "2004"
+    ],
+    "explanation_en": "The Indian Postal Department issued a stamp in 2001 to commemorate the greatness of Chandragupta Maurya, the founder of the Mauryan Empire."
+  },
+  {
+    "id": 158,
+    "question": "சென்னை மாகாணம், 'தமிழ்நாடு' என்று பெயர் மாற்றம் பெற்ற ஆண்டு:",
+    "options": [
+      "1966",
+      "1967",
+      "1956",
+      "1969"
+    ],
+    "correct": 3,
+    "explanation": "அறிஞர் அண்ணா அவர்கள் முதலமைச்சராக இருந்தபோது, மெட்ராஸ் மாகாணம் (Madras Presidency) 1969 ஆம் ஆண்டு 'தமிழ்நாடு' என்று அதிகாரபூர்வமாகப் பெயர் மாற்றம் செய்யப்பட்டது.",
+    "question_en": "Year Chennai Province was renamed as 'Tamil Nadu':",
+    "options_en": [
+      "1966",
+      "1967",
+      "1956",
+      "1969"
+    ],
+    "explanation_en": "Madras Presidency was officially renamed as 'Tamil Nadu' in 1969 when Arignar Anna was the Chief Minister."
+  },
+  {
+    "id": 159,
+    "question": "நவீன குடிமுறைப்பணியின் தந்தை:",
+    "options": [
+      "வாரன் ஹேஸ்டிங்ஸ்",
+      "டல்ஹௌசி பிரபு",
+      "கார்ன்வாலிஸ் பிரபு",
+      "ரிப்பன் பிரபு"
+    ],
+    "correct": 2,
+    "explanation": "இந்தியாவில் நிர்வாகத்துறையைச் சீரமைத்து சிறந்த சிவில் சர்வீஸ் (Civil Services) முறையை அறிமுகப்படுத்தியதால் காரன்வாலிஸ் பிரபு 'நவீன குடிமுறைப்பணியின் தந்தை' எனப்படுகிறார்.",
+    "question_en": "Father of Modern Civil Service:",
+    "options_en": [
+      "Warren Hastings",
+      "Lord Dalhousie",
+      "Lord Cornwallis",
+      "Lord Ripon"
+    ],
+    "explanation_en": "Lord Cornwallis is known as the 'Father of Modern Civil Services' as he reformed the administration and introduced better civil services in India."
+  },
+  {
+    "id": 160,
+    "question": "கார்ட்டோகிராஃபர் (Cartographer) என்பவர்:",
+    "options": [
+      "வண்டிகளைத் தயாரிப்பவர்",
+      "இரதங்களை தயாரிப்பவர்",
+      "நிலப்படங்களை வரைபவர்",
+      "கார்களை உருவாக்குபவர்"
+    ],
+    "correct": 2,
+    "explanation": "கார்த்தோகிராஃபி (Cartography) என்பது நிலப்படங்களை அல்லது வரைபடங்களை உருவாக்கும் அறிவியல். அதை வரைபவர்கள் கார்ட்டோகிராஃபர் எனப்படுகிறார்கள்.",
+    "question_en": "Cartographer is:",
+    "options_en": [
+      "A maker of carriages",
+      "A maker of chariots",
+      "A cartographer",
+      "A car maker"
+    ],
+    "explanation_en": "Cartography is the science of making maps or maps. Those who draw it are called cartographers."
+  },
+  {
+    "id": 161,
+    "question": "எந்த ஊரில் அமைந்துள்ள கடிகாரத்தின் அடிப்படையில் இந்திய நேரம் கணக்கிடப்படுகிறது?",
+    "options": [
+      "கொல்கத்தா",
+      "போபால்",
+      "மிர்ஸாபூர்",
+      "புதுதில்லி"
+    ],
+    "correct": 2,
+    "explanation": "இந்தியத் திட்ட நேரம் (IST) என்பது $82.5^\\circ$ கிழக்கு தீர்க்கரேகையை அடிப்படையாகக் கொண்டது. இக்கோடு அலகாபாத் அருகிலுள்ள மிர்ஸாபூர் வழியாகச் செல்கிறது.",
+    "question_en": "Indian time is calculated based on the clock located in which city?",
+    "options_en": [
+      "Kolkata",
+      "Bhopal",
+      "Mirzapur",
+      "New Delhi"
+    ],
+    "explanation_en": "Indian Scheme Time (IST) is based on$82.5^\\circ$East Longitude. The line passes through Mirzapur near Allahabad."
+  },
+  {
+    "id": 162,
+    "question": "பெரிய அளவில் அமையும் நீர்வீழ்ச்சிகளின் பெயர்:",
+    "options": [
+      "துள்ளல்கள்",
+      "செங்குத்து நீர்வீழ்ச்சி (Cataracts)",
+      "கீழாறு",
+      "சிக்கலான துணை ஆறு"
+    ],
+    "correct": 1,
+    "explanation": "நிறைய நீருடன் பிரம்மாண்டமாக விழும் பெரிய நீர்வீழ்ச்சிகளை ஆங்கிலத்தில் Cataracts என்று அழைப்பார்கள்.",
+    "question_en": "Name of large waterfalls:",
+    "options_en": [
+      "bounces",
+      "Cataracts",
+      "bottom six",
+      "Complex sub-six"
+    ],
+    "explanation_en": "Huge waterfalls with lots of water are called Cataracts in English."
+  },
+  {
+    "id": 163,
+    "question": "இவ்வாலைகள் பயிரிடப்படும் வயல்களுக்கு அருகில் அமைக்கப்படுகின்றன:",
+    "options": [
+      "சர்க்கரை ஆலைகள்",
+      "பருத்தி ஆலைகள்",
+      "சணல் ஆலைகள்",
+      "மாவு ஆலைகள்"
+    ],
+    "correct": 0,
+    "explanation": "கரும்பு அறுவடை செய்யப்பட்ட சிறிது நேரத்திலேயே அதன் சாறு மற்றும் எடை குறைந்துவிடும். எனவே சர்க்கரை ஆலைகள் கரும்பு வயல்களுக்கு அருகிலேயே அமைக்கப்படுகின்றன.",
+    "question_en": "These roads are constructed near cultivated fields:",
+    "options_en": [
+      "Sugar mills",
+      "Cotton mills",
+      "Jute mills",
+      "flour mills"
+    ],
+    "explanation_en": "Sugarcane loses juice and weight shortly after harvesting. So sugar mills are set up near sugarcane fields."
+  },
+  {
+    "id": 164,
+    "question": "பூமியின் கவசத்தின் மேலடுக்கு இவ்வாறு அழைக்கப்படுகிறது:",
+    "options": [
+      "சியால்",
+      "சிமா",
+      "பேரிஸ்பியர்",
+      "அஸ்தினோஸ்பியர்"
+    ],
+    "correct": 3,
+    "explanation": "புவியின் மேலோட்டிற்கும் கீழேயுள்ள கவசத்திற்கும் (Mantle) இடையே உள்ள குழம்பான மேலடுக்கு அஸ்தினோஸ்பியர் (Asthenosphere) எனப்படுகிறது.",
+    "question_en": "The outer layer of Earth's mantle is called:",
+    "options_en": [
+      "Sial",
+      "Sima",
+      "Perisphere",
+      "Asthenosphere"
+    ],
+    "explanation_en": "The cloudy layer between the Earth's crust and the mantle below is called the asthenosphere."
+  },
+  {
+    "id": 165,
+    "question": "புவியின் அடியடுக்கு மற்றும் படையடுக்கிற்கு இடையே அமைந்த அடுக்கு:",
+    "options": [
+      "அயனியடுக்கு",
+      "வெளியடுக்கு",
+      "வளிமண்டலம்",
+      "சேணிடை அடுக்கு (Tropopause)"
+    ],
+    "correct": 3,
+    "explanation": "அடியடுக்கு (Troposphere) மற்றும் படையடுக்கு (Stratosphere) ஆகிய இரு அடுக்குகளையும் பிரிக்கும் மெல்லிய எல்லை சேணிடை அடுக்கு (Tropopause) ஆகும்.",
+    "question_en": "The layer between the basement and the basement:",
+    "options_en": [
+      "For ionization",
+      "publish",
+      "Atmosphere",
+      "Tropopause"
+    ],
+    "explanation_en": "Tropopause is the thin boundary that separates the troposphere and stratosphere."
+  },
+  {
+    "id": 166,
+    "question": "வளிமண்டலத்தின் கீழடுக்கினைப் பற்றிய படிப்பு:",
+    "options": [
+      "வானிலை முன்னறிவிப்பு",
+      "வானிலையியல் (Meteorology)",
+      "விண்வெளி ஆராய்ச்சி",
+      "ஜோதிடம்"
+    ],
+    "correct": 1,
+    "explanation": "வளிமண்டலம் மற்றும் அதில் ஏற்படும் தினசரி வானிலை மாற்றங்களைப் பற்றிப் படிக்கும் அறிவியல் வானிலையியல் (Meteorology) எனப்படும்.",
+    "question_en": "Study of Lower Atmosphere:",
+    "options_en": [
+      "Weather forecast",
+      "Meteorology",
+      "Space exploration",
+      "Astrology"
+    ],
+    "explanation_en": "The science that studies the atmosphere and its daily weather changes is called Meteorology."
+  },
+  {
+    "id": 167,
+    "question": "பசிபிக் பெருங்கடலின் வடிவம்:",
+    "options": [
+      "செவ்வகம்",
+      "முக்கோணம்",
+      "நீண்ட S",
+      "சதுரம்"
+    ],
+    "correct": 1,
+    "explanation": "உலகிலேயே மிகப்பெரிய பெருங்கடலான பசிபிக் பெருங்கடல் தோராயமாக முக்கோண (Triangle) வடிவில் அமைந்துள்ளது.",
+    "question_en": "Shape of the Pacific Ocean:",
+    "options_en": [
+      "rectangle",
+      "Triangle",
+      "Long S",
+      "Square"
+    ],
+    "explanation_en": "The largest ocean in the world, the Pacific Ocean is roughly in the shape of a triangle."
+  },
+  {
+    "id": 168,
+    "question": "கடல் நீரின் உவர்ப்பியத்தினைக் குறிக்கும் குறியீடு:",
+    "options": [
+      "00/0",
+      "10/-",
+      "0/00",
+      "00/10"
+    ],
+    "correct": 2,
+    "explanation": "கடல்நீரின் உவர்ப்பியம் (Salinity) என்பது 1000 கிராம் நீரில் உள்ள உப்பின் அளவாகும். இதனை 'ஆயிரத்தில் ஒரு பங்கு' என்ற பொருளில் $0/00$ என்ற குறியீட்டால் குறிப்பிடுவர்.",
+    "question_en": "The symbol for salinity of sea water is:",
+    "options_en": [
+      "00/0",
+      "10/-",
+      "0/00",
+      "00/10"
+    ],
+    "explanation_en": "Salinity of seawater is the amount of salt in 1000 grams of water. It is denoted by the symbol$0/00$meaning 'one thousandth'."
+  },
+  {
+    "id": 169,
+    "question": "பொருந்தாத ஒன்றை நீக்குக:",
+    "options": [
+      "மத்திய தரைக்கடல்",
+      "காஸ்பியன் கடல்",
+      "ஏரல் கடல்",
+      "சாக்கடல்"
+    ],
+    "correct": 0,
+    "explanation": "மத்திய தரைக்கடல் (Mediterranean Sea) அட்லாண்டிக் பெருங்கடலுடன் இணைக்கப்பட்டுள்ளது. மற்ற மூன்றும் நான்கு புறமும் நிலத்தால் சூழப்பட்ட பெரிய ஏரிகள் (Landlocked) ஆகும்.",
+    "question_en": "Delete the one that doesn't apply:",
+    "options_en": [
+      "The Mediterranean Sea",
+      "Caspian Sea",
+      "Aral Sea",
+      "the dead sea"
+    ],
+    "explanation_en": "The Mediterranean Sea is connected to the Atlantic Ocean. The other three and four sides are landlocked lakes."
+  },
+  {
+    "id": 170,
+    "question": "முதன்முதலில் அட்ச தீர்க்கக் கோடுகளை நில வரைபடத்தில் வரைந்தவர்:",
+    "options": [
+      "கெப்லர்",
+      "தாலமி",
+      "பாஸ்கர்",
+      "வராகமித்திரர்"
+    ],
+    "correct": 1,
+    "explanation": "கிரேக்க அறிஞரான தாலமி (Ptolemy) என்பவரே உலக வரைபடத்தில் முதன்முதலில் அட்ச மற்றும் தீர்க்கக் கோடுகளைப் பயன்படுத்தினார்.",
+    "question_en": "First to draw latitude lines on a land map:",
+    "options_en": [
+      "Kepler",
+      "Ptolemy",
+      "Bhaskar",
+      "Varaghamithira"
+    ],
+    "explanation_en": "The Greek scholar Ptolemy was the first to use axioms and protractors on a world map."
+  },
+  {
+    "id": 171,
+    "question": "பொருத்துக:\n(a) வால்நட்சத்திரம்\n(b) எரிநட்சத்திரம்\n(c) பால்வெளி\n(d) குறுங்கோள்கள்\n\n(i) அண்டம்\n(ii) செவ்வாய் மற்றும் வியாழன் கோள்களுக்குடையே\n(iii) பனி, தூசு நிறைந்த பாறை\n(iv) திடீரெனத் தோன்றும் ஒளிக்கீற்று",
+    "options": [
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "correct": 0,
+    "explanation": "வால்நட்சத்திரம் = பனி, தூசு (iii)\nஎரிநட்சத்திரம் = ஒளிக்கீற்று (iv)\nபால்வெளி = அண்டம் (i)\nகுறுங்கோள்கள் = செவ்வாய் - வியாழன் இடையே (ii)\n(குறிப்பு: விருப்பம் 1 மற்றும் 4 கிட்டத்தட்ட ஒன்றாக இருந்தாலும், சரியான இணை (a-iii, b-iv, c-i, d-ii) ஆகும்.)",
+    "question_en": "Match:\n(a) Comet\n(b) Fire star\n(c) Milky Way\n(d) Asteroids\n\n(i) Cosmic\n(ii) Between Mars and Jupiter\n(iii) Snowy, dusty rock\n(iv) A sudden appearance of light",
+    "options_en": [
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "explanation_en": "Comet = snow, dust (iii)\nFire star = ray of light (iv)\nMilky Way = Universe (i)\nMinor Planets = Between Mars - Jupiter (ii)\n(Note: Although option 1 and 4 are almost identical, the correct pair is (a-iii, b-iv, c-i, d-ii).)"
+  },
+  {
+    "id": 172,
+    "question": "இந்தியாவில் சம இரவு-பகல் கொண்ட நாட்கள்:",
+    "options": [
+      "மார்ச் 23 மற்றும் செப்டம்பர் 12",
+      "மார்ச் 23 மற்றும் செப்டம்பர் 21",
+      "மார்ச் 21 மற்றும் செப்டம்பர் 23",
+      "மார்ச் 12 மற்றும் செப்டம்பர் 23"
+    ],
+    "correct": 2,
+    "explanation": "சூரியனின் கதிர்கள் நேரடியாக பூமத்திய ரேகையில் விழும்போது சம இரவு பகல் (Equinox) ஏற்படுகிறது. இவை மார்ச் 21 மற்றும் செப்டம்பர் 23 ஆகும்.",
+    "question_en": "Days with equal day and night in India:",
+    "options_en": [
+      "March 23 and September 12",
+      "March 23 and September 21",
+      "March 21 and September 23",
+      "March 12 and September 23"
+    ],
+    "explanation_en": "Equinox occurs when the sun's rays fall directly on the equator. These are March 21 and September 23."
+  },
+  {
+    "id": 173,
+    "question": "கீழே கொடுக்கப்பட்டுள்ளவற்றினை பரப்பளவின் அடிப்படையில் வரிசைப்படுத்துக:",
+    "options": [
+      "இந்திய - ஆர்டிக் - அட்லாண்டிக் - பசிபிக்",
+      "அட்லாண்டிக் - ஆர்டிக் - இந்திய - பசிபிக்",
+      "ஆர்டிக் - இந்திய - அட்லாண்டிக் - பசிபிக்",
+      "இந்திய - ஆர்டிக் - பசிபிக் - அட்லாண்டிக்"
+    ],
+    "correct": 2,
+    "explanation": "மிகச் சிறியதிலிருந்து பெரியதாக வரிசைப்படுத்தினால்: ஆர்டிக் < இந்தியப் பெருங்கடல் < அட்லாண்டிக் < பசிபிக் பெருங்கடல்.",
+    "question_en": "Arrange the following in order of area:",
+    "options_en": [
+      "Indian - Arctic - Atlantic - Pacific",
+      "Atlantic - Arctic - Indian - Pacific",
+      "Artic - Indian - Atlantic - Pacific",
+      "Indian - Arctic - Pacific - Atlantic"
+    ],
+    "explanation_en": "In order from smallest to largest: Arctic < Indian Ocean < Atlantic < Pacific Ocean."
+  },
+  {
+    "id": 174,
+    "question": "கீழ்க்குறிப்பிட்டுள்ளவற்றில் எந்தக் கூற்று சரியானது?\n(அ) காவிரி ஆற்றின் உபநதிகள் கபினி மற்றும் நொய்யல்.\n(ஆ) கிருஷ்ணா நதி அரபிக் கடலில் கலக்கிறது.",
+    "options": [
+      "(அ) சரி, (ஆ) தவறு",
+      "(அ) தவறு, (ஆ) சரி",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "explanation": "கூற்று (அ) சரி. ஆனால் கிருஷ்ணா நதி கிழக்கு நோக்கிப் பாய்ந்து வங்காள விரிகுடாவில் கலக்கிறது. எனவே கூற்று (ஆ) தவறு.",
+    "question_en": "Which of the following statements is correct?\n(a) Kabini and Noyal are tributaries of river Cauvery.\n(b) River Krishna flows into the Arabian Sea.",
+    "options_en": [
+      "(a) True, (b) False",
+      "(a) False, (b) Correct",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation_en": "Statement (a) is correct. But the Krishna River flows eastward and empties into the Bay of Bengal. Hence statement (b) is false."
+  },
+  {
+    "id": 175,
+    "question": "தவறான இணையைக் கண்டுபிடிக்கவும்:",
+    "options": [
+      "கோள் காற்றுகள் - துருவக் காற்றுகள்",
+      "பருவகால காற்றுகள் - கடல் காற்றுகள்",
+      "மாறும் காற்றுகள் - சூறாவளி",
+      "பகுதிநேரக் காற்றுகள் - மேலைக் காற்றுகள்"
+    ],
+    "correct": 1,
+    "explanation": "கடல் காற்றுகள் (Sea breeze) என்பவை அன்றாடம் வீசும் உள்ளூர்க் காற்றுகள் ஆகும். பருவகாலக் காற்றுகளுக்கு உதாரணம் பருவமழைக் காற்றுகள் (Monsoons). எனவே இது தவறான இணை.",
+    "question_en": "Find the wrong parallel:",
+    "options_en": [
+      "Planetary Winds - Polar Winds",
+      "Seasonal Winds – Sea Breezes",
+      "Winds of change - Cyclone",
+      "Part time winds – westerly winds"
+    ],
+    "explanation_en": "Sea breezes are local winds that blow daily. Examples of seasonal winds are Monsoons. So it's a false parallel."
+  },
+  {
+    "id": 176,
+    "question": "மத்திய, மாநில அரசுகள் இங்கிருந்து தமது அதிகாரத்தைப் பெறுகின்றன:",
+    "options": [
+      "சட்ட மன்றம்",
+      "பாராளுமன்றம்",
+      "மக்கள்",
+      "அரசியல் கட்சிகள்"
+    ],
+    "correct": 2,
+    "explanation": "ஜனநாயக நாட்டில் அரசியலமைப்பு சட்டத்தின்படி அனைத்து அதிகாரங்களும் மக்களிடமிருந்தே (The People) பெறப்படுகின்றன.",
+    "question_en": "Central and State Governments derive their powers from:",
+    "options_en": [
+      "Legislature",
+      "Parliament",
+      "People",
+      "Political parties"
+    ],
+    "explanation_en": "In a democratic country, according to the constitution, all powers are derived from the people (The People)."
+  },
+  {
+    "id": 177,
+    "question": "மக்களாட்சியின் முதுகெலும்பாகத் திகழ்வது:",
+    "options": [
+      "மத்திய அரசு",
+      "மாநில அரசு",
+      "அரசியல் கட்சிகள்",
+      "தேர்தல் ஆணையம்"
+    ],
+    "correct": 2,
+    "explanation": "அரசியல் கட்சிகளே (Political Parties) மக்களின் கருத்துக்களைப் பிரதிபலித்து அரசை வழிநடத்துவதால் அவை மக்களாட்சியின் முதுகெலும்பு எனப்படுகின்றன.",
+    "question_en": "Forms the backbone of democracy:",
+    "options_en": [
+      "Central Govt",
+      "State Govt",
+      "Political parties",
+      "Election Commission"
+    ],
+    "explanation_en": "Political parties are the backbone of democracy as they lead the government by reflecting the views of the people."
+  },
+  {
+    "id": 178,
+    "question": "சென்னை உயர்நீதிமன்றத்தின் தற்போதைய (2017) தலைமை நீதிபதி:",
+    "options": [
+      "நீதியரசர் இந்திரா பானர்ஜி",
+      "நீதியரசர் சஞ்சய் கிஷன் கவுல்",
+      "நீதியரசர் சதீஷ் K அக்னிஹோத்ரி",
+      "நீதியரசர் தீபக் மிஷ்ரா"
+    ],
+    "correct": 0,
+    "explanation": "இந்த வினாத்தாள் வெளியான 2017-ம் ஆண்டில் சென்னை உயர்நீதிமன்றத்தின் தலைமை நீதிபதியாகப் பதவி வகித்தவர் நீதியரசர் இந்திரா பானர்ஜி.",
+    "question_en": "Current (2017) Chief Justice of Madras High Court:",
+    "options_en": [
+      "Justice Indira Banerjee",
+      "Justice Sanjay Kishan Kaul",
+      "Justice Satish K Agnihotri",
+      "Justice Deepak Mishra"
+    ],
+    "explanation_en": "Justice Indira Banerjee was the Chief Justice of Madras High Court in 2017 when this question paper was published."
+  },
+  {
+    "id": 179,
+    "question": "மாநகராட்சியின் தலைவர்:",
+    "options": [
+      "ஆணையர்",
+      "மேயர்",
+      "கவுன்சிலர்",
+      "செயலாளர்"
+    ],
+    "correct": 1,
+    "explanation": "மாநகராட்சியின் (Corporation) அரசியல் ரீதியான மற்றும் மக்களால் தேர்ந்தெடுக்கப்படும் தலைவர் மேயர் (Mayor) ஆவார்.",
+    "question_en": "Chairman of the Corporation:",
+    "options_en": [
+      "Commissioner",
+      "Mayor",
+      "Councillor",
+      "Secretary"
+    ],
+    "explanation_en": "The political and popularly elected head of the Corporation is the Mayor."
+  },
+  {
+    "id": 180,
+    "question": "பொருளாதாரத்திற்கான நோபல் பரிசு பெற்ற இந்தியர்:",
+    "options": [
+      "கைலாஷ் சத்தியார்த்தி",
+      "அமர்த்தியா சென்",
+      "ஹர்கோவிந்த் கொரானா",
+      "டாக்டர் சந்திர சேகர்"
+    ],
+    "correct": 1,
+    "explanation": "இந்தியாவைச் சேர்ந்த அறிஞர் அமர்த்தியா சென் (Amartya Sen) 1998 ஆம் ஆண்டில் மக்கள் நலப் பொருளாதாரத்திற்கான நோபல் பரிசினை வென்றார்.",
+    "question_en": "Indian Nobel Laureate in Economics:",
+    "options_en": [
+      "Kailash Satyarthi",
+      "Amartya Sen",
+      "Hargovind Korana",
+      "Dr. Chandra Shekhar"
+    ],
+    "explanation_en": "Indian scholar Amartya Sen won the 1998 Nobel Prize in Public Welfare Economics."
+  }
+]

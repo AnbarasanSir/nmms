@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "question": "எத்தனை சதுரங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q1.PNG",
+    "options": [
+      "17",
+      "34",
+      "30",
+      "28"
+    ],
+    "correct": 2,
+    "explanation": "வரிசை, கலம் சமமாக இருந்தால் (இங்கு வரிசை=4, கலம்=4): 1² + 2² + 3² + 4² = 1 + 4 + 9 + 16 = 30 சதுரங்கள்.",
+    "question_en": "How many squares are there in this diagram?",
+    "options_en": [
+      "17",
+      "34",
+      "30",
+      "28"
+    ],
+    "explanation_en": "If row, cell are even (where row=4, cell=4): 1² + 2² + 3² + 4² = 1 + 4 + 9 + 16 = 30 squares."
+  },
+  {
+    "id": 2,
+    "question": "எத்தனை சதுரங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q2.PNG",
+    "options": [
+      "20",
+      "18",
+      "12",
+      "22"
+    ],
+    "correct": 0,
+    "explanation": "வரிசை=3, கலம்=4 (சமமில்லை). சதுரங்களின் எண்ணிக்கை = (4×3) + (3×2) + (2×1) = 12 + 6 + 2 = 20.",
+    "question_en": "How many squares are there in this diagram?",
+    "options_en": [
+      "20",
+      "18",
+      "12",
+      "22"
+    ],
+    "explanation_en": "row=3, cell=4 (not equal). Number of squares = (4×3) + (3×2) + (2×1) = 12 + 6 + 2 = 20."
+  },
+  {
+    "id": 3,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q3.PNG",
+    "options": [
+      "25",
+      "23",
+      "20",
+      "21"
+    ],
+    "correct": 3,
+    "explanation": "[3×6] = 18. [A+B+C] = 3. மொத்த முக்கோணங்கள் = 18 + 3 = 21.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "25",
+      "23",
+      "20",
+      "21"
+    ],
+    "explanation_en": "[3×6] = 18. [A+B+C] = 3. Total triangles = 18 + 3 = 21."
+  },
+  {
+    "id": 4,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q4.PNG",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 3,
+    "explanation": "தனித்த முக்கோணங்கள் 1,2..9 = 9. 4 முக்கோணங்கள் சேர்ந்தவை = 3. பெரிய முக்கோணம் = 1. மொத்தம் = 13.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation_en": "Unique triangles 1,2..9 = 9. 4 triangles together = 3. Bigger triangle = 1. Total = 13."
+  },
+  {
+    "id": 5,
+    "question": "எத்தனை சதுரங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q5.PNG",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "11"
+    ],
+    "correct": 1,
+    "explanation": "1,2..8 = 8. நான்கு சதுரங்கள் சேர்ந்தவை = 2. மற்றவை = 4. மொத்தம் = 8 + 2 + 4 = 14.",
+    "question_en": "How many squares are there in this diagram?",
+    "options_en": [
+      "12",
+      "14",
+      "15",
+      "11"
+    ],
+    "explanation_en": "1,2..8 = 8. Addition of four squares = 2. Others = 4. Total = 8 + 2 + 4 = 14."
+  },
+  {
+    "id": 6,
+    "question": "எத்தனை செவ்வகங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q6.PNG",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "1,2..5 = 5. (1+2), (2+3), (4+5) = 3. (1+2+3) = 1. (1+2+3+4+5) = 1. மொத்தம் = 10.",
+    "question_en": "How many rectangles are there in this diagram?",
+    "options_en": [
+      "8",
+      "10",
+      "11",
+      "12"
+    ],
+    "explanation_en": "1,2..5 = 5. (1+2), (2+3), (4+5) = 3. (1+2+3) = 1. (1+2+3+4+5) = 1. Total = 10."
+  },
+  {
+    "id": 7,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q7.PNG",
+    "options": [
+      "28",
+      "48",
+      "40",
+      "32"
+    ],
+    "correct": 1,
+    "explanation": "நடுவில் உள்ள பகுதியின் முக்கோணங்கள் = 16. இதர முக்கோணங்கள் = 32. மொத்தம் = 48.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "28",
+      "48",
+      "40",
+      "32"
+    ],
+    "explanation_en": "Triangles in middle area = 16. Other triangles = 32. Total = 48."
+  },
+  {
+    "id": 8,
+    "question": "கீழ்க்காணும் படத்தில் எத்தனை முக்கோணங்கள் உள்ளன?",
+    "image": "image/unit7/q8.PNG",
+    "options": [
+      "34",
+      "32",
+      "33",
+      "35"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு புள்ளியிலிருந்து பிரிக்கப்பட்டவை = 6. தனித்த மற்றும் இணைப்பு முக்கோணங்கள் = 28. மொத்தம் = 34.",
+    "question_en": "How many triangles are there in the following figure?",
+    "options_en": [
+      "34",
+      "32",
+      "33",
+      "35"
+    ],
+    "explanation_en": "Separated from a point = 6. Discrete and contiguous triangles = 28. Total = 34."
+  },
+  {
+    "id": 9,
+    "question": "எத்தனை அரைவட்டங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q9.PNG",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 2,
+    "explanation": "தனித்தவை = 5. இணைந்தவை = 5. பெரியவை = 2. மொத்தம் = 12 அரைவட்டங்கள்.",
+    "question_en": "How many semicircles are there in this diagram?",
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation_en": "Discrete = 5. Combined = 5. Large = 2. Total = 12 semicircles."
+  },
+  {
+    "id": 10,
+    "question": "எத்தனை செவ்வகங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q10.PNG",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correct": 3,
+    "explanation": "தனித்தவை = 7. இணைந்தவை = 4. மற்றவை = 1, 2, 1. மொத்தம் = 15.",
+    "question_en": "How many rectangles are there in this diagram?",
+    "options_en": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "explanation_en": "Discrete = 7. Combined = 4. Others = 1, 2, 1. Total = 15."
+  },
+  {
+    "id": 11,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q11.PNG",
+    "options": [
+      "39",
+      "41",
+      "38",
+      "36"
+    ],
+    "correct": 0,
+    "explanation": "தனித்த முக்கோணங்கள் = 16. (16 × 2) = 32. இணைப்புப் புள்ளிகள் = 6. மறைந்திருக்கும் முக்கோணம் = 1. மொத்தம் = 39.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "39",
+      "41",
+      "38",
+      "36"
+    ],
+    "explanation_en": "Unique triangles = 16. (16 × 2) = 32. Connecting points = 6. Hidden triangle = 1. Total = 39."
+  },
+  {
+    "id": 12,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q12.PNG",
+    "options": [
+      "14",
+      "12",
+      "17",
+      "10"
+    ],
+    "correct": 2,
+    "explanation": "முக்கோணங்களின் எண்ணிக்கை = (6 × 2) = 12. 7,8,9,10 = 4. (8+9) = 1. மொத்தம் = 17.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "14",
+      "12",
+      "17",
+      "10"
+    ],
+    "explanation_en": "Number of triangles = (6 × 2) = 12. 7,8,9,10 = 4. (8+9) = 1. Total = 17."
+  },
+  {
+    "id": 13,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q13.PNG",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "10"
+    ],
+    "correct": 3,
+    "explanation": "1,2..6 = 6. (1+2), (3+4), (1+3), (2+4) = 4. மொத்தம் = 10.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "8",
+      "6",
+      "9",
+      "10"
+    ],
+    "explanation_en": "1,2..6 = 6. (1+2), (3+4), (1+3), (2+4) = 4. Total = 10."
+  },
+  {
+    "id": 14,
+    "question": "எத்தனை சதுரங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q14.PNG",
+    "options": [
+      "10",
+      "15",
+      "13",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "1,2..6 = 6. 4 பகுதிகள் சேர்ந்தவை = 4. 6 பகுதிகள் = 1. மற்றவை = 2. மொத்தம் = 13.",
+    "question_en": "How many squares are there in this diagram?",
+    "options_en": [
+      "10",
+      "15",
+      "13",
+      "16"
+    ],
+    "explanation_en": "1,2..6 = 6. 4 parts together = 4. 6 parts = 1. Others = 2. Total = 13."
+  },
+  {
+    "id": 15,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q15.PNG",
+    "options": [
+      "14",
+      "12",
+      "16",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "1,2..8 = 8. (5+a+8) போன்ற இணைந்தவை = 4. பெரிய முக்கோணங்கள் = 2. மொத்தம் = 14.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "14",
+      "12",
+      "16",
+      "8"
+    ],
+    "explanation_en": "1,2..8 = 8. Combinations like (5+a+8) = 4. Bigger triangles = 2. Total = 14."
+  },
+  {
+    "id": 16,
+    "question": "எத்தனை சரிவகங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q16.PNG",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "0"
+    ],
+    "correct": 1,
+    "explanation": "1, 2 = 2. மொத்தம் = 2 சரிவகங்கள். (பதில் 2).",
+    "question_en": "How many vertices are there in this graph?",
+    "options_en": [
+      "4",
+      "3",
+      "2",
+      "0"
+    ],
+    "explanation_en": "1, 2 = 2. Total = 2 squares. (Answer 2)."
+  },
+  {
+    "id": 17,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q17.PNG",
+    "options": [
+      "21",
+      "20",
+      "22",
+      "19"
+    ],
+    "correct": 0,
+    "explanation": "1,2..12 = 12. இணைந்தவை = 7. பெரியவை = 2. மொத்தம் = 21.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "21",
+      "20",
+      "22",
+      "19"
+    ],
+    "explanation_en": "1,2..12 = 12. Adjacent = 7. Greater = 2. Total = 21."
+  },
+  {
+    "id": 18,
+    "question": "எத்தனை செவ்வகங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q18.PNG",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correct": 3,
+    "explanation": "1,2..6 = 6. இரு பகுதிகள் சேர்ந்தவை = 4. மற்றவை = 4 + 1 + 1. மொத்தம் = 16.",
+    "question_en": "How many rectangles are there in this diagram?",
+    "options_en": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "explanation_en": "1,2..6 = 6. Addition of two parts = 4. Other = 4 + 1 + 1. Total = 16."
+  },
+  {
+    "id": 19,
+    "question": "எத்தனை இணைகரங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q19.PNG",
+    "options": [
+      "12",
+      "8",
+      "14",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "1,2..5 = 5. இணைந்தவை = 4 + 2 + 1. மொத்தம் = 12.",
+    "question_en": "How many links are there in this graph?",
+    "options_en": [
+      "12",
+      "8",
+      "14",
+      "6"
+    ],
+    "explanation_en": "1,2..5 = 5. Combined = 4 + 2 + 1. Total = 12."
+  },
+  {
+    "id": 20,
+    "question": "எத்தனை சதுரங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q20.PNG",
+    "options": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "correct": 1,
+    "explanation": "வெளி சதுரத்தில் (1²+2²+3²) = 14. உள் சதுரத்தில் (1²+2²) = 5. மற்றொன்று = 1. மொத்தம் = 20.",
+    "question_en": "How many squares are there in this diagram?",
+    "options_en": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "explanation_en": "Outer square (1²+2²+3²) = 14. Inner square (1²+2²) = 5. Else = 1. Total = 20."
+  },
+  {
+    "id": 21,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q21.PNG",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correct": 3,
+    "explanation": "1,2..10 = 10. இணைந்தவை = 4 + 2. மொத்தம் = 16.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "explanation_en": "1,2..10 = 10. Combined = 4 + 2. Total = 16."
+  },
+  {
+    "id": 22,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q22.PNG",
+    "options": [
+      "14",
+      "13",
+      "12",
+      "10"
+    ],
+    "correct": 0,
+    "explanation": "1,2..5 = 5. இணைந்தவை = 6 + 2 + 1 = 9. மொத்தம் = 14.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "14",
+      "13",
+      "12",
+      "10"
+    ],
+    "explanation_en": "1,2..5 = 5. Combined = 6 + 2 + 1 = 9. Total = 14."
+  },
+  {
+    "id": 23,
+    "question": "எத்தனை முக்கோணங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q23.PNG",
+    "options": [
+      "30",
+      "31",
+      "32",
+      "34"
+    ],
+    "correct": 2,
+    "explanation": "1,2..20 = 20. இணைந்தவை = 4 + 2 + 2 + 1 + 1 + 1 + 1 = 12. மொத்தம் = 32.",
+    "question_en": "How many triangles are there in this diagram?",
+    "options_en": [
+      "30",
+      "31",
+      "32",
+      "34"
+    ],
+    "explanation_en": "1,2..20 = 20. Combined = 4 + 2 + 2 + 1 + 1 + 1 + 1 = 12. Total = 32."
+  },
+  {
+    "id": 24,
+    "question": "எத்தனை செவ்வகங்கள் இந்த வரைபடத்தில் உள்ளன?",
+    "image": "image/unit7/q24.PNG",
+    "options": [
+      "10",
+      "11",
+      "19",
+      "18"
+    ],
+    "correct": 2,
+    "explanation": "1,2..7 = 7. இணைந்தவை = 6 + 3 + 2 + 1 = 12. மொத்தம் = 19.",
+    "question_en": "How many rectangles are there in this diagram?",
+    "options_en": [
+      "10",
+      "11",
+      "19",
+      "18"
+    ],
+    "explanation_en": "1,2..7 = 7. Combined = 6 + 3 + 2 + 1 = 12. Total = 19."
+  },
+  {
+    "id": 25,
+    "question": "எத்தனை சதுரங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q25.PNG",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 1,
+    "explanation": "1,2..7 = 7. 4 பகுதிகள் சேர்ந்தவை = 3. முழு சதுரம் = 1. மொத்தம் = 11.",
+    "question_en": "How many squares are there in the picture?",
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "explanation_en": "1,2..7 = 7. 4 parts together = 3. Whole square = 1. Total = 11."
+  },
+  {
+    "id": 26,
+    "question": "எத்தனை சதுரங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q26.PNG",
+    "options": [
+      "30",
+      "14",
+      "33",
+      "34"
+    ],
+    "correct": 3,
+    "explanation": "வெளி சதுரத்தில் = 14. உள் சதுரங்களில் = 4 × 5 = 20. மொத்தம் = 14 + 20 = 34.",
+    "question_en": "How many squares are there in the picture?",
+    "options_en": [
+      "30",
+      "14",
+      "33",
+      "34"
+    ],
+    "explanation_en": "Outer square = 14. Inner square = 4 × 5 = 20. Total = 14 + 20 = 34."
+  },
+  {
+    "id": 27,
+    "question": "எத்தனை சதுரங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q27.PNG",
+    "options": [
+      "16",
+      "20",
+      "11",
+      "9"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு அடுக்கிலும் 5 சதுரங்கள். 4 அடுக்குகள் × 5 = 20.",
+    "question_en": "How many squares are there in the picture?",
+    "options_en": [
+      "16",
+      "20",
+      "11",
+      "9"
+    ],
+    "explanation_en": "5 squares in each layer. 4 layers × 5 = 20."
+  },
+  {
+    "id": 28,
+    "question": "எத்தனை சதுரங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q28.PNG",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 3,
+    "explanation": "1,2,3,4,5 = 5. இணைந்த சதுரங்கள் = 4 + 1 + 1 = 6. மொத்தம் = 11.",
+    "question_en": "How many squares are there in the picture?",
+    "options_en": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation_en": "1,2,3,4,5 = 5. Combined squares = 4 + 1 + 1 = 6. Total = 11."
+  },
+  {
+    "id": 29,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q29.PNG",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "34"
+    ],
+    "correct": 2,
+    "explanation": "தனித்தவை = 12. 12 × 2 = 24. இணைப்பு = 4. 24+4=28. மொத்த முக்கோணங்கள் = 6 + 28 + 6 = 40.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "36",
+      "38",
+      "40",
+      "34"
+    ],
+    "explanation_en": "Discrete = 12. 12 × 2 = 24. Additive = 4. 24+4=28. Total triangles = 6 + 28 + 6 = 40."
+  },
+  {
+    "id": 30,
+    "question": "எத்தனை சதுரங்கள் மற்றும் முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q30.PNG",
+    "options": [
+      "20, 65",
+      "21, 72",
+      "22, 70",
+      "24, 86"
+    ],
+    "correct": 3,
+    "explanation": "முக்கோணங்கள் = 86. சதுரங்கள் = 24.",
+    "question_en": "How many squares and triangles are there in the picture?",
+    "options_en": [
+      "20, 65",
+      "21, 72",
+      "22, 70",
+      "24, 86"
+    ],
+    "explanation_en": "Triangles = 86. Squares = 24."
+  },
+  {
+    "id": 31,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q31.PNG",
+    "options": [
+      "15",
+      "13",
+      "17",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "1+2 = 3 முக்கோணங்கள். தனித்தவை = 6. (6×2)=12. 12+3+2 = 17.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "15",
+      "13",
+      "17",
+      "12"
+    ],
+    "explanation_en": "1+2 = 3 triangles. Unique = 6. (6×2)=12. 12+3+2 = 17."
+  },
+  {
+    "id": 32,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q32.PNG",
+    "options": [
+      "28",
+      "20",
+      "24",
+      "23"
+    ],
+    "correct": 0,
+    "explanation": "1,2..7 = 7. இணைந்தவை = 6+4+3+3+2+2+1 = 21. மொத்தம் = 28.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "28",
+      "20",
+      "24",
+      "23"
+    ],
+    "explanation_en": "1,2..7 = 7. Combined = 6+4+3+3+2+2+1 = 21. Total = 28."
+  },
+  {
+    "id": 33,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q33.PNG",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "1,2..8 = 8. (1+2), (3+4), (5+6), (7+8) = 4. மொத்தம் = 12.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "8"
+    ],
+    "explanation_en": "1,2..8 = 8. (1+2), (3+4), (5+6), (7+8) = 4. Total = 12."
+  },
+  {
+    "id": 34,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q34.PNG",
+    "options": [
+      "21",
+      "22",
+      "24",
+      "20"
+    ],
+    "correct": 1,
+    "explanation": "மேல் பகுதி முக்கோணங்கள் = 10. கீழ் பகுதி முக்கோணங்கள் = 12. மொத்தம் = 22.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "21",
+      "22",
+      "24",
+      "20"
+    ],
+    "explanation_en": "Upper Area Triangles = 10. Lower Area Triangles = 12. Total = 22."
+  },
+  {
+    "id": 35,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q35.PNG",
+    "options": [
+      "32",
+      "30",
+      "36",
+      "35"
+    ],
+    "correct": 3,
+    "explanation": "1,2..12 = 12. 2 பகுதிகள் சேர்ந்தவை = 5. 3 பகுதிகள் = 5. மற்றவை = 6+2+2+2+1 = 13. மொத்தம் = 35.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "32",
+      "30",
+      "36",
+      "35"
+    ],
+    "explanation_en": "1,2..12 = 12. 2 parts added = 5. 3 parts = 5. Others = 6+2+2+2+1 = 13. Total = 35."
+  },
+  {
+    "id": 36,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q36.PNG",
+    "options": [
+      "22",
+      "23",
+      "26",
+      "25"
+    ],
+    "correct": 2,
+    "explanation": "1,2..9 = 9. இணைந்தவை = 5+5+4+2+1 = 17. மொத்தம் = 26.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "22",
+      "23",
+      "26",
+      "25"
+    ],
+    "explanation_en": "1,2..9 = 9. Combined = 5+5+4+2+1 = 17. Total = 26."
+  },
+  {
+    "id": 37,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q37.PNG",
+    "options": [
+      "7",
+      "11",
+      "8",
+      "13"
+    ],
+    "correct": 1,
+    "explanation": "1,2..7 = 7. (1+2), (4+5), (6+7) = 3. பெரிய முக்கோணம் = 1. மொத்தம் = 11.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "7",
+      "11",
+      "8",
+      "13"
+    ],
+    "explanation_en": "1,2..7 = 7. (1+2), (4+5), (6+7) = 3. Large triangle = 1. Total = 11."
+  },
+  {
+    "id": 38,
+    "question": "எத்தனை முக்கோணங்கள், சதுரங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q38.PNG",
+    "options": [
+      "10 முக்கோணங்கள், 8 சதுரங்கள்",
+      "12 முக்கோணங்கள், 7 சதுரங்கள்",
+      "8 முக்கோணங்கள், 8 சதுரங்கள்",
+      "10 முக்கோணங்கள், 6 சதுரங்கள்"
+    ],
+    "correct": 0,
+    "explanation": "முக்கோணங்கள் = 6 + 4 = 10. சதுரங்கள் = 2 + 2 + 1 + 2 + 1 = 8.",
+    "question_en": "How many triangles and squares are there in the picture?",
+    "options_en": [
+      "10 triangles, 8 squares",
+      "12 triangles, 7 squares",
+      "8 triangles, 8 squares",
+      "10 triangles, 6 squares"
+    ],
+    "explanation_en": "Triangles = 6 + 4 = 10. Squares = 2 + 2 + 1 + 2 + 1 = 8."
+  },
+  {
+    "id": 39,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q39.PNG",
+    "options": [
+      "16",
+      "14",
+      "17",
+      "21"
+    ],
+    "correct": 3,
+    "explanation": "1,2..6 = 6. 2 பகுதிகள் சேர்ந்தவை = 6. 3 பகுதிகள் = 4. மற்றவை = 2+2+1 = 5. மொத்தம் = 21.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "16",
+      "14",
+      "17",
+      "21"
+    ],
+    "explanation_en": "1,2..6 = 6. 2 parts added = 6. 3 parts = 4. Others = 2+2+1 = 5. Total = 21."
+  },
+  {
+    "id": 40,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q40.PNG",
+    "options": [
+      "19",
+      "21",
+      "16",
+      "22"
+    ],
+    "correct": 1,
+    "explanation": "மேல் முக்கோணங்கள் = 3. கீழ் சதுரப்பகுதி முக்கோணங்கள் = 16. இணைந்தவை = 2. மொத்தம் = 21.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "19",
+      "21",
+      "16",
+      "22"
+    ],
+    "explanation_en": "Upper triangles = 3. Lower square triangles = 16. Contiguous = 2. Total = 21."
+  },
+  {
+    "id": 41,
+    "question": "எத்தனை சரிவகங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q41.PNG",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "1,2,3,4 = 4. (1+2), (3+4) = 2. (1+2+3+4) = 1. மொத்தம் = 7.",
+    "question_en": "How many characters are there in this film?",
+    "options_en": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "explanation_en": "1,2,3,4 = 4. (1+2), (3+4) = 2. (1+2+3+4) = 1. Total = 7."
+  },
+  {
+    "id": 42,
+    "question": "எத்தனை இணைகரங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q42.PNG",
+    "options": [
+      "11",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 3,
+    "explanation": "தனித்தவை = 4. இணைந்தவை = 4. 4 பகுதிகள் = 1. முழு உருவம் = 1. மொத்தம் = 10.",
+    "question_en": "How many links are there in the film?",
+    "options_en": [
+      "11",
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation_en": "Discrete = 4. Combined = 4. 4 parts = 1. Whole figure = 1. Total = 10."
+  },
+  {
+    "id": 43,
+    "question": "எத்தனை அரைவட்டங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q43.PNG",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 3,
+    "explanation": "தனித்தவை = 6. இணைந்தவை = 4. பெரியவை = 4. மொத்தம் = 14.",
+    "question_en": "How many semicircles are there in the figure?",
+    "options_en": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "explanation_en": "Distinct = 6. Combined = 4. Major = 4. Total = 14."
+  },
+  {
+    "id": 44,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q44.PNG",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "1,2..6 = 6. உள் முக்கோணங்கள் = 2. பெரிய முக்கோணங்கள் = 2. மொத்தம் = 10.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "8"
+    ],
+    "explanation_en": "1,2..6 = 6. Inner triangles = 2. Larger triangles = 2. Total = 10."
+  },
+  {
+    "id": 45,
+    "question": "எத்தனை முக்கோணங்கள், சதுரங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q45.PNG",
+    "options": [
+      "12, 3",
+      "14, 4",
+      "14, 3",
+      "12, 4"
+    ],
+    "correct": 2,
+    "explanation": "முக்கோணங்கள் = 8 + 4 + 2 = 14. சதுரங்கள் = 3.",
+    "question_en": "How many triangles and squares are there in the picture?",
+    "options_en": [
+      "12, 3",
+      "14, 4",
+      "14, 3",
+      "12, 4"
+    ],
+    "explanation_en": "Triangles = 8 + 4 + 2 = 14. Squares = 3."
+  },
+  {
+    "id": 46,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q46.PNG",
+    "options": [
+      "10",
+      "17",
+      "12",
+      "15"
+    ],
+    "correct": 3,
+    "explanation": "1,2..8 = 8. (1+2), (1+a), (2+b), (7+8) = 4. (1+a+7), (2+b+8) = 2. பெரியது = 1. மொத்தம் = 15.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "10",
+      "17",
+      "12",
+      "15"
+    ],
+    "explanation_en": "1,2..8 = 8. (1+2), (1+a), (2+b), (7+8) = 4. (1+a+7), (2+b+8) = 2. Largest = 1. Total = 15."
+  },
+  {
+    "id": 47,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q47.PNG",
+    "options": [
+      "10",
+      "12",
+      "16",
+      "15"
+    ],
+    "correct": 2,
+    "explanation": "1,2..8 = 8. 2 பகுதிகள் சேர்ந்தவை = 4. 4 பகுதிகள் சேர்ந்தவை = 4. மொத்தம் = 16.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "10",
+      "12",
+      "16",
+      "15"
+    ],
+    "explanation_en": "1,2..8 = 8. Addition of 2 parts = 4. Addition of 4 parts = 4. Total = 16."
+  },
+  {
+    "id": 48,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q48.PNG",
+    "options": [
+      "11",
+      "12",
+      "15",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "1,2..6 = 6. 2 பகுதிகள் சேர்ந்தவை = 5. 4 பகுதிகள் = 2. மற்றவை = 2. மொத்தம் = 15.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "11",
+      "12",
+      "15",
+      "16"
+    ],
+    "explanation_en": "1,2..6 = 6. 2 parts together = 5. 4 parts = 2. Others = 2. Total = 15."
+  },
+  {
+    "id": 49,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q49.PNG",
+    "options": [
+      "32",
+      "37",
+      "34",
+      "30"
+    ],
+    "correct": 1,
+    "explanation": "தனித்த முக்கோணங்கள் = 12. (12 × 2) = 24. இணைப்புப்புள்ளிகள் முக்கோணங்கள் = 8. மறைந்தவை = 2. நடுவில் = 3. மொத்தம் = 37.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "32",
+      "37",
+      "34",
+      "30"
+    ],
+    "explanation_en": "Distinct triangles = 12. (12 × 2) = 24. Connecting points of triangles = 8. Hidden = 2. Middle = 3. Total = 37."
+  },
+  {
+    "id": 50,
+    "question": "எத்தனை முக்கோணங்கள் இப்படத்தில் உள்ளன?",
+    "image": "image/unit7/q50.PNG",
+    "options": [
+      "20",
+      "22",
+      "21",
+      "18"
+    ],
+    "correct": 1,
+    "explanation": "1,2..14 = 14. 4 பகுதிகள் சேர்ந்தவை = 3. 4 பகுதிகள் (வேறு) = 3. மற்றவை = 1 + 1. மொத்தம் = 22.",
+    "question_en": "How many triangles are there in the picture?",
+    "options_en": [
+      "20",
+      "22",
+      "21",
+      "18"
+    ],
+    "explanation_en": "1,2..14 = 14. 4 parts added = 3. 4 parts (other) = 3. Other = 1 + 1. Total = 22."
+  }
+]

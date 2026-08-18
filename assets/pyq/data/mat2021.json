@@ -1,0 +1,1843 @@
+[
+  {
+    "id": 1,
+    "question": "வழிமுறை (வினா எண் 1 முதல் 7 வரை) : பின்வரும் தொடர் வரிசையில் அடுத்து வரும் உறுப்பைக் கண்டறியவும்.\n\n1, 4, 27, 16, 125, 36, ?",
+    "options": [
+      "216",
+      "49",
+      "343",
+      "512"
+    ],
+    "correct": 2,
+    "explanation": "தொடர் அமைப்பு: $1^3, 2^2, 3^3, 4^2, 5^3, 6^2, 7^3$.\nஅடுத்து வருவது $7^3 = 343$.",
+    "question_en": "Direction (Q. No. 1 to 7) : Find the next term for the following series.\n\n1, 4, 27, 16, 125, 36, ?",
+    "options_en": [
+      "216",
+      "49",
+      "343",
+      "512"
+    ],
+    "explanation_en": "Series pattern: $1^3, 2^2, 3^3, 4^2, 5^3, 6^2, 7^3$.\nNext is $7^3 = 343$."
+  },
+  {
+    "id": 2,
+    "question": "வழிமுறை (வினா எண் 1 முதல் 7 வரை) : பின்வரும் தொடர் வரிசையில் அடுத்து வரும் உறுப்பைக் கண்டறியவும்.\n\n0.5, 0.55, 0.65, 0.8, ?",
+    "options": [
+      "0.82",
+      "0.9",
+      "0.95",
+      "1"
+    ],
+    "correct": 3,
+    "explanation": "வித்தியாசம்: +0.05, +0.10, +0.15, +0.20 எனக் கூடுகிறது.\nஎனவே 0.8 + 0.20 = 1.0.",
+    "question_en": "Direction (Q. No. 1 to 7) : Find the next term for the following series.\n\n0.5, 0.55, 0.65, 0.8, ?",
+    "options_en": [
+      "0.82",
+      "0.9",
+      "0.95",
+      "1"
+    ],
+    "explanation_en": "Difference increases by: +0.05, +0.10, +0.15, +0.20.\nSo 0.8 + 0.20 = 1.0."
+  },
+  {
+    "id": 3,
+    "question": "வழிமுறை (வினா எண் 1 முதல் 7 வரை) : பின்வரும் தொடர் வரிசையில் அடுத்து வரும் உறுப்பைக் கண்டறியவும்.\n\n30, 45, 75, 105, 165, ?",
+    "options": [
+      "225",
+      "185",
+      "180",
+      "195"
+    ],
+    "correct": 3,
+    "explanation": "பகா எண்களை 15 ஆல் பெருக்க கிடைக்கும் தொடர் (2×15, 3×15, 5×15, 7×15, 11×15).\nஅடுத்து 13 × 15 = 195.",
+    "question_en": "Direction (Q. No. 1 to 7) : Find the next term for the following series.\n\n30, 45, 75, 105, 165, ?",
+    "options_en": [
+      "225",
+      "185",
+      "180",
+      "195"
+    ],
+    "explanation_en": "Series obtained by multiplying prime numbers by 15 (2×15, 3×15, 5×15, 7×15, 11×15).\nNext is 13 × 15 = 195."
+  },
+  {
+    "id": 4,
+    "question": "வழிமுறை (வினா எண் 1 முதல் 7 வரை) : பின்வரும் தொடர் வரிசையில் அடுத்து வரும் உறுப்பைக் கண்டறியவும்.\n\nA, B, B, D, C, F, D, H, E, ?",
+    "options": [
+      "F, G",
+      "J, K",
+      "J, F",
+      "F, I"
+    ],
+    "correct": 2,
+    "explanation": "இரட்டைத் தொடர்.\n1வது தொடர்: A, B, C, D, E... (அடுத்து F)\n2வது தொடர்: B, D, F, H... (+2 எழுத்துக்கள், அடுத்து J)\nவரிசைப்படி E-க்கு அடுத்து J, பின்னர் F வரும். எனவே விடை J, F.",
+    "question_en": "Direction (Q. No. 1 to 7) : Find the next term for the following series.\n\nA, B, B, D, C, F, D, H, E, ?",
+    "options_en": [
+      "F, G",
+      "J, K",
+      "J, F",
+      "F, I"
+    ],
+    "explanation_en": "Double series.\n1st series: A, B, C, D, E... (next is F)\n2nd series: B, D, F, H... (+2 letters, next is J)\nIn sequence after E comes J, then F. Answer is J, F."
+  },
+  {
+    "id": 5,
+    "question": "வழிமுறை (வினா எண் 1 முதல் 7 வரை) : பின்வரும் தொடர் வரிசையில் அடுத்து வரும் உறுப்பைக் கண்டறியவும்.\n\nBDF, CFI, DHL, ?",
+    "options": [
+      "CJM",
+      "EIM",
+      "EJO",
+      "EMI"
+    ],
+    "correct": 2,
+    "explanation": "முதல் எழுத்து: B(+1) C(+1) D(+1) E.\nஇரண்டாம் எழுத்து: D(+2) F(+2) H(+2) J.\nமூன்றாம் எழுத்து: F(+3) I(+3) L(+3) O.\nஎனவே விடை EJO.",
+    "question_en": "Direction (Q. No. 1 to 7) : Find the next term for the following series.\n\nBDF, CFI, DHL, ?",
+    "options_en": [
+      "CJM",
+      "EIM",
+      "EJO",
+      "EMI"
+    ],
+    "explanation_en": "1st letter: B(+1) C(+1) D(+1) E.\n2nd letter: D(+2) F(+2) H(+2) J.\n3rd letter: F(+3) I(+3) L(+3) O.\nSo the answer is EJO."
+  },
+  {
+    "id": 6,
+    "question": "வழிமுறை (வினா எண் 1 முதல் 7 வரை) : பின்வரும் தொடர் வரிசையில் அடுத்து வரும் உறுப்பைக் கண்டறியவும்.\n\nZ2A, X3D, V5H, T7M, R11S, ?",
+    "options": [
+      "P13Z",
+      "P15Z",
+      "P9Y",
+      "P13Y"
+    ],
+    "correct": 0,
+    "explanation": "முதல் எழுத்து: -2 எனக் குறைகிறது (R-2 = P).\nஎண்கள்: பகா எண்கள் (2, 3, 5, 7, 11, அடுத்து 13).\nமூன்றாம் எழுத்து: +3, +4, +5, +6, +7 எனக் கூடுகிறது (S+7 = Z).\nஎனவே விடை P13Z.",
+    "question_en": "Direction (Q. No. 1 to 7) : Find the next term for the following series.\n\nZ2A, X3D, V5H, T7M, R11S, ?",
+    "options_en": [
+      "P13Z",
+      "P15Z",
+      "P9Y",
+      "P13Y"
+    ],
+    "explanation_en": "1st letter decreases by 2 (R-2 = P).\nNumbers are prime numbers (2, 3, 5, 7, 11, next is 13).\n3rd letter increases by +3, +4, +5, +6, +7 (S+7 = Z).\nTherefore, P13Z."
+  },
+  {
+    "id": 7,
+    "question": "வழிமுறை (வினா எண் 1 முதல் 7 வரை) : பின்வரும் தொடர் வரிசையில் அடுத்து வரும் உறுப்பைக் கண்டறியவும்.\n\n1, 2, 6, 15, 31, 56, ?",
+    "options": [
+      "92",
+      "100",
+      "81",
+      "112"
+    ],
+    "correct": 0,
+    "explanation": "வித்தியாசங்கள் வர்க்க எண்களாக உள்ளன (1, 4, 9, 16, 25).\nஅடுத்த வித்தியாசம் $6^2 = 36$.\nஎனவே 56 + 36 = 92.",
+    "question_en": "Direction (Q. No. 1 to 7) : Find the next term for the following series.\n\n1, 2, 6, 15, 31, 56, ?",
+    "options_en": [
+      "92",
+      "100",
+      "81",
+      "112"
+    ],
+    "explanation_en": "Differences are consecutive squares (1, 4, 9, 16, 25).\nNext difference is $6^2 = 36$.\nSo 56 + 36 = 92."
+  },
+  {
+    "id": 8,
+    "question": "வழிமுறை (வினா எண் 8 முதல் 10 வரை) : பின்வரும் தொடர் வரிசையில் ஓர் எண் தவறாக உள்ளது. தவறான எண்ணைக் கண்டயறியவும்.\n\nதவறான எண்ணைக் கண்டறியவும்: 720, 120, 24, 8, 2, 1.",
+    "options": [
+      "120",
+      "2",
+      "24",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "ஒவ்வொரு எண்ணும் முறையே ÷6, ÷5, ÷4, ÷3, ÷2 என வகுக்கப்படுகிறது.\n24 ÷ 4 = 6 வர வேண்டும் (ஆனால் 8 உள்ளது). எனவே 8 தவறான எண்.",
+    "question_en": "Direction (Q. No. 8 to 10) : One term in the number series is wrong. Find out the wrong term in the following sequence.\n\nFind the wrong number: 720, 120, 24, 8, 2, 1.",
+    "options_en": [
+      "120",
+      "2",
+      "24",
+      "8"
+    ],
+    "explanation_en": "Each number is divided respectively by 6, 5, 4, 3, 2.\n24 ÷ 4 should be 6 (but here it's 8). So 8 is the wrong number."
+  },
+  {
+    "id": 9,
+    "question": "வழிமுறை (வினா எண் 8 முதல் 10 வரை) : பின்வரும் தொடர் வரிசையில் ஓர் எண் தவறாக உள்ளது. தவறான எண்ணைக் கண்டயறியவும்.\n\nதவறான எண்ணைக் கண்டறியவும்: 6, 10, 20, 25, 48, 52, 104.",
+    "options": [
+      "20",
+      "25",
+      "52",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "தொடர் அமைப்பு: +4, ×2, +4, ×2...\n20 + 4 = 24 வர வேண்டும் (ஆனால் 25 உள்ளது). எனவே 25 தவறான எண்.",
+    "question_en": "Direction (Q. No. 8 to 10) : One term in the number series is wrong. Find out the wrong term in the following sequence.\n\nFind the wrong number: 6, 10, 20, 25, 48, 52, 104.",
+    "options_en": [
+      "20",
+      "25",
+      "52",
+      "10"
+    ],
+    "explanation_en": "Series pattern: +4, ×2, +4, ×2...\n20 + 4 should be 24 (but here it's 25). So 25 is the wrong number."
+  },
+  {
+    "id": 10,
+    "question": "வழிமுறை (வினா எண் 8 முதல் 10 வரை) : பின்வரும் தொடர் வரிசையில் ஓர் எண் தவறாக உள்ளது. தவறான எண்ணைக் கண்டயறியவும்.\n\nதவறான எண்ணைக் கண்டறியவும்: 520, 328, 232, 178, 160, 148, 142.",
+    "options": [
+      "328",
+      "178",
+      "148",
+      "142"
+    ],
+    "correct": 1,
+    "explanation": "வித்தியாசம்: -192, -96, -48, -24, -12, -6 என பாதியாகக் குறைகிறது.\n232 - 48 = 184 வர வேண்டும். எனவே 178 தவறானது.",
+    "question_en": "Direction (Q. No. 8 to 10) : One term in the number series is wrong. Find out the wrong term in the following sequence.\n\nFind the wrong number: 520, 328, 232, 178, 160, 148, 142.",
+    "options_en": [
+      "328",
+      "178",
+      "148",
+      "142"
+    ],
+    "explanation_en": "Differences decrease by half: -192, -96, -48, -24, -12, -6.\n232 - 48 should be 184. Hence 178 is wrong."
+  },
+  {
+    "id": 11,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q11.PNG",
+    "options": [
+      "90",
+      "91",
+      "35",
+      "75"
+    ],
+    "correct": 2,
+    "explanation": "கீழே உள்ள எண்களின் கனங்களின் கூடுதல் (Sum of cubes) விடையாகும்.\n$3^3 + 4^3 = 27 + 64 = 91$.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "90",
+      "91",
+      "35",
+      "75"
+    ],
+    "explanation_en": "The sum of the cubes of the bottom numbers is the answer.\n$3^3 + 4^3 = 27 + 64 = 91$."
+  },
+  {
+    "id": 12,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q12.PNG",
+    "options": [
+      "100",
+      "68",
+      "62",
+      "70"
+    ],
+    "correct": 0,
+    "explanation": "சுற்றியுள்ள எண்களின் வர்க்கங்களின் கூடுதல் மைய எண்ணாகும்.\n$2^2 + 5^2 + 1^2 + ?^2$ போன்ற தர்க்கத்தைப் பயன்படுத்தவும்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "100",
+      "68",
+      "62",
+      "70"
+    ],
+    "explanation_en": "The sum of squares of surrounding numbers gives the center number."
+  },
+  {
+    "id": 13,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q13.PNG",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "23"
+    ],
+    "correct": 2,
+    "explanation": "எண்களுக்கு இடையேயான கணிதத் தொடர்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "18",
+      "20",
+      "22",
+      "23"
+    ],
+    "explanation_en": "Find the mathematical relation between the numbers."
+  },
+  {
+    "id": 14,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q14.PNG",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "explanation": "எண்களின் வர்க்கம் அல்லது பெருக்கற்பலன் தர்க்கம்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "explanation_en": "Logic involving squares or products of numbers."
+  },
+  {
+    "id": 15,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q15.PNG",
+    "options": [
+      "160",
+      "140",
+      "210",
+      "100"
+    ],
+    "correct": 3,
+    "explanation": "எண்களுக்கு இடையேயான தர்க்கத்தைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "160",
+      "140",
+      "210",
+      "100"
+    ],
+    "explanation_en": "Find the logical pattern between the numbers."
+  },
+  {
+    "id": 16,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nதொடரை நிரப்புக: $BD_{1}, CE_{2}, DF_{2}, EG_{2}, FH_{3}, GI_{6}, HJ_{4}, IK_{5}, ?$",
+    "options": [
+      "$JL_{20}$",
+      "$JL_{9}$",
+      "$IL_{18}$",
+      "$IM_{20}$"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரு எழுத்துக்களின் இடமதிப்புகளைப் பெருக்கும் தர்க்கம். J மற்றும் L வரும், எண் 20.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nComplete the series: $BD_{1}, CE_{2}, DF_{2}, EG_{2}, FH_{3}, GI_{6}, HJ_{4}, IK_{5}, ?$",
+    "options_en": [
+      "$JL_{20}$",
+      "$JL_{9}$",
+      "$IL_{18}$",
+      "$IM_{20}$"
+    ],
+    "explanation_en": "Logic involves multiplying place values of the first two letters. It yields J and L, and the number 20."
+  },
+  {
+    "id": 17,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q17.PNG",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "எண்களுக்கு இடையேயான கணிதத் தொடர்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "8",
+      "4",
+      "6",
+      "5"
+    ],
+    "explanation_en": "Find the mathematical relation between the numbers."
+  },
+  {
+    "id": 18,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எழுத்தைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q18.PNG",
+    "options": [
+      "M",
+      "P",
+      "Q",
+      "S"
+    ],
+    "correct": 1,
+    "explanation": "ஆங்கில எழுத்துக்களின் இடமதிப்பு எண்களைக் கூட்டிக் கழிக்கும் தர்க்கம்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing letter in the figure:",
+    "options_en": [
+      "M",
+      "P",
+      "Q",
+      "S"
+    ],
+    "explanation_en": "Logic involves adding and subtracting the place values of English letters."
+  },
+  {
+    "id": 19,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q19.PNG",
+    "options": [
+      "240",
+      "150",
+      "160",
+      "80"
+    ],
+    "correct": 2,
+    "explanation": "படத்தில் உள்ள தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "240",
+      "150",
+      "160",
+      "80"
+    ],
+    "explanation_en": "Identify the logical pattern in the figure."
+  },
+  {
+    "id": 20,
+    "question": "வழிமுறை (வினா எண் 11 முதல் 20 வரை) : பின்வரும் தொடர்வரிசையில் விடுபட்ட எண்/எழுத்துகளைக் கண்டறியவும்.\n\nபடத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q20.PNG",
+    "options": [
+      "16",
+      "24",
+      "8",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "படத்தில் உள்ள தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 11 to 20) : Find the missing number/letters in the following sequence.\n\nFind the missing number in the figure:",
+    "options_en": [
+      "16",
+      "24",
+      "8",
+      "20"
+    ],
+    "explanation_en": "Identify the logical pattern in the figure."
+  },
+  {
+    "id": 21,
+    "question": "வழிமுறை (வினா எண் 21 மற்றும் 22) : கீழே கொடுக்கப்பட்டுள்ளவற்றில் வேறுபட்ட ஒன்றைக் கண்டறியவும்.\n\nவேறுபட்ட ஒன்றைக் கண்டறியவும்:",
+    "options": [
+      "ஆசியா",
+      "அண்டார்டிகா",
+      "ஆப்பிரிக்கா",
+      "அர்ஜெண்டினா"
+    ],
+    "correct": 3,
+    "explanation": "அர்ஜெண்டினா ஒரு நாடு. மற்ற மூன்றும் கண்டங்கள்.",
+    "question_en": "Direction (Q. No. 21 and 22) : Find the term which is not associated with others.\n\nFind the odd one out:",
+    "options_en": [
+      "Asia",
+      "Antarctica",
+      "Africa",
+      "Argentina"
+    ],
+    "explanation_en": "Argentina is a country. The other three are continents."
+  },
+  {
+    "id": 22,
+    "question": "வழிமுறை (வினா எண் 21 மற்றும் 22) : கீழே கொடுக்கப்பட்டுள்ளவற்றில் வேறுபட்ட ஒன்றைக் கண்டறியவும்.\n\nவேறுபட்ட ஒன்றைக் கண்டறியவும்:",
+    "options": [
+      "தோல் (Skin)",
+      "பெருங்குடல்",
+      "பித்தப்பை",
+      "உணவுக்குழாய்"
+    ],
+    "correct": 0,
+    "explanation": "தோல் (Skin) என்பது வெளிப்புற உறுப்பு. மற்றவை செரிமான மண்டலத்தைச் சேர்ந்த உள்ளுறுப்புகள்.",
+    "question_en": "Direction (Q. No. 21 and 22) : Find the term which is not associated with others.\n\nFind the odd one out:",
+    "options_en": [
+      "Skin",
+      "Large intestine",
+      "Gallbladder",
+      "Esophagus"
+    ],
+    "explanation_en": "Skin is an external organ. The rest are internal organs of the digestive system."
+  },
+  {
+    "id": 23,
+    "question": "வழிமுறை (வினா எண் 23 மற்றும் 24) : நிரப்புக.\n\n4 : 19 :: 7 : ?",
+    "options": [
+      "54",
+      "55",
+      "57",
+      "59"
+    ],
+    "correct": 1,
+    "explanation": "தர்க்கம்: $(n \times (n+1)) - 1$.\n$4 \times 5 - 1 = 19$.\n$7 \times 8 - 1 = 55$.",
+    "question_en": "Direction (Q. No. 23 and 24) : Fill up.\n\n4 : 19 :: 7 : ?",
+    "options_en": [
+      "54",
+      "55",
+      "57",
+      "59"
+    ],
+    "explanation_en": "Logic: $(n \times (n+1)) - 1$.\n$4 \times 5 - 1 = 19$.\n$7 \times 8 - 1 = 55$."
+  },
+  {
+    "id": 24,
+    "question": "வழிமுறை (வினா எண் 23 மற்றும் 24) : நிரப்புக.\n\nDarkness : Lamp :: Thirst : ?",
+    "options": [
+      "Fatigue: Exercise",
+      "Study: Classroom",
+      "Medicines: Illness",
+      "Water"
+    ],
+    "correct": 3,
+    "explanation": "இருளை (Darkness) அகற்றுவது விளக்கு (Lamp). அதுபோல தாகத்தை (Thirst) அகற்றுவது தண்ணீர் (Water).",
+    "question_en": "Direction (Q. No. 23 and 24) : Fill up.\n\nDarkness : Lamp :: Thirst : ?",
+    "options_en": [
+      "Fatigue: Exercise",
+      "Study: Classroom",
+      "Medicines: Illness",
+      "Water"
+    ],
+    "explanation_en": "Lamp removes darkness. Similarly, water removes thirst."
+  },
+  {
+    "id": 25,
+    "question": "அர்த்தமுள்ள தொடராக மாற்றுக: (A) Judge (B) Police (C) Punishment (D) Crime (E) Judgement",
+    "options": [
+      "D, B, C, A, E",
+      "D, B, A, C, E",
+      "D, B, A, E, C",
+      "D, B, C, E, A"
+    ],
+    "correct": 2,
+    "explanation": "குற்றம் (Crime) -> காவல் (Police) -> நீதிபதி (Judge) -> தீர்ப்பு (Judgement) -> தண்டனை (Punishment).",
+    "question_en": "Arrange in meaningful sequence: (A) Judge (B) Police (C) Punishment (D) Crime (E) Judgement",
+    "options_en": [
+      "D, B, C, A, E",
+      "D, B, A, C, E",
+      "D, B, A, E, C",
+      "D, B, C, E, A"
+    ],
+    "explanation_en": "Crime -> Police -> Judge -> Judgement -> Punishment."
+  },
+  {
+    "id": 26,
+    "question": "ஆங்கில அகர வரிசைப்படி வரிசைப்படுத்துக: (A) Foliage (B) Folk (C) Follow (D) Follicle",
+    "options": [
+      "A, B, C, D",
+      "D, C, A, B",
+      "A, B, D, C",
+      "A, C, D, B"
+    ],
+    "correct": 2,
+    "explanation": "Foliage -> Folk -> Follicle -> Follow.",
+    "question_en": "Arrange in dictionary order: (A) Foliage (B) Folk (C) Follow (D) Follicle",
+    "options_en": [
+      "A, B, C, D",
+      "D, C, A, B",
+      "A, B, D, C",
+      "A, C, D, B"
+    ],
+    "explanation_en": "Foliage -> Folk -> Follicle -> Follow."
+  },
+  {
+    "id": 27,
+    "question": "'Indispensable' என்ற வார்த்தையிலிருந்து அமையப் பெறாத வார்த்தை:",
+    "options": [
+      "Spend",
+      "Disabled",
+      "Perishable",
+      "Panel"
+    ],
+    "correct": 2,
+    "explanation": "'Perishable' என்ற வார்த்தையில் உள்ள 'R' மற்றும் 'H' ஆகிய எழுத்துக்கள் 'Indispensable'-ல் இல்லை.",
+    "question_en": "Which word cannot be formed using the letters of 'Indispensable':",
+    "options_en": [
+      "Spend",
+      "Disabled",
+      "Perishable",
+      "Panel"
+    ],
+    "explanation_en": "The letters 'R' and 'H' in 'Perishable' are not present in 'Indispensable'."
+  },
+  {
+    "id": 28,
+    "question": "'Responsibility' என்ற வார்த்தையிலிருந்து அமையப் பெறும் வார்த்தை:",
+    "options": [
+      "Respect",
+      "Spore",
+      "Sponge",
+      "Resistivity"
+    ],
+    "correct": 1,
+    "explanation": "'Spore' என்ற வார்த்தையில் உள்ள அனைத்து எழுத்துக்களும் 'Responsibility'-ல் உள்ளன.",
+    "question_en": "Which word can be formed using the letters of 'Responsibility':",
+    "options_en": [
+      "Respect",
+      "Spore",
+      "Sponge",
+      "Resistivity"
+    ],
+    "explanation_en": "All letters of 'Spore' are present in 'Responsibility'."
+  },
+  {
+    "id": 29,
+    "question": "வழிமுறை (வினா எண் 29 முதல் 33 வரை) குறியீடு மாற்றுதல் :\n\nP=÷, T=+, M=-, D=× எனில் 12M12D28P7T15 = ?",
+    "options": [
+      "-21",
+      "-15",
+      "15",
+      "39"
+    ],
+    "correct": 0,
+    "explanation": "$12 - 12 \\times 28 \\div 7 + 15$ \n$= 12 - 12 \\times 4 + 15$ \n$= 12 - 48 + 15 = -21$.",
+    "question_en": "Direction (Q. No. 29 to 33) : Change of signs.\n\nIf P=÷, T=+, M=-, D=×, then 12M12D28P7T15 = ?",
+    "options_en": [
+      "-21",
+      "-15",
+      "15",
+      "39"
+    ],
+    "explanation_en": "$12 - 12 \\times 28 \\div 7 + 15$ \n$= 12 - 12 \\times 4 + 15$ \n$= 12 - 48 + 15 = -21$."
+  },
+  {
+    "id": 30,
+    "question": "வழிமுறை (வினா எண் 29 முதல் 33 வரை) குறியீடு மாற்றுதல் :\n\nx என்பது -, ÷ என்பது +, + என்பது ÷, - என்பது x எனில் சரியானது எது?",
+    "options": [
+      "$15-5\\div5\\times20+10=6$",
+      "$8\\div10-3+5\\times6=8$",
+      "$6\\times2+3\\div12-3=15$",
+      "$3-7-5\\times10+3=10$"
+    ],
+    "correct": 1,
+    "explanation": "இரண்டாவது சமன்பாட்டை மாற்றினால்: $8 + 10 \\times 3 \\div 5 - 6 = 8 + 6 - 6 = 8$.",
+    "question_en": "Direction (Q. No. 29 to 33) : Change of signs.\n\nIf x is -, ÷ is +, + is ÷, - is x, which is correct?",
+    "options_en": [
+      "$15-5\\div5\\times20+10=6$",
+      "$8\\div10-3+5\\times6=8$",
+      "$6\\times2+3\\div12-3=15$",
+      "$3-7-5\\times10+3=10$"
+    ],
+    "explanation_en": "Changing the second equation: $8 + 10 \\times 3 \\div 5 - 6 = 8 + 6 - 6 = 8$."
+  },
+  {
+    "id": 31,
+    "question": "வழிமுறை (வினா எண் 29 முதல் 33 வரை) குறியீடு மாற்றுதல் :\n\nகுறி மாற்றங்களுக்குப் பின் $\\frac{(36\\times4)-8\\times4}{4+8\\times2+16\\div1}$ -ன் மதிப்பு:",
+    "options": [
+      "0",
+      "8",
+      "12",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "தொகுதியை மாற்றினால் $(36 - 4) \\div 8 - 4 = 32 \\div 8 - 4 = 4 - 4 = 0$.",
+    "question_en": "Direction (Q. No. 29 to 33) : Change of signs.\n\nAfter sign changes, the value of $\\frac{(36\\times4)-8\\times4}{4+8\\times2+16\\div1}$ is:",
+    "options_en": [
+      "0",
+      "8",
+      "12",
+      "1"
+    ],
+    "explanation_en": "Changing the numerator $(36 - 4) \\div 8 - 4 = 32 \\div 8 - 4 = 4 - 4 = 0$."
+  },
+  {
+    "id": 32,
+    "question": "வழிமுறை (வினா எண் 29 முதல் 33 வரை) குறியீடு மாற்றுதல் :\n\n< என்பது -, > என்பது +, = என்பது ×, # என்பது ÷ எனில் $27>81\\#9<6=5$ ?",
+    "options": [
+      "66",
+      "36",
+      "6",
+      "30"
+    ],
+    "correct": 2,
+    "explanation": "$27 + 81 \\div 9 - 6 \\times 5 = 27 + 9 - 30 = 6$.",
+    "question_en": "Direction (Q. No. 29 to 33) : Change of signs.\n\nIf < is -, > is +, = is ×, # is ÷, then $27>81\\#9<6=5$ ?",
+    "options_en": [
+      "66",
+      "36",
+      "6",
+      "30"
+    ],
+    "explanation_en": "$27 + 81 \\div 9 - 6 \\times 5 = 27 + 9 - 30 = 6$."
+  },
+  {
+    "id": 33,
+    "question": "வழிமுறை (வினா எண் 29 முதல் 33 வரை) குறியீடு மாற்றுதல் :\n\n$4*3=161279$, $5*6=25301136$ எனில் $3*6=$",
+    "options": [
+      "918936",
+      "361899",
+      "991836",
+      "931836"
+    ],
+    "correct": 0,
+    "explanation": "தர்க்கம்: $A^2$, $(A \\times B)$, $(A+B)$, $B^2$.\n$3^2=9, 3\\times6=18, 3+6=9, 6^2=36$. எனவே 918936.",
+    "question_en": "Direction (Q. No. 29 to 33) : Change of signs.\n\nIf $4*3=161279$, $5*6=25301136$, then $3*6=$",
+    "options_en": [
+      "918936",
+      "361899",
+      "991836",
+      "931836"
+    ],
+    "explanation_en": "Logic: $A^2$, $(A \\times B)$, $(A+B)$, $B^2$.\n$3^2=9, 3\\times6=18, 3+6=9, 6^2=36$. Hence 918936."
+  },
+  {
+    "id": 34,
+    "question": "இரட்டை எண்களை முன்னதாகவும், பின்னதாகவும் கொண்ட ஒற்றைப் படை எண்களின் எண்ணிக்கை: 73451963948735863852243496",
+    "options": [
+      "7",
+      "4",
+      "5",
+      "14"
+    ],
+    "correct": 1,
+    "explanation": "6-3-8, 8-5-2, 4-3-4, 4-9-6 என 4 ஒற்றை எண்கள் அவ்வாறு அமைந்துள்ளன.",
+    "question_en": "The number of odd numbers preceded and followed by even numbers in: 73451963948735863852243496",
+    "options_en": [
+      "7",
+      "4",
+      "5",
+      "14"
+    ],
+    "explanation_en": "There are 4 such odd numbers: 6-3-8, 8-5-2, 4-3-4, 4-9-6."
+  },
+  {
+    "id": 35,
+    "question": "வழிமுறை (வினா எண் 35 முதல் 39 வரை) : கீழே கொடுக்கப்பட்டுள்ள படங்கள் ஒவ்வொன்றும் மூன்று உறுப்புகளுக்கும் இடையே உள்ள தொடர்பைக் காட்டுகின்றன. ஒவ்வொரு வினாவிற்கும் தொடர்புடைய சரியான படத்தை கொடுக்கப்பட்டுள்ள A, B, C, D மற்றும் E படங்களிலிருந்து தேர்ந்தெடுக்கவும்:\n\nவென் படம்: பெண்கள், தாய்மார்கள், மருத்துவர்கள்",
+    "image": "image/mat_2021/q35_39.PNG",
+    "options": [
+      "படம் A",
+      "படம் B",
+      "படம் C",
+      "படம் D"
+    ],
+    "correct": 2,
+    "explanation": "தாய்மார்கள் அனைவரும் பெண்கள். சில பெண்களும் தாய்மார்களும் மருத்துவர்களாக இருக்கலாம் (படம் C).",
+    "question_en": "Direction (Q. No. 35 to 39) : The following diagrams show some relationship among three terms. Choose the correct diagram from A, B, C, D and E which corresponds to each group of terms.\n\nVenn diagram: Women, Mothers, Doctors",
+    "options_en": [
+      "Figure A",
+      "Figure B",
+      "Figure C",
+      "Figure D"
+    ],
+    "explanation_en": "All mothers are women. Some women and mothers can be doctors (Figure C)."
+  },
+  {
+    "id": 36,
+    "question": "வழிமுறை (வினா எண் 35 முதல் 39 வரை) : கீழே கொடுக்கப்பட்டுள்ள படங்கள் ஒவ்வொன்றும் மூன்று உறுப்புகளுக்கும் இடையே உள்ள தொடர்பைக் காட்டுகின்றன. ஒவ்வொரு வினாவிற்கும் தொடர்புடைய சரியான படத்தை கொடுக்கப்பட்டுள்ள A, B, C, D மற்றும் E படங்களிலிருந்து தேர்ந்தெடுக்கவும்:\n\nவென் படம்: சூரியன், நட்சத்திரம், நிலா",
+    "image": "image/mat_2021/q35_39.PNG",
+    "options": [
+      "படம் A",
+      "படம் C",
+      "படம் D",
+      "படம் E"
+    ],
+    "correct": 1,
+    "explanation": "சூரியன் என்பது ஒரு நட்சத்திரம். நிலா என்பது தனித்தது (படம் D).",
+    "question_en": "Direction (Q. No. 35 to 39) : The following diagrams show some relationship among three terms. Choose the correct diagram from A, B, C, D and E which corresponds to each group of terms.\n\nVenn diagram: Sun, Star, Moon",
+    "options_en": [
+      "Figure A",
+      "Figure C",
+      "Figure D",
+      "Figure E"
+    ],
+    "explanation_en": "The sun is a star. The moon is distinct (Figure D)."
+  },
+  {
+    "id": 37,
+    "question": "வழிமுறை (வினா எண் 35 முதல் 39 வரை) : கீழே கொடுக்கப்பட்டுள்ள படங்கள் ஒவ்வொன்றும் மூன்று உறுப்புகளுக்கும் இடையே உள்ள தொடர்பைக் காட்டுகின்றன. ஒவ்வொரு வினாவிற்கும் தொடர்புடைய சரியான படத்தை கொடுக்கப்பட்டுள்ள A, B, C, D மற்றும் E படங்களிலிருந்து தேர்ந்தெடுக்கவும்:\n\nவென் படம்: மரம், முட்டைகள், கூடு",
+    "image": "image/mat_2021/q35_39.PNG",
+    "options": [
+      "படம் A",
+      "படம் B",
+      "படம் C",
+      "படம் D"
+    ],
+    "correct": 3,
+    "explanation": "மரத்தில் கூடு இருக்கும், கூட்டினுள் முட்டை இருக்கும் (படம் A).",
+    "question_en": "Direction (Q. No. 35 to 39) : The following diagrams show some relationship among three terms. Choose the correct diagram from A, B, C, D and E which corresponds to each group of terms.\n\nVenn diagram: Tree, Eggs, Nest",
+    "options_en": [
+      "Figure A",
+      "Figure B",
+      "Figure C",
+      "Figure D"
+    ],
+    "explanation_en": "The nest is on the tree, and the eggs are inside the nest (Figure A)."
+  },
+  {
+    "id": 38,
+    "question": "வழிமுறை (வினா எண் 35 முதல் 39 வரை) : கீழே கொடுக்கப்பட்டுள்ள படங்கள் ஒவ்வொன்றும் மூன்று உறுப்புகளுக்கும் இடையே உள்ள தொடர்பைக் காட்டுகின்றன. ஒவ்வொரு வினாவிற்கும் தொடர்புடைய சரியான படத்தை கொடுக்கப்பட்டுள்ள A, B, C, D மற்றும் E படங்களிலிருந்து தேர்ந்தெடுக்கவும்:\n\nவென் படம்: வளிமண்டலம், ஆக்ஸிஜன், ஹைட்ரஜன்",
+    "image": "image/mat_2021/q35_39.PNG",
+    "options": [
+      "படம் A",
+      "படம் B",
+      "படம் C",
+      "படம் E"
+    ],
+    "correct": 1,
+    "explanation": "வளிமண்டலத்திற்குள் ஆக்ஸிஜன் மற்றும் ஹைட்ரஜன் வாயுக்கள் தனித்தனியாக உள்ளன (படம் B).",
+    "question_en": "Direction (Q. No. 35 to 39) : The following diagrams show some relationship among three terms. Choose the correct diagram from A, B, C, D and E which corresponds to each group of terms.\n\nVenn diagram: Atmosphere, Oxygen, Hydrogen",
+    "options_en": [
+      "Figure A",
+      "Figure B",
+      "Figure C",
+      "Figure E"
+    ],
+    "explanation_en": "Oxygen and Hydrogen are separate gases within the Atmosphere (Figure B)."
+  },
+  {
+    "id": 39,
+    "question": "வழிமுறை (வினா எண் 35 முதல் 39 வரை) : கீழே கொடுக்கப்பட்டுள்ள படங்கள் ஒவ்வொன்றும் மூன்று உறுப்புகளுக்கும் இடையே உள்ள தொடர்பைக் காட்டுகின்றன. ஒவ்வொரு வினாவிற்கும் தொடர்புடைய சரியான படத்தை கொடுக்கப்பட்டுள்ள A, B, C, D மற்றும் E படங்களிலிருந்து தேர்ந்தெடுக்கவும்:\n\nவென் படம்: நேர்மை, அறிவுத்திறம், நாட்டம்",
+    "image": "image/mat_2021/q35_39.PNG",
+    "options": [
+      "படம் A",
+      "படம் B",
+      "படம் C",
+      "படம் E"
+    ],
+    "correct": 2,
+    "explanation": "மூன்றும் ஒன்றுக்கொன்று தொடர்பில்லாத தனித்தனி பண்புகள் (படம் E).",
+    "question_en": "Direction (Q. No. 35 to 39) : The following diagrams show some relationship among three terms. Choose the correct diagram from A, B, C, D and E which corresponds to each group of terms.\n\nVenn diagram: Honesty, Intelligence, Aptitude",
+    "options_en": [
+      "Figure A",
+      "Figure B",
+      "Figure C",
+      "Figure E"
+    ],
+    "explanation_en": "All three are distinct, unrelated traits (Figure E)."
+  },
+  {
+    "id": 40,
+    "question": "A என்பவர் கிழக்கு திசையில் 10 மீ சென்று பின் வலது பக்கமாக 10 மீ சென்றார். பின் தொடர்ந்து, ஒவ்வொரு முறையும் இடப்பக்கமாக முறையே 5 மீ, 15 மீ மற்றும் 15 மீ சென்றார். ஆரம்பித்த இடத்திலிருந்து தற்போது எந்த திசையில் எவ்வளவு தொலைவில் உள்ளார்?",
+    "options": [
+      "10 மீ - மேற்கு",
+      "10 மீ - வடக்கு",
+      "5 மீ - மேற்கு",
+      "5 மீ - வடக்கு"
+    ],
+    "correct": 3,
+    "explanation": "வரைபடத் தீர்வுப்படி, அவர் புறப்பட்ட இடத்திலிருந்து 5 மீட்டர் வடக்கில் இருப்பார்.",
+    "question_en": "A goes 10m towards East, then turns right and goes 10m. Then he turns left consecutively for 5m, 15m, and 15m. In which direction and at what distance is he from his starting point?",
+    "options_en": [
+      "10m - West",
+      "10m - North",
+      "5m - West",
+      "5m - North"
+    ],
+    "explanation_en": "According to the map tracing, he is 5m North from the starting point."
+  },
+  {
+    "id": 41,
+    "question": "நான் மேற்கு திசையைப் பார்த்து நிற்கிறேன். தற்போது கடிகார திசையில் $45^{\\circ}$ திரும்பி நின்று மீண்டும் $180^{\\circ}$ கடிகார திசையில் திரும்பி, பிறகு $270^{\\circ}$ கடிகார எதிர்திசையில் திரும்பி நிற்கிறேன் எனில் தற்போது நான் எத்திசையை நோக்கி நிற்கிறேன் ?",
+    "options": [
+      "மேற்கு",
+      "வடமேற்கு",
+      "தெற்கு",
+      "தென்மேற்கு"
+    ],
+    "correct": 3,
+    "explanation": "மொத்த சுழற்சி = +45 + 180 - 270 = -45 (எதிர்திசை). மேற்கிலிருந்து $45^{\\circ}$ இடதுபுறம் திரும்பினால் தென்மேற்கு.",
+    "question_en": "I am facing West. I turn $45^{\\circ}$ clockwise, then another $180^{\\circ}$ clockwise, and then $270^{\\circ}$ anti-clockwise. Which direction am I facing now?",
+    "options_en": [
+      "West",
+      "North-West",
+      "South",
+      "South-West"
+    ],
+    "explanation_en": "Total turn = +45 + 180 - 270 = -45 (anti-clockwise). Turning $45^{\\circ}$ left from West gives South-West."
+  },
+  {
+    "id": 42,
+    "question": "வழிமுறை (வினா எண் 42 மற்றும் 43) : கீழே கொடுக்கப்பட்ட தகவல்களை கவனமாகப் படித்து வினா எண். 42, 43-ற்கு விடையளிக்கவும்.\nஒரு குடும்பத்தில் A, B, C, D மற்றும் E. என ஐந்து பேர் உள்ளனர்.\n(i) B என்பவர் C-ன் மகன் ஆனால் C என்பவர் B-ன் தாய் அல்ல.\n(ii) A மற்றும் C இருவரும் திருமணமான தம்பதிகள். D என்பவர் A-ன் மகள். E என்பவர் B-ன் சகோதரன்.\n\nகுடும்பத்தில் (A,B,C,D,E) B என்பவர் C-ன் மகன், ஆனால் C தாய் அல்ல. A மற்றும் C தம்பதிகள். D என்பவர் A-ன் மகள். E என்பவர் B-ன் சகோதரன். குடும்பத்தில் எத்தனை பெண்கள் உள்ளனர்?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "C தந்தை, A தாய். D மகள். B மற்றும் E மகன்கள். எனவே A மற்றும் D என 2 பெண்கள் உள்ளனர்.",
+    "question_en": "Direction (Q. No. 42 and 43) : Study the following information carefully and answer the questions 42 and 43.\nIn a family having five members A, B, C, D and E.\n(i) B is the son of C but C is not the mother of B.\n(ii) A and C are married couple. D is the daughter of A and E is the brother of B.\n\nIn a family (A,B,C,D,E), B is C's son, but C is not the mother. A and C are a couple. D is A's daughter. E is B's brother. How many females are in the family?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation_en": "C is the father, A is the mother. D is the daughter. B and E are sons. So there are 2 females, A and D."
+  },
+  {
+    "id": 43,
+    "question": "வழிமுறை (வினா எண் 42 மற்றும் 43) : கீழே கொடுக்கப்பட்ட தகவல்களை கவனமாகப் படித்து வினா எண். 42, 43-ற்கு விடையளிக்கவும்.\nஒரு குடும்பத்தில் A, B, C, D மற்றும் E. என ஐந்து பேர் உள்ளனர்.\n(i) B என்பவர் C-ன் மகன் ஆனால் C என்பவர் B-ன் தாய் அல்ல.\n(ii) A மற்றும் C இருவரும் திருமணமான தம்பதிகள். D என்பவர் A-ன் மகள். E என்பவர் B-ன் சகோதரன்.\n\nகுடும்பத்தில் (A,B,C,D,E) B என்பவர் C-ன் மகன், ஆனால் C தாய் அல்ல. A மற்றும் C தம்பதிகள். D என்பவர் A-ன் மகள். E என்பவர் B-ன் சகோதரன். B -ன் சகோதரி யார்?",
+    "options": [
+      "A",
+      "E",
+      "D",
+      "C"
+    ],
+    "correct": 2,
+    "explanation": "D என்பவர் A-ன் மகள், எனவே B-ன் சகோதரி ஆவாள்.",
+    "question_en": "Direction (Q. No. 42 and 43) : Study the following information carefully and answer the questions 42 and 43.\nIn a family having five members A, B, C, D and E.\n(i) B is the son of C but C is not the mother of B.\n(ii) A and C are married couple. D is the daughter of A and E is the brother of B.\n\nIn a family (A,B,C,D,E), B is C's son, but C is not the mother. A and C are a couple. D is A's daughter. E is B's brother. Who is the sister of B?",
+    "options_en": [
+      "A",
+      "E",
+      "D",
+      "C"
+    ],
+    "explanation_en": "D is A's daughter, hence the sister of B."
+  },
+  {
+    "id": 44,
+    "question": "வழிமுறை (வினா எண் 44 முதல் 48 வரை) : கீழே கொடுக்கப்பட்டுள்ள படத்தில் செவ்வகம் என்பது ஆங்கிலம் பேசும் மக்களையும், சதுரம் தமிழ் பேசும் மக்களையும், வட்டம் ஹிந்தி பேசும் மக்களையும், முக்கோணம் தெலுங்கு பேசும் மக்களையும் குறிக்கிறது எனில், வினா எண் 44 முதல் 48 வரை உள்ள வினாக்களுக்கு விடையளிக்கவும்.\n\nபடத்தில் ஆங்கிலம் மற்றும் ஹிந்தி ஆகிய இரு மொழிகளையும் பேசும் மக்கள்:",
+    "image": "image/mat_2021/q44_48.PNG",
+    "options": [
+      "A",
+      "B & C",
+      "C",
+      "A & B"
+    ],
+    "correct": 3,
+    "explanation": "செவ்வகம் (ஆங்கிலம்) மற்றும் வட்டம் (ஹிந்தி) வெட்டிக்கொள்ளும் பகுதி A & B.",
+    "question_en": "Direction (Q. No. 44 to 48) : From the given diagramatic representations answer questions 44 to 48. Rectangle indicates people who speak in English, Square indicates the people who speak in Tamil, Circle indicates people who speak in Hindi and Triangle indicates people who speak in Telugu.\n\nPeople who speak both English and Hindi:",
+    "options_en": [
+      "A",
+      "B & C",
+      "C",
+      "A & B"
+    ],
+    "explanation_en": "The intersection of the rectangle (English) and circle (Hindi) is A & B."
+  },
+  {
+    "id": 45,
+    "question": "வழிமுறை (வினா எண் 44 முதல் 48 வரை) : கீழே கொடுக்கப்பட்டுள்ள படத்தில் செவ்வகம் என்பது ஆங்கிலம் பேசும் மக்களையும், சதுரம் தமிழ் பேசும் மக்களையும், வட்டம் ஹிந்தி பேசும் மக்களையும், முக்கோணம் தெலுங்கு பேசும் மக்களையும் குறிக்கிறது எனில், வினா எண் 44 முதல் 48 வரை உள்ள வினாக்களுக்கு விடையளிக்கவும்.\n\nபடத்தில் 'C' குறிக்கும் மக்கள்:",
+    "image": "image/mat_2021/q44_48.PNG",
+    "options": [
+      "ஆங்கிலம் பேசுபவர்கள்",
+      "ஹிந்தி மட்டும் பேசுபவர்கள்",
+      "ஆங்கிலம் மற்றும் ஹிந்தி பேசுபவர்கள்",
+      "தமிழ் பேசுபவர்கள்"
+    ],
+    "correct": 1,
+    "explanation": "C என்பது சதுரத்திற்குள் (தமிழ்) வருவதால், அவர்கள் தமிழ் பேசுபவர்கள்.",
+    "question_en": "Direction (Q. No. 44 to 48) : From the given diagramatic representations answer questions 44 to 48. Rectangle indicates people who speak in English, Square indicates the people who speak in Tamil, Circle indicates people who speak in Hindi and Triangle indicates people who speak in Telugu.\n\nThe people represented by 'C':",
+    "options_en": [
+      "English speakers",
+      "Only Hindi speakers",
+      "English and Hindi speakers",
+      "Tamil speakers"
+    ],
+    "explanation_en": "Since C is inside the square (Tamil), they are Tamil speakers."
+  },
+  {
+    "id": 46,
+    "question": "வழிமுறை (வினா எண் 44 முதல் 48 வரை) : கீழே கொடுக்கப்பட்டுள்ள படத்தில் செவ்வகம் என்பது ஆங்கிலம் பேசும் மக்களையும், சதுரம் தமிழ் பேசும் மக்களையும், வட்டம் ஹிந்தி பேசும் மக்களையும், முக்கோணம் தெலுங்கு பேசும் மக்களையும் குறிக்கிறது எனில், வினா எண் 44 முதல் 48 வரை உள்ள வினாக்களுக்கு விடையளிக்கவும்.\n\nதமிழ் மற்றும் தெலுங்கு மொழியைப் பேசுபவர்கள்:",
+    "image": "image/mat_2021/q44_48.PNG",
+    "options": [
+      "I மற்றும் H",
+      "E",
+      "E மற்றும் I",
+      "H"
+    ],
+    "correct": 2,
+    "explanation": "சதுரம் மற்றும் முக்கோணம் வெட்டிக்கொள்ளும் பகுதி.",
+    "question_en": "Direction (Q. No. 44 to 48) : From the given diagramatic representations answer questions 44 to 48. Rectangle indicates people who speak in English, Square indicates the people who speak in Tamil, Circle indicates people who speak in Hindi and Triangle indicates people who speak in Telugu.\n\nPeople who speak Tamil and Telugu:",
+    "options_en": [
+      "I and H",
+      "E",
+      "E and I",
+      "H"
+    ],
+    "explanation_en": "The intersection of the square and the triangle."
+  },
+  {
+    "id": 47,
+    "question": "வழிமுறை (வினா எண் 44 முதல் 48 வரை) : கீழே கொடுக்கப்பட்டுள்ள படத்தில் செவ்வகம் என்பது ஆங்கிலம் பேசும் மக்களையும், சதுரம் தமிழ் பேசும் மக்களையும், வட்டம் ஹிந்தி பேசும் மக்களையும், முக்கோணம் தெலுங்கு பேசும் மக்களையும் குறிக்கிறது எனில், வினா எண் 44 முதல் 48 வரை உள்ள வினாக்களுக்கு விடையளிக்கவும்.\n\nதமிழ் மட்டும் பேசும் மக்கள் யார்?",
+    "image": "image/mat_2021/q44_48.PNG",
+    "options": [
+      "J",
+      "A",
+      "D",
+      "I"
+    ],
+    "correct": 2,
+    "explanation": "சதுரத்தில் வேறு எந்த உருவமும் வெட்டாத பகுதி D.",
+    "question_en": "Direction (Q. No. 44 to 48) : From the given diagramatic representations answer questions 44 to 48. Rectangle indicates people who speak in English, Square indicates the people who speak in Tamil, Circle indicates people who speak in Hindi and Triangle indicates people who speak in Telugu.\n\nWho are the people speaking only Tamil?",
+    "options_en": [
+      "J",
+      "A",
+      "D",
+      "I"
+    ],
+    "explanation_en": "Region D in the square which does not intersect with any other figure."
+  },
+  {
+    "id": 48,
+    "question": "வழிமுறை (வினா எண் 44 முதல் 48 வரை) : கீழே கொடுக்கப்பட்டுள்ள படத்தில் செவ்வகம் என்பது ஆங்கிலம் பேசும் மக்களையும், சதுரம் தமிழ் பேசும் மக்களையும், வட்டம் ஹிந்தி பேசும் மக்களையும், முக்கோணம் தெலுங்கு பேசும் மக்களையும் குறிக்கிறது எனில், வினா எண் 44 முதல் 48 வரை உள்ள வினாக்களுக்கு விடையளிக்கவும்.\n\nதமிழ், ஆங்கிலம் மற்றும் ஹிந்தி பேசும் மக்கள்:",
+    "image": "image/mat_2021/q44_48.PNG",
+    "options": [
+      "A",
+      "B",
+      "A & B",
+      "H"
+    ],
+    "correct": 0,
+    "explanation": "சதுரம், செவ்வகம் மற்றும் வட்டம் ஆகிய மூன்றும் சந்திக்கும் பகுதி.",
+    "question_en": "Direction (Q. No. 44 to 48) : From the given diagramatic representations answer questions 44 to 48. Rectangle indicates people who speak in English, Square indicates the people who speak in Tamil, Circle indicates people who speak in Hindi and Triangle indicates people who speak in Telugu.\n\nPeople who speak Tamil, English, and Hindi:",
+    "options_en": [
+      "A",
+      "B",
+      "A & B",
+      "H"
+    ],
+    "explanation_en": "The region where the square, rectangle, and circle intersect."
+  },
+  {
+    "id": 49,
+    "question": "வரிசையாக உள்ள மரங்களில், ஒரு குறிப்பிட்ட மரமானது இரு முனைகளிலிருந்தும் 10 வது இடத்தில் உள்ளது எனில், மொத்த மரங்களின் எண்ணிக்கை:",
+    "options": [
+      "20",
+      "19",
+      "21",
+      "22"
+    ],
+    "correct": 1,
+    "explanation": "மொத்தம் = $(10 + 10) - 1 = 19$.",
+    "question_en": "In a row of trees, if a specific tree is 10th from both ends, the total number of trees is:",
+    "options_en": [
+      "20",
+      "19",
+      "21",
+      "22"
+    ],
+    "explanation_en": "Total = $(10 + 10) - 1 = 19$."
+  },
+  {
+    "id": 50,
+    "question": "ரவி வலமிருந்து 10 வது இடத்திலும், ரகு இடமிருந்து 8வது இடத்திலும் உள்ளனர். இருவரும் இடத்தை மாற்றிக் கொண்டதில் ரகு இடமிருந்து 25 வது இடத்தில் உள்ளார் எனில், வலமிருந்து ரவி என்பவரின் இடம்:",
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correct": 2,
+    "explanation": "மொத்த மாணவர்கள் = 25 + 10 - 1 = 34. \nரவியின் புதிய இடம் = 34 - 8 + 1 = 27.",
+    "question_en": "Ravi is 10th from the right, and Raghu is 8th from the left. If they swap positions and Raghu is now 25th from the left, Ravi's position from the right is:",
+    "options_en": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "explanation_en": "Total students = 25 + 10 - 1 = 34. \nRavi's new position = 34 - 8 + 1 = 27."
+  },
+  {
+    "id": 51,
+    "question": "நாளை மறுநாள் ஞாயிற்றுக் கிழமை எனில், நேற்றைக்கு மூன்று நாட்கள் முந்தைய கிழமை:",
+    "options": [
+      "ஞாயிறு",
+      "திங்கள்",
+      "செவ்வாய்",
+      "புதன்"
+    ],
+    "correct": 1,
+    "explanation": "இன்று வெள்ளிக்கிழமை. நேற்று வியாழன். அதிலிருந்து 3 நாள் முன் திங்கட்கிழமை.",
+    "question_en": "If the day after tomorrow is Sunday, then 3 days before yesterday was:",
+    "options_en": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "explanation_en": "Today is Friday. Yesterday was Thursday. 3 days before that is Monday."
+  },
+  {
+    "id": 52,
+    "question": "வழிமுறை (வினா எண் 52 முதல் 56 வரை) : \n(i) A, B, C, D, E, F மற்றும் G ஆகியோர் ஒரு வரிசையில் கிழக்கு திசையை நோக்கி அமர்ந்துள்ளனர்.\n(ii) C என்பவர் D-ன் வலது பக்கத்தில் அவரைத் தொடர்ந்து உள்ளார்.\n(iii) B என்பவர் வரிசையின் ஒரு முனையில் கடைசியாகவும் E-ஐ தனது அருகிலும் கொண்டுள்ளார்.\n(iv) E மற்றும் F-க்கு இடையில் G அமர்ந்துள்ளார்.\n(v) தெற்கு முனையிலிருந்து மூன்றாவது இடத்தில் D உள்ளார்.\n\n7 நபர்கள் கிழக்கு நோக்கி அமர்ந்துள்ளனர். E -ன் வலது புறத்தில் அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "A",
+      "C",
+      "G",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "வரிசை (வடக்கு $\\rightarrow$ தெற்கு): B, E, G, F, D, C, A. \nE-க்கு வலது (தெற்கு) புறத்தில் G உள்ளார்.",
+    "question_en": "Direction (Q. No. 52 to 56) : \n(i) A, B, C, D, E, F and G are sitting in a row facing east.\n(ii) C is on the immediate right of D.\n(iii) B is at an extreme end and has E as his neighbour.\n(iv) G is between E and F.\n(v) D is sitting third from the south end.\n\n7 persons are sitting facing East. Who is sitting to the right of E?",
+    "options_en": [
+      "A",
+      "C",
+      "G",
+      "D"
+    ],
+    "explanation_en": "Order (North $\\rightarrow$ South): B, E, G, F, D, C, A. \nG is to the right (South) of E."
+  },
+  {
+    "id": 53,
+    "question": "வழிமுறை (வினா எண் 52 முதல் 56 வரை) : \n(i) A, B, C, D, E, F மற்றும் G ஆகியோர் ஒரு வரிசையில் கிழக்கு திசையை நோக்கி அமர்ந்துள்ளனர்.\n(ii) C என்பவர் D-ன் வலது பக்கத்தில் அவரைத் தொடர்ந்து உள்ளார்.\n(iii) B என்பவர் வரிசையின் ஒரு முனையில் கடைசியாகவும் E-ஐ தனது அருகிலும் கொண்டுள்ளார்.\n(iv) E மற்றும் F-க்கு இடையில் G அமர்ந்துள்ளார்.\n(v) தெற்கு முனையிலிருந்து மூன்றாவது இடத்தில் D உள்ளார்.\n\nவரிசையில் இரண்டு முனைகளிலும் (கடைசியாக) அமர்ந்திருப்பவர்கள் யார்?",
+    "options": [
+      "A மற்றும் B",
+      "A மற்றும் E",
+      "C மற்றும் B",
+      "F மற்றும் B"
+    ],
+    "correct": 0,
+    "explanation": "வரிசையின் முனைகளில் B மற்றும் A உள்ளனர்.",
+    "question_en": "Direction (Q. No. 52 to 56) : \n(i) A, B, C, D, E, F and G are sitting in a row facing east.\n(ii) C is on the immediate right of D.\n(iii) B is at an extreme end and has E as his neighbour.\n(iv) G is between E and F.\n(v) D is sitting third from the south end.\n\nWho are sitting at the two extreme ends of the row?",
+    "options_en": [
+      "A and B",
+      "A and E",
+      "C and B",
+      "F and B"
+    ],
+    "explanation_en": "B and A are at the extreme ends."
+  },
+  {
+    "id": 54,
+    "question": "வழிமுறை (வினா எண் 52 முதல் 56 வரை) : \n(i) A, B, C, D, E, F மற்றும் G ஆகியோர் ஒரு வரிசையில் கிழக்கு திசையை நோக்கி அமர்ந்துள்ளனர்.\n(ii) C என்பவர் D-ன் வலது பக்கத்தில் அவரைத் தொடர்ந்து உள்ளார்.\n(iii) B என்பவர் வரிசையின் ஒரு முனையில் கடைசியாகவும் E-ஐ தனது அருகிலும் கொண்டுள்ளார்.\n(iv) E மற்றும் F-க்கு இடையில் G அமர்ந்துள்ளார்.\n(v) தெற்கு முனையிலிருந்து மூன்றாவது இடத்தில் D உள்ளார்.\n\nA-க்கு அடுத்து அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "G"
+    ],
+    "correct": 1,
+    "explanation": "வரிசை: B, E, G, F, D, C, A. எனவே A-க்கு அருகில் C உள்ளார்.",
+    "question_en": "Direction (Q. No. 52 to 56) : \n(i) A, B, C, D, E, F and G are sitting in a row facing east.\n(ii) C is on the immediate right of D.\n(iii) B is at an extreme end and has E as his neighbour.\n(iv) G is between E and F.\n(v) D is sitting third from the south end.\n\nWho is sitting next to A?",
+    "options_en": [
+      "B",
+      "C",
+      "D",
+      "G"
+    ],
+    "explanation_en": "Order: B, E, G, F, D, C, A. So C is next to A."
+  },
+  {
+    "id": 55,
+    "question": "வழிமுறை (வினா எண் 52 முதல் 56 வரை) : \n(i) A, B, C, D, E, F மற்றும் G ஆகியோர் ஒரு வரிசையில் கிழக்கு திசையை நோக்கி அமர்ந்துள்ளனர்.\n(ii) C என்பவர் D-ன் வலது பக்கத்தில் அவரைத் தொடர்ந்து உள்ளார்.\n(iii) B என்பவர் வரிசையின் ஒரு முனையில் கடைசியாகவும் E-ஐ தனது அருகிலும் கொண்டுள்ளார்.\n(iv) E மற்றும் F-க்கு இடையில் G அமர்ந்துள்ளார்.\n(v) தெற்கு முனையிலிருந்து மூன்றாவது இடத்தில் D உள்ளார்.\n\nD என்பவர் யாருக்கு இடையில் அமர்ந்திருக்கிறார்?",
+    "options": [
+      "A மற்றும் C",
+      "A மற்றும் F",
+      "C மற்றும் E",
+      "C மற்றும் F"
+    ],
+    "correct": 3,
+    "explanation": "D என்பவர் F மற்றும் C-க்கு இடையில் அமர்ந்துள்ளார்.",
+    "question_en": "Direction (Q. No. 52 to 56) : \n(i) A, B, C, D, E, F and G are sitting in a row facing east.\n(ii) C is on the immediate right of D.\n(iii) B is at an extreme end and has E as his neighbour.\n(iv) G is between E and F.\n(v) D is sitting third from the south end.\n\nBetween whom is D sitting?",
+    "options_en": [
+      "A and C",
+      "A and F",
+      "C and E",
+      "C and F"
+    ],
+    "explanation_en": "D is sitting between F and C."
+  },
+  {
+    "id": 56,
+    "question": "வழிமுறை (வினா எண் 52 முதல் 56 வரை) : \n(i) A, B, C, D, E, F மற்றும் G ஆகியோர் ஒரு வரிசையில் கிழக்கு திசையை நோக்கி அமர்ந்துள்ளனர்.\n(ii) C என்பவர் D-ன் வலது பக்கத்தில் அவரைத் தொடர்ந்து உள்ளார்.\n(iii) B என்பவர் வரிசையின் ஒரு முனையில் கடைசியாகவும் E-ஐ தனது அருகிலும் கொண்டுள்ளார்.\n(iv) E மற்றும் F-க்கு இடையில் G அமர்ந்துள்ளார்.\n(v) தெற்கு முனையிலிருந்து மூன்றாவது இடத்தில் D உள்ளார்.\n\nவடக்கு முனையிலிருந்து மூன்றாம் இடத்தில் C அமரவேண்டும் எனில், அவருடன் யார் தனது இடத்தை பரிமாற்றிக் கொள்ள வேண்டும் ?",
+    "options": [
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "correct": 3,
+    "explanation": "மூன்றாம் இடத்தில் G உள்ளார். எனவே G-யுடன் இடத்தை மாற்ற வேண்டும்.",
+    "question_en": "Direction (Q. No. 52 to 56) : \n(i) A, B, C, D, E, F and G are sitting in a row facing east.\n(ii) C is on the immediate right of D.\n(iii) B is at an extreme end and has E as his neighbour.\n(iv) G is between E and F.\n(v) D is sitting third from the south end.\n\nIf C has to sit in the 3rd position from the North end, with whom should he swap positions?",
+    "options_en": [
+      "D",
+      "E",
+      "F",
+      "G"
+    ],
+    "explanation_en": "G is in the 3rd position. Hence C should swap with G."
+  },
+  {
+    "id": 57,
+    "question": "DOCTOR என்பதை FMERQP எனவும், LAWYER என்பதை NYYWGP எனவும் குறித்தால் PLAYER என்பதன் குறியீடு:",
+    "options": [
+      "RJCWGP",
+      "QMBZFS",
+      "OKZXDQ",
+      "RNCZGP"
+    ],
+    "correct": 0,
+    "explanation": "தர்க்கம்: +2, -2, +2, -2... \nP(+2)=R, L(-2)=J, A(+2)=C, Y(-2)=W, E(+2)=G, R(-2)=P.",
+    "question_en": "If DOCTOR is coded as FMERQP, and LAWYER as NYYWGP, then the code for PLAYER is:",
+    "options_en": [
+      "RJCWGP",
+      "QMBZFS",
+      "OKZXDQ",
+      "RNCZGP"
+    ],
+    "explanation_en": "Logic: +2, -2, +2, -2... \nP(+2)=R, L(-2)=J, A(+2)=C, Y(-2)=W, E(+2)=G, R(-2)=P."
+  },
+  {
+    "id": 58,
+    "question": "GO=32, SHE=49 எனில் READ =",
+    "options": [
+      "28",
+      "78",
+      "80",
+      "68"
+    ],
+    "correct": 2,
+    "explanation": "ஆங்கில எழுத்துக்களின் எதிர்வரிசை எண்களின் (Z=1, A=26) கூடுதல்.\nR=9, E=22, A=26, D=23. \n$9+22+26+23 = 80$.",
+    "question_en": "If GO=32, SHE=49, then READ =",
+    "options_en": [
+      "28",
+      "78",
+      "80",
+      "68"
+    ],
+    "explanation_en": "Sum of reverse alphabetical positions (Z=1, A=26).\nR=9, E=22, A=26, D=23. \n$9+22+26+23 = 80$."
+  },
+  {
+    "id": 59,
+    "question": "பச்சை=வெள்ளை, வெள்ளை=நீலம், நீலம்=சிகப்பு, சிகப்பு=மஞ்சள் எனில் மனித இரத்தத்தின் நிறம் என்ன ?",
+    "options": [
+      "பச்சை",
+      "மஞ்சள்",
+      "நீலம்",
+      "சிகப்பு"
+    ],
+    "correct": 1,
+    "explanation": "இரத்தம் சிகப்பு. இங்கு சிகப்பு என்பது மஞ்சள் என அழைக்கப்படுகிறது.",
+    "question_en": "If Green=White, White=Blue, Blue=Red, Red=Yellow, then what is the color of human blood?",
+    "options_en": [
+      "Green",
+      "Yellow",
+      "Blue",
+      "Red"
+    ],
+    "explanation_en": "Blood is red. Here Red is called Yellow."
+  },
+  {
+    "id": 60,
+    "question": "'mok dan sil'='nice big house', 'fit kon dan'='house is good', 'amr tir fit'='cost is high' எனில் 'good' என்பதற்கான குறியீடு:",
+    "options": [
+      "mok",
+      "dan",
+      "kon",
+      "fit"
+    ],
+    "correct": 2,
+    "explanation": "இரண்டிலும் பொதுவான 'house' = 'dan'. 'is' = 'fit'. மீதமுள்ளது 'good' = 'kon'.",
+    "question_en": "If 'mok dan sil'='nice big house', 'fit kon dan'='house is good', 'amr tir fit'='cost is high', then the code for 'good' is:",
+    "options_en": [
+      "mok",
+      "dan",
+      "kon",
+      "fit"
+    ],
+    "explanation_en": "Common 'house' = 'dan'. 'is' = 'fit'. Remaining 'good' = 'kon'."
+  },
+  {
+    "id": 61,
+    "question": "விடுபட்ட எழுத்துக்களைக் கண்டறியவும்: abc_d_b_d_ab_dd",
+    "options": [
+      "cacadc",
+      "dacdc",
+      "acbdc",
+      "dacdd"
+    ],
+    "correct": 1,
+    "explanation": "abcdd / abcdd / abcdd என்ற அமைப்பில் தொடர் உருவாகிறது.",
+    "question_en": "Find the missing letters: abc_d_b_d_ab_dd",
+    "options_en": [
+      "cacadc",
+      "dacdc",
+      "acbdc",
+      "dacdd"
+    ],
+    "explanation_en": "The series forms the pattern abcdd / abcdd / abcdd."
+  },
+  {
+    "id": 62,
+    "question": "தந்தை மற்றும் மகனின் தற்போதைய வயதுகளின் கூடுதல் 82. 10 வருடங்களுக்கு முன்பு மகனின் வயது 15 எனில், தந்தையின் தற்போதைய வயது:",
+    "options": [
+      "63",
+      "67",
+      "57",
+      "87"
+    ],
+    "correct": 2,
+    "explanation": "மகனின் தற்போதைய வயது = 15 + 10 = 25. தந்தையின் வயது = 82 - 25 = 57.",
+    "question_en": "The sum of the present ages of a father and son is 82. If the son was 15 years old 10 years ago, the father's present age is:",
+    "options_en": [
+      "63",
+      "67",
+      "57",
+      "87"
+    ],
+    "explanation_en": "Son's present age = 15 + 10 = 25. Father's age = 82 - 25 = 57."
+  },
+  {
+    "id": 63,
+    "question": "ஆங்கில எழுத்துகளின் வரிசையிலிருந்து உயிர் எழுத்துக்களை (vowels) நீக்கியபின், வலப்புறமிருந்து 7 வது இடத்திலுள்ள எழுத்து:",
+    "options": [
+      "T",
+      "P",
+      "G",
+      "S"
+    ],
+    "correct": 3,
+    "explanation": "மொத்தம் 21 எழுத்துக்கள். வலமிருந்து 7-வது என்பது இடமிருந்து 15-வது எழுத்து. அது 'S'.",
+    "question_en": "After removing the vowels from the English alphabet series, the 7th letter from the right is:",
+    "options_en": [
+      "T",
+      "P",
+      "G",
+      "S"
+    ],
+    "explanation_en": "Total 21 letters. 7th from right is 15th from left. It is 'S'."
+  },
+  {
+    "id": 64,
+    "question": "மேற்கண்ட ஆங்கில எழுத்துக்களை இடவலம் மாற்றி வரிசைப்படுத்தி எழுதும்போது இடப்புறமிருந்து 12 வது இடத்தில் உள்ள எழுத்து:",
+    "options": [
+      "W",
+      "N",
+      "V",
+      "M"
+    ],
+    "correct": 3,
+    "explanation": "இடவலம் மாற்றினால், இடமிருந்து 12-வது எழுத்து அசல் வரிசையில் வலமிருந்து 12-வது (அல்லது இடமிருந்து 10-வது). அது 'M'.",
+    "question_en": "If the above letters are written in reverse order, the 12th letter from the left will be:",
+    "options_en": [
+      "W",
+      "N",
+      "V",
+      "M"
+    ],
+    "explanation_en": "If reversed, the 12th letter from the left is the 12th from the right in the original sequence (or 10th from the left). It is 'M'."
+  },
+  {
+    "id": 65,
+    "question": "ஒரு குறியீட்டு முறையில் 1BA+ABA=8B2 எனில், A மற்றும் B -ன் மதிப்புகள் முறையே:",
+    "options": [
+      "1, 0",
+      "9, 6",
+      "6, 9",
+      "6, 0"
+    ],
+    "correct": 2,
+    "explanation": "A=6, B=9 எனப் பிரதியிட்டால்: 196 + 696 = 892. சரியாகப் பொருந்துகிறது.",
+    "question_en": "In a coding system, if 1BA+ABA=8B2, then the values of A and B respectively are:",
+    "options_en": [
+      "1, 0",
+      "9, 6",
+      "6, 9",
+      "6, 0"
+    ],
+    "explanation_en": "Substituting A=6, B=9: 196 + 696 = 892. This fits perfectly."
+  },
+  {
+    "id": 66,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தில் சதுரங்களின் எண்ணிக்கை:",
+    "image": "image/mat_2021/q66.PNG",
+    "options": [
+      "20",
+      "17",
+      "18",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "படத்தில் உள்ள கட்டங்கள் மற்றும் அவற்றின் இணைப்பால் உருவாகும் சதுரங்களைக் கணக்கிடவும்.",
+    "question_en": "Number of squares in the given figure:",
+    "options_en": [
+      "20",
+      "17",
+      "18",
+      "12"
+    ],
+    "explanation_en": "Count the individual grids and squares formed by combining them."
+  },
+  {
+    "id": 67,
+    "question": "பகடையின் அடிப்பக்கம் 4 என உள்ள போது பகடையின் மேல்பகுதியில் உள்ள எண் எது?",
+    "image": "image/mat_2021/q67.PNG",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "பகடைகளின் அமைப்பைக் கொண்டு பார்க்கும்போது 4-க்கு எதிரே 2 வரும்.",
+    "question_en": "When the number on the bottom face of the dice is 4, what is the number on the top face?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "explanation_en": "Based on the dice arrangement, 2 is opposite to 4."
+  },
+  {
+    "id": 68,
+    "question": "மாறுபட்ட ஒன்றைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "Traveller's bag",
+      "Suitcase",
+      "Wardrobe",
+      "Trolley bags"
+    ],
+    "correct": 2,
+    "explanation": "Wardrobe என்பது துணிகளை வைக்கும் மர அலமாரி. மற்றவை பயணப் பைகள்.",
+    "question_en": "Choose the odd one out:",
+    "options_en": [
+      "Traveller's bag",
+      "Suitcase",
+      "Wardrobe",
+      "Trolley bags"
+    ],
+    "explanation_en": "Wardrobe is a wooden cupboard for clothes. The others are travel bags."
+  },
+  {
+    "id": 69,
+    "question": "படங்களில் வேறுபட்ட ஒன்றைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q69.PNG",
+    "options": [
+      "A",
+      "E",
+      "C",
+      "B"
+    ],
+    "correct": 3,
+    "explanation": "உருவங்களின் அமைப்பு அல்லது கோடுகளின் எண்ணிக்கையை வைத்து தர்க்கம்.",
+    "question_en": "Find the odd one out from the figures:",
+    "options_en": [
+      "A",
+      "E",
+      "C",
+      "B"
+    ],
+    "explanation_en": "Logic based on the arrangement or number of lines in the shapes."
+  },
+  {
+    "id": 70,
+    "question": "வழிமுறை (வினா எண். 70 முதல் 73 வரை) : கொடுக்கப்பட்ட மூன்று படங்களைத் தொடர்ந்து வரவேண்டிய படத்தை, தேர்ந்தெடுக்கவும்.\n\nஅடுத்து வரவேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q70.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 70 to 73) : Identify the figure which is the continuation of the given three figures.\n\nSelect the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Identify the logical pattern."
+  },
+  {
+    "id": 71,
+    "question": "வழிமுறை (வினா எண். 70 முதல் 73 வரை) : கொடுக்கப்பட்ட மூன்று படங்களைத் தொடர்ந்து வரவேண்டிய படத்தை, தேர்ந்தெடுக்கவும்.\n\nஅடுத்து வரவேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q71.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 70 to 73) : Identify the figure which is the continuation of the given three figures.\n\nSelect the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Identify the logical pattern."
+  },
+  {
+    "id": 72,
+    "question": "வழிமுறை (வினா எண். 70 முதல் 73 வரை) : கொடுக்கப்பட்ட மூன்று படங்களைத் தொடர்ந்து வரவேண்டிய படத்தை, தேர்ந்தெடுக்கவும்.\n\nஅடுத்து வரவேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q72.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 70 to 73) : Identify the figure which is the continuation of the given three figures.\n\nSelect the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Identify the logical pattern."
+  },
+  {
+    "id": 73,
+    "question": "வழிமுறை (வினா எண். 70 முதல் 73 வரை) : கொடுக்கப்பட்ட மூன்று படங்களைத் தொடர்ந்து வரவேண்டிய படத்தை, தேர்ந்தெடுக்கவும்.\n\nஅடுத்து வரவேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q73.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 70 to 73) : Identify the figure which is the continuation of the given three figures.\n\nSelect the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Identify the logical pattern."
+  },
+  {
+    "id": 74,
+    "question": "வழிமுறை (வினா எண் 74 முதல் 78 வரை) : முதல் இரண்டு படங்களுக்கும் இடையில் ஏதேனும் ஒரு தொடர்பு உள்ளது. அதே தொடர்பின் அடிப்படையில் கொடுக்கப்பட்ட படங்களிலிருந்து சரியானதை தேர்ந்தெடுக்கவும் :\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q74.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "முதல் இரு படங்களுக்கு இடையேயான தொடர்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 74 to 78) : There is some relationship between the first two figures. Find the other one from the options having similar relationship.\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the relationship between the first two figures."
+  },
+  {
+    "id": 75,
+    "question": "வழிமுறை (வினா எண் 74 முதல் 78 வரை) : முதல் இரண்டு படங்களுக்கும் இடையில் ஏதேனும் ஒரு தொடர்பு உள்ளது. அதே தொடர்பின் அடிப்படையில் கொடுக்கப்பட்ட படங்களிலிருந்து சரியானதை தேர்ந்தெடுக்கவும் :\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q75.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரு படங்களுக்கு இடையேயான தொடர்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 74 to 78) : There is some relationship between the first two figures. Find the other one from the options having similar relationship.\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the relationship between the first two figures."
+  },
+  {
+    "id": 76,
+    "question": "வழிமுறை (வினா எண் 74 முதல் 78 வரை) : முதல் இரண்டு படங்களுக்கும் இடையில் ஏதேனும் ஒரு தொடர்பு உள்ளது. அதே தொடர்பின் அடிப்படையில் கொடுக்கப்பட்ட படங்களிலிருந்து சரியானதை தேர்ந்தெடுக்கவும் :\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q76.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "முதல் இரு படங்களுக்கு இடையேயான தொடர்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 74 to 78) : There is some relationship between the first two figures. Find the other one from the options having similar relationship.\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the relationship between the first two figures."
+  },
+  {
+    "id": 77,
+    "question": "வழிமுறை (வினா எண் 74 முதல் 78 வரை) : முதல் இரண்டு படங்களுக்கும் இடையில் ஏதேனும் ஒரு தொடர்பு உள்ளது. அதே தொடர்பின் அடிப்படையில் கொடுக்கப்பட்ட படங்களிலிருந்து சரியானதை தேர்ந்தெடுக்கவும் :\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q77.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரு படங்களுக்கு இடையேயான தொடர்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 74 to 78) : There is some relationship between the first two figures. Find the other one from the options having similar relationship.\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the relationship between the first two figures."
+  },
+  {
+    "id": 78,
+    "question": "வழிமுறை (வினா எண் 74 முதல் 78 வரை) : முதல் இரண்டு படங்களுக்கும் இடையில் ஏதேனும் ஒரு தொடர்பு உள்ளது. அதே தொடர்பின் அடிப்படையில் கொடுக்கப்பட்ட படங்களிலிருந்து சரியானதை தேர்ந்தெடுக்கவும் :\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q78.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "முதல் இரு படங்களுக்கு இடையேயான தொடர்பைக் கண்டறியவும்.",
+    "question_en": "Direction (Q. No. 74 to 78) : There is some relationship between the first two figures. Find the other one from the options having similar relationship.\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the relationship between the first two figures."
+  },
+  {
+    "id": 79,
+    "question": "பொருத்தமான படத்தைத் தேர்வு செய்யவும்:",
+    "image": "image/mat_2021/q79.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "வரிசை அல்லது நிரல் வாரியாகத் தர்க்கத்தைக் கண்டறியவும்.",
+    "question_en": "Choose the appropriate figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the logic row-wise or column-wise."
+  },
+  {
+    "id": 80,
+    "question": "வழிமுறை (வினா எண் 80 முதல் 82 வரை) : கொடுக்கப்பட்டுள்ள A மற்றும் B படங்கள் ஒரு வகையில் தொடர்புடையது. C மற்றும் D படங்களுக்கும் அதே தொடர்பினை பயன்படுத்தினால் D-ல் வரவேண்டிய படத்தினை (1), (2), (3) மற்றும் (4) லிருந்து தேர்ந்தெடுக்கவும்.\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q80.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "உருவங்களின் சுழற்சி அல்லது இடமாற்றத்தைக் கவனிக்கவும்.",
+    "question_en": "Direction (Q. No. 80 to 82) : Figures A and B are related in some manner. By the same relationship between C and D choose figure D from (1), (2), (3) and (4).\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Observe the rotation or displacement of the shapes."
+  },
+  {
+    "id": 81,
+    "question": "வழிமுறை (வினா எண் 80 முதல் 82 வரை) : கொடுக்கப்பட்டுள்ள A மற்றும் B படங்கள் ஒரு வகையில் தொடர்புடையது. C மற்றும் D படங்களுக்கும் அதே தொடர்பினை பயன்படுத்தினால் D-ல் வரவேண்டிய படத்தினை (1), (2), (3) மற்றும் (4) லிருந்து தேர்ந்தெடுக்கவும்.\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q81.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "உருவங்களின் சுழற்சி அல்லது இடமாற்றத்தைக் கவனிக்கவும்.",
+    "question_en": "Direction (Q. No. 80 to 82) : Figures A and B are related in some manner. By the same relationship between C and D choose figure D from (1), (2), (3) and (4).\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Observe the rotation or displacement of the shapes."
+  },
+  {
+    "id": 82,
+    "question": "வழிமுறை (வினா எண் 80 முதல் 82 வரை) : கொடுக்கப்பட்டுள்ள A மற்றும் B படங்கள் ஒரு வகையில் தொடர்புடையது. C மற்றும் D படங்களுக்கும் அதே தொடர்பினை பயன்படுத்தினால் D-ல் வரவேண்டிய படத்தினை (1), (2), (3) மற்றும் (4) லிருந்து தேர்ந்தெடுக்கவும்.\n\nC-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_2021/q82.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "உருவங்களின் சுழற்சி அல்லது இடமாற்றத்தைக் கவனிக்கவும்.",
+    "question_en": "Direction (Q. No. 80 to 82) : Figures A and B are related in some manner. By the same relationship between C and D choose figure D from (1), (2), (3) and (4).\n\nSelect figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Observe the rotation or displacement of the shapes."
+  },
+  {
+    "id": 83,
+    "question": "விடுபட்ட படத்தைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q83.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "படத்தில் உள்ள தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Identify the logical pattern in the figure."
+  },
+  {
+    "id": 84,
+    "question": "விடுபட்ட படத்தைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q84.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "படத்தில் உள்ள தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Identify the logical pattern in the figure."
+  },
+  {
+    "id": 85,
+    "question": "விடுபட்ட படத்தைக் கண்டறியவும்:",
+    "image": "image/mat_2021/q85.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "படத்தில் உள்ள தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Identify the logical pattern in the figure."
+  },
+  {
+    "id": 86,
+    "question": "(X) என்ற படத்தை ஒரு பகுதியாகக் கொண்ட படம் எது?",
+    "image": "image/mat_2021/q86.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "உள்ளடங்கிய உருவத்தைக் (Embedded figure) கண்டறியவும்.",
+    "question_en": "Which figure has the figure (X) as one of its parts?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the embedded figure."
+  },
+  {
+    "id": 87,
+    "question": "எந்த வார்த்தையின் தண்ணீர் பிம்பம் அவ்வார்த்தையைப் போன்று இருக்காது?",
+    "options": [
+      "SUN",
+      "HIDE",
+      "ICE",
+      "BIKE"
+    ],
+    "correct": 0,
+    "explanation": "HIDE, ICE, BIKE ஆகியவற்றின் தண்ணீர் பிம்பம் மாறாது. ஆனால் SUN என்பதன் பிம்பம் மாறும்.",
+    "question_en": "Which word's water image will not look like the word itself?",
+    "options_en": [
+      "SUN",
+      "HIDE",
+      "ICE",
+      "BIKE"
+    ],
+    "explanation_en": "The water images of HIDE, ICE, and BIKE do not change. But SUN's image changes."
+  },
+  {
+    "id": 88,
+    "question": "கொடுக்கப்பட்ட படத்தின் தண்ணீர் பிம்பம்:",
+    "image": "image/mat_2021/q88.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "தண்ணீர் பிம்பம் தலைகீழாக (Top-Bottom) மாறும்.",
+    "question_en": "Water image of the given figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The water image gets inverted (Top-Bottom)."
+  },
+  {
+    "id": 89,
+    "question": "WINNER என்பதன் கண்ணாடி பிம்பம்:",
+    "options": [
+      "ENNI",
+      "ENNIW",
+      "RENNIM",
+      "RENNIW"
+    ],
+    "correct": 1,
+    "explanation": "கண்ணாடி பிம்பத்தில் வலது-இடதாக மாறும். RENNIW என்பது சரியான விடை (எழுத்துக்கள் திரும்பியிருக்கும்).",
+    "question_en": "Mirror image of WINNER:",
+    "options_en": [
+      "ENNI",
+      "ENNIW",
+      "RENNIM",
+      "RENNIW"
+    ],
+    "explanation_en": "Mirror image changes right-to-left. RENNIW is correct (letters are reversed)."
+  },
+  {
+    "id": 90,
+    "question": "கொடுக்கப்பட்ட படத்தின் கண்ணாடி பிம்பம்:",
+    "image": "image/mat_2021/q90.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "கண்ணாடி பிம்பம் வலது-இடதாக மாறும்.",
+    "question_en": "Mirror image of the given figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Mirror image gets inverted right-to-left."
+  }
+]

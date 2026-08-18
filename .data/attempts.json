@@ -1,0 +1,168 @@
+[
+  {
+    "id": "att-101",
+    "quizId": "nmms-2026-model-01",
+    "quizTitle": "NMMS மாநில உதவித்தொகை மாதிரித் தேர்வு 2026 (தமிழ் வழி)",
+    "studentName": "அஜய் ஞா",
+    "examNumber": "8001",
+    "startedAt": "2026-08-17T18:15:20.870Z",
+    "submittedAt": "2026-08-17T18:45:20.870Z",
+    "timeTakenSeconds": 3120,
+    "tabSwitchCount": 0,
+    "answers": {
+      "mat-q1": "B",
+      "mat-q2": "A",
+      "mat-q3": "D",
+      "mat-q4": "A",
+      "mat-q5": "A",
+      "mat-q6": "A",
+      "mat-q7": "B",
+      "sat-m1": "B",
+      "sat-m2": "B",
+      "sat-m3": "B",
+      "sat-m4": "C",
+      "sat-m5": "B",
+      "sat-s1": "B",
+      "sat-s2": "B",
+      "sat-s3": "B",
+      "sat-s4": "B",
+      "sat-s5": "A",
+      "sat-ss1": "A",
+      "sat-ss2": "B",
+      "sat-ss3": "B",
+      "sat-ss4": "C",
+      "sat-ss5": "B"
+    },
+    "score": {
+      "totalObtained": 22,
+      "totalPossible": 22,
+      "percentage": 100,
+      "isEligible": true,
+      "matScore": 7,
+      "satScore": 15,
+      "subjectBreakdown": {
+        "MAT": {
+          "obtained": 7,
+          "possible": 7,
+          "accuracy": 100,
+          "correctCount": 7,
+          "wrongCount": 0,
+          "unattemptedCount": 0
+        },
+        "SAT_MATHS": {
+          "obtained": 5,
+          "possible": 5,
+          "accuracy": 100,
+          "correctCount": 5,
+          "wrongCount": 0,
+          "unattemptedCount": 0
+        },
+        "SAT_SCIENCE": {
+          "obtained": 5,
+          "possible": 5,
+          "accuracy": 100,
+          "correctCount": 5,
+          "wrongCount": 0,
+          "unattemptedCount": 0
+        },
+        "SAT_SOCIAL": {
+          "obtained": 5,
+          "possible": 5,
+          "accuracy": 100,
+          "correctCount": 5,
+          "wrongCount": 0,
+          "unattemptedCount": 0
+        }
+      },
+      "strengthSubject": "அனைத்துப் பாடங்களிலும் முழுமையான தேர்ச்சி (100%)",
+      "weaknessSubject": "இல்லை",
+      "aiDiagnosticInsights": [
+        "மனத்திறன் தேர்வு (MAT) மற்றும் SAT பாடங்களில் மிகச்சிறப்பான விடைத்திறன்.",
+        "தேர்வு நெறிமுறைகள் மற்றும் நேர மேலாண்மை மிகச் சிறப்பு."
+      ]
+    }
+  },
+  {
+    "id": "att-102",
+    "quizId": "nmms-2026-model-01",
+    "quizTitle": "NMMS மாநில உதவித்தொகை மாதிரித் தேர்வு 2026 (தமிழ் வழி)",
+    "studentName": "ஐயப்பன் மு",
+    "examNumber": "8006",
+    "startedAt": "2026-08-17T17:15:20.870Z",
+    "submittedAt": "2026-08-17T18:00:20.870Z",
+    "timeTakenSeconds": 3950,
+    "tabSwitchCount": 1,
+    "answers": {
+      "mat-q1": "B",
+      "mat-q2": "A",
+      "mat-q3": "A",
+      "mat-q4": "A",
+      "mat-q5": "A",
+      "mat-q6": "A",
+      "mat-q7": "C",
+      "sat-m1": "B",
+      "sat-m2": "A",
+      "sat-m3": "B",
+      "sat-m4": "C",
+      "sat-m5": "B",
+      "sat-s1": "B",
+      "sat-s2": "B",
+      "sat-s3": "B",
+      "sat-s4": "A",
+      "sat-s5": "A",
+      "sat-ss1": "A",
+      "sat-ss2": "B",
+      "sat-ss3": "B",
+      "sat-ss4": "B",
+      "sat-ss5": "B"
+    },
+    "score": {
+      "totalObtained": 17,
+      "totalPossible": 22,
+      "percentage": 77.27,
+      "isEligible": true,
+      "matScore": 5,
+      "satScore": 12,
+      "subjectBreakdown": {
+        "MAT": {
+          "obtained": 5,
+          "possible": 7,
+          "accuracy": 71.4,
+          "correctCount": 5,
+          "wrongCount": 2,
+          "unattemptedCount": 0
+        },
+        "SAT_MATHS": {
+          "obtained": 4,
+          "possible": 5,
+          "accuracy": 80,
+          "correctCount": 4,
+          "wrongCount": 1,
+          "unattemptedCount": 0
+        },
+        "SAT_SCIENCE": {
+          "obtained": 4,
+          "possible": 5,
+          "accuracy": 80,
+          "correctCount": 4,
+          "wrongCount": 1,
+          "unattemptedCount": 0
+        },
+        "SAT_SOCIAL": {
+          "obtained": 4,
+          "possible": 5,
+          "accuracy": 80,
+          "correctCount": 4,
+          "wrongCount": 1,
+          "unattemptedCount": 0
+        }
+      },
+      "strengthSubject": "SAT அறிவியல் & கணிதம்",
+      "weaknessSubject": "MAT இரத்த உறவுகள் & தசம வர்க்கமூலம்",
+      "aiDiagnosticInsights": [
+        "NMMS தகுதி மதிப்பெண்ணிற்கு (40%) மேல் பெற்று உதவித்தொகைக்குத் தகுதி பெற்றுள்ளார்.",
+        "தசம வர்க்கமூலக் கணக்குகள் (√0.0064) மற்றும் ஒளி நிறப்பிரிகைக் கருத்துக்களை மீண்டும் பயிற்சி செய்யவும்."
+      ]
+    }
+  }
+]

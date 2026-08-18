@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(a) Envelope (b) Delivery (c) Post office (d) Clearance",
+    "options": [
+      "(d), (a), (b), (c)",
+      "(d), (a), (b), (c)",
+      "(a), (c), (b), (d)",
+      "(c), (b), (d), (a)"
+    ],
+    "correct": 2,
+    "explanation": "சரியான வரிசை: Envelope $\\rightarrow$ Post office $\\rightarrow$ Delivery $\\rightarrow$ Clearance. (புத்தக விடைக்குறிப்பின்படி).",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(a) Envelope (b) Delivery (c) Post office (d) Clearance",
+    "options_en": [
+      "(d), (a), (b), (c)",
+      "(d), (a), (b), (c)",
+      "(a), (c), (b), (d)",
+      "(c), (b), (d), (a)"
+    ],
+    "explanation_en": "Correct sequence: Envelope $\\rightarrow$ Post office $\\rightarrow$ Delivery $\\rightarrow$ Clearance. (As per answer book)."
+  },
+  {
+    "id": 2,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(a) Room (b) Lock (c) Key (d) Door",
+    "options": [
+      "(a), (b), (c), (d)",
+      "(d), (c), (b), (a)",
+      "(c), (b), (d), (a)",
+      "(c), (b), (a), (d)"
+    ],
+    "correct": 2,
+    "explanation": "சரியான வரிசை: Key $\\rightarrow$ Lock $\\rightarrow$ Door $\\rightarrow$ Room.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(a) Room (b) Lock (c) Key (d) Door",
+    "options_en": [
+      "(a), (b), (c), (d)",
+      "(d), (c), (b), (a)",
+      "(c), (b), (d), (a)",
+      "(c), (b), (a), (d)"
+    ],
+    "explanation_en": "Correct sequence: Key $\\rightarrow$ Lock $\\rightarrow$ Door $\\rightarrow$ Room."
+  },
+  {
+    "id": 3,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(a) Forest (b) Furniture (c) Wood (d) Trees",
+    "options": [
+      "(d), (a), (c), (b)",
+      "(a), (d), (c), (b)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (a), (d)"
+    ],
+    "correct": 1,
+    "explanation": "சரியான வரிசை: Forest $\\rightarrow$ Trees $\\rightarrow$ Wood $\\rightarrow$ Furniture.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(a) Forest (b) Furniture (c) Wood (d) Trees",
+    "options_en": [
+      "(d), (a), (c), (b)",
+      "(a), (d), (c), (b)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (a), (d)"
+    ],
+    "explanation_en": "Correct order: Forest $\\rightarrow$ Trees $\\rightarrow$ Wood $\\rightarrow$ Furniture."
+  },
+  {
+    "id": 4,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Birth (2) Death (3) Funeral (4) Marriage (5) Education",
+    "options": [
+      "(4), (5), (3), (1), (2)",
+      "(2), (3), (4), (5), (1)",
+      "(1), (5), (4), (2), (3)",
+      "(1), (3), (4), (5), (2)"
+    ],
+    "correct": 2,
+    "explanation": "சரியான வரிசை: Birth $\\rightarrow$ Education $\\rightarrow$ Marriage $\\rightarrow$ Death $\\rightarrow$ Funeral.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Birth (2) Death (3) Funeral (4) Marriage (5) Education",
+    "options_en": [
+      "(4), (5), (3), (1), (2)",
+      "(2), (3), (4), (5), (1)",
+      "(1), (5), (4), (2), (3)",
+      "(1), (3), (4), (5), (2)"
+    ],
+    "explanation_en": "Correct order: Birth $\\rightarrow$ Education $\\rightarrow$ Marriage $\\rightarrow$ Death $\\rightarrow$ Funeral."
+  },
+  {
+    "id": 5,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Site (2) Plan (3) Rent (4) Money (5) Building",
+    "options": [
+      "(4), (1), (2), (5), (3)",
+      "(3), (4), (2), (5), (1)",
+      "(2), (3), (5), (1), (4)",
+      "(1), (2), (3), (5), (4)"
+    ],
+    "correct": 0,
+    "explanation": "சரியான வரிசை: Money $\\rightarrow$ Site $\\rightarrow$ Plan $\\rightarrow$ Building $\\rightarrow$ Rent.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Site (2) Plan (3) Rent (4) Money (5) Building",
+    "options_en": [
+      "(4), (1), (2), (5), (3)",
+      "(3), (4), (2), (5), (1)",
+      "(2), (3), (5), (1), (4)",
+      "(1), (2), (3), (5), (4)"
+    ],
+    "explanation_en": "Correct order: Money $\\rightarrow$ Site $\\rightarrow$ Plan $\\rightarrow$ Building $\\rightarrow$ Rent."
+  },
+  {
+    "id": 6,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Cutting (2) Dish (3) Vegetable (4) Market (5) Cooking",
+    "options": [
+      "(1), (2), (4), (5), (3)",
+      "(3), (2), (5), (1), (4)",
+      "(4), (3), (1), (5), (2)",
+      "(1), (2), (3), (5), (4)"
+    ],
+    "correct": 2,
+    "explanation": "சரியான வரிசை: Market $\\rightarrow$ Vegetable $\\rightarrow$ Cutting $\\rightarrow$ Cooking $\\rightarrow$ Dish.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Cutting (2) Dish (3) Vegetable (4) Market (5) Cooking",
+    "options_en": [
+      "(1), (2), (4), (5), (3)",
+      "(3), (2), (5), (1), (4)",
+      "(4), (3), (1), (5), (2)",
+      "(1), (2), (3), (5), (4)"
+    ],
+    "explanation_en": "Correct order: Market $\\rightarrow$ Vegetable $\\rightarrow$ Cutting $\\rightarrow$ Cooking $\\rightarrow$ Dish."
+  },
+  {
+    "id": 7,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Trillion (2) Thousand (3) Billion (4) Hundred (5) Million",
+    "options": [
+      "(1), (2), (3), (4), (5)",
+      "(1), (5), (3), (2), (4)",
+      "(4), (2), (3), (5), (1)",
+      "(4), (2), (5), (3), (1)"
+    ],
+    "correct": 3,
+    "explanation": "சரியான வரிசை (மதிப்பின் அடிப்படையில் ஏறுவரிசை): Hundred $\\rightarrow$ Thousand $\\rightarrow$ Million $\\rightarrow$ Billion $\\rightarrow$ Trillion.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Trillion (2) Thousand (3) Billion (4) Hundred (5) Million",
+    "options_en": [
+      "(1), (2), (3), (4), (5)",
+      "(1), (5), (3), (2), (4)",
+      "(4), (2), (3), (5), (1)",
+      "(4), (2), (5), (3), (1)"
+    ],
+    "explanation_en": "Correct order (ascending by value): Hundred $\\rightarrow$ Thousand $\\rightarrow$ Million $\\rightarrow$ Billion $\\rightarrow$ Trillion."
+  },
+  {
+    "id": 8,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Tamilnadu (2) Universe (3) Chennai (4) World (5) India",
+    "options": [
+      "(1), (5), (3), (2), (4)",
+      "(2), (1), (3), (5), (4)",
+      "(3), (1), (5), (4), (2)",
+      "(5), (2), (2), (1), (3)"
+    ],
+    "correct": 2,
+    "explanation": "சரியான வரிசை (பரப்பளவின் அடிப்படையில் ஏறுவரிசை): Chennai $\\rightarrow$ Tamilnadu $\\rightarrow$ India $\\rightarrow$ World $\\rightarrow$ Universe.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Tamilnadu (2) Universe (3) Chennai (4) World (5) India",
+    "options_en": [
+      "(1), (5), (3), (2), (4)",
+      "(2), (1), (3), (5), (4)",
+      "(3), (1), (5), (4), (2)",
+      "(5), (2), (2), (1), (3)"
+    ],
+    "explanation_en": "Correct order (ascending by prevalence): Chennai $\\rightarrow$ Tamilnadu $\\rightarrow$ India $\\rightarrow$ World $\\rightarrow$ Universe."
+  },
+  {
+    "id": 9,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Cut (2) Put on (3) Mark (4) Measure (5) Tailor",
+    "options": [
+      "(4), (3), (1), (5), (2)",
+      "(3), (1), (5), (4), (2)",
+      "(2), (4), (3), (1), (5)",
+      "(1), (3), (2), (4), (5)"
+    ],
+    "correct": 0,
+    "explanation": "சரியான வரிசை (ஆடை தைக்கும் முறை): Measure $\\rightarrow$ Mark $\\rightarrow$ Cut $\\rightarrow$ Tailor $\\rightarrow$ Put on.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Cut (2) Put on (3) Mark (4) Measure (5) Tailor",
+    "options_en": [
+      "(4), (3), (1), (5), (2)",
+      "(3), (1), (5), (4), (2)",
+      "(2), (4), (3), (1), (5)",
+      "(1), (3), (2), (4), (5)"
+    ],
+    "explanation_en": "Correct order (how to sew): Measure $\\rightarrow$ Mark $\\rightarrow$ Cut $\\rightarrow$ Tailor $\\rightarrow$ Put on."
+  },
+  {
+    "id": 10,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Income (2) Status (3) Education (4) Well being (5) Job",
+    "options": [
+      "(1), (3), (2), (5), (4)",
+      "(1), (2), (5), (3), (4)",
+      "(3), (1), (5), (2), (4)",
+      "(3), (5), (1), (2), (4)"
+    ],
+    "correct": 3,
+    "explanation": "சரியான வரிசை: Education $\\rightarrow$ Job $\\rightarrow$ Income $\\rightarrow$ Status $\\rightarrow$ Well being.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Income (2) Status (3) Education (4) Well being (5) Job",
+    "options_en": [
+      "(1), (3), (2), (5), (4)",
+      "(1), (2), (5), (3), (4)",
+      "(3), (1), (5), (2), (4)",
+      "(3), (5), (1), (2), (4)"
+    ],
+    "explanation_en": "Correct order: Education $\\rightarrow$ Job $\\rightarrow$ Income $\\rightarrow$ Status $\\rightarrow$ Well being."
+  },
+  {
+    "id": 11,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) District (2) Village (3) State (4) Town (5) Country",
+    "options": [
+      "(5), (3), (2), (1), (4)",
+      "(5), (2), (4), (3), (1)",
+      "(2), (1), (5), (3), (4)",
+      "(2), (4), (1), (3), (5)"
+    ],
+    "correct": 3,
+    "explanation": "சரியான வரிசை (பரப்பளவின் அடிப்படையில் ஏறுவரிசை): Village $\\rightarrow$ Town $\\rightarrow$ District $\\rightarrow$ State $\\rightarrow$ Country.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) District (2) Village (3) State (4) Town (5) Country",
+    "options_en": [
+      "(5), (3), (2), (1), (4)",
+      "(5), (2), (4), (3), (1)",
+      "(2), (1), (5), (3), (4)",
+      "(2), (4), (1), (3), (5)"
+    ],
+    "explanation_en": "Correct order (ascending by area): Village $\\rightarrow$ Town $\\rightarrow$ District $\\rightarrow$ State $\\rightarrow$ Country."
+  },
+  {
+    "id": 12,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Curd (2) Grass (3) Butter (4) Milk (5) Cow",
+    "options": [
+      "(5), (2), (4), (1), (3)",
+      "(5), (2), (3), (4), (1)",
+      "(4), (2), (5), (3), (1)",
+      "(2), (5), (4), (3), (1)"
+    ],
+    "correct": 0,
+    "explanation": "சரியான வரிசை: Cow $\\rightarrow$ Grass $\\rightarrow$ Milk $\\rightarrow$ Curd $\\rightarrow$ Butter. (புத்தக விடைக் குறிப்பின்படி).",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Curd (2) Grass (3) Butter (4) Milk (5) Cow",
+    "options_en": [
+      "(5), (2), (4), (1), (3)",
+      "(5), (2), (3), (4), (1)",
+      "(4), (2), (5), (3), (1)",
+      "(2), (5), (4), (3), (1)"
+    ],
+    "explanation_en": "Correct order: Cow $\\rightarrow$ Grass $\\rightarrow$ Milk $\\rightarrow$ Curd $\\rightarrow$ Butter. (As per Book Answer Key)."
+  },
+  {
+    "id": 13,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Gold (2) Iron (3) Sand (4) Platinum (5) Diamond",
+    "options": [
+      "(2), (4), (3), (5), (1)",
+      "(3), (2), (1), (4), (5)",
+      "(4), (5), (1), (3), (2)",
+      "(5), (4), (3), (2), (1)"
+    ],
+    "correct": 1,
+    "explanation": "சரியான வரிசை (மதிப்பின் அடிப்படையில் ஏறுவரிசை): Sand $\\rightarrow$ Iron $\\rightarrow$ Gold $\\rightarrow$ Platinum $\\rightarrow$ Diamond.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Gold (2) Iron (3) Sand (4) Platinum (5) Diamond",
+    "options_en": [
+      "(2), (4), (3), (5), (1)",
+      "(3), (2), (1), (4), (5)",
+      "(4), (5), (1), (3), (2)",
+      "(5), (4), (3), (2), (1)"
+    ],
+    "explanation_en": "The correct order (ascending by value): Sand $\\rightarrow$ Iron $\\rightarrow$ Gold $\\rightarrow$ Platinum $\\rightarrow$ Diamond."
+  },
+  {
+    "id": 14,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Frog (2) Eagle (3) Grasshopper (4) Snake (5) Grass",
+    "options": [
+      "(5), (3), (4), (2), (1)",
+      "(5), (3), (1), (4), (2)",
+      "(3), (4), (2), (5), (1)",
+      "(1), (3), (5), (2), (4)"
+    ],
+    "correct": 1,
+    "explanation": "சரியான வரிசை (உணவுச் சங்கிலி): Grass $\\rightarrow$ Grasshopper $\\rightarrow$ Frog $\\rightarrow$ Snake $\\rightarrow$ Eagle.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Frog (2) Eagle (3) Grasshopper (4) Snake (5) Grass",
+    "options_en": [
+      "(5), (3), (4), (2), (1)",
+      "(5), (3), (1), (4), (2)",
+      "(3), (4), (2), (5), (1)",
+      "(1), (3), (5), (2), (4)"
+    ],
+    "explanation_en": "Correct order (food chain): Grass $\\rightarrow$ Grasshopper $\\rightarrow$ Frog $\\rightarrow$ Snake $\\rightarrow$ Eagle."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்க்கண்ட வார்த்தைகளை வரிசைப்படுத்தி பொருத்தமான பொருள் தரும் வரிசையை அமைக்க.\n(1) Elephant (2) Cat (3) Mosquito (4) Tiger (5) Whale",
+    "options": [
+      "(1), (3), (5), (4), (2)",
+      "(2), (5), (1), (4), (3)",
+      "(3), (2), (4), (1), (5)",
+      "(5), (3), (1), (2), (4)"
+    ],
+    "correct": 2,
+    "explanation": "சரியான வரிசை (உருவ அளவின் அடிப்படையில் ஏறுவரிசை): Mosquito $\\rightarrow$ Cat $\\rightarrow$ Tiger $\\rightarrow$ Elephant $\\rightarrow$ Whale.",
+    "question_en": "Arrange the following words to form the order that gives the appropriate meaning.\n(1) Elephant (2) Cat (3) Mosquito (4) Tiger (5) Whale",
+    "options_en": [
+      "(1), (3), (5), (4), (2)",
+      "(2), (5), (1), (4), (3)",
+      "(3), (2), (4), (1), (5)",
+      "(5), (3), (1), (2), (4)"
+    ],
+    "explanation_en": "Correct order (ascending by image size): Mosquito $\\rightarrow$ Cat $\\rightarrow$ Tiger $\\rightarrow$ Elephant $\\rightarrow$ Whale."
+  }
+]

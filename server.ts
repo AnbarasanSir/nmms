@@ -1,4 +1,7 @@
 import express, { Request, Response } from 'express';
+import dotenv from 'dotenv';
+dotenv.config({ path: '.env.local' });
+dotenv.config(); // fallback
 import path from 'path';
 import fs from 'fs';
 import { createServer as createViteServer } from 'vite';
@@ -21,7 +24,7 @@ import {
 } from './server/subjectUnitsManager';
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Body parsers with high limit for image/PDF base64 uploads
 app.use(express.json({ limit: '50mb' }));
@@ -1730,10 +1733,6 @@ async function generateWithFallback(params: {
   contents: any;
   config?: any;
 }) {
-  if (!process.env.GEMINI_API_KEY) {
-    throw new Error('GEMINI_API_KEY is not configured on the server. Please check your environment configuration.');
-  }
-
   const modelsToTry = [PRIMARY_MODEL, ...FALLBACK_MODELS];
   let lastError: any = null;
 
@@ -1903,15 +1902,7 @@ Guidelines:
       },
     });
 
-    let parsedJson: any = { extractedQuestions: [] };
-    try {
-      const rawText = response.text?.trim() || '';
-      const cleanJson = rawText.replace(/^```json\s*/i, '').replace(/```$/i, '').trim();
-      parsedJson = JSON.parse(cleanJson || '{"extractedQuestions": []}');
-    } catch (parseErr) {
-      console.warn('Failed to parse Gemini response text as JSON:', response.text);
-      parsedJson = { extractedQuestions: [] };
-    }
+    const parsedJson = JSON.parse(response.text?.trim() || '{"extractedQuestions": []}');
     const formattedQuestions = (parsedJson.extractedQuestions || []).map((q: any, i: number) => ({
       id: `ai-ext-${Date.now()}-${i + 1}`,
       subject: ['MAT', 'SAT_MATHS', 'SAT_SCIENCE', 'SAT_SOCIAL'].includes(q.subject) ? q.subject : (defaultSubject || 'MAT'),
@@ -1929,7 +1920,6 @@ Guidelines:
       negativeMarks: 0,
     }));
 
-    res.setHeader('Content-Type', 'application/json');
     res.json({
       success: true,
       count: formattedQuestions.length,
@@ -1951,7 +1941,6 @@ Guidelines:
       errorMessage = 'The AI model is currently experiencing high demand. Please click "Extract Questions with AI" to try again.';
     }
 
-    res.setHeader('Content-Type', 'application/json');
     res.status(500).json({ error: errorMessage });
   }
 });
@@ -2044,16 +2033,7 @@ Output Requirements:
       },
     });
 
-    let parsed: any = { questions: [] };
-    try {
-      const rawText = response.text?.trim() || '';
-      const cleanJson = rawText.replace(/^```json\s*/i, '').replace(/```$/i, '').trim();
-      parsed = JSON.parse(cleanJson || '{"questions": []}');
-    } catch (parseErr) {
-      console.warn('Failed to parse Gemini generated response text as JSON:', response.text);
-      parsed = { questions: [] };
-    }
-
+    const parsed = JSON.parse(response.text?.trim() || '{"questions": []}');
     const generated = (parsed.questions || []).map((q: any, i: number) => ({
       id: `ai-gen-${Date.now()}-${i + 1}`,
       subject: ['MAT', 'SAT_MATHS', 'SAT_SCIENCE', 'SAT_SOCIAL'].includes(q.subject) ? q.subject : (subject || 'MAT'),
@@ -2066,7 +2046,6 @@ Output Requirements:
       negativeMarks: 0,
     }));
 
-    res.setHeader('Content-Type', 'application/json');
     res.json({ success: true, count: generated.length, questions: generated });
   } catch (err: any) {
     console.error('AI question generation error:', err);
@@ -2084,28 +2063,8 @@ Output Requirements:
       errorMessage = 'The AI service is experiencing high temporary demand. Please click "Generate Questions with AI" to retry.';
     }
 
-    res.setHeader('Content-Type', 'application/json');
     res.status(500).json({ error: errorMessage });
   }
-});
-
-// -------------------------------------------------------------
-// Global Error Handler for Express / Body Parser errors
-// -------------------------------------------------------------
-app.use((err: any, req: Request, res: Response, next: any) => {
-  if (err) {
-    console.error('[Server Request Error]', err.type || err.name, err.message);
-    res.setHeader('Content-Type', 'application/json');
-    if (err.type === 'entity.too.large' || err.status === 413) {
-      return res.status(413).json({
-        error: 'பதிவேற்றப்பட்ட கோப்பின் அளவு மிகவும் அதிகமாக உள்ளது (Payload Too Large). தயவுசெய்து குறைந்த அளவிலான படங்களை பதிவேற்றவும்.',
-      });
-    }
-    return res.status(err.status || 500).json({
-      error: err.message || 'Internal Server Error',
-    });
-  }
-  next();
 });
 
 // -------------------------------------------------------------
@@ -2126,14 +2085,9 @@ async function start() {
     });
   }
 
-  const server = app.listen(PORT, '0.0.0.0', () => {
+  app.listen(PORT, '0.0.0.0', () => {
     console.log(`NMMS Exam Portal server running on port ${PORT}`);
   });
-
-  // Keep-alive and timeout configuration to prevent Cloudflare/Proxy socket disconnects
-  server.setTimeout(180000); // 3 minutes
-  server.keepAliveTimeout = 65000;
-  server.headersTimeout = 66000;
 }
 
 start();

@@ -1,0 +1,2783 @@
+[
+    {
+        "id": 1,
+        "question": "வெவ்வேறு எண் மதிப்புகளை ஏற்கக்கூடியது எது?",
+        "options": [
+            "மாறி",
+            "கோவை",
+            "ஒத்த உறுப்பு",
+            "மாறிலி"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): மாறி",
+        "question_en": "Which of the following can take different numerical values?",
+        "options_en": [
+            "Variable",
+            "Expression",
+            "Like term",
+            "Constant"
+        ],
+        "explanation_en": "Correct answer option (1): Variable"
+    },
+    {
+        "id": 2,
+        "question": "மாறி என்பதன் பொருள்",
+        "options": [
+            "சில மதிப்புகளை மட்டும் ஏற்கக் கூடியது",
+            "நிலையான மதிப்பைக் கொண்டது",
+            "வேறுபட்ட மதிப்புகளை ஏற்கக் கூடியது",
+            "8 மதிப்புகளை மட்டும் ஏற்கக் கூடியது"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): வேறுபட்ட மதிப்புகளை ஏற்கக் கூடியது",
+        "question_en": "The meaning of a variable is",
+        "options_en": [
+            "Can take only some values",
+            "Has a fixed value",
+            "Can take different values",
+            "Can take only 8 values"
+        ],
+        "explanation_en": "Correct answer option (3): Can take different values"
+    },
+    {
+        "id": 3,
+        "question": "16x - 7 என்னும் கோவையின் மாறி",
+        "options": [
+            "16",
+            "x",
+            "16x",
+            "-7"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): x",
+        "question_en": "The variable in the expression 16x - 7 is",
+        "options_en": [
+            "16",
+            "x",
+            "16x",
+            "-7"
+        ],
+        "explanation_en": "Correct answer option (2): x"
+    },
+    {
+        "id": 4,
+        "question": "2y - 6 என்னும் கோவையின் மாறிலி உறுப்பு",
+        "options": [
+            "2y",
+            "2",
+            "-6",
+            "6"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -6",
+        "question_en": "The constant term in the expression 2y - 6 is",
+        "options_en": [
+            "2y",
+            "2",
+            "-6",
+            "6"
+        ],
+        "explanation_en": "Correct answer option (3): -6"
+    },
+    {
+        "id": 5,
+        "question": "-5pqr என்ற உறுப்பில் உள்ள மாறிகள்",
+        "options": [
+            "-5p மற்றும் -5qr",
+            "-q, -p மற்றும் -r",
+            "p, q, r",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): p, q, r",
+        "question_en": "The variables in the term -5pqr are",
+        "options_en": [
+            "-5p and -5qr",
+            "-q, -p and -r",
+            "p, q, r",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (3): p, q, r"
+    },
+    {
+        "id": 6,
+        "question": "-7mn என்னும் உறுப்பின் எண்கெழு",
+        "options": [
+            "7",
+            "-7",
+            "p",
+            "-p"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -7",
+        "question_en": "The numerical coefficient of the term -7mn is",
+        "options_en": [
+            "7",
+            "-7",
+            "p",
+            "-p"
+        ],
+        "explanation_en": "Correct answer option (2): -7"
+    },
+    {
+        "id": 7,
+        "question": "-xy என்னும் உறுப்பின் எண்கெழு ஆகும்.",
+        "options": [
+            "1",
+            "-1",
+            "-x",
+            "-y"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -1",
+        "question_en": "The numerical coefficient of the term -xy is",
+        "options_en": [
+            "1",
+            "-1",
+            "-x",
+            "-y"
+        ],
+        "explanation_en": "Correct answer option (2): -1"
+    },
+    {
+        "id": 8,
+        "question": "x/7 இன் எண்கெழு ஆகும்.",
+        "options": [
+            "7",
+            "x",
+            "1/7",
+            "x/7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1/7",
+        "question_en": "The numerical coefficient of x/7 is",
+        "options_en": [
+            "7",
+            "x",
+            "1/7",
+            "x/7"
+        ],
+        "explanation_en": "Correct answer option (3): 1/7"
+    },
+    {
+        "id": 9,
+        "question": "-m/5 இன் எண்கெழு ஆகும்.",
+        "options": [
+            "1/5",
+            "-1/5",
+            "-5",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -1/5",
+        "question_en": "The numerical coefficient of -m/5 is",
+        "options_en": [
+            "1/5",
+            "-1/5",
+            "-5",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (2): -1/5"
+    },
+    {
+        "id": 10,
+        "question": "ஓர் உறுப்பில் எண் கெழு இல்லாதபோது அதன் எண் கெழு என கருதப்படும்.",
+        "options": [
+            "x",
+            "0",
+            "கோவை",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1",
+        "question_en": "When a term has no numerical coefficient, its numerical coefficient is considered to be",
+        "options_en": [
+            "x",
+            "0",
+            "Expression",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (4): 1"
+    },
+    {
+        "id": 11,
+        "question": "\\( -5x^7 + \\frac{3}{7}x^4 - 3x^3 + 7x^2 - 1 \\) இல் \\( x^3 \\)-ன் கெழு",
+        "options": [
+            "3",
+            "-3",
+            "5",
+            "-5"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -3",
+        "question_en": "The coefficient of \\( x^3 \\) in \\( -5x^7 + \\frac{3}{7}x^4 - 3x^3 + 7x^2 - 1 \\) is",
+        "options_en": [
+            "3",
+            "-3",
+            "5",
+            "-5"
+        ],
+        "explanation_en": "Correct answer option (2): -3"
+    },
+    {
+        "id": 12,
+        "question": "\\( 7x^3 - 14x^2y + 14xy^2 - 5 \\) இல் \\( x^2y \\) இன் கெழு",
+        "options": [
+            "7",
+            "14",
+            "-14",
+            "-5"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -14",
+        "question_en": "The coefficient of \\( x^2y \\) in \\( 7x^3 - 14x^2y + 14xy^2 - 5 \\) is",
+        "options_en": [
+            "7",
+            "14",
+            "-14",
+            "-5"
+        ],
+        "explanation_en": "Correct answer option (3): -14"
+    },
+    {
+        "id": 13,
+        "question": "-7rs இல் s-ன் கெழு",
+        "options": [
+            "-7",
+            "7",
+            "7r",
+            "-7r"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): -7r",
+        "question_en": "The coefficient of s in -7rs is",
+        "options_en": [
+            "-7",
+            "7",
+            "7r",
+            "-7r"
+        ],
+        "explanation_en": "Correct answer option (4): -7r"
+    },
+    {
+        "id": 14,
+        "question": "\\( -5a^3bc \\) இல் \\( 5a^2 \\) இன் கெழு",
+        "options": [
+            "-bc",
+            "\\( a^2bc \\)",
+            "\\( -a^2bc \\)",
+            "-abc"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): -abc",
+        "question_en": "The coefficient of \\( 5a^2 \\) in \\( -5a^3bc \\) is",
+        "options_en": [
+            "-bc",
+            "\\( a^2bc \\)",
+            "\\( -a^2bc \\)",
+            "-abc"
+        ],
+        "explanation_en": "Correct answer option (4): -abc"
+    },
+    {
+        "id": 15,
+        "question": "\\( -\\frac{3}{4}a^2b \\) என்ற உறுப்பில் ab இன் கெழு",
+        "options": [
+            "-3",
+            "+3",
+            "3/4",
+            "\\( -\\frac{3}{4}a \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( -\\frac{3}{4}a \\) (ஆவணத்தின்படி விருப்பம் 4)",
+        "question_en": "The coefficient of ab in \\( -\\frac{3}{4}a^2b \\) is",
+        "options_en": [
+            "-3",
+            "+3",
+            "3/4",
+            "\\( -\\frac{3}{4}a \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( -\\frac{3}{4}a \\)"
+    },
+    {
+        "id": 16,
+        "question": "\\( -\\frac{3}{5}a^3b^3 \\) என்ற உறுப்பில் \\( a^3 \\) இன் கெழு",
+        "options": [
+            "\\( -\\frac{3}{5}b^3 \\)",
+            "\\( \\frac{3}{5}b^3 \\)",
+            "\\( b^3 \\)",
+            "3/5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( -\\frac{3}{5}b^3 \\)",
+        "question_en": "The coefficient of \\( a^3 \\) in \\( -\\frac{3}{5}a^3b^3 \\) is",
+        "options_en": [
+            "\\( -\\frac{3}{5}b^3 \\)",
+            "\\( \\frac{3}{5}b^3 \\)",
+            "\\( b^3 \\)",
+            "3/5"
+        ],
+        "explanation_en": "Correct answer option (1): \\( -\\frac{3}{5}b^3 \\)"
+    },
+    {
+        "id": 17,
+        "question": "\\( -\\frac{4}{3}ab^2 + \\frac{1}{4}bc^2 + 3ca^2 \\) என்ற இயற்கணித கோவையில் உள்ள உறுப்புகளின் எண் கெழுக்களின் பெருக்கற்பலன்",
+        "options": [
+            "1",
+            "1/2",
+            "-1",
+            "3"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -1",
+        "question_en": "The product of the numerical coefficients of the terms in the algebraic expression \\( -\\frac{4}{3}ab^2 + \\frac{1}{4}bc^2 + 3ca^2 \\) is",
+        "options_en": [
+            "1",
+            "1/2",
+            "-1",
+            "3"
+        ],
+        "explanation_en": "Correct answer option (3): -1"
+    },
+    {
+        "id": 18,
+        "question": "ஒத்த உறுப்புகளின் இணையைத் தேர்ந்தெடுக்க:",
+        "options": [
+            "7q, 7x",
+            "7r, 7x",
+            "-4x, 4z",
+            "-4x, 7x"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): -4x, 7x",
+        "question_en": "Select the pair of like terms:",
+        "options_en": [
+            "7q, 7x",
+            "7r, 7x",
+            "-4x, 4z",
+            "-4x, 7x"
+        ],
+        "explanation_en": "Correct answer option (4): -4x, 7x"
+    },
+    {
+        "id": 19,
+        "question": "கீழ்க்கண்டவற்றுள் \\( 14m^2n^2 \\) என்ற உறுப்பின் ஒத்த உறுப்பு எது?",
+        "options": [
+            "\\( 15m^2 \\)",
+            "\\( 15m^2n^2 \\)",
+            "\\( 15n^2 \\)",
+            "\\( 15mn^2 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 15m^2n^2 \\)",
+        "question_en": "Which of the following is a like term to \\( 14m^2n^2 \\)?",
+        "options_en": [
+            "\\( 15m^2 \\)",
+            "\\( 15m^2n^2 \\)",
+            "\\( 15n^2 \\)",
+            "\\( 15mn^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 15m^2n^2 \\)"
+    },
+    {
+        "id": 20,
+        "question": "கீழ்க்கண்டவற்றுள் மாறுபட்ட உறுப்புகள் கொண்ட இணை எது?",
+        "options": [
+            "3xy, 3yx",
+            "-9m, 9m",
+            "n, n",
+            "2pq, 2qr"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 2pq, 2qr",
+        "question_en": "Which of the following pairs contains unlike terms?",
+        "options_en": [
+            "3xy, 3yx",
+            "-9m, 9m",
+            "n, n",
+            "2pq, 2qr"
+        ],
+        "explanation_en": "Correct answer option (4): 2pq, 2qr"
+    },
+    {
+        "id": 21,
+        "question": "3ab + 4c - 9 என்னும் கோவையில் மொத்தம் ___ உறுப்புகள் உள்ளன.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3",
+        "question_en": "The total number of terms in the expression 3ab + 4c - 9 is ___.",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (3): 3"
+    },
+    {
+        "id": 22,
+        "question": "5abc + 5ab + 5a + 5 என்னும் கோவையில் உள்ள உறுப்புகளின் எண்ணிக்கை",
+        "options": [
+            "1",
+            "4",
+            "3",
+            "10"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 4",
+        "question_en": "The number of terms in the expression 5abc + 5ab + 5a + 5 is",
+        "options_en": [
+            "1",
+            "4",
+            "3",
+            "10"
+        ],
+        "explanation_en": "Correct answer option (2): 4"
+    },
+    {
+        "id": 23,
+        "question": "abc + bca + cab என்ற கோவையானது ஒரு",
+        "options": [
+            "ஒருறுப்புக்கோவை",
+            "ஈருறுப்புக்கோவை",
+            "மூவுறுப்புக்கோவை",
+            "பல்லுறுப்புக்கோவை"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): ஒருறுப்புக்கோவை",
+        "question_en": "The expression abc + bca + cab is a",
+        "options_en": [
+            "Monomial",
+            "Binomial",
+            "Trinomial",
+            "Polynomial"
+        ],
+        "explanation_en": "Correct answer option (1): Monomial"
+    },
+    {
+        "id": 24,
+        "question": "பின்வருவனவற்றுள் எது ஈருறுப்புக் கோவை?",
+        "options": [
+            "\\( 9 \\times a + a \\)",
+            "\\( 3a \\times 2b \\times c \\)",
+            "\\( 6a^2 + 5a + c \\)",
+            "\\( 5(a^2 + b) \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 5(a^2 + b) \\)",
+        "question_en": "Which of the following is a binomial expression?",
+        "options_en": [
+            "\\( 9 \\times a + a \\)",
+            "\\( 3a \\times 2b \\times c \\)",
+            "\\( 6a^2 + 5a + c \\)",
+            "\\( 5(a^2 + b) \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 5(a^2 + b) \\)"
+    },
+    {
+        "id": 25,
+        "question": "a=3, b=2 எனில் 7a - 4b இன் மதிப்பு",
+        "options": [
+            "21",
+            "13",
+            "8",
+            "32"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 13",
+        "question_en": "If a=3, b=2, then the value of 7a - 4b is",
+        "options_en": [
+            "21",
+            "13",
+            "8",
+            "32"
+        ],
+        "explanation_en": "Correct answer option (2): 13"
+    },
+    {
+        "id": 26,
+        "question": "x=3, y=1 எனில் xy - 2 என்ற கோவையின் மதிப்பு",
+        "options": [
+            "1",
+            "-4",
+            "-5",
+            "-2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "If x=3, y=1, the value of the expression xy - 2 is",
+        "options_en": [
+            "1",
+            "-4",
+            "-5",
+            "-2"
+        ],
+        "explanation_en": "Correct answer option (1): 1"
+    },
+    {
+        "id": 27,
+        "question": "x=-2 மற்றும் y=2 எனில், 4x - 3y இன் மதிப்பு",
+        "options": [
+            "2",
+            "0",
+            "-14",
+            "14"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -14",
+        "question_en": "If x=-2 and y=2, the value of 4x - 3y is",
+        "options_en": [
+            "2",
+            "0",
+            "-14",
+            "14"
+        ],
+        "explanation_en": "Correct answer option (3): -14"
+    },
+    {
+        "id": 28,
+        "question": "பின்வருவனவற்றுள் k=1 எனில் உச்ச மதிப்பைப் பெறும் கோவை எது?",
+        "options": [
+            "3-k",
+            "k",
+            "2k-1",
+            "-2k"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3-k",
+        "question_en": "Which of the following expressions has the maximum value when k=1?",
+        "options_en": [
+            "3-k",
+            "k",
+            "2k-1",
+            "-2k"
+        ],
+        "explanation_en": "Correct answer option (1): 3-k"
+    },
+    {
+        "id": 29,
+        "question": "p=1, q=2 மற்றும் r=3 எனில் \\( p^2 - q^2 + r^2 - pqr \\) இன் மதிப்பு",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0",
+        "question_en": "If p=1, q=2 and r=3, the value of \\( p^2 - q^2 + r^2 - pqr \\) is",
+        "options_en": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "explanation_en": "Correct answer option (1): 0"
+    },
+    {
+        "id": 30,
+        "question": "m=2, n=-1 எனில், 3m + 2n என்ற கோவையின் மதிப்பு",
+        "options": [
+            "8",
+            "4",
+            "6",
+            "2"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 4",
+        "question_en": "If m=2, n=-1, the value of the expression 3m + 2n is",
+        "options_en": [
+            "8",
+            "4",
+            "6",
+            "2"
+        ],
+        "explanation_en": "Correct answer option (2): 4"
+    },
+    {
+        "id": 31,
+        "question": "p=5 மற்றும் q=6 எனில், pq - p - q என்ற கோவையின் மதிப்பு",
+        "options": [
+            "41",
+            "19",
+            "22",
+            "35"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 19",
+        "question_en": "If p=5 and q=6, the value of the expression pq - p - q is",
+        "options_en": [
+            "41",
+            "19",
+            "22",
+            "35"
+        ],
+        "explanation_en": "Correct answer option (2): 19"
+    },
+    {
+        "id": 32,
+        "question": "கீழ்க்கண்ட கூற்றுகளில் தவறானது எது?\n(i) x + (-x) = 0\n(ii) 15abc என்னும் உறுப்பில் ab-இன் கெழு 15 ஆகும்.\n(iii) 2pq, -7qp ஆகிய ஒத்த உறுப்புகளாகும்.\n(iv) y=-1 எனில், 2y-1 என்ற கோவையின் மதிப்பு 3.",
+        "options": [
+            "i, ii",
+            "i, iii",
+            "ii, iv",
+            "i, ii, iv"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ii, iv",
+        "question_en": "Which of the following statements are incorrect?\n(i) x + (-x) = 0\n(ii) In the term 15abc, the coefficient of ab is 15.\n(iii) 2pq, -7qp are like terms.\n(iv) If y=-1, the value of the expression 2y-1 is 3.",
+        "options_en": [
+            "i, ii",
+            "i, iii",
+            "ii, iv",
+            "i, ii, iv"
+        ],
+        "explanation_en": "Correct answer option (3): ii, iv"
+    },
+    {
+        "id": 33,
+        "question": "P=-15, Q=5 எனில் \\( \\frac{P-Q}{P+Q} = \\)",
+        "options": [
+            "1",
+            "+2",
+            "-1",
+            "-2"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): +2",
+        "question_en": "If P=-15, Q=5, then \\( \\frac{P-Q}{P+Q} = \\)",
+        "options_en": [
+            "1",
+            "+2",
+            "-1",
+            "-2"
+        ],
+        "explanation_en": "Correct answer option (2): +2"
+    },
+    {
+        "id": 34,
+        "question": "a=2, b=3, c=4 எனில், 234 - abc =",
+        "options": [
+            "0",
+            "210",
+            "220",
+            "216"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 210",
+        "question_en": "If a=2, b=3, c=4, then 234 - abc =",
+        "options_en": [
+            "0",
+            "210",
+            "220",
+            "216"
+        ],
+        "explanation_en": "Correct answer option (2): 210"
+    },
+    {
+        "id": 35,
+        "question": "a=3 எனில், \\( (1+\\frac{3}{a}) \\) மற்றும் \\( (2+\\frac{18}{a}+\\frac{15}{a}) \\) இன் பெருக்கற்பலனின் மதிப்பு",
+        "options": [
+            "15",
+            "24",
+            "26",
+            "18"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 26",
+        "question_en": "If a=3, the value of the product of \\( (1+\\frac{3}{a}) \\) and \\( (2+\\frac{18}{a}+\\frac{15}{a}) \\) is",
+        "options_en": [
+            "15",
+            "24",
+            "26",
+            "18"
+        ],
+        "explanation_en": "Correct answer option (3): 26"
+    },
+    {
+        "id": 36,
+        "question": "\\( \\frac{a}{b}=2 \\) மற்றும் \\( \\frac{c}{b}=3 \\) எனில், \\( \\frac{a+b}{b+c} \\) இன் மதிப்பு",
+        "options": [
+            "3/8",
+            "2/3",
+            "3/4",
+            "4/3"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3/4",
+        "question_en": "If \\( \\frac{a}{b}=2 \\) and \\( \\frac{c}{b}=3 \\), then the value of \\( \\frac{a+b}{b+c} \\) is",
+        "options_en": [
+            "3/8",
+            "2/3",
+            "3/4",
+            "4/3"
+        ],
+        "explanation_en": "Correct answer option (3): 3/4"
+    },
+    {
+        "id": 37,
+        "question": "ஒரு கோவையில் கூட்டவோ அல்லது கழிக்கவோ கூடிய உறுப்புகள்",
+        "options": [
+            "ஒத்த உறுப்புகள்",
+            "மாறுபட்ட உறுப்புகள்",
+            "எல்லா உறுப்புகள்",
+            "எதுவுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): ஒத்த உறுப்புகள்",
+        "question_en": "The terms that can be added or subtracted in an expression are",
+        "options_en": [
+            "Like terms",
+            "Unlike terms",
+            "All terms",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (1): Like terms"
+    },
+    {
+        "id": 38,
+        "question": "உறுப்புகளைக் கூட்டுக: 4x, 3x, -7x.",
+        "options": [
+            "7x",
+            "-7x",
+            "0",
+            "14x"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 0",
+        "question_en": "Add the terms: 4x, 3x, -7x.",
+        "options_en": [
+            "7x",
+            "-7x",
+            "0",
+            "14x"
+        ],
+        "explanation_en": "Correct answer option (3): 0"
+    },
+    {
+        "id": 39,
+        "question": "3mn, -5mn, 8mn மற்றும் -4mn இன் கூடுதல்",
+        "options": [
+            "mn",
+            "-mn",
+            "2mn",
+            "3mn"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2mn",
+        "question_en": "The sum of 3mn, -5mn, 8mn and -4mn is",
+        "options_en": [
+            "mn",
+            "-mn",
+            "2mn",
+            "3mn"
+        ],
+        "explanation_en": "Correct answer option (3): 2mn"
+    },
+    {
+        "id": 40,
+        "question": "மாறி x-ன் இரு மடங்கு மற்றும் நான்கு மடங்குகளின் கூடுதல்",
+        "options": [
+            "3x",
+            "6x",
+            "\\( 6x^2 \\)",
+            "x"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 6x",
+        "question_en": "The sum of twice and four times the variable x is",
+        "options_en": [
+            "3x",
+            "6x",
+            "\\( 6x^2 \\)",
+            "x"
+        ],
+        "explanation_en": "Correct answer option (2): 6x"
+    },
+    {
+        "id": 41,
+        "question": "\\( (pq+1) + (pq-1) = \\)",
+        "options": [
+            "pq",
+            "2pq",
+            "2",
+            "0"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2pq",
+        "question_en": "\\( (pq+1) + (pq-1) = \\)",
+        "options_en": [
+            "pq",
+            "2pq",
+            "2",
+            "0"
+        ],
+        "explanation_en": "Correct answer option (2): 2pq"
+    },
+    {
+        "id": 42,
+        "question": "a(b-c), b(c-a) மற்றும் c(a-b) ஆகியவற்றின் கூடுதல்",
+        "options": [
+            "a+b+c",
+            "abc",
+            "1",
+            "0"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 0",
+        "question_en": "The sum of a(b-c), b(c-a) and c(a-b) is",
+        "options_en": [
+            "a+b+c",
+            "abc",
+            "1",
+            "0"
+        ],
+        "explanation_en": "Correct answer option (4): 0"
+    },
+    {
+        "id": 43,
+        "question": "4m + 4n + p உடன் 2m + 3p + n ஐக் கூட்ட கிடைப்பது",
+        "options": [
+            "6m+5n+3p",
+            "6m+7p+2n",
+            "6m+5n+4p",
+            "6m²+4np+pn"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 6m+5n+4p",
+        "question_en": "Adding 2m + 3p + n to 4m + 4n + p gives",
+        "options_en": [
+            "6m+5n+3p",
+            "6m+7p+2n",
+            "6m+5n+4p",
+            "6m²+4np+pn"
+        ],
+        "explanation_en": "Correct answer option (3): 6m+5n+4p"
+    },
+    {
+        "id": 44,
+        "question": "6ab - 2bc, -2bc + 7ca, 2bc + 11ca - 2ab ஆகியவற்றின் கூடுதல்",
+        "options": [
+            "2ab+4bc-23ca",
+            "2ab+13ca+2a",
+            "10ab+4bc+23ca+2a",
+            "10ab-2bc-13ca+2a"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2ab+13ca+2a (ஆவணத்தின்படி)",
+        "question_en": "The sum of 6ab - 2bc, -2bc + 7ca, 2bc + 11ca - 2ab is",
+        "options_en": [
+            "2ab+4bc-23ca",
+            "2ab+13ca+2a",
+            "10ab+4bc+23ca+2a",
+            "10ab-2bc-13ca+2a"
+        ],
+        "explanation_en": "Correct answer option (2): 2ab+13ca+2a (as per document)"
+    },
+    {
+        "id": 45,
+        "question": "x+3y, 2x+y, x-y ஆகியனவற்றைப் பக்கங்களாகக் கொண்ட முக்கோணத்தின் சுற்றளவு",
+        "options": [
+            "4x+5y",
+            "4x+4y",
+            "4x+3y",
+            "4x-3y"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 4x+3y",
+        "question_en": "The perimeter of a triangle whose sides are x+3y, 2x+y, x-y is",
+        "options_en": [
+            "4x+5y",
+            "4x+4y",
+            "4x+3y",
+            "4x-3y"
+        ],
+        "explanation_en": "Correct answer option (3): 4x+3y"
+    },
+    {
+        "id": 46,
+        "question": "\\( 2a + \\frac{b}{3} + 3c \\) மற்றும் \\( a + \\frac{1}{3}b + \\frac{2}{5}c \\) ஆகியவற்றின் கூடுதல்",
+        "options": [
+            "\\( 3a + \\frac{2b}{3} + c \\)",
+            "\\( 3a + \\frac{4}{3}b + \\frac{15}{5}c \\)",
+            "\\( 3a + \\frac{4}{3}b + c \\)",
+            "\\( 3a + \\frac{4}{3}b + \\frac{17}{5}c \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 3a + \\frac{4}{3}b + \\frac{17}{5}c \\)",
+        "question_en": "The sum of \\( 2a + \\frac{b}{3} + 3c \\) and \\( a + \\frac{1}{3}b + \\frac{2}{5}c \\) is",
+        "options_en": [
+            "\\( 3a + \\frac{2b}{3} + c \\)",
+            "\\( 3a + \\frac{4}{3}b + \\frac{15}{5}c \\)",
+            "\\( 3a + \\frac{4}{3}b + c \\)",
+            "\\( 3a + \\frac{4}{3}b + \\frac{17}{5}c \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 3a + \\frac{4}{3}b + \\frac{17}{5}c \\)"
+    },
+    {
+        "id": 47,
+        "question": "x - 9y + 8x - 7y + 6x - 5y இன் மதிப்பு",
+        "options": [
+            "24x-21y",
+            "24x+21y",
+            "21x-24y",
+            "21x+24y"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 24x-21y (ஆவணத்தின்படி)",
+        "question_en": "The value of x - 9y + 8x - 7y + 6x - 5y is",
+        "options_en": [
+            "24x-21y",
+            "24x+21y",
+            "21x-24y",
+            "21x+24y"
+        ],
+        "explanation_en": "Correct answer option (1): 24x-21y (as per document)"
+    },
+    {
+        "id": 48,
+        "question": "100x + 99y - 98z + 10x + 10y + 10z - x - y + z இன் கூடுதல்",
+        "options": [
+            "109x-108y+87z",
+            "109x+108y-87z",
+            "111x+11y+111z",
+            "109x+108y-109z"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 109x+108y-87z",
+        "question_en": "The sum of 100x + 99y - 98z + 10x + 10y + 10z - x - y + z is",
+        "options_en": [
+            "109x-108y+87z",
+            "109x+108y-87z",
+            "111x+11y+111z",
+            "109x+108y-109z"
+        ],
+        "explanation_en": "Correct answer option (2): 109x+108y-87z"
+    },
+    {
+        "id": 49,
+        "question": "8x - 9x + 12 என்ற கோவையின் சுருக்கிய வடிவம்",
+        "options": [
+            "x+12",
+            "x-12",
+            "-x+12",
+            "17x+12"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -x+12",
+        "question_en": "The simplified form of the expression 8x - 9x + 12 is",
+        "options_en": [
+            "x+12",
+            "x-12",
+            "-x+12",
+            "17x+12"
+        ],
+        "explanation_en": "Correct answer option (3): -x+12"
+    },
+    {
+        "id": 50,
+        "question": "'a' இலிருந்து '-a' ஐக் கழிக்கும்போது நமக்குக் கிடைப்பது",
+        "options": [
+            "0",
+            "2a",
+            "-2a",
+            "-a"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2a",
+        "question_en": "When we subtract '-a' from 'a', we get",
+        "options_en": [
+            "0",
+            "2a",
+            "-2a",
+            "-a"
+        ],
+        "explanation_en": "Correct answer option (2): 2a"
+    },
+    {
+        "id": 51,
+        "question": "(10a - 7ab - 8b - 11) - (-a + 2ab - 3b + 7) =",
+        "options": [
+            "-11a+9ab+5b+18",
+            "-9a+9ab+5b+18",
+            "9a-9ab-5b-18",
+            "11a-9ab-5b-18"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 11a-9ab-5b-18",
+        "question_en": "(10a - 7ab - 8b - 11) - (-a + 2ab - 3b + 7) =",
+        "options_en": [
+            "-11a+9ab+5b+18",
+            "-9a+9ab+5b+18",
+            "9a-9ab-5b-18",
+            "11a-9ab-5b-18"
+        ],
+        "explanation_en": "Correct answer option (4): 11a-9ab-5b-18"
+    },
+    {
+        "id": 52,
+        "question": "\\( x^2y^3 \\) இலிருந்து \\( -3x^2y^3 \\) ஐக் கழிக்கக் கிடைப்பது",
+        "options": [
+            "\\( -4x^2y^3 \\)",
+            "\\( -2x^2y^3 \\)",
+            "\\( 2x^2y^3 \\)",
+            "\\( 4x^2y^3 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 4x^2y^3 \\)",
+        "question_en": "Subtracting \\( -3x^2y^3 \\) from \\( x^2y^3 \\) gives",
+        "options_en": [
+            "\\( -4x^2y^3 \\)",
+            "\\( -2x^2y^3 \\)",
+            "\\( 2x^2y^3 \\)",
+            "\\( 4x^2y^3 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 4x^2y^3 \\)"
+    },
+    {
+        "id": 53,
+        "question": "(6x - 2) - (3x + 2) =",
+        "options": [
+            "3x+2",
+            "9x-4",
+            "3x+4",
+            "3x-4"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 3x-4",
+        "question_en": "(6x - 2) - (3x + 2) =",
+        "options_en": [
+            "3x+2",
+            "9x-4",
+            "3x+4",
+            "3x-4"
+        ],
+        "explanation_en": "Correct answer option (4): 3x-4"
+    },
+    {
+        "id": 54,
+        "question": "-37xyz-ன் கூட்டல் நேர்மாறு",
+        "options": [
+            "1",
+            "0",
+            "37xyz",
+            "-37xyz"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 37xyz",
+        "question_en": "The additive inverse of -37xyz is",
+        "options_en": [
+            "1",
+            "0",
+            "37xyz",
+            "-37xyz"
+        ],
+        "explanation_en": "Correct answer option (3): 37xyz"
+    },
+    {
+        "id": 55,
+        "question": "பொருத்துக: (i) 12ab இன் எண்கெழு (ii) x இன் தொடரி (iii) 3x+2 இலிருந்து 2x+3 ஐக் கழிக்கக் கிடைப்பது (iv) -12x இன் கூட்டல் நேர்மாறு (v) 3a, 4a, 5a இன் கூடுதல்\n(a) 12a  (b) 12x  (c) x+1  (d) x-1  (e) 12",
+        "options": [
+            "i-e, ii-d, iii-c, iv-a, v-b",
+            "i-a, ii-d, iii-b, iv-c, v-e",
+            "i-e, ii-c, iii-d, iv-b, v-a",
+            "i-a, ii-d, iii-c, iv-e, v-b"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): i-e, ii-c, iii-d, iv-b, v-a",
+        "question_en": "Match the following: (i) Coefficient of 12ab (ii) Successor of x (iii) Result of subtracting 2x+3 from 3x+2 (iv) Additive inverse of -12x (v) Sum of 3a, 4a, 5a\n(a) 12a  (b) 12x  (c) x+1  (d) x-1  (e) 12",
+        "options_en": [
+            "i-e, ii-d, iii-c, iv-a, v-b",
+            "i-a, ii-d, iii-b, iv-c, v-e",
+            "i-e, ii-c, iii-d, iv-b, v-a",
+            "i-a, ii-d, iii-c, iv-e, v-b"
+        ],
+        "explanation_en": "Correct answer option (3): i-e, ii-c, iii-d, iv-b, v-a"
+    },
+    {
+        "id": 56,
+        "question": "5a - 3b + 2c உடன் எந்த கோவையைக் கூட்டினால் 2a - 4b - 2c கிடைக்கும்?",
+        "options": [
+            "6a-3b+2c",
+            "3a+b+4c",
+            "7a-7b",
+            "-3a-b-4c"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): -3a-b-4c",
+        "question_en": "Which expression should be added to 5a - 3b + 2c to get 2a - 4b - 2c?",
+        "options_en": [
+            "6a-3b+2c",
+            "3a+b+4c",
+            "7a-7b",
+            "-3a-b-4c"
+        ],
+        "explanation_en": "Correct answer option (4): -3a-b-4c"
+    },
+    {
+        "id": 57,
+        "question": "5x + 8y என்ற கோவையைப் பெற, 3x + 6y உடன் எதனைக் கூட்ட வேண்டும்?",
+        "options": [
+            "-2x-2y",
+            "2x-2y",
+            "2x+2y",
+            "8x+14y"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2x+2y",
+        "question_en": "What must be added to 3x + 6y to get 5x + 8y?",
+        "options_en": [
+            "-2x-2y",
+            "2x-2y",
+            "2x+2y",
+            "8x+14y"
+        ],
+        "explanation_en": "Correct answer option (3): 2x+2y"
+    },
+    {
+        "id": 58,
+        "question": "5ab - 3b + 2c ஐ விட 2ab + 4b - c என்பது எவ்வளவு சிறிய கோவை?",
+        "options": [
+            "3ab-7b+3c",
+            "3ab-b+3c",
+            "7ab+b+c",
+            "7ab-7b-3c"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3ab-7b+3c",
+        "question_en": "By how much is 2ab + 4b - c smaller than 5ab - 3b + 2c?",
+        "options_en": [
+            "3ab-7b+3c",
+            "3ab-b+3c",
+            "7ab+b+c",
+            "7ab-7b-3c"
+        ],
+        "explanation_en": "Correct answer option (1): 3ab-7b+3c"
+    },
+    {
+        "id": 59,
+        "question": "2m + 8n + 10 இலிருந்து எதனைக் கழித்தால் -3m + 7n + 16 கிடைக்கும்?",
+        "options": [
+            "5m+15n+26",
+            "5m+n-6",
+            "-m+15n+26",
+            "5m-n-6"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 5m+n-6",
+        "question_en": "What should be subtracted from 2m + 8n + 10 to get -3m + 7n + 16?",
+        "options_en": [
+            "5m+15n+26",
+            "5m+n-6",
+            "-m+15n+26",
+            "5m-n-6"
+        ],
+        "explanation_en": "Correct answer option (2): 5m+n-6"
+    },
+    {
+        "id": 60,
+        "question": "A = 2x + 3xy + 7x², B = 3x - 2xy - 5x², C = 2xy - 6x² - 3x எனில், A + B - C =",
+        "options": [
+            "8x+xy-8x²",
+            "-8x-xy",
+            "8x²-xy-18x",
+            "8x²-xy+8x"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 8x²-xy+8x",
+        "question_en": "If A = 2x + 3xy + 7x², B = 3x - 2xy - 5x², C = 2xy - 6x² - 3x, then A + B - C =",
+        "options_en": [
+            "8x+xy-8x²",
+            "-8x-xy",
+            "8x²-xy-18x",
+            "8x²-xy+8x"
+        ],
+        "explanation_en": "Correct answer option (4): 8x²-xy+8x"
+    },
+    {
+        "id": 61,
+        "question": "x = 3a² - 5b², y = 6a² + 3b² மற்றும் z = 2b² - 4a² எனில், x + y - z க்குச் சமமானது",
+        "options": [
+            "4a²-13b²",
+            "13a²-4b²",
+            "4b²-13a²",
+            "13b²-4a²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 13a²-4b²",
+        "question_en": "If x = 3a² - 5b², y = 6a² + 3b² and z = 2b² - 4a², then x + y - z is equal to",
+        "options_en": [
+            "4a²-13b²",
+            "13a²-4b²",
+            "4b²-13a²",
+            "13b²-4a²"
+        ],
+        "explanation_en": "Correct answer option (2): 13a²-4b²"
+    },
+    {
+        "id": 62,
+        "question": "ஒரு கடைக்காரர் ஒரு கைப்பேசியை ₹(30x² + 20y + 17) க்கு விற்பனை செய்கிறார். அவருக்கு ₹(15x² + 17y - 3) இலாபம் கிடைக்கிறது எனில் கைப்பேசியின் அடக்க விலை எவ்வளவு?",
+        "options": [
+            "15x²-3y-20",
+            "15x²-3y+20",
+            "15x²+3y+20",
+            "-15x²+3y-20"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 15x²+3y+20",
+        "question_en": "A shopkeeper sells a mobile phone for ₹(30x² + 20y + 17). If his profit is ₹(15x² + 17y - 3), what is the cost price of the mobile phone?",
+        "options_en": [
+            "15x²-3y-20",
+            "15x²-3y+20",
+            "15x²+3y+20",
+            "-15x²+3y-20"
+        ],
+        "explanation_en": "Correct answer option (3): 15x²+3y+20"
+    },
+    {
+        "id": 63,
+        "question": "a+b=15, b+c=15, c+a=8 எனில், (a+b+c) இன் மதிப்பு",
+        "options": [
+            "18",
+            "19",
+            "16",
+            "20"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 19",
+        "question_en": "If a+b=15, b+c=15, c+a=8, then the value of (a+b+c) is",
+        "options_en": [
+            "18",
+            "19",
+            "16",
+            "20"
+        ],
+        "explanation_en": "Correct answer option (2): 19"
+    },
+    {
+        "id": 64,
+        "question": "a² + ab + b² என்ற கோவையுடன் எந்த கோவையைக் கூட்டினால் 2a² + 4ab என்ற கோவை கிடைக்கும்?",
+        "options": [
+            "a²+2ab+b²",
+            "a²+3ab-b²",
+            "a²-2ab+b²",
+            "a²-2ab-b²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): a²+3ab-b²",
+        "question_en": "Which expression should be added to a² + ab + b² to get 2a² + 4ab?",
+        "options_en": [
+            "a²+2ab+b²",
+            "a²+3ab-b²",
+            "a²-2ab+b²",
+            "a²-2ab-b²"
+        ],
+        "explanation_en": "Correct answer option (2): a²+3ab-b²"
+    },
+    {
+        "id": 65,
+        "question": "ஒரு வட்டத்தின் ஆரம் 7ab - 7bc - 14ac எனில், அவ்வட்டத்தின் சுற்றளவு (π = 22/7)",
+        "options": [
+            "22(ab-bc-2ac)",
+            "7(ab-bc-2ac)",
+            "-7(ab-bc-2ac)",
+            "44(ab-bc-2ac)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 44(ab-bc-2ac)",
+        "question_en": "If the radius of a circle is 7ab - 7bc - 14ac, its circumference is (π = 22/7)",
+        "options_en": [
+            "22(ab-bc-2ac)",
+            "7(ab-bc-2ac)",
+            "-7(ab-bc-2ac)",
+            "44(ab-bc-2ac)"
+        ],
+        "explanation_en": "Correct answer option (4): 44(ab-bc-2ac)"
+    },
+    {
+        "id": 66,
+        "question": "ஒரு கோவையை மற்றொரு கோவைக்குச் சமப்படுத்துவதை _____ என்பர்.",
+        "options": [
+            "சமன்பாடு",
+            "கோவை",
+            "ஒத்த உறுப்பு",
+            "மாறிலி"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): சமன்பாடு",
+        "question_en": "Equating one expression to another is called an _____",
+        "options_en": [
+            "Equation",
+            "Expression",
+            "Like term",
+            "Constant"
+        ],
+        "explanation_en": "Correct answer option (1): Equation"
+    },
+    {
+        "id": 67,
+        "question": "3, 6, 9, 12,..என்னும் எண் அமைப்பின் பொது வடிவம்",
+        "options": [
+            "n",
+            "2n",
+            "3n",
+            "4n"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3n",
+        "question_en": "The general form of the number pattern 3, 6, 9, 12,.. is",
+        "options_en": [
+            "n",
+            "2n",
+            "3n",
+            "4n"
+        ],
+        "explanation_en": "Correct answer option (3): 3n"
+    },
+    {
+        "id": 68,
+        "question": "3x + 5 = x + 9 என்பதன் தீர்வு",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2",
+        "question_en": "The solution to 3x + 5 = x + 9 is",
+        "options_en": [
+            "2",
+            "3",
+            "5",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (1): 2"
+    },
+    {
+        "id": 69,
+        "question": "y + 1 = 0 என்னும் சமன்பாடு, y-ன் எம்மதிப்பிற்கு உண்மையாகும்?",
+        "options": [
+            "0",
+            "-1",
+            "1",
+            "-2"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -1",
+        "question_en": "For what value of y is the equation y + 1 = 0 true?",
+        "options_en": [
+            "0",
+            "-1",
+            "1",
+            "-2"
+        ],
+        "explanation_en": "Correct answer option (2): -1"
+    },
+    {
+        "id": 70,
+        "question": "x + 5 = 8 என்ற சமன்பாட்டின் தீர்வு",
+        "options": [
+            "13",
+            "3",
+            "-3",
+            "12"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3",
+        "question_en": "The solution of the equation x + 5 = 8 is",
+        "options_en": [
+            "13",
+            "3",
+            "-3",
+            "12"
+        ],
+        "explanation_en": "Correct answer option (2): 3"
+    },
+    {
+        "id": 71,
+        "question": "p - 3 = 7 என்ற சமன்பாட்டின் தீர்வு",
+        "options": [
+            "-10",
+            "11",
+            "10",
+            "12"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 10",
+        "question_en": "The solution of the equation p - 3 = 7 is",
+        "options_en": [
+            "-10",
+            "11",
+            "10",
+            "12"
+        ],
+        "explanation_en": "Correct answer option (3): 10"
+    },
+    {
+        "id": 72,
+        "question": "2x = 30 என்ற சமன்பாட்டின் தீர்வு",
+        "options": [
+            "-15",
+            "28",
+            "32",
+            "15"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 15",
+        "question_en": "The solution of the equation 2x = 30 is",
+        "options_en": [
+            "-15",
+            "28",
+            "32",
+            "15"
+        ],
+        "explanation_en": "Correct answer option (4): 15"
+    },
+    {
+        "id": 73,
+        "question": "m / 6 = 5 எனில் m =",
+        "options": [
+            "36",
+            "30",
+            "11",
+            "-1"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 30",
+        "question_en": "If m / 6 = 5, then m =",
+        "options_en": [
+            "36",
+            "30",
+            "11",
+            "-1"
+        ],
+        "explanation_en": "Correct answer option (2): 30"
+    },
+    {
+        "id": 74,
+        "question": "7x + 10 = 80 என்ற சமன்பாட்டின் தீர்வு",
+        "options": [
+            "7",
+            "10",
+            "-10",
+            "9"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 10",
+        "question_en": "The solution of the equation 7x + 10 = 80 is",
+        "options_en": [
+            "7",
+            "10",
+            "-10",
+            "9"
+        ],
+        "explanation_en": "Correct answer option (2): 10"
+    },
+    {
+        "id": 75,
+        "question": "-1 ஐத் தீர்வாகக் கொண்டிராத சமன்பாடு எது?",
+        "options": [
+            "x+1=0",
+            "3x+4=1",
+            "5x+7=2",
+            "x-1=2"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): x-1=2",
+        "question_en": "Which of the following equations does not have -1 as its solution?",
+        "options_en": [
+            "x+1=0",
+            "3x+4=1",
+            "5x+7=2",
+            "x-1=2"
+        ],
+        "explanation_en": "Correct answer option (4): x-1=2"
+    },
+    {
+        "id": 76,
+        "question": "x + 2 = 3x + 6 எனும் சமன்பாடு x-ன் எம்மதிப்பிற்கு உண்மையாகும்?",
+        "options": [
+            "0",
+            "-2",
+            "2",
+            "1"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -2",
+        "question_en": "For what value of x is the equation x + 2 = 3x + 6 true?",
+        "options_en": [
+            "0",
+            "-2",
+            "2",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (2): -2"
+    },
+    {
+        "id": 77,
+        "question": "b = -2 மற்றும் 11a - 3b = 50 எனில், a-இன் மதிப்பு",
+        "options": [
+            "2",
+            "5",
+            "4",
+            "3"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 4",
+        "question_en": "If b = -2 and 11a - 3b = 50, the value of a is",
+        "options_en": [
+            "2",
+            "5",
+            "4",
+            "3"
+        ],
+        "explanation_en": "Correct answer option (3): 4"
+    },
+    {
+        "id": 78,
+        "question": "3m + 5 = m + 15 எனில் 4m - 9 இன் மதிப்பு",
+        "options": [
+            "29",
+            "11",
+            "17",
+            "15"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 11",
+        "question_en": "If 3m + 5 = m + 15, the value of 4m - 9 is",
+        "options_en": [
+            "29",
+            "11",
+            "17",
+            "15"
+        ],
+        "explanation_en": "Correct answer option (2): 11"
+    },
+    {
+        "id": 79,
+        "question": "\\( \\frac{x}{y} = \\frac{14}{2} \\) எனில் பின்வருவனவற்றுள் எது தவறானது?",
+        "options": [
+            "\\( \\frac{14}{2}y - x = 0 \\)",
+            "\\( 2y - 14x = 0 \\)",
+            "\\( 2x - 14y = 0 \\)",
+            "\\( \\frac{x+y}{x-y} = \\frac{16}{12} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 2y - 14x = 0 \\)",
+        "question_en": "If \\( \\frac{x}{y} = \\frac{14}{2} \\), which of the following is incorrect?",
+        "options_en": [
+            "\\( \\frac{14}{2}y - x = 0 \\)",
+            "\\( 2y - 14x = 0 \\)",
+            "\\( 2x - 14y = 0 \\)",
+            "\\( \\frac{x+y}{x-y} = \\frac{16}{12} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 2y - 14x = 0 \\)"
+    },
+    {
+        "id": 80,
+        "question": "\\( \\frac{3}{4}(m-1) = m-3 \\) எனில் m இன் மதிப்பு",
+        "options": [
+            "9",
+            "6",
+            "3",
+            "12"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 9",
+        "question_en": "If \\( \\frac{3}{4}(m-1) = m-3 \\), the value of m is",
+        "options_en": [
+            "9",
+            "6",
+            "3",
+            "12"
+        ],
+        "explanation_en": "Correct answer option (1): 9"
+    },
+    {
+        "id": 81,
+        "question": "\\( \\frac{x+0.7x}{2}=0.85 \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "2",
+            "-1",
+            "0",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1",
+        "question_en": "If \\( \\frac{x+0.7x}{2}=0.85 \\), the value of x is",
+        "options_en": [
+            "2",
+            "-1",
+            "0",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (4): 1"
+    },
+    {
+        "id": 82,
+        "question": "\\( \\frac{m}{2}-1=\\frac{m}{3}+4 \\) எனில் m இன் மதிப்பு",
+        "options": [
+            "20",
+            "24",
+            "30",
+            "42"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 30",
+        "question_en": "If \\( \\frac{m}{2}-1=\\frac{m}{3}+4 \\), the value of m is",
+        "options_en": [
+            "20",
+            "24",
+            "30",
+            "42"
+        ],
+        "explanation_en": "Correct answer option (3): 30"
+    },
+    {
+        "id": 83,
+        "question": "\\( \\frac{x}{7}+30=18 \\) இன் தீர்வு",
+        "options": [
+            "+84",
+            "-84",
+            "48",
+            "-48"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -84",
+        "question_en": "The solution for \\( \\frac{x}{7}+30=18 \\) is",
+        "options_en": [
+            "+84",
+            "-84",
+            "48",
+            "-48"
+        ],
+        "explanation_en": "Correct answer option (2): -84"
+    },
+    {
+        "id": 84,
+        "question": "\\( \\frac{x}{7} + \\frac{1}{7} = 3 \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "20",
+            "7",
+            "3",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 20",
+        "question_en": "If \\( \\frac{x}{7} + \\frac{1}{7} = 3 \\), the value of x is",
+        "options_en": [
+            "20",
+            "7",
+            "3",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (1): 20"
+    },
+    {
+        "id": 85,
+        "question": "\\( \\frac{1}{x}+\\frac{1}{4}=\\frac{7}{12} \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "3",
+            "4",
+            "7",
+            "12"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3",
+        "question_en": "If \\( \\frac{1}{x}+\\frac{1}{4}=\\frac{7}{12} \\), the value of x is",
+        "options_en": [
+            "3",
+            "4",
+            "7",
+            "12"
+        ],
+        "explanation_en": "Correct answer option (1): 3"
+    },
+    {
+        "id": 86,
+        "question": "\\( \\frac{2x+7}{5}=\\frac{3x+11}{2} \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "\\( \\frac{41}{11} \\)",
+            "\\( \\frac{-41}{11} \\)",
+            "\\( \\frac{11}{41} \\)",
+            "\\( \\frac{-11}{41} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\frac{-41}{11} \\)",
+        "question_en": "If \\( \\frac{2x+7}{5}=\\frac{3x+11}{2} \\), the value of x is",
+        "options_en": [
+            "\\( \\frac{41}{11} \\)",
+            "\\( \\frac{-41}{11} \\)",
+            "\\( \\frac{11}{41} \\)",
+            "\\( \\frac{-11}{41} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\frac{-41}{11} \\)"
+    },
+    {
+        "id": 87,
+        "question": "\\( \\frac{x}{y}=7 \\) எனில், \\( \\frac{x-y}{x+y} = \\)",
+        "options": [
+            "\\( \\frac{3}{7} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( \\frac{3}{4} \\)",
+            "\\( \\frac{4}{3} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( \\frac{3}{4} \\)",
+        "question_en": "If \\( \\frac{x}{y}=7 \\), then \\( \\frac{x-y}{x+y} = \\)",
+        "options_en": [
+            "\\( \\frac{3}{7} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( \\frac{3}{4} \\)",
+            "\\( \\frac{4}{3} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( \\frac{3}{4} \\)"
+    },
+    {
+        "id": 88,
+        "question": "பொருத்துக: (i) x+2=12, (ii) y-9=(-5)+7, (iii) 8m=-56, (iv) 2p/3=10, (v) -x+6=10\n(a) 11, (b) 15, (c) -4, (d) 10, (e) -7",
+        "options": [
+            "i-a, ii-d, iii-e, iv-b, v-c",
+            "i-d, ii-c, iii-a, iv-e, v-b",
+            "i-d, ii-e, iii-b, iv-a, v-c",
+            "i-d, ii-a, iii-e, iv-b, v-c"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): i-d, ii-a, iii-e, iv-b, v-c",
+        "question_en": "Match the following: (i) x+2=12, (ii) y-9=(-5)+7, (iii) 8m=-56, (iv) 2p/3=10, (v) -x+6=10\n(a) 11, (b) 15, (c) -4, (d) 10, (e) -7",
+        "options_en": [
+            "i-a, ii-d, iii-e, iv-b, v-c",
+            "i-d, ii-c, iii-a, iv-e, v-b",
+            "i-d, ii-e, iii-b, iv-a, v-c",
+            "i-d, ii-a, iii-e, iv-b, v-c"
+        ],
+        "explanation_en": "Correct answer option (4): i-d, ii-a, iii-e, iv-b, v-c"
+    },
+    {
+        "id": 89,
+        "question": "x ஓர் இயல் எண் எனில், அதன் முன்னி",
+        "options": [
+            "x+1",
+            "x",
+            "x-1",
+            "எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): x-1",
+        "question_en": "If x is a natural number, its predecessor is",
+        "options_en": [
+            "x+1",
+            "x",
+            "x-1",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (3): x-1"
+    },
+    {
+        "id": 90,
+        "question": "கீழ்க்கண்டவற்றுள் 8-இன் அடுத்தடுத்த மூன்று மடங்குகளைக் குறிப்பவை எவை?",
+        "options": [
+            "8x, x+8, x+16",
+            "8x, 8x+8, x+16",
+            "x, x+8, x+16",
+            "8x, 8(x+1), 8(x+2)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 8x, 8(x+1), 8(x+2)",
+        "question_en": "Which of the following represents three consecutive multiples of 8?",
+        "options_en": [
+            "8x, x+8, x+16",
+            "8x, 8x+8, x+16",
+            "x, x+8, x+16",
+            "8x, 8(x+1), 8(x+2)"
+        ],
+        "explanation_en": "Correct answer option (4): 8x, 8(x+1), 8(x+2)"
+    },
+    {
+        "id": 91,
+        "question": "பக்கம் 'a' அலகு உள்ள ஒரு சதுரத்தின் சுற்றளவு",
+        "options": [
+            "4a",
+            "3a",
+            "a×a",
+            "a+a"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4a",
+        "question_en": "The perimeter of a square with side 'a' units is",
+        "options_en": [
+            "4a",
+            "3a",
+            "a×a",
+            "a+a"
+        ],
+        "explanation_en": "Correct answer option (1): 4a"
+    },
+    {
+        "id": 92,
+        "question": "'z' வாரங்களில் உள்ள நாள்களின் எண்ணிக்கை",
+        "options": [
+            "30+z",
+            "30z",
+            "7+z",
+            "7z"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 7z",
+        "question_en": "The number of days in 'z' weeks is",
+        "options_en": [
+            "30+z",
+            "30z",
+            "7+z",
+            "7z"
+        ],
+        "explanation_en": "Correct answer option (4): 7z"
+    },
+    {
+        "id": 93,
+        "question": "'t' இலிருந்து 10 ஐக் கழிக்க 20 கிடைக்கிறது என்பதைக் குறிக்கும் இயற்கணிதச் சமன்பாடு?",
+        "options": [
+            "t-10=20",
+            "10-t=20",
+            "20-t=10",
+            "t-20=10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): t-10=20",
+        "question_en": "The algebraic equation representing \"Subtracting 10 from 't' gives 20\" is",
+        "options_en": [
+            "t-10=20",
+            "10-t=20",
+            "20-t=10",
+            "t-20=10"
+        ],
+        "explanation_en": "Correct answer option (1): t-10=20"
+    },
+    {
+        "id": 94,
+        "question": "\"y மற்றும் z இன் கூடுதலின் இரண்டு மடங்கு\" என்பதைக் குறிக்கும் இயற்கணிதக் கோவை?",
+        "options": [
+            "2y+z",
+            "(2+y)z",
+            "2(y+z)",
+            "y+2z"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2(y+z)",
+        "question_en": "The algebraic expression for \"Twice the sum of y and z\" is",
+        "options_en": [
+            "2y+z",
+            "(2+y)z",
+            "2(y+z)",
+            "y+2z"
+        ],
+        "explanation_en": "Correct answer option (3): 2(y+z)"
+    },
+    {
+        "id": 95,
+        "question": "\"x மற்றும் y இன் பெருக்கலில் இருந்து 5 குறைவு\" என்பதைக் குறிக்கும் இயற்கணிதக் கோவை",
+        "options": [
+            "x-5y",
+            "5x-y",
+            "5-xy",
+            "xy-5"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): xy-5",
+        "question_en": "The algebraic expression for \"5 less than the product of x and y\" is",
+        "options_en": [
+            "x-5y",
+            "5x-y",
+            "5-xy",
+            "xy-5"
+        ],
+        "explanation_en": "Correct answer option (4): xy-5"
+    },
+    {
+        "id": 96,
+        "question": "x மற்றும் y இன் கூடுதலின் மூன்று மடங்கு என்னும் வாய்மொழிக் கூற்றுக்குப் பொருத்தமான இயற்கணிதக் கோவை",
+        "options": [
+            "3(x+y)",
+            "3+x+y",
+            "3x+y",
+            "3+xy"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3(x+y)",
+        "question_en": "The algebraic expression for the verbal statement \"Thrice the sum of x and y\" is",
+        "options_en": [
+            "3(x+y)",
+            "3+x+y",
+            "3x+y",
+            "3+xy"
+        ],
+        "explanation_en": "Correct answer option (1): 3(x+y)"
+    },
+    {
+        "id": 97,
+        "question": "\"a மற்றும் b இன் கூடுதலை 20-இலிருந்து குறைக்க\" என்ற கூற்று குறிக்கும் இயற்கணிதக் கோவை",
+        "options": [
+            "20-a+b",
+            "(a+b)-20",
+            "20-(a+b)",
+            "(a+20)+(b-20)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 20-(a+b)",
+        "question_en": "The algebraic expression for the statement \"Subtract the sum of a and b from 20\" is",
+        "options_en": [
+            "20-a+b",
+            "(a+b)-20",
+            "20-(a+b)",
+            "(a+20)+(b-20)"
+        ],
+        "explanation_en": "Correct answer option (3): 20-(a+b)"
+    },
+    {
+        "id": 98,
+        "question": "\"ஓர் எண்ணின் நான்கில் ஒரு பங்குடன் 3 ஐக் கூட்ட 7 கிடைக்கும்\" என்னும் வாய்மொழிக் கூற்றுக்கு இணையான இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "4x+3=7",
+            "x/4+3=7",
+            "x/4+7=3",
+            "4x+7=3"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): x/4+3=7",
+        "question_en": "The algebraic equation for \"Adding 3 to one-fourth of a number gives 7\" is",
+        "options_en": [
+            "4x+3=7",
+            "x/4+3=7",
+            "x/4+7=3",
+            "4x+7=3"
+        ],
+        "explanation_en": "Correct answer option (2): x/4+3=7"
+    },
+    {
+        "id": 99,
+        "question": "\"ஓர் ஆப்பிள் (a) மற்றும் இரு மாம்பழங்களின் (m) விலை ₹120\" என்ற கூற்றினைக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "2am=120",
+            "2a+m=120",
+            "a+2m=120",
+            "a+m=120"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): a+2m=120",
+        "question_en": "The algebraic equation for \"The cost of an apple (a) and two mangoes (m) is ₹120\" is",
+        "options_en": [
+            "2am=120",
+            "2a+m=120",
+            "a+2m=120",
+            "a+m=120"
+        ],
+        "explanation_en": "Correct answer option (3): a+2m=120"
+    },
+    {
+        "id": 100,
+        "question": "\"ஒரு செவ்வகத்தின் சுற்றளவு 50 செ.மீ.\" ஐக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "l×b=50",
+            "2l+b=50",
+            "l+2b=50",
+            "2(l+b)=50"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 2(l+b)=50",
+        "question_en": "The algebraic equation for \"The perimeter of a rectangle is 50 cm\" is",
+        "options_en": [
+            "l×b=50",
+            "2l+b=50",
+            "l+2b=50",
+            "2(l+b)=50"
+        ],
+        "explanation_en": "Correct answer option (4): 2(l+b)=50"
+    },
+    {
+        "id": 101,
+        "question": "\"தாமரையின் வயது அவள் தங்கை செல்வியை விட 4 வயது அதிகம். மேலும் இருவரின் வயதுகளின் கூடுதல் 24\" என்பதைக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "x+4=24",
+            "2x+8=24",
+            "x+8=24",
+            "2x+4=24"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 2x+4=24",
+        "question_en": "\"Thamarai's age is 4 years more than her younger sister Selvi. The sum of their ages is 24.\" The algebraic equation for this is",
+        "options_en": [
+            "x+4=24",
+            "2x+8=24",
+            "x+8=24",
+            "2x+4=24"
+        ],
+        "explanation_en": "Correct answer option (4): 2x+4=24"
+    },
+    {
+        "id": 102,
+        "question": "\"ஓர் எண்ணின் மூன்றில் ஒரு பங்குடன் 6-ஐக் கூட்டக் கிடைப்பது 10\" என்பதைக் குறிக்கும் சமன்பாடு",
+        "options": [
+            "3x+6=10",
+            "x/3+6=10",
+            "x/3+10=6",
+            "3x+10=6"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): x/3+6=10",
+        "question_en": "The equation for \"Adding 6 to one-third of a number gives 10\" is",
+        "options_en": [
+            "3x+6=10",
+            "x/3+6=10",
+            "x/3+10=6",
+            "3x+10=6"
+        ],
+        "explanation_en": "Correct answer option (2): x/3+6=10"
+    },
+    {
+        "id": 103,
+        "question": "\"x இன் ஐந்து மடங்குடன் 3 ஐக் கூட்டக் கிடைப்பது 28\" என்பதைக் குறிக்கும் சமன்பாடு",
+        "options": [
+            "x+8=28",
+            "8x=28",
+            "x/5+3=28",
+            "5x+3=28"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 5x+3=28",
+        "question_en": "The equation for \"Adding 3 to five times x gives 28\" is",
+        "options_en": [
+            "x+8=28",
+            "8x=28",
+            "x/5+3=28",
+            "5x+3=28"
+        ],
+        "explanation_en": "Correct answer option (4): 5x+3=28"
+    },
+    {
+        "id": 104,
+        "question": "\"y இலிருந்து 8 ஐக் குறைத்தால் 11 கிடைக்கிறது\" என்பதைக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "y-11=8",
+            "8-y=11",
+            "y-8=11",
+            "11-y=8"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): y-8=11",
+        "question_en": "The algebraic equation for \"Reducing 8 from y gives 11\" is",
+        "options_en": [
+            "y-11=8",
+            "8-y=11",
+            "y-8=11",
+            "11-y=8"
+        ],
+        "explanation_en": "Correct answer option (3): y-8=11"
+    },
+    {
+        "id": 105,
+        "question": "\"வெங்கட்டின் அம்மாவின் வயது வெங்கட் வயதின் 3 மடங்குடன் 7 ஐக் கூட்டக் கிடைப்பது ஆகும். அவனுடைய அம்மாவின் வயது 43 ஆகும்\" - என்பதைக் குறிக்கும் சமன்பாடு",
+        "options": [
+            "3x+7=43",
+            "7x+3=43",
+            "x+10=43",
+            "x+7=43"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3x+7=43",
+        "question_en": "The equation for \"Venkat's mother's age is 7 more than 3 times Venkat's age. His mother's age is 43\" is",
+        "options_en": [
+            "3x+7=43",
+            "7x+3=43",
+            "x+10=43",
+            "x+7=43"
+        ],
+        "explanation_en": "Correct answer option (1): 3x+7=43"
+    },
+    {
+        "id": 106,
+        "question": "அடுத்தடுத்த இரு இயல் எண்களின் கூடுதல் 75 எனில் அவ்விரு எண்கள்",
+        "options": [
+            "36, 39",
+            "35, 40",
+            "37, 38",
+            "34, 41"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 37, 38",
+        "question_en": "If the sum of two consecutive natural numbers is 75, those two numbers are",
+        "options_en": [
+            "36, 39",
+            "35, 40",
+            "37, 38",
+            "34, 41"
+        ],
+        "explanation_en": "Correct answer option (3): 37, 38"
+    },
+    {
+        "id": 107,
+        "question": "கீழ்க்கண்டவற்றில் எவை 2x-5y=4 என்ற சமன்பாட்டின் தீர்வுகள் இல்லை?",
+        "options": [
+            "x=2, y=0",
+            "x=7, y=2",
+            "x=12, y=4",
+            "x=15, y=6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): x=15, y=6",
+        "question_en": "Which of the following is not a solution to the equation 2x - 5y = 4?",
+        "options_en": [
+            "x=2, y=0",
+            "x=7, y=2",
+            "x=12, y=4",
+            "x=15, y=6"
+        ],
+        "explanation_en": "Correct answer option (4): x=15, y=6"
+    },
+    {
+        "id": 108,
+        "question": "ஒருவர் ₹960 இக்கு ₹1, ₹5 மற்றும் ₹10 ஆகிய மதிப்பிலான பணத் தாள்களை வைத்துள்ளார். இம்மூன்று மதிப்பிலுள்ள பணத்தாள்களின் எண்ணிக்கையும் சமமெனில், அவரிடமுள்ள பத்து ரூபாய் தாள்களின் எண்ணிக்கை",
+        "options": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 60",
+        "question_en": "A person has currency notes of denominations ₹1, ₹5, and ₹10 amounting to ₹960. If the number of notes of all three denominations is equal, the number of ₹10 notes he has is",
+        "options_en": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "explanation_en": "Correct answer option (2): 60"
+    },
+    {
+        "id": 109,
+        "question": "ஒரு தேர்வில், மாணவர் எழுதும் சரியான விடைக்கு 4 மதிப்பெண்கள் வழங்கப்படுகின்றன. மேலும், தவறான விடைக்கு 1 மதிப்பெண் குறைக்கப்படுகிறது. அத்தேர்வில், ஒருவன் மொத்தம் 60 வினாக்களுக்கு விடை எழுதி 130 மதிப்பெண்கள் பெற்றான் எனில், சரியான விடை எழுதிய வினாக்களின் எண்ணிக்கை",
+        "options": [
+            "40",
+            "38",
+            "48",
+            "28"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 38",
+        "question_en": "In a competitive exam, 4 marks are awarded for every correct answer, and 1 mark is deducted for every wrong answer. If a student answered 60 questions and scored 130 marks, the number of correctly answered questions is",
+        "options_en": [
+            "40",
+            "38",
+            "48",
+            "28"
+        ],
+        "explanation_en": "Correct answer option (2): 38"
+    },
+    {
+        "id": 110,
+        "question": "ஓர் எண்ணின் ஆறு மடங்கை 40-இலிருந்து கழித்தால் -8 கிடைக்கும் எனில் அந்த எண்ணைக் காண்க.",
+        "options": [
+            "3/16",
+            "8",
+            "16/3",
+            "16"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 8",
+        "question_en": "If 6 times a number is subtracted from 40, it gives -8. Find the number.",
+        "options_en": [
+            "3/16",
+            "8",
+            "16/3",
+            "16"
+        ],
+        "explanation_en": "Correct answer option (2): 8"
+    },
+    {
+        "id": 111,
+        "question": "ஓர் எண்ணின் இரு மடங்குடன் 9 சேர்க்கப் படுகிறது. கிடைக்கும் விடையின் மும்மடங்கு 75 எனில் அந்த எண்ணைக் காண்க.",
+        "options": [
+            "3.5",
+            "6",
+            "8",
+            "7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8",
+        "question_en": "9 is added to twice a number. If thrice the result is 75, find the number.",
+        "options_en": [
+            "3.5",
+            "6",
+            "8",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (3): 8"
+    },
+    {
+        "id": 112,
+        "question": "இரண்டு அடுத்தடுத்த ஒற்றைப்படை எண்களின் கூடுதல் 200 எனில் அவற்றின் மிகப்பெரிய எண் எது?",
+        "options": [
+            "99",
+            "97",
+            "102",
+            "101"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 101",
+        "question_en": "If the sum of two consecutive odd numbers is 200, which is the largest number?",
+        "options_en": [
+            "99",
+            "97",
+            "102",
+            "101"
+        ],
+        "explanation_en": "Correct answer option (4): 101"
+    },
+    {
+        "id": 113,
+        "question": "கொடுக்கப்பட்ட படத்தின் சுற்றளவு 60 cm எனில், x இன் மதிப்பு என்ன? (பக்கங்கள்: (x+4) cm மற்றும் (3x-2) cm)",
+        "options": [
+            "7",
+            "9",
+            "12",
+            "29"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 7",
+        "question_en": "If the perimeter of the given figure is 60 cm, what is the value of x? (Sides: (x+4) cm and (3x-2) cm)",
+        "options_en": [
+            "7",
+            "9",
+            "12",
+            "29"
+        ],
+        "explanation_en": "Correct answer option (1): 7",
+        "image": "image/unit8/q113.PNG"
+    },
+    {
+        "id": 114,
+        "question": "பின்வருவனவற்றுள் எது தவறானது?\n(a) 'x-1' ஓர் இயல் எண் எனில் 'x' அதன் தொடரியாகும்.\n(b) a-b+c மற்றும் -a+b-c-ன் கூடுதல் பூஜ்ஜியமாகும்.\n(c) 8x+3y மற்றும் 7x+2y ஆகிய கோவைகளைக் கூட்ட முடியாது.\n(d) x+5=7 என்னும் கோவையைத் தீர்க்க அதன் இருபுறமும் 7-ஐக் கழிக்க வேண்டும்",
+        "options": [
+            "a & b",
+            "c மட்டும்",
+            "d மட்டும்",
+            "c & d"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): c & d",
+        "question_en": "Which of the following is incorrect?\n(a) If 'x-1' is a natural number, 'x' is its successor.\n(b) The sum of a-b+c and -a+b-c is zero.\n(c) The expressions 8x+3y and 7x+2y cannot be added.\n(d) To solve x+5=7, 7 must be subtracted from both sides.",
+        "options_en": [
+            "a & b",
+            "Only c",
+            "Only d",
+            "c & d"
+        ],
+        "explanation_en": "Correct answer option (4): c & d"
+    },
+    {
+        "id": 115,
+        "question": "பின்வருவனவற்றுள் எது சரியானது?\n(a) ஒவ்வொரு இயற்கணிதக் கோவையும் ஒரு சமன்பாடு ஆகும்\n(b) x-இன் மதிப்பறியாத நிலையில், 7x + 1 என்னும் கோவையை மேலும் சுருக்கிய வடிவில் எழுத முடியாது\n(c) இரண்டு ஒத்த உறுப்புகளைக் கூட்டுவதற்கு அதன் கெழுக்களைக் கூட்ட வேண்டும்\n(d) -pq மற்றும் 3pq ஆகியவை ஒத்த உறுப்புகள்",
+        "options": [
+            "a, b, d",
+            "b, c, d",
+            "a, c, d",
+            "a, b, c"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): b, c, d",
+        "question_en": "Which of the following is correct?\n(a) Every algebraic expression is an equation.\n(b) Without knowing the value of x, the expression 7x + 1 cannot be further simplified.\n(c) To add two like terms, their coefficients must be added.\n(d) -pq and 3pq are like terms.",
+        "options_en": [
+            "a, b, d",
+            "b, c, d",
+            "a, c, d",
+            "a, b, c"
+        ],
+        "explanation_en": "Correct answer option (2): b, c, d"
+    },
+    {
+        "id": 116,
+        "question": "p=2, q=3 மற்றும் r=-5 எனில் p²q² + q²r + r²p இன் மதிப்பைக் காண்க.",
+        "options": [
+            "121",
+            "41",
+            "-59",
+            "-95"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 41",
+        "question_en": "If p=2, q=3 and r=-5, find the value of p²q² + q²r + r²p.",
+        "options_en": [
+            "121",
+            "41",
+            "-59",
+            "-95"
+        ],
+        "explanation_en": "Correct answer option (2): 41"
+    },
+    {
+        "id": 117,
+        "question": "ஒரு போட்டித் தேர்வில் ஒவ்வொரு சரியான பதிலுக்கும் 5 மதிப்பெண்கள் வழங்கப்படுகின்றன. ஒவ்வொரு தவறான விடைக்கும் 2 மதிப்பெண்கள் குறைக்கப்படுகின்றன. ஒருவர் 25 வினாக்களுக்கு விடையளித்து 90 மதிப்பெண்கள் பெற்றார். எனில், அவர் சரியான விடையளித்த மற்றும் தவறாக விடையளித்த வினாக்களின் எண்ணிக்கை முறையே",
+        "options": [
+            "25, 4",
+            "15, 6",
+            "20, 5",
+            "18, 2"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 20, 5",
+        "question_en": "In a competitive exam, 5 marks are awarded for every correct answer. 2 marks are deducted for every wrong answer. A person answered 25 questions and scored 90 marks. The number of correctly and wrongly answered questions respectively is",
+        "options_en": [
+            "25, 4",
+            "15, 6",
+            "20, 5",
+            "18, 2"
+        ],
+        "explanation_en": "Correct answer option (3): 20, 5"
+    },
+    {
+        "id": 118,
+        "question": "\\( \\frac{4}{5} - x = 1 \\frac{7}{40} \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "3/8",
+            "5/8",
+            "-3/8",
+            "-5/8"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -3/8",
+        "question_en": "If \\( \\frac{4}{5} - x = 1 \\frac{7}{40} \\), the value of x is",
+        "options_en": [
+            "3/8",
+            "5/8",
+            "-3/8",
+            "-5/8"
+        ],
+        "explanation_en": "Correct answer option (3): -3/8"
+    },
+    {
+        "id": 119,
+        "question": "a=3, b=-2, c=-7 எனில் a² - 2b² + 3c² மதிப்பு",
+        "options": [
+            "125",
+            "148",
+            "164",
+            "111"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 148",
+        "question_en": "If a=3, b=-2, c=-7, the value of a² - 2b² + 3c² is",
+        "options_en": [
+            "125",
+            "148",
+            "164",
+            "111"
+        ],
+        "explanation_en": "Correct answer option (2): 148"
+    },
+    {
+        "id": 120,
+        "question": "மூன்று அடுத்தடுத்த ஒற்றை இயல் எண்களின் கூடுதல் 255 எனில், அவ்வெண்கள்",
+        "options": [
+            "55, 85, 115",
+            "83, 85, 87",
+            "215, 25, 15",
+            "91, 93, 95"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 83, 85, 87",
+        "question_en": "If the sum of three consecutive odd natural numbers is 255, those numbers are",
+        "options_en": [
+            "55, 85, 115",
+            "83, 85, 87",
+            "215, 25, 15",
+            "91, 93, 95"
+        ],
+        "explanation_en": "Correct answer option (2): 83, 85, 87"
+    },
+    {
+        "id": 121,
+        "question": "கீழ்க்காண்பவைகளில் எது ஓர் ஈருறுப்புக் கோவை அன்று?",
+        "options": [
+            "\\( \\frac{1}{x}+3 \\)",
+            "x+2",
+            "x-7",
+            "2x-1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( \\frac{1}{x}+3 \\)",
+        "question_en": "Which of the following is not a binomial expression?",
+        "options_en": [
+            "\\( \\frac{1}{x}+3 \\)",
+            "x+2",
+            "x-7",
+            "2x-1"
+        ],
+        "explanation_en": "Correct answer option (1): \\( \\frac{1}{x}+3 \\)"
+    },
+    {
+        "id": 122,
+        "question": "b(7-a) லிருந்து a(4-b) ஐக் கழிக்கக் கிடைப்பது",
+        "options": [
+            "7b-4a",
+            "7b+2ab+4a",
+            "4b-7a",
+            "4a+7b-2ab"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 7b-4a",
+        "question_en": "Subtracting a(4-b) from b(7-a) gives",
+        "options_en": [
+            "7b-4a",
+            "7b+2ab+4a",
+            "4b-7a",
+            "4a+7b-2ab"
+        ],
+        "explanation_en": "Correct answer option (1): 7b-4a"
+    },
+    {
+        "id": 123,
+        "question": "\\( \\frac{y+6}{5}=14+y \\) இன் தீர்வு",
+        "options": [
+            "-14",
+            "16",
+            "-16",
+            "5"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -16",
+        "question_en": "The solution of \\( \\frac{y+6}{5}=14+y \\) is",
+        "options_en": [
+            "-14",
+            "16",
+            "-16",
+            "5"
+        ],
+        "explanation_en": "Correct answer option (3): -16"
+    },
+    {
+        "id": 124,
+        "question": "ஒரு சதுரத்தின் சுற்றளவு 6x+2 எனில் அதன் பக்க அளவு",
+        "options": [
+            "\\( \\frac{3}{2}x+\\frac{1}{2} \\)",
+            "3x+2",
+            "\\( \\frac{1}{2}x+1 \\)",
+            "24x+8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( \\frac{3}{2}x+\\frac{1}{2} \\)",
+        "question_en": "If the perimeter of a square is 6x+2, its side length is",
+        "options_en": [
+            "\\( \\frac{3}{2}x+\\frac{1}{2} \\)",
+            "3x+2",
+            "\\( \\frac{1}{2}x+1 \\)",
+            "24x+8"
+        ],
+        "explanation_en": "Correct answer option (1): \\( \\frac{3}{2}x+\\frac{1}{2} \\)"
+    },
+    {
+        "id": 125,
+        "question": "ஒரு செவ்வகத்தின் பக்கங்கள் 5x+2 மற்றும் 2x+3 எனில், அதன் சுற்றளவு",
+        "options": [
+            "3x-1",
+            "7x+5",
+            "14x+10",
+            "7x+10"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 14x+10",
+        "question_en": "If the sides of a rectangle are 5x+2 and 2x+3, its perimeter is",
+        "options_en": [
+            "3x-1",
+            "7x+5",
+            "14x+10",
+            "7x+10"
+        ],
+        "explanation_en": "Correct answer option (3): 14x+10"
+    },
+    {
+        "id": 126,
+        "question": "a-இன் மூன்றில் ஒரு பங்குடன் m-இன் கூடுதலின் இரு மடங்கு",
+        "options": [
+            "\\( \\frac{1}{3}(2a+m) \\)",
+            "\\( 2+(\\frac{1}{3}a+m) \\)",
+            "\\( \\frac{2}{3}a+m \\)",
+            "\\( 2(\\frac{1}{3}a+m) \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 2(\\frac{1}{3}a+m) \\)",
+        "question_en": "Twice the sum of one-third of a and m is",
+        "options_en": [
+            "\\( \\frac{1}{3}(2a+m) \\)",
+            "\\( 2+(\\frac{1}{3}a+m) \\)",
+            "\\( \\frac{2}{3}a+m \\)",
+            "\\( 2(\\frac{1}{3}a+m) \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 2(\\frac{1}{3}a+m) \\)"
+    },
+    {
+        "id": 127,
+        "question": "அடுத்தடுத்து வரும் மூன்று முழுக்களின் கூடுதல் 39. அதில் இரண்டாவது எண்",
+        "options": [
+            "12",
+            "11",
+            "13",
+            "14"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 13",
+        "question_en": "The sum of three consecutive integers is 39. The second number is",
+        "options_en": [
+            "12",
+            "11",
+            "13",
+            "14"
+        ],
+        "explanation_en": "Correct answer option (3): 13"
+    },
+    {
+        "id": 128,
+        "question": "z=10 எனில் z³-3(z-10) =",
+        "options": [
+            "10",
+            "7",
+            "13",
+            "1000"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1000",
+        "question_en": "If z=10, then z³-3(z-10) =",
+        "options_en": [
+            "10",
+            "7",
+            "13",
+            "1000"
+        ],
+        "explanation_en": "Correct answer option (4): 1000"
+    },
+    {
+        "id": 129,
+        "question": "பின்வருவனவற்றுள் எது பல்லுறுப்புக் கோவை அல்ல?",
+        "options": [
+            "\\( x^2+7x-5 \\)",
+            "\\( x+\\frac{1}{x} \\)",
+            "\\( \\sqrt{3}x^2+7x+\\sqrt{2} \\)",
+            "\\( \\frac{7}{2}x^3+\\frac{6}{7}x^2-\\frac{5}{3} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( x+\\frac{1}{x} \\)",
+        "question_en": "Which of the following is not a polynomial?",
+        "options_en": [
+            "\\( x^2+7x-5 \\)",
+            "\\( x+\\frac{1}{x} \\)",
+            "\\( \\sqrt{3}x^2+7x+\\sqrt{2} \\)",
+            "\\( \\frac{7}{2}x^3+\\frac{6}{7}x^2-\\frac{5}{3} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( x+\\frac{1}{x} \\)"
+    },
+    {
+        "id": 130,
+        "question": "கீழ்க்கண்டவற்றுள் எது தவறானது?",
+        "options": [
+            "இரு பல்லுறுப்புக் கோவைகளின் கூடுதல் ஒரு பல்லுறுப்புக் கோவையாகும்",
+            "இரு பல்லுறுப்புக் கோவைகளின் பெருக்கல் ஒரு பல்லுறுப்புக் கோவையாகும்",
+            "இரு பல்லுறுப்புக் கோவைகளின் வித்தியாசம் ஒரு பல்லுறுப்புக் கோவையாகும்",
+            "\\( x+\\frac{1}{x} \\) என்பது பல்லுறுப்புக் கோவைக்கு ஓர் உதாரணமாகும்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( x+\\frac{1}{x} \\) என்பது பல்லுறுப்புக் கோவைக்கு ஓர் உதாரணமாகும்",
+        "question_en": "Which of the following statements is incorrect?",
+        "options_en": [
+            "The sum of two polynomials is a polynomial",
+            "The product of two polynomials is a polynomial",
+            "The difference of two polynomials is a polynomial",
+            "\\( x+\\frac{1}{x} \\) is an example of a polynomial"
+        ],
+        "explanation_en": "Correct answer option (4): \\( x+\\frac{1}{x} \\) is an example of a polynomial"
+    },
+    {
+        "id": 131,
+        "question": "4x²+6xy ஐ பெறுவதற்கு 3x²+xy+3y² உடன் எதைக் கூட்ட வேண்டும்?",
+        "options": [
+            "\\( x^2+5xy-3y^2 \\)",
+            "\\( x^2-5xy-3y^2 \\)",
+            "\\( x^2+5xy+3y^2 \\)",
+            "\\( x^2+6xy-3y^2 \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( x^2+5xy-3y^2 \\)",
+        "question_en": "Which expression should be added to 3x²+xy+3y² to get 4x²+6xy?",
+        "options_en": [
+            "\\( x^2+5xy-3y^2 \\)",
+            "\\( x^2-5xy-3y^2 \\)",
+            "\\( x^2+5xy+3y^2 \\)",
+            "\\( x^2+6xy-3y^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( x^2+5xy-3y^2 \\)"
+    },
+    {
+        "id": 132,
+        "question": "3p+4=25 எனில் p-இன் மதிப்பு",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 7",
+        "question_en": "If 3p+4=25, the value of p is",
+        "options_en": [
+            "4",
+            "3",
+            "5",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (4): 7"
+    },
+    {
+        "id": 133,
+        "question": "அடுத்தடுத்து வரும் மூன்று முழு எண்களின் கூடுதல் 30 எனில் இடையே அமையும் எண்",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 10",
+        "question_en": "If the sum of three consecutive whole numbers is 30, the middle number is",
+        "options_en": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "explanation_en": "Correct answer option (1): 10"
+    },
+    {
+        "id": 134,
+        "question": "m+n மற்றும் 3m-7n ஆகியவற்றை அடுத்தடுத்த பக்கங்களாகக் கொண்ட இணைகரத்தின் சுற்றளவு",
+        "options": [
+            "8m+16n",
+            "4m-6n",
+            "8m-16n",
+            "8m-12n"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 8m-12n",
+        "question_en": "The perimeter of a parallelogram whose adjacent sides are m+n and 3m-7n is",
+        "options_en": [
+            "8m+16n",
+            "4m-6n",
+            "8m-16n",
+            "8m-12n"
+        ],
+        "explanation_en": "Correct answer option (4): 8m-12n"
+    },
+    {
+        "id": 135,
+        "question": "மாறாத எண் மதிப்பைக் கொண்ட குறியீடு",
+        "options": [
+            "மாறி",
+            "இயற்கணிதக்கோவை",
+            "ஒத்த உறுப்பு",
+            "மாறிலி"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): மாறிலி",
+        "question_en": "A symbol having a fixed numerical value is called",
+        "options_en": [
+            "Variable",
+            "Algebraic expression",
+            "Like term",
+            "Constant"
+        ],
+        "explanation_en": "Correct answer option (4): Constant"
+    },
+    {
+        "id": 136,
+        "question": "\"a மற்றும் b-ன் கூடுதலின் ஐந்து மடங்கு\" என்னும் வாய்மொழிக் கூற்றுக்குப் பொருத்தமான இயற்கணிதக் கோவை",
+        "options": [
+            "5a+b",
+            "5+a+b",
+            "5(a+b)",
+            "5+ab"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 5(a+b)",
+        "question_en": "The suitable algebraic expression for the verbal statement \"Five times the sum of a and b\" is",
+        "options_en": [
+            "5a+b",
+            "5+a+b",
+            "5(a+b)",
+            "5+ab"
+        ],
+        "explanation_en": "Correct answer option (3): 5(a+b)"
+    },
+    {
+        "id": 137,
+        "question": "(2x+3y-4z)+(6x-10y+14z)-(15x+8y-7z) =",
+        "options": [
+            "-7x+y+3z",
+            "7x+y-17z",
+            "-7x-15y+17z",
+            "-7x+15y+17z"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -7x-15y+17z",
+        "question_en": "(2x+3y-4z)+(6x-10y+14z)-(15x+8y-7z) =",
+        "options_en": [
+            "-7x+y+3z",
+            "7x+y-17z",
+            "-7x-15y+17z",
+            "-7x+15y+17z"
+        ],
+        "explanation_en": "Correct answer option (3): -7x-15y+17z"
+    },
+    {
+        "id": 138,
+        "question": "4x²-5xy+2y²+8xy-y²+xy என்பது",
+        "options": [
+            "ஒருறுப்புக்கோவை",
+            "ஈருறுப்புக்கோவை",
+            "மூவுறுப்புக்கோவை",
+            "எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): மூவுறுப்புக்கோவை (சுருக்கிய பின்: 4x²+4xy+y²)",
+        "question_en": "4x²-5xy+2y²+8xy-y²+xy is a",
+        "options_en": [
+            "Monomial",
+            "Binomial",
+            "Trinomial",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (3): Trinomial (Simplifies to 4x²+4xy+y²)"
+    },
+    {
+        "id": 139,
+        "question": "பின்வருவனவற்றில் எது நேரியல் சமன்பாடு?",
+        "options": [
+            "7k²-16=0",
+            "m-16=0",
+            "4p³=12",
+            "6x⁴=18"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): m-16=0",
+        "question_en": "Which of the following is a linear equation?",
+        "options_en": [
+            "7k²-16=0",
+            "m-16=0",
+            "4p³=12",
+            "6x⁴=18"
+        ],
+        "explanation_en": "Correct answer option (2): m-16=0"
+    }
+]

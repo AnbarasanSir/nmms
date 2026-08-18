@@ -6,7 +6,3 @@ coverage/
 *.log
 .env*
 !.env.example
-.data/
-students.json
-bun.lock
-package-lock.json

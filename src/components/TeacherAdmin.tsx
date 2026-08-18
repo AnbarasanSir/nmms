@@ -6,7 +6,6 @@ import { PreviousYearPapers } from './PreviousYearPapers';
 import { SubjectQuestionsTable } from './SubjectQuestionsTable';
 import { MathText } from './MathText';
 import { formatSecondsToTime, formatDateTime } from '../utils/formatters';
-import { fetchJson, compressImageFile } from '../utils/api';
 import { 
   LayoutDashboard, 
   PlusCircle, 
@@ -57,6 +56,7 @@ import {
   Dices,
   Sliders,
   Hash,
+  Mail,
   ShieldCheck,
   ArrowLeft,
   Key,
@@ -550,23 +550,37 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     }
   };
 
-  // Helper to process multiple image files with automatic compression into Base64 state
-  const processImageFiles = async (files: FileList | File[]) => {
+  // Helper to process multiple image files into Base64 state
+  const processImageFiles = (files: FileList | File[]) => {
     const fileList = Array.from(files).filter((f) => f.type.startsWith('image/'));
     if (fileList.length === 0) {
       setAiError('தயவுசெய்து படக்கோப்புகளை (JPG, PNG, WebP) மட்டும் தேர்ந்தெடுக்கவும்.');
       return;
     }
 
-    try {
-      const compressionPromises = fileList.map((file) => compressImageFile(file, 1600, 0.85));
-      const compressedImages = await Promise.all(compressionPromises);
-      setUploadedImages((prev) => [...prev, ...compressedImages]);
+    const readPromises = fileList.map((file) => {
+      return new Promise<UploadedImageItem>((resolve) => {
+        const reader = new FileReader();
+        reader.onload = () => {
+          const sizeFormatted =
+            file.size < 1024 * 1024
+              ? `${(file.size / 1024).toFixed(1)} KB`
+              : `${(file.size / (1024 * 1024)).toFixed(1)} MB`;
+          resolve({
+            id: `img-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`,
+            name: file.name,
+            size: sizeFormatted,
+            base64: reader.result as string,
+          });
+        };
+        reader.readAsDataURL(file);
+      });
+    });
+
+    Promise.all(readPromises).then((newImages) => {
+      setUploadedImages((prev) => [...prev, ...newImages]);
       setAiError(null);
-    } catch (e: any) {
-      console.error('Image compression error:', e);
-      setAiError('படங்களை செயலாக்குவதில் பிழை ஏற்பட்டது. தயவுசெய்து மீண்டும் முயற்சிக்கவும்.');
-    }
+    });
   };
 
   // Image Upload handler (supports multiple files)
@@ -685,14 +699,16 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         payload.content = pastedText;
       }
 
-      const data = await fetchJson<{ success: boolean; count: number; questions: Question[] }>(
-        '/api/ai/parse-questions',
-        {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify(payload),
-        }
-      );
+      const res = await fetch('/api/ai/parse-questions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+
+      const data = await res.json();
+      if (!res.ok) {
+        throw new Error(data.error || 'AI Parsing failed');
+      }
 
       if (data.questions && data.questions.length > 0) {
         setNewQuizQuestions((prev) => [...prev, ...data.questions]);
@@ -715,22 +731,24 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     setAiSuccessMsg(null);
 
     try {
-      const data = await fetchJson<{ success: boolean; count: number; questions: Question[] }>(
-        '/api/ai/generate-questions',
-        {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            subject: genSubject,
-            topic: genTopic,
-            count: Number(genCount) || 5,
-          }),
-        }
-      );
+      const res = await fetch('/api/ai/generate-questions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          subject: genSubject,
+          topic: genTopic,
+          count: Number(genCount) || 5,
+        }),
+      });
+
+      const data = await res.json();
+      if (!res.ok) {
+        throw new Error(data.error || 'Failed to generate questions');
+      }
 
       if (data.questions && data.questions.length > 0) {
         setNewQuizQuestions((prev) => [...prev, ...data.questions]);
-        setAiSuccessMsg(`வெற்றிகரமாக ${data.questions.length} மாதிரி NMMS வினாக்கள் உருவாக்கப்பட்டன! (Successfully generated ${data.questions.length} questions)`);
+        setAiSuccessMsg(`Successfully generated ${data.questions.length} authentic NMMS questions!`);
       }
     } catch (err: any) {
       console.error('Generation error:', err);
@@ -847,21 +865,26 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         questions: newQuizQuestions,
       };
 
-      await fetchJson('/api/quizzes', {
+      const res = await fetch('/api/quizzes', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(quizPayload),
       });
 
-      alert(
-        isEditing
-          ? `✅ வினாத்தாள் (${newQuizTitle.trim()}) வெற்றிகரமாக திருத்தப்பட்டு மறுவெளியீடு செய்யப்பட்டது!\n(Exam paper updated & republished successfully as the same exam!)`
-          : '✅ புதிய NMMS வினாத்தாள் வெற்றிகரமாக உருவாக்கப்பட்டது!\n(New Exam Paper published successfully!)'
-      );
-      setEditingQuizId(null);
-      setNewQuizQuestions([]);
-      onRefreshQuizzes();
-      setActiveTab('quizzes');
+      if (res.ok) {
+        alert(
+          isEditing
+            ? `✅ வினாத்தாள் (${newQuizTitle.trim()}) வெற்றிகரமாக திருத்தப்பட்டு மறுவெளியீடு செய்யப்பட்டது!\n(Exam paper updated & republished successfully as the same exam!)`
+            : '✅ புதிய NMMS வினாத்தாள் வெற்றிகரமாக உருவாக்கப்பட்டது!\n(New Exam Paper published successfully!)'
+        );
+        setEditingQuizId(null);
+        setNewQuizQuestions([]);
+        onRefreshQuizzes();
+        setActiveTab('quizzes');
+      } else {
+        const err = await res.json();
+        alert(`Failed to save quiz: ${err.error || 'Unknown error'}`);
+      }
     } catch (e: any) {
       alert(`Error saving quiz: ${e.message}`);
     }

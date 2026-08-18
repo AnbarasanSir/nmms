@@ -8,7 +8,6 @@ import {
   Quiz,
 } from '../types';
 import { MathText } from './MathText';
-import { fetchJson } from '../utils/api';
 import {
   BookOpen,
   Search,
@@ -96,9 +95,14 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
     setIsLoadingUnits(true);
     setUnitsLoadError(null);
     try {
-      const data = await fetchJson<{ units: SubjectUnitSummary[] }>(`/api/subject-units?subject=${subject}`);
-      setUnitSummaries(data.units || []);
-      setUnitsLoadError(null);
+      const res = await fetch(`/api/subject-units?subject=${subject}`);
+      if (res.ok) {
+        const data = await res.json();
+        setUnitSummaries(data.units || []);
+        setUnitsLoadError(null);
+      } else {
+        throw new Error(`Server returned status ${res.status}`);
+      }
     } catch (e: any) {
       console.warn(`Fetch units attempt failed (retries left: ${retries}):`, e);
       if (retries > 0) {
@@ -108,7 +112,7 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
         return;
       }
       console.error('Failed to fetch units:', e);
-      setUnitsLoadError(e.message || 'பாட அலகுகளை ஏற்றுவதில் பிழை ஏற்பட்டது. மீண்டும் முயற்சிக்கவும்.');
+      setUnitsLoadError('பாட அலகுகளை ஏற்றுவதில் பிழை ஏற்பட்டது. மீண்டும் முயற்சிக்கவும்.');
     } finally {
       setIsLoadingUnits(false);
     }
@@ -123,9 +127,14 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
     setActiveUnit(unit);
     setIsLoadingQuestions(true);
     try {
-      const data = await fetchJson<{ questions: Question[] }>(`/api/subject-units/${unit.subject}/${unit.unitNumber}`);
-      setUnitQuestions(data.questions || []);
-    } catch (e: any) {
+      const res = await fetch(`/api/subject-units/${unit.subject}/${unit.unitNumber}`);
+      if (res.ok) {
+        const data = await res.json();
+        setUnitQuestions(data.questions || []);
+      } else {
+        throw new Error(`Server returned status ${res.status}`);
+      }
+    } catch (e) {
       if (retries > 0) {
         setTimeout(() => {
           handleOpenUnitQuestions(unit, retries - 1);
@@ -133,7 +142,7 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
         return;
       }
       console.error('Failed to fetch unit questions:', e);
-      showNotification('error', e.message || 'வினாக்களை ஏற்றுவதில் பிழை ஏற்பட்டது.');
+      showNotification('error', 'வினாக்களை ஏற்றுவதில் பிழை ஏற்பட்டது.');
     } finally {
       setIsLoadingQuestions(false);
     }

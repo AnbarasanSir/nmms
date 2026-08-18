@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q1.PNG",
+    "options": [
+      "N",
+      "H",
+      "G",
+      "J"
+    ],
+    "correct": 0,
+    "explanation": "E(5) + I(9) = N(14). J(10) + M(13) = W(23). எனவே விடுபட்ட எழுத்து N.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "N",
+      "H",
+      "G",
+      "J"
+    ],
+    "explanation_en": "E(5) + I(9) = N(14). J(10) + M(13) = W(23). So the missing letter is N."
+  },
+  {
+    "id": 2,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q2.PNG",
+    "options": [
+      "E",
+      "G",
+      "H",
+      "P"
+    ],
+    "correct": 2,
+    "explanation": "B(2), D(4), F(6). C(3), F(6), I(9). D(4), H(8), L(12). எனவே விடுபட்ட எழுத்து H.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "E",
+      "G",
+      "H",
+      "P"
+    ],
+    "explanation_en": "B(2), D(4), F(6). C(3), F(6), I(9). D(4), H(8), L(12). So the missing letter is H."
+  },
+  {
+    "id": 3,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q3.PNG",
+    "options": [
+      "Q",
+      "R",
+      "J",
+      "L"
+    ],
+    "correct": 0,
+    "explanation": "F(6) + 10 = 16. E(5) + X = 22 => X = 17 (Q). J(10), ?(Q).",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "Q",
+      "R",
+      "J",
+      "L"
+    ],
+    "explanation_en": "F(6) + 10 = 16. E(5) + X = 22 => X = 17 (Q). J(10), ?(Q)."
+  },
+  {
+    "id": 4,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q4.PNG",
+    "options": [
+      "X",
+      "W",
+      "R",
+      "V"
+    ],
+    "correct": 1,
+    "explanation": "Z (-2) X (-2) V (-2) T. Z (-3) W (-3) T (-3) Q. விடுபட்ட எழுத்து W.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "X",
+      "W",
+      "R",
+      "V"
+    ],
+    "explanation_en": "Z (-2) X (-2) V (-2) T. Z (-3) W (-3) T (-3) Q. The missing letter is W."
+  },
+  {
+    "id": 5,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q5.PNG",
+    "options": [
+      "G",
+      "F",
+      "J",
+      "I"
+    ],
+    "correct": 2,
+    "explanation": "G(7), O(15) => 15-7=8 (H, ஆனால் R(18) உள்ளது, எப்படி? 7+11=18). விளக்கம்: 7-5=2(B), 15-7=8(H), 18-8=10(J). மேலிருந்து கீழாகக் கழிக்கப்பட்டுள்ளது. விடுபட்ட எழுத்து J.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "G",
+      "F",
+      "J",
+      "I"
+    ],
+    "explanation_en": "G(7), O(15) => 15-7=8 (H, but R(18) is there, how? 7+11=18). Explanation: 7-5=2(B), 15-7=8(H), 18-8=10(J). Subtracted from top to bottom. The missing letter is J."
+  },
+  {
+    "id": 6,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q6.PNG",
+    "options": [
+      "48F",
+      "28G",
+      "11E",
+      "35I"
+    ],
+    "correct": 1,
+    "explanation": "C(+1)=D(+1)=E; எண்கள்: 3x9=27, 27/3=9. I(+2)=K(+2)=M; எண்கள்: 7x3=21, 21/7=3. D(+3)=G(+3)=J; எண்கள்: 4x7=28, 28/4=7. விடை 28G.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "48F",
+      "28G",
+      "11E",
+      "35I"
+    ],
+    "explanation_en": "C(+1)=D(+1)=E; Numbers: 3x9=27, 27/3=9. I(+2)=K(+2)=M; Numbers: 7x3=21, 21/7=3. D(+3)=G(+3)=J; Numbers: 4x7=28, 28/4=7. The answer is 28G."
+  },
+  {
+    "id": 7,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q7.PNG",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "correct": 0,
+    "explanation": "M-க்கும் P-க்கும் இடையில் 2 எழுத்துக்கள் (N, O). J-க்கும் O-க்கும் இடையில் 4 எழுத்துக்கள் (K, L, M, N). H-க்கும் Q-க்கும் இடையில் 8 எழுத்துக்கள் (I, J, K, L, M, N, O, P).",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "explanation_en": "2 letters (N, O) between M and P. 4 letters between J and O (K, L, M, N). 8 letters between H and Q (I, J, K, L, M, N, O, P)."
+  },
+  {
+    "id": 8,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q8.PNG",
+    "options": [
+      "G",
+      "H",
+      "I",
+      "J"
+    ],
+    "correct": 1,
+    "explanation": "B(2), D(4), F(6), H(8). எண்கள்: 2x2=4, 4x2=8, 6x2=12, 8x2=16. விடுபட்ட எழுத்து H.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "G",
+      "H",
+      "I",
+      "J"
+    ],
+    "explanation_en": "B(2), D(4), F(6), H(8). Numbers: 2x2=4, 4x2=8, 6x2=12, 8x2=16. The missing letter is H."
+  },
+  {
+    "id": 9,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q9.PNG",
+    "options": [
+      "G",
+      "H",
+      "K",
+      "Y"
+    ],
+    "correct": 1,
+    "explanation": "15 - 10 = 5 (E). 6 - 3 = 3 (C). 21 - 13 = 8 (H).",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "G",
+      "H",
+      "K",
+      "Y"
+    ],
+    "explanation_en": "15 - 10 = 5 (E). 6 - 3 = 3 (C). 21 - 13 = 8 (H)."
+  },
+  {
+    "id": 10,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q10.PNG",
+    "options": [
+      "E",
+      "F",
+      "D",
+      "V"
+    ],
+    "correct": 0,
+    "explanation": "வலமிருந்து இடமாக (Z->A) எழுத்துக்களின் இடமதிப்பு: W(4), Q(10), K(16), E(22). எண்கள்: 4x2=8, 10x2=20, 16x2=32, 22x2=44. விடுபட்ட எழுத்து E.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "E",
+      "F",
+      "D",
+      "V"
+    ],
+    "explanation_en": "From right to left (Z->A) letter placement: W(4), Q(10), K(16), E(22). Numbers: 4x2=8, 10x2=20, 16x2=32, 22x2=44. The missing letter is E."
+  },
+  {
+    "id": 11,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q11.PNG",
+    "options": [
+      "O",
+      "C",
+      "D",
+      "H"
+    ],
+    "correct": 2,
+    "explanation": "எதிர் எதிரே உள்ள எழுத்துக்களின் இடமதிப்பு கூடுதல் 18. M(13) + E(5) = 18. G(7) + K(11) = 18. N(14) + X(4) = 18. 4 வது எழுத்து D.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "O",
+      "C",
+      "D",
+      "H"
+    ],
+    "explanation_en": "Place value of opposite letters is additional 18. M(13) + E(5) = 18. G(7) + K(11) = 18. N(14) + X(4) = 18. 4th letter D."
+  },
+  {
+    "id": 12,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q12.PNG",
+    "options": [
+      "216 P",
+      "42 P",
+      "18 N",
+      "216 N"
+    ],
+    "correct": 0,
+    "explanation": "5B(5¹), 125D(5³), 25F(5²). 4J(4¹), 64L(4³), 16N(4²). 6N(6¹), 216P(6³), 36R(6²). விடை 216 P.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "216 p",
+      "42 p",
+      "18 N",
+      "216 N"
+    ],
+    "explanation_en": "5B(5¹), 125D(5³), 25F(5²). 4J(4¹), 64L(4³), 16N(4²). 6N(6¹), 216P(6³), 36R(6²). Answer 216 P."
+  },
+  {
+    "id": 13,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q13.PNG",
+    "options": [
+      "M",
+      "H",
+      "J",
+      "G"
+    ],
+    "correct": 1,
+    "explanation": "T = 20, P = 16, L = 12. 8 வது எழுத்து H.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "M",
+      "H",
+      "J",
+      "G"
+    ],
+    "explanation_en": "T = 20, P = 16, L = 12. 8th letter is H."
+  },
+  {
+    "id": 14,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q14.PNG",
+    "options": [
+      "T",
+      "J",
+      "K",
+      "O"
+    ],
+    "correct": 1,
+    "explanation": "7+9 = 16 ÷ 2 = 8 (H). 17+19 = 36 ÷ 2 = 18 (R). 9+11 = 20 ÷ 2 = 10 (J).",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "T",
+      "J",
+      "K",
+      "O"
+    ],
+    "explanation_en": "7+9 = 16 ÷ 2 = 8 (H). 17+19 = 36 ÷ 2 = 18 (R). 9+11 = 20 ÷ 2 = 10 (J)."
+  },
+  {
+    "id": 15,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q15.PNG",
+    "options": [
+      "D5",
+      "D3",
+      "D4",
+      "D6"
+    ],
+    "correct": 0,
+    "explanation": "A2, C4, E6. B3, D5, F7. C5, E7, G9. விடுபட்டது D5.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "D5",
+      "D3",
+      "D4",
+      "D6"
+    ],
+    "explanation_en": "A2, C4, E6. B3, D5, F7. C5, E7, G9. Missing is D5."
+  },
+  {
+    "id": 16,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q16.PNG",
+    "options": [
+      "FG",
+      "CD",
+      "GH",
+      "EF"
+    ],
+    "correct": 0,
+    "explanation": "B(2)+C(3)=5. F(6)+G(7)=13. H(8)+I(9)=17. I(9)+J(10)=19. விடுபட்டது FG.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "FG",
+      "CD",
+      "GH",
+      "EF"
+    ],
+    "explanation_en": "B(2)+C(3)=5. F(6)+G(7)=13. H(8)+I(9)=17. I(9)+J(10)=19. Missing is FG."
+  },
+  {
+    "id": 17,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q17.PNG",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "M(13) - D(4) = 9. Q(17) - J(10) = 7. P(16) - H(8) = 8.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation_en": "M(13) - D(4) = 9. Q(17) - J(10) = 7. P(16) - H(8) = 8."
+  },
+  {
+    "id": 18,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q18.PNG",
+    "options": [
+      "17",
+      "27",
+      "29",
+      "21"
+    ],
+    "correct": 1,
+    "explanation": "Z(26)+A(1)=27. Y(25)+B(2)=27. X(24)+C(3)=27. W(23)+D(4)=27. V(22)+E(5)=27.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "17",
+      "27",
+      "29",
+      "21"
+    ],
+    "explanation_en": "Z(26)+A(1)=27. Y(25)+B(2)=27. X(24)+C(3)=27. W(23)+D(4)=27. V(22)+E(5)=27."
+  },
+  {
+    "id": 19,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q19.PNG",
+    "options": [
+      "S",
+      "T",
+      "R",
+      "P"
+    ],
+    "correct": 2,
+    "explanation": "C(3)+D(4)=7(G). H(8)+I(9)=17(Q). G(7)+K(11)=18(R).",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "S",
+      "T",
+      "R",
+      "P"
+    ],
+    "explanation_en": "C(3)+D(4)=7(G). H(8)+I(9)=17(Q). G(7)+K(11)=18(R)."
+  },
+  {
+    "id": 20,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q20.PNG",
+    "options": [
+      "A",
+      "B",
+      "Y",
+      "P"
+    ],
+    "correct": 0,
+    "explanation": "சுற்றியுள்ள எண்கள் மற்றும் மைய எழுத்தின் இடமதிப்பு ஆகியவற்றின் கூடுதல் 27. 5+7+13+2(B)=27. 5+1+8+13(M)=27. 8+4+7+8(H)=27. 13+4+9+X=27 => X=1 (A).",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "A",
+      "B",
+      "Y",
+      "P"
+    ],
+    "explanation_en": "The addition of the surrounding numbers and the place value of the central letter is 27. 5+7+13+2(B)=27. 5+1+8+13(M)=27. 8+4+7+8(H)=27. 13+4+9+X=27 => X=1 (A)."
+  },
+  {
+    "id": 21,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q21.PNG",
+    "options": [
+      "Y",
+      "W",
+      "V",
+      "X"
+    ],
+    "correct": 3,
+    "explanation": "C(+2) E(+3) H. H(+3) K(+4) O. O(+4) S(+5) X.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "Y",
+      "W",
+      "V",
+      "X"
+    ],
+    "explanation_en": "C(+2) E(+3) H. H(+3) K(+4) O. O(+4) S(+5) X."
+  },
+  {
+    "id": 22,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q22.PNG",
+    "options": [
+      "O,N,Z",
+      "C,L,O",
+      "X,Q,O",
+      "O,Q,N"
+    ],
+    "correct": 2,
+    "explanation": "D(-2) B(-4) X. S(-2) Q(-4) M. O(-2) M(-4) I. விடுபட்டவை X, Q, O.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "O,N,Z",
+      "C, L, O",
+      "X,Q,O",
+      "O,Q,N"
+    ],
+    "explanation_en": "D(-2) B(-4) X. S(-2) Q(-4) M. O(-2) M(-4) I. Missing X, Q, O"
+  },
+  {
+    "id": 23,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q23.PNG",
+    "options": [
+      "A",
+      "S",
+      "U",
+      "V"
+    ],
+    "correct": 2,
+    "explanation": "வலமிருந்து இடமாக Z->A இடமதிப்பு: O(12), N(13) => √(12+13) = 5. T(7), R(9) => √(7+9) = 4. X(3), U(6) => √(3+6) = 3.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "A",
+      "S",
+      "U",
+      "V"
+    ],
+    "explanation_en": "Z->A space value from right to left: O(12), N(13) => √(12+13) = 5. T(7), R(9) => √(7+9) = 4. X(3), U(6) => √(3+6) = 3."
+  },
+  {
+    "id": 24,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q24.PNG",
+    "options": [
+      "S",
+      "H",
+      "K",
+      "Y"
+    ],
+    "correct": 0,
+    "explanation": "B(+5) G(+5) L. E(+5) J(+5) O. I(+5) N(+5) S.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "S",
+      "H",
+      "K",
+      "Y"
+    ],
+    "explanation_en": "B(+5) G(+5) L. E(+5) J(+5) O. I(+5) N(+5) S."
+  },
+  {
+    "id": 25,
+    "question": "விடுபட்ட எழுத்தைக் காண்க.",
+    "image": "image/unit12/q25.PNG",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "explanation": "P(16) - J(10) = F(6). T(20) - H(8) = L(12). V(22) - R(18) = 4(D).",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation_en": "P(16) - J(10) = F(6). T(20) - H(8) = L(12). V(22) - R(18) = 4(D)."
+  }
+]

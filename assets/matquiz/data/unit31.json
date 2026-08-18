@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q1.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (3) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (3)."
+  },
+  {
+    "id": 2,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q2.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (1) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (1)."
+  },
+  {
+    "id": 3,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q3.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (4) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (4)."
+  },
+  {
+    "id": 4,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q4.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (4) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (4)."
+  },
+  {
+    "id": 5,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q5.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (1) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (1)."
+  },
+  {
+    "id": 6,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q6.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (4) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (4)."
+  },
+  {
+    "id": 7,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q7.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (2) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (2)."
+  },
+  {
+    "id": 8,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q8.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (1) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (1)."
+  },
+  {
+    "id": 9,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q9.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (2) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (2)."
+  },
+  {
+    "id": 10,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q10.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (4) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (4)."
+  },
+  {
+    "id": 11,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q11.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (1) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (1)."
+  },
+  {
+    "id": 12,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q12.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (3) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (3)."
+  },
+  {
+    "id": 13,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q13.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (4) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (4)."
+  },
+  {
+    "id": 14,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q14.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (1) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (1)."
+  },
+  {
+    "id": 15,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q15.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (1) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (1)."
+  },
+  {
+    "id": 16,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q16.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (2) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (2)."
+  },
+  {
+    "id": 17,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q17.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (1) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (1)."
+  },
+  {
+    "id": 18,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q18.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (3) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (3)."
+  },
+  {
+    "id": 19,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q19.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (4) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (4)."
+  },
+  {
+    "id": 20,
+    "question": "? குறியிட்ட இடத்தில் அமைய வேண்டிய பொருத்தமான படத்தினை மாற்று விடைகளிலிருந்து தேர்ந்தெடு.",
+    "image": "image/unit31/q20.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு படங்களுக்கு இடையேயான தர்க்கவியல் தொடர்பின் அடிப்படையில், சரியான படம் (4) ஆகும்.",
+    "question_en": "? Choose the appropriate picture from the alternative answers to fit in the marked space.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Based on the logical connection between the first two images, the correct image is (4)."
+  }
+]

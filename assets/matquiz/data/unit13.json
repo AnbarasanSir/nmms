@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. கிரிக்கெட் மட்டும் விளையாடுபவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "6",
+      "12",
+      "20",
+      "24"
+    ],
+    "correct": 1,
+    "explanation": "முக்கோணத்தில் மட்டும் உள்ள எண் = 12.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Number of players playing only cricket:",
+    "options_en": [
+      "6",
+      "12",
+      "20",
+      "24"
+    ],
+    "explanation_en": "Number in triangle alone = 12."
+  },
+  {
+    "id": 2,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. கிரிக்கெட் அல்லாமல் ஹாக்கி மற்றும் கால்பந்து விளையாடுபவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "6",
+      "16",
+      "22",
+      "37"
+    ],
+    "correct": 0,
+    "explanation": "வட்டம் மற்றும் செவ்வகத்தில் மட்டும் வெட்டிக் கொள்ளும் இடத்தில் வரும் எண் = 1 + 5 = 6.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Number of players playing hockey and football other than cricket:",
+    "options_en": [
+      "6",
+      "16",
+      "22",
+      "37"
+    ],
+    "explanation_en": "Number at intersection of circle and rectangle only = 1 + 5 = 6."
+  },
+  {
+    "id": 3,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. மூன்று விளையாட்டுக்களும் விளையாடுபவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "5",
+      "20",
+      "4",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "வட்டம், செவ்வகம் மற்றும் முக்கோணத்தில் பொதுவாக உள்ள எண் = 4.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Number of players playing all three games:",
+    "options_en": [
+      "5",
+      "20",
+      "4",
+      "1"
+    ],
+    "explanation_en": "Number common to circle, rectangle and triangle = 4."
+  },
+  {
+    "id": 4,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. கால்பந்து மட்டும் விளையாடுபவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "22",
+      "26",
+      "9",
+      "16"
+    ],
+    "correct": 3,
+    "explanation": "செவ்வகத்தில் மட்டும் உள்ள எண்கள் = 9 + 7 = 16.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Number of players who play football only:",
+    "options_en": [
+      "22",
+      "26",
+      "9",
+      "16"
+    ],
+    "explanation_en": "Numbers in the rectangle alone = 9 + 7 = 16."
+  },
+  {
+    "id": 5,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. ஏதேனும் இரு விளையாட்டு மட்டும் விளையாடுபவர்கள்:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "8",
+      "14",
+      "6",
+      "20"
+    ],
+    "correct": 1,
+    "explanation": "இரு விளையாட்டுகளில் மட்டும் பொதுவாக உள்ள எண்கள் = 8 + 6 = 14.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Players who only play any two sports:",
+    "options_en": [
+      "8",
+      "14",
+      "6",
+      "20"
+    ],
+    "explanation_en": "Only numbers common to both games = 8 + 6 = 14."
+  },
+  {
+    "id": 6,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. ஹாக்கி விளையாட்டை தவிர மற்ற ஏதேனும் ஒரு விளையாட்டை விளையாடும் மாணவர்கள்:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "16",
+      "12",
+      "33",
+      "28"
+    ],
+    "correct": 3,
+    "explanation": "வட்டத்தை தவிர்த்து மற்ற இரண்டு உருவங்களில் உள்ள எண்கள் = 12 + 7 + 9 = 28.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Students who play any sport other than hockey:",
+    "options_en": [
+      "16",
+      "12",
+      "33",
+      "28"
+    ],
+    "explanation_en": "Numbers in other two figures excluding circle = 12 + 7 + 9 = 28."
+  },
+  {
+    "id": 7,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. ஹாக்கி விளையாட்டு மட்டும் விளையாடுபவர்கள்:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "6",
+      "2",
+      "5",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "வட்டத்தில் மட்டும் உள்ள எண் = 6.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Those who play only the game of hockey:",
+    "options_en": [
+      "6",
+      "2",
+      "5",
+      "4"
+    ],
+    "explanation_en": "Number in circle only = 6."
+  },
+  {
+    "id": 8,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. ஏதேனும் ஒரு விளையாட்டு மட்டும் விளையாடுபவர்கள்:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "34",
+      "28",
+      "18",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "ஒவ்வொரு வடிவத்திலும் தனியாக உள்ள எண்களின் கூடுதல் = (6 + 12 + 7 + 9) = 34.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Those who play only one sport:",
+    "options_en": [
+      "34",
+      "28",
+      "18",
+      "5"
+    ],
+    "explanation_en": "Addition of numbers in each pattern alone = (6 + 12 + 7 + 9) = 34."
+  },
+  {
+    "id": 9,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. கிரிக்கெட், கால்பந்து, ஹாக்கி இம்முன்றையும் தவிர மற்ற விளையாட்டு விளையாடுபவர்கள்:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "20",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "மூன்று விளையாட்டுகளையும் தவிர ஐங்கோணத்தில் மட்டும் உள்ள எண்கள் = 3 + 2 = 5.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Cricket, Football, Hockey Other Sports Players:",
+    "options_en": [
+      "20",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation_en": "Numbers in pentagon only = 3 + 2 = 5 except all three games."
+  },
+  {
+    "id": 10,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் ஹாக்கி விளையாடுபவர்களையும், செவ்வகம் கால்பந்து விளையாடுபவர்களையும், முக்கோணம் கிரிக்கெட் விளையாடுபவர்களையும், ஐங்கோணம் வகுப்பில் உள்ள மாணவர்களையும் குறிக்கிறது. வகுப்பில் உள்ள மொத்த மாணவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q1-10.PNG",
+    "options": [
+      "52",
+      "41",
+      "40",
+      "57"
+    ],
+    "correct": 3,
+    "explanation": "அனைத்து எண்களின் கூடுதல் = 57.",
+    "question_en": "In the figure below, the circle represents the hockey players, the rectangle represents the football players, the triangle represents the cricket players and the pentagon represents the students in the class. Total number of students in the class:",
+    "options_en": [
+      "52",
+      "41",
+      "40",
+      "57"
+    ],
+    "explanation_en": "Addition of all numbers = 57."
+  },
+  {
+    "id": 11,
+    "question": "கீழ்க்காணும் படத்தில் சதுரம் ஓவியம் வரைவதில் விருப்பமுள்ளவர்களையும், செவ்வகம் விளையாட்டில் ஆர்வமுள்ளவர்களையும், முக்கோணம் நடனத்தில் நாட்டமுள்ளவர்களையும், வட்டம் நாடகம் நடிப்பதில் விருப்பமுள்ளவர்களையும் குறிக்கிறது. ஓவியம் மற்றும் விளையாட்டில் ஆர்வமில்லாத ஆனால் நடனம் மற்றும் நாடகத்தில் விருப்பமுள்ளவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q11-15.PNG",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "முக்கோணம் மற்றும் வட்டத்தில் மட்டும் வெட்டிக்கொள்ளும் இடத்தில் வரும் எண் = 4.",
+    "question_en": "In the figure below, the square represents those who are interested in painting, the rectangle represents those who are interested in sports, the triangle represents those who are interested in dancing and the circle represents those who are interested in acting. Number of people not interested in painting and sports but interested in dance and drama:",
+    "options_en": [
+      "1",
+      "4",
+      "5",
+      "3"
+    ],
+    "explanation_en": "Number at intersection of triangle and circle only = 4."
+  },
+  {
+    "id": 12,
+    "question": "கீழ்க்காணும் படத்தில் சதுரம் ஓவியம் வரைவதில் விருப்பமுள்ளவர்களையும், செவ்வகம் விளையாட்டில் ஆர்வமுள்ளவர்களையும், முக்கோணம் நடனத்தில் நாட்டமுள்ளவர்களையும், வட்டம் நாடகம் நடிப்பதில் விருப்பமுள்ளவர்களையும் குறிக்கிறது. அனைத்திலும் விருப்பம் உடையவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q11-15.PNG",
+    "options": [
+      "3",
+      "6",
+      "2",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "அனைத்து வடிவங்களுக்கும் பொதுவானது = 3.",
+    "question_en": "In the figure below, the square represents those who are interested in painting, the rectangle represents those who are interested in sports, the triangle represents those who are interested in dancing and the circle represents those who are interested in acting. Number of interested in all:",
+    "options_en": [
+      "3",
+      "6",
+      "2",
+      "9"
+    ],
+    "explanation_en": "Common to all patterns = 3."
+  },
+  {
+    "id": 13,
+    "question": "கீழ்க்காணும் படத்தில் சதுரம் ஓவியம் வரைவதில் விருப்பமுள்ளவர்களையும், செவ்வகம் விளையாட்டில் ஆர்வமுள்ளவர்களையும், முக்கோணம் நடனத்தில் நாட்டமுள்ளவர்களையும், வட்டம் நாடகம் நடிப்பதில் விருப்பமுள்ளவர்களையும் குறிக்கிறது. ஏதேனும் ஒன்றில் மட்டும் விருப்பமுள்ளவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q11-15.PNG",
+    "options": [
+      "15",
+      "20",
+      "16",
+      "21"
+    ],
+    "correct": 2,
+    "explanation": "தனித்து இருக்கும் எண்களின் கூடுதல் = (7 + 8 + 1) = 16.",
+    "question_en": "In the figure below, the square represents those who are interested in painting, the rectangle represents those who are interested in sports, the triangle represents those who are interested in dancing and the circle represents those who are interested in acting. Number of people interested in either:",
+    "options_en": [
+      "15",
+      "20",
+      "16",
+      "21"
+    ],
+    "explanation_en": "Addition of odd numbers = (7 + 8 + 1) = 16."
+  },
+  {
+    "id": 14,
+    "question": "கீழ்க்காணும் படத்தில் சதுரம் ஓவியம் வரைவதில் விருப்பமுள்ளவர்களையும், செவ்வகம் விளையாட்டில் ஆர்வமுள்ளவர்களையும், முக்கோணம் நடனத்தில் நாட்டமுள்ளவர்களையும், வட்டம் நாடகம் நடிப்பதில் விருப்பமுள்ளவர்களையும் குறிக்கிறது. ஓவியம் வரைவதில் விருப்பமில்லாத ஆனால் விளையாட்டில் ஆர்வமுள்ளவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q11-15.PNG",
+    "options": [
+      "22",
+      "25",
+      "26",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "சதுரத்தை தவிர்த்து செவ்வகத்தில் மட்டும் உள்ள எண்கள் = (8 + 5 + 9) = 22.",
+    "question_en": "In the figure below, the square represents those who are interested in painting, the rectangle represents those who are interested in sports, the triangle represents those who are interested in dancing and the circle represents those who are interested in acting. Number of people who are not interested in painting but are interested in sports:",
+    "options_en": [
+      "22",
+      "25",
+      "26",
+      "7"
+    ],
+    "explanation_en": "Numbers in rectangle alone excluding square = (8 + 5 + 9) = 22."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்க்காணும் படத்தில் சதுரம் ஓவியம் வரைவதில் விருப்பமுள்ளவர்களையும், செவ்வகம் விளையாட்டில் ஆர்வமுள்ளவர்களையும், முக்கோணம் நடனத்தில் நாட்டமுள்ளவர்களையும், வட்டம் நாடகம் நடிப்பதில் விருப்பமுள்ளவர்களையும் குறிக்கிறது. குறைந்தபட்சம் மூன்று செயல்பாடுகளில் ஆர்வமுள்ளவர்களின் எண்ணிக்கை:",
+    "image": "image/unit13/q11-15.PNG",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "18"
+    ],
+    "correct": 3,
+    "explanation": "மூன்று மற்றும் அதற்கு மேற்பட்ட வடிவங்களுக்கு பொதுவான எண்கள் = (6 + 3 + 9) = 18.",
+    "question_en": "In the figure below, the square represents those who are interested in painting, the rectangle represents those who are interested in sports, the triangle represents those who are interested in dancing and the circle represents those who are interested in acting. Number of people interested in at least three activities:",
+    "options_en": [
+      "3",
+      "6",
+      "9",
+      "18"
+    ],
+    "explanation_en": "Common numbers for three and more patterns = (6 + 3 + 9) = 18."
+  },
+  {
+    "id": 16,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் இருசக்கர வாகனத்தைப் பயன்படுத்துபவர்களையும், சதுரம் பேருந்தை பயன்படுத்துபவர்களையும், முக்கோணம் மகிழுந்தை பயன்படுத்துபவர்களையும், செவ்வகம் மிதி வண்டியை பயன்படுத்துபவர்களையும் குறிக்கிறது. எப்பகுதி ஏதேனும் ஒன்றை மட்டும் பயன்படுத்தி அலுவலகத்திற்கு செல்பவர்களை குறிக்கிறது:",
+    "image": "image/unit13/q16-20.PNG",
+    "options": [
+      "AEKX",
+      "ABEK",
+      "KXEY",
+      "CBEY"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு வடிவத்தில் மட்டும் உள்ள எழுத்து = A, B, E, K.",
+    "question_en": "In the figure below, the circle represents the two-wheeler users, the square represents the bus users, the triangle represents the bicycle users, and the rectangle represents the pedal cart users. Which refers to those who go to the office using only one of the following:",
+    "options_en": [
+      "AEKX",
+      "ABEK",
+      "KXEY",
+      "CBEY"
+    ],
+    "explanation_en": "Only letter in each pattern = A, B, E, K."
+  },
+  {
+    "id": 17,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் இருசக்கர வாகனத்தைப் பயன்படுத்துபவர்களையும், சதுரம் பேருந்தை பயன்படுத்துபவர்களையும், முக்கோணம் மகிழுந்தை பயன்படுத்துபவர்களையும், செவ்வகம் மிதி வண்டியை பயன்படுத்துபவர்களையும் குறிக்கிறது. இருசக்கர வாகனத்தை பயன்படுத்தாமல் பேருந்து மற்றும் மிதிவண்டியை பயன்படுத்துபவர்களை குறிப்பது:",
+    "image": "image/unit13/q16-20.PNG",
+    "options": [
+      "K",
+      "E",
+      "A",
+      "X"
+    ],
+    "correct": 3,
+    "explanation": "வட்டத்தை தவிர சதுரம் மற்றும் செவ்வகத்திற்கு பொதுவான எழுத்து = X.",
+    "question_en": "In the figure below, the circle represents the two-wheeler users, the square represents the bus users, the triangle represents the bicycle users, and the rectangle represents the pedal cart users. Noting those who use buses and bicycles without using two-wheelers:",
+    "options_en": [
+      "K",
+      "E",
+      "A",
+      "X"
+    ],
+    "explanation_en": "Common letter for square and rectangle except circle = X."
+  },
+  {
+    "id": 18,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் இருசக்கர வாகனத்தைப் பயன்படுத்துபவர்களையும், சதுரம் பேருந்தை பயன்படுத்துபவர்களையும், முக்கோணம் மகிழுந்தை பயன்படுத்துபவர்களையும், செவ்வகம் மிதி வண்டியை பயன்படுத்துபவர்களையும் குறிக்கிறது. ஏதேனும் மூன்றை மட்டும் பயன்படுத்தி அலுவலகத்திற்கு செல்பவர்களை குறிப்பது:",
+    "image": "image/unit13/q16-20.PNG",
+    "options": [
+      "DZ",
+      "HZ",
+      "DL",
+      "HL"
+    ],
+    "correct": 0,
+    "explanation": "மூன்று வடிவங்களுக்கு பொதுவான எழுத்துக்கள் = D, Z.",
+    "question_en": "In the figure below, the circle represents the two-wheeler users, the square represents the bus users, the triangle represents the bicycle users, and the rectangle represents the pedal cart users. Denote office goers using only any three:",
+    "options_en": [
+      "DZ",
+      "HZ",
+      "DL",
+      "HL"
+    ],
+    "explanation_en": "Letters common to the three forms = D, Z."
+  },
+  {
+    "id": 19,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் இருசக்கர வாகனத்தைப் பயன்படுத்துபவர்களையும், சதுரம் பேருந்தை பயன்படுத்துபவர்களையும், முக்கோணம் மகிழுந்தை பயன்படுத்துபவர்களையும், செவ்வகம் மிதி வண்டியை பயன்படுத்துபவர்களையும் குறிக்கிறது. இருசக்கர வாகனத்தை பயன்படுத்தி பேருந்தை பயன்படுத்தாமல் அலுவலகத்திற்கு செல்பவர்களை குறிப்பது:",
+    "image": "image/unit13/q16-20.PNG",
+    "options": [
+      "XK",
+      "AB",
+      "YL",
+      "XY"
+    ],
+    "correct": 2,
+    "explanation": "சதுரத்தை தவிர மற்ற வடிவங்களில் உள்ள எழுத்துக்கள் = A, B.",
+    "question_en": "In the figure below, the circle represents the two-wheeler users, the square represents the bus users, the triangle represents the bicycle users, and the rectangle represents the pedal cart users. Denotes those who go to office using two-wheeler instead of using bus:",
+    "options_en": [
+      "XK",
+      "AB",
+      "YL",
+      "XY"
+    ],
+    "explanation_en": "Letters in shapes other than square = A, B."
+  },
+  {
+    "id": 20,
+    "question": "கீழ்க்காணும் படத்தில் வட்டம் இருசக்கர வாகனத்தைப் பயன்படுத்துபவர்களையும், சதுரம் பேருந்தை பயன்படுத்துபவர்களையும், முக்கோணம் மகிழுந்தை பயன்படுத்துபவர்களையும், செவ்வகம் மிதி வண்டியை பயன்படுத்துபவர்களையும் குறிக்கிறது. அனைத்து வாகனங்களையும் பயன்படுத்துவர்களை குறிப்பது:",
+    "image": "image/unit13/q16-20.PNG",
+    "options": [
+      "D",
+      "L",
+      "H",
+      "C"
+    ],
+    "correct": 1,
+    "explanation": "அனைத்து வடிவங்களுக்கும் பொதுவான எழுத்து = L.",
+    "question_en": "In the figure below, the circle represents the two-wheeler users, the square represents the bus users, the triangle represents the bicycle users, and the rectangle represents the pedal cart users. Noting all vehicle users:",
+    "options_en": [
+      "D",
+      "L",
+      "H",
+      "C"
+    ],
+    "explanation_en": "Common letter for all forms = L."
+  },
+  {
+    "id": 21,
+    "question": "கீழ்க்காணும் படத்தில் செவ்வகம், சதுரம், வட்டம், முக்கோணம் ஆகியவை முறையே நிலக்கரி, இரும்பு, தங்கம் மற்றும் வெள்ளி உற்பத்தி செய்யப்படும் இடங்களைக் குறிக்கிறது. எப்பகுதியில் இரும்பு மற்றும் தங்கம் மட்டும் உற்பத்தி செய்யப்படுகிறது?",
+    "image": "image/unit13/q21-25.PNG",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "சதுரம் மற்றும் வட்டத்திற்கு மட்டும் பொதுவானது = 4.",
+    "question_en": "In the figure below, rectangle, square, circle and triangle represent the places where coal, iron, gold and silver are produced respectively. Which region produces only iron and gold?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "8"
+    ],
+    "explanation_en": "Common to square and circle only = 4."
+  },
+  {
+    "id": 22,
+    "question": "கீழ்க்காணும் படத்தில் செவ்வகம், சதுரம், வட்டம், முக்கோணம் ஆகியவை முறையே நிலக்கரி, இரும்பு, தங்கம் மற்றும் வெள்ளி உற்பத்தி செய்யப்படும் இடங்களைக் குறிக்கிறது. எப்பகுதி தங்கம் மற்றும் வெள்ளி உற்பத்தியைக் குறிக்கிறது?",
+    "image": "image/unit13/q21-25.PNG",
+    "options": [
+      "10",
+      "11",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "வட்டம் மற்றும் முக்கோணத்திற்கு பொதுவானது = 10.",
+    "question_en": "In the figure below, rectangle, square, circle and triangle represent the places where coal, iron, gold and silver are produced respectively. Which region represents gold and silver production?",
+    "options_en": [
+      "10",
+      "11",
+      "8",
+      "6"
+    ],
+    "explanation_en": "Common to circle and triangle = 10."
+  },
+  {
+    "id": 23,
+    "question": "கீழ்க்காணும் படத்தில் செவ்வகம், சதுரம், வட்டம், முக்கோணம் ஆகியவை முறையே நிலக்கரி, இரும்பு, தங்கம் மற்றும் வெள்ளி உற்பத்தி செய்யப்படும் இடங்களைக் குறிக்கிறது. எப்பகுதி நான்கு தாதுக்கள் உற்பத்தி செய்யப்படும் பகுதிகளைக் குறிக்கிறது?",
+    "image": "image/unit13/q21-25.PNG",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 0,
+    "explanation": "அனைத்து வடிவங்களுக்கும் பொதுவானது = 8.",
+    "question_en": "In the figure below, rectangle, square, circle and triangle represent the places where coal, iron, gold and silver are produced respectively. Which region refers to the regions where four minerals are produced?",
+    "options_en": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation_en": "Common to all patterns = 8."
+  },
+  {
+    "id": 24,
+    "question": "கீழ்க்காணும் படத்தில் செவ்வகம், சதுரம், வட்டம், முக்கோணம் ஆகியவை முறையே நிலக்கரி, இரும்பு, தங்கம் மற்றும் வெள்ளி உற்பத்தி செய்யப்படும் இடங்களைக் குறிக்கிறது. எப்பகுதியில் வெள்ளி அல்லாது நிலக்கரி, இரும்பு மற்றும் தங்கம் உற்பத்தி செய்யப்படுகிறது?",
+    "image": "image/unit13/q21-25.PNG",
+    "options": [
+      "9",
+      "5",
+      "4",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "முக்கோணத்தை தவிர மற்ற மூன்று வடிவங்களுக்கும் பொதுவானது = 2.",
+    "question_en": "In the figure below, rectangle, square, circle and triangle represent the places where coal, iron, gold and silver are produced respectively. Which region produces coal, iron and gold other than silver?",
+    "options_en": [
+      "9",
+      "5",
+      "4",
+      "2"
+    ],
+    "explanation_en": "Common to all three shapes except triangle = 2."
+  },
+  {
+    "id": 25,
+    "question": "கீழ்க்காணும் படத்தில் செவ்வகம், சதுரம், வட்டம், முக்கோணம் ஆகியவை முறையே நிலக்கரி, இரும்பு, தங்கம் மற்றும் வெள்ளி உற்பத்தி செய்யப்படும் இடங்களைக் குறிக்கிறது. எப்பகுதியில் இரும்பு அல்லாது நிலக்கரி, தங்கம் மற்றும் வெள்ளி உற்பத்தி செய்யப்படுகிறது?",
+    "image": "image/unit13/q21-25.PNG",
+    "options": [
+      "6",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "சதுரத்தை தவிர மற்ற மூன்று வடிவங்களுக்கும் பொதுவானது = 10.",
+    "question_en": "In the figure below, rectangle, square, circle and triangle represent the places where coal, iron, gold and silver are produced respectively. Which region produces non-iron, coal, gold and silver?",
+    "options_en": [
+      "6",
+      "9",
+      "10",
+      "11"
+    ],
+    "explanation_en": "Common to all three shapes except square = 10."
+  },
+  {
+    "id": 26,
+    "question": "கீழே கொடுக்கப்பட்ட படத்தை உற்று நோக்கி விடையளி. வட்டங்கள் முறையே தலைவர்கள், இந்தியர்கள் மற்றும் பாடகர்களைக் குறிக்கின்றன. எந்த பகுதி பாடகர்கள் அல்லாத இந்திய தலைவர்களைக் குறிக்கின்றது?",
+    "image": "image/unit13/q26-30.PNG",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "பாடகர்கள் வட்டத்தை தவிர்த்து இந்தியர்கள் மற்றும் தலைவர்கள் வட்டங்களுக்கு பொதுவானது = 2.",
+    "question_en": "Answer by looking at the picture given below. Circles represent chiefs, Indians and singers respectively. Which part refers to Indian leaders who were not singers?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation_en": "Common to Indians and Leaders Circles excluding Singers Circle = 2."
+  },
+  {
+    "id": 27,
+    "question": "கீழே கொடுக்கப்பட்ட படத்தை உற்று நோக்கி விடையளி. வட்டங்கள் முறையே தலைவர்கள், இந்தியர்கள் மற்றும் பாடகர்களைக் குறிக்கின்றன. எந்த பகுதி, பாடகர்களாக உள்ள இந்தியத் தலைவர்களைக் குறிக்கிறது?",
+    "image": "image/unit13/q26-30.PNG",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "மூன்று வட்டங்களுக்கும் பொதுவானது = 3.",
+    "question_en": "Answer by looking at the picture given below. Circles represent chiefs, Indians and singers respectively. Which passage refers to Indian leaders who were singers?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation_en": "Common to all three circles = 3."
+  },
+  {
+    "id": 28,
+    "question": "கீழே கொடுக்கப்பட்ட படத்தை உற்று நோக்கி விடையளி. வட்டங்கள் முறையே தலைவர்கள், இந்தியர்கள் மற்றும் பாடகர்களைக் குறிக்கின்றன. எந்தப்பகுதி, பாடகர்களாகவும் இந்தியர்களாகவும் அல்லாத தலைவர்களைக் குறிக்கிறது?",
+    "image": "image/unit13/q26-30.PNG",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "7"
+    ],
+    "correct": 2,
+    "explanation": "தலைவர்கள் வட்டத்தில் மட்டும் தனியாக உள்ளது = 6.",
+    "question_en": "Answer by looking at the picture given below. Circles represent chiefs, Indians and singers respectively. Which passage refers to leaders who were not singers and Indians?",
+    "options_en": [
+      "2",
+      "3",
+      "6",
+      "7"
+    ],
+    "explanation_en": "Alone only in Leaders Circle = 6."
+  },
+  {
+    "id": 29,
+    "question": "கீழே கொடுக்கப்பட்ட படத்தை உற்று நோக்கி விடையளி. வட்டங்கள் முறையே தலைவர்கள், இந்தியர்கள் மற்றும் பாடகர்களைக் குறிக்கின்றன. எப்பகுதி தலைவர்களாக அல்லாத இந்தியர்களையும் பாடகர்களையும் குறிக்கிறது?",
+    "image": "image/unit13/q26-30.PNG",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "தலைவர்கள் வட்டத்தை தவிர்த்து இந்தியர்கள் மற்றும் பாடகர்கள் வட்டங்களுக்கு பொதுவானது = 4.",
+    "question_en": "Answer by looking at the picture given below. Circles represent chiefs, Indians and singers respectively. Which region refers to non-leaders Indians and singers?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation_en": "Common to Indians and Singers Circles excluding Leaders Circle = 4."
+  },
+  {
+    "id": 30,
+    "question": "கீழே கொடுக்கப்பட்ட படத்தை உற்று நோக்கி விடையளி. வட்டங்கள் முறையே தலைவர்கள், இந்தியர்கள் மற்றும் பாடகர்களைக் குறிக்கின்றன. எப்பகுதி இந்தியர்களாகவும் தலைவர்களாகவும் அல்லாத பாடகர்களைக் குறிக்கின்றது?",
+    "image": "image/unit13/q26-30.PNG",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "பாடகர்கள் வட்டத்தில் மட்டும் தனியாக உள்ளது = 7.",
+    "question_en": "Answer by looking at the picture given below. Circles represent chiefs, Indians and singers respectively. Which region refers to non-Indian singers and leaders?",
+    "options_en": [
+      "2",
+      "4",
+      "6",
+      "7"
+    ],
+    "explanation_en": "Alone only in the circle of singers = 7."
+  },
+  {
+    "id": 31,
+    "question": "கீழ்க்கண்ட வரைபடத்தில் முக்கோணம் மருத்துவர்களையும், வட்டம் விளையாடுபவர்களையும், செவ்வகம் ஓவியர்களையும் குறிக்கிறது. விளையாடுபவர்களாகவும், ஓவியர்களாகவும் உள்ள மருத்துவர்களின் எண்ணிக்கையை குறிப்பது?",
+    "image": "image/unit13/q31-35.PNG",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "மூன்று வடிவங்களுக்கும் பொதுவான எண் = 5.",
+    "question_en": "In the diagram below, the triangle represents doctors, the circle represents players, and the rectangle represents painters. Marking the number of doctors who are sportsmen and painters?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation_en": "Common number for all three patterns = 5."
+  },
+  {
+    "id": 32,
+    "question": "கீழ்க்கண்ட வரைபடத்தில் முக்கோணம் மருத்துவர்களையும், வட்டம் விளையாடுபவர்களையும், செவ்வகம் ஓவியர்களையும் குறிக்கிறது. ஓவியர்களாக உள்ள விளையாடுபவர்களின் எண்ணிக்கையைக் குறிக்கும் எண்:",
+    "image": "image/unit13/q31-35.PNG",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "செவ்வகம் மற்றும் வட்டத்திற்கு பொதுவான எண் = 6.",
+    "question_en": "In the diagram below, the triangle represents doctors, the circle represents players, and the rectangle represents painters. A number representing the number of players who are painters:",
+    "options_en": [
+      "6",
+      "7",
+      "8",
+      "4"
+    ],
+    "explanation_en": "Common number for rectangle and circle = 6."
+  },
+  {
+    "id": 33,
+    "question": "கீழ்க்கண்ட வரைபடத்தில் முக்கோணம் மருத்துவர்களையும், வட்டம் விளையாடுபவர்களையும், செவ்வகம் ஓவியர்களையும் குறிக்கிறது. விளையாடுபவர்களாகவோ, மருத்துவர்களாகவோ அல்லாத ஓவியர்களின் எண்ணிக்கையைக் குறிக்கும் எண்?",
+    "image": "image/unit13/q31-35.PNG",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "வட்டம் மற்றும் முக்கோணத்தை தவிர செவ்வகத்தில் மட்டும் உள்ள எண் = 1.",
+    "question_en": "In the diagram below, the triangle represents doctors, the circle represents players, and the rectangle represents painters. A number representing the number of painters who are not sportsmen or doctors?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation_en": "Apart from circle and triangle the number in rectangle alone = 1."
+  },
+  {
+    "id": 34,
+    "question": "கீழ்க்கண்ட வரைபடத்தில் முக்கோணம் மருத்துவர்களையும், வட்டம் விளையாடுபவர்களையும், செவ்வகம் ஓவியர்களையும் குறிக்கிறது. எந்த எண் விளையாடுபவர்களாகவோ அல்லது ஓவியர்களாகவோ அல்லாத மருத்துவர்களாக உள்ளவர்களின் எண்ணிக்கை?",
+    "image": "image/unit13/q31-35.PNG",
+    "options": [
+      "21",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 2,
+    "explanation": "வட்டம் மற்றும் செவ்வகத்தை தவிர முக்கோணத்தில் மட்டும் உள்ள எண் = 3.",
+    "question_en": "In the diagram below, the triangle represents doctors, the circle represents players, and the rectangle represents painters. What is the number of people who are doctors who are not sportsmen or painters?",
+    "options_en": [
+      "21",
+      "4",
+      "3",
+      "5"
+    ],
+    "explanation_en": "Other than circle and rectangle only number in triangle = 3."
+  },
+  {
+    "id": 35,
+    "question": "கீழ்க்கண்ட வரைபடத்தில் முக்கோணம் மருத்துவர்களையும், வட்டம் விளையாடுபவர்களையும், செவ்வகம் ஓவியர்களையும் குறிக்கிறது. எந்த எண் ஓவியர்களாகவோ அல்லது மருத்துவர்களாகவோ அல்லாத விளையாடுபவர்களாக உள்ளவர்களின் எண்ணிக்கை?",
+    "image": "image/unit13/q31-35.PNG",
+    "options": [
+      "1, 2",
+      "3, 4",
+      "6, 7",
+      "7, 8"
+    ],
+    "correct": 3,
+    "explanation": "செவ்வகம் மற்றும் முக்கோணத்தை தவிர வட்டத்தில் மட்டும் உள்ள எண்கள் = 7, 8.",
+    "question_en": "In the diagram below, the triangle represents doctors, the circle represents players, and the rectangle represents painters. What number of people are gamers who are not painters or doctors?",
+    "options_en": [
+      "1, 2",
+      "3, 4",
+      "6, 7",
+      "7, 8"
+    ],
+    "explanation_en": "Numbers in circle only except rectangle and triangle = 7, 8."
+  }
+]

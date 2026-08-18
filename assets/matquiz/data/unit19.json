@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 0, 7, 26, 63, 124, 216",
+    "options": [
+      "216",
+      "63",
+      "124",
+      "26"
+    ],
+    "correct": 0,
+    "explanation": "1³-1, 2³-1, 3³-1, 4³-1, 5³-1, 6³-1 என்ற அமைப்பில் எண்கள் உள்ளன. எனவே, 6³-1 = 215 வர வேண்டும், ஆனால் 216 உள்ளது. தவறான எண் 216.",
+    "question_en": "Choose the incorrect number in the number series: 0, 7, 26, 63, 124, 216",
+    "options_en": [
+      "216",
+      "63",
+      "124",
+      "26"
+    ],
+    "explanation_en": "The numbers are in the order 1³-1, 2³-1, 3³-1, 4³-1, 5³-1, 6³-1. So, 6³-1 = 215 should come out, but 216 is there. Wrong number is 216."
+  },
+  {
+    "id": 2,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 2, 2, 3, 4, 4, 6, 5, 7",
+    "options": [
+      "4",
+      "3",
+      "7",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "இதில் இரண்டு தொடர்கள் உள்ளன: 2, 3, 4, 5 (+1) மற்றும் 2, 4, 6, 8 (+2). எனவே 7-க்கு பதிலாக 8 வர வேண்டும். தவறான எண் 7.",
+    "question_en": "Choose the incorrect number in the number series: 2, 2, 3, 4, 4, 6, 5, 7",
+    "options_en": [
+      "4",
+      "3",
+      "7",
+      "6"
+    ],
+    "explanation_en": "It has two sequences: 2, 3, 4, 5 (+1) and 2, 4, 6, 8 (+2). So 8 should come instead of 7. Wrong number is 7."
+  },
+  {
+    "id": 3,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 240, 40, 10, 5, 1",
+    "options": [
+      "1",
+      "5",
+      "240",
+      "40"
+    ],
+    "correct": 0,
+    "explanation": "240 ÷ 6 = 40; 40 ÷ 4 = 10; 10 ÷ 2 = 5; 5 ÷ 0 = ∞. எனவே 1 வரக்கூடாது. தவறான எண் 1.",
+    "question_en": "Choose the incorrect number in the number series: 240, 40, 10, 5, 1",
+    "options_en": [
+      "1",
+      "5",
+      "240",
+      "40"
+    ],
+    "explanation_en": "240 ÷ 6 = 40; 40 ÷ 4 = 10; 10 ÷ 2 = 5; 5 ÷ 0 = ∞. So 1 should not come. Wrong number 1."
+  },
+  {
+    "id": 4,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 19, 29, 21, 23, 13",
+    "options": [
+      "13",
+      "23",
+      "29",
+      "21"
+    ],
+    "correct": 3,
+    "explanation": "21 என்பது ஒரு பகு எண் (Composite number), மற்றவை பகா எண்கள் (Prime numbers). தவறான எண் 21.",
+    "question_en": "Choose the wrong number in the number series: 19, 29, 21, 23, 13",
+    "options_en": [
+      "13",
+      "23",
+      "29",
+      "21"
+    ],
+    "explanation_en": "21 is a composite number, while others are prime numbers. The wrong number is 21."
+  },
+  {
+    "id": 5,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 445, 221, 109, 46, 25, 11, 4",
+    "options": [
+      "25",
+      "46",
+      "109",
+      "221"
+    ],
+    "correct": 1,
+    "explanation": "445 - 3 = 442 ÷ 2 = 221; 221 - 3 = 218 ÷ 2 = 109; 109 - 3 = 106 ÷ 2 = 53. எனவே 46-க்கு பதிலாக 53 வர வேண்டும். தவறான எண் 46.",
+    "question_en": "Choose the incorrect number in the number series: 445, 221, 109, 46, 25, 11, 4",
+    "options_en": [
+      "25",
+      "46",
+      "109",
+      "221"
+    ],
+    "explanation_en": "445 - 3 = 442 ÷ 2 = 221; 221 - 3 = 218 ÷ 2 = 109; 109 - 3 = 106 ÷ 2 = 53. So 46 should be replaced by 53. The wrong number is 46."
+  },
+  {
+    "id": 6,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 1236, 2346, 3456, 4566, 5686",
+    "options": [
+      "1236",
+      "3456",
+      "4566",
+      "5686"
+    ],
+    "correct": 3,
+    "explanation": "எண்களின் முதல் 3 இலக்கங்கள் தொடர்ச்சியான எண்களாக உள்ளன (123, 234, 345, 456, 567) மற்றும் கடைசி இலக்கம் 6. எனவே 5676 வர வேண்டும். தவறான எண் 5686.",
+    "question_en": "Select the incorrect number in the number series: 1236, 2346, 3456, 4566, 5686",
+    "options_en": [
+      "1236",
+      "3456",
+      "4566",
+      "5686"
+    ],
+    "explanation_en": "The first 3 digits of the numbers are consecutive numbers (123, 234, 345, 456, 567) and the last digit is 6. So 5676 should come. Wrong number 5686."
+  },
+  {
+    "id": 7,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 2, 5, 10, 17, 26, 37, 50, 64",
+    "options": [
+      "17",
+      "26",
+      "37",
+      "64"
+    ],
+    "correct": 3,
+    "explanation": "1²+1, 2²+1, 3²+1... என்ற அமைப்பில் எண்கள் உள்ளன. 8²+1 = 65 வர வேண்டும். தவறான எண் 64.",
+    "question_en": "Choose the wrong number in the number series: 2, 5, 10, 17, 26, 37, 50, 64",
+    "options_en": [
+      "17",
+      "26",
+      "37",
+      "64"
+    ],
+    "explanation_en": "The numbers are in the order 1²+1, 2²+1, 3²+1... 8²+1 = 65 should come. The wrong number is 64."
+  },
+  {
+    "id": 8,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 380, 188, 92, 48, 20, 8, 2",
+    "options": [
+      "188",
+      "92",
+      "48",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "(380 - 4) ÷ 2 = 188; (188 - 4) ÷ 2 = 92; (92 - 4) ÷ 2 = 44. எனவே 48-க்கு பதிலாக 44 வர வேண்டும். தவறான எண் 48.",
+    "question_en": "Choose the wrong number in the number series: 380, 188, 92, 48, 20, 8, 2",
+    "options_en": [
+      "188",
+      "92",
+      "48",
+      "20"
+    ],
+    "explanation_en": "(380 - 4) ÷ 2 = 188; (188 - 4) ÷ 2 = 92; (92 - 4) ÷ 2 = 44. So 48 should be replaced by 44. The wrong number is 48."
+  },
+  {
+    "id": 9,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 11, 5, 20, 12, 40, 26, 74, 54",
+    "options": [
+      "5",
+      "20",
+      "40",
+      "26"
+    ],
+    "correct": 2,
+    "explanation": "மாற்றுத் தொடர்கள்: 11 x 2 - 2 = 20, 20 x 2 - 2 = 38. எனவே 40-க்கு பதிலாக 38 வர வேண்டும். தவறான எண் 40.",
+    "question_en": "Choose the incorrect number in the number series: 11, 5, 20, 12, 40, 26, 74, 54",
+    "options_en": [
+      "5",
+      "20",
+      "40",
+      "26"
+    ],
+    "explanation_en": "Alternate series: 11 x 2 - 2 = 20, 20 x 2 - 2 = 38. So 40 should be replaced by 38. The wrong number is 40."
+  },
+  {
+    "id": 10,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 46080, 3840, 384, 48, 24",
+    "options": [
+      "384",
+      "48",
+      "24",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "46080 ÷ 12 = 3840; 3840 ÷ 10 = 384; 384 ÷ 8 = 48; 48 ÷ 6 = 8. எனவே 24-க்கு பதிலாக 8 வர வேண்டும். தவறான எண் 24.",
+    "question_en": "Select the incorrect number in the number series: 46080, 3840, 384, 48, 24",
+    "options_en": [
+      "384",
+      "48",
+      "24",
+      "2"
+    ],
+    "explanation_en": "46080 ÷ 12 = 3840; 3840 ÷ 10 = 384; 384 ÷ 8 = 48; 48 ÷ 6 = 8. So 24 should be replaced by 8. The wrong number is 24."
+  },
+  {
+    "id": 11,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 5, 10, 40, 80, 320, 550, 2560",
+    "options": [
+      "80",
+      "320",
+      "550",
+      "2560"
+    ],
+    "correct": 2,
+    "explanation": "மாற்றுத் தொடர்கள்: 5 x 8 = 40, 40 x 8 = 320, 320 x 8 = 2560. மற்றொன்று: 10 x 8 = 80, 80 x 8 = 640. எனவே 550-க்கு பதிலாக 640 வர வேண்டும். தவறான எண் 550.",
+    "question_en": "Choose the incorrect number in the number series: 5, 10, 40, 80, 320, 550, 2560",
+    "options_en": [
+      "80",
+      "320",
+      "550",
+      "2560"
+    ],
+    "explanation_en": "Alternate sequences: 5 x 8 = 40, 40 x 8 = 320, 320 x 8 = 2560. Another: 10 x 8 = 80, 80 x 8 = 640. So 550 should be replaced by 640. The wrong number is 550."
+  },
+  {
+    "id": 12,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 16, 22, 30, 45, 52, 66",
+    "options": [
+      "30",
+      "45",
+      "52",
+      "66"
+    ],
+    "correct": 1,
+    "explanation": "16 + 6 = 22; 22 + 8 = 30; 30 + 10 = 40; 40 + 12 = 52. எனவே 45-க்கு பதிலாக 40 வர வேண்டும். தவறான எண் 45.",
+    "question_en": "Choose the wrong number in the number series: 16, 22, 30, 45, 52, 66",
+    "options_en": [
+      "30",
+      "45",
+      "52",
+      "66"
+    ],
+    "explanation_en": "16 + 6 = 22; 22 + 8 = 30; 30 + 10 = 40; 40 + 12 = 52. So 45 should be replaced by 40. The wrong number is 45."
+  },
+  {
+    "id": 13,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 89, 78, 86, 80, 85, 82, 83",
+    "options": [
+      "83",
+      "82",
+      "86",
+      "85"
+    ],
+    "correct": 3,
+    "explanation": "மாற்றுத் தொடர்கள்: 89 - 3 = 86; 86 - 2 = 84; 84 - 1 = 83. எனவே 85-க்கு பதிலாக 84 வர வேண்டும். தவறான எண் 85.",
+    "question_en": "Select the wrong number in the number series: 89, 78, 86, 80, 85, 82, 83",
+    "options_en": [
+      "83",
+      "82",
+      "86",
+      "85"
+    ],
+    "explanation_en": "Alternating series: 89 - 3 = 86; 86 - 2 = 84; 84 - 1 = 83. So 85 should be replaced by 84. The wrong number is 85."
+  },
+  {
+    "id": 14,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 56, 72, 90, 110, 132, 150",
+    "options": [
+      "72",
+      "90",
+      "110",
+      "150"
+    ],
+    "correct": 3,
+    "explanation": "56+16=72; 72+18=90; 90+20=110; 110+22=132; 132+24=156. எனவே 150-க்கு பதிலாக 156 வர வேண்டும். தவறான எண் 150.",
+    "question_en": "Choose the incorrect number in the number series: 56, 72, 90, 110, 132, 150",
+    "options_en": [
+      "72",
+      "90",
+      "110",
+      "150"
+    ],
+    "explanation_en": "56+16=72; 72+18=90; 90+20=110; 110+22=132; 132+24=156. So 156 should come instead of 150. The wrong number is 150."
+  },
+  {
+    "id": 15,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 125, 126, 124, 127, 123, 129",
+    "options": [
+      "126",
+      "127",
+      "123",
+      "129"
+    ],
+    "correct": 1,
+    "explanation": "127 ஒரு பகா எண் (Prime number). மற்றவை பகு எண்கள் (Composite numbers). தவறான எண் 127.",
+    "question_en": "Select the wrong number in the number series: 125, 126, 124, 127, 123, 129",
+    "options_en": [
+      "126",
+      "127",
+      "123",
+      "129"
+    ],
+    "explanation_en": "127 is a prime number. Others are composite numbers. The wrong number is 127."
+  },
+  {
+    "id": 16,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 4, 7, 12, 18, 28, 39",
+    "options": [
+      "4",
+      "12",
+      "18",
+      "39"
+    ],
+    "correct": 2,
+    "explanation": "1²+3=4, 2²+3=7, 3²+3=12, 4²+3=19, 5²+3=28. எனவே 18-க்கு பதிலாக 19 வர வேண்டும். தவறான எண் 18.",
+    "question_en": "Choose the incorrect number in the number series: 4, 7, 12, 18, 28, 39",
+    "options_en": [
+      "4",
+      "12",
+      "18",
+      "39"
+    ],
+    "explanation_en": "1²+3=4, 2²+3=7, 3²+3=12, 4²+3=19, 5²+3=28. So 19 should come instead of 18. The wrong number is 18."
+  },
+  {
+    "id": 17,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 2, 3, 5, 9, 17, 35",
+    "options": [
+      "3",
+      "5",
+      "17",
+      "35"
+    ],
+    "correct": 3,
+    "explanation": "2 x 2 - 1 = 3; 3 x 2 - 1 = 5; 5 x 2 - 1 = 9; 9 x 2 - 1 = 17; 17 x 2 - 1 = 33. எனவே 35-க்கு பதிலாக 33 வர வேண்டும். தவறான எண் 35.",
+    "question_en": "Choose the incorrect number in the number series: 2, 3, 5, 9, 17, 35",
+    "options_en": [
+      "3",
+      "5",
+      "17",
+      "35"
+    ],
+    "explanation_en": "2 x 2 - 1 = 3; 3 x 2 - 1 = 5; 5 x 2 - 1 = 9; 9 x 2 - 1 = 17; 17 x 2 - 1 = 33. So 35 should be replaced by 33. The wrong number is 35."
+  },
+  {
+    "id": 18,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 0, 2, 6, 13, 20, 30",
+    "options": [
+      "2",
+      "6",
+      "13",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "1²-1=0, 2²-2=2, 3²-3=6, 4²-4=12, 5²-5=20. எனவே 13-க்கு பதிலாக 12 வர வேண்டும். தவறான எண் 13.",
+    "question_en": "Choose the incorrect number in the number series: 0, 2, 6, 13, 20, 30",
+    "options_en": [
+      "2",
+      "6",
+      "13",
+      "20"
+    ],
+    "explanation_en": "1²-1=0, 2²-2=2, 3²-3=6, 4²-4=12, 5²-5=20. So 12 should come instead of 13. The wrong number is 13."
+  },
+  {
+    "id": 19,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 0, 7, 25, 63, 124",
+    "options": [
+      "7",
+      "25",
+      "63",
+      "124"
+    ],
+    "correct": 1,
+    "explanation": "1³-1=0, 2³-1=7, 3³-1=26, 4³-1=63. எனவே 25-க்கு பதிலாக 26 வர வேண்டும். தவறான எண் 25.",
+    "question_en": "Choose the incorrect number in the number series: 0, 7, 25, 63, 124",
+    "options_en": [
+      "7",
+      "25",
+      "63",
+      "124"
+    ],
+    "explanation_en": "1³-1=0, 2³-1=7, 3³-1=26, 4³-1=63. So 26 should come instead of 25. The wrong number is 25."
+  },
+  {
+    "id": 20,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 0, 1, 8, 26, 64, 125, 216",
+    "options": [
+      "26",
+      "64",
+      "125",
+      "216"
+    ],
+    "correct": 0,
+    "explanation": "0³, 1³, 2³, 3³ = 27. எனவே 26-க்கு பதிலாக 27 வர வேண்டும். தவறான எண் 26.",
+    "question_en": "Choose the wrong number in the number series: 0, 1, 8, 26, 64, 125, 216",
+    "options_en": [
+      "26",
+      "64",
+      "125",
+      "216"
+    ],
+    "explanation_en": "0³, 1³, 2³, 3³ = 27. So 26 should be replaced by 27. The wrong number is 26."
+  },
+  {
+    "id": 21,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 7, 14, 22, 34, 47, 62",
+    "options": [
+      "14",
+      "22",
+      "34",
+      "47"
+    ],
+    "correct": 1,
+    "explanation": "3²-2=7, 4²-2=14, 5²-2=23, 6²-2=34. எனவே 22-க்கு பதிலாக 23 வர வேண்டும். தவறான எண் 22.",
+    "question_en": "Choose the incorrect number in the number series: 7, 14, 22, 34, 47, 62",
+    "options_en": [
+      "14",
+      "22",
+      "34",
+      "47"
+    ],
+    "explanation_en": "3²-2=7, 4²-2=14, 5²-2=23, 6²-2=34. So 23 should come instead of 22. The wrong number is 22."
+  },
+  {
+    "id": 22,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 9, 7, 13, 10, 17, 14, 21, 16",
+    "options": [
+      "9",
+      "13",
+      "14",
+      "21"
+    ],
+    "correct": 2,
+    "explanation": "மாற்றுத் தொடர்கள்: 9+4=13, 13+4=17. மற்றும் 7+3=10, 10+3=13, 13+3=16. எனவே 14-க்கு பதிலாக 13 வர வேண்டும். தவறான எண் 14.",
+    "question_en": "Choose the incorrect number in the number series: 9, 7, 13, 10, 17, 14, 21, 16",
+    "options_en": [
+      "9",
+      "13",
+      "14",
+      "21"
+    ],
+    "explanation_en": "Alternate sequences: 9+4=13, 13+4=17. And 7+3=10, 10+3=13, 13+3=16. So 13 should come instead of 14. The wrong number is 14."
+  },
+  {
+    "id": 23,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 4, 20, 80, 230, 480, 480",
+    "options": [
+      "20",
+      "80",
+      "230",
+      "480"
+    ],
+    "correct": 2,
+    "explanation": "4 x 5 = 20, 20 x 4 = 80, 80 x 3 = 240, 240 x 2 = 480. எனவே 230-க்கு பதிலாக 240 வர வேண்டும். தவறான எண் 230.",
+    "question_en": "Select the incorrect number in the number series: 4, 20, 80, 230, 480, 480",
+    "options_en": [
+      "20",
+      "80",
+      "230",
+      "480"
+    ],
+    "explanation_en": "4 x 5 = 20, 20 x 4 = 80, 80 x 3 = 240, 240 x 2 = 480. So 240 should come instead of 230. The wrong number is 230."
+  },
+  {
+    "id": 24,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 17, 23, 31, 39, 41, 47",
+    "options": [
+      "17",
+      "23",
+      "31",
+      "39"
+    ],
+    "correct": 3,
+    "explanation": "39 என்பது ஒரு பகு எண் (Composite number). மற்றவை பகா எண்கள் (Prime numbers). தவறான எண் 39.",
+    "question_en": "Choose the wrong number in the number series: 17, 23, 31, 39, 41, 47",
+    "options_en": [
+      "17",
+      "23",
+      "31",
+      "39"
+    ],
+    "explanation_en": "39 is a composite number. Others are prime numbers. The wrong number is 39."
+  },
+  {
+    "id": 25,
+    "question": "எண் தொடரில் தவறாக இடம்பெற்றுள்ள எண்ணைத் தேர்ந்தெடுக்கவும்: 7, 12, 22, 42, 86, 162",
+    "options": [
+      "86",
+      "42",
+      "32",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "7 x 2 - 2 = 12; 12 x 2 - 2 = 22; 22 x 2 - 2 = 42; 42 x 2 - 2 = 82. எனவே 86-க்கு பதிலாக 82 வர வேண்டும். தவறான எண் 86.",
+    "question_en": "Choose the incorrect number in the number series: 7, 12, 22, 42, 86, 162",
+    "options_en": [
+      "86",
+      "42",
+      "32",
+      "12"
+    ],
+    "explanation_en": "7 x 2 - 2 = 12; 12 x 2 - 2 = 22; 22 x 2 - 2 = 42; 42 x 2 - 2 = 82. So 86 should be replaced by 82. The wrong number is 86."
+  }
+]

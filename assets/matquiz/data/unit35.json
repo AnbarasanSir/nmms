@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q1.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (2)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (2)."
+  },
+  {
+    "id": 2,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q2.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (2)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (2)."
+  },
+  {
+    "id": 3,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q3.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (3)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (3)."
+  },
+  {
+    "id": 4,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q4.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (4)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (4)."
+  },
+  {
+    "id": 5,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q5.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (1)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (1)."
+  },
+  {
+    "id": 6,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q6.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (4)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (4)."
+  },
+  {
+    "id": 7,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q7.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (1)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (1)."
+  },
+  {
+    "id": 8,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q8.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (2)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (2)."
+  },
+  {
+    "id": 9,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q9.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (4)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (4)."
+  },
+  {
+    "id": 10,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q10.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (1)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (1)."
+  },
+  {
+    "id": 11,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q11.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (4)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (4)."
+  },
+  {
+    "id": 12,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q12.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (3)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (3)."
+  },
+  {
+    "id": 13,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q13.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (3)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (3)."
+  },
+  {
+    "id": 14,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q14.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (2)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (2)."
+  },
+  {
+    "id": 15,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q15.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (3)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (3)."
+  },
+  {
+    "id": 16,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q16.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (4)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (4)."
+  },
+  {
+    "id": 17,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q17.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (2)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (2)."
+  },
+  {
+    "id": 18,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q18.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (3)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (3)."
+  },
+  {
+    "id": 19,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q19.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (3)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (3)."
+  },
+  {
+    "id": 20,
+    "question": "கொடுக்கப்பட்டுள்ள படத்தைக் கொண்டுள்ள விடையைக் கண்டுபிடி.",
+    "image": "image/unit34/q20.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட படம், மாற்று விடை (2)-ல் மறைந்துள்ளது.",
+    "question_en": "Find the answer with the given picture.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The given image is hidden in alternative answer (2)."
+  }
+]

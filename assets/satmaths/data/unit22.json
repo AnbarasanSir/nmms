@@ -1,0 +1,268 @@
+[
+    {
+        "id": 1,
+        "question": "செயல்வழிப் படத்தில்  குறியீடு எதைக் குறிக்கிறது?",
+        "options": [
+            "செயல்பாடு",
+            "தொடக்கம்",
+            "உள்ளீடு",
+            "நிறுத்து"
+        ],
+        "correct": 1,
+        "explanation": "நீள்வட்டக் (Oval) குறியீடு பணியின் தொடக்கத்தையும் (Start) முடிவையும் (End/Stop) குறிக்கப் பயன்படுகிறது. இங்கு விடைக்குறிப்பின்படி 'தொடக்கம்' என்பது சரியான விடையாகும்.",
+        "question_en": "What does the  symbol represent in a flowchart?",
+        "options_en": [
+            "Action / Process",
+            "Start",
+            "Input",
+            "Stop"
+        ],
+        "explanation_en": "The oval symbol is used to indicate the start and end of a process. According to the answer key, 'Start' is the correct answer here.",
+        "image": "image/unit22/q1.PNG"
+    },
+    {
+        "id": 2,
+        "question": "செயல்வழிப் படத்தில் வடிவங்களை இணைக்க எது பயன்படுத்தப் படுகிறது?",
+        "image": "image/unit22/q2.PNG",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 0,
+        "explanation": "அம்புக்குறிகள் (Arrows) செயல்வழிப் படத்தில் வடிவங்களை இணைக்கப் பயன்படுவதுடன், அறிவுறுத்தல்களின் ஓட்டத்தைக் (திசையை) குறிக்கின்றன.",
+        "question_en": "Which symbol is used to connect shapes in a flowchart?",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "Arrows are used to connect shapes in a flowchart and indicate the flow of instructions."
+    },
+    {
+        "id": 3,
+        "question": "செயல்வழிப்படம் நிரலின் ________ யினை விளக்குகிறது.",
+        "options": [
+            "பாய்வு",
+            "விளக்கம்",
+            "வரிசை",
+            "இவை அனைத்தும்"
+        ],
+        "correct": 2,
+        "explanation": "செயல்வழிப்படம் ஒரு பணியினைச் செய்வதற்கான வழிமுறைகளின் வரிசையினை (Sequence/Flow) விளக்குகிறது. விடைக்குறிப்பின்படி 'வரிசை' சரியான விடையாகும்.",
+        "question_en": "A flowchart explains the ________ of a program.",
+        "options_en": [
+            "Flow",
+            "Description",
+            "Sequence",
+            "All of these"
+        ],
+        "explanation_en": "A flowchart visually explains the sequence of instructions to complete a task. According to the answer key, 'Sequence' is the correct choice."
+    },
+    {
+        "id": 4,
+        "question": "செயல்வழிப்படத்தில் ________ குறியீட்டை செயல்பாடுகளைக் குறிக்க பயன்படுத்துகிறோம்.",
+        "image": "image/unit22/q4.PNG",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 0,
+        "explanation": "செவ்வகக் குறியீடு (Rectangle) கூற்றினைக் கணக்கிட அல்லது செயல்பாட்டைக் (Process/Action) குறிக்கப் பயன்படுகிறது.",
+        "question_en": "In a flowchart, we use the ________ symbol to denote actions or processes.",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "The rectangle symbol is used to calculate statements or denote processes and actions."
+    },
+    {
+        "id": 5,
+        "question": "உள்ளீடு / வெளியீடு குறிக்கப் பயன்படும் குறியீடு",
+        "image": "image/unit22/q5.PNG",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 3,
+        "explanation": "இணைகரம் (Parallelogram) தரவுகளை உள்ளீடு செய்வதற்கோ அல்லது தீர்வுகளை வெளியிடுவதற்கோ (அச்சிடுவதற்கோ) பயன்படுத்தப்படுகிறது.",
+        "question_en": "The symbol used to denote Input / Output is",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "The parallelogram symbol is used for inputting data or outputting (printing) results."
+    },
+    {
+        "id": 6,
+        "question": "செயல்வழிப் படத்தில் தீர்மானப் பெட்டிக்கு ________ கிளைகள் உள்ளன.",
+        "options": [
+            "4",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 2,
+        "explanation": "தீர்மானப் பெட்டியில் (Decision box) கேள்விக்குப் பதில் \"ஆம்\" அல்லது \"இல்லை\" (Yes/No) என இரண்டு கிளைகள் (வழிகள்) உள்ளன.",
+        "question_en": "A decision box in a flowchart has ________ branches.",
+        "options_en": [
+            "4",
+            "1",
+            "2",
+            "3"
+        ],
+        "explanation_en": "A decision box has two branches depending on whether the answer to the condition is 'Yes' or 'No'."
+    },
+    {
+        "id": 7,
+        "question": "செயல்வழிப்படத்தில் செயல்பாட்டின் அடுத்த நிலையைக் குறிக்கும் குறியீடு.",
+        "image": "image/unit22/q7.PNG",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 2,
+        "explanation": "அம்புக்குறிகள் செயல்பாட்டின் அடுத்த நிலை மற்றும் அறிவுறுத்தல்களின் ஓட்டத்தைக் குறிக்கப் பயன்படுகின்றன. (விடைக்குறிப்பின்படி விருப்பம் 3).",
+        "question_en": "The symbol denoting the next state of an operation in a flowchart is.",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "Arrows are used to indicate the next step and the flow of instructions in a flowchart. (Option 3 as per the answer key)."
+    },
+    {
+        "id": 8,
+        "question": "செயல்வழிப் படத்தைப் பயன்படுத்துவதால் ஏற்படும் நன்மைகள்\n(a) ஒரு செயலை எவ்வாறு செயலாக்குவது என்பதற்கான செயல்முறைகளைத் தொடர்புபடுத்துவதற்குப் பயன்படுகிறது.\n(b) தொடக்கத்தில் இருந்து இறுதிவரை ஒரு செயல்முறை எவ்வாறு செய்யப்படுகிறது என்பதைப் படங்கள் மூலம் சித்தரிக்கப் பயன்படுகிறது.\n(c) செயல்முறையை ஆவணப்படுத்தப் பயன்படுகிறது.\n(d) செயல்முறையின் செயல்திறனை மதிப்பீடு செய்யப் பயன்படுகிறது.",
+        "options": [
+            "அனைத்தும் சரி",
+            "(a), (d) மட்டும் சரி",
+            "(c) மட்டும் தவறு",
+            "(a) மட்டும் தவறு"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி, (c) மட்டும் தவறு என்பது சரியான விடையாகத் தரப்பட்டுள்ளது.",
+        "question_en": "Benefits of using a flowchart\n(a) Used to communicate processes on how to execute an action.\n(b) Used to depict visually how a process is done from start to finish.\n(c) Used to document the process.\n(d) Used to evaluate the efficiency of the process.",
+        "options_en": [
+            "All are correct",
+            "Only (a), (d) are correct",
+            "Only (c) is incorrect",
+            "Only (a) is incorrect"
+        ],
+        "explanation_en": "According to the answer key, 'Only (c) is incorrect' is the marked correct option."
+    },
+    {
+        "id": 9,
+        "question": "ஒரு தானியங்கி பணம் வழங்கும் இயந்திரம் (ATM) மூலம் பணம் எடுக்கும் செயல்முறைகளுக்குத் தகுந்த குறியீடுகளைப் பொருத்தவும்.\n(a) பணம் எடுக்கவும் -> (i)\n(b) ATM அட்டை செருகவும் -> (ii)\n(c) PIN பதிவு செய்யவும் -> (iii)\n(d) சேமிப்புக் கணக்கில் பணம் உள்ளதா/ இல்லையா? -> (iv)\n(e) ஆரம்பம் -> (v)",
+        "image": "image/unit22/q9.PNG",
+        "options": [
+            "a-iv b-ii c-i d-v e-v",
+            "a-iv b-iv c-i d-v e-ii",
+            "a-iii b-iii c-i d-v e-ii",
+            "a-iv b-iii c-i d-i e-ii"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி விருப்பம் (2) சரியான விடையாகும்.",
+        "question_en": "Match the appropriate symbols for the process of withdrawing money using an Automated Teller Machine (ATM).\n(a) Withdraw money -> (i)\n(b) Insert ATM card -> (ii)\n(c) Enter PIN -> (iii)\n(d) Does the savings account have sufficient balance? -> (iv)\n(e) Start -> (v)",
+        "options_en": [
+            "a-iv b-ii c-i d-v e-v",
+            "a-iv b-iv c-i d-v e-ii",
+            "a-iii b-iii c-i d-v e-ii",
+            "a-iv b-iii c-i d-i e-ii"
+        ],
+        "explanation_en": "According to the answer key, option (2) is correct."
+    },
+    {
+        "id": 10,
+        "question": "ஒரு செயல்வழிப் படம் என்பது ________ வடிவிலான படிப்படியான செயல்முறை ஆகும்.",
+        "options": [
+            "வரைபடம்",
+            "விளக்கப்படம்",
+            "அட்டவணை",
+            "உரை"
+        ],
+        "correct": 0,
+        "explanation": "செயல்வழிப் படம் (Flowchart) என்பது ஒரு பணியினைச் செய்வதற்கான வழிமுறைகளை விளக்கும் வரைபடம் (Graphical / Diagram) ஆகும்.",
+        "question_en": "A flowchart is a step-by-step process in the form of a ________.",
+        "options_en": [
+            "Diagram",
+            "Chart",
+            "Table",
+            "Text"
+        ],
+        "explanation_en": "A flowchart is a graphical representation or diagram of a step-by-step process."
+    },
+    {
+        "id": 11,
+        "question": "செயல்வழிப் படம் ஒரு சிக்கலின் தீர்வைக் கண்டறிய ________ செயல்முறையை அளிக்கிறது.",
+        "options": [
+            "ஒரு படி",
+            "படிப்படியான",
+            "முறையான",
+            "ஆய்வுமுறை"
+        ],
+        "correct": 1,
+        "explanation": "செயல்வழிப் படம் சிக்கலைத் தீர்ப்பதற்கான தர்க்கரீதியான படிப்படியான (Step-by-step) வழிமுறைகளை அளிக்கிறது.",
+        "question_en": "A flowchart provides a ________ process to find the solution to a problem.",
+        "options_en": [
+            "One-step",
+            "Step-by-step",
+            "Systematic",
+            "Analytical"
+        ],
+        "explanation_en": "A flowchart outlines a step-by-step logical process for solving a problem."
+    },
+    {
+        "id": 12,
+        "question": "செயல்வழிப் படத்தில் பயன்படும் அம்புக்குறியின் விளக்கத்தில் எது உண்மை அல்ல?",
+        "options": [
+            "செயல்முறைகளின் திசையைக் குறிக்கப் பயன்படுகிறது.",
+            "செயல்வழிப் படத்தில் வடிவங்களை இணைக்கப் பயன்படுகிறது.",
+            "செயல்முறைகளைக் குறிக்கப் பயன்படுகிறது.",
+            "சிக்கலைத் தீர்க்கும் வரிசையைக் காட்டப் பயன்படுகிறது."
+        ],
+        "correct": 2,
+        "explanation": "அம்புக்குறிகள் ஓட்டத்தின் திசையைத் தான் குறிக்கின்றனவே தவிர, செயல்முறைகளைக் (Processes) குறிக்காது. செயல்முறைகளைக் குறிக்க செவ்வகம் பயன்படுகிறது.",
+        "question_en": "Which of the following is not true regarding the arrow used in a flowchart?",
+        "options_en": [
+            "Used to indicate the direction of processes.",
+            "Used to connect shapes in a flowchart.",
+            "Used to represent processes.",
+            "Used to show the sequence of solving a problem."
+        ],
+        "explanation_en": "Arrows indicate the flow or direction but do not represent processes themselves. Processes are represented by rectangles."
+    },
+    {
+        "id": 13,
+        "question": "பின்வருவனவற்றுள் எது திட்டமிடலின் நோக்கத்தைக் குறிக்கிறது?\n(a) உங்கள் செயல்பாட்டை நீங்களே திட்டமிடலாம்.\n(b) திட்டமிட்டபடி உங்கள் இலக்குகளை நீங்கள் அடைய முடியும்.\n(c) முன்னுரிமையின்படி உங்கள் பணிகளை நீங்கள் திட்டமிடலாம்.\n(d) நீங்கள் குறைவான நெகிழவுத் தன்மையுடன் பணியாற்ற வேண்டும்.",
+        "options": [
+            "(a), (b) மட்டும் சரி",
+            "(a), (c) மட்டும் சரி",
+            "(a), (d) மட்டும் தவறு",
+            "(d) மட்டும் தவறு"
+        ],
+        "correct": 3,
+        "explanation": "திட்டமிடல் நெகிழ்வுத் தன்மையை (Flexibility) குறைப்பதற்காக அல்ல. எனவே (d) மட்டும் தவறானது.",
+        "question_en": "Which of the following represents the purpose of planning?\n(a) You can plan your own activities.\n(b) You can achieve your goals as planned.\n(c) You can plan your tasks according to priority.\n(d) You should work with less flexibility.",
+        "options_en": [
+            "Only (a), (b) are correct",
+            "Only (a), (c) are correct",
+            "Only (a), (d) are incorrect",
+            "Only (d) is incorrect"
+        ],
+        "explanation_en": "Planning does not aim to make you work with less flexibility. Therefore, only statement (d) is incorrect."
+    }
+]

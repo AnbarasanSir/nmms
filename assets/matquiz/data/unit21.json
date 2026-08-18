@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "question": "அன்பு, பிரபு, சீனி, டேவிட், ஈஷா என்பவர்கள் ஒருவர் பின் ஒருவராக பாட்டு பாடுகின்றார்கள். முதலாவதாக பாடும் நபருக்கு அடுத்து சீனி பாடுகிறார். கடைசியாக பாடுபவர், அன்புக்கு அடுத்து பாடுகிறார். ஈஷா முதலாவதாகவும் கடைசியாகவும் பாடவில்லை. பிரபுவுக்கும் அன்புவுக்கும் இடையில் இரண்டுபேர் பாடுகின்றனர். எனில் கடைசியாக பாடியவர் யார்?",
+    "options": [
+      "அன்பு",
+      "பிரபு",
+      "டேவிட்",
+      "சீனி"
+    ],
+    "correct": 2,
+    "explanation": "வரிசை: பிரபு, சீனி, ஈஷா, அன்பு, டேவிட். கடைசியாக பாடியவர் டேவிட்.",
+    "question_en": "Anbu, Prabhu, Seeni, David and Esha sing one after the other. The person who sings first is followed by Cheeni. The last singer sings next to Anbu. Isha is not the first and last to sing. Two people sing between Prabhu and Anbu. So who sang last?",
+    "options_en": [
+      "love",
+      "Lord",
+      "David",
+      "Sugar"
+    ],
+    "explanation_en": "Row: Prabhu, Seeni, Esha, Anbu, David. David was the last to sing."
+  },
+  {
+    "id": 2,
+    "question": "சேகர், பீட்டரை விட உயரமானவர். ஆனால் மோகனை விட குள்ளமானவர். கோவிந்த் விஸ்வாவை விட குள்ளமானவர். மற்றும் விஸ்வா, பீட்டரைப் போல் உயரமானவர் இல்லை.அவர்கள் அனைவரும் அவர்களின் உயரங்களின் அடிப்படையில் நின்றால், நடுவில் நிற்பவர் யார்?",
+    "options": [
+      "மோகன்",
+      "பீட்டர்",
+      "விஸ்வா",
+      "கோவிந்த்"
+    ],
+    "correct": 1,
+    "explanation": "உயரங்களின் அடிப்படையில் வரிசை: மோகன் > சேகர் > பீட்டர் > விஸ்வா > கோவிந்த். நடுவில் நிற்பவர் பீட்டர்.",
+    "question_en": "Shekhar is taller than Peter. But dwarfed by Mohan. Govind is shorter than Vishwa. And Vishwa is not as tall as Peter. If they all stand based on their heights, who stands in the middle?",
+    "options_en": [
+      "Mohan",
+      "Peter",
+      "Vishwa",
+      "Govind"
+    ],
+    "explanation_en": "Order by heights: Mohan > Shekhar > Peter > Viswa > Govind. Peter stands in the middle."
+  },
+  {
+    "id": 3,
+    "question": "ஆங்கில புத்தகமானது உயிரியல் புத்தகத்தை விட இலேசானது. வேதியியல் புத்தகம், இயற்பியல் புத்தகத்தைவிட இலேசானது. உயிரியல் புத்தகமானது, வேதியியல் புத்தகத்தின் எடைக்குச் சமமானது. மிகவும் இலேசான புத்தகம் எது?",
+    "options": [
+      "உயிரியல்",
+      "வேதியியல்",
+      "ஆங்கிலம்",
+      "இயற்பியல்"
+    ],
+    "correct": 2,
+    "explanation": "எடை வரிசை: இயற்பியல் > வேதியியல் = உயிரியல் > ஆங்கிலம். மிகவும் இலேசானது ஆங்கிலம்.",
+    "question_en": "English book is lighter than biology book. A chemistry book is easier than a physics book. A biology book is equivalent in weight to a chemistry book. Which is the lightest book?",
+    "options_en": [
+      "Biology",
+      "Chemistry",
+      "English",
+      "Physics"
+    ],
+    "explanation_en": "Weight order: Physics > Chemistry = Biology > English. English is the easiest."
+  },
+  {
+    "id": 4,
+    "question": "ஏழு நபர்கள் இராணுவ அணிவகுப்பில் நின்று கொண்டிருக்கின்றனர். Q-என்பவர் R-என்பவருக்கு இடது புறமாகவும்,P-என்பவருக்கு வலதுபுறத்திலும் நிற்கின்றார். O-என்பவர் N-ன் வலதுபுறமாகவும் P-க்கு இடது புறத்திலும் நிற்கின்றார். S-என்பவர் R-ன் வலப்புறத்திலும் T-க்கு இடது புறமாகவும் நிற்கின்றார். எனில், வரிசையின் நடுவில் அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "S",
+      "T",
+      "P",
+      "Q"
+    ],
+    "correct": 3,
+    "explanation": "நிற்கும் வரிசை: N, O, P, Q, R, S, T. நடுவில் நிற்பவர் Q.",
+    "question_en": "Seven persons are standing in military parade. Q stands to the left of R and to the right of P. O stands to the right of N and to the left of P. S stands to the right of R and to the left of T. So, who is sitting in the middle of the row?",
+    "options_en": [
+      "S",
+      "T",
+      "P",
+      "Q"
+    ],
+    "explanation_en": "Standing order: N, O, P, Q, R, S, T. Q in the middle."
+  },
+  {
+    "id": 5,
+    "question": "அகிலன், நிலவன், வளவன், முகிலன், விமலன் மற்றும் மாறன் ஆகியோர் வட்ட வடிவில், சமதூரத்தில் ஒருவரை யொருவர் பார்த்த வண்ணம் அமர்ந்துள்ளனர். 1) முகிலன், வளவனுக்கு நேர் எதிராகவும் மற்றும் விமலனுக்கு இடப் பக்கமாக இரண்டாவதாக உள்ளார். 2) மாறனுக்கு நேர் எதிரே நிலவன் உள்ளார். 3) அகிலனுக்கு வலப்பக்கத்தில் முகிலன் உள்ளார். 4) விமலனுக்கு அருகில் நிலவன் அமரவில்லை. விமலனுக்கு இடப்பக்கமாக அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "மாறன்",
+      "வளவன்",
+      "நிலவன்",
+      "அகிலன்"
+    ],
+    "correct": 0,
+    "explanation": "வரிசை (கடிகார திசையில்): அகிலன், முகிலன், மாறன், விமலன், வளவன், நிலவன். விமலனுக்கு இடப்பக்கம் மாறன்.",
+    "question_en": "Akhilan, Nilavan, Valavan, Mugilan, Vimalan and Maran are seated in a circle facing each other in Samadura. 1) Mugilan is directly opposite to Valavan and second to the left of Vimalan. 2) Moon is directly opposite to Maran. 3) Mugilan is to the right of Akhilan. 4) Moon is not sitting near Vimala. Who is sitting to the left of Vimalan?",
+    "options_en": [
+      "maran",
+      "Wealthy",
+      "the moon",
+      "Akilan"
+    ],
+    "explanation_en": "Order (Clockwise): Akilan, Mugilan, Maran, Vimalan, Valavan, Lavanan. Maran to the left of Vimalan."
+  },
+  {
+    "id": 6,
+    "question": "அகிலன், நிலவன், வளவன், முகிலன், விமலன் மற்றும் மாறன் ஆகியோர் வட்ட வடிவில், சமதூரத்தில் ஒருவரை யொருவர் பார்த்த வண்ணம் அமர்ந்துள்ளனர். 1) முகிலன், வளவனுக்கு நேர் எதிராகவும் மற்றும் விமலனுக்கு இடப் பக்கமாக இரண்டாவதாக உள்ளார். 2) மாறனுக்கு நேர் எதிரே நிலவன் உள்ளார். 3) அகிலனுக்கு வலப்பக்கத்தில் முகிலன் உள்ளார். 4) விமலனுக்கு அருகில் நிலவன் அமரவில்லை. மேற்கண்ட தகவல்படி, வளவனுக்கு வலப்பக்கமாக அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "விமலன்",
+      "அகிலன்",
+      "நிலவன்",
+      "முகிலன்"
+    ],
+    "correct": 2,
+    "explanation": "வளவனுக்கு வலப்பக்கம் நிலவன் அமர்ந்துள்ளார்.",
+    "question_en": "Akhilan, Nilavan, Valavan, Mugilan, Vimalan and Maran are seated in a circle facing each other in Samadura. 1) Mugilan is directly opposite to Valavan and second to the left of Vimalan. 2) Moon is directly opposite to Maran. 3) Mugilan is to the right of Akhilan. 4) Moon is not sitting near Vimala. According to the above information, who is sitting to the right of Valavan?",
+    "options_en": [
+      "Vimalan",
+      "Akilan",
+      "the moon",
+      "Mugilan"
+    ],
+    "explanation_en": "To the right of Valavan is seated the Moon."
+  },
+  {
+    "id": 7,
+    "question": "அகிலன், நிலவன், வளவன், முகிலன், விமலன் மற்றும் மாறன் ஆகியோர் வட்ட வடிவில், சமதூரத்தில் ஒருவரை யொருவர் பார்த்த வண்ணம் அமர்ந்துள்ளனர். 1) முகிலன், வளவனுக்கு நேர் எதிராகவும் மற்றும் விமலனுக்கு இடப் பக்கமாக இரண்டாவதாக உள்ளார். 2) மாறனுக்கு நேர் எதிரே நிலவன் உள்ளார். 3) அகிலனுக்கு வலப்பக்கத்தில் முகிலன் உள்ளார். 4) விமலனுக்கு அருகில் நிலவன் அமரவில்லை. மேற்கண்ட தகவல்படி, முகிலனுக்கும், விமலனுக்கும் இடையில் அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "அகிலன்",
+      "வளவன்",
+      "மாறன்",
+      "எவருமில்லை"
+    ],
+    "correct": 2,
+    "explanation": "முகிலனுக்கும் விமலனுக்கும் இடையில் மாறன் அமர்ந்துள்ளார்.",
+    "question_en": "Akhilan, Nilavan, Valavan, Mugilan, Vimalan and Maran are seated in a circle facing each other in Samadura. 1) Mugilan is directly opposite to Valavan and second to the left of Vimalan. 2) Moon is directly opposite to Maran. 3) Mugilan is to the right of Akhilan. 4) Moon is not sitting near Vimala. According to the above information, who is sitting between Mugilan and Vimalan?",
+    "options_en": [
+      "Akilan",
+      "Wealthy",
+      "maran",
+      "No one"
+    ],
+    "explanation_en": "Maran sits between Mugilan and Vimalan."
+  },
+  {
+    "id": 8,
+    "question": "அகிலன், நிலவன், வளவன், முகிலன், விமலன் மற்றும் மாறன் ஆகியோர் வட்ட வடிவில், சமதூரத்தில் ஒருவரை யொருவர் பார்த்த வண்ணம் அமர்ந்துள்ளனர். 1) முகிலன், வளவனுக்கு நேர் எதிராகவும் மற்றும் விமலனுக்கு இடப் பக்கமாக இரண்டாவதாக உள்ளார். 2) மாறனுக்கு நேர் எதிரே நிலவன் உள்ளார். 3) அகிலனுக்கு வலப்பக்கத்தில் முகிலன் உள்ளார். 4) விமலனுக்கு அருகில் நிலவன் அமரவில்லை. மேற்கண்ட தகவல்படி, அகிலனில் இருந்து கடிகாரம் சுற்றும் திசையில் அமர்ந்திருப்பவர் முறையே?",
+    "options": [
+      "முகிலன், மாறன், விமலன், வளவன், நிலவன்",
+      "நிலவன், வளவன், விமலன், மாறன், முகிலன்",
+      "முகிலன், நிலவன், விமலன், வளவன், மாறன்",
+      "மாறன், வளவன், விமலன், நிலவன், முகிலன்"
+    ],
+    "correct": 1,
+    "explanation": "அகிலனில் இருந்து கடிகார திசையில்: நிலவன், வளவன், விமலன், மாறன், முகிலன்.",
+    "question_en": "Akhilan, Nilavan, Valavan, Mugilan, Vimalan and Maran are seated in a circle facing each other in Samadura. 1) Mugilan is directly opposite to Valavan and second to the left of Vimalan. 2) Moon is directly opposite to Maran. 3) Mugilan is to the right of Akhilan. 4) Moon is not sitting near Vimala. According to the above information, who is seated clockwise from Aquilan?",
+    "options_en": [
+      "Mugilan, Maran, Vimalan, Valavan, Lavan",
+      "Lavan, Valavan, Vimalan, Maran, Mugilan",
+      "Mugilan, Lavan, Vimalan, Valavan, Maran",
+      "Maran, Valavan, Vimalan, Lavanan, Mugilan"
+    ],
+    "explanation_en": "Clockwise from Akhilan: Lavan, Valavan, Vimalan, Maran, Mugilan."
+  },
+  {
+    "id": 9,
+    "question": "ரம்யா, ஓவியா, சரண்யா, காவியா மற்றும் இனியா வட்டவடிவில் அமர்ந்துள்ளனர், 1) இனியாவுக்கும், சரண்யாவுக்கும், இடையில் ரம்யா அமர்ந்து உள்ளார். 2) காவியாவுக்கு இடப்பக்கம் ஓவியா அமர்ந்து உள்ளார். 3) ரம்யா, ஓவியாவுக்கு வலப்பக்கம் மூன்றாவதாக உள்ளார். 4) சரண்யாவுக்கு இடப்பக்கம் காவியா அமர்ந்து உள்ளார். ரம்யாவுக்கும், ஓவியாவுக்கும் இடையில் இருப்பவர் யார்?",
+    "options": [
+      "சரண்யா",
+      "காவியா",
+      "இனியா",
+      "எவருமில்லை"
+    ],
+    "correct": 2,
+    "explanation": "வரிசை: ரம்யா, இனியா, ஓவியா, காவியா, சரண்யா. ரம்யாவுக்கும் ஓவியாவுக்கும் இடையில் இனியா.",
+    "question_en": "Ramya, Oviya, Saranya, Kavya and Iniya are sitting in a circle, 1) Ramya is sitting between Iniya and Saranya. 2) Oviya is sitting to the left of Kavya. 3) Ramya is third to the right of Oviya. 4) Kavya is sitting to the left of Saranya. Who is between Ramya and Oviya?",
+    "options_en": [
+      "Saranya",
+      "Kavya",
+      "Iniya",
+      "No one"
+    ],
+    "explanation_en": "Order: Ramya, Iniya, Oviya, Kavya, Saranya. Iniya between Ramya and Oviya."
+  },
+  {
+    "id": 10,
+    "question": "ரம்யா, ஓவியா, சரண்யா, காவியா மற்றும் இனியா வட்டவடிவில் அமர்ந்துள்ளனர், 1) இனியாவுக்கும், சரண்யாவுக்கும், இடையில் ரம்யா அமர்ந்து உள்ளார். 2) காவியாவுக்கு இடப்பக்கம் ஓவியா அமர்ந்து உள்ளார். 3) ரம்யா, ஓவியாவுக்கு வலப்பக்கம் மூன்றாவதாக உள்ளார். 4) சரண்யாவுக்கு இடப்பக்கம் காவியா அமர்ந்து உள்ளார். மேற்கண்ட தகவல்படி, இனியாவுக்கு உடனடி வலப்பக்கம் இருப்பவர் யார்?",
+    "options": [
+      "காவியா",
+      "ரம்யா",
+      "சரண்யா",
+      "ஓவியா"
+    ],
+    "correct": 3,
+    "explanation": "இனியாவுக்கு வலப்பக்கம் ஓவியா உள்ளார்.",
+    "question_en": "Ramya, Oviya, Saranya, Kavya and Iniya are sitting in a circle, 1) Ramya is sitting between Iniya and Saranya. 2) Oviya is sitting to the left of Kavya. 3) Ramya is third to the right of Oviya. 4) Kavya is sitting to the left of Saranya. According to the above information, who is to the immediate right of Iniya?",
+    "options_en": [
+      "Kavya",
+      "Ramya",
+      "Saranya",
+      "Oviya"
+    ],
+    "explanation_en": "On the right side of Iniya is Oviya."
+  },
+  {
+    "id": 11,
+    "question": "ரம்யா, ஓவியா, சரண்யா, காவியா மற்றும் இனியா வட்டவடிவில் அமர்ந்துள்ளனர், 1) இனியாவுக்கும், சரண்யாவுக்கும், இடையில் ரம்யா அமர்ந்து உள்ளார். 2) காவியாவுக்கு இடப்பக்கம் ஓவியா அமர்ந்து உள்ளார். 3) ரம்யா, ஓவியாவுக்கு வலப்பக்கம் மூன்றாவதாக உள்ளார். 4) சரண்யாவுக்கு இடப்பக்கம் காவியா அமர்ந்து உள்ளார். மேற்கண்ட தகவல்படி, ஓவியாவுக்கும், சரண்யாவுக்கும் இடையில் இருப்பவர்?",
+    "options": [
+      "இனியா",
+      "காவியா",
+      "ரம்யா",
+      "எவருமில்லை"
+    ],
+    "correct": 1,
+    "explanation": "ஓவியாவுக்கும் சரண்யாவுக்கும் இடையில் காவியா உள்ளார்.",
+    "question_en": "Ramya, Oviya, Saranya, Kavya and Iniya are sitting in a circle, 1) Ramya is sitting between Iniya and Saranya. 2) Oviya is sitting to the left of Kavya. 3) Ramya is third to the right of Oviya. 4) Kavya is sitting to the left of Saranya. According to the above information, who is between Oviya and Saranya?",
+    "options_en": [
+      "Iniya",
+      "Kavya",
+      "Ramya",
+      "No one"
+    ],
+    "explanation_en": "Kavya is between Oviya and Saranya."
+  },
+  {
+    "id": 12,
+    "question": "ரம்யா, ஓவியா, சரண்யா, காவியா மற்றும் இனியா வட்டவடிவில் அமர்ந்துள்ளனர், 1) இனியாவுக்கும், சரண்யாவுக்கும், இடையில் ரம்யா அமர்ந்து உள்ளார். 2) காவியாவுக்கு இடப்பக்கம் ஓவியா அமர்ந்து உள்ளார். 3) ரம்யா, ஓவியாவுக்கு வலப்பக்கம் மூன்றாவதாக உள்ளார். 4) சரண்யாவுக்கு இடப்பக்கம் காவியா அமர்ந்து உள்ளார். மேற்கண்ட தகவல்படி, ரம்யாவுக்கு வலப்பக்கம் இரண்டாவதாக இருப்பவர் யார்?",
+    "options": [
+      "இனியா",
+      "ஓவியா",
+      "காவியா",
+      "சரண்யா"
+    ],
+    "correct": 1,
+    "explanation": "ரம்யாவுக்கு வலப்பக்கம் 1வது இனியா, 2வது ஓவியா.",
+    "question_en": "Ramya, Oviya, Saranya, Kavya and Iniya are sitting in a circle, 1) Ramya is sitting between Iniya and Saranya. 2) Oviya is sitting to the left of Kavya. 3) Ramya is third to the right of Oviya. 4) Kavya is sitting to the left of Saranya. According to the above information, who is second to the right of Ramya?",
+    "options_en": [
+      "Iniya",
+      "Oviya",
+      "Kavya",
+      "Saranya"
+    ],
+    "explanation_en": "To Ramya's right is Iniya 1st and Oviya 2nd."
+  },
+  {
+    "id": 13,
+    "question": "ரம்யா, ஓவியா, சரண்யா, காவியா மற்றும் இனியா வட்டவடிவில் அமர்ந்துள்ளனர், 1) இனியாவுக்கும், சரண்யாவுக்கும், இடையில் ரம்யா அமர்ந்து உள்ளார். 2) காவியாவுக்கு இடப்பக்கம் ஓவியா அமர்ந்து உள்ளார். 3) ரம்யா, ஓவியாவுக்கு வலப்பக்கம் மூன்றாவதாக உள்ளார். 4) சரண்யாவுக்கு இடப்பக்கம் காவியா அமர்ந்து உள்ளார். மேற்கண்ட தகவல்படி, காவியாவிடமிருந்து இடது புறம் உள்ளவர்களின் வரிசை",
+    "options": [
+      "சரண்யா, ரம்யா, இனியா, ஓவியா",
+      "ஓவியா, இனியா, ரம்யா, சரண்யா",
+      "சரண்யா, இனியா, ரம்யா, ஓவியா",
+      "ஓவியா, ரம்யா, இனியா, சரண்யா"
+    ],
+    "correct": 1,
+    "explanation": "காவியாவிடமிருந்து இடதுபுறம்: ஓவியா, இனியா, ரம்யா, சரண்யா.",
+    "question_en": "Ramya, Oviya, Saranya, Kavya and Iniya are sitting in a circle, 1) Ramya is sitting between Iniya and Saranya. 2) Oviya is sitting to the left of Kavya. 3) Ramya is third to the right of Oviya. 4) Kavya is sitting to the left of Saranya. According to the above information, the order of persons on the left from Kavya",
+    "options_en": [
+      "Saranya, Ramya, Iniya, Oviya",
+      "Oviya, Iniya, Ramya, Saranya",
+      "Saranya, Iniya, Ramya, Oviya",
+      "Oviya, Ramya, Iniya, Saranya"
+    ],
+    "explanation_en": "From Kavya to left: Oviya, Iniya, Ramya, Saranya."
+  },
+  {
+    "id": 14,
+    "question": "A, B, C, D, E மற்றும் F ஆகியோர் வட்ட மேசையில் ஒருவரையொருவர் பார்த்தவண்ணம் அமர்ந்துள்ளனர். i) C என்பவர் A மற்றும் E க்கு இடையில் உள்ளார். ii) B என்பவர் D மற்றும் F க்கு இடையில் உள்ளார். iii) E மற்றும் D நேர் எதிரே உள்ளனர். iv) B க்கு உடனடி வலப்பக்கம் F உள்ளார். C க்கு உடனடி வலப்பக்கம் இருப்பவர் யார்?",
+    "options": [
+      "A",
+      "E",
+      "D",
+      "B"
+    ],
+    "correct": 0,
+    "explanation": "வரிசை: C, A, F, B, D, E. C க்கு வலப்பக்கம் A.",
+    "question_en": "A, B, C, D, E and F are sitting on a round table facing each other. i) C is between A and E. ii) B is between D and F. iii) E and D are opposite. iv) F is to the immediate right of B. Who is to the immediate right of C?",
+    "options_en": [
+      "A",
+      "E",
+      "D",
+      "B"
+    ],
+    "explanation_en": "Order: C, A, F, B, D, E. A to the right of C."
+  },
+  {
+    "id": 15,
+    "question": "A, B, C, D, E மற்றும் F ஆகியோர் வட்ட மேசையில் ஒருவரையொருவர் பார்த்தவண்ணம் அமர்ந்துள்ளனர். i) C என்பவர் A மற்றும் E க்கு இடையில் உள்ளார். ii) B என்பவர் D மற்றும் F க்கு இடையில் உள்ளார். iii) E மற்றும் D நேர் எதிரே உள்ளனர். iv) B க்கு உடனடி வலப்பக்கம் F உள்ளார். மேற்கண்ட தகவல்படி, A க்கு வலப்புறம் இரண்டாவதாக உள்ளவர் யார்?",
+    "options": [
+      "D",
+      "B",
+      "F",
+      "E"
+    ],
+    "correct": 1,
+    "explanation": "A க்கு வலப்புறம் 1வது F, 2வது B.",
+    "question_en": "A, B, C, D, E and F are sitting on a round table facing each other. i) C is between A and E. ii) B is between D and F. iii) E and D are opposite. iv) F is to the immediate right of B. According to the above information, who is second to the right of A?",
+    "options_en": [
+      "D",
+      "B",
+      "F",
+      "E"
+    ],
+    "explanation_en": "1st F to right of A, 2nd B."
+  },
+  {
+    "id": 16,
+    "question": "A, B, C, D, E மற்றும் F ஆகியோர் வட்ட மேசையில் ஒருவரையொருவர் பார்த்தவண்ணம் அமர்ந்துள்ளனர். i) C என்பவர் A மற்றும் E க்கு இடையில் உள்ளார். ii) B என்பவர் D மற்றும் F க்கு இடையில் உள்ளார். iii) E மற்றும் D நேர் எதிரே உள்ளனர். iv) B க்கு உடனடி வலப்பக்கம் F உள்ளார். மேற்கண்ட தகவல்படி, B க்கு நேர் எதிரே இருப்பவர் யார்?",
+    "options": [
+      "A",
+      "E",
+      "C",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "B க்கு நேர் எதிரே C உள்ளார்.",
+    "question_en": "A, B, C, D, E and F are sitting on a round table facing each other. i) C is between A and E. ii) B is between D and F. iii) E and D are opposite. iv) F is to the immediate right of B. According to the above information, who is directly opposite to B?",
+    "options_en": [
+      "A",
+      "E",
+      "C",
+      "D"
+    ],
+    "explanation_en": "C is opposite to B."
+  },
+  {
+    "id": 17,
+    "question": "A, B, C, D, E மற்றும் F ஆகியோர் வட்ட மேசையில் ஒருவரையொருவர் பார்த்தவண்ணம் அமர்ந்துள்ளனர். i) C என்பவர் A மற்றும் E க்கு இடையில் உள்ளார். ii) B என்பவர் D மற்றும் F க்கு இடையில் உள்ளார். iii) E மற்றும் D நேர் எதிரே உள்ளனர். iv) B க்கு உடனடி வலப்பக்கம் F உள்ளார். மேற்கண்ட தகவல்படி, F க்கு நேர் எதிரே இருப்பவர் யார்?",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "correct": 3,
+    "explanation": "F க்கு நேர் எதிரே A உள்ளார்.",
+    "question_en": "A, B, C, D, E and F are sitting on a round table facing each other. i) C is between A and E. ii) B is between D and F. iii) E and D are opposite. iv) F is to the immediate right of B. According to the above information, who is directly opposite to F?",
+    "options_en": [
+      "D",
+      "C",
+      "B",
+      "A"
+    ],
+    "explanation_en": "A is directly opposite to F."
+  },
+  {
+    "id": 18,
+    "question": "A, B, C, D, E மற்றும் F ஆகியோர் வட்ட மேசையில் ஒருவரையொருவர் பார்த்தவண்ணம் அமர்ந்துள்ளனர். i) C என்பவர் A மற்றும் E க்கு இடையில் உள்ளார். ii) B என்பவர் D மற்றும் F க்கு இடையில் உள்ளார். iii) E மற்றும் D நேர் எதிரே உள்ளனர். iv) B க்கு உடனடி வலப்பக்கம் F உள்ளார். மேற்கண்ட தகவல்படி, E க்கு உடனடி இடப்பக்கம் உள்ளவர் யார்?",
+    "options": [
+      "F",
+      "C",
+      "A",
+      "D"
+    ],
+    "correct": 0,
+    "explanation": "E க்கு இடப்பக்கம் D உள்ளார்.",
+    "question_en": "A, B, C, D, E and F are sitting on a round table facing each other. i) C is between A and E. ii) B is between D and F. iii) E and D are opposite. iv) F is to the immediate right of B. Given the above information, who is to the immediate left of E?",
+    "options_en": [
+      "F",
+      "C",
+      "A",
+      "D"
+    ],
+    "explanation_en": "D is to the left of E."
+  },
+  {
+    "id": 19,
+    "question": "A, B, C, D, E, F ஆகியோர் வட்ட வடிவில் அமர்ந்துள்ளனர். B ஆனவர் F மற்றும் C க்கு இடையிலும் A ஆனவர் E மற்றும் D க்கு இடையிலும், F ஆனவர் D க்கு இடப்பக்கத்திலும் அமர்ந்துள்ளனர். எனில், A க்கும் F க்கும் இடையில் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "D",
+      "B",
+      "E",
+      "C"
+    ],
+    "correct": 0,
+    "explanation": "வரிசை: D, A, E, C, B, F. A மற்றும் F க்கு இடையில் D.",
+    "question_en": "A, B, C, D, E, F are sitting in a circle. B is sitting between F and C, A is between E and D and F is to the left of D. So, who is sitting between A and F?",
+    "options_en": [
+      "D",
+      "B",
+      "E",
+      "C"
+    ],
+    "explanation_en": "Order: D, A, E, C, B, F. Between A and F is D."
+  },
+  {
+    "id": 20,
+    "question": "A, B, C, D, E, F ஆகியோர் வட்ட வடிவில் அமர்ந்துள்ளனர். B ஆனவர் F மற்றும் C க்கு இடையிலும் A ஆனவர் E மற்றும் D க்கு இடையிலும், F ஆனவர் D க்கு இடப்பக்கத்திலும் அமர்ந்துள்ளனர். எனில், B க்கும், C க்கும் இடையில் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "A",
+      "எவருமில்லை",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "explanation": "B மற்றும் C பக்கத்தில் உள்ளதால் இடையில் எவருமில்லை.",
+    "question_en": "A, B, C, D, E, F are sitting in a circle. B is sitting between F and C, A is between E and D and F is to the left of D. So, who is sitting between B and C?",
+    "options_en": [
+      "A",
+      "No one",
+      "D",
+      "E"
+    ],
+    "explanation_en": "There is no one in between as B and C side."
+  },
+  {
+    "id": 21,
+    "question": "A, B, C, D, E, F ஆகியோர் வட்ட வடிவில் அமர்ந்துள்ளனர். B ஆனவர் F மற்றும் C க்கு இடையிலும் A ஆனவர் E மற்றும் D க்கு இடையிலும், F ஆனவர் D க்கு இடப்பக்கத்திலும் அமர்ந்துள்ளனர். மேற்கண்ட தகவல்படி, E க்கு வலப்பக்கம் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "E க்கு வலப்பக்கம் C உள்ளார்.",
+    "question_en": "A, B, C, D, E, F are sitting in a circle. B is sitting between F and C, A is between E and D and F is to the left of D. According to the above information, who is sitting to the right of E?",
+    "options_en": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "explanation_en": "C is to the right of E."
+  },
+  {
+    "id": 22,
+    "question": "A, B, C, D, E, F ஆகியோர் வட்ட வடிவில் அமர்ந்துள்ளனர். B ஆனவர் F மற்றும் C க்கு இடையிலும் A ஆனவர் E மற்றும் D க்கு இடையிலும், F ஆனவர் D க்கு இடப்பக்கத்திலும் அமர்ந்துள்ளனர். மேற்கண்ட தகவல்படி, E க்கு இடப்பக்கத்தில் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "correct": 0,
+    "explanation": "E க்கு இடப்பக்கம் A உள்ளார்.",
+    "question_en": "A, B, C, D, E, F are sitting in a circle. B is sitting between F and C, A is between E and D and F is to the left of D. According to the above information, who is sitting to the left of E?",
+    "options_en": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "explanation_en": "A is to the left of E."
+  },
+  {
+    "id": 23,
+    "question": "A, B, C, D, E, F ஆகியோர் வட்ட வடிவில் அமர்ந்துள்ளனர். A என்பவர் D யின் நேர் எதிரே அமர்ந்துள்ளார். A மற்றும் B க்கும் இடையில் C அமர்ந்துள்ளார். E மற்றும் A க்கும் இடையில் F அமர்ந்துள்ளார். F ஆனவர் E க்கு இடப்பக்கத்திலும் அமர்ந்துள்ளனர். B க்கு இடப்பக்கம் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 2,
+    "explanation": "B க்கு இடப்பக்கம் D உள்ளார்.",
+    "question_en": "A, B, C, D, E, F are sitting in a circle. A is sitting opposite to D. C sits between A and B. F sits between E and A. F is also sitting to the left of E. Who is sitting to the left of B?",
+    "options_en": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation_en": "D is to the left of B."
+  },
+  {
+    "id": 24,
+    "question": "P, Q, R, S, T ஆகியோர் வட்ட வடிவில் அமர்ந்துள்ளனர். T யின் இடதுபுறம் R அமர்ந்துள்ளார். S மற்றும் T க்கு இடையில் P அமர்ந்துள்ளார். R க்கு இடப்பக்கம் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "P",
+      "Q",
+      "S",
+      "T"
+    ],
+    "correct": 1,
+    "explanation": "R க்கு இடப்பக்கம் Q உள்ளார்.",
+    "question_en": "P, Q, R, S, T are sitting in a circle. R sits to the left of T. P sits between S and T. Who is sitting to the left of R?",
+    "options_en": [
+      "P",
+      "Q",
+      "S",
+      "T"
+    ],
+    "explanation_en": "Q is to the left of R."
+  },
+  {
+    "id": 25,
+    "question": "ஐந்து மாணவர்கள் அவர்களுடைய ஆசிரியருடன் ஒரு வட்டமான மேசையில் சமமான இடைவெளியில் அமர்ந்துள்ளனர். a) ராம் என்பார் ரஹீம் என்பாரின் நேர் எதிரே மற்றும் ராகுல் என்பாருக்கு வலது புறமாக இரண்டாவது இடத்தில் அமர்ந்துள்ளார். b) ராபின் என்பார் ராகுல் என்பாருக்கு நேர் எதிரே மற்றும் ரோகன் என்பாருக்கு உடனடி இடது புறத்திலும் அமர்ந்துள்ளனர். c) இவர்களின் ஆசிரியரான ரமேஷ் வட்ட மேசையில் அமர்ந்துள்ளார். ராம் மற்றும் ரோகன் இருவருக்குமிடையில் அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "ராபின்",
+      "ரமேஷ்",
+      "ராகுல்",
+      "ரஹீம்"
+    ],
+    "correct": 0,
+    "explanation": "வரிசைப்படி ராம் மற்றும் ரோகனுக்கு இடையில் ராபின் அமர்ந்துள்ளார்.",
+    "question_en": "Five students sit equally spaced at a circular table with their teacher. a) Ram sits directly opposite to Rahim and second to the right of Rahul. b) Robin sits directly opposite to Rahul and to the immediate left of Rogan. c) Their teacher Ramesh is sitting at the round table. Who sits between Ram and Rogan?",
+    "options_en": [
+      "Robin",
+      "Ramesh",
+      "Rahul",
+      "Rahim"
+    ],
+    "explanation_en": "Robin sits between Ram and Rogan in order."
+  },
+  {
+    "id": 26,
+    "question": "ஐந்து மாணவர்கள் அவர்களுடைய ஆசிரியருடன் ஒரு வட்டமான மேசையில் சமமான இடைவெளியில் அமர்ந்துள்ளனர். a) ராம் என்பார் ரஹீம் என்பாரின் நேர் எதிரே மற்றும் ராகுல் என்பாருக்கு வலது புறமாக இரண்டாவது இடத்தில் அமர்ந்துள்ளார். b) ராபின் என்பார் ராகுல் என்பாருக்கு நேர் எதிரே மற்றும் ரோகன் என்பாருக்கு உடனடி இடது புறத்திலும் அமர்ந்துள்ளனர். c) இவர்களின் ஆசிரியரான ரமேஷ் வட்ட மேசையில் அமர்ந்துள்ளார். மேற்கண்ட தகவல்படி, ராம் என்பார் அமர்ந்திருப்பது?",
+    "options": [
+      "ரமேஷின் இடதுபுறம்",
+      "ராபின்னின் வலது புறம்",
+      "ராபின்னின் இடது புறம்",
+      "ரஹீம் - ன் வலது புறம்"
+    ],
+    "correct": 2,
+    "explanation": "ராம் என்பவர் ராபின்னின் இடது புறம் அமர்ந்துள்ளார்.",
+    "question_en": "Five students sit equally spaced at a circular table with their teacher. a) Ram sits directly opposite to Rahim and second to the right of Rahul. b) Robin sits directly opposite to Rahul and to the immediate left of Rogan. c) Their teacher Ramesh is sitting at the round table. According to the above information, Ram is sitting?",
+    "options_en": [
+      "Left of Ramesh",
+      "Robin's right hand",
+      "Robin's left side",
+      "Rahim's right hand side"
+    ],
+    "explanation_en": "Ram sits on Robin's left."
+  },
+  {
+    "id": 27,
+    "question": "ஐந்து மாணவர்கள் அவர்களுடைய ஆசிரியருடன் ஒரு வட்டமான மேசையில் சமமான இடைவெளியில் அமர்ந்துள்ளனர். a) ராம் என்பார் ரஹீம் என்பாரின் நேர் எதிரே மற்றும் ராகுல் என்பாருக்கு வலது புறமாக இரண்டாவது இடத்தில் அமர்ந்துள்ளார். b) ராபின் என்பார் ராகுல் என்பாருக்கு நேர் எதிரே மற்றும் ரோகன் என்பாருக்கு உடனடி இடது புறத்திலும் அமர்ந்துள்ளனர். c) இவர்களின் ஆசிரியரான ரமேஷ் வட்ட மேசையில் அமர்ந்துள்ளார். மேற்கண்ட தகவல்படி, ரமேஷ் மற்றும் ரஹீம் இருவருக்கும் மேசையின் மையத்திலிருந்து உள்ள கோண அளவு?",
+    "options": [
+      "$60^\\circ$",
+      "$120^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$"
+    ],
+    "correct": 1,
+    "explanation": "6 பேர் சம இடைவெளியில் உள்ளனர். ஒவ்வொருவருக்கும் $360/6 = 60^\\circ$. இருவர் தள்ளி உள்ளதால் $2 \\times 60^\\circ = 120^\\circ$.",
+    "question_en": "Five students sit equally spaced at a circular table with their teacher. a) Ram sits directly opposite to Rahim and second to the right of Rahul. b) Robin sits directly opposite to Rahul and to the immediate left of Rogan. c) Their teacher Ramesh is sitting at the round table. Given the above information, the measure of the angle from the center of the table for both Ramesh and Rahim?",
+    "options_en": [
+      "$60^\\circ$",
+      "$120^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$"
+    ],
+    "explanation_en": "6 are equally spaced. $360/6 = 60^\\circ$ for each. Since the two are far apart, $2 \\times 60^\\circ = 120^\\circ$."
+  },
+  {
+    "id": 28,
+    "question": "A, B, C, D, E மற்றும் F என்ற ஆறுபேர் வரிசைக்கு 3 பேர் வீதம் இரு வரிசையில் அமர்ந்துள்ளனர். ii) D என்பவர் C -க்கு மூலைவிட்ட எதிராக அமர்ந்துள்ளார். iii) B என்பவர் E க்கு எதிராக அமர்ந்துள்ளார். iv) E என்பவர் A க்கும் C க்கும் இடையில் அமர்ந்துள்ளார். v) B ன் வலதுபுறம் F அமர்ந்துள்ளார். D மற்றும் C ஐத் தவிர மூலைவிட்ட எதிராக அமர்ந்திருப்பவர் யார்?",
+    "options": [
+      "B, C",
+      "A, F",
+      "E, D",
+      "A, D"
+    ],
+    "correct": 1,
+    "explanation": "வரிசைகள்: A E C மற்றும் D B F. மூலைவிட்ட எதிரில் A மற்றும் F உள்ளனர்.",
+    "question_en": "A, B, C, D, E and F are seated in two rows of 3 persons each. ii) D sits diagonally opposite to C. iii) B is sitting opposite E. iv) E is sitting between A and C. v) F sits to the right of B. Who sits opposite the diagonal except D and C?",
+    "options_en": [
+      "B, C",
+      "A, F",
+      "E, D",
+      "A, D"
+    ],
+    "explanation_en": "Rows: A E C and D B F. A and F are opposite the diagonal."
+  },
+  {
+    "id": 29,
+    "question": "A, B, C, D, E மற்றும் F என்ற ஆறுபேர் வரிசைக்கு 3 பேர் வீதம் இரு வரிசையில் அமர்ந்துள்ளனர். ii) D என்பவர் C -க்கு மூலைவிட்ட எதிராக அமர்ந்துள்ளார். iii) B என்பவர் E க்கு எதிராக அமர்ந்துள்ளார். iv) E என்பவர் A க்கும் C க்கும் இடையில் அமர்ந்துள்ளார். v) B ன் வலதுபுறம் F அமர்ந்துள்ளார். மேற்கண்ட தகவல்படி, C க்கு நேர் எதிராக இருப்பவர் யார்?",
+    "options": [
+      "A",
+      "E",
+      "F",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "C க்கு நேர் எதிராக F உள்ளார்.",
+    "question_en": "A, B, C, D, E and F are seated in two rows of 3 persons each. ii) D sits diagonally opposite to C. iii) B is sitting opposite E. iv) E is sitting between A and C. v) F sits to the right of B. According to the above information, who is opposite to C?",
+    "options_en": [
+      "A",
+      "E",
+      "F",
+      "D"
+    ],
+    "explanation_en": "F is directly opposite to C."
+  },
+  {
+    "id": 30,
+    "question": "A, B, C, D, E மற்றும் F என்ற ஆறுபேர் வரிசைக்கு 3 பேர் வீதம் இரு வரிசையில் அமர்ந்துள்ளனர். ii) D என்பவர் C -க்கு மூலைவிட்ட எதிராக அமர்ந்துள்ளார். iii) B என்பவர் E க்கு எதிராக அமர்ந்துள்ளார். iv) E என்பவர் A க்கும் C க்கும் இடையில் அமர்ந்துள்ளார். v) B ன் வலதுபுறம் F அமர்ந்துள்ளார். மேற்கண்ட தகவல்படி, இரண்டு வரிசைகளில் ஏதேனும் ஒரே வரிசையில் அமர்ந்துள்ளவர்கள் யார்?",
+    "options": [
+      "A, E, C",
+      "D, B, C",
+      "F, E, C",
+      "A, E, B"
+    ],
+    "correct": 0,
+    "explanation": "A, E, C ஆகியோர் ஒரே வரிசையில் உள்ளனர்.",
+    "question_en": "A, B, C, D, E and F are seated in two rows of 3 persons each. ii) D sits diagonally opposite to C. iii) B is sitting opposite E. iv) E is sitting between A and C. v) F sits to the right of B. According to the above information, who are sitting in any of the two rows in the same row?",
+    "options_en": [
+      "A, E, C",
+      "D, B, C",
+      "F, E, C",
+      "A, E, B"
+    ],
+    "explanation_en": "A, E, C are in the same row."
+  },
+  {
+    "id": 31,
+    "question": "A, B, C, D, E மற்றும் F என்ற ஆறுபேர் வரிசைக்கு 3 பேர் வீதம் இரு வரிசையில் அமர்ந்துள்ளனர். ii) D என்பவர் C -க்கு மூலைவிட்ட எதிராக அமர்ந்துள்ளார். iii) B என்பவர் E க்கு எதிராக அமர்ந்துள்ளார். iv) E என்பவர் A க்கும் C க்கும் இடையில் அமர்ந்துள்ளார். v) B ன் வலதுபுறம் F அமர்ந்துள்ளார். மேற்கண்ட தகவல்படி, பின்வருவனவற்றுள் யார் ஒரே வரிசையிலிருப்பவர்கள்?",
+    "options": [
+      "D மற்றும் F",
+      "B மற்றும் E",
+      "D மற்றும் A",
+      "F மற்றும் C"
+    ],
+    "correct": 0,
+    "explanation": "D மற்றும் F ஒரே வரிசையில் உள்ளனர்.",
+    "question_en": "A, B, C, D, E and F are seated in two rows of 3 persons each. ii) D sits diagonally opposite to C. iii) B is sitting opposite E. iv) E is sitting between A and C. v) F sits to the right of B. According to the above information, who among the following are in the same row?",
+    "options_en": [
+      "D and F",
+      "B and E",
+      "D and A",
+      "F and C"
+    ],
+    "explanation_en": "D and F are in the same row."
+  },
+  {
+    "id": 32,
+    "question": "A, B, C, D, E மற்றும் F என்ற ஆறுபேர் வரிசைக்கு 3 பேர் வீதம் இரு வரிசையில் அமர்ந்துள்ளனர். ii) D என்பவர் C -க்கு மூலைவிட்ட எதிராக அமர்ந்துள்ளார். iii) B என்பவர் E க்கு எதிராக அமர்ந்துள்ளார். iv) E என்பவர் A க்கும் C க்கும் இடையில் அமர்ந்துள்ளார். v) B ன் வலதுபுறம் F அமர்ந்துள்ளார். மேற்கண்ட தகவல்படி, B மற்றும் E இருவரும் தங்கள் இடத்தை மாற்றிக் கொண்டால் E க்கு வலதுபுறம் உள்ளவர் யார்?",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "F"
+    ],
+    "correct": 3,
+    "explanation": "இடம் மாறினால் E க்கு வலதுபுறம் F வருவார்.",
+    "question_en": "A, B, C, D, E and F are seated in two rows of 3 persons each. ii) D sits diagonally opposite to C. iii) B is sitting opposite E. iv) E is sitting between A and C. v) F sits to the right of B. According to the above information, if B and E interchange their places, who is to the right of E?",
+    "options_en": [
+      "A",
+      "C",
+      "D",
+      "F"
+    ],
+    "explanation_en": "If the position changes then F will come to the right of E."
+  },
+  {
+    "id": 33,
+    "question": "A, B, C, D மற்றும் E ஆகியோர் ஒரு வரிசையில் அமர்ந்துள்ளனர். A என்பவர் B ன் வலதுபுறமாகவும், C என்பவர் E -க்கு இடது புறமாகவும் A -க்கு வலது புறமாகவும் அமர்ந்துள்ளார். B -என்பவர் D -ன் வலதுபுறம் அமர்ந்துள்ளார். நடுவில் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "வரிசை: D, B, A, C, E. நடுவில் அமர்ந்துள்ளவர் A.",
+    "question_en": "A, B, C, D and E are sitting in a row. A sits to the right of B, C to the left of E and to the right of A. B is sitting to the right of D. Who is sitting in the middle?",
+    "options_en": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "explanation_en": "Order: D, B, A, C, E. A sits in the middle."
+  },
+  {
+    "id": 34,
+    "question": "A, B, C, D மற்றும் E ஆகியோர் ஒரு வரிசையில் அமர்ந்துள்ளனர். A என்பவர் B ன் வலதுபுறமாகவும், C என்பவர் E -க்கு இடது புறமாகவும் A -க்கு வலது புறமாகவும் அமர்ந்துள்ளார். B -என்பவர் D -ன் வலதுபுறம் அமர்ந்துள்ளார். மேற்கண்ட தகவல்படி, இடது புறத்திலிருந்து இரண்டாவது இடத்தில் அமர்ந்துள்ளவர் யார்?",
+    "options": [
+      "E",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 1,
+    "explanation": "இடதுபுறத்திலிருந்து இரண்டாவது இடத்தில் B உள்ளார்.",
+    "question_en": "A, B, C, D and E are sitting in a row. A sits to the right of B, C to the left of E and to the right of A. B is sitting to the right of D. According to the above information, who is sitting second from the left?",
+    "options_en": [
+      "E",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation_en": "B is second from left."
+  },
+  {
+    "id": 35,
+    "question": "ராமுவின் வயதானது சோமுவின் வயதினைப் போன்று இரு மடங்கு. சோமுவின் வயதானது கோபுவின் வயதில் பாதி ஆகும். மேலும், கோபுவின் வயது சோமுவின் வயதினை விட 10 வருடங்கள் அதிகம் எனில் சோமு மற்றும் கோபுவின் வயதுகள் முறையே,",
+    "options": [
+      "5, 10",
+      "10, 20",
+      "10, 15",
+      "20, 10"
+    ],
+    "correct": 1,
+    "explanation": "சோமு = 10, கோபு = 20.",
+    "question_en": "Ramu is twice as old as Somu. Somu's age is half of Gobu's age. Also, if the age of Gobu is 10 years more than the age of Somu, then the ages of Somu and Gobu are respectively,",
+    "options_en": [
+      "5, 10",
+      "10, 20",
+      "10, 15",
+      "20, 10"
+    ],
+    "explanation_en": "Somu = 10, Gobu = 20."
+  },
+  {
+    "id": 36,
+    "question": "குமாரின் வயது அவரது சகோதரியை விட 5 மடங்கு அதிகம். அதே வேளையில் சகோதரி லதா அவரது சகோதரன் ராகவை விட 2 வயது இளையவர். ராகவின் வயது 10 எனில், குமாரின் வயது என்ன?",
+    "options": [
+      "56",
+      "42",
+      "40",
+      "35"
+    ],
+    "correct": 2,
+    "explanation": "ராகவ் = 10, லதா = 10 - 2 = 8, குமார் = 8 \\times 5 = 40.",
+    "question_en": "Kumar is 5 times older than his sister. Meanwhile sister Lata is 2 years younger than her brother Ragha. If Ragha's age is 10, what is Kumar's age?",
+    "options_en": [
+      "56",
+      "42",
+      "40",
+      "35"
+    ],
+    "explanation_en": "Raghav = 10, Lata = 10 - 2 = 8, Kumar = 8 \\times 5 = 40."
+  },
+  {
+    "id": 37,
+    "question": "தந்தையின் வயது தாயின் வயதை விட 8 ஆண்டுகள் அதிகம் மற்றும் தாயின் வயதானது, மகனின் வயதில் 4 மடங்கு ஆகும். தற்போது மகனின் வயது 8 ஆண்டுகள் எனில், பிறந்த போது, தந்தைக்கு என்ன வயதாக இருந்திருக்கும்?",
+    "options": [
+      "32 ஆண்டுகள்",
+      "36 ஆண்டுகள்",
+      "40 ஆண்டுகள்",
+      "35 ஆண்டுகள்"
+    ],
+    "correct": 0,
+    "explanation": "மகன் = 8, தாய் = 32, தந்தை = 40. மகன் பிறந்தபோது தந்தை = 40 - 8 = 32.",
+    "question_en": "Father's age is 8 years more than mother's age and mother's age is 4 times the son's age. If the son is now 8 years old, what was the age of the father when he was born?",
+    "options_en": [
+      "32 years",
+      "36 years",
+      "40 years",
+      "35 years"
+    ],
+    "explanation_en": "Son = 8, Mother = 32, Father = 40. Father = 40 - 8 = 32 when son was born."
+  },
+  {
+    "id": 38,
+    "question": "A -யின் வயது B -யின் வயதை விட 2 ஆண்டுகள் அதிகம். B -ன் வயது C -ன் வயதில் இரு மடங்கு. A,B -மற்றும் C ஆகியோரின் வயதுகளின் கூடுதல் 27 வருடங்கள். எனில், B -ன் வயது யாது?",
+    "options": [
+      "7 வருடங்கள்",
+      "8 வருடங்கள்",
+      "9 வருடங்கள்",
+      "10 வருடங்கள்"
+    ],
+    "correct": 3,
+    "explanation": "C = x, B = 2x, A = 2x + 2. $x + 2x + 2x + 2 = 27 \\Rightarrow x = 5$. B = 10.",
+    "question_en": "A's age is 2 years more than B's age. B's age is twice the age of C. Add 27 years to the ages of A,B and C. If so, what is the age of B?",
+    "options_en": [
+      "7 years",
+      "8 years",
+      "9 years",
+      "10 years"
+    ],
+    "explanation_en": "C = x, B = 2x, A = 2x + 2. $x + 2x + 2x + 2 = 27 \\Rightarrow x = 5$. B = 10."
+  },
+  {
+    "id": 39,
+    "question": "ரமேஷ் மற்றும் வினோத்தின் வயதுகளின் விகிதம் 4 : 3, 6 வருடங்களுக்குப் பிறகு ரமேஷின் வயது 26 வயதாக இருந்தால், வினோத் தற்போதைய வயது என்ன?",
+    "options": [
+      "11",
+      "15",
+      "14",
+      "13"
+    ],
+    "correct": 1,
+    "explanation": "ரமேஷ் = 4x, $4x + 6 = 26 \\Rightarrow x = 5$. வினோத் = 3x = 15.",
+    "question_en": "If the ratio of Ramesh and Vinod's ages is 4 : 3, if Ramesh's age is 26 after 6 years, then what is Vinod's present age?",
+    "options_en": [
+      "11",
+      "15",
+      "14",
+      "13"
+    ],
+    "explanation_en": "Ramesh = 4x, $4x + 6 = 26 \\Rightarrow x = 5$. Vinod = 3x = 15."
+  },
+  {
+    "id": 40,
+    "question": "ஹர்சினியின் தந்தையின் வயது அவளது சகோதரனின் வயதைப்போல் இருமடங்காகும். அவள் தனது சகோதரனை விட 7 வருடம் இளையவள். ஆனால் அவளது சகோதரியை விட 3 ஆண்டுகள் மூத்தவள். அவளது சகோதரியின் வயது 12வயது ஆக இருந்தால், அவளது தந்தையின் வயதுஎன்ன?",
+    "options": [
+      "30 ஆண்டுகள்",
+      "44 ஆண்டுகள்",
+      "45 ஆண்டுகள்",
+      "50 ஆண்டுகள்"
+    ],
+    "correct": 1,
+    "explanation": "சகோதரி = 12, ஹர்சினி = 12 + 3 = 15. சகோதரன் = 15 + 7 = 22. தந்தை = $22 \\times 2 = 44$.",
+    "question_en": "Harsini's father is twice the age of her brother. She is 7 years younger than her brother. But she is 3 years older than her sister. If her sister's age is 12 years, what is her father's age?",
+    "options_en": [
+      "30 years",
+      "44 years",
+      "45 years",
+      "50 years"
+    ],
+    "explanation_en": "Sister = 12, Harsini = 12 + 3 = 15. Brother = 15 + 7 = 22. Father = $22 \\times 2 = 44$."
+  },
+  {
+    "id": 41,
+    "question": "சச்சின் அனிலை விட 4 ஆண்டுகள் மூத்தவன். இவர்கள் இருவரின் வயதுகளின் கூடுதல் 20 எனில், சச்சினின் தற்போதைய வயது என்ன?",
+    "options": [
+      "14 வருடங்கள்",
+      "12 வருடங்கள்",
+      "16 வருடங்கள்",
+      "18 வருடங்கள்"
+    ],
+    "correct": 1,
+    "explanation": "$x + (x + 4) = 20 \\Rightarrow 2x = 16 \\Rightarrow x = 8$. சச்சின் = $8 + 4 = 12$.",
+    "question_en": "Sachin is 4 years older than Anil. If their ages are plus 20, what is Sachin's present age?",
+    "options_en": [
+      "14 years",
+      "12 years",
+      "16 years",
+      "18 years"
+    ],
+    "explanation_en": "$x + (x + 4) = 20 \\Rightarrow 2x = 16 \\Rightarrow x = 8$. Sachin = $8 + 4 = 12$."
+  },
+  {
+    "id": 42,
+    "question": "என்னுடைய வயது, என் தந்தையின் வயதைப்போல் 3 மடங்கு. (தவறு: 1/3 மடங்கு). 6 ஆண்டுகளுக்கு முன் என்னுடைய தந்தை 24 வயதாக இருக்கும்போது எனது சகோதரி பிறந்தாள். எனது சகோதரிக்கு 9 வயதாக உள்ள போது, எனக்கு எத்தனை வயதாகி இருக்கும்?",
+    "options": [
+      "13 வருடங்கள்",
+      "12 வருடங்கள்",
+      "11 வருடங்கள்",
+      "10 வருடங்கள்"
+    ],
+    "correct": 0,
+    "explanation": "சகோதரி வயது = 9. தந்தை 6 ஆண்டுகளுக்கு முன் 24 என்றால், இப்போது 30. என்னுடைய வயது = 30 / 3 = 10. சகோதரிக்கு 9 வயது ஆகும் போது என் வயது = 4 + 9 = 13.",
+    "question_en": "My age is 3 times my father's age. (Error: 1/3 times). My sister was born 6 years ago when my father was 24 years old. When my sister is 9 years old, how old will I be?",
+    "options_en": [
+      "13 years",
+      "12 years",
+      "11 years",
+      "10 years"
+    ],
+    "explanation_en": "Sister age = 9. If father was 24 6 years ago, now 30. My age = 30 / 3 = 10. My age when sister is 9 years = 4 + 9 = 13."
+  },
+  {
+    "id": 43,
+    "question": "மூர்த்தி மற்றும் சேகரின் வயதுகளின் விகிதம் 3 : 2 மேலும் அவர்களின் வயது வித்தியாசம் 12 எனில், மூர்த்தியின் வயது யாது?",
+    "options": [
+      "23",
+      "36",
+      "34",
+      "35"
+    ],
+    "correct": 1,
+    "explanation": "விகிதம் 3:2, வித்தியாசம் 1 பங்கு = 12. மூர்த்தி = $3 \\times 12 = 36$.",
+    "question_en": "If the ratio of the ages of Murthy and Shekhar is 3 : 2 and their age difference is 12, then what is the age of Murthy?",
+    "options_en": [
+      "23",
+      "36",
+      "34",
+      "35"
+    ],
+    "explanation_en": "Ratio 3:2, difference 1 share = 12. Murthy = $3 \\times 12 = 36$."
+  },
+  {
+    "id": 44,
+    "question": "பாபுவின் வயது அவரது மகனின் வயதை விட 2 மடங்கு. 4 வருடங்களுக்குப் பிறகு இருவரின் வயதுகளின் கூடுதல் 68 எனில், தற்போது மகனின் வயது என்ன?",
+    "options": [
+      "10",
+      "16",
+      "8",
+      "20"
+    ],
+    "correct": 3,
+    "explanation": "மகன் = x, பாபு = 2x. $(x + 4) + (2x + 4) = 68 \\Rightarrow 3x + 8 = 68 \\Rightarrow 3x = 60 \\Rightarrow x = 20$.",
+    "question_en": "Babu's age is 2 times his son's age. If the sum of their ages after 4 years is 68, what is the age of the son now?",
+    "options_en": [
+      "10",
+      "16",
+      "8",
+      "20"
+    ],
+    "explanation_en": "Son = x, Babu = 2x. $(x + 4) + (2x + 4) = 68 \\Rightarrow 3x + 8 = 68 \\Rightarrow 3x = 60 \\Rightarrow x = 20$."
+  }
+]

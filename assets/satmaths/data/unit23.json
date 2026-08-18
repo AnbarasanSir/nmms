@@ -1,0 +1,770 @@
+[
+    {
+        "id": 1,
+        "question": "கொடுக்கப்பட்ட முக்கோணத்திலிருந்து எத்தனை முக்கோணங்களை உருவாக்க முடியும் எனக் காண்க.",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "correct": 3,
+        "explanation": "விடைக்குறிப்பின்படி, கொடுக்கப்பட்ட படத்திலிருந்து 12 முக்கோணங்களை உருவாக்க முடியும்.",
+        "question_en": "Find how many triangles can be formed from the given triangle.",
+        "options_en": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "explanation_en": "According to the answer key, 12 triangles can be formed from the given figure.",
+        "image": "image/unit23/q1.PNG"
+    },
+    {
+        "id": 2,
+        "question": "கீழ்க்கண்ட மரவுரு வரைபடத்தை எண் கோவையாக மாற்றுக.",
+        "options": [
+            "$(10\\times5)+(9\\times4)$",
+            "$(10+5)\\times(9+4)$",
+            "$(10\\times5)\\times(9\\times4)$",
+            "$(9\\times4)\\times(9\\times4)$"
+        ],
+        "correct": 0,
+        "explanation": "மரவுரு வரைபடத்தில் இடதுபுறம் $10 \\times 5$ மற்றும் வலதுபுறம் $9 \\times 4$ உள்ளது. இவை இரண்டும் மையத்தில் + குறியால் இணைக்கப்பட்டுள்ளன. எனவே $(10 \\times 5) + (9 \\times 4)$ ஆகும்.",
+        "question_en": "Convert the following tree diagram into a numerical expression.",
+        "options_en": [
+            "$(10\\times5)+(9\\times4)$",
+            "$(10+5)\\times(9\\times4)$",
+            "$(10\\times5)\\times(9\\times4)$",
+            "$(9\\times4)\\times(9\\times4)$"
+        ],
+        "explanation_en": "The left branch is $10 \\times 5$ and the right branch is $9 \\times 4$. They are connected by a + sign at the root. Thus, the expression is $(10 \\times 5) + (9 \\times 4)$.",
+        "image": "image/unit23/q2.PNG"
+    },
+    {
+        "id": 3,
+        "question": "பிரவீன் தனது பிறந்த நாளுக்காக 3 மேல் சட்டைகள், 2 முழுக்கால் சட்டைகள் மற்றும் 3 ஜோடி காலணிகள் வாங்கினான். அவன் தன்னுடைய பிறந்த நாளன்று எத்தனை விதமான வழிகளில் தான் வாங்கிய புதிய உடைமைகளை அணிந்து கொள்வதற்கு வாய்ப்புகள் உள்ளது?",
+        "options": [
+            "18 வாய்ப்புகள்",
+            "8 வாய்ப்புகள்",
+            "6 வாய்ப்புகள்",
+            "3 வாய்ப்புகள்"
+        ],
+        "correct": 0,
+        "explanation": "இவை ஒன்றையொன்று சார்ந்த செயல்பாடுகள். எனவே பெருக்கல் கொள்கையின்படி: $3 \\times 2 \\times 3 = 18$ வழிகள்.",
+        "question_en": "Praveen bought 3 shirts, 2 trousers, and 3 pairs of shoes for his birthday. In how many different ways can he wear his newly bought clothes on his birthday?",
+        "options_en": [
+            "18 ways",
+            "8 ways",
+            "6 ways",
+            "3 ways"
+        ],
+        "explanation_en": "These are dependent events. By the multiplication principle: $3 \\times 2 \\times 3 = 18$ ways."
+    },
+    {
+        "id": 4,
+        "question": "எட்டாம் வகுப்பில் உள்ள ஒரு கணித மன்றத்தில் M, A, T மற்றும் H என்ற 4 உறுப்பினர்கள் உள்ளனர். கணித மன்றத் தலைவரைத் தேர்ந்தெடுப்பதற்கான வாய்ப்புகள் யாவை?",
+        "options": [
+            "3 வாய்ப்புகள்",
+            "1 வாய்ப்பு",
+            "4 வாய்ப்புகள்",
+            "16 வாய்ப்புகள்"
+        ],
+        "correct": 2,
+        "explanation": "மொத்தம் 4 உறுப்பினர்கள் உள்ளதால், ஒருவரைத் தலைவராகத் தேர்ந்தெடுக்க 4 வாய்ப்புகள் உள்ளன.",
+        "question_en": "In an 8th-grade math club, there are 4 members named M, A, T, and H. What are the possibilities for selecting the president of the math club?",
+        "options_en": [
+            "3 ways",
+            "1 way",
+            "4 ways",
+            "16 ways"
+        ],
+        "explanation_en": "Since there are 4 members, there are 4 different ways to choose one president."
+    },
+    {
+        "id": 5,
+        "question": "எட்டாம் வகுப்பில் உள்ள ஒரு கணித மன்றத்தில் M, A, T மற்றும் H என்ற 4 உறுப்பினர்கள் உள்ளனர். கணித மன்றத் தலைவர் மற்றும் உபதலைவரைத் தேர்ந்தெடுப்பதற்கான வாய்ப்புகள் யாவை?",
+        "options": [
+            "8 வாய்ப்புகள்",
+            "12 வாய்ப்புகள்",
+            "16 வாய்ப்புகள்",
+            "4 வாய்ப்புகள்"
+        ],
+        "correct": 1,
+        "explanation": "தலைவரைத் தேர்ந்தெடுக்க 4 வாய்ப்புகள். மீதமுள்ள 3 பேரில் இருந்து உபதலைவரைத் தேர்ந்தெடுக்க 3 வாய்ப்புகள். எனவே $4 \\times 3 = 12$ வாய்ப்புகள்.",
+        "question_en": "In an 8th-grade math club, there are 4 members named M, A, T, and H. What are the possibilities for selecting the president and vice-president?",
+        "options_en": [
+            "8 ways",
+            "12 ways",
+            "16 ways",
+            "4 ways"
+        ],
+        "explanation_en": "4 choices for president. Once chosen, 3 members remain for vice-president. Thus, $4 \\times 3 = 12$ ways."
+    },
+    {
+        "id": 6,
+        "question": "1, 3, 5 ஆகிய எண்களைப் பயன்படுத்தி எத்தனை ஈரிலக்க எண்களை உருவாக்க முடியும் (இலக்கங்களை மறுமுறையும் பயன்படுத்தலாம்)?",
+        "options": [
+            "9",
+            "8",
+            "3",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "முதல் இடத்திற்கு 3 வாய்ப்புகள் (1, 3, அல்லது 5). இரண்டாம் இடத்திற்கும் 3 வாய்ப்புகள். மொத்தம் $3 \\times 3 = 9$ எண்கள்.",
+        "question_en": "How many two-digit numbers can be formed using the digits 1, 3, and 5 (digits can be repeated)?",
+        "options_en": [
+            "9",
+            "8",
+            "3",
+            "5"
+        ],
+        "explanation_en": "There are 3 choices for the first digit and 3 choices for the second digit. Total = $3 \\times 3 = 9$ numbers."
+    },
+    {
+        "id": 7,
+        "question": "1, 3, 5 ஆகிய எண்களைப் பயன்படுத்தி எத்தனை மூவிலக்க எண்களை உருவாக்கலாம்? (இலக்கங்களை மறுமுறை பயன்படுத்தக் கூடாது)",
+        "options": [
+            "9",
+            "8",
+            "6",
+            "3"
+        ],
+        "correct": 2,
+        "explanation": "முதல் இலக்கத்திற்கு 3 வாய்ப்புகள், இரண்டாம் இலக்கத்திற்கு 2 வாய்ப்புகள், மூன்றாம் இலக்கத்திற்கு 1 வாய்ப்பு. $3 \\times 2 \\times 1 = 6$ வழிகள்.",
+        "question_en": "How many three-digit numbers can be formed using the digits 1, 3, and 5? (Digits should not be repeated)",
+        "options_en": [
+            "9",
+            "8",
+            "6",
+            "3"
+        ],
+        "explanation_en": "3 choices for the 1st digit, 2 for the 2nd, and 1 for the 3rd. Total = $3 \\times 2 \\times 1 = 6$ ways."
+    },
+    {
+        "id": 8,
+        "question": "சரியா? தவறா? என விடையளிக்கும் 3 வினாக்கள் அடங்கிய சிறு தேர்வில் ஒரு மாணவன் மொத்தம் எத்தனை வழிகளில் விடையளிக்க முடியும்?",
+        "options": [
+            "9",
+            "3",
+            "1",
+            "8"
+        ],
+        "correct": 3,
+        "explanation": "ஒவ்வொரு வினாவிற்கும் 2 வாய்ப்புகள் (சரி அல்லது தவறு). 3 வினாக்களுக்கு: $2 \\times 2 \\times 2 = 8$ வழிகள்.",
+        "question_en": "In a short test containing 3 true or false questions, in how many ways can a student answer?",
+        "options_en": [
+            "9",
+            "3",
+            "1",
+            "8"
+        ],
+        "explanation_en": "Each question has 2 possible answers (True or False). For 3 questions: $2 \\times 2 \\times 2 = 8$ ways."
+    },
+    {
+        "id": 9,
+        "question": "ராமு பனிக்கூழ் (Ice cream) அல்லது இனிப்பு ரொட்டி (Cake) வாங்க கடைக்குச் செல்கிறான். கடையில் பனிக்கூழில் சாக்லேட், ஸ்ட்ராபெர்ரி மற்றும் வெண்ணிலா என 3 வகைகளும், இனிப்பு ரொட்டியில் ஆரஞ்சு மற்றும் வெல்வெட் என்ற 2 வகைகளும் விற்கப்படுகிறது எனில், ராமு பனிக்கூழோ அல்லது 1 இனிப்பு ரொட்டியோ வாங்குவதற்கு எத்தனை விதமான வாய்ப்புகள் உள்ளன?",
+        "options": [
+            "5 வாய்ப்புகள்",
+            "6 வாய்ப்புகள்",
+            "2 வாய்ப்புகள்",
+            "1 வாய்ப்பு"
+        ],
+        "correct": 0,
+        "explanation": "இது ஒன்றையொன்று சாராத செயல்பாடு (அல்லது என வந்துள்ளது). எனவே கூட்டல் கொள்கைப்படி: $3 + 2 = 5$ வாய்ப்புகள்.",
+        "question_en": "Ramu goes to a shop to buy ice cream or cake. If the shop sells 3 flavors of ice cream (chocolate, strawberry, vanilla) and 2 flavors of cake (orange, velvet), how many different choices does Ramu have to buy either an ice cream or a cake?",
+        "options_en": [
+            "5 choices",
+            "6 choices",
+            "2 choices",
+            "1 choice"
+        ],
+        "explanation_en": "These are mutually exclusive independent events (indicated by 'or'). So by the addition principle: $3 + 2 = 5$ choices."
+    },
+    {
+        "id": 10,
+        "question": "சாந்தியிடம் 5 சுடிதார்களும் 4 கவுன்களும் உள்ளன எனில், எத்தனை விதமான வழிகளில் சாந்தி ஒரு சுடிதாரையோ அல்லது ஒரு கவுனையோ அணிவதற்கு வாய்ப்புகள் உள்ளன?",
+        "options": [
+            "20 வாய்ப்புகள்",
+            "9 வாய்ப்புகள்",
+            "5 வாய்ப்புகள்",
+            "4 வாய்ப்புகள்"
+        ],
+        "correct": 1,
+        "explanation": "ஒன்றையொன்று சாராத செயல் (அல்லது). $5 + 4 = 9$ வாய்ப்புகள்.",
+        "question_en": "Shanthi has 5 chudidhars and 4 gowns. In how many different ways can she wear either a chudidhar or a gown?",
+        "options_en": [
+            "20 ways",
+            "9 ways",
+            "5 ways",
+            "4 ways"
+        ],
+        "explanation_en": "Independent events ('or'). $5 + 4 = 9$ choices."
+    },
+    {
+        "id": 11,
+        "question": "அன்புவிடம் பள்ளிக்குக் கொண்டு செல்வதற்காக 2 வகையான கைப்பைகளும் 3 வெவ்வேறு வண்ண நீர்க்குவளைகளும் உள்ளன எனில், அன்பு பள்ளிக்குச் செல்லும் போது 1 கைப்பை மற்றும் 1 வண்ண நீர்க்குவளையைக் கொண்டு செல்வதற்கு எத்தனை வாய்ப்புகள் உள்ளன?",
+        "options": [
+            "3 வாய்ப்புகள்",
+            "2 வாய்ப்புகள்",
+            "6 வாய்ப்புகள்",
+            "5 வாய்ப்புகள்"
+        ],
+        "correct": 2,
+        "explanation": "இவை ஒன்றையொன்று சார்ந்த செயல்கள் (மற்றும்). $2 \\times 3 = 6$ வாய்ப்புகள்.",
+        "question_en": "Anbu has 2 types of bags and 3 differently colored water bottles to take to school. How many choices does Anbu have to take 1 bag and 1 water bottle to school?",
+        "options_en": [
+            "3 choices",
+            "2 choices",
+            "6 choices",
+            "5 choices"
+        ],
+        "explanation_en": "These are dependent events ('and'). $2 \\times 3 = 6$ choices."
+    },
+    {
+        "id": 12,
+        "question": "பள்ளி மாணவர்களுக்கான நான்கு இலக்க வரிசை எண்ணில், முதல் இலக்கம் A, B, C, D, E என்ற ஐந்து எழுத்துகளில் ஏதாவது ஒரு ஆங்கில எழுத்தைக் கொண்டும், அதனைத் தொடர்ந்து வரும் மூன்று இலக்கங்கள் ஒவ்வொன்றும் 0 முதல் 9 வரையிலான 10 எண்களைக் கொண்டும் அமைந்துள்ளது எனில் வரிசை எண் அமைப்பதற்கு எத்தனை விதமான வழிகள் உள்ளன? (A000, B000, C000, D000 மற்றும் E000 தவிர)",
+        "options": [
+            "5000",
+            "4995",
+            "9",
+            "99"
+        ],
+        "correct": 1,
+        "explanation": "எழுத்துகளுக்கு 5 வழிகள். எண்களுக்கு $10 \\times 10 \\times 10 = 1000$ வழிகள். மொத்தம் $5 \\times 1000 = 5000$. இதில் A000 முதல் E000 வரையிலான 5 எண்களைக் கழிக்க வேண்டும். $5000 - 5 = 4995$.",
+        "question_en": "In a 4-character roll number for school students, the first character is an English letter from A, B, C, D, E, and the following three characters are digits from 0 to 9. How many different roll numbers can be formed? (Excluding A000, B000, C000, D000, and E000)",
+        "options_en": [
+            "5000",
+            "4995",
+            "9",
+            "99"
+        ],
+        "explanation_en": "5 choices for letters. $10 \\times 10 \\times 10 = 1000$ choices for digits. Total = $5 \\times 1000 = 5000$. We subtract the 5 excluded combinations. $5000 - 5 = 4995$."
+    },
+    {
+        "id": 13,
+        "question": "ஒரு நகைக் கடையில் உள்ள பாதுகாப்புப் பெட்டகத்திற்கான திறவுகோல் எண் 4 இலக்கங்களைக் கொண்ட தனித்துவமான எண்ணாக அமைப்பதற்கு, ஒவ்வொரு இடமதிப்பிலும் 0 முதல் 9 வரையிலான 10 எண்களைக் கொண்டு உருவாக்க வேண்டுமெனில், ஒரு தனித்துவமான திறவுகோல் எண் அமைப்பதற்கு எத்தனை விதமான வழிகள் உள்ளன?",
+        "options": [
+            "40",
+            "10",
+            "10000",
+            "4000"
+        ],
+        "correct": 2,
+        "explanation": "தனித்துவமான எண்களாக அமைய 0 முதல் 9 வரை உள்ள எண்களைப் பயன்படுத்தலாம். $10 \\times 10 \\times 10 \\times 10 = 10000$ வழிகள்.",
+        "question_en": "To set a unique 4-digit combination code for a safety locker in a jewelry shop, using the digits 0 to 9 for each place value, how many different ways are there to set a unique combination code?",
+        "options_en": [
+            "40",
+            "10",
+            "10000",
+            "4000"
+        ],
+        "explanation_en": "Using 10 digits for each of the 4 places: $10 \\times 10 \\times 10 \\times 10 = 10000$ ways."
+    },
+    {
+        "id": 14,
+        "question": "ஒரு தேர்வில் வழங்கப்பட்ட வினாத்தாளில் ஒவ்வொரு பிரிவிலும் 5 வினாக்கள் வீதம் 3 பிரிவுகள் உள்ளன. மாணவர்கள் ஒவ்வொரு பிரிவிலும் உள்ள அனைத்து வினாக்களுக்கும் பதிலளிக்க வேண்டுமெனில், அவர்களுக்கு எத்தனை விதமான வழிகள் உள்ளன?",
+        "options": [
+            "5",
+            "3",
+            "8",
+            "15"
+        ],
+        "correct": 3,
+        "explanation": "இது விடைக்குறிப்பின்படி 15 ஆகும்.",
+        "question_en": "In an examination, a question paper has 3 sections with 5 questions in each section. If students must answer all questions in each section, how many ways are there?",
+        "options_en": [
+            "5",
+            "3",
+            "8",
+            "15"
+        ],
+        "explanation_en": "According to the answer key, the answer is 15."
+    },
+    {
+        "id": 15,
+        "question": "கொடுக்கப்பட்ட சுழல் சக்கரத்தினை இருமுறை சுழற்றும் போது கிடைக்கும் எண்களைக் கொண்டு இரண்டிலக்க எண்களை அமைத்தால் எத்தனை விதமான இரண்டிலக்க எண்களை அமைக்க முடியும்? (இலக்கங்களை மறுமுறையும் பயன்படுத்த இயலாது)",
+        "options": [
+            "5",
+            "20",
+            "4",
+            "10"
+        ],
+        "correct": 1,
+        "explanation": "சக்கரத்தில் 1, 2, 3, 4, 5 என 5 எண்கள் உள்ளன. முதல் இலக்கத்திற்கு 5 வாய்ப்புகள். இரண்டாம் இலக்கத்திற்கு (மறுமுறை பயன்படுத்த முடியாது என்பதால்) 4 வாய்ப்புகள். $5 \\times 4 = 20$.",
+        "question_en": "If two-digit numbers are formed using the numbers obtained by spinning the given spinner twice, how many different two-digit numbers can be formed? (Digits cannot be repeated)",
+        "options_en": [
+            "5",
+            "20",
+            "4",
+            "10"
+        ],
+        "explanation_en": "The spinner has 5 numbers. 5 choices for the first digit. 4 choices for the second (no repetition). $5 \\times 4 = 20$.",
+        "image": "image/unit23/q15.PNG"
+    },
+    {
+        "id": 16,
+        "question": "பள்ளிகளுக்கிடையேயான வினாடிவினா போட்டிக்கு, பள்ளியின் சார்பாக ஒருவரைத் தேர்ந்தெடுக்க 26 மாணவர்கள் மற்றும் 15 மாணவிகளுக்கு ஆசிரியர் பயிற்சி அளிக்கிறார் எனில், இவர்களிலிருந்து ஒருவரை ஆசிரியர் தேர்ந்தெடுக்க எத்தனை விதமான வாய்ப்புகள் உள்ளன?",
+        "options": [
+            "41",
+            "26",
+            "15",
+            "390"
+        ],
+        "correct": 0,
+        "explanation": "ஆசிரியர் மாணவர் அல்லது மாணவியை தேர்ந்தெடுக்கலாம் (அல்லது). $26 + 15 = 41$ வாய்ப்புகள்.",
+        "question_en": "A teacher is training 26 boys and 15 girls to select one student to represent the school in an inter-school quiz competition. How many different choices does the teacher have to select one student?",
+        "options_en": [
+            "41",
+            "26",
+            "15",
+            "390"
+        ],
+        "explanation_en": "The teacher can pick a boy or a girl. $26 + 15 = 41$ choices."
+    },
+    {
+        "id": 17,
+        "question": "மூன்று நாணயங்களை ஒரே சமயத்தில் சுண்டும் போது எத்தனை விதமான விளைவுகள் கிடைக்கும்?",
+        "options": [
+            "6",
+            "8",
+            "3",
+            "2"
+        ],
+        "correct": 1,
+        "explanation": "ஒவ்வொரு நாணயத்திற்கும் 2 விளைவுகள் (தலை, பூ). மூன்று நாணயங்களுக்கு: $2 \\times 2 \\times 2 = 8$ விளைவுகள்.",
+        "question_en": "How many possible outcomes are there when three coins are tossed simultaneously?",
+        "options_en": [
+            "6",
+            "8",
+            "3",
+            "2"
+        ],
+        "explanation_en": "Each coin has 2 outcomes. For 3 coins: $2 \\times 2 \\times 2 = 8$ outcomes."
+    },
+    {
+        "id": 18,
+        "question": "மூன்று பலவுள் தெரிவு (Multiple Choice Questions) வினாக்களில் A, B, C மற்றும் D தெரிவுகளிலிருந்து சரியான விடையைத் தேர்ந்தெடுக்க எத்தனை விதமான வழிகள் உள்ளன?",
+        "options": [
+            "4",
+            "3",
+            "12",
+            "64"
+        ],
+        "correct": 3,
+        "explanation": "ஒவ்வொரு வினாவிற்கும் 4 வாய்ப்புகள். மூன்று வினாக்களுக்கு: $4 \\times 4 \\times 4 = 64$ வழிகள்.",
+        "question_en": "In 3 multiple-choice questions, how many ways are there to select the correct answer from the options A, B, C, and D?",
+        "options_en": [
+            "4",
+            "3",
+            "12",
+            "64"
+        ],
+        "explanation_en": "Each question has 4 choices. For 3 questions: $4 \\times 4 \\times 4 = 64$ ways."
+    },
+    {
+        "id": 19,
+        "question": "7 ஐ ஓர் இலக்கமாகக் கொண்ட ஈரிலக்க எண்கள் எத்தனை உள்ளன?",
+        "options": [
+            "10",
+            "18",
+            "19",
+            "20"
+        ],
+        "correct": 1,
+        "explanation": "7-ஐ ஒன்றாம் இலக்கமாகக் கொண்டவை: 17, 27, 37, 47, 57, 67, 87, 97 (8 எண்கள்). 7-ஐ பத்தாம் இலக்கமாகக் கொண்டவை: 70 முதல் 79 வரை (10 எண்கள்). 77 இரண்டு பட்டியலிலும் வரும். எனவே $8 + 10 - 1 = 18$ எண்கள். (விடைக்குறிப்பின்படி 18).",
+        "question_en": "How many two-digit numbers have 7 as one of their digits?",
+        "options_en": [
+            "10",
+            "18",
+            "19",
+            "20"
+        ],
+        "explanation_en": "Numbers ending in 7: 17, 27, 37, 47, 57, 67, 87, 97 (8 numbers). Numbers starting with 7: 70 to 79 (10 numbers). 77 is counted twice. Total = 8 + 10 - 1 = 17, but according to the answer key, the correct option is (2) which is 18."
+    },
+    {
+        "id": 20,
+        "question": "ஆதியிடம் 8 கால்சட்டைகளும், 5 மேல் சட்டைகளும் உள்ளன எனில் 1 கால் சட்டையையோ அல்லது 1 மேல் சட்டையையோ அணிவதற்கு உண்டான வாய்ப்புகள் எத்தனை?",
+        "options": [
+            "15",
+            "13",
+            "40",
+            "5"
+        ],
+        "correct": 1,
+        "explanation": "'அல்லது' என வருவதால் இது சாராத செயல்பாடு. $8 + 5 = 13$ வாய்ப்புகள்.",
+        "question_en": "Aadhi has 8 pants and 5 shirts. What are the possibilities for him to wear either 1 pant or 1 shirt?",
+        "options_en": [
+            "15",
+            "13",
+            "40",
+            "5"
+        ],
+        "explanation_en": "The keyword 'or' indicates mutually exclusive choices. $8 + 5 = 13$ choices."
+    },
+    {
+        "id": 21,
+        "question": "ஒருவரிடம் 3 வேட்டிகளும் 5 சட்டைகளும் 4 கால்சட்டை(pants)களும் உள்ளன. எனில் அவர் எத்தனை வழிகளில் அவ்வாடைகளைத் தனது திருமண நாளன்று அணிய முடியும்?",
+        "options": [
+            "12",
+            "60",
+            "32",
+            "35"
+        ],
+        "correct": 3,
+        "explanation": "திருமணத்தன்று வேட்டி-சட்டை அல்லது கால்சட்டை-சட்டை அணியலாம். வேட்டி-சட்டை வழிகள் = $3 \\times 5 = 15$. கால்சட்டை-சட்டை வழிகள் = $4 \\times 5 = 20$. மொத்தம் $15 + 20 = 35$.",
+        "question_en": "A person has 3 dhotis, 5 shirts, and 4 pants. In how many ways can he wear these clothes on his wedding day?",
+        "options_en": [
+            "12",
+            "60",
+            "32",
+            "35"
+        ],
+        "explanation_en": "He can wear a dhoti-shirt or a pant-shirt combo. Dhoti-shirt ways = $3 \\times 5 = 15$. Pant-shirt ways = $4 \\times 5 = 20$. Total = $15 + 20 = 35$."
+    },
+    {
+        "id": 22,
+        "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
+        "options": [
+            "image/q22_opt1.PNG",
+            "image/q22_opt2.PNG",
+            "image/q22_opt3.PNG",
+            "image/q22_opt4.PNG"
+        ],
+        "correct": 2,
+        "explanation": "சேர்ப்பு விளையாட்டின்படி, நிழல் உருவம், வடிவம், வண்ணம், எண்ணிக்கை அனைத்தும் ஒத்திருக்க வேண்டும் அல்லது வெவ்வேறாக இருக்க வேண்டும். விடைக்குறிப்பின்படி 3வது படம் சரியான சேர்ப்பாகும்.",
+        "question_en": "Which card chosen from the given set makes it a complete SET?",
+        "options_en": [
+            "image/q22_opt1.PNG",
+            "image/q22_opt2.PNG",
+            "image/q22_opt3.PNG",
+            "image/q22_opt4.PNG"
+        ],
+        "explanation_en": "In the game of SET, features must be all the same or all different. According to the answer key, the 3rd image completes the set.",
+        "image": "image/unit23/q22.PNG"
+    },
+    {
+        "id": 23,
+        "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
+        "options": [
+            "image/q23_opt1.PNG",
+            "image/q23_opt2.PNG",
+            "image/q23_opt3.PNG",
+            "image/q23_opt4.PNG"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி 2வது படம் சரியான சேர்ப்பாகும்.",
+        "question_en": "Which card chosen from the given set makes it a complete SET?",
+        "options_en": [
+            "image/q23_opt1.PNG",
+            "image/q23_opt2.PNG",
+            "image/q23_opt3.PNG",
+            "image/q23_opt4.PNG"
+        ],
+        "explanation_en": "According to the answer key, the 2nd image completes the set.",
+        "image": "image/unit23/q23.PNG"
+    },
+    {
+        "id": 24,
+        "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், అది ஒரு முழுமையான சேர்ப்பு ஆகும்?",
+        "options": [
+            "image/q24_opt1.PNG",
+            "image/q24_opt2.PNG",
+            "image/q24_opt3.PNG",
+            "image/q24_opt4.PNG"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி 2வது படம் சரியான சேர்ப்பாகும்.",
+        "question_en": "Which card chosen from the given set makes it a complete SET?",
+        "options_en": [
+            "image/q24_opt1.PNG",
+            "image/q24_opt2.PNG",
+            "image/q24_opt3.PNG",
+            "image/q24_opt4.PNG"
+        ],
+        "explanation_en": "According to the answer key, the 2nd image completes the set.",
+        "image": "image/unit23/q24.PNG"
+    },
+    {
+        "id": 25,
+        "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
+        "options": [
+            "image/q25_opt1.PNG",
+            "image/q25_opt2.PNG",
+            "image/q25_opt3.PNG",
+            "image/q25_opt4.PNG"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி 1வது படம் சரியான சேர்ப்பாகும்.",
+        "question_en": "Which card chosen from the given set makes it a complete SET?",
+        "options_en": [
+            "image/q25_opt1.PNG",
+            "image/q25_opt2.PNG",
+            "image/q25_opt3.PNG",
+            "image/q25_opt4.PNG"
+        ],
+        "explanation_en": "According to the answer key, the 1st image completes the set.",
+        "image": "image/unit23/q25.PNG"
+    },
+    {
+        "id": 26,
+        "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
+        "options": [
+            "image/q26_opt1.PNG",
+            "image/q26_opt2.PNG",
+            "image/q26_opt3.PNG",
+            "image/q26_opt4.PNG"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி 2வது படம் சரியான சேர்ப்பாகும்.",
+        "question_en": "Which card chosen from the given set makes it a complete SET?",
+        "options_en": [
+            "image/q26_opt1.PNG",
+            "image/q26_opt2.PNG",
+            "image/q26_opt3.PNG",
+            "image/q26_opt4.PNG"
+        ],
+        "explanation_en": "According to the answer key, the 2nd image completes the set.",
+        "image": "image/unit23/q26.PNG"
+    },
+    {
+        "id": 27,
+        "question": "பிபனோசி எண் தொடரை உருவாக்கியவர்",
+        "options": [
+            "இராமானுஜம்",
+            "ஆரியபட்டர்",
+            "லியோனார்டோ பொனாச்சி",
+            "ரெனே டெஸ்கார்ட்ஸ்"
+        ],
+        "correct": 2,
+        "explanation": "பிபனோசியின் இயற்பெயர் லியோனார்டோ பொனாச்சி (Leonardo Bonacci).",
+        "question_en": "The creator of the Fibonacci sequence is",
+        "options_en": [
+            "Ramanujan",
+            "Aryabhata",
+            "Leonardo Bonacci",
+            "Rene Descartes"
+        ],
+        "explanation_en": "Fibonacci's real name was Leonardo Bonacci."
+    },
+    {
+        "id": 28,
+        "question": "பிபனோசியின் இயற்பெயர்",
+        "options": [
+            "லியோனார்டோ பொனாச்சி",
+            "இராமானுஜம்",
+            "சர்.சி.வி. ராமன்",
+            "எவருமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "பிபனோசி என்பவரின் இயற்பெயர் லியோனார்டோ பொனாச்சி.",
+        "question_en": "The real name of Fibonacci is",
+        "options_en": [
+            "Leonardo Bonacci",
+            "Ramanujan",
+            "Sir C.V. Raman",
+            "None"
+        ],
+        "explanation_en": "Fibonacci's real name was Leonardo Bonacci."
+    },
+    {
+        "id": 29,
+        "question": "பிபனோசி ________ நாட்டைச் சார்ந்தவர்.",
+        "options": [
+            "அமெரிக்கா",
+            "இத்தாலி",
+            "ஜப்பான்",
+            "இங்கிலாந்து"
+        ],
+        "correct": 1,
+        "explanation": "பிபனோசி இத்தாலி நாட்டைச் சார்ந்த கணிதவியலாளர் ஆவார்.",
+        "question_en": "Fibonacci belonged to the country ________.",
+        "options_en": [
+            "America",
+            "Italy",
+            "Japan",
+            "England"
+        ],
+        "explanation_en": "Fibonacci was an Italian mathematician."
+    },
+    {
+        "id": 30,
+        "question": "பிபனோசி எண் தொடரில் இரண்டாவது மற்றும் முதலாவது உறுப்பின் கூட்டுத்தொகை",
+        "options": [
+            "3 வது உறுப்பு",
+            "5 வது உறுப்பு",
+            "4 வது உறுப்பு",
+            "இதில் எதுவுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "பிபனோசி தொடரில் எந்தவொரு உறுப்பும் அதன் முந்தைய இரண்டு உறுப்புகளின் கூடுதலாகும். 1வது + 2வது உறுப்பு = 3வது உறுப்பு.",
+        "question_en": "The sum of the second and first terms in the Fibonacci sequence is the",
+        "options_en": [
+            "3rd term",
+            "5th term",
+            "4th term",
+            "None of these"
+        ],
+        "explanation_en": "In the Fibonacci sequence, any term is the sum of the preceding two terms. So, 1st + 2nd = 3rd term."
+    },
+    {
+        "id": 31,
+        "question": "பிபனோசி எண் தொடரின் பொது விதி",
+        "options": [
+            "$n(n+1)$",
+            "$F(n)=F(n-3)+F(n-1)$",
+            "$F(n)=F(n-1)+F(n-2)$",
+            "$\\frac{n(n+1)}{2}$"
+        ],
+        "correct": 2,
+        "explanation": "பிபனோசி தொடரின் பொது விதி $F(n)=F(n-1)+F(n-2)$ ஆகும்.",
+        "question_en": "The general rule of the Fibonacci sequence is",
+        "options_en": [
+            "$n(n+1)$",
+            "$F(n)=F(n-3)+F(n-1)$",
+            "$F(n)=F(n-1)+F(n-2)$",
+            "$\\frac{n(n+1)}{2}$"
+        ],
+        "explanation_en": "The general rule for the Fibonacci sequence is $F(n)=F(n-1)+F(n-2)$."
+    },
+    {
+        "id": 32,
+        "question": "பிபனோசி எண் தொடர்",
+        "options": [
+            "$F(6)=F(3)+F(3)$",
+            "$F(5)=F(2)+F(3)$",
+            "$F(4)=F(2)+F(2)$",
+            "$F(3)=F(2)+F(1)$"
+        ],
+        "correct": 3,
+        "explanation": "பொது விதியின்படி $F(n)=F(n-1)+F(n-2)$. எனவே $F(3)=F(2)+F(1)$ என்பது சரி.",
+        "question_en": "Fibonacci sequence logic",
+        "options_en": [
+            "$F(6)=F(3)+F(3)$",
+            "$F(5)=F(2)+F(3)$",
+            "$F(4)=F(2)+F(2)$",
+            "$F(3)=F(2)+F(1)$"
+        ],
+        "explanation_en": "By the general rule, $F(n)=F(n-1)+F(n-2)$. Thus, $F(3)=F(2)+F(1)$ is correct."
+    },
+    {
+        "id": 33,
+        "question": "பதினோறாவது பிபனோசி எண் என்ன?",
+        "options": [
+            "55",
+            "77",
+            "89",
+            "144"
+        ],
+        "correct": 2,
+        "explanation": "பிபனோசி தொடர்: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. 11-வது எண் 89.",
+        "question_en": "What is the eleventh Fibonacci number?",
+        "options_en": [
+            "55",
+            "77",
+            "89",
+            "144"
+        ],
+        "explanation_en": "The Fibonacci sequence is 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. The 11th number is 89."
+    },
+    {
+        "id": 34,
+        "question": "F(n) என்பதில் $n=8$ எனில் பின்வருவனவற்றுள் எது உண்மையாகும்?",
+        "options": [
+            "$F(8)=F(9)+F(10)$",
+            "$F(8)=F(7)+F(6)$",
+            "$F(8)=F(10)\\times F(9)$",
+            "$F(8)=F(7)-F(6)$"
+        ],
+        "correct": 1,
+        "explanation": "பிபனோசி விதியின்படி $F(8) = F(8-1) + F(8-2) = F(7) + F(6)$.",
+        "question_en": "If $n=8$ in F(n), which of the following is true?",
+        "options_en": [
+            "$F(8)=F(9)+F(10)$",
+            "$F(8)=F(7)+F(6)$",
+            "$F(8)=F(10)\\times F(9)$",
+            "$F(8)=F(7)-F(6)$"
+        ],
+        "explanation_en": "By the Fibonacci rule, $F(8) = F(8-1) + F(8-2) = F(7) + F(6)$."
+    },
+    {
+        "id": 35,
+        "question": "பிபனோசி எண் தொடரில் ஒவ்வொரு மூன்றாவது உறுப்பும் ________ இன் மடங்கு",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "8"
+        ],
+        "correct": 0,
+        "explanation": "ஒவ்வொரு 3-வது பிபனோசி எண்ணும் (2, 8, 34...) 2-இன் மடங்காகும். F(3) = 2.",
+        "question_en": "In the Fibonacci sequence, every third term is a multiple of ________",
+        "options_en": [
+            "2",
+            "3",
+            "5",
+            "8"
+        ],
+        "explanation_en": "Every 3rd Fibonacci number (2, 8, 34...) is a multiple of 2. F(3) = 2."
+    },
+    {
+        "id": 36,
+        "question": "பிபனோசி எண் தொடரில் ஒவ்வொரு ________ ஆவது உறுப்பும் 8 இன் மடங்கு ஆகும்.",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 2,
+        "explanation": "F(6) = 8. ஒவ்வொரு 6-வது பிபனோசி எண்ணும் 8-இன் மடங்காகும்.",
+        "question_en": "In the Fibonacci sequence, every ________ term is a multiple of 8.",
+        "options_en": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "explanation_en": "F(6) = 8. Every 6th Fibonacci number is a multiple of 8."
+    },
+    {
+        "id": 37,
+        "question": "பிபனோசி எண் தொடரில் ஒவ்வொரு ஐந்தாவது உறுப்பும் ________ இன் மடங்கு",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "5"
+        ],
+        "correct": 3,
+        "explanation": "F(5) = 5. ஒவ்வொரு 5-வது பிபனோசி எண்ணும் 5-இன் மடங்காகும்.",
+        "question_en": "In the Fibonacci sequence, every fifth term is a multiple of ________",
+        "options_en": [
+            "1",
+            "2",
+            "4",
+            "5"
+        ],
+        "explanation_en": "F(5) = 5. Every 5th Fibonacci number is a multiple of 5."
+    },
+    {
+        "id": 38,
+        "question": "பிபனோசி எண் தொடரில் ஒவ்வொரு ________ ஆவது உறுப்பும் 3 இன் மடங்கு ஆகும்.",
+        "options": [
+            "4",
+            "8",
+            "5",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "F(4) = 3. ஒவ்வொரு 4-வது பிபனோசி எண்ணும் 3-இன் மடங்காகும்.",
+        "question_en": "In the Fibonacci sequence, every ________ term is a multiple of 3.",
+        "options_en": [
+            "4",
+            "8",
+            "5",
+            "3"
+        ],
+        "explanation_en": "F(4) = 3. Every 4th Fibonacci number is a multiple of 3."
+    }
+]
