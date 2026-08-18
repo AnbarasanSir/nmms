@@ -1,5 +1,5 @@
 import { db } from './config';
-import { collection, doc, getDocs, getDoc, setDoc, deleteDoc } from 'firebase/firestore';
+import { collection, doc, getDocs, getDoc, setDoc, deleteDoc, query, where } from 'firebase/firestore';
 
 const originalFetch = window.fetch;
 
@@ -108,7 +108,7 @@ window.fetch = async (...args) => {
         const subject = new URL(url, window.location.origin).searchParams.get('subject');
         if (method === 'GET') {
             const snapshot = await getDocs(query(collection(db, 'subjectUnits'), where('subject', '==', subject)));
-            return createJsonResponse(snapshot.docs.map(d => d.data()));
+            return createJsonResponse({ units: snapshot.docs.map(d => d.data()) });
         }
     }
     if (url.match(/^\/api\/subject-units\/[^\/]+\/\d+$/)) {
