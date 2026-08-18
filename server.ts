@@ -4,6 +4,12 @@ dotenv.config({ path: '.env.local' });
 dotenv.config(); // fallback
 import path from 'path';
 import fs from 'fs';
+import mongoose from 'mongoose';
+import StudentModel from './server/models/Student';
+import QuizModel from './server/models/Quiz';
+import AttemptModel from './server/models/Attempt';
+import AdminConfigModel from './server/models/AdminConfig';
+
 import { createServer as createViteServer } from 'vite';
 import { GoogleGenAI, Type } from '@google/genai';
 import { Quiz, Question, StudentAttempt, NMMS_Subject, StudentScoreResult, PyqPaperSummary, SubjectUnitSummary } from './src/types';
@@ -197,27 +203,13 @@ loadAllPyqPapers();
 initUnitStore();
 
 // Load persisted data or default mocks
-const STUDENTS_FILE = path.join(process.cwd(), 'students.json');
 let authorizedStudents: AuthorizedStudent[] = [];
 
-try {
-  if (fs.existsSync(STUDENTS_FILE)) {
-    authorizedStudents = JSON.parse(fs.readFileSync(STUDENTS_FILE, 'utf-8'));
-  } else {
-    authorizedStudents = [...AUTHORIZED_STUDENTS];
-    fs.writeFileSync(STUDENTS_FILE, JSON.stringify(authorizedStudents, null, 2));
-  }
-} catch (e) {
-  console.warn('Error reading students.json, falling back to AUTHORIZED_STUDENTS:', e);
-  authorizedStudents = [...AUTHORIZED_STUDENTS];
-}
-
 function saveStudents() {
-  try {
-    fs.writeFileSync(STUDENTS_FILE, JSON.stringify(authorizedStudents, null, 2));
-  } catch (e) {
-    console.error('Failed to save students:', e);
-  }
+  StudentModel.deleteMany({}).then(() => {
+    return StudentModel.insertMany(authorizedStudents);
+  }).catch(e => console.error('Failed to save students to DB:', e));
+
 }
 
 function findStudent(inputCodeOrNumber: string): AuthorizedStudent | null {
@@ -230,25 +222,7 @@ function findStudent(inputCodeOrNumber: string): AuthorizedStudent | null {
   );
 }
 
-try {
-  if (fs.existsSync(QUIZZES_FILE)) {
-    quizzes = JSON.parse(fs.readFileSync(QUIZZES_FILE, 'utf-8'));
-  } else {
-    quizzes = [...INITIAL_QUIZZES];
-    fs.writeFileSync(QUIZZES_FILE, JSON.stringify(quizzes, null, 2));
-  }
 
-  if (fs.existsSync(ATTEMPTS_FILE)) {
-    attempts = JSON.parse(fs.readFileSync(ATTEMPTS_FILE, 'utf-8'));
-  } else {
-    attempts = [...INITIAL_ATTEMPTS];
-    fs.writeFileSync(ATTEMPTS_FILE, JSON.stringify(attempts, null, 2));
-  }
-} catch (e) {
-  console.warn('Error reading persisted data, falling back to mocks:', e);
-  quizzes = [...INITIAL_QUIZZES];
-  attempts = [...INITIAL_ATTEMPTS];
-}
 
 // Helper to find any quiz in active list, PYQ repository, or dynamically from Subject Units
 function getQuizById(id: string): Quiz | undefined {
@@ -279,19 +253,17 @@ function getQuizById(id: string): Quiz | undefined {
 }
 
 function saveQuizzes() {
-  try {
-    fs.writeFileSync(QUIZZES_FILE, JSON.stringify(quizzes, null, 2));
-  } catch (e) {
-    console.error('Failed to save quizzes:', e);
-  }
+  QuizModel.deleteMany({}).then(() => {
+    return QuizModel.insertMany(quizzes);
+  }).catch(e => console.error('Failed to save quizzes to DB:', e));
+
 }
 
 function saveAttempts() {
-  try {
-    fs.writeFileSync(ATTEMPTS_FILE, JSON.stringify(attempts, null, 2));
-  } catch (e) {
-    console.error('Failed to save attempts:', e);
-  }
+  AttemptModel.deleteMany({}).then(() => {
+    return AttemptModel.insertMany(attempts);
+  }).catch(e => console.error('Failed to save attempts to DB:', e));
+
 }
 
 // Helper to shuffle an array immutably using Fisher-Yates algorithm
@@ -479,51 +451,15 @@ app.get('/api/health', (req: Request, res: Response) => {
 });
 
 // 1a. Admin Authentication & Dynamic Password Management
-const ADMIN_CONFIG_FILE = path.join(DATA_DIR, 'admin_config.json');
-
 let currentAdminPassword = process.env.ADMIN_PASSWORD || 'nmms@2026';
-try {
-  if (fs.existsSync(ADMIN_CONFIG_FILE)) {
-    const config = JSON.parse(fs.readFileSync(ADMIN_CONFIG_FILE, 'utf-8'));
-    if (config.adminPassword && typeof config.adminPassword === 'string') {
-      currentAdminPassword = config.adminPassword;
-    }
-  } else {
-    fs.writeFileSync(
-      ADMIN_CONFIG_FILE,
-      JSON.stringify(
-        {
-          adminPassword: currentAdminPassword,
-          updatedAt: new Date().toISOString(),
-        },
-        null,
-        2
-      )
-    );
-  }
-} catch (e) {
-  console.warn('Error reading admin config file:', e);
-}
 
 function saveAdminPassword(newPassword: string) {
   currentAdminPassword = newPassword;
-  try {
-    fs.writeFileSync(
-      ADMIN_CONFIG_FILE,
-      JSON.stringify(
-        {
-          adminPassword: newPassword,
-          updatedAt: new Date().toISOString(),
-        },
-        null,
-        2
-      )
-    );
-    console.log('Admin password updated and persisted successfully.');
-  } catch (e) {
-    console.error('Failed to persist admin password:', e);
-  }
+  AdminConfigModel.findOneAndUpdate({ id: 'admin_config' }, { adminPin: newPassword }, { upsert: true })
+    .then(() => console.log('Admin password updated in DB.'))
+    .catch(e => console.error('Failed to persist admin password:', e));
 }
+
 
 // In-Memory Password Reset Session Store (Security PIN: 273464)
 const ADMIN_SECURITY_PIN = process.env.ADMIN_SECURITY_PIN || '273464';
@@ -2071,6 +2007,36 @@ Output Requirements:
 // Vite Middleware / Static Serving
 // -------------------------------------------------------------
 async function start() {
+  try {
+    if (process.env.MONGODB_URI) {
+      await mongoose.connect(process.env.MONGODB_URI);
+      console.log('Connected to MongoDB in start()');
+      
+      const dbStudents = await StudentModel.find().lean();
+      if (dbStudents.length > 0) authorizedStudents = dbStudents as any;
+      else authorizedStudents = [...AUTHORIZED_STUDENTS];
+
+      const dbQuizzes = await QuizModel.find().lean();
+      if (dbQuizzes.length > 0) quizzes = dbQuizzes as any;
+      else quizzes = [...INITIAL_QUIZZES];
+
+      const dbAttempts = await AttemptModel.find().lean();
+      if (dbAttempts.length > 0) attempts = dbAttempts as any;
+      else attempts = [...INITIAL_ATTEMPTS];
+
+      const dbAdmin = await AdminConfigModel.findOne({ id: 'admin_config' }).lean();
+      if (dbAdmin && dbAdmin.adminPin) currentAdminPassword = dbAdmin.adminPin;
+
+    } else {
+      console.warn('No MONGODB_URI found, using defaults.');
+      authorizedStudents = [...AUTHORIZED_STUDENTS];
+      quizzes = [...INITIAL_QUIZZES];
+      attempts = [...INITIAL_ATTEMPTS];
+    }
+  } catch (e) {
+    console.error('Failed to load from MongoDB:', e);
+  }
+
   if (process.env.NODE_ENV !== 'production') {
     const vite = await createViteServer({
       server: { middlewareMode: true },
