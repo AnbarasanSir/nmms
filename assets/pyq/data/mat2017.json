@@ -62,7 +62,7 @@
   {
     "id": 4,
     "question": "படத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
-    "image": "image/mat_2017_q4.png",
+    "image": "image/mat_2017/q4.png",
     "options": [
       "20",
       "24",
@@ -83,7 +83,7 @@
   {
     "id": 5,
     "question": "படத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
-    "image": "image/mat_2017_q5.png",
+    "image": "image/mat_2017/q5.png",
     "options": [
       "16",
       "22",
@@ -104,7 +104,7 @@
   {
     "id": 6,
     "question": "படத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
-    "image": "image/mat_2017_q6.png",
+    "image": "image/mat_2017/q6.png",
     "options": [
       "7",
       "4",
@@ -125,7 +125,7 @@
   {
     "id": 7,
     "question": "படத்தில் விடுபட்ட எண்ணைக் கண்டறியவும்:",
-    "image": "image/mat_2017_q7.png",
+    "image": "image/mat_2017/q7.png",
     "options": [
       "63",
       "42",
@@ -306,7 +306,7 @@
   {
     "id": 16,
     "question": "படத்தில் விடுபட்ட எழுத்தைக் கண்டறியவும்:",
-    "image": "image/mat_2017_q16.png",
+    "image": "image/mat_2017/q16.png",
     "options": [
       "65",
       "64",
@@ -327,7 +327,7 @@
   {
     "id": 17,
     "question": "படத்தில் விடுபட்ட எழுத்தைக் கண்டறியவும்:",
-    "image": "image/mat_2017_q17.png",
+    "image": "image/mat_2017/q17.png",
     "options": [
       "Q",
       "T",
@@ -708,7 +708,7 @@
   {
     "id": 36,
     "question": "கொடுக்கப்பட்டுள்ள படத்தில் உள்ள செவ்வகங்களின் எண்ணிக்கை:",
-    "image": "image/mat_2017_q36.png",
+    "image": "image/mat_2017/q36.png",
     "options": [
       "26",
       "28",
@@ -729,7 +729,7 @@
   {
     "id": 37,
     "question": "கொடுக்கப்பட்டுள்ள படத்தில் உள்ள முக்கோணங்களின் எண்ணிக்கை:",
-    "image": "image/mat_2017_q37.png",
+    "image": "image/mat_2017/q37.png",
     "options": [
       "14",
       "15",
@@ -810,7 +810,7 @@
   {
     "id": 41,
     "question": "Health - worship - strength' என்பதன் குறியீடு:",
-    "image": "image/mat_2017_q41.png",
+    "image": "image/mat_2017/q41.png",
     "options": [
       "810",
       "018",
@@ -831,7 +831,7 @@
   {
     "id": 42,
     "question": "தவறான இணையைக் கண்டறியவும்:",
-    "image": "image/mat_2017_q41.png",
+    "image": "image/mat_2017/q41.png",
     "options": [
       "(a), (d)",
       "(a), (c)",
@@ -852,7 +852,7 @@
   {
     "id": 43,
     "question": "பொருத்துக: (a) Health worship (b) Time wealth (c) Union gold (d) Work strength",
-    "image": "image/mat_2017_q41.png",
+    "image": "image/mat_2017/q41.png",
     "options": [
       "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
       "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
@@ -873,7 +873,7 @@
   {
     "id": 44,
     "question": "523 என்ற குறியீடு எதனைக் குறிக்கும்?",
-    "image": "image/mat_2017_q41.png",
+    "image": "image/mat_2017/q41.png",
     "options": [
       "Time is gold",
       "Health is wealth",
@@ -894,7 +894,7 @@
   {
     "id": 45,
     "question": "'Worship' என்பதனைக் குறிக்கும் குறியீடு:",
-    "image": "image/mat_2017_q41.png",
+    "image": "image/mat_2017/q41.png",
     "options": [
       "2",
       "3",
@@ -995,7 +995,7 @@
   {
     "id": 50,
     "question": "ராம் மற்றும் ரோகன் இருவருக்குமிடையில் வட்ட மேசையில் அமர்ந்திருப்பவர் யார்?",
-    "image": "image/mat_2017_q50.png",
+    "image": "image/mat_2017/q50.png",
     "options": [
       "ராபின்",
       "ரமேஷ்",
@@ -1016,7 +1016,7 @@
   {
     "id": 51,
     "question": "ராம் என்பார் அமர்ந்திருப்பது:",
-    "image": "image/mat_2017_q50.png",
+    "image": "image/mat_2017/q50.png",
     "options": [
       "ரமேஷின் இடதுபுறம்",
       "ராபின்னின் வலதுபுறம்",
@@ -1037,7 +1037,7 @@
   {
     "id": 52,
     "question": "ரமேஷ் மற்றும் ரஹிம் இருவருக்கும் மேசையின் மையத்திலிருந்து உள்ள கோண அளவு:",
-    "image": "image/mat_2017_q50.png",
+    "image": "image/mat_2017/q50.png",
     "options": [
       "$60^{\\circ}$",
       "$120^{\\circ}$",
@@ -1058,7 +1058,7 @@
   {
     "id": 53,
     "question": "உயர வரிசையில் P மற்றும் R இருவருக்கிடையில் உள்ளவர்கள் யார்?",
-    "image": "image/mat_2017_q53.png",
+    "image": "image/mat_2017/q53.png",
     "options": [
       "Q, T",
       "R, T",
@@ -1079,7 +1079,7 @@
   {
     "id": 54,
     "question": "வலது புறத்திலிருந்து (குள்ளமானவர்) P-ன் நிலை என்ன?",
-    "image": "image/mat_2017_q53.png",
+    "image": "image/mat_2017/q53.png",
     "options": [
       "ஐந்தாவது",
       "இரண்டாவது",
@@ -1100,7 +1100,7 @@
   {
     "id": 55,
     "question": "பின்வரும் கூற்றுகளில் தவறான கூற்று எது?",
-    "image": "image/mat_2017_q53.png",
+    "image": "image/mat_2017/q53.png",
     "options": [
       "P என்பவர் T-யைவிட குள்ளமானவர்.",
       "P என்பவர் U-யைவிட உயரமானவர்.",
@@ -1181,7 +1181,7 @@
   {
     "id": 59,
     "question": "பகடையின் மேற்பரப்பு 1 ஆக இருக்கும்போது கீழ்ப்பகுதியில் உள்ள எண் என்ன?",
-    "image": "image/mat_2017_q59.png",
+    "image": "image/mat_2017/q59.png",
     "options": [
       "2",
       "3",
@@ -1282,7 +1282,7 @@
   {
     "id": 64,
     "question": "விடுதிகளில் எந்த இரண்டு விடுதிகள் காலியாக உள்ளன?",
-    "image": "image/mat_2017_q64_68.png",
+    "image": "image/mat_2017/q64_68.png",
     "options": [
       "இரண்டாவது மற்றும் மூன்றாவது",
       "மூன்றாவது மற்றும் நான்காவது",
@@ -1303,7 +1303,7 @@
   {
     "id": 65,
     "question": "அர்விந்திற்கும், திலீப்பிற்கும் இடையில் உள்ள விடுதியில் தங்குபவர் யார்?",
-    "image": "image/mat_2017_q64_68.png",
+    "image": "image/mat_2017/q64_68.png",
     "options": [
       "பிரதீப்",
       "ரோஹன்",
@@ -1324,7 +1324,7 @@
   {
     "id": 66,
     "question": "அதிகபட்சமாக தொடர்ச்சியாக தங்கவைக்கப்பட்ட விடுதிகளின் எண்ணிக்கை யாது?",
-    "image": "image/mat_2017_q64_68.png",
+    "image": "image/mat_2017/q64_68.png",
     "options": [
       "4",
       "3",
@@ -1345,7 +1345,7 @@
   {
     "id": 67,
     "question": "திலீப்பிற்கு இடப்பக்கத்தில் அமைந்த விடுதியில் தங்க வைக்கப்பட்ட நபர் யார்?",
-    "image": "image/mat_2017_q64_68.png",
+    "image": "image/mat_2017/q64_68.png",
     "options": [
       "ரோஹன்",
       "அர்விந்த்",
@@ -1366,7 +1366,7 @@
   {
     "id": 68,
     "question": "தங்கவைக்கப்பட்டவர்களில் வலது ஓரத்திலிருந்து முதலாவதாக உள்ள நபர் யார்?",
-    "image": "image/mat_2017_q64_68.png",
+    "image": "image/mat_2017/q64_68.png",
     "options": [
       "பிரணவ்",
       "பிரதீப்",
@@ -1407,7 +1407,7 @@
   {
     "id": 70,
     "question": "சரியான கண்ணாடி பிம்பத்தைத் தேர்ந்தெடுக்கவும்:",
-    "image": "image/mat_2017_q70.png",
+    "image": "image/mat_2017/q70.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1428,7 +1428,7 @@
   {
     "id": 71,
     "question": "சரியான கண்ணாடி பிம்பத்தைத் தேர்ந்தெடுக்கவும்:",
-    "image": "image/mat_2017_q71.png",
+    "image": "image/mat_2017/q71.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1449,7 +1449,7 @@
   {
     "id": 72,
     "question": "(X) என்ற படத்தை ஒரு பகுதியாகக் கொண்ட படம் எது?",
-    "image": "image/mat_2017_q72.png",
+    "image": "image/mat_2017/q72.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1470,7 +1470,7 @@
   {
     "id": 73,
     "question": "(X) என்ற படத்தை ஒரு பகுதியாகக் கொண்ட படம் எது?",
-    "image": "image/mat_2017_q73.png",
+    "image": "image/mat_2017/q73.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1491,7 +1491,7 @@
   {
     "id": 74,
     "question": "விடுபட்ட பகுதியினை நிரப்பும் சரியான விடையைத் தேர்ந்தெடுக்கவும்:",
-    "image": "image/mat_2017_q74.png",
+    "image": "image/mat_2017/q74.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1512,7 +1512,7 @@
   {
     "id": 75,
     "question": "விடுபட்ட பகுதியினை நிரப்பும் சரியான விடையைத் தேர்ந்தெடுக்கவும்:",
-    "image": "image/mat_2017_q75.png",
+    "image": "image/mat_2017/q75.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1533,7 +1533,7 @@
   {
     "id": 76,
     "question": "Sports அல்லது Comedy Channel மட்டும் பார்ப்பவர்களின் மொத்த எண்ணிக்கை:",
-    "image": "image/mat_2017_q76.png",
+    "image": "image/mat_2017/q76.png",
     "options": [
       "10",
       "9",
@@ -1554,7 +1554,7 @@
   {
     "id": 77,
     "question": "Cartoon Channel மட்டும் பார்ப்பவர்களின் எண்ணிக்கை எவ்வளவு?",
-    "image": "image/mat_2017_q76.png",
+    "image": "image/mat_2017/q76.png",
     "options": [
       "23",
       "30",
@@ -1575,7 +1575,7 @@
   {
     "id": 78,
     "question": "Sports மற்றும் Cartoon பார்ப்பவர்கள், ஆனால் Comedy பார்க்காதவர்கள் எத்தனை பேர்?",
-    "image": "image/mat_2017_q76.png",
+    "image": "image/mat_2017/q76.png",
     "options": [
       "9",
       "12",
@@ -1596,7 +1596,7 @@
   {
     "id": 79,
     "question": "Comedy Channel மட்டும் பார்ப்பவர்கள் எத்தனை பேர்?",
-    "image": "image/mat_2017_q76.png",
+    "image": "image/mat_2017/q76.png",
     "options": [
       "30",
       "23",
@@ -1617,7 +1617,7 @@
   {
     "id": 80,
     "question": "மூன்று சேனல்களையும் பார்ப்பவர்களின் எண்ணிக்கை:",
-    "image": "image/mat_2017_q76.png",
+    "image": "image/mat_2017/q76.png",
     "options": [
       "9",
       "10",
@@ -1698,7 +1698,7 @@
   {
     "id": 84,
     "question": "அடுத்த படத்தைக் கண்டுபிடிக்கவும்:",
-    "image": "image/mat_2017_q84.png",
+    "image": "image/mat_2017/q84.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1719,7 +1719,7 @@
   {
     "id": 85,
     "question": "அடுத்த படத்தைக் கண்டுபிடிக்கவும்:",
-    "image": "image/mat_2017_q85.png",
+    "image": "image/mat_2017/q85.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1740,7 +1740,7 @@
   {
     "id": 86,
     "question": "அடுத்த படத்தைக் கண்டுபிடிக்கவும்:",
-    "image": "image/mat_2017_q86.png",
+    "image": "image/mat_2017/q86.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1761,7 +1761,7 @@
   {
     "id": 87,
     "question": "அடுத்த படத்தைக் கண்டுபிடிக்கவும்:",
-    "image": "image/mat_2017_q87.png",
+    "image": "image/mat_2017/q87.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1782,7 +1782,7 @@
   {
     "id": 88,
     "question": "அடுத்த படத்தைக் கண்டுபிடிக்கவும்:",
-    "image": "image/mat_2017_q88.png",
+    "image": "image/mat_2017/q88.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1803,7 +1803,7 @@
   {
     "id": 89,
     "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்:",
-    "image": "image/mat_2017_q89.png",
+    "image": "image/mat_2017/q89.png",
     "options": [
       "படம் 1",
       "படம் 2",
@@ -1824,7 +1824,7 @@
   {
     "id": 90,
     "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்:",
-    "image": "image/mat_2017_q90.png",
+    "image": "image/mat_2017/q90.png",
     "options": [
       "படம் 1",
       "படம் 2",

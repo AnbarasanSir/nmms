@@ -18,7 +18,7 @@
             "12"
         ],
         "explanation_en": "According to the answer key, 12 triangles can be formed from the given figure.",
-        "image": "image/unit23/q1.PNG"
+        "image": "image/unit23/q1.png"
     },
     {
         "id": 2,
@@ -39,7 +39,7 @@
             "$(9\\times4)\\times(9\\times4)$"
         ],
         "explanation_en": "The left branch is $10 \\times 5$ and the right branch is $9 \\times 4$. They are connected by a + sign at the root. Thus, the expression is $(10 \\times 5) + (9 \\times 4)$.",
-        "image": "image/unit23/q2.PNG"
+        "image": "image/unit23/q2.png"
     },
     {
         "id": 3,
@@ -300,7 +300,7 @@
             "10"
         ],
         "explanation_en": "The spinner has 5 numbers. 5 choices for the first digit. 4 choices for the second (no repetition). $5 \\times 4 = 20$.",
-        "image": "image/unit23/q15.PNG"
+        "image": "image/unit23/q15.png"
     },
     {
         "id": 16,
@@ -426,106 +426,106 @@
         "id": 22,
         "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
         "options": [
-            "image/q22_opt1.PNG",
-            "image/q22_opt2.PNG",
-            "image/q22_opt3.PNG",
-            "image/q22_opt4.PNG"
+            "image/q22_opt1.png",
+            "image/q22_opt2.png",
+            "image/q22_opt3.png",
+            "image/q22_opt4.png"
         ],
         "correct": 2,
         "explanation": "சேர்ப்பு விளையாட்டின்படி, நிழல் உருவம், வடிவம், வண்ணம், எண்ணிக்கை அனைத்தும் ஒத்திருக்க வேண்டும் அல்லது வெவ்வேறாக இருக்க வேண்டும். விடைக்குறிப்பின்படி 3வது படம் சரியான சேர்ப்பாகும்.",
         "question_en": "Which card chosen from the given set makes it a complete SET?",
         "options_en": [
-            "image/q22_opt1.PNG",
-            "image/q22_opt2.PNG",
-            "image/q22_opt3.PNG",
-            "image/q22_opt4.PNG"
+            "image/q22_opt1.png",
+            "image/q22_opt2.png",
+            "image/q22_opt3.png",
+            "image/q22_opt4.png"
         ],
         "explanation_en": "In the game of SET, features must be all the same or all different. According to the answer key, the 3rd image completes the set.",
-        "image": "image/unit23/q22.PNG"
+        "image": "image/unit23/q22.png"
     },
     {
         "id": 23,
         "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
         "options": [
-            "image/q23_opt1.PNG",
-            "image/q23_opt2.PNG",
-            "image/q23_opt3.PNG",
-            "image/q23_opt4.PNG"
+            "image/q23_opt1.png",
+            "image/q23_opt2.png",
+            "image/q23_opt3.png",
+            "image/q23_opt4.png"
         ],
         "correct": 1,
         "explanation": "விடைக்குறிப்பின்படி 2வது படம் சரியான சேர்ப்பாகும்.",
         "question_en": "Which card chosen from the given set makes it a complete SET?",
         "options_en": [
-            "image/q23_opt1.PNG",
-            "image/q23_opt2.PNG",
-            "image/q23_opt3.PNG",
-            "image/q23_opt4.PNG"
+            "image/q23_opt1.png",
+            "image/q23_opt2.png",
+            "image/q23_opt3.png",
+            "image/q23_opt4.png"
         ],
         "explanation_en": "According to the answer key, the 2nd image completes the set.",
-        "image": "image/unit23/q23.PNG"
+        "image": "image/unit23/q23.png"
     },
     {
         "id": 24,
         "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், అది ஒரு முழுமையான சேர்ப்பு ஆகும்?",
         "options": [
-            "image/q24_opt1.PNG",
-            "image/q24_opt2.PNG",
-            "image/q24_opt3.PNG",
-            "image/q24_opt4.PNG"
+            "image/q24_opt1.png",
+            "image/q24_opt2.png",
+            "image/q24_opt3.png",
+            "image/q24_opt4.png"
         ],
         "correct": 1,
         "explanation": "விடைக்குறிப்பின்படி 2வது படம் சரியான சேர்ப்பாகும்.",
         "question_en": "Which card chosen from the given set makes it a complete SET?",
         "options_en": [
-            "image/q24_opt1.PNG",
-            "image/q24_opt2.PNG",
-            "image/q24_opt3.PNG",
-            "image/q24_opt4.PNG"
+            "image/q24_opt1.png",
+            "image/q24_opt2.png",
+            "image/q24_opt3.png",
+            "image/q24_opt4.png"
         ],
         "explanation_en": "According to the answer key, the 2nd image completes the set.",
-        "image": "image/unit23/q24.PNG"
+        "image": "image/unit23/q24.png"
     },
     {
         "id": 25,
         "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
         "options": [
-            "image/q25_opt1.PNG",
-            "image/q25_opt2.PNG",
-            "image/q25_opt3.PNG",
-            "image/q25_opt4.PNG"
+            "image/q25_opt1.png",
+            "image/q25_opt2.png",
+            "image/q25_opt3.png",
+            "image/q25_opt4.png"
         ],
         "correct": 0,
         "explanation": "விடைக்குறிப்பின்படி 1வது படம் சரியான சேர்ப்பாகும்.",
         "question_en": "Which card chosen from the given set makes it a complete SET?",
         "options_en": [
-            "image/q25_opt1.PNG",
-            "image/q25_opt2.PNG",
-            "image/q25_opt3.PNG",
-            "image/q25_opt4.PNG"
+            "image/q25_opt1.png",
+            "image/q25_opt2.png",
+            "image/q25_opt3.png",
+            "image/q25_opt4.png"
         ],
         "explanation_en": "According to the answer key, the 1st image completes the set.",
-        "image": "image/unit23/q25.PNG"
+        "image": "image/unit23/q25.png"
     },
     {
         "id": 26,
         "question": "கொடுக்கப்பட்டுள்ள தொகுப்பிலிருந்து எந்த அட்டையினைத் தேர்ந்தெடுத்தால், அது ஒரு முழுமையான சேர்ப்பு ஆகும்?",
         "options": [
-            "image/q26_opt1.PNG",
-            "image/q26_opt2.PNG",
-            "image/q26_opt3.PNG",
-            "image/q26_opt4.PNG"
+            "image/q26_opt1.png",
+            "image/q26_opt2.png",
+            "image/q26_opt3.png",
+            "image/q26_opt4.png"
         ],
         "correct": 1,
         "explanation": "விடைக்குறிப்பின்படி 2வது படம் சரியான சேர்ப்பாகும்.",
         "question_en": "Which card chosen from the given set makes it a complete SET?",
         "options_en": [
-            "image/q26_opt1.PNG",
-            "image/q26_opt2.PNG",
-            "image/q26_opt3.PNG",
-            "image/q26_opt4.PNG"
+            "image/q26_opt1.png",
+            "image/q26_opt2.png",
+            "image/q26_opt3.png",
+            "image/q26_opt4.png"
         ],
         "explanation_en": "According to the answer key, the 2nd image completes the set.",
-        "image": "image/unit23/q26.PNG"
+        "image": "image/unit23/q26.png"
     },
     {
         "id": 27,

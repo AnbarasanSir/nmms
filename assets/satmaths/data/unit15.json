@@ -1058,7 +1058,7 @@
             "Corresponding angles"
         ],
         "explanation_en": "In the figure, angles a and b share a common arm and vertex, making them adjacent angles.",
-        "image": "image/unit15/q53.PNG"
+        "image": "image/unit15/q53.png"
     },
     {
         "id": 54,
@@ -1079,7 +1079,7 @@
             "2 and 3"
         ],
         "explanation_en": "In the figure, $\\angle BAC$ and $\\angle CAD$ share a common vertex and a common ray (AC), making them adjacent angles.",
-        "image": "image/unit15/q54.PNG"
+        "image": "image/unit15/q54.png"
     },
     {
         "id": 55,
@@ -1100,7 +1100,7 @@
             "100°"
         ],
         "explanation_en": "The sum of angles on a straight line is $180^{\\circ}$. $\\angle BOC = 180^{\\circ} - (65^{\\circ} + 35^{\\circ}) = 180^{\\circ} - 100^{\\circ} = 80^{\\circ}$.",
-        "image": "image/unit15/q55.PNG"
+        "image": "image/unit15/q55.png"
     },
     {
         "id": 56,
@@ -1121,7 +1121,7 @@
             "None of these"
         ],
         "explanation_en": "In the figure, $\\angle AOC = 140^{\\circ}$ and $\\angle BOC = 40^{\\circ}$. Their sum is $180^{\\circ}$ and they form a straight line, so they are a linear pair of angles.",
-        "image": "image/unit15/q56.PNG"
+        "image": "image/unit15/q56.png"
     },
     {
         "id": 57,
@@ -1142,7 +1142,7 @@
             "Linear pair of angles"
         ],
         "explanation_en": "Angles 1 and 2 are adjacent angles on a straight line, so stating that they are vertically opposite angles is incorrect.",
-        "image": "image/unit15/q57.PNG"
+        "image": "image/unit15/q57.png"
     },
     {
         "id": 58,
@@ -1163,7 +1163,7 @@
             "90°"
         ],
         "explanation_en": "They form a linear pair on a straight line. $\\angle ROQ = 180^{\\circ} - 51^{\\circ} = 129^{\\circ}$.",
-        "image": "image/unit15/q58.PNG"
+        "image": "image/unit15/q58.png"
     },
     {
         "id": 59,
@@ -1189,19 +1189,19 @@
         "id": 60,
         "question": "கீழுள்ளவற்றில் a மற்றும் b அடுத்துள்ள கோணங்கள் என்பதைக் குறிக்கும் படம் எது?",
         "options": [
-            "image/q60_opt1.PNG",
-            "image/q60_opt2.PNG",
-            "image/q60_opt3.PNG",
-            "image/q60_opt4.PNG"
+            "image/q60_opt1.png",
+            "image/q60_opt2.png",
+            "image/q60_opt3.png",
+            "image/q60_opt4.png"
         ],
         "correct": 2,
         "explanation": "அடுத்துள்ள கோணங்கள் பொதுவான முனையையும், ஒரு பொதுவான கதிரையும் பெற்றிருக்க வேண்டும். விருப்பம் 3 இல் மட்டுமே இது சரியாக அமைந்துள்ளது.",
         "question_en": "Which of the following figures indicates that a and b are adjacent angles?",
         "options_en": [
-            "image/q60_opt1.PNG",
-            "image/q60_opt2.PNG",
-            "image/q60_opt3.PNG",
-            "image/q60_opt4.PNG"
+            "image/q60_opt1.png",
+            "image/q60_opt2.png",
+            "image/q60_opt3.png",
+            "image/q60_opt4.png"
         ],
         "explanation_en": "Adjacent angles must share a common vertex and a common ray. This is correctly depicted only in option 3."
     },
@@ -1244,7 +1244,7 @@
             "∠PTQ, ∠STQ"
         ],
         "explanation_en": "Vertically opposite angles are formed opposite to each other when two lines intersect. Thus, ∠PTS and ∠RTQ are vertically opposite angles.",
-        "image": "image/unit15/q62.PNG"
+        "image": "image/unit15/q62.png"
     },
     {
         "id": 63,
@@ -1265,7 +1265,7 @@
             "360°"
         ],
         "explanation_en": "Since vertically opposite angles are equal, $x = 150^{\\circ}$.",
-        "image": "image/unit15/q63.PNG"
+        "image": "image/unit15/q63.png"
     },
     {
         "id": 64,
@@ -1286,7 +1286,7 @@
             "50°"
         ],
         "explanation_en": "Since vertically opposite angles are equal, $\\angle BOD = \\angle AOC = 40^{\\circ}$.",
-        "image": "image/unit15/q64.PNG"
+        "image": "image/unit15/q64.png"
     },
     {
         "id": 65,
@@ -1307,7 +1307,7 @@
             "More than 5"
         ],
         "explanation_en": "Since multiple lines intersect at a point in the figure, more than 5 angles are formed.",
-        "image": "image/unit15/q65.PNG"
+        "image": "image/unit15/q65.png"
     },
     {
         "id": 66,
@@ -1368,7 +1368,7 @@
             "$\\angle1=\\angle4$"
         ],
         "explanation_en": "$\\angle 1$ and $\\angle 4$ are a linear pair, they need not always be equal (their sum is $180^{\\circ}$). Therefore, stating $\\angle 1=\\angle 4$ is incorrect.",
-        "image": "image/unit15/q68.PNG"
+        "image": "image/unit15/q68.png"
     },
     {
         "id": 69,
@@ -1389,7 +1389,7 @@
             "107°"
         ],
         "explanation_en": "According to the answer key, the correct answer is 93°.",
-        "image": "image/unit15/q69.PNG"
+        "image": "image/unit15/q69.png"
     },
     {
         "id": 70,
@@ -1410,7 +1410,7 @@
             "90°"
         ],
         "explanation_en": "The sum of angles around a point is 360°. $x+y+w+z=360^{\\circ}$. Since $x+y = w+z$, $2(x+y) = 360^{\\circ} \\implies x+y = 180^{\\circ}$. $\\angle AOB = x+y = 180^{\\circ}$ (a straight line).",
-        "image": "image/unit15/q70.PNG"
+        "image": "image/unit15/q70.png"
     },
     {
         "id": 71,
@@ -1431,7 +1431,7 @@
             "36°"
         ],
         "explanation_en": "According to the answer key, the correct answer is 14°. It is calculated using the property that the sum of a linear pair of angles is $180^{\\circ}$.",
-        "image": "image/unit15/q71.PNG"
+        "image": "image/unit15/q71.png"
     },
     {
         "id": 72,
@@ -1452,7 +1452,7 @@
             "103°"
         ],
         "explanation_en": "According to the answer key, $\\angle COD = 32^{\\circ}$.",
-        "image": "image/unit15/q72.PNG"
+        "image": "image/unit15/q72.png"
     },
     {
         "id": 73,
@@ -1473,7 +1473,7 @@
             "108°"
         ],
         "explanation_en": "Using the properties of vertically opposite angles and linear pairs, finding the values of $\\angle x$ and $\\angle y$ and adding them yields $118^{\\circ}$.",
-        "image": "image/unit15/q73.PNG"
+        "image": "image/unit15/q73.png"
     },
     {
         "id": 74,
@@ -1494,7 +1494,7 @@
             "(i), (ii) & (iii)"
         ],
         "explanation_en": "According to the answer key, all three statements are correct.",
-        "image": "image/unit15/q74.PNG"
+        "image": "image/unit15/q74.png"
     },
     {
         "id": 75,
@@ -1515,7 +1515,7 @@
             "10°"
         ],
         "explanation_en": "The sum of angles on a straight line is $180^{\\circ}$. $5y + 4y + 9y = 180^{\\circ} \\implies 18y = 180^{\\circ} \\implies y = 10^{\\circ}$.",
-        "image": "image/unit15/q75.PNG"
+        "image": "image/unit15/q75.png"
     },
     {
         "id": 76,
@@ -1536,7 +1536,7 @@
             "60°"
         ],
         "explanation_en": "$\\angle AOC$ and $\\angle BOD$ are vertically opposite angles, so $\\angle AOC = 40^{\\circ}$. $\\angle AOC + \\angle BOE = 70^{\\circ} \\implies 40^{\\circ} + \\angle BOE = 70^{\\circ} \\implies \\angle BOE = 30^{\\circ}$.",
-        "image": "image/unit15/q76.PNG"
+        "image": "image/unit15/q76.png"
     },
     {
         "id": 77,
@@ -1557,7 +1557,7 @@
             "85°"
         ],
         "explanation_en": "According to the answer key, the correct answer is 65°.",
-        "image": "image/unit15/q77.PNG"
+        "image": "image/unit15/q77.png"
     },
     {
         "id": 78,
@@ -1578,7 +1578,7 @@
             "37°"
         ],
         "explanation_en": "For it to be a straight line, $(3x+10)^{\\circ} + (2x-15)^{\\circ} = 180^{\\circ} \\implies 5x - 5 = 180 \\implies 5x = 185 \\implies x = 37^{\\circ}$.",
-        "image": "image/unit15/q78.PNG"
+        "image": "image/unit15/q78.png"
     },
     {
         "id": 79,
@@ -1739,7 +1739,7 @@
             "All of these"
         ],
         "explanation_en": "Corresponding angles are in the same position (top/bottom) at each intersection where the straight line crosses the parallel lines. $\\angle 1$ and $\\angle 5$ are corresponding angles.",
-        "image": "image/unit15/q86.PNG"
+        "image": "image/unit15/q86.png"
     },
     {
         "id": 87,
@@ -1760,7 +1760,7 @@
             "Vertically opposite angles"
         ],
         "explanation_en": "Angles a and b are outside the parallel lines and on opposite sides of the transversal, so they are alternate exterior angles.",
-        "image": "image/unit15/q87.PNG"
+        "image": "image/unit15/q87.png"
     },
     {
         "id": 88,
@@ -1781,7 +1781,7 @@
             "$\\angle 4, \\angle 5$"
         ],
         "explanation_en": "Alternate interior angles are inside the parallel lines and on opposite sides of the transversal. $\\angle 3$ and $\\angle 5$ are alternate interior angles (similarly $\\angle 4$ and $\\angle 6$).",
-        "image": "image/unit15/q88.PNG"
+        "image": "image/unit15/q88.png"
     },
     {
         "id": 89,
@@ -1802,7 +1802,7 @@
             "a, c & d"
         ],
         "explanation_en": "Interior angles on the same side are inside the parallel lines and on the same side of the transversal. $\\angle 4$ & $\\angle 5$ is one pair, $\\angle 3$ & $\\angle 6$ is another pair. So, a and d are correct.",
-        "image": "image/unit15/q89.PNG"
+        "image": "image/unit15/q89.png"
     },
     {
         "id": 90,
@@ -1823,7 +1823,7 @@
             "Exterior angles on the same side of the transversal"
         ],
         "explanation_en": "Angles $\\angle 2$ and $\\angle 7$ are outside the parallel lines and on the right side (same side) of the transversal, so they are exterior angles on the same side of the transversal.",
-        "image": "image/unit15/q90.PNG"
+        "image": "image/unit15/q90.png"
     },
     {
         "id": 91,
@@ -1964,7 +1964,7 @@
             "65°"
         ],
         "explanation_en": "According to the answer key, the given angles are corresponding angles, so they are equal, hence x = 125°.",
-        "image": "image/unit15/q97.PNG"
+        "image": "image/unit15/q97.png"
     },
     {
         "id": 98,
@@ -1985,7 +1985,7 @@
             "124°"
         ],
         "explanation_en": "According to the answer key, the value of x is 46°.",
-        "image": "image/unit15/q98.PNG"
+        "image": "image/unit15/q98.png"
     },
     {
         "id": 99,
@@ -2006,7 +2006,7 @@
             "90°"
         ],
         "explanation_en": "According to the answer key, the value of x is 127°.",
-        "image": "image/unit15/q99.PNG"
+        "image": "image/unit15/q99.png"
     },
     {
         "id": 100,
@@ -2027,7 +2027,7 @@
             "180°"
         ],
         "explanation_en": "Since interior angles on the same side of a transversal are supplementary, x = 180° - 33° = 147°.",
-        "image": "image/unit15/q100.PNG"
+        "image": "image/unit15/q100.png"
     },
     {
         "id": 101,
@@ -2048,7 +2048,7 @@
             "68°"
         ],
         "explanation_en": "According to the linear pair or corresponding angle properties, x = 180° - 132° = 48°.",
-        "image": "image/unit15/q101.PNG"
+        "image": "image/unit15/q101.png"
     },
     {
         "id": 102,
@@ -2069,7 +2069,7 @@
             "a & b"
         ],
         "explanation_en": "According to the answer key, it is proven using both rules: alternate interior angles are equal and the sum of a linear pair is 180°.",
-        "image": "image/unit15/q102.PNG"
+        "image": "image/unit15/q102.png"
     },
     {
         "id": 103,
@@ -2110,7 +2110,7 @@
             "134°"
         ],
         "explanation_en": "Since co-interior angles sum to 180°, $(3x - 17) + 65 = 180 \\implies 3x + 48 = 180 \\implies 3x = 132 \\implies x = 44$.",
-        "image": "image/unit15/q104.PNG"
+        "image": "image/unit15/q104.png"
     },
     {
         "id": 105,
@@ -2131,7 +2131,7 @@
             "127°, 127°, 53°"
         ],
         "explanation_en": "Based on geometric properties of corresponding and alternate angles formed between parallel lines, the values are 53°, 127°, and 53° respectively.",
-        "image": "image/unit15/q105.PNG"
+        "image": "image/unit15/q105.png"
     },
     {
         "id": 106,
@@ -2152,7 +2152,7 @@
             "180°"
         ],
         "explanation_en": "Since adjacent angles of a parallelogram sum to 180°, b = 180° - 85° = 95°.",
-        "image": "image/unit15/q106.PNG"
+        "image": "image/unit15/q106.png"
     },
     {
         "id": 107,
@@ -2213,7 +2213,7 @@
             "Cannot be determined"
         ],
         "explanation_en": "Since the perpendicular distance between two parallel lines is always constant, BC = AD = 3 cm.",
-        "image": "image/unit15/q109.PNG"
+        "image": "image/unit15/q109.png"
     },
     {
         "id": 110,
@@ -2234,7 +2234,7 @@
             "55°, 55°, 125°"
         ],
         "explanation_en": "By linear pair, ∠2 = 180° - 125° = 55°. By vertically opposite angles, ∠3 = ∠1 = 125° and ∠4 = ∠2 = 55°.",
-        "image": "image/unit15/q110.PNG"
+        "image": "image/unit15/q110.png"
     },
     {
         "id": 111,
@@ -2255,7 +2255,7 @@
             "360°"
         ],
         "explanation_en": "According to the answer key, the combined value of x + y + z is 255°.",
-        "image": "image/unit15/q111.PNG"
+        "image": "image/unit15/q111.png"
     },
     {
         "id": 112,
@@ -2276,7 +2276,7 @@
             "65°"
         ],
         "explanation_en": "According to the alternate interior angles rule, x is equal to the given alternate angle, which is 65°.",
-        "image": "image/unit15/q112.PNG"
+        "image": "image/unit15/q112.png"
     },
     {
         "id": 113,
@@ -2297,7 +2297,7 @@
             "30°"
         ],
         "explanation_en": "According to the answer key, the correct value of x is 40°.",
-        "image": "image/unit15/q113.PNG"
+        "image": "image/unit15/q113.png"
     },
     {
         "id": 114,
@@ -2318,7 +2318,7 @@
             "200°"
         ],
         "explanation_en": "According to the answer key, the combined value of x + y is 140°.",
-        "image": "image/unit15/q114.PNG"
+        "image": "image/unit15/q114.png"
     },
     {
         "id": 115,
@@ -2339,7 +2339,7 @@
             "45°"
         ],
         "explanation_en": "According to geometric angle calculations and the answer key, $\\angle EBF = 105^{\\circ}$.",
-        "image": "image/unit15/q115.PNG"
+        "image": "image/unit15/q115.png"
     },
     {
         "id": 116,
@@ -2360,7 +2360,7 @@
             "127°, 50°"
         ],
         "explanation_en": "By alternate interior angles, x = 50°. Also, $x + y = 127^{\\circ} \\implies 50^{\\circ} + y = 127^{\\circ} \\implies y = 77^{\\circ}$. Thus, (50°, 77°) is correct.",
-        "image": "image/unit15/q116.PNG"
+        "image": "image/unit15/q116.png"
     },
     {
         "id": 117,
@@ -2381,7 +2381,7 @@
             "72°"
         ],
         "explanation_en": "According to the answer key, the value of $\\angle c$ is 108°.",
-        "image": "image/unit15/q117.PNG"
+        "image": "image/unit15/q117.png"
     },
     {
         "id": 118,
@@ -2402,7 +2402,7 @@
             "36°"
         ],
         "explanation_en": "According to the answer key, the value of x is marked as 72°.",
-        "image": "image/unit15/q118.PNG"
+        "image": "image/unit15/q118.png"
     },
     {
         "id": 119,
@@ -2423,7 +2423,7 @@
             "None of these"
         ],
         "explanation_en": "According to the answer key, the value of x + y + z is 180°.",
-        "image": "image/unit15/q119.PNG"
+        "image": "image/unit15/q119.png"
     },
     {
         "id": 120,
@@ -2444,7 +2444,7 @@
             "55°"
         ],
         "explanation_en": "Since AD || BC, by the rule of alternate interior angles, $\\angle BCA = \\angle DAC = 35^{\\circ}$.",
-        "image": "image/unit15/q120.PNG"
+        "image": "image/unit15/q120.png"
     },
     {
         "id": 121,
@@ -2465,7 +2465,7 @@
             "46°"
         ],
         "explanation_en": "According to the geometric properties and the answer key, the value of y is 88°[cite: 1256].",
-        "image": "image/unit15/q121.PNG"
+        "image": "image/unit15/q121.png"
     },
     {
         "id": 122,
@@ -2486,7 +2486,7 @@
             "160°"
         ],
         "explanation_en": "According to the answer key, the combined value of ∠PST + ∠QTS is 130°[cite: 1256].",
-        "image": "image/unit15/q122.PNG"
+        "image": "image/unit15/q122.png"
     },
     {
         "id": 123,
@@ -2507,7 +2507,7 @@
             "30°"
         ],
         "explanation_en": "According to the answer key, the value of x is 30°[cite: 1256].",
-        "image": "image/unit15/q123.PNG"
+        "image": "image/unit15/q123.png"
     },
     {
         "id": 124,
@@ -2528,7 +2528,7 @@
             "6°"
         ],
         "explanation_en": "According to the answer key, the value of x is 20°[cite: 1256].",
-        "image": "image/unit15/q124.PNG"
+        "image": "image/unit15/q124.png"
     },
     {
         "id": 125,
@@ -2549,7 +2549,7 @@
             "225°"
         ],
         "explanation_en": "According to the answer key, the value of x is 285°[cite: 1256].",
-        "image": "image/unit15/q125.PNG"
+        "image": "image/unit15/q125.png"
     },
     {
         "id": 126,
@@ -2610,7 +2610,7 @@
             "180°"
         ],
         "explanation_en": "Since OS is perpendicular, ∠POS = 90° and ∠SOQ = 90°. The angle between their bisectors is ∠ROT = 45° + 45° = 90°[cite: 1126, 1256].",
-        "image": "image/unit15/q128.PNG"
+        "image": "image/unit15/q128.png"
     },
     {
         "id": 129,
@@ -2631,7 +2631,7 @@
             "3"
         ],
         "explanation_en": "Since it is a perpendicular bisector, the segments are equal: 2x + 1 = x + 5 ⇒ x = 4[cite: 1133, 1136, 1137, 1256].",
-        "image": "image/unit15/q129.PNG"
+        "image": "image/unit15/q129.png"
     },
     {
         "id": 130,
@@ -2652,7 +2652,7 @@
             "80°"
         ],
         "explanation_en": "Since it is an angle bisector: 2x + 10 = x + 25 ⇒ x = 15°. One half is 15 + 25 = 40°. Therefore, the full angle ∠ABC = 2 × 40° = 80°[cite: 1141, 1145, 1146, 1256].",
-        "image": "image/unit15/q130.PNG"
+        "image": "image/unit15/q130.png"
     },
     {
         "id": 131,
@@ -2693,7 +2693,7 @@
             "63°"
         ],
         "explanation_en": "According to the answer key, the value of c is 63°[cite: 1256].",
-        "image": "image/unit15/q132.PNG"
+        "image": "image/unit15/q132.png"
     },
     {
         "id": 133,
@@ -2714,7 +2714,7 @@
             "140°"
         ],
         "explanation_en": "According to the answer key, the value of ∠BCD is 40°[cite: 1256].",
-        "image": "image/unit15/q133.PNG"
+        "image": "image/unit15/q133.png"
     },
     {
         "id": 134,
@@ -2735,7 +2735,7 @@
             "142°"
         ],
         "explanation_en": "According to the answer key, the measure of ∠AEC is 136°[cite: 1256].",
-        "image": "image/unit15/q134.PNG"
+        "image": "image/unit15/q134.png"
     },
     {
         "id": 135,
@@ -2756,7 +2756,7 @@
             "80°"
         ],
         "explanation_en": "The middle angle is equal to the sum of the alternate interior parts, which is 55° + 45° = 100°[cite: 1189, 1193, 1194, 1256].",
-        "image": "image/unit15/q135.PNG"
+        "image": "image/unit15/q135.png"
     },
     {
         "id": 136,
@@ -2777,7 +2777,7 @@
             "72°"
         ],
         "explanation_en": "According to the answer key, the value of ∠AOC is 132°[cite: 1256].",
-        "image": "image/unit15/q136.PNG"
+        "image": "image/unit15/q136.png"
     },
     {
         "id": 137,
@@ -2858,7 +2858,7 @@
             "75°"
         ],
         "explanation_en": "According to the answer key, the value of x is 45°[cite: 1256].",
-        "image": "image/unit15/q140.PNG"
+        "image": "image/unit15/q140.png"
     },
     {
         "id": 141,
@@ -2899,6 +2899,6 @@
             "52°"
         ],
         "explanation_en": "According to the answer key, the value of m is 122°[cite: 1256].",
-        "image": "image/unit15/q142.PNG"
+        "image": "image/unit15/q142.png"
     }
 ]

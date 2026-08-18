@@ -2,7 +2,7 @@
   {
     "id": 1,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q1.PNG",
+    "image": "image/unit12/q1.png",
     "options": [
       "N",
       "H",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q2.PNG",
+    "image": "image/unit12/q2.png",
     "options": [
       "E",
       "G",
@@ -44,7 +44,7 @@
   {
     "id": 3,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q3.PNG",
+    "image": "image/unit12/q3.png",
     "options": [
       "Q",
       "R",
@@ -65,7 +65,7 @@
   {
     "id": 4,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q4.PNG",
+    "image": "image/unit12/q4.png",
     "options": [
       "X",
       "W",
@@ -86,7 +86,7 @@
   {
     "id": 5,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q5.PNG",
+    "image": "image/unit12/q5.png",
     "options": [
       "G",
       "F",
@@ -107,7 +107,7 @@
   {
     "id": 6,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q6.PNG",
+    "image": "image/unit12/q6.png",
     "options": [
       "48F",
       "28G",
@@ -128,7 +128,7 @@
   {
     "id": 7,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q7.PNG",
+    "image": "image/unit12/q7.png",
     "options": [
       "8",
       "6",
@@ -149,7 +149,7 @@
   {
     "id": 8,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q8.PNG",
+    "image": "image/unit12/q8.png",
     "options": [
       "G",
       "H",
@@ -170,7 +170,7 @@
   {
     "id": 9,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q9.PNG",
+    "image": "image/unit12/q9.png",
     "options": [
       "G",
       "H",
@@ -191,7 +191,7 @@
   {
     "id": 10,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q10.PNG",
+    "image": "image/unit12/q10.png",
     "options": [
       "E",
       "F",
@@ -212,7 +212,7 @@
   {
     "id": 11,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q11.PNG",
+    "image": "image/unit12/q11.png",
     "options": [
       "O",
       "C",
@@ -233,7 +233,7 @@
   {
     "id": 12,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q12.PNG",
+    "image": "image/unit12/q12.png",
     "options": [
       "216 P",
       "42 P",
@@ -254,7 +254,7 @@
   {
     "id": 13,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q13.PNG",
+    "image": "image/unit12/q13.png",
     "options": [
       "M",
       "H",
@@ -275,7 +275,7 @@
   {
     "id": 14,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q14.PNG",
+    "image": "image/unit12/q14.png",
     "options": [
       "T",
       "J",
@@ -296,7 +296,7 @@
   {
     "id": 15,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q15.PNG",
+    "image": "image/unit12/q15.png",
     "options": [
       "D5",
       "D3",
@@ -317,7 +317,7 @@
   {
     "id": 16,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q16.PNG",
+    "image": "image/unit12/q16.png",
     "options": [
       "FG",
       "CD",
@@ -338,7 +338,7 @@
   {
     "id": 17,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q17.PNG",
+    "image": "image/unit12/q17.png",
     "options": [
       "5",
       "6",
@@ -359,7 +359,7 @@
   {
     "id": 18,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q18.PNG",
+    "image": "image/unit12/q18.png",
     "options": [
       "17",
       "27",
@@ -380,7 +380,7 @@
   {
     "id": 19,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q19.PNG",
+    "image": "image/unit12/q19.png",
     "options": [
       "S",
       "T",
@@ -401,7 +401,7 @@
   {
     "id": 20,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q20.PNG",
+    "image": "image/unit12/q20.png",
     "options": [
       "A",
       "B",
@@ -422,7 +422,7 @@
   {
     "id": 21,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q21.PNG",
+    "image": "image/unit12/q21.png",
     "options": [
       "Y",
       "W",
@@ -443,7 +443,7 @@
   {
     "id": 22,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q22.PNG",
+    "image": "image/unit12/q22.png",
     "options": [
       "O,N,Z",
       "C,L,O",
@@ -464,7 +464,7 @@
   {
     "id": 23,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q23.PNG",
+    "image": "image/unit12/q23.png",
     "options": [
       "A",
       "S",
@@ -485,7 +485,7 @@
   {
     "id": 24,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q24.PNG",
+    "image": "image/unit12/q24.png",
     "options": [
       "S",
       "H",
@@ -506,7 +506,7 @@
   {
     "id": 25,
     "question": "விடுபட்ட எழுத்தைக் காண்க.",
-    "image": "image/unit12/q25.PNG",
+    "image": "image/unit12/q25.png",
     "options": [
       "B",
       "C",

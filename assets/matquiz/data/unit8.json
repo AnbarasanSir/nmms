@@ -2,7 +2,7 @@
   {
     "id": 1,
     "question": "பள்ளி, ஆசிரியர்கள், மாணவர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "D",
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "question": "பயணியர், இரயில், பேருந்து",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "D",
       "E",
@@ -44,7 +44,7 @@
   {
     "id": 3,
     "question": "பெண்கள், தாய்மார்கள், பொறியாளர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "D",
       "E",
@@ -65,7 +65,7 @@
   {
     "id": 4,
     "question": "எழுத்தாளர்கள், வக்கீல்கள், பாடகர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "D",
@@ -86,7 +86,7 @@
   {
     "id": 5,
     "question": "தாவரங்கள், உணவுப்பொருள்கள், விலங்குகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "C",
@@ -107,7 +107,7 @@
   {
     "id": 6,
     "question": "ஆங்கிலம், தமிழ், இந்தி",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "F",
       "A",
@@ -128,7 +128,7 @@
   {
     "id": 7,
     "question": "புவி, காற்று, நீர்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "F",
       "B",
@@ -149,7 +149,7 @@
   {
     "id": 8,
     "question": "தமிழ்நாடு, ஆந்திரப்பிரதேசம், மத்தியப்பிரதேசம்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "E",
       "D",
@@ -170,7 +170,7 @@
   {
     "id": 9,
     "question": "நீர், மீன்கள், தவளைகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "A",
@@ -191,7 +191,7 @@
   {
     "id": 10,
     "question": "ரோஜாக்கள், சிவப்பு, உடைகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "B",
@@ -212,7 +212,7 @@
   {
     "id": 11,
     "question": "உலகம், கண்டங்கள், நாடுகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "F",
@@ -233,7 +233,7 @@
   {
     "id": 12,
     "question": "பாலூட்டி, மயில், ஆடு",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "I",
       "A",
@@ -254,7 +254,7 @@
   {
     "id": 13,
     "question": "விகிதமுறு எண்கள், முழு எண்கள், இயல் எண்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "D",
       "A",
@@ -275,7 +275,7 @@
   {
     "id": 14,
     "question": "பேனா, ஆடைகள், சட்டை",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "E",
       "I",
@@ -296,7 +296,7 @@
   {
     "id": 15,
     "question": "பின்னம், தகுபின்னம், தகாபின்னம்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "A",
@@ -317,7 +317,7 @@
   {
     "id": 16,
     "question": "பெண்கள், விரிவுரையாளர்கள், பொறியாளர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "F",
       "D",
@@ -338,7 +338,7 @@
   {
     "id": 17,
     "question": "ஆண், பெண், மருத்துவர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "D",
@@ -359,7 +359,7 @@
   {
     "id": 18,
     "question": "பாலூட்டி, பசு, பறவைகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "F",
       "D",
@@ -380,7 +380,7 @@
   {
     "id": 19,
     "question": "விளையாட்டு, நீச்சல், யோகா",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "I",
@@ -401,7 +401,7 @@
   {
     "id": 20,
     "question": "காற்றாற்றல், மின்னாற்றல், அணுக்கரு ஆற்றல்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "D",
       "A",
@@ -422,7 +422,7 @@
   {
     "id": 21,
     "question": "மேசைகள், நாற்காலிகள், மரச்சாமான்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "E",
@@ -443,7 +443,7 @@
   {
     "id": 22,
     "question": "பேராசிரியர்கள், படைப்பாளர்கள், சிங்கங்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "H",
       "G",
@@ -464,7 +464,7 @@
   {
     "id": 23,
     "question": "விலங்குகள், நரிகள், ஓநாய்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "B",
@@ -485,7 +485,7 @@
   {
     "id": 24,
     "question": "மருத்துவர்கள், தாய்மார்கள், செவிலியர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "H",
@@ -506,7 +506,7 @@
   {
     "id": 25,
     "question": "சுறா, பறவைகள், கிளி",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "H",
       "B",
@@ -527,7 +527,7 @@
   {
     "id": 26,
     "question": "பலகோணங்கள், நாற்கரங்கள், சதுரங்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "B",
@@ -548,7 +548,7 @@
   {
     "id": 27,
     "question": "மாணவர்கள், கபடி வீரர்கள், கிரிக்கெட் வீரர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "B",
@@ -569,7 +569,7 @@
   {
     "id": 28,
     "question": "பள்ளி, மேசைகள், வகுப்பறை",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "G",
@@ -590,7 +590,7 @@
   {
     "id": 29,
     "question": "தலைமை ஆசிரியர்கள், அறிவியல் ஆசிரியர்கள், ஆய்வக உதவியாளர்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "G",
       "H",
@@ -611,7 +611,7 @@
   {
     "id": 30,
     "question": "ரோஜாக்கள், பூக்கள், ஆப்பிள்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "H",
       "I",
@@ -632,7 +632,7 @@
   {
     "id": 31,
     "question": "மஞ்சள் நிறம், சூரிய காந்தி, மல்லிகை",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "F",
@@ -653,7 +653,7 @@
   {
     "id": 32,
     "question": "வெள்ளீயம், பெட்ரோல், பிளாட்டினம்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "A",
@@ -674,7 +674,7 @@
   {
     "id": 33,
     "question": "ஆசியா, இந்தியா, தார் பாலைவனம்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "A",
@@ -695,7 +695,7 @@
   {
     "id": 34,
     "question": "அறிவியல், உளவியல், இயற்பியல்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "D",
@@ -716,7 +716,7 @@
   {
     "id": 35,
     "question": "பெண்கள், தாய்மார்கள், விதவைகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "B",
@@ -737,7 +737,7 @@
   {
     "id": 36,
     "question": "காரட், உணவு, காய்கறிகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "D",
       "C",
@@ -758,7 +758,7 @@
   {
     "id": 37,
     "question": "கடல், தீவுகள், பாலைவனங்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "I",
       "G",
@@ -779,7 +779,7 @@
   {
     "id": 38,
     "question": "திமிங்கலங்கள், மீன்கள், முதலைகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "D",
       "E",
@@ -800,7 +800,7 @@
   {
     "id": 39,
     "question": "திருடர்கள், குற்றவாளிகள், நீதிபதிகள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "B",
@@ -821,7 +821,7 @@
   {
     "id": 40,
     "question": "கட்டிடம், செங்கல், பாலம்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "A",
@@ -842,7 +842,7 @@
   {
     "id": 41,
     "question": "புரோட்டான்கள், எலக்ட்ரான்கள், அணுக்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "B",
       "C",
@@ -863,7 +863,7 @@
   {
     "id": 42,
     "question": "பாலூட்டிகள், யானைகள், டைனசார்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "E",
       "F",
@@ -884,7 +884,7 @@
   {
     "id": 43,
     "question": "மரம், கிளை, இலை",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "E",
@@ -905,7 +905,7 @@
   {
     "id": 44,
     "question": "பூக்கள், மல்லிகை, வாழைப்பழம்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "I",
       "A",
@@ -926,7 +926,7 @@
   {
     "id": 45,
     "question": "மாவட்டம், மண்டலம், கிராமம்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "D",
@@ -947,7 +947,7 @@
   {
     "id": 46,
     "question": "மருத்துவர்கள், படைப்பாளர்கள், பெண்கள்",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "B",
@@ -968,7 +968,7 @@
   {
     "id": 47,
     "question": "விலங்குகள், பூச்சிகள், கரப்பான் பூச்சி",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "A",
       "G",
@@ -989,7 +989,7 @@
   {
     "id": 48,
     "question": "தாய், தந்தை, குழந்தை",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "C",
       "D",
@@ -1010,7 +1010,7 @@
   {
     "id": 49,
     "question": "நட்சத்திரம், சூரியன், நிலா",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "E",
       "F",
@@ -1031,7 +1031,7 @@
   {
     "id": 50,
     "question": "நகைகள், தங்கம், வெள்ளி என்பதைக் குறிக்கும் பொருத்தமான படம் எது?",
-    "image": "image/unit8/q1-50.PNG",
+    "image": "image/unit8/q1-50.png",
     "options": [
       "படம் 1",
       "படம் 2",

@@ -38,7 +38,7 @@
             "BC = CD"
         ],
         "explanation_en": "Based on the properties of the given triangle and the answer key, AC = CD is the correct statement.",
-        "image": "image/unit18/q2.PNG"
+        "image": "image/unit18/q2.png"
     },
     {
         "id": 3,
@@ -59,7 +59,7 @@
             "65°"
         ],
         "explanation_en": "In $\\triangle PQS$, $\\angle PSQ = 180^{\\circ} - (100^{\\circ} + 40^{\\circ}) = 40^{\\circ}$. $\\angle QSR = 85^{\\circ} - 40^{\\circ} = 45^{\\circ}$. In $\\triangle QRS$, $\\angle SQR = 180^{\\circ} - (70^{\\circ} + 45^{\\circ}) = 65^{\\circ}$. Since RT || SQ, the alternate interior angles are equal, making $\\angle QRT = 65^{\\circ}$.",
-        "image": "image/unit18/q3.PNG"
+        "image": "image/unit18/q3.png"
     },
     {
         "id": 4,
@@ -180,7 +180,7 @@
             "RHS"
         ],
         "explanation_en": "Since two sides and the included angle of the given triangles are equal, they are congruent by the SAS (Side-Angle-Side) rule.",
-        "image": "image/unit18/q9.PNG"
+        "image": "image/unit18/q9.png"
     },
     {
         "id": 10,
@@ -201,7 +201,7 @@
             "RHS"
         ],
         "explanation_en": "Since a right angle, the hypotenuse, and one side are equal, they are congruent by the RHS (Right angle-Hypotenuse-Side) rule.",
-        "image": "image/unit18/q10.PNG"
+        "image": "image/unit18/q10.png"
     },
     {
         "id": 11,
@@ -222,7 +222,7 @@
             "$\\triangle CAD$"
         ],
         "explanation_en": "Since D is the midpoint, BD = DC. Side AD is common. $\\angle ADB = \\angle ADC = 90^{\\circ}$. Thus, by SAS rule, $\\triangle BAD \\cong \\triangle CAD$.",
-        "image": "image/unit18/q11.PNG"
+        "image": "image/unit18/q11.png"
     },
     {
         "id": 12,
@@ -243,7 +243,7 @@
             "RHS"
         ],
         "explanation_en": "According to the answer key, the triangles can be proved congruent by all properties except the ASA rule.",
-        "image": "image/unit18/q12.PNG"
+        "image": "image/unit18/q12.png"
     },
     {
         "id": 13,
@@ -264,7 +264,7 @@
             "ASA"
         ],
         "explanation_en": "According to the answer key, they are proved congruent by the RHS rule.",
-        "image": "image/unit18/q13.PNG"
+        "image": "image/unit18/q13.png"
     },
     {
         "id": 14,
@@ -285,7 +285,7 @@
             "BE = BC"
         ],
         "explanation_en": "Using the congruence of triangles $\\triangle ABE$ and $\\triangle DCE$, it can be proved that AC = BD.",
-        "image": "image/unit18/q14.PNG"
+        "image": "image/unit18/q14.png"
     },
     {
         "id": 15,
@@ -306,7 +306,7 @@
             "67°"
         ],
         "explanation_en": "In $\\triangle ABC$, $\\angle A = 23^{\\circ}$, $\\angle B = 77^{\\circ}$. $\\angle C = 180^{\\circ} - (23^{\\circ} + 77^{\\circ}) = 180^{\\circ} - 100^{\\circ} = 80^{\\circ}$. Since $\\triangle ABC \\cong \\triangle DEF$, $\\angle F = \\angle C = 80^{\\circ}$.",
-        "image": "image/unit18/q15.PNG"
+        "image": "image/unit18/q15.png"
     },
     {
         "id": 16,
@@ -387,7 +387,7 @@
             "$\\angle ACB=\\angle BDA$"
         ],
         "explanation_en": "Since $\\triangle DAB \\cong \\triangle CBA$, their corresponding angles are equal. Therefore, $\\angle BDA = \\angle ACB$.",
-        "image": "image/unit18/q19.PNG"
+        "image": "image/unit18/q19.png"
     },
     {
         "id": 20,
@@ -408,7 +408,7 @@
             "13"
         ],
         "explanation_en": "Since O is equidistant from B and C, OB = OC. According to the answer key, solving the given expressions yields x = 13.",
-        "image": "image/unit18/q20.PNG"
+        "image": "image/unit18/q20.png"
     },
     {
         "id": 21,
@@ -429,7 +429,7 @@
             "SAS"
         ],
         "explanation_en": "Based on the given data, two sides and the included angle are equal, so they are congruent by the SAS rule.",
-        "image": "image/unit18/q21.PNG"
+        "image": "image/unit18/q21.png"
     },
     {
         "id": 22,
@@ -450,7 +450,7 @@
             "7.5"
         ],
         "explanation_en": "Since AB || DE, alternate angles are equal ($\\angle A = \\angle E$). Vertically opposite angles are equal ($\\angle C = \\angle C$). $AC=CE$. By ASA rule, $\\triangle ABC \\cong \\triangle EDC$. Thus, $BC=CD \\implies x+10 = 2x-5 \\implies x = 15$.",
-        "image": "image/unit18/q22.PNG"
+        "image": "image/unit18/q22.png"
     },
     {
         "id": 23,
@@ -471,7 +471,7 @@
             "$\\triangle CDE$ is an isosceles triangle"
         ],
         "explanation_en": "In the equilateral triangle, $AE=DE$. In the rectangle, $AB=CD$. $\\angle BAE = 90^{\\circ}+60^{\\circ}=150^{\\circ}$ and $\\angle CDE = 90^{\\circ}+60^{\\circ}=150^{\\circ}$. By SAS rule, $\\triangle ABE \\cong \\triangle CDE$.",
-        "image": "image/unit18/q23.PNG"
+        "image": "image/unit18/q23.png"
     },
     {
         "id": 24,
@@ -492,7 +492,7 @@
             "Statement 2 is correct, Statement 1 is wrong"
         ],
         "explanation_en": "According to the answer key, both statements are correct.",
-        "image": "image/unit18/q24.PNG"
+        "image": "image/unit18/q24.png"
     },
     {
         "id": 25,
@@ -513,7 +513,7 @@
             "SAS"
         ],
         "explanation_en": "$AB=AC$, $OB=OC$, and AO is a common side. Since all three sides are equal, they are congruent by the SSS rule.",
-        "image": "image/unit18/q25.PNG"
+        "image": "image/unit18/q25.png"
     },
     {
         "id": 26,
@@ -554,7 +554,7 @@
             "ASA"
         ],
         "explanation_en": "According to the answer key, the triangles can be proved congruent using the ASA (Angle-Side-Angle) rule.",
-        "image": "image/unit18/q27.PNG"
+        "image": "image/unit18/q27.png"
     },
     {
         "id": 28,
@@ -775,7 +775,7 @@
             "$\\triangle GOD \\sim \\triangle RAW$"
         ],
         "explanation_en": "When matching corresponding vertices, $\\triangle DOG \\sim \\triangle RAW$ is the correct notation (as per the answer key).",
-        "image": "image/unit18/q38.PNG"
+        "image": "image/unit18/q38.png"
     },
     {
         "id": 39,
@@ -796,7 +796,7 @@
             "$\\triangle NET \\sim \\triangle LWO$"
         ],
         "explanation_en": "When aligning the corresponding angles and sides, option (2) provides an incorrect vertex mapping.",
-        "image": "image/unit18/q39.PNG"
+        "image": "image/unit18/q39.png"
     },
     {
         "id": 40,
@@ -837,7 +837,7 @@
             "RHS"
         ],
         "explanation_en": "Since the corresponding angle measures are equal, they are similar by the AAA (Angle-Angle-Angle) property.",
-        "image": "image/unit18/q41.PNG"
+        "image": "image/unit18/q41.png"
     },
     {
         "id": 42,
@@ -858,7 +858,7 @@
             "Not similar"
         ],
         "explanation_en": "According to the answer key, these triangles are similar by the AAA property.",
-        "image": "image/unit18/q42.PNG"
+        "image": "image/unit18/q42.png"
     },
     {
         "id": 43,
@@ -899,7 +899,7 @@
             "6 cm"
         ],
         "explanation_en": "Based on the answer key and solving with the given proportional sides, the length of AB is 8 cm.",
-        "image": "image/unit18/q44.PNG"
+        "image": "image/unit18/q44.png"
     },
     {
         "id": 45,
@@ -940,7 +940,7 @@
             "12"
         ],
         "explanation_en": "According to the answer key, using the properties of similar triangles, the value of PQ is 4.",
-        "image": "image/unit18/q46.PNG"
+        "image": "image/unit18/q46.png"
     },
     {
         "id": 47,
@@ -961,7 +961,7 @@
             "28 m"
         ],
         "explanation_en": "600 cm = 6 m. $\\frac{h_1}{s_1} = \\frac{h_2}{s_2} \\implies \\frac{4}{6} = \\frac{h_2}{42} \\implies h_2 = \\frac{2}{3} \\times 42 = 28$ m.",
-        "image": "image/unit18/q47.PNG"
+        "image": "image/unit18/q47.png"
     },
     {
         "id": 48,
@@ -982,7 +982,7 @@
             "Not similar"
         ],
         "explanation_en": "Since the corresponding side lengths are proportional, they are similar by the SSS (Side-Side-Side) similarity property.",
-        "image": "image/unit18/q48.PNG"
+        "image": "image/unit18/q48.png"
     },
     {
         "id": 49,
@@ -1003,7 +1003,7 @@
             "Not similar"
         ],
         "explanation_en": "Since two sides are proportional and their included angles are equal, they are similar by the SAS (Side-Angle-Side) rule.",
-        "image": "image/unit18/q49.PNG"
+        "image": "image/unit18/q49.png"
     },
     {
         "id": 50,
@@ -1024,7 +1024,7 @@
             "Not similar"
         ],
         "explanation_en": "Since the side ratios are not equal and no angles are given to establish similarity, they are not similar.",
-        "image": "image/unit18/q50.PNG"
+        "image": "image/unit18/q50.png"
     },
     {
         "id": 51,
@@ -1045,7 +1045,7 @@
             "50°"
         ],
         "explanation_en": "According to the answer key, since $\\triangle EAT$ and $\\triangle UBN$ are similar, using the properties of corresponding angles yields $\\angle N = 40^{\\circ}$.",
-        "image": "image/unit18/q51.PNG"
+        "image": "image/unit18/q51.png"
     },
     {
         "id": 52,
@@ -1066,7 +1066,7 @@
             "16"
         ],
         "explanation_en": "Since YH || TE, $\\triangle WYH \\sim \\triangle WTE$. The ratio of corresponding sides is equal. $\\frac{WY}{WT} = \\frac{YH}{TE}$. $\\frac{3}{3+9} = \\frac{4}{TE} \\implies \\frac{3}{12} = \\frac{4}{TE} \\implies \\frac{1}{4} = \\frac{4}{TE} \\implies TE = 16$.",
-        "image": "image/unit18/q52.PNG"
+        "image": "image/unit18/q52.png"
     },
     {
         "id": 53,
@@ -1087,7 +1087,7 @@
             "15"
         ],
         "explanation_en": "By Thales' theorem (or similar triangles $\\triangle WYH \\sim \\triangle WTE$), $\\frac{WY}{YT} = \\frac{WH}{HE} \\implies \\frac{3}{9} = \\frac{4}{HE} \\implies \\frac{1}{3} = \\frac{4}{HE} \\implies HE = 12$.",
-        "image": "image/unit18/q53.PNG"
+        "image": "image/unit18/q53.png"
     },
     {
         "id": 54,
@@ -1108,7 +1108,7 @@
             "5"
         ],
         "explanation_en": "Since DE || AC, by the Basic Proportionality Theorem, $\\frac{BD}{DA} = \\frac{BE}{EC}$. Substituting the given expressions and solving yields x = 2.",
-        "image": "image/unit18/q54.PNG"
+        "image": "image/unit18/q54.png"
     },
     {
         "id": 55,
@@ -1129,7 +1129,7 @@
             "25°"
         ],
         "explanation_en": "Since $\\triangle EAT \\sim \\triangle BUN$, corresponding angles are equal ($\\angle E = \\angle B$, $\\angle A = \\angle U$, $\\angle T = \\angle N$). Solving the equations gives $x = 35^{\\circ}$. Thus, $\\angle B = x^{\\circ} = 35^{\\circ}$.",
-        "image": "image/unit18/q55.PNG"
+        "image": "image/unit18/q55.png"
     },
     {
         "id": 56,
@@ -1330,7 +1330,7 @@
             "25"
         ],
         "explanation_en": "The given sides are 10 ft and 24 ft. Hypotenuse = $\\sqrt{10^2 + 24^2} = \\sqrt{100 + 576} = \\sqrt{676} = 26$ ft.",
-        "image": "image/unit18/q65.PNG"
+        "image": "image/unit18/q65.png"
     },
     {
         "id": 66,
@@ -1371,7 +1371,7 @@
             "40 m"
         ],
         "explanation_en": "Hypotenuse = 41 m, Base = 9 m. Height of the pole = $\\sqrt{41^2 - 9^2} = \\sqrt{1681 - 81} = \\sqrt{1600} = 40$ m.",
-        "image": "image/unit18/q67.PNG"
+        "image": "image/unit18/q67.png"
     },
     {
         "id": 68,
@@ -1412,7 +1412,7 @@
             "12 m"
         ],
         "explanation_en": "According to the answer key, the correct answer is 10 m.",
-        "image": "image/unit18/q69.PNG"
+        "image": "image/unit18/q69.png"
     },
     {
         "id": 70,
@@ -1553,7 +1553,7 @@
             "17 cm"
         ],
         "explanation_en": "In the figure, $PQ=13$, $PM=12$, $PR=15$. $QM = \\sqrt{13^2 - 12^2} = 5$. $MR = \\sqrt{15^2 - 12^2} = 9$. $QR = QM + MR = 5 + 9 = 14$ cm.",
-        "image": "image/unit18/q76.PNG"
+        "image": "image/unit18/q76.png"
     },
     {
         "id": 77,
@@ -1594,7 +1594,7 @@
             "60 cm²"
         ],
         "explanation_en": "The right-angled triangle in the figure has a base of 12 cm and a height of 5 cm. Area = $\\frac{1}{2} \\times 12 \\times 5 = 30$ cm².",
-        "image": "image/unit18/q78.PNG"
+        "image": "image/unit18/q78.png"
     },
     {
         "id": 79,
@@ -1655,7 +1655,7 @@
             "16 m"
         ],
         "explanation_en": "Difference in heights = $14 - 9 = 5$ m. Horizontal distance = 12 m. Distance between tops = $\\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = 13$ m.",
-        "image": "image/unit18/q81.PNG"
+        "image": "image/unit18/q81.png"
     },
     {
         "id": 82,
@@ -1736,7 +1736,7 @@
             "131 cm²"
         ],
         "explanation_en": "According to the answer key, the area of the parallelogram is $16 \\times 12 = 192$ cm².",
-        "image": "image/unit18/q85.PNG"
+        "image": "image/unit18/q85.png"
     },
     {
         "id": 86,
@@ -1837,7 +1837,7 @@
             "48 cm²"
         ],
         "explanation_en": "The right-angled triangle in the figure has a hypotenuse of 10 cm and one side 8 cm. The other side = $\\sqrt{10^2 - 8^2} = \\sqrt{100 - 64} = \\sqrt{36} = 6$ cm. Area = $\\frac{1}{2} \\times 8 \\times 6 = 24$ cm².",
-        "image": "image/unit18/q90.PNG"
+        "image": "image/unit18/q90.png"
     },
     {
         "id": 91,
@@ -1918,7 +1918,7 @@
             "16 cm"
         ],
         "explanation_en": "In right $\\triangle MRA$, $MR = \\sqrt{15^2 - 9^2} = \\sqrt{225 - 81} = \\sqrt{144} = 12$. In right $\\triangle KRM$, $KM = \\sqrt{16^2 + 12^2} = \\sqrt{256 + 144} = \\sqrt{400} = 20$ cm.",
-        "image": "image/unit18/q94.PNG"
+        "image": "image/unit18/q94.png"
     },
     {
         "id": 95,
@@ -1939,7 +1939,7 @@
             "Not similar"
         ],
         "explanation_en": "In $\\triangle MRA$ and $\\triangle KRM$, the ratios of sides are: $\\frac{KM}{MA} = \\frac{20}{15} = \\frac{4}{3}$, $\\frac{KR}{MR} = \\frac{16}{12} = \\frac{4}{3}$, $\\frac{MR}{RA} = \\frac{12}{9} = \\frac{4}{3}$. Since all three sides are proportional, they are similar by the SSS property. (Option 3 as per key).",
-        "image": "image/unit18/q95.PNG"
+        "image": "image/unit18/q95.png"
     },
     {
         "id": 96,
@@ -1960,7 +1960,7 @@
             "23 cm"
         ],
         "explanation_en": "In right $\\triangle GOL$, $GL = \\sqrt{63^2 + 16^2} = \\sqrt{3969 + 256} = \\sqrt{4225} = 65$. In right $\\triangle LDG$, $LD = \\sqrt{65^2 - 56^2} = \\sqrt{4225 - 3136} = \\sqrt{1089} = 33$ cm.",
-        "image": "image/unit18/q96.PNG"
+        "image": "image/unit18/q96.png"
     },
     {
         "id": 97,
@@ -1981,7 +1981,7 @@
             "$8\\sqrt{2}$ cm²"
         ],
         "explanation_en": "According to the answer key, the correct answer is $8\\sqrt{2}$ cm².",
-        "image": "image/unit18/q97.PNG"
+        "image": "image/unit18/q97.png"
     },
     {
         "id": 98,
@@ -2002,7 +2002,7 @@
             "6 cm"
         ],
         "explanation_en": "$\\triangle JUN$ is equilateral, so $JN = UN = 6$ cm. In right $\\triangle JNE$, $JE = \\sqrt{6^2 + 8^2} = 10$. $JE = x - 4 = 10 \\implies x = 14$ cm.",
-        "image": "image/unit18/q98.PNG"
+        "image": "image/unit18/q98.png"
     },
     {
         "id": 99,
@@ -2583,7 +2583,7 @@
             "O"
         ],
         "explanation_en": "The centroid is the point where the medians intersect, which is indicated by the letter M in the figure.",
-        "image": "image/unit18/q127.PNG"
+        "image": "image/unit18/q127.png"
     },
     {
         "id": 128,
@@ -2604,7 +2604,7 @@
             "10 cm"
         ],
         "explanation_en": "Centroid G divides median AD in the ratio 2:1. AG = 2 × GD = 2 × 2.5 = 5 cm. Total length AD = AG + GD = 5 + 2.5 = 7.5 cm.",
-        "image": "image/unit18/q128.PNG"
+        "image": "image/unit18/q128.png"
     },
     {
         "id": 129,
@@ -2625,7 +2625,7 @@
             "4.3 cm"
         ],
         "explanation_en": "The centroid divides the median in a 2:1 ratio. DG is the smaller part (1 part out of 3). So, $DG = \\frac{9.6}{3} = 3.2$ cm.",
-        "image": "image/unit18/q129.PNG"
+        "image": "image/unit18/q129.png"
     },
     {
         "id": 130,
@@ -2646,7 +2646,7 @@
             "3 cm"
         ],
         "explanation_en": "G divides median BD in the ratio 2:1. The larger segment BG = 6 cm, so the smaller segment GD = 3 cm. Total length BD = 6 + 3 = 9 cm.",
-        "image": "image/unit18/q130.PNG"
+        "image": "image/unit18/q130.png"
     },
     {
         "id": 131,
@@ -2667,7 +2667,7 @@
             "Scalene triangle"
         ],
         "explanation_en": "A triangle in which two altitudes are equal is an isosceles triangle.",
-        "image": "image/unit18/q131.PNG"
+        "image": "image/unit18/q131.png"
     },
     {
         "id": 132,
@@ -2688,7 +2688,7 @@
             "A"
         ],
         "explanation_en": "This is a right-angled triangle at A. The orthocenter of a right triangle is at the vertex containing the right angle, which is A.",
-        "image": "image/unit18/q132.PNG"
+        "image": "image/unit18/q132.png"
     },
     {
         "id": 133,
@@ -2729,7 +2729,7 @@
             "7 cm"
         ],
         "explanation_en": "The incenter is equidistant from all sides of the triangle. Therefore, the perpendiculars IE = ID = IF = 17 cm.",
-        "image": "image/unit18/q134.PNG"
+        "image": "image/unit18/q134.png"
     },
     {
         "id": 135,
@@ -2870,7 +2870,7 @@
             "I, H"
         ],
         "explanation_en": "On the Euler line, the orthocenter (H), centroid (G), and circumcenter (S) are collinear. G divides HS in a 2:1 ratio, placing it between H and S.",
-        "image": "image/unit18/q141.PNG"
+        "image": "image/unit18/q141.png"
     },
     {
         "id": 142,
@@ -2891,7 +2891,7 @@
             "70°"
         ],
         "explanation_en": "The incenter bisects the angles. $\\angle Y = 2 \\times 40^{\\circ} = 80^{\\circ}$. $\\angle Z = 2 \\times 30^{\\circ} = 60^{\\circ}$. Sum of angles is 180°, so $\\angle X = 180^{\\circ} - (80^{\\circ} + 60^{\\circ}) = 40^{\\circ}$.",
-        "image": "image/unit18/q142.PNG"
+        "image": "image/unit18/q142.png"
     },
     {
         "id": 143,
@@ -2912,7 +2912,7 @@
             "40°"
         ],
         "explanation_en": "Assuming I is the incenter, it bisects the angles. $\\angle B = 2 \\times 25^{\\circ} = 50^{\\circ}$, $\\angle C = 2 \\times 45^{\\circ} = 90^{\\circ}$. $\\angle A = 180^{\\circ} - (50^{\\circ} + 90^{\\circ}) = 40^{\\circ}$.",
-        "image": "image/unit18/q143.PNG"
+        "image": "image/unit18/q143.png"
     },
     {
         "id": 144,
@@ -2933,7 +2933,7 @@
             "16 cm"
         ],
         "explanation_en": "G is the centroid, so RD is a median. D is the midpoint of PQ, so DQ = 8/2 = 4. GD = 1/3 of RD = 12/3 = 4. GQ = 2/3 of QF = (2/3)*9 = 6. Perimeter = 4 + 4 + 6 = 14 cm.",
-        "image": "image/unit18/q144.PNG"
+        "image": "image/unit18/q144.png"
     },
     {
         "id": 145,
@@ -2974,7 +2974,7 @@
             "18 cm²"
         ],
         "explanation_en": "The centroid divides the triangle into 3 triangles of equal area. Area of $\\triangle ABC$ = $3 \\times$ Area of $\\triangle AGC$ = $3 \\times 18 = 54$ cm².",
-        "image": "image/unit18/q146.PNG"
+        "image": "image/unit18/q146.png"
     },
     {
         "id": 147,
@@ -2995,7 +2995,7 @@
             "12 cm²"
         ],
         "explanation_en": "The medians divide the triangle into 6 small equal-area triangles. A shaded region consisting of two such triangles (like AGB) is 1/3 of the total area. $\\frac{24}{3} = 8$ cm².",
-        "image": "image/unit18/q147.PNG"
+        "image": "image/unit18/q147.png"
     },
     {
         "id": 148,
@@ -3016,7 +3016,7 @@
             "12 cm²"
         ],
         "explanation_en": "$\\triangle AGB$ covers $\\frac{1}{3}$ of the total area. So, area of $\\triangle ABC$ = $3 \\times 24 = 72$ cm².",
-        "image": "image/unit18/q148.PNG"
+        "image": "image/unit18/q148.png"
     },
     {
         "id": 149,
@@ -3037,7 +3037,7 @@
             "3"
         ],
         "explanation_en": "The centroid divides the median in a 2:1 ratio. $GA = 2 \\times FG \\implies 6x = 2(x+8) \\implies 6x = 2x + 16 \\implies 4x = 16 \\implies x = 4$.",
-        "image": "image/unit18/q149.PNG"
+        "image": "image/unit18/q149.png"
     },
     {
         "id": 150,
@@ -3058,7 +3058,7 @@
             "23 cm"
         ],
         "explanation_en": "F is the midpoint of BC, so BF = 7. AF=18, so FG = 18/3 = 6. BD=15, so BG = (2/3)*15 = 10. Perimeter of $\\triangle BFG$ = 7 + 6 + 10 = 23 cm.",
-        "image": "image/unit18/q150.PNG"
+        "image": "image/unit18/q150.png"
     },
     {
         "id": 151,
@@ -3099,7 +3099,7 @@
             "43°"
         ],
         "explanation_en": "BEC is an altitude, so $\\angle BEC = 90^{\\circ}$. $2x+4 = 90 \\implies 2x = 86 \\implies x = 43$. $\\angle ABE = 43 - 3 = 40^{\\circ}$. In right $\\triangle ABE$, $\\angle A = 180 - (90 + 40) = 50^{\\circ}$.",
-        "image": "image/unit18/q152.PNG"
+        "image": "image/unit18/q152.png"
     },
     {
         "id": 153,
@@ -3120,7 +3120,7 @@
             "29°"
         ],
         "explanation_en": "In $\\triangle ABE$, $\\angle E = 90^{\\circ}$. Therefore, $\\angle BAE + \\angle ABE = 90^{\\circ}$. $(2x+4) + (x-1) = 90 \\implies 3x + 3 = 90 \\implies 3x = 87 \\implies x = 29$.",
-        "image": "image/unit18/q153.PNG"
+        "image": "image/unit18/q153.png"
     },
     {
         "id": 154,
@@ -3141,7 +3141,7 @@
             "20 cm"
         ],
         "explanation_en": "Since M is the midpoint, BM = 12/2 = 6. In right $\\triangle SMB$, the radius (hypotenuse) $SB = \\sqrt{SM^2 + BM^2} = \\sqrt{8^2 + 6^2} = \\sqrt{100} = 10$ cm.",
-        "image": "image/unit18/q154.PNG"
+        "image": "image/unit18/q154.png"
     },
     {
         "id": 155,
@@ -3182,7 +3182,7 @@
             "$\\angle MOC=\\angle BOC$"
         ],
         "explanation_en": "In $\\triangle OBC$, exterior $\\angle MOC = \\angle OBC + \\angle OCB$. Since AB=AC, $\\angle B = \\angle C$. As they are bisectors, $\\angle OBC = \\angle OCB = \\frac{1}{2} \\angle B$. Thus, $\\angle MOC = \\frac{1}{2} \\angle B + \\frac{1}{2} \\angle B = \\angle B = \\angle ABC$.",
-        "image": "image/unit18/q156.PNG"
+        "image": "image/unit18/q156.png"
     },
     {
         "id": 157,
@@ -3203,7 +3203,7 @@
             "110°"
         ],
         "explanation_en": "Since $XY=XZ$, in $\\triangle XYZ$, $\\angle Y = \\angle Z = \\frac{180-40}{2} = 70^{\\circ}$. We are given $\\angle OYZ = \\angle OZX$. So $\\angle OYZ + \\angle OZY = \\angle OZX + \\angle OZY = \\angle Z = 70^{\\circ}$. In $\\triangle YOZ$, $\\angle YOZ = 180^{\\circ} - 70^{\\circ} = 110^{\\circ}$.",
-        "image": "image/unit18/q157.PNG"
+        "image": "image/unit18/q157.png"
     },
     {
         "id": 158,
@@ -3224,7 +3224,7 @@
             "$6\\sqrt{3}$ cm²"
         ],
         "explanation_en": "Area of $\\triangle ABC$ = $\\frac{\\sqrt{3}}{4} \\times 12^2 = 36\\sqrt{3}$. The medians divide the triangle into 6 equal areas. Area of $\\triangle BFG$ = $\\frac{36\\sqrt{3}}{6} = 6\\sqrt{3}$ cm².",
-        "image": "image/unit18/q158.PNG"
+        "image": "image/unit18/q158.png"
     },
     {
         "id": 159,
@@ -3245,7 +3245,7 @@
             "$8+6\\sqrt{3}+3\\sqrt{3}$ cm"
         ],
         "explanation_en": "Median = $9\\sqrt{3}$. BG = $2/3 \\times 9\\sqrt{3} = 6\\sqrt{3}$. FG = $1/3 \\times 9\\sqrt{3} = 3\\sqrt{3}$. F is midpoint, so BF = 9. Perimeter of $\\triangle BFG$ = $9 + 6\\sqrt{3} + 3\\sqrt{3}$.",
-        "image": "image/unit18/q159.PNG"
+        "image": "image/unit18/q159.png"
     },
     {
         "id": 160,
@@ -3606,7 +3606,7 @@
             "60°"
         ],
         "explanation_en": "According to the answer key, using the angle properties of the figure, the value of 'x' is 40°.",
-        "image": "image/unit18/q177.PNG"
+        "image": "image/unit18/q177.png"
     },
     {
         "id": 178,
@@ -3627,7 +3627,7 @@
             "140°"
         ],
         "explanation_en": "According to the answer key, using the angle properties of the figure, the value of 'x' is 120°.",
-        "image": "image/unit18/q178.PNG"
+        "image": "image/unit18/q178.png"
     },
     {
         "id": 179,
@@ -3688,7 +3688,7 @@
             "$x=88^{\\circ}$, $y=92^{\\circ}$, $z=67^{\\circ}$"
         ],
         "explanation_en": "According to the answer key, $x=88^{\\circ}$, $y=67^{\\circ}$ and $z=92^{\\circ}$.",
-        "image": "image/unit18/q181.PNG"
+        "image": "image/unit18/q181.png"
     },
     {
         "id": 182,
@@ -3909,7 +3909,7 @@
             "180°"
         ],
         "explanation_en": "According to the answer key, $\\angle A$ and $\\angle D$ are supplementary, giving $180^{\\circ} - 65^{\\circ} = 115^{\\circ}$.",
-        "image": "image/unit18/q192.PNG"
+        "image": "image/unit18/q192.png"
     },
     {
         "id": 193,
