@@ -1,0 +1,2902 @@
+[
+    {
+        "id": 1,
+        "question": "_______ என்பது முழுத் தரவின் பிரதிநிதித்துவ மதிப்பு.",
+        "options": [
+            "சராசரி",
+            "வீச்சு",
+            "குறைந்தபட்ச மதிப்பு",
+            "அதிகபட்ச மதிப்பு"
+        ],
+        "correct": 0,
+        "explanation": "சராசரி (Mean/Average) என்பது முழுத் தரவின் பிரதிநிதித்துவ மதிப்பு (Representative value) ஆகும்.",
+        "question_en": "_______ is a representative value of the entire data.",
+        "options_en": [
+            "Average",
+            "Range",
+            "Minimum value",
+            "Maximum value"
+        ],
+        "explanation_en": "Average (or Mean) is the representative value of the entire data set."
+    },
+    {
+        "id": 2,
+        "question": "2, 9, 5, 4, 4, 8, 10 ஆகிய மதிப்பெண்களின் சராசரியானது",
+        "options": [
+            "8",
+            "9",
+            "6",
+            "5"
+        ],
+        "correct": 2,
+        "explanation": "சராசரி = (2 + 9 + 5 + 4 + 4 + 8 + 10) / 7 = 42 / 7 = 6.",
+        "question_en": "The average of the scores 2, 9, 5, 4, 4, 8, 10 is",
+        "options_en": [
+            "8",
+            "9",
+            "6",
+            "5"
+        ],
+        "explanation_en": "Average = (2 + 9 + 5 + 4 + 4 + 8 + 10) / 7 = 42 / 7 = 6."
+    },
+    {
+        "id": 3,
+        "question": "25, 20, 34, 26, 25 இன் கூட்டுச்சராசரி காண்க.",
+        "options": [
+            "26",
+            "34",
+            "25",
+            "35"
+        ],
+        "correct": 0,
+        "explanation": "கூட்டுச்சராசரி = (25 + 20 + 34 + 26 + 25) / 5 = 130 / 5 = 26.",
+        "question_en": "Find the arithmetic mean of 25, 20, 34, 26, 25.",
+        "options_en": [
+            "26",
+            "34",
+            "25",
+            "35"
+        ],
+        "explanation_en": "Arithmetic Mean = (25 + 20 + 34 + 26 + 25) / 5 = 130 / 5 = 26."
+    },
+    {
+        "id": 4,
+        "question": "ஒரு தேர்வில் 10 மாணவர்கள் பெற்ற மதிப்பெண்கள் 15, 75, 33, 67, 76, 54, 39, 12, 78, 11 எனில், இதன் கூட்டுச்சராசரி",
+        "options": [
+            "460",
+            "46",
+            "23",
+            "230"
+        ],
+        "correct": 1,
+        "explanation": "கூடுதல் = 460. சராசரி = 460 / 10 = 46.",
+        "question_en": "If the marks obtained by 10 students in an exam are 15, 75, 33, 67, 76, 54, 39, 12, 78, 11, then its arithmetic mean is",
+        "options_en": [
+            "460",
+            "46",
+            "23",
+            "230"
+        ],
+        "explanation_en": "Sum = 460. Mean = 460 / 10 = 46."
+    },
+    {
+        "id": 5,
+        "question": "இரண்டு பாத்திரங்களில் 40 லி., 90 லி., பால் தனித்தனியாக உள்ளது. இரண்டு பாத்திரங்களிலும் பாலைச் சமமாகப் பங்கிட்டால் 2 பாத்திரங்களின் கொள்ளளவு முறையே",
+        "options": [
+            "45 லி.",
+            "130 லி.",
+            "55 லி.",
+            "65 லி."
+        ],
+        "correct": 3,
+        "explanation": "சமமாகப் பங்கிட்டால் ஒவ்வொரு பாத்திரத்திலும் உள்ள பாலின் அளவு அதன் சராசரியாக இருக்கும். சராசரி = (40 + 90) / 2 = 130 / 2 = 65 லிட்டர்.",
+        "question_en": "Two containers have 40 L and 90 L of milk separately. If the milk is distributed equally in both containers, the content in each container will be",
+        "options_en": [
+            "45 L",
+            "130 L",
+            "55 L",
+            "65 L"
+        ],
+        "explanation_en": "If distributed equally, the amount is the average. Average = (40 + 90) / 2 = 130 / 2 = 65 Liters."
+    },
+    {
+        "id": 6,
+        "question": "8.4, 7.6 மற்றும் 9.2 ஆகிய தரவுகளின் கூட்டுச்சராசரி",
+        "options": [
+            "8.4",
+            "4.8",
+            "9.2",
+            "7.6"
+        ],
+        "correct": 0,
+        "explanation": "சராசரி = (8.4 + 7.6 + 9.2) / 3 = 25.2 / 3 = 8.4.",
+        "question_en": "The arithmetic mean of the data 8.4, 7.6 and 9.2 is",
+        "options_en": [
+            "8.4",
+            "4.8",
+            "9.2",
+            "7.6"
+        ],
+        "explanation_en": "Mean = (8.4 + 7.6 + 9.2) / 3 = 25.2 / 3 = 8.4."
+    },
+    {
+        "id": 7,
+        "question": "ஆறு குடும்பங்களின் மாத வருவாய் முறையே ₹3500, ₹2700, ₹3000, ₹2800, ₹3900, ₹2100 எனில், வருவாயின் சராசரியைக் காண்க.",
+        "options": [
+            "₹2700",
+            "₹3900",
+            "₹3000",
+            "₹3500"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த வருவாய் = 3500 + 2700 + 3000 + 2800 + 3900 + 2100 = 18000. சராசரி = 18000 / 6 = ₹3000.",
+        "question_en": "If the monthly incomes of six families are ₹3500, ₹2700, ₹3000, ₹2800, ₹3900, ₹2100 respectively, find the average income.",
+        "options_en": [
+            "₹2700",
+            "₹3900",
+            "₹3000",
+            "₹3500"
+        ],
+        "explanation_en": "Total income = 3500 + 2700 + 3000 + 2800 + 3900 + 2100 = 18000. Average = 18000 / 6 = ₹3000."
+    },
+    {
+        "id": 8,
+        "question": "முதல் 5 முழு எண்களின் சராசரி",
+        "options": [
+            "0",
+            "2",
+            "1.5",
+            "1"
+        ],
+        "correct": 1,
+        "explanation": "முதல் 5 முழு எண்கள் (Whole numbers): 0, 1, 2, 3, 4. சராசரி = (0+1+2+3+4) / 5 = 10 / 5 = 2.",
+        "question_en": "The average of the first 5 whole numbers is",
+        "options_en": [
+            "0",
+            "2",
+            "1.5",
+            "1"
+        ],
+        "explanation_en": "The first 5 whole numbers are 0, 1, 2, 3, 4. Average = (0+1+2+3+4) / 5 = 10 / 5 = 2."
+    },
+    {
+        "id": 9,
+        "question": "முதல் 5 ஒற்றை எண்கள் மற்றும் முதல் 5 இரட்டை எண்களின் மொத்த சராசரி",
+        "options": [
+            "5",
+            "5.5",
+            "4.5",
+            "4"
+        ],
+        "correct": 1,
+        "explanation": "முதல் 5 ஒற்றை எண்கள் (1, 3, 5, 7, 9) மற்றும் முதல் 5 இரட்டை எண்கள் (2, 4, 6, 8, 10). இவை சேர்ந்து முதல் 10 இயல் எண்களாகும். சராசரி = 55 / 10 = 5.5.",
+        "question_en": "The overall average of the first 5 odd numbers and the first 5 even numbers is",
+        "options_en": [
+            "5",
+            "5.5",
+            "4.5",
+            "4"
+        ],
+        "explanation_en": "The first 5 odd numbers (1,3,5,7,9) and first 5 even numbers (2,4,6,8,10) make the first 10 natural numbers. Average = 55 / 10 = 5.5."
+    },
+    {
+        "id": 10,
+        "question": "முதல் 6 ஒற்றைப்படை இயல் எண்களின் சராசரி",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "14"
+        ],
+        "correct": 0,
+        "explanation": "முதல் n ஒற்றைப்படை எண்களின் சராசரி n ஆகும். எனவே முதல் 6 ஒற்றை எண்களின் சராசரி 6.",
+        "question_en": "The average of the first 6 odd natural numbers is",
+        "options_en": [
+            "6",
+            "7",
+            "8",
+            "14"
+        ],
+        "explanation_en": "The average of the first n odd numbers is always n. Thus, for the first 6 odd numbers, it is 6."
+    },
+    {
+        "id": 11,
+        "question": "முதல் இரு பகா எண்களின் கூட்டுச்சராசரி",
+        "options": [
+            "1.5",
+            "2.5",
+            "4",
+            "2"
+        ],
+        "correct": 1,
+        "explanation": "முதல் இரு பகா எண்கள் 2 மற்றும் 3. இவற்றின் சராசரி = (2 + 3) / 2 = 5 / 2 = 2.5.",
+        "question_en": "The arithmetic mean of the first two prime numbers is",
+        "options_en": [
+            "1.5",
+            "2.5",
+            "4",
+            "2"
+        ],
+        "explanation_en": "The first two prime numbers are 2 and 3. Average = (2 + 3) / 2 = 5 / 2 = 2.5."
+    },
+    {
+        "id": 12,
+        "question": "முழுக்களான -10 இக்கும் 10 இக்கும் இடையேயுள்ள எண்களின் சராசரி",
+        "options": [
+            "20",
+            "10",
+            "-10",
+            "0"
+        ],
+        "correct": 3,
+        "explanation": "-10 இக்கும் 10 இக்கும் இடையேயுள்ள எண்கள்: -9, -8, ..., 0, ..., 8, 9. ஒரு எண் மற்றும் அதன் எதிரெண் என அனைத்து உறுப்புகளின் கூடுதல் 0 ஆகும். எனவே சராசரியும் 0.",
+        "question_en": "The average of the integers between -10 and 10 is",
+        "options_en": [
+            "20",
+            "10",
+            "-10",
+            "0"
+        ],
+        "explanation_en": "The numbers are -9, -8, ..., 0, ..., 8, 9. Since every number is paired with its additive inverse, the sum is 0. So, the average is 0."
+    },
+    {
+        "id": 13,
+        "question": "-5 முதல் 4 வரையுள்ள முழுக்களின் கூட்டுச்சராசரி",
+        "options": [
+            "-0.5",
+            "0.5",
+            "-0.1",
+            "1.5"
+        ],
+        "correct": 0,
+        "explanation": "எண்கள்: -5, -4, -3, -2, -1, 0, 1, 2, 3, 4 (மொத்தம் 10 எண்கள்). இவற்றின் கூடுதல் = -5. சராசரி = -5 / 10 = -0.5.",
+        "question_en": "The arithmetic mean of the integers from -5 to 4 is",
+        "options_en": [
+            "-0.5",
+            "0.5",
+            "-0.1",
+            "1.5"
+        ],
+        "explanation_en": "The integers are -5, -4, -3, -2, -1, 0, 1, 2, 3, 4 (Total 10 numbers). Sum = -5. Mean = -5 / 10 = -0.5."
+    },
+    {
+        "id": 14,
+        "question": "முதல் 10 பகு எண்களின் சராசரி",
+        "options": [
+            "12.4",
+            "18",
+            "11.2",
+            "9.4"
+        ],
+        "correct": 2,
+        "explanation": "முதல் 10 பகு எண்கள் (Composite numbers): 4, 6, 8, 9, 10, 12, 14, 15, 16, 18. கூடுதல் = 112. சராசரி = 112 / 10 = 11.2.",
+        "question_en": "The average of the first 10 composite numbers is",
+        "options_en": [
+            "12.4",
+            "18",
+            "11.2",
+            "9.4"
+        ],
+        "explanation_en": "First 10 composite numbers: 4, 6, 8, 9, 10, 12, 14, 15, 16, 18. Sum = 112. Average = 112 / 10 = 11.2."
+    },
+    {
+        "id": 15,
+        "question": "1 முதல் 15 வரை உள்ள ஒற்றைப் பகா எண்களின் கூட்டுச்சராசரி",
+        "options": [
+            "4",
+            "7",
+            "5",
+            "7.8"
+        ],
+        "correct": 3,
+        "explanation": "1 முதல் 15 வரை உள்ள ஒற்றைப் பகா எண்கள்: 3, 5, 7, 11, 13 (மொத்தம் 5). கூடுதல் = 39. சராசரி = 39 / 5 = 7.8. (குறிப்பு: விடைக்குறிப்பின்படி 4-வது விருப்பம்).",
+        "question_en": "The arithmetic mean of odd prime numbers from 1 to 15 is",
+        "options_en": [
+            "4",
+            "7",
+            "5",
+            "7.8"
+        ],
+        "explanation_en": "The odd prime numbers between 1 and 15 are 3, 5, 7, 11, 13. Sum = 39. Mean = 39 / 5 = 7.8."
+    },
+    {
+        "id": 16,
+        "question": "34.8°C, 38.5°C, 33.4°C, 34.7°C, 35.8°C, 32.8°C, 34.3°C ஆக இருந்தது. அந்த வாரத்தின் சராசரி வெப்பநிலையைக் காண்க.",
+        "options": [
+            "34.8°C",
+            "34.9°C",
+            "34.7°C",
+            "35.2°C"
+        ],
+        "correct": 1,
+        "explanation": "மொத்த வெப்பநிலை = 244.3°C. சராசரி = 244.3 / 7 = 34.9°C.",
+        "question_en": "The temperatures were 34.8°C, 38.5°C, 33.4°C, 34.7°C, 35.8°C, 32.8°C, 34.3°C. Find the average temperature of that week.",
+        "options_en": [
+            "34.8°C",
+            "34.9°C",
+            "34.7°C",
+            "35.2°C"
+        ],
+        "explanation_en": "Total temperature = 244.3°C. Average = 244.3 / 7 = 34.9°C."
+    },
+    {
+        "id": 17,
+        "question": "10 விவரங்களின் மொத்த மதிப்பு 115 எனில், அவ்விவரங்களின் சராசரி மதிப்பு",
+        "options": [
+            "12",
+            "11.5",
+            "11",
+            "10.5"
+        ],
+        "correct": 1,
+        "explanation": "சராசரி = மொத்த மதிப்பு / விவரங்களின் எண்ணிக்கை = 115 / 10 = 11.5.",
+        "question_en": "If the total value of 10 data items is 115, then the average value of those items is",
+        "options_en": [
+            "12",
+            "11.5",
+            "11",
+            "10.5"
+        ],
+        "explanation_en": "Average = Total value / Number of items = 115 / 10 = 11.5."
+    },
+    {
+        "id": 18,
+        "question": "முதல் 15 இரட்டை எண்களின் சராசரி",
+        "options": [
+            "16",
+            "4",
+            "5",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "முதல் n இரட்டை எண்களின் சராசரி n + 1 ஆகும். எனவே, 15 + 1 = 16.",
+        "question_en": "The average of the first 15 even numbers is",
+        "options_en": [
+            "16",
+            "4",
+            "5",
+            "10"
+        ],
+        "explanation_en": "The average of the first n even numbers is n + 1. So, 15 + 1 = 16."
+    },
+    {
+        "id": 19,
+        "question": "9 க்கும் 21 க்கும் இடைப்பட்ட ஒற்றைப்படை எண்களின் கூட்டுச்சராசரி",
+        "options": [
+            "16",
+            "12",
+            "15",
+            "13"
+        ],
+        "correct": 2,
+        "explanation": "9 க்கும் 21 க்கும் இடைப்பட்ட ஒற்றை எண்கள்: 11, 13, 15, 17, 19. இவை கூட்டுத்தொடர் வரிசையில் இருப்பதால் நடுவில் உள்ள எண்ணே சராசரியாகும். சராசரி = 15.",
+        "question_en": "The arithmetic mean of odd numbers between 9 and 21 is",
+        "options_en": [
+            "16",
+            "12",
+            "15",
+            "13"
+        ],
+        "explanation_en": "The odd numbers are 11, 13, 15, 17, 19. Since they are in an arithmetic progression, the middle number is the average. Average = 15."
+    },
+    {
+        "id": 20,
+        "question": "7 இன் முதல் ஏழு மடங்குகளின் கூட்டுச்சராசரி",
+        "options": [
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "correct": 1,
+        "explanation": "7 இன் முதல் 7 மடங்குகள்: 7, 14, 21, 28, 35, 42, 49. இது ஒரு கூட்டுத்தொடர் வரிசை. இதன் நடு எண் 28 என்பதே சராசரியாகும்.",
+        "question_en": "The arithmetic mean of the first seven multiples of 7 is",
+        "options_en": [
+            "27",
+            "28",
+            "29",
+            "30"
+        ],
+        "explanation_en": "The multiples are 7, 14, 21, 28, 35, 42, 49. This is an arithmetic progression, so the middle term 28 is the mean."
+    },
+    {
+        "id": 21,
+        "question": "ஐந்து பாடங்களில் முகில் பெற்ற மதிப்பெண்கள் 75, 91, 48, 63, 51 எனில் கொடுக்கப்பட்ட தரவுகளின் சராசரி ஆகும்.",
+        "options": [
+            "75.6",
+            "65.6",
+            "48.7",
+            "51.9"
+        ],
+        "correct": 1,
+        "explanation": "சராசரி = (75 + 91 + 48 + 63 + 51) / 5 = 328 / 5 = 65.6.",
+        "question_en": "If Mugil's marks in five subjects are 75, 91, 48, 63, 51, the average of the given data is.",
+        "options_en": [
+            "75.6",
+            "65.6",
+            "48.7",
+            "51.9"
+        ],
+        "explanation_en": "Average = (75 + 91 + 48 + 63 + 51) / 5 = 328 / 5 = 65.6."
+    },
+    {
+        "id": 22,
+        "question": "காய்கறிகளுக்காக ஐந்து நாட்களுக்குச் செலவழித்த பணம் ₹120, ₹80, ₹75, ₹95 மற்றும் ₹86. கொடுக்கப்பட்ட தரவுகளின் சராசரி ஆகும்.",
+        "options": [
+            "₹92.1",
+            "₹91.2",
+            "₹93.4",
+            "₹96.5"
+        ],
+        "correct": 1,
+        "explanation": "கூடுதல் = 120 + 80 + 75 + 95 + 86 = 456. சராசரி = 456 / 5 = ₹91.2.",
+        "question_en": "The amount spent on vegetables for five days are ₹120, ₹80, ₹75, ₹95 and ₹86. The average of the given data is.",
+        "options_en": [
+            "₹92.1",
+            "₹91.2",
+            "₹93.4",
+            "₹96.5"
+        ],
+        "explanation_en": "Sum = 120 + 80 + 75 + 95 + 86 = 456. Average = 456 / 5 = ₹91.2."
+    },
+    {
+        "id": 23,
+        "question": "1/2, 2/3, 5/6, 1 ஆகிய விவரங்களின் சராசரி",
+        "options": [
+            "1/2",
+            "3/4",
+            "2/3",
+            "19/25"
+        ],
+        "correct": 1,
+        "explanation": "பின்னங்களின் கூடுதல் = 1/2 + 2/3 + 5/6 + 1 = 3/6 + 4/6 + 5/6 + 6/6 = 18/6 = 3. 4 விவரங்கள் உள்ளதால், சராசரி = 3 / 4.",
+        "question_en": "The average of the data 1/2, 2/3, 5/6, 1 is",
+        "options_en": [
+            "1/2",
+            "3/4",
+            "2/3",
+            "19/25"
+        ],
+        "explanation_en": "Sum of fractions = 1/2 + 2/3 + 5/6 + 1 = 3/6 + 4/6 + 5/6 + 6/6 = 18/6 = 3. Since there are 4 items, Average = 3 / 4."
+    },
+    {
+        "id": 24,
+        "question": "ஒரு வாரத்தில் கதிர் படிப்பதற்காக எடுத்துக் கொண்ட நேரம் 3 மணி, 4 மணி, 5 மணி, 3 மணி, 4 மணி, 4.45 மணி மற்றும் 4.15 மணி எனில், கொடுக்கப்பட்ட தரவுகளின் சராசரி",
+        "options": [
+            "3:45",
+            "3 மணி",
+            "4 மணி",
+            "4:20"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த நேரம் = 3 + 4 + 5 + 3 + 4 + 4.75 + 4.25 = 28 மணி. சராசரி = 28 / 7 = 4 மணி.",
+        "question_en": "If the time taken by Kathir to study in a week is 3 hrs, 4 hrs, 5 hrs, 3 hrs, 4 hrs, 4.45 hrs, and 4.15 hrs, the average of the given data is",
+        "options_en": [
+            "3:45",
+            "3 hrs",
+            "4 hrs",
+            "4:20"
+        ],
+        "explanation_en": "Total time = 3 + 4 + 5 + 3 + 4 + 4.75 + 4.25 = 28 hrs. Average = 28 / 7 = 4 hrs."
+    },
+    {
+        "id": 25,
+        "question": "இரண்டு எண்களின் சராசரி 20. அவற்றுள் ஓர் எண் 24 எனில், மற்றொரு எண்",
+        "options": [
+            "26",
+            "16",
+            "20",
+            "40"
+        ],
+        "correct": 1,
+        "explanation": "(x + 24) / 2 = 20 => x + 24 = 40 => x = 16.",
+        "question_en": "The average of two numbers is 20. If one of them is 24, the other number is",
+        "options_en": [
+            "26",
+            "16",
+            "20",
+            "40"
+        ],
+        "explanation_en": "(x + 24) / 2 = 20 => x + 24 = 40 => x = 16."
+    },
+    {
+        "id": 26,
+        "question": "தரவுகள் 12, x, 28 இன் சராசரி 18 எனில், x இன் மதிப்பு",
+        "options": [
+            "18",
+            "16",
+            "14",
+            "22"
+        ],
+        "correct": 2,
+        "explanation": "(12 + x + 28) / 3 = 18 => 40 + x = 54 => x = 14.",
+        "question_en": "If the average of the data 12, x, 28 is 18, then the value of x is",
+        "options_en": [
+            "18",
+            "16",
+            "14",
+            "22"
+        ],
+        "explanation_en": "(12 + x + 28) / 3 = 18 => 40 + x = 54 => x = 14."
+    },
+    {
+        "id": 27,
+        "question": "இரண்டு எண்களின் சராசரி 17. அவற்றுள் ஓர் எண் 14.5 எனில், மற்றொரு எண்",
+        "options": [
+            "19",
+            "17.5",
+            "20.5",
+            "19.5"
+        ],
+        "correct": 3,
+        "explanation": "(x + 14.5) / 2 = 17 => x + 14.5 = 34 => x = 19.5.",
+        "question_en": "The average of two numbers is 17. If one of them is 14.5, the other number is",
+        "options_en": [
+            "19",
+            "17.5",
+            "20.5",
+            "19.5"
+        ],
+        "explanation_en": "(x + 14.5) / 2 = 17 => x + 14.5 = 34 => x = 19.5."
+    },
+    {
+        "id": 28,
+        "question": "9, 6, 7, 8, 5 மற்றும் x ஆகியவற்றின் கூட்டுச்சராசரி 8 எனில், x இன் மதிப்பு",
+        "options": [
+            "10",
+            "13",
+            "15",
+            "12"
+        ],
+        "correct": 1,
+        "explanation": "(9 + 6 + 7 + 8 + 5 + x) / 6 = 8 => 35 + x = 48 => x = 13.",
+        "question_en": "If the arithmetic mean of 9, 6, 7, 8, 5 and x is 8, the value of x is",
+        "options_en": [
+            "10",
+            "13",
+            "15",
+            "12"
+        ],
+        "explanation_en": "(9 + 6 + 7 + 8 + 5 + x) / 6 = 8 => 35 + x = 48 => x = 13."
+    },
+    {
+        "id": 29,
+        "question": "8, 6, 9, x மற்றும் 12 இன் கூட்டுச்சராசரி 10 எனில், x இன் மதிப்பு",
+        "options": [
+            "48",
+            "12",
+            "13",
+            "15"
+        ],
+        "correct": 3,
+        "explanation": "(8 + 6 + 9 + x + 12) / 5 = 10 => 35 + x = 50 => x = 15.",
+        "question_en": "If the arithmetic mean of 8, 6, 9, x and 12 is 10, the value of x is",
+        "options_en": [
+            "48",
+            "12",
+            "13",
+            "15"
+        ],
+        "explanation_en": "(8 + 6 + 9 + x + 12) / 5 = 10 => 35 + x = 50 => x = 15."
+    },
+    {
+        "id": 30,
+        "question": "தரவுகள் 3, 4, 8, 5, x மற்றும் 3 இன் சராசரி 4 எனில், x இன் மதிப்பு",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "(3 + 4 + 8 + 5 + x + 3) / 6 = 4 => 23 + x = 24 => x = 1.",
+        "question_en": "If the average of the data 3, 4, 8, 5, x and 3 is 4, the value of x is",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "(3 + 4 + 8 + 5 + x + 3) / 6 = 4 => 23 + x = 24 => x = 1."
+    },
+    {
+        "id": 31,
+        "question": "48, x, 37, 38, 36, 27, 35, 34, 38, 49, 33 என்ற எண்களின் சராசரி 38 எனில், x இன் மதிப்பு",
+        "options": [
+            "33",
+            "42",
+            "44",
+            "43"
+        ],
+        "correct": 3,
+        "explanation": "மொத்தம் 11 எண்கள் உள்ளன. அவற்றின் கூடுதல் = 375 + x. சராசரி = 38 என்பதால், 375 + x = 11 * 38 = 418. எனவே x = 418 - 375 = 43.",
+        "question_en": "If the average of the numbers 48, x, 37, 38, 36, 27, 35, 34, 38, 49, 33 is 38, the value of x is",
+        "options_en": [
+            "33",
+            "42",
+            "44",
+            "43"
+        ],
+        "explanation_en": "There are 11 numbers. Sum = 375 + x. Since the average is 38, 375 + x = 11 * 38 = 418. Therefore, x = 418 - 375 = 43."
+    },
+    {
+        "id": 32,
+        "question": "6, 8, 9, 131, n ஆகியவற்றின் கூட்டுச்சராசரி 32 எனில், n இன் மதிப்பு",
+        "options": [
+            "6",
+            "55",
+            "8",
+            "160"
+        ],
+        "correct": 0,
+        "explanation": "5 எண்களின் சராசரி = 32. கூடுதல் = 160. 6 + 8 + 9 + 131 + n = 154 + n = 160 => n = 6.",
+        "question_en": "If the arithmetic mean of 6, 8, 9, 131, n is 32, the value of n is",
+        "options_en": [
+            "6",
+            "55",
+            "8",
+            "160"
+        ],
+        "explanation_en": "Average of 5 numbers = 32. Sum = 160. 6 + 8 + 9 + 131 + n = 154 + n = 160 => n = 6."
+    },
+    {
+        "id": 33,
+        "question": "8, 12, 20, x, 10 இன் சராசரி 13 எனில், x இன் மதிப்பு",
+        "options": [
+            "12",
+            "11",
+            "13",
+            "15"
+        ],
+        "correct": 3,
+        "explanation": "(8 + 12 + 20 + x + 10) / 5 = 13 => 50 + x = 65 => x = 15.",
+        "question_en": "If the average of 8, 12, 20, x, 10 is 13, the value of x is",
+        "options_en": [
+            "12",
+            "11",
+            "13",
+            "15"
+        ],
+        "explanation_en": "(8 + 12 + 20 + x + 10) / 5 = 13 => 50 + x = 65 => x = 15."
+    },
+    {
+        "id": 34,
+        "question": "15 புத்தகங்களின் சராசரி விற்பனை விலை ₹235 எனில், அவற்றின் மொத்த விற்பனை விலை",
+        "options": [
+            "₹1175",
+            "₹3525",
+            "₹15",
+            "₹235"
+        ],
+        "correct": 1,
+        "explanation": "மொத்த விற்பனை விலை = புத்தகங்களின் எண்ணிக்கை × சராசரி விலை = 15 × 235 = ₹3525.",
+        "question_en": "If the average selling price of 15 books is ₹235, their total selling price is",
+        "options_en": [
+            "₹1175",
+            "₹3525",
+            "₹15",
+            "₹235"
+        ],
+        "explanation_en": "Total selling price = Number of books × Average price = 15 × 235 = ₹3525."
+    },
+    {
+        "id": 35,
+        "question": "x பந்துகளின் சராசரி விலை (y + 4) எனில், பந்துகளின் மொத்த விலை ₹",
+        "options": [
+            "$1+\\frac{4}{y}$",
+            "$y^{2}+4y$",
+            "$xy+4x$",
+            "$2y+4$"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த விலை = பந்துகளின் எண்ணிக்கை × சராசரி விலை = x × (y + 4) = xy + 4x.",
+        "question_en": "If the average price of x balls is (y + 4), then the total price of the balls is ₹",
+        "options_en": [
+            "$1+\\frac{4}{y}$",
+            "$y^{2}+4y$",
+            "$xy+4x$",
+            "$2y+4$"
+        ],
+        "explanation_en": "Total price = Number of balls × Average price = x × (y + 4) = xy + 4x."
+    },
+    {
+        "id": 36,
+        "question": "10 மாணவர்களின் சராசரி எடை 75.5 கி.கி., அந்த 10 மாணவர்களின் மொத்த எடை",
+        "options": [
+            "7.55 கி.கி.",
+            "75.5 கி.கி.",
+            "755 கி.கி.",
+            "7550 கி.கி."
+        ],
+        "correct": 2,
+        "explanation": "மொத்த எடை = மாணவர்களின் எண்ணிக்கை × சராசரி எடை = 10 × 75.5 = 755 கி.கி.",
+        "question_en": "If the average weight of 10 students is 75.5 kg, the total weight of those 10 students is",
+        "options_en": [
+            "7.55 kg",
+            "75.5 kg",
+            "755 kg",
+            "7550 kg"
+        ],
+        "explanation_en": "Total weight = Number of students × Average weight = 10 × 75.5 = 755 kg."
+    },
+    {
+        "id": 37,
+        "question": "20 மதிப்புகளின் சராசரி 15.5 எனில், தரவுகளின் மொத்த மதிப்பு",
+        "options": [
+            "31",
+            "155",
+            "310",
+            "210"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த மதிப்பு = 20 × 15.5 = 310.",
+        "question_en": "If the average of 20 values is 15.5, the total value of the data is",
+        "options_en": [
+            "31",
+            "155",
+            "310",
+            "210"
+        ],
+        "explanation_en": "Total value = 20 × 15.5 = 310."
+    },
+    {
+        "id": 38,
+        "question": "100 மாணவர்கள் கொண்ட ஒரு வகுப்பின் சராசரி மதிப்பெண் 30. 50 மாணவர்கள் கொண்ட மற்றொரு வகுப்பின் சராசரி மதிப்பெண் 60 எனில், இரு வகுப்பில் உள்ள மொத்த மாணவர்களின் சராசரி மதிப்பெண்",
+        "options": [
+            "50",
+            "40",
+            "35",
+            "45"
+        ],
+        "correct": 1,
+        "explanation": "மொத்த மதிப்பெண் = (100 × 30) + (50 × 60) = 3000 + 3000 = 6000. மொத்த மாணவர்கள் = 100 + 50 = 150. புதிய சராசரி = 6000 / 150 = 40.",
+        "question_en": "The average mark of a class of 100 students is 30. The average mark of another class of 50 students is 60. Then the average mark of the total students in both classes is",
+        "options_en": [
+            "50",
+            "40",
+            "35",
+            "45"
+        ],
+        "explanation_en": "Total marks = (100 × 30) + (50 × 60) = 3000 + 3000 = 6000. Total students = 100 + 50 = 150. New average = 6000 / 150 = 40."
+    },
+    {
+        "id": 39,
+        "question": "சராசரியின் மதிப்பை 10.5 எனக் கொண்ட தொடர்ச்சியான இயல் எண் வரிசை",
+        "options": [
+            "4, 5, 12, 21",
+            "8, 9, 10, 15",
+            "10, 11, 5, 6",
+            "9, 10, 11, 12"
+        ],
+        "correct": 3,
+        "explanation": "9, 10, 11, 12 ஆகியவை தொடர்ச்சியான இயல் எண்கள். இவற்றின் சராசரி = (9 + 10 + 11 + 12) / 4 = 42 / 4 = 10.5.",
+        "question_en": "The sequence of consecutive natural numbers that has a mean value of 10.5 is",
+        "options_en": [
+            "4, 5, 12, 21",
+            "8, 9, 10, 15",
+            "10, 11, 5, 6",
+            "9, 10, 11, 12"
+        ],
+        "explanation_en": "9, 10, 11, 12 are consecutive natural numbers. Their average is (9 + 10 + 11 + 12) / 4 = 42 / 4 = 10.5."
+    },
+    {
+        "id": 40,
+        "question": "3, 6, 9, 12, 15 என்ற தரவுகளின் சராசரியுடன் 2 ஐக் கூட்டினால், தனிப்பட்ட தரவின் மதிப்புகள் ________ அதிகமாகும்.",
+        "options": [
+            "3",
+            "2",
+            "6",
+            "4"
+        ],
+        "correct": 1,
+        "explanation": "புள்ளியியல் பண்பின்படி, சராசரியில் 2ஐ கூட்ட வேண்டும் என்றால், ஒவ்வொரு தரவின் மதிப்பிலும் 2ஐ கூட்ட வேண்டும்.",
+        "question_en": "If 2 is added to the average of the data 3, 6, 9, 12, 15, the individual data values will increase by ________.",
+        "options_en": [
+            "3",
+            "2",
+            "6",
+            "4"
+        ],
+        "explanation_en": "By the properties of mean, if the average increases by 2, each individual data value must also be increased by 2."
+    },
+    {
+        "id": 41,
+        "question": "சில எண்களின் கூட்டுச்சராசரி 12. தரவுகளில் கொடுக்கப்பட்டிருக்கும் எண்களின் மதிப்பு ஒவ்வொன்றும் 3 அதிகரித்தால் கிடைக்கும் புதிய எண்களின் கூட்டுச்சராசரி",
+        "options": [
+            "12",
+            "15",
+            "9",
+            "36"
+        ],
+        "correct": 1,
+        "explanation": "ஒவ்வொரு தரவோடும் ஒரு மாறிலியைக் கூட்டினால், சராசரியும் அதே அளவால் அதிகரிக்கும். புதிய சராசரி = 12 + 3 = 15.",
+        "question_en": "The arithmetic mean of some numbers is 12. If the value of each given number in the data is increased by 3, the arithmetic mean of the new numbers will be",
+        "options_en": [
+            "12",
+            "15",
+            "9",
+            "36"
+        ],
+        "explanation_en": "If a constant is added to each observation, the mean increases by the same constant. New mean = 12 + 3 = 15."
+    },
+    {
+        "id": 42,
+        "question": "15 மதிப்புகளின் சராசரி 20. மதிப்புகள் ஒவ்வொன்றில் இருந்தும் 6 கழிக்கப்பட்டால் கிடைக்கும் புதிய தரவுகளின் சராசரி",
+        "options": [
+            "17",
+            "16",
+            "15",
+            "14"
+        ],
+        "correct": 3,
+        "explanation": "ஒவ்வொரு மதிப்பிலிருந்தும் 6 கழிக்கப்படுவதால், சராசரியும் 6 குறையும். புதிய சராசரி = 20 - 6 = 14.",
+        "question_en": "The average of 15 values is 20. If 6 is subtracted from each value, the average of the new data will be",
+        "options_en": [
+            "17",
+            "16",
+            "15",
+            "14"
+        ],
+        "explanation_en": "Since 6 is subtracted from each value, the mean also decreases by 6. New mean = 20 - 6 = 14."
+    },
+    {
+        "id": 43,
+        "question": "5 எண்களின் சராசரி 27 ஆகும். கொடுக்கப்பட்ட எண்களுடன் மேலும் ஓர் எண் சேர்க்கப்பட்ட பிறகு சராசரி மதிப்பு 25 எனில், புதியதாக சேர்க்கப்பட்ட எண்ணின் மதிப்பு",
+        "options": [
+            "15",
+            "57",
+            "52",
+            "17"
+        ],
+        "correct": 0,
+        "explanation": "5 எண்களின் கூடுதல் = 5 × 27 = 135. புதிய கூடுதல் (6 எண்களுக்கு) = 6 × 25 = 150. சேர்க்கப்பட்ட எண் = 150 - 135 = 15.",
+        "question_en": "The average of 5 numbers is 27. If the average becomes 25 after adding one more number, the value of the newly added number is",
+        "options_en": [
+            "15",
+            "57",
+            "52",
+            "17"
+        ],
+        "explanation_en": "Sum of 5 numbers = 5 × 27 = 135. New sum (for 6 numbers) = 6 × 25 = 150. Added number = 150 - 135 = 15."
+    },
+    {
+        "id": 44,
+        "question": "5 எண்களின் சராசரி 28. இந்த எண்களில் இருந்து ஒரு எண்ணை நீக்கினால், சராசரியின் மதிப்பு 3 குறைகிறது எனில், விலக்கப்பட்ட எண் யாது?",
+        "options": [
+            "70",
+            "40",
+            "30",
+            "23"
+        ],
+        "correct": 1,
+        "explanation": "5 எண்களின் கூடுதல் = 5 × 28 = 140. ஒரு எண்ணை நீக்கிய பின் சராசரி = 25. புதிய கூடுதல் (4 எண்களுக்கு) = 4 × 25 = 100. விலக்கப்பட்ட எண் = 140 - 100 = 40.",
+        "question_en": "The average of 5 numbers is 28. If one number is removed from them, the average decreases by 3. What is the excluded number?",
+        "options_en": [
+            "70",
+            "40",
+            "30",
+            "23"
+        ],
+        "explanation_en": "Sum of 5 numbers = 5 × 28 = 140. Average after removal = 25. New sum (for 4 numbers) = 4 × 25 = 100. Excluded number = 140 - 100 = 40."
+    },
+    {
+        "id": 45,
+        "question": "5 எண்களின் கூட்டுச்சராசரி 25. அவற்றில் இருந்து ஒரு எண்ணை நீக்கினால் அவற்றின் கூட்டுச்சராசரி 20 எனில், நீக்கப்பட்ட எண்ணானது",
+        "options": [
+            "45",
+            "40",
+            "20",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "5 எண்களின் கூடுதல் = 5 × 25 = 125. 4 எண்களின் கூடுதல் = 4 × 20 = 80. நீக்கப்பட்ட எண் = 125 - 80 = 45.",
+        "question_en": "The arithmetic mean of 5 numbers is 25. If one number is excluded, their arithmetic mean becomes 20. The excluded number is",
+        "options_en": [
+            "45",
+            "40",
+            "20",
+            "10"
+        ],
+        "explanation_en": "Sum of 5 numbers = 5 × 25 = 125. Sum of 4 numbers = 4 × 20 = 80. Excluded number = 125 - 80 = 45."
+    },
+    {
+        "id": 46,
+        "question": "5 மாணவர்களின் சராசரி மதிப்பெண் 9 ஆகும். மேலும் ஒரு மாணவன் சேர்க்கப்பட்ட பின்பும் சராசரி மாறாமல் உள்ளது எனில், புதிதாகச் சேர்க்கப்பட்ட மாணவனின் மதிப்பெண் என்ன?",
+        "options": [
+            "0",
+            "9",
+            "5",
+            "6"
+        ],
+        "correct": 1,
+        "explanation": "சராசரி மாறாமல் இருப்பதால், புதிதாக சேர்க்கப்பட்ட மாணவனின் மதிப்பெண்ணும் சராசரியான 9 க்கு சமமாகவே இருக்கும்.",
+        "question_en": "The average mark of 5 students is 9. If the average remains unchanged even after adding one more student, what is the mark of the newly added student?",
+        "options_en": [
+            "0",
+            "9",
+            "5",
+            "6"
+        ],
+        "explanation_en": "Since the average remains unchanged, the newly added student's mark must be equal to the average, which is 9."
+    },
+    {
+        "id": 47,
+        "question": "குறிப்பிட்ட 3 எண்களின் கூட்டுச்சராசரி 8, இம்மூன்று எண்களுடன் மேலும் ஓர் எண்ணைச் சேர்த்தால் கிடைக்கும் தரவின் சராசரி 7 எனில், சேர்க்கப்பட்ட எண்",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct": 2,
+        "explanation": "3 எண்களின் கூடுதல் = 3 × 8 = 24. 4 எண்களின் கூடுதல் = 4 × 7 = 28. சேர்க்கப்பட்ட எண் = 28 - 24 = 4.",
+        "question_en": "The arithmetic mean of 3 specific numbers is 8. If one more number is added to these three numbers, the average of the data becomes 7. The added number is",
+        "options_en": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "explanation_en": "Sum of 3 numbers = 3 × 8 = 24. Sum of 4 numbers = 4 × 7 = 28. Added number = 28 - 24 = 4."
+    },
+    {
+        "id": 48,
+        "question": "ஒரு பேட்ஸ்மேன் 10 போட்டிகளில் சராசரியாக 36.5 ரன்கள் எடுத்துள்ளார். அடுத்த 2 போட்டிகளில் சராசரி 40 ஆக இன்னும் எத்தனை ரன்கள் எடுக்க வேண்டும்?",
+        "options": [
+            "100",
+            "110",
+            "115",
+            "120"
+        ],
+        "correct": 2,
+        "explanation": "10 போட்டிகளின் ரன்கள் = 10 × 36.5 = 365. 12 போட்டிகளின் மொத்த ரன்கள் = 12 × 40 = 480. தேவையான ரன்கள் = 480 - 365 = 115.",
+        "question_en": "A batsman has scored an average of 36.5 runs in 10 matches. How many more runs must he score in the next 2 matches to bring his average to 40?",
+        "options_en": [
+            "100",
+            "110",
+            "115",
+            "120"
+        ],
+        "explanation_en": "Runs from 10 matches = 10 × 36.5 = 365. Total runs for 12 matches = 12 × 40 = 480. Required runs = 480 - 365 = 115."
+    },
+    {
+        "id": 49,
+        "question": "ஒரு வகுப்பில் 12 மாணவர்களின் சராசரி உயரம் 152 செ.மீ. எனக் கணக்கிடப்பட்டது. சரிபார்க்கும் போது 172 செ.மீ. என்பது 148 செ.மீ. என தவறாக எடுத்துக் கொள்ளப்பட்டதாக தெரிய வந்தது எனில், சரியான சராசரி உயரம் யாது?",
+        "options": [
+            "150 செ.மீ.",
+            "156 செ.மீ.",
+            "158 செ.மீ.",
+            "154 செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "ஏற்பட்ட பிழை = 172 - 148 = +24. திருத்தப்பட்ட கூடுதல் = (12 × 152) + 24 = 1824 + 24 = 1848. சரியான சராசரி = 1848 / 12 = 154 செ.மீ.",
+        "question_en": "The average height of 12 students in a class was calculated as 152 cm. On verification, it was found that 172 cm was wrongly taken as 148 cm. What is the correct average height?",
+        "options_en": [
+            "150 cm",
+            "156 cm",
+            "158 cm",
+            "154 cm"
+        ],
+        "explanation_en": "Error = 172 - 148 = +24. Corrected sum = (12 × 152) + 24 = 1824 + 24 = 1848. Correct average = 1848 / 12 = 154 cm."
+    },
+    {
+        "id": 50,
+        "question": "100 மாணவர்களின் மதிப்பெண்களின் சராசரி 40 என்று கணக்கிடப்பட்டது. பின்பு 53 என்ற மதிப்பெண் 83 என்று தவறுதலாக எடுக்கப்பட்டது தெரிய வந்தது. சரியான மதிப்பெண்களைக் கொண்டு சரியான சராசரியைக் காண்க.",
+        "options": [
+            "39.7",
+            "3970",
+            "3.97",
+            "397"
+        ],
+        "correct": 0,
+        "explanation": "பிழை = 53 - 83 = -30. திருத்தப்பட்ட கூடுதல் = (100 × 40) - 30 = 4000 - 30 = 3970. சரியான சராசரி = 3970 / 100 = 39.7.",
+        "question_en": "The average mark of 100 students was calculated as 40. Later it was discovered that a mark of 53 was mistakenly taken as 83. Find the correct average using the correct marks.",
+        "options_en": [
+            "39.7",
+            "3970",
+            "3.97",
+            "397"
+        ],
+        "explanation_en": "Error = 53 - 83 = -30. Corrected sum = (100 × 40) - 30 = 4000 - 30 = 3970. Correct average = 3970 / 100 = 39.7."
+    },
+    {
+        "id": 51,
+        "question": "10 மாணவர்களின் எடைகளின் சராசரி 32 கி.கி. என கண்டறியப்பட்டது. பிறகு தரவுகளைச் சோதித்ததில் ஒரு மாணவனது எடை 28 கி.கி. என்பதற்குப் பதிலாக 38 கி.கி. என தவறாகக் கணக்கிடப்பட்டிருப்பது தெரியவந்தது எனில், அம்மாணவர்களின் சரியான சராசரி",
+        "options": [
+            "34.75 கி.கி.",
+            "33.75 கி.கி.",
+            "31 கி.கி.",
+            "33 கி.கி."
+        ],
+        "correct": 2,
+        "explanation": "தவறான கூடுதல் = 32 × 10 = 320. சரியான கூடுதல் = 320 - 38 + 28 = 310. சரியான சராசரி = 310 / 10 = 31 கி.கி.",
+        "question_en": "The average weight of 10 students was found to be 32 kg. Later it was found that one student's weight was wrongly taken as 38 kg instead of 28 kg. The correct average of the students is",
+        "options_en": [
+            "34.75 kg",
+            "33.75 kg",
+            "31 kg",
+            "33 kg"
+        ],
+        "explanation_en": "Wrong sum = 32 × 10 = 320. Correct sum = 320 - 38 + 28 = 310. Correct average = 310 / 10 = 31 kg."
+    },
+    {
+        "id": 52,
+        "question": "5 எண்களின் கூடுதல் 555, முதல் இரு எண்களின் சராசரி 75, மூன்றாவது எண் 115 எனில், கடைசி இரு எண்களின் கூட்டுச்சராசரி",
+        "options": [
+            "145",
+            "290",
+            "265",
+            "150"
+        ],
+        "correct": 0,
+        "explanation": "முதல் இரு எண்களின் கூடுதல் = 2 × 75 = 150. கடைசி இரு எண்களின் கூடுதல் = 555 - 150 - 115 = 290. கடைசி இரு எண்களின் சராசரி = 290 / 2 = 145.",
+        "question_en": "The sum of 5 numbers is 555. If the average of the first two numbers is 75 and the third number is 115, then the arithmetic mean of the last two numbers is",
+        "options_en": [
+            "145",
+            "290",
+            "265",
+            "150"
+        ],
+        "explanation_en": "Sum of first two = 2 × 75 = 150. Sum of last two = 555 - 150 - 115 = 290. Average of last two = 290 / 2 = 145."
+    },
+    {
+        "id": 53,
+        "question": "10 எண்களின் சராசரி மதிப்பு 7 மற்றும் 15 எண்களின் சராசரி மதிப்பு 12 எனில் மொத்த தரவுகளின் சராசரி மதிப்பு",
+        "options": [
+            "25",
+            "19",
+            "10",
+            "20"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த கூடுதல் = (10 × 7) + (15 × 12) = 70 + 180 = 250. மொத்த எண்களின் எண்ணிக்கை = 10 + 15 = 25. சராசரி = 250 / 25 = 10.",
+        "question_en": "If the average of 10 numbers is 7 and the average of 15 numbers is 12, then the average of the total data is",
+        "options_en": [
+            "25",
+            "19",
+            "10",
+            "20"
+        ],
+        "explanation_en": "Total sum = (10 × 7) + (15 × 12) = 70 + 180 = 250. Total numbers = 10 + 15 = 25. Average = 250 / 25 = 10."
+    },
+    {
+        "id": 54,
+        "question": "$X_{1}$, $X_{2}$ ஆகிய இரு எண்களின் சராசரி 6 மற்றும் $X_{1}, X_{2}, X_{3}$ ஆகிய மூன்று எண்களின் சராசரி 7 எனில், $X_{3}$ இன் மதிப்பு",
+        "options": [
+            "1",
+            "8",
+            "9",
+            "5"
+        ],
+        "correct": 2,
+        "explanation": "$X_1 + X_2 = 2 \\times 6 = 12$. $X_1 + X_2 + X_3 = 3 \\times 7 = 21$. எனவே, $X_3 = 21 - 12 = 9$.",
+        "question_en": "If the average of two numbers $X_{1}, X_{2}$ is 6 and the average of three numbers $X_{1}, X_{2}, X_{3}$ is 7, then the value of $X_{3}$ is",
+        "options_en": [
+            "1",
+            "8",
+            "9",
+            "5"
+        ],
+        "explanation_en": "$X_1 + X_2 = 2 \\times 6 = 12$. $X_1 + X_2 + X_3 = 3 \\times 7 = 21$. Therefore, $X_3 = 21 - 12 = 9$."
+    },
+    {
+        "id": 55,
+        "question": "$2-a$, $a$, $a+2$ என்ற விவரத்தின் கூட்டுச்சராசரி",
+        "options": [
+            "a",
+            "$\\frac{a-2}{3}$",
+            "$\\frac{a+3}{3}$",
+            "$\\frac{a+4}{3}$"
+        ],
+        "correct": 3,
+        "explanation": "கூடுதல் = $(2-a) + a + (a+2) = a + 4$. சராசரி = $\\frac{a+4}{3}$.",
+        "question_en": "The arithmetic mean of the data $2-a$, $a$, $a+2$ is",
+        "options_en": [
+            "a",
+            "$\\frac{a-2}{3}$",
+            "$\\frac{a+3}{3}$",
+            "$\\frac{a+4}{3}$"
+        ],
+        "explanation_en": "Sum = $(2-a) + a + (a+2) = a + 4$. Mean = $\\frac{a+4}{3}$."
+    },
+    {
+        "id": 56,
+        "question": "$x+1$ என்ற எண்ணை முதல் எண்ணாகக் கொண்டு அமையும் இயல் எண் தொடர்வரிசையின் முதல் 10 எண்களின் சராசரி",
+        "options": [
+            "$x+5$",
+            "$x-5$",
+            "$x+5.5$",
+            "$x-5.5$"
+        ],
+        "correct": 2,
+        "explanation": "தொடர் எண்கள்: $(x+1), (x+2), \\dots, (x+10)$. இவற்றின் சராசரி நடுவில் உள்ள மதிப்பாகும், அதாவது $(x+5)$ மற்றும் $(x+6)$ ஆகியவற்றின் சராசரி. எனவே $x+5.5$.",
+        "question_en": "The average of the first 10 numbers of a natural number sequence starting with $x+1$ is",
+        "options_en": [
+            "$x+5$",
+            "$x-5$",
+            "$x+5.5$",
+            "$x-5.5$"
+        ],
+        "explanation_en": "The numbers are $(x+1), (x+2), \\dots, (x+10)$. The average is the middle value, which is exactly between $(x+5)$ and $(x+6)$, giving $x+5.5$."
+    },
+    {
+        "id": 57,
+        "question": "தொடர்ச்சியான 5 ஒற்றைப்படை எண்கள் முறையே a, b, c, d, e எனில், இவ்வெண்களின் சராசரி மதிப்பு",
+        "options": [
+            "$a-4$",
+            "$a+4$",
+            "$5(a+b+c+d+e)$",
+            "$\\frac{abcde}{5}$"
+        ],
+        "correct": 1,
+        "explanation": "தொடர்ச்சியான ஒற்றை எண்கள் $a, a+2, a+4, a+6, a+8$ என அமையும். இதன் சராசரி நடு எண்ணான $c$ ஆகும். $c = a+4$.",
+        "question_en": "If a, b, c, d, e are 5 consecutive odd numbers respectively, their average value is",
+        "options_en": [
+            "$a-4$",
+            "$a+4$",
+            "$5(a+b+c+d+e)$",
+            "$\\frac{abcde}{5}$"
+        ],
+        "explanation_en": "Consecutive odd numbers can be written as $a, a+2, a+4, a+6, a+8$. Their average is the middle term, $c = a+4$."
+    },
+    {
+        "id": 58,
+        "question": "இரு எண்களின் சராசரி மற்றும் வீச்சு முறையே 6 மற்றும் 4 எனில், இவ்விரு எண்கள்",
+        "options": [
+            "10, 6",
+            "8, 4",
+            "6, 2",
+            "9, 5"
+        ],
+        "correct": 1,
+        "explanation": "$\\frac{x+y}{2} = 6 \\implies x+y = 12$. வீச்சு $x-y = 4$. இவ்விரண்டையும் கூட்ட $2x = 16 \\implies x = 8$. எனவே $y = 4$.",
+        "question_en": "If the average and range of two numbers are 6 and 4 respectively, the two numbers are",
+        "options_en": [
+            "10, 6",
+            "8, 4",
+            "6, 2",
+            "9, 5"
+        ],
+        "explanation_en": "$\\frac{x+y}{2} = 6 \\implies x+y = 12$. Range $x-y = 4$. Adding these gives $2x = 16 \\implies x = 8$. So, $y = 4$."
+    },
+    {
+        "id": 59,
+        "question": "a, b, c, d, e இவற்றின் சராசரி 28 மற்றும் a, c, e இவற்றின் சராசரி 24 எனில், b, d இன் சராசரி",
+        "options": [
+            "31",
+            "32",
+            "33",
+            "34"
+        ],
+        "correct": 3,
+        "explanation": "$a+b+c+d+e = 5 \\times 28 = 140$. $a+c+e = 3 \\times 24 = 72$. எனவே, $b+d = 140 - 72 = 68$. $b, d$ இன் சராசரி = $68 / 2 = 34$.",
+        "question_en": "If the average of a, b, c, d, e is 28 and the average of a, c, e is 24, then the average of b, d is",
+        "options_en": [
+            "31",
+            "32",
+            "33",
+            "34"
+        ],
+        "explanation_en": "$a+b+c+d+e = 5 \\times 28 = 140$. $a+c+e = 3 \\times 24 = 72$. Thus, $b+d = 140 - 72 = 68$. Average of $b, d$ = $68 / 2 = 34$."
+    },
+    {
+        "id": 60,
+        "question": "x, $x+2$, $x+4$, $x+6$, $x+8$ என்ற தரவுகளின் சராசரி 11 எனில், முதல் மூன்று மதிப்பின் சராசரி",
+        "options": [
+            "9",
+            "11",
+            "13",
+            "15"
+        ],
+        "correct": 0,
+        "explanation": "சராசரி நடு எண்ணான $x+4$ ஆகும். $x+4 = 11 \\implies x = 7$. முதல் 3 எண்கள்: 7, 9, 11. இவற்றின் சராசரி = 9.",
+        "question_en": "If the average of the data x, $x+2$, $x+4$, $x+6$, $x+8$ is 11, the average of the first three values is",
+        "options_en": [
+            "9",
+            "11",
+            "13",
+            "15"
+        ],
+        "explanation_en": "The average is the middle term, $x+4 = 11 \\implies x = 7$. The first 3 numbers are 7, 9, 11. Their average is 9."
+    },
+    {
+        "id": 61,
+        "question": "a, b, c என்ற எண்களில் $a-b=b-c$ எனில், கொடுக்கப்பட்ட எண்களின் சராசரி மதிப்பு",
+        "options": [
+            "a",
+            "b",
+            "c",
+            "$\\frac{abc}{3}$"
+        ],
+        "correct": 1,
+        "explanation": "$a-b = b-c \\implies a+c = 2b$. சராசரி = $\\frac{a+b+c}{3} = \\frac{2b+b}{3} = \\frac{3b}{3} = b$.",
+        "question_en": "In the numbers a, b, c, if $a-b=b-c$, the average value of the given numbers is",
+        "options_en": [
+            "a",
+            "b",
+            "c",
+            "$\\frac{abc}{3}$"
+        ],
+        "explanation_en": "$a-b = b-c \\implies a+c = 2b$. Average = $\\frac{a+b+c}{3} = \\frac{2b+b}{3} = \\frac{3b}{3} = b$."
+    },
+    {
+        "id": 62,
+        "question": "1, 3, 5, 7, ... என்ற வரிசையில் முதல் n உறுப்புகளின் சராசரி",
+        "options": [
+            "n",
+            "$\\frac{n}{2}$",
+            "$\\frac{n}{3}$",
+            "$\\frac{2n}{3}$"
+        ],
+        "correct": 0,
+        "explanation": "முதல் n ஒற்றை எண்களின் கூடுதல் $n^2$. எனவே அவற்றின் சராசரி = $n^2 / n = n$.",
+        "question_en": "The average of the first n terms in the sequence 1, 3, 5, 7, ... is",
+        "options_en": [
+            "n",
+            "$\\frac{n}{2}$",
+            "$\\frac{n}{3}$",
+            "$\\frac{2n}{3}$"
+        ],
+        "explanation_en": "The sum of the first n odd numbers is $n^2$. Thus, their average is $n^2 / n = n$."
+    },
+    {
+        "id": 63,
+        "question": "4 தொழிலாளிகள் பெரும் தினக்கூலியின் சராசரி ₹180. இதில் புதியதாக ஒரு தொழிலாளி சேர்க்கப்பட்டால், தொழிலாளிகள் பெறும் தினக்கூலியின் சராசரி ₹185 எனில், புதியதாக சேர்க்கப்பட்ட தொழிலாளியின் தினக்கூலி",
+        "options": [
+            "₹200",
+            "₹205",
+            "₹195",
+            "₹204"
+        ],
+        "correct": 1,
+        "explanation": "4 பேரின் கூடுதல் = $4 \\times 180 = 720$. 5 பேரின் கூடுதல் = $5 \\times 185 = 925$. புதிய தொழிலாளியின் கூலி = $925 - 720 = 205$.",
+        "question_en": "The average daily wage of 4 workers is ₹180. If a new worker is added, the average daily wage becomes ₹185. The daily wage of the newly added worker is",
+        "options_en": [
+            "₹200",
+            "₹205",
+            "₹195",
+            "₹204"
+        ],
+        "explanation_en": "Sum of 4 = $4 \\times 180 = 720$. Sum of 5 = $5 \\times 185 = 925$. Wage of new worker = $925 - 720 = 205$."
+    },
+    {
+        "id": 64,
+        "question": "மூன்று எண்களின் சராசரி 135. இவற்றில் மிகப்பெரிய எண் 180. மீதமுள்ள இரு எண்களின் வித்தியாசம் 25 எனில், மிகச்சிறிய எண்ணின் மதிப்பு",
+        "options": [
+            "125",
+            "100",
+            "135",
+            "90"
+        ],
+        "correct": 1,
+        "explanation": "மூன்று எண்களின் கூடுதல் = $3 \\times 135 = 405$. மற்ற இரு எண்களின் கூடுதல் = $405 - 180 = 225$. $a+b=225$, $a-b=25$. கூட்டினால் $2a = 250 \\implies a = 125$. சிறிய எண் $b = 100$.",
+        "question_en": "The average of three numbers is 135. The largest among them is 180. If the difference between the other two numbers is 25, the value of the smallest number is",
+        "options_en": [
+            "125",
+            "100",
+            "135",
+            "90"
+        ],
+        "explanation_en": "Sum of three = $3 \\times 135 = 405$. Sum of other two = $405 - 180 = 225$. $a+b=225$, $a-b=25$. Adding gives $2a = 250 \\implies a = 125$. Smallest is $b = 100$."
+    },
+    {
+        "id": 65,
+        "question": "இரண்டு எண்களைக் கொண்ட தரவுகளில் முதல் எண் இரண்டாவது எண்ணைப் போல் இரு மடங்கு ஆகும். இரண்டு எண்களின் சராசரி 72 எனில், தரவுகளின் மிகச் சிறிய எண்",
+        "options": [
+            "72",
+            "36",
+            "48",
+            "144"
+        ],
+        "correct": 2,
+        "explanation": "எண்கள் $2x$ மற்றும் $x$. இவற்றின் சராசரி = $\\frac{3x}{2} = 72 \\implies 3x = 144 \\implies x = 48$. மிகச்சிறிய எண் 48.",
+        "question_en": "In a data with two numbers, the first number is twice the second number. If the average of the two numbers is 72, the smallest number of the data is",
+        "options_en": [
+            "72",
+            "36",
+            "48",
+            "144"
+        ],
+        "explanation_en": "Numbers are $2x$ and $x$. Average = $\\frac{3x}{2} = 72 \\implies 3x = 144 \\implies x = 48$. Smallest number is 48."
+    },
+    {
+        "id": 66,
+        "question": "$X_{1}, X_{2}, \\dots, X_{5}$ என்ற மதிப்புகளின் சராசரி 20 எனில், $X_{1}+2, X_{2}+4, \\dots, X_{5}+10$ என்ற மதிப்புகளின் சராசரி",
+        "options": [
+            "26",
+            "30",
+            "23",
+            "31"
+        ],
+        "correct": 0,
+        "explanation": "பழைய கூடுதல் = $5 \\times 20 = 100$. புதிய எண்களின் கூடுதல் = $100 + (2+4+6+8+10) = 100 + 30 = 130$. புதிய சராசரி = $130 / 5 = 26$.",
+        "question_en": "If the average of values $X_{1}, X_{2}, \\dots, X_{5}$ is 20, the average of values $X_{1}+2, X_{2}+4, \\dots, X_{5}+10$ is",
+        "options_en": [
+            "26",
+            "30",
+            "23",
+            "31"
+        ],
+        "explanation_en": "Old sum = $5 \\times 20 = 100$. New sum = $100 + (2+4+6+8+10) = 100 + 30 = 130$. New average = $130 / 5 = 26$."
+    },
+    {
+        "id": 67,
+        "question": "தரவுகள் 1, 3, 4, 5, 7, 4 இன் சராசரி மதிப்பு m. மேலும் தரவுகள் 3, 2, 2, 4, 3, 3, p இன் சராசரி மற்றும் நடுநிலையளவு முறையே $m-1$, q எனில், $p+q$ இன் மதிப்பு",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 2,
+        "explanation": "$1+3+4+5+7+4 = 24$. $m = 24/6 = 4$. அடுத்த தரவின் சராசரி $m-1 = 3$. $(3+2+2+4+3+3+p)/7 = 3 \\implies 17+p = 21 \\implies p=4$. தரவை ஏறுவரிசையில் எழுதினால்: 2, 2, 3, 3, 3, 4, 4. இதன் நடுநிலையளவு $q = 3$. $p+q = 4+3 = 7$.",
+        "question_en": "The average value of the data 1, 3, 4, 5, 7, 4 is m. Also, if the average and median of the data 3, 2, 2, 4, 3, 3, p are $m-1$ and q respectively, the value of $p+q$ is",
+        "options_en": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "explanation_en": "$1+3+4+5+7+4 = 24$. $m = 24/6 = 4$. Avg of second data is $m-1 = 3$. $(3+2+2+4+3+3+p)/7 = 3 \\implies 17+p = 21 \\implies p=4$. Sorted data: 2, 2, 3, 3, 3, 4, 4. Median $q = 3$. $p+q = 4+3 = 7$."
+    },
+    {
+        "id": 68,
+        "question": "m மாணவர்களின் சராசரி வயது x ஆண்டுகள், n மாணவிகளின் சராசரி வயது y ஆண்டுகள் எனில், மொத்த மாணாக்கர்களின் சராசரி வயது",
+        "options": [
+            "$\\frac{mx-ny}{m-n}$",
+            "$\\frac{my-nx}{m-n}$",
+            "$\\frac{mx+ny}{m+n}$",
+            "$\\frac{my+nx}{m+n}$"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த வயது = $m \\times x + n \\times y = mx + ny$. மொத்த மாணாக்கர்கள் = $m + n$. சராசரி = $\\frac{mx+ny}{m+n}$.",
+        "question_en": "If the average age of m boys is x years and the average age of n girls is y years, the average age of all the students is",
+        "options_en": [
+            "$\\frac{mx-ny}{m-n}$",
+            "$\\frac{my-nx}{m-n}$",
+            "$\\frac{mx+ny}{m+n}$",
+            "$\\frac{my+nx}{m+n}$"
+        ],
+        "explanation_en": "Total age = $mx + ny$. Total students = $m + n$. Average = $\\frac{mx+ny}{m+n}$."
+    },
+    {
+        "id": 69,
+        "question": "________ என்பது அதிகபட்ச எண்ணிக்கையில் நிகழும் தரவுகளின் மதிப்பாகும்.",
+        "options": [
+            "முகடு",
+            "வீச்சு",
+            "சராசரி",
+            "இடைநிலை"
+        ],
+        "correct": 0,
+        "explanation": "அதிகமுறை திரும்ப வரும் (நிகழும்) தரவின் மதிப்பு முகடு (Mode) எனப்படும்.",
+        "question_en": "________ is the value of the data that occurs the maximum number of times.",
+        "options_en": [
+            "Mode",
+            "Range",
+            "Mean",
+            "Median"
+        ],
+        "explanation_en": "The value that appears most frequently in a data set is called the Mode."
+    },
+    {
+        "id": 70,
+        "question": "ஒவ்வொரு மதிப்பையும் ஒருமுறை மட்டுமே பெற்றுள்ள தரவுகளின் முகடு",
+        "options": [
+            "இரு முகடுகள்",
+            "மூன்று முகடுகள்",
+            "பன்முகடுகள்",
+            "முகடு இல்லை"
+        ],
+        "correct": 3,
+        "explanation": "எந்தவொரு மதிப்பும் மீண்டும் நிகழவில்லை என்றால், அந்தத் தரவிற்கு முகடு இல்லை.",
+        "question_en": "The mode of data where each value occurs exactly once is",
+        "options_en": [
+            "Bimodal",
+            "Trimodal",
+            "Multimodal",
+            "No mode"
+        ],
+        "explanation_en": "If no value repeats in a dataset, the dataset has no mode."
+    },
+    {
+        "id": 71,
+        "question": "ஆறு மாணவர்கள் வரைவதற்காகப் பயன்படுத்தும் வண்ணங்கள் முறையே நீலம், ஆரஞ்சு, மஞ்சள், வெள்ளை, பச்சை மற்றும் நீலம் எனில், இவற்றின் முகடு",
+        "options": [
+            "ஆரஞ்சு",
+            "நீலம்",
+            "வெள்ளை",
+            "பச்சை"
+        ],
+        "correct": 1,
+        "explanation": "நீலம் என்ற வண்ணம் அதிகபட்சமாக இருமுறை வந்துள்ளது. எனவே முகடு நீலம்.",
+        "question_en": "If the colors used by six students for drawing are blue, orange, yellow, white, green, and blue respectively, their mode is",
+        "options_en": [
+            "Orange",
+            "Blue",
+            "White",
+            "Green"
+        ],
+        "explanation_en": "The color blue appears the maximum number of times (twice). Thus, the mode is blue."
+    },
+    {
+        "id": 72,
+        "question": "3, 6, 9, 12, 15 என்ற தரவுகளின் முகடு",
+        "options": [
+            "3",
+            "6",
+            "15",
+            "முகடு இல்லை"
+        ],
+        "correct": 3,
+        "explanation": "அனைத்து மதிப்புகளும் தலா ஒருமுறை மட்டுமே வந்துள்ளதால் முகடு இல்லை.",
+        "question_en": "The mode of the data 3, 6, 9, 12, 15 is",
+        "options_en": [
+            "3",
+            "6",
+            "15",
+            "No mode"
+        ],
+        "explanation_en": "All values occur exactly once, so there is no mode."
+    },
+    {
+        "id": 73,
+        "question": "2, 1, 1, 2, 3, 4, 5 என்ற தரவுகளின் முகடு / முகடுகள்",
+        "options": [
+            "2",
+            "1",
+            "முகடு இல்லை",
+            "1 மற்றும் 2"
+        ],
+        "correct": 3,
+        "explanation": "இத்தரவில் 1 மற்றும் 2 ஆகிய இரண்டு மதிப்புகளும் அதிகபட்சமாக தலா இரண்டு முறை வந்துள்ளன. எனவே இரண்டு முகடுகள் உள்ளன.",
+        "question_en": "The mode(s) of the data 2, 1, 1, 2, 3, 4, 5 is/are",
+        "options_en": [
+            "2",
+            "1",
+            "No mode",
+            "1 and 2"
+        ],
+        "explanation_en": "Both 1 and 2 occur a maximum of two times each. Thus, there are two modes."
+    },
+    {
+        "id": 74,
+        "question": "6, 5, 5, 4, 5, 3, 2, 2, 5, 6 இன் முகடு",
+        "options": [
+            "6",
+            "2",
+            "5",
+            "4"
+        ],
+        "correct": 2,
+        "explanation": "இத்தரவில் 5 ஆனது அதிகபட்சமாக 4 முறை வந்துள்ளது. எனவே முகடு 5.",
+        "question_en": "The mode of 6, 5, 5, 4, 5, 3, 2, 2, 5, 6 is",
+        "options_en": [
+            "6",
+            "2",
+            "5",
+            "4"
+        ],
+        "explanation_en": "The number 5 occurs the maximum number of times (4 times). So, the mode is 5."
+    },
+    {
+        "id": 75,
+        "question": "தரவுகள் 28, 40, 35, 40, 7, 41, 36 மற்றும் 8 எனில் அவற்றின் முகடு",
+        "options": [
+            "8",
+            "28",
+            "35",
+            "40"
+        ],
+        "correct": 3,
+        "explanation": "இத்தரவில் 40 மட்டுமே இரண்டு முறை வந்துள்ளது. எனவே முகடு 40.",
+        "question_en": "If the data are 28, 40, 35, 40, 7, 41, 36 and 8, their mode is",
+        "options_en": [
+            "8",
+            "28",
+            "35",
+            "40"
+        ],
+        "explanation_en": "The number 40 appears twice, which is more than any other number. Thus, the mode is 40."
+    },
+    {
+        "id": 76,
+        "question": "தரவுகள் 2, 3, 3, 2, 1, 1, 3 என்பதன் முகடு P எனில், P இன் மதிப்பு",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 2,
+        "explanation": "3 என்ற எண் அதிகபட்சமாக 3 முறை வந்துள்ளது. எனவே P = 3.",
+        "question_en": "If the mode of the data 2, 3, 3, 2, 1, 1, 3 is P, then the value of P is",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "The number 3 appears a maximum of 3 times. Thus, P = 3."
+    },
+    {
+        "id": 77,
+        "question": "2, 2, 2, 3, 3, 5, 4, 6, 8, 6, 5 என்ற விவரத்தின் முகடு",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "correct": 0,
+        "explanation": "2 என்ற எண் அதிகபட்சமாக 3 முறை வந்துள்ளது. எனவே முகடு 2.",
+        "question_en": "The mode of the data 2, 2, 2, 3, 3, 5, 4, 6, 8, 6, 5 is",
+        "options_en": [
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "explanation_en": "The number 2 appears the maximum number of times (3 times). Thus, the mode is 2."
+    },
+    {
+        "id": 78,
+        "question": "20 க்குள் உள்ள இரட்டை எண்களின் முகடு",
+        "options": [
+            "10",
+            "20",
+            "முகடு இல்லை",
+            "ஏதுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "20 க்குள் உள்ள இரட்டை எண்கள் ஒவ்வொன்றும் (2, 4, 6... 18) ஒருமுறை மட்டுமே வருவதால் அவற்றுக்கு முகடு இல்லை.",
+        "question_en": "The mode of even numbers less than 20 is",
+        "options_en": [
+            "10",
+            "20",
+            "No mode",
+            "None"
+        ],
+        "explanation_en": "Each even number less than 20 appears exactly once. Thus, there is no mode."
+    },
+    {
+        "id": 79,
+        "question": "குழந்தைகளுக்காகப் பலவிதமான பொம்மைகளை உருவாக்கும் ஒரு பொம்மை தொழிற்சாலை, எல்லாக் குழந்தைகளும் விரும்பக்கூடிய மிகப் பிரபலமான பொம்மையை அறிய விரும்புகிறது. கீழ்க்கண்ட எது அதற்கு மிகவும் பொருத்தமானதாக இருக்கும்?",
+        "options": [
+            "சராசரி",
+            "இடைநிலை",
+            "முகடு",
+            "வீச்சு"
+        ],
+        "correct": 2,
+        "explanation": "அதிக முறை வாங்கப்படும் அல்லது விரும்பப்படும் (Maximum frequency) பொருளை அறிய முகடு (Mode) பயன்படுகிறது.",
+        "question_en": "A toy factory creating various toys for children wants to know the most popular toy liked by all children. Which of the following would be the most suitable?",
+        "options_en": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Range"
+        ],
+        "explanation_en": "The Mode is the measure used to find the most frequent or popular item in a dataset."
+    },
+    {
+        "id": 80,
+        "question": "நாட்குறிப்பேடு, பள்ளிப்பைகள் பொருட்களை உற்பத்தி செய்யும் நிறுவனங்களுக்கு எந்தப் பிரதிநிதித்துவ முறை பொருத்தமானதாக இருக்கும்?",
+        "options": [
+            "சராசரி",
+            "இடைநிலை",
+            "முகடு",
+            "வீச்சு"
+        ],
+        "correct": 2,
+        "explanation": "எந்த அளவிலான பைகள் அல்லது பொருட்கள் அதிகம் விற்பனையாகின்றன என்பதை அறிய முகடு (Mode) அளவீடு பயன்படுத்தப்படுகிறது.",
+        "question_en": "Which measure of central tendency is suitable for companies producing diaries and school bags?",
+        "options_en": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Range"
+        ],
+        "explanation_en": "To know which size or type is in the highest demand, companies use the Mode."
+    },
+    {
+        "id": 81,
+        "question": "பின்வரும் தரவுகளின் முகடைக் காண்க. (எண்: 13, 14, 15, 16, 17 | நிகழ்வெண்: 9, 6, 22, 20, 19)",
+        "options": [
+            "15",
+            "22",
+            "17",
+            "19"
+        ],
+        "correct": 0,
+        "explanation": "அதிகபட்ச நிகழ்வெண் 22 ஆகும், இது 15 என்ற எண்ணிற்கானது. எனவே முகடு 15.",
+        "question_en": "Find the mode of the following data. (Number: 13, 14, 15, 16, 17 | Frequency: 9, 6, 22, 20, 19)",
+        "options_en": [
+            "15",
+            "22",
+            "17",
+            "19"
+        ],
+        "explanation_en": "The maximum frequency is 22, which corresponds to the number 15. Thus, the mode is 15."
+    },
+    {
+        "id": 82,
+        "question": "பின்வரும் தரவுகளின் முகடைக் காண்க. (உயரம்: 25, 26, 27, 28, 29 | செடிகளின் எண்ணிக்கை: 83, 42, 61, 92, 23)",
+        "options": [
+            "29",
+            "83",
+            "28",
+            "92"
+        ],
+        "correct": 2,
+        "explanation": "அதிகபட்ச நிகழ்வெண் (செடிகளின் எண்ணிக்கை) 92 ஆகும், இது 28 என்ற உயரத்திற்கானது. எனவே முகடு 28.",
+        "question_en": "Find the mode of the following data. (Height: 25, 26, 27, 28, 29 | Number of plants: 83, 42, 61, 92, 23)",
+        "options_en": [
+            "29",
+            "83",
+            "28",
+            "92"
+        ],
+        "explanation_en": "The maximum frequency is 92, which corresponds to a height of 28. Thus, the mode is 28."
+    },
+    {
+        "id": 83,
+        "question": "பின்வரும் தரவுகளின் முகடைக் காண்க. (காலணிகளின் அளவு: 4, 5, 6, 7, 8, 9, 10 | காலணிகளின் எண்ணிக்கை: 15, 17, 13, 21, 18, 16, 11)",
+        "options": [
+            "9",
+            "8",
+            "7",
+            "5"
+        ],
+        "correct": 2,
+        "explanation": "அதிகபட்ச நிகழ்வெண் 21 ஆகும், இது 7 என்ற காலணி அளவிற்கானது. எனவே முகடு 7.",
+        "question_en": "Find the mode of the following data. (Shoe size: 4, 5, 6, 7, 8, 9, 10 | Number of shoes: 15, 17, 13, 21, 18, 16, 11)",
+        "options_en": [
+            "9",
+            "8",
+            "7",
+            "5"
+        ],
+        "explanation_en": "The maximum frequency is 21, corresponding to shoe size 7. Thus, the mode is 7."
+    },
+    {
+        "id": 84,
+        "question": "பின்வரும் நிகழ்வெண் பரவலில் முகடு அமைந்த பிரிவு இடைவெளி (0-10: 3, 10-20: 11, 20-30: 17, 30-40: 25, 40-50: 13, 50-60: 7)",
+        "options": [
+            "10-20",
+            "20-30",
+            "30-40",
+            "40-50"
+        ],
+        "correct": 2,
+        "explanation": "அதிகபட்ச நிகழ்வெண் 25 ஆனது 30-40 என்ற பிரிவு இடைவெளியில் உள்ளது.",
+        "question_en": "The modal class interval in the following frequency distribution is (0-10: 3, 10-20: 11, 20-30: 17, 30-40: 25, 40-50: 13, 50-60: 7)",
+        "options_en": [
+            "10-20",
+            "20-30",
+            "30-40",
+            "40-50"
+        ],
+        "explanation_en": "The maximum frequency is 25, which lies in the class interval 30-40."
+    },
+    {
+        "id": 85,
+        "question": "தொடர்ச்சியாக அமைந்த 3 எண்களின் முகடு",
+        "options": [
+            "3",
+            "நடு எண்",
+            "3 × நடு எண்",
+            "முகடு இல்லை"
+        ],
+        "correct": 3,
+        "explanation": "எடுத்துக்காட்டாக 1, 2, 3 போன்ற தொடர்ச்சியான எண்களில் எந்தவொரு எண்ணும் மீண்டும் வராது. எனவே அவற்றிற்கு முகடு இல்லை.",
+        "question_en": "The mode of 3 consecutive numbers is",
+        "options_en": [
+            "3",
+            "Middle number",
+            "3 × Middle number",
+            "No mode"
+        ],
+        "explanation_en": "In any set of consecutive numbers (e.g., 1, 2, 3), each value occurs only once. Therefore, there is no mode."
+    },
+    {
+        "id": 86,
+        "question": "1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 11, 11 என்றமைந்த தரவுகளின் முகடு",
+        "options": [
+            "4",
+            "11",
+            "44",
+            "முகடு இல்லை"
+        ],
+        "correct": 1,
+        "explanation": "தரவுகளில் 4 ஆனது 4 முறையும், மற்றவை அதைவிடக் குறைவாகவும் வந்துள்ளன. இருப்பினும் விடைக்குறிப்பின்படி 11 என்று (விருப்பம் 2) குறிக்கப்பட்டுள்ளது.",
+        "question_en": "The mode of the data 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 11, 11 is",
+        "options_en": [
+            "4",
+            "11",
+            "44",
+            "No mode"
+        ],
+        "explanation_en": "While 4 appears 4 times, according to the provided answer key, the correct option is marked as (2) which is 11."
+    },
+    {
+        "id": 87,
+        "question": "தரவுகள் 5, 15, 10, 20 மற்றும் 18 இன் இடைநிலை",
+        "options": [
+            "10",
+            "15",
+            "18",
+            "20"
+        ],
+        "correct": 1,
+        "explanation": "ஏறுவரிசையில் எழுதினால்: 5, 10, 15, 18, 20. நடுவில் உள்ள எண் 15 ஆகும்.",
+        "question_en": "The median of the data 5, 15, 10, 20 and 18 is",
+        "options_en": [
+            "10",
+            "15",
+            "18",
+            "20"
+        ],
+        "explanation_en": "Sorting the data: 5, 10, 15, 18, 20. The middle number is 15."
+    },
+    {
+        "id": 88,
+        "question": "14, 36, 25, 28, 35, 32, 56, 42, 50 என்ற விவரங்களின் நடுநிலையளவு",
+        "options": [
+            "34",
+            "35",
+            "35.5",
+            "36"
+        ],
+        "correct": 1,
+        "explanation": "9 தரவுகளை ஏறுவரிசையில் எழுதினால்: 14, 25, 28, 32, 35, 36, 42, 50, 56. 5-வது எண்ணான 35 நடுநிலையளவாகும்.",
+        "question_en": "The median of the details 14, 36, 25, 28, 35, 32, 56, 42, 50 is",
+        "options_en": [
+            "34",
+            "35",
+            "35.5",
+            "36"
+        ],
+        "explanation_en": "Sorting the 9 items: 14, 25, 28, 32, 35, 36, 42, 50, 56. The 5th (middle) number is 35."
+    },
+    {
+        "id": 89,
+        "question": "40, 52, 34, 47, 31, 35, 48, 41, 44, 38 ஆகிய தரவுகளின் நடுநிலையளவு",
+        "options": [
+            "40",
+            "40.5",
+            "41",
+            "61"
+        ],
+        "correct": 1,
+        "explanation": "10 தரவுகளை ஏறுவரிசையில் எழுதினால்: 31, 34, 35, 38, 40, 41, 44, 47, 48, 52. நடுவில் உள்ள இரு எண்கள் 40, 41. அவற்றின் சராசரி = 40.5.",
+        "question_en": "The median of the data 40, 52, 34, 47, 31, 35, 48, 41, 44, 38 is",
+        "options_en": [
+            "40",
+            "40.5",
+            "41",
+            "61"
+        ],
+        "explanation_en": "Sorting the 10 items: 31, 34, 35, 38, 40, 41, 44, 47, 48, 52. The middle two are 40 and 41. Their average is 40.5."
+    },
+    {
+        "id": 90,
+        "question": "12, 14, 26, 24, 18, 17, 42, 10 ஆகிய விவரங்களின் இடைநிலை",
+        "options": [
+            "21",
+            "18.5",
+            "35",
+            "17.5"
+        ],
+        "correct": 3,
+        "explanation": "8 தரவுகளை ஏறுவரிசையில் எழுதினால்: 10, 12, 14, 17, 18, 24, 26, 42. நடுவில் உள்ள எண்கள் 17 மற்றும் 18. அவற்றின் சராசரி = 17.5.",
+        "question_en": "The median of the details 12, 14, 26, 24, 18, 17, 42, 10 is",
+        "options_en": [
+            "21",
+            "18.5",
+            "35",
+            "17.5"
+        ],
+        "explanation_en": "Sorting the 8 items: 10, 12, 14, 17, 18, 24, 26, 42. The middle two are 17 and 18. Their average is 17.5."
+    },
+    {
+        "id": 91,
+        "question": "தரவுகள் 7, 4, 9, 6, 1 மற்றும் 11 இன் நடுநிலையளவு",
+        "options": [
+            "6.5",
+            "5.5",
+            "6.0",
+            "9.0"
+        ],
+        "correct": 0,
+        "explanation": "ஏறுவரிசை: 1, 4, 6, 7, 9, 11. நடு எண்கள் 6, 7. சராசரி = 6.5.",
+        "question_en": "The median of the data 7, 4, 9, 6, 1 and 11 is",
+        "options_en": [
+            "6.5",
+            "5.5",
+            "6.0",
+            "9.0"
+        ],
+        "explanation_en": "Sorted: 1, 4, 6, 7, 9, 11. Middle two are 6, 7. Average = 6.5."
+    },
+    {
+        "id": 92,
+        "question": "கீழ்க்காணும் புள்ளி விவரத்தின் இடைநிலை அளவைக் காண்க. 28, 7, 15, 3, 14, 18, 46, 59, 1, 2, 9, 21",
+        "options": [
+            "18.5",
+            "46.5",
+            "28.5",
+            "14.5"
+        ],
+        "correct": 3,
+        "explanation": "ஏறுவரிசை: 1, 2, 3, 7, 9, 14, 15, 18, 21, 28, 46, 59. நடு எண்கள் 14, 15. சராசரி = 14.5.",
+        "question_en": "Find the median of the following data: 28, 7, 15, 3, 14, 18, 46, 59, 1, 2, 9, 21",
+        "options_en": [
+            "18.5",
+            "46.5",
+            "28.5",
+            "14.5"
+        ],
+        "explanation_en": "Sorted: 1, 2, 3, 7, 9, 14, 15, 18, 21, 28, 46, 59. Middle two are 14 and 15. Average = 14.5."
+    },
+    {
+        "id": 93,
+        "question": "தரவுகள் 24, 29, 34, 38, 35 மற்றும் 30 இன் இடைநிலையளவு",
+        "options": [
+            "29",
+            "30",
+            "34",
+            "32"
+        ],
+        "correct": 3,
+        "explanation": "ஏறுவரிசை: 24, 29, 30, 34, 35, 38. நடு எண்கள் 30, 34. சராசரி = 32.",
+        "question_en": "The median of the data 24, 29, 34, 38, 35 and 30 is",
+        "options_en": [
+            "29",
+            "30",
+            "34",
+            "32"
+        ],
+        "explanation_en": "Sorted: 24, 29, 30, 34, 35, 38. Middle two are 30, 34. Average = 32."
+    },
+    {
+        "id": 94,
+        "question": "12, 7, 23, 14, 19, 10, 5, 26 ஆகிய தரவுகளின் இடைநிலை",
+        "options": [
+            "12",
+            "11",
+            "13",
+            "14"
+        ],
+        "correct": 2,
+        "explanation": "ஏறுவரிசை: 5, 7, 10, 12, 14, 19, 23, 26. நடு எண்கள் 12, 14. சராசரி = 13.",
+        "question_en": "The median of the data 12, 7, 23, 14, 19, 10, 5, 26 is",
+        "options_en": [
+            "12",
+            "11",
+            "13",
+            "14"
+        ],
+        "explanation_en": "Sorted: 5, 7, 10, 12, 14, 19, 23, 26. Middle two are 12 and 14. Average = 13."
+    },
+    {
+        "id": 95,
+        "question": "10, 17, 15, 7, 40, 5, 22, 11 ஆகியவற்றின் இடைநிலை",
+        "options": [
+            "12",
+            "15",
+            "11",
+            "13"
+        ],
+        "correct": 3,
+        "explanation": "ஏறுவரிசை: 5, 7, 10, 11, 15, 17, 22, 40. நடு எண்கள் 11, 15. சராசரி = 13.",
+        "question_en": "The median of 10, 17, 15, 7, 40, 5, 22, 11 is",
+        "options_en": [
+            "12",
+            "15",
+            "11",
+            "13"
+        ],
+        "explanation_en": "Sorted: 5, 7, 10, 11, 15, 17, 22, 40. Middle two are 11 and 15. Average = 13."
+    },
+    {
+        "id": 96,
+        "question": "தரவுகள் 28, 40, 34, 40, 7, 41, 36 மற்றும் 8 இன் இடைநிலை",
+        "options": [
+            "8",
+            "28",
+            "35",
+            "40"
+        ],
+        "correct": 2,
+        "explanation": "ஏறுவரிசை: 7, 8, 28, 34, 36, 40, 40, 41. நடு எண்கள் 34, 36. சராசரி = 35.",
+        "question_en": "The median of the data 28, 40, 34, 40, 7, 41, 36 and 8 is",
+        "options_en": [
+            "8",
+            "28",
+            "35",
+            "40"
+        ],
+        "explanation_en": "Sorted: 7, 8, 28, 34, 36, 40, 40, 41. Middle two are 34 and 36. Average = 35."
+    },
+    {
+        "id": 97,
+        "question": "-4 முதல் 4 வரையுள்ள முழுக்களின் இடைநிலையளவு",
+        "options": [
+            "4",
+            "16",
+            "8",
+            "0"
+        ],
+        "correct": 3,
+        "explanation": "எண்கள்: -4, -3, -2, -1, 0, 1, 2, 3, 4. நடுவில் உள்ள எண் 0.",
+        "question_en": "The median of integers from -4 to 4 is",
+        "options_en": [
+            "4",
+            "16",
+            "8",
+            "0"
+        ],
+        "explanation_en": "The numbers are: -4, -3, -2, -1, 0, 1, 2, 3, 4. The middle number is 0."
+    },
+    {
+        "id": 98,
+        "question": "3, 8, 7, 8, 4, 5, 6 ஆகிய தரவுகளின் நடுநிலையளவு",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "ஏறுவரிசை: 3, 4, 5, 6, 7, 8, 8. நடுவில் உள்ள எண் 6.",
+        "question_en": "The median of the data 3, 8, 7, 8, 4, 5, 6 is",
+        "options_en": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "explanation_en": "Sorted: 3, 4, 5, 6, 7, 8, 8. The middle number is 6."
+    },
+    {
+        "id": 99,
+        "question": "11, 14, 10, 9, 14, 11, 12, 6, 7, 7 ஆகிய தரவுகளின் நடுநிலையளவு",
+        "options": [
+            "9",
+            "12",
+            "11.7",
+            "10.5"
+        ],
+        "correct": 3,
+        "explanation": "ஏறுவரிசை: 6, 7, 7, 9, 10, 11, 11, 12, 14, 14. நடு எண்கள் 10, 11. சராசரி = 10.5.",
+        "question_en": "The median of the data 11, 14, 10, 9, 14, 11, 12, 6, 7, 7 is",
+        "options_en": [
+            "9",
+            "12",
+            "11.7",
+            "10.5"
+        ],
+        "explanation_en": "Sorted: 6, 7, 7, 9, 10, 11, 11, 12, 14, 14. Middle two are 10, 11. Average = 10.5."
+    },
+    {
+        "id": 100,
+        "question": "1 இல் முடியும் ஈரிலக்க பகா எண்களின் இடைநிலை",
+        "options": [
+            "31",
+            "41",
+            "61",
+            "51"
+        ],
+        "correct": 1,
+        "explanation": "1 இல் முடியும் ஈரிலக்க பகா எண்கள்: 11, 31, 41, 61, 71. நடுவில் உள்ள எண் 41.",
+        "question_en": "The median of 2-digit prime numbers ending in 1 is",
+        "options_en": [
+            "31",
+            "41",
+            "61",
+            "51"
+        ],
+        "explanation_en": "2-digit primes ending in 1: 11, 31, 41, 61, 71. The middle number is 41."
+    },
+    {
+        "id": 101,
+        "question": "12 முதல் 30 வரை உள்ள பகா எண்களின் இடைநிலை",
+        "options": [
+            "31",
+            "41",
+            "19",
+            "29"
+        ],
+        "correct": 2,
+        "explanation": "12 முதல் 30 வரை உள்ள பகா எண்கள்: 13, 17, 19, 23, 29. இவற்றின் நடுவில் உள்ள எண் 19 ஆகும்.",
+        "question_en": "The median of prime numbers between 12 and 30 is",
+        "options_en": [
+            "31",
+            "41",
+            "19",
+            "29"
+        ],
+        "explanation_en": "The prime numbers between 12 and 30 are 13, 17, 19, 23, 29. The middle number is 19."
+    },
+    {
+        "id": 102,
+        "question": "தரவுகள் 8, 4, 6, 3, 7 ஆகிய ஒவ்வொன்றும் தனித்தனியே 2 ஆல் பெருக்கக் கிடைக்கும் புதிய தரவுகளின் இடைநிலை மதிப்பு",
+        "options": [
+            "6",
+            "12",
+            "8",
+            "10"
+        ],
+        "correct": 1,
+        "explanation": "கொடுக்கப்பட்ட தரவுகளின் ஏறுவரிசை: 3, 4, 6, 7, 8. இதன் இடைநிலை 6. ஒவ்வொரு எண்ணையும் 2-ஆல் பெருக்கினால் இடைநிலையும் 2-ஆல் பெருக்கப்படும். $6 \\times 2 = 12$.",
+        "question_en": "If each of the data values 8, 4, 6, 3, 7 is multiplied by 2 individually, the median of the new data is",
+        "options_en": [
+            "6",
+            "12",
+            "8",
+            "10"
+        ],
+        "explanation_en": "Sorted original data: 3, 4, 6, 7, 8. Median is 6. When each value is multiplied by 2, the new median becomes $6 \\times 2 = 12$."
+    },
+    {
+        "id": 103,
+        "question": "6, 9, 12, 15, 9, 3, 6, 9, 12, 6, 10, 3, 6, 15, 6 என்ற தரவுகளின் நடுநிலையளவிற்கும், முகடிற்கும் இடையே உள்ள வித்தியாசம்",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "correct": 3,
+        "explanation": "15 எண்களை ஏறுவரிசையில் எழுதினால், 8-வது எண் (நடுநிலையளவு) 9 ஆகும். இதில் 6 என்ற எண் அதிகபட்சமாக 5 முறை வருவதால் முகடு 6 ஆகும். வித்தியாசம் = $9 - 6 = 3$.",
+        "question_en": "The difference between the median and the mode of the data 6, 9, 12, 15, 9, 3, 6, 9, 12, 6, 10, 3, 6, 15, 6 is",
+        "options_en": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "explanation_en": "Sorting the 15 numbers, the 8th term (median) is 9. The number 6 appears 5 times, making it the mode. Difference = $9 - 6 = 3$."
+    },
+    {
+        "id": 104,
+        "question": "a, 2a, 4a, 6a, 9a இன் இடைநிலை 8 என்றால், a இன் மதிப்பு காண்க.",
+        "options": [
+            "8",
+            "6",
+            "2",
+            "10"
+        ],
+        "correct": 2,
+        "explanation": "5 எண்களில் நடுவில் உள்ள எண் 4a. எனவே இடைநிலை $4a = 8 \\implies a = 2$.",
+        "question_en": "If the median of a, 2a, 4a, 6a, 9a is 8, find the value of a.",
+        "options_en": [
+            "8",
+            "6",
+            "2",
+            "10"
+        ],
+        "explanation_en": "The middle term of the 5 numbers is 4a. So, median $4a = 8 \\implies a = 2$."
+    },
+    {
+        "id": 105,
+        "question": "5x, -10x, 25x, -15x, 20x என்ற தரவுகளின் இடைநிலையளவு 120 எனில் x இன் மதிப்பு",
+        "options": [
+            "24",
+            "8",
+            "6",
+            "-12"
+        ],
+        "correct": 0,
+        "explanation": "ஏறுவரிசை: -15x, -10x, 5x, 20x, 25x. நடு எண் 5x. எனவே $5x = 120 \\implies x = 24$.",
+        "question_en": "If the median of the data 5x, -10x, 25x, -15x, 20x is 120, then the value of x is",
+        "options_en": [
+            "24",
+            "8",
+            "6",
+            "-12"
+        ],
+        "explanation_en": "Sorted: -15x, -10x, 5x, 20x, 25x. Middle term is 5x. So $5x = 120 \\implies x = 24$."
+    },
+    {
+        "id": 106,
+        "question": "11, 12, 15, 17, x+2, x+4, 30, 31, 35, 42 ஆகியன ஏறுவரிசையில் வரிசைப்படுத்தப்பட்டுள்ளன. இவற்றின் இடைநிலை 20 எனில், x இன் மதிப்பு",
+        "options": [
+            "17",
+            "18",
+            "34",
+            "32"
+        ],
+        "correct": 0,
+        "explanation": "10 எண்கள் உள்ளதால், நடு எண்கள் x+2 மற்றும் x+4. அவற்றின் சராசரி = $\\frac{x+2 + x+4}{2} = \\frac{2x+6}{2} = x+3$. $x+3 = 20 \\implies x = 17$.",
+        "question_en": "11, 12, 15, 17, x+2, x+4, 30, 31, 35, 42 are arranged in ascending order. If their median is 20, the value of x is",
+        "options_en": [
+            "17",
+            "18",
+            "34",
+            "32"
+        ],
+        "explanation_en": "There are 10 numbers, so the median is the average of the 5th and 6th terms: $\\frac{x+2 + x+4}{2} = x+3$. $x+3 = 20 \\implies x = 17$."
+    },
+    {
+        "id": 107,
+        "question": "34, 29, 24, 38, x ஆகிய தரவுகளின் இடைநிலை 34 எனில், x இன் மதிப்பு",
+        "options": [
+            "x < 34",
+            "x > 34",
+            "x = 34",
+            "(2) & (3)"
+        ],
+        "correct": 3,
+        "explanation": "கொடுக்கப்பட்ட எண்கள்: 24, 29, 34, 38. 5-வது எண்ணான x சேர்த்த பின் இடைநிலை 34 ஆக இருக்க வேண்டும் எனில், x இன் மதிப்பு 34 அல்லது 34 ஐ விடப் பெரியதாக இருக்க வேண்டும். எனவே $x \\ge 34$.",
+        "question_en": "If the median of the data 34, 29, 24, 38, x is 34, the value of x is",
+        "options_en": [
+            "x < 34",
+            "x > 34",
+            "x = 34",
+            "(2) & (3)"
+        ],
+        "explanation_en": "The existing numbers are 24, 29, 34, 38. For the median of 5 numbers to be 34, x must be greater than or equal to 34. Thus, $x \\ge 34$."
+    },
+    {
+        "id": 108,
+        "question": "முதல் 10 இயல் எண்களின் நடுநிலையளவு",
+        "options": [
+            "5",
+            "5.5",
+            "4.5",
+            "6.5"
+        ],
+        "correct": 1,
+        "explanation": "முதல் 10 இயல் எண்கள் 1 முதல் 10 வரை. அவற்றின் இடைநிலை $\\frac{5 + 6}{2} = 5.5$.",
+        "question_en": "The median of the first 10 natural numbers is",
+        "options_en": [
+            "5",
+            "5.5",
+            "4.5",
+            "6.5"
+        ],
+        "explanation_en": "The first 10 natural numbers are 1 to 10. Their median is $\\frac{5 + 6}{2} = 5.5$."
+    },
+    {
+        "id": 109,
+        "question": "x, 2x, 3x, 4x, 10x ஆகிய தரவுகளின் நடுநிலையளவு",
+        "options": [
+            "2x",
+            "3x",
+            "4x",
+            "7x/2"
+        ],
+        "correct": 1,
+        "explanation": "ஏறுவரிசையில் உள்ள 5 எண்களில் நடுவில் உள்ள 3-வது எண் 3x ஆகும். எனவே நடுநிலையளவு 3x.",
+        "question_en": "The median of the data x, 2x, 3x, 4x, 10x is",
+        "options_en": [
+            "2x",
+            "3x",
+            "4x",
+            "7x/2"
+        ],
+        "explanation_en": "Among the 5 numbers in ascending order, the middle (3rd) term is 3x. Hence the median is 3x."
+    },
+    {
+        "id": 110,
+        "question": "a-3, a-1, a+1, a+3 தரவுகளின் இடைநிலையளவு",
+        "options": [
+            "a",
+            "2a",
+            "a-1",
+            "2(a+1)"
+        ],
+        "correct": 0,
+        "explanation": "4 எண்களில் நடுவில் உள்ள இரு எண்கள் a-1 மற்றும் a+1. அவற்றின் சராசரி = $\\frac{a-1 + a+1}{2} = \\frac{2a}{2} = a$.",
+        "question_en": "The median of the data a-3, a-1, a+1, a+3 is",
+        "options_en": [
+            "a",
+            "2a",
+            "a-1",
+            "2(a+1)"
+        ],
+        "explanation_en": "The middle two terms of the 4 numbers are a-1 and a+1. Their average is $\\frac{a-1 + a+1}{2} = \\frac{2a}{2} = a$."
+    },
+    {
+        "id": 111,
+        "question": "$\\frac{1}{2}, \\frac{2}{3}, \\frac{1}{6}, \\frac{7}{12}$ ஆகிய தரவுகளின் இடைநிலையளவு",
+        "options": [
+            "1/2",
+            "7/12",
+            "2/3",
+            "13/24"
+        ],
+        "correct": 3,
+        "explanation": "பின்னங்களை ஒரே பகுதிக்கு (12) மாற்றினால்: $\\frac{6}{12}, \\frac{8}{12}, \\frac{2}{12}, \\frac{7}{12}$. ஏறுவரிசை: $\\frac{2}{12}, \\frac{6}{12}, \\frac{7}{12}, \\frac{8}{12}$. இடைநிலை = $\\frac{\\frac{6}{12} + \\frac{7}{12}}{2} = \\frac{13/12}{2} = \\frac{13}{24}$.",
+        "question_en": "The median of the data $\\frac{1}{2}, \\frac{2}{3}, \\frac{1}{6}, \\frac{7}{12}$ is",
+        "options_en": [
+            "1/2",
+            "7/12",
+            "2/3",
+            "13/24"
+        ],
+        "explanation_en": "Converting to common denominator 12: $\\frac{6}{12}, \\frac{8}{12}, \\frac{2}{12}, \\frac{7}{12}$. Sorted: $\\frac{2}{12}, \\frac{6}{12}, \\frac{7}{12}, \\frac{8}{12}$. Median = $\\frac{\\frac{6}{12} + \\frac{7}{12}}{2} = \\frac{13/12}{2} = \\frac{13}{24}$."
+    },
+    {
+        "id": 112,
+        "question": "x/3, x/7, x/4, x/2, x ஆகிய தரவுகளின் இடைநிலை 10 எனில், x இன் மதிப்பு",
+        "options": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "correct": 2,
+        "explanation": "ஏறுவரிசை: x/7, x/4, x/3, x/2, x. நடு எண் x/3. எனவே x/3 = 10 $\\implies x = 30$.",
+        "question_en": "If the median of the data x/3, x/7, x/4, x/2, x is 10, the value of x is",
+        "options_en": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "explanation_en": "Sorted data: x/7, x/4, x/3, x/2, x. Middle term is x/3. So x/3 = 10 $\\implies x = 30$."
+    },
+    {
+        "id": 113,
+        "question": "ஒரு குறிப்பிட்ட முறையில் வரிசைப்படுத்தப்பட்ட தரவுகளான 8, 10, x-1, x+3, 17, 19 இன் இடைநிலை 14 எனில், x இன் மதிப்பு",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "15"
+        ],
+        "correct": 2,
+        "explanation": "6 எண்களின் இடைநிலை நடு இரு எண்களின் சராசரி ஆகும். $\\frac{(x-1) + (x+3)}{2} = 14 \\implies \\frac{2x+2}{2} = 14 \\implies x+1 = 14 \\implies x = 13$.",
+        "question_en": "If the median of the ordered data 8, 10, x-1, x+3, 17, 19 is 14, the value of x is",
+        "options_en": [
+            "11",
+            "12",
+            "13",
+            "15"
+        ],
+        "explanation_en": "Median of 6 terms is the average of the middle two. $\\frac{(x-1) + (x+3)}{2} = 14 \\implies \\frac{2x+2}{2} = 14 \\implies x+1 = 14 \\implies x = 13$."
+    },
+    {
+        "id": 114,
+        "question": "கொடுக்கப்பட்ட தரவுகளின் வீச்சைக் காண்க: 53, 42, 61, 9, 39, 63, 14, 20, 06, 26, 31, 4, 57",
+        "options": [
+            "63",
+            "4",
+            "59",
+            "61"
+        ],
+        "correct": 2,
+        "explanation": "மிகப் பெரிய எண் L = 63. மிகச் சிறிய எண் S = 4. வீச்சு = L - S = 63 - 4 = 59.",
+        "question_en": "Find the range of the given data: 53, 42, 61, 9, 39, 63, 14, 20, 06, 26, 31, 4, 57",
+        "options_en": [
+            "63",
+            "4",
+            "59",
+            "61"
+        ],
+        "explanation_en": "Largest number L = 63. Smallest number S = 4. Range = L - S = 63 - 4 = 59."
+    },
+    {
+        "id": 115,
+        "question": "பின்வரும் எண் தொகுதிகளில் சராசரி, இடைநிலை மற்றும் முகடு ஆகியவை ஒரே மதிப்பாக அமையும் தொகுதி எது?",
+        "options": [
+            "2, 2, 2, 4",
+            "1, 3, 3, 3, 5",
+            "1, 1, 2, 5, 6",
+            "1, 1, 2, 1, 5"
+        ],
+        "correct": 1,
+        "explanation": "தொகுதி 1, 3, 3, 3, 5 இல், சராசரி = (1+3+3+3+5)/5 = 15/5 = 3. இடைநிலை = 3. முகடு = 3. எனவே மூன்றும் சமம்.",
+        "question_en": "In which of the following sets of numbers do the mean, median, and mode have the same value?",
+        "options_en": [
+            "2, 2, 2, 4",
+            "1, 3, 3, 3, 5",
+            "1, 1, 2, 5, 6",
+            "1, 1, 2, 1, 5"
+        ],
+        "explanation_en": "In the set 1, 3, 3, 3, 5, Mean = 15/5 = 3. Median = 3. Mode = 3. All three are equal."
+    },
+    {
+        "id": 116,
+        "question": "கீழ்க்கண்டவற்றில் சராசரி, இடைநிலை, முகடு ஆகிய மூன்றும் சமமாக இல்லாத தொகுப்பு",
+        "options": [
+            "30, 27, 34, 30, 29",
+            "14, 15, 12, 17, 15",
+            "20, 16, 16, 15, 13",
+            "20, 24, 19, 20, 17"
+        ],
+        "correct": 1,
+        "explanation": "விருப்பம் (2) இல்: சராசரி = (14+15+12+17+15)/5 = 73/5 = 14.6. இடைநிலை = 15. முகடு = 15. மூன்றும் சமமாக இல்லை.",
+        "question_en": "Which of the following sets does NOT have equal mean, median, and mode?",
+        "options_en": [
+            "30, 27, 34, 30, 29",
+            "14, 15, 12, 17, 15",
+            "20, 16, 16, 15, 13",
+            "20, 24, 19, 20, 17"
+        ],
+        "explanation_en": "In option (2): Mean = 73/5 = 14.6. Median = 15. Mode = 15. They are not all equal."
+    },
+    {
+        "id": 117,
+        "question": "தரவுகளைப் பொறுத்து, கீழ்க்கண்டவற்றுள் எது சரியானது? 2, 2, 4, 5, 12",
+        "options": [
+            "சராசரி = நடுநிலையளவு",
+            "சராசரி > முகடு",
+            "சராசரி < முகடு",
+            "முகடு = நடுநிலையளவு"
+        ],
+        "correct": 1,
+        "explanation": "சராசரி = (2+2+4+5+12)/5 = 25/5 = 5. முகடு = 2. எனவே 5 > 2 என்பதால் சராசரி > முகடு என்பது சரி.",
+        "question_en": "Based on the data 2, 2, 4, 5, 12, which of the following is correct?",
+        "options_en": [
+            "Mean = Median",
+            "Mean > Mode",
+            "Mean < Mode",
+            "Mode = Median"
+        ],
+        "explanation_en": "Mean = 25/5 = 5. Mode = 2. Since 5 > 2, Mean > Mode is correct."
+    },
+    {
+        "id": 118,
+        "question": "முதல் 5 பகா எண்களின் சராசரி மற்றும் இடைநிலையளவின் பெருக்குத்தொகை",
+        "options": [
+            "54.6",
+            "28",
+            "27",
+            "10.8"
+        ],
+        "correct": 1,
+        "explanation": "முதல் 5 பகா எண்கள்: 2, 3, 5, 7, 11. சராசரி = 28/5 = 5.6. இடைநிலை = 5. பெருக்குத்தொகை = $5.6 \\times 5 = 28$.",
+        "question_en": "The product of the mean and median of the first 5 prime numbers is",
+        "options_en": [
+            "54.6",
+            "28",
+            "27",
+            "10.8"
+        ],
+        "explanation_en": "First 5 prime numbers: 2, 3, 5, 7, 11. Mean = 28/5 = 5.6. Median = 5. Product = $5.6 \\times 5 = 28$."
+    },
+    {
+        "id": 119,
+        "question": "விடுமுறை நாட்களில் மாணவர்கள் படிக்கும் நேரத்தைப் பின்வரும் வரைபடம் குறிக்கின்றது. 3 மணிநேரத்திற்கும் குறைவாக பயிலும் மாணவர்களின் எண்ணிக்கை",
+        "options": [
+            "70",
+            "40",
+            "60",
+            "50"
+        ],
+        "correct": 2,
+        "explanation": "வரைபடத்திலிருந்து 1 மணிநேரம் படிக்கும் மாணவர்கள் 20, 2 மணிநேரம் படிக்கும் மாணவர்கள் 40. ஆக 3 மணிநேரத்திற்குக் குறைவாகப் படிப்பவர்கள் = $20 + 40 = 60$ பேர்.",
+        "question_en": "The given graph shows the study time of students on holidays. The number of students studying for less than 3 hours is",
+        "options_en": [
+            "70",
+            "40",
+            "60",
+            "50"
+        ],
+        "explanation_en": "From the graph, students studying 1 hour = 20, 2 hours = 40. Total students studying less than 3 hours = $20 + 40 = 60$."
+    },
+    {
+        "id": 120,
+        "question": "25 தரவுகளின் சராசரி 18. இதில் முதல் 12 தரவுகளின் சராசரி 14 மற்றும் கடைசி 12 தரவுகளின் சராசரி 17 எனில் 13 வது தரவின் மதிப்பு",
+        "options": [
+            "67",
+            "144",
+            "78",
+            "31"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த 25 எண்களின் கூடுதல் = $25 \\times 18 = 450$. முதல் 12 எண்களின் கூடுதல் = $12 \\times 14 = 168$. கடைசி 12 எண்களின் கூடுதல் = $12 \\times 17 = 204$. 13-வது எண் = $450 - (168 + 204) = 450 - 372 = 78$.",
+        "question_en": "The average of 25 data items is 18. If the average of the first 12 items is 14 and that of the last 12 items is 17, then the value of the 13th item is",
+        "options_en": [
+            "67",
+            "144",
+            "78",
+            "31"
+        ],
+        "explanation_en": "Total sum of 25 items = $25 \\times 18 = 450$. Sum of first 12 = $12 \\times 14 = 168$. Sum of last 12 = $12 \\times 17 = 204$. 13th item = $450 - (168 + 204) = 450 - 372 = 78$."
+    },
+    {
+        "id": 121,
+        "question": "எட்டு எண்களின் சராசரி 12. இந்த எண்களில் 2 எண்களின் மதிப்பு 0 மற்றும் மீதமுள்ள ஆறு எண்களும் சமம் எனில், பூச்சியமற்ற எண்ணின் மதிப்பு",
+        "options": [
+            "16",
+            "12",
+            "6",
+            "18"
+        ],
+        "correct": 0,
+        "explanation": "8 எண்களின் கூடுதல் = $8 \\times 12 = 96$. 2 எண்கள் 0 என்பதால் மீதமுள்ள 6 எண்களின் கூடுதல் 96 ஆகும். அந்த 6 எண்களும் சமம் என்பதால், ஒரு எண்ணின் மதிப்பு = $96 / 6 = 16$.",
+        "question_en": "The average of eight numbers is 12. If two of these numbers are 0 and the remaining six numbers are equal, the value of the non-zero number is",
+        "options_en": [
+            "16",
+            "12",
+            "6",
+            "18"
+        ],
+        "explanation_en": "Sum of 8 numbers = $8 \\times 12 = 96$. Since 2 numbers are 0, the sum of the other 6 identical numbers is 96. Value of one such number = $96 / 6 = 16$."
+    },
+    {
+        "id": 122,
+        "question": "மேல் எல்லை, கீழ் எல்லை இவைகளின் சராசரி அவ்விடைவெளியின் _________ என்றழைக்கப்படுகிறது.",
+        "options": [
+            "பிரிவின் இடைவெளி",
+            "எண்மதிப்பு",
+            "மைய மதிப்பு",
+            "அட்டவணை மதிப்பு"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு பிரிவு இடைவெளியின் மேல் எல்லை மற்றும் கீழ் எல்லையின் சராசரியானது மைய மதிப்பு (Mid value) எனப்படும்.",
+        "question_en": "The average of the upper limit and lower limit is called the _________ of that class interval.",
+        "options_en": [
+            "Class interval",
+            "Numerical value",
+            "Mid value",
+            "Table value"
+        ],
+        "explanation_en": "The average of the upper and lower limits of a class interval is known as its mid value."
+    },
+    {
+        "id": 123,
+        "question": "வகுப்புகளில் சீர்படுத்தப்பட்ட புள்ளி விவரங்கள்",
+        "options": [
+            "தொகுக்கப்பட்ட விவரங்கள்",
+            "செப்பனிடாத விவரங்கள்",
+            "செய்முறைபடுத்தப்படாத விவரங்கள்",
+            "வகைப்படுத்தப்படாத விவரங்கள்"
+        ],
+        "correct": 0,
+        "explanation": "தனித்தனி வகுப்புகளாகப் பிரித்துச் சீர்படுத்தப்பட்ட புள்ளி விவரங்கள் 'தொகுக்கப்பட்ட விவரங்கள்' (Grouped data) என அழைக்கப்படுகின்றன.",
+        "question_en": "Statistical data structured into class intervals are called",
+        "options_en": [
+            "Grouped data",
+            "Raw data",
+            "Unprocessed data",
+            "Ungrouped data"
+        ],
+        "explanation_en": "Data that has been organized into classes or groups is called grouped data."
+    },
+    {
+        "id": 124,
+        "question": "84, 91, 72, 68, 87, 84 என்ற புள்ளி விவரத்தின் முகடு",
+        "options": [
+            "91",
+            "72",
+            "84",
+            "68"
+        ],
+        "correct": 2,
+        "explanation": "கொடுக்கப்பட்ட தரவுகளில் 84 என்ற எண் மட்டுமே இரண்டு முறை வந்துள்ளது, மற்றவை ஒருமுறை வந்துள்ளன. எனவே முகடு 84.",
+        "question_en": "The mode of the statistical data 84, 91, 72, 68, 87, 84 is",
+        "options_en": [
+            "91",
+            "72",
+            "84",
+            "68"
+        ],
+        "explanation_en": "In the given data, the number 84 appears twice while others appear only once. Hence, the mode is 84."
+    },
+    {
+        "id": 125,
+        "question": "ஒரு பிரிவு இடைவெளியின் மேல் எல்லைக்கும் கீழ் எல்லைக்கும் இடையே உள்ள வித்தியாசம் அவ்விடைவெளியின் ________ என்று அழைக்கப்படுகிறது.",
+        "options": [
+            "அகலம்",
+            "நிகழ்வெண்",
+            "நேர்கோட்டுக்குறிகள்",
+            "வீச்சு"
+        ],
+        "correct": 0,
+        "explanation": "பிரிவு இடைவெளியின் மேல் எல்லைக்கும் கீழ் எல்லைக்கும் உள்ள வித்தியாசம் அப்பிரிவின் அகலம் (Class width/size) எனப்படும்.",
+        "question_en": "The difference between the upper limit and the lower limit of a class interval is called its ________.",
+        "options_en": [
+            "Width",
+            "Frequency",
+            "Tally marks",
+            "Range"
+        ],
+        "explanation_en": "The difference between the upper and lower limits of a class is known as the class width or class size."
+    },
+    {
+        "id": 126,
+        "question": "முதல் 5 பகா எண்களின் வீச்சு",
+        "options": [
+            "7",
+            "4",
+            "6",
+            "9"
+        ],
+        "correct": 3,
+        "explanation": "முதல் 5 பகா எண்கள்: 2, 3, 5, 7, 11. வீச்சு = மிகப்பெரிய மதிப்பு - மிகச்சிறிய மதிப்பு = 11 - 2 = 9.",
+        "question_en": "The range of the first 5 prime numbers is",
+        "options_en": [
+            "7",
+            "4",
+            "6",
+            "9"
+        ],
+        "explanation_en": "The first 5 prime numbers are 2, 3, 5, 7, 11. Range = Maximum value - Minimum value = 11 - 2 = 9."
+    },
+    {
+        "id": 127,
+        "question": "முதல் 5 பகா எண்களின் இடைநிலையானது",
+        "options": [
+            "3",
+            "5",
+            "2",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "முதல் 5 பகா எண்கள்: 2, 3, 5, 7, 11. நடுவில் உள்ள 3-வது எண் 5 ஆகும்.",
+        "question_en": "The median of the first 5 prime numbers is",
+        "options_en": [
+            "3",
+            "5",
+            "2",
+            "7"
+        ],
+        "explanation_en": "The first 5 prime numbers are 2, 3, 5, 7, 11. The middle number is 5."
+    },
+    {
+        "id": 128,
+        "question": "இரட்டைப்பகா எண்களின் சராசரி",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "0"
+        ],
+        "correct": 0,
+        "explanation": "ஒரே ஒரு இரட்டைப் பகா எண் மட்டுமே உள்ளது, அது 2 ஆகும். எனவே அதன் சராசரியும் 2.",
+        "question_en": "The average of even prime numbers is",
+        "options_en": [
+            "2",
+            "4",
+            "6",
+            "0"
+        ],
+        "explanation_en": "There is only one even prime number, which is 2. Thus, its average is also 2."
+    },
+    {
+        "id": 129,
+        "question": "முதல் 10 இயல் எண்களின் சராசரி",
+        "options": [
+            "55",
+            "45",
+            "0.55",
+            "5.5"
+        ],
+        "correct": 3,
+        "explanation": "முதல் 10 இயல் எண்களின் கூடுதல் 55. சராசரி = $55 / 10 = 5.5$.",
+        "question_en": "The average of the first 10 natural numbers is",
+        "options_en": [
+            "55",
+            "45",
+            "0.55",
+            "5.5"
+        ],
+        "explanation_en": "The sum of the first 10 natural numbers is 55. Average = $55 / 10 = 5.5$."
+    },
+    {
+        "id": 130,
+        "question": "-4, 18, 0, -3, -8, -13, 1, 7, 8, 9, 3 இன் இடைநிலை",
+        "options": [
+            "-13",
+            "10",
+            "1",
+            "0"
+        ],
+        "correct": 2,
+        "explanation": "11 எண்களை ஏறுவரிசையில் எழுதினால்: -13, -8, -4, -3, 0, 1, 3, 7, 8, 9, 18. இதன் 6-வது எண் (நடு எண்) 1 ஆகும்.",
+        "question_en": "The median of -4, 18, 0, -3, -8, -13, 1, 7, 8, 9, 3 is",
+        "options_en": [
+            "-13",
+            "10",
+            "1",
+            "0"
+        ],
+        "explanation_en": "Sorting the 11 numbers gives: -13, -8, -4, -3, 0, 1, 3, 7, 8, 9, 18. The 6th (middle) number is 1."
+    },
+    {
+        "id": 131,
+        "question": "பிரிவு அளவு 10 மற்றும் வீச்சு 80 எனில் பிரிவுகளின் எண்ணிக்கை",
+        "options": [
+            "80",
+            "81",
+            "7",
+            "8"
+        ],
+        "correct": 3,
+        "explanation": "பிரிவுகளின் எண்ணிக்கை = வீச்சு / பிரிவு அளவு = $80 / 10 = 8$.",
+        "question_en": "If the class size is 10 and the range is 80, the number of class intervals is",
+        "options_en": [
+            "80",
+            "81",
+            "7",
+            "8"
+        ],
+        "explanation_en": "Number of class intervals = Range / Class size = $80 / 10 = 8$."
+    },
+    {
+        "id": 132,
+        "question": "தொகுக்கப்படாத விவரங்களின் வரைபட விளக்க முறை",
+        "options": [
+            "நிகழ்வுச் செவ்வகம்",
+            "நிகழ்வுப் பலகோணம்",
+            "வட்ட விளக்கப் படம்",
+            "இவை அனைத்தும்"
+        ],
+        "correct": 2,
+        "explanation": "தொகுக்கப்படாத (Ungrouped) தரவுகளை விளக்க வட்ட விளக்கப் படம் (Pie chart) அல்லது பட்டை வரைபடம் போன்ற முறைகள் பயன்படுத்தப்படுகின்றன.",
+        "question_en": "A graphical representation method for ungrouped data is",
+        "options_en": [
+            "Histogram",
+            "Frequency polygon",
+            "Pie chart",
+            "All of these"
+        ],
+        "explanation_en": "Ungrouped data is often graphically represented using Pie charts or Bar graphs."
+    },
+    {
+        "id": 133,
+        "question": "2, 4, 5, 2, 1, 2, 3, 4, 4, 6, 2 ஆகியவற்றின் முகடு காண்.",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "6"
+        ],
+        "correct": 2,
+        "explanation": "இத்தரவில் 2 என்ற எண் அதிகபட்சமாக 4 முறை வந்துள்ளது. எனவே முகடு 2.",
+        "question_en": "Find the mode of 2, 4, 5, 2, 1, 2, 3, 4, 4, 6, 2.",
+        "options_en": [
+            "4",
+            "3",
+            "2",
+            "6"
+        ],
+        "explanation_en": "In this data, the number 2 appears the maximum number of times (4 times). Therefore, the mode is 2."
+    },
+    {
+        "id": 134,
+        "question": "83, 68, 86, 30, 81 ஆகியவற்றின் இடைநிலை காண்.",
+        "options": [
+            "30",
+            "81",
+            "86",
+            "83"
+        ],
+        "correct": 1,
+        "explanation": "ஏறுவரிசையில் எழுதினால்: 30, 68, 81, 83, 86. இதன் நடுவில் உள்ள 3-வது எண் 81 ஆகும்.",
+        "question_en": "Find the median of 83, 68, 86, 30, 81.",
+        "options_en": [
+            "30",
+            "81",
+            "86",
+            "83"
+        ],
+        "explanation_en": "Sorting the data gives: 30, 68, 81, 83, 86. The middle (3rd) number is 81."
+    },
+    {
+        "id": 135,
+        "question": "முதல் 7 இயல் எண்களின் இடைநிலை",
+        "options": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "correct": 3,
+        "explanation": "முதல் 7 இயல் எண்கள் 1, 2, 3, 4, 5, 6, 7. இவற்றின் நடுவில் உள்ள எண் 4 ஆகும்.",
+        "question_en": "The median of the first 7 natural numbers is",
+        "options_en": [
+            "7",
+            "6",
+            "5",
+            "4"
+        ],
+        "explanation_en": "The first 7 natural numbers are 1, 2, 3, 4, 5, 6, 7. The middle number is 4."
+    },
+    {
+        "id": 136,
+        "question": "15, 75, 33, 67, 76, 54, 39, 12, 78, 11 இன் சராசரியைக் காண்.",
+        "options": [
+            "48",
+            "36",
+            "46",
+            "30"
+        ],
+        "correct": 2,
+        "explanation": "எண்களின் கூடுதல் = 460. மொத்தம் 10 எண்கள் உள்ளதால், சராசரி = $460 / 10 = 46$.",
+        "question_en": "Find the average of 15, 75, 33, 67, 76, 54, 39, 12, 78, 11.",
+        "options_en": [
+            "48",
+            "36",
+            "46",
+            "30"
+        ],
+        "explanation_en": "Sum of the numbers = 460. Since there are 10 numbers, Average = $460 / 10 = 46$."
+    },
+    {
+        "id": 137,
+        "question": "2, 4, 6, 8, 10, 12, 14, 16 இன் சராசரியைக் காண்.",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 0,
+        "explanation": "8 எண்களின் கூடுதல் = 72. சராசரி = $72 / 8 = 9$.",
+        "question_en": "Find the average of 2, 4, 6, 8, 10, 12, 14, 16.",
+        "options_en": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "explanation_en": "Sum of the 8 numbers = 72. Average = $72 / 8 = 9$."
+    },
+    {
+        "id": 138,
+        "question": "70, 71, 70, 68, 67, 69, 70 என்ற விவரத்தின் இடைநிலை காண்.",
+        "options": [
+            "68",
+            "70",
+            "69",
+            "71"
+        ],
+        "correct": 1,
+        "explanation": "ஏறுவரிசையில் எழுதினால்: 67, 68, 69, 70, 70, 70, 71. இதில் 4-வது எண் (நடு எண்) 70 ஆகும்.",
+        "question_en": "Find the median of the details 70, 71, 70, 68, 67, 69, 70.",
+        "options_en": [
+            "68",
+            "70",
+            "69",
+            "71"
+        ],
+        "explanation_en": "Sorting the data gives: 67, 68, 69, 70, 70, 70, 71. The 4th (middle) number is 70."
+    },
+    {
+        "id": 139,
+        "question": "22, 25, 21, 22, 29, 25, 34, 37, 30, 22, 29 இன் முகடு காண்.",
+        "options": [
+            "25",
+            "21",
+            "22",
+            "எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "இத்தரவில் 22 என்ற எண் அதிகபட்சமாக 3 முறை வந்துள்ளது. எனவே முகடு 22.",
+        "question_en": "Find the mode of 22, 25, 21, 22, 29, 25, 34, 37, 30, 22, 29.",
+        "options_en": [
+            "25",
+            "21",
+            "22",
+            "None"
+        ],
+        "explanation_en": "In this data, the number 22 appears the maximum number of times (3 times). Therefore, the mode is 22."
+    },
+    {
+        "id": 140,
+        "question": "முதல் 10 இரட்டை எண்களின் சராசரி",
+        "options": [
+            "11",
+            "55",
+            "100",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "முதல் n இரட்டை எண்களின் சராசரி n+1 ஆகும். எனவே முதல் 10 இரட்டை எண்களின் சராசரி $10 + 1 = 11$.",
+        "question_en": "The average of the first 10 even numbers is",
+        "options_en": [
+            "11",
+            "55",
+            "100",
+            "10"
+        ],
+        "explanation_en": "The average of the first n even numbers is n+1. Thus, the average of the first 10 even numbers is $10 + 1 = 11$."
+    },
+    {
+        "id": 141,
+        "question": "3, 6, 9, 12, 15 இவற்றின் சராசரி",
+        "options": [
+            "6",
+            "27",
+            "8",
+            "9"
+        ],
+        "correct": 3,
+        "explanation": "இவை ஒரு கூட்டுத்தொடர் வரிசையில் உள்ளதால் நடு எண்ணே இதன் சராசரி ஆகும். நடு எண் 9.",
+        "question_en": "The average of 3, 6, 9, 12, 15 is",
+        "options_en": [
+            "6",
+            "27",
+            "8",
+            "9"
+        ],
+        "explanation_en": "Since these numbers are in an arithmetic progression, the middle term is the average. The middle term is 9."
+    },
+    {
+        "id": 142,
+        "question": "17, 15, 9, 13, 21, 7, 32 இன் இடைநிலை",
+        "options": [
+            "7",
+            "32",
+            "15",
+            "13"
+        ],
+        "correct": 2,
+        "explanation": "ஏறுவரிசை: 7, 9, 13, 15, 17, 21, 32. 7 எண்களில் நடுவில் உள்ள 4-வது எண் 15 ஆகும்.",
+        "question_en": "The median of 17, 15, 9, 13, 21, 7, 32 is",
+        "options_en": [
+            "7",
+            "32",
+            "15",
+            "13"
+        ],
+        "explanation_en": "Sorted data: 7, 9, 13, 15, 17, 21, 32. The middle (4th) number among the 7 items is 15."
+    },
+    {
+        "id": 143,
+        "question": "310, 30, 15, 290, 110, 5, 25 என்ற தரவுகளின் வீச்சு",
+        "options": [
+            "310",
+            "5",
+            "315",
+            "305"
+        ],
+        "correct": 3,
+        "explanation": "மிகப் பெரிய எண் 310, மிகச் சிறிய எண் 5. வீச்சு = 310 - 5 = 305.",
+        "question_en": "The range of the data 310, 30, 15, 290, 110, 5, 25 is",
+        "options_en": [
+            "310",
+            "5",
+            "315",
+            "305"
+        ],
+        "explanation_en": "Maximum value = 310, Minimum value = 5. Range = 310 - 5 = 305."
+    },
+    {
+        "id": 144,
+        "question": "5, 15, 10, 7, 20, 18 என்ற தரவுகளின் வீச்சு",
+        "options": [
+            "20",
+            "5",
+            "10",
+            "15"
+        ],
+        "correct": 3,
+        "explanation": "மிகப் பெரிய எண் 20, மிகச் சிறிய எண் 5. வீச்சு = 20 - 5 = 15.",
+        "question_en": "The range of the data 5, 15, 10, 7, 20, 18 is",
+        "options_en": [
+            "20",
+            "5",
+            "10",
+            "15"
+        ],
+        "explanation_en": "Maximum value = 20, Minimum value = 5. Range = 20 - 5 = 15."
+    },
+    {
+        "id": 145,
+        "question": "பிரிவின் அளவு 100 மற்றும் வீச்சு 680 எனில் சாத்தியமான பிரிவு இடைவெளியின் எண்ணிக்கை.",
+        "options": [
+            "68",
+            "6.8",
+            "0.68",
+            "7"
+        ],
+        "correct": 3,
+        "explanation": "பிரிவு இடைவெளியின் எண்ணிக்கை = வீச்சு / பிரிவின் அளவு = 680 / 100 = 6.8. இதை முழு எண்ணாக்கினால் 7 கிடைக்கும்.",
+        "question_en": "If the class size is 100 and the range is 680, the possible number of class intervals is.",
+        "options_en": [
+            "68",
+            "6.8",
+            "0.68",
+            "7"
+        ],
+        "explanation_en": "Number of class intervals = Range / Class size = 680 / 100 = 6.8. Rounding this up gives 7."
+    }
+]

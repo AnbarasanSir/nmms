@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "question": "இந்தியாவின் முதல் பெண் ஆசிரியர் ________.",
+    "options": [
+      "ஜோதிராவ் புலே",
+      "சாவித்திரி பாய் புலே",
+      "விஜய லட்சுமி பண்டிட்",
+      "அன்னை தெரசா"
+    ],
+    "correct": 1,
+    "question_en": "India's first woman teacher was ________.",
+    "options_en": [
+      "Jyoti Rao Phule",
+      "Savitri Bhai Phule",
+      "Vijaya Lakshmi Pandit",
+      "Mother Teresa"
+    ],
+    "explanation": "இந்தியாவின் முதல் பெண் ஆசிரியர் சாவித்திரி பாய் புலே.",
+    "explanation_en": "India's first woman teacher was Savitri Bhai Phule."
+  },
+  {
+    "id": 2,
+    "question": "இந்தியாவின் பெண் கல்வியை செயல் வடிவமாக்கியவர் ________.",
+    "options": [
+      "ஜோதிராவ் புலே",
+      "சாவித்திரிபாய் புலே",
+      "சுஷ்மா ஸ்வராஜ்",
+      "கிரண்பேடி"
+    ],
+    "correct": 0,
+    "question_en": "________ who shaped India's female education.",
+    "options_en": [
+      "Jyoti Rao Phule",
+      "Savitribai Phule",
+      "Sushma Swaraj",
+      "Kiran Bedi"
+    ],
+    "explanation": "இந்தியாவின் பெண் கல்வியை செயல் வடிவமாக்கியவர் ஜோதிராவ் புலே.",
+    "explanation_en": "Jyoti Rao Phule who shaped India's female education."
+  },
+  {
+    "id": 3,
+    "question": "பெண்களுக்கான முதல் பள்ளி தொடங்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1948",
+      "1849",
+      "1848",
+      "1748"
+    ],
+    "correct": 2,
+    "question_en": "The year the first school for girls was started in ________.",
+    "options_en": [
+      "1948",
+      "1849",
+      "1848",
+      "1748"
+    ],
+    "explanation": "பெண்களுக்கான முதல் பள்ளி தொடங்கப்பட்ட ஆண்டு 1848.",
+    "explanation_en": "The year the first school for girls was started in 1848."
+  },
+  {
+    "id": 4,
+    "question": "\"பெண்களைப் பலவீனமான பாலினம் என்று சொல்வது ஒரு அவதூறு\" என்று கூறியவர் ________.",
+    "options": [
+      "பராக் ஒபாமா",
+      "அன்னை தெரசா",
+      "பாத்திமா பீவி",
+      "மகாத்மா காந்தியடிகள்"
+    ],
+    "correct": 3,
+    "question_en": "________ who said “It is a slur to call women the weaker sex”.",
+    "options_en": [
+      "Barack Obama",
+      "Mother Teresa",
+      "Fatima Beavi",
+      "Mahatma Gandhi feet"
+    ],
+    "explanation": "\"பெண்களைப் பலவீனமான பாலினம் என்று சொல்வது ஒரு அவதூறு\" என்று கூறியவர் மகாத்மா காந்தியடிகள்.",
+    "explanation_en": "Mahatma Gandhi feet who said “It is a slur to call women the weaker sex”."
+  },
+  {
+    "id": 5,
+    "question": "\"நமது எதிர்காலம் பெண்களை உதாசீனப்படுத்துவோர் கையில் இல்லை\" என்று கூறியவர் ________.",
+    "options": [
+      "மகாத்மா காந்தி",
+      "தந்தை பெரியார்",
+      "பராக் ஒபாமா",
+      "இந்திரா காந்தி"
+    ],
+    "correct": 2,
+    "question_en": "________ who said \"Our future is not in the hands of those who neglect women\".",
+    "options_en": [
+      "Mahatma Gandhi",
+      "Father Periyar",
+      "Barack Obama",
+      "Indira Gandhi"
+    ],
+    "explanation": "\"நமது எதிர்காலம் பெண்களை உதாசீனப்படுத்துவோர் கையில் இல்லை\" என்று கூறியவர் பராக் ஒபாமா.",
+    "explanation_en": "Barack Obama who said \"Our future is not in the hands of those who neglect women\"."
+  },
+  {
+    "id": 6,
+    "question": "உலகெங்கிலும் கல்வியறிவற்ற இளையோரில் எத்தனை சதவீதம் பேர் பெண்கள்?",
+    "options": [
+      "36%",
+      "63%",
+      "47%",
+      "74%"
+    ],
+    "correct": 1,
+    "question_en": "What percentage of illiterate youth worldwide are women?",
+    "options_en": [
+      "36%",
+      "63%",
+      "47%",
+      "74%"
+    ],
+    "explanation": "63%",
+    "explanation_en": "63%"
+  },
+  {
+    "id": 7,
+    "question": "கல்வி ஒரு பெண்ணின் வருமானம் ஈட்டும் திறனை அதிகரிக்கிறது எனக் கூறியது ________.",
+    "options": [
+      "UNESCO",
+      "UNICEF",
+      "ஐ.நா சபை",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "________ states that education increases a woman's earning capacity.",
+    "options_en": [
+      "UNESCO",
+      "UNICEF",
+      "UN Council",
+      "None of these"
+    ],
+    "explanation": "கல்வி ஒரு பெண்ணின் வருமானம் ஈட்டும் திறனை அதிகரிக்கிறது எனக் கூறியது UNESCO.",
+    "explanation_en": "UNESCO states that education increases a woman's earning capacity."
+  },
+  {
+    "id": 8,
+    "question": "சரியானவற்றைத் தேர்ந்தெடு\n1) இந்தியாவின் முதல் பெண் பிரதமர் - பாத்திமா பீவி\n2) முதல் பெண் காவல்துறை இயக்குநர் - கிரண்பேடி\n3) முதல் பெண் குடியரசுத் தலைவர் - பிரதிபா பாட்டீல்\n4) சுதந்திர இந்தியாவின் முதல் பெண் ஆளுநர் - சரோஜினி நாயுடு",
+    "options": [
+      "2, 3, 4 சரி",
+      "1, 2, 3 சரி",
+      "3, 4 சரி",
+      "1, 4 சரி"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct ones\n1) India's first woman Prime Minister - Fatima Bivi\n2) First Woman Director of Police - Kiranbedi\n3) First woman President - Pratibha Patil\n4) First woman governor of independent India - Sarojini Naidu",
+    "options_en": [
+      "2, 3, 4 OK",
+      "1, 2, 3 OK",
+      "3, 4 OK",
+      "1, 4 OK"
+    ],
+    "explanation": "3, 4 சரி",
+    "explanation_en": "3, 4 OK"
+  },
+  {
+    "id": 9,
+    "question": "பொருத்துக\ni. உச்ச நீதிமன்ற முதல் பெண் நீதிபதி - c. பாத்திமா பீவி\nii. முதல் பெண் சபாநாயகர் - b. மீரா குமார்\niii. இந்தியாவின் முதல் பெண் நிதியமைச்சர் - d. நிர்மலா சீத்தாராமன்\niv. நோபல் பரிசு பெற்ற முதல் பெண் - a. அன்னை தெரசா",
+    "options": [
+      "i - a, ii - c, iii - d, iv - b",
+      "i - d, ii - a, iii - b, iv - c",
+      "i - b, ii - c, iii - d, iv - a",
+      "i - c, ii - b, iii - d, iv - a"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. First Woman Judge of Supreme Court - c. Fatima Beavi\nii. First Woman Speaker – b. Meera Kumar\niii. India's first woman finance minister - d. Nirmala Sitharaman\niv. First woman to win Nobel Prize - a. Mother Teresa",
+    "options_en": [
+      "i - a, ii - c, iii - d, iv - b",
+      "i - d, ii - a, iii - b, iv - c",
+      "i - b, ii - c, iii - d, iv - a",
+      "i - c, ii - b, iii - d, iv - a"
+    ],
+    "explanation": "i - c, ii - b, iii - d, iv - a",
+    "explanation_en": "i - c, ii - b, iii - d, iv - a"
+  },
+  {
+    "id": 10,
+    "question": "தவறான ஒன்றைத் தேர்ந்தெடு",
+    "options": [
+      "இந்தியாவின் முதல் பெண் மாநில முதலமைச்சர் சுசிதா கிருபாளினி.",
+      "புக்கர் பரிசு பெற்ற முதல் இந்திய பெண் அருந்ததி ராய்.",
+      "முதல் மகளிர் பல்கலைக்கழகம் புனேயில் தொடங்கப்பட்டது.",
+      "இந்திய தேசிய காங்கிரசின் முதல் பெண் தலைவர் சோனியா காந்தி."
+    ],
+    "correct": 3,
+    "question_en": "Choose the wrong one",
+    "options_en": [
+      "Sushita Kripalini is the first woman Chief Minister of India.",
+      "Arundhati Roy was the first Indian woman to win the Booker Prize.",
+      "The first women's university was started in Pune.",
+      "Sonia Gandhi is the first woman president of the Indian National Congress."
+    ],
+    "explanation": "இந்திய தேசிய காங்கிரசின் முதல் பெண் தலைவர் சோனியா காந்தி.",
+    "explanation_en": "Sonia Gandhi is the first woman president of the Indian National Congress."
+  },
+  {
+    "id": 11,
+    "question": "வேறுபட்ட ஒன்றைத் தேர்ந்தெடு",
+    "options": [
+      "சுஷ்மா ஸ்வராஜ்",
+      "கிரண்பேடி",
+      "அருந்ததிராய்",
+      "ஜோதிராவ் புலே"
+    ],
+    "correct": 3,
+    "question_en": "Choose something different",
+    "options_en": [
+      "Sushma Swaraj",
+      "Kiran Bedi",
+      "Arundhatirai",
+      "Jyoti Rao Phule"
+    ],
+    "explanation": "ஜோதிராவ் புலே",
+    "explanation_en": "Jyoti Rao Phule"
+  },
+  {
+    "id": 12,
+    "question": "ஹரியானா மாநில இளம் வயது அமைச்சர் ________.",
+    "options": [
+      "விஜயலட்சுமி பண்டிட்",
+      "சுஷ்மா ஸ்வராஜ்",
+      "நிர்மலா சீத்தாராமன்",
+      "சுசிதா கிருபாளினி"
+    ],
+    "correct": 1,
+    "question_en": "Haryana State Youth Minister ________.",
+    "options_en": [
+      "Vijayalakshmi Pandit",
+      "Sushma Swaraj",
+      "Nirmala Sitharaman",
+      "Suchita Kripalini"
+    ],
+    "explanation": "ஹரியானா மாநில இளம் வயது அமைச்சர் சுஷ்மா ஸ்வராஜ்.",
+    "explanation_en": "Haryana State Youth Minister Sushma Swaraj."
+  },
+  {
+    "id": 13,
+    "question": "வாலண்டினா தெரஷ்கோவா எந்நாட்டைச் சார்ந்தவர்?",
+    "options": [
+      "இலங்கை",
+      "ஜப்பான்",
+      "இங்கிலாந்து",
+      "சோவியத் ஒன்றியம்"
+    ],
+    "correct": 3,
+    "question_en": "Valentina Tereshkova is from which country?",
+    "options_en": [
+      "Sri Lanka",
+      "Japan",
+      "England",
+      "Soviet Union"
+    ],
+    "explanation": "சோவியத் ஒன்றியம்",
+    "explanation_en": "Soviet Union"
+  },
+  {
+    "id": 14,
+    "question": "எவரெஸ்ட் சிகரத்தை அளவிட்டவர் ________.",
+    "options": [
+      "சார்லொட் கூப்பர்",
+      "ஜன்கோ தபே",
+      "சிறிமாவோ பண்டார நாயக்",
+      "வாலண்டினா தெரஷ்கோவா"
+    ],
+    "correct": 1,
+    "question_en": "Mount Everest was scaled by ________.",
+    "options_en": [
+      "Charlotte Cooper",
+      "Junko Tabe",
+      "Sirimao Bandara Naik",
+      "Valentina Tereshkova"
+    ],
+    "explanation": "எவரெஸ்ட் சிகரத்தை அளவிட்டவர் ஜன்கோ தபே.",
+    "explanation_en": "Mount Everest was scaled by Junko Tabe."
+  },
+  {
+    "id": 15,
+    "question": "2011 ம் ஆண்டு கணக்கெடுப்பின் படி இந்தியாவில் பெண்களின் கல்வியறிவு சதவீதம்?",
+    "options": [
+      "8.86%",
+      "39.29%",
+      "65.46%",
+      "64.56%"
+    ],
+    "correct": 2,
+    "question_en": "Literacy percentage of women in India as per 2011 census?",
+    "options_en": [
+      "8.86%",
+      "39.29%",
+      "65.46%",
+      "64.56%"
+    ],
+    "explanation": "65.46%",
+    "explanation_en": "65.46%"
+  },
+  {
+    "id": 16,
+    "question": "2011 ஆம் ஆண்டு கணக்கெடுப்பின்படி இந்தியாவில் ஆண் / பெண் கல்வியறிவு இடைவெளி வீதம் ________.",
+    "options": [
+      "23.98%",
+      "25.05%",
+      "21.59%",
+      "16.68%"
+    ],
+    "correct": 3,
+    "question_en": "According to 2011 census the male / female literacy gap rate in India is ________.",
+    "options_en": [
+      "23.98%",
+      "25.05%",
+      "21.59%",
+      "16.68%"
+    ],
+    "explanation": "2011 ஆம் ஆண்டு கணக்கெடுப்பின்படி இந்தியாவில் ஆண் / பெண் கல்வியறிவு இடைவெளி வீதம் 16.68%.",
+    "explanation_en": "According to 2011 census the male / female literacy gap rate in India is 16.68%."
+  },
+  {
+    "id": 17,
+    "question": "எவரெஸ்ட் சிகரத்தை அடைந்த முதல் இந்தியப் பெண் ________.",
+    "options": [
+      "ஜன்கோ தபே",
+      "பச்சேந்திரி பால்",
+      "கிரண்பேடி",
+      "காஞ்சன் சௌத்ரி பட்டாச்சாரியா"
+    ],
+    "correct": 1,
+    "question_en": "The first Indian woman to reach Mount Everest was ________.",
+    "options_en": [
+      "Junko Tabe",
+      "Bachendri milk",
+      "Kiran Bedi",
+      "Kanchan Chowdhury Bhattacharya"
+    ],
+    "explanation": "எவரெஸ்ட் சிகரத்தை அடைந்த முதல் இந்தியப் பெண் பச்சேந்திரி பால்.",
+    "explanation_en": "The first Indian woman to reach Mount Everest was Bachendri milk."
+  },
+  {
+    "id": 18,
+    "question": "புனேயில் SNDT பல்கலைக் கழகத்தை தொடங்கியவர் ________.",
+    "options": [
+      "மகর্ষি கார்வே",
+      "ஜோதிராவ் புலே",
+      "சாவித்திரிபாய் புலே",
+      "எவருமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "SNDT University in Pune was started by ________.",
+    "options_en": [
+      "Makarshi Garvey",
+      "Jyoti Rao Phule",
+      "Savitribai Phule",
+      "No one"
+    ],
+    "explanation": "புனேயில் SNDT பல்கலைக் கழகத்தை தொடங்கியவர் மகর্ষি கார்வே.",
+    "explanation_en": "SNDT University in Pune was started by Makarshi Garvey."
+  },
+  {
+    "id": 19,
+    "question": "பின்வருவனவற்றுள் எது பெண்களின் கல்வியறிவு விகிதம் குறைவுக்கான காரணமில்லை?",
+    "options": [
+      "பாலின அடிப்படையிலான சமத்துவமின்மை.",
+      "சமூகப் பாகுபாடு மற்றும் பொருளாதார சீரழிவு.",
+      "பள்ளிகளில் பெண் குழந்தைகளின் சேர்க்கை குறைவு.",
+      "பெண் குழந்தைகளுக்கு முக்கியத்துவம் அளித்தல்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a reason for low female literacy rate?",
+    "options_en": [
+      "Gender-based inequality.",
+      "Social discrimination and economic degradation.",
+      "Enrollment of girls in schools is low.",
+      "Emphasis on girl children."
+    ],
+    "explanation": "பெண் குழந்தைகளுக்கு முக்கியத்துவம் அளித்தல்.",
+    "explanation_en": "Emphasis on girl children. is not a reason for low female literacy rate."
+  },
+  {
+    "id": 20,
+    "question": "ஒலிம்பிக்கில் தங்கம் வென்ற முதல் பெண் ________.",
+    "options": [
+      "கிரண் பேடி",
+      "ஜன்கோ தபே",
+      "வாலண்டினா தெரெஷ் கோவா",
+      "சார்லொட் கூப்பர்"
+    ],
+    "correct": 3,
+    "question_en": "The first woman to win gold at the Olympics was ________.",
+    "options_en": [
+      "Kiran Bedi",
+      "Junko Tabe",
+      "Valentina Teresh Goa",
+      "Charlotte Cooper"
+    ],
+    "explanation": "ஒலிம்பிக்கில் தங்கம் வென்ற முதல் பெண் சார்லொட் கூப்பர்.",
+    "explanation_en": "The first woman to win gold at the Olympics was Charlotte Cooper."
+  },
+  {
+    "id": 21,
+    "question": "பின்வருவனவற்றில் எது பாலின சமத்துவமின்மை அல்ல?",
+    "options": [
+      "மோசமான பேறுகால ஆரோக்கியம்.",
+      "ஆண்களுக்கு அதிக பாதுகாப்பற்ற தன்மை.",
+      "எச்.ஐ.வி / எய்ட்ஸ் பரவுதல்.",
+      "பெண்களின் குறைந்த எழுத்தறிவு விகிதம்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not a gender inequality?",
+    "options_en": [
+      "Poor perinatal health.",
+      "Men are more insecure.",
+      "Transmission of HIV/AIDS.",
+      "Low literacy rate among women."
+    ],
+    "explanation": "எச்.ஐ.வி / எய்ட்ஸ் பரவுதல்.",
+    "explanation_en": "Transmission of HIV/AIDS. is not a gender inequality."
+  },
+  {
+    "id": 22,
+    "question": "பாலின சமத்துவம் என்பது ________ தொடர்புடைய பிரச்சனை.",
+    "options": [
+      "பெண் குழந்தைகள், பெண்களின் பிரச்சனை.",
+      "அனைத்து சமூகத்திலும் பெண்களும் ஆண்களும் சமம்.",
+      "மூன்றாம் உலக நாடுகள் மட்டும்.",
+      "வளர்ந்த நாடுகள் மட்டும்."
+    ],
+    "correct": 1,
+    "question_en": "Gender equality is an issue related to ________.",
+    "options_en": [
+      "Girl children, women's problem.",
+      "Men and women are equal in all societies.",
+      "Third world countries only.",
+      "Developed countries only."
+    ],
+    "explanation": "பாலின சமத்துவம் என்பது அனைத்து சமூகத்திலும் பெண்களும் ஆண்களும் சமம். தொடர்புடைய பிரச்சனை.",
+    "explanation_en": "Gender equality is an issue related to Men and women are equal in all societies.."
+  },
+  {
+    "id": 23,
+    "question": "பெண்கள் சமூக மற்றும் பொருளாதார ரீதியாக மேம்பட பின்வரும் எந்த உத்திகள் உதவுகின்றது?",
+    "options": [
+      "பாதுகாப்பிற்கு எதிரான சவால்களுக்கு பெண்கள் இணைந்து பணியாற்றுகின்றனர்.",
+      "பெண்களுக்கான அதிகமான வருமான ஆதாரங்கள்.",
+      "மேம்பட்ட கல்விக்கான அணுகுமுறை.",
+      "மேலே உள்ள அனைத்தும்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following strategies help women improve socially and economically?",
+    "options_en": [
+      "Women work together to address security challenges.",
+      "More sources of income for women.",
+      "An approach to advanced education.",
+      "All of the above."
+    ],
+    "explanation": "மேலே உள்ள அனைத்தும்.",
+    "explanation_en": "All of the above."
+  },
+  {
+    "id": 24,
+    "question": "வளரும் நாடுகளில் சிறுவர்களை விட பெண் குழந்தைகள் இடைநிலைக் கல்வியை தவற விடுவது ஏன்?",
+    "options": [
+      "பள்ளிக் கல்வி கட்டணம் உயர்வு காரணமாக, சிறுவர்கள் மட்டும் பள்ளிக்கு அனுப்பப்படுகிறார்கள்.",
+      "பெண் குழந்தைகள் வீட்டு வேலை செய்ய எதிர்பார்க்கப்படுகிறது.",
+      "குழந்தைத் திருமணம் அவர்களின் சுதந்திரத்தைக் கட்டுப்படுத்துகிறது.",
+      "மேலே உள்ள அனைத்தும்."
+    ],
+    "correct": 3,
+    "question_en": "Why do girls miss out on secondary education more than boys in developing countries?",
+    "options_en": [
+      "Due to high school fees, only boys are sent to school.",
+      "Girls are expected to do housework.",
+      "Child marriage restricts their freedom.",
+      "All of the above."
+    ],
+    "explanation": "மேலே உள்ள அனைத்தும்.",
+    "explanation_en": "All of the above."
+  },
+  {
+    "id": 25,
+    "question": "_________ ஒருவருக்கு அறிவுபூர்வமாகச் சிந்திக்கும் திறன் மற்றும் தனித்தன்மை வாய்ந்த முடிவுகளை எடுக்க உதவுகிறது.",
+    "options": [
+      "செல்வம்",
+      "சொத்து",
+      "கல்வி",
+      "வேலை"
+    ],
+    "correct": 2,
+    "question_en": "_________ enables one to think rationally and make rational decisions.",
+    "options_en": [
+      "Wealth",
+      "Property",
+      "Education",
+      "Work"
+    ],
+    "explanation": "கல்வி ஒருவருக்கு அறிவுபூர்வமாகச் சிந்திக்கும் திறன் மற்றும் தனித்தன்மை வாய்ந்த முடிவுகளை எடுக்க உதவுகிறது.",
+    "explanation_en": "Education enables one to think rationally and make rational decisions."
+  },
+  {
+    "id": 26,
+    "question": "_______ ஆண்டுகளுக்கு முன்பே பன்னாட்டு மனித உரிமைகள் ஆணையம் 'அனைவருக்கும் கல்வி' என்ற உரிமையை வலியுறுத்தி உள்ளது.",
+    "options": [
+      "30",
+      "20",
+      "10",
+      "40"
+    ],
+    "correct": 3,
+    "question_en": "_______ years ago the International Commission on Human Rights emphasized the right to 'Education for All'.",
+    "options_en": [
+      "30",
+      "20",
+      "10",
+      "40"
+    ],
+    "explanation": "40 ஆண்டுகளுக்கு முன்பே பன்னாட்டு மனித உரிமைகள் ஆணையம் 'அனைவருக்கும் கல்வி' என்ற உரிமையை வலியுறுத்தி உள்ளது.",
+    "explanation_en": "40 years ago the International Commission on Human Rights emphasized the right to 'Education for All'."
+  },
+  {
+    "id": 27,
+    "question": "கீழ்கண்டவர்களில் யார் முதன்மையானவர் அல்ல?",
+    "options": [
+      "கிரண் பேடி",
+      "ஜானகி",
+      "ஜெயலலிதா",
+      "ஜன்கோ தபே"
+    ],
+    "correct": 2,
+    "question_en": "Who among the following is not prime?",
+    "options_en": [
+      "Kiran Bedi",
+      "Janaki",
+      "Jayalalithaa",
+      "Junko Tabe"
+    ],
+    "explanation": "ஜெயலலிதா",
+    "explanation_en": "Jayalalithaa"
+  },
+  {
+    "id": 28,
+    "question": "பின்தங்கிய நாடுகளில் மூன்றில் ஒரு பெண் குழந்தைகளுக்கு எத்தனை வயதிற்குள் திருமணம் ஆகிவிடுகிறது?",
+    "options": [
+      "18",
+      "20",
+      "16",
+      "14"
+    ],
+    "correct": 0,
+    "question_en": "At what age do one-third of girls in underdeveloped countries get married?",
+    "options_en": [
+      "18",
+      "20",
+      "16",
+      "14"
+    ],
+    "explanation": "18",
+    "explanation_en": "18"
+  },
+  {
+    "id": 29,
+    "question": "மத்திய வெளியுறவுத் துறை அமைச்சர் பதவி வகித்த முதல் பெண் ________.",
+    "options": [
+      "விஜயலட்சுமி பண்டிட்",
+      "சுஷ்மா ஸ்வராஜ்",
+      "நிர்மலா சீத்தாராமன்",
+      "சுசிதா கிருபாளினி"
+    ],
+    "correct": 1,
+    "question_en": "________ was the first woman to hold the post of Union Minister of External Affairs.",
+    "options_en": [
+      "Vijayalakshmi Pandit",
+      "Sushma Swaraj",
+      "Nirmala Sitharaman",
+      "Suchita Kripalini"
+    ],
+    "explanation": "மத்திய வெளியுறவுத் துறை அமைச்சர் பதவி வகித்த முதல் பெண் சுஷ்மா ஸ்வராஜ்.",
+    "explanation_en": "Sushma Swaraj was the first woman to hold the post of Union Minister of External Affairs."
+  },
+  {
+    "id": 30,
+    "question": "முதல் பெண் காவல்துறை இயக்குநர் (DGP) ________ ஆவார்.",
+    "options": [
+      "காஞ்சன் சௌத்ரி பட்டாச்சாரியா",
+      "ஜன்கோ தபே",
+      "வாலண்டினா தெரெஷ் கோவா",
+      "நிர்மலா சீத்தாராமன்"
+    ],
+    "correct": 0,
+    "question_en": "The first woman Director of Police (DGP) was ________.",
+    "options_en": [
+      "Kanchan Chowdhury Bhattacharya",
+      "Junko Tabe",
+      "Valentina Teresh Goa",
+      "Nirmala Sitharaman"
+    ],
+    "explanation": "முதல் பெண் காவல்துறை இயக்குநர் (DGP) காஞ்சன் சௌத்ரி பட்டாச்சாரியா ஆவார்.",
+    "explanation_en": "The first woman Director of Police (DGP) was Kanchan Chowdhury Bhattacharya."
+  },
+  {
+    "id": 31,
+    "question": "புக்கர் பரிசை வென்ற முதல் இந்திய பெண் ________.",
+    "options": [
+      "சுஷ்மா ஸ்வராஜ்",
+      "கிரண்பேடி",
+      "அருந்ததிராய்",
+      "ஜோதிராவ் புலே"
+    ],
+    "correct": 2,
+    "question_en": "________ was the first Indian woman to win the Booker Prize.",
+    "options_en": [
+      "Sushma Swaraj",
+      "Kiran Bedi",
+      "Arundhatirai",
+      "Jyoti Rao Phule"
+    ],
+    "explanation": "புக்கர் பரிசை வென்ற முதல் இந்திய பெண் அருந்ததிராய்.",
+    "explanation_en": "Arundhatirai was the first Indian woman to win the Booker Prize."
+  },
+  {
+    "id": 32,
+    "question": "பொருத்துக\n(i) சிறிமாவோ பண்டார நாயக் - c. இலங்கை\n(ii) வாலண்டினா தெரெஷ்கோவா - d. சோவியத் ஒன்றியம்\n(iii) ஜன்கோ தபே - b. ஜப்பான்\n(iv) சார்லொட் கூப்பர் - a. இங்கிலாந்து",
+    "options": [
+      "(i) - c, (ii) - a, (iii) - d, (iv) - b",
+      "(i) - b, (ii) - c, (iii) - d, (iv) - a",
+      "(i) - b, (ii) - c, (iii) - a, (iv) - d",
+      "(i) - c, (ii) - d, (iii) - b, (iv) - a"
+    ],
+    "correct": 3,
+    "question_en": "match\n(i) Sirimao Bandara Naik - c. Sri Lanka\n(ii) Valentina Tereshkova - d. Soviet Union\n(iii) Janko Thabe - b. Japan\n(iv) Charlotte Cooper – a. England",
+    "options_en": [
+      "(i) - c, (ii) - a, (iii) - d, (iv) - b",
+      "(i) - b, (ii) - c, (iii) - d, (iv) - a",
+      "(i) - b, (ii) - c, (iii) - a, (iv) - d",
+      "(i) - c, (ii) - d, (iii) - b, (iv) - a"
+    ],
+    "explanation": "(i) - c, (ii) - d, (iii) - b, (iv) - a",
+    "explanation_en": "(i) - c, (ii) - d, (iii) - b, (iv) - a"
+  },
+  {
+    "id": 33,
+    "question": "பொருத்தமான பதிலைத் தேர்வு செய்க\nகூற்று: இப்போது அனைத்து மனிதாபிமான நடவடிக்கைகள் அனைத்திலும் பெண்கள் ஒருங்கிணைக்கிறார்கள்.\nகாரணம்: சமூகத்தின் அனைத்து மோதல்களிலும் பெண்கள் அதிகம் பாதிக்கப்படுகின்றார்கள்.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி. ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் ஆகும்.",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி. ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல",
+      "கூற்று சரி ஆனால், காரணம் தவறு",
+      "கூற்று தவறானது ஆனால், காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Choose the appropriate answer\nClaim: Women are now coordinating all humanitarian activities.\nReason: Women suffer more in all conflicts of society.",
+    "options_en": [
+      "Both statement and reason are correct. But reason is the correct explanation for the claim.",
+      "Both statement and reason are correct. But reason is not a valid explanation for the claim",
+      "The statement is correct but the reason is wrong",
+      "The statement is false but the reason is correct"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி. ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் ஆகும்.",
+    "explanation_en": "Both statement and reason are correct. But reason is the correct explanation for the claim."
+  },
+  {
+    "id": 34,
+    "question": "பொருத்தமான பதிலைத் தேர்வு செய்க\nகூற்று: பெண்களுக்கு எதிரான வன்முறை சாதி, மதம், வர்க்கம், வயது மற்றும் கல்வியை கடந்து நடைபெறுகிறது.\nகாரணம்: வீட்டு வன்முறைகள், கருக்கலைப்பு, பெண்சிசுக்கொலை, வரதட்சணைக் கொலை, திருமணம் மூலம் கொடுமை, சிறுவருக்கு நிகழும் கொடுமைகள் என வெளிப்படுகிறது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் ஆகும்.",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல.",
+      "கூற்று சரி ஆனால் காரணம் தவறு",
+      "கூற்று தவறானது ஆனால் காரணம் சரி"
+    ],
+    "correct": 1,
+    "question_en": "Choose the appropriate answer\nAssertion: Violence against women cuts across caste, religion, class, age and education.\nCause: Manifests as domestic violence, abortion, female infanticide, dowry murder, marital cruelty, child abuse.",
+    "options_en": [
+      "Both the statement and the reason are correct but the reason is the correct explanation for the statement.",
+      "Both the statement and the reason are correct but the reason is not the correct explanation for the statement.",
+      "The statement is correct but the reason is wrong",
+      "The statement is false but the reason is correct"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல.",
+    "explanation_en": "Both the statement and the reason are correct but the reason is not the correct explanation for the statement."
+  },
+  {
+    "id": 35,
+    "question": "மக்களவை முதல் பெண் சபாநாயகர் ________.",
+    "options": [
+      "மீராகுமார்",
+      "அருந்ததிராய்",
+      "இந்திராகாந்தி",
+      "சாவித்திரி பாய்"
+    ],
+    "correct": 0,
+    "question_en": "The first woman Speaker of the Lok Sabha was ________.",
+    "options_en": [
+      "Meera Kumar",
+      "Arundhatirai",
+      "Indira Gandhi",
+      "Savitri Bai"
+    ],
+    "explanation": "மக்களவை முதல் பெண் சபாநாயகர் மீராகுமார்.",
+    "explanation_en": "The first woman Speaker of the Lok Sabha was Meera Kumar."
+  }
+]

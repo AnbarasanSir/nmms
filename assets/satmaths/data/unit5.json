@@ -1,0 +1,2187 @@
+[
+    {
+        "id": 1,
+        "question": "ஒரு சதுரத்தின் பக்க அளவு 16 மீ. எனில், அதன் சுற்றளவு என்ன?",
+        "options": [
+            "4 மீ",
+            "256 மீ",
+            "32 மீ",
+            "64 மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 64 மீ. சதுரத்தின் சுற்றளவு காணும் சூத்திரம் = 4 × பக்கம். எனவே, 4 × 16 = 64 மீ.",
+        "question_en": "If the side of a square is 16 m, what is its perimeter?",
+        "options_en": [
+            "4 m",
+            "256 m",
+            "32 m",
+            "64 m"
+        ],
+        "explanation_en": "Correct answer option (4): 64 m. The perimeter of a square is 4 × side. So, 4 × 16 = 64 m."
+    },
+    {
+        "id": 2,
+        "question": "ஒரு சதுரத்தின் பக்க அளவு 9 மீ. எனில், அதன் பரப்பளவு என்ன?",
+        "options": [
+            "81 ச.மீ",
+            "17 ச.மீ",
+            "13 ச.மீ",
+            "20 ச.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 81 ச.மீ. சதுரத்தின் பரப்பளவு = பக்கம் × பக்கம் = 9 × 9 = 81 ச.மீ.",
+        "question_en": "If the side of a square is 9 m, what is its area?",
+        "options_en": [
+            "81 sq.m",
+            "17 sq.m",
+            "13 sq.m",
+            "20 sq.m"
+        ],
+        "explanation_en": "Correct answer option (1): 81 sq.m. The area of a square is side × side = 9 × 9 = 81 sq.m."
+    },
+    {
+        "id": 3,
+        "question": "ஒரு சதுரத்தின் பரப்பளவு 169 செ.மீ² எனில் அதன் பக்கம்",
+        "options": [
+            "12 செ.மீ",
+            "8 செ.மீ",
+            "13 செ.மீ",
+            "16 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 13 செ.மீ. பரப்பளவு = பக்கம்² = 169. எனவே, பக்கம் = √169 = 13 செ.மீ.",
+        "question_en": "If the area of a square is 169 cm², its side is",
+        "options_en": [
+            "12 cm",
+            "8 cm",
+            "13 cm",
+            "16 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 13 cm. Area = side² = 169. Therefore, side = √169 = 13 cm."
+    },
+    {
+        "id": 4,
+        "question": "ஒரு சதுர வடிவப் பூங்காவின் சுற்றளவு 40 மீ எனில், பூங்காவின் ஒரு பக்க அளவு",
+        "options": [
+            "10 மீ",
+            "8 மீ",
+            "160 மீ",
+            "16 மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 10 மீ. சுற்றளவு 4 × பக்கம் = 40. எனவே, பக்கம் = 40 / 4 = 10 மீ.",
+        "question_en": "If the perimeter of a square park is 40 m, the length of one side of the park is",
+        "options_en": [
+            "10 m",
+            "8 m",
+            "160 m",
+            "16 m"
+        ],
+        "explanation_en": "Correct answer option (1): 10 m. Perimeter 4 × side = 40. Therefore, side = 40 / 4 = 10 m."
+    },
+    {
+        "id": 5,
+        "question": "ஒரு சதுர வடிவ தோட்டத்தை ஒருவர் எல்லையில் சுற்றி வர 64 மீ. நடக்க வேண்டியுள்ளது. எனில் அத்தோட்டத்தின் பரப்பு",
+        "options": [
+            "32 ச.மீ",
+            "81 ச.மீ",
+            "256 ச.மீ",
+            "18 ச.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 256 ச.மீ. எல்லையைச் சுற்றி வருவது சுற்றளவைக் குறிக்கும் (4a = 64 மீ), இதிலிருந்து a = 16 மீ. பரப்பளவு = 16 × 16 = 256 ச.மீ.",
+        "question_en": "A person has to walk 64 m to go around the boundary of a square garden. What is the area of the garden?",
+        "options_en": [
+            "32 sq.m",
+            "81 sq.m",
+            "256 sq.m",
+            "18 sq.m"
+        ],
+        "explanation_en": "Correct answer option (3): 256 sq.m. Walking around the boundary gives the perimeter (4a = 64 m), which means a = 16 m. Area = 16 × 16 = 256 sq.m."
+    },
+    {
+        "id": 6,
+        "question": "ஒரு சதுர வடிவப் பூங்காவின் பரப்பளவு 36 மீ² எனில், பூங்காவின் சுற்றளவு",
+        "options": [
+            "24 மீ",
+            "81 மீ",
+            "9 மீ",
+            "18 மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 24 மீ. பரப்பளவு a² = 36 எனில் a = 6 மீ. சுற்றளவு 4a = 4 × 6 = 24 மீ.",
+        "question_en": "If the area of a square park is 36 m², the perimeter of the park is",
+        "options_en": [
+            "24 m",
+            "81 m",
+            "9 m",
+            "18 m"
+        ],
+        "explanation_en": "Correct answer option (1): 24 m. Area a² = 36 means a = 6 m. Perimeter 4a = 4 × 6 = 24 m."
+    },
+    {
+        "id": 7,
+        "question": "ஒரு செவ்வகத்தின் பரப்பளவு ____ ச.அலகுகள்.",
+        "options": [
+            "\\( l \\times b \\)",
+            "\\( b \\times h \\)",
+            "\\( \\frac{1}{2} \\times h \\times (a+b) \\)",
+            "\\( \\frac{1}{2} \\times d \\times (h_1+h_2) \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( l \\times b \\). செவ்வகத்தின் பரப்பளவு நீளம் (l) மற்றும் அகலத்தின் (b) பெருக்கற்பலனுக்குச் சமம்.",
+        "question_en": "The area of a rectangle is ____ sq. units.",
+        "options_en": [
+            "\\( l \\times b \\)",
+            "\\( b \\times h \\)",
+            "\\( \\frac{1}{2} \\times h \\times (a+b) \\)",
+            "\\( \\frac{1}{2} \\times d \\times (h_1+h_2) \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( l \\times b \\). The area of a rectangle is the product of its length (l) and breadth (b)."
+    },
+    {
+        "id": 8,
+        "question": "ஒரு செவ்வகத்தின் நீளம் 70 மி.மீ மற்றும் அகலம் 60 மி.மீ எனில் அதன் பரப்பளவு",
+        "options": [
+            "4200 ச.மி.மீ",
+            "26 ச.மி.மீ",
+            "130 ச.மி.மீ",
+            "42 ச.செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 42 ச.செ.மீ. பரப்பளவு = 70 × 60 = 4200 ச.மி.மீ. 100 ச.மி.மீ = 1 ச.செ.மீ என்பதால், 4200 ச.மி.மீ = 42 ச.செ.மீ.",
+        "question_en": "If the length of a rectangle is 70 mm and the breadth is 60 mm, its area is",
+        "options_en": [
+            "4200 sq.mm",
+            "26 sq.mm",
+            "130 sq.mm",
+            "42 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 42 sq.cm. Area = 70 × 60 = 4200 sq.mm. Since 100 sq.mm = 1 sq.cm, 4200 sq.mm is 42 sq.cm."
+    },
+    {
+        "id": 9,
+        "question": "ஒரு செவ்வகத்தின் நீளம் 6.3 மீ மற்றும் அகலம் 3.2 மீ எனில் அதன் சுற்றளவு",
+        "options": [
+            "9.5 மீ",
+            "20.16 மீ",
+            "19 மீ",
+            "25.2 மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 19 மீ. செவ்வகத்தின் சுற்றளவு = 2(l + b) = 2(6.3 + 3.2) = 2(9.5) = 19 மீ.",
+        "question_en": "If the length of a rectangle is 6.3 m and the breadth is 3.2 m, its perimeter is",
+        "options_en": [
+            "9.5 m",
+            "20.16 m",
+            "19 m",
+            "25.2 m"
+        ],
+        "explanation_en": "Correct answer option (3): 19 m. Perimeter of a rectangle = 2(l + b) = 2(6.3 + 3.2) = 2(9.5) = 19 m."
+    },
+    {
+        "id": 10,
+        "question": "ஒரு செவ்வகத்தின் பரப்பளவு 84 மீ² மற்றும் நீளம் 14 மீ எனில் அகலம்",
+        "options": [
+            "6 மீ",
+            "98 மீ",
+            "1176 மீ",
+            "8 மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 6 மீ. அகலம் = பரப்பளவு / நீளம் = 84 / 14 = 6 மீ.",
+        "question_en": "If the area of a rectangle is 84 m² and its length is 14 m, the breadth is",
+        "options_en": [
+            "6 m",
+            "98 m",
+            "1176 m",
+            "8 m"
+        ],
+        "explanation_en": "Correct answer option (1): 6 m. Breadth = Area / Length = 84 / 14 = 6 m."
+    },
+    {
+        "id": 11,
+        "question": "ஒரு செவ்வக வடிவிலான புகைப்படம் ஒன்றின் பரப்பளவு 820 ச.செ.மீ. மற்றும் அகலம் 20 செ.மீ. எனில் அதன் நீளம்",
+        "options": [
+            "40 செ.மீ.",
+            "41 செ.மீ.",
+            "45 செ.மீ.",
+            "48 செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 41 செ.மீ. நீளம் = பரப்பளவு / அகலம் = 820 / 20 = 41 செ.மீ.",
+        "question_en": "The area of a rectangular photograph is 820 sq.cm and its breadth is 20 cm. Its length is",
+        "options_en": [
+            "40 cm",
+            "41 cm",
+            "45 cm",
+            "48 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 41 cm. Length = Area / Breadth = 820 / 20 = 41 cm."
+    },
+    {
+        "id": 12,
+        "question": "ஒரு செவ்வகத்தின் சுற்றளவு 36 மி.மீ. மற்றும் அதன் நீளம் 12 மி.மீ. எனில் அதன் அகலம்?",
+        "options": [
+            "32 மி.மீ.",
+            "6 மி.மீ.",
+            "3 மி.மீ.",
+            "24 மி.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 6 மி.மீ. சுற்றளவு 2(l + b) = 36. எனவே l + b = 18. 12 + b = 18 என்றால் b = 6 மி.மீ.",
+        "question_en": "The perimeter of a rectangle is 36 mm and its length is 12 mm. What is its breadth?",
+        "options_en": [
+            "32 mm",
+            "6 mm",
+            "3 mm",
+            "24 mm"
+        ],
+        "explanation_en": "Correct answer option (2): 6 mm. Perimeter 2(l + b) = 36. So l + b = 18. 12 + b = 18 means b = 6 mm."
+    },
+    {
+        "id": 13,
+        "question": "ஒரு செவ்வகத்தின் சுற்றளவு 200 மி.மீ. மற்றும் அதன் அகலம் 30 மி.மீ. எனில் அதன் பரப்பளவு எவ்வளவு?",
+        "options": [
+            "460 ச.மி.மீ",
+            "6000 ச.மி.மீ",
+            "3000 ச.மி.மீ",
+            "2100 ச.மி.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 2100 ச.மி.மீ. சுற்றளவு 2(l + 30) = 200 => l + 30 = 100 => l = 70. பரப்பளவு = l × b = 70 × 30 = 2100 ச.மி.மீ.",
+        "question_en": "The perimeter of a rectangle is 200 mm and its breadth is 30 mm. What is its area?",
+        "options_en": [
+            "460 sq.mm",
+            "6000 sq.mm",
+            "3000 sq.mm",
+            "2100 sq.mm"
+        ],
+        "explanation_en": "Correct answer option (4): 2100 sq.mm. Perimeter 2(l + 30) = 200 => l + 30 = 100 => l = 70. Area = l × b = 70 × 30 = 2100 sq.mm."
+    },
+    {
+        "id": 14,
+        "question": "ஒரு செவ்வகத்தின் பரப்பளவு 90 ச.மீ. மற்றும் அதன் நீளம் 15 மீ. எனில் அதன் சுற்றளவு என்ன?",
+        "options": [
+            "6 மீ",
+            "21 மீ",
+            "42 மீ",
+            "1350 மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 42 மீ. அகலம் = 90 / 15 = 6 மீ. சுற்றளவு = 2(15 + 6) = 42 மீ.",
+        "question_en": "The area of a rectangle is 90 sq.m and its length is 15 m. What is its perimeter?",
+        "options_en": [
+            "6 m",
+            "21 m",
+            "42 m",
+            "1350 m"
+        ],
+        "explanation_en": "Correct answer option (3): 42 m. Breadth = 90 / 15 = 6 m. Perimeter = 2(15 + 6) = 42 m."
+    },
+    {
+        "id": 15,
+        "question": "ஒரு முக்கோணத்தின் அடிப்பக்கம் 9 செ.மீ மற்றும் உயரம் 12 செ.மீ எனில் அதன் பரப்பளவு",
+        "options": [
+            "108 ச.செ.மீ",
+            "21 ச.செ.மீ",
+            "42 ச.செ.மீ",
+            "54 ச.செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 54 ச.செ.மீ. முக்கோணத்தின் பரப்பளவு = (1/2) × b × h = (1/2) × 9 × 12 = 54 ச.செ.மீ.",
+        "question_en": "If the base of a triangle is 9 cm and the height is 12 cm, its area is",
+        "options_en": [
+            "108 sq.cm",
+            "21 sq.cm",
+            "42 sq.cm",
+            "54 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 54 sq.cm. Area of triangle = (1/2) × b × h = (1/2) × 9 × 12 = 54 sq.cm."
+    },
+    {
+        "id": 16,
+        "question": "ஒரு முக்கோணத்தின் பரப்பளவு 240 ச.செ.மீ. மற்றும் உயரம் 12 செ.மீ எனில் அதன் அடிப்பக்கம் என்ன?",
+        "options": [
+            "20 செ.மீ.",
+            "40 செ.மீ.",
+            "80 செ.மீ.",
+            "24 செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 40 செ.மீ. (1/2) × b × 12 = 240 => 6b = 240 => b = 40 செ.மீ.",
+        "question_en": "The area of a triangle is 240 sq.cm and its height is 12 cm. What is its base?",
+        "options_en": [
+            "20 cm",
+            "40 cm",
+            "80 cm",
+            "24 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 40 cm. (1/2) × b × 12 = 240 => 6b = 240 => b = 40 cm."
+    },
+    {
+        "id": 17,
+        "question": "ஒரு விளையாட்டுத்திடல் செங்கோண முக்கோண வடிவில் உள்ளது. செங்கோணம் தாங்கிய பக்கங்கள் 50 மீ, 80 மீ திடலில் சிமெண்ட் பூச சதுர மீட்டருக்கு ₹5 வீதம் ஆகும் செலவு",
+        "options": [
+            "₹20000",
+            "₹15000",
+            "₹10000",
+            "₹12500"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ₹10000. பரப்பளவு = (1/2) × 50 × 80 = 2000 ச.மீ. ஆகும் செலவு = 2000 × 5 = ₹10000.",
+        "question_en": "A playground is in the shape of a right-angled triangle. The sides forming the right angle are 50 m and 80 m. Find the cost of cementing the ground at the rate of ₹5 per square meter.",
+        "options_en": [
+            "₹20000",
+            "₹15000",
+            "₹10000",
+            "₹12500"
+        ],
+        "explanation_en": "Correct answer option (3): ₹10000. Area = (1/2) × 50 × 80 = 2000 sq.m. Total cost = 2000 × 5 = ₹10000."
+    },
+    {
+        "id": 18,
+        "question": "ஒரு தோட்டம் 5 மீ பக்க அளவுடைய சதுர வடிவில் உள்ளது. ஒவ்வொரு பக்கமும் 2 சுற்றுகள் கம்பியால் வேலி அமைக்க வேண்டும். மீட்டருக்கு ₹10 வீதம் தோட்டத்திற்கு வேலி அமைக்கத் தேவைப்படும் தொகையினைக் காண்க.",
+        "options": [
+            "₹500",
+            "₹600",
+            "₹400",
+            "₹300"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ₹400. தோட்டத்தின் சுற்றளவு = 4 × 5 = 20 மீ. 2 சுற்றுகளுக்குத் தேவையான கம்பி = 2 × 20 = 40 மீ. மொத்தச் செலவு = 40 × 10 = ₹400.",
+        "question_en": "A garden is in the shape of a square with a side of 5 m. It is to be fenced with wire for 2 rounds on each side. Find the cost required to fence the garden at the rate of ₹10 per meter.",
+        "options_en": [
+            "₹500",
+            "₹600",
+            "₹400",
+            "₹300"
+        ],
+        "explanation_en": "Correct answer option (3): ₹400. Perimeter of the garden = 4 × 5 = 20 m. Wire needed for 2 rounds = 2 × 20 = 40 m. Total cost = 40 × 10 = ₹400."
+    },
+    {
+        "id": 19,
+        "question": "ஒரு சதுரத்தின் பக்கம் 10 செ.மீ. அதனுடைய பக்கம் மூன்று மடங்காகும் போது சுற்றளவு எத்தனை மடங்காக அதிகரிக்கும்?",
+        "options": [
+            "2 மடங்கு",
+            "3 மடங்கு",
+            "4 மடங்கு",
+            "5 மடங்கு"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3 மடங்கு. சதுரத்தின் சுற்றளவு அதன் பக்க அளவோடு நேர்விகிதத்தில் இருக்கும் (P = 4a). எனவே, பக்க அளவு மூன்று மடங்கானால் சுற்றளவும் 3 மடங்காகவே அதிகரிக்கும்.",
+        "question_en": "The side of a square is 10 cm. When its side is tripled, by how many times will its perimeter increase?",
+        "options_en": [
+            "2 times",
+            "3 times",
+            "4 times",
+            "5 times"
+        ],
+        "explanation_en": "Correct answer option (2): 3 times. The perimeter of a square is directly proportional to its side length (P = 4a). So, if the side is tripled, the perimeter also triples."
+    },
+    {
+        "id": 20,
+        "question": "ஒரு சதுரத்தின் பக்கத்தை நான்கில் ஒரு பங்காக குறைத்தால் உருவாகும் புதிய சதுரத்தின் பரப்பளவில் என்ன மாற்றம் ஏற்படும்?",
+        "options": [
+            "1/15 பகுதி குறையும்",
+            "1/16 பகுதி அதிகரிக்கும்",
+            "1/16 பகுதி குறையும்",
+            "1/15 பகுதி அதிகரிக்கும்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1/16 பகுதி குறையும். பரப்பளவு என்பது பக்கத்தின் வர்க்கமாகும் (Area = a²). பக்கத்தை (1/4) ஆகக் குறைத்தால், பரப்பளவு (1/4)² = 1/16 ஆகக் குறையும்.",
+        "question_en": "What change will occur in the area of a newly formed square if the side of a square is reduced to one-fourth?",
+        "options_en": [
+            "Reduces by 1/15",
+            "Increases to 1/16",
+            "Reduces to 1/16",
+            "Increases by 1/15"
+        ],
+        "explanation_en": "Correct answer option (3): Reduces to 1/16. Area is the square of the side (Area = a²). If the side is reduced to 1/4, the area becomes (1/4)² = 1/16th of the original area."
+    },
+    {
+        "id": 21,
+        "question": "85 மீ நீளமும், 45 மீ அகலமும் கொண்ட சுவற்றில் வண்ணம் தீட்ட 1 ச.மீ. க்கு ₹8.80 வீதம் ஆகும் மொத்த செலவு",
+        "options": [
+            "₹33,660",
+            "₹33,600",
+            "₹43,660",
+            "₹27,660"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): ₹33,660. சுவற்றின் பரப்பளவு = 85 × 45 = 3825 ச.மீ. மொத்த செலவு = 3825 × 8.80 = ₹33,660.",
+        "question_en": "The total cost to paint a wall of length 85 m and breadth 45 m at the rate of ₹8.80 per sq.m is",
+        "options_en": [
+            "₹33,660",
+            "₹33,600",
+            "₹43,660",
+            "₹27,660"
+        ],
+        "explanation_en": "Correct answer option (1): ₹33,660. Area of the wall = 85 × 45 = 3825 sq.m. Total cost = 3825 × 8.80 = ₹33,660."
+    },
+    {
+        "id": 22,
+        "question": "ABCD என்ற சதுரத்தில் AC ஒரு மூலைவிட்டம் எனில் ∠BAC இன் மதிப்பு",
+        "options": [
+            "90°",
+            "45°",
+            "180°",
+            "30°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 45°. சதுரத்தின் ஒவ்வொரு கோணமும் 90° ஆகும். மூலைவிட்டம் அந்தக் கோணத்தை இருசமக் கூறிடும். எனவே, 90° / 2 = 45°.",
+        "question_en": "In square ABCD, if AC is a diagonal, the value of ∠BAC is",
+        "options_en": [
+            "90°",
+            "45°",
+            "180°",
+            "30°"
+        ],
+        "explanation_en": "Correct answer option (2): 45°. Each angle of a square is 90°. The diagonal bisects the angle, so 90° / 2 = 45°."
+    },
+    {
+        "id": 23,
+        "question": "ஒரு செவ்வகத்தின் ஒவ்வொரு பக்கமும் இரு மடங்காகும் போது அதனுடைய பரப்பளவு",
+        "options": [
+            "2 மடங்கு அதிகரிக்கும்",
+            "4 மடங்கு குறையும்",
+            "2 மடங்கு குறையும்",
+            "4 மடங்கு அதிகரிக்கும்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 4 மடங்கு அதிகரிக்கும். செவ்வகத்தின் பரப்பளவு = l × b. இரு மடங்கானால் புதிய பரப்பளவு = (2l) × (2b) = 4(l × b) = 4 மடங்கு.",
+        "question_en": "When each side of a rectangle is doubled, its area",
+        "options_en": [
+            "increases 2 times",
+            "decreases 4 times",
+            "decreases 2 times",
+            "increases 4 times"
+        ],
+        "explanation_en": "Correct answer option (4): increases 4 times. Area = l × b. If sides are doubled, new area = (2l) × (2b) = 4(l × b)."
+    },
+    {
+        "id": 24,
+        "question": "ஒரு செவ்வக வடிவ பூங்காவின் நீளம் அகலத்தை விட 14 மீ அதிகமாக உள்ளது. அப்பூங்காவின் சுற்றளவு 200 மீ எனில் அதன் நீளம்",
+        "options": [
+            "58 மீ",
+            "57 மீ",
+            "43 மீ",
+            "63 மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 57 மீ. அகலத்தை b என்க. நீளம் l = b + 14. சுற்றளவு 2(l + b) = 200. l + b = 100 => b + 14 + b = 100 => 2b = 86 => b = 43. நீளம் = 43 + 14 = 57 மீ.",
+        "question_en": "The length of a rectangular park is 14 m more than its breadth. If the perimeter of the park is 200 m, its length is",
+        "options_en": [
+            "58 m",
+            "57 m",
+            "43 m",
+            "63 m"
+        ],
+        "explanation_en": "Correct answer option (2): 57 m. Let breadth be b. Length l = b + 14. Perimeter 2(l + b) = 200. l + b = 100 => 2b + 14 = 100 => 2b = 86 => b = 43. Length = 43 + 14 = 57 m."
+    },
+    {
+        "id": 25,
+        "question": "ஒரு செவ்வக வடிவ தாளின் சுற்றளவு 56 cm ஆகும். அதன் நீளமானது அகலத்தைப் போல மூன்று மடங்காகும் எனில், அகலம் என்ன?",
+        "options": [
+            "8 cm",
+            "56 cm",
+            "7 cm",
+            "21 cm"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 7 cm. நீளம் l = 3b. சுற்றளவு 2(l + b) = 56. l + b = 28 => 3b + b = 28 => 4b = 28 => b = 7 cm.",
+        "question_en": "The perimeter of a rectangular sheet of paper is 56 cm. If its length is three times its breadth, what is its breadth?",
+        "options_en": [
+            "8 cm",
+            "56 cm",
+            "7 cm",
+            "21 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 7 cm. Length l = 3b. Perimeter 2(l + b) = 56. l + b = 28 => 4b = 28 => b = 7 cm."
+    },
+    {
+        "id": 26,
+        "question": "ஒரு செவ்வகத்தின் நீளம் 40 செ.மீ. மற்றும் அகலம் 20 செ.மீ. எனில், அச்செவ்வகத்திலிருந்து எத்தனை 10 செ.மீ. பக்க அளவுள்ள சதுரங்களை உருவாக்க முடியும்?",
+        "options": [
+            "10",
+            "9",
+            "8",
+            "7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8. செவ்வகத்தின் பரப்பளவு = 40 × 20 = 800 ச.செ.மீ. சதுரத்தின் பரப்பளவு = 10 × 10 = 100 ச.செ.மீ. உருவாக்கக் கூடிய சதுரங்களின் எண்ணிக்கை = 800 / 100 = 8.",
+        "question_en": "If the length and breadth of a rectangle are 40 cm and 20 cm respectively, how many squares of side 10 cm can be formed from it?",
+        "options_en": [
+            "10",
+            "9",
+            "8",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (3): 8. Area of rectangle = 40 × 20 = 800 sq.cm. Area of square = 10 × 10 = 100 sq.cm. Number of squares = 800 / 100 = 8."
+    },
+    {
+        "id": 27,
+        "question": "L வடிவப் படத்தின் சுற்றளவு காண்க (வெளிப்புற பக்கங்கள் 28 செ.மீ மற்றும் 28 செ.மீ, மேற்புறம் மற்றும் வலதுபுறம் 7 செ.மீ).",
+        "options": [
+            "70 செ.மீ",
+            "63 செ.மீ",
+            "108 செ.மீ",
+            "112 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 112 செ.மீ. L வடிவத்தின் சுற்றளவு = 28 (வெளிப்புற செங்குத்து) + 28 (வெளிப்புற கிடைமட்டம்) + 7 (மேற்புறம்) + 21 (உட்புற செங்குத்து: 28-7) + 21 (உட்புற கிடைமட்டம்: 28-7) + 7 (வலதுபுறம்) = 112 செ.மீ.",
+        "question_en": "Find the perimeter of the L-shaped figure (outer sides 28 cm and 28 cm, top and right ends are 7 cm).",
+        "options_en": [
+            "70 cm",
+            "63 cm",
+            "108 cm",
+            "112 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 112 cm. Perimeter = 28 (outer vertical) + 28 (outer horizontal) + 7 (top) + 21 (inner vertical) + 21 (inner horizontal) + 7 (right end) = 112 cm."
+    },
+    {
+        "id": 28,
+        "question": "L வடிவப் படத்தின் பரப்பளவு காண்க (வெளிப்புற பக்கங்கள் 28 செ.மீ மற்றும் 28 செ.மீ, மேற்புறம் மற்றும் வலதுபுறம் 7 செ.மீ).",
+        "options": [
+            "392 ச.செ.மீ",
+            "196 ச.செ.மீ",
+            "343 ச.செ.மீ",
+            "112 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 343 ச.செ.மீ. இந்தப் படத்தை இரண்டு செவ்வகங்களாகப் பிரிக்கலாம்: (28×7) மற்றும் (21×7). பரப்பளவு = 196 + 147 = 343 ச.செ.மீ. (அல்லது பெரிய 28×28 சதுரத்திலிருந்து 21×21 சதுரத்தைக் கழித்தால், 784 - 441 = 343 ச.செ.மீ கிடைக்கும்).",
+        "question_en": "Find the area of the L-shaped figure (outer sides 28 cm and 28 cm, top and right ends are 7 cm).",
+        "options_en": [
+            "392 sq.cm",
+            "196 sq.cm",
+            "343 sq.cm",
+            "112 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 343 sq.cm. The area can be calculated by splitting it into two rectangles: (28×7) and (21×7). Area = 196 + 147 = 343 sq.cm."
+    },
+    {
+        "id": 29,
+        "question": "ஒரு இணைகரத்தின் பரப்பளவு ____ ச.அலகுகள்.",
+        "options": [
+            "\\( l \\times b \\)",
+            "\\( b \\times h \\)",
+            "\\( \\frac{1}{2} \\times h \\times (a+b) \\)",
+            "\\( \\frac{1}{2} \\times d \\times (h_1+h_2) \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( b \\times h \\). இணைகரத்தின் பரப்பளவு அடிப்பக்கம் (b) மற்றும் அதன் உயரத்தின் (h) பெருக்கற்பலனுக்குச் சமம்.",
+        "question_en": "The area of a parallelogram is ____ sq. units.",
+        "options_en": [
+            "\\( l \\times b \\)",
+            "\\( b \\times h \\)",
+            "\\( \\frac{1}{2} \\times h \\times (a+b) \\)",
+            "\\( \\frac{1}{2} \\times d \\times (h_1+h_2) \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( b \\times h \\). The area of a parallelogram is the product of its base (b) and height (h)."
+    },
+    {
+        "id": 30,
+        "question": "10 மீ அடிப்பக்கத்தையும், 7 மீ உயரத்தையும் கொண்ட இணைகரம் ஒன்றின் பரப்பு",
+        "options": [
+            "70 ச.மீ",
+            "35 ச.மீ",
+            "7 ச.மீ",
+            "10 ச.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 70 ச.மீ. இணைகரத்தின் பரப்பளவு = b × h = 10 × 7 = 70 ச.மீ.",
+        "question_en": "The area of a parallelogram with a base of 10 m and a height of 7 m is",
+        "options_en": [
+            "70 sq.m",
+            "35 sq.m",
+            "7 sq.m",
+            "10 sq.m"
+        ],
+        "explanation_en": "Correct answer option (1): 70 sq.m. Area of a parallelogram = b × h = 10 × 7 = 70 sq.m."
+    },
+    {
+        "id": 31,
+        "question": "அடிப்பக்கம் 16 செ.மீ. மற்றும் உயரம் 6 செ.மீ. அளவுகள் கொண்ட இணைகரத்தின் பரப்பளவு",
+        "options": [
+            "90 ச.செ.மீ",
+            "96 ச.செ.மீ",
+            "86 ச.செ.மீ",
+            "92 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 96 ச.செ.மீ. பரப்பளவு = b × h = 16 × 6 = 96 ச.செ.மீ.",
+        "question_en": "The area of a parallelogram with base 16 cm and height 6 cm is",
+        "options_en": [
+            "90 sq.cm",
+            "96 sq.cm",
+            "86 sq.cm",
+            "92 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 96 sq.cm. Area = b × h = 16 × 6 = 96 sq.cm."
+    },
+    {
+        "id": 32,
+        "question": "ஓர் இணைகரத்தின் அடிப்பக்கம் மற்றும் உயரம் முறையே 12 செ.மீ. மற்றும் 9 செ.மீ. எனில் அதன் பரப்பளவு",
+        "options": [
+            "102 ச.செ.மீ",
+            "56 ச.செ.மீ",
+            "108 ச.செ.மீ",
+            "40 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 108 ச.செ.மீ. பரப்பளவு = b × h = 12 × 9 = 108 ச.செ.மீ.",
+        "question_en": "If the base and height of a parallelogram are 12 cm and 9 cm respectively, its area is",
+        "options_en": [
+            "102 sq.cm",
+            "56 sq.cm",
+            "108 sq.cm",
+            "40 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 108 sq.cm. Area = b × h = 12 × 9 = 108 sq.cm."
+    },
+    {
+        "id": 33,
+        "question": "அடிப்பக்கம் 15 செ.மீ மற்றும் உயரம் 4 செ.மீ கொண்ட இணைகரத்தின் பரப்பளவு",
+        "options": [
+            "60 ச.செ.மீ",
+            "60 செ.மீ",
+            "40 ச.செ.மீ",
+            "40 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (2) (ஆவணத்தின்படி). இருப்பினும், அலகு சதுர சென்டிமீட்டராக இருக்க வேண்டும். பரப்பளவு = 15 × 4 = 60 ச.செ.மீ.",
+        "question_en": "The area of a parallelogram with base 15 cm and height 4 cm is",
+        "options_en": [
+            "60 sq.cm",
+            "60 cm",
+            "40 sq.cm",
+            "40 cm"
+        ],
+        "explanation_en": "Correct answer option (2) based on the document's key, though technically area is in sq.cm. Area = 15 × 4 = 60 sq.cm."
+    },
+    {
+        "id": 34,
+        "question": "ஓர் இணைகரத்தின் ஒரு கோணம் செங்கோணம் எனில் அது",
+        "options": [
+            "சரிவகம்",
+            "செவ்வகம்",
+            "சாய்சதுரம்",
+            "சதுரம்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): செவ்வகம். இணைகரத்தின் ஒரு கோணம் 90° ஆக அமைந்தால், அதன் அனைத்துக் கோணங்களும் 90° ஆகி, அது செவ்வகமாக மாறும்.",
+        "question_en": "If one angle of a parallelogram is a right angle, then it is a",
+        "options_en": [
+            "Trapezium",
+            "Rectangle",
+            "Rhombus",
+            "Square"
+        ],
+        "explanation_en": "Correct answer option (2): Rectangle. If one angle of a parallelogram is 90°, all its angles become 90°, making it a rectangle."
+    },
+    {
+        "id": 35,
+        "question": "அடுத்துள்ள பக்கங்கள் முறையே 6 செ.மீ. மற்றும் 5 செ.மீ. கொண்ட இணைகரத்தின் சுற்றளவு",
+        "options": [
+            "12 செ.மீ",
+            "10 செ.மீ",
+            "24 செ.மீ",
+            "22 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 22 செ.மீ. இணைகரத்தின் சுற்றளவு = 2 × (a + b) = 2 × (6 + 5) = 2 × 11 = 22 செ.மீ.",
+        "question_en": "The perimeter of a parallelogram with adjacent sides 6 cm and 5 cm is",
+        "options_en": [
+            "12 cm",
+            "10 cm",
+            "24 cm",
+            "22 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 22 cm. Perimeter of a parallelogram = 2 × (a + b) = 2 × (6 + 5) = 2 × 11 = 22 cm."
+    },
+    {
+        "id": 36,
+        "question": "52 ச.செ.மீ. பரப்பளவும், 4 செ.மீ. உயரமும் கொண்ட இணைகரத்தின் அடிப்பக்க அளவு",
+        "options": [
+            "48 செ.மீ",
+            "104 செ.மீ",
+            "13 செ.மீ",
+            "26 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 13 செ.மீ. அடிப்பக்கம் = பரப்பளவு / உயரம் = 52 / 4 = 13 செ.மீ.",
+        "question_en": "The base of a parallelogram with an area of 52 sq.cm and a height of 4 cm is",
+        "options_en": [
+            "48 cm",
+            "104 cm",
+            "13 cm",
+            "26 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 13 cm. Base = Area / Height = 52 / 4 = 13 cm."
+    },
+    {
+        "id": 37,
+        "question": "ஓர் இணைகரத்தின் அடிப்பக்கத்தை இரண்டு மடங்காகவும், உயரத்தை பாதியாகவும் மாற்றும் போது இணைகரத்தின் பரப்பளவு எவ்வாறு மாறும்?",
+        "options": [
+            "பாதியாக மாறும்",
+            "மாறாது",
+            "இரண்டு மடங்காகும்",
+            "ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): மாறாது. புதிய பரப்பளவு = (2b) × (h/2) = b × h = பழைய பரப்பளவு.",
+        "question_en": "When the base of a parallelogram is doubled and its height is halved, how does its area change?",
+        "options_en": [
+            "Becomes half",
+            "Remains unchanged",
+            "Doubles",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (2): Remains unchanged. New area = (2b) × (h/2) = b × h = original area."
+    },
+    {
+        "id": 38,
+        "question": "ஓர் இணைகரத்தின் உயரம் 8 செ.மீ. மற்றும் அதன் அடிப்பக்கம் உயரத்தைப் போல் மூன்று மடங்கு எனில், அதன் பரப்பளவு",
+        "options": [
+            "64 ச.செ.மீ",
+            "192 ச.செ.மீ",
+            "32 ச.செ.மீ",
+            "72 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 192 ச.செ.மீ. உயரம் (h) = 8 செ.மீ. அடிப்பக்கம் (b) = 3 × 8 = 24 செ.மீ. பரப்பளவு = 24 × 8 = 192 ச.செ.மீ.",
+        "question_en": "The height of a parallelogram is 8 cm and its base is three times its height. Its area is",
+        "options_en": [
+            "64 sq.cm",
+            "192 sq.cm",
+            "32 sq.cm",
+            "72 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 192 sq.cm. Height (h) = 8 cm. Base (b) = 3 × 8 = 24 cm. Area = 24 × 8 = 192 sq.cm."
+    },
+    {
+        "id": 39,
+        "question": "ஓர் இணைகரத்தின் அடிப்பக்கமானது அதன் உயரத்தைப் போல 4 மடங்காகவும் அதன் பரப்பளவு 100 ச.செ.மீ. ஆகவும் இருப்பின் உயரம் என்ன?",
+        "options": [
+            "5 செ.மீ",
+            "4 செ.மீ",
+            "10 செ.மீ",
+            "25 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5 செ.மீ. b = 4h. பரப்பளவு = b × h = 4h × h = 4h² = 100. இதிலிருந்து h² = 25 மற்றும் h = 5 செ.மீ.",
+        "question_en": "If the base of a parallelogram is 4 times its height and its area is 100 sq.cm, what is its height?",
+        "options_en": [
+            "5 cm",
+            "4 cm",
+            "10 cm",
+            "25 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 5 cm. b = 4h. Area = b × h = 4h² = 100. So h² = 25 and h = 5 cm."
+    },
+    {
+        "id": 40,
+        "question": "ஓர் இணைகரத்தின் அடிப்பக்கம் 16 செ.மீ., அதன் உயரம் அடிப்பக்கத்தை விட 7 செ.மீ. குறைவு எனில் அதன் பரப்பளவு",
+        "options": [
+            "112 ச.செ.மீ",
+            "144 ச.செ.மீ",
+            "142 ச.செ.மீ",
+            "182 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 144 ச.செ.மீ. அடிப்பக்கம் b = 16 செ.மீ. உயரம் h = 16 - 7 = 9 செ.மீ. பரப்பளவு = 16 × 9 = 144 ச.செ.மீ.",
+        "question_en": "The base of a parallelogram is 16 cm and its height is 7 cm less than its base. Its area is",
+        "options_en": [
+            "112 sq.cm",
+            "144 sq.cm",
+            "142 sq.cm",
+            "182 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 144 sq.cm. Base b = 16 cm. Height h = 16 - 7 = 9 cm. Area = 16 × 9 = 144 sq.cm."
+    },
+    {
+        "id": 41,
+        "question": "ஓர் இணைகர வடிவிலான மைதானத்தின் உயரம் 14 மீ. மேலும் அதன் அடிப்பக்கம், உயரத்தை விட 8 மீ கூடுதல் எனில், மைதானத்தைச் சமப்படுத்த ஒரு ச.மீ. க்கு ₹15 வீதம் எவ்வளவு செலவு ஆகும்?",
+        "options": [
+            "₹4600",
+            "₹4620",
+            "₹1680",
+            "₹330"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): ₹4620. உயரம் h = 14 மீ. அடிப்பக்கம் b = 14 + 8 = 22 மீ. பரப்பளவு = 22 × 14 = 308 ச.மீ. ஆகும் செலவு = 308 × 15 = ₹4620.",
+        "question_en": "The height of a parallelogram-shaped playground is 14 m. Its base is 8 m more than its height. Find the cost of leveling the ground at the rate of ₹15 per sq.m.",
+        "options_en": [
+            "₹4600",
+            "₹4620",
+            "₹1680",
+            "₹330"
+        ],
+        "explanation_en": "Correct answer option (2): ₹4620. Height h = 14 m. Base b = 14 + 8 = 22 m. Area = 22 × 14 = 308 sq.m. Cost = 308 × 15 = ₹4620."
+    },
+    {
+        "id": 42,
+        "question": "ஒரு இணைகரத்தில் அடிப்பக்கமும் உயரமும் 5 : 4 என்ற விகிதத்தில் உள்ளன. அடிப்பக்கம் 35 செ.மீ. எனில் பரப்பளவு என்ன?",
+        "options": [
+            "670 ச.செ.மீ",
+            "880 ச.செ.மீ",
+            "980 ச.செ.மீ",
+            "5795 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 980 ச.செ.மீ. விகிதம் 5:4. 5x = 35 => x = 7. உயரம் 4x = 4 × 7 = 28 செ.மீ. பரப்பளவு = 35 × 28 = 980 ச.செ.மீ.",
+        "question_en": "The base and height of a parallelogram are in the ratio 5:4. If the base is 35 cm, what is its area?",
+        "options_en": [
+            "670 sq.cm",
+            "880 sq.cm",
+            "980 sq.cm",
+            "5795 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 980 sq.cm. Ratio is 5:4. Base 5x = 35 => x = 7. Height 4x = 4 × 7 = 28 cm. Area = 35 × 28 = 980 sq.cm."
+    },
+    {
+        "id": 43,
+        "question": "ஓர் இணைகரத்தின் அடிப்பக்கமும் உயரமும் 7 : 3 என்ற விகிதத்தில் உள்ளன. அதன் உயரம் 45 செ.மீ. எனில், அதன் பரப்பளவு",
+        "options": [
+            "4725 ச.செ.மீ",
+            "1470 ச.செ.மீ",
+            "676 ச.செ.மீ",
+            "916 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4725 ச.செ.மீ. விகிதம் 7:3. 3x = 45 => x = 15. அடிப்பக்கம் 7x = 7 × 15 = 105 செ.மீ. பரப்பளவு = 105 × 45 = 4725 ச.செ.மீ.",
+        "question_en": "The base and height of a parallelogram are in the ratio 7:3. If its height is 45 cm, its area is",
+        "options_en": [
+            "4725 sq.cm",
+            "1470 sq.cm",
+            "676 sq.cm",
+            "916 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 4725 sq.cm. Ratio is 7:3. Height 3x = 45 => x = 15. Base 7x = 7 × 15 = 105 cm. Area = 105 × 45 = 4725 sq.cm."
+    },
+    {
+        "id": 44,
+        "question": "ஓர் இணைகரத்தின் மூலைவிட்டங்கள் சமம் எனில் அது",
+        "options": [
+            "சதுரம்",
+            "செவ்வகம்",
+            "சாய்சதுரம்",
+            "சரிவகம்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): செவ்வகம். இணைகரத்தின் மூலைவிட்டங்கள் சமமாக இருந்தால், அது செவ்வகமாக இருக்கும்.",
+        "question_en": "If the diagonals of a parallelogram are equal, then it is a",
+        "options_en": [
+            "Square",
+            "Rectangle",
+            "Rhombus",
+            "Trapezium"
+        ],
+        "explanation_en": "Correct answer option (2): Rectangle. A parallelogram with equal diagonals is a rectangle."
+    },
+    {
+        "id": 45,
+        "question": "தவறான கூற்றைக் கண்டறியவும்.",
+        "options": [
+            "ஒரு சதுரத்தின் நான்கு கோணங்களும் சமம்",
+            "ஒரு சதுரம் சாய்சதுரம் ஆகும்.",
+            "ஒரு இணைகரத்தில் எதிரெதிர்க் கோணங்கள் சமம்",
+            "ஒரு செவ்வகத்தின் மூலைவிட்டங்கள் சமமல்ல."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): ஒரு செவ்வகத்தின் மூலைவிட்டங்கள் சமமல்ல. செவ்வகத்தின் மூலைவிட்டங்கள் சமம் என்பதே உண்மை. எனவே இந்தக் கூற்று தவறானது.",
+        "question_en": "Identify the incorrect statement.",
+        "options_en": [
+            "All four angles of a square are equal.",
+            "A square is a rhombus.",
+            "Opposite angles in a parallelogram are equal.",
+            "The diagonals of a rectangle are not equal."
+        ],
+        "explanation_en": "Correct answer option (4): The diagonals of a rectangle are not equal. This statement is incorrect because the diagonals of a rectangle are always equal."
+    },
+    {
+        "id": 46,
+        "question": "ஒரு சாய்சதுரத்தின் பரப்பளவு காணும் வாய்ப்பாடு எது?\n(a) ½ × b × h ச.அ.\n(b) ½ × d₁ × d₂ ச.அ.\n(c) ½ × h × (a+b) ச.அ.\n(d) b × h ச.அ.",
+        "options": [
+            "(b) மட்டும்",
+            "(b) மற்றும் (d)",
+            "(c) மற்றும் (d)",
+            "(a) மற்றும் (b)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): (b) மற்றும் (d). சாய்சதுரம் ஓர் இணைகரம் என்பதால் பரப்பளவு b × h ஆகவும் இருக்கலாம். மூலைவிட்டங்களைக் கொண்டு ½ × d₁ × d₂ ஆகவும் கணக்கிடலாம்.",
+        "question_en": "What is the formula to find the area of a rhombus?\n(a) ½ × b × h sq.units\n(b) ½ × d₁ × d₂ sq.units\n(c) ½ × h × (a+b) sq.units\n(d) b × h sq.units",
+        "options_en": [
+            "(b) only",
+            "(b) and (d)",
+            "(c) and (d)",
+            "(a) and (b)"
+        ],
+        "explanation_en": "Correct answer option (2): (b) and (d). The area of a rhombus can be calculated as ½ × d₁ × d₂ or as b × h (since it is a type of parallelogram)."
+    },
+    {
+        "id": 47,
+        "question": "பக்கம் 4 செ.மீ. உயரம் 3 செ.மீ. அளவுகள் கொண்ட சாய்சதுரத்தின் பரப்பளவு",
+        "options": [
+            "7 ச.செ.மீ",
+            "24 ச.செ.மீ",
+            "12 ச.செ.மீ",
+            "10 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 12 ச.செ.மீ. சாய்சதுரத்தின் பரப்பளவு = பக்கம் × உயரம் = 4 × 3 = 12 ச.செ.மீ.",
+        "question_en": "The area of a rhombus with side 4 cm and height 3 cm is",
+        "options_en": [
+            "7 sq.cm",
+            "24 sq.cm",
+            "12 sq.cm",
+            "10 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 12 sq.cm. Area of rhombus = base × height = 4 × 3 = 12 sq.cm."
+    },
+    {
+        "id": 48,
+        "question": "சாய்சதுரத்தின் மூலைவிட்டங்களுக்கு இடையே உள்ள கோணம்",
+        "options": [
+            "120°",
+            "180°",
+            "90°",
+            "100°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 90°. சாய்சதுரத்தின் மூலைவிட்டங்கள் ஒன்றையொன்று செங்கோணத்தில் (90°) இருசமக் கூறிடும்.",
+        "question_en": "The angle between the diagonals of a rhombus is",
+        "options_en": [
+            "120°",
+            "180°",
+            "90°",
+            "100°"
+        ],
+        "explanation_en": "Correct answer option (3): 90°. The diagonals of a rhombus intersect each other at right angles (90°)."
+    },
+    {
+        "id": 49,
+        "question": "இரண்டு மூலைவிட்டங்களும் 8 செ.மீ. அளவு கொண்ட சாய்சதுரத்தின் பரப்பளவு",
+        "options": [
+            "64 ச.செ.மீ",
+            "32 ச.செ.மீ",
+            "30 ச.செ.மீ",
+            "16 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 32 ச.செ.மீ. பரப்பளவு = ½ × d₁ × d₂ = ½ × 8 × 8 = 32 ச.செ.மீ.",
+        "question_en": "The area of a rhombus whose both diagonals are 8 cm long is",
+        "options_en": [
+            "64 sq.cm",
+            "32 sq.cm",
+            "30 sq.cm",
+            "16 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 32 sq.cm. Area = ½ × d₁ × d₂ = ½ × 8 × 8 = 32 sq.cm."
+    },
+    {
+        "id": 50,
+        "question": "பக்க அளவு 17 செ.மீ. மற்றும் உயரம் 8 செ.மீ. கொண்ட சாய்சதுரத்தின் பரப்பளவு",
+        "options": [
+            "136 ச.செ.மீ",
+            "200 ச.செ.மீ",
+            "136 ச.செ.மீ",
+            "200 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 136 ச.செ.மீ. பரப்பளவு = அடிப்பக்கம் × உயரம் = 17 × 8 = 136 ச.செ.மீ. (விருப்பங்கள் மீண்டும் கொடுக்கப்பட்டுள்ளன, விடைக்குறிப்பு படி (3) சரியான விடை).",
+        "question_en": "The area of a rhombus with a side of 17 cm and a height of 8 cm is",
+        "options_en": [
+            "136 sq.cm",
+            "200 sq.cm",
+            "136 sq.cm",
+            "200 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 136 sq.cm. Area = base × height = 17 × 8 = 136 sq.cm. (Options are duplicated, key is 3)."
+    },
+    {
+        "id": 51,
+        "question": "சாய்சதுரத்தின் பரப்பளவு காண்க.",
+        "options": [
+            "71.5 ச.செ.மீ",
+            "12 ச.செ.மீ",
+            "143 ச.செ.மீ",
+            "136 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 71.5 ச.செ.மீ. படத்தில் மூலைவிட்டங்கள் 13 செ.மீ மற்றும் 11 செ.மீ எனக் கொடுக்கப்பட்டுள்ளன. பரப்பளவு = ½ × d₁ × d₂ = ½ × 13 × 11 = ½ × 143 = 71.5 ச.செ.மீ.",
+        "question_en": "Find the area of the rhombus.",
+        "options_en": [
+            "71.5 sq.cm",
+            "12 sq.cm",
+            "143 sq.cm",
+            "136 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 71.5 sq.cm. The diagonals are given as 13 cm and 11 cm. Area = ½ × d₁ × d₂ = ½ × 13 × 11 = ½ × 143 = 71.5 sq.cm.",
+        "image": "image/unit5/q51.PNG"
+    },
+    {
+        "id": 52,
+        "question": "இரு மூலைவிட்டங்களின் பெருக்கற்பலன் 48 ச.செ.மீ. எனில் சாய்சதுரத்தின் பரப்பளவு",
+        "options": [
+            "48 ச.செ.மீ",
+            "248 ச.செ.மீ",
+            "24 ச.செ.மீ",
+            "12 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 24 ச.செ.மீ. சாய்சதுரத்தின் பரப்பளவு = ½ × (d₁ × d₂). மூலைவிட்டங்களின் பெருக்கற்பலன் 48. எனவே, பரப்பளவு = ½ × 48 = 24 ச.செ.மீ.",
+        "question_en": "If the product of the two diagonals is 48 sq.cm, the area of the rhombus is",
+        "options_en": [
+            "48 sq.cm",
+            "248 sq.cm",
+            "24 sq.cm",
+            "12 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 24 sq.cm. Area of rhombus = ½ × (d₁ × d₂). Since the product of the diagonals is 48, Area = ½ × 48 = 24 sq.cm."
+    },
+    {
+        "id": 53,
+        "question": "8.5 செ.மீ. அடிப்பக்கமும் 5.2 செ.மீ உயரமும் உடைய சாய்சதுரத்தின் பரப்பளவு என்ன?",
+        "options": [
+            "44.12 ச.செ.மீ",
+            "45.2 ச.செ.மீ",
+            "40 ச.செ.மீ",
+            "44.2 ச.செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 44.2 ச.செ.மீ. பரப்பளவு = அடிப்பக்கம் × உயரம் = 8.5 × 5.2 = 44.2 ச.செ.மீ.",
+        "question_en": "What is the area of a rhombus with a base of 8.5 cm and a height of 5.2 cm?",
+        "options_en": [
+            "44.12 sq.cm",
+            "45.2 sq.cm",
+            "40 sq.cm",
+            "44.2 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 44.2 sq.cm. Area = base × height = 8.5 × 5.2 = 44.2 sq.cm."
+    },
+    {
+        "id": 54,
+        "question": "ஒரு பூந்தோட்டம் சாய்சதுர வடிவில் உள்ளது. அதன் மூலைவிட்டங்கள் 18 மீ, 25 மீ எனில் பூந்தோட்டத்தின் பரப்பளவு",
+        "options": [
+            "450 ச.மீ",
+            "225 ச.மீ",
+            "324 ச.மீ",
+            "180 ச.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 225 ச.மீ. பரப்பளவு = ½ × d₁ × d₂ = ½ × 18 × 25 = 9 × 25 = 225 ச.மீ.",
+        "question_en": "A flower garden is in the shape of a rhombus. If its diagonals are 18 m and 25 m, the area of the garden is",
+        "options_en": [
+            "450 sq.m",
+            "225 sq.m",
+            "324 sq.m",
+            "180 sq.m"
+        ],
+        "explanation_en": "Correct answer option (2): 225 sq.m. Area = ½ × d₁ × d₂ = ½ × 18 × 25 = 9 × 25 = 225 sq.m."
+    },
+    {
+        "id": 55,
+        "question": "ஒரு சாய்சதுரத்தின் மூலைவிட்டங்களின் நீளங்கள் முறையே 1.3 செ.மீ. மற்றும் 1.6 செ.மீ. எனில் அதன் பரப்பளவு",
+        "options": [
+            "1.04 ச.செ.மீ",
+            "10.4 ச.செ.மீ",
+            "2.08 ச.செ.மீ",
+            "1.40 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1.04 ச.செ.மீ. பரப்பளவு = ½ × 1.3 × 1.6 = ½ × 2.08 = 1.04 ச.செ.மீ.",
+        "question_en": "If the lengths of the diagonals of a rhombus are 1.3 cm and 1.6 cm respectively, its area is",
+        "options_en": [
+            "1.04 sq.cm",
+            "10.4 sq.cm",
+            "2.08 sq.cm",
+            "1.40 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 1.04 sq.cm. Area = ½ × 1.3 × 1.6 = ½ × 2.08 = 1.04 sq.cm."
+    },
+    {
+        "id": 56,
+        "question": "சாய்சதுரத்தின் அடிப்பக்கம் மற்றும் உயரம் முறையே 3:1 என்ற விகிதத்தில் உள்ளன. அதன் உயரம் 4 செ.மீ. எனில் அதன் பரப்பளவு",
+        "options": [
+            "48 ச.செ.மீ",
+            "50 ச.செ.மீ",
+            "60 ச.செ.மீ",
+            "40 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 48 ச.செ.மீ. உயரம் = 4 செ.மீ. அடிப்பக்கம், உயரத்தின் 3 மடங்கு, எனவே 3 × 4 = 12 செ.மீ. பரப்பளவு = அடிப்பக்கம் × உயரம் = 12 × 4 = 48 ச.செ.மீ.",
+        "question_en": "The base and height of a rhombus are in the ratio 3:1. If its height is 4 cm, its area is",
+        "options_en": [
+            "48 sq.cm",
+            "50 sq.cm",
+            "60 sq.cm",
+            "40 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 48 sq.cm. Height = 4 cm. Base is 3 times the height, so 3 × 4 = 12 cm. Area = base × height = 12 × 4 = 48 sq.cm."
+    },
+    {
+        "id": 57,
+        "question": "ஒரு சாய்சதுரத்தின் சிறிய மூலைவிட்டம் 60 மீ ஆகும். அதன் மூலைவிட்டங்கள் 3:4 என்ற விகிதத்தில் உள்ளன. எனில் அதன் பரப்பளவு காண்க.",
+        "options": [
+            "3600 ச.மீ",
+            "1200 ச.மீ",
+            "2400 ச.மீ",
+            "4800 ச.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2400 ச.மீ. விகிதம் 3:4. சிறிய மூலைவிட்டம் 3x = 60 மீ => x = 20 மீ. பெரிய மூலைவிட்டம் 4x = 4 × 20 = 80 மீ. பரப்பளவு = ½ × 60 × 80 = 2400 ச.மீ.",
+        "question_en": "The smaller diagonal of a rhombus is 60 m. Its diagonals are in the ratio 3:4. Find its area.",
+        "options_en": [
+            "3600 sq.m",
+            "1200 sq.m",
+            "2400 sq.m",
+            "4800 sq.m"
+        ],
+        "explanation_en": "Correct answer option (3): 2400 sq.m. Ratio is 3:4. Smaller diagonal 3x = 60 m => x = 20 m. Larger diagonal 4x = 4 × 20 = 80 m. Area = ½ × 60 × 80 = 2400 sq.m."
+    },
+    {
+        "id": 58,
+        "question": "கீழுள்ள கூற்றுகளில் சாய்சதுரத்திற்குப் பொருந்தாத கூற்று எது?",
+        "options": [
+            "எல்லா பக்கங்களும் சமம்",
+            "எதிர்ப்பக்கங்கள் இணை",
+            "மூலைவிட்டங்கள் சமம்",
+            "மூலைவிட்டங்கள் இருசமக்கூறிடும்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): மூலைவிட்டங்கள் சமம். ஒரு சாய்சதுரத்தில் மூலைவிட்டங்கள் ஒன்றையொன்று செங்குத்தாக இருசமக் கூறிடும், ஆனால் அவை அளவில் சமமாக இருக்க வேண்டிய அவசியமில்லை. சதுரத்திற்கு மட்டுமே மூலைவிட்டங்கள் சமமாக இருக்கும்.",
+        "question_en": "Which of the following statements does NOT apply to a rhombus?",
+        "options_en": [
+            "All sides are equal",
+            "Opposite sides are parallel",
+            "Diagonals are equal",
+            "Diagonals bisect each other"
+        ],
+        "explanation_en": "Correct answer option (3): Diagonals are equal. In a general rhombus, the diagonals bisect each other at right angles, but they are not equal in length (unless it is a square)."
+    },
+    {
+        "id": 59,
+        "question": "ஒரு சாய்சதுரத்தின் பரப்பளவு மற்றும் உயரம் முறையே 180 ச.மீ. மற்றும் 12 மீ எனில் அதன் அடிப்பக்கம்",
+        "options": [
+            "9 மீ",
+            "10 மீ",
+            "15 மீ",
+            "12 மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 15 மீ. பரப்பளவு = அடிப்பக்கம் × உயரம். 180 = அடிப்பக்கம் × 12. எனவே, அடிப்பக்கம் = 180 / 12 = 15 மீ.",
+        "question_en": "If the area and height of a rhombus are 180 sq.m and 12 m respectively, its base is",
+        "options_en": [
+            "9 m",
+            "10 m",
+            "15 m",
+            "12 m"
+        ],
+        "explanation_en": "Correct answer option (3): 15 m. Area = base × height. 180 = base × 12. Therefore, base = 180 / 12 = 15 m."
+    },
+    {
+        "id": 60,
+        "question": "ஒரு சாய்சதுரத்தின் பரப்பளவு 60 ச.செ.மீ. மற்றும் அதன் ஒரு மூலைவிட்டம் 8 செ.மீ எனில் மற்றொரு மூலைவிட்டம்",
+        "options": [
+            "8 செ.மீ",
+            "15 செ.மீ",
+            "12 செ.மீ",
+            "24 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 15 செ.மீ. பரப்பளவு = ½ × d₁ × d₂. 60 = ½ × 8 × d₂. 60 = 4 × d₂. d₂ = 60 / 4 = 15 செ.மீ.",
+        "question_en": "If the area of a rhombus is 60 sq.cm and one of its diagonals is 8 cm, the other diagonal is",
+        "options_en": [
+            "8 cm",
+            "15 cm",
+            "12 cm",
+            "24 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 15 cm. Area = ½ × d₁ × d₂. 60 = ½ × 8 × d₂. 60 = 4 × d₂. d₂ = 60 / 4 = 15 cm."
+    },
+    {
+        "id": 61,
+        "question": "பரப்பளவு 96 ச.மீ. மற்றும் பக்க அளவு 24 மீ கொண்ட சாய்சதுரத்தின் உயரம்",
+        "options": [
+            "8 மீ",
+            "10 மீ",
+            "2 மீ",
+            "4 மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 4 மீ. பரப்பளவு = அடிப்பக்கம் × உயரம். 96 = 24 × உயரம். உயரம் = 96 / 24 = 4 மீ.",
+        "question_en": "The height of a rhombus with an area of 96 sq.m and a side length of 24 m is",
+        "options_en": [
+            "8 m",
+            "10 m",
+            "2 m",
+            "4 m"
+        ],
+        "explanation_en": "Correct answer option (4): 4 m. Area = base × height. 96 = 24 × height. Height = 96 / 24 = 4 m."
+    },
+    {
+        "id": 62,
+        "question": "பரப்பளவு 128 ச.செ.மீ. மற்றும் ஒரு மூலைவிட்ட அளவு 32 செ.மீ. கொண்ட சாய்சதுரத்தின் மற்றொரு மூலைவிட்ட அளவு",
+        "options": [
+            "12 செ.மீ",
+            "8 செ.மீ",
+            "4 செ.மீ",
+            "20 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 8 செ.மீ. 128 = ½ × 32 × d₂. 128 = 16 × d₂. d₂ = 128 / 16 = 8 செ.மீ.",
+        "question_en": "The other diagonal of a rhombus with an area of 128 sq.cm and one diagonal of 32 cm is",
+        "options_en": [
+            "12 cm",
+            "8 cm",
+            "4 cm",
+            "20 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 8 cm. 128 = ½ × 32 × d₂. 128 = 16 × d₂. d₂ = 128 / 16 = 8 cm."
+    },
+    {
+        "id": 63,
+        "question": "ஒரு சாய்சதுரத்தின் பரப்பளவு 50 ச.செ.மீ. அதன் ஒரு மூலைவிட்டம் மற்றொரு மூலைவிட்டத்தைப் போல் 4 மடங்கு எனில், பெரிய மூலைவிட்டத்தின் அளவு",
+        "options": [
+            "20 செ.மீ",
+            "4 செ.மீ",
+            "5 செ.மீ",
+            "25 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 20 செ.மீ. சிறிய மூலைவிட்டம் x என்க. பெரிய மூலைவிட்டம் 4x. பரப்பளவு = ½ × x × 4x = 2x² = 50. x² = 25 => x = 5. பெரிய மூலைவிட்டம் = 4 × 5 = 20 செ.மீ.",
+        "question_en": "The area of a rhombus is 50 sq.cm. If one diagonal is 4 times the other, the length of the larger diagonal is",
+        "options_en": [
+            "20 cm",
+            "4 cm",
+            "5 cm",
+            "25 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 20 cm. Let the smaller diagonal be x. Larger diagonal is 4x. Area = ½ × x × 4x = 2x² = 50. x² = 25 => x = 5. Larger diagonal = 4 × 5 = 20 cm."
+    },
+    {
+        "id": 64,
+        "question": "ஒரு செவ்வகத்தின் நீளம், அகலம் முறையே 40 செ.மீ. மற்றும் 26 செ.மீ. இச்செவ்வகத்தின் பக்கங்களின் மையப்புள்ளிகளை முறையே இணைப்பதால் ஏற்படும் சாய்சதுரத்தின் பரப்பளவு",
+        "options": [
+            "1040 ச.செ.மீ",
+            "2080 ச.செ.மீ",
+            "260 ச.செ.மீ",
+            "520 ச.செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 520 ச.செ.மீ. செவ்வகத்தின் பக்கங்களின் மையப்புள்ளிகளை இணைக்கும்போது உருவாகும் சாய்சதுரத்தின் மூலைவிட்டங்கள் செவ்வகத்தின் நீளம் மற்றும் அகலத்திற்குச் சமமாக இருக்கும். எனவே, d₁ = 40, d₂ = 26. பரப்பளவு = ½ × 40 × 26 = 20 × 26 = 520 ச.செ.மீ.",
+        "question_en": "The length and breadth of a rectangle are 40 cm and 26 cm respectively. The area of the rhombus formed by joining the midpoints of the sides of this rectangle is",
+        "options_en": [
+            "1040 sq.cm",
+            "2080 sq.cm",
+            "260 sq.cm",
+            "520 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 520 sq.cm. The diagonals of the rhombus formed by joining the midpoints of a rectangle are equal to the sides of the rectangle (40 cm and 26 cm). Area = ½ × 40 × 26 = 520 sq.cm."
+    },
+    {
+        "id": 65,
+        "question": "சாய்சதுரத்தின் பரப்பளவு 98 ச.செ.மீ. அதன் சுற்றளவு 28 செ.மீ. எனில் சாய்சதுரத்தின் உயரம்",
+        "options": [
+            "3.5 செ.மீ",
+            "14 செ.மீ",
+            "7 செ.மீ",
+            "10 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 14 செ.மீ. சுற்றளவு = 4a = 28 செ.மீ => a = 7 செ.மீ. பரப்பளவு = அடிப்பக்கம் × உயரம் = 7 × உயரம் = 98. உயரம் = 98 / 7 = 14 செ.மீ.",
+        "question_en": "The area of a rhombus is 98 sq.cm and its perimeter is 28 cm. The height of the rhombus is",
+        "options_en": [
+            "3.5 cm",
+            "14 cm",
+            "7 cm",
+            "10 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 14 cm. Perimeter = 4a = 28 cm => a = 7 cm. Area = base × height = 7 × height = 98. Height = 98 / 7 = 14 cm."
+    },
+    {
+        "id": 66,
+        "question": "பின்வருவனவற்றுள் எது தவறான கூற்று அல்ல?",
+        "options": [
+            "ஒரு சாய்சதுரத்தின் மூலைவிட்டங்கள் ஒரே அளவாக இருக்கும்",
+            "ஒரு சதுரம் சாய்சதுரம் ஆகும்",
+            "ஓர் இணைகரத்தில் எல்லாப் பக்கங்களும் சமமாக இருந்தால் அது சதுரம்",
+            "ஓர் இணைகரத்தில் ஒரு சோடி இணையில்லாத பக்கங்கள் இருப்பின் அது ஒரு சாய்சதுரம் எனப்படும்."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): ஒரு சதுரம் சாய்சதுரம் ஆகும். தவறான கூற்று அல்ல என்றால், சரியான கூற்று என்று பொருள். சதுரம் என்பது சாய்சதுரத்தின் அனைத்துப் பண்புகளையும் (நான்கு பக்கங்கள் சமம்) பூர்த்தி செய்வதால், ஒவ்வொரு சதுரமும் ஒரு சாய்சதுரமே ஆகும்.",
+        "question_en": "Which of the following is NOT an incorrect statement?",
+        "options_en": [
+            "The diagonals of a rhombus are always equal in length",
+            "A square is a rhombus",
+            "If all sides of a parallelogram are equal, it is a square",
+            "If a parallelogram has one pair of non-parallel sides, it is called a rhombus"
+        ],
+        "explanation_en": "Correct answer option (2): A square is a rhombus. 'Not an incorrect statement' means the correct statement. Since a square satisfies all properties of a rhombus (all sides equal), every square is a rhombus."
+    },
+    {
+        "id": 67,
+        "question": "ஓர் இணைகரத்தில் ஒரு சோடி எதிர்ப்பக்கங்கள் மட்டும் இணையாக இருந்தால் அது",
+        "options": [
+            "சாய்சதுரம்",
+            "சரிவகம்",
+            "இருசமபக்க சரிவகம்",
+            "இணைகரம்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): சரிவகம். ஓர் இணைகரத்தில் ஒரு சோடி எதிர்ப்பக்கங்கள் மட்டும் இணையாக இருந்தால் (மற்றுமொரு சோடி இணையாக இல்லை எனில்), அது சரிவகம் (Trapezium) எனப்படும்.",
+        "question_en": "If only one pair of opposite sides of a quadrilateral is parallel, it is a",
+        "options_en": [
+            "Rhombus",
+            "Trapezium",
+            "Isosceles Trapezium",
+            "Parallelogram"
+        ],
+        "explanation_en": "Correct answer option (2): Trapezium. A quadrilateral with exactly one pair of parallel opposite sides is called a trapezium."
+    },
+    {
+        "id": 68,
+        "question": "எதிர்ப் பக்கங்கள் இணையாகவும், சமமாகவும் உள்ள நான்கு பக்கங்கள் கொண்ட ஒரு மூடிய உருவம்",
+        "options": [
+            "சாய்சதுரம்",
+            "சரிவகம்",
+            "இருசமபக்க சரிவகம்",
+            "இணைகரம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): இணைகரம். எதிர்ப்பக்கங்கள் இணையாகவும் சமமாகவும் உள்ள நான்கு பக்கங்கள் கொண்ட வடிவம் இணைகரம் (Parallelogram) ஆகும்.",
+        "question_en": "A closed four-sided figure in which opposite sides are parallel and equal is a",
+        "options_en": [
+            "Rhombus",
+            "Trapezium",
+            "Isosceles Trapezium",
+            "Parallelogram"
+        ],
+        "explanation_en": "Correct answer option (4): Parallelogram. A quadrilateral with both pairs of opposite sides parallel and equal is a parallelogram."
+    },
+    {
+        "id": 69,
+        "question": "ஒரு சரிவகத்தில் இணையற்ற பக்கங்கள் சமம் எனில் அது ஒரு",
+        "options": [
+            "சதுரம்",
+            "செவ்வகம்",
+            "இருசமபக்கச் சரிவகம்",
+            "இணைகரம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): இருசமபக்கச் சரிவகம். ஒரு சரிவகத்தில் இணையாக இல்லாத இரண்டு பக்கங்களும் சம நீளமுடையவை என்றால், அது இருசமபக்கச் சரிவகம் (Isosceles Trapezium) எனப்படும்.",
+        "question_en": "If the non-parallel sides of a trapezium are equal, then it is an",
+        "options_en": [
+            "Square",
+            "Rectangle",
+            "Isosceles Trapezium",
+            "Parallelogram"
+        ],
+        "explanation_en": "Correct answer option (3): Isosceles Trapezium. A trapezium with equal non-parallel sides is called an isosceles trapezium."
+    },
+    {
+        "id": 70,
+        "question": "ஓர் இணைகரத்தில் அனைத்துப் பக்கங்களும் சமமாக இருப்பின் அது ஒரு",
+        "options": [
+            "சாய்சதுரம்",
+            "சரிவகம்",
+            "இருசமபக்க சரிவகம்",
+            "இணைகரம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): சாய்சதுரம். ஓர் இணைகரத்தின் அனைத்து (நான்கு) பக்கங்களும் சம நீளமுடையவை என்றால், அது சாய்சதுரம் (Rhombus) ஆகும்.",
+        "question_en": "If all sides of a parallelogram are equal, then it is a",
+        "options_en": [
+            "Rhombus",
+            "Trapezium",
+            "Isosceles trapezium",
+            "Parallelogram"
+        ],
+        "explanation_en": "Correct answer option (1): Rhombus. A parallelogram with all four sides equal is a rhombus."
+    },
+    {
+        "id": 71,
+        "question": "நீர்ப் பாசனக் கால்வாய்களில் பெரும்பாலான இடங்களில் பயன்படுத்தப்படும் வடிவ அமைப்பு",
+        "options": [
+            "இணைகரம்",
+            "சாய்சதுரம்",
+            "சதுரம்",
+            "சரிவகம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): சரிவகம். நீர்ப்பாசனக் கால்வாய்கள் பெரும்பாலும் சரிவக (Trapezium) வடிவிலேயே அமைக்கப்படுகின்றன.",
+        "question_en": "The shape mostly used in the construction of irrigation canals is",
+        "options_en": [
+            "Parallelogram",
+            "Rhombus",
+            "Square",
+            "Trapezium"
+        ],
+        "explanation_en": "Correct answer option (4): Trapezium. Irrigation canals are predominantly constructed in the shape of a trapezium."
+    },
+    {
+        "id": 72,
+        "question": "ஒரு சரிவகத்தின் பரப்பளவு காணும் வாய்ப்பாடு எது?",
+        "options": [
+            "½ × b × h ச.அ",
+            "½ × d₁ × d₂ ச.அ",
+            "½ × h × (a+b) ச.அ",
+            "½ × d × (h₁+h₂) ச.அ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ½ × h × (a+b) ச.அ. சரிவகத்தின் பரப்பளவு = ½ × உயரம் × (இணைப்பக்கங்களின் கூடுதல்).",
+        "question_en": "What is the formula to find the area of a trapezium?",
+        "options_en": [
+            "½ × b × h sq.units",
+            "½ × d₁ × d₂ sq.units",
+            "½ × h × (a+b) sq.units",
+            "½ × d × (h₁+h₂) sq.units"
+        ],
+        "explanation_en": "Correct answer option (3): ½ × h × (a+b) sq.units. The area of a trapezium is half the product of its height and the sum of its parallel sides."
+    },
+    {
+        "id": 73,
+        "question": "உயரம் 5 செ.மீ., இணைப்பக்கங்களின் அளவுகள் முறையே 8 செ.மீ., 10 செ.மீ. கொண்ட சரிவகத்தின் பரப்பளவு",
+        "options": [
+            "45 ச.செ.மீ",
+            "40 ச.செ.மீ",
+            "18 ச.செ.மீ",
+            "50 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 45 ச.செ.மீ. பரப்பளவு = ½ × h × (a+b) = ½ × 5 × (8+10) = ½ × 5 × 18 = 45 ச.செ.மீ.",
+        "question_en": "The area of a trapezium with height 5 cm and parallel sides of 8 cm and 10 cm is",
+        "options_en": [
+            "45 sq.cm",
+            "40 sq.cm",
+            "18 sq.cm",
+            "50 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 45 sq.cm. Area = ½ × h × (a+b) = ½ × 5 × (8+10) = ½ × 5 × 18 = 45 sq.cm."
+    },
+    {
+        "id": 74,
+        "question": "சரிவகத்தின் இணைப்பக்கங்கள் முறையே 23 செ.மீ., 12 செ.மீ. இணைப்பக்கங்களுக்கு இடையே உள்ள தூரம் 9 செ.மீ. எனில் சரிவகத்தின் பரப்பளவு",
+        "options": [
+            "189 ச.செ.மீ",
+            "157.5 ச.செ.மீ",
+            "352 ச.செ.மீ",
+            "828 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 157.5 ச.செ.மீ. பரப்பளவு = ½ × h × (a+b) = ½ × 9 × (23+12) = ½ × 9 × 35 = 157.5 ச.செ.மீ.",
+        "question_en": "The parallel sides of a trapezium are 23 cm and 12 cm. If the distance between the parallel sides is 9 cm, the area of the trapezium is",
+        "options_en": [
+            "189 sq.cm",
+            "157.5 sq.cm",
+            "352 sq.cm",
+            "828 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 157.5 sq.cm. Area = ½ × h × (a+b) = ½ × 9 × (23+12) = ½ × 9 × 35 = 157.5 sq.cm."
+    },
+    {
+        "id": 75,
+        "question": "ஒரு சரிவகத்தில் இணைப்பக்கங்களின் கூடுதல் 18 செ.மீ. குத்துயரம் 15 செ.மீ. எனில் அதன் பரப்பளவு",
+        "options": [
+            "105 ச.செ.மீ",
+            "115 ச.செ.மீ",
+            "125 ச.செ.மீ",
+            "135 ச.செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 135 ச.செ.மீ. பரப்பளவு = ½ × h × (இணைப்பக்கங்களின் கூடுதல்) = ½ × 15 × 18 = 15 × 9 = 135 ச.செ.மீ.",
+        "question_en": "The sum of the parallel sides of a trapezium is 18 cm and its vertical height is 15 cm. Its area is",
+        "options_en": [
+            "105 sq.cm",
+            "115 sq.cm",
+            "125 sq.cm",
+            "135 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 135 sq.cm. Area = ½ × h × (sum of parallel sides) = ½ × 15 × 18 = 15 × 9 = 135 sq.cm."
+    },
+    {
+        "id": 76,
+        "question": "ஒரு சரிவக வடிவ கண்ணாடியின் பரப்பளவு 840 ச.செ.மீ அதன் மேல் மற்றும் அடி நீளம் 12 செ.மீ, 8 செ.மீ எனில் கண்ணாடியின் உயரம்",
+        "options": [
+            "84 செ.மீ",
+            "78 செ.மீ",
+            "63 செ.மீ",
+            "42 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 84 செ.மீ. 840 = ½ × h × (12+8) = ½ × h × 20 = 10h. உயரம் h = 840 / 10 = 84 செ.மீ.",
+        "question_en": "The area of a trapezium-shaped glass is 840 sq.cm. If its top and bottom lengths are 12 cm and 8 cm respectively, the height of the glass is",
+        "options_en": [
+            "84 cm",
+            "78 cm",
+            "63 cm",
+            "42 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 84 cm. 840 = ½ × h × (12+8) = 10h. Height h = 840 / 10 = 84 cm."
+    },
+    {
+        "id": 77,
+        "question": "இணைப்பக்கங்களின் கூடுதல் 20 சென்டிமீட்டராகவும், பரப்பளவு 80 சதுர சென்டிமீட்டர் கொண்ட சரிவகத்தின் குத்துயரம் என்ன?",
+        "options": [
+            "8 செ.மீ",
+            "80 செ.மீ",
+            "8 செ.மீ",
+            "40 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 8 செ.மீ. 80 = ½ × h × 20 = 10h. h = 80 / 10 = 8 செ.மீ. (விருப்பங்களில் 8 இருமுறை இருந்தாலும், முதல் விருப்பமே சரியான விடையாகக் கொள்ளப்படும்).",
+        "question_en": "What is the vertical height of a trapezium whose area is 80 sq.cm and the sum of parallel sides is 20 cm?",
+        "options_en": [
+            "8 cm",
+            "80 cm",
+            "8 cm",
+            "40 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 8 cm. 80 = ½ × h × 20 = 10h. Height h = 80 / 10 = 8 cm."
+    },
+    {
+        "id": 78,
+        "question": "பரப்பளவு 828 ச.செ.மீ., இணைப்பக்க அளவுகள் 19.6 செ.மீ., 16.4 செ.மீ. கொண்ட சரிவகத்தின் உயரம்",
+        "options": [
+            "19 செ.மீ",
+            "46 செ.மீ",
+            "14 செ.மீ",
+            "18 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 46 செ.மீ. இணைப்பக்கங்களின் கூடுதல் = 19.6 + 16.4 = 36. 828 = ½ × h × 36 = 18h. h = 828 / 18 = 46 செ.மீ.",
+        "question_en": "The height of a trapezium with an area of 828 sq.cm and parallel sides of 19.6 cm and 16.4 cm is",
+        "options_en": [
+            "19 cm",
+            "46 cm",
+            "14 cm",
+            "18 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 46 cm. Sum of parallel sides = 19.6 + 16.4 = 36. 828 = ½ × h × 36 = 18h. h = 828 / 18 = 46 cm."
+    },
+    {
+        "id": 79,
+        "question": "பரப்பளவு 140 ச.மீ., இணைப்பக்க அளவுகளின் கூடுதல் 10 மீ. கொண்ட சரிவகத்தின் உயரம்",
+        "options": [
+            "7 மீ",
+            "40 மீ",
+            "14 மீ",
+            "28 மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 28 மீ. 140 = ½ × h × 10 = 5h. h = 140 / 5 = 28 மீ.",
+        "question_en": "The height of a trapezium with an area of 140 sq.m and the sum of its parallel sides being 10 m is",
+        "options_en": [
+            "7 m",
+            "40 m",
+            "14 m",
+            "28 m"
+        ],
+        "explanation_en": "Correct answer option (4): 28 m. 140 = ½ × h × 10 = 5h. h = 140 / 5 = 28 m."
+    },
+    {
+        "id": 80,
+        "question": "பரப்பளவு 189 ச.மீ., உயரம் 14 செ.மீ. கொண்ட சரிவகத்தின் இணைப்பக்க அளவுகளின் கூடுதல்",
+        "options": [
+            "27 செ.மீ",
+            "54 செ.மீ",
+            "13.5 செ.மீ",
+            "28 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 27 செ.மீ. (இங்கு அலகுகள் செ.மீ என எடுத்துக்கொள்ளப்பட்டுள்ளன). 189 = ½ × 14 × (கூடுதல்) = 7 × (கூடுதல்). கூடுதல் = 189 / 7 = 27 செ.மீ.",
+        "question_en": "The sum of the parallel sides of a trapezium with an area of 189 sq.cm and a height of 14 cm is",
+        "options_en": [
+            "27 cm",
+            "54 cm",
+            "13.5 cm",
+            "28 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 27 cm. 189 = ½ × 14 × (Sum) = 7 × (Sum). Sum = 189 / 7 = 27 cm."
+    },
+    {
+        "id": 81,
+        "question": "ஒரு சரிவகத்தின் பரப்பளவு 162 செ.மீ² அதன் இணைப் பக்க அளவுகள் 9 செ.மீ., 18 செ.மீ. எனில் இணைப் பக்கங்களுக்கு இடைப்பட்ட தொலைவு என்ன?",
+        "options": [
+            "24 செ.மீ",
+            "12 செ.மீ",
+            "13 செ.மீ",
+            "15 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 12 செ.மீ. இடைப்பட்ட தொலைவு என்பது உயரம்(h) ஆகும். 162 = ½ × h × (9+18) = ½ × h × 27. 13.5h = 162. h = 162 / 13.5 = 12 செ.மீ.",
+        "question_en": "The area of a trapezium is 162 cm² and its parallel sides are 9 cm and 18 cm. What is the distance between the parallel sides?",
+        "options_en": [
+            "24 cm",
+            "12 cm",
+            "13 cm",
+            "15 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 12 cm. Distance between parallel sides is height (h). 162 = ½ × h × 27 = 13.5h. h = 162 / 13.5 = 12 cm."
+    },
+    {
+        "id": 82,
+        "question": "ஒரு சரிவகத்தின் பரப்பு 33.32 செ.மீ². மற்றும் அதன் ஒரு பக்க அளவு 8 செ.மீ. உயரம் 5.6 செ.மீ. எனில் மற்றொரு பக்க அளவு",
+        "options": [
+            "11.9 செ.மீ",
+            "3.9 செ.மீ",
+            "8.9 செ.மீ",
+            "5.9 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3.9 செ.மீ. 33.32 = ½ × 5.6 × (8+x) = 2.8 × (8+x). 8+x = 33.32 / 2.8 = 11.9. x = 11.9 - 8 = 3.9 செ.மீ.",
+        "question_en": "The area of a trapezium is 33.32 cm², one of its parallel sides is 8 cm, and its height is 5.6 cm. The other parallel side is",
+        "options_en": [
+            "11.9 cm",
+            "3.9 cm",
+            "8.9 cm",
+            "5.9 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 3.9 cm. 33.32 = ½ × 5.6 × (8+x) = 2.8(8+x). 8+x = 33.32 / 2.8 = 11.9. x = 11.9 - 8 = 3.9 cm."
+    },
+    {
+        "id": 83,
+        "question": "பொருத்துக.\n(a) இணைகரத்தின் பரப்பளவு -> (iii) bh ச.அ.\n(b) சாய்சதுரத்தின் பரப்பளவு -> (i) ½ d₁ d₂ ச.அ.\n(c) நீர் பாசனக் கால்வாய் -> (iv) சரிவகம்\n(d) சரிவகத்தின் பரப்பளவு -> (ii) ½ h(a+b) ச.அ.\n(e) டைமண்ட் கிராசிங் -> (v) சாய்சதுரம்",
+        "options": [
+            "a-v, b-i, c-iv, d-ii, e-iii",
+            "a-iv, b-i, c-v, d-ii, e-iii",
+            "a-iii, b-iv, c-i, d-ii, e-v",
+            "a-ii, b-i, c-iv, d-ii, e-v"
+        ],
+        "correct": 3,
+        "explanation": "ஆவணத்தின் விடைக்குறிப்புப் படி சரியான விடை (4) எனக் கொடுக்கப்பட்டுள்ளது.",
+        "question_en": "Match the following.\n(a) Area of parallelogram -> (iii) bh sq.units\n(b) Area of rhombus -> (i) ½ d₁ d₂ sq.units\n(c) Irrigation canal -> (iv) Trapezium\n(d) Area of trapezium -> (ii) ½ h(a+b) sq.units\n(e) Diamond crossing -> (v) Rhombus",
+        "options_en": [
+            "a-v, b-i, c-iv, d-ii, e-iii",
+            "a-iv, b-i, c-v, d-ii, e-iii",
+            "a-iii, b-iv, c-i, d-ii, e-v",
+            "a-ii, b-i, c-iv, d-ii, e-v"
+        ],
+        "explanation_en": "According to the document's answer key, the correct option is (4)."
+    },
+    {
+        "id": 84,
+        "question": "ஒரு சரிவகத்தின் இரு இணைப்பக்கங்களின் வேறுபாடு 4 செ.மீ. மற்றும் அவற்றிற்கு இடைப்பட்ட குத்துயரம் 19 செ.மீ., பரப்பு 475 செ.மீ². எனில் இணைப்பக்கங்களின் நீளங்கள்",
+        "options": [
+            "27 செ.மீ., 23 செ.மீ.",
+            "26 செ.மீ., 23 செ.மீ.",
+            "27 செ.மீ., 22 செ.மீ.",
+            "27 செ.மீ., 25 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 27 செ.மீ., 23 செ.மீ. 475 = ½ × 19 × (a+b) => a+b = (475 × 2)/19 = 50. a-b = 4 எனக் கொடுக்கப்பட்டுள்ளது. a+b=50 மற்றும் a-b=4 என்பதைத் தீர்க்க, a=27, b=23.",
+        "question_en": "The difference between two parallel sides of a trapezium is 4 cm, the vertical distance between them is 19 cm, and the area is 475 cm². The lengths of the parallel sides are",
+        "options_en": [
+            "27 cm, 23 cm",
+            "26 cm, 23 cm",
+            "27 cm, 22 cm",
+            "27 cm, 25 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 27 cm, 23 cm. 475 = ½ × 19 × (a+b) => a+b = 50. Given a-b = 4. Solving a+b=50 and a-b=4 gives a=27, b=23."
+    },
+    {
+        "id": 85,
+        "question": "ஓர் இணைகரத்தின் உயரத்தை 3 மடங்காகவும், அடிப்பக்கத்தை 2/3 மடங்காகவும் மாற்றும் போது கிடைக்கும் புதிய இணைகரத்தின் பரப்பளவு எவ்வாறு மாறும்?",
+        "options": [
+            "பாதியாக",
+            "மாறாது",
+            "2 மடங்காக",
+            "3 மடங்காக"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2 மடங்காக. புதிய பரப்பளவு = (2/3 b) × (3 h) = 2 bh. எனவே பழைய பரப்பளவை விட இரு மடங்காகிறது.",
+        "question_en": "When the height of a parallelogram is made 3 times and the base is made 2/3 times, how does the new area change?",
+        "options_en": [
+            "Halved",
+            "Unchanged",
+            "Doubled",
+            "Tripled"
+        ],
+        "explanation_en": "Correct answer option (3): Doubled. New area = (2/3 b) × (3 h) = 2 bh. Thus, it doubles."
+    },
+    {
+        "id": 86,
+        "question": "ABCD என்ற இணைகரத்தில் ∠A இன் மதிப்பிலிருந்து ∠C இன் மதிப்பைக் கழித்தால்",
+        "options": [
+            "90°",
+            "0°",
+            "180°",
+            "45°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 0°. இணைகரத்தின் எதிரெதிர் கோணங்கள் சமம் (∠A = ∠C). எனவே ∠A - ∠C = 0°.",
+        "question_en": "In parallelogram ABCD, subtracting the value of ∠C from the value of ∠A gives",
+        "options_en": [
+            "90°",
+            "0°",
+            "180°",
+            "45°"
+        ],
+        "explanation_en": "Correct answer option (2): 0°. Opposite angles in a parallelogram are equal (∠A = ∠C). Therefore, ∠A - ∠C = 0°."
+    },
+    {
+        "id": 87,
+        "question": "படத்தில், ABCD என்ற இணைகரத்தின் பரப்பிற்கும் ABC என்ற முக்கோணத்தின் பரப்பிற்கும் இடையே உள்ள விகிதம்",
+        "options": [
+            "1:2",
+            "2:1",
+            "3:2",
+            "2:3"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2:1. இணைகரத்தின் மூலைவிட்டம் (AC) இணைகரத்தை இரு சம முக்கோணங்களாகப் பிரிக்கிறது. எனவே இணைகரத்தின் பரப்பளவு முக்கோணத்தின் பரப்பளவைப் போல் 2 மடங்காகும். விகிதம் 2:1.",
+        "question_en": "In the figure, the ratio of the area of the parallelogram ABCD to the area of the triangle ABC is",
+        "options_en": [
+            "1:2",
+            "2:1",
+            "3:2",
+            "2:3"
+        ],
+        "explanation_en": "Correct answer option (2): 2:1. A diagonal divides a parallelogram into two congruent triangles. Therefore, the area of the parallelogram is twice the area of the triangle, giving a 2:1 ratio.",
+        "image": "image/unit5/q87.PNG"
+    },
+    {
+        "id": 88,
+        "question": "கொடுக்கப்பட்ட இணைகரத்தில், AC=34 cm ஆகும். மூலைவிட்டம் AC க்கும் B மற்றும் D ஆகியவற்றிற்கும் இடையே உள்ள செங்குத்துத் தூரம் 12 cm ஆகும். எனில் இந்த இணைகரத்தின் பரப்பு என்ன?",
+        "options": [
+            "204 ச.செ.மீ",
+            "408 ச.செ.மீ",
+            "816 ச.செ.மீ",
+            "806 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 408 ச.செ.மீ. இணைகரம் இரண்டு ஒத்த முக்கோணங்களாகப் பிரிக்கப்படுகிறது. ஒரு முக்கோணத்தின் பரப்பு = ½ × 34 × 12 = 204. மொத்தப் பரப்பு = 2 × 204 = 408 ச.செ.மீ.",
+        "question_en": "In the given parallelogram, AC=34 cm. The perpendicular distance from B and D to the diagonal AC is 12 cm. What is the area of this parallelogram?",
+        "options_en": [
+            "204 sq.cm",
+            "408 sq.cm",
+            "816 sq.cm",
+            "806 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 408 sq.cm. Area = 2 × (½ × base × height) = 2 × (½ × 34 × 12) = 408 sq.cm.",
+        "image": "image/unit5/q88.PNG"
+    },
+    {
+        "id": 89,
+        "question": "கொடுக்கப்பட்ட இணைகரத்தில், AB=15 cm, AD=12 cm மற்றும் MC=10 cm ஆகும். AD ⊥ MC மற்றும் AB ⊥ CL எனில், CL இன் நீளம் என்ன?",
+        "options": [
+            "12 செ.மீ",
+            "4 செ.மீ",
+            "8 செ.மீ",
+            "6 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8 செ.மீ. இணைகரத்தின் பரப்பளவு = அடிப்பக்கம் × உயரம். பரப்பளவு = AD × MC = 12 × 10 = 120. பரப்பளவு = AB × CL = 15 × CL. 15 × CL = 120 => CL = 120 / 15 = 8 செ.மீ.",
+        "question_en": "In the given parallelogram, AB=15 cm, AD=12 cm and MC=10 cm. If AD ⊥ MC and AB ⊥ CL, what is the length of CL?",
+        "options_en": [
+            "12 cm",
+            "4 cm",
+            "8 cm",
+            "6 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 8 cm. Area = base × height. Area = AD × MC = 12 × 10 = 120. Also Area = AB × CL = 15 × CL = 120. Thus, CL = 120 / 15 = 8 cm.",
+        "image": "image/unit5/q89.PNG"
+    },
+    {
+        "id": 90,
+        "question": "சதுரம் மற்றும் சாய்சதுரம் இரண்டும் ஒரே அடிப்பக்கத்தைக் கொண்டிருந்தால் சதுரம் மற்றும் சாய்சதுரத்தின் பரப்பளவின் விகிதமானது",
+        "options": [
+            "1 ஐ விட அதிகமாகும்",
+            "1 க்கு சமமாகும்",
+            "1/2 க்கு சமமாகும்",
+            "2 ஐ விட அதிகமாகும்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 ஐ விட அதிகமாகும். சதுரத்தின் பரப்பு = அடிப்பக்கம் × அடிப்பக்கம். சாய்சதுரத்தின் பரப்பு = அடிப்பக்கம் × உயரம். சாய்சதுரத்தில் உயரம் அதன் பக்க அளவை (அடிப்பக்கத்தை) விட எப்போதும் குறைவாகவே இருக்கும் (அது சதுரமாக இல்லாத பட்சத்தில்). எனவே சதுரத்தின் பரப்பே அதிகம். விகிதம் > 1.",
+        "question_en": "If a square and a rhombus have the same base, the ratio of the area of the square to the area of the rhombus is",
+        "options_en": [
+            "greater than 1",
+            "equal to 1",
+            "equal to 1/2",
+            "greater than 2"
+        ],
+        "explanation_en": "Correct answer option (1): greater than 1. Area of square = base². Area of rhombus = base × height. The height of a rhombus is strictly less than its side (unless it's a square). Thus, Square Area > Rhombus Area, making the ratio > 1."
+    },
+    {
+        "id": 91,
+        "question": "ஒரு சதுரத்தின் பரப்பும், ஒரு செவ்வகத்தின் பரப்பும் சமம். அவற்றின் சுற்றளவுகள் முறையே P₁ மற்றும் P₂ எனில்",
+        "options": [
+            "P₁ < P₂",
+            "P₁ = P₂",
+            "P₁ > P₂",
+            "P₁ ≥ P₂"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): P₁ < P₂. சம பரப்பளவு கொண்ட சதுரம் மற்றும் செவ்வகங்களில், சதுரத்தின் சுற்றளவு எப்போதுமே செவ்வகத்தின் சுற்றளவை விடக் குறைவாகவே இருக்கும்.",
+        "question_en": "The area of a square and a rectangle are equal. If their perimeters are P₁ and P₂ respectively, then",
+        "options_en": [
+            "P₁ < P₂",
+            "P₁ = P₂",
+            "P₁ > P₂",
+            "P₁ ≥ P₂"
+        ],
+        "explanation_en": "Correct answer option (1): P₁ < P₂. For a given area, a square always has the minimum perimeter compared to any rectangle."
+    },
+    {
+        "id": 92,
+        "question": "48 மீ பக்க அளவு கொண்ட ஒரு சதுரமும், 18 மீ உயரம் கொண்ட ஒரு இணைகரமும் சமப் பரப்பளவை கொண்டவை எனில் இணைகரத்தின் அடிப்பக்க அளவு",
+        "options": [
+            "100 மீ",
+            "112 மீ",
+            "128 மீ",
+            "142 மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 128 மீ. சதுரத்தின் பரப்பளவு = 48 × 48 = 2304 ச.மீ. இணைகரத்தின் பரப்பு = b × 18 = 2304. b = 2304 / 18 = 128 மீ.",
+        "question_en": "A square of side 48 m and a parallelogram of height 18 m have equal areas. The base of the parallelogram is",
+        "options_en": [
+            "100 m",
+            "112 m",
+            "128 m",
+            "142 m"
+        ],
+        "explanation_en": "Correct answer option (3): 128 m. Area of square = 48 × 48 = 2304 sq.m. Area of parallelogram = b × 18 = 2304. So, b = 128 m."
+    },
+    {
+        "id": 93,
+        "question": "676 ச.செ.மீ. பரப்பளவு கொண்ட ஓர் இணைகரத்தின் உயரம் அதன் அடிப்பக்கத்தில் நான்கில் ஒரு பங்கு எனில் அதன் அடிப்பக்கம், உயரம் முறையே",
+        "options": [
+            "13, 52",
+            "52, 13",
+            "48, 24",
+            "30, 42"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 52, 13. உயரம் h = b/4. பரப்பளவு = b × (b/4) = b²/4 = 676. b² = 676 × 4 = 2704 => b = 52 செ.மீ. h = 52/4 = 13 செ.மீ.",
+        "question_en": "The height of a parallelogram of area 676 sq.cm is one-fourth of its base. Its base and height respectively are",
+        "options_en": [
+            "13, 52",
+            "52, 13",
+            "48, 24",
+            "30, 42"
+        ],
+        "explanation_en": "Correct answer option (2): 52, 13. Height h = b/4. Area = b × (b/4) = b²/4 = 676. b² = 2704 => b = 52 cm. h = 52/4 = 13 cm."
+    },
+    {
+        "id": 94,
+        "question": "பரப்பளவு 576 ச.செ.மீ., உயரத்தைப் போல் நான்கு மடங்கு கொண்ட அடிப்பக்கத்தையும் உடைய இணைகரத்தின் உயரம்",
+        "options": [
+            "12 செ.மீ",
+            "11 செ.மீ",
+            "13 செ.மீ",
+            "15 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 12 செ.மீ. b = 4h. பரப்பளவு = b × h = 4h × h = 4h² = 576. h² = 576/4 = 144 => h = 12 செ.மீ.",
+        "question_en": "The height of a parallelogram whose area is 576 sq.cm and whose base is four times its height is",
+        "options_en": [
+            "12 cm",
+            "11 cm",
+            "13 cm",
+            "15 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 12 cm. Base b = 4h. Area = 4h × h = 4h² = 576. h² = 144 => h = 12 cm."
+    },
+    {
+        "id": 95,
+        "question": "ஒரு இணைகரத்தின் இரண்டு அடுத்தடுத்த கோணங்கள் (5x-5)° மற்றும் (10x+35)° எனில், அந்தக் கோணங்களின் விகிதம்",
+        "options": [
+            "2:3",
+            "3:4",
+            "1:3",
+            "1:2"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1:3. இணைகரத்தின் அடுத்தடுத்த கோணங்களின் கூடுதல் 180°. (5x-5) + (10x+35) = 180 => 15x + 30 = 180 => 15x = 150 => x = 10. கோணங்கள்: (50-5)=45° மற்றும் (100+35)=135°. விகிதம் 45:135 = 1:3.",
+        "question_en": "If two adjacent angles of a parallelogram are (5x-5)° and (10x+35)°, the ratio of these angles is",
+        "options_en": [
+            "2:3",
+            "3:4",
+            "1:3",
+            "1:2"
+        ],
+        "explanation_en": "Correct answer option (3): 1:3. The sum of adjacent angles is 180°. (5x-5) + (10x+35) = 180 => 15x = 150 => x = 10. Angles are 45° and 135°. Ratio is 45:135 = 1:3."
+    },
+    {
+        "id": 96,
+        "question": "507 ச.செ.மீ பரப்பளவு கொண்ட ஓர் இணைகரத்தின் உயரம் அதன் அடிப்பக்கத்தின் 3-ல் ஒரு பங்கு எனில் அதன் உயரம் காண்க.",
+        "options": [
+            "11 செ.மீ",
+            "12 செ.மீ",
+            "13 செ.மீ",
+            "14 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 13 செ.மீ. உயரம் h = b/3 => b = 3h. பரப்பளவு = 3h × h = 3h² = 507. h² = 169 => h = 13 செ.மீ.",
+        "question_en": "The area of a parallelogram is 507 sq.cm. If its height is one-third of its base, find its height.",
+        "options_en": [
+            "11 cm",
+            "12 cm",
+            "13 cm",
+            "14 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 13 cm. Height h = b/3 => base b = 3h. Area = 3h × h = 3h² = 507. h² = 169 => h = 13 cm."
+    },
+    {
+        "id": 97,
+        "question": "ABCD என்ற இணைகரத்தில் ∠A=75°, ∠B + ∠C-ன் மதிப்பு",
+        "options": [
+            "75°",
+            "120°",
+            "180°",
+            "105°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 180°. இணைகரத்தில் அடுத்தடுத்த கோணங்களின் கூடுதல் 180°. ∠B மற்றும் ∠C அடுத்தடுத்த கோணங்களாகும். எனவே ∠B + ∠C = 180°.",
+        "question_en": "In parallelogram ABCD, if ∠A=75°, the value of ∠B + ∠C is",
+        "options_en": [
+            "75°",
+            "120°",
+            "180°",
+            "105°"
+        ],
+        "explanation_en": "Correct answer option (3): 180°. In a parallelogram, consecutive angles are supplementary. Since ∠B and ∠C are adjacent angles, their sum is 180°."
+    },
+    {
+        "id": 98,
+        "question": "ஒரு சாய்சதுரத்தின் பரப்பளவு 576 ச.செ.மீ. ஒரு மூலைவிட்டமானது, மற்றொரு மூலைவிட்டத்தில் பாதி எனில், மூலைவிட்டங்களின் அளவுகள் முறையே",
+        "options": [
+            "48, 24",
+            "45, 28",
+            "13, 52",
+            "17, 14"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 48, 24. d₂ = d₁/2. பரப்பளவு = ½ × d₁ × (d₁/2) = d₁²/4 = 576. d₁² = 576 × 4 = 2304 => d₁ = 48. d₂ = 48/2 = 24. எனவே மூலைவிட்டங்கள் 48 மற்றும் 24.",
+        "question_en": "The area of a rhombus is 576 sq.cm. If one diagonal is half the other, the lengths of the diagonals are respectively",
+        "options_en": [
+            "48, 24",
+            "45, 28",
+            "13, 52",
+            "17, 14"
+        ],
+        "explanation_en": "Correct answer option (1): 48, 24. d₂ = d₁/2. Area = ½ × d₁ × d₁/2 = d₁²/4 = 576. d₁² = 2304 => d₁ = 48. d₂ = 24."
+    },
+    {
+        "id": 99,
+        "question": "ஒரு சாய்சதுரத்தின் மூலைவிட்ட அளவுகளின் கூடுதல் 24 மீ. பெரிய மூலைவிட்டத்தின் அளவு, சிறிய மூலைவிட்டத்தின் அளவைப் போல மூன்று மடங்கு எனில் அதன் பரப்பளவு",
+        "options": [
+            "54 ச.மீ",
+            "45 ச.மீ",
+            "169 ச.மீ",
+            "38 ச.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 54 ச.மீ. d₁ + d₂ = 24. d₁ = 3d₂. 3d₂ + d₂ = 4d₂ = 24 => d₂ = 6. d₁ = 3×6 = 18. பரப்பளவு = ½ × 18 × 6 = 54 ச.மீ.",
+        "question_en": "The sum of the lengths of the diagonals of a rhombus is 24 m. If the larger diagonal is three times the smaller, its area is",
+        "options_en": [
+            "54 sq.m",
+            "45 sq.m",
+            "169 sq.m",
+            "38 sq.m"
+        ],
+        "explanation_en": "Correct answer option (1): 54 sq.m. d₁ + d₂ = 24 and d₁ = 3d₂. 4d₂ = 24 => d₂ = 6. d₁ = 18. Area = ½ × 18 × 6 = 54 sq.m."
+    },
+    {
+        "id": 100,
+        "question": "ஒரு சாய்சதுரத்தின் பரப்பளவு 64 செ.மீ² அதன் ஒரு மூலைவிட்டமானது மற்றொரு மூலைவிட்டத்தில் பாதி எனில், மூலைவிட்டங்களின் கூடுதல் என்ன?",
+        "options": [
+            "24 செ.மீ",
+            "14 செ.மீ",
+            "18 செ.மீ",
+            "16 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 24 செ.மீ. பரப்பளவு = ½ × d₁ × (d₁/2) = d₁²/4 = 64. d₁² = 256 => d₁ = 16. d₂ = 16/2 = 8. கூடுதல் = 16 + 8 = 24 செ.மீ.",
+        "question_en": "The area of a rhombus is 64 sq.cm. If one diagonal is half the other, what is the sum of the diagonals?",
+        "options_en": [
+            "24 cm",
+            "14 cm",
+            "18 cm",
+            "16 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 24 cm. Area = ½ × d₁ × d₁/2 = d₁²/4 = 64. d₁² = 256 => d₁ = 16. d₂ = 8. Sum = 16 + 8 = 24 cm."
+    },
+    {
+        "id": 101,
+        "question": "ஒரு செங்கோண முக்கோணத்தின் பரப்பளவு",
+        "options": [
+            "b × h ச.அ.",
+            "½ × b × h ச.அ.",
+            "l × b ச.அ.",
+            "½ × h × (a+b) ச.அ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): ½ × b × h ச.அ. செங்கோண முக்கோணத்தின் பரப்பளவைக் காண அடிப்பக்கத்தையும் குத்துயரத்தையும் பெருக்கி இரண்டால் வகுக்க வேண்டும்.",
+        "question_en": "The area of a right-angled triangle is",
+        "options_en": [
+            "b × h sq.units",
+            "½ × b × h sq.units",
+            "l × b sq.units",
+            "½ × h × (a+b) sq.units"
+        ],
+        "explanation_en": "Correct answer option (2): ½ × b × h sq.units. The area of a right triangle is half the product of its base and height."
+    },
+    {
+        "id": 102,
+        "question": "கீழ்க்காணும் படத்தின் பரப்பளவு",
+        "options": [
+            "52 ச.செ.மீ",
+            "17 ச.செ.மீ",
+            "42 ச.செ.மீ",
+            "26 ச.செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 26 ச.செ.மீ. முக்கோணத்தின் அடிப்பக்கம் 13 செ.மீ, உயரம் 4 செ.மீ எனக் கொடுக்கப்பட்டுள்ளது. பரப்பளவு = ½ × 13 × 4 = 26 ச.செ.மீ.",
+        "question_en": "The area of the following figure is",
+        "options_en": [
+            "52 sq.cm",
+            "17 sq.cm",
+            "42 sq.cm",
+            "26 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 26 sq.cm. The base is 13 cm and height is 4 cm. Area = ½ × 13 × 4 = 26 sq.cm.",
+        "image": "image/unit5/q102.PNG"
+    },
+    {
+        "id": 103,
+        "question": "இணைகரத்தின் பரப்பளவு 400 செ.மீ² அதன் அடிப்பக்கம் 8 செ.மீ. எனில், அதன் உயரம்",
+        "options": [
+            "100 செ.மீ",
+            "150 செ.மீ",
+            "100 செ.மீ",
+            "50 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 50 செ.மீ. இணைகரத்தின் பரப்பளவு = அடிப்பக்கம் × உயரம். 400 = 8 × உயரம் => உயரம் = 400 / 8 = 50 செ.மீ.",
+        "question_en": "The area of a parallelogram is 400 sq.cm. If its base is 8 cm, its height is",
+        "options_en": [
+            "100 cm",
+            "150 cm",
+            "100 cm",
+            "50 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 50 cm. Area = base × height. 400 = 8 × height => height = 400 / 8 = 50 cm."
+    },
+    {
+        "id": 104,
+        "question": "சாய்சதுரத்தின் பரப்பளவு 50 மீ² எனில், அதன் மூலைவிட்டங்களின் பெருக்கற்பலன்",
+        "options": [
+            "25",
+            "50",
+            "100",
+            "200"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 100. பரப்பளவு = ½ × (மூலைவிட்டங்களின் பெருக்கற்பலன்). 50 = ½ × (d₁ × d₂). எனவே, (d₁ × d₂) = 50 × 2 = 100.",
+        "question_en": "If the area of a rhombus is 50 sq.m, the product of its diagonals is",
+        "options_en": [
+            "25",
+            "50",
+            "100",
+            "200"
+        ],
+        "explanation_en": "Correct answer option (3): 100. Area = ½ × (d₁ × d₂). So, (d₁ × d₂) = 50 × 2 = 100."
+    },
+    {
+        "id": 105,
+        "question": "ஒரு அலுவலகத்தின் ஜன்னல் சாய்சதுர வடிவில் உள்ளது. அதன் பரப்பளவு 500 ச.செ.மீ. ஆகும். அந்த ஜன்னலானது சிறுசிறு சாய்சதுர வடிவிலான கண்ணாடித் துண்டுகளால் அலங்கரிக்கப்பட்டது. அச்சிறு கண்ணாடியின் மூலைவிட்ட அளவுகள் 10 செ.மீ. மற்றும் 5 செ.மீ. எனில் தேவைப்படும் சிறு சாய்சதுர வடிவ கண்ணாடித் துண்டுகளின் எண்ணிக்கை",
+        "options": [
+            "25",
+            "20",
+            "10",
+            "50"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 20. ஒரு சிறிய கண்ணாடித் துண்டின் பரப்பளவு = ½ × 10 × 5 = 25 ச.செ.மீ. தேவையான எண்ணிக்கை = மொத்தப் பரப்பளவு / ஒரு துண்டின் பரப்பளவு = 500 / 25 = 20.",
+        "question_en": "An office window is in the shape of a rhombus with an area of 500 sq.cm. It is decorated with small rhombus-shaped glass pieces whose diagonals are 10 cm and 5 cm. The number of such small pieces required is",
+        "options_en": [
+            "25",
+            "20",
+            "10",
+            "50"
+        ],
+        "explanation_en": "Correct answer option (2): 20. Area of one small piece = ½ × 10 × 5 = 25 sq.cm. Number of pieces = Total area / Area of one piece = 500 / 25 = 20."
+    },
+    {
+        "id": 106,
+        "question": "------- என்பது மூடிய வடிவத்தின் அடைபட்ட சமதளப் பகுதியாகும்.",
+        "options": [
+            "பரப்பளவு",
+            "சுற்றளவு",
+            "அகலம்",
+            "நீளம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): பரப்பளவு. ஒரு மூடிய வடிவத்தால் அடைபடும் சமதளப் பகுதி அதன் பரப்பளவு (Area) என்று அழைக்கப்படுகிறது.",
+        "question_en": "------- is the plane region enclosed by a closed figure.",
+        "options_en": [
+            "Area",
+            "Perimeter",
+            "Breadth",
+            "Length"
+        ],
+        "explanation_en": "Correct answer option (1): Area. The plane region enclosed by a closed boundary is called its area."
+    },
+    {
+        "id": 107,
+        "question": "அடுத்துள்ள பக்கங்கள் முறையே 4.2 செ.மீ., மற்றும் 3.8 செ.மீ. கொண்ட இணைகரத்தின் சுற்றளவு",
+        "options": [
+            "12 செ.மீ",
+            "16 செ.மீ",
+            "24 செ.மீ",
+            "22 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 16 செ.மீ. இணைகரத்தின் சுற்றளவு = 2 × (a + b) = 2 × (4.2 + 3.8) = 2 × 8 = 16 செ.மீ.",
+        "question_en": "The perimeter of a parallelogram with adjacent sides 4.2 cm and 3.8 cm is",
+        "options_en": [
+            "12 cm",
+            "16 cm",
+            "24 cm",
+            "22 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 16 cm. Perimeter = 2 × (a + b) = 2 × (4.2 + 3.8) = 2 × 8 = 16 cm."
+    },
+    {
+        "id": 108,
+        "question": "'டயமண்ட் கிராசிங்' என்பது -------- வடிவத்தைக் குறிக்கும்.",
+        "options": [
+            "சதுரம்",
+            "இணைகரம்",
+            "சாய்சதுரம்",
+            "செவ்வகம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): சாய்சதுரம். இரண்டு இரயில் பாதைகள் கடக்கும் இடத்தில் உருவாகும் அமைப்பு 'டயமண்ட் கிராசிங்' எனப்படுகிறது, இது சாய்சதுர (Rhombus) வடிவத்தில் அமையும்.",
+        "question_en": "'Diamond crossing' refers to the shape of a",
+        "options_en": [
+            "Square",
+            "Parallelogram",
+            "Rhombus",
+            "Rectangle"
+        ],
+        "explanation_en": "Correct answer option (3): Rhombus. A diamond crossing formed by intersecting railway tracks is in the shape of a rhombus."
+    },
+    {
+        "id": 109,
+        "question": "ஒரு இணைகரத்தின் அடிப்பக்கமானது அதன் உயரத்தைப் போல 4 மடங்கு மற்றும் அதன் பரப்பு 256 செ.மீ² எனில் அதன் உயரம்",
+        "options": [
+            "4 செ.மீ",
+            "6 செ.மீ",
+            "8 செ.மீ",
+            "16 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8 செ.மீ. b = 4h. பரப்பளவு = b × h = 4h × h = 4h² = 256. h² = 256/4 = 64 => h = 8 செ.மீ.",
+        "question_en": "If the base of a parallelogram is 4 times its height and its area is 256 sq.cm, its height is",
+        "options_en": [
+            "4 cm",
+            "6 cm",
+            "8 cm",
+            "16 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 8 cm. Base b = 4h. Area = b × h = 4h² = 256. h² = 64 => h = 8 cm."
+    }
+]

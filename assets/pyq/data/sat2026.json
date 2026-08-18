@@ -1,0 +1,1805 @@
+[
+  {
+    "id": 91,
+    "question": "$(-9)^{x+1} \\times \\frac{1}{(-9)^{-5}} = (-9)^{10}$ எனில், x = ?",
+    "options": [
+      "6",
+      "4",
+      "14",
+      "0"
+    ],
+    "correct": 1,
+    "explanation": "பகுதியை மேலே கொண்டு சென்றால்: $(-9)^{x+1} \\times (-9)^5 = (-9)^{10}$. \nஅடிமானம் சமம் என்பதால் அடுக்குகளைக் கூட்டலாம்: $x + 1 + 5 = 10 \n\\Rightarrow x + 6 = 10 \n\\Rightarrow x = 4$.",
+    "question_en": "If $(-9)^{x+1} \\times \\frac{1}{(-9)^{-5}} = (-9)^{10}$, then x = ?",
+    "options_en": [
+      "6",
+      "4",
+      "14",
+      "0"
+    ],
+    "explanation_en": "If the denominator is moved to the numerator: $(-9)^{x+1} \\times (-9)^5 = (-9)^{10}$. \nSince the bases are equal, the exponents can be added: $x + 1 + 5 = 10 \n\\Rightarrow x + 6 = 10 \n\\Rightarrow x = 4$."
+  },
+  {
+    "id": 92,
+    "question": "₹ 7000 -க்கு 7% ஆண்டு வட்டியில் 2 ஆண்டுகளுக்கு கூட்டு வட்டிக்கும், தனி வட்டிக்கும் இடையேயுள்ள வித்தியாசம்:",
+    "options": [
+      "₹ 34.1",
+      "₹ 34.2",
+      "₹ 34.3",
+      "₹ 34.4"
+    ],
+    "correct": 2,
+    "explanation": "2 ஆண்டுகளுக்கான வித்தியாசம் = $P \\times (\\frac{r}{100})^2$. \n$= 7000 \\times (\\frac{7}{100})^2 \n= 7000 \\times \\frac{49}{10000} \n= \\frac{7 \\times 49}{10} = \\frac{343}{10} = 34.3$.",
+    "question_en": "The difference between compound interest and simple interest for ₹ 7000 at 7% annual interest for 2 years is:",
+    "options_en": [
+      "₹ 34.1",
+      "₹ 34.2",
+      "₹ 34.3",
+      "₹ 34.4"
+    ],
+    "explanation_en": "Difference for 2 years = $P \\times (\\frac{r}{100})^2$. \n$= 7000 \\times (\\frac{7}{100})^2 \n= 7000 \\times \\frac{49}{10000} \n= \\frac{7 \\times 49}{10} = \\frac{343}{10} = 34.3$."
+  },
+  {
+    "id": 93,
+    "question": "புள்ளி (0, 5) என்பது எதன் மீது அமைந்துள்ளது?",
+    "options": [
+      "x-அச்சின்",
+      "y-அச்சின்",
+      "x-அச்சிற்கு இணையான கோட்டின்",
+      "y-அச்சிற்கு இணையான கோட்டின்"
+    ],
+    "correct": 1,
+    "explanation": "x-ஆயத்தொலைவு 0 ஆக இருப்பதால், புள்ளி (0, 5) ஆனது y-அச்சின் மீது அமைந்திருக்கும்.",
+    "question_en": "On which axis does the point (0, 5) lie?",
+    "options_en": [
+      "x-axis",
+      "y-axis",
+      "a line parallel to the x-axis",
+      "a line parallel to the y-axis"
+    ],
+    "explanation_en": "Since the x-coordinate is 0, the point (0, 5) lies on the y-axis."
+  },
+  {
+    "id": 94,
+    "question": "2 பேர் இணைந்து 2 வேலைகளை 2 நாட்களில் முடிக்கிறார்கள் எனில், 20 பேர் இணைந்து 20 வேலைகளை எத்தனை நாட்களில் முடிப்பர்?",
+    "options": [
+      "20",
+      "2",
+      "200",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "சூத்திரம்: $\\frac{M_1 D_1}{W_1} = \\frac{M_2 D_2}{W_2}$. \n$\\frac{2 \\times 2}{2} = \\frac{20 \\times D_2}{20} \n\\Rightarrow 2 = D_2$. \nஎனவே, 2 நாட்களில் முடிப்பர்.",
+    "question_en": "If 2 people complete 2 tasks in 2 days, in how many days will 20 people complete 20 tasks?",
+    "options_en": [
+      "20",
+      "2",
+      "200",
+      "10"
+    ],
+    "explanation_en": "Formula: $\\frac{M_1 D_1}{W_1} = \\frac{M_2 D_2}{W_2}$. \n$\\frac{2 \\times 2}{2} = \\frac{20 \\times D_2}{20} \n\\Rightarrow 2 = D_2$. \nTherefore, they will complete it in 2 days."
+  },
+  {
+    "id": 95,
+    "question": "$\\Delta ABC$ ல், $\\angle A = 90^{\\circ}$, $\\angle B = 60^{\\circ}$. B மற்றும் C-ன் கோண இருசம வெட்டிகள் முறையே BD, CE எனில், $\\angle ECD = $ ?",
+    "options": [
+      "$15^{\\circ}$",
+      "$30^{\\circ}$",
+      "$75^{\\circ}$",
+      "$60^{\\circ}$"
+    ],
+    "correct": 0,
+    "explanation": "முக்கோணத்தின் கோணங்களின் கூடுதல் $180^{\\circ}$. எனவே, $\\angle C = 180^{\\circ} - (90^{\\circ} + 60^{\\circ}) = 30^{\\circ}$. \nCE என்பது $\\angle C$-ன் இருசம வெட்டி. எனவே $\\angle ECD = \\frac{30^{\\circ}}{2} = 15^{\\circ}$.",
+    "question_en": "In $\\Delta ABC$, $\\angle A = 90^{\\circ}$, $\\angle B = 60^{\\circ}$. If BD and CE are the angle bisectors of B and C respectively, then $\\angle ECD = $ ?",
+    "options_en": [
+      "$15^{\\circ}$",
+      "$30^{\\circ}$",
+      "$75^{\\circ}$",
+      "$60^{\\circ}$"
+    ],
+    "explanation_en": "The sum of angles in a triangle is $180^{\\circ}$. So, $\\angle C = 180^{\\circ} - (90^{\\circ} + 60^{\\circ}) = 30^{\\circ}$. \nCE is the bisector of $\\angle C$. Therefore $\\angle ECD = \\frac{30^{\\circ}}{2} = 15^{\\circ}$."
+  },
+  {
+    "id": 96,
+    "question": "கீழ்கண்டவற்றுள் எது மிகப்பெரியது?",
+    "options": [
+      "$2^{15}$",
+      "$16^5$",
+      "$4^{40}$",
+      "$8^{20}$"
+    ],
+    "correct": 2,
+    "explanation": "அனைத்தையும் 2-ன் அடுக்காக மாற்றலாம்: \n$16^5 = (2^4)^5 = 2^{20}$. \n$4^{40} = (2^2)^{40} = 2^{80}$. \n$8^{20} = (2^3)^{20} = 2^{60}$. \nஎனவே, $4^{40}$ ($2^{80}$) என்பதே மிகப்பெரியது.",
+    "question_en": "Which of the following is the largest?",
+    "options_en": [
+      "$2^{15}$",
+      "$16^5$",
+      "$4^{40}$",
+      "$8^{20}$"
+    ],
+    "explanation_en": "All can be converted to powers of 2: \n$16^5 = (2^4)^5 = 2^{20}$. \n$4^{40} = (2^2)^{40} = 2^{80}$. \n$8^{20} = (2^3)^{20} = 2^{60}$. \nTherefore, $4^{40}$ ($2^{80}$) is the largest."
+  },
+  {
+    "id": 97,
+    "question": "$x = a^2 - 1 + b$ மற்றும் $y = 1 - b - b^2$ எனில் x + y = ?",
+    "options": [
+      "$(a+b)(a+b)$",
+      "$(a+b)(a-b)$",
+      "$a^2 + b^2$",
+      "$(a-b)(a-b)$"
+    ],
+    "correct": 1,
+    "explanation": "$x + y = (a^2 - 1 + b) + (1 - b - b^2)$. \n$-1$ மற்றும் $+1$, $+b$ மற்றும் $-b$ கேன்சல் ஆகிவிடும். \nமீதம் $a^2 - b^2$ இருக்கும். இதன் விரிவாக்கம் $(a+b)(a-b)$.",
+    "question_en": "If $x = a^2 - 1 + b$ and $y = 1 - b - b^2$, then x + y = ?",
+    "options_en": [
+      "$(a+b)(a+b)$",
+      "$(a+b)(a-b)$",
+      "$a^2 + b^2$",
+      "$(a-b)(a-b)$"
+    ],
+    "explanation_en": "$x + y = (a^2 - 1 + b) + (1 - b - b^2)$. \n$-1$ and $+1$, $+b$ and $-b$ will cancel out. \nThe remainder will be $a^2 - b^2$. Its expansion is $(a+b)(a-b)$."
+  },
+  {
+    "id": 98,
+    "question": "$\\frac{(-1)^8 \\times (-1)^7 \\times (+1)^6}{(-1)^3 \\times (-1)^5}$ -ன் மதிப்பு:",
+    "options": [
+      "0",
+      "-1",
+      "1",
+      "-3"
+    ],
+    "correct": 1,
+    "explanation": "தொகுதி (Numerator): $1 \\times (-1) \\times 1 = -1$. \nபகுதி (Denominator): $(-1) \\times (-1) = 1$. \nஎனவே, $\\frac{-1}{1} = -1$.",
+    "question_en": "The value of $\\frac{(-1)^8 \\times (-1)^7 \\times (+1)^6}{(-1)^3 \\times (-1)^5}$ is:",
+    "options_en": [
+      "0",
+      "-1",
+      "1",
+      "-3"
+    ],
+    "explanation_en": "Numerator: $1 \\times (-1) \\times 1 = -1$. \nDenominator: $(-1) \\times (-1) = 1$. \nTherefore, $\\frac{-1}{1} = -1$."
+  },
+  {
+    "id": 99,
+    "question": "36 மீ பக்க அளவுள்ள ஒரு சதுரத்தின் பரப்பும், 24 மீ உயரமுள்ள ஒரு இணைகரத்தின் பரப்பும் சமம் எனில், இணைகரத்தின் அடிப்பக்க அளவு:",
+    "options": [
+      "27 மீ",
+      "60 மீ",
+      "54 மீ",
+      "108 மீ"
+    ],
+    "correct": 2,
+    "explanation": "சதுரத்தின் பரப்பு = $36 \\times 36 = 1296$. \nஇணைகரத்தின் பரப்பு = அடிப்பக்கம் $\\times$ உயரம் = $b \\times 24$. \n$b \\times 24 = 1296 \\Rightarrow b = \\frac{1296}{24} = 54$ மீ.",
+    "question_en": "If the area of a square with side length 36 m is equal to the area of a parallelogram with height 24 m, then the base length of the parallelogram is:",
+    "options_en": [
+      "27 m",
+      "60 m",
+      "54 m",
+      "108 m"
+    ],
+    "explanation_en": "Area of the square = $36 \\times 36 = 1296$. \nArea of the parallelogram = base $\\times$ height = $b \\times 24$. \n$b \\times 24 = 1296 \\Rightarrow b = \\frac{1296}{24} = 54$ m."
+  },
+  {
+    "id": 100,
+    "question": "ஒரு வட்ட வடிவ புல்வெளியைச் சுற்றி அலங்கரிக்க ஒரு மீட்டருக்கு ₹ 50 வீதம் ₹ 11,000 செலவாகிறது எனில், அதன் விட்டம்:",
+    "options": [
+      "70 மீ",
+      "35 மீ",
+      "17.5 மீ",
+      "7 மீ"
+    ],
+    "correct": 0,
+    "explanation": "சுற்றளவு = மொத்த செலவு / ஒரு மீட்டருக்கான செலவு = $\\frac{11000}{50} = 220$ மீ. \n$\\pi d = 220 \\Rightarrow \\frac{22}{7} \\times d = 220 \\Rightarrow d = \\frac{220 \\times 7}{22} = 70$ மீ.",
+    "question_en": "If it costs ₹ 11,000 to decorate around a circular lawn at a rate of ₹ 50 per meter, then its diameter is:",
+    "options_en": [
+      "70 m",
+      "35 m",
+      "17.5 m",
+      "7 m"
+    ],
+    "explanation_en": "Circumference = Total cost / Cost per meter = $\\frac{11000}{50} = 220$ m. \n$\\pi d = 220 \\Rightarrow \\frac{22}{7} \\times d = 220 \\Rightarrow d = \\frac{220 \\times 7}{22} = 70$ m."
+  },
+  {
+    "id": 101,
+    "question": "முக்கோணத்தின் வெளிக்கோணங்கள் $x, y, z$ மற்றும் உட்கோணங்கள் $a, b, c$ எனில், சரியான கூற்று எது?",
+    "image": "image/mat_2026/q101.PNG",
+    "options": [
+      "$x+y+z = 180^{\\circ}$",
+      "$x+y+z = a+b+c$",
+      "$x+y+z = 2(a+b+c)$",
+      "$x+y+z = 3(a+b+c)$"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு பலகோணத்தின் அனைத்து வெளிக்கோணங்களின் கூடுதல் $360^{\\circ}$. முக்கோணத்தின் உட்கோணங்களின் கூடுதல் $180^{\\circ}$. \nஎனவே, $360^{\\circ} = 2 \\times 180^{\\circ} \\Rightarrow x+y+z = 2(a+b+c)$.",
+    "question_en": "If the exterior angles of a triangle are $x, y, z$ and the interior angles are $a, b, c$, then which statement is correct?",
+    "options_en": [
+      "$x+y+z = 180^{\\circ}$",
+      "$x+y+z = a+b+c$",
+      "$x+y+z = 2(a+b+c)$",
+      "$x+y+z = 3(a+b+c)$"
+    ],
+    "explanation_en": "The sum of all exterior angles of a polygon is $360^{\\circ}$. The sum of interior angles of a triangle is $180^{\\circ}$. \nTherefore, $360^{\\circ} = 2 \\times 180^{\\circ} \\Rightarrow x+y+z = 2(a+b+c)$."
+  },
+  {
+    "id": 102,
+    "question": "பின்வருவனவற்றுள் எது சரி?",
+    "options": [
+      "$0.01 = 1\\%$",
+      "$0.1 = 1\\%$",
+      "$0.01 > 1\\%$",
+      "$0.01 < 1\\%$"
+    ],
+    "correct": 0,
+    "explanation": "$1\\%$ என்பது $\\frac{1}{100}$ ஐக் குறிக்கும். $\\frac{1}{100} = 0.01$. எனவே $0.01 = 1\\%$ என்பது சரியான கூற்று.",
+    "question_en": "Which of the following is correct?",
+    "options_en": [
+      "$0.01 = 1\\%$",
+      "$0.1 = 1\\%$",
+      "$0.01 > 1\\%$",
+      "$0.01 < 1\\%$"
+    ],
+    "explanation_en": "$1\\%$ represents $\\frac{1}{100}$. $\\frac{1}{100} = 0.01$. Therefore, $0.01 = 1\\%$ is the correct statement."
+  },
+  {
+    "id": 103,
+    "question": "1, 2, 3, 4, 2, 3, 4, 3, 4, 4 என்ற தரவுகளின் இடைநிலை மற்றும் முகடு ஆகியவற்றின் சராசரி:",
+    "options": [
+      "3",
+      "4",
+      "3.5",
+      "2.5"
+    ],
+    "correct": 2,
+    "explanation": "தரவுகளை ஏறுவரிசையில் எழுதினால்: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4. (மொத்தம் 10 எண்கள்). \nஇடைநிலை (Median) = நடுவில் உள்ள 5 மற்றும் 6 வது எண்களின் சராசரி = $\\frac{3+3}{2} = 3$. \nமுகடு (Mode) = அதிக முறை வருவது = 4. \nஇடைநிலை மற்றும் முகடின் சராசரி = $\\frac{3+4}{2} = 3.5$.",
+    "question_en": "The average of the median and mode of the data 1, 2, 3, 4, 2, 3, 4, 3, 4, 4 is:",
+    "options_en": [
+      "3",
+      "4",
+      "3.5",
+      "2.5"
+    ],
+    "explanation_en": "Arranging the data in ascending order: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4. (Total 10 numbers). \nMedian = Average of the 5th and 6th numbers in the middle = $\\frac{3+3}{2} = 3$. \nMode = The number that appears most frequently = 4. \nAverage of Median and Mode = $\\frac{3+4}{2} = 3.5$."
+  },
+  {
+    "id": 104,
+    "question": "x மற்றும் y-க்கு இடையேயான சரியான தொடர்பு: x=(6, 12, 18, 24, 30), y=(2, 4, 6, 8, 10)",
+    "image": "image/mat_2026/q104.PNG",
+    "options": [
+      "$y = 3x$",
+      "$y = \\frac{1}{3}x$",
+      "$y = x+3$",
+      "$y = x-4$"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு x மதிப்பையும் 3 ஆல் வகுத்தால் y மதிப்பு கிடைக்கிறது. \nஉதாரணமாக: $6 / 3 = 2$, $12 / 3 = 4$. எனவே $y = \\frac{1}{3}x$.",
+    "question_en": "The correct relationship between x and y: x=(6, 12, 18, 24, 30), y=(2, 4, 6, 8, 10)",
+    "options_en": [
+      "$y = 3x$",
+      "$y = \\frac{1}{3}x$",
+      "$y = x+3$",
+      "$y = x-4$"
+    ],
+    "explanation_en": "If each x value is divided by 3, the y value is obtained. \nFor example: $6 / 3 = 2$, $12 / 3 = 4$. Therefore $y = \\frac{1}{3}x$."
+  },
+  {
+    "id": 105,
+    "question": "பின்வருவனவற்றுள் எது பல்லுறுப்புக் கோவை அல்ல?",
+    "options": [
+      "$x^9 + 9$",
+      "$\\sqrt{7}x^2 - 6x + 5$",
+      "$x^2 + \\frac{1}{x} + 5$",
+      "$4x - 5$"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு பல்லுறுப்புக் கோவையில் (Polynomial) மாறியின் அடுக்கு எதிர்மறை எண்ணாகவோ (Negative) பின்னமாகவோ இருக்கக்கூடாது. $x^2 + \\frac{1}{x} + 5$ என்பதில் $\\frac{1}{x} = x^{-1}$ என வருவதால், இது பல்லுறுப்புக் கோவை அல்ல.",
+    "question_en": "Which of the following is not a polynomial?",
+    "options_en": [
+      "$x^9 + 9$",
+      "$\\sqrt{7}x^2 - 6x + 5$",
+      "$x^2 + \\frac{1}{x} + 5$",
+      "$4x - 5$"
+    ],
+    "explanation_en": "In a polynomial, the exponent of the variable should not be a negative number or a fraction. In $x^2 + \\frac{1}{x} + 5$, since $\\frac{1}{x} = x^{-1}$, it is not a polynomial."
+  },
+  {
+    "id": 106,
+    "question": "ஒரு பொருளை ₹ 850-க்கு விற்றதால் கிடைத்த இலாபமும், அதே பொருளை ₹ 570-க்கு விற்றதால் ஏற்பட்ட நட்டமும் சமம் எனில், அதன் அடக்க விலை:",
+    "options": [
+      "₹ 280",
+      "₹ 710",
+      "₹ 720",
+      "₹ 1420"
+    ],
+    "correct": 1,
+    "explanation": "இலாபம் = விற்ற விலை - அடக்க விலை. நட்டம் = அடக்க விலை - விற்ற விலை. \n$850 - x = x - 570 \\Rightarrow 2x = 850 + 570 = 1420 \\Rightarrow x = 710$.",
+    "question_en": "If the profit obtained by selling an item for ₹ 850 is equal to the loss incurred by selling the same item for ₹ 570, then its cost price is:",
+    "options_en": [
+      "₹ 280",
+      "₹ 710",
+      "₹ 720",
+      "₹ 1420"
+    ],
+    "explanation_en": "Profit = Selling Price - Cost Price. Loss = Cost Price - Selling Price. \n$850 - x = x - 570 \\Rightarrow 2x = 850 + 570 = 1420 \\Rightarrow x = 710$."
+  },
+  {
+    "id": 107,
+    "question": "ஒரு வட்டத்தின் ஆரம் இருமடங்கானால் அதன் பரப்பு:",
+    "options": [
+      "மாற்றம் இல்லை",
+      "இரு மடங்காகும்",
+      "மூன்று மடங்காகும்",
+      "நான்கு மடங்காகும்"
+    ],
+    "correct": 3,
+    "explanation": "வட்டத்தின் பரப்பு = $\\pi r^2$. \nஆரம் இருமடங்கானால் (2r) பரப்பு = $\\pi (2r)^2 = 4 \\pi r^2$. எனவே பரப்பு நான்கு மடங்காகும்.",
+    "question_en": "If the radius of a circle is doubled, its area:",
+    "options_en": [
+      "remains unchanged",
+      "doubles",
+      "triples",
+      "quadruples"
+    ],
+    "explanation_en": "Area of a circle = $\\pi r^2$. \nIf the radius is doubled (2r), the area = $\\pi (2r)^2 = 4 \\pi r^2$. Therefore, the area quadruples."
+  },
+  {
+    "id": 108,
+    "question": "பொருத்துக (அடுக்குக் குறியீடு $\\rightarrow$ ஒன்றாம் இலக்கம்): \n(a) $(100)^{100} \\times (111)^{111}$ (b) $(1032)^5$ (c) $(729)^8 + (722)^9$ (d) $(444)^{41}$",
+    "options": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "correct": 3,
+    "explanation": "(a) 0 ம் 1 ம் பெருக்கினால் ஒன்றாம் இலக்கம் 0 (iv). \n(b) 2-ன் அடுக்கு 5 எனில் $2^5=32$, இலக்கம் 2 (iii). \n(c) $9^{\\text{இரட்டை}}$ = 1, $2^9$ = 2. $1+2 = 3$ (ii). \n(d) $4^{\\text{ஒற்றை}}$ = 4 (i). \nஎனவே (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i).",
+    "question_en": "Match the following (Exponent $\\rightarrow$ Unit digit): \n(a) $(100)^{100} \\times (111)^{111}$ (b) $(1032)^5$ (c) $(729)^8 + (722)^9$ (d) $(444)^{41}$",
+    "options_en": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "explanation_en": "(a) If 0 and 1 are multiplied, the unit digit is 0 (iv). \n(b) If the exponent of 2 is 5, then $2^5=32$, unit digit is 2 (iii). \n(c) $9^{\\text{even}}$ = 1, $2^9$ = 2. $1+2 = 3$ (ii). \n(d) $4^{\\text{odd}}$ = 4 (i). \nTherefore (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)."
+  },
+  {
+    "id": 109,
+    "question": "கூற்று (A): 125-ன் வர்க்கமானது 3 ஆல் வகுக்கும் போது மீதி 1 கிடைக்கும். \nகாரணம் (R): ஒரு முழுவர்க்க எண்ணை 3 ஆல் வகுக்க கிடைக்கும் மீதியானது பூச்சியமாகவோ அல்லது 1 ஆகவோ இருக்கும்.",
+    "options": [
+      "(A) மற்றும் (R) இரண்டும் சரி மேலும் (R) ஆனது கூற்றிற்கான சரியான விளக்கம் ஆகும்.",
+      "(A) மற்றும் (R) இரண்டும் சரி ஆனால் (R) ஆனது கூற்றிற்கான சரியான விளக்கம் அல்ல.",
+      "(A) சரி, (R) தவறு.",
+      "(A) மற்றும் (R) இரண்டும் தவறு."
+    ],
+    "correct": 0,
+    "explanation": "125-ஐ 3 ஆல் வகுத்தால் மீதி 2. $125^2$-ஐ 3 ஆல் வகுக்க $2^2 = 4 \\equiv 1$ (மீதி 1). இது காரணம் (R)-ன் அடிப்படையில் உண்மையாகிறது. எனவே இரண்டும் சரி, சரியான விளக்கமும் கூட.",
+    "question_en": "Assertion (A): The square of 125 leaves a remainder of 1 when divided by 3. \nReason (R): The remainder obtained when a perfect square is divided by 3 is either zero or 1.",
+    "options_en": [
+      "Both (A) and (R) are true and (R) is the correct explanation for (A).",
+      "Both (A) and (R) are true but (R) is not the correct explanation for (A).",
+      "(A) is true, (R) is false.",
+      "Both (A) and (R) are false."
+    ],
+    "explanation_en": "When 125 is divided by 3, the remainder is 2. When $125^2$ is divided by 3, $2^2 = 4 \\equiv 1$ (remainder 1). This is true based on Reason (R). Therefore, both are true and (R) is also the correct explanation."
+  },
+  {
+    "id": 110,
+    "question": "ஒரு முக்கோணத்தின் இரண்டு பக்கங்கள் 4 செ.மீ மற்றும் 5 செ.மீ எனில், பின்வருவனவற்றுள் எது அம்முக்கோணத்தின் மூன்றாவது பக்கமாக அமையும்?",
+    "options": [
+      "3 செ.மீ",
+      "1 செ.மீ",
+      "11 செ.மீ",
+      "9 செ.மீ"
+    ],
+    "correct": 0,
+    "explanation": "முக்கோணத்தின் விதி: இரண்டு பக்கங்களின் வித்தியாசம் < மூன்றாவது பக்கம் < இரண்டு பக்கங்களின் கூடுதல். \n$5-4 < x < 5+4 \\Rightarrow 1 < x < 9$. \nஎனவே 1 மற்றும் 9-க்கு இடையில் உள்ள 3 செ.மீ மட்டுமே சாத்தியம்.",
+    "question_en": "If two sides of a triangle are 4 cm and 5 cm, which of the following can be the third side of the triangle?",
+    "options_en": [
+      "3 cm",
+      "1 cm",
+      "11 cm",
+      "9 cm"
+    ],
+    "explanation_en": "Triangle inequality theorem: Difference of two sides < third side < Sum of two sides. \n$5-4 < x < 5+4 \\Rightarrow 1 < x < 9$. \nTherefore, only 3 cm, which is between 1 and 9, is possible."
+  },
+  {
+    "id": 111,
+    "question": "பொருத்துக (மின்சுற்றுக் கூறுகள்):",
+    "image": "image/mat_2026/q111.PNG",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+    ],
+    "correct": 1,
+    "explanation": "பொதுவான மின்சுற்றுக் குறியீடுகளின் அடிப்படையில் சரியான இணைகளை பொருத்துதல்.",
+    "question_en": "Match the following (Circuit components): \n(a) Switch (b) Cell (c) Battery (d) Bulb",
+    "options_en": [
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+    ],
+    "explanation_en": "Matching the correct pairs based on common electrical circuit symbols."
+  },
+  {
+    "id": 112,
+    "question": "பொருந்தாததை கண்டுபிடி:",
+    "options": [
+      "மின் விளக்கு",
+      "மின்சார மணி",
+      "வெந்நீர் கொதிகலன்",
+      "மின் சலவைப் பெட்டி"
+    ],
+    "correct": 1,
+    "explanation": "மின் விளக்கு, கொதிகலன் (Geyser), சலவைப்பெட்டி (Iron Box) மூன்றும் மின்னோட்டத்தின் வெப்ப விளைவால் செயல்படுகின்றன. மின்சார மணி காந்த விளைவால் செயல்படுகிறது.",
+    "question_en": "Find the odd one out:",
+    "options_en": [
+      "Electric lamp",
+      "Electric bell",
+      "Water heater",
+      "Electric iron"
+    ],
+    "explanation_en": "Electric lamp, water heater (Geyser), and electric iron (Iron Box) all work based on the heating effect of electric current. The electric bell works based on the magnetic effect."
+  },
+  {
+    "id": 113,
+    "question": "தவறான கூற்றுகளை கண்டுபிடிக்கவும்: \n(i) பெரும்பாலான அலோகங்கள் நற்கடத்திகள் அல்ல. \n(ii) கட்டுறா எலக்ட்ரான்களை பெறாத பொருள்கள் நற்கடத்திகள் அல்ல. \n(iii) மின்னோட்டம் நேர்முனையிலிருந்து எதிர்முனைக்குச் செல்லும். \n(iv) மரபு மின்னோட்டம் எதிர்முனையிலிருந்து நேர்முனைக்குச் செல்லும்.",
+    "options": [
+      "(i) மற்றும் (ii)",
+      "(ii) மற்றும் (iii)",
+      "(iii) மற்றும் (iv)",
+      "(iv) மற்றும் (i)"
+    ],
+    "correct": 2,
+    "explanation": "மரபு மின்னோட்டம் (Conventional Current) நேர்முனையிலிருந்து (+) எதிர்முனைக்கு (-) செல்லும். ஆனால் (iv)-ல் தவறாகக் கொடுக்கப்பட்டுள்ளது. எனவே (iii) மற்றும் (iv) தவறான கூற்றுகள்.",
+    "question_en": "Find the incorrect statements: \n(i) Most non-metals are not good conductors. \n(ii) Substances that do not have free electrons are not good conductors. \n(iii) Current flows from the positive terminal to the negative terminal. \n(iv) Conventional current flows from the negative terminal to the positive terminal.",
+    "options_en": [
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "(iii) and (iv)",
+      "(iv) and (i)"
+    ],
+    "explanation_en": "Conventional current flows from the positive terminal (+) to the negative terminal (-). However, (iv) is given incorrectly. Therefore, (iii) and (iv) are incorrect statements."
+  },
+  {
+    "id": 114,
+    "question": "ஒரு கம்பியின் வழியே 60 கூலூம் மின்னூட்டமானது 2 நிமிடத்திற்கு பாய்ந்தால் கடத்தி வழியே செல்லும் மின்னோட்டத்தின் அளவு யாது?",
+    "options": [
+      "0.5 ஆம்பியர்",
+      "0.1 ஆம்பியர்",
+      "0.25 ஆம்பியர்",
+      "120 ஆம்பியர்"
+    ],
+    "correct": 0,
+    "explanation": "மின்னோட்டம் $I = \\frac{Q}{t}$. \n$Q = 60$ கூலூம், $t = 2 \\times 60 = 120$ வினாடிகள். \n$I = \\frac{60}{120} = 0.5$ ஆம்பியர்.",
+    "question_en": "If 60 Coulombs of charge flows through a wire for 2 minutes, what is the amount of current flowing through the conductor?",
+    "options_en": [
+      "0.5 Ampere",
+      "0.1 Ampere",
+      "0.25 Ampere",
+      "120 Ampere"
+    ],
+    "explanation_en": "Current $I = \\frac{Q}{t}$. \n$Q = 60$ Coulombs, $t = 2 \\times 60 = 120$ seconds. \n$I = \\frac{60}{120} = 0.5$ Ampere."
+  },
+  {
+    "id": 115,
+    "question": "$1 \\times 10^{-6}$ A என்பது",
+    "options": [
+      "மில்லி ஆம்பியர்",
+      "மோனோ ஆம்பியர்",
+      "மைக்ரோ ஆம்பியர்",
+      "நானோ ஆம்பியர்"
+    ],
+    "correct": 2,
+    "explanation": "$10^{-3}$ என்பது மில்லி, $10^{-6}$ என்பது மைக்ரோ, $10^{-9}$ என்பது நானோ. எனவே இது மைக்ரோ ஆம்பியர்.",
+    "question_en": "$1 \\times 10^{-6}$ A is",
+    "options_en": [
+      "Milliampere",
+      "Monoampere",
+      "Microampere",
+      "Nanoampere"
+    ],
+    "explanation_en": "$10^{-3}$ is milli, $10^{-6}$ is micro, $10^{-9}$ is nano. Therefore, this is microampere."
+  },
+  {
+    "id": 116,
+    "question": "பொருந்தாத இணையைத் தேர்ந்தெடுக்கவும்: \n(i) முதன்மை மின்கலன் - நிக்கல்-இரும்பு சேமக்கலன் \n(ii) துணை மின்கலன் - டேனியல் மின்கலன் \n(iii) டார்ச் விளக்கு - உலர் மின்கலன் \n(iv) மீளா வினை - வோல்டா மின்கலன்",
+    "options": [
+      "(ii) மற்றும் (iii)",
+      "(i) மற்றும் (ii)",
+      "(i) மற்றும் (iv)",
+      "(i) மற்றும் (iii)"
+    ],
+    "correct": 1,
+    "explanation": "நிக்கல்-இரும்பு என்பது துணை மின்கலன் (Secondary Cell). டேனியல் மின்கலன் என்பது முதன்மை மின்கலன் (Primary Cell). எனவே (i) மற்றும் (ii) தவறான இணைகள்.",
+    "question_en": "Choose the mismatched pair: \n(i) Primary cell - Nickel-iron accumulator \n(ii) Secondary cell - Daniell cell \n(iii) Torch light - Dry cell \n(iv) Irreversible reaction - Voltaic cell",
+    "options_en": [
+      "(ii) and (iii)",
+      "(i) and (ii)",
+      "(i) and (iv)",
+      "(i) and (iii)"
+    ],
+    "explanation_en": "Nickel-iron is a secondary cell. Daniell cell is a primary cell. Therefore, (i) and (ii) are mismatched pairs."
+  },
+  {
+    "id": 117,
+    "question": "ஓய்வு நிலையில் உள்ள மகிழுந்தானது 3 விநாடிகளில் 15 மீ/வி வேகத்தினை அடைகிறது எனில், அதன் முடுக்கத்தினைக் கணக்கிடுக.",
+    "options": [
+      "$45~m/s^2$",
+      "$5~m/s^2$",
+      "$4.5~m/s^2$",
+      "$0.2~m/s^2$"
+    ],
+    "correct": 1,
+    "explanation": "முடுக்கம் $a = \\frac{v - u}{t} = \\frac{15 - 0}{3} = 5~m/s^2$.",
+    "question_en": "If a car at rest attains a speed of 15 m/s in 3 seconds, calculate its acceleration.",
+    "options_en": [
+      "$45~m/s^2$",
+      "$5~m/s^2$",
+      "$4.5~m/s^2$",
+      "$0.2~m/s^2$"
+    ],
+    "explanation_en": "Acceleration $a = \\frac{v - u}{t} = \\frac{15 - 0}{3} = 5~m/s^2$."
+  },
+  {
+    "id": 118,
+    "question": "ஒரு பொருளின் அடிப்பரப்பினை அதிகரிக்கும் போது எது அதிகரிக்கிறது?",
+    "options": [
+      "ஈர்ப்பு மையம்",
+      "சமநிலை",
+      "உறுதியற்ற சமநிலை",
+      "நடுநிலைச் சமநிலை"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு பொருளின் அடிப்பரப்பு (Base Area) எவ்வளவு அகலமாக இருக்கிறதோ, அந்தப் பொருளின் சமநிலை (Stability) அவ்வளவு அதிகமாக இருக்கும்.",
+    "question_en": "When the base area of an object is increased, what increases?",
+    "options_en": [
+      "Center of gravity",
+      "Stability",
+      "Unstable equilibrium",
+      "Neutral equilibrium"
+    ],
+    "explanation_en": "The wider the base area of an object, the greater its stability."
+  },
+  {
+    "id": 119,
+    "question": "எரியும் மெழுகுவர்த்தி வெளியிடும் ஒளியின் அளவு தோராயமாக _______-க்கு சமமாகும்.",
+    "options": [
+      "ஒரு ரேடியன்",
+      "ஒரு லுமென்",
+      "ஒரு கேண்டிலா",
+      "ஒரு ஸ்ட்ரேடியன்"
+    ],
+    "correct": 2,
+    "explanation": "ஒளிச்செறிவின் (Luminous Intensity) SI அலகு கேண்டிலா (Candela). ஒரு சாதாரண மெழுகுவர்த்தி வெளியிடும் ஒளியின் அளவு தோராயமாக 1 கேண்டிலாவுக்குச் சமம்.",
+    "question_en": "The amount of light emitted by a burning candle is approximately equal to _______.",
+    "options_en": [
+      "one radian",
+      "one lumen",
+      "one candela",
+      "one steradian"
+    ],
+    "explanation_en": "The SI unit of Luminous Intensity is Candela. The amount of light emitted by a normal candle is approximately equal to 1 candela."
+  },
+  {
+    "id": 120,
+    "question": "பொருத்துக (பொருட்கள் $\\rightarrow$ ஒளிவிலகல் எண்): \n(a) காற்று (b) நீர் (c) சாதாரணக் கண்ணாடி (d) வைரம்",
+    "options": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    ],
+    "correct": 1,
+    "explanation": "காற்று - 1.0 (iii), நீர் - 1.33 (i), கண்ணாடி - 1.5 (iv), வைரம் - 2.41 (ii).",
+    "question_en": "Match the following (Materials $\\rightarrow$ Refractive index): \n(a) Air (b) Water (c) Ordinary glass (d) Diamond",
+    "options_en": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    ],
+    "explanation_en": "Air - 1.0 (iii), Water - 1.33 (i), Glass - 1.5 (iv), Diamond - 2.41 (ii)."
+  },
+  {
+    "id": 121,
+    "question": "பொருளொன்றில் மின் துகள்கள் இருப்பதைக் கண்டறியப் பயன்படும் அறிவியல் கருவி:",
+    "options": [
+      "தொலைநோக்கி",
+      "கலைடாஸ்கோப்",
+      "நிலைமின்காட்டி",
+      "பெரிஸ்கோப்"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு பொருளில் மின்துகள்கள் (Electric charge) உள்ளதா என அறிய நிலைமின்காட்டி (Electroscope) பயன்படுகிறது.",
+    "question_en": "The scientific instrument used to detect the presence of electric charges in an object:",
+    "options_en": [
+      "Telescope",
+      "Kaleidoscope",
+      "Electroscope",
+      "Periscope"
+    ],
+    "explanation_en": "An electroscope is used to detect if an object has electric charges."
+  },
+  {
+    "id": 122,
+    "question": "இணைதிறன் அடிப்படையில் ஏறுவரிசைப்படுத்துக: \nஅம்மோனியா (N), மீத்தேன் (C), ஹைட்ரஜன் (H), கால்சியம் (Ca)",
+    "options": [
+      "ஹைட்ரஜன், கால்சியம், அம்மோனியா, மீத்தேன்",
+      "மீத்தேன், ஹைட்ரஜன், அம்மோனியா, கால்சியம்",
+      "கால்சியம், அம்மோனியா, ஹைட்ரஜன், மீத்தேன்",
+      "அம்மோனியா, மீத்தேன், கால்சியம், ஹைட்ரஜன்"
+    ],
+    "correct": 0,
+    "explanation": "இணைதிறன்கள்: ஹைட்ரஜன் - 1, கால்சியம் - 2, நைட்ரஜன் (அம்மோனியா) - 3, கார்பன் (மீத்தேன்) - 4. \nஎனவே வரிசை: ஹைட்ரஜன் < கால்சியம் < அம்மோனியா < மீத்தேன்.",
+    "question_en": "Arrange in ascending order based on valency: \nAmmonia (N), Methane (C), Hydrogen (H), Calcium (Ca)",
+    "options_en": [
+      "Hydrogen, Calcium, Ammonia, Methane",
+      "Methane, Hydrogen, Ammonia, Calcium",
+      "Calcium, Ammonia, Hydrogen, Methane",
+      "Ammonia, Methane, Calcium, Hydrogen"
+    ],
+    "explanation_en": "Valencies: Hydrogen - 1, Calcium - 2, Nitrogen (Ammonia) - 3, Carbon (Methane) - 4. \nTherefore, the order is: Hydrogen < Calcium < Ammonia < Methane."
+  },
+  {
+    "id": 123,
+    "question": "பொருத்துக: \n(a) தகடாக அடிக்கலாம் - (i) சோடியம் \n(b) மென்மையான உலோகம் - (ii) தங்கம் \n(c) உலோகப் போலி - (iii) குளோரின் \n(d) வாயு நிலை அலோகம் - (iv) ஆர்சனிக்",
+    "options": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "correct": 2,
+    "explanation": "தகடாக அடிக்கலாம் - தங்கம் (ii). மென்மையான உலோகம் - சோடியம் (i) (கத்தியால் நறுக்கலாம்). உலோகப் போலி - ஆர்சனிக் (iv). வாயு அலோகம் - குளோரின் (iii).",
+    "question_en": "Match the following: \n(a) Can be hammered into sheets - (i) Sodium \n(b) Soft metal - (ii) Gold \n(c) Metalloid - (iii) Chlorine \n(d) Gaseous non-metal - (iv) Arsenic",
+    "options_en": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "explanation_en": "Can be hammered into sheets - Gold (ii). Soft metal - Sodium (i) (can be cut with a knife). Metalloid - Arsenic (iv). Gaseous non-metal - Chlorine (iii)."
+  },
+  {
+    "id": 124,
+    "question": "கூற்று: ஆவியாதல் என்ற நுட்பத்தினைப் பயன்படுத்தி கரைந்த நிலையில் உள்ள திண்மங்களை அதன் திண்மம்-திரவம் கலவையில் இருந்து பிரித்தெடுக்க முடியும். \nகாரணம்: ஒரு கரைசலில் உள்ள கரைப்பான் எந்த வெப்ப நிலையிலும் அதிலுள்ள திண்மத்தை விட்டு ஆவியாகி வெளியேறும்.",
+    "options": [
+      "கூற்று, காரணம் இரண்டும் சரி.",
+      "கூற்று, காரணம் இரண்டும் தவறு.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று தவறு, காரணம் சரி."
+    ],
+    "correct": 0,
+    "explanation": "உப்பு நீர் போன்ற கலவைகளில் நீரை (கரைப்பான்) ஆவியாக்குவதன் மூலம் உப்பை (திண்மம்) பிரிக்கலாம். ஆவியாதல் எல்லா வெப்பநிலையிலும் நடக்கும். எனவே கூற்று, காரணம் இரண்டும் சரி.",
+    "question_en": "Assertion: Dissolved solids can be separated from their solid-liquid mixture using the technique of evaporation. \nReason: The solvent in a solution evaporates from the solid at any temperature.",
+    "options_en": [
+      "Both assertion and reason are correct.",
+      "Both assertion and reason are incorrect.",
+      "Assertion is correct, reason is incorrect.",
+      "Assertion is incorrect, reason is correct."
+    ],
+    "explanation_en": "In mixtures like salt water, salt (solid) can be separated by evaporating water (solvent). Evaporation occurs at all temperatures. Therefore, both assertion and reason are correct."
+  },
+  {
+    "id": 125,
+    "question": "அமில நீக்கிகளை கண்டறிக.",
+    "options": [
+      "சோடியம் குளோரைடு",
+      "சோடியம் அலுமினேட்",
+      "சோடியம் பை கார்பனேட்",
+      "சோடியம் ஆக்சைடு"
+    ],
+    "correct": 2,
+    "explanation": "சோடியம் பைகார்பனேட் (சமையல் சோடா) ஒரு காரத்தன்மை கொண்டது. இது வயிற்றில் ஏற்படும் அதிகப்படியான அமிலத்தன்மையை நடுநிலையாக்க அமில நீக்கியாகப் (Antacid) பயன்படுகிறது.",
+    "question_en": "Identify the antacids.",
+    "options_en": [
+      "Sodium chloride",
+      "Sodium aluminate",
+      "Sodium bicarbonate",
+      "Sodium oxide"
+    ],
+    "explanation_en": "Sodium bicarbonate (baking soda) is alkaline. It is used as an antacid to neutralize excessive acidity in the stomach."
+  },
+  {
+    "id": 126,
+    "question": "நொதித்தலின் போது வெளியிடப்படும் வாயு:",
+    "options": [
+      "கார்பன்-டை-ஆக்ஸைடு",
+      "ஹைட்ரஜன்",
+      "ஆக்ஸிஜன்",
+      "கார்பன் மோனாக்ஸைடு"
+    ],
+    "correct": 0,
+    "explanation": "நொதித்தல் (Fermentation) என்பது காற்றில்லா சுவாசமாகும். இதில் சர்க்கரை சிதைந்து ஆல்கஹால் மற்றும் கார்பன்-டை-ஆக்ஸைடு ($CO_2$) வாயு உருவாகிறது.",
+    "question_en": "The gas released during fermentation:",
+    "options_en": [
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon monoxide"
+    ],
+    "explanation_en": "Fermentation is anaerobic respiration. In this process, sugar breaks down to form alcohol and carbon dioxide ($CO_2$) gas."
+  },
+  {
+    "id": 127,
+    "question": "கார்போஹைட்ரேட் பலபடிகளுக்கு எடுத்துக்காட்டுகள்:",
+    "options": [
+      "எத்திலீன்",
+      "புரோபைலீன்",
+      "லிக்னின் (செல்லுலோஸ்)",
+      "மெத்திலீன்"
+    ],
+    "correct": 2,
+    "explanation": "செல்லுலோஸ் (Cellulose) போன்ற தாவரப் பொருட்கள் கார்போஹைட்ரேட் பலபடிகளாகும். ஆவணத்தில் 'லிக்னின்' எனக் குறிப்பிடப்பட்டுள்ளது.",
+    "question_en": "Examples of carbohydrate polymers:",
+    "options_en": [
+      "Ethylene",
+      "Propylene",
+      "Lignin (Cellulose)",
+      "Methylene"
+    ],
+    "explanation_en": "Plant materials like Cellulose are carbohydrate polymers. 'Lignin' is mentioned in the document."
+  },
+  {
+    "id": 128,
+    "question": "காற்றில் மெக்னீசியம் நாடா எரிக்கப்படும் போது உருவாகும் சேர்மம் எது?",
+    "options": [
+      "மெக்னீசியம் கார்பனேட்",
+      "மெக்னீசியம் குளோரைடு",
+      "மெக்னீசியம் ஆக்ஸைடு",
+      "மெக்னீசியம் சல்பேட்"
+    ],
+    "correct": 2,
+    "explanation": "மெக்னீசியம் காற்றில் உள்ள ஆக்ஸிஜனுடன் எரிந்து வெண்மையான சாம்பலான மெக்னீசியம் ஆக்ஸைடை ($MgO$) உருவாக்குகிறது.",
+    "question_en": "What compound is formed when a magnesium ribbon is burned in air?",
+    "options_en": [
+      "Magnesium carbonate",
+      "Magnesium chloride",
+      "Magnesium oxide",
+      "Magnesium sulfate"
+    ],
+    "explanation_en": "Magnesium burns with oxygen in the air to form white ash, magnesium oxide ($MgO$)."
+  },
+  {
+    "id": 129,
+    "question": "தவறான கூற்றை தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "பெட்ரோலிய எண்ணெய் மற்றும் வாயுவிலிருந்து பெறப்படும் செயற்கை இழையே பிளாஸ்டிக்",
+      "பாலிகாட் என்பது பாலியெஸ்டரும் பருத்தியும் சேர்ந்த கலவை",
+      "பாலிவுல் என்பது பாலியெஸ்டரும் கம்பளியும் சேர்ந்த கலவை",
+      "தீயிலேற்றும் பொழுது செயற்கை இழைகள் உருகுகின்றன"
+    ],
+    "correct": 0,
+    "explanation": "பிளாஸ்டிக் என்பது ஒரு பலபடிப் பொருள் (Polymer), அது இழை (Fibre) அல்ல. செயற்கை இழைகள் என்பவை நைலான், பாலியெஸ்டர் போன்றவை ஆகும்.",
+    "question_en": "Choose the incorrect statement:",
+    "options_en": [
+      "Plastic is a synthetic fiber derived from petroleum oil and gas",
+      "Polycot is a mixture of polyester and cotton",
+      "Polywool is a mixture of polyester and wool",
+      "Synthetic fibers melt when heated"
+    ],
+    "explanation_en": "Plastic is a polymer, not a fiber. Synthetic fibers include nylon, polyester, etc."
+  },
+  {
+    "id": 130,
+    "question": "பச்சைக் காய்கறிகள் மற்றும் உணவுப் பொருள்கள் சமைக்கப்படும் நிகழ்வு கீழ்க்காணும் எவ்வகை வினையைச் சார்ந்தது?",
+    "options": [
+      "மின்னாற் பகுத்தல்",
+      "வெப்பச் சிதைவு",
+      "ஒளி வேதி வினைகள்",
+      "வினைவேக மாற்றி வினைகள்"
+    ],
+    "correct": 1,
+    "explanation": "சமைக்கும் போது வெப்பத்தின் உதவியால் உணவில் உள்ள கடினமான மூலக்கூறுகள் உடைந்து மென்மையாகின்றன. இது வெப்பச் சிதைவு (Thermolysis) வினையாகும்.",
+    "question_en": "The process of cooking green vegetables and food items belongs to which type of reaction?",
+    "options_en": [
+      "Electrolysis",
+      "Thermal decomposition",
+      "Photochemical reactions",
+      "Catalytic reactions"
+    ],
+    "explanation_en": "During cooking, hard molecules in food break down and soften with the help of heat. This is a thermolysis (thermal decomposition) reaction."
+  },
+  {
+    "id": 131,
+    "question": "அணுவின் எந்தெந்த அடிப்படைத் துகள்கள் $1.6 \\times 10^{-24}$ கிராம் என்ற நிறையைக் கொண்டுள்ளன?",
+    "options": [
+      "புரோட்டான் மற்றும் எலக்ட்ரான்",
+      "எலக்ட்ரான் மற்றும் நியூட்ரான்",
+      "புரோட்டான் மற்றும் நியூட்ரான்",
+      "புரோட்டான் மற்றும் பாசிட்ரான்"
+    ],
+    "correct": 2,
+    "explanation": "புரோட்டான் மற்றும் நியூட்ரான் ஆகிய இரண்டு துகள்களுமே ஏறத்தாழ சமமான நிறையைக் கொண்டுள்ளன (சுமார் $1.67 \\times 10^{-24}$ கிராம்).",
+    "question_en": "Which fundamental particles of an atom have a mass of $1.6 \\times 10^{-24}$ grams?",
+    "options_en": [
+      "Proton and electron",
+      "Electron and neutron",
+      "Proton and neutron",
+      "Proton and positron"
+    ],
+    "explanation_en": "Both protons and neutrons have approximately equal mass (about $1.67 \\times 10^{-24}$ grams)."
+  },
+  {
+    "id": 132,
+    "question": "$2000^{\\circ}C$ வெப்பநிலையில், எத்தனை சதவீதம் நீரானது சிதைவடைந்து ஹைட்ரஜன் மற்றும் ஆக்சிஜன் வாயுக்களைத் தருகிறது?",
+    "options": [
+      "0.02",
+      "0.2",
+      "2",
+      "0.1"
+    ],
+    "correct": 0,
+    "explanation": "மிக அதிக வெப்பநிலையான $2000^{\\circ}C$-ல் நீரின் ஒரு சிறுபகுதி மட்டுமே சிதைவடைகிறது. அது சுமார் 0.02% ஆகும்.",
+    "question_en": "At a temperature of $2000^{\\circ}C$, what percentage of water decomposes to yield hydrogen and oxygen gases?",
+    "options_en": [
+      "0.02",
+      "0.2",
+      "2",
+      "0.1"
+    ],
+    "explanation_en": "At a very high temperature of $2000^{\\circ}C$, only a small fraction of water decomposes. It is approximately 0.02%."
+  },
+  {
+    "id": 133,
+    "question": "பொருந்தாததை தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "கடத்தும் திசு",
+      "புறத்தோல் திசு",
+      "அடிப்படைத் திசுக்கள்",
+      "இணைப்புத் திசு"
+    ],
+    "correct": 3,
+    "explanation": "முதல் மூன்றும் தாவரத் திசுக்கள் (Plant Tissues). இணைப்புத் திசு (Connective Tissue) என்பது விலங்குகளின் உடலில் காணப்படும் திசுவாகும்.",
+    "question_en": "Choose the odd one out:",
+    "options_en": [
+      "Conducting tissue",
+      "Epidermal tissue",
+      "Ground tissues",
+      "Connective tissue"
+    ],
+    "explanation_en": "The first three are plant tissues. Connective tissue is found in animal bodies."
+  },
+  {
+    "id": 134,
+    "question": "எந்த சிறிய துவாரத்தின் மூலம் ஒவ்வொரு செல்லும் அதன் அருகில் உள்ள செல்களுடன் இணைத்துக் கொள்கிறது?",
+    "options": [
+      "நெமடோடா",
+      "பிளாஸ்மோடெஸ்மாட்டா",
+      "எக்கைனோடெர்மேட்டா",
+      "சைடோசால்"
+    ],
+    "correct": 1,
+    "explanation": "தாவர செல்களுக்கு இடையே பொருட்கள் பரிமாற்றம் நடைபெற செல் சுவரில் உள்ள நுண்ணிய இணைப்புக் குழாய்கள் பிளாஸ்மோடெஸ்மாட்டா (Plasmodesmata) எனப்படுகின்றன.",
+    "question_en": "Through which small pore does each cell connect with its adjacent cells?",
+    "options_en": [
+      "Nematoda",
+      "Plasmodesmata",
+      "Echinodermata",
+      "Cytosol"
+    ],
+    "explanation_en": "The minute connecting channels in the cell wall that facilitate the exchange of substances between plant cells are called Plasmodesmata."
+  },
+  {
+    "id": 135,
+    "question": "கூற்று: குளோரியோசா சூப்பர்பா தாவர இலையின் நுனி பற்றுக் கம்பியாக மாறியுள்ளது. \nகாரணம்: ஏறு கொடிகளில் இலையின் பாகங்கள் பற்றுக் கம்பிகளாக மாறியுள்ளன.",
+    "options": [
+      "கூற்று, காரணம் இரண்டும் சரி",
+      "கூற்று, காரணம் இரண்டும் தவறு",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி"
+    ],
+    "correct": 0,
+    "explanation": "ஏறு கொடிகளான குளோரியோசா (செங்காந்தள்) போன்றவற்றில் இலை நுனிகள் பற்றி ஏறுவதற்கு வசதியாகப் பற்றுக்கம்பிகளாக (Tendrils) உருமாறியுள்ளன.",
+    "question_en": "Assertion: The leaf apex of Gloriosa superba plant has transformed into a tendril. \nReason: In climbing plants, parts of the leaf have transformed into tendrils.",
+    "options_en": [
+      "Both assertion and reason are correct",
+      "Both assertion and reason are incorrect",
+      "Assertion is correct, reason is incorrect",
+      "Assertion is incorrect, reason is correct"
+    ],
+    "explanation_en": "In climbing plants like Gloriosa (Flame Lily), leaf apices have transformed into tendrils for climbing."
+  },
+  {
+    "id": 136,
+    "question": "பொருத்துக: \n(a) சேமிப்பு வேர்கள் - (i) அவிசினியா \n(b) தூண் வேர்கள் - (ii) கஸ்குட்டா \n(c) சுவாச வேர்கள் - (iii) டர்னிப் \n(d) உறிஞ்சு வேர்கள் - (iv) ஆலமரம்",
+    "options": [
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "correct": 1,
+    "explanation": "சேமிப்பு வேர் - டர்னிப் (iii). தூண் வேர் - ஆலமரம் (iv). சுவாச வேர் - சதுப்புநிலத் தாவரமான அவிசினியா (i). உறிஞ்சு (ஒட்டுண்ணி) வேர் - கஸ்குட்டா (ii).",
+    "question_en": "Match the following: \n(a) Storage roots - (i) Avicennia \n(b) Prop roots - (ii) Cuscuta \n(c) Respiratory roots - (iii) Turnip \n(d) Sucking roots - (iv) Banyan tree",
+    "options_en": [
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "explanation_en": "Storage root - Turnip (iii). Prop root - Banyan tree (iv). Respiratory root - Avicennia, a mangrove plant (i). Sucking (parasitic) root - Cuscuta (ii)."
+  },
+  {
+    "id": 137,
+    "question": "மகரந்தச் சேர்க்கை அடிப்படையில் பொருந்தாததைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "ஆப்பிள்",
+      "பூசணி",
+      "தக்காளி",
+      "பிளம்ஸ்"
+    ],
+    "correct": 2,
+    "explanation": "தக்காளி (Tomato) தன்-மகரந்தச் சேர்க்கை (Self-pollination) நடைபெறும் தாவரமாகும். மற்றவை பூச்சிகள் மூலம் அயல் மகரந்தச் சேர்க்கை நடைபெறும் தாவரங்கள்.",
+    "question_en": "Choose the odd one out based on pollination:",
+    "options_en": [
+      "Apple",
+      "Pumpkin",
+      "Tomato",
+      "Plums"
+    ],
+    "explanation_en": "Tomato undergoes self-pollination. The others are cross-pollinated by insects."
+  },
+  {
+    "id": 138,
+    "question": "விண்வெளிப் பயணத்தின் போது கார்பன்-டை-ஆக்ஸைடை அகற்றுவதற்கும் மனிதக் கழிவுகளை மட்கச் செய்வதற்கும் பயன்படும் பாசி:",
+    "options": [
+      "குளோரெல்லா ஃபைரினாய்டோசா",
+      "அன்பீனா",
+      "லேமினேரியா",
+      "ஜெலீடியம்"
+    ],
+    "correct": 0,
+    "explanation": "குளோரெல்லா (Chlorella) ஒரு செல் பாசியாகும். விண்வெளிப் பயணங்களில் ஆக்ஸிஜனை உற்பத்தி செய்யவும் கழிவுகளை அகற்றவும் இது பயன்படுகிறது.",
+    "question_en": "The algae used for removing carbon dioxide and decomposing human waste during space travel:",
+    "options_en": [
+      "Chlorella pyrenoidosa",
+      "Anabaena",
+      "Laminaria",
+      "Gelidium"
+    ],
+    "explanation_en": "Chlorella is a unicellular alga. It is used in space travel to produce oxygen and remove waste."
+  },
+  {
+    "id": 139,
+    "question": "விதைத் தாவரங்களின் சரியான வரிசையைத் தேர்ந்தெடு:",
+    "options": [
+      "தலாமிஃபுளோரே -> பாலிபெட்டலே -> டைகாட்டிலிடனே",
+      "டைகாட்டிலிடனே -> பாலிபெட்டலே -> தலாமிஃபுளோரே",
+      "பாலிபெட்டலே -> டைகாட்டிலிடனே -> தலாமிஃபுளோரே",
+      "பாலிபெட்டலே -> தலாமிஃபுளோரே -> டைகாட்டிலிடனே"
+    ],
+    "correct": 1,
+    "explanation": "பெந்தம் மற்றும் ஹுக்கர் வகைப்பாட்டின்படி சரியான வரிசை: வகுப்பு (டைகாட்டிலிடனே) -> துணை வகுப்பு (பாலிபெட்டலே) -> வரிசை (தலாமிஃபுளோரே).",
+    "question_en": "Choose the correct sequence for seed plants:",
+    "options_en": [
+      "Thalamiflorae -> Polypetalae -> Dicotyledonae",
+      "Dicotyledonae -> Polypetalae -> Thalamiflorae",
+      "Polypetalae -> Dicotyledonae -> Thalamiflorae",
+      "Polypetalae -> Thalamiflorae -> Dicotyledonae"
+    ],
+    "explanation_en": "According to Bentham and Hooker's classification, the correct sequence is: Class (Dicotyledonae) -> Subclass (Polypetalae) -> Series (Thalamiflorae)."
+  },
+  {
+    "id": 140,
+    "question": "பொருத்துக: \n(a) ஈரடுக்கு உயிரிகள் - (i) மண்புழு \n(b) மூவடுக்கு உயிரிகள் - (ii) பிளானேரியா \n(c) நீர்க்குழல் மண்டலம் - (iii) ஹைட்ரா \n(d) உடற்குழி அற்றவை - (iv) நட்சத்திர மீன்",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    ],
+    "correct": 3,
+    "explanation": "ஹைட்ரா ஈரடுக்கு உயிரி (iii). மண்புழு மூவடுக்கு உயிரி (i). நட்சத்திர மீனில் நீர்க்குழல் மண்டலம் உள்ளது (iv). பிளானேரியா உடற்குழியற்றவை (ii).",
+    "question_en": "Match the following: \n(a) Diploblastic organisms - (i) Earthworm \n(b) Triploblastic organisms - (ii) Planaria \n(c) Water vascular system - (iii) Hydra \n(d) Acoelomates - (iv) Starfish",
+    "options_en": [
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    ],
+    "explanation_en": "Hydra is a diploblastic organism (iii). Earthworm is a triploblastic organism (i). Starfish has a water vascular system (iv). Planaria are acoelomates (ii)."
+  },
+  {
+    "id": 141,
+    "question": "ஹைட்ரோபோபியா என்பது:",
+    "options": [
+      "நீரைக் கண்டு பயப்படுவது",
+      "ஒலியைக் கண்டு பயப்படுவது",
+      "பசியின்மை",
+      "தோல் தடிப்பு"
+    ],
+    "correct": 0,
+    "explanation": "ரேபிஸ் (Rabies) நோயால் தாக்கப்பட்டவர்களுக்கு நீரைக் கண்டால் தீவிரமான பயம் ஏற்படும். இந்த நிலைக்கே 'ஹைட்ரோபோபியா' (Hydrophobia - Fear of water) என்று பெயர்.",
+    "question_en": "Hydrophobia is:",
+    "options_en": [
+      "Fear of water",
+      "Fear of sound",
+      "Loss of appetite",
+      "Skin rash"
+    ],
+    "explanation_en": "People affected by Rabies experience intense fear when they see water. This condition is called 'Hydrophobia' (Fear of water)."
+  },
+  {
+    "id": 142,
+    "question": "பொருந்தாத இணையினைத் தேர்ந்தெடுக்க:",
+    "options": [
+      "சால்மோனெல்லோசிஸ் - புரோட்டோசோவா",
+      "ராணிக்கெட் நோய் - வைரஸ்",
+      "ஆஸ்பர்ஜில்லஸ் நோய் - பூஞ்சை",
+      "ஆந்த்ராக்ஸ் - பாக்டீரியா"
+    ],
+    "correct": 0,
+    "explanation": "சால்மோனெல்லோசிஸ் (Salmonellosis) என்பது சால்மோனெல்லா என்ற பாக்டீரியாவால் உருவாகும் நோயாகும். இது புரோட்டோசோவா அல்ல.",
+    "question_en": "Choose the mismatched pair:",
+    "options_en": [
+      "Salmonellosis - Protozoa",
+      "Ranikhet disease - Virus",
+      "Aspergillosis - Fungus",
+      "Anthrax - Bacteria"
+    ],
+    "explanation_en": "Salmonellosis is a disease caused by Salmonella bacteria. It is not a protozoan disease."
+  },
+  {
+    "id": 143,
+    "question": "ஒரு முதிர்ந்த பெண் பட்டுப்பூச்சி சுமார் எத்தனை முட்டைகளை இடும்?",
+    "options": [
+      "600",
+      "500",
+      "5000",
+      "6000"
+    ],
+    "correct": 1,
+    "explanation": "பட்டு வளர்ப்பில், ஒரு முதிர்ந்த பெண் பட்டுப்பூச்சியானது தனது ஆயுட்காலத்தில் சுமார் 500 முட்டைகள் வரை இடும்.",
+    "question_en": "Approximately how many eggs does a mature female silkworm lay?",
+    "options_en": [
+      "600",
+      "500",
+      "5000",
+      "6000"
+    ],
+    "explanation_en": "In sericulture, a mature female silkworm lays approximately 500 eggs during its lifetime."
+  },
+  {
+    "id": 144,
+    "question": "மனிதக் கண்ணால் தோராயமாக எத்தனை மில்லியன் நிறங்களை வேறுபடுத்திக் காண இயலும்?",
+    "options": [
+      "12-24",
+      "10-20",
+      "1-10",
+      "10-12"
+    ],
+    "correct": 3,
+    "explanation": "ஆரோக்கியமான மனிதக் கண்ணால் சுமார் 10 முதல் 12 மில்லியன் வகையான வண்ணங்களை (Colours) துல்லியமாக வேறுபடுத்தி அறிய முடியும்.",
+    "question_en": "Approximately how many million colors can the human eye distinguish?",
+    "options_en": [
+      "12-24",
+      "10-20",
+      "1-10",
+      "10-12"
+    ],
+    "explanation_en": "A healthy human eye can accurately distinguish approximately 10 to 12 million types of colors."
+  },
+  {
+    "id": 145,
+    "question": "தவறான இணையைக் கண்டறிக.",
+    "options": [
+      "சுழலச்சு மூட்டு - முள்ளெலும்புச் சுழல் அச்சு முனை மூட்டு",
+      "சேண மூட்டு - கட்டை விரல், தோள்பட்டை",
+      "முண்டணையா மூட்டு - மணிக்கட்டு",
+      "வழுக்கு மூட்டு - முழங்கால் மூட்டு"
+    ],
+    "correct": 3,
+    "explanation": "முழங்கால் மூட்டு (Knee joint) என்பது ஒரு திசையில் மட்டும் மடங்கக்கூடிய கீல் மூட்டுக்கு (Hinge joint) உதாரணமாகும். இது வழுக்கு மூட்டு அல்ல.",
+    "question_en": "Identify the incorrect pair.",
+    "options_en": [
+      "Pivot joint - Atlantoaxial joint",
+      "Saddle joint - Thumb, shoulder",
+      "Gliding joint - Wrist",
+      "Sliding joint - Knee joint"
+    ],
+    "explanation_en": "The knee joint is an example of a hinge joint that can bend in only one direction. It is not a sliding joint."
+  },
+  {
+    "id": 146,
+    "question": "இவற்றில் எது முதன்மைச் சான்று அல்ல?",
+    "options": [
+      "பொறிப்புகள்",
+      "நினைவுச் சின்னங்கள்",
+      "நாணயங்கள்",
+      "இலக்கியங்கள்"
+    ],
+    "correct": 3,
+    "explanation": "கல்வெட்டுகள் (பொறிப்புகள்), நினைவுச் சின்னங்கள், நாணயங்கள் ஆகியவை நேரிடையான முதன்மைச் சான்றுகள் (Primary sources). இலக்கியங்கள், வரலாற்று நூல்கள் போன்றவை இரண்டாம் நிலைச் சான்றுகளாகும்.",
+    "question_en": "Which of these is not a primary source?",
+    "options_en": [
+      "Inscriptions",
+      "Monuments",
+      "Coins",
+      "Literature"
+    ],
+    "explanation_en": "Inscriptions, monuments, and coins are direct primary sources. Literature, historical books, etc., are secondary sources."
+  },
+  {
+    "id": 147,
+    "question": "பாண்டியர்களின் துறைமுகங்களில் மிகவும் விறுவிறுப்பாக வணிகம் நடைபெற்ற துறைமுகம்:",
+    "options": [
+      "காயல்பட்டினம்",
+      "கொற்கை",
+      "காவிரிபூம்பட்டினம்",
+      "உறையூர்"
+    ],
+    "correct": 0,
+    "explanation": "பிற்காலப் பாண்டியர்களின் காலத்தில் தூத்துக்குடி மாவட்டத்தில் உள்ள காயல்பட்டினம் (Kayal) அரேபிய மற்றும் சீனக் கப்பல்களால் மிகவும் பரபரப்பான துறைமுகமாகத் திகழ்ந்தது.",
+    "question_en": "The busiest commercial port among the Pandya ports:",
+    "options_en": [
+      "Kayalpatnam",
+      "Korkai",
+      "Kaveripoompattinam",
+      "Uraiyur"
+    ],
+    "explanation_en": "During the later Pandyas period, Kayalpatnam (Kayal) in Thoothukudi district was a very busy port with Arabian and Chinese ships."
+  },
+  {
+    "id": 148,
+    "question": "பால்பன் பற்றிய கூற்றுகளில் எது தவறானது?",
+    "options": [
+      "ஒற்றர் துறை ஒன்றை நிறுவினார்.",
+      "மங்கோலியரின் தாக்குதல்களிலிருந்து நாட்டைப் பாதுகாக்கப் கோட்டைகளைக் கட்டினார்.",
+      "தலைநகரை டெல்லியில் இருந்து தேவகிரிக்கு மாற்றியமைத்தார்.",
+      "பாரசீக கவிஞரான அமீர்குஸ்ரு என்பவரை ஆதரித்தார்."
+    ],
+    "correct": 2,
+    "explanation": "தலைநகரை டெல்லியிலிருந்து தேவகிரிக்கு (தௌலதாபாத்) மாற்றியவர் முகமது பின் துக்ளக் ஆவார். பால்பன் அல்ல.",
+    "question_en": "Which of the following statements about Balban is incorrect?",
+    "options_en": [
+      "He established a spy department.",
+      "He built forts to protect the country from Mongol attacks.",
+      "He shifted the capital from Delhi to Devagiri.",
+      "He patronized the Persian poet Amir Khusrau."
+    ],
+    "explanation_en": "The one who shifted the capital from Delhi to Devagiri (Daulatabad) was Muhammad bin Tughlaq, not Balban."
+  },
+  {
+    "id": 149,
+    "question": "பொருத்துக: \n(a) தீபவம்சம் - (i) மணிமேகலை \n(b) சீத்தலைச் சாத்தனார் - (ii) நேமிநாதர் \n(c) 22வது தீர்த்தங்கரர் - (iii) பல்லவர் ஆட்சி \n(d) யுவான் சுவாங் - (iv) புத்தர் வரலாறு",
+    "options": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    ],
+    "correct": 3,
+    "explanation": "தீபவம்சம் - புத்தர் வரலாறு (iv). சீத்தலைச் சாத்தனார் - மணிமேகலை (i). 22-வது தீர்த்தங்கரர் - நேமிநாதர் (ii). யுவான் சுவாங் காஞ்சி வருகை - பல்லவர் ஆட்சி (iii).",
+    "question_en": "Match the following: \n(a) Dipavamsa - (i) Manimegalai \n(b) Seethalai Sattanar - (ii) Neminatha \n(c) 22nd Tirthankara - (iii) Pallava rule \n(d) Xuanzang - (iv) History of Buddha",
+    "options_en": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    ],
+    "explanation_en": "Dipavamsa - History of Buddha (iv). Seethalai Sattanar - Manimegalai (i). 22nd Tirthankara - Neminatha (ii). Xuanzang's visit to Kanchi - Pallava rule (iii)."
+  },
+  {
+    "id": 150,
+    "question": "பாண்டிய அரசர்களின் படைத் தளபதிகளின் பட்டங்கள்:",
+    "options": [
+      "மாறன் - எயினன்",
+      "மாறன் - ஆதித்தன்",
+      "சாத்தன் - கணபதி",
+      "மூர்த்தி - எயினன்"
+    ],
+    "correct": 0,
+    "explanation": "பாண்டியப் பேரரசின் ராணுவத் தளபதிகளுக்கு 'மாறன் எயினன்', 'சாத்தன் கணபதி' போன்ற பல்வேறு பட்டங்கள் வழங்கப்பட்டன. வினாத்தாளில் 'மாறன்-எயினன்' என்பது சரியானதாகக் கருதப்படுகிறது.",
+    "question_en": "Titles of the military commanders of the Pandya kings:",
+    "options_en": [
+      "Maran - Eynan",
+      "Maran - Adithan",
+      "Sathan - Ganapathy",
+      "Moorthy - Eynan"
+    ],
+    "explanation_en": "Various titles such as 'Maran Eynan' and 'Sathan Ganapathy' were bestowed upon the military commanders of the Pandya empire. In the question paper, 'Maran-Eynan' is considered correct."
+  },
+  {
+    "id": 151,
+    "question": "சரியான இணையைத் தேர்வு செய்க:",
+    "options": [
+      "மன்சப்தாரி முறை - அக்பர்",
+      "ஜப்தி முறை - ஔரங்கசீப்",
+      "துசுக்-இ-பாபரி - கட்டிடக் கலை",
+      "இரண்டாம் பானிபட் போர் - 1526"
+    ],
+    "correct": 0,
+    "explanation": "முகலாயப் பேரரசர் அக்பரே ராணுவ மற்றும் சிவில் நிர்வாகத்திற்காக 'மன்சப்தாரி முறை'யை (Mansabdari System) அறிமுகப்படுத்தினார்.",
+    "question_en": "Choose the correct pair:",
+    "options_en": [
+      "Mansabdari System - Akbar",
+      "Zabt System - Aurangzeb",
+      "Tuzuk-i-Baburi - Architecture",
+      "Second Battle of Panipat - 1526"
+    ],
+    "explanation_en": "The Mughal emperor Akbar introduced the 'Mansabdari System' for military and civil administration."
+  },
+  {
+    "id": 152,
+    "question": "ஷாகு என்றால் ________ என்று பொருள்.",
+    "options": [
+      "போர் முறை",
+      "நேர்மையானவர்",
+      "வரி முறை",
+      "அஷ்டபிரதான்"
+    ],
+    "correct": 1,
+    "explanation": "மராத்தியப் பேரரசர் சிவாஜியின் பேரனான ஷாகு (Shahu) என்ற பெயருக்கு 'நேர்மையானவர்' (Honest) என்று பொருள்.",
+    "question_en": "Shahu means ________.",
+    "options_en": [
+      "Warfare system",
+      "Honest person",
+      "Tax system",
+      "Ashtapradhan"
+    ],
+    "explanation_en": "The name Shahu, the grandson of the Maratha emperor Shivaji, means 'Honest'."
+  },
+  {
+    "id": 153,
+    "question": "எந்த உயிரினத்தையும் துன்புறுத்தாமலிருப்பது ________ ஆகும்.",
+    "options": [
+      "அசௌர்யா",
+      "சத்யா",
+      "அகிம்சை",
+      "அபரிக்கிரகா"
+    ],
+    "correct": 2,
+    "explanation": "சொல்லாலும், செயலாலும், நினைவாலும் எந்த உயிரினங்களுக்கும் தீங்கு விளைவிக்காத அறவழியே 'அகிம்சை' (Ahimsa) அல்லது இன்னா செய்யாமை ஆகும்.",
+    "question_en": "Not harming any living being is ________.",
+    "options_en": [
+      "Asaurya",
+      "Satya",
+      "Ahimsa",
+      "Aparigraha"
+    ],
+    "explanation_en": "The ethical path of not harming any living being by word, deed, or thought is 'Ahimsa' or non-violence."
+  },
+  {
+    "id": 154,
+    "question": "தவறான இணையைக் கண்டுபிடி:",
+    "options": [
+      "ஜலகண்டேஸ்வரர் கோவில் - வேலூர்",
+      "ஆதிநாதர் கோவில் - தஞ்சாவூர்",
+      "வரதராஜ பெருமாள் கோவில் - காஞ்சிபுரம்",
+      "இராமநாத சுவாமி கோவில் - இராமேஸ்வரம்"
+    ],
+    "correct": 1,
+    "explanation": "சமணத் தீர்த்தங்கரரான ஆதிநாதர் கோவில் போலூரில் (Polur / Thirumalai) அமைந்துள்ளது. தஞ்சாவூரில் உள்ளது பிரகதீஸ்வரர் கோவில். எனவே இது தவறான இணை.",
+    "question_en": "Find the incorrect pair:",
+    "options_en": [
+      "Jalakandeswarar Temple - Vellore",
+      "Adinathar Temple - Thanjavur",
+      "Varadaraja Perumal Temple - Kanchipuram",
+      "Ramanathaswamy Temple - Rameswaram"
+    ],
+    "explanation_en": "The Adinathar Temple, dedicated to the Jain Tirthankara, is located in Polur (Thirumalai). The Brihadeeswarar Temple is in Thanjavur. Therefore, this is an incorrect pair."
+  },
+  {
+    "id": 155,
+    "question": "கல்வி நிலையங்களைப் பராமரிப்பதற்காக வழங்கப்பட்ட நிலங்கள் ________ ஆகும்.",
+    "options": [
+      "சாலபோகம்",
+      "தேவதானம்",
+      "பிரம்மதேயம்",
+      "பள்ளிச் சந்தம்"
+    ],
+    "correct": 0,
+    "explanation": "சோழர் காலத்தில் பாடசாலைகள் (கல்வி நிலையங்கள்) கட்டுவதற்கும் அவற்றைப் பராமரிப்பதற்கும் அரசரால் கொடையாக வழங்கப்பட்ட நிலங்கள் 'சாலபோகம்' (Shalabhoga) எனப்பட்டன.",
+    "question_en": "Lands granted for the maintenance of educational institutions are ________.",
+    "options_en": [
+      "Shalabhoga",
+      "Devadana",
+      "Brahmadeya",
+      "Pallichchandam"
+    ],
+    "explanation_en": "During the Chola period, lands granted by the king for building and maintaining schools (educational institutions) were called 'Shalabhoga'."
+  },
+  {
+    "id": 156,
+    "question": "பின்வரும் நிகழ்வுகளை காலக்கிரமப்படி வரிசைப்படுத்துக: \n(i) ஆம்பூர் போர் \n(ii) பிளாசிப் போர் \n(iii) வந்தவாசிப் போர் \n(iv) பெரும் புரட்சி",
+    "options": [
+      "(i), (ii), (iii), (iv)",
+      "(i), (iv), (iii), (ii)",
+      "(iii), (ii), (i), (iv)",
+      "(iii), (iv), (i), (ii)"
+    ],
+    "correct": 0,
+    "explanation": "ஆம்பூர் போர் - 1749. பிளாசிப் போர் - 1757. வந்தவாசிப் போர் - 1760. 1857 பெரும் புரட்சி. எனவே கொடுக்கப்பட்டுள்ள வரிசையே (i, ii, iii, iv) சரியானது.",
+    "question_en": "Arrange the following events in chronological order: \n(i) Battle of Ambur \n(ii) Battle of Plassey \n(iii) Battle of Wandiwash \n(iv) Great Revolt",
+    "options_en": [
+      "(i), (ii), (iii), (iv)",
+      "(i), (iv), (iii), (ii)",
+      "(iii), (ii), (i), (iv)",
+      "(iii), (iv), (i), (ii)"
+    ],
+    "explanation_en": "Battle of Ambur - 1749. Battle of Plassey - 1757. Battle of Wandiwash - 1760. Great Revolt of 1857. Therefore, the given order (i, ii, iii, iv) is correct."
+  },
+  {
+    "id": 157,
+    "question": "கீழ்க்கண்டவற்றில் எது தவறான கூற்று? \n(i) இந்தியா 1858 வரை ஆங்கில கிழக்கிந்திய கம்பெனி ஆட்சியின் கீழ் இருந்தது. \n(ii) இங்கிலாந்து மன்னர் இரண்டாம் சார்லஸ், திருமண சீதனமாக இலங்கை தீவை போர்ச்சுகீசிய மன்னரிடமிருந்து பெற்றார். \n(iii) ஐரோப்பிய எழுத்தாளர் 1563 இல் கோவாவில் 'இந்திய மருத்துவ தாவரங்கள்' என்ற நூலை அச்சிட்டு வெளியிட்டார். \n(iv) போர்த்துக்கீசிய இளவரசர் 'ஹென்றி' பொதுவாக 'மாலுமி ஹென்றி' என அறியப்படுகிறார்.",
+    "options": [
+      "(ii) மட்டும்",
+      "(i) மற்றும் (ii)",
+      "(ii) மற்றும் (iii)",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 0,
+    "explanation": "இங்கிலாந்து அரசர் இரண்டாம் சார்லஸ் போர்ச்சுகீசிய இளவரசியைத் திருமணம் செய்த போது, சீதனமாகப் பெற்ற பகுதி மும்பை (Bombay) ஆகும், இலங்கை அல்ல. எனவே கூற்று (ii) தவறு.",
+    "question_en": "Which of the following statements is incorrect? \n(i) India was under the rule of the English East India Company until 1858. \n(ii) King Charles II of England received the island of Ceylon as a dowry from the Portuguese king. \n(iii) A European writer published the book 'Indian Medicinal Plants' in Goa in 1563. \n(iv) The Portuguese Prince 'Henry' is commonly known as 'Henry the Navigator'.",
+    "options_en": [
+      "(ii) only",
+      "(i) and (ii)",
+      "(ii) and (iii)",
+      "All of these"
+    ],
+    "explanation_en": "When King Charles II of England married the Portuguese princess, the dowry he received was Bombay, not Ceylon. Therefore, statement (ii) is incorrect."
+  },
+  {
+    "id": 158,
+    "question": "இந்தியாவின் மிகப்பெரும் தேசிய அருங்காட்சியகம் அமைந்துள்ள இடம்:",
+    "options": [
+      "சென்னை",
+      "டெல்லி",
+      "மும்பை",
+      "கல்கத்தா"
+    ],
+    "correct": 1,
+    "explanation": "சுதந்திர இந்தியாவின் மிகப்பெரும் மற்றும் முதன்மையான தேசிய அருங்காட்சியகம் (National Museum) புது டெல்லியில் அமைந்துள்ளது.",
+    "question_en": "The location of India's largest national museum is:",
+    "options_en": [
+      "Chennai",
+      "Delhi",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "explanation_en": "The largest and foremost National Museum of independent India is located in New Delhi."
+  },
+  {
+    "id": 159,
+    "question": "கூற்று: சமூக சீர்திருத்தவாதி ராஜாராம் மோகன் ராயின் முன்முயற்சியால் 'இந்து கல்லூரி' கல்கத்தாவில் நிறுவப்பட்டது. \nகாரணம்: இதன் நோக்கம் ஆங்கில மொழியில் கல்வியை வழங்குவதாகும்.",
+    "options": [
+      "கூற்று சரி, காரணம் கூற்றிற்கான சரியான விளக்கமாகும்.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று, காரணம் இரண்டும் தவறு.",
+      "கூற்று தவறு, காரணம் சரி."
+    ],
+    "correct": 0,
+    "explanation": "டேவிட் ஹேர் (David Hare) என்பவருடன் இணைந்து ராஜாராம் மோகன் ராய் 1817-ல் இந்து கல்லூரியை உருவாக்கினார். இந்தியர்களுக்கு மேற்கத்திய அறிவியல் மற்றும் ஆங்கில கல்வியை வழங்குவதே இதன் முக்கிய நோக்கமாகும்.",
+    "question_en": "Assertion: The 'Hindu College' was established in Kolkata through the initiative of social reformer Raja Ram Mohan Roy. \nReason: Its objective was to provide education in the English language.",
+    "options_en": [
+      "Assertion is correct, and the reason is the correct explanation for the assertion.",
+      "Assertion is correct, but the reason is incorrect.",
+      "Both assertion and reason are incorrect.",
+      "Assertion is incorrect, but the reason is correct."
+    ],
+    "explanation_en": "Raja Ram Mohan Roy, in collaboration with David Hare, established Hindu College in 1817. Its main objective was to provide Western science and English education to Indians."
+  },
+  {
+    "id": 160,
+    "question": "பொருத்துக: \n(a) ஸ்ட்ராம்போலி - (i) பிலிப்பைன்ஸ் \n(b) செயிண்ட் ஹெலன் - (ii) ஹவாய் \n(c) பினாடுபோ - (iii) மத்திய தரைக் கடல் \n(d) மவுனா லோ - (iv) அமெரிக்க ஐக்கிய நாடுகள்",
+    "options": [
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "correct": 3,
+    "explanation": "ஸ்ட்ராம்போலி (மத்திய தரைக்கடலின் கலங்கரை விளக்கம்) - (iii). செயிண்ட் ஹெலன்ஸ் - அமெரிக்கா (iv). பினாடுபோ - பிலிப்பைன்ஸ் (i). மவுனா லோவா - ஹவாய் (ii).",
+    "question_en": "Match the following: \n(a) Stromboli - (i) Philippines \n(b) Mount St. Helens - (ii) Hawaii \n(c) Pinatubo - (iii) Mediterranean Sea \n(d) Mauna Loa - (iv) United States of America",
+    "options_en": [
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "explanation_en": "Stromboli (Lighthouse of the Mediterranean) - (iii). Mount St. Helens - USA (iv). Pinatubo - Philippines (i). Mauna Loa - Hawaii (ii)."
+  },
+  {
+    "id": 161,
+    "question": "சரியான கூற்றை தேர்வு செய்க:",
+    "options": [
+      "ஒரு குறிப்பிட்ட பாதையில் தோன்றும் இடத்திலிருந்து முகத்துவாரம் வரை ஓடுகின்ற நீர் ஆறு என அழைக்கப்படுகிறது.",
+      "ஆறு தன் போக்கில் ஒரு முதன்மை ஆற்றுடன் இணைவது கிளையாறு.",
+      "ஒரு முதன்மை ஆற்றிலிருந்து பிரிந்து செல்வது துணையாறு.",
+      "ஆறு கடலை அடையும்போது, ஆற்று நீரின் வேகம் அதிகரிக்கிறது."
+    ],
+    "correct": 0,
+    "explanation": "ஆறு என்பது உற்பத்தியாகும் இடத்திலிருந்து ஒரு குறிப்பிட்ட பாதையில் கடலை நோக்கிப் பாய்வதாகும். (ஆற்றுடன் இணைவது துணையாறு, பிரிந்து செல்வது கிளையாறு. கடலை அடையும் போது ஆற்று நீரின் வேகம் குறையும்).",
+    "question_en": "Choose the correct statement:",
+    "options_en": [
+      "Water flowing in a specific path from its source to its mouth is called a river.",
+      "A stream joining a main river in its course is a distributary.",
+      "A stream separating from a main river is a tributary.",
+      "When a river reaches the sea, the speed of the river water increases."
+    ],
+    "explanation_en": "A river is water flowing in a specific path from its source towards the sea. (A stream joining a river is a tributary, separating is a distributary. When it reaches the sea, the speed of the river water decreases)."
+  },
+  {
+    "id": 162,
+    "question": "பொருந்தாத இணையைத் தேர்வு செய்க:",
+    "options": [
+      "காக்கசாய்டு - யுரேசியா",
+      "நீக்ராய்டு - வட அமெரிக்கா",
+      "மங்கோலாய்டு - ஆசியா",
+      "ஆஸ்ட்ரலாய்டு - ஆஸ்திரேலியா"
+    ],
+    "correct": 1,
+    "explanation": "நீக்ராய்டு (Negroid) இன மக்கள் முக்கியமாக ஆப்பிரிக்கக் கண்டத்தைப் பூர்வீகமாகக் கொண்டவர்கள். எனவே 'வட அமெரிக்கா' என்பது தவறான இணை.",
+    "question_en": "Choose the mismatched pair:",
+    "options_en": [
+      "Caucasoid - Eurasia",
+      "Negroid - North America",
+      "Mongoloid - Asia",
+      "Australoid - Australia"
+    ],
+    "explanation_en": "Negroid people are primarily indigenous to the African continent. Therefore, 'North America' is an incorrect pair."
+  },
+  {
+    "id": 163,
+    "question": "உலகில் சூரிய ஆற்றலை அதிக அளவில் பயன்படுத்தும் நாடுகள்:",
+    "options": [
+      "இந்தியா, சீனா, ஜப்பான், இத்தாலி",
+      "ஜெர்மனி, ஸ்பெயின், கனடா, பிரேசில்",
+      "ரஷ்யா, நார்வே, இந்தியா, கிரீன்லாந்து",
+      "இந்தியா, அமெரிக்கா, கனடா, இத்தாலி"
+    ],
+    "correct": 0,
+    "explanation": "சூரிய ஆற்றலை மின்சக்தியாக மாற்றுவதில் இந்தியா, சீனா, ஜப்பான் மற்றும் இத்தாலி போன்ற நாடுகள் உலக அளவில் முன்னணியில் உள்ளன.",
+    "question_en": "Countries that use solar energy extensively in the world are:",
+    "options_en": [
+      "India, China, Japan, Italy",
+      "Germany, Spain, Canada, Brazil",
+      "Russia, Norway, India, Greenland",
+      "India, USA, Canada, Italy"
+    ],
+    "explanation_en": "Countries like India, China, Japan, and Italy are leading globally in converting solar energy into electricity."
+  },
+  {
+    "id": 164,
+    "question": "வெளிநாடு செல்ல விரும்பும் ஒருவரது கடவுச்சீட்டில் குறிக்கப்படும் முத்திரை:",
+    "options": [
+      "ஆதார் அட்டை",
+      "விமான பயணச்சீட்டு",
+      "விசா (Visa)",
+      "வாக்காளர் அடையாள அட்டை"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு நாட்டின் எல்லைக்குள் நுழைவதற்காக அல்லது தங்குவதற்காக அந்நாட்டின் அரசால் கடவுச்சீட்டில் (Passport) வழங்கப்படும் அதிகாரப்பூர்வ முத்திரையே விசா (Visa) ஆகும்.",
+    "question_en": "The stamp marked on the passport of a person wishing to travel abroad is:",
+    "options_en": [
+      "Aadhaar Card",
+      "Flight ticket",
+      "Visa",
+      "Voter ID card"
+    ],
+    "explanation_en": "A Visa is an official endorsement issued by the government of a country on a passport for entering or staying within its borders."
+  },
+  {
+    "id": 165,
+    "question": "மலைவாழிடங்களை அவற்றின் புனைப் பெயர்களோடு பொருத்துக: \n(a) ஊட்டி (b) கோத்தகிரி (c) கொடைக்கானல் (d) ஜவ்வாது \n(i) பச்சை மலை (ii) இயற்கையின் சொர்க்கம் (iii) மலைகளின் ராணி (iv) மலைகளின் இளவரசி",
+    "options": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    ],
+    "correct": 3,
+    "explanation": "ஊட்டி - மலைகளின் ராணி (iii). கொடைக்கானல் - மலைகளின் இளவரசி (iv). கோத்தகிரி - பச்சை மலை (i). ஜவ்வாது - இயற்கையின் சொர்க்கம் (ii).",
+    "question_en": "Match the hill stations with their nicknames: \n(a) Ooty (b) Kotagiri (c) Kodaikanal (d) Jawadhu \n(i) Green Mountain (ii) Heaven of Nature (iii) Queen of Hills (iv) Princess of Hills",
+    "options_en": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    ],
+    "explanation_en": "Ooty - Queen of Hills (iii). Kodaikanal - Princess of Hills (iv). Kotagiri - Green Mountain (i). Jawadhu - Heaven of Nature (ii)."
+  },
+  {
+    "id": 166,
+    "question": "இரண்டாவது மிக அழகிய நீண்ட கடற்கரை:",
+    "options": [
+      "மெரினா",
+      "கன்னியாகுமரி",
+      "எலியட்",
+      "மகாபலிபுரம்"
+    ],
+    "correct": 0,
+    "explanation": "சென்னையில் அமைந்துள்ள மெரினா (Marina) கடற்கரை உலகின் இரண்டாவது மிக நீளமான மற்றும் அழகிய நகர்ப்புறக் கடற்கரையாகும்.",
+    "question_en": "The second most beautiful long beach:",
+    "options_en": [
+      "Marina",
+      "Kanyakumari",
+      "Elliot's",
+      "Mahabalipuram"
+    ],
+    "explanation_en": "Marina Beach in Chennai is the world's second-longest and most beautiful urban beach."
+  },
+  {
+    "id": 167,
+    "question": "வட அமெரிக்காவையும், தென் அமெரிக்காவையும் இணைக்கும் நிலச்சந்தி:",
+    "options": [
+      "பனாமா நிலச்சந்தி",
+      "பேரிங் நீர்சந்தி",
+      "பாக் நீர்சந்தி",
+      "மெகல்லன் நீர்சந்தி"
+    ],
+    "correct": 0,
+    "explanation": "வட அமெரிக்கா மற்றும் தென் அமெரிக்கா ஆகிய இரண்டு பெரிய கண்டங்களையும் இணைக்கும் குறுகிய நிலப்பகுதியே பனாமா நிலச்சந்தி (Isthmus of Panama) ஆகும்.",
+    "question_en": "The land bridge connecting North America and South America is:",
+    "options_en": [
+      "Isthmus of Panama",
+      "Bering Strait",
+      "Palk Strait",
+      "Strait of Magellan"
+    ],
+    "explanation_en": "The narrow strip of land connecting the two large continents of North America and South America is the Isthmus of Panama."
+  },
+  {
+    "id": 168,
+    "question": "நிலவரைபடத்தை உருவாக்கும் அறிவியல் ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "மக்களியியல்",
+      "கார்ட்டோகிராஃபி",
+      "பிஸியோகிராபி",
+      "பௌதீக புவியியல்"
+    ],
+    "correct": 1,
+    "explanation": "நில வரைபடங்களை (Maps) வரைதல் மற்றும் உருவாக்குதல் பற்றிய அறிவியல் பிரிவு கார்ட்டோகிராஃபி (Cartography) என அழைக்கப்படுகிறது.",
+    "question_en": "The science of map-making is called ________.",
+    "options_en": [
+      "Demography",
+      "Cartography",
+      "Physiography",
+      "Physical Geography"
+    ],
+    "explanation_en": "The scientific discipline of drawing and creating maps is called Cartography."
+  },
+  {
+    "id": 169,
+    "question": "குறைவழுத்தப் பகுதியில் உயர் அழுத்தத்தால் சூழப்பட்ட காற்று ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "மழை",
+      "சூறாவளி",
+      "பருவக்காற்று",
+      "புயல்"
+    ],
+    "correct": 3,
+    "explanation": "மையத்தில் குறைந்த காற்றழுத்தப் பகுதியும், அதனைச் சுற்றி அதிக காற்றழுத்தப் பகுதியும் உருவாகி சுழல்வது புயல் (Cyclone) எனப்படுகிறது.",
+    "question_en": "Air surrounded by high pressure in a low-pressure area is called ________.",
+    "options_en": [
+      "Rain",
+      "Hurricane",
+      "Monsoon",
+      "Cyclone"
+    ],
+    "explanation_en": "A system where a low-pressure area is formed at the center, surrounded by high-pressure areas, and rotates is called a Cyclone."
+  },
+  {
+    "id": 170,
+    "question": "மழைப்பொழிவானது 5 மி.மீ விட்டத்தை விட உருண்டையான பனிக்கட்டிகளைக் கொண்டிருந்தால் அவை:",
+    "options": [
+      "உறைபனி மழை",
+      "ஆலங்கட்டி மழை",
+      "கல் மழை",
+      "பனிப் பொழிவு"
+    ],
+    "correct": 1,
+    "explanation": "பெரிய அளவிலான பனிக்கட்டித் துண்டுகள் (5 மி.மீ -க்கு மேல்) மழையுடன் சேர்ந்து விழுவது ஆலங்கட்டி மழை (Hail) எனப்படும்.",
+    "question_en": "If precipitation consists of rounded ice pellets larger than 5 mm in diameter, they are called:",
+    "options_en": [
+      "Freezing rain",
+      "Hail",
+      "Stone rain",
+      "Snowfall"
+    ],
+    "explanation_en": "Large pieces of ice (larger than 5 mm) falling with rain are called Hail."
+  },
+  {
+    "id": 171,
+    "question": "சரியான கூற்று/கூற்றுகளைக் கண்டறியவும்: \n(i) ஆண்டு முழுவதும் ஒரே திசையை நோக்கி வீசும் காற்றுகள் கோள் காற்றுகள் ஆகும். \n(ii) புவியின் கோள வடிவமே வெவ்வேறு இடங்களில் வெவ்வேறு வெப்பநிலையைப் பெறுவதற்கு காரணமாக அமைகிறது. \n(iii) சூரிய கதிர் வீச்சுகளிலிருந்து பெறப்படும் வெப்ப ஆற்றல் நான்கு வழிமுறைகளில் புவியை வந்தடைகிறது. \n(iv) அதிக காற்றழுத்தம் என்பது வளி மண்டலப் பகுதிகளில் சுற்றியுள்ள பகுதிகளை விட அழுத்தம் குறைவாக இருக்கும்.",
+    "options": [
+      "(i) மற்றும் (iii)",
+      "(ii) மற்றும் (iv)",
+      "(i) மற்றும் (ii)",
+      "(iii) மற்றும் (iv)"
+    ],
+    "correct": 2,
+    "explanation": "சூரிய வெப்பம் 3 (கடத்தல், சலனம், கதிர்வீச்சு) முறைகளில் பரவும், 4 அல்ல (iii தவறு). அதிக காற்றழுத்தம் என்பது அழுத்தம் அதிகமாக இருப்பதாகும் (iv தவறு). எனவே i மற்றும் ii சரியானவை.",
+    "question_en": "Identify the correct statement/statements: \n(i) Winds that blow in the same direction throughout the year are called planetary winds. \n(ii) The spherical shape of the Earth causes different places to receive different temperatures. \n(iii) Heat energy received from solar radiation reaches the Earth through four methods. \n(iv) High pressure means that the atmospheric pressure in those areas is lower than in the surrounding areas.",
+    "options_en": [
+      "(i) and (iii)",
+      "(ii) and (iv)",
+      "(i) and (ii)",
+      "(iii) and (iv)"
+    ],
+    "explanation_en": "Solar heat spreads through 3 methods (conduction, convection, radiation), not 4 (iii is incorrect). High pressure means the pressure is higher (iv is incorrect). Therefore, (i) and (ii) are correct."
+  },
+  {
+    "id": 172,
+    "question": "புவிப்படங்களில் 'H' எதைக் குறிக்கிறது?",
+    "options": [
+      "மருத்துவமனை",
+      "வானுலங்குத் தளம்",
+      "முக்கிய இடம்",
+      "கல்விக்கூடம்"
+    ],
+    "correct": 1,
+    "explanation": "வரைபடங்களில் H என்ற குறியீடு பெரும்பாலும் ஹெலிகாப்டர்கள் இறங்கும் வானுலங்குத் தளத்தைக் (Heliport) குறிக்கப் பயன்படுத்தப்படுகிறது.",
+    "question_en": "What does 'H' denote on maps?",
+    "options_en": [
+      "Hospital",
+      "Heliport",
+      "Important place",
+      "Educational institution"
+    ],
+    "explanation_en": "The symbol 'H' on maps is often used to denote a Heliport, where helicopters land."
+  },
+  {
+    "id": 173,
+    "question": "தாஜ்மஹால் ________ பாறையிலிருந்து உருவான வெள்ளை பளிங்கு கற்களால் கட்டப்பட்டது.",
+    "options": [
+      "தீப்பாறை",
+      "உருமாறிய",
+      "படிவுப்",
+      "உயிரினப் படிவு"
+    ],
+    "correct": 1,
+    "explanation": "சுண்ணாம்புப் பாறைகள் அதிக வெப்பம் மற்றும் அழுத்தத்தால் உருமாறி சலவைக் கற்களாக (Marble) மாறுகின்றன. இவை உருமாறிய பாறைகள் (Metamorphic rock) வகையைச் சேர்ந்தவை.",
+    "question_en": "The Taj Mahal was built with white marble stones derived from ________ rock.",
+    "options_en": [
+      "Igneous rock",
+      "Metamorphic",
+      "Sedimentary",
+      "Organic sedimentary"
+    ],
+    "explanation_en": "Limestone rocks transform into marble due to high heat and pressure. These belong to the Metamorphic rock type."
+  },
+  {
+    "id": 174,
+    "question": "'சட்டத்தின் ஆட்சி' என்ற பதத்தை வாதுரைத்தவர்:",
+    "options": [
+      "ஏ.வி.டைசி",
+      "பி.ஆர். அம்பேத்கார்",
+      "ராஜாராம் மோகன்ராய்",
+      "எம்.ஜி. ரானடே"
+    ],
+    "correct": 0,
+    "explanation": "'சட்டத்தின் ஆட்சி' (Rule of law) என்ற கருத்தாக்கத்தை முதன்முதலில் அறிமுகப்படுத்தி விரிவாக விளக்கியவர் பிரிட்டிஷ் சட்ட வல்லுநர் ஏ.வி. டைசி (A.V. Dicey) ஆவார்.",
+    "question_en": "The person who advocated the term 'Rule of Law' is:",
+    "options_en": [
+      "A.V. Dicey",
+      "B.R. Ambedkar",
+      "Raja Ram Mohan Roy",
+      "M.G. Ranade"
+    ],
+    "explanation_en": "The concept of 'Rule of Law' was first introduced and extensively explained by the British legal scholar A.V. Dicey."
+  },
+  {
+    "id": 175,
+    "question": "நான்கு மாநில சட்டமன்றத் தேர்தலில் குறைந்தபட்சம் 6% வாக்குகளை பெற்ற கட்சி ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "மாநிலக் கட்சி",
+      "சுயேச்சை கட்சி",
+      "தேசிய கட்சி",
+      "பல கட்சி"
+    ],
+    "correct": 2,
+    "explanation": "இந்திய தேர்தல் ஆணைய விதிகளின்படி, குறைந்தது 4 மாநிலங்களில் 6% வாக்குகளைப் பெற்றால் அக்கட்சி தேசிய கட்சியாக (National Party) அங்கீகரிக்கப்படும்.",
+    "question_en": "A party that secures at least 6% of the votes in four state assembly elections is called a ________.",
+    "options_en": [
+      "State party",
+      "Independent party",
+      "National party",
+      "Multi-party"
+    ],
+    "explanation_en": "According to the rules of the Election Commission of India, a party that secures at least 6% of the votes in a minimum of 4 states will be recognized as a National Party."
+  },
+  {
+    "id": 176,
+    "question": "எவரெஸ்ட் சிகரத்தை அடைந்த முதல் இந்திய பெண்:",
+    "options": [
+      "பிரதீபா பாடீல்",
+      "பச்சேந்திரி பால்",
+      "அருந்ததி ராய்",
+      "மீரா குமார்"
+    ],
+    "correct": 1,
+    "explanation": "பச்சேந்திரி பால் (Bachendri Pal) என்பவரே 1984 ஆம் ஆண்டு உலகின் மிக உயர்ந்த சிகரமான எவரெஸ்டை அடைந்த முதல் இந்தியப் பெண்மணி ஆவார்.",
+    "question_en": "The first Indian woman to reach Mount Everest is:",
+    "options_en": [
+      "Pratibha Patil",
+      "Bachendri Pal",
+      "Arundhati Roy",
+      "Meira Kumar"
+    ],
+    "explanation_en": "Bachendri Pal was the first Indian woman to reach Mount Everest, the world's highest peak, in 1984."
+  },
+  {
+    "id": 177,
+    "question": "நுகர்வோர் பாதுகாப்பு சட்டம் இயற்றப்பட்ட ஆண்டு:",
+    "options": [
+      "1886",
+      "1986",
+      "1916",
+      "2006"
+    ],
+    "correct": 1,
+    "explanation": "பொருட்கள் மற்றும் சேவைகளில் நுகர்வோரின் உரிமைகளைப் பாதுகாப்பதற்காக இந்திய அரசால் நுகர்வோர் பாதுகாப்பு சட்டம் 1986-ல் இயற்றப்பட்டது.",
+    "question_en": "The year the Consumer Protection Act was enacted:",
+    "options_en": [
+      "1886",
+      "1986",
+      "1916",
+      "2006"
+    ],
+    "explanation_en": "The Consumer Protection Act was enacted by the Government of India in 1986 to protect the rights of consumers in goods and services."
+  },
+  {
+    "id": 178,
+    "question": "ஒவ்வொரு ஆண்டும் எந்த நாளில் உலக மனித உரிமைகள் தினம் கொண்டாடப்படுகிறது?",
+    "options": [
+      "டிசம்பர் 10",
+      "அக்டோபர் 24",
+      "செப்டம்பர் 2",
+      "டிசம்பர் 5"
+    ],
+    "correct": 0,
+    "explanation": "1948-ல் ஐ.நா சபை மனித உரிமைகள் பிரகடனத்தை ஏற்றுக்கொண்ட நாளான டிசம்பர் 10-ஆம் தேதி ஒவ்வொரு ஆண்டும் உலக மனித உரிமைகள் தினமாகக் கொண்டாடப்படுகிறது.",
+    "question_en": "On which day is World Human Rights Day celebrated every year?",
+    "options_en": [
+      "December 10",
+      "October 24",
+      "September 2",
+      "December 5"
+    ],
+    "explanation_en": "December 10, the day the UN adopted the Universal Declaration of Human Rights in 1948, is celebrated annually as World Human Rights Day."
+  },
+  {
+    "id": 179,
+    "question": "'நாடுகளின் செல்வமும் அவற்றை உருவாக்கும் காரணிகளும் ஓர் ஆய்வு' என்ற நூலை எழுதியவர்:",
+    "options": [
+      "சாக்ரடீஸ்",
+      "மார்ஷல்",
+      "ஹெரோடோடஸ்",
+      "ஆடம் ஸ்மித்"
+    ],
+    "correct": 3,
+    "explanation": "1776-ல் வெளிவந்த 'நாடுகளின் செல்வம்' (Wealth of Nations) என்ற புகழ்பெற்ற பொருளாதார நூலை எழுதியவர் பொருளியலின் தந்தை ஆடம் ஸ்மித் ஆவார்.",
+    "question_en": "The author of the book 'An Inquiry into the Nature and Causes of the Wealth of Nations' is:",
+    "options_en": [
+      "Socrates",
+      "Marshall",
+      "Herodotus",
+      "Adam Smith"
+    ],
+    "explanation_en": "The famous economic book 'Wealth of Nations', published in 1776, was written by Adam Smith, the father of economics."
+  },
+  {
+    "id": 180,
+    "question": "சவுதி அரேபியாவின் நாணயம்:",
+    "options": [
+      "ரியால்",
+      "டாலர்",
+      "யென்",
+      "தினார்"
+    ],
+    "correct": 0,
+    "explanation": "சவுதி அரேபியா நாட்டின் அதிகாரப்பூர்வப் பணம் (Currency) சவுதி ரியால் (Saudi Riyal) என அழைக்கப்படுகிறது.",
+    "question_en": "The currency of Saudi Arabia is:",
+    "options_en": [
+      "Riyal",
+      "Dollar",
+      "Yen",
+      "Dinar"
+    ],
+    "explanation_en": "The official currency of Saudi Arabia is called Saudi Riyal."
+  }
+]

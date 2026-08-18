@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 91,
+    "question": "ஒரு வாகன ஓட்டுநர் 135.04 கி.மீ தொலைவைக் கடக்க 3.2 மணி நேரம் எடுத்துக்கொள்கிறார் எனில் வாகனத்தின் வேகம்:",
+    "options": [
+      "422 கி.மீ. / மணி",
+      "4.22 கி.மீ. / மணி",
+      "42.2 கி.மீ. / மணி",
+      "42 கி.மீ. / மணி"
+    ],
+    "correct": 2,
+    "explanation": "வேகம் = $\\frac{\\text{தூரம்}}{\\text{காலம்}}$\nவேகம் = $\\frac{135.04}{3.2} = 42.2$ கி.மீ. / மணி.",
+    "question_en": "If a motorist takes 3.2 hours to cover a distance of 135.04 km then the speed of the vehicle is:",
+    "options_en": [
+      "422 km. / hrs",
+      "4.22 km. / hrs",
+      "42.2 km. / hrs",
+      "42 km / hrs"
+    ],
+    "explanation_en": "speed =$\\frac{\\text{தூரம்}}{\\text{காலம்}}$\nSpeed =$\\frac{135.04}{3.2} = 42.2$km. / hrs."
+  },
+  {
+    "id": 92,
+    "question": "$3x^{2}+xy+3y^{2}$ உடன் எதைக் கூட்டினால் $4x^{2}+6xy$ கிடைக்கும்?",
+    "options": [
+      "$x^{2}+5xy-3y^{2}$",
+      "$x^{2}-5xy-3y^{2}$",
+      "$x^{2}+5xy+3y^{2}$",
+      "$x^{2}+6xy-3y^{2}$"
+    ],
+    "correct": 0,
+    "explanation": "தேவையான கோவை = $(4x^{2}+6xy) - (3x^{2}+xy+3y^{2})$\n$= 4x^2 - 3x^2 + 6xy - xy - 3y^2$\n$= x^2 + 5xy - 3y^2$.",
+    "question_en": "What is added to$3x^{2}+xy+3y^{2}$to get $4x^{2}+6xy$?",
+    "options_en": [
+      "$x^{2}+5xy-3y^{2}$",
+      "$x^{2}-5xy-3y^{2}$",
+      "$x^{2}+5xy+3y^{2}$",
+      "$x^{2}+6xy-3y^{2}$"
+    ],
+    "explanation_en": "required cov =$(4x^{2}+6xy) - (3x^{2}+xy+3y^{2})$\n$= 4x^2 - 3x^2 + 6xy - xy - 3y^2$\n $= x^2 + 5xy - 3y^2$."
+  },
+  {
+    "id": 93,
+    "question": "ஒரு சக்கரம் 3 வினாடிகளில் 48 முறை சுழல்கின்றது எனில் 30 வினாடிகளில் அச்சக்கரம் சுழலும் எண்ணிக்கை :",
+    "options": [
+      "480",
+      "300",
+      "100",
+      "360"
+    ],
+    "correct": 0,
+    "explanation": "3 வினாடிக்கு = 48 சுழற்சிகள்.\n1 வினாடிக்கு = $\\frac{48}{3} = 16$ சுழற்சிகள்.\n30 வினாடிக்கு = $16 \\times 30 = 480$ சுழற்சிகள்.",
+    "question_en": "If a wheel rotates 48 times in 3 seconds then the number of revolutions of the wheel in 30 seconds :",
+    "options_en": [
+      "480",
+      "300",
+      "100",
+      "360"
+    ],
+    "explanation_en": "3 per second = 48 cycles.\n1 second =$\\frac{48}{3} = 16$cycles.\n30 seconds =$16 \\times 30 = 480$cycles."
+  },
+  {
+    "id": 94,
+    "question": "இரண்டு இணை கோடுகளை ஒரு குறுக்கு வெட்டி வெட்டும்போது, குறுக்கு வெட்டியின் ஒரே பக்கத்தில் அமைந்த உட்கோணங்கள் $3x$ மற்றும் $x$ எனில் \"x\" -இன் அளவு :",
+    "options": [
+      "$45^{\\circ}$",
+      "$50^{\\circ}$",
+      "$60^{\\circ}$",
+      "$75^{\\circ}$"
+    ],
+    "correct": 0,
+    "explanation": "குறுக்கு வெட்டியின் ஒரே பக்கத்தில் அமைந்த உட்கோணங்களின் கூடுதல் $180^{\\circ}$.\n$3x + x = 180^{\\circ} \\Rightarrow 4x = 180^{\\circ} \\Rightarrow x = 45^{\\circ}$.",
+    "question_en": "When two parallel lines are intersected by a transversal, if the angles$3x$and$x$are on the same side of the transversal, then the magnitude of \"x\" is :",
+    "options_en": [
+      "$45^{\\circ}$",
+      "$50^{\\circ}$",
+      "$60^{\\circ}$",
+      "$75^{\\circ}$"
+    ],
+    "explanation_en": "Addition of angles on the same side of the cross section$180^{\\circ}$.\n $3x + x = 180^{\\circ} \\Rightarrow 4x = 180^{\\circ} \\Rightarrow x = 45^{\\circ}$."
+  },
+  {
+    "id": 95,
+    "question": "$3P+4=25$ எனில் P -இன் மதிப்பு :",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "$3P + 4 = 25$\n$3P = 25 - 4 = 21$\n$P = \\frac{21}{3} = 7$.",
+    "question_en": "If$3P+4=25$is the value of P :",
+    "options_en": [
+      "4",
+      "3",
+      "5",
+      "7"
+    ],
+    "explanation_en": "$3P + 4 = 25$ \n$3P = 25 - 4 = 21$\n $P = \\frac{21}{3} = 7$."
+  },
+  {
+    "id": 96,
+    "question": "அடுத்தடுத்து வரும் மூன்று முழு எண்களின் கூடுதல் 30 எனில் இடையே அமையும் எண்:",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "மூன்று எண்கள்: $x, x+1, x+2$.\n$x + x+1 + x+2 = 30 \\Rightarrow 3x + 3 = 30 \\Rightarrow 3x = 27 \\Rightarrow x = 9$.\nஇடையே உள்ள எண் = $x+1 = 10$.",
+    "question_en": "If the addition of three consecutive whole numbers is 30, then the number between:",
+    "options_en": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "explanation_en": "Three numbers:$x, x+1, x+2$.\n $x + x+1 + x+2 = 30 \\Rightarrow 3x + 3 = 30 \\Rightarrow 3x = 27 \\Rightarrow x = 9$.\nNUMBER BETWEEN =$x+1 = 10$."
+  },
+  {
+    "id": 97,
+    "question": "ஒரு குறிப்பிட்ட தொகையானது 8% வட்டி வீதத்தில் 5 ஆண்டுகளில் ₹ 10,080 ஆகிறது எனில் அசல்:",
+    "options": [
+      "₹ 6,000",
+      "₹ 6,600",
+      "₹ 6,800",
+      "₹ 7,200"
+    ],
+    "correct": 3,
+    "explanation": "மொத்தத் தொகை $A = P \\left(1 + \\frac{nr}{100}\\right)$\n$10080 = P \\left(1 + \\frac{5 \\times 8}{100}\\right) = P \\left(1 + 0.40\\right) = 1.40P$.\n$P = \\frac{10080}{1.40} = 7200$.",
+    "question_en": "If a certain amount is ₹ 10,080 in 5 years at 8% interest, the principal is:",
+    "options_en": [
+      "₹ 6,000",
+      "₹ 6,600",
+      "₹ 6,800",
+      "₹ 7,200"
+    ],
+    "explanation_en": "Total amount is$A = P \\left(1 + \\frac{nr}{100}\\right)$\n $10080 = P \\left(1 + \\frac{5 \\times 8}{100}\\right) = P \\left(1 + 0.40\\right) = 1.40P$.\n $P = \\frac{10080}{1.40} = 7200$."
+  },
+  {
+    "id": 98,
+    "question": "ஒரு முக்கோணத்தின் எந்த இரண்டு பக்கங்களின் கூடுதலும் மூன்றாவது பக்கத்தை விட __________ இருக்கும்.",
+    "options": [
+      "குறைவாக",
+      "அதிகமாக",
+      "சமம்",
+      "ஏதுமில்லை"
+    ],
+    "correct": 1,
+    "explanation": "முக்கோணத்தின் பண்பு: ஒரு முக்கோணத்தில் எவையேனும் இரு பக்கங்களின் கூடுதல், அதன் மூன்றாவது பக்கத்தை விட எப்போதும் அதிகமாகவே (Greater) இருக்கும்.",
+    "question_en": "The sum of any two sides of a triangle is __________ than the third side.",
+    "options_en": [
+      "less",
+      "more",
+      "equal to",
+      "Nothing"
+    ],
+    "explanation_en": "Triangle Property: The sum of any two sides of a triangle is always greater than its third side."
+  },
+  {
+    "id": 99,
+    "question": "$\\frac{112}{528}$ -ன் எளிய வடிவில் உள்ள பகுதியின் இலக்கங்களின் கூடுதல்:",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 2,
+    "explanation": "$\\frac{112}{528}$ ஐ 16-ஆல் வகுக்க: $\\frac{7}{33}$.\nஎளிய வடிவின் பகுதி (Denominator) = 33.\nபகுதியின் இலக்கங்களின் கூடுதல் = $3 + 3 = 6$.",
+    "question_en": "Addition of fraction digits in simple form of $\\frac{112}{528}$:",
+    "options_en": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "explanation_en": "To divide$\\frac{112}{528}$by 16:$\\frac{7}{33}$.\nDenominator in simple form = 33.\nAddition of digits of area =$3 + 3 = 6$."
+  },
+  {
+    "id": 100,
+    "question": "7-ஐ ஓர் இலக்கமாகக் கொண்ட ஈரிலக்க எண்களின் எண்ணிக்கை:",
+    "options": [
+      "16",
+      "18",
+      "19",
+      "17"
+    ],
+    "correct": 1,
+    "explanation": "அவை: 17, 27, 37, 47, 57, 67, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 87, 97.\nமொத்தம் 18 எண்கள்.",
+    "question_en": "Number of two-digit numbers with 7 as a digit:",
+    "options_en": [
+      "16",
+      "18",
+      "19",
+      "17"
+    ],
+    "explanation_en": "They are: 17, 27, 37, 47, 57, 67, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 87, 97.\nTotal 18 numbers."
+  },
+  {
+    "id": 101,
+    "question": "$(10m^{2}-5m)$ -ஐ $(2m-1)$ ஆல் வகுக்க கிடைப்பது:",
+    "options": [
+      "5 m",
+      "10 m",
+      "2 m",
+      "1 m"
+    ],
+    "correct": 0,
+    "explanation": "தொகுதியிலிருந்து 5m ஐ பொதுவில் எடுக்க: $5m(2m - 1)$.\nஇதை $(2m - 1)$-ஆல் வகுத்தால்: $\\frac{5m(2m - 1)}{(2m - 1)} = 5m$.",
+    "question_en": "Dividing$(10m^{2}-5m)$by$(2m-1)$gives:",
+    "options_en": [
+      "5 m",
+      "10 m",
+      "2 m",
+      "1 m"
+    ],
+    "explanation_en": "To take 5m from module public:$5m(2m - 1)$.\nDividing this by$(2m - 1)$gives:$\\frac{5m(2m - 1)}{(2m - 1)} = 5m$."
+  },
+  {
+    "id": 102,
+    "question": "$\\frac{-6}{11}$ என்ற எண்ணிலிருந்து எந்த எண்ணினைக் கழித்தால் $\\frac{8}{9}$ கிடைக்கும்?",
+    "options": [
+      "$\\frac{34}{99}$",
+      "$\\frac{-34}{99}$",
+      "$\\frac{142}{99}$",
+      "$\\frac{-142}{99}$"
+    ],
+    "correct": 3,
+    "explanation": "$\\frac{-6}{11} - x = \\frac{8}{9}$\n$x = \\frac{-6}{11} - \\frac{8}{9} = \\frac{-54 - 88}{99} = \\frac{-142}{99}$.",
+    "question_en": "Which number is subtracted from$\\frac{-6}{11}$to get $\\frac{8}{9}$?",
+    "options_en": [
+      "$\\frac{34}{99}$",
+      "$\\frac{-34}{99}$",
+      "$\\frac{142}{99}$",
+      "$\\frac{-142}{99}$"
+    ],
+    "explanation_en": "$\\frac{-6}{11} - x = \\frac{8}{9}$ \n $x = \\frac{-6}{11} - \\frac{8}{9} = \\frac{-54 - 88}{99} = \\frac{-142}{99}$."
+  },
+  {
+    "id": 103,
+    "question": "10 செ.மீ பக்க அளவுள்ள சதுரத்தினுள், அதன் முனைகளில் நான்கு கால்வட்டங்கள் வெட்டப்பட்டால், நிழலிட்ட பகுதியின் பரப்பளவு $(\\pi=3.14)$:",
+    "options": [
+      "$100~cm^{2}$",
+      "$78.5~cm^{2}$",
+      "$21.5~cm^{2}$",
+      "$40~cm^{2}$"
+    ],
+    "correct": 2,
+    "explanation": "நான்கு கால்வட்டங்கள் சேர்ந்தால் 5 செ.மீ ஆரம் கொண்ட ஒரு முழு வட்டம் ஆகும்.\nநிழலிட்ட பரப்பு = சதுரத்தின் பரப்பு - வட்டத்தின் பரப்பு\n$= 10^2 - (3.14 \\times 5^2) = 100 - (3.14 \\times 25) = 100 - 78.5 = 21.5~cm^2$.",
+    "question_en": "If four quadrants are cut in a square of side 10 cm, the area of ​​the shaded region is$(\\pi=3.14)$:",
+    "options_en": [
+      "$100~cm^{2}$",
+      "$78.5~cm^{2}$",
+      "$21.5~cm^{2}$",
+      "$40~cm^{2}$"
+    ],
+    "explanation_en": "Four quarter circles add up to form a complete circle of radius 5 cm.\nShaded area = area of square - area of circle\n $= 10^2 - (3.14 \\times 5^2) = 100 - (3.14 \\times 25) = 100 - 78.5 = 21.5~cm^2$."
+  },
+  {
+    "id": 104,
+    "question": "பொருத்துக:\n(a) $(2x+3)(2x-3)$\n(b) $5x(4xy-4)$\n(c) $-2xy(5x^{2}-3)$\n(d) $4y^{2}\\times(-3y)$\n(i) $-10x^{3}y+6xy$\n(ii) $-12y^{3}$\n(iii) $4x^{2}-9$\n(iv) $20x^{2}y-20x$",
+    "options": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    ],
+    "correct": 1,
+    "explanation": "(a) $(2x+3)(2x-3) = 4x^2 - 9$ (iii)\n(b) $5x(4xy-4) = 20x^2y - 20x$ (iv)\n(c) $-2xy(5x^2-3) = -10x^3y + 6xy$ (i)\n(d) $4y^2 \\times (-3y) = -12y^3$ (ii)",
+    "question_en": "Match:\n(a)$(2x+3)(2x-3)$\n(b)$5x(4xy-4)$\n(c)$-2xy(5x^{2}-3)$\n(d)$4y^{2}\\times(-3y)$\n(i)$-10x^{3}y+6xy$\n(ii)$-12y^{3}$\n(iii)$4x^{2}-9$\n(iv) $20x^{2}y-20x$",
+    "options_en": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    ],
+    "explanation_en": "(a)$(2x+3)(2x-3) = 4x^2 - 9$(iii)\n(b)$5x(4xy-4) = 20x^2y - 20x$(iv)\n(c)$-2xy(5x^2-3) = -10x^3y + 6xy$(i)\n(d)$4y^2 \\times (-3y) = -12y^3$(ii)"
+  },
+  {
+    "id": 105,
+    "question": "$998^{2}$ -ன் மதிப்பு:",
+    "options": [
+      "96004",
+      "99660004",
+      "996004",
+      "100000"
+    ],
+    "correct": 2,
+    "explanation": "$998^2 = (1000 - 2)^2 = 1000^2 - 2(1000)(2) + 2^2$\n$= 1000000 - 4000 + 4 = 996004$.",
+    "question_en": "The value of$998^{2}$is:",
+    "options_en": [
+      "96004",
+      "99660004",
+      "996004",
+      "100000"
+    ],
+    "explanation_en": "$998^2 = (1000 - 2)^2 = 1000^2 - 2(1000)(2) + 2^2$ \n $= 1000000 - 4000 + 4 = 996004$."
+  },
+  {
+    "id": 106,
+    "question": "ஒரு செவ்வக வடிவ நிலத்தின் பரப்பளவு $(a^{2}-b^{2})$ சதுர அலகுகள் மற்றும் அகலம் $(a-b)$ அலகுகள் எனில், அதன் நீளம்:",
+    "options": [
+      "$(a-b)$",
+      "$(a+b)$",
+      "$(a^{2}-b)$",
+      "$(a^{2}+b^{2})$"
+    ],
+    "correct": 1,
+    "explanation": "நீளம் = $\\frac{\\text{பரப்பளவு}}{\\text{அகலம்}} = \\frac{a^2 - b^2}{a - b} = \\frac{(a+b)(a-b)}{a-b} = (a+b)$.",
+    "question_en": "If the area of ​​a rectangular piece of land is$(a^{2}-b^{2})$square units and the width is$(a-b)$units, its length is:",
+    "options_en": [
+      "$(a-b)$",
+      "$(a+b)$",
+      "$(a^{2}-b)$",
+      "$(a^{2}+b^{2})$"
+    ],
+    "explanation_en": "length =$\\frac{\\text{பரப்பளவு}}{\\text{அகலம்}} = \\frac{a^2 - b^2}{a - b} = \\frac{(a+b)(a-b)}{a-b} = (a+b)$."
+  },
+  {
+    "id": 107,
+    "question": "3 நபர்களில் 2 நபர்கள் மட்டும் நேர்முகத் தேர்வில் தேர்வு செய்யப்படுவர். இதன் சதவீதம்:",
+    "options": [
+      "$66\\frac{2}{3}\\%$",
+      "$66\\frac{4}{3}\\%$",
+      "$66\\frac{1}{2}\\%$",
+      "$66\\frac{4}{5}\\%$"
+    ],
+    "correct": 0,
+    "explanation": "சதவீதம் = $\\frac{2}{3} \\times 100\\% = \\frac{200}{3}\\% = 66\\frac{2}{3}\\%$.",
+    "question_en": "Out of 3 persons only 2 persons will be selected in the interview. Percentage of:",
+    "options_en": [
+      "$66\\frac{2}{3}\\%$",
+      "$66\\frac{4}{3}\\%$",
+      "$66\\frac{1}{2}\\%$",
+      "$66\\frac{4}{5}\\%$"
+    ],
+    "explanation_en": "percentage =$\\frac{2}{3} \\times 100\\% = \\frac{200}{3}\\% = 66\\frac{2}{3}\\%$."
+  },
+  {
+    "id": 108,
+    "question": "ஓர் இரு சக்கர வாகனத்தின் விலை 2 ஆண்டுகளுக்கு முன் ₹ 70,000 ஆக இருந்தது. அதன் மதிப்பு ஆண்டுதோறும் 4% வீதம் குறைகிறது எனில், அதன் தற்போதைய மதிப்பு:",
+    "options": [
+      "₹ 64,512",
+      "₹ 45,612",
+      "₹ 76,852",
+      "₹ 75,000"
+    ],
+    "correct": 0,
+    "explanation": "தற்போதைய மதிப்பு $A = P \\left(1 - \\frac{r}{100}\\right)^n$\n$= 70000 \\times \\left(1 - \\frac{4}{100}\\right)^2 = 70000 \\times \\left(\\frac{96}{100}\\right)^2$\n$= 70000 \\times 0.96 \\times 0.96 = 64512$.",
+    "question_en": "The price of a two-wheeler was ₹ 70,000 2 years ago. If its value depreciates at the rate of 4% annually, its present value is:",
+    "options_en": [
+      "₹ 64,512",
+      "₹ 45,612",
+      "₹ 76,852",
+      "₹ 75,000"
+    ],
+    "explanation_en": "The current value is$A = P \\left(1 - \\frac{r}{100}\\right)^n$\n$= 70000 \\times \\left(1 - \\frac{4}{100}\\right)^2 = 70000 \\times \\left(\\frac{96}{100}\\right)^2$\n $= 70000 \\times 0.96 \\times 0.96 = 64512$."
+  },
+  {
+    "id": 109,
+    "question": "20 அடி நீளமுள்ள ஏணி, தரையிலிருந்து 16 அடி உயரத்தில் சுவரினைத் தொடுமாறு சாய்த்து வைக்கப்பட்டுள்ளது எனில், சுவரிலிருந்து ஏணியின் அடிப்பகுதியானது எவ்வளவு தூரத்தில் உள்ளது?",
+    "options": [
+      "24 அடி",
+      "10 அடி",
+      "14 அடி",
+      "12 அடி"
+    ],
+    "correct": 3,
+    "explanation": "பிதாகரஸ் தேற்றத்தின்படி: $\\text{அடிப்பகுதி} = \\sqrt{20^2 - 16^2} = \\sqrt{400 - 256} = \\sqrt{144} = 12$ அடி.",
+    "question_en": "If a ladder 20 feet long is tilted to touch a wall 16 feet above the floor, how far is the bottom of the ladder from the wall?",
+    "options_en": [
+      "24 ft",
+      "10 ft",
+      "14 ft",
+      "12 ft"
+    ],
+    "explanation_en": "According to the Pythagorean Theorem:$\\text{அடிப்பகுதி} = \\sqrt{20^2 - 16^2} = \\sqrt{400 - 256} = \\sqrt{144} = 12$Ft."
+  },
+  {
+    "id": 110,
+    "question": "தந்தையின் வயது மகளின் வயதினைப் போல் 5 மடங்காக உள்ளது. 2 ஆண்டுகளுக்குப் பின்னர், தந்தையின் வயது, மகளின் வயதைப் போல் 4 மடங்கு எனில், மகளின் தற்போதைய வயது:",
+    "options": [
+      "3 ஆண்டுகள்",
+      "6 ஆண்டுகள்",
+      "40 ஆண்டுகள்",
+      "30 ஆண்டுகள்"
+    ],
+    "correct": 1,
+    "explanation": "தற்போதைய வயது: மகள் = $x$, தந்தை = $5x$.\n2 வருடங்களுக்குப் பின்: $(5x + 2) = 4(x + 2)$\n$5x + 2 = 4x + 8 \\Rightarrow x = 6$.\nஎனவே மகளின் தற்போதைய வயது 6 ஆண்டுகள்.",
+    "question_en": "Father's age is 5 times the daughter's age. After 2 years, if the father's age is 4 times the daughter's age, then the present age of the daughter is:",
+    "options_en": [
+      "3 years",
+      "6 years",
+      "40 years",
+      "30 years"
+    ],
+    "explanation_en": "Current Age: Daughter =$x$, Father =$5x$.\nAfter 2 years:$(5x + 2) = 4(x + 2)$\n $5x + 2 = 4x + 8 \\Rightarrow x = 6$.\nSo present age of daughter is 6 years."
+  },
+  {
+    "id": 111,
+    "question": "$90^{\\circ}$ என்பதை ரேடியனாக மாற்றுக.",
+    "options": [
+      "$\\frac{\\pi}{2}$ ரேடியன்",
+      "$\\frac{\\pi}{3}$ ரேடியன்",
+      "$\\frac{2\\pi}{2}$ ரேடியன்",
+      "$\\frac{3\\pi}{2}$ ரேடியன்"
+    ],
+    "correct": 0,
+    "explanation": "$180^{\\circ} = \\pi$ ரேடியன்.\nஎனவே, $90^{\\circ} = \\frac{\\pi}{2}$ ரேடியன்.",
+    "question_en": "Convert$90^{\\circ}$to radians.",
+    "options_en": [
+      "$\\frac{\\pi}{2}$ Radian",
+      "$\\frac{\\pi}{3}$ Radian",
+      "$\\frac{2\\pi}{2}$ Radian",
+      "$\\frac{3\\pi}{2}$ Radian"
+    ],
+    "explanation_en": "$180^{\\circ} = \\pi$ Radian.\nSo,$90^{\\circ} = \\frac{\\pi}{2}$radian."
+  },
+  {
+    "id": 112,
+    "question": "நீரியல் அழுத்தி எதன் அடிப்படையில் இயங்குகிறது?",
+    "options": [
+      "உராய்வு",
+      "பரப்பு விசை",
+      "திரவங்களின் பரப்பு விசை",
+      "பாஸ்கல் விதி"
+    ],
+    "correct": 3,
+    "explanation": "நீரியல் அழுத்தி (Hydraulic press) பாஸ்கல் விதியின் (Pascal's Law) அடிப்படையில் செயல்படுகிறது.",
+    "question_en": "What does a hydraulic press work on?",
+    "options_en": [
+      "Friction",
+      "Surface force",
+      "Surface force of liquids",
+      "Pascal's law"
+    ],
+    "explanation_en": "Hydraulic press works based on Pascal's Law."
+  },
+  {
+    "id": 113,
+    "question": "கோளக ஆடி ஒன்றின் வளைவு ஆரம் 30 செ.மீ. எனில் அதன் குவியத் தொலைவினைக் காண்க.",
+    "options": [
+      "15 செ.மீ",
+      "25 செ.மீ",
+      "20 செ.மீ",
+      "10 செ.மீ"
+    ],
+    "correct": 0,
+    "explanation": "குவியத் தொலைவு $f = \\frac{R}{2}$.\n$f = \\frac{30}{2} = 15$ செ.மீ.",
+    "question_en": "The radius of curvature of a spherical orbit is 30 cm. Find its focal length.",
+    "options_en": [
+      "15 cm",
+      "25 cm",
+      "20 cm",
+      "10 cm"
+    ],
+    "explanation_en": "Focal length$f = \\frac{R}{2}$.\n$f = \\frac{30}{2} = 15$cm."
+  },
+  {
+    "id": 114,
+    "question": "நிலக்காற்று மற்றும் கடற்காற்று ஆகிய நிகழ்வுகள் உருவாவதற்கு காரணம்:",
+    "options": [
+      "வெப்பச்சலனம்",
+      "வெப்பக்கடத்தல்",
+      "வெப்பக்கதிர்வீச்சு",
+      "காலநிலை மாற்றம்"
+    ],
+    "correct": 0,
+    "explanation": "நிலம் மற்றும் கடல் பகுதிகள் வெப்பமடைவதில் உள்ள வித்தியாசத்தால் காற்றில் வெப்பச்சலனம் (Convection) உருவாகி கடல் காற்று மற்றும் நிலக் காற்று வீசுகிறது.",
+    "question_en": "The phenomena of land wind and sea wind are caused by:",
+    "options_en": [
+      "Convection",
+      "Heat conduction",
+      "Thermal radiation",
+      "Climate change"
+    ],
+    "explanation_en": "Due to the difference in the heating of the land and sea areas, convection is formed in the air and sea breezes and land breezes blow."
+  },
+  {
+    "id": 115,
+    "question": "பொருத்துக:\n(a) வெப்ப குடுவை - (i) வில்லியம் கில்பர்ட்\n(b) கலோரி மீட்டர் - (ii) சர் ஜேம்ஸ் திவார்\n(c) நிலை மின்காட்டி - (iii) ஆப்ரஹாம் பென்னட்\n(d) தங்க இலை நிலைமின்காட்டி - (iv) பியரே சைமன் லாப்லாஸ்",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    ],
+    "correct": 0,
+    "explanation": "வெப்ப குடுவை (Thermos Flask) - சர் ஜேம்ஸ் திவார்.\nகலோரி மீட்டர் - பியரே சைமன் லாப்லாஸ் & லவாய்சியர்.\nநிலை மின்காட்டி - வில்லியம் கில்பர்ட்.\nதங்க இலை நிலைமின்காட்டி - ஆப்ரஹாம் பென்னட்.",
+    "question_en": "Match:\n(a) Thermo flask - (i) William Gilbert\n(b) Calorimeter – (ii) Sir James Dewar\n(c) Level indicator – (iii) Abraham Bennett\n(d) Gold leaf potentiometer – (iv) Pierre Simon Laplace",
+    "options_en": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    ],
+    "explanation_en": "Thermo Flask - Sir James Dewar.\nCalorimeter - Pierre Simon Laplace & Lavoisier.\nLevel indicator - William Gilbert.\nGold leaf potentiometer - Abraham Bennett."
+  },
+  {
+    "id": 116,
+    "question": "ஒரு உலோகத்தின் தன் வெப்ப ஏற்புத்திறனின் மதிப்பு 200 $Jkg^{-1}K^{-1}$. 2 கி.கி. நிறையுள்ள உலோகத்தின் வெப்பநிலையை $125^{\\circ}C$ -லிருந்து $325^{\\circ}C$ -ஆக உயர்த்தத் தேவைப்படும் வெப்ப ஆற்றலின் மதிப்பைக் காண்க.",
+    "options": [
+      "40000 J",
+      "80000 J",
+      "8000 J",
+      "2000 J"
+    ],
+    "correct": 1,
+    "explanation": "தேவையான வெப்ப ஆற்றல் $Q = m \\times c \\times \\Delta T$.\n$m = 2$ kg, $c = 200$, $\\Delta T = 325 - 125 = 200^{\\circ}C$.\n$Q = 2 \\times 200 \\times 200 = 80000$ J.",
+    "question_en": "A metal's thermal conductivity is 200$Jkg^{-1}K^{-1}$. 2 kg Find the value of heat energy required to raise the temperature of the dense metal from$125^{\\circ}C$to $325^{\\circ}C$.",
+    "options_en": [
+      "40000 J",
+      "80000 J",
+      "8000 J",
+      "2000 J"
+    ],
+    "explanation_en": "Required heat energy$Q = m \\times c \\times \\Delta T$.\n$m = 2$kg,$c = 200$,$\\Delta T = 325 - 125 = 200^{\\circ}C$.\n$Q = 2 \\times 200 \\times 200 = 80000$J."
+  },
+  {
+    "id": 117,
+    "question": "பொருத்துக:\n(a) 1 ஏக்கர் - (i) 3.28 அடி\n(b) 1 ஹெக்டேர் - (ii) 10.76 சதுர அடி\n(c) 1 மீட்டர் - (iii) 4047 ச.மீ\n(d) 1 சதுர மீட்டர் - (iv) 2.47 ஏக்கர்",
+    "options": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+    ],
+    "correct": 0,
+    "explanation": "1 ஏக்கர் = 4047 ச.மீ (iii)\n1 ஹெக்டேர் = 2.47 ஏக்கர் (iv)\n1 மீட்டர் = 3.28 அடி (i)\n1 சதுர மீட்டர் = 10.76 சதுர அடி (ii)",
+    "question_en": "Match:\n(a) 1 acre - (i) 3.28 feet\n(b) 1 hectare - (ii) 10.76 sq.ft\n(c) 1 meter – (iii) 4047 cm\n(d) 1 square meter - (iv) 2.47 acres",
+    "options_en": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+    ],
+    "explanation_en": "1 acre = 4047 sq m (iii)\n1 hectare = 2.47 acres (iv)\n1 meter = 3.28 feet (i)\n1 square meter = 10.76 square feet (ii)"
+  },
+  {
+    "id": 118,
+    "question": "தமிழ்நாட்டில் பறத்தல் விளையாட்டிற்கு (Para gliding) ஏற்ற மலைச் சரிவுகளைக் கொண்டுள்ள மாவட்டம்:",
+    "options": [
+      "வேலூர்",
+      "சேலம்",
+      "திண்டுக்கல்",
+      "கோயம்புத்தூர்"
+    ],
+    "correct": 0,
+    "explanation": "வேலூர் மாவட்டத்தில் உள்ள ஏலகிரி (Yelagiri) மலைச்சரிவுகள் பாராகிளைடிங் (Para gliding) போன்ற சாகச விளையாட்டுகளுக்கு மிகவும் புகழ்பெற்றவை.",
+    "question_en": "Districts in Tamilnadu that have slopes suitable for Paragliding:",
+    "options_en": [
+      "Vellore",
+      "Salem",
+      "Dindigul",
+      "Coimbatore"
+    ],
+    "explanation_en": "The slopes of Yelagiri in Vellore district are famous for adventure sports like paragliding."
+  },
+  {
+    "id": 119,
+    "question": "மின்னியலில் பல நீண்ட மற்றும் சிறிய கோடுகளை அடுத்தடுத்து (---| |---) இணைத்து வரையப்படும் குறியீடு குறிப்பது:",
+    "options": [
+      "மின்கலம்",
+      "தொடுசாவி",
+      "மின்கல அடுக்கு",
+      "இணைப்புக் கம்பி"
+    ],
+    "correct": 2,
+    "explanation": "ஒன்றுக்கும் மேற்பட்ட மின்கலங்களை (Cells) இணைத்து உருவாக்கப்படுவதே மின்கல அடுக்கு (Battery) ஆகும். பல நீண்ட, சிறிய கோடுகள் மின்கல அடுக்கையே குறிக்கும்.",
+    "question_en": "In electricity, a symbol drawn by connecting several long and short lines in succession (---| |---) indicates:",
+    "options_en": [
+      "Battery",
+      "touch key",
+      "Battery layer",
+      "Connecting wire"
+    ],
+    "explanation_en": "A battery is made up of more than one cells. Several long, small lines represent the battery stack itself."
+  },
+  {
+    "id": 120,
+    "question": "$40^{\\circ}C$ -ஐ ஃபாரன்ஹீட் அளவீட்டிற்கு மாற்றவும்.",
+    "options": [
+      "$102^{\\circ}F$",
+      "$104^{\\circ}F$",
+      "$106^{\\circ}F$",
+      "$100^{\\circ}F$"
+    ],
+    "correct": 1,
+    "explanation": "$F = \\left(C \\times \\frac{9}{5}\\right) + 32$\n$F = \\left(40 \\times \\frac{9}{5}\\right) + 32 = 72 + 32 = 104^{\\circ}F$.",
+    "question_en": "Convert$40^{\\circ}C$to Fahrenheit.",
+    "options_en": [
+      "$102^{\\circ}F$",
+      "$104^{\\circ}F$",
+      "$106^{\\circ}F$",
+      "$100^{\\circ}F$"
+    ],
+    "explanation_en": "$F = \\left(C \\times \\frac{9}{5}\\right) + 32$ \n $F = \\left(40 \\times \\frac{9}{5}\\right) + 32 = 72 + 32 = 104^{\\circ}F$."
+  },
+  {
+    "id": 121,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "குவி ஆடி - ஆம்புலன்ஸ்",
+      "குழி ஆடி - சூரிய அடுப்பு",
+      "நியூட்டன் வட்டு - வாகனங்களின் முகப்பு விளக்கு",
+      "பின்னோக்கு ஆடி - நிறப்பிரிகை"
+    ],
+    "correct": 1,
+    "explanation": "சூரிய அடுப்புகளில் (Solar cooker) சூரியக் கதிர்களை ஒரு புள்ளியில் குவியச் செய்வதற்கு குழி ஆடிகள் (Concave mirror) பயன்படுத்தப்படுகின்றன.",
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Kwi Audi - Ambulance",
+      "Pit Adi - Solar oven",
+      "Newton's Disc - Headlight of vehicles",
+      "Retrospective - Chromatography"
+    ],
+    "explanation_en": "Concave mirrors are used in solar cookers to focus the sun's rays to a point."
+  },
+  {
+    "id": 122,
+    "question": "உலோகப் பண்புகளையும், அலோகப் பண்புகளையும் பெற்றுள்ள தனிமங்கள் _________ என அழைக்கப்படுகின்றன.",
+    "options": [
+      "உலோகக் கலவை",
+      "உலோகப் போலிகள்",
+      "சேர்மங்கள்",
+      "உலோகவியல்"
+    ],
+    "correct": 1,
+    "explanation": "உலோகம் மற்றும் அலோகங்களின் இரண்டு பண்புகளையும் வெளிப்படுத்தும் தனிமங்கள் உலோகப் போலிகள் (Metalloids) எனப்படும் (எ.கா: சிலிக்கான், ஜெர்மானியம்).",
+    "question_en": "Elements having metallic properties and non-metallic properties are called _________.",
+    "options_en": [
+      "Metal alloy",
+      "Metal forgings",
+      "Compounds",
+      "Metallurgy"
+    ],
+    "explanation_en": "Elements that exhibit both the properties of metals and nonmetals are called metalloids (eg: silicon, germanium)."
+  },
+  {
+    "id": 123,
+    "question": "வனஸ்பதி நெய் தயாரித்தலில் வினையூக்கியாக செயல்படுவது",
+    "options": [
+      "உலோக இரும்பு",
+      "ஈஸ்ட்",
+      "நிக்கல்",
+      "ஹைட்ரஜன் சல்பைடு"
+    ],
+    "correct": 2,
+    "explanation": "தாவர எண்ணெயை ஹைட்ரஜனேற்றம் (Hydrogenation) செய்து வனஸ்பதி நெய் (டால்டா) தயாரிக்கும் போது நிக்கல் (Nickel) வினையூக்கியாகப் பயன்படுகிறது.",
+    "question_en": "Acting as a catalyst in the manufacture of Vanaspati ghee",
+    "options_en": [
+      "Metallic iron",
+      "Yeast",
+      "Nickel",
+      "Hydrogen sulfide"
+    ],
+    "explanation_en": "Nickel is used as a catalyst during the hydrogenation of vegetable oil to produce vanaspati ghee."
+  },
+  {
+    "id": 124,
+    "question": "_________ உடன் கரித்தூள் சேர்த்து வெடிப்பொருள் தயாரிக்கப்படுகிறது.",
+    "options": [
+      "நைட்ரஜன்",
+      "ஹைட்ரோ கார்பன்",
+      "ஆக்ஸிஜன்",
+      "ஹைட்ரஜன்"
+    ],
+    "correct": 2,
+    "explanation": "திரவ ஆக்ஸிஜனுடன் (Liquid Oxygen) நுண் கரித்தூளைச் (Powdered charcoal) சேர்க்கும் போது அது ஒரு சக்திவாய்ந்த வெடிபொருளாகப் (Explosive) பயன்படுகிறது.",
+    "question_en": "Explosives are made by mixing charcoal powder with _________.",
+    "options_en": [
+      "Nitrogen",
+      "Hydrocarbon",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "explanation_en": "Powdered charcoal is used as a powerful explosive when mixed with liquid oxygen."
+  },
+  {
+    "id": 125,
+    "question": "உலர் பனிக்கட்டி (Dry Ice) என்பது:",
+    "options": [
+      "திடநிலையிலுள்ள ஆக்ஸிஜன்",
+      "திடநிலையிலுள்ள கார்பன்-டை-ஆக்ஸைடு",
+      "திடநிலையிலுள்ள நைட்ரஜன்",
+      "திடநிலையிலுள்ள ஹைட்ரஜன்"
+    ],
+    "correct": 1,
+    "explanation": "கார்பன்-டை-ஆக்ஸைடு (CO2) வாயுவை குளிச்சியடையச் செய்து திண்ம நிலைக்கு மாற்றியதே உலர் பனிக்கட்டி (Dry Ice) எனப்படும்.",
+    "question_en": "Dry Ice is:",
+    "options_en": [
+      "Oxygen in the solid state",
+      "Carbon-dioxide in solid state",
+      "Nitrogen in solid state",
+      "Hydrogen in the solid state"
+    ],
+    "explanation_en": "Dry ice is made by cooling carbon dioxide (CO2) gas and turning it into a solid state."
+  },
+  {
+    "id": 126,
+    "question": "கேதோடு கதிர்களின் பண்புகள் குறித்த தவறான கூற்றுகளைக் கண்டுபிடிக்கவும்.\n(a) கேதோடு கதிர்கள், நிறை மற்றும் இயக்க ஆற்றலற்ற துகள்களால் உருவாக்கப்பட்டவை.\n(b) கேதோடு கதிர்கள் நேர்கோட்டில் பயணிக்கின்றன.\n(c) கேதோடு கதிர்கள் நேர்மின் சுமையைப் பெற்றுள்ளன.\n(d) கேதோடு கதிர்கள் மின்புலம் மற்றும் காந்தப்புலத்தால் விலக்கமடைகின்றன.",
+    "options": [
+      "(a) மற்றும் (b)",
+      "(b) மற்றும் (c)",
+      "(a) மற்றும் (c)",
+      "(b), (c) மற்றும் (d)"
+    ],
+    "correct": 2,
+    "explanation": "கேதோடு கதிர்கள் எலக்ட்ரான்களால் ஆனவை. அவற்றுக்கு நிறையும் இயக்க ஆற்றலும் உண்டு (எனவே a தவறு). அவை எதிர்மின் சுமை பெற்றவை (எனவே c தவறு).",
+    "question_en": "Find false statements about the properties of cathode rays.\n(a) Cathode rays are made up of particles with no mass and no kinetic energy.\n(b) Cathode rays travel in a straight line.\n(c) Cathode rays are positively charged.\n(d) Cathode rays are repelled by electric field and magnetic field.",
+    "options_en": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(a) and (c)",
+      "(b), (c) and (d)"
+    ],
+    "explanation_en": "Cathode rays are made of electrons. They have mass and kinetic energy (so a is wrong). They are negatively charged (so c is wrong)."
+  },
+  {
+    "id": 127,
+    "question": "மாறா விகித விதியைக் (Law of Constant Proportion) கூறியவர்:",
+    "options": [
+      "ஜே.ஜே.தாம்சன்",
+      "லவாய்சியர்",
+      "ஜான் டால்டன்",
+      "ஜோசப் பிரௌஸ்ட்"
+    ],
+    "correct": 3,
+    "explanation": "எந்தவொரு வேதிச் சேர்மமும் எப்போதுமே ஒத்த தனிமங்களை குறிப்பிட்ட மாறாத நிறை விகிதத்தில் மட்டுமே கொண்டிருக்கும் என்ற விதியை ஜோசப் பிரௌஸ்ட் (Joseph Proust) வெளியிட்டார்.",
+    "question_en": "The Law of Constant Proportion was stated by:",
+    "options_en": [
+      "JJ Thompson",
+      "Lavoisier",
+      "John Dalton",
+      "Joseph Proust"
+    ],
+    "explanation_en": "Joseph Proust published the rule that any chemical compound always contains similar elements only in certain constant mass ratios."
+  },
+  {
+    "id": 128,
+    "question": "வேதியியல் மாற்றம் நிகழுவது:",
+    "options": [
+      "பால் தயிராக மாறுவது",
+      "குச்சி ஐஸ் உருகுதல்",
+      "படிகமாக்குதல்",
+      "ஒரு காகிதத்தைத் துண்டுகளாக்குதல்"
+    ],
+    "correct": 0,
+    "explanation": "பால் தயிராக மாறுவது ஒரு வேதியியல் மாற்றம் (Chemical change). இதில் பாலில் உள்ள லாக்டோஸ் லாக்டிக் அமிலமாக மாறுவதால் இதை மீண்டும் பாலாக மாற்ற இயலாது.",
+    "question_en": "A chemical change takes place in:",
+    "options_en": [
+      "Turning milk into curd",
+      "Melting stick ice",
+      "crystallization",
+      "Shredding a paper"
+    ],
+    "explanation_en": "Milk turning into curd is a chemical change. Lactose in milk is converted into lactic acid which cannot be converted back into milk."
+  },
+  {
+    "id": 129,
+    "question": "பொருத்துக.\n(a) எறும்பு - (i) கரிம அமிலம்\n(b) தாவரங்கள் மற்றும் விலங்குகள் - (ii) டார்டாரிக் அமிலம்\n(c) திராட்சை - (iii) லாக்டிக் அமிலம்\n(d) பால் - (iv) பார்மிக் அமிலம்",
+    "options": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    ],
+    "correct": 3,
+    "explanation": "எறும்பு - பார்மிக் அமிலம் (iv).\nதாவரங்கள், விலங்குகள் - கரிம அமிலம் (i).\nதிராட்சை - டார்டாரிக் அமிலம் (ii).\nபால் - லாக்டிக் அமிலம் (iii).",
+    "question_en": "match\n(a) Ant - (i) Organic acid\n(b) Plants and animals – (ii) Tartaric acid\n(c) Grapes – (iii) Lactic acid\n(d) Milk - (iv) Formic acid",
+    "options_en": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    ],
+    "explanation_en": "Ant - Formic acid (iv).\nPlants, animals – organic acid (i).\nGrapes – Tartaric acid (ii).\nMilk – lactic acid (iii)."
+  },
+  {
+    "id": 130,
+    "question": "ஹைட்ராஞ்ஜியா மேக்ரோபைலா காரத்தன்மையுள்ள (Basic) மண்ணில் எந்த வண்ணத்தில் பூக்கும்.",
+    "options": [
+      "ஊதா (Pink)",
+      "நீலம் (Blue)",
+      "வெள்ளை",
+      "மஞ்சள்"
+    ],
+    "correct": 0,
+    "explanation": "ஹைட்ராஞ்ஜியா மலர்கள் மண்ணின் தன்மையைப் பொறுத்து நிறம் மாறும். அமில மண்ணில் நீல நிறத்திலும், காரத்தன்மையுள்ள (Basic/Alkaline) மண்ணில் ஊதா அல்லது இளஞ்சிவப்பு (Pink) நிறத்திலும் பூக்கும்.",
+    "question_en": "Hydrangea macrophylla will bloom in any color in alkaline (Basic) soil.",
+    "options_en": [
+      "Pink",
+      "Blue",
+      "White",
+      "Yellow"
+    ],
+    "explanation_en": "Hydrangea flowers change color depending on soil conditions. Blooms blue in acid soil and purple or pink in basic/alkaline soil."
+  },
+  {
+    "id": 131,
+    "question": "திரவப் பெட்ரோலிய வாயு (LPG) என்பது:",
+    "options": [
+      "ஆக்ஸிஜன் 35% புரோப்பேன் 65%",
+      "மீத்தேன் 45% பியூட்டேன் 55%",
+      "புரோப்பேன் 15% பியூட்டேன் 85%",
+      "ஆக்ஸிஜன் 25% ஹைட்ரஜன் 75%"
+    ],
+    "correct": 2,
+    "explanation": "நமது வீடுகளில் பயன்படுத்தப்படும் சமையல் எரிவாயுவான LPG-ல் 15% புரோப்பேன் மற்றும் 85% பியூட்டேன் வாயுக்கள் அழுத்தப்பட்டு திரவ நிலையில் அடைக்கப்பட்டுள்ளன.",
+    "question_en": "Liquefied Petroleum Gas (LPG) is:",
+    "options_en": [
+      "Oxygen 35% Propane 65%",
+      "Methane 45% Butane 55%",
+      "Propane 15% Butane 85%",
+      "Oxygen 25% Hydrogen 75%"
+    ],
+    "explanation_en": "LPG, the cooking gas used in our homes, contains 15% propane and 85% butane gases compressed into liquid form."
+  },
+  {
+    "id": 132,
+    "question": "சுற்றுச்சூழலைப் பாதிக்காத வாயு:",
+    "options": [
+      "இயற்கை வாயு",
+      "கார்பன்டை ஆக்ஸைடு வாயு",
+      "கார்பன் மோனாக்சைடு வாயு",
+      "நைட்ரஜன் வாயு"
+    ],
+    "correct": 3,
+    "explanation": "வளிமண்டலத்தில் 78% இயற்கையாகவே நிறைந்திருக்கும் நைட்ரஜன் வாயு எந்தவித சூழல் பாதிப்பையோ, வெப்பமயமாதலையோ ஏற்படுத்துவதில்லை.",
+    "question_en": "Environmentally friendly gas:",
+    "options_en": [
+      "Natural gas",
+      "Carbon dioxide gas",
+      "Carbon monoxide gas",
+      "Nitrogen gas"
+    ],
+    "explanation_en": "Nitrogen gas, which is 78% naturally occurring in the atmosphere, does not cause any environmental damage or warming."
+  },
+  {
+    "id": 133,
+    "question": "பொருத்துக பாக்டீரியாவின் வடிவங்கள்:\n(a) பந்து வடிவ - (i) பேசில்லஸ் ஆந்த்ராசிஸ்\n(b) சுருள் வடிவ - (ii) விப்ரியோ காலரா\n(c) கமா வடிவ - (iii) ஸ்ட்ரெப்டோ காக்கஸ் நிமோனியா\n(d) கோல் வடிவ - (iv) ஹெலிகோபாக்டர் பைலோரி",
+    "options": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "correct": 0,
+    "explanation": "பந்து வடிவம் (Coccus) - ஸ்ட்ரெப்டோ காக்கஸ் (iii)\nசுருள் வடிவம் (Spirillum) - ஹெலிகோபாக்டர் பைலோரி (iv)\nகமா வடிவம் (Vibrio) - விப்ரியோ காலரா (ii)\nகோல் வடிவம் (Bacillus) - பேசில்லஸ் ஆந்த்ராசிஸ் (i)",
+    "question_en": "Forms of compatible bacteria:\n(a) Ball-shaped - (i) Bacillus anthracis\n(b) Coiled – (ii) Vibrio cholerae\n(c) Comma-shaped – (iii) Streptococcus pneumoniae\n(d) Rod shaped – (iv) Helicobacter pylori",
+    "options_en": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "explanation_en": "Ball form (Coccus) – Streptococcus (iii)\nSpirillum – Helicobacter pylori (iv)\nComma form (Vibrio) – Vibrio cholerae (ii)\nBacillus anthracis (i)"
+  },
+  {
+    "id": 134,
+    "question": "மனிதனின் குடலில் வாழும் எ.கோலை (E.Coli) பாக்டீரியம் _________ மற்றும் _________ உற்பத்தி செய்வதில் உதவுகிறது.",
+    "options": [
+      "வைட்டமின் A மற்றும் E",
+      "வைட்டமின் B மற்றும் C",
+      "வைட்டமின் K மற்றும் B கூட்டுப்பொருள்கள்",
+      "வைட்டமின் A மற்றும் D"
+    ],
+    "correct": 2,
+    "explanation": "நமது பெருங்குடலில் வாழும் E.Coli பாக்டீரியாக்கள் உணவு செரிமானத்திற்கு உதவுவதோடு, வைட்டமின் K மற்றும் வைட்டமின் B-காம்ப்ளக்ஸ் ஆகியவற்றை உற்பத்தி செய்கின்றன.",
+    "question_en": "The E.Coli bacteria that live in the human intestine helps in the production of _________ and _________.",
+    "options_en": [
+      "Vitamin A and E",
+      "Vitamin B and C",
+      "Vitamin K and B complexes",
+      "Vitamin A and D"
+    ],
+    "explanation_en": "E.Coli bacteria that live in our colon help with food digestion and produce vitamin K and vitamin B-complex."
+  },
+  {
+    "id": 135,
+    "question": "பாசிகளை குறித்த தவறான கூற்றுகளைத் தேர்ந்தெடுக்கவும்.\n(a) தாவர மிதவை நுண்ணுயிர்கள் எனப்படும் பாசிகள் மிகவும் நுண்ணியவை மற்றும் நீரின் மேற்பரப்பில் மிதந்துக் கொண்டிருப்பவை.\n(b) பழுப்புப் பாசிகள் புரதத்தை உற்பத்தி செய்ய உதவுகின்றன.\n(c) சிவப்புப் பாசிகளிலிருந்து எடுக்கப்படுவது அகர் அகர் எனப்படுகிறது. இது ஆய்வகங்களில் வளர்ச்சி ஊக்கியாக விளங்குகிறது.\n(d) நீலப்பச்சைப் பாசிகளிலிருந்து அயோடின் பெறப்படுகிறது.",
+    "options": [
+      "(b) மற்றும் (d) மட்டும்",
+      "(a) மற்றும் (c) மட்டும்",
+      "(b) மற்றும் (c) மட்டும்",
+      "(c) மற்றும் (d) மட்டும்"
+    ],
+    "correct": 0,
+    "explanation": "புரத உற்பத்திக்கு ஸ்பைருலினா போன்ற நீலப்பச்சை/பச்சை பாசிகள் பயன்படுகின்றன (b தவறு). அயோடின் லாமினேரியா போன்ற பழுப்புப் பாசிகளிலிருந்து பெறப்படுகிறது (d தவறு).",
+    "question_en": "Select the false statements about algae.\n(a) Algae called phytoplankton are very microscopic and float on the surface of water.\n(b) Brown algae help in the production of protein.\n(c) Agar extracted from red algae is called agar. It works as a growth promoter in laboratories.\n(d) Iodine is obtained from blue-green algae.",
+    "options_en": [
+      "(b) and (d) only",
+      "(a) and (c) only",
+      "(b) and (c) only",
+      "(c) and (d) only"
+    ],
+    "explanation_en": "Blue-green/green algae such as spirulina are used for protein production (b is false). Iodine is obtained from brown algae such as laminaria (d is wrong)."
+  },
+  {
+    "id": 136,
+    "question": "'தாவர உலகத்தின் இரு வாழ்விகள்' (Amphibians of the plant kingdom) என அழைக்கப்படுவது எது?",
+    "options": [
+      "டெரிடோஃபைட்டுகள்",
+      "பிரையோஃபைட்டுகள்",
+      "ஜிம்னோஸ்பெர்ம்கள்",
+      "ஆஞ்சியோஸ்பெர்ம்கள்"
+    ],
+    "correct": 1,
+    "explanation": "பிரையோஃபைட்டுகள் நிலத்தில் வாழ்ந்தாலும், அவற்றின் இனப்பெருக்கத்திற்கு நீர் கட்டாயம் தேவைப்படுவதால் அவை தாவர உலகத்தின் இருவாழ்விகள் எனப்படுகின்றன.",
+    "question_en": "What is called 'Amphibians of the plant kingdom'?",
+    "options_en": [
+      "Pterophytes",
+      "Bryophytes",
+      "Gymnosperms",
+      "Angiosperms"
+    ],
+    "explanation_en": "Although bryophytes live on land, they are called amphipods of the plant world because they require water for their reproduction."
+  },
+  {
+    "id": 137,
+    "question": "'கண்ணின் வெண்மை பகுதி' என அழைக்கப்படுவது:",
+    "options": [
+      "பியூபில்",
+      "ஐரிஸ்",
+      "ஸ்கெலீரா",
+      "கார்னியா"
+    ],
+    "correct": 2,
+    "explanation": "நமது கண்களின் வெளியுறையாக உள்ள கடினமான மற்றும் பாதுகாப்பான வெண்மையான பகுதி ஸ்கெலீரா (Sclera) என்று அழைக்கப்படுகிறது.",
+    "question_en": "The so-called 'white of the eye' is:",
+    "options_en": [
+      "Pupil",
+      "Iris",
+      "Sclera",
+      "Cornea"
+    ],
+    "explanation_en": "The hard and protective white layer of the outer covering of our eyes is called the sclera."
+  },
+  {
+    "id": 138,
+    "question": "பொருத்துக:\n(a) சினோவியல் திரவம் - (i) நீளமான அச்சை மட்டுமே பற்றி சுழல அனுமதிக்கிறது\n(b) கீல் மூட்டு - (ii) எலும்புடன் எலும்பை இணைக்கிறது\n(c) சுழலச்சு மூட்டு - (iii) மூட்டுகளை வளைக்கவும் நேராக்கவும் மட்டுமே அனுமதிக்கிறது\n(d) தசைநார் (Ligament) - (iv) மூட்டுகளிலுள்ள குறுத்தெலும்புகளுக்கு இடையிலான உராய்வைக் குறைக்கிறது",
+    "options": [
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    ],
+    "correct": 0,
+    "explanation": "சினோவியல் திரவம் மூட்டுகளின் உராய்வைக் குறைக்கும் (iv). கீல் மூட்டு (Hinge joint) முழங்கால் போன்று வளைக்க மட்டுமே உதவும் (iii). சுழலச்சு மூட்டு சுழல உதவும் (i). தசைநார் எலும்புகளை இணைக்கும் (ii).",
+    "question_en": "Match:\n(a) Synovial fluid – (i) Allows rotation about longitudinal axis only\n(b) Hinge joint – (ii) Connects bone to bone\n(c) Revolving joint – (iii) allows only bending and straightening of the joint\n(d) Ligament – (iv) Reduces friction between cartilages in joints",
+    "options_en": [
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+    ],
+    "explanation_en": "Synovial fluid reduces joint friction (iv). Hinge joint only helps in bending like knee (iii). The rotator cuff helps rotate the joint (i). Ligaments connect bones (ii)."
+  },
+  {
+    "id": 139,
+    "question": "தவறான இணையைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "ஃபீமர் - வலிமையான எலும்பு",
+      "கால் விரல்கள் - டார்சல்கள்",
+      "முழங்கால் - பட்டெல்லா",
+      "ஸ்டேபஸ் - லேசான எலும்பு"
+    ],
+    "correct": 1,
+    "explanation": "கால் விரல் எலும்புகள் 'பாலஞ்சஸ்' (Phalanges) என்று அழைக்கப்படும். 'டார்சல்கள்' (Tarsals) என்பவை கணுக்கால் எலும்புகளாகும். எனவே இது தவறான இணை.",
+    "question_en": "Choose the wrong pair:",
+    "options_en": [
+      "Femur - strong bone",
+      "Toes - tarsals",
+      "Knee - Patella",
+      "Stapus - light bone"
+    ],
+    "explanation_en": "The toe bones are called 'Phalanges'. 'Tarsals' are the ankle bones. So it's a false parallel."
+  },
+  {
+    "id": 140,
+    "question": "விலங்குகளின் தோலில் இருந்து பெறப்படும் தடித்த உரோமங்கள் _________ ஆல் ஆனது.",
+    "options": [
+      "கொழுப்பு",
+      "புரதம்",
+      "கார்போஹைட்ரேட்",
+      "பொட்டாசியம்"
+    ],
+    "correct": 1,
+    "explanation": "விலங்குகளின் தோல் மற்றும் உரோமங்களில் கெராட்டின் (Keratin) என்ற ஒரு வகையான புரதம் (Protein) நிறைந்துள்ளது.",
+    "question_en": "Thick hairs obtained from animal skins are made of _________.",
+    "options_en": [
+      "Fat",
+      "protein",
+      "Carbohydrate",
+      "Potassium"
+    ],
+    "explanation_en": "Animal skin and fur are rich in a type of protein called keratin."
+  },
+  {
+    "id": 141,
+    "question": "தமிழ்நாட்டின் மாநில விலங்கு:",
+    "options": [
+      "வரையாடு",
+      "செம்மறி ஆடு",
+      "வெள்ளாடு",
+      "லாமா"
+    ],
+    "correct": 0,
+    "explanation": "மேற்குத் தொடர்ச்சி மலைகளில் குறிப்பாக நீலகிரி மலையில் வாழக்கூடிய 'நீலகிரி வரையாடு' (Nilgiri Tahr) தமிழ்நாட்டின் மாநில விலங்காகும்.",
+    "question_en": "State Animal of Tamil Nadu:",
+    "options_en": [
+      "Draft",
+      "Sheep",
+      "Goat",
+      "Llama"
+    ],
+    "explanation_en": "The Nilgiri Tahr is the state animal of Tamil Nadu which lives in the Western Ghats especially in the Nilgiri Hills."
+  },
+  {
+    "id": 142,
+    "question": "பொருத்துக:\n(a) தூண் வேர்கள் - (i) வாண்டா\n(b) முண்டு வேர்கள் - (ii) ஆலமரம்\n(c) ஒட்டுண்ணி வேர்கள் - (iii) கரும்பு\n(d) தொற்று வேர்கள் - (iv) கஸ்குட்டா",
+    "options": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    ],
+    "correct": 0,
+    "explanation": "தூண் வேர்கள் - ஆலமரம் (ii)\nமுண்டு வேர்கள் - கரும்பு, மக்காச்சோளம் (iii)\nஒட்டுண்ணி வேர்கள் - கஸ்குட்டா (iv)\nதொற்று வேர்கள் - வாண்டா (i)",
+    "question_en": "Match:\n(a) Pillar roots — (i) Vanda\n(b) Stem roots – (ii) Banyan\n(c) Parasitic roots – (iii) Sugarcane\n(d) Infectious roots – (iv) Cuscuta",
+    "options_en": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    ],
+    "explanation_en": "Pillar Roots – Banyan (ii)\nTubers – sugarcane, maize (iii)\nParasitic Roots – Cuscuta (iv)\nInfectious Roots – Vanda (i)"
+  },
+  {
+    "id": 143,
+    "question": "கூற்று : நெப்பன்தஸில், இலை முழுமையாக மாறுபாடு அடைந்து குடுவை வடிவத்தில் இருக்கும்.\nகாரணம் : தாவரத்தின் பாதுகாப்பிற்காக இம்மாறுபாடு உள்ளது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் தவறு.",
+      "கூற்று சரி, ஆனால் காரணம் கூற்றை விளக்கவில்லை.",
+      "கூற்று சரி, காரணம் கூற்றை விளக்குகிறது."
+    ],
+    "correct": 2,
+    "explanation": "நெப்பன்தஸ் (Nepenthes) தாவரத்தில் இலை குடுவையாக மாறியிருப்பது உண்மை. ஆனால் இது பாதுகாப்பிற்காக அல்ல, பூச்சிகளைப் பிடித்து நைட்ரஜன் சத்தைப் பெறுவதற்காகும். எனவே காரணம் தவறு.",
+    "question_en": "Assertion : In Nepanthus, the leaf is fully variegated and flask-shaped.\nReason: This variation is for the protection of the plant.",
+    "options_en": [
+      "The statement and reason are correct.",
+      "The statement and reason are false.",
+      "The statement is correct, but the reason does not explain the statement.",
+      "The statement is true, the reason explains the statement."
+    ],
+    "explanation_en": "It is true that in Nepenthes the leaf has become a receptacle. But this is not for protection, but for catching insects and obtaining nitrogenous nutrients. So the reason is wrong."
+  },
+  {
+    "id": 144,
+    "question": "பாஸ்டியர் முறையில் பாலை குறிப்பிட்ட நேரம் வரை காய்ச்ச எடுத்துக்கொள்ளும் வெப்பநிலை",
+    "options": [
+      "$55^{\\circ}C - 60^{\\circ}C$",
+      "$70^{\\circ}C - 75^{\\circ}C$",
+      "$80^{\\circ}C - 85^{\\circ}C$",
+      "$60^{\\circ}C - 65^{\\circ}C$"
+    ],
+    "correct": 1,
+    "explanation": "பாஸ்டியரைசேஷன் (Pasteurization) முறையில் பாலை $70^{\\circ}C$ முதல் $75^{\\circ}C$ வரை 15 முதல் 30 வினாடிகள் காய்ச்சி, பின் உடனடியாகக் குளிரவைக்கப்படும்.",
+    "question_en": "Pasteurization is the temperature at which milk is boiled for a specified period of time",
+    "options_en": [
+      "$55^{\\circ}C - 60^{\\circ}C$",
+      "$70^{\\circ}C - 75^{\\circ}C$",
+      "$80^{\\circ}C - 85^{\\circ}C$",
+      "$60^{\\circ}C - 65^{\\circ}C$"
+    ],
+    "explanation_en": "Pasteurization involves boiling the milk from$70^{\\circ}C$to$75^{\\circ}C$for 15 to 30 seconds and then cooling it immediately."
+  },
+  {
+    "id": 145,
+    "question": "குளுக்கோஸ் + உயிர்வளி $\\rightarrow$ ? (செல் சுவாசம்)",
+    "options": [
+      "கரியமிலவாயு",
+      "கரியமில வாயு + நீர்",
+      "கரியமிலவாயு + நீர் + ஆற்றல்",
+      "கரியமிலவாயு + ஆற்றல்"
+    ],
+    "correct": 2,
+    "explanation": "செல் சுவாசத்தில் (Cellular respiration) குளுக்கோஸ் ஆக்ஸிஜனுடன் (உயிர்வளி) வினைபுரிந்து கரியமில வாயு (CO2), நீர் (H2O) மற்றும் ஆற்றலை (ATP) உருவாக்குகிறது.",
+    "question_en": "Glucose + Vitality$\\rightarrow$? (cellular respiration)",
+    "options_en": [
+      "Carbon dioxide",
+      "Carbon dioxide + water",
+      "Carbon + Water + Energy",
+      "Carbon dioxide + energy"
+    ],
+    "explanation_en": "In cellular respiration, glucose reacts with oxygen (life cycle) to produce carbon dioxide (CO2), water (H2O) and energy (ATP)."
+  },
+  {
+    "id": 146,
+    "question": "பல்லவர் கால கோயில்களில் இரண்டாம் வகை:",
+    "options": [
+      "ஒற்றைக்கல் இரதங்கள்",
+      "இராஜசிம்மன் வகை",
+      "கட்டுமான கோயில்கள்",
+      "பாறைக்குடைவு கோயில்கள்"
+    ],
+    "correct": 0,
+    "explanation": "பல்லவர் காலக் கட்டிடக்கலையின் முதல் வகை மகேந்திரவர்மனின் குடைவரைக் கோயில்கள். இரண்டாம் வகை மாமல்லனின் ஒற்றைக்கல் இரதங்கள் (Monolithic Rathas) ஆகும்.",
+    "question_en": "Second type of Pallavar Temples:",
+    "options_en": [
+      "Monolithic chariots",
+      "Rajasimhan type",
+      "Construction temples",
+      "Rock-cut temples"
+    ],
+    "explanation_en": "The first type of Pallavar architecture is the Kudaivara temples of Mahendravarman. The second type is the Monolithic Rathas of Mamalla."
+  },
+  {
+    "id": 147,
+    "question": "டங்கா என்ற வெள்ளி நாணயம் மற்றும் ஜிடால் என்ற செம்பு நாணயத்தினை வெளியிட்டவர்:",
+    "options": [
+      "இல்துமிஷ்",
+      "குதுபுதீன் ஐபெக்",
+      "பால்பன்",
+      "சுல்தானா இரசியா"
+    ],
+    "correct": 0,
+    "explanation": "டெல்லி சுல்தானிய அரசரான இல்துமிஷ் (Iltutmish) அரேபிய நாணய முறையை இந்தியாவில் அறிமுகப்படுத்தி, 'டங்கா' மற்றும் 'ஜிடால்' நாணயங்களை வெளியிட்டார்.",
+    "question_en": "A silver coin called Tanga and a copper coin called Jidal were issued by:",
+    "options_en": [
+      "Iltumish",
+      "Qutubuddin Ibek",
+      "Balban",
+      "Sultana is Russia"
+    ],
+    "explanation_en": "Delhi Sultanate King Iltutmish introduced Arabic coinage in India and issued 'Danga' and 'Jital' coins."
+  },
+  {
+    "id": 148,
+    "question": "_________ என்பவரின் மகள் ரசியா சுல்தானா.",
+    "options": [
+      "இல்துமிஷ்",
+      "முகமது கோரி",
+      "முகமது கஜினி",
+      "குதுபுதீன் ஐபெக்"
+    ],
+    "correct": 0,
+    "explanation": "டெல்லியை ஆண்ட முதல் மற்றும் ஒரே இஸ்லாமியப் பெண் அரசியான ரசியா சுல்தானா, சுல்தான் இல்துமிஷின் மகளாவார்.",
+    "question_en": "Razia Sultana was the daughter of _________.",
+    "options_en": [
+      "Iltumish",
+      "Mohammad Kori",
+      "Mohammed Ghazni",
+      "Qutubuddin Ibek"
+    ],
+    "explanation_en": "Razia Sultana, the first and only Muslim woman ruler of Delhi, was the daughter of Sultan Iltumish."
+  },
+  {
+    "id": 149,
+    "question": "முதலாம் தரெய்ன் போர் நடைபெற்ற ஆண்டு:",
+    "options": [
+      "1193 கி.பி.",
+      "1191 கி.பி.",
+      "1192 கி.பி.",
+      "1198 கி.பி."
+    ],
+    "correct": 1,
+    "explanation": "கி.பி. 1191-ல் நடைபெற்ற முதலாம் தரெய்ன் போரில் பிருத்விராஜ் சௌகான் முகமது கோரியைத் தோற்கடித்தார்.",
+    "question_en": "Year of First Battle of Tarain:",
+    "options_en": [
+      "1193 AD",
+      "1191 AD",
+      "1192 AD",
+      "1198 AD"
+    ],
+    "explanation_en": "AD In 1191, Prithviraj Chauhan defeated Muhammad Ghori in the First Battle of Tarain."
+  },
+  {
+    "id": 150,
+    "question": "கி.பி. 1565 -ல் நடைபெற்ற தலைக்கோட்டைப் போரில் தோற்கடிக்கப்பட்டவர்:",
+    "options": [
+      "ஹரிகரர்",
+      "புக்கர்",
+      "கிருஷ்ணதேவராயர்",
+      "ராமராயர்"
+    ],
+    "correct": 3,
+    "explanation": "தலைக்கோட்டைப் போரில் தக்காண சுல்தான்களின் கூட்டுப்படையிடம் விஜயநகரப் பேரரசின் அரசர் ராமராயர் (Ramaraya) தோற்கடிக்கப்பட்டுக் கொல்லப்பட்டார்.",
+    "question_en": "AD Defeated in the Battle of Thalikot in 1565:",
+    "options_en": [
+      "Harikar",
+      "Booker",
+      "Krishnadevaraya",
+      "Rama Raya"
+    ],
+    "explanation_en": "Ramaraya, the king of the Vijayanagara Empire, was defeated and killed by the combined forces of the Deccan Sultans in the Battle of Talikot."
+  },
+  {
+    "id": 151,
+    "question": "இந்திய தேசிய ஆவணக்காப்பகம் அமைந்துள்ள இடம்:",
+    "options": [
+      "புது தில்லி",
+      "மும்பை",
+      "கொல்கத்தா",
+      "சென்னை"
+    ],
+    "correct": 0,
+    "explanation": "இந்தியாவின் வரலாற்று ஆவணங்கள் அனைத்தையும் பாதுகாக்கும் 'இந்திய தேசிய ஆவணக் காப்பகம்' (National Archives of India) புது தில்லியில் அமைந்துள்ளது.",
+    "question_en": "National Archives of India is located at:",
+    "options_en": [
+      "New Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "explanation_en": "The National Archives of India is located in New Delhi and preserves all the historical documents of India."
+  },
+  {
+    "id": 152,
+    "question": "எந்த மதிப்பிலான ரூபாய் நோட்டினை முதன்முதலாக இந்திய ரிசர்வ் வங்கி வெளியிட்டது?",
+    "options": [
+      "ஒரு ரூபாய் நோட்டு",
+      "இரண்டு ரூபாய் நோட்டு",
+      "ஐந்து ரூபாய் நோட்டு",
+      "பத்து ரூபாய் நோட்டு"
+    ],
+    "correct": 2,
+    "explanation": "இந்திய ரிசர்வ் வங்கி (RBI) 1938-ஆம் ஆண்டு ஜனவரி மாதம் முதன்முதலில் ஆறாம் ஜார்ஜ் மன்னரின் உருவம் பொறிக்கப்பட்ட 'ஐந்து ரூபாய்' நோட்டை வெளியிட்டது.",
+    "question_en": "Reserve Bank of India issued the first currency note of which denomination?",
+    "options_en": [
+      "One rupee note",
+      "A two rupee note",
+      "Five rupee note",
+      "Ten rupee note"
+    ],
+    "explanation_en": "The Reserve Bank of India (RBI) issued the first 'five rupee' note in January 1938 bearing the image of King George VI."
+  },
+  {
+    "id": 153,
+    "question": "பொருத்துக:\n(a) பிளாசிப் போர் - (i) 1760\n(b) பக்சார் போர் - (ii) 1757\n(c) வந்தவாசிப் போர் - (iii) 1751\n(d) ஆற்காட்டுப் போர் - (iv) 1764",
+    "options": [
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    ],
+    "correct": 1,
+    "explanation": "ஆற்காட்டுப் போர் - 1751 (iii)\nபிளாசிப் போர் - 1757 (ii)\nவந்தவாசிப் போர் - 1760 (i)\nபக்சார் போர் - 1764 (iv)",
+    "question_en": "Match:\n(a) Battle of Plasip — (i) 1760\n(b) Battle of Buxar – (ii) 1757\n(c) Vandavasi War – (iii) 1751\n(d) War of Arcot – (iv) 1764",
+    "options_en": [
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    ],
+    "explanation_en": "War of Arcot – 1751 (iii)\nBattle of Plassip – 1757 (ii)\nWar of Vandavasi - 1760 (i)\nBattle of Buxar - 1764 (iv)"
+  },
+  {
+    "id": 154,
+    "question": "இந்திய ஆட்சிப்பணி சட்டம் (Indian Civil Services Act) இயற்றப்பட்ட ஆண்டு :",
+    "options": [
+      "1862",
+      "1861",
+      "1859",
+      "1857"
+    ],
+    "correct": 1,
+    "explanation": "பிரிட்டிஷ் பாராளுமன்றத்தில் 1861-ஆம் ஆண்டு இந்திய குடிமைப்பணிச் சட்டம் (ICS Act) நிறைவேற்றப்பட்டது.",
+    "question_en": "Indian Civil Services Act was passed in the year:",
+    "options_en": [
+      "1862",
+      "1861",
+      "1859",
+      "1857"
+    ],
+    "explanation_en": "The British Parliament passed the Indian Civil Service Act (ICS Act) in 1861."
+  },
+  {
+    "id": 155,
+    "question": "1928 ஆம் ஆண்டு, பர்தோலி விவசாயிகள் _________ தலைமையில் தங்கள் எதிர்ப்பினைத் தெரிவித்தனர்.",
+    "options": [
+      "கேஷப் சந்திரராய்",
+      "வல்லபாய் பட்டேல்",
+      "காந்திஜி",
+      "விஷ்ணு பிஸ்வாஸ்"
+    ],
+    "correct": 1,
+    "explanation": "குஜராத்தில் உள்ள பர்தோலியில் நிலவரி உயர்வை எதிர்த்து சர்தார் வல்லபாய் பட்டேல் தலைமையில் மாபெரும் விவசாயிகள் போராட்டம் நடைபெற்றது.",
+    "question_en": "In 1928, Bartholi farmers protested under the leadership of _________.",
+    "options_en": [
+      "Keshab Chandrarai",
+      "Vallabhbhai Patel",
+      "Gandhiji",
+      "Vishnu Biswas"
+    ],
+    "explanation_en": "Sardar Vallabhbhai Patel led a massive farmers' protest against the rise in rent in Bartholi, Gujarat."
+  },
+  {
+    "id": 156,
+    "question": "_________ ஆம் ஆண்டின் சர் சார்லஸ் உட்ஸ் கல்வி அறிக்கை, இந்தியாவில் ஆங்கிலக் கல்வியின் \"மகாசாசனம்\" என்று அழைக்கப் படுகிறது.",
+    "options": [
+      "1854",
+      "1856",
+      "1864",
+      "1866"
+    ],
+    "correct": 0,
+    "explanation": "1854-ஆம் ஆண்டு வெளியிடப்பட்ட சார்லஸ் உட்ஸ் கல்வி அறிக்கை (Wood's Despatch) இந்தியாவில் நவீன கல்வி முறையின் அடித்தளமாக அமைந்தது.",
+    "question_en": "The Sir Charles Woods Education Report of _________ is known as the \"Education Charter\" of English Education in India.",
+    "options_en": [
+      "1854",
+      "1856",
+      "1864",
+      "1866"
+    ],
+    "explanation_en": "Charles Wood's Despatch published in 1854 became the foundation of modern education system in India."
+  },
+  {
+    "id": 157,
+    "question": "கல்வி உரிமைச் சட்டம் (RTE) நடைமுறைப் படுத்தப்பட்ட ஆண்டு :",
+    "options": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "correct": 2,
+    "explanation": "இந்தியாவில் அனைவருக்கும் இலவச மற்றும் கட்டாயக் கல்வி உரிமைச் சட்டம் ஏப்ரல் 1, 2010 அன்று நாடு முழுவதும் நடைமுறைக்கு வந்தது.",
+    "question_en": "Year of implementation of Right to Education Act (RTE):",
+    "options_en": [
+      "2008",
+      "2009",
+      "2010",
+      "2011"
+    ],
+    "explanation_en": "India's Right to Free and Compulsory Education for All Act came into effect on April 1, 2010 across the country."
+  },
+  {
+    "id": 158,
+    "question": "சென்னை பல்கலைக் கழகம் நிறுவப்பட்ட ஆண்டு :",
+    "options": [
+      "1857",
+      "1867",
+      "1853",
+      "1855"
+    ],
+    "correct": 0,
+    "explanation": "உட்ஸ் கல்வி அறிக்கையின் பரிந்துரைப்படி லண்டன் பல்கலைக்கழக மாடலில் சென்னை, பம்பாய், கொல்கத்தா பல்கலைக்கழகங்கள் 1857-ல் உருவாக்கப்பட்டன.",
+    "question_en": "Year of Establishment of University of Chennai:",
+    "options_en": [
+      "1857",
+      "1867",
+      "1853",
+      "1855"
+    ],
+    "explanation_en": "The Universities of Chennai, Bombay and Calcutta were established in 1857 on the London University model as recommended by the Woods Report on Education."
+  },
+  {
+    "id": 159,
+    "question": "_________ ஆம் ஆண்டு ஜாம்ஷெட்பூரில் TISCO அமைக்கப் பட்டது.",
+    "options": [
+      "1907",
+      "1911",
+      "1912",
+      "1870"
+    ],
+    "correct": 0,
+    "explanation": "டாடா இரும்பு மற்றும் எஃகு நிறுவனம் (TISCO) ஜாம்ஷெட்ஜி டாடா என்பவரால் 1907 ஆம் ஆண்டு பீகாரில் (தற்போதைய ஜார்கண்ட்) உள்ள ஜாம்ஷெட்பூரில் நிறுவப்பட்டது.",
+    "question_en": "TISCO was established in Jamshedpur in _________.",
+    "options_en": [
+      "1907",
+      "1911",
+      "1912",
+      "1870"
+    ],
+    "explanation_en": "Tata Iron and Steel Company (TISCO) was founded by Jamshedji Tata in 1907 at Jamshedpur in Bihar (now Jharkhand)."
+  },
+  {
+    "id": 160,
+    "question": "இந்தியாவில் உள்ள ஒரே ஒரு செயல்படும் எரிமலை உள்ள இடம்:",
+    "options": [
+      "ஹவாய் தீவு",
+      "பாரன் தீவு",
+      "நார்கண்டம் தீவு",
+      "ஐஸ்லாந்து"
+    ],
+    "correct": 1,
+    "explanation": "அந்தமான் நிக்கோபார் தீவுக் கூட்டத்தில் உள்ள பாரன் தீவு (Barren Island) மட்டுமே இந்தியாவில் உள்ள ஒரே செயல்படும் எரிமலையாகும்.",
+    "question_en": "The only active volcano in India is:",
+    "options_en": [
+      "Island of Hawaii",
+      "Barren Island",
+      "Norkandam Island",
+      "Iceland"
+    ],
+    "explanation_en": "Barren Island in the Andaman and Nicobar Islands group is the only active volcano in India."
+  },
+  {
+    "id": 161,
+    "question": "பாலைவனச் சூழலில் காற்றினால் அரிக்கப்பட்டு நீண்ட மலைத்தொடர் போல காணப்படும் நிலத்தோற்றம்",
+    "options": [
+      "இன்சல்பர்க்குகள்",
+      "சூகன்",
+      "மேசா",
+      "யார்டாங்"
+    ],
+    "correct": 3,
+    "explanation": "காற்றின் அரிப்புச் செயலால் கடின மற்றும் மென்பாறைகள் அரிக்கப்பட்டு உருவாகும் நீண்ட விளிம்பு போன்ற அமைப்புகள் யார்டாங் (Yardang) எனப்படும்.",
+    "question_en": "A long ridge of land eroded by wind in a desert environment",
+    "options_en": [
+      "Inselburgs",
+      "Sugan",
+      "Mesa",
+      "Yardong"
+    ],
+    "explanation_en": "Elongated rim-like formations formed by wind erosion of hard and soft rocks are called Yardang."
+  },
+  {
+    "id": 162,
+    "question": "எக்ஸோஸ்பியர் (Exosphere) அடுக்கில் காணப் படும் வாயுக்கள்",
+    "options": [
+      "ஹைட்ரஜன் மற்றும் ஹீலியம்",
+      "ஹைட்ரஜன் மற்றும் ஆக்ஸிஜன்",
+      "ஹீலியம் மற்றும் ஆக்ஸிஜன்",
+      "ஹைட்ரஜன் மற்றும் நைட்ரஜன்"
+    ],
+    "correct": 0,
+    "explanation": "வளிமண்டலத்தின் மிக உயரமான அடுக்கான எக்ஸோஸ்பியரில் ஹைட்ரஜன் மற்றும் ஹீலியம் போன்ற மிக லேசான வாயுக்கள் மட்டுமே காணப்படுகின்றன.",
+    "question_en": "Gases found in the exosphere layer",
+    "options_en": [
+      "Hydrogen and Helium",
+      "Hydrogen and oxygen",
+      "Helium and Oxygen",
+      "Hydrogen and Nitrogen"
+    ],
+    "explanation_en": "Only very light gases such as hydrogen and helium are found in the exosphere, the highest layer of the atmosphere."
+  },
+  {
+    "id": 163,
+    "question": "நிலநடுக்கத்தின்போது மேற்கொள்ள வேண்டிய நடவடிக்கைகள் குறித்த தவறான கூற்றுக்களைத் தேர்ந்தெடுக்கவும்.\n(a) மின் கம்பங்கள், மரம், கட்டடங்களிலிருந்து விலகி இருக்கவும்.\n(b) தீ விபத்தை தவிர்க்க எரிவாயு அடுப்பு, மெழுகுவர்த்திகள் மற்றும் விளக்குகளை அணைக்க வேண்டும்.\n(c) படிக்கட்டுகளுக்கு பதிலாக மின் தூக்கியை (Lift) பயன்படுத்த வேண்டும்.\n(d) மேம்பாலங்கள் மற்றும் சுரங்கப் பாதைகளில் தஞ்சம் அடைய வேண்டும்.",
+    "options": [
+      "(a), (b) மற்றும் (c)",
+      "(b), (c) மற்றும் (d)",
+      "(a) மற்றும் (b)",
+      "(c) மற்றும் (d)"
+    ],
+    "correct": 3,
+    "explanation": "நிலநடுக்கத்தின் போது மின்தூக்கியை (Lift) பயன்படுத்துவதும், பாலங்களுக்கு அடியில் நிற்பதும் மிகவும் ஆபத்தானதாகும். எனவே (c) மற்றும் (d) தவறான கூற்றுகளாகும்.",
+    "question_en": "Select the incorrect statements about actions to be taken during an earthquake.\n(a) Stay away from electric poles, trees, buildings.\n(b) Gas stove, candles and lamps should be extinguished to avoid fire hazard.\n(c) Lift should be used instead of stairs.\n(d) Take shelter in flyovers and tunnels.",
+    "options_en": [
+      "(a), (b) and (c)",
+      "(b), (c) and (d)",
+      "(a) and (b)",
+      "(c) and (d)"
+    ],
+    "explanation_en": "It is very dangerous to use elevators and stand under bridges during an earthquake. Hence (c) and (d) are false statements."
+  },
+  {
+    "id": 164,
+    "question": "பொருத்துக:\n(a) பசிபிக் பேராழி - (i) நீண்ட'S வடிவ அமைப்பு\n(b) அட்லாண்டிக் பேராழி - (ii) தென் பேராழி\n(c) அண்டார்டிகா பேராழி - (iii) வட்ட வடிவ அமைப்பு\n(d) ஆர்டிக் பேராழி - (iv) முக்கோண வடிவ அமைப்பு",
+    "options": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "correct": 2,
+    "explanation": "பசிபிக் பெருங்கடல் முக்கோண வடிவம் (iv). அட்லாண்டிக் S வடிவம் (i). அண்டார்டிகா பெருங்கடல் தென் பெருங்கடல் எனப்படும் (ii). ஆர்டிக் பெருங்கடல் வட்ட வடிவம் (iii).",
+    "question_en": "Match:\n(a) Pacific Ocean – (i) Long'S-shaped structure\n(b) Atlantic dolphin - (ii) Southern dolphin\n(c) Antarctic continent – (iii) Circular structure\n(d) Arctic Ocean – (iv) Triangular structure",
+    "options_en": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "explanation_en": "Pacific Ocean triangular shape (iv). Atlantic S shape (i). The Antarctic Ocean is called the Southern Ocean (ii). Artic Ocean circular shape (iii)."
+  },
+  {
+    "id": 165,
+    "question": "பொருத்துக:\n(a) படிவுப் பாறைகள் - (i) அடியாழப் பாறைகள்\n(b) தீப்பாறைகள் - (ii) அடுக்குப் பாறைகள்\n(c) புளூடானிக் பாறைகள் - (iii) குறைந்த ஆழத்தில் உள்ள பாறைகள்\n(d) ஹைப்பாபைசல் பாறைகள் - (iv) தாய்ப் பாறைகள்",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "correct": 0,
+    "explanation": "படிவுப் பாறைகள் அடுக்குகளாக இருப்பதால் அடுக்குப் பாறைகள் (ii). தீப்பாறைகள் மற்ற பாறைகளுக்கு அடிப்படையான தாய் பாறைகள் (iv). புளூடானிக் - அடியாழம் (i). ஹைப்பாபைசல் - குறை ஆழம் (iii).",
+    "question_en": "Match:\n(a) Sedimentary rocks – (i) Basement rocks\n(b) Igneous rocks – (ii) Stratified rocks\n(c) Plutonic rocks – (iii) Rocks of shallow depth\n(d) Hypaphysal rocks – (iv) Mother rocks",
+    "options_en": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "explanation_en": "Stratified rocks (ii) as sedimentary rocks are layered. Igneous rocks are basic parent rocks for other rocks (iv). Plutonic - Jupiter (i). Hypaphyseal – less depth (iii)."
+  },
+  {
+    "id": 166,
+    "question": "பொருந்தாத இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "சரளை மண் - சணல்",
+      "கரிசல் மண் - பருத்தி",
+      "வண்டல் மண் - நெல்",
+      "செம்மண் - தினைப் பயிர்கள்"
+    ],
+    "correct": 0,
+    "explanation": "சணல் பயிரிடுவதற்கு ஆற்று வண்டல் மண் சிறந்தது. சரளை மண் (Laterite soil) காபி, ரப்பர், முந்திரி போன்ற தோட்டப் பயிர்களுக்கு ஏற்றது. எனவே இது தவறான இணை.",
+    "question_en": "Select the counterpart that does not match.",
+    "options_en": [
+      "Gravel soil - jute",
+      "Karisal Soil - Cotton",
+      "Alluvial soil - Paddy",
+      "Semman - millet crops"
+    ],
+    "explanation_en": "Alluvial soils are best for jute cultivation. Laterite soil is suitable for horticultural crops like coffee, rubber, cashew. So it's a false parallel."
+  },
+  {
+    "id": 167,
+    "question": "சம சூரிய வெளிச்சக்கோடு உள்ள இடங்கள்",
+    "options": [
+      "ஐசோஹைட்ஸ்",
+      "ஐசோக்ரைம்",
+      "ஐசோகெல்",
+      "ஐசெல்லோபார்"
+    ],
+    "correct": 2,
+    "explanation": "சம அளவு சூரிய வெளிச்சம் விழும் இடங்களை வரைபடத்தில் இணைக்கும் கற்பனைக் கோடுகளுக்கு ஐசோகெல் (Isohel) என்று பெயர்.",
+    "question_en": "Places with equidistant sunlight",
+    "options_en": [
+      "Isohydes",
+      "isochrym",
+      "Isochel",
+      "Isellobar"
+    ],
+    "explanation_en": "Isohel is the imaginary line connecting the places of equal amount of sunlight on the map."
+  },
+  {
+    "id": 168,
+    "question": "கடக ரேகைக்கும் மகர ரேகைக்கும் இடைப்பட்ட பகுதி _________ எனப்படும்.",
+    "options": [
+      "உறைபனி மண்டலம்",
+      "மித வெப்ப மண்டலம்",
+      "வறண்ட மண்டலம்",
+      "வெப்ப மண்டலம்"
+    ],
+    "correct": 3,
+    "explanation": "பூமத்திய ரேகையைச் சுற்றி கடக ரேகைக்கும் (Tropic of Cancer) மகர ரேகைக்கும் (Tropic of Capricorn) இடைப்பட்ட பகுதி வெப்ப மண்டலம் (Torrid Zone) எனப்படுகிறது.",
+    "question_en": "The area between the Tropic of Cancer and the Tropic of Capricorn is called _________.",
+    "options_en": [
+      "Frost zone",
+      "Temperate zone",
+      "Dry zone",
+      "Tropical region"
+    ],
+    "explanation_en": "The area around the equator between the Tropic of Cancer and the Tropic of Capricorn is called the Torrid Zone."
+  },
+  {
+    "id": 169,
+    "question": "_________ என்ற கருவி காற்றின் வேகத்தை அளவிட பயன்படுகிறது.",
+    "options": [
+      "காற்று மானி (Anemometer)",
+      "பியோபோர்டு அளவை",
+      "ஹைக்ரோ மீட்டர்",
+      "காற்றழுத்தமானி"
+    ],
+    "correct": 0,
+    "explanation": "காற்றின் வேகத்தை அளவிடுவதற்கு காற்று மானி (Anemometer) பயன்படுகிறது. (காற்று திசை காட்டி - Wind vane திசையைக் குறிக்கும்).",
+    "question_en": "_________ is an instrument used to measure wind speed.",
+    "options_en": [
+      "Anemometer",
+      "Bioboard size",
+      "Hygrometer",
+      "Barometer"
+    ],
+    "explanation_en": "Anemometer is used to measure wind speed. (Wind vane indicating direction)."
+  },
+  {
+    "id": 170,
+    "question": "கூற்று: நீர் துளிகள் புவியின் மேற்பரப்பில் குளிர்ந்த பொருள்களின் மீது படும்பொழுது பனி உருவாகிறது.\nகாரணம் : பொருட்களின் வெப்பநிலை பனிநிலையின் வெப்ப நிலையைவிட அதிகமாக இருக்கும் போது உருவாகிறது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு.",
+      "கூற்று சரி ஆனால் காரணம் கூற்றை விளக்கவில்லை.",
+      "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்குகிறது."
+    ],
+    "correct": 2,
+    "explanation": "காற்றில் உள்ள நீராவி குளிர்ந்த பரப்பில் பட்டு பனியாக மாறுவது உண்மை. ஆனால் வெப்பநிலை பனிநிலையை விடக் 'குறைவாக' இருக்கும்போதே பனி உருவாகும். வினாவில் 'அதிகமாக' என உள்ளது, எனவே காரணம் தவறு.",
+    "question_en": "Assertion: Ice forms when water droplets fall on cold objects on the surface of the earth.\nCause: Forms when the temperature of the material exceeds the freezing point.",
+    "options_en": [
+      "Both statement and reason are correct.",
+      "Both the statement and the reason are false.",
+      "The statement is correct but the reason does not explain the statement.",
+      "The statement is correct and the reason explains the statement."
+    ],
+    "explanation_en": "It is true that water vapor in the air turns into ice on cold surfaces. But snow forms only when the temperature is 'below' the freezing point. The question has 'too much', so the reason is wrong."
+  },
+  {
+    "id": 171,
+    "question": "நீர்த்துளிகளும், 5 மி.மீ. விட்டத்திற்கு மேல் உள்ள பனித்துளிகளும் கலந்து காணப்படும் பொழிவிற்கு _________ என்று பெயர்.",
+    "options": [
+      "ஆலங்கட்டி மழை",
+      "பனி",
+      "மழை",
+      "கல் மழை (Sleet)"
+    ],
+    "correct": 3,
+    "explanation": "உறைநிலைக்கும் குறைவான வெப்பநிலையில் நீர்த்துளிகளும் பனித்துளிகளும் (சிறு பனிக்கட்டிகள்) கலந்து பொழிவதே கல் மழை அல்லது பனிமழை (Sleet) எனப்படும்.",
+    "question_en": "Water droplets, 5 mm. Precipitation consisting of snowdrops above the diameter is called _________.",
+    "options_en": [
+      "Hail",
+      "Snow",
+      "the rain",
+      "Sleet"
+    ],
+    "explanation_en": "Sleet is a mixture of water droplets and snowdrops (small ice cubes) falling at temperatures below freezing."
+  },
+  {
+    "id": 172,
+    "question": "தவறான கூற்றை தேர்ந்தெடுக்கவும். நகரமயமாதலின் விளைவுகள்:",
+    "options": [
+      "விரைவாக நகரமயமாக்கலால் குடிசைப் பகுதிகள் அதிக அளவில் உருவாகின்றன.",
+      "அதிக மக்கள் நெரிசல், சுகாதாரமற்ற சுற்றுப்புற சூழலுக்கு வழிவகுக்கிறது.",
+      "நகர்புற மற்றும் உள்ளாட்சி அமைப்புகளுக்கு குப்பைகளை அகற்றுவது ஒரு சவாலான பணியாக உள்ளது.",
+      "இரு மற்றும் நான்கு சக்கர வாகனங்களின் எண்ணிக்கை அதிகரிப்பதால் காற்று மாசடைவது தவிர்க்கப்படுகிறது."
+    ],
+    "correct": 3,
+    "explanation": "வாகனங்களின் எண்ணிக்கை அதிகரித்தால் காற்று மாசடைவது (Air pollution) மிக அதிகமாகும். எனவே காற்று மாசு தவிர்க்கப்படுகிறது என்ற 4-வது கூற்று முற்றிலும் தவறானது.",
+    "question_en": "Select the incorrect statement. Effects of Urbanization:",
+    "options_en": [
+      "Rapid urbanization has resulted in the formation of slums in large numbers.",
+      "Overcrowding leads to unsanitary environment.",
+      "Garbage disposal is a challenging task for urban and local bodies.",
+      "Air pollution is avoided due to increase in number of two and four wheeler vehicles."
+    ],
+    "explanation_en": "If the number of vehicles increases, the air pollution will be very high. Hence the 4th statement that air pollution is avoided is completely false."
+  },
+  {
+    "id": 173,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "குண்டுவெடிப்பு",
+      "எரிமலை வெடிப்பு",
+      "நிலஅதிர்வு",
+      "வறட்சி"
+    ],
+    "correct": 0,
+    "explanation": "எரிமலை வெடிப்பு, நிலநடுக்கம், வறட்சி ஆகியவை இயற்கைப் பேரிடர்கள் (Natural Disasters). குண்டுவெடிப்பு (Explosion) என்பது மனிதனால் ஏற்படுத்தப்படும் மனிதப் பேரிடர் ஆகும்.",
+    "question_en": "Select the one that doesn't apply.",
+    "options_en": [
+      "Bomb blast",
+      "Volcanic eruption",
+      "Earthquake",
+      "Drought"
+    ],
+    "explanation_en": "Volcanic eruptions, earthquakes and droughts are natural disasters. Explosion is a man-made disaster."
+  },
+  {
+    "id": 174,
+    "question": "மாநிலங்களவையின் மொத்த உறுப்பினர்களில் மறைமுகத் தேர்தல் மூலம் தேர்ந்தெடுக்கப்படும் உறுப்பினர்களின் எண்ணிக்கை:",
+    "options": [
+      "138",
+      "228",
+      "238",
+      "234"
+    ],
+    "correct": 2,
+    "explanation": "மாநிலங்களவையின் (Rajya Sabha) மொத்த உறுப்பினர்கள் 250. இதில் 12 பேர் குடியரசுத் தலைவரால் நியமிக்கப்படுகின்றனர். மீதமுள்ள 238 பேர் மறைமுகத் தேர்தல் மூலம் தேர்ந்தெடுக்கப்படுகின்றனர்.",
+    "question_en": "Number of members elected by indirect election out of total members of Rajya Sabha:",
+    "options_en": [
+      "138",
+      "228",
+      "238",
+      "234"
+    ],
+    "explanation_en": "The Rajya Sabha has a total of 250 members, of which 12 are appointed by the President. The remaining 238 are elected through indirect elections."
+  },
+  {
+    "id": 175,
+    "question": "தேசிய கீதத்தைப் பாடும், இசைக்கும் கால நேரம் _________ வினாடிகள் ஆகும்.",
+    "options": [
+      "57",
+      "42",
+      "51",
+      "52"
+    ],
+    "correct": 3,
+    "explanation": "நமது தேசிய கீதமான 'ஜன கண மன' முழுவதையும் பாடி முடிக்க அல்லது இசைக்க எடுத்துக்கொள்ள வேண்டிய சரியான கால அளவு 52 வினாடிகள் ஆகும்.",
+    "question_en": "The duration of singing and playing of the National Anthem is _________ seconds.",
+    "options_en": [
+      "57",
+      "42",
+      "51",
+      "52"
+    ],
+    "explanation_en": "The exact time taken to sing or play our national anthem 'Jana Gana Mana' in its entirety is 52 seconds."
+  },
+  {
+    "id": 176,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடுக்கவும்.\nஆளுநரின் அதிகாரம் மற்றும் பணிகள்:",
+    "options": [
+      "ஆளுநர், முதலமைச்சரையும் ஏனைய அமைச்சர்களையும் நியமிக்கிறார்.",
+      "மாநிலத்திலுள்ள பல்கலைக் கழகங்களின் வேந்தராக ஆளுநர் செயல்படுகிறார்.",
+      "சட்டமன்றத்திற்கு ஒரு ஆங்கிலோ இந்திய உறுப்பினரை நியமனம் செய்யும் அதிகாரத்தைப் பெற்றுள்ளார்.",
+      "மாநில சட்ட மேலவைக்கு அறிவியல், இலக்கியம்... துறைகளில் உள்ள அறிஞர்களில் 5/6 அளவிற்கு நியமிக்கிறார்."
+    ],
+    "correct": 3,
+    "explanation": "சட்ட மேலவைக்கு கலை, இலக்கியம் போன்றவற்றில் சிறந்த அறிஞர்களில் 1/6 (ஆறில் ஒரு பங்கு) உறுப்பினர்களை மட்டுமே ஆளுநர் நியமிக்கிறார். 5/6 என்பது தவறு.",
+    "question_en": "Choose the incorrect statement.\nPowers and Duties of the Governor:",
+    "options_en": [
+      "The Governor appoints the Chief Minister and other ministers.",
+      "The Governor acts as the chancellor of the universities in the state.",
+      "Power to appoint an Anglo-Indian member to the Assembly.",
+      "He appoints 5/6 of the scholars in the fields of Science, Literature... to the State Legislature."
+    ],
+    "explanation_en": "The Governor appoints only 1/6 (one-sixth) members of the best scholars in art, literature, etc. to the Legislative Council. 5/6 is wrong."
+  },
+  {
+    "id": 177,
+    "question": "சரியான கூற்றுகளைத் தேர்ந்தெடுக்கவும்:\nஉயர் நீதிமன்றத்தின் நீதிபதி பின்வரும் தகுதிகளை கட்டாயம் கொண்டிருத்தல் வேண்டும்.\n(a) இந்தியக் குடிமகனாக இருத்தல் வேண்டும்.\n(b) இந்தியாவில் ஓராண்டு காலம் நீதித்துறை அலுவலராக பணியாற்றி இருக்க வேண்டும்.\n(c) உயர்நீதிமன்றங்களில் வழக்குரைஞராக குறைந்த பட்சம் 10 ஆண்டுகள் அனுபவம் பெற்றிருத்தல் வேண்டும்.\n(d) வயது வரம்பு 35-க்குள் இருத்தல் வேண்டும்.",
+    "options": [
+      "(a) மற்றும் (b)",
+      "(b) மற்றும் (c)",
+      "(c) மற்றும் (d)",
+      "(a) மற்றும் (c)"
+    ],
+    "correct": 3,
+    "explanation": "உயர்நீதிமன்ற நீதிபதியாகக் கீழ் நீதிமன்றங்களில் 10 ஆண்டுகள் நீதிபதியாக அல்லது உயர்நீதிமன்றத்தில் 10 ஆண்டுகள் வழக்குரைஞராக இருந்திருக்க வேண்டும். எனவே (a) மற்றும் (c) மட்டுமே சரியானவை.",
+    "question_en": "Choose the correct statements:\nA Judge of a High Court must possess the following qualifications:\n(a) Should be a citizen of India.\n(b) Should have served as a Judicial Officer in India for one year.\n(c) Must have at least 10 years experience as an Advocate in High Courts.\n(d) Age limit should be within 35 years.",
+    "options_en": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(c) and (d)",
+      "(a) and (c)"
+    ],
+    "explanation_en": "10 years as a judge in the lower courts or 10 years as an advocate in the High Court to become a High Court judge. Hence only (a) and (c) are correct."
+  },
+  {
+    "id": 178,
+    "question": "ஒரு நாட்டில் எந்தவித தடையுமின்றி நிரந்தரமாக வசிப்பதற்கும் பணிபுரிவதற்கும் உரிமை பெறும் அந்நியர் _________ எனப்படுகிறார்.",
+    "options": [
+      "குடிமகன்",
+      "அந்நியர்",
+      "குடியேறியவர் (Immigrant)",
+      "இந்தியாவில் வசிக்கும் வெளிநாட்டுக் குடியுரிமைப் பெற்றவர்"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு நாட்டில் சட்டபூர்வமாக நிரந்தரமாகத் தங்கி பணிபுரியும் உரிமை பெற்ற பிற நாட்டைச் சேர்ந்தவர்கள் குடியேறியவர்கள் (Immigrants) எனப்படுவார்கள்.",
+    "question_en": "A foreigner who has the right to live and work permanently in a country without any restrictions is called _________.",
+    "options_en": [
+      "Citizen",
+      "a stranger",
+      "Immigrant",
+      "A foreign national residing in India"
+    ],
+    "explanation_en": "Immigrants are people from other countries who have the right to stay and work legally in a country."
+  },
+  {
+    "id": 179,
+    "question": "பிரிவு 26 குறிப்பது:",
+    "options": [
+      "பொது வேலைவாய்ப்பில் சமமான வாய்ப்பளித்தல்.",
+      "சமய விவகாரங்களை நிர்வகிக்கும் சுதந்திரம்.",
+      "அரசு உதவி பெறும் கல்வி நிறுவனங்களில் பாகுபாடு காட்ட தடை.",
+      "சில கல்வி நிறுவனங்களில் சமய வழிபாடு நிகழ்ச்சிகளில் கலந்து கொள்ளாமல் இருக்கும் உரிமை."
+    ],
+    "correct": 1,
+    "explanation": "இந்திய அரசியலமைப்புச் சட்டம் பிரிவு 26 (Article 26) என்பது எந்த ஒரு மதத்தினரும் தங்களின் சமய மற்றும் தொண்டு நிறுவனங்களை நிறுவி நிர்வகிக்கும் உரிமையை வழங்குகிறது.",
+    "question_en": "Section 26 states:",
+    "options_en": [
+      "Providing equal opportunity in public employment.",
+      "Freedom to administer religious affairs.",
+      "Prohibition of discrimination in government aided educational institutions.",
+      "Right not to attend religious services in some educational institutions."
+    ],
+    "explanation_en": "Article 26 of the Constitution of India grants the right of any religion to establish and manage its own religious and charitable institutions."
+  },
+  {
+    "id": 180,
+    "question": "நெகிழிப் பணம் (Plastic money) என்பது :",
+    "options": [
+      "இணைய வங்கி",
+      "மின்னணு பணம்",
+      "பற்று அட்டை (Debit Card)",
+      "மின் வங்கி"
+    ],
+    "correct": 2,
+    "explanation": "நாம் அன்றாடம் பயன்படுத்தும் ஏடிஎம் அட்டைகள், பற்று அட்டை (Debit card) மற்றும் கடன் அட்டைகள் (Credit card) ஆகியவை பிளாஸ்டிக்கால் ஆனவை என்பதால் நெகிழிப் பணம் எனப்படுகின்றன.",
+    "question_en": "Plastic money is:",
+    "options_en": [
+      "Internet Banking",
+      "Electronic money",
+      "Debit Card",
+      "E-banking"
+    ],
+    "explanation_en": "ATM cards, debit cards and credit cards that we use on a daily basis are called flexible money because they are made of plastic."
+  }
+]

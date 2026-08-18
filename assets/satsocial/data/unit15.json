@@ -1,0 +1,1762 @@
+[
+  {
+    "id": 1,
+    "question": "கீழ்க்கண்டவற்றில் எந்த ஆங்கிலச் சொல்லிலிருந்து, சுற்றுலாப் பயணி என்ற சொல் தோன்றியது?",
+    "options": [
+      "டூரியன்",
+      "டூர்",
+      "டூரிஸ்ட்",
+      "டூரிஸம்"
+    ],
+    "correct": 0,
+    "question_en": "From which of the following English words did the word tourist originate?",
+    "options_en": [
+      "Durian",
+      "Tour",
+      "Tourist",
+      "Tourism"
+    ],
+    "explanation": "டூரியன்",
+    "explanation_en": "Durian"
+  },
+  {
+    "id": 2,
+    "question": "கிறிஸ்துவர்கள் ஜெருசலேம் செல்வது ________.",
+    "options": [
+      "சூழல் சுற்றுலா",
+      "சாகச சுற்றுலா",
+      "சமயச் சுற்றுலா",
+      "பொழுதுபோக்கு சுற்றுலா"
+    ],
+    "correct": 2,
+    "question_en": "Christians go to Jerusalem ________.",
+    "options_en": [
+      "Ecotourism",
+      "Adventure tourism",
+      "Religious tourism",
+      "Recreational tourism"
+    ],
+    "explanation": "கிறிஸ்துவர்கள் ஜெருசலேம் செல்வது சமயச் சுற்றுலா.",
+    "explanation_en": "Christians go to Jerusalem Religious tourism."
+  },
+  {
+    "id": 3,
+    "question": "ஆஸ்திரேலியாவின் விண்வீழ் விளையாட்டுக்கு செல்வது ________.",
+    "options": [
+      "சூழல் சுற்றுலா",
+      "சாகசச் சுற்றுலா",
+      "சமயச் சுற்றுலா",
+      "வரலாற்றுச் சுற்றுலா"
+    ],
+    "correct": 1,
+    "question_en": "Going to Australia's space games is ________.",
+    "options_en": [
+      "Ecotourism",
+      "Adventure tourism",
+      "Religious tourism",
+      "Historical tourism"
+    ],
+    "explanation": "ஆஸ்திரேலியாவின் விண்வீழ் விளையாட்டுக்கு செல்வது சாகசச் சுற்றுலா.",
+    "explanation_en": "Going to Australia's space games is Adventure tourism."
+  },
+  {
+    "id": 4,
+    "question": "கீழ்க்கண்டவற்றுள் எது வரலாற்றுச் சுற்றுலா?",
+    "options": [
+      "முஸ்லிம்கள் மெக்கா செல்லுதல்",
+      "எவரெஸ்ட் சிகரம் ஏறுதல்",
+      "இந்தியாவில் உள்ள தாஜ்மகாலுக்குச் செல்லுதல்",
+      "இவற்றில் எதுவும் இல்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is historical tourism?",
+    "options_en": [
+      "Muslims visit Mecca",
+      "Climbing Mount Everest",
+      "Visiting the Taj Mahal in India",
+      "None of these"
+    ],
+    "explanation": "இந்தியாவில் உள்ள தாஜ்மகாலுக்குச் செல்லுதல்",
+    "explanation_en": "Visiting the Taj Mahal in India is historical tourism."
+  },
+  {
+    "id": 5,
+    "question": "ஒரு நாட்டில் வேலை பார்க்க வழங்கப்படும் விசா ________.",
+    "options": [
+      "மாணவர் விசா",
+      "மருத்துவ விசா",
+      "சுற்றுலா விசா",
+      "தொழில் விசா"
+    ],
+    "correct": 3,
+    "question_en": "A visa issued to work in a country is ________.",
+    "options_en": [
+      "Student visa",
+      "Medical Visa",
+      "Tourist visa",
+      "Business Visa"
+    ],
+    "explanation": "ஒரு நாட்டில் வேலை பார்க்க வழங்கப்படும் விசா தொழில் விசா.",
+    "explanation_en": "A visa issued to work in a country is Business Visa."
+  },
+  {
+    "id": 6,
+    "question": "கீழ்க்கண்ட எந்த மாநிலத்தில் 'நைனிடால்' உள்ளது?",
+    "options": [
+      "உத்தரகாண்ட்",
+      "மேற்கு வங்காளம்",
+      "மேகாலயா",
+      "கேரளா"
+    ],
+    "correct": 0,
+    "question_en": "In which of the following states is 'Nainital' located?",
+    "options_en": [
+      "Uttarakhand",
+      "West Bengal",
+      "Meghalaya",
+      "Kerala"
+    ],
+    "explanation": "உத்தரகாண்ட்",
+    "explanation_en": "Uttarakhand"
+  },
+  {
+    "id": 7,
+    "question": "கேரளாவில் உள்ள மலைவாழிடம் எது?",
+    "options": [
+      "ஷில்லாங்",
+      "ஸ்ரீநகர்",
+      "மூணாறு",
+      "ஊட்டி"
+    ],
+    "correct": 2,
+    "question_en": "Which is the hill station in Kerala?",
+    "options_en": [
+      "Shillong",
+      "Srinagar",
+      "Munnar",
+      "feeder"
+    ],
+    "explanation": "கேரளாவில் உள்ள மலைவாழிடம் மூணாறு ஆகும்.",
+    "explanation_en": "Munnar is the hill station in Kerala."
+  },
+  {
+    "id": 8,
+    "question": "மேகாலயாவில் காசி மாவட்டத்தில் அமைந்துள்ள நீர்வீழ்ச்சி எது?",
+    "options": [
+      "நோகாலிகாய்",
+      "தாழையார்",
+      "ஜோக்",
+      "அதிரப்பள்ளி"
+    ],
+    "correct": 0,
+    "question_en": "Which waterfall is located in Khasi district of Meghalaya?",
+    "options_en": [
+      "Nogalikai",
+      "Thalayar",
+      "Joke",
+      "Athirapalli"
+    ],
+    "explanation": "மேகாலயாவில் காசி மாவட்டத்தில் அமைந்துள்ள நீர்வீழ்ச்சி நோகாலிகாய் ஆகும்.",
+    "explanation_en": "Nogalikai"
+  },
+  {
+    "id": 9,
+    "question": "இந்தியாவின் நயாகரா என அழைக்கப்படும் நீர்வீழ்ச்சி எது?",
+    "options": [
+      "தலக்கோணம்",
+      "அதிரப்பள்ளி",
+      "ஜோக்",
+      "தாழையார்"
+    ],
+    "correct": 1,
+    "question_en": "Which waterfall is known as Niagara of India?",
+    "options_en": [
+      "head angle",
+      "Athirapalli",
+      "Joke",
+      "Thalayar"
+    ],
+    "explanation": "இந்தியாவின் நயாகரா என அழைக்கப்படும் நீர்வீழ்ச்சி அதிரப்பள்ளி ஆகும்.",
+    "explanation_en": "Athirapalli"
+  },
+  {
+    "id": 10,
+    "question": "காசிரங்கா தேசியப் பூங்கா எங்கு அமைந்துள்ளது?",
+    "options": [
+      "தமிழ்நாடு",
+      "இராஜஸ்தான்",
+      "குஜராத்",
+      "அசாம்"
+    ],
+    "correct": 3,
+    "question_en": "Where is Kaziranga National Park located?",
+    "options_en": [
+      "Tamil Nadu",
+      "Rajasthan",
+      "Gujarat",
+      "Assam"
+    ],
+    "explanation": "அசாம்",
+    "explanation_en": "Assam is Kaziranga National Park located."
+  },
+  {
+    "id": 11,
+    "question": "'வங்காளப் புலி' காணப்படும் தேசிய பூங்கா எது?",
+    "options": [
+      "சுந்தரவன தேசிய பூங்கா",
+      "கிர் தேசிய பூங்கா",
+      "காசிரங்கா தேசிய பூங்கா",
+      "கான்ஹா தேசிய பூங்கா"
+    ],
+    "correct": 0,
+    "question_en": "In which national park is the 'Bengal Tiger' found?",
+    "options_en": [
+      "Sundaravan National Park",
+      "Gir National Park",
+      "Kaziranga National Park",
+      "Kanha National Park"
+    ],
+    "explanation": "'வங்காளப் புலி' காணப்படும் தேசிய பூங்கா சுந்தரவன தேசிய பூங்கா ஆகும்.",
+    "explanation_en": "Sundaravan National Park"
+  },
+  {
+    "id": 12,
+    "question": "குஜராத்தில் உள்ள கிர் தேசியப் பூங்கா எதற்கு பெயர் பெற்றது?",
+    "options": [
+      "சிங்கம்",
+      "யானை",
+      "மான்",
+      "புலி"
+    ],
+    "correct": 0,
+    "question_en": "Gir National Park in Gujarat is known for what?",
+    "options_en": [
+      "the lion",
+      "Elephant",
+      "Deer",
+      "tiger"
+    ],
+    "explanation": "சிங்கம்",
+    "explanation_en": "the lion"
+  },
+  {
+    "id": 13,
+    "question": "பெரியார் தேசியப் பூங்கா எம்மாநிலத்தில் உள்ளது?",
+    "options": [
+      "கேரளா",
+      "தமிழ்நாடு",
+      "கர்நாடகா",
+      "குஜராத்"
+    ],
+    "correct": 0,
+    "question_en": "Periyar National Park is located in which state?",
+    "options_en": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Gujarat"
+    ],
+    "explanation": "கேரளா",
+    "explanation_en": "Kerala"
+  },
+  {
+    "id": 14,
+    "question": "தமிழ்நாட்டிலுள்ள பறவைகள் சரணாலயம் எது?",
+    "options": [
+      "குமரகம்",
+      "பரத்பூர்",
+      "மயானி",
+      "கூந்தன்குளம்"
+    ],
+    "correct": 3,
+    "question_en": "Which is the bird sanctuary in Tamil Nadu?",
+    "options_en": [
+      "Kumarakam",
+      "Bharatpur",
+      "Mayani",
+      "hair pool"
+    ],
+    "explanation": "தமிழ்நாட்டிலுள்ள பறவைகள் சரணாலயம் கூந்தன்குளம் ஆகும்.",
+    "explanation_en": "Hair pool is the bird sanctuary in Tamil Nadu."
+  },
+  {
+    "id": 15,
+    "question": "நல்சரோவர் பறவைகள் சரணாலயம் எங்கு உள்ளது?",
+    "options": [
+      "ஆந்திரா",
+      "குஜராத்",
+      "கேரளா",
+      "மஹாராஷ்டிரா"
+    ],
+    "correct": 1,
+    "question_en": "Where is Nalsarovar Bird Sanctuary?",
+    "options_en": [
+      "Andhra",
+      "Gujarat",
+      "Kerala",
+      "Maharashtra"
+    ],
+    "explanation": "குஜராத்",
+    "explanation_en": "Gujarat is Nalsarovar Bird Sanctuary."
+  },
+  {
+    "id": 16,
+    "question": "இந்தியாவின் கடற்கரையின் நீளம் ________.",
+    "options": [
+      "7157 கி.மீ.",
+      "7715 கி.மீ.",
+      "7175 கி.மீ.",
+      "7517 கி.மீ."
+    ],
+    "correct": 3,
+    "question_en": "The length of the coastline of India is ________.",
+    "options_en": [
+      "7157 km.",
+      "7715 கி.மீ.",
+      "7175 km.",
+      "7517 km."
+    ],
+    "explanation": "இந்தியாவின் கடற்கரையின் நீளம் 7517 கி.மீ..",
+    "explanation_en": "The length of the coastline of India is 7517 km.."
+  },
+  {
+    "id": 17,
+    "question": "தமிழ்நாட்டிலுள்ள கடற்கரை எது?",
+    "options": [
+      "வற்கலை",
+      "ஓம்",
+      "அகுதா",
+      "தனுஷ்கோடி"
+    ],
+    "correct": 3,
+    "question_en": "Which is the beach in Tamil Nadu?",
+    "options_en": [
+      "वालकाली",
+      "Omg",
+      "Acute",
+      "Dhanushkodi"
+    ],
+    "explanation": "தமிழ்நாட்டிலுள்ள கடற்கரை தனுஷ்கோடி ஆகும்.",
+    "explanation_en": "Dhanushkodi is the beach in Tamil Nadu."
+  },
+  {
+    "id": 18,
+    "question": "இரண்டு மணல் திட்டுகளிடையே தொட்டில் போன்ற அமைப்பில் அமைந்த கடற்கரை எது?",
+    "options": [
+      "ஓம்",
+      "அகுதா",
+      "மராரி",
+      "தர்கார்லி"
+    ],
+    "correct": 2,
+    "question_en": "Which beach is cradled between two sand dunes?",
+    "options_en": [
+      "Omg",
+      "Acute",
+      "Marari",
+      "Tarkarli"
+    ],
+    "explanation": "இரண்டு மணல் திட்டுகளிடையே தொட்டில் போன்ற அமைப்பில் அமைந்த கடற்கரை மராரி ஆகும்.",
+    "explanation_en": "Marari"
+  },
+  {
+    "id": 19,
+    "question": "நீர் விளையாட்டுக்கு புகழ்பெற்ற கோவா கடற்கரை ________.",
+    "options": [
+      "கல்லங்கட்",
+      "அகூதா",
+      "1 மற்றும் 2",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Goa beach famous for water sports is ________.",
+    "options_en": [
+      "Kallangat",
+      "Agoota",
+      "1 and 2",
+      "None of these"
+    ],
+    "explanation": "நீர் விளையாட்டுக்கு புகழ்பெற்ற கோவா கடற்கரை 1 மற்றும் 2.",
+    "explanation_en": "Goa beach famous for water sports is 1 and 2."
+  },
+  {
+    "id": 20,
+    "question": "மலைகளின் ராணி எது?",
+    "options": [
+      "ஏற்காடு",
+      "ஊட்டி",
+      "ஏலகிரி",
+      "ஜவ்வாது"
+    ],
+    "correct": 1,
+    "question_en": "Which is Queen of the Hills?",
+    "options_en": [
+      "accept",
+      "feeder",
+      "Aloe vera",
+      "Javvadu"
+    ],
+    "explanation": "மலைகளின் ராணி ஊட்டி ஆகும்.",
+    "explanation_en": "Feeder is Queen of the Hills."
+  },
+  {
+    "id": 21,
+    "question": "இயற்கையின் சொர்க்கம் என அழைக்கப்படும் மலைவாழிடம் எது?",
+    "options": [
+      "ஊட்டி",
+      "கோத்தகிரி",
+      "ஆனைமலை",
+      "ஜவ்வாது"
+    ],
+    "correct": 3,
+    "question_en": "Which mountain pass is known as nature's paradise?",
+    "options_en": [
+      "feeder",
+      "Kothagiri",
+      "Anaimalai",
+      "Javvadu"
+    ],
+    "explanation": "இயற்கையின் சொர்க்கம் என அழைக்கப்படும் மலைவாழிடம் ஜவ்வாது ஆகும்.",
+    "explanation_en": "Javvadu"
+  },
+  {
+    "id": 22,
+    "question": "மலைகளின் இளவரசி என அழைக்கப்படும் மலை வாழிடம் எது?",
+    "options": [
+      "கொடைக்கானல்",
+      "ஏற்காடு",
+      "ஊட்டி",
+      "ஏலகிரி"
+    ],
+    "correct": 0,
+    "question_en": "Which mountain habitat is known as the princess of hills?",
+    "options_en": [
+      "Kodaikanal",
+      "accept",
+      "feeder",
+      "Aloe vera"
+    ],
+    "explanation": "மலைகளின் இளவரசி என அழைக்கப்படும் மலை வாழிடம் கொடைக்கானல் ஆகும்.",
+    "explanation_en": "Kodaikanal"
+  },
+  {
+    "id": 23,
+    "question": "கீழ்க்கண்ட நீர்வீழ்ச்சிகளில் எது கொல்லிமலையில் அமைந்துள்ளது?",
+    "options": [
+      "குற்றால நீர்வீழ்ச்சி",
+      "சுருளி நீர்வீழ்ச்சி",
+      "ஆகாய கங்கை",
+      "குரங்கு நீர்வீழ்ச்சி"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following waterfalls is situated in Kollimalai?",
+    "options_en": [
+      "Koorala Falls",
+      "Curly Falls",
+      "Sky Ganges",
+      "Monkey Falls"
+    ],
+    "explanation": "ஆகாய கங்கை",
+    "explanation_en": "Sky Ganges"
+  },
+  {
+    "id": 24,
+    "question": "கீழ்க்கண்ட எந்த நீர்வீழ்ச்சி மேகமலை நீர்வீழ்ச்சி என அழைக்கப்படுகிறது?",
+    "options": [
+      "கிளியூர் நீர்வீழ்ச்சி",
+      "கும்பக்கரை நீர்வீழ்ச்சி",
+      "ஒகேனக்கல் நீர்வீழ்ச்சி",
+      "சுருளி நீர்வீழ்ச்சி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following waterfalls is known as Meghamalai Falls?",
+    "options_en": [
+      "Clearwater Falls",
+      "Kumbakarai Falls",
+      "Okanagan Falls",
+      "Curly Falls"
+    ],
+    "explanation": "சுருளி நீர்வீழ்ச்சி",
+    "explanation_en": "Curly Falls"
+  },
+  {
+    "id": 25,
+    "question": "தமிழ்நாடு ________ அடர்த்தியான காடுகளைக் கொண்டுள்ளது.",
+    "options": [
+      "17.6%",
+      "18.6%",
+      "16.7%",
+      "71.6%"
+    ],
+    "correct": 0,
+    "question_en": "Tamil Nadu has ________ thick forests.",
+    "options_en": [
+      "17.6%",
+      "18.6%",
+      "16.7%",
+      "71.6%"
+    ],
+    "explanation": "தமிழ்நாடு 17.6% அடர்த்தியான காடுகளைக் கொண்டுள்ளது.",
+    "explanation_en": "Tamil Nadu has 17.6% thick forests."
+  },
+  {
+    "id": 26,
+    "question": "முண்டந்துறை வனவிலங்கு சரணாலயம் எங்குள்ளது?",
+    "options": [
+      "நீலகிரி",
+      "திருநெல்வேலி",
+      "கோயம்புத்தூர்",
+      "நாகப்பட்டினம்"
+    ],
+    "correct": 1,
+    "question_en": "Where is Mundanthurai Wildlife Sanctuary?",
+    "options_en": [
+      "Nilgiris",
+      "Tirunelveli",
+      "Coimbatore",
+      "Nagapattinam"
+    ],
+    "explanation": "திருநெல்வேலி",
+    "explanation_en": "Tirunelveli is Mundanthurai Wildlife Sanctuary."
+  },
+  {
+    "id": 27,
+    "question": "நாகப்பட்டினத்தில் ________ வனவிலங்கு சரணாலயம் அமைந்துள்ளது?",
+    "options": [
+      "முதுமலை",
+      "இந்திராகாந்தி",
+      "களக்காடு",
+      "கோடியக்கரை"
+    ],
+    "correct": 3,
+    "question_en": "________ wildlife sanctuary is located in Nagapattinam?",
+    "options_en": [
+      "Mudumalai",
+      "Indira Gandhi",
+      "Kalakadu",
+      "Kodiakarai"
+    ],
+    "explanation": "நாகப்பட்டினத்தில் கோடியக்கரை வனவிலங்கு சரணாலயம் அமைந்துள்ளது?",
+    "explanation_en": "Kodiakarai wildlife sanctuary is located in Nagapattinam?"
+  },
+  {
+    "id": 28,
+    "question": "ஈரோடு மாவட்டத்தில் ________ பறவைகள் சரணாலயம் அமைந்துள்ளது.",
+    "options": [
+      "வெள்ளோடு",
+      "வேட்டங்குடி",
+      "காரைவெட்டி",
+      "வேடந்தாங்கல்"
+    ],
+    "correct": 0,
+    "question_en": "________ Bird Sanctuary is located in Erode district.",
+    "options_en": [
+      "white",
+      "hunting lodge",
+      "Karivetty",
+      "Vedanthangal"
+    ],
+    "explanation": "ஈரோடு மாவட்டத்தில் வெள்ளோடு பறவைகள் சரணாலயம் அமைந்துள்ளது.",
+    "explanation_en": "white Bird Sanctuary is located in Erode district."
+  },
+  {
+    "id": 29,
+    "question": "இந்திராகாந்தி தேசிய பூங்கா ________ ல் உள்ளது.",
+    "options": [
+      "சென்னை",
+      "இராமநாதபுரம்",
+      "கோயம்புத்தூர்",
+      "நீலகிரி"
+    ],
+    "correct": 2,
+    "question_en": "Indira Gandhi National Park is located in ________.",
+    "options_en": [
+      "Chennai",
+      "Ramanathapuram",
+      "Coimbatore",
+      "Nilgiris"
+    ],
+    "explanation": "இந்திராகாந்தி தேசிய பூங்கா கோயம்புத்தூர் ல் உள்ளது.",
+    "explanation_en": "Indira Gandhi National Park is located in Coimbatore."
+  },
+  {
+    "id": 30,
+    "question": "நீலகிரி மாவட்டத்தில் ________ தேசிய பூங்கா அமைந்துள்ளது.",
+    "options": [
+      "கிண்டி",
+      "மன்னார் வளைகுடா",
+      "முக்கூர்த்தி",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "________ National Park is located in Nilgiris district.",
+    "options_en": [
+      "kindy",
+      "Gulf of Mannar",
+      "Mukkurti",
+      "None of these"
+    ],
+    "explanation": "நீலகிரி மாவட்டத்தில் முக்கூர்த்தி தேசிய பூங்கா அமைந்துள்ளது.",
+    "explanation_en": "Mukkurti National Park is located in Nilgiris district."
+  },
+  {
+    "id": 31,
+    "question": "உலகின் இரண்டாவது மிகப்பெரிய கடற்கரை என எந்த கடற்கரை அழைக்கப்படுகிறது?",
+    "options": [
+      "கன்னியாகுமரி",
+      "கோவளம்",
+      "மகாபலிபுரம்",
+      "மெரினா"
+    ],
+    "correct": 3,
+    "question_en": "Which beach is known as the second largest beach in the world?",
+    "options_en": [
+      "Kanyakumari",
+      "Kovalam",
+      "Mahabalipuram",
+      "Marina"
+    ],
+    "explanation": "மெரினா",
+    "explanation_en": "Marina"
+  },
+  {
+    "id": 32,
+    "question": "கீழ்க்கண்டவற்றில் எது அலையற்ற கடற்கரை என அழைக்கப்படுகிறது?",
+    "options": [
+      "இராமேஸ்வரம்",
+      "மெரினா",
+      "சில்வர்",
+      "எலியட்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is called a waveless beach?",
+    "options_en": [
+      "Rameswaram",
+      "Marina",
+      "Silver",
+      "Eliot"
+    ],
+    "explanation": "இராமேஸ்வரம்",
+    "explanation_en": "Rameswaram is called a waveless beach."
+  },
+  {
+    "id": 33,
+    "question": "கீழ்க்கண்டவற்றில் சுற்றுலாவின் எதிர்மறை தாக்கம் எது?",
+    "options": [
+      "நேரடியான நிதி",
+      "சுற்றுச்சூழல் மேலாண்மை",
+      "சுற்றுச்சூழல் பாதுகாப்பு",
+      "திடக்கழிவு மற்றும் குப்பைகள்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is a negative impact of tourism?",
+    "options_en": [
+      "Direct funding",
+      "Environmental Management",
+      "Environmental protection",
+      "Solid waste and garbage"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றில் சுற்றுலாவின் எதிர்மறை தாக்கம் திடக்கழிவு மற்றும் குப்பைகள் ஆகும்.",
+    "explanation_en": "Solid waste and garbage is a negative impact of tourism."
+  },
+  {
+    "id": 34,
+    "question": "கீழ்க்கண்டவற்றில் சுற்றுலாவின் நேர்மறை தாக்கம் எது?",
+    "options": [
+      "நிலச் சீரழிவு",
+      "நீர் வளங்கள் சீரழிவு",
+      "காற்று மற்றும் ஒலி மாசு",
+      "சுற்றுச்சூழல் விழிப்புணர்வு"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is a positive impact of tourism?",
+    "options_en": [
+      "Land degradation",
+      "Degradation of water resources",
+      "Air and noise pollution",
+      "Environmental awareness"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றில் சுற்றுலாவின் நேர்மறை தாக்கம் சுற்றுச்சூழல் விழிப்புணர்வு ஆகும்.",
+    "explanation_en": "Environmental awareness is a positive impact of tourism."
+  },
+  {
+    "id": 35,
+    "question": "பொருத்துக.\ni. வாரணாசி (காசி) - a) தமிழ்நாடு\nii. வைஷ்ணவி தேவி கோவில் - b) பஞ்சாப்\niii. அமிர்தசரஸ் - c) ஜம்மு காஷ்மீர்\niv. காஞ்சிபுரம் - d) உத்தரப்பிரதேசம்",
+    "options": [
+      "i - d, ii - c, iii - b, iv - a",
+      "i - c, ii - d, iii - a, iv - b",
+      "i - c, ii - a, iii - d, iv - b",
+      "i - b, ii - a, iii - d, iv - c"
+    ],
+    "correct": 0,
+    "question_en": "match\ni. Varanasi (Kasi) - a) Tamil Nadu\nii. Vaishnavi Devi Temple - b) Punjab\niii. Amritsar - c) Jammu and Kashmir\niv. Kanchipuram - d) Uttar Pradesh",
+    "options_en": [
+      "i - d, ii - c, iii - b, iv - a",
+      "i - c, ii - d, iii - a, iv - b",
+      "i - c, ii - a, iii - d, iv - b",
+      "i - b, ii - a, iii - d, iv - c"
+    ],
+    "explanation": "i - d, ii - c, iii - b, iv - a",
+    "explanation_en": "i - d, ii - c, iii - b, iv - a"
+  },
+  {
+    "id": 36,
+    "question": "பொருத்துக.\ni. தாழையார் நீர்வீழ்ச்சி - a) ஆந்திரப்பிரதேசம்\nii. ஜோக் நீர்வீழ்ச்சி - b) தமிழ்நாடு\niii. அதிரப்பள்ளி நீர்வீழ்ச்சி - c) கர்நாடகம்\niv. தலக்கோணம் நீர்வீழ்ச்சி - d) கேரளா",
+    "options": [
+      "i - a, ii - b, iii - d, iv - c",
+      "i - a, ii - d, iii - b, iv - c",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - b, ii - c, iii - d, iv - a"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Dahaliyar Falls - a) Andhra Pradesh\nii. Jog Falls - b) Tamil Nadu\niii. Athirapalli Falls - c) Karnataka\niv. Talakkonam Falls - d) Kerala",
+    "options_en": [
+      "i - a, ii - b, iii - d, iv - c",
+      "i - a, ii - d, iii - b, iv - c",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - b, ii - c, iii - d, iv - a"
+    ],
+    "explanation": "i - b, ii - c, iii - d, iv - a",
+    "explanation_en": "i - b, ii - c, iii - d, iv - a"
+  },
+  {
+    "id": 37,
+    "question": "பொருத்துக.\ni. கூந்தன்குளம் - a) குஜராத்\nii. குமரகம் - b) மகாராஷ்டிரா\niii. மயானி - c) தமிழ்நாடு\niv. நல்சரோவர் - d) கேரளா",
+    "options": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - c, ii - d, iii - b, iv - a",
+      "i - d, ii - b, iii - c, iv - a",
+      "i - b, ii - d, iii - c, iv - a"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. Koondankulam - a) Gujarat\nii. Kumarakom - b) Maharashtra\niii. Mayani - c) Tamil Nadu\niv. Nalsarovar - d) Kerala",
+    "options_en": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - c, ii - d, iii - b, iv - a",
+      "i - d, ii - b, iii - c, iv - a",
+      "i - b, ii - d, iii - c, iv - a"
+    ],
+    "explanation": "i - c, ii - d, iii - b, iv - a",
+    "explanation_en": "i - c, ii - d, iii - b, iv - a"
+  },
+  {
+    "id": 38,
+    "question": "பொருத்துக.\ni. முதுமலை - a) திருநெல்வேலி\nii. கோடியக்கரை - b) கோயம்புத்தூர்\niii. இந்திராகாந்தி - c) நாகப்பட்டினம்\niv. களக்காடு - d) நீலகிரி",
+    "options": [
+      "i - a, ii - b, iii - c, iv - d",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - d, ii - b, iii - c, iv - d",
+      "i - a, ii - c, iii - b, iv - d"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. Mudumalai - a) Tirunelveli\nii. Kodiakkarai - b) Coimbatore\niii. Indira Gandhi - c) Nagapattinam\niv. Kalakadu - d) Nilgiris",
+    "options_en": [
+      "i - a, ii - b, iii - c, iv - d",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - d, ii - b, iii - c, iv - d",
+      "i - a, ii - c, iii - b, iv - d"
+    ],
+    "explanation": "i - d, ii - c, iii - b, iv - a",
+    "explanation_en": "i - d, ii - c, iii - b, iv - a"
+  },
+  {
+    "id": 39,
+    "question": "பொருத்துக.\ni. கிண்டி - a) நீலகிரி\nii. மன்னார் வளைகுடா - b) சென்னை\niii. இந்திராகாந்தி - c) இராமநாதபுரம்\niv. முக்கூர்த்தி - d) கோயம்புத்தூர்",
+    "options": [
+      "i - a, ii - d, iii - c, iv - b",
+      "i - a, ii - c, iii - d, iv - b",
+      "i - a, ii - c, iii - b, iv - d",
+      "i - b, ii - c, iii - d, iv - a"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Guindi - a) Nilgiris\nii. Gulf of Mannar - b) Chennai\niii. Indira Gandhi - c) Ramanathapuram\niv. Mukkurthi - d) Coimbatore",
+    "options_en": [
+      "i - a, ii - d, iii - c, iv - b",
+      "i - a, ii - c, iii - d, iv - b",
+      "i - a, ii - c, iii - b, iv - d",
+      "i - b, ii - c, iii - d, iv - a"
+    ],
+    "explanation": "i - b, ii - c, iii - d, iv - a",
+    "explanation_en": "i - b, ii - c, iii - d, iv - a"
+  },
+  {
+    "id": 40,
+    "question": "பொருத்துக.\ni. மெரினா - a) தொல்பொருள்\nii. கன்னியாகுமரி - b) நீர் விளையாட்டு\niii. மகாபலிபுரம் - c) மிக நீண்ட கடற்கரை\niv. சில்வர் - d) பல வண்ண மணல்கள்",
+    "options": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - b, ii - d, iii - c, iv - b",
+      "i - d, ii - a, iii - b, iv - b",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Marina - a) Archaeology\nii. Kanyakumari - b) Water sports\niii. Mahabalipuram - c) Longest beach\niv. Silver - d) Multicolored sands",
+    "options_en": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - b, ii - d, iii - c, iv - b",
+      "i - d, ii - a, iii - b, iv - b",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "explanation": "i - c, ii - d, iii - a, iv - b",
+    "explanation_en": "i - c, ii - d, iii - a, iv - b"
+  },
+  {
+    "id": 41,
+    "question": "பொருத்துக.\ni. தனுஷ்கோடி - a) மகாராஷ்டிரா\nii. தர்கார்லி - b) கர்நாடகம்\niii. ஓம் - c) கேரளா\niv. மராரி - d) தமிழ்நாடு",
+    "options": [
+      "i - a, ii - c, iii - d, iv - c",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - b, ii - c, iii - a, iv - d",
+      "i - d, ii - a, iii - b, iv - c"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Dhanushkodi - a) Maharashtra\nii. Targarli - b) Karnataka\niii. Om - c) Kerala\niv. Marari - d) Tamil Nadu",
+    "options_en": [
+      "i - a, ii - c, iii - d, iv - c",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - b, ii - c, iii - a, iv - d",
+      "i - d, ii - a, iii - b, iv - c"
+    ],
+    "explanation": "i - d, ii - a, iii - b, iv - c",
+    "explanation_en": "i - d, ii - a, iii - b, iv - c"
+  },
+  {
+    "id": 42,
+    "question": "பொருத்துக.\ni. மலைகளின் ராணி - a) கொடைக்கானல்\nii. ஏழைகளின் ஊட்டி - b) ஊட்டி\niii. தெற்கின் கைலாஷ் - c) ஏற்காடு\niv. மலைகளின் இளவரசி - d) வெள்ளியங்கிரி",
+    "options": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - a, ii - c, iii - d, iv - b",
+      "i - b, ii - d, iii - c, iv - a",
+      "i - d, ii - b, iii - c, iv - a"
+    ],
+    "correct": 0,
+    "question_en": "match\ni. Queen of Hills – a) Kodaikanal\nii. Feeder of the poor – b) Feeder\niii. Kailash of South - c) Yercaud\niv. Princess of the hills - d) Velliangiri",
+    "options_en": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - a, ii - c, iii - d, iv - b",
+      "i - b, ii - d, iii - c, iv - a",
+      "i - d, ii - b, iii - c, iv - a"
+    ],
+    "explanation": "i - b, ii - c, iii - d, iv - a",
+    "explanation_en": "i - b, ii - c, iii - d, iv - a"
+  },
+  {
+    "id": 43,
+    "question": "பொருத்துக.\ni. ஒகேனக்கல் - a) தென்காசி\nii. கும்பக்கரை - b) நாமக்கல்\niii. குற்றாலம் - c) தர்மபுரி\niv. ஆகாய கங்கை - d) தேனி",
+    "options": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - c, ii - d, iii - b, iv - a",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Okanagan – a) Tenkasi\nii. Kumbakarai - b) Namakkal\niii. Courtalam - c) Dharmapuri\niv. Agaya Ganga - d) Honey",
+    "options_en": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - c, ii - d, iii - b, iv - a",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "explanation": "i - c, ii - d, iii - a, iv - b",
+    "explanation_en": "i - c, ii - d, iii - a, iv - b"
+  },
+  {
+    "id": 44,
+    "question": "சுற்றுலாவின் முக்கியக்கூறுகளான A3 உடன் தொடர்பற்றதைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "ஈர்ப்புத் தலங்கள்",
+      "எளிதில் அணுகும் தன்மை",
+      "சேவை வசதிகள்",
+      "பயண காப்பீடு"
+    ],
+    "correct": 3,
+    "question_en": "Choose the one that does not relate to the key elements of tourism A3.",
+    "options_en": [
+      "Attractions",
+      "Ease of access",
+      "Service facilities",
+      "Travel insurance"
+    ],
+    "explanation": "பயண காப்பீடு",
+    "explanation_en": "Travel insurance"
+  },
+  {
+    "id": 45,
+    "question": "பின்வரும் சூழல் சுற்றுலாவில் தவறானவற்றைத் தேர்ந்தெடு.",
+    "options": [
+      "அமேசான் மழைக்காடுகள்",
+      "ஆப்பிரிக்க வனப்பயணம்",
+      "இமயமலையில் மலையேற்றம்",
+      "இந்தியாவின் தாஜ்மஹால்"
+    ],
+    "correct": 3,
+    "question_en": "Select the incorrect ones in the following ecotourism.",
+    "options_en": [
+      "Amazon rainforests",
+      "African Wilderness",
+      "Trekking in the Himalayas",
+      "India's Taj Mahal"
+    ],
+    "explanation": "இந்தியாவின் தாஜ்மஹால்",
+    "explanation_en": "India's Taj Mahal"
+  },
+  {
+    "id": 46,
+    "question": "சரியான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "மேற்கு வங்காளம் - டார்ஜிலிங்",
+      "ஜம்மு காஷ்மீர் - மூணாறு",
+      "மேகாலயா - ஸ்ரீநகர்",
+      "கேரளா - ஷில்லாங்"
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "West Bengal - Darjeeling",
+      "Jammu Kashmir - Munnar",
+      "Meghalaya - Srinagar",
+      "Kerala - Shillong"
+    ],
+    "explanation": "மேற்கு வங்காளம் - டார்ஜிலிங்",
+    "explanation_en": "West Bengal - Darjeeling"
+  },
+  {
+    "id": 47,
+    "question": "சரியான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "தாழையார் நீர்வீழ்ச்சி - தமிழ்நாடு",
+      "ஜோக் நீர்வீழ்ச்சி - கர்நாடகம்",
+      "தலக்கோணம் நீர்வீழ்ச்சி - ஆந்திரா",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Dahaliyar Falls - Tamil Nadu",
+      "Jog Falls - Karnataka",
+      "Talakkonam Falls - Andhra Pradesh",
+      "All of the above"
+    ],
+    "explanation": "மேற்கண்ட அனைத்தும்",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 48,
+    "question": "தவறான இணையைக் கண்டறிக.",
+    "options": [
+      "கிர் தேசிய பூங்கா - குஜராத்",
+      "சுந்தரவன தேசிய பூங்கா - மேற்கு வங்காளம்",
+      "கான்ஹா தேசிய பூங்கா - மத்திய பிரதேசம்",
+      "மேற்கண்ட எதுவுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "Find the wrong parallel.",
+    "options_en": [
+      "Gir National Park - Gujarat",
+      "Sundaravan National Park - West Bengal",
+      "Kanha National Park - Madhya Pradesh",
+      "None of the above"
+    ],
+    "explanation": "மேற்கண்ட எதுவுமில்லை",
+    "explanation_en": "None of the above"
+  },
+  {
+    "id": 49,
+    "question": "தவறான கூற்றைக் கண்டறிக.",
+    "options": [
+      "தனுஷ்கோடியில் கடல் நீர் நீலரத்தின நிறத்தில் காணப்படும்",
+      "மராரி கடற்கரை கோவாவில் அமைந்துள்ளது.",
+      "மகாராஷ்டிராவின் தர்கார்லி கடற்கரை சாகச விளையாட்டுகளுக்கு ஏற்றது.",
+      "கேரளாவின் வற்கலை கடற்கரை சூரியன் மறையும் காட்சியைக் காண ஏதுவான கடல் ஓங்கல் பாறைகளைக் கொண்டது."
+    ],
+    "correct": 1,
+    "question_en": "Find the wrong statement.",
+    "options_en": [
+      "The sea water in Dhanushkodi is sapphire in color",
+      "Marari Beach is located in Goa.",
+      "Darkarli Beach in Maharashtra is perfect for adventure sports.",
+      "Kerala's Vakalalai beach has sea cliffs perfect for watching the sunset."
+    ],
+    "explanation": "மராரி கடற்கரை கோவாவில் அமைந்துள்ளது.",
+    "explanation_en": "Marari Beach is located in Goa."
+  },
+  {
+    "id": 50,
+    "question": "சரியான இணையைத் தேர்ந்தெடு.",
+    "options": [
+      "மலைகளின் இளவரசி – ஊட்டி",
+      "மலைகளின் ராணி – ஏற்காடு",
+      "தெற்கின் கைலாஷ் – வெள்ளியங்கிரி",
+      "ஏழைகளின் ஊட்டி – கோத்தகிரி"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Princess of the Hills – Ooty",
+      "Queen of Hills – Yercaud",
+      "South Kailash – Velliangiri",
+      "Feeder of the poor – Kothagiri"
+    ],
+    "explanation": "தெற்கின் கைலாஷ் – வெள்ளியங்கிரி",
+    "explanation_en": "South Kailash – Velliangiri"
+  },
+  {
+    "id": 51,
+    "question": "வரலாற்றுச் சுற்றுலாவில் பொருந்தாததைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "கம்போடியாவின் அங்கோர்வாட்",
+      "பிரம்மபுத்திரா நதியின் கட்டுமர மிதவை பயணம்",
+      "இந்தியாவின் தாஜ்மஹால்",
+      "எகிப்தின் பிரமிடுகள்"
+    ],
+    "correct": 1,
+    "question_en": "Select one that does not apply to historical tourism.",
+    "options_en": [
+      "Angkor Wat, Cambodia",
+      "River Brahmaputra river rafting trip",
+      "India's Taj Mahal",
+      "Pyramids of Egypt"
+    ],
+    "explanation": "பிரம்மபுத்திரா நதியின் கட்டுமர மிதவை பயணம்",
+    "explanation_en": "River Brahmaputra river rafting trip"
+  },
+  {
+    "id": 52,
+    "question": "பொருந்தாததைக் கண்டறிக.",
+    "options": [
+      "கொடைக்கானல்",
+      "ஊட்டி",
+      "ஷில்லாங்",
+      "மெரினா"
+    ],
+    "correct": 3,
+    "question_en": "Find a mismatch.",
+    "options_en": [
+      "Kodaikanal",
+      "feeder",
+      "Shillong",
+      "Marina"
+    ],
+    "explanation": "மெரினா",
+    "explanation_en": "Marina"
+  },
+  {
+    "id": 53,
+    "question": "பொருந்தாததைக் கண்டறிக.",
+    "options": [
+      "ஒகேனக்கல் நீர்வீழ்ச்சி",
+      "குரங்கு நீர்வீழ்ச்சி",
+      "சுருளி நீர்வீழ்ச்சி",
+      "அதிரப்பள்ளி நீர்வீழ்ச்சி"
+    ],
+    "correct": 3,
+    "question_en": "Find a mismatch.",
+    "options_en": [
+      "Okanagan Falls",
+      "Monkey Falls",
+      "Curly Falls",
+      "Athirapalli Falls"
+    ],
+    "explanation": "அதிரப்பள்ளி நீர்வீழ்ச்சி",
+    "explanation_en": "Athirapalli Falls"
+  },
+  {
+    "id": 54,
+    "question": "பொருந்தாததைக் கண்டறிக.",
+    "options": [
+      "முதுமலை வனவிலங்கு சரணாலயம்",
+      "முண்டந்துறை வனவிலங்கு சரணாலயம்",
+      "களக்காடு வனவிலங்கு சரணாலயம்",
+      "பத்ரா வனவிலங்கு சரணாலயம்"
+    ],
+    "correct": 3,
+    "question_en": "Find a mismatch.",
+    "options_en": [
+      "Mudumalai Wildlife Sanctuary",
+      "Mundanthurai Wildlife Sanctuary",
+      "Kalakadu Wildlife Sanctuary",
+      "Batra Wildlife Sanctuary"
+    ],
+    "explanation": "பத்ரா வனவிலங்கு சரணாலயம்",
+    "explanation_en": "Batra Wildlife Sanctuary"
+  },
+  {
+    "id": 55,
+    "question": "பொருந்தாததைக் கண்டறிக.",
+    "options": [
+      "வேடந்தாங்கல்",
+      "காரைவெட்டி",
+      "குமரகம்",
+      "வேட்டங்குடி"
+    ],
+    "correct": 2,
+    "question_en": "Find a mismatch.",
+    "options_en": [
+      "Vedanthangal",
+      "Karivetty",
+      "Kumarakam",
+      "hunting lodge"
+    ],
+    "explanation": "குமரகம்",
+    "explanation_en": "Kumarakam"
+  },
+  {
+    "id": 56,
+    "question": "பொருந்தாததைக் கண்டறிக.",
+    "options": [
+      "முக்கூர்த்தி தேசிய பூங்கா",
+      "காசிரங்கா தேசிய பூங்கா",
+      "இந்திராகாந்தி தேசிய பூங்கா",
+      "கிண்டி தேசிய பூங்கா"
+    ],
+    "correct": 1,
+    "question_en": "Find a mismatch.",
+    "options_en": [
+      "Mukkurthi National Park",
+      "Kaziranga National Park",
+      "Indira Gandhi National Park",
+      "Guindy National Park"
+    ],
+    "explanation": "காசிரங்கா தேசிய பூங்கா",
+    "explanation_en": "Kaziranga National Park"
+  },
+  {
+    "id": 57,
+    "question": "கீழ்க்கண்ட சமயச் சுற்றுலாவில் பொருந்தாததைக் கண்டறிக.",
+    "options": [
+      "காசி",
+      "ஜெருசலேம்",
+      "மெக்கா",
+      "எகிப்தின் பிரமிடுகள்"
+    ],
+    "correct": 3,
+    "question_en": "Find out what doesn't fit in religious tourism below.",
+    "options_en": [
+      "Kasi",
+      "Jerusalem",
+      "Mecca",
+      "Pyramids of Egypt"
+    ],
+    "explanation": "எகிப்தின் பிரமிடுகள்",
+    "explanation_en": "Pyramids of Egypt"
+  },
+  {
+    "id": 58,
+    "question": "சுற்றுலா வகைகளில் மிகப்பழமையானது ________.",
+    "options": [
+      "சமயச்சுற்றுலா",
+      "வரலாற்றுச் சுற்றுலா",
+      "சாகசச் சுற்றுலா",
+      "பொழுதுபோக்குச் சுற்றுலா"
+    ],
+    "correct": 0,
+    "question_en": "The oldest form of tourism is ________.",
+    "options_en": [
+      "religious tourism",
+      "Historical tourism",
+      "Adventure tourism",
+      "Recreational tourism"
+    ],
+    "explanation": "சுற்றுலா வகைகளில் மிகப்பழமையானது சமயச்சுற்றுலா.",
+    "explanation_en": "The oldest form of tourism is religious tourism."
+  },
+  {
+    "id": 59,
+    "question": "பின்வருவனவற்றில் இந்தியாவில் இல்லாத கடற்கரை எது?",
+    "options": [
+      "கோவா",
+      "கொச்சி",
+      "கோவளம்",
+      "மியாமி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a beach in India?",
+    "options_en": [
+      "Goa",
+      "Cochin",
+      "Kovalam",
+      "Miami"
+    ],
+    "explanation": "பின்வருவனவற்றில் இந்தியாவில் இல்லாத கடற்கரை மியாமி ஆகும்.",
+    "explanation_en": "Miami is not a beach in India."
+  },
+  {
+    "id": 60,
+    "question": "எந்த மாவட்டத்தில் குற்றாலம் நீர்வீழ்ச்சி அமைந்துள்ளது?",
+    "options": [
+      "தர்மபுரி",
+      "திருநெல்வேலி",
+      "நாமக்கல்",
+      "தேனி"
+    ],
+    "correct": 1,
+    "question_en": "In which district is Courtalam Falls located?",
+    "options_en": [
+      "Dharmapuri",
+      "Tirunelveli",
+      "Namakkal",
+      "Honey"
+    ],
+    "explanation": "திருநெல்வேலி",
+    "explanation_en": "Tirunelveli"
+  },
+  {
+    "id": 61,
+    "question": "சுற்றுலாவின் மூன்று கூறுகளையும் ஒன்றாக இணைக்கும் கோட்பாடு ________,",
+    "options": [
+      "A1",
+      "கடற்கரை",
+      "நீர்வீழ்ச்சி",
+      "A3"
+    ],
+    "correct": 3,
+    "question_en": "The theory that ties together the three components of tourism is ________,",
+    "options_en": [
+      "A1",
+      "the beach",
+      "Waterfall",
+      "A3"
+    ],
+    "explanation": "சுற்றுலாவின் மூன்று கூறுகளையும் ஒன்றாக இணைக்கும் கோட்பாடு A3,",
+    "explanation_en": "The theory that ties together the three components of tourism is A3,"
+  },
+  {
+    "id": 62,
+    "question": "காஸ்ட்ரோனமி என்பது சுற்றுலாவின் ________ அம்சத்தைக் குறிக்கின்றது",
+    "options": [
+      "அமைதி",
+      "கலாச்சாரம்",
+      "அணுகுமுறை",
+      "பொழுதுபோக்கு"
+    ],
+    "correct": 1,
+    "question_en": "Gastronomy refers to the ________ aspect of tourism",
+    "options_en": [
+      "peace",
+      "Culture",
+      "approach",
+      "Entertainment"
+    ],
+    "explanation": "காஸ்ட்ரோனமி என்பது சுற்றுலாவின் கலாச்சாரம் அம்சத்தைக் குறிக்கின்றது",
+    "explanation_en": "Gastronomy refers to the Culture aspect of tourism"
+  },
+  {
+    "id": 63,
+    "question": "சுருளி நீர்வீழ்ச்சி ________ என்றும் அழைக்கப்படுகிறது.",
+    "options": [
+      "ஆகாய கங்கை",
+      "கிளியூர்",
+      "குரங்கு",
+      "மேகமலை"
+    ],
+    "correct": 3,
+    "question_en": "Suruli Falls is also known as ________.",
+    "options_en": [
+      "Sky Ganges",
+      "Clear",
+      "Monkey",
+      "Meghamalai"
+    ],
+    "explanation": "சுருளி நீர்வீழ்ச்சி மேகமலை என்றும் அழைக்கப்படுகிறது.",
+    "explanation_en": "Suruli Falls is also known as Meghamalai."
+  },
+  {
+    "id": 64,
+    "question": "இரண்டாவது அழகிய நீண்ட கடற்கரை ________.",
+    "options": [
+      "கோவளம்",
+      "சில்வர்",
+      "மெரினா",
+      "எலியட்"
+    ],
+    "correct": 2,
+    "question_en": "The second beautiful long beach is ________.",
+    "options_en": [
+      "Kovalam",
+      "Silver",
+      "Marina",
+      "Eliot"
+    ],
+    "explanation": "இரண்டாவது அழகிய நீண்ட கடற்கரை மெரினா.",
+    "explanation_en": "The second beautiful long beach is Marina."
+  },
+  {
+    "id": 65,
+    "question": "TAAI என்பதன் விரிவாக்கம் ________.",
+    "options": [
+      "Travel Agents Association of India",
+      "Tamil Nadu Agri Association of Idea",
+      "Tamil Nadu Agents Alumina of India",
+      "Tamil Nadu Association Audio Instrument"
+    ],
+    "correct": 0,
+    "question_en": "TAAI is an extension of ________.",
+    "options_en": [
+      "Travel Agents Association of India",
+      "Tamil Nadu Agri Association of Idea",
+      "Tamil Nadu Agents Alumina of India",
+      "Tamil Nadu Association Audio Instrument"
+    ],
+    "explanation": "TAAI என்பதன் விரிவாக்கம் Travel Agents Association of India.",
+    "explanation_en": "TAAI is an extension of Travel Agents Association of India."
+  },
+  {
+    "id": 66,
+    "question": "கீழ்க்கண்டவற்றுள் எது சரியாக பொருந்தவில்லை?",
+    "options": [
+      "அகுதா கடற்கரை - கோவா",
+      "குரங்கு அருவி - கோயமுத்தூர்",
+      "இயற்கையின் சொர்க்கம் - ஜவ்வாது",
+      "டார்ஜிலிங் - உயர் விளிம்பு"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not correct?",
+    "options_en": [
+      "Aguda Beach - Goa",
+      "Monkey Falls - Coimbatore",
+      "Nature's Heaven - Javvadu",
+      "Darjeeling - High margin"
+    ],
+    "explanation": "டார்ஜிலிங் - உயர் விளிம்பு",
+    "explanation_en": "Darjeeling - High margin is not correct."
+  },
+  {
+    "id": 67,
+    "question": "பொருத்தமானதைத் தேர்ந்தெடுக்க\nகூற்று: சுற்றுலா என்பது மக்களின் சமுதாய வாழ்க்கை முறைக்கு ஓர் இன்றியமையாத செயலாக விளங்குகிறது.\nகாரணம்: சுற்றுலா நாட்டின் சமூக, கலாச்சார, கல்வி மற்றும் பொருளாதாரத் துறையில் நேரடி தாக்கத்தை ஏற்படுத்துகிறது.",
+    "options": [
+      "கூற்றும் சரி, காரணமும் சரி",
+      "கூற்று, காரணம் சரி ஆனால் கூற்றைக் காரணம் சரியாக விளக்கவில்லை",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று, காரணமும் தவறானவை"
+    ],
+    "correct": 0,
+    "question_en": "Select the appropriate one\nAssertion: Tourism is an essential activity for people's social lifestyle.\nReason: Tourism has a direct impact on the social, cultural, educational and economic sector of the country.",
+    "options_en": [
+      "The statement is correct and the reason is correct",
+      "The statement and the reason are correct but the reason does not properly explain the statement",
+      "The statement is wrong, the reason is right",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்றும் சரி, காரணமும் சரி",
+    "explanation_en": "The statement is correct and the reason is correct"
+  },
+  {
+    "id": 68,
+    "question": "கூற்றை ஆராய்க.\nகூற்று: வெளிநாட்டு சுற்றுலாப் பயணிகள் கலங்கட் கடற்கரையில் குவிகிறார்கள்\nகாரணம்: கலங்கட் கடற்கரையானது இரு மணல் திட்டுகளுக்கு இடையே அமைந்துள்ளது.",
+    "options": [
+      "கூற்று, காரணம் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்றும் காரணமும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Examine the statement.\nClaim: Foreign tourists flock to Calangute beach\nReason: Calangute beach is located between two sand dunes.",
+    "options_en": [
+      "The statement is correct",
+      "The statement is right, the reason is wrong",
+      "The statement is false and the reason is correct",
+      "Both the statement and the reason are wrong"
+    ],
+    "explanation": "கூற்று சரி, காரணம் தவறு",
+    "explanation_en": "The statement is right, the reason is wrong"
+  },
+  {
+    "id": 69,
+    "question": "பொருந்தாத இணையைத் தேர்ந்தெடுக்க",
+    "options": [
+      "கம்போடியா - அங்கோர்வாட்",
+      "காசி - வாரணாசி",
+      "பிரமிடுகள் - எகிப்து",
+      "தாஜ்மஹால் - நேபாளம்"
+    ],
+    "correct": 3,
+    "question_en": "To select a match that does not match",
+    "options_en": [
+      "Cambodia - Angkor Wat",
+      "Kashi – Varanasi",
+      "Pyramids - Egypt",
+      "Taj Mahal - Nepal"
+    ],
+    "explanation": "தாஜ்மஹால் - நேபாளம்",
+    "explanation_en": "Taj Mahal - Nepal"
+  },
+  {
+    "id": 70,
+    "question": "தவறான இணையைத் தேர்ந்தெடுக்க",
+    "options": [
+      "நைனிடால் - உத்தரகாண்ட்",
+      "டார்ஜிலிங் - மேற்கு வங்காளம்",
+      "மூணாறு - ஆந்திரப்பிரதேசம்",
+      "ஸ்ரீநகர் - ஜம்மு காஷ்மீர்"
+    ],
+    "correct": 2,
+    "question_en": "To select the wrong counterpart",
+    "options_en": [
+      "Nainital - Uttarakhand",
+      "Darjeeling - West Bengal",
+      "Munnar - Andhra Pradesh",
+      "Srinagar - Jammu Kashmir"
+    ],
+    "explanation": "மூணாறு - ஆந்திரப்பிரதேசம்",
+    "explanation_en": "Munnar - Andhra Pradesh"
+  },
+  {
+    "id": 71,
+    "question": "கிறிஸ்தவர்கள் மேற்கொள்ளும் புனிதப் பயண தலம் எது?",
+    "options": [
+      "டெல்லி",
+      "மெக்கா",
+      "காசி",
+      "ஜெருசலேம்"
+    ],
+    "correct": 3,
+    "question_en": "Which is the pilgrimage site for Christians?",
+    "options_en": [
+      "Delhi",
+      "Mecca",
+      "Kasi",
+      "Jerusalem"
+    ],
+    "explanation": "கிறிஸ்தவர்கள் மேற்கொள்ளும் புனிதப் பயண தலம் ஜெருசலேம் ஆகும்.",
+    "explanation_en": "Jerusalem is the pilgrimage site for Christians."
+  },
+  {
+    "id": 72,
+    "question": "சுற்றுச்சூழல் சுற்றுலாவிற்கு எடுத்துக்காட்டு ________.",
+    "options": [
+      "எகிப்து பிரமிடுகள்",
+      "முஸ்லீம்களின் மெக்கா பயணம்",
+      "ஆப்பிரிக்க வனப்பயணம்",
+      "விண்வீழ் விளையாட்டு"
+    ],
+    "correct": 2,
+    "question_en": "An example of ecotourism is ________.",
+    "options_en": [
+      "Pyramids of Egypt",
+      "Muslim pilgrimage to Mecca",
+      "African Wilderness",
+      "Space game"
+    ],
+    "explanation": "சுற்றுச்சூழல் சுற்றுலாவிற்கு எடுத்துக்காட்டு ஆப்பிரிக்க வனப்பயணம்.",
+    "explanation_en": "An example of ecotourism is African Wilderness."
+  },
+  {
+    "id": 73,
+    "question": "தமிழ்நாட்டின் புகழ்பெற்ற சமயச் சுற்றுலா தலங்களில் ஒன்று ________.",
+    "options": [
+      "காஞ்சிபுரம்",
+      "அமிர்தசரஸ்",
+      "வாரணாசி",
+      "சாரநாத்"
+    ],
+    "correct": 0,
+    "question_en": "One of the famous religious tourist destinations of Tamil Nadu is ________.",
+    "options_en": [
+      "Kanchipuram",
+      "Amritsar",
+      "Varanasi",
+      "Sarnath"
+    ],
+    "explanation": "தமிழ்நாட்டின் புகழ்பெற்ற சமயச் சுற்றுலா தலங்களில் ஒன்று காஞ்சிபுரம்.",
+    "explanation_en": "One of the famous religious tourist destinations of Tamil Nadu is Kanchipuram."
+  },
+  {
+    "id": 74,
+    "question": "வைஷ்ணவிதேவி கோவில் அமைந்துள்ள மாநிலம் எது?",
+    "options": [
+      "தமிழ்நாடு",
+      "பஞ்சாப்",
+      "கோவா",
+      "ஜம்மு காஷ்மீர்"
+    ],
+    "correct": 3,
+    "question_en": "In which state is Vaishnavidevi Temple located?",
+    "options_en": [
+      "Tamil Nadu",
+      "Punjab",
+      "Goa",
+      "Jammu and Kashmir"
+    ],
+    "explanation": "வைஷ்ணவிதேவி கோவில் அமைந்துள்ள மாநிலம் ஜம்மு காஷ்மீர் ஆகும்.",
+    "explanation_en": "Jammu and Kashmir"
+  },
+  {
+    "id": 75,
+    "question": "டார்ஜிலிங் எந்த மாநிலத்தின் மலைவாழிடம் ஆகும்?",
+    "options": [
+      "மேற்கு வங்காளம்",
+      "கேரளா",
+      "தமிழ்நாடு",
+      "பீகார்"
+    ],
+    "correct": 0,
+    "question_en": "Darjeeling is a hill station of which state?",
+    "options_en": [
+      "West Bengal",
+      "Kerala",
+      "Tamil Nadu",
+      "Bihar"
+    ],
+    "explanation": "மேற்கு வங்காளம்",
+    "explanation_en": "West Bengal"
+  },
+  {
+    "id": 76,
+    "question": "குதிரைவால் போன்ற அமைப்பில் உள்ள நீர்வீழ்ச்சியின் பெயர் எது?",
+    "options": [
+      "தாழையார் நீர்வீழ்ச்சி",
+      "ஜோக் நீர்வீழ்ச்சி",
+      "தலக்கோணம் நீர்வீழ்ச்சி",
+      "நோகாலிகாய் நீர்வீழ்ச்சி"
+    ],
+    "correct": 0,
+    "question_en": "What is the name of a waterfall with a horsetail like structure?",
+    "options_en": [
+      "Tahaliyar Falls",
+      "Jock Falls",
+      "Thalakonam Falls",
+      "Nogalikai Falls"
+    ],
+    "explanation": "குதிரைவால் போன்ற அமைப்பில் உள்ள நீர்வீழ்ச்சியின் பெயர் தாழையார் நீர்வீழ்ச்சி ஆகும்.",
+    "explanation_en": "Tahaliyar Falls is the name of a waterfall with a horsetail like structure."
+  },
+  {
+    "id": 77,
+    "question": "கொண்டை ஊசி வளைவுகளுடன் கூடிய வாகன போக்குவரத்து பகுதி எது?",
+    "options": [
+      "ஆனைமலை",
+      "மேகமலை",
+      "கொல்லிமலை",
+      "ஏலகிரி"
+    ],
+    "correct": 2,
+    "question_en": "Which vehicular traffic area has needle curves?",
+    "options_en": [
+      "Anaimalai",
+      "Meghamalai",
+      "Kollimalai",
+      "Aloe vera"
+    ],
+    "explanation": "கொண்டை ஊசி வளைவுகளுடன் கூடிய வாகன போக்குவரத்து பகுதி கொல்லிமலை ஆகும்.",
+    "explanation_en": "Kollimalai"
+  },
+  {
+    "id": 78,
+    "question": "உயர்ந்த மேகங்கள் குவியும் பகுதி ________ என அழைக்கப்படுகிறது",
+    "options": [
+      "ஜவ்வாதுமலை",
+      "மேகமலை",
+      "ஆனைமலை",
+      "கொல்லிமலை"
+    ],
+    "correct": 1,
+    "question_en": "The area where high clouds accumulate is called ________",
+    "options_en": [
+      "Javwadumalai",
+      "Meghamalai",
+      "Anaimalai",
+      "Kollimalai"
+    ],
+    "explanation": "உயர்ந்த மேகங்கள் குவியும் பகுதி மேகமலை என அழைக்கப்படுகிறது",
+    "explanation_en": "The area where high clouds accumulate is called Meghamalai"
+  },
+  {
+    "id": 79,
+    "question": "ஒகேனக்கல் நீர்வீழ்ச்சி அமைந்துள்ள மாவட்டம் எது?",
+    "options": [
+      "சென்னை",
+      "குற்றாலம்",
+      "ஊட்டி",
+      "தர்மபுரி"
+    ],
+    "correct": 3,
+    "question_en": "In which district is Okanagan Falls located?",
+    "options_en": [
+      "Chennai",
+      "crime scene",
+      "feeder",
+      "Dharmapuri"
+    ],
+    "explanation": "ஒகேனக்கல் நீர்வீழ்ச்சி அமைந்துள்ள மாவட்டம் தர்மபுரி ஆகும்.",
+    "explanation_en": "Dharmapuri"
+  },
+  {
+    "id": 80,
+    "question": "இந்திராகாந்தி வனவிலங்கு சரணாலயம் அமைந்துள்ள மாவட்டம் எது?",
+    "options": [
+      "நீலகிரி",
+      "நாகப்பட்டினம்",
+      "கோயம்புத்தூர்",
+      "திருநெல்வேலி"
+    ],
+    "correct": 2,
+    "question_en": "In which district is Indira Gandhi Wildlife Sanctuary located?",
+    "options_en": [
+      "Nilgiris",
+      "Nagapattinam",
+      "Coimbatore",
+      "Tirunelveli"
+    ],
+    "explanation": "இந்திராகாந்தி வனவிலங்கு சரணாலயம் அமைந்துள்ள மாவட்டம் கோயம்புத்தூர் ஆகும்.",
+    "explanation_en": "Coimbatore"
+  },
+  {
+    "id": 81,
+    "question": "கோவளம் கடற்கரை அமைந்துள்ள மாவட்டம் எது?",
+    "options": [
+      "காஞ்சிபுரம்",
+      "சென்னை",
+      "ராமேஸ்வரம்",
+      "கடலூர்"
+    ],
+    "correct": 0,
+    "question_en": "In which district is Kovalam Beach located?",
+    "options_en": [
+      "Kanchipuram",
+      "Chennai",
+      "Rameswaram",
+      "Cuddalore"
+    ],
+    "explanation": "கோவளம் கடற்கரை அமைந்துள்ள மாவட்டம் காஞ்சிபுரம் ஆகும்.",
+    "explanation_en": "Kanchipuram"
+  },
+  {
+    "id": 82,
+    "question": "அமைதியான மற்றும் ஆழமற்ற கடற்கரை என அழைக்கப்படுவது எது?",
+    "options": [
+      "எலியட் கடற்கரை",
+      "சில்வர் கடற்கரை",
+      "முட்டுக்காடு கடற்கரை",
+      "கன்னியாகுமரி கடற்கரை"
+    ],
+    "correct": 2,
+    "question_en": "What is called a calm and shallow beach?",
+    "options_en": [
+      "Elliott Beach",
+      "Silver Beach",
+      "Muttukkadu beach",
+      "Kanyakumari Beach"
+    ],
+    "explanation": "அமைதியான மற்றும் ஆழமற்ற கடற்கரை என அழைக்கப்படுவது முட்டுக்காடு கடற்கரை ஆகும்.",
+    "explanation_en": "Muttukkadu beach is called a calm and shallow beach."
+  },
+  {
+    "id": 83,
+    "question": "இந்தியாவின் சுற்றுலாத் தலங்களில் அதிக வருமானம் தரும் மாநிலம் ________.",
+    "options": [
+      "கேரளா",
+      "தமிழ்நாடு",
+      "குஜராத்",
+      "கர்நாடகா"
+    ],
+    "correct": 1,
+    "question_en": "________ is the highest earning state among tourist destinations in India.",
+    "options_en": [
+      "Kerala",
+      "Tamil Nadu",
+      "Gujarat",
+      "Karnataka"
+    ],
+    "explanation": "இந்தியாவின் சுற்றுலாத் தலங்களில் அதிக வருமானம் தரும் மாநிலம் தமிழ்நாடு.",
+    "explanation_en": "Tamil Nadu is the highest earning state among tourist destinations in India."
+  },
+  {
+    "id": 84,
+    "question": "பல்லவர்கால சிற்பங்களைக் கண்டுகளிக்க மக்கள் செல்லும் கடற்கரை ________.",
+    "options": [
+      "மெரினா",
+      "மகாபலிபுரம்",
+      "கோவளம்",
+      "கன்னியாகுமரி"
+    ],
+    "correct": 1,
+    "question_en": "The beach where people go to see the centuries-old sculptures is ________.",
+    "options_en": [
+      "Marina",
+      "Mahabalipuram",
+      "Kovalam",
+      "Kanyakumari"
+    ],
+    "explanation": "பல்லவர்கால சிற்பங்களைக் கண்டுகளிக்க மக்கள் செல்லும் கடற்கரை மகாபலிபுரம்.",
+    "explanation_en": "The beach where people go to see the centuries-old sculptures is Mahabalipuram."
+  },
+  {
+    "id": 85,
+    "question": "முக்கடல் சந்திப்பை _______ கடற்கரைக்குச் சென்றால் காணலாம்.",
+    "options": [
+      "கன்னியாகுமரி",
+      "மெரினா",
+      "கோவளம்",
+      "எலியட்"
+    ],
+    "correct": 0,
+    "question_en": "The junction of the three seas can be seen by visiting the _______ beach.",
+    "options_en": [
+      "Kanyakumari",
+      "Marina",
+      "Kovalam",
+      "Eliot"
+    ],
+    "explanation": "முக்கடல் சந்திப்பை கன்னியாகுமரி கடற்கரைக்குச் சென்றால் காணலாம்.",
+    "explanation_en": "The junction of the three seas can be seen by visiting the Kanyakumari beach."
+  },
+  {
+    "id": 86,
+    "question": "பொருத்தமானதைத் தேர்ந்தெடுக்க\nகூற்று 1: கிழக்குத் தொடர்ச்சி மலையில் ஆகாய கங்கை நீர்வீழ்ச்சியும், கிளியூர் நீர்வீழ்ச்சியும் உள்ளன.\nகூற்று 2: மேற்குத் தொடர்ச்சி மலையில் மணிமுத்தாறு அருவியும், வெள்ளி அருவியும் உள்ளன.",
+    "options": [
+      "கூற்று 1 தவறு 2 சரி",
+      "கூற்று 1 சரி 2 தவறு",
+      "கூற்று 1 மற்றும் 2 தவறு",
+      "1 மற்றும் 2 சரி"
+    ],
+    "correct": 3,
+    "question_en": "Select the appropriate one\nAssertion 1: Eastern Ghats have Agaya Ganga Falls and Cleur Falls.\nStatement 2: There are Manimutthar Falls and Villi Falls in the Western Ghats.",
+    "options_en": [
+      "Statement 1 is false 2 is correct",
+      "Statement 1 is true 2 is false",
+      "Statement 1 and 2 are false",
+      "1 and 2 are correct"
+    ],
+    "explanation": "1 மற்றும் 2 சரி",
+    "explanation_en": "1 and 2 are correct"
+  },
+  {
+    "id": 87,
+    "question": "பின்வருவனவற்றுள் சூழல் சுற்றுலாவிற்கு தொடர்புடையது எது?",
+    "options": [
+      "ஜெருசலேம்",
+      "அங்கோர்வாட்",
+      "பிரம்மபுத்ரா நதியின் கட்டுமர மிதவை நதிப்பயணம்",
+      "அமேசான் மழைக்காடுகள்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is related to ecotourism?",
+    "options_en": [
+      "Jerusalem",
+      "Angkor Wat",
+      "River rafting on the Brahmaputra river",
+      "Amazon rainforests"
+    ],
+    "explanation": "பின்வருவனவற்றுள் சூழல் சுற்றுலாவிற்கு தொடர்புடையது அமேசான் மழைக்காடுகள் ஆகும்.",
+    "explanation_en": "Amazon rainforests is related to ecotourism."
+  },
+  {
+    "id": 88,
+    "question": "IATA என்பதன் விரிவாக்கம் ________.",
+    "options": [
+      "International Aviation Travel Association",
+      "International Air Transportation Association",
+      "International Aviation and Tourism Association",
+      "International Air Travel Agency"
+    ],
+    "correct": 1,
+    "question_en": "IATA is an extension of ________.",
+    "options_en": [
+      "International Aviation Travel Association",
+      "International Air Transportation Association",
+      "International Aviation and Tourism Association",
+      "International Air Travel Agency"
+    ],
+    "explanation": "IATA என்பதன் விரிவாக்கம் International Air Transportation Association.",
+    "explanation_en": "IATA is an extension of International Air Transportation Association."
+  }
+]

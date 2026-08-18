@@ -1,0 +1,2043 @@
+[
+    {
+        "id": 6,
+        "question": "-4 உடன் எதனைக் கூட்ட 10 கிடைக்கும்?",
+        "options": [
+            "6",
+            "-6",
+            "+14",
+            "-14"
+        ],
+        "correct": 2,
+        "explanation": "தெரியாத எண்ணை x என்க. (-4) + x = 10. எனவே, x = 10 + 4 = 14.",
+        "question_en": "What must be added to -4 to get 10?",
+        "options_en": [
+            "6",
+            "-6",
+            "+14",
+            "-14"
+        ],
+        "explanation_en": "Let the unknown number be x. (-4) + x = 10. Therefore, x = 10 + 4 = 14."
+    },
+    {
+        "id": 7,
+        "question": "-70 + 20 = ___ - 10",
+        "options": [
+            "60",
+            "40",
+            "-40",
+            "-60"
+        ],
+        "correct": 2,
+        "explanation": "இடதுபுறம்: -70 + 20 = -50. வலதுபுறம்: x - 10. எனவே, -50 = x - 10 => x = -50 + 10 = -40.",
+        "question_en": "-70 + 20 = ___ - 10",
+        "options_en": [
+            "60",
+            "40",
+            "-40",
+            "-60"
+        ],
+        "explanation_en": "Left side: -70 + 20 = -50. Right side: x - 10. So, -50 = x - 10 => x = -50 + 10 = -40."
+    },
+    {
+        "id": 8,
+        "question": "a + (b + c) = (a + b) + c என்பது எவ்வகைப் பண்பு?",
+        "options": [
+            "பரிமாற்று",
+            "கூட்டல் சமனி",
+            "சேர்ப்பு",
+            "பங்கீட்டு"
+        ],
+        "correct": 2,
+        "explanation": "மூன்று எண்களைக் கூட்டும்போது அடைப்புக்குறிகளை (Grouping) மாற்றி அமைத்துச் கூட்டுவது சேர்ப்புப் பண்பு (Associative property) எனப்படும்.",
+        "question_en": "a + (b + c) = (a + b) + c represents which property?",
+        "options_en": [
+            "Commutative",
+            "Additive Identity",
+            "Associative",
+            "Distributive"
+        ],
+        "explanation_en": "Changing the grouping of three numbers when adding them is known as the Associative property."
+    },
+    {
+        "id": 9,
+        "question": "மிகச்சிறிய மிகை முழு",
+        "options": [
+            "0",
+            "100",
+            "1",
+            "9"
+        ],
+        "correct": 2,
+        "explanation": "மிகை முழுக்கள் (Positive integers) 1 இலிருந்து தொடங்குகின்றன (1, 2, 3...). எனவே மிகச்சிறிய மிகை முழு 1 ஆகும்.",
+        "question_en": "The smallest positive integer is",
+        "options_en": [
+            "0",
+            "100",
+            "1",
+            "9"
+        ],
+        "explanation_en": "Positive integers start from 1 (1, 2, 3...). Therefore, the smallest positive integer is 1."
+    },
+    {
+        "id": 10,
+        "question": "முழு எண்கள் மற்றும் குறை எண்களின் தொகுப்பு",
+        "options": [
+            "இயல் எண்கள்",
+            "முழுக்கள்",
+            "மிகை எண்கள்",
+            "0"
+        ],
+        "correct": 1,
+        "explanation": "முழு எண்கள் (0, 1, 2, 3...) மற்றும் குறை எண்கள் (-1, -2, -3...) ஆகிய இரண்டும் இணைந்த தொகுப்பு முழுக்கள் (Integers) என அழைக்கப்படுகிறது.",
+        "question_en": "The collection of whole numbers and negative numbers is",
+        "options_en": [
+            "Natural numbers",
+            "Integers",
+            "Positive numbers",
+            "0"
+        ],
+        "explanation_en": "The collection combining whole numbers (0, 1, 2, 3...) and negative numbers (-1, -2, -3...) is called Integers."
+    },
+    {
+        "id": 11,
+        "question": "முழுக்களில் கூட்டல் சமனி",
+        "options": [
+            "1",
+            "-1",
+            "0",
+            "ஏதுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "எந்த ஒரு எண்ணுடனும் 0-ஐக் கூட்டினால் அதே எண் கிடைக்கும் (a + 0 = a). எனவே, கூட்டல் சமனி 0 ஆகும்.",
+        "question_en": "The additive identity in integers is",
+        "options_en": [
+            "1",
+            "-1",
+            "0",
+            "None"
+        ],
+        "explanation_en": "Adding 0 to any number gives the same number (a + 0 = a). Therefore, the additive identity is 0."
+    },
+    {
+        "id": 12,
+        "question": "___ + (-48) = 0",
+        "options": [
+            "-48",
+            "0",
+            "1",
+            "48"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு எண்ணையும் அதன் கூட்டல் எதிர்மறையையும் (Additive inverse) கூட்டினால் 0 கிடைக்கும். -48 இன் கூட்டல் எதிர்மறை 48.",
+        "question_en": "___ + (-48) = 0",
+        "options_en": [
+            "-48",
+            "0",
+            "1",
+            "48"
+        ],
+        "explanation_en": "Adding a number and its additive inverse gives 0. The additive inverse of -48 is 48."
+    },
+    {
+        "id": 13,
+        "question": "மிகச்சிறிய குறை முழு",
+        "options": [
+            "-1",
+            "0",
+            "-10",
+            "கூற இயலாது"
+        ],
+        "correct": 3,
+        "explanation": "குறை முழுக்கள் (-1, -2, -3...) முடிவில்லாமல் சென்று கொண்டே இருப்பதால், மிகச்சிறிய குறை முழுவை வரையறுத்துக் கூற இயலாது.",
+        "question_en": "The smallest negative integer is",
+        "options_en": [
+            "-1",
+            "0",
+            "-10",
+            "Cannot be determined"
+        ],
+        "explanation_en": "Since negative integers go on infinitely (-1, -2, -3...), the smallest negative integer cannot be determined."
+    },
+    {
+        "id": 14,
+        "question": "மிகப்பெரிய மிகை முழு",
+        "options": [
+            "-1",
+            "+1",
+            "0",
+            "கூற இயலாது"
+        ],
+        "correct": 3,
+        "explanation": "மிகை முழுக்கள் (1, 2, 3...) முடிவில்லாமல் சென்று கொண்டே இருப்பதால், மிகப்பெரிய மிகை முழுவை அளவிட்டுக் கூற இயலாது.",
+        "question_en": "The largest positive integer is",
+        "options_en": [
+            "-1",
+            "+1",
+            "0",
+            "Cannot be determined"
+        ],
+        "explanation_en": "Since positive integers increase infinitely (1, 2, 3...), the largest positive integer cannot be determined."
+    },
+    {
+        "id": 15,
+        "question": "ஓர் எண்ணானது மற்றோர் எண்ணை விட +4 அதிகம். ஓர் எண் -16 எனில், மற்றோர் எண்?",
+        "options": [
+            "+12",
+            "0",
+            "-1",
+            "-12"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு எண் -16. மற்றோர் எண் அதைவிட 4 அதிகம் எனில்: -16 + 4 = -12.",
+        "question_en": "One number is +4 more than another number. If one number is -16, what is the other number?",
+        "options_en": [
+            "+12",
+            "0",
+            "-1",
+            "-12"
+        ],
+        "explanation_en": "One number is -16. If the other number is 4 more than it: -16 + 4 = -12."
+    },
+    {
+        "id": 16,
+        "question": "இரு முழுக்களின் கூடுதல் +62. அதில் ஒரு முழு -48 எனில், மற்றொரு முழு",
+        "options": [
+            "+14",
+            "-14",
+            "-110",
+            "+110"
+        ],
+        "correct": 3,
+        "explanation": "தெரியாத எண் x என்க. x + (-48) = 62 ➔ x = 62 + 48 = 110.",
+        "question_en": "The sum of two integers is +62. If one of the integers is -48, the other integer is",
+        "options_en": [
+            "+14",
+            "-14",
+            "-110",
+            "+110"
+        ],
+        "explanation_en": "Let the unknown number be x. x + (-48) = 62 ➔ x = 62 + 48 = 110."
+    },
+    {
+        "id": 17,
+        "question": "10, -5, 3, 1, -2, 0, -7 போன்ற முழுக்களை எண்கோட்டில் குறிக்கும்போது எண்கோட்டில் இடது கோடியில் குறிக்கப்படும் எண்",
+        "options": [
+            "10",
+            "0",
+            "-7",
+            "-2"
+        ],
+        "correct": 2,
+        "explanation": "எண்கோட்டில் மதிப்பில் மிகச்சிறிய எண்தான் இடது கோடியில் அமையும். கொடுக்கப்பட்டவற்றுள் மிகச்சிறிய எண் -7.",
+        "question_en": "When integers like 10, -5, 3, 1, -2, 0, -7 are marked on a number line, the number marked at the extreme left end is",
+        "options_en": [
+            "10",
+            "0",
+            "-7",
+            "-2"
+        ],
+        "explanation_en": "On a number line, the number with the smallest value is at the extreme left. Among the given, the smallest is -7."
+    },
+    {
+        "id": 18,
+        "question": "(-7) + (-2) ஐ விட 2 அதிகமுள்ள முழு",
+        "options": [
+            "-7",
+            "-9",
+            "11",
+            "-3"
+        ],
+        "correct": 0,
+        "explanation": "முதலில் (-7) + (-2) = -9. -9 ஐ விட 2 அதிகம் என்றால்: -9 + 2 = -7.",
+        "question_en": "The integer which is 2 more than (-7) + (-2)",
+        "options_en": [
+            "-7",
+            "-9",
+            "11",
+            "-3"
+        ],
+        "explanation_en": "First, (-7) + (-2) = -9. 2 more than -9 means: -9 + 2 = -7."
+    },
+    {
+        "id": 19,
+        "question": "கீழ்க்கண்டவற்றுள் எது சரி?",
+        "options": [
+            "-37 < -99 < 0 < 2",
+            "-99 < -37 < 0 < 2",
+            "-99 < 0 < 2 < -37",
+            "-37 < 0 < 2 < -99"
+        ],
+        "correct": 1,
+        "explanation": "எண்களை ஏறுவரிசையில் எழுதினால்: -99 மிகச்சிறியது, அதைவிடப் பெரியது -37, அடுத்து 0, மிகப்பெரியது 2. எனவே -99 < -37 < 0 < 2 என்பதே சரி.",
+        "question_en": "Which of the following is correct?",
+        "options_en": [
+            "-37 < -99 < 0 < 2",
+            "-99 < -37 < 0 < 2",
+            "-99 < 0 < 2 < -37",
+            "-37 < 0 < 2 < -99"
+        ],
+        "explanation_en": "Arranging the numbers in ascending order: -99 is the smallest, followed by -37, then 0, and 2 is the largest. Thus, -99 < -37 < 0 < 2 is correct."
+    },
+    {
+        "id": 20,
+        "question": "(-15) + 20 + (-5) = ___",
+        "options": [
+            "40",
+            "20",
+            "0",
+            "-40"
+        ],
+        "correct": 2,
+        "explanation": "குறை எண்களை முதலில் கூட்டினால் (-15) + (-5) = -20. பின்னர் மிகை எண்ணுடன் கூட்ட: -20 + 20 = 0.",
+        "question_en": "(-15) + 20 + (-5) = ___",
+        "options_en": [
+            "40",
+            "20",
+            "0",
+            "-40"
+        ],
+        "explanation_en": "Adding negative numbers first: (-15) + (-5) = -20. Adding this to the positive number: -20 + 20 = 0."
+    },
+    {
+        "id": 21,
+        "question": "-999 இன் முன்னி மற்றும் 99 இன் தொடரி ஆகியவற்றின் கூட்டுத்தொகை",
+        "options": [
+            "-1098",
+            "-900",
+            "-1100",
+            "-898"
+        ],
+        "correct": 1,
+        "explanation": "-999 இன் முன்னி (Predecessor) = -1000. 99 இன் தொடரி (Successor) = 100. இவற்றின் கூட்டுத்தொகை = -1000 + 100 = -900.",
+        "question_en": "The sum of the predecessor of -999 and the successor of 99 is",
+        "options_en": [
+            "-1098",
+            "-900",
+            "-1100",
+            "-898"
+        ],
+        "explanation_en": "Predecessor of -999 is -1000. Successor of 99 is 100. Their sum = -1000 + 100 = -900."
+    },
+    {
+        "id": 22,
+        "question": "இரு முழுக்களின் கூட்டுத்தொகை -5. அதில் ஒரு முழு 4 எனில், மற்றொரு முழு",
+        "options": [
+            "1",
+            "-1",
+            "-9",
+            "+9"
+        ],
+        "correct": 2,
+        "explanation": "தெரியாத எண்ணை x என்க. x + 4 = -5 ➔ x = -5 - 4 = -9.",
+        "question_en": "The sum of two integers is -5. If one integer is 4, what is the other integer?",
+        "options_en": [
+            "1",
+            "-1",
+            "-9",
+            "+9"
+        ],
+        "explanation_en": "Let the unknown integer be x. x + 4 = -5 ➔ x = -5 - 4 = -9."
+    },
+    {
+        "id": 23,
+        "question": "ஒரு முழுவின் முன்னியின் தொடரி",
+        "options": [
+            "1",
+            "-1",
+            "0",
+            "அதே முழு"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு எண்ணிலிருந்து 1-ஐக் கழித்து (முன்னி), மீண்டும் 1-ஐக் கூட்டினால் (தொடரி) மீண்டும் 'அதே முழு' தான் கிடைக்கும். (x - 1) + 1 = x.",
+        "question_en": "The successor of the predecessor of an integer is",
+        "options_en": [
+            "1",
+            "-1",
+            "0",
+            "The integer itself"
+        ],
+        "explanation_en": "Subtracting 1 from a number (predecessor) and then adding 1 (successor) results back in 'The integer itself'. (x - 1) + 1 = x."
+    },
+    {
+        "id": 24,
+        "question": "0 மற்றும் 10 க்கு இடைப்பட்ட முழுக்களின் எண்ணிக்கை",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "-9"
+        ],
+        "correct": 1,
+        "explanation": "0 க்கும் 10 க்கும் இடையில் உள்ள முழுக்கள்: 1, 2, 3, 4, 5, 6, 7, 8, 9. ஆக மொத்தம் 9 எண்கள் உள்ளன.",
+        "question_en": "The number of integers between 0 and 10 is",
+        "options_en": [
+            "8",
+            "9",
+            "10",
+            "-9"
+        ],
+        "explanation_en": "The integers strictly between 0 and 10 are 1, 2, 3, 4, 5, 6, 7, 8, 9. Totaling 9 numbers."
+    },
+    {
+        "id": 25,
+        "question": "கீழ்க்கண்ட முழுக்களைக் கொண்ட சரியான ஏறுவரிசை எது? -106, 107, -286, 235, -320, 18, 96, 78, -7",
+        "options": [
+            "-7, 18, 78, 96, 106, 107, 235, 286, -320",
+            "-320, -286, -106, -7, 18, 78, 96, 107, 235",
+            "-320, -286, 233, 107, 106, 96, 78, 18, -7",
+            "-7, -79, -106, 286, 320, 18, 78, 107, 235"
+        ],
+        "correct": 1,
+        "explanation": "குறை எண்களில் பெரிய மதிப்புடைய எண்கள் மிகச்சிறியவை. ஏறுவரிசை: -320, -286, -106, -7, 18, 78, 96, 107, 235.",
+        "question_en": "What is the correct ascending order of the following integers? -106, 107, -286, 235, -320, 18, 96, 78, -7",
+        "options_en": [
+            "-7, 18, 78, 96, 106, 107, 235, 286, -320",
+            "-320, -286, -106, -7, 18, 78, 96, 107, 235",
+            "-320, -286, 233, 107, 106, 96, 78, 18, -7",
+            "-7, -79, -106, 286, 320, 18, 78, 107, 235"
+        ],
+        "explanation_en": "Among negative numbers, the one with the larger absolute value is smaller. Ascending order: -320, -286, -106, -7, 18, 78, 96, 107, 235."
+    },
+    {
+        "id": 26,
+        "question": "200 இன் தொடரி\n\n1) -199\n2) -201\n3) 200\n4) இவற்றில் ஏதுமில்லை",
+        "options": [
+            "-199",
+            "-201",
+            "200",
+            "இவற்றில் ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "புத்தகத்தின் விடைக் குறிப்பின்படி விடை (2) -201 எனக் கொடுக்கப்பட்டுள்ளது. இது '-200 இன் முன்னி' (Predecessor of -200) என்பதற்கான விடையாகும். கேள்வியில் பிழை இருக்கலாம்.",
+        "question_en": "The successor of 200\n\n1) -199\n2) -201\n3) 200\n4) None of these",
+        "options_en": [
+            "-199",
+            "-201",
+            "200",
+            "None of these"
+        ],
+        "explanation_en": "According to the book's answer key, the answer is (2) -201. This is actually the predecessor of -200. There might be a typo in the question."
+    },
+    {
+        "id": 27,
+        "question": "கீழ்க்கண்ட தொடரில் அடுத்த இரு எண்களைக் காண்க. \n-15, -14, -12, -11, -9, __, __\n\n1) -7, -5\n2) -8, -6\n3) -7, -6\n4) -8, -7",
+        "options": [
+            "-7, -5",
+            "-8, -6",
+            "-7, -6",
+            "-8, -7"
+        ],
+        "correct": 1,
+        "explanation": "இத்தொடரின் அமைப்பு: +1, +2, +1, +2 என மாறி மாறி கூடுகிறது. \n-15 + 1 = -14\n-14 + 2 = -12\n-12 + 1 = -11\n-11 + 2 = -9\nஎனவே அடுத்த எண்கள்: -9 + 1 = -8 மற்றும் -8 + 2 = -6.",
+        "question_en": "Find the next two numbers in the following series. \n-15, -14, -12, -11, -9, __, __\n\n1) -7, -5\n2) -8, -6\n3) -7, -6\n4) -8, -7",
+        "options_en": [
+            "-7, -5",
+            "-8, -6",
+            "-7, -6",
+            "-8, -7"
+        ],
+        "explanation_en": "The pattern adds +1, +2, +1, +2 alternately. \n-15 + 1 = -14\n-14 + 2 = -12\n-12 + 1 = -11\n-11 + 2 = -9\nSo the next numbers are: -9 + 1 = -8 and -8 + 2 = -6."
+    },
+    {
+        "id": 28,
+        "question": "கீழ்க்கண்டவற்றுள் எது தவறான கூற்று?\n\n1) மிகை > 0 > குறை\n2) மிகை > குறை < 0\n3) 0 < மிகை < குறை\n4) மிகை < 0 < குறை",
+        "options": [
+            "மிகை > 0 > குறை",
+            "மிகை > குறை < 0",
+            "0 < மிகை < குறை",
+            "மிகை < 0 < குறை"
+        ],
+        "correct": 3,
+        "explanation": "மிகை எண்கள் (Positive) எப்போதுமே 0-ஐ விடப் பெரியவை. ஆனால் 4-வது கூற்றில் 'மிகை < 0' என்று கொடுக்கப்பட்டுள்ளது. எனவே இதுவே தவறான கூற்று.",
+        "question_en": "Which of the following statements is wrong?\n\n1) Positive > 0 > Negative\n2) Positive > Negative < 0\n3) 0 < Positive < Negative\n4) Positive < 0 < Negative",
+        "options_en": [
+            "Positive > 0 > Negative",
+            "Positive > Negative < 0",
+            "0 < Positive < Negative",
+            "Positive < 0 < Negative"
+        ],
+        "explanation_en": "Positive numbers are always greater than 0. But statement 4 says 'Positive < 0'. Thus, it is the wrong statement."
+    },
+    {
+        "id": 29,
+        "question": "(-5) - (-18) = __\n\n1) 23\n2) -13\n3) 13\n4) -23",
+        "options": [
+            "23",
+            "-13",
+            "13",
+            "-23"
+        ],
+        "correct": 2,
+        "explanation": "(-5) - (-18) = -5 + 18. வேறுபட்ட குறிகளைக் கழிக்கப் பெரிய எண்ணிலிருந்து சிறிய எண்ணைக் கழித்துப் பெரிய எண்ணின் குறியை இட வேண்டும். 18 - 5 = 13.",
+        "question_en": "(-5) - (-18) = __\n\n1) 23\n2) -13\n3) 13\n4) -23",
+        "options_en": [
+            "23",
+            "-13",
+            "13",
+            "-23"
+        ],
+        "explanation_en": "(-5) - (-18) = -5 + 18. Subtract the smaller absolute value from the larger one and keep the sign of the larger one. 18 - 5 = 13."
+    },
+    {
+        "id": 30,
+        "question": "(-100) - 0 + 100 = __\n\n1) 200\n2) 0\n3) 100\n4) -200",
+        "options": [
+            "200",
+            "0",
+            "100",
+            "-200"
+        ],
+        "correct": 1,
+        "explanation": "-100 இலிருந்து 0-ஐக் கழித்தால் -100 தான் கிடைக்கும். பின்பு அதனுடன் 100 ஐக் கூட்டினால் (-100 + 100) விடை 0.",
+        "question_en": "(-100) - 0 + 100 = __\n\n1) 200\n2) 0\n3) 100\n4) -200",
+        "options_en": [
+            "200",
+            "0",
+            "100",
+            "-200"
+        ],
+        "explanation_en": "Subtracting 0 from -100 gives -100. Then adding 100 to it (-100 + 100) gives 0."
+    },
+    {
+        "id": 31,
+        "question": "-12 லிருந்து -28 ஐக் கழித்தால் கிடைப்பது\n\n1) -16\n2) +16\n3) +40\n4) -40",
+        "options": [
+            "-16",
+            "+16",
+            "+40",
+            "-40"
+        ],
+        "correct": 1,
+        "explanation": "(-12) - (-28) = -12 + 28 = +16.",
+        "question_en": "Subtracting -28 from -12 gives\n\n1) -16\n2) +16\n3) +40\n4) -40",
+        "options_en": [
+            "-16",
+            "+16",
+            "+40",
+            "-40"
+        ],
+        "explanation_en": "(-12) - (-28) = -12 + 28 = +16."
+    },
+    {
+        "id": 32,
+        "question": "-26 லிருந்து +43 ஐக் கழித்தால் கிடைப்பது\n\n1) -17\n2) +17\n3) -69\n4) +69",
+        "options": [
+            "-17",
+            "+17",
+            "-69",
+            "+69"
+        ],
+        "correct": 2,
+        "explanation": "(-26) - (+43) = -26 - 43. இரண்டு எண்களும் குறை எண்களாக இருப்பதால், இரண்டையும் கூட்டி குறை குறியை இட வேண்டும். -(26 + 43) = -69.",
+        "question_en": "Subtracting +43 from -26 gives\n\n1) -17\n2) +17\n3) -69\n4) +69",
+        "options_en": [
+            "-17",
+            "+17",
+            "-69",
+            "+69"
+        ],
+        "explanation_en": "(-26) - (+43) = -26 - 43. Since both are negative, add them and place a negative sign. -(26 + 43) = -69."
+    },
+    {
+        "id": 33,
+        "question": "மலையடிவாரத்தில் வெப்பநிலை +5°C என உள்ளது. மலை உச்சியின் வெப்பநிலை மலையடிவாரத்தின் வெப்பநிலையை விட 10°C குறைகிறது. எனில், மலை உச்சியின் வெப்பநிலை\n\n1) +15°C\n2) -15°C\n3) +5°C\n4) -5°C",
+        "options": [
+            "+15°C",
+            "-15°C",
+            "+5°C",
+            "-5°C"
+        ],
+        "correct": 3,
+        "explanation": "5°C லிருந்து 10°C ஐக் கழிக்க வேண்டும். 5 - 10 = -5°C.",
+        "question_en": "The temperature at the foot of a mountain is +5°C. The temperature at the peak is 10°C less than the temperature at the foot. Then, the temperature at the peak is\n\n1) +15°C\n2) -15°C\n3) +5°C\n4) -5°C",
+        "options_en": [
+            "+15°C",
+            "-15°C",
+            "+5°C",
+            "-5°C"
+        ],
+        "explanation_en": "We need to subtract 10°C from 5°C. 5 - 10 = -5°C."
+    },
+    {
+        "id": 34,
+        "question": "நண்பகல் 12 மணிக்கு ஓரிடத்தின் வெப்பநிலை 10°C. ஒவ்வொரு மணி நேரத்திற்கும் 2°C வீதம் வெப்பநிலை குறைந்து கொண்டே வந்தால், பிற்பகல் 9 மணிக்கு அவ்விடத்தின் வெப்பநிலை?\n\n1) -8°C\n2) -6°C\n3) 8°C\n4) 6°C",
+        "options": [
+            "-8°C",
+            "-6°C",
+            "8°C",
+            "6°C"
+        ],
+        "correct": 0,
+        "explanation": "மொத்த நேரம் = 12 நண்பகல் முதல் 9 பிற்பகல் வரை = 9 மணி நேரம். \nமொத்த வெப்பநிலை குறைவு = 9 × 2 = 18°C. \nஇறுதி வெப்பநிலை = 10°C - 18°C = -8°C.",
+        "question_en": "The temperature of a place is 10°C at 12 noon. If the temperature decreases at a rate of 2°C per hour, what will be the temperature at 9 PM?\n\n1) -8°C\n2) -6°C\n3) 8°C\n4) 6°C",
+        "options_en": [
+            "-8°C",
+            "-6°C",
+            "8°C",
+            "6°C"
+        ],
+        "explanation_en": "Total time = From 12 noon to 9 PM = 9 hours.\nTotal temperature decrease = 9 × 2 = 18°C.\nFinal temperature = 10°C - 18°C = -8°C."
+    },
+    {
+        "id": 35,
+        "question": "கீழ்க்கண்ட பண்புகளில் எது முழுக்களின் கழித்தலை நிறைவு செய்யாது?\n(i) அடைவுப் பண்பு (ii) பரிமாற்றுப் பண்பு (iii) சேர்ப்புப் பண்பு\n\n1) (i) மற்றும் (ii)\n2) (i) மற்றும் (iii)\n3) (ii) மற்றும் (iii)\n4) இவை அனைத்தும்",
+        "options": [
+            "(i) மற்றும் (ii)",
+            "(i) மற்றும் (iii)",
+            "(ii) மற்றும் (iii)",
+            "இவை அனைத்தும்"
+        ],
+        "correct": 2,
+        "explanation": "முழுக்களின் கழித்தலுக்குப் பரிமாற்றுப் பண்பும் (a-b ≠ b-a), சேர்ப்புப் பண்பும் (a-(b-c) ≠ (a-b)-c) பொருந்தாது. அடைவுப் பண்பு (Closure) மட்டுமே பொருந்தும்.",
+        "question_en": "Which of the following properties are not satisfied by subtraction of integers?\n(i) Closure property (ii) Commutative property (iii) Associative property\n\n1) (i) and (ii)\n2) (i) and (iii)\n3) (ii) and (iii)\n4) All of the above",
+        "options_en": [
+            "(i) and (ii)",
+            "(i) and (iii)",
+            "(ii) and (iii)",
+            "All of the above"
+        ],
+        "explanation_en": "Subtraction of integers does not satisfy commutative (a-b ≠ b-a) and associative (a-(b-c) ≠ (a-b)-c) properties. Only closure property holds true."
+    },
+    {
+        "id": 36,
+        "question": "எது சரியான கூற்று?\n\n1) ஒரு மிகை முழு மற்றும் ஒரு குறை முழு ஆகியவற்றின் கூடுதல் எப்போதும் குறை முழு ஆகும்.\n2) இரு குறை முழுக்களின் கூடுதல் மிகை முழு ஆகும்.\n3) ஒரு முழு மற்றும் அதன் கூட்டல் எதிர்மறை ஆகியவற்றின் கூடுதல் எப்போதும் பூச்சியம் ஆகும்.\n4) இரு முழுக்களின் வித்தியாசம் எப்போதும் பூச்சியமாகாது.",
+        "options": [
+            "ஒரு மிகை முழு மற்றும் ஒரு குறை முழு ஆகியவற்றின் கூடுதல் எப்போதும் குறை முழு ஆகும்.",
+            "இரு குறை முழுக்களின் கூடுதல் மிகை முழு ஆகும்.",
+            "ஒரு முழு மற்றும் அதன் கூட்டல் எதிர்மறை ஆகியவற்றின் கூடுதல் எப்போதும் பூச்சியம் ஆகும்.",
+            "இரு முழுக்களின் வித்தியாசம் எப்போதும் பூச்சியமாகாது."
+        ],
+        "correct": 2,
+        "explanation": "எந்தவொரு முழுவுடன் அதன் கூட்டல் எதிர்மறையைக் (எ.கா: a + (-a)) கூட்டினாலும் விடை எப்போதும் 0 (பூச்சியம்) தான் கிடைக்கும்.",
+        "question_en": "Which of the following statements is correct?\n\n1) The sum of a positive integer and a negative integer is always a negative integer.\n2) The sum of two negative integers is a positive integer.\n3) The sum of an integer and its additive inverse is always zero.\n4) The difference between two integers is never zero.",
+        "options_en": [
+            "The sum of a positive integer and a negative integer is always a negative integer.",
+            "The sum of two negative integers is a positive integer.",
+            "The sum of an integer and its additive inverse is always zero.",
+            "The difference between two integers is never zero."
+        ],
+        "explanation_en": "Adding any integer to its additive inverse (e.g., a + (-a)) always yields 0 (zero)."
+    },
+    {
+        "id": 37,
+        "question": "85 + (-12) = 85 + ___\n\n1) -12\n2) 12\n3) 0\n4) -85",
+        "options": [
+            "-12",
+            "12",
+            "0",
+            "-85"
+        ],
+        "correct": 0,
+        "explanation": "இது ஒரு சமன்பாடு. 85 உடன் (-12)-ஐக் கூட்டினால், அது 85 + (-12) என்பதற்குச் சமம்.",
+        "question_en": "85 + (-12) = 85 + ___\n\n1) -12\n2) 12\n3) 0\n4) -85",
+        "options_en": [
+            "-12",
+            "12",
+            "0",
+            "-85"
+        ],
+        "explanation_en": "This is an equation. Adding (-12) to 85 is exactly equal to 85 + (-12)."
+    },
+    {
+        "id": 38,
+        "question": "-5 இலிருந்து அதன் கூட்டல் எதிர்மறையைக் கழிக்க\n\n1) 0\n2) 10\n3) -10\n4) -5",
+        "options": [
+            "0",
+            "10",
+            "-10",
+            "-5"
+        ],
+        "correct": 2,
+        "explanation": "-5 இன் கூட்டல் எதிர்மறை (Additive inverse) = +5. \nஎனவே, (-5) - (+5) = -10.",
+        "question_en": "Subtracting the additive inverse of -5 from -5\n\n1) 0\n2) 10\n3) -10\n4) -5",
+        "options_en": [
+            "0",
+            "10",
+            "-10",
+            "-5"
+        ],
+        "explanation_en": "The additive inverse of -5 is +5. \nTherefore, (-5) - (+5) = -10."
+    },
+    {
+        "id": 39,
+        "question": "5 லிருந்து எந்த எண்ணைக் கழிக்க கூட்டல் சமனி கிடைக்கும்?\n\n1) +5\n2) -5\n3) 0\n4) 1",
+        "options": [
+            "+5",
+            "-5",
+            "0",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "கூட்டல் சமனி என்பது 0. 5 லிருந்து எந்த எண்ணைக் கழித்தால் 0 கிடைக்கும்? \n5 - x = 0 => x = +5. (விடைக்குறிப்பில் தவறுதலாக -5 என அச்சிடப்பட்டிருக்கலாம்).",
+        "question_en": "What number must be subtracted from 5 to get the additive identity?\n\n1) +5\n2) -5\n3) 0\n4) 1",
+        "options_en": [
+            "+5",
+            "-5",
+            "0",
+            "1"
+        ],
+        "explanation_en": "The additive identity is 0. What number subtracted from 5 gives 0? \n5 - x = 0 => x = +5. (The answer key might have a misprint as -5)."
+    },
+    {
+        "id": 40,
+        "question": "கோடிட்ட இடத்தில் வரும் பொருத்தமான குறியீடு எது? \n[(-25) - (-42)] - (-27) ___ (-42) - (-25) + (-22)\n\n1) <\n2) >\n3) =\n4) \\le",
+        "options": [
+            "<",
+            ">",
+            "=",
+            "\\le"
+        ],
+        "correct": 1,
+        "explanation": "இடதுபுறம் (LHS): (-25) + 42 + 27 = 17 + 27 = 44.\nவலதுபுறம் (RHS): -42 + 25 - 22 = -17 - 22 = -39.\n44 > -39. எனவே '>' குறியீடு சரி.",
+        "question_en": "Which is the appropriate sign to fill in the blank? \n[(-25) - (-42)] - (-27) ___ (-42) - (-25) + (-22)\n\n1) <\n2) >\n3) =\n4) \\le",
+        "options_en": [
+            "<",
+            ">",
+            "=",
+            "\\le"
+        ],
+        "explanation_en": "LHS: (-25) + 42 + 27 = 17 + 27 = 44.\nRHS: -42 + 25 - 22 = -17 - 22 = -39.\n44 > -39. So, the '>' sign is correct."
+    },
+    {
+        "id": 41,
+        "question": "கீழ்க்கண்டவற்றுள் அதிகபட்ச வெப்பநிலை வீழ்ச்சியைக் காட்டுவது\n\n1) 5°C லிருந்து 1°C\n2) 4°C லிருந்து -8°C\n3) 0°C லிருந்து -5°C\n4) -4°C லிருந்து -8°C",
+        "options": [
+            "5°C லிருந்து 1°C",
+            "4°C லிருந்து -8°C",
+            "0°C லிருந்து -5°C",
+            "-4°C லிருந்து -8°C"
+        ],
+        "correct": 1,
+        "explanation": "வீழ்ச்சி அளவுகள்:\n1) 5 - 1 = 4°C\n2) 4 - (-8) = 12°C\n3) 0 - (-5) = 5°C\n4) -4 - (-8) = 4°C\nஇவற்றில் 12°C என்பதே அதிகபட்ச வீழ்ச்சி.",
+        "question_en": "Which of the following shows the maximum temperature drop?\n\n1) 5°C to 1°C\n2) 4°C to -8°C\n3) 0°C to -5°C\n4) -4°C to -8°C",
+        "options_en": [
+            "5°C to 1°C",
+            "4°C to -8°C",
+            "0°C to -5°C",
+            "-4°C to -8°C"
+        ],
+        "explanation_en": "Drops:\n1) 5 - 1 = 4°C\n2) 4 - (-8) = 12°C\n3) 0 - (-5) = 5°C\n4) -4 - (-8) = 4°C\nAmong these, 12°C is the maximum drop."
+    },
+    {
+        "id": 42,
+        "question": "கீழ்க்கண்டவற்றுள் எது சரியான கூற்று?\n\n1) (-8) + (-4) > (-8) - (-4)\n2) (-8) + (-4) > (+8) + (-4)\n3) (8) - (-4) > (-8) - (-4)\n4) (-8) - (0) > (0) - (-4)",
+        "options": [
+            "(-8) + (-4) > (-8) - (-4)",
+            "(-8) + (-4) > (+8) + (-4)",
+            "(8) - (-4) > (-8) - (-4)",
+            "(-8) - (0) > (0) - (-4)"
+        ],
+        "correct": 2,
+        "explanation": "விருப்பம் (3)-ஐச் சரிபார்த்தால்: (8) + 4 > -8 + 4 => 12 > -4. இதுவே சரியான கணிதக் கூற்று.",
+        "question_en": "Which of the following is a correct statement?\n\n1) (-8) + (-4) > (-8) - (-4)\n2) (-8) + (-4) > (+8) + (-4)\n3) (8) - (-4) > (-8) - (-4)\n4) (-8) - (0) > (0) - (-4)",
+        "options_en": [
+            "(-8) + (-4) > (-8) - (-4)",
+            "(-8) + (-4) > (+8) + (-4)",
+            "(8) - (-4) > (-8) - (-4)",
+            "(-8) - (0) > (0) - (-4)"
+        ],
+        "explanation_en": "Checking option (3): (8) + 4 > -8 + 4 => 12 > -4. This is a true mathematical statement."
+    },
+    {
+        "id": 43,
+        "question": "43°C மற்றும் -17°C இன் வேறுபாடு\n\n1) -26°C\n2) 60°C\n3) -60°C\n4) 26°C",
+        "options": [
+            "-26°C",
+            "60°C",
+            "-60°C",
+            "26°C"
+        ],
+        "correct": 1,
+        "explanation": "வேறுபாடு = 43 - (-17) = 43 + 17 = 60°C.",
+        "question_en": "The difference between 43°C and -17°C is\n\n1) -26°C\n2) 60°C\n3) -60°C\n4) 26°C",
+        "options_en": [
+            "-26°C",
+            "60°C",
+            "-60°C",
+            "26°C"
+        ],
+        "explanation_en": "Difference = 43 - (-17) = 43 + 17 = 60°C."
+    },
+    {
+        "id": 44,
+        "question": "(-34) + (-22) + k = -25 எனில் k = ?\n\n1) -56\n2) 31\n3) 87\n4) 90",
+        "options": [
+            "-56",
+            "31",
+            "87",
+            "90"
+        ],
+        "correct": 1,
+        "explanation": "-56 + k = -25. \nk = -25 + 56 = 31.",
+        "question_en": "If (-34) + (-22) + k = -25, then k = ?\n\n1) -56\n2) 31\n3) 87\n4) 90",
+        "options_en": [
+            "-56",
+            "31",
+            "87",
+            "90"
+        ],
+        "explanation_en": "-56 + k = -25. \nk = -25 + 56 = 31."
+    },
+    {
+        "id": 45,
+        "question": "பின்வருவனவற்றுள் எதன் மதிப்பு -30 ஆக இருக்கும்?\n\n1) -20 - (5×2)\n2) (6×10) - (6×5)\n3) (2×5) + (4×5)\n4) (-6) × (+5)",
+        "options": [
+            "-20 - (5×2)",
+            "(6×10) - (6×5)",
+            "(2×5) + (4×5)",
+            "(-6) × (+5)"
+        ],
+        "correct": 0,
+        "explanation": "விருப்பம் (1): -20 - (10) = -30. (குறிப்பு: விருப்பம் 4 ன் மதிப்பும் (-30) தான். விடைக்குறிப்பில் (1) எனக் கொடுக்கப்பட்டுள்ளது).",
+        "question_en": "Which of the following has a value of -30?\n\n1) -20 - (5×2)\n2) (6×10) - (6×5)\n3) (2×5) + (4×5)\n4) (-6) × (+5)",
+        "options_en": [
+            "-20 - (5×2)",
+            "(6×10) - (6×5)",
+            "(2×5) + (4×5)",
+            "(-6) × (+5)"
+        ],
+        "explanation_en": "Option (1): -20 - (10) = -30. (Note: Option 4 also evaluates to -30. The answer key specifies option 1)."
+    },
+    {
+        "id": 46,
+        "question": "11 × (-1) = ___",
+        "options": [
+            "-1",
+            "10",
+            "+11",
+            "-11"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு மிகை முழுவை குறை முழுவால் பெருக்கினால் குறை முழு கிடைக்கும். 11 × -1 = -11.",
+        "question_en": "11 × (-1) = ___",
+        "options_en": [
+            "-1",
+            "10",
+            "+11",
+            "-11"
+        ],
+        "explanation_en": "Multiplying a positive integer by a negative integer results in a negative integer. 11 × -1 = -11."
+    },
+    {
+        "id": 47,
+        "question": "(5 × 2) + (5 × 5) = 5 × (2 + 5) இச் சமன்பாடு குறிக்கும் பண்பு எது?",
+        "options": [
+            "பரிமாற்றுப் பண்பு",
+            "அடைவுப் பண்பு",
+            "பங்கீட்டுப் பண்பு",
+            "சேர்ப்புப் பண்பு"
+        ],
+        "correct": 2,
+        "explanation": "இது கூட்டலின் மீதான பெருக்கலின் பங்கீட்டுப் பண்பு (Distributive property of multiplication over addition) ஆகும்: a × (b + c) = (a × b) + (a × c).",
+        "question_en": "(5 × 2) + (5 × 5) = 5 × (2 + 5). Which property does this equation represent?",
+        "options_en": [
+            "Commutative property",
+            "Closure property",
+            "Distributive property",
+            "Associative property"
+        ],
+        "explanation_en": "This represents the Distributive property of multiplication over addition: a × (b + c) = (a × b) + (a × c)."
+    },
+    {
+        "id": 48,
+        "question": "(-12) × (-9) = ___",
+        "options": [
+            "108",
+            "-108",
+            "+1",
+            "-1"
+        ],
+        "correct": 0,
+        "explanation": "இரு குறை முழுக்களைப் பெருக்கினால் மிகை முழு கிடைக்கும். (-12) × (-9) = +108.",
+        "question_en": "(-12) × (-9) = ___",
+        "options_en": [
+            "108",
+            "-108",
+            "+1",
+            "-1"
+        ],
+        "explanation_en": "Multiplying two negative integers results in a positive integer. (-12) × (-9) = +108."
+    },
+    {
+        "id": 49,
+        "question": "கீழ்க்கண்டவற்றுள் எது சரியான கூற்று?",
+        "options": [
+            "ஒரு மிகைமுழு, குறைமுழு ஆகியவற்றின் கூடுதல் எப்போதும் ஒரு மிகை முழுவாகும்.",
+            "இரு முழுக்களின் கூடுதல் எப்போதும் பூச்சியமாகாது.",
+            "இரு குறை முழுக்களின் பெருக்கற்பலன் ஒரு மிகை முழுவாகும்.",
+            "மிகச்சிறிய குறைமுழு -1 ஆகும்."
+        ],
+        "correct": 2,
+        "explanation": "இரு குறை முழுக்களைப் பெருக்கினால் எப்போதும் மிகை முழு கிடைக்கும் (Negative × Negative = Positive) என்பதே சரியான கூற்று. மற்றவை தவறானவை.",
+        "question_en": "Which of the following statements is correct?",
+        "options_en": [
+            "The sum of a positive integer and a negative integer is always a positive integer.",
+            "The sum of two integers is never zero.",
+            "The product of two negative integers is a positive integer.",
+            "The smallest negative integer is -1."
+        ],
+        "explanation_en": "The product of two negative integers is always a positive integer (Negative × Negative = Positive). This is the only correct statement."
+    },
+    {
+        "id": 50,
+        "question": "ஒற்றைப்படை எண்ணிக்கையிலான குறை முழுக்களைப் பெருக்கினால் கிடைப்பது",
+        "options": [
+            "மிகை முழு",
+            "குறை முழு",
+            "0",
+            "ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "குறை முழுக்களை ஒற்றைப்படை (Odd) எண்ணிக்கையில் பெருக்கினால் விடை குறை முழுவாகவே (Negative integer) இருக்கும். (எ.கா: (-1)×(-1)×(-1) = -1).",
+        "question_en": "Multiplying an odd number of negative integers results in",
+        "options_en": [
+            "Positive integer",
+            "Negative integer",
+            "0",
+            "None"
+        ],
+        "explanation_en": "Multiplying negative integers an odd number of times always results in a negative integer. (e.g., (-1)×(-1)×(-1) = -1)."
+    },
+    {
+        "id": 51,
+        "question": "முழுக்களில் பெருக்கல் சமனி",
+        "options": [
+            "1",
+            "-1",
+            "0",
+            "ஏதுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "எந்த ஒரு முழுவையும் 1 ஆல் பெருக்கினால் அதே முழு கிடைக்கும் (a × 1 = a). எனவே பெருக்கல் சமனி 1.",
+        "question_en": "The multiplicative identity in integers is",
+        "options_en": [
+            "1",
+            "-1",
+            "0",
+            "None"
+        ],
+        "explanation_en": "Multiplying any integer by 1 gives the same integer (a × 1 = a). Therefore, the multiplicative identity is 1."
+    },
+    {
+        "id": 52,
+        "question": "ஒரு குறை முழு மற்றும் ஒரு மிகை முழு ஆகியவற்றின் பெருக்கற்பலன் (Question inferred from options)",
+        "options": [
+            "குறை",
+            "மிகை",
+            "0",
+            "ஏதுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு குறை முழு மற்றும் ஒரு மிகை முழு ஆகியவற்றைப் பெருக்கினால் கிடைப்பது குறை முழு (Negative) ஆகும். (- × + = -).",
+        "question_en": "The product of a negative integer and a positive integer is (Question inferred)",
+        "options_en": [
+            "Negative",
+            "Positive",
+            "0",
+            "None"
+        ],
+        "explanation_en": "Multiplying a negative integer by a positive integer always results in a negative integer. (- × + = -)."
+    },
+    {
+        "id": 53,
+        "question": "ஒரு குறை முழு மற்றும் மற்றொரு குறை முழுவின் பெருக்கற்பலன் (Question inferred from options)",
+        "options": [
+            "குறை",
+            "மிகை",
+            "0",
+            "ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "இரு குறை முழுக்களைப் பெருக்கினால் கிடைப்பது மிகை முழு (Positive) ஆகும். (- × - = +).",
+        "question_en": "The product of a negative integer and another negative integer is (Question inferred)",
+        "options_en": [
+            "Negative",
+            "Positive",
+            "0",
+            "None"
+        ],
+        "explanation_en": "Multiplying two negative integers always results in a positive integer. (- × - = +)."
+    },
+    {
+        "id": 54,
+        "question": "(-148) × ___ = +148",
+        "options": [
+            "+1",
+            "0",
+            "-1",
+            "+148"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு குறை முழுவுடன் (-148) எதைப் பெருக்கினால் மிகை முழு (+148) கிடைக்கும்? (-1) ஐப் பெருக்கினால். (-148) × (-1) = +148.",
+        "question_en": "(-148) × ___ = +148",
+        "options_en": [
+            "+1",
+            "0",
+            "-1",
+            "+148"
+        ],
+        "explanation_en": "What must be multiplied with -148 to get +148? Multiplying by -1 changes the sign. (-148) × (-1) = +148."
+    },
+    {
+        "id": 55,
+        "question": "17 × ___ = 0",
+        "options": [
+            "1",
+            "0",
+            "17",
+            "-17"
+        ],
+        "correct": 1,
+        "explanation": "எந்தவொரு எண்ணையும் 0 ஆல் பெருக்கினால் மட்டுமே விடை 0 கிடைக்கும்.",
+        "question_en": "17 × ___ = 0",
+        "options_en": [
+            "1",
+            "0",
+            "17",
+            "-17"
+        ],
+        "explanation_en": "Any number multiplied by 0 gives 0."
+    },
+    {
+        "id": 56,
+        "question": "இரு முழுக்களின் பெருக்கற்பலன் -48. அதில் ஓர் எண் 6 எனில், மற்றோர் எண்",
+        "options": [
+            "+1",
+            "+288",
+            "0",
+            "+8"
+        ],
+        "correct": 3,
+        "explanation": "6 × x = -48 ➔ x = -48 / 6 = -8. மூலப்புத்தகத்தின் விடைக்குறிப்பில்/விருப்பங்களில் +8 எனத் தவறாக அச்சிடப்பட்டுள்ளது. சரியான விடை -8 (அல்லது வினா -6 என இருந்திருக்க வேண்டும்).",
+        "question_en": "The product of two integers is -48. If one integer is 6, the other integer is",
+        "options_en": [
+            "+1",
+            "+288",
+            "0",
+            "+8"
+        ],
+        "explanation_en": "6 × x = -48 ➔ x = -48 / 6 = -8. The source document likely has a misprint in the options as +8. The mathematically correct answer is -8."
+    },
+    {
+        "id": 57,
+        "question": "மாறுபட்ட குறிகளையுடைய இரு முழுக்களைப் பெருக்கினால் கிடைப்பது",
+        "options": [
+            "குறை முழு",
+            "0",
+            "மிகைமுழு",
+            "கூற இயலாது"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு மிகை மற்றும் ஒரு குறை எண்ணைப் பெருக்கினால் (மாறுபட்ட குறிகள்) எப்போதும் குறை முழுவே (Negative integer) கிடைக்கும்.",
+        "question_en": "Multiplying two integers with different signs results in",
+        "options_en": [
+            "Negative integer",
+            "0",
+            "Positive integer",
+            "Cannot be determined"
+        ],
+        "explanation_en": "Multiplying a positive integer and a negative integer (different signs) always results in a negative integer."
+    },
+    {
+        "id": 58,
+        "question": "கீழ்க்கண்டவற்றில் தவறானது எது?",
+        "options": [
+            "(-4) × (-10) × (-5) < 0",
+            "(-143) + 143 > 0",
+            "(-8) - (-5) < 0",
+            "(0) ÷ (-2+4) = 0"
+        ],
+        "correct": 1,
+        "explanation": "விருப்பம் (2) இல்: (-143) + 143 = 0. இது 0 ஐ விடப் பெரியது (>0) எனக் கூறப்பட்டுள்ளது. எனவே இதுவே தவறான கூற்று.",
+        "question_en": "Which of the following is wrong?",
+        "options_en": [
+            "(-4) × (-10) × (-5) < 0",
+            "(-143) + 143 > 0",
+            "(-8) - (-5) < 0",
+            "(0) ÷ (-2+4) = 0"
+        ],
+        "explanation_en": "In option (2): (-143) + 143 = 0. It is stated that it is strictly greater than 0 (>0). Hence, this is the wrong statement."
+    },
+    {
+        "id": 59,
+        "question": "கீழ்க்காணும் ஒன்றில் எது கூட்டலின் மீது பெருக்கலின் பங்கீட்டுப் பண்பு ஆகும்?",
+        "options": [
+            "a × (b + c) = (a + b) × (a + c)",
+            "a × (b + c) = (a × b) + (a × c)",
+            "a × (b + c) = (a + b) + (a + c)",
+            "a × (b + c) = (a × b) × (a × c)"
+        ],
+        "correct": 1,
+        "explanation": "பங்கீட்டுப் பண்பின்படி (Distributive property): a × (b + c) = (a × b) + (a × c).",
+        "question_en": "Which of the following represents the distributive property of multiplication over addition?",
+        "options_en": [
+            "a × (b + c) = (a + b) × (a + c)",
+            "a × (b + c) = (a × b) + (a × c)",
+            "a × (b + c) = (a + b) + (a + c)",
+            "a × (b + c) = (a × b) × (a × c)"
+        ],
+        "explanation_en": "According to the Distributive property: a × (b + c) = (a × b) + (a × c)."
+    },
+    {
+        "id": 60,
+        "question": "a மற்றும் b என்பன இரு முழுக்கள் எனில் a × b ஒரு முழுவாகும். இது பெருக்கலின் ___ பண்பு ஆகும்.",
+        "options": [
+            "பங்கீட்டு",
+            "பரிமாற்று",
+            "சேர்ப்பு",
+            "அடைவு"
+        ],
+        "correct": 3,
+        "explanation": "இரு முழுக்களைப் பெருக்கினால் மீண்டும் ஒரு முழுவே கிடைப்பது 'அடைவுப் பண்பு' (Closure property) எனப்படும்.",
+        "question_en": "If a and b are two integers, then a × b is also an integer. This is the ___ property of multiplication.",
+        "options_en": [
+            "Distributive",
+            "Commutative",
+            "Associative",
+            "Closure"
+        ],
+        "explanation_en": "The property that states multiplying two integers yields another integer is called the 'Closure property'."
+    },
+    {
+        "id": 61,
+        "question": "a = (-1) × (-1) × (-1) × ... (100 முறைகள்), b = (-1) × (-1) × (-1) × ... (99 முறைகள்) எனில், a + b இன் மதிப்பு",
+        "options": [
+            "-1",
+            "-2",
+            "0",
+            "1"
+        ],
+        "correct": 2,
+        "explanation": "(-1) ஐ இரட்டைப்படை (Even) முறை (100) பெருக்கினால் +1 கிடைக்கும் (a = 1). ஒற்றைப்படை (Odd) முறை (99) பெருக்கினால் -1 கிடைக்கும் (b = -1). எனவே a + b = 1 + (-1) = 0.",
+        "question_en": "If a = (-1) × (-1) × (-1) × ... (100 times), and b = (-1) × (-1) × (-1) × ... (99 times), then the value of a + b is",
+        "options_en": [
+            "-1",
+            "-2",
+            "0",
+            "1"
+        ],
+        "explanation_en": "Multiplying (-1) an even number of times (100) gives +1 (a = 1). Multiplying it an odd number of times (99) gives -1 (b = -1). Thus, a + b = 1 + (-1) = 0."
+    },
+    {
+        "id": 62,
+        "question": "7(x + y) = 7x + 7y என்பது எப்பண்பு?",
+        "options": [
+            "சேர்ப்புப் பண்பு",
+            "அடைவுப் பண்பு",
+            "பங்கீட்டுப் பண்பு",
+            "பரிமாற்றுப் பண்பு"
+        ],
+        "correct": 2,
+        "explanation": "இது கூட்டலின் மீதான பெருக்கலின் பங்கீட்டுப் பண்பைக் (Distributive property) குறிக்கிறது.",
+        "question_en": "7(x + y) = 7x + 7y represents which property?",
+        "options_en": [
+            "Associative property",
+            "Closure property",
+            "Distributive property",
+            "Commutative property"
+        ],
+        "explanation_en": "This represents the Distributive property of multiplication over addition."
+    },
+    {
+        "id": 63,
+        "question": "25 குறை முழுக்கள் மற்றும் 100 மிகை முழுக்களின் பெருக்கற்பலன் ஒரு",
+        "options": [
+            "மிகை முழு",
+            "குறை முழு",
+            "மிகை (அ) குறை",
+            "ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "25 (ஒற்றைப்படை) குறை முழுக்களைப் பெருக்கினால் விடை 'குறை' எண்ணாக வரும். 100 மிகை முழுக்களைப் பெருக்கினால் விடை 'மிகை' எண்ணாக வரும். இறுதியில் (குறை × மிகை = குறை முழு).",
+        "question_en": "The product of 25 negative integers and 100 positive integers is a",
+        "options_en": [
+            "Positive integer",
+            "Negative integer",
+            "Positive or Negative",
+            "None"
+        ],
+        "explanation_en": "Multiplying 25 (an odd number) negative integers gives a 'negative' result. Multiplying 100 positive integers gives a 'positive' result. Finally, Negative × Positive = Negative integer."
+    },
+    {
+        "id": 64,
+        "question": "(-13) × 0 × (-5) = (-13) + 0 + ___",
+        "options": [
+            "-5",
+            "13",
+            "0",
+            "9"
+        ],
+        "correct": 1,
+        "explanation": "இடதுபுறம் 0 ஆல் பெருக்குவதால் மொத்த மதிப்பு 0. வலதுபுறம்: -13 + x. 0 = -13 + x எனில், x = +13.",
+        "question_en": "(-13) × 0 × (-5) = (-13) + 0 + ___",
+        "options_en": [
+            "-5",
+            "13",
+            "0",
+            "9"
+        ],
+        "explanation_en": "The LHS is 0 because of multiplication by 0. On the RHS: -13 + x. For 0 = -13 + x, x must be +13."
+    },
+    {
+        "id": 65,
+        "question": "(-3) × 3 இன் மதிப்பானது எண்கோட்டில் எம்முழுவிற்கு வலப்பக்கம் அமையும்?",
+        "options": [
+            "-10",
+            "-6",
+            "-8",
+            "9"
+        ],
+        "correct": 0,
+        "explanation": "(-3) × 3 = -9. எண்கோட்டில் -9 ஆனது -10 இற்கு வலப்பக்கமும்; -8, -6, 9 ஆகியவற்றுக்கு இடப்பக்கமும் அமையும். எனவே விடை -10.",
+        "question_en": "The value of (-3) × 3 lies to the right of which integer on the number line?",
+        "options_en": [
+            "-10",
+            "-6",
+            "-8",
+            "9"
+        ],
+        "explanation_en": "(-3) × 3 = -9. On a number line, -9 is located to the right of -10 (and to the left of -8, -6, and 9). Therefore, the answer is -10."
+    },
+    {
+        "id": 66,
+        "question": "(-25)(6+4) க்குச் சமமில்லாதது எது?",
+        "options": [
+            "(-150) + (-100)",
+            "(-25) × 10",
+            "(-25) × 6 × 4",
+            "(-25) × 6 + (-25) × 4"
+        ],
+        "correct": 2,
+        "explanation": "(-25)(6+4) = -25 × 10 = -250. \nவிருப்பம் 1: -150 - 100 = -250 (சமம்). \nவிருப்பம் 2: -25 × 10 = -250 (சமம்). \nவிருப்பம் 4: பங்கீட்டுப் பண்பின்படி இதுவும் சமமே (-250). \nவிருப்பம் 3: -25 × 6 × 4 = -600. எனவே இது சமமற்றது.",
+        "question_en": "Which of the following is not equal to (-25)(6+4)?",
+        "options_en": [
+            "(-150) + (-100)",
+            "(-25) × 10",
+            "(-25) × 6 × 4",
+            "(-25) × 6 + (-25) × 4"
+        ],
+        "explanation_en": "(-25)(6+4) = -25 × 10 = -250. \nOption 1: -150 - 100 = -250 (Equal). \nOption 2: -25 × 10 = -250 (Equal). \nOption 4: By distributive property, it is also equal (-250). \nOption 3: -25 × 6 × 4 = -600. Hence, it is not equal."
+    },
+    {
+        "id": 67,
+        "question": "(-22) × 102 + (-22) × (-2) = ___",
+        "options": [
+            "2200",
+            "-2200",
+            "2288",
+            "-2288"
+        ],
+        "correct": 1,
+        "explanation": "பங்கீட்டுப் பண்பைப் பயன்படுத்த (Distributive property): \n(-22) × [102 + (-2)] = -22 × 100 = -2200.",
+        "question_en": "(-22) × 102 + (-22) × (-2) = ___",
+        "options_en": [
+            "2200",
+            "-2200",
+            "2288",
+            "-2288"
+        ],
+        "explanation_en": "Using the distributive property: \n(-22) × [102 + (-2)] = -22 × 100 = -2200."
+    },
+    {
+        "id": 68,
+        "question": "முழுக்களின் பெருக்கலானது எப்பண்பை/ பண்புகளை நிறைவு செய்கிறது?",
+        "options": [
+            "அடைவுப் பண்பு",
+            "பரிமாற்றுப் பண்பு",
+            "சேர்ப்புப் பண்பு",
+            "இவை அனைத்தும்"
+        ],
+        "correct": 3,
+        "explanation": "முழுக்களின் பெருக்கல் செயலானது அடைவு (Closure), பரிமாற்று (Commutative) மற்றும் சேர்ப்பு (Associative) ஆகிய அனைத்துப் பண்புகளையும் நிறைவு செய்யும்.",
+        "question_en": "Multiplication of integers satisfies which property/properties?",
+        "options_en": [
+            "Closure property",
+            "Commutative property",
+            "Associative property",
+            "All of these"
+        ],
+        "explanation_en": "The multiplication of integers satisfies closure, commutative, and associative properties. Hence, all of these."
+    },
+    {
+        "id": 69,
+        "question": "(-5) × (-4) × (-3) × (-2) × (-1) × 0 + 0 × (1) × (2) × (3) × (4) × (5) இன் மதிப்பு",
+        "options": [
+            "120",
+            "-120",
+            "240",
+            "0"
+        ],
+        "correct": 3,
+        "explanation": "எந்தவொரு எண்களின் பெருக்கற்பலனிலும் 0 இருந்தால் அதன் மொத்த மதிப்பும் 0 தான். முதல் பகுதியின் மதிப்பு 0, இரண்டாம் பகுதியின் மதிப்பு 0. எனவே 0 + 0 = 0.",
+        "question_en": "The value of (-5) × (-4) × (-3) × (-2) × (-1) × 0 + 0 × (1) × (2) × (3) × (4) × (5) is",
+        "options_en": [
+            "120",
+            "-120",
+            "240",
+            "0"
+        ],
+        "explanation_en": "If 0 is a factor in any multiplication, the product is 0. The value of the first part is 0, and the second part is 0. Thus, 0 + 0 = 0."
+    },
+    {
+        "id": 70,
+        "question": "இரு முழுக்களின் பெருக்கற்பலன் -12 மற்றும் அவ்விரு முழுக்களுக்கு இடையில் 7 முழுக்கள் உள்ளது எனில், அவ்விரு முழுக்கள்",
+        "options": [
+            "-4, 3",
+            "-12, 1",
+            "-6, 2",
+            "ஏதுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "விருப்பம் (3)-ஐச் சரிபார்க்க: (-6) × 2 = -12. \n-6 க்கும் 2 க்கும் இடையில் உள்ள முழுக்கள்: -5, -4, -3, -2, -1, 0, 1 (மொத்தம் 7 எண்கள் உள்ளன).",
+        "question_en": "The product of two integers is -12 and there are 7 integers between them. Then the two integers are",
+        "options_en": [
+            "-4, 3",
+            "-12, 1",
+            "-6, 2",
+            "None"
+        ],
+        "explanation_en": "Checking option (3): (-6) × 2 = -12. \nThe integers between -6 and 2 are: -5, -4, -3, -2, -1, 0, 1 (a total of 7 integers)."
+    },
+    {
+        "id": 71,
+        "question": "பொருத்துக:\n(a) -10 + (-3) = -13 ➔ (i) சேர்ப்புப் பண்பு\n(b) 38 × (8 × 5) = (38 × 8) × 5 ➔ (ii) கூட்டல் சமனி\n(c) 0 + (-5) = (-5) + 0 = -5 ➔ (iii) கூட்டல் எதிர்மறை\n(d) (-5) + (5) = (5) + (-5) = 0 ➔ (iv) பெருக்கல் சமனி\n(e) (1) × (-142) = (-142) × 1 = -142 ➔ (v) அடைவுப் பண்பு",
+        "options": [
+            "a-v, b-i, c-ii, d-iv, e-iii",
+            "a-v, b-iii, c-ii, d-i, e-iv",
+            "a-iii, b-v, c-i, d-ii, e-iv",
+            "a-v, b-i, c-ii, d-iii, e-iv"
+        ],
+        "correct": 3,
+        "explanation": "(a) அடைவுப் பண்பு (v)\n(b) சேர்ப்புப் பண்பு (i)\n(c) கூட்டல் சமனி (ii)\n(d) கூட்டல் எதிர்மறை (iii)\n(e) பெருக்கல் சமனி (iv).",
+        "question_en": "Match the following:\n(a) -10 + (-3) = -13 ➔ (i) Associative property\n(b) 38 × (8 × 5) = (38 × 8) × 5 ➔ (ii) Additive identity\n(c) 0 + (-5) = (-5) + 0 = -5 ➔ (iii) Additive inverse\n(d) (-5) + (5) = (5) + (-5) = 0 ➔ (iv) Multiplicative identity\n(e) (1) × (-142) = (-142) × 1 = -142 ➔ (v) Closure property",
+        "options_en": [
+            "a-v, b-i, c-ii, d-iv, e-iii",
+            "a-v, b-iii, c-ii, d-i, e-iv",
+            "a-iii, b-v, c-i, d-ii, e-iv",
+            "a-v, b-i, c-ii, d-iii, e-iv"
+        ],
+        "explanation_en": "(a) Closure property (v)\n(b) Associative property (i)\n(c) Additive identity (ii)\n(d) Additive inverse (iii)\n(e) Multiplicative identity (iv)."
+    },
+    {
+        "id": 72,
+        "question": "பின்வருவனவற்றுள் எது ஒரு முழுவைக் குறிக்காது?",
+        "options": [
+            "0 ÷ (-7)",
+            "20 ÷ (-4)",
+            "(-9) ÷ 3",
+            "12 ÷ 5"
+        ],
+        "correct": 3,
+        "explanation": "12 ÷ 5 = 2.4. இது ஒரு தசம எண், முழு எண் (Integer) அல்ல.",
+        "question_en": "Which of the following does not represent an integer?",
+        "options_en": [
+            "0 ÷ (-7)",
+            "20 ÷ (-4)",
+            "(-9) ÷ 3",
+            "12 ÷ 5"
+        ],
+        "explanation_en": "12 ÷ 5 = 2.4. This is a decimal number, not an integer."
+    },
+    {
+        "id": 73,
+        "question": "(-16) ÷ 4 க்குச் சமமானது எது?",
+        "options": [
+            "-(-16 ÷ 4)",
+            "-(16) ÷ (-4)",
+            "16 ÷ (-4)",
+            "-4 ÷ 16"
+        ],
+        "correct": 2,
+        "explanation": "முதலில், (-16) ÷ 4 = -4. \nவிருப்பம் (3)-ஐப் பார்த்தால்: 16 ÷ (-4) = -4. இரண்டு மதிப்புகளும் சமம்.",
+        "question_en": "Which is equal to (-16) ÷ 4?",
+        "options_en": [
+            "-(-16 ÷ 4)",
+            "-(16) ÷ (-4)",
+            "16 ÷ (-4)",
+            "-4 ÷ 16"
+        ],
+        "explanation_en": "First, (-16) ÷ 4 = -4. \nLooking at option (3): 16 ÷ (-4) = -4. Both values are equal."
+    },
+    {
+        "id": 74,
+        "question": "(-200) ÷ 10 இன் மதிப்பு",
+        "options": [
+            "20",
+            "-20",
+            "-190",
+            "210"
+        ],
+        "correct": 1,
+        "explanation": "ஒரு குறை முழுவை மிகை முழுவால் வகுத்தால் குறை முழுவே கிடைக்கும். -200 / 10 = -20.",
+        "question_en": "The value of (-200) ÷ 10 is",
+        "options_en": [
+            "20",
+            "-20",
+            "-190",
+            "210"
+        ],
+        "explanation_en": "Dividing a negative integer by a positive integer gives a negative integer. -200 / 10 = -20."
+    },
+    {
+        "id": 75,
+        "question": "பின்வரும் எந்தச் செயலியில் முழுக்களின் தொகுப்பு \"அடைவுப் பண்பை” பெறாது?",
+        "options": [
+            "கூட்டல்",
+            "கழித்தல்",
+            "பெருக்கல்",
+            "வகுத்தல்"
+        ],
+        "correct": 3,
+        "explanation": "இரு முழுக்களை வகுக்கும்போது விடை எப்போதும் முழுவாக இருக்க வேண்டிய அவசியமில்லை (எ.கா: 1 ÷ 2 = 0.5). எனவே வகுத்தலில் அடைவுப் பண்பு இல்லை.",
+        "question_en": "Under which of the following operations is the set of integers not closed?",
+        "options_en": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division"
+        ],
+        "explanation_en": "Dividing two integers does not always result in an integer (e.g., 1 ÷ 2 = 0.5). Therefore, it does not satisfy the closure property under division."
+    },
+    {
+        "id": 76,
+        "question": "முழுக்களில் அடைவுப் பண்பானது எச்செயலிகளுக்கு நிறைவு செய்கிறது?",
+        "options": [
+            "+",
+            "+, -, ×",
+            "+, ×, -",
+            "+, -, ÷"
+        ],
+        "correct": 1,
+        "explanation": "முழுக்களின் தொகுப்பு கூட்டல், கழித்தல் மற்றும் பெருக்கல் ஆகிய மூன்று செயலிகளுக்கும் அடைவுப் பண்பை (Closure property) நிறைவு செய்யும். வகுத்தலுக்கு நிறைவு செய்யாது.",
+        "question_en": "The closure property of integers is satisfied under which operations?",
+        "options_en": [
+            "+",
+            "+, -, ×",
+            "+, ×, -",
+            "+, -, ÷"
+        ],
+        "explanation_en": "The set of integers is closed under addition, subtraction, and multiplication. It is not closed under division."
+    },
+    {
+        "id": 77,
+        "question": "முழுக்களில் பரிமாற்றுப் பண்பானது எச்செயலிகளுக்கு நிறைவு செய்கிறது?",
+        "options": [
+            "+",
+            "-, ×",
+            "+, -",
+            "+, ×"
+        ],
+        "correct": 3,
+        "explanation": "முழுக்களில் கூட்டல் மற்றும் பெருக்கல் மட்டுமே பரிமாற்றுப் பண்பை (Commutative: a+b = b+a, a×b = b×a) நிறைவு செய்யும்.",
+        "question_en": "The commutative property of integers is satisfied under which operations?",
+        "options_en": [
+            "+",
+            "-, ×",
+            "+, -",
+            "+, ×"
+        ],
+        "explanation_en": "Only addition and multiplication of integers satisfy the commutative property (a+b = b+a, a×b = b×a)."
+    },
+    {
+        "id": 78,
+        "question": "பொருத்துக:\n(a) (72) ÷ (-8) ➔ (i) -13\n(b) (-72) ÷ (-8) ➔ (ii) 13\n(c) (-117) ÷ (9) ➔ (iii) 9\n(d) (117) ÷ (9) ➔ (iv) -9",
+        "options": [
+            "a-iii, b-iv, c-i, d-ii",
+            "a-iv, b-iii, c-i, d-ii",
+            "a-ii, b-iii, c-iv, d-i",
+            "a-iv, b-i, c-ii, d-ii"
+        ],
+        "correct": 1,
+        "explanation": "(a) 72 / -8 = -9 (iv)\n(b) -72 / -8 = +9 (iii)\n(c) -117 / 9 = -13 (i)\n(d) 117 / 9 = +13 (ii)",
+        "question_en": "Match the following:\n(a) (72) ÷ (-8) ➔ (i) -13\n(b) (-72) ÷ (-8) ➔ (ii) 13\n(c) (-117) ÷ (9) ➔ (iii) 9\n(d) (117) ÷ (9) ➔ (iv) -9",
+        "options_en": [
+            "a-iii, b-iv, c-i, d-ii",
+            "a-iv, b-iii, c-i, d-ii",
+            "a-ii, b-iii, c-iv, d-i",
+            "a-iv, b-i, c-ii, d-ii"
+        ],
+        "explanation_en": "(a) 72 / -8 = -9 (iv)\n(b) -72 / -8 = +9 (iii)\n(c) -117 / 9 = -13 (i)\n(d) 117 / 9 = +13 (ii)"
+    },
+    {
+        "id": 79,
+        "question": "கீழ்க்கண்டவற்றுள் எது சரியான கூற்று?",
+        "options": [
+            "25 - 0 = 25",
+            "0 - 25 = 25",
+            "25 × 0 = 25",
+            "0 ÷ 25 = 25"
+        ],
+        "correct": 0,
+        "explanation": "எந்த எண்ணிலிருந்தும் 0-ஐக் கழித்தால் அதே எண் கிடைக்கும். 25 - 0 = 25. மற்ற விருப்பங்களின் சரியான விடைகள் முறையே -25, 0, 0 ஆகும்.",
+        "question_en": "Which of the following is a correct statement?",
+        "options_en": [
+            "25 - 0 = 25",
+            "0 - 25 = 25",
+            "25 × 0 = 25",
+            "0 ÷ 25 = 25"
+        ],
+        "explanation_en": "Subtracting 0 from any number gives the same number. 25 - 0 = 25. The correct values for the other options are -25, 0, and 0 respectively."
+    },
+    {
+        "id": 80,
+        "question": "5 ÷ (-1) இன் மதிப்பு எண்கோட்டில் எம்முழுக்களுக்கு இடையே அமையாது?",
+        "options": [
+            "0 மற்றும் -10",
+            "0 மற்றும் 10",
+            "-3 மற்றும் -10",
+            "-7 மற்றும் 7"
+        ],
+        "correct": 1,
+        "explanation": "5 ÷ (-1) = -5. இந்த எண் ஒரு குறை எண். இது 0 க்கும் 10 க்கும் (இரண்டும் மிகை எண்கள்) இடையே அமையாது.",
+        "question_en": "The value of 5 ÷ (-1) does not lie between which integers on the number line?",
+        "options_en": [
+            "0 and -10",
+            "0 and 10",
+            "-3 and -10",
+            "-7 and 7"
+        ],
+        "explanation_en": "5 ÷ (-1) = -5. This is a negative number. It does not lie between 0 and 10 (which are non-negative/positive integers)."
+    },
+    {
+        "id": 81,
+        "question": "a என்பது பூச்சியமற்ற முழு எனில், கீழ்க்கண்டவற்றுள் எதன் மதிப்பு வரையறுக்க இயலாது?",
+        "options": [
+            "a ÷ 0",
+            "0 ÷ a",
+            "a ÷ 1",
+            "1 ÷ a"
+        ],
+        "correct": 0,
+        "explanation": "கணிதத்தில் எந்தவொரு எண்ணையும் 0 ஆல் வகுப்பது வரையறுக்கப்படவில்லை (Undefined). எனவே, a ÷ 0 வரையறுக்க இயலாது.",
+        "question_en": "If a is a non-zero integer, the value of which of the following is undefined?",
+        "options_en": [
+            "a ÷ 0",
+            "0 ÷ a",
+            "a ÷ 1",
+            "1 ÷ a"
+        ],
+        "explanation_en": "In mathematics, dividing any number by zero is undefined. Hence, a ÷ 0 cannot be determined."
+    },
+    {
+        "id": 82,
+        "question": "a மற்றும் b என்பன இரு முழுக்கள் எனில், கீழ்க்கண்டவற்றுள் எது சில சமயங்களில் முழுவாகாது?",
+        "options": [
+            "a + b",
+            "a - b",
+            "a × b",
+            "a ÷ b"
+        ],
+        "correct": 3,
+        "explanation": "முழுக்களின் வகுத்தலில் அடைவுப் பண்பு இல்லை. ஒரு முழுவை மற்றொரு முழுவால் வகுக்கும்போது கிடைக்கும் விடை எப்போதும் முழு எண்ணாக இருக்காது (தசமமாக வரலாம்).",
+        "question_en": "If a and b are two integers, which of the following may sometimes not be an integer?",
+        "options_en": [
+            "a + b",
+            "a - b",
+            "a × b",
+            "a ÷ b"
+        ],
+        "explanation_en": "Integers are not closed under division. Dividing one integer by another does not always result in an integer (it can be a decimal)."
+    },
+    {
+        "id": 83,
+        "question": "100 × (-1) + 0 ÷ (-1) இன் மதிப்பு",
+        "options": [
+            "-100",
+            "100",
+            "-101",
+            "101"
+        ],
+        "correct": 0,
+        "explanation": "முதலில் பெருக்குதல் மற்றும் வகுத்தலைச் செய்ய வேண்டும் (BODMAS). \n100 × -1 = -100. \n0 ÷ -1 = 0. \nபின்னர் கூட்ட வேண்டும்: -100 + 0 = -100.",
+        "question_en": "The value of 100 × (-1) + 0 ÷ (-1) is",
+        "options_en": [
+            "-100",
+            "100",
+            "-101",
+            "101"
+        ],
+        "explanation_en": "Follow the order of operations (BODMAS). \n100 × -1 = -100. \n0 ÷ -1 = 0. \nThen add: -100 + 0 = -100."
+    },
+    {
+        "id": 84,
+        "question": "0 ÷ (-10) = ___",
+        "options": [
+            "0",
+            "-1",
+            "-10",
+            "வரையறுக்க முடியாது"
+        ],
+        "correct": 0,
+        "explanation": "0 ஐ எந்தவொரு பூச்சியமற்ற எண்ணால் வகுத்தாலும் கிடைக்கும் விடை 0 தான்.",
+        "question_en": "0 ÷ (-10) = ___",
+        "options_en": [
+            "0",
+            "-1",
+            "-10",
+            "Undefined"
+        ],
+        "explanation_en": "Zero divided by any non-zero integer always results in 0."
+    },
+    {
+        "id": 85,
+        "question": "[(-4) × (-9) × (-25)] ÷ [(-2) × (-3) × (-5)]",
+        "options": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "correct": 2,
+        "explanation": "தொகுதி (Numerator): (-4 × -9) = 36; 36 × (-25) = -900. \nபகுதி (Denominator): (-2 × -3) = 6; 6 × (-5) = -30. \n-900 ÷ -30 = +30.",
+        "question_en": "[(-4) × (-9) × (-25)] ÷ [(-2) × (-3) × (-5)]",
+        "options_en": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "explanation_en": "Numerator: (-4 × -9) = 36; 36 × (-25) = -900. \nDenominator: (-2 × -3) = 6; 6 × (-5) = -30. \n-900 ÷ -30 = +30."
+    },
+    {
+        "id": 86,
+        "question": "(-12-3) ÷ (-6+3) = ___",
+        "options": [
+            "5",
+            "3",
+            "-5",
+            "-3"
+        ],
+        "correct": 0,
+        "explanation": "தொகுதி: -12 - 3 = -15. பகுதி: -6 + 3 = -3. \n-15 ÷ -3 = 5.",
+        "question_en": "(-12-3) ÷ (-6+3) = ___",
+        "options_en": [
+            "5",
+            "3",
+            "-5",
+            "-3"
+        ],
+        "explanation_en": "Numerator: -12 - 3 = -15. Denominator: -6 + 3 = -3. \n-15 ÷ -3 = 5."
+    },
+    {
+        "id": 87,
+        "question": "திருவள்ளுவர் பொ.ஆ.மு 31 இல் பிறந்தார் எனில், பொ.ஆ 2023 இல் திருவள்ளுவரின் வயது?",
+        "options": [
+            "1992",
+            "2023",
+            "2054",
+            "2021"
+        ],
+        "correct": 2,
+        "explanation": "பொ.ஆ.மு (BC) மற்றும் பொ.ஆ (AD) வருடங்களைச் சேர்த்து வயதைக் கணக்கிட வேண்டும். 2023 + 31 = 2054 ஆண்டுகள்.",
+        "question_en": "If Thiruvalluvar was born in 31 BCE, what is his age in 2023 CE?",
+        "options_en": [
+            "1992",
+            "2023",
+            "2054",
+            "2021"
+        ],
+        "explanation_en": "To calculate the age between BCE and CE, add the years. 2023 + 31 = 2054 years."
+    },
+    {
+        "id": 88,
+        "question": "100 கூழாங்கற்களுடன் ஆதிரா விளையாடத் தொடங்குகிறாள். முதல் 10 ஆட்டங்களில் தலா 5 கூழாங்கற்களை இழக்கிறாள். பின்னர் 8 ஆட்டங்களில் தலா 4 கூழாங்கற்களைப் பெறுகிறாள். எனில், ஆதிராவிடம் இறுதியில் உள்ள கூழாங்கற்களின் எண்ணிக்கை",
+        "options": [
+            "18",
+            "82",
+            "32",
+            "50"
+        ],
+        "correct": 1,
+        "explanation": "ஆரம்பம் = 100.\nஇழந்தவை = 10 × 5 = 50.\nபெற்றவை = 8 × 4 = 32.\nஇறுதியில் உள்ளவை = 100 - 50 + 32 = 82.",
+        "question_en": "Aadhira starts a game with 100 pebbles. In the first 10 rounds, she loses 5 pebbles each. Then in 8 rounds, she gains 4 pebbles each. The number of pebbles with Aadhira at the end is",
+        "options_en": [
+            "18",
+            "82",
+            "32",
+            "50"
+        ],
+        "explanation_en": "Initial = 100.\nLost = 10 × 5 = 50.\nGained = 8 × 4 = 32.\nFinal count = 100 - 50 + 32 = 82."
+    },
+    {
+        "id": 89,
+        "question": "ஒரு சுரங்கத்தில் உள்ள லிப்ட் ஆனது நிமிடத்திற்கு 5 மீ வீதம் கீழே இறங்குகிறது. தரைமட்டத்திலிருந்து 50 மீ மேலே உள்ள லிப்ட் ஆனது சுரங்கத்தினுள் 255 மீ ஆழத்தை அடைய எவ்வளவு நேரம் ஆகும்?",
+        "options": [
+            "51 நிமிடங்கள்",
+            "53 நிமிடங்கள்",
+            "55 நிமிடங்கள்",
+            "61 நிமிடங்கள்"
+        ],
+        "correct": 3,
+        "explanation": "மொத்தத் தொலைவு = தரைக்கு மேல் 50 மீ + தரைக்குக் கீழ் 255 மீ = 305 மீ.\nஎடுத்துக்கொள்ளும் நேரம் = 305 / 5 = 61 நிமிடங்கள்.",
+        "question_en": "An elevator in a mine shaft descends at a rate of 5 m/min. If it starts from 50 m above the ground level, how long will it take to reach a depth of 255 m?",
+        "options_en": [
+            "51 mins",
+            "53 mins",
+            "55 mins",
+            "61 mins"
+        ],
+        "explanation_en": "Total distance = 50m above ground + 255m below ground = 305m.\nTime taken = 305 / 5 = 61 mins."
+    },
+    {
+        "id": 90,
+        "question": "8 வினாக்கள் கொண்ட ஒரு வகுப்புத் தேர்வில் ஒவ்வொரு சரியான விடைக்கும் 5 மதிப்பெண்கள் வழங்கப்படுகின்றன. ஒவ்வொரு தவறான விடைக்கும் 2 மதிப்பெண்கள் குறைக்கப்படுகின்றன. மௌனிகா அனைத்து வினாக்களுக்கும் விடையளித்ததில் 3 வினாக்கள் தவறானால் அவள் பெற்ற மதிப்பெண்கள் எவ்வளவு?",
+        "options": [
+            "25",
+            "5",
+            "19",
+            "17"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த வினாக்கள் = 8. தவறானவை = 3. சரியானவை = 8 - 3 = 5.\nபெற்ற மதிப்பெண் = (5 × 5) + (3 × -2) = 25 - 6 = 19.",
+        "question_en": "In a class test containing 8 questions, 5 marks are given for every correct answer and 2 marks are deducted for every incorrect answer. If Mounika answers all questions and gets 3 wrong, what is her score?",
+        "options_en": [
+            "25",
+            "5",
+            "19",
+            "17"
+        ],
+        "explanation_en": "Total = 8. Wrong = 3. Correct = 8 - 3 = 5.\nScore = (5 × 5) + (3 × -2) = 25 - 6 = 19."
+    },
+    {
+        "id": 91,
+        "question": "50°C வெப்பநிலை உள்ள ஒரு அறையைக் குளிர்ச்சியூட்டும் போது மணிக்கு 3°C வீதம் வெப்பநிலை குறைகிறது. அறையின் வெப்பநிலை 3/4 நாளுக்குப் பிறகு எவ்வளவாக இருக்கும்?",
+        "options": [
+            "14°C",
+            "-4°C",
+            "-22°C",
+            "-12°C"
+        ],
+        "correct": 1,
+        "explanation": "3/4 நாள் என்பது = (3/4) × 24 = 18 மணி நேரம்.\nகுறைந்த வெப்பநிலை = 18 × 3 = 54°C.\nஇறுதி வெப்பநிலை = 50°C - 54°C = -4°C.",
+        "question_en": "A room at 50°C is cooled at a rate of 3°C per hour. What will be the temperature of the room after 3/4 of a day?",
+        "options_en": [
+            "14°C",
+            "-4°C",
+            "-22°C",
+            "-12°C"
+        ],
+        "explanation_en": "3/4 of a day = (3/4) × 24 = 18 hours.\nTemperature drop = 18 × 3 = 54°C.\nFinal temperature = 50°C - 54°C = -4°C."
+    },
+    {
+        "id": 92,
+        "question": "பொ.ஆ.மு 323 க்கும் பொ.ஆ 1687 க்கும் இடைப்பட்ட வருடங்கள் எத்தனை?",
+        "options": [
+            "1364",
+            "2010",
+            "1687",
+            "2023"
+        ],
+        "correct": 1,
+        "explanation": "இரண்டு காலகட்டங்களுக்கு இடையிலான ஆண்டுகளைக் கூட்ட வேண்டும். 323 + 1687 = 2010 வருடங்கள்.",
+        "question_en": "How many years are there between 323 BCE and 1687 CE?",
+        "options_en": [
+            "1364",
+            "2010",
+            "1687",
+            "2023"
+        ],
+        "explanation_en": "Add the years across BCE and CE. 323 + 1687 = 2010 years."
+    },
+    {
+        "id": 93,
+        "question": "x ஓர் குறை முழு (x ≠ -1) எனில், கீழ்க்கண்டவற்றுள் எது சரியான கூற்று?",
+        "options": [
+            "x > 1/x",
+            "x < 1/x",
+            "x = 1/x",
+            "x² < 1"
+        ],
+        "correct": 1,
+        "explanation": "உதாரணமாக x = -2 என வைத்துக்கொள்வோம். \n-2 மற்றும் -1/2 (அதாவது -0.5). இதில் -2 ஆனது -0.5 ஐ விடச் சிறியது. எனவே x < 1/x என்பது சரி.",
+        "question_en": "If x is a negative integer (x ≠ -1), which of the following is correct?",
+        "options_en": [
+            "x > 1/x",
+            "x < 1/x",
+            "x = 1/x",
+            "x² < 1"
+        ],
+        "explanation_en": "Let x = -2. \nCompare -2 and -1/2 (which is -0.5). Since -2 is less than -0.5, the statement x < 1/x is correct."
+    },
+    {
+        "id": 94,
+        "question": "a, b ஆகிய இரண்டும் ஒற்றை எண்கள் மற்றும் a > b எனில், கீழ்க்கண்டவற்றுள் எதன் மதிப்பு இரட்டை எண்ணாகும்?",
+        "options": [
+            "a + b + 1",
+            "ab - 2",
+            "ab",
+            "a - b"
+        ],
+        "correct": 3,
+        "explanation": "இரண்டு ஒற்றை எண்களைக் கழித்தால் எப்போதும் இரட்டை எண் கிடைக்கும் (Odd - Odd = Even). எ.கா: 5 - 3 = 2.",
+        "question_en": "If a and b are odd numbers and a > b, which of the following has an even value?",
+        "options_en": [
+            "a + b + 1",
+            "ab - 2",
+            "ab",
+            "a - b"
+        ],
+        "explanation_en": "The difference between two odd numbers is always an even number (Odd - Odd = Even). E.g., 5 - 3 = 2."
+    },
+    {
+        "id": 95,
+        "question": "a மற்றும் b என்பன இரு முழு எண்கள் (Whole Numbers) எனில், கழித்தலைப் பொருத்து பரிமாற்றுப் பண்பானது கீழ்க்கண்ட எந்நிலையில் சாத்தியமாகும்?",
+        "options": [
+            "a = b",
+            "a ≠ b",
+            "a > b",
+            "a < b"
+        ],
+        "correct": 0,
+        "explanation": "a - b = b - a என்று இருக்க வேண்டும் எனில், அது a மற்றும் b இரண்டும் சமமாக இருக்கும் போது மட்டுமே சாத்தியம் (a = b).",
+        "question_en": "If a and b are whole numbers, under what condition does subtraction satisfy the commutative property?",
+        "options_en": [
+            "a = b",
+            "a ≠ b",
+            "a > b",
+            "a < b"
+        ],
+        "explanation_en": "For a - b = b - a to hold true, it is only possible when both numbers are equal (a = b)."
+    },
+    {
+        "id": 96,
+        "question": "கீழ்க்கண்ட கூற்றுகளில் எது சரியானது?\n[N, W மற்றும் Z என்பன முறையே இயல் எண்கள், முழு எண்கள் மற்றும் முழுக்கள் ஆகும். y ஆனது x ஐ உள்ளடக்கியது எனில், x ⊂ y ஆகும்.]",
+        "options": [
+            "N ⊂ W ⊂ Z",
+            "Z ⊂ N ⊂ W",
+            "W ⊂ N ⊂ Z",
+            "Z ⊂ W ⊂ N"
+        ],
+        "correct": 0,
+        "explanation": "இயல் எண்கள் (N) முழு எண்களுக்குள் (W) அடங்கும்; முழு எண்கள் (W) முழுக்களுக்குள் (Z) அடங்கும். எனவே N ⊂ W ⊂ Z என்பது சரி.",
+        "question_en": "Which of the following statements is correct?\n[N, W and Z are Natural numbers, Whole numbers and Integers respectively. If y includes x, it is denoted as x ⊂ y.]",
+        "options_en": [
+            "N ⊂ W ⊂ Z",
+            "Z ⊂ N ⊂ W",
+            "W ⊂ N ⊂ Z",
+            "Z ⊂ W ⊂ N"
+        ],
+        "explanation_en": "Natural numbers (N) are a subset of Whole numbers (W); Whole numbers are a subset of Integers (Z). Thus, N ⊂ W ⊂ Z is correct."
+    },
+    {
+        "id": 97,
+        "question": "a, b, c ஆகியவை முழுக்கள் மற்றும் a > b எனில் கீழ்க்கண்ட கூற்றுகளில் எது சரி?",
+        "options": [
+            "a × c > b × c, (c ஒரு மிகை முழு)",
+            "a × c < b × c, (c ஒரு மிகை முழு)",
+            "a × c = b × c, (c ஓர் குறை முழு)",
+            "ஏதுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு அசமன்பாட்டின் (Inequality) இருபுறமும் ஒரு மிகை முழுவால் பெருக்கினால், அந்த அசமன்பாடு மாறாது. எனவே a > b எனில் ac > bc (c ஒரு மிகை முழு).",
+        "question_en": "If a, b, and c are integers and a > b, which of the following statements is true?",
+        "options_en": [
+            "a × c > b × c, (where c is a positive integer)",
+            "a × c < b × c, (where c is a positive integer)",
+            "a × c = b × c, (where c is a negative integer)",
+            "None"
+        ],
+        "explanation_en": "Multiplying both sides of an inequality by a positive integer does not change the inequality. If a > b, then ac > bc (if c is positive)."
+    },
+    {
+        "id": 98,
+        "question": "கீழ்க்கண்டவற்றுள் எது a இன் கூட்டல் எதிர்மறையாகாது?",
+        "options": [
+            "-(-a)",
+            "-a",
+            "a ÷ (-1)",
+            "a × (-1)"
+        ],
+        "correct": 0,
+        "explanation": "a இன் கூட்டல் எதிர்மறை -a ஆகும். ஆனால் விருப்பம் (1) இல் உள்ள -(-a) இன் மதிப்பு +a ஆகும். எனவே இது தவறானது.",
+        "question_en": "Which of the following is not the additive inverse of a?",
+        "options_en": [
+            "-(-a)",
+            "-a",
+            "a ÷ (-1)",
+            "a × (-1)"
+        ],
+        "explanation_en": "The additive inverse of a is -a. But option (1) evaluating to -(-a) results in +a. Hence, it is not the additive inverse."
+    },
+    {
+        "id": 99,
+        "question": "(-1) × (-1) × (-1) × ... (2m+1) முறைகள், இதில் m ஓர் இயல் எண் எனில் இதன் மதிப்பு",
+        "options": [
+            "+1",
+            "-1",
+            "0",
+            "ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "(2m+1) என்பது ஒரு ஒற்றைப்படை (Odd) எண்ணைக் குறிக்கும் பொதுவடிவம். (-1) ஐ ஒற்றைப்படை முறை பெருக்கினால் விடை -1 ஆகும்.",
+        "question_en": "(-1) × (-1) × (-1) × ... (2m+1) times, where m is a natural number. Its value is",
+        "options_en": [
+            "+1",
+            "-1",
+            "0",
+            "None"
+        ],
+        "explanation_en": "(2m+1) represents an odd number. Multiplying (-1) an odd number of times yields -1."
+    },
+    {
+        "id": 100,
+        "question": "P=15 மற்று Q=-5 எனில் (P+Q) ÷ (P-Q) இன் மதிப்பு",
+        "options": [
+            "2",
+            "-2",
+            "1/2",
+            "-1/2"
+        ],
+        "correct": 2,
+        "explanation": "(P+Q) = 15 + (-5) = 10.\n(P-Q) = 15 - (-5) = 15 + 5 = 20.\n10 ÷ 20 = 1/2.",
+        "question_en": "If P=15 and Q=-5, then the value of (P+Q) ÷ (P-Q) is",
+        "options_en": [
+            "2",
+            "-2",
+            "1/2",
+            "-1/2"
+        ],
+        "explanation_en": "(P+Q) = 15 + (-5) = 10.\n(P-Q) = 15 - (-5) = 15 + 5 = 20.\n10 ÷ 20 = 1/2."
+    },
+    {
+        "id": 101,
+        "question": "-1 + 2 - 3 + 4 - 5 + ... - 785 + 786 - 787 + 788",
+        "options": [
+            "1576",
+            "394",
+            "-788",
+            "0"
+        ],
+        "correct": 1,
+        "explanation": "எண்களை ஜோடிகளாகப் பிரிக்கலாம்: (-1+2), (-3+4), (-5+6) ... (-787+788).\nஒவ்வொரு ஜோடியின் மதிப்பும் 1. மொத்தம் 788 எண்கள் உள்ளன, எனவே 394 ஜோடிகள் உள்ளன. விடை: 394 × 1 = 394.",
+        "question_en": "-1 + 2 - 3 + 4 - 5 + ... - 785 + 786 - 787 + 788",
+        "options_en": [
+            "1576",
+            "394",
+            "-788",
+            "0"
+        ],
+        "explanation_en": "Group the numbers into pairs: (-1+2), (-3+4), (-5+6) ... (-787+788).\nEach pair sums to 1. Since there are 788 numbers, there are 394 pairs. Total sum: 394 × 1 = 394."
+    },
+    {
+        "id": 102,
+        "question": "120 × (-200) × 0 ÷ (6 × 10 × 4)",
+        "options": [
+            "-100",
+            "0",
+            "-20",
+            "4"
+        ],
+        "correct": 1,
+        "explanation": "தொகுதியின் பெருக்கலில் 0 இருப்பதால், அதன் மொத்த மதிப்பும் 0 தான். 0 ஐ எந்த எண்ணால் வகுத்தாலும் விடை 0 ஆகும்.",
+        "question_en": "120 × (-200) × 0 ÷ (6 × 10 × 4)",
+        "options_en": [
+            "-100",
+            "0",
+            "-20",
+            "4"
+        ],
+        "explanation_en": "The numerator contains multiplication by 0, making the entire numerator 0. Zero divided by any non-zero number is 0."
+    },
+    {
+        "id": 103,
+        "question": "கீழ்க்காணும் பண்புகளில் எந்தப் பண்பானது முழுக்களின் கழித்தல் பண்பை நிறைவு செய்யும் வகையில் அமைந்துள்ளது?",
+        "options": [
+            "அடைவுப் பண்பு",
+            "பரிமாற்றுப் பண்பு",
+            "சேர்ப்புப் பண்பு",
+            "எதுவுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "முழுக்களின் கழித்தல் செயலானது 'அடைவுப் பண்பை' (Closure property) மட்டுமே நிறைவு செய்யும். இரு முழுக்களைக் கழித்தால் மீண்டும் ஒரு முழு எண்ணே கிடைக்கும்.",
+        "question_en": "Which of the following properties is satisfied by the subtraction of integers?",
+        "options_en": [
+            "Closure property",
+            "Commutative property",
+            "Associative property",
+            "None"
+        ],
+        "explanation_en": "Subtraction of integers only satisfies the closure property. Subtracting two integers always yields another integer."
+    },
+    {
+        "id": 104,
+        "question": "கீழ்க்காணும் மாய முக்கோணத்தில் ஒவ்வொரு பக்கத்தில் உள்ள எண்களின் கூடுதல் -17 எனில், x, y மற்றும் z-ன் மதிப்புகள் முறையே",
+        "image": "image/unit1/q104.PNG",
+        "options": [
+            "-9, -8, -7",
+            "-7, -9, -8",
+            "9, 8, 7",
+            "-7, -8, -9"
+        ],
+        "correct": 0,
+        "explanation": "இடது பக்கம்: (-1) + x + (-5) + (-2) = -17 ➔ x - 8 = -17 ➔ x = -9.\nஅடிப்பக்கம்: (-2) + (-4) + y + (-3) = -17 ➔ y - 9 = -17 ➔ y = -8.\nவலது பக்கம்: (-1) + (-6) + z + (-3) = -17 ➔ z - 10 = -17 ➔ z = -7.",
+        "question_en": "In the given magic triangle, if the sum of the numbers on each side is -17, then the values of x, y, and z are respectively",
+        "options_en": [
+            "-9, -8, -7",
+            "-7, -9, -8",
+            "9, 8, 7",
+            "-7, -8, -9"
+        ],
+        "explanation_en": "Left side: (-1) + x + (-5) + (-2) = -17 ➔ x - 8 = -17 ➔ x = -9.\nBottom side: (-2) + (-4) + y + (-3) = -17 ➔ y - 9 = -17 ➔ y = -8.\nRight side: (-1) + (-6) + z + (-3) = -17 ➔ z - 10 = -17 ➔ z = -7."
+    },
+    {
+        "id": 105,
+        "question": "ஒரு போட்டித்தேர்வில் ஒவ்வொரு சரியான விடைக்கும் 1 மதிப்பெண் மற்றும் ஒவ்வொரு தவறான விடைக்கும் -1 மதிப்பெண் வழங்கப்படுகிறது. ஒரு மாணவர் அனைத்து வினாக்களுக்கும் விடையளித்தார். அவர் 126 வினாக்களுக்குச் சரியான விடையளித்த போதிலும் அம்மாணவர் பெற்ற மதிப்பெண்கள் 94 ஆகும். எனில், தவறாக விடையளித்த வினாக்களின் எண்ணிக்கை",
+        "options": [
+            "24",
+            "56",
+            "32",
+            "23"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடைக்கான மதிப்பெண் = 126 × 1 = 126.\nஆனால் அவர் பெற்ற மதிப்பெண் 94. குறைந்த மதிப்பெண்கள் = 126 - 94 = 32.\nதவறான விடைக்கான மதிப்பெண் குறைப்பு -1 என்பதால், தவறான வினாக்களின் எண்ணிக்கை 32 ஆகும்.",
+        "question_en": "In a competitive exam, 1 mark is awarded for every correct answer and -1 mark for every wrong answer. A student answered all questions. Even though he answered 126 questions correctly, his score is 94. The number of wrong answers is",
+        "options_en": [
+            "24",
+            "56",
+            "32",
+            "23"
+        ],
+        "explanation_en": "Score from correct answers = 126 × 1 = 126.\nHis actual score is 94. Marks lost = 126 - 94 = 32.\nSince each wrong answer costs -1 mark, the number of wrong answers is 32."
+    },
+    {
+        "id": 106,
+        "question": "பின்வருவனவற்றுள் எது முழுவைக் குறிக்காது?",
+        "options": [
+            "0 ÷ (-13)",
+            "36 ÷ (-9)",
+            "(-16) ÷ 4",
+            "17 ÷ 3"
+        ],
+        "correct": 3,
+        "explanation": "17 ஐ 3 ஆல் மீதியின்றி வகுக்க முடியாது (விடை தசமத்தில் வரும்). இது ஒரு பின்ன / தசம எண், முழு எண் (Integer) அல்ல.",
+        "question_en": "Which of the following does not represent an integer?",
+        "options_en": [
+            "0 ÷ (-13)",
+            "36 ÷ (-9)",
+            "(-16) ÷ 4",
+            "17 ÷ 3"
+        ],
+        "explanation_en": "17 cannot be divided by 3 without a remainder (it gives a decimal). It is a fraction/decimal, not an integer."
+    },
+    {
+        "id": 107,
+        "question": "(20 + 7) + 12 = 20 + (7 + 12) என்பது கீழ்க்கண்டவற்றுள் எந்தப் பண்பை நிறைவு செய்யும்?",
+        "options": [
+            "அடைவுப் பண்பு",
+            "பரிமாற்றுப் பண்பு",
+            "சேர்ப்புப் பண்பு",
+            "கூட்டல் சமனி"
+        ],
+        "correct": 2,
+        "explanation": "மூன்று எண்களைக் கூட்டும்போது அடைப்புக்குறியை மாற்றி அமைப்பது 'சேர்ப்புப் பண்பு' (Associative property) எனப்படும்.",
+        "question_en": "(20 + 7) + 12 = 20 + (7 + 12) satisfies which of the following properties?",
+        "options_en": [
+            "Closure property",
+            "Commutative property",
+            "Associative property",
+            "Additive identity"
+        ],
+        "explanation_en": "Changing the grouping of numbers while adding three numbers is known as the 'Associative property'."
+    }
+]

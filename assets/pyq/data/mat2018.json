@@ -1,0 +1,1930 @@
+[
+  {
+    "id": 1,
+    "subject": "மனத்திறன்",
+    "question": "தொடர்பற்ற வார்த்தையினைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "Driving",
+      "Pushing",
+      "Cycling",
+      "Walking"
+    ],
+    "correct": 1,
+    "explanation": "Driving, Cycling, Walking ஆகியவை பயணிக்கவோ அல்லது இடம்பெயரவோ உதவும் செயல்கள். Pushing என்பது விசை (Force) கொடுக்கும் ஒரு சாதாரணச் செயல்.",
+    "question_en": "Choose the odd word out:",
+    "options_en": [
+      "Driving",
+      "Pushing",
+      "Cycling",
+      "Walking"
+    ],
+    "explanation_en": "Driving, Cycling, Walking are actions for traveling or moving. Pushing is just applying force."
+  },
+  {
+    "id": 2,
+    "subject": "மனத்திறன்",
+    "question": "தொடர்பற்ற வார்த்தையினைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "Now",
+      "Again",
+      "Before",
+      "After"
+    ],
+    "correct": 1,
+    "explanation": "Now, Before, After ஆகியவை ஒரு குறிப்பிட்ட காலத்தைக் (Time) குறிப்பவை. Again என்பது ஒரு செயல் மீண்டும் நிகழ்வதைக் (Repetition) குறிக்கும்.",
+    "question_en": "Choose the odd word out:",
+    "options_en": [
+      "Now",
+      "Again",
+      "Before",
+      "After"
+    ],
+    "explanation_en": "Now, Before, After refer to a specific time. Again refers to repetition."
+  },
+  {
+    "id": 3,
+    "subject": "மனத்திறன்",
+    "question": "தொடர்பற்ற வார்த்தையினைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "Snake",
+      "Whale",
+      "Lizard",
+      "Turtle"
+    ],
+    "correct": 1,
+    "explanation": "Whale (திமிங்கலம்) என்பது பாலூட்டி (Mammal) வகையைச் சேர்ந்தது. மற்ற மூன்றும் ஊர்வன (Reptiles).",
+    "question_en": "Choose the odd word out:",
+    "options_en": [
+      "Snake",
+      "Whale",
+      "Lizard",
+      "Turtle"
+    ],
+    "explanation_en": "Whale is a mammal. The other three are reptiles."
+  },
+  {
+    "id": 4,
+    "subject": "மனத்திறன்",
+    "question": "தொடர்பற்ற வார்த்தையினைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "Pull",
+      "Jump",
+      "Hear",
+      "Run"
+    ],
+    "correct": 2,
+    "explanation": "Pull, Jump, Run ஆகியவை உடலின் புற அசைவுகளைக் குறிக்கும் உடல்ரீதியான செயல்கள். Hear (கேட்டல்) என்பது ஐம்புலன்களின் செயல்.",
+    "question_en": "Choose the odd word out:",
+    "options_en": [
+      "Pull",
+      "Jump",
+      "Hear",
+      "Run"
+    ],
+    "explanation_en": "Pull, Jump, Run are physical actions. Hear is an action of the senses."
+  },
+  {
+    "id": 5,
+    "subject": "மனத்திறன்",
+    "question": "தொடர்பற்ற வார்த்தையினைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Haryana",
+      "West Bengal"
+    ],
+    "correct": 2,
+    "explanation": "தமிழ்நாடு, கேரளா, மேற்கு வங்கம் ஆகிய மூன்று மாநிலங்களும் கடல் எல்லையைக் கொண்டுள்ளன. ஹரியானா நிலத்தால் சூழப்பட்ட மாநிலம்.",
+    "question_en": "Choose the odd word out:",
+    "options_en": [
+      "Tamil Nadu",
+      "Kerala",
+      "Haryana",
+      "West Bengal"
+    ],
+    "explanation_en": "Tamil Nadu, Kerala, and West Bengal have a coastline. Haryana is a landlocked state."
+  },
+  {
+    "id": 6,
+    "subject": "மனத்திறன்",
+    "question": "தொடர்பற்ற எண்ணைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "484",
+      "352",
+      "561",
+      "421"
+    ],
+    "correct": 3,
+    "explanation": "முதல் மற்றும் மூன்றாம் இலக்கங்களின் கூடுதல் நடுவில் உள்ள இலக்கமாக அமைந்துள்ளது (உ-ம்: 4+4=8, 3+2=5). ஆனால் 421-ல் 4+1 ≠ 2.",
+    "question_en": "Choose the odd number out:",
+    "options_en": [
+      "484",
+      "352",
+      "561",
+      "421"
+    ],
+    "explanation_en": "The sum of the first and third digits is the middle digit (e.g., 4+4=8, 3+2=5). But in 421, 4+1 ≠ 2."
+  },
+  {
+    "id": 7,
+    "subject": "மனத்திறன்",
+    "question": "தொடர்பற்ற எண்ணைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "4205",
+      "5306",
+      "2168",
+      "4236"
+    ],
+    "correct": 0,
+    "explanation": "4205 என்பது 5-ல் முடியும் ஒற்றைப்படை எண் (Odd Number). மற்றவை அனைத்தும் இரட்டைப்படை எண்கள் (Even Numbers).",
+    "question_en": "Choose the odd number out:",
+    "options_en": [
+      "4205",
+      "5306",
+      "2168",
+      "4236"
+    ],
+    "explanation_en": "4205 is an odd number. All others are even numbers."
+  },
+  {
+    "id": 8,
+    "subject": "மனத்திறன்",
+    "question": "Bird : Wings :: ? : ?",
+    "options": [
+      "Car : Wheels",
+      "Lion : Forest",
+      "Pen : Paper",
+      "Whale : Water"
+    ],
+    "correct": 0,
+    "explanation": "பறவை பறப்பதற்கு சிறகுகள் (Wings) பயன்படுவது போல, மகிழுந்து (Car) நகர்வதற்கு சக்கரங்கள் (Wheels) பயன்படுகின்றன.",
+    "question_en": "Bird : Wings :: ? : ?",
+    "options_en": [
+      "Car : Wheels",
+      "Lion : Forest",
+      "Pen : Paper",
+      "Whale : Water"
+    ],
+    "explanation_en": "Just as birds use wings to fly, cars use wheels to move."
+  },
+  {
+    "id": 9,
+    "subject": "மனத்திறன்",
+    "question": "Driver : Bus :: ? : ?",
+    "options": [
+      "Class : Student",
+      "Soldier : War",
+      "Operator : Machine",
+      "Machine : Operator"
+    ],
+    "correct": 2,
+    "explanation": "பேருந்தை (Bus) இயக்குபவர் ஓட்டுநர் (Driver). இயந்திரத்தை (Machine) இயக்குபவர் Operator.",
+    "question_en": "Driver : Bus :: ? : ?",
+    "options_en": [
+      "Class : Student",
+      "Soldier : War",
+      "Operator : Machine",
+      "Machine : Operator"
+    ],
+    "explanation_en": "A driver operates a bus. An operator operates a machine."
+  },
+  {
+    "id": 10,
+    "subject": "மனத்திறன்",
+    "question": "8 : 63 :: ? : ?",
+    "options": [
+      "7 : 50",
+      "6 : 35",
+      "9 : 82",
+      "5 : 26"
+    ],
+    "correct": 1,
+    "explanation": "தர்க்கம்: n : (n² - 1). 8² - 1 = 63. அதேபோல 6² - 1 = 35.",
+    "question_en": "8 : 63 :: ? : ?",
+    "options_en": [
+      "7 : 50",
+      "6 : 35",
+      "9 : 82",
+      "5 : 26"
+    ],
+    "explanation_en": "Logic: n : (n² - 1). 8² - 1 = 63. Similarly, 6² - 1 = 35."
+  },
+  {
+    "id": 11,
+    "subject": "மனத்திறன்",
+    "question": "Signal : Traffic :: ? : ?",
+    "options": [
+      "Dam : River",
+      "Light : Lens",
+      "Door : House",
+      "Operation : Doctor"
+    ],
+    "correct": 0,
+    "explanation": "போக்குவரத்து (Traffic) நெரிசலைக் கட்டுப்படுத்துவது சிக்னல் (Signal). ஆற்றின் (River) நீர்வரத்தைக் கட்டுப்படுத்துவது அணை (Dam).",
+    "question_en": "Signal : Traffic :: ? : ?",
+    "options_en": [
+      "Dam : River",
+      "Light : Lens",
+      "Door : House",
+      "Operation : Doctor"
+    ],
+    "explanation_en": "A signal controls traffic. A dam controls the flow of a river."
+  },
+  {
+    "id": 12,
+    "subject": "மனத்திறன்",
+    "question": "14 : 197 :: ? : 626",
+    "options": [
+      "26",
+      "25",
+      "18",
+      "24"
+    ],
+    "correct": 1,
+    "explanation": "தர்க்கம்: n : (n² + 1). 14² + 1 = 197. அதேபோல 25² + 1 = 626.",
+    "question_en": "14 : 197 :: ? : 626",
+    "options_en": [
+      "26",
+      "25",
+      "18",
+      "24"
+    ],
+    "explanation_en": "Logic: n : (n² + 1). 14² + 1 = 197. Similarly, 25² + 1 = 626."
+  },
+  {
+    "id": 13,
+    "subject": "மனத்திறன்",
+    "question": "3 : ? :: 14 : 70",
+    "options": [
+      "7",
+      "4",
+      "5",
+      "15"
+    ],
+    "correct": 3,
+    "explanation": "முதல் எண் 5 ஆல் பெருக்கப்பட்டுள்ளது. 14 x 5 = 70. எனவே 3 x 5 = 15.",
+    "question_en": "3 : ? :: 14 : 70",
+    "options_en": [
+      "7",
+      "4",
+      "5",
+      "15"
+    ],
+    "explanation_en": "The first number is multiplied by 5. 14 x 5 = 70. So 3 x 5 = 15."
+  },
+  {
+    "id": 14,
+    "subject": "மனத்திறன்",
+    "question": "12M : U20 :: ? : P15",
+    "options": [
+      "H7",
+      "7H",
+      "9H",
+      "H9"
+    ],
+    "correct": 1,
+    "explanation": "எழுத்துக்களின் ஆங்கில அகரவரிசை எண்ணிலிருந்து 1 குறைத்து எழுதப்பட்டுள்ளது. M=13 (13-1=12). P=16 (16-1=15). H=8 (8-1=7). எனவே 7H.",
+    "question_en": "12M : U20 :: ? : P15",
+    "options_en": [
+      "H7",
+      "7H",
+      "9H",
+      "H9"
+    ],
+    "explanation_en": "Letters represent their alphabetic numerical value minus 1. M=13 (13-1=12). P=16 (16-1=15). H=8 (8-1=7). So 7H."
+  },
+  {
+    "id": 15,
+    "subject": "மனத்திறன்",
+    "question": "தொடரின் அடுத்த எண்ணைத் தேர்ந்தெடுக்கவும்: 1, 2, 3, 6, 11, 20, 37, ...",
+    "options": [
+      "57",
+      "68",
+      "67",
+      "58"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு எண்ணும் அதற்கு முந்தைய மூன்று எண்களின் கூடுதல் ஆகும். 11+20+37 = 68.",
+    "question_en": "Find the next number in the series: 1, 2, 3, 6, 11, 20, 37, ...",
+    "options_en": [
+      "57",
+      "68",
+      "67",
+      "58"
+    ],
+    "explanation_en": "Each number is the sum of the previous three numbers. 11+20+37 = 68."
+  },
+  {
+    "id": 16,
+    "subject": "மனத்திறன்",
+    "question": "தொடரின் அடுத்த எண்ணைத் தேர்ந்தெடுக்கவும்: 1, 1, 5, 8, 6, 9, 11, 17, 17, ...",
+    "options": [
+      "26",
+      "25",
+      "28",
+      "20"
+    ],
+    "correct": 0,
+    "explanation": "இது இரண்டு தொடர்களின் கலவை. 2வது தொடர்: 1, 8, 9, 17, ... (1+8=9, 8+9=17, 9+17=26).",
+    "question_en": "Find the next number in the series: 1, 1, 5, 8, 6, 9, 11, 17, 17, ...",
+    "options_en": [
+      "26",
+      "25",
+      "28",
+      "20"
+    ],
+    "explanation_en": "This is a mix of two series. 2nd series: 1, 8, 9, 17, ... (1+8=9, 8+9=17, 9+17=26)."
+  },
+  {
+    "id": 17,
+    "subject": "மனத்திறன்",
+    "question": "தொடரின் அடுத்த எண்ணைத் தேர்ந்தெடுக்கவும்: 1, 2, 3, 5, 7, ...",
+    "options": [
+      "9",
+      "11",
+      "8",
+      "13"
+    ],
+    "correct": 1,
+    "explanation": "இது பகா எண்களின் (Prime numbers) தொடர். 1-ஐ தவிர்த்து பார்த்தால் 2, 3, 5, 7 அடுத்த பகா எண் 11.",
+    "question_en": "Find the next number in the series: 1, 2, 3, 5, 7, ...",
+    "options_en": [
+      "9",
+      "11",
+      "8",
+      "13"
+    ],
+    "explanation_en": "This is a series of prime numbers. Excluding 1, the next prime number after 7 is 11."
+  },
+  {
+    "id": 18,
+    "subject": "மனத்திறன்",
+    "question": "தொடரின் அடுத்த எண்ணைத் தேர்ந்தெடுக்கவும்: 1 16 9, 5 14 8, 9 12 7, 13 10 6, ...",
+    "options": [
+      "4",
+      "5",
+      "17",
+      "11"
+    ],
+    "correct": 2,
+    "explanation": "தொடர் மூன்று எண்களின் தொகுப்பாக உள்ளது. முதல் எண்கள்: +4 (1,5,9,13,17). 2வது எண்கள்: -2. 3வது எண்கள்: -1. எனவே அடுத்த எண் 17.",
+    "question_en": "Find the next number in the series: 1 16 9, 5 14 8, 9 12 7, 13 10 6, ...",
+    "options_en": [
+      "4",
+      "5",
+      "17",
+      "11"
+    ],
+    "explanation_en": "The series is a set of three numbers. 1st numbers: +4 (1,5,9,13,17). 2nd numbers: -2. 3rd numbers: -1. So the next number is 17."
+  },
+  {
+    "id": 19,
+    "subject": "மனத்திறன்",
+    "question": "தொடரில் தவறான எண்ணைத் தேர்ந்தெடுக்கவும்: 1, 3, 7, 15, 31, 62, 127",
+    "options": [
+      "15",
+      "31",
+      "127",
+      "62"
+    ],
+    "correct": 3,
+    "explanation": "தர்க்கம்: (n * 2) + 1. 31 * 2 + 1 = 63 வர வேண்டும். ஆனால் 62 கொடுக்கப்பட்டுள்ளது.",
+    "question_en": "Find the wrong number in the series: 1, 3, 7, 15, 31, 62, 127",
+    "options_en": [
+      "15",
+      "31",
+      "127",
+      "62"
+    ],
+    "explanation_en": "Logic: (n * 2) + 1. 31 * 2 + 1 should be 63. But 62 is given."
+  },
+  {
+    "id": 20,
+    "subject": "மனத்திறன்",
+    "question": "தொடரில் தவறான எழுத்துக்களைத் தேர்ந்தெடுக்கவும்: YE WF UH SK PO OT",
+    "options": [
+      "WF",
+      "SK",
+      "PO",
+      "OT"
+    ],
+    "correct": 2,
+    "explanation": "முதல் எழுத்துக்கள் -2 என குறைகிறது (Y, W, U, S, Q, O வர வேண்டும்). எனவே PO என்பது தவறானது.",
+    "question_en": "Find the wrong letters in the series: YE WF UH SK PO OT",
+    "options_en": [
+      "WF",
+      "SK",
+      "PO",
+      "OT"
+    ],
+    "explanation_en": "First letters decrease by 2 (Y, W, U, S, Q, O). So PO is wrong."
+  },
+  {
+    "id": 21,
+    "subject": "மனத்திறன்",
+    "question": "ABCD = 98, ZYXW = 10, TRY = 18 எனில் ABC = ?",
+    "options": [
+      "75",
+      "74",
+      "73",
+      "72"
+    ],
+    "correct": 0,
+    "explanation": "எழுத்துக்களின் எதிர் மதிப்புகளின் (Reverse order: A=26, B=25...) கூடுதல். A+B+C = 26+25+24 = 75.",
+    "question_en": "If ABCD = 98, ZYXW = 10, TRY = 18, then ABC = ?",
+    "options_en": [
+      "75",
+      "74",
+      "73",
+      "72"
+    ],
+    "explanation_en": "Sum of reverse alphabetical values (A=26, B=25...). A+B+C = 26+25+24 = 75."
+  },
+  {
+    "id": 22,
+    "subject": "மனத்திறன்",
+    "question": "'tea sea pea' என்பது 'Drink fruit juice', 'sea kea lea' என்பது 'Juice is sweet', 'lea rea mea' என்பது 'He is intelligent' எனில் 'sweet' என்பது:",
+    "options": [
+      "rea",
+      "kea",
+      "pea",
+      "sea"
+    ],
+    "correct": 1,
+    "explanation": "1 & 2 வாக்கியங்களில் பொதுவானது 'sea' (Juice). 2 & 3-ல் பொதுவானது 'lea' (is). எனவே 'sweet' என்பதன் குறியீடு 'kea'.",
+    "question_en": "If 'tea sea pea' means 'Drink fruit juice', 'sea kea lea' means 'Juice is sweet', and 'lea rea mea' means 'He is intelligent', then 'sweet' is:",
+    "options_en": [
+      "rea",
+      "kea",
+      "pea",
+      "sea"
+    ],
+    "explanation_en": "Common word in 1 & 2 is 'sea' (Juice). Common in 2 & 3 is 'lea' (is). So 'sweet' is 'kea'."
+  },
+  {
+    "id": 23,
+    "subject": "மனத்திறன்",
+    "question": "HOUSE என்பது HPWVI எனக் குறிப்பிட்டால் ROOMS என்பது:",
+    "options": [
+      "RPQPW",
+      "RPPQW",
+      "RQPPW",
+      "RQPWP"
+    ],
+    "correct": 0,
+    "explanation": "ஒவ்வொரு எழுத்தும் முறையே +0, +1, +2, +3, +4 என்ற வரிசையில் நகர்த்தப்பட்டுள்ளது.",
+    "question_en": "If HOUSE is coded as HPWVI, then ROOMS is:",
+    "options_en": [
+      "RPQPW",
+      "RPPQW",
+      "RQPPW",
+      "RQPWP"
+    ],
+    "explanation_en": "Each letter is shifted by +0, +1, +2, +3, +4 respectively."
+  },
+  {
+    "id": 24,
+    "subject": "மனத்திறன்",
+    "question": "தென்கிழக்கு என்பது வடகிழக்காகவும், வடகிழக்கு என்பது வடமேற்காகவும் கொண்டால், வடமேற்கு என்பது:",
+    "options": [
+      "NE",
+      "SW",
+      "SE",
+      "NW"
+    ],
+    "correct": 1,
+    "explanation": "திசைகள் கடிகார முள் சுழலும் திசைக்கு எதிராக (Anti-clockwise) 90° நகர்த்தப்பட்டுள்ளன. வடமேற்கு 90° திரும்பினால் தென்மேற்கு (SW) ஆகும்.",
+    "question_en": "If South-East becomes North-East, and North-East becomes North-West, then North-West will become:",
+    "options_en": [
+      "NE",
+      "SW",
+      "SE",
+      "NW"
+    ],
+    "explanation_en": "Directions are shifted 90° anti-clockwise. North-West shifted 90° becomes South-West (SW)."
+  },
+  {
+    "id": 25,
+    "subject": "மனத்திறன்",
+    "question": "காலையில் வாணி ஒரு கம்பத்தினை நோக்கி நிற்கிறாள். கம்பத்தின் நிழல் அவளுடைய வலதுபக்கத்தில் விழுகிறது எனில் அவள் நோக்கும் திசை:",
+    "options": [
+      "வடக்கு",
+      "தெற்கு",
+      "கிழக்கு",
+      "மேற்கு"
+    ],
+    "correct": 1,
+    "explanation": "காலையில் நிழல் மேற்கில் விழும். நிழல் வலதுபுறம் விழுவதால், அவளது வலது கை மேற்கு திசையைக் குறிக்கிறது. எனவே அவள் தெற்கு நோக்கி நிற்கிறாள்.",
+    "question_en": "In the morning, Vani faces a pole. If the shadow of the pole falls to her right, which direction is she facing?",
+    "options_en": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "explanation_en": "In the morning, shadows fall towards the West. Since it falls on her right, her right hand points West, so she is facing South."
+  },
+  {
+    "id": 26,
+    "subject": "மனத்திறன்",
+    "question": "விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்.",
+    "options": [
+      "36",
+      "11",
+      "49",
+      "39"
+    ],
+    "correct": 0,
+    "image": "image/mat18q26.png",
+    "explanation": "படங்களில் உள்ள எண்களுக்கிடையேயான தொடர் தர்க்கத்தின் அடிப்படையில் விடுபட்ட எண் கண்டறியப்பட்டுள்ளது.",
+    "question_en": "Find the missing number.",
+    "options_en": [
+      "36",
+      "11",
+      "49",
+      "39"
+    ],
+    "explanation_en": "Find the logical pattern between the numbers in the figure."
+  },
+  {
+    "id": 27,
+    "subject": "மனத்திறன்",
+    "question": "விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்.",
+    "options": [
+      "983",
+      "938",
+      "389",
+      "893"
+    ],
+    "correct": 1,
+    "image": "image/mat18q27.png",
+    "explanation": "சுற்றுப்புற எண்களின் கணித செயல்பாடுகளின் அடிப்படையில் மைய எண் பெறப்படுகிறது.",
+    "question_en": "Find the missing number.",
+    "options_en": [
+      "983",
+      "938",
+      "389",
+      "893"
+    ],
+    "explanation_en": "The center number is obtained based on the mathematical operations of the surrounding numbers."
+  },
+  {
+    "id": 28,
+    "subject": "மனத்திறன்",
+    "question": "விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்.",
+    "options": [
+      "134",
+      "143",
+      "33",
+      "144"
+    ],
+    "correct": 1,
+    "image": "image/mat18q28.png",
+    "explanation": "சுற்றியுள்ள எண்களின் கூட்டல்/பெருக்கல் தர்க்கத்தின் மூலம் நடுவில் உள்ள எண் கிடைக்கிறது.",
+    "question_en": "Find the missing number.",
+    "options_en": [
+      "134",
+      "143",
+      "33",
+      "144"
+    ],
+    "explanation_en": "The center number is obtained through the logic of addition/multiplication of the surrounding numbers."
+  },
+  {
+    "id": 29,
+    "subject": "மனத்திறன்",
+    "question": "விடுபட்ட எழுத்தைக் கண்டுபிடிக்கவும்.",
+    "options": [
+      "L",
+      "K",
+      "M",
+      "N"
+    ],
+    "correct": 0,
+    "image": "image/mat18q29.png",
+    "explanation": "முதல் எழுத்துக்கள் (+1, +2), 2வது எழுத்துக்கள் (+2, +3), 3வது எழுத்துக்கள் (+3, +4) என்ற வரிசையில் கூடுகிறது. E(+3)=H, H(+4)=L.",
+    "question_en": "Find the missing letter.",
+    "options_en": [
+      "L",
+      "K",
+      "M",
+      "N"
+    ],
+    "explanation_en": "First letters increase by (+1, +2), 2nd letters by (+2, +3), 3rd letters by (+3, +4). E(+3)=H, H(+4)=L."
+  },
+  {
+    "id": 30,
+    "subject": "மனத்திறன்",
+    "question": "விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்.",
+    "options": [
+      "24",
+      "21",
+      "18",
+      "34"
+    ],
+    "correct": 0,
+    "image": "image/mat18q30.png",
+    "explanation": "எதிரெதிர் வட்டக் கோணப் பகுதிகளில் உள்ள எண்களின் தர்க்கம்: x மற்றும் (x * 2) + 1. 10 * 2 + 1 = 21.",
+    "question_en": "Find the missing number.",
+    "options_en": [
+      "24",
+      "21",
+      "18",
+      "34"
+    ],
+    "explanation_en": "Logic of numbers in opposite sectors: x and (x * 2) + 1. 10 * 2 + 1 = 21."
+  },
+  {
+    "id": 31,
+    "subject": "மனத்திறன்",
+    "question": "A என்பவரின் வயது B-யைப் போன்று மூன்று மடங்கு. 4 வருடங்களுக்கு முன்பு C-ன் வயது A-ன் வயதைப் போன்று இருமடங்கு. 4 வருடங்களில் A-ன் வயது 31 எனில், B-ன் தற்போதைய வயது:",
+    "options": [
+      "9",
+      "18",
+      "6",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "A-ன் தற்போதைய வயது = 31 - 4 = 27. A = 3B என்பதால் B = 27/3 = 9.",
+    "question_en": "A is thrice as old as B. 4 years ago C was twice as old as A. In 4 years A will be 31. The present age of B is:",
+    "options_en": [
+      "9",
+      "18",
+      "6",
+      "12"
+    ],
+    "explanation_en": "A's present age = 31 - 4 = 27. Since A = 3B, B = 27/3 = 9."
+  },
+  {
+    "id": 32,
+    "subject": "மனத்திறன்",
+    "question": "A என்பவரின் வயது B-யைப் போன்று மூன்று மடங்கு. 4 வருடங்களுக்கு முன்பு C-ன் வயது A-ன் வயதைப் போன்று இருமடங்கு. 4 வருடங்களில் A-ன் வயது 31 எனில் , மேற்கண்ட தகவலின்படி, C-ன் தற்போதைய வயது:",
+    "options": [
+      "9",
+      "18",
+      "50",
+      "52"
+    ],
+    "correct": 2,
+    "explanation": "4 வருடங்களுக்கு முன் A-ன் வயது = 23. அப்போது C-ன் வயது = 23 x 2 = 46. தற்போதைய C-ன் வயது = 46 + 4 = 50.",
+    "question_en": "A is thrice as old as B. 4 years ago C was twice as old as A. In 4 years A will be 31. Based on this, the present age of C is:",
+    "options_en": [
+      "9",
+      "18",
+      "50",
+      "52"
+    ],
+    "explanation_en": "4 years ago A's age = 23. Then C's age = 23 x 2 = 46. Present age of C = 46 + 4 = 50."
+  },
+  {
+    "id": 33,
+    "subject": "மனத்திறன்",
+    "question": "ஒரு நபர் 'என்னுடைய வயதை திருப்பி போட்டால் வரும் வயது என்னுடைய மனைவியின் வயது... எங்கள் இருவருடைய வயதுகளின் வித்தியாசம், எங்களுடைய வயது கூட்டலின் 1/11 பங்காகும்' என்று கூறுகிறார். அந்த நபரின் வயது:",
+    "options": [
+      "45",
+      "54",
+      "46",
+      "56"
+    ],
+    "correct": 1,
+    "explanation": "இரு இலக்கங்களை 10x+y மற்றும் 10y+x என எடுத்து சமன்பாட்டை தீர்த்தால் 4x = 5y என கிடைக்கும். x=5, y=4 எனப் பிரதியிட்டால் நபரின் வயது 54.",
+    "question_en": "A person says, 'If you reverse my age, you get my wife's age. The difference between our ages is 1/11 of the sum of our ages'. The person's age is:",
+    "options_en": [
+      "45",
+      "54",
+      "46",
+      "56"
+    ],
+    "explanation_en": "Let the digits be 10x+y and 10y+x. Solving the equation gives 4x = 5y. Substituting x=5, y=4 gives the person's age as 54."
+  },
+  {
+    "id": 34,
+    "subject": "மனத்திறன்",
+    "question": "Mr. X-ன் வயது, Mr. Y-ன் வயதைப் போன்று இரு மடங்கு. 3 வருடங்களுக்கு முன்பு X-ன் வயது Y-ன் வயதைப் போன்று மூன்று மடங்கு. Y-ன் தற்போதைய வயது:",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "X = 2Y. மூன்று வருடங்களுக்கு முன்: X - 3 = 3(Y - 3). இதன்படி 2Y - 3 = 3Y - 9, எனவே Y = 6.",
+    "question_en": "Mr. X's age is twice that of Mr. Y's age. 3 years ago, X's age was thrice Y's age. Y's present age is:",
+    "options_en": [
+      "6",
+      "12",
+      "18",
+      "24"
+    ],
+    "explanation_en": "X = 2Y. 3 years ago: X - 3 = 3(Y - 3). Thus 2Y - 3 = 3Y - 9, so Y = 6."
+  },
+  {
+    "id": 35,
+    "subject": "மனத்திறன்",
+    "question": "தேர்வில் சரியான கணக்குகளைப் போன்று இரண்டு மடங்கு தவறாக செய்கிறார். மொத்தம் 54 கணக்குகள் எனில், சரியான கணக்குகளின் எண்ணிக்கை:",
+    "options": [
+      "16",
+      "32",
+      "36",
+      "18"
+    ],
+    "correct": 3,
+    "explanation": "சரியான கணக்குகள் = x, தவறானவை = 2x. மொத்தம் 3x = 54. எனவே x = 18.",
+    "question_en": "In an exam, a student gets twice as many sums wrong as he gets right. If there are 54 sums in total, the number of correct sums is:",
+    "options_en": [
+      "16",
+      "32",
+      "36",
+      "18"
+    ],
+    "explanation_en": "Correct sums = x, wrong sums = 2x. Total 3x = 54. Therefore x = 18."
+  },
+  {
+    "id": 36,
+    "subject": "மனத்திறன்",
+    "question": "ஆங்கில வினாத்தாளின்படி: ÷ என்பது - ஐயும், - என்பது x ஐயும், x என்பது ÷ ஐயும், + என்பது + ஐயும் குறித்தால் 18 x 3 - 6 + 6 ÷ 5 = ?",
+    "options": [
+      "35",
+      "31",
+      "28",
+      "29"
+    ],
+    "correct": 0,
+    "explanation": "குறிகளை மாற்றினால்: 18 ÷ 3 x 6 - 6 + 5. BODMAS விதிப்படி: 36 - 6 + 5 = 35.",
+    "question_en": "If ÷ means -, - means x, x means ÷, and + means +, then 18 x 3 - 6 + 6 ÷ 5 = ?",
+    "options_en": [
+      "35",
+      "31",
+      "28",
+      "29"
+    ],
+    "explanation_en": "Substituting the signs: 18 ÷ 3 x 6 - 6 + 5. By BODMAS rule: 36 - 6 + 5 = 35."
+  },
+  {
+    "id": 37,
+    "subject": "மனத்திறன்",
+    "question": "9 + 5 ÷ 4 x 3 - 6 = 12 என்ற தொடர்பின் விடை சரியாக கிடைக்க மாற்றியமைக்கப்பட வேண்டிய குறிகள்:",
+    "options": [
+      "+ மற்றும் -",
+      "÷ மற்றும் -",
+      "÷ மற்றும் +",
+      "+ மற்றும் x"
+    ],
+    "correct": 1,
+    "explanation": "÷ மற்றும் - குறிகளை இடமாற்றினால்: 9 + 5 - 4 x 3 ÷ 6 = 9 + 5 - (12/6) = 14 - 2 = 12.",
+    "question_en": "Which signs should be interchanged to make the equation 9 + 5 ÷ 4 x 3 - 6 = 12 correct?",
+    "options_en": [
+      "+ and -",
+      "÷ and -",
+      "÷ and +",
+      "+ and x"
+    ],
+    "explanation_en": "Interchanging ÷ and - : 9 + 5 - 4 x 3 ÷ 6 = 9 + 5 - (12/6) = 14 - 2 = 12."
+  },
+  {
+    "id": 38,
+    "subject": "மனத்திறன்",
+    "question": "3 மற்றும் 6, மேலும் - மற்றும் x ஆகியவற்றை இடமாற்றினால் எவை சரியானவை?",
+    "options": [
+      "6 - 3 x 2 = 9",
+      "6 x 3 - 4 = 15",
+      "3 - 6 x 8 = 10",
+      "3 x 6 - 4 = 33"
+    ],
+    "correct": 2,
+    "explanation": "விருப்பம் 3-ல் இடமாற்றம் செய்தால்: 6 x 3 - 8 = 18 - 8 = 10 என சரியாக வரும்.",
+    "question_en": "If 3 and 6, and - and x are interchanged, which of the following is correct?",
+    "options_en": [
+      "6 - 3 x 2 = 9",
+      "6 x 3 - 4 = 15",
+      "3 - 6 x 8 = 10",
+      "3 x 6 - 4 = 33"
+    ],
+    "explanation_en": "Interchanging in option 3 gives: 6 x 3 - 8 = 18 - 8 = 10, which is correct."
+  },
+  {
+    "id": 39,
+    "subject": "மனத்திறன்",
+    "question": "2 * 4 = 36, 4 * 6 = 100 எனில் 5 * 6 = ?",
+    "options": [
+      "900",
+      "30",
+      "11",
+      "121"
+    ],
+    "correct": 3,
+    "explanation": "தர்க்கம்: (a + b)². 5 * 6 = (5 + 6)² = 11² = 121.",
+    "question_en": "If 2 * 4 = 36, 4 * 6 = 100, then 5 * 6 = ?",
+    "options_en": [
+      "900",
+      "30",
+      "11",
+      "121"
+    ],
+    "explanation_en": "Logic: (a + b)². 5 * 6 = (5 + 6)² = 11² = 121."
+  },
+  {
+    "id": 40,
+    "subject": "மனத்திறன்",
+    "question": "2 x 1 = 41, 3 x 2 = 92, 2 x 5 = 45 எனில் 3 x 1 = ?",
+    "options": [
+      "19",
+      "3",
+      "91",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "முதல் எண்ணின் வர்க்கத்தை (square) முதல் இலக்கமாகவும், இரண்டாவது எண்ணை அடுத்த இலக்கமாகவும் எழுத வேண்டும். 3² = 9 மற்றும் 1 -> 91.",
+    "question_en": "If 2 x 1 = 41, 3 x 2 = 92, 2 x 5 = 45, then 3 x 1 = ?",
+    "options_en": [
+      "19",
+      "3",
+      "91",
+      "16"
+    ],
+    "explanation_en": "The square of the first number is the first digit, and the second number is the next digit. 3² = 9 and 1 -> 91."
+  },
+  {
+    "id": 41,
+    "subject": "மனத்திறன்",
+    "question": "(56)⁷⁵ - ன் ஒன்றாம் இலக்க எண்:",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "6-ல் முடியும் எந்தவொரு எண்ணின் அடுக்கும் (power) 6-லேயே முடியும்.",
+    "question_en": "The unit digit of (56)⁷⁵ is:",
+    "options_en": [
+      "6",
+      "4",
+      "5",
+      "0"
+    ],
+    "explanation_en": "Any power of a number ending in 6 will always end in 6."
+  },
+  {
+    "id": 42,
+    "subject": "மனத்திறன்",
+    "question": "RACET என்ற வார்த்தையைக் கொண்டு அர்த்தமுள்ள வார்த்தையை உருவாக்கும் வரிசை:",
+    "options": [
+      "1, 2, 3, 5, 4",
+      "1, 4, 2, 3, 5",
+      "5, 2, 3, 4, 1",
+      "4, 3, 2, 5, 1"
+    ],
+    "correct": 1,
+    "explanation": "கொடுக்கப்பட்ட எழுத்துக்களைக் கொண்டு REACT என்ற வார்த்தையை உருவாக்கலாம். இதன் வரிசை 1,4,2,3,5.",
+    "question_en": "The order to form a meaningful word from RACET:",
+    "options_en": [
+      "1, 2, 3, 5, 4",
+      "1, 4, 2, 3, 5",
+      "5, 2, 3, 4, 1",
+      "4, 3, 2, 5, 1"
+    ],
+    "explanation_en": "The word REACT can be formed. The order is 1,4,2,3,5."
+  },
+  {
+    "id": 43,
+    "subject": "மனத்திறன்",
+    "question": "7 8 9 7 6 5 7 9 7 6 5 4 9 7 5 என்ற எண்ணில் 9-ஐ பின்னதாகவும், 6-ஐ முன்னதாகவும் கொண்டுள்ள இலக்கம் 7-ன் எண்ணிக்கை:",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "'9 7 6' என்ற வரிசை கொடுக்கப்பட்ட தொடரில் 2 முறை வந்துள்ளது.",
+    "question_en": "In the sequence 7 8 9 7 6 5 7 9 7 6 5 4 9 7 5, how many 7s are preceded by 9 and followed by 6?",
+    "options_en": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "explanation_en": "The sequence '9 7 6' appears 2 times in the given series."
+  },
+  {
+    "id": 44,
+    "subject": "மனத்திறன்",
+    "question": "ஒரு வகுப்பில் மீரா மேலிருந்து 13-வது நிலையிலும், கீழிருந்து 28-வது நிலையிலும் உள்ளார் எனில், மொத்த மாணவர்கள்:",
+    "options": [
+      "40",
+      "41",
+      "42",
+      "39"
+    ],
+    "correct": 0,
+    "explanation": "மொத்த மாணவர்கள் = மேலிருந்து நிலை + கீழிருந்து நிலை - 1 = 13 + 28 - 1 = 40.",
+    "question_en": "If Meera is 13th from the top and 28th from the bottom in a class, the total number of students is:",
+    "options_en": [
+      "40",
+      "41",
+      "42",
+      "39"
+    ],
+    "explanation_en": "Total students = Position from top + Position from bottom - 1 = 13 + 28 - 1 = 40."
+  },
+  {
+    "id": 45,
+    "subject": "மனத்திறன்",
+    "question": "நான்கு மணிகள் 5, 7, 3 மற்றும் 12 வினாடிகள் இடைவெளியில் அடிக்கின்றன. 5 am-க்கு ஒன்றாக அடித்தன என்றால் மீண்டும் ஒன்றாக அடிக்கும் நேரம்:",
+    "options": [
+      "5.10 am",
+      "5.15 am",
+      "5.07 am",
+      "5.08 am"
+    ],
+    "correct": 2,
+    "explanation": "5, 7, 3 மற்றும் 12-ன் மீ.சி.ம (LCM) = 420 வினாடிகள் = 7 நிமிடங்கள். எனவே அடுத்த முறை 5.07 am-க்கு ஒன்றாக ஒலிக்கும்.",
+    "question_en": "Four bells toll at intervals of 5, 7, 3 and 12 seconds. If they tolled together at 5 am, when will they toll together again?",
+    "options_en": [
+      "5.10 am",
+      "5.15 am",
+      "5.07 am",
+      "5.08 am"
+    ],
+    "explanation_en": "The LCM of 5, 7, 3 and 12 is 420 seconds = 7 minutes. So they will toll together again at 5.07 am."
+  },
+  {
+    "id": 46,
+    "subject": "மனத்திறன்",
+    "question": "TRANQUILITY என்ற வார்த்தையைக் கொண்டு உருவாக்க முடியாத வார்த்தை:",
+    "options": [
+      "QUILT",
+      "TRINITY",
+      "TRIANGLE",
+      "TRAIN"
+    ],
+    "correct": 2,
+    "explanation": "TRANQUILITY என்ற வார்த்தையில் 'G' மற்றும் 'E' ஆகிய எழுத்துக்கள் இல்லை. எனவே TRIANGLE-ஐ உருவாக்க முடியாது.",
+    "question_en": "Word that cannot be formed from the word TRANQUILITY:",
+    "options_en": [
+      "QUILT",
+      "TRINITY",
+      "TRIANGLE",
+      "TRAIN"
+    ],
+    "explanation_en": "The letters 'G' and 'E' are not in TRANQUILITY. Hence TRIANGLE cannot be formed."
+  },
+  {
+    "id": 47,
+    "subject": "மனத்திறன்",
+    "question": "RATION என்ற வார்த்தையைக் கொண்டு, வரிசை மாறாமலும், ஒரு முறை பயன்படுத்தியும் உருவாக்கப்படும் வார்த்தைகளின் எண்ணிக்கை:",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "வரிசை மாறாமல் ஒவ்வொரு எழுத்தையும் ஒருமுறை மட்டும் பயன்படுத்தி RAT, ION என 2 வார்த்தைகளை உருவாக்கலாம்.",
+    "question_en": "Number of words that can be formed from the word RATION without changing the order and using each letter only once:",
+    "options_en": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "explanation_en": "Using each letter once without changing order, 2 words can be formed: RAT, ION."
+  },
+  {
+    "id": 48,
+    "subject": "மனத்திறன்",
+    "question": "BRIGHTER வார்த்தையில் 1&5, 2&6, 3&7, 4&8 எழுத்துக்களை இடமாற்றம் செய்த பிறகு, வலது ஓரத்திலிருந்து எட்டாவதாக அமையும் எழுத்து:",
+    "options": [
+      "B",
+      "R",
+      "I",
+      "H"
+    ],
+    "correct": 3,
+    "explanation": "இடமாற்றம் செய்த பிறகு புதிய வார்த்தை HTERBRIG. வலது ஓரத்திலிருந்து 8-வது எழுத்து H.",
+    "question_en": "In the word BRIGHTER, after interchanging letters 1&5, 2&6, 3&7, 4&8, the 8th letter from the right end will be:",
+    "options_en": [
+      "B",
+      "R",
+      "I",
+      "H"
+    ],
+    "explanation_en": "After interchanging, the new word is HTERBRIG. The 8th letter from the right is H."
+  },
+  {
+    "id": 49,
+    "subject": "மனத்திறன்",
+    "question": "ஆங்கில வரிசை எழுத்துக்களின் வலப்பக்கத்தின் முடிவிலிருந்து 16-வது எழுத்தின் இடப்பக்கமாக எட்டாவது எழுத்தாக அமைவது:",
+    "options": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "correct": 0,
+    "explanation": "வலப்பக்கத்திலிருந்து 16-வது எழுத்தின் இடப்பக்கம் 8-வது எழுத்து = வலப்பக்கத்திலிருந்து (16+8=24) வது எழுத்து. இது இடப்பக்கத்திலிருந்து 3-வது எழுத்து (C) ஆகும்.",
+    "question_en": "The letter which is 8th to the left of the 16th letter from the right end of the English alphabet is:",
+    "options_en": [
+      "C",
+      "B",
+      "D",
+      "A"
+    ],
+    "explanation_en": "8th to the left of 16th from right = (16+8=24)th from right. This is the 3rd letter from left (C)."
+  },
+  {
+    "id": 50,
+    "subject": "மனத்திறன்",
+    "question": "x மற்றும் y பகா எண்கள். x² + y² = 13 எனில் x மற்றும் y-ன் மதிப்புகள்:",
+    "options": [
+      "1, 2",
+      "2, 3",
+      "3, 5",
+      "2, -3"
+    ],
+    "correct": 1,
+    "explanation": "2 மற்றும் 3 பகா எண்கள். 2² + 3² = 4 + 9 = 13 என சரியாக வருகிறது.",
+    "question_en": "x and y are prime numbers. If x² + y² = 13, then the values of x and y are:",
+    "options_en": [
+      "1, 2",
+      "2, 3",
+      "3, 5",
+      "2, -3"
+    ],
+    "explanation_en": "2 and 3 are prime numbers. 2² + 3² = 4 + 9 = 13."
+  },
+  {
+    "id": 51,
+    "subject": "மனத்திறன்",
+    "question": "சரியான வென் படத்தைத் தேர்ந்தெடுக்கவும்: Table, Cot, Furniture",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "image": "image/mat18q51.png",
+    "explanation": "Table மற்றும் Cot ஆகிய இரண்டும் வெவ்வேறு, ஆனால் இரண்டும் Furniture (அறைகலன்) வகையைச் சேர்ந்தவை.",
+    "question_en": "Choose the correct Venn diagram: Table, Cot, Furniture",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "Table and Cot are different, but both belong to the Furniture category."
+  },
+  {
+    "id": 52,
+    "subject": "மனத்திறன்",
+    "question": "சரியான வென் படத்தைத் தேர்ந்தெடுக்கவும்: Building, Brick, Bridge",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 0,
+    "image": "image/mat18q51.png",
+    "explanation": "செங்கல் (Brick) கட்டிடம் (Building) மற்றும் பாலம் (Bridge) ஆகிய இரண்டிலும் பயன்படுத்தப்படுகிறது.",
+    "question_en": "Choose the correct Venn diagram: Building, Brick, Bridge",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "Brick is used in both Building and Bridge."
+  },
+  {
+    "id": 53,
+    "subject": "மனத்திறன்",
+    "question": "சரியான வென் படத்தைத் தேர்ந்தெடுக்கவும்: Tree, Branch, Leaf",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 2,
+    "image": "image/mat18q51.png",
+    "explanation": "மரத்தின் (Tree) ஒரு பகுதி கிளை (Branch), கிளையின் ஒரு பகுதி இலை (Leaf).",
+    "question_en": "Choose the correct Venn diagram: Tree, Branch, Leaf",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "Branch is a part of a Tree, and Leaf is a part of a Branch."
+  },
+  {
+    "id": 54,
+    "subject": "மனத்திறன்",
+    "question": "சரியான வென் படத்தைத் தேர்ந்தெடுக்கவும்: Gold, Silver, Jewellery",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 0,
+    "image": "image/mat18q51.png",
+    "explanation": "தங்கம் மற்றும் வெள்ளி இரண்டும் தனித்தனி உலோகங்கள், ஆனால் இரண்டையும் நகை (Jewellery) செய்ய பயன்படுத்தலாம்.",
+    "question_en": "Choose the correct Venn diagram: Gold, Silver, Jewellery",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "Gold and Silver are separate metals, but both can be used to make Jewellery."
+  },
+  {
+    "id": 55,
+    "subject": "மனத்திறன்",
+    "question": "சரியான வென் படத்தைத் தேர்ந்தெடுக்கவும்: Goat, Mammal, Peacock",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 3,
+    "image": "image/mat18q51.png",
+    "explanation": "ஆடு ஒரு பாலூட்டி (Mammal). மயில் (Peacock) ஒரு பறவை, எனவே அது பாலூட்டிகளில் சேராது.",
+    "question_en": "Choose the correct Venn diagram: Goat, Mammal, Peacock",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "Goat is a Mammal. Peacock is a bird, so it does not belong to mammals."
+  },
+  {
+    "id": 56,
+    "subject": "மனத்திறன்",
+    "question": "படத்தில் B என்ற குறியீட்டினைக் குறிப்பது:",
+    "options": [
+      "வணிகம் செய்பவர்கள் மற்றும் விளையாட்டு வீரர்கள்",
+      "படித்த விளையாட்டு வீரர்கள்",
+      "படித்த வணிகம் செய்பவர்கள்",
+      "வணிகம் செய்யாத விளையாட்டு வீரர்கள்"
+    ],
+    "correct": 2,
+    "image": "image/mat18q56.png",
+    "explanation": "B என்பது செவ்வகம் (வணிகம்) மற்றும் முக்கோணம் (விளையாட்டு) ஆகிய இரண்டும் இணையும் பகுதி.",
+    "question_en": "In the figure, B represents:",
+    "options_en": [
+      "Businessmen and athletes",
+      "Educated athletes",
+      "Educated businessmen",
+      "Athletes not in business"
+    ],
+    "explanation_en": "B is the intersection of the rectangle (business) and triangle (sports). Wait, let's look at the options, C is the intersection of all three."
+  },
+  {
+    "id": 57,
+    "subject": "மனத்திறன்",
+    "question": "விளையாட்டில் ஈடுபடும் மற்றும் வணிகத்தில் ஈடுபடாதவர்களைக் குறிக்கும் குறியீடு:",
+    "options": [
+      "C மற்றும் D",
+      "C மற்றும் E",
+      "D மற்றும் E",
+      "C, D மற்றும் E"
+    ],
+    "correct": 2,
+    "image": "image/mat18q56.png",
+    "explanation": "முக்கோணத்தில் (விளையாட்டு) இருக்க வேண்டும், ஆனால் செவ்வகத்தில் (வணிகம்) இருக்கக் கூடாது. C மற்றும் E இதற்குப் பொருந்தும்.",
+    "question_en": "Code representing those engaged in sports and not in business:",
+    "options_en": [
+      "C and D",
+      "C and E",
+      "D and E",
+      "C, D and E"
+    ],
+    "explanation_en": "Should be in the triangle (sports) but not in the rectangle (business). D and E fit this."
+  },
+  {
+    "id": 58,
+    "subject": "மனத்திறன்",
+    "question": "விளையாட்டில் ஈடுபட்டு வணிகத்தில் ஈடுபடாத படிக்காதவர்களைக் குறிப்பிடுவது:",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 3,
+    "image": "image/mat18q56.png",
+    "explanation": "முக்கோணத்தில் மட்டும் இருக்க வேண்டும் (செவ்வகம் மற்றும் வட்டத்தில் வரக்கூடாது). குறியீடு E.",
+    "question_en": "Code representing uneducated people engaged in sports and not in business:",
+    "options_en": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation_en": "Should only be in the triangle (not in rectangle or circle). The code is E."
+  },
+  {
+    "id": 59,
+    "subject": "மனத்திறன்",
+    "question": "வணிகம் மற்றும் விளையாட்டில் ஈடுபடும் படித்தவர்களைக் குறிப்பது:",
+    "options": [
+      "D",
+      "C",
+      "B",
+      "F"
+    ],
+    "correct": 1,
+    "image": "image/mat18q56.png",
+    "explanation": "மூன்றும் (செவ்வகம், முக்கோணம், வட்டம்) ஒன்றிணையும் மையப் பகுதி C ஆகும்.",
+    "question_en": "Code representing educated people engaged in business and sports:",
+    "options_en": [
+      "D",
+      "C",
+      "B",
+      "F"
+    ],
+    "explanation_en": "The central area where all three (rectangle, triangle, circle) intersect is C."
+  },
+  {
+    "id": 60,
+    "subject": "மனத்திறன்",
+    "question": "படிக்காமலும் விளையாட்டில் ஈடுபடாமலும் உள்ள வணிகர்கள்:",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 0,
+    "image": "image/mat18q56.png",
+    "explanation": "செவ்வகத்தில் மட்டும் இருக்க வேண்டும் (முக்கோணம் மற்றும் வட்டத்தில் வரக்கூடாது). குறியீடு A.",
+    "question_en": "Businessmen who are uneducated and not engaged in sports:",
+    "options_en": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation_en": "Should only be in the rectangle (not in triangle or circle). The code is A."
+  },
+  {
+    "id": 61,
+    "subject": "மனத்திறன்",
+    "question": "C என்பவர் F-க்கு என்ன உறவு?",
+    "image": "image/mat18q60.png",
+    "options": [
+      "சகோதரர்",
+      "சகோதரி",
+      "கூற இயலாது",
+      "தந்தை"
+    ],
+    "correct": 2,
+    "explanation": "C ஆணா பெண்ணா என்ற விவரம் கொடுக்கப்படவில்லை. எனவே உறவைக் கூற இயலாது.",
+    "question_en": "How is C related to F?",
+    "options_en": [
+      "Brother",
+      "Sister",
+      "Cannot be determined",
+      "Father"
+    ],
+    "explanation_en": "The gender of C is not given. So the relationship cannot be determined."
+  },
+  {
+    "id": 62,
+    "subject": "மனத்திறன்",
+    "question": "கீழ்க்கண்டவர்களில் எந்த ஜோடி தம்பதியர்கள் ஆவர்?",
+    "image": "image/mat18q60.png",
+    "options": [
+      "AD மற்றும் BC",
+      "AB மற்றும் CD",
+      "AC மற்றும் BD",
+      "கூற இயலாது"
+    ],
+    "correct": 0,
+    "explanation": "தரவுகளின்படி A மற்றும் D ஒரு ஜோடி. எழுத்தாளரான C மற்றும் B மற்றொரு ஜோடி. எனவே AD மற்றும் BC.",
+    "question_en": "Which of the following pairs are couples?",
+    "options_en": [
+      "AD and BC",
+      "AB and CD",
+      "AC and BD",
+      "Cannot be determined"
+    ],
+    "explanation_en": "According to the data, A and D are a couple. Writer C and B are another couple. Therefore AD and BC."
+  },
+  {
+    "id": 63,
+    "subject": "மனத்திறன்",
+    "question": "கீழ்க்கண்டவர்களில் எழுத்தாளர் யார்?",
+    "image": "image/mat18q60.png",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "correct": 1,
+    "explanation": "தரவுகளின் அடிப்படையில், B என்பவரைத் திருமணம் செய்த எழுத்தாளர் C ஆவார்.",
+    "question_en": "Who among the following is the writer?",
+    "options_en": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation_en": "Based on the data, C is the writer who married B."
+  },
+  {
+    "id": 64,
+    "subject": "மனத்திறன்",
+    "question": "கீழ்க்கண்டவர்களில் புகைப்படக் கலைஞர் யார்?",
+    "image": "image/mat18q60.png",
+    "options": [
+      "A",
+      "F",
+      "C",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "தரவுகளிலேயே A என்பவர் புகைப்படக் கலைஞர் எனக் கொடுக்கப்பட்டுள்ளது.",
+    "question_en": "Who among the following is the photographer?",
+    "options_en": [
+      "A",
+      "F",
+      "C",
+      "E"
+    ],
+    "explanation_en": "A is given as the photographer in the data itself."
+  },
+  {
+    "id": 65,
+    "subject": "மனத்திறன்",
+    "question": "இவர்களில் ஆண் உறுப்பினர் என்று தெரியவருவது யார்?",
+    "image": "image/mat18q60.png",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "F"
+    ],
+    "correct": 3,
+    "explanation": "C-யின் சகோதரர் F எனக் கொடுக்கப்பட்டுள்ளதால், F என்பவர் ஆண் ஆவார்.",
+    "question_en": "Who among these is known to be a male member?",
+    "options_en": [
+      "A",
+      "C",
+      "D",
+      "F"
+    ],
+    "explanation_en": "Since F is given as the brother of C, F is male."
+  },
+  {
+    "id": 66,
+    "subject": "மனத்திறன்",
+    "question": "பொருத்தமான வரிசையை அமைக்க: (a) Forest (b) Furniture (c) Wood (d) Trees",
+    "options": [
+      "(d), (a), (c), (b)",
+      "(a), (d), (c), (b)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (a), (d)"
+    ],
+    "correct": 1,
+    "explanation": "சரியான வரிசை: காடு (Forest) -> மரங்கள் (Trees) -> மரம் (Wood) -> அறைகலன் (Furniture). (a), (d), (c), (b).",
+    "question_en": "Arrange in logical sequence: (a) Forest (b) Furniture (c) Wood (d) Trees",
+    "options_en": [
+      "(d), (a), (c), (b)",
+      "(a), (d), (c), (b)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (a), (d)"
+    ],
+    "explanation_en": "Logical sequence: Forest -> Trees -> Wood -> Furniture. (a), (d), (c), (b)."
+  },
+  {
+    "id": 67,
+    "subject": "மனத்திறன்",
+    "question": "பொருத்தமான வரிசையை அமைக்க: (a) School (b) Child (c) Employment (d) College",
+    "options": [
+      "(b), (a), (d), (c)",
+      "(a), (c), (b), (d)",
+      "(b), (d), (a), (c)",
+      "(c), (a), (d), (b)"
+    ],
+    "correct": 0,
+    "explanation": "சரியான வரிசை: குழந்தை (Child) -> பள்ளி (School) -> கல்லூரி (College) -> வேலைவாய்ப்பு (Employment). (b), (a), (d), (c).",
+    "question_en": "Arrange in logical sequence: (a) School (b) Child (c) Employment (d) College",
+    "options_en": [
+      "(b), (a), (d), (c)",
+      "(a), (c), (b), (d)",
+      "(b), (d), (a), (c)",
+      "(c), (a), (d), (b)"
+    ],
+    "explanation_en": "Logical sequence: Child -> School -> College -> Employment. (b), (a), (d), (c)."
+  },
+  {
+    "id": 68,
+    "subject": "மனத்திறன்",
+    "question": "பொருத்தமான வரிசையை அமைக்க: (a) Post-box (b) Transportation (c) Letter (d) Delivery",
+    "options": [
+      "(b), (c), (d), (a)",
+      "(c), (a), (b), (d)",
+      "(c), (a), (b), (d)",
+      "(a), (c), (b), (d)"
+    ],
+    "correct": 1,
+    "explanation": "சரியான வரிசை: கடிதம் (Letter) -> அஞ்சல் பெட்டி (Post-box) -> போக்குவரத்து (Transportation) -> விநியோகம் (Delivery). (c), (a), (b), (d).",
+    "question_en": "Arrange in logical sequence: (a) Post-box (b) Transportation (c) Letter (d) Delivery",
+    "options_en": [
+      "(b), (c), (d), (a)",
+      "(c), (a), (b), (d)",
+      "(c), (a), (b), (d)",
+      "(a), (c), (b), (d)"
+    ],
+    "explanation_en": "Logical sequence: Letter -> Post-box -> Transportation -> Delivery. (c), (a), (b), (d)."
+  },
+  {
+    "id": 69,
+    "subject": "மனத்திறன்",
+    "question": "பிற்பகல் 2 மணியைக் கடிகாரத்தின் மணி மற்றும் நிமிட முள்களுக்கிடையே காட்டும் குறுங்கோணம்:",
+    "options": [
+      "120°",
+      "90°",
+      "10°",
+      "60°"
+    ],
+    "correct": 3,
+    "explanation": "2 மணிக்கு மணி முள் 2-லும் நிமிட முள் 12-லும் இருக்கும். அவற்றுக்கு இடையேயான கோணம் = 2 x 30° = 60°.",
+    "question_en": "The acute angle between the hour and minute hands of a clock at 2 PM is:",
+    "options_en": [
+      "120°",
+      "90°",
+      "10°",
+      "60°"
+    ],
+    "explanation_en": "At 2 o'clock, the hour hand is at 2 and the minute hand is at 12. The angle between them = 2 x 30° = 60°."
+  },
+  {
+    "id": 70,
+    "subject": "மனத்திறன்",
+    "question": "ஒரு சுவர் கடிகாரம் 4 மணி அடிக்க 6 வினாடிகள் எடுத்துக் கொண்டால் 12 மணி அடிக்க எத்தனை வினாடிகள் ஆகும்?",
+    "options": [
+      "22 வினாடிகள்",
+      "18 வினாடிகள்",
+      "24 வினாடிகள்",
+      "20 வினாடிகள்"
+    ],
+    "correct": 0,
+    "explanation": "4 முறை அடிக்க 3 இடைவெளிகள் தேவை. 3 இடைவெளி = 6 வினாடி எனில், 1 இடைவெளி = 2 வினாடி. 12 முறை அடிக்க 11 இடைவெளிகள் (11 x 2 = 22 வினாடிகள்).",
+    "question_en": "If a wall clock takes 6 seconds to strike 4 o'clock, how many seconds will it take to strike 12 o'clock?",
+    "options_en": [
+      "22 seconds",
+      "18 seconds",
+      "24 seconds",
+      "20 seconds"
+    ],
+    "explanation_en": "To strike 4 times, there are 3 intervals. If 3 intervals = 6 seconds, then 1 interval = 2 seconds. To strike 12 times, there are 11 intervals (11 x 2 = 22 seconds)."
+  },
+  {
+    "id": 71,
+    "subject": "மனத்திறன்",
+    "question": "6789 என்ற எண்ணின் நீர் பிம்பம்:",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 3,
+    "image": "image/mat18q71.png",
+    "explanation": "நீர் பிம்பத்தில் மேல் பகுதி கீழாகவும், கீழ் பகுதி மேலாகவும் தலைகீழாகத் தோன்றும்.",
+    "question_en": "Water image of the number 6789:",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "In a water image, the top part becomes the bottom and the bottom becomes the top (upside down)."
+  },
+  {
+    "id": 72,
+    "subject": "மனத்திறன்",
+    "question": "TRAY என்ற வார்த்தையின் நீர் பிம்பம்:",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 3,
+    "image": "image/mat18q72.png",
+    "explanation": "நீர் பிம்பத்தில் எழுத்துக்கள் தலைகீழாக (Upside down) தோன்றும்.",
+    "question_en": "Water image of the word TRAY:",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "In a water image, the letters appear upside down."
+  },
+  {
+    "id": 73,
+    "subject": "மனத்திறன்",
+    "question": "4673 என்ற எண்ணின் கண்ணாடி பிம்பம்:",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "image": "image/mat18q73.png",
+    "explanation": "கண்ணாடி பிம்பத்தில் வலது பகுதி இடதாகவும், இடது பகுதி வலதாகவும் மாறும்.",
+    "question_en": "Mirror image of the number 4673:",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "In a mirror image, the right part becomes left and the left part becomes right."
+  },
+  {
+    "id": 74,
+    "subject": "மனத்திறன்",
+    "question": "NTSE என்ற வார்த்தையின் கண்ணாடி பிம்பம்:",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "image": "image/mat18q74.png",
+    "explanation": "கண்ணாடி பிம்பத்தில் வலது மற்றும் இடது பக்கங்கள் இடமாற்றம் அடையும்.",
+    "question_en": "Mirror image of the word NTSE:",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "In a mirror image, left and right sides are interchanged."
+  },
+  {
+    "id": 75,
+    "subject": "மனத்திறன்",
+    "question": "ஒரு பகடையின் இரண்டு நிலைகள் தரப்பட்டுள்ளன. '4'-க்கு நேர் எதிராக உள்ள எண்:",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 3,
+    "image": "image/mat18q75.png",
+    "explanation": "இரு நிலைகளிலும் 4-க்கு அருகில் 2, 3, 5, 6 ஆகியவை வந்துள்ளன. எனவே 4-க்கு எதிர்ப்புறம் 1 மட்டுமே இருக்க முடியும்.",
+    "question_en": "Two positions of a dice are given. The number opposite to '4' is:",
+    "options_en": [
+      "5",
+      "3",
+      "2",
+      "1"
+    ],
+    "explanation_en": "In both positions, 2, 3, 5, 6 are adjacent to 4. So only 1 can be opposite to 4."
+  },
+  {
+    "id": 76,
+    "subject": "மனத்திறன்",
+    "question": "படத்தில் உள்ள முக்கோணங்களின் எண்ணிக்கை:",
+    "options": [
+      "12",
+      "10",
+      "8",
+      "6"
+    ],
+    "correct": 0,
+    "image": "image/mat18q76.png",
+    "explanation": "ஒவ்வொரு சிறிய பகுதியையும் சேர்த்து மொத்தம் 12 முக்கோணங்கள் உள்ளன.",
+    "question_en": "Number of triangles in the figure:",
+    "options_en": [
+      "12",
+      "10",
+      "8",
+      "6"
+    ],
+    "explanation_en": "Including every small part, there are a total of 12 triangles."
+  },
+  {
+    "id": 77,
+    "subject": "மனத்திறன்",
+    "question": "படத்தின் கண்ணாடி பிம்பம்:",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 3,
+    "image": "image/mat18q77.png",
+    "explanation": "கண்ணாடி பிம்பத்தில் வலது, இடது மாற்றமடையும்.",
+    "question_en": "Mirror image of the figure:",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "In a mirror image, left and right are interchanged."
+  },
+  {
+    "id": 78,
+    "subject": "மனத்திறன்",
+    "question": "படத்தின் நீர் பிம்பம்:",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 2,
+    "image": "image/mat18q78.png",
+    "explanation": "நீர் பிம்பத்தில் மேல் மற்றும் கீழ் பகுதிகள் தலைகீழாக மாறும்.",
+    "question_en": "Water image of the figure:",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "In a water image, top and bottom parts are turned upside down."
+  },
+  {
+    "id": 79,
+    "subject": "மனத்திறன்",
+    "question": "இரு இலக்க எண்களின் எண்ணிக்கை:",
+    "options": [
+      "10",
+      "89",
+      "90",
+      "99"
+    ],
+    "correct": 2,
+    "explanation": "மொத்தம் 99 எண்கள், அதில் 1 முதல் 9 வரை உள்ளவை ஓர் இலக்க எண்கள். எனவே 99 - 9 = 90 இரு இலக்க எண்கள்.",
+    "question_en": "The number of two-digit numbers is:",
+    "options_en": [
+      "10",
+      "89",
+      "90",
+      "99"
+    ],
+    "explanation_en": "There are 99 numbers in total, out of which 1 to 9 are one-digit numbers. So 99 - 9 = 90 two-digit numbers."
+  },
+  {
+    "id": 80,
+    "subject": "மனத்திறன்",
+    "question": "3 மற்றும் 5 ஆகிய இரு இலக்கங்களை கொண்டும் மீண்டும் இரு எண்களைப் பயன்படுத்தியும் உருவாகும் இரு இலக்க எண்கள்:",
+    "options": [
+      "99",
+      "35",
+      "8",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "3 மற்றும் 5-ஐ கொண்டு உருவாக்கக்கூடிய ஈர்-இலக்க எண்கள்: 33, 35, 53, 55 (மொத்தம் 4 எண்கள்).",
+    "question_en": "The number of two-digit numbers formed by the digits 3 and 5, with repetition allowed, is:",
+    "options_en": [
+      "99",
+      "35",
+      "8",
+      "4"
+    ],
+    "explanation_en": "Two-digit numbers formed using 3 and 5: 33, 35, 53, 55 (total 4 numbers)."
+  },
+  {
+    "id": 81,
+    "subject": "மனத்திறன்",
+    "question": "A மற்றும் B படங்களுக்கிடையேயான தொடர்பின் அடிப்படையில் D-ஐ தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 2,
+    "image": "image/mat18q81.png",
+    "explanation": "வடிவங்களின் சுழற்சி மற்றும் உள்ளமைப்பின் தர்க்க அடிப்படையில் விடை கண்டறியப்பட்டுள்ளது.",
+    "question_en": "Select D based on the relationship between figures A and B.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The answer is found based on the logic of rotation and structure of the figures."
+  },
+  {
+    "id": 82,
+    "subject": "மனத்திறன்",
+    "question": "A மற்றும் B படங்களுக்கிடையேயான தொடர்பின் அடிப்படையில் D-ஐ தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 3,
+    "image": "image/mat18q82.png",
+    "explanation": "வெளியே உள்ள வடிவம் உள்ளேயும், உள்ளே உள்ள வடிவம் வெளியேயும் என அமைப்புகள் இடமாற்றம் அடைகின்றன.",
+    "question_en": "Select D based on the relationship between figures A and B.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The outer shape becomes inner, and the inner shape becomes outer, interchanging their positions."
+  },
+  {
+    "id": 83,
+    "subject": "மனத்திறன்",
+    "question": "A மற்றும் B படங்களுக்கிடையேயான தொடர்பின் அடிப்படையில் D-ஐ தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "image": "image/mat18q83.png",
+    "explanation": "வடிவங்களின் நேர் கோடுகள் நீக்கப்படுதல் அல்லது சேர்க்கப்படுதல் அடிப்படையில் தொடர்பு அமைந்துள்ளது.",
+    "question_en": "Select D based on the relationship between figures A and B.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The relationship is based on the removal or addition of straight lines in the figures."
+  },
+  {
+    "id": 84,
+    "subject": "மனத்திறன்",
+    "question": "A மற்றும் B படங்களுக்கிடையேயான தொடர்பின் அடிப்படையில் D-ஐ தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 2,
+    "image": "image/mat18q84.png",
+    "explanation": "படம் A-ல் உள்ள வெற்று உருவம், B-ல் பல பிரிவுகளாகப் பிரிக்கப்படுகிறது. அதேபோல படம் C பிரிக்கப்பட்டால் D-க்கான விடை கிடைக்கும்.",
+    "question_en": "Select D based on the relationship between figures A and B.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The empty figure in A is divided into several parts in B. Similarly, dividing figure C gives the answer for D."
+  },
+  {
+    "id": 85,
+    "subject": "மனத்திறன்",
+    "question": "A மற்றும் B படங்களுக்கிடையேயான தொடர்பின் அடிப்படையில் D-ஐ தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 0,
+    "image": "image/mat18q85.png",
+    "explanation": "உள்ளே உள்ள வடிவத்தின் கோடுகள் எவ்வாறு சுழற்றப்பட்டுள்ளன என்பதைப் பொறுத்து விடை அமைகிறது.",
+    "question_en": "Select D based on the relationship between figures A and B.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The answer depends on how the lines of the inner shape are rotated."
+  },
+  {
+    "id": 86,
+    "subject": "மனத்திறன்",
+    "question": "படங்களின் தொடர்ச்சியாக வர வேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "image": "image/mat18q86.png",
+    "explanation": "ஒவ்வொரு படியிலும் கோடுகளின் திசைகள் (மேல்நோக்கி/கீழ்நோக்கி) ஒரு குறிப்பிட்ட வரிசையில் மாறுகின்றன.",
+    "question_en": "Select the figure that continues the series.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "In each step, the directions of the lines (upward/downward) change in a specific sequence."
+  },
+  {
+    "id": 87,
+    "subject": "மனத்திறன்",
+    "question": "படங்களின் தொடர்ச்சியாக வர வேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 0,
+    "image": "image/mat18q87.png",
+    "explanation": "அம்புக்குறிகள் கடிகார முள் சுழலும் திசையிலோ (Clockwise) அல்லது எதிர் திசையிலோ 90° சுழல்கின்றன.",
+    "question_en": "Select the figure that continues the series.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "Arrows rotate 90° either clockwise or anti-clockwise."
+  },
+  {
+    "id": 88,
+    "subject": "மனத்திறன்",
+    "question": "படங்களின் தொடர்ச்சியாக வர வேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 2,
+    "image": "image/mat18q88.png",
+    "explanation": "புள்ளிகள் உள்ள கோடுகளின் சுழற்சி மற்றும் இடமாற்றத்தின் அடிப்படையில் அடுத்த படம் கண்டறியப்பட்டுள்ளது.",
+    "question_en": "Select the figure that continues the series.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The next figure is determined based on the rotation and displacement of the lines with dots."
+  },
+  {
+    "id": 89,
+    "subject": "மனத்திறன்",
+    "question": "படங்களின் தொடர்ச்சியாக வர வேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "image": "image/mat18q89.png",
+    "explanation": "முக்கோணம் மற்றும் வட்டத்தின் நிலைகள் (Positions) கட்டங்களுக்குள் கடிகார சுழற்சி முறையில் மாறுகின்றன.",
+    "question_en": "Select the figure that continues the series.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The positions of the triangle and circle change in a clockwise manner within the grids."
+  },
+  {
+    "id": 90,
+    "subject": "மனத்திறன்",
+    "question": "படங்களின் தொடர்ச்சியாக வர வேண்டிய படத்தைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 2,
+    "image": "image/mat18q90.png",
+    "explanation": "வட்டத்தின் வெளியே உள்ள சிறு கோடுகள் (Projections) சுழலும் திசையின் அடிப்படையில் விடை அமைந்துள்ளது.",
+    "question_en": "Select the figure that continues the series.",
+    "options_en": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "explanation_en": "The answer is based on the direction of rotation of the small projections outside the circle."
+  }
+]

@@ -1,0 +1,1662 @@
+[
+  {
+    "id": 1,
+    "question": "யாருடைய காலத்தில் கோவில் கட்டிடக் கலை குடைவரைக் கோவில்கள் நிலையிலிருந்து கட்டுமானக் கோவில்களாக மாற்றத்திற்கு உள்ளானது?",
+    "options": [
+      "பல்லவர்கள் காலம்",
+      "நாயக்கர்கள் காலம்",
+      "சோழர்கள் காலம்",
+      "பாண்டியர்கள் காலம்"
+    ],
+    "correct": 0,
+    "question_en": "During whose time did temple architecture change from umbrella temples to built temples?",
+    "options_en": [
+      "Pallavar period",
+      "The era of heroes",
+      "Cholas period",
+      "Pandyan period"
+    ],
+    "explanation": "பல்லவர்கள் காலம்",
+    "explanation_en": "Pallavar period"
+  },
+  {
+    "id": 2,
+    "question": "குடைவரைக் கட்டிடக் கலைக்கு முன்னோடியாகத் திகழ்ந்த பல்லவ அரசர் யார்?",
+    "options": [
+      "இரண்டாம் நரசிம்மவர்மன்",
+      "மகேந்திரவர்மன்",
+      "இரண்டாம் நந்திவர்மன்",
+      "ராஜசிம்மன்"
+    ],
+    "correct": 1,
+    "question_en": "Who was the pioneer of umbrella architecture?",
+    "options_en": [
+      "Narasimhavarman II",
+      "Mahendravarman",
+      "Nandivarman II",
+      "Rajasimhan"
+    ],
+    "explanation": "குடைவரைக் கட்டிடக் கலைக்கு முன்னோடியாகத் திகழ்ந்த பல்லவ அரசர் மகேந்திரவர்மன்.",
+    "explanation_en": "Mahendravarman was the pioneer of umbrella architecture."
+  },
+  {
+    "id": 3,
+    "question": "மகேந்திரவர்மன் உருவாக்கிய முதல் குடைவரைக் கோவில் உள்ள இடம் ________.",
+    "options": [
+      "மலையடிக்குறிச்சி",
+      "ஆனைமலை",
+      "மண்டகப்பட்டு",
+      "திருச்சிராப்பள்ளி"
+    ],
+    "correct": 2,
+    "question_en": "The location of the first umbrella temple built by Mahendravarman is ________.",
+    "options_en": [
+      "Mountain foothills",
+      "Anaimalai",
+      "frozen",
+      "Tiruchirappalli"
+    ],
+    "explanation": "மகேந்திரவர்மன் உருவாக்கிய முதல் குடைவரைக் கோவில் உள்ள இடம் மண்டகப்பட்டு.",
+    "explanation_en": "The location of the first umbrella temple built by Mahendravarman is frozen."
+  },
+  {
+    "id": 4,
+    "question": "குடைவரைக் கோவிலின் முன்புறம் அமைந்துள்ள எத்தனை தூண்கள் கோவிலைத் தாங்கி நிற்கும்?",
+    "options": [
+      "ஏழு",
+      "ஐந்து",
+      "நான்கு",
+      "இரண்டு"
+    ],
+    "correct": 3,
+    "question_en": "How many pillars are located in front of Kudaivarak temple to support the temple?",
+    "options_en": [
+      "Seven",
+      "Five",
+      "Four",
+      "Two"
+    ],
+    "explanation": "இரண்டு",
+    "explanation_en": "Two pillars are located in front of Kudaivarak temple to support the temple."
+  },
+  {
+    "id": 5,
+    "question": "கோவிலில் துவாரபாலகர்களின் இருப்பிடம் எது?",
+    "options": [
+      "கருவறை",
+      "கருவறை வாயில்",
+      "விமானம்",
+      "சுற்றுச்சுவர்"
+    ],
+    "correct": 1,
+    "question_en": "What is the location of Dwarapalakas in the temple?",
+    "options_en": [
+      "womb",
+      "At the sanctum sanctorum gate",
+      "Airplane",
+      "perimeter wall"
+    ],
+    "explanation": "கோவிலில் துவாரபாலகர்களின் இருப்பிடம் கருவறை வாயில் ஆகும்.",
+    "explanation_en": "At the sanctum sanctorum gate is the location of Dwarapalakas in the temple."
+  },
+  {
+    "id": 6,
+    "question": "கீழ்கண்டவற்றைப் பொருத்துக.\ni. கி.பி.600 - 850 - a) பிற்காலச் சோழர்கள்\nii. கி.பி.850 - 1100 - b) விஜயநகர காலம்\niii. கி.பி.1100 - 1350 - c) பல்லவர் காலம்\niv. கி.பி.1350 - 1600 - d) முற்காலச் சோழர்கள்",
+    "options": [
+      "i - a, ii - b, iii - c, iv - d",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - c, ii - d, iii - a, iv - b",
+      "i - d, ii - c, iii - b, iv - a"
+    ],
+    "correct": 2,
+    "question_en": "Match the following.\ni. AD 600 - 850 - a) Later Cholas\nii. AD 850 - 1100 - b) Vijayanagara period\niii. 1100 - 1350 AD - c) Pallavar Period\niv. AD 1350 - 1600 - d) Early Cholas",
+    "options_en": [
+      "i - a, ii - b, iii - c, iv - d",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - c, ii - d, iii - a, iv - b",
+      "i - d, ii - c, iii - b, iv - a"
+    ],
+    "explanation": "i - c, ii - d, iii - a, iv - b",
+    "explanation_en": "i - c, ii - d, iii - a, iv - b"
+  },
+  {
+    "id": 7,
+    "question": "குடைவரைக் கோவில்கள் அமைக்கும் முறை மறைந்து, பெரிய வடிவ கட்டுமானக் கோவில்கள் கட்டப்பட்ட காலக்கட்டம்?",
+    "options": [
+      "கி.பி.500",
+      "கி.பி.600",
+      "கி.பி.650",
+      "கி.பி.700"
+    ],
+    "correct": 3,
+    "question_en": "The period when the method of erecting umbrella temples disappeared and large-scale construction temples were built?",
+    "options_en": [
+      "500 AD",
+      "600 AD",
+      "AD 650",
+      "700 AD"
+    ],
+    "explanation": "கி.பி.700",
+    "explanation_en": "700 AD"
+  },
+  {
+    "id": 8,
+    "question": "ஏழு கோவில்கள் என அழைக்கப்படும் கோவில் எது?",
+    "options": [
+      "மகாபலிபுரம் - கடற்கரைக் கோவில்",
+      "காஞ்சிபுரம் - வைகுண்டப் பெருமாள் கோவில்",
+      "தஞ்சாவூர் - பெரிய கோவில்",
+      "தாராசுரம் - ஐராவதீஸ்வரர் கோவில்"
+    ],
+    "correct": 0,
+    "question_en": "Which temple is known as Seven Temples?",
+    "options_en": [
+      "Mahabalipuram - Beach Temple",
+      "Kanchipuram - Vaikunda Perumal Temple",
+      "Thanjavur - Big temple",
+      "Tarasuram - Airavatheeswarar Temple"
+    ],
+    "explanation": "ஏழு கோவில்கள் என அழைக்கப்படும் கோவில் மகாபலிபுரம் - கடற்கரைக் கோவில் ஆகும்.",
+    "explanation_en": "Mahabalipuram - Beach Temple"
+  },
+  {
+    "id": 9,
+    "question": "மகாபலிபுரம் கடற்கரைக் கோவிலைக் (ஏழு கோவில்கள்) கட்டியவர் யார்?",
+    "options": [
+      "இராஜேந்திர சோழன்",
+      "இராஜராஜ சோழன்",
+      "மகேந்திரவர்மன்",
+      "இரண்டாம் நரசிம்மவர்மன்"
+    ],
+    "correct": 3,
+    "question_en": "Who built Mahabalipuram Beach Temple (Seven Temples)?",
+    "options_en": [
+      "Rajendra Cholan",
+      "Rajaraja Cholan",
+      "Mahendravarman",
+      "Narasimhavarman II"
+    ],
+    "explanation": "மகாபலிபுரம் கடற்கரைக் கோவிலைக் (ஏழு கோவில்கள்) கட்டியவர் இரண்டாம் நரசிம்மவர்மன்.",
+    "explanation_en": "Narasimhavarman II"
+  },
+  {
+    "id": 10,
+    "question": "தென்னிந்தியாவின் மிகப் பழமையான கட்டுமானக் கோவில் _________ ஆகும்.",
+    "options": [
+      "வெட்டுவான் கோவில்",
+      "ஏழு கோவில்கள்",
+      "கழுகுமலைக் கோவில்",
+      "மண்டகப்பட்டு கோவில்"
+    ],
+    "correct": 1,
+    "question_en": "The oldest constructed temple in South India is _________.",
+    "options_en": [
+      "Ketwan temple",
+      "Seven temples",
+      "Eagle Mountain Temple",
+      "Mandakapattu temple"
+    ],
+    "explanation": "தென்னிந்தியாவின் மிகப் பழமையான கட்டுமானக் கோவில் ஏழு கோவில்கள் ஆகும்.",
+    "explanation_en": "The oldest constructed temple in South India is Seven temples."
+  },
+  {
+    "id": 11,
+    "question": "காஞ்சி கைலாசநாதர் கோவிலைக் கட்டியவர் யார்?",
+    "options": [
+      "ராஜசிம்மன்",
+      "விஜயாலய சோழன்",
+      "செம்பியன் மகாதேவி",
+      "இரண்டாம் இராஜராஜன்"
+    ],
+    "correct": 0,
+    "question_en": "Who built Kanchi Kailasanathar Temple?",
+    "options_en": [
+      "Rajasimhan",
+      "Vijayalaya Cholan",
+      "Champion Mahadevi",
+      "Rajarajan II"
+    ],
+    "explanation": "காஞ்சி கைலாசநாதர் கோவிலைக் கட்டியவர் ராஜசிம்மன்.",
+    "explanation_en": "Rajasimhan"
+  },
+  {
+    "id": 12,
+    "question": "இரண்டாம் நந்திவர்மன் _________ கோவிலைக் கட்டினார்?",
+    "options": [
+      "திருப்புறம்பியம் கோவில்",
+      "ஐராவதீஸ்வரர் கோவில்",
+      "காஞ்சி - வைகுண்ட பெருமாள் கோவில்",
+      "காஞ்சி - கைலாசநாதர் கோவில்"
+    ],
+    "correct": 2,
+    "question_en": "Nandivarman II built _________ temple?",
+    "options_en": [
+      "Tiruppurampiyam temple",
+      "Airavatheeswarar Temple",
+      "Kanchi - Vaikunda Perumal Temple",
+      "Kanchi - Kailasanathar Temple"
+    ],
+    "explanation": "இரண்டாம் நந்திவர்மன் காஞ்சி - வைகுண்ட பெருமாள் கோவில் கோவிலைக் கட்டினார்?",
+    "explanation_en": "Nandivarman II built Kanchi - Vaikunda Perumal Temple temple?"
+  },
+  {
+    "id": 13,
+    "question": "_________ ஆம் ஆண்டு கடற்கரைக் கோவில் வளாகம் உட்பட மாமல்லபுரம் மொத்தமாக யுனெஸ்கோவால் (UNESCO) உலக பாரம்பரிய இடமாக அங்கீகரிக்கப்பட்டது.",
+    "options": [
+      "1980",
+      "1984",
+      "1999",
+      "1985"
+    ],
+    "correct": 1,
+    "question_en": "Mamallapuram, including the beach temple complex, was recognized as a World Heritage Site by UNESCO in _________.",
+    "options_en": [
+      "1980",
+      "1984",
+      "1999",
+      "1985"
+    ],
+    "explanation": "1984 ஆம் ஆண்டு கடற்கரைக் கோவில் வளாகம் உட்பட மாமல்லபுரம் மொத்தமாக யுனெஸ்கோவால் (UNESCO) உலக பாரம்பரிய இடமாக அங்கீகரிக்கப்பட்டது.",
+    "explanation_en": "Mamallapuram, including the beach temple complex, was recognized as a World Heritage Site by UNESCO in 1984."
+  },
+  {
+    "id": 14,
+    "question": "பாண்டியப் பேரரசின் ஆட்சிக்குட்பட்டிருந்த பகுதிகளில் _________ க்கும் மேற்பட்ட குகைக்கோவில்கள் கண்டறியப்பட்டுள்ளன.",
+    "options": [
+      "50",
+      "100",
+      "25",
+      "70"
+    ],
+    "correct": 0,
+    "question_en": "More than _________ cave temples have been found in the areas ruled by the Pandya Empire.",
+    "options_en": [
+      "50",
+      "100",
+      "25",
+      "70"
+    ],
+    "explanation": "பாண்டியப் பேரரசின் ஆட்சிக்குட்பட்டிருந்த பகுதிகளில் 50 க்கும் மேற்பட்ட குகைக்கோவில்கள் கண்டறியப்பட்டுள்ளன.",
+    "explanation_en": "More than 50 cave temples have been found in the areas ruled by the Pandya Empire."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்க்கண்டவற்றுள் எது பாண்டியப் பேரரசின் ஆட்சிக்குட்பட்டிருந்த பகுதியைச் சேர்ந்த குகைக் கோவில்கள் இல்லை.",
+    "options": [
+      "மலையடிக்குறிச்சி",
+      "ஆனைமலை",
+      "திருப்பரங்குன்றம்",
+      "திருப்புறம்பியம்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a cave temple belonging to the Pandyan Empire?",
+    "options_en": [
+      "Mountain foothills",
+      "Anaimalai",
+      "Tiruparangunram",
+      "Tiruppurampiyam"
+    ],
+    "explanation": "திருப்புறம்பியம்",
+    "explanation_en": "Tiruppurampiyam is not a cave temple belonging to the Pandyan Empire."
+  },
+  {
+    "id": 16,
+    "question": "ஒற்றைக்கல்லில் செதுக்கப்பட்ட கோவிலுக்கு எடுத்துக்காட்டு ________.",
+    "options": [
+      "நெல்லையப்பர் கோவில்",
+      "தஞ்சாவூர் கோவில்",
+      "கழுகுமலை வெட்டுவான் கோவில்",
+      "திருமலைபுரம் கோவில்"
+    ],
+    "correct": 2,
+    "question_en": "An example of a temple carved out of monolith is ________.",
+    "options_en": [
+      "Nellaipar temple",
+      "Thanjavur temple",
+      "Kalgumalai Ketavan Temple",
+      "Thirumalaipuram Temple"
+    ],
+    "explanation": "ஒற்றைக்கல்லில் செதுக்கப்பட்ட கோவிலுக்கு எடுத்துக்காட்டு கழுகுமலை வெட்டுவான் கோவில்.",
+    "explanation_en": "An example of a temple carved out of monolith is Kalgumalai Ketavan Temple."
+  },
+  {
+    "id": 17,
+    "question": "வேறுபட்ட ஒன்றைத் தேர்ந்தெடு.",
+    "options": [
+      "திருப்பரங்குன்றம்",
+      "கழுகுமலை",
+      "ஆனைமலை",
+      "தஞ்சாவூர் பெரிய கோவில்"
+    ],
+    "correct": 3,
+    "question_en": "Choose something different.",
+    "options_en": [
+      "Tiruparangunram",
+      "Eagle Mountain",
+      "Anaimalai",
+      "Thanjavur Great Temple"
+    ],
+    "explanation": "தஞ்சாவூர் பெரிய கோவில்",
+    "explanation_en": "Thanjavur Great Temple"
+  },
+  {
+    "id": 18,
+    "question": "சித்தன்னவாசல் ஓவியங்கள் _________ ஓவியங்களுடன் சில ஒப்புமைகளைப் பெற்றுள்ளன.",
+    "options": [
+      "அஜந்தா",
+      "திருமலைபுரம்",
+      "பிள்ளையார்பட்டி",
+      "திருவில்லிபுத்தூர்"
+    ],
+    "correct": 0,
+    "question_en": "Siddhannavasal paintings bear some resemblance to _________ paintings.",
+    "options_en": [
+      "Ajanta",
+      "Thirumalaipuram",
+      "Pillaiyarpatti",
+      "Thiruvilliputhur"
+    ],
+    "explanation": "சித்தன்னவாசல் ஓவியங்கள் அஜந்தா ஓவியங்களுடன் சில ஒப்புமைகளைப் பெற்றுள்ளன.",
+    "explanation_en": "Siddhannavasal paintings bear some resemblance to Ajanta paintings."
+  },
+  {
+    "id": 19,
+    "question": "தாதாபுரம் கோவில் யாருடைய கோவில் கட்டிடக் கலைக்கு எடுத்துக்காட்டு ________.",
+    "options": [
+      "முற்காலப் பாண்டியர்கள்",
+      "முற்காலச் சோழர்கள்",
+      "பல்லவர்கள்",
+      "நாயக்கர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Dadhapuram temple is an example of whose temple architecture is ________.",
+    "options_en": [
+      "Early Pandyas",
+      "Early Cholas",
+      "Pallavas",
+      "Heroes"
+    ],
+    "explanation": "தாதாபுரம் கோவில் யாருடைய கோவில் கட்டிடக் கலைக்கு எடுத்துக்காட்டு முற்காலச் சோழர்கள்.",
+    "explanation_en": "Dadhapuram temple is an example of whose temple architecture is Early Cholas."
+  },
+  {
+    "id": 20,
+    "question": "கீழ்க்கண்டவற்றுள் பொருத்துக.\ni. தேவகோஷ்டங்கள் - a) இந்திரனின் யானை வழிபட்டது\nii. துவாரபாலகர்கள் - b) தஞ்சாவூர் சிகரம்\niii. ஐராவதீஸ்வரர் - c) மாடக்குழிகள்\niv. தட்சிண மேரு - d) வாயிற்காப்போர்",
+    "options": [
+      "i - a, ii - b, iii - c, iv - d",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\ni. Devakoshtas - a) Indra's elephant worshipped\nii. Dwarapalagars - b) Thanjavur peak\niii. Airavatheeswarar - c) Caves\niv. Dakshina Meru - d) Vaikgapore",
+    "options_en": [
+      "i - a, ii - b, iii - c, iv - d",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - c, ii - d, iii - a, iv - b"
+    ],
+    "explanation": "i - c, ii - d, iii - a, iv - b",
+    "explanation_en": "i - c, ii - d, iii - a, iv - b"
+  },
+  {
+    "id": 21,
+    "question": "தஞ்சாவூர் சிவன் கோவில் கட்டிமுடிக்கப்பட்ட ஆண்டு _________",
+    "options": [
+      "கி.பி.1010",
+      "கி.பி.1050",
+      "கி.பி.1009",
+      "கி.பி.1100"
+    ],
+    "correct": 2,
+    "question_en": "Thanjavur Shiva Temple was completed in the year _________",
+    "options_en": [
+      "1010 AD",
+      "1050 AD",
+      "AD 1009",
+      "1100 AD"
+    ],
+    "explanation": "தஞ்சாவூர் சிவன் கோவில் கட்டிமுடிக்கப்பட்ட ஆண்டு கி.பி.1009",
+    "explanation_en": "Thanjavur Shiva Temple was completed in the year AD 1009"
+  },
+  {
+    "id": 22,
+    "question": "முற்காலச் சோழர்களின் கோவில் கட்டிடக்கலை _________ பாணியைப் பின்பற்றி அமைந்தது.",
+    "options": [
+      "செம்பியன் மகாதேவி",
+      "இராஜராஜ சோழன்",
+      "இராஜேந்திர சோழன்",
+      "விஜயாலய சோழன்"
+    ],
+    "correct": 0,
+    "question_en": "The temple architecture of the early Cholas followed the _________ style.",
+    "options_en": [
+      "Champion Mahadevi",
+      "Rajaraja Cholan",
+      "Rajendra Cholan",
+      "Vijayalaya Cholan"
+    ],
+    "explanation": "முற்காலச் சோழர்களின் கோவில் கட்டிடக்கலை செம்பியன் மகாதேவி பாணியைப் பின்பற்றி அமைந்தது.",
+    "explanation_en": "The temple architecture of the early Cholas followed the Champion Mahadevi style."
+  },
+  {
+    "id": 23,
+    "question": "தஞ்சாவூர் பெரிய கோவில் விமானத்தின் உயரம் _________ ஆகும்.",
+    "options": [
+      "55 மீட்டர்",
+      "116 அடிகள்",
+      "216 அடிகள்",
+      "100 மீட்டர்"
+    ],
+    "correct": 2,
+    "question_en": "The height of Thanjavur Big Temple Vimana is _________.",
+    "options_en": [
+      "55 meters",
+      "116 feet",
+      "216 feet",
+      "100 meters"
+    ],
+    "explanation": "தஞ்சாவூர் பெரிய கோவில் விமானத்தின் உயரம் 216 அடிகள் ஆகும்.",
+    "explanation_en": "The height of Thanjavur Big Temple Vimana is 216 feet."
+  },
+  {
+    "id": 24,
+    "question": "சோழ அரசன் இரண்டாம் இராஜராஜன் கட்டிய கோவில் _________ ல் உள்ளது.",
+    "options": [
+      "தஞ்சாவூர்",
+      "தாராசுரம்",
+      "கங்கை கொண்ட சோழபுரம்",
+      "ஆழ்வார் திருநகரி"
+    ],
+    "correct": 1,
+    "question_en": "The temple built by the Chola king Rajaraja II is located in _________.",
+    "options_en": [
+      "Thanjavur",
+      "Tarasuram",
+      "Cholapuram with the Ganga",
+      "Alwar Thirunagari"
+    ],
+    "explanation": "சோழ அரசன் இரண்டாம் இராஜராஜன் கட்டிய கோவில் தாராசுரம் ல் உள்ளது.",
+    "explanation_en": "The temple built by the Chola king Rajaraja II is located in Tarasuram."
+  },
+  {
+    "id": 25,
+    "question": "பிற்காலப் பாண்டியர்களின் பிள்ளையார்பட்டி குடைவரைக் கோவில் _________ ஆம் நூற்றாண்டைச் சேர்ந்தது.",
+    "options": [
+      "16",
+      "15",
+      "14",
+      "13"
+    ],
+    "correct": 3,
+    "question_en": "The Pilliyarpatti Kudaivar temple of the later Pandyas belongs to the _________ century.",
+    "options_en": [
+      "16",
+      "15",
+      "14",
+      "13"
+    ],
+    "explanation": "பிற்காலப் பாண்டியர்களின் பிள்ளையார்பட்டி குடைவரைக் கோவில் 13 ஆம் நூற்றாண்டைச் சேர்ந்தது.",
+    "explanation_en": "The Pilliyarpatti Kudaivar temple of the later Pandyas belongs to the 13 century."
+  },
+  {
+    "id": 26,
+    "question": "கீழ்க்கண்டவற்றைப் பொருத்துக.\ni. காஞ்சிபுரம் - a) ஆதிநாதர் கோவில்\nii. வேலூர் - b) ரங்கநாதர் கோவில்\niii. திருவரங்கம் - c) வரதராஜ பெருமாள் கோவில்\niv. ஆழ்வார் திருநகரி - d) ஜலகண்டேஸ்வரர் கோவில்",
+    "options": [
+      "i - c, ii - d, iii - b, iv - a",
+      "i - a, ii - b, iii - c, iv - d",
+      "i - d, ii - a, iii - b, iv - c",
+      "i - d, ii - c, iii - b, iv - a"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\ni. Kanchipuram - a) Adinath Temple\nii. Vellore - b) Ranganatha Temple\niii. Thiruvarangam - c) Varadaraja Perumal Temple\niv. Alwar Thirunagari - d) Jalakandeswarar Temple",
+    "options_en": [
+      "i - c, ii - d, iii - b, iv - a",
+      "i - a, ii - b, iii - c, iv - d",
+      "i - d, ii - a, iii - b, iv - c",
+      "i - d, ii - c, iii - b, iv - a"
+    ],
+    "explanation": "i - c, ii - d, iii - b, iv - a",
+    "explanation_en": "i - c, ii - d, iii - b, iv - a"
+  },
+  {
+    "id": 27,
+    "question": "கீழ்க்கண்ட எந்த ஊர்களிலுள்ள கோவிலில் விஜயநகர, நாயக்கர் கால ஓவியங்கள் இடம்பெறவில்லை?",
+    "options": [
+      "திருவண்ணாமலை",
+      "திருவெள்ளறை",
+      "திருவில்லிபுத்தூர்",
+      "தாராசுரம்"
+    ],
+    "correct": 3,
+    "question_en": "Vijayanagara and Nayak period paintings are not present in temple in which of the following cities?",
+    "options_en": [
+      "Thiruvannamalai",
+      "Thiruvellara",
+      "Thiruvilliputhur",
+      "Tarasuram"
+    ],
+    "explanation": "தாராசுரம்",
+    "explanation_en": "Tarasuram"
+  },
+  {
+    "id": 28,
+    "question": "உலகிலேயே மிகவும் நீளமான கோவில் பிரகாரங்கள் இங்கே அமைந்துள்ளது.",
+    "options": [
+      "இராமேஸ்வரம் - இராமநாத சுவாமி கோவில்",
+      "மதுரை மீனாட்சியம்மன் கோவில்",
+      "தஞ்சை பெரிய கோவில்",
+      "திருநெல்வேலி - நெல்லையப்பர் கோவில்"
+    ],
+    "correct": 0,
+    "question_en": "The longest temple complex in the world is located here.",
+    "options_en": [
+      "Rameswaram - Ramanatha Swamy Temple",
+      "Madurai Meenakshiyamman Temple",
+      "Great temple of Tanjore",
+      "Tirunelveli - Nellayapar Temple"
+    ],
+    "explanation": "இராமேஸ்வரம் - இராமநாத சுவாமி கோவில்",
+    "explanation_en": "Rameswaram - Ramanatha Swamy Temple"
+  },
+  {
+    "id": 29,
+    "question": "தவறான கூற்றினைத் தேர்வு செய்க.\nகூற்று (A): திராவிட கட்டிடக்கலை நம்மண்ணில் பிறந்ததாகும்.\nகூற்று (B): தமிழ் திராவிட கட்டிடக் கலையின் மரபிற்கு மகாபலிபுரத்திலுள்ள குடைவரைக் கோவில்களே எடுத்துக்காட்டுகளாகும்.\nகூற்று (C): தமிழ்நாட்டில் கோவில் கட்டிடக் கலையின் பரிணாம வளர்ச்சி ஏழு கட்டங்களாக நடைபெற்றுள்ளது.",
+    "options": [
+      "கூற்று (A) மட்டும் தவறு",
+      "கூற்று (A), (B) மட்டும் தவறு",
+      "கூற்று (C) மட்டும் தவறு",
+      "கூற்று (A), (B), (C) மூன்றும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Choose the incorrect statement.\nAssertion (A): Dravidian architecture is native to us.\nAssertion (B): The Kudaivar temples at Mahabalipuram are examples of the tradition of Tamil Dravidian architecture.\nAssertion (C): The evolution of temple architecture in Tamil Nadu has been in seven stages.",
+    "options_en": [
+      "Only statement (A) is wrong",
+      "Only statements (A), (B) are false",
+      "Only statement (C) is false",
+      "Statement (A), (B), (C) are all false"
+    ],
+    "explanation": "கூற்று (C) மட்டும் தவறு",
+    "explanation_en": "Only statement (C) is false"
+  },
+  {
+    "id": 30,
+    "question": "தவறான கூற்றினைத் தேர்வு செய்க.\nகூற்று (A): பல்லவர் காலத்தில் கோவில் கட்டிடக் கலை குடைவரைக் கோவில்கள் எனும் நிலையிலிருந்து கட்டுமானக் கோவில்கள் எனும் மாற்றத்திற்கு உள்ளானது.\nகூற்று (B): அர்ச்சுனன் தவமிருக்கும் காட்சி கொண்ட கருங்கல் பாறை ஏறத்தாழ 100 அடி உயரமும் 45 அடி நீளமும் கொண்டது.\nகூற்று (C): முற்காலப் பாண்டியர்கள் பல்லவர்களின் சமகாலத்தவர்கள் ஆவர்.",
+    "options": [
+      "கூற்று (A) மட்டும் தவறு",
+      "கூற்று (B) மட்டும் தவறு",
+      "கூற்று (A), (B), (C) மூன்றும் தவறு",
+      "கூற்று (B), (C) மட்டும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Choose the incorrect statement.\nAssertion (A): During the Pallavar period temple architecture underwent a change from umbrella temples to built temples.\nAssertion (B): The black stone rock depicting Arjuna doing penance is about 100 feet high and 45 feet long.\nAssertion (C): Early Pandyas were contemporaries of Pallavas.",
+    "options_en": [
+      "Only statement (A) is wrong",
+      "Only statement (B) is false",
+      "Statement (A), (B), (C) are all false",
+      "Only statement (B), (C) is wrong"
+    ],
+    "explanation": "கூற்று (B) மட்டும் தவறு",
+    "explanation_en": "Only statement (B) is false"
+  },
+  {
+    "id": 31,
+    "question": "சரியான கூற்றினைத் தேர்வு செய்க.\nகூற்று (A): பாண்டியர் காலத்து சிவன் கோவில்களின் லிங்கங்கள் மற்றும் நந்தியின் உருவங்கள் தாய்ப்பாறையிலிருந்து செதுக்கப்பட்டதாகும்.\nகூற்று (B): பாறை குடைவரைக் கோவில்களும் கட்டுமானக் கோவில்களும் பாண்டியர் கட்டிடக் கலையின் சிறப்புமிக்க அம்சங்களாகும்.\nகூற்று (C): கழுகுமலை வெட்டுவான் கோவிலின் உச்சியில் உமா மகேஸ்வரர், தட்சிணாமூர்த்தி, விஷ்ணு, பிரம்மா ஆகியோர் சிற்பங்கள் உள்ளன.",
+    "options": [
+      "கூற்று (A), (B), (C) மூன்றும் சரியானது",
+      "கூற்று (A) மட்டும் சரியானது",
+      "கூற்று (B) மட்டும் சரியானது",
+      "கூற்று (C) மட்டும் சரியானது"
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct statement.\nAssertion (A): The lingams and images of Nandi in the Shiva temples of the Pandya period were carved out of mother rock.\nAssertion (B): Rock-cut temples and built-up temples are prominent features of Pandyan architecture.\nAssertion (C): On the top of the Kalgukumala Ketwan temple there are sculptures of Uma Maheswarar, Dakshinamurthy, Vishnu and Brahma.",
+    "options_en": [
+      "Statement (A), (B), (C) are all three correct",
+      "Only statement (A) is correct",
+      "Only statement (B) is correct",
+      "Only statement (C) is correct"
+    ],
+    "explanation": "கூற்று (A), (B), (C) மூன்றும் சரியானது",
+    "explanation_en": "Statement (A), (B), (C) are all three correct"
+  },
+  {
+    "id": 32,
+    "question": "சரியான கூற்றினைத் தேர்வு செய்க.\nகூற்று (A): முற்காலப் பாண்டியர்களின் ஓவியங்கள் சித்தன்னவாசல் மற்றும் திருமலைபுரத்தில் உள்ளன.\nகூற்று (B): சித்தன்னவாசல் சமணத்துறவிகள் வாழ்ந்த குகைகள் இல்லை.\nகூற்று (C): சித்தன்னவாசல் குகை ஓவியங்களில் எஞ்சியவற்றுள் தாமரைத் தடாக ஓவியம் புகழ்பெற்றது ஆகும்.",
+    "options": [
+      "கூற்று (A) மட்டும் சரியானது",
+      "கூற்று (B) மட்டும் சரியானது",
+      "கூற்று (A), (B), (C) மூன்றும் சரியானது",
+      "கூற்று (A), (C) மட்டும் சரியானது"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct statement.\nAssertion (A): Paintings of early Pandyas are found at Chidthannavasal and Thirumalaipuram.\nAssertion (B): There are no caves where the Siddhannavasal Jain monks lived.\nAssertion (C): The lotus pond painting is the most famous of the surviving Chiddannavasal cave paintings.",
+    "options_en": [
+      "Only statement (A) is correct",
+      "Only statement (B) is correct",
+      "Statement (A), (B), (C) are all three correct",
+      "Only statement (A) and (C) are correct"
+    ],
+    "explanation": "கூற்று (A), (C) மட்டும் சரியானது",
+    "explanation_en": "Only statement (A) and (C) are correct"
+  },
+  {
+    "id": 33,
+    "question": "சரியான இணையைத் தேர்ந்தெடு.\n1. பிற்காலச் சோழர்கள் - தாராசுரம்\n2. காஞ்சிபுரம் - ஜலகண்டேஸ்வரர் கோவில்\n3. மதுரை - ஆதிநாதர் கோவில்\n4. திருநெல்வேலி - வரதராஜ பெருமாள் கோவில்",
+    "options": [
+      "1, 3, 4",
+      "2, 1, 2",
+      "3, 1",
+      "4, 2, 4"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct counterpart.\n1. Later Cholas - Tarasuram\n2. Kanchipuram - Jalakandeswarar Temple\n3. Madurai - Adinath Temple\n4. Tirunelveli - Varadaraja Perumal Temple",
+    "options_en": [
+      "1, 3, 4",
+      "2, 1, 2",
+      "3, 1",
+      "4, 2, 4"
+    ],
+    "explanation": "3, 1",
+    "explanation_en": "3, 1"
+  },
+  {
+    "id": 34,
+    "question": "தவறான இணையைத் தேர்ந்தெடு.\n1. பாறைகளில் சிற்பங்கள் - பல்லவர்கள்\n2. விமானம் - முற்காலச் சோழர்கள்\n3. மண்டபம் - பிற்காலச் சோழர்கள்\n4. பிரகாரங்கள் - நவீன காலம்",
+    "options": [
+      "1 மட்டும் தவறானது",
+      "2, 3 இரண்டும் தவறானது",
+      "3, 4 இரண்டும் தவறானது",
+      "3 மட்டும் தவறானது"
+    ],
+    "correct": 3,
+    "question_en": "Choose the wrong parallel.\n1. Sculptures on rocks - Pallavas\n2. Vimana - Early Cholas\n3. Mandapam - Later Cholas\n4. Prakaras - Modern Period",
+    "options_en": [
+      "Only 1 is incorrect",
+      "Both 2 and 3 are incorrect",
+      "Both 3 and 4 are incorrect",
+      "Only 3 is incorrect"
+    ],
+    "explanation": "3 மட்டும் தவறானது",
+    "explanation_en": "Only 3 is incorrect"
+  },
+  {
+    "id": 35,
+    "question": "கூற்று காரணத்தை ஆய்வு செய்க.\nகூற்று : தஞ்சை பெரிய கோவிலின் சிகரம் தட்சிணமேரு என்றழைக்கப்படுகிறது.\nகாரணம்: தஞ்சை பெரிய கோவில் விமானம் 216 அடிகள் உயரம் கொண்டது. (உலகில் மனிதனால் கட்டப்பட்ட உயரமான சிகரங்களில் ஒன்று)",
+    "options": [
+      "கூற்று சரி ஆனால் காரணம் கூற்றை விளக்கவில்லை.",
+      "கூற்று காரணம் இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 1,
+    "question_en": "Investigate the reason for the claim.\nClaim : The peak of Tanjore Great Temple is called Dakshinameru.\nReason: Tanjore Great Temple Vimana is 216 feet tall. (One of the highest man-made peaks in the world)",
+    "options_en": [
+      "The statement is correct but the reason does not explain the statement.",
+      "Both statements are correct. Reason explains the statement.",
+      "The statement is true and the reason is false",
+      "Both statements are false."
+    ],
+    "explanation": "கூற்று காரணம் இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது.",
+    "explanation_en": "Both statements are correct. Reason explains the statement."
+  },
+  {
+    "id": 36,
+    "question": "பின்வரும் கூற்றுகளில் வேறுபட்ட ஒன்றைத் தேர்வு செய்க.\nகூற்று (A): மதுரை நாயக்க அரசின் சிற்றரசர்களாக இருந்து இராமநாதபுரம் பகுதியை ஆண்டுவந்த சேதுபதிகள் இராமேஸ்வரம் - இராமநாதசுவாமி கோவிலின் கட்டிடக் கலைக்கு பங்காற்றியுள்ளனர்.\nகூற்று (B): இராமநாதசுவாமி கோவில் மூன்று பிரகாரச் சுற்றுகளைக் கொண்டுள்ளது.\nகூற்று (C): வெளிப்பிரகாரத்தைத் தாங்கி நிற்கும் 1200க்கும் மேற்பட்ட தூண்கள் தனிச்சிறப்பு வாய்ந்தது ஆகும்.\nகூற்று (D): மதுரை கோவிலில் அமைந்துள்ள 1000 கால் மண்டபம் - மண்டபக் கட்டிடக்கலைக்கு எடுத்துக்காட்டு ஆகும்.",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct": 3,
+    "question_en": "Choose the one that is different from the following statements.\nAssertion (A): The Sethupathis who came from the Ramanathapuram region as petty princes of the Madurai Nayaka kingdom contributed to the architecture of the Rameswaram - Ramanathaswamy temple.\nAssertion (B): The Ramanathaswamy temple has three prakhara rounds.\nAssertion (C): The more than 1200 pillars supporting the exterior are unique.\nAssertion (D): The 1000 feet mandapam in the Madurai temple is an example of mandapaque architecture.",
+    "options_en": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "D",
+    "explanation_en": "D"
+  },
+  {
+    "id": 37,
+    "question": "கூற்று காரணத்தை ஆய்வு செய்க.\nகூற்று : கி.பி. ஏழாம் நூற்றாண்டுக்கு முந்தைய நினைவுச் சின்னங்கள் தென்னிந்தியாவில் இல்லை.\nகாரணம்: ஏழாம் நூற்றாண்டுக்கு முந்தைய கோவில்கள் மரத்தால் கட்டப்பட்டிருக்க வேண்டும்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று சரி ஆனால் காரணம் கூற்றை விளக்கவில்லை.",
+      "கூற்று காரணம் இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 2,
+    "question_en": "Investigate the reason for the claim.\nClaim : AD There are no monuments in South India before the seventh century.\nReason: Pre-seventh century temples must have been built of wood.",
+    "options_en": [
+      "The statement is right, the reason is wrong.",
+      "The statement is correct but the reason does not explain the statement.",
+      "Both statements are correct. Reason explains the statement.",
+      "Both statements are false."
+    ],
+    "explanation": "கூற்று காரணம் இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது.",
+    "explanation_en": "Both statements are correct. Reason explains the statement."
+  },
+  {
+    "id": 38,
+    "question": "தஞ்சை பெரிய கோவில் நந்தியின் சிலை __________ அளவு உடையதாகும்.",
+    "options": [
+      "16 அடி நீளம், 13 அடி உயரம்",
+      "15 அடி நீளம், 16 அடி உயரம்",
+      "13 அடி நீளம், 16 அடி உயரம்",
+      "18 அடி நீளம், 15 அடி உயரம்"
+    ],
+    "correct": 1,
+    "question_en": "The statue of Nandi in Tanjore Big Temple is __________ in size.",
+    "options_en": [
+      "16 feet long, 13 feet high",
+      "15 feet long, 16 feet high",
+      "13 feet long, 16 feet high",
+      "18 feet long, 15 feet high"
+    ],
+    "explanation": "தஞ்சை பெரிய கோவில் நந்தியின் சிலை 15 அடி நீளம், 16 அடி உயரம் அளவு உடையதாகும்.",
+    "explanation_en": "The statue of Nandi in Tanjore Big Temple is 15 feet long, 16 feet high in size."
+  },
+  {
+    "id": 39,
+    "question": "தஞ்சை பெரிய கோவில் நந்தியின் சிலை __________ பாறைகளைக் கொண்டு செதுக்கப்பட்டதாகும்.",
+    "options": [
+      "7",
+      "5",
+      "1",
+      "3"
+    ],
+    "correct": 3,
+    "question_en": "Tanjore Great Temple The statue of Nandi is carved out of __________ rocks.",
+    "options_en": [
+      "7",
+      "5",
+      "1",
+      "3"
+    ],
+    "explanation": "தஞ்சை பெரிய கோவில் நந்தியின் சிலை 3 பாறைகளைக் கொண்டு செதுக்கப்பட்டதாகும்.",
+    "explanation_en": "Tanjore Great Temple The statue of Nandi is carved out of 3 rocks."
+  },
+  {
+    "id": 40,
+    "question": "மகாபலிபுரத்திலுள்ள ஏழு கோவில்கள் என்றழைக்கப்படும் கோவிலில் எத்தனை கருவறைகள் உள்ளன?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "question_en": "How many sanctums are there in the so-called Seven Temples at Mahabalipuram?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "2",
+    "explanation_en": "2 sanctums are there in the so-called Seven Temples at Mahabalipuram."
+  },
+  {
+    "id": 41,
+    "question": "மகாபலிபுரம் கோவில் __________ தெய்வங்களுக்கு படைத்தளிக்கப்பட்டது.",
+    "options": [
+      "சிவன் - விஷ்ணு",
+      "கணபதி - பார்வதி",
+      "தட்சிணாமூர்த்தி - பிரம்மன்",
+      "சுப்ரமணியன் - சிவன்"
+    ],
+    "correct": 0,
+    "question_en": "Mahabalipuram temple is dedicated to __________ deities.",
+    "options_en": [
+      "Shiva - Vishnu",
+      "Ganapati - Parvati",
+      "Dakshinamurthy - Brahman",
+      "Subramanian - Shiva"
+    ],
+    "explanation": "மகாபலிபுரம் கோவில் சிவன் - விஷ்ணு தெய்வங்களுக்கு படைத்தளிக்கப்பட்டது.",
+    "explanation_en": "Mahabalipuram temple is dedicated to Shiva - Vishnu deities."
+  },
+  {
+    "id": 42,
+    "question": "கங்கை கொண்ட சோழபுரம் பிரகதீஸ்வரர் கோவிலைக் கட்டியவர் __________ ஆவார்.",
+    "options": [
+      "இராஜராஜ சோழன்",
+      "விஜயாலய சோழன்",
+      "செம்பியன் மகாதேவி",
+      "இராஜேந்திர சோழன்"
+    ],
+    "correct": 3,
+    "question_en": "The Cholapuram Prahadeeswarar temple with Ganges was built by __________.",
+    "options_en": [
+      "Rajaraja Cholan",
+      "Vijayalaya Cholan",
+      "Champion Mahadevi",
+      "Rajendra Cholan"
+    ],
+    "explanation": "கங்கை கொண்ட சோழபுரம் பிரகதீஸ்வரர் கோவிலைக் கட்டியவர் இராஜேந்திர சோழன் ஆவார்.",
+    "explanation_en": "The Cholapuram Prahadeeswarar temple with Ganges was built by Rajendra Cholan."
+  },
+  {
+    "id": 43,
+    "question": "கங்கை கொண்ட சோழபுரம் கோவிலின் உயரம் __________ ஆகும்.",
+    "options": [
+      "55 மீட்டர்",
+      "100 மீட்டர்",
+      "216 அடிகள்",
+      "75 அடிகள்"
+    ],
+    "correct": 0,
+    "question_en": "The height of Cholapuram temple with Ganga is __________.",
+    "options_en": [
+      "55 meters",
+      "100 meters",
+      "216 feet",
+      "75 feet"
+    ],
+    "explanation": "கங்கை கொண்ட சோழபுரம் கோவிலின் உயரம் 55 மீட்டர் ஆகும்.",
+    "explanation_en": "The height of Cholapuram temple with Ganga is 55 meters."
+  },
+  {
+    "id": 44,
+    "question": "சோழர்கள் வீழ்ச்சியடைந்து பாண்டியர்கள் எழுச்சி பெறும் வரை சுமார் __________ ஆண்டுகள் கங்கை கொண்ட சோழபுரமே சோழர்களின் தலைநகரமாகும்.",
+    "options": [
+      "100",
+      "250",
+      "150",
+      "200"
+    ],
+    "correct": 1,
+    "question_en": "Cholapuram along the Ganges was the capital of the Cholas until the fall of the Cholas and the rise of the Pandyas for about __________ years.",
+    "options_en": [
+      "100",
+      "250",
+      "150",
+      "200"
+    ],
+    "explanation": "சோழர்கள் வீழ்ச்சியடைந்து பாண்டியர்கள் எழுச்சி பெறும் வரை சுமார் 250 ஆண்டுகள் கங்கை கொண்ட சோழபுரமே சோழர்களின் தலைநகரமாகும்.",
+    "explanation_en": "Cholapuram along the Ganges was the capital of the Cholas until the fall of the Cholas and the rise of the Pandyas for about 250 years."
+  },
+  {
+    "id": 45,
+    "question": "தாராசுரம் கோவிலின் ஒட்டுமொத்த வடிவம் __________ போலக் காட்சியளிக்கிறது.",
+    "options": [
+      "தெப்பக்குளம்",
+      "மண்டபம்",
+      "தேர்",
+      "மாடக்குழி"
+    ],
+    "correct": 2,
+    "question_en": "The overall shape of Tarasuram temple looks like __________.",
+    "options_en": [
+      "Theppakulam",
+      "Hall",
+      "Chariot",
+      "attic"
+    ],
+    "explanation": "தாராசுரம் கோவிலின் ஒட்டுமொத்த வடிவம் தேர் போலக் காட்சியளிக்கிறது.",
+    "explanation_en": "The overall shape of Tarasuram temple looks like Chariot."
+  },
+  {
+    "id": 46,
+    "question": "பிள்ளையார்பட்டியிலுள்ள குடைவரைக் கோவில் __________க்காக முக்கியத்துவம் பெற்றுள்ளது.",
+    "options": [
+      "தூண்கள், மண்டபம்",
+      "மாடக்குழிகள், கல்வெட்டுகள்",
+      "சிற்பங்கள், கல்வெட்டுகள்",
+      "தெப்பக்குளம், சிற்பங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Kudaivar temple at Pilliyarpatti is important for __________.",
+    "options_en": [
+      "Pillars, hall",
+      "Caves, inscriptions",
+      "Sculptures, inscriptions",
+      "Theppakulam, sculptures"
+    ],
+    "explanation": "பிள்ளையார்பட்டியிலுள்ள குடைவரைக் கோவில் சிற்பங்கள், கல்வெட்டுகள்க்காக முக்கியத்துவம் பெற்றுள்ளது.",
+    "explanation_en": "Kudaivar temple at Pilliyarpatti is important for Sculptures, inscriptions."
+  },
+  {
+    "id": 47,
+    "question": "வேறுபட்ட ஒன்றைத் தேர்ந்தெடு.",
+    "options": [
+      "ஆயிரங்கால் மண்டபம்",
+      "புது மண்டபம்",
+      "திருக்குறுங்குடி",
+      "கங்கை கொண்ட சோழபுரம்"
+    ],
+    "correct": 3,
+    "question_en": "Choose something different.",
+    "options_en": [
+      "Thousand Hall",
+      "New hall",
+      "Thirukurunkudi",
+      "Cholapuram with the Ganga"
+    ],
+    "explanation": "கங்கை கொண்ட சோழபுரம்",
+    "explanation_en": "Cholapuram with the Ganga"
+  },
+  {
+    "id": 48,
+    "question": "மாமல்லபுரத்தில் உள்ள நினைவுச் சின்னங்களும் கோவில்களும் யுனெஸ்கோவால் எப்போது அங்கீகரிக்கப்பட்டது?",
+    "options": [
+      "1964",
+      "1994",
+      "1974",
+      "1984"
+    ],
+    "correct": 3,
+    "question_en": "When were the monuments and temples at Mamallapuram recognized by UNESCO?",
+    "options_en": [
+      "1964",
+      "1994",
+      "1974",
+      "1984"
+    ],
+    "explanation": "1984",
+    "explanation_en": "1984"
+  },
+  {
+    "id": 49,
+    "question": "முற்காலச் சோழர் கட்டடக் கலையின் சிறப்பு அம்சம் யாது?",
+    "options": [
+      "புடைப்புச் சிற்பங்கள்",
+      "விமானங்கள்",
+      "பிராகாரங்கள்",
+      "கோபுரங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "What is the special feature of early Chola architecture?",
+    "options_en": [
+      "Embossed sculptures",
+      "Airplanes",
+      "Prakaras",
+      "Towers"
+    ],
+    "explanation": "முற்காலச் சோழர் கட்டடக் கலையின் சிறப்பு அம்சம் விமானங்கள் ஆகும்.",
+    "explanation_en": "Airplanes is the special feature of early Chola architecture."
+  },
+  {
+    "id": 50,
+    "question": "அழகிய நம்பி கோயில் எங்கு அமைந்துள்ளது?",
+    "options": [
+      "திருக்குறுங்குடி",
+      "மதுரை",
+      "திருநெல்வேலி",
+      "ஸ்ரீவில்லிபுத்தூர்"
+    ],
+    "correct": 2,
+    "question_en": "Where is the beautiful Nambi Temple located?",
+    "options_en": [
+      "Thirukurunkudi",
+      "Madurai",
+      "Tirunelveli",
+      "Srivilliputhur"
+    ],
+    "explanation": "திருநெல்வேலி",
+    "explanation_en": "Tirunelveli is the beautiful Nambi Temple located."
+  },
+  {
+    "id": 51,
+    "question": "வைகுண்ட பெருமாள் கோவிலை கட்டியவர் யார்?",
+    "options": [
+      "மகேந்திரவர்மன்",
+      "நரசிம்மவர்மன்",
+      "ராஜசிம்மன்",
+      "இரண்டாம் நந்திவர்மன்"
+    ],
+    "correct": 3,
+    "question_en": "Who built Vaikunda Perumal temple?",
+    "options_en": [
+      "Mahendravarman",
+      "Narasimhavarman",
+      "Rajasimhan",
+      "Nandivarman II"
+    ],
+    "explanation": "வைகுண்ட பெருமாள் கோவிலை கட்டியவர் இரண்டாம் நந்திவர்மன்.",
+    "explanation_en": "Nandivarman II"
+  },
+  {
+    "id": 52,
+    "question": "கீழ்கண்டவற்றை சரியாக பொருத்துக.\ni. பல்லவர்காலம் – a) கி.பி. 600 - 1350\nii. முற்காலச் சோழர்கள் – b) கி.பி. 600 - 850\niii. பிற்காலச் சோழர்கள் – c) கி.பி. 1500 க்கு முன்னர்\niv. நவீன காலம் – d) கி.பி. 850 - 1500",
+    "options": [
+      "i - b, ii - d, iii - a, iv - c",
+      "i - b, ii - d, iii - c, iv - a",
+      "i - b, ii - c, iii - d, iv - a",
+      "i - c, ii - d, iii - b, iv - a"
+    ],
+    "correct": 0,
+    "question_en": "Match the following correctly.\ni. Pallavar Period – a) AD 600 - 1350\nii. Early Cholas – b) A.D. 600 - 850\niii. Later Cholas – c) AD Before 1500\niv. Modern Period – d) AD 850 - 1500",
+    "options_en": [
+      "i - b, ii - d, iii - a, iv - c",
+      "i - b, ii - d, iii - c, iv - a",
+      "i - b, ii - c, iii - d, iv - a",
+      "i - c, ii - d, iii - b, iv - a"
+    ],
+    "explanation": "i - b, ii - d, iii - a, iv - c",
+    "explanation_en": "i - b, ii - d, iii - a, iv - c"
+  },
+  {
+    "id": 53,
+    "question": "துவாரபாலகர்கள் என அழைக்கப்படுபவர் ________.",
+    "options": [
+      "கடவுள்",
+      "அரசவை புலவர்",
+      "வாயிற்காப்போன்",
+      "பெண் கடவுள்"
+    ],
+    "correct": 2,
+    "question_en": "Dwarapalakas are known as ________.",
+    "options_en": [
+      "God",
+      "Court poet",
+      "Mouth guard",
+      "Female God"
+    ],
+    "explanation": "துவாரபாலகர்கள் என அழைக்கப்படுபவர் வாயிற்காப்போன்.",
+    "explanation_en": "Dwarapalakas are known as Mouth guard."
+  },
+  {
+    "id": 54,
+    "question": "ராஜசிம்மன் என்ற இயற்பெயர் கொண்டவர் ________.",
+    "options": [
+      "ராஜராஜ சோழன்",
+      "ராஜேந்திர சோழன்",
+      "மகேந்திரவர்மன்",
+      "இரண்டாம் நரசிம்மவர்மன்"
+    ],
+    "correct": 3,
+    "question_en": "Rajasimman whose birth name is ________.",
+    "options_en": [
+      "Rajaraja Cholan",
+      "Rajendra Cholan",
+      "Mahendravarman",
+      "Narasimhavarman II"
+    ],
+    "explanation": "ராஜசிம்மன் என்ற இயற்பெயர் கொண்டவர் இரண்டாம் நரசிம்மவர்மன்.",
+    "explanation_en": "Rajasimman whose birth name is Narasimhavarman II."
+  },
+  {
+    "id": 55,
+    "question": "கீழே உள்ளவற்றில் பல்லவ மன்னர் யார்?",
+    "options": [
+      "இரண்டாம் நரசிம்மவர்மன்",
+      "ராஜேந்திரசோழன்",
+      "மகேந்திரவர்மன்",
+      "விஜயபாலன்"
+    ],
+    "correct": 0,
+    "question_en": "Who among the following was a Pallava king?",
+    "options_en": [
+      "Narasimhavarman II",
+      "Rajendracholan",
+      "Mahendravarman",
+      "Vijayabalan"
+    ],
+    "explanation": "கீழே உள்ளவற்றில் பல்லவ மன்னர் இரண்டாம் நரசிம்மவர்மன்.",
+    "explanation_en": "Narasimhavarman II"
+  },
+  {
+    "id": 56,
+    "question": "தமிழ் திராவிட கோயில் கட்டடக் கலைக்கு மிகச்சிறந்த எடுத்துக்காட்டு ________.",
+    "options": [
+      "பஞ்ச பாண்டவர் ரதம்",
+      "காஞ்சி - கைலாசநாதர் கோயில்",
+      "திருப்பரங்குன்றம் கோயில்",
+      "ஐராவதீஸ்வரர் கோயில்"
+    ],
+    "correct": 0,
+    "question_en": "The best example of Tamil Dravidian temple architecture is ________.",
+    "options_en": [
+      "Pancha Pandavar Rath",
+      "Kanchi - Kailasanathar Temple",
+      "Tiruparangunram Temple",
+      "Airavatheeswarar Temple"
+    ],
+    "explanation": "தமிழ் திராவிட கோயில் கட்டடக் கலைக்கு மிகச்சிறந்த எடுத்துக்காட்டு பஞ்ச பாண்டவர் ரதம்.",
+    "explanation_en": "The best example of Tamil Dravidian temple architecture is Pancha Pandavar Rath."
+  },
+  {
+    "id": 57,
+    "question": "பின்வருவனவற்றுள் எது பஞ்ச பாண்டவ ரதம்?",
+    "options": [
+      "கருங்கல் பாறை",
+      "மாடக்குழி",
+      "அஜந்தா",
+      "பீம ரதம்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is the Pancha Pandava chariot?",
+    "options_en": [
+      "Black rock",
+      "attic",
+      "Ajanta",
+      "Bhima's chariot"
+    ],
+    "explanation": "பீம ரதம்",
+    "explanation_en": "Bhima's chariot is the Pancha Pandava chariot."
+  },
+  {
+    "id": 58,
+    "question": "அர்ச்சுனன் தவம் இருக்கும் பாறையின் உயரம் ________.",
+    "options": [
+      "100 அடி",
+      "43 அடி",
+      "45 அடி",
+      "112 அடி"
+    ],
+    "correct": 2,
+    "question_en": "The height of the rock where Archuna's penance is ________.",
+    "options_en": [
+      "100 feet",
+      "43 ft",
+      "45 feet",
+      "112 ft"
+    ],
+    "explanation": "அர்ச்சுனன் தவம் இருக்கும் பாறையின் உயரம் 45 அடி.",
+    "explanation_en": "The height of the rock where Archuna's penance is 45 feet."
+  },
+  {
+    "id": 59,
+    "question": "ஆண், பெண் தெய்வங்கள், அரசர்கள் ஆகியோரின் சிறப்புகளை எடுத்துரைப்பது?",
+    "options": [
+      "பீம ரதம்",
+      "கருங்கல் பாறை",
+      "அர்ஜுனன் ரதம்",
+      "மாடக்குழி"
+    ],
+    "correct": 3,
+    "question_en": "Highlighting the merits of male, female deities, kings?",
+    "options_en": [
+      "Bhima's chariot",
+      "Black rock",
+      "Arjuna's chariot",
+      "attic"
+    ],
+    "explanation": "மாடக்குழி",
+    "explanation_en": "attic"
+  },
+  {
+    "id": 60,
+    "question": "பல்லவர்களின் சமகாலத்தில் வாழ்ந்தவர்கள் ________.",
+    "options": [
+      "பீமர்",
+      "முற்காலப் பாண்டியர்",
+      "பிற்காலப் பாண்டியர்",
+      "திராவிடர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "The contemporary of the Pallavas were ________.",
+    "options_en": [
+      "Beamer",
+      "Early Pandya",
+      "Later Pandya",
+      "Dravidians"
+    ],
+    "explanation": "பல்லவர்களின் சமகாலத்தில் வாழ்ந்தவர்கள் முற்காலப் பாண்டியர்.",
+    "explanation_en": "The contemporary of the Pallavas were Early Pandya."
+  },
+  {
+    "id": 61,
+    "question": "பாண்டிய பேரரசின் குகைக் கோவில்களில் மிக முக்கியமானதாக கருதாதவை?",
+    "options": [
+      "மலையடிக்குறிச்சி",
+      "ஆனைமலை",
+      "தஞ்சாவூர்",
+      "திருப்பரங்குன்றம்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not considered the most important cave temple of the Pandya Empire?",
+    "options_en": [
+      "Mountain foothills",
+      "Anaimalai",
+      "Thanjavur",
+      "Tiruparangunram"
+    ],
+    "explanation": "தஞ்சாவூர்",
+    "explanation_en": "Thanjavur is not considered the most important cave temple of the Pandya Empire."
+  },
+  {
+    "id": 62,
+    "question": "கருவறை வாயிலின் இருபுறத்திலும் ________ சிலைகள் அமைக்கப்பட்டுள்ளன.",
+    "options": [
+      "துவாரபாலகர்",
+      "விஷ்ணு",
+      "சிவன்",
+      "பிரம்மா"
+    ],
+    "correct": 0,
+    "question_en": "________ idols are placed on either side of the gate of the sanctum sanctorum.",
+    "options_en": [
+      "Doorkeeper",
+      "Vishnu",
+      "Shiva",
+      "Brahma"
+    ],
+    "explanation": "கருவறை வாயிலின் இருபுறத்திலும் துவாரபாலகர் சிலைகள் அமைக்கப்பட்டுள்ளன.",
+    "explanation_en": "Doorkeeper idols are placed on either side of the gate of the sanctum sanctorum."
+  },
+  {
+    "id": 63,
+    "question": "பாண்டியர் காலத்து சிவன் கோவில்களின் லிங்கங்கள் எந்த பாறையில் இருந்து செதுக்கப்பட்டதாகும்?",
+    "options": [
+      "செங்கல்பறை",
+      "தீப்பானற",
+      "பவளப்பானற",
+      "தாய் பாறை"
+    ],
+    "correct": 3,
+    "question_en": "The lingams of the Shiva temples of the Pandya period were carved from which rock?",
+    "options_en": [
+      "Brick wall",
+      "Inflammable",
+      "Coral reef",
+      "mother rock"
+    ],
+    "explanation": "தாய் பாறை",
+    "explanation_en": "mother rock"
+  },
+  {
+    "id": 64,
+    "question": "கழுகுமனல கோவிலின் உச்சியில் உள்ள சிற்பம் எது?",
+    "options": [
+      "நந்திவர்மன்",
+      "முருகன்",
+      "தட்சிணாமூர்த்தி",
+      "ஐராதீஸ்வரர்"
+    ],
+    "correct": 2,
+    "question_en": "Which is the sculpture at the top of Kalgukumanala Temple?",
+    "options_en": [
+      "Nandivarman",
+      "Murugan",
+      "Dakshinamurthy",
+      "Iradeeswarar"
+    ],
+    "explanation": "கழுகுமனல கோவிலின் உச்சியில் உள்ள சிற்பம் தட்சிணாமூர்த்தி ஆகும்.",
+    "explanation_en": "Dakshinamurthy is the sculpture at the top of Kalgukumanala Temple."
+  },
+  {
+    "id": 65,
+    "question": "பாண்டியர் கட்டிடக் கலைக்கு எடுத்துக்காட்டாக திகழ்வது ________.",
+    "options": [
+      "மதுரை மீனாட்சி அம்மன் கோயில்",
+      "தஞ்சை பெரிய கோயில்",
+      "ஐராவதீஸ்வரர் கோயில்",
+      "குடைவரை கோயில்"
+    ],
+    "correct": 0,
+    "question_en": "An example of Pandyan architecture is ________.",
+    "options_en": [
+      "Madurai Meenakshi Amman Temple",
+      "Tanjore Great Temple",
+      "Airavatheeswarar Temple",
+      "Kudaivara temple"
+    ],
+    "explanation": "பாண்டியர் கட்டிடக் கலைக்கு எடுத்துக்காட்டாக திகழ்வது மதுரை மீனாட்சி அம்மன் கோயில்.",
+    "explanation_en": "An example of Pandyan architecture is Madurai Meenakshi Amman Temple."
+  },
+  {
+    "id": 66,
+    "question": "சித்தன்னவாசல் சமணத் துறவிகள் வாழ்ந்த இடம் ________.",
+    "options": [
+      "புதர்",
+      "குகை",
+      "மண்டபம்",
+      "கோவில்"
+    ],
+    "correct": 1,
+    "question_en": "Siddhannavasal was the place where the Jain monks lived.",
+    "options_en": [
+      "Bush",
+      "Cave",
+      "Hall",
+      "Temple"
+    ],
+    "explanation": "சித்தன்னவாசல் சமணத் துறவிகள் வாழ்ந்த இடம் குகை.",
+    "explanation_en": "Cave"
+  },
+  {
+    "id": 67,
+    "question": "முற்காலச் சோழர்களின் கோவில் கட்டடக் கலைக்கு எடுத்துக்காட்டு __________.",
+    "options": [
+      "தாதாபுரம் கோயில்",
+      "தஞ்சை பெரிய கோயில்",
+      "ஐராவதீஸ்வரர் கோயில்",
+      "தட்சிணாமூர்த்தி கோயில்"
+    ],
+    "correct": 0,
+    "question_en": "An example of early Cholas temple architecture is __________.",
+    "options_en": [
+      "Dadhapuram Temple",
+      "Tanjore Great Temple",
+      "Airavatheeswarar Temple",
+      "Dakshinamurthy Temple"
+    ],
+    "explanation": "முற்காலச் சோழர்களின் கோவில் கட்டடக் கலைக்கு எடுத்துக்காட்டு தாதாபுரம் கோயில்.",
+    "explanation_en": "An example of early Cholas temple architecture is Dadhapuram Temple."
+  },
+  {
+    "id": 68,
+    "question": "கோவில்களில் அதிக எண்ணிக்கையில் தேவகோஷ்டங்கள் இருந்தால் அதை __________ என்பர்.",
+    "options": [
+      "பஞ்சவர்ணம்",
+      "சிற்பம்",
+      "செம்பியன் மகாதேவி பாணி",
+      "கலச கோபுரம்"
+    ],
+    "correct": 2,
+    "question_en": "If there is a large number of Devakoshtas in temples it is called __________.",
+    "options_en": [
+      "Panchavarna",
+      "Sculpture",
+      "Champion Mahadevi style",
+      "Kalasa Gopuram"
+    ],
+    "explanation": "கோவில்களில் அதிக எண்ணிக்கையில் தேவகோஷ்டங்கள் இருந்தால் அதை செம்பியன் மகாதேவி பாணி என்பர்.",
+    "explanation_en": "If there is a large number of Devakoshtas in temples it is called Champion Mahadevi style."
+  },
+  {
+    "id": 69,
+    "question": "செம்பியன் மகாதேவியால் மறுவடிவாக்கம் செய்யப்பட்ட முற்காலக் கோவில்களுக்கு எடுத்துக்காட்டு __________.",
+    "options": [
+      "திருப்புறம்பியம் கோயில்",
+      "தஞ்சை பெரிய கோவில்",
+      "தாதாபுரம் கோவில்",
+      "தட்சிணாமூர்த்தி கோவில்"
+    ],
+    "correct": 0,
+    "question_en": "Examples of early temples remodeled by Sembian Mahadevi are __________.",
+    "options_en": [
+      "Tiruppurampiyam Temple",
+      "Great temple of Tanjore",
+      "Dadhapuram temple",
+      "Dakshinamurthy Temple"
+    ],
+    "explanation": "செம்பியன் மகாதேவியால் மறுவடிவாக்கம் செய்யப்பட்ட முற்காலக் கோவில்களுக்கு எடுத்துக்காட்டு திருப்புறம்பியம் கோயில்.",
+    "explanation_en": "Examples of early temples remodeled by Sembian Mahadevi are Tiruppurampiyam Temple."
+  },
+  {
+    "id": 70,
+    "question": "கர்ப்பகிரகத்தின் மேலுள்ள கட்டுமானம் என்பது எது?",
+    "options": [
+      "கடவுள் சிலை",
+      "வாயிற்படி",
+      "தூண்",
+      "விமானம்"
+    ],
+    "correct": 3,
+    "question_en": "What is the superstructure of Garbhagraha?",
+    "options_en": [
+      "God statue",
+      "verbally",
+      "Pillar",
+      "Airplane"
+    ],
+    "explanation": "கர்ப்பகிரகத்தின் மேலுள்ள கட்டுமானம் என்பது விமானம் ஆகும்.",
+    "explanation_en": "Airplane is the superstructure of Garbhagraha."
+  },
+  {
+    "id": 71,
+    "question": "உலகத்தில் மனிதனால் கட்டப்பட்ட மிக உயரமான சிகரம் எது?",
+    "options": [
+      "மதுரை மீனாட்சி அம்மன் கோவில்",
+      "சண்டீஸ்வரர் கோவில்",
+      "தஞ்சை பெரிய கோவில்",
+      "தட்சிணாமூர்த்தி கோவில்"
+    ],
+    "correct": 2,
+    "question_en": "Which is the highest man-made peak in the world?",
+    "options_en": [
+      "Madurai Meenakshi Amman Temple",
+      "Sandeeswarar Temple",
+      "Great temple of Tanjore",
+      "Dakshinamurthy Temple"
+    ],
+    "explanation": "உலகத்தில் மனிதனால் கட்டப்பட்ட மிக உயரமான சிகரம் தஞ்சை பெரிய கோவில் ஆகும்.",
+    "explanation_en": "Great temple of Tanjore is the highest man-made peak in the world."
+  },
+  {
+    "id": 72,
+    "question": "தட்சிண மேரு என்று அழைக்கப்படுவது எது?",
+    "options": [
+      "ஆதி நாதர் கோயில்",
+      "வரதராஜர் கோயில்",
+      "ரங்கநாதர் கோயில்",
+      "தஞ்சாவூர் விமானம்"
+    ],
+    "correct": 3,
+    "question_en": "What is called Dakshina Meru?",
+    "options_en": [
+      "Adi Nadhar Temple",
+      "Varadaraja Temple",
+      "Ranganath Temple",
+      "Thanjavur flight"
+    ],
+    "explanation": "தட்சிண மேரு என்று அழைக்கப்படுவது தஞ்சாவூர் விமானம் ஆகும்.",
+    "explanation_en": "Thanjavur flight is called Dakshina Meru."
+  },
+  {
+    "id": 73,
+    "question": "தஞ்சாவூரில் உள்ள நந்தி சிலையின் நீளம் _________.",
+    "options": [
+      "13 அடி",
+      "16 அடி",
+      "15 அடி",
+      "18 அடி"
+    ],
+    "correct": 1,
+    "question_en": "The length of the Nandi statue at Thanjavur is _________.",
+    "options_en": [
+      "13 ft",
+      "16 feet",
+      "15 feet",
+      "18 ft"
+    ],
+    "explanation": "தஞ்சாவூரில் உள்ள நந்தி சிலையின் நீளம் 16 அடி.",
+    "explanation_en": "The length of the Nandi statue at Thanjavur is 16 feet."
+  },
+  {
+    "id": 74,
+    "question": "கங்கைகொண்ட சோழபுரம் கோவிலின் உயரம் _________.",
+    "options": [
+      "50 மீ",
+      "45 மீ",
+      "100 மீ",
+      "55 மீ"
+    ],
+    "correct": 3,
+    "question_en": "The height of Gangaikonda Cholapuram temple is _________.",
+    "options_en": [
+      "50 m",
+      "45 m",
+      "100 m",
+      "55 m"
+    ],
+    "explanation": "கங்கைகொண்ட சோழபுரம் கோவிலின் உயரம் 55 மீ.",
+    "explanation_en": "The height of Gangaikonda Cholapuram temple is 55 m."
+  },
+  {
+    "id": 75,
+    "question": "கும்பகோணத்தில் பிற்காலச் சோழர்களின் கோயில் அமைந்துள்ள இடம்?",
+    "options": [
+      "தாராசுரம்",
+      "காஞ்சி",
+      "ஸ்ரீரங்கம்",
+      "ஆழி"
+    ],
+    "correct": 0,
+    "question_en": "Where is the temple of the later Cholas located in Kumbakonam?",
+    "options_en": [
+      "Tarasuram",
+      "Kanji",
+      "Srirangam",
+      "Azhi"
+    ],
+    "explanation": "தாராசுரம்",
+    "explanation_en": "Tarasuram is the temple of the later Cholas located in Kumbakonam."
+  },
+  {
+    "id": 76,
+    "question": "தாராசுரம் ஐராவதீஸ்வரர் கோயிலை கட்டியவர் _________.",
+    "options": [
+      "மகேந்திரவர்மன்",
+      "பல்லவர்கள்",
+      "சோழர்கள்",
+      "இரண்டாம் இராஜராஜன்"
+    ],
+    "correct": 3,
+    "question_en": "Tarasuram Airavatheeswarar Temple was built by _________.",
+    "options_en": [
+      "Mahendravarman",
+      "Pallavas",
+      "Cholas",
+      "Rajarajan II"
+    ],
+    "explanation": "தாராசுரம் ஐராவதீஸ்வரர் கோயிலை கட்டியவர் இரண்டாம் இராஜராஜன்.",
+    "explanation_en": "Tarasuram Airavatheeswarar Temple was built by Rajarajan II."
+  },
+  {
+    "id": 77,
+    "question": "மகா மண்டபத்தின் நான்கு சக்கரங்கள் இடம்பெற்றுள்ள பகுதி?",
+    "options": [
+      "மேல் பகுதி",
+      "கீழ் பகுதி",
+      "நடுப்பகுதி",
+      "உச்சியில்"
+    ],
+    "correct": 1,
+    "question_en": "The part of the Maha Mandapam where the four chakras are located?",
+    "options_en": [
+      "upper part",
+      "lower part",
+      "the middle",
+      "At the top"
+    ],
+    "explanation": "கீழ் பகுதி",
+    "explanation_en": "lower part"
+  },
+  {
+    "id": 78,
+    "question": "மண்டபத்தின் ஒற்றைக்கால் தூண்களில் இடம்பெற்றுள்ள விலங்கு எது?",
+    "options": [
+      "சிங்கங்கள்",
+      "புலிகள்",
+      "யானைகள்",
+      "மயில்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Which animal is featured on the monoliths of the hall?",
+    "options_en": [
+      "Lions",
+      "Tigers",
+      "Elephants",
+      "Peacocks"
+    ],
+    "explanation": "மண்டபத்தின் ஒற்றைக்கால் தூண்களில் இடம்பெற்றுள்ள விலங்கு சிங்கங்கள் ஆகும்.",
+    "explanation_en": "Lions"
+  },
+  {
+    "id": 79,
+    "question": "விஜயநகர, நாயக்கர் கட்டடக் கலையின் சிறப்பம்சம் எது?",
+    "options": [
+      "மண்டபம்",
+      "கருவறை",
+      "இசை தூண்",
+      "விமானம்"
+    ],
+    "correct": 2,
+    "question_en": "What is the highlight of Vijayanagara, Nayak architecture?",
+    "options_en": [
+      "Hall",
+      "womb",
+      "Music pillar",
+      "Airplane"
+    ],
+    "explanation": "விஜயநகர, நாயக்கர் கட்டடக் கலையின் சிறப்பம்சம் இசை தூண் ஆகும்.",
+    "explanation_en": "Music pillar is the highlight of Vijayanagara, Nayak architecture."
+  },
+  {
+    "id": 80,
+    "question": "பின்வருவனவற்றில் எது விஜயநகர, நாயக்கர் கால ஓவியங்களை குறிக்காதது?",
+    "options": [
+      "அழகர்",
+      "கோவில்",
+      "திருவண்ணாமலை",
+      "திருவிடைமருதூர்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following does not refer to paintings of the Vijayanagara, Nayak period?",
+    "options_en": [
+      "The charmer",
+      "Temple",
+      "Thiruvannamalai",
+      "Thiruvidaimarudur"
+    ],
+    "explanation": "திருவிடைமருதூர்",
+    "explanation_en": "Thiruvidaimarudur"
+  },
+  {
+    "id": 81,
+    "question": "உலகிலேயே மிகவும் நீளமான கோவில் பிரகாரங்களை கொண்டது?",
+    "options": [
+      "ஆண்டாள் கோவில்",
+      "அழகர் கோவில்",
+      "தஞ்சை பெரிய கோவில்",
+      "இராமேஸ்வரம் இராமநாதசாமி கோவில்"
+    ],
+    "correct": 3,
+    "question_en": "Which temple has the longest temple in the world?",
+    "options_en": [
+      "Andal temple",
+      "Alagar Temple",
+      "Great temple of Tanjore",
+      "Rameswaram Ramanathaswamy Temple"
+    ],
+    "explanation": "இராமேஸ்வரம் இராமநாதசாமி கோவில்",
+    "explanation_en": "Rameswaram Ramanathaswamy Temple"
+  },
+  {
+    "id": 82,
+    "question": "இராமேஸ்வரம் இராமநாதசுவாமி கோவில் எத்தனை பிரகார சுற்றுகளைக் கொண்டுள்ளது?",
+    "options": [
+      "இரண்டு",
+      "ஒன்று",
+      "மூன்று",
+      "ஐந்து"
+    ],
+    "correct": 2,
+    "question_en": "Rameswaram Ramanathaswamy Temple has how many prahara rounds?",
+    "options_en": [
+      "Two",
+      "One",
+      "Three",
+      "Five"
+    ],
+    "explanation": "மூன்று",
+    "explanation_en": "Rameswaram Ramanathaswamy Temple has Three prahara rounds."
+  },
+  {
+    "id": 83,
+    "question": "இராமநாதசாமி கோவில் வெளிப்புறச் சுற்றுச் சுவரின் உயரம் _________.",
+    "options": [
+      "5 மீ",
+      "10 மீ",
+      "3.6 மீ",
+      "7 மீ"
+    ],
+    "correct": 3,
+    "question_en": "The height of outer perimeter wall of Ramanathasamy temple is _________.",
+    "options_en": [
+      "5 m",
+      "10 m",
+      "3.6 m",
+      "7 m"
+    ],
+    "explanation": "இராமநாதசாமி கோவில் வெளிப்புறச் சுற்றுச் சுவரின் உயரம் 7 மீ.",
+    "explanation_en": "The height of outer perimeter wall of Ramanathasamy temple is 7 m."
+  }
+]

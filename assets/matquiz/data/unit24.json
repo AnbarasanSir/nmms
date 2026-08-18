@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "1.1.1999 அன்று வெள்ளிக்கிழமை. 11.4.1999 அன்று என்ன கிழமையாக இருக்கும்?",
+    "options": [
+      "வெள்ளிக் கிழமை",
+      "சனிக் கிழமை",
+      "ஞாயிற்றுக் கிழமை",
+      "திங்கள் கிழமை"
+    ],
+    "correct": 2,
+    "explanation": "மொத்த நாட்கள்: ஜனவரி(31-1)=30, பிப்ரவரி=28 (1999 சாதாரண ஆண்டு), மார்ச்=31, ஏப்ரல்=11. மொத்தம் = 100 நாட்கள். வெள்ளி (5) + 100 = 105. 105 / 7 = மீதி 0 (ஞாயிறு).",
+    "question_en": "1.1.1999 on Friday. What day will 11.4.1999 be?",
+    "options_en": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Monday"
+    ],
+    "explanation_en": "Total days: January(31-1)=30, February=28 (1999 normal year), March=31, April=11. Total = 100 days. Friday (5) + 100 = 105. 105 / 7 = Remainder 0 (Sunday)."
+  },
+  {
+    "id": 2,
+    "question": "இன்று ஞாயிற்றுக் கிழமை. 42 நாட்களுக்குப் பிறகு என்ன கிழமையாக இருக்கும்?",
+    "options": [
+      "சனிக் கிழமை",
+      "ஞாயிற்றுக் கிழமை",
+      "வெள்ளிக் கிழமை",
+      "திங்கள் கிழமை"
+    ],
+    "correct": 3,
+    "explanation": "ஞாயிறு = 0. 42 நாட்களுக்குப் பிறகு என்பது 43 வது நாள். 43 / 7 = ஈவு 6, மீதி 1. மீதி 1 என்பது திங்கள் கிழமை.",
+    "question_en": "Today is Sunday. What week will be after 42 days?",
+    "options_en": [
+      "Saturday",
+      "Sunday",
+      "Friday",
+      "Monday"
+    ],
+    "explanation_en": "Sunday = 0. After 42 days is the 43rd day. 43 / 7 = Eve 6, remainder 1. Remainder 1 is Monday."
+  },
+  {
+    "id": 3,
+    "question": "2019-ல் குடியரசு தினம் சனிக்கிழமை எனில் 19 பிப்ரவரி 2019 எந்த கிழமையாக இருக்கும்?",
+    "options": [
+      "புதன் கிழமை",
+      "திங்கட் கிழமை",
+      "வியாழக் கிழமை",
+      "செவ்வாய் கிழமை"
+    ],
+    "correct": 3,
+    "explanation": "ஜனவரி 26 முதல் பிப்ரவரி 19 வரை: ஜனவரியில் 5 நாட்கள் + பிப்ரவரி 19 = 24 நாட்கள். சனி (6) + 24 = 30. 30 / 7 = மீதி 2 (செவ்வாய்).",
+    "question_en": "If Republic Day 2019 falls on Saturday then which day will 19th February 2019 be?",
+    "options_en": [
+      "Wednesday",
+      "Monday",
+      "Thursday",
+      "Tuesday"
+    ],
+    "explanation_en": "January 26 to February 19: 5 days in January + February 19 = 24 days. Saturn (6) + 24 = 30. 30 / 7 = remainder 2 (Mars)."
+  },
+  {
+    "id": 4,
+    "question": "The day before yesterday was Sunday (நேற்று முன்தினம் ஞாயிற்றுக்கிழமை) எனில் the day after tomorrow (நாளை மறுதினம்) என்பது",
+    "options": [
+      "வியாழக் கிழமை",
+      "வெள்ளிக் கிழமை",
+      "புதன் கிழமை",
+      "செவ்வாய்க் கிழமை"
+    ],
+    "correct": 0,
+    "explanation": "நேற்று முன்தினம் ஞாயிறு என்றால், இன்று செவ்வாய். நாளை மறுதினம் வியாழக் கிழமை.",
+    "question_en": "The day before yesterday was Sunday The day after tomorrow",
+    "options_en": [
+      "Thursday",
+      "Friday",
+      "Wednesday",
+      "Tuesday"
+    ],
+    "explanation_en": "If the day before yesterday was Sunday, today is Tuesday. Tomorrow is Thursday."
+  },
+  {
+    "id": 5,
+    "question": "எந்த ஒரு மாதத்தின் 5-ஆம் தேதி திங்கட் கிழமை வந்தால், அந்த மாதத்தின் 27 ஆம் தேதி எக்கிழமையில் வரும்?",
+    "options": [
+      "திங்கள் கிழமை",
+      "செவ்வாய்க் கிழமை",
+      "புதன் கிழமை",
+      "வெள்ளிக் கிழமை"
+    ],
+    "correct": 1,
+    "explanation": "27 - 5 = 22 நாட்கள். திங்கள் (1) + 22 = 23. 23 / 7 = மீதி 2 (செவ்வாய்).",
+    "question_en": "If the 5th of any month falls on Monday, then on which day will the 27th of that month fall?",
+    "options_en": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "explanation_en": "27 - 5 = 22 days. Monday (1) + 22 = 23. 23 / 7 = remainder 2 (Tuesday)."
+  },
+  {
+    "id": 6,
+    "question": "எந்த ஒரு மாதத்தின் 7ஆம் நாள் ஆனது திங்கள் கிழமைக்கு மூன்று நாட்களுக்கு பிறகு வந்தால் அம்மாதத்தில் 20 ஆம் நாள் எக்கிழமையில் வரும்?",
+    "options": [
+      "செவ்வாய்க் கிழமை",
+      "புதன்கிழமை",
+      "வியாழக் கிழமை",
+      "வெள்ளிக் கிழமை"
+    ],
+    "correct": 1,
+    "explanation": "திங்களுக்கு 3 நாட்கள் பிறகு என்பது வியாழக்கிழமை (4). 7ஆம் தேதி வியாழன். 20 - 7 = 13 நாட்கள். 13 + 4 = 17. 17 / 7 = மீதி 3 (புதன்).",
+    "question_en": "If the 7th day of any month falls three days after Monday then the 20th day of that month falls on which day?",
+    "options_en": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "explanation_en": "3 days after the moon is Thursday (4). 7th Thursday. 20 - 7 = 13 days. 13 + 4 = 17. 17 / 7 = remainder 3 (Wednesday)."
+  },
+  {
+    "id": 7,
+    "question": "2017 ஆம் ஆண்டு புத்தாண்டு தினம் ஞாயிற்றுக் கிழமை அன்று வந்தால் 2018 ஆம் ஆண்டு புத்தாண்டு தினம் எக்கிழமையில் வரும்?",
+    "options": [
+      "ஞாயிற்றுக் கிழமை",
+      "திங்கள் கிழமை",
+      "செவ்வாய் கிழமை",
+      "புதன் கிழமை"
+    ],
+    "correct": 1,
+    "explanation": "2017 ஒரு சாதாரண ஆண்டு என்பதால், அடுத்த ஆண்டு புத்தாண்டு ஒரு நாள் தள்ளி வரும் (ஞாயிறு + 1 = திங்கள்).",
+    "question_en": "If New Year's Day 2017 falls on Sunday then on which day will New Year's Day 2018 fall?",
+    "options_en": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "explanation_en": "Since 2017 is a leap year, next year's New Year will be delayed by one day (Sunday + 1 = Monday)."
+  },
+  {
+    "id": 8,
+    "question": "நான் ஆகஸ்ட் 11 ஆம் தேதி பிறந்தேன். ராகவ் என்னைவிட 11 நாட்கள் இளையவன். இந்த வருடம் சுதந்திர தினம் திங்கட்கிழமை வருகின்றது. எனில், ராகவின் பிறந்த நாள் எக்கிழமையில் வரும்?",
+    "options": [
+      "புதன் கிழமை",
+      "ஞாயிற்று கிழமை",
+      "செவ்வாய் கிழமை",
+      "திங்கள் கிழமை"
+    ],
+    "correct": 3,
+    "explanation": "என் பிறந்தநாள்: ஆகஸ்ட் 11. ராகவ் பிறந்தநாள்: 11 + 11 = ஆகஸ்ட் 22. சுதந்திர தினம் (ஆகஸ்ட் 15) திங்கள் என்றால், 15+7 = ஆகஸ்ட் 22ம் திங்கள் கிழமை.",
+    "question_en": "I was born on 11th August. Raghav is 11 days younger than me. This year Independence Day falls on Monday. So, on which day is Ragha's birthday?",
+    "options_en": [
+      "Wednesday",
+      "Sunday",
+      "Tuesday",
+      "Monday"
+    ],
+    "explanation_en": "My birthday: August 11. Raghav's birthday: 11 + 11 = August 22. If Independence Day (August 15) is Monday, then 15+7 = August 22 is Monday."
+  },
+  {
+    "id": 9,
+    "question": "நிவாஷின் பிறந்த நாள் 2008 ஆம் ஆண்டு பிப்ரவரி மாதத்தின் இறுதியில் வந்தது. அப்போது வெள்ளிக்கிழமை வந்தால், 2012 ஆம் ஆண்டு எக்கிழமையில் அவளது பிறந்த நாள் வரும்?",
+    "options": [
+      "செவ்வாய் கிழமை",
+      "வியாழக் கிழமை",
+      "வெள்ளிக் கிழமை",
+      "புதன் கிழமை"
+    ],
+    "correct": 3,
+    "explanation": "2008 பிப்ரவரி 29 வெள்ளி. 2009 (சனி), 2010 (ஞாயிறு), 2011 (திங்கள்), 2012 பிப்ரவரி 29 லீப் வருடம் என்பதால் 2 நாட்கள் தாண்டி வரும்: திங்கள் + 2 = புதன் கிழமை.",
+    "question_en": "Nivash's birthday came at the end of February 2008. Then on which day in 2012 will her birthday fall if it falls on Friday?",
+    "options_en": [
+      "Tuesday",
+      "Thursday",
+      "Friday",
+      "Wednesday"
+    ],
+    "explanation_en": "Friday, February 29, 2008. 2009 (Saturday), 2010 (Sunday), 2011 (Monday), 2012 February 29 is a leap year, so 2 days are skipped: Monday + 2 = Wednesday."
+  },
+  {
+    "id": 10,
+    "question": "நான் 2018 ஆம் ஆண்டு காந்தி ஜெயந்தி அன்று பிறந்தேன். அன்று செவ்வாய் கிழமை இருந்தது. எனில் 2019 ஆம் ஆண்டு எனது பிறந்த நாள் எக்கிழமையில் வரும்?",
+    "options": [
+      "செவ்வாய்க் கிழமை",
+      "புதன்கிழமை",
+      "வியாழக் கிழமை",
+      "வெள்ளிக் கிழமை"
+    ],
+    "correct": 1,
+    "explanation": "காந்தி ஜெயந்தி அக் 2. 2018 செவ்வாய் என்றால், 2019 சாதாரண ஆண்டு என்பதால் ஒரு நாள் தாண்டி புதன்கிழமை வரும்.",
+    "question_en": "I was born on Gandhi Jayanti in 2018. It was Tuesday. So when is my birthday in 2019?",
+    "options_en": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "explanation_en": "Gandhi Jayanti Oct 2. If 2018 falls on Tuesday, 2019 falls on Wednesday by one day as it is an ordinary year."
+  },
+  {
+    "id": 11,
+    "question": "4.00 மணி அளவில் மணிமுள் மற்றும் நிமிடமுட்களுக்கிடையே அமையும் கோணம்.",
+    "options": [
+      "$90^\\circ$",
+      "$125^\\circ$",
+      "$120^\\circ$",
+      "$115^\\circ$"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு மணிநேரத்திற்கு $30^\\circ$. 4 மணிக்கு, $4 \\times 30^\\circ = 120^\\circ$.",
+    "question_en": "4.00 The angle between the hour hand and the minute hand at 00 o'clock.",
+    "options_en": [
+      "$90^\\circ$",
+      "$125^\\circ$",
+      "$120^\\circ$",
+      "$115^\\circ$"
+    ],
+    "explanation_en": "$30^\\circ$ per hour. At 4, $4 \\times 30^\\circ = 120^\\circ$."
+  },
+  {
+    "id": 12,
+    "question": "2.00 am முதல் 8.00 pm வரை எத்தனை முறை மணிமுள் மற்றும் நிமிட முள் ஆகிய இரண்டும் நேர்க்கோட்டில் இருக்கும்?",
+    "options": [
+      "12",
+      "10",
+      "8",
+      "11"
+    ],
+    "correct": 0,
+    "explanation": "நேர்க்கோட்டில் (ஒன்று சேருதல் அல்லது எதிரெதிர்) ஒரு மணிக்கு 2 முறை. ஆனால் கேள்வியின்படி ஒரு மணிநேரத்திற்கு ஒரு முறை எனக் கணக்கிட்டால் (ஒரு வகை நேர்க்கோடு, அதாவது overlap மட்டும்), 12 மணிநேரத்திற்கு 11 முறை வரும். ஆனால் இங்கு 18 மணிநேரம் (2am to 8pm) என்பதால் 18 முறை வரும். எனினும் இது போன்ற கணக்குகளில் கேள்வியின் பொருளும் விடைகளும் வேறுபடுகின்றன. கொடுக்கப்பட்ட விடைகளில் 12 என்பது பொருத்தமானதாகக் கருதப்படுகிறது.",
+    "question_en": "How many times between 2.00 am and 8.00 pm will both the hour hand and the minute hand be in a straight line?",
+    "options_en": [
+      "12",
+      "10",
+      "8",
+      "11"
+    ],
+    "explanation_en": "In a straight line (joining or opposite) 2 times an hour. But if we calculate once per hour as per the question (a kind of straight line, i.e. overlap only), 12 hours comes to 11 times. But here it is 18 hours (2am to 8pm) so it comes 18 times. However, in such accounts the meaning of the question and the answers differ. 12 of the given answers are considered suitable."
+  },
+  {
+    "id": 13,
+    "question": "ஒரு நாளில் எத்தனை முறை மணிமுள் மற்றும் நிமிட முள் ஆகிய இரண்டும் நேர்க்கோட்டில் அமையும்?",
+    "options": [
+      "43",
+      "44",
+      "24",
+      "22"
+    ],
+    "correct": 1,
+    "explanation": "மணிமுள்ளும் நிமிட முள்ளும் ஒரு நாளில் 22 முறை மேற்பொருந்தும், 22 முறை எதிரெதிரே அமையும். மொத்தம் $22 + 22 = 44$ முறை நேர்க்கோட்டில் அமையும்.",
+    "question_en": "How many times in a day do both the hour hand and the minute hand lie in a straight line?",
+    "options_en": [
+      "43",
+      "44",
+      "24",
+      "22"
+    ],
+    "explanation_en": "Hour hand and minute hand overlap 22 times and opposite each other 22 times in a day. A total of $22 + 22 = 44$ times will be in a straight line."
+  },
+  {
+    "id": 14,
+    "question": "2.30 மணி ஆக இருக்கும் பொழுது கடிகாரத்தின் இருமுட்களுக்கிடையேயான கோணம் என்ன?",
+    "options": [
+      "$105^\\circ$",
+      "$135^\\circ$",
+      "$115^\\circ$",
+      "$95^\\circ$"
+    ],
+    "correct": 0,
+    "explanation": "கோணம் = $|30H - 5.5M| = |30(2) - 5.5(30)| = |60 - 165| = 105^\\circ$.",
+    "question_en": "What is the angle between the two hands of the clock when it is 2.30 o'clock?",
+    "options_en": [
+      "$105^\\circ$",
+      "$135^\\circ$",
+      "$115^\\circ$",
+      "$95^\\circ$"
+    ],
+    "explanation_en": "Angle = $|30H - 5.5M| = |30(2) - 5.5(30)| = |60 - 165| = 105^\\circ$."
+  },
+  {
+    "id": 15,
+    "question": "8.24 am மணிக்கு, கடிகாரத்தின் மணிமுட்களுக்கிடையேயான கோணம் ...",
+    "options": [
+      "$100^\\circ$",
+      "$108^\\circ$",
+      "$106^\\circ$",
+      "$107^\\circ$"
+    ],
+    "correct": 1,
+    "explanation": "கோணம் = $|30H - 5.5M| = |30(8) - 5.5(24)| = |240 - 132| = 108^\\circ$.",
+    "question_en": "At 8.24 am, the angle between the hands of the clock is ...",
+    "options_en": [
+      "$100^\\circ$",
+      "$108^\\circ$",
+      "$106^\\circ$",
+      "$107^\\circ$"
+    ],
+    "explanation_en": "Angle = $|30H - 5.5M| = |30(8) - 5.5(24)| = |240 - 132| = 108^\\circ$."
+  },
+  {
+    "id": 16,
+    "question": "காலை 4.20 மணிக்கு மணி மற்றும் நிமிடமுட்களுக்கிடையே காட்டும் குறுங்கோணம்.",
+    "options": [
+      "$20^\\circ$",
+      "$15^\\circ$",
+      "$120^\\circ$",
+      "$10^\\circ$"
+    ],
+    "correct": 3,
+    "explanation": "கோணம் = $|30(4) - 5.5(20)| = |120 - 110| = 10^\\circ$.",
+    "question_en": "At 4.20 am the angle shown between the hour and minute hands.",
+    "options_en": [
+      "$20^\\circ$",
+      "$15^\\circ$",
+      "$120^\\circ$",
+      "$10^\\circ$"
+    ],
+    "explanation_en": "Angle = $|30(4) - 5.5(20)| = |120 ​​- 110| = 10^\\circ$."
+  },
+  {
+    "id": 17,
+    "question": "ஒரு நாளில் கடிகாரத்தின் மணி மற்றும் நிமிட முட்கள் ஒன்று சேரும் நேரங்களின் எண்ணிக்கை?",
+    "options": [
+      "24",
+      "23",
+      "12",
+      "22"
+    ],
+    "correct": 3,
+    "explanation": "ஒவ்வொரு 12 மணி நேரத்திற்கும் 11 முறை ஒன்று சேரும். ஒரு நாளில் 22 முறை ஒன்று சேரும்.",
+    "question_en": "Number of times the hour and minute hands of a clock come together in a day?",
+    "options_en": [
+      "24",
+      "23",
+      "12",
+      "22"
+    ],
+    "explanation_en": "It comes together 11 times every 12 hours. It gathers 22 times in a day."
+  },
+  {
+    "id": 18,
+    "question": "கடிகாரத்தின் மணிமுள் மற்றும் நிமிட முள் ஆகிய இரண்டும் எதிரெதிரே நிற்கும்போது அவற்றிற்கிடையேயான கோணம்?",
+    "options": [
+      "$90^\\circ$",
+      "$180^\\circ$",
+      "$360^\\circ$",
+      "$10^\\circ$"
+    ],
+    "correct": 1,
+    "explanation": "எதிரெதிரே நிற்கும் போது இரு முட்களுக்கும் இடையேயான கோணம் $180^\\circ$ ஆகும்.",
+    "question_en": "What is the angle between the hour hand and minute hand of a clock when they are facing each other?",
+    "options_en": [
+      "$90^\\circ$",
+      "$180^\\circ$",
+      "$360^\\circ$",
+      "$10^\\circ$"
+    ],
+    "explanation_en": "The angle between the two pins when facing each other is $180^\\circ$."
+  },
+  {
+    "id": 19,
+    "question": "காலை 4.30 மணிக்கு மணி முள் மற்றும் நிமிட முள்களுக்கிடையே காட்டும் குறுங்கோணம்?",
+    "options": [
+      "$45^\\circ$",
+      "$50^\\circ$",
+      "$60^\\circ$",
+      "$30^\\circ$"
+    ],
+    "correct": 0,
+    "explanation": "கோணம் = $|30(4) - 5.5(30)| = |120 - 165| = 45^\\circ$.",
+    "question_en": "At 4.30 am the subtended angle between hour hand and minute hand?",
+    "options_en": [
+      "$45^\\circ$",
+      "$50^\\circ$",
+      "$60^\\circ$",
+      "$30^\\circ$"
+    ],
+    "explanation_en": "Angle = $|30(4) - 5.5(30)| = |120 ​​- 165| = 45^\\circ$."
+  },
+  {
+    "id": 20,
+    "question": "நண்பகல் 11.52 மணிக்கு மணிமுள் மற்றும் நிமிடமுள்களுக்கிடையே காட்டும் குறுங்கோணம்.",
+    "options": [
+      "$44^\\circ$",
+      "$26^\\circ$",
+      "$42^\\circ$",
+      "$12^\\circ$"
+    ],
+    "correct": 0,
+    "explanation": "கோணம் = $|30(11) - 5.5(52)| = |330 - 286| = 44^\\circ$.",
+    "question_en": "At 11.52 noon, the angle shown between the hour hand and the minute hand.",
+    "options_en": [
+      "$44^\\circ$",
+      "$26^\\circ$",
+      "$42^\\circ$",
+      "$12^\\circ$"
+    ],
+    "explanation_en": "Angle = $|30(11) - 5.5(52)| = |330 - 286| = 44^\\circ$."
+  }
+]

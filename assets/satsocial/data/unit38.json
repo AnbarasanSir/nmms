@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "question": "இடம்பெயர்வுக்கான இழு காரணிகளாக அல்லாதவை எது?",
+    "options": [
+      "ஆரோக்கிய பராமரிப்பு",
+      "வேலைவாய்ப்பு",
+      "கல்வி",
+      "ஏழ்மை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a pull factor for migration?",
+    "options_en": [
+      "Healthcare",
+      "Employment",
+      "Education",
+      "Poverty"
+    ],
+    "explanation": "இடம்பெயர்வுக்கான இழு காரணிகளாக அல்லாதவை ஏழ்மை ஆகும்.",
+    "explanation_en": "Poverty is not a pull factor for migration."
+  },
+  {
+    "id": 2,
+    "question": "இடம்பெயர்வுக்கான உந்து காரணிகளாக அல்லாதவை எவை?",
+    "options": [
+      "காலநிலை பேரிடர்கள்",
+      "விவசாயிகளின் வாழ்க்கை",
+      "அமைதி",
+      "போர்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following are not push factors for migration?",
+    "options_en": [
+      "Climatic disasters",
+      "Farmers' life",
+      "Peace",
+      "War"
+    ],
+    "explanation": "இடம்பெயர்வுக்கான உந்து காரணிகளாக அல்லாதவை அமைதி ஆகும்.",
+    "explanation_en": "Peace are not push factors for migration."
+  },
+  {
+    "id": 3,
+    "question": "சர்வதேச இடம்பெயர்வு அறிக்கை 2017 ஆம் ஆண்டின் படி சர்வதேச அளவில் புலம்பெயர்ந்தோர் எண்ணிக்கை எங்கு அதிகம் உள்ளது?",
+    "options": [
+      "ஆப்பிரிக்கா",
+      "ஐரோப்பா",
+      "ஆசியா",
+      "ஆஸ்திரேலியா"
+    ],
+    "correct": 2,
+    "question_en": "According to the International Migration Report 2017, which region has the highest number of international migrants?",
+    "options_en": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "Australia"
+    ],
+    "explanation": "ஆசியா",
+    "explanation_en": "Asia"
+  },
+  {
+    "id": 4,
+    "question": "ஆண்களின் எண்ணிக்கையை விட பெண்களின் புலம்பெயர்ந்தோர் எண்ணிக்கை அதிகம் உள்ள நாடுகளில் தவறானது எது?",
+    "options": [
+      "ஐரோப்பிய நாடுகள்",
+      "இலத்தீன் அமெரிக்கா",
+      "ஆஸ்திரேலியா",
+      "ஆப்பிரிக்கா"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following regions is incorrect regarding having more female migrants than male migrants?",
+    "options_en": [
+      "European countries",
+      "Latin America",
+      "Australia",
+      "Africa"
+    ],
+    "explanation": "ஆண்களின் எண்ணிக்கையை விட பெண்களின் புலம்பெயர்ந்தோர் எண்ணிக்கை அதிகம் உள்ள நாடுகளில் தவறானது ஆப்பிரிக்கா ஆகும்.",
+    "explanation_en": "Africa"
+  },
+  {
+    "id": 5,
+    "question": "2017 ஆம் ஆண்டில் சர்வதேச புலம்பெயர்வில் இந்தியாவின் எண்ணிக்கை என்ன?",
+    "options": [
+      "13 மில்லியன்",
+      "15 மில்லியன்",
+      "17 மில்லியன்",
+      "19 மில்லியன்"
+    ],
+    "correct": 2,
+    "question_en": "What was the number of international migrants from India in the year 2017?",
+    "options_en": [
+      "13 million",
+      "15 million",
+      "17 million",
+      "19 million"
+    ],
+    "explanation": "17 மில்லியன்",
+    "explanation_en": "17 million"
+  },
+  {
+    "id": 6,
+    "question": "மந்தை இடமாற்றம் என்பது எந்த வகையைச் சார்ந்தது?",
+    "options": [
+      "நீண்டகால இடப்பெயர்வு",
+      "பருவகால இடப்பெயர்வு",
+      "குறுகிய கால இடப்பெயர்வு",
+      "எதுவும் அல்ல"
+    ],
+    "correct": 1,
+    "question_en": "Transhumance belongs to which type of migration?",
+    "options_en": [
+      "Long-term migration",
+      "Seasonal migration",
+      "Short-term migration",
+      "None of the above"
+    ],
+    "explanation": "பருவகால இடப்பெயர்வு",
+    "explanation_en": "Seasonal migration"
+  },
+  {
+    "id": 7,
+    "question": "இடம் பெயர்தலின் முக்கிய விளைவுகள் அல்லாதவை எது?",
+    "options": [
+      "மக்கள் தொகை விளைவுகள்",
+      "பொருளாதார விளைவுகள்",
+      "சமூக விளைவுகள்",
+      "சமய விளைவுகள்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a major consequence of migration?",
+    "options_en": [
+      "Demographic consequences",
+      "Economic consequences",
+      "Social consequences",
+      "Religious consequences"
+    ],
+    "explanation": "இடம் பெயர்தலின் முக்கிய விளைவுகள் அல்லாதவை சமய விளைவுகள் ஆகும்.",
+    "explanation_en": "Religious consequences is not a major consequence of migration."
+  },
+  {
+    "id": 8,
+    "question": "________ ஆம் ஆண்டு வரலாற்றில் முதன்முறையாக உலகளாவிய நகர்ப்புற மக்கள் தொகை ஊரக மக்கள் தொகையை விட அதிகரித்தது.",
+    "options": [
+      "2003",
+      "2005",
+      "2007",
+      "2009"
+    ],
+    "correct": 2,
+    "question_en": "In the year ________, for the first time in history, the global urban population exceeded the rural population.",
+    "options_en": [
+      "2003",
+      "2005",
+      "2007",
+      "2009"
+    ],
+    "explanation": "2007 ஆம் ஆண்டு வரலாற்றில் முதன்முறையாக உலகளாவிய நகர்ப்புற மக்கள் தொகை ஊரக மக்கள் தொகையை விட அதிகரித்தது.",
+    "explanation_en": "In the year 2007, for the first time in history, the global urban population exceeded the rural population."
+  },
+  {
+    "id": 9,
+    "question": "பண்டைய காலத்தில் நகரமயமாக்கலுக்கு முக்கிய காரணமாக இருந்தது எது?",
+    "options": [
+      "உணவு தானிய மிகை",
+      "போக்குவரத்து வசதி",
+      "உறைவிட வசதி",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "What was the main reason for urbanization in ancient times?",
+    "options_en": [
+      "Surplus food grains",
+      "Transport facility",
+      "Housing facility",
+      "All of the above"
+    ],
+    "explanation": "பண்டைய காலத்தில் நகரமயமாக்கலுக்கு முக்கிய காரணமாக இருந்தது உணவு தானிய மிகை ஆகும்.",
+    "explanation_en": "Surplus food grains"
+  },
+  {
+    "id": 10,
+    "question": "பண்டைய கால நகரமாக அல்லாதது எது?",
+    "options": [
+      "மொகஞ்சதாரோ",
+      "வெனிஸ்",
+      "ஏதென்ஸ்",
+      "தீப்ஸ்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not an ancient city?",
+    "options_en": [
+      "Mohenjo-Daro",
+      "Venice",
+      "Athens",
+      "Thebes"
+    ],
+    "explanation": "பண்டைய கால நகரமாக அல்லாதது வெனிஸ் ஆகும்.",
+    "explanation_en": "Venice is not an ancient city."
+  },
+  {
+    "id": 11,
+    "question": "1950 இல் உலகின் மக்கள் தொகையில், நகர மக்கள் தொகையின் சதவீதம் ________.",
+    "options": [
+      "20 %",
+      "30 %",
+      "40 %",
+      "50 %"
+    ],
+    "correct": 1,
+    "question_en": "In 1950, the percentage of the urban population in the world's population was ________.",
+    "options_en": [
+      "20 %",
+      "30 %",
+      "40 %",
+      "50 %"
+    ],
+    "explanation": "1950 இல் உலகின் மக்கள் தொகையில், நகர மக்கள் தொகையின் சதவீதம் 30 %.",
+    "explanation_en": "In 1950, the percentage of the urban population in the world's population was 30 %."
+  },
+  {
+    "id": 12,
+    "question": "உலகில் மக்கள் தொகை அதிகம் உள்ள கண்டம் எது?",
+    "options": [
+      "ஆசியா",
+      "ஆப்பிரிக்கா",
+      "ஐரோப்பா",
+      "வட அமெரிக்கா"
+    ],
+    "correct": 0,
+    "question_en": "Which is the most populous continent in the world?",
+    "options_en": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "North America"
+    ],
+    "explanation": "உலகில் மக்கள் தொகை அதிகம் உள்ள கண்டம் ஆசியா ஆகும்.",
+    "explanation_en": "Asia is the most populous continent in the world."
+  },
+  {
+    "id": 13,
+    "question": "உலகின் அதிக மக்கள் தொகை கொண்ட முதல் மாநகரம் எது?",
+    "options": [
+      "டோக்கியோ",
+      "புதுடில்லி",
+      "சாங்காய்",
+      "மெக்சிகோ"
+    ],
+    "correct": 0,
+    "question_en": "Which is the first most populated metropolitan city in the world?",
+    "options_en": [
+      "Tokyo",
+      "New Delhi",
+      "Shanghai",
+      "Mexico City"
+    ],
+    "explanation": "உலகின் அதிக மக்கள் தொகை கொண்ட முதல் மாநகரம் டோக்கியோ ஆகும்.",
+    "explanation_en": "Tokyo is the first most populated metropolitan city in the world."
+  },
+  {
+    "id": 14,
+    "question": "நகரமயமாதலின் விளைவுகளில் தவறானது எது?",
+    "options": [
+      "போக்குவரத்து நெரிசல்",
+      "தண்ணீர் விநியோகத்தில் பிரச்சினை",
+      "மாசடைதல்",
+      "சமய வழிபாட்டில் பிரச்சினை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is an incorrect consequence of urbanization?",
+    "options_en": [
+      "Traffic congestion",
+      "Water supply problem",
+      "Pollution",
+      "Religious worship problem"
+    ],
+    "explanation": "நகரமயமாதலின் விளைவுகளில் தவறானது சமய வழிபாட்டில் பிரச்சினை ஆகும்.",
+    "explanation_en": "Religious worship problem is an incorrect consequence of urbanization."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்க்கண்டவற்றுள் தவறானது எது?\nஅ. குடியேறுபவர் - சர்வதேச எல்லைக்கு வெளியில் இருந்து ஒரு புதிய நாட்டில் குடிபுகுபவர்கள்\nஆ. குடிபெயர்பவர் - தன்னுடைய நாட்டிலிருந்து வேறொரு நாட்டிற்கு குடியேறுபவர்",
+    "options": [
+      "அ மட்டும் தவறு",
+      "ஆ மட்டும் தவறு",
+      "இரண்டும் தவறு",
+      "இரண்டும் சரி"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is incorrect?\nA. Immigrant - Persons entering a new country from outside its international borders\nB. Emigrant - A person migrating from their own country to another country",
+    "options_en": [
+      "A only is wrong",
+      "B only is wrong",
+      "Both are wrong",
+      "Both are correct"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் தவறானது இரண்டும் தவறு ஆகும்.\nஅ. குடியேறுபவர் - சர்வதேச எல்லைக்கு வெளியில் இருந்து ஒரு புதிய நாட்டில் குடிபுகுபவர்கள்\nஆ. குடிபெயர்பவர் - தன்னுடைய நாட்டிலிருந்து வேறொரு நாட்டிற்கு குடியேறுபவர்",
+    "explanation_en": "Both are wrong is incorrect.\nA. Immigrant - Persons entering a new country from outside its international borders\nB. Emigrant - A person migrating from their own country to another country"
+  },
+  {
+    "id": 16,
+    "question": "மக்கள் இடம்பெயர்தலுக்கு வகைப்படுத்தப்பட்ட முக்கிய காரணிகள் எவை?\n1. சாதகமான காரணிகள் (இழு காரணிகள்)\n2. பாதகமான காரணிகள் (உந்து காரணிகள்)",
+    "options": [
+      "சாதகமான காரணிகள் (இழு காரணிகள்)",
+      "பாதகமான காரணிகள் (உந்து காரணிகள்)",
+      "(1) மற்றும் (2)",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "What are the main factors classified for human migration?\n1. Favorable factors (Pull factors)\n2. Unfavorable factors (Push factors)",
+    "options_en": [
+      "Favorable factors (Pull factors)",
+      "Unfavorable factors (Push factors)",
+      "(1) and (2)",
+      "None"
+    ],
+    "explanation": "மக்கள் இடம்பெயர்தலுக்கு வகைப்படுத்தப்பட்ட முக்கிய காரணிகள் (1) மற்றும் (2) ஆகும்.\n1. சாதகமான காரணிகள் (இழு காரணிகள்)\n2. பாதகமான காரணிகள் (உந்து காரணிகள்)",
+    "explanation_en": "(1) and (2)"
+  },
+  {
+    "id": 17,
+    "question": "இடம் பெயர்தலுக்கான சூழியல் அல்லது இயற்கை காரணங்கள் எவை?",
+    "options": [
+      "எரிமலை வெடிப்பு",
+      "நில அதிர்வு",
+      "வெள்ளம் மற்றும் வறட்சி",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "What are the ecological or natural causes for migration?",
+    "options_en": [
+      "Volcanic eruption",
+      "Earthquake",
+      "Flood and drought",
+      "All are correct"
+    ],
+    "explanation": "இடம் பெயர்தலுக்கான சூழியல் அல்லது இயற்கை காரணங்கள் அனைத்தும் சரி ஆகும்.",
+    "explanation_en": "All are correct"
+  },
+  {
+    "id": 18,
+    "question": "இடம் பெயர்தலுக்கான பொருளாதார காரணியாக அல்லாதது எது?",
+    "options": [
+      "தொழில்நுட்ப வளர்ச்சி",
+      "வேலைவாய்ப்பு",
+      "வறட்சி",
+      "வளமான வேளாண் நிலம்"
+    ],
+    "correct": 2,
+    "question_en": "Which is not an economic factor for migration?",
+    "options_en": [
+      "Technological development",
+      "Employment",
+      "Drought",
+      "Fertile agricultural land"
+    ],
+    "explanation": "இடம் பெயர்தலுக்கான பொருளாதார காரணியாக அல்லாதது வறட்சி ஆகும்.",
+    "explanation_en": "Drought is not an economic factor for migration."
+  },
+  {
+    "id": 19,
+    "question": "இடம் பெயர்தலுக்கான சமூக மற்றும் பண்பாட்டுக் காரணங்கள் எவை?\n1. பெண்களின் திருமணத்திற்கு பின் இடம்பெயர்வு\n2. புனித யாத்திரைகளுடன் தொடர்புடைய இடம்பெயர்தல்",
+    "options": [
+      "பெண்களின் திருமணத்திற்கு பின் இடம்பெயர்வு",
+      "புனித யாத்திரைகளுடன் தொடர்புடைய இடம்பெயர்தல்",
+      "(1) மற்றும் (2)",
+      "இரண்டுமே தவறு"
+    ],
+    "correct": 2,
+    "question_en": "What are the socio-cultural causes for migration?\n1. Migration of women after marriage\n2. Migration associated with pilgrimages",
+    "options_en": [
+      "Migration of women after marriage",
+      "Migration associated with pilgrimages",
+      "(1) and (2)",
+      "Both are wrong"
+    ],
+    "explanation": "இடம் பெயர்தலுக்கான சமூக மற்றும் பண்பாட்டுக் காரணங்கள் (1) மற்றும் (2) ஆகும்.\n1. பெண்களின் திருமணத்திற்கு பின் இடம்பெயர்வு\n2. புனித யாத்திரைகளுடன் தொடர்புடைய இடம்பெயர்தல்",
+    "explanation_en": "(1) and (2)"
+  },
+  {
+    "id": 20,
+    "question": "பின்வருவற்றுள் இடம்பெயர்தலுக்கான மக்கள் தொகை சார்ந்த காரணமாக அமையாதது எது?",
+    "options": [
+      "காலனி ஆதிக்கம்",
+      "வயது",
+      "பாலினம்",
+      "குறைந்த மக்கள் தொகை"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is not a demographic reason for migration?",
+    "options_en": [
+      "Colonialism",
+      "Age",
+      "Sex",
+      "Underpopulation"
+    ],
+    "explanation": "பின்வருவற்றுள் இடம்பெயர்தலுக்கான மக்கள் தொகை சார்ந்த காரணமாக அமையாதது காலனி ஆதிக்கம் ஆகும்.",
+    "explanation_en": "Colonialism is not a demographic reason for migration."
+  },
+  {
+    "id": 21,
+    "question": "ஐக்கிய நாடுகள் சபையின் சர்வதேச இடம்பெயர்வு அறிக்கை வெளியிடப்பட்ட ஆண்டு?",
+    "options": [
+      "2017",
+      "2015",
+      "2016",
+      "2018"
+    ],
+    "correct": 0,
+    "question_en": "In which year was the International Migration Report published by the United Nations?",
+    "options_en": [
+      "2017",
+      "2015",
+      "2016",
+      "2018"
+    ],
+    "explanation": "2017",
+    "explanation_en": "2017"
+  },
+  {
+    "id": 22,
+    "question": "கூற்றுகளை ஆராய்க:\nகூற்று 1: ஐரோப்பா, வட அமெரிக்கா, ஆஸ்திரேலியா, லத்தீன் அமெரிக்கா கரீபியன் போன்ற நாடுகளில் புலம் பெயர்ந்தோரில் பெண்களை விட ஆண்களே அதிகம்.\nகூற்று 2: ஆப்பிரிக்கா மற்றும் ஆசியா குறிப்பாக மேற்கு ஆசியாவிலும் பெண்களை விட ஆண்களே அதிகம்.",
+    "options": [
+      "கூற்று 1 மற்றும் 2 சரி",
+      "கூற்று 1 மற்றும் 2 தவறு",
+      "கூற்று 1 மட்டும் சரி",
+      "கூற்று 2 மட்டும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Consider the statements:\nStatement 1: In countries like Europe, North America, Australia, Latin America and the Caribbean, female migrants outnumber male migrants.\nStatement 2: In Africa and Asia, especially Western Asia, males outnumber females among migrants.",
+    "options_en": [
+      "Statements 1 and 2 are correct",
+      "Statements 1 and 2 are wrong",
+      "Only Statement 1 is correct",
+      "Only Statement 2 is correct"
+    ],
+    "explanation": "கூற்று 2 மட்டும் சரி",
+    "explanation_en": "Only Statement 2 is correct"
+  },
+  {
+    "id": 23,
+    "question": "மக்களின் விருப்பத்திற்கு மாறாக இடம்பெயர்வு நடைபெறுமாயின் அது ________ இடம்பெயர்வு என அழைக்கப்படுகிறது.",
+    "options": [
+      "அனிச்சையான",
+      "விருப்பமிகு",
+      "குறுகியகால",
+      "அத்தியாவசிய"
+    ],
+    "correct": 0,
+    "question_en": "If migration occurs against the will of the people, it is called ________ migration.",
+    "options_en": [
+      "Involuntary",
+      "Voluntary",
+      "Short-term",
+      "Essential"
+    ],
+    "explanation": "மக்களின் விருப்பத்திற்கு மாறாக இடம்பெயர்வு நடைபெறுமாயின் அது அனிச்சையான இடம்பெயர்வு என அழைக்கப்படுகிறது.",
+    "explanation_en": "If migration occurs against the will of the people, it is called Involuntary migration."
+  },
+  {
+    "id": 24,
+    "question": "மக்கள் கால்நடைகளுடன் இடம் பெயர்தல் எவ்வாறு அழைக்கப்படுகிறது?",
+    "options": [
+      "தன்னார்வ இடம்பெயர்வு",
+      "நீண்ட கால இடம்பெயர்வு",
+      "மந்தை இடமாற்றம்",
+      "காலநிலை இடமாற்றம்"
+    ],
+    "correct": 2,
+    "question_en": "The movement of people along with their livestock is called?",
+    "options_en": [
+      "Voluntary migration",
+      "Long-term migration",
+      "Transhumance",
+      "Climatic migration"
+    ],
+    "explanation": "மந்தை இடமாற்றம்",
+    "explanation_en": "Transhumance"
+  },
+  {
+    "id": 25,
+    "question": "பின்வருவனவற்றுள் சரியான இணை எது?\nஆண்டு - புலம் பெயர்ந்தோரின் எண்ணிக்கை",
+    "options": [
+      "2000 - 173 மில்லியன்",
+      "2010 - 258 மில்லியன்",
+      "2017 - 220 மில்லியன்",
+      "2018 - 180 மில்லியன்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is a correct pair?\nYear - Number of migrants",
+    "options_en": [
+      "2000 - 173 million",
+      "2010 - 258 million",
+      "2017 - 220 million",
+      "2018 - 180 million"
+    ],
+    "explanation": "பின்வருவனவற்றுள் சரியான இணை 2000 - 173 மில்லியன் ஆகும்.\nஆண்டு - புலம் பெயர்ந்தோரின் எண்ணிக்கை",
+    "explanation_en": "2000 - 173 million is a correct pair.\nYear - Number of migrants"
+  },
+  {
+    "id": 26,
+    "question": "நகரங்கள் மற்றும் மாநகரங்களில் வாழும் மக்கள் தொகையின் விகிதாச்சாரம் அதிகரிப்பதை ________ என்கிறோம்.",
+    "options": [
+      "நகர வளர்ச்சி",
+      "நகரமயமாதல்",
+      "மக்கள் தொகை வளர்ச்சி",
+      "மக்கள் அதிகமான இடம்பெயர்வு"
+    ],
+    "correct": 1,
+    "question_en": "The increasing proportion of population living in towns and cities is known as ________.",
+    "options_en": [
+      "Urban growth",
+      "Urbanization",
+      "Population growth",
+      "Mass migration of people"
+    ],
+    "explanation": "நகரங்கள் மற்றும் மாநகரங்களில் வாழும் மக்கள் தொகையின் விகிதாச்சாரம் அதிகரிப்பதை நகரமயமாதல் என்கிறோம்.",
+    "explanation_en": "The increasing proportion of population living in towns and cities is known as Urbanization."
+  },
+  {
+    "id": 27,
+    "question": "நகரமயமாதலுக்கான காரணங்கள் கீழ்க்கண்டவற்றுள் எது சரி?\nஅ. இயற்கையான மக்கள் தொகை வளர்ச்சி.\nஆ. ஊரகத்திலிருந்து நகர்ப்புறங்களுக்கு இடம்பெயர்தல்.\nஇ. நகர்ப்புறங்களை ஊரகப் பகுதிகளாக மறுசீரமைப்பு செய்தல்.",
+    "options": [
+      "அ மற்றும் ஆ சரி",
+      "ஆ மற்றும் இ சரி",
+      "அ மற்றும் இ சரி",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following are correct reasons for urbanization?\nA. Natural population growth.\nB. Rural to urban migration.\nC. Reclassification of rural areas into urban areas.",
+    "options_en": [
+      "A and B are correct",
+      "B and C are correct",
+      "A and C are correct",
+      "All are correct"
+    ],
+    "explanation": "அ மற்றும் ஆ சரி",
+    "explanation_en": "A and B are correct are correct reasons for urbanization.\nA. Natural population growth.\nB. Rural to urban migration.\nC. Reclassification of rural areas into urban areas."
+  },
+  {
+    "id": 28,
+    "question": "உலக நகரமயமாக்கல் விளக்கக் குறிப்பு வெளியிடப்பட்ட ஆண்டு எது?",
+    "options": [
+      "2014",
+      "2012",
+      "2017",
+      "2015"
+    ],
+    "correct": 0,
+    "question_en": "In which year was the World Urbanization Prospects published?",
+    "options_en": [
+      "2014",
+      "2012",
+      "2017",
+      "2015"
+    ],
+    "explanation": "உலக நகரமயமாக்கல் விளக்கக் குறிப்பு வெளியிடப்பட்ட ஆண்டு 2014 ஆகும்.",
+    "explanation_en": "2014"
+  },
+  {
+    "id": 29,
+    "question": "பண்டைய காலத்தில் நகர்ப்புற மையங்களின் அளவு மற்றும் எண்ணிக்கை யாருடைய பெரும் காலனியாதிக்க காலங்களில் அதிகரிக்கத் தொடங்கியது?",
+    "options": [
+      "கிரேக்கர்கள்",
+      "ரோமானியர்கள்",
+      "(1) மற்றும் (2)",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "During ancient times, the size and number of urban centers began to increase during the great colonial periods of whom?",
+    "options_en": [
+      "Greeks",
+      "Romans",
+      "(1) and (2)",
+      "None"
+    ],
+    "explanation": "(1) மற்றும் (2)",
+    "explanation_en": "(1) and (2)"
+  },
+  {
+    "id": 30,
+    "question": "________ ஆம் நூற்றாண்டின் தொடக்கத்திலேயே ஏஜியன் கடலுக்கு அருகில் பல நகரங்கள் காணப்பட்டன.",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "question_en": "Many cities were found near the Aegean Sea as early as the beginning of the ________ century.",
+    "options_en": [
+      "6th",
+      "7th",
+      "5th",
+      "8th"
+    ],
+    "explanation": "7 ஆம் நூற்றாண்டின் தொடக்கத்திலேயே ஏஜியன் கடலுக்கு அருகில் பல நகரங்கள் காணப்பட்டன.",
+    "explanation_en": "Many cities were found near the Aegean Sea as early as the beginning of the 7th century."
+  },
+  {
+    "id": 31,
+    "question": "இந்தியா, சீனா மற்றும் நைஜீரியா நாடுகளில் 2018 - 2050 ஆம் ஆண்டுகளுக்கு இடைப்பட்ட காலத்தில் உலக நகர்ப்புற மக்கள் தொகை வளர்ச்சியில் எத்தனை சதவீதத்தைப் பெற்றிருக்கும் என எதிர்பார்க்கப்படுகிறது?",
+    "options": [
+      "20",
+      "34",
+      "35",
+      "45"
+    ],
+    "correct": 2,
+    "question_en": "What percentage of the global urban population growth is expected to be accounted for by India, China, and Nigeria between 2018 and 2050?",
+    "options_en": [
+      "20",
+      "34",
+      "35",
+      "45"
+    ],
+    "explanation": "35",
+    "explanation_en": "35"
+  },
+  {
+    "id": 32,
+    "question": "தவறானதைத் தேர்ந்தெடு: (2018 - 2050 இல் எதிர்பார்க்கப்படும் நகர்ப்புற மக்கள் தொகை)",
+    "options": [
+      "இந்தியா - 416 மில்லியன்",
+      "சீனா - 255 மில்லியன்",
+      "டோக்கியோ - 188 மில்லியன்",
+      "நைஜீரியா - 159 மில்லியன்"
+    ],
+    "correct": 2,
+    "question_en": "Choose the incorrect option: (Expected urban population in 2018 - 2050)",
+    "options_en": [
+      "India - 416 million",
+      "China - 255 million",
+      "Tokyo - 188 million",
+      "Nigeria - 159 million"
+    ],
+    "explanation": "டோக்கியோ - 188 மில்லியன்",
+    "explanation_en": "Tokyo - 188 million"
+  },
+  {
+    "id": 33,
+    "question": "இடைக்காலம் ________ ஆம் நூற்றாண்டுக்கு பிந்தைய காலத்தைக் குறிக்கிறது.",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "13"
+    ],
+    "correct": 2,
+    "question_en": "The Medieval period refers to the time after the ________ century.",
+    "options_en": [
+      "12th",
+      "10th",
+      "11th",
+      "13th"
+    ],
+    "explanation": "இடைக்காலம் 11 ஆம் நூற்றாண்டுக்கு பிந்தைய காலத்தைக் குறிக்கிறது.",
+    "explanation_en": "The Medieval period refers to the time after the 11th century."
+  },
+  {
+    "id": 34,
+    "question": "13 ஆம் நூற்றாண்டின் இறுதியில் ஐரோப்பாவில் காணப்படாத நகரம் எது?",
+    "options": [
+      "பாரிஸ்",
+      "இலண்டன்",
+      "ஜெனிவா",
+      "அமெரிக்கா"
+    ],
+    "correct": 3,
+    "question_en": "Which was not a city found in Europe at the end of the 13th century?",
+    "options_en": [
+      "Paris",
+      "London",
+      "Geneva",
+      "America"
+    ],
+    "explanation": "13 ஆம் நூற்றாண்டின் இறுதியில் ஐரோப்பாவில் காணப்படாத நகரம் அமெரிக்கா ஆகும்.",
+    "explanation_en": "America"
+  },
+  {
+    "id": 35,
+    "question": "நகரமயமாக்கலின் மூன்றாம் கட்ட வளர்ச்சியைக் குறிப்பது எது?",
+    "options": [
+      "இடைக்காலம்",
+      "நகரமயமாதல் காலம்",
+      "நவீன கால நகரம்",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 2,
+    "question_en": "Which signifies the third phase of urbanization development?",
+    "options_en": [
+      "Medieval period",
+      "Period of urbanization",
+      "Modern period cities",
+      "All are correct"
+    ],
+    "explanation": "நகரமயமாக்கலின் மூன்றாம் கட்ட வளர்ச்சியைக் குறிப்பது நவீன கால நகரம் ஆகும்.",
+    "explanation_en": "Modern period cities"
+  },
+  {
+    "id": 36,
+    "question": "1950 இல் உலகின் மக்கள் தொகையில் எத்தனை சதவீதம் நகர மக்கள் தொகையாகும்?",
+    "options": [
+      "45",
+      "30",
+      "35",
+      "50"
+    ],
+    "correct": 1,
+    "question_en": "In 1950, what percentage of the world's population was urban?",
+    "options_en": [
+      "45",
+      "30",
+      "35",
+      "50"
+    ],
+    "explanation": "30",
+    "explanation_en": "30"
+  },
+  {
+    "id": 37,
+    "question": "2050 இல் நகர மக்கள் தொகை எத்தனை சதவீதம் உயரும் என கணக்கிடப்பட்டுள்ளது?",
+    "options": [
+      "68",
+      "60",
+      "80",
+      "75"
+    ],
+    "correct": 0,
+    "question_en": "It is estimated that the urban population will rise to what percentage in 2050?",
+    "options_en": [
+      "68",
+      "60",
+      "80",
+      "75"
+    ],
+    "explanation": "68",
+    "explanation_en": "68"
+  },
+  {
+    "id": 38,
+    "question": "பொருத்துக: உலக நகரமயமாக்கல் %\nஅ. வட அமெரிக்கா - a. 50\nஆ. ஓசியானியா - b. 82\nஇ. ஆசியா - c. 43\nஈ. ஆப்பிரிக்கா - d. 68\nஉ. ஐரோப்பா - e. 74",
+    "options": [
+      "d b a c e",
+      "b e a c d",
+      "b d a c e",
+      "d c b e b"
+    ],
+    "correct": 2,
+    "question_en": "Match: Global Urbanization %\nA. North America - a. 50\nB. Oceania - b. 82\nC. Asia - c. 43\nD. Africa - d. 68\nE. Europe - e. 74",
+    "options_en": [
+      "A-d, B-b, C-a, D-c, E-e",
+      "A-b, B-e, C-a, D-c, E-d",
+      "A-b, B-d, C-a, D-c, E-e",
+      "A-d, B-c, C-b, D-e, E-b"
+    ],
+    "explanation": "b d a c e",
+    "explanation_en": "A-b, B-d, C-a, D-c, E-e"
+  },
+  {
+    "id": 39,
+    "question": "சரியான இணையைப் பொருத்துக: (அதிக மக்கள் தொகை கொண்ட உலகின் முதல் ஐந்து மாநகரங்கள்)",
+    "options": [
+      "டோக்கியோ - 29 மில்லியன்",
+      "புது தில்லி - 22 மில்லியன்",
+      "சாங்காய் - 26 மில்லியன்",
+      "மெக்சிகோ - 37 மில்லியன்"
+    ],
+    "correct": 2,
+    "question_en": "Match the correct pair: (Top five most populous metropolitan cities in the world)",
+    "options_en": [
+      "Tokyo - 29 million",
+      "New Delhi - 22 million",
+      "Shanghai - 26 million",
+      "Mexico City - 37 million"
+    ],
+    "explanation": "சாங்காய் - 26 மில்லியன்",
+    "explanation_en": "Shanghai - 26 million"
+  },
+  {
+    "id": 40,
+    "question": "தவறான இணையைக் கண்டறிக: (சர்வதேச புலம்பெயர்ந்தோர் சதவீதம்)",
+    "options": [
+      "ஆப்பிரிக்கா - 41 %",
+      "ஐரோப்பா - 23.7 %",
+      "வட அமெரிக்கா - 1.7 %",
+      "ஓசியானியா - 0.7 %"
+    ],
+    "correct": 0,
+    "question_en": "Identify the incorrect pair: (Percentage of international migrants)",
+    "options_en": [
+      "Africa - 41 %",
+      "Europe - 23.7 %",
+      "North America - 1.7 %",
+      "Oceania - 0.7 %"
+    ],
+    "explanation": "ஆப்பிரிக்கா - 41 %",
+    "explanation_en": "Africa - 41 %"
+  },
+  {
+    "id": 41,
+    "question": "மண்டல வாரியான உலக மக்கள் தொகையில் லத்தீன் அமெரிக்கா மற்றும் கரீபியனின் சதவீதம் என்ன?",
+    "options": [
+      "16.6 %",
+      "59.7 %",
+      "8.6 %",
+      "9.8 %"
+    ],
+    "correct": 2,
+    "question_en": "What is the percentage of Latin America and the Caribbean in the region-wise global population?",
+    "options_en": [
+      "16.6 %",
+      "59.7 %",
+      "8.6 %",
+      "9.8 %"
+    ],
+    "explanation": "8.6 %",
+    "explanation_en": "8.6 % is the percentage of Latin America and the Caribbean in the region-wise global population."
+  },
+  {
+    "id": 42,
+    "question": "பொருத்துக: (உலக மக்கள் தொகையில் சதவீதம்)\na. ஆப்பிரிக்கா - அ. 4.8 (%)\nb. ஆசியா - ஆ. 9.8 (%)\nc. ஐரோப்பா - இ. 0.5 (%)\nd. வட அமெரிக்கா - ஈ. 16.6 (%)\ne. ஓசியானியா - உ. 59.7 (%)",
+    "options": [
+      "a-ஆ, b-உ, c-ஈ, d-அ, e-இ",
+      "a-ஈ, b-உ, c-ஆ, d-அ, e-இ",
+      "a-ஆ, b-இ, c-உ, d-அ, e-ஈ",
+      "a-ஈ, b-அ, c-ஆ, d-அ, e-உ"
+    ],
+    "correct": 1,
+    "question_en": "Match: (Percentage in world population)\na. Africa - i. 4.8 (%)\nb. Asia - ii. 9.8 (%)\nc. Europe - iii. 0.5 (%)\nd. North America - iv. 16.6 (%)\ne. Oceania - v. 59.7 (%)",
+    "options_en": [
+      "a-ii, b-v, c-iv, d-i, e-iii",
+      "a-iv, b-v, c-ii, d-i, e-iii",
+      "a-ii, b-iii, c-v, d-i, e-iv",
+      "a-iv, b-i, c-ii, d-i, e-v"
+    ],
+    "explanation": "a-ஈ, b-உ, c-ஆ, d-அ, e-இ",
+    "explanation_en": "a-iv, b-v, c-ii, d-i, e-iii"
+  },
+  {
+    "id": 43,
+    "question": "இடம் பெயர்தலின் விளைவுகளுள் கீழ்க்காண்பவற்றுள் எது சரி?",
+    "options": [
+      "மக்கள் தொகை விளைவுகள்",
+      "சமூக விளைவுகள்",
+      "பொருளாதார விளைவுகள்",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is correct among the consequences of migration?",
+    "options_en": [
+      "Demographic consequences",
+      "Social consequences",
+      "Economic consequences",
+      "All are correct"
+    ],
+    "explanation": "அனைத்தும் சரி",
+    "explanation_en": "All are correct is correct among the consequences of migration."
+  },
+  {
+    "id": 44,
+    "question": "சொந்த நாட்டில் இருந்து மற்றொரு நாட்டிற்கு இடம்பெயரும் ஒரு நபர் ----- என அழைக்கப்படுகிறார்.",
+    "options": [
+      "குடிபுகுபவர்",
+      "அகதி",
+      "குடியேறுபவர்",
+      "புகலிடம் தேடுபவர்"
+    ],
+    "correct": 2,
+    "question_en": "A person migrating from his own country to another country is called an -----.",
+    "options_en": [
+      "Immigrant",
+      "Refugee",
+      "Emigrant",
+      "Asylum seeker"
+    ],
+    "explanation": "குடியேறுபவர்",
+    "explanation_en": "Emigrant"
+  },
+  {
+    "id": 45,
+    "question": "வளம் மிகுந்த வேளாண்மை நிலம் தேடி இடம்பெயர்தல் நடைபெறுவது ________.",
+    "options": [
+      "கிராமத்தில் இருந்து கிராமத்திற்கு",
+      "கிராமத்தில் இருந்து நகரத்திற்கு",
+      "நகரத்தில் இருந்து கிராமத்திற்கு",
+      "நகரத்தில் இருந்து நகரத்திற்கு"
+    ],
+    "correct": 0,
+    "question_en": "Migration in search of fertile agricultural land generally occurs from ________.",
+    "options_en": [
+      "Rural to Rural",
+      "Rural to Urban",
+      "Urban to Rural",
+      "Urban to Urban"
+    ],
+    "explanation": "வளம் மிகுந்த வேளாண்மை நிலம் தேடி இடம்பெயர்தல் நடைபெறுவது கிராமத்தில் இருந்து கிராமத்திற்கு.",
+    "explanation_en": "Migration in search of fertile agricultural land generally occurs from Rural to Rural."
+  },
+  {
+    "id": 46,
+    "question": "போரின் காரணமாக நடைபெறும் குடிபெயர்வு ________ சார்ந்தது.",
+    "options": [
+      "மக்களியல்",
+      "சமூக மற்றும் கலாச்சாரம்",
+      "அரசியல்",
+      "பொருளாதாரம்"
+    ],
+    "correct": 2,
+    "question_en": "Migration due to war is based on ________ causes.",
+    "options_en": [
+      "Demographic",
+      "Socio-cultural",
+      "Political",
+      "Economic"
+    ],
+    "explanation": "போரின் காரணமாக நடைபெறும் குடிபெயர்வு அரசியல் சார்ந்தது.",
+    "explanation_en": "Migration due to war is based on Political causes."
+  },
+  {
+    "id": 47,
+    "question": "வரலாற்றுக்கு முந்தைய காலத்தில் நகரமயமாக்கலுக்கு முக்கிய காரணம் ___",
+    "options": [
+      "உணவு தானிய மிகை உற்பத்தி",
+      "கால்நடை வளர்ப்பு",
+      "மீன் பிடித்தல்",
+      "வேட்டையாடுதல்"
+    ],
+    "correct": 0,
+    "question_en": "The main reason for urbanization in prehistoric times was ___",
+    "options_en": [
+      "Surplus production of food grains",
+      "Cattle rearing",
+      "Fishing",
+      "Hunting"
+    ],
+    "explanation": "வரலாற்றுக்கு முந்தைய காலத்தில் நகரமயமாக்கலுக்கு முக்கிய காரணம் உணவு தானிய மிகை உற்பத்தி",
+    "explanation_en": "The main reason for urbanization in prehistoric times was Surplus production of food grains"
+  },
+  {
+    "id": 48,
+    "question": "நகரமயமாதல் ________ எண்ணிக்கையிலான காரணிகளால் தீர்மானிக்கப்படுகின்றன.",
+    "options": [
+      "3",
+      "2",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "question_en": "Urbanization is driven by ________ number of factors.",
+    "options_en": [
+      "3",
+      "2",
+      "5",
+      "6"
+    ],
+    "explanation": "நகரமயமாதல் 3 எண்ணிக்கையிலான காரணிகளால் தீர்மானிக்கப்படுகின்றன.",
+    "explanation_en": "Urbanization is driven by 3 number of factors."
+  },
+  {
+    "id": 49,
+    "question": "________ என்பது கிராமப்புற பகுதிகளில் செயல்படும் முக்கிய உந்துக் காரணியாகும்.",
+    "options": [
+      "வேலைவாய்ப்பின்மை",
+      "மக்கள் தொகை பெருக்கம்",
+      "விவசாயமின்மை",
+      "மழையின்மை"
+    ],
+    "correct": 0,
+    "question_en": "________ is a major push factor operating in rural areas.",
+    "options_en": [
+      "Unemployment",
+      "Population explosion",
+      "Lack of agriculture",
+      "Lack of rainfall"
+    ],
+    "explanation": "வேலைவாய்ப்பின்மை என்பது கிராமப்புற பகுதிகளில் செயல்படும் முக்கிய உந்துக் காரணியாகும்.",
+    "explanation_en": "Unemployment is a major push factor operating in rural areas."
+  },
+  {
+    "id": 50,
+    "question": "இந்தியாவின் ________ மாநகரம் உலகிலேயே இரண்டாவது அதிக நகர மக்கள் தொகையைக் கொண்டது.",
+    "options": [
+      "மும்பை",
+      "சென்னை",
+      "கல்கத்தா",
+      "புது டெல்லி"
+    ],
+    "correct": 3,
+    "question_en": "India's ________ metropolitan city has the second largest urban population in the world.",
+    "options_en": [
+      "Mumbai",
+      "Chennai",
+      "Kolkata",
+      "New Delhi"
+    ],
+    "explanation": "இந்தியாவின் புது டெல்லி மாநகரம் உலகிலேயே இரண்டாவது அதிக நகர மக்கள் தொகையைக் கொண்டது.",
+    "explanation_en": "India's New Delhi metropolitan city has the second largest urban population in the world."
+  },
+  {
+    "id": 51,
+    "question": "ஒரு நபர் தன்னார்வத்துடனும் விருப்பத்துடனும் நல்ல வசிப்பிடம் தேடி இடம்பெயர்தல் ________ இடம்பெயர்வு எனப்படும்.",
+    "options": [
+      "தன்னார்வ இடம்பெயர்வு",
+      "சர்வதேச இடம்பெயர்வு",
+      "உள்நாட்டு இடம்பெயர்வு",
+      "தன்னார்வமில்லா இடம்பெயர்வு"
+    ],
+    "correct": 0,
+    "question_en": "Migration of a person voluntarily and willingly in search of better living conditions is called ________ migration.",
+    "options_en": [
+      "Voluntary migration",
+      "International migration",
+      "Internal migration",
+      "Involuntary migration"
+    ],
+    "explanation": "ஒரு நபர் தன்னார்வத்துடனும் விருப்பத்துடனும் நல்ல வசிப்பிடம் தேடி இடம்பெயர்தல் தன்னார்வ இடம்பெயர்வு இடம்பெயர்வு எனப்படும்.",
+    "explanation_en": "Migration of a person voluntarily and willingly in search of better living conditions is called Voluntary migration migration."
+  },
+  {
+    "id": 52,
+    "question": "நவீன காலத்தில் நகர்ப்புற வளர்ச்சி ________ வளர்ச்சியால் அதிகரிக்கிறது.",
+    "options": [
+      "குடியேற்றம்",
+      "வேலைவாய்ப்பு",
+      "தொழிற்புரட்சி",
+      "நகரமயமாதல்"
+    ],
+    "correct": 2,
+    "question_en": "Urban growth in modern times is accelerated by the development of ________.",
+    "options_en": [
+      "Immigration",
+      "Employment",
+      "Industrial Revolution",
+      "Urbanization"
+    ],
+    "explanation": "நவீன காலத்தில் நகர்ப்புற வளர்ச்சி தொழிற்புரட்சி வளர்ச்சியால் அதிகரிக்கிறது.",
+    "explanation_en": "Urban growth in modern times is accelerated by the development of Industrial Revolution."
+  },
+  {
+    "id": 53,
+    "question": "தவறான இணையைக் கண்டறிக:",
+    "options": [
+      "குடியேற்றம் - வெளியேறுதல்",
+      "குடியிறக்கம் - குடிபுகுபவர்",
+      "இழு காரணி - வேலைவாய்ப்பு",
+      "உந்து காரணி - சமூக மற்றும் பண்பாட்டு இடம்பெயர்வு"
+    ],
+    "correct": 3,
+    "question_en": "Find the incorrect pair:",
+    "options_en": [
+      "Emigration - Moving out",
+      "Immigration - Immigrant",
+      "Pull factor - Employment",
+      "Push factor - Socio-cultural migration"
+    ],
+    "explanation": "உந்து காரணி - சமூக மற்றும் பண்பாட்டு இடம்பெயர்வு",
+    "explanation_en": "Push factor - Socio-cultural migration"
+  },
+  {
+    "id": 54,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள கூற்றையும் காரணத்தையும் ஆராய்க:\nகூற்று: நகரமயமாதல் முக்கியமாக கிராமப்புற மக்கள் நகர்ப்புறத்திற்கு இடம் பெயர்வதால் ஏற்படுவதாகும்.\nகாரணம்: கிராமத்தில் இருந்து நகரத்திற்கு இடம் பெயர்தல் முதன்மையான ஒன்று அல்ல.",
+    "options": [
+      "கூற்று சரி ஆனால் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+      "கூற்று தவறு ஆனால் காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Examine the following statement and reason:\nStatement: Urbanization is mainly caused by the migration of rural people to urban areas.\nReason: Rural to urban migration is not a primary factor.",
+    "options_en": [
+      "Statement is correct but reason is wrong",
+      "Both statement and reason are wrong",
+      "Both statement and reason are correct",
+      "Statement is wrong but reason is correct"
+    ],
+    "explanation": "கூற்று சரி ஆனால் காரணம் தவறு",
+    "explanation_en": "Statement is correct but reason is wrong"
+  },
+  {
+    "id": 55,
+    "question": "ஒரு நாட்டின் எல்லைகளை கடந்து நடக்கும் இடம் பெயர்தல் ________ ஆகும்.",
+    "options": [
+      "உள்நாட்டு இடப்பெயர்வு",
+      "சர்வதேச இடப்பெயர்வு",
+      "ஊரகத்திலிருந்து நகர்ப்புறம் நோக்கி இடப்பெயர்வு",
+      "நகரத்திலிருந்து ஊரகம் நோக்கி இடப்பெயர்வு"
+    ],
+    "correct": 1,
+    "question_en": "Migration that occurs across the borders of a country is ________.",
+    "options_en": [
+      "Internal migration",
+      "International migration",
+      "Rural to urban migration",
+      "Urban to rural migration"
+    ],
+    "explanation": "ஒரு நாட்டின் எல்லைகளை கடந்து நடக்கும் இடம் பெயர்தல் சர்வதேச இடப்பெயர்வு ஆகும்.",
+    "explanation_en": "Migration that occurs across the borders of a country is International migration."
+  },
+  {
+    "id": 56,
+    "question": "________ ஆம் நூற்றாண்டில் உருவான தொழிற்புரட்சி நகரங்கள் மற்றும் மாநகரங்களின் வளர்ச்சியை துரிதப்படுத்தியது.",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "17"
+    ],
+    "correct": 1,
+    "question_en": "The Industrial Revolution in the ________ century accelerated the growth of towns and cities.",
+    "options_en": [
+      "18th",
+      "19th",
+      "20th",
+      "17th"
+    ],
+    "explanation": "19 ஆம் நூற்றாண்டில் உருவான தொழிற்புரட்சி நகரங்கள் மற்றும் மாநகரங்களின் வளர்ச்சியை துரிதப்படுத்தியது.",
+    "explanation_en": "The Industrial Revolution in the 19th century accelerated the growth of towns and cities."
+  },
+  {
+    "id": 57,
+    "question": "பின்வருவற்றுள் சரியானவற்றைத் தேர்ந்தெடு:\n1. இடைக்காலம் என்பது 11 ஆம் நூற்றாண்டுக்கு பிந்தைய காலத்தைக் குறிக்கிறது. இக்காலகட்டத்தில் ஐரோப்பிய நாடுகளின் கடல் கடந்த வணிகம் அதிகரித்தது.\n2. நவீன காலம் என்பது 17 ஆம் நூற்றாண்டிலிருந்து தொடங்குகிறது. இது நகரமயமாதலின் மூன்றாம் கட்ட வளர்ச்சியைக் குறிக்கிறது.",
+    "options": [
+      "இடைக்காலம் என்பது 11 ஆம் நூற்றாண்டுக்கு பிந்தைய காலத்தைக் குறிக்கிறது...",
+      "நவீன காலம் என்பது 17 ஆம் நூற்றாண்டிலிருந்து தொடங்குகிறது...",
+      "(1) மற்றும் (2)",
+      "இரண்டுமே தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statements from the following:\n1. The Medieval period refers to the time after the 11th century. During this period, the overseas trade of European countries expanded.\n2. The Modern period begins from the 17th century. It marks the third phase of development in urbanization.",
+    "options_en": [
+      "The Medieval period refers to the time after the 11th century...",
+      "The Modern period begins from the 17th century...",
+      "(1) and (2)",
+      "Both are wrong"
+    ],
+    "explanation": "(1) மற்றும் (2)",
+    "explanation_en": "(1) and (2)"
+  },
+  {
+    "id": 58,
+    "question": "கூற்று: அறிவார்ந்த மக்கள் வெளியேறுதல் என்பது பின்தங்கிய நாடுகளை சார்ந்த தொழிற்திறன் கொண்ட மக்கள் சிறந்த வேலை வாய்ப்புகளை தேடி வளர்ந்த நாடுகளுக்கு செல்கின்றனர்.\nவிளைவு: பூர்வீக பகுதிகள் பின்தங்கிய நிலையை அடைகின்றன.",
+    "options": [
+      "கூற்று சரி ஆனால் விளைவு தவறு",
+      "கூற்று தவறு ஆனால் விளைவு சரி",
+      "கூற்று மற்றும் விளைவு இரண்டுமே சரி",
+      "கூற்று மற்றும் விளைவு இரண்டுமே தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Statement: Brain drain is when skilled people from underdeveloped countries migrate to developed countries in search of better job opportunities.\nEffect: The native regions remain in a backward state.",
+    "options_en": [
+      "Statement is correct but effect is wrong",
+      "Statement is wrong but effect is correct",
+      "Both statement and effect are correct",
+      "Both statement and effect are wrong"
+    ],
+    "explanation": "கூற்று மற்றும் விளைவு இரண்டுமே சரி",
+    "explanation_en": "Both statement and effect are correct"
+  },
+  {
+    "id": 59,
+    "question": "நகர மக்கள் தொகை சதவீதத்தில் உலக சராசரி ________.",
+    "options": [
+      "45 (%)",
+      "55 (%)",
+      "65 (%)",
+      "50 (%)"
+    ],
+    "correct": 1,
+    "question_en": "The global average of urban population percentage is ________.",
+    "options_en": [
+      "45 (%)",
+      "55 (%)",
+      "65 (%)",
+      "50 (%)"
+    ],
+    "explanation": "நகர மக்கள் தொகை சதவீதத்தில் உலக சராசரி 55 (%).",
+    "explanation_en": "The global average of urban population percentage is 55 (%)."
+  },
+  {
+    "id": 60,
+    "question": "இடம்பெயர்தலுக்கான காரணிகளை எத்தனை பிரிவுகளாக வகைப்படுத்தலாம்?",
+    "options": [
+      "3",
+      "7",
+      "5",
+      "4"
+    ],
+    "correct": 2,
+    "question_en": "Into how many categories can the factors for migration be classified?",
+    "options_en": [
+      "3",
+      "7",
+      "5",
+      "4"
+    ],
+    "explanation": "5",
+    "explanation_en": "Into 5 categories can the factors for migration be classified."
+  },
+  {
+    "id": 61,
+    "question": "நகர்ப்புறம் சார்ந்த சமூகம் மற்றும் வேளாண் சார்ந்த சமூகங்கள் நகர மையங்களாக இந்தியாவில் உருவாகிய இடங்கள் எது அல்ல?",
+    "options": [
+      "எகிப்து",
+      "இந்திய ஆற்றுப் பள்ளத்தாக்குப் பகுதிகள்",
+      "கிரேக்கம்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "Which among these is not a place where urban societies and agrarian societies developed into urban centers in India? (Note: Contextually meant ancient river valley civilizations globally)",
+    "options_en": [
+      "Egypt",
+      "Indian river valley regions",
+      "Greece",
+      "None"
+    ],
+    "explanation": "எதுவுமில்லை",
+    "explanation_en": "None"
+  },
+  {
+    "id": 62,
+    "question": "________ ஆம் ஆண்டிற்கு முன்னர் ஆப்பிரிக்காவில் உள்ள நகரங்கள் கடற்கரையை ஒட்டியே இருந்தன.",
+    "options": [
+      "1950",
+      "1951",
+      "1930",
+      "1932"
+    ],
+    "correct": 2,
+    "question_en": "Prior to the year ________, cities in Africa were located mainly along the coast.",
+    "options_en": [
+      "1950",
+      "1951",
+      "1930",
+      "1932"
+    ],
+    "explanation": "1930 ஆம் ஆண்டிற்கு முன்னர் ஆப்பிரிக்காவில் உள்ள நகரங்கள் கடற்கரையை ஒட்டியே இருந்தன.",
+    "explanation_en": "Prior to the year 1930, cities in Africa were located mainly along the coast."
+  },
+  {
+    "id": 63,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடுக்கவும். (NMMS 2019 - 20)\nநகரமயமாதலின் விளைவுகள்:",
+    "options": [
+      "விரைவாக நகரமயமாக்கலால் குடிசைப் பகுதிகள் அதிக அளவில் உருவாகின்றன.",
+      "அதிக மக்கள் நெரிசல், சுகாதாரமற்ற சுற்றுப்புற சூழலுக்கு வழிவகுக்கிறது.",
+      "நகர்புற மற்றும் உள்ளாட்சி அமைப்புகளுக்கு குப்பைகளை அகற்றுவது ஒரு சவாலான பணியாக உள்ளது.",
+      "இரு மற்றும் நான்கு சக்கர வாகனங்களின் எண்ணிக்கை அதிகரிப்பதால் காற்று மாசடைவது தவிர்க்கப்படுகிறது."
+    ],
+    "correct": 3,
+    "question_en": "Choose the incorrect statement regarding the consequences of urbanization (NMMS 2019 - 20):",
+    "options_en": [
+      "Rapid urbanization leads to the formation of many slums.",
+      "Overcrowding leads to an unhygienic environment.",
+      "Waste disposal is a challenging task for urban and local bodies.",
+      "Air pollution is avoided due to the increase in the number of two and four wheelers."
+    ],
+    "explanation": "இரு மற்றும் நான்கு சக்கர வாகனங்களின் எண்ணிக்கை அதிகரிப்பதால் காற்று மாசடைவது தவிர்க்கப்படுகிறது.",
+    "explanation_en": "Air pollution is avoided due to the increase in the number of two and four wheelers."
+  }
+]

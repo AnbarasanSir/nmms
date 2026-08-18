@@ -1,0 +1,2795 @@
+[
+    {
+        "id": 1,
+        "question": "வட்டத்தின் பரிதிக்கும் அதன் விட்டத்திற்கும் இடையேயான விகிதம்",
+        "options": [
+            "\\( 2\\pi \\)",
+            "\\( \\pi \\)",
+            "\\( \\pi r^2 \\)",
+            "r"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\pi \\)",
+        "question_en": "The ratio between the circumference of a circle and its diameter is",
+        "options_en": [
+            "\\( 2\\pi \\)",
+            "\\( \\pi \\)",
+            "\\( \\pi r^2 \\)",
+            "r"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\pi \\)"
+    },
+    {
+        "id": 2,
+        "question": "ஒரு வட்டத்தின் மீதுள்ள ஏதேனும் இரண்டு புள்ளிகளை இணைக்கும் கோடு",
+        "options": [
+            "பரிதி",
+            "ஆரம்",
+            "நாண்",
+            "வட்டவில்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): நாண்",
+        "question_en": "A line joining any two points on a circle is called",
+        "options_en": [
+            "Circumference",
+            "Radius",
+            "Chord",
+            "Arc"
+        ],
+        "explanation_en": "Correct answer option (3): Chord"
+    },
+    {
+        "id": 3,
+        "question": "ஒரு வட்டத்தின் மிகப் பெரிய நாண்",
+        "options": [
+            "ஆரம்",
+            "மையம்",
+            "வட்டவில்",
+            "விட்டம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): விட்டம்",
+        "question_en": "The longest chord of a circle is",
+        "options_en": [
+            "Radius",
+            "Center",
+            "Arc",
+            "Diameter"
+        ],
+        "explanation_en": "Correct answer option (4): Diameter"
+    },
+    {
+        "id": 4,
+        "question": "ஒரு வட்டத்தின் மையக்கோண அளவு",
+        "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 360°",
+        "question_en": "The central angle of a circle is",
+        "options_en": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+        ],
+        "explanation_en": "Correct answer option (4): 360°"
+    },
+    {
+        "id": 5,
+        "question": "24 செ.மீ. விட்ட அளவுள்ள ஒரு வட்டத்தின் ஆரம்",
+        "options": [
+            "8 செ.மீ.",
+            "16 செ.மீ.",
+            "12 செ.மீ.",
+            "18 செ.மீ."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 12 செ.மீ.",
+        "question_en": "The radius of a circle of diameter 24 cm is",
+        "options_en": [
+            "8 cm",
+            "16 cm",
+            "12 cm",
+            "18 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 12 cm"
+    },
+    {
+        "id": 6,
+        "question": "வட்டப்பரிதியின் ஒரு பகுதியே ______ ஆகும்.",
+        "options": [
+            "வட்டவில்",
+            "மையக்கோணம்",
+            "வட்டகோணப்பகுதி",
+            "விட்டம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): வட்டவில்",
+        "question_en": "A part of the circumference of a circle is called",
+        "options_en": [
+            "Circular arc",
+            "Central angle",
+            "Circular sector",
+            "Diameter"
+        ],
+        "explanation_en": "Correct answer option (1): Circular arc"
+    },
+    {
+        "id": 7,
+        "question": "அரைவட்டத்தின் மையத்தில் அமையும் கோணம்",
+        "options": [
+            "நேர்கோணம்",
+            "விரிகோணம்",
+            "செங்கோணம்",
+            "பூஜ்ஜியக் கோணம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): நேர்கோணம்",
+        "question_en": "The angle subtended at the center of a semicircle is a",
+        "options_en": [
+            "Straight angle",
+            "Obtuse angle",
+            "Right angle",
+            "Zero angle"
+        ],
+        "explanation_en": "Correct answer option (1): Straight angle"
+    },
+    {
+        "id": 8,
+        "question": "ஒரு வட்டத்தின் மிகப்பெரிய நாணின் பாதி அதன் ______ எனப்படும்.",
+        "options": [
+            "விட்டம்",
+            "மையம்",
+            "ஆரம்",
+            "வட்டவில்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ஆரம்",
+        "question_en": "Half of the longest chord of a circle is called its",
+        "options_en": [
+            "Diameter",
+            "Center",
+            "Radius",
+            "Arc"
+        ],
+        "explanation_en": "Correct answer option (3): Radius"
+    },
+    {
+        "id": 9,
+        "question": "π தினம் எப்போது கொண்டாடப்படுகிறது?",
+        "options": [
+            "மார்ச் 14",
+            "மே 5",
+            "ஆகஸ்ட் 22",
+            "ஆகஸ்ட் 5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): மார்ச் 14",
+        "question_en": "When is Pi Day celebrated?",
+        "options_en": [
+            "March 14",
+            "May 5",
+            "August 22",
+            "August 5"
+        ],
+        "explanation_en": "Correct answer option (1): March 14"
+    },
+    {
+        "id": 10,
+        "question": "7 செ.மீ. ஆரமுள்ள வட்டத்தின் துல்லியமான சுற்றளவு என்ன?",
+        "options": [
+            "\\( 14\\pi \\) செ.மீ.",
+            "44 செ.மீ.",
+            "43.96 செ.மீ.",
+            "154 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 14\\pi \\) செ.மீ.",
+        "question_en": "What is the exact circumference of a circle of radius 7 cm?",
+        "options_en": [
+            "\\( 14\\pi \\) cm",
+            "44 cm",
+            "43.96 cm",
+            "154 cm"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 14\\pi \\) cm"
+    },
+    {
+        "id": 11,
+        "question": "வட்டத்தின் பரப்பளவு 3465 ச.மீ எனில் அதன் சுற்றளவு",
+        "options": [
+            "70 மீ",
+            "140 மீ",
+            "210 மீ",
+            "280 மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 210 மீ. பரப்பளவு \\( \\pi r^2 = 3465 \\Rightarrow \n\\frac{22}{7} r^2 = 3465 \\Rightarrow r^2 = 1102.5 \\Rightarrow r \\approx 33.2 \\) மீ. சுற்றளவு = \\( 2 \\pi r = 2 \\times \\frac{22}{7} \\times 33.2 \\approx 210 \\) மீ.",
+        "question_en": "If the area of a circle is 3465 sq.m, its circumference is",
+        "options_en": [
+            "70 m",
+            "140 m",
+            "210 m",
+            "280 m"
+        ],
+        "explanation_en": "Correct answer option (3): 210 m. Area \\( \\pi r^2 = 3465 \\Rightarrow r \\approx 33.2 \\) m. Circumference = \\( 2 \\pi r = 2 \\times \\frac{22}{7} \\times 33.2 \\approx 210 \\) m."
+    },
+    {
+        "id": 12,
+        "question": "வட்ட வடிவ பூங்காவின் சுற்றளவு 880 செ.மீ. எனில், பூங்காவின் ஆரம்",
+        "options": [
+            "70 செ.மீ",
+            "140 செ.மீ",
+            "210 செ.மீ",
+            "280 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 140 செ.மீ. சுற்றளவு = \\( 2 \\pi r = 880 \\Rightarrow 2 \\times \\frac{22}{7} \\times r = 880 \\Rightarrow r = \\frac{880 \\times 7}{44} = 140 \\) செ.மீ.",
+        "question_en": "If the circumference of a circular park is 880 cm, the radius of the park is",
+        "options_en": [
+            "70 cm",
+            "140 cm",
+            "210 cm",
+            "280 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 140 cm. Circumference = \\( 2 \\pi r = 880 \\Rightarrow r = \\frac{880 \\times 7}{44} = 140 \\) cm."
+    },
+    {
+        "id": 13,
+        "question": "ஒரு வட்டத்தின் மிகப்பெரிய நாணின் நீளம் 14 செ.மீ. எனில், அதன் சுற்றளவு மற்றும் பரப்பளவுகளின் எண்ணளவுகளின் விகிதம்",
+        "options": [
+            "7:2",
+            "1:2",
+            "2:7",
+            "2:1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2:7. மிகப்பெரிய நாண் என்பது விட்டம் (d=14), எனவே ஆரம் r=7. சுற்றளவு = \\( 2\\pi r = 14\\pi \\). பரப்பளவு = \\( \\pi r^2 = 49\\pi \\). விகிதம் = \\( 14\\pi : 49\\pi = 2:7 \\).",
+        "question_en": "If the length of the longest chord of a circle is 14 cm, the ratio of the numerical values of its circumference to its area is",
+        "options_en": [
+            "7:2",
+            "1:2",
+            "2:7",
+            "2:1"
+        ],
+        "explanation_en": "Correct answer option (3): 2:7. The longest chord is the diameter (d=14), so r=7. Circumference = \\( 14\\pi \\). Area = \\( 49\\pi \\). Ratio = \\( 14\\pi : 49\\pi = 2:7 \\)."
+    },
+    {
+        "id": 14,
+        "question": "ஒரு வட்டத்தின் ஆரம் இரு மடங்கு அதிகரித்தால் கிடைக்கும் புதிய வட்டத்தின் பரப்பளவு எவ்வளவு அதிகரிக்கும்?",
+        "options": [
+            "இரு மடங்கு",
+            "நான்கு மடங்கு",
+            "மூன்று மடங்கு",
+            "எதுவும் மாற்றமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): நான்கு மடங்கு. பழைய பரப்பளவு = \\( \\pi r^2 \\). புதிய ஆரம் = 2r. புதிய பரப்பளவு = \\( \\pi (2r)^2 = 4\\pi r^2 \\). எனவே 4 மடங்கு அதிகரிக்கும்.",
+        "question_en": "If the radius of a circle is doubled, by how many times will the area of the new circle increase?",
+        "options_en": [
+            "Two times",
+            "Four times",
+            "Three times",
+            "No change"
+        ],
+        "explanation_en": "Correct answer option (2): Four times. Old area = \\( \\pi r^2 \\). New radius = 2r. New area = \\( \\pi (2r)^2 = 4\\pi r^2 \\). Thus, it becomes 4 times the original."
+    },
+    {
+        "id": 15,
+        "question": "வட்டக்கோணப்பகுதியின் மையக்கோணம்",
+        "options": [
+            "\\( 360^{\\circ} \\)",
+            "\\( 360^{\\circ} n \\)",
+            "\\( \\frac{360^{\\circ}}{n} \\)",
+            "\\( 180^{\\circ} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( \\frac{360^{\\circ}}{n} \\). ஒரு வட்டத்தை 'n' சமப் பகுதிகளாகப் பிரிக்கும்போது, ஒவ்வொரு வட்டக்கோணப்பகுதியின் மையக்கோணம் \\( \\theta = \\frac{360^{\\circ}}{n} \\) ஆகும்.",
+        "question_en": "The central angle of a sector is",
+        "options_en": [
+            "\\( 360^{\\circ} \\)",
+            "\\( 360^{\\circ} n \\)",
+            "\\( \\frac{360^{\\circ}}{n} \\)",
+            "\\( 180^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( \\frac{360^{\\circ}}{n} \\). When a circle is divided into 'n' equal sectors, the central angle of each sector is \\( \\theta = \\frac{360^{\\circ}}{n} \\)."
+    },
+    {
+        "id": 16,
+        "question": "நிழலிடப்பட்டுள்ள வட்டக்கோணப் பகுதியின் மையக்கோணம் என்ன? (வட்டம் 5 சமப் பகுதிகளாகப் பிரிக்கப்பட்டுள்ளதாகக் கொள்க)",
+        "options": [
+            "\\( 180^{\\circ} \\)",
+            "\\( 72^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 36^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 72^{\\circ} \\). வட்டம் 5 சமப் பகுதிகளாகப் பிரிக்கப்பட்டால் (n=5), மையக்கோணம் = \\( \\frac{360^{\\circ}}{5} = 72^{\\circ} \\).",
+        "question_en": "What is the central angle of the shaded sector? (Assuming the circle is divided into 5 equal parts)",
+        "options_en": [
+            "\\( 180^{\\circ} \\)",
+            "\\( 72^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 36^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 72^{\\circ} \\). If the circle is divided into 5 equal parts (n=5), the central angle = \\( \\frac{360^{\\circ}}{5} = 72^{\\circ} \\)."
+    },
+    {
+        "id": 17,
+        "question": "பொருத்துக.\n(i) அரைவட்டத்தின் பரப்பளவு -> (a) \\( \\frac{1}{4}\\pi r^2 \\)\n(ii) வட்டக்கோணப் பகுதியின் வில்லின் நீளம் -> (b) \\( l+2r \\)\n(iii) வட்டக்கோணப் பகுதியின் பரப்பளவு -> (c) \\( \\frac{\\pi r^2}{2} \\)\n(iv) வட்டக்கோணப் பகுதியின் சுற்றளவு -> (d) \\( \\frac{\\theta}{360^{\\circ}} \\times 2\\pi r \\)\n(v) கால்வட்டத்தின் பரப்பளவு -> (e) \\( \\frac{\\theta}{360^{\\circ}} \\times \\pi r^2 \\)",
+        "options": [
+            "i-a, ii-b, iii-c, iv-d, v-e",
+            "i-c, ii-d, iii-e, iv-b, v-a",
+            "i-d, ii-c, iii-e, iv-a, v-b",
+            "i-b, ii-e, iii-c, iv-d, v-a"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): i-c, ii-d, iii-e, iv-b, v-a.\n(i) அரைவட்டத்தின் பரப்பளவு = \\( \\frac{\\pi r^2}{2} \\) (c)\n(ii) வில்லின் நீளம் = \\( \\frac{\\theta}{360^{\\circ}} \\times 2\\pi r \\) (d)\n(iii) வட்டக்கோணப் பகுதியின் பரப்பளவு = \\( \\frac{\\theta}{360^{\\circ}} \\times \\pi r^2 \\) (e)\n(iv) வட்டக்கோணப் பகுதியின் சுற்றளவு = \\( l+2r \\) (b)\n(v) கால்வட்டத்தின் பரப்பளவு = \\( \\frac{1}{4}\\pi r^2 \\) (a).",
+        "question_en": "Match the following:\n(i) Area of a semicircle -> (a) \\( \\frac{1}{4}\\pi r^2 \\)\n(ii) Arc length of a sector -> (b) \\( l+2r \\)\n(iii) Area of a sector -> (c) \\( \\frac{\\pi r^2}{2} \\)\n(iv) Perimeter of a sector -> (d) \\( \\frac{\\theta}{360^{\\circ}} \\times 2\\pi r \\)\n(v) Area of a quadrant -> (e) \\( \\frac{\\theta}{360^{\\circ}} \\times \\pi r^2 \\)",
+        "options_en": [
+            "i-a, ii-b, iii-c, iv-d, v-e",
+            "i-c, ii-d, iii-e, iv-b, v-a",
+            "i-d, ii-c, iii-e, iv-a, v-b",
+            "i-b, ii-e, iii-c, iv-d, v-a"
+        ],
+        "explanation_en": "Correct answer option (2): i-c, ii-d, iii-e, iv-b, v-a. \n(i) Area of semicircle = (c) \n(ii) Arc length = (d) \n(iii) Sector area = (e) \n(iv) Sector perimeter = (b) \n(v) Quadrant area = (a)."
+    },
+    {
+        "id": 18,
+        "question": "ஆரம் 28 செ.மீ. உடைய அரைவட்டத்தின் பரப்பளவு காண்க. (\\( \\pi=\\frac{22}{7} \\))",
+        "options": [
+            "618 ச.செ.மீ",
+            "144 ச.செ.மீ",
+            "1232 ச.செ.மீ",
+            "784 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1232 ச.செ.மீ. அரைவட்டத்தின் பரப்பளவு = \\( \\frac{1}{2} \\pi r^2 = \\frac{1}{2} \\times \\frac{22}{7} \\times 28 \\times 28 = 11 \\times 4 \\times 28 = 1232 \\) ச.செ.மீ.",
+        "question_en": "Find the area of a semicircle with a radius of 28 cm. (Assume \\( \\pi=\\frac{22}{7} \\))",
+        "options_en": [
+            "618 sq.cm",
+            "144 sq.cm",
+            "1232 sq.cm",
+            "784 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 1232 sq.cm. Area of semicircle = \\( \\frac{1}{2} \\pi r^2 = \\frac{1}{2} \\times \\frac{22}{7} \\times 28 \\times 28 = 1232 \\) sq.cm."
+    },
+    {
+        "id": 19,
+        "question": "விட்டம் 0.14 செ.மீ. கொண்ட அரைவட்டத்தின் பரப்பளவு (\\( \\pi=\\frac{22}{7} \\) எனக் கொள்க)",
+        "options": [
+            "0.0077 ச.செ.மீ",
+            "0.77 ச.செ.மீ",
+            "0.077 ச.செ.மீ",
+            "0.7 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0.0077 ச.செ.மீ. விட்டம் d = 0.14 செ.மீ, எனவே ஆரம் r = 0.07 செ.மீ. பரப்பளவு = \\( \\frac{1}{2} \\times \\frac{22}{7} \\times 0.07 \\times 0.07 = 11 \\times 0.01 \\times 0.07 = 0.0077 \\) ச.செ.மீ.",
+        "question_en": "The area of a semicircle with a diameter of 0.14 cm is (Assume \\( \\pi=\\frac{22}{7} \\))",
+        "options_en": [
+            "0.0077 sq.cm",
+            "0.77 sq.cm",
+            "0.077 sq.cm",
+            "0.7 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 0.0077 sq.cm. Diameter d = 0.14 cm, so r = 0.07 cm. Area = \\( \\frac{1}{2} \\times \\frac{22}{7} \\times 0.07 \\times 0.07 = 0.0077 \\) sq.cm."
+    },
+    {
+        "id": 20,
+        "question": "ஆரம் 28 செ.மீ. உடைய அரைவட்டத்தின் சுற்றளவு காண்க.",
+        "options": [
+            "128 செ.மீ",
+            "66 செ.மீ",
+            "144 செ.மீ",
+            "56 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 144 செ.மீ. அரைவட்டத்தின் சுற்றளவு = \\( r(\\pi + 2) = 28 \\left(\\frac{22}{7} + 2\\right) = 28 \\left(\\frac{36}{7}\\right) = 4 \\times 36 = 144 \\) செ.மீ.",
+        "question_en": "Find the perimeter of a semicircle with a radius of 28 cm.",
+        "options_en": [
+            "128 cm",
+            "66 cm",
+            "144 cm",
+            "56 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 144 cm. Perimeter of a semicircle = \\( r(\\pi + 2) = 28 \\left(\\frac{22}{7} + 2\\right) = 28 \\left(\\frac{36}{7}\\right) = 144 \\) cm."
+    },
+    {
+        "id": 21,
+        "question": "ஓர் அரைவட்ட பாகைமானியின் விட்ட அளவு 7 செ.மீ. ஆகும். அதன் புற எல்லை என்ன?",
+        "options": [
+            "11 செ.மீ",
+            "18 செ.மீ",
+            "21 செ.மீ",
+            "24 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 18 செ.மீ. புற எல்லை (சுற்றளவு) = \\( r(\\pi + 2) \\). ஆரம் r = 3.5 செ.மீ. சுற்றளவு = \\( 3.5 \\times \\frac{36}{7} = 18 \\) செ.மீ.",
+        "question_en": "The diameter of a semicircular protractor is 7 cm. What is its perimeter?",
+        "options_en": [
+            "11 cm",
+            "18 cm",
+            "21 cm",
+            "24 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 18 cm. Perimeter = \\( r(\\pi + 2) \\). Radius r = 3.5 cm. Perimeter = \\( 3.5 \\times \\frac{36}{7} = 18 \\) cm."
+    },
+    {
+        "id": 22,
+        "question": "ஆரம் 6 செ.மீ., வில்லின் நீளம் 20 செ.மீ. கொண்டுள்ள வட்டக்கோணப்பகுதியின் பரப்பளவைக் காண்க.",
+        "options": [
+            "90 ச.செ.மீ",
+            "60 ச.செ.மீ",
+            "80 ச.செ.மீ",
+            "120 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 60 ச.செ.மீ. வட்டக்கோணப்பகுதியின் பரப்பளவு = \\( \\frac{lr}{2} = \\frac{20 \\times 6}{2} = 60 \\) ச.செ.மீ.",
+        "question_en": "Find the area of a sector whose radius is 6 cm and arc length is 20 cm.",
+        "options_en": [
+            "90 sq.cm",
+            "60 sq.cm",
+            "80 sq.cm",
+            "120 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 60 sq.cm. Area of sector = \\( \\frac{lr}{2} = \\frac{20 \\times 6}{2} = 60 \\) sq.cm."
+    },
+    {
+        "id": 23,
+        "question": "வட்ட வில்லின் நீளம் 48 மீ, ஆரம் 10 மீ எனில், வட்டக் கோணப்பகுதியின் பரப்பளவு என்ன?",
+        "options": [
+            "480 ச.மீ",
+            "450 ச.மீ",
+            "240 ச.மீ",
+            "225 ச.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 240 ச.மீ. பரப்பளவு = \\( \\frac{lr}{2} = \\frac{48 \\times 10}{2} = 240 \\) ச.மீ.",
+        "question_en": "If the arc length is 48 m and the radius is 10 m, what is the area of the circular sector?",
+        "options_en": [
+            "480 sq.m",
+            "450 sq.m",
+            "240 sq.m",
+            "225 sq.m"
+        ],
+        "explanation_en": "Correct answer option (3): 240 sq.m. Area = \\( \\frac{lr}{2} = \\frac{48 \\times 10}{2} = 240 \\) sq.m."
+    },
+    {
+        "id": 24,
+        "question": "ஒரு வட்டக் கோணப்பகுதியின் வில்லின் நீளம் 15 செ.மீ. மற்றும் ஆரம் 10 செ.மீ. எனில் அதன் சுற்றளவைக் காண்க.",
+        "options": [
+            "15 செ.மீ",
+            "35 செ.மீ",
+            "25 செ.மீ",
+            "30 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 35 செ.மீ. சுற்றளவு P = \\( l + 2r = 15 + 2(10) = 15 + 20 = 35 \\) செ.மீ.",
+        "question_en": "If the arc length of a sector is 15 cm and its radius is 10 cm, find its perimeter.",
+        "options_en": [
+            "15 cm",
+            "35 cm",
+            "25 cm",
+            "30 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 35 cm. Perimeter P = \\( l + 2r = 15 + 2(10) = 15 + 20 = 35 \\) cm."
+    },
+    {
+        "id": 25,
+        "question": "வட்டக்கோணப்பகுதியின் ஆரத்தின் இருமடங்கு 30 மீ, சுற்றளவு 44 மீ எனில், அதன் வில்லின் நீளம்",
+        "options": [
+            "44 மீ",
+            "42 மீ",
+            "16 மீ",
+            "14 மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 14 மீ. ஆரத்தின் இருமடங்கு 2r = 30. சுற்றளவு = \\( l + 2r = 44 \\Rightarrow l + 30 = 44 \\Rightarrow l = 14 \\) மீ.",
+        "question_en": "If twice the radius of a sector is 30 m and its perimeter is 44 m, its arc length is",
+        "options_en": [
+            "44 m",
+            "42 m",
+            "16 m",
+            "14 m"
+        ],
+        "explanation_en": "Correct answer option (4): 14 m. Twice the radius 2r = 30. Perimeter = \\( l + 2r = 44 \\Rightarrow l + 30 = 44 \\Rightarrow l = 14 \\) m."
+    },
+    {
+        "id": 26,
+        "question": "ஒரு வட்டக்கோணப்பகுதியின் ஆரம் 21 செ.மீ. மற்றும் அதன் மையக்கோணம் 120° எனில், அதன் வில்லின் நீளம்",
+        "options": [
+            "44 செ.மீ",
+            "42 செ.மீ",
+            "100.48 செ.மீ",
+            "41.54 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 44 செ.மீ. வில்லின் நீளம் \\( l = \\frac{120^{\\circ}}{360^{\\circ}} \\times 2 \\times \\frac{22}{7} \\times 21 = \\frac{1}{3} \\times 44 \\times 3 = 44 \\) செ.மீ.",
+        "question_en": "If the radius of a circular sector is 21 cm and its central angle is 120°, its arc length is",
+        "options_en": [
+            "44 cm",
+            "42 cm",
+            "100.48 cm",
+            "41.54 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 44 cm. Arc length \\( l = \\frac{120^{\\circ}}{360^{\\circ}} \\times 2 \\times \\frac{22}{7} \\times 21 = 44 \\) cm."
+    },
+    {
+        "id": 27,
+        "question": "மையக்கோணம் 45°, ஆரம் 16 செ.மீ. எனில், வட்டக் கோணப்பகுதியின் பரப்பளவு (\\( \\pi=3.14 \\))",
+        "options": [
+            "13.19 ச.செ.மீ",
+            "12.56 ச.செ.மீ",
+            "100.48 ச.செ.மீ",
+            "41.54 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 100.48 ச.செ.மீ. பரப்பளவு = \\( \\frac{45^{\\circ}}{360^{\\circ}} \\times 3.14 \\times 16^2 = \\frac{1}{8} \\times 3.14 \\times 256 = 3.14 \\times 32 = 100.48 \\) ச.செ.மீ.",
+        "question_en": "If the central angle is 45° and the radius is 16 cm, the area of the sector is (\\( \\pi=3.14 \\))",
+        "options_en": [
+            "13.19 sq.cm",
+            "12.56 sq.cm",
+            "100.48 sq.cm",
+            "41.54 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 100.48 sq.cm. Area = \\( \\frac{45^{\\circ}}{360^{\\circ}} \\times 3.14 \\times 16^2 = \\frac{1}{8} \\times 3.14 \\times 256 = 100.48 \\) sq.cm."
+    },
+    {
+        "id": 28,
+        "question": "ஆரம் 14 செ.மீ., மையக்கோணம் 45°, வில்லின் நீளம் 11 செ.மீ. உள்ள வட்டக்கோணப் பகுதியின் பரப்பளவு என்ன?",
+        "options": [
+            "154 ச.செ.மீ",
+            "308 ச.செ.மீ",
+            "77 ச.செ.மீ",
+            "38.5 ச.செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 77 ச.செ.மீ. பரப்பளவு = \\( \\frac{lr}{2} = \\frac{11 \\times 14}{2} = 77 \\) ச.செ.மீ.",
+        "question_en": "What is the area of a sector with a radius of 14 cm, central angle of 45°, and an arc length of 11 cm?",
+        "options_en": [
+            "154 sq.cm",
+            "308 sq.cm",
+            "77 sq.cm",
+            "38.5 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 77 sq.cm. Area = \\( \\frac{lr}{2} = \\frac{11 \\times 14}{2} = 77 \\) sq.cm."
+    },
+    {
+        "id": 29,
+        "question": "வட்ட மையத்தில் தாங்கும் கோணம் 90°, அதன் ஆரம் 7 செ.மீ. எனில், வட்ட வில்லின் நீளம்",
+        "options": [
+            "22 செ.மீ",
+            "44 செ.மீ",
+            "11 செ.மீ",
+            "33 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 11 செ.மீ. வில்லின் நீளம் = \\( \\frac{90^{\\circ}}{360^{\\circ}} \\times 2 \\times \\frac{22}{7} \\times 7 = \\frac{1}{4} \\times 44 = 11 \\) செ.மீ.",
+        "question_en": "If the angle subtended at the center of a circle is 90° and its radius is 7 cm, the length of the arc is",
+        "options_en": [
+            "22 cm",
+            "44 cm",
+            "11 cm",
+            "33 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 11 cm. Arc length = \\( \\frac{90^{\\circ}}{360^{\\circ}} \\times 2 \\times \\frac{22}{7} \\times 7 = \\frac{1}{4} \\times 44 = 11 \\) cm."
+    },
+    {
+        "id": 30,
+        "question": "35 செ.மீ. ஆரமுள்ள வட்ட வடிவிலான ஜிம்னாஸ்டிக் வளையமானது 5 சம அளவுள்ள விற்களாகப் பிரிக்கப்பட்டு வெவ்வேறு நிறங்களில் வண்ணமிடப்பட்டுள்ளது எனில், ஒவ்வொரு வட்டவில்லின் நீளம் என்ன?",
+        "options": [
+            "44 செ.மீ",
+            "24 செ.மீ",
+            "70 செ.மீ",
+            "35 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 44 செ.மீ. முழு வட்டத்தின் சுற்றளவு = \\( 2 \\times \\frac{22}{7} \\times 35 = 220 \\) செ.மீ. 5 சம விற்களாகப் பிரிக்கப்பட்டுள்ளதால், ஒரு வில்லின் நீளம் = \\( \\frac{220}{5} = 44 \\) செ.மீ.",
+        "question_en": "A circular gymnastic ring of radius 35 cm is divided into 5 equal arcs painted in different colors. What is the length of each arc?",
+        "options_en": [
+            "44 cm",
+            "24 cm",
+            "70 cm",
+            "35 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 44 cm. Circumference of the full circle = \\( 2 \\times \\frac{22}{7} \\times 35 = 220 \\) cm. Length of each arc = \\( \\frac{220}{5} = 44 \\) cm."
+    },
+    {
+        "id": 31,
+        "question": "70 செ.மீ. ஆரமுள்ள வட்டமானது 5 சம அளவுள்ள வட்டக் கோணப் பகுதிகளாகப் பிரிக்கப்படுகிறது. அவை ஒவ்வொன்றின் பரப்பளவு",
+        "options": [
+            "3080 ச.செ.மீ",
+            "706 ச.செ.மீ",
+            "1232 ச.செ.மீ",
+            "445 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3080 ச.செ.மீ. முழு வட்டத்தின் பரப்பளவு = \\( \\frac{22}{7} \\times 70 \\times 70 = 15400 \\) ச.செ.மீ. 5 சமப் பகுதிகளாகப் பிரிக்கப்படுவதால், ஒரு பகுதியின் பரப்பளவு = \\( \\frac{15400}{5} = 3080 \\) ச.செ.மீ.",
+        "question_en": "A circle of radius 70 cm is divided into 5 equal sectors. The area of each sector is",
+        "options_en": [
+            "3080 sq.cm",
+            "706 sq.cm",
+            "1232 sq.cm",
+            "445 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 3080 sq.cm. Total area of circle = \\( \\frac{22}{7} \\times 70 \\times 70 = 15400 \\) sq.cm. Area of each sector = \\( \\frac{15400}{5} = 3080 \\) sq.cm."
+    },
+    {
+        "id": 32,
+        "question": "ஒரு வட்டத்தின் விட்டம் 12.6 செ.மீ., அதில் 120° மையக்கோணமுள்ள வட்ட கோணப்பகுதியின் சுற்றளவு என்ன? (\\( \\pi=3.14 \\))",
+        "options": [
+            "13.19 செ.மீ",
+            "41.54 செ.மீ",
+            "44.56 செ.மீ",
+            "25.79 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 25.79 செ.மீ. ஆரம் r = 6.3 செ.மீ. வில்லின் நீளம் l = \\( \\frac{120^{\\circ}}{360^{\\circ}} \\times 3.14 \\times 12.6 = 13.188 \\). சுற்றளவு = \\( l + 2r = 13.188 + 12.6 = 25.788 \\approx 25.79 \\) செ.மீ.",
+        "question_en": "The diameter of a circle is 12.6 cm. What is the perimeter of a sector with a central angle of 120°? (Assume \\( \\pi=3.14 \\))",
+        "options_en": [
+            "13.19 cm",
+            "41.54 cm",
+            "44.56 cm",
+            "25.79 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 25.79 cm. Radius r = 6.3 cm. Arc length l = \\( \\frac{1}{3} \\times 3.14 \\times 12.6 = 13.188 \\). Perimeter = \\( l + 2r = 13.188 + 12.6 = 25.788 \\approx 25.79 \\) cm."
+    },
+    {
+        "id": 33,
+        "question": "35 செ.மீ. ஆரமுள்ள வட்டமானது 5 சம அளவுள்ள வட்டக் கோணப் பகுதிகளாகப் பிரிக்கப்படுகிறது எனில், அவற்றுள் ஒரு வட்டக் கோணப் பகுதியின் சுற்றளவு ஆனது",
+        "options": [
+            "105 செ.மீ",
+            "104 செ.மீ",
+            "114 செ.மீ",
+            "115 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 114 செ.மீ. ஒரு வில்லின் நீளம் = \\( \\frac{1}{5} \\times 2 \\times \\frac{22}{7} \\times 35 = 44 \\). சுற்றளவு = \\( l + 2r = 44 + 70 = 114 \\) செ.மீ.",
+        "question_en": "A circle of radius 35 cm is divided into 5 equal sectors. The perimeter of one such sector is",
+        "options_en": [
+            "105 cm",
+            "104 cm",
+            "114 cm",
+            "115 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 114 cm. Length of one arc = \\( \\frac{1}{5} \\times 2 \\times \\frac{22}{7} \\times 35 = 44 \\). Perimeter = \\( l + 2r = 44 + 70 = 114 \\) cm."
+    },
+    {
+        "id": 34,
+        "question": "56 செ.மீ. ஆரமுள்ள வட்ட வடிவிலான ஜிம்னாஸ்டிக் வளையமானது 8 சம அளவுள்ள விற்களாகப் பிரிக்கப்பட்டு வெவ்வேறு நிறங்களில் வண்ணமிடப்பட்டுள்ளது எனில், ஒவ்வொரு வட்ட வில்லின் நீளம் என்ன?",
+        "options": [
+            "41 செ.மீ",
+            "42 செ.மீ",
+            "43 செ.மீ",
+            "44 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 44 செ.மீ. ஒரு வில்லின் நீளம் = \\( \\frac{1}{8} \\times 2 \\times \\frac{22}{7} \\times 56 = \\frac{1}{8} \\times 44 \\times 8 = 44 \\) செ.மீ.",
+        "question_en": "A circular gymnastic ring of radius 56 cm is divided into 8 equal arcs and painted in different colors. What is the length of each arc?",
+        "options_en": [
+            "41 cm",
+            "42 cm",
+            "43 cm",
+            "44 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 44 cm. Length of one arc = \\( \\frac{1}{8} \\times 2 \\times \\frac{22}{7} \\times 56 = 44 \\) cm."
+    },
+    {
+        "id": 35,
+        "question": "10 செ.மீ. ஆரமுள்ள ஒரு வட்டத்தில் அதன் மையத்தில் 90° கோணத்தை ஒரு வட்டவில் உருவாக்குகிறது எனில், மிகப்பெரிய வட்டக் கோணப்பகுதியின் பரப்பைக் காண்க.",
+        "options": [
+            "\\( \\frac{1650}{3} \\) ச.செ.மீ",
+            "\\( \\frac{1650}{9} \\) ச.செ.மீ",
+            "\\( \\frac{1650}{11} \\) ச.செ.மீ",
+            "\\( \\frac{1650}{7} \\) ச.செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( \\frac{1650}{7} \\) ச.செ.மீ. பெரிய வட்டக் கோணப்பகுதியின் மையக்கோணம் = 360° - 90° = 270°. பரப்பளவு = \\( \\frac{270^{\\circ}}{360^{\\circ}} \\times \\frac{22}{7} \\times 10^2 = \\frac{3}{4} \\times \\frac{22}{7} \\times 100 = \\frac{1650}{7} \\) ச.செ.மீ.",
+        "question_en": "An arc subtends an angle of 90° at the center of a circle of radius 10 cm. Find the area of the major sector.",
+        "options_en": [
+            "\\( \\frac{1650}{3} \\) sq.cm",
+            "\\( \\frac{1650}{9} \\) sq.cm",
+            "\\( \\frac{1650}{11} \\) sq.cm",
+            "\\( \\frac{1650}{7} \\) sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): \\( \\frac{1650}{7} \\) sq.cm. The central angle for the major sector = 360° - 90° = 270°. Area = \\( \\frac{270^{\\circ}}{360^{\\circ}} \\times \\frac{22}{7} \\times 10^2 = \\frac{1650}{7} \\) sq.cm."
+    },
+    {
+        "id": 36,
+        "question": "ஒரு வட்டக்கோணப்பகுதியின் பரப்பு 60 செ.மீ². அதன் வில்லின் நீளம் 20 செ.மீ. எனில், அவற்றின் ஆரம் காண்க.",
+        "options": [
+            "3 செ.மீ",
+            "6 செ.மீ",
+            "4 செ.மீ",
+            "5 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 6 செ.மீ. பரப்பளவு = \\( \\frac{lr}{2} \\Rightarrow 60 = \\frac{20 \\times r}{2} \\Rightarrow 60 = 10r \\Rightarrow r = 6 \\) செ.மீ.",
+        "question_en": "The area of a sector is 60 cm² and its arc length is 20 cm. Find its radius.",
+        "options_en": [
+            "3 cm",
+            "6 cm",
+            "4 cm",
+            "5 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 6 cm. Area = \\( \\frac{lr}{2} \\Rightarrow 60 = \\frac{20 \\times r}{2} \\Rightarrow r = 6 \\) cm."
+    },
+    {
+        "id": 37,
+        "question": "இரண்டு வட்டங்களின் ஆரங்கள் 19 செ.மீ. மற்றும் 9 செ.மீ. ஆக உள்ளன. இவ்விரு வட்டங்களின் சுற்றளவுகளின் கூடுதலுக்குச் சமமான சுற்றளவுள்ள ஒரு வட்டத்தின் ஆரத்தைக் கண்டுபிடி.",
+        "options": [
+            "22 செ.மீ",
+            "25 செ.மீ",
+            "27 செ.மீ",
+            "28 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 28 செ.மீ. புதிய வட்டத்தின் சுற்றளவு = \\( 2\\pi R = 2\\pi r_1 + 2\\pi r_2 \\Rightarrow R = r_1 + r_2 = 19 + 9 = 28 \\) செ.மீ.",
+        "question_en": "The radii of two circles are 19 cm and 9 cm. Find the radius of the circle which has a circumference equal to the sum of the circumferences of the two circles.",
+        "options_en": [
+            "22 cm",
+            "25 cm",
+            "27 cm",
+            "28 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 28 cm. The circumference of the new circle = \\( 2\\pi R = 2\\pi r_1 + 2\\pi r_2 \\Rightarrow R = r_1 + r_2 = 19 + 9 = 28 \\) cm."
+    },
+    {
+        "id": 38,
+        "question": "42 செ.மீ. விட்டமுள்ள வட்டவடிவ தோசையை சகோதரர்கள் மூவர் சமமாகப் பகிர்ந்து கொள்கின்றனர். ஒவ்வொருவரும் பெறக்கூடிய தோசையின் பரப்பளவு என்ன?",
+        "options": [
+            "1848 ச.செ.மீ",
+            "462 ச.செ.மீ",
+            "588 ச.செ.மீ",
+            "308 ச.செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 462 ச.செ.மீ. விட்டம் d = 42 செ.மீ, ஆரம் r = 21 செ.மீ. மொத்தப் பரப்பளவு = \\( \\frac{22}{7} \\times 21 \\times 21 = 1386 \\) ச.செ.மீ. மூவரும் சமமாகப் பிரித்தால், ஒவ்வொருவருக்கும் கிடைக்கும் பரப்பு = \\( \\frac{1386}{3} = 462 \\) ச.செ.மீ.",
+        "question_en": "Three brothers equally share a circular dosa of diameter 42 cm. What is the area of the dosa received by each brother?",
+        "options_en": [
+            "1848 sq.cm",
+            "462 sq.cm",
+            "588 sq.cm",
+            "308 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 462 sq.cm. Diameter d = 42 cm, radius r = 21 cm. Total Area = \\( \\frac{22}{7} \\times 21 \\times 21 = 1386 \\) sq.cm. Area per person = \\( \\frac{1386}{3} = 462 \\) sq.cm."
+    },
+    {
+        "id": 39,
+        "question": "ஒரு வெள்ளிக் கம்பி வளைக்கப்பட்டு சதுரமாக மாற்றும் போது அடைபடும் பகுதியின் பரப்பு 484 ச.மீ. அதே வெள்ளிக் கம்பி வட்டமாக வளைக்கப்படுகிறது எனில், அவ்வட்டத்தின் விட்டம் என்ன? (\\( \\pi=\\frac{22}{7} \\) என்க)",
+        "options": [
+            "14 மீ",
+            "28 மீ",
+            "24 மீ",
+            "7 மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 28 மீ. சதுரத்தின் பரப்பு = 484 ச.மீ \\(\\Rightarrow\\) பக்கம் a = 22 மீ. கம்பியின் நீளம் (சுற்றளவு) = \\( 4 \\times 22 = 88 \\) மீ. வட்டத்தின் சுற்றளவு = \\( \\pi d = 88 \\Rightarrow \\frac{22}{7} d = 88 \\Rightarrow d = \\frac{88 \\times 7}{22} = 28 \\) மீ.",
+        "question_en": "A silver wire when bent in the form of a square encloses an area of 484 sq.m. If the same wire is bent in the form of a circle, what is the diameter of the circle? (Assume \\( \\pi=\\frac{22}{7} \\))",
+        "options_en": [
+            "14 m",
+            "28 m",
+            "24 m",
+            "7 m"
+        ],
+        "explanation_en": "Correct answer option (2): 28 m. Area of square = 484 sq.m \\(\\Rightarrow\\) side a = 22 m. Length of wire (perimeter) = \\( 4 \\times 22 = 88 \\) m. Circumference of circle = \\( \\pi d = 88 \\Rightarrow \\frac{22}{7} d = 88 \\Rightarrow d = 28 \\) m."
+    },
+    {
+        "id": 40,
+        "question": "ஒரு வெள்ளிக் கம்பி வளைத்து ஒரு சதுரமாக மாற்றப்படுகிறது. அச்சதுரத்தின் பரப்பு 121 ச.செ.மீ. அதே கம்பியை வளைத்து ஒரு வட்டமாக மாற்றினால் அந்த வட்டத்தின் ஆரம் என்ன?",
+        "options": [
+            "11 செ.மீ",
+            "7 செ.மீ",
+            "3.5 செ.மீ",
+            "14 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 7 செ.மீ. சதுரத்தின் பரப்பு = 121 ச.செ.மீ \\(\\Rightarrow\\) பக்கம் a = 11 செ.மீ. சுற்றளவு = \\( 4 \\times 11 = 44 \\) செ.மீ. வட்டத்தின் சுற்றளவு = \\( 2 \\pi r = 44 \\Rightarrow 2 \\times \\frac{22}{7} \\times r = 44 \\Rightarrow r = 7 \\) செ.மீ.",
+        "question_en": "A silver wire is bent into the shape of a square enclosing an area of 121 sq.cm. If the same wire is bent into a circle, what is the radius of the circle?",
+        "options_en": [
+            "11 cm",
+            "7 cm",
+            "3.5 cm",
+            "14 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 7 cm. Area of square = 121 sq.cm \\(\\Rightarrow\\) side a = 11 cm. Perimeter = \\( 4 \\times 11 = 44 \\) cm. Circumference of circle = \\( 2 \\pi r = 44 \\Rightarrow r = 7 \\) cm."
+    },
+    {
+        "id": 41,
+        "question": "எது தவறான கூற்று?",
+        "options": [
+            "வட்டக்கோணப்பகுதியின் மையக்கோணம் இருமடங்கானால் அதன் பரப்பளவு 4 மடங்காகும்.",
+            "வட்டத்தின் விட்டம் இருமடங்கானால் அதன் பரப்பளவு 4 மடங்காகும்.",
+            "சக்கரம் கண்டுபிடிப்புகளின் தொட்டில் எனப்படுகிறது.",
+            "வட்டக்கோணப்பகுதியின் ஆரம் மும்மடங்கானால் வட்டவில்லின் நீளம் மும்மடங்காகும்."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): வட்டக்கோணப்பகுதியின் மையக்கோணம் இருமடங்கானால் அதன் பரப்பளவு 4 மடங்காகும்.",
+        "question_en": "Which is the incorrect statement?",
+        "options_en": [
+            "If the central angle of a sector is doubled, its area becomes 4 times.",
+            "If the diameter of a circle is doubled, its area becomes 4 times.",
+            "The wheel is called the cradle of inventions.",
+            "If the radius of a sector is tripled, the arc length is tripled."
+        ],
+        "explanation_en": "Correct answer option (1): If the central angle of a sector is doubled, its area becomes 4 times."
+    },
+    {
+        "id": 42,
+        "question": "சீரான வேகத்தில் நடக்கும் ஒருவர் 150 மீ. ஆரமுள்ள வட்டப் பாதையை 9 நிமிடத்தில் சுற்றி வருகிறார் எனில், 3 நிமிடத்தில் அவர் கடக்கும் தொலைவைக் காண்க. (π = 3.14)",
+        "options": [
+            "210 மீ.",
+            "310 மீ.",
+            "314 மீ.",
+            "320 மீ."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 314 மீ.",
+        "question_en": "A person walking at a uniform speed completes one round of a circular track of radius 150 m in 9 minutes. Find the distance he covers in 3 minutes. (π = 3.14)",
+        "options_en": [
+            "210 m",
+            "310 m",
+            "314 m",
+            "320 m"
+        ],
+        "explanation_en": "Correct answer option (3): 314 m"
+    },
+    {
+        "id": 43,
+        "question": "ஹரிகரன் என்பவர் 70 செ.மீ. ஆரமுள்ள வட்டவடிவ உணவு மேசையும், தருண் என்பவர் 140 செ.மீ. ஆரமுள்ள கால்வட்ட உணவு மேசையும் வைத்துள்ளனர் எனில், யாருடைய உணவு மேசை அதிக பரப்பளவைக் கொண்டுள்ளது?",
+        "options": [
+            "ஹரிகரன்",
+            "தருண்",
+            "சம அளவு",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): சம அளவு",
+        "question_en": "Hariharan has a circular dining table of radius 70 cm and Tarun has a quadrant-shaped dining table of radius 140 cm. Whose dining table has a greater area?",
+        "options_en": [
+            "Hariharan",
+            "Tarun",
+            "Equal area",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (3): Equal area"
+    },
+    {
+        "id": 44,
+        "question": "120 மீ. ஆரமுள்ள வட்டமானது 8 சம அளவுள்ள வட்டகோணப் பகுதிகளாகப் பிரிக்கப்படுகிறது. அவை ஒவ்வொன்றின் வில்லின் நீளத்தைக் காண்க.",
+        "options": [
+            "\\( 30\\pi \\) மீ.",
+            "\\( 5\\pi \\) மீ.",
+            "\\( 10\\pi \\) மீ.",
+            "\\( 20\\pi \\) மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 30\\pi \\) மீ.",
+        "question_en": "A circle of radius 120 m is divided into 8 equal sectors. Find the arc length of each sector.",
+        "options_en": [
+            "\\( 30\\pi \\) m",
+            "\\( 5\\pi \\) m",
+            "\\( 10\\pi \\) m",
+            "\\( 20\\pi \\) m"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 30\\pi \\) m"
+    },
+    {
+        "id": 45,
+        "question": "7.5 செ.மீ. ஆரமுள்ள ஒரு ஸ்பின்னரானது ஆறு சம அளவுள்ள வட்டக்கோணப்பகுதிகளாகப் பிரிக்கப்பட்டுள்ளது எனில், ஒவ்வொரு வட்டக்கோணப்பகுதியின் பரப்பளவையும் காண்க.",
+        "options": [
+            "\\( 9.10\\pi \\) ச.செ.மீ.",
+            "\\( 9.375\\pi \\) ச.செ.மீ.",
+            "\\( 9.500\\pi \\) ச.செ.மீ.",
+            "\\( 9.750\\pi \\) ச.செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 9.375\\pi \\) ச.செ.மீ.",
+        "question_en": "If a spinner of radius 7.5 cm is divided into six equal sectors, find the area of each sector.",
+        "options_en": [
+            "\\( 9.10\\pi \\) sq.cm",
+            "\\( 9.375\\pi \\) sq.cm",
+            "\\( 9.500\\pi \\) sq.cm",
+            "\\( 9.750\\pi \\) sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 9.375\\pi \\) sq.cm"
+    },
+    {
+        "id": 46,
+        "question": "ஒரு வட்டத்திலிருந்து வெட்டியெடுக்கப்பட்ட 120° உள்ள ஒரு வட்டக் கூறு, \\( 9\\frac{3}{7} \\) சதுர செ.மீ. பரப்பளவு உடையது. அவ்வட்டத்தின் ஆரத்தைக் காண்க.",
+        "options": [
+            "1 செ.மீ.",
+            "2 செ.மீ.",
+            "4 செ.மீ.",
+            "3 செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 3 செ.மீ.",
+        "question_en": "A sector cut from a circle has a central angle of 120° and an area of \\( 9\\frac{3}{7} \\) sq.cm. Find the radius of the circle.",
+        "options_en": [
+            "1 cm",
+            "2 cm",
+            "4 cm",
+            "3 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 3 cm"
+    },
+    {
+        "id": 47,
+        "question": "2πr அலகுகள் சுற்றளவு உள்ள வட்டத்தின் பரப்பளவும் ஒரு சதுரத்தின் பரப்பளவும் சமம் எனில் சதுரத்தின் சுற்றளவு என்ன?",
+        "options": [
+            "\\( 2\\pi r \\) அலகுகள்",
+            "\\( 4r\\sqrt{\\pi} \\) அலகுகள்",
+            "\\( 4\\sqrt{\\pi} \\) அலகுகள்",
+            "\\( 4\\sqrt{\\pi r} \\) அலகுகள்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 4r\\sqrt{\\pi} \\) அலகுகள்",
+        "question_en": "If the area of a circle with circumference 2πr units is equal to the area of a square, what is the perimeter of the square?",
+        "options_en": [
+            "\\( 2\\pi r \\) units",
+            "\\( 4r\\sqrt{\\pi} \\) units",
+            "\\( 4\\sqrt{\\pi} \\) units",
+            "\\( 4\\sqrt{\\pi r} \\) units"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 4r\\sqrt{\\pi} \\) units"
+    },
+    {
+        "id": 48,
+        "question": "ஒரு வட்டக் கோணப்பகுதியின் ஆரம் மற்றும் பரப்பளவு முறையே 14 செ.மீ. மற்றும் 123.2 ச.செ.மீ. எனில், அதன் மையக்கோணத்தின் அளவு",
+        "options": [
+            "144°",
+            "72°",
+            "288°",
+            "216°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 72°",
+        "question_en": "If the radius and area of a circular sector are 14 cm and 123.2 sq.cm respectively, its central angle is",
+        "options_en": [
+            "144°",
+            "72°",
+            "288°",
+            "216°"
+        ],
+        "explanation_en": "Correct answer option (2): 72°"
+    },
+    {
+        "id": 49,
+        "question": "வட்டக் கோணப்பகுதியின் வில்லின் நீளம் 44 செ.மீ. மற்றும் அதன் சுற்றளவு 86 செ.மீ. எனில், வட்டக் கோணப்பகுதியின் மையக்கோணம் ____ டிகிரி ஆகும்.",
+        "options": [
+            "120",
+            "130",
+            "140",
+            "150"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 120",
+        "question_en": "If the arc length of a sector is 44 cm and its perimeter is 86 cm, the central angle of the sector is ____ degrees.",
+        "options_en": [
+            "120",
+            "130",
+            "140",
+            "150"
+        ],
+        "explanation_en": "Correct answer option (1): 120"
+    },
+    {
+        "id": 50,
+        "question": "40 செ.மீ. பக்க அளவுள்ள ஒரு சமபக்க முக்கோணத்தின் ஒரு முனையிலிருந்து 6 செ.மீ. பக்க அளவுள்ள ஒரு சமபக்க முக்கோணம் நீக்கப்படுகிறது எனில், மீதம் உள்ள பகுதியின் சுற்றளவு",
+        "options": [
+            "112 செ.மீ.",
+            "116 செ.மீ.",
+            "118 செ.மீ.",
+            "114 செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 114 செ.மீ.",
+        "question_en": "From one vertex of an equilateral triangle of side 40 cm, an equilateral triangle of side 6 cm is removed. The perimeter of the remaining portion is",
+        "options_en": [
+            "112 cm",
+            "116 cm",
+            "118 cm",
+            "114 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 114 cm"
+    },
+    {
+        "id": 51,
+        "question": "இரண்டு இணைகரங்களை ஒன்றாக இணைத்து உருவாக்கப்பட்டக் கூட்டுவடிவத்தின் பரப்பளவு (படத்தில் கொடுக்கப்பட்டுள்ளது)",
+        "options": [
+            "24 ச.செ.மீ.",
+            "48 ச.செ.மீ.",
+            "30 ச.செ.மீ.",
+            "32 ச.செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 48 ச.செ.மீ.",
+        "question_en": "Area of the combined figure formed by joining two parallelograms (refer image)",
+        "options_en": [
+            "24 sq.cm",
+            "48 sq.cm",
+            "30 sq.cm",
+            "32 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 48 sq.cm",
+        "image": "image/unit7/q51.PNG"
+    },
+    {
+        "id": 52,
+        "question": "கீழ்க்கண்ட முடிவுகளில் எந்த முடிவை மேற்கண்ட படங்களின் மூலம் எடுக்கலாம்?",
+        "options": [
+            "மூன்று படங்களின் பரப்பளவு ஒன்றுக்கொன்று வேறுபாடாக உள்ளது.",
+            "மூன்று படங்களின் பரப்பளவுகள் சமமாக உள்ளது.",
+            "மூன்று படங்களின் சுற்றளவுகளும் சமமாக உள்ளது.",
+            "முதலாம் மற்றும் இரண்டாம் படங்களின் சுற்றளவு சமம்."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): மூன்று படங்களின் பரப்பளவுகள் சமமாக உள்ளது.",
+        "question_en": "Which of the following conclusions can be drawn from the given figures?",
+        "options_en": [
+            "The areas of the three figures are different from each other.",
+            "The areas of the three figures are equal.",
+            "The perimeters of the three figures are equal.",
+            "The perimeters of the first and second figures are equal."
+        ],
+        "explanation_en": "Correct answer option (2): The areas of the three figures are equal.",
+        "image": "image/unit7/q52.PNG"
+    },
+    {
+        "id": 53,
+        "question": "கீழ்க்கண்ட கூட்டு வடிவத்தின் பரப்பு (படத்தில் கொடுக்கப்பட்டுள்ளது)",
+        "options": [
+            "32 மீ²",
+            "16 மீ²",
+            "24 மீ²",
+            "64 மீ²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 24 மீ²",
+        "question_en": "The area of the following combined figure (refer image)",
+        "options_en": [
+            "32 m²",
+            "16 m²",
+            "24 m²",
+            "64 m²"
+        ],
+        "explanation_en": "Correct answer option (3): 24 m²",
+        "image": "image/unit7/q53.PNG"
+    },
+    {
+        "id": 54,
+        "question": "கொடுக்கப்பட்ட படத்தில் உள்ள சதுரம் மற்றும் வட்டம் ஆகியவற்றின் சுற்றளவுகளின் வித்தியாசம் என்ன?",
+        "options": [
+            "56 cm",
+            "12 cm",
+            "14 cm",
+            "44 cm"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 12 cm",
+        "question_en": "What is the difference between the perimeters of the square and the circle in the given figure?",
+        "options_en": [
+            "56 cm",
+            "12 cm",
+            "14 cm",
+            "44 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 12 cm",
+        "image": "image/unit7/q54.PNG"
+    },
+    {
+        "id": 55,
+        "question": "கொடுக்கப்பட்ட ABCD என்ற செவ்வகத்தில் ED = BF எனில், நிழலிடப்பட்ட பகுதியின் பரப்பளவு காண்க.",
+        "options": [
+            "1920 cm²",
+            "480 cm²",
+            "1440 cm²",
+            "1240 cm²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1440 cm²",
+        "question_en": "In the given rectangle ABCD, if ED = BF, find the area of the shaded region.",
+        "options_en": [
+            "1920 cm²",
+            "480 cm²",
+            "1440 cm²",
+            "1240 cm²"
+        ],
+        "explanation_en": "Correct answer option (3): 1440 cm²",
+        "image": "image/unit7/q55.PNG"
+    },
+    {
+        "id": 56,
+        "question": "'a' அலகு பக்க அளவுள்ள ஒரு சதுரத்திலிருந்து மிகப்பெரிய வட்டத்தை வெட்டி எடுத்தால் மீதமுள்ள பகுதியின் பரப்பளவு",
+        "options": [
+            "\\( \\frac{11}{14}a^2 \\) ச.அ.",
+            "\\( \\frac{3}{14}a^2 \\) ச.அ.",
+            "\\( \\frac{14}{3}a^2 \\) ச.அ.",
+            "\\( \\pi a^2 \\) ச.அ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\frac{3}{14}a^2 \\) ச.அ.",
+        "question_en": "If the largest possible circle is cut out from a square of side 'a' units, the area of the remaining portion is",
+        "options_en": [
+            "\\( \\frac{11}{14}a^2 \\) sq. units",
+            "\\( \\frac{3}{14}a^2 \\) sq. units",
+            "\\( \\frac{14}{3}a^2 \\) sq. units",
+            "\\( \\pi a^2 \\) sq. units"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\frac{3}{14}a^2 \\) sq. units"
+    },
+    {
+        "id": 57,
+        "question": "'a' அலகு பக்க அளவுள்ள ஒரு சதுரத்திலிருந்து வெட்டியெடுக்கப்படும் மிகப்பெரிய வட்டத்தின் பரப்பு என்ன?",
+        "options": [
+            "\\( \\frac{3}{14}a^2 \\) ச.அ.",
+            "\\( \\frac{14}{11}a^2 \\) ச.அ.",
+            "\\( \\frac{14}{3}a^2 \\) ச.அ.",
+            "\\( \\frac{11}{14}a^2 \\) ச.அ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( \\frac{11}{14}a^2 \\) ச.அ.",
+        "question_en": "What is the area of the largest circle that can be cut out from a square of side 'a' units?",
+        "options_en": [
+            "\\( \\frac{3}{14}a^2 \\) sq. units",
+            "\\( \\frac{14}{11}a^2 \\) sq. units",
+            "\\( \\frac{14}{3}a^2 \\) sq. units",
+            "\\( \\frac{11}{14}a^2 \\) sq. units"
+        ],
+        "explanation_en": "Correct answer option (4): \\( \\frac{11}{14}a^2 \\) sq. units"
+    },
+    {
+        "id": 58,
+        "question": "படத்தில் உள்ள நிழலிட்ட பகுதியின் பரப்பளவு",
+        "options": [
+            "94 செ.மீ²",
+            "90 செ.மீ²",
+            "88 செ.மீ²",
+            "308 செ.மீ²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 88 செ.மீ²",
+        "question_en": "Area of the shaded region in the figure",
+        "options_en": [
+            "94 sq.cm",
+            "90 sq.cm",
+            "88 sq.cm",
+            "308 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 88 sq.cm",
+        "image": "image/unit7/q58.PNG"
+    },
+    {
+        "id": 59,
+        "question": "கீழே கொடுக்கப்பட்டுள்ள கூட்டு உருவத்தின் பரப்பு மற்றும் சுற்றளவு காண்க (அலகுகளில்).",
+        "options": [
+            "155, 46",
+            "156, 45",
+            "112, 46",
+            "112, 44"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 112, 46",
+        "question_en": "Find the area and perimeter of the combined figure given below (in units).",
+        "options_en": [
+            "155, 46",
+            "156, 45",
+            "112, 46",
+            "112, 44"
+        ],
+        "explanation_en": "Correct answer option (3): 112, 46",
+        "image": "image/unit7/q59.PNG"
+    },
+    {
+        "id": 60,
+        "question": "படத்தில் உள்ள வடிவத்தின் சுற்றளவு",
+        "options": [
+            "30 செ.மீ.",
+            "38 செ.மீ.",
+            "48 செ.மீ.",
+            "35 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 30 செ.மீ.",
+        "question_en": "Perimeter of the figure shown",
+        "options_en": [
+            "30 cm",
+            "38 cm",
+            "48 cm",
+            "35 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 30 cm",
+        "image": "image/unit7/q60.PNG"
+    },
+    {
+        "id": 61,
+        "question": "கொடுக்கப்பட்ட வடிவத்தின் பரப்பளவு என்ன?",
+        "options": [
+            "40.25 ச.செ.மீ.",
+            "50.75 ச.செ.மீ.",
+            "27.93 ச.செ.மீ.",
+            "21.5 ச.செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 50.75 ச.செ.மீ.",
+        "question_en": "What is the area of the given figure?",
+        "options_en": [
+            "40.25 sq.cm",
+            "50.75 sq.cm",
+            "27.93 sq.cm",
+            "21.5 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 50.75 sq.cm",
+        "image": "image/unit7/q61.PNG"
+    },
+    {
+        "id": 62,
+        "question": "படத்தில் நிழலிடப்பட்டுள்ள பகுதியின் பரப்பளவு",
+        "options": [
+            "27.93 ச.செ.மீ.",
+            "40.25 ச.செ.மீ.",
+            "20.5 ச.செ.மீ.",
+            "21.5 ச.செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 21.5 ச.செ.மீ.",
+        "question_en": "Area of the shaded region in the figure",
+        "options_en": [
+            "27.93 sq.cm",
+            "40.25 sq.cm",
+            "20.5 sq.cm",
+            "21.5 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 21.5 sq.cm",
+        "image": "image/unit7/q62.PNG"
+    },
+    {
+        "id": 63,
+        "question": "நிழலிடப்படாத பகுதியின் பரப்பளவு என்ன?",
+        "options": [
+            "175 ச.செ.மீ.",
+            "165 ச.செ.மீ.",
+            "145 ச.செ.மீ.",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): இவற்றில் எதுவுமில்லை",
+        "question_en": "What is the area of the unshaded region?",
+        "options_en": [
+            "175 sq.cm",
+            "165 sq.cm",
+            "145 sq.cm",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (4): None of these",
+        "image": "image/unit7/q63.PNG"
+    },
+    {
+        "id": 64,
+        "question": "பக்கம் 4 செ.மீ., உள்ள சமபக்க முக்கோணத்தின் பரப்பளவைக் காண்க.",
+        "options": [
+            "\\( \\sqrt{3} \\) ச.செ.மீ.",
+            "\\( 2\\sqrt{3} \\) ச.செ.மீ.",
+            "\\( 3\\sqrt{3} \\) ச.செ.மீ.",
+            "\\( 4\\sqrt{3} \\) ச.செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 4\\sqrt{3} \\) ச.செ.மீ.",
+        "question_en": "Find the area of an equilateral triangle of side 4 cm.",
+        "options_en": [
+            "\\( \\sqrt{3} \\) sq.cm",
+            "\\( 2\\sqrt{3} \\) sq.cm",
+            "\\( 3\\sqrt{3} \\) sq.cm",
+            "\\( 4\\sqrt{3} \\) sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 4\\sqrt{3} \\) sq.cm"
+    },
+    {
+        "id": 65,
+        "question": "கூட்டு உருவத்தின் சுற்றளவு மற்றும் பரப்பளவு என்ன?",
+        "options": [
+            "28 செ.மீ., 33 ச.செ.மீ.",
+            "36 செ.மீ., 45 ச.செ.மீ.",
+            "60 செ.மீ., 96 ச.செ.மீ.",
+            "30 செ.மீ., 49 ச.செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 36 செ.மீ., 45 ச.செ.மீ.",
+        "question_en": "What is the perimeter and area of the combined figure?",
+        "options_en": [
+            "28 cm, 33 sq.cm",
+            "36 cm, 45 sq.cm",
+            "60 cm, 96 sq.cm",
+            "30 cm, 49 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (2): 36 cm, 45 sq.cm",
+        "image": "image/unit7/q65.PNG"
+    },
+    {
+        "id": 66,
+        "question": "சமபக்க முக்கோணத்தின் உயரம் \\( 4\\sqrt{3} \\) செ.மீ. எனில், அதன் பக்க அளவு",
+        "options": [
+            "8 செ.மீ.",
+            "16 செ.மீ.",
+            "4 செ.மீ.",
+            "\\( 2\\sqrt{3} \\) செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 8 செ.மீ.",
+        "question_en": "If the height of an equilateral triangle is \\( 4\\sqrt{3} \\) cm, its side length is",
+        "options_en": [
+            "8 cm",
+            "16 cm",
+            "4 cm",
+            "\\( 2\\sqrt{3} \\) cm"
+        ],
+        "explanation_en": "Correct answer option (1): 8 cm"
+    },
+    {
+        "id": 67,
+        "question": "15 மீ. x 8 மீ. என்ற அளவுகள் கொண்ட செவ்வக வடிவ நிலத்தின் 4 மூலைகளிலும், அதன் நடுவிலும் 3 மீ. நீளமுள்ள கயிற்றால் பசுக்கள் கட்டப்பட்டுள்ளன எனில், எந்த பசுவாலும் புற்கள் மேயாத பகுதியின் பரப்பளவைக் காண்க.",
+        "options": [
+            "63 மீ²",
+            "63.48 மீ²",
+            "62.40 மீ²",
+            "70 மீ²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 63.48 மீ²",
+        "question_en": "In a rectangular field of dimensions 15 m x 8 m, cows are tied at the 4 corners and at the center with ropes of length 3 m. Find the area of the field that is not grazed by any cow.",
+        "options_en": [
+            "63 m²",
+            "63.48 m²",
+            "62.40 m²",
+            "70 m²"
+        ],
+        "explanation_en": "Correct answer option (2): 63.48 m²"
+    },
+    {
+        "id": 68,
+        "question": "கொடுக்கப்பட்ட படமானது ஓர் அரைவட்டத்தின் மேல் ஒரு முக்கோணம் சரியாகப் பொருந்துமாறு அமைக்கப்பட்டுள்ளது. எனில் இக்கூட்டு வடிவத்தின் பரப்பளவு என்ன?",
+        "options": [
+            "112 cm²",
+            "224 cm²",
+            "264 cm²",
+            "342 cm²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 224 cm²",
+        "question_en": "The given figure is formed by exactly mounting a triangle on a semicircle. What is the area of this combined figure?",
+        "options_en": [
+            "112 cm²",
+            "224 cm²",
+            "264 cm²",
+            "342 cm²"
+        ],
+        "explanation_en": "Correct answer option (2): 224 cm²",
+        "image": "image/unit7/q68.PNG"
+    },
+    {
+        "id": 69,
+        "question": "படத்தில் நிழலிடப்படாத பகுதியின் பரப்பளவு என்ன?",
+        "options": [
+            "120 cm²",
+            "24 cm²",
+            "72 cm²",
+            "96 cm²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 72 cm²",
+        "question_en": "What is the area of the unshaded region in the figure?",
+        "options_en": [
+            "120 cm²",
+            "24 cm²",
+            "72 cm²",
+            "96 cm²"
+        ],
+        "explanation_en": "Correct answer option (3): 72 cm²",
+        "image": "image/unit7/q69.PNG"
+    },
+    {
+        "id": 70,
+        "question": "கொடுக்கப்பட்ட படமானது ஓர் அரைவட்டமும் ஓர் இருசமபக்க முக்கோணமும் சேர்த்து உருவாக்கப் பட்டுள்ளது. எனில் இக்கூட்டு வடிவத்தின் சுற்றளவு என்ன?",
+        "options": [
+            "8+14π",
+            "2(7+2π)",
+            "176/7",
+            "2(7+4π)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2(7+2π)",
+        "question_en": "The given figure is formed by a semicircle and an isosceles triangle. What is the perimeter of this combined figure?",
+        "options_en": [
+            "8+14π",
+            "2(7+2π)",
+            "176/7",
+            "2(7+4π)"
+        ],
+        "explanation_en": "Correct answer option (2): 2(7+2π)",
+        "image": "image/unit7/q70.PNG"
+    },
+    {
+        "id": 71,
+        "question": "கொடுக்கப்பட்ட நிழலிடப்பட்ட பகுதியின் பரப்பளவு என்ன?",
+        "options": [
+            "38.5 cm²",
+            "10.5 cm²",
+            "49 cm²",
+            "14π cm²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 10.5 cm²",
+        "question_en": "What is the area of the given shaded region?",
+        "options_en": [
+            "38.5 cm²",
+            "10.5 cm²",
+            "49 cm²",
+            "14π cm²"
+        ],
+        "explanation_en": "Correct answer option (2): 10.5 cm²",
+        "image": "image/unit7/q71.PNG"
+    },
+    {
+        "id": 72,
+        "question": "ஒரு வட்டத்தின் ஆரம் \\( 1\\frac{1}{2} \\) மடங்கு அதிகரித்தால் கிடைக்கும் புதிய வட்டத்தின் பரப்பளவு ____ மடங்கு அதிகரிக்கும்.",
+        "options": [
+            "\\( 2\\frac{1}{4} \\)",
+            "3",
+            "\\( \\frac{3}{2} \\)",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 2\\frac{1}{4} \\)",
+        "question_en": "If the radius of a circle is increased by \\( 1\\frac{1}{2} \\) times, the area of the new circle increases by ____ times.",
+        "options_en": [
+            "\\( 2\\frac{1}{4} \\)",
+            "3",
+            "\\( \\frac{3}{2} \\)",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 2\\frac{1}{4} \\)"
+    },
+    {
+        "id": 73,
+        "question": "14 cm பக்க அளவுள்ள ஒரு சதுரத்தில் இருந்து வெட்டி எடுக்கப்படும் மிகப்பெரிய வட்டத்தின் பரப்பு",
+        "options": [
+            "154 cm²",
+            "196 cm²",
+            "164 cm²",
+            "128 cm²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 154 cm²",
+        "question_en": "The area of the largest circle that can be cut from a square of side 14 cm is",
+        "options_en": [
+            "154 cm²",
+            "196 cm²",
+            "164 cm²",
+            "128 cm²"
+        ],
+        "explanation_en": "Correct answer option (1): 154 cm²"
+    },
+    {
+        "id": 74,
+        "question": "கொடுக்கப்பட்ட கால்வட்டத்தில் நிழலிடப்பட்ட பகுதியின் பரப்பளவு?",
+        "options": [
+            "24.5 cm²",
+            "38.5 cm²",
+            "28 cm²",
+            "10.5 cm²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 24.5 cm²",
+        "question_en": "What is the area of the shaded region in the given quadrant?",
+        "options_en": [
+            "24.5 cm²",
+            "38.5 cm²",
+            "28 cm²",
+            "10.5 cm²"
+        ],
+        "explanation_en": "Correct answer option (1): 24.5 cm²",
+        "image": "image/unit7/q74.PNG"
+    },
+    {
+        "id": 75,
+        "question": "ஒரு காரின் கண்ணாடி சரிவக வடிவில் உள்ளது. அதன் துடைப்பானின் (wiper) நீளம் 70 cm ஆகும். எனில் துடைப்பானால் சுத்தம் செய்ய முடியாத பகுதியின் பரப்பளவு என்ன?",
+        "options": [
+            "2100 cm²",
+            "10800 cm²",
+            "7700 cm²",
+            "3100 cm²"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 3100 cm²",
+        "question_en": "A car's windshield is in the shape of a trapezium. The length of its wiper is 70 cm. What is the area of the uncleaned portion by the wiper?",
+        "options_en": [
+            "2100 cm²",
+            "10800 cm²",
+            "7700 cm²",
+            "3100 cm²"
+        ],
+        "explanation_en": "Correct answer option (4): 3100 cm²",
+        "image": "image/unit7/q75.PNG"
+    },
+    {
+        "id": 76,
+        "question": "படத்தில் உள்ளவாறு ஒரு பள்ளியின் விளையாட்டு மைதானம் அமைந்துள்ளது. எனில் அதன் சுற்றளவு என்ன?",
+        "options": [
+            "460 m",
+            "640 m",
+            "220 m",
+            "840 m"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 460 m",
+        "question_en": "A school playground is as shown in the figure. What is its perimeter?",
+        "options_en": [
+            "460 m",
+            "640 m",
+            "220 m",
+            "840 m"
+        ],
+        "explanation_en": "Correct answer option (1): 460 m",
+        "image": "image/unit7/q76.PNG"
+    },
+    {
+        "id": 77,
+        "question": "கொடுக்கப்பட்ட படத்தில் சதுரத்தின் பக்க அளவு 10 cm எனில், நிழல் இடப்பட்ட பகுதியின் பரப்பு?",
+        "options": [
+            "42.86 cm²",
+            "42.86 cm²",
+            "57.14 cm²",
+            "67.14 cm²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 57.14 cm²",
+        "question_en": "In the given figure, if the side of the square is 10 cm, what is the area of the shaded region?",
+        "options_en": [
+            "42.86 cm²",
+            "42.86 cm²",
+            "57.14 cm²",
+            "67.14 cm²"
+        ],
+        "explanation_en": "Correct answer option (3): 57.14 cm²",
+        "image": "image/unit7/q77.PNG"
+    },
+    {
+        "id": 78,
+        "question": "கொடுக்கப்பட்ட படத்தில் சதுரத்தின் பக்க அளவு 7 cm எனில், நிழல் இடப்பட்ட பகுதியின் பரப்பு?",
+        "options": [
+            "21 cm²",
+            "28 cm²",
+            "35 cm²",
+            "14 cm²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 21 cm²",
+        "question_en": "In the given figure, if the side of the square is 7 cm, what is the area of the shaded region?",
+        "options_en": [
+            "21 cm²",
+            "28 cm²",
+            "35 cm²",
+            "14 cm²"
+        ],
+        "explanation_en": "Correct answer option (1): 21 cm²",
+        "image": "image/unit7/q78.PNG"
+    },
+    {
+        "id": 79,
+        "question": "படத்தில் கொடுக்கப்பட்டுள்ள கூட்டு வடிவத்தின் சுற்றளவு 36 செ.மீ. எனில், அதன் பக்கம் 'a' ஐக் காண்க.",
+        "options": [
+            "3.5 செ.மீ.",
+            "3 செ.மீ.",
+            "4 செ.மீ.",
+            "6 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3.5 செ.மீ.",
+        "question_en": "If the perimeter of the combined figure given in the picture is 36 cm, find its side 'a'.",
+        "options_en": [
+            "3.5 cm",
+            "3 cm",
+            "4 cm",
+            "6 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 3.5 cm",
+        "image": "image/unit7/q79.PNG"
+    },
+    {
+        "id": 80,
+        "question": "படத்தில் நிழலிடப்பட்ட பகுதியின் பரப்பளவு என்ன?",
+        "options": [
+            "24 cm²",
+            "154 cm²",
+            "54 cm²",
+            "44 cm²"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 44 cm²",
+        "question_en": "What is the area of the shaded region in the figure?",
+        "options_en": [
+            "24 cm²",
+            "154 cm²",
+            "54 cm²",
+            "44 cm²"
+        ],
+        "explanation_en": "Correct answer option (4): 44 cm²",
+        "image": "image/unit7/q80.PNG"
+    },
+    {
+        "id": 81,
+        "question": "ஒரு கனச் செவ்வகத்தின் மூன்று பரிமாணங்கள்",
+        "options": [
+            "அடிப்பக்கம், உயரம், குத்துயரம்",
+            "நீளம், உயரம், ஆரம்",
+            "நீளம், அகலம், உயரம்",
+            "அடிப்பக்கம், உயரம், விட்டம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): நீளம், அகலம், உயரம்",
+        "question_en": "The three dimensions of a cuboid are",
+        "options_en": [
+            "Base, height, altitude",
+            "Length, height, radius",
+            "Length, breadth, height",
+            "Base, height, diameter"
+        ],
+        "explanation_en": "Correct answer option (3): Length, breadth, height"
+    },
+    {
+        "id": 82,
+        "question": "இரண்டுக்கு மேற்பட்ட விளிம்புகள் சந்திக்கும் புள்ளி",
+        "options": [
+            "முகப்பு",
+            "மேல்பக்கம்",
+            "விளிம்பு",
+            "உச்சி"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): உச்சி",
+        "question_en": "The point where more than two edges meet is called",
+        "options_en": [
+            "Front",
+            "Top",
+            "Edge",
+            "Vertex"
+        ],
+        "explanation_en": "Correct answer option (4): Vertex"
+    },
+    {
+        "id": 83,
+        "question": "ஒரு கனச்சதுரத்திற்கு எத்தனை முகங்கள் உள்ளன?",
+        "options": [
+            "6",
+            "12",
+            "8",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 6",
+        "question_en": "How many faces does a cube have?",
+        "options_en": [
+            "6",
+            "12",
+            "8",
+            "10"
+        ],
+        "explanation_en": "Correct answer option (1): 6"
+    },
+    {
+        "id": 84,
+        "question": "ஒரு திண்ம உருளையின் குறுக்குவெட்டுத்தோற்றம்",
+        "options": [
+            "முக்கோணம்",
+            "சாய்சதுரம்",
+            "வட்டம்",
+            "கனசதுரம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): வட்டம்",
+        "question_en": "The cross-section of a solid cylinder is a",
+        "options_en": [
+            "Triangle",
+            "Rhombus",
+            "Circle",
+            "Cube"
+        ],
+        "explanation_en": "Correct answer option (3): Circle"
+    },
+    {
+        "id": 85,
+        "question": "ஒரு 3-D வடிவத்தின் வலையானது ஆறு சதுர வடிவத் தளங்களைப் பெற்றிருந்தால், அது _____ என்று அழைக்கப்படுகிறது.",
+        "options": [
+            "சதுரம்",
+            "உருளை",
+            "கனச்செவ்வகம்",
+            "கனச்சதுரம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): கனச்சதுரம்",
+        "question_en": "If the net of a 3D shape consists of six square planes, it is called a",
+        "options_en": [
+            "Square",
+            "Cylinder",
+            "Cuboid",
+            "Cube"
+        ],
+        "explanation_en": "Correct answer option (4): Cube"
+    },
+    {
+        "id": 86,
+        "question": "ஒரே அளவுள்ள வட்ட வடிவத் தாள்களை ஒன்றன் மீது ஒன்றை அடுக்குவதால் உருவாகும் முப்பரிமாண உருவம்",
+        "options": [
+            "கோளம்",
+            "கூம்பு",
+            "அரைக்கோளம்",
+            "உருளை"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): உருளை",
+        "question_en": "The 3D shape formed by stacking identical circular papers one over the other is a",
+        "options_en": [
+            "Sphere",
+            "Cone",
+            "Hemisphere",
+            "Cylinder"
+        ],
+        "explanation_en": "Correct answer option (4): Cylinder"
+    },
+    {
+        "id": 87,
+        "question": "ஒரே அளவுள்ள சதுர வடிவத் தாள்களை ஒன்றன் மீது ஒன்றை அடுக்குவதால் உருவாகும் முப்பரிமாண உருவம்",
+        "options": [
+            "கோளம்",
+            "கூம்பு",
+            "கனசதுரம்",
+            "கனச்செவ்வகம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): கனச்செவ்வகம் (அல்லது கனசதுரம், உயரத்தைப் பொறுத்து).",
+        "question_en": "The 3D shape formed by stacking identical square papers one over the other is a",
+        "options_en": [
+            "Sphere",
+            "Cone",
+            "Cube",
+            "Cuboid"
+        ],
+        "explanation_en": "Correct answer option (4): Cuboid"
+    },
+    {
+        "id": 88,
+        "question": "கீழ்க்கண்டவற்றில் எது முப்பரிமாண வடிவம்?",
+        "options": [
+            "செவ்வகம்",
+            "வட்டம்",
+            "கனச்சதுரம்",
+            "சதுரம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): கனச்சதுரம்",
+        "question_en": "Which of the following is a 3D shape?",
+        "options_en": [
+            "Rectangle",
+            "Circle",
+            "Cube",
+            "Square"
+        ],
+        "explanation_en": "Correct answer option (3): Cube"
+    },
+    {
+        "id": 89,
+        "question": "கீழ்க்கண்டவற்றில் எது முப்பரிமாண வடிவம்?",
+        "options": [
+            "ஐங்கோணம்",
+            "அறுகோணம்",
+            "முக்கோணப்பிரமீடு",
+            "பலகோணம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): முக்கோணப்பிரமீடு",
+        "question_en": "Which of the following is a 3D shape?",
+        "options_en": [
+            "Pentagon",
+            "Hexagon",
+            "Triangular pyramid",
+            "Polygon"
+        ],
+        "explanation_en": "Correct answer option (3): Triangular pyramid"
+    },
+    {
+        "id": 90,
+        "question": "ஒரு கனச் சதுரமானது ____ ஐப் பெற்றிருக்கும்.",
+        "options": [
+            "6 முகங்கள் 8 விளிம்புகள் 10 உச்சிகள்",
+            "6 முகங்கள் 8 விளிம்புகள் 12 உச்சிகள்",
+            "6 முகங்கள் 12 விளிம்புகள் 10 உச்சிகள்",
+            "6 முகங்கள் 12 விளிம்புகள் 8 உச்சிகள்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 6 முகங்கள் 12 விளிம்புகள் 8 உச்சிகள்",
+        "question_en": "A cube has ____.",
+        "options_en": [
+            "6 faces 8 edges 10 vertices",
+            "6 faces 8 edges 12 vertices",
+            "6 faces 12 edges 10 vertices",
+            "6 faces 12 edges 8 vertices"
+        ],
+        "explanation_en": "Correct answer option (4): 6 faces 12 edges 8 vertices"
+    },
+    {
+        "id": 91,
+        "question": "பொருத்துக: (a) உருளை (b) கனச்செவ்வகம் (c) முக்கோணப் பட்டகம் (d) சதுரப் பிரமீடு",
+        "options": [
+            "a-ii, b-i, c-iv, d-iii",
+            "a-b, b-d, c-a, d-c (தவறான வடிவம்)",
+            "a-i, b-ii, c-iii, d-iv (சரியான பொருத்தம்)",
+            "i-b, ii-a, iii-d, iv-c (ஆவணப் பொருத்தம்)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (1): ஆவணத்தின்படி i-b, ii-a, iii-d, iv-c",
+        "question_en": "Match: (a) Cylinder (b) Cuboid (c) Triangular prism (d) Square pyramid",
+        "options_en": [
+            "a-ii, b-i, c-iv, d-iii",
+            "Invalid format",
+            "Direct match",
+            "Matches document key 1"
+        ],
+        "explanation_en": "Correct answer option (1) as per document."
+    },
+    {
+        "id": 92,
+        "question": "பொருத்துக (F, V, E அடிப்படையில் வடிவங்கள்)",
+        "options": [
+            "III, I, IV, II",
+            "I, III, IV, V",
+            "V, I, II, IV",
+            "III, IV, I, II"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): III, IV, I, II",
+        "question_en": "Match the shapes based on F, V, E properties",
+        "options_en": [
+            "III, I, IV, II",
+            "I, III, IV, V",
+            "V, I, II, IV",
+            "III, IV, I, II"
+        ],
+        "explanation_en": "Correct answer option (4): III, IV, I, II"
+    },
+    {
+        "id": 93,
+        "question": "ஆய்லர் சூத்திரம்",
+        "options": [
+            "F + V - E = 2",
+            "F + E - V = 2",
+            "F + V - 2 = E",
+            "E + F - V = 2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): F + V - E = 2",
+        "question_en": "Euler's formula is",
+        "options_en": [
+            "F + V - E = 2",
+            "F + E - V = 2",
+            "F + V - 2 = E",
+            "E + F - V = 2"
+        ],
+        "explanation_en": "Correct answer option (1): F + V - E = 2"
+    },
+    {
+        "id": 94,
+        "question": "முக்கோணப் பட்டகத்தின் முகங்கள், உச்சிகள் மற்றும் விளிம்புகளின் எண்ணிக்கை",
+        "options": [
+            "7, 3, 8",
+            "6, 5, 9",
+            "5, 6, 9",
+            "4, 3, 5"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 5, 6, 9",
+        "question_en": "The number of faces, vertices, and edges of a triangular prism are",
+        "options_en": [
+            "7, 3, 8",
+            "6, 5, 9",
+            "5, 6, 9",
+            "4, 3, 5"
+        ],
+        "explanation_en": "Correct answer option (3): 5, 6, 9"
+    },
+    {
+        "id": 95,
+        "question": "ஒரு முப்பரிமாண உருவத்தில் 12 முகங்கள் 28 முனைகள் எனில், விளிம்புகளின் எண்ணிக்கை",
+        "options": [
+            "18",
+            "38",
+            "42",
+            "16"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 38",
+        "question_en": "If a 3D shape has 12 faces and 28 vertices, the number of edges is",
+        "options_en": [
+            "18",
+            "38",
+            "42",
+            "16"
+        ],
+        "explanation_en": "Correct answer option (2): 38"
+    },
+    {
+        "id": 96,
+        "question": "பின்வரும் விவரங்களில் எது ஆய்லர் சூத்திரத்திற்குப் பொருந்தாது?",
+        "options": [
+            "F=6, V=8, E=12",
+            "F=4, V=4, E=6",
+            "F=10, V=6, E=12",
+            "F=32, V=60, E=90"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): F=10, V=6, E=12",
+        "question_en": "Which of the following does not satisfy Euler's formula?",
+        "options_en": [
+            "F=6, V=8, E=12",
+            "F=4, V=4, E=6",
+            "F=10, V=6, E=12",
+            "F=32, V=60, E=90"
+        ],
+        "explanation_en": "Correct answer option (3): F=10, V=6, E=12"
+    },
+    {
+        "id": 97,
+        "question": "சரியான முகப்புத் தோற்றம், மேல்பக்கத் தோற்றம் மற்றும் பக்கவாட்டுத் தோற்றம் காண்க.",
+        "options": [
+            "விருப்பம் 1",
+            "விருப்பம் 2",
+            "விருப்பம் 3",
+            "விருப்பம் 4"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2)",
+        "question_en": "Find the correct Front, Top, and Side views.",
+        "options_en": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "explanation_en": "Correct answer option (2)",
+        "image": "image/unit8/q97.PNG"
+    },
+    {
+        "id": 98,
+        "question": "ஆயிலர் சூத்திரத்தைப் பயன்படுத்தி அட்டவணையில் உள்ள x, y மற்றும் z இன் மதிப்புகளைக் காண்க.",
+        "options": [
+            "16, 12, 30",
+            "8, 6, 10",
+            "8, 6, 30",
+            "18, 14, 32"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8, 6, 30",
+        "question_en": "Using Euler's formula, find the values of x, y, and z from the table.",
+        "options_en": [
+            "16, 12, 30",
+            "8, 6, 10",
+            "8, 6, 30",
+            "18, 14, 32"
+        ],
+        "explanation_en": "Correct answer option (3): 8, 6, 30"
+    },
+    {
+        "id": 99,
+        "question": "செவ்வகப் பிரமீட்டில் விளிம்புகளின் எண்ணிக்கை",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 8",
+        "question_en": "The number of edges in a rectangular pyramid is",
+        "options_en": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "explanation_en": "Correct answer option (4): 8"
+    },
+    {
+        "id": 100,
+        "question": "கூம்பிற்கு எத்தனை உச்சிகள் உள்ளன?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "0"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "How many vertices does a cone have?",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "0"
+        ],
+        "explanation_en": "Correct answer option (1): 1"
+    },
+    {
+        "id": 101,
+        "question": "ஒரே ஒரு சமதளப் பரப்பு கொண்ட உருவம் எது?",
+        "options": [
+            "கூம்பு",
+            "கனசெவ்வகம்",
+            "உருளை",
+            "முக்கோணப் பட்டகம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): கூம்பு",
+        "question_en": "Which shape has exactly one flat surface?",
+        "options_en": [
+            "Cone",
+            "Cuboid",
+            "Cylinder",
+            "Triangular prism"
+        ],
+        "explanation_en": "Correct answer option (1): Cone"
+    },
+    {
+        "id": 102,
+        "question": "சரியாக இரண்டு சமதளப் பரப்புகள் கொண்ட உருவம் எது?",
+        "options": [
+            "கூம்பு",
+            "கனசதுரம்",
+            "உருளை",
+            "பிரமீடு"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): உருளை",
+        "question_en": "Which shape has exactly two flat surfaces?",
+        "options_en": [
+            "Cone",
+            "Cube",
+            "Cylinder",
+            "Pyramid"
+        ],
+        "explanation_en": "Correct answer option (3): Cylinder"
+    },
+    {
+        "id": 103,
+        "question": "கீழ்க்கண்டவற்றில் எது அதிக உச்சிகளைக் கொண்டது?",
+        "options": [
+            "கூம்பு",
+            "உருளை",
+            "கனசெவ்வகம்",
+            "பிரமீடு"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): கனசெவ்வகம்",
+        "question_en": "Which of the following has the most vertices?",
+        "options_en": [
+            "Cone",
+            "Cylinder",
+            "Cuboid",
+            "Pyramid"
+        ],
+        "explanation_en": "Correct answer option (3): Cuboid"
+    },
+    {
+        "id": 104,
+        "question": "படத்தில் உள்ள திண்ம உருவத்தைக் கொடுக்கப்பட்ட கோட்டைக் கொண்டு வெட்டினால் கிடைப்பது",
+        "options": [
+            "விருப்பம் 1",
+            "விருப்பம் 2",
+            "விருப்பம் 3",
+            "விருப்பம் 4"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4)",
+        "question_en": "If the solid figure shown is cut along the given line, the resulting cross-section is",
+        "options_en": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4"
+        ],
+        "explanation_en": "Correct answer option (4)",
+        "image": "image/unit8/q104.PNG"
+    },
+    {
+        "id": 105,
+        "question": "பொருத்துக: a) கனசதுரம் b) உருளை c) கோளம் d) கூம்பு",
+        "options": [
+            "a-ii b-iii c-iv d-i",
+            "a-iv b-i c-ii d-iii",
+            "a-ii b-i c-iv d-iii",
+            "a-ii b-i c-iii d-iv"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): a-ii b-i c-iii d-iv",
+        "question_en": "Match: a) Cube b) Cylinder c) Sphere d) Cone",
+        "options_en": [
+            "a-ii b-iii c-iv d-i",
+            "a-iv b-i c-ii d-iii",
+            "a-ii b-i c-iv d-iii",
+            "a-ii b-i c-iii d-iv"
+        ],
+        "explanation_en": "Correct answer option (4): a-ii b-i c-iii d-iv"
+    },
+    {
+        "id": 106,
+        "question": "கீழ்க்கண்டவற்றுள் எது கனசதுரத்தின் இரு பரிமாண வலை அன்று?",
+        "options": [
+            "வடிவம் 1",
+            "வடிவம் 2",
+            "வடிவம் 3",
+            "வடிவம் 4"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4)",
+        "question_en": "Which of the following is NOT a 2D net of a cube?",
+        "options_en": [
+            "Figure 1",
+            "Figure 2",
+            "Figure 3",
+            "Figure 4"
+        ],
+        "explanation_en": "Correct answer option (4)",
+        "image": "image/unit8/q106.PNG"
+    },
+    {
+        "id": 107,
+        "question": "கீழ்க்கண்டவற்றுள் சரியான கூற்று எது?",
+        "options": [
+            "ஒரு கூம்பு இரண்டு உச்சிகளைக் கொண்டது.",
+            "ஒரு கனசதுரம் 8 உச்சிகளைக் கொண்டது.",
+            "உருளை ஒரே ஒரு முனையைக் கொண்டது.",
+            "ஒரு கனசெவ்வகம் 10 முகங்களைக் கொண்டது."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): ஒரு கனசதுரம் 8 உச்சிகளைக் கொண்டது.",
+        "question_en": "Which of the following statements is correct?",
+        "options_en": [
+            "A cone has two vertices.",
+            "A cube has 8 vertices.",
+            "A cylinder has only one vertex.",
+            "A cuboid has 10 faces."
+        ],
+        "explanation_en": "Correct answer option (2): A cube has 8 vertices."
+    },
+    {
+        "id": 108,
+        "question": "கொடுக்கப்பட்ட வடிவங்களை மேற்புறத் தோற்றமாகவும் (T) முகப்புத் தோற்றமாகவும் (F) கொண்ட உருவம் எது?",
+        "options": [
+            "உருளை",
+            "கூம்பு",
+            "பிரமீடு",
+            "கனசெவ்வகம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): உருளை",
+        "question_en": "Which shape has the given figures as its Top view (T) and Front view (F)?",
+        "options_en": [
+            "Cylinder",
+            "Cone",
+            "Pyramid",
+            "Cuboid"
+        ],
+        "explanation_en": "Correct answer option (1): Cylinder",
+        "image": "image/unit8/q108.PNG"
+    },
+    {
+        "id": 109,
+        "question": "மூன்று செவ்வகங்கள், இரண்டு முக்கோணங்கள் ஆகியவற்றை முகங்களாகக் கொண்ட முப்பரிமாண உருவம் எது?",
+        "options": [
+            "உருளை",
+            "முக்கோணப் பட்டகம்",
+            "பிரமீடு",
+            "கனசெவ்வகம்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): முக்கோணப் பட்டகம்",
+        "question_en": "Which 3D shape has three rectangles and two triangles as its faces?",
+        "options_en": [
+            "Cylinder",
+            "Triangular prism",
+            "Pyramid",
+            "Cuboid"
+        ],
+        "explanation_en": "Correct answer option (2): Triangular prism"
+    },
+    {
+        "id": 110,
+        "question": "ஒரு முப்பரிமாண உருவத்திற்கு 25 முனைகள், 12 முகங்கள் எனில், விளிம்புகளின் எண்ணிக்கை என்ன?",
+        "options": [
+            "40",
+            "15",
+            "35",
+            "10"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 35",
+        "question_en": "If a 3D shape has 25 vertices and 12 faces, what is the number of edges?",
+        "options_en": [
+            "40",
+            "15",
+            "35",
+            "10"
+        ],
+        "explanation_en": "Correct answer option (3): 35"
+    },
+    {
+        "id": 111,
+        "question": "ஒரு முப்பரிமாண உருவம் 18 விளிம்புகள் கொண்டது. எனில், உச்சிகள் மற்றும் முகங்களின் கூடுதல் என்ன?",
+        "options": [
+            "30",
+            "20",
+            "16",
+            "32"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 20",
+        "question_en": "A 3D shape has 18 edges. What is the sum of its vertices and faces?",
+        "options_en": [
+            "30",
+            "20",
+            "16",
+            "32"
+        ],
+        "explanation_en": "Correct answer option (2): 20"
+    },
+    {
+        "id": 112,
+        "question": "2cm x 2cm x 2cm பரிமாணமுடைய இரு கனசதுரங்களை இணைத்து உருவாக்கப்படும் கனசெவ்வகத்தின் பரிமாணம் என்ன?",
+        "options": [
+            "4cm x 4cm x 4cm",
+            "8cm x 8cm x 8cm",
+            "6cm x 4cm x 2cm",
+            "4cm x 2cm x 2cm"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 4cm x 2cm x 2cm",
+        "question_en": "What are the dimensions of the cuboid formed by joining two cubes of dimensions 2cm x 2cm x 2cm?",
+        "options_en": [
+            "4cm x 4cm x 4cm",
+            "8cm x 8cm x 8cm",
+            "6cm x 4cm x 2cm",
+            "4cm x 2cm x 2cm"
+        ],
+        "explanation_en": "Correct answer option (4): 4cm x 2cm x 2cm"
+    },
+    {
+        "id": 113,
+        "question": "ஒரு முப்பரிமாண உருவத்தின் விளிம்புகளின் எண்ணிக்கையிலிருந்து முனைகளின் எண்ணிக்கையைக் கழித்தால் 7 கிடைக்கும் எனில், முகங்களின் எண்ணிக்கை என்ன?",
+        "options": [
+            "5",
+            "9",
+            "11",
+            "13"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 9",
+        "question_en": "If subtracting the number of vertices from the number of edges of a 3D shape gives 7, what is the number of faces?",
+        "options_en": [
+            "5",
+            "9",
+            "11",
+            "13"
+        ],
+        "explanation_en": "Correct answer option (2): 9"
+    },
+    {
+        "id": 114,
+        "question": "2 cm பக்க அளவுள்ள கனசதுரத்தின் அனைத்து விளிம்புகளின் மொத்த நீளம்",
+        "options": [
+            "30 cm",
+            "24 cm",
+            "12 cm",
+            "16 cm"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 24 cm",
+        "question_en": "The total length of all edges of a cube of side 2 cm is",
+        "options_en": [
+            "30 cm",
+            "24 cm",
+            "12 cm",
+            "16 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 24 cm"
+    },
+    {
+        "id": 115,
+        "question": "கொடுக்கப்பட்ட படத்தின் பரப்பளவைக் காண்க.",
+        "options": [
+            "\\( 24\\sqrt{3} \\) செ.மீ²",
+            "\\( 48\\sqrt{3} \\) செ.மீ²",
+            "\\( 72\\sqrt{3} \\) செ.மீ²",
+            "36 செ.மீ²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 48\\sqrt{3} \\) செ.மீ²",
+        "question_en": "Find the area of the given figure.",
+        "options_en": [
+            "\\( 24\\sqrt{3} \\) cm²",
+            "\\( 48\\sqrt{3} \\) cm²",
+            "\\( 72\\sqrt{3} \\) cm²",
+            "36 cm²"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 48\\sqrt{3} \\) cm²",
+        "image": "image/unit8/q115.PNG"
+    },
+    {
+        "id": 116,
+        "question": "21 செ.மீ. பக்க அளவுள்ள ஒரு சதுரத்தினுள் வரையக்கூடிய மிகப்பெரிய வட்டத்தின் பரப்பளவு காண்க.",
+        "options": [
+            "346.5 செ.மீ²",
+            "345 செ.மீ²",
+            "348 செ.மீ²",
+            "348.5 செ.மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 346.5 செ.மீ²",
+        "question_en": "Find the area of the largest circle that can be drawn inside a square of side 21 cm.",
+        "options_en": [
+            "346.5 cm²",
+            "345 cm²",
+            "348 cm²",
+            "348.5 cm²"
+        ],
+        "explanation_en": "Correct answer option (1): 346.5 cm²"
+    },
+    {
+        "id": 117,
+        "question": "ஒரு வட்ட வடிவ சுவர்க்கடிகாரத்தின் நிமிட முள்ளின் நீளம் 3.5 செ.மீ. எனில், அது ஒரு மணி நேரத்தில் சுற்றி வரும் இடத்தின் பரப்பு",
+        "options": [
+            "64.85 செ.மீ²",
+            "38.50 செ.மீ²",
+            "12.25 செ.மீ²",
+            "21.05 செ.மீ²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 38.50 செ.மீ²",
+        "question_en": "If the length of the minute hand of a circular wall clock is 3.5 cm, the area swept by it in one hour is",
+        "options_en": [
+            "64.85 cm²",
+            "38.50 cm²",
+            "12.25 cm²",
+            "21.05 cm²"
+        ],
+        "explanation_en": "Correct answer option (2): 38.50 cm²"
+    },
+    {
+        "id": 118,
+        "question": "\\( (\\frac{\\pi}{2}+2) \\) ஐ சுற்றளவாகக் கொண்ட கால் வட்டக்கோணப்பகுதியின் வட்டத்தின் ஆரம்",
+        "options": [
+            "1",
+            "r",
+            "2",
+            "4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1",
+        "question_en": "The radius of the circle of a quadrant whose perimeter is \\( (\\frac{\\pi}{2}+2) \\) is",
+        "options_en": [
+            "1",
+            "r",
+            "2",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (1): 1"
+    },
+    {
+        "id": 119,
+        "question": "ஒரு படமானது அரைவட்டப்பகுதி, ஒரு சதுரத்தின் மேல் அமைந்துள்ளது போல் உள்ளது. அரைவட்டத்தின் விட்டம் சதுரத்தின் பக்கத்துடன் சரியாக பொருந்துமாறு உள்ளது. அரைவட்டப்பகுதியின் ஆரம் 'r' எனில் படத்தின் சுற்றளவு",
+        "options": [
+            "\\( \\pi r+6r \\)",
+            "\\( \\pi r+8r \\)",
+            "\\( \\pi r+4r \\)",
+            "\\( \\pi r+3r \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( \\pi r+6r \\)",
+        "question_en": "A figure consists of a semicircle mounted on a square. The diameter of the semicircle exactly matches the side of the square. If the radius of the semicircle is 'r', the perimeter of the figure is",
+        "options_en": [
+            "\\( \\pi r+6r \\)",
+            "\\( \\pi r+8r \\)",
+            "\\( \\pi r+4r \\)",
+            "\\( \\pi r+3r \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( \\pi r+6r \\)",
+        "image": "image/unit8/q119.PNG"
+    },
+    {
+        "id": 120,
+        "question": "ஓர் அரைவட்டத்தின் பரப்பளவு 84 செ.மீ² எனில், அவ்வட்டத்தின் பரப்பளவு",
+        "options": [
+            "144 செ.மீ²",
+            "42 செ.மீ²",
+            "168 செ.மீ²",
+            "288 செ.மீ²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 168 செ.மீ²",
+        "question_en": "If the area of a semicircle is 84 cm², then the area of the whole circle is",
+        "options_en": [
+            "144 cm²",
+            "42 cm²",
+            "168 cm²",
+            "288 cm²"
+        ],
+        "explanation_en": "Correct answer option (3): 168 cm²"
+    },
+    {
+        "id": 121,
+        "question": "ஒரு வட்டத்தின் விட்டம் 84 செ.மீ. எனில், அதன் கால்வட்டத்தின் சுற்றளவு",
+        "options": [
+            "150 செ.மீ.",
+            "120 செ.மீ.",
+            "21 செ.மீ.",
+            "200 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 150 செ.மீ.",
+        "question_en": "If the diameter of a circle is 84 cm, the perimeter of its quadrant is",
+        "options_en": [
+            "150 cm",
+            "120 cm",
+            "21 cm",
+            "200 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 150 cm"
+    },
+    {
+        "id": 122,
+        "question": "ஒரு வட்டத்தின் காற்பகுதியில் அமையும் கோணம்",
+        "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 90°",
+        "question_en": "The angle subtended at a quadrant of a circle is",
+        "options_en": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+        ],
+        "explanation_en": "Correct answer option (1): 90°"
+    },
+    {
+        "id": 123,
+        "question": "கீழ்க்காணும் படத்தின் பரப்பளவு",
+        "options": [
+            "273",
+            "278",
+            "812",
+            "616"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 273",
+        "question_en": "The area of the following figure is",
+        "options_en": [
+            "273",
+            "278",
+            "812",
+            "616"
+        ],
+        "explanation_en": "Correct answer option (1): 273",
+        "image": "image/unit7/q123.PNG"
+    },
+    {
+        "id": 124,
+        "question": "6 செ.மீ. அளவுள்ள மூலைவிட்டத்திலிருந்து சதுரத்தின் பரப்பளவு",
+        "options": [
+            "20 செ.மீ²",
+            "36 செ.மீ²",
+            "30 செ.மீ²",
+            "18 செ.மீ²"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 18 செ.மீ²",
+        "question_en": "The area of a square with a diagonal of 6 cm is",
+        "options_en": [
+            "20 cm²",
+            "36 cm²",
+            "30 cm²",
+            "18 cm²"
+        ],
+        "explanation_en": "Correct answer option (4): 18 cm²"
+    },
+    {
+        "id": 125,
+        "question": "எந்த ஒரு வட்டத்திலும் ஆரத்திற்குச் சமமான நாண் மையத்தில் _______ கோணத்தை உண்டாக்கும்.",
+        "options": [
+            "30°",
+            "60°",
+            "90°",
+            "120°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 60°",
+        "question_en": "In any circle, a chord equal in length to the radius subtends an angle of _______ at the center.",
+        "options_en": [
+            "30°",
+            "60°",
+            "90°",
+            "120°"
+        ],
+        "explanation_en": "Correct answer option (2): 60°"
+    },
+    {
+        "id": 126,
+        "question": "ஓர் அரைவட்டத்தின் மையக்கோணத்தின் அளவு",
+        "options": [
+            "90°",
+            "360°",
+            "270°",
+            "180°"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 180°",
+        "question_en": "The central angle of a semicircle is",
+        "options_en": [
+            "90°",
+            "360°",
+            "270°",
+            "180°"
+        ],
+        "explanation_en": "Correct answer option (4): 180°"
+    },
+    {
+        "id": 127,
+        "question": "308 செ.மீ² பரப்பு கொண்ட ஒரு அரைவட்டத்தினை முழு வட்டமாக மாற்றினால், அதன் சுற்றளவு",
+        "options": [
+            "156 செ.மீ.",
+            "88 செ.மீ.",
+            "44 செ.மீ.",
+            "616 செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 88 செ.மீ.",
+        "question_en": "If a semicircle with an area of 308 cm² is made into a full circle, its perimeter is",
+        "options_en": [
+            "156 cm",
+            "88 cm",
+            "44 cm",
+            "616 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 88 cm"
+    },
+    {
+        "id": 128,
+        "question": "ஒரு இரு சமபக்க செங்கோண முக்கோணத்தின் கர்ணம் \\( 10\\sqrt{2} \\) செ.மீ. எனில், அதன் பரப்பு",
+        "options": [
+            "100 செ.மீ²",
+            "50 செ.மீ²",
+            "25 செ.மீ²",
+            "200 செ.மீ²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 50 செ.மீ²",
+        "question_en": "If the hypotenuse of an isosceles right-angled triangle is \\( 10\\sqrt{2} \\) cm, its area is",
+        "options_en": [
+            "100 cm²",
+            "50 cm²",
+            "25 cm²",
+            "200 cm²"
+        ],
+        "explanation_en": "Correct answer option (2): 50 cm²"
+    },
+    {
+        "id": 129,
+        "question": "A, B மற்றும் C ஆகியவை அரைவட்டங்களாக இருப்பின் மொத்த படத்தின் சுற்றளவு",
+        "options": [
+            "\\( 42\\pi \\)",
+            "\\( 10.5\\pi \\)",
+            "\\( 21\\pi \\)",
+            "\\( 31.5\\pi \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 21\\pi \\)",
+        "question_en": "If A, B, and C are semicircles, the perimeter of the total figure is",
+        "options_en": [
+            "\\( 42\\pi \\)",
+            "\\( 10.5\\pi \\)",
+            "\\( 21\\pi \\)",
+            "\\( 31.5\\pi \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 21\\pi \\)",
+        "image": "image/unit7/q129.PNG"
+    },
+    {
+        "id": 130,
+        "question": "கீழ்க்காணும் கூற்றுகளில் தவறான கூற்று எது?",
+        "options": [
+            "சமபக்க முக்கோணம் என்பது 3 பக்கங்கள் கொண்ட ஒழுங்குப் பல கோணமாகும்.",
+            "சதுரம் என்பது 4 பக்கங்கள் கொண்ட ஒழுங்குப் பல கோணமாகும்.",
+            "செவ்வகம் என்பது 4 பக்கங்கள் கொண்ட ஒழுங்குப் பல கோணமாகும்.",
+            "நாற்கரம் என்பது 4 பக்கங்கள் கொண்ட ஒழுங்கற்ற பல கோணமாகும்."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): செவ்வகம் என்பது 4 பக்கங்கள் கொண்ட ஒழுங்குப் பல கோணமாகும்.",
+        "question_en": "Which of the following statements is incorrect?",
+        "options_en": [
+            "An equilateral triangle is a regular polygon with 3 sides.",
+            "A square is a regular polygon with 4 sides.",
+            "A rectangle is a regular polygon with 4 sides.",
+            "A quadrilateral is an irregular polygon with 4 sides."
+        ],
+        "explanation_en": "Correct answer option (3): A rectangle is a regular polygon with 4 sides."
+    },
+    {
+        "id": 131,
+        "question": "நிழலிட்ட பகுதியின் பரப்பளவு",
+        "options": [
+            "100",
+            "78.5",
+            "21.5",
+            "40"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 78.5",
+        "question_en": "The area of the shaded region is",
+        "options_en": [
+            "100",
+            "78.5",
+            "21.5",
+            "40"
+        ],
+        "explanation_en": "Correct answer option (2): 78.5",
+        "image": "image/unit7/q131.PNG"
+    },
+    {
+        "id": 132,
+        "question": "அரைவட்டத்தின் சுற்றளவு",
+        "options": [
+            "\\( (\\pi+2)r \\) அலகுகள்",
+            "\\( (\\pi+2) \\) அலகுகள்",
+            "\\( 2(\\pi+2) \\) அலகுகள்",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( (\\pi+2)r \\) அலகுகள்",
+        "question_en": "The perimeter of a semicircle is",
+        "options_en": [
+            "\\( (\\pi+2)r \\) units",
+            "\\( (\\pi+2) \\) units",
+            "\\( 2(\\pi+2) \\) units",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (1): \\( (\\pi+2)r \\) units"
+    },
+    {
+        "id": 133,
+        "question": "10 செ.மீ. நீளமுள்ள சமபக்க முக்கோணத்தின் குத்துக்கோட்டின் நீளம்",
+        "options": [
+            "\\( \\sqrt{3} \\) செ.மீ.",
+            "\\( 5\\sqrt{3} \\) செ.மீ.",
+            "5 செ.மீ.",
+            "\\( \\sqrt{5} \\) செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 5\\sqrt{3} \\) செ.மீ.",
+        "question_en": "The length of the altitude of an equilateral triangle of side 10 cm is",
+        "options_en": [
+            "\\( \\sqrt{3} \\) cm",
+            "\\( 5\\sqrt{3} \\) cm",
+            "5 cm",
+            "\\( \\sqrt{5} \\) cm"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 5\\sqrt{3} \\) cm"
+    },
+    {
+        "id": 134,
+        "question": "கால்வட்டம் என்பது வட்டத்தின் _____ ஒரு பங்கு ஆகும்.",
+        "options": [
+            "இரண்டில்",
+            "நான்கில்",
+            "மூன்றில்",
+            "ஐந்தில்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): நான்கில்",
+        "question_en": "A quadrant is _____ part of a circle.",
+        "options_en": [
+            "One-half",
+            "One-fourth",
+            "One-third",
+            "One-fifth"
+        ],
+        "explanation_en": "Correct answer option (2): One-fourth"
+    },
+    {
+        "id": 135,
+        "question": "பலகோணத்தின் பக்கங்களும், கோணங்களும் சமமாக இருப்பின் அது ஓர்",
+        "options": [
+            "குவிந்த பலகோணம்",
+            "குழிவுப் பலகோணம்",
+            "ஒழுங்கற்ற பலகோணம்",
+            "ஒழுங்குப் பலகோணம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): ஒழுங்குப் பலகோணம்",
+        "question_en": "If all the sides and angles of a polygon are equal, it is a",
+        "options_en": [
+            "Convex polygon",
+            "Concave polygon",
+            "Irregular polygon",
+            "Regular polygon"
+        ],
+        "explanation_en": "Correct answer option (4): Regular polygon"
+    },
+    {
+        "id": 136,
+        "question": "கொடுக்கப்பட்ட படத்தின் சுற்றளவு",
+        "options": [
+            "32 செ.மீ.",
+            "20 செ.மீ.",
+            "36 செ.மீ.",
+            "30 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 32 செ.மீ.",
+        "question_en": "The perimeter of the given figure is",
+        "options_en": [
+            "32 cm",
+            "20 cm",
+            "36 cm",
+            "30 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 32 cm",
+        "image": "image/unit7/q136.PNG"
+    },
+    {
+        "id": 137,
+        "question": "கால்வட்டத்தின் சுற்றளவு",
+        "options": [
+            "\\( (\\pi+2)r \\) அலகுகள்",
+            "\\( (\\pi+2)d \\) அலகுகள்",
+            "\\( (\\frac{\\pi}{2}+2)r \\) அலகுகள்",
+            "\\( (\\frac{\\pi}{2}+2)a \\) அலகுகள்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (\\frac{\\pi}{2}+2)r \\) அலகுகள்",
+        "question_en": "The perimeter of a quadrant is",
+        "options_en": [
+            "\\( (\\pi+2)r \\) units",
+            "\\( (\\pi+2)d \\) units",
+            "\\( (\\frac{\\pi}{2}+2)r \\) units",
+            "\\( (\\frac{\\pi}{2}+2)a \\) units"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (\\frac{\\pi}{2}+2)r \\) units"
+    },
+    {
+        "id": 138,
+        "question": "ஒரு வட்டத்தின் இரண்டு ஆரங்களாலும், அந்த ஆரங்களால் வட்ட பரிதியில் வெட்டப்படும் வில்லாலும் அடைபடும் சமதளப்பகுதி",
+        "options": [
+            "மையக்கோணம்",
+            "வட்டக்கோணப்பகுதி",
+            "வட்டத்துண்டு",
+            "வட்டவில்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): வட்டக்கோணப்பகுதி",
+        "question_en": "The plane region bounded by two radii and the circular arc cut by them is called a",
+        "options_en": [
+            "Central angle",
+            "Sector",
+            "Segment",
+            "Arc"
+        ],
+        "explanation_en": "Correct answer option (2): Sector"
+    }
+]

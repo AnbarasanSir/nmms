@@ -1,0 +1,1489 @@
+[
+    {
+        "id": 1,
+        "question": "ஒரு வட்டத்தின் சுற்றளவைக் காண உதவும் சூத்திரம்",
+        "options": [
+            "\\( 2\\pi r \\) அலகுகள்",
+            "\\( \\pi r^2 + 2r \\) அலகுகள்",
+            "\\( \\pi r^2 \\) ச.அலகுகள்",
+            "\\( \\pi r^3 \\) கன அலகுகள்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 2\\pi r \\) அலகுகள்",
+        "question_en": "The formula used to find the circumference of a circle is",
+        "options_en": [
+            "\\( 2\\pi r \\) units",
+            "\\( \\pi r^2 + 2r \\) units",
+            "\\( \\pi r^2 \\) sq. units",
+            "\\( \\pi r^3 \\) cubic units"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 2\\pi r \\) units"
+    },
+    {
+        "id": 2,
+        "question": "c = 2πr என்னும் சூத்திரத்தில் r என்பது",
+        "options": [
+            "சுற்றளவு",
+            "பரப்பளவு",
+            "சுழற்சி",
+            "ஆரம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): ஆரம்",
+        "question_en": "In the formula c = 2πr, 'r' represents",
+        "options_en": [
+            "Circumference",
+            "Area",
+            "Rotation",
+            "Radius"
+        ],
+        "explanation_en": "Correct answer option (4): Radius"
+    },
+    {
+        "id": 3,
+        "question": "வட்டத்தின் சுற்றளவு என்பது எப்போதும்",
+        "options": [
+            "அதன் விட்டத்தைப் போல் மூன்று மடங்கு",
+            "அதன் விட்டத்தின் மூன்று மடங்கை விட அதிகம்",
+            "அதன் விட்டத்தின் மூன்று மடங்கை விடக் குறைவு",
+            "அதன் ஆரத்தைப் போல் மூன்று மடங்கு"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): அதன் விட்டத்தின் மூன்று மடங்கை விட அதிகம்",
+        "question_en": "The circumference of a circle is always",
+        "options_en": [
+            "Three times its diameter",
+            "More than three times its diameter",
+            "Less than three times its diameter",
+            "Three times its radius"
+        ],
+        "explanation_en": "Correct answer option (2): More than three times its diameter"
+    },
+    {
+        "id": 4,
+        "question": "ஆரம் 14 செ.மீ உடைய வட்டத் தகட்டின் சுற்றளவு",
+        "options": [
+            "88 செ.மீ",
+            "88 ச.செ.மீ",
+            "42 செ.மீ",
+            "42 ச.செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 88 செ.மீ",
+        "question_en": "The circumference of a circular disc of radius 14 cm is",
+        "options_en": [
+            "88 cm",
+            "88 sq.cm",
+            "42 cm",
+            "42 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 88 cm"
+    },
+    {
+        "id": 5,
+        "question": "ஆரம் 10 செ.மீ உடைய வட்டத்தின் சுற்றளவு (π = 3.14)",
+        "options": [
+            "31.4 செ.மீ",
+            "220/7 செ.மீ",
+            "62.8 செ.மீ",
+            "100 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 62.8 செ.மீ",
+        "question_en": "The circumference of a circle of radius 10 cm (π = 3.14) is",
+        "options_en": [
+            "31.4 cm",
+            "220/7 cm",
+            "62.8 cm",
+            "100 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 62.8 cm"
+    },
+    {
+        "id": 6,
+        "question": "கொடுக்கப்பட்ட வளையலின் சுற்றளவு காண்க (விட்டம் d = 6 cm, π = 3.14)",
+        "image": "image/unit6/q6.PNG",
+        "options": [
+            "18.84 செ.மீ",
+            "18.34 செ.மீ",
+            "84.18 செ.மீ",
+            "841.8 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 18.84 செ.மீ",
+        "question_en": "Find the circumference of the given bangle (Diameter d = 6 cm, π = 3.14)",
+        "options_en": [
+            "18.84 cm",
+            "18.34 cm",
+            "84.18 cm",
+            "841.8 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 18.84 cm"
+    },
+    {
+        "id": 7,
+        "question": "d = 70 செ.மீ. கொண்ட வட்டத்தின் சுற்றளவு",
+        "options": [
+            "110 செ.மீ",
+            "220 செ.மீ",
+            "330 செ.மீ",
+            "140 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 220 செ.மீ",
+        "question_en": "The circumference of a circle with d = 70 cm is",
+        "options_en": [
+            "110 cm",
+            "220 cm",
+            "330 cm",
+            "140 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 220 cm"
+    },
+    {
+        "id": 8,
+        "question": "விட்டம் 15 செ.மீ உடைய வட்டத்தின் சுற்றளவு",
+        "options": [
+            "46.1 செ.மீ",
+            "48.1 செ.மீ",
+            "30 செ.மீ",
+            "47.1 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 47.1 செ.மீ",
+        "question_en": "The circumference of a circle of diameter 15 cm is",
+        "options_en": [
+            "46.1 cm",
+            "48.1 cm",
+            "30 cm",
+            "47.1 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 47.1 cm"
+    },
+    {
+        "id": 9,
+        "question": "ஒரு வட்டக் கிணற்றின் விட்டம் 4.2 மீ எனில் அதன் சுற்றளவு",
+        "options": [
+            "13.2 மீ",
+            "13.8 மீ",
+            "18.4 மீ",
+            "4.96 மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 13.2 மீ",
+        "question_en": "If the diameter of a circular well is 4.2 m, then its circumference is",
+        "options_en": [
+            "13.2 m",
+            "13.8 m",
+            "18.4 m",
+            "4.96 m"
+        ],
+        "explanation_en": "Correct answer option (1): 13.2 m"
+    },
+    {
+        "id": 10,
+        "question": "ஒரு வட்டத்தின் சுற்றளவு 82π செ.மீ எனில் அதன் 'r' இன் மதிப்பு",
+        "options": [
+            "41 செ.மீ",
+            "82 செ.மீ",
+            "21 செ.மீ",
+            "20 செ.மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 41 செ.மீ",
+        "question_en": "If the circumference of a circle is 82π cm, then the value of 'r' is",
+        "options_en": [
+            "41 cm",
+            "82 cm",
+            "21 cm",
+            "20 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 41 cm"
+    },
+    {
+        "id": 11,
+        "question": "ஒரு வட்டத்தின் சுற்றளவு 132 மீ எனில் அதன் விட்டம்",
+        "options": [
+            "21 மீ",
+            "42 மீ",
+            "66 மீ",
+            "84 மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (3): 42 மீ",
+        "question_en": "If the circumference of a circle is 132 m, its diameter is",
+        "options_en": [
+            "21 m",
+            "42 m",
+            "66 m",
+            "84 m"
+        ],
+        "explanation_en": "Correct answer option (3): 42 m"
+    },
+    {
+        "id": 12,
+        "question": "ஒரு மாட்டுவண்டிச் சக்கரத்தின் விட்டம் 1.4 மீ. அது 15 முறை சுழலும் போது கடக்கும் தொலைவு",
+        "options": [
+            "84 மீ",
+            "48.4 மீ",
+            "66 மீ",
+            "76 மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 66 மீ",
+        "question_en": "The diameter of a bullock cart wheel is 1.4 m. The distance covered by it in 15 rotations is",
+        "options_en": [
+            "84 m",
+            "48.4 m",
+            "66 m",
+            "76 m"
+        ],
+        "explanation_en": "Correct answer option (3): 66 m"
+    },
+    {
+        "id": 13,
+        "question": "ஒரு விளையாட்டுத் திடல் 350 மீ விட்டத்துடன் கூடிய வட்ட வடிவில் உள்ளது. ஒர் ஓட்டப்பந்தய வீரர், அத்திடலை நான்கு முறை சுற்றி வருகிறார் எனில், அவர் கடந்த தொலைவைக் காண்க.",
+        "options": [
+            "2200 மீ",
+            "4400 மீ",
+            "4300 மீ",
+            "4200 மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 4400 மீ",
+        "question_en": "A playground is in the shape of a circle with a diameter of 350 m. If an athlete runs around the ground four times, find the distance covered by him.",
+        "options_en": [
+            "2200 m",
+            "4400 m",
+            "4300 m",
+            "4200 m"
+        ],
+        "explanation_en": "Correct answer option (2): 4400 m"
+    },
+    {
+        "id": 14,
+        "question": "1320 செ.மீ. நீளமுள்ள ஒரு கம்பி 7 செ.மீ. ஆரமுள்ள வட்டங்களாக மாற்றப்படுகிறது எனில் எத்தனை வட்டக் கம்பிகளை உருவாக்க முடியும்?",
+        "options": [
+            "40",
+            "50",
+            "20",
+            "30"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 30",
+        "question_en": "A wire of length 1320 cm is bent into circles of radius 7 cm. How many such circular wires can be made?",
+        "options_en": [
+            "40",
+            "50",
+            "20",
+            "30"
+        ],
+        "explanation_en": "Correct answer option (4): 30"
+    },
+    {
+        "id": 15,
+        "question": "கடிகாரத்தில், 56 மி.மீ நீளமுள்ள வினாடி முள்ளின் முனை ஒரு நிமிடத்தில் கடக்கும் தொலைவு",
+        "options": [
+            "42 மி.மீ",
+            "352 மி.மீ",
+            "840 மி.மீ",
+            "484 மி.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 352 மி.மீ",
+        "question_en": "The distance covered by the tip of a seconds hand of length 56 mm in a clock in one minute is",
+        "options_en": [
+            "42 mm",
+            "352 mm",
+            "840 mm",
+            "484 mm"
+        ],
+        "explanation_en": "Correct answer option (2): 352 mm"
+    },
+    {
+        "id": 16,
+        "question": "கீழ்க்கண்டவற்றில் எது சரியான கூற்று?",
+        "options": [
+            "வட்டத்தின் சுற்றளவு அதன் ஆரத்தின் 6 மடங்கை விட அதிகமாக இருக்கும்.",
+            "சமப் பரப்பளவுகளைக் கொண்ட சதுரம் மற்றும் வட்டம் ஆகியவற்றில் சதுரம் அதிக சுற்றளவைப் பெற்றிருக்கும்.",
+            "வட்டத்தின் பரிதிக்கும் விட்டத்திற்கும் இடையேயான விகிதம் எப்போதும் ஒரு மாறிலி ஆகும்.",
+            "மேற்கண்ட அனைத்தும்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): மேற்கண்ட அனைத்தும்",
+        "question_en": "Which of the following statements is correct?",
+        "options_en": [
+            "The circumference of a circle is greater than 6 times its radius.",
+            "Between a square and a circle of equal area, the square has a larger perimeter.",
+            "The ratio between the circumference and the diameter of a circle is always a constant.",
+            "All the above"
+        ],
+        "explanation_en": "Correct answer option (4): All the above"
+    },
+    {
+        "id": 17,
+        "question": "ஒரு டிராக்டர் வண்டிச் சக்கரத்தின் ஆரம் 77 செ.மீ எனில் அது 35 முறை சுற்றும் போது கடக்கும் தொலைவு",
+        "options": [
+            "484 செ.மீ",
+            "1884 செ.மீ",
+            "16940 செ.மீ",
+            "1760 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 16940 செ.மீ",
+        "question_en": "If the radius of a tractor wheel is 77 cm, the distance covered by it in 35 rotations is",
+        "options_en": [
+            "484 cm",
+            "1884 cm",
+            "16940 cm",
+            "1760 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 16940 cm"
+    },
+    {
+        "id": 18,
+        "question": "ஒரு மகிழுந்தின் சக்கரம் 20 சுற்றுகளில் 3520 செ.மீ. தொலைவை கடக்கிறது எனில் அதன் ஆரம்",
+        "options": [
+            "84 செ.மீ",
+            "25 செ.மீ",
+            "28 செ.மீ",
+            "49 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 28 செ.மீ",
+        "question_en": "A car wheel covers a distance of 3520 cm in 20 rotations. Its radius is",
+        "options_en": [
+            "84 cm",
+            "25 cm",
+            "28 cm",
+            "49 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 28 cm"
+    },
+    {
+        "id": 19,
+        "question": "ஒரு வட்ட வடிவப் புல்வெளியைச் சுற்றி அலங்கரிக்க, ஒரு மீட்டருக்கு ₹55 வீதம் ₹16940 செலவாகிறது எனில், அதன் ஆரம்",
+        "options": [
+            "49 மீ",
+            "84 மீ",
+            "28 மீ",
+            "42 மீ"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 49 மீ",
+        "question_en": "The cost of decorating around a circular lawn is ₹16940 at the rate of ₹55 per meter. Its radius is",
+        "options_en": [
+            "49 m",
+            "84 m",
+            "28 m",
+            "42 m"
+        ],
+        "explanation_en": "Correct answer option (1): 49 m"
+    },
+    {
+        "id": 20,
+        "question": "வட்டத்தின் பரப்பளவு காண உதவும் சூத்திரம்",
+        "options": [
+            "\\( 4\\pi r^2 \\) ச.அலகுகள்",
+            "\\( \\pi r^2 \\) ச.அலகுகள்",
+            "\\( 2\\pi r^2 \\) ச.அலகுகள்",
+            "\\( \\pi r^2 + 2r \\) ச.அலகுகள்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\pi r^2 \\) ச.அலகுகள்",
+        "question_en": "The formula used to find the area of a circle is",
+        "options_en": [
+            "\\( 4\\pi r^2 \\) sq. units",
+            "\\( \\pi r^2 \\) sq. units",
+            "\\( 2\\pi r^2 \\) sq. units",
+            "\\( \\pi r^2 + 2r \\) sq. units"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\pi r^2 \\) sq. units"
+    },
+    {
+        "id": 21,
+        "question": "ஒரு வட்டத்தின் பரப்பளவிற்கும் அதன் அரை வட்டத்தின் பரப்பளவிற்கும் இடையேயான விகிதம்",
+        "options": [
+            "2:1",
+            "1:2",
+            "4:1",
+            "1:4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2:1 [cite: 209, 211, 212, 574]",
+        "question_en": "The ratio between the area of a circle and the area of its semicircle is",
+        "options_en": [
+            "2:1",
+            "1:2",
+            "4:1",
+            "1:4"
+        ],
+        "explanation_en": "Correct answer option (1): 2:1"
+    },
+    {
+        "id": 22,
+        "question": "ஆரம் 'n' அலகுகள் உடைய வட்டத்தின் பரப்பளவு",
+        "options": [
+            "\\( 2\\pi r^2 \\) ச.அலகுகள்",
+            "\\( \\pi m^2 \\) ச.அ.",
+            "\\( \\pi r^2 \\) ச.அலகுகள்",
+            "\\( \\pi n^2 \\) ச.அலகுகள்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( \\pi n^2 \\) ச.அலகுகள் [cite: 216, 217, 221, 574]",
+        "question_en": "The area of a circle with radius 'n' units is",
+        "options_en": [
+            "\\( 2\\pi r^2 \\) sq. units",
+            "\\( \\pi m^2 \\) sq. units",
+            "\\( \\pi r^2 \\) sq. units",
+            "\\( \\pi n^2 \\) sq. units"
+        ],
+        "explanation_en": "Correct answer option (4): \\( \\pi n^2 \\) sq. units"
+    },
+    {
+        "id": 23,
+        "question": "ஆரம் 21 செ.மீ. அளவுள்ள வட்டத்தின் பரப்பளவு",
+        "options": [
+            "1386 ச.செ.மீ.",
+            "1384 ச.செ.மீ.",
+            "2464 ச.செ.மீ.",
+            "616 ச.செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1386 ச.செ.மீ. [cite: 225, 226, 574]",
+        "question_en": "The area of a circle of radius 21 cm is",
+        "options_en": [
+            "1386 sq.cm",
+            "1384 sq.cm",
+            "2464 sq.cm",
+            "616 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (1): 1386 sq.cm"
+    },
+    {
+        "id": 24,
+        "question": "28 செ.மீ. விட்டமுள்ள சாகச வளையத்தின் பரப்பளவு",
+        "options": [
+            "2464 ச.செ.மீ.",
+            "1384 ச.செ.மீ.",
+            "616 ச.செ.மீ.",
+            "636 ச.செ.மீ."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 616 ச.செ.மீ. [cite: 231, 233, 574]",
+        "question_en": "The area of an adventure ring of diameter 28 cm is",
+        "options_en": [
+            "2464 sq.cm",
+            "1384 sq.cm",
+            "616 sq.cm",
+            "636 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (3): 616 sq.cm"
+    },
+    {
+        "id": 25,
+        "question": "4.9 மீ நீளமுள்ள ஒரு கயிற்றால் ஓர் ஆடு கட்டப்பட்டுள்ளது எனில் ஆடு மேயக் கூடிய அதிகபட்ச பகுதியின் பரப்பளவு",
+        "options": [
+            "75.46 மீ²",
+            "4.96 மீ²",
+            "56 மீ²",
+            "57.2 மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 75.46 மீ² [cite: 235, 236, 237, 574]",
+        "question_en": "A goat is tied with a rope of length 4.9 m. The maximum area it can graze is",
+        "options_en": [
+            "75.46 m²",
+            "4.96 m²",
+            "56 m²",
+            "57.2 m²"
+        ],
+        "explanation_en": "Correct answer option (1): 75.46 m²"
+    },
+    {
+        "id": 26,
+        "question": "ஒரு வட்டத்தின் பரப்பளவு 2464 ச.செ.மீ. அதன் விட்டம் என்ன?",
+        "options": [
+            "28 செ.மீ.",
+            "56 செ.மீ.",
+            "14 செ.மீ.",
+            "70 செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 56 செ.மீ. [cite: 239, 241, 574]",
+        "question_en": "The area of a circle is 2464 sq.cm. What is its diameter?",
+        "options_en": [
+            "28 cm",
+            "56 cm",
+            "14 cm",
+            "70 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 56 cm"
+    },
+    {
+        "id": 27,
+        "question": "பொருத்துக: (i) விட்டம் (ii) 2πr (iii) (π+2)r (iv) விட்டம்/2 (v) πr²",
+        "options": [
+            "a-v, b-iv, c-ii, d-i",
+            "a-iv, b-ii, c-iii, d-i",
+            "a-iv, b-ii, c-ii, d-i",
+            "a-v, b-iii, c-v, d-i"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): a-v, c-ii, d-i (மற்றும் b-iv) [cite: 247, 248, 251, 253, 256, 258, 259, 574]",
+        "question_en": "Match the following: (i) Diameter (ii) 2πr (iii) (π+2)r (iv) Diameter/2 (v) πr²",
+        "options_en": [
+            "a-v, b-iv, c-ii, d-i",
+            "a-iv, b-ii, c-iii, d-i",
+            "a-iv, b-ii, c-ii, d-i",
+            "a-v, b-iii, c-v, d-i"
+        ],
+        "explanation_en": "Correct answer option (1): a-v, b-iv, c-ii, d-i"
+    },
+    {
+        "id": 28,
+        "question": "ஒரு வட்டப் பூங்காவின் சுற்றளவு 44 மீ எனில், அந்தப் பூங்காவின் பரப்பளவு",
+        "options": [
+            "154 மீ²",
+            "174 மீ²",
+            "44 மீ²",
+            "176 மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 154 மீ² [cite: 267, 274, 574]",
+        "question_en": "If the circumference of a circular park is 44 m, then its area is",
+        "options_en": [
+            "154 m²",
+            "174 m²",
+            "44 m²",
+            "176 m²"
+        ],
+        "explanation_en": "Correct answer option (1): 154 m²"
+    },
+    {
+        "id": 29,
+        "question": "ஒரு வட்டத்தின் சுற்றளவு 352 செ.மீ எனில், அந்த வட்டத்தின் பரப்பளவு",
+        "options": [
+            "8662 ச.செ.மீ.",
+            "12474 ச.செ.மீ.",
+            "2772 ச.செ.மீ.",
+            "9856 ச.செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 9856 ச.செ.மீ. [cite: 271, 275, 574]",
+        "question_en": "If the circumference of a circle is 352 cm, its area is",
+        "options_en": [
+            "8662 sq.cm",
+            "12474 sq.cm",
+            "2772 sq.cm",
+            "9856 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 9856 sq.cm"
+    },
+    {
+        "id": 30,
+        "question": "ஒரு வட்டத்தின் பரப்பளவு 196π ச.செ.மீ எனில், அந்த வட்டத்தின் சுற்றளவு",
+        "options": [
+            "14 செ.மீ.",
+            "88 செ.மீ.",
+            "\\( \\pi(44)^2 \\) செ.மீ.",
+            "986 செ.மீ."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 88 செ.மீ. [cite: 275, 277, 574]",
+        "question_en": "If the area of a circle is 196π sq.cm, its circumference is",
+        "options_en": [
+            "14 cm",
+            "88 cm",
+            "\\( \\pi(44)^2 \\) cm",
+            "986 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 88 cm"
+    },
+    {
+        "id": 31,
+        "question": "7 மீ ஆரமுள்ள வட்ட வடிவ நீச்சல் குளத்தின் தளத்திற்குச் சிமெண்ட் பூச சதுர மீட்டருக்கு ₹18 வீதம் ஆகும் செலவு",
+        "options": [
+            "₹247",
+            "₹2829",
+            "₹2772",
+            "₹9590"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ₹2772 [cite: 278, 279, 283, 574]",
+        "question_en": "The cost of cementing the floor of a circular swimming pool of radius 7 m at the rate of ₹18 per sq.m is",
+        "options_en": [
+            "₹247",
+            "₹2829",
+            "₹2772",
+            "₹9590"
+        ],
+        "explanation_en": "Correct answer option (3): ₹2772"
+    },
+    {
+        "id": 32,
+        "question": "வட்டப் பாதையின் அகலம் காணும் சூத்திரம்",
+        "options": [
+            "(L-l) அலகுகள்",
+            "(B-b) அலகுகள்",
+            "(R-r) அலகுகள்",
+            "(r-R) அலகுகள்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): (R-r) அலகுகள் [cite: 281, 286, 574]",
+        "question_en": "The formula to find the width of a circular path is",
+        "options_en": [
+            "(L-l) units",
+            "(B-b) units",
+            "(R-r) units",
+            "(r-R) units"
+        ],
+        "explanation_en": "Correct answer option (3): (R-r) units"
+    },
+    {
+        "id": 33,
+        "question": "வட்ட நடைபாதையின் பரப்பளவு காணும் சூத்திரம்",
+        "options": [
+            "\\( \\pi(R^2-r^2) \\) ச.அலகுகள்",
+            "\\( \\pi r^2 \\) ச.அலகுகள்",
+            "\\( 2\\pi r^2 \\) ச.அலகுகள்",
+            "\\( \\pi r^2+2r \\) ச.அலகுகள்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( \\pi(R^2-r^2) \\) ச.அலகுகள் [cite: 282, 574]",
+        "question_en": "The formula to find the area of a circular path is",
+        "options_en": [
+            "\\( \\pi(R^2-r^2) \\) sq. units",
+            "\\( \\pi r^2 \\) sq. units",
+            "\\( 2\\pi r^2 \\) sq. units",
+            "\\( \\pi r^2+2r \\) sq. units"
+        ],
+        "explanation_en": "Correct answer option (1): \\( \\pi(R^2-r^2) \\) sq. units"
+    },
+    {
+        "id": 34,
+        "question": "ஒரு வட்டப்பாதையின் வெளி மற்றும் உள் ஆரங்கள் 9 செ.மீ. மற்றும் 6 செ.மீ. எனில் அதன் அகலம்",
+        "options": [
+            "3 செ.மீ.",
+            "6 செ.மீ.",
+            "1.5 செ.மீ.",
+            "9 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3 செ.மீ. [cite: 293, 294, 295, 574]",
+        "question_en": "If the outer and inner radii of a circular path are 9 cm and 6 cm respectively, its width is",
+        "options_en": [
+            "3 cm",
+            "6 cm",
+            "1.5 cm",
+            "9 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 3 cm"
+    },
+    {
+        "id": 35,
+        "question": "52 மீ ஆரமுள்ள ஒரு வட்டவடிவமுள்ள புல்வெளியின் மையத்தில் 45 மீ நீளமுள்ள ஒரு கயிற்றால் ஒரு ஆடு கட்டப்பட்டுள்ளது. அந்த ஆட்டால் மேய முடியாத புல்வெளியின் பரப்பளவு",
+        "options": [
+            "668 மீ²",
+            "2000 மீ²",
+            "2134 மீ²",
+            "770 மீ²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2134 மீ² [cite: 299, 300, 301, 309, 574]",
+        "question_en": "A goat is tied with a 45m long rope at the center of a circular lawn of radius 52m. The area of the lawn that cannot be grazed by the goat is",
+        "options_en": [
+            "668 m²",
+            "2000 m²",
+            "2134 m²",
+            "770 m²"
+        ],
+        "explanation_en": "Correct answer option (3): 2134 m²"
+    },
+    {
+        "id": 36,
+        "question": "ஒரு வட்ட வடிவப் பூந்தோட்டத்தின் ஆரம் 21 மீ. அந்தத் தோட்டத்தைச் சுற்றி 14 மீ அகலம் உள்ள வட்ட நடைபாதை உள்ளது எனில் அந்த வட்டப் பாதையின் பரப்பளவு",
+        "options": [
+            "286 மீ²",
+            "2644 மீ²",
+            "2464 மீ²",
+            "3522 மீ²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2464 மீ² [cite: 305, 306, 310, 311, 574]",
+        "question_en": "A circular flower garden has a radius of 21 m. There is a 14 m wide circular path around it. The area of the circular path is",
+        "options_en": [
+            "286 m²",
+            "2644 m²",
+            "2464 m²",
+            "3522 m²"
+        ],
+        "explanation_en": "Correct answer option (3): 2464 m²"
+    },
+    {
+        "id": 37,
+        "question": "ஒரு வட்ட வடிவ கிரிக்கெட் அரங்கத்தின் விட்டம் 224 மீ. அதன் உட்புறமாகச் சுற்றிலும் பார்வையாளர்கள் அமர்ந்து பார்ப்பதற்காக பார்வையாளர்கள் மாடம் 14 மீ அகலத்தில் கட்டப்பட்டுள்ளது. எனில், விளையாடப் பயன்படும் இடத்தின் பரப்பளவு?",
+        "options": [
+            "10472 மீ²",
+            "9856 மீ²",
+            "11272 மீ²",
+            "8756 மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 10472 மீ² [cite: 313, 314, 320, 574]",
+        "question_en": "The diameter of a circular cricket stadium is 224 m. Inside the stadium, a 14 m wide spectator gallery is built around it. What is the area of the playing space?",
+        "options_en": [
+            "10472 m²",
+            "9856 m²",
+            "11272 m²",
+            "8756 m²"
+        ],
+        "explanation_en": "Correct answer option (1): 10472 m²"
+    },
+    {
+        "id": 38,
+        "question": "படத்தில் உள்ள இரு வட்டங்களின் சுற்றளவுகளின் வித்தியாசம் என்ன? (R = 14 cm, அகலம் = 3.5 cm)",
+        "image": "image/unit6/q38.PNG",
+        "options": [
+            "22 செ.மீ.",
+            "20 செ.மீ.",
+            "24 செ.மீ.",
+            "66 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 22 செ.மீ. [cite: 321, 322, 324, 574]",
+        "question_en": "What is the difference in circumference between the two circles in the figure? (R = 14 cm, width = 3.5 cm)",
+        "options_en": [
+            "22 cm",
+            "20 cm",
+            "24 cm",
+            "66 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 22 cm"
+    },
+    {
+        "id": 39,
+        "question": "செவ்வக பாதையின் பரப்பளவு காணும் சூத்திரம்",
+        "options": [
+            "\\( \\pi(R^2-r^2) \\)",
+            "\\( (L \\times B) - (l \\times b) \\) ச.அலகுகள்",
+            "LB ச.அலகுகள்",
+            "lb ச.அலகுகள்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (L \\times B) - (l \\times b) \\) ச.அலகுகள் [cite: 329, 334, 574]",
+        "question_en": "The formula to find the area of a rectangular path is",
+        "options_en": [
+            "\\( \\pi(R^2-r^2) \\)",
+            "\\( (L \\times B) - (l \\times b) \\) sq. units",
+            "LB sq. units",
+            "lb sq. units"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (L \\times B) - (l \\times b) \\) sq. units"
+    },
+    {
+        "id": 40,
+        "question": "உட்புறச் செவ்வகத்தின் பரப்பளவு 15 ச.செ.மீ. மற்றும் வெளிப்புறச் செவ்வகத்தின் பரப்பளவு 48 ச.செ.மீ. எனில் செவ்வக நடைபாதையின் பரப்பளவு",
+        "options": [
+            "12 ச.செ.மீ.",
+            "23 ச.செ.மீ.",
+            "30 ச.செ.மீ.",
+            "33 ச.செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 33 ச.செ.மீ. [cite: 336, 337, 341, 574]",
+        "question_en": "If the area of the inner rectangle is 15 sq.cm and the outer rectangle is 48 sq.cm, then the area of the rectangular path is",
+        "options_en": [
+            "12 sq.cm",
+            "23 sq.cm",
+            "30 sq.cm",
+            "33 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 33 sq.cm"
+    },
+    {
+        "id": 41,
+        "question": "23 செ.மீ. நீளமும் 11 செ.மீ அகலமும் உள்ள ஓர் அட்டையில், அனைத்துப் பக்கங்களிலும் 3 செ.மீ. விளிம்பு இருக்கும் வகையில் ஓர் ஓவியம் வரையப்பட்டுள்ளது. அந்த விளிம்புப் பகுதியின் பரப்பளவு",
+        "options": [
+            "253 ச.செ.மீ.",
+            "85 ச.செ.மீ.",
+            "154 ச.செ.மீ.",
+            "168 ச.செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 168 ச.செ.மீ. [cite: 342, 343, 344, 348, 574]",
+        "question_en": "A painting is drawn on a cardboard of length 23 cm and width 11 cm such that there is a margin of 3 cm on all sides. The area of the margin is",
+        "options_en": [
+            "253 sq.cm",
+            "85 sq.cm",
+            "154 sq.cm",
+            "168 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 168 sq.cm"
+    },
+    {
+        "id": 42,
+        "question": "படம் ஒரு நடைபாதையின் வான்வழிக்காட்சி (L=80m, B=50m, l=70m, b=40m) எனில் அந்தப் பாதையின் பரப்பளவு காண்க.",
+        "image": "image/unit6/q42.PNG",
+        "options": [
+            "1400 மீ²",
+            "1200 மீ²",
+            "3600 மீ²",
+            "2200 மீ²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1200 மீ² [cite: 349, 355, 574]",
+        "question_en": "If the figure shows an aerial view of a path (L=80m, B=50m, l=70m, b=40m), find the area of the path.",
+        "options_en": [
+            "1400 m²",
+            "1200 m²",
+            "3600 m²",
+            "2200 m²"
+        ],
+        "explanation_en": "Correct answer option (2): 1200 m²"
+    },
+    {
+        "id": 43,
+        "question": "9 மீ நீளமும், 7 மீ அகலமும் உள்ள ஒரு அறைக்கு வெளியே, 3 மீ சீரான அகலமுள்ள ஒரு தாழ்வாரம் உள்ளது. தாழ்வாரத்தின் பரப்பளவு",
+        "options": [
+            "132 மீ²",
+            "118 மீ²",
+            "154 மீ²",
+            "91 மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 132 மீ² [cite: 358, 359, 360, 574]",
+        "question_en": "Outside a room of length 9 m and width 7 m, there is a veranda of uniform width 3 m. The area of the veranda is",
+        "options_en": [
+            "132 m²",
+            "118 m²",
+            "154 m²",
+            "91 m²"
+        ],
+        "explanation_en": "Correct answer option (1): 132 m²"
+    },
+    {
+        "id": 44,
+        "question": "ஒரு தளம் 10 மீ நீளமும் 8 மீ அகலமும் உள்ளது. அதன் மீது 7 மீ நீளமும் 5 மீ அகலமும் உள்ள விரிப்பு விரிக்கப்பட்டுள்ளது. அந்த விரிப்பால் மூடப்படாத பகுதியின் பரப்பளவு",
+        "options": [
+            "35 மீ²",
+            "80 மீ²",
+            "45 மீ²",
+            "25 மீ²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 45 மீ² [cite: 364, 365, 368, 574]",
+        "question_en": "A floor is 10 m long and 8 m wide. A carpet of length 7 m and width 5 m is laid on it. The area of the floor not covered by the carpet is",
+        "options_en": [
+            "35 m²",
+            "80 m²",
+            "45 m²",
+            "25 m²"
+        ],
+        "explanation_en": "Correct answer option (3): 45 m²"
+    },
+    {
+        "id": 45,
+        "question": "76 மீ நீளமும் 70 மீ அகலமும் உள்ள ஒரு செவ்வக வடிவப் புல்வெளியின் மையத்தில், ஒரு மாடு 35 மீ நீளமுள்ள கயிற்றால் கட்டப்பட்டுள்ளது. அந்த மாடு மேய முடியாத நிலப்பரப்பளவை அளவிடுக.",
+        "options": [
+            "1470 மீ²",
+            "3850 மீ²",
+            "710 மீ²",
+            "5320 மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1470 மீ² [cite: 369, 370, 371, 372, 574]",
+        "question_en": "At the center of a rectangular lawn 76 m long and 70 m wide, a cow is tied with a 35 m long rope. Find the area of the land it cannot graze.",
+        "options_en": [
+            "1470 m²",
+            "3850 m²",
+            "710 m²",
+            "5320 m²"
+        ],
+        "explanation_en": "Correct answer option (1): 1470 m²"
+    },
+    {
+        "id": 46,
+        "question": "நீளம் 120 மீ அகலம் 90 மீ உள்ள ஒரு செவ்வக வடிவத் தோட்டத்தைச் சுற்றிப் பாதை அமைக்கப்படுகிறது. ஆனால் பாதை படத்தில் காட்டியுள்ளவாறு எதிரெதிர்ப் பக்கங்களில் மட்டும் சீராக 2 மீ, 1 மீ என்ற அகலங்களில் செல்கிறது. எனில் அந்தப் பாதையின் பரப்பளவு",
+        "image": "image/unit6/q46.PNG",
+        "options": [
+            "608 மீ²",
+            "668 மீ²",
+            "616 மீ²",
+            "686 மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 608 மீ² [cite: 376, 377, 378, 574]",
+        "question_en": "A path is made around a rectangular garden of length 120m and width 90m. But the path goes uniformly with widths 2m and 1m only on opposite sides as shown. The area of the path is",
+        "options_en": [
+            "608 m²",
+            "668 m²",
+            "616 m²",
+            "686 m²"
+        ],
+        "explanation_en": "Correct answer option (1): 608 m²"
+    },
+    {
+        "id": 47,
+        "question": "படத்தில் உள்ள இரு வட்டங்களின் ஆரங்கள் 10 செ.மீ. மற்றும் 17 செ.மீ. ஆகியன ஆகும். இவ்விரண்டு வட்டங்களும் பொதுமைய வட்டங்கள் அல்ல. எனில், நிழலிடப்பட்ட பகுதியின் பரப்பளவு என்ன?",
+        "image": "image/unit6/q47.PNG",
+        "options": [
+            "533.8 ச.செ.மீ.",
+            "170 ச.செ.மீ.",
+            "694 ச.செ.மீ.",
+            "594 ச.செ.மீ."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 594 ச.செ.மீ. [cite: 386, 387, 390, 574]",
+        "question_en": "The radii of the two circles in the figure are 10 cm and 17 cm. These two circles are not concentric. What is the area of the shaded region?",
+        "options_en": [
+            "533.8 sq.cm",
+            "170 sq.cm",
+            "694 sq.cm",
+            "594 sq.cm"
+        ],
+        "explanation_en": "Correct answer option (4): 594 sq.cm"
+    },
+    {
+        "id": 48,
+        "question": "நான்கு வீட்டு மனைகள் அடங்கிய ஒரு நிலத்தில் 10 அடி அகல தார்ச்சாலை அமைக்கப்பட்டுள்ளது. இந்நிலத்தின் நீள அகலங்கள் முறையே 100 அடி மற்றும் 80 அடி. எனில் தார்ச்சாலையின் பரப்பளவு என்ன?",
+        "image": "image/unit6/q48.PNG",
+        "options": [
+            "6300 ச.அடி",
+            "1700 ச.அடி",
+            "1800 ச.அடி",
+            "6200 ச.அடி"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1700 ச.அடி [cite: 391, 393, 394, 397, 574]",
+        "question_en": "A 10 ft wide tar road is laid in a plot of land containing 4 house sites. The length and width of the land are 100 ft and 80 ft. What is the area of the tar road?",
+        "options_en": [
+            "6300 sq.ft",
+            "1700 sq.ft",
+            "1800 sq.ft",
+            "6200 sq.ft"
+        ],
+        "explanation_en": "Correct answer option (2): 1700 sq.ft"
+    },
+    {
+        "id": 49,
+        "question": "ஒரு வயலின் நீளம் 40 மீ. அகலம் 20 மீ. அவ்வயலில் 2 மீ. அகலமுள்ள வாய்க்கால் செல்கிறது. எனவே வயலில் பயிர் விளையும் இடத்தின் பரப்பளவு என்ன?",
+        "image": "image/unit6/q49.PNG",
+        "options": [
+            "916 மீ²",
+            "680 மீ²",
+            "684 மீ²",
+            "664 மீ²"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 684 மீ² [cite: 399, 400, 401, 405, 574]",
+        "question_en": "The length of a field is 40 m and width is 20 m. A canal of 2 m width runs through it. What is the area of the cultivable land in the field?",
+        "options_en": [
+            "916 m²",
+            "680 m²",
+            "684 m²",
+            "664 m²"
+        ],
+        "explanation_en": "Correct answer option (3): 684 m²"
+    },
+    {
+        "id": 50,
+        "question": "வயலில் அடிக்கப்பட்டுள்ள கட்டையில் 3.5 மீ நீளம் கொண்ட தும்பு கயிறு கொண்டு ஆடு கட்டப்பட்டுள்ளது. ஆடு மேயக்கூடிய அதிகபட்ச பகுதியின் பரப்பளவு",
+        "options": [
+            "40.5 மீ²",
+            "38.5 மீ²",
+            "17.2 மீ²",
+            "30.5 மீ²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 38.5 மீ² [cite: 407, 409, 414, 574]",
+        "question_en": "A goat is tied to a peg in a field with a rope of 3.5 m length. The maximum area the goat can graze is",
+        "options_en": [
+            "40.5 m²",
+            "38.5 m²",
+            "17.2 m²",
+            "30.5 m²"
+        ],
+        "explanation_en": "Correct answer option (2): 38.5 m²"
+    },
+    {
+        "id": 51,
+        "question": "ஒரு வட்டத்தின் பெரிய நாணின் நீளம் 14 செ.மீ. எனில் அதன் சுற்றளவு மற்றும் பரப்பளவுகளின் எண்ணளவுகளின் விகிதம்",
+        "options": [
+            "7:2",
+            "1:2",
+            "2:7",
+            "2:1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2:7 [cite: 412, 415, 418, 574]",
+        "question_en": "If the length of the largest chord of a circle is 14 cm, the ratio of the numerical values of its circumference and area is",
+        "options_en": [
+            "7:2",
+            "1:2",
+            "2:7",
+            "2:1"
+        ],
+        "explanation_en": "Correct answer option (3): 2:7"
+    },
+    {
+        "id": 52,
+        "question": "ஒரு வட்ட வடிவ சக்கரத்தின் ஆரம் 1.75 மீ. அது 11 கி.மீ. தொலைவைக் கடந்திட எத்தனை சுற்றுகள் சுற்ற வேண்டும்.",
+        "options": [
+            "10",
+            "100",
+            "1000",
+            "10000"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1000 [cite: 419, 422, 425, 574]",
+        "question_en": "The radius of a circular wheel is 1.75 m. How many rotations must it make to cover a distance of 11 km?",
+        "options_en": [
+            "10",
+            "100",
+            "1000",
+            "10000"
+        ],
+        "explanation_en": "Correct answer option (3): 1000"
+    },
+    {
+        "id": 53,
+        "question": "இரண்டு வட்டங்களின் பரப்பளவின் விகிதம் 25:36 எனில் அந்த இரண்டு வட்டங்களுடைய சுற்றளவுகளின் விகிதம்",
+        "options": [
+            "6:5",
+            "3:4",
+            "4:3",
+            "5:6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 5:6 [cite: 427, 429, 433, 574]",
+        "question_en": "If the ratio of the areas of two circles is 25:36, the ratio of their circumferences is",
+        "options_en": [
+            "6:5",
+            "3:4",
+            "4:3",
+            "5:6"
+        ],
+        "explanation_en": "Correct answer option (4): 5:6"
+    },
+    {
+        "id": 54,
+        "question": "ஒரு வட்டத்தின் விட்டம் D எனில் அதன் சுற்றளவு",
+        "options": [
+            "\\( 2\\pi D \\) அலகுகள்",
+            "\\( \\pi D \\) அலகுகள்",
+            "\\( 2\\pi r \\) அலகுகள்",
+            "\\( \\pi r \\) அலகுகள்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\pi D \\) அலகுகள் [cite: 441, 447, 574]",
+        "question_en": "If the diameter of a circle is D, its circumference is",
+        "options_en": [
+            "\\( 2\\pi D \\) units",
+            "\\( \\pi D \\) units",
+            "\\( 2\\pi r \\) units",
+            "\\( \\pi r \\) units"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\pi D \\) units"
+    },
+    {
+        "id": 55,
+        "question": "ஒரு வட்டத்தின் சுற்றளவு மற்றும் பரப்பளவு எண்ணளவில் சமமாக இருந்தால் விட்டம் எதற்குச் சமமாக இருக்கும்?",
+        "options": [
+            "\\( \\pi / 2 \\)",
+            "\\( 2\\pi \\)",
+            "2",
+            "4"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 4 [cite: 442, 443, 453, 574]",
+        "question_en": "If the circumference and area of a circle are numerically equal, what is the diameter equal to?",
+        "options_en": [
+            "\\( \\pi / 2 \\)",
+            "\\( 2\\pi \\)",
+            "2",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (4): 4"
+    },
+    {
+        "id": 56,
+        "question": "விட்டத்திற்கும் ஆரத்திற்குமுள்ள தொடர்பு",
+        "options": [
+            "ஆரம் = 2 × விட்டம்",
+            "ஆரம் = விட்டம் + 2",
+            "விட்டம் = ஆரம் + 2",
+            "விட்டம் = 2 × ஆரம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): விட்டம் = 2 × ஆரம் [cite: 447, 448, 454, 574]",
+        "question_en": "The relationship between diameter and radius is",
+        "options_en": [
+            "Radius = 2 × Diameter",
+            "Radius = Diameter + 2",
+            "Diameter = Radius + 2",
+            "Diameter = 2 × Radius"
+        ],
+        "explanation_en": "Correct answer option (4): Diameter = 2 × Radius"
+    },
+    {
+        "id": 57,
+        "question": "வட்டத்தில் உள்ள கால்பகுதிகள் எத்தனை?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 4 [cite: 450, 460, 574]",
+        "question_en": "How many quadrants are there in a circle?",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (4): 4"
+    },
+    {
+        "id": 58,
+        "question": "ஒரு வட்டத்தின் மிகப்பெரிய நாண், அதன் ______ எனப்படும்",
+        "options": [
+            "ஆரம்",
+            "சுற்றளவு",
+            "விட்டம்",
+            "தொடுகோடு"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): விட்டம் [cite: 461, 462, 574]",
+        "question_en": "The longest chord of a circle is called its",
+        "options_en": [
+            "Radius",
+            "Circumference",
+            "Diameter",
+            "Tangent"
+        ],
+        "explanation_en": "Correct answer option (3): Diameter"
+    },
+    {
+        "id": 59,
+        "question": "ஒரு வட்டத்தின் ஆரம் இரு மடங்காக அதிகரித்தால் கிடைக்கும் புதிய வட்டத்தின் பரப்பளவு ______ ஆக அதிகரிக்கும்.",
+        "options": [
+            "அதே அளவு",
+            "இரு மடங்கு",
+            "மூன்று மடங்கு",
+            "நான்கு மடங்கு"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): நான்கு மடங்கு [cite: 463, 464, 472, 574]",
+        "question_en": "If the radius of a circle is doubled, the area of the new circle will increase by",
+        "options_en": [
+            "Same amount",
+            "Two times",
+            "Three times",
+            "Four times"
+        ],
+        "explanation_en": "Correct answer option (4): Four times"
+    },
+    {
+        "id": 60,
+        "question": "ஆரம் 'r' உடைய வட்டத்தின் பரப்பளவு \\( \\pi r^2 \\). இங்கு \\( \\pi \\) என்பது",
+        "options": [
+            "ஒரு விகிதமுறு எண்",
+            "ஒரு விகிதமுறா எண்",
+            "ஒரு முழு எண்",
+            "ஒரு எண் அல்ல"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): ஒரு விகிதமுறா எண் [cite: 475, 480, 574]",
+        "question_en": "The area of a circle with radius 'r' is \\( \\pi r^2 \\). Here \\( \\pi \\) is",
+        "options_en": [
+            "A rational number",
+            "An irrational number",
+            "An integer",
+            "Not a number"
+        ],
+        "explanation_en": "Correct answer option (2): An irrational number"
+    },
+    {
+        "id": 61,
+        "question": "ஒரு செவ்வக வடிவத் தோட்டத்தின் பரிமாணங்கள் 15 மீ × 8 மீ. அதன் பக்கங்களை அடுத்து 4 மீ அகலமுள்ள பாதை அமைக்கப்படுகிறது அந்தப் பாதையின் பரப்பளவு",
+        "options": [
+            "248 மீ²",
+            "180 மீ²",
+            "108 மீ²",
+            "150 மீ²"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 248 மீ²",
+        "question_en": "The dimensions of a rectangular garden are 15 m × 8 m. A 4 m wide path is laid adjacent to its sides. The area of the path is",
+        "options_en": [
+            "248 m²",
+            "180 m²",
+            "108 m²",
+            "150 m²"
+        ],
+        "explanation_en": "Correct answer option (1): 248 m²"
+    },
+    {
+        "id": 62,
+        "question": "ஒரு வட்ட வடிவப் பூங்காவின் சுற்றளவு \\( 15\\frac{2}{3} \\) மீ ஆகும். இதை மூன்று முறை கயிற்றினாலும் மற்றும் \\( \\frac{2}{3} \\) பகுதியை மின்சார கம்பியினாலும் வேலியிட்டால், அப்பூங்காவிற்கு எத்தனை மீட்டர் வேலி (கயிறு மற்றும் மின்சாரம் கம்பி) தேவைப்படும்.",
+        "options": [
+            "\\( 10\\frac{4}{9} \\) மீ",
+            "\\( 57\\frac{4}{9} \\) மீ",
+            "\\( 172\\frac{1}{3} \\) மீ",
+            "\\( 31\\frac{1}{3} \\) மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 57\\frac{4}{9} \\) மீ",
+        "question_en": "The circumference of a circular park is \\( 15\\frac{2}{3} \\) m. If it is fenced three times with rope and \\( \\frac{2}{3} \\) part with electric wire, how many meters of fence (rope and electric wire) is required?",
+        "options_en": [
+            "\\( 10\\frac{4}{9} \\) m",
+            "\\( 57\\frac{4}{9} \\) m",
+            "\\( 172\\frac{1}{3} \\) m",
+            "\\( 31\\frac{1}{3} \\) m"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 57\\frac{4}{9} \\) m"
+    },
+    {
+        "id": 63,
+        "question": "ஒரு வட்டப்புல்வெளியைச் சுற்றி ஒரு வட்டப்பாதை அமைக்கப்படவுள்ளது அந்தப் பாதையின் வெளிப்புற, உட்புறச் சுற்றளவுகள் முறையே 88 செ.மீ., 44 செ.மீ. எனில் அந்த நடைபாதையின் அகலம் என்ன?",
+        "options": [
+            "7 செ.மீ.",
+            "44 செ.மீ.",
+            "14 செ.மீ.",
+            "22 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 7 செ.மீ.",
+        "question_en": "A circular path is to be constructed around a circular lawn. If the outer and inner circumferences of the path are 88 cm and 44 cm respectively, what is the width of the path?",
+        "options_en": [
+            "7 cm",
+            "44 cm",
+            "14 cm",
+            "22 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 7 cm"
+    },
+    {
+        "id": 64,
+        "question": "வட்டத் தகட்டின் ஆரம் 7 செ.மீ. எனில் சுற்றளவு என்ன?",
+        "options": [
+            "14 செ.மீ.",
+            "22 செ.மீ.",
+            "44 செ.மீ.",
+            "88 செ.மீ."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 44 செ.மீ.",
+        "question_en": "If the radius of a circular plate is 7 cm, what is its circumference?",
+        "options_en": [
+            "14 cm",
+            "22 cm",
+            "44 cm",
+            "88 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 44 cm"
+    },
+    {
+        "id": 65,
+        "question": "ஒரு வட்டத்தில் தவறான கூற்றினை எழுதுக.",
+        "options": [
+            "ஒரு வட்டத்தின் அனைத்து ஆரங்களும் ஒரே நீளமுடையன.",
+            "வட்டத்தின் ஒவ்வொரு விட்டமும் ஒரு நாணாகும்",
+            "இரு விட்டங்கள் ஒரே முனைப்புள்ளிகளை பெற்றிருக்க முடியாது",
+            "வட்டத்தின் ஒவ்வொரு நாணும் ஒரு விட்டமாகும்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): வட்டத்தின் ஒவ்வொரு நாணும் ஒரு விட்டமாகும்",
+        "question_en": "Identify the incorrect statement about a circle.",
+        "options_en": [
+            "All radii of a circle have the same length.",
+            "Every diameter of a circle is a chord.",
+            "Two diameters cannot have the same endpoints.",
+            "Every chord of a circle is a diameter."
+        ],
+        "explanation_en": "Correct answer option (4): Every chord of a circle is a diameter."
+    },
+    {
+        "id": 66,
+        "question": "ஒரு வட்ட வடிவப் பூங்தோட்டத்தின் ஆரம் 14 மீ அந்தத் தோட்டத்தைச் சுற்றி 7 மீ அகலம் உள்ள வட்ட நடைபாதை உள்ளது எனில் அந்த வட்டப்பாதையின் பரப்பளவு காண்க.",
+        "options": [
+            "1225 மீ²",
+            "22 மீ²",
+            "484 மீ²",
+            "770 மீ²"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 770 மீ²",
+        "question_en": "The radius of a circular flower garden is 14 m. There is a 7 m wide circular path around it. Find the area of the circular path.",
+        "options_en": [
+            "1225 m²",
+            "22 m²",
+            "484 m²",
+            "770 m²"
+        ],
+        "explanation_en": "Correct answer option (4): 770 m²"
+    },
+    {
+        "id": 67,
+        "question": "வட்ட வடிவிலான ஒரு தாமிரக் கம்பியின் ஆரம் 35 செ.மீ. இது ஒரு சதுர வடிவில் வளைக்கப்படுகிறது எனில் அச்சதுரத்தின் பக்கத்தைக் காண்க.",
+        "options": [
+            "35 செ.மீ.",
+            "45 செ.மீ.",
+            "55 செ.மீ.",
+            "65 செ.மீ."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 55 செ.மீ.",
+        "question_en": "The radius of a circular copper wire is 35 cm. If it is bent into a square shape, find the side of the square.",
+        "options_en": [
+            "35 cm",
+            "45 cm",
+            "55 cm",
+            "65 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 55 cm"
+    },
+    {
+        "id": 68,
+        "question": "மாட்டு வண்டிச் சக்கரத்தின் ஆரம் 35 செ.மீ. அது 154 மீ தொலைவு கடந்தால், அச்சக்கரம் எத்தனை முழுச் சுற்றுகள் சுற்றியிருக்கும்?",
+        "options": [
+            "70",
+            "189",
+            "119",
+            "86"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 70",
+        "question_en": "The radius of a bullock cart wheel is 35 cm. If it covers a distance of 154 m, how many full rotations would the wheel have made?",
+        "options_en": [
+            "70",
+            "189",
+            "119",
+            "86"
+        ],
+        "explanation_en": "Correct answer option (1): 70"
+    },
+    {
+        "id": 69,
+        "question": "ஒரு வட்டமான தோட்டத்தைச் சுற்றி ஒரே நேரத்தில் துவங்கி A, B, C, D என்பவர்கள் ஒரே திசையில் ஓடுகிறனர். ஒரு முறை சுற்றி வர A,B,C,D என்பவர்கள் எடுத்துக்கொள்ளும் கால அளவு முறையை 30 நிமிடங்கள் 60 நிமிடங்கள், 90 நிமிடங்கள் மற்றும் 105 நிமிடங்கள் ஆகும். துவக்கப் புள்ளியில் எத்தனை மணிக்கு பிறகு இவர்கள் மீண்டும் சந்திப்பார்கள்?",
+        "options": [
+            "15 மணி நேரம்",
+            "10 மணி நேரம்",
+            "21 மணி நேரம்",
+            "20 மணி நேரம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 21 மணி நேரம்",
+        "question_en": "A, B, C, and D start running simultaneously in the same direction around a circular garden. The time taken by A, B, C, and D to complete one round is 30 minutes, 60 minutes, 90 minutes, and 105 minutes respectively. After how many hours will they meet again at the starting point?",
+        "options_en": [
+            "15 hours",
+            "10 hours",
+            "21 hours",
+            "20 hours"
+        ],
+        "explanation_en": "Correct answer option (3): 21 hours"
+    },
+    {
+        "id": 70,
+        "question": "ஒரு செவ்வக வடிவ நிலம் 20 மீ நீளம் மற்றும் 14 மீ அகலம் கொண்டது அதைச் சுற்றி வெளிப்புறத்தில் அமைந்துள்ள சீரான அகலமுள்ள பாதையின் பரப்பு 111 ச.மீ. எனில் பாதையின் அகலம் என்ன?",
+        "options": [
+            "8/2 மீ",
+            "3/2 மீ",
+            "5/3 மீ",
+            "1 மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3/2 மீ (அல்லது 1.5 மீ)",
+        "question_en": "A rectangular plot is 20 m long and 14 m wide. The area of a path of uniform width running outside around it is 111 sq.m. What is the width of the path?",
+        "options_en": [
+            "8/2 m",
+            "3/2 m",
+            "5/3 m",
+            "1 m"
+        ],
+        "explanation_en": "Correct answer option (2): 3/2 m"
+    },
+    {
+        "id": 71,
+        "question": "ஒரு வட்டத்தின் சுற்றளவுக்கும் ஆரத்துக்கும் உள்ள வேறுபாடு 37 செ.மீ. ஆகும். எனில் அவ்வட்டத்தின் ஆரம் என்ன?",
+        "options": [
+            "7 செ.மீ.",
+            "44 செ.மீ.",
+            "154 செ.மீ.",
+            "88 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 7 செ.மீ.",
+        "question_en": "The difference between the circumference and the radius of a circle is 37 cm. What is the radius of the circle?",
+        "options_en": [
+            "7 cm",
+            "44 cm",
+            "154 cm",
+            "88 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 7 cm"
+    },
+    {
+        "id": 72,
+        "question": "ஒரு வட்டத்தின் சுற்றளவு c எனவும் பரப்பளவு A எனவும் ஆரம் r எனவும் கருதினால், கீழ்க்கண்டவற்றுள் எது சரி?",
+        "options": [
+            "\\( r \\times C = 2 \\times A \\)",
+            "\\( \\frac{c}{A} = \\frac{r}{2} \\)",
+            "\\( A \\times C = \\frac{r^2}{4} \\)",
+            "\\( \\frac{A}{r} = C \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( r \\times C = 2 \\times A \\)",
+        "question_en": "Considering 'c' as the circumference, 'A' as the area, and 'r' as the radius of a circle, which of the following is correct?",
+        "options_en": [
+            "\\( r \\times C = 2 \\times A \\)",
+            "\\( \\frac{c}{A} = \\frac{r}{2} \\)",
+            "\\( A \\times C = \\frac{r^2}{4} \\)",
+            "\\( \\frac{A}{r} = C \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( r \\times C = 2 \\times A \\)"
+    },
+    {
+        "id": 73,
+        "question": "ஒரு வட்டத்தின் ஆரம் 1 அலகு அதிகரிக்கும் போது உருவாகும் வட்டத்தின் சுற்றளவுக்கும் விட்டத்திற்கும் உள்ள விகிதம் என்ன?",
+        "options": [
+            "\\( 1 : \\pi \\)",
+            "\\( \\pi : 1 \\)",
+            "\\( \\pi : 3 \\)",
+            "\\( 3 : \\pi \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\pi : 1 \\)",
+        "question_en": "When the radius of a circle is increased by 1 unit, what is the ratio between the circumference and the diameter of the new circle?",
+        "options_en": [
+            "\\( 1 : \\pi \\)",
+            "\\( \\pi : 1 \\)",
+            "\\( \\pi : 3 \\)",
+            "\\( 3 : \\pi \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\pi : 1 \\)"
+    },
+    {
+        "id": 74,
+        "question": "மோகன் என்பவர் 14 செ.மீ. ஆரமுள்ள ஒரு வட்டத் தகட்டை நான்கு சமபாகங்களாகப் பிரிக்கிறார். அதன் ஒரு கால் வட்டத் தகட்டின் சுற்றளவு",
+        "options": [
+            "50 செ.மீ.",
+            "22 செ.மீ.",
+            "28 செ.மீ.",
+            "36 செ.மீ."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 50 செ.மீ.",
+        "question_en": "Mohan divides a circular plate of radius 14 cm into four equal parts. The perimeter of one quadrant plate is",
+        "options_en": [
+            "50 cm",
+            "22 cm",
+            "28 cm",
+            "36 cm"
+        ],
+        "explanation_en": "Correct answer option (1): 50 cm"
+    }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "question": "கீழ்க்கண்டவற்றில் அச்சு ஊடகத்தின் கீழ் வருவது எது?",
+    "options": [
+      "வானொலி",
+      "தொலைக்காட்சி",
+      "செய்தித்தாள்",
+      "இணையதளம்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following comes under print media?",
+    "options_en": [
+      "Radio",
+      "Television",
+      "Newspaper",
+      "Website"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றில் அச்சு ஊடகத்தின் கீழ் வருவது செய்தித்தாள் ஆகும்.",
+    "explanation_en": "Newspaper"
+  },
+  {
+    "id": 2,
+    "question": "கீழ்க்கண்டவற்றில் ஒலிபரப்பு ஊடகம் என்பது ________.",
+    "options": [
+      "இதழ்கள்",
+      "அறிக்கைகள்",
+      "நாளிதழ்",
+      "வானொலி"
+    ],
+    "correct": 3,
+    "question_en": "Broadcasting medium is ________ among the following.",
+    "options_en": [
+      "Magazines",
+      "reports",
+      "newspaper",
+      "Radio"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றில் ஒலிபரப்பு ஊடகம் என்பது வானொலி.",
+    "explanation_en": "Broadcasting medium is Radio among the following."
+  },
+  {
+    "id": 3,
+    "question": "உலகினை மக்களின் அருகாமையில் கொண்டு வந்த ஊடகம் ________.",
+    "options": [
+      "தட்டச்சு",
+      "தொலைபேசி",
+      "தொலைக்காட்சி",
+      "இவற்றில் ஏதுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "The medium that brought the world closer to the people was ________.",
+    "options_en": [
+      "Typing",
+      "Telephone",
+      "Television",
+      "None of these"
+    ],
+    "explanation": "உலகினை மக்களின் அருகாமையில் கொண்டு வந்த ஊடகம் தொலைக்காட்சி.",
+    "explanation_en": "The medium that brought the world closer to the people was Television."
+  },
+  {
+    "id": 4,
+    "question": "வெகுஜன ஊடகம் என்பது ________.",
+    "options": [
+      "வானொலி",
+      "தொலைக்காட்சி",
+      "1 மற்றும் 2",
+      "இவற்றில் ஏதுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Mass media is ________.",
+    "options_en": [
+      "Radio",
+      "Television",
+      "1 and 2",
+      "None of these"
+    ],
+    "explanation": "வெகுஜன ஊடகம் என்பது 1 மற்றும் 2.",
+    "explanation_en": "Mass media is 1 and 2."
+  },
+  {
+    "id": 5,
+    "question": "ஊடகம் ஏன் சுதந்திரமாக செயல்பட வேண்டும்?",
+    "options": [
+      "நிறைய பணம் ஈட்ட",
+      "நிறுவனத்தை ஊக்கப்படுத்த",
+      "நடுநிலையான தகவலை தருவதற்கு",
+      "இவற்றில் ஏதுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Why should the media be free?",
+    "options_en": [
+      "To earn a lot of money",
+      "To motivate the company",
+      "To provide unbiased information",
+      "None of these"
+    ],
+    "explanation": "நடுநிலையான தகவலை தருவதற்கு",
+    "explanation_en": "To provide unbiased information"
+  },
+  {
+    "id": 6,
+    "question": "உலகத்தினைச் சிறியதாகவும், மிக அருகாமையிலும் கொண்டு வந்தது ________ ஆகும்.",
+    "options": [
+      "கல்வி",
+      "வேளாண்மை",
+      "ஊடகம்",
+      "தட்டச்சு"
+    ],
+    "correct": 2,
+    "question_en": "What made the world smaller and closer was ________.",
+    "options_en": [
+      "Education",
+      "Agriculture",
+      "media",
+      "Typing"
+    ],
+    "explanation": "உலகத்தினைச் சிறியதாகவும், மிக அருகாமையிலும் கொண்டு வந்தது ஊடகம் ஆகும்.",
+    "explanation_en": "What made the world smaller and closer was media."
+  },
+  {
+    "id": 7,
+    "question": "ஒவ்வொரு தனிமனிதனும் ________ ஆகும்.",
+    "options": [
+      "ஊடகத்தின் வெளிப்பாடு",
+      "அறிவு",
+      "ஆற்றல்",
+      "அச்சு ஊடகம்"
+    ],
+    "correct": 0,
+    "question_en": "Each individual is ________.",
+    "options_en": [
+      "Media exposure",
+      "Knowledge",
+      "Energy",
+      "Print media"
+    ],
+    "explanation": "ஒவ்வொரு தனிமனிதனும் ஊடகத்தின் வெளிப்பாடு ஆகும்.",
+    "explanation_en": "Each individual is Media exposure."
+  },
+  {
+    "id": 8,
+    "question": "அச்சு இயந்திரம் ________ என்பவரால் கண்டுபிடிக்கப்பட்டது.",
+    "options": [
+      "மார்கோனி",
+      "ஸ்மித்",
+      "ஜோஹன்னஸ் குட்டன்பெர்க்",
+      "பிரோஸ்ட்"
+    ],
+    "correct": 2,
+    "question_en": "The printing press was invented by ________.",
+    "options_en": [
+      "Marconi",
+      "Smith",
+      "Johannes Gutenberg",
+      "Frost"
+    ],
+    "explanation": "அச்சு இயந்திரம் ஜோஹன்னஸ் குட்டன்பெர்க் என்பவரால் கண்டுபிடிக்கப்பட்டது.",
+    "explanation_en": "The printing press was invented by Johannes Gutenberg."
+  },
+  {
+    "id": 9,
+    "question": "நமது வாழ்க்கையைத் தீர்மானிக்கும் மதிப்புகளின் தொகுப்பு ________.",
+    "options": [
+      "ஊடகம்",
+      "கல்வி",
+      "வேளாண்மை",
+      "நெறிமுறை"
+    ],
+    "correct": 3,
+    "question_en": "The set of values ​​that determine our lives is ________.",
+    "options_en": [
+      "media",
+      "Education",
+      "Agriculture",
+      "Ethics"
+    ],
+    "explanation": "நமது வாழ்க்கையைத் தீர்மானிக்கும் மதிப்புகளின் தொகுப்பு நெறிமுறை.",
+    "explanation_en": "The set of values ​​that determine our lives is Ethics."
+  },
+  {
+    "id": 10,
+    "question": "இந்திய அரசின் வானொலி ஒலிபரப்பு நிறுவனம் ________.",
+    "options": [
+      "ஆகாசவானி",
+      "F.M (எப்எம்)",
+      "கூகுள்",
+      "இணையம்"
+    ],
+    "correct": 0,
+    "question_en": "The Government Radio Broadcasting Corporation of India is ________.",
+    "options_en": [
+      "sky",
+      "F.M.",
+      "Google",
+      "Internet"
+    ],
+    "explanation": "இந்திய அரசின் வானொலி ஒலிபரப்பு நிறுவனம் ஆகாசவானி.",
+    "explanation_en": "The Government Radio Broadcasting Corporation of India is sky."
+  },
+  {
+    "id": 11,
+    "question": "சமய கதைகள் மக்களிடம் கொண்டு செல்ல பயன்பட்ட கலை ________.",
+    "options": [
+      "பொதுக்கூட்டம்",
+      "நாடகம்",
+      "கருத்தரங்கு",
+      "கூத்து"
+    ],
+    "correct": 3,
+    "question_en": "Art used to convey religious stories to people is ________.",
+    "options_en": [
+      "General Assembly",
+      "Drama",
+      "seminar",
+      "shout"
+    ],
+    "explanation": "சமய கதைகள் மக்களிடம் கொண்டு செல்ல பயன்பட்ட கலை கூத்து.",
+    "explanation_en": "Art used to convey religious stories to people is shout."
+  },
+  {
+    "id": 12,
+    "question": "அச்சு இயந்திரம் கண்டுபிடிக்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1400",
+      "1450",
+      "1453",
+      "1460"
+    ],
+    "correct": 2,
+    "question_en": "The year the printing press was invented was ________.",
+    "options_en": [
+      "1400",
+      "1450",
+      "1453",
+      "1460"
+    ],
+    "explanation": "அச்சு இயந்திரம் கண்டுபிடிக்கப்பட்ட ஆண்டு 1453.",
+    "explanation_en": "The year the printing press was invented was 1453."
+  },
+  {
+    "id": 13,
+    "question": "நவீன ஊடக முறையை குறிக்கப்படுவது ________ ஆகும்.",
+    "options": [
+      "கூத்து",
+      "பொம்மலாட்டம்",
+      "சொற்பொழிவு",
+      "நாடகம்"
+    ],
+    "correct": 3,
+    "question_en": "Modern media system is characterized by ________.",
+    "options_en": [
+      "shout",
+      "Puppetry",
+      "Discourse",
+      "Drama"
+    ],
+    "explanation": "நவீன ஊடக முறையை குறிக்கப்படுவது நாடகம் ஆகும்.",
+    "explanation_en": "Modern media system is characterized by Drama."
+  },
+  {
+    "id": 14,
+    "question": "மக்களின் பல்கலைக்கழகமாக கருதப்படுவது ________ ஆகும்.",
+    "options": [
+      "அச்சு ஊடகம்",
+      "வானொலி",
+      "தொலைக்காட்சி",
+      "கடிதம்"
+    ],
+    "correct": 0,
+    "question_en": "What is considered a people's university is ________.",
+    "options_en": [
+      "Print media",
+      "Radio",
+      "Television",
+      "Letter"
+    ],
+    "explanation": "மக்களின் பல்கலைக்கழகமாக கருதப்படுவது அச்சு ஊடகம் ஆகும்.",
+    "explanation_en": "What is considered a people's university is Print media."
+  },
+  {
+    "id": 15,
+    "question": "ஊடகம் என்பது எந்த ஆங்கில வார்த்தையின் பன்மை?",
+    "options": [
+      "மீடியா",
+      "மீடியம்",
+      "ரேடியோ",
+      "ரேடியன்"
+    ],
+    "correct": 1,
+    "question_en": "Media is the plural of which English word?",
+    "options_en": [
+      "Media",
+      "Medium",
+      "Radio",
+      "Radian"
+    ],
+    "explanation": "மீடியம்",
+    "explanation_en": "Medium"
+  },
+  {
+    "id": 16,
+    "question": "தனிமனித தொடர்பு சாதனத்திற்கு ஓர் எடுத்துக்காட்டு ________.",
+    "options": [
+      "இணையம்",
+      "தொலைக்காட்சி",
+      "வானொலி",
+      "மின்னஞ்சல்"
+    ],
+    "correct": 3,
+    "question_en": "An example of a personal communication device is ________.",
+    "options_en": [
+      "Internet",
+      "Television",
+      "Radio",
+      "Email"
+    ],
+    "explanation": "தனிமனித தொடர்பு சாதனத்திற்கு ஓர் எடுத்துக்காட்டு மின்னஞ்சல்.",
+    "explanation_en": "An example of a personal communication device is Email."
+  },
+  {
+    "id": 17,
+    "question": "தொலைக்காட்சி என்பது எந்த வகை ஊடக அமைப்பைச் சார்ந்தது?",
+    "options": [
+      "தொலைத் தொடர்பு",
+      "சமூக ஊடகம்",
+      "அச்சு",
+      "குறுகிய தொடர்பு"
+    ],
+    "correct": 0,
+    "question_en": "Television belongs to which type of media system?",
+    "options_en": [
+      "Telecommunication",
+      "Social media",
+      "Print",
+      "Short communication"
+    ],
+    "explanation": "தொலைத் தொடர்பு",
+    "explanation_en": "Telecommunication"
+  },
+  {
+    "id": 18,
+    "question": "குறுகிய தொடர்பு ஊடகத்திற்கு ஓர் எடுத்துக்காட்டு ________.",
+    "options": [
+      "வானொலி",
+      "அஞ்சல்",
+      "மின்னஞ்சல்",
+      "தொலைநகல்"
+    ],
+    "correct": 1,
+    "question_en": "An example of a short communication medium is ________.",
+    "options_en": [
+      "Radio",
+      "Mail",
+      "Email",
+      "Fax"
+    ],
+    "explanation": "குறுகிய தொடர்பு ஊடகத்திற்கு ஓர் எடுத்துக்காட்டு அஞ்சல்.",
+    "explanation_en": "An example of a short communication medium is Mail."
+  },
+  {
+    "id": 19,
+    "question": "திரைப்படம் என்பது எந்த வகை ஊடகத் தைச் சார்ந்தது?",
+    "options": [
+      "குறுகிய தொடர்பு",
+      "வெகுஜன தொடர்பு",
+      "தனிமனித தொடர்பு",
+      "தொலைத் தொடர்பு"
+    ],
+    "correct": 3,
+    "question_en": "Film is a type of media?",
+    "options_en": [
+      "Short communication",
+      "mass communication",
+      "Personal communication",
+      "Telecommunication"
+    ],
+    "explanation": "தொலைத் தொடர்பு",
+    "explanation_en": "Telecommunication"
+  },
+  {
+    "id": 20,
+    "question": "பத்திரிக்கை எந்த வகை ஊடகத்தை சார்ந்தது?",
+    "options": [
+      "சமூக ஊடகம்",
+      "அச்சு ஊடகம்",
+      "இணைய ஊடகம்",
+      "தொலைத்தொடர்பு ஊடகம்"
+    ],
+    "correct": 1,
+    "question_en": "What type of media is journalism?",
+    "options_en": [
+      "Social media",
+      "Print media",
+      "Internet media",
+      "Telecommunication media"
+    ],
+    "explanation": "அச்சு ஊடகம்",
+    "explanation_en": "Print media"
+  },
+  {
+    "id": 21,
+    "question": "இணைய வகை ஊடகத்திற்கு ஓர் எடுத்துக்காட்டு ________.",
+    "options": [
+      "வலைப்பதிவு",
+      "திரைப்படம்",
+      "செய்தித்தாள்",
+      "கீச்சகம்"
+    ],
+    "correct": 0,
+    "question_en": "An example of Internet-type media is ________.",
+    "options_en": [
+      "blog",
+      "Movie",
+      "Newspaper",
+      "Chichagam"
+    ],
+    "explanation": "இணைய வகை ஊடகத்திற்கு ஓர் எடுத்துக்காட்டு வலைப்பதிவு.",
+    "explanation_en": "An example of Internet-type media is blog."
+  },
+  {
+    "id": 22,
+    "question": "சமூக ஊடகத்திற்கு ஓர் எடுத்துக்காட்டு ________.",
+    "options": [
+      "செய்தித்தாள்",
+      "புலனம்",
+      "கூகுள்",
+      "அஞ்சல்"
+    ],
+    "correct": 1,
+    "question_en": "An example of social media is ________.",
+    "options_en": [
+      "Newspaper",
+      "Consciousness",
+      "Google",
+      "Mail"
+    ],
+    "explanation": "சமூக ஊடகத்திற்கு ஓர் எடுத்துக்காட்டு புலனம்.",
+    "explanation_en": "An example of social media is Consciousness."
+  },
+  {
+    "id": 23,
+    "question": "எந்த ஆண்டு ஆகாசவானி என்ற வானொலி நிலையம் ஆரம்பிக்கப்பட்டது?",
+    "options": [
+      "1936",
+      "1935",
+      "1937",
+      "1956"
+    ],
+    "correct": 0,
+    "question_en": "In which year radio station Aagasvani was started?",
+    "options_en": [
+      "1936",
+      "1935",
+      "1937",
+      "1956"
+    ],
+    "explanation": "1936",
+    "explanation_en": "1936"
+  },
+  {
+    "id": 24,
+    "question": "மக்களின் அன்றாட வாழ்க்கையின் ஒரு பகுதியாகவே மாறிவிட்டது ________.",
+    "options": [
+      "ஊடகம்",
+      "கல்வி",
+      "விவசாயம்",
+      "அரசியல்"
+    ],
+    "correct": 0,
+    "question_en": "________ has become a part of people's daily life.",
+    "options_en": [
+      "media",
+      "Education",
+      "Agriculture",
+      "Politics"
+    ],
+    "explanation": "மக்களின் அன்றாட வாழ்க்கையின் ஒரு பகுதியாகவே மாறிவிட்டது ஊடகம்.",
+    "explanation_en": "media has become a part of people's daily life."
+  },
+  {
+    "id": 25,
+    "question": "சமூகத்தில் நடைபெறுகிற முக்கிய பிரச்சனைகளைப் பற்றிய கருத்தை தெரிவிக்கும் ஊடகம் ________.",
+    "options": [
+      "வெகுஜன ஊடகம்",
+      "அச்சு மற்றும் மின்னணு",
+      "தொடர்பு ஊடகம்",
+      "சமூக ஊடகம்"
+    ],
+    "correct": 1,
+    "question_en": "________ is a medium that conveys opinions about important issues in society.",
+    "options_en": [
+      "mass media",
+      "Print and electronic",
+      "Communication media",
+      "Social media"
+    ],
+    "explanation": "சமூகத்தில் நடைபெறுகிற முக்கிய பிரச்சனைகளைப் பற்றிய கருத்தை தெரிவிக்கும் ஊடகம் அச்சு மற்றும் மின்னணு.",
+    "explanation_en": "Print and electronic is a medium that conveys opinions about important issues in society."
+  },
+  {
+    "id": 26,
+    "question": "வாழ்க்கையை வாழ தீர்மானிக்கும் மதிப்பீடுகளின் தொகுப்பு ________.",
+    "options": [
+      "நெறிமுறை",
+      "கல்வி",
+      "ஊடகம்",
+      "தொலைக்காட்சி"
+    ],
+    "correct": 0,
+    "question_en": "A set of values ​​that determine how to live life is ________.",
+    "options_en": [
+      "Ethics",
+      "Education",
+      "media",
+      "Television"
+    ],
+    "explanation": "வாழ்க்கையை வாழ தீர்மானிக்கும் மதிப்பீடுகளின் தொகுப்பு நெறிமுறை.",
+    "explanation_en": "A set of values ​​that determine how to live life is Ethics."
+  },
+  {
+    "id": 27,
+    "question": "ஜனநாயகத்தின் முதுகெலும்பு ________.",
+    "options": [
+      "இயற்கைவளம்",
+      "ஊடகம்",
+      "வாகனங்கள்",
+      "தாதுவளங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "The backbone of democracy is ________.",
+    "options_en": [
+      "Natural resources",
+      "media",
+      "Vehicles",
+      "Minerals"
+    ],
+    "explanation": "ஜனநாயகத்தின் முதுகெலும்பு ஊடகம்.",
+    "explanation_en": "The backbone of democracy is media."
+  },
+  {
+    "id": 28,
+    "question": "டெமோஸ் என்பது ________ சொல்",
+    "options": [
+      "லத்தீன்",
+      "அரேபிய",
+      "கிரேக்க",
+      "மீடியா"
+    ],
+    "correct": 2,
+    "question_en": "Demos is a ________ word",
+    "options_en": [
+      "Latin",
+      "Arabic",
+      "Greek",
+      "Media"
+    ],
+    "explanation": "டெமோஸ் என்பது கிரேக்க சொல்",
+    "explanation_en": "Demos is a Greek word"
+  },
+  {
+    "id": 29,
+    "question": "ஒரு குறிப்பிட்ட வட்டாரத்தின் மக்களின் நலனுக்காக செயல்படும் ஊடகம் ________.",
+    "options": [
+      "வெகுஜனம்",
+      "உள்ளூர்",
+      "தொலைத் தொடர்பு",
+      "இணையம்"
+    ],
+    "correct": 1,
+    "question_en": "Media that works for the benefit of the people of a particular locality is ________.",
+    "options_en": [
+      "mass",
+      "local",
+      "Telecommunication",
+      "Internet"
+    ],
+    "explanation": "ஒரு குறிப்பிட்ட வட்டாரத்தின் மக்களின் நலனுக்காக செயல்படும் ஊடகம் உள்ளூர்.",
+    "explanation_en": "Media that works for the benefit of the people of a particular locality is local."
+  },
+  {
+    "id": 30,
+    "question": "படவரி என்பது எந்த ஊடகத்தைச் சார்ந்தது?",
+    "options": [
+      "தொலைத்தொடர்பு",
+      "குறுகிய தொடர்பு",
+      "அச்சு ஊடகம்",
+      "சமூக ஊடகம்"
+    ],
+    "correct": 3,
+    "question_en": "Filmography belongs to which medium?",
+    "options_en": [
+      "Telecommunication",
+      "Short communication",
+      "Print media",
+      "Social media"
+    ],
+    "explanation": "சமூக ஊடகம்",
+    "explanation_en": "Social media"
+  },
+  {
+    "id": 31,
+    "question": "கீழ்க்கண்டவற்றைப் பொருத்துக\n(i) குறு அளவிலான ஊடகம் - a. கூகுள் இணையம்\n(ii) அச்சு ஊடகம் - b. சுவரொட்டிகள்\n(iii) இணைய ஊடகம் - c. திரைப்படம்\n(iv) ஒலிபரப்பு ஊடகம் - d. கருத்தரங்கு",
+    "options": [
+      "(i) - d (ii) - b (iii) - a (iv) - c",
+      "(i) - d (ii) - b (iii) - c (iv) - a",
+      "(i) - a (ii) - d (iii) - b (iv) - c",
+      "(i) - c (ii) - b (iii) - d (iv) - a"
+    ],
+    "correct": 0,
+    "question_en": "Match the following\n(i) Small Scale Media – a. Google Internet\n(ii) Print media – b. Posters\n(iii) Internet Media – c. Movie\n(iv) Broadcasting medium – d. seminar",
+    "options_en": [
+      "(i) - d (ii) - b (iii) - a (iv) - c",
+      "(i) - d (ii) - b (iii) - c (iv) - a",
+      "(i) - a (ii) - d (iii) - b (iv) - c",
+      "(i) - c (ii) - b (iii) - d (iv) - a"
+    ],
+    "explanation": "(i) - d (ii) - b (iii) - a (iv) - c",
+    "explanation_en": "(i) - d (ii) - b (iii) - a (iv) - c"
+  },
+  {
+    "id": 32,
+    "question": "கீழ்க்கண்டவற்றைப் பொருத்துக.\n(i) தனிமனித தொடர்பு - a. வலைப்பதிவு\n(ii) வெகுஜன தொடர்பு - b. முகநூல்\n(iii) சமூக ஊடகம் - c. வானொலி\n(iv) இணைய ஊடகம் - d. மின்னஞ்சல்",
+    "options": [
+      "(i) - c (ii) - b (iii) - d (iv) - a",
+      "(i) - d (ii) - c (iii) - b (iv) - a",
+      "(i) - d (ii) - b (iii) - c (iv) - a",
+      "(i) - b (ii) - d (iii) - c (iv) - a"
+    ],
+    "correct": 1,
+    "question_en": "Match the following.\n(i) Personal communication – a. blog\n(ii) Mass Communication – b. Facebook\n(iii) Social Media – c. Radio\n(iv) Internet Media – d. Email",
+    "options_en": [
+      "(i) - c (ii) - b (iii) - d (iv) - a",
+      "(i) - d (ii) - c (iii) - b (iv) - a",
+      "(i) - d (ii) - b (iii) - c (iv) - a",
+      "(i) - b (ii) - d (iii) - c (iv) - a"
+    ],
+    "explanation": "(i) - d (ii) - c (iii) - b (iv) - a",
+    "explanation_en": "(i) - d (ii) - c (iii) - b (iv) - a"
+  },
+  {
+    "id": 33,
+    "question": "பொருத்துக\n(i) திரைப்படம் - a. நடுநிலைத்தன்மை\n(ii) தொலைக்காட்சி - b. சமூகப் பிரச்சனை\n(iii) வெகுஜன ஊடகம் - c. வட்டார மக்கள்\n(iv) உள்ளூர் ஊடகம் - d. பன்னாட்டுச் செய்தி",
+    "options": [
+      "(i) - d (ii) - b (iii) - c (iv) - a",
+      "(i) - c (ii) - b (iii) - d (iv) - a",
+      "(i) - b (ii) - d (iii) - c (iv) - a",
+      "(i) - b (ii) - d (iii) - a (iv) - c"
+    ],
+    "correct": 3,
+    "question_en": "match\n(i) Film – a. neutrality\n(ii) Television – b. Social problem\n(iii) Mass media – c. Local people\n(iv) Local media – d. International news",
+    "options_en": [
+      "(i) - d (ii) - b (iii) - c (iv) - a",
+      "(i) - c (ii) - b (iii) - d (iv) - a",
+      "(i) - b (ii) - d (iii) - c (iv) - a",
+      "(i) - b (ii) - d (iii) - a (iv) - c"
+    ],
+    "explanation": "(i) - b (ii) - d (iii) - a (iv) - c",
+    "explanation_en": "(i) - b (ii) - d (iii) - a (iv) - c"
+  },
+  {
+    "id": 34,
+    "question": "தவறான ஒன்றை கண்டறி.",
+    "options": [
+      "செய்தித்தாள்கள்",
+      "அறிக்கைகள்",
+      "கீச்சகம்",
+      "சுவரொட்டிகள்"
+    ],
+    "correct": 2,
+    "question_en": "Find something wrong.",
+    "options_en": [
+      "Newspapers",
+      "reports",
+      "Chichagam",
+      "Posters"
+    ],
+    "explanation": "கீச்சகம்",
+    "explanation_en": "Chichagam"
+  },
+  {
+    "id": 35,
+    "question": "கீழ்காணும் வாக்கியத்தில் சரியானது எது\n(அ) ஊடகம் என்பது பொதுவாக ஒருவருக்கொருவர் தகவல்களைப் பரிமாறிக் கொள்வது\n(ஆ) ஊடகம் மிகவும் சக்தி வாய்ந்த நிறுவனம்\n(இ) ஊடகம் மக்களிடம் பொதுக்கருத்தை உருவாக்குவதில் முக்கிய பங்கு வகிக்கிறது\n(ஈ) ஊடகத்திற்கு எந்த பொறுப்பும் கிடையாது",
+    "options": [
+      "அ, ஆ மற்றும் இ சரி",
+      "அ, ஆ மற்றும் ஈ சரி",
+      "ஆ, இ மற்றும் ஈ சரி",
+      "அ, ஆ மற்றும் ஈ சரி"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following sentences is correct?\n(a) Media generally refers to the exchange of information with each other\n(b) Media is a very powerful institution\n(c) Media plays an important role in creating public opinion among people\n(d) Media has no liability",
+    "options_en": [
+      "A, B and C are correct",
+      "A, B and D are correct",
+      "A, E and D are correct",
+      "A, B and D are correct"
+    ],
+    "explanation": "அ, ஆ மற்றும் இ சரி",
+    "explanation_en": "A, B and C are correct"
+  },
+  {
+    "id": 36,
+    "question": "கூற்று: அச்சு ஊடகம் மக்களின் பல்கலைக்கழகம் எனக் கருதப்படுகிறது\nகாரணம்: பொதுமக்களுக்கு தகவல்களை வழங்குவதிலும் கல்வி அறிவு ஊட்டுவதிலும் பெரும்பங்கு வகிக்கிறது மற்றும் பொதுமக்களின் பாதுகாவலனாகவும் செயல்படுகிறது",
+    "options": [
+      "கூற்று சரி, காரணம் சரியான விளக்கம்",
+      "கூற்று சரி, காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+      "கூற்றும் மற்றும் காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Statement: Print media is considered as people's university\nRationale: Plays a major role in imparting information and education to the public and acts as a guardian of the public",
+    "options_en": [
+      "The statement is correct, the reason is the correct explanation",
+      "The statement is correct, but the reason is not a valid explanation for the statement",
+      "Both statement and reason are correct",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+    "explanation_en": "Both statement and reason are correct"
+  },
+  {
+    "id": 37,
+    "question": "கூற்று: தொலைபேசி ஒரு ஊடகம் ஆகும்.\nகாரணம்: ஒன்று ஒரு நபர் மற்றொருவருடன் தனியாகவோ குழுவாகவோ தொடர்பு கொள்ளலாம்",
+    "options": [
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று, காரணம் இரண்டும் சரி",
+      "கூற்று, காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: Telephone is a medium.\nReason: Either one person can communicate with another alone or in a group",
+    "options_en": [
+      "The statement is false and the reason is correct",
+      "The statement is right, the reason is wrong",
+      "Both statement and reason are correct",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்று, காரணம் இரண்டும் சரி",
+    "explanation_en": "Both statement and reason are correct"
+  },
+  {
+    "id": 38,
+    "question": "கீழே உள்ளவற்றில் தவறானது எது?",
+    "options": [
+      "கிராஸ் என்பது மக்களை குறிக்கிறது",
+      "தொடர்பு கொள்ளும் முறை ஊடகம்",
+      "ஊடகம் தேசிய மற்றும் உலக செய்தியை அளிக்கிறது",
+      "ஊடகம் வாக்காளர்களுக்கு விழிப்புணர்வை ஏற்படுத்துகிறது"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is false?",
+    "options_en": [
+      "Cross means people",
+      "Mode of communication is media",
+      "Media conveys national and world news",
+      "Media creates awareness among voters"
+    ],
+    "explanation": "கீழே உள்ளவற்றில் தவறானது கிராஸ் என்பது மக்களை குறிக்கிறது ஆகும்.",
+    "explanation_en": "Cross means people is false."
+  },
+  {
+    "id": 39,
+    "question": "கீழ்க்காணும் நிகழ்வுகளை காலங்களின் அடிப்படையில் வரிசைப்படுத்துக.\n1. இந்திய அரசு வானொலி நிறுவனம் தனது ஒலிபரப்பைத் தொடங்கியது\n2. இந்திய அரசு வானொலி நிறுவனம் தொடங்கப்பட்டது.\n3. அச்சு இயந்திரம் கண்டுபிடிக்கப்பட்டது",
+    "options": [
+      "1, 2, 3",
+      "2, 3, 1",
+      "3, 1, 2",
+      "3, 2, 1"
+    ],
+    "correct": 3,
+    "question_en": "Arrange the following events in chronological order.\n1. Government Radio Corporation of India started its broadcasting\n2. Government Radio Corporation of India was started.\n3. The printing press was invented",
+    "options_en": [
+      "1, 2, 3",
+      "2, 3, 1",
+      "3, 1, 2",
+      "3, 2, 1"
+    ],
+    "explanation": "3, 2, 1",
+    "explanation_en": "3, 2, 1"
+  },
+  {
+    "id": 40,
+    "question": "ஆகாசவானி தனது ஒலிபரப்பைத் தொடங்கிய ஆண்டு ________.",
+    "options": [
+      "1973",
+      "1935",
+      "1937",
+      "1956"
+    ],
+    "correct": 3,
+    "question_en": "The year Aagasvani started its broadcasting was ________.",
+    "options_en": [
+      "1973",
+      "1935",
+      "1937",
+      "1956"
+    ],
+    "explanation": "ஆகாசவானி தனது ஒலிபரப்பைத் தொடங்கிய ஆண்டு 1956.",
+    "explanation_en": "The year Aagasvani started its broadcasting was 1956."
+  },
+  {
+    "id": 41,
+    "question": "கீழ்க்கண்டவற்றுள் சரியான இணை / இணைகளைத் தேர்ந்தெடுக்கவும்\n(i) வலைப்பதிவு - இணைய வகை ஊடகம்\n(ii) திரைப்படம் - தனிமனித தொடர்பு ஊடகம்\n(iii) செய்தித்தாள் - வெகுஜன தொடர்பு ஊடகம்",
+    "options": [
+      "i மற்றும் ii",
+      "i மற்றும் iii",
+      "மேற்கண்ட அனைத்தும்",
+      "மேற்கண்ட ஏதுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Select the correct counterpart/s from the following\n(i) Blog – Internet type media\n(ii) Film – a medium of personal communication\n(iii) Newspaper – Media of mass communication",
+    "options_en": [
+      "i and ii",
+      "i and iii",
+      "All of the above",
+      "None of the above"
+    ],
+    "explanation": "i மற்றும் iii",
+    "explanation_en": "i and iii"
+  },
+  {
+    "id": 42,
+    "question": "கீழ்க்கண்டவற்றுள் தவறான இணை / இணைகளைத் தேர்ந்தெடுக்கவும்.\n(i) சமூக ஊடகம் - கீச்சகம்\n(ii) புத்தகம் - அச்சு ஊடகம்\n(iii) கருத்தரங்கு - குறுகிய தொடர்பு ஊடகம்",
+    "options": [
+      "i மட்டும்",
+      "ii மற்றும் iii",
+      "i, ii மற்றும் iii",
+      "மேற்கண்ட ஏதுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "Select the incorrect parallel / parallels from the following.\n(i) Social Media – Twitter\n(ii) Book – Print medium\n(iii) Seminar – short communication medium",
+    "options_en": [
+      "i only",
+      "ii and iii",
+      "i, ii and iii",
+      "None of the above"
+    ],
+    "explanation": "மேற்கண்ட ஏதுமில்லை",
+    "explanation_en": "None of the above"
+  },
+  {
+    "id": 43,
+    "question": "கீழே உள்ளவற்றில் தவறானது எது?\n(1) “மீடியம்” (Medium) என்பது - ஆங்கில வார்த்தை - இதன் பொருள் “ஊடகம்”\n(2) டெமோஸ்” (Demos) என்பது - கிரேக்க சொல் - இதன் பொருள் “மக்கள்”\n(3) “க்ராடோஸ்” (Crates) என்பது - கிரேக்க சொல் - இதன் பொருள் “ஆட்சி (அ) அதிகாரம்”\n(4) “டெமோகிராசி” (Democracy) என்பது - கிரேக்க சொல் - இதன் பொருள் “ஜனநாயகம்”",
+    "options": [
+      "“மீடியம்” (Medium) என்பது - ஆங்கில வார்த்தை - இதன் பொருள் “ஊடகம்”",
+      "டெமோஸ்” (Demos) என்பது - கிரேக்க சொல் - இதன் பொருள் “மக்கள்”",
+      "“க்ராடோஸ்” (Crates) என்பது - கிரேக்க சொல் - இதன் பொருள் “ஆட்சி (அ) அதிகாரம்”",
+      "“டெமோகிராசி” (Democracy) என்பது - கிரேக்க சொல் - இதன் பொருள் “ஜனநாயகம்”"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is false?\n(1) “Medium” is an English word meaning “medium”.\n(2) Demos” is a Greek word meaning “the people”.\n(3) “Crates” – Greek word – means “rule (a) authority”.\n(4) “Democracy” is a Greek word meaning “democracy”.",
+    "options_en": [
+      "“Medium” is an English word meaning “media”.",
+      "Demos” is a Greek word meaning “the people”.",
+      "\"Crates\" is a Greek word meaning \"rule (a) power\".",
+      "\"Democracy\" is a Greek word meaning \"democracy\"."
+    ],
+    "explanation": "கீழே உள்ளவற்றில் தவறானது “மீடியம்” (Medium) என்பது - ஆங்கில வார்த்தை - இதன் பொருள் “ஊடகம்” ஆகும்.\n(1) “மீடியம்” (Medium) என்பது - ஆங்கில வார்த்தை - இதன் பொருள் “ஊடகம்”\n(2) டெமோஸ்” (Demos) என்பது - கிரேக்க சொல் - இதன் பொருள் “மக்கள்”\n(3) “க்ராடோஸ்” (Crates) என்பது - கிரேக்க சொல் - இதன் பொருள் “ஆட்சி (அ) அதிகாரம்”\n(4) “டெமோகிராசி” (Democracy) என்பது - கிரேக்க சொல் - இதன் பொருள் “ஜனநாயகம்”",
+    "explanation_en": "“Medium” is an English word meaning “media”. is false.\n(1) “Medium” is an English word meaning “medium”.\n(2) Demos” is a Greek word meaning “the people”.\n(3) “Crates” – Greek word – means “rule (a) authority”.\n(4) “Democracy” is a Greek word meaning “democracy”."
+  },
+  {
+    "id": 44,
+    "question": "கீழ்கண்டவற்றை பொருத்துக.\n(i) ஹரி கதைகள் - a. மின்னஞ்சல்\n(ii) தனிமனித தொடர்பு - b. கருத்தரங்கம்\n(iii) வெகுஜன தொடர்பு - c. சமயக் கதைகள்\n(iv) குறுகிய தொடர்பு ஊடகம் - d. தொலைக்காட்சி",
+    "options": [
+      "(i) – c (ii) – a (iii) – d (iv) – b",
+      "(i) – a (ii) – c (iii) – b (iv) – d",
+      "(i) – c (ii) – b (iii) – a (iv) – d",
+      "(i) – d (ii) – c (iii) – b (iv) – a"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\n(i) Hari stories - a. Email\n(ii) Personal communication – b. Seminar\n(iii) Mass Communication – c. Religious stories\n(iv) Short communication medium – d. Television",
+    "options_en": [
+      "(i) – c (ii) – a (iii) – d (iv) – b",
+      "(i) – a (ii) – c (iii) – b (iv) – d",
+      "(i) – c (ii) – b (iii) – a (iv) – d",
+      "(i) – d (ii) – c (iii) – b (iv) – a"
+    ],
+    "explanation": "(i) – c (ii) – a (iii) – d (iv) – b",
+    "explanation_en": "(i) – c (ii) – a (iii) – d (iv) – b"
+  },
+  {
+    "id": 45,
+    "question": "தவறான விடையைத் தேர்ந்தெடு.\n(1) ஊடகம் மக்களாட்சியில் தலையிடுவதில்லை.\n(2) ஊடகம் தேசிய மற்றும் உலக செய்திகளை அனுப்புவதாகும்.\n(3) ஊடகம் என்பது ஒரு குறிப்பிட்ட வட்டாரத்தின் மக்களின் நலனுக்காக செயல்படுவதாகும்.\n(4) ஊடகம் கிராமப்புற மக்களுக்குக் கல்வி அளிக்கிறது.",
+    "options": [
+      "ஊடகம் மக்களாட்சியில் தலையிடுவதில்லை.",
+      "ஊடகம் தேசிய மற்றும் உலக செய்திகளை அனுப்புவதாகும்.",
+      "ஊடகம் என்பது ஒரு குறிப்பிட்ட வட்டாரத்தின் மக்களின் நலனுக்காக செயல்படுவதாகும்.",
+      "ஊடகம் கிராமப்புற மக்களுக்குக் கல்வி அளிக்கிறது."
+    ],
+    "correct": 0,
+    "question_en": "Choose the wrong answer.\n(1) Media does not interfere in democracy.\n(2) Media is the transmission of national and world news.\n(3) Media is meant to work for the benefit of the people of a particular locality.\n(4) Media educates rural people.",
+    "options_en": [
+      "Media does not interfere in democracy.",
+      "Media is the transmission of national and world news.",
+      "Media is meant to work for the benefit of the people of a particular community.",
+      "Media educates rural people."
+    ],
+    "explanation": "ஊடகம் மக்களாட்சியில் தலையிடுவதில்லை.",
+    "explanation_en": "Media does not interfere in democracy."
+  },
+  {
+    "id": 46,
+    "question": "சமூக ஊடகத்தினை குறிப்பது ________.",
+    "options": [
+      "வலைப்பதிவுகள்",
+      "தொலைக்காட்சி",
+      "முகநூல்",
+      "செய்தித்தாள்"
+    ],
+    "correct": 2,
+    "question_en": "Social media refers to ________.",
+    "options_en": [
+      "blogs",
+      "Television",
+      "Facebook",
+      "Newspaper"
+    ],
+    "explanation": "சமூக ஊடகத்தினை குறிப்பது முகநூல்.",
+    "explanation_en": "Social media refers to Facebook."
+  },
+  {
+    "id": 47,
+    "question": "ஊடகங்களின் முக்கியப் பணி ________.",
+    "options": [
+      "மக்களிடையே பொதுவான கருத்தினை ஏற்படுத்தி விழிப்புணர்வு ஏற்படுத்துதல்",
+      "பொழுதுபோக்கு நிகழ்ச்சிகள் வழங்குதல்",
+      "பொருள் ஈட்ட வழி செய்தல்",
+      "எதிர் கருத்துக்களை விதைத்தல்"
+    ],
+    "correct": 0,
+    "question_en": "The main function of media is ________.",
+    "options_en": [
+      "Creating common sense and creating awareness among people",
+      "Provision of entertainment programs",
+      "Making money",
+      "Sowing opposing views"
+    ],
+    "explanation": "ஊடகங்களின் முக்கியப் பணி மக்களிடையே பொதுவான கருத்தினை ஏற்படுத்தி விழிப்புணர்வு ஏற்படுத்துதல்.",
+    "explanation_en": "The main function of media is Creating common sense and creating awareness among people."
+  },
+  {
+    "id": 48,
+    "question": "ஜனநாயகத்தின் கோட்பாடு என்பது ________.",
+    "options": [
+      "முடியாட்சிக் கோட்பாடு",
+      "மக்களால் ஆட்சி செய்யப்படுதல்",
+      "ஏகாதிபத்தியம்",
+      "சிலருக்கு முக்கியத்துவம்"
+    ],
+    "correct": 1,
+    "question_en": "The theory of democracy is ________.",
+    "options_en": [
+      "Theory of Monarchy",
+      "Ruled by the people",
+      "Imperialism",
+      "Importance to some"
+    ],
+    "explanation": "ஜனநாயகத்தின் கோட்பாடு என்பது மக்களால் ஆட்சி செய்யப்படுதல்.",
+    "explanation_en": "The theory of democracy is Ruled by the people."
+  },
+  {
+    "id": 49,
+    "question": "ஜனநாயகத்தின் நான்காவது தூணாக கருதப்படுவது ________.",
+    "options": [
+      "செயலாட்சிக்குழு",
+      "நீதித்துறை",
+      "சட்டமன்றம்",
+      "ஊடகம்"
+    ],
+    "correct": 3,
+    "question_en": "The fourth pillar of democracy is considered to be ________.",
+    "options_en": [
+      "Executive Committee",
+      "Department of Justice",
+      "Legislature",
+      "media"
+    ],
+    "explanation": "ஜனநாயகத்தின் நான்காவது தூணாக கருதப்படுவது ஊடகம்.",
+    "explanation_en": "The fourth pillar of democracy is considered to be media."
+  },
+  {
+    "id": 50,
+    "question": "கூற்று: ஜனநாயக அரசின் நான்காவது தூண் ஊடகம் ஆகும்.\nகாரணம்: ஊடகம் மற்ற மூன்று துறை (சட்டமன்றம், நிர்வாகத்துறை, நீதித்துறை) செயல்பாடுகளின் வெளிப்படைத் தன்மையை உறுதி செய்கிறது.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று சரி, காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+      "கூற்றும் மற்றும் காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: The fourth pillar of a democratic state is the media.\nReason: Media ensures transparency in the functioning of other three branches (Legislature, Executive, Judiciary).",
+    "options_en": [
+      "The statement is right, the reason is wrong",
+      "The statement is correct, but the reason is not a valid explanation for the statement",
+      "Both statement and reason are correct",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+    "explanation_en": "Both statement and reason are correct"
+  }
+]

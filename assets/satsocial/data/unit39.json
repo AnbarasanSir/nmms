@@ -1,0 +1,1322 @@
+[
+  {
+    "id": 1,
+    "question": "ஹசார்டு (Hazard) என்ற சொல் ஹாசர்ட் (Hasart) என்ற --------------- சொல்லிலிருந்து வந்தது.",
+    "options": [
+      "இலத்தீன்",
+      "பிரெஞ்சு",
+      "அரபு",
+      "கிரேக்கம்"
+    ],
+    "correct": 1,
+    "question_en": "The word 'Hazard' came from the ________ word 'Hasart'.",
+    "options_en": [
+      "Latin",
+      "French",
+      "Arabic",
+      "Greek"
+    ],
+    "explanation": "பிரெஞ்சு",
+    "explanation_en": "The word 'Hazard' came from the French word 'Hasart'."
+  },
+  {
+    "id": 2,
+    "question": "தமிழகத்தில் உள்ள கடற்கரை மாவட்டங்கள் எத்தனை?",
+    "options": [
+      "13",
+      "12",
+      "11",
+      "10"
+    ],
+    "correct": 0,
+    "question_en": "How many coastal districts are there in Tamil Nadu?",
+    "options_en": [
+      "13",
+      "12",
+      "11",
+      "10"
+    ],
+    "explanation": "தமிழகத்தில் உள்ள கடற்கரை மாவட்டங்கள் 13 ஆகும்.",
+    "explanation_en": "13 coastal districts are there in Tamil Nadu."
+  },
+  {
+    "id": 3,
+    "question": "பொருத்துக :\ni. சுற்றுச்சூழல் சார்ந்த இடர்கள் - a. மூடுபனி\nii. உயிரியல் சார்ந்த இடர்கள் - b. புவி வெப்பமடைதல்\niii. நிலவியல் சார்ந்த இடர்கள் - c. சின்னம்மை\niv. வளிமண்டலத்தால் ஏற்படும் இடர்கள் - d. சுனாமி",
+    "options": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - d, ii - a, iii - c, iv - b"
+    ],
+    "correct": 0,
+    "question_en": "Match the following:\ni. Environmental hazards - a. Fog\nii. Biological hazards - b. Global warming\niii. Geological hazards - c. Chickenpox\niv. Atmospheric hazards - d. Tsunami",
+    "options_en": [
+      "i - b, ii - c, iii - d, iv - a",
+      "i - b, ii - a, iii - d, iv - c",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - d, ii - a, iii - c, iv - b"
+    ],
+    "explanation": "i - b, ii - c, iii - d, iv - a",
+    "explanation_en": "i - b, ii - c, iii - d, iv - a"
+  },
+  {
+    "id": 4,
+    "question": "இந்திய தரநிர்ணய நிறுவனம் இந்தியாவை ________ நில அதிர்வு மண்டலங்களாக வகைப்படுத்தியுள்ளது.",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correct": 0,
+    "question_en": "The Bureau of Indian Standards has classified India into ________ seismic zones.",
+    "options_en": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "explanation": "இந்திய தரநிர்ணய நிறுவனம் இந்தியாவை 5 நில அதிர்வு மண்டலங்களாக வகைப்படுத்தியுள்ளது.",
+    "explanation_en": "The Bureau of Indian Standards has classified India into 5 seismic zones."
+  },
+  {
+    "id": 5,
+    "question": "தவறான இணையைக் கண்டறிக.",
+    "options": [
+      "மண்டலம் 2 - நாட்டின் பிற பகுதிகள்",
+      "மண்டலம் 3 - தமிழ்நாடு",
+      "மண்டலம் 4 - புதுடெல்லி",
+      "மண்டலம் 5 - இராஜஸ்தான்"
+    ],
+    "correct": 3,
+    "question_en": "Find the incorrect pair.",
+    "options_en": [
+      "Zone 2 - Other parts of the country",
+      "Zone 3 - Tamil Nadu",
+      "Zone 4 - New Delhi",
+      "Zone 5 - Rajasthan"
+    ],
+    "explanation": "மண்டலம் 5 - இராஜஸ்தான்",
+    "explanation_en": "Zone 5 - Rajasthan"
+  },
+  {
+    "id": 6,
+    "question": "ஆந்திரா, கர்நாடகா மற்றும் கேரளா ஆகியவை இந்திய தர நிர்ணய நிறுவனத்தின் அடிப்படையில் எந்த மண்டலத்தின் கீழ் அமைந்துள்ளது?",
+    "options": [
+      "மண்டலம் 2",
+      "மண்டலம் 3",
+      "மண்டலம் 4",
+      "மண்டலம் 5"
+    ],
+    "correct": 1,
+    "question_en": "Under which zone do Andhra Pradesh, Karnataka, and Kerala fall based on the Bureau of Indian Standards classification?",
+    "options_en": [
+      "Zone 2",
+      "Zone 3",
+      "Zone 4",
+      "Zone 5"
+    ],
+    "explanation": "மண்டலம் 3",
+    "explanation_en": "Zone 3"
+  },
+  {
+    "id": 7,
+    "question": "வெள்ளப்பெருக்கு ஏற்படுவதற்கு முக்கிய காரணிகளில் மனிதக் காரணிகள் அல்லாதவை எது?",
+    "options": [
+      "முறையற்ற நீர்ப்பாசன முறைகள்",
+      "முறையற்ற வேளாண் முறைகள்",
+      "போதிய வடிகால் அமைப்பு இல்லாமை",
+      "காடு அழிப்பு"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not a human factor for the occurrence of floods?",
+    "options_en": [
+      "Improper irrigation methods",
+      "Improper agricultural practices",
+      "Lack of adequate drainage system",
+      "Deforestation"
+    ],
+    "explanation": "வெள்ளப்பெருக்கு ஏற்படுவதற்கு முக்கிய காரணிகளில் மனிதக் காரணிகள் அல்லாதவை போதிய வடிகால் அமைப்பு இல்லாமை ஆகும்.",
+    "explanation_en": "Lack of adequate drainage system is not a human factor for the occurrence of floods."
+  },
+  {
+    "id": 8,
+    "question": "தேசிய நீரியல் நிறுவனம் எங்கு அமைந்துள்ளது?",
+    "options": [
+      "லக்னோ",
+      "அலகாபாத்",
+      "புதுடெல்லி",
+      "அகமதாபாத்"
+    ],
+    "correct": 2,
+    "question_en": "Where is the National Institute of Hydrology located?",
+    "options_en": [
+      "Lucknow",
+      "Allahabad",
+      "New Delhi",
+      "Ahmedabad"
+    ],
+    "explanation": "புதுடெல்லி",
+    "explanation_en": "New Delhi is the National Institute of Hydrology located."
+  },
+  {
+    "id": 9,
+    "question": "கீழ்க்காண்பவைகளில் எது சரி?\n(i) இந்தியாவின் கிழக்கு கடற்கரையை விட மேற்கு கடற்கரை பகுதிகளில் புயல் அலைகளின் பாதிப்பு குறைவாகும்.\n(ii) கிழக்குக் கடற்கரை பகுதிகளில், நாகப்பட்டினம், மசூலிப்பட்டினம் போன்றவை புயலால் அதிக பாதிப்புக்கு உள்ளாகும் இடங்களாகும்.",
+    "options": [
+      "i மட்டும் சரி",
+      "ii மட்டும் சரி",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is correct?\n(i) The impact of storm surges is less on the west coast of India than on the east coast.\n(ii) In the east coast regions, places like Nagapattinam and Machilipatnam are highly vulnerable to storms.",
+    "options_en": [
+      "i only is correct",
+      "ii only is correct",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation": "இரண்டும் சரி",
+    "explanation_en": "Both are correct is correct.\n(i) The impact of storm surges is less on the west coast of India than on the east coast.\n(ii) In the east coast regions, places like Nagapattinam and Machilipatnam are highly vulnerable to storms."
+  },
+  {
+    "id": 10,
+    "question": "நீரியல் வறட்சி எத்தனை வகைப்படும்?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 0,
+    "question_en": "How many types of hydrological droughts are there?",
+    "options_en": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "explanation": "2",
+    "explanation_en": "2 types of hydrological droughts are there."
+  },
+  {
+    "id": 11,
+    "question": "அதிக வறட்சிக்கு உள்ளாகும் பகுதிகளில் அல்லாதது எது?",
+    "options": [
+      "அகமதாபாத் முதல் கான்பூர் வரை உள்ள வறண்ட பகுதிகள்",
+      "கான்பூர் முதல் ஜலந்தர் வரை உள்ள பகுதிகள்",
+      "மேற்கு தொடர்ச்சி மலையின் காற்று மறைவு பகுதிகள்",
+      "கிழக்கு தொடர்ச்சி மலையின் கிழக்குப் பகுதிகள்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a highly drought-prone area?",
+    "options_en": [
+      "Arid regions from Ahmedabad to Kanpur",
+      "Regions from Kanpur to Jalandhar",
+      "Leeward side of the Western Ghats",
+      "Eastern parts of the Eastern Ghats"
+    ],
+    "explanation": "அதிக வறட்சிக்கு உள்ளாகும் பகுதிகளில் அல்லாதது கிழக்கு தொடர்ச்சி மலையின் கிழக்குப் பகுதிகள் ஆகும்.",
+    "explanation_en": "Eastern parts of the Eastern Ghats is not a highly drought-prone area."
+  },
+  {
+    "id": 12,
+    "question": "வறட்சியால் பாதிப்புக்கு உள்ளாகும் மக்கள் தொகையின் சதவீதம் என்ன?",
+    "options": [
+      "12 %",
+      "14 %",
+      "16 %",
+      "18 %"
+    ],
+    "correct": 0,
+    "question_en": "What is the percentage of the population affected by drought?",
+    "options_en": [
+      "12 %",
+      "14 %",
+      "16 %",
+      "18 %"
+    ],
+    "explanation": "12 %",
+    "explanation_en": "12 % is the percentage of the population affected by drought."
+  },
+  {
+    "id": 13,
+    "question": "இந்தியாவில் எத்தனை சதவீத நிலப்பரப்பு நிலச்சரிவு அபாயத்திற்கு உள்ளாகும் பகுதியாக கண்டறியப்பட்டுள்ளது?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correct": 0,
+    "question_en": "What percentage of India's land area is identified as prone to landslide hazards?",
+    "options_en": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "explanation": "15%",
+    "explanation_en": "15%"
+  },
+  {
+    "id": 14,
+    "question": "தமிழ்நாட்டில் நிலச்சரிவால் அதிகம் பாதிக்கப்படும் பகுதி எது?",
+    "options": [
+      "ஏற்காடு",
+      "ஊட்டி",
+      "ஒகேனக்கல்",
+      "ஆனைமலை"
+    ],
+    "correct": 1,
+    "question_en": "Which area is most affected by landslides in Tamil Nadu?",
+    "options_en": [
+      "Yercaud",
+      "Ooty",
+      "Hogenakkal",
+      "Anaimalai"
+    ],
+    "explanation": "தமிழ்நாட்டில் நிலச்சரிவால் அதிகம் பாதிக்கப்படும் பகுதி ஊட்டி ஆகும்.",
+    "explanation_en": "Ooty"
+  },
+  {
+    "id": 15,
+    "question": "செர்னோபில் அணு உலை விபத்து எந்த ஆண்டு நிகழ்ந்தது?",
+    "options": [
+      "ஏப்ரல் 26, 1986",
+      "மே 26, 1986",
+      "ஜூன் 26, 1986",
+      "ஜூலை 26, 1986"
+    ],
+    "correct": 0,
+    "question_en": "In which year did the Chernobyl nuclear disaster occur?",
+    "options_en": [
+      "April 26, 1986",
+      "May 26, 1986",
+      "June 26, 1986",
+      "July 26, 1986"
+    ],
+    "explanation": "ஏப்ரல் 26, 1986",
+    "explanation_en": "April 26, 1986"
+  },
+  {
+    "id": 16,
+    "question": "2016 ஆம் ஆண்டு ‘கதிர் இயக்கவியல் சார் மற்றும் சுற்றுச்சூழல் உயிர்க்கோள பெட்டகம்’ என அறிவித்த நாடு எது?",
+    "options": [
+      "உக்ரைன்",
+      "கியூபா",
+      "பிரேசில்",
+      "எத்தியோப்பியா"
+    ],
+    "correct": 0,
+    "question_en": "Which country declared a 'Radioecological and Environmental Biosphere Reserve' in 2016?",
+    "options_en": [
+      "Ukraine",
+      "Cuba",
+      "Brazil",
+      "Ethiopia"
+    ],
+    "explanation": "2016 ஆம் ஆண்டு ‘கதிர் இயக்கவியல் சார் மற்றும் சுற்றுச்சூழல் உயிர்க்கோள பெட்டகம்’ என அறிவித்த நாடு உக்ரைன் ஆகும்.",
+    "explanation_en": "Ukraine"
+  },
+  {
+    "id": 17,
+    "question": "எளிதில் தீப்பற்றக்கூடிய கழிவு எது?",
+    "options": [
+      "கரிம கரைப்பான்கள்",
+      "எண்ணெய்கள்",
+      "கரிமச் சக்திகள்",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which is a highly flammable waste?",
+    "options_en": [
+      "Organic solvents",
+      "Oils",
+      "Organic substances",
+      "All of these"
+    ],
+    "explanation": "எளிதில் தீப்பற்றக்கூடிய கழிவு இவை அனைத்தும் ஆகும்.",
+    "explanation_en": "All of these is a highly flammable waste."
+  },
+  {
+    "id": 18,
+    "question": "குடிசார் அபாயகர கழிவுகள் அல்லாதது எது?",
+    "options": [
+      "பூச்சிக்கொல்லிகள்",
+      "படைக்கலன் உற்பத்தி கழிவு",
+      "எண்ணெய்க் கழிவுகள்",
+      "குடிசார் மின்கலன்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not a household hazardous waste?",
+    "options_en": [
+      "Pesticides",
+      "Armament production waste",
+      "Oil wastes",
+      "Household batteries"
+    ],
+    "explanation": "குடிசார் அபாயகர கழிவுகள் அல்லாதது படைக்கலன் உற்பத்தி கழிவு ஆகும்.",
+    "explanation_en": "Armament production waste is not a household hazardous waste."
+  },
+  {
+    "id": 19,
+    "question": "முதன்மம மாசுபடுத்திகள் அல்லாதது எது?",
+    "options": [
+      "சல்பர் டை ஆக்சைடு",
+      "துகள்ம பொருட்கள்",
+      "கார்பன் டை ஆக்சைடு",
+      "தரைமட்ட ஓசோன்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a primary pollutant?",
+    "options_en": [
+      "Sulfur dioxide",
+      "Particulate matter",
+      "Carbon dioxide",
+      "Ground-level ozone"
+    ],
+    "explanation": "முதன்மம மாசுபடுத்திகள் அல்லாதது தரைமட்ட ஓசோன் ஆகும்.",
+    "explanation_en": "Ground-level ozone is not a primary pollutant."
+  },
+  {
+    "id": 20,
+    "question": "இந்தியாவில் நீர் மாசடைதலில் முக்கிய காரணங்கள் அல்லாதது எது?",
+    "options": [
+      "தொழிற்சாலை கழிவுகள்",
+      "கடல் நீர் உட்புகுதல்",
+      "வேளாண்மை பயன்பாடு",
+      "திண்மக் கழிவுகள்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not a major cause of water pollution in India?",
+    "options_en": [
+      "Industrial effluents",
+      "Seawater intrusion",
+      "Agricultural usage",
+      "Solid wastes"
+    ],
+    "explanation": "இந்தியாவில் நீர் மாசடைதலில் முக்கிய காரணங்கள் அல்லாதது வேளாண்மை பயன்பாடு ஆகும்.",
+    "explanation_en": "Agricultural usage is not a major cause of water pollution in India."
+  },
+  {
+    "id": 21,
+    "question": "புவியிலுள்ள உயிர் மற்றும் உயிரற்ற பொருட்களைப் பாதிக்கக்கூடிய நிகழ்வை ________ என்கிறோம்.",
+    "options": [
+      "இடர்",
+      "அழிவு",
+      "ஆதாயம்",
+      "சலனம்"
+    ],
+    "correct": 0,
+    "question_en": "An event that can affect living and non-living things on Earth is called a ________.",
+    "options_en": [
+      "Hazard",
+      "Destruction",
+      "Gain",
+      "Instability"
+    ],
+    "explanation": "புவியிலுள்ள உயிர் மற்றும் உயிரற்ற பொருட்களைப் பாதிக்கக்கூடிய நிகழ்வை இடர் என்கிறோம்.",
+    "explanation_en": "An event that can affect living and non-living things on Earth is called a Hazard."
+  },
+  {
+    "id": 22,
+    "question": "தவறான இணையைக் கண்டறிக.",
+    "options": [
+      "ஹசார்ட் - பிரெஞ்சு",
+      "ஹசார்டு - ஆங்கிலம்",
+      "அஸ் - சஹர் - உருது",
+      "அசார் - ஸ்பானியம்"
+    ],
+    "correct": 2,
+    "question_en": "Find the incorrect pair.",
+    "options_en": [
+      "Hasart - French",
+      "Hazard - English",
+      "Az-zahr - Urdu",
+      "Azar - Spanish"
+    ],
+    "explanation": "அஸ் - சஹர் - உருது",
+    "explanation_en": "Az-zahr - Urdu"
+  },
+  {
+    "id": 23,
+    "question": "ஒரு குறிப்பிட்ட காலத்தில் நிகழும் ஒரு அபாயகரமான நிகழ்வு எது?",
+    "options": [
+      "பேரழிவு",
+      "பேரிடர்",
+      "இயற்கை இடர்கள்",
+      "சமூக சீரழிவு"
+    ],
+    "correct": 1,
+    "question_en": "What is a dangerous event occurring over a specific period of time?",
+    "options_en": [
+      "Catastrophe",
+      "Disaster",
+      "Natural hazards",
+      "Social degradation"
+    ],
+    "explanation": "ஒரு குறிப்பிட்ட காலத்தில் நிகழும் ஒரு அபாயகரமான நிகழ்வு பேரிடர் ஆகும்.",
+    "explanation_en": "Disaster is a dangerous event occurring over a specific period of time."
+  },
+  {
+    "id": 24,
+    "question": "மனித உயிர்கள் மற்றும் உடைமைகளுக்கு அச்சுறுத்தலை உருவாக்கும் இயற்கையான நிகழ்வுகள் ________ எனப்படும்.",
+    "options": [
+      "இயற்கை இடர்கள்",
+      "சமூக சீரழிவு",
+      "பொருளாதார சீர்கேடு",
+      "மண் மாசுபடுதல்"
+    ],
+    "correct": 0,
+    "question_en": "Natural events that pose a threat to human lives and property are called ________.",
+    "options_en": [
+      "Natural hazards",
+      "Social degradation",
+      "Economic disruption",
+      "Soil pollution"
+    ],
+    "explanation": "மனித உயிர்கள் மற்றும் உடைமைகளுக்கு அச்சுறுத்தலை உருவாக்கும் இயற்கையான நிகழ்வுகள் இயற்கை இடர்கள் எனப்படும்.",
+    "explanation_en": "Natural events that pose a threat to human lives and property are called Natural hazards."
+  },
+  {
+    "id": 25,
+    "question": "இடர்களின் வகைகளில் சரியானது எது?",
+    "options": [
+      "நிகழ்விற்கான காரணிகளின் அடிப்படையிலான இடர்கள்",
+      "தோற்றத்தின் அடிப்படையிலான இடர்கள்",
+      "இரண்டும் சரி",
+      "இரண்டுமே தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Which is the correct classification of hazards?",
+    "options_en": [
+      "Hazards based on causative factors",
+      "Hazards based on origin",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation": "இடர்களின் வகைகளில் சரியானது இரண்டும் சரி ஆகும்.",
+    "explanation_en": "Both are correct is the correct classification of hazards."
+  },
+  {
+    "id": 26,
+    "question": "நிகழ்விற்கான காரணிகளின் அடிப்படையிலான இடர்களில் அல்லாதது எது?",
+    "options": [
+      "இயற்கையினால் ஏற்படும் இடர்கள்",
+      "உருவாகும் அடிப்படையிலான இடர்கள்",
+      "மனித செயல்களால் உருவாக்கப்படும் இடர்கள்",
+      "சமூக - இயற்கை காரணிகளால் ஏற்படும் இடர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not a hazard based on causative factors?",
+    "options_en": [
+      "Natural hazards",
+      "Hazards based on origin",
+      "Human-made hazards",
+      "Socio-natural hazards"
+    ],
+    "explanation": "நிகழ்விற்கான காரணிகளின் அடிப்படையிலான இடர்களில் அல்லாதது உருவாகும் அடிப்படையிலான இடர்கள் ஆகும்.",
+    "explanation_en": "Hazards based on origin is not a hazard based on causative factors."
+  },
+  {
+    "id": 27,
+    "question": "சரியான இணையைக் கண்டறிக.",
+    "options": [
+      "இயற்கை இடர்பாடுகள் - சூறாவளி",
+      "மனிதனால் உருவாக்கப்படும் இடர்கள் - நிலச்சரிவு",
+      "சமூக - இயற்கை இடர்கள் - அணைக்கட்டு உடைதல்",
+      "உருவாகும் அடிப்படையிலான இடர்கள் - உடல் நலம்"
+    ],
+    "correct": 0,
+    "question_en": "Find the correct pair.",
+    "options_en": [
+      "Natural hazards - Cyclone",
+      "Human-made hazards - Landslide",
+      "Socio-natural hazards - Dam burst",
+      "Hazards based on origin - Health/Illness"
+    ],
+    "explanation": "இயற்கை இடர்பாடுகள் - சூறாவளி",
+    "explanation_en": "Natural hazards - Cyclone"
+  },
+  {
+    "id": 28,
+    "question": "தேசிய பேரிடர் மேலாண்மை நிறுவனம் எங்கு உள்ளது?",
+    "options": [
+      "மும்பை",
+      "கர்நாடகம்",
+      "ஆந்திரா",
+      "புதுடெல்லி"
+    ],
+    "correct": 3,
+    "question_en": "Where is the National Institute of Disaster Management located?",
+    "options_en": [
+      "Mumbai",
+      "Karnataka",
+      "Andhra Pradesh",
+      "New Delhi"
+    ],
+    "explanation": "புதுடெல்லி",
+    "explanation_en": "New Delhi is the National Institute of Disaster Management located."
+  },
+  {
+    "id": 29,
+    "question": "பொருத்துக:\nநில அதிர்வு மண்டலங்கள் - அபாயத்தன்மை\ni. மண்டலம் 5 - a. மிதமானது\nii. மண்டலம் 4 - b. குறைவு\niii. மண்டலம் 3 - c. மிக அதிகம்\niv. மண்டலம் 2 - d. அதிகம்",
+    "options": [
+      "i - c, ii - d, iii - a, iv - b",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - d, ii - c, iii - a, iv - b"
+    ],
+    "correct": 0,
+    "question_en": "Match:\nSeismic zones - Level of risk\ni. Zone 5 - a. Moderate\nii. Zone 4 - b. Low\niii. Zone 3 - c. Very High\niv. Zone 2 - d. High",
+    "options_en": [
+      "i - c, ii - d, iii - a, iv - b",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - d, ii - c, iii - b, iv - a",
+      "i - d, ii - c, iii - a, iv - b"
+    ],
+    "explanation": "i - c, ii - d, iii - a, iv - b",
+    "explanation_en": "i - c, ii - d, iii - a, iv - b"
+  },
+  {
+    "id": 30,
+    "question": "வளிமண்டலத்தில் குறைந்த காற்றழுத்த பகுதிகளில் சுழலும் வலிமையான காற்றை ________ எனப்படும்.",
+    "options": [
+      "காற்று சுழற்சி",
+      "நீர் சுழற்சி",
+      "சுனாமி",
+      "சூறாவளிப் புயல்"
+    ],
+    "correct": 3,
+    "question_en": "The strong wind revolving around low-pressure areas in the atmosphere is called a ________.",
+    "options_en": [
+      "Wind circulation",
+      "Water cycle",
+      "Tsunami",
+      "Cyclonic storm"
+    ],
+    "explanation": "வளிமண்டலத்தில் குறைந்த காற்றழுத்த பகுதிகளில் சுழலும் வலிமையான காற்றை சூறாவளிப் புயல் எனப்படும்.",
+    "explanation_en": "The strong wind revolving around low-pressure areas in the atmosphere is called a Cyclonic storm."
+  },
+  {
+    "id": 31,
+    "question": "சூறாவளிப் புயல் காற்றின் வேகம் மணிக்கு ________ கி.மீ. வரை வீசக்கூடும்.",
+    "options": [
+      "200",
+      "300",
+      "350",
+      "500"
+    ],
+    "correct": 0,
+    "question_en": "The wind speed of a cyclonic storm can reach up to ________ km per hour.",
+    "options_en": [
+      "200",
+      "300",
+      "350",
+      "500"
+    ],
+    "explanation": "சூறாவளிப் புயல் காற்றின் வேகம் மணிக்கு 200 கி.மீ. வரை வீசக்கூடும்.",
+    "explanation_en": "The wind speed of a cyclonic storm can reach up to 200 km per hour."
+  },
+  {
+    "id": 32,
+    "question": "சூறாவளிப் புயல் காற்றின் மழைப்பொழிவு நாளொன்றுக்கு சுமார் ________ செ.மீ. வீதம் பல நாட்கள் பெய்யக்கூடும்.",
+    "options": [
+      "30",
+      "40",
+      "45",
+      "50"
+    ],
+    "correct": 3,
+    "question_en": "The rainfall from a cyclonic storm can be about ________ cm per day for several days.",
+    "options_en": [
+      "30",
+      "40",
+      "45",
+      "50"
+    ],
+    "explanation": "சூறாவளிப் புயல் காற்றின் மழைப்பொழிவு நாளொன்றுக்கு சுமார் 50 செ.மீ. வீதம் பல நாட்கள் பெய்யக்கூடும்.",
+    "explanation_en": "The rainfall from a cyclonic storm can be about 50 cm per day for several days."
+  },
+  {
+    "id": 33,
+    "question": "நாட்டின் ________ பங்கு பகுதிகள் வறட்சியினால் பாதிக்கப்படுகின்றன.",
+    "options": [
+      "2/4",
+      "1/3",
+      "2/5",
+      "1/5"
+    ],
+    "correct": 1,
+    "question_en": "________ part of the country's area is affected by drought.",
+    "options_en": [
+      "2/4",
+      "1/3",
+      "2/5",
+      "1/5"
+    ],
+    "explanation": "நாட்டின் 1/3 பங்கு பகுதிகள் வறட்சியினால் பாதிக்கப்படுகின்றன.",
+    "explanation_en": "1/3 part of the country's area is affected by drought."
+  },
+  {
+    "id": 34,
+    "question": "ஆண்டு மழைப்பொழிவு ________ செ.மீ. க்கும் குறைவான மழை பெறும் பகுதிகள் இந்தியாவில் வறட்சிக்கு உள்ளாகும் பகுதிகளாகும்.",
+    "options": [
+      "60",
+      "70",
+      "50",
+      "40"
+    ],
+    "correct": 0,
+    "question_en": "Areas receiving an annual rainfall of less than ________ cm are considered drought-prone areas in India.",
+    "options_en": [
+      "60",
+      "70",
+      "50",
+      "40"
+    ],
+    "explanation": "ஆண்டு மழைப்பொழிவு 60 செ.மீ. க்கும் குறைவான மழை பெறும் பகுதிகள் இந்தியாவில் வறட்சிக்கு உள்ளாகும் பகுதிகளாகும்.",
+    "explanation_en": "Areas receiving an annual rainfall of less than 60 cm are considered drought-prone areas in India."
+  },
+  {
+    "id": 35,
+    "question": "கடலடி நில அதிர்வு, கடலடி நிலச்சரிவு மற்றும் எரிமலை வெடிப்பு ஆகியவற்றின் காரணமாக கடலில் ஏற்படும் பேரலைக்கு ________ என்று பெயர்.",
+    "options": [
+      "புயல்",
+      "நிலநடுக்கம்",
+      "சுனாமி",
+      "எரிமலை வெடிப்பு"
+    ],
+    "correct": 2,
+    "question_en": "The massive waves in the ocean caused by submarine earthquakes, submarine landslides, and volcanic eruptions are called ________.",
+    "options_en": [
+      "Storm",
+      "Earthquake",
+      "Tsunami",
+      "Volcanic eruption"
+    ],
+    "explanation": "கடலடி நில அதிர்வு, கடலடி நிலச்சரிவு மற்றும் எரிமலை வெடிப்பு ஆகியவற்றின் காரணமாக கடலில் ஏற்படும் பேரலைக்கு சுனாமி என்று பெயர்.",
+    "explanation_en": "The massive waves in the ocean caused by submarine earthquakes, submarine landslides, and volcanic eruptions are called Tsunami."
+  },
+  {
+    "id": 36,
+    "question": "சுனாமி என்ற வார்த்தை எந்த மொழியில் இருந்து பெறப்பட்டது?",
+    "options": [
+      "ஜப்பானிஷ்",
+      "ஸ்பானிஷ்",
+      "கிரேக்கம்",
+      "இலத்தீன்"
+    ],
+    "correct": 0,
+    "question_en": "The word 'Tsunami' is derived from which language?",
+    "options_en": [
+      "Japanese",
+      "Spanish",
+      "Greek",
+      "Latin"
+    ],
+    "explanation": "ஜப்பானிஷ்",
+    "explanation_en": "Japanese"
+  },
+  {
+    "id": 37,
+    "question": "ஹிரோஷிமா மீது வீசப்பட்ட அணுகுண்டை விட செர்னோபிலில் அணு உலை விபத்தில் ________ மடங்கு அதிகமான கதிர்வீச்சு வெளிப்பட்டது.",
+    "options": [
+      "300",
+      "400",
+      "500",
+      "600"
+    ],
+    "correct": 1,
+    "question_en": "The radiation released in the Chernobyl nuclear disaster was ________ times more than the atomic bomb dropped on Hiroshima.",
+    "options_en": [
+      "300",
+      "400",
+      "500",
+      "600"
+    ],
+    "explanation": "ஹிரோஷிமா மீது வீசப்பட்ட அணுகுண்டை விட செர்னோபிலில் அணு உலை விபத்தில் 400 மடங்கு அதிகமான கதிர்வீச்சு வெளிப்பட்டது.",
+    "explanation_en": "The radiation released in the Chernobyl nuclear disaster was 400 times more than the atomic bomb dropped on Hiroshima."
+  },
+  {
+    "id": 38,
+    "question": "ஹிரோஷிமா மீது எந்த ஆண்டு அணுகுண்டு வீசப்பட்டது?",
+    "options": [
+      "1954",
+      "1945",
+      "1937",
+      "1939"
+    ],
+    "correct": 1,
+    "question_en": "In which year was the atomic bomb dropped on Hiroshima?",
+    "options_en": [
+      "1954",
+      "1945",
+      "1937",
+      "1939"
+    ],
+    "explanation": "1945",
+    "explanation_en": "1945"
+  },
+  {
+    "id": 39,
+    "question": "தவறான இணையைக் கண்டறிக",
+    "options": [
+      "நைட்ரஜன் - 78.09 %",
+      "ஆக்ஸிஜன் - 20.95 %",
+      "கார்பன் டை ஆக்சைடு - 0.03 %",
+      "நியான் - 1 %"
+    ],
+    "correct": 3,
+    "question_en": "Find the incorrect pair",
+    "options_en": [
+      "Nitrogen - 78.09 %",
+      "Oxygen - 20.95 %",
+      "Carbon dioxide - 0.03 %",
+      "Neon - 1 %"
+    ],
+    "explanation": "நியான் - 1 %",
+    "explanation_en": "Neon - 1 %"
+  },
+  {
+    "id": 40,
+    "question": "கடந்த 20 ஆண்டுகளில் உலகில் சுமார் ________ இலட்சத்திற்கும் மேலான மக்கள் மோசமான வானிலை நிகழ்வுகளால் இறந்துள்ளனர்.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correct": 1,
+    "question_en": "In the last 20 years, over ________ lakh people worldwide have died due to severe weather events.",
+    "options_en": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "explanation": "கடந்த 20 ஆண்டுகளில் உலகில் சுமார் 5 இலட்சத்திற்கும் மேலான மக்கள் மோசமான வானிலை நிகழ்வுகளால் இறந்துள்ளனர்.",
+    "explanation_en": "In the last 20 years, over 5 lakh people worldwide have died due to severe weather events."
+  },
+  {
+    "id": 41,
+    "question": "பருவமழை பொய்ப்பின் காரணமாக ________ ஏற்படுகிறது.",
+    "options": [
+      "ஆவி சுருங்குதல்",
+      "வறட்சி",
+      "ஆவியாதல்",
+      "மழைப்பொழிவு"
+    ],
+    "correct": 1,
+    "question_en": "________ occurs due to the failure of monsoons.",
+    "options_en": [
+      "Condensation",
+      "Drought",
+      "Evaporation",
+      "Rainfall"
+    ],
+    "explanation": "பருவமழை பொய்ப்பின் காரணமாக வறட்சி ஏற்படுகிறது.",
+    "explanation_en": "Drought occurs due to the failure of monsoons."
+  },
+  {
+    "id": 42,
+    "question": "இடர்கள் உருவாகும் அடிப்படையில் இடர்களை ________ வகைகளாகப் பிரிக்கலாம்.",
+    "options": [
+      "3",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 3,
+    "question_en": "Based on their origin, hazards can be divided into ________ types.",
+    "options_en": [
+      "3",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "இடர்கள் உருவாகும் அடிப்படையில் இடர்களை 8 வகைகளாகப் பிரிக்கலாம்.",
+    "explanation_en": "Based on their origin, hazards can be divided into 8 types."
+  },
+  {
+    "id": 43,
+    "question": "நைட்ரஜன் ஆக்சைடுகள் மனிதர்களைப் பாதிக்கும் ________ நிலை மாசுபடுத்திகளாகும்.",
+    "options": [
+      "முதன்மை",
+      "இரண்டாம்",
+      "மூன்றாம்",
+      "நான்காம்"
+    ],
+    "correct": 2,
+    "question_en": "Nitrogen oxides are ________ level pollutants that affect humans.",
+    "options_en": [
+      "Primary",
+      "Secondary",
+      "Tertiary",
+      "Quaternary"
+    ],
+    "explanation": "நைட்ரஜன் ஆக்சைடுகள் மனிதர்களைப் பாதிக்கும் மூன்றாம் நிலை மாசுபடுத்திகளாகும்.",
+    "explanation_en": "Nitrogen oxides are Tertiary level pollutants that affect humans."
+  },
+  {
+    "id": 44,
+    "question": "தவறான இணையைக் காண்க :",
+    "options": [
+      "முதல்நிலை மாசுபடுத்திகள் - சல்பர் ஆக்சைடுகள்",
+      "அபாயகர கழிவுகள் - காலாவதியான மருந்துகள்",
+      "நில அதிர்வு - சுனாமி",
+      "வானிலையியல் வறட்சி - தீவிரவாதம்"
+    ],
+    "correct": 3,
+    "question_en": "Find the incorrect pair:",
+    "options_en": [
+      "Primary pollutants - Sulfur oxides",
+      "Hazardous wastes - Expired medicines",
+      "Earthquake - Tsunami",
+      "Meteorological drought - Terrorism"
+    ],
+    "explanation": "வானிலையியல் வறட்சி - தீவிரவாதம்",
+    "explanation_en": "Meteorological drought - Terrorism"
+  },
+  {
+    "id": 45,
+    "question": "கீழ்க்கண்டவற்றுள் தவறான கூற்று எது?",
+    "options": [
+      "வெப்ப மண்டல சூறாவளிகள் காரணமாக திடீரென்று ஏற்படும் புயல் அலை ஆழமான கடலோரப் பகுதிகளில் காணப்படுகிறது.",
+      "சதுப்பு நிலக் காடுகள் அழிக்கப்படுவதால், சூறாவளி அலைகள் கடற்கரைப் பகுதிகளில் இடரை ஏற்படுத்துகின்றன.",
+      "நிலச்சரிவு ஏற்பட செங்குத்து சரிவு மற்றும் கன மழை ஆகியன முக்கிய காரணங்களாகும்.",
+      "சூறாவளி புயல் காற்று, வட அரைக்கோளத்தில் கடிகார எதிர் திசையில் சுழல்கிறது."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following statements is incorrect?",
+    "options_en": [
+      "Storm surges caused by tropical cyclones are found in deep coastal areas.",
+      "Due to the destruction of mangrove forests, cyclonic surges pose a hazard to coastal areas.",
+      "Steep slopes and heavy rainfall are the main causes of landslides.",
+      "Cyclonic storm winds rotate counter-clockwise in the Northern Hemisphere."
+    ],
+    "explanation": "வெப்ப மண்டல சூறாவளிகள் காரணமாக திடீரென்று ஏற்படும் புயல் அலை ஆழமான கடலோரப் பகுதிகளில் காணப்படுகிறது.",
+    "explanation_en": "Storm surges caused by tropical cyclones are found in deep coastal areas."
+  },
+  {
+    "id": 46,
+    "question": "ஹசார்ட் என்பதன் பொருள் ________.",
+    "options": [
+      "கபடி விளையாட்டு",
+      "கோகோ விளையாட்டு",
+      "பகடை விளையாட்டு",
+      "சதுரங்க விளையாட்டு"
+    ],
+    "correct": 2,
+    "question_en": "The meaning of 'Hasart' is ________.",
+    "options_en": [
+      "Kabaddi game",
+      "Kho-kho game",
+      "Game of dice",
+      "Chess game"
+    ],
+    "explanation": "ஹசார்ட் என்பதன் பொருள் பகடை விளையாட்டு.",
+    "explanation_en": "The meaning of 'Hasart' is Game of dice."
+  },
+  {
+    "id": 47,
+    "question": "பெரும் சுற்றுச்சூழல் பேரழிவு காரணமாக இந்தியாவில் 2017 ம் ஆண்டு வரையிலான 10 ஆண்டுகளில் சுமார் எத்தனை பேர் இறந்துள்ளனர்?",
+    "options": [
+      "22000",
+      "23000",
+      "20000",
+      "25000"
+    ],
+    "correct": 0,
+    "question_en": "Approximately how many people died in India in the 10 years up to 2017 due to major environmental disasters?",
+    "options_en": [
+      "22000",
+      "23000",
+      "20000",
+      "25000"
+    ],
+    "explanation": "22000",
+    "explanation_en": "Approximately 22000 people died in India in the 10 years up to 2017 due to major environmental disasters."
+  },
+  {
+    "id": 48,
+    "question": "சுனாமி என்ற சொல்லுக்கு ________ என்று பொருள்.",
+    "options": [
+      "கடல் அலை",
+      "கடற்கரையோரம்",
+      "துறைமுக அலை",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "The word 'Tsunami' means ________.",
+    "options_en": [
+      "Ocean wave",
+      "Coastline",
+      "Harbor wave",
+      "None of these"
+    ],
+    "explanation": "சுனாமி என்ற சொல்லுக்கு துறைமுக அலை என்று பொருள்.",
+    "explanation_en": "The word 'Tsunami' means Harbor wave."
+  },
+  {
+    "id": 49,
+    "question": "கீழ்க்காண்பவைகளுள் சரியானது எது?\nகூற்று: பேரிடர் என்பது வரையறுக்கப்பட்ட பகுதியில் ஒரு குறிப்பிட்ட காலத்தில் நிகழும் ஒரு அபாயகரமான நிகழ்வாகும்.\nகாரணம்: உயிர் மற்றும் உடைமைகளுக்கு பெரும் அழிவை விளைவிப்பதுடன் மற்றவர்களின் உதவியை நாட வேண்டியுள்ளது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is correct?\nStatement: A disaster is a hazardous event occurring in a defined area over a specific period.\nReason: It causes immense destruction to life and property and requires seeking help from others.",
+    "options_en": [
+      "Statement and Reason are correct",
+      "Statement and Reason are wrong",
+      "Statement is correct but Reason is wrong",
+      "Statement is wrong but Reason is correct"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி",
+    "explanation_en": "Statement and Reason are correct is correct.\nStatement: A disaster is a hazardous event occurring in a defined area over a specific period.\nReason: It causes immense destruction to life and property and requires seeking help from others."
+  },
+  {
+    "id": 50,
+    "question": "உயிரியல் சார்ந்த இடர்களுக்கு எடுத்துக்காட்டு ________.",
+    "options": [
+      "காடழிப்பு",
+      "லாவா வழிதல்",
+      "சின்னம்மை",
+      "தீவிபத்து"
+    ],
+    "correct": 2,
+    "question_en": "An example of a biological hazard is ________.",
+    "options_en": [
+      "Deforestation",
+      "Lava flow",
+      "Chickenpox",
+      "Fire accident"
+    ],
+    "explanation": "உயிரியல் சார்ந்த இடர்களுக்கு எடுத்துக்காட்டு சின்னம்மை.",
+    "explanation_en": "An example of a biological hazard is Chickenpox."
+  },
+  {
+    "id": 51,
+    "question": "கீழ்க்கண்டவற்றுள் வானிலையியல் காரணிகளாக அல்லாதது எது?",
+    "options": [
+      "காடழிப்பு",
+      "கனமழை",
+      "அயன மண்டல சூறாவளிகள்",
+      "மேகவெடிப்பு"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is not a meteorological factor?",
+    "options_en": [
+      "Deforestation",
+      "Heavy rainfall",
+      "Tropical cyclones",
+      "Cloudburst"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் வானிலையியல் காரணிகளாக அல்லாதது காடழிப்பு ஆகும்.",
+    "explanation_en": "Deforestation is not a meteorological factor."
+  },
+  {
+    "id": 52,
+    "question": "வெப்ப மண்டல சூறாவளிகள் காரணமாக திடீரென்று ஏற்படும் கடல் நீர் எழுச்சியை ________ என்கிறோம்.",
+    "options": [
+      "துறைமுக அலை",
+      "புயல் அலை",
+      "சுனாமி",
+      "கன மழை"
+    ],
+    "correct": 1,
+    "question_en": "The sudden rise of seawater due to tropical cyclones is called ________.",
+    "options_en": [
+      "Harbor wave",
+      "Storm surge",
+      "Tsunami",
+      "Heavy rain"
+    ],
+    "explanation": "வெப்ப மண்டல சூறாவளிகள் காரணமாக திடீரென்று ஏற்படும் கடல் நீர் எழுச்சியை புயல் அலை என்கிறோம்.",
+    "explanation_en": "The sudden rise of seawater due to tropical cyclones is called Storm surge."
+  },
+  {
+    "id": 53,
+    "question": "செர்னோபிலில் அணு பேரழிவு இடம் எதனருகில் உள்ளது?",
+    "options": [
+      "ஜெர்மன்",
+      "பிரிப்யாட்",
+      "இந்தியா",
+      "சீனா"
+    ],
+    "correct": 1,
+    "question_en": "The Chernobyl nuclear disaster site is located near which of the following?",
+    "options_en": [
+      "Germany",
+      "Pripyat",
+      "India",
+      "China"
+    ],
+    "explanation": "பிரிப்யாட்",
+    "explanation_en": "Pripyat"
+  },
+  {
+    "id": 54,
+    "question": "குழைமையூட்டிகளாகிய உருக்குலைக்கும் பொருட்கள் எவ்வகையான கழிவுகள்?",
+    "options": [
+      "மருத்துவ கழிவுகள்",
+      "வெடிப் பொருட்கள்",
+      "எளிதில் தீப்பற்றக்கூடிய கழிவுகள்",
+      "குடிசார் அபாயகர கழிவுகள்"
+    ],
+    "correct": 2,
+    "question_en": "Mutagenic substances like plasticizers belong to which type of waste?",
+    "options_en": [
+      "Medical wastes",
+      "Explosives",
+      "Flammable wastes",
+      "Household hazardous wastes"
+    ],
+    "explanation": "எளிதில் தீப்பற்றக்கூடிய கழிவுகள்",
+    "explanation_en": "Flammable wastes"
+  },
+  {
+    "id": 55,
+    "question": "உக்ரைன் மற்றும் பெலாரஸ் ஆகிய பகுதிகளில் எத்தனை ஆண்டுகளுக்கு பிறகு விலங்குகளும் பறவைகளும் வசிக்க ஆரம்பித்தன?",
+    "options": [
+      "33",
+      "35",
+      "38",
+      "32"
+    ],
+    "correct": 0,
+    "question_en": "After how many years did animals and birds start living in the regions of Ukraine and Belarus?",
+    "options_en": [
+      "33",
+      "35",
+      "38",
+      "32"
+    ],
+    "explanation": "33",
+    "explanation_en": "After 33 years did animals and birds start living in the regions of Ukraine and Belarus."
+  },
+  {
+    "id": 56,
+    "question": "எந்த நூற்றாண்டின் தொடக்கத்தில் புவியில் எப்போதும் இல்லாத அளவிற்கு அதிக எண்ணிக்கையிலான மக்கள் தொகை பெருக்கம் காணப்பட்டது?",
+    "options": [
+      "20",
+      "22",
+      "21",
+      "19"
+    ],
+    "correct": 0,
+    "question_en": "At the beginning of which century did the Earth witness an unprecedented population explosion?",
+    "options_en": [
+      "20th",
+      "22nd",
+      "21st",
+      "19th"
+    ],
+    "explanation": "20",
+    "explanation_en": "20th"
+  },
+  {
+    "id": 57,
+    "question": "2004ஆம் ஆண்டு இந்திய பெருங்கடலில் ஏற்பட்ட சுனாமியால் இறந்த மக்களின் எண்ணிக்கை ________.",
+    "options": [
+      "2,25,000",
+      "2,25,400",
+      "2,23,000",
+      "2,25,500"
+    ],
+    "correct": 0,
+    "question_en": "The number of people who died due to the 2004 Indian Ocean Tsunami was ________.",
+    "options_en": [
+      "2,25,000",
+      "2,25,400",
+      "2,23,000",
+      "2,25,500"
+    ],
+    "explanation": "2004ஆம் ஆண்டு இந்திய பெருங்கடலில் ஏற்பட்ட சுனாமியால் இறந்த மக்களின் எண்ணிக்கை 2,25,000.",
+    "explanation_en": "The number of people who died due to the 2004 Indian Ocean Tsunami was 2,25,000."
+  },
+  {
+    "id": 58,
+    "question": "2004 ஆம் ஆண்டு இந்தியப் பெருங்கடலில் ஏற்பட்ட சுனாமியால் அதிக உயிர்ப்பலியும், பெருத்த பொருட்சேதமும் ஏற்படாத நாடு எது?",
+    "options": [
+      "சோமாலியா",
+      "இலங்கை",
+      "தாய்லாந்து",
+      "சீனா"
+    ],
+    "correct": 3,
+    "question_en": "Which country did not suffer heavy loss of life and massive property damage due to the 2004 Indian Ocean Tsunami?",
+    "options_en": [
+      "Somalia",
+      "Sri Lanka",
+      "Thailand",
+      "China"
+    ],
+    "explanation": "2004 ஆம் ஆண்டு இந்தியப் பெருங்கடலில் ஏற்பட்ட சுனாமியால் அதிக உயிர்ப்பலியும், பெருத்த பொருட்சேதமும் ஏற்படாத நாடு சீனா ஆகும்.",
+    "explanation_en": "China"
+  },
+  {
+    "id": 59,
+    "question": "வெள்ளப்பெருக்கு ஏற்படுவதற்கான மனிதக் காரணிகள் அல்லாதது எது?",
+    "options": [
+      "முறையற்ற நீர்ப்பாசன முறைகள்",
+      "முறையற்ற வேளாண் முறைகள்",
+      "பரந்த நீர்ப் பிடிப்பு பகுதிகள்",
+      "வண்டல் படிவுகள்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not a human factor for floods?",
+    "options_en": [
+      "Improper irrigation methods",
+      "Improper agricultural practices",
+      "Large catchment areas",
+      "Alluvial deposits"
+    ],
+    "explanation": "வெள்ளப்பெருக்கு ஏற்படுவதற்கான மனிதக் காரணிகள் அல்லாதது பரந்த நீர்ப் பிடிப்பு பகுதிகள் ஆகும்.",
+    "explanation_en": "Large catchment areas is not a human factor for floods."
+  },
+  {
+    "id": 60,
+    "question": "நீர் மாசு என்பது நீரின் எந்தெந்த பண்புகளில் ஏற்படும் மாற்றம் ஆகும்?",
+    "options": [
+      "இயற்பியல்",
+      "வேதியியல்",
+      "உயிரியல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Water pollution is an alteration in which properties of water?",
+    "options_en": [
+      "Physical",
+      "Chemical",
+      "Biological",
+      "All of these"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 61,
+    "question": "இந்தியாவில் அதிக வெள்ள பாதிப்பிற்கு உள்ளாகாத மாநிலம்?",
+    "options": [
+      "ஒடிசா",
+      "உத்தரப் பிரதேசம்",
+      "ஆந்திரா",
+      "தமிழ்நாடு"
+    ],
+    "correct": 3,
+    "question_en": "Which state in India is not highly prone to floods?",
+    "options_en": [
+      "Odisha",
+      "Uttar Pradesh",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "explanation": "தமிழ்நாடு",
+    "explanation_en": "Tamil Nadu"
+  },
+  {
+    "id": 62,
+    "question": "புயல் அலைகளால் பாதிப்பிற்கு உள்ளாகும் மேற்கு கடற்கரை மாநிலம் எது?",
+    "options": [
+      "ஒடிசா",
+      "உத்தரப் பிரதேசம்",
+      "தமிழ்நாடு",
+      "மகாராஷ்டிரா"
+    ],
+    "correct": 3,
+    "question_en": "Which west coast state is vulnerable to storm surges?",
+    "options_en": [
+      "Odisha",
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Maharashtra"
+    ],
+    "explanation": "புயல் அலைகளால் பாதிப்பிற்கு உள்ளாகும் மேற்கு கடற்கரை மாநிலம் மகாராஷ்டிரா ஆகும்.",
+    "explanation_en": "Maharashtra"
+  },
+  {
+    "id": 63,
+    "question": "நில அதிர்வு மண்டலம் 3-ல் இடம்பெறாத இந்திய மாநிலம் எது?",
+    "options": [
+      "இமாச்சலப் பிரதேசம்",
+      "கேரளா",
+      "கர்நாடகா",
+      "தமிழ்நாடு"
+    ],
+    "correct": 0,
+    "question_en": "Which Indian state is not located in Seismic Zone 3?",
+    "options_en": [
+      "Himachal Pradesh",
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "explanation": "நில அதிர்வு மண்டலம் 3-ல் இடம்பெறாத இந்திய மாநிலம் இமாச்சலப் பிரதேசம் ஆகும்.",
+    "explanation_en": "Himachal Pradesh"
+  },
+  {
+    "id": 64,
+    "question": "பொருத்துக :\ni. செர்னோபில் - a. தாய்லாந்து\nii. சுனாமி - b. ஜப்பான்\niii. வெள்ளப் பெருக்கு - c. சோவியத் யூனியன்\niv. ஹிரோஷிமா - d. உத்தரகாண்ட்",
+    "options": [
+      "i - c, ii - b, iii - a, iv - d",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - c, ii - a, iii - d, iv - b",
+      "i - d, ii - c, iii - a, iv - b"
+    ],
+    "correct": 2,
+    "question_en": "Match:\ni. Chernobyl - a. Thailand\nii. Tsunami - b. Japan\niii. Floods - c. Soviet Union\niv. Hiroshima - d. Uttarakhand",
+    "options_en": [
+      "i - c, ii - b, iii - a, iv - d",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - c, ii - a, iii - d, iv - b",
+      "i - d, ii - c, iii - a, iv - b"
+    ],
+    "explanation": "i - c, ii - a, iii - d, iv - b",
+    "explanation_en": "i - c, ii - a, iii - d, iv - b"
+  },
+  {
+    "id": 65,
+    "question": "உலகில் இதுவரை நிகழ்ந்த நில நடுக்கத்தில் மிக மோசமான நில நடுக்கத்தின்போது பதிவான ரிக்டர் அளவு ________.",
+    "options": [
+      "9.5",
+      "9.1",
+      "10.1",
+      "7.8"
+    ],
+    "correct": 0,
+    "question_en": "The highest Richter scale magnitude recorded in the worst earthquake ever in the world is ________.",
+    "options_en": [
+      "9.5",
+      "9.1",
+      "10.1",
+      "7.8"
+    ],
+    "explanation": "உலகில் இதுவரை நிகழ்ந்த நில நடுக்கத்தில் மிக மோசமான நில நடுக்கத்தின்போது பதிவான ரிக்டர் அளவு 9.5.",
+    "explanation_en": "The highest Richter scale magnitude recorded in the worst earthquake ever in the world is 9.5."
+  },
+  {
+    "id": 66,
+    "question": "நிலநடுக்கத்தின்போது மேற்கொள்ள வேண்டிய நடவடிக்கைகள் குறித்த தவறான கூற்றுக்களைத் தேர்ந்தெடுக்கவும்.\na) மின் கம்பங்கள், மரம், கட்டடங்களிலிருந்து விலகி இருக்கவும்\nb) தீ விபத்தைத் தவிர்க்க எரிவாயு அடுப்பு, மெழுகுவர்த்திகள் மற்றும் விளக்குகளை அணைக்க வேண்டும்.\nc) படிக்கட்டுகளுக்கு பதிலாக மின் தூக்கியை பயன்படுத்த வேண்டும்.\nd) மேம்பாலங்கள் மற்றும் சுரங்கப் பாதைகளில் தஞ்சம் அடைய வேண்டும்",
+    "options": [
+      "a, b மற்றும் c",
+      "b, c மற்றும் d",
+      "a மற்றும் b",
+      "c மற்றும் d"
+    ],
+    "correct": 1,
+    "question_en": "Choose the incorrect statements regarding the actions to be taken during an earthquake.\na) Stay away from electric poles, trees, and buildings\nb) Turn off gas stoves, candles, and lamps to avoid fire accidents\nc) Use elevators instead of stairs\nd) Take shelter in flyovers and underpasses",
+    "options_en": [
+      "a, b and c",
+      "b, c and d",
+      "a and b",
+      "c and d"
+    ],
+    "explanation": "b, c மற்றும் d",
+    "explanation_en": "b, c and d"
+  }
+]

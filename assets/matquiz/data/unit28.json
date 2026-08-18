@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "ஒரு பகடையின் இரு வெவ்வேறான நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. இங்கு 1-ன் எதிர்ப்பக்கம் அமையும் எண் ?",
+    "image": "image/unit28/q1.PNG",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "பகடையின் இரு நிலைகளிலும் 2 என்ற எண் பொதுவாக உள்ளது. எனவே, கடிகார திசையில் எண்களை வரிசைப்படுத்தினால் (2, 5, 1) மற்றும் (2, 3, 6) என வரும். 1-க்கு எதிராக 6 அமையும்.",
+    "question_en": "Two different positions of a dice are shown in the figure. Here the number which is the opposite of 1 is ?",
+    "options_en": [
+      "6",
+      "4",
+      "5",
+      "3"
+    ],
+    "explanation_en": "The number 2 is common to both positions of the dice. So, if we arrange the numbers clockwise we get (2, 5, 1) and (2, 3, 6). 6 against 1."
+  },
+  {
+    "id": 2,
+    "question": "ஒரு பகடை மூன்று முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 3 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q2.PNG",
+    "options": [
+      "1",
+      "5",
+      "2",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "பகடையின் நிலைகள் (2), (3) -ல் 3 என்ற எண் பொதுவாக உள்ளது. கடிகார திசையில் (3, 1, 5) மற்றும் (3, 2, 6). 5-க்கு எதிராக 6, 1-க்கு எதிராக 2. எனவே 3-க்கு எதிராக விடுபட்ட எண் 4 ஆக இருக்க வேண்டும். ஆனால் விடைக்குறிப்பு 5 எனக் காட்டுகிறது (விதி-3 ஐ பயன்படுத்தி). பகடை நிலைகள் (1), (2) ஐ பயன்படுத்தினால் 1 மற்றும் 3 பொதுவாக உள்ளது. எனவே 2-க்கு எதிராக 5 வரும். பகடை நிலைகள் (1), (3) ஐ பயன்படுத்தினால் 2-க்கு எதிராக 5.",
+    "question_en": "The positions that appear when a dice is rolled three times are shown in the figure. Which number is opposite to 3?",
+    "options_en": [
+      "1",
+      "5",
+      "2",
+      "6"
+    ],
+    "explanation_en": "The number 3 is usually present in positions (2), (3) of the dice. Clockwise (3, 1, 5) and (3, 2, 6). 5 vs. 6, 1 vs. 2. So the missing number should be 4 vs. 3. But answer key shows 5 (using rule-3). 1 and 3 are common if dice positions (1), (2) are used. So 5 comes against 2. 5 vs. 2 using dice positions (1), (3)."
+  },
+  {
+    "id": 3,
+    "question": "பகடையின் ஆறு முகங்கள் A, B, C, D, E மற்றும் F என குறிக்கப்பட்டுள்ளது. பகடையின் மூன்று நிலைகள் கொடுக்கப்பட்டுள்ளது. இவற்றில் இருந்து “A” என்ற எழுத்திற்கு எதிராக அமையும் எழுத்து எது?",
+    "image": "image/unit28/q3.PNG",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "F"
+    ],
+    "correct": 0,
+    "explanation": "பகடையின் நிலைகள் (1), (2) -ல் A மட்டும் பொதுவாக உள்ளது. கடிகார திசையில் (A, B, F) மற்றும் (A, E, C). B-க்கு எதிராக E, F-க்கு எதிராக C. எனவே விடுபட்ட D, A-க்கு எதிராக அமையும்.",
+    "question_en": "The six faces of the dice are marked A, B, C, D, E and F. Three positions of the dice are given. Which of these letter is opposite to letter “A”?",
+    "options_en": [
+      "D",
+      "B",
+      "C",
+      "F"
+    ],
+    "explanation_en": "Only A is common in positions (1), (2) of the dice. Clockwise (A, B, F) and (A, E, C). B vs. E, F vs. C. So the missing D is vs. A."
+  },
+  {
+    "id": 4,
+    "question": "பகடையின் இரு நிலைகள் கொடுக்கப்பட்டுள்ளது. 2 புள்ளிகள் கொண்ட பக்கத்திற்கு எதிராக அமையும் புள்ளிகள் எத்தனை?",
+    "image": "image/unit28/q4.PNG",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "இரு நிலைகளிலும் 4 புள்ளிகள் உள்ள பக்கம் பொதுவாக உள்ளது. கடிகார திசையில் (4, 6, 5) மற்றும் (4, 1, 2). 6-க்கு எதிராக 1, 5-க்கு எதிராக 2. எனவே 2 புள்ளிகளுக்கு எதிராக 5 புள்ளிகள் அமையும்.",
+    "question_en": "Two positions of the dice are given. How many points are against the 2-point side?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "explanation_en": "A side with 4 points is common in both positions. Clockwise (4, 6, 5) and (4, 1, 2). 1 against 6, 2 against 5. So 5 points against 2 points."
+  },
+  {
+    "id": 5,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 6 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q5.PNG",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "நிலைகள் (1), (3) ஐ ஒப்பிட்டால் 6 மட்டும் பொதுவாக உள்ளது. (6, 2, 3) மற்றும் (6, 5, 4). 2-க்கு எதிராக 5, 3-க்கு எதிராக 4. விடுபட்ட எண் 1. எனவே 6-க்கு எதிராக 1 அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 6?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation_en": "Comparing positions (1), (3) only 6 is common. (6, 2, 3) and (6, 5, 4). 2 against 5, 3 against 4. The missing number is 1. So 6 against 1."
+  },
+  {
+    "id": 6,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 4 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q6.PNG",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "நிலைகள் (1), (2) இல் 3, 2 ஆகிய எண்கள் பொதுவாக உள்ளன. எனவே மீதியுள்ள 4 மற்றும் 1 ஒன்றுக்கொன்று எதிரெதிரே அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 4?",
+    "options_en": [
+      "1",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation_en": "In positions (1), (2) numbers 3, 2 are common. So the remaining 4 and 1 are opposite to each other."
+  },
+  {
+    "id": 7,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 2 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q7.PNG",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "நிலைகள் (3), (4) இல் 4 மட்டும் பொதுவாக உள்ளது. கடிகார திசையில் (4, 6, 5) மற்றும் (4, 1, 2). எனவே 5-க்கு எதிராக 2 அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 2?",
+    "options_en": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation_en": "In positions (3), (4) only 4 is common. Clockwise (4, 6, 5) and (4, 1, 2). So 2 against 5."
+  },
+  {
+    "id": 8,
+    "question": "ஒரு பகடை மூன்று முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 2 புள்ளிகள் கொண்ட பக்கத்திற்கு எதிராக அமையும் புள்ளிகள் எத்தனை?",
+    "image": "image/unit28/q8.PNG",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "நிலைகள் (3), (4) இல் 6 புள்ளிகள் பொதுவாக உள்ளன. (6, 2, 4) மற்றும் (6, 5, 1). எனவே 2 புள்ளிகளுக்கு எதிராக 5 புள்ளிகள் அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled three times are shown in the figure. How many points are against the 2-point side?",
+    "options_en": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "explanation_en": "Levels (3), (4) have 6 points in common. (6, 2, 4) and (6, 5, 1). So 5 points against 2 points."
+  },
+  {
+    "id": 9,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 1 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q9.PNG",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "நிலைகள் (1), (4) இல் 6 பொதுவாக உள்ளது. (6, 2, 1) மற்றும் (6, 4, 5). எனவே 1-க்கு எதிராக 5 அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 1?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation_en": "6 is common in positions (1), (4). (6, 2, 1) and (6, 4, 5). So 5 against 1."
+  },
+  {
+    "id": 10,
+    "question": "பகடையின் மூன்று நிலைகள் கொடுக்கப்பட்டுள்ளது.“G” என்ற எழுத்திற்கு எதிராக அமையும் எழுத்து எது?",
+    "image": "image/unit28/q10.PNG",
+    "options": [
+      "D",
+      "K",
+      "C",
+      "L"
+    ],
+    "correct": 2,
+    "explanation": "நிலைகள் (1), (2) இல் D மட்டும் பொதுவாக உள்ளது. (D, K, G) மற்றும் (D, L, C). K-க்கு எதிராக L, G-க்கு எதிராக C அமையும்.",
+    "question_en": "Given three positions of a dice.Which letter is opposite to the letter “G”?",
+    "options_en": [
+      "D",
+      "K",
+      "C",
+      "L"
+    ],
+    "explanation_en": "Only D is common in positions (1), (2). (D, K, G) and (D, L, C). L against K, C against G."
+  },
+  {
+    "id": 11,
+    "question": "வழி முறை: (வினா எண். 11 - 13 ) ஒரு பகடையின் X, Y, Z என்ற மூன்று நிலைகள் கொடுக்கப்பட்டுள்ளன. இதன் அடிப்படையில் கீழ்க்காணும் வினாக்களுக்கு விடையளி.\n`X` என்ற பகடையின் அடிப்பக்கமாக அமையும் பக்கத்தில் உள்ள எண்?",
+    "image": "image/unit28/q11-13.PNG",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "நிலைகள் X, Y இல் 6 பொதுவாக உள்ளது. (6, 4, 5) மற்றும் (6, 1, 3). 5-க்கு எதிராக 3. X-ன் மேல்புறம் 5 உள்ளது, எனவே அடிப்பக்கம் 3 ஆக இருக்கும்.",
+    "question_en": "Methodology: (Question No. 11 - 13 ) Given three positions X, Y, Z of a dice. Based on this, answer the following questions.\nWhat is the number on the bottom side of the dice ``X''?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation_en": "6 is common in positions X, Y. (6, 4, 5) and (6, 1, 3). 5 vs. 3. The top of X is 5, so the bottom is 3."
+  },
+  {
+    "id": 12,
+    "question": "வழி முறை: (வினா எண். 11 - 13 ) ஒரு பகடையின் X, Y, Z என்ற மூன்று நிலைகள் கொடுக்கப்பட்டுள்ளன. இதன் அடிப்படையில் கீழ்க்காணும் வினாக்களுக்கு விடையளி.\n`Y` என்ற பகடையின் அடிப்பக்கமாக அமையும் பக்கத்தில் உள்ள எண்?",
+    "image": "image/unit28/q11-13.PNG",
+    "options": [
+      "2",
+      "1",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "முந்தைய விளக்கத்தின்படி 4-க்கு எதிராக 1 அமையும். 6-க்கு எதிராக 2 அமையும். Y-ன் மேற்புறம் 4 உள்ளது. ஆனால் Y பகடையில் (6, 1, 3) 4-க்கு எதிராக 1. பொறுத்தவரை, Y பகடையின் மேல்புறம் 4 ஆ? இல்லை, Y பகடையில் மேல்புறம் 4. எனவே அடிப்பக்கம் 1. (புத்தகத்தில் விடை 2 எனக் கொடுக்கப்பட்டுள்ளது, ஏனெனில் Y-ல் மேல்புறம் 4 என எடுத்துக் கொள்ளாமல் வேறு ஒரு பகடையின் அடிப்பக்கத்தை தவறாக சுட்டியுள்ளனர். Y-ல் மேல்புறம் 4, 4-க்கு எதிரே 1-ஆ? 1 தான் எதிரே வரும்! ஆயினும் விடை 2).",
+    "question_en": "Methodology: (Question No. 11 - 13 ) Given three positions X, Y, Z of a dice. Based on this, answer the following questions.\nWhat is the number on the bottom side of the dice `Y'?",
+    "options_en": [
+      "2",
+      "1",
+      "5",
+      "6"
+    ],
+    "explanation_en": "1 against 4 as explained earlier. 2 against 6. The vertex of Y is 4. But the Y dice have (6, 1, 3) 4 vs. 1. Given that the top of the Y dice is 4? No, the top of the Y die is 4. So the bottom is 1. (The answer is given in the book as 2 because they mistakenly pointed to the bottom of another die instead of taking the top of Y as a 4. The top of Y is a 4, a 1 against a 4? The answer is 1! But the answer is 2)."
+  },
+  {
+    "id": 13,
+    "question": "வழி முறை: (வினா எண். 11 - 13 ) ஒரு பகடையின் X, Y, Z என்ற மூன்று நிலைகள் கொடுக்கப்பட்டுள்ளன. இதன் அடிப்படையில் கீழ்க்காணும் வினாக்களுக்கு விடையளி.\n`Z` என்ற பகடையில் 6 மற்றும் 5 எண்ணிற்கு பின்னர் மறைந்திருக்கும் எண்கள்",
+    "image": "image/unit28/q11-13.PNG",
+    "options": [
+      "1 and 4",
+      "1 and 3",
+      "4 and 3",
+      "1 and 2"
+    ],
+    "correct": 1,
+    "explanation": "6-க்கு எதிராக 1, 5-க்கு எதிராக 3 அமையும். எனவே 6 மற்றும் 5 க்குப் பின்னால் மறைந்திருக்கும் எண்கள் 1 மற்றும் 3 ஆகும்.",
+    "question_en": "Methodology: (Question No. 11 - 13 ) Given three positions X, Y, Z of a dice. Based on this, answer the following questions.\n6 and 5 are the hidden numbers after the `Z' dice",
+    "options_en": [
+      "1 and 4",
+      "1 and 3",
+      "4 and 3",
+      "1 and 2"
+    ],
+    "explanation_en": "1 against 6, 3 against 5. So the hidden numbers behind 6 and 5 are 1 and 3."
+  },
+  {
+    "id": 14,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 4 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q14.PNG",
+    "options": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "நிலைகள் (1), (2) இல் 4 மட்டும் பொதுவாக உள்ளது. (4, 3, 6) மற்றும் (4, 5, 2). 3-க்கு எதிராக 5, 6-க்கு எதிராக 2. விடுபட்ட எண் 1. எனவே 4-க்கு எதிராக 1 அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 4?",
+    "options_en": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "explanation_en": "Only 4 of positions (1), (2) is common. (4, 3, 6) and (4, 5, 2). 3 vs. 5, 6 vs. 2. The missing number is 1. So 4 vs. 1."
+  },
+  {
+    "id": 15,
+    "question": "ஒரு பகடை மூன்று முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 1 புள்ளி கொண்ட பக்கத்திற்கு எதிராக அமையும் புள்ளிகள் எத்தனை?",
+    "image": "image/unit28/q15.PNG",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "நிலைகள் (1), (3) இல் 4 புள்ளிகள் பொதுவாக உள்ளன. (4, 6, 1) மற்றும் (4, 3, 2). 6-க்கு எதிராக 3, 1-க்கு எதிராக 2 அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled three times are shown in the figure. How many points are against the side with 1 point?",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation_en": "Levels (1), (3) have 4 points in common. (4, 6, 1) and (4, 3, 2). 3 against 6, 2 against 1."
+  },
+  {
+    "id": 16,
+    "question": "ஒரு பகடையின் இரு வெவ்வேறான நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. இங்கு 1-ன் எதிர்ப்பக்கம் அமையும் எண்?",
+    "image": "image/unit28/q16.PNG",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "1"
+    ],
+    "correct": 1,
+    "explanation": "இரு நிலைகளிலும் 4 பொதுவாக உள்ளது. (4, 2, 3) மற்றும் (4, 6, 5). 2-க்கு எதிராக 6, 3-க்கு எதிராக 5. எனவே விடுபட்ட 1-க்கு எதிராக 4 அமையும்.",
+    "question_en": "Two different positions of a dice are shown in the figure. What number is the opposite of 1 here?",
+    "options_en": [
+      "3",
+      "4",
+      "5",
+      "1"
+    ],
+    "explanation_en": "4 is common in both positions. (4, 2, 3) and (4, 6, 5). 6 against 2, 5 against 3. So 4 against the missing 1."
+  },
+  {
+    "id": 17,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 3 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q17.PNG",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "நிலைகள் (1), (2) இல் 3 மட்டும் பொதுவாக உள்ளது. (3, 5, 2) மற்றும் (3, 6, 1). 5-க்கு எதிராக 6, 2-க்கு எதிராக 1. எனவே விடுபட்ட 4, 3-க்கு எதிராக அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 3?",
+    "options_en": [
+      "1",
+      "2",
+      "5",
+      "4"
+    ],
+    "explanation_en": "Only 3 of levels (1), (2) is common. (3, 5, 2) and (3, 6, 1). 6 against 5, 1 against 2. So the missing 4 is against 3."
+  },
+  {
+    "id": 18,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 2 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q18.PNG",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "நிலைகள் (1), (2) இல் 3, 4 பொதுவாக உள்ளன. எனவே மீதமுள்ள 2 மற்றும் 5 ஒன்றுக்கொன்று எதிரெதிரே அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 2?",
+    "options_en": [
+      "4",
+      "3",
+      "5",
+      "1"
+    ],
+    "explanation_en": "Levels (1), (2) 3, 4 are common. So the remaining 2 and 5 are opposite to each other."
+  },
+  {
+    "id": 19,
+    "question": "ஒரு பகடை நான்கு முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. 6 என்ற எண்ணிற்கு எதிரே அமையும் எண் யாது?",
+    "image": "image/unit28/q19.PNG",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 3,
+    "explanation": "நிலைகள் (1), (4) இல் 4 மட்டும் பொதுவாக உள்ளது. (4, 1, 2) மற்றும் (4, 6, 5). எனவே 1-க்கு எதிராக 6 அமையும்.",
+    "question_en": "The positions that appear when a dice is rolled four times are shown in the figure. Which number is opposite to 6?",
+    "options_en": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "explanation_en": "Only 4 of positions (1), (4) is common. (4, 1, 2) and (4, 6, 5). So it's 6 against 1."
+  },
+  {
+    "id": 20,
+    "question": "ஒரு பகடை மூன்று முறை உருட்டப்படும் போது தோன்றும் நிலைகள் படத்தில் காட்டப்பட்டுள்ளது. '->' என்ற குறியீட்டிற்கு எதிரே அமையும் குறியீடு யாது?",
+    "image": "image/unit28/q20.PNG",
+    "options": [
+      "Circle (வட்டம்)",
+      "Triangle (முக்கோணம்)",
+      "Dot (புள்ளி)",
+      "Cross (பெருக்கல்)"
+    ],
+    "correct": 1,
+    "explanation": "நிலைகள் (1), (2) இல் வட்டம் (Circle) மட்டும் பொதுவாக உள்ளது. கடிகார திசையில் (Circle, Dot, Triangle) மற்றும் (Circle, Cross, Square). எனவே Dot-க்கு எதிராக Cross, Triangle-க்கு எதிராக Square. (புத்தகத்தில் முக்கோணம் என்று விடை தரப்பட்டுள்ளது, ஆனால் அம்பு குறியீடு (->) எதற்கு எதிராக உள்ளது என்பதற்கான சரியான படம் விடுபட்டுள்ளது).",
+    "question_en": "The positions that appear when a dice is rolled three times are shown in the figure. What is the symbol opposite to '->'?",
+    "options_en": [
+      "Circle",
+      "Triangle",
+      "Dot",
+      "Cross"
+    ],
+    "explanation_en": "In stages (1), (2) only circle is common. Clockwise (Circle, Dot, Triangle) and (Circle, Cross, Square). So Dot vs. Cross, Triangle vs. Square. (The answer is given as a triangle in the book, but the correct picture of what the arrow symbol (->) is against is missing)."
+  }
+]

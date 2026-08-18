@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "question": "சாலைப் பாதுகாப்பு என்பது இவர்களுக்கானது ________.",
+    "options": [
+      "வழிப்போக்கர்கள்",
+      "ஓட்டுநர்கள்",
+      "சாலையைப் பயன்படுத்துவோர் அனைவருக்கும்.",
+      "பொதுமக்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Road safety is for ________.",
+    "options_en": [
+      "Passersby",
+      "Drivers",
+      "For all road users.",
+      "Public"
+    ],
+    "explanation": "சாலைப் பாதுகாப்பு என்பது இவர்களுக்கானது சாலையைப் பயன்படுத்துவோர் அனைவருக்கும்..",
+    "explanation_en": "Road safety is for For all road users.."
+  },
+  {
+    "id": 2,
+    "question": "இந்தியாவில் சாலைப்பாதுகாப்பு வாரம் முதன்முதலாக கொண்டாடப்பட்ட வருடம் ________.",
+    "options": [
+      "1947",
+      "1990",
+      "1989",
+      "2019"
+    ],
+    "correct": 1,
+    "question_en": "Road Safety Week was celebrated for the first time in India in ________.",
+    "options_en": [
+      "1947",
+      "1990",
+      "1989",
+      "2019"
+    ],
+    "explanation": "இந்தியாவில் சாலைப்பாதுகாப்பு வாரம் முதன்முதலாக கொண்டாடப்பட்ட வருடம் 1990.",
+    "explanation_en": "Road Safety Week was celebrated for the first time in India in 1990."
+  },
+  {
+    "id": 3,
+    "question": "வாகன உற்பத்தியாளர்கள் இருசக்கர வாகனத்தை உற்பத்தி செய்யும்போதே அதிகபட்ச வேகமாக ________ மேல் செல்லாதபடி வடிவமைக்க வேண்டும்.",
+    "options": [
+      "30 கி.மீ/மணி",
+      "45 கி.மீ/மணி",
+      "50 கி.மீ/மணி",
+      "60 கி.மீ/மணி"
+    ],
+    "correct": 2,
+    "question_en": "Vehicle manufacturers have to design the two-wheeler at the time of manufacture so that the maximum speed does not exceed ________.",
+    "options_en": [
+      "30 km/hr",
+      "45 km/hr",
+      "50 km/hr",
+      "60 km/hr"
+    ],
+    "explanation": "வாகன உற்பத்தியாளர்கள் இருசக்கர வாகனத்தை உற்பத்தி செய்யும்போதே அதிகபட்ச வேகமாக 50 கி.மீ/மணி மேல் செல்லாதபடி வடிவமைக்க வேண்டும்.",
+    "explanation_en": "Vehicle manufacturers have to design the two-wheeler at the time of manufacture so that the maximum speed does not exceed 50 km/hr."
+  },
+  {
+    "id": 4,
+    "question": "குறியீடுகள் ஓட்டுநருக்கு எச்சரிக்கை தருவதால் ________ குறியீடுகள் ஆகின்றன.",
+    "options": [
+      "தகவல் குறியீடு",
+      "எச்சரிக்கை குறியீடு",
+      "சாலை குறியீடு",
+      "இவற்றில் ஏதுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "________ are symbols that alert the driver.",
+    "options_en": [
+      "Information code",
+      "Warning code",
+      "road code",
+      "None of these"
+    ],
+    "explanation": "குறியீடுகள் ஓட்டுநருக்கு எச்சரிக்கை தருவதால் எச்சரிக்கை குறியீடு குறியீடுகள் ஆகின்றன.",
+    "explanation_en": "Warning code are symbols that alert the driver."
+  },
+  {
+    "id": 5,
+    "question": "மருத்துவ உதவியின் அவசரத் தேவைக்கு ________ என்ற எண்ணை அழைக்க வேண்டும்.",
+    "options": [
+      "100",
+      "102",
+      "104",
+      "108"
+    ],
+    "correct": 3,
+    "question_en": "Call ________ for emergency medical assistance.",
+    "options_en": [
+      "100",
+      "102",
+      "104",
+      "108"
+    ],
+    "explanation": "மருத்துவ உதவியின் அவசரத் தேவைக்கு 108 என்ற எண்ணை அழைக்க வேண்டும்.",
+    "explanation_en": "Call 108 for emergency medical assistance."
+  },
+  {
+    "id": 6,
+    "question": "கார்பூலிங் என்பது ________.\n(அ) ஒரு பகுதியிலிருந்தோ அல்லது ஒரே வழித்தடத்தில் தினந்தோறும் மகிழுந்து அல்லது இரு சக்கர வாகனத்தில் செல்பவர்கள் அதே இடத்திற்கோ அல்லது அதே இடத்தில் செல்பவர்களை உடன் அழைத்து செல்வது.\n(ஆ) ஒவ்வொருவரும் ஒரு இடத்திற்கு மகிழுந்தில் செல்லும்போது அந்த இடத்திற்கு அதிக எண்ணிக்கையிலான மகிழுந்து செலுத்தப்படுகிறது. இதைத் தவிர்க்க பயணப் பகிர்வு மேற்கொள்ளுதல் ஆகும்.",
+    "options": [
+      "(அ) சரி, (ஆ) தவறு",
+      "(அ) தவறு, (ஆ) சரி",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Carpooling is ________.\n(a) To accompany persons traveling on two-wheelers to or from the same area or on the same route daily.\n(b) When everyone goes to a place in pleasure a greater number of pleasures are paid to that place. To avoid this, ride sharing is the way to go.",
+    "options_en": [
+      "(a) True, (b) False",
+      "(a) False, (b) Correct",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation": "கார்பூலிங் என்பது இரண்டும் சரி.\n(அ) ஒரு பகுதியிலிருந்தோ அல்லது ஒரே வழித்தடத்தில் தினந்தோறும் மகிழுந்து அல்லது இரு சக்கர வாகனத்தில் செல்பவர்கள் அதே இடத்திற்கோ அல்லது அதே இடத்தில் செல்பவர்களை உடன் அழைத்து செல்வது.\n(ஆ) ஒவ்வொருவரும் ஒரு இடத்திற்கு மகிழுந்தில் செல்லும்போது அந்த இடத்திற்கு அதிக எண்ணிக்கையிலான மகிழுந்து செலுத்தப்படுகிறது. இதைத் தவிர்க்க பயணப் பகிர்வு மேற்கொள்ளுதல் ஆகும்.",
+    "explanation_en": "Carpooling is Both are correct.\n(a) To accompany persons traveling on two-wheelers to or from the same area or on the same route daily.\n(b) When everyone goes to a place in pleasure a greater number of pleasures are paid to that place. To avoid this, ride sharing is the way to go."
+  },
+  {
+    "id": 7,
+    "question": "கூற்று: கார்பூலிங் என்பது ஒரே இடத்தில் பயணிக்கும் பலர் ஒன்று கூடி ஒரே வாகனத்தைப் பயன்படுத்துவது.\nகாரணம்: அது எரிபொருள், நேரம், மற்றும் பணத்தை மிச்சப்படுத்துகிறது.",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்றும் சரி காரணமும் சரி",
+      "கூற்று தவறு காரணம் சரி",
+      "இரண்டுமே தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Assertion: Carpooling is the use of a single vehicle by many people traveling in the same place.\nThe reason: it saves fuel, time, and money.",
+    "options_en": [
+      "The statement is true and the reason is false",
+      "The statement is correct and the reason is correct",
+      "The statement is false and the reason is correct",
+      "Both are wrong"
+    ],
+    "explanation": "கூற்றும் சரி காரணமும் சரி",
+    "explanation_en": "The statement is correct and the reason is correct"
+  },
+  {
+    "id": 8,
+    "question": "சாலை பாதுகாப்பு சட்டம் பாராளுமன்றத்தில் இயற்றப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1950",
+      "1947",
+      "1989",
+      "1988"
+    ],
+    "correct": 3,
+    "question_en": "Road Safety Act was passed in Parliament in the year ________.",
+    "options_en": [
+      "1950",
+      "1947",
+      "1989",
+      "1988"
+    ],
+    "explanation": "சாலை பாதுகாப்பு சட்டம் பாராளுமன்றத்தில் இயற்றப்பட்ட ஆண்டு 1988.",
+    "explanation_en": "Road Safety Act was passed in Parliament in the year 1988."
+  },
+  {
+    "id": 9,
+    "question": "சாலை பாதுகாப்பு சட்டம் நாடு முழுவதும் நடைமுறைப்படுத்தப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1950",
+      "1947",
+      "1989",
+      "1988"
+    ],
+    "correct": 3,
+    "question_en": "Road Safety Act was implemented across the country in the year ________.",
+    "options_en": [
+      "1950",
+      "1947",
+      "1989",
+      "1988"
+    ],
+    "explanation": "சாலை பாதுகாப்பு சட்டம் நாடு முழுவதும் நடைமுறைப்படுத்தப்பட்ட ஆண்டு 1988.",
+    "explanation_en": "Road Safety Act was implemented across the country in the year 1988."
+  },
+  {
+    "id": 10,
+    "question": "பொருத்துக.\n(i) தகவல் குறியீடுகள் - (a) போக்குவரத்து விளக்குகள்.\n(ii) வரிக்குதிரை கடப்பு - (b) குறுகிய வளைவு குறியீடு.\n(iii) கட்டாயக் குறியீடுகள் - (c) பெட்ரோல் பங்க் குறியீடு.\n(iv) எச்சரிக்கைக் குறியீடுகள் - (d) ஓட்டுநர் உரிமம்.\n(v) வாகனம் ஓட்டும் உரிமம் - (e) பாதசாரிகள்",
+    "options": [
+      "i – c, ii – a, iii – e, iv – d, v – b",
+      "i – b, ii – e, iii – a, iv – c, v - d",
+      "i – c, ii – e, iii – a, iv – b, v – d",
+      "i – b, ii – a, iii – e, iv – d, v - c"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) Information symbols — (a) Traffic lights.\n(ii) Zebra Crossing – (b) Short Curve Index.\n(iii) Compulsory Codes – (c) Petrol Bunk Code.\n(iv) Warning codes – (d) Driving licence.\n(v) Driving license – (e) Pedestrians",
+    "options_en": [
+      "i – c, ii – a, iii – e, iv – d, v – b",
+      "i – b, ii – e, iii – a, iv – c, v – d",
+      "i – c, ii – e, iii – a, iv – b, v – d",
+      "i – b, ii – a, iii – e, iv – d, v – c"
+    ],
+    "explanation": "i – c, ii – e, iii – a, iv – b, v – d",
+    "explanation_en": "i – c, ii – e, iii – a, iv – b, v – d"
+  },
+  {
+    "id": 11,
+    "question": "வாகன ஓட்டுநர் உரிமம் பெற தகுதியான வயது ________.",
+    "options": [
+      "18",
+      "21",
+      "25",
+      "20"
+    ],
+    "correct": 0,
+    "question_en": "Eligible age to obtain driving license is ________.",
+    "options_en": [
+      "18",
+      "21",
+      "25",
+      "20"
+    ],
+    "explanation": "வாகன ஓட்டுநர் உரிமம் பெற தகுதியான வயது 18.",
+    "explanation_en": "Eligible age to obtain driving license is 18."
+  },
+  {
+    "id": 12,
+    "question": "இரு சக்கர வாகனம் ஓட்டும் போது கட்டாயம் அணிய வேண்டியது ________.",
+    "options": [
+      "தலைக் கவசம்",
+      "கண்ணாடி",
+      "வார்ப் பட்டை",
+      "முகக்கவசம்"
+    ],
+    "correct": 0,
+    "question_en": "Mandatory to wear while riding a two-wheeler is ________.",
+    "options_en": [
+      "Headgear",
+      "Glass",
+      "Warp bar",
+      "Mask"
+    ],
+    "explanation": "இரு சக்கர வாகனம் ஓட்டும் போது கட்டாயம் அணிய வேண்டியது தலைக் கவசம்.",
+    "explanation_en": "Mandatory to wear while riding a two-wheeler is Headgear."
+  },
+  {
+    "id": 13,
+    "question": "கார்பூலிங் செய்வதால் ________.",
+    "options": [
+      "சாலைகளில் வாகனங்களின் எண்ணிக்கை குறையும்",
+      "பணம் சேமிக்கப்படுகிறது",
+      "காற்று மாசுபாடு குறையும்",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "________ due to carpooling.",
+    "options_en": [
+      "The number of vehicles on the roads will decrease",
+      "Money is saved",
+      "Air pollution will be reduced",
+      "All these"
+    ],
+    "explanation": "கார்பூலிங் செய்வதால் இவை அனைத்தும்.",
+    "explanation_en": "All these due to carpooling."
+  },
+  {
+    "id": 14,
+    "question": "கட்டாயக் குறியீடுகள் என்றழைக்கப்படுபவை ________.",
+    "options": [
+      "நில், வேகத்தடை",
+      "வலப்புறம் திரும்பு",
+      "இடதுபுறம் திரும்பாதே",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Imperative symbols are called ________.",
+    "options_en": [
+      "Stop, speed limit",
+      "Turn right",
+      "Do not turn left",
+      "All these"
+    ],
+    "explanation": "கட்டாயக் குறியீடுகள் என்றழைக்கப்படுபவை இவை அனைத்தும்.",
+    "explanation_en": "Imperative symbols are called All these."
+  },
+  {
+    "id": 15,
+    "question": "குடித்துவிட்டு வாகனம் ஓட்டக்கூடாது என்பதை வலியுறுத்தும் விதிமுறை மத்திய மோட்டார் வாகன விதிமுறைகளின் பகுதி ___________ ல் உள்ளது.",
+    "options": [
+      "147",
+      "184",
+      "420",
+      "185"
+    ],
+    "correct": 3,
+    "question_en": "The section of the Central Motor Vehicle Rules that emphasizes drunken driving is contained in ___________.",
+    "options_en": [
+      "147",
+      "184",
+      "420",
+      "185"
+    ],
+    "explanation": "குடித்துவிட்டு வாகனம் ஓட்டக்கூடாது என்பதை வலியுறுத்தும் விதிமுறை மத்திய மோட்டார் வாகன விதிமுறைகளின் பகுதி 185 ல் உள்ளது.",
+    "explanation_en": "The section of the Central Motor Vehicle Rules that emphasizes drunken driving is contained in 185."
+  },
+  {
+    "id": 16,
+    "question": "பொருத்துக.\ni. வரிக்குதிரை கடப்பு - 1. பகுதி 112\nii. வாகனத்தை முறையாகப் பராமரித்தல் - 2. பகுதி 129\niii. வேகத் தடைகளை மதித்தல் - 3. விதிமுறை 11\niv. தலைக்கவசம் அணிதல் - 4. பகுதி 185",
+    "options": [
+      "i-4, ii-2, iii-1, iv-3",
+      "i-3, ii-4, iii-2, iv-1",
+      "i-3, ii-4, iii-1, iv-2",
+      "i-2, ii-3, iii-4, iv-1"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. Zebra Crossing - 1. Section 112\nii. Proper maintenance of vehicle - 2. Section 129\niii. Observance of speed limits - 3. Regulation 11\niv. Wearing of helmet - 4. Section 185",
+    "options_en": [
+      "i-4, ii-2, iii-1, iv-3",
+      "i-3, ii-4, iii-2, iv-1",
+      "i-3, ii-4, iii-1, iv-2",
+      "i-2, ii-3, iii-4, iv-1"
+    ],
+    "explanation": "i-3, ii-4, iii-1, iv-2",
+    "explanation_en": "i-3, ii-4, iii-1, iv-2"
+  },
+  {
+    "id": 17,
+    "question": "இக்குறியீடு எதனைக் குறிக்கின்றது? (தலைகீழ் முக்கோணம்)",
+    "options": [
+      "வழிவிடு (Give way)",
+      "நில் (Stop)",
+      "வலப்புறம் திரும்பு (Turn left)",
+      "ஒலி எழுப்பாதே (No Horn)"
+    ],
+    "correct": 0,
+    "question_en": "What does this code mean? (inverted triangle)",
+    "options_en": [
+      "Give way",
+      "stop",
+      "Turn left",
+      "No Horn"
+    ],
+    "explanation": "வழிவிடு (Give way)",
+    "explanation_en": "Give way"
+  },
+  {
+    "id": 18,
+    "question": "மோட்டார் வாகன விதிமுறைகள் நடைமுறைக்கு வந்த ஆண்டு ________.",
+    "options": [
+      "1968",
+      "1989",
+      "1986",
+      "1988"
+    ],
+    "correct": 0,
+    "question_en": "The year the Motor Vehicle Regulations came into force is ________.",
+    "options_en": [
+      "1968",
+      "1989",
+      "1986",
+      "1988"
+    ],
+    "explanation": "மோட்டார் வாகன விதிமுறைகள் நடைமுறைக்கு வந்த ஆண்டு 1968.",
+    "explanation_en": "The year the Motor Vehicle Regulations came into force is 1968."
+  },
+  {
+    "id": 19,
+    "question": "இருக்கையின் வார்ப்பட்டையை அணிதல் பற்றி கூறும் விதி________.",
+    "options": [
+      "பகுதி 184",
+      "பகுதி 129",
+      "பகுதி 138",
+      "பகுதி 185"
+    ],
+    "correct": 2,
+    "question_en": "The rule about wearing the seat shell is________.",
+    "options_en": [
+      "Section 184",
+      "Section 129",
+      "Section 138",
+      "Section 185"
+    ],
+    "explanation": "இருக்கையின் வார்ப்பட்டையை அணிதல் பற்றி கூறும் விதிபகுதி 138.",
+    "explanation_en": "The rule about wearing the seat shell isSection 138."
+  },
+  {
+    "id": 20,
+    "question": "பொருத்துக.\ni. [No Parking Sign] - 1. அனுமதியில்லை\nii. [Narrow Bridge Sign] - 2. வாகனம் நிறுத்த அனுமதியில்லை\niii. [No Entry Sign] - 3. குறுகிய பாலம்\niv. [Parking Sign] - 4. வாகனம் நிறுத்தும் பகுதி\nv. [Two-way traffic Sign] - 5. இரு வழிகளிலும் அனுமதி",
+    "options": [
+      "i-2, ii-1, iii-4, iv-5, v-3",
+      "i-3, ii-2, iii-4, iv-5, v-1",
+      "i-2, ii-3, iii-1, iv-4, v-5",
+      "i-3, ii-1, iii-2, iv-4, v-5"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. [No Parking Sign] - 1. Not allowed\nii. [Narrow Bridge Sign] - 2. No parking allowed\niii. [No Entry Sign] - 3. Short Bridge\niv. [Parking Sign] - 4. Parking area\nv. [Two-way traffic Sign] - 5. Permission in both ways",
+    "options_en": [
+      "i-2, ii-1, iii-4, iv-5, v-3",
+      "i-3, ii-2, iii-4, iv-5, v-1",
+      "i-2, ii-3, iii-1, iv-4, v-5",
+      "i-3, ii-1, iii-2, iv-4, v-5"
+    ],
+    "explanation": "i-2, ii-3, iii-1, iv-4, v-5",
+    "explanation_en": "i-2, ii-3, iii-1, iv-4, v-5"
+  },
+  {
+    "id": 21,
+    "question": "தமிழ்நாட்டின் ஆம்புலன்ஸ் சேவையின் உதவி எண் ________.",
+    "options": [
+      "100",
+      "101",
+      "103",
+      "108"
+    ],
+    "correct": 3,
+    "question_en": "Tamil Nadu Ambulance Service helpline number is ________.",
+    "options_en": [
+      "100",
+      "101",
+      "103",
+      "108"
+    ],
+    "explanation": "தமிழ்நாட்டின் ஆம்புலன்ஸ் சேவையின் உதவி எண் 108.",
+    "explanation_en": "Tamil Nadu Ambulance Service helpline number is 108."
+  },
+  {
+    "id": 22,
+    "question": "புதிய மோட்டார் வாகனச் சட்டம் இந்தியாவில் நடைமுறைக்கு வந்த ஆண்டு _________.",
+    "options": [
+      "2000",
+      "2019",
+      "1989",
+      "1968"
+    ],
+    "correct": 1,
+    "question_en": "New Motor Vehicle Act came into force in India in _________.",
+    "options_en": [
+      "2000",
+      "2019",
+      "1989",
+      "1968"
+    ],
+    "explanation": "புதிய மோட்டார் வாகனச் சட்டம் இந்தியாவில் நடைமுறைக்கு வந்த ஆண்டு 2019.",
+    "explanation_en": "New Motor Vehicle Act came into force in India in 2019."
+  },
+  {
+    "id": 23,
+    "question": "வாகன ஓட்டிகளிடம் விழிப்புணர்வை ஏற்படுத்த மும்பை காவல் துறை வெளியிட்ட காணொலியில் இடம் பெற்ற விளையாட்டு வீரர் ________.",
+    "options": [
+      "விராட் கோலி",
+      "மகேந்திரசிங் தோனி",
+      "சச்சின் டெண்டுல்கர்",
+      "ரோகித் சர்மா"
+    ],
+    "correct": 2,
+    "question_en": "The sportsperson featured in the video released by the Mumbai Police Department to create awareness among motorists is ________.",
+    "options_en": [
+      "Virat Kohli",
+      "Mahendra Singh Dhoni",
+      "Sachin Tendulkar",
+      "Rohit Sharma"
+    ],
+    "explanation": "வாகன ஓட்டிகளிடம் விழிப்புணர்வை ஏற்படுத்த மும்பை காவல் துறை வெளியிட்ட காணொலியில் இடம் பெற்ற விளையாட்டு வீரர் சச்சின் டெண்டுல்கர்.",
+    "explanation_en": "The sportsperson featured in the video released by the Mumbai Police Department to create awareness among motorists is Sachin Tendulkar."
+  },
+  {
+    "id": 24,
+    "question": "________ என்பது ஒருவர் குறிப்பிட்ட வேகத்தைக் கடந்து வாகனத்தை இயக்கும்போது எச்சரிக்கை கொடுக்கும்.",
+    "options": [
+      "கார்பூலிங்",
+      "கார்புரேட்டர்",
+      "ஷாக்கப்சார்பர்",
+      "ரக்க்ஷா"
+    ],
+    "correct": 3,
+    "question_en": "________ gives a warning when one is driving the vehicle beyond a certain speed limit.",
+    "options_en": [
+      "Carpooling",
+      "carburetor",
+      "Shockabsorber",
+      "Raksha"
+    ],
+    "explanation": "ரக்க்ஷா என்பது ஒருவர் குறிப்பிட்ட வேகத்தைக் கடந்து வாகனத்தை இயக்கும்போது எச்சரிக்கை கொடுக்கும்.",
+    "explanation_en": "Raksha gives a warning when one is driving the vehicle beyond a certain speed limit."
+  },
+  {
+    "id": 25,
+    "question": "பொருந்தாத ஒன்றைக் கண்டுபிடி",
+    "options": [
+      "வாகனத்தை நிறுத்தாதே (No parking)",
+      "இடப்பக்கம் திரும்பாதே (Left turn prohibited)",
+      "ஒரு வழிப் பாதை (One way)",
+      "வலப்பக்க வளைவு (Right hand Curve)"
+    ],
+    "correct": 3,
+    "question_en": "Find something that doesn't match",
+    "options_en": [
+      "No parking",
+      "Left turn prohibited",
+      "One way",
+      "Right hand curve"
+    ],
+    "explanation": "வலப்பக்க வளைவு (Right hand Curve)",
+    "explanation_en": "Right hand curve"
+  },
+  {
+    "id": 26,
+    "question": "சாலை விபத்துகள் ஒரு நாட்டின் ________ பாதிக்கின்றன.",
+    "options": [
+      "முன்னேற்றத்தை",
+      "வாழ்வை",
+      "பொருளாதாரத்தை",
+      "மேற்கூறிய அனைத்தையும்"
+    ],
+    "correct": 3,
+    "question_en": "Road accidents affect the ________ of a country.",
+    "options_en": [
+      "progress",
+      "life",
+      "the economy",
+      "All of the above"
+    ],
+    "explanation": "சாலை விபத்துகள் ஒரு நாட்டின் மேற்கூறிய அனைத்தையும் பாதிக்கின்றன.",
+    "explanation_en": "Road accidents affect the All of the above of a country."
+  },
+  {
+    "id": 27,
+    "question": "அனுமதி என்பது ________.",
+    "options": [
+      "இயக்குவதற்கு அனுமதி",
+      "பொருள்களை எடுத்துச் செல்ல அனுமதி",
+      "ஓட்டுநருக்கு சான்றிதழ்",
+      "வாகனத்தை பதிவு செய்த சான்றிதழ்"
+    ],
+    "correct": 0,
+    "question_en": "Permission is ________.",
+    "options_en": [
+      "Permission to run",
+      "Permission to carry goods",
+      "Driver's certificate",
+      "Vehicle registration certificate"
+    ],
+    "explanation": "அனுமதி என்பது இயக்குவதற்கு அனுமதி.",
+    "explanation_en": "Permission is Permission to run."
+  },
+  {
+    "id": 28,
+    "question": "போக்குவரத்து மேம்பாட்டில் மனிதனின் மிகப் பயனுள்ள கண்டுபிடிப்பு ________.",
+    "options": [
+      "சக்கரம்",
+      "விளக்கு",
+      "போக்குவரத்து விதிகள்",
+      "பிரேக்"
+    ],
+    "correct": 0,
+    "question_en": "Man's most useful invention in the development of transportation was ________.",
+    "options_en": [
+      "Wheel",
+      "lamp",
+      "Traffic rules",
+      "Brake"
+    ],
+    "explanation": "போக்குவரத்து மேம்பாட்டில் மனிதனின் மிகப் பயனுள்ள கண்டுபிடிப்பு சக்கரம்.",
+    "explanation_en": "Man's most useful invention in the development of transportation was Wheel."
+  },
+  {
+    "id": 29,
+    "question": "ரக்க்ஷா என்பது ________.",
+    "options": [
+      "சகோதரத்துவத்தை வெளிப்படுத்துவது",
+      "ஒரு தானியங்கிக் கருவி",
+      "போக்குவரத்துக் குறியீடு",
+      "ஒலியெழுப்பும் கருவி"
+    ],
+    "correct": 1,
+    "question_en": "A raksha is a ________.",
+    "options_en": [
+      "Demonstrating brotherhood",
+      "An automatic tool",
+      "Traffic code",
+      "A recording instrument"
+    ],
+    "explanation": "ரக்க்ஷா என்பது ஒரு தானியங்கிக் கருவி.",
+    "explanation_en": "A raksha is a An automatic tool."
+  },
+  {
+    "id": 30,
+    "question": "உலகளவில் 10% க்கும் அதிகமான சாலை விபத்துகள் நடைபெறும் நாடு ________.",
+    "options": [
+      "இந்தியா",
+      "அமெரிக்கா",
+      "சீனா",
+      "இங்கிலாந்து"
+    ],
+    "correct": 0,
+    "question_en": "________ is the country where more than 10% of road accidents occur worldwide.",
+    "options_en": [
+      "India",
+      "America",
+      "China",
+      "England"
+    ],
+    "explanation": "உலகளவில் 10% க்கும் அதிகமான சாலை விபத்துகள் நடைபெறும் நாடு இந்தியா.",
+    "explanation_en": "India is the country where more than 10% of road accidents occur worldwide."
+  },
+  {
+    "id": 31,
+    "question": "சாலை விபத்துகள் ஏற்படுவதற்கு முதன்மைக் காரணமாக இருப்பது ________.",
+    "options": [
+      "இரவில் வாகனங்களை இயக்குதல்",
+      "போக்குவரத்து நெரிசல்",
+      "கவனச்சிதறல்",
+      "சாலையின் நிலை"
+    ],
+    "correct": 2,
+    "question_en": "The primary cause of road accidents is ________.",
+    "options_en": [
+      "Driving vehicles at night",
+      "Traffic congestion",
+      "Distraction",
+      "Road condition"
+    ],
+    "explanation": "சாலை விபத்துகள் ஏற்படுவதற்கு முதன்மைக் காரணமாக இருப்பது கவனச்சிதறல்.",
+    "explanation_en": "The primary cause of road accidents is Distraction."
+  },
+  {
+    "id": 32,
+    "question": "பொருத்துக\nஅ) கட்டாயக் குறியீடுகள் - (i) செவ்வகம்\nஆ) எச்சரிக்கைக் குறியீடுகள் - (ii) எண்கோணம்\nஇ) தகவல் குறியீடுகள் - (iii) வட்டம்\nஈ) நில் - (iv) முக்கோணம்",
+    "options": [
+      "அ - iii , ஆ - i , இ - iv, ஈ – ii",
+      "அ - iv , ஆ - iii , இ - i , ஈ – ii",
+      "அ - ii , ஆ - iv , இ - i, ஈ – iii",
+      "அ - iii , ஆ - iv , இ - i, ஈ – ii"
+    ],
+    "correct": 3,
+    "question_en": "match\na) Mandatory Symbols – (i) Rectangle\nb) Warning symbols – (ii) Octagon\ne) Information Codes – (iii) Circle\nd) Nil – (iv) Triangle",
+    "options_en": [
+      "A – iii, B – i, E – iv, D – ii",
+      "a – iv, b – iii, e – i, d – ii",
+      "a – ii, b – iv, e – i, d – iii",
+      "A – iii, B – iv, E – i, D – ii"
+    ],
+    "explanation": "அ - iii , ஆ - iv , இ - i, ஈ – ii",
+    "explanation_en": "A – iii, B – iv, E – i, D – ii"
+  },
+  {
+    "id": 33,
+    "question": "கூற்று: சாலை பாதுகாப்பு வாரம் தேசிய நிகழ்வாக ஒவ்வொரு ஆண்டும் ஜனவரி மாதம் இந்திய அரசால் கொண்டாடப்படுகிறது.\nகாரணம்: பொதுமக்களிடையே போக்குவரத்து விதிகள் பற்றிய விழிப்புணர்வை ஏற்படுத்தவே இந்நிகழ்வு அனுசரிக்கப்படுகிறது.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Claim: Road Safety Week is celebrated as a national event in the month of January every year by the Government of India.\nReason: This event is observed to create awareness about traffic rules among the public.",
+    "options_en": [
+      "The statement is right, the reason is wrong",
+      "Both statement and reason are correct",
+      "The statement is wrong, the reason is right",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி",
+    "explanation_en": "Both statement and reason are correct"
+  },
+  {
+    "id": 34,
+    "question": "10-09-2003 பிறந்த ஒருவர் ஓட்டுநர் உரிமம் பெற தகுதி பெறும் தேதி __________.",
+    "options": [
+      "11-09-2021",
+      "10-09-2021",
+      "11-09-2020",
+      "10-09-2022"
+    ],
+    "correct": 0,
+    "question_en": "A person born on 10-09-2003 becomes eligible for driving license on __________.",
+    "options_en": [
+      "11-09-2021",
+      "10-09-2021",
+      "11-09-2020",
+      "10-09-2022"
+    ],
+    "explanation": "10-09-2003 பிறந்த ஒருவர் ஓட்டுநர் உரிமம் பெற தகுதி பெறும் தேதி 11-09-2021.",
+    "explanation_en": "A person born on 10-09-2003 becomes eligible for driving license on 11-09-2021."
+  },
+  {
+    "id": 35,
+    "question": "இந்தியாவில் ஒவ்வொரு ஆண்டும் __________ மாதத்தில் சாலைப்பாதுகாப்பு வாரம் கொண்டாடப்படுகிறது.",
+    "options": [
+      "டிசம்பர்",
+      "மே",
+      "ஜனவரி",
+      "பிப்ரவரி"
+    ],
+    "correct": 2,
+    "question_en": "Road Safety Week is celebrated in India every year in the month of __________.",
+    "options_en": [
+      "December",
+      "May",
+      "January",
+      "February"
+    ],
+    "explanation": "இந்தியாவில் ஒவ்வொரு ஆண்டும் ஜனவரி மாதத்தில் சாலைப்பாதுகாப்பு வாரம் கொண்டாடப்படுகிறது.",
+    "explanation_en": "Road Safety Week is celebrated in India every year in the month of January."
+  },
+  {
+    "id": 36,
+    "question": "வாகனம் இயக்குபவர் எப்போதும் தன்னுடன் வைத்திருக்க வேண்டிய ஆவணங்கள் __________.",
+    "options": [
+      "ஓட்டுநர் உரிமம்",
+      "வாகனத்தின் பதிவுச் சான்றிதழ்",
+      "காப்பீட்டுச் சான்றிதழ்",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Documents to be carried by the driver at all times are __________.",
+    "options_en": [
+      "Driving license",
+      "Vehicle registration certificate",
+      "Insurance certificate",
+      "All these"
+    ],
+    "explanation": "வாகனம் இயக்குபவர் எப்போதும் தன்னுடன் வைத்திருக்க வேண்டிய ஆவணங்கள் இவை அனைத்தும்.",
+    "explanation_en": "Documents to be carried by the driver at all times are All these."
+  },
+  {
+    "id": 37,
+    "question": "கூற்று: கட்டுப்பாடு இல்லாமல் வாகனங்களை இயக்குதல் என்பது ஓட்டுநர் விதிகளை மீறும் செயலாகும்.\nகாரணம்: ஓட்டுநர் வேண்டுமென்றே போக்குவரத்து விதிகளை மதிக்காமல் வாகனங்களை இயக்கும் மன நிலையாகும்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி",
+      "கூற்று தவறு, காரணம் சரி",
+      "இரண்டுமே தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Statement: Driving vehicles without restraint is a violation of driving rules.\nCause: It is the state of mind in which the driver deliberately disregards the traffic rules and operates the vehicles.",
+    "options_en": [
+      "The statement is right, the reason is wrong",
+      "The statement and reason are correct",
+      "The statement is wrong, the reason is right",
+      "Both are wrong"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி",
+    "explanation_en": "The statement and reason are correct"
+  },
+  {
+    "id": 38,
+    "question": "சாலை பாதுகாப்பிற்கான விதியில் பகுதி ______ வாகனம் இயக்கும்போது கைப்பேசியை தவிர்த்தல் பற்றி கூறுகிறது.",
+    "options": [
+      "184",
+      "185",
+      "129",
+      "190"
+    ],
+    "correct": 0,
+    "question_en": "Section ______ of the Road Safety Act deals with avoiding mobile phones while driving.",
+    "options_en": [
+      "184",
+      "185",
+      "129",
+      "190"
+    ],
+    "explanation": "சாலை பாதுகாப்பிற்கான விதியில் பகுதி 184 வாகனம் இயக்கும்போது கைப்பேசியை தவிர்த்தல் பற்றி கூறுகிறது.",
+    "explanation_en": "Section 184 of the Road Safety Act deals with avoiding mobile phones while driving."
+  },
+  {
+    "id": 39,
+    "question": "கார் பூலிங் செய்வதால் உண்டாகும் நன்மை ______,",
+    "options": [
+      "போக்குவரத்து நெரிசல் குறைவு",
+      "காற்று மாசு குறைவு",
+      "சகமனிதர்களிடம் இணக்கமான உறவு",
+      "இவையனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Advantages of car pooling are ______,",
+    "options_en": [
+      "Less traffic",
+      "Less air pollution",
+      "Harmonious relationship with fellow human beings",
+      "All of these"
+    ],
+    "explanation": "கார் பூலிங் செய்வதால் உண்டாகும் நன்மை இவையனைத்தும்,",
+    "explanation_en": "Advantages of car pooling are All of these,"
+  },
+  {
+    "id": 40,
+    "question": "தற்போதைய மத்திய சாலை போக்குவரத்து மற்றும் நெடுஞ்சாலைத் துறை அமைச்சர் ______,",
+    "options": [
+      "நிர்மலா சீதாராமன்",
+      "நரேந்திர மோடி",
+      "நிதின் கட்கரி",
+      "தர்மேந்திர பிரதான்"
+    ],
+    "correct": 2,
+    "question_en": "Present Union Minister of Road Transport and Highways ______,",
+    "options_en": [
+      "Nirmala Sitharaman",
+      "Narendra Modi",
+      "Nitin Gadkari",
+      "Dharmendra Pradhan"
+    ],
+    "explanation": "தற்போதைய மத்திய சாலை போக்குவரத்து மற்றும் நெடுஞ்சாலைத் துறை அமைச்சர் நிதின் கட்கரி,",
+    "explanation_en": "Present Union Minister of Road Transport and Highways Nitin Gadkari,"
+  }
+]

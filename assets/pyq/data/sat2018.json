@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 91,
+    "question": "ஒரு விகிதமுறு எண்ணுக்கு அதுவே தலைகீழியாகவும் உள்ள எண்களின் எண்ணிக்கை:",
+    "options": [
+      "0",
+      "4",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "1 மற்றும் -1 ஆகிய இரண்டு விகிதமுறு எண்களுக்கு மட்டுமே அவையே தலைகீழிகளாக அமையும். எனவே எண்ணிக்கை 2 ஆகும்.",
+    "question_en": "A rational number is the number of numbers that have the same inverse:",
+    "options_en": [
+      "0",
+      "4",
+      "2",
+      "1"
+    ],
+    "explanation_en": "Only two rational numbers, 1 and -1, are inverses. So the number is 2."
+  },
+  {
+    "id": 92,
+    "question": "$\\frac{1}{2}$ of $(\\frac{1}{2} \\text{ of } 8)$ =",
+    "options": [
+      "4",
+      "1",
+      "16",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "முதலில் அடைப்புக்குறிக்குள் உள்ளதை கணக்கிட வேண்டும்:\n$\\frac{1}{2} \\times 8 = 4$.\nமீண்டும் அதில் $\\frac{1}{2}$ பங்கு: $\\frac{1}{2} \\times 4 = 2$.\nஎனவே விடை 2.",
+    "question_en": "$\\frac{1}{2}$ of$(\\frac{1}{2} \\text{ of } 8)$=",
+    "options_en": [
+      "4",
+      "1",
+      "16",
+      "2"
+    ],
+    "explanation_en": "First calculate what is in parentheses:\n $\\frac{1}{2} \\times 8 = 4$.\n$\\frac{1}{2}$ role in it again:$\\frac{1}{2} \\times 4 = 2$.\nSo the answer is 2."
+  },
+  {
+    "id": 93,
+    "question": "$12^{x-1} - 12 = 132$ எனில் x -ன் மதிப்பு:",
+    "options": [
+      "-3",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "$12^{x-1} - 12 = 132$\n$12^{x-1} = 132 + 12 = 144$\n$12^{x-1} = 12^2$\nஅடிமானம் சமம் என்பதால் அடுக்குகளை ஒப்பிட: $x - 1 = 2 \\Rightarrow x = 3$.\n(குறிப்பு: இங்கு ஆவணத்தில் ஒரு அச்சுப்பிழை உள்ளது, $12^x - 12 = 132$ எனில் விடை 2 வரும். $x=2$ என்பது சரியான பொருத்தம்).",
+    "question_en": "If$12^{x-1} - 12 = 132$then the value of x is:",
+    "options_en": [
+      "-3",
+      "3",
+      "2",
+      "1"
+    ],
+    "explanation_en": "$12^{x-1} - 12 = 132$ \n$12^{x-1} = 132 + 12 = 144$\n$12^{x-1} = 12^2$\nTo compare exponents because the denominator is equal:$x - 1 = 2 \\Rightarrow x = 3$.\n(Note: There is a typo in the document here,$12^x - 12 = 132$gives answer 2.$x=2$is a correct match)."
+  },
+  {
+    "id": 94,
+    "question": "$\\sqrt[3]{27}$ உடன் எந்த மிகச்சிறிய மிகை எண்ணைக் கூட்டினால் ஒரு சரியான கன எண் கிடைக்கும்?",
+    "options": [
+      "5",
+      "9",
+      "27",
+      "-2"
+    ],
+    "correct": 0,
+    "explanation": "$\\sqrt[3]{27} = 3$.\n3-க்கு அடுத்த மிகச்சிறிய முழு கன எண் 8 ($2^3$). \nஎனவே 3 உடன் 5-ஐக் கூட்டினால் 8 கிடைக்கும்.",
+    "question_en": "$\\sqrt[3]{27}$ What is the smallest hyperbolic number that gives a perfect cubic number?",
+    "options_en": [
+      "5",
+      "9",
+      "27",
+      "-2"
+    ],
+    "explanation_en": "$\\sqrt[3]{27} = 3$.\nThe smallest integer next to 3 is 8 ($2^3$). \nSo adding 5 to 3 gives 8."
+  },
+  {
+    "id": 95,
+    "question": "கீழ்வருவனவற்றுள் எது தவறானது?",
+    "options": [
+      "இரு பல்லுறுப்புக் கோவைகளின் கூடுதல் ஒரு பல்லுறுப்புக் கோவையாகும்.",
+      "இரு பல்லுறுப்புக் கோவைகளின் பெருக்கல் ஒரு பல்லுறுப்புக் கோவையாகும்.",
+      "இரு பல்லுறுப்புக் கோவைகளின் வித்தியாசம் ஒரு பல்லுறுப்புக் கோவையாகும்.",
+      "$x+\\frac{1}{x}$ என்பது பல்லுறுப்புக் கோவைக்கு ஓர் உதாரணமாகும்."
+    ],
+    "correct": 3,
+    "explanation": "$x+\\frac{1}{x}$ என்பதில் $x$-ன் அடுக்கு $-1$ ஆக இருப்பதால் இது ஒரு பல்லுறுப்புக் கோவை அல்ல. எனவே இதுவே தவறான கூற்று.",
+    "question_en": "Which of the following is false?",
+    "options_en": [
+      "Addition of two polynomials is a polynomial.",
+      "The product of two polynomials is a polynomial.",
+      "The difference of two polynomials is a polynomial.",
+      "$x+\\frac{1}{x}$ is an example of a polynomial."
+    ],
+    "explanation_en": "$x+\\frac{1}{x}$ is not a polynomial because the exponent of$x$is $-1$. So this is a false statement."
+  },
+  {
+    "id": 96,
+    "question": "$x^2 = y^2$ எனில் :",
+    "options": [
+      "$x = y$",
+      "$x = -y$",
+      "$x = \\pm y$",
+      "$x = 0, y = 0$"
+    ],
+    "correct": 2,
+    "explanation": "இருபுறமும் வர்க்கமூலம் எடுக்கும்போது, $x = \\pm y$ என கிடைக்கும்.",
+    "question_en": "If$x^2 = y^2$:",
+    "options_en": [
+      "$x = y$",
+      "$x = -y$",
+      "$x = \\pm y$",
+      "$x = 0, y = 0$"
+    ],
+    "explanation_en": "Taking the square root of both sides gives $x = \\pm y$."
+  },
+  {
+    "id": 97,
+    "question": "ஒரு மிகப்பெரிய சதுரத்தினை உள்ளடக்கிய வட்டத்தின் ஆரம் r எனில், அச்சதுரத்தின் பரப்பளவு:",
+    "options": [
+      "$4r^2$",
+      "$r^2$",
+      "$\\pi r^2$",
+      "$2r^2$"
+    ],
+    "correct": 0,
+    "explanation": "வட்டமானது சதுரத்தினுள் வரையப்பட்டிருந்தால் (Circle inscribed in a square), சதுரத்தின் பக்கம் வட்டத்தின் விட்டத்திற்குச் சமம் ($a = 2r$). \nஎனவே சதுரத்தின் பரப்பளவு $= a^2 = (2r)^2 = 4r^2$.",
+    "question_en": "If the radius r of a circle circumscribing a great square is r, then the area of ​​the square is:",
+    "options_en": [
+      "$4r^2$",
+      "$r^2$",
+      "$\\pi r^2$",
+      "$2r^2$"
+    ],
+    "explanation_en": "If a circle is inscribed in a square, then the side of the square is equal to the diameter of the circle ($a = 2r$). \nSo the area of ​​the square is$= a^2 = (2r)^2 = 4r^2$."
+  },
+  {
+    "id": 98,
+    "question": "$(x+2l)(x-m) = x^2 - 4$ எனில் $lm$ -ன் மதிப்பு:",
+    "options": [
+      "-2",
+      "2",
+      "4",
+      "-4"
+    ],
+    "correct": 1,
+    "explanation": "$x^2 - 4$-ஐ $(x+2)(x-2)$ என எழுதலாம். இதை $(x+2l)(x-m)$-உடன் ஒப்பிட, $2l = 2 \\Rightarrow l = 1$, மற்றும் $m = 2$.\nஎனவே $lm = 1 \\times 2 = 2$.",
+    "question_en": "If$(x+2l)(x-m) = x^2 - 4$then the value of$lm$is:",
+    "options_en": [
+      "-2",
+      "2",
+      "4",
+      "-4"
+    ],
+    "explanation_en": "$x^2 - 4$ can be written as $(x+2)(x-2)$. Compare this with $(x+2l)(x-m)$, $2l = 2 \\Rightarrow l = 1$, and $m = 2$.\nHence$lm = 1 \\times 2 = 2$."
+  },
+  {
+    "id": 99,
+    "question": "A, B மற்றும் C ஆகியவை அரை வட்டங்களாக இருப்பின் மொத்த படத்தின் சுற்றளவு (படத்தின் அடிப்படையில்):",
+    "options": [
+      "$42\\pi$",
+      "$10.5\\pi$",
+      "$21\\pi$",
+      "$31.5\\pi$"
+    ],
+    "correct": 2,
+    "explanation": "படத்தின் மொத்த சுற்றளவு = A, B, C ஆகிய மூன்று அரைவட்டங்களின் விற்களின் நீளங்களின் கூடுதல். விற்களின் நீளம் $\\pi r$.\n$A$-ன் விட்டம் 14, ஆரம் = 7. \n$B$-ன் விட்டம் 7, ஆரம் = 3.5.\n$C$-ன் விட்டம் 21, ஆரம் = 10.5.\nகூடுதல் $= \\pi(7 + 3.5 + 10.5) = 21\\pi$.",
+    "question_en": "If A, B and C are semicircles then the total perimeter of the image (based on the image) is:",
+    "options_en": [
+      "$42\\pi$",
+      "$10.5\\pi$",
+      "$21\\pi$",
+      "$31.5\\pi$"
+    ],
+    "explanation_en": "Total circumference of the figure = Addition of the lengths of the sides of the three semicircles A, B, C. Length of bars$\\pi r$.\n Diameter of$A$is 14, radius = 7. \n Diameter of$B$is 7, radius = 3.5.\n Diameter of$C$is 21, radius = 10.5.\nAdditional$= \\pi(7 + 3.5 + 10.5) = 21\\pi$."
+  },
+  {
+    "id": 100,
+    "question": "கீழ்க்காணும் கூற்றுகளில் தவறான கூற்று எது?",
+    "options": [
+      "சமபக்க முக்கோணம் என்பது 3 பக்கங்கள் கொண்ட ஒழுங்கு பலகோணமாகும்.",
+      "சதுரம் என்பது 4 பக்கங்கள் கொண்ட ஒழுங்கு பலகோணமாகும்.",
+      "செவ்வகம் என்பது 4 பக்கங்கள் கொண்ட ஒழுங்கு பலகோணமாகும்.",
+      "3 பக்கங்கள் கொண்ட ஒழுங்கு பலகோணம் என்பது சமபக்க முக்கோணமாகும்."
+    ],
+    "correct": 2,
+    "explanation": "ஒழுங்கு பலகோணம் (Regular Polygon) என்பது அனைத்து பக்கங்களும் மற்றும் கோணங்களும் சமமாக இருக்க வேண்டும். செவ்வகத்தில் பக்கங்கள் சமமில்லை.",
+    "question_en": "Which of the following statements is false?",
+    "options_en": [
+      "An equilateral triangle is a regular polygon with 3 sides.",
+      "A square is a regular polygon with 4 sides.",
+      "A rectangle is a regular polygon with 4 sides.",
+      "A regular polygon with 3 sides is an equilateral triangle."
+    ],
+    "explanation_en": "A regular polygon is one where all sides and angles must be equal. The sides of a rectangle are not equal."
+  },
+  {
+    "id": 101,
+    "question": "ஒரு முக்கோணத்தின் கோணம் 5:4:3 என்ற விகிதத்தில் இருந்தால் அதன் கோணமானது:",
+    "options": [
+      "50, 40, 30",
+      "60, 80, 40",
+      "50, 60, 70",
+      "75, 60, 45"
+    ],
+    "correct": 3,
+    "explanation": "முக்கோணத்தின் மூன்று கோணங்களின் கூடுதல் $180^\\circ$.\n$5x + 4x + 3x = 180^\\circ \\Rightarrow 12x = 180^\\circ \\Rightarrow x = 15^\\circ$.\nகோணங்கள் $5(15)=75^\\circ$, $4(15)=60^\\circ$, $3(15)=45^\\circ$.",
+    "question_en": "If the angles of a triangle are in the ratio 5:4:3 then its angle is:",
+    "options_en": [
+      "50, 40, 30",
+      "60, 80, 40",
+      "50, 60, 70",
+      "75, 60, 45"
+    ],
+    "explanation_en": "Addition of three angles of a triangle$180^\\circ$.\n $5x + 4x + 3x = 180^\\circ \\Rightarrow 12x = 180^\\circ \\Rightarrow x = 15^\\circ$.\nAngles$5(15)=75^\\circ$,$4(15)=60^\\circ$,$3(15)=45^\\circ$."
+  },
+  {
+    "id": 102,
+    "question": "கீழ்வருவனவற்றுள் எது முக்கோணத்தின் பக்கங்கள் அல்ல?",
+    "options": [
+      "2, 2, 5",
+      "3, 3, 5",
+      "4, 4, 5",
+      "2, 2, 3"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு முக்கோணத்தில் எவையேனும் இரு சிறிய பக்கங்களின் கூடுதல் மூன்றாவது பக்கத்தை விடப் பெரியதாக இருக்க வேண்டும். விருப்பம் 1-ல், $2 + 2 = 4 < 5$ என்பதால் இது முக்கோணத்தை அமைக்காது.",
+    "question_en": "Which of the following are not sides of a triangle?",
+    "options_en": [
+      "2, 2, 5",
+      "3, 3, 5",
+      "4, 4, 5",
+      "2, 2, 3"
+    ],
+    "explanation_en": "Any side in a triangle must be greater than the third side plus the two shorter sides. In option 1, it does not set the triangle because it is $2 + 2 = 4 < 5$."
+  },
+  {
+    "id": 103,
+    "question": "x- அச்சில் உள்ள புள்ளிகளின் y-மதிப்புகள்:",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "x-அச்சின் மீது அமைந்துள்ள அனைத்துப் புள்ளிகளுக்கும் y-அச்சுத் தொலைவு 0 ஆகும். $(x, 0)$.",
+    "question_en": "The y-values ​​of points on the x-axis are:",
+    "options_en": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "explanation_en": "The y-axis distance is 0 for all points lying on the x-axis.  $(x, 0)$."
+  },
+  {
+    "id": 104,
+    "question": "(x, y) முதல் கால்பகுதியில் உள்ளது எனில் (x, -y) அமைந்திருக்கும் கால்பகுதி:",
+    "options": [
+      "III",
+      "II",
+      "I",
+      "IV"
+    ],
+    "correct": 3,
+    "explanation": "முதல் கால்பகுதியில் $x, y$ இரண்டும் மிகை எண்கள் (+, +). எனவே $(x, -y)$ என்பது $(+, -)$ என மாறும். இது நான்காம் (IV) கால்பகுதியைக் குறிக்கும்.",
+    "question_en": "If (x, y) is in the first quadrant then the quadrant in which (x, -y) lies is:",
+    "options_en": [
+      "III",
+      "II",
+      "I",
+      "IV"
+    ],
+    "explanation_en": "$x, y$ in the first quarter are both super numbers (+, +). So$(x, -y)$becomes $(+, -)$. This represents the fourth (IV) quarter."
+  },
+  {
+    "id": 105,
+    "question": "இரட்டைப் பகா எண்களின் எண்ணிக்கை:",
+    "options": [
+      "0",
+      "2",
+      "1",
+      "இரண்டுக்கு மேலாக"
+    ],
+    "correct": 2,
+    "explanation": "பகா எண்களில் உள்ள ஒரே இரட்டைப்படை எண் '2' மட்டுமே. எனவே அதன் எண்ணிக்கை 1 ஆகும்.",
+    "question_en": "Number of even prime numbers:",
+    "options_en": [
+      "0",
+      "2",
+      "1",
+      "More than two"
+    ],
+    "explanation_en": "'2' is the only even number in prime numbers. So its count is 1."
+  },
+  {
+    "id": 106,
+    "question": "ஒரு எண்ணும் அதன் பெருக்கல் தலைகீழியும் அதே எண்ணாக அமையும் எனில் அவ்வெண்கள்:",
+    "options": [
+      "1 மற்றும் -1",
+      "1 மட்டும்",
+      "-1 மட்டும்",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "1-ன் தலைகீழி 1. $-1$-ன் தலைகீழி $-1$. எனவே இவ்விரு எண்களுக்கு மட்டுமே அதுவே பெருக்கல் தலைகீழியாக அமையும்.",
+    "question_en": "If a number and its product inverse are the same number, then the numbers are:",
+    "options_en": [
+      "1 and -1",
+      "1 only",
+      "-1 only",
+      "0"
+    ],
+    "explanation_en": "1 is the inverse of 1.$-1$is the inverse of$-1$. So for these two numbers only the same multiplication will be inverse."
+  },
+  {
+    "id": 107,
+    "question": "ஒரு வட்டத்தின் பெரிய நாணின் நீளம் 14 செ.மீ. எனில் அதன் சுற்றளவு மற்றும் பரப்பளவின் விகிதம்:",
+    "options": [
+      "7:2",
+      "1:2",
+      "2:7",
+      "2:1"
+    ],
+    "correct": 2,
+    "explanation": "வட்டத்தின் மிகப்பெரிய நாண் விட்டம் ஆகும். $d = 14$ செ.மீ, எனவே ஆரம் $r = 7$ செ.மீ.\nசுற்றளவு $= 2\\pi r$, பரப்பளவு $= \\pi r^2$.\nவிகிதம் $= \\frac{2\\pi r}{pi r^2} = \\frac{2}{r} = \\frac{2}{7}$.",
+    "question_en": "The length of major chord of a circle is 14 cm. If the ratio of its perimeter to its area is:",
+    "options_en": [
+      "7:2",
+      "1:2",
+      "2:7",
+      "2:1"
+    ],
+    "explanation_en": "The greatest chord of the circle is the diameter. $d = 14$cm, so radius$r = 7$cm.\nPerimeter$= 2\\pi r$, Area$= \\pi r^2$.\nRatio$= \\frac{2\\pi r}{pi r^2} = \\frac{2}{r} = \\frac{2}{7}$."
+  },
+  {
+    "id": 108,
+    "question": "கீழ்வருவனவற்றுள் எது தவறான கூற்று?",
+    "options": [
+      "ஒரு சதுரம் செவ்வகமாகும்.",
+      "ஒரு செவ்வகம் இணைகரமாகும்.",
+      "ஒரு சதுரம் சாய் சதுரமாகும்.",
+      "இணைகரத்தின் மூலை விட்டங்கள் எப்போதும் சமமாக இருக்கும்."
+    ],
+    "correct": 3,
+    "explanation": "ஒரு இணைகரத்தில் எதிரெதிர் பக்கங்கள் மட்டுமே சமமாக இருக்கும். மூலைவிட்டங்கள் எப்போதும் சமமாக இருக்க வேண்டிய அவசியமில்லை. செவ்வகம் மற்றும் சதுரத்தில் மட்டுமே அவை சமமாக இருக்கும்.",
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "A square is a rectangle.",
+      "A rectangle is parallelogram.",
+      "A square is an oblique square.",
+      "The diagonals of a parallelogram are always equal."
+    ],
+    "explanation_en": "Only opposite sides in a parallelogram are equal. Diagonals do not always have to be equal. They are equal only in rectangle and square."
+  },
+  {
+    "id": 109,
+    "question": "கீழ்வருவனவற்றில் எது ஒரு விகிதமுறு எண் இல்லை?",
+    "options": [
+      "0",
+      "$\\frac{1}{2}$",
+      "$\\sqrt{3}$",
+      "$-\\frac{1}{2}$"
+    ],
+    "correct": 2,
+    "explanation": "வர்க்கமூலம் காண முடியாத பகா எண்களின் மூலங்கள் விகிதமுறா எண்களாகும். $\\sqrt{3}$ ஒரு விகிதமுறா எண் (Irrational Number).",
+    "question_en": "Which of the following is not a rational number?",
+    "options_en": [
+      "0",
+      "$\\frac{1}{2}$",
+      "$\\sqrt{3}$",
+      "$-\\frac{1}{2}$"
+    ],
+    "explanation_en": "Roots of prime numbers whose square root cannot be found are irrational numbers. $\\sqrt{3}$is an Irrational Number."
+  },
+  {
+    "id": 110,
+    "question": "ஐந்தில் ஒரு பங்கின், மூன்றின் ஒரு பங்கின் இரு மடங்கு 6 எனில் அந்த எண்:",
+    "options": [
+      "90",
+      "45",
+      "180",
+      "360"
+    ],
+    "correct": 1,
+    "explanation": "அந்த எண் $x$ என்க. $2 \\times \\frac{1}{3} \\times \\frac{1}{5} \\times x = 6 \\Rightarrow \\frac{2x}{15} = 6 \\Rightarrow 2x = 90 \\Rightarrow x = 45$.",
+    "question_en": "If one-fifth, twice one-third is 6, then the number is:",
+    "options_en": [
+      "90",
+      "45",
+      "180",
+      "360"
+    ],
+    "explanation_en": "That number is called $x$.  $2 \\times \\frac{1}{3} \\times \\frac{1}{5} \\times x = 6 \\Rightarrow \\frac{2x}{15} = 6 \\Rightarrow 2x = 90 \\Rightarrow x = 45$."
+  },
+  {
+    "id": 111,
+    "question": "செயற்கை இழையால் ஆன ஒரு துண்டு துணியில் ஒரு காற்று நிரப்பப்பட்ட பலூனை தேய்த்து அதை ஒரு சுவற்றில் வைத்து அழுத்தினால், அந்த பலூனானது சுவற்றுடன் ஒட்டிக் கொள்வதை காணலாம். இதற்கு காரணமான விசை:",
+    "options": [
+      "காந்த விசை",
+      "தொடு விசை",
+      "சுவற்றிற்கும், பலூனிற்கும் இடையே உள்ள அழுத்தம்",
+      "நிலை மின்னியல் விசை"
+    ],
+    "correct": 3,
+    "explanation": "ஒரு பொருளை மற்றொரு பொருளுடன் தேய்க்கும்போது அதில் நிலை மின்னியல் விசை (Electrostatic force) உருவாகிறது. இதனால் பலூன் சுவரில் ஒட்டிக்கொள்கிறது.",
+    "question_en": "If you rub an air-filled balloon on a piece of synthetic fiber and press it against a wall, you will see that the balloon sticks to the wall. The key responsible for this is:",
+    "options_en": [
+      "Magnetic force",
+      "Touch key",
+      "Pressure between the wall and the balloon",
+      "Electrostatic force"
+    ],
+    "explanation_en": "When an object rubs against another object, an electrostatic force develops. This causes the balloon to stick to the wall."
+  },
+  {
+    "id": 112,
+    "question": "பாய்மம் எனப்படுவது:",
+    "options": [
+      "வாயுக்கள் மற்றும் திண்மங்கள்",
+      "நீர்மங்கள் மற்றும் திண்மங்கள்",
+      "வாயுக்கள் மற்றும் நீர்மங்கள்",
+      "வாயுக்கள், திண்மங்கள் மற்றும் நீர்மங்கள்"
+    ],
+    "correct": 2,
+    "explanation": "பாயும் தன்மை கொண்ட பொருள்கள் பாய்மங்கள் (Fluids) எனப்படும். வாயுக்கள் மற்றும் நீர்மங்கள் பாயும் தன்மை கொண்டவை.",
+    "question_en": "Flow is called:",
+    "options_en": [
+      "Gases and solids",
+      "Liquids and solids",
+      "Gases and liquids",
+      "Gases, Solids and Liquids"
+    ],
+    "explanation_en": "Objects that flow are called fluids. Gases and liquids are fluid."
+  },
+  {
+    "id": 113,
+    "question": "கூற்று: மேலிருந்து கீழே விழும் பொருள் ஒன்றின் திசைவேகம் கீழே வரவர அதிகரிக்கும்.\nகாரணம்: புவிப்பரப்பின் மீதுள்ள எல்லா பொருட்களின் மீதும் புவிஈர்ப்பு விசை செயல்படும்.",
+    "options": [
+      "கூற்று சரியானது ; காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு",
+      "காரணம் கூற்றை விளக்கவில்லை",
+      "காரணம் கூற்றை விளக்கியுள்ளது"
+    ],
+    "correct": 3,
+    "explanation": "புவியீர்ப்பு விசையின் முடுக்கத்தினால், ஒரு பொருள் கீழே விழும்போது அதன் திசைவேகம் சீராக அதிகரிக்கிறது. எனவே கூற்று சரி, காரணமும் சரி.",
+    "question_en": "Assertion: The velocity of an object falling from above increases as it descends.\nReason: Gravitational force acts on all objects on Earth's surface.",
+    "options_en": [
+      "The statement is correct; The reason is wrong",
+      "Both the statement and the reason are false",
+      "Reason does not explain the claim",
+      "Reason explains the claim"
+    ],
+    "explanation_en": "Due to the acceleration due to gravity, the velocity of an object increases steadily as it falls. So the statement is correct and the reason is also correct."
+  },
+  {
+    "id": 114,
+    "question": "ஒரு மை உறிஞ்சும் குழாயின் முனையை மையினுள் வைத்து அழுத்தும் பொழுது அதனுள் உள்ள காற்றானது குமிழாக வெளியேறுகிறது. அதன் அழுத்தத்தை நிறுத்தும் பொழுது மையானது உறிஞ்சு குழாயினுள் ஏறுகிறது. உறிஞ்சு குழாயினுள் மையானது ஏறுவதற்கு காரணம்:",
+    "options": [
+      "மையின் அழுத்தம்",
+      "புவிஈர்ப்பு விசை",
+      "உறிஞ்சு குழாயின் வடிவம்",
+      "வளிமண்டல அழுத்தம்"
+    ],
+    "correct": 3,
+    "explanation": "குழாயை அழுத்தும்போது உள்ளே வெற்றிடம் உருவாகிறது. அதை நிரப்ப வளிமண்டல அழுத்தம் (Atmospheric pressure) மையை உள்ளே தள்ளுகிறது.",
+    "question_en": "When the end of an ink suction tube is pressed into the ink, the air inside it bubbles out. When its pressure is released, the ink rises into the suction tube. Cause of ink build-up in the suction tube:",
+    "options_en": [
+      "Ink pressure",
+      "Gravity",
+      "Shape of suction tube",
+      "Atmospheric pressure"
+    ],
+    "explanation_en": "When the tube is compressed, a vacuum is created inside. Atmospheric pressure pushes the ink in to fill it."
+  },
+  {
+    "id": 115,
+    "question": "கீழ்கண்டவற்றுள் எது வழி அளவுகள் கிடையாது?",
+    "options": [
+      "பரப்பளவு",
+      "கனஅளவு",
+      "நீளம்",
+      "அடர்த்தி"
+    ],
+    "correct": 2,
+    "explanation": "நீளம், நிறை, காலம் போன்றவை அடிப்படை அளவுகள் (Fundamental quantities). பரப்பளவு, கனஅளவு, அடர்த்தி ஆகியவை வழி அளவுகள் (Derived quantities).",
+    "question_en": "Which of the following is not a path measure?",
+    "options_en": [
+      "area",
+      "volume",
+      "length",
+      "density"
+    ],
+    "explanation_en": "Fundamental quantities are length, mass, period etc. Area, volume, density are derived quantities."
+  },
+  {
+    "id": 116,
+    "question": "ஒரு பொருளின் நிறை 250 கி, அதற்கு கொடுக்கப்படும் விசையானது 50 N எனில் முடுக்கத்தின் மதிப்பு என்ன?",
+    "options": [
+      "$200~ms^{-2}$",
+      "$150~ms^{-2}$",
+      "$250~ms^{-2}$",
+      "$300~ms^{-2}$"
+    ],
+    "correct": 0,
+    "explanation": "நியூட்டனின் இரண்டாம் விதிப்படி, $F = ma$. \nஇங்கு $F = 50 N$, $m = 250 g = 0.25 kg$. \nமுடுக்கம் $a = 50 / 0.25 = 200~ms^{-2}$.",
+    "question_en": "If an object has a mass of 250 g and a force of 50 N is applied to it, what is the value of the acceleration?",
+    "options_en": [
+      "$200~ms^{-2}$",
+      "$150~ms^{-2}$",
+      "$250~ms^{-2}$",
+      "$300~ms^{-2}$"
+    ],
+    "explanation_en": "According to Newton's second law,$F = ma$. \nHere $F = 50 N$, $m = 250 g = 0.25 kg$. \nAcceleration$a = 50 / 0.25 = 200~ms^{-2}$."
+  },
+  {
+    "id": 117,
+    "question": "ஒரு தனிஊசலின் நீளம் அதிகரிக்கும் பொழுது அதன் அலைவு நேரம்:",
+    "options": [
+      "குறையும்",
+      "அதிகரிக்கும்",
+      "மாறாமல் இருக்கும்",
+      "அதிகரிக்கும் அல்லது குறையும்"
+    ],
+    "correct": 1,
+    "explanation": "தனி ஊசலின் அலைவு நேரம் அதன் நீளத்தின் வர்க்கமூலத்திற்கு நேர்த்தகவில் அமையும் ($T \\propto \\sqrt{l}$). எனவே நீளம் அதிகரித்தால் அலைவு நேரமும் அதிகரிக்கும்.",
+    "question_en": "As the length of a pendulum increases its period of oscillation is:",
+    "options_en": [
+      "decrease",
+      "will increase",
+      "will remain unchanged",
+      "increase or decrease"
+    ],
+    "explanation_en": "The time of oscillation of a single pendulum is proportional to the square root of its length ($T \\propto \\sqrt{l}$). So as the length increases the oscillation time also increases."
+  },
+  {
+    "id": 118,
+    "question": "முதன்மை மின்கலன்கள் (Primary Cells) பற்றிய சரியான கூற்று:\n(i) மின்னேற்றம் செய்ய இயலாதவை\n(ii) மீண்டும் பயன்படுத்த முடியாதவை\n(iii) மின்னேற்றம் செய்யவோ மீண்டும் பயன்படுத்தவோ முடியாதவை",
+    "options": [
+      "(i) சரி",
+      "(i) மற்றும் (ii) சரி",
+      "(ii) சரி",
+      "(iii) சரி"
+    ],
+    "correct": 3,
+    "explanation": "முதன்மை மின்கலன்களை (உதாரணம்: டார்ச் பேட்டரி) ஒருமுறை மட்டுமே பயன்படுத்த முடியும். அவற்றை மீண்டும் மின்னேற்றம் (Recharge) செய்து பயன்படுத்த முடியாது.",
+    "question_en": "Correct statement about Primary Cells:\n(i) Non-chargeable\n(ii) Non-reusable\n(iii) Non-rechargeable or reusable",
+    "options_en": [
+      "(i) Correct",
+      "(i) and (ii) are correct",
+      "(ii) Correct",
+      "(iii) Correct"
+    ],
+    "explanation_en": "Primary batteries (example: torch battery) can only be used once. They cannot be recharged and used."
+  },
+  {
+    "id": 119,
+    "question": "பின்வருவனவற்றுள் எது தவறான கூற்று?",
+    "options": [
+      "பொருள் ஒன்று எவ்வளவு சூடாக உள்ளது அல்லது எவ்வளவு குளிர்ச்சியாக உள்ளது என்பதை அளவிடுதலே வெப்பநிலை ஆகும்.",
+      "SI அலகு முறையில் வெப்பநிலையின் அலகு கெல்வின்.",
+      "செல்சியஸ் அளவீட்டு முறை 180 சம பிரிவுகளாகப் பிரிக்கப்பட்டுள்ளது.",
+      "$-273^\\circ C$ தனிச்சுழி என்றழைக்கப்படுகிறது."
+    ],
+    "correct": 2,
+    "explanation": "செல்சியஸ் அளவீட்டு முறை $0^\\circ C$ முதல் $100^\\circ C$ வரை 100 சம பிரிவுகளாகப் பிரிக்கப்பட்டுள்ளது. ஃபாரன்ஹீட் முறையே 180 பிரிவுகளைக் கொண்டது.",
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "Temperature is a measure of how hot or cold something is.",
+      "Kelvin is the unit of temperature in the SI system.",
+      "The Celsius scale is divided into 180 equal divisions.",
+      "$-273^\\circ C$ is called a discrete loop."
+    ],
+    "explanation_en": "The Celsius scale is divided into 100 equal divisions from$0^\\circ C$to $100^\\circ C$. Fahrenheit has 180 divisions respectively."
+  },
+  {
+    "id": 120,
+    "question": "பின்வருவனவற்றுள் எது SI அலகு முறைப்படி சரியானது?",
+    "options": [
+      "newton",
+      "joule",
+      "Kgs",
+      "M"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு அறிவியல் அறிஞரின் பெயரால் வழங்கப்படும் அலகுகளை முழுமையாக எழுதும்போது சிறிய எழுத்துகளிலேயே (lowercase) எழுத வேண்டும் (எ.கா: newton, joule).",
+    "question_en": "Which of the following is the correct SI unit system?",
+    "options_en": [
+      "newton",
+      "joule",
+      "Kgs",
+      "M"
+    ],
+    "explanation_en": "Units given by a scientist's name should be written in lowercase when written in full (eg: newton, joule)."
+  },
+  {
+    "id": 121,
+    "question": "ஒரு பரப்பின் மீது 50 N விசை செயல்பட்டு 25 $N/m^2$ அழுத்தத்தை ஏற்படுத்துகிறது எனில் அந்த பரப்பு எவ்வளவு?",
+    "options": [
+      "$5~m^2$",
+      "$10~m^2$",
+      "$2~m^2$",
+      "$15~m^2$"
+    ],
+    "correct": 2,
+    "explanation": "அழுத்தம் ($P$) = விசை ($F$) / பரப்பளவு ($A$).\n$25 = 50 / A \\Rightarrow A = 50 / 25 = 2~m^2$.",
+    "question_en": "If a force of 50 N acts on a surface and exerts a pressure of 25 $N/m^2$, what is the surface area?",
+    "options_en": [
+      "$5~m^2$",
+      "$10~m^2$",
+      "$2~m^2$",
+      "$15~m^2$"
+    ],
+    "explanation_en": "Pressure ($P$) = Force ($F$) / Area ($A$).\n $25 = 50 / A \\Rightarrow A = 50 / 25 = 2~m^2$."
+  },
+  {
+    "id": 122,
+    "question": "உராய்வு விசை எப்பொழுதும், பொருள் இயங்கும் திசைக்கு _________ செயல்படும்.",
+    "options": [
+      "நேர் திசையில்",
+      "எதிர் திசையில்",
+      "வெவ்வேறு திசைகளில்",
+      "அனைத்து திசைகளிலும்"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு பொருளின் இயக்கத்தை தடுக்கும் விதமாக, அது நகரும் திசைக்கு நேர் எதிர் திசையிலேயே உராய்வு விசை (Frictional force) செயல்படும்.",
+    "question_en": "The frictional force always acts _________ to the direction the object is moving.",
+    "options_en": [
+      "in the right direction",
+      "in the opposite direction",
+      "in different directions",
+      "in all directions"
+    ],
+    "explanation_en": "Frictional force acts in the direction opposite to the direction of motion of an object to prevent it from moving."
+  },
+  {
+    "id": 123,
+    "question": "ஒளி உமிழ் டையோடு என்பது _________ பொருட்களால் செய்யப்பட்டது.",
+    "options": [
+      "மின் கடத்தும்",
+      "குறை கடத்தி",
+      "மின்கடத்தா",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 1,
+    "explanation": "ஒளி உமிழ் டையோடுகள் (LED) காலியம், ஆர்சனைடு போன்ற குறை கடத்திப் (Semiconductors) பொருட்களால் உருவாக்கப்படுகின்றன.",
+    "question_en": "A light emitting diode is made of _________ materials.",
+    "options_en": [
+      "Electrically conductive",
+      "The fault carrier",
+      "Dielectric",
+      "All these"
+    ],
+    "explanation_en": "Light emitting diodes (LED) are made of semiconductor materials like gallium and arsenide."
+  },
+  {
+    "id": 124,
+    "question": "புவியில் ஆக்சிஜனுக்கு அடுத்து அதிக அளவில் உள்ள தனிமம் எது?",
+    "options": [
+      "ஹைட்ரஜன்",
+      "சிலிக்கான்",
+      "கார்பன்",
+      "நைட்ரஜன்"
+    ],
+    "correct": 1,
+    "explanation": "புவியின் மேலோட்டில் (Earth's crust) ஆக்சிஜனுக்கு (46.6%) அடுத்தபடியாக மிக அதிக அளவில் உள்ள தனிமம் சிலிக்கான் (27.7%) ஆகும்.",
+    "question_en": "Which is the most abundant element on earth after oxygen?",
+    "options_en": [
+      "Hydrogen",
+      "Silicon",
+      "Carbon",
+      "Nitrogen"
+    ],
+    "explanation_en": "Silicon (27.7%) is the second most abundant element in Earth's crust after oxygen (46.6%)."
+  },
+  {
+    "id": 125,
+    "question": "ஆல் கெமிஸ்டின் காலத்தில் நீரினை குறிக்கும் குறியீடு எது?",
+    "options": [
+      "தலைகீழ் முக்கோணம்",
+      "வட்டம்",
+      "சதுரம்",
+      "நேர் முக்கோணம்"
+    ],
+    "correct": 0,
+    "explanation": "இரசவாதிகள் (Alchemists) நீரைக் குறிக்க தலைகீழான முக்கோணக் குறியீட்டைப் பயன்படுத்தினர்.",
+    "question_en": "What was the symbol for water in Alchemist's time?",
+    "options_en": [
+      "Inverted triangle",
+      "Circle",
+      "Square",
+      "A right triangle"
+    ],
+    "explanation_en": "Alchemists used the inverted triangle symbol to represent water."
+  },
+  {
+    "id": 126,
+    "question": "பற்களை வலிமையாக வைத்திருக்கப் பற்பசையில் பயன்படுத்தப்படும் வாயு:",
+    "options": [
+      "ஆர்கான்",
+      "நியான்",
+      "ஃபுளூரின்",
+      "பாஸ்பரஸ்"
+    ],
+    "correct": 2,
+    "explanation": "பற்பசைகளில் பற்களின் எனாமல் சிதைவடைவதைத் தடுக்கவும், வலிமையாக்கவும் ஃபுளூரின் (Fluorine - Fluoride) பயன்படுத்தப்படுகிறது.",
+    "question_en": "Gas used in toothpaste to keep teeth strong:",
+    "options_en": [
+      "Argon",
+      "Neon",
+      "Fluorine",
+      "Phosphorus"
+    ],
+    "explanation_en": "Fluorine (Fluorine - Fluoride) is used in toothpastes to prevent decay of tooth enamel and make it stronger."
+  },
+  {
+    "id": 127,
+    "question": "டால்டன் அணுக்கொள்கை திருப்திகரமாக விளக்குகிறது...",
+    "options": [
+      "(i) மற்றும் (ii)",
+      "(i) மற்றும் (iii)",
+      "(ii) மற்றும் (iii)",
+      "(ii) மற்றும் (iv)"
+    ],
+    "correct": 0,
+    "explanation": "டால்டனின் அணுக்கொள்கை, பொருண்மை அழிவின்மை விதி (Conservation of mass) மற்றும் மாறா விகித விதி (Definite proportions) ஆகிய வேதிச்சேர்க்கை விதிகளைத் தெளிவாக விளக்குகிறது.",
+    "question_en": "Dalton satisfactorily explains the atomic theory...",
+    "options_en": [
+      "(i) and (ii)",
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(ii) and (iv)"
+    ],
+    "explanation_en": "Dalton's atomic theory clearly explains the chemical laws of conservation of mass and definite proportions."
+  },
+  {
+    "id": 128,
+    "question": "எதிர்மின்வாய்க் கதிர்கள் பற்றிய சரியான கூற்றுகளைத் தேர்ந்தெடுக்கவும்:\n(i) நேர்கோட்டில் இயங்குகின்றன.\n(ii) நேர்மின்சுமை பெற்றவை.\n(iii) நிறை மற்றும் இயக்க ஆற்றலை உடையவை.\n(iv) கால்வாய்க் கதிர்கள் என்றும் அழைக்கப்படும்.",
+    "options": [
+      "(i) மற்றும் (ii)",
+      "(iii) மற்றும் (iv)",
+      "(i) மற்றும் (iv)",
+      "(i) மற்றும் (iii)"
+    ],
+    "correct": 3,
+    "explanation": "எதிர்மின்வாய்க் கதிர்கள் நேர்க்கோட்டில் பயணிக்கக்கூடிய, நிறை மற்றும் இயக்க ஆற்றல் கொண்ட எதிர்மின்சுமை (Negative) துகள்களாகும். கால்வாய்க் கதிர்கள் என்பவை நேர்மின் கதிர்கள்.",
+    "question_en": "Select the correct statements about cathode rays:\n(i) Run in a straight line.\n(ii) are negatively charged.\n(iii) Possess mass and kinetic energy.\n(iv) Also called canal rays.",
+    "options_en": [
+      "(i) and (ii)",
+      "(iii) and (iv)",
+      "(i) and (iv)",
+      "(i) and (iii)"
+    ],
+    "explanation_en": "Electrons are negative particles with mass and kinetic energy that can travel in a straight line. Canal rays are electrons."
+  },
+  {
+    "id": 129,
+    "question": "தாவரங்கள் மற்றும் விலங்குகள் உருவான தனிமங்களுடன் அதன் சதவீதத்தை பொருத்துக:\n(a) ஆக்ஸிஜன் (i) 18%\n(b) கார்பன் (ii) 10%\n(c) நைட்ரஜன் (iii) 65%\n(d) ஹைட்ரஜன் (iv) 3%",
+    "options": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    ],
+    "correct": 0,
+    "explanation": "மனிதன் மற்றும் தாவர உடம்பில் உள்ள தனிமங்களின் தோராய சதவீதம்: ஆக்ஸிஜன் - 65%, கார்பன் - 18%, ஹைட்ரஜன் - 10%, நைட்ரஜன் - 3%.",
+    "question_en": "Match its percentage with the elements from which plants and animals are formed:\n(a) Oxygen (i) 18%\n(b) Carbon (ii) 10%\n(c) Nitrogen (iii) 65%\n(d) Hydrogen (iv) 3%",
+    "options_en": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    ],
+    "explanation_en": "Approximate percentage of elements in human and plant body: Oxygen - 65%, Carbon - 18%, Hydrogen - 10%, Nitrogen - 3%."
+  },
+  {
+    "id": 130,
+    "question": "சோடியம் ஹைட்ராக்ஸைடு + ஹைட்ரோகுளோரிக் அமிலம் $\\rightarrow$ ________ + வெப்பம்",
+    "options": [
+      "சோடியம் நைட்ரேட் மற்றும் சோடியம்",
+      "சோடியம் நைட்ரேட் மற்றும் ஆக்ஸிஜன்",
+      "சோடியம் குளோரைடு மற்றும் நீர்",
+      "சோடியம் குளோரைடு மற்றும் சோடியம்"
+    ],
+    "correct": 2,
+    "explanation": "இது ஒரு நடுநிலையாக்கல் வினை (Neutralization reaction). ஒரு காரமும் (NaOH) அமிலமும் (HCl) வினைபுரிந்து உப்பையும் (NaCl - சோடியம் குளோரைடு) நீரையும் தருகின்றன.",
+    "question_en": "sodium hydroxide + hydrochloric acid$\\rightarrow$________ + heat",
+    "options_en": [
+      "Sodium nitrate and sodium",
+      "sodium nitrate and oxygen",
+      "sodium chloride and water",
+      "Sodium chloride and sodium"
+    ],
+    "explanation_en": "It is a neutralization reaction. A base (NaOH) reacts with an acid (HCl) to give salt (NaCl - sodium chloride) and water."
+  },
+  {
+    "id": 131,
+    "question": "கீழ்கண்டவற்றுள் எது இணைதிறன் பூஜ்ஜியம் கொண்ட தனிமம் ஆகும்?",
+    "options": [
+      "துத்தநாகம்",
+      "கால்சியம்",
+      "ஹீலியம்",
+      "சோடியம்"
+    ],
+    "correct": 2,
+    "explanation": "மந்த வாயுக்கள் (எ.கா: ஹீலியம், நியான்) முழுமையடைந்த வெளிக்கூட்டைக் கொண்டுள்ளதால் அவற்றின் இணைதிறன் (Valency) பூஜ்ஜியம் ஆகும். அவை மற்ற தனிமங்களுடன் எளிதில் வினைபுரியாது.",
+    "question_en": "Which of the following is an element with zero capacitance?",
+    "options_en": [
+      "Zinc",
+      "Calcium",
+      "Helium",
+      "Sodium"
+    ],
+    "explanation_en": "Inert gases (eg: Helium, Neon) have zero valency as they have complete mass. They do not react easily with other elements."
+  },
+  {
+    "id": 132,
+    "question": "எண்ணெய் தீப்பற்றி எரியும்போது ________ பயன்படுத்தக் கூடாது.",
+    "options": [
+      "மண்",
+      "நீர்",
+      "கார்பன்-டை-ஆக்ஸைடு",
+      "நுரைப்பான்"
+    ],
+    "correct": 1,
+    "explanation": "எண்ணெய் நீரை விட அடர்த்தி குறைவானது என்பதால், நீரை ஊற்றினால் எண்ணெய் நீரின் மேல் மிதந்து நெருப்பு மேலும் பரவக் காரணமாகிவிடும்.",
+    "question_en": "________ should not be used in case of oil fire.",
+    "options_en": [
+      "Soil",
+      "Water",
+      "Carbon-dioxide",
+      "Foamer"
+    ],
+    "explanation_en": "Since oil is less dense than water, pouring water will cause the oil to float on top of the water and cause the fire to spread further."
+  },
+  {
+    "id": 133,
+    "question": "கூற்று (A): திண்மங்கள் நீரில் கரைகிறது.\nகாரணம் (R): பருப்பொருளில் உள்ள மூலக்கூறுகளுக்கு இடையே இடைவெளி உள்ளது.",
+    "options": [
+      "(A) சரி, (R) தவறு",
+      "(A) தவறு, (R) சரி",
+      "(A) மற்றும் (R) தவறு",
+      "(A) சரி, (R) -(A)-யை விளக்குகிறது"
+    ],
+    "correct": 3,
+    "explanation": "நீரில் உள்ள மூலக்கூறுகளுக்கு இடையேயான இடைவெளியில், கரையும் திண்மத்தின் மூலக்கூறுகள் சென்று நிரம்புவதாலேயே அவை கரைகின்றன. எனவே கூற்று மற்றும் காரணம் சரி.",
+    "question_en": "Statement (A): Solids dissolve in water.\nReason (R): Space exists between molecules in matter.",
+    "options_en": [
+      "(A) True, (R) False",
+      "(A) False, (R) Correct",
+      "(A) and (R) are wrong",
+      "(A) is correct, (R) explains -(A)."
+    ],
+    "explanation_en": "Water dissolves because the molecules of the solute fill the intermolecular spaces in water. So the statement and reason are correct."
+  },
+  {
+    "id": 134,
+    "question": "இரும்புத் துருப்பிடித்தல் என்பது ________ எரிதலுக்கு உதாரணம் ஆகும்.",
+    "options": [
+      "முற்றுப்பெறா",
+      "அதிவேகமாக",
+      "வேகமாக",
+      "மெதுவாக"
+    ],
+    "correct": 3,
+    "explanation": "இரும்பு துருப்பிடித்தல் (Rusting) என்பது பல நாட்கள் அல்லது மாதங்கள் நடைபெறக்கூடிய மிக மெதுவான ஆக்ஸிஜனேற்ற வினை (Slow combustion) ஆகும்.",
+    "question_en": "Rusting of iron is an example of ________ combustion.",
+    "options_en": [
+      "Don't finish",
+      "exponentially",
+      "faster",
+      "Slowly"
+    ],
+    "explanation_en": "Rusting is a very slow oxidation reaction that can take place over days or months."
+  },
+  {
+    "id": 135,
+    "question": "சுற்றுச்சூழலை பாதிக்காத எரிபொருள் எது?",
+    "options": [
+      "LPG",
+      "CNG",
+      "சாண எரிவாயு",
+      "நிலக்கரி வாயு"
+    ],
+    "correct": 1,
+    "explanation": "அழுத்தப்பட்ட இயற்கை எரிவாயு (CNG) எரியும்போது மிகக் குறைந்த அளவே மாசுகளை வெளியிடுவதால் இது சுற்றுச்சூழலை பாதிக்காத எரிபொருளாகக் கருதப்படுகிறது.",
+    "question_en": "Which fuel is environmentally friendly?",
+    "options_en": [
+      "LPG",
+      "CNG",
+      "Dung Gas",
+      "Coal gas"
+    ],
+    "explanation_en": "Compressed natural gas (CNG) is considered an environmentally friendly fuel as it emits very few pollutants when burned."
+  },
+  {
+    "id": 136,
+    "question": "நாக முலாம் பூசுதல் (Galvanisation) என்பது:",
+    "options": [
+      "குரோமியத்தை இரும்பின் மீது பூசுதல்",
+      "இரும்பின் மீது துத்தநாகத்தைப் பூசுதல்",
+      "வெள்ளீய உலோகத்தை இரும்பின் மீது பூசுதல்",
+      "வண்ணப்பூச்சு பூசுதல்"
+    ],
+    "correct": 1,
+    "explanation": "இரும்பு துருப்பிடிக்காமல் இருப்பதற்காக, அதன் மீது துத்தநாகத்தை (Zinc - நாகம்) ஒரு மெல்லிய படலமாகப் பூசும் முறைக்கு நாக முலாம் பூசுதல் என்று பெயர்.",
+    "question_en": "Galvanisation is:",
+    "options_en": [
+      "Chromium plating on iron",
+      "Zinc plating on iron",
+      "Plating silver metal on iron",
+      "Applying paint"
+    ],
+    "explanation_en": "Naga plating is the process of applying a thin layer of zinc on iron to prevent it from rusting."
+  },
+  {
+    "id": 137,
+    "question": "பொருத்துக:\n(a) பிகு (i) ரிக்ஸியா\n(b) பிளாஸ்மோடியம் (ii) ஆப்பிரிக்க உறக்க நோய்\n(c) டிரிப்னசோமோ (iii) மலேரியா\n(d) ஆல்காக்கள் (iv) அஸ்ஸாம்",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    ],
+    "correct": 2,
+    "explanation": "பிளாஸ்மோடியம் மலேரியாவையும், டிரிப்னோசோமா ஆப்பிரிக்க உறக்க நோயையும் ஏற்படுத்துகின்றன. பிகு என்பது அஸ்ஸாமின் புகழ்பெற்ற திருவிழா.",
+    "question_en": "Match:\n(a) Piku (i) Riksya\n(b) Plasmodium (ii) African sleeping sickness\n(c) Trypnazomo (iii) Malaria\n(d) Algae (iv) Assam",
+    "options_en": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    ],
+    "explanation_en": "Plasmodium causes malaria and Trypanosoma African sleeping sickness. Biku is a famous festival of Assam."
+  },
+  {
+    "id": 138,
+    "question": "பசுமை மாறாத அழகுத் தாவரம் எது?",
+    "options": [
+      "நீட்டம்",
+      "எபிட்ரா",
+      "ஆரக்கேரியா",
+      "பைன்"
+    ],
+    "correct": 2,
+    "explanation": "ஆரக்கேரியா (Araucaria) என்பது ஜிம்னோஸ்பெர்ம் வகையைச் சேர்ந்த ஒரு பசுமை மாறாத அழகுத் தாவரமாகும். இது வீடுகள் மற்றும் பூங்காக்களில் வளர்க்கப்படுகிறது.",
+    "question_en": "Which is an evergreen beauty plant?",
+    "options_en": [
+      "stretching",
+      "Epitra",
+      "Aracharia",
+      "Pine"
+    ],
+    "explanation_en": "Araucaria is an evergreen ornamental plant belonging to the gymnosperm family. It is grown in homes and parks."
+  },
+  {
+    "id": 139,
+    "question": "வயிற்றுப் பூச்சி அகற்றியாகப் பயன்படுகிறது:",
+    "options": [
+      "மார்ஸிலியா",
+      "லைகோபோடியம்",
+      "ஸைலோட்டம்",
+      "ட்ரயாப்டெரிஸ்"
+    ],
+    "correct": 3,
+    "explanation": "பெரணி வகையைச் சேர்ந்த ட்ரயாப்டெரிஸ் (Dryopteris) தாவரத்தின் வேர்கள் வயிற்றுப் புழுக்களை அழிக்கக் கூடிய குடற்புழு அகற்றியாக (Vermifuge) மருத்துவத்தில் பயன்படுகிறது.",
+    "question_en": "Used as dewormer:",
+    "options_en": [
+      "Marseille",
+      "Lycopodium",
+      "Psyllotum",
+      "Triopteris"
+    ],
+    "explanation_en": "The roots of the Dryopteris plant are used medicinally as a vermifuge to kill stomach worms."
+  },
+  {
+    "id": 140,
+    "question": "காற்றில்லா சுவாசத்திற்கு எடுத்துக்காட்டு:",
+    "options": [
+      "ஈஸ்ட்",
+      "தாவரங்கள்",
+      "விலங்குகள்",
+      "வைரஸ்"
+    ],
+    "correct": 0,
+    "explanation": "ஈஸ்ட் (Yeast) போன்ற பூஞ்சைகள் ஆக்ஸிஜன் இல்லாத நிலையிலும் காற்றில்லா சுவாசத்தை (Anaerobic respiration) மேற்கொண்டு ஆற்றலைப் பெறுகின்றன. இந்நிகழ்வு நொதித்தல் எனப்படும்.",
+    "question_en": "Example of anaerobic respiration:",
+    "options_en": [
+      "Yeast",
+      "Plants",
+      "Animals",
+      "Virus"
+    ],
+    "explanation_en": "Fungi like yeast obtain energy by carrying out anaerobic respiration even in the absence of oxygen. This process is called fermentation."
+  },
+  {
+    "id": 141,
+    "question": "மட்கிப்போகும் தன்மையுடைய பிளாஸ்டிக் பொருளின் வணிகப் பெயர்:",
+    "options": [
+      "பாலிஹைட்ராக்சி பியூட்டீரேட்",
+      "ஆல்காலிஜன்ஸ்",
+      "பாலிவினைல் குளோரைடு",
+      "நெகிழி"
+    ],
+    "correct": 0,
+    "explanation": "பாலிஹைட்ராக்சி பியூட்டீரேட் (PHB) என்பது இயற்கையாக மட்கிப்போகும் தன்மை கொண்ட உயிரிய பிளாஸ்டிக்கின் வணிகப் பெயராகும்.",
+    "question_en": "Trade Name of Biodegradable Plastic Product:",
+    "options_en": [
+      "Polyhydroxybutyrate",
+      "Alkaligens",
+      "Polyvinyl chloride",
+      "flexibility"
+    ],
+    "explanation_en": "Polyhydroxybutyrate (PHB) is the trade name for a naturally biodegradable bioplastic."
+  },
+  {
+    "id": 142,
+    "question": "செல்பிரிதலின் போது கதிர் நார்களையும், ஆஸ்ட்ரல் உறுப்புகளையும் உருவாக்குகிறது:",
+    "options": [
+      "மைட்டோகாண்டீரியா",
+      "சென்ட்ரியோல்",
+      "லைசோசோம்",
+      "ரிபோசோம்"
+    ],
+    "correct": 1,
+    "explanation": "விலங்கு செல்களில் உள்ள சென்ட்ரியோல்கள் (Centrioles) செல் பிரிதலின் போது கதிர் இழைகளையும் (Spindle fibres) ஆஸ்ட்ரல் கதிர்களையும் உருவாக்குகின்றன.",
+    "question_en": "During cell division it produces ray fibers and astral organs:",
+    "options_en": [
+      "Mitochondria",
+      "Centriole",
+      "lysosome",
+      "ribosome"
+    ],
+    "explanation_en": "Centrioles in animal cells produce spindle fibers and astral rays during cell division."
+  },
+  {
+    "id": 143,
+    "question": "கூற்று (A): கணையம் ஓர் எண்டோகிரைன் சுரப்பியாகும்.\nகாரணம் (R): லாங்கர்ஹான்ஸ் திட்டுகள் எக்ஸோகிரைன் சுரப்பியாகும்.",
+    "options": [
+      "(A) மற்றும் (R) இரண்டும் சரி.",
+      "(A) மற்றும் (R) இரண்டும் தவறு.",
+      "(A) சரி, (R) தவறு.",
+      "(A) தவறு, (R) சரி."
+    ],
+    "correct": 2,
+    "explanation": "கணையம் ஒரு நாளமுள்ள மற்றும் நாளமில்லாச் சுரப்பியாகச் செயல்படுகிறது. இதில் லாங்கர்ஹான்ஸ் திட்டுகள் (Islets of Langerhans) என்பவை ஹார்மோன்களைச் சுரக்கும் நாளமில்லாப் (Endocrine) பகுதியாகும். எனவே காரணம் தவறு.",
+    "question_en": "Assertion (A): Pancreas is an endocrine gland.\nReason (R): Langerhans patches are exocrine glands.",
+    "options_en": [
+      "Both (A) and (R) are correct.",
+      "Both (A) and (R) are wrong.",
+      "(A) True, (R) False.",
+      "(A) False, (R) Correct."
+    ],
+    "explanation_en": "The pancreas functions as both an endocrine and an endocrine gland. In this, the Islets of Langerhans are the endocrine part that secrete hormones. So the reason is wrong."
+  },
+  {
+    "id": 144,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "தவளை - மஸ்கா டொமஸ்டிகா",
+      "புறா - ரானா ஹெக்ஸாடக்டைலா",
+      "கரப்பான் பூச்சி - பெரிபிளாணட்டா அமெரிக்கானா",
+      "மனிதன் - கொலம்பாலிவியா"
+    ],
+    "correct": 2,
+    "explanation": "கரப்பான் பூச்சியின் விலங்கியல் பெயர் 'பெரிபிளாணட்டா அமெரிக்கானா' (Periplaneta Americana) என்பது சரியான இணையாம்.",
+    "question_en": "Choose the correct counterpart.",
+    "options_en": [
+      "Frog - Musca domestica",
+      "Pigeon - Rana hexadactyla",
+      "Cockroach - Periplanata americana",
+      "Man - Columbalivia"
+    ],
+    "explanation_en": "The zoological name of the cockroach is 'Periplaneta Americana' (Periplaneta Americana)."
+  },
+  {
+    "id": 145,
+    "question": "கீழ்க்குறிப்பிட்டுள்ள வினையை பூர்த்தி செய்யவும்.\nகுளுக்கோஸ் + உயிர்வளி $\\rightarrow$ ________ + ________ + ஆற்றல்.",
+    "options": [
+      "ஆக்ஸிஜன் + நீர்",
+      "கரியமில வாயு + நீர்",
+      "எத்தில் ஆல்கஹால் + நீர்",
+      "கரியமிலவாயு + ஆக்ஸிஜன்"
+    ],
+    "correct": 1,
+    "explanation": "செல் சுவாசத்தின் போது, குளுக்கோஸ் ஆக்ஸிஜனுடன் வினைபுரிந்து கரியமில வாயு (Carbon dioxide), நீர் மற்றும் அதிகப்படியான ஆற்றலை வெளியிடுகிறது.",
+    "question_en": "Complete the verb given below.\nGlucose + Vitality$\\rightarrow$________ + ________ + Energy.",
+    "options_en": [
+      "Oxygen + water",
+      "Carbon dioxide + water",
+      "Ethyl alcohol + water",
+      "Carbon dioxide + oxygen"
+    ],
+    "explanation_en": "During cellular respiration, glucose reacts with oxygen to release carbon dioxide, water and excess energy."
+  },
+  {
+    "id": 146,
+    "question": "கூற்று I: பிளாசி போர் கி.பி. 1757-ம் ஆண்டு நடைபெற்றது.\nகூற்று II: இப்போர் வங்காள நவாப் மற்றும் ஆங்கிலேயர்களுக்கிடையே நடைபெற்றது.",
+    "options": [
+      "கூற்று I மற்றும் II சரியானவை.",
+      "கூற்று I மற்றும் II தவறானவை.",
+      "கூற்று I சரி, கூற்று II தவறு.",
+      "கூற்று I தவறு, கூற்று II சரி."
+    ],
+    "correct": 0,
+    "explanation": "கி.பி. 1757-ல் நடைபெற்ற பிளாசி போரில், வங்காள நவாப் சிராஜ்-உத்-தௌலா ஆங்கிலேய கிழக்கிந்திய கம்பெனியால் தோற்கடிக்கப்பட்டார். இரு கூற்றுகளும் சரியானவை.",
+    "question_en": "Statement I: Battle of Plassey AD Held in 1757.\nAssertion II: This battle was fought between the Nawab of Bengal and the British.",
+    "options_en": [
+      "Statement I and II are correct.",
+      "Statements I and II are false.",
+      "Statement I is true and statement II is false.",
+      "Statement I is false, statement II is correct."
+    ],
+    "explanation_en": "AD In the Battle of Plassey in 1757, Nawab Siraj-ud-Daula of Bengal was defeated by the British East India Company. Both statements are correct."
+  },
+  {
+    "id": 147,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "பாபர்",
+      "ஹுமாயூன்",
+      "அக்பர்",
+      "ஷெர்ஷா"
+    ],
+    "correct": 3,
+    "explanation": "பாபர், ஹுமாயூன், அக்பர் மூவரும் முகலாயப் பேரரசர்கள். ஷெர்ஷா (Sher Shah) என்பவர் சூர் மரபைச் (Sur dynasty) சேர்ந்தவர்.",
+    "question_en": "Select the one that does not apply:",
+    "options_en": [
+      "Babar",
+      "Humayun",
+      "Akbar",
+      "Shersha"
+    ],
+    "explanation_en": "Babur, Humayun and Akbar were three Mughal emperors. Sher Shah belonged to the Sur dynasty."
+  },
+  {
+    "id": 148,
+    "question": "தாஜ்மஹாலைக் கட்டிய தலைமைச் சிற்பியின் பெயர்:",
+    "options": [
+      "ஜஹாங்கிர்",
+      "சர் தாமஸ் ரோ",
+      "மும்தாஜ்",
+      "உஸ்தாத் இஷா"
+    ],
+    "correct": 3,
+    "explanation": "ஷாஜகானால் கட்டப்பட்ட உலக அதிசயங்களில் ஒன்றான தாஜ்மஹாலை வடிவமைத்த தலைமைச் சிற்பி உஸ்தாத் இஷா (Ustad Isa) ஆவார்.",
+    "question_en": "Name of the Chief Sculptor who built the Taj Mahal:",
+    "options_en": [
+      "Jahangir",
+      "Sir Thomas Roe",
+      "Mumtaz",
+      "Ustad Isha"
+    ],
+    "explanation_en": "Ustad Isa was the chief architect who designed the Taj Mahal, one of the wonders of the world built by Shah Jahan."
+  },
+  {
+    "id": 149,
+    "question": "உலக பாரம்பரிய தினம் ஒவ்வொரு ஆண்டும் _________ தேதி கொண்டாடப்படுகிறது.",
+    "options": [
+      "நவம்பர் 14",
+      "செப்டம்பர் 5",
+      "ஏப்ரல் 18",
+      "நவம்பர் 20"
+    ],
+    "correct": 2,
+    "explanation": "வரலாற்றுச் சின்னங்கள் மற்றும் இடங்களைப் பாதுகாக்கும் விழிப்புணர்விற்காக ஒவ்வொரு ஆண்டும் ஏப்ரல் 18-ஆம் தேதி உலகப் பாரம்பரிய தினம் (World Heritage Day) கொண்டாடப்படுகிறது.",
+    "question_en": "World Heritage Day is celebrated every year on _________.",
+    "options_en": [
+      "November 14",
+      "September 5",
+      "April 18",
+      "November 20"
+    ],
+    "explanation_en": "World Heritage Day is celebrated on 18th April every year to raise awareness about the preservation of historical monuments and places."
+  },
+  {
+    "id": 150,
+    "question": "________ என்னும் நூலில் முகமது கஜினியின் பதினேழு படையெடுப்புகளைப் பற்றி எழுதுகிறார்.",
+    "options": [
+      "பிரம்ம குப்தர்",
+      "சர் ஹென்றி எலியட்",
+      "மானகா",
+      "பஹலா"
+    ],
+    "correct": 1,
+    "explanation": "சர் ஹென்றி எலியட் (Sir Henry Elliot) என்பவர் தான் எழுதிய 'இந்திய வரலாறு' என்ற நூலில் கஜினி முகமதுவின் 17 இந்தியப் படையெடுப்புகளைப் பற்றி விரிவாகக் குறிப்பிட்டுள்ளார்.",
+    "question_en": "Muhammad writes about seventeen invasions of Ghazni in ________.",
+    "options_en": [
+      "Brahma Gupta",
+      "Sir Henry Eliot",
+      "Manaka",
+      "Pahala"
+    ],
+    "explanation_en": "Sir Henry Elliot in his book 'History of India' has detailed the 17 invasions of India by Muhammad of Ghazni."
+  },
+  {
+    "id": 151,
+    "question": "'லக் பாக்ஷா' என அழைக்கப்பட்டவர்:",
+    "options": [
+      "குத்புத்தின் ஐபெக்",
+      "இல்துமிஷ்",
+      "பால்பன்",
+      "சுல்தானா இரசியா"
+    ],
+    "correct": 0,
+    "explanation": "குத்புத்தின் ஐபெக் தனது தாராள மனப்பான்மையால் லட்சக்கணக்கில் அள்ளிக் கொடுத்ததால் 'லாக் பக்‌ஷ்' (Lak Baksh - இலட்சங்களை வழங்குபவர்) என்று அழைக்கப்பட்டார்.",
+    "question_en": "Known as 'Luk Paksha':",
+    "options_en": [
+      "Ibek of Qutb",
+      "Iltumish",
+      "Balban",
+      "Sultana is Russia"
+    ],
+    "explanation_en": "Qutbuddin Ibek was known as 'Lak Baksh' (the giver of lakhs) because of his generosity in giving away lakhs."
+  },
+  {
+    "id": 152,
+    "question": "துக்ளக் ஆட்சியில் வேலைவாய்ப்பு அமைப்பை ஏற்படுத்தியவர்:",
+    "options": [
+      "முகமது பின் துக்ளக்",
+      "பிரோஸ் துக்ளக்",
+      "கியாசுதீன் துக்ளக்",
+      "நாசிர்-உத்-தீன் முகமது துக்ளக்"
+    ],
+    "correct": 1,
+    "explanation": "பிரோஸ் ஷா துக்ளக் வேலையில்லாத் திண்டாட்டத்தைப் போக்குவதற்காக வரலாற்றில் முதன்முறையாக வேலைவாய்ப்பு அலுவலகத்தை (Employment Bureau) உருவாக்கினார்.",
+    "question_en": "Who established employment system in Tughlaq rule:",
+    "options_en": [
+      "Muhammad bin Tughluq",
+      "Firoz Tughlaq",
+      "Ghiyasuddin Tughlaq",
+      "Nasir-ud-Din Muhammad Tughlaq"
+    ],
+    "explanation_en": "Firoz Shah Tughlaq created Employment Bureau for the first time in history to alleviate unemployment."
+  },
+  {
+    "id": 153,
+    "question": "விட்டலசாமி கோயில் ________ ஆட்சிக்காலத்தில் கட்டப்பட்டது.",
+    "options": [
+      "ஹரிஹரர்",
+      "இரண்டாம் தேவராயர்",
+      "முதலாம் தேவராயர்",
+      "கிருஷ்ண தேவராயர்"
+    ],
+    "correct": 3,
+    "explanation": "விஜயநகரப் பேரரசர் கிருஷ்ண தேவராயரின் ஆட்சிக் காலத்தில் ஹம்பியில் உள்ள புகழ்பெற்ற விட்டலசாமி கோயில் கட்டப்பட்டது.",
+    "question_en": "Vithalasamy Temple was built during the reign of ________.",
+    "options_en": [
+      "Harihar",
+      "Devaraya II",
+      "First Devarayara",
+      "Krishna Devaraya"
+    ],
+    "explanation_en": "The famous Vitthalasamy temple in Hampi was built during the reign of the Vijayanagara emperor Krishna Devaraya."
+  },
+  {
+    "id": 154,
+    "question": "கீழ்கண்டவற்றைக் காலகிரமப்படி வரிசைப்படுத்துக:\n(a) ரோஹில்லா போர்\n(b) இரண்டாவது ஆங்கில மைசூர் போர்\n(c) மங்களூர் உடன்படிக்கை\n(d) முதலாம் ஆங்கில மராத்தியப் போர்",
+    "options": [
+      "(a), (c), (b), (d)",
+      "(a), (d), (c), (b)",
+      "(a), (d), (b), (c)",
+      "(d), (b), (a), (c)"
+    ],
+    "correct": 2,
+    "explanation": "கால வரிசை: ரோஹில்லா போர் (1774), முதல் மராத்தியப் போர் (1775-82), இரண்டாம் மைசூர் போர் (1780-84), மங்களூர் உடன்படிக்கை (1784).",
+    "question_en": "Arrange the following in chronological order:\n(a) Rohilla War\n(b) Second Anglo-Mysore War\n(c) Mangalore Convention\n(d) First Anglo-Maratha War",
+    "options_en": [
+      "(a), (c), (b), (d)",
+      "(a), (d), (c), (b)",
+      "(a), (d), (b), (c)",
+      "(d), (b), (a), (c)"
+    ],
+    "explanation_en": "Chronology: Rohilla War (1774), First Maratha War (1775-82), Second Mysore War (1780-84), Treaty of Mangalore (1784)."
+  },
+  {
+    "id": 155,
+    "question": "பொருத்தமான இணைகளைத் தேர்ந்தெடுக்கவும்:\n(a) கரோஜ் வரி - (i) விளைச்சலில் 1/10 பங்கு\n(b) கம்ஸ் - (ii) போர்களில் கைப்பற்றியதில் 1/5 பங்கு\n(c) ஜெஸியா - (iii) இஸ்லாமிய மதச்சடங்கு வரி\n(d) ஜகாத் - (iv) தலை வரி",
+    "options": [
+      "(i) மற்றும் (iii)",
+      "(i) மற்றும் (ii)",
+      "(iii) மற்றும் (iv)",
+      "(i) மற்றும் (iv)"
+    ],
+    "correct": 1,
+    "explanation": "கரோஜ் என்பது விளைச்சலில் 1/10 பங்கு வரியாகும். கம்ஸ் என்பது போரில் கைப்பற்றிய பொருளில் 1/5 பங்கு வரியாகும். எனவே (i) மற்றும் (ii) சரியான இணைகள். (ஜெஸியா என்பது இஸ்லாமியர் அல்லாதோர் மீதான வரி).",
+    "question_en": "Select the appropriate parallels:\n(a) Karoj tax – (i) 1/10th share of produce\n(b) Cums – (ii) 1/5th share of captures in wars\n(c) Jezia – (iii) Islamic Ritual Tax\n(d) Zakat – (iv) Head tax",
+    "options_en": [
+      "(i) and (iii)",
+      "(i) and (ii)",
+      "(iii) and (iv)",
+      "(i) and (iv)"
+    ],
+    "explanation_en": "Karoj is a tax of 1/10th of the produce. Cums is a tax of 1/5th of the spoils of war. Hence (i) and (ii) are valid parallels. (Jeziya is a tax on non-Muslims)."
+  },
+  {
+    "id": 156,
+    "question": "பொருத்துக:\n(a) முதலாம் மகேந்திரவர்மன் - (i) மும்முடிச் சோழன்\n(b) முதலாம் நரசிம்மவர்மன் - (ii) சித்திரகாரப்புலி\n(c) இராஜராஜ சோழன் - (iii) கங்கை கொண்டான்\n(d) முதலாம் இராசேந்திரன் - (iv) வாதாபி கொண்டான்",
+    "options": [
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    ],
+    "correct": 1,
+    "explanation": "முதலாம் மகேந்திரவர்மன் - சித்திரகாரப்புலி; முதலாம் நரசிம்மவர்மன் - வாதாபிகொண்டான்; இராஜராஜ சோழன் - மும்முடிச் சோழன்; இராசேந்திர சோழன் - கங்கைகொண்டான்.",
+    "question_en": "Match:\n(a) Mahendravarman I - (i) Mummudic Chola\n(b) Narasimhavarman I - (ii) Chitrakarapuli\n(c) Rajaraja Chola - (iii) Ganga Kondan\n(d) Rajasendra I - (iv) Vadabi Kondan",
+    "options_en": [
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    ],
+    "explanation_en": "Mahendravarman I - Chitragarapuli; Narasimhavarman I - Vadaphikondan; Rajaraja Cholan - Mummudich Cholan; Rajendra Cholan - Gangaikondan."
+  },
+  {
+    "id": 157,
+    "question": "________ என்ற அரசர் 'முகமது பின் துக்ளக்' என்ற பட்டப்பெயர் பெற்றிருந்தார்.",
+    "options": [
+      "ஜுனாகான்",
+      "காஸிமாலிக்",
+      "பிரோஸ்",
+      "அபு பக்கர் ஷா"
+    ],
+    "correct": 0,
+    "explanation": "கியாசுதீன் துக்ளக்கின் மகனான ஜுனாகான் (Juna Khan) என்பவர் 'முகமது பின் துக்ளக்' என்ற பட்டப் பெயருடன் அரியணை ஏறினார்.",
+    "question_en": "King ________ had the title 'Muhammad bin Tughlaq'.",
+    "options_en": [
+      "Juna Khan",
+      "Kazimalic",
+      "Pros",
+      "Abu Bakr Shah"
+    ],
+    "explanation_en": "Qiyasuddin Tughlaq's son Juna Khan ascended the throne with the title 'Muhammad bin Tughlaq'."
+  },
+  {
+    "id": 158,
+    "question": "கீழடியில் மேற்கொள்ளப்பட்ட அகழ்வாராய்ச்சியில் கண்டெடுக்கப்பட்ட பொருள்கள் எந்த நூற்றாண்டினைச் சார்ந்தது?",
+    "options": [
+      "கி.மு.முதலாம் நூற்றாண்டு",
+      "கி.மு.இரண்டாம் நூற்றாண்டு",
+      "கி.மு.நான்காம் நூற்றாண்டு",
+      "கி.மு.ஆறாம் நூற்றாண்டு"
+    ],
+    "correct": 1,
+    "explanation": "கீழடி அகழ்வாராய்ச்சியில் (ஆரம்பகட்ட ஆய்வுகளின்படி) கண்டெடுக்கப்பட்ட பொருட்கள் கி.மு. 2-ஆம் நூற்றாண்டைச் சேர்ந்தவை என அறியப்பட்டது.",
+    "question_en": "To which century did the objects found in the excavations carried out below belong to?",
+    "options_en": [
+      "1st century BC",
+      "Second century BC",
+      "Fourth century BC",
+      "Sixth century BC"
+    ],
+    "explanation_en": "The material found in the underground excavations (according to preliminary studies) dates back to BC. Dated to the 2nd century AD."
+  },
+  {
+    "id": 159,
+    "question": "சாணக்யர் எழுதிய அர்த்தசாஸ்திரத்தில் குறிப்பிட்டுள்ள தமிழகத்தைச் சேர்ந்த ஊர் எது?",
+    "options": [
+      "தஞ்சாவூர்",
+      "மதுரை",
+      "வஞ்சி",
+      "காஞ்சி"
+    ],
+    "correct": 1,
+    "explanation": "மௌரியர் காலத்தில் சாணக்கியர் எழுதிய அர்த்தசாஸ்திரம் என்ற நூலில், தமிழகத்தின் பாண்டியத் தலைநகரான மதுரையைப் பற்றிய குறிப்புகள் இடம்பெற்றுள்ளன.",
+    "question_en": "Which town in Tamil Nadu is mentioned in Sanakya's Arthashastra?",
+    "options_en": [
+      "Thanjavur",
+      "Madurai",
+      "Banji",
+      "Kanji"
+    ],
+    "explanation_en": "In the Arthashastra written by Chanakya during the Mauryan period, there are references to Madurai, the Pandyan capital of Tamil Nadu."
+  },
+  {
+    "id": 160,
+    "question": "தவறான இணையைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "புஷ்மென் - ஆப்பிரிக்கா",
+      "ஜார்வாஸ் - அந்தமான் நிக்கோபார்",
+      "எஸ்கிமோஸ் - கனடா",
+      "பிக்மிக்கள் - அமேசான் வடிநிலப் பகுதி"
+    ],
+    "correct": 3,
+    "explanation": "பிக்மிக்கள் (Pygmies) மத்திய ஆப்பிரிக்காவின் காங்கோ வடிநிலப் பகுதியில் வாழும் பழங்குடியினராவர். எனவே அமேசான் என்பது தவறான இணை.",
+    "question_en": "Choose the wrong pair:",
+    "options_en": [
+      "Bushmen - Africa",
+      "Jarwas - Andaman Nicobar",
+      "Eskimos - Canada",
+      "Pygmies - Amazon Basin"
+    ],
+    "explanation_en": "Pygmies are a tribe living in the Congo Basin of Central Africa. So Amazon is a false counterpart."
+  },
+  {
+    "id": 161,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "பொட்டாஷ்",
+      "நைட்ரேட்",
+      "மைக்கா",
+      "ஹமடைட்"
+    ],
+    "correct": 3,
+    "explanation": "ஹேமடைட் (Hematite) என்பது இரும்பின் உலோகத் தாது (Metallic mineral) ஆகும். மற்ற மூன்றும் அலோக கனிமங்கள் ஆகும்.",
+    "question_en": "Select one that does not apply:",
+    "options_en": [
+      "Potash",
+      "Nitrate",
+      "Micah",
+      "Hamatite"
+    ],
+    "explanation_en": "Hematite is a metallic mineral of iron. The other three are metallic minerals."
+  },
+  {
+    "id": 162,
+    "question": "பூமியில் மிக அதிகப்படியான அழிவுகள் ஏற்படக் காரணமாக அமைவது:",
+    "options": [
+      "P-அலைகள்",
+      "S-அலைகள்",
+      "இரண்டாம் நிலை அலைகள்",
+      "L-அலைகள்"
+    ],
+    "correct": 3,
+    "explanation": "நிலநடுக்கத்தின் போது உருவாகும் L-அலைகள் (Love waves or Surface waves) புவிப்பரப்பின் மேல் பயணிப்பதால் அவை மிக அதிகப்படியான பொருட்சேதங்களை ஏற்படுத்துகின்றன.",
+    "question_en": "The most destructive causes on earth are:",
+    "options_en": [
+      "P-waves",
+      "S-waves",
+      "Secondary waves",
+      "L-waves"
+    ],
+    "explanation_en": "L-waves (Love waves or surface waves) generated during an earthquake travel over the Earth's surface and cause extensive damage."
+  },
+  {
+    "id": 163,
+    "question": "'பிரமாண்டமான பேராழி' என்று அழைக்கப்படுவது:",
+    "options": [
+      "பசிபிக் தட்டு",
+      "அண்டார்டிக் தட்டு",
+      "பெந்தலாசா",
+      "யுரேசிய தட்டு"
+    ],
+    "correct": 2,
+    "explanation": "மில்லியன் ஆண்டுகளுக்கு முன் உலக நிலப்பரப்பைச் சுற்றியிருந்த மாபெரும் ஒரே பெருங்கடல் 'பெந்தலாசா' (Panthalassa - Mega Ocean) என அழைக்கப்பட்டது.",
+    "question_en": "The so-called 'Great Apocalypse':",
+    "options_en": [
+      "Pacific plate",
+      "Antarctic Plate",
+      "Penthalasa",
+      "Eurasian plate"
+    ],
+    "explanation_en": "Millions of years ago the only giant ocean around the world was called 'Panthalassa' (Mega Ocean)."
+  },
+  {
+    "id": 164,
+    "question": "பீடப்பாறைகள் இப்படியும் அழைக்கப்படுகின்றன:",
+    "options": [
+      "லோயஸ்",
+      "பர்கான்கள்",
+      "காளான் பாறை",
+      "இன்சல்பார்க்குகள்"
+    ],
+    "correct": 2,
+    "explanation": "காற்றின் அரிப்பால் பாறைகளின் கீழ்ப்பகுதி அரிக்கப்பட்டு, மேற்பகுதி குடை போல விரிந்திருக்கும் பாறைகள் பீடப்பாறைகள் அல்லது காளான் பாறைகள் (Mushroom rocks) எனப்படுகின்றன.",
+    "question_en": "Pedestals are also called:",
+    "options_en": [
+      "Lois",
+      "Burgans",
+      "Mushroom rock",
+      "Insulparks"
+    ],
+    "explanation_en": "The lower part of the rocks eroded by wind erosion and the upper part is spread out like an umbrella are called mushroom rocks."
+  },
+  {
+    "id": 165,
+    "question": "பனியாறுகள் இல்லாத கண்டம் :",
+    "options": [
+      "வட அமெரிக்கா",
+      "தென் அமெரிக்கா",
+      "ஆஸ்திரேலியா",
+      "ஆப்பிரிக்கா"
+    ],
+    "correct": 2,
+    "explanation": "ஆஸ்திரேலியா கண்டம் மிதவெப்ப மற்றும் பாலைவன மண்டலங்களில் அமைந்துள்ளதால், அங்கு பனியாறுகள் (Glaciers) காணப்படுவதில்லை.",
+    "question_en": "Continent without glaciers:",
+    "options_en": [
+      "North America",
+      "South America",
+      "Australia",
+      "Africa"
+    ],
+    "explanation_en": "Because the continent of Australia is located in the temperate and desert zones, glaciers are not found there."
+  },
+  {
+    "id": 166,
+    "question": "இந்திய பெருங்கடலின் ஆழமான பகுதி எது?",
+    "options": [
+      "போர்ட்டோரிக்கோ அகழி",
+      "மரியானா அகழி",
+      "ஜாவா அகழி",
+      "தென் சான்ட்விச் அகழி"
+    ],
+    "correct": 2,
+    "explanation": "இந்தியப் பெருங்கடலின் மிக ஆழமான பகுதி ஜாவா அகழி (Java Trench or Sunda Trench) ஆகும். மரியானா அகழி பசிபிக் பெருங்கடலில் உள்ளது.",
+    "question_en": "Which is the deepest part of the Indian Ocean?",
+    "options_en": [
+      "Puerto Rico trench",
+      "Mariana Trench",
+      "Java trench",
+      "South Sandwich Ditch"
+    ],
+    "explanation_en": "The deepest part of the Indian Ocean is the Java Trench or Sunda Trench. The Mariana Trench is in the Pacific Ocean."
+  },
+  {
+    "id": 167,
+    "question": "முகில்கள் பனி விழும் நிலையை அடையும் போது உருவாகும் மழை?",
+    "options": [
+      "மலைத்தடை மழை",
+      "வெப்பச்சலன மழை",
+      "புயல் மழை",
+      "இவற்றில் ஏதுமில்லை"
+    ],
+    "correct": 1,
+    "explanation": "காற்று வெப்பமடைந்து மேலே சென்று பனிவிழு நிலையை அடைந்து குளிர்ந்து மழையாகப் பொழிவது வெப்பச்சலன மழை (Convectional rainfall) ஆகும்.",
+    "question_en": "The rain that forms when muggles reach the point where snow falls?",
+    "options_en": [
+      "Torrential rain",
+      "Convection rain",
+      "Stormy rain",
+      "None of these"
+    ],
+    "explanation_en": "Convectional rainfall is when the air warms up and rises to the level of snow, cools and falls as rain."
+  },
+  {
+    "id": 168,
+    "question": "ஒகேனஸ் என்பது:",
+    "options": [
+      "கடல் நீரின் இயற்பண்புகள் மற்றும் வேதித்தன்மை",
+      "உவர்நீரின் பெரும்பகுதி மற்றும் நீர்கோளத்தின் முதன்மையான கூட்டமைப்பு",
+      "உவர்ப்பியம்",
+      "கடல் நீரோட்டங்கள்"
+    ],
+    "correct": 1,
+    "explanation": "ஒகேனஸ் (Okeanus) என்ற கிரேக்க வார்த்தையிலிருந்து வந்த ஓசன் (Ocean) என்பது உவர்நீரின் பெரும்பகுதியைக் குறிக்கும் நீர்கோளத்தின் கூட்டமைப்பாகும்.",
+    "question_en": "Oceanus means:",
+    "options_en": [
+      "Properties and chemistry of sea water",
+      "Most of the salt water and primary conglomerate of the hydrosphere",
+      "Alkalinity",
+      "Ocean currents"
+    ],
+    "explanation_en": "Ocean, derived from the Greek word Okeanus, is a body of water that is mostly salt water."
+  },
+  {
+    "id": 169,
+    "question": "எரிமலைப் பரவலைப்பற்றி அறிந்து கொள்ள பயன்படும் கருவி :",
+    "options": [
+      "சீஸ்மோகிராஃப்",
+      "சாய்வு மாணி",
+      "போலோ மீட்டர்",
+      "காற்றழுத்தமாணி"
+    ],
+    "correct": 1,
+    "explanation": "எரிமலையின் மேற்பரப்பில் ஏற்படும் சாய்வு அல்லது விரிவடைதலை (Expansion) அளவிட சாய்வு மாணி (Tilt meter) என்ற கருவி பயன்படுகிறது.",
+    "question_en": "Tools used to study volcanism:",
+    "options_en": [
+      "Seismograph",
+      "Inclinometer",
+      "Polo meter",
+      "Barometer"
+    ],
+    "explanation_en": "A tilt meter is used to measure the inclination or expansion of the surface of the volcano."
+  },
+  {
+    "id": 170,
+    "question": "கன்னியாகுமரி மாவட்டத்தில் உள்ள ஆரல்வாய்மொழி என்னும் பகுதியில் உலகின் மிகப் பெரிய ________ உள்ளது.",
+    "options": [
+      "அணுசக்தி நிலையம்",
+      "காற்றாலை நிலையம்",
+      "நீர்மின் நிலையம்",
+      "அனல் மின் நிலையம்"
+    ],
+    "correct": 1,
+    "explanation": "கன்னியாகுமரி மாவட்டம் ஆரல்வாய்மொழி மற்றும் முப்பந்தல் பகுதிகளில் உலகின் மிகப்பெரிய காற்றாலை மின் உற்பத்தி நிலையங்கள் (Wind farms) அமைந்துள்ளன.",
+    "question_en": "Aralvaimozhi in Kanyakumari district has the largest ________ in the world.",
+    "options_en": [
+      "Nuclear power plant",
+      "Wind station",
+      "Hydroelectric power station",
+      "Thermal Power Station"
+    ],
+    "explanation_en": "World's largest wind power plants (Wind farms) are located in Aralvaimozhi and Muppanthal areas of Kanyakumari district."
+  },
+  {
+    "id": 171,
+    "question": "நார்ட் என்பது ________ நாட்டின் குளிர் தலக் காற்றாகும்.",
+    "options": [
+      "மெக்சிகோ வளைகுடா",
+      "இரஷ்யா",
+      "மத்திய ஆப்பிரிக்கா",
+      "அர்ஜென்டைனா"
+    ],
+    "correct": 0,
+    "explanation": "நார்ட் (Norte) என்பது மெக்சிகோ வளைகுடாப் பகுதிகளில் வீசும் ஒரு மிகவும் குளிர்ந்த உள்ளூர்க் காற்றாகும்.",
+    "question_en": "Nord is the cold headwind of ________ country.",
+    "options_en": [
+      "Gulf of Mexico",
+      "Russia",
+      "Central Africa",
+      "Argentina"
+    ],
+    "explanation_en": "The Norte is a very cold local wind that blows over the Gulf of Mexico."
+  },
+  {
+    "id": 172,
+    "question": "செப்டம்பர் 2018 -ல் சுனாமியால் மிகவும் பாதிப்படைந்த நாடு :",
+    "options": [
+      "இந்தியா",
+      "ஜப்பான்",
+      "இலங்கை",
+      "இந்தோனேஷியா"
+    ],
+    "correct": 3,
+    "explanation": "செப்டம்பர் 2018-ல் இந்தோனேசியாவின் சுலவேசி (Sulawesi) தீவில் ஏற்பட்ட கடுமையான நிலநடுக்கம் மற்றும் சுனாமியால் அந்நாடு பெரும் பாதிப்படைந்தது.",
+    "question_en": "Most affected country by Tsunami in September 2018 :",
+    "options_en": [
+      "India",
+      "Japan",
+      "Sri Lanka",
+      "Indonesia"
+    ],
+    "explanation_en": "In September 2018, the Indonesian island of Sulawesi was hit hard by a severe earthquake and tsunami."
+  },
+  {
+    "id": 173,
+    "question": "கீழ்கண்டவற்றை கடல் மட்டத்திலிருந்து ஏறுவரிசையில் வரிசைப்படுத்தவும்:",
+    "options": [
+      "கீற்று மேகங்கள், படைமேகங்கள், திரள் மேகங்கள்",
+      "திரள் மேகங்கள், கீற்று மேகங்கள், படைமேகங்கள்",
+      "படைமேகங்கள், திரள் மேகங்கள், கீற்று மேகங்கள்",
+      "படைமேகங்கள், கீற்று மேகங்கள், திரள் மேகங்கள்"
+    ],
+    "correct": 2,
+    "explanation": "கீழிருந்து மேலாக மேகங்களின் வரிசை: கீழ்மட்ட மேகங்கள் (படைமேகங்கள் - Stratus), நடுத்தர மேகங்கள் (திரள் மேகங்கள் - Cumulus), மற்றும் உயர்மட்ட மேகங்கள் (கீற்று மேகங்கள் - Cirrus).",
+    "question_en": "Arrange the following in ascending order from sea level:",
+    "options_en": [
+      "Cirrus clouds, cumulonimbus clouds, cumulus clouds",
+      "Cumulonimbus clouds, cumulus clouds, cumulonimbus clouds",
+      "Cumulus clouds, cumulus clouds, and cirrus clouds",
+      "Cumulus clouds, cumulus clouds, cumulus clouds"
+    ],
+    "explanation_en": "The order of clouds from bottom to top: low-level clouds (Stratus), middle clouds (Cumulus), and high-level clouds (Cirrus)."
+  },
+  {
+    "id": 174,
+    "question": "பொருத்துக:\n(a) அரசியலமைப்பு நடைமுறைக்கு வந்த நாள் - (i) டிசம்பர் 9, 1946\n(b) அரசியல் நிர்ணய சபையின் முதல் கூட்டம் - (ii) ஜனவரி 26, 1930\n(c) பூரண சுயராஜ்ய தினம் - (iii) ஆகஸ்டு 29, 1947\n(d) அம்பேத்கார் வரைவுக்குழு தலைவராக நியமனம் - (iv) ஜனவரி 26, 1950",
+    "options": [
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+    ],
+    "correct": 2,
+    "explanation": "அரசியலமைப்பு நடைமுறைக்கு வந்த நாள் - ஜனவரி 26, 1950. நிர்ணய சபையின் முதல் கூட்டம் - டிசம்பர் 9, 1946. பூரண சுயராஜ்யம் - ஜனவரி 26, 1930. வரைவுக்குழு அமைப்பு - ஆகஸ்ட் 29, 1947.",
+    "question_en": "Match:\n(a) Date of coming into force of the Constitution – (i) December 9, 1946\n(b) First meeting of the Constituent Assembly - (ii) January 26, 1930\n(c) Purana Swarajya Day – (iii) August 29, 1947\n(d) Appointment of Ambedkar as Chairman of the Drafting Committee – (iv) January 26, 1950",
+    "options_en": [
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+    ],
+    "explanation_en": "Constitution came into force - January 26, 1950. First meeting of Constituent Assembly - December 9, 1946. Full Self-Government - January 26, 1930. Constitution of Drafting Committee - August 29, 1947."
+  },
+  {
+    "id": 175,
+    "question": "2018 ம் ஆண்டில் ஐ.நா.வின் மனித உரிமைகள் சபைக்கு அதிக வாக்குகள் வித்தியாசத்தில் தேர்ந்தெடுக்கப்பட்ட உறுப்பினர் நாடு எது?",
+    "options": [
+      "வங்கதேசம்",
+      "நேபாளம்",
+      "சீனா",
+      "இந்தியா"
+    ],
+    "correct": 3,
+    "explanation": "2018 ஆம் ஆண்டு அக்டோபரில் நடைபெற்ற ஐ.நா மனித உரிமைகள் கவுன்சில் தேர்தலில் இந்தியா மிக அதிக வாக்குகளைப் (188 வாக்குகள்) பெற்று உறுப்பினராகத் தேர்ந்தெடுக்கப்பட்டது.",
+    "question_en": "Which member country was elected to the UN Human Rights Council by the highest margin in 2018?",
+    "options_en": [
+      "Bangladesh",
+      "Nepal",
+      "China",
+      "India"
+    ],
+    "explanation_en": "India was elected as a member of the UN Human Rights Council in October 2018 with the highest number of votes (188 votes)."
+  },
+  {
+    "id": 176,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "ஐ.நா. தினம் - மார்ச் 8",
+      "சர்வதேச பெண்கள் தினம் - நவம்பர் 19",
+      "மனித உரிமைகள் தினம் - டிசம்பர் 10",
+      "தேசிய ஒருமைப்பாட்டு தினம் - அக்டோபர் 24"
+    ],
+    "correct": 2,
+    "explanation": "ஒவ்வொரு ஆண்டும் டிசம்பர் 10 ஆம் தேதி சர்வதேச மனித உரிமைகள் தினமாகக் கொண்டாடப்படுகிறது. இதுவே சரியான இணையாகும்.",
+    "question_en": "Choose the correct counterpart:",
+    "options_en": [
+      "UN Day – March 8",
+      "International Women's Day - November 19",
+      "Human Rights Day – 10 December",
+      "National Unity Day - 24 October"
+    ],
+    "explanation_en": "International Human Rights Day is celebrated on 10th December every year. This is the exact parallel."
+  },
+  {
+    "id": 177,
+    "question": "கீழ் குறிப்பிட்டுள்ளவற்றில் சரியான கூற்றைத் தேர்வு செய்யவும்?\n(a) பொதுப்பேரவை \"மனித இன பாராளுமன்றம்\" என அழைக்கப்படுகிறது.\n(b) பன்னாட்டு நீதிமன்றம் உலக நீதிமன்றம் என்றும் அழைக்கப்படுகிறது.",
+    "options": [
+      "(a) சரி (b) தவறு",
+      "(a) மற்றும் (b) இரண்டும் சரி.",
+      "(a) தவறு (b) சரி.",
+      "(a) மற்றும் (b) இரண்டும் தவறு."
+    ],
+    "correct": 1,
+    "explanation": "ஐ.நா பொதுச்சபையானது 'மனித இனத்தின் பாராளுமன்றம்' எனவும், பன்னாட்டு நீதிமன்றமானது 'உலக நீதிமன்றம்' எனவும் அழைக்கப்படுகின்றன. இரு கூற்றுகளும் சரியானவை.",
+    "question_en": "Choose the correct statement from the following?\n(a) The General Assembly shall be known as the \"Parliament of Mankind\".\n(b) International Court of Justice is also known as World Court.",
+    "options_en": [
+      "(a) True (b) False",
+      "Both (a) and (b) are correct.",
+      "(a) False (b) True.",
+      "Both (a) and (b) are wrong."
+    ],
+    "explanation_en": "The UN General Assembly is called the 'Parliament of Mankind' and the International Court of Justice is called the 'World Court'. Both statements are correct."
+  },
+  {
+    "id": 178,
+    "question": "3.10.2018 அன்று நியமனம் செய்யப்பட்ட இந்தியாவின் தலைமை நீதிபதி யார்?",
+    "options": [
+      "நீதியரசர் ரஞ்சன் கோகாய்",
+      "நீதியரசர் தீபக் மிஸ்ரா",
+      "நீதியரசர் P. சதாசிவம்",
+      "நீதியரசர் H.L. தத்து"
+    ],
+    "correct": 0,
+    "explanation": "3 அக்டோபர் 2018 அன்று இந்தியாவின் 46-வது தலைமை நீதிபதியாக நீதியரசர் ரஞ்சன் கோகாய் (Ranjan Gogoi) பதவியேற்றார்.",
+    "question_en": "Who is the Chief Justice of India appointed on 3.10.2018?",
+    "options_en": [
+      "Justice Ranjan Gogai",
+      "Justice Dipak Misra",
+      "Justice P. Sathasivam",
+      "Justice H.L. Tattu"
+    ],
+    "explanation_en": "Justice Ranjan Gogoi was sworn in as the 46th Chief Justice of India on 3 October 2018."
+  },
+  {
+    "id": 179,
+    "question": "GST வரிவிதிப்பிற்குள் வராத பொருளின் பெயரைக் கூறுக:",
+    "options": [
+      "ஒப்பனை பொருட்கள்",
+      "உணவுப் பொருட்கள்",
+      "மருந்துகள்",
+      "பெட்ரோல்"
+    ],
+    "correct": 3,
+    "explanation": "பெட்ரோல், டீசல், மதுபானம் மற்றும் மின்சாரம் ஆகியவை இந்தியாவில் சரக்கு மற்றும் சேவை வரி (GST) விதிப்பிற்குள் கொண்டுவரப்படவில்லை.",
+    "question_en": "Name the item that does not come under GST levy:",
+    "options_en": [
+      "Cosmetic products",
+      "Foodstuffs",
+      "Medicines",
+      "Petrol"
+    ],
+    "explanation_en": "Petrol, diesel, liquor and electricity are not brought under the Goods and Services Tax (GST) regime in India."
+  },
+  {
+    "id": 180,
+    "question": "\"நாடுகளின் செல்வமும் அவற்றின் இயல்புகளும் ஓர் ஆய்வு\" என்ற நூலை எழுதியவர்:",
+    "options": [
+      "ஆடம் ஸ்மித்",
+      "இலயனல் ராபின்ஸ்",
+      "ஸ்கின்னர்",
+      "ஆல்பர்ட் மார்ஷல்"
+    ],
+    "correct": 0,
+    "explanation": "'நாடுகளின் செல்வம்' (Wealth of Nations - 1776) என்ற புகழ்பெற்ற பொருளாதார நூலை எழுதியவர் பொருளியலின் தந்தை ஆடம் ஸ்மித் (Adam Smith) ஆவார்.",
+    "question_en": "Author of \"The Wealth of Nations and their Nature a Study\" :",
+    "options_en": [
+      "Adam Smith",
+      "Lionel Robbins",
+      "Skinner",
+      "Albert Marshall"
+    ],
+    "explanation_en": "Adam Smith, the father of economics, wrote the famous economic book 'Wealth of Nations' (1776)."
+  }
+]

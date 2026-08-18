@@ -1,0 +1,1742 @@
+[
+  {
+    "id": 1,
+    "question": "தொடக்க இடைக்கால இந்திய வரலாற்று காலம் என்பது ________.",
+    "options": [
+      "கி.பி. 700 முதல் 1200 வரை",
+      "கி.பி. 600 முதல் 1100 வரை",
+      "கி.பி. 500 முதல் 1000 வரை",
+      "கி.பி. 800 முதல் 1300 வரை"
+    ],
+    "correct": 0,
+    "question_en": "Early medieval period of Indian history is ________.",
+    "options_en": [
+      "AD 700 to 1200",
+      "AD 600 to 1100",
+      "AD 500 to 1000",
+      "AD 800 to 1300"
+    ],
+    "explanation": "தொடக்க இடைக்கால இந்திய வரலாற்று காலம் என்பது கி.பி. 700 முதல் 1200 வரை.",
+    "explanation_en": "Early medieval period of Indian history is AD 700 to 1200."
+  },
+  {
+    "id": 2,
+    "question": "பின் இடைக்கால இந்திய வரலாற்று காலம் என்பது ________.",
+    "options": [
+      "கி.பி. 1000 முதல் 1500 வரை",
+      "கி.பி. 1100 முதல் 1600 வரை",
+      "கி.பி. 1200 முதல் 1700 வரை",
+      "கி.பி. 1300 முதல் 1800 வரை"
+    ],
+    "correct": 2,
+    "question_en": "The period of post-medieval Indian history is ________.",
+    "options_en": [
+      "AD 1000 to 1500",
+      "AD 1100 to 1600",
+      "AD 1200 to 1700",
+      "AD 1300 to 1800"
+    ],
+    "explanation": "பின் இடைக்கால இந்திய வரலாற்று காலம் என்பது கி.பி. 1200 முதல் 1700 வரை.",
+    "explanation_en": "The period of post-medieval Indian history is AD 1200 to 1700."
+  },
+  {
+    "id": 3,
+    "question": "இடைக்கால இந்திய வரலாற்றை கற்கும் அறிஞர்களுக்கு நல்வாய்ப்பாக கிடைக்கப் பெற்றவை ________.",
+    "options": [
+      "பணம்",
+      "சான்றுகள்",
+      "மனிதர்கள்",
+      "விலங்குகள்"
+    ],
+    "correct": 1,
+    "question_en": "Scholars studying medieval Indian history have found ________.",
+    "options_en": [
+      "Money",
+      "evidences",
+      "Human beings",
+      "Animals"
+    ],
+    "explanation": "இடைக்கால இந்திய வரலாற்றை கற்கும் அறிஞர்களுக்கு நல்வாய்ப்பாக கிடைக்கப் பெற்றவை சான்றுகள்.",
+    "explanation_en": "Scholars studying medieval Indian history have found evidences."
+  },
+  {
+    "id": 4,
+    "question": "அதிக செய்திகளை வழங்கும் இடைக்கால இந்திய வரலாற்றுச் சான்றுகள் ________.",
+    "options": [
+      "கல்வெட்டுகள்",
+      "கட்டடங்கள்",
+      "இலக்கியங்கள்",
+      "பயணக்குறிப்புகள்"
+    ],
+    "correct": 0,
+    "question_en": "Medieval Indian historical evidence that provides the most information is ________.",
+    "options_en": [
+      "inscriptions",
+      "Buildings",
+      "Literature",
+      "travel tips"
+    ],
+    "explanation": "அதிக செய்திகளை வழங்கும் இடைக்கால இந்திய வரலாற்றுச் சான்றுகள் கல்வெட்டுகள்.",
+    "explanation_en": "Medieval Indian historical evidence that provides the most information is inscriptions."
+  },
+  {
+    "id": 5,
+    "question": "ஔரங்கசீப்பின் அவைக்கள வரலாற்று அறிஞராக இருந்தவர் ________.",
+    "options": [
+      "காஃபிகான்",
+      "நேதாஜி",
+      "வாஸ்கோடகாமா",
+      "அக்பர்"
+    ],
+    "correct": 0,
+    "question_en": "Aurangzeb's court historian was ________.",
+    "options_en": [
+      "Cafficon",
+      "Netaji",
+      "Vasco da Gama",
+      "Akbar"
+    ],
+    "explanation": "ஔரங்கசீப்பின் அவைக்கள வரலாற்று அறிஞராக இருந்தவர் காஃபிகான்.",
+    "explanation_en": "Aurangzeb's court historian was Cafficon."
+  },
+  {
+    "id": 6,
+    "question": "விசுவாசம் உள்ளவராக இருத்தல், ஆபத்துக்கு அஞ்சாமை ஆகியவை வரலாற்று ஆசிரியரின் கடமைகள் என்று கூறியவர் ________.",
+    "options": [
+      "ஔரங்கசீப்",
+      "நேதாஜி",
+      "காஃபிகான்",
+      "ஜஹாங்கீர்"
+    ],
+    "correct": 2,
+    "question_en": "________ who said that the duties of a historian are to be faithful and not afraid of danger.",
+    "options_en": [
+      "Aurangzeb",
+      "Netaji",
+      "Cafficon",
+      "Jahangir"
+    ],
+    "explanation": "விசுவாசம் உள்ளவராக இருத்தல், ஆபத்துக்கு அஞ்சாமை ஆகியவை வரலாற்று ஆசிரியரின் கடமைகள் என்று கூறியவர் காஃபிகான்.",
+    "explanation_en": "Cafficon who said that the duties of a historian are to be faithful and not afraid of danger."
+  },
+  {
+    "id": 7,
+    "question": "கடந்த காலத்தை மறுகட்டுமானம் செய்வதற்கு உதவக்கூடிய பதிவுகளே ________ எனப்படும்.",
+    "options": [
+      "கடமைகள்",
+      "சான்றுகள்",
+      "உரிமைகள்",
+      "கூற்றுகள்"
+    ],
+    "correct": 1,
+    "question_en": "Records that help reconstruct the past are called ________.",
+    "options_en": [
+      "Duties",
+      "evidences",
+      "rights",
+      "Claims"
+    ],
+    "explanation": "கடந்த காலத்தை மறுகட்டுமானம் செய்வதற்கு உதவக்கூடிய பதிவுகளே சான்றுகள் எனப்படும்.",
+    "explanation_en": "Records that help reconstruct the past are called evidences."
+  },
+  {
+    "id": 8,
+    "question": "சான்றுகள் உதவியுடன் நாம் ________, பொருளாதார, சமூக பண்பாட்டு வளர்ச்சி ஆகிய விவரங்களை திறனாய்வு செய்கிறோம்.",
+    "options": [
+      "அரசியல்",
+      "சினிமா",
+      "கல்வி",
+      "கூற்றுகள்"
+    ],
+    "correct": 0,
+    "question_en": "With the help of evidence we analyze the details of ________, economic, socio-cultural development.",
+    "options_en": [
+      "Politics",
+      "Cinema",
+      "Education",
+      "Claims"
+    ],
+    "explanation": "சான்றுகள் உதவியுடன் நாம் அரசியல், பொருளாதார, சமூக பண்பாட்டு வளர்ச்சி ஆகிய விவரங்களை திறனாய்வு செய்கிறோம்.",
+    "explanation_en": "With the help of evidence we analyze the details of Politics, economic, socio-cultural development."
+  },
+  {
+    "id": 9,
+    "question": "இந்திய வரலாற்றை அறிய உதவும் சான்றுகள் ________ வகைப்படும்.",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correct": 0,
+    "question_en": "Evidences which help to know Indian history are classified as ________.",
+    "options_en": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "explanation": "இந்திய வரலாற்றை அறிய உதவும் சான்றுகள் இரண்டு வகைப்படும்.",
+    "explanation_en": "Evidences which help to know Indian history are classified as Two."
+  },
+  {
+    "id": 10,
+    "question": "கீழ்க்கண்டவற்றுள் எது முதல்நிலைச் சான்றுகளுள் ஒன்று அல்ல?",
+    "options": [
+      "பொறிப்புகள்",
+      "கல்வெட்டுகள்",
+      "நாணயங்கள்",
+      "சுயசரிதைகள்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not one of the prima facie evidence?",
+    "options_en": [
+      "engravings",
+      "inscriptions",
+      "Coins",
+      "Biographies"
+    ],
+    "explanation": "சுயசரிதைகள்",
+    "explanation_en": "Biographies is not one of the prima facie evidence."
+  },
+  {
+    "id": 11,
+    "question": "இரண்டாம்நிலைச் சான்றுகளுக்கு எடுத்துக்காட்டு ________.",
+    "options": [
+      "பொறிப்புகள்",
+      "இலக்கியங்கள்",
+      "செப்புப்பட்டயங்கள்",
+      "நாணயங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "An example of secondary evidence is ________.",
+    "options_en": [
+      "engravings",
+      "Literature",
+      "Copper strips",
+      "Coins"
+    ],
+    "explanation": "இரண்டாம்நிலைச் சான்றுகளுக்கு எடுத்துக்காட்டு இலக்கியங்கள்.",
+    "explanation_en": "An example of secondary evidence is Literature."
+  },
+  {
+    "id": 12,
+    "question": "பாறைகள், கற்கள், கோவிற்சுவர்கள், உலோகங்கள் ஆகியவற்றில் கடினமான மேற்பரப்பின் மேல் பொறிக்கப்படும் எழுத்துக்கள் ________ எனப்படும்.",
+    "options": [
+      "பொறிப்புகள்",
+      "இலக்கியங்கள்",
+      "பயணக்குறிப்புகள்",
+      "நாணயங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Letters engraved on hard surfaces like rocks, stones, temple walls, metals are called ________.",
+    "options_en": [
+      "engravings",
+      "Literature",
+      "travel tips",
+      "Coins"
+    ],
+    "explanation": "பாறைகள், கற்கள், கோவிற்சுவர்கள், உலோகங்கள் ஆகியவற்றில் கடினமான மேற்பரப்பின் மேல் பொறிக்கப்படும் எழுத்துக்கள் பொறிப்புகள் எனப்படும்.",
+    "explanation_en": "Letters engraved on hard surfaces like rocks, stones, temple walls, metals are called engravings."
+  },
+  {
+    "id": 13,
+    "question": "சட்டப்பூர்வமான ஆவணங்களாக ஐயப்பாடுகளுக்கு இடமில்லாத மதிப்புகளைக் கொண்டுள்ளவை ________ ஆகும்.",
+    "options": [
+      "இலக்கியங்கள்",
+      "பயணக்குறிப்புகள்",
+      "நாணயங்கள்",
+      "செப்புப்பட்டயங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Those which have unquestionable value as legal documents are ________.",
+    "options_en": [
+      "Literature",
+      "travel tips",
+      "Coins",
+      "Copper strips"
+    ],
+    "explanation": "சட்டப்பூர்வமான ஆவணங்களாக ஐயப்பாடுகளுக்கு இடமில்லாத மதிப்புகளைக் கொண்டுள்ளவை செப்புப்பட்டயங்கள் ஆகும்.",
+    "explanation_en": "Those which have unquestionable value as legal documents are Copper strips."
+  },
+  {
+    "id": 14,
+    "question": "செப்புப்பட்டயங்கள் விலை அதிகமாக இருப்பதன் விளைவாக அவற்றுக்கு மாற்றாகப் பயன்பாட்டுக்கு வந்த சான்று ________.",
+    "options": [
+      "பனையோலை",
+      "கற்கள்",
+      "தகடுகள்",
+      "உலோகங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Evidence that copper plates were used as a substitute as a result of their high cost is ________.",
+    "options_en": [
+      "Palm oil",
+      "Stones",
+      "Plates",
+      "Metals"
+    ],
+    "explanation": "செப்புப்பட்டயங்கள் விலை அதிகமாக இருப்பதன் விளைவாக அவற்றுக்கு மாற்றாகப் பயன்பாட்டுக்கு வந்த சான்று பனையோலை.",
+    "explanation_en": "Evidence that copper plates were used as a substitute as a result of their high cost is Palm oil."
+  },
+  {
+    "id": 15,
+    "question": "செப்புப்பட்டயங்கள் நடைமுறைக்கு வந்த ஆண்டு ________.",
+    "options": [
+      "11 ஆம் நூற்றாண்டு",
+      "12 ஆம் நூற்றாண்டு",
+      "13 ஆம் நூற்றாண்டு",
+      "14 ஆம் நூற்றாண்டு"
+    ],
+    "correct": 2,
+    "question_en": "The year in which copper plates came into force was ________.",
+    "options_en": [
+      "11th century",
+      "12th century",
+      "13th century",
+      "14th century"
+    ],
+    "explanation": "செப்புப்பட்டயங்கள் நடைமுறைக்கு வந்த ஆண்டு 13 ஆம் நூற்றாண்டு.",
+    "explanation_en": "The year in which copper plates came into force was 13th century."
+  },
+  {
+    "id": 16,
+    "question": "பிற்கால சோழர்களின் காலம் ________.",
+    "options": [
+      "5 – 10 ஆம் நூற்றாண்டு",
+      "10 – 15 ஆம் நூற்றாண்டு",
+      "10 - 13 ஆம் நூற்றாண்டு",
+      "15 – 20 ஆம் நூற்றாண்டு"
+    ],
+    "correct": 2,
+    "question_en": "The period of the Later Cholas was ________.",
+    "options_en": [
+      "5th – 10th century",
+      "10th – 15th century",
+      "10th - 13th century",
+      "15th – 20th century"
+    ],
+    "explanation": "பிற்கால சோழர்களின் காலம் 10 - 13 ஆம் நூற்றாண்டு.",
+    "explanation_en": "The period of the Later Cholas was 10th - 13th century."
+  },
+  {
+    "id": 17,
+    "question": "பிற்காலச் சோழர்கள் காலத்தில் கொடை வழங்கியவரின் அறச்செயல்கள் அதிகம் பதிவு செய்யப்பட்ட ஆவணம் ________.",
+    "options": [
+      "செப்புப்பட்டயங்கள்",
+      "கல்வெட்டுகள்",
+      "பனையோலைகள்",
+      "நாணயங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "During the later Cholas, the most recorded document of the donor's charitable deeds is the ________.",
+    "options_en": [
+      "Copper strips",
+      "inscriptions",
+      "Palm trees",
+      "Coins"
+    ],
+    "explanation": "பிற்காலச் சோழர்கள் காலத்தில் கொடை வழங்கியவரின் அறச்செயல்கள் அதிகம் பதிவு செய்யப்பட்ட ஆவணம் கல்வெட்டுகள்.",
+    "explanation_en": "During the later Cholas, the most recorded document of the donor's charitable deeds is the inscriptions."
+  },
+  {
+    "id": 18,
+    "question": "உத்திரமேரூர் கல்வெட்டுகள் ________ நிர்வாகம் குறித்த விவரங்களை உள்ளடக்கியது ஆகும்.",
+    "options": [
+      "அரசவை",
+      "மாவட்டங்கள்",
+      "சான்றுகள்",
+      "கிராமங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "The Uttaramerur inscriptions contain details about the administration of ________.",
+    "options_en": [
+      "The palace",
+      "Districts",
+      "evidences",
+      "Villages"
+    ],
+    "explanation": "உத்திரமேரூர் கல்வெட்டுகள் கிராமங்கள் நிர்வாகம் குறித்த விவரங்களை உள்ளடக்கியது ஆகும்.",
+    "explanation_en": "The Uttaramerur inscriptions contain details about the administration of Villages."
+  },
+  {
+    "id": 19,
+    "question": "தவறான இணையைக் கண்டுபிடி.",
+    "options": [
+      "வேளாண் வகை - பிராமணரல்லாத உடைமையாளருக்குச் சொந்தமான நிலங்கள்",
+      "பிரம்மதேயம் - பிராமணர்க்குக் கொடையாக வழங்கப்பட்ட நிலங்கள்",
+      "சாலபோகம் - கல்வி நிலையங்களைப் பராமரிப்பதற்காக வழங்கப்பட்ட நிலங்கள்",
+      "தேவதானம் - சமண சமய நிறுவனங்களுக்குக் கொடையாக வழங்கப்பட்ட நிலங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Find the wrong parallel.",
+    "options_en": [
+      "Agricultural Type – Lands owned by a non-Brahmin owner",
+      "Brahmadeyam - Lands gifted to Brahmins",
+      "Chalapogam – Lands granted for maintenance of educational institutions",
+      "Devadanam - Lands gifted to Jain religious institutions"
+    ],
+    "explanation": "தேவதானம் - சமண சமய நிறுவனங்களுக்குக் கொடையாக வழங்கப்பட்ட நிலங்கள்",
+    "explanation_en": "Devadanam - Lands gifted to Jain religious institutions"
+  },
+  {
+    "id": 20,
+    "question": "சமண சமய நிறுவனங்களுக்குக் கொடையாக அளிக்கப்பட்ட நிலங்கள் ________ ஆகும்.",
+    "options": [
+      "பள்ளிச் சந்தம்",
+      "தேவதானம்",
+      "சாலபோகம்",
+      "பிரம்மதேயம்"
+    ],
+    "correct": 0,
+    "question_en": "Lands donated to Jain religious institutions are ________.",
+    "options_en": [
+      "School market",
+      "Devadana",
+      "The way of life",
+      "Brahmathea"
+    ],
+    "explanation": "சமண சமய நிறுவனங்களுக்குக் கொடையாக அளிக்கப்பட்ட நிலங்கள் பள்ளிச் சந்தம் ஆகும்.",
+    "explanation_en": "Lands donated to Jain religious institutions are School market."
+  },
+  {
+    "id": 21,
+    "question": "இந்தியாவில் புதுவகையான கட்டடக்கலையை அறிமுகம் செய்தவர்கள் ________.",
+    "options": [
+      "அசோகர்கள்",
+      "சீக்கியர்கள்",
+      "மராத்தியர்கள்",
+      "சுல்தான்கள்"
+    ],
+    "correct": 3,
+    "question_en": "New type of architecture was introduced in India by ________.",
+    "options_en": [
+      "Ashokas",
+      "Sikhs",
+      "The Marathas",
+      "Sultans"
+    ],
+    "explanation": "இந்தியாவில் புதுவகையான கட்டடக்கலையை அறிமுகம் செய்தவர்கள் சுல்தான்கள்.",
+    "explanation_en": "New type of architecture was introduced in India by Sultans."
+  },
+  {
+    "id": 22,
+    "question": "இந்தியாவில் சுல்தான்கள் அறிமுகம் செய்த புதுவகையான கட்டடக்கலையின் முக்கியக் கூறுகளுள் ஒன்று ________.",
+    "options": [
+      "குவிமாடங்கள்",
+      "பயணக்குறிப்புகள்",
+      "நாணயங்கள்",
+      "செப்புப்பட்டயங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "One of the main elements of the new type of architecture introduced by the Sultans in India was ________.",
+    "options_en": [
+      "domes",
+      "travel tips",
+      "Coins",
+      "Copper strips"
+    ],
+    "explanation": "இந்தியாவில் சுல்தான்கள் அறிமுகம் செய்த புதுவகையான கட்டடக்கலையின் முக்கியக் கூறுகளுள் ஒன்று குவிமாடங்கள்.",
+    "explanation_en": "One of the main elements of the new type of architecture introduced by the Sultans in India was domes."
+  },
+  {
+    "id": 23,
+    "question": "பொருத்துக: i. கஜுராஹோ கோயில் - a. ஒடிசா, ii. அபு குன்று - b. தமிழ்நாடு, iii. கோனார்க் கோயில் - c. தில்வாரா, iv. பிரகதீஸ்வரர் கோயில் – d. மத்தியப்பிரதேசம்",
+    "options": [
+      "i – d, ii – c, iii – b, iv – a",
+      "i – a, ii – d, iii – b, iv – c",
+      "i – d, ii – c, iii – a, iv – b",
+      "i – d, ii – a, iii – b, iv – c"
+    ],
+    "correct": 2,
+    "question_en": "Fit: i. Khajuraho Temple - a. Odisha, ii. Abu Hill - b. Tamil Nadu, iii. Konark Temple - c. Dilwara, iv. Prahadeeswarar Temple – d. Madhya Pradesh",
+    "options_en": [
+      "i – d, ii – c, iii – b, iv – a",
+      "i – a, ii – d, iii – b, iv – c",
+      "i – d, ii – c, iii – a, iv – b",
+      "i – d, ii – a, iii – b, iv – c"
+    ],
+    "explanation": "i – d, ii – c, iii – a, iv – b",
+    "explanation_en": "i – d, ii – c, iii – a, iv – b"
+  },
+  {
+    "id": 24,
+    "question": "பொருத்துக: i. ஜெய்ப்பூர் அரண்மனை - a. கர்நாடகா, ii. ஹம்பி - b. பாழடைந்த நகரம், iii. பெரியபுராணம் - c. சேக்கிழார், iv. துக்ளகாபாத் – d. இராஜபுத்திரர்கள்",
+    "options": [
+      "i – d, ii – a, iii – c, iv – b",
+      "i – d, ii – a, iii – b, iv – c",
+      "i – d, ii – c, iii – a, iv – b",
+      "i – a, ii – d, iii – b, iv – c"
+    ],
+    "correct": 0,
+    "question_en": "Fit: i. Jaipur Palace - a. Karnataka, ii. Hampi - b. Ruined City, iii. Periyapurana - c. Sekchilar, iv. Tughlaqabad – d. Rajputs",
+    "options_en": [
+      "i – d, ii – a, iii – c, iv – b",
+      "i – d, ii – a, iii – b, iv – c",
+      "i – d, ii – c, iii – a, iv – b",
+      "i – a, ii – d, iii – b, iv – c"
+    ],
+    "explanation": "i – d, ii – a, iii – c, iv – b",
+    "explanation_en": "i – d, ii – a, iii – c, iv – b"
+  },
+  {
+    "id": 25,
+    "question": "பிற்காலச் சோழர்கள் தமிழ்நாட்டில் கட்டியெழுப்பிய நேர்த்தியான பிரம்மாண்டமான கட்டிடங்களுக்கு அடையாளமாகத் திகழ்வது ________.",
+    "options": [
+      "கஜுராகோ",
+      "அபுகுன்று",
+      "கங்கைகொண்ட சோழபுரம்",
+      "விருப்பாக்சா"
+    ],
+    "correct": 2,
+    "question_en": "________ is a symbol of the elegant and grand buildings built by the later Cholas in Tamil Nadu.",
+    "options_en": [
+      "Khajurago",
+      "Abukunnu",
+      "Gangaikonda Cholapuram",
+      "please"
+    ],
+    "explanation": "பிற்காலச் சோழர்கள் தமிழ்நாட்டில் கட்டியெழுப்பிய நேர்த்தியான பிரம்மாண்டமான கட்டிடங்களுக்கு அடையாளமாகத் திகழ்வது கங்கைகொண்ட சோழபுரம்.",
+    "explanation_en": "Gangaikonda Cholapuram is a symbol of the elegant and grand buildings built by the later Cholas in Tamil Nadu."
+  },
+  {
+    "id": 26,
+    "question": "ஹைதராபாத்தில் உள்ள இடைக்காலத்தைச் சேர்ந்த முக்கியமான மசூதி ________.",
+    "options": [
+      "மோத்-கி-மசூதி",
+      "சார்மினார்",
+      "ஜமா மசூதி",
+      "குவ்வத்-உல்-இஸ்லாம் மசூதி"
+    ],
+    "correct": 1,
+    "question_en": "An important medieval mosque in Hyderabad is ________.",
+    "options_en": [
+      "Moth-Ki-Mosque",
+      "Charminar",
+      "Jama Masjid",
+      "Quwwat-ul-Islam Mosque"
+    ],
+    "explanation": "ஹைதராபாத்தில் உள்ள இடைக்காலத்தைச் சேர்ந்த முக்கியமான மசூதி சார்மினார்.",
+    "explanation_en": "An important medieval mosque in Hyderabad is Charminar."
+  },
+  {
+    "id": 27,
+    "question": "வட இந்தியாவில் உள்ள பாழடைந்த நகரம் ________.",
+    "options": [
+      "சென்னை",
+      "மும்பை",
+      "கேரளா",
+      "துக்ளகாபாத்"
+    ],
+    "correct": 3,
+    "question_en": "A ruined city in northern India is ________.",
+    "options_en": [
+      "Chennai",
+      "Mumbai",
+      "Kerala",
+      "Tughlaqabad"
+    ],
+    "explanation": "வட இந்தியாவில் உள்ள பாழடைந்த நகரம் துக்ளகாபாத்.",
+    "explanation_en": "A ruined city in northern India is Tughlaqabad."
+  },
+  {
+    "id": 28,
+    "question": "தென்னிந்தியாவில் உள்ள ________ இடைக்கால இந்திய வரலாற்றுக்கான சான்றுக் கருவூலமாகும்.",
+    "options": [
+      "பிரோஷாபாத்",
+      "ஹம்பி",
+      "துக்ளகாபாத்",
+      "டெல்லி"
+    ],
+    "correct": 1,
+    "question_en": "________ in South India is a treasure trove of evidence for medieval Indian history.",
+    "options_en": [
+      "Firozabad",
+      "Hampi",
+      "Tughlaqabad",
+      "Delhi"
+    ],
+    "explanation": "தென்னிந்தியாவில் உள்ள ஹம்பி இடைக்கால இந்திய வரலாற்றுக்கான சான்றுக் கருவூலமாகும்.",
+    "explanation_en": "Hampi in South India is a treasure trove of evidence for medieval Indian history."
+  },
+  {
+    "id": 29,
+    "question": "________ இல் உள்ள உலோகக்கலவை பேரரசின் பொருளாதார நிலை குறித்த செய்திகளை வழங்குகின்றன.",
+    "options": [
+      "கட்டடங்கள்",
+      "கல்லறைகள்",
+      "மசூதிகள்",
+      "நாணயங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Alloys in ________ provide news about the economic status of the empire.",
+    "options_en": [
+      "Buildings",
+      "Graveyards",
+      "Mosques",
+      "Coins"
+    ],
+    "explanation": "நாணயங்கள் இல் உள்ள உலோகக்கலவை பேரரசின் பொருளாதார நிலை குறித்த செய்திகளை வழங்குகின்றன.",
+    "explanation_en": "Alloys in Coins provide news about the economic status of the empire."
+  },
+  {
+    "id": 30,
+    "question": "தான் வெளியிட்ட தங்கநாணயத்தில் பெண் தெய்வமான இலட்சுமியின் வடிவத்தைப் பதிப்பித்தவர் ________.",
+    "options": [
+      "முகமது கோரி",
+      "அக்பர்",
+      "நேதாஜி",
+      "வாஸ்கோடகாமா"
+    ],
+    "correct": 0,
+    "question_en": "It was ________ who inscribed the form of Goddess Lakshmi on the gold coins he issued.",
+    "options_en": [
+      "Mohammad Kori",
+      "Akbar",
+      "Netaji",
+      "Vasco da Gama"
+    ],
+    "explanation": "தான் வெளியிட்ட தங்கநாணயத்தில் பெண் தெய்வமான இலட்சுமியின் வடிவத்தைப் பதிப்பித்தவர் முகமது கோரி.",
+    "explanation_en": "It was Mohammad Kori who inscribed the form of Goddess Lakshmi on the gold coins he issued."
+  },
+  {
+    "id": 31,
+    "question": "டெல்லி சுல்தான்களின் காலகட்டத்தை அறிந்துகொள்ள ________ என்னும் செப்பு நாணயங்கள் பயன்படுகின்றன.",
+    "options": [
+      "ஜிட்டல்",
+      "டங்கா",
+      "தேவாரம்",
+      "குன்றிமணி"
+    ],
+    "correct": 0,
+    "question_en": "Copper coins called ________ are used to date the period of Delhi Sultans.",
+    "options_en": [
+      "Jittel",
+      "Tanga",
+      "Devaram",
+      "Kunrimani"
+    ],
+    "explanation": "டெல்லி சுல்தான்களின் காலகட்டத்தை அறிந்துகொள்ள ஜிட்டல் என்னும் செப்பு நாணயங்கள் பயன்படுகின்றன.",
+    "explanation_en": "Copper coins called Jittel are used to date the period of Delhi Sultans."
+  },
+  {
+    "id": 32,
+    "question": "தவறான இணையைக் கண்டுபிடி.",
+    "options": [
+      "டெல்லி சுல்தான் – ஜிட்டல்",
+      "இல்துமிஷ் - டங்கா",
+      "அலாவுதீன் கில்ஜி - வெள்ளி நாணயங்கள்",
+      "முகமது பின் துக்ளக் - செப்பு நாணயங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Find the wrong parallel.",
+    "options_en": [
+      "Delhi Sultan – Jital",
+      "Iltumish - Tanga",
+      "Alauddin Khilji - Silver coins",
+      "Muhammad Bin Tughlaq - Copper coins"
+    ],
+    "explanation": "அலாவுதீன் கில்ஜி - வெள்ளி நாணயங்கள்",
+    "explanation_en": "Alauddin Khilji - Silver coins"
+  },
+  {
+    "id": 33,
+    "question": "ஒரு ஜிட்டல் என்பது ________ வெள்ளி குன்றிமணிகளைக் கொண்டதாகும்.",
+    "options": [
+      "3.6",
+      "3.2",
+      "3.4",
+      "3.8"
+    ],
+    "correct": 0,
+    "question_en": "A jital consists of ________ silver beads.",
+    "options_en": [
+      "3.6",
+      "3.2",
+      "3.4",
+      "3.8"
+    ],
+    "explanation": "ஒரு ஜிட்டல் என்பது 3.6 வெள்ளி குன்றிமணிகளைக் கொண்டதாகும்.",
+    "explanation_en": "A jital consists of 3.6 silver beads."
+  },
+  {
+    "id": 34,
+    "question": "ஒரு வெள்ளி டங்காவுக்குச் சமமானது ________ ஜிட்டல்கள் ஆகும்.",
+    "options": [
+      "36",
+      "42",
+      "56",
+      "48"
+    ],
+    "correct": 3,
+    "question_en": "A silver tanga is equal to ________ jitals.",
+    "options_en": [
+      "36",
+      "42",
+      "56",
+      "48"
+    ],
+    "explanation": "ஒரு வெள்ளி டங்காவுக்குச் சமமானது 48 ஜிட்டல்கள் ஆகும்.",
+    "explanation_en": "A silver tanga is equal to 48 jitals."
+  },
+  {
+    "id": 35,
+    "question": "கீழ்க்காணும் அரசர்களுள் தங்க நாணயங்களை வெளியிட்டவர் / வெளியிட்டவர்கள் ________. 1. அலாவுதீன் கில்ஜி 2. முகமதுகோரி 3. இல்துமிஷ் 4. முகமதுபின் துக்ளக்.",
+    "options": [
+      "1 மட்டும்",
+      "1 மற்றும் 2",
+      "1, 2, மற்றும் 3",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Among the following kings, gold coins were issued by / who issued ________. 1. Alauddin Khilji 2. Mohammad Ghori 3. Iltumish 4. Mohammad Tughluq.",
+    "options_en": [
+      "1 only",
+      "1 and 2",
+      "1, 2, and 3",
+      "Nothing"
+    ],
+    "explanation": "கீழ்க்காணும் அரசர்களுள் தங்க நாணயங்களை வெளியிட்டவர் / வெளியிட்டவர்கள் 1 மற்றும் 2. 1. அலாவுதீன் கில்ஜி 2. முகமதுகோரி 3. இல்துமிஷ் 4. முகமதுபின் துக்ளக்.",
+    "explanation_en": "Among the following kings, gold coins were issued by / who issued 1 and 2. 1. Alauddin Khilji 2. Mohammad Ghori 3. Iltumish 4. Mohammad Tughluq."
+  },
+  {
+    "id": 36,
+    "question": "“பக்தி இலக்கியங்களின் காலம்” என்று அழைக்கப்படுவது ________ காலமாகும்.",
+    "options": [
+      "முகலாயர்கள்",
+      "சோழர்கள்",
+      "சேரர்கள்",
+      "பாண்டியர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "The so-called “period of devotional literature” was the period of ________.",
+    "options_en": [
+      "Mughals",
+      "Cholas",
+      "will join",
+      "Pandyas"
+    ],
+    "explanation": "“பக்தி இலக்கியங்களின் காலம்” என்று அழைக்கப்படுவது சோழர்கள் காலமாகும்.",
+    "explanation_en": "The so-called “period of devotional literature” was the period of Cholas."
+  },
+  {
+    "id": 37,
+    "question": "கீழ்க்காண்பவைகளுள் எது சமய இலக்கிய நூல்களுள் ஒன்று?",
+    "options": [
+      "மதுராவிஜயம்",
+      "அமுக்த மால்யதா",
+      "ராஜதரங்கிணி",
+      "திருவாசகம்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is one of the religious literature?",
+    "options_en": [
+      "Maduravijayam",
+      "Amukta Mallya",
+      "Rajatarangini",
+      "Thiruvasakam"
+    ],
+    "explanation": "திருவாசகம்",
+    "explanation_en": "Thiruvasakam is one of the religious literature."
+  },
+  {
+    "id": 38,
+    "question": "கீழ்க்காண்பவைகளுள் எது சமயச் சார்பற்ற இலக்கியங்களுள் ஒன்று அல்ல?",
+    "options": [
+      "மதுராவிஜயம்",
+      "அமுக்தமால்யதா",
+      "ராஜதரங்கிணி",
+      "திருவாசகம்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not one of the secular literatures?",
+    "options_en": [
+      "Maduravijayam",
+      "Amuktamalyada",
+      "Rajatarangini",
+      "Thiruvasakam"
+    ],
+    "explanation": "திருவாசகம்",
+    "explanation_en": "Thiruvasakam is not one of the secular literatures."
+  },
+  {
+    "id": 39,
+    "question": "பன்னிரு ஆழ்வார்களால் இயற்றப்பட்டு நாதமுனியால் தொகுக்கப்பட்ட பக்தி இலக்கியம் ________.",
+    "options": [
+      "கம்பராமாயணம்",
+      "பெரியபுராணம்",
+      "தேவாரம்",
+      "நாலாயிர திவ்விய பிரபந்தம்"
+    ],
+    "correct": 3,
+    "question_en": "Devotional literature composed by twelve Alvars and compiled by Natamuni is ________.",
+    "options_en": [
+      "Kamparamayanam",
+      "Periyapurana",
+      "Devaram",
+      "Four thousand Divvya Prabandham"
+    ],
+    "explanation": "பன்னிரு ஆழ்வார்களால் இயற்றப்பட்டு நாதமுனியால் தொகுக்கப்பட்ட பக்தி இலக்கியம் நாலாயிர திவ்விய பிரபந்தம்.",
+    "explanation_en": "Devotional literature composed by twelve Alvars and compiled by Natamuni is Four thousand Divvya Prabandham."
+  },
+  {
+    "id": 40,
+    "question": "அப்பர், சம்பந்தர், சுந்தரர் ஆகியோரால் இயற்றப்பட்டு நம்பியாண்டார் நம்பியால் தொகுக்கப்பட்ட பக்தி இலக்கியம் ________.",
+    "options": [
+      "தேவாரம்",
+      "கீதகோவிந்தம்",
+      "திருவாசகம்",
+      "பெரியபுராணம்"
+    ],
+    "correct": 0,
+    "question_en": "Bhakti literature composed by Appar, Sambandar, Sundarar and compiled by Nambiandar Nambi is ________.",
+    "options_en": [
+      "Devaram",
+      "Gita Govindam",
+      "Thiruvasakam",
+      "Periyapurana"
+    ],
+    "explanation": "அப்பர், சம்பந்தர், சுந்தரர் ஆகியோரால் இயற்றப்பட்டு நம்பியாண்டார் நம்பியால் தொகுக்கப்பட்ட பக்தி இலக்கியம் தேவாரம்.",
+    "explanation_en": "Bhakti literature composed by Appar, Sambandar, Sundarar and compiled by Nambiandar Nambi is Devaram."
+  },
+  {
+    "id": 41,
+    "question": "பதினைந்தாம் நூற்றாண்டைச் சார்ந்த இறைநிலை உணர்வு பெற்ற கவிஞர் ________.",
+    "options": [
+      "முகமது கோரி",
+      "அலாவுதீன்",
+      "கபீர்தாஸ்",
+      "இல்துமிஷ்"
+    ],
+    "correct": 2,
+    "question_en": "Fifteenth-century mystic poet ________.",
+    "options_en": [
+      "Mohammad Kori",
+      "Alauddin",
+      "Kabirdas",
+      "Iltumish"
+    ],
+    "explanation": "பதினைந்தாம் நூற்றாண்டைச் சார்ந்த இறைநிலை உணர்வு பெற்ற கவிஞர் கபீர்தாஸ்.",
+    "explanation_en": "Fifteenth-century mystic poet Kabirdas."
+  },
+  {
+    "id": 42,
+    "question": "கங்காதேவியால் இயற்றப்பட்ட இலக்கியம் ________.",
+    "options": [
+      "அமுக்த மால்யதா",
+      "மதுரா விஜயம்",
+      "திருவாசகம்",
+      "தேவாரம்"
+    ],
+    "correct": 1,
+    "question_en": "Literature composed by Gangadevi is ________.",
+    "options_en": [
+      "Amukta Mallya",
+      "Visit to Mathura",
+      "Thiruvasakam",
+      "Devaram"
+    ],
+    "explanation": "கங்காதேவியால் இயற்றப்பட்ட இலக்கியம் மதுரா விஜயம்.",
+    "explanation_en": "Literature composed by Gangadevi is Visit to Mathura."
+  },
+  {
+    "id": 43,
+    "question": "இஸ்லாமுக்கு முந்தைய காலத்தைப் பற்றி விளக்கும் ஒரே சான்று கல்ஹணரின் ________ மட்டுமே ஆகும்.",
+    "options": [
+      "ராஜதரங்கிணி",
+      "பிருதிவிராஜ ராசோ",
+      "மதுரா விஜயம்",
+      "அமுக்த மால்யதா"
+    ],
+    "correct": 0,
+    "question_en": "The only evidence that explains the pre-Islamic period is Kalhanar's ________.",
+    "options_en": [
+      "Rajatarangini",
+      "Prithiviraja Raso",
+      "Visit to Mathura",
+      "Amukta Mallya"
+    ],
+    "explanation": "இஸ்லாமுக்கு முந்தைய காலத்தைப் பற்றி விளக்கும் ஒரே சான்று கல்ஹணரின் ராஜதரங்கிணி மட்டுமே ஆகும்.",
+    "explanation_en": "The only evidence that explains the pre-Islamic period is Kalhanar's Rajatarangini."
+  },
+  {
+    "id": 44,
+    "question": "பொருத்துக: i. மின்கஜ் உஸ் சிராஜ் – a. தாரிக்-இ-பெரிஷ்டா, ii. ஹசன் நிஜாமி - b. தாரிக்-இ-பிரோஷாகி, iii. ஜியா-உத்-பரணி - c. தபகத்-இ-நஸிரி, iv. பெரிஷ்டா - d. தாஜ்-உல்-மா-அசிர்",
+    "options": [
+      "i – c, ii – d, iii – b, iv – a",
+      "i – d, ii – c, iii – a, iv – b",
+      "i – c, ii – a, iii – b, iv – d",
+      "i – c, ii – d, iii – a, iv – b"
+    ],
+    "correct": 0,
+    "question_en": "Fit: i. Minkaj us Siraj – a. Tariq-i-Perishta, ii. Hasan Nizami - b. Tariq-i-Piroshaqi, iii. Zia-ud-Bharani - c. Tabaqat-i-Naziri, iv. Berishta - d. Taj-ul-Ma-Azir",
+    "options_en": [
+      "i – c, ii – d, iii – b, iv – a",
+      "i – d, ii – c, iii – a, iv – b",
+      "i – c, ii – a, iii – b, iv – d",
+      "i – c, ii – d, iii – a, iv – b"
+    ],
+    "explanation": "i – c, ii – d, iii – b, iv – a",
+    "explanation_en": "i – c, ii – d, iii – b, iv – a"
+  },
+  {
+    "id": 45,
+    "question": "தாஜ்-உல்-மா-அசிர் எனும் நூல் ________ பற்றிய பல செய்திகளை முன்வைக்கிறது.",
+    "options": [
+      "குத்புதீன் ஐபக்",
+      "நஸ்ருதீன் மாமூது",
+      "இல்துமிஷ்",
+      "ஹசன் நிஜாமி"
+    ],
+    "correct": 0,
+    "question_en": "The book Taj-ul-Ma-Asir presents many accounts of ________.",
+    "options_en": [
+      "Qutbuddin Aibak",
+      "Nasruddin Mamood",
+      "Iltumish",
+      "Hasan Nizami"
+    ],
+    "explanation": "தாஜ்-உல்-மா-அசிர் எனும் நூல் குத்புதீன் ஐபக் பற்றிய பல செய்திகளை முன்வைக்கிறது.",
+    "explanation_en": "The book Taj-ul-Ma-Asir presents many accounts of Qutbuddin Aibak."
+  },
+  {
+    "id": 46,
+    "question": "டெல்லி சுல்தானியத்தின் வரலாற்றைக் கூறும் அரசின் இசைவு பெற்ற நூல் ________.",
+    "options": [
+      "தபகத்-இ-நஸிரி",
+      "தாஜ்-உல்-மா-அசிர்",
+      "தாரிக்-இ-பிரோஷாகி",
+      "அக்பர் நாமா"
+    ],
+    "correct": 1,
+    "question_en": "Government approved book on the history of Delhi Sultanate is ________.",
+    "options_en": [
+      "Tabaqat-i-Naziri",
+      "Taj-ul-Ma-Azir",
+      "Tariq-e-Proshaghi",
+      "Akbar Nama"
+    ],
+    "explanation": "டெல்லி சுல்தானியத்தின் வரலாற்றைக் கூறும் அரசின் இசைவு பெற்ற நூல் தாஜ்-உல்-மா-அசிர்.",
+    "explanation_en": "Government approved book on the history of Delhi Sultanate is Taj-ul-Ma-Azir."
+  },
+  {
+    "id": 47,
+    "question": "பாபர் எழுதிய நூல் ________.",
+    "options": [
+      "அயினி அக்பரி",
+      "அக்பர் நாமா",
+      "பாபர் நாமா",
+      "தசுக்-இ-ஜாஹாங்கீரி"
+    ],
+    "correct": 2,
+    "question_en": "The book written by Babur is ________.",
+    "options_en": [
+      "So Akbari",
+      "Akbar Nama",
+      "Babar Nama",
+      "Tasuk-e-Jahangiri"
+    ],
+    "explanation": "பாபர் எழுதிய நூல் பாபர் நாமா.",
+    "explanation_en": "The book written by Babur is Babar Nama."
+  },
+  {
+    "id": 48,
+    "question": "அபுல்பாசல் எழுதிய நூல் ________.",
+    "options": [
+      "பாபர் நாமா",
+      "தசுக்-இ-ஜாஹாங்கீரி",
+      "தாரிக்-இ-பதானி",
+      "அயினி அக்பரி"
+    ],
+    "correct": 3,
+    "question_en": "A book written by Abulbasl is ________.",
+    "options_en": [
+      "Babar Nama",
+      "Tasuk-e-Jahangiri",
+      "Tariq-i-Batani",
+      "So Akbari"
+    ],
+    "explanation": "அபுல்பாசல் எழுதிய நூல் அயினி அக்பரி.",
+    "explanation_en": "A book written by Abulbasl is So Akbari."
+  },
+  {
+    "id": 49,
+    "question": "ஜஹாங்கீர் எழுதிய நூல் ________.",
+    "options": [
+      "பாபர் நாமா",
+      "தசுக்-இ- ஜாஹாங்கீரி",
+      "தாரிக்-இ-பதானி",
+      "அக்பர் நாமா"
+    ],
+    "correct": 1,
+    "question_en": "The book written by Jahangir is ________.",
+    "options_en": [
+      "Babar Nama",
+      "Dasukh-i- Jahangiri",
+      "Tariq-i-Batani",
+      "Akbar Nama"
+    ],
+    "explanation": "ஜஹாங்கீர் எழுதிய நூல் தசுக்-இ- ஜாஹாங்கீரி.",
+    "explanation_en": "The book written by Jahangir is Dasukh-i- Jahangiri."
+  },
+  {
+    "id": 50,
+    "question": "நிஜாமுதீன் அகமத் என்பவரால் எழுதப்பட்ட நூல் ________.",
+    "options": [
+      "தபகத்-இ-அக்பரி",
+      "தபகத்-இ-நஸிரி",
+      "தாரிக்-இ-பிரோஷாகி",
+      "தாரிக்-இ-பெரிஷ்டா"
+    ],
+    "correct": 0,
+    "question_en": "The book written by Nizamuddin Ahmed is ________.",
+    "options_en": [
+      "Tabaqat-i-Akbari",
+      "Tabaqat-i-Naziri",
+      "Tariq-e-Proshaghi",
+      "Tariq-e-Perishta"
+    ],
+    "explanation": "நிஜாமுதீன் அகமத் என்பவரால் எழுதப்பட்ட நூல் தபகத்-இ-அக்பரி.",
+    "explanation_en": "The book written by Nizamuddin Ahmed is Tabaqat-i-Akbari."
+  },
+  {
+    "id": 51,
+    "question": "பதானி எழுதிய நூல் ________.",
+    "options": [
+      "தபகத்-இ-நஸிரி",
+      "பாபர் நாமா",
+      "தாரிக்-இ-பதானி",
+      "தாரிக்-இ-பிரோஷாகி"
+    ],
+    "correct": 2,
+    "question_en": "The book written by Pathani is ________.",
+    "options_en": [
+      "Tabaqat-i-Naziri",
+      "Babar Nama",
+      "Tariq-i-Batani",
+      "Tariq-e-Proshaghi"
+    ],
+    "explanation": "பதானி எழுதிய நூல் தாரிக்-இ-பதானி.",
+    "explanation_en": "The book written by Pathani is Tariq-i-Batani."
+  },
+  {
+    "id": 52,
+    "question": "தாரிக்-இ-பதானி என்னும் நூல் ________ தொகுதிகளைக் கொண்டுள்ளது.",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correct": 3,
+    "question_en": "The book Tariq-i-Batani consists of ________ volumes.",
+    "options_en": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "explanation": "தாரிக்-இ-பதானி என்னும் நூல் 3 தொகுதிகளைக் கொண்டுள்ளது.",
+    "explanation_en": "The book Tariq-i-Batani consists of 3 volumes."
+  },
+  {
+    "id": 53,
+    "question": "வெனிஸ் நகரைச் சார்ந்த பயணி ________.",
+    "options": [
+      "பதானி",
+      "அக்பர்",
+      "பாபர்",
+      "மார்கோபோலோ"
+    ],
+    "correct": 3,
+    "question_en": "A traveler from Venice ________.",
+    "options_en": [
+      "Patani",
+      "Akbar",
+      "Babar",
+      "Marcopolo"
+    ],
+    "explanation": "வெனிஸ் நகரைச் சார்ந்த பயணி மார்கோபோலோ.",
+    "explanation_en": "A traveler from Venice Marcopolo."
+  },
+  {
+    "id": 54,
+    "question": "மார்கோ போலோ தமிழகத்தில் ________ என்ற ஊருக்கு இருமுறை வந்துள்ளார்.",
+    "options": [
+      "திருநெல்வேலி",
+      "காயல்",
+      "சிவகங்கை",
+      "மதுரை"
+    ],
+    "correct": 1,
+    "question_en": "Marco Polo visited the town of ________ in Tamil Nadu twice.",
+    "options_en": [
+      "Tirunelveli",
+      "backwater",
+      "Sivaganga",
+      "Madurai"
+    ],
+    "explanation": "மார்கோ போலோ தமிழகத்தில் காயல் என்ற ஊருக்கு இருமுறை வந்துள்ளார்.",
+    "explanation_en": "Marco Polo visited the town of backwater in Tamil Nadu twice."
+  },
+  {
+    "id": 55,
+    "question": "கஜினி மாமூதின் படையெடுப்பின் போது, அவருடன் தங்கியிருந்தவர் ________.",
+    "options": [
+      "அல்-பரூனி",
+      "இபன்பதூதா",
+      "பதானி",
+      "அக்பர்"
+    ],
+    "correct": 0,
+    "question_en": "During the invasion of Ghazni Ma'mud, who stayed with him ________.",
+    "options_en": [
+      "Al-Baruni",
+      "Ibn Battuta",
+      "Patani",
+      "Akbar"
+    ],
+    "explanation": "கஜினி மாமூதின் படையெடுப்பின் போது, அவருடன் தங்கியிருந்தவர் அல்-பரூனி.",
+    "explanation_en": "During the invasion of Ghazni Ma'mud, who stayed with him Al-Baruni."
+  },
+  {
+    "id": 56,
+    "question": "அல்-பரூனி எழுதிய நூல் ________.",
+    "options": [
+      "அயினி அக்பரி",
+      "பாபர் நாமா",
+      "துசிக்-இ-ஜாஹாங்கீரி",
+      "தாகுயூக்-இ-ஹிந்த்"
+    ],
+    "correct": 3,
+    "question_en": "Al-Baruni's book is ________.",
+    "options_en": [
+      "So Akbari",
+      "Babar Nama",
+      "Dusik-i-Jahangiri",
+      "Daguyuk-e-Hind"
+    ],
+    "explanation": "அல்-பரூனி எழுதிய நூல் தாகுயூக்-இ-ஹிந்த்.",
+    "explanation_en": "Al-Baruni's book is Daguyuk-e-Hind."
+  },
+  {
+    "id": 57,
+    "question": "மொராக்கோ நாட்டு அறிஞர் ________.",
+    "options": [
+      "அல்-பரூனி",
+      "இபன் பதூதா",
+      "பதானி",
+      "பாபர்"
+    ],
+    "correct": 1,
+    "question_en": "Moroccan scholar ________.",
+    "options_en": [
+      "Al-Baruni",
+      "Ibn Battuta",
+      "Patani",
+      "Babar"
+    ],
+    "explanation": "மொராக்கோ நாட்டு அறிஞர் இபன் பதூதா.",
+    "explanation_en": "Moroccan scholar Ibn Battuta."
+  },
+  {
+    "id": 58,
+    "question": "இபன் பதூதாவின் பயண நூல் ________.",
+    "options": [
+      "ரிக்ளா",
+      "தாகுயூக்-இ-ஹிந்த்",
+      "மதுரா விஜயம்",
+      "ராஜதரங்கிணி"
+    ],
+    "correct": 0,
+    "question_en": "Ibn Battuta's travel book is ________.",
+    "options_en": [
+      "Rikla",
+      "Daguyuk-e-Hind",
+      "Visit to Mathura",
+      "Rajatarangini"
+    ],
+    "explanation": "இபன் பதூதாவின் பயண நூல் ரிக்ளா.",
+    "explanation_en": "Ibn Battuta's travel book is Rikla."
+  },
+  {
+    "id": 59,
+    "question": "தலைநகரை டெல்லியிலிருந்து தேவகிரிக்கு மாற்றியவர் ________.",
+    "options": [
+      "இபன்பதூதா",
+      "அல்-பரூனி",
+      "முகமது பின் துக்ளக்",
+      "அக்பர்"
+    ],
+    "correct": 2,
+    "question_en": "________ who moved the capital from Delhi to Devagiri.",
+    "options_en": [
+      "Ibn Battuta",
+      "Al-Baruni",
+      "Muhammad bin Tughluq",
+      "Akbar"
+    ],
+    "explanation": "தலைநகரை டெல்லியிலிருந்து தேவகிரிக்கு மாற்றியவர் முகமது பின் துக்ளக்.",
+    "explanation_en": "Muhammad bin Tughluq who moved the capital from Delhi to Devagiri."
+  },
+  {
+    "id": 60,
+    "question": "1420- இல் விஜயநகர் வந்த இத்தாலியப் பயணி ________.",
+    "options": [
+      "நிகோலோ கோண்டி",
+      "இபன் பதூதா",
+      "அல்-பரூனி",
+      "பதானி"
+    ],
+    "correct": 0,
+    "question_en": "An Italian traveler who came to Vijayanagar in 1420- ________.",
+    "options_en": [
+      "Nicolo Gondi",
+      "Ibn Battuta",
+      "Al-Baruni",
+      "Patani"
+    ],
+    "explanation": "1420- இல் விஜயநகர் வந்த இத்தாலியப் பயணி நிகோலோ கோண்டி.",
+    "explanation_en": "An Italian traveler who came to Vijayanagar in 1420- Nicolo Gondi."
+  },
+  {
+    "id": 61,
+    "question": "தாஜ்மஹாலைப் போன்று வெள்ளைப் பளிங்கு கற்களால் கட்டப்பட்டுள்ள கோவில் ________.",
+    "options": [
+      "கஜுராஹோ கோவில்",
+      "தில்வாரா ஆலயம்",
+      "சூரியக் கோயில்",
+      "பெரியகோவில்"
+    ],
+    "correct": 1,
+    "question_en": "A temple built of white marble like the Taj Mahal is ________.",
+    "options_en": [
+      "Khajuraho Temple",
+      "Dilwara Temple",
+      "Sun temple",
+      "Periagoville"
+    ],
+    "explanation": "தாஜ்மஹாலைப் போன்று வெள்ளைப் பளிங்கு கற்களால் கட்டப்பட்டுள்ள கோவில் தில்வாரா ஆலயம்.",
+    "explanation_en": "A temple built of white marble like the Taj Mahal is Dilwara Temple."
+  },
+  {
+    "id": 62,
+    "question": "இசைப்படிகள் கொண்ட பிற்காலச் சோழர்களின் கட்டிடக் கலைக்கு அடையாளமாக விளங்கும் கோவில் ________.",
+    "options": [
+      "பெரியகோவில்",
+      "ஐராவதீஸ்வரர் கோவில்",
+      "கஜுராஹோ கோவில்",
+      "சூரியக் கோயில்"
+    ],
+    "correct": 1,
+    "question_en": "A temple that is emblematic of later Chola architecture with musical instruments is ________.",
+    "options_en": [
+      "Periagoville",
+      "Airavatheeswarar Temple",
+      "Khajuraho Temple",
+      "Sun temple"
+    ],
+    "explanation": "இசைப்படிகள் கொண்ட பிற்காலச் சோழர்களின் கட்டிடக் கலைக்கு அடையாளமாக விளங்கும் கோவில் ஐராவதீஸ்வரர் கோவில்.",
+    "explanation_en": "A temple that is emblematic of later Chola architecture with musical instruments is Airavatheeswarar Temple."
+  },
+  {
+    "id": 63,
+    "question": "கல்தேர் அமைந்துள்ள கோவில் ________.",
+    "options": [
+      "ஹம்பி",
+      "ஐராவதீஸ்வரர் கோவில்",
+      "கஜுராஹோ கோவில்",
+      "சூரியக் கோயில்"
+    ],
+    "correct": 0,
+    "question_en": "The temple where Kalder is situated is ________.",
+    "options_en": [
+      "Hampi",
+      "Airavatheeswarar Temple",
+      "Khajuraho Temple",
+      "Sun temple"
+    ],
+    "explanation": "கல்தேர் அமைந்துள்ள கோவில் ஹம்பி.",
+    "explanation_en": "The temple where Kalder is situated is Hampi."
+  },
+  {
+    "id": 64,
+    "question": "பொருத்துக: 1. குவ்வத் - உல் - இஸ்லாம் - a) முகமது குதுப்ஷா, 2. மோத்கி மசூதி - b) ஷாஜஹான், 3. பதேப்பூர் சிக்ரி தர்கா - c) அக்பர், 4. சார்மினார் - d) குத்புதீன் ஐபக்",
+    "options": [
+      "c, d, b, a",
+      "d, b, a, c",
+      "c, d, a, b",
+      "a, c, b, d"
+    ],
+    "correct": 0,
+    "question_en": "Match: 1. Quwwat-ul-Islam - a) Muhammad Qutbshah, 2. Motgi Masjid - b) Shah Jahan, 3. Badepur Sikri Dargah - c) Akbar, 4. Charminar - d) Qutbuddin Aibak",
+    "options_en": [
+      "c, d, b, a",
+      "d, b, a, c",
+      "c, d, a, b",
+      "a, c, b, d"
+    ],
+    "explanation": "c, d, b, a",
+    "explanation_en": "c, d, b, a"
+  },
+  {
+    "id": 65,
+    "question": "இந்தியாவில் இராஜபுத்திரர்களின் மேன்மைகளை விளக்கும் அரண்மனைகள் உள்ள மாநிலம் ________.",
+    "options": [
+      "குஜராத்",
+      "இராஜஸ்தான்",
+      "மத்தியப்பிரதேசம்",
+      "மேற்கு வங்காளம்"
+    ],
+    "correct": 1,
+    "question_en": "________ is the state in India that has palaces that illustrate the splendor of the Rajputs.",
+    "options_en": [
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "West Bengal"
+    ],
+    "explanation": "இந்தியாவில் இராஜபுத்திரர்களின் மேன்மைகளை விளக்கும் அரண்மனைகள் உள்ள மாநிலம் இராஜஸ்தான்.",
+    "explanation_en": "Rajasthan is the state in India that has palaces that illustrate the splendor of the Rajputs."
+  },
+  {
+    "id": 66,
+    "question": "இந்தியாவில் முதன்முறையாக இந்தோ - இஸ்லாமிய முறையில் கட்டப்பட்ட கல்லறை யாருடையது?",
+    "options": [
+      "இல்துமிஷ்",
+      "பால்பன்",
+      "அலாவுதீன் கில்ஜி",
+      "பாபர்"
+    ],
+    "correct": 1,
+    "question_en": "Whose tomb was first built in Indo-Islamic style in India?",
+    "options_en": [
+      "Iltumish",
+      "Balban",
+      "Alauddin Khilji",
+      "Babar"
+    ],
+    "explanation": "பால்பன்",
+    "explanation_en": "Balban"
+  },
+  {
+    "id": 67,
+    "question": "டங்கா என்பது ________.",
+    "options": [
+      "தங்க நாணயம்",
+      "வெள்ளி நாணயம்",
+      "செப்பு நாணயம்",
+      "தகர நாணயம்"
+    ],
+    "correct": 1,
+    "question_en": "Tanga is ________.",
+    "options_en": [
+      "Gold coin",
+      "Silver coin",
+      "Copper coin",
+      "Tin coin"
+    ],
+    "explanation": "டங்கா என்பது வெள்ளி நாணயம்.",
+    "explanation_en": "Tanga is Silver coin."
+  },
+  {
+    "id": 68,
+    "question": "கபீர்தாஸ் இயற்றிய பாடல்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "கவிதைகள்",
+      "குறள்கள்",
+      "பாடல்கள்",
+      "தோஹே"
+    ],
+    "correct": 3,
+    "question_en": "What are the songs composed by Kabirdas called?",
+    "options_en": [
+      "Poems",
+      "Claws",
+      "Songs",
+      "Dohe"
+    ],
+    "explanation": "தோஹே",
+    "explanation_en": "Dohe"
+  },
+  {
+    "id": 69,
+    "question": "இந்தியா மற்றும் பாகிஸ்தான் நாடுகளின் எல்லைக் கட்டுப்பாட்டுப் கோட்டின் அருகில் உள்ள இடங்களைப் பற்றிக் குறிப்பிடும் நூல் ________.",
+    "options": [
+      "ரிக்ளா",
+      "தாகுயூக்-இ-ஹிந்த்",
+      "மதுரா விஜயம்",
+      "ராஜதரங்கிணி"
+    ],
+    "correct": 3,
+    "question_en": "A book that mentions places near the Line of Control between India and Pakistan is ________.",
+    "options_en": [
+      "Rikla",
+      "Daguyuk-e-Hind",
+      "Visit to Mathura",
+      "Rajatarangini"
+    ],
+    "explanation": "இந்தியா மற்றும் பாகிஸ்தான் நாடுகளின் எல்லைக் கட்டுப்பாட்டுப் கோட்டின் அருகில் உள்ள இடங்களைப் பற்றிக் குறிப்பிடும் நூல் ராஜதரங்கிணி.",
+    "explanation_en": "A book that mentions places near the Line of Control between India and Pakistan is Rajatarangini."
+  },
+  {
+    "id": 70,
+    "question": "அரேபியச் சொல்லில் 'வரலாறு' என்பதனைக் குறிக்கும் சொல் ________.",
+    "options": [
+      "தாரிக்",
+      "தபாத்",
+      "தஜிக்",
+      "தாக்"
+    ],
+    "correct": 0,
+    "question_en": "The Arabic word for 'history' is ________.",
+    "options_en": [
+      "Tariq",
+      "Tabat",
+      "Tajik",
+      "Thak"
+    ],
+    "explanation": "அரேபியச் சொல்லில் 'வரலாறு' என்பதனைக் குறிக்கும் சொல் தாரிக்.",
+    "explanation_en": "The Arabic word for 'history' is Tariq."
+  },
+  {
+    "id": 71,
+    "question": "யாருடைய நூல் அக்பருடைய வாழ்க்கை வரலாற்றை நம்பத் தகுந்ததாக எடுத்துரைக்கிறது?",
+    "options": [
+      "முகமது கோரி",
+      "அலாவுதீன்",
+      "கபீர்தாஸ்",
+      "நிஜாமுதீன் அகமத்"
+    ],
+    "correct": 3,
+    "question_en": "Whose book gives a credible account of Akbar's biography?",
+    "options_en": [
+      "Mohammad Kori",
+      "Alauddin",
+      "Kabirdas",
+      "Nizamuddin Ahmed"
+    ],
+    "explanation": "நிஜாமுதீன் அகமத்",
+    "explanation_en": "Nizamuddin Ahmed"
+  },
+  {
+    "id": 72,
+    "question": "தூத்துக்குடி மாவட்டத்திற்கு இருமுறை வந்த வெனிஸ் நகரப் பயணி ________.",
+    "options": [
+      "பதானி",
+      "அக்பர்",
+      "பாபர்",
+      "மார்கோபோலோ"
+    ],
+    "correct": 3,
+    "question_en": "Venice city traveler who came twice to Tuticorin district ________.",
+    "options_en": [
+      "Patani",
+      "Akbar",
+      "Babar",
+      "Marcopolo"
+    ],
+    "explanation": "தூத்துக்குடி மாவட்டத்திற்கு இருமுறை வந்த வெனிஸ் நகரப் பயணி மார்கோபோலோ.",
+    "explanation_en": "Venice city traveler who came twice to Tuticorin district Marcopolo."
+  },
+  {
+    "id": 73,
+    "question": "இபன் பதூதா என்ற மொராக்கோ நாட்டுப் பயணி எந்த முகலாயர் ஆட்சிக் காலத்தில் இந்தியாவிற்கு வருகை புரிந்தார்?",
+    "options": [
+      "செங்கிஸ்கான்",
+      "பாபர்",
+      "முகமது பின் துக்ளக்",
+      "அக்பர்"
+    ],
+    "correct": 2,
+    "question_en": "During which Mughal period did a Moroccan traveler named Ibn Baduta visit India?",
+    "options_en": [
+      "Genghis Khan",
+      "Babar",
+      "Muhammad bin Tughluq",
+      "Akbar"
+    ],
+    "explanation": "முகமது பின் துக்ளக்",
+    "explanation_en": "Muhammad bin Tughluq"
+  },
+  {
+    "id": 74,
+    "question": "செங்கிஸ்கானின் அரசவை இருந்த இடம் ________.",
+    "options": [
+      "ஹீராட் - மத்திய ஆசியா",
+      "துருக்கி",
+      "அரேபியா",
+      "சீனா"
+    ],
+    "correct": 0,
+    "question_en": "Genghis Khan's palace was located in ________.",
+    "options_en": [
+      "Herat - Central Asia",
+      "Turkey",
+      "Arabia",
+      "China"
+    ],
+    "explanation": "செங்கிஸ்கானின் அரசவை இருந்த இடம் ஹீராட் - மத்திய ஆசியா.",
+    "explanation_en": "Genghis Khan's palace was located in Herat - Central Asia."
+  },
+  {
+    "id": 75,
+    "question": "கீழ்க்காண்பவைகளை காலத்தின் அடிப்படையில் வரிசைப்படுத்தவும்: 1) ஹசன் நிஜாமி வாழ்ந்த காலம், 2) ஜஹாங்கீர் வாழ்ந்த காலம், 3) கபீர்தாஸ் வாழ்ந்த காலம்",
+    "options": [
+      "1, 2, 3",
+      "1, 3, 2",
+      "2, 3, 1",
+      "2, 1, 3"
+    ],
+    "correct": 1,
+    "question_en": "Arrange the following in order of time: 1) Hasan Nizami's time, 2) Jahangir's time, 3) Kabirdas' time",
+    "options_en": [
+      "1, 2, 3",
+      "1, 3, 2",
+      "2, 3, 1",
+      "2, 1, 3"
+    ],
+    "explanation": "1, 3, 2",
+    "explanation_en": "1, 3, 2"
+  },
+  {
+    "id": 76,
+    "question": "தாரிக் அல்லது தாகுயூக் என்பது ________மொழிச் சொல்.",
+    "options": [
+      "வட",
+      "அரேபிய",
+      "பாரசீகம்",
+      "லத்தீன்"
+    ],
+    "correct": 1,
+    "question_en": "Tariq or Taghuyq is a ________ language term.",
+    "options_en": [
+      "North",
+      "Arabic",
+      "Persia",
+      "Latin"
+    ],
+    "explanation": "தாரிக் அல்லது தாகுயூக் என்பது அரேபியமொழிச் சொல்.",
+    "explanation_en": "Tariq or Taghuyq is a Arabic language term."
+  },
+  {
+    "id": 77,
+    "question": "ஆயிரக்கணக்கான குதிரைகள் தென்னிந்தியாவில் கடல் வழியாக இறக்குமதி செய்யப்பட்டதாக கூறும் பயணி ________.",
+    "options": [
+      "மார்கோபோலோ",
+      "ஜஹாங்கீர்",
+      "இபன் பதுதா",
+      "அப்துர் ரஸாக்"
+    ],
+    "correct": 0,
+    "question_en": "A traveler who says that thousands of horses were imported by sea in South India ________.",
+    "options_en": [
+      "Marcopolo",
+      "Jahangir",
+      "Ibn Baduta",
+      "Abdur Razzaq"
+    ],
+    "explanation": "ஆயிரக்கணக்கான குதிரைகள் தென்னிந்தியாவில் கடல் வழியாக இறக்குமதி செய்யப்பட்டதாக கூறும் பயணி மார்கோபோலோ.",
+    "explanation_en": "A traveler who says that thousands of horses were imported by sea in South India Marcopolo."
+  },
+  {
+    "id": 78,
+    "question": "வெளிநாட்டுத் துறைமுகங்களில் இந்திய வணிகர்களின் விறுவிறுப்பான வணிக நடவடிக்கைகள் மற்றும் கடல்களில் இந்தியக் கப்பல்கள் பற்றியும் நாம் தெரிந்துகொள்ள உதவியவர் ________.",
+    "options": [
+      "மார்கோபோலோ",
+      "ஜஹாங்கீர்",
+      "இபன் பதுதா",
+      "அப்துர் ரஸாக்"
+    ],
+    "correct": 2,
+    "question_en": "It was ________ who helped us to know about the brisk business activities of Indian merchants in foreign ports and Indian ships in seas.",
+    "options_en": [
+      "Marcopolo",
+      "Jahangir",
+      "Ibn Baduta",
+      "Abdur Razzaq"
+    ],
+    "explanation": "வெளிநாட்டுத் துறைமுகங்களில் இந்திய வணிகர்களின் விறுவிறுப்பான வணிக நடவடிக்கைகள் மற்றும் கடல்களில் இந்தியக் கப்பல்கள் பற்றியும் நாம் தெரிந்துகொள்ள உதவியவர் இபன் பதுதா.",
+    "explanation_en": "It was Ibn Baduta who helped us to know about the brisk business activities of Indian merchants in foreign ports and Indian ships in seas."
+  },
+  {
+    "id": 79,
+    "question": "தன்னுடைய தலைநகரை டெல்லியிலிருந்து தெற்கேயிருந்த தேவகிரிக்கு (தௌலதாபாத்) மாற்றி டெல்லியை பொட்டற்காடாக்கியவர் ________.",
+    "options": [
+      "அப்துர் ரஸாக்",
+      "ஜஹாங்கீர்",
+      "கஜினி மாமுதின்",
+      "சுல்தான் முகமது பின் துக்ளக்"
+    ],
+    "correct": 3,
+    "question_en": "________ who moved his capital from Delhi to Devagiri (Daulatabad) in the south and made Delhi a Fort.",
+    "options_en": [
+      "Abdur Razzaq",
+      "Jahangir",
+      "Ghazini Mamuddin",
+      "Sultan Muhammad bin Tughlaq"
+    ],
+    "explanation": "தன்னுடைய தலைநகரை டெல்லியிலிருந்து தெற்கேயிருந்த தேவகிரிக்கு (தௌலதாபாத்) மாற்றி டெல்லியை பொட்டற்காடாக்கியவர் சுல்தான் முகமது பின் துக்ளக்.",
+    "explanation_en": "Sultan Muhammad bin Tughlaq who moved his capital from Delhi to Devagiri (Daulatabad) in the south and made Delhi a Fort."
+  },
+  {
+    "id": 80,
+    "question": "விஜயநகரப் பேரரசின் பெரும் சிறப்பைக் கூறிய பயணிகள் ________. அ) அப்துர் ரஸாக் ஆ) நிகோலோ கோண்டி இ) டோமிங்கோ ஈ) செங்கிஸ்கான்",
+    "options": [
+      "அ மட்டும்",
+      "அ & ஆ மட்டும்",
+      "அ, ஆ & இ மட்டும்",
+      "எவருமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Travelers who mentioned the great splendor of the Vijayanagara Empire ________. a) Abdur Razzak b) Nicolo Gondi c) Domingo d) Genghis Khan",
+    "options_en": [
+      "A only",
+      "A & B only",
+      "A, B & C only",
+      "No one"
+    ],
+    "explanation": "விஜயநகரப் பேரரசின் பெரும் சிறப்பைக் கூறிய பயணிகள் அ, ஆ & இ மட்டும். அ) அப்துர் ரஸாக் ஆ) நிகோலோ கோண்டி இ) டோமிங்கோ ஈ) செங்கிஸ்கான்",
+    "explanation_en": "Travelers who mentioned the great splendor of the Vijayanagara Empire A, B & C only. a) Abdur Razzak b) Nicolo Gondi c) Domingo d) Genghis Khan"
+  },
+  {
+    "id": 81,
+    "question": "14 ஆம் நூற்றாண்டை சேர்ந்த மொராக்கோ நாட்டுப் பயணி ________.",
+    "options": [
+      "மார்கோபோலோ",
+      "இபன் பதூதா",
+      "ஜியா - உத் – பரணி",
+      "ஹசன் நிஜாமி"
+    ],
+    "correct": 1,
+    "question_en": "14th century Moroccan traveler ________.",
+    "options_en": [
+      "Marcopolo",
+      "Ibn Battuta",
+      "Zia - Ud - Bharani",
+      "Hasan Nizami"
+    ],
+    "explanation": "14 ஆம் நூற்றாண்டை சேர்ந்த மொராக்கோ நாட்டுப் பயணி இபன் பதூதா.",
+    "explanation_en": "14th century Moroccan traveler Ibn Battuta."
+  },
+  {
+    "id": 82,
+    "question": "கஜினியிலிருந்து புலம்பெயர்ந்த பயணி ________.",
+    "options": [
+      "ஜியா-உத் – பரணி",
+      "இபன் பதூதா",
+      "மார்கோபோலோ",
+      "ஹசன் நிஜாமி"
+    ],
+    "correct": 3,
+    "question_en": "A migrant traveler from Ghazni ________.",
+    "options_en": [
+      "Zia-ud – Bharani",
+      "Ibn Battuta",
+      "Marcopolo",
+      "Hasan Nizami"
+    ],
+    "explanation": "கஜினியிலிருந்து புலம்பெயர்ந்த பயணி ஹசன் நிஜாமி.",
+    "explanation_en": "A migrant traveler from Ghazni Hasan Nizami."
+  },
+  {
+    "id": 83,
+    "question": "சுல்தான் நஸ்ருதின் மாமூதுவால் ஆதரிக்கப்பட்டவர் ________.",
+    "options": [
+      "மின்கஜ் உஸ் சிராஜ்",
+      "சுல்தான் இல்துமிஷ்",
+      "குத்புதின் ஐபக்",
+      "கியாசுதின்"
+    ],
+    "correct": 0,
+    "question_en": "Sultan Nasrudin was supported by Mamud ________.",
+    "options_en": [
+      "Minkaj us Siraj",
+      "Sultan Iltumish",
+      "Qutbuddin Aibak",
+      "Giyasudin"
+    ],
+    "explanation": "சுல்தான் நஸ்ருதின் மாமூதுவால் ஆதரிக்கப்பட்டவர் மின்கஜ் உஸ் சிராஜ்.",
+    "explanation_en": "Sultan Nasrudin was supported by Mamud Minkaj us Siraj."
+  },
+  {
+    "id": 84,
+    "question": "வெனிஸ் நாட்டைச் சேர்ந்த புகழ்பெற்ற பயணியான _______ இரண்டு முறை காயலுக்கு வருகை தந்தார்",
+    "options": [
+      "வாஸ்கோடாகாமா",
+      "கிறிஸ்டோபர் கொலம்பஸ்",
+      "மார்கோபோலோ",
+      "பார்த்தலோமியா டயஸ்"
+    ],
+    "correct": 2,
+    "question_en": "The famous Venetian traveler _______ visited the bay twice",
+    "options_en": [
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Marcopolo",
+      "Bartholomew Diaz"
+    ],
+    "explanation": "வெனிஸ் நாட்டைச் சேர்ந்த புகழ்பெற்ற பயணியான மார்கோபோலோ இரண்டு முறை காயலுக்கு வருகை தந்தார்",
+    "explanation_en": "The famous Venetian traveler Marcopolo visited the bay twice"
+  },
+  {
+    "id": 85,
+    "question": "செப்பு நாணய முறையை அறிமுகப்படுத்தியவர்கள் ________.",
+    "options": [
+      "பாரசீகர்கள்",
+      "அரேபியர்கள்",
+      "துருக்கியர்கள்",
+      "சுல்தான்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Copper coinage system was introduced by ________.",
+    "options_en": [
+      "Persians",
+      "Arabs",
+      "Turks",
+      "Sultans"
+    ],
+    "explanation": "செப்பு நாணய முறையை அறிமுகப்படுத்தியவர்கள் சுல்தான்கள்.",
+    "explanation_en": "Copper coinage system was introduced by Sultans."
+  },
+  {
+    "id": 86,
+    "question": "டங்கா என்ற வெள்ளி நாணயம் மற்றும் ஜிட்டல் என்ற செம்பு நாணயத்தினை வெளியிட்டவர் ________.",
+    "options": [
+      "இல்துமிஷ்",
+      "குதுபுதீன் ஐபெக்",
+      "பால்பன்",
+      "சுல்தானா இரசியா"
+    ],
+    "correct": 0,
+    "question_en": "A silver coin called Tanga and a copper coin called Jital were issued by ________.",
+    "options_en": [
+      "Iltumish",
+      "Qutubuddin Ibek",
+      "Balban",
+      "Sultana is Russia"
+    ],
+    "explanation": "டங்கா என்ற வெள்ளி நாணயம் மற்றும் ஜிட்டல் என்ற செம்பு நாணயத்தினை வெளியிட்டவர் இல்துமிஷ்.",
+    "explanation_en": "A silver coin called Tanga and a copper coin called Jital were issued by Iltumish."
+  },
+  {
+    "id": 87,
+    "question": "பொருத்துக: 1) திருவாலங்காடு செப்பேடு – i. முகமது பின் துக்ளக், 2) அன்பில் செப்பேடு – ii. இராஜேந்திர சோழன், 3) செப்பு நாணயங்கள் – iii. இல்துமிஷ், 4) 'டங்கா' வெள்ளி நாணயங்கள் - iv. சுந்தரச் சோழன்",
+    "options": [
+      "ii, iv, i, iii",
+      "iv, iii, i, ii",
+      "ii, iii, iv, i",
+      "i, iii, ii, iv"
+    ],
+    "correct": 0,
+    "question_en": "Match: 1) Tiruvalangadu Seppedu – i. Muhammad bin Tughluq, 2) Anbil Seppedu – ii. Rajendra Chola, 3) Copper coins – iii. Iltumish, 4) 'Tanga' silver coins - iv. Sundara Cholan",
+    "options_en": [
+      "ii, iv, i, iii",
+      "iv, iii, i, ii",
+      "ii, iii, iv, i",
+      "i, iii, ii, iv"
+    ],
+    "explanation": "ii, iv, i, iii",
+    "explanation_en": "ii, iv, i, iii"
+  }
+]

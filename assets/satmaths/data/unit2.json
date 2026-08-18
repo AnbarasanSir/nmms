@@ -1,0 +1,2249 @@
+[
+    {
+        "id": 1,
+        "question": "வண்ணமிடப்படாத பகுதிகளின் தசம வடிவம்",
+        "image": "image/unit2/q1.PNG",
+        "options": [
+            "0.6",
+            "0.7",
+            "0.3",
+            "100"
+        ],
+        "correct": 1,
+        "explanation": "கொடுக்கப்பட்ட படத்தில் 10 சம பாகங்களில் 3 பாகங்கள் வண்ணமிடப்பட்டும், 7 பாகங்கள் வண்ணமிடப்படாமலும் உள்ளன எனில், வண்ணமிடப்படாத பின்னத்தின் அளவு 7/10. இதன் தசம வடிவம் 0.7.",
+        "question_en": "The decimal form of the unshaded parts",
+        "options_en": [
+            "0.6",
+            "0.7",
+            "0.3",
+            "100"
+        ],
+        "explanation_en": "Assuming a figure with 10 equal parts where 3 are shaded and 7 are unshaded, the fraction of the unshaded part is 7/10. Its decimal form is 0.7."
+    },
+    {
+        "id": 2,
+        "question": "235.68 = ___",
+        "options": [
+            "2×100 + 3×10 + 5×1 + 6×(1/10) + 8×(1/100)",
+            "2×1 + 3×10 + 5×100 + 6×(1/100) + 8×(1/10)",
+            "200 + 30 + 5 + 600 + 8",
+            "2×10² + 3×10¹ + 5×10¹ + 6×10⁻² + 8×10⁻¹"
+        ],
+        "correct": 0,
+        "explanation": "235.68 இன் விரிவாக்க வடிவம்: 2 நூறுகள் + 3 பத்துகள் + 5 ஒன்றுகள் + 6 பத்தில் ஒன்றுகள் + 8 நூறில் ஒன்றுகள்.",
+        "question_en": "235.68 = ___",
+        "options_en": [
+            "2×100 + 3×10 + 5×1 + 6×(1/10) + 8×(1/100)",
+            "2×1 + 3×10 + 5×100 + 6×(1/100) + 8×(1/10)",
+            "200 + 30 + 5 + 600 + 8",
+            "2×10² + 3×10¹ + 5×10¹ + 6×10⁻² + 8×10⁻¹"
+        ],
+        "explanation_en": "Expanded form of 235.68: 2 hundreds + 3 tens + 5 ones + 6 tenths + 8 hundredths."
+    },
+    {
+        "id": 3,
+        "question": "26 மீ 50 செ.மீ-ன் தசம வடிவம் ___ மீ.",
+        "options": [
+            "26.50",
+            "50.26",
+            "26.050",
+            "50.026"
+        ],
+        "correct": 0,
+        "explanation": "1 மீ = 100 செ.மீ. எனவே, 50 செ.மீ = 50 / 100 = 0.50 மீ. ஆகவே 26 மீ + 0.50 மீ = 26.50 மீ.",
+        "question_en": "The decimal form of 26 m 50 cm is ___ m.",
+        "options_en": [
+            "26.50",
+            "50.26",
+            "26.050",
+            "50.026"
+        ],
+        "explanation_en": "1 m = 100 cm. So, 50 cm = 50 / 100 = 0.50 m. Total = 26 m + 0.50 m = 26.50 m."
+    },
+    {
+        "id": 4,
+        "question": "93 செ.மீ-ன் தசம வடிவம் ___ மீ",
+        "options": [
+            "9.3",
+            "93.0",
+            "0.93",
+            "0.093"
+        ],
+        "correct": 2,
+        "explanation": "சென்டிமீட்டரை மீட்டராக மாற்ற 100 ஆல் வகுக்க வேண்டும். 93 / 100 = 0.93 மீ.",
+        "question_en": "The decimal form of 93 cm is ___ m",
+        "options_en": [
+            "9.3",
+            "93.0",
+            "0.93",
+            "0.093"
+        ],
+        "explanation_en": "To convert cm to m, divide by 100. 93 / 100 = 0.93 m."
+    },
+    {
+        "id": 5,
+        "question": "36.37 என்ற எண்ணில் பத்தில் ஒன்றாம் இடத்தில் உள்ள (முதல் 3) எண்ணின் இடமதிப்பு",
+        "options": [
+            "3",
+            "30",
+            "0.3",
+            "0.03"
+        ],
+        "correct": 2,
+        "explanation": "தசமப் புள்ளிக்கு அடுத்து வலப்புறம் உள்ள முதல் இலக்கம் 'பத்தில் ஒன்றுகள்' (Tenths) இடமாகும். இதன் மதிப்பு 3 × (1/10) = 0.3.",
+        "question_en": "The place value of the digit in the tenths place (the first 3) in the number 36.37 is",
+        "options_en": [
+            "3",
+            "30",
+            "0.3",
+            "0.03"
+        ],
+        "explanation_en": "The first digit to the right of the decimal is in the tenths place. Its value is 3 × (1/10) = 0.3."
+    },
+    {
+        "id": 6,
+        "question": "267.06 என்ற எண்ணில் 6 என்ற இலக்கங்களின் இடமதிப்புகளின் கூடுதல்",
+        "options": [
+            "606.0",
+            "60.06",
+            "60.6",
+            "600.6"
+        ],
+        "correct": 1,
+        "explanation": "முதல் 6-இன் இடமதிப்பு: 60 (பத்துகள் இடம்). \nஇரண்டாவது 6-இன் இடமதிப்பு: 0.06 (நூறில் ஒன்றுகள் இடம்). \nகூடுதல் = 60 + 0.06 = 60.06.",
+        "question_en": "The sum of the place values of the digit 6 in the number 267.06 is",
+        "options_en": [
+            "606.0",
+            "60.06",
+            "60.6",
+            "600.6"
+        ],
+        "explanation_en": "Place value of the first 6: 60 (tens place). \nPlace value of the second 6: 0.06 (hundredths place). \nSum = 60 + 0.06 = 60.06."
+    },
+    {
+        "id": 7,
+        "question": "☐ ☐ ☐ ☐ (3 முழு சதுரங்கள் மற்றும் 4 சிறு பகுதிகள்) என்ற படவிளக்கம் குறிக்கும் தசம எண்",
+        "image": "image/unit2/q7.PNG",
+        "options": [
+            "34",
+            "3.4",
+            "4.3",
+            "30.04"
+        ],
+        "correct": 1,
+        "explanation": "3 முழு சதுரங்கள் (3) மற்றும் பத்தில் நான்கு பகுதிகள் (0.4) சேர்ந்தால், 3 + 0.4 = 3.4.",
+        "question_en": "The decimal number represented by the pictogram showing 3 full squares and 4 small parts is",
+        "options_en": [
+            "34",
+            "3.4",
+            "4.3",
+            "30.04"
+        ],
+        "explanation_en": "3 full squares represent 3 ones, and 4 small parts represent 4 tenths (0.4). Total = 3.4."
+    },
+    {
+        "id": 8,
+        "question": "கொடுக்கப்பட்ட மதிப்புகளில் 7 இன் இடமதிப்பு எந்த எண்ணில் பெரியதாக அமைந்துள்ளது?",
+        "options": [
+            "0.17",
+            "60.72",
+            "7.31",
+            "71.45"
+        ],
+        "correct": 3,
+        "explanation": "0.17 இல் 7-இன் மதிப்பு 0.07. \n60.72 இல் மதிப்பு 0.7. \n7.31 இல் மதிப்பு 7. \n71.45 இல் 7-இன் மதிப்பு 70 (பத்துகள் இடம்). எனவே 71.45 என்பதே பெரிய இடமதிப்பைக் கொண்டுள்ளது.",
+        "question_en": "In which of the given values is the place value of 7 the greatest?",
+        "options_en": [
+            "0.17",
+            "60.72",
+            "7.31",
+            "71.45"
+        ],
+        "explanation_en": "In 0.17, value is 0.07. \nIn 60.72, value is 0.7. \nIn 7.31, value is 7. \nIn 71.45, the value of 7 is 70 (tens place). Thus, 71.45 has the greatest place value for 7."
+    },
+    {
+        "id": 9,
+        "question": "கூற்று 1: 703.71 செ.மீ = 0.70371 மீ\nகூற்று 2: 5 செ.மீ = 0.05 மீ\nகொடுக்கப்பட்ட கூற்றுகளில் எது சரியானது?",
+        "options": [
+            "கூற்று 1 சரி ஆனால் கூற்று 2 தவறு",
+            "கூற்று 2 சரி ஆனால் கூற்று 1 தவறு",
+            "இரண்டு கூற்றுகளும் சரி",
+            "இரண்டு கூற்றுகளும் தவறு"
+        ],
+        "correct": 1,
+        "explanation": "1 மீ = 100 செ.மீ. \n703.71 செ.மீ = 703.71 / 100 = 7.0371 மீ (ஆனால் 0.70371 மீ எனக் கொடுக்கப்பட்டுள்ளதால் கூற்று 1 தவறு). \n5 செ.மீ = 5 / 100 = 0.05 மீ (கூற்று 2 சரி).",
+        "question_en": "Statement 1: 703.71 cm = 0.70371 m\nStatement 2: 5 cm = 0.05 m\nWhich of the given statements is true?",
+        "options_en": [
+            "Statement 1 is true but Statement 2 is false",
+            "Statement 2 is true but Statement 1 is false",
+            "Both statements are true",
+            "Both statements are false"
+        ],
+        "explanation_en": "1 m = 100 cm. \n703.71 cm = 703.71 / 100 = 7.0371 m (Given as 0.70371 m, so Statement 1 is false). \n5 cm = 5 / 100 = 0.05 m (Statement 2 is true)."
+    },
+    {
+        "id": 10,
+        "question": "7 செ.மீ = ___ மீ.",
+        "options": [
+            "7",
+            "0.7",
+            "0.07",
+            "0.007"
+        ],
+        "correct": 2,
+        "explanation": "சென்டிமீட்டரை மீட்டராக மாற்ற 100-ஆல் வகுக்க வேண்டும். 7 ÷ 100 = 0.07 மீ.",
+        "question_en": "7 cm = ___ m.",
+        "options_en": [
+            "7",
+            "0.7",
+            "0.07",
+            "0.007"
+        ],
+        "explanation_en": "To convert cm to m, divide by 100. 7 ÷ 100 = 0.07 m."
+    },
+    {
+        "id": 11,
+        "question": "375 மி.மீ = ___ செ.மீ.",
+        "options": [
+            "375",
+            "3.75",
+            "37.5",
+            "0.375"
+        ],
+        "correct": 2,
+        "explanation": "1 செ.மீ = 10 மி.மீ. எனவே மில்லிமீட்டரை சென்டிமீட்டராக மாற்ற 10-ஆல் வகுக்க வேண்டும். 375 ÷ 10 = 37.5 செ.மீ.",
+        "question_en": "375 mm = ___ cm.",
+        "options_en": [
+            "375",
+            "3.75",
+            "37.5",
+            "0.375"
+        ],
+        "explanation_en": "1 cm = 10 mm. To convert mm to cm, divide by 10. 375 ÷ 10 = 37.5 cm."
+    },
+    {
+        "id": 12,
+        "question": "5 இன் இடமதிப்பு 'பத்தில் ஒன்றுகளாக' (Tenths) அமைந்துள்ள எண் பின்வருவனவற்றில் எது?",
+        "options": [
+            "53.61",
+            "9.657",
+            "15.32",
+            "43.59"
+        ],
+        "correct": 3,
+        "explanation": "தசமப் புள்ளிக்கு அடுத்து வலப்புறம் வரும் முதல் இலக்கம் 'பத்தில் ஒன்றாம்' இடமாகும். 43.59 என்ற எண்ணில்தான் 5 அந்த இடத்தில் உள்ளது.",
+        "question_en": "In which of the following numbers is the place value of 5 in the tenths place?",
+        "options_en": [
+            "53.61",
+            "9.657",
+            "15.32",
+            "43.59"
+        ],
+        "explanation_en": "The first digit to the right of the decimal point is the tenths place. In 43.59, 5 is in the tenths place."
+    },
+    {
+        "id": 13,
+        "question": "85.073 என்ற எண்ணில் 3ன் இடமதிப்பு",
+        "options": [
+            "பத்தில் ஒன்று",
+            "நூறில் ஒன்று",
+            "ஆயிரம்",
+            "ஆயிரத்தில் ஒன்று"
+        ],
+        "correct": 3,
+        "explanation": "தசமப் புள்ளிக்குப் பின் 3-வது இடத்தில் உள்ளதால், இதன் இடமதிப்பு 'ஆயிரத்தில் ஒன்று' (1/1000) ஆகும்.",
+        "question_en": "The place value of 3 in the number 85.073 is",
+        "options_en": [
+            "Tenths",
+            "Hundredths",
+            "Thousands",
+            "Thousandths"
+        ],
+        "explanation_en": "Since 3 is in the third decimal place, its place value is thousandths (1/1000)."
+    },
+    {
+        "id": 14,
+        "question": "கிராமைக் கிலோகிராமாக மாற்றுவதற்கு நாம் ___ ஆல் வகுக்க வேண்டும்.",
+        "options": [
+            "10000",
+            "1000",
+            "100",
+            "10"
+        ],
+        "correct": 1,
+        "explanation": "1 கிலோகிராம் = 1000 கிராம். எனவே, கிராமைக் கிலோகிராமாக மாற்ற 1000-ஆல் வகுக்க வேண்டும்.",
+        "question_en": "To convert grams to kilograms, we must divide by",
+        "options_en": [
+            "10000",
+            "1000",
+            "100",
+            "10"
+        ],
+        "explanation_en": "1 kilogram = 1000 grams. So, to convert grams to kilograms, divide by 1000."
+    },
+    {
+        "id": 15,
+        "question": "30 கிலோகிராம் 43 கிராமுக்குச் சமமான தசம எண் ___ கி.கி.",
+        "options": [
+            "30.43",
+            "30.430",
+            "30.043",
+            "30.0043"
+        ],
+        "correct": 2,
+        "explanation": "43 கிராம் = 43 ÷ 1000 கி.கி = 0.043 கி.கி. \nமொத்தம் = 30 + 0.043 = 30.043 கி.கி.",
+        "question_en": "The decimal equivalent of 30 kilograms 43 grams is ___ kg.",
+        "options_en": [
+            "30.43",
+            "30.430",
+            "30.043",
+            "30.0043"
+        ],
+        "explanation_en": "43 grams = 43 ÷ 1000 kg = 0.043 kg. \nTotal = 30 + 0.043 = 30.043 kg."
+    },
+    {
+        "id": 16,
+        "question": "மட்டைப்பந்து ஆடுகளத்தின் அகலம் 264 செ.மீ எனில், அது ___ மீட்டருக்குச் சமம்.",
+        "options": [
+            "26.4",
+            "2.64",
+            "0.264",
+            "0.0264"
+        ],
+        "correct": 1,
+        "explanation": "1 மீ = 100 செ.மீ. \nஎனவே, 264 செ.மீ = 264 ÷ 100 = 2.64 மீ.",
+        "question_en": "If the width of a cricket pitch is 264 cm, it is equal to ___ meters.",
+        "options_en": [
+            "26.4",
+            "2.64",
+            "0.264",
+            "0.0264"
+        ],
+        "explanation_en": "1 m = 100 cm. \nSo, 264 cm = 264 ÷ 100 = 2.64 m."
+    },
+    {
+        "id": 17,
+        "question": "3983 மீட்டருக்குச் சமமான கி.மீ.-ன் மதிப்பு",
+        "options": [
+            "0.3983",
+            "3.983",
+            "39.83",
+            "398.3"
+        ],
+        "correct": 1,
+        "explanation": "1 கி.மீ = 1000 மீ. \n3983 மீ = 3983 ÷ 1000 = 3.983 கி.மீ.",
+        "question_en": "The value of 3983 meters in km is",
+        "options_en": [
+            "0.3983",
+            "3.983",
+            "39.83",
+            "398.3"
+        ],
+        "explanation_en": "1 km = 1000 m. \n3983 m = 3983 ÷ 1000 = 3.983 km."
+    },
+    {
+        "id": 18,
+        "question": "கீழே கொடுக்கப்பட்டுள்ளவற்றுள் சரியான மதிப்புடைய இணைகளைக் காண்க:\n(a) 537 செ.மீ = 0.0537 மீ.\n(b) 4 மீ = 0.004 கி.மீ.\n(c) 165 செ.மீ = 1.65 மீ.\n(d) 28 மி.மீ = 0.0028 மீ.",
+        "options": [
+            "a, b",
+            "b, c",
+            "c, d",
+            "d, a"
+        ],
+        "correct": 1,
+        "explanation": "கூற்று (b): 4 மீ = 4 ÷ 1000 கி.மீ = 0.004 கி.மீ (சரி). \nகூற்று (c): 165 செ.மீ = 165 ÷ 100 மீ = 1.65 மீ (சரி). \nஎனவே b மற்றும் c சரியானவை.",
+        "question_en": "Identify the pairs with correct values among the following:\n(a) 537 cm = 0.0537 m.\n(b) 4 m = 0.004 km.\n(c) 165 cm = 1.65 m.\n(d) 28 mm = 0.0028 m.",
+        "options_en": [
+            "a, b",
+            "b, c",
+            "c, d",
+            "d, a"
+        ],
+        "explanation_en": "Statement (b): 4 m = 4 ÷ 1000 km = 0.004 km (True). \nStatement (c): 165 cm = 165 ÷ 100 m = 1.65 m (True). \nHence, b and c are correct."
+    },
+    {
+        "id": 19,
+        "question": "கீழ்க்கண்ட தசம எண்களில் பத்தாம் (Tens) இடமதிப்பில் அதிக மதிப்பைக் கொண்டுள்ள எண்",
+        "options": [
+            "25.178",
+            "0.025",
+            "428.01",
+            "173.17"
+        ],
+        "correct": 3,
+        "explanation": "எண்களின் பத்துகள் (Tens) இடமதிப்பு:\n25.178 ➔ 2 (மதிப்பு 20)\n0.025 ➔ 0\n428.01 ➔ 2 (மதிப்பு 20)\n173.17 ➔ 7 (மதிப்பு 70)\nஎனவே 173.17 என்பதே பத்தாம் இடத்தில் அதிக மதிப்பைக் கொண்டுள்ளது.",
+        "question_en": "Among the following decimal numbers, which one has the highest value in the tens place?",
+        "options_en": [
+            "25.178",
+            "0.025",
+            "428.01",
+            "173.17"
+        ],
+        "explanation_en": "Values in the tens place:\n25.178 ➔ 2 (value 20)\n0.025 ➔ 0\n428.01 ➔ 2 (value 20)\n173.17 ➔ 7 (value 70)\nThus, 173.17 has the highest value in the tens place."
+    },
+    {
+        "id": 20,
+        "question": "256 மீ.க்குச் சமமான கி.மீ.ன் மதிப்பு",
+        "options": [
+            "25.6",
+            "2.56",
+            "256",
+            "0.256"
+        ],
+        "correct": 3,
+        "explanation": "மீட்டரை கிலோமீட்டராக மாற்ற 1000 ஆல் வகுக்க வேண்டும். 256 ÷ 1000 = 0.256 கி.மீ.",
+        "question_en": "The value of 256 m in km is",
+        "options_en": [
+            "25.6",
+            "2.56",
+            "256",
+            "0.256"
+        ],
+        "explanation_en": "To convert meters to kilometers, divide by 1000. 256 ÷ 1000 = 0.256 km."
+    },
+    {
+        "id": 21,
+        "question": "147 ரூபாய் 70 பைசாவைக் குறிக்கும் தசம எண்",
+        "options": [
+            "70.147",
+            "1.4770",
+            "147.70",
+            "14.77"
+        ],
+        "correct": 2,
+        "explanation": "1 ரூபாய் = 100 பைசா. எனவே 70 பைசா = 0.70 ரூபாய். 147 ரூபாய் + 0.70 ரூபாய் = 147.70 ரூபாய்.",
+        "question_en": "The decimal number representing 147 rupees and 70 paise is",
+        "options_en": [
+            "70.147",
+            "1.4770",
+            "147.70",
+            "14.77"
+        ],
+        "explanation_en": "1 Rupee = 100 paise. So, 70 paise = 0.70 Rupees. 147 Rupees + 0.70 Rupees = 147.70 Rupees."
+    },
+    {
+        "id": 22,
+        "question": "4328 செ.மீ. க்குச் சமமான மீட்டரின் மதிப்பு",
+        "options": [
+            "43.28",
+            "4.328",
+            "432.8",
+            "0.4328"
+        ],
+        "correct": 0,
+        "explanation": "1 மீட்டர் = 100 செ.மீ. எனவே, சென்டிமீட்டரை மீட்டராக மாற்ற 100 ஆல் வகுக்க வேண்டும். 4328 ÷ 100 = 43.28 மீ.",
+        "question_en": "The equivalent value of 4328 cm in meters is",
+        "options_en": [
+            "43.28",
+            "4.328",
+            "432.8",
+            "0.4328"
+        ],
+        "explanation_en": "1 meter = 100 cm. Thus, to convert cm to m, divide by 100. 4328 ÷ 100 = 43.28 m."
+    },
+    {
+        "id": 23,
+        "question": "24 கி.மீ. 200 மீ ஐக் குறிக்கும் தசம எண் ___ கி.மீ.",
+        "options": [
+            "2.4200",
+            "0.24200",
+            "24.200",
+            "242.00"
+        ],
+        "correct": 2,
+        "explanation": "1 கி.மீ = 1000 மீ. 200 மீ = 200/1000 கி.மீ = 0.200 கி.மீ. மொத்தம் = 24 கி.மீ + 0.200 கி.மீ = 24.200 கி.மீ.",
+        "question_en": "The decimal representation of 24 km 200 m is ___ km.",
+        "options_en": [
+            "2.4200",
+            "0.24200",
+            "24.200",
+            "242.00"
+        ],
+        "explanation_en": "1 km = 1000 m. 200 m = 200/1000 km = 0.200 km. Total = 24 km + 0.200 km = 24.200 km."
+    },
+    {
+        "id": 24,
+        "question": "9/10 கி.மீ. ஆனது 1 கி.மீக்கு எவ்வளவு குறைவாக உள்ளது?",
+        "options": [
+            "0.9",
+            "10.00",
+            "1",
+            "0.1"
+        ],
+        "correct": 3,
+        "explanation": "9/10 கி.மீ = 0.9 கி.மீ. 1 கி.மீக்கும் 0.9 கி.மீக்கும் உள்ள வித்தியாசம்: 1.0 - 0.9 = 0.1 கி.மீ.",
+        "question_en": "How much less is 9/10 km than 1 km?",
+        "options_en": [
+            "0.9",
+            "10.00",
+            "1",
+            "0.1"
+        ],
+        "explanation_en": "9/10 km = 0.9 km. The difference between 1 km and 0.9 km is: 1.0 - 0.9 = 0.1 km."
+    },
+    {
+        "id": 25,
+        "question": "பொருத்துக:\n(a) 1 செ.மீ ➔ (i) 1/100 மீ.\n(b) 1 மீ ➔ (ii) 1/1000 கி.மீ.\n(c) 1 மி.மீ ➔ (iii) 1/1000 மீ.\n(d) 1 மி.மீ ➔ (iv) 1/10 செ.மீ.",
+        "options": [
+            "a-ii, b-i, c-iv, d-iii",
+            "a-i, b-ii, c-iii, d-iv",
+            "a-iii, b-iv, c-i, d-ii",
+            "a-ii, b-i, c-iv, d-iii"
+        ],
+        "correct": 1,
+        "explanation": "(a) 1 செ.மீ = 1/100 மீ (i)\n(b) 1 மீ = 1/1000 கி.மீ (ii)\n(c) 1 மி.மீ = 1/1000 மீ (iii)\n(d) 1 மி.மீ = 1/10 செ.மீ (iv)\nஎனவே சரியான பொருத்தம் a-i, b-ii, c-iii, d-iv (மூலப்புத்தகத்தில் விருப்பங்கள் சற்று பிழையாக உள்ளன, சரிபார்க்கப்பட்டு திருத்தப்பட்டுள்ளது).",
+        "question_en": "Match the following:\n(a) 1 cm ➔ (i) 1/100 m.\n(b) 1 m ➔ (ii) 1/1000 km.\n(c) 1 mm ➔ (iii) 1/1000 m.\n(d) 1 mm ➔ (iv) 1/10 cm.",
+        "options_en": [
+            "a-ii, b-i, c-iv, d-iii",
+            "a-i, b-ii, c-iii, d-iv",
+            "a-iii, b-iv, c-i, d-ii",
+            "a-ii, b-i, c-iv, d-iii"
+        ],
+        "explanation_en": "(a) 1 cm = 1/100 m (i)\n(b) 1 m = 1/1000 km (ii)\n(c) 1 mm = 1/1000 m (iii)\n(d) 1 mm = 1/10 cm (iv)\nHence, the correct matching is a-i, b-ii, c-iii, d-iv (Options inferred and corrected for clarity)."
+    },
+    {
+        "id": 26,
+        "question": "ஒரு தசம எண்ணின் தசமப் பகுதியில் ஓர் இலக்கத்திலிருந்து அடுத்த இலக்கத்திற்கு வலப்புறமாக நகரும்போது இடமதிப்பானது",
+        "options": [
+            "10¹ ஆல் வகுக்கப்படுகிறது.",
+            "10¹ ஆல் பெருக்கப்படுகிறது.",
+            "100¹ ஆல் பெருக்கப்படுகிறது.",
+            "10⁻¹ ஆல் வகுக்கப்படுகிறது."
+        ],
+        "correct": 0,
+        "explanation": "தசமப் புள்ளியிலிருந்து வலப்புறமாக நகரும் போது (எ.கா: பத்தில் ஒன்றுகள், நூறில் ஒன்றுகள்), ஒவ்வொரு இலக்கத்தின் இடமதிப்பும் முந்தையதை விட 10 மடங்கு குறைகிறது. அதாவது 10 (அல்லது 10¹) ஆல் வகுக்கப்படுகிறது.",
+        "question_en": "In the decimal part of a decimal number, as we move from one digit to the next towards the right, the place value is",
+        "options_en": [
+            "divided by 10¹",
+            "multiplied by 10¹",
+            "multiplied by 100¹",
+            "divided by 10⁻¹"
+        ],
+        "explanation_en": "Moving to the right in the decimal part (e.g., tenths, hundredths), each digit's place value becomes 1/10th of the previous one. Meaning, it is divided by 10 (or 10¹)."
+    },
+    {
+        "id": 27,
+        "question": "5 கிலோகிராம் மற்றும் 4 கிராமுக்குச் சமமான தசம எண்",
+        "options": [
+            "5.4",
+            "5.04",
+            "5.004",
+            "5.0004"
+        ],
+        "correct": 2,
+        "explanation": "1 கிலோகிராம் = 1000 கிராம். 4 கிராம் = 4 ÷ 1000 = 0.004 கிலோகிராம். எனவே 5 + 0.004 = 5.004 கிலோகிராம்.",
+        "question_en": "The decimal number equivalent to 5 kilograms and 4 grams is",
+        "options_en": [
+            "5.4",
+            "5.04",
+            "5.004",
+            "5.0004"
+        ],
+        "explanation_en": "1 kg = 1000 g. 4 g = 4 ÷ 1000 = 0.004 kg. Thus, 5 + 0.004 = 5.004 kg."
+    },
+    {
+        "id": 28,
+        "question": "5.386296 என்ற எண்ணில் அடிக்கோடிட்ட இலக்கத்தின் (6) இடமதிப்பு",
+        "options": [
+            "நூறுகள்",
+            "நூறில் ஒன்றுகள்",
+            "பத்தில் ஒன்றுகள்",
+            "ஆயிரத்தில் ஒன்றுகள்"
+        ],
+        "correct": 3,
+        "explanation": "தசமப் புள்ளிக்குப் பின் முதல் இலக்கம் (3) பத்தில் ஒன்றுகள், இரண்டாம் இலக்கம் (8) நூறில் ஒன்றுகள், மூன்றாம் இலக்கம் (6) ஆயிரத்தில் ஒன்றுகள் (Thousandths) ஆகும்.",
+        "question_en": "The place value of the underlined digit (6) in the number 5.386296 is",
+        "options_en": [
+            "Hundreds",
+            "Hundredths",
+            "Tenths",
+            "Thousandths"
+        ],
+        "explanation_en": "After the decimal, the 1st digit (3) is tenths, 2nd (8) is hundredths, and 3rd (6) is thousandths."
+    },
+    {
+        "id": 29,
+        "question": "1.235 என்ற எண்ணில் பத்தில் ஒன்றுகள் (Tenths) இடத்தில் உள்ள எண்",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "தசமப் புள்ளிக்கு வலப்புறம் உள்ள முதல் இலக்கமே பத்தில் ஒன்றுகள் (Tenths) இடமாகும். இங்கு அந்த எண் 2.",
+        "question_en": "The digit in the tenths place in the number 1.235 is",
+        "options_en": [
+            "2",
+            "3",
+            "5",
+            "1"
+        ],
+        "explanation_en": "The first digit to the right of the decimal point is the tenths place. Here, it is 2."
+    },
+    {
+        "id": 30,
+        "question": "3/5 இன் தசம வடிவம்",
+        "options": [
+            "0.3",
+            "0.6",
+            "0.5",
+            "0.8"
+        ],
+        "correct": 1,
+        "explanation": "பகுதியை 10-ஆக மாற்ற, தொகுதியையும் பகுதியையும் 2-ஆல் பெருக்க வேண்டும். 3/5 = (3×2)/(5×2) = 6/10 = 0.6.",
+        "question_en": "The decimal form of 3/5 is",
+        "options_en": [
+            "0.3",
+            "0.6",
+            "0.5",
+            "0.8"
+        ],
+        "explanation_en": "To convert the denominator to 10, multiply both numerator and denominator by 2. 3/5 = (3×2)/(5×2) = 6/10 = 0.6."
+    },
+    {
+        "id": 31,
+        "question": "4/10 ன் தசம வடிவம்",
+        "options": [
+            "0.4",
+            "0.10",
+            "0.6",
+            "0.14"
+        ],
+        "correct": 0,
+        "explanation": "பகுதியில் 10 (ஒரு பூச்சியம்) உள்ளதால், தொகுதியில் ஒரு இலக்கம் தள்ளிப் புள்ளி வைக்க வேண்டும். விடை: 0.4.",
+        "question_en": "The decimal form of 4/10 is",
+        "options_en": [
+            "0.4",
+            "0.10",
+            "0.6",
+            "0.14"
+        ],
+        "explanation_en": "Since there is a 10 (one zero) in the denominator, place the decimal one digit from the right. Answer: 0.4."
+    },
+    {
+        "id": 32,
+        "question": "2/4 ன் தசம வடிவம்",
+        "options": [
+            "0.10",
+            "0.20",
+            "0.50",
+            "0.40"
+        ],
+        "correct": 2,
+        "explanation": "2/4 ஐச் சுருக்கினால் 1/2 கிடைக்கும். 1/2-இன் தசம மதிப்பு 0.5 (அல்லது 0.50).",
+        "question_en": "The decimal form of 2/4 is",
+        "options_en": [
+            "0.10",
+            "0.20",
+            "0.50",
+            "0.40"
+        ],
+        "explanation_en": "Simplifying 2/4 gives 1/2. The decimal equivalent of 1/2 is 0.5 (or 0.50)."
+    },
+    {
+        "id": 33,
+        "question": "4/20 ன் தசம வடிவம்",
+        "options": [
+            "0.2",
+            "0.5",
+            "0.8",
+            "0.24"
+        ],
+        "correct": 0,
+        "explanation": "4/20 ஐ 2-ஆல் சுருக்கினால் 2/10 கிடைக்கும். 2/10-இன் தசம வடிவம் 0.2.",
+        "question_en": "The decimal form of 4/20 is",
+        "options_en": [
+            "0.2",
+            "0.5",
+            "0.8",
+            "0.24"
+        ],
+        "explanation_en": "Simplifying 4/20 by dividing numerator and denominator by 2 gives 2/10. Its decimal form is 0.2."
+    },
+    {
+        "id": 34,
+        "question": "3 + 5/10 + 3/100 + 4/1000 ஐக் குறிக்கும் தசம எண்",
+        "options": [
+            "435.3",
+            "35.34",
+            "0.3534",
+            "3.534"
+        ],
+        "correct": 3,
+        "explanation": "3 (ஒன்றுகள்) + 0.5 (பத்தில் ஒன்றுகள்) + 0.03 (நூறில் ஒன்றுகள்) + 0.004 (ஆயிரத்தில் ஒன்றுகள்) = 3.534.",
+        "question_en": "The decimal number representing 3 + 5/10 + 3/100 + 4/1000 is",
+        "options_en": [
+            "435.3",
+            "35.34",
+            "0.3534",
+            "3.534"
+        ],
+        "explanation_en": "3 (ones) + 0.5 (tenths) + 0.03 (hundredths) + 0.004 (thousandths) = 3.534."
+    },
+    {
+        "id": 35,
+        "question": "40 + 6 + 2/100 + 3/1000 ஐக் குறிக்கும் தசம எண்",
+        "options": [
+            "46.23",
+            "46.023",
+            "46.0023",
+            "4.623"
+        ],
+        "correct": 1,
+        "explanation": "இங்கு பத்தில் ஒன்றுகள் (1/10) இடம் விடுபட்டுள்ளது. எனவே அந்த இடத்தில் '0' இட வேண்டும். 40 + 6 = 46. தசமப்பகுதி: .023. விடை: 46.023.",
+        "question_en": "The decimal number representing 40 + 6 + 2/100 + 3/1000 is",
+        "options_en": [
+            "46.23",
+            "46.023",
+            "46.0023",
+            "4.623"
+        ],
+        "explanation_en": "The tenths (1/10) place is missing, so we put a '0' there. 40 + 6 = 46. Decimal part: .023. Result: 46.023."
+    },
+    {
+        "id": 36,
+        "question": "2 + 9/10 + 9/100 + 9/1000 + 1/1000 = ?",
+        "options": [
+            "3",
+            "2",
+            "2.999",
+            "2.991"
+        ],
+        "correct": 0,
+        "explanation": "9/1000 + 1/1000 = 10/1000 = 1/100.\n9/100 + 1/100 = 10/100 = 1/10.\n9/10 + 1/10 = 10/10 = 1.\nகடைசியாக: 2 + 1 = 3.",
+        "question_en": "2 + 9/10 + 9/100 + 9/1000 + 1/1000 = ?",
+        "options_en": [
+            "3",
+            "2",
+            "2.999",
+            "2.991"
+        ],
+        "explanation_en": "9/1000 + 1/1000 = 10/1000 = 1/100.\n9/100 + 1/100 = 10/100 = 1/10.\n9/10 + 1/10 = 10/10 = 1.\nFinally: 2 + 1 = 3."
+    },
+    {
+        "id": 37,
+        "question": "399.95 க்குச் சமமான பின்ன வடிவம்",
+        "options": [
+            "79995/20",
+            "7999/20",
+            "3995/100",
+            "399/100"
+        ],
+        "correct": 1,
+        "explanation": "399.95 = 39995 / 100. தொகுதியையும் பகுதியையும் 5-ஆல் வகுத்தால், (39995 ÷ 5) / (100 ÷ 5) = 7999 / 20.",
+        "question_en": "The fractional form equal to 399.95 is",
+        "options_en": [
+            "79995/20",
+            "7999/20",
+            "3995/100",
+            "399/100"
+        ],
+        "explanation_en": "399.95 = 39995 / 100. Dividing both numerator and denominator by 5 gives (39995 ÷ 5) / (100 ÷ 5) = 7999 / 20."
+    },
+    {
+        "id": 38,
+        "question": "16/1000 ஐக் குறிக்கும் தசம எண்",
+        "options": [
+            "0.16",
+            "16.0",
+            "0.016",
+            "0.0016"
+        ],
+        "correct": 2,
+        "explanation": "பகுதியில் 1000 (மூன்று பூச்சியங்கள்) உள்ளதால், தொகுதியில் வலப்பக்கத்திலிருந்து மூன்று இலக்கங்கள் தள்ளிப் புள்ளி வைக்க வேண்டும். 16-க்கு இடதுபுறம் '0' சேர்த்துப் புள்ளி வைத்தால் 0.016 கிடைக்கும்.",
+        "question_en": "The decimal number representing 16/1000 is",
+        "options_en": [
+            "0.16",
+            "16.0",
+            "0.016",
+            "0.0016"
+        ],
+        "explanation_en": "Since there is 1000 (three zeros) in the denominator, place the decimal three digits from the right in the numerator. Adding a leading '0' gives 0.016."
+    },
+    {
+        "id": 39,
+        "question": "638/10 ஐக் குறிக்கும் தசம எண்",
+        "options": [
+            "6.38",
+            "63.8",
+            "0.638",
+            "638.0"
+        ],
+        "correct": 1,
+        "explanation": "10-ஆல் வகுப்பதால் வலப்பக்கத்திலிருந்து ஒரு இலக்கம் தள்ளிப் புள்ளி வைக்க வேண்டும். எனவே விடை 63.8.",
+        "question_en": "The decimal number representing 638/10 is",
+        "options_en": [
+            "6.38",
+            "63.8",
+            "0.638",
+            "638.0"
+        ],
+        "explanation_en": "Dividing by 10 requires placing the decimal one digit from the right. Hence, 63.8."
+    },
+    {
+        "id": 40,
+        "question": "1/20 ஐக் குறிக்கும் தசம எண்",
+        "options": [
+            "0.1",
+            "0.20",
+            "0.5",
+            "0.05"
+        ],
+        "correct": 3,
+        "explanation": "பகுதியை 100-ஆக மாற்ற 5-ஆல் பெருக்க வேண்டும். 1/20 = (1×5)/(20×5) = 5/100. 5/100-இன் தசம வடிவம் 0.05.",
+        "question_en": "The decimal number representing 1/20 is",
+        "options_en": [
+            "0.1",
+            "0.20",
+            "0.5",
+            "0.05"
+        ],
+        "explanation_en": "To make the denominator 100, multiply by 5. 1/20 = (1×5)/(20×5) = 5/100. The decimal form is 0.05."
+    },
+    {
+        "id": 41,
+        "question": "3/50 ஐக் குறிக்கும் தசம எண்",
+        "options": [
+            "0.6",
+            "6.0",
+            "0.06",
+            "0.006"
+        ],
+        "correct": 2,
+        "explanation": "பகுதியை 100-ஆக மாற்ற தொகுதியையும் பகுதியையும் 2-ஆல் பெருக்க வேண்டும். 3/50 = (3×2)/(50×2) = 6/100. 6/100-இன் தசம வடிவம் 0.06.",
+        "question_en": "The decimal number representing 3/50 is",
+        "options_en": [
+            "0.6",
+            "6.0",
+            "0.06",
+            "0.006"
+        ],
+        "explanation_en": "To make the denominator 100, multiply the numerator and denominator by 2. 3/50 = (3×2)/(50×2) = 6/100. Its decimal form is 0.06."
+    },
+    {
+        "id": 42,
+        "question": "0.0005 என்ற தசம எண்ணின் பின்ன வடிவம்",
+        "options": [
+            "5/10",
+            "5/100",
+            "5/1000",
+            "5/10000"
+        ],
+        "correct": 3,
+        "explanation": "தசமப் புள்ளிக்குப் பிறகு 4 இலக்கங்கள் உள்ளன. எனவே, பகுதியானது 1-ஐத் தொடர்ந்து 4 பூச்சியங்களைக் (10000) கொண்டிருக்க வேண்டும். விடை: 5/10000.",
+        "question_en": "The fractional form of the decimal number 0.0005 is",
+        "options_en": [
+            "5/10",
+            "5/100",
+            "5/1000",
+            "5/10000"
+        ],
+        "explanation_en": "There are 4 digits after the decimal point. So, the denominator must have 4 zeros after 1 (10000). Answer: 5/10000."
+    },
+    {
+        "id": 43,
+        "question": "100 சதுரங்களில் 35 சதுரங்கள் நிழலிடப்பட்டதன் தசம வடிவம்",
+        "options": [
+            "35",
+            "3.5",
+            "0.35",
+            "0.035"
+        ],
+        "correct": 2,
+        "explanation": "100 இல் 35 என்பது பின்ன வடிவில் 35/100 ஆகும். இதன் தசம வடிவம் 0.35.",
+        "question_en": "The decimal form of 35 shaded squares out of 100 squares is",
+        "options_en": [
+            "35",
+            "3.5",
+            "0.35",
+            "0.035"
+        ],
+        "explanation_en": "35 out of 100 is written as the fraction 35/100. Its decimal form is 0.35."
+    },
+    {
+        "id": 44,
+        "question": "431/500 க்கு இணையான மதிப்பு",
+        "options": [
+            "431/1000",
+            "862/100",
+            "862/1000",
+            "431/100"
+        ],
+        "correct": 2,
+        "explanation": "பகுதியை 1000-ஆக மாற்ற, தொகுதியையும் பகுதியையும் 2-ஆல் பெருக்க வேண்டும். (431 × 2) / (500 × 2) = 862/1000.",
+        "question_en": "The equivalent value of 431/500 is",
+        "options_en": [
+            "431/1000",
+            "862/100",
+            "862/1000",
+            "431/100"
+        ],
+        "explanation_en": "To make the denominator 1000, multiply both numerator and denominator by 2. (431 × 2) / (500 × 2) = 862/1000."
+    },
+    {
+        "id": 45,
+        "question": "153 + 96 + 7 + 5/10 + 2/1000",
+        "options": [
+            "256.502",
+            "256.052",
+            "256.520",
+            "256.025"
+        ],
+        "correct": 0,
+        "explanation": "முழு எண்களின் கூடுதல்: 153 + 96 + 7 = 256. தசமப் பகுதி: 5/10 (பத்தில் ஒன்றுகள்) = 0.5 மற்றும் 2/1000 (ஆயிரத்தில் ஒன்றுகள்) = 0.002. இங்கு நூறில் ஒன்றுகள் இடம் இல்லை (0). எனவே 256 + 0.5 + 0.002 = 256.502.",
+        "question_en": "153 + 96 + 7 + 5/10 + 2/1000",
+        "options_en": [
+            "256.502",
+            "256.052",
+            "256.520",
+            "256.025"
+        ],
+        "explanation_en": "Sum of whole numbers: 153 + 96 + 7 = 256. Decimal part: 5/10 = 0.5 and 2/1000 = 0.002. The hundredths place is missing (0). So, 256 + 0.5 + 0.002 = 256.502."
+    },
+    {
+        "id": 46,
+        "question": "23 + 6/10 + 8/1000 ன் மதிப்பு",
+        "options": [
+            "23.68",
+            "23.608",
+            "23.068",
+            "2.368"
+        ],
+        "correct": 1,
+        "explanation": "முழு எண் 23. பத்தில் ஒன்றுகள்: 6 (0.6). நூறில் ஒன்றுகள் இல்லை (0). ஆயிரத்தில் ஒன்றுகள்: 8 (0.008). எனவே, 23 + 0.6 + 0 + 0.008 = 23.608.",
+        "question_en": "The value of 23 + 6/10 + 8/1000 is",
+        "options_en": [
+            "23.68",
+            "23.608",
+            "23.068",
+            "2.368"
+        ],
+        "explanation_en": "Whole number is 23. Tenths: 6 (0.6). Hundredths is missing (0). Thousandths: 8 (0.008). Total = 23 + 0.6 + 0 + 0.008 = 23.608."
+    },
+    {
+        "id": 47,
+        "question": "நானூற்று நான்கு, நூறில் ஐந்து என்ற எழுத்துருவின் எண் உருவம்",
+        "options": [
+            "44.5",
+            "404.105",
+            "404.05",
+            "404.5"
+        ],
+        "correct": 2,
+        "explanation": "'நானூற்று நான்கு' என்பது 404. 'நூறில் ஐந்து' (5 hundredths) என்பது 5/100 = 0.05. இவற்றைச் சேர்த்தால் 404.05 கிடைக்கும்.",
+        "question_en": "The numeral form of the words 'Four hundred four and five hundredths' is",
+        "options_en": [
+            "44.5",
+            "404.105",
+            "404.05",
+            "404.5"
+        ],
+        "explanation_en": "'Four hundred four' is 404. 'Five hundredths' is 5/100 = 0.05. Combining them gives 404.05."
+    },
+    {
+        "id": 48,
+        "question": "0.85 மி.கி க்குச் சமமான பின்ன வடிவம்",
+        "options": [
+            "0.17/100",
+            "8.5/10",
+            "85/10",
+            "17/20"
+        ],
+        "correct": 3,
+        "explanation": "0.85 ஐப் பின்னமாக எழுதினால் 85/100. தொகுதியையும் பகுதியையும் 5-ஆல் வகுத்துச் சுருக்கினால் 17/20 கிடைக்கும்.",
+        "question_en": "The fractional form equivalent to 0.85 mg is",
+        "options_en": [
+            "0.17/100",
+            "8.5/10",
+            "85/10",
+            "17/20"
+        ],
+        "explanation_en": "0.85 as a fraction is 85/100. Simplifying by dividing numerator and denominator by 5 gives 17/20."
+    },
+    {
+        "id": 49,
+        "question": "6 + 0/10 + 0/100 + 9/1000 தசம வடிவம்",
+        "options": [
+            "60.09",
+            "0.6009",
+            "600.9",
+            "6.009"
+        ],
+        "correct": 3,
+        "explanation": "முழு எண் 6. பத்தில் மற்றும் நூறில் ஒன்றுகள் 0. ஆயிரத்தில் ஒன்றுகள் 9. எனவே 6 + 0.009 = 6.009.",
+        "question_en": "The decimal form of 6 + 0/10 + 0/100 + 9/1000 is",
+        "options_en": [
+            "60.09",
+            "0.6009",
+            "600.9",
+            "6.009"
+        ],
+        "explanation_en": "Whole number is 6. Tenths and hundredths are 0. Thousandths is 9. Thus, 6 + 0.009 = 6.009."
+    },
+    {
+        "id": 50,
+        "question": "பின்வரும் பின்னங்களில் ஒரே அளவிலான / சமமான தசம மதிப்பைப் பெற்ற பின்னங்கள் எவை?\n(a) 2/7 (b) 4/5 (c) 8/10 (d) 12/15",
+        "options": [
+            "a, b மற்றும் c",
+            "b, c மற்றும் d",
+            "b மற்றும் d",
+            "a, c மற்றும் d"
+        ],
+        "correct": 1,
+        "explanation": "b) 4/5 = 0.8 \nc) 8/10 = 0.8 \nd) 12/15 (3 ஆல் சுருக்கினால்) = 4/5 = 0.8. \na) 2/7 என்பது 0.285...என மாறுபடும். எனவே b, c, d மூன்றும் சமம்.",
+        "question_en": "Which among the following fractions have the same / equivalent decimal value?\n(a) 2/7 (b) 4/5 (c) 8/10 (d) 12/15",
+        "options_en": [
+            "a, b and c",
+            "b, c and d",
+            "b and d",
+            "a, c and d"
+        ],
+        "explanation_en": "b) 4/5 = 0.8\nc) 8/10 = 0.8\nd) 12/15 (simplified by 3) = 4/5 = 0.8.\na) 2/7 is approximately 0.285... Thus, b, c, and d are equivalent."
+    },
+    {
+        "id": 51,
+        "question": "6.4 இன் சுருங்கிய வடிவம்",
+        "options": [
+            "64/10",
+            "64/5",
+            "32/10",
+            "32/5"
+        ],
+        "correct": 3,
+        "explanation": "6.4 ஐப் பின்னமாக எழுதினால் 64/10. இதை 2-ஆல் சுருக்கினால் 32/5 கிடைக்கும்.",
+        "question_en": "The simplest fractional form of 6.4 is",
+        "options_en": [
+            "64/10",
+            "64/5",
+            "32/10",
+            "32/5"
+        ],
+        "explanation_en": "6.4 written as a fraction is 64/10. Simplifying it by 2 yields 32/5."
+    },
+    {
+        "id": 52,
+        "question": "2.34 ன் எளிய பின்ன வடிவம்",
+        "options": [
+            "117/50",
+            "9/50",
+            "89/25",
+            "234/100"
+        ],
+        "correct": 0,
+        "explanation": "2.34 = 234 / 100. இதனை 2-ஆல் வகுத்துச் சுருக்கினால் 117 / 50 கிடைக்கும்.",
+        "question_en": "The simplest fractional form of 2.34 is",
+        "options_en": [
+            "117/50",
+            "9/50",
+            "89/25",
+            "234/100"
+        ],
+        "explanation_en": "2.34 = 234 / 100. Dividing both by 2 gives 117 / 50."
+    },
+    {
+        "id": 53,
+        "question": "3 + 4/100 + 9/1000 = ___",
+        "options": [
+            "30.49",
+            "3049",
+            "3.0049",
+            "3.049"
+        ],
+        "correct": 3,
+        "explanation": "பத்தில் ஒன்றுகள் இடம் கொடுக்கப்படவில்லை (அது 0). எனவே 3 (ஒன்றுகள்) + 0.04 (நூறில்) + 0.009 (ஆயிரத்தில்) = 3.049.",
+        "question_en": "3 + 4/100 + 9/1000 = ___",
+        "options_en": [
+            "30.49",
+            "3049",
+            "3.0049",
+            "3.049"
+        ],
+        "explanation_en": "The tenths place is missing (it is 0). So, 3 (ones) + 0.04 (hundredths) + 0.009 (thousandths) = 3.049."
+    },
+    {
+        "id": 54,
+        "question": "3/5 = ___ (தசம வடிவம்)",
+        "options": [
+            "0.06",
+            "0.006",
+            "6",
+            "0.6"
+        ],
+        "correct": 3,
+        "explanation": "3/5 என்பதை தசமமாக மாற்ற, பகுதியையும் தொகுதியையும் 2 ஆல் பெருக்க வேண்டும். 6/10 = 0.6.",
+        "question_en": "3/5 = ___ (Decimal form)",
+        "options_en": [
+            "0.06",
+            "0.006",
+            "6",
+            "0.6"
+        ],
+        "explanation_en": "To convert 3/5 to a decimal, multiply numerator and denominator by 2. 6/10 = 0.6."
+    },
+    {
+        "id": 55,
+        "question": "0.35 இன் சுருங்கிய வடிவம்",
+        "options": [
+            "35/1000",
+            "35/10",
+            "7/20",
+            "7/100"
+        ],
+        "correct": 2,
+        "explanation": "0.35 = 35/100. இரண்டையும் 5-ஆல் சுருக்கினால், 7/20 கிடைக்கும்.",
+        "question_en": "The simplest fractional form of 0.35 is",
+        "options_en": [
+            "35/1000",
+            "35/10",
+            "7/20",
+            "7/100"
+        ],
+        "explanation_en": "0.35 = 35/100. Dividing both by 5 yields 7/20."
+    },
+    {
+        "id": 56,
+        "question": "பின்வருவனவற்றில் வேறுபட்டது எது?",
+        "options": [
+            "2/5",
+            "4/5",
+            "8/10",
+            "12/15"
+        ],
+        "correct": 0,
+        "explanation": "4/5, 8/10, மற்றும் 12/15 ஆகிய மூன்றும் சமமான பின்னங்கள் (மதிப்பு 0.8). ஆனால் 2/5 (மதிப்பு 0.4) மட்டும் வேறுபட்டது.",
+        "question_en": "Which of the following is the odd one out?",
+        "options_en": [
+            "2/5",
+            "4/5",
+            "8/10",
+            "12/15"
+        ],
+        "explanation_en": "4/5, 8/10, and 12/15 are all equivalent fractions (value 0.8). However, 2/5 (value 0.4) is different."
+    },
+    {
+        "id": 57,
+        "question": "46.301 இன் பின்ன வடிவம்",
+        "options": [
+            "46301/100",
+            "46301/1000",
+            "46301/10000",
+            "46.301/1000"
+        ],
+        "correct": 1,
+        "explanation": "தசமப் புள்ளிக்குப் பிறகு 3 இலக்கங்கள் உள்ளதால், முழு எண்ணை 1000-ஆல் வகுத்துப் பின்னமாக எழுத வேண்டும். விடை: 46301 / 1000.",
+        "question_en": "The fractional form of 46.301 is",
+        "options_en": [
+            "46301/100",
+            "46301/1000",
+            "46301/10000",
+            "46.301/1000"
+        ],
+        "explanation_en": "Since there are 3 digits after the decimal point, write the number without the decimal and divide by 1000. Answer: 46301 / 1000."
+    },
+    {
+        "id": 58,
+        "question": "26 மாணவர்களும் 24 மாணவிகளும் கொண்ட வகுப்பில் மாணவிகளைக் குறிக்கும் தசம எண்",
+        "options": [
+            "0.26",
+            "0.24",
+            "0.58",
+            "0.48"
+        ],
+        "correct": 3,
+        "explanation": "மொத்த மாணவர்கள் = 26 + 24 = 50. மாணவிகளின் எண்ணிக்கை 24. பின்னம் = 24 / 50. இதைத் தசமமாக மாற்ற 2-ஆல் பெருக்க: 48 / 100 = 0.48.",
+        "question_en": "In a class of 26 boys and 24 girls, the decimal number representing the girls is",
+        "options_en": [
+            "0.26",
+            "0.24",
+            "0.58",
+            "0.48"
+        ],
+        "explanation_en": "Total students = 26 + 24 = 50. Number of girls is 24. Fraction = 24 / 50. Multiply by 2 to get a base of 100: 48 / 100 = 0.48."
+    },
+    {
+        "id": 59,
+        "question": "2.125 இன் சுருங்கிய பின்ன வடிவம்",
+        "options": [
+            "2/125",
+            "125/2",
+            "17/8",
+            "17/20"
+        ],
+        "correct": 2,
+        "explanation": "2.125 = 2125 / 1000. இதை 125 ஆல் சுருக்கினால், (2125 ÷ 125) / (1000 ÷ 125) = 17 / 8.",
+        "question_en": "The simplest fractional form of 2.125 is",
+        "options_en": [
+            "2/125",
+            "125/2",
+            "17/8",
+            "17/20"
+        ],
+        "explanation_en": "2.125 = 2125 / 1000. Simplifying it by dividing by 125 gives (2125 ÷ 125) / (1000 ÷ 125) = 17 / 8."
+    },
+    {
+        "id": 60,
+        "question": "0.0005 இன் சுருங்கிய பின்ன வடிவம்",
+        "options": [
+            "5/1000",
+            "5/10000",
+            "1/200",
+            "1/2000"
+        ],
+        "correct": 3,
+        "explanation": "0.0005 ஐப் பின்னமாக எழுதினால் 5/10000. இதை 5-ஆல் சுருக்கினால் 1/2000 கிடைக்கும்.",
+        "question_en": "The simplest fractional form of 0.0005 is",
+        "options_en": [
+            "5/1000",
+            "5/10000",
+            "1/200",
+            "1/2000"
+        ],
+        "explanation_en": "0.0005 as a fraction is 5/10000. Simplifying it by 5 yields 1/2000."
+    },
+    {
+        "id": 61,
+        "question": "3.7 என்ற எண்ணின் பின்ன வடிவம்",
+        "options": [
+            "37/10",
+            "37/100",
+            "3/10",
+            "3.7/100"
+        ],
+        "correct": 0,
+        "explanation": "தசமப்புள்ளிக்கு வலப்புறம் ஒரு இலக்கம் உள்ளதால், தொகுதியை 10-ஆல் வகுத்துப் பின்னமாக எழுதலாம். 3.7 = 37/10.",
+        "question_en": "The fractional form of 3.7 is",
+        "options_en": [
+            "37/10",
+            "37/100",
+            "3/10",
+            "3.7/100"
+        ],
+        "explanation_en": "Since there is one digit to the right of the decimal point, we can write it as a fraction with a denominator of 10. 3.7 = 37/10."
+    },
+    {
+        "id": 62,
+        "question": "7.8 = 7 + (8 / ?)",
+        "options": [
+            "1",
+            "8",
+            "10",
+            "100"
+        ],
+        "correct": 2,
+        "explanation": "7.8 என்பது 7 (ஒன்றுகள்) மற்றும் 8 (பத்தில் ஒன்றுகள்) ஆகும். எனவே 7.8 = 7 + 8/10. விடுபட்ட இடத்தில் 10 வரும்.",
+        "question_en": "7.8 = 7 + (8 / ?)",
+        "options_en": [
+            "1",
+            "8",
+            "10",
+            "100"
+        ],
+        "explanation_en": "7.8 is composed of 7 (ones) and 8 (tenths). Thus, 7.8 = 7 + 8/10. The missing number is 10."
+    },
+    {
+        "id": 63,
+        "question": "3 நூறில் ஒன்றுகள் என்பது",
+        "options": [
+            "0.003",
+            "0.03",
+            "0.300",
+            "300"
+        ],
+        "correct": 1,
+        "explanation": "3 நூறில் ஒன்றுகள் (3 hundredths) என்பது 3/100. இதன் தசம மதிப்பு 0.03.",
+        "question_en": "3 hundredths is",
+        "options_en": [
+            "0.003",
+            "0.03",
+            "0.300",
+            "300"
+        ],
+        "explanation_en": "3 hundredths is written as 3/100. Its decimal value is 0.03."
+    },
+    {
+        "id": 64,
+        "question": "2 பத்துகள் மற்றும் 6 ஆயிரத்தில் ஒன்றுகள் என்பது",
+        "options": [
+            "20.6",
+            "20.06",
+            "210.6000",
+            "20.006"
+        ],
+        "correct": 3,
+        "explanation": "2 பத்துகள் = 20. 6 ஆயிரத்தில் ஒன்றுகள் = 6/1000 = 0.006. இரண்டையும் கூட்டினால், 20 + 0.006 = 20.006.",
+        "question_en": "2 tens and 6 thousandths is",
+        "options_en": [
+            "20.6",
+            "20.06",
+            "210.6000",
+            "20.006"
+        ],
+        "explanation_en": "2 tens = 20. 6 thousandths = 6/1000 = 0.006. Adding them gives 20 + 0.006 = 20.006."
+    },
+    {
+        "id": 65,
+        "question": "400 + 60 + 5 + 0.1 + 0.06 + 0.009",
+        "options": [
+            "465.619",
+            "456.619",
+            "465.169",
+            "465.916"
+        ],
+        "correct": 2,
+        "explanation": "முழு எண்களின் கூடுதல்: 400 + 60 + 5 = 465. தசம எண்களின் கூடுதல்: 0.1 + 0.06 + 0.009 = 0.169. ஆக மொத்தம் 465.169.",
+        "question_en": "400 + 60 + 5 + 0.1 + 0.06 + 0.009",
+        "options_en": [
+            "465.619",
+            "456.619",
+            "465.169",
+            "465.916"
+        ],
+        "explanation_en": "Sum of whole numbers: 400 + 60 + 5 = 465. Sum of decimals: 0.1 + 0.06 + 0.009 = 0.169. Total is 465.169."
+    },
+    {
+        "id": 66,
+        "question": "4 3/25 ன் தசம எண் வடிவம்",
+        "options": [
+            "4.15",
+            "4.25",
+            "4.12",
+            "4.18"
+        ],
+        "correct": 2,
+        "explanation": "பகுதியை 100-ஆக மாற்ற, 3/25-இன் தொகுதியையும் பகுதியையும் 4-ஆல் பெருக்க வேண்டும்: 12/100 = 0.12. எனவே 4 + 0.12 = 4.12.",
+        "question_en": "The decimal form of 4 3/25 is",
+        "options_en": [
+            "4.15",
+            "4.25",
+            "4.12",
+            "4.18"
+        ],
+        "explanation_en": "To convert the fraction to a denominator of 100, multiply the numerator and denominator of 3/25 by 4: 12/100 = 0.12. So, 4 + 0.12 = 4.12."
+    },
+    {
+        "id": 67,
+        "question": "8 1/5 இன் தசம வடிவம்",
+        "options": [
+            "8.2",
+            "8.5",
+            "41.5",
+            "5.7"
+        ],
+        "correct": 0,
+        "explanation": "1/5 என்பதை 2/10 என எழுதலாம். 2/10-இன் தசம மதிப்பு 0.2. எனவே 8 + 0.2 = 8.2.",
+        "question_en": "The decimal form of 8 1/5 is",
+        "options_en": [
+            "8.2",
+            "8.5",
+            "41.5",
+            "5.7"
+        ],
+        "explanation_en": "1/5 can be written as 2/10. The decimal value of 2/10 is 0.2. Hence, 8 + 0.2 = 8.2."
+    },
+    {
+        "id": 68,
+        "question": "2.06 இன் விரிவாக்க வடிவம்",
+        "options": [
+            "(2 × 10) + (6 × 1/10)",
+            "(2 × 10) + (6 × 1/100)",
+            "(2 × 1) + (6 × 1/100)",
+            "(2 × 1) + (6 × 1/10)"
+        ],
+        "correct": 2,
+        "explanation": "இங்கு 2 என்பது ஒன்றுகள் இடத்தில் (2 × 1) உள்ளது. பத்தில் ஒன்றுகள் இடம் 0. 6 என்பது நூறில் ஒன்றுகள் இடத்தில் (6 × 1/100) உள்ளது.",
+        "question_en": "The expanded form of 2.06 is",
+        "options_en": [
+            "(2 × 10) + (6 × 1/10)",
+            "(2 × 10) + (6 × 1/100)",
+            "(2 × 1) + (6 × 1/100)",
+            "(2 × 1) + (6 × 1/10)"
+        ],
+        "explanation_en": "Here, 2 is in the ones place (2 × 1). The tenths place is 0. 6 is in the hundredths place (6 × 1/100)."
+    },
+    {
+        "id": 69,
+        "question": "7/32 இன் சரியான தசம எண் மதிப்பு",
+        "options": [
+            "0.2180",
+            "0.0218",
+            "0.2188",
+            "0.21875"
+        ],
+        "correct": 3,
+        "explanation": "7 ஐ 32 ஆல் வகுக்கும் போது, சரியான தசம மதிப்பு 0.21875 என கிடைக்கும்.",
+        "question_en": "The exact decimal value of 7/32 is",
+        "options_en": [
+            "0.2180",
+            "0.0218",
+            "0.2188",
+            "0.21875"
+        ],
+        "explanation_en": "Dividing 7 by 32 gives the exact decimal value of 0.21875."
+    },
+    {
+        "id": 70,
+        "question": "0.0020",
+        "options": [
+            "2/1000",
+            "2/100",
+            "2/10",
+            "100/2"
+        ],
+        "correct": 0,
+        "explanation": "0.0020 என்பது 20/10000. இதன் தொகுதியையும் பகுதியையும் 10-ஆல் சுருக்கினால், 2/1000 கிடைக்கும்.",
+        "question_en": "0.0020",
+        "options_en": [
+            "2/1000",
+            "2/100",
+            "2/10",
+            "100/2"
+        ],
+        "explanation_en": "0.0020 is equal to 20/10000. Simplifying it by dividing by 10 gives 2/1000."
+    },
+    {
+        "id": 71,
+        "question": "5 பத்துகள் + 5 நூறில் ஒன்றுகளின் பின்னம்",
+        "options": [
+            "5005/100",
+            "505/100",
+            "55/100",
+            "50/100"
+        ],
+        "correct": 0,
+        "explanation": "5 பத்துகள் = 50. 5 நூறில் ஒன்றுகள் = 0.05. ஆக மொத்தம் 50.05. இதனைப் பின்னமாக எழுதினால் 5005/100.",
+        "question_en": "The fraction for 5 tens + 5 hundredths is",
+        "options_en": [
+            "5005/100",
+            "505/100",
+            "55/100",
+            "50/100"
+        ],
+        "explanation_en": "5 tens = 50. 5 hundredths = 0.05. The sum is 50.05. Written as a fraction, it is 5005/100."
+    },
+    {
+        "id": 72,
+        "question": "\"9 பத்துகள் + 5 ஒன்றுகள் + 3 பத்தில் ஒன்றுகள் + 7 நூறில் ஒன்றுகள்\" பின்ன வடிவில் எழுதினால் கிடைப்பது",
+        "options": [
+            "9437/100",
+            "9537/100",
+            "9000/100",
+            "9637/100"
+        ],
+        "correct": 1,
+        "explanation": "90 + 5 + 0.3 + 0.07 = 95.37. இது பின்ன வடிவில் 9537/100 என வரும்.",
+        "question_en": "\"9 tens + 5 ones + 3 tenths + 7 hundredths\" written in fractional form gives",
+        "options_en": [
+            "9437/100",
+            "9537/100",
+            "9000/100",
+            "9637/100"
+        ],
+        "explanation_en": "90 + 5 + 0.3 + 0.07 = 95.37. As a fraction, this is 9537/100."
+    },
+    {
+        "id": 73,
+        "question": "2 + (8 × 0.1) + (6 × 0.01) + (4 × 0.001) = ?",
+        "options": [
+            "0.2864",
+            "2.864",
+            "28.64",
+            "2864"
+        ],
+        "correct": 1,
+        "explanation": "2 + 0.8 + 0.06 + 0.004 = 2.864.",
+        "question_en": "2 + (8 × 0.1) + (6 × 0.01) + (4 × 0.001) = ?",
+        "options_en": [
+            "0.2864",
+            "2.864",
+            "28.64",
+            "2864"
+        ],
+        "explanation_en": "2 + 0.8 + 0.06 + 0.004 = 2.864."
+    },
+    {
+        "id": 74,
+        "question": "4 மணி 50 நிமிடங்கள் = ___ மணி.",
+        "options": [
+            "4.5",
+            "42",
+            "4.84",
+            "4.833"
+        ],
+        "correct": 3,
+        "explanation": "50 நிமிடம் = 50/60 மணி = 5/6 மணி = 0.833... மணி. எனவே 4 + 0.833 = 4.833 மணி.",
+        "question_en": "4 hours 50 minutes = ___ hours.",
+        "options_en": [
+            "4.5",
+            "42",
+            "4.84",
+            "4.833"
+        ],
+        "explanation_en": "50 minutes = 50/60 hours = 5/6 hours = 0.833... hours. So, 4 + 0.833 = 4.833 hours."
+    },
+    {
+        "id": 75,
+        "question": "கொடுக்கப்பட்ட எண்களில் பெரிய எண்",
+        "options": [
+            "3.300",
+            "3.030",
+            "3.003",
+            "3.0003"
+        ],
+        "correct": 0,
+        "explanation": "பத்தில் ஒன்றுகள் (Tenths) இடமதிப்பை ஒப்பிடுகையில், 3.300-ல் 3 உள்ளது. மற்றவற்றில் பத்தில் ஒன்றுகள் இடத்தில் 0 மட்டுமே உள்ளது. எனவே 3.300 தான் பெரியது.",
+        "question_en": "The largest number among the given numbers is",
+        "options_en": [
+            "3.300",
+            "3.030",
+            "3.003",
+            "3.0003"
+        ],
+        "explanation_en": "Comparing the tenths place, 3.300 has a 3. The others have 0 in the tenths place. Thus, 3.300 is the largest."
+    },
+    {
+        "id": 76,
+        "question": "கூற்று 1: 0.05 < 0.005. கூற்று 2: 13.52 > 13.523. கொடுக்கப்பட்ட கூற்றுகளில் எது சரியானது?",
+        "options": [
+            "கூற்று 1 சரி ஆனால் கூற்று 2 தவறு",
+            "கூற்று 2 சரி ஆனால் கூற்று 1 தவறு",
+            "இரண்டும் சரி",
+            "இரண்டும் தவறு"
+        ],
+        "correct": 3,
+        "explanation": "கூற்று 1: 0.05 ஆனது 0.005 ஐ விடப் பெரியது, எனவே தவறு. கூற்று 2: 13.520 ஆனது 13.523 ஐ விடச் சிறியது, எனவே இதுவும் தவறு.",
+        "question_en": "Statement 1: 0.05 < 0.005. Statement 2: 13.52 > 13.523. Which of the given statements is true?",
+        "options_en": [
+            "Statement 1 is true but Statement 2 is false",
+            "Statement 2 is true but Statement 1 is false",
+            "Both are true",
+            "Both are false"
+        ],
+        "explanation_en": "Statement 1: 0.05 is greater than 0.005, so it is false. Statement 2: 13.520 is smaller than 13.523, so it is also false."
+    },
+    {
+        "id": 77,
+        "question": "கொடுக்கப்பட்டுள்ள எண்களில் பெரிய எண் எது? 17.35, 71.53, 51.73, 73.51, 37.51",
+        "options": [
+            "17.35",
+            "71.53",
+            "73.51",
+            "37.51"
+        ],
+        "correct": 2,
+        "explanation": "முழு எண் பகுதிகளை முதலில் ஒப்பிட வேண்டும்: 17, 71, 51, 73, 37. இவற்றில் 73 தான் மிகப் பெரியது. எனவே 73.51 பெரிய எண்.",
+        "question_en": "Which of the given numbers is the largest? 17.35, 71.53, 51.73, 73.51, 37.51",
+        "options_en": [
+            "17.35",
+            "71.53",
+            "73.51",
+            "37.51"
+        ],
+        "explanation_en": "Comparing the whole number parts: 17, 71, 51, 73, 37. The largest whole number is 73. So, 73.51 is the largest."
+    },
+    {
+        "id": 78,
+        "question": "0.009 = ___",
+        "options": [
+            "0.90",
+            "0.090",
+            "0.00900",
+            "0.900"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு தசம எண்ணின் வலதுபுற இறுதியில் எத்தனை பூச்சியங்களைச் சேர்த்தாலும் அதன் மதிப்பு மாறாது. எனவே 0.009 = 0.00900.",
+        "question_en": "0.009 = ___",
+        "options_en": [
+            "0.90",
+            "0.090",
+            "0.00900",
+            "0.900"
+        ],
+        "explanation_en": "Adding trailing zeros to the right of a decimal does not change its value. Hence, 0.009 = 0.00900."
+    },
+    {
+        "id": 79,
+        "question": "37.70 [  ] 37.7 - கட்டத்திற்குள் வரும் பொருத்தமான குறியீடு எது?",
+        "options": [
+            "=",
+            "<",
+            ">",
+            "≠"
+        ],
+        "correct": 0,
+        "explanation": "37.70 மற்றும் 37.7 இரண்டும் சமம். ஏனெனில் தசம எண்ணில் வலதுபுற இறுதியில் உள்ள பூச்சியத்திற்கு மதிப்பு இல்லை.",
+        "question_en": "37.70 [  ] 37.7 - What is the appropriate sign to fill in the box?",
+        "options_en": [
+            "=",
+            "<",
+            ">",
+            "≠"
+        ],
+        "explanation_en": "37.70 and 37.7 are equal because trailing zeros at the end of a decimal do not change its value."
+    },
+    {
+        "id": 80,
+        "question": "78.56 [  ] 78.57 - கட்டத்திற்குள் வரும் பொருத்தமான குறியீடு எது?",
+        "options": [
+            "=",
+            "<",
+            ">",
+            "ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "முழு எண் (78) மற்றும் பத்தில் ஒன்றுகள் (5) சமமாக உள்ளன. நூறில் ஒன்றுகளை ஒப்பிடும்போது, 78.56-ல் உள்ள 6 ஆனது 78.57-ல் உள்ள 7-ஐ விடச் சிறியது. எனவே '<' குறியீடு வரும்.",
+        "question_en": "78.56 [  ] 78.57 - What is the appropriate sign to fill in the box?",
+        "options_en": [
+            "=",
+            "<",
+            ">",
+            "None"
+        ],
+        "explanation_en": "The whole numbers (78) and tenths (5) are the same. Comparing the hundredths, 6 in 78.56 is less than 7 in 78.57. So, the '<' sign is correct."
+    },
+    {
+        "id": 81,
+        "question": "கீழ்க்கண்டவற்றுள் சரியானது எது?",
+        "options": [
+            "546.37 > 457.71 > 456.73 > 563.47 > 745.63",
+            "745.63 > 563.47 > 546.37 > 457.71 > 456.73",
+            "745.63 < 563.47 < 546.37 < 457.71 < 456.73",
+            "456.73 > 563.47 > 457.71 > 745.63 > 546.37"
+        ],
+        "correct": 1,
+        "explanation": "கொடுக்கப்பட்ட எண்களை இறங்கு வரிசையில் (பெரியதிலிருந்து சிறியது) சரியாக வரிசைப்படுத்தியிருப்பது விருப்பம் (2) ஆகும். 745 > 563 > 546 > 457.71 > 456.73.",
+        "question_en": "Which of the following is correct?",
+        "options_en": [
+            "546.37 > 457.71 > 456.73 > 563.47 > 745.63",
+            "745.63 > 563.47 > 546.37 > 457.71 > 456.73",
+            "745.63 < 563.47 < 546.37 < 457.71 < 456.73",
+            "456.73 > 563.47 > 457.71 > 745.63 > 546.37"
+        ],
+        "explanation_en": "Option (2) correctly arranges the given decimal numbers in descending order."
+    },
+    {
+        "id": 82,
+        "question": "15.7, 15.68, 15.6, 15.74, 15.67 என்ற எண்களின் இறங்கு வரிசை முறை",
+        "options": [
+            "15.7 > 15.74 > 15.6 > 15.67 > 15.68",
+            "15.67 > 15.68 > 15.74 > 15.7 > 15.6",
+            "15.6 > 15.67 > 15.68 > 15.7 > 15.74",
+            "15.74 > 15.7 > 15.68 > 15.67 > 15.6"
+        ],
+        "correct": 3,
+        "explanation": "இறங்கு வரிசை (Descending order): 15.74 > 15.70 > 15.68 > 15.67 > 15.60. எனவே விருப்பம் (4) சரியானது.",
+        "question_en": "The descending order of the numbers 15.7, 15.68, 15.6, 15.74, 15.67 is",
+        "options_en": [
+            "15.7 > 15.74 > 15.6 > 15.67 > 15.68",
+            "15.67 > 15.68 > 15.74 > 15.7 > 15.6",
+            "15.6 > 15.67 > 15.68 > 15.7 > 15.74",
+            "15.74 > 15.7 > 15.68 > 15.67 > 15.6"
+        ],
+        "explanation_en": "Descending order: 15.74 > 15.70 > 15.68 > 15.67 > 15.60. Thus, option (4) is correct."
+    },
+    {
+        "id": 83,
+        "question": "0.0700 [  ] 0.0070 - கட்டத்திற்குள் வரும் பொருத்தமான குறியீடு எது?\n(a) = \n(b) < \n(c) > \n(d) ≠",
+        "options": [
+            "a மட்டும்",
+            "c மட்டும்",
+            "c மற்றும் d",
+            "b மற்றும் d"
+        ],
+        "correct": 2,
+        "explanation": "0.0700 (அதாவது 0.07) ஆனது 0.0070 (அதாவது 0.007) ஐ விடப் பெரியது. எனவே 0.0700 > 0.0070 என்பது சரி (c). மேலும் அவை இரண்டும் சமமல்ல (d). எனவே c மற்றும் d இரண்டும் சரி.",
+        "question_en": "0.0700 [  ] 0.0070 - What is the appropriate sign to fill in the box?\n(a) = \n(b) < \n(c) > \n(d) ≠",
+        "options_en": [
+            "Only a",
+            "Only c",
+            "c and d",
+            "b and d"
+        ],
+        "explanation_en": "0.0700 (or 0.07) is greater than 0.0070 (or 0.007). So, 0.0700 > 0.0070 is correct (c). Also, they are not equal (d). Hence, both c and d are correct."
+    },
+    {
+        "id": 84,
+        "question": "1/2 ஐ விடப் பெரியது எது?",
+        "options": [
+            "0.7",
+            "0.25",
+            "0.48",
+            "0.299"
+        ],
+        "correct": 0,
+        "explanation": "1/2 இன் தசம மதிப்பு 0.5 ஆகும். கொடுக்கப்பட்ட விருப்பங்களில் 0.5 ஐ விடப் பெரிய எண் 0.7 மட்டுமே.",
+        "question_en": "Which of the following is greater than 1/2?",
+        "options_en": [
+            "0.7",
+            "0.25",
+            "0.48",
+            "0.299"
+        ],
+        "explanation_en": "The decimal value of 1/2 is 0.5. Among the options, only 0.7 is greater than 0.5."
+    },
+    {
+        "id": 85,
+        "question": "0.00063, 0.0063, 0.063, 0.63 ல் உள்ளது.",
+        "options": [
+            "ஏறுவரிசை",
+            "இறங்கு வரிசை",
+            "கூட்டு வரிசை",
+            "ஏதுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "கொடுக்கப்பட்ட எண்கள் சிறியதிலிருந்து பெரியதாக வரிசைப்படுத்தப்பட்டுள்ளன. இது ஏறுவரிசை (Ascending order) ஆகும்.",
+        "question_en": "0.00063, 0.0063, 0.063, 0.63 are in",
+        "options_en": [
+            "Ascending order",
+            "Descending order",
+            "Arithmetic progression",
+            "None"
+        ],
+        "explanation_en": "The given numbers are arranged from smallest to largest. This is Ascending order."
+    },
+    {
+        "id": 86,
+        "question": "கீழ்க்கண்டவற்றுள் எது சரியான கூற்று?",
+        "options": [
+            "63% > 0.6",
+            "0.66 = 5/9",
+            "4/5 > 11/25",
+            "1/6 > 0.17"
+        ],
+        "correct": 2,
+        "explanation": "விருப்பம் (3)-ஐச் சரிபார்த்தால்: 4/5 = 0.8. மற்றும் 11/25 = 44/100 = 0.44. இங்கு 0.8 > 0.44 என்பது முற்றிலும் சரியான கூற்றாகும். (மூலப்புத்தகத்தில் 4/5 என்பதற்குப் பதிலாக 455 எனத் தட்டச்சுப் பிழை உள்ளது).",
+        "question_en": "Which of the following is a correct statement?",
+        "options_en": [
+            "63% > 0.6",
+            "0.66 = 5/9",
+            "4/5 > 11/25",
+            "1/6 > 0.17"
+        ],
+        "explanation_en": "Checking option (3): 4/5 = 0.8. And 11/25 = 44/100 = 0.44. Here, 0.8 > 0.44 is absolutely correct. (Note: The source has a typo writing 455 instead of 4/5)."
+    },
+    {
+        "id": 87,
+        "question": "பின்வருவனவற்றுள் எது சமமான தசம எண் ஜோடி?",
+        "options": [
+            "100.010, 100.100",
+            "12.1010, 12.0010",
+            "16.001, 16.100",
+            "5.1010, 5.1010000"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு தசம எண்ணின் வலதுபுற இறுதியில் எத்தனை பூச்சியங்களைச் சேர்த்தாலும் அதன் மதிப்பு மாறாது. எனவே 5.1010 மற்றும் 5.1010000 இரண்டும் சமமே.",
+        "question_en": "Which of the following is a pair of equivalent decimal numbers?",
+        "options_en": [
+            "100.010, 100.100",
+            "12.1010, 12.0010",
+            "16.001, 16.100",
+            "5.1010, 5.1010000"
+        ],
+        "explanation_en": "Adding trailing zeros to a decimal does not change its value. Hence, 5.1010 and 5.1010000 are equal."
+    },
+    {
+        "id": 88,
+        "question": "கீழ்க்கண்டவற்றுள் எந்தக் கூற்று சரியானது?",
+        "options": [
+            "0.5 = 5/1000",
+            "0.5 < 5/1000",
+            "0.5 > 5/1000",
+            "0.5 ≠ 5/10"
+        ],
+        "correct": 2,
+        "explanation": "5/1000 இன் தசம மதிப்பு 0.005. 0.5 என்பது 0.005 ஐ விடப் பெரியது. எனவே 0.5 > 5/1000 என்பதே சரியான கூற்று.",
+        "question_en": "Which of the following statements is true?",
+        "options_en": [
+            "0.5 = 5/1000",
+            "0.5 < 5/1000",
+            "0.5 > 5/1000",
+            "0.5 ≠ 5/10"
+        ],
+        "explanation_en": "The decimal value of 5/1000 is 0.005. 0.5 is greater than 0.005. Thus, 0.5 > 5/1000 is true."
+    },
+    {
+        "id": 89,
+        "question": "கொடுக்கப்பட்டுள்ள எண்களில் சிறிய மதிப்பைக் கொண்டுள்ள எண்",
+        "options": [
+            "10.01",
+            "10.13",
+            "10.10",
+            "10.31"
+        ],
+        "correct": 0,
+        "explanation": "அனைத்து எண்களிலும் முழு எண் 10 ஆக உள்ளது. தசமப் பகுதியை ஒப்பிடும்போது, பத்தில் ஒன்றுகள் இடத்தில் 10.01-ல் மட்டுமே 0 உள்ளது (இதுவே சிறியது).",
+        "question_en": "The number with the smallest value among the given options is",
+        "options_en": [
+            "10.01",
+            "10.13",
+            "10.10",
+            "10.31"
+        ],
+        "explanation_en": "The whole number part is 10 for all. Comparing the decimal parts, only 10.01 has a 0 in the tenths place, making it the smallest."
+    },
+    {
+        "id": 90,
+        "question": "கீழ்க்கண்ட எண்களில் எது பெரியது?",
+        "options": [
+            "94.002",
+            "94.123",
+            "94.103",
+            "94.312"
+        ],
+        "correct": 3,
+        "explanation": "பத்தில் ஒன்றுகள் (Tenths) இடமதிப்பை ஒப்பிடுகையில், 94.312-ல் மட்டுமே 3 உள்ளது. மற்றவற்றில் அதைவிடச் சிறிய எண்களே உள்ளன. எனவே 94.312 பெரியது.",
+        "question_en": "Which of the following numbers is the largest?",
+        "options_en": [
+            "94.002",
+            "94.123",
+            "94.103",
+            "94.312"
+        ],
+        "explanation_en": "Comparing the tenths place, 94.312 has a 3. The others have smaller digits. Thus, 94.312 is the largest."
+    },
+    {
+        "id": 91,
+        "question": "9/20 [  ] 0.45 - கட்டத்திற்குள் வரும் பொருத்தமான குறியீடு எது?",
+        "options": [
+            "=",
+            "<",
+            ">",
+            "≠"
+        ],
+        "correct": 0,
+        "explanation": "9/20 ஐத் தசமமாக மாற்ற 5 ஆல் பெருக்க வேண்டும்: (9×5)/(20×5) = 45/100 = 0.45. இரண்டும் சமம்.",
+        "question_en": "9/20 [  ] 0.45 - What is the appropriate sign to fill in the box?",
+        "options_en": [
+            "=",
+            "<",
+            ">",
+            "≠"
+        ],
+        "explanation_en": "To convert 9/20 to decimal, multiply by 5: (9×5)/(20×5) = 45/100 = 0.45. Both are equal."
+    },
+    {
+        "id": 92,
+        "question": "மூன்று தசம இலக்கங்களைக் கொண்ட எண்ணில் மிகச்சிறிய மதிப்பு",
+        "options": [
+            "0.101",
+            "0.111",
+            "0.001",
+            "0.011"
+        ],
+        "correct": 2,
+        "explanation": "கொடுக்கப்பட்டுள்ள விருப்பங்களில் 0.001 மட்டுமே பத்தில் மற்றும் நூறில் ஒன்றுகள் இடங்களில் பூச்சியத்தைக் கொண்டுள்ளதால் இதுவே மிகச்சிறியது.",
+        "question_en": "The smallest value among the numbers with three decimal digits is",
+        "options_en": [
+            "0.101",
+            "0.111",
+            "0.001",
+            "0.011"
+        ],
+        "explanation_en": "Among the given options, only 0.001 has zeros in both the tenths and hundredths places, making it the smallest."
+    },
+    {
+        "id": 93,
+        "question": "3 1/5 க்கு இணையான தசம மதிப்பு எண்கோட்டில் எந்த இரு எண்களுக்கிடையே அமையும்?",
+        "options": [
+            "1 மற்றும் 2",
+            "2 மற்றும் 3",
+            "3 மற்றும் 4",
+            "4 மற்றும் 5"
+        ],
+        "correct": 2,
+        "explanation": "3 1/5 = 3 + 0.2 = 3.2. 3.2 என்ற எண்ணானது 3-ஐ விடப் பெரியது, 4-ஐ விடச் சிறியது. எனவே இது 3 க்கும் 4 க்கும் இடையில் அமையும்.",
+        "question_en": "The decimal value equivalent to 3 1/5 lies between which two numbers on the number line?",
+        "options_en": [
+            "1 and 2",
+            "2 and 3",
+            "3 and 4",
+            "4 and 5"
+        ],
+        "explanation_en": "3 1/5 = 3 + 0.2 = 3.2. 3.2 is greater than 3 and less than 4. So, it lies between 3 and 4."
+    },
+    {
+        "id": 94,
+        "question": "99/100 இன் தசம எண் மதிப்பு ... இக்கும் ... இக்கும் இடையில் அமையும்.",
+        "options": [
+            "99, 100",
+            "1, 2",
+            "0, 1",
+            "9, 10"
+        ],
+        "correct": 2,
+        "explanation": "99/100 = 0.99. 0.99 என்பது 0-ஐ விடப் பெரியது, 1-ஐ விடச் சிறியது.",
+        "question_en": "The decimal value of 99/100 lies between ... and ...",
+        "options_en": [
+            "99, 100",
+            "1, 2",
+            "0, 1",
+            "9, 10"
+        ],
+        "explanation_en": "99/100 = 0.99. 0.99 is greater than 0 and less than 1."
+    },
+    {
+        "id": 95,
+        "question": "0.43 என்ற எண் எண்கோட்டில் எவ்விரு எண்களுக்கு இடையில் அமையும்?",
+        "options": [
+            "0 மற்றும் 1",
+            "4 மற்றும் 3",
+            "6 மற்றும் 7",
+            "1 மற்றும் 2"
+        ],
+        "correct": 0,
+        "explanation": "0.43 என்பது 0 ஐ விடப் பெரிய எண் மற்றும் 1 ஐ விடச் சிறிய எண். எனவே இது 0 க்கும் 1 க்கும் இடையில் அமையும்.",
+        "question_en": "The number 0.43 lies between which two numbers on the number line?",
+        "options_en": [
+            "0 and 1",
+            "4 and 3",
+            "6 and 7",
+            "1 and 2"
+        ],
+        "explanation_en": "0.43 is greater than 0 and less than 1. So it lies between 0 and 1."
+    },
+    {
+        "id": 96,
+        "question": "1 ஐ விட அதிகமாகவும் 2 ஐ விடக் குறைவாகவும் உள்ள தசம எண்",
+        "options": [
+            "0.7",
+            "1.7",
+            "2.7",
+            "3.7"
+        ],
+        "correct": 1,
+        "explanation": "1-ஐ விடப் பெரியது, 2-ஐ விடச் சிறியது என்ற நிபந்தனையை நிறைவு செய்யும் ஒரே எண் 1.7 ஆகும்.",
+        "question_en": "The decimal number which is greater than 1 and less than 2 is",
+        "options_en": [
+            "0.7",
+            "1.7",
+            "2.7",
+            "3.7"
+        ],
+        "explanation_en": "The only number that satisfies the condition of being greater than 1 and less than 2 is 1.7."
+    },
+    {
+        "id": 97,
+        "question": "2 க்கும் 3 க்கும் இடையில் அமையும் தசம எண்",
+        "options": [
+            "0.9",
+            "1.9",
+            "2.9",
+            "3.9"
+        ],
+        "correct": 2,
+        "explanation": "கொடுக்கப்பட்ட விருப்பங்களில் 2.9 மட்டுமே 2-ஐ விடப் பெரியதாகவும், 3-ஐ விடச் சிறியதாகவும் உள்ளது.",
+        "question_en": "The decimal number that lies between 2 and 3 is",
+        "options_en": [
+            "0.9",
+            "1.9",
+            "2.9",
+            "3.9"
+        ],
+        "explanation_en": "Among the given options, only 2.9 is greater than 2 and less than 3."
+    },
+    {
+        "id": 98,
+        "question": "கொடுக்கப்பட்ட எண்கோட்டில் P இன் மதிப்பு:",
+        "image": "image/unit2/q98-102.PNG",
+        "options": [
+            "0.9",
+            "1.9",
+            "2.9",
+            "4.4"
+        ],
+        "correct": 1,
+        "explanation": "எண்கோட்டை உற்று நோக்கினால், P ஆனது 1-க்கும் 2-க்கும் இடையே, 2-க்கு ஒரு கோடு முன்னால் அமைந்துள்ளது. ஒரு அலகு 10 பாகங்களாகப் பிரிக்கப்பட்டுள்ளதால், P = 1.9.",
+        "question_en": "The value of P on the given number line is:",
+        "options_en": [
+            "0.9",
+            "1.9",
+            "2.9",
+            "4.4"
+        ],
+        "explanation_en": "Observing the number line, P is located between 1 and 2, one tick mark before 2. Since each unit is divided into 10 parts, P = 1.9."
+    },
+    {
+        "id": 99,
+        "question": "3 க்கும் 4 க்கும் இடையில் உள்ள எண்ணைக் குறிப்பது (எண்கோட்டின்படி)",
+        "image": "image/unit2/q98-102.PNG",
+        "options": [
+            "Q",
+            "P",
+            "R",
+            "T"
+        ],
+        "correct": 3,
+        "explanation": "படத்தில் T என்ற புள்ளியே 3 மற்றும் 4 என்ற எண்களுக்கிடையில் (அதாவது 3.6 என்ற இடத்தில்) குறிக்கப்பட்டுள்ளது.",
+        "question_en": "The point representing the number between 3 and 4 (according to the number line) is",
+        "options_en": [
+            "Q",
+            "P",
+            "R",
+            "T"
+        ],
+        "explanation_en": "In the image, point T is the only one marked between 3 and 4 (specifically at 3.6)."
+    },
+    {
+        "id": 100,
+        "question": "22/5 இன் தசம வடிவம் (எண்கோட்டின்படி எந்த எழுத்தைக் குறிக்கிறது?)",
+        "image": "image/unit2/q98-102.PNG",
+        "options": [
+            "Q",
+            "P",
+            "R",
+            "S"
+        ],
+        "correct": 3,
+        "explanation": "22/5 = 44/10 = 4.4. எண்கோட்டில் 4-க்கு அடுத்து 4-வது கோட்டில் S என்ற புள்ளி அமைந்துள்ளது. எனவே விடை S.",
+        "question_en": "The decimal form of 22/5 (which letter represents it on the number line?)",
+        "options_en": [
+            "Q",
+            "P",
+            "R",
+            "S"
+        ],
+        "explanation_en": "22/5 = 44/10 = 4.4. On the number line, point S is located at the 4th tick mark after 4. Hence, S is the answer."
+    },
+    {
+        "id": 101,
+        "question": "0 க்கும் 3 க்கும் இடையில் அமைந்த எண்களின் ஏறுவரிசை முறை (எண்கோட்டின்படி)",
+        "image": "image/unit2/q98-102.PNG",
+        "options": [
+            "Q, R, P",
+            "Q, P, R",
+            "R, P, Q",
+            "P, R, Q"
+        ],
+        "correct": 1,
+        "explanation": "எண்கோட்டின்படி Q = 1.3, P = 1.9, R = 2.7 ஆகும். இவற்றை ஏறுவரிசையில் (சிறியதிலிருந்து பெரியதாக) எழுதினால் Q, P, R என வரும்.",
+        "question_en": "The ascending order of the numbers lying between 0 and 3 (according to the number line) is",
+        "options_en": [
+            "Q, R, P",
+            "Q, P, R",
+            "R, P, Q",
+            "P, R, Q"
+        ],
+        "explanation_en": "According to the number line, Q = 1.3, P = 1.9, and R = 2.7. Arranging them in ascending order gives Q, P, R."
+    },
+    {
+        "id": 102,
+        "question": "கீழ்க்கண்டவற்றுள் எது சரி? (எண்கோட்டின்படி)",
+        "image": "image/unit2/q98-102.PNG",
+        "options": [
+            "P > S",
+            "T < Q",
+            "R > T",
+            "S > P"
+        ],
+        "correct": 3,
+        "explanation": "எண்கோட்டின்படி P = 1.9 மற்றும் S = 4.4. 4.4 ஆனது 1.9-ஐ விடப் பெரியது என்பதால் S > P என்பதே சரியான கூற்று.",
+        "question_en": "Which of the following is correct? (according to the number line)",
+        "options_en": [
+            "P > S",
+            "T < Q",
+            "R > T",
+            "S > P"
+        ],
+        "explanation_en": "According to the number line, P = 1.9 and S = 4.4. Since 4.4 is greater than 1.9, the statement S > P is correct."
+    },
+    {
+        "id": 103,
+        "question": "1.7 எந்த இரு எண்களுக்கு இடையில் அமையும்?",
+        "options": [
+            "2 மற்றும் 3",
+            "3 மற்றும் 4",
+            "1 மற்றும் 2",
+            "3 மற்றும் 5"
+        ],
+        "correct": 2,
+        "explanation": "1.7 என்ற தசம எண்ணானது 1-ஐ விடப் பெரியது, 2-ஐ விடச் சிறியது. எனவே இது 1 மற்றும் 2-க்கு இடையில் அமையும்.",
+        "question_en": "Between which two numbers does 1.7 lie?",
+        "options_en": [
+            "2 and 3",
+            "3 and 4",
+            "1 and 2",
+            "3 and 5"
+        ],
+        "explanation_en": "The decimal number 1.7 is greater than 1 and less than 2. Therefore, it lies between 1 and 2."
+    },
+    {
+        "id": 104,
+        "question": "4, 5 ஆகிய இரு முழு எண்களுக்கிடையில் அமைந்த தசம எண் எது?",
+        "options": [
+            "4.5",
+            "2.9",
+            "1.9",
+            "3.5"
+        ],
+        "correct": 0,
+        "explanation": "கொடுக்கப்பட்ட விருப்பங்களில் 4.5 மட்டுமே 4-ஐ விடப் பெரியதாகவும், 5-ஐ விடச் சிறியதாகவும் உள்ளது.",
+        "question_en": "Which of the following decimal numbers lies between the whole numbers 4 and 5?",
+        "options_en": [
+            "4.5",
+            "2.9",
+            "1.9",
+            "3.5"
+        ],
+        "explanation_en": "Among the given options, only 4.5 is greater than 4 and less than 5."
+    },
+    {
+        "id": 105,
+        "question": "கீழ்க்கண்ட தசம எண்களில், எண்கோட்டில் 6 க்கும் 7 க்கும் இடையில் அமையாத எண் எது?",
+        "options": [
+            "6.7",
+            "6.9",
+            "7.3",
+            "6.1"
+        ],
+        "correct": 2,
+        "explanation": "6.1, 6.7, மற்றும் 6.9 ஆகியவை 6-க்கும் 7-க்கும் இடையில் உள்ளன. ஆனால் 7.3 ஆனது 7-க்கும் 8-க்கும் இடையில் அமையும்.",
+        "question_en": "Which of the following decimal numbers does NOT lie between 6 and 7 on the number line?",
+        "options_en": [
+            "6.7",
+            "6.9",
+            "7.3",
+            "6.1"
+        ],
+        "explanation_en": "6.1, 6.7, and 6.9 lie between 6 and 7. But 7.3 lies between 7 and 8."
+    },
+    {
+        "id": 106,
+        "question": "பொருத்துக:\n(a) 0.2 ➔ (i) 1 க்கும் 2 க்கும் இடையில்\n(b) 3.4 ➔ (ii) 0 க்கும் 1 க்கும் இடையில்\n(c) 2.7 ➔ (iii) 2 க்கும் 3 க்கும் இடையில்\n(d) 1.9 ➔ (iv) 3 க்கும் 4 க்கும் இடையில்",
+        "options": [
+            "a-iv, b-iii, c-ii, d-i",
+            "a-v, b-iii, c-ii, d-i",
+            "a-ii, b-iv, c-iii, d-i",
+            "a-i, b-iv, c-iii, d-ii"
+        ],
+        "correct": 2,
+        "explanation": "0.2 ஆனது 0-க்கும் 1-க்கும் இடையில் உள்ளது (ii).\n3.4 ஆனது 3-க்கும் 4-க்கும் இடையில் உள்ளது (iv).\n2.7 ஆனது 2-க்கும் 3-க்கும் இடையில் உள்ளது (iii).\n1.9 ஆனது 1-க்கும் 2-க்கும் இடையில் உள்ளது (i).\nசரியான பொருத்தம்: a-ii, b-iv, c-iii, d-i.",
+        "question_en": "Match the following:\n(a) 0.2 ➔ (i) Between 1 and 2\n(b) 3.4 ➔ (ii) Between 0 and 1\n(c) 2.7 ➔ (iii) Between 2 and 3\n(d) 1.9 ➔ (iv) Between 3 and 4",
+        "options_en": [
+            "a-iv, b-iii, c-ii, d-i",
+            "a-v, b-iii, c-ii, d-i",
+            "a-ii, b-iv, c-iii, d-i",
+            "a-i, b-iv, c-iii, d-ii"
+        ],
+        "explanation_en": "0.2 is between 0 and 1 (ii).\n3.4 is between 3 and 4 (iv).\n2.7 is between 2 and 3 (iii).\n1.9 is between 1 and 2 (i).\nCorrect match: a-ii, b-iv, c-iii, d-i."
+    },
+    {
+        "id": 107,
+        "question": "நடராஜன் ஒரு கிரிக்கெட் போட்டியில் 7 ஓவர்கள் பந்து வீசி முடிக்கிறார். 8 வது ஓவரை வீசும்போது காயம் ஏற்பட்டதால் 3 பந்துகள் மட்டுமே அவரால் வீச முடிகிறது. எனில், அவர் எவ்வளவு ஓவர்கள் பந்து வீசினார்?",
+        "options": [
+            "8.3",
+            "8.5",
+            "7.5",
+            "7.3"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு ஓவர் என்பது 6 பந்துகள். 3 பந்துகள் என்பது அரை ஓவரைக் குறிக்கும் (3/6 = 0.5 ஓவர்). எனவே அவர் வீசிய மொத்த ஓவர்கள் 7 + 0.5 = 7.5 ஓவர்கள். (கிரிக்கெட் பேச்சு வழக்கில் இதனை 7.3 என எழுதினாலும், கணித ரீதியாக 7.5 என்பதே தசம வடிவத்தில் சரியான விடை).",
+        "question_en": "Natarajan completes bowling 7 overs in a cricket match. While bowling the 8th over, he gets injured and is only able to bowl 3 balls. How many overs did he bowl in total?",
+        "options_en": [
+            "8.3",
+            "8.5",
+            "7.5",
+            "7.3"
+        ],
+        "explanation_en": "An over consists of 6 balls. 3 balls mean half an over (3/6 = 0.5 overs). So, the total overs bowled are 7 + 0.5 = 7.5 overs. (While conventionally written as 7.3 in cricket, 7.5 is the correct mathematical decimal representation)."
+    },
+    {
+        "id": 108,
+        "question": "2/10 இன் தசம உரு (NMMS 2009)",
+        "options": [
+            "0.3",
+            "0.2",
+            "0.9",
+            "0.02"
+        ],
+        "correct": 1,
+        "explanation": "2 ஐ 10 ஆல் வகுக்க, வலப்பக்கத்திலிருந்து ஒரு இலக்கம் தள்ளிப் புள்ளி வைக்க வேண்டும். எனவே விடை 0.2 ஆகும்.",
+        "question_en": "The decimal form of 2/10 is (NMMS 2009)",
+        "options_en": [
+            "0.3",
+            "0.2",
+            "0.9",
+            "0.02"
+        ],
+        "explanation_en": "To divide 2 by 10, move the decimal point one place to the left. The answer is 0.2."
+    },
+    {
+        "id": 109,
+        "question": "2.164 + 16.032 + 8.1 = ?",
+        "options": [
+            "26.308",
+            "26.208",
+            "26.108",
+            "26.296"
+        ],
+        "correct": 3,
+        "explanation": "தசமப் புள்ளிகள் நேராக வருமாறு எண்களை வரிசைப்படுத்திக் கூட்ட வேண்டும்: \n  2.164 \n+ 16.032 \n+  8.100 \n= 26.296.",
+        "question_en": "2.164 + 16.032 + 8.1 = ?",
+        "options_en": [
+            "26.308",
+            "26.208",
+            "26.108",
+            "26.296"
+        ],
+        "explanation_en": "Align the decimal points and add: \n  2.164 \n+ 16.032 \n+  8.100 \n= 26.296."
+    },
+    {
+        "id": 110,
+        "question": "73.25 ÷ 1000 = ?",
+        "options": [
+            "0.7325",
+            "7.325",
+            "7325.0",
+            "0.07325"
+        ],
+        "correct": 3,
+        "explanation": "1000-ஆல் வகுக்கும்போது தசமப் புள்ளி மூன்று இலக்கங்கள் இடப்புறமாக நகரும். எனவே 73.25 ÷ 1000 = 0.07325.",
+        "question_en": "73.25 ÷ 1000 = ?",
+        "options_en": [
+            "0.7325",
+            "7.325",
+            "7325.0",
+            "0.07325"
+        ],
+        "explanation_en": "When dividing by 1000, move the decimal point three places to the left. 73.25 ÷ 1000 = 0.07325."
+    },
+    {
+        "id": 111,
+        "question": "103.092 என்பதில் 2 இன் இடமதிப்பு",
+        "options": [
+            "பத்தில் ஒன்று",
+            "நூறில் ஒன்று",
+            "பத்து",
+            "ஆயிரத்தில் ஒன்று"
+        ],
+        "correct": 3,
+        "explanation": "தசமப் புள்ளிக்கு அடுத்துள்ள முதல் இடம் பத்தில் ஒன்று, இரண்டாவது இடம் நூறில் ஒன்று, மூன்றாவது இடம் ஆயிரத்தில் ஒன்று. இங்கு 2 ஆனது மூன்றாவது இடத்தில் உள்ளதால், அது ஆயிரத்தில் ஒன்றுகளைக் குறிக்கும்.",
+        "question_en": "The place value of 2 in 103.092 is",
+        "options_en": [
+            "Tenths",
+            "Hundredths",
+            "Tens",
+            "Thousandths"
+        ],
+        "explanation_en": "The first place after the decimal is tenths, the second is hundredths, and the third is thousandths. Since 2 is in the third place, its value is thousandths."
+    },
+    {
+        "id": 112,
+        "question": "89 செ.மீ என்பதன் மீட்டர் மற்றும் தசம வடிவம்",
+        "options": [
+            "0.89",
+            "8.9",
+            "0.089",
+            "89"
+        ],
+        "correct": 0,
+        "explanation": "1 மீட்டர் = 100 செ.மீ. எனவே சென்டிமீட்டரை மீட்டராக மாற்ற 100 ஆல் வகுக்க வேண்டும். 89 ÷ 100 = 0.89 மீட்டர்.",
+        "question_en": "The decimal form of 89 cm in meters is",
+        "options_en": [
+            "0.89",
+            "8.9",
+            "0.089",
+            "89"
+        ],
+        "explanation_en": "1 meter = 100 cm. So, to convert cm to meters, divide by 100. 89 ÷ 100 = 0.89 m."
+    }
+]

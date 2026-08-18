@@ -1,0 +1,2904 @@
+[
+    {
+        "id": 1,
+        "question": "இரு புள்ளிகளுக்கு இடைப்பட்ட குறைந்தபட்ச தூரத்தின் பாதை _________ எனப்படும்.",
+        "options": [
+            "கோட்டுத்துண்டு",
+            "வளைகோடு",
+            "நாண்",
+            "கோணம்"
+        ],
+        "correct": 0,
+        "explanation": "இரு புள்ளிகளுக்கு இடைப்பட்ட நேரிய மற்றும் குறைந்தபட்ச தூரத்தின் பாதை கோட்டுத்துண்டு எனப்படும்.",
+        "question_en": "The path of the shortest distance between two points is called a _________.",
+        "options_en": [
+            "Line segment",
+            "Curve",
+            "Chord",
+            "Angle"
+        ],
+        "explanation_en": "The linear and shortest path between two points is called a line segment."
+    },
+    {
+        "id": 2,
+        "question": "இரு திசைகளிலும் முடிவில்லாமல் நீண்டு செல்லும் நேர்ப்பாதை _________ எனப்படும்.",
+        "options": [
+            "கோடு",
+            "கோட்டுத்துண்டு",
+            "கதிர்",
+            "தளம்"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு நேர்கோடு என்பது இருபுறமும் முடிவில்லாமல் நீள்வது ஆகும்.",
+        "question_en": "A straight path extending infinitely in both directions is called a _________.",
+        "options_en": [
+            "Line",
+            "Line segment",
+            "Ray",
+            "Plane"
+        ],
+        "explanation_en": "A line is a straight path that extends infinitely in both directions."
+    },
+    {
+        "id": 3,
+        "question": "இரு முடிவுப் புள்ளிகளைக் கொண்ட ஒரு நேர்கோட்டின் பகுதி _________ ஆகும்.",
+        "options": [
+            "கோடு",
+            "கோட்டுத்துண்டு",
+            "கதிர்",
+            "தளம்"
+        ],
+        "correct": 1,
+        "explanation": "ஒரு கோட்டுத் துண்டு என்பது ஒரு கோட்டின் பகுதியாகும், இதற்கு இரண்டு முடிவுப் புள்ளிகள் உள்ளன.",
+        "question_en": "A part of a straight line with two end points is a _________.",
+        "options_en": [
+            "Line",
+            "Line segment",
+            "Ray",
+            "Plane"
+        ],
+        "explanation_en": "A line segment is a part of a line that has two distinct end points."
+    },
+    {
+        "id": 4,
+        "question": "ஒரு புள்ளியில் தொடங்கி ஒரு திசையில் முடிவில்லாமல் செல்லும் நேர்ப்பாதை _________ எனப்படும்.",
+        "options": [
+            "கோடு",
+            "கோட்டுத்துண்டு",
+            "கதிர்",
+            "தளம்"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு கதிர் என்பது ஒரு புள்ளியில் தொடங்கி ஒரு குறிப்பிட்ட திசை வழியாக முடிவில்லாமல் நீள்வது ஆகும்.",
+        "question_en": "A straight path starting at a point and extending infinitely in one direction is called a _________.",
+        "options_en": [
+            "Line",
+            "Line segment",
+            "Ray",
+            "Plane"
+        ],
+        "explanation_en": "A ray is a straight path that begins at a point and extends infinitely in one particular direction."
+    },
+    {
+        "id": 5,
+        "question": "பொருத்துக.\n(a) கோடு - (i) [கதிர்]\n(b) கோட்டுத்துண்டு - (ii) [கோட்டுத்துண்டு]\n(c) கதிர் - (iii) [கோடு]",
+        "options": [
+            "a-iii, b-i, c-ii",
+            "a-ii, b-iii, c-i",
+            "a-i, b-ii, c-iii",
+            "a-ii, b-i, c-iii"
+        ],
+        "correct": 2,
+        "explanation": "சரியான பொருத்தம்: கோடு என்பது இருபுறமும் அம்புக்குறி கொண்டது. கோட்டுத்துண்டு என்பது இருபுறமும் முடிவுப் புள்ளிகள் கொண்டது. கதிர் என்பது ஒருபுறம் மட்டும் அம்புக்குறி கொண்டது.",
+        "question_en": "Match the following:\n(a) Line - (i) [Ray]\n(b) Line segment - (ii) [Line segment]\n(c) Ray - (iii) [Line]",
+        "options_en": [
+            "a-iii, b-i, c-ii",
+            "a-ii, b-iii, c-i",
+            "a-i, b-ii, c-iii",
+            "a-ii, b-i, c-iii"
+        ],
+        "explanation_en": "Correct match: A line has arrows on both sides. A line segment has two end points. A ray has an arrow on only one side."
+    },
+    {
+        "id": 6,
+        "question": "கோட்டுத்துண்டு, கதிர் மற்றும் கோடு ஆகியவற்றின் முடிவுப்புள்ளிகள் முறையே",
+        "options": [
+            "1, 0, 2",
+            "1, 2, 0",
+            "2, 1, 0",
+            "0, 1, 2"
+        ],
+        "correct": 2,
+        "explanation": "கோட்டுத்துண்டுக்கு 2 முடிவுப்புள்ளிகள் உள்ளன. கதிருக்கு 1 முடிவுப்புள்ளி உள்ளது. கோட்டிற்கு முடிவுப்புள்ளிகள் (0) இல்லை.",
+        "question_en": "The number of end points of a line segment, a ray, and a line are respectively",
+        "options_en": [
+            "1, 0, 2",
+            "1, 2, 0",
+            "2, 1, 0",
+            "0, 1, 2"
+        ],
+        "explanation_en": "A line segment has 2 end points. A ray has 1 end point. A line has 0 end points."
+    },
+    {
+        "id": 7,
+        "question": "ஒரு புள்ளியில் ஒன்றையொன்று வெட்டிக் கொள்ளும் கோடுகள் _________ எனப்படும்.",
+        "options": [
+            "செங்குத்துக் கோடுகள்",
+            "இணைகோடுகள்",
+            "வெட்டும் கோடுகள்",
+            "வளைகோடுகள்"
+        ],
+        "correct": 2,
+        "explanation": "இரு கோடுகளுக்குப் பொதுவாக ஒரு புள்ளி இருப்பின் அவை வெட்டும் கோடுகள் எனப்படும்.",
+        "question_en": "Lines intersecting at a point are called _________.",
+        "options_en": [
+            "Perpendicular lines",
+            "Parallel lines",
+            "Intersecting lines",
+            "Curved lines"
+        ],
+        "explanation_en": "If two lines have a common point, they are called intersecting lines."
+    },
+    {
+        "id": 8,
+        "question": "கொடுக்கப்பட்ட படத்தில், l, m, n ஆகியவை",
+        "options": [
+            "வெட்டும் கோடுகள்",
+            "ஒருபுள்ளி வழிச் செல்லும் கோடுகள்",
+            "(1) மற்றும் (2)",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "மூன்று அல்லது அதற்கும் மேற்பட்ட கோடுகள் ஒரு புள்ளி வழியாகச் சென்றால் அவை ஒரு புள்ளி வழிக் கோடுகள் (Concurrent lines) எனப்படும்.",
+        "question_en": "In the given figure, lines l, m, n are",
+        "options_en": [
+            "Intersecting lines",
+            "Concurrent lines",
+            "(1) and (2)",
+            "None of these"
+        ],
+        "explanation_en": "If three or more lines pass through a single point, they are called concurrent lines."
+    },
+    {
+        "id": 9,
+        "question": "AB க்கு இணையான கோடு எது?",
+        "options": [
+            "CD",
+            "EF",
+            "GH",
+            "IJ"
+        ],
+        "correct": 2,
+        "explanation": "படத்தில் AB மற்றும் GH ஆகிய இரண்டும் ஒன்றுக்கொன்று இணையாக (வெட்டிக்கொள்ளாமல்) செல்கின்றன.",
+        "question_en": "Which line is parallel to AB?",
+        "options_en": [
+            "CD",
+            "EF",
+            "GH",
+            "IJ"
+        ],
+        "explanation_en": "In the figure, AB and GH are parallel to each other (they never intersect)."
+    },
+    {
+        "id": 10,
+        "question": "எக்கோடுகள் CD-ஐ வெட்டுகின்றன?\na. AB\nb. IJ\nc. KL",
+        "options": [
+            "a மற்றும் b",
+            "a மற்றும் c",
+            "a, b மற்றும் c",
+            "b மற்றும் c"
+        ],
+        "correct": 3,
+        "explanation": "படத்தில் CD என்ற கோட்டை IJ மற்றும் KL ஆகிய இரண்டு கோடுகளும் வெட்டுகின்றன. AB இணையானது, அது CD-ஐ வெட்டவில்லை.",
+        "question_en": "Which lines intersect CD?\na. AB\nb. IJ\nc. KL",
+        "options_en": [
+            "a and b",
+            "a and c",
+            "a, b and c",
+            "b and c"
+        ],
+        "explanation_en": "In the figure, lines IJ and KL intersect the line CD. AB does not intersect CD."
+    },
+    {
+        "id": 11,
+        "question": "GH-க்குச் செங்குத்தான கோடு/ கோடுகள் எது/எவை?",
+        "options": [
+            "KL மட்டும்",
+            "KL மற்றும் IJ",
+            "AB மட்டும்",
+            "EF"
+        ],
+        "correct": 1,
+        "explanation": "GH என்ற செங்குத்துக் கோட்டை KL மற்றும் IJ என்ற இரண்டு கிடைமட்டக் கோடுகளும் 90° கோணத்தில் வெட்டுகின்றன.",
+        "question_en": "Which line(s) is/are perpendicular to GH?",
+        "options_en": [
+            "KL only",
+            "KL and IJ",
+            "AB only",
+            "EF"
+        ],
+        "explanation_en": "The vertical line GH is intersected at 90° by the horizontal lines KL and IJ."
+    },
+    {
+        "id": 12,
+        "question": "IJ என்ற கோட்டிற்கு இணையான கோடுகளின் எண்ணிக்கை?",
+        "options": [
+            "2",
+            "3",
+            "1",
+            "0"
+        ],
+        "correct": 2,
+        "explanation": "IJ என்ற கிடைமட்டக் கோட்டிற்கு இணையாக KL என்ற ஒரே ஒரு கோடு மட்டுமே படத்தில் உள்ளது.",
+        "question_en": "Number of lines parallel to the line IJ?",
+        "options_en": [
+            "2",
+            "3",
+            "1",
+            "0"
+        ],
+        "explanation_en": "There is only 1 line, KL, that is parallel to the horizontal line IJ in the figure."
+    },
+    {
+        "id": 13,
+        "question": "AB மற்றும் EF என்பவை",
+        "options": [
+            "இணைகோடுகள்",
+            "செங்குத்துக் கோடுகள்",
+            "வெட்டும் கோடுகள்",
+            "இவற்றில் எதுவும் இல்லை"
+        ],
+        "correct": 0,
+        "explanation": "AB மற்றும் EF ஆகிய இரண்டு கோடுகளும் வெட்டிக்கொள்ளாமல் செல்வதால் அவை இணைகோடுகள் ஆகும்.",
+        "question_en": "AB and EF are",
+        "options_en": [
+            "Parallel lines",
+            "Perpendicular lines",
+            "Intersecting lines",
+            "None of these"
+        ],
+        "explanation_en": "Since lines AB and EF do not intersect each other, they are parallel lines."
+    },
+    {
+        "id": 14,
+        "question": "கோடுகளைப் பொறுத்து பின்வருவனவற்றில் சரியானதைத் தேர்ந்தெடுக்கவும்.\n(i) ஒரு புள்ளியினைக் கொண்டு ஒரு கோட்டை மட்டுமே வரைய முடியும்.\n(ii) இரண்டு புள்ளிகளைக் கொண்டு இரண்டு அல்லது அதற்கு மேற்பட்ட கோடுகளை வரையலாம்.\n(iii) இணைகோடுகள் ஒருபோதும் வெட்டிக் கொள்ளாது.\n(iv) இரு கோடுகள் ஒரு புள்ளி வழியாகச் சென்றால் அவை ஒரு புள்ளி வழிச் செல்லும் கோடுகள் எனப்படும்.",
+        "options": [
+            "(i), (iii)",
+            "(iii)",
+            "(iii), (iv)",
+            "(i), (ii) & (iv)"
+        ],
+        "correct": 1,
+        "explanation": "(i) தவறு: ஒரு புள்ளி வழியே எண்ணற்ற கோடுகள் வரையலாம். (ii) தவறு: இரு புள்ளிகள் வழியே ஒரு நேர்கோடு மட்டுமே வரைய முடியும். (iv) தவறு: மூன்று அல்லது அதற்கு மேற்பட்ட கோடுகள் ஒரு புள்ளி வழியே சென்றால்தான் அவை ஒரு புள்ளி வழிக்கோடுகள். எனவே (iii) மட்டுமே சரி.",
+        "question_en": "Select the correct statement regarding lines.\n(i) Only one line can be drawn through a single point.\n(ii) Two or more lines can be drawn through two points.\n(iii) Parallel lines never intersect.\n(iv) If two lines pass through a point, they are called concurrent lines.",
+        "options_en": [
+            "(i), (iii)",
+            "(iii)",
+            "(iii), (iv)",
+            "(i), (ii) & (iv)"
+        ],
+        "explanation_en": "(i) False: Infinite lines can pass through a point. (ii) False: Only one line can pass through two points. (iv) False: Three or more lines must pass through a point to be concurrent. Thus, only (iii) is correct."
+    },
+    {
+        "id": 15,
+        "question": "ஒரு தளத்தில் AB ⊥ CD மற்றும் CD || EF எனில், AB மற்றும் EF ஆகியன _________ எனப்படுகின்றன.",
+        "options": [
+            "செங்குத்துக்கோடுகள்",
+            "இணைகோடுகள்",
+            "ஒரு புள்ளி வழிச் செல்லும் கோடுகள்",
+            "சமவெட்டிகள்"
+        ],
+        "correct": 0,
+        "explanation": "AB ஆனது CD க்கு செங்குத்தாக உள்ளது. CD மற்றும் EF இணைகோடுகள். எனவே, AB ஆனது EF க்கும் செங்குத்தாக இருக்கும்.",
+        "question_en": "In a plane, if AB ⊥ CD and CD || EF, then AB and EF are called _________.",
+        "options_en": [
+            "Perpendicular lines",
+            "Parallel lines",
+            "Concurrent lines",
+            "Bisectors"
+        ],
+        "explanation_en": "AB is perpendicular to CD. Since CD and EF are parallel, AB must also be perpendicular to EF."
+    },
+    {
+        "id": 16,
+        "question": "செங்கோணத்தில் வெட்டிக் கொள்ளும் கோடுகள்",
+        "options": [
+            "செங்குத்துக் கோடுகள்",
+            "இணைகோடுகள்",
+            "ஒரு புள்ளி வழிச் செல்லும் கோடுகள்",
+            "வளைகோடுகள்"
+        ],
+        "correct": 0,
+        "explanation": "செங்கோணத்தில் (90°) வெட்டிக் கொள்ளும் இரு கோடுகள் செங்குத்துக் கோடுகள் எனப்படும்.",
+        "question_en": "Lines intersecting at right angles are called",
+        "options_en": [
+            "Perpendicular lines",
+            "Parallel lines",
+            "Concurrent lines",
+            "Curved lines"
+        ],
+        "explanation_en": "Two lines that intersect each other at an angle of 90° are called perpendicular lines."
+    },
+    {
+        "id": 17,
+        "question": "ஒரு நேர்கோணத்தின் அளவானது",
+        "options": [
+            "45°",
+            "90°",
+            "180°",
+            "100°"
+        ],
+        "correct": 2,
+        "explanation": "சரியாக 180° அளவுள்ள கோணம் நேர்கோணம் எனப்படும்.",
+        "question_en": "The measure of a straight angle is",
+        "options_en": [
+            "45°",
+            "90°",
+            "180°",
+            "100°"
+        ],
+        "explanation_en": "An angle measuring exactly 180° is called a straight angle."
+    },
+    {
+        "id": 18,
+        "question": "128° அளவுள்ள கோணம் _________ கோணம் என அழைக்கப்படும்.",
+        "options": [
+            "நேர்கோணம்",
+            "விரிகோணம்",
+            "குறுங்கோணம்",
+            "செங்கோணம்"
+        ],
+        "correct": 1,
+        "explanation": "கோண அளவு 90° க்கு மேல் 180° க்குள் இருந்தால் அது விரிகோணம் எனப்படும்.",
+        "question_en": "An angle of measure 128° is called a/an _________ angle.",
+        "options_en": [
+            "Straight angle",
+            "Obtuse angle",
+            "Acute angle",
+            "Right angle"
+        ],
+        "explanation_en": "If the measure of an angle is between 90° and 180°, it is an obtuse angle."
+    },
+    {
+        "id": 19,
+        "question": "ஒரு A4 தாளின் மூலையில் அமையும் கோணம்",
+        "options": [
+            "குறுங்கோணம்",
+            "செங்கோணம்",
+            "நேர்கோணம்",
+            "விரிகோணம்"
+        ],
+        "correct": 1,
+        "explanation": "A4 தாளின் ஒவ்வொரு மூலையும் செங்கோணத்தை (90°) உருவாக்குகிறது.",
+        "question_en": "The angle formed at the corner of an A4 sheet is",
+        "options_en": [
+            "Acute angle",
+            "Right angle",
+            "Straight angle",
+            "Obtuse angle"
+        ],
+        "explanation_en": "Each corner of an A4 sheet forms a right angle (90°)."
+    },
+    {
+        "id": 20,
+        "question": "0° அளவுள்ள கோணம்",
+        "options": [
+            "செங்கோணம்",
+            "விரிகோணம்",
+            "குறுங்கோணம்",
+            "பூச்சியக் கோணம்"
+        ],
+        "correct": 3,
+        "explanation": "0° அளவைக் கொண்ட கோணம் பூச்சியக் கோணம் என்று அழைக்கப்படுகிறது.",
+        "question_en": "An angle of measure 0° is a",
+        "options_en": [
+            "Right angle",
+            "Obtuse angle",
+            "Acute angle",
+            "Zero angle"
+        ],
+        "explanation_en": "An angle with a measure of exactly 0° is called a zero angle."
+    },
+    {
+        "id": 21,
+        "question": "ஒரு நேர்கோணமானது இரு சம பகுதிகளாகப் பிரிக்கப்படும் போது நமக்குக் கிடைப்பது இரு _________.",
+        "options": [
+            "செங்கோணங்கள்",
+            "விரிகோணங்கள்",
+            "குறுங்கோணங்கள்",
+            "பின்வளை கோணங்கள்"
+        ],
+        "correct": 0,
+        "explanation": "நேர்கோணத்தின் அளவு 180°. அதை இரண்டாகப் பிரித்தால் 90° கிடைக்கும். எனவே இரண்டு செங்கோணங்கள் கிடைக்கும்.",
+        "question_en": "When a straight angle is bisected, we get two _________.",
+        "options_en": [
+            "Right angles",
+            "Obtuse angles",
+            "Acute angles",
+            "Reflex angles"
+        ],
+        "explanation_en": "A straight angle is 180°. Bisecting it gives two 90° angles, which are right angles."
+    },
+    {
+        "id": 22,
+        "question": "25°-இன் நிரப்புக்கோணம்",
+        "options": [
+            "65°",
+            "25°",
+            "155°",
+            "165°"
+        ],
+        "correct": 0,
+        "explanation": "இரு நிரப்புக் கோணங்களின் கூடுதல் 90°. எனவே 90° - 25° = 65°.",
+        "question_en": "The complementary angle of 25° is",
+        "options_en": [
+            "65°",
+            "25°",
+            "155°",
+            "165°"
+        ],
+        "explanation_en": "Complementary angles add up to 90°. Thus, 90° - 25° = 65°."
+    },
+    {
+        "id": 23,
+        "question": "ஒரு குறுங்கோணத்தின் நிரப்புக்கோணம் எப்போதும் _________ ஆகவே இருக்கும்.",
+        "options": [
+            "செங்கோணம்",
+            "விரிகோணம்",
+            "குறுங்கோணம்",
+            "பூச்சியக் கோணம்"
+        ],
+        "correct": 2,
+        "explanation": "90°-ஐ விட குறைவான ஒரு கோணத்தை 90°-லிருந்து கழித்தால் கிடைக்கும் கோணமும் 90°-ஐ விட குறைவாகவே (குறுங்கோணம்) இருக்கும்.",
+        "question_en": "The complementary angle of an acute angle is always an _________.",
+        "options_en": [
+            "Right angle",
+            "Obtuse angle",
+            "Acute angle",
+            "Zero angle"
+        ],
+        "explanation_en": "Subtracting an angle less than 90° from 90° will always yield another angle less than 90° (an acute angle)."
+    },
+    {
+        "id": 24,
+        "question": "30°-இன் மிகைநிரப்புக் கோணம்",
+        "options": [
+            "60°",
+            "150°",
+            "180°",
+            "160°"
+        ],
+        "correct": 1,
+        "explanation": "இரு மிகைநிரப்புக் கோணங்களின் கூடுதல் 180°. எனவே 180° - 30° = 150°.",
+        "question_en": "The supplementary angle of 30° is",
+        "options_en": [
+            "60°",
+            "150°",
+            "180°",
+            "160°"
+        ],
+        "explanation_en": "Supplementary angles add up to 180°. Thus, 180° - 30° = 150°."
+    },
+    {
+        "id": 25,
+        "question": "பூச்சிய கோணத்தின் நிரப்புக் கோணமானது",
+        "options": [
+            "குறுங்கோணம்",
+            "பூச்சிய கோணம்",
+            "செங்கோணம்",
+            "நேர்கோணம்"
+        ],
+        "correct": 2,
+        "explanation": "நிரப்புக்கோணங்களின் கூடுதல் 90°. பூச்சியக் கோணம் 0°. எனவே 90° - 0° = 90° (செங்கோணம்).",
+        "question_en": "The complementary angle of a zero angle is a",
+        "options_en": [
+            "Acute angle",
+            "Zero angle",
+            "Right angle",
+            "Straight angle"
+        ],
+        "explanation_en": "Complementary angles add up to 90°. 90° - 0° = 90°, which is a right angle."
+    },
+    {
+        "id": 26,
+        "question": "ஒரு கோணமும் அதன் மிகைநிரப்புக் கோணமும் சமம் எனில் அக்கோணத்தின் அளவு",
+        "options": [
+            "45°",
+            "80°",
+            "90°",
+            "180°"
+        ],
+        "correct": 2,
+        "explanation": "x + x = 180° -> 2x = 180° -> x = 90°.",
+        "question_en": "If an angle and its supplementary angle are equal, the measure of the angle is",
+        "options_en": [
+            "45°",
+            "80°",
+            "90°",
+            "180°"
+        ],
+        "explanation_en": "x + x = 180° -> 2x = 180° -> x = 90°."
+    },
+    {
+        "id": 27,
+        "question": "ஒரு கோணமும் அதன் நிரப்புக் கோணமும் சமம் எனில் அக்கோணத்தின் அளவு",
+        "options": [
+            "45°",
+            "80°",
+            "90°",
+            "180°"
+        ],
+        "correct": 0,
+        "explanation": "x + x = 90° -> 2x = 90° -> x = 45°.",
+        "question_en": "If an angle and its complementary angle are equal, the measure of the angle is",
+        "options_en": [
+            "45°",
+            "80°",
+            "90°",
+            "180°"
+        ],
+        "explanation_en": "x + x = 90° -> 2x = 90° -> x = 45°."
+    },
+    {
+        "id": 28,
+        "question": "படத்தில் ∠AOB மற்றும் ∠DEF என்பன",
+        "options": [
+            "நிரப்புக் கோணங்கள்",
+            "மிகைநிரப்புக் கோணங்கள்",
+            "குத்தெதிர்க் கோணங்கள்",
+            "அடுத்துள்ள கோணங்கள்"
+        ],
+        "correct": 1,
+        "explanation": "படத்தில் ஒரு கோணம் 120° மற்றும் மற்றொன்று 60° (ஊகிக்கப்படுகிறது). இவற்றின் கூடுதல் 180° என்பதால் அவை மிகைநிரப்புக் கோணங்கள்.",
+        "question_en": "In the figure, ∠AOB and ∠DEF are",
+        "options_en": [
+            "Complementary angles",
+            "Supplementary angles",
+            "Vertically opposite angles",
+            "Adjacent angles"
+        ],
+        "explanation_en": "The sum of the two given angles is 180°, so they are supplementary angles."
+    },
+    {
+        "id": 29,
+        "question": "கோணங்களையும் அவற்றின் மிகை நிரப்புக் கோணங்களையும் பொருத்துக..\n(a) பூச்சியக் கோணம் - (i) செங்கோணம்\n(b) செங்கோணம் - (ii) குறுங்கோணம்\n(c) நேர்கோணம் - (iii) விரிகோணம்\n(d) குறுங்கோணம் - (iv) பூச்சியக் கோணம்\n(e) விரிகோணம் - (v) நேர்கோணம்",
+        "options": [
+            "a-v, b-i, c-iv, d-iii, e-ii",
+            "a-i, b-v, c-iv, d-ii, e-iii",
+            "a-iv, b-i, c-v, d-ii, e-iii",
+            "a-v, b-i, c-iv, d-ii, e-iii"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி சரியான விடை (1). பூச்சியக் கோணத்தின் (0°) மிகைநிரப்பி நேர்கோணம் (180°). செங்கோணத்தின் (90°) மிகைநிரப்பி செங்கோணம் (90°). நேர்கோணத்தின் மிகைநிரப்பி பூச்சியக் கோணம். குறுங்கோணத்தின் (<90°) மிகைநிரப்பி விரிகோணம் (>90°). விரிகோணத்தின் மிகைநிரப்பி குறுங்கோணம்.",
+        "question_en": "Match the angles with their supplementary angles.\n(a) Zero angle - (i) Right angle\n(b) Right angle - (ii) Acute angle\n(c) Straight angle - (iii) Obtuse angle\n(d) Acute angle - (iv) Zero angle\n(e) Obtuse angle - (v) Straight angle",
+        "options_en": [
+            "a-v, b-i, c-iv, d-iii, e-ii",
+            "a-i, b-v, c-iv, d-ii, e-iii",
+            "a-iv, b-i, c-v, d-ii, e-iii",
+            "a-v, b-i, c-iv, d-ii, e-iii"
+        ],
+        "explanation_en": "According to the answer key, option (1) is correct. Supplement of 0° is 180° (straight). Supplement of 90° is 90° (right). Supplement of 180° is 0° (zero). Supplement of an acute angle is an obtuse angle, and vice-versa."
+    },
+    {
+        "id": 30,
+        "question": "கடிகாரத்தில் பி.ப. 7:30-க்கு மணிமுள் மற்றும் நிமிடமுள் இவற்றிற்கிடையே உள்ள சிறிய கோணம்",
+        "options": [
+            "குறுங்கோணம்",
+            "விரிகோணம்",
+            "செங்கோணம்",
+            "பூஜ்ஜியக்கோணம்"
+        ],
+        "correct": 0,
+        "explanation": "7:30 மணிக்கு மணிமுள் 7க்கும் 8க்கும் இடையில் இருக்கும், நிமிடமுள் 6ல் இருக்கும். எனவே இடைப்பட்ட கோணம் 45°, இது ஒரு குறுங்கோணம் ஆகும்.",
+        "question_en": "The smaller angle between the hour hand and the minute hand of a clock at 7:30 PM is",
+        "options_en": [
+            "Acute angle",
+            "Obtuse angle",
+            "Right angle",
+            "Zero angle"
+        ],
+        "explanation_en": "At 7:30, the hour hand is exactly halfway between 7 and 8, while the minute hand is at 6. The angle between them is 45°, which is an acute angle."
+    },
+    {
+        "id": 31,
+        "question": "கீழ்க்கண்டவற்றில் எது சிறியது?",
+        "options": [
+            "நேர்கோணத்தில் $\\frac{1}{6}$ பங்கு",
+            "செங்கோணத்தில் $\\frac{2}{3}$ பங்கு",
+            "25°-ன் நிரப்புக் கோணம்",
+            "100°-ன் மிகைநிரப்புக் கோணம்"
+        ],
+        "correct": 0,
+        "explanation": "விருப்பங்களின் மதிப்புகள்: (1) $180^{\\circ} \\times \\frac{1}{6} = 30^{\\circ}$, (2) $90^{\\circ} \\times \\frac{2}{3} = 60^{\\circ}$, (3) $90^{\\circ} - 25^{\\circ} = 65^{\\circ}$, (4) $180^{\\circ} - 100^{\\circ} = 80^{\\circ}$. இவற்றில் $30^{\\circ}$ சிறியது.",
+        "question_en": "Which of the following is the smallest?",
+        "options_en": [
+            "$\\frac{1}{6}$th of a straight angle",
+            "$\\frac{2}{3}$rd of a right angle",
+            "Complementary angle of 25°",
+            "Supplementary angle of 100°"
+        ],
+        "explanation_en": "The values are: (1) $180^{\\circ} \\times \\frac{1}{6} = 30^{\\circ}$, (2) $90^{\\circ} \\times \\frac{2}{3} = 60^{\\circ}$, (3) $90^{\\circ} - 25^{\\circ} = 65^{\\circ}$, (4) $180^{\\circ} - 100^{\\circ} = 80^{\\circ}$. Among these, $30^{\\circ}$ is the smallest."
+    },
+    {
+        "id": 32,
+        "question": "ஒரு கோணத்தின் இரு கதிர்களும் மற்றொரு கோணத்தின் இரு கதிர்களுக்கு இணையாக உள்ளன. எனில் அவ்விரு கோணங்களும்",
+        "options": [
+            "சமமாக மற்றும் மிகைநிரப்பியாக இருக்கும்.",
+            "சமமாகவோ அல்லது மிகைநிரப்பியாகவோ இருக்காது.",
+            "மிகைநிரப்பிகள்.",
+            "சமம்"
+        ],
+        "correct": 3,
+        "explanation": "பொதுவாக இரு கோணங்களின் கதிர்கள் ஒன்றுக்கொன்று இணையாக இருந்தால், அக்கோணங்கள் சமமாகவோ அல்லது மிகைநிரப்பிகளாகவோ இருக்கும். விடைக்குறிப்பின்படி சரியான விடை 'சமம்'.",
+        "question_en": "If the two arms of an angle are parallel to the two arms of another angle, then the two angles are",
+        "options_en": [
+            "Equal and supplementary",
+            "Neither equal nor supplementary",
+            "Supplementary",
+            "Equal"
+        ],
+        "explanation_en": "Generally, if the arms of two angles are parallel, the angles are either equal or supplementary. According to the answer key, the intended answer is 'Equal'."
+    },
+    {
+        "id": 33,
+        "question": "இரு நிரப்புக் கோணங்களுக்கு இடையே உள்ள வேறுபாடு 12° எனில், அவற்றின் அளவுகள்",
+        "options": [
+            "51°, 49°",
+            "51°, 39°",
+            "60°, 30°",
+            "50°, 40°"
+        ],
+        "correct": 1,
+        "explanation": "$x + y = 90^{\\circ}$ மற்றும் $x - y = 12^{\\circ}$. இரண்டையும் கூட்டினால் $2x = 102^{\\circ} \\implies x = 51^{\\circ}$. எனவே $y = 90^{\\circ} - 51^{\\circ} = 39^{\\circ}$.",
+        "question_en": "If the difference between two complementary angles is 12°, their measures are",
+        "options_en": [
+            "51°, 49°",
+            "51°, 39°",
+            "60°, 30°",
+            "50°, 40°"
+        ],
+        "explanation_en": "$x + y = 90^{\\circ}$ and $x - y = 12^{\\circ}$. Adding them gives $2x = 102^{\\circ} \\implies x = 51^{\\circ}$. Therefore, $y = 90^{\\circ} - 51^{\\circ} = 39^{\\circ}$."
+    },
+    {
+        "id": 34,
+        "question": "இரண்டு நிரப்புக்கோணங்களுக்கு இடையேயான வேறுபாடு 90° எனில் அவ்விரு கோணங்கள் முறையே",
+        "options": [
+            "0°, 0°",
+            "0°, 90°",
+            "90°, 90°",
+            "45°, 45°"
+        ],
+        "correct": 1,
+        "explanation": "$x + y = 90^{\\circ}$ மற்றும் $x - y = 90^{\\circ}$. இரண்டையும் கூட்ட $2x = 180^{\\circ} \\implies x = 90^{\\circ}$. எனவே $y = 0^{\\circ}$.",
+        "question_en": "If the difference between two complementary angles is 90°, the two angles are respectively",
+        "options_en": [
+            "0°, 0°",
+            "0°, 90°",
+            "90°, 90°",
+            "45°, 45°"
+        ],
+        "explanation_en": "$x + y = 90^{\\circ}$ and $x - y = 90^{\\circ}$. Adding them gives $2x = 180^{\\circ} \\implies x = 90^{\\circ}$. Therefore, $y = 0^{\\circ}$."
+    },
+    {
+        "id": 35,
+        "question": "இரு மிகை நிரப்புக் கோணங்களுக்கு இடையே உள்ள வேறுபாடு 70° எனில், அவற்றின் அளவுகள்",
+        "options": [
+            "110°, 70°",
+            "70°, 110°",
+            "125°, 55°",
+            "100°, 80°"
+        ],
+        "correct": 2,
+        "explanation": "$x + y = 180^{\\circ}$ மற்றும் $x - y = 70^{\\circ}$. இரண்டையும் கூட்ட $2x = 250^{\\circ} \\implies x = 125^{\\circ}$. எனவே $y = 180^{\\circ} - 125^{\\circ} = 55^{\\circ}$.",
+        "question_en": "If the difference between two supplementary angles is 70°, their measures are",
+        "options_en": [
+            "110°, 70°",
+            "70°, 110°",
+            "125°, 55°",
+            "100°, 80°"
+        ],
+        "explanation_en": "$x + y = 180^{\\circ}$ and $x - y = 70^{\\circ}$. Adding them gives $2x = 250^{\\circ} \\implies x = 125^{\\circ}$. Therefore, $y = 180^{\\circ} - 125^{\\circ} = 55^{\\circ}$."
+    },
+    {
+        "id": 36,
+        "question": "இரண்டு மிகை நிரப்புக்கோணங்களுக்கு இடையேயான வேறுபாடு 90° எனில், அவ்விரு கோணங்களில் சிறிய கோணம் எது?",
+        "options": [
+            "90°",
+            "0°",
+            "60°",
+            "100°"
+        ],
+        "correct": 0,
+        "explanation": "குறிப்பு: விடைக்குறிப்பின்படி விடை 90°. வேறுபாடு 0° என இருந்தால் மட்டுமே $x=90^{\\circ}, y=90^{\\circ}$ எனக் கிடைக்கும். கேள்வியில் அச்சுப்பிழை இருக்கலாம்.",
+        "question_en": "If the difference between two supplementary angles is 90°, which is the smaller angle among the two?",
+        "options_en": [
+            "90°",
+            "0°",
+            "60°",
+            "100°"
+        ],
+        "explanation_en": "Note: According to the answer key, the answer is 90°. This implies the difference might have been meant to be 0° instead of 90°, making both angles 90°."
+    },
+    {
+        "id": 37,
+        "question": "கடிகாரத்தில் 2 மணிக்கு மணிமுள்ளுக்கும் நிமிடமுள்ளுக்கும் இடைப்பட்ட சிறிய கோணம்",
+        "options": [
+            "70°",
+            "50°",
+            "60°",
+            "65°"
+        ],
+        "correct": 2,
+        "explanation": "கடிகாரத்தில் ஒவ்வொரு எண்ணிற்கும் இடைப்பட்ட கோணம் $\\frac{360^{\\circ}}{12} = 30^{\\circ}$. 2 மணிக்கு இடைவெளி 2 அலகுகள். எனவே கோணம் $2 \\times 30^{\\circ} = 60^{\\circ}$.",
+        "question_en": "The smaller angle between the hour hand and the minute hand of a clock at 2 o'clock is",
+        "options_en": [
+            "70°",
+            "50°",
+            "60°",
+            "65°"
+        ],
+        "explanation_en": "The angle between each hour mark on a clock is $\\frac{360^{\\circ}}{12} = 30^{\\circ}$. At 2 o'clock, the gap is 2 units. So, the angle is $2 \\times 30^{\\circ} = 60^{\\circ}$."
+    },
+    {
+        "id": 38,
+        "question": "இரண்டு நிரப்புக்கோணங்களின் விகிதம் 2:1 எனில் அவ்விருகோணங்கள் முறையே",
+        "options": [
+            "20°, 10°",
+            "10°, 20°",
+            "30°, 60°",
+            "60°, 30°"
+        ],
+        "correct": 3,
+        "explanation": "$2x + 1x = 90^{\\circ} \\implies 3x = 90^{\\circ} \\implies x = 30^{\\circ}$. கோணங்கள் $2(30^{\\circ}) = 60^{\\circ}$ மற்றும் $1(30^{\\circ}) = 30^{\\circ}$.",
+        "question_en": "If the ratio of two complementary angles is 2:1, the two angles are respectively",
+        "options_en": [
+            "20°, 10°",
+            "10°, 20°",
+            "30°, 60°",
+            "60°, 30°"
+        ],
+        "explanation_en": "$2x + 1x = 90^{\\circ} \\implies 3x = 90^{\\circ} \\implies x = 30^{\\circ}$. The angles are $2(30^{\\circ}) = 60^{\\circ}$ and $1(30^{\\circ}) = 30^{\\circ}$."
+    },
+    {
+        "id": 39,
+        "question": "ஒரு கோணமானது அதன் நிரப்புக்கோணத்தின் $\\frac{1}{2}$ பங்கு எனில் அந்த கோணத்தின் மதிப்பு",
+        "options": [
+            "30°",
+            "60°",
+            "90°",
+            "45°"
+        ],
+        "correct": 0,
+        "explanation": "$x = \\frac{1}{2}(90^{\\circ} - x) \\implies 2x = 90^{\\circ} - x \\implies 3x = 90^{\\circ} \\implies x = 30^{\\circ}$.",
+        "question_en": "If an angle is $\\frac{1}{2}$ of its complementary angle, the measure of the angle is",
+        "options_en": [
+            "30°",
+            "60°",
+            "90°",
+            "45°"
+        ],
+        "explanation_en": "$x = \\frac{1}{2}(90^{\\circ} - x) \\implies 2x = 90^{\\circ} - x \\implies 3x = 90^{\\circ} \\implies x = 30^{\\circ}$."
+    },
+    {
+        "id": 40,
+        "question": "x மற்றும் x-30° ஆகியன நிரப்புக் கோணங்கள் எனில், x - ன் மதிப்பு?",
+        "options": [
+            "30°",
+            "40°",
+            "50°",
+            "60°"
+        ],
+        "correct": 3,
+        "explanation": "$x + (x - 30^{\\circ}) = 90^{\\circ} \\implies 2x = 120^{\\circ} \\implies x = 60^{\\circ}$.",
+        "question_en": "If x and x-30° are complementary angles, then the value of x is?",
+        "options_en": [
+            "30°",
+            "40°",
+            "50°",
+            "60°"
+        ],
+        "explanation_en": "$x + (x - 30^{\\circ}) = 90^{\\circ} \\implies 2x = 120^{\\circ} \\implies x = 60^{\\circ}$."
+    },
+    {
+        "id": 41,
+        "question": "ஒரு கோணமானது அதன் மிகை நிரப்புக் கோணத்தில் பாதி எனில் அந்த கோணத்தின் மதிப்பு",
+        "options": [
+            "30°",
+            "60°",
+            "90°",
+            "120°"
+        ],
+        "correct": 1,
+        "explanation": "$x = \\frac{1}{2}(180^{\\circ} - x) \\implies 2x = 180^{\\circ} - x \\implies 3x = 180^{\\circ} \\implies x = 60^{\\circ}$.",
+        "question_en": "If an angle is half of its supplementary angle, the measure of the angle is",
+        "options_en": [
+            "30°",
+            "60°",
+            "90°",
+            "120°"
+        ],
+        "explanation_en": "$x = \\frac{1}{2}(180^{\\circ} - x) \\implies 2x = 180^{\\circ} - x \\implies 3x = 180^{\\circ} \\implies x = 60^{\\circ}$."
+    },
+    {
+        "id": 42,
+        "question": "x மற்றும் x+30 ஆகியன மிகைநிரப்புக் கோணங்கள் எனில், x-ன் மதிப்பு",
+        "options": [
+            "30°",
+            "75°",
+            "90°",
+            "60°"
+        ],
+        "correct": 1,
+        "explanation": "$x + (x + 30^{\\circ}) = 180^{\\circ} \\implies 2x = 150^{\\circ} \\implies x = 75^{\\circ}$.",
+        "question_en": "If x and x+30 are supplementary angles, then the value of x is",
+        "options_en": [
+            "30°",
+            "75°",
+            "90°",
+            "60°"
+        ],
+        "explanation_en": "$x + (x + 30^{\\circ}) = 180^{\\circ} \\implies 2x = 150^{\\circ} \\implies x = 75^{\\circ}$."
+    },
+    {
+        "id": 43,
+        "question": "காலை 9 மணிக்கு, கடிகாரத்தில் மணிமுள்ளுக்கும் நிமிடமுள்ளுக்கும் இடைப்பட்ட சிறிய கோணம் (3x+3)° எனில், x-ன் மதிப்பு",
+        "options": [
+            "29°",
+            "39°",
+            "72°",
+            "18°"
+        ],
+        "correct": 0,
+        "explanation": "9 மணிக்குக் கோணம் $90^{\\circ}$. எனவே $3x + 3 = 90 \\implies 3x = 87 \\implies x = 29^{\\circ}$.",
+        "question_en": "At 9 AM, if the smaller angle between the hour hand and the minute hand of a clock is (3x+3)°, the value of x is",
+        "options_en": [
+            "29°",
+            "39°",
+            "72°",
+            "18°"
+        ],
+        "explanation_en": "The angle at 9 AM is $90^{\\circ}$. So, $3x + 3 = 90 \\implies 3x = 87 \\implies x = 29^{\\circ}$."
+    },
+    {
+        "id": 44,
+        "question": "ஒரு கோணமானது அதன் நிரப்புக் கோணத்தின் 4 மடங்காகும். எனில் அவற்றின் அளவு",
+        "options": [
+            "20°, 36°",
+            "36°, 90°",
+            "72°, 18°",
+            "30°, 60°"
+        ],
+        "correct": 2,
+        "explanation": "$x = 4(90^{\\circ} - x) \\implies x = 360^{\\circ} - 4x \\implies 5x = 360^{\\circ} \\implies x = 72^{\\circ}$. கோணங்கள் $72^{\\circ}$ மற்றும் $18^{\\circ}$.",
+        "question_en": "If an angle is 4 times its complementary angle, then their measures are",
+        "options_en": [
+            "20°, 36°",
+            "36°, 90°",
+            "72°, 18°",
+            "30°, 60°"
+        ],
+        "explanation_en": "$x = 4(90^{\\circ} - x) \\implies x = 360^{\\circ} - 4x \\implies 5x = 360^{\\circ} \\implies x = 72^{\\circ}$. The angles are $72^{\\circ}$ and $18^{\\circ}$."
+    },
+    {
+        "id": 45,
+        "question": "மிகைநிரப்புக் கோணங்களில் ஒரு கோணமானது மற்றொரு கோணத்தின் மூன்றில் ஒரு பங்கு எனில், அக்கோணங்கள்",
+        "options": [
+            "60°, 180°",
+            "120°, 360°",
+            "135°, 45°",
+            "60°, 120°"
+        ],
+        "correct": 2,
+        "explanation": "$x = \\frac{y}{3} \\implies y = 3x$. $x + 3x = 180^{\\circ} \\implies 4x = 180^{\\circ} \\implies x = 45^{\\circ}$. எனவே $y = 135^{\\circ}$.",
+        "question_en": "If one of two supplementary angles is one-third of the other, the angles are",
+        "options_en": [
+            "60°, 180°",
+            "120°, 360°",
+            "135°, 45°",
+            "60°, 120°"
+        ],
+        "explanation_en": "$x = \\frac{y}{3} \\implies y = 3x$. $x + 3x = 180^{\\circ} \\implies 4x = 180^{\\circ} \\implies x = 45^{\\circ}$. So $y = 135^{\\circ}$."
+    },
+    {
+        "id": 46,
+        "question": "இரு மிகைநிரப்புக் கோணங்களுக்கு இடையே உள்ள விகிதம் 7:11 எனில், அவற்றின் அளவுகள்",
+        "options": [
+            "77°, 121°",
+            "35°, 55°",
+            "80°, 100°",
+            "70°, 110°"
+        ],
+        "correct": 3,
+        "explanation": "$7x + 11x = 180^{\\circ} \\implies 18x = 180^{\\circ} \\implies x = 10^{\\circ}$. கோணங்கள் $70^{\\circ}$ மற்றும் $110^{\\circ}$.",
+        "question_en": "If the ratio between two supplementary angles is 7:11, their measures are",
+        "options_en": [
+            "77°, 121°",
+            "35°, 55°",
+            "80°, 100°",
+            "70°, 110°"
+        ],
+        "explanation_en": "$7x + 11x = 180^{\\circ} \\implies 18x = 180^{\\circ} \\implies x = 10^{\\circ}$. The angles are $70^{\\circ}$ and $110^{\\circ}$."
+    },
+    {
+        "id": 47,
+        "question": "$90^{\\circ} - x^{\\circ}$ இன் மிகைநிரப்புக் கோணம்",
+        "options": [
+            "$90+x^{\\circ}$",
+            "$x^{\\circ}$",
+            "$90^{\\circ}$",
+            "$x-90^{\\circ}$"
+        ],
+        "correct": 0,
+        "explanation": "மிகைநிரப்புக் கோணம் = $180^{\\circ} - (90^{\\circ} - x^{\\circ}) = 90^{\\circ} + x^{\\circ}$.",
+        "question_en": "The supplementary angle of $90^{\\circ} - x^{\\circ}$ is",
+        "options_en": [
+            "$90+x^{\\circ}$",
+            "$x^{\\circ}$",
+            "$90^{\\circ}$",
+            "$x-90^{\\circ}$"
+        ],
+        "explanation_en": "Supplementary angle = $180^{\\circ} - (90^{\\circ} - x^{\\circ}) = 90^{\\circ} + x^{\\circ}$."
+    },
+    {
+        "id": 48,
+        "question": "$90^{\\circ} - x^{\\circ}$ இன் நிரப்புக் கோணம்",
+        "options": [
+            "$90+x^{\\circ}$",
+            "$x^{\\circ}$",
+            "$90^{\\circ}$",
+            "$x-90^{\\circ}$"
+        ],
+        "correct": 1,
+        "explanation": "நிரப்புக் கோணம் = $90^{\\circ} - (90^{\\circ} - x^{\\circ}) = x^{\\circ}$.",
+        "question_en": "The complementary angle of $90^{\\circ} - x^{\\circ}$ is",
+        "options_en": [
+            "$90+x^{\\circ}$",
+            "$x^{\\circ}$",
+            "$90^{\\circ}$",
+            "$x-90^{\\circ}$"
+        ],
+        "explanation_en": "Complementary angle = $90^{\\circ} - (90^{\\circ} - x^{\\circ}) = x^{\\circ}$."
+    },
+    {
+        "id": 49,
+        "question": "ஒரு கோணமானது, அதன் மிகைநிரப்புக் கோணத்தின் இருமடங்கில் 45° குறைவு எனில், பெரிய கோணத்தின் அளவு",
+        "options": [
+            "75°",
+            "100°",
+            "120°",
+            "105°"
+        ],
+        "correct": 3,
+        "explanation": "$x = 2(180^{\\circ} - x) - 45^{\\circ} \\implies x = 360^{\\circ} - 2x - 45^{\\circ} \\implies 3x = 315^{\\circ} \\implies x = 105^{\\circ}$.",
+        "question_en": "If an angle is 45° less than twice its supplementary angle, the measure of the larger angle is",
+        "options_en": [
+            "75°",
+            "100°",
+            "120°",
+            "105°"
+        ],
+        "explanation_en": "$x = 2(180^{\\circ} - x) - 45^{\\circ} \\implies x = 360^{\\circ} - 2x - 45^{\\circ} \\implies 3x = 315^{\\circ} \\implies x = 105^{\\circ}$."
+    },
+    {
+        "id": 50,
+        "question": "ஒரு புள்ளியில் அமையும் அனைத்துக் கோணங்களின் கூடுதல்",
+        "options": [
+            "360°",
+            "180°",
+            "90°",
+            "0°"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு புள்ளியைச் சுற்றியுள்ள கோணங்களின் கூடுதல் 360° ஆகும்.",
+        "question_en": "The sum of all angles around a point is",
+        "options_en": [
+            "360°",
+            "180°",
+            "90°",
+            "0°"
+        ],
+        "explanation_en": "The sum of angles around a single point is always 360°."
+    },
+    {
+        "id": 51,
+        "question": "ஒரு நேர்கோட்டின் மீது அமையும் அனைத்துக் கோணங்களின் கூடுதல்",
+        "options": [
+            "360°",
+            "180°",
+            "90°",
+            "0°"
+        ],
+        "correct": 1,
+        "explanation": "ஒரு நேர்கோட்டின் மீது அமையும் கோணங்களின் கூடுதல் 180° ஆகும்.",
+        "question_en": "The sum of all angles formed on a straight line is",
+        "options_en": [
+            "360°",
+            "180°",
+            "90°",
+            "0°"
+        ],
+        "explanation_en": "The sum of angles on a straight line is always 180°."
+    },
+    {
+        "id": 52,
+        "question": "அடுத்துள்ள கோணங்களுக்கு",
+        "options": [
+            "பொதுவான உட்பகுதி, பொதுவான கதிர், பொதுவான முனை ஆகியன இல்லை.",
+            "ஒரு பொதுவான கதிர், ஒரு பொதுவான முனை உண்டு; பொதுவான உட்பகுதி இல்லை.",
+            "ஒரு பொதுவான முனை, ஒரு பொதுவான கதிர் பொதுவான உட்பகுதி உண்டு.",
+            "ஒரு பொதுவான கதிர் உண்டு, பொதுவான முனை, பொதுவான உட்பகுதி இல்லை."
+        ],
+        "correct": 1,
+        "explanation": "அடுத்துள்ள கோணங்களுக்கு ஒரு பொதுவான முனையும், ஒரு பொதுவான கதிரும் இருக்கும், ஆனால் பொதுவான உட்பகுதி இருக்காது.",
+        "question_en": "For adjacent angles",
+        "options_en": [
+            "No common interior, no common ray, no common vertex.",
+            "One common ray, one common vertex; no common interior.",
+            "One common vertex, one common ray, common interior.",
+            "One common ray, no common vertex, no common interior."
+        ],
+        "explanation_en": "Adjacent angles have a common vertex and a common arm (ray), but no common interior points."
+    },
+    {
+        "id": 53,
+        "question": "கொடுக்கப்பட்ட படத்தில் a மற்றும் b ஆனது",
+        "options": [
+            "குத்தெதிர்க் கோணங்கள்",
+            "நேரிய கோண இணைகள்",
+            "அடுத்துள்ள கோணங்கள்",
+            "ஒத்த கோணங்கள்"
+        ],
+        "correct": 2,
+        "explanation": "படத்தில் a மற்றும் b ஆகிய கோணங்கள் ஒரு பொதுவான கதிரையும் முனையையும் கொண்டுள்ளதால் அவை அடுத்துள்ள கோணங்கள் ஆகும்.",
+        "question_en": "In the given figure, a and b are",
+        "options_en": [
+            "Vertically opposite angles",
+            "Linear pair of angles",
+            "Adjacent angles",
+            "Corresponding angles"
+        ],
+        "explanation_en": "In the figure, angles a and b share a common arm and vertex, making them adjacent angles.",
+        "image": "image/unit15/q53.PNG"
+    },
+    {
+        "id": 54,
+        "question": "படத்தில் அடுத்துள்ள கோணங்கள் எவை?",
+        "options": [
+            "∠BAD, ∠BAC",
+            "∠CAD, ∠BAD",
+            "∠BAC, ∠CAD",
+            "2 மற்றும் 3"
+        ],
+        "correct": 2,
+        "explanation": "படத்தில் $\\angle BAC$ மற்றும் $\\angle CAD$ ஆகியவை பொதுவான முனையையும் கதிரையும் (AC) கொண்டுள்ளதால் அவை அடுத்துள்ள கோணங்கள் ஆகும்.",
+        "question_en": "Which are the adjacent angles in the figure?",
+        "options_en": [
+            "∠BAD, ∠BAC",
+            "∠CAD, ∠BAD",
+            "∠BAC, ∠CAD",
+            "2 and 3"
+        ],
+        "explanation_en": "In the figure, $\\angle BAC$ and $\\angle CAD$ share a common vertex and a common ray (AC), making them adjacent angles.",
+        "image": "image/unit15/q54.PNG"
+    },
+    {
+        "id": 55,
+        "question": "$\\angle BOC$-ன் மதிப்பு",
+        "options": [
+            "90°",
+            "180°",
+            "80°",
+            "100°"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு நேர்கோட்டின் மீது அமையும் கோணங்களின் கூடுதல் $180^{\\circ}$. $\\angle BOC = 180^{\\circ} - (65^{\\circ} + 35^{\\circ}) = 180^{\\circ} - 100^{\\circ} = 80^{\\circ}$.",
+        "question_en": "The value of $\\angle BOC$ is",
+        "options_en": [
+            "90°",
+            "180°",
+            "80°",
+            "100°"
+        ],
+        "explanation_en": "The sum of angles on a straight line is $180^{\\circ}$. $\\angle BOC = 180^{\\circ} - (65^{\\circ} + 35^{\\circ}) = 180^{\\circ} - 100^{\\circ} = 80^{\\circ}$.",
+        "image": "image/unit15/q55.PNG"
+    },
+    {
+        "id": 56,
+        "question": "கொடுக்கப்பட்ட படத்தில், $\\angle AOC$ மற்றும் $\\angle BOC$ என்பவை",
+        "options": [
+            "நேர்கோணங்கள்",
+            "குத்தெதிர்க் கோணங்கள்",
+            "நேரிய கோண இணைகள்",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "படத்தில் $\\angle AOC = 140^{\\circ}$ மற்றும் $\\angle BOC = 40^{\\circ}$. இவற்றின் கூடுதல் $180^{\\circ}$ மற்றும் இவை நேர்கோட்டை உருவாக்குவதால் இவை நேரிய கோண இணைகள் ஆகும்.",
+        "question_en": "In the given figure, $\\angle AOC$ and $\\angle BOC$ are",
+        "options_en": [
+            "Straight angles",
+            "Vertically opposite angles",
+            "Linear pair of angles",
+            "None of these"
+        ],
+        "explanation_en": "In the figure, $\\angle AOC = 140^{\\circ}$ and $\\angle BOC = 40^{\\circ}$. Their sum is $180^{\\circ}$ and they form a straight line, so they are a linear pair of angles.",
+        "image": "image/unit15/q56.PNG"
+    },
+    {
+        "id": 57,
+        "question": "கீழ்க்கண்டவற்றில் தவறானது எது? கொடுக்கப்பட்ட படத்தில், கோணங்கள் $\\angle 1$ மற்றும் $\\angle 2$ ஆகியவை",
+        "options": [
+            "குத்தெதிர்க் கோணங்கள்",
+            "அடுத்துள்ள கோணங்கள்",
+            "மிகைநிரப்பிகள்",
+            "நேரிய கோண இணைகள்"
+        ],
+        "correct": 0,
+        "explanation": "கோணங்கள் 1 மற்றும் 2 ஒரு நேர்கோட்டில் அடுத்துள்ள கோணங்களாக அமைவதால் அவை குத்தெதிர்க் கோணங்கள் அல்ல.",
+        "question_en": "Which of the following is incorrect? In the given figure, angles $\\angle 1$ and $\\angle 2$ are",
+        "options_en": [
+            "Vertically opposite angles",
+            "Adjacent angles",
+            "Supplementary angles",
+            "Linear pair of angles"
+        ],
+        "explanation_en": "Angles 1 and 2 are adjacent angles on a straight line, so stating that they are vertically opposite angles is incorrect.",
+        "image": "image/unit15/q57.PNG"
+    },
+    {
+        "id": 58,
+        "question": "கொடுக்கப்பட்ட படத்தில், $\\angle POR=51^{\\circ}$ எனில், $\\angle ROQ =$",
+        "options": [
+            "51°",
+            "39°",
+            "129°",
+            "90°"
+        ],
+        "correct": 2,
+        "explanation": "இவை ஒரு நேர்கோட்டில் அமையும் நேரிய கோண இணைகள். $\\angle ROQ = 180^{\\circ} - 51^{\\circ} = 129^{\\circ}$.",
+        "question_en": "In the given figure, if $\\angle POR=51^{\\circ}$, then $\\angle ROQ =$",
+        "options_en": [
+            "51°",
+            "39°",
+            "129°",
+            "90°"
+        ],
+        "explanation_en": "They form a linear pair on a straight line. $\\angle ROQ = 180^{\\circ} - 51^{\\circ} = 129^{\\circ}$.",
+        "image": "image/unit15/q58.PNG"
+    },
+    {
+        "id": 59,
+        "question": "நேரிய கோண இணைகளின் விகிதம் 1:1 எனில், அக்கோணங்கள்",
+        "options": [
+            "45°, 45°",
+            "90°, 90°",
+            "100°, 100°",
+            "0°, 180°"
+        ],
+        "correct": 1,
+        "explanation": "நேரிய கோண இணைகளின் கூடுதல் $180^{\\circ}$. விகிதம் 1:1 என்பதால் அவை சமம். எனவே $90^{\\circ}, 90^{\\circ}$.",
+        "question_en": "If the ratio of a linear pair of angles is 1:1, the angles are",
+        "options_en": [
+            "45°, 45°",
+            "90°, 90°",
+            "100°, 100°",
+            "0°, 180°"
+        ],
+        "explanation_en": "The sum of a linear pair of angles is $180^{\\circ}$. Since the ratio is 1:1, they are equal. Thus, they are $90^{\\circ}, 90^{\\circ}$."
+    },
+    {
+        "id": 60,
+        "question": "கீழுள்ளவற்றில் a மற்றும் b அடுத்துள்ள கோணங்கள் என்பதைக் குறிக்கும் படம் எது?",
+        "options": [
+            "image/q60_opt1.PNG",
+            "image/q60_opt2.PNG",
+            "image/q60_opt3.PNG",
+            "image/q60_opt4.PNG"
+        ],
+        "correct": 2,
+        "explanation": "அடுத்துள்ள கோணங்கள் பொதுவான முனையையும், ஒரு பொதுவான கதிரையும் பெற்றிருக்க வேண்டும். விருப்பம் 3 இல் மட்டுமே இது சரியாக அமைந்துள்ளது.",
+        "question_en": "Which of the following figures indicates that a and b are adjacent angles?",
+        "options_en": [
+            "image/q60_opt1.PNG",
+            "image/q60_opt2.PNG",
+            "image/q60_opt3.PNG",
+            "image/q60_opt4.PNG"
+        ],
+        "explanation_en": "Adjacent angles must share a common vertex and a common ray. This is correctly depicted only in option 3."
+    },
+    {
+        "id": 61,
+        "question": "இரு கோடுகளானது ஒரு புள்ளியில் வெட்டும்போது, குத்தெதிர்க் கோணங்களானது",
+        "options": [
+            "நிரப்புக் கோணங்கள்",
+            "மிகைநிரப்புக் கோணங்கள்",
+            "சமம்",
+            "அடுத்துள்ள கோணங்கள்"
+        ],
+        "correct": 2,
+        "explanation": "இரு கோடுகள் ஒரு புள்ளியில் வெட்டும்போது உருவாகும் குத்தெதிர்க் கோணங்கள் எப்போதும் சமமாக இருக்கும்.",
+        "question_en": "When two lines intersect at a point, the vertically opposite angles are",
+        "options_en": [
+            "Complementary angles",
+            "Supplementary angles",
+            "Equal",
+            "Adjacent angles"
+        ],
+        "explanation_en": "When two lines intersect at a point, the vertically opposite angles formed are always equal."
+    },
+    {
+        "id": 62,
+        "question": "படத்தில் குத்தெதிர்க் கோணங்கள் எவை?",
+        "options": [
+            "∠PTS, ∠RTQ",
+            "∠PTS, ∠PTR",
+            "∠STQ, ∠RTQ",
+            "∠PTQ, ∠STQ"
+        ],
+        "correct": 0,
+        "explanation": "குத்தெதிர்க் கோணங்கள் ஒன்றையொன்று வெட்டும் கோடுகளால் எதிரெதிரே உருவாகின்றன. எனவே ∠PTS மற்றும் ∠RTQ குத்தெதிர்க் கோணங்கள்.",
+        "question_en": "Which are the vertically opposite angles in the figure?",
+        "options_en": [
+            "∠PTS, ∠RTQ",
+            "∠PTS, ∠PTR",
+            "∠STQ, ∠RTQ",
+            "∠PTQ, ∠STQ"
+        ],
+        "explanation_en": "Vertically opposite angles are formed opposite to each other when two lines intersect. Thus, ∠PTS and ∠RTQ are vertically opposite angles.",
+        "image": "image/unit15/q62.PNG"
+    },
+    {
+        "id": 63,
+        "question": "படத்தில், x-ன் மதிப்பு",
+        "options": [
+            "30°",
+            "150°",
+            "180°",
+            "360°"
+        ],
+        "correct": 1,
+        "explanation": "குத்தெதிர்க் கோணங்கள் சமம் என்பதால், $x = 150^{\\circ}$.",
+        "question_en": "In the figure, the value of x is",
+        "options_en": [
+            "30°",
+            "150°",
+            "180°",
+            "360°"
+        ],
+        "explanation_en": "Since vertically opposite angles are equal, $x = 150^{\\circ}$.",
+        "image": "image/unit15/q63.PNG"
+    },
+    {
+        "id": 64,
+        "question": "படத்தில் $\\angle AOC=40^{\\circ}$ எனில் $\\angle BOD$-ன் அளவு",
+        "options": [
+            "140°",
+            "40°",
+            "180°",
+            "50°"
+        ],
+        "correct": 1,
+        "explanation": "குத்தெதிர்க் கோணங்கள் சமம் என்பதால் $\\angle BOD = \\angle AOC = 40^{\\circ}$.",
+        "question_en": "In the figure, if $\\angle AOC=40^{\\circ}$, then the measure of $\\angle BOD$ is",
+        "options_en": [
+            "140°",
+            "40°",
+            "180°",
+            "50°"
+        ],
+        "explanation_en": "Since vertically opposite angles are equal, $\\angle BOD = \\angle AOC = 40^{\\circ}$.",
+        "image": "image/unit15/q64.PNG"
+    },
+    {
+        "id": 65,
+        "question": "படத்தில் உருவாகும் கோணங்கள்",
+        "options": [
+            "2",
+            "5",
+            "4",
+            "5-க்கு மேல்"
+        ],
+        "correct": 3,
+        "explanation": "படத்தில் ஒன்றுக்கு மேற்பட்ட கோடுகள் வெட்டிக்கொள்வதால், 5-க்கு மேற்பட்ட கோணங்கள் உருவாகின்றன.",
+        "question_en": "The number of angles formed in the figure is",
+        "options_en": [
+            "2",
+            "5",
+            "4",
+            "More than 5"
+        ],
+        "explanation_en": "Since multiple lines intersect at a point in the figure, more than 5 angles are formed.",
+        "image": "image/unit15/q65.PNG"
+    },
+    {
+        "id": 66,
+        "question": "வரைபடத்தில் உள்ள திசைகளில் வடக்கு, மேற்கு திசைகளுக்கிடையே உள்ள கோணம் மற்றும் தெற்கு, கிழக்கு திசைகளுக்கிடையே உள்ள கோணம் ஆகியவை",
+        "options": [
+            "குத்தெதிர்க் கோணங்கள்",
+            "நேரிய கோண இணைகள்",
+            "அடுத்துள்ள கோணங்கள்",
+            "நிரப்புக் கோணங்கள்"
+        ],
+        "correct": 0,
+        "explanation": "வடமேற்கு (NW) மற்றும் தென்கிழக்கு (SE) திசைகளுக்கிடையே உள்ள கோணங்கள் நேர்கோடுகளில் எதிரெதிரே அமைவதால் அவை குத்தெதிர்க் கோணங்கள்.",
+        "question_en": "The angle between North and West directions, and the angle between South and East directions on a map are",
+        "options_en": [
+            "Vertically opposite angles",
+            "Linear pair of angles",
+            "Adjacent angles",
+            "Complementary angles"
+        ],
+        "explanation_en": "The angles between North-West (NW) and South-East (SE) are formed opposite to each other by intersecting straight lines, making them vertically opposite angles."
+    },
+    {
+        "id": 67,
+        "question": "கூற்று A: எல்லா அடுத்துள்ள கோண இணைகளும் நேரிய கோண இணைகள்.\nகூற்று B: இரு கோணங்களால் அமையும் நேரிய கோண இணைகள் எப்போதும் அடுத்துள்ள கோணங்களாக அமையும்.\nகூற்று C: குத்தெதிர்க் கோணங்கள் எப்போதும் மிகைநிரப்புக் கோணங்களாக இருக்கும்.",
+        "options": [
+            "A மட்டும் சரி",
+            "B மட்டும் சரி",
+            "A மற்றும் B சரி",
+            "B மற்றும் C சரி"
+        ],
+        "correct": 1,
+        "explanation": "அடுத்துள்ள கோணங்கள் நேரிய இணைகளாக இருக்க வேண்டியதில்லை (கூற்று A தவறு). ஆனால் நேரிய கோண இணைகள் எப்போதும் அடுத்துள்ள கோணங்களாகவே அமையும் (கூற்று B சரி). குத்தெதிர்க் கோணங்கள் சமமே தவிர, எப்போதும் மிகைநிரப்பிகள் அல்ல (கூற்று C தவறு).",
+        "question_en": "Statement A: All adjacent angle pairs are linear pairs.\nStatement B: Linear pairs formed by two angles are always adjacent angles.\nStatement C: Vertically opposite angles are always supplementary angles.",
+        "options_en": [
+            "Only A is correct",
+            "Only B is correct",
+            "A and B are correct",
+            "B and C are correct"
+        ],
+        "explanation_en": "Adjacent angles need not be linear pairs (Statement A is false). However, linear pairs always form adjacent angles (Statement B is true). Vertically opposite angles are equal, not necessarily supplementary (Statement C is false)."
+    },
+    {
+        "id": 68,
+        "question": "கொடுக்கப்பட்ட படத்தைக் கவனித்து, கீழ்க்காணும் தெரிவுகளில் தவறானது எது என்பதைத் தேர்ந்தெடுக்க.",
+        "options": [
+            "$\\angle1=\\angle2$",
+            "$\\angle3=\\angle4$",
+            "$\\angle1+\\angle3=180^{\\circ}$",
+            "$\\angle1=\\angle4$"
+        ],
+        "correct": 3,
+        "explanation": "$\\angle 1$ மற்றும் $\\angle 4$ ஆகியவை நேரிய கோண இணைகள், அவை எப்போதும் சமமாக இருக்க வேண்டியதில்லை (அவற்றின் கூடுதல் $180^{\\circ}$). எனவே $\\angle 1=\\angle 4$ എന്നത് தவறானது.",
+        "question_en": "Observe the given figure and select the incorrect option among the following.",
+        "options_en": [
+            "$\\angle1=\\angle2$",
+            "$\\angle3=\\angle4$",
+            "$\\angle1+\\angle3=180^{\\circ}$",
+            "$\\angle1=\\angle4$"
+        ],
+        "explanation_en": "$\\angle 1$ and $\\angle 4$ are a linear pair, they need not always be equal (their sum is $180^{\\circ}$). Therefore, stating $\\angle 1=\\angle 4$ is incorrect.",
+        "image": "image/unit15/q68.PNG"
+    },
+    {
+        "id": 69,
+        "question": "கொடுக்கப்பட்ட படத்தில், $\\angle EBF=?$",
+        "options": [
+            "93°",
+            "140°",
+            "47°",
+            "107°"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி சரியான விடை 93°.",
+        "question_en": "In the given figure, $\\angle EBF=?$",
+        "options_en": [
+            "93°",
+            "140°",
+            "47°",
+            "107°"
+        ],
+        "explanation_en": "According to the answer key, the correct answer is 93°.",
+        "image": "image/unit15/q69.PNG"
+    },
+    {
+        "id": 70,
+        "question": "கொடுக்கப்பட்ட படத்தில் $x+y=w+z$ எனில், $\\angle AOB=?$",
+        "options": [
+            "180°",
+            "90°",
+            "270°",
+            "90°"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு புள்ளியைச் சுற்றியுள்ள கோணங்களின் கூடுதல் 360°. $x+y+w+z=360^{\\circ}$. $x+y = w+z$ என்பதால் $2(x+y) = 360^{\\circ} \\implies x+y = 180^{\\circ}$. $\\angle AOB = x+y = 180^{\\circ}$ (நேர்கோடு).",
+        "question_en": "In the given figure, if $x+y=w+z$, then $\\angle AOB=?$",
+        "options_en": [
+            "180°",
+            "90°",
+            "270°",
+            "90°"
+        ],
+        "explanation_en": "The sum of angles around a point is 360°. $x+y+w+z=360^{\\circ}$. Since $x+y = w+z$, $2(x+y) = 360^{\\circ} \\implies x+y = 180^{\\circ}$. $\\angle AOB = x+y = 180^{\\circ}$ (a straight line).",
+        "image": "image/unit15/q70.PNG"
+    },
+    {
+        "id": 71,
+        "question": "படத்தில், x-ன் மதிப்பு",
+        "options": [
+            "14°",
+            "180°",
+            "360°",
+            "36°"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி சரியான விடை 14°. நேரிய கோண இணைகளின் கூடுதல் $180^{\\circ}$ என்ற பண்பைப் பயன்படுத்தி x கணக்கிடப்படுகிறது.",
+        "question_en": "In the figure, the value of x is",
+        "options_en": [
+            "14°",
+            "180°",
+            "360°",
+            "36°"
+        ],
+        "explanation_en": "According to the answer key, the correct answer is 14°. It is calculated using the property that the sum of a linear pair of angles is $180^{\\circ}$.",
+        "image": "image/unit15/q71.PNG"
+    },
+    {
+        "id": 72,
+        "question": "கொடுக்கப்பட்ட படத்தில், $\\angle COD=?$",
+        "options": [
+            "32°",
+            "45°",
+            "192°",
+            "103°"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி $\\angle COD = 32^{\\circ}$.",
+        "question_en": "In the given figure, $\\angle COD=?$",
+        "options_en": [
+            "32°",
+            "45°",
+            "192°",
+            "103°"
+        ],
+        "explanation_en": "According to the answer key, $\\angle COD = 32^{\\circ}$.",
+        "image": "image/unit15/q72.PNG"
+    },
+    {
+        "id": 73,
+        "question": "கொடுக்கப்பட்ட படத்தில், $\\angle x+\\angle y$ ன் மதிப்பு",
+        "options": [
+            "118°",
+            "59°",
+            "121°",
+            "108°"
+        ],
+        "correct": 0,
+        "explanation": "குத்தெதிர்க் கோணங்கள் மற்றும் நேரிய கோண இணைகளின் பண்புகளின்படி, $\\angle x$ மற்றும் $\\angle y$ மதிப்புகளைக் கண்டுபிடித்து கூட்டினால் $118^{\\circ}$ கிடைக்கும்.",
+        "question_en": "In the given figure, the value of $\\angle x+\\angle y$ is",
+        "options_en": [
+            "118°",
+            "59°",
+            "121°",
+            "108°"
+        ],
+        "explanation_en": "Using the properties of vertically opposite angles and linear pairs, finding the values of $\\angle x$ and $\\angle y$ and adding them yields $118^{\\circ}$.",
+        "image": "image/unit15/q73.PNG"
+    },
+    {
+        "id": 74,
+        "question": "சரியான கூற்றினைத் தேர்ந்தெடுக்கவும்.\n(i) $a+b=d+e$\n(ii) $a+c+e=180^{\\circ}$\n(iii) $b+f=c+e$",
+        "options": [
+            "(i) மற்றும் (ii)",
+            "(i) மற்றும் (iii)",
+            "(ii) மற்றும் (iii)",
+            "(i), (ii) & (iii)"
+        ],
+        "correct": 3,
+        "explanation": "விடைக்குறிப்பின்படி மூன்று கூற்றுகளும் சரியானவை.",
+        "question_en": "Select the correct statement.\n(i) $a+b=d+e$\n(ii) $a+c+e=180^{\\circ}$\n(iii) $b+f=c+e$",
+        "options_en": [
+            "(i) and (ii)",
+            "(i) and (iii)",
+            "(ii) and (iii)",
+            "(i), (ii) & (iii)"
+        ],
+        "explanation_en": "According to the answer key, all three statements are correct.",
+        "image": "image/unit15/q74.PNG"
+    },
+    {
+        "id": 75,
+        "question": "படத்தில் y-ன் மதிப்பு",
+        "options": [
+            "24°",
+            "22°",
+            "20°",
+            "10°"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு நேர்கோட்டில் உள்ள கோணங்களின் கூடுதல் $180^{\\circ}$. $5y + 4y + 9y = 180^{\\circ} \\implies 18y = 180^{\\circ} \\implies y = 10^{\\circ}$.",
+        "question_en": "The value of y in the figure is",
+        "options_en": [
+            "24°",
+            "22°",
+            "20°",
+            "10°"
+        ],
+        "explanation_en": "The sum of angles on a straight line is $180^{\\circ}$. $5y + 4y + 9y = 180^{\\circ} \\implies 18y = 180^{\\circ} \\implies y = 10^{\\circ}$.",
+        "image": "image/unit15/q75.PNG"
+    },
+    {
+        "id": 76,
+        "question": "கொடுக்கப்பட்ட படத்தில் $\\angle AOC+\\angle BOE=70^{\\circ}$ மற்றும் $\\angle BOD=40^{\\circ}$ எனில், $\\angle BOE$-ன் மதிப்பு என்ன?",
+        "options": [
+            "90°",
+            "50°",
+            "30°",
+            "60°"
+        ],
+        "correct": 2,
+        "explanation": "$\\angle AOC$ மற்றும் $\\angle BOD$ குத்தெதிர்க் கோணங்கள், எனவே $\\angle AOC = 40^{\\circ}$. $\\angle AOC + \\angle BOE = 70^{\\circ} \\implies 40^{\\circ} + \\angle BOE = 70^{\\circ} \\implies \\angle BOE = 30^{\\circ}$.",
+        "question_en": "In the given figure, if $\\angle AOC+\\angle BOE=70^{\\circ}$ and $\\angle BOD=40^{\\circ}$, what is the value of $\\angle BOE$?",
+        "options_en": [
+            "90°",
+            "50°",
+            "30°",
+            "60°"
+        ],
+        "explanation_en": "$\\angle AOC$ and $\\angle BOD$ are vertically opposite angles, so $\\angle AOC = 40^{\\circ}$. $\\angle AOC + \\angle BOE = 70^{\\circ} \\implies 40^{\\circ} + \\angle BOE = 70^{\\circ} \\implies \\angle BOE = 30^{\\circ}$.",
+        "image": "image/unit15/q76.PNG"
+    },
+    {
+        "id": 77,
+        "question": "படத்தில் $\\angle AOF=50^{\\circ}$, $\\angle COE=65^{\\circ}$ எனில், $\\angle BOD$-ன் மதிப்பு",
+        "options": [
+            "15°",
+            "115°",
+            "65°",
+            "85°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி சரியான விடை 65°.",
+        "question_en": "In the figure, if $\\angle AOF=50^{\\circ}$ and $\\angle COE=65^{\\circ}$, the value of $\\angle BOD$ is",
+        "options_en": [
+            "15°",
+            "115°",
+            "65°",
+            "85°"
+        ],
+        "explanation_en": "According to the answer key, the correct answer is 65°.",
+        "image": "image/unit15/q77.PNG"
+    },
+    {
+        "id": 78,
+        "question": "கொடுக்கப்பட்ட படத்தில், x-ன் எம்மதிப்பிற்கு XOY ஆனது நேர்கோடாகும்.",
+        "options": [
+            "90°",
+            "57°",
+            "70°",
+            "37°"
+        ],
+        "correct": 3,
+        "explanation": "நேர்கோடு எனில் $(3x+10)^{\\circ} + (2x-15)^{\\circ} = 180^{\\circ} \\implies 5x - 5 = 180 \\implies 5x = 185 \\implies x = 37^{\\circ}$.",
+        "question_en": "In the given figure, for what value of x will XOY be a straight line?",
+        "options_en": [
+            "90°",
+            "57°",
+            "70°",
+            "37°"
+        ],
+        "explanation_en": "For it to be a straight line, $(3x+10)^{\\circ} + (2x-15)^{\\circ} = 180^{\\circ} \\implies 5x - 5 = 180 \\implies 5x = 185 \\implies x = 37^{\\circ}$.",
+        "image": "image/unit15/q78.PNG"
+    },
+    {
+        "id": 79,
+        "question": "இரண்டு நேரிய கோண இணைகளின் வித்தியாசம் $70^{\\circ}$ எனில், அக்கோணங்கள்",
+        "options": [
+            "140°, 70°",
+            "125°, 55°",
+            "135°, 45°",
+            "105°, 75°"
+        ],
+        "correct": 1,
+        "explanation": "$x+y=180^{\\circ}$ மற்றும் $x-y=70^{\\circ}$. இரண்டையும் கூட்ட $2x=250^{\\circ} \\implies x=125^{\\circ}$. எனவே $y = 180^{\\circ}-125^{\\circ} = 55^{\\circ}$.",
+        "question_en": "If the difference between a linear pair of angles is $70^{\\circ}$, the angles are",
+        "options_en": [
+            "140°, 70°",
+            "125°, 55°",
+            "135°, 45°",
+            "105°, 75°"
+        ],
+        "explanation_en": "$x+y=180^{\\circ}$ and $x-y=70^{\\circ}$. Adding them gives $2x=250^{\\circ} \\implies x=125^{\\circ}$. Therefore, $y = 180^{\\circ}-125^{\\circ} = 55^{\\circ}$."
+    },
+    {
+        "id": 80,
+        "question": "நேரிய கோண இணைகளுக்கு இடையே உள்ள விகிதம் 7:5 எனில், அவற்றிற்கு இடையே உள்ள வித்தியாசம்",
+        "options": [
+            "30°",
+            "60°",
+            "75°",
+            "90°"
+        ],
+        "correct": 0,
+        "explanation": "கோணங்கள் $7x$ மற்றும் $5x$. $7x+5x=180^{\\circ} \\implies 12x=180^{\\circ} \\implies x=15^{\\circ}$. வித்தியாசம் $7x-5x = 2x = 2(15^{\\circ}) = 30^{\\circ}$.",
+        "question_en": "If the ratio between a linear pair of angles is 7:5, the difference between them is",
+        "options_en": [
+            "30°",
+            "60°",
+            "75°",
+            "90°"
+        ],
+        "explanation_en": "The angles are $7x$ and $5x$. $7x+5x=180^{\\circ} \\implies 12x=180^{\\circ} \\implies x=15^{\\circ}$. The difference is $7x-5x = 2x = 2(15^{\\circ}) = 30^{\\circ}$."
+    },
+    {
+        "id": 81,
+        "question": "இரு கோடுகள் RS மற்றும் PQ ஆகியன 'O' வில் வெட்டுகின்றன. $\\angle POR : \\angle ROQ = 11:13$ எனில், $\\angle SOQ$-ன் மதிப்பு",
+        "options": [
+            "$\\frac{195^{\\circ}}{2}$",
+            "95°",
+            "$\\frac{165^{\\circ}}{2}$",
+            "65°"
+        ],
+        "correct": 2,
+        "explanation": "$11x + 13x = 180^{\\circ} \\implies 24x = 180^{\\circ} \\implies x = \\frac{180}{24} = \\frac{15}{2}$. $\\angle SOQ$ மற்றும் $\\angle POR$ குத்தெதிர்க் கோணங்கள். $\\angle SOQ = \\angle POR = 11x = 11 \\times \\frac{15}{2} = \\frac{165^{\\circ}}{2}$.",
+        "question_en": "Two lines RS and PQ intersect at 'O'. If $\\angle POR : \\angle ROQ = 11:13$, the value of $\\angle SOQ$ is",
+        "options_en": [
+            "$\\frac{195^{\\circ}}{2}$",
+            "95°",
+            "$\\frac{165^{\\circ}}{2}$",
+            "65°"
+        ],
+        "explanation_en": "$11x + 13x = 180^{\\circ} \\implies 24x = 180^{\\circ} \\implies x = \\frac{180}{24} = \\frac{15}{2}$. $\\angle SOQ$ and $\\angle POR$ are vertically opposite angles. $\\angle SOQ = \\angle POR = 11x = 11 \\times \\frac{15}{2} = \\frac{165^{\\circ}}{2}$."
+    },
+    {
+        "id": 82,
+        "question": "ஒருபோதும் ஒன்றையொன்று வெட்டிக் கொள்ளாக் கோடுகள் ________ எனப்படும்.",
+        "options": [
+            "செங்குத்துக் கோடுகள்",
+            "இணைகோடுகள்",
+            "வெட்டும் கோடுகள்",
+            "வளைகோடுகள்"
+        ],
+        "correct": 1,
+        "explanation": "ஒரு தளத்தில் ஒருபோதும் ஒன்றையொன்று சந்திக்காத அல்லது வெட்டிக்கொள்ளாத கோடுகள் இணைகோடுகள் எனப்படும்.",
+        "question_en": "Lines that never intersect each other are called ________.",
+        "options_en": [
+            "Perpendicular lines",
+            "Parallel lines",
+            "Intersecting lines",
+            "Curved lines"
+        ],
+        "explanation_en": "Lines in a plane that never meet or intersect each other are called parallel lines."
+    },
+    {
+        "id": 83,
+        "question": "இரண்டு அல்லது அதற்கு மேற்பட்ட கோடுகளை வெவ்வேறு புள்ளிகளில் வெட்டும் கோடு ________ ஆகும்.",
+        "options": [
+            "இணைகோடுகள்",
+            "குறுக்குவெட்டி",
+            "இணையில்லாக் கோடுகள்",
+            "வெட்டும் கோடுகள்"
+        ],
+        "correct": 1,
+        "explanation": "இரண்டு அல்லது அதற்கு மேற்பட்ட கோடுகளை வெவ்வேறு புள்ளிகளில் வெட்டும் கோட்டிற்கு குறுக்குவெட்டி (Transversal) என்று பெயர்.",
+        "question_en": "A line that intersects two or more lines at distinct points is called a ________.",
+        "options_en": [
+            "Parallel lines",
+            "Transversal",
+            "Non-parallel lines",
+            "Intersecting lines"
+        ],
+        "explanation_en": "A line that cuts across two or more lines at distinct points is called a transversal."
+    },
+    {
+        "id": 84,
+        "question": "எத்தனை குறுக்குவெட்டிகள் இணைகோடுகளுக்கு வரைய முடியும்?",
+        "options": [
+            "1",
+            "2",
+            "8",
+            "பல"
+        ],
+        "correct": 3,
+        "explanation": "கொடுக்கப்பட்ட இணைகோடுகளுக்கு எண்ணற்ற (பல) குறுக்குவெட்டிகளை வரையலாம்.",
+        "question_en": "How many transversals can be drawn for parallel lines?",
+        "options_en": [
+            "1",
+            "2",
+            "8",
+            "Many"
+        ],
+        "explanation_en": "An infinite (many) number of transversals can be drawn across given parallel lines."
+    },
+    {
+        "id": 85,
+        "question": "இரு இணைகோடுகளை ஒரு குறுக்குவெட்டி வெட்டும் போது எத்தனை கோணங்கள் உண்டாகும்?",
+        "options": [
+            "1",
+            "2",
+            "8",
+            "பல"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு குறுக்குவெட்டியானது இரண்டு இணைகோடுகளை வெட்டும்போது, ஒவ்வொரு வெட்டும் புள்ளியிலும் 4 கோணங்கள் வீதம் மொத்தம் 8 கோணங்கள் உருவாகின்றன.",
+        "question_en": "When a transversal intersects two parallel lines, how many angles are formed?",
+        "options_en": [
+            "1",
+            "2",
+            "8",
+            "Many"
+        ],
+        "explanation_en": "When a transversal intersects two parallel lines, 4 angles are formed at each intersection point, making a total of 8 angles."
+    },
+    {
+        "id": 86,
+        "question": "கொடுக்கப்பட்ட படத்தில், ஒத்த கோணங்கள் என்பவை",
+        "options": [
+            "$\\angle 1, \\angle 5$",
+            "$\\angle 3, \\angle 5$",
+            "$\\angle 1, \\angle 7$",
+            "இவை அனைத்தும்"
+        ],
+        "correct": 0,
+        "explanation": "குறுக்குவெட்டியின் ஒரே பக்கத்தில், இணை கோடுகளுக்கு ஒரே திசையில் (மேலே அல்லது கீழே) அமையும் கோணங்கள் ஒத்த கோணங்கள். $\\angle 1$ மற்றும் $\\angle 5$ ஒத்த கோணங்கள் ஆகும்.",
+        "question_en": "In the given figure, the corresponding angles are",
+        "options_en": [
+            "$\\angle 1, \\angle 5$",
+            "$\\angle 3, \\angle 5$",
+            "$\\angle 1, \\angle 7$",
+            "All of these"
+        ],
+        "explanation_en": "Corresponding angles are in the same position (top/bottom) at each intersection where the straight line crosses the parallel lines. $\\angle 1$ and $\\angle 5$ are corresponding angles.",
+        "image": "image/unit15/q86.PNG"
+    },
+    {
+        "id": 87,
+        "question": "கொடுக்கப்பட்ட படத்தில், கோணங்கள் a மற்றும் b என்பவை",
+        "options": [
+            "ஒன்றுவிட்ட வெளிக்கோணங்கள்",
+            "ஒத்த கோணங்கள்",
+            "ஒன்றுவிட்ட உட்கோணங்கள்",
+            "குத்தெதிர்க் கோணங்கள்"
+        ],
+        "correct": 0,
+        "explanation": "கோணங்கள் a மற்றும் b இணைகோடுகளுக்கு வெளியே, குறுக்குவெட்டிக்கு எதிரெதிர் திசைகளில் அமைவதால் அவை ஒன்றுவிட்ட வெளிக்கோணங்கள்.",
+        "question_en": "In the given figure, angles a and b are",
+        "options_en": [
+            "Alternate exterior angles",
+            "Corresponding angles",
+            "Alternate interior angles",
+            "Vertically opposite angles"
+        ],
+        "explanation_en": "Angles a and b are outside the parallel lines and on opposite sides of the transversal, so they are alternate exterior angles.",
+        "image": "image/unit15/q87.PNG"
+    },
+    {
+        "id": 88,
+        "question": "கொடுக்கப்பட்ட படத்தில், ஒன்றுவிட்ட உட்கோணங்கள் என்பவை",
+        "options": [
+            "$\\angle 1, \\angle 5$",
+            "$\\angle 3, \\angle 5$",
+            "$\\angle 4, \\angle 6$",
+            "$\\angle 4, \\angle 5$"
+        ],
+        "correct": 1,
+        "explanation": "இணைகோடுகளுக்கு உள்ளே, குறுக்குவெட்டிக்கு எதிரெதிர் திசைகளில் அமையும் கோணங்கள் ஒன்றுவிட்ட உட்கோணங்கள். $\\angle 3$ மற்றும் $\\angle 5$ ஒன்றுவிட்ட உட்கோணங்கள் (அதேபோல $\\angle 4$ மற்றும் $\\angle 6$).",
+        "question_en": "In the given figure, the alternate interior angles are",
+        "options_en": [
+            "$\\angle 1, \\angle 5$",
+            "$\\angle 3, \\angle 5$",
+            "$\\angle 4, \\angle 6$",
+            "$\\angle 4, \\angle 5$"
+        ],
+        "explanation_en": "Alternate interior angles are inside the parallel lines and on opposite sides of the transversal. $\\angle 3$ and $\\angle 5$ are alternate interior angles (similarly $\\angle 4$ and $\\angle 6$).",
+        "image": "image/unit15/q88.PNG"
+    },
+    {
+        "id": 89,
+        "question": "கொடுக்கப்பட்ட படத்தில், குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமைந்த உட்கோணங்கள் என்பவை:\na) $\\angle 4, \\angle 5$\nb) $\\angle 3, \\angle 5$\nc) $\\angle 4, \\angle 6$\nd) $\\angle 3, \\angle 6$",
+        "options": [
+            "a & b",
+            "b & d",
+            "d & a",
+            "a, c & d"
+        ],
+        "correct": 2,
+        "explanation": "குறுக்குவெட்டிக்கு ஒரே பக்கத்தில், இணைகோடுகளுக்கு உள்ளே அமையும் கோணங்கள். $\\angle 4$ & $\\angle 5$ ஒரு இணை, $\\angle 3$ & $\\angle 6$ மற்றொரு இணை. எனவே a மற்றும் d சரி.",
+        "question_en": "In the given figure, the interior angles on the same side of the transversal are:\na) $\\angle 4, \\angle 5$\nb) $\\angle 3, \\angle 5$\nc) $\\angle 4, \\angle 6$\nd) $\\angle 3, \\angle 6$",
+        "options_en": [
+            "a & b",
+            "b & d",
+            "d & a",
+            "a, c & d"
+        ],
+        "explanation_en": "Interior angles on the same side are inside the parallel lines and on the same side of the transversal. $\\angle 4$ & $\\angle 5$ is one pair, $\\angle 3$ & $\\angle 6$ is another pair. So, a and d are correct.",
+        "image": "image/unit15/q89.PNG"
+    },
+    {
+        "id": 90,
+        "question": "கொடுக்கப்பட்ட படத்தில், கோணங்கள் $\\angle 2$ மற்றும் $\\angle 7$ என்பவை",
+        "options": [
+            "ஒன்றுவிட்ட வெளிக்கோணங்கள்",
+            "ஒன்றுவிட்ட உட்கோணங்கள்",
+            "குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும் உட்கோணங்கள்",
+            "குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும் வெளிக்கோணங்கள்"
+        ],
+        "correct": 3,
+        "explanation": "கோணங்கள் $\\angle 2$ மற்றும் $\\angle 7$ இணைகோடுகளுக்கு வெளியே, குறுக்குவெட்டிக்கு வலதுபுறமாக (ஒரே பக்கத்தில்) அமைவதால் அவை குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும் வெளிக்கோணங்கள்.",
+        "question_en": "In the given figure, angles $\\angle 2$ and $\\angle 7$ are",
+        "options_en": [
+            "Alternate exterior angles",
+            "Alternate interior angles",
+            "Interior angles on the same side of the transversal",
+            "Exterior angles on the same side of the transversal"
+        ],
+        "explanation_en": "Angles $\\angle 2$ and $\\angle 7$ are outside the parallel lines and on the right side (same side) of the transversal, so they are exterior angles on the same side of the transversal.",
+        "image": "image/unit15/q90.PNG"
+    },
+    {
+        "id": 91,
+        "question": "ஒரு குறுக்குவெட்டி இரு இணைகோடுகளை வெட்டும்போது ஒத்த கோணங்கள்",
+        "options": [
+            "நிரப்புக் கோணங்கள்",
+            "மிகைநிரப்புக் கோணங்கள்",
+            "சமம்",
+            "சமமற்றவை"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி, ஒரு குறுக்குவெட்டி இரு இணைகோடுகளை வெட்டும்போது உருவாகும் ஒத்த கோணங்கள் எப்போதும் சமமாக இருக்கும்.",
+        "question_en": "When a transversal intersects two parallel lines, the corresponding angles are",
+        "options_en": [
+            "Complementary angles",
+            "Supplementary angles",
+            "Equal",
+            "Unequal"
+        ],
+        "explanation_en": "According to the answer key, when a transversal intersects two parallel lines, the corresponding angles formed are always equal."
+    },
+    {
+        "id": 92,
+        "question": "இணைகோடுகளை ஒரு குறுக்குவெட்டி வெட்டும் நிகழ்வில் கீழ்க்கண்ட கோண இணைகளில் எவற்றின் கூடுதல் எப்போதும் 180° ஆக இருக்கும்?",
+        "options": [
+            "ஒன்றுவிட்ட உட்கோணங்கள்",
+            "ஒன்றுவிட்ட வெளிக்கோணங்கள்",
+            "ஒத்த கோணங்கள்",
+            "குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமைந்த வெளிக்கோணங்கள்"
+        ],
+        "correct": 3,
+        "explanation": "குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும் வெளிக்கோணங்களின் (Co-exterior angles) கூடுதல் எப்போதும் 180° (மிகைநிரப்பிகள்) ஆகும்.",
+        "question_en": "When a transversal intersects two parallel lines, the sum of which of the following pairs of angles is always 180°?",
+        "options_en": [
+            "Alternate interior angles",
+            "Alternate exterior angles",
+            "Corresponding angles",
+            "Exterior angles on the same side of the transversal"
+        ],
+        "explanation_en": "The sum of exterior angles on the same side of the transversal (co-exterior angles) is always 180° (supplementary)."
+    },
+    {
+        "id": 93,
+        "question": "இணைகோடுகளை ஒரு குறுக்குவெட்டி வெட்டும் நிகழ்வில், கீழ்க்கண்ட கோண இணைகளில் எவை தங்களுக்குள் எப்போதும் சமமாக இருக்கும்?\n(a) ஒன்றுவிட்ட உட்கோணங்கள்\n(b) குத்தெதிர்க் கோணங்கள்\n(c) குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமைந்த உட்கோணங்கள்\n(d) குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமைந்த வெளிக்கோணங்கள்",
+        "options": [
+            "a மற்றும் b",
+            "c மற்றும் d",
+            "a மட்டும்",
+            "b, c மற்றும் d"
+        ],
+        "correct": 0,
+        "explanation": "ஒன்றுவிட்ட உட்கோணங்களும் குத்தெதிர்க் கோணங்களும் எப்போதும் தங்களுக்குள் சமமாக இருக்கும்.",
+        "question_en": "When a transversal intersects two parallel lines, which of the following pairs of angles are always equal to each other?\n(a) Alternate interior angles\n(b) Vertically opposite angles\n(c) Interior angles on the same side of the transversal\n(d) Exterior angles on the same side of the transversal",
+        "options_en": [
+            "a and b",
+            "c and d",
+            "a only",
+            "b, c and d"
+        ],
+        "explanation_en": "Alternate interior angles and vertically opposite angles are always equal to each other."
+    },
+    {
+        "id": 94,
+        "question": "இணைகோடுகளை ஒரு குறுக்குவெட்டி வெட்டும்போது பின்வரும் கூற்றுகளில் எது எப்போதும் உண்மையாக இருக்கும்?",
+        "options": [
+            "ஒத்த கோணங்கள், மிகைநிரப்பிகள்",
+            "ஒன்றுவிட்ட கோணங்கள், மிகைநிரப்பிகள்",
+            "ஒன்றுவிட்ட வெளிக்கோணங்கள், மிகைநிரப்பிகள்",
+            "குறுக்குவெட்டிக்கு ஒரே பக்கம் அமைந்த உட்கோணங்கள், மிகைநிரப்பிகள்"
+        ],
+        "correct": 3,
+        "explanation": "இணைகோடுகளை குறுக்குவெட்டி வெட்டும்போது, குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும் உட்கோணங்களின் கூடுதல் 180° (மிகைநிரப்பிகள்) ஆகும்.",
+        "question_en": "When a transversal intersects parallel lines, which of the following statements is always true?",
+        "options_en": [
+            "Corresponding angles are supplementary",
+            "Alternate angles are supplementary",
+            "Alternate exterior angles are supplementary",
+            "Interior angles on the same side of the transversal are supplementary"
+        ],
+        "explanation_en": "When a transversal intersects parallel lines, the interior angles on the same side of the transversal add up to 180° (supplementary)."
+    },
+    {
+        "id": 95,
+        "question": "கூற்று A: இரு இணைகோடுகளை ஒரு குறுக்குவெட்டி வெட்டும்போது, ஒத்த கோணங்கள் சமம்.\nகூற்று B: குறுக்குவெட்டியின் ஒரே பக்கம் அமைந்த வெளிக்கோணங்கள், நிரப்புக் கோணங்கள்",
+        "options": [
+            "A மட்டும் சரி",
+            "B மட்டும் சரி",
+            "இரண்டும் சரி",
+            "இரண்டும் தவறு"
+        ],
+        "correct": 0,
+        "explanation": "கூற்று A சரியானது, ஏனெனில் ஒத்த கோணங்கள் சமம். கூற்று B தவறானது, ஏனெனில் குறுக்குவெட்டியின் ஒரே பக்க வெளிக்கோணங்கள் மிகைநிரப்புக் கோணங்கள் (கூடுதல் 180°), நிரப்புக் கோணங்கள் அல்ல.",
+        "question_en": "Statement A: When a transversal intersects two parallel lines, corresponding angles are equal.\nStatement B: Exterior angles on the same side of the transversal are complementary.",
+        "options_en": [
+            "Only A is correct",
+            "Only B is correct",
+            "Both are correct",
+            "Both are incorrect"
+        ],
+        "explanation_en": "Statement A is correct because corresponding angles are equal. Statement B is incorrect because exterior angles on the same side of the transversal are supplementary (sum to 180°), not complementary."
+    },
+    {
+        "id": 96,
+        "question": "பொருத்துக.\na) ஒத்த கோணங்கள் - i) சமம்\nb) ஒன்று விட்ட உட்கோணங்கள் - ii) கூடுதல் 180°\nc) ஒன்று விட்ட வெளிக்கோணங்கள்\nd) கு.வெ. இன் ஒரே பக்க உட்கோணங்கள்\ne) கு.வெ. இன் ஒரே பக்க வெளிக்கோணங்கள்",
+        "options": [
+            "a-i, b-i, c-i, d-ii, e-ii",
+            "a-i, b-i, c-ii, d-ii, e-i",
+            "a-i, b-ii, c-ii, d-ii, e-i",
+            "a-ii, b-ii, c-i, d-ii, e-i"
+        ],
+        "correct": 1,
+        "explanation": "புத்தகத்தின் விடைக்குறிப்பின்படி விருப்பம் (2) குறிக்கப்பட்டுள்ளது. கணித விதிகளின்படி ஒத்த கோணங்கள், ஒன்றுவிட்ட உட்கோணங்கள் மற்றும் வெளிக்கோணங்கள் சமம் (i); ஒரே பக்க உட்கோணங்கள் மற்றும் வெளிக்கோணங்களின் கூடுதல் 180° (ii) ஆகும்.",
+        "question_en": "Match the following.\na) Corresponding angles - i) Equal\nb) Alternate interior angles - ii) Sum is 180°\nc) Alternate exterior angles\nd) Co-interior angles\ne) Co-exterior angles",
+        "options_en": [
+            "a-i, b-i, c-i, d-ii, e-ii",
+            "a-i, b-i, c-ii, d-ii, e-i",
+            "a-i, b-ii, c-ii, d-ii, e-i",
+            "a-ii, b-ii, c-i, d-ii, e-i"
+        ],
+        "explanation_en": "According to the answer key, option (2) is indicated. Mathematically, corresponding, alternate interior, and alternate exterior angles are equal (i), while co-interior and co-exterior angles sum to 180° (ii)."
+    },
+    {
+        "id": 97,
+        "question": "படத்தில் m || n எனில், x-ன் மதிப்பு என்ன?",
+        "options": [
+            "55°",
+            "125°",
+            "180°",
+            "65°"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி, கொடுக்கப்பட்ட கோணங்கள் ஒத்த கோணங்களாக இருப்பதால் அவற்றின் மதிப்பு சமம், எனவே x = 125°.",
+        "question_en": "In the figure, if m || n, what is the value of x?",
+        "options_en": [
+            "55°",
+            "125°",
+            "180°",
+            "65°"
+        ],
+        "explanation_en": "According to the answer key, the given angles are corresponding angles, so they are equal, hence x = 125°.",
+        "image": "image/unit15/q97.PNG"
+    },
+    {
+        "id": 98,
+        "question": "படத்தில் m || n எனில், x-ன் மதிப்பு என்ன?",
+        "options": [
+            "180°",
+            "46°",
+            "134°",
+            "124°"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் மதிப்பு 46° ஆகும்.",
+        "question_en": "In the figure, if m || n, what is the value of x?",
+        "options_en": [
+            "180°",
+            "46°",
+            "134°",
+            "124°"
+        ],
+        "explanation_en": "According to the answer key, the value of x is 46°.",
+        "image": "image/unit15/q98.PNG"
+    },
+    {
+        "id": 99,
+        "question": "படத்தில் m || n எனில், x-ன் மதிப்பு என்ன?",
+        "options": [
+            "127°",
+            "53°",
+            "180°",
+            "90°"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் மதிப்பு 127° ஆகும்.",
+        "question_en": "In the figure, if m || n, what is the value of x?",
+        "options_en": [
+            "127°",
+            "53°",
+            "180°",
+            "90°"
+        ],
+        "explanation_en": "According to the answer key, the value of x is 127°.",
+        "image": "image/unit15/q99.PNG"
+    },
+    {
+        "id": 100,
+        "question": "படத்தில் m || n எனில், x-ன் மதிப்பு என்ன?",
+        "options": [
+            "33°",
+            "147°",
+            "157°",
+            "180°"
+        ],
+        "correct": 1,
+        "explanation": "குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும் உட்கோணங்கள் மிகைநிரப்பிகள் என்பதால், x = 180° - 33° = 147°.",
+        "question_en": "In the figure, if m || n, what is the value of x?",
+        "options_en": [
+            "33°",
+            "147°",
+            "157°",
+            "180°"
+        ],
+        "explanation_en": "Since interior angles on the same side of a transversal are supplementary, x = 180° - 33° = 147°.",
+        "image": "image/unit15/q100.PNG"
+    },
+    {
+        "id": 101,
+        "question": "படத்தில் m || n எனில், x-ன் மதிப்பு என்ன?",
+        "options": [
+            "132°",
+            "48°",
+            "58°",
+            "68°"
+        ],
+        "correct": 1,
+        "explanation": "நேரிய கோண இணை அல்லது ஒத்த கோணங்களின்படி, x = 180° - 132° = 48°.",
+        "question_en": "In the figure, if m || n, what is the value of x?",
+        "options_en": [
+            "132°",
+            "48°",
+            "58°",
+            "68°"
+        ],
+        "explanation_en": "According to the linear pair or corresponding angle properties, x = 180° - 132° = 48°.",
+        "image": "image/unit15/q101.PNG"
+    },
+    {
+        "id": 102,
+        "question": "படத்தில், இரு கிடைமட்டக் கோடுகளும் இணைகோடுகளாகும். x-ன் மதிப்பு 145° கீழ்க்கண்ட எவ்விதிப்படி நிரூபிக்கலாம்?\n(a) ஒன்றுவிட்ட உட்கோணங்கள் சமம்.\n(b) நேரிய கோண இணைகளின் கூடுதல் 180°\n(c) குறுக்குவெட்டியின் ஒரே பக்கம் அமைந்த உட்கோணங்கள் சமம்.\n(d) வெளிக்கோணமானது உள்ளெதிர்க் கோணங்களின் கூடுதலுக்குச் சமம்",
+        "options": [
+            "a மட்டும்",
+            "c & d",
+            "b மட்டும்",
+            "a & b"
+        ],
+        "correct": 3,
+        "explanation": "விடைக்குறிப்பின்படி, ஒன்றுவிட்ட உட்கோணங்கள் சமம் மற்றும் நேரிய கோண இணைகளின் கூடுதல் 180° என்ற இரு விதிகளின் கூட்டு வடிவில் இது நிரூபிக்கப்படுகிறது.",
+        "question_en": "In the figure, the two horizontal lines are parallel. By which of the following rules can the value of x = 145° be proven?\n(a) Alternate interior angles are equal.\n(b) The sum of a linear pair of angles is 180°.\n(c) Interior angles on the same side of the transversal are equal.\n(d) An exterior angle is equal to the sum of interior opposite angles.",
+        "options_en": [
+            "a only",
+            "c & d",
+            "b only",
+            "a & b"
+        ],
+        "explanation_en": "According to the answer key, it is proven using both rules: alternate interior angles are equal and the sum of a linear pair is 180°.",
+        "image": "image/unit15/q102.PNG"
+    },
+    {
+        "id": 103,
+        "question": "கீழ்க்கண்டவற்றில் எக்கூற்று தவறானது?",
+        "options": [
+            "அடுத்துள்ள கோணங்களின் உட்பகுதிகள் ஒன்றுடன் ஒன்று பொருந்தாது.",
+            "இரு கோணங்களால் உண்டாகும் நேரிய கோண இணைகள், மிகைநிரப்பிகள்",
+            "குறுக்குவெட்டியானது இரண்டு அல்லது அதற்கு மேற்பட்ட கோடுகளை ஒரே புள்ளியில் வெட்டும்",
+            "ஒத்த கோணங்களானது குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும்."
+        ],
+        "correct": 2,
+        "explanation": "குறுக்குவெட்டி என்பது இரண்டு அல்லது அதற்கு மேற்பட்ட கோடுகளை 'வெவ்வேறு புள்ளிகளில்' வெட்டும் கோடாகும், ஒரே புள்ளியில் அல்ல. எனவே கூற்று 3 தவறானது.",
+        "question_en": "Which of the following statements is incorrect?",
+        "options_en": [
+            "The interiors of adjacent angles do not overlap.",
+            "Linear pairs formed by two angles are supplementary.",
+            "A transversal intersects two or more lines at a single point.",
+            "Corresponding angles lie on the same side of the transversal."
+        ],
+        "explanation_en": "A transversal is a line that intersects two or more lines at 'distinct points', not at a single point. Therefore, statement 3 is incorrect."
+    },
+    {
+        "id": 104,
+        "question": "படத்தில், இரு கிடைமட்ட கோடுகளும் இணை எனில், x-ன் மதிப்பு என்ன?",
+        "options": [
+            "43°",
+            "44°",
+            "132°",
+            "134°"
+        ],
+        "correct": 1,
+        "explanation": "குறுக்குவெட்டியின் ஒரே பக்க உட்கோணங்களின் கூடுதல் 180° என்பதால், $(3x - 17) + 65 = 180 \\implies 3x + 48 = 180 \\implies 3x = 132 \\implies x = 44$.",
+        "question_en": "In the figure, if the two horizontal lines are parallel, what is the value of x?",
+        "options_en": [
+            "43°",
+            "44°",
+            "132°",
+            "134°"
+        ],
+        "explanation_en": "Since co-interior angles sum to 180°, $(3x - 17) + 65 = 180 \\implies 3x + 48 = 180 \\implies 3x = 132 \\implies x = 44$.",
+        "image": "image/unit15/q104.PNG"
+    },
+    {
+        "id": 105,
+        "question": "படத்தில் m || n மற்றும் p || q எனில், a, b மற்றும் c -ன் மதிப்புகள் முறையே என்ன?",
+        "options": [
+            "53°, 127°, 53°",
+            "53°, 53°, 127°",
+            "127°, 53°, 53°",
+            "127°, 127°, 53°"
+        ],
+        "correct": 0,
+        "explanation": "வடிவியல் பண்புகளின்படி, இணைகோடுகளுக்கு இடையே உருவாகும் ஒத்த மற்றும் ஒன்றுவிட்ட கோணங்களின் அடிப்படையில் முறையே 53°, 127°, 53° என்பது சரியான விடையாகும்.",
+        "question_en": "In the figure, if m || n and p || q, what are the values of a, b, and c respectively?",
+        "options_en": [
+            "53°, 127°, 53°",
+            "53°, 53°, 127°",
+            "127°, 53°, 53°",
+            "127°, 127°, 53°"
+        ],
+        "explanation_en": "Based on geometric properties of corresponding and alternate angles formed between parallel lines, the values are 53°, 127°, and 53° respectively.",
+        "image": "image/unit15/q105.PNG"
+    },
+    {
+        "id": 106,
+        "question": "படத்தில், KL || MN மற்றும் KN || JL எனில், b-இன் மதிப்பு",
+        "options": [
+            "95°",
+            "15°",
+            "85°",
+            "180°"
+        ],
+        "correct": 0,
+        "explanation": "இணைகரத்தின் அடுத்துள்ள கோணங்களின் கூடுதல் 180° என்பதால், b = 180° - 85° = 95°.",
+        "question_en": "In the figure, if KL || MN and KN || JL, then the value of b is",
+        "options_en": [
+            "95°",
+            "15°",
+            "85°",
+            "180°"
+        ],
+        "explanation_en": "Since adjacent angles of a parallelogram sum to 180°, b = 180° - 85° = 95°.",
+        "image": "image/unit15/q106.PNG"
+    },
+    {
+        "id": 107,
+        "question": "AB மற்றும் CD ஆகிய இரு கோடுகள் EF கோட்டிற்கு இணை எனில், AB மற்றும் CD ஆகியன",
+        "options": [
+            "செங்குத்துக் கோடுகள்",
+            "இணைகோடுகள்",
+            "வெட்டும் கோடுகள்",
+            "சமவெட்டிகள்"
+        ],
+        "correct": 1,
+        "explanation": "ஒரே கோட்டிற்கு இணையாக இருக்கும் இரு கோடுகள் தங்களுக்குள்ளும் இணையாக இருக்கும் (AB || CD).",
+        "question_en": "If two lines AB and CD are both parallel to a line EF, then AB and CD are",
+        "options_en": [
+            "Perpendicular lines",
+            "Parallel lines",
+            "Intersecting lines",
+            "Bisectors"
+        ],
+        "explanation_en": "Two lines that are parallel to the same line are also parallel to each other (AB || CD)."
+    },
+    {
+        "id": 108,
+        "question": "பொருத்துக.\n(a) அடுத்துள்ள கோணங்கள் - (i) மிகைநிரப்புக் கோணங்கள்\n(b) நேரிய கோண இணைகள் - (ii) சமம்\n(c) குத்தெதிர்க் கோணங்கள் - (iii) பொதுவான உட்பகுதி இல்லை\n(d) ஒன்றுவிட்ட உட்கோணங்கள் - (iv) அடுத்தமையாக் கோணங்கள்",
+        "options": [
+            "a-iii, b-ii, c-iv, d-i",
+            "a-iii, b-i, c-iv, d-ii",
+            "a-iii, b-iv, c-ii, d-i",
+            "a-ii, b-ii, c-iv, d-i"
+        ],
+        "correct": 1,
+        "explanation": "சரியான பொருத்தம்: அடுத்துள்ள கோணங்களுக்குப் பொதுவான உட்பகுதி இல்லை (iii), நேரிய கோண இணைகள் மிகைநிரப்பிகள் (i), குத்தெதிர்க் கோணங்கள் அடுத்தமையாக் கோணங்கள் (iv), மற்றும் ஒன்றுவிட்ட உட்கோணங்கள் சமம் (ii) ஆகும்.",
+        "question_en": "Match the following.\n(a) Adjacent angles - (i) Supplementary angles\n(b) Linear pair of angles - (ii) Equal\n(c) Vertically opposite angles - (iii) No common interior\n(d) Alternate interior angles - (iv) Non-adjacent angles",
+        "options_en": [
+            "a-iii, b-ii, c-iv, d-i",
+            "a-iii, b-i, c-iv, d-ii",
+            "a-iii, b-iv, c-ii, d-i",
+            "a-ii, b-ii, c-iv, d-i"
+        ],
+        "explanation_en": "Correct match: Adjacent angles have no common interior (iii), linear pairs are supplementary (i), vertically opposite angles are non-adjacent angles formed by intersection (iv), and alternate interior angles are equal (ii)."
+    },
+    {
+        "id": 109,
+        "question": "படத்தில், l || m எனில், AD = 3 செ.மீ எனில், BC-ன் நீளம்",
+        "options": [
+            "3 செ.மீ ஐ விட அதிகம்",
+            "3 செ.மீ ஐ விட குறைவு",
+            "3 செ.மீ",
+            "கூற இயலாது"
+        ],
+        "correct": 2,
+        "explanation": "இரு இணைகோடுகளுக்கு இடைப்பட்ட செங்குத்துத் தூரம் எப்போதும் சமமாக இருக்கும் என்பதால், BC = AD = 3 செ.மீ.",
+        "question_en": "In the figure, if l || m and AD = 3 cm, then the length of BC is",
+        "options_en": [
+            "More than 3 cm",
+            "Less than 3 cm",
+            "3 cm",
+            "Cannot be determined"
+        ],
+        "explanation_en": "Since the perpendicular distance between two parallel lines is always constant, BC = AD = 3 cm.",
+        "image": "image/unit15/q109.PNG"
+    },
+    {
+        "id": 110,
+        "question": "கொடுக்கப்பட்ட படத்தில், l || m மற்றும் ∠1 = 125° எனில், ∠2, ∠3 மற்றும் ∠4 ஆகியவை முறையே",
+        "options": [
+            "125°, 55°, 125°",
+            "55°, 125°, 55°",
+            "125°, 125°, 55°",
+            "55°, 55°, 125°"
+        ],
+        "correct": 1,
+        "explanation": "நேரிய கோண இணையின்படி ∠2 = 180° - 125° = 55°. குத்தெதிர்க் கோண முறைப்படி ∠3 = ∠1 = 125° மற்றும் ∠4 = ∠2 = 55°.",
+        "question_en": "In the given figure, if l || m and ∠1 = 125°, then ∠2, ∠3, and ∠4 are respectively",
+        "options_en": [
+            "125°, 55°, 125°",
+            "55°, 125°, 55°",
+            "125°, 125°, 55°",
+            "55°, 55°, 125°"
+        ],
+        "explanation_en": "By linear pair, ∠2 = 180° - 125° = 55°. By vertically opposite angles, ∠3 = ∠1 = 125° and ∠4 = ∠2 = 55°.",
+        "image": "image/unit15/q110.PNG"
+    },
+    {
+        "id": 111,
+        "question": "படத்தில், l || m எனில், x + y + z =",
+        "options": [
+            "255°",
+            "250°",
+            "355°",
+            "360°"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி x + y + z இன் கூட்டு மதிப்பு 255° ஆகும்.",
+        "question_en": "In the figure, if l || m, then x + y + z =",
+        "options_en": [
+            "255°",
+            "250°",
+            "355°",
+            "360°"
+        ],
+        "explanation_en": "According to the answer key, the combined value of x + y + z is 255°.",
+        "image": "image/unit15/q111.PNG"
+    },
+    {
+        "id": 112,
+        "question": "படத்தில் அனைத்துக் கிடைமட்ட கோடுகளும் இணை எனில், x-ன் அளவு என்ன?",
+        "options": [
+            "115°",
+            "25°",
+            "155°",
+            "65°"
+        ],
+        "correct": 3,
+        "explanation": "ஒன்றுவிட்ட உட்கோணங்கள் சமம் என்ற விதியின்படி, குறிக்கப்பட்டுள்ள கோணத்திற்கு நேராக x = 65° அமைகிறது.",
+        "question_en": "In the figure, if all horizontal lines are parallel, what is the measure of x?",
+        "options_en": [
+            "115°",
+            "25°",
+            "155°",
+            "65°"
+        ],
+        "explanation_en": "According to the alternate interior angles rule, x is equal to the given alternate angle, which is 65°.",
+        "image": "image/unit15/q112.PNG"
+    },
+    {
+        "id": 113,
+        "question": "படத்தில், l || m எனில், x-ன் மதிப்பு",
+        "options": [
+            "60°",
+            "80°",
+            "40°",
+            "30°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் சரியான மதிப்பு 40° ஆகும்.",
+        "question_en": "In the figure, if l || m, the value of x is",
+        "options_en": [
+            "60°",
+            "80°",
+            "40°",
+            "30°"
+        ],
+        "explanation_en": "According to the answer key, the correct value of x is 40°.",
+        "image": "image/unit15/q113.PNG"
+    },
+    {
+        "id": 114,
+        "question": "கொடுக்கப்பட்ட படத்தில், l || m எனில், x + y = ?",
+        "options": [
+            "220°",
+            "140°",
+            "160°",
+            "200°"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி x + y இன் கூட்டு மதிப்பு 140° ஆகும்.",
+        "question_en": "In the given figure, if l || m, then x + y = ?",
+        "options_en": [
+            "220°",
+            "140°",
+            "160°",
+            "200°"
+        ],
+        "explanation_en": "According to the answer key, the combined value of x + y is 140°.",
+        "image": "image/unit15/q114.PNG"
+    },
+    {
+        "id": 115,
+        "question": "கொடுக்கப்பட்ட படத்தில், $\\angle EBF = ?$",
+        "options": [
+            "70°",
+            "105°",
+            "15°",
+            "45°"
+        ],
+        "correct": 1,
+        "explanation": "வடிவியல் கோணக் கணக்கீடுகளின்படி மற்றும் விடைக்குறிப்பின்படி $\\angle EBF = 105^{\\circ}$ ஆகும்.",
+        "question_en": "In the given figure, $\\angle EBF = ?$",
+        "options_en": [
+            "70°",
+            "105°",
+            "15°",
+            "45°"
+        ],
+        "explanation_en": "According to geometric angle calculations and the answer key, $\\angle EBF = 105^{\\circ}$.",
+        "image": "image/unit15/q115.PNG"
+    },
+    {
+        "id": 116,
+        "question": "கொடுக்கப்பட்ட படத்தில் l || m எனில், x மற்றும் y-ன் மதிப்புகள் முறையே",
+        "options": [
+            "50°, 127°",
+            "50°, 77°",
+            "77°, 50°",
+            "127°, 50°"
+        ],
+        "correct": 1,
+        "explanation": "ஒன்றுவிட்ட உட்கோண விதியின்படி x = 50°. மேலும், $x + y = 127^{\\circ} \\implies 50^{\\circ} + y = 127^{\\circ} \\implies y = 77^{\\circ}$. எனவே (50°, 77°) சரியானது.",
+        "question_en": "In the given figure, if l || m, then the values of x and y are respectively",
+        "options_en": [
+            "50°, 127°",
+            "50°, 77°",
+            "77°, 50°",
+            "127°, 50°"
+        ],
+        "explanation_en": "By alternate interior angles, x = 50°. Also, $x + y = 127^{\\circ} \\implies 50^{\\circ} + y = 127^{\\circ} \\implies y = 77^{\\circ}$. Thus, (50°, 77°) is correct.",
+        "image": "image/unit15/q116.PNG"
+    },
+    {
+        "id": 117,
+        "question": "படத்தில் m || n மற்றும் $\\angle a : \\angle b = 3 : 2$ எனில், $\\angle c$-ன் மதிப்பு",
+        "options": [
+            "180°",
+            "108°",
+            "28°",
+            "72°"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி, $\\angle c$-ன் மதிப்பு 108° ஆகும்.",
+        "question_en": "In the figure, if m || n and $\\angle a : \\angle b = 3 : 2$, then the value of $\\angle c$ is",
+        "options_en": [
+            "180°",
+            "108°",
+            "28°",
+            "72°"
+        ],
+        "explanation_en": "According to the answer key, the value of $\\angle c$ is 108°.",
+        "image": "image/unit15/q117.PNG"
+    },
+    {
+        "id": 118,
+        "question": "கொடுக்கப்பட்ட படத்தில் AB || CD || EF மற்றும் y : z = 2 : 3 எனில், x-ன் மதிப்பு",
+        "options": [
+            "108°",
+            "180°",
+            "72°",
+            "36°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் மதிப்பு 72° எனக் குறிக்கப்பட்டுள்ளது.",
+        "question_en": "In the given figure, if AB || CD || EF and y : z = 2 : 3, then the value of x is",
+        "options_en": [
+            "108°",
+            "180°",
+            "72°",
+            "36°"
+        ],
+        "explanation_en": "According to the answer key, the value of x is marked as 72°.",
+        "image": "image/unit15/q118.PNG"
+    },
+    {
+        "id": 119,
+        "question": "கொடுக்கப்பட்ட படத்தில் AB || CD எனில், x + y + z இன் மதிப்பு",
+        "options": [
+            "108°",
+            "180°",
+            "360°",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி x + y + z இன் கூட்டு மதிப்பு 180° ஆகும்.",
+        "question_en": "In the given figure, if AB || CD, then the value of x + y + z is",
+        "options_en": [
+            "108°",
+            "180°",
+            "360°",
+            "None of these"
+        ],
+        "explanation_en": "According to the answer key, the value of x + y + z is 180°.",
+        "image": "image/unit15/q119.PNG"
+    },
+    {
+        "id": 120,
+        "question": "படத்தில், AD || BC எனில், $\\angle BCA$-ன் மதிப்பு",
+        "options": [
+            "35°",
+            "85°",
+            "95°",
+            "55°"
+        ],
+        "correct": 0,
+        "explanation": "AD || BC என்பதால், ஒன்றுவிட்ட உட்கோணங்கள் சமம் என்ற விதியின்படி $\\angle BCA = \\angle DAC = 35^{\\circ}$.",
+        "question_en": "In the figure, if AD || BC, then the value of $\\angle BCA$ is",
+        "options_en": [
+            "35°",
+            "85°",
+            "95°",
+            "55°"
+        ],
+        "explanation_en": "Since AD || BC, by the rule of alternate interior angles, $\\angle BCA = \\angle DAC = 35^{\\circ}$.",
+        "image": "image/unit15/q120.PNG"
+    },
+    {
+        "id": 121,
+        "question": "கொடுக்கப்பட்ட படத்தில் AB || CD எனில், y-ன் மதிப்பு",
+        "options": [
+            "88°",
+            "180°",
+            "134°",
+            "46°"
+        ],
+        "correct": 0,
+        "explanation": "வடிவியல் பண்புகளின்படி மற்றும் விடைக்குறிப்பின்படி y-ன் மதிப்பு 88° ஆகும்[cite: 1256].",
+        "question_en": "In the given figure, if AB || CD, then the value of y is",
+        "options_en": [
+            "88°",
+            "180°",
+            "134°",
+            "46°"
+        ],
+        "explanation_en": "According to the geometric properties and the answer key, the value of y is 88°[cite: 1256].",
+        "image": "image/unit15/q121.PNG"
+    },
+    {
+        "id": 122,
+        "question": "படத்தில் ST || PQ எனில் ∠PST + ∠QTS இன் மதிப்பு",
+        "options": [
+            "130°",
+            "140°",
+            "150°",
+            "160°"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி, ∠PST + ∠QTS இன் கூட்டு மதிப்பு 130° ஆகும்[cite: 1256].",
+        "question_en": "In the figure, if ST || PQ, then the value of ∠PST + ∠QTS is",
+        "options_en": [
+            "130°",
+            "140°",
+            "150°",
+            "160°"
+        ],
+        "explanation_en": "According to the answer key, the combined value of ∠PST + ∠QTS is 130°[cite: 1256].",
+        "image": "image/unit15/q122.PNG"
+    },
+    {
+        "id": 123,
+        "question": "கொடுக்கப்பட்ட படத்தில் l மற்றும் m ஆகியன இணைகோடுகள். ∠2 = 2x + 1, ∠5 = 4x - 1 எனில், x-ன் மதிப்பு",
+        "options": [
+            "90°",
+            "45°",
+            "40°",
+            "30°"
+        ],
+        "correct": 3,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் மதிப்பு 30° ஆகும்[cite: 1256].",
+        "question_en": "In the given figure, l and m are parallel lines. If ∠2 = 2x + 1 and ∠5 = 4x - 1, then the value of x is",
+        "options_en": [
+            "90°",
+            "45°",
+            "40°",
+            "30°"
+        ],
+        "explanation_en": "According to the answer key, the value of x is 30°[cite: 1256].",
+        "image": "image/unit15/q123.PNG"
+    },
+    {
+        "id": 124,
+        "question": "கொடுக்கப்பட்ட படத்தில் l || m மற்றும் n || p எனில், x-ன் மதிப்பு",
+        "options": [
+            "4°",
+            "5°",
+            "20°",
+            "6°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் மதிப்பு 20° ஆகும்[cite: 1256].",
+        "question_en": "In the given figure, if l || m and n || p, then the value of x is",
+        "options_en": [
+            "4°",
+            "5°",
+            "20°",
+            "6°"
+        ],
+        "explanation_en": "According to the answer key, the value of x is 20°[cite: 1256].",
+        "image": "image/unit15/q124.PNG"
+    },
+    {
+        "id": 125,
+        "question": "கொடுக்கப்பட்ட படத்தில் AB || CD எனில், x-ன் மதிப்பு",
+        "options": [
+            "235°",
+            "285°",
+            "105°",
+            "225°"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் மதிப்பு 285° ஆகும்[cite: 1256].",
+        "question_en": "In the given figure, if AB || CD, then the value of x is",
+        "options_en": [
+            "235°",
+            "285°",
+            "105°",
+            "225°"
+        ],
+        "explanation_en": "According to the answer key, the value of x is 285°[cite: 1256].",
+        "image": "image/unit15/q125.PNG"
+    },
+    {
+        "id": 126,
+        "question": "ஒரு கோட்டுத்துண்டினை இரு சம பாகங்களாகப் பிரிக்கும் செங்குத்துக் கோடு எது?",
+        "options": [
+            "கோண இருசம வெட்டி",
+            "செங்குத்து இருசம வெட்டி",
+            "நடுக்கோடு",
+            "செங்குத்துக் கோடு"
+        ],
+        "correct": 1,
+        "explanation": "ஒரு கோட்டுத்துண்டினை இரு சம பாகங்களாகப் பிரிக்கும் செங்குத்துக் கோடானது அக்கோட்டின் செங்குத்து இருசமவெட்டி எனப்படும்[cite: 130].",
+        "question_en": "Which line is the perpendicular line that divides a line segment into two equal parts?",
+        "options_en": [
+            "Angle bisector",
+            "Perpendicular bisector",
+            "Median",
+            "Perpendicular line"
+        ],
+        "explanation_en": "The perpendicular line that divides a line segment into two equal parts is called its perpendicular bisector[cite: 130]."
+    },
+    {
+        "id": 127,
+        "question": "ஒரு கோணத்தை இரு சம பாகங்களாகப் பிரிக்கும் கோடு எது?",
+        "options": [
+            "கோண இருசம வெட்டி",
+            "செங்குத்து இருசம வெட்டி",
+            "நடுக்கோடு",
+            "செங்குத்துக் கோடு"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு கோணத்தை இரு சம பாகங்களாகப் பிரிக்கும் கோடு அக்கோணத்தின் கோண இருசமவெட்டி எனப்படும்[cite: 139].",
+        "question_en": "Which line divides an angle into two equal parts?",
+        "options_en": [
+            "Angle bisector",
+            "Perpendicular bisector",
+            "Median",
+            "Perpendicular line"
+        ],
+        "explanation_en": "A line that divides an angle into two equal parts is called its angle bicector[cite: 139]."
+    },
+    {
+        "id": 128,
+        "question": "படத்தில், கதிர் OS ஆனது செங்குத்தாக PQ என்ற கோட்டின் மீது நிற்கிறது. OR மற்றும் OT ஆகியவை ∠POS மற்றும் ∠SOQ ஆகிய கோணங்களின் கோண இருசமவெட்டிகள் எனில், ∠ROT-ன் மதிப்பு என்ன?",
+        "options": [
+            "90°",
+            "75°",
+            "120°",
+            "180°"
+        ],
+        "correct": 0,
+        "explanation": "OS செங்குத்தாக இருப்பதால் ∠POS = 90° மற்றும் ∠SOQ = 90° ஆகும். அவற்றின் இருசமவெட்டிகளுக்கு இடைப்பட்ட கோணம் ∠ROT = 45° + 45° = 90° ஆகும்[cite: 1126, 1256].",
+        "question_en": "In the figure, ray OS stands perpendicular on the line PQ. If OR and OT are the angle bisectors of ∠POS and ∠SOQ respectively, what is the value of ∠ROT?",
+        "options_en": [
+            "90°",
+            "75°",
+            "120°",
+            "180°"
+        ],
+        "explanation_en": "Since OS is perpendicular, ∠POS = 90° and ∠SOQ = 90°. The angle between their bisectors is ∠ROT = 45° + 45° = 90°[cite: 1126, 1256].",
+        "image": "image/unit15/q128.PNG"
+    },
+    {
+        "id": 129,
+        "question": "கொடுக்கப்பட்ட படத்தில், l என்பது செங்குத்து இருசம வெட்டி எனில், x இன் மதிப்பு",
+        "options": [
+            "9",
+            "5",
+            "4",
+            "3"
+        ],
+        "correct": 2,
+        "explanation": "செங்குத்து இருசமவெட்டி என்பதால் பக்கங்கள் சமம்: 2x + 1 = x + 5 ⇒ x = 4[cite: 1133, 1136, 1137, 1256].",
+        "question_en": "In the given figure, if l is the perpendicular bisector, then the value of x is",
+        "options_en": [
+            "9",
+            "5",
+            "4",
+            "3"
+        ],
+        "explanation_en": "Since it is a perpendicular bisector, the segments are equal: 2x + 1 = x + 5 ⇒ x = 4[cite: 1133, 1136, 1137, 1256].",
+        "image": "image/unit15/q129.PNG"
+    },
+    {
+        "id": 130,
+        "question": "கொடுக்கப்பட்ட படத்தில், 'BD' என்பது கோண இருசம வெட்டி எனில், ∠ABC இன் மதிப்பு என்ன?",
+        "options": [
+            "15°",
+            "40°",
+            "30°",
+            "80°"
+        ],
+        "correct": 3,
+        "explanation": "கோண இருசமவெட்டி என்பதால்: 2x + 10 = x + 25 ⇒ x = 15°. ஒரு பாதி 15 + 25 = 40°. எனவே முழுக்கோணம் ∠ABC = 2 × 40° = 80°[cite: 1141, 1145, 1146, 1256].",
+        "question_en": "In the given figure, if 'BD' is the angle bisector, what is the value of ∠ABC?",
+        "options_en": [
+            "15°",
+            "40°",
+            "30°",
+            "80°"
+        ],
+        "explanation_en": "Since it is an angle bisector: 2x + 10 = x + 25 ⇒ x = 15°. One half is 15 + 25 = 40°. Therefore, the full angle ∠ABC = 2 × 40° = 80°[cite: 1141, 1145, 1146, 1256].",
+        "image": "image/unit15/q130.PNG"
+    },
+    {
+        "id": 131,
+        "question": "ஒரு கோணத்தின் நிரப்புக் கோணத்தின் 7 மடங்கானது, அக்கோணத்தின் மிகைநிரப்புக் கோணத்தின் 3 மடங்கை விட 10° குறைவு எனில், அக்கோணத்தின் மதிப்பு என்ன?",
+        "options": [
+            "90°",
+            "180°",
+            "35°",
+            "25°"
+        ],
+        "correct": 3,
+        "explanation": "சமன்பாடு: 7(90 - x) = 3(180 - x) - 10 ⇒ 630 - 7x = 540 - 3x - 10 ⇒ 630 - 7x = 530 - 3x ⇒ 4x = 100 ⇒ x = 25°[cite: 1154, 1256].",
+        "question_en": "If 7 times the complementary angle of an angle is 10° less than 3 times its supplementary angle, what is the value of the angle?",
+        "options_en": [
+            "90°",
+            "180°",
+            "35°",
+            "25°"
+        ],
+        "explanation_en": "Equation: 7(90 - x) = 3(180 - x) - 10 ⇒ 630 - 7x = 540 - 3x - 10 ⇒ 630 - 7x = 530 - 3x ⇒ 4x = 100 ⇒ x = 25°[cite: 1154, 1256]."
+    },
+    {
+        "id": 132,
+        "question": "கொடுக்கப்பட்ட படத்தில் ∠2OY = 90° மற்றும் a : b = 2 : 3 எனில், c-ன் மதிப்பு",
+        "options": [
+            "55°",
+            "68°",
+            "77.5°",
+            "63°"
+        ],
+        "correct": 3,
+        "explanation": "விடைக்குறிப்பின்படி c-ன் மதிப்பு 63° எனக் குறிக்கப்பட்டுள்ளது[cite: 1256].",
+        "question_en": "In the given figure, if ∠2OY = 90° and a : b = 2 : 3, then the value of c is",
+        "options_en": [
+            "55°",
+            "68°",
+            "77.5°",
+            "63°"
+        ],
+        "explanation_en": "According to the answer key, the value of c is 63°[cite: 1256].",
+        "image": "image/unit15/q132.PNG"
+    },
+    {
+        "id": 133,
+        "question": "படத்தில் AB || DE எனில், ∠BCD-ன் மதிப்பு",
+        "options": [
+            "80°",
+            "220°",
+            "40°",
+            "140°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி ∠BCD இன் மதிப்பு 40° ஆகும்[cite: 1256].",
+        "question_en": "In the figure, if AB || DE, then the value of ∠BCD is",
+        "options_en": [
+            "80°",
+            "220°",
+            "40°",
+            "140°"
+        ],
+        "explanation_en": "According to the answer key, the value of ∠BCD is 40°[cite: 1256].",
+        "image": "image/unit15/q133.PNG"
+    },
+    {
+        "id": 134,
+        "question": "படத்தில் AB || CD எனில், ∠AEC-ன் அளவு",
+        "options": [
+            "100°",
+            "112°",
+            "136°",
+            "142°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி ∠AEC இன் அளவு 136° ஆகும்[cite: 1256].",
+        "question_en": "In the figure, if AB || CD, then the measure of ∠AEC is",
+        "options_en": [
+            "100°",
+            "112°",
+            "136°",
+            "142°"
+        ],
+        "explanation_en": "According to the answer key, the measure of ∠AEC is 136°[cite: 1256].",
+        "image": "image/unit15/q134.PNG"
+    },
+    {
+        "id": 135,
+        "question": "படத்தில் மேல் மற்றும் கீழ் உள்ள கோடுகள் இணை எனில், படத்தில் குறிக்கப்பட்டுள்ள மூன்றாவது கோணத்தின் அளவு என்ன?",
+        "options": [
+            "120°",
+            "110°",
+            "100°",
+            "80°"
+        ],
+        "correct": 2,
+        "explanation": "இரு உட்கோணங்களின் கூட்டுத்தொகைக்கு இணையாக, நடுவில் அமையும் கோணம் 55° + 45° = 100° ஆகும்[cite: 1189, 1193, 1194, 1256].",
+        "question_en": "If the top and bottom lines in the figure are parallel, what is the measure of the third angle indicated in the figure?",
+        "options_en": [
+            "120°",
+            "110°",
+            "100°",
+            "80°"
+        ],
+        "explanation_en": "The middle angle is equal to the sum of the alternate interior parts, which is 55° + 45° = 100°[cite: 1189, 1193, 1194, 1256].",
+        "image": "image/unit15/q135.PNG"
+    },
+    {
+        "id": 136,
+        "question": "கொடுக்கப்பட்ட படத்தில் AB || CD எனில், ∠AOC-ன் மதிப்பு",
+        "options": [
+            "150°",
+            "132°",
+            "120°",
+            "72°"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி ∠AOC இன் மதிப்பு 132° ஆகும்[cite: 1256].",
+        "question_en": "In the given figure, if AB || CD, then the value of ∠AOC is",
+        "options_en": [
+            "150°",
+            "132°",
+            "120°",
+            "72°"
+        ],
+        "explanation_en": "According to the answer key, the value of ∠AOC is 132°[cite: 1256].",
+        "image": "image/unit15/q136.PNG"
+    },
+    {
+        "id": 137,
+        "question": "'a' மற்றும் 'b' ஆகியன நேரிய கோண இணையை உருவாக்குகின்றன. 2a + 3b = 60° எனில் 'b'-இன் மதிப்பு என்ன?",
+        "options": [
+            "30°",
+            "120°",
+            "12°",
+            "90°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி சரியான விருப்பம் (3) ஆகும், இதன்படி 'b' இன் மதிப்பு 12° என்று வரும்[cite: 1256]. (குறிப்பு: கேள்வியில் 2a + 3b = 60° என்பதற்குப் பதிலாக அசலில் உள்ள சமன்பாட்டின்படி கணக்கிடப்பட்டுள்ளது).",
+        "question_en": "'a' and 'b' form a linear pair. If 2a + 3b = 60°, what is the value of 'b'?",
+        "options_en": [
+            "30°",
+            "120°",
+            "12°",
+            "90°"
+        ],
+        "explanation_en": "According to the answer key, the correct option is (3), which gives the value of 'b' as 12°[cite: 1256]."
+    },
+    {
+        "id": 138,
+        "question": "கீழ்க்கண்டவற்றில் எவை மிகை நிரப்புக் கோணங்கள்?",
+        "options": [
+            "0°, 90°",
+            "120°, 12°",
+            "3°, 177°",
+            "54°, 36°"
+        ],
+        "correct": 2,
+        "explanation": "இரு கோணங்களின் கூடுதல் 180° எனில் அவை மிகைநிரப்புக் கோணங்கள் ஆகும். 3° + 177° = 180°[cite: 81, 1215, 1256].",
+        "question_en": "Which of the following are supplementary angles?",
+        "options_en": [
+            "0°, 90°",
+            "120°, 12°",
+            "3°, 177°",
+            "54°, 36°"
+        ],
+        "explanation_en": "If the sum of two angles is 180°, they are supplementary angles. 3° + 177° = 180°[cite: 81, 1215, 1256]."
+    },
+    {
+        "id": 139,
+        "question": "ஒரு குறுக்குவெட்டியானது ஏதேனும் இரு நேர்கோடுகளை வெட்டுகிறது எனில், அவ்விரு நேர்கோடுகள்",
+        "options": [
+            "இணையாகவோ அல்லது இணையற்றவையாகவோ இருக்கலாம்",
+            "இணை",
+            "இணையற்றவை",
+            "செங்குத்தானவை"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு குறுக்குவெட்டி ஏதேனும் இரு நேர்கோடுகளை வெட்டும்போது, அக்கோடுகள் இணையாகவோ அல்லது இணையற்றவையாகவோ இருக்கலாம்[cite: 1219, 1220].",
+        "question_en": "If a transversal intersects any two straight lines, then those two straight lines",
+        "options_en": [
+            "May be parallel or non-parallel",
+            "Parallel",
+            "Non-parallel",
+            "Perpendicular"
+        ],
+        "explanation_en": "When a transversal intersects any two lines, the lines can be either parallel or non-parallel[cite: 1219, 1220]."
+    },
+    {
+        "id": 140,
+        "question": "படத்தில், x-ன் மதிப்பு (AB || CD)",
+        "options": [
+            "45°",
+            "50°",
+            "60°",
+            "75°"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி x-ன் மதிப்பு 45° ஆகும்[cite: 1256].",
+        "question_en": "In the figure, the value of x is (AB || CD)",
+        "options_en": [
+            "45°",
+            "50°",
+            "60°",
+            "75°"
+        ],
+        "explanation_en": "According to the answer key, the value of x is 45°[cite: 1256].",
+        "image": "image/unit15/q140.PNG"
+    },
+    {
+        "id": 141,
+        "question": "இரண்டு இணைகோடுகள் ஒரு குறுக்கு வெட்டியால் வெட்டப்படும் போது, குறுக்குவெட்டியின் ஒரே பக்கம் அமைந்த வெளிக்கோணங்கள்",
+        "options": [
+            "மிகை நிரப்புக் கோணங்கள்",
+            "நிரப்புக் கோணங்கள்",
+            "குறுங்கோணம்",
+            "செங்கோணம்"
+        ],
+        "correct": 0,
+        "explanation": "இணைகோடுகளை ஒரு குறுக்குவெட்டி வெட்டும்போது, குறுக்குவெட்டியின் ஒரே பக்கத்தில் அமையும் வெளிக்கோணங்கள் மிகைநிரப்புக் கோணங்கள் (கூடுதல் 180°) ஆகும்[cite: 125, 1238, 1239].",
+        "question_en": "When two parallel lines are cut by a transversal, the exterior angles on the same side of the transversal are",
+        "options_en": [
+            "Supplementary angles",
+            "Complementary angles",
+            "Acute angle",
+            "Right angle"
+        ],
+        "explanation_en": "When parallel lines are cut by a transversal, the exterior angles on the same side of the transversal are supplementary (sum to 180°)[cite: 125, 1238, 1239]."
+    },
+    {
+        "id": 142,
+        "question": "படத்தில், m-ன் மதிப்பு",
+        "options": [
+            "72°",
+            "122°",
+            "29°",
+            "52°"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி m-ன் மதிப்பு 122° ஆகும்[cite: 1256].",
+        "question_en": "In the figure, the value of m is",
+        "options_en": [
+            "72°",
+            "122°",
+            "29°",
+            "52°"
+        ],
+        "explanation_en": "According to the answer key, the value of m is 122°[cite: 1256].",
+        "image": "image/unit15/q142.PNG"
+    }
+]

@@ -1,0 +1,1222 @@
+[
+  {
+    "id": 1,
+    "question": "கூற்றை ஆராய்க.\nகூற்று 1: இயற்கையான சமத்துவமின்மையை சரிசெய்ய இயலாது.\nகூற்று 2: செயற்கையான சமத்துவமின்மையை சரிசெய்ய இயலாது.",
+    "options": [
+      "1 சரி, 2 தவறு",
+      "1 தவறு, 2 சரி",
+      "1 மற்றும் 2 தவறு",
+      "1 மற்றும் 2 சரி"
+    ],
+    "correct": 0,
+    "question_en": "Consider the statements.\nStatement 1: Natural inequality cannot be corrected.\nStatement 2: Artificial inequality cannot be corrected.",
+    "options_en": [
+      "1 True, 2 False",
+      "1 False, 2 True",
+      "1 and 2 False",
+      "1 and 2 True"
+    ],
+    "explanation": "1 சரி, 2 தவறு",
+    "explanation_en": "1 True, 2 False"
+  },
+  {
+    "id": 2,
+    "question": "சமத்துவம் என்பது சமமாக நடத்துவது மட்டுமல்ல, வெகுமதி அளிப்பதிலும் சமத்துவம் இருப்பதாகும் என்பது யாருடைய கருத்து?",
+    "options": [
+      "மாஸ்டஸ்கி",
+      "யுவான் சுவாங்",
+      "லாஸ்கி",
+      "பிளாட்டோ"
+    ],
+    "correct": 2,
+    "question_en": "Whose view is that 'Equality does not mean just equal treatment, but also equality in providing rewards'?",
+    "options_en": [
+      "Mastaski",
+      "Hiuen Tsang",
+      "Laski",
+      "Plato"
+    ],
+    "explanation": "லாஸ்கி",
+    "explanation_en": "Laski"
+  },
+  {
+    "id": 3,
+    "question": "பல நூறு ஆண்டுகளாக மனித சமூகத்தை ஊக்குவித்து வழிநடத்திய சமத்துவமானது, எவ்வகை ஆற்றல் கோட்பாடாகும்?",
+    "options": [
+      "நீதி மற்றும் அரசியல்",
+      "சட்டம் மற்றும் தத்துவம்",
+      "சமயம் மற்றும் சத்தியம்",
+      "உழைப்பு மற்றும் பொருள்"
+    ],
+    "correct": 0,
+    "question_en": "Equality, which has inspired and guided human society for many centuries, is a concept of what kind of power?",
+    "options_en": [
+      "Justice and political",
+      "Law and philosophy",
+      "Religion and truth",
+      "Labor and wealth"
+    ],
+    "explanation": "நீதி மற்றும் அரசியல்",
+    "explanation_en": "Justice and political"
+  },
+  {
+    "id": 4,
+    "question": "கூற்று 1: சமத்துவம் என்ற கோட்பாடு மனித இனம் அதனுடைய சாதி, நிறம், பால், இனம், அல்லது தேசியம் ஆகியவற்றை பொருட்படுத்தாமல் அனைத்து மனிதர்களும் சமமானவர்கள் என்ற கோட்பாட்டைக் கூறுகிறது.\nகூற்று 2: மக்களாட்சி கோட்பாடுகளான சுதந்திரம், சமத்துவம் ஆகியவை நீதியின் அடிப்படையில் நடைமுறைப்படுத்தப்படும் போது மட்டுமே பொருளுடையவையாக இருக்கும்.",
+    "options": [
+      "கூற்று 1, 2 சரி",
+      "கூற்று 1 சரி, 2 தவறு",
+      "கூற்று 1 தவறு, 2 சரி",
+      "கூற்று 1, 2 தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Statement 1: The concept of equality states that all humans are equal regardless of caste, color, sex, race, or nationality.\nStatement 2: Democratic principles of liberty and equality are meaningful only when implemented on the basis of justice.",
+    "options_en": [
+      "Statement 1, 2 True",
+      "Statement 1 True, 2 False",
+      "Statement 1 False, 2 True",
+      "Statement 1, 2 False"
+    ],
+    "explanation": "கூற்று 1, 2 சரி",
+    "explanation_en": "Statement 1, 2 True"
+  },
+  {
+    "id": 5,
+    "question": "அனைத்து குடிமக்களும் சம தகுதியை அடைய உரிமை கொண்டவர்கள் என்பது எவ்வகை சமத்துவம்?",
+    "options": [
+      "குடிமை சமத்துவம்",
+      "சமூக சமத்துவம்",
+      "அரசியல் சமத்துவம்",
+      "பாலின சமத்துவம்"
+    ],
+    "correct": 1,
+    "question_en": "All citizens are entitled to achieve equal status is what kind of equality?",
+    "options_en": [
+      "Civil equality",
+      "Social equality",
+      "Political equality",
+      "Gender equality"
+    ],
+    "explanation": "சமூக சமத்துவம்",
+    "explanation_en": "Social equality"
+  },
+  {
+    "id": 6,
+    "question": "கூற்றை ஆராய்க.\nகூற்று 1: சமூகத்தில் சாதி, சமயக்கொள்கை, நிறம் மற்றும் இனம் ஆகியவற்றின் அடிப்படையில் பாகுபாடு இருத்தல் கூடாது.\nகூற்று 2: மக்கள் அனைவரும் தங்களது ஆளுமை மற்றும் நோக்கங்களை அடைவதற்கு சமமற்ற வாய்ப்புகளை பெற்றிருத்தல் வேண்டும்",
+    "options": [
+      "1 சரி, 2 தவறு",
+      "1 தவறு, 2 சரி",
+      "1 மற்றும் 2 தவறு",
+      "1 மற்றும் 2 சரி"
+    ],
+    "correct": 0,
+    "question_en": "Consider the statements.\nStatement 1: There should be no discrimination in society based on caste, creed, color, and race.\nStatement 2: All people should have unequal opportunities to achieve their personality and goals.",
+    "options_en": [
+      "1 True, 2 False",
+      "1 False, 2 True",
+      "1 and 2 False",
+      "1 and 2 True"
+    ],
+    "explanation": "1 சரி, 2 தவறு",
+    "explanation_en": "1 True, 2 False"
+  },
+  {
+    "id": 7,
+    "question": "அனைத்து குடிமக்களும் குடியியல் உரிமைகளை அடைதல் வேண்டும் என்பது எவ்வகை சமத்துவம்?",
+    "options": [
+      "அரசியல் சமத்துவம்",
+      "சமூக சமத்துவம்",
+      "பாலின சமத்துவம்",
+      "குடிமை சமத்துவம்"
+    ],
+    "correct": 3,
+    "question_en": "All citizens should attain civil rights is what kind of equality?",
+    "options_en": [
+      "Political equality",
+      "Social equality",
+      "Gender equality",
+      "Civil equality"
+    ],
+    "explanation": "குடிமை சமத்துவம்",
+    "explanation_en": "Civil equality"
+  },
+  {
+    "id": 8,
+    "question": "சட்டத்தின் ஆட்சி என்ற கோட்பாட்டை (பதம்) வாதுரைத்த பிரிட்டிஷ் சட்ட வல்லுனர் ________.",
+    "options": [
+      "A.V. ஸ்மி",
+      "உட்ஸ்",
+      "A.V. டைசி",
+      "A.V. டைலர்"
+    ],
+    "correct": 2,
+    "question_en": "The British legal expert who advocated the concept of 'Rule of Law' is ________.",
+    "options_en": [
+      "A.V. Smythe",
+      "Woods",
+      "A.V. Dicey",
+      "A.V. Tyler"
+    ],
+    "explanation": "சட்டத்தின் ஆட்சி என்ற கோட்பாட்டை (பதம்) வாதுரைத்த பிரிட்டிஷ் சட்ட வல்லுனர் A.V. டைசி.",
+    "explanation_en": "The British legal expert who advocated the concept of 'Rule of Law' is A.V. Dicey."
+  },
+  {
+    "id": 9,
+    "question": "கூற்றை ஆராய்க.\nகூற்று (i): குடிமக்கள் இடையே உயர்ந்தோர் - தாழ்ந்தோர், ஏழை - பணக்காரர், சாதி மற்றும் சமயக்கொள்கை ஆகியவற்றின் காரணமாக பாகுபாடு இருத்தல் கூடாது.\nகூற்று (ii): சமத்துவ உரிமைகள் அனைவருக்கும் கிடைக்கச் செய்வதோடு உரிமைகள் சிலருக்கு மறுக்கப்படலாம்.",
+    "options": [
+      "கூற்று (i), (ii) தவறு",
+      "கூற்று (i), (ii) சரி",
+      "கூற்று (i) தவறு, (ii) சரி",
+      "கூற்று (i) சரி, (ii) தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Consider the statements.\nStatement (i): There should be no discrimination among citizens based on high-low, rich-poor, caste and creed.\nStatement (ii): While equal rights are made available to all, rights can be denied to some.",
+    "options_en": [
+      "Statement (i), (ii) False",
+      "Statement (i), (ii) True",
+      "Statement (i) False, (ii) True",
+      "Statement (i) True, (ii) False"
+    ],
+    "explanation": "கூற்று (i) சரி, (ii) தவறு",
+    "explanation_en": "Statement (i) True, (ii) False"
+  },
+  {
+    "id": 10,
+    "question": "சட்டத்தின் ஆட்சி என்ற கோட்பாடு பின்பற்றப்படும் நாடுகள் எவை?",
+    "options": [
+      "சீனா, வடகொரியா",
+      "வடகொரியா, இங்கிலாந்து",
+      "சீனா, இந்தியா",
+      "இந்தியா, இங்கிலாந்து"
+    ],
+    "correct": 3,
+    "question_en": "Which countries follow the concept of the Rule of Law?",
+    "options_en": [
+      "China, North Korea",
+      "North Korea, England",
+      "China, India",
+      "India, England"
+    ],
+    "explanation": "சட்டத்தின் ஆட்சி என்ற கோட்பாடு பின்பற்றப்படும் நாடுகள் இந்தியா, இங்கிலாந்து ஆகும்.",
+    "explanation_en": "India, England"
+  },
+  {
+    "id": 11,
+    "question": "அரசியல் சமத்துவம் பொருத்து தவறான ஒன்றை தேர்ந்தெடு.",
+    "options": [
+      "வாக்களிக்கும் உரிமை.",
+      "பொது அலுவலகத்தில் பங்கு கொள்ளும் உரிமை.",
+      "அரசை கவிழ்க்கும் உரிமை",
+      "அரசை விமர்சனம் செய்யும் உரிமை."
+    ],
+    "correct": 2,
+    "question_en": "Choose the incorrect one regarding political equality.",
+    "options_en": [
+      "Right to vote.",
+      "Right to participate in public office.",
+      "Right to overthrow the government.",
+      "Right to criticize the government."
+    ],
+    "explanation": "அரசை கவிழ்க்கும் உரிமை",
+    "explanation_en": "Right to overthrow the government."
+  },
+  {
+    "id": 12,
+    "question": "கூற்று: குடிமக்கள் அனைவரும் அரசியல் வாழ்வில் தீவிரமாக பங்கேற்பதற்கு சமமான வாய்ப்பினைப் பெற்றிருத்தல் வேண்டும்.\nகாரணம்: இந்த உரிமைகள் அனைவருக்கும் வாக்குரிமை என்பதன் அடிப்படையில் மக்களுக்கு கிடைக்கிறது",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி",
+      "கூற்று சரி காரணம் சரி மற்றும் காரணம் கூற்றிற்கு சரியான விளக்கமல்ல.",
+      "கூற்று சரி, காரணம் சரி மற்றும் காரணம் கூற்றிற்கு சரியான விளக்கமாகும்."
+    ],
+    "correct": 3,
+    "question_en": "Assertion: All citizens should have an equal opportunity to actively participate in political life.\nReason: These rights are available to people on the basis of universal suffrage.",
+    "options_en": [
+      "Assertion True, Reason False",
+      "Assertion False, Reason True",
+      "Assertion and Reason are True, but Reason is not the correct explanation for Assertion.",
+      "Assertion and Reason are True, and Reason is the correct explanation for Assertion."
+    ],
+    "explanation": "கூற்று சரி, காரணம் சரி மற்றும் காரணம் கூற்றிற்கு சரியான விளக்கமாகும்.",
+    "explanation_en": "Assertion and Reason are True, and Reason is the correct explanation for Assertion."
+  },
+  {
+    "id": 13,
+    "question": "இந்தியாவில் வாக்களிக்க குறைந்தபட்ச வயது ________.",
+    "options": [
+      "19",
+      "18",
+      "17",
+      "25"
+    ],
+    "correct": 1,
+    "question_en": "The minimum age to vote in India is ________.",
+    "options_en": [
+      "19",
+      "18",
+      "17",
+      "25"
+    ],
+    "explanation": "இந்தியாவில் வாக்களிக்க குறைந்தபட்ச வயது 18.",
+    "explanation_en": "The minimum age to vote in India is 18."
+  },
+  {
+    "id": 14,
+    "question": "இந்தியாவில் பெண்களுக்கு வாக்குரிமை அளிக்கப்பட்ட முதல் பொதுத் தேர்தல் ________.",
+    "options": [
+      "1952",
+      "1960",
+      "1971",
+      "1966"
+    ],
+    "correct": 0,
+    "question_en": "The first general election in India where women were given the right to vote was in ________.",
+    "options_en": [
+      "1952",
+      "1960",
+      "1971",
+      "1966"
+    ],
+    "explanation": "இந்தியாவில் பெண்களுக்கு வாக்குரிமை அளிக்கப்பட்ட முதல் பொதுத் தேர்தல் 1952.",
+    "explanation_en": "The first general election in India where women were given the right to vote was in 1952."
+  },
+  {
+    "id": 15,
+    "question": "சுவிட்சர்லாந்து நாட்டில் பெண்களுக்கு வாக்குரிமை வழங்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1952",
+      "1960",
+      "1971",
+      "1966"
+    ],
+    "correct": 2,
+    "question_en": "The year women were given voting rights in Switzerland is ________.",
+    "options_en": [
+      "1952",
+      "1960",
+      "1971",
+      "1966"
+    ],
+    "explanation": "சுவிட்சர்லாந்து நாட்டில் பெண்களுக்கு வாக்குரிமை வழங்கப்பட்ட ஆண்டு 1971.",
+    "explanation_en": "The year women were given voting rights in Switzerland is 1971."
+  },
+  {
+    "id": 16,
+    "question": "இந்தியாவில் பொது தேர்தல்களில் எத்தனை வயது பூர்த்தி அடைந்தவர்கள் போட்டியிடலாம்?",
+    "options": [
+      "19",
+      "18",
+      "17",
+      "25"
+    ],
+    "correct": 3,
+    "question_en": "At what age can people contest in general elections in India?",
+    "options_en": [
+      "19",
+      "18",
+      "17",
+      "25"
+    ],
+    "explanation": "25",
+    "explanation_en": "25"
+  },
+  {
+    "id": 17,
+    "question": "கூற்றை ஆராய்க.\n(i) அரசை விமர்சிக்கலாம் என்ற உரிமை ஒருமுக்கியமான உரிமையாகும்.\n(ii) மக்கள் தங்களது மாறுபட்ட கருத்தை எந்தவகையிலும் தெரிவிக்கக் கூடாது.",
+    "options": [
+      "ii மட்டும் சரி",
+      "i மட்டும் சரி",
+      "i மற்றும் ii இரண்டும் தவறு",
+      "i மற்றும் ii இரண்டும் சரி"
+    ],
+    "correct": 1,
+    "question_en": "Consider the statements.\n(i) The right to criticize the government is an important right.\n(ii) People should not express their dissenting views in any way.",
+    "options_en": [
+      "ii only True",
+      "i only True",
+      "Both i and ii False",
+      "Both i and ii True"
+    ],
+    "explanation": "i மட்டும் சரி",
+    "explanation_en": "i only True"
+  },
+  {
+    "id": 18,
+    "question": "லாஸ்கியின் முதலாவது கூற்றுப்படி ________.",
+    "options": [
+      "போதுமான வாய்ப்புகள் அனைவருக்கும் வழங்குதல்.",
+      "சமமற்ற வாய்ப்பு வழங்குதல்.",
+      "சமூக சிறப்புரிமை உடையது.",
+      "சமூக சிறப்புரிமை இல்லாதது."
+    ],
+    "correct": 3,
+    "question_en": "According to Laski's first statement, ________.",
+    "options_en": [
+      "Providing adequate opportunities to all.",
+      "Providing unequal opportunities.",
+      "Has social privilege.",
+      "Does not imply special social privileges."
+    ],
+    "explanation": "சமூக சிறப்புரிமை இல்லாதது.",
+    "explanation_en": "According to Laski's first statement, Does not imply special social privileges.."
+  },
+  {
+    "id": 19,
+    "question": "லாஸ்கியின் இரண்டாவது கூற்றுப்படி ________.",
+    "options": [
+      "போதுமான வாய்ப்புகள் அனைவருக்கும் வழங்குதல்.",
+      "சமமற்ற வாய்ப்பு வழங்குதல்.",
+      "சமூக சிறப்புரிமை உடையது.",
+      "சமூக சிறப்புரிமை இல்லாதது."
+    ],
+    "correct": 0,
+    "question_en": "According to Laski's second statement, ________.",
+    "options_en": [
+      "Providing adequate opportunities to all.",
+      "Providing unequal opportunities.",
+      "Has social privilege.",
+      "Does not imply special social privileges."
+    ],
+    "explanation": "போதுமான வாய்ப்புகள் அனைவருக்கும் வழங்குதல்.",
+    "explanation_en": "According to Laski's second statement, Providing adequate opportunities to all.."
+  },
+  {
+    "id": 20,
+    "question": "நமது நாட்டின் எவரின் வாக்கு தேர்தலில் மிக உயர்ந்ததாகக் கருதப்படுகிறது?",
+    "options": [
+      "பிரதமர்",
+      "எவருமில்லை",
+      "குடியரசுத் தலைவர்",
+      "சாதாரண அடித்தட்டு மக்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Whose vote is considered the highest in our country's election?",
+    "options_en": [
+      "Prime Minister",
+      "None",
+      "President",
+      "Common grassroots people"
+    ],
+    "explanation": "எவருமில்லை",
+    "explanation_en": "None"
+  },
+  {
+    "id": 21,
+    "question": "கூற்றை ஆராய்க.\nகூற்று (i): நமது நாட்டின் பிரதமரின் வாக்கு தேர்தலில் மிக அதிக மதிப்பு உடையதாக உள்ளது.\nகூற்று (ii): மக்கள் அனைவரும் சமமான வாக்கு மதிப்பினை பெற்றுள்ளனர்.",
+    "options": [
+      "i மற்றும் ii சரி",
+      "i மற்றும் ii தவறு",
+      "i தவறு, ii சரி",
+      "i சரி, ii தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Consider the statements.\nStatement (i): The Prime Minister's vote has the highest value in our country's election.\nStatement (ii): All people have an equal vote value.",
+    "options_en": [
+      "i and ii True",
+      "i and ii False",
+      "i False, ii True",
+      "i True, ii False"
+    ],
+    "explanation": "i தவறு, ii சரி",
+    "explanation_en": "i False, ii True"
+  },
+  {
+    "id": 22,
+    "question": "சரியானவற்றை தேர்ந்தெடு.\n(i) உரிமைகள், பொறுப்புகள் மற்றும் வாய்ப்புகள் ஆகியவை ஆண், பெண் என்பதை பொறுத்து அமைதல் கூடாது.\n(ii) மனித இனங்களில் ஆண், பெண் இருவரும் தனிப்பட்ட திறமையை மேம்படுத்திக் கொள்ளலாம்.\n(iii) ஆண், பெண் இருவரும் தங்களது விருப்பங்களை எவ்வித கட்டுப்பாடுமின்றி ஏற்படுத்திக் கொள்ளலாம்.\n(iv) ஆண், பெண் இருவரும் சமமாக நடத்தப்பட வேண்டும் என்பது அவர்கள் இருவரும் ஒன்றாக ஆகவேண்டும் என்பது இல்லை.",
+    "options": [
+      "i, ii, iii சரி",
+      "i, ii, iv சரி",
+      "i, iii, iv சரி",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct ones.\n(i) Rights, responsibilities, and opportunities should not depend on being male or female.\n(ii) Both men and women of the human race can develop their personal skills.\n(iii) Both men and women can make their choices without any restriction.\n(iv) Treating men and women equally does not mean they have to become the same.",
+    "options_en": [
+      "i, ii, iii True",
+      "i, ii, iv True",
+      "i, iii, iv True",
+      "All are True"
+    ],
+    "explanation": "அனைத்தும் சரி",
+    "explanation_en": "All are True"
+  },
+  {
+    "id": 23,
+    "question": "பாலியல் சமத்துவம் என்பது ஆண், பெண் இருவரும் ________.",
+    "options": [
+      "நிலம் மற்றும் பணம் பெறுவது.",
+      "வாய்ப்புகள் மற்றும் வளங்களை சமமாக பெறுவது.",
+      "உணவு மற்றும் நீர் பெறுவது.",
+      "வாகனங்கள் மற்றும் உரிமைகள் பெறுவது"
+    ],
+    "correct": 1,
+    "question_en": "Gender equality means both men and women ________.",
+    "options_en": [
+      "Getting land and money.",
+      "Having equal access to opportunities and resources.",
+      "Getting food and water.",
+      "Getting vehicles and rights."
+    ],
+    "explanation": "பாலியல் சமத்துவம் என்பது ஆண், பெண் இருவரும் வாய்ப்புகள் மற்றும் வளங்களை சமமாக பெறுவது..",
+    "explanation_en": "Gender equality means both men and women Having equal access to opportunities and resources.."
+  },
+  {
+    "id": 24,
+    "question": "கூற்று: பெண்கள் பொருளாதார நடவடிக்கைகளில் பங்கு எடுக்கவும், முக்கிய முடிவுகள் எடுக்கும் உரிமை கொண்டவர்கள் ஆவர்.\nகாரணம்: பெண்கள் தமது திறன் மற்றும் கடின உழைப்பால் எவ்விதத்திலும் ஆண்களுக்கு குறைவானவர்கள் என்பதை நிரூபிக்கவில்லை",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்றும் காரணமும் சரி",
+      "கூற்றும் காரணமும் தவறு",
+      "கூற்று தவறு, காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Women have the right to participate in economic activities and make key decisions.\nReason: Women have not proven to be inferior to men in any way through their skills and hard work.",
+    "options_en": [
+      "Assertion True, Reason False",
+      "Assertion and Reason True",
+      "Assertion and Reason False",
+      "Assertion False, Reason True"
+    ],
+    "explanation": "கூற்று சரி காரணம் தவறு",
+    "explanation_en": "Assertion True, Reason False"
+  },
+  {
+    "id": 25,
+    "question": "பெண்களுக்கு உள்ளாட்சி அமைப்புகளில் எத்தனை சதவீதம் இட ஒதுக்கீடு வழங்கப்பட்டுள்ளது?",
+    "options": [
+      "35%",
+      "45%",
+      "40%",
+      "50%"
+    ],
+    "correct": 3,
+    "question_en": "What percentage of reservation is provided for women in local bodies?",
+    "options_en": [
+      "35%",
+      "45%",
+      "40%",
+      "50%"
+    ],
+    "explanation": "50%",
+    "explanation_en": "50%"
+  },
+  {
+    "id": 26,
+    "question": "பாலின சமத்துவம் என்பது பெண்கள், ஆண்கள், சிறுவர், சிறுமியர் ஆகியோர் சமமான உரிமைகள், வாய்ப்புகள் பெற வேண்டும் என்று கூறுவதோடு அவர்கள் ஒன்று போல் நடத்தப்பட வேண்டும் என கூறும் நிறுவனம் ________.",
+    "options": [
+      "UNO",
+      "UNESCO",
+      "UNICEF",
+      "UNDP"
+    ],
+    "correct": 2,
+    "question_en": "The organization which states that gender equality means women, men, boys, and girls should have equal rights and opportunities and should be treated alike is ________.",
+    "options_en": [
+      "UNO",
+      "UNESCO",
+      "UNICEF",
+      "UNDP"
+    ],
+    "explanation": "பாலின சமத்துவம் என்பது பெண்கள், ஆண்கள், சிறுவர், சிறுமியர் ஆகியோர் சமமான உரிமைகள், வாய்ப்புகள் பெற வேண்டும் என்று கூறுவதோடு அவர்கள் ஒன்று போல் நடத்தப்பட வேண்டும் என கூறும் நிறுவனம் UNICEF.",
+    "explanation_en": "The organization which states that gender equality means women, men, boys, and girls should have equal rights and opportunities and should be treated alike is UNICEF."
+  },
+  {
+    "id": 27,
+    "question": "2017 ஆம் ஆண்டில் நிலையான மேம்பாட்டிற்கான குறிக்கோள்களின் மொத்த எண்ணிக்கை?",
+    "options": [
+      "5",
+      "17",
+      "20",
+      "7"
+    ],
+    "correct": 1,
+    "question_en": "What is the total number of goals for sustainable development in 2017?",
+    "options_en": [
+      "5",
+      "17",
+      "20",
+      "7"
+    ],
+    "explanation": "17",
+    "explanation_en": "17 is the total number of goals for sustainable development in 2017."
+  },
+  {
+    "id": 28,
+    "question": "2017 ஆம் ஆண்டில் நிலையான மேம்பாட்டிற்கான குறிக்கோள்களில், பாலின சமத்துவம் எத்தனையாவதாக உள்ளது?",
+    "options": [
+      "5",
+      "17",
+      "20",
+      "7"
+    ],
+    "correct": 0,
+    "question_en": "Among the sustainable development goals in 2017, what is the position of gender equality?",
+    "options_en": [
+      "5",
+      "17",
+      "20",
+      "7"
+    ],
+    "explanation": "5",
+    "explanation_en": "Among the sustainable development goals in 2017, 5 is the position of gender equality."
+  },
+  {
+    "id": 29,
+    "question": "பெண்கள் சம அந்தஸ்து பெற பணியாற்றியவர்களில் பொருந்தாதவர் யார்?",
+    "options": [
+      "தாராபாய் ஷிண்டே",
+      "பேகம் ருகேயா சகாவத் உசேன்",
+      "தயானந்த சரஸ்வதி",
+      "பகத்சிங்"
+    ],
+    "correct": 3,
+    "question_en": "Who among the following is the odd one out among those who worked for women to get equal status?",
+    "options_en": [
+      "Tarabai Shinde",
+      "Begum Rokeya Sakhawat Hossain",
+      "Dayananda Saraswati",
+      "Bhagat Singh"
+    ],
+    "explanation": "பெண்கள் சம அந்தஸ்து பெற பணியாற்றியவர்களில் பொருந்தாதவர் பகத்சிங்.",
+    "explanation_en": "Bhagat Singh"
+  },
+  {
+    "id": 30,
+    "question": "பெண்கள் சம அந்தஸ்து பெற பணியாற்றியவர்கள் யாவர் ?\n(i) ராஜா ராம் மோகன் ராய்\n(ii) ஈஸ்வர சந்திர வித்யாசாகர்\n(iii) தயானந்த சரஸ்வதி\n(iv) மகாதேவ் கோவிந்த ரானடே",
+    "options": [
+      "i, ii, iii",
+      "ii, iii, iv",
+      "i, iii, iv",
+      "அனைவரும்"
+    ],
+    "correct": 3,
+    "question_en": "Who worked for women to get equal status?\n(i) Raja Ram Mohan Roy\n(ii) Ishwar Chandra Vidyasagar\n(iii) Dayananda Saraswati\n(iv) Mahadev Govind Ranade",
+    "options_en": [
+      "i, ii, iii",
+      "ii, iii, iv",
+      "i, iii, iv",
+      "All of them"
+    ],
+    "explanation": "அனைவரும்",
+    "explanation_en": "All of them"
+  },
+  {
+    "id": 31,
+    "question": "சுயமரியாதை என்பது ________ ஆகும்.",
+    "options": [
+      "மனித உள்ளம்",
+      "மனித உடல்",
+      "மனித மாண்பு",
+      "மனிதநேயம்"
+    ],
+    "correct": 2,
+    "question_en": "Self-respect is ________.",
+    "options_en": [
+      "Human mind",
+      "Human body",
+      "Human dignity",
+      "Humanity"
+    ],
+    "explanation": "சுயமரியாதை என்பது மனித மாண்பு ஆகும்.",
+    "explanation_en": "Self-respect is Human dignity."
+  },
+  {
+    "id": 32,
+    "question": "அனைத்து அடிப்படை உரிமைகளும் தோன்றுமிடம் ________.",
+    "options": [
+      "மனித உள்ளம்",
+      "மனித உடல்",
+      "மனித மாண்பு",
+      "மனித நேயம்"
+    ],
+    "correct": 2,
+    "question_en": "The origin of all fundamental rights is ________.",
+    "options_en": [
+      "Human mind",
+      "Human body",
+      "Human dignity",
+      "Humanity"
+    ],
+    "explanation": "அனைத்து அடிப்படை உரிமைகளும் தோன்றுமிடம் மனித மாண்பு.",
+    "explanation_en": "The origin of all fundamental rights is Human dignity."
+  },
+  {
+    "id": 33,
+    "question": "கூற்றை ஆராய்க.\nகூற்று (அ): மாண்பு என்பது கௌரவமான, மேலான, சிறந்த தகுதியாகும்.\nகூற்று (ஆ): ஒவ்வொரு மனிதனும் சமூகத்தின் ஒரு மதிப்புமிக்க உறுப்பினர் என்பதை உணர வேண்டும்.",
+    "options": [
+      "கூற்று (அ), (ஆ) சரி.",
+      "கூற்று (அ) சரி (ஆ) தவறு.",
+      "கூற்று (அ) தவறு (ஆ) சரி.",
+      "கூற்று (அ), (ஆ) தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Consider the statements.\nStatement (A): Dignity is an honorable, superior, and excellent status.\nStatement (B): Every human should feel that they are a valuable member of society.",
+    "options_en": [
+      "Statements (A), (B) True.",
+      "Statement (A) True, (B) False.",
+      "Statement (A) False, (B) True.",
+      "Statements (A), (B) False."
+    ],
+    "explanation": "கூற்று (அ), (ஆ) சரி.",
+    "explanation_en": "Statements (A), (B) True."
+  },
+  {
+    "id": 34,
+    "question": "சமூகத்தில் நாம் சமமாக நடத்தப்படுவதற்கு நமக்கு தேவைப்படுவது ________.",
+    "options": [
+      "செல்வம்",
+      "நாணயம்",
+      "சமத்துவம்",
+      "நல்லறிவு"
+    ],
+    "correct": 2,
+    "question_en": "What we need to be treated equally in society is ________.",
+    "options_en": [
+      "Wealth",
+      "Coin",
+      "Equality",
+      "Good sense"
+    ],
+    "explanation": "சமூகத்தில் நாம் சமமாக நடத்தப்படுவதற்கு நமக்கு தேவைப்படுவது சமத்துவம்.",
+    "explanation_en": "What we need to be treated equally in society is Equality."
+  },
+  {
+    "id": 35,
+    "question": "நாம் சமமாக நடத்தப்பட்டால் நாம் பெறுவது ________.",
+    "options": [
+      "கல்வியும், பொருளும்",
+      "மதிப்பும், மாண்பும்",
+      "பொருளும், உதவியும்",
+      "செல்வமும், சக்தியும்"
+    ],
+    "correct": 1,
+    "question_en": "If we are treated equally, we gain ________.",
+    "options_en": [
+      "Education and wealth",
+      "Respect and dignity",
+      "Wealth and help",
+      "Wealth and power"
+    ],
+    "explanation": "நாம் சமமாக நடத்தப்பட்டால் நாம் பெறுவது மதிப்பும், மாண்பும்.",
+    "explanation_en": "If we are treated equally, we gain Respect and dignity."
+  },
+  {
+    "id": 36,
+    "question": "கூற்றை ஆராய்க.\nகூற்று(அ): அனைத்து தனி மனிதர்களும் கல்வியினைப் பெறுவதற்கு வாய்ப்புகளை கொண்டிருக்க வேண்டாம்\nகூற்று(ஆ): அனைத்து தனி மனிதர்களின் ஆளுமையை மேம்படுத்தி வாய்ப்புகள் பெற்றிருத்தல் வேண்டும்.",
+    "options": [
+      "கூற்று (அ) சரி, (ஆ) தவறு",
+      "கூற்று (அ) தவறு (ஆ) சரி",
+      "கூற்று (அ), (ஆ) சரி",
+      "கூற்று (அ), (ஆ) தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Consider the statements.\nStatement (A): All individuals should not have opportunities to get education.\nStatement (B): Opportunities must be available to develop the personality of all individuals.",
+    "options_en": [
+      "Statement (A) True, (B) False",
+      "Statement (A) False, (B) True",
+      "Statements (A), (B) True",
+      "Statements (A), (B) False"
+    ],
+    "explanation": "கூற்று (அ) சரி, (ஆ) தவறு",
+    "explanation_en": "Statement (A) True, (B) False"
+  },
+  {
+    "id": 37,
+    "question": "உலகில் உள்ள அனைத்து நாடுகளின் ________ அதன் மக்களுக்கு சமத்துவத்தை உறுதி அளித்துள்ளன.",
+    "options": [
+      "வேலைவாய்ப்பும்",
+      "சமயங்களும்",
+      "பொருளாதாரமும்",
+      "அரசியல் அமைப்பும்"
+    ],
+    "correct": 3,
+    "question_en": "The ________ of all countries in the world guarantee equality to their people.",
+    "options_en": [
+      "Employment",
+      "Religions",
+      "Economy",
+      "Constitution"
+    ],
+    "explanation": "உலகில் உள்ள அனைத்து நாடுகளின் அரசியல் அமைப்பும் அதன் மக்களுக்கு சமத்துவத்தை உறுதி அளித்துள்ளன.",
+    "explanation_en": "The Constitution of all countries in the world guarantee equality to their people."
+  },
+  {
+    "id": 38,
+    "question": "இந்திய அரசியல் அமைப்பு அதன் குடிமக்களுக்கு சமத்துவத்தை அளிக்கும் சட்டப்பிரிவுகள் யாவை?",
+    "options": [
+      "14 - 17",
+      "14 - 16",
+      "14 – 18",
+      "14 - 24"
+    ],
+    "correct": 2,
+    "question_en": "Which articles of the Indian Constitution guarantee equality to its citizens?",
+    "options_en": [
+      "14 - 17",
+      "14 - 16",
+      "14 - 18",
+      "14 - 24"
+    ],
+    "explanation": "14 – 18",
+    "explanation_en": "14 - 18"
+  },
+  {
+    "id": 39,
+    "question": "2017 ஆம் ஆண்டில் நிலையான மேம்பாட்டிற்காக 17 குறிக்கோள்களில் ஐந்தாவது குறிக்கோள் என்ன?",
+    "options": [
+      "குடிமை சமத்துவம்",
+      "சமூக சமத்துவம்",
+      "அரசியல் சமத்துவம்",
+      "பாலின சமத்துவம்"
+    ],
+    "correct": 3,
+    "question_en": "What is the fifth goal among the 17 goals for sustainable development in 2017?",
+    "options_en": [
+      "Civil equality",
+      "Social equality",
+      "Political equality",
+      "Gender equality"
+    ],
+    "explanation": "பாலின சமத்துவம்",
+    "explanation_en": "Gender equality is the fifth goal among the 17 goals for sustainable development in 2017."
+  },
+  {
+    "id": 40,
+    "question": "சட்டத்தின் முன் அனைவரும் சமம் மற்றும் அனைவருக்கும் சட்டத்தின் படி சமமான பாதுகாப்பை மேலும் வலிமைப்படுத்தும் அரசியலமைப்பு சட்டப்பிரிவு ________.",
+    "options": [
+      "சட்டப் பிரிவு 21",
+      "சட்டப்பிரிவு 20",
+      "சட்டப்பிரிவு 19",
+      "சட்டப்பிரிவு 18"
+    ],
+    "correct": 0,
+    "question_en": "The constitutional article that further strengthens equality before the law and equal protection under the law for all is ________.",
+    "options_en": [
+      "Article 21",
+      "Article 20",
+      "Article 19",
+      "Article 18"
+    ],
+    "explanation": "சட்டத்தின் முன் அனைவரும் சமம் மற்றும் அனைவருக்கும் சட்டத்தின் படி சமமான பாதுகாப்பை மேலும் வலிமைப்படுத்தும் அரசியலமைப்பு சட்டப்பிரிவு சட்டப் பிரிவு 21.",
+    "explanation_en": "The constitutional article that further strengthens equality before the law and equal protection under the law for all is Article 21."
+  },
+  {
+    "id": 41,
+    "question": "பாகுபாட்டைத் தடை செய்யும் அரசியலமைப்பு சட்டப்பிரிவு ________.",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correct": 1,
+    "question_en": "The constitutional article that prohibits discrimination is ________.",
+    "options_en": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "explanation": "பாகுபாட்டைத் தடை செய்யும் அரசியலமைப்பு சட்டப்பிரிவு 15.",
+    "explanation_en": "The constitutional article that prohibits discrimination is 15."
+  },
+  {
+    "id": 42,
+    "question": "சமத்துவ உரிமைகளுடன் தொடர்புடைய சட்டப்பிரிவு ________.",
+    "options": [
+      "சட்டப்பிரிவு 23",
+      "சட்டப்பிரிவு 32",
+      "சட்டப்பிரிவு 17",
+      "சட்டப்பிரிவு 30"
+    ],
+    "correct": 2,
+    "question_en": "The article related to the right to equality is ________.",
+    "options_en": [
+      "Article 23",
+      "Article 32",
+      "Article 17",
+      "Article 30"
+    ],
+    "explanation": "சமத்துவ உரிமைகளுடன் தொடர்புடைய சட்டப்பிரிவு சட்டப்பிரிவு 17.",
+    "explanation_en": "The article related to the right to equality is Article 17."
+  },
+  {
+    "id": 43,
+    "question": "சமத்துவத்தை மேம்படுத்தும் வழிகளில் இல்லாத ஒன்று ________.",
+    "options": [
+      "ஒரு சிலர் மட்டும் வாய்ப்புகள் பெறுவதை உறுதிப்படுத்துதல்.",
+      "சட்டம் மற்றும் கொள்கைகளை வகுத்தல்.",
+      "அனைவரையும் நியாயமாக நடத்துதல்.",
+      "முழு ஆற்றலையும் மேம்படுத்த ஊக்குவித்தல்."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is not one of the ways to promote equality?",
+    "options_en": [
+      "Ensuring that only a few get opportunities.",
+      "Formulating laws and policies.",
+      "Treating everyone fairly.",
+      "Encouraging to improve full potential."
+    ],
+    "explanation": "சமத்துவத்தை மேம்படுத்தும் வழிகளில் இல்லாத ஒன்று ஒரு சிலர் மட்டும் வாய்ப்புகள் பெறுவதை உறுதிப்படுத்துதல்..",
+    "explanation_en": "Ensuring that only a few get opportunities. is not one of the ways to promote equality."
+  },
+  {
+    "id": 44,
+    "question": "தீண்டாமையை ஒழிக்கும் சட்டப்பிரிவு ________.",
+    "options": [
+      "17",
+      "16",
+      "15",
+      "14"
+    ],
+    "correct": 0,
+    "question_en": "The article that abolishes untouchability is ________.",
+    "options_en": [
+      "17",
+      "16",
+      "15",
+      "14"
+    ],
+    "explanation": "தீண்டாமையை ஒழிக்கும் சட்டப்பிரிவு 17.",
+    "explanation_en": "The article that abolishes untouchability is 17."
+  },
+  {
+    "id": 45,
+    "question": "சட்டப்பிரிவு - 14 உத்திரவாதம் அளிப்பது ________.",
+    "options": [
+      "பாகுபாடு தடை",
+      "சட்டத்தின் முன் அனைவரும் சமம் இல்லை",
+      "தீண்டாமையை ஒழிக்காமல் இருப்பது",
+      "சட்டத்தின் முன் அனைவரும் சமம்"
+    ],
+    "correct": 3,
+    "question_en": "Article 14 guarantees ________.",
+    "options_en": [
+      "Prohibition of discrimination",
+      "Not everyone is equal before the law",
+      "Not abolishing untouchability",
+      "Equality before the law"
+    ],
+    "explanation": "சட்டப்பிரிவு - 14 உத்திரவாதம் அளிப்பது சட்டத்தின் முன் அனைவரும் சமம்.",
+    "explanation_en": "Article 14 guarantees Equality before the law."
+  },
+  {
+    "id": 46,
+    "question": "பொது வேலைவாய்ப்பில் அனைவருக்கும் சம வாய்ப்பு வழங்கும் சட்டப்பிரிவு ________.",
+    "options": [
+      "17",
+      "16",
+      "15",
+      "14"
+    ],
+    "correct": 1,
+    "question_en": "The article that provides equal opportunity for all in public employment is ________.",
+    "options_en": [
+      "17",
+      "16",
+      "15",
+      "14"
+    ],
+    "explanation": "பொது வேலைவாய்ப்பில் அனைவருக்கும் சம வாய்ப்பு வழங்கும் சட்டப்பிரிவு 16.",
+    "explanation_en": "The article that provides equal opportunity for all in public employment is 16."
+  },
+  {
+    "id": 47,
+    "question": "சரியான கூற்றுகளைத் தேர்ந்தெடு.\n(i) சமத்துவ மேம்பாடு.\n(ii) அனைவரையும் உள்ளடக்கிய ஓர் பண்பாட்டினை உருவாக்குதல்.\n(iii) கல்வி, அனைவரும் வாய்ப்புகள் பெறுவதை உறுதிசெய்தல்.\n(iv) அனைவரையும் நியாயமாக நடத்தாமல் இருத்தல்.",
+    "options": [
+      "i, ii, iii, iv",
+      "i, ii, iv",
+      "i, ii, iii சரி",
+      "i, iii, iv"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statements.\n(i) Promotion of equality.\n(ii) Creating an inclusive culture.\n(iii) Ensuring everyone gets opportunities for education.\n(iv) Not treating everyone fairly.",
+    "options_en": [
+      "i, ii, iii, iv",
+      "i, ii, iv",
+      "i, ii, iii True",
+      "i, iii, iv"
+    ],
+    "explanation": "i, ii, iii சரி",
+    "explanation_en": "i, ii, iii True"
+  },
+  {
+    "id": 48,
+    "question": "உலகின் மிகப்பெரிய மக்களாட்சி நாடு ________.",
+    "options": [
+      "இந்தியா",
+      "பாகிஸ்தான்",
+      "இலங்கை",
+      "வங்கதேசம்"
+    ],
+    "correct": 0,
+    "question_en": "The world's largest democratic country is ________.",
+    "options_en": [
+      "India",
+      "Pakistan",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "explanation": "உலகின் மிகப்பெரிய மக்களாட்சி நாடு இந்தியா.",
+    "explanation_en": "The world's largest democratic country is India."
+  },
+  {
+    "id": 49,
+    "question": "பட்டங்களை அளித்து வேறுபடுத்துதல் தடை செய்யும் சட்டப்பிரிவு ________.",
+    "options": [
+      "17",
+      "14",
+      "16",
+      "18"
+    ],
+    "correct": 3,
+    "question_en": "The article that prohibits conferring titles and making distinctions is ________.",
+    "options_en": [
+      "17",
+      "14",
+      "16",
+      "18"
+    ],
+    "explanation": "பட்டங்களை அளித்து வேறுபடுத்துதல் தடை செய்யும் சட்டப்பிரிவு 18.",
+    "explanation_en": "The article that prohibits conferring titles and making distinctions is 18."
+  },
+  {
+    "id": 50,
+    "question": "மக்களாட்சியில் தூண்களாக கருதப்படுவது ________.",
+    "options": [
+      "சமத்துவம் மற்றும் நீதி",
+      "சமத்துவம் மற்றும் சமயம்",
+      "சமத்துவம் மற்றும் பாகுபாடு",
+      "சமத்துவம் மற்றும் சண்டைகள்"
+    ],
+    "correct": 0,
+    "question_en": "What is considered as the pillars in a democracy?",
+    "options_en": [
+      "Equality and justice",
+      "Equality and religion",
+      "Equality and discrimination",
+      "Equality and fights"
+    ],
+    "explanation": "மக்களாட்சியில் தூண்களாக கருதப்படுவது சமத்துவம் மற்றும் நீதி.",
+    "explanation_en": "Equality and justice is considered as the pillars in a democracy."
+  },
+  {
+    "id": 51,
+    "question": "மக்கள் சமமாக நடத்தப்படும்போது பெறப்படுவது ________.",
+    "options": [
+      "ஆரோக்கியம்",
+      "நல்லறிவு",
+      "நீதி",
+      "நல்ல கருத்து"
+    ],
+    "correct": 2,
+    "question_en": "What is obtained when people are treated equally?",
+    "options_en": [
+      "Health",
+      "Good sense",
+      "Justice",
+      "Good opinion"
+    ],
+    "explanation": "மக்கள் சமமாக நடத்தப்படும்போது பெறப்படுவது நீதி.",
+    "explanation_en": "Justice is obtained when people are treated equally."
+  },
+  {
+    "id": 52,
+    "question": "தேர்தலில் போட்டியிடும் உரிமை ________.",
+    "options": [
+      "சமத்துவ உரிமை",
+      "சட்ட உரிமை",
+      "சாதாரண உரிமை",
+      "அரசியல் உரிமை"
+    ],
+    "correct": 3,
+    "question_en": "The right to contest in elections is a ________.",
+    "options_en": [
+      "Right to equality",
+      "Legal right",
+      "Ordinary right",
+      "Political right"
+    ],
+    "explanation": "தேர்தலில் போட்டியிடும் உரிமை அரசியல் உரிமை.",
+    "explanation_en": "The right to contest in elections is a Political right."
+  },
+  {
+    "id": 53,
+    "question": "தனி மனித மாண்பினை தக்கவைப்பது ________.",
+    "options": [
+      "சமத்துவமின்கம",
+      "பொறுமை",
+      "சமத்துவம்",
+      "பாலினம்"
+    ],
+    "correct": 2,
+    "question_en": "Retaining individual dignity is ________.",
+    "options_en": [
+      "Inequality",
+      "Patience",
+      "Equality",
+      "Gender"
+    ],
+    "explanation": "தனி மனித மாண்பினை தக்கவைப்பது சமத்துவம்.",
+    "explanation_en": "Retaining individual dignity is Equality."
+  },
+  {
+    "id": 54,
+    "question": "நீதி பெறப்படும் ஓர் நிகழ்வு ________.",
+    "options": [
+      "மக்கள் சமமாக நடத்தப்படாமல் இருத்தல்",
+      "மக்கள் உரிமைகளை பெறுவதனால்",
+      "மக்கள் பொறுப்புடன் செயல்படுதல்",
+      "மக்கள் சமமாக நடத்தப்படுதல்"
+    ],
+    "correct": 3,
+    "question_en": "An event where justice is obtained is ________.",
+    "options_en": [
+      "People not being treated equally",
+      "By people gaining rights",
+      "People acting responsibly",
+      "People being treated equally"
+    ],
+    "explanation": "நீதி பெறப்படும் ஓர் நிகழ்வு மக்கள் சமமாக நடத்தப்படுதல்.",
+    "explanation_en": "An event where justice is obtained is People being treated equally."
+  },
+  {
+    "id": 55,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடு.\n(அ) 25 வயது பூர்த்தி அடைந்த எவரும் தேர்தலில் போட்டியிடலாம்.\n(ஆ) மக்கள் அரசை விமர்சிக்கலாம்.\n(இ) மாறுபட்ட கருத்தை பல்வேறு வகைகளில் தெரிவிக்கலாம்.",
+    "options": [
+      "அ, ஆ, இ சரி",
+      "அ சரி, ஆ, இ தவறு",
+      "அ, ஆ சரி, இ தவறு",
+      "அ, ஆ, இ தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct statement.\n(A) Anyone who has completed 25 years of age can contest in elections.\n(B) People can criticize the government.\n(C) Dissenting views can be expressed in various ways.",
+    "options_en": [
+      "A, B, C True",
+      "A True, B, C False",
+      "A, B True, C False",
+      "A, B, C False"
+    ],
+    "explanation": "அ, ஆ, இ சரி",
+    "explanation_en": "A, B, C True"
+  },
+  {
+    "id": 56,
+    "question": "பொது அலுவலகத்தில் பங்குகொள்ளும் உரிமை என்பது ________.",
+    "options": [
+      "பொது உரிமை",
+      "பொதுப்பண்பு உரிமை",
+      "அரசியல் உரிமை",
+      "பொது செயல்பாட்டு உரிமை"
+    ],
+    "correct": 2,
+    "question_en": "The right to participate in public office is a ________.",
+    "options_en": [
+      "Public right",
+      "Public character right",
+      "Political right",
+      "Public activity right"
+    ],
+    "explanation": "பொது அலுவலகத்தில் பங்குகொள்ளும் உரிமை என்பது அரசியல் உரிமை.",
+    "explanation_en": "The right to participate in public office is a Political right."
+  },
+  {
+    "id": 57,
+    "question": "பொருத்துக\nசட்டப்பிரிவு - விளக்கம்\n(i) சட்டப்பிரிவு 16 - a. பட்டங்களை அளித்து வேறுபடுத்துதலை தடை செய்கிறது.\n(ii) சட்டப்பிரிவு 14 - b. வேலைவாய்ப்பில் அனைவருக்கும் சமவாய்ப்பு.\n(iii) சட்டப்பிரிவு 18 - c. சட்டத்தின் முன் அனைவரும் சமம்.\n(iv) சட்டப்பிரிவு 15 - d. பாகுபாட்டைத் தடை செய்கிறது.",
+    "options": [
+      "i – c, ii – b, iii – d, iv – a",
+      "i – b, ii – c, iii – a, iv - d",
+      "i – c, ii – a, iii – b, iv – d",
+      "i – d, ii – b, iii – c, iv - a"
+    ],
+    "correct": 1,
+    "question_en": "Match\nArticle - Explanation\n(i) Article 16 - a. Prohibits conferring titles.\n(ii) Article 14 - b. Equal opportunity for all in employment.\n(iii) Article 18 - c. Equality before the law.\n(iv) Article 15 - d. Prohibits discrimination.",
+    "options_en": [
+      "i - c, ii - b, iii - d, iv - a",
+      "i - b, ii - c, iii - a, iv - d",
+      "i - c, ii - a, iii - b, iv - d",
+      "i - d, ii - b, iii - c, iv - a"
+    ],
+    "explanation": "i – b, ii – c, iii – a, iv - d",
+    "explanation_en": "i - b, ii - c, iii - a, iv - d"
+  },
+  {
+    "id": 58,
+    "question": "தவறான இணையைக் கண்டுபி.\n(1) சட்டப்பிரிவு 15 - பாகுபாட்டை தடை செய்கிறது.\n(2) சட்டப்பிரிவு 17 - தீண்டாமை ஒழிப்பு.\n(3) சட்டப்பிரிவு 21 - பட்டங்களை தடை செய்கிறது.\n(4) சட்டப்பிரிவு 14 - சட்டத்தின் முன் அனைவரும் சமம்.",
+    "options": [
+      "சட்டப்பிரிவு 15 - பாகுபாட்டை தடை செய்கிறது.",
+      "சட்டப்பிரிவு 17 - தீண்டாமை ஒழிப்பு.",
+      "சட்டப்பிரிவு 21 - பட்டங்களை தடை செய்கிறது.",
+      "சட்டப்பிரிவு 14 - சட்டத்தின் முன் அனைவரும் சமம்."
+    ],
+    "correct": 2,
+    "question_en": "Find the incorrect pair.\n(1) Article 15 - Prohibits discrimination.\n(2) Article 17 - Abolition of untouchability.\n(3) Article 21 - Prohibits titles.\n(4) Article 14 - Equality before the law.",
+    "options_en": [
+      "Article 15 - Prohibits discrimination.",
+      "Article 17 - Abolition of untouchability.",
+      "Article 21 - Prohibits titles.",
+      "Article 14 - Equality before the law."
+    ],
+    "explanation": "சட்டப்பிரிவு 21 - பட்டங்களை தடை செய்கிறது.",
+    "explanation_en": "Article 21 - Prohibits titles."
+  },
+  {
+    "id": 59,
+    "question": "2017 ஆம் ஆண்டில் நிலையான மேம்பாட்டிற்கான பதினேழு குறிக்கோள்களில் ஐந்தாவது குறிக்கோளாக பாலின சமத்துவத்தைக் குறிப்பிட்டுள்ள நிறுவனம் ________.",
+    "options": [
+      "ஐக்கிய நாடுகள் சபை",
+      "யூனிசெப்",
+      "ஐக்கிய வங்கி",
+      "ஐக்கிய கழகம்"
+    ],
+    "correct": 0,
+    "question_en": "The organization that stated gender equality as the fifth goal among the seventeen sustainable development goals in 2017 is ________.",
+    "options_en": [
+      "United Nations Organization",
+      "UNICEF",
+      "United Bank",
+      "United Society"
+    ],
+    "explanation": "2017 ஆம் ஆண்டில் நிலையான மேம்பாட்டிற்கான பதினேழு குறிக்கோள்களில் ஐந்தாவது குறிக்கோளாக பாலின சமத்துவத்தைக் குறிப்பிட்டுள்ள நிறுவனம் ஐக்கிய நாடுகள் சபை.",
+    "explanation_en": "The organization that stated gender equality as the fifth goal among the seventeen sustainable development goals in 2017 is United Nations Organization."
+  },
+  {
+    "id": 60,
+    "question": "பெண்களை மேம்படுத்தும் விதமாக உள்ளாட்சி அமைப்புகளில் எவ்வளவு சதவீதம் இட ஒதுக்கீடு வழங்கப்பட்டுள்ளது?",
+    "options": [
+      "25%",
+      "45%",
+      "65%",
+      "இவற்றில் ஏதுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "What percentage of reservation is provided for women in local bodies to empower them?",
+    "options_en": [
+      "25%",
+      "45%",
+      "65%",
+      "None of these"
+    ],
+    "explanation": "இவற்றில் ஏதுமில்லை",
+    "explanation_en": "None of these"
+  },
+  {
+    "id": 61,
+    "question": "பொருந்தாத ஒன்றை தேர்ந்தெடுக்கவும். (NMMS-2020-21)",
+    "options": [
+      "பிரிவு 14",
+      "பிரிவு 16",
+      "பிரிவு 28",
+      "பிரிவு 18"
+    ],
+    "correct": 2,
+    "question_en": "Choose the odd one out. (NMMS-2020-21)",
+    "options_en": [
+      "Article 14",
+      "Article 16",
+      "Article 28",
+      "Article 18"
+    ],
+    "explanation": "பிரிவு 28",
+    "explanation_en": "Article 28"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 0\n2) 4\n3) 18\n4) 50",
+    "options": [
+      "0",
+      "4",
+      "18",
+      "50"
+    ],
+    "correct": 0,
+    "explanation": "0 (மாறுபட்டது) - குறி மாறுபாடு அற்றது. மற்றவை குறி மாறுபாடு உடையவை (+, -).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 0\n2) 4\n3) 18\n4) 50",
+    "options_en": [
+      "0",
+      "4",
+      "18",
+      "50"
+    ],
+    "explanation_en": "0 (contrasted) - mark has no contrast. Others are sign variable (+, -)."
+  },
+  {
+    "id": 2,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 124\n2) 243\n3) 601\n4) 700",
+    "options": [
+      "124",
+      "243",
+      "601",
+      "700"
+    ],
+    "correct": 2,
+    "explanation": "601 - பகா எண் (மாறுபட்டது). 124, 243, 700 - பகு எண்கள்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 124\n2) 243\n3) 601\n4) 700",
+    "options_en": [
+      "124",
+      "243",
+      "601",
+      "700"
+    ],
+    "explanation_en": "601 - Prime number (varied). 124, 243, 700 - part numbers."
+  },
+  {
+    "id": 3,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 120, 101\n2) 37, 26\n3) 99, 82\n4) 143, 122",
+    "options": [
+      "120, 101",
+      "37, 26",
+      "99, 82",
+      "143, 122"
+    ],
+    "correct": 1,
+    "explanation": "1) 11²-1, 10²+1; 3) 10²-1, 9²+1; 4) 12²-1, 11²+1. ஆனால் 2) 6²+1, 5²+1 (மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 120, 101\n2) 37, 26\n3) 99, 82\n4) 143, 122",
+    "options_en": [
+      "120, 101",
+      "37, 26",
+      "99, 82",
+      "143, 122"
+    ],
+    "explanation_en": "1) 11²-1, 10²+1; 3) 10²-1, 9²+1; 4) 12²-1, 11²+1. But 2) 6²+1, 5²+1 (contrast)."
+  },
+  {
+    "id": 4,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 5, 124\n2) 3, 28\n3) 4, 65\n4) 9, 730",
+    "options": [
+      "5, 124",
+      "3, 28",
+      "4, 65",
+      "9, 730"
+    ],
+    "correct": 0,
+    "explanation": "2) 3, 3³+1=28; 3) 4, 4³+1=65; 4) 9, 9³+1=730. ஆனால் 1) 5, 5³-1=124 (மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 5, 124\n2) 3, 28\n3) 4, 65\n4) 9, 730",
+    "options_en": [
+      "5, 124",
+      "3, 28",
+      "4, 65",
+      "9, 730"
+    ],
+    "explanation_en": "2) 3, 3³+1=28; 3) 4, 4³+1=65; 4) 9, 9³+1=730. But 1) 5, 5³-1=124 (contrast)."
+  },
+  {
+    "id": 5,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 1234\n2) 3456\n3) 0123\n4) 2468",
+    "options": [
+      "1234",
+      "3456",
+      "0123",
+      "2468"
+    ],
+    "correct": 2,
+    "explanation": "0123 - மூன்றிலக்க எண் (மாறுபட்டது). மற்றவை நான்கு இலக்க எண்கள்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 1234\n2) 3456\n3) 0123\n4) 2468",
+    "options_en": [
+      "1234",
+      "3456",
+      "0123",
+      "2468"
+    ],
+    "explanation_en": "0123 - Three digit number (variable). Others are four-digit numbers."
+  },
+  {
+    "id": 6,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 25, 5, 5\n2) 51, 3, 17\n3) 96, 6, 16\n4) 75, 5, 25",
+    "options": [
+      "25, 5, 5",
+      "51, 3, 17",
+      "96, 6, 16",
+      "75, 5, 25"
+    ],
+    "correct": 3,
+    "explanation": "1) 25/5 = 5; 2) 51/3 = 17; 3) 96/6 = 16. ஆனால் 4) 75/5 = 15 (இங்கு 25 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 25, 5, 5\n2) 51, 3, 17\n3) 96, 6, 16\n4) 75, 5, 25",
+    "options_en": [
+      "25, 5, 5",
+      "51, 3, 17",
+      "96, 6, 16",
+      "75, 5, 25"
+    ],
+    "explanation_en": "1) 25/5 = 5; 2) 51/3 = 17; 3) 96/6 = 16. But 4) 75/5 = 15 (here as 25) – different."
+  },
+  {
+    "id": 7,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 239\n2) 628\n3) 325\n4) 459",
+    "options": [
+      "239",
+      "628",
+      "325",
+      "459"
+    ],
+    "correct": 0,
+    "explanation": "2) 6+2=8; 3) 3+2=5; 4) 4+5=9. ஆனால் 1) 2+3=5 (இங்கு 9 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 239\n2) 628\n3) 325\n4) 459",
+    "options_en": [
+      "239",
+      "628",
+      "325",
+      "459"
+    ],
+    "explanation_en": "2) 6+2=8; 3) 3+2=5; 4) 4+5=9. But 1) 2+3=5 (here as 9) - different."
+  },
+  {
+    "id": 8,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 200\n2) 700\n3) 800\n4) 500",
+    "options": [
+      "200",
+      "700",
+      "800",
+      "500"
+    ],
+    "correct": 1,
+    "explanation": "200 = 2³×5²; 800 = 2⁵×5²; 500 = 2²×5³. ஆனால் 700 = 2²×5²×7 (மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 200\n2) 700\n3) 800\n4) 500",
+    "options_en": [
+      "200",
+      "700",
+      "800",
+      "500"
+    ],
+    "explanation_en": "200 = 2³×5²; 800 = 2⁵×5²; 500 = 2²×5³. But 700 = 2²×5²×7 (variable)."
+  },
+  {
+    "id": 9,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 64, 23\n2) 27, 36\n3) 85, 29\n4) 82, 37",
+    "options": [
+      "64, 23",
+      "27, 36",
+      "85, 29",
+      "82, 37"
+    ],
+    "correct": 1,
+    "explanation": "மற்றவை (பகு எண், பகா எண்) இணைகள். ஆனால் 27, 36 (பகு எண், பகு எண்) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 64, 23\n2) 27, 36\n3) 85, 29\n4) 82, 37",
+    "options_en": [
+      "64, 23",
+      "27, 36",
+      "85, 29",
+      "82, 37"
+    ],
+    "explanation_en": "Others (fractional number, prime number) are parallels. But 27, 36 (fraction number, fraction number) - different."
+  },
+  {
+    "id": 10,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 2/14\n2) 3/12\n3) 5/20\n4) 7/28",
+    "options": [
+      "2/14",
+      "3/12",
+      "5/20",
+      "7/28"
+    ],
+    "correct": 0,
+    "explanation": "3×4=12; 5×4=20; 7×4=28. ஆனால் 2×4=8 (இங்கு 14 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 2/14\n2) 3/12\n3) 5/20\n4) 7/28",
+    "options_en": [
+      "2/14",
+      "3/12",
+      "5/20",
+      "7/28"
+    ],
+    "explanation_en": "3×4=12; 5×4=20; 7×4=28. But 2×4=8 (here as 14) – different."
+  },
+  {
+    "id": 11,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 2200\n2) 2020\n3) 2002\n4) 2022",
+    "options": [
+      "2200",
+      "2020",
+      "2002",
+      "2022"
+    ],
+    "correct": 3,
+    "explanation": "2022 - இலக்கங்களின் கூடுதல் 6 (மாறுபட்டது). மற்றவை இலக்கங்களின் கூடுதல் 4.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 2200\n2) 2020\n3) 2002\n4) 2022",
+    "options_en": [
+      "2200",
+      "2020",
+      "2002",
+      "2022"
+    ],
+    "explanation_en": "2022 - Extra 6 of digits (Variable). Others are additional 4 digits."
+  },
+  {
+    "id": 12,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 50 - 66\n2) 63 - 77\n3) 22 - 38\n4) 64 - 80",
+    "options": [
+      "50 - 66",
+      "63 - 77",
+      "22 - 38",
+      "64 - 80"
+    ],
+    "correct": 1,
+    "explanation": "63 - 77 வித்தியாசம் 14 (மாறுபட்டது). மற்றவை வித்தியாசம் 16.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 50 - 66\n2) 63 - 77\n3) 22 - 38\n4) 64 - 80",
+    "options_en": [
+      "50 - 66",
+      "63 - 77",
+      "22 - 38",
+      "64 - 80"
+    ],
+    "explanation_en": "63 - 77 difference 14 (varied). Other difference is 16."
+  },
+  {
+    "id": 13,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 7 (113) 8\n2) 1 (5) 2\n3) 3 (17) 4\n4) 5 (61) 6",
+    "options": [
+      "7 (113) 8",
+      "1 (5) 2",
+      "3 (17) 4",
+      "5 (61) 6"
+    ],
+    "correct": 2,
+    "explanation": "a (a²+b²) b என்ற வடிவம். 7²+8²=113; 1²+2²=5; 5²+6²=61. ஆனால் 3²+4²=25 (இங்கு 17 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 7 (113) 8\n2) 1 (5) 2\n3) 3 (17) 4\n4) 5 (61) 6",
+    "options_en": [
+      "7 (113) 8",
+      "1 (5) 2",
+      "3 (17) 4",
+      "5 (61) 6"
+    ],
+    "explanation_en": "a (a²+b²) is of the form b. 7²+8²=113; 1²+2²=5; 5²+6²=61. But 3²+4²=25 (here as 17) – different."
+  },
+  {
+    "id": 14,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 21\n2) 39\n3) 63\n4) 83",
+    "options": [
+      "21",
+      "39",
+      "63",
+      "83"
+    ],
+    "correct": 3,
+    "explanation": "21, 39, 63 - பகு எண்கள். 83 - பகா எண் (மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 21\n2) 39\n3) 63\n4) 83",
+    "options_en": [
+      "21",
+      "39",
+      "63",
+      "83"
+    ],
+    "explanation_en": "21, 39, 63 - part numbers. 83 - Ancient Number (variable)."
+  },
+  {
+    "id": 15,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 32 - 8\n2) 15 - 5\n3) 36 - 18\n4) 26 - 6",
+    "options": [
+      "32 - 8",
+      "15 - 5",
+      "36 - 18",
+      "26 - 6"
+    ],
+    "correct": 3,
+    "explanation": "32 ÷ 4 = 8; 15 ÷ 3 = 5; 36 ÷ 2 = 18; ஆனால் 26 ÷ 1 = 26 (இங்கு 6 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 32 - 8\n2) 15 - 5\n3) 36 - 18\n4) 26 - 6",
+    "options_en": [
+      "32 - 8",
+      "15 - 5",
+      "36 - 18",
+      "26 - 6"
+    ],
+    "explanation_en": "32 ÷ 4 = 8; 15 ÷ 3 = 5; 36 ÷ 2 = 18; But 26 ÷ 1 = 26 (here is 6) – different."
+  },
+  {
+    "id": 16,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 139117\n2) 138112\n3) 13791\n4) 13678",
+    "options": [
+      "139117",
+      "138112",
+      "13791",
+      "13678"
+    ],
+    "correct": 1,
+    "explanation": "13×9=117 -> 139117; 13×7=91 -> 13791; 13×6=78 -> 13678. ஆனால் 13×8=104 (இங்கு 112 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 139117\n2) 138112\n3) 13791\n4) 13678",
+    "options_en": [
+      "139117",
+      "138112",
+      "13791",
+      "13678"
+    ],
+    "explanation_en": "13×9=117 -> 139117; 13×7=91 -> 13791; 13×6=78 -> 13678. But 13×8=104 (here as 112) – different."
+  },
+  {
+    "id": 17,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 3, 11\n2) 5, 13\n3) 17, 23\n4) 1, 64",
+    "options": [
+      "3, 11",
+      "5, 13",
+      "17, 23",
+      "1, 64"
+    ],
+    "correct": 3,
+    "explanation": "மற்றவை அனைத்தும் பகா எண்கள் இணை. 1, 64 (மாறுபட்டது) - 1 பகு, பகா எண் அல்ல. 64 பகு எண்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 3, 11\n2) 5, 13\n3) 17, 23\n4) 1, 64",
+    "options_en": [
+      "3, 11",
+      "5, 13",
+      "17, 23",
+      "1, 64"
+    ],
+    "explanation_en": "All others are prime numbers. 1, 64 (variable) - 1 fraction, not a prime number. 64 part no."
+  },
+  {
+    "id": 18,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 4, 22\n2) 6, 42\n3) 8, 70\n4) 10, 110",
+    "options": [
+      "4, 22",
+      "6, 42",
+      "8, 70",
+      "10, 110"
+    ],
+    "correct": 3,
+    "explanation": "n, n²+6 என்ற வடிவம். 4²+6=22; 6²+6=42; 8²+6=70. ஆனால் 10²+6=106 (இங்கு 110 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 4, 22\n2) 6, 42\n3) 8, 70\n4) 10, 110",
+    "options_en": [
+      "4, 22",
+      "6, 42",
+      "8, 70",
+      "10, 110"
+    ],
+    "explanation_en": "n is of the form n²+6. 4²+6=22; 6²+6=42; 8²+6=70. But 10²+6=106 (here as 110) – different."
+  },
+  {
+    "id": 19,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 4, 8\n2) 9, 64\n3) 25, 125\n4) 36, 216",
+    "options": [
+      "4, 8",
+      "9, 64",
+      "25, 125",
+      "36, 216"
+    ],
+    "correct": 1,
+    "explanation": "n², n³ என்ற வடிவம். 2²,2³; 5²,5³; 6²,6³. ஆனால் 9,64 என்பது 3²,4³ (மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 4, 8\n2) 9, 64\n3) 25, 125\n4) 36, 216",
+    "options_en": [
+      "4, 8",
+      "9, 64",
+      "25, 125",
+      "36, 216"
+    ],
+    "explanation_en": "The form n², n³. 2², 2³; 5²,5³; 6², 6³. But 9,64 is 3²,4³ (variable)."
+  },
+  {
+    "id": 20,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 144\n2) 169\n3) 202\n4) 324",
+    "options": [
+      "144",
+      "169",
+      "202",
+      "324"
+    ],
+    "correct": 2,
+    "explanation": "202 வர்க்க எண் அல்ல (மாறுபட்டது). மற்றவை முழு வர்க்க எண்கள்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 144\n2) 169\n3) 202\n4) 324",
+    "options_en": [
+      "144",
+      "169",
+      "202",
+      "324"
+    ],
+    "explanation_en": "202 is not a square number (different). Others are whole square numbers."
+  },
+  {
+    "id": 21,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 2\n2) 12\n3) 18\n4) 80",
+    "options": [
+      "2",
+      "12",
+      "18",
+      "80"
+    ],
+    "correct": 0,
+    "explanation": "2 - பகா எண் (மாறுபட்டது). மற்றவை பகு எண்கள்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 2\n2) 12\n3) 18\n4) 80",
+    "options_en": [
+      "2",
+      "12",
+      "18",
+      "80"
+    ],
+    "explanation_en": "2 - Prime number (Variable). Others are part numbers."
+  },
+  {
+    "id": 22,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 22\n2) 46\n3) 78\n4) 124",
+    "options": [
+      "22",
+      "46",
+      "78",
+      "124"
+    ],
+    "correct": 3,
+    "explanation": "5²-3=22; 7²-3=46; 9²-3=78; ஆனால் 11²-3=118 (இங்கு 124 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 22\n2) 46\n3) 78\n4) 124",
+    "options_en": [
+      "22",
+      "46",
+      "78",
+      "124"
+    ],
+    "explanation_en": "5²-3=22; 7²-3=46; 9²-3=78; But 11²-3=118 (here as 124) – different."
+  },
+  {
+    "id": 23,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 1, 10\n2) 3, 30\n3) 5, 130\n4) 7, 350",
+    "options": [
+      "1, 10",
+      "3, 30",
+      "5, 130",
+      "7, 350"
+    ],
+    "correct": 0,
+    "explanation": "n, n³+n என்ற வடிவம். 3³+3=30; 5³+5=130; 7³+7=350. ஆனால் 1³+1=2 (இங்கு 10 என உள்ளது) - மாறுபட்டது.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 1, 10\n2) 3, 30\n3) 5, 130\n4) 7, 350",
+    "options_en": [
+      "1, 10",
+      "3, 30",
+      "5, 130",
+      "7, 350"
+    ],
+    "explanation_en": "n is of the form n³+n. 3³+3=30; 5³+5=130; 7³+7=350. But 1³+1=2 (here as 10) – different."
+  },
+  {
+    "id": 24,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 8\n2) 27\n3) 63\n4) 125",
+    "options": [
+      "8",
+      "27",
+      "63",
+      "125"
+    ],
+    "correct": 2,
+    "explanation": "63 (4³-1) - மாறுபட்டது. மற்றவை முழு கன எண்கள் (2³, 3³, 5³).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 8\n2) 27\n3) 63\n4) 125",
+    "options_en": [
+      "8",
+      "27",
+      "63",
+      "125"
+    ],
+    "explanation_en": "63 (4³-1) - Variant. Others are whole cubic numbers (2³, 3³, 5³)."
+  },
+  {
+    "id": 25,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 144, 3\n2) 169, 4\n3) 889, 5\n4) 909, 6",
+    "options": [
+      "144, 3",
+      "169, 4",
+      "889, 5",
+      "909, 6"
+    ],
+    "correct": 3,
+    "explanation": "முதல் எண்ணின் இலக்கங்களின் கூடுதல் = இரண்டாம் எண்ணின் வர்க்கம். 1+4+4=9=3²; 1+6+9=16=4²; 8+8+9=25=5². ஆனால் 9+0+9=18 (மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 144, 3\n2) 169, 4\n3) 889, 5\n4) 909, 6",
+    "options_en": [
+      "144, 3",
+      "169, 4",
+      "889, 5",
+      "909, 6"
+    ],
+    "explanation_en": "Addition of digits of first number = square of second number. 1+4+4=9=3²; 1+6+9=16=4²; 8+8+9=25=5². But 9+0+9=18 (contrast)."
+  },
+  {
+    "id": 26,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 87\n2) 17\n3) 13\n4) 29",
+    "options": [
+      "87",
+      "17",
+      "13",
+      "29"
+    ],
+    "correct": 0,
+    "explanation": "87 - பகு எண் (மாறுபட்டது). மற்றவை பகா எண்கள்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 87\n2) 17\n3) 13\n4) 29",
+    "options_en": [
+      "87",
+      "17",
+      "13",
+      "29"
+    ],
+    "explanation_en": "87 - Part Number (Varies). Others are prime numbers."
+  },
+  {
+    "id": 27,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 232\n2) 431\n3) 612\n4) 813",
+    "options": [
+      "232",
+      "431",
+      "612",
+      "813"
+    ],
+    "correct": 3,
+    "explanation": "இலக்கங்களின் பெருக்கற்பலன்: 2×3×2=12; 4×3×1=12; 6×1×2=12; ஆனால் 8×1×3=24 (மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 232\n2) 431\n3) 612\n4) 813",
+    "options_en": [
+      "232",
+      "431",
+      "612",
+      "813"
+    ],
+    "explanation_en": "Product of digits: 2×3×2=12; 4×3×1=12; 6×1×2=12; But 8×1×3=24 (variable)."
+  },
+  {
+    "id": 28,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 2\n2) 23\n3) 31\n4) 32",
+    "options": [
+      "2",
+      "23",
+      "31",
+      "32"
+    ],
+    "correct": 3,
+    "explanation": "32 பகு எண் (மாறுபட்டது). 2, 23, 31 பகா எண்கள்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 2\n2) 23\n3) 31\n4) 32",
+    "options_en": [
+      "2",
+      "23",
+      "31",
+      "32"
+    ],
+    "explanation_en": "32 Part Number (Variable). 2, 23, 31 are prime numbers."
+  },
+  {
+    "id": 29,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 417\n2) 526\n3) 750\n4) 979",
+    "options": [
+      "417",
+      "526",
+      "750",
+      "979"
+    ],
+    "correct": 3,
+    "explanation": "979 பகா எண் (மாறுபட்டது). 417, 526, 750 - பகு எண்கள்.",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 417\n2) 526\n3) 750\n4) 979",
+    "options_en": [
+      "417",
+      "526",
+      "750",
+      "979"
+    ],
+    "explanation_en": "979 Serial Number (Variable). 417, 526, 750 - part numbers."
+  },
+  {
+    "id": 30,
+    "question": "நான்கு எண்கள் / இணை எண்கள் கொடுக்கப்பட்டிருக்கும். அவற்றில் ஏதேனும் மூன்று எண்கள் / இணை எண்களுக்கிடையே ஒரு பொதுத்தன்மை இருக்கும். மாறுபட்ட ஒரு எண் / இணை எண்ணைத் தேர்ந்தெடு.\n\n1) 530\n2) 642\n3) 980\n4) 872",
+    "options": [
+      "530",
+      "642",
+      "980",
+      "872"
+    ],
+    "correct": 2,
+    "explanation": "a b c என்ற எண்ணில் a×b=c (கடைசி இரு இலக்கங்கள்). 5×6=30 -> 530; 6×7=42 -> 642; 8×9=72 -> 872. ஆனால் 9×8=72 -> 972 ஆக இருக்க வேண்டும் (980 மாறுபட்டது).",
+    "question_en": "Four numbers / corresponding numbers are given. Any three of them have a commonality between the numbers / co-numbers. Choose a different number / parallel number.\n\n1) 530\n2) 642\n3) 980\n4) 872",
+    "options_en": [
+      "530",
+      "642",
+      "980",
+      "872"
+    ],
+    "explanation_en": "In the number a b c, a×b=c (last two digits). 5×6=30 -> 530; 6×7=42 -> 642; 8×9=72 -> 872. But should be 9×8=72 -> 972 (980 is different)."
+  }
+]

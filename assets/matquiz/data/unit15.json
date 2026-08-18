@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: POSTFORMING",
+    "options": [
+      "STRONG",
+      "STRING",
+      "PERFORM",
+      "POST"
+    ],
+    "correct": 2,
+    "explanation": "POSTFORMING என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து PERFORM என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: POSTFORMING",
+    "options_en": [
+      "STRONG",
+      "STRING",
+      "PERFORM",
+      "POST"
+    ],
+    "explanation_en": "The word PERFORM is not formed from the letters in the word POSTFORMING."
+  },
+  {
+    "id": 2,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: MERMAID",
+    "options": [
+      "MAID",
+      "DEER",
+      "RAID",
+      "DAM"
+    ],
+    "correct": 1,
+    "explanation": "MERMAID என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து DEER என்ற வார்த்தை உருவாக்கப்படவில்லை (E என்ற எழுத்து ஒரு முறை மட்டுமே உள்ளது).",
+    "question_en": "Choose the word that cannot be formed from the letters in the word below: MERMAID",
+    "options_en": [
+      "MAID",
+      "DEER",
+      "RAID",
+      "DAM"
+    ],
+    "explanation_en": "The word DEER is not formed from the letters in the word MERMAID (the letter E only occurs once)."
+  },
+  {
+    "id": 3,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: SNOWY",
+    "options": [
+      "SNOW",
+      "WON",
+      "SON",
+      "WHY"
+    ],
+    "correct": 3,
+    "explanation": "SNOWY என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து WHY என்ற வார்த்தை உருவாக்கப்படவில்லை (H இல்லை).",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: SNOWY",
+    "options_en": [
+      "SNOW",
+      "WON",
+      "SON",
+      "WHY"
+    ],
+    "explanation_en": "The word WHY is not formed from the letters in the word SNOWY (no H)."
+  },
+  {
+    "id": 4,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: WATERMELON",
+    "options": [
+      "LEMON",
+      "LION",
+      "METER",
+      "TERM"
+    ],
+    "correct": 1,
+    "explanation": "WATERMELON என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து LION என்ற வார்த்தை உருவாக்கப்படவில்லை (I இல்லை).",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: WATERMELON",
+    "options_en": [
+      "LEMON",
+      "LION",
+      "METER",
+      "TERM"
+    ],
+    "explanation_en": "The word LION is not formed from the letters in the word WATERMELON (no I)."
+  },
+  {
+    "id": 5,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: PLANETARIUM",
+    "options": [
+      "MUSEUM",
+      "RIM",
+      "MERIT",
+      "MEAN"
+    ],
+    "correct": 0,
+    "explanation": "PLANETARIUM என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து MUSEUM என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: PLANETARIUM",
+    "options_en": [
+      "MUSEUM",
+      "RIM",
+      "MERIT",
+      "MEAN"
+    ],
+    "explanation_en": "The word MUSEUM is not formed from the letters in the word PLANETARIUM."
+  },
+  {
+    "id": 6,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: CONVERSATION",
+    "options": [
+      "SAT",
+      "CONVERSE",
+      "RATION",
+      "CONTAIN"
+    ],
+    "correct": 1,
+    "explanation": "CONVERSATION என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CONVERSE என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: CONVERSATION",
+    "options_en": [
+      "SAT",
+      "CONVERSE",
+      "RATION",
+      "CONTAIN"
+    ],
+    "explanation_en": "The word CONVERSE is not formed from the letters in the word CONVERSATION."
+  },
+  {
+    "id": 7,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: ALPHABET",
+    "options": [
+      "PET",
+      "ABLE",
+      "HALT",
+      "HABITIZE"
+    ],
+    "correct": 3,
+    "explanation": "ALPHABET என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து HABITIZE என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: ALPHABET",
+    "options_en": [
+      "PET",
+      "ABLE",
+      "HALT",
+      "HABITIZE"
+    ],
+    "explanation_en": "The word HABITIZE is not formed from the letters in the word ALPHABET."
+  },
+  {
+    "id": 8,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: MEASURES",
+    "options": [
+      "MEAN",
+      "USE",
+      "SURE",
+      "MEASURE"
+    ],
+    "correct": 0,
+    "explanation": "MEASURES என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து MEAN என்ற வார்த்தை உருவாக்கப்படவில்லை (N இல்லை).",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: MEASURES",
+    "options_en": [
+      "MEAN",
+      "USE",
+      "SURE",
+      "MEASURE"
+    ],
+    "explanation_en": "The word MEAN is not formed from the letters in the word MEASURES (no N)."
+  },
+  {
+    "id": 9,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: GROUNDICE",
+    "options": [
+      "END",
+      "DOWN",
+      "OUNCE",
+      "GRID"
+    ],
+    "correct": 1,
+    "explanation": "GROUNDICE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து DOWN என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: GROUNDICE",
+    "options_en": [
+      "END",
+      "DOWN",
+      "OUNCE",
+      "GRID"
+    ],
+    "explanation_en": "The word DOWN is not formed from the letters in the word GROUNDICE."
+  },
+  {
+    "id": 10,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: INFORMATION",
+    "options": [
+      "FORMAT",
+      "RATION",
+      "ANT",
+      "MAZON"
+    ],
+    "correct": 3,
+    "explanation": "INFORMATION என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து MAZON என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: INFORMATION",
+    "options_en": [
+      "FORMAT",
+      "RATION",
+      "ANT",
+      "MAZON"
+    ],
+    "explanation_en": "The word MAZON is not formed from the letters in the word INFORMATION."
+  },
+  {
+    "id": 11,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: EQUIPMENT",
+    "options": [
+      "EQUIP",
+      "QUIET",
+      "QUIT",
+      "PIPE"
+    ],
+    "correct": 3,
+    "explanation": "EQUIPMENT என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து PIPE என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: EQUIPMENT",
+    "options_en": [
+      "EQUIP",
+      "QUIET",
+      "QUIT",
+      "PIPE"
+    ],
+    "explanation_en": "The word PIPE is not formed from the letters in the word EQUIPMENT."
+  },
+  {
+    "id": 12,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: INDEPENDENCE",
+    "options": [
+      "DANCE",
+      "DEPEND",
+      "DEEP",
+      "END"
+    ],
+    "correct": 0,
+    "explanation": "INDEPENDENCE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து DANCE என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: INDEPENDENCE",
+    "options_en": [
+      "DANCE",
+      "DEPEND",
+      "DEEP",
+      "END"
+    ],
+    "explanation_en": "The word DANCE was not created from the letters in the word INDEPENDENCE."
+  },
+  {
+    "id": 13,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: UNDERSTANDING",
+    "options": [
+      "STAND",
+      "READING",
+      "DINNING",
+      "UNDER"
+    ],
+    "correct": 2,
+    "explanation": "UNDERSTANDING என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து DINNING என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: UNDERSTANDING",
+    "options_en": [
+      "STAND",
+      "READING",
+      "DINNING",
+      "UNDER"
+    ],
+    "explanation_en": "The word DINNING is not formed from the letters in the word UNDERSTANDING."
+  },
+  {
+    "id": 14,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: ENTHUSIASTIC",
+    "options": [
+      "AESTHETIC",
+      "STATIC",
+      "CASE",
+      "SEAT"
+    ],
+    "correct": 0,
+    "explanation": "ENTHUSIASTIC என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து AESTHETIC என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: ENTHUSIASTIC",
+    "options_en": [
+      "AESTHETIC",
+      "STATIC",
+      "CASE",
+      "SEAT"
+    ],
+    "explanation_en": "The word AESTHETIC is not formed from the letters in the word ENTHUSIASTIC."
+  },
+  {
+    "id": 15,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: DIPLOMATIC",
+    "options": [
+      "MATIC",
+      "DIPOLE",
+      "PALM",
+      "COAL"
+    ],
+    "correct": 1,
+    "explanation": "DIPLOMATIC என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து DIPOLE என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: DIPLOMATIC",
+    "options_en": [
+      "MATIC",
+      "DIPOLE",
+      "PALM",
+      "COAL"
+    ],
+    "explanation_en": "The word DIPOLE is not formed from the letters in the word DIPLOMATIC."
+  },
+  {
+    "id": 16,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: INFRASTRUCTURE",
+    "options": [
+      "STRUCTURE",
+      "TRACT",
+      "INSTRUCT",
+      "INSULIN"
+    ],
+    "correct": 3,
+    "explanation": "INFRASTRUCTURE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து INSULIN என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: INFRASTRUCTURE",
+    "options_en": [
+      "STRUCTURE",
+      "TRACT",
+      "INSTRUCT",
+      "INSULIN"
+    ],
+    "explanation_en": "The word INSULIN is not formed from the letters in the word INFRASTRUCTURE."
+  },
+  {
+    "id": 17,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: ENCOURAGEMENT",
+    "options": [
+      "CARRIAGE",
+      "ENCOUNTER",
+      "RANGE",
+      "COURAGE"
+    ],
+    "correct": 0,
+    "explanation": "ENCOURAGEMENT என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CARRIAGE என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: ENCOURAGEMENT",
+    "options_en": [
+      "CARRIAGE",
+      "ENCOUNTER",
+      "RANGE",
+      "COURAGE"
+    ],
+    "explanation_en": "The word CARRIAGE is not formed from the letters in the word ENCOURAGEMENT."
+  },
+  {
+    "id": 18,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: PROCURE",
+    "options": [
+      "CROP",
+      "CURE",
+      "ROAR",
+      "ROPE"
+    ],
+    "correct": 2,
+    "explanation": "PROCURE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து ROAR என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: PROCURE",
+    "options_en": [
+      "CROP",
+      "CURE",
+      "ROAR",
+      "ROPE"
+    ],
+    "explanation_en": "The word ROAR is not formed from the letters in the word PROCURE."
+  },
+  {
+    "id": 19,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: ACHIEVER",
+    "options": [
+      "VIEW",
+      "ACHIEVE",
+      "HIVE",
+      "EVE"
+    ],
+    "correct": 0,
+    "explanation": "ACHIEVER என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து VIEW என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: ACHIEVER",
+    "options_en": [
+      "VIEW",
+      "ACHIEVE",
+      "HIVE",
+      "EVE"
+    ],
+    "explanation_en": "The word VIEW is not formed from the letters in the word ACHIEVER."
+  },
+  {
+    "id": 20,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: EDUCATOR",
+    "options": [
+      "ACTOR",
+      "DUCT",
+      "EDUCATE",
+      "CAT"
+    ],
+    "correct": 2,
+    "explanation": "EDUCATOR என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து EDUCATE என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: EDUCATOR",
+    "options_en": [
+      "ACTOR",
+      "DUCT",
+      "EDUCATE",
+      "CAT"
+    ],
+    "explanation_en": "The word EDUCATE is not formed from the letters in the word EDUCATOR."
+  },
+  {
+    "id": 21,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: GOVERNMENT",
+    "options": [
+      "GOVERN",
+      "MONUMENT",
+      "RENT",
+      "MEN"
+    ],
+    "correct": 1,
+    "explanation": "GOVERNMENT என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து MONUMENT என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: GOVERNMENT",
+    "options_en": [
+      "GOVERN",
+      "MONUMENT",
+      "RENT",
+      "MEN"
+    ],
+    "explanation_en": "The word MONUMENT is not formed from the letters in the word GOVERNMENT."
+  },
+  {
+    "id": 22,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: ACCOMPLISH",
+    "options": [
+      "CALM",
+      "CAMP",
+      "POLISH",
+      "FISH"
+    ],
+    "correct": 3,
+    "explanation": "ACCOMPLISH என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து FISH என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: ACCOMPLISH",
+    "options_en": [
+      "CALM",
+      "CAMP",
+      "POLISH",
+      "FISH"
+    ],
+    "explanation_en": "The word FISH is not formed from the letters in the word ACCOMPLISH."
+  },
+  {
+    "id": 23,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: IDEALISM",
+    "options": [
+      "IDEA",
+      "SLIM",
+      "SEED",
+      "IDEAL"
+    ],
+    "correct": 2,
+    "explanation": "IDEALISM என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து SEED என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: IDEALISM",
+    "options_en": [
+      "IDEA",
+      "SLIM",
+      "SEED",
+      "IDEAL"
+    ],
+    "explanation_en": "The word SEED was not created from the letters in the word IDEALISM."
+  },
+  {
+    "id": 24,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: AUGUMENTAL",
+    "options": [
+      "ALARM",
+      "GUM",
+      "MENTAL",
+      "MEN"
+    ],
+    "correct": 0,
+    "explanation": "AUGUMENTAL என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து ALARM என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: AUGUMENTAL",
+    "options_en": [
+      "ALARM",
+      "GUM",
+      "MENTAL",
+      "MEN"
+    ],
+    "explanation_en": "The word ALARM is not formed from the letters in the word AUGUMENTAL."
+  },
+  {
+    "id": 25,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்பட முடியாத வார்த்தையினைத் தேர்ந்தெடுக்கவும்: BIOSPHERE",
+    "options": [
+      "BISHOP",
+      "SPHERE",
+      "SHEEP",
+      "HEAR"
+    ],
+    "correct": 3,
+    "explanation": "BIOSPHERE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து HEAR என்ற வார்த்தை உருவாக்கப்படவில்லை.",
+    "question_en": "Choose the word that cannot be formed from the letters in the word given below: BIOSPHERE",
+    "options_en": [
+      "BISHOP",
+      "SPHERE",
+      "SHEEP",
+      "HEAR"
+    ],
+    "explanation_en": "The word HEAR was not formed from the letters in the word BIOSPHERE."
+  }
+]

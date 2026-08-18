@@ -1,0 +1,2745 @@
+[
+    {
+        "id": 27,
+        "question": "நிழலிடப்பட்ட பகுதியின் சதவீதம் என்ன?",
+        "options": [
+            "25%",
+            "2%",
+            "50%",
+            "75%"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி, நிழலிடப்பட்ட பகுதி முழுப் பரப்பளவில் பாதியைக் குறிக்கிறது, எனவே இது 50% ஆகும்.",
+        "question_en": "What is the percentage of the shaded region?",
+        "options_en": [
+            "25%",
+            "2%",
+            "50%",
+            "75%"
+        ],
+        "explanation_en": "According to the answer key, the shaded region represents half of the total area, which is 50%.",
+        "image": "image/unit13/q27.PNG"
+    },
+    {
+        "id": 28,
+        "question": "நிழலிடப்பட்ட பகுதியின் சதவீதத்தைக் காண்க.",
+        "options": [
+            "1/4%",
+            "4%",
+            "25%",
+            "75%"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி, நிழலிடப்பட்ட பகுதி 4 இல் 1 பங்கைக் குறிக்கிறது, எனவே இது 25% ஆகும்.",
+        "question_en": "Find the percentage of the shaded region.",
+        "options_en": [
+            "1/4%",
+            "4%",
+            "25%",
+            "75%"
+        ],
+        "explanation_en": "According to the answer key, the shaded region represents 1 out of 4 parts, which is 25%.",
+        "image": "image/unit13/q28.PNG"
+    },
+    {
+        "id": 29,
+        "question": "கீழ்க்கண்டவற்றில் எது சரியானது?",
+        "options": [
+            "0.01 < 1%",
+            "0.01 > 1%",
+            "0.01 = 1%",
+            "ஏதுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "1% என்பதை 1/100 என எழுதலாம். இதன் மதிப்பு 0.01 ஆகும். எனவே 0.01 = 1% என்பது சரி.",
+        "question_en": "Which of the following is correct?",
+        "options_en": [
+            "0.01 < 1%",
+            "0.01 > 1%",
+            "0.01 = 1%",
+            "None of the above"
+        ],
+        "explanation_en": "1% can be written as 1/100, which equals 0.01. Therefore, 0.01 = 1% is correct."
+    },
+    {
+        "id": 30,
+        "question": "0.07%",
+        "options": [
+            "7/10",
+            "7/100",
+            "7/1000",
+            "7/10,000"
+        ],
+        "correct": 3,
+        "explanation": "0.07% = 0.07 / 100 = 7 / 10,000.",
+        "question_en": "0.07%",
+        "options_en": [
+            "7/10",
+            "7/100",
+            "7/1000",
+            "7/10,000"
+        ],
+        "explanation_en": "0.07% = 0.07 / 100 = 7 / 10,000."
+    },
+    {
+        "id": 31,
+        "question": "0.09 ஐச் சதவீதமாக மாற்றுக.",
+        "options": [
+            "0.09%",
+            "0.9%",
+            "9%",
+            "900%"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு தசம எண்ணை சதவீதமாக மாற்ற 100 ஆல் பெருக்க வேண்டும். 0.09 * 100 = 9%.",
+        "question_en": "Convert 0.09 into a percentage.",
+        "options_en": [
+            "0.09%",
+            "0.9%",
+            "9%",
+            "900%"
+        ],
+        "explanation_en": "To convert a decimal to a percentage, multiply by 100. 0.09 * 100 = 9%."
+    },
+    {
+        "id": 32,
+        "question": "0.25 ஐச் சதவீதமாக மாற்றக் கிடைப்பது",
+        "options": [
+            "25%",
+            "25/100%",
+            "2.5%",
+            "250%"
+        ],
+        "correct": 0,
+        "explanation": "0.25 * 100 = 25%.",
+        "question_en": "Converting 0.25 to a percentage gives",
+        "options_en": [
+            "25%",
+            "25/100%",
+            "2.5%",
+            "250%"
+        ],
+        "explanation_en": "0.25 * 100 = 25%."
+    },
+    {
+        "id": 33,
+        "question": "0.007 இன் சதவீத வடிவம்",
+        "options": [
+            "0.07%",
+            "0.7%",
+            "7%",
+            "70%"
+        ],
+        "correct": 1,
+        "explanation": "0.007 * 100 = 0.7%.",
+        "question_en": "The percentage form of 0.007 is",
+        "options_en": [
+            "0.07%",
+            "0.7%",
+            "7%",
+            "70%"
+        ],
+        "explanation_en": "0.007 * 100 = 0.7%."
+    },
+    {
+        "id": 34,
+        "question": "0.239 இன் சதவீத வடிவம்",
+        "options": [
+            "0.239%",
+            "2.39%",
+            "23.9%",
+            "239%"
+        ],
+        "correct": 2,
+        "explanation": "0.239 * 100 = 23.9%.",
+        "question_en": "The percentage form of 0.239 is",
+        "options_en": [
+            "0.239%",
+            "2.39%",
+            "23.9%",
+            "239%"
+        ],
+        "explanation_en": "0.239 * 100 = 23.9%."
+    },
+    {
+        "id": 35,
+        "question": "3.75 இன் சதவீத வடிவம்",
+        "options": [
+            "3.75%",
+            "37.5%",
+            "375%",
+            "0.375%"
+        ],
+        "correct": 2,
+        "explanation": "3.75 * 100 = 375%.",
+        "question_en": "The percentage form of 3.75 is",
+        "options_en": [
+            "3.75%",
+            "37.5%",
+            "375%",
+            "0.375%"
+        ],
+        "explanation_en": "3.75 * 100 = 375%."
+    },
+    {
+        "id": 36,
+        "question": "3% ஐத் தசம எண்ணாக மாற்றக் கிடைப்பது",
+        "options": [
+            "0.3",
+            "0.03",
+            "3.0",
+            "0.30"
+        ],
+        "correct": 1,
+        "explanation": "சதவீதத்தை தசமமாக மாற்ற 100 ஆல் வகுக்க வேண்டும். 3 / 100 = 0.03.",
+        "question_en": "Converting 3% to a decimal gives",
+        "options_en": [
+            "0.3",
+            "0.03",
+            "3.0",
+            "0.30"
+        ],
+        "explanation_en": "To convert a percentage to a decimal, divide by 100. 3 / 100 = 0.03."
+    },
+    {
+        "id": 37,
+        "question": "67% ஐத் தசம எண்ணாக மாற்றக் கிடைப்பது",
+        "options": [
+            "0.67",
+            "6.7",
+            "67.0",
+            "0.067"
+        ],
+        "correct": 0,
+        "explanation": "67 / 100 = 0.67.",
+        "question_en": "Converting 67% to a decimal gives",
+        "options_en": [
+            "0.67",
+            "6.7",
+            "67.0",
+            "0.067"
+        ],
+        "explanation_en": "67 / 100 = 0.67."
+    },
+    {
+        "id": 38,
+        "question": "17.5% ஐத் தசம எண்ணாக மாற்றக் கிடைப்பது",
+        "options": [
+            "17.5",
+            "1.75",
+            "0.175",
+            "175.0"
+        ],
+        "correct": 2,
+        "explanation": "17.5 / 100 = 0.175.",
+        "question_en": "Converting 17.5% to a decimal gives",
+        "options_en": [
+            "17.5",
+            "1.75",
+            "0.175",
+            "175.0"
+        ],
+        "explanation_en": "17.5 / 100 = 0.175."
+    },
+    {
+        "id": 39,
+        "question": "135% இன் தசம எண் வடிவம்",
+        "options": [
+            "0.135",
+            "1.35",
+            "13.5",
+            "0.0135"
+        ],
+        "correct": 1,
+        "explanation": "135 / 100 = 1.35.",
+        "question_en": "The decimal form of 135% is",
+        "options_en": [
+            "0.135",
+            "1.35",
+            "13.5",
+            "0.0135"
+        ],
+        "explanation_en": "135 / 100 = 1.35."
+    },
+    {
+        "id": 40,
+        "question": "0.5% இன் தசம எண் வடிவம்",
+        "options": [
+            "0.5",
+            "0.05",
+            "0.005",
+            "5.0"
+        ],
+        "correct": 2,
+        "explanation": "0.5 / 100 = 0.005.",
+        "question_en": "The decimal form of 0.5% is",
+        "options_en": [
+            "0.5",
+            "0.05",
+            "0.005",
+            "5.0"
+        ],
+        "explanation_en": "0.5 / 100 = 0.005."
+    },
+    {
+        "id": 41,
+        "question": "93.1% இன் தசம எண் வடிவம்",
+        "options": [
+            "93.1",
+            "9.31",
+            "0.931",
+            "931.0"
+        ],
+        "correct": 2,
+        "explanation": "93.1 / 100 = 0.931.",
+        "question_en": "The decimal form of 93.1% is",
+        "options_en": [
+            "93.1",
+            "9.31",
+            "0.931",
+            "931.0"
+        ],
+        "explanation_en": "93.1 / 100 = 0.931."
+    },
+    {
+        "id": 42,
+        "question": "0.64% இன் தசம எண் வடிவம்",
+        "options": [
+            "0.64",
+            "0.064",
+            "0.0064",
+            "6.4"
+        ],
+        "correct": 2,
+        "explanation": "0.64% என்பதை தசமமாக மாற்ற, 100 ஆல் வகுக்க வேண்டும். 0.64 / 100 = 0.0064.",
+        "question_en": "The decimal form of 0.64% is",
+        "options_en": [
+            "0.64",
+            "0.064",
+            "0.0064",
+            "6.4"
+        ],
+        "explanation_en": "To convert 0.64% to a decimal, divide by 100. 0.64 / 100 = 0.0064."
+    },
+    {
+        "id": 43,
+        "question": "0.858 ஐத் சதவீதமாக மாற்றுக.",
+        "options": [
+            "85.8%",
+            "8.58%",
+            "0.858%",
+            "858%"
+        ],
+        "correct": 0,
+        "explanation": "தசம எண்ணைச் சதவீதமாக மாற்ற 100 ஆல் பெருக்க வேண்டும். 0.858 * 100 = 85.8%.",
+        "question_en": "Convert 0.858 to a percentage.",
+        "options_en": [
+            "85.8%",
+            "8.58%",
+            "0.858%",
+            "858%"
+        ],
+        "explanation_en": "To convert a decimal to a percentage, multiply by 100. 0.858 * 100 = 85.8%."
+    },
+    {
+        "id": 44,
+        "question": "0.0500 ஐச் சதவீதமாக மாற்றக் கிடைப்பது",
+        "options": [
+            "0.005%",
+            "5%",
+            "0.5%",
+            "0.05%"
+        ],
+        "correct": 1,
+        "explanation": "0.0500 * 100 = 5%.",
+        "question_en": "Converting 0.0500 to a percentage gives",
+        "options_en": [
+            "0.005%",
+            "5%",
+            "0.5%",
+            "0.05%"
+        ],
+        "explanation_en": "0.0500 * 100 = 5%."
+    },
+    {
+        "id": 45,
+        "question": "4.7 இன் சதவீத வடிவம்",
+        "options": [
+            "0.47%",
+            "4.7%",
+            "47%",
+            "470%"
+        ],
+        "correct": 3,
+        "explanation": "4.7 * 100 = 470%.",
+        "question_en": "The percentage form of 4.7 is",
+        "options_en": [
+            "0.47%",
+            "4.7%",
+            "47%",
+            "470%"
+        ],
+        "explanation_en": "4.7 * 100 = 470%."
+    },
+    {
+        "id": 46,
+        "question": "1.005001 ஐச் சதவீதமாக மாற்றுக.",
+        "options": [
+            "100.5001%",
+            "10.05001%",
+            "1.005001%",
+            "0.1005001%"
+        ],
+        "correct": 0,
+        "explanation": "1.005001 * 100 = 100.5001%.",
+        "question_en": "Convert 1.005001 to a percentage.",
+        "options_en": [
+            "100.5001%",
+            "10.05001%",
+            "1.005001%",
+            "0.1005001%"
+        ],
+        "explanation_en": "1.005001 * 100 = 100.5001%."
+    },
+    {
+        "id": 47,
+        "question": "ஒரு கிராமத்தில் 70.5% மக்கள் கல்வியறிவு பெற்றிருந்தனர் எனில், அதனைத் தசமமாக மாற்றுக.",
+        "options": [
+            "70.5",
+            "7.05",
+            "0.705",
+            "705.0"
+        ],
+        "correct": 2,
+        "explanation": "70.5 / 100 = 0.705.",
+        "question_en": "If 70.5% of people in a village are literate, convert this to a decimal.",
+        "options_en": [
+            "70.5",
+            "7.05",
+            "0.705",
+            "705.0"
+        ],
+        "explanation_en": "70.5 / 100 = 0.705."
+    },
+    {
+        "id": 48,
+        "question": "இரண்டு இரசாயன பொருள்களின் எடைகள் 20.34 கிராம் மற்றும் 18.78 கிராம் எனில், அவற்றின் எடையின் வித்தியாசத்தைச் சதவீதத்தில் கூறுக.",
+        "options": [
+            "1.56%",
+            "15.6%",
+            "156%",
+            "0.156%"
+        ],
+        "correct": 2,
+        "explanation": "வித்தியாசம் = 20.34 - 18.78 = 1.56. இந்த எண்ணின் சதவீத வடிவம்: 1.56 * 100 = 156%.",
+        "question_en": "If the weights of two chemicals are 20.34 grams and 18.78 grams, express the numerical difference of their weights as a percentage format.",
+        "options_en": [
+            "1.56%",
+            "15.6%",
+            "156%",
+            "0.156%"
+        ],
+        "explanation_en": "Difference = 20.34 - 18.78 = 1.56. The percentage format of this number is 1.56 * 100 = 156%."
+    },
+    {
+        "id": 49,
+        "question": "142.5% ஐத் தசமமாக மாற்றினால் கிடைப்பது",
+        "options": [
+            "1.425",
+            "0.1425",
+            "142.5",
+            "14.25"
+        ],
+        "correct": 0,
+        "explanation": "142.5 / 100 = 1.425.",
+        "question_en": "Converting 142.5% to a decimal gives",
+        "options_en": [
+            "1.425",
+            "0.1425",
+            "142.5",
+            "14.25"
+        ],
+        "explanation_en": "142.5 / 100 = 1.425."
+    },
+    {
+        "id": 50,
+        "question": "கீழ்க்கண்டவற்றில் எது பெரியது?",
+        "options": [
+            "$16\\frac{2}{3}$",
+            "$\\frac{2}{5}$",
+            "0.17",
+            "$2\\frac{18}{30}$"
+        ],
+        "correct": 0,
+        "explanation": "விருப்பங்களின் மதிப்புகள்: $16\\frac{2}{3} \\approx 16.66$, $\\frac{2}{5} = 0.4$, $0.17$, மற்றும் $2\\frac{18}{30} = 2.6$. இவற்றில் $16\\frac{2}{3}$ பெரியது.",
+        "question_en": "Which of the following is the largest?",
+        "options_en": [
+            "$16\\frac{2}{3}$",
+            "$\\frac{2}{5}$",
+            "0.17",
+            "$2\\frac{18}{30}$"
+        ],
+        "explanation_en": "The values are: $16\\frac{2}{3} \\approx 16.66$, $\\frac{2}{5} = 0.4$, $0.17$, and $2\\frac{18}{30} = 2.6$. Among these, $16\\frac{2}{3}$ is the largest."
+    },
+    {
+        "id": 51,
+        "question": "50 இன் 50% = ?",
+        "options": [
+            "25",
+            "50",
+            "100",
+            "250"
+        ],
+        "correct": 0,
+        "explanation": "$50 \\times \\frac{50}{100} = 25$.",
+        "question_en": "What is 50% of 50?",
+        "options_en": [
+            "25",
+            "50",
+            "100",
+            "250"
+        ],
+        "explanation_en": "$50 \\times \\frac{50}{100} = 25$."
+    },
+    {
+        "id": 52,
+        "question": "0.1 இன் 1% = ?",
+        "options": [
+            "1",
+            "0.1",
+            "0.01",
+            "0.001"
+        ],
+        "correct": 3,
+        "explanation": "$0.1 \\times \\frac{1}{100} = 0.001$.",
+        "question_en": "What is 1% of 0.1?",
+        "options_en": [
+            "1",
+            "0.1",
+            "0.01",
+            "0.001"
+        ],
+        "explanation_en": "$0.1 \\times \\frac{1}{100} = 0.001$."
+    },
+    {
+        "id": 53,
+        "question": "$\\frac{80 \\text{ இன் } 30\\%}{x} = 24$ எனில் x இன் மதிப்பு",
+        "options": [
+            "0",
+            "1",
+            "3",
+            "2"
+        ],
+        "correct": 1,
+        "explanation": "80 இன் 30% = 24. எனவே $\\frac{24}{x} = 24$ ஆகும். இதிலிருந்து $x = 1$.",
+        "question_en": "If $\\frac{30\\% \\text{ of } 80}{x} = 24$, then the value of x is",
+        "options_en": [
+            "0",
+            "1",
+            "3",
+            "2"
+        ],
+        "explanation_en": "30% of 80 = 24. So, $\\frac{24}{x} = 24$, which gives $x = 1$."
+    },
+    {
+        "id": 54,
+        "question": "x மதிப்பின் 20% ஆனது 50 எனில், x இன் மதிப்பு",
+        "options": [
+            "100",
+            "170",
+            "250",
+            "350"
+        ],
+        "correct": 2,
+        "explanation": "$x \\times \\frac{20}{100} = 50 \\implies x = 50 \\times \\frac{100}{20} = 250$.",
+        "question_en": "If 20% of x is 50, then the value of x is",
+        "options_en": [
+            "100",
+            "170",
+            "250",
+            "350"
+        ],
+        "explanation_en": "$x \\times \\frac{20}{100} = 50 \\implies x = 50 \\times \\frac{100}{20} = 250$."
+    },
+    {
+        "id": 55,
+        "question": "40 கி.கி. இன் 0.75% மதிப்பு என்ன?",
+        "options": [
+            "30 கி.கி.",
+            "0.3 கி.கி.",
+            "3 கி.கி.",
+            "26 கி.கி."
+        ],
+        "correct": 1,
+        "explanation": "$40 \\times \\frac{0.75}{100} = 0.3$ கி.கி.",
+        "question_en": "What is the value of 0.75% of 40 kg?",
+        "options_en": [
+            "30 kg",
+            "0.3 kg",
+            "3 kg",
+            "26 kg"
+        ],
+        "explanation_en": "$40 \\times \\frac{0.75}{100} = 0.3$ kg."
+    },
+    {
+        "id": 56,
+        "question": "450 இல் 28% + 280 இல் 45% இன் மதிப்பு",
+        "options": [
+            "152",
+            "155",
+            "252",
+            "225"
+        ],
+        "correct": 2,
+        "explanation": "$(450 \\times 0.28) + (280 \\times 0.45) = 126 + 126 = 252$.",
+        "question_en": "The value of 28% of 450 + 45% of 280 is",
+        "options_en": [
+            "152",
+            "155",
+            "252",
+            "225"
+        ],
+        "explanation_en": "$(450 \\times 0.28) + (280 \\times 0.45) = 126 + 126 = 252$."
+    },
+    {
+        "id": 57,
+        "question": "5 இன் 10% மற்றும் 10 இன் 5% ஆகியவற்றின் கூடுதல்",
+        "options": [
+            "0.10",
+            "0.25",
+            "1.0",
+            "2.5"
+        ],
+        "correct": 2,
+        "explanation": "5 இன் 10% = 0.5. 10 இன் 5% = 0.5. இவற்றின் கூடுதல் = $0.5 + 0.5 = 1.0$.",
+        "question_en": "The sum of 10% of 5 and 5% of 10 is",
+        "options_en": [
+            "0.10",
+            "0.25",
+            "1.0",
+            "2.5"
+        ],
+        "explanation_en": "10% of 5 = 0.5. 5% of 10 = 0.5. Sum = $0.5 + 0.5 = 1.0$."
+    },
+    {
+        "id": 58,
+        "question": "x இன் 10% மும் y இன் 20% மும் இரண்டு என்ற சமமான மதிப்பைப் பெற்றுள்ளன எனில், x - y இன் மதிப்பு?",
+        "options": [
+            "1",
+            "2",
+            "5",
+            "10"
+        ],
+        "correct": 3,
+        "explanation": "$0.1x = 2 \\implies x = 20$. $0.2y = 2 \\implies y = 10$. எனவே $x - y = 20 - 10 = 10$.",
+        "question_en": "If 10% of x and 20% of y both have an equal value of 2, then the value of x - y is?",
+        "options_en": [
+            "1",
+            "2",
+            "5",
+            "10"
+        ],
+        "explanation_en": "$0.1x = 2 \\implies x = 20$. $0.2y = 2 \\implies y = 10$. Therefore, $x - y = 20 - 10 = 10$."
+    },
+    {
+        "id": 59,
+        "question": "400 இல் 8% - 800 இல் 4% + 500 இல் 1%?",
+        "options": [
+            "10",
+            "20",
+            "4",
+            "5"
+        ],
+        "correct": 3,
+        "explanation": "$32 - 32 + 5 = 5$.",
+        "question_en": "8% of 400 - 4% of 800 + 1% of 500?",
+        "options_en": [
+            "10",
+            "20",
+            "4",
+            "5"
+        ],
+        "explanation_en": "$32 - 32 + 5 = 5$."
+    },
+    {
+        "id": 60,
+        "question": "₹1000 இல் 5% இல் 5% என்பது ஆகும்.",
+        "options": [
+            "₹0.25",
+            "₹2.5",
+            "₹250",
+            "₹25"
+        ],
+        "correct": 1,
+        "explanation": "$1000 \\times 0.05 \\times 0.05 = 50 \\times 0.05 = 2.5$.",
+        "question_en": "5% of 5% of ₹1000 is",
+        "options_en": [
+            "₹0.25",
+            "₹2.5",
+            "₹250",
+            "₹25"
+        ],
+        "explanation_en": "$1000 \\times 0.05 \\times 0.05 = 50 \\times 0.05 = 2.5$."
+    },
+    {
+        "id": 61,
+        "question": "X இன் 56% ஆனது 182 எனில், X ஐக் காண்க.",
+        "options": [
+            "330",
+            "364",
+            "325",
+            "350"
+        ],
+        "correct": 2,
+        "explanation": "$X \\times \\frac{56}{100} = 182 \\implies X = 182 \\times \\frac{100}{56} = 325$.",
+        "question_en": "If 56% of X is 182, find X.",
+        "options_en": [
+            "330",
+            "364",
+            "325",
+            "350"
+        ],
+        "explanation_en": "$X \\times \\frac{56}{100} = 182 \\implies X = 182 \\times \\frac{100}{56} = 325$."
+    },
+    {
+        "id": 62,
+        "question": "50 மணிகளில் 15 மணிகள் பழுப்பு நிறம் எனில், பழுப்பு நிற மணிகளின் சதவீதம் என்ன?",
+        "options": [
+            "30%",
+            "15%",
+            "65%",
+            "35%"
+        ],
+        "correct": 0,
+        "explanation": "$\\frac{15}{50} \\times 100 = 30\\%$.",
+        "question_en": "If 15 out of 50 beads are brown, what is the percentage of brown beads?",
+        "options_en": [
+            "30%",
+            "15%",
+            "65%",
+            "35%"
+        ],
+        "explanation_en": "$\\frac{15}{50} \\times 100 = 30\\%$."
+    },
+    {
+        "id": 63,
+        "question": "ஆடித்தள்ளுபடியில் ஒரு சட்டையின் விலை ₹90 இலிருந்து ₹50 ஆகக் குறைந்தால், குறைவின் சதவீதம் என்ன?",
+        "options": [
+            "44%",
+            "$44\\frac{4}{9}\\%$",
+            "45%",
+            "46%"
+        ],
+        "correct": 1,
+        "explanation": "விலைக்குறைவு = $90 - 50 = 40$. சதவீதம் = $\\frac{40}{90} \\times 100 = \\frac{400}{9} = 44\\frac{4}{9}\\%$.",
+        "question_en": "If the price of a shirt decreases from ₹90 to ₹50 during an Aadi sale, what is the percentage of decrease?",
+        "options_en": [
+            "44%",
+            "$44\\frac{4}{9}\\%$",
+            "45%",
+            "46%"
+        ],
+        "explanation_en": "Decrease = $90 - 50 = 40$. Percentage = $\\frac{40}{90} \\times 100 = \\frac{400}{9} = 44\\frac{4}{9}\\% $."
+    },
+    {
+        "id": 64,
+        "question": "ஒரு நகரத்தில் கல்வியறிவு பெற்றவர்கள் 5 இலட்சத்திலிருந்து 8 இலட்சமாக அதிகரித்தால், அதிகரிப்பின் சதவீதம் என்ன?",
+        "options": [
+            "30%",
+            "40%",
+            "60%",
+            "37.5%"
+        ],
+        "correct": 2,
+        "explanation": "அதிகரிப்பு = $8 - 5 = 3$ இலட்சம். சதவீதம் = $\\frac{3}{5} \\times 100 = 60\\%$.",
+        "question_en": "If the number of literate people in a city increases from 5 lakhs to 8 lakhs, what is the percentage of increase?",
+        "options_en": [
+            "30%",
+            "40%",
+            "60%",
+            "37.5%"
+        ],
+        "explanation_en": "Increase = $8 - 5 = 3$ lakhs. Percentage = $\\frac{3}{5} \\times 100 = 60\\%$."
+    },
+    {
+        "id": 65,
+        "question": "ஒரு தண்ணீர் தொட்டியில் தண்ணீரின் அளவு 2 நிமிடத்தில் 35 லிட்டரிலிருந்து 50 லிட்டராக அதிகரிக்கிறது எனில், அதிகரித்த சதவீதம் என்ன?",
+        "options": [
+            "$42\\frac{6}{7}\\%$",
+            "$47\\frac{6}{7}\\%$",
+            "$43\\frac{1}{4}\\%$",
+            "$45\\frac{1}{7}\\%$"
+        ],
+        "correct": 0,
+        "explanation": "அதிகரிப்பு = $50 - 35 = 15$ லிட்டர். சதவீதம் = $\\frac{15}{35} \\times 100 = \\frac{3}{7} \\times 100 = \\frac{300}{7} = 42\\frac{6}{7}\\%$.",
+        "question_en": "If the amount of water in a tank increases from 35 liters to 50 liters in 2 minutes, what is the percentage of increase?",
+        "options_en": [
+            "$42\\frac{6}{7}\\%$",
+            "$47\\frac{6}{7}\\%$",
+            "$43\\frac{1}{4}\\%$",
+            "$45\\frac{1}{7}\\%$"
+        ],
+        "explanation_en": "Increase = $50 - 35 = 15$ liters. Percentage = $\\frac{15}{35} \\times 100 = \\frac{3}{7} \\times 100 = \\frac{300}{7} = 42\\frac{6}{7}\\% $."
+    },
+    {
+        "id": 66,
+        "question": "ஒரு பொருள் 4% நட்டத்திற்கு விற்கப்பட்டால், அப்பொருளின் அடக்கவிலை என்ன?",
+        "options": [
+            "100%",
+            "96%",
+            "104%",
+            "4%"
+        ],
+        "correct": 0,
+        "explanation": "எப்போதும் ஒரு பொருளின் அடக்கவிலை 100% ஆகக் கருதப்படும்.",
+        "question_en": "If an item is sold at a 4% loss, what represents its cost price?",
+        "options_en": [
+            "100%",
+            "96%",
+            "104%",
+            "4%"
+        ],
+        "explanation_en": "The cost price of an item is always considered to be 100%."
+    },
+    {
+        "id": 67,
+        "question": "சத்யா ஒரு பொருளை ₹80 இக்கு வாங்கி ₹100 இக்கு விற்கிறார் எனில் இலாப சதவீதம் எவ்வளவு?",
+        "options": [
+            "20%",
+            "25%",
+            "40%",
+            "125%"
+        ],
+        "correct": 1,
+        "explanation": "இலாபம் = $100 - 80 = 20$. இலாப சதவீதம் = $\\frac{20}{80} \\times 100 = 25\\%$.",
+        "question_en": "If Sathya buys an item for ₹80 and sells it for ₹100, what is the profit percentage?",
+        "options_en": [
+            "20%",
+            "25%",
+            "40%",
+            "125%"
+        ],
+        "explanation_en": "Profit = $100 - 80 = 20$. Profit percentage = $\\frac{20}{80} \\times 100 = 25\\%$."
+    },
+    {
+        "id": 68,
+        "question": "காவ்யா ஒரு பொருளை ₹120 இக்கு வாங்கி ₹100 இக்கு விற்கிறார் எனில் நட்ட சதவீதம் எவ்வளவு?",
+        "options": [
+            "10%",
+            "20%",
+            "25%",
+            "$16\\frac{2}{3}\\%$"
+        ],
+        "correct": 3,
+        "explanation": "நட்டம் = $120 - 100 = 20$. நட்ட சதவீதம் = $\\frac{20}{120} \\times 100 = \\frac{100}{6} = 16\\frac{2}{3}\\%$.",
+        "question_en": "If Kavya buys an item for ₹120 and sells it for ₹100, what is the loss percentage?",
+        "options_en": [
+            "10%",
+            "20%",
+            "25%",
+            "$16\\frac{2}{3}\\%$"
+        ],
+        "explanation_en": "Loss = $120 - 100 = 20$. Loss percentage = $\\frac{20}{120} \\times 100 = \\frac{100}{6} = 16\\frac{2}{3}\\% $."
+    },
+    {
+        "id": 69,
+        "question": "ஒரு கடைக்காரர் நாற்காலியை ₹325 இக்கு வாங்கி ₹350 இக்கு விற்பனை செய்கிறார் எனில், இலாப சதவீதம் என்ன?",
+        "options": [
+            "7%",
+            "$7\\frac{9}{13}\\%$",
+            "$8\\frac{9}{13}\\%$",
+            "$13\\frac{7}{9}\\%$"
+        ],
+        "correct": 1,
+        "explanation": "இலாபம் = $350 - 325 = 25$. இலாப சதவீதம் = $\\frac{25}{325} \\times 100 = \\frac{100}{13} = 7\\frac{9}{13}\\%$.",
+        "question_en": "If a shopkeeper buys a chair for ₹325 and sells it for ₹350, what is the profit percentage?",
+        "options_en": [
+            "7%",
+            "$7\\frac{9}{13}\\%$",
+            "$8\\frac{9}{13}\\%$",
+            "$13\\frac{7}{9}\\%$"
+        ],
+        "explanation_en": "Profit = $350 - 325 = 25$. Profit percentage = $\\frac{25}{325} \\times 100 = \\frac{100}{13} = 7\\frac{9}{13}\\% $."
+    },
+    {
+        "id": 70,
+        "question": "ஒரு சட்டை ₹110 இக்கு வாங்கப்பட்டு ₹90 க்கு விற்கப்படுகிறது எனில், நட்ட சதவீதம் என்ன?",
+        "options": [
+            "$11\\frac{2}{18}\\%$",
+            "$18\\frac{2}{11}\\%$",
+            "$11\\frac{2}{11}\\%$",
+            "$18\\frac{1}{4}\\%$"
+        ],
+        "correct": 1,
+        "explanation": "நட்டம் = $110 - 90 = 20$. நட்ட சதவீதம் = $\\frac{20}{110} \\times 100 = \\frac{200}{11} = 18\\frac{2}{11}\\%$.",
+        "question_en": "If a shirt is bought for ₹110 and sold for ₹90, what is the loss percentage?",
+        "options_en": [
+            "$11\\frac{2}{18}\\%$",
+            "$18\\frac{2}{11}\\%$",
+            "$11\\frac{2}{11}\\%$",
+            "$18\\frac{1}{4}\\%$"
+        ],
+        "explanation_en": "Loss = $110 - 90 = 20$. Loss percentage = $\\frac{20}{110} \\times 100 = \\frac{200}{11} = 18\\frac{2}{11}\\% $."
+    },
+    {
+        "id": 71,
+        "question": "₹2500 இன் a% + ₹680 இன் 25% = ₹670 எனில் a இன் மதிப்பு என்ன?",
+        "options": [
+            "20",
+            "10",
+            "12",
+            "122"
+        ],
+        "correct": 0,
+        "explanation": "$2500 \\times \\frac{a}{100} + 680 \\times \\frac{25}{100} = 670 \\implies 25a + 170 = 670 \\implies 25a = 500 \\implies a = 20$.",
+        "question_en": "If a% of ₹2500 + 25% of ₹680 = ₹670, what is the value of a?",
+        "options_en": [
+            "20",
+            "10",
+            "12",
+            "122"
+        ],
+        "explanation_en": "$2500 \\times \\frac{a}{100} + 680 \\times \\frac{25}{100} = 670 \\implies 25a + 170 = 670 \\implies 25a = 500 \\implies a = 20$."
+    },
+    {
+        "id": 72,
+        "question": "திங்களன்று ஒரு கோழிக்கூட்டில் 10 முட்டைகள் இருந்தன. செவ்வாயன்று 16 முட்டைகள் இருக்கின்றன எனில், எண்ணிக்கையில் ஏற்பட்ட மாற்றத்தைச் சதவீதத்தில் கூறுக",
+        "options": [
+            "60% உயர்வு",
+            "62.5% உயர்வு",
+            "16% குறைவு",
+            "1.6% உயர்வு"
+        ],
+        "correct": 0,
+        "explanation": "மாற்றம் = $16 - 10 = 6$. சதவீத உயர்வு = $\\frac{6}{10} \\times 100 = 60\\%$.",
+        "question_en": "On Monday, there were 10 eggs in a coop. On Tuesday, there are 16 eggs. State the change in number as a percentage.",
+        "options_en": [
+            "60% increase",
+            "62.5% increase",
+            "16% decrease",
+            "1.6% increase"
+        ],
+        "explanation_en": "Change = $16 - 10 = 6$. Percentage increase = $\\frac{6}{10} \\times 100 = 60\\%$."
+    },
+    {
+        "id": 73,
+        "question": "ஒரு சோடிக் காலணியின் விலை ₹250. திருவிழா சலுகையில் ₹175 ஆகக் குறைக்கப்பட்டால், விலையில் ஏற்பட்ட மாற்றத்தைச் சதவீதத்தில் கூறுக.",
+        "options": [
+            "30%",
+            "43%",
+            "30% உயர்வு",
+            "43% உயர்வு"
+        ],
+        "correct": 0,
+        "explanation": "விலைக்குறைவு = $250 - 175 = 75$. சதவீத மாற்றம் = $\\frac{75}{250} \\times 100 = 30\\%$ குறைவு.",
+        "question_en": "The price of a pair of shoes is ₹250. If it is reduced to ₹175 during a festival offer, express the change in price as a percentage.",
+        "options_en": [
+            "30%",
+            "43%",
+            "30% increase",
+            "43% increase"
+        ],
+        "explanation_en": "Price decrease = $250 - 175 = 75$. Percentage change = $\\frac{75}{250} \\times 100 = 30\\%$ decrease."
+    },
+    {
+        "id": 74,
+        "question": "சந்தியா 20% தள்ளுபடியுடன் ஒரு ரெயின்கோட்டை வாங்கி ₹25 ஐச் சேமித்தார் எனில், ரெயின்கோட்டின் அசல் விலை என்ன?",
+        "options": [
+            "₹120",
+            "₹125",
+            "₹45",
+            "₹150"
+        ],
+        "correct": 1,
+        "explanation": "20% தள்ளுபடி என்பது ₹25. எனவே 100% = $25 \\times \\frac{100}{20} = 125$. அசல் விலை ₹125.",
+        "question_en": "Sandhya bought a raincoat with a 20% discount and saved ₹25. What is the original price of the raincoat?",
+        "options_en": [
+            "₹120",
+            "₹125",
+            "₹45",
+            "₹150"
+        ],
+        "explanation_en": "20% discount corresponds to ₹25. Therefore, 100% = $25 \\times \\frac{100}{20} = 125$. The original price is ₹125."
+    },
+    {
+        "id": 75,
+        "question": "ஓர் உலோகக்கலவை 26% தாமிரத்தைக் கொண்டுள்ளது. 260 கி தாமிரத்தைப் பெற எத்தனை கிராம் உலோகக்கலவை தேவைப்படுகிறது?",
+        "options": [
+            "1600",
+            "2600",
+            "750",
+            "1000"
+        ],
+        "correct": 3,
+        "explanation": "$x \\times \\frac{26}{100} = 260 \\implies x = 260 \\times \\frac{100}{26} = 1000$ கி.",
+        "question_en": "An alloy contains 26% copper. How many grams of the alloy are required to get 260 g of copper?",
+        "options_en": [
+            "1600",
+            "2600",
+            "750",
+            "1000"
+        ],
+        "explanation_en": "$x \\times \\frac{26}{100} = 260 \\implies x = 260 \\times \\frac{100}{26} = 1000$ g."
+    },
+    {
+        "id": 76,
+        "question": "சஞ்சீவி என்பவர் ஒரு சோடிக் காலணிகளைக் கடைக்காரர் கூறிய விலையில் 25% விலையில் வாங்கினார். அவர் செலுத்திய தொகை ₹1000 எனில் கடைக்காரர் கூறிய விலையைக் காண்க.",
+        "options": [
+            "₹1025",
+            "₹1250",
+            "₹1750",
+            "₹4000"
+        ],
+        "correct": 3,
+        "explanation": "$x \\times \\frac{25}{100} = 1000 \\implies x = 1000 \\times \\frac{100}{25} = 4000$.",
+        "question_en": "Sanjeevi bought a pair of shoes at 25% of the price quoted by the shopkeeper. If the amount he paid was ₹1000, find the price quoted by the shopkeeper.",
+        "options_en": [
+            "₹1025",
+            "₹1250",
+            "₹1750",
+            "₹4000"
+        ],
+        "explanation_en": "$x \\times \\frac{25}{100} = 1000 \\implies x = 1000 \\times \\frac{100}{25} = 4000$."
+    },
+    {
+        "id": 77,
+        "question": "ஒரு காப்பீட்டு நிறுவனத்தின் முகவர் ₹4800 பிரிமீயத்தில் 5% தரகாகப் பெற்றால், தரகுத்தொகை எவ்வளவு?",
+        "options": [
+            "₹240",
+            "₹2400",
+            "₹480",
+            "₹360"
+        ],
+        "correct": 0,
+        "explanation": "$4800 \\times \\frac{5}{100} = 240$.",
+        "question_en": "If an insurance company agent receives 5% as commission on a premium of ₹4800, what is the commission amount?",
+        "options_en": [
+            "₹240",
+            "₹2400",
+            "₹480",
+            "₹360"
+        ],
+        "explanation_en": "$4800 \\times \\frac{5}{100} = 240$."
+    },
+    {
+        "id": 78,
+        "question": "சுரேந்தர் என்பவர் ஆங்கிலத்தில் 25 இக்கு 20 மதிப்பெண்களும், அறிவியல் பாடத்தில் 40 இக்கு 30 மதிப்பெண்களும், கணிதத்தில் 80 இக்கு 68 மதிப்பெண்களும் பெற்றால், அவர் எந்த பாடத்தில் அதிக சதவீதம் பெற்றுள்ளார்?",
+        "options": [
+            "ஆங்கிலம்",
+            "அறிவியல்",
+            "கணிதம்",
+            "மூன்றிலும் சமம்"
+        ],
+        "correct": 2,
+        "explanation": "ஆங்கிலம்: $\\frac{20}{25} = 80\\%$. அறிவியல்: $\\frac{30}{40} = 75\\%$. கணிதம்: $\\frac{68}{80} = 85\\%$. கணிதத்தில் அதிக சதவீதம் பெற்றுள்ளார்.",
+        "question_en": "Surendar scored 20 out of 25 marks in English, 30 out of 40 in Science, and 68 out of 80 in Mathematics. In which subject did he score the highest percentage?",
+        "options_en": [
+            "English",
+            "Science",
+            "Mathematics",
+            "Equal in all three"
+        ],
+        "explanation_en": "English: $\\frac{20}{25} = 80\\%$. Science: $\\frac{30}{40} = 75\\%$. Math: $\\frac{68}{80} = 85\\%$. He scored the highest percentage in Mathematics."
+    },
+    {
+        "id": 79,
+        "question": "பிரபாவதி என்பவர் 500 இக்கு 225 மதிப்பெண்களும் அடுத்த தேர்வில் 500 இக்கு 260 மதிப்பெண்களும் பெற்றார் எனில், அவரது மதிப்பெண் அதிகரிப்பின் சதவீதத்தைக் காண்க.",
+        "options": [
+            "52%",
+            "45%",
+            "8%",
+            "7%"
+        ],
+        "correct": 3,
+        "explanation": "முதல் தேர்வில் சதவீதம் = $\\frac{225}{500} \\times 100 = 45\\%$. இரண்டாம் தேர்வில் சதவீதம் = $\\frac{260}{500} \\times 100 = 52\\%$. மதிப்பெண் அதிகரிப்பு சதவீதம் = $52\\% - 45\\% = 7\\%$.",
+        "question_en": "Prabhavathi scored 225 marks out of 500 and in the next exam scored 260 marks out of 500. Find the percentage of increase in her marks.",
+        "options_en": [
+            "52%",
+            "45%",
+            "8%",
+            "7%"
+        ],
+        "explanation_en": "Percentage in first exam = $\\frac{225}{500} \\times 100 = 45\\%$. Percentage in second exam = $\\frac{260}{500} \\times 100 = 52\\%$. Percentage increase = $52\\% - 45\\% = 7\\%$."
+    },
+    {
+        "id": 80,
+        "question": "8 லி. கரைசலில் 20% தூய அமிலம் உள்ளது எனில், கரைசலில் உள்ள அமிலத்தின் அளவு _____ லிட்டர்.",
+        "options": [
+            "1.4",
+            "1.5",
+            "1.6",
+            "2.4"
+        ],
+        "correct": 2,
+        "explanation": "$8 \\times \\frac{20}{100} = 1.6$ லிட்டர்.",
+        "question_en": "If an 8L solution contains 20% pure acid, the amount of acid in the solution is _____ liters.",
+        "options_en": [
+            "1.4",
+            "1.5",
+            "1.6",
+            "2.4"
+        ],
+        "explanation_en": "$8 \\times \\frac{20}{100} = 1.6$ liters."
+    },
+    {
+        "id": 81,
+        "question": "ஒரு வகுப்பில் 40% பேர் ஆண்கள் மற்றும் 24 பேர் பெண்கள் எனில், அவ்வகுப்பில் மொத்தம் எத்தனை பேர்?",
+        "options": [
+            "64",
+            "40",
+            "24",
+            "48"
+        ],
+        "correct": 1,
+        "explanation": "பெண்கள் $100\\% - 40\\% = 60\\%$. $60\\% = 24$ எனில், $100\\% = 24 \\times \\frac{100}{60} = 40$.",
+        "question_en": "If a class has 40% boys and 24 girls, what is the total number of students in the class?",
+        "options_en": [
+            "64",
+            "40",
+            "24",
+            "48"
+        ],
+        "explanation_en": "Girls make up $100\\% - 40\\% = 60\\%$. If $60\\% = 24$, then $100\\% = 24 \\times \\frac{100}{60} = 40$."
+    },
+    {
+        "id": 82,
+        "question": "ஓர் எண்ணை 20% குறைத்தால் 80 கிடைக்கிறது எனில், அந்த எண் என்ன?",
+        "options": [
+            "40",
+            "60",
+            "100",
+            "120"
+        ],
+        "correct": 2,
+        "explanation": "20% குறைத்தால் 80% ஆகிறது. $x \\times 80\\% = 80 \\implies x = 100$.",
+        "question_en": "If a number is decreased by 20%, it becomes 80. What is the number?",
+        "options_en": [
+            "40",
+            "60",
+            "100",
+            "120"
+        ],
+        "explanation_en": "Decreasing by 20% gives 80% of the number. $x \\times 80\\% = 80 \\implies x = 100$."
+    },
+    {
+        "id": 83,
+        "question": "A = y இல் x% மற்றும் B = x இல் y% எனில், பின்வருவனவற்றில் எது சரி?",
+        "options": [
+            "$A<B$",
+            "$A>B$",
+            "$A=B$",
+            "$A \\neq B$"
+        ],
+        "correct": 2,
+        "explanation": "$A = y \\times \\frac{x}{100} = \\frac{xy}{100}$. $B = x \\times \\frac{y}{100} = \\frac{xy}{100}$. எனவே $A = B$.",
+        "question_en": "If A = x% of y and B = y% of x, which of the following is correct?",
+        "options_en": [
+            "$A<B$",
+            "$A>B$",
+            "$A=B$",
+            "$A \\neq B$"
+        ],
+        "explanation_en": "$A = y \\times \\frac{x}{100} = \\frac{xy}{100}$. $B = x \\times \\frac{y}{100} = \\frac{xy}{100}$. Therefore, $A = B$."
+    },
+    {
+        "id": 84,
+        "question": "x இன் y% ஆனது 50 மற்றும் y இன் z% ஆனது 25 எனில், x க்கும் z க்கும் இடையே உள்ள தொடர்பு",
+        "options": [
+            "$x=2z$",
+            "$z=2x$",
+            "$x=4z$",
+            "$z=4x$"
+        ],
+        "correct": 0,
+        "explanation": "$x \\times \\frac{y}{100} = 50 \\implies xy = 5000$. $y \\times \\frac{z}{100} = 25 \\implies yz = 2500$. வகுத்தால், $\\frac{xy}{yz} = \\frac{5000}{2500} \\implies \\frac{x}{z} = 2 \\implies x = 2z$.",
+        "question_en": "If y% of x is 50 and z% of y is 25, then the relationship between x and z is",
+        "options_en": [
+            "$x=2z$",
+            "$z=2x$",
+            "$x=4z$",
+            "$z=4x$"
+        ],
+        "explanation_en": "$x \\times \\frac{y}{100} = 50 \\implies xy = 5000$. $y \\times \\frac{z}{100} = 25 \\implies yz = 2500$. Dividing them, $\\frac{xy}{yz} = \\frac{5000}{2500} \\implies \\frac{x}{z} = 2 \\implies x = 2z$."
+    },
+    {
+        "id": 85,
+        "question": "y இன் x% ஆனது 100 மற்றும் z இன் y% ஆனது 200 எனில், x க்கும் z க்கும் இடையே உள்ள தொடர்பு",
+        "options": [
+            "$z=4x$",
+            "$z=\\frac{x}{2}$",
+            "$z=\\frac{x}{4}$",
+            "$z=2x$"
+        ],
+        "correct": 3,
+        "explanation": "$y \\times \\frac{x}{100} = 100 \\implies xy = 10000$. $z \\times \\frac{y}{100} = 200 \\implies zy = 20000$. $\\frac{zy}{xy} = \\frac{20000}{10000} \\implies \\frac{z}{x} = 2 \\implies z = 2x$.",
+        "question_en": "If x% of y is 100 and y% of z is 200, then the relationship between x and z is",
+        "options_en": [
+            "$z=4x$",
+            "$z=\\frac{x}{2}$",
+            "$z=\\frac{x}{4}$",
+            "$z=2x$"
+        ],
+        "explanation_en": "$y \\times \\frac{x}{100} = 100 \\implies xy = 10000$. $z \\times \\frac{y}{100} = 200 \\implies zy = 20000$. $\\frac{zy}{xy} = \\frac{20000}{10000} \\implies \\frac{z}{x} = 2 \\implies z = 2x$."
+    },
+    {
+        "id": 86,
+        "question": "2010 இல் ஒரு நகரத்தின் மக்கள்தொகை 1,50,000. அடுத்த ஆண்டில் அது 10% அதிகரித்தால், 2011 இல் மக்கள்தொகையைக் காண்க.",
+        "options": [
+            "2,00,000",
+            "1,80,000",
+            "1,65,000",
+            "1,75,000"
+        ],
+        "correct": 2,
+        "explanation": "அதிகரிப்பு = $1,50,000 \\times \\frac{10}{100} = 15,000$. புதிய மக்கள்தொகை = $1,50,000 + 15,000 = 1,65,000$.",
+        "question_en": "In 2010, the population of a town was 1,50,000. If it increased by 10% in the next year, find the population in 2011.",
+        "options_en": [
+            "2,00,000",
+            "1,80,000",
+            "1,65,000",
+            "1,75,000"
+        ],
+        "explanation_en": "Increase = $1,50,000 \\times \\frac{10}{100} = 15,000$. New population = $1,50,000 + 15,000 = 1,65,000$."
+    },
+    {
+        "id": 87,
+        "question": "2021 இல் ஒரு நகரத்தின் மக்கள்தொகை 2,25,000. அடுத்த ஆண்டில் அது 12% அதிகரிக்குமானால், 2022 இல் மக்கள்தொகையைக் காண்க.",
+        "options": [
+            "2,52,000",
+            "2,50,000",
+            "2,47,000",
+            "2,52,500"
+        ],
+        "correct": 0,
+        "explanation": "அதிகரிப்பு = $2,25,000 \\times \\frac{12}{100} = 27,000$. புதிய மக்கள்தொகை = $2,25,000 + 27,000 = 2,52,000$.",
+        "question_en": "In 2021, the population of a town was 2,25,000. If it increased by 12% in the next year, find the population in 2022.",
+        "options_en": [
+            "2,52,000",
+            "2,50,000",
+            "2,47,000",
+            "2,52,500"
+        ],
+        "explanation_en": "Increase = $2,25,000 \\times \\frac{12}{100} = 27,000$. New population = $2,25,000 + 27,000 = 2,52,000$."
+    },
+    {
+        "id": 88,
+        "question": "ஒரு செவ்வகத்தின் நீளமும் அகலமும் 10% அதிகரிக்கிறது எனில், அதன் பரப்பளவு எவ்வளவு அதிகரிக்கும்?",
+        "options": [
+            "10%",
+            "100%",
+            "20%",
+            "21%"
+        ],
+        "correct": 3,
+        "explanation": "பரப்பளவு மாற்றம் = $(x + y + \\frac{xy}{100})\\% = 10 + 10 + \\frac{100}{100} = 21\\%$.",
+        "question_en": "If the length and breadth of a rectangle are each increased by 10%, by what percentage does its area increase?",
+        "options_en": [
+            "10%",
+            "100%",
+            "20%",
+            "21%"
+        ],
+        "explanation_en": "Area change = $(x + y + \\frac{xy}{100})\\% = 10 + 10 + \\frac{100}{100} = 21\\%$."
+    },
+    {
+        "id": 89,
+        "question": "ஒரு சதுரத்தின் அனைத்துப் பக்கங்களும் 10% அதிகரிக்கிறது எனில், அதன் பரப்பளவு எவ்வளவு அதிகரிக்கும்?",
+        "options": [
+            "10%",
+            "100%",
+            "20%",
+            "21%"
+        ],
+        "correct": 3,
+        "explanation": "சதுரத்தின் பரப்பளவு மாற்றம் = $(x + y + \\frac{xy}{100})\\%$. இங்கு $x = y = 10$. மாற்றம் = $10 + 10 + \\frac{100}{100} = 21\\%$.",
+        "question_en": "If all sides of a square are increased by 10%, by what percentage does its area increase?",
+        "options_en": [
+            "10%",
+            "100%",
+            "20%",
+            "21%"
+        ],
+        "explanation_en": "Area change formula is $(x + y + \\frac{xy}{100})\\%$. For a square, $x = y = 10$. Change = $10 + 10 + \\frac{100}{100} = 21\\%$."
+    },
+    {
+        "id": 90,
+        "question": "ஒரு செவ்வகத்தின் நீளம் மற்றும் அகலம் ஆகியன முறையே 20% மற்றும் 25% அதிகரிக்கிறது எனில், அதன் பரப்பளவு எவ்வளவு அதிகரிக்கும்?",
+        "options": [
+            "50%",
+            "45%",
+            "22.5%",
+            "500%"
+        ],
+        "correct": 0,
+        "explanation": "பரப்பளவு மாற்றம் = $20 + 25 + \\frac{20 \\times 25}{100} = 45 + 5 = 50\\%$.",
+        "question_en": "If the length and breadth of a rectangle are increased by 20% and 25% respectively, by what percentage does its area increase?",
+        "options_en": [
+            "50%",
+            "45%",
+            "22.5%",
+            "500%"
+        ],
+        "explanation_en": "Area change = $20 + 25 + \\frac{20 \\times 25}{100} = 45 + 5 = 50\\%$."
+    },
+    {
+        "id": 91,
+        "question": "ஓர் எண்ணின் 75% உடன் 75 ஐக் கூட்டும் போது அதே எண் கிடைக்கிறது எனில், அந்த எண் என்ன?",
+        "options": [
+            "50",
+            "60",
+            "300",
+            "400"
+        ],
+        "correct": 2,
+        "explanation": "$75\\% \\times x + 75 = x \\implies 75 = x - 0.75x = 0.25x \\implies x = \\frac{75}{0.25} = 300$.",
+        "question_en": "When 75 is added to 75% of a number, the result is the same number. What is the number?",
+        "options_en": [
+            "50",
+            "60",
+            "300",
+            "400"
+        ],
+        "explanation_en": "$75\\% \\times x + 75 = x \\implies 75 = x - 0.75x = 0.25x \\implies x = \\frac{75}{0.25} = 300$."
+    },
+    {
+        "id": 92,
+        "question": "$225\\% = ?$",
+        "options": [
+            "2:3",
+            "3:2",
+            "4:9",
+            "9:4"
+        ],
+        "correct": 3,
+        "explanation": "$225\\% = \\frac{225}{100} = \\frac{9}{4} = 9:4$.",
+        "question_en": "$225\\% = ?$",
+        "options_en": [
+            "2:3",
+            "3:2",
+            "4:9",
+            "9:4"
+        ],
+        "explanation_en": "$225\\% = \\frac{225}{100} = \\frac{9}{4} = 9:4$."
+    },
+    {
+        "id": 93,
+        "question": "கௌதம் என்பவரின் ஊதியத்திற்கும், சேமிப்பிற்கும் இடையேயான விகிதம் 4:1 எனில், அவரது சேமிப்பு சதவீதத்தைக் கூறுக.",
+        "options": [
+            "25%",
+            "50%",
+            "20%",
+            "15%"
+        ],
+        "correct": 0,
+        "explanation": "ஊதியம் = 4 பங்கு. சேமிப்பு = 1 பங்கு. சேமிப்பு சதவீதம் = $\\frac{1}{4} \\times 100 = 25\\%$.",
+        "question_en": "The ratio of Gautham's salary to his savings is 4:1. State his savings percentage.",
+        "options_en": [
+            "25%",
+            "50%",
+            "20%",
+            "15%"
+        ],
+        "explanation_en": "Salary = 4 parts. Savings = 1 part. Savings percentage = $\\frac{1}{4} \\times 100 = 25\\%$."
+    },
+    {
+        "id": 94,
+        "question": "1 பங்கு உளுந்துமாவுடன் 4 பங்கு அரிசி மாவைக் கலந்து தோசை தயாரிக்கப்படுகிறது எனில், அரிசி மற்றும் உளுந்து மாவின் சதவீதம் என்ன?",
+        "options": [
+            "80% & 20%",
+            "4% & 1%",
+            "20% & 80%",
+            "75% & 25%"
+        ],
+        "correct": 0,
+        "explanation": "மொத்தப் பங்கு = $1 + 4 = 5$. அரிசியின் சதவீதம் = $\\frac{4}{5} \\times 100 = 80\\%$. உளுந்தின் சதவீதம் = $\\frac{1}{5} \\times 100 = 20\\%$.",
+        "question_en": "Dosa batter is prepared by mixing 1 part of urad dal flour with 4 parts of rice flour. What is the percentage of rice and urad dal flour respectively?",
+        "options_en": [
+            "80% & 20%",
+            "4% & 1%",
+            "20% & 80%",
+            "75% & 25%"
+        ],
+        "explanation_en": "Total parts = $1 + 4 = 5$. Rice percentage = $\\frac{4}{5} \\times 100 = 80\\%$. Urad dal percentage = $\\frac{1}{5} \\times 100 = 20\\%$."
+    },
+    {
+        "id": 95,
+        "question": "சௌமியாவின் மாதச் சம்பளம் ₹18000. தனது சம்பளத்தில் முறையே கல்வி, சேமிப்பு மற்றும் பிற செலவினங்களுக்கு 2:1:3 என்ற விகிதத்தில் செலவு செய்கிறார் எனில், அவரது கல்வி செலவைச் சதவீதமாகக் கூறுக.",
+        "options": [
+            "$33\\frac{1}{3}\\%$",
+            "$16\\frac{2}{3}\\%$",
+            "50%",
+            "60%"
+        ],
+        "correct": 0,
+        "explanation": "மொத்தப் பங்கு = $2 + 1 + 3 = 6$. கல்விக்கான பங்கு 2. கல்வி செலவு சதவீதம் = $\\frac{2}{6} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%$.",
+        "question_en": "Sowmya's monthly salary is ₹18000. She spends it on education, savings, and other expenses in the ratio 2:1:3 respectively. State her education expense as a percentage.",
+        "options_en": [
+            "$33\\frac{1}{3}\\%$",
+            "$16\\frac{2}{3}\\%$",
+            "50%",
+            "60%"
+        ],
+        "explanation_en": "Total parts = $2 + 1 + 3 = 6$. Share for education is 2. Education percentage = $\\frac{2}{6} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%$."
+    },
+    {
+        "id": 96,
+        "question": "திவ்யஸ்ரீ தனது பையிலுள்ள பணத்தில் 40% செலவழித்தது போக மீதம் ₹120 வைத்திருக்கிறாள் எனில், அவள் ஏற்கனவே எவ்வளவு பணம் வைத்திருந்தாள்?",
+        "options": [
+            "₹200",
+            "₹192",
+            "₹168",
+            "₹300"
+        ],
+        "correct": 0,
+        "explanation": "மீதமுள்ள பணம் $100\\% - 40\\% = 60\\%$. $60\\% = 120$ எனில், மொத்தப் பணம் = $\\frac{120}{60} \\times 100 = 200$.",
+        "question_en": "Divyasri spent 40% of the money in her bag and has ₹120 left. How much money did she originally have?",
+        "options_en": [
+            "₹200",
+            "₹192",
+            "₹168",
+            "₹300"
+        ],
+        "explanation_en": "Remaining money is $100\\% - 40\\% = 60\\%$. If $60\\% = 120$, total money = $\\frac{120}{60} \\times 100 = 200$."
+    },
+    {
+        "id": 97,
+        "question": "ஒரு வியாபாரி தன்னிடமிருந்த பழங்களில் 40% விற்ற பின்பும் அவரிடம் 480 பழங்கள் மீதமிருந்தன எனில், அவர் வைத்திருந்த பழங்கள் எத்தனை?",
+        "options": [
+            "440",
+            "700",
+            "520",
+            "800"
+        ],
+        "correct": 3,
+        "explanation": "விற்றது 40%, மீதமுள்ளது 60%. $60\\% = 480$ எனில், $100\\% = 480 \\times \\frac{100}{60} = 800$.",
+        "question_en": "A vendor sold 40% of his fruits and still had 480 fruits left. How many fruits did he have originally?",
+        "options_en": [
+            "440",
+            "700",
+            "520",
+            "800"
+        ],
+        "explanation_en": "Sold 40%, remaining is 60%. If $60\\% = 480$, then $100\\% = 480 \\times \\frac{100}{60} = 800$."
+    },
+    {
+        "id": 98,
+        "question": "கவிதா தனது ஊதியத்தில் 5% ஐ அதாவது ₹2000 ஐப் பொழுது போக்குக்காகச் செலவழிக்கிறாள் எனில், அவள் ஊதியம் எவ்வளவு?",
+        "options": [
+            "₹40000",
+            "₹30000",
+            "₹20000",
+            "₹10000"
+        ],
+        "correct": 0,
+        "explanation": "$5\\% = 2000$ எனில், $100\\% = 2000 \\times \\frac{100}{5} = 40000$.",
+        "question_en": "Kavitha spends 5% of her salary, which is ₹2000, on entertainment. What is her salary?",
+        "options_en": [
+            "₹40000",
+            "₹30000",
+            "₹20000",
+            "₹10000"
+        ],
+        "explanation_en": "If $5\\% = 2000$, then $100\\% = 2000 \\times \\frac{100}{5} = 40000$."
+    },
+    {
+        "id": 99,
+        "question": "ஒரு மின்சாரக் கட்டணத்தில் 20% கழிக்கப்பட்ட பிறகும் ₹100 செலுத்த வேண்டியிருந்தால், அசல் கட்டணத்தைக் காண்க.",
+        "options": [
+            "₹110",
+            "₹100",
+            "₹120",
+            "₹125"
+        ],
+        "correct": 3,
+        "explanation": "20% கழித்த பிறகு கட்டணம் 80% ஆகும். $80\\% = 100$ எனில், $100\\% = 100 \\times \\frac{100}{80} = 125$.",
+        "question_en": "If a bill of ₹100 is still to be paid after a 20% discount on the electricity bill, find the original bill.",
+        "options_en": [
+            "₹110",
+            "₹100",
+            "₹120",
+            "₹125"
+        ],
+        "explanation_en": "After a 20% discount, the bill is 80%. If $80\\% = 100$, then $100\\% = 100 \\times \\frac{100}{80} = 125$."
+    },
+    {
+        "id": 100,
+        "question": "ஒரு மட்டைப்பந்து அணி ஒரு வருடத்தில் 70 போட்டிகளில் வெற்றியும், 28 போட்டிகளில் தோல்வியும், 2 போட்டிகளில் முடிவு ஏதுமில்லை எனவும் இருந்தால், அணியின் வெற்றி சதவீதம் என்ன?",
+        "options": [
+            "70%",
+            "98%",
+            "32%",
+            "30%"
+        ],
+        "correct": 0,
+        "explanation": "மொத்தப் போட்டிகள் = $70 + 28 + 2 = 100$. வெற்றி பெற்ற போட்டிகள் = 70. வெற்றி சதவீதம் = $\\frac{70}{100} \\times 100 = 70\\%$.",
+        "question_en": "If a cricket team had 70 wins, 28 losses, and 2 no-results in a year, what is the team's winning percentage?",
+        "options_en": [
+            "70%",
+            "98%",
+            "32%",
+            "30%"
+        ],
+        "explanation_en": "Total matches = $70 + 28 + 2 = 100$. Won matches = 70. Winning percentage = $\\frac{70}{100} \\times 100 = 70\\%$."
+    },
+    {
+        "id": 101,
+        "question": "கிரிக்கெட் போட்டியின் சென்ற ஆண்டு நுழைவுச் சீட்டின் விலை ₹1500 ஆக இருந்தது. தற்போது அதன் விலை 18% ஆக உயர்ந்தால் நுழைவுச் சீட்டின் விலை எவ்வளவு?",
+        "options": [
+            "₹270",
+            "₹1568",
+            "₹1770",
+            "₹1800"
+        ],
+        "correct": 2,
+        "explanation": "விலை உயர்வு = $1500 \\times \\frac{18}{100} = 270$. புதிய விலை = $1500 + 270 = 1770$.",
+        "question_en": "The ticket price for a cricket match was ₹1500 last year. If its price has increased by 18% now, what is the ticket price?",
+        "options_en": [
+            "₹270",
+            "₹1568",
+            "₹1770",
+            "₹1800"
+        ],
+        "explanation_en": "Price increase = $1500 \\times \\frac{18}{100} = 270$. New price = $1500 + 270 = 1770$."
+    },
+    {
+        "id": 102,
+        "question": "ஒரு நபர் தனது பயணத்தை 80 கி.மீ மகிழுந்திலும், 320 கி.மீ தொடர்வண்டியிலும் மேற்கொள்கிறார் எனில் தொடர்வண்டியில் பயணம் செய்த தூரத்தின் சதவீதம் என்ன?",
+        "options": [
+            "80%",
+            "20%",
+            "4%",
+            "5%"
+        ],
+        "correct": 0,
+        "explanation": "மொத்த தூரம் = $80 + 320 = 400$ கி.மீ. தொடர்வண்டி பயண சதவீதம் = $\\frac{320}{400} \\times 100 = 80\\%$.",
+        "question_en": "A person travels 80 km by car and 320 km by train. What is the percentage of the distance traveled by train?",
+        "options_en": [
+            "80%",
+            "20%",
+            "4%",
+            "5%"
+        ],
+        "explanation_en": "Total distance = $80 + 320 = 400$ km. Percentage of distance by train = $\\frac{320}{400} \\times 100 = 80\\%$."
+    },
+    {
+        "id": 103,
+        "question": "விஷ்ணுபிரியா என்பவர் தான் எழுதிய கணிதத் தேர்வில் 35 சரியான பதில்களும், 10 தவறான பதில்களும் எழுதினார் எனில், சரியான பதில்களின் சதவீதம் என்ன?",
+        "options": [
+            "77.77%",
+            "28.57%",
+            "75%",
+            "35%"
+        ],
+        "correct": 0,
+        "explanation": "மொத்த பதில்கள் = $35 + 10 = 45$. சரியான பதில்களின் சதவீதம் = $\\frac{35}{45} \\times 100 = \\frac{700}{9} \\approx 77.77\\%$.",
+        "question_en": "Vishnupriya answered 35 questions correctly and 10 incorrectly in a math test. What is the percentage of her correct answers?",
+        "options_en": [
+            "77.77%",
+            "28.57%",
+            "75%",
+            "35%"
+        ],
+        "explanation_en": "Total answers = $35 + 10 = 45$. Percentage of correct answers = $\\frac{35}{45} \\times 100 = \\frac{700}{9} \\approx 77.77\\%$."
+    },
+    {
+        "id": 104,
+        "question": "தினேஷ்குமார் ஆண்டுக்கு 7 மாதங்கள் வேலை செய்கிறார் எனில், அந்த ஆண்டில் அவர் எவ்வளவு சதவீதம் வேலை செய்தார்?",
+        "options": [
+            "41.66%",
+            "12%",
+            "70%",
+            "58.33%"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு ஆண்டுக்கு 12 மாதங்கள். வேலை செய்த சதவீதம் = $\\frac{7}{12} \\times 100 = \\frac{700}{12} \\approx 58.33\\%$.",
+        "question_en": "Dinesh Kumar works for 7 months in a year. What percentage of the year did he work?",
+        "options_en": [
+            "41.66%",
+            "12%",
+            "70%",
+            "58.33%"
+        ],
+        "explanation_en": "A year has 12 months. Percentage worked = $\\frac{7}{12} \\times 100 = \\frac{700}{12} \\approx 58.33\\%$."
+    },
+    {
+        "id": 105,
+        "question": "8.5 கி.கி எடை கொண்ட ஓர் உலோகப் பட்டையில் 85% வெள்ளி எனில், அதில் வெள்ளியின் எடையைக் காண்க.",
+        "options": [
+            "72.25",
+            "28.9",
+            "7.225",
+            "2.39"
+        ],
+        "correct": 2,
+        "explanation": "வெள்ளியின் எடை = $8.5 \\times \\frac{85}{100} = 7.225$ கி.கி.",
+        "question_en": "A metal bar weighing 8.5 kg has 85% silver. Find the weight of silver in it.",
+        "options_en": [
+            "72.25",
+            "28.9",
+            "7.225",
+            "2.39"
+        ],
+        "explanation_en": "Weight of silver = $8.5 \\times \\frac{85}{100} = 7.225$ kg."
+    },
+    {
+        "id": 106,
+        "question": "ஒரு தொடர்வண்டியில் பயணச்சீட்டின் முழுக்கட்டணம் ₹230. சலுகை அட்டை வைத்திருப்பவர்களுக்கு ₹120 இக்கு டிக்கெட் வழங்கப்பட்டால், சலுகை அட்டைதாரர்களுக்கு வழங்கப்பட்ட தள்ளுபடிச் சதவீதத்தைக் காண்க.",
+        "options": [
+            "52.17%",
+            "31.42%",
+            "34.28%",
+            "47.82%"
+        ],
+        "correct": 3,
+        "explanation": "தள்ளுபடி = $230 - 120 = 110$. தள்ளுபடி சதவீதம் = $\\frac{110}{230} \\times 100 \\approx 47.82\\%$.",
+        "question_en": "The full fare for a train ticket is ₹230. If concession card holders are issued tickets for ₹120, find the percentage of discount offered to them.",
+        "options_en": [
+            "52.17%",
+            "31.42%",
+            "34.28%",
+            "47.82%"
+        ],
+        "explanation_en": "Discount = $230 - 120 = 110$. Discount percentage = $\\frac{110}{230} \\times 100 \\approx 47.82\\%$."
+    },
+    {
+        "id": 107,
+        "question": "8 உடன் அதன் எத்தனை சதவீதம் சேர்ந்தால் 64 கிடைக்கும்?",
+        "options": [
+            "800%",
+            "200%",
+            "400%",
+            "700%"
+        ],
+        "correct": 3,
+        "explanation": "$8 + (8 \\times \\frac{x}{100}) = 64 \\implies 8 \\times \\frac{x}{100} = 56 \\implies \\frac{x}{100} = 7 \\implies x = 700$. எனவே 700%.",
+        "question_en": "What percentage of 8 should be added to 8 to get 64?",
+        "options_en": [
+            "800%",
+            "200%",
+            "400%",
+            "700%"
+        ],
+        "explanation_en": "$8 + (8 \\times \\frac{x}{100}) = 64 \\implies 8 \\times \\frac{x}{100} = 56 \\implies \\frac{x}{100} = 7 \\implies x = 700$. So, 700%."
+    },
+    {
+        "id": 108,
+        "question": "ஒரு சதுரத்தின் பக்கத்தை அளவிடும் போது 2% கூடுதலாகக் கணக்கிடப்பட்டுவிட்டது. எனில், பரப்பளவு கணக்கிடும்போது எவ்வளவு கணக்கீட்டுப் பிழை ஏற்படும்?",
+        "options": [
+            "1.02%",
+            "4%",
+            "2.02%",
+            "4.04%"
+        ],
+        "correct": 3,
+        "explanation": "பரப்பளவு பிழை = $(x + y + \\frac{xy}{100})\\%$. இங்கு $x = y = 2$. பிழை = $2 + 2 + \\frac{4}{100} = 4.04\\%$.",
+        "question_en": "While measuring the side of a square, it was overestimated by 2%. By what percentage will the calculated area be in error?",
+        "options_en": [
+            "1.02%",
+            "4%",
+            "2.02%",
+            "4.04%"
+        ],
+        "explanation_en": "Error in area = $(x + y + \\frac{xy}{100})\\%$. Here $x = y = 2$. Error = $2 + 2 + \\frac{4}{100} = 4.04\\%$."
+    },
+    {
+        "id": 109,
+        "question": "ஒரு தண்ணீர் தொட்டியின் கொள்ளளவு 50 லி. அதில் 30% தண்ணீர் நிரம்பியுள்ளது எனில், 50% நிறைய இன்னும் எத்தனை லிட்டர் தேவை?",
+        "options": [
+            "15",
+            "25",
+            "10",
+            "20"
+        ],
+        "correct": 2,
+        "explanation": "தேவையான அளவு = $50\\% - 30\\% = 20\\%$. 50 லிட்டரில் $20\\% = 50 \\times \\frac{20}{100} = 10$ லிட்டர்.",
+        "question_en": "A water tank has a capacity of 50 L. If it is 30% full, how many more liters are needed to make it 50% full?",
+        "options_en": [
+            "15",
+            "25",
+            "10",
+            "20"
+        ],
+        "explanation_en": "Required amount = $50\\% - 30\\% = 20\\%$. $20\\%$ of 50 L = $50 \\times \\frac{20}{100} = 10$ liters."
+    },
+    {
+        "id": 110,
+        "question": "1 முதல் 70 வரையுள்ள இயல் எண்களில் ஒன்றாம் இடத்தில் 1 அல்லது 9 ஐக் கொண்ட எண்களின் சதவீதம் என்ன?",
+        "options": [
+            "1%",
+            "14%",
+            "20%",
+            "21%"
+        ],
+        "correct": 2,
+        "explanation": "ஒவ்வொரு 10 எண்களிலும் 1 அல்லது 9 ஐ ஒன்றாம் இடத்தில் கொண்ட எண்கள் 2. 70 எண்களில் மொத்தம் $7 \\times 2 = 14$ எண்கள் இருக்கும். சதவீதம் = $\\frac{14}{70} \\times 100 = 20\\%$.",
+        "question_en": "What is the percentage of natural numbers from 1 to 70 that have 1 or 9 in the unit's place?",
+        "options_en": [
+            "1%",
+            "14%",
+            "20%",
+            "21%"
+        ],
+        "explanation_en": "In every set of 10 numbers, there are 2 numbers with 1 or 9 in the unit's place. In 70 numbers, there are $7 \\times 2 = 14$ such numbers. Percentage = $\\frac{14}{70} \\times 100 = 20\\%$."
+    },
+    {
+        "id": 111,
+        "question": "ஒரு தண்ணீர்த் தொட்டியின் கொள்ளளவு 200 லி. அதில் 40% தண்ணீர் நிரம்பியுள்ளது எனில், 75% தண்ணீர் நிறைய வேண்டுமெனில், இன்னும் எத்தனை லிட்டர்கள் தண்ணீர் தேவைப்படும்?",
+        "options": [
+            "35",
+            "150",
+            "80",
+            "70"
+        ],
+        "correct": 3,
+        "explanation": "தண்ணீரின் அளவை 40% இலிருந்து 75% ஆக உயர்த்த, கூடுதலாக 35% தேவை. 200 லிட்டரில் 35% = $200 \\times \\frac{35}{100} = 70$ லிட்டர்.",
+        "question_en": "A water tank has a capacity of 200 L. If it is 40% full, how many more liters of water are needed to make it 75% full?",
+        "options_en": [
+            "35",
+            "150",
+            "80",
+            "70"
+        ],
+        "explanation_en": "To increase the water level from 40% to 75%, an additional 35% is needed. 35% of 200 L = $200 \\times \\frac{35}{100} = 70$ liters."
+    },
+    {
+        "id": 112,
+        "question": "ஓர் எண்ணின் 80% மற்றும் அதே எண்ணின் 60% ஆகியவற்றின் வித்தியாசம் 160 எனில், அதே எண்ணின் 50% எவ்வளவு?",
+        "options": [
+            "400",
+            "800",
+            "640",
+            "480"
+        ],
+        "correct": 0,
+        "explanation": "வித்தியாசம் = $80\\% - 60\\% = 20\\%$. 20% என்பது 160. எனவே 1% = 8. அந்த எண்ணின் 50% = $50 \\times 8 = 400$.",
+        "question_en": "If the difference between 80% of a number and 60% of the same number is 160, what is 50% of that number?",
+        "options_en": [
+            "400",
+            "800",
+            "640",
+            "480"
+        ],
+        "explanation_en": "Difference = $80\\% - 60\\% = 20\\%$. 20% is 160, so 1% = 8. Then 50% of the number = $50 \\times 8 = 400$."
+    },
+    {
+        "id": 113,
+        "question": "P ஆனது Q வை விட 60% அதிகம் மற்றும் R ஐ விட 30% அதிகம் எனில், Q மற்றும் R க்கு இடையேயான விகிதம்",
+        "options": [
+            "1:2",
+            "2:1",
+            "13:16",
+            "16:13"
+        ],
+        "correct": 2,
+        "explanation": "$P = 1.6Q$ மற்றும் $P = 1.3R$. எனவே $1.6Q = 1.3R \\implies \\frac{Q}{R} = \\frac{1.3}{1.6} = \\frac{13}{16}$.",
+        "question_en": "If P is 60% more than Q and 30% more than R, then the ratio between Q and R is",
+        "options_en": [
+            "1:2",
+            "2:1",
+            "13:16",
+            "16:13"
+        ],
+        "explanation_en": "$P = 1.6Q$ and $P = 1.3R$. Thus, $1.6Q = 1.3R \\implies \\frac{Q}{R} = \\frac{1.3}{1.6} = \\frac{13}{16}$."
+    },
+    {
+        "id": 114,
+        "question": "இரு எண்களின் கூடுதல் 176 ஆகும். அவற்றில் ஒரு எண் மற்றொன்றை விட 20% பெரியதாகும் எனில், அந்த எண்கள்",
+        "options": [
+            "80, 96",
+            "86, 90",
+            "76, 100",
+            "110, 66"
+        ],
+        "correct": 0,
+        "explanation": "சிறிய எண் $y$ என்க. பெரிய எண் $x = 1.2y$. $x + y = 1.2y + y = 2.2y = 176 \\implies y = 80$. எனவே மற்ற எண் $x = 96$.",
+        "question_en": "The sum of two numbers is 176. If one number is 20% larger than the other, what are the numbers?",
+        "options_en": [
+            "80, 96",
+            "86, 90",
+            "76, 100",
+            "110, 66"
+        ],
+        "explanation_en": "Let the smaller number be $y$. The larger number $x = 1.2y$. $x + y = 1.2y + y = 2.2y = 176 \\implies y = 80$. Then $x = 96$."
+    },
+    {
+        "id": 115,
+        "question": "ஒரு கிராமத்தின் மக்கள்தொகை 8000. இவர்களில் 80% பேர் கல்வியறிவு பெற்றவர்கள். அதில் 40% பேர் பெண்கள் எனில், கல்வியறிவு பெற்ற பெண்களின் எண்ணிக்கைக்கும், மொத்த மக்கள் தொகைக்கும் உள்ள சதவீதத்தைக் காண்க.",
+        "options": [
+            "12%",
+            "32%",
+            "40%",
+            "80%"
+        ],
+        "correct": 1,
+        "explanation": "கல்வியறிவு பெற்றவர்கள் = மொத்த மக்கள்தொகையில் 80%. இவர்களில் பெண்கள் 40% எனில், மொத்த மக்கள்தொகையில் கல்வியறிவு பெற்ற பெண்கள் = $80\\% \\times 40\\% = 32\\%$.",
+        "question_en": "The population of a village is 8000. 80% of them are literate. If 40% of the literates are women, find the percentage of literate women with respect to the total population.",
+        "options_en": [
+            "12%",
+            "32%",
+            "40%",
+            "80%"
+        ],
+        "explanation_en": "Literates = 80% of total. Literate women = 40% of 80% = 32% of the total population."
+    },
+    {
+        "id": 116,
+        "question": "இரு நகரங்களுக்கு இடைப்பட்ட ரயில் மற்றும் பேருந்து ஆகியவற்றின் பயணக் கட்டணங்களின் விகிதமானது 3:4 ஆகும். ரயில் கட்டணம் 10%, பேருந்து கட்டணம் 20% அதிகரித்தால் ரயில் மற்றும் பேருந்து கட்டணங்களின் புதிய விகிதம்",
+        "options": [
+            "10:13",
+            "11:16",
+            "11:15",
+            "10:17"
+        ],
+        "correct": 1,
+        "explanation": "பழைய விகிதம் 3:4. புதிய விகிதம் = $3 \\times 1.1 : 4 \\times 1.2 = 3.3 : 4.8 = 33 : 48 = 11:16$.",
+        "question_en": "The ratio of train and bus fares between two cities is 3:4. If the train fare increases by 10% and the bus fare by 20%, what is the new ratio of train and bus fares?",
+        "options_en": [
+            "10:13",
+            "11:16",
+            "11:15",
+            "10:17"
+        ],
+        "explanation_en": "Old ratio is 3:4. New ratio = $3 \\times 1.1 : 4 \\times 1.2 = 3.3 : 4.8 = 33 : 48 = 11:16$."
+    },
+    {
+        "id": 117,
+        "question": "ரோஷன் என்பவர் ஒரு தேர்வில் 280 மதிப்பெண்களைப் பெற்று தோல்வி அடைகிறார். அவர் இன்னும் 20 மதிப்பெண்கள் பெற்றிருந்தால் மொத்த மதிப்பெண்களில் 50% பெற்று வெற்றி பெற்றிருப்பார் எனில், மொத்த மதிப்பெண்கள் காண்க.",
+        "options": [
+            "600",
+            "500",
+            "300",
+            "350"
+        ],
+        "correct": 0,
+        "explanation": "50% மதிப்பெண் = $280 + 20 = 300$. எனவே 100% (மொத்த மதிப்பெண்கள்) = $300 \\times 2 = 600$.",
+        "question_en": "Roshan failed an exam by scoring 280 marks. If he had scored 20 more marks, he would have achieved 50% of the total marks and passed. Find the total marks.",
+        "options_en": [
+            "600",
+            "500",
+            "300",
+            "350"
+        ],
+        "explanation_en": "50% marks = $280 + 20 = 300$. Therefore, 100% (total marks) = $300 \\times 2 = 600$."
+    },
+    {
+        "id": 118,
+        "question": "₹4500 அசலுக்கு தனிவட்டி மொத்தத்தொகை ₹5000 கிடைத்தால், அதனுடைய தனிவட்டி",
+        "options": [
+            "₹500",
+            "₹200",
+            "₹7750",
+            "15%"
+        ],
+        "correct": 0,
+        "explanation": "தனிவட்டி = மொத்தத்தொகை - அசல் = $5000 - 4500 = 500$.",
+        "question_en": "If the total amount received for a principal of ₹4500 is ₹5000, its simple interest is",
+        "options_en": [
+            "₹500",
+            "₹200",
+            "₹7750",
+            "15%"
+        ],
+        "explanation_en": "Simple Interest = Total Amount - Principal = $5000 - 4500 = 500$."
+    },
+    {
+        "id": 119,
+        "question": "₹7200 அசலுக்குத் தனிவட்டியாக ₹450 கிடைத்தால், மொத்தத்தொகை எவ்வளவு?",
+        "options": [
+            "₹6750",
+            "₹7650",
+            "₹9500",
+            "₹6850"
+        ],
+        "correct": 1,
+        "explanation": "மொத்தத்தொகை = அசல் + வட்டி = $7200 + 450 = 7650$.",
+        "question_en": "If the simple interest obtained for a principal of ₹7200 is ₹450, what is the total amount?",
+        "options_en": [
+            "₹6750",
+            "₹7650",
+            "₹9500",
+            "₹6850"
+        ],
+        "explanation_en": "Total Amount = Principal + Interest = $7200 + 450 = 7650$."
+    },
+    {
+        "id": 120,
+        "question": "ரோஷினி ஒரு தொகையை வங்கியில் செலுத்திச் சில ஆண்டுகள் கழித்துத் தனிவட்டி ₹750 உடன் மொத்தமாக ₹6400 பெறுகிறார் எனில் அவர் செலுத்திய தொகை எவ்வளவு?",
+        "options": [
+            "₹7150",
+            "₹5750",
+            "₹5650",
+            "₹7250"
+        ],
+        "correct": 2,
+        "explanation": "அசல் (செலுத்திய தொகை) = மொத்தத்தொகை - தனிவட்டி = $6400 - 750 = 5650$.",
+        "question_en": "Roshini deposits a sum in a bank and after a few years receives a total of ₹6400 which includes a simple interest of ₹750. What was the amount she deposited?",
+        "options_en": [
+            "₹7150",
+            "₹5750",
+            "₹5650",
+            "₹7250"
+        ],
+        "explanation_en": "Principal (Deposited Amount) = Total Amount - Simple Interest = $6400 - 750 = 5650$."
+    },
+    {
+        "id": 121,
+        "question": "பின்வருவனவற்றில் எது ₹1000 அசலுக்காக ஓராண்டுக்கு 10% என்ற வீதத்தில் தனிவட்டியாகும்?",
+        "options": [
+            "₹200",
+            "₹10",
+            "₹100",
+            "₹1000"
+        ],
+        "correct": 2,
+        "explanation": "தனிவட்டி = $\\frac{P \\times N \\times R}{100} = \\frac{1000 \\times 1 \\times 10}{100} = 100$.",
+        "question_en": "Which of the following is the simple interest for a principal of ₹1000 at a 10% rate for one year?",
+        "options_en": [
+            "₹200",
+            "₹10",
+            "₹100",
+            "₹1000"
+        ],
+        "explanation_en": "Simple Interest = $\\frac{P \\times N \\times R}{100} = \\frac{1000 \\times 1 \\times 10}{100} = 100$."
+    },
+    {
+        "id": 122,
+        "question": "₹2000 இக்கு 5% வட்டி வீதத்தில் 3 வருடங்களில் கிடைக்கும் தனிவட்டி எவ்வளவு?",
+        "options": [
+            "₹150",
+            "₹300",
+            "₹200",
+            "₹310"
+        ],
+        "correct": 1,
+        "explanation": "தனிவட்டி = $\\frac{2000 \\times 3 \\times 5}{100} = 300$.",
+        "question_en": "What is the simple interest obtained for ₹2000 at 5% interest rate in 3 years?",
+        "options_en": [
+            "₹150",
+            "₹300",
+            "₹200",
+            "₹310"
+        ],
+        "explanation_en": "Simple Interest = $\\frac{2000 \\times 3 \\times 5}{100} = 300$."
+    },
+    {
+        "id": 123,
+        "question": "கிருபாகரன் ஒரு வங்கியிலிருந்து ஆண்டுக்கு 5% வட்டிவீதம் ₹5000 ஐக் கடனாகப் பெற்றால் 3 ஆண்டு முடிவில் அவர் செலுத்த வேண்டிய வட்டி என்ன?",
+        "options": [
+            "₹750",
+            "₹650",
+            "₹500",
+            "₹250"
+        ],
+        "correct": 0,
+        "explanation": "வட்டி = $\\frac{5000 \\times 3 \\times 5}{100} = 750$.",
+        "question_en": "If Kirubakaran borrows ₹5000 from a bank at an interest rate of 5% per annum, what is the interest he has to pay at the end of 3 years?",
+        "options_en": [
+            "₹750",
+            "₹650",
+            "₹500",
+            "₹250"
+        ],
+        "explanation_en": "Interest = $\\frac{5000 \\times 3 \\times 5}{100} = 750$."
+    },
+    {
+        "id": 124,
+        "question": "கோகுல் இரண்டு லட்சம் ரூபாயை 5 ஆண்டுகளுக்கு ஒரு நிரந்தர வைப்புத்திட்டத்தில் முதலீடு செய்கிறார். அவ்வங்கி ஆண்டொன்றுக்கு 8% தனிவட்டி தருகிறது எனில், 5 ஆண்டுகள் முடிவில் அவருக்குக் கிடைக்கும் மொத்தத் தொகை எவ்வளவு?",
+        "options": [
+            "₹2,20,000",
+            "₹2,80,000",
+            "₹2,40,000",
+            "₹2,60,000"
+        ],
+        "correct": 1,
+        "explanation": "வட்டி = $\\frac{2,00,000 \\times 5 \\times 8}{100} = 80,000$. மொத்தத் தொகை = $2,00,000 + 80,000 = 2,80,000$.",
+        "question_en": "Gokul invests two lakh rupees in a fixed deposit for 5 years. If the bank offers an 8% simple interest per annum, what will be the total amount he receives at the end of 5 years?",
+        "options_en": [
+            "₹2,20,000",
+            "₹2,80,000",
+            "₹2,40,000",
+            "₹2,60,000"
+        ],
+        "explanation_en": "Interest = $\\frac{2,00,000 \\times 5 \\times 8}{100} = 80,000$. Total Amount = $2,00,000 + 80,000 = 2,80,000$."
+    },
+    {
+        "id": 125,
+        "question": "நத்தீஷ் ஆண்டுக்கு 12% வட்டிவீதம் ₹6000 ஐ 7 ஆண்டுகளுக்கு கடனாகப் பெற்றால், 7 ஆண்டுகள் கழித்து அவர் எவ்வளவு பணத்தைச் செலுத்தினால் கடன் தீரும்?",
+        "options": [
+            "₹5040",
+            "₹11040",
+            "₹6040",
+            "₹11000"
+        ],
+        "correct": 1,
+        "explanation": "வட்டி = $\\frac{6000 \\times 7 \\times 12}{100} = 5040$. மொத்தத் தொகை = $6000 + 5040 = 11040$.",
+        "question_en": "If Natheesh borrows ₹6000 at 12% interest per annum for 7 years, what is the amount he has to pay after 7 years to clear the loan?",
+        "options_en": [
+            "₹5040",
+            "₹11040",
+            "₹6040",
+            "₹11000"
+        ],
+        "explanation_en": "Interest = $\\frac{6000 \\times 7 \\times 12}{100} = 5040$. Total Amount = $6000 + 5040 = 11040$."
+    },
+    {
+        "id": 126,
+        "question": "₹5000 க்கு 6% வட்டி வீதத்தில் 8 மாதங்களில் கிடைக்கும் தனிவட்டி எவ்வளவு?",
+        "options": [
+            "₹240",
+            "₹20",
+            "₹2400",
+            "₹200"
+        ],
+        "correct": 3,
+        "explanation": "காலம் N = $\\frac{8}{12}$ வருடம். வட்டி = $5000 \\times \\frac{8}{12} \\times \\frac{6}{100} = 200$.",
+        "question_en": "What is the simple interest obtained for ₹5000 at 6% interest rate in 8 months?",
+        "options_en": [
+            "₹240",
+            "₹20",
+            "₹2400",
+            "₹200"
+        ],
+        "explanation_en": "Time N = $\\frac{8}{12}$ years. Interest = $5000 \\times \\frac{8}{12} \\times \\frac{6}{100} = 200$."
+    },
+    {
+        "id": 127,
+        "question": "பின்வரும் வட்டிவிதத்தில் எது ₹2000 அசலுக்கு ஓராண்டுக்கு ₹200 ஐ தனிவட்டியாக தரும்?",
+        "options": [
+            "10%",
+            "20%",
+            "5%",
+            "15%"
+        ],
+        "correct": 0,
+        "explanation": "வட்டிவீதம் R = $\\frac{100 \\times 200}{2000 \\times 1} = 10\\%$.",
+        "question_en": "Which of the following interest rates will yield a simple interest of ₹200 for a principal of ₹2000 in one year?",
+        "options_en": [
+            "10%",
+            "20%",
+            "5%",
+            "15%"
+        ],
+        "explanation_en": "Rate R = $\\frac{100 \\times 200}{2000 \\times 1} = 10\\%$."
+    },
+    {
+        "id": 128,
+        "question": "சுவாதி ஒரு குறிப்பிட்ட தொகைக்கு 10% வட்டிவீதம் 2 ஆண்டுகள் கழித்து ₹750 ஐத் தனிவட்டியாகச் செலுத்தினால் அசல் என்ன?",
+        "options": [
+            "₹1500",
+            "₹4000",
+            "₹4500",
+            "₹3750"
+        ],
+        "correct": 3,
+        "explanation": "அசல் P = $\\frac{100 \\times I}{N \\times R} = \\frac{100 \\times 750}{2 \\times 10} = 3750$.",
+        "question_en": "If Swathi pays a simple interest of ₹750 after 2 years at an interest rate of 10% for a certain sum, what is the principal?",
+        "options_en": [
+            "₹1500",
+            "₹4000",
+            "₹4500",
+            "₹3750"
+        ],
+        "explanation_en": "Principal P = $\\frac{100 \\times I}{N \\times R} = \\frac{100 \\times 750}{2 \\times 10} = 3750$."
+    },
+    {
+        "id": 129,
+        "question": "மோனிஷா ஒரு வங்கியில் 12% தனிவட்டிவீதத்தில் ஒரு தொகையைக் கடனாகப் பெறுகிறாள். 3 ஆண்டுகள் கழித்து வட்டி மட்டும் ₹5400 செலுத்துகிறாள் எனில், அவள் பெற்ற கடன் தொகை எவ்வளவு?",
+        "options": [
+            "₹16200",
+            "₹36000",
+            "₹15000",
+            "₹54000"
+        ],
+        "correct": 2,
+        "explanation": "அசல் P = $\\frac{100 \\times 5400}{3 \\times 12} = 15000$.",
+        "question_en": "Monisha borrows a sum from a bank at 12% simple interest. If she pays ₹5400 as interest alone after 3 years, what was the loan amount she borrowed?",
+        "options_en": [
+            "₹16200",
+            "₹36000",
+            "₹15000",
+            "₹54000"
+        ],
+        "explanation_en": "Principal P = $\\frac{100 \\times 5400}{3 \\times 12} = 15000$."
+    },
+    {
+        "id": 130,
+        "question": "அஜித்தா என்பவர் குறிப்பிட்ட தனிவட்டி வீதத்தில் ₹8500 ஐக் கடனாகப் பெற்று 3 ஆண்டுகள் கழித்து அவர் ₹11050 ஐச் செலுத்திக் கடனை அடைத்தார் எனில், வட்டிவீதம் எவ்வளவு?",
+        "options": [
+            "11%",
+            "10%",
+            "9%",
+            "12%"
+        ],
+        "correct": 1,
+        "explanation": "வட்டி = $11050 - 8500 = 2550$. வட்டிவீதம் R = $\\frac{100 \\times 2550}{8500 \\times 3} = 10\\%$.",
+        "question_en": "Ajitha borrowed ₹8500 at a certain simple interest rate and settled the loan by paying ₹11050 after 3 years. What is the rate of interest?",
+        "options_en": [
+            "11%",
+            "10%",
+            "9%",
+            "12%"
+        ],
+        "explanation_en": "Interest = $11050 - 8500 = 2550$. Rate R = $\\frac{100 \\times 2550}{8500 \\times 3} = 10\\%$."
+    },
+    {
+        "id": 131,
+        "question": "ஆண்டுக்கு 6% வட்டிவீதத்தில் ஒரு தொகை ₹17800 இலிருந்து எத்தனை ஆண்டுகளில் ₹19936 ஆக உயரும்?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "வட்டி = $19936 - 17800 = 2136$. ஆண்டுகள் N = $\\frac{100 \\times 2136}{17800 \\times 6} = 2$.",
+        "question_en": "In how many years will a sum increase from ₹17800 to ₹19936 at an interest rate of 6% per annum?",
+        "options_en": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "explanation_en": "Interest = $19936 - 17800 = 2136$. Years N = $\\frac{100 \\times 2136}{17800 \\times 6} = 2$."
+    },
+    {
+        "id": 132,
+        "question": "கடனாக வழங்கப்பட்ட அசல் ₹48,000க்கு 2 ஆண்டுகள் 3 மாத காலத்திற்குப் பின் தனிவட்டி மூலம் பெறப்பட்ட மொத்தத் தொகை ₹55,560 ஆக இருந்தது எனில், வட்டிவீதத்தைக் காண்க.",
+        "options": [
+            "6%",
+            "7%",
+            "8%",
+            "6.5%"
+        ],
+        "correct": 1,
+        "explanation": "காலம் = $2 + \\frac{3}{12} = 2.25$ ஆண்டுகள். வட்டி = $55560 - 48000 = 7560$. வட்டிவீதம் R = $\\frac{100 \\times 7560}{48000 \\times 2.25} = \\frac{7560}{1080} = 7\\%$.",
+        "question_en": "The total amount received via simple interest for a principal of ₹48,000 lent for a period of 2 years and 3 months is ₹55,560. Find the rate of interest.",
+        "options_en": [
+            "6%",
+            "7%",
+            "8%",
+            "6.5%"
+        ],
+        "explanation_en": "Time = $2 + \\frac{3}{12} = 2.25$ years. Interest = $55560 - 48000 = 7560$. Rate R = $\\frac{100 \\times 7560}{48000 \\times 2.25} = \\frac{7560}{1080} = 7\\%$."
+    },
+    {
+        "id": 133,
+        "question": "ஆனந்த் என்பவர் ₹8640 ஐ 14% வட்டிவீதத்தில் கடனாகப் பெறுகிறார் எனில், 3 வருடங்கள் 10 மாதங்கள் கழித்து எவ்வளவு தொகையைத் திருப்பிச் செலுத்துவார்?",
+        "options": [
+            "₹13276.8",
+            "₹4636.8",
+            "₹14636.8",
+            "₹3276.8"
+        ],
+        "correct": 0,
+        "explanation": "காலம் N = $3 + \\frac{10}{12} = \\frac{46}{12} = \\frac{23}{6}$ ஆண்டுகள். வட்டி = $8640 \\times \\frac{23}{6} \\times \\frac{14}{100} = 4636.8$. மொத்தத் தொகை = $8640 + 4636.8 = 13276.8$.",
+        "question_en": "Anand borrows ₹8640 at an interest rate of 14%. How much amount will he repay after 3 years and 10 months?",
+        "options_en": [
+            "₹13276.8",
+            "₹4636.8",
+            "₹14636.8",
+            "₹3276.8"
+        ],
+        "explanation_en": "Time N = $3 + \\frac{10}{12} = \\frac{23}{6}$ years. Interest = $8640 \\times \\frac{23}{6} \\times \\frac{14}{100} = 4636.8$. Total Amount = $8640 + 4636.8 = 13276.8$."
+    },
+    {
+        "id": 134,
+        "question": "எத்தனை ஆண்டுகளில் ₹5600 ஆனது ஆண்டுக்கு 6% தனிவட்டி வீதத்தில் ₹6720 ஆக உயரும்?",
+        "options": [
+            "$2\\frac{1}{3}$",
+            "$3\\frac{1}{2}$",
+            "$3\\frac{1}{4}$",
+            "$3\\frac{1}{3}$"
+        ],
+        "correct": 3,
+        "explanation": "வட்டி = $6720 - 5600 = 1120$. N = $\\frac{100 \\times 1120}{5600 \\times 6} = \\frac{112000}{33600} = \\frac{10}{3} = 3\\frac{1}{3}$ ஆண்டுகள்.",
+        "question_en": "In how many years will ₹5600 amount to ₹6720 at 6% simple interest per annum?",
+        "options_en": [
+            "$2\\frac{1}{3}$",
+            "$3\\frac{1}{2}$",
+            "$3\\frac{1}{4}$",
+            "$3\\frac{1}{3}$"
+        ],
+        "explanation_en": "Interest = $6720 - 5600 = 1120$. N = $\\frac{100 \\times 1120}{5600 \\times 6} = \\frac{112000}{33600} = \\frac{10}{3} = 3\\frac{1}{3}$ years."
+    },
+    {
+        "id": 135,
+        "question": "ஓர் அசல் 4 ஆண்டுகளில் இரண்டு மடங்காகிறது எனில், வட்டி வீதத்தைக் காண்க.",
+        "options": [
+            "25%",
+            "12%",
+            "20%",
+            "15%"
+        ],
+        "correct": 0,
+        "explanation": "மொத்தத் தொகை $2P$ ஆவதால், வட்டி = $P$. வட்டிவீதம் R = $\\frac{100 \\times P}{P \\times 4} = 25\\%$.",
+        "question_en": "If a principal doubles in 4 years, find the rate of interest.",
+        "options_en": [
+            "25%",
+            "12%",
+            "20%",
+            "15%"
+        ],
+        "explanation_en": "Since Amount is $2P$, Interest = $P$. Rate R = $\\frac{100 \\times P}{P \\times 4} = 25\\%$."
+    },
+    {
+        "id": 136,
+        "question": "ஒரு தொகையானது 6 வருடங்கள் 3 மாதங்களில் இரட்டிப்பாகிறது எனில், தனிவட்டி வீதம் எவ்வளவு?",
+        "options": [
+            "16%",
+            "15%",
+            "12.5%",
+            "10%"
+        ],
+        "correct": 0,
+        "explanation": "காலம் N = $6 + \\frac{3}{12} = 6.25 = \\frac{25}{4}$ ஆண்டுகள். தொகையானது இரட்டிப்பாவதால் வட்டி = P. R = $\\frac{100}{\\frac{25}{4}} = \\frac{400}{25} = 16\\%$.",
+        "question_en": "If a sum doubles in 6 years and 3 months, what is the rate of simple interest?",
+        "options_en": [
+            "16%",
+            "15%",
+            "12.5%",
+            "10%"
+        ],
+        "explanation_en": "Time N = $6 + \\frac{3}{12} = 6.25 = \\frac{25}{4}$ years. Sum doubles, so Interest = P. R = $\\frac{100}{\\frac{25}{4}} = \\frac{400}{25} = 16\\%$."
+    },
+    {
+        "id": 137,
+        "question": "எவ்வளவு தனிவட்டி வீதத்தில் ஒரு தொகையானது 8 வருடங்களில் இரட்டிப்பாகும்?",
+        "options": [
+            "10.5%",
+            "12.5%",
+            "14.5%",
+            "11%"
+        ],
+        "correct": 1,
+        "explanation": "வட்டி = P. வட்டிவீதம் R = $\\frac{100 \\times P}{P \\times 8} = \\frac{100}{8} = 12.5\\%$.",
+        "question_en": "At what simple interest rate will a sum double in 8 years?",
+        "options_en": [
+            "10.5%",
+            "12.5%",
+            "14.5%",
+            "11%"
+        ],
+        "explanation_en": "Interest = P. Rate R = $\\frac{100 \\times P}{P \\times 8} = \\frac{100}{8} = 12.5\\%$."
+    },
+    {
+        "id": 138,
+        "question": "30 ஆண்டுகளில் ஒரு தொகையானது 4 மடங்காகிறது எனில், அதன் தனிவட்டி வீதம் என்ன?",
+        "options": [
+            "10%",
+            "11%",
+            "12%",
+            "13%"
+        ],
+        "correct": 0,
+        "explanation": "தொகை 4 மடங்கானால், வட்டி = $3P$. வட்டிவீதம் R = $\\frac{100 \\times 3P}{P \\times 30} = \\frac{300}{30} = 10\\%$.",
+        "question_en": "If a sum quadruples in 30 years, what is its simple interest rate?",
+        "options_en": [
+            "10%",
+            "11%",
+            "12%",
+            "13%"
+        ],
+        "explanation_en": "If sum quadruples, Interest = $3P$. Rate R = $\\frac{100 \\times 3P}{P \\times 30} = \\frac{300}{30} = 10\\%$."
+    },
+    {
+        "id": 139,
+        "question": "ஒரு தொகையானது 16 ஆண்டுகளில் 3 மடங்காகிறது எனில் அதன் தனிவட்டி வீதம் என்ன?",
+        "options": [
+            "24%",
+            "12.5%",
+            "14.5%",
+            "6%"
+        ],
+        "correct": 1,
+        "explanation": "தொகை 3 மடங்கானால், வட்டி = $2P$. வட்டிவீதம் R = $\\frac{100 \\times 2P}{P \\times 16} = \\frac{200}{16} = 12.5\\%$.",
+        "question_en": "If a sum triples in 16 years, what is its simple interest rate?",
+        "options_en": [
+            "24%",
+            "12.5%",
+            "14.5%",
+            "6%"
+        ],
+        "explanation_en": "If sum triples, Interest = $2P$. Rate R = $\\frac{100 \\times 2P}{P \\times 16} = \\frac{200}{16} = 12.5\\%$."
+    },
+    {
+        "id": 140,
+        "question": "ஓர் அசலுக்கு 6% வட்டிவீதத்தில் கிடைக்கும் தனிவட்டியானது அந்த அசலின் 5/8 மடங்காகும் எனில் காலம் எவ்வளவு?",
+        "options": [
+            "8 வருடங்கள் 6 மாதங்கள்",
+            "9 வருடங்கள் 3 மாதங்கள்",
+            "10 வருடங்கள்",
+            "10 வருடங்கள் 5 மாதங்கள்"
+        ],
+        "correct": 3,
+        "explanation": "வட்டி I = $\\frac{5}{8}P$. $\\frac{P \\times N \\times 6}{100} = \\frac{5}{8}P \\implies N = \\frac{5 \\times 100}{8 \\times 6} = \\frac{500}{48} = \\frac{125}{12}$. $\\frac{125}{12}$ என்பது 10 வருடங்கள் மற்றும் 5 மாதங்கள் ஆகும்.",
+        "question_en": "If the simple interest obtained for a principal at 6% interest rate is 5/8 times the principal, what is the time period?",
+        "options_en": [
+            "8 years 6 months",
+            "9 years 3 months",
+            "10 years",
+            "10 years 5 months"
+        ],
+        "explanation_en": "Interest I = $\\frac{5}{8}P$. $\\frac{P \\times N \\times 6}{100} = \\frac{5}{8}P \\implies N = \\frac{5 \\times 100}{8 \\times 6} = \\frac{500}{48} = \\frac{125}{12}$. $\\frac{125}{12}$ is 10 years and 5 months."
+    },
+    {
+        "id": 141,
+        "question": "ஜெயஸ்ரீ ஒரு குறிப்பிட்ட தொகையை அஞ்சலகத்தில் முதலீடு செய்கிறார். நான்கு வருடங்கள் கழித்து அத்தொகையானது ₹66000 ஆக மாறுகிறது. பெறப்பட்ட தனிவட்டியானது அசலில் 8/25 மடங்காகும் எனில், தனிவட்டி வீதம்",
+        "options": [
+            "10%",
+            "8%",
+            "12%",
+            "6%"
+        ],
+        "correct": 1,
+        "explanation": "தனிவட்டி = $\\frac{8}{25}P$. வட்டிவீதம் R = $\\frac{100 \\times \\frac{8}{25}P}{P \\times 4} = \\frac{100 \\times 8}{25 \\times 4} = \\frac{800}{100} = 8\\%$.",
+        "question_en": "Jayashree invests a certain sum in a post office. After four years, the amount becomes ₹66000. If the simple interest obtained is 8/25 of the principal, the rate of simple interest is",
+        "options_en": [
+            "10%",
+            "8%",
+            "12%",
+            "6%"
+        ],
+        "explanation_en": "Simple Interest = $\\frac{8}{25}P$. Rate R = $\\frac{100 \\times \\frac{8}{25}P}{P \\times 4} = \\frac{100 \\times 8}{25 \\times 4} = \\frac{800}{100} = 8\\%$."
+    },
+    {
+        "id": 142,
+        "question": "ஓர் அசலுக்கு 8 மாதங்களில் கிடைக்கும் தனிவட்டியானது அந்த அசலின் 0.06 மடங்காகும் எனில் வட்டிவீதம் எவ்வளவு?",
+        "options": [
+            "6%",
+            "7%",
+            "8%",
+            "9%"
+        ],
+        "correct": 3,
+        "explanation": "காலம் N = $\\frac{8}{12} = \\frac{2}{3}$ ஆண்டுகள். வட்டி I = $0.06P$. வட்டிவீதம் R = $\\frac{100 \\times 0.06P}{P \\times \\frac{2}{3}} = \\frac{6 \\times 3}{2} = 9\\%$.",
+        "question_en": "If the simple interest obtained for a principal in 8 months is 0.06 times the principal, what is the rate of interest?",
+        "options_en": [
+            "6%",
+            "7%",
+            "8%",
+            "9%"
+        ],
+        "explanation_en": "Time N = $\\frac{8}{12} = \\frac{2}{3}$ years. Interest I = $0.06P$. Rate R = $\\frac{100 \\times 0.06P}{P \\times \\frac{2}{3}} = \\frac{6 \\times 3}{2} = 9\\%$."
+    },
+    {
+        "id": 143,
+        "question": "₹3000 அசலுக்கு ஆண்டுக்கு 8% என வழங்கப்படும் தனிவட்டியானது ₹4000 அசலுக்கு 12% என 4 ஆண்டுகளுக்கு வழங்கப்படும் தனிவட்டிக்கு நிகராகும் எனில், காலம் என்ன?",
+        "options": [
+            "4 வருடங்கள்",
+            "8 வருடங்கள்",
+            "6 வருடங்கள்",
+            "5 வருடங்கள்"
+        ],
+        "correct": 1,
+        "explanation": "$\\frac{3000 \\times N \\times 8}{100} = \\frac{4000 \\times 4 \\times 12}{100} \\implies 24000N = 192000 \\implies N = 8$.",
+        "question_en": "If the simple interest provided for a principal of ₹3000 at 8% per annum is equal to the simple interest provided for a principal of ₹4000 at 12% for 4 years, what is the time period?",
+        "options_en": [
+            "4 years",
+            "8 years",
+            "6 years",
+            "5 years"
+        ],
+        "explanation_en": "$\\frac{3000 \\times N \\times 8}{100} = \\frac{4000 \\times 4 \\times 12}{100} \\implies 24000N = 192000 \\implies N = 8$."
+    },
+    {
+        "id": 144,
+        "question": "ஒரு தொகை வங்கியில் முதலீடு செய்யப்பட்டு அத்தொகை 3 ஆண்டுகளில் ₹3900 ஆகவும் 6 ஆண்டுகளில் ₹4800 ஆகவும் முதிர்வுறுகிறது எனில், தனிவட்டி வீதம் எவ்வளவு?",
+        "options": [
+            "8%",
+            "10%",
+            "11.5%",
+            "12%"
+        ],
+        "correct": 1,
+        "explanation": "3 ஆண்டுகளுக்கான வட்டி = $4800 - 3900 = 900$. 1 ஆண்டுக்கான வட்டி = 300. அசல் P = $3900 - 900 = 3000$. வட்டிவீதம் R = $\\frac{300 \\times 100}{3000 \\times 1} = 10\\%$.",
+        "question_en": "A sum invested in a bank matures to ₹3900 in 3 years and to ₹4800 in 6 years. What is the rate of simple interest?",
+        "options_en": [
+            "8%",
+            "10%",
+            "11.5%",
+            "12%"
+        ],
+        "explanation_en": "Interest for 3 years = $4800 - 3900 = 900$. Interest for 1 year = 300. Principal P = $3900 - 900 = 3000$. Rate R = $\\frac{300 \\times 100}{3000 \\times 1} = 10\\%$."
+    },
+    {
+        "id": 145,
+        "question": "ஒரு தொகை ஒரு குறிப்பிட்ட தனிவட்டி வீதத்தில் 2 ஆண்டுகளில் ₹6200 ஆகவும், 3 ஆண்டுகளில் ₹6800 ஆகவும் உயர்கிறது எனில், வட்டிவீதம் எவ்வளவு?",
+        "options": [
+            "12%",
+            "6%",
+            "4%",
+            "10%"
+        ],
+        "correct": 0,
+        "explanation": "1 ஆண்டுக்கான வட்டி = $6800 - 6200 = 600$. 2 ஆண்டுகளுக்கான வட்டி = 1200. அசல் P = $6200 - 1200 = 5000$. வட்டிவீதம் R = $\\frac{600 \\times 100}{5000 \\times 1} = 12\\%$.",
+        "question_en": "If a sum amounts to ₹6200 in 2 years and ₹6800 in 3 years at a certain rate of simple interest, what is the rate of interest?",
+        "options_en": [
+            "12%",
+            "6%",
+            "4%",
+            "10%"
+        ],
+        "explanation_en": "Interest for 1 year = $6800 - 6200 = 600$. Interest for 2 years = 1200. Principal P = $6200 - 1200 = 5000$. Rate R = $\\frac{600 \\times 100}{5000 \\times 1} = 12\\%$."
+    },
+    {
+        "id": 146,
+        "question": "திரிஷா என்பவர் அகல்யா என்பவருக்கு ₹5000 ஐ 2 ஆண்டுகளுக்கும், கிருத்திகா என்பவருக்கு ₹3000 ஐ 4 ஆண்டுகளுக்கும் ஒரே தனிவட்டி வீதத்தில் வழங்கினார். ஆக மொத்தம் ₹2200 ஐ வட்டியாகத் திரிஷா பெற்றார் எனில் வட்டிவீதம் காண்க.",
+        "options": [
+            "12%",
+            "10%",
+            "8%",
+            "11%"
+        ],
+        "correct": 1,
+        "explanation": "$(\\frac{5000 \\times 2 \\times R}{100}) + (\\frac{3000 \\times 4 \\times R}{100}) = 2200 \\implies 100R + 120R = 2200 \\implies 220R = 2200 \\implies R = 10\\%$.",
+        "question_en": "Trisha lent ₹5000 to Ahalya for 2 years and ₹3000 to Kiruthika for 4 years at the same simple interest rate. If she received a total of ₹2200 as interest, find the rate of interest.",
+        "options_en": [
+            "12%",
+            "10%",
+            "8%",
+            "11%"
+        ],
+        "explanation_en": "$(\\frac{5000 \\times 2 \\times R}{100}) + (\\frac{3000 \\times 4 \\times R}{100}) = 2200 \\implies 100R + 120R = 2200 \\implies 220R = 2200 \\implies R = 10\\%$."
+    },
+    {
+        "id": 147,
+        "question": "கோகுலதர்ஷன் என்பவர் ₹10000 ஐ 4% தனிவட்டி வீதம் 2 ஆண்டுகளுக்குக் கடனாகப் பெற்று அதை ரிஷி என்பவரிடம் 6% தனிவட்டிக்குக் கொடுத்தால் அவர் பெறும் இலாபம்",
+        "options": [
+            "₹200",
+            "₹400",
+            "₹600",
+            "₹800"
+        ],
+        "correct": 1,
+        "explanation": "ஓராண்டு இலாப வீதம் = $6\\% - 4\\% = 2\\%$. மொத்த இலாபம் = $\\frac{10000 \\times 2 \\times 2}{100} = 400$.",
+        "question_en": "Gokuladharshan borrows ₹10000 at 4% simple interest for 2 years and lends it to Rishi at 6% simple interest. What is the profit he earns?",
+        "options_en": [
+            "₹200",
+            "₹400",
+            "₹600",
+            "₹800"
+        ],
+        "explanation_en": "Annual profit rate = $6\\% - 4\\% = 2\\%$. Total profit = $\\frac{10000 \\times 2 \\times 2}{100} = 400$."
+    },
+    {
+        "id": 148,
+        "question": "யோகேஷ் என்பவர் ₹1500 ஐத் தனிவட்டி வீதம் கடனாகப் பெற்றார். அவர் அதை எத்தனை ஆண்டுகளுக்குக் கடனாகப் பெற்றாரோ அத்தனை சதவீதம் தனிவட்டி செலுத்தவேண்டும். அவர் ₹540 வட்டியாகச் செலுத்தினால் வட்டிவீதத்தைக் காண்க.",
+        "options": [
+            "6%",
+            "4%",
+            "3%",
+            "2%"
+        ],
+        "correct": 0,
+        "explanation": "காலம் N = வட்டிவீதம் R. $\\frac{1500 \\times R \\times R}{100} = 540 \\implies 15R^2 = 540 \\implies R^2 = 36 \\implies R = 6\\%$.",
+        "question_en": "Yogesh borrowed ₹1500 at simple interest. He has to pay an interest rate numerically equal to the number of years he borrowed it for. If he pays ₹540 as interest, find the rate of interest.",
+        "options_en": [
+            "6%",
+            "4%",
+            "3%",
+            "2%"
+        ],
+        "explanation_en": "Time N = Rate R. $\\frac{1500 \\times R \\times R}{100} = 540 \\implies 15R^2 = 540 \\implies R^2 = 36 \\implies R = 6\\%$."
+    },
+    {
+        "id": 149,
+        "question": "எந்தத் தனிவட்டி வீதத்தில் 3 ஆண்டுகளில் ₹2400 இக்குக் கிடைக்கும் தனிவட்டியானது ₹2000 க்குக் கிடைக்கும் தனிவட்டியை விட ₹60 கூடுதலாக இருக்கும்?",
+        "options": [
+            "5%",
+            "6%",
+            "8%",
+            "10%"
+        ],
+        "correct": 0,
+        "explanation": "$2400 - 2000 = 400$ அசலுக்கு 3 ஆண்டுகளில் ₹60 வட்டி. $\\frac{400 \\times 3 \\times R}{100} = 60 \\implies 12R = 60 \\implies R = 5\\%$.",
+        "question_en": "At what rate of simple interest will the interest obtained on ₹2400 be ₹60 more than the interest on ₹2000 in 3 years?",
+        "options_en": [
+            "5%",
+            "6%",
+            "8%",
+            "10%"
+        ],
+        "explanation_en": "The interest for the difference of $2400 - 2000 = 400$ in 3 years is ₹60. $\\frac{400 \\times 3 \\times R}{100} = 60 \\implies 12R = 60 \\implies R = 5\\%$."
+    },
+    {
+        "id": 150,
+        "question": "ஓர் இயந்திரத்தின் தற்போதைய மதிப்பு ₹162000. ஒவ்வொரு ஆண்டுக்கும் அதன் மதிப்பு 10% குறைகிறது எனில், இரண்டு ஆண்டுகள் கழித்து அதன் மதிப்பு என்ன?",
+        "options": [
+            "₹145800",
+            "₹131220",
+            "₹158760",
+            "₹112320"
+        ],
+        "correct": 1,
+        "explanation": "$162000 \\times \\frac{90}{100} \\times \\frac{90}{100} = 162000 \\times 0.81 = 131220$.",
+        "question_en": "The present value of a machine is ₹162000. If its value depreciates by 10% every year, what will be its value after two years?",
+        "options_en": [
+            "₹145800",
+            "₹131220",
+            "₹158760",
+            "₹112320"
+        ],
+        "explanation_en": "$162000 \\times \\frac{90}{100} \\times \\frac{90}{100} = 162000 \\times 0.81 = 131220$."
+    },
+    {
+        "id": 151,
+        "question": "ஒரு தேர்வில் 480 மாணவர்களில் 85% பெண்கள் மற்றும் 70% ஆண்கள் தேர்ச்சி பெற்றனர். மொத்த தேர்ச்சி 75% எனில், எத்தனை ஆண்கள் தேர்வில் பங்கேற்றனர்?",
+        "options": [
+            "370",
+            "360",
+            "340",
+            "320"
+        ],
+        "correct": 3,
+        "explanation": "கலவை முறையின்படி, பெண்கள் : ஆண்கள் விகிதம் = $(75 - 70) : (85 - 75) = 5 : 10 = 1:2$. மொத்தப் பங்கு 3. ஆண்களின் எண்ணிக்கை = $480 \\times \\frac{2}{3} = 320$.",
+        "question_en": "In an examination of 480 students, 85% of girls and 70% of boys passed. If the total pass percentage is 75%, how many boys participated in the exam?",
+        "options_en": [
+            "370",
+            "360",
+            "340",
+            "320"
+        ],
+        "explanation_en": "Using the mixture method, the ratio of Girls : Boys = $(75 - 70) : (85 - 75) = 5 : 10 = 1:2$. Total parts is 3. Number of boys = $480 \\times \\frac{2}{3} = 320$."
+    },
+    {
+        "id": 152,
+        "question": "ஒரு தேர்தலில் இருவர் போட்டியிடுகின்றனர். அதில் ஒருவர் 55% செல்லத்தக்க வாக்குகளைப் பெறுகிறார். மேலும் 7500 மொத்த வாக்குகளில் 20% ஓட்டுகள் செல்லாதவை எனில், மற்றொருவர் பெற்ற செல்லத்தக்க வாக்குகள் எத்தனை?",
+        "options": [
+            "2700",
+            "2900",
+            "3000",
+            "3100"
+        ],
+        "correct": 0,
+        "explanation": "செல்லத்தக்க வாக்குகள் = $7500$-இல் 80% = 6000. மற்றொருவர் பெற்ற வாக்குகள் = $6000$-இல் $100\\% - 55\\% = 45\\%$. $6000 \\times \\frac{45}{100} = 2700$.",
+        "question_en": "Two candidates are contesting in an election. One gets 55% of the valid votes. Furthermore, if 20% of the total 7500 votes are invalid, how many valid votes did the other candidate get?",
+        "options_en": [
+            "2700",
+            "2900",
+            "3000",
+            "3100"
+        ],
+        "explanation_en": "Valid votes = 80% of 7500 = 6000. Votes for the other candidate = $100\\% - 55\\% = 45\\%$ of 6000. $6000 \\times \\frac{45}{100} = 2700$."
+    },
+    {
+        "id": 153,
+        "question": "₹5000 இக்கு 2 ஆண்டுகளுக்கு 5% தனிவட்டி",
+        "options": [
+            "₹250",
+            "₹500",
+            "₹750",
+            "₹800"
+        ],
+        "correct": 1,
+        "explanation": "தனிவட்டி = $\\frac{5000 \\times 2 \\times 5}{100} = 500$.",
+        "question_en": "The simple interest for ₹5000 for 2 years at 5% is",
+        "options_en": [
+            "₹250",
+            "₹500",
+            "₹750",
+            "₹800"
+        ],
+        "explanation_en": "Simple Interest = $\\frac{5000 \\times 2 \\times 5}{100} = 500$."
+    },
+    {
+        "id": 154,
+        "question": "தனிவட்டி வீதத்தில் 20 ஆண்டுகளில் ஒரு தொகை மூன்று மடங்கானால் வட்டிவீதம் காண்க.",
+        "options": [
+            "5%",
+            "10%",
+            "15%",
+            "30%"
+        ],
+        "correct": 1,
+        "explanation": "தொகை 3 மடங்கானால் வட்டி = 2P. வட்டிவீதம் R = $\\frac{100 \\times 2P}{P \\times 20} = 10\\%$.",
+        "question_en": "If a sum triples in 20 years at simple interest, find the rate of interest.",
+        "options_en": [
+            "5%",
+            "10%",
+            "15%",
+            "30%"
+        ],
+        "explanation_en": "If sum triples, Interest = 2P. Rate R = $\\frac{100 \\times 2P}{P \\times 20} = 10\\%$."
+    },
+    {
+        "id": 155,
+        "question": "இராணி தன்னிடமுள்ள ₹5000 ஐ 4.5% ஓராண்டிற்கு தனிவட்டி அளிக்கும் வங்கியில் 73 நாட்களுக்கு முதலீடு செய்தால், அவருக்கு கிடைக்கும் மொத்தத்தொகை",
+        "options": [
+            "₹5000",
+            "₹5045",
+            "₹5073",
+            "₹6000"
+        ],
+        "correct": 1,
+        "explanation": "காலம் N = $\\frac{73}{365} = \\frac{1}{5}$ ஆண்டுகள். வட்டி = $5000 \\times \\frac{1}{5} \\times \\frac{4.5}{100} = 45$. மொத்தத்தொகை = $5000 + 45 = 5045$.",
+        "question_en": "If Rani invests her ₹5000 in a bank providing 4.5% simple interest per annum for 73 days, the total amount she receives is",
+        "options_en": [
+            "₹5000",
+            "₹5045",
+            "₹5073",
+            "₹6000"
+        ],
+        "explanation_en": "Time N = $\\frac{73}{365} = \\frac{1}{5}$ years. Interest = $5000 \\times \\frac{1}{5} \\times \\frac{4.5}{100} = 45$. Total amount = $5000 + 45 = 5045$."
+    },
+    {
+        "id": 156,
+        "question": "$233\\frac{1}{3}\\%$ ஐப் பின்னமாக மாற்றுக.",
+        "options": [
+            "$3\\frac{1}{3}$",
+            "$1\\frac{1}{3}$",
+            "$33\\frac{1}{2}$",
+            "$2\\frac{1}{3}$"
+        ],
+        "correct": 3,
+        "explanation": "$233\\frac{1}{3}\\% = \\frac{\\frac{700}{3}}{100} = \\frac{7}{3} = 2\\frac{1}{3}$.",
+        "question_en": "Convert $233\\frac{1}{3}\\%$ to a fraction.",
+        "options_en": [
+            "$3\\frac{1}{3}$",
+            "$1\\frac{1}{3}$",
+            "$33\\frac{1}{2}$",
+            "$2\\frac{1}{3}$"
+        ],
+        "explanation_en": "$233\\frac{1}{3}\\% = \\frac{\\frac{700}{3}}{100} = \\frac{7}{3} = 2\\frac{1}{3}$."
+    },
+    {
+        "id": 157,
+        "question": "33% இன் தசம வடிவம்",
+        "options": [
+            "0.33",
+            "0.36",
+            "0.03",
+            "33.3"
+        ],
+        "correct": 0,
+        "explanation": "தசம வடிவம் = $\\frac{33}{100} = 0.33$.",
+        "question_en": "The decimal form of 33% is",
+        "options_en": [
+            "0.33",
+            "0.36",
+            "0.03",
+            "33.3"
+        ],
+        "explanation_en": "Decimal form = $\\frac{33}{100} = 0.33$."
+    },
+    {
+        "id": 158,
+        "question": "ஓர் உணவு விடுதியில் பற்றுச்சீட்டின் தொகையில் 1.5% வரியாகப் பெறப்படுகிறது எனில், 6 நபர்கள் கொண்ட குடும்பத்தில் மொத்தம் ₹750க்கு உணவு அருந்தினால் பெறப்படும் வரியின் மதிப்பு",
+        "options": [
+            "₹112.5",
+            "₹761.25",
+            "₹11.25",
+            "₹812.5"
+        ],
+        "correct": 2,
+        "explanation": "வரி = $750 \\times \\frac{1.5}{100} = 11.25$.",
+        "question_en": "If a restaurant charges 1.5% tax on the bill amount, and a family of 6 eats food for a total of ₹750, the value of the tax charged is",
+        "options_en": [
+            "₹112.5",
+            "₹761.25",
+            "₹11.25",
+            "₹812.5"
+        ],
+        "explanation_en": "Tax = $750 \\times \\frac{1.5}{100} = 11.25$."
+    },
+    {
+        "id": 159,
+        "question": "ஒரு குறிப்பிட்ட அசலானது 8% வட்டிவீதத்தில் எத்தனை ஆண்டுகளில் மூன்று மடங்காகும்.",
+        "options": [
+            "5",
+            "25",
+            "10",
+            "20"
+        ],
+        "correct": 1,
+        "explanation": "அசல் மூன்று மடங்கானால் வட்டி = $2P$. ஆண்டுகள் N = $\\frac{100 \\times 2P}{P \\times 8} = 25$.",
+        "question_en": "In how many years will a certain principal triple at an 8% interest rate?",
+        "options_en": [
+            "5",
+            "25",
+            "10",
+            "20"
+        ],
+        "explanation_en": "If principal triples, Interest = $2P$. Years N = $\\frac{100 \\times 2P}{P \\times 8} = 25$."
+    },
+    {
+        "id": 160,
+        "question": "ஒரு குறிப்பிட்ட தொகையானது 8% வட்டி வீதத்தில் 5 ஆண்டுகளில் ₹10,080 ஆகிறது எனில், அசல்",
+        "options": [
+            "₹6000",
+            "₹6600",
+            "₹6800",
+            "₹7200"
+        ],
+        "correct": 3,
+        "explanation": "வட்டி = $P \\times 5 \\times \\frac{8}{100} = 0.4P$. மொத்தத்தொகை = $P + 0.4P = 1.4P = 10080 \\implies P = \\frac{10080}{1.4} = 7200$.",
+        "question_en": "If a certain sum amounts to ₹10,080 in 5 years at an 8% interest rate, the principal is",
+        "options_en": [
+            "₹6000",
+            "₹6600",
+            "₹6800",
+            "₹7200"
+        ],
+        "explanation_en": "Interest = $P \\times 5 \\times \\frac{8}{100} = 0.4P$. Amount = $P + 0.4P = 1.4P = 10080 \\implies P = \\frac{10080}{1.4} = 7200$."
+    },
+    {
+        "id": 161,
+        "question": "3 நபர்களில் 2 நபர்கள் மட்டும் நேர்முகத்தேர்வில் தேர்வு செய்யப்படுவர். இதன் சதவீதம்",
+        "options": [
+            "$66\\frac{2}{3}\\%$",
+            "$66\\frac{4}{3}\\%$",
+            "$66\\frac{1}{2}\\%$",
+            "$66\\frac{4}{5}\\%$"
+        ],
+        "correct": 0,
+        "explanation": "சதவீதம் = $\\frac{2}{3} \\times 100 = \\frac{200}{3} = 66\\frac{2}{3}\\%$.",
+        "question_en": "Only 2 out of 3 persons are selected in an interview. Its percentage is",
+        "options_en": [
+            "$66\\frac{2}{3}\\%$",
+            "$66\\frac{4}{3}\\%$",
+            "$66\\frac{1}{2}\\%$",
+            "$66\\frac{4}{5}\\%$"
+        ],
+        "explanation_en": "Percentage = $\\frac{2}{3} \\times 100 = \\frac{200}{3} = 66\\frac{2}{3}\\%$."
+    },
+    {
+        "id": 162,
+        "question": "நிழலிடப்பட்ட பகுதியின் சதவீதத்தைக் காண்க.",
+        "options": [
+            "50%",
+            "25%",
+            "100%",
+            "75%"
+        ],
+        "correct": 0,
+        "explanation": "விடைக்குறிப்பின்படி, நிழலிடப்பட்ட பகுதி முழுப் பரப்பளவில் பாதியைக் குறிக்கிறது. எனவே இது 50% ஆகும்.",
+        "question_en": "Find the percentage of the shaded region.",
+        "options_en": [
+            "50%",
+            "25%",
+            "100%",
+            "75%"
+        ],
+        "explanation_en": "According to the answer key, the shaded region represents half of the total area. Therefore, it is 50%.",
+        "image": "image/unit13/q162.PNG"
+    },
+    {
+        "id": 163,
+        "question": "பாபு என்பவர் 8% தனிவட்டி வீதத்தில் ₹8200 ஐக் கடனாகப் பெற்று ₹10824 திரும்ப செலுத்தினார் எனில், அவர் எடுத்துக்கொண்ட ஆண்டுகள் எவ்வளவு?",
+        "options": [
+            "1",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct": 2,
+        "explanation": "வட்டி = $10824 - 8200 = 2624$. N = $\\frac{100 \\times 2624}{8200 \\times 8} = \\frac{2624}{656} = 4$.",
+        "question_en": "Babu borrowed ₹8200 at an 8% simple interest rate and repaid ₹10824. How many years did he take to repay?",
+        "options_en": [
+            "1",
+            "3",
+            "4",
+            "5"
+        ],
+        "explanation_en": "Interest = $10824 - 8200 = 2624$. N = $\\frac{100 \\times 2624}{8200 \\times 8} = \\frac{2624}{656} = 4$."
+    }
+]

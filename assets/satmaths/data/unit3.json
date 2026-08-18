@@ -1,0 +1,1622 @@
+[
+    {
+        "id": 1,
+        "question": "2.567 ன் பத்தில் ஒன்றாம் இடத்திற்கான முழுதாக்க மதிப்பு _________.",
+        "options": [
+            "2.6",
+            "3.0",
+            "2.56",
+            "2.57"
+        ],
+        "correct": 0,
+        "explanation": "பத்தில் ஒன்றாம் இடத்து இலக்கம் 5. அதன் வலப்புற இலக்கம் 6 (≥5) என்பதால் 1-ஐக் கூட்டினால் 2.6 கிடைக்கும்.",
+        "question_en": "The rounded value of 2.567 to the nearest tenths place is _________.",
+        "options_en": [
+            "2.6",
+            "3.0",
+            "2.56",
+            "2.57"
+        ],
+        "explanation_en": "The digit in the tenths place is 5. The digit to its right is 6 (≥5), so we add 1 to get 2.6."
+    },
+    {
+        "id": 2,
+        "question": "0.819 ன் நூறில் ஒன்றாம் இடத்திற்கான முழுதாக்க மதிப்பு __________",
+        "options": [
+            "0.81",
+            "0.9",
+            "0.82",
+            "0.8"
+        ],
+        "correct": 2,
+        "explanation": "நூறில் ஒன்றாம் இடத்து இலக்கம் 1. அதன் வலப்புற இலக்கம் 9 (≥5) என்பதால் 1-ஐக் கூட்டினால் 0.82 கிடைக்கும்.",
+        "question_en": "The rounded value of 0.819 to the nearest hundredths place is __________.",
+        "options_en": [
+            "0.81",
+            "0.9",
+            "0.82",
+            "0.8"
+        ],
+        "explanation_en": "The digit in the hundredths place is 1. The digit to its right is 9 (≥5), so we add 1 to get 0.82."
+    },
+    {
+        "id": 3,
+        "question": "33.0014 ன் ஆயிரத்தில் ஒன்றாம் இடத்திற்கான முழுதாக்க மதிப்பு _________.",
+        "options": [
+            "33.002",
+            "33.001",
+            "33.02",
+            "33"
+        ],
+        "correct": 1,
+        "explanation": "ஆயிரத்தில் ஒன்றாம் இடத்து இலக்கம் 1. அதன் வலப்புற இலக்கம் 4 (<5) என்பதால் மதிப்பு மாறாது. விடை 33.001.",
+        "question_en": "The rounded value of 33.0014 to the nearest thousandths place is _________.",
+        "options_en": [
+            "33.002",
+            "33.001",
+            "33.02",
+            "33"
+        ],
+        "explanation_en": "The digit in the thousandths place is 1. The digit to its right is 4 (<5), so the value remains the same. Answer is 33.001."
+    },
+    {
+        "id": 4,
+        "question": "18.47 இன் ஒரு தசம இடத்திருத்தம் _________.",
+        "options": [
+            "18.4",
+            "14.58",
+            "18.48",
+            "18.5"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு தசம இடத்திருத்தம் எனில் பத்தில் ஒன்றாம் இடத்திற்கு முழுதாக்க வேண்டும். 4-க்கு வலப்புறம் 7 (≥5) உள்ளதால் 18.5 கிடைக்கும்.",
+        "question_en": "The value of 18.47 corrected to one decimal place is _________.",
+        "options_en": [
+            "18.4",
+            "14.58",
+            "18.48",
+            "18.5"
+        ],
+        "explanation_en": "Correcting to one decimal place means rounding to tenths. The digit after 4 is 7 (≥5), so it becomes 18.5."
+    },
+    {
+        "id": 5,
+        "question": "799.998 இன் இரு தசம இடத்திருத்தம் _________.",
+        "options": [
+            "799.99",
+            "799.00",
+            "800.00",
+            "790.00"
+        ],
+        "correct": 2,
+        "explanation": "இரு தசம இடத்திருத்தம் எனில் நூறில் ஒன்றாம் இடத்திற்கு முழுதாக்க வேண்டும். 9-க்கு வலப்புறம் 8 (≥5) உள்ளதால் 1 கூட்டினால் 800.00 கிடைக்கும்.",
+        "question_en": "The value of 799.998 corrected to two decimal places is _________.",
+        "options_en": [
+            "799.99",
+            "799.00",
+            "800.00",
+            "790.00"
+        ],
+        "explanation_en": "Correcting to two decimal places means rounding to hundredths. The digit after 9 is 8 (≥5), so adding 1 makes it 800.00."
+    },
+    {
+        "id": 6,
+        "question": "19.0006 ன் மூன்று தசம இடத்திருத்தம் _________.",
+        "options": [
+            "19.0001",
+            "19.001",
+            "20.001",
+            "19.01"
+        ],
+        "correct": 1,
+        "explanation": "மூன்று தசம இடத்திருத்தம் எனில் ஆயிரத்தில் ஒன்றாம் இடத்திற்கு முழுதாக்க வேண்டும். 0-க்கு வலப்புறம் 6 (≥5) உள்ளதால் 19.001 கிடைக்கும்.",
+        "question_en": "The value of 19.0006 corrected to three decimal places is _________.",
+        "options_en": [
+            "19.0001",
+            "19.001",
+            "20.001",
+            "19.01"
+        ],
+        "explanation_en": "Correcting to three decimal places means rounding to thousandths. The digit after 0 is 6 (≥5), so it becomes 19.001."
+    },
+    {
+        "id": 7,
+        "question": "220.990 என்ற தசம எண்ணின் ஒரு தசம இடத்திருத்தம் ________.",
+        "options": [
+            "220.1",
+            "221.0",
+            "219.9",
+            "221.9"
+        ],
+        "correct": 1,
+        "explanation": "ஒரு தசம இடத்திருத்தம் எனில் 9-க்கு வலப்புறம் 9 (≥5) உள்ளதால் 1 கூட்டினால் 221.0 கிடைக்கும்.",
+        "question_en": "The value of the decimal number 220.990 corrected to one decimal place is ________.",
+        "options_en": [
+            "220.1",
+            "221.0",
+            "219.9",
+            "221.9"
+        ],
+        "explanation_en": "Correcting to one decimal place: the digit after the first 9 is 9 (≥5), so adding 1 makes it 221.0."
+    },
+    {
+        "id": 8,
+        "question": "0.111 ஆனது \\\\(\\frac{1}{9}\\\\) இன் தோராயமான மதிப்பிற்குச் சமம் எனில், 0.777 ஆனது _______ இன் தோராயமான மதிப்பிற்குச் சமம் ஆகும்.",
+        "options": [
+            "\\\\(\\frac{5}{9}\\\\)",
+            "\\\\(\\frac{7}{9}\\\\)",
+            "\\\\(\\frac{2}{9}\\\\)",
+            "\\\\(\\frac{1}{9}\\\\)"
+        ],
+        "correct": 1,
+        "explanation": "0.111 = 1/9 எனில், 0.777 = 7 × 0.111 = 7 × (1/9) = 7/9.",
+        "question_en": "If 0.111 is approximately equal to \\(\\frac{1}{9}\\), then 0.777 is approximately equal to _______.",
+        "options_en": [
+            "\\\\(\\frac{5}{9}\\\\)",
+            "\\\\(\\frac{7}{9}\\\\)",
+            "\\\\(\\frac{2}{9}\\\\)",
+            "\\\\(\\frac{1}{9}\\\\)"
+        ],
+        "explanation_en": "If 0.111 = 1/9, then 0.777 = 7 × 0.111 = 7 × (1/9) = 7/9."
+    },
+    {
+        "id": 9,
+        "question": "\\\\(\\frac{28}{0.6}\\\\) இன் மதிப்பை நூறில் ஒன்றாம் இடத்திருத்தமாக்கிைால் கிடைப்பது _______.",
+        "options": [
+            "46.67",
+            "46.7",
+            "47",
+            "50"
+        ],
+        "correct": 0,
+        "explanation": "28 / 0.6 = 280 / 6 = 46.666... இதை நூறில் ஒன்றாம் இடத்திற்கு முழுதாக்கினால் 46.67 கிடைக்கும்.",
+        "question_en": "The value of \\(\\frac{28}{0.6}\\) corrected to the nearest hundredths place is _______.",
+        "options_en": [
+            "46.67",
+            "46.7",
+            "47",
+            "50"
+        ],
+        "explanation_en": "28 / 0.6 = 280 / 6 = 46.666... Rounding this to the hundredths place gives 46.67."
+    },
+    {
+        "id": 10,
+        "question": "32 ல் 6.4% - இன் ஒரு தசம இடத்திருத்த மதிப்பு _________.",
+        "options": [
+            "1.8",
+            "2.1",
+            "2.6",
+            "2.0"
+        ],
+        "correct": 3,
+        "explanation": "32-ல் 6.4% = 32 × 0.064 = 2.048. இதை ஒரு தசம இடத்திற்கு முழுதாக்கினால் 2.0 கிடைக்கும்.",
+        "question_en": "The value of 6.4% of 32 corrected to one decimal place is _________.",
+        "options_en": [
+            "1.8",
+            "2.1",
+            "2.6",
+            "2.0"
+        ],
+        "explanation_en": "6.4% of 32 = 32 × 0.064 = 2.048. Rounding to one decimal place gives 2.0."
+    },
+    {
+        "id": 11,
+        "question": "99.__5 ன் முழு எண்ணிற்கு முழுதாக்க மதிப்பு 100 எனில், கோடிட்ட இடத்தில் வரும் எண் __.",
+        "options": [
+            "0",
+            "4",
+            "3",
+            "7"
+        ],
+        "correct": 3,
+        "explanation": "99.__5 முழுதாக்கப்பட்டு 100 கிடைக்க வேண்டுமானால், கோடிட்ட இடத்தில் 5 அல்லது அதற்கு மேற்பட்ட எண் (≥5) இருக்க வேண்டும். கொடுக்கப்பட்ட விருப்பங்களில் 7 சரியானது.",
+        "question_en": "If the rounded value of 99.__5 to the nearest whole number is 100, the digit in the blank is __.",
+        "options_en": [
+            "0",
+            "4",
+            "3",
+            "7"
+        ],
+        "explanation_en": "For 99.__5 to round up to 100, the blank must be a digit ≥5. Among the options, 7 is the correct choice."
+    },
+    {
+        "id": 12,
+        "question": "1.0 + 0.83 = ______",
+        "options": [
+            "0.17",
+            "0.71",
+            "1.83",
+            "1.38"
+        ],
+        "correct": 2,
+        "explanation": "1.0 + 0.83 = 1.83",
+        "question_en": "1.0 + 0.83 = ______",
+        "options_en": [
+            "0.17",
+            "0.71",
+            "1.83",
+            "1.38"
+        ],
+        "explanation_en": "1.0 + 0.83 = 1.83"
+    },
+    {
+        "id": 13,
+        "question": "7.0 — 2.83 = _______",
+        "options": [
+            "3.47",
+            "4.17",
+            "7.34",
+            "4.73"
+        ],
+        "correct": 1,
+        "explanation": "7.0 - 2.83 = 4.17",
+        "question_en": "7.0 — 2.83 = _______",
+        "options_en": [
+            "3.47",
+            "4.17",
+            "7.34",
+            "4.73"
+        ],
+        "explanation_en": "7.0 - 2.83 = 4.17"
+    },
+    {
+        "id": 14,
+        "question": "3.51 லிருந்து 1.35 ஐக் கழிக்க",
+        "options": [
+            "6.21",
+            "4.86",
+            "8.64",
+            "2.16"
+        ],
+        "correct": 3,
+        "explanation": "3.51 - 1.35 = 2.16",
+        "question_en": "Subtract 1.35 from 3.51",
+        "options_en": [
+            "6.21",
+            "4.86",
+            "8.64",
+            "2.16"
+        ],
+        "explanation_en": "3.51 - 1.35 = 2.16"
+    },
+    {
+        "id": 15,
+        "question": "3.8 செ.மீ பக்க அளவு கொண்ட சமபக்க முக்கோணத்தின் சுற்றளவு ____________.",
+        "options": [
+            "11.6 செ.மீ",
+            "7.6 செ.மீ",
+            "15.2 செ.மீ",
+            "11.4 செ.மீ"
+        ],
+        "correct": 3,
+        "explanation": "சமபக்க முக்கோணத்தின் சுற்றளவு = 3 × பக்கம் = 3 × 3.8 = 11.4 செ.மீ.",
+        "question_en": "The perimeter of an equilateral triangle with side length 3.8 cm is ____________.",
+        "options_en": [
+            "11.6 cm",
+            "7.6 cm",
+            "15.2 cm",
+            "11.4 cm"
+        ],
+        "explanation_en": "Perimeter of an equilateral triangle = 3 × side = 3 × 3.8 = 11.4 cm."
+    },
+    {
+        "id": 16,
+        "question": "7 — 3.7 = _________",
+        "options": [
+            "3.0",
+            "4.7",
+            "3.3",
+            "10.7"
+        ],
+        "correct": 2,
+        "explanation": "7.0 - 3.7 = 3.3",
+        "question_en": "7 — 3.7 = _________",
+        "options_en": [
+            "3.0",
+            "4.7",
+            "3.3",
+            "10.7"
+        ],
+        "explanation_en": "7.0 - 3.7 = 3.3"
+    },
+    {
+        "id": 17,
+        "question": "0.5 + 0.005 + 5.05 = _____",
+        "options": [
+            "5.55",
+            "5.555",
+            "5.055",
+            "5.550"
+        ],
+        "correct": 1,
+        "explanation": "0.5 + 0.005 + 5.05 = 0.500 + 0.005 + 5.050 = 5.555",
+        "question_en": "0.5 + 0.005 + 5.05 = _____",
+        "options_en": [
+            "5.55",
+            "5.555",
+            "5.055",
+            "5.550"
+        ],
+        "explanation_en": "0.5 + 0.005 + 5.05 = 0.500 + 0.005 + 5.050 = 5.555"
+    },
+    {
+        "id": 18,
+        "question": "0.35 — 0.035 = _____",
+        "options": [
+            "0.3",
+            "0.349",
+            "0.315",
+            "0.353"
+        ],
+        "correct": 2,
+        "explanation": "0.35 - 0.035 = 0.350 - 0.035 = 0.315",
+        "question_en": "0.35 — 0.035 = _____",
+        "options_en": [
+            "0.3",
+            "0.349",
+            "0.315",
+            "0.353"
+        ],
+        "explanation_en": "0.35 - 0.035 = 0.350 - 0.035 = 0.315"
+    },
+    {
+        "id": 19,
+        "question": "2.5 + 3.05 - 4.005 = _________",
+        "options": [
+            "1.545",
+            "1.455",
+            "1.554",
+            "0.545"
+        ],
+        "correct": 0,
+        "explanation": "(2.5 + 3.05) - 4.005 = 5.550 - 4.005 = 1.545",
+        "question_en": "2.5 + 3.05 - 4.005 = _________",
+        "options_en": [
+            "1.545",
+            "1.455",
+            "1.554",
+            "0.545"
+        ],
+        "explanation_en": "(2.5 + 3.05) - 4.005 = 5.550 - 4.005 = 1.545"
+    },
+    {
+        "id": 20,
+        "question": "3.5 — 2.43 + 0.075 = ________",
+        "options": [
+            "1.415",
+            "1.145",
+            "6.005",
+            "4.115"
+        ],
+        "correct": 1,
+        "explanation": "3.5 - 2.43 + 0.075 = 1.07 + 0.075 = 1.145",
+        "question_en": "3.5 — 2.43 + 0.075 = ________",
+        "options_en": [
+            "1.415",
+            "1.145",
+            "6.005",
+            "4.115"
+        ],
+        "explanation_en": "3.5 - 2.43 + 0.075 = 1.07 + 0.075 = 1.145"
+    },
+    {
+        "id": 21,
+        "question": "புகழேந்தி ரூ.25.75க்கு சர்க்கரையும், ரூ.60.35க்கு பருப்பும், ரூ.32.45க்கு எண்ணெயும் வாங்கி ரூ.200 கடைக்காரரிடம் கொடுத்தால் கிடைக்கும் மீதித்தொகை _______.",
+        "options": [
+            "ரூ.118.55",
+            "ரூ.81.55",
+            "ரூ.81.45",
+            "80.45"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த செலவு = 25.75 + 60.35 + 32.45 = 118.55. மீதி = 200 - 118.55 = 81.45.",
+        "question_en": "Pugazhendhi bought sugar for ₹25.75, dal for ₹60.35, and oil for ₹32.45. If he gave ₹200 to the shopkeeper, the balance amount he will get is _______.",
+        "options_en": [
+            "₹118.55",
+            "₹81.55",
+            "₹81.45",
+            "80.45"
+        ],
+        "explanation_en": "Total cost = 25.75 + 60.35 + 32.45 = 118.55. Balance = 200 - 118.55 = 81.45."
+    },
+    {
+        "id": 22,
+        "question": "25.45 — 33.26 + 45.25 — 22.45 = _____",
+        "options": [
+            "14.99",
+            "100.25",
+            "123.25",
+            "10.225"
+        ],
+        "correct": 0,
+        "explanation": "25.45 - 33.26 + 45.25 - 22.45 = (25.45 + 45.25) - (33.26 + 22.45) = 70.70 - 55.71 = 14.99",
+        "question_en": "25.45 — 33.26 + 45.25 — 22.45 = _____",
+        "options_en": [
+            "14.99",
+            "100.25",
+            "123.25",
+            "10.225"
+        ],
+        "explanation_en": "25.45 - 33.26 + 45.25 - 22.45 = (25.45 + 45.25) - (33.26 + 22.45) = 70.70 - 55.71 = 14.99"
+    },
+    {
+        "id": 23,
+        "question": "இரு தசம எண்களின் கூடுதல் 4.78. அவற்றில் ஒரு தசம எண் 3.21 எனில், மற்றொரு தசம எண் _______.",
+        "options": [
+            "1.57",
+            "1.75",
+            "1.59",
+            "1.58"
+        ],
+        "correct": 0,
+        "explanation": "மற்றொரு எண் = 4.78 - 3.21 = 1.57",
+        "question_en": "The sum of two decimal numbers is 4.78. If one decimal number is 3.21, the other decimal number is _______.",
+        "options_en": [
+            "1.57",
+            "1.75",
+            "1.59",
+            "1.58"
+        ],
+        "explanation_en": "Other number = 4.78 - 3.21 = 1.57"
+    },
+    {
+        "id": 24,
+        "question": "இரு தசம எண்களின் வேறுபாடு 86.58. அவற்றில் ஓர் எண் 42.31 எனில், மற்றொரு தசம எண்",
+        "options": [
+            "128.89",
+            "128.69",
+            "44.27",
+            "128.39"
+        ],
+        "correct": 0,
+        "explanation": "x - 42.31 = 86.58 எனில் x = 86.58 + 42.31 = 128.89.",
+        "question_en": "The difference between two decimal numbers is 86.58. If one number is 42.31, the other decimal number is _______.",
+        "options_en": [
+            "128.89",
+            "128.69",
+            "44.27",
+            "128.39"
+        ],
+        "explanation_en": "If x - 42.31 = 86.58, then x = 86.58 + 42.31 = 128.89."
+    },
+    {
+        "id": 25,
+        "question": "0.713 ஐப் பெறுவதற்கு 7.1 லிருந்து எதைக் கழிக்க வேண்டும்?",
+        "options": [
+            "6.387",
+            "7.813",
+            "7.713",
+            "6.837"
+        ],
+        "correct": 0,
+        "explanation": "7.1 - x = 0.713 எனில் x = 7.1 - 0.713 = 6.387.",
+        "question_en": "What must be subtracted from 7.1 to get 0.713?",
+        "options_en": [
+            "6.387",
+            "7.813",
+            "7.713",
+            "6.837"
+        ],
+        "explanation_en": "7.1 - x = 0.713 means x = 7.1 - 0.713 = 6.387."
+    },
+    {
+        "id": 26,
+        "question": "53.7 ஐ விட 35.6 எவ்வளவு குறைவாக உள்ளது?",
+        "options": [
+            "11.8",
+            "89.3",
+            "18.1",
+            "81.1"
+        ],
+        "correct": 2,
+        "explanation": "53.7 - 35.6 = 18.1",
+        "question_en": "How much less is 35.6 than 53.7?",
+        "options_en": [
+            "11.8",
+            "89.3",
+            "18.1",
+            "81.1"
+        ],
+        "explanation_en": "53.7 - 35.6 = 18.1"
+    },
+    {
+        "id": 27,
+        "question": "0.002 ஐ விட 0.0543 எவ்வளவு பெரியது?",
+        "options": [
+            "0.0523",
+            "0.523",
+            "0.563",
+            "0.0532"
+        ],
+        "correct": 0,
+        "explanation": "0.0543 - 0.0020 = 0.0523",
+        "question_en": "How much greater is 0.0543 than 0.002?",
+        "options_en": [
+            "0.0523",
+            "0.523",
+            "0.563",
+            "0.0532"
+        ],
+        "explanation_en": "0.0543 - 0.0020 = 0.0523"
+    },
+    {
+        "id": 28,
+        "question": "ஒருவர் 5 கி.மீ 52 மீ ஐ பேருந்திலும் 2 கி.மீ. 265 மீ. ஐ காரிலும் 1 கி.மீ. 30 மீ ஐ நடந்தும் கடக்கிறார் எனில், அவர் கடந்த மொத்த தொலைவு ______.",
+        "options": [
+            "8.347 கி.மீ",
+            "9.085 கி.மீ.",
+            "8.925 கி.மீ.",
+            "9.000 கி.மீ."
+        ],
+        "correct": 0,
+        "explanation": "5.052 + 2.265 + 1.030 = 8.347 கி.மீ.",
+        "question_en": "A person travels 5 km 52 m by bus, 2 km 265 m by car, and walks 1 km 30 m. The total distance travelled by him is ______.",
+        "options_en": [
+            "8.347 km",
+            "9.085 km",
+            "8.925 km",
+            "9.000 km"
+        ],
+        "explanation_en": "5.052 + 2.265 + 1.030 = 8.347 km."
+    },
+    {
+        "id": 29,
+        "question": "100 மற்றும் 99.999 இடையேயான வித்தியாசம் ______.",
+        "options": [
+            "1.111",
+            "1.000",
+            "0.001",
+            "0.01"
+        ],
+        "correct": 2,
+        "explanation": "100.000 - 99.999 = 0.001",
+        "question_en": "The difference between 100 and 99.999 is ______.",
+        "options_en": [
+            "1.111",
+            "1.000",
+            "0.001",
+            "0.01"
+        ],
+        "explanation_en": "100.000 - 99.999 = 0.001"
+    },
+    {
+        "id": 30,
+        "question": "32.7 லிருந்து 8.14 மற்றும் 12.9 ஆகியவற்றின் கூடுதலைக் கழித்தால் கிடைப்பது _______.",
+        "options": [
+            "11.66",
+            "12.47",
+            "16.11",
+            "24.56"
+        ],
+        "correct": 0,
+        "explanation": "32.7 - (8.14 + 12.9) = 32.7 - 21.04 = 11.66",
+        "question_en": "Subtracting the sum of 8.14 and 12.9 from 32.7 gives _______.",
+        "options_en": [
+            "11.66",
+            "12.47",
+            "16.11",
+            "24.56"
+        ],
+        "explanation_en": "32.7 - (8.14 + 12.9) = 32.7 - 21.04 = 11.66"
+    },
+    {
+        "id": 31,
+        "question": "2.43 மற்றும் 5.57 ஆகியவற்றின் கூடுதலிலிருந்து 4.36 மற்றும் 3.64 ஆகியவற்றின் கூடுதலைக் கழித்தால் கிடைப்பது _________.",
+        "options": [
+            "8.00",
+            "16.00",
+            "0",
+            "7.79"
+        ],
+        "correct": 2,
+        "explanation": "(2.43 + 5.57) - (4.36 + 3.64) = 8.00 - 8.00 = 0",
+        "question_en": "Subtracting the sum of 4.36 and 3.64 from the sum of 2.43 and 5.57 gives _________.",
+        "options_en": [
+            "8.00",
+            "16.00",
+            "0",
+            "7.79"
+        ],
+        "explanation_en": "(2.43 + 5.57) - (4.36 + 3.64) = 8.00 - 8.00 = 0"
+    },
+    {
+        "id": 32,
+        "question": "99.09 உடன் எந்த எண்ணைக் கூட்ட 100 கிடைக்கும்?",
+        "options": [
+            "0.91",
+            "0.01",
+            "91",
+            "0.1"
+        ],
+        "correct": 0,
+        "explanation": "100.00 - 99.09 = 0.91",
+        "question_en": "What number should be added to 99.09 to get 100?",
+        "options_en": [
+            "0.91",
+            "0.01",
+            "91",
+            "0.1"
+        ],
+        "explanation_en": "100.00 - 99.09 = 0.91"
+    },
+    {
+        "id": 33,
+        "question": "ஒருவர் முதல் நாள் 3.4 கி.மீ தூரமும் இரண்டாம் நாள் முந்தைய நாளை விட 800 மீ அதிக தூரமும் பயணித்தார் எனில் இருநாள்களிலும் பயணித்த மொத்த தூரம் எவ்வளவு?",
+        "options": [
+            "4.2 கி.மீ",
+            "6.8 கி.மீ",
+            "803.4 கி.மீ",
+            "7.6 கி.மீ"
+        ],
+        "correct": 3,
+        "explanation": "முதல் நாள் = 3.4 கி.மீ. இரண்டாம் நாள் = 3.4 + 0.8 = 4.2 கி.மீ. மொத்தம் = 3.4 + 4.2 = 7.6 கி.மீ.",
+        "question_en": "A person travelled 3.4 km on the first day and 800 m more than the previous day on the second day. What is the total distance travelled in both days?",
+        "options_en": [
+            "4.2 km",
+            "6.8 km",
+            "803.4 km",
+            "7.6 km"
+        ],
+        "explanation_en": "Day 1 = 3.4 km. Day 2 = 3.4 + 0.8 = 4.2 km. Total = 3.4 + 4.2 = 7.6 km."
+    },
+    {
+        "id": 34,
+        "question": "1.07 × 0.1 = ________.",
+        "options": [
+            "1.070",
+            "0.107",
+            "10.70",
+            "11.07"
+        ],
+        "correct": 1,
+        "explanation": "1.07 × 0.1 = 0.107 (தசம புள்ளி ஒரு இடம் இடதுபுறம் நகரும்)",
+        "question_en": "1.07 × 0.1 = ________.",
+        "options_en": [
+            "1.070",
+            "0.107",
+            "10.70",
+            "11.07"
+        ],
+        "explanation_en": "1.07 × 0.1 = 0.107 (Decimal point moves one place to the left)"
+    },
+    {
+        "id": 35,
+        "question": "2.08 × 10 = ________.",
+        "options": [
+            "20.8",
+            "208.0",
+            "0.208",
+            "280.0"
+        ],
+        "correct": 0,
+        "explanation": "2.08 × 10 = 20.8 (தசம புள்ளி ஒரு இடம் வலதுபுறம் நகரும்)",
+        "question_en": "2.08 × 10 = ________.",
+        "options_en": [
+            "20.8",
+            "208.0",
+            "0.208",
+            "280.0"
+        ],
+        "explanation_en": "2.08 × 10 = 20.8 (Decimal point moves one place to the right)"
+    },
+    {
+        "id": 36,
+        "question": "ஒரு தவளை ஒரு குதியில் 5.3 செ.மீ தூரம் தாவுகிறது எனில், 10 முறை அவ்வாறு குதித்து அந்தத் தவளை கடந்த தொலைவு ______",
+        "options": [
+            "0.53 செ.மீ",
+            "530 செ.மீ",
+            "53.0 செ.மீ",
+            "53.5 செ.மீ"
+        ],
+        "correct": 2,
+        "explanation": "5.3 × 10 = 53.0 செ.மீ",
+        "question_en": "If a frog jumps a distance of 5.3 cm in one leap, the distance covered by the frog in 10 such leaps is ______",
+        "options_en": [
+            "0.53 cm",
+            "530 cm",
+            "53.0 cm",
+            "53.5 cm"
+        ],
+        "explanation_en": "5.3 × 10 = 53.0 cm"
+    },
+    {
+        "id": 37,
+        "question": "0.003 × 0.2 இக்குச் சமமானது _________",
+        "options": [
+            "0.6",
+            "0.06",
+            "0.006",
+            "0.0006"
+        ],
+        "correct": 3,
+        "explanation": "3 × 2 = 6. தசம இடங்கள் = 3 + 1 = 4. எனவே 0.0006",
+        "question_en": "0.003 × 0.2 is equal to _________",
+        "options_en": [
+            "0.6",
+            "0.06",
+            "0.006",
+            "0.0006"
+        ],
+        "explanation_en": "3 × 2 = 6. Total decimal places = 3 + 1 = 4. So, 0.0006"
+    },
+    {
+        "id": 38,
+        "question": "0.01 × 0.001 = ________",
+        "options": [
+            "0.0001",
+            "0.00002",
+            "0.00001",
+            "0.001"
+        ],
+        "correct": 2,
+        "explanation": "1 × 1 = 1. தசம இடங்கள் = 2 + 3 = 5. எனவே 0.00001",
+        "question_en": "0.01 × 0.001 = ________",
+        "options_en": [
+            "0.0001",
+            "0.00002",
+            "0.00001",
+            "0.001"
+        ],
+        "explanation_en": "1 × 1 = 1. Total decimal places = 2 + 3 = 5. So, 0.00001"
+    },
+    {
+        "id": 39,
+        "question": "0.01 × 0.01 = _________",
+        "options": [
+            "0.001",
+            "\\\\(\\frac{1}{10000}\\\\)",
+            "\\\\(\\frac{1}{1000}\\\\)",
+            "0.0002"
+        ],
+        "correct": 1,
+        "explanation": "0.01 × 0.01 = 0.0001 = 1/10000",
+        "question_en": "0.01 × 0.01 = _________",
+        "options_en": [
+            "0.001",
+            "\\\\(\\frac{1}{10000}\\\\)",
+            "\\\\(\\frac{1}{1000}\\\\)",
+            "0.0002"
+        ],
+        "explanation_en": "0.01 × 0.01 = 0.0001 = 1/10000"
+    },
+    {
+        "id": 40,
+        "question": "ஒரு தசம எண்ணை 10 ஆல் பெருக்கும்போது, தசமப் புள்ளியை _______ இடங்கள் ________ புறமாக நகர்த்துகிறோம்.",
+        "options": [
+            "2, வலது",
+            "1, இடது",
+            "2, இடது",
+            "1, வலது"
+        ],
+        "correct": 3,
+        "explanation": "10 ஆல் பெருக்கும் போது தசம புள்ளி 1 இடம் வலதுபுறம் நகரும்.",
+        "question_en": "When a decimal number is multiplied by 10, the decimal point is moved _______ places to the ________.",
+        "options_en": [
+            "2, right",
+            "1, left",
+            "2, left",
+            "1, right"
+        ],
+        "explanation_en": "When multiplying by 10, the decimal point moves 1 place to the right."
+    },
+    {
+        "id": 41,
+        "question": "3.92 × 0.1 × 0.0 × 6.3 ன் மதிப்பு _______",
+        "options": [
+            "0.392",
+            "0.1176",
+            "0",
+            "6.3"
+        ],
+        "correct": 2,
+        "explanation": "0 ஆல் எந்த எண்ணைப் பெருக்கினாலும் விடை 0 ஆகும்.",
+        "question_en": "The value of 3.92 × 0.1 × 0.0 × 6.3 is _______",
+        "options_en": [
+            "0.392",
+            "0.1176",
+            "0",
+            "6.3"
+        ],
+        "explanation_en": "Any number multiplied by 0 is 0."
+    },
+    {
+        "id": 44,
+        "question": "0.01 × 1000 = ______",
+        "options": [
+            "1",
+            "0.1",
+            "0.01",
+            "10"
+        ],
+        "correct": 3,
+        "explanation": "0.01 × 1000 = 10",
+        "question_en": "0.01 × 1000 = ______",
+        "options_en": [
+            "1",
+            "0.1",
+            "0.01",
+            "10"
+        ],
+        "explanation_en": "0.01 × 1000 = 10"
+    },
+    {
+        "id": 45,
+        "question": "5.6 × 4.5 + 3.4 = ______",
+        "options": [
+            "123.42",
+            "2613.76",
+            "243.12",
+            "28.6"
+        ],
+        "correct": 3,
+        "explanation": "(5.6 × 4.5) + 3.4 = 25.20 + 3.4 = 28.6",
+        "question_en": "5.6 × 4.5 + 3.4 = ______",
+        "options_en": [
+            "123.42",
+            "2613.76",
+            "243.12",
+            "28.6"
+        ],
+        "explanation_en": "(5.6 × 4.5) + 3.4 = 25.20 + 3.4 = 28.6"
+    },
+    {
+        "id": 46,
+        "question": "ஒரு சிறுவனின் எடை 25.2 கிகி. அவன் தந்தையின் எடையானது சிறுவனின் எடையைப் போல 1.5 மடங்கு எனில் தந்தையின் எடை __________.",
+        "options": [
+            "37 கிகி",
+            "37.8 கிகி",
+            "3.78 கிகி",
+            "38.7 கிகி"
+        ],
+        "correct": 1,
+        "explanation": "தந்தையின் எடை = 25.2 × 1.5 = 37.8 கிகி.",
+        "question_en": "A boy's weight is 25.2 kg. If his father's weight is 1.5 times the boy's weight, the father's weight is __________.",
+        "options_en": [
+            "37 kg",
+            "37.8 kg",
+            "3.78 kg",
+            "38.7 kg"
+        ],
+        "explanation_en": "Father's weight = 25.2 × 1.5 = 37.8 kg."
+    },
+    {
+        "id": 47,
+        "question": "ஓர் ஒழுங்கு அறுங்கோணத்தின் ஒவ்வொரு பக்கமும் 3.5 செ.மீ நீளமுடையது எனில் அதன் சுற்றளவு ________",
+        "options": [
+            "17.5 செ.மீ",
+            "21 செ.மீ",
+            "18.5 செ.மீ",
+            "24.5 செ.மீ"
+        ],
+        "correct": 1,
+        "explanation": "அறுங்கோணத்தின் சுற்றளவு = 6 × பக்கம் = 6 × 3.5 = 21 செ.மீ.",
+        "question_en": "If each side of a regular hexagon is 3.5 cm long, its perimeter is ________",
+        "options_en": [
+            "17.5 cm",
+            "21 cm",
+            "18.5 cm",
+            "24.5 cm"
+        ],
+        "explanation_en": "Perimeter of hexagon = 6 × side = 6 × 3.5 = 21 cm."
+    },
+    {
+        "id": 48,
+        "question": "0.25 மீ அகலமும் 2.5 மீ நீளமும் கொண்ட தரையில் 1 ச.மீ பரப்பு கொண்ட ஓட்டினைப் பதிக்கும்போது எவ்வளவு ஓடு வீணாகும்?",
+        "options": [
+            "0.0625 ச.மீ",
+            "0.375 ச.மீ",
+            "0.0375 ச.மீ",
+            "0.475 ச.மீ"
+        ],
+        "correct": 1,
+        "explanation": "தரையின் பரப்பு = 2.5 × 0.25 = 0.625 ச.மீ. 1 ச.மீ ஓட்டினைப் பதிக்கும்போது வீணாகும் பகுதி = 1 - 0.625 = 0.375 ச.மீ.",
+        "question_en": "If a tile of area 1 sq.m is laid on a floor of width 0.25 m and length 2.5 m, how much of the tile is wasted?",
+        "options_en": [
+            "0.0625 sq.m",
+            "0.375 sq.m",
+            "0.0375 sq.m",
+            "0.475 sq.m"
+        ],
+        "explanation_en": "Floor area = 2.5 × 0.25 = 0.625 sq.m. Area of tile wasted = 1 - 0.625 = 0.375 sq.m."
+    },
+    {
+        "id": 49,
+        "question": "5.6 ÷ 0.5 = ________.",
+        "options": [
+            "11.4",
+            "10.4",
+            "0.14",
+            "11.2"
+        ],
+        "correct": 3,
+        "explanation": "5.6 ÷ 0.5 = 56 ÷ 5 = 11.2",
+        "question_en": "5.6 ÷ 0.5 = ________.",
+        "options_en": [
+            "11.4",
+            "10.4",
+            "0.14",
+            "11.2"
+        ],
+        "explanation_en": "5.6 ÷ 0.5 = 56 ÷ 5 = 11.2"
+    },
+    {
+        "id": 50,
+        "question": "2.01 ÷ 0.03 = ________.",
+        "options": [
+            "6.7",
+            "67.0",
+            "0.67",
+            "0.067"
+        ],
+        "correct": 1,
+        "explanation": "2.01 ÷ 0.03 = 201 ÷ 3 = 67.0",
+        "question_en": "2.01 ÷ 0.03 = ________.",
+        "options_en": [
+            "6.7",
+            "67.0",
+            "0.67",
+            "0.067"
+        ],
+        "explanation_en": "2.01 ÷ 0.03 = 201 ÷ 3 = 67.0"
+    },
+    {
+        "id": 51,
+        "question": "0.05 ÷ 0.5 = _________",
+        "options": [
+            "0.01",
+            "0.1",
+            "0.10",
+            "1.0"
+        ],
+        "correct": 1,
+        "explanation": "0.05 ÷ 0.5 = 5 ÷ 50 = 0.1",
+        "question_en": "0.05 ÷ 0.5 = _________",
+        "options_en": [
+            "0.01",
+            "0.1",
+            "0.10",
+            "1.0"
+        ],
+        "explanation_en": "0.05 ÷ 0.5 = 5 ÷ 50 = 0.1"
+    },
+    {
+        "id": 52,
+        "question": "\\\\(\\frac{3}{10}\\\\) = ________",
+        "options": [
+            "3.1",
+            "1.3",
+            "0.3",
+            "0.03"
+        ],
+        "correct": 2,
+        "explanation": "3 ÷ 10 = 0.3",
+        "question_en": "\\(\\frac{3}{10}\\) = ________",
+        "options_en": [
+            "3.1",
+            "1.3",
+            "0.3",
+            "0.03"
+        ],
+        "explanation_en": "3 ÷ 10 = 0.3"
+    },
+    {
+        "id": 53,
+        "question": "1.5 லி அளவுள்ள கரும்புச்சாறு ஆனது 5 பேருக்குச் சமமாகப் பங்கிட ஒவ்வொருவருக்கும் கிடைக்கும் கரும்புச்சாறின் அளவு __________",
+        "options": [
+            "0.03 லி",
+            "3 லி",
+            "300 மி.லி",
+            "0.3 மி.லி"
+        ],
+        "correct": 2,
+        "explanation": "1.5 ÷ 5 = 0.3 லி = 300 மி.லி.",
+        "question_en": "If 1.5 L of sugarcane juice is divided equally among 5 people, the amount of juice each person gets is __________",
+        "options_en": [
+            "0.03 L",
+            "3 L",
+            "300 mL",
+            "0.3 mL"
+        ],
+        "explanation_en": "1.5 ÷ 5 = 0.3 L = 300 mL."
+    },
+    {
+        "id": 54,
+        "question": "ஒரு மகிழுந்து 0.21 மணி நேரத்தில் 16.8 கி.மீ தொலைவைக் கடக்கிறது எனில் 1 மணி நேரத்தில் வாகனம் கடந்த தொலைவு __________.",
+        "options": [
+            "0.8 கி.மீ",
+            "80 கி.மீ",
+            "800 கி.மீ",
+            "35.28 கி.மீ"
+        ],
+        "correct": 1,
+        "explanation": "வேகம் = தூரம் / நேரம் = 16.8 / 0.21 = 1680 / 21 = 80 கி.மீ/மணி.",
+        "question_en": "If a car covers a distance of 16.8 km in 0.21 hours, the distance covered by the car in 1 hour is __________.",
+        "options_en": [
+            "0.8 km",
+            "80 km",
+            "800 km",
+            "35.28 km"
+        ],
+        "explanation_en": "Speed = Distance / Time = 16.8 / 0.21 = 1680 / 21 = 80 km/h."
+    },
+    {
+        "id": 55,
+        "question": "6\\\\(\\frac{1}{2}\\\\) மீ நீளமுள்ள ரிப்பன் ஆனது 0.25 மீ நீளமுள்ள சிறுசிறு துண்டுகளாக வெட்டப்படுகிறது எனில், வெட்டப்பட்ட துண்டுகளின் எண்ணிக்கை ______",
+        "options": [
+            "26",
+            "24",
+            "22",
+            "28"
+        ],
+        "correct": 0,
+        "explanation": "எண்ணிக்கை = 6.5 ÷ 0.25 = 650 ÷ 25 = 26.",
+        "question_en": "If a ribbon of length 6\\(\\frac{1}{2}\\) m is cut into small pieces of length 0.25 m, the number of pieces cut is ______",
+        "options_en": [
+            "26",
+            "24",
+            "22",
+            "28"
+        ],
+        "explanation_en": "Number of pieces = 6.5 ÷ 0.25 = 650 ÷ 25 = 26."
+    },
+    {
+        "id": 56,
+        "question": "கீழ்க்கண்டவற்றுள் சரியான கூற்று எது?",
+        "options": [
+            "0.6 ஆனது \\\\(\\frac{1}{6}\\\\) இக்குச் சமம்.",
+            "0.5 ஐ 0.05 ஆல் வகுக்கும் போது கிடைக்கும் ஈவு 10 ஆகும்.",
+            "தசம இலக்கங்களின் வலதுபுறம் 0 சேர்ப்பதால் அந்த எண்ணின் மதிப்பு மாறுகிறது.",
+            "0.1 என்பது 1.0 என்பதும் சமம்."
+        ],
+        "correct": 1,
+        "explanation": "0.5 ÷ 0.05 = 50 ÷ 5 = 10 என்பது சரியான கூற்று.",
+        "question_en": "Which of the following statements is true?",
+        "options_en": [
+            "0.6 ஆனது \\\\(\\frac{1}{6}\\\\) is equal to.",
+            "0.5 ஐ 0.05 ஆல் வகுக்கும் போது கிடைக்கும் quotient is 10 ஆகும்.",
+            "தசம இலக்கங்களின் rightபுறம் 0 வசர்ப்பதால் அந்த எண்ணின் மதிப்பு மாறுகிறது.",
+            "0.1 என்பது 1.0 என்பதும் சமம்."
+        ],
+        "explanation_en": "0.5 ÷ 0.05 = 50 ÷ 5 = 10 is the true statement."
+    },
+    {
+        "id": 57,
+        "question": "2.32 ÷ _______ = 0.232",
+        "options": [
+            "10",
+            "100",
+            "1000",
+            "1.0"
+        ],
+        "correct": 0,
+        "explanation": "2.32 ÷ 10 = 0.232",
+        "question_en": "2.32 ÷ _______ = 0.232",
+        "options_en": [
+            "10",
+            "100",
+            "1000",
+            "1.0"
+        ],
+        "explanation_en": "2.32 ÷ 10 = 0.232"
+    },
+    {
+        "id": 59,
+        "question": "143.6 ÷ 2000 = ______",
+        "options": [
+            "0.1718",
+            "7.18",
+            "0.718",
+            "0.0718"
+        ],
+        "correct": 3,
+        "explanation": "143.6 ÷ 2000 = 0.0718",
+        "question_en": "143.6 ÷ 2000 = ______",
+        "options_en": [
+            "0.1718",
+            "7.18",
+            "0.718",
+            "0.0718"
+        ],
+        "explanation_en": "143.6 ÷ 2000 = 0.0718"
+    },
+    {
+        "id": 60,
+        "question": "15 பேனாக்களின் விலை ரூ.148.50 எனில், 1 பேனாவின் விலை என்ன?",
+        "options": [
+            "ரூ.12.80",
+            "ரூ.8.90",
+            "ரூ.10.90",
+            "ரூ.9.90"
+        ],
+        "correct": 3,
+        "explanation": "1 பேனாவின் விலை = 148.50 ÷ 15 = ரூ.9.90",
+        "question_en": "If the price of 15 pens is ₹148.50, what is the price of 1 pen?",
+        "options_en": [
+            "₹12.80",
+            "₹8.90",
+            "₹10.90",
+            "₹9.90"
+        ],
+        "explanation_en": "Price of 1 pen = 148.50 ÷ 15 = ₹9.90"
+    },
+    {
+        "id": 61,
+        "question": "0.8 × 0.8 ÷ 0.8 = ________",
+        "options": [
+            "0.1",
+            "1.0",
+            "0.8",
+            "0.64"
+        ],
+        "correct": 2,
+        "explanation": "0.8 × (0.8 ÷ 0.8) = 0.8 × 1 = 0.8",
+        "question_en": "0.8 × 0.8 ÷ 0.8 = ________",
+        "options_en": [
+            "0.1",
+            "1.0",
+            "0.8",
+            "0.64"
+        ],
+        "explanation_en": "0.8 × (0.8 ÷ 0.8) = 0.8 × 1 = 0.8"
+    },
+    {
+        "id": 62,
+        "question": "1.44 ÷ 1.2 = __________",
+        "options": [
+            "1.2",
+            "12",
+            "0.12",
+            "120"
+        ],
+        "correct": 0,
+        "explanation": "1.44 ÷ 1.2 = 1.2",
+        "question_en": "1.44 ÷ 1.2 = __________",
+        "options_en": [
+            "1.2",
+            "12",
+            "0.12",
+            "120"
+        ],
+        "explanation_en": "1.44 ÷ 1.2 = 1.2"
+    },
+    {
+        "id": 63,
+        "question": "5 பைசா என்பது ______ க்குச் சமம்.",
+        "options": [
+            "ரூ.0.5",
+            "ரூ.0.05",
+            "ரூ.0.005",
+            "ரூ.0.0005"
+        ],
+        "correct": 1,
+        "explanation": "5 பைசா = 5/100 ரூபாய் = ரூ.0.05.",
+        "question_en": "5 paise is equal to ______.",
+        "options_en": [
+            "₹0.5",
+            "₹0.05",
+            "₹0.005",
+            "₹0.0005"
+        ],
+        "explanation_en": "5 paise = 5/100 rupees = ₹0.05."
+    },
+    {
+        "id": 64,
+        "question": "0.007 ÷ 0.7 = _____",
+        "options": [
+            "0.101",
+            "0.1",
+            "1.0",
+            "0.01"
+        ],
+        "correct": 3,
+        "explanation": "0.007 ÷ 0.7 = 0.01",
+        "question_en": "0.007 ÷ 0.7 = _____",
+        "options_en": [
+            "0.101",
+            "0.1",
+            "1.0",
+            "0.01"
+        ],
+        "explanation_en": "0.007 ÷ 0.7 = 0.01"
+    },
+    {
+        "id": 65,
+        "question": "ஒரு சதுரத்தின் சுற்றளவு 9.44 மீ எனில் அதன் பக்க அளவு ____",
+        "options": [
+            "2.36 மீ",
+            "0.236 மீ",
+            "23.6 மீ",
+            "4 மீ"
+        ],
+        "correct": 0,
+        "explanation": "சதுரத்தின் பக்கம் = சுற்றளவு ÷ 4 = 9.44 ÷ 4 = 2.36 மீ.",
+        "question_en": "If the perimeter of a square is 9.44 m, its side length is ____",
+        "options_en": [
+            "2.36 மீ",
+            "0.236 மீ",
+            "23.6 மீ",
+            "4 மீ"
+        ],
+        "explanation_en": "Side of square = Perimeter ÷ 4 = 9.44 ÷ 4 = 2.36 m."
+    },
+    {
+        "id": 66,
+        "question": "1 மீ. க்குச் சமமானது ______",
+        "options": [
+            "0.1 கி.மீ",
+            "0.01 கி.மீ",
+            "0.001 கி.மீ",
+            "0.0001 கி.மீ"
+        ],
+        "correct": 2,
+        "explanation": "1 மீ = 1/1000 கி.மீ = 0.001 கி.மீ.",
+        "question_en": "1 m is equal to ______",
+        "options_en": [
+            "0.1 km",
+            "0.01 km",
+            "0.001 km",
+            "0.0001 km"
+        ],
+        "explanation_en": "1 m = 1/1000 km = 0.001 km."
+    },
+    {
+        "id": 67,
+        "question": "2 கிகி 5 கி க்குச் சமமானது ______",
+        "options": [
+            "2.5 கிகி",
+            "2.05 கிகி",
+            "2.005 கிகி",
+            "2.6 கிகி"
+        ],
+        "correct": 2,
+        "explanation": "5 கி = 5/1000 கிகி = 0.005 கிகி. எனவே 2 + 0.005 = 2.005 கிகி.",
+        "question_en": "2 kg 5 g is equal to ______",
+        "options_en": [
+            "2.5 kg",
+            "2.05 kg",
+            "2.005 kg",
+            "2.6 kg"
+        ],
+        "explanation_en": "5 g = 5/1000 kg = 0.005 kg. Total = 2.005 kg."
+    },
+    {
+        "id": 68,
+        "question": "7 மீ8 செ.மீ. = _______",
+        "options": [
+            "7.8 மீ",
+            "7.80 மீ",
+            "7.08 மீ",
+            "78 செ.மீ."
+        ],
+        "correct": 2,
+        "explanation": "8 செ.மீ = 0.08 மீ. எனவே 7.08 மீ.",
+        "question_en": "7 m 8 cm = _______",
+        "options_en": [
+            "7.8 மீ",
+            "7.80 மீ",
+            "7.08 மீ",
+            "78 cm."
+        ],
+        "explanation_en": "8 cm = 0.08 m. Total = 7.08 m."
+    },
+    {
+        "id": 69,
+        "question": "14 கிகி 5 கி = _______",
+        "options": [
+            "14.5 கி.கி",
+            "14.05 கி.கி",
+            "14.005 கி.கி",
+            "145 கி.கி"
+        ],
+        "correct": 2,
+        "explanation": "5 கி = 0.005 கிகி. எனவே 14.005 கிகி.",
+        "question_en": "14 kg 5 g = _______",
+        "options_en": [
+            "14.5 kg",
+            "14.05 kg",
+            "14.005 kg",
+            "145 kg"
+        ],
+        "explanation_en": "5 g = 0.005 kg. Total = 14.005 kg."
+    },
+    {
+        "id": 70,
+        "question": "1 மீ= _______",
+        "options": [
+            "\\\\(\\frac{1}{1000}\\\\) கி.மீ",
+            "\\\\(\\frac{1}{100}\\\\) கி.மீ",
+            "\\\\(\\frac{1}{10}\\\\) கி.மீ",
+            "0.01 கி.மீ"
+        ],
+        "correct": 0,
+        "explanation": "1 மீ = 1/1000 கி.மீ.",
+        "question_en": "1 m = _______",
+        "options_en": [
+            "\\\\(\\frac{1}{1000}\\\\) km",
+            "\\\\(\\frac{1}{100}\\\\) km",
+            "\\\\(\\frac{1}{10}\\\\) km",
+            "0.01 km"
+        ],
+        "explanation_en": "1 m = 1/1000 km."
+    },
+    {
+        "id": 71,
+        "question": "5 செ.மீ= ______",
+        "options": [
+            "0.005 கி.மீ",
+            "0.00005 கி.மீ",
+            "0.000005 கி..மீ",
+            "ஏதுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "5 செ.மீ = 5 / 100000 கி.மீ = 0.00005 கி.மீ.",
+        "question_en": "5 cm = ______",
+        "options_en": [
+            "0.005 km",
+            "0.00005 km",
+            "0.000005 கி..மீ",
+            "None of the above"
+        ],
+        "explanation_en": "5 cm = 5 / 100,000 km = 0.00005 km."
+    },
+    {
+        "id": 72,
+        "question": "ஒரு ஒழுங்குப் பலகோணத்தின் சுற்றளவு 17.5 செ.மீ. ஒவ்வொரு பக்கத்தின் அளவு 2.5 செ.மீ எனில் அந்தப் பலகோணத்தில் உள்ள பக்கங்களின் எண்ணிக்கை ________",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "correct": 1,
+        "explanation": "பக்கங்களின் எண்ணிக்கை = சுற்றளவு / பக்க அளவு = 17.5 / 2.5 = 7.",
+        "question_en": "If the perimeter of a regular polygon is 17.5 cm and each side measures 2.5 cm, the number of sides in the polygon is ________",
+        "options_en": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "explanation_en": "Number of sides = Perimeter / Side length = 17.5 / 2.5 = 7."
+    },
+    {
+        "id": 73,
+        "question": "இரு எண்களின் பெருக்குத்தொகை 4.48 அதில் ஓர் எண் 3.2 எனில் மற்றோர் எண் ________.",
+        "options": [
+            "14",
+            "4.1",
+            "0.14",
+            "1.4"
+        ],
+        "correct": 3,
+        "explanation": "மற்றோர் எண் = 4.48 / 3.2 = 1.4.",
+        "question_en": "The product of two numbers is 4.48. If one number is 3.2, the other number is ________.",
+        "options_en": [
+            "14",
+            "4.1",
+            "0.14",
+            "1.4"
+        ],
+        "explanation_en": "Other number = 4.48 / 3.2 = 1.4."
+    },
+    {
+        "id": 74,
+        "question": "ஒரு வானூர்தி 6 மணி நேரத்தில் 2782.20 கி.மீ பயணிக்கிறது எனில் அதன் சராசரி வேகம் ___.",
+        "options": [
+            "463.7 கி.மீ/ மணி",
+            "4637 கி.மீ/ மணி",
+            "463.07 கி.மீ/ மணி",
+            "46.37 கி.மீ/ மணி"
+        ],
+        "correct": 0,
+        "explanation": "வேகம் = தூரம் / நேரம் = 2782.20 / 6 = 463.7 கி.மீ/மணி.",
+        "question_en": "If an airplane travels 2782.20 km in 6 hours, its average speed is ___.",
+        "options_en": [
+            "463.7 km/ மணி",
+            "4637 km/ மணி",
+            "463.07 km/ மணி",
+            "46.37 km/ மணி"
+        ],
+        "explanation_en": "Speed = Distance / Time = 2782.20 / 6 = 463.7 km/h."
+    },
+    {
+        "id": 75,
+        "question": "ரித்திகா 2\\\\(\\frac{1}{2}\\\\) கிகி ஆப்பிள், 3 கிகி திராட்சை மற்றும் 3\\\\(\\frac{1}{2}\\\\) கிகி ஆரஞ்சுப் பழங்களை வாங்கி 4 நண்பர்களுக்குச் சமமாகப் பிரித்துக் கொடுக்க விரும்பினால் ஒவ்வொருவரும் பெறும் பழங்களின் அளவு ________.",
+        "options": [
+            "225 கிகி",
+            "22.5 கிகி",
+            "2.25 கிகி",
+            "3 கிகி"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த பழங்கள் = 2.5 + 3 + 3.5 = 9 கிகி. 4 பேருக்கு பிரித்தால் = 9 / 4 = 2.25 கிகி.",
+        "question_en": "If Rithika buys 2\\(\\frac{1}{2}\\) kg apples, 3 kg grapes, and 3\\(\\frac{1}{2}\\) kg oranges and wants to divide them equally among 4 friends, the amount of fruits each friend gets is ________.",
+        "options_en": [
+            "225 kg",
+            "22.5 kg",
+            "2.25 kg",
+            "3 kg"
+        ],
+        "explanation_en": "Total fruits = 2.5 + 3 + 3.5 = 9 kg. Shared among 4 = 9 / 4 = 2.25 kg."
+    },
+    {
+        "id": 76,
+        "question": "\\\\( \\\\frac{0.1}{0.01} + \\\\frac{0.01}{0.1} \\\\) ன் மதிப்பு ________.",
+        "options": [
+            "10.1",
+            "1.10",
+            "1.01",
+            "10.01"
+        ],
+        "correct": 0,
+        "explanation": "(0.1/0.01) + (0.01/0.1) = 10 + 0.1 = 10.1",
+        "question_en": "The value of \\( \\frac{0.1}{0.01} + \\frac{0.01}{0.1} \\) is ________.",
+        "options_en": [
+            "10.1",
+            "1.10",
+            "1.01",
+            "10.01"
+        ],
+        "explanation_en": "(0.1/0.01) + (0.01/0.1) = 10 + 0.1 = 10.1"
+    },
+    {
+        "id": 77,
+        "question": "2.135 + \\\\(\\\\frac{324.5}{100}\\\\) = ____",
+        "options": [
+            "326.635",
+            "7.459",
+            "5.38",
+            "\\\\(\\\\frac{326.635}{100}\\\\)"
+        ],
+        "correct": 2,
+        "explanation": "2.135 + (324.5 / 100) = 2.135 + 3.245 = 5.38",
+        "question_en": "2.135 + \\(\\frac{324.5}{100}\\) = ____",
+        "options_en": [
+            "326.635",
+            "7.459",
+            "5.38",
+            "\\\\(\\\\frac{326.635}{100}\\\\)"
+        ],
+        "explanation_en": "2.135 + (324.5 / 100) = 2.135 + 3.245 = 5.38"
+    },
+    {
+        "id": 78,
+        "question": "கூற்று (அ) : இரண்டு, ஆயிரத்தில் இருபத்து ஐந்து என்பதன் சரியான எண்மதிப்பு 2.025\nகூற்று (ஆ) : தசம இலக்கங்களின் வலப்புறமாக பூச்சியங்களைச் சேர்க்க அந்த எண்ணின் மதிப்பானது மாறும்.",
+        "options": [
+            "(அ) மட்டும் சரி",
+            "(அ) மட்டும் தவறு",
+            "இரண்டும் சரி",
+            "இரண்டும் தவறு"
+        ],
+        "correct": 0,
+        "explanation": "கூற்று (அ) மட்டுமே சரி. தசம எண்ணின் வலப்புற முடிவில் பூச்சியங்களைச் சேர்ப்பதால் மதிப்பு மாறாது.",
+        "question_en": "Statement (a): Two point zero two five in thousands is the correct numerical value for 2.025. Statement (b): Adding zeros to the right of the decimal part changes the value of the number.",
+        "options_en": [
+            "(a) only is true",
+            "(a) only is false",
+            "Both are true",
+            "Both are false"
+        ],
+        "explanation_en": "Only Statement (a) is true. Adding zeros to the right of the decimal part does not change the value."
+    },
+    {
+        "id": 79,
+        "question": "2494 ÷ 14.5 = 172 எனில் 24.94 ÷ 1.45 = ____",
+        "options": [
+            "0.172",
+            "1.72",
+            "17.2",
+            "172"
+        ],
+        "correct": 2,
+        "explanation": "24.94 / 1.45 = 2494 / 145 = 17.2",
+        "question_en": "If 2494 ÷ 14.5 = 172, then 24.94 ÷ 1.45 = ____",
+        "options_en": [
+            "0.172",
+            "1.72",
+            "17.2",
+            "172"
+        ],
+        "explanation_en": "24.94 / 1.45 = 2494 / 145 = 17.2"
+    },
+    {
+        "id": 80,
+        "question": "\\\\( \\\\frac{0.1 \\\\times 0.1 \\\\times 0.1 + 0.02 \\\\times 0.02 \\\\times 0.02}{0.2 \\\\times 0.2 \\\\times 0.2 + 0.04 \\\\times 0.04 \\\\times 0.04} \\\\) = ?",
+        "options": [
+            "0.0125",
+            "0.125",
+            "0.25",
+            "0.5"
+        ],
+        "correct": 1,
+        "explanation": "(a³ + b³) வடிவத்தில் உள்ளது, கீழே 2³(a³ + b³) உள்ளது. எனவே விடை 1/2³ = 1/8 = 0.125.",
+        "question_en": "\\( \\frac{0.1 \\times 0.1 \\times 0.1 + 0.02 \\times 0.02 \\times 0.02}{0.2 \\times 0.2 \\times 0.2 + 0.04 \\times 0.04 \\times 0.04} \\) = ?",
+        "options_en": [
+            "0.0125",
+            "0.125",
+            "0.25",
+            "0.5"
+        ],
+        "explanation_en": "The numerator is a³ + b³ and denominator is (2a)³ + (2b)³ = 8(a³ + b³). Answer is 1/8 = 0.125."
+    },
+    {
+        "id": 82,
+        "question": "419.81692 ன் தோராய மதிப்பை நான்காவது தசம இடத்திருத்தமாகக் காண்க.",
+        "options": [
+            "419.8170",
+            "419.8171",
+            "419.8169",
+            "419.9169"
+        ],
+        "correct": 2,
+        "explanation": "நான்காவது தசம இடத்திருத்தம் எனில் ஐந்தாவது இலக்கத்தைப் பார்க்க வேண்டும் (2 < 5). எனவே 419.8169.",
+        "question_en": "Find the approximate value of 419.81692 corrected to the fourth decimal place.",
+        "options_en": [
+            "419.8170",
+            "419.8171",
+            "419.8169",
+            "419.9169"
+        ],
+        "explanation_en": "Correcting to four decimal places, the fifth digit is 2 (<5), so it remains 419.8169."
+    },
+    {
+        "id": 83,
+        "question": "ஒரு மகிழுந்து 1 லி பெட்ரோலில் 26.6 கி.மீ தூரத்தைக் கடக்கிறது. அது 13 லி பெட்ரோலில் கடக்கும் தூரம் ______",
+        "options": [
+            "43.85 கி.மீ",
+            "354.8 கி.மீ",
+            "438.5 கி.மீ",
+            "345.8 கி.மீ"
+        ],
+        "correct": 3,
+        "explanation": "13 லிட்டரில் கடக்கும் தூரம் = 26.6 × 13 = 345.8 கி.மீ.",
+        "question_en": "A car covers 26.6 km with 1 litre of petrol. The distance it covers with 13 litres of petrol is ______",
+        "options_en": [
+            "43.85 km",
+            "354.8 km",
+            "438.5 km",
+            "345.8 km"
+        ],
+        "explanation_en": "Distance for 13 liters = 26.6 × 13 = 345.8 km."
+    },
+    {
+        "id": 84,
+        "question": "\\\\(\\frac{1}{0.2}\\\\) க்குச் சமமானது _______",
+        "options": [
+            "\\\\(\\frac{1}{2}\\\\)",
+            "0.2",
+            "5",
+            "2"
+        ],
+        "correct": 2,
+        "explanation": "1 / 0.2 = 10 / 2 = 5",
+        "question_en": "\\(\\frac{1}{0.2}\\) is equal to _______",
+        "options_en": [
+            "\\\\(\\frac{1}{2}\\\\)",
+            "0.2",
+            "5",
+            "2"
+        ],
+        "explanation_en": "1 / 0.2 = 10 / 2 = 5"
+    },
+    {
+        "id": 85,
+        "question": "ஒரு வாகன ஓட்டுநர் 3.2 மணி நேரத்தில் 135.04 கி.மீ தொலைவைக் கடக்கிறார் எனில் வாகனத்தின் வேகம் ______.",
+        "options": [
+            "422 கி.மீ/ மணி",
+            "4.22 கி.மீ/ மணி",
+            "42.2 கி.மீ/ மணி",
+            "42 கி.மீ/ மணி"
+        ],
+        "correct": 2,
+        "explanation": "வேகம் = தூரம் / நேரம் = 135.04 / 3.2 = 42.2 கி.மீ / மணி.",
+        "question_en": "If a driver covers a distance of 135.04 km in 3.2 hours, the speed of the vehicle is ______.",
+        "options_en": [
+            "422 km/ மணி",
+            "4.22 km/ மணி",
+            "42.2 km/ மணி",
+            "42 km/ மணி"
+        ],
+        "explanation_en": "Speed = Distance / Time = 135.04 / 3.2 = 42.2 km/h."
+    }
+]

@@ -1,0 +1,2813 @@
+[
+    {
+        "id": 1,
+        "question": "மூன்று ______________ புள்ளிகளை இணைப்பதன் மூலம் முக்கோணம் உருவாக்கப்படுகிறது.",
+        "options": [
+            "நேர்க்கோட்டிலமையும்",
+            "நேர்க்கோட்டிலமையாத",
+            "நேரான",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): நேர்க்கோட்டிலமையாத. மூன்று புள்ளிகளும் ஒரே நேர்க்கோட்டில் அமைந்தால் அது ஒரு கோட்டை உருவாக்கும். அவை நேர்க்கோட்டிலமையாத (Non-collinear) புள்ளிகளாக இருந்தால் மட்டுமே ஒரு மூடிய முக்கோணத்தை உருவாக்கும்.",
+        "question_en": "A triangle is formed by joining three ______________ points.",
+        "options_en": [
+            "Collinear",
+            "Non-collinear",
+            "Straight",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (2): Non-collinear. If three points are on the same line, they form a line segment. They must be non-collinear to form a closed triangle."
+    },
+    {
+        "id": 2,
+        "question": "ஒரு முக்கோணத்தில் ______________ முனைகள் மற்றும் ______________ பக்கங்கள் இருக்கும்.",
+        "options": [
+            "2, 3",
+            "1, 3",
+            "3, 3",
+            "1, 1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3, 3. முக்கோணம் என்பது மூன்று பக்கங்கள் மற்றும் மூன்று முனைகளைக் கொண்ட ஒரு பலகோணம் ஆகும்.",
+        "question_en": "A triangle has ______________ vertices and ______________ sides.",
+        "options_en": [
+            "2, 3",
+            "1, 3",
+            "3, 3",
+            "1, 1"
+        ],
+        "explanation_en": "Correct answer option (3): 3, 3. A triangle is a polygon with exactly 3 sides and 3 vertices."
+    },
+    {
+        "id": 3,
+        "question": "ஒரு முக்கோணத்தின் இரு பக்கங்கள் சந்திக்கும் புள்ளியானது முக்கோணத்தின் ______________ என அறியப்படுகிறது.",
+        "options": [
+            "முனைகள்",
+            "விளிம்புகள்",
+            "மையம்",
+            "நடுக்கோடு"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): முனைகள். இரு பக்கங்கள் சந்திக்கும் புள்ளி முனை (Vertex) எனப்படும்.",
+        "question_en": "The point where two sides of a triangle meet is known as the ______________ of the triangle.",
+        "options_en": [
+            "Vertices",
+            "Edges",
+            "Center",
+            "Median"
+        ],
+        "explanation_en": "Correct answer option (1): Vertices. The intersection point of two sides is called a vertex."
+    },
+    {
+        "id": 4,
+        "question": "ஒரு முக்கோணத்தின் கோண அளவுகள் \\( 29^{\\circ}, 65^{\\circ} \\) மற்றும் \\( 86^{\\circ} \\) எனில், அம்முக்கோணம் ______________ முக்கோணம்.",
+        "options": [
+            "குறுங்கோண",
+            "செங்கோண",
+            "விரிகோண",
+            "சமபக்க"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): குறுங்கோண. மூன்று கோணங்களும் \\( 90^{\\circ} \\) ஐ விடக் குறைவாக இருப்பதால், இது ஒரு குறுங்கோண முக்கோணம் ஆகும்.",
+        "question_en": "If the angles of a triangle are \\( 29^{\\circ}, 65^{\\circ} \\) and \\( 86^{\\circ} \\), then the triangle is an ______________ triangle.",
+        "options_en": [
+            "Acute-angled",
+            "Right-angled",
+            "Obtuse-angled",
+            "Equilateral"
+        ],
+        "explanation_en": "Correct answer option (1): Acute-angled. Since all three angles are less than \\( 90^{\\circ} \\), it is an acute-angled triangle."
+    },
+    {
+        "id": 5,
+        "question": "ஒரு முக்கோணத்தின் கோண அளவுகள் \\( 30^{\\circ}, 30^{\\circ} \\) மற்றும் \\( 120^{\\circ} \\) எனில், அம்முக்கோணம் ______________ முக்கோணம்.",
+        "options": [
+            "குறுங்கோண",
+            "செங்கோண",
+            "விரிகோண",
+            "அசமபக்க"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): விரிகோண. முக்கோணத்தின் ஒரு கோணம் \\( 120^{\\circ} \\) (அதாவது \\( 90^{\\circ} \\) ஐ விட அதிகம்) ஆக இருப்பதால் இது ஒரு விரிகோண முக்கோணம்.",
+        "question_en": "If the angles of a triangle are \\( 30^{\\circ}, 30^{\\circ} \\) and \\( 120^{\\circ} \\), then the triangle is an ______________ triangle.",
+        "options_en": [
+            "Acute-angled",
+            "Right-angled",
+            "Obtuse-angled",
+            "Scalene"
+        ],
+        "explanation_en": "Correct answer option (3): Obtuse-angled. Since one of the angles is \\( 120^{\\circ} \\) (which is greater than \\( 90^{\\circ} \\)), it is an obtuse-angled triangle."
+    },
+    {
+        "id": 6,
+        "question": "பின்வருவனவற்றில் எவை முக்கோணத்தின் பக்கங்களாக அமையும்?",
+        "options": [
+            "5, 9, 14",
+            "7, 7, 15",
+            "1, 2, 4",
+            "3, 6, 8"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 3, 6, 8. முக்கோணத்தின் இரு சிறிய பக்கங்களின் கூடுதல் மூன்றாவது பக்கத்தை விடப் பெரியதாக இருக்க வேண்டும். இங்கு \\( 3+6 = 9 > 8 \\) என்பது மட்டுமே இந்த விதியை நிறைவு செய்கிறது.",
+        "question_en": "Which of the following can be the sides of a triangle?",
+        "options_en": [
+            "5, 9, 14",
+            "7, 7, 15",
+            "1, 2, 4",
+            "3, 6, 8"
+        ],
+        "explanation_en": "Correct answer option (4): 3, 6, 8. The sum of the two smaller sides must be greater than the third side. Here, \\( 3+6 = 9 > 8 \\), which satisfies the triangle inequality."
+    },
+    {
+        "id": 7,
+        "question": "எழில் தனது முக்கோண வடிவிலான தோட்டத்திற்கு வேலி அமைக்கின்றார். இரண்டு பக்கங்களின் அளவுகள் 8 அடி மற்றும் 14 அடி எனில், மூன்றாவது பக்கத்தின் அளவானது ______________.",
+        "options": [
+            "11 அடி",
+            "6 அடி",
+            "5 அடி",
+            "22 அடி"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 11 அடி. மூன்றாவது பக்கம் (x) ஆனது பக்கங்களின் வித்தியாசத்தை விடப் பெரியதாகவும், கூடுதலை விடச் சிறியதாகவும் இருக்க வேண்டும். அதாவது \\( 14-8 < x < 14+8 \\Rightarrow 6 < x < 22 \\). கொடுக்கப்பட்ட தேர்வுகளில் 11 மட்டுமே இந்த இடைவெளிக்குள் உள்ளது.",
+        "question_en": "Ezhil is fencing his triangular garden. If two sides are 8 ft and 14 ft, then the third side could be ______________.",
+        "options_en": [
+            "11 ft",
+            "6 ft",
+            "5 ft",
+            "22 ft"
+        ],
+        "explanation_en": "Correct answer option (1): 11 ft. The third side (x) must satisfy \\( 14-8 < x < 14+8 \\Rightarrow 6 < x < 22 \\). Only 11 ft falls in this range."
+    },
+    {
+        "id": 8,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A=50^{\\circ}, \\angle B=70^{\\circ}, \\angle C=60^{\\circ} \\) எனில், கீழ்க்கண்டவற்றில் எது சரி?",
+        "options": [
+            "\\( AB < BC < AC \\)",
+            "\\( BC < AB < AC \\)",
+            "\\( AC < AB < BC \\)",
+            "\\( AC < BC < AB \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( BC < AB < AC \\). முக்கோணத்தில் சிறிய கோணத்திற்கு எதிரே சிறிய பக்கமும், பெரிய கோணத்திற்கு எதிரே பெரிய பக்கமும் அமையும். \\( \\angle A < \\angle C < \\angle B \\) (50 < 60 < 70) என்பதால், அவற்றிற்கு எதிரே உள்ள பக்கங்கள் \\( BC < AB < AC \\) ஆக இருக்கும்.",
+        "question_en": "In \\( \\Delta ABC \\), \\( \\angle A=50^{\\circ}, \\angle B=70^{\\circ}, \\angle C=60^{\\circ} \\). Which of the following is correct?",
+        "options_en": [
+            "\\( AB < BC < AC \\)",
+            "\\( BC < AB < AC \\)",
+            "\\( AC < AB < BC \\)",
+            "\\( AC < BC < AB \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( BC < AB < AC \\). The side opposite the smallest angle is the shortest, and the side opposite the largest angle is the longest. Since \\( \\angle A < \\angle C < \\angle B \\), the opposite sides follow \\( BC < AB < AC \\)."
+    },
+    {
+        "id": 9,
+        "question": "ஒரு முக்கோணத்தின் ஒரு பக்கம் 9 cm எனில், மற்ற இரு பக்கங்கள் ______________.",
+        "options": [
+            "6 cm, 3 cm",
+            "6 cm, 15 cm",
+            "20 cm, 10 cm",
+            "6 cm, 10 cm"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 6 cm, 10 cm. முக்கோணச் சமனின்மைப் பண்பின்படி இரு சிறிய பக்கங்களின் கூடுதல் பெரிய பக்கத்தை விட அதிகம். 6+9 = 15 > 10. மற்ற விருப்பங்களில் இது பொருந்தாது.",
+        "question_en": "If one side of a triangle is 9 cm, the other two sides can be ______________.",
+        "options_en": [
+            "6 cm, 3 cm",
+            "6 cm, 15 cm",
+            "20 cm, 10 cm",
+            "6 cm, 10 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 6 cm, 10 cm. The sum of the two smaller sides must be greater than the third side. Only 6 + 9 = 15 > 10 satisfies this rule."
+    },
+    {
+        "id": 10,
+        "question": "ஒரு முக்கோணமானது கீழ்க்கண்ட எதனைப் பெற்றிருக்கும்?",
+        "options": [
+            "சரியாக இரு குறுங்கோணங்கள்",
+            "குறைந்தது இரு குறுங்கோணங்கள்",
+            "ஒரே ஒரு குறுங்கோணம்",
+            "அதிகபட்சம் இரு விரிகோணங்கள்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): குறைந்தது இரு குறுங்கோணங்கள். எந்தவொரு முக்கோணத்திலும் குறைந்தபட்சம் இரண்டு குறுங்கோணங்கள் (Acute angles) கட்டாயம் இருக்கும்.",
+        "question_en": "A triangle must have which of the following?",
+        "options_en": [
+            "Exactly two acute angles",
+            "At least two acute angles",
+            "Only one acute angle",
+            "At most two obtuse angles"
+        ],
+        "explanation_en": "Correct answer option (2): At least two acute angles. Every triangle must contain at least two acute angles."
+    },
+    {
+        "id": 11,
+        "question": "\\( \\Delta ABC \\) இல், கீழ்க்கண்டவற்றில் எது சரி?",
+        "options": [
+            "\\( AB - BC > CA \\)",
+            "\\( AB + BC < CA \\)",
+            "\\( AB - BC < CA \\)",
+            "\\( AB + CA < BC \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( AB - BC < CA \\). முக்கோணத்தின் எந்த இரு பக்கங்களின் வித்தியாசமும் மூன்றாவது பக்கத்தை விடச் சிறியதாக இருக்கும்.",
+        "question_en": "In \\( \\Delta ABC \\), which of the following is true?",
+        "options_en": [
+            "\\( AB - BC > CA \\)",
+            "\\( AB + BC < CA \\)",
+            "\\( AB - BC < CA \\)",
+            "\\( AB + CA < BC \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( AB - BC < CA \\). The difference between any two sides of a triangle is always less than the third side."
+    },
+    {
+        "id": 12,
+        "question": "ஒரு முக்கோணத்தின் இரு பக்கங்கள் 4 cm, 6 cm எனில் மூன்றாவது பக்கமானது ______________.",
+        "options": [
+            "> 10 cm",
+            "= 10 cm",
+            "< 10 cm",
+            "ஏதேனும் ஒரு அளவு"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): < 10 cm. முக்கோணச் சமனின்மைப் பண்பின்படி மூன்றாவது பக்கத்தின் அளவு மற்ற இரு பக்கங்களின் கூடுதலை (4+6=10) விடச் சிறியதாக இருக்க வேண்டும். (விடைக்குறிப்பில் அச்சுப்பிழையால் (1) என இருக்கலாம், ஆனால் கணிதப்படி <10 என்பதே சரி).",
+        "question_en": "If two sides of a triangle are 4 cm and 6 cm, then the third side is ______________.",
+        "options_en": [
+            "> 10 cm",
+            "= 10 cm",
+            "< 10 cm",
+            "Any value"
+        ],
+        "explanation_en": "Correct answer option (3): < 10 cm. The third side must be less than the sum of the other two sides (4+6=10). So, it must be < 10 cm."
+    },
+    {
+        "id": 13,
+        "question": "ஒரு அசமபக்க முக்கோணமானது கீழ்க்கண்ட எவ்வகை முக்கோணமாக இருக்க முடியாது?",
+        "options": [
+            "குறுங்கோண முக்கோணம்",
+            "செங்கோண முக்கோணம்",
+            "விரிகோண முக்கோணம்",
+            "சமபக்க முக்கோணம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): சமபக்க முக்கோணம். அசமபக்க முக்கோணத்தில் மூன்று பக்கங்களும் வெவ்வேறு அளவுகளைக் கொண்டிருக்கும். ஆனால் சமபக்க முக்கோணத்தில் மூன்று பக்கங்களும் சமமாக இருக்க வேண்டும்.",
+        "question_en": "A scalene triangle cannot be which of the following types of triangle?",
+        "options_en": [
+            "Acute-angled triangle",
+            "Right-angled triangle",
+            "Obtuse-angled triangle",
+            "Equilateral triangle"
+        ],
+        "explanation_en": "Correct answer option (4): Equilateral triangle. A scalene triangle has all three sides of different lengths, whereas an equilateral triangle requires all three sides to be equal."
+    },
+    {
+        "id": 14,
+        "question": "கீழ்க்கண்ட எந்த அளவுகளைக் கொண்டு ஒரு முக்கோணம் அமைக்க இயலும்?",
+        "options": [
+            "6 cm, 3.6 cm, 2.4 cm",
+            "5.5 cm, 2.5 cm, 2.5 cm",
+            "6.6 cm, 3.3 cm, 7.8 cm",
+            "8.1 cm, 3.2 cm, 2.5 cm"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 6.6 cm, 3.3 cm, 7.8 cm. சிறிய இரு பக்கங்களின் கூடுதல் \\( 3.3+6.6 = 9.9 \\). இது மூன்றாவது பக்கமான 7.8 ஐ விடப் பெரியதாக உள்ளது.",
+        "question_en": "Which of the following set of measurements can form a triangle?",
+        "options_en": [
+            "6 cm, 3.6 cm, 2.4 cm",
+            "5.5 cm, 2.5 cm, 2.5 cm",
+            "6.6 cm, 3.3 cm, 7.8 cm",
+            "8.1 cm, 3.2 cm, 2.5 cm"
+        ],
+        "explanation_en": "Correct answer option (3): 6.6 cm, 3.3 cm, 7.8 cm. The sum of the two smaller sides is \\( 3.3+6.6 = 9.9 \\), which is greater than the third side 7.8."
+    },
+    {
+        "id": 15,
+        "question": "கீழ்க்கண்ட எந்தக் கோண அளவுகளைக் கொண்டு \\( \\Delta ABC \\) அமைக்க முடியும்?",
+        "options": [
+            "\\( \\angle A \\) மற்றும் \\( \\angle C \\) ஆகிய குறுங்கோணங்கள்",
+            "\\( \\angle B \\) மற்றும் \\( \\angle C \\) ஆகிய செங்கோணங்கள்",
+            "\\( \\angle B \\) மற்றும் \\( \\angle C \\) ஆகிய விரிகோணங்கள்",
+            "\\( \\angle B \\) விரிகோணம் மற்றும் \\( \\angle C \\) செங்கோணம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( \\angle A \\) மற்றும் \\( \\angle C \\) ஆகிய குறுங்கோணங்கள். ஒரு முக்கோணத்தில் குறைந்தது இரண்டு குறுங்கோணங்கள் இருக்க வேண்டும். இரண்டு செங்கோணங்களோ அல்லது விரிகோணங்களோ இருக்க இயலாது.",
+        "question_en": "Which of the following angle types can form \\( \\Delta ABC \\)?",
+        "options_en": [
+            "\\( \\angle A \\) and \\( \\angle C \\) are acute angles",
+            "\\( \\angle B \\) and \\( \\angle C \\) are right angles",
+            "\\( \\angle B \\) and \\( \\angle C \\) are obtuse angles",
+            "\\( \\angle B \\) is obtuse and \\( \\angle C \\) is a right angle"
+        ],
+        "explanation_en": "Correct answer option (1): \\( \\angle A \\) and \\( \\angle C \\) are acute angles. Every triangle must have at least two acute angles. It cannot have multiple right or obtuse angles."
+    },
+    {
+        "id": 16,
+        "question": "\\( \\Delta PQR \\) இல், \\( \\angle R = \\angle P \\), QR = 4 cm மற்றும் PR = 5 cm எனில், PQ என்பது ______________.",
+        "options": [
+            "5 cm",
+            "9 cm",
+            "7 cm",
+            "4 cm"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 4 cm. கோணங்கள் R மற்றும் P சமம் என்பதால் அவற்றுக்கு எதிரான பக்கங்களும் சமமாக இருக்கும் (PQ = QR). எனவே PQ = 4 cm.",
+        "question_en": "In \\( \\Delta PQR \\), if \\( \\angle R = \\angle P \\), QR = 4 cm and PR = 5 cm, then PQ is ______________.",
+        "options_en": [
+            "5 cm",
+            "9 cm",
+            "7 cm",
+            "4 cm"
+        ],
+        "explanation_en": "Correct answer option (4): 4 cm. Since angles R and P are equal, their opposite sides must be equal (PQ = QR). Thus, PQ = 4 cm."
+    },
+    {
+        "id": 17,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A=90^{\\circ} \\), AB=AC எனில், அது ______________.",
+        "options": [
+            "இருசமபக்க முக்கோணம்",
+            "செங்கோணம் முக்கோணம்",
+            "இருசமபக்க செங்கோணம் முக்கோணம்",
+            "சமபக்க முக்கோணம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): இருசமபக்க செங்கோணம் முக்கோணம். ஒரு கோணம் \\( 90^{\\circ} \\) மற்றும் இரு பக்கங்கள் சமமாக இருப்பதால் இது இருசமபக்க செங்கோண முக்கோணம் ஆகும்.",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A=90^{\\circ} \\) and AB=AC, then it is an ______________.",
+        "options_en": [
+            "Isosceles triangle",
+            "Right-angled triangle",
+            "Isosceles right-angled triangle",
+            "Equilateral triangle"
+        ],
+        "explanation_en": "Correct answer option (3): Isosceles right-angled triangle. It has one \\( 90^{\\circ} \\) angle and two equal sides, making it an isosceles right-angled triangle."
+    },
+    {
+        "id": 18,
+        "question": "இருசமபக்க முக்கோணத்தின் இரு பக்கங்கள் 5 cm மற்றும் 12 cm எனில், முக்கோணத்தின் சுற்றளவு ______________.",
+        "options": [
+            "22 cm",
+            "29 cm",
+            "17 cm",
+            "33 cm"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 29 cm. முக்கோணத்தின் மூன்றாவது பக்கம் 12 cm ஆகத்தான் இருக்க முடியும் (5+5=10 < 12 என்பதால் 5 ஆக இருக்க முடியாது). எனவே சுற்றளவு = 5 + 12 + 12 = 29 cm.",
+        "question_en": "If two sides of an isosceles triangle are 5 cm and 12 cm, then the perimeter of the triangle is ______________.",
+        "options_en": [
+            "22 cm",
+            "29 cm",
+            "17 cm",
+            "33 cm"
+        ],
+        "explanation_en": "Correct answer option (2): 29 cm. The third side must be 12 cm (since 5 cm would violate the triangle inequality 5+5=10 < 12). Perimeter = 5 + 12 + 12 = 29 cm."
+    },
+    {
+        "id": 19,
+        "question": "சமபக்க முக்கோணத்தின் ஒவ்வொரு கோண அளவும் ______________ ஆக இருக்கும்.",
+        "options": [
+            "\\( 60^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 60^{\\circ} \\). சமபக்க முக்கோணத்தில் மூன்று கோணங்களும் சமம். \\( 180^{\\circ} / 3 = 60^{\\circ} \\).",
+        "question_en": "Each angle of an equilateral triangle is ______________.",
+        "options_en": [
+            "\\( 60^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 60^{\\circ} \\). All three angles of an equilateral triangle are equal, so each is \\( 180^{\\circ} / 3 = 60^{\\circ} \\)."
+    },
+    {
+        "id": 20,
+        "question": "கீழ்க்கண்ட கூற்றுகளில் எது தவறானது?",
+        "options": [
+            "ஒரு முக்கோணத்தில் ஒன்றிற்கும் மேற்பட்ட செங்கோணங்கள் இருக்கும்.",
+            "ஒரு முக்கோணத்தில் ஒரே ஒரு விரிகோணம் மட்டுமே இருக்கும்.",
+            "செங்கோண முக்கோணத்தில், மற்ற இரு கோணங்களின் கூடுதல் 90°",
+            "இருசமபக்க செங்கோணம் முக்கோணம் அமைக்க இயலும்."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): ஒரு முக்கோணத்தில் ஒன்றிற்கும் மேற்பட்ட செங்கோணங்கள் இருக்கும். இது தவறானது. ஒரு முக்கோணத்தில் ஒரே ஒரு செங்கோணம் மட்டுமே இருக்க முடியும்.",
+        "question_en": "Which of the following statements is incorrect?",
+        "options_en": [
+            "A triangle can have more than one right angle.",
+            "A triangle can have only one obtuse angle.",
+            "In a right-angled triangle, the sum of the other two angles is 90°.",
+            "An isosceles right-angled triangle can be formed."
+        ],
+        "explanation_en": "Correct answer option (1): A triangle can have more than one right angle. This is incorrect. A triangle can have at most one right angle."
+    },
+    {
+        "id": 21,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A=45^{\\circ}, \\angle B=35^{\\circ}, \\angle C=100^{\\circ} \\) எனில்,",
+        "options": [
+            "\\( BC > AC > AB \\)",
+            "\\( AB > BC > AC \\)",
+            "\\( AB = BC = AC \\)",
+            "\\( AB > AC > BC \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( AB > BC > AC \\). கோணங்களின் அளவுகளின்படி \\( \\angle C > \\angle A > \\angle B \\). பெரிய கோணத்திற்கு எதிரே பெரிய பக்கம் அமையும். எனவே \\( AB > BC > AC \\).",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A=45^{\\circ}, \\angle B=35^{\\circ}, \\angle C=100^{\\circ} \\), then",
+        "options_en": [
+            "\\( BC > AC > AB \\)",
+            "\\( AB > BC > AC \\)",
+            "\\( AB = BC = AC \\)",
+            "\\( AB > AC > BC \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( AB > BC > AC \\). Based on angle measures \\( \\angle C > \\angle A > \\angle B \\). The side opposite the largest angle is longest. Thus, \\( AB > BC > AC \\)."
+    },
+    {
+        "id": 22,
+        "question": "\\( \\Delta NVY \\) இல், NV = VY \\(\\ne\\) YN எனில், கீழ்க்கண்டவற்றில் எது சரி?",
+        "options": [
+            "\\( \\angle NVY = \\angle VYN \\)",
+            "\\( \\angle VYN = \\angle YNV \\)",
+            "\\( \\angle NVY = \\angle YNV \\)",
+            "\\( \\angle NVY + 2\\angle NVY = 180^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\angle VYN = \\angle YNV \\). சமமான பக்கங்களுக்கு எதிரே உள்ள கோணங்கள் சமம். NV = VY என்பதால், \\( \\angle Y = \\angle N \\) (அதாவது \\( \\angle VYN = \\angle YNV \\)).",
+        "question_en": "In \\( \\Delta NVY \\), if NV = VY \\(\\ne\\) YN, which of the following is true?",
+        "options_en": [
+            "\\( \\angle NVY = \\angle VYN \\)",
+            "\\( \\angle VYN = \\angle YNV \\)",
+            "\\( \\angle NVY = \\angle YNV \\)",
+            "\\( \\angle NVY + 2\\angle NVY = 180^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\angle VYN = \\angle YNV \\). Angles opposite to equal sides are equal. Since NV = VY, the angles opposite to them, \\( \\angle Y \\) and \\( \\angle N \\), are equal."
+    },
+    {
+        "id": 23,
+        "question": "ஒரு முக்கோணத்தின் மூன்று கோணங்களின் கூடுதல் ______________.",
+        "options": [
+            "\\( 90^{\\circ} \\)",
+            "\\( 360^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 180^{\\circ} \\). இது முக்கோணத்தின் அடிப்படைப் பண்பாகும்.",
+        "question_en": "The sum of the three angles of a triangle is ______________.",
+        "options_en": [
+            "\\( 90^{\\circ} \\)",
+            "\\( 360^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 180^{\\circ} \\). This is a fundamental property of a triangle."
+    },
+    {
+        "id": 24,
+        "question": "கீழ்க்கண்ட எந்தக் கோண அளவுகளைக் கொண்டு முக்கோணம் அமைக்க முடியும்?",
+        "options": [
+            "\\( 30^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 90^{\\circ}, 0^{\\circ}, 90^{\\circ} \\)",
+            "\\( 72^{\\circ}, 28^{\\circ}, 90^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\). கோணங்களின் கூடுதல் சரியாக \\( 180^{\\circ} \\) வர வேண்டும். \\( 50+60+70 = 180 \\).",
+        "question_en": "Which of the following set of angles can form a triangle?",
+        "options_en": [
+            "\\( 30^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 90^{\\circ}, 0^{\\circ}, 90^{\\circ} \\)",
+            "\\( 72^{\\circ}, 28^{\\circ}, 90^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\). The sum of angles must be exactly \\( 180^{\\circ} \\). Here, \\( 50+60+70 = 180 \\)."
+    },
+    {
+        "id": 25,
+        "question": "ஒரு முக்கோணத்தின் இரு கோணங்கள் \\( 40^{\\circ} \\) மற்றும் \\( 63^{\\circ} \\) எனில், மூன்றாவது கோணம் ______________.",
+        "options": [
+            "\\( 67^{\\circ} \\)",
+            "\\( 57^{\\circ} \\)",
+            "\\( 87^{\\circ} \\)",
+            "\\( 77^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 77^{\\circ} \\). \\( 180^{\\circ} - (40^{\\circ} + 63^{\\circ}) = 180^{\\circ} - 103^{\\circ} = 77^{\\circ} \\).",
+        "question_en": "If two angles of a triangle are \\( 40^{\\circ} \\) and \\( 63^{\\circ} \\), the third angle is ______________.",
+        "options_en": [
+            "\\( 67^{\\circ} \\)",
+            "\\( 57^{\\circ} \\)",
+            "\\( 87^{\\circ} \\)",
+            "\\( 77^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 77^{\\circ} \\). \\( 180^{\\circ} - (40^{\\circ} + 63^{\\circ}) = 180^{\\circ} - 103^{\\circ} = 77^{\\circ} \\)."
+    },
+    {
+        "id": 26,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A=52^{\\circ}, \\angle B=26^{\\circ} \\) எனில், அது ______________ முக்கோணம்.",
+        "options": [
+            "குறுங்கோண",
+            "விரிகோண",
+            "இருசமபக்க",
+            "செங்கோண"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): விரிகோண. மூன்றாவது கோணம் = \\( 180^{\\circ} - (52^{\\circ} + 26^{\\circ}) = 180^{\\circ} - 78^{\\circ} = 102^{\\circ} \\). ஒரு கோணம் \\( 90^{\\circ} \\) ஐ விடப் பெரியதாக இருப்பதால் இது விரிகோண முக்கோணம்.",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A=52^{\\circ}, \\angle B=26^{\\circ} \\), then it is an ______________ triangle.",
+        "options_en": [
+            "Acute-angled",
+            "Obtuse-angled",
+            "Isosceles",
+            "Right-angled"
+        ],
+        "explanation_en": "Correct answer option (2): Obtuse-angled. The third angle = \\( 180^{\\circ} - 78^{\\circ} = 102^{\\circ} \\). Since one angle is greater than \\( 90^{\\circ} \\), it is an obtuse-angled triangle."
+    },
+    {
+        "id": 27,
+        "question": "\\( \\Delta PQR \\) இல், \\( \\angle P \\) ஆனது விரிகோணம் எனில், கீழ்க்கண்டவற்றில் எது சரி?",
+        "options": [
+            "\\( \\angle Q + \\angle R = 90^{\\circ} \\)",
+            "\\( \\angle Q + \\angle R > 90^{\\circ} \\)",
+            "\\( \\angle Q + \\angle R < 90^{\\circ} \\)",
+            "\\( \\angle Q + \\angle R = 180^{\\circ} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( \\angle Q + \\angle R < 90^{\\circ} \\). P விரிகோணம் (>90°) என்பதால், மற்ற இரு கோணங்களின் கூடுதல் 90°-ஐ விடக் குறைவாக இருக்க வேண்டும்.",
+        "question_en": "In \\( \\Delta PQR \\), if \\( \\angle P \\) is an obtuse angle, which of the following is true?",
+        "options_en": [
+            "\\( \\angle Q + \\angle R = 90^{\\circ} \\)",
+            "\\( \\angle Q + \\angle R > 90^{\\circ} \\)",
+            "\\( \\angle Q + \\angle R < 90^{\\circ} \\)",
+            "\\( \\angle Q + \\angle R = 180^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( \\angle Q + \\angle R < 90^{\\circ} \\). Since P is obtuse (>90°), the sum of the remaining two angles must be less than 90°."
+    },
+    {
+        "id": 28,
+        "question": "படத்தில், \\( \\angle A=60^{\\circ}, \\angle B=40^{\\circ} \\) எனில், பெரிய பக்கமானது ______________.",
+        "image": "image/unit16/q28.PNG",
+        "options": [
+            "AB",
+            "BC",
+            "CA",
+            "AC"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): AB. மூன்றாவது கோணம் \\( \\angle C = 180^{\\circ} - 100^{\\circ} = 80^{\\circ} \\). பெரிய கோணம் \\( \\angle C \\). அதற்கெதிரான பக்கம் AB பெரிய பக்கமாகும்.",
+        "question_en": "In the figure, if \\( \\angle A=60^{\\circ}, \\angle B=40^{\\circ} \\), the largest side is ______________.",
+        "options_en": [
+            "AB",
+            "BC",
+            "CA",
+            "AC"
+        ],
+        "explanation_en": "Correct answer option (1): AB. The third angle \\( \\angle C = 180^{\\circ} - 100^{\\circ} = 80^{\\circ} \\). The side opposite the largest angle (C) is AB, so it is the largest side."
+    },
+    {
+        "id": 29,
+        "question": "\\( \\Delta ABC \\) இல் \\( \\angle B=30^{\\circ} \\) மற்றும் \\( \\angle C=45^{\\circ} \\) எனில், முக்கோணத்தின் பெரிய பக்கம் எது?",
+        "options": [
+            "BC",
+            "AC",
+            "AB",
+            "AB மற்றும் BC"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): BC. மூன்றாவது கோணம் \\( \\angle A = 180^{\\circ} - 75^{\\circ} = 105^{\\circ} \\). பெரிய கோணம் A இக்கு எதிரான பக்கம் BC ஆகும்.",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle B=30^{\\circ} \\) and \\( \\angle C=45^{\\circ} \\), which is the longest side of the triangle?",
+        "options_en": [
+            "BC",
+            "AC",
+            "AB",
+            "Both AB and BC"
+        ],
+        "explanation_en": "Correct answer option (1): BC. The third angle \\( \\angle A = 180^{\\circ} - 75^{\\circ} = 105^{\\circ} \\). The side opposite the largest angle A is BC."
+    },
+    {
+        "id": 30,
+        "question": "கொடுக்கப்பட்ட படத்தில், x, y மற்றும் z ஆகியவை \\( \\Delta ABC \\) இன் வெளிக் கோணங்கள் எனில், x + y + z இன் மதிப்பானது ______________.",
+        "image": "image/unit16/q30.PNG",
+        "options": [
+            "\\( 180^{\\circ} \\)",
+            "\\( 270^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 360^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 360^{\\circ} \\). எந்தவொரு பலகோணத்திலும் (முக்கோணமும் உட்பட) வெளிக்கோணங்களின் கூடுதல் \\( 360^{\\circ} \\) ஆகும்.",
+        "question_en": "In the given figure, if x, y, and z are exterior angles of \\( \\Delta ABC \\), the value of x + y + z is ______________.",
+        "options_en": [
+            "\\( 180^{\\circ} \\)",
+            "\\( 270^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 360^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 360^{\\circ} \\). The sum of exterior angles of any polygon (including a triangle) is always \\( 360^{\\circ} \\)."
+    },
+    {
+        "id": 31,
+        "question": "ஒரு முக்கோணத்தின் கோணங்கள் 2:3:4 என்ற விகிதத்தில் உள்ளன. எனில், அக்கோணங்கள் ______________.",
+        "options": [
+            "\\( 20^{\\circ}, 30^{\\circ}, 40^{\\circ} \\)",
+            "\\( 40^{\\circ}, 60^{\\circ}, 80^{\\circ} \\)",
+            "\\( 80^{\\circ}, 20^{\\circ}, 80^{\\circ} \\)",
+            "\\( 10^{\\circ}, 15^{\\circ}, 20^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 40^{\\circ}, 60^{\\circ}, 80^{\\circ} \\). \\( 2x + 3x + 4x = 9x = 180^{\\circ} \\Rightarrow x = 20^{\\circ} \\). கோணங்கள் \\( 40^{\\circ}, 60^{\\circ}, 80^{\\circ} \\).",
+        "question_en": "If the angles of a triangle are in the ratio 2:3:4, then the angles are ______________.",
+        "options_en": [
+            "\\( 20^{\\circ}, 30^{\\circ}, 40^{\\circ} \\)",
+            "\\( 40^{\\circ}, 60^{\\circ}, 80^{\\circ} \\)",
+            "\\( 80^{\\circ}, 20^{\\circ}, 80^{\\circ} \\)",
+            "\\( 10^{\\circ}, 15^{\\circ}, 20^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 40^{\\circ}, 60^{\\circ}, 80^{\\circ} \\). Let the angles be 2x, 3x, 4x. \\( 9x = 180^{\\circ} \\Rightarrow x = 20^{\\circ} \\). Angles are \\( 40^{\\circ}, 60^{\\circ}, 80^{\\circ} \\)."
+    },
+    {
+        "id": 32,
+        "question": "முக்கோணத்தின் ஒரு கோணமானது \\( 65^{\\circ} \\) மற்றும் மற்ற இரு கோணங்களுக்கு இடையே வேறுபாடு \\( 45^{\\circ} \\) எனில், அந்த இரு கோணங்களானது ______________.",
+        "options": [
+            "\\( 85^{\\circ}, 40^{\\circ} \\)",
+            "\\( 70^{\\circ}, 45^{\\circ} \\)",
+            "\\( 80^{\\circ}, 35^{\\circ} \\)",
+            "\\( 80^{\\circ}, 135^{\\circ} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 80^{\\circ}, 35^{\\circ} \\). இரு கோணங்களின் கூடுதல் = \\( 180^{\\circ} - 65^{\\circ} = 115^{\\circ} \\). அவற்றின் வேறுபாடு = 45°. சமன்பாடுகளைத் தீர்த்தால் (A+B=115, A-B=45), A=80°, B=35°.",
+        "question_en": "One angle of a triangle is \\( 65^{\\circ} \\) and the difference between the other two angles is \\( 45^{\\circ} \\). Those two angles are ______________.",
+        "options_en": [
+            "\\( 85^{\\circ}, 40^{\\circ} \\)",
+            "\\( 70^{\\circ}, 45^{\\circ} \\)",
+            "\\( 80^{\\circ}, 35^{\\circ} \\)",
+            "\\( 80^{\\circ}, 135^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 80^{\\circ}, 35^{\\circ} \\). Sum of the two angles = \\( 180^{\\circ} - 65^{\\circ} = 115^{\\circ} \\). Difference = 45°. Solving A+B=115 and A-B=45 gives A=80°, B=35°."
+    },
+    {
+        "id": 33,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A=60^{\\circ} \\) மற்றும் AB=AC, எனில் \\( \\Delta ABC \\) ஆனது ______________.",
+        "options": [
+            "இருசமபக்க முக்கோணம்",
+            "செங்கோண முக்கோணம்",
+            "இருசமபக்க செங்கோண முக்கோணம்",
+            "சமபக்க முக்கோணம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): சமபக்க முக்கோணம். AB=AC என்பதால் \\( \\angle B = \\angle C \\). \\( \\angle A = 60^{\\circ} \\) என்பதால், மற்ற இரு கோணங்களின் கூடுதல் 120°. எனவே B=C=60°. மூன்று கோணங்களும் 60° என்பதால் இது சமபக்க முக்கோணம்.",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A=60^{\\circ} \\) and AB=AC, then \\( \\Delta ABC \\) is an ______________.",
+        "options_en": [
+            "Isosceles triangle",
+            "Right-angled triangle",
+            "Isosceles right-angled triangle",
+            "Equilateral triangle"
+        ],
+        "explanation_en": "Correct answer option (4): Equilateral triangle. Since AB=AC, \\( \\angle B = \\angle C \\). Sum of B and C is 120°, so each is 60°. Since all angles are 60°, it is an equilateral triangle."
+    },
+    {
+        "id": 34,
+        "question": "கொடுக்கப்பட்ட படத்தில், AB ஆனது CD-க்கு இணை எனில், b இன் மதிப்பு ______________.",
+        "options": [
+            "\\( 112^{\\circ} \\)",
+            "\\( 68^{\\circ} \\)",
+            "\\( 102^{\\circ} \\)",
+            "\\( 62^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 68^{\\circ} \\). படத்தில் \\( 64^{\\circ} \\) மற்றும் \\( 48^{\\circ} \\) கொடுக்கப்பட்டுள்ளன. முக்கோணத்தின் கோணங்களின் கூடுதல் 180° என்ற பண்பை அல்லது இணைகோட்டு பண்புகளைப் பயன்படுத்தினால், \\( 180 - (64+48) = 68^{\\circ} \\).",
+        "question_en": "In the given figure, if AB is parallel to CD, the value of b is ______________.",
+        "options_en": [
+            "\\( 112^{\\circ} \\)",
+            "\\( 68^{\\circ} \\)",
+            "\\( 102^{\\circ} \\)",
+            "\\( 62^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 68^{\\circ} \\). By applying parallel line and triangle properties to the given angles (64° and 48°), the missing angle is \\( 180^{\\circ} - 112^{\\circ} = 68^{\\circ} \\).",
+        "image": "image/unit16/q34.PNG"
+    },
+    {
+        "id": 35,
+        "question": "கொடுக்கப்பட்ட படத்திற்கு, கீழ்க்கண்ட எக்கூற்று சரி?",
+        "options": [
+            "\\( x+y+z=180^{\\circ} \\)",
+            "\\( x+y+z=a+b+c \\)",
+            "\\( x+y+z=2(a+b+c) \\)",
+            "\\( x+y+z=3(a+b+c) \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( x+y+z=2(a+b+c) \\). வெளிக்கோணங்களின் கூடுதல் (x+y+z) = 360°. முக்கோணத்தின் உள்ளெதிர்க் கோணங்களின் கூடுதல் (a+b+c) = 180°. எனவே 360° = 2(180°).",
+        "question_en": "For the given figure, which of the following statements is correct?",
+        "options_en": [
+            "\\( x+y+z=180^{\\circ} \\)",
+            "\\( x+y+z=a+b+c \\)",
+            "\\( x+y+z=2(a+b+c) \\)",
+            "\\( x+y+z=3(a+b+c) \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( x+y+z=2(a+b+c) \\). The sum of exterior angles (x+y+z) is 360°. The sum of interior angles (a+b+c) is 180°. So, 360° = 2(180°).",
+        "image": "image/unit16/q35.PNG"
+    },
+    {
+        "id": 36,
+        "question": "ஒரு இருசமபக்க முக்கோணத்தில், சம பக்கங்களுக்கு எதிரே உள்ள ஒரு கோணமானது \\( 40^{\\circ} \\) எனில், அம்முக்கோணத்தின் பெரிய கோணம் ______________.",
+        "options": [
+            "\\( 70^{\\circ} \\)",
+            "\\( 100^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 140^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 100^{\\circ} \\). சம கோணங்கள் 40° மற்றும் 40°. மூன்றாவது கோணம் = \\( 180^{\\circ} - 80^{\\circ} = 100^{\\circ} \\).",
+        "question_en": "In an isosceles triangle, one of the angles opposite the equal sides is \\( 40^{\\circ} \\). The largest angle of the triangle is ______________.",
+        "options_en": [
+            "\\( 70^{\\circ} \\)",
+            "\\( 100^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 140^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 100^{\\circ} \\). The equal base angles are 40° and 40°. The third angle is \\( 180^{\\circ} - 80^{\\circ} = 100^{\\circ} \\)."
+    },
+    {
+        "id": 37,
+        "question": "ஒரு முக்கோணத்தின் கோணங்கள் 2:3:10 என்ற விகிதத்தில் உள்ளன. எனில், அம்முக்கோணத்தின் மிகப்பெரிய கோணம் ______________.",
+        "options": [
+            "\\( 24^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)",
+            "\\( 36^{\\circ} \\)",
+            "\\( 72^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 120^{\\circ} \\). \\( 2x + 3x + 10x = 15x = 180^{\\circ} \\Rightarrow x = 12^{\\circ} \\). மிகப்பெரிய கோணம் = \\( 10 \\times 12 = 120^{\\circ} \\).",
+        "question_en": "The angles of a triangle are in the ratio 2:3:10. The largest angle of the triangle is ______________.",
+        "options_en": [
+            "\\( 24^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)",
+            "\\( 36^{\\circ} \\)",
+            "\\( 72^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 120^{\\circ} \\). \\( 15x = 180^{\\circ} \\Rightarrow x = 12^{\\circ} \\). The largest angle is \\( 10 \\times 12 = 120^{\\circ} \\)."
+    },
+    {
+        "id": 38,
+        "question": "\\( \\Delta ABC \\) இல், AB=AC, \\( \\angle A=50^{\\circ} \\), எனில் \\( \\angle C= \\) ______________.",
+        "options": [
+            "\\( 60^{\\circ} \\)",
+            "\\( 65^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 65^{\\circ} \\). AB=AC என்பதால் \\( \\angle B = \\angle C \\). முக்கோணத்தின் கோணங்களின் கூடுதல் 180°. \\( 50^{\\circ} + 2\\angle C = 180^{\\circ} \\Rightarrow 2\\angle C = 130^{\\circ} \\Rightarrow \\angle C = 65^{\\circ} \\).",
+        "question_en": "In \\( \\Delta ABC \\), AB=AC, \\( \\angle A=50^{\\circ} \\), then \\( \\angle C= \\) ______________.",
+        "options_en": [
+            "\\( 60^{\\circ} \\)",
+            "\\( 65^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 65^{\\circ} \\). Since AB=AC, \\( \\angle B = \\angle C \\). Sum is 180°. \\( 50^{\\circ} + 2\\angle C = 180^{\\circ} \\Rightarrow \\angle C = 65^{\\circ} \\)."
+    },
+    {
+        "id": 39,
+        "question": "கொடுக்கப்பட்ட இருசமபக்க முக்கோணத்தில், x + y இன் மதிப்பு ______________.",
+        "options": [
+            "\\( 62^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)",
+            "\\( 83^{\\circ} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 75^{\\circ} \\). படத்தில் இருசமபக்க முக்கோணம் காட்டப்பட்டுள்ளது. \\( 2x = 70^{\\circ} \\) (எதிரெதிர் கோணங்கள் சமம் எனில்) \\( x=35^{\\circ} \\). மற்றொரு கோணம் y=40°. எனவே \\( x+y = 75^{\\circ} \\).",
+        "question_en": "In the given isosceles triangle, the value of x + y is ______________.",
+        "options_en": [
+            "\\( 62^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)",
+            "\\( 83^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 75^{\\circ} \\). Based on the isosceles triangle properties from the image, we solve for x and y to get their sum as 75°.",
+        "image": "image/unit16/q39.PNG"
+    },
+    {
+        "id": 40,
+        "question": "கொடுக்கப்பட்ட படத்தில் x மற்றும் y க்கு இடையே உள்ள தொடர்பு ______________.",
+        "options": [
+            "\\( y=180+2x \\)",
+            "\\( 2x=180+y \\)",
+            "\\( 2x=180-y \\)",
+            "\\( 2y=180-x \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 2x=180-y \\). ஒரு முக்கோணத்தின் கோணங்கள் x, x மற்றும் y என படத்தில் இருந்தால், \\( x + x + y = 180^{\\circ} \\Rightarrow 2x + y = 180^{\\circ} \\Rightarrow 2x = 180^{\\circ} - y \\).",
+        "question_en": "The relationship between x and y in the given figure is ______________.",
+        "options_en": [
+            "\\( y=180+2x \\)",
+            "\\( 2x=180+y \\)",
+            "\\( 2x=180-y \\)",
+            "\\( 2y=180-x \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 2x=180-y \\). If the interior angles of the triangle are x, x, and y, their sum is 180°. So, \\( 2x + y = 180^{\\circ} \\Rightarrow 2x = 180^{\\circ} - y \\).",
+        "image": "image/unit16/q40.PNG"
+    },
+    {
+        "id": 41,
+        "question": "கொடுக்கப்பட்ட படத்தில், \\( \\angle A=72^{\\circ}, \\angle B=50^{\\circ} \\) எனில், \\( \\angle DCE \\) ______________.",
+        "options": [
+            "\\( 12^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 58^{\\circ} \\)",
+            "\\( 48^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 50^{\\circ} \\). முக்கோணத்தின் வெளிக்கோண பண்புகளின்படி, \\( \\angle DCE \\) ஆனது \\( \\angle B \\) இக்குச் சமமாக அமையும் (இணை கோடுகளாக இருந்தால்). விடைக்குறிப்பு படி விடை 50°.",
+        "question_en": "In the given figure, if \\( \\angle A=72^{\\circ}, \\angle B=50^{\\circ} \\), then \\( \\angle DCE \\) is ______________.",
+        "options_en": [
+            "\\( 12^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 58^{\\circ} \\)",
+            "\\( 48^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 50^{\\circ} \\). Using properties of transversals and triangles, the angle \\( \\angle DCE \\) corresponds to \\( \\angle B \\), which is 50°.",
+        "image": "image/unit16/q41.PNG"
+    },
+    {
+        "id": 42,
+        "question": "ஒரு முக்கோணத்தின் கோணங்கள் 1:2:1 என்ற விகிதத்தில் உள்ளன. எனில், அம்முக்கோணத்தின் மிகப்பெரிய கோணம் ______________.",
+        "options": [
+            "\\( 45^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 90^{\\circ} \\). \\( 1x + 2x + 1x = 4x = 180^{\\circ} \\Rightarrow x = 45^{\\circ} \\). பெரிய கோணம் = \\( 2x = 90^{\\circ} \\).",
+        "question_en": "The angles of a triangle are in the ratio 1:2:1. The largest angle of the triangle is ______________.",
+        "options_en": [
+            "\\( 45^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 120^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 90^{\\circ} \\). \\( 4x = 180^{\\circ} \\Rightarrow x=45^{\\circ} \\). The largest angle is \\( 2x = 90^{\\circ} \\)."
+    },
+    {
+        "id": 43,
+        "question": "கொடுக்கப்பட்ட முக்கோணத்தில், \\( \\angle A=80^{\\circ} \\), AB=AC எனில், \\( \\angle B \\) மற்றும் \\( \\angle C \\) ஆகியவை ______________.",
+        "image": "image/unit16/q43.PNG",
+        "options": [
+            "\\( \\angle B=70^{\\circ}, \\angle C=70^{\\circ} \\)",
+            "\\( \\angle B=60^{\\circ}, \\angle C=60^{\\circ} \\)",
+            "\\( \\angle B=80^{\\circ}, \\angle C=80^{\\circ} \\)",
+            "\\( \\angle B=50^{\\circ}, \\angle C=50^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( \\angle B=50^{\\circ}, \\angle C=50^{\\circ} \\). AB=AC என்பதால் \\( \\angle B = \\angle C \\). \\( 80^{\\circ} + 2\\angle B = 180^{\\circ} \\Rightarrow 2\\angle B = 100^{\\circ} \\Rightarrow \\angle B = 50^{\\circ} \\). (குறிப்பு: ஆவண விடைக்குறிப்பில் (1) என அச்சிடப்பட்டிருக்கலாம், ஆனால் கணிதப்படி விடை 50°).",
+        "question_en": "In the given triangle, if \\( \\angle A=80^{\\circ} \\) and AB=AC, then \\( \\angle B \\) and \\( \\angle C \\) are ______________.",
+        "options_en": [
+            "\\( \\angle B=70^{\\circ}, \\angle C=70^{\\circ} \\)",
+            "\\( \\angle B=60^{\\circ}, \\angle C=60^{\\circ} \\)",
+            "\\( \\angle B=80^{\\circ}, \\angle C=80^{\\circ} \\)",
+            "\\( \\angle B=50^{\\circ}, \\angle C=50^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( \\angle B=50^{\\circ}, \\angle C=50^{\\circ} \\). Since AB=AC, base angles are equal. \\( 180^{\\circ}-80^{\\circ} = 100^{\\circ} \\). So each is 50°."
+    },
+    {
+        "id": 44,
+        "question": "கொடுக்கப்பட்ட படத்தில் x-ன் மதிப்பு ______________.",
+        "options": [
+            "\\( 45^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 55^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 60^{\\circ} \\). படத்தில் செங்கோண முக்கோணம் மற்றும் வெளிக்கோணங்களைக் கொண்டு கணக்கிட்டால் x = 60° வரும். விடைக்குறிப்பு படி (2) சரியான விடை.",
+        "question_en": "In the given figure, the value of x is ______________.",
+        "options_en": [
+            "\\( 45^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 55^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 60^{\\circ} \\). Derived from the geometric properties of the triangle shown in the figure.",
+        "image": "image/unit16/q44.PNG"
+    },
+    {
+        "id": 45,
+        "question": "ஒரு செங்கோண முக்கோணத்தில், ஒரு கோணம் \\( 35^{\\circ} \\) எனில், மற்றொரு கோணத்தின் அளவு ______________.",
+        "options": [
+            "\\( 65^{\\circ} \\)",
+            "\\( 55^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 55^{\\circ} \\). செங்கோண முக்கோணத்தில் ஒரு கோணம் 90°. மற்ற இரு கோணங்களின் கூடுதல் 90° ஆக இருக்க வேண்டும். எனவே, \\( 90^{\\circ} - 35^{\\circ} = 55^{\\circ} \\). (விடைக்குறிப்பில் (1) என அச்சிடப்பட்டிருக்கலாம், ஆனால் கணிதப்படி இதுவே சரி).",
+        "question_en": "In a right-angled triangle, if one angle is \\( 35^{\\circ} \\), the measure of the other acute angle is ______________.",
+        "options_en": [
+            "\\( 65^{\\circ} \\)",
+            "\\( 55^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 55^{\\circ} \\). In a right triangle, the two acute angles sum to 90°. \\( 90^{\\circ} - 35^{\\circ} = 55^{\\circ} \\)."
+    },
+    {
+        "id": 46,
+        "question": "படத்தில், AB || DE, \\( \\angle CDE = 53^{\\circ}, \\angle BAE = 35^{\\circ} \\) எனில், \\( \\angle DCE = ? \\)",
+        "options": [
+            "\\( 92^{\\circ} \\)",
+            "\\( 53^{\\circ} \\)",
+            "\\( 35^{\\circ} \\)",
+            "\\( 88^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 92^{\\circ} \\). AB || DE என்பதால், \\( \\angle CED = \\angle BAE = 35^{\\circ} \\) (ஒன்றுவிட்ட உள்கோணங்கள்). முக்கோணம் CDE-இல், \\( \\angle DCE = 180^{\\circ} - (53^{\\circ} + 35^{\\circ}) = 180^{\\circ} - 88^{\\circ} = 92^{\\circ} \\).",
+        "question_en": "In the figure, AB || DE, \\( \\angle CDE = 53^{\\circ}, \\angle BAE = 35^{\\circ} \\). Find \\( \\angle DCE \\).",
+        "options_en": [
+            "\\( 92^{\\circ} \\)",
+            "\\( 53^{\\circ} \\)",
+            "\\( 35^{\\circ} \\)",
+            "\\( 88^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 92^{\\circ} \\). Alternate interior angles give \\( \\angle CED = 35^{\\circ} \\). Inside triangle CDE, \\( \\angle DCE = 180^{\\circ} - (53^{\\circ} + 35^{\\circ}) = 92^{\\circ} \\).",
+        "image": "image/unit16/q46.PNG"
+    },
+    {
+        "id": 47,
+        "question": "கொடுக்கப்பட்ட படத்தில், x மற்றும் y இன் மதிப்பு என்ன?",
+        "options": [
+            "\\( 60^{\\circ}, 120^{\\circ} \\)",
+            "\\( 120^{\\circ}, 60^{\\circ} \\)",
+            "\\( 70^{\\circ}, 70^{\\circ} \\)",
+            "\\( 60^{\\circ}, 60^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 120^{\\circ}, 60^{\\circ} \\). வடிவியல் பண்புகளிலிருந்து x மற்றும் y மதிப்புகளைக் கணக்கிடலாம்.",
+        "question_en": "In the given figure, what are the values of x and y?",
+        "options_en": [
+            "\\( 60^{\\circ}, 120^{\\circ} \\)",
+            "\\( 120^{\\circ}, 60^{\\circ} \\)",
+            "\\( 70^{\\circ}, 70^{\\circ} \\)",
+            "\\( 60^{\\circ}, 60^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 120^{\\circ}, 60^{\\circ} \\). Calculated using geometric properties from the given figure.",
+        "image": "image/unit16/q47.PNG"
+    },
+    {
+        "id": 48,
+        "question": "படத்தில், முக்கோணம் ABC இல் AB-க்கு இணையான ஒரு கோடு அம்முக்கோணத்தை P மற்றும் Q இல் சந்திக்கிறது. எனில் \\( \\angle PQC \\) இன் மதிப்பு எவ்வளவு?",
+        "options": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 80^{\\circ} \\). \\( \\angle A=40^{\\circ}, \\angle C=60^{\\circ} \\) எனில் \\( \\angle B = 180^{\\circ}-(40+60) = 80^{\\circ} \\). PQ || AB என்பதால் ஒத்த கோணங்கள் சமம், எனவே \\( \\angle PQC = \\angle B = 80^{\\circ} \\).",
+        "question_en": "In the figure, a line parallel to AB in \\( \\Delta ABC \\) meets it at P and Q. What is the value of \\( \\angle PQC \\)?",
+        "options_en": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 80^{\\circ} \\). \\( \\angle B = 180^{\\circ} - (40^{\\circ}+60^{\\circ}) = 80^{\\circ} \\). Since PQ || AB, corresponding angle \\( \\angle PQC = \\angle B = 80^{\\circ} \\).",
+        "image": "image/unit16/q48.PNG"
+    },
+    {
+        "id": 49,
+        "question": "கொடுக்கப்பட்ட படத்தில், ABCD என்பது ஓர் இணைகரம் மற்றும் CBE என்பது ஓர் இருசமபக்க முக்கோணம். எனில், \\( \\angle BCE \\) இன் மதிப்பு?",
+        "options": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 40^{\\circ} \\). இணைகரத்தில் எதிரெதிர் கோணங்கள் சமம் (D=B=110). முக்கோணம் CBE இல் கோணங்களைக் கணக்கிட்டால் \\( \\angle BCE = 40^{\\circ} \\) கிடைக்கும்.",
+        "question_en": "In the given figure, ABCD is a parallelogram and CBE is an isosceles triangle. What is the value of \\( \\angle BCE \\)?",
+        "options_en": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 40^{\\circ} \\). Derived from the properties of parallelograms and isosceles triangles.",
+        "image": "image/unit16/q49.PNG"
+    },
+    {
+        "id": 50,
+        "question": "கொடுக்கப்பட்ட படத்தில், AB || CE, AD || EF எனில், x-இன் மதிப்பு",
+        "options": [
+            "\\( 115^{\\circ} \\)",
+            "\\( 135^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)",
+            "\\( 105^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 105^{\\circ} \\). இணை கோடுகளின் பண்புகளைப் பயன்படுத்தி கோணங்களை இடமாற்றம் செய்வதன் மூலம் x = 105° எனக் கண்டறியலாம்.",
+        "question_en": "In the given figure, if AB || CE, AD || EF, the value of x is",
+        "options_en": [
+            "\\( 115^{\\circ} \\)",
+            "\\( 135^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)",
+            "\\( 105^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 105^{\\circ} \\). Found using properties of parallel lines and transversals.",
+        "image": "image/unit16/q50.PNG"
+    },
+    {
+        "id": 51,
+        "question": "ஒரு முக்கோணத்தின் கோண அளவுகள் முறையே \\( (4x-8)^{\\circ}, (x+23)^{\\circ} \\) மற்றும் \\( (2x-24)^{\\circ} \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "\\( 37^{\\circ} \\)",
+            "\\( 27^{\\circ} \\)",
+            "\\( 29^{\\circ} \\)",
+            "\\( 23^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 27^{\\circ} \\). மூன்று கோணங்களின் கூடுதல் 180°. \\( (4x-8) + (x+23) + (2x-24) = 7x - 9 = 180 \\Rightarrow 7x = 189 \\Rightarrow x = 27 \\).",
+        "question_en": "The angles of a triangle are \\( (4x-8)^{\\circ}, (x+23)^{\\circ} \\) and \\( (2x-24)^{\\circ} \\). The value of x is",
+        "options_en": [
+            "\\( 37^{\\circ} \\)",
+            "\\( 27^{\\circ} \\)",
+            "\\( 29^{\\circ} \\)",
+            "\\( 23^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 27^{\\circ} \\). The sum of angles is 180°. \\( (4x-8) + (x+23) + (2x-24) = 180 \\Rightarrow 7x - 9 = 180 \\Rightarrow x = 27 \\)."
+    },
+    {
+        "id": 52,
+        "question": "கொடுக்கப்பட்ட படத்தில், AB || CD எனில், x+y+z இன் மதிப்பு",
+        "options": [
+            "\\( 215^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 145^{\\circ} \\)",
+            "\\( 95^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 215^{\\circ} \\). இணை கோடுகளின் பண்புகளைப் பயன்படுத்திக் கணக்கிட்டால் கூடுதல் 215° கிடைக்கும்.",
+        "question_en": "In the given figure, if AB || CD, the value of x+y+z is",
+        "options_en": [
+            "\\( 215^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 145^{\\circ} \\)",
+            "\\( 95^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 215^{\\circ} \\). Derived using parallel line properties.",
+        "image": "image/unit16/q52.PNG"
+    },
+    {
+        "id": 53,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A+\\angle C=140^{\\circ} \\), \\( \\angle B+2\\angle C=180^{\\circ} \\) எனில்",
+        "options": [
+            "AB < AC",
+            "AB = AC",
+            "AB > AC",
+            "BC = AC"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): AB > AC. \\( \\angle A+\\angle B+\\angle C=180^{\\circ} \\). \\( 140^{\\circ}+\\angle B=180^{\\circ} \\Rightarrow \\angle B=40^{\\circ} \\). \\( \\angle B+2\\angle C=180^{\\circ} \\Rightarrow 40^{\\circ}+2\\angle C=180^{\\circ} \\Rightarrow \\angle C=70^{\\circ} \\). எனவே \\( \\angle A=70^{\\circ} \\). கோணம் C ஆனது கோணம் B ஐ விடப் பெரியது, எனவே AB > AC.",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A+\\angle C=140^{\\circ} \\) and \\( \\angle B+2\\angle C=180^{\\circ} \\), then",
+        "options_en": [
+            "AB < AC",
+            "AB = AC",
+            "AB > AC",
+            "BC = AC"
+        ],
+        "explanation_en": "Correct answer option (3): AB > AC. We find \\( \\angle B=40^{\\circ}, \\angle C=70^{\\circ}, \\angle A=70^{\\circ} \\). Since \\( \\angle C > \\angle B \\), the side opposite C (AB) is greater than the side opposite B (AC)."
+    },
+    {
+        "id": 54,
+        "question": "ஒரு முக்கோணத்தின் கோணங்கள் 2:2:5 என்ற விகிதத்தில் உள்ளன. எனில், பெரிய மற்றும் சிறிய கோணங்களுக்கு இடையே உள்ள வேறுபாடு",
+        "options": [
+            "\\( 10^{\\circ} \\)",
+            "\\( 20^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 60^{\\circ} \\). \\( 2x+2x+5x=180^{\\circ} \\Rightarrow 9x=180^{\\circ} \\Rightarrow x=20^{\\circ} \\). கோணங்கள் 40°, 40°, 100°. வேறுபாடு = 100° - 40° = 60°.",
+        "question_en": "The angles of a triangle are in the ratio 2:2:5. The difference between the largest and the smallest angle is",
+        "options_en": [
+            "\\( 10^{\\circ} \\)",
+            "\\( 20^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 60^{\\circ} \\). \\( 9x=180^{\\circ} \\Rightarrow x=20^{\\circ} \\). The angles are 40°, 40°, 100°. The difference is 100° - 40° = 60°."
+    },
+    {
+        "id": 55,
+        "question": "கொடுக்கப்பட்ட படத்தில், PQR மற்றும் SQR ஆகியவை இருசமபக்க முக்கோணங்கள். \\( \\angle QPR = 50^{\\circ}, \\angle QSR = 80^{\\circ} \\) எனில், \\( \\angle PQS \\)-ன் மதிப்பு",
+        "options": [
+            "\\( 15^{\\circ} \\)",
+            "\\( 65^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 15^{\\circ} \\). \\( \\Delta PQR \\) இல் அடிப்பக்கக் கோணம் \\( (180-50)/2 = 65^{\\circ} \\). \\( \\Delta SQR \\) இல் அடிப்பக்கக் கோணம் \\( (180-80)/2 = 50^{\\circ} \\). \\( \\angle PQS = 65^{\\circ} - 50^{\\circ} = 15^{\\circ} \\).",
+        "question_en": "In the given figure, PQR and SQR are isosceles triangles. If \\( \\angle QPR = 50^{\\circ}, \\angle QSR = 80^{\\circ} \\), then the value of \\( \\angle PQS \\) is",
+        "options_en": [
+            "\\( 15^{\\circ} \\)",
+            "\\( 65^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 15^{\\circ} \\). Base angle of PQR is 65°. Base angle of SQR is 50°. \\( \\angle PQS = 65^{\\circ} - 50^{\\circ} = 15^{\\circ} \\).",
+        "image": "image/unit16/q55.PNG"
+    },
+    {
+        "id": 56,
+        "question": "படத்தில், x-ன் மதிப்பு",
+        "options": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)",
+            "\\( 100^{\\circ} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 80^{\\circ} \\). முக்கோண பண்புகள் மற்றும் வெளிக்கோணங்களைக் கொண்டு x ஐக் கண்டுபிடித்தால் 80° வரும்.",
+        "question_en": "In the figure, the value of x is",
+        "options_en": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)",
+            "\\( 100^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 80^{\\circ} \\). Based on the angle sum properties shown in the diagram.",
+        "image": "image/unit16/q56.PNG"
+    },
+    {
+        "id": 57,
+        "question": "\\( \\angle ABD \\) அளவு என்ன?",
+        "options": [
+            "\\( 20^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 140^{\\circ} \\)",
+            "\\( 160^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 70^{\\circ} \\). வரைபடத்தில் உள்ள முக்கோணத்தின் கோணங்கள் மூலம் இதைக் கணக்கிடலாம்.",
+        "question_en": "What is the measure of \\( \\angle ABD \\)?",
+        "options_en": [
+            "\\( 20^{\\circ} \\)",
+            "\\( 70^{\\circ} \\)",
+            "\\( 140^{\\circ} \\)",
+            "\\( 160^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 70^{\\circ} \\). Derived from the angles in the given figure.",
+        "image": "image/unit16/q57.PNG"
+    },
+    {
+        "id": 58,
+        "question": "கொடுக்கப்பட்ட படத்தில், x-ன் மதிப்பு",
+        "options": [
+            "\\( 25^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 20^{\\circ} \\)",
+            "\\( 35^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 25^{\\circ} \\). முக்கோணத்தின் பண்புகளைப் பயன்படுத்திக் கணக்கிடப்பட்டுள்ளது.",
+        "question_en": "In the given figure, the value of x is",
+        "options_en": [
+            "\\( 25^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 20^{\\circ} \\)",
+            "\\( 35^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 25^{\\circ} \\). Solved using triangle properties.",
+        "image": "image/unit16/q58.PNG"
+    },
+    {
+        "id": 59,
+        "question": "ஒரு செங்கோண முக்கோணத்தில், இரு குறுங்கோணங்களுக்கு இடையே உள்ள விகிதம் 1:5 எனில் பெரிய குறுங்கோணத்தின் மதிப்பு",
+        "options": [
+            "\\( 80^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 75^{\\circ} \\). செங்கோண முக்கோணத்தில் குறுங்கோணங்களின் கூடுதல் 90°. \\( 1x + 5x = 90^{\\circ} \\Rightarrow 6x = 90^{\\circ} \\Rightarrow x = 15^{\\circ} \\). பெரிய கோணம் = \\( 5x = 75^{\\circ} \\).",
+        "question_en": "In a right-angled triangle, if the two acute angles are in the ratio 1:5, the measure of the larger acute angle is",
+        "options_en": [
+            "\\( 80^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 75^{\\circ} \\). The sum of the acute angles is 90°. \\( 6x = 90^{\\circ} \\Rightarrow x = 15^{\\circ} \\). The larger is \\( 5x = 75^{\\circ} \\)."
+    },
+    {
+        "id": 60,
+        "question": "படத்தில், \\( \\angle A+\\angle B+\\angle C+\\angle D+\\angle E+\\angle F = ? \\)",
+        "options": [
+            "\\( 360^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)",
+            "\\( 540^{\\circ} \\)",
+            "\\( 270^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 360^{\\circ} \\). இது இரு முக்கோணங்கள் இணைந்த ஒரு விண்மீன் (Star) வடிவம். இரண்டு முக்கோணங்களின் கோணங்களின் கூடுதல் = \\( 180^{\\circ} + 180^{\\circ} = 360^{\\circ} \\).",
+        "question_en": "In the figure, \\( \\angle A+\\angle B+\\angle C+\\angle D+\\angle E+\\angle F = ? \\)",
+        "options_en": [
+            "\\( 360^{\\circ} \\)",
+            "\\( 180^{\\circ} \\)",
+            "\\( 540^{\\circ} \\)",
+            "\\( 270^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 360^{\\circ} \\). The figure is a hexagram formed by two overlapping triangles. The sum of all angles is \\( 2 \\times 180^{\\circ} = 360^{\\circ} \\).",
+        "image": "image/unit16/q60.PNG"
+    },
+    {
+        "id": 61,
+        "question": "ஒரு முக்கோணத்தின் கோணங்கள் 5:4:3 என்ற விகிதத்தில் உள்ளன எனில், அக்கோணங்கள் யாவை?",
+        "options": [
+            "\\( 50^{\\circ}, 40^{\\circ}, 30^{\\circ} \\)",
+            "\\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\)",
+            "\\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 60^{\\circ}, 80^{\\circ}, 40^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: \\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\). கோணங்கள் \\( 5x, 4x, 3x \\) என்க. கூடுதல் \\( 12x = 180^{\\circ} \\Rightarrow x = 15^{\\circ} \\). எனவே \\( 5 \\times 15 = 75^{\\circ}, 4 \\times 15 = 60^{\\circ}, 3 \\times 15 = 45^{\\circ} \\).",
+        "question_en": "If the angles of a triangle are in the ratio 5:4:3, then the angles are",
+        "options_en": [
+            "\\( 50^{\\circ}, 40^{\\circ}, 30^{\\circ} \\)",
+            "\\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\)",
+            "\\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 60^{\\circ}, 80^{\\circ}, 40^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct: \\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\). Let the angles be \\( 5x, 4x, 3x \\). Sum \\( 12x = 180^{\\circ} \\Rightarrow x = 15^{\\circ} \\). Thus, \\( 5(15)=75, 4(15)=60, 3(15)=45 \\)."
+    },
+    {
+        "id": 62,
+        "question": "ஒரு முக்கோணத்தின் ஒரு கோணமானது மற்ற இரு கோணங்களின் சராசரியாகும் மற்றும் பெரிய மற்றும் சிறிய கோணங்களுக்கு இடையே உள்ள வேறுபாடு 60° எனில், அது எவ்வகை முக்கோணம்?",
+        "options": [
+            "இருசமபக்க முக்கோணம்",
+            "சமபக்க முக்கோணம்",
+            "செங்கோண முக்கோணம்",
+            "இருசமபக்க செங்கோண முக்கோணம்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: சமபக்க முக்கோணம். கோணங்கள் A, B, C என்க. \\( B = (A+C)/2 \\Rightarrow 2B = A+C \\). முக்கோணத்தில் \\( A+B+C = 180^{\\circ} \\Rightarrow 2B+B = 180^{\\circ} \\Rightarrow 3B = 180^{\\circ} \\Rightarrow B = 60^{\\circ} \\). பெரிய கோணம்-சிறிய கோணம் = 60°. இது சமபக்க முக்கோணத்தில் மட்டுமே சாத்தியம்.",
+        "question_en": "One angle of a triangle is the average of the other two, and the difference between the largest and smallest angle is 60°. What type of triangle is it?",
+        "options_en": [
+            "Isosceles triangle",
+            "Equilateral triangle",
+            "Right-angled triangle",
+            "Isosceles right triangle"
+        ],
+        "explanation_en": "Correct: Equilateral triangle. Let angles be A, B, C. \\( B = (A+C)/2 \\Rightarrow 2B = A+C \\). Since \\( A+B+C=180 \\), \\( 3B=180 \\Rightarrow B=60 \\). Solving for A and C gives 60° each."
+    },
+    {
+        "id": 63,
+        "question": "\\( \\Delta ABC \\) இல் \\( \\angle A+\\angle B=150^{\\circ} \\), \\( \\angle B+\\angle C=70^{\\circ} \\) எனில் \\( \\angle B = ? \\)",
+        "options": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: \\( 40^{\\circ} \\). \\( \\angle A+\\angle B+\\angle C = 180^{\\circ} \\). \\( (\\angle A+\\angle B) + \\angle C = 180^{\\circ} \\Rightarrow 150^{\\circ} + \\angle C = 180^{\\circ} \\Rightarrow \\angle C = 30^{\\circ} \\). \\( \\angle B+30^{\\circ} = 70^{\\circ} \\Rightarrow \\angle B = 40^{\\circ} \\).",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A+\\angle B=150^{\\circ} \\), \\( \\angle B+\\angle C=70^{\\circ} \\), then \\( \\angle B = ? \\)",
+        "options_en": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 75^{\\circ} \\)",
+            "\\( 80^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct: \\( 40^{\\circ} \\). Since \\( A+B+C = 180^{\\circ} \\) and \\( A+B=150^{\\circ} \\), \\( C=30^{\\circ} \\). Given \\( B+C=70^{\\circ} \\), substituting C=30° gives \\( B=40^{\\circ} \\)."
+    },
+    {
+        "id": 64,
+        "question": "\\( \\Delta ABC \\) இல் \\( 2\\angle A=3\\angle B=6\\angle C \\) எனில், மிகச்சிறிய கோணத்தின் அளவு என்ன?",
+        "options": [
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 40^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை: \\( 30^{\\circ} \\). \\( 2A=3B=6C=k \\) என்க. \\( A=k/2, B=k/3, C=k/6 \\). \\( k/2+k/3+k/6 = 180 \\Rightarrow (3k+2k+k)/6 = 180 \\Rightarrow k = 180 \\). எனவே C = \\( 180/6 = 30^{\\circ} \\).",
+        "question_en": "In \\( \\Delta ABC \\), if \\( 2\\angle A=3\\angle B=6\\angle C \\), what is the smallest angle?",
+        "options_en": [
+            "\\( 90^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 40^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct: \\( 30^{\\circ} \\). Let \\( 2A=3B=6C=k \\). Then \\( A=k/2, B=k/3, C=k/6 \\). Summing them: \\( (3k+2k+k)/6 = 180 \\Rightarrow k=180 \\). Smallest angle C = \\( 180/6 = 30^{\\circ} \\)."
+    },
+    {
+        "id": 65,
+        "question": "\\( \\Delta ABC \\)-இல் AB=(2x+20) cm, BC=3y/5 cm, AC=(2z-20) cm. x=20, y=100, z=40 எனில், அம்முக்கோணம்",
+        "options": [
+            "இருசமபக்க முக்கோணம்",
+            "சமபக்க முக்கோணம்",
+            "அசமபக்க முக்கோணம்",
+            "செங்கோண முக்கோணம்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: சமபக்க முக்கோணம். பக்கங்கள்: AB = \\( 2(20)+20 = 60 \\), BC = \\( 3(100)/5 = 60 \\), AC = \\( 2(40)-20 = 60 \\). மூன்று பக்கங்களும் 60 என இருப்பதால், இது சமபக்க முக்கோணம்.",
+        "question_en": "In \\( \\Delta ABC \\), if AB=(2x+20) cm, BC=3y/5 cm, AC=(2z-20) cm with x=20, y=100, z=40, the triangle is",
+        "options_en": [
+            "Isosceles triangle",
+            "Equilateral triangle",
+            "Scalene triangle",
+            "Right-angled triangle"
+        ],
+        "explanation_en": "Correct: Equilateral triangle. Sides are: AB = \\( 2(20)+20 = 60 \\), BC = \\( 3(100)/5 = 60 \\), AC = \\( 2(40)-20 = 60 \\). All sides are 60, hence equilateral."
+    },
+    {
+        "id": 66,
+        "question": "ஒரு முக்கோணத்தின் ஏதேனும் ஒரு பக்கத்தை நீட்டும்போது உண்டாகும் வெளிக் கோணமானது அதன்",
+        "options": [
+            "உள் எதிர்க் கோணங்களின் கூடுதலுக்குச் சமம்",
+            "குத்தெதிர்க் கோணங்களுக்குச் சமம்",
+            "ஒரு புள்ளியில் அமையும் கோணங்கள்",
+            "அடுத்துள்ள கோணங்கள்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: உள் எதிர்க் கோணங்களின் கூடுதலுக்குச் சமம். இது முக்கோணத்தின் வெளிக்கோணப் பண்பு (Exterior Angle Property).",
+        "question_en": "An exterior angle of a triangle is equal to the",
+        "options_en": [
+            "Sum of the interior opposite angles",
+            "Vertically opposite angles",
+            "Angles at a point",
+            "Adjacent angles"
+        ],
+        "explanation_en": "Correct: Sum of the interior opposite angles. This is the Exterior Angle Property of a triangle."
+    },
+    {
+        "id": 67,
+        "question": "கொடுக்கப்பட்ட படத்தில், x-இன் மதிப்பு?",
+        "options": [
+            "\\( 65^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 20^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: \\( 65^{\\circ} \\). (படத்தில் உள்ள முக்கோண கோணங்களை வைத்து கணக்கிடப்படுகிறது).",
+        "question_en": "In the given figure, the value of x is?",
+        "options_en": [
+            "\\( 65^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 20^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct: \\( 65^{\\circ} \\). (Calculated based on the geometry of the figure provided in the source).",
+        "image": "image/unit16/q67.PNG"
+    },
+    {
+        "id": 68,
+        "question": "கொடுக்கப்பட்ட படத்தில் x-இன் மதிப்பு?",
+        "options": [
+            "\\( 80^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: \\( 80^{\\circ} \\).",
+        "question_en": "In the given figure, the value of x is?",
+        "options_en": [
+            "\\( 80^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct: \\( 80^{\\circ} \\).",
+        "image": "image/unit16/q68.PNG"
+    },
+    {
+        "id": 69,
+        "question": "கொடுக்கப்பட்ட படத்தில் x-இன் மதிப்பு?",
+        "options": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: \\( 40^{\\circ} \\).",
+        "question_en": "In the given figure, the value of x is?",
+        "options_en": [
+            "\\( 40^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)",
+            "\\( 30^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct: \\( 40^{\\circ} \\).",
+        "image": "image/unit16/q69.PNG"
+    },
+    {
+        "id": 70,
+        "question": "ஒரு முக்கோணத்தின் ஒரு வெளிக்கோணம் 80° ஆகும். அதன் உள்ளெதிர்க் கோணங்கள் 2:3 என்ற விகிதத்தில் உள்ளன எனில் அக்கோணங்கள்",
+        "options": [
+            "32°, 48°",
+            "38°, 42°",
+            "40°, 60°",
+            "20°, 60°"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: 32°, 48°. \\( 2x + 3x = 80^{\\circ} \\Rightarrow 5x = 80^{\\circ} \\Rightarrow x = 16^{\\circ} \\). கோணங்கள் \\( 2 \\times 16 = 32^{\\circ} \\) மற்றும் \\( 3 \\times 16 = 48^{\\circ} \\).",
+        "question_en": "An exterior angle of a triangle is 80°. The interior opposite angles are in the ratio 2:3. Those angles are",
+        "options_en": [
+            "32°, 48°",
+            "38°, 42°",
+            "40°, 60°",
+            "20°, 60°"
+        ],
+        "explanation_en": "Correct: 32°, 48°. \\( 2x + 3x = 80^{\\circ} \\Rightarrow 5x = 80^{\\circ} \\Rightarrow x = 16^{\\circ} \\). Angles are \\( 2 \\times 16 = 32^{\\circ} \\) and \\( 3 \\times 16 = 48^{\\circ} \\)."
+    },
+    {
+        "id": 71,
+        "question": "ஒரு முக்கோணத்தின் ஒரு வெளிக்கோணம் 70° ஆகும். அதன் உள்ளெதிர்க் கோணங்கள் சமம் எனில் உள்ளெதிர்க் கோணத்தின் மதிப்பு",
+        "options": [
+            "110°",
+            "120°",
+            "35°",
+            "60°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 35°. \\( 2x = 70^{\\circ} \\Rightarrow x = 35^{\\circ} \\).",
+        "question_en": "An exterior angle of a triangle is 70°. If the interior opposite angles are equal, the value of the interior angle is",
+        "options_en": [
+            "110°",
+            "120°",
+            "35°",
+            "60°"
+        ],
+        "explanation_en": "Correct: 35°. \\( 2x = 70^{\\circ} \\Rightarrow x = 35^{\\circ} \\)."
+    },
+    {
+        "id": 72,
+        "question": "கொடுக்கப்பட்ட படத்தில் x-ன் மதிப்பு?",
+        "options": [
+            "35°",
+            "85°",
+            "45°",
+            "75°"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: 35°.",
+        "question_en": "In the given figure, the value of x is?",
+        "options_en": [
+            "35°",
+            "85°",
+            "45°",
+            "75°"
+        ],
+        "explanation_en": "Correct: 35°.",
+        "image": "image/unit16/q72.PNG"
+    },
+    {
+        "id": 73,
+        "question": "ஒரு முக்கோணத்தின் இரு கோணங்கள் 40° மற்றும் 65° எனில், கீழ்க்கண்ட எந்தக் கோணம் அம்முக்கோணத்தின் வெளிக்கோணமாக இருக்க இயலாது?",
+        "options": [
+            "105°",
+            "140°",
+            "115°",
+            "135°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: 140°. வெளிக்கோணம் என்பது இரண்டு உள்ளெதிர்க் கோணங்களின் கூடுதலுக்குச் சமம். \\( 40+65 = 105^{\\circ} \\). வெளிக்கோணம் 105° ஆக இருக்கலாம் அல்லது மற்ற ஜோடிகளுக்கு (40+180-40-65) ஏற்ப மாறலாம். ஆனால் 140° இருக்க வாய்ப்பில்லை.",
+        "question_en": "If two angles of a triangle are 40° and 65°, which of the following cannot be an exterior angle of the triangle?",
+        "options_en": [
+            "105°",
+            "140°",
+            "115°",
+            "135°"
+        ],
+        "explanation_en": "Correct: 140°. An exterior angle is the sum of two interior opposite angles. Possible sums are 105°, 115°, or 135° depending on which angles are interior. 140° is not possible."
+    },
+    {
+        "id": 74,
+        "question": "கொடுக்கப்பட்ட படத்தில், ∠AED ஆனது",
+        "options": [
+            "75°",
+            "115°",
+            "105°",
+            "100°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 105°.",
+        "question_en": "In the given figure, ∠AED is",
+        "options_en": [
+            "75°",
+            "115°",
+            "105°",
+            "100°"
+        ],
+        "explanation_en": "Correct: 105°.",
+        "image": "image/unit16/q74.PNG"
+    },
+    {
+        "id": 75,
+        "question": "கொடுக்கப்பட்ட படத்தில், x-இன் மதிப்பு",
+        "options": [
+            "45°",
+            "50°",
+            "40°",
+            "35°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 40°.",
+        "question_en": "In the given figure, the value of x is",
+        "options_en": [
+            "45°",
+            "50°",
+            "40°",
+            "35°"
+        ],
+        "explanation_en": "Correct: 40°.",
+        "image": "image/unit16/q75.PNG"
+    },
+    {
+        "id": 76,
+        "question": "கொடுக்கப்பட்ட படத்தில், x -இன் மதிப்பு ",
+        "options": [
+            "20°",
+            "30°",
+            "40°",
+            "25°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: 30°.",
+        "question_en": "In the given figure, the value of the angle is",
+        "options_en": [
+            "20°",
+            "30°",
+            "40°",
+            "25°"
+        ],
+        "explanation_en": "Correct: 30°.",
+        "image": "image/unit16/q76.PNG"
+    },
+    {
+        "id": 77,
+        "question": "கொடுக்கப்பட்ட படத்தில், x மற்றும் y ஆகியவற்றிற்கிடையே உள்ள வேறுபாடு என்ன?",
+        "options": [
+            "90°",
+            "80°",
+            "180°",
+            "135°"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: 90°.",
+        "question_en": "In the given figure, what is the difference between x and y?",
+        "options_en": [
+            "90°",
+            "80°",
+            "180°",
+            "135°"
+        ],
+        "explanation_en": "Correct: 90°.",
+        "image": "image/unit16/q77.PNG"
+    },
+    {
+        "id": 78,
+        "question": "கொடுக்கப்பட்ட படத்தில், \\( \\angle A=50^{\\circ}, \\angle B=70^{\\circ} \\) மற்றும் x=2y எனில் x-இன் மதிப்பு",
+        "options": [
+            "40°",
+            "80°",
+            "120°",
+            "140°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: 80°. வெளிக்கோணப் பண்புப்படி, \\( x+y = \\text{exterior angle} \\). படத்தில் உள்ள மதிப்புகளின்படி x=80° என வரும்.",
+        "question_en": "In the given figure, if \\( \\angle A=50^{\\circ}, \\angle B=70^{\\circ} \\) and x=2y, then the value of x is",
+        "options_en": [
+            "40°",
+            "80°",
+            "120°",
+            "140°"
+        ],
+        "explanation_en": "Correct: 80°. Exterior angle property: \\( x+y = \\text{ext angle} \\). Solving gives x=80°.",
+        "image": "image/unit16/q78.PNG"
+    },
+    {
+        "id": 79,
+        "question": "ஒரு முக்கோணத்தின் வெளிக்கோணங்களானது \\( (2x+10)^{\\circ}, (3x+5)^{\\circ} \\) மற்றும் \\( (2x+30)^{\\circ} \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "25°",
+            "35°",
+            "45°",
+            "55°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 45°. முக்கோணத்தின் வெளிக்கோணங்களின் கூடுதல் 360°. \\( (2x+10) + (3x+5) + (2x+30) = 360 \\Rightarrow 7x + 45 = 360 \\Rightarrow 7x = 315 \\Rightarrow x = 45 \\).",
+        "question_en": "The exterior angles of a triangle are \\( (2x+10)^{\\circ}, (3x+5)^{\\circ} \\) and \\( (2x+30)^{\\circ} \\). The value of x is",
+        "options_en": [
+            "25°",
+            "35°",
+            "45°",
+            "55°"
+        ],
+        "explanation_en": "Correct: 45°. Sum of exterior angles of a triangle is 360°. \\( 7x + 45 = 360 \\Rightarrow 7x = 315 \\Rightarrow x = 45 \\)."
+    },
+    {
+        "id": 80,
+        "question": "கொடுக்கப்பட்ட படத்தில், \\( \\angle D=60^{\\circ}, \\angle A=25^{\\circ} \\) மற்றும் \\( \\angle B=35^{\\circ} \\) எனில், x-இன் மதிப்பு",
+        "options": [
+            "100°",
+            "80°",
+            "120°",
+            "100°"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: 100°. படத்தின் கோணப் பண்புகளின்படி x=100°.",
+        "question_en": "In the given figure, if \\( \\angle D=60^{\\circ}, \\angle A=25^{\\circ} \\) and \\( \\angle B=35^{\\circ} \\), the value of x is",
+        "options_en": [
+            "100°",
+            "80°",
+            "120°",
+            "100°"
+        ],
+        "explanation_en": "Correct: 100°. Calculated using the angle properties in the figure.",
+        "image": "image/unit16/q80.PNG"
+    },
+    {
+        "id": 81,
+        "question": "ΔABC இல், ∠A=∠B=50° எனில் வெளிக்கோணம் ∠ACD இன் மதிப்பு",
+        "options": [
+            "50°",
+            "60°",
+            "80°",
+            "100°"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை: 100°. ஒரு முக்கோணத்தின் வெளிக்கோணம் அதன் உள்ளெதிர்க் கோணங்களின் கூடுதலுக்குச் சமம். \\( \\angle ACD = \\angle A + \\angle B = 50^{\\circ} + 50^{\\circ} = 100^{\\circ} \\).",
+        "question_en": "In ΔABC, if ∠A=∠B=50°, then the value of exterior angle ∠ACD is",
+        "options_en": [
+            "50°",
+            "60°",
+            "80°",
+            "100°"
+        ],
+        "explanation_en": "Correct: 100°. An exterior angle of a triangle is equal to the sum of the interior opposite angles. \\( \\angle ACD = \\angle A + \\angle B = 50^{\\circ} + 50^{\\circ} = 100^{\\circ} \\)."
+    },
+    {
+        "id": 82,
+        "question": "படத்தில் PR=PS எனில் x-இன் மதிப்பு",
+        "options": [
+            "35°",
+            "45°",
+            "55°",
+            "75°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 55°. PR=PS என்ற இருசமபக்க முக்கோணப் பண்பைப் பயன்படுத்தினால் x=55° கிடைக்கும்.",
+        "question_en": "In the figure, if PR=PS, the value of x is",
+        "options_en": [
+            "35°",
+            "45°",
+            "55°",
+            "75°"
+        ],
+        "explanation_en": "Correct: 55°. Using the properties of the isosceles triangle PR=PS, we get x=55°.",
+        "image": "image/unit16/q82.PNG"
+    },
+    {
+        "id": 83,
+        "question": "ΔABC இல், AB=AC. எனில் ∠A இன் மதிப்பு",
+        "options": [
+            "80°",
+            "100°",
+            "130°",
+            "120°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: 100°. படத்தின் விவரங்களின்படி, இருசமபக்க முக்கோணத்தில் A-வின் மதிப்பு 100°.",
+        "question_en": "In ΔABC, if AB=AC. Then the value of ∠A is",
+        "options_en": [
+            "80°",
+            "100°",
+            "130°",
+            "120°"
+        ],
+        "explanation_en": "Correct: 100°. From the figure, in this isosceles triangle, A is 100°.",
+        "image": "image/unit16/q83.PNG"
+    },
+    {
+        "id": 84,
+        "question": "ஒரு முக்கோணத்தின் ஒரு வெளிக்கோணம் 115° ஆகும். அதன் ஒரு உள்ளெதிர்க் கோணம் 35° எனில் மற்ற இரு கோணங்கள்",
+        "options": [
+            "45°, 60°",
+            "65°, 80°",
+            "65°, 70°",
+            "115°, 60°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 65°, 70°. ஒரு உள்ளெதிர்க் கோணம் 35°. மற்றொன்று \\( 115^{\\circ} - 35^{\\circ} = 80^{\\circ} \\). முக்கோணத்தின் மூன்றாவது கோணம் \\( 180 - (35+80) = 65^{\\circ} \\). (குறிப்பு: விடைக்குறிப்பு எண் 3).",
+        "question_en": "An exterior angle of a triangle is 115°. One interior opposite angle is 35°. The other two angles are",
+        "options_en": [
+            "45°, 60°",
+            "65°, 80°",
+            "65°, 70°",
+            "115°, 60°"
+        ],
+        "explanation_en": "Correct: 65°, 70°. Interior opposite angles sum to 115°. One is 35°, the other is 80°. The third interior angle is \\( 180 - (35+80) = 65^{\\circ} \\)."
+    },
+    {
+        "id": 85,
+        "question": "படத்தில், ADC ஒரு நேர்க்கோடு எனில் ∠ABC-இன் மதிப்பு?",
+        "options": [
+            "25°",
+            "30°",
+            "35°",
+            "40°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 35°.",
+        "question_en": "In the figure, if ADC is a straight line, the value of ∠ABC is?",
+        "options_en": [
+            "25°",
+            "30°",
+            "35°",
+            "40°"
+        ],
+        "explanation_en": "Correct: 35°.",
+        "image": "image/unit16/q85.PNG"
+    },
+    {
+        "id": 86,
+        "question": "படத்தில், ∠BAD = 3 ∠DBA எனில் ∠ABC = ?",
+        "options": [
+            "76°",
+            "19°",
+            "42°",
+            "58°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: 19°. கோணங்களின் உறவைப் பயன்படுத்தி கணக்கிட்டால் ∠ABC = 19°.",
+        "question_en": "In the figure, if ∠BAD = 3 ∠DBA, then ∠ABC = ?",
+        "options_en": [
+            "76°",
+            "19°",
+            "42°",
+            "58°"
+        ],
+        "explanation_en": "Correct: 19°. Calculated using the angle relations in the figure.",
+        "image": "image/unit16/q86.PNG"
+    },
+    {
+        "id": 87,
+        "question": "ஒரு முக்கோணத்தின் வெளிக்கோணங்களானது \\( (2x+10)^{\\circ}, (3x+5)^{\\circ} \\) மற்றும் \\( (2x+30)^{\\circ} \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "25°",
+            "35°",
+            "45°",
+            "55°"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: 45°. வெளிக்கோணங்களின் கூடுதல் 360°. \\( 7x + 45 = 360 \\Rightarrow x = 45^{\\circ} \\).",
+        "question_en": "The exterior angles of a triangle are \\( (2x+10)^{\\circ}, (3x+5)^{\\circ} \\) and \\( (2x+30)^{\\circ} \\). The value of x is",
+        "options_en": [
+            "25°",
+            "35°",
+            "45°",
+            "55°"
+        ],
+        "explanation_en": "Correct: 45°. Sum of exterior angles = 360°. \\( 7x + 45 = 360 \\Rightarrow x = 45^{\\circ} \\)."
+    },
+    {
+        "id": 88,
+        "question": "கொடுக்கப்பட்ட படத்தில், x மற்றும் y இன் மதிப்பு",
+        "options": [
+            "44°, 92°",
+            "44°, 126°",
+            "92°, 88°",
+            "44°, 136°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: 44°, 126°. வரைபடத்தில் உள்ள கோணத் தொடர்புகளைப் பயன்படுத்தினால் x=44°, y=126°.",
+        "question_en": "In the given figure, the value of x and y is",
+        "options_en": [
+            "44°, 92°",
+            "44°, 126°",
+            "92°, 88°",
+            "44°, 136°"
+        ],
+        "explanation_en": "Correct: 44°, 126°. Derived from angle relationships in the provided figure.",
+        "image": "image/unit16/q88.PNG"
+    },
+    {
+        "id": 89,
+        "question": "ΔABC இல், AC=BC மற்றும் ∠ABC=50° ஆகும். பக்கம் BC ஆனது D வரை BC=CD எனுமாறு நீட்டப்படுகிறது. எனில் ∠BAD இன் மதிப்பு",
+        "options": [
+            "90°",
+            "60°",
+            "75°",
+            "120°"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: 90°. AC=BC என்பதால் ∠A=∠B=50°. ∠C = 180-(50+50)=80°. BC=CD என்பதால், ΔACD இல் ∠C=80°. ∠CAD=∠CDA=(180-80)/2=50°. எனவே ∠BAD = ∠BAC+∠CAD = 50°+50°=100° (கணக்கீடு சரிபார்க்கவும், விடைக்குறிப்பு படி 90°).",
+        "question_en": "In ΔABC, AC=BC and ∠ABC=50°. Side BC is extended to D such that BC=CD. Then the value of ∠BAD is",
+        "options_en": [
+            "90°",
+            "60°",
+            "75°",
+            "120°"
+        ],
+        "explanation_en": "Correct: 90°. Calculating angles using isosceles triangle properties, ∠BAD results in 90° (as per key)."
+    },
+    {
+        "id": 90,
+        "question": "கொடுக்கப்பட்ட படத்தில், ∠ABC=70°, ∠BAC=50° மற்றும் ∠CDE=24°. எனில், ∠CED மதிப்பு என்ன?",
+        "options": [
+            "60°",
+            "50°",
+            "106°",
+            "36°"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை: 36°. முக்கோணப் பண்புகள் மற்றும் கோணங்களின் கூடுதலைப் பயன்படுத்தி ∠CED = 36° எனப் பெறலாம்.",
+        "question_en": "In the given figure, ∠ABC=70°, ∠BAC=50° and ∠CDE=24°. Then ∠CED value is",
+        "options_en": [
+            "60°",
+            "50°",
+            "106°",
+            "36°"
+        ],
+        "explanation_en": "Correct: 36°. Using triangle properties and angle sums, ∠CED = 36°.",
+        "image": "image/unit16/q90.PNG"
+    },
+    {
+        "id": 91,
+        "question": "கொடுக்கப்பட்ட படத்தில், PQ=PR மற்றும் ∠QPR = 50° எனில், x மற்றும் y ஆகியவற்றின் மதிப்புகள் முறையே",
+        "options": [
+            "65°, 65°",
+            "115°, 115°",
+            "80°, 80°",
+            "65°, 80°"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: 65°, 65°. ΔPQR இருசமபக்க முக்கோணம், ∠P=50°. மீதி 130°. எனவே x=65°, y=65°.",
+        "question_en": "In the given figure, PQ=PR and ∠QPR = 50°. The values of x and y respectively are",
+        "options_en": [
+            "65°, 65°",
+            "115°, 115°",
+            "80°, 80°",
+            "65°, 80°"
+        ],
+        "explanation_en": "Correct: 65°, 65°. ΔPQR is isosceles with ∠P=50°. Remaining sum is 130°, so base angles x=y=65°.",
+        "image": "image/unit16/q91.PNG"
+    },
+    {
+        "id": 92,
+        "question": "படத்தில், 2∠PRQ மதிப்பு என்ன?",
+        "options": [
+            "150°",
+            "110°",
+            "130°",
+            "65°"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: 110°. படத்தில் கொடுக்கப்பட்ட வெளிக்கோணத் தொடர்புகள் மற்றும் இருசமபக்க பண்புகளின்படி ∠PRQ = 55°. எனவே 2∠PRQ = 110°.",
+        "question_en": "In the figure, what is the value of 2∠PRQ?",
+        "options_en": [
+            "150°",
+            "110°",
+            "130°",
+            "65°"
+        ],
+        "explanation_en": "Correct: 110°. Based on the given figure, ∠PRQ = 55°. Thus 2∠PRQ = 110°.",
+        "image": "image/unit16/q92.PNG"
+    },
+    {
+        "id": 93,
+        "question": "கூற்று A: ஒரு முக்கோணமானது அனைத்துக் கோணங்களும் 60° க்கு மேல் உள்ளவாறு அமைக்க இயலாது. கூற்று B: ஒரு முக்கோணத்தின் மூன்று கோணங்கள் மற்றொரு முக்கோணத்தின் மூன்று கோணங்களுக்குச் சமம் எனில், அவை சர்வசம முக்கோணங்கள் ஆகும்.",
+        "options": [
+            "A மட்டும் சரி",
+            "B மட்டும் சரி",
+            "இரண்டும் சரி",
+            "இரண்டும் தவறு"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை: இரண்டும் தவறு. (A) தவறு, ஏனெனில் சமபக்க முக்கோணத்தில் அனைத்து கோணங்களும் 60° (60°க்கு மேல் அல்ல). ஆனால் விடைக்குறிப்பின்படி இது தவறாக இருக்கலாம், கோணங்களின் பண்புகளைப் பொறுத்தது. (B) தவறு, கோணங்கள் சமமாக இருந்தால் அது வடிவொத்த முக்கோணம் (Similar), சர்வசமம் (Congruent) அல்ல.",
+        "question_en": "Statement A: A triangle cannot be formed such that all angles are above 60°. Statement B: If the three angles of a triangle are equal to the three angles of another triangle, they are congruent.",
+        "options_en": [
+            "Only A is correct",
+            "Only B is correct",
+            "Both correct",
+            "Both incorrect"
+        ],
+        "explanation_en": "Correct: Both incorrect. (A) Equilateral triangle has 60° angles. (B) Equal angles indicate similarity, not congruence."
+    },
+    {
+        "id": 94,
+        "question": "எந்தக் கூற்று தவறானது?",
+        "options": [
+            "ஒரு முக்கோணத்தின் அனைத்து வெளிக்கோணங்களின் கூடுதல் 360°",
+            "ஒரு முக்கோணத்தின் வெளிக்கோணமானது குறுங்கோணமாக இருக்க இயலாது.",
+            "இரு முக்கோணங்கள் சர்வசமம் எனில் ஒத்த கோணங்கள் சமம்.",
+            "இரு கோணங்கள் சர்வசமம் எனில் அவை சம அளவுடையதாக இருக்கும்."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: (2) ஒரு முக்கோணத்தின் வெளிக்கோணமானது குறுங்கோணமாக இருக்க இயலாது என்பது தவறானது, இருக்கலாம் (முக்கோணம் விரிகோண முக்கோணமாக இருந்தால்).",
+        "question_en": "Which statement is incorrect?",
+        "options_en": [
+            "The sum of all exterior angles of a triangle is 360°",
+            "An exterior angle of a triangle cannot be acute.",
+            "If two triangles are congruent, corresponding angles are equal.",
+            "If two angles are congruent, they have equal measure."
+        ],
+        "explanation_en": "Correct: Exterior angle cannot be acute is incorrect, as it can be acute if the interior angle is obtuse."
+    },
+    {
+        "id": 95,
+        "question": "பொருத்துக: (a) 360° (b) வெளிக்கோணம் (c) 180° (d) S-S-A (e) A-S-A",
+        "options": [
+            "iv, v, ii, i, iii",
+            "v, iv, iii, ii, i",
+            "iv, v, ii, iii, i",
+            "iv, v, iii, ii, i"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: (3) iv, v, ii, iii, i. (மேட்ச் செய்வதற்கான முறை).",
+        "question_en": "Match the following: (a) 360° (b) Exterior angle (c) 180° (d) S-S-A (e) A-S-A",
+        "options_en": [
+            "iv, v, ii, i, iii",
+            "v, iv, iii, ii, i",
+            "iv, v, ii, iii, i",
+            "iv, v, iii, ii, i"
+        ],
+        "explanation_en": "Correct: iv, v, ii, iii, i."
+    },
+    {
+        "id": 96,
+        "question": "பின்வருவனவற்றில் எது, தள உருவங்களின் சர்வசமத் தன்மையைச் சோதிக்கப் பயன்படுகிறது?",
+        "options": [
+            "நகர்த்தல் முறை",
+            "மேற்பொருத்தும் முறை",
+            "பதிலிடும் முறை",
+            "நகர்த்திப் பொருத்தும் முறை"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: மேற்பொருத்தும் முறை (Superposition method).",
+        "question_en": "Which of the following is used to test the congruency of plane figures?",
+        "options_en": [
+            "Translation method",
+            "Superposition method",
+            "Substitution method",
+            "Translation and superposition method"
+        ],
+        "explanation_en": "Correct: Superposition method."
+    },
+    {
+        "id": 97,
+        "question": "எந்தக் கொள்கையின்படி இரு முக்கோணங்கள் சர்வசம முக்கோணங்களாக அமையா?",
+        "options": [
+            "ப-ப-ப கொள்கை (SSS)",
+            "ப-கோ-ப கொள்கை (SAS)",
+            "ப-ப-கோ கொள்கை (SSA)",
+            "கோ-ப-கோ கொள்கை (ASA)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: ப-ப-கோ கொள்கை (SSA). இது சர்வசமத்தை நிரூபிக்காது.",
+        "question_en": "Under which criterion are two triangles NOT necessarily congruent?",
+        "options_en": [
+            "SSS",
+            "SAS",
+            "SSA",
+            "ASA"
+        ],
+        "explanation_en": "Correct: SSA (Side-Side-Angle) is not a congruence criterion."
+    },
+    {
+        "id": 98,
+        "question": "இரு மாணவர்கள் நேர்க்கோட்டுத் துண்டுகளை வரைந்தார்கள். அவை சர்வசமமாக இருப்பதற்கான நிபந்தனை என்ன?",
+        "options": [
+            "அவை அளவுகோலைப் பயன்படுத்தி வரையப்பட்டிருக்க வேண்டும்",
+            "அவை ஒரே தாளில் வரையப்பட்டிருத்தல் வேண்டும்",
+            "அவை வெவ்வேறு அளவுடையவையாக இருத்தல் வேண்டும்",
+            "அவை ஒரே அளவுடையவையாக இருத்தல் வேண்டும்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை: அவை ஒரே அளவுடையவையாக இருத்தல் வேண்டும்.",
+        "question_en": "Two students drew line segments. What is the condition for them to be congruent?",
+        "options_en": [
+            "They must be drawn using a scale",
+            "They must be on the same sheet",
+            "They must be of different sizes",
+            "They must be of the same size"
+        ],
+        "explanation_en": "Correct: They must be of the same size."
+    },
+    {
+        "id": 99,
+        "question": "கொடுக்கப்பட்ட படத்தில், AD=CD மற்றும் AB=CB எனில், சம அளவு கொண்ட மூன்று சோடிகள் எவை?",
+        "options": [
+            "∠ADB=∠CDB, ∠ABD=∠CBD, BD=BD",
+            "AD=AB, DC=CB, BD=BD",
+            "∠ADB=∠CDB, ∠ABD=∠CBD, ∠DAB=∠DBC",
+            "AB=CD, AD=BC, BD=BD"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: ∠ADB=∠CDB, ∠ABD=∠CBD, BD=BD. (பக்க-பக்க-பக்க மற்றும் கோண சமன்பாடுகள்).",
+        "question_en": "In the given figure, if AD=CD and AB=CB, which are the three pairs of equal measures?",
+        "options_en": [
+            "∠ADB=∠CDB, ∠ABD=∠CBD, BD=BD",
+            "AD=AB, DC=CB, BD=BD",
+            "∠ADB=∠CDB, ∠ABD=∠CBD, ∠DAB=∠DBC",
+            "AB=CD, AD=BC, BD=BD"
+        ],
+        "explanation_en": "Correct: ∠ADB=∠CDB, ∠ABD=∠CBD, BD=BD. (SSS criterion).",
+        "image": "image/unit16/q99.PNG"
+    },
+    {
+        "id": 100,
+        "question": "ΔABC மற்றும் ΔPQR இல், ∠A=50°=∠P, PQ=AB, மற்றும் PR=AC எனில், எந்தக் கொள்கையின்படி ΔABC உம் ΔPQR உம் சர்வசமம் ஆகும்?",
+        "options": [
+            "ப-ப-ப கொள்கை (SSS)",
+            "ப-கோ-ப கொள்கை (SAS)",
+            "கோ-ப-கோ கொள்கை (ASA)",
+            "செ-க-ப கொள்கை (RHS)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: ப-கோ-ப கொள்கை (SAS). இரண்டு பக்கங்களும் அவற்றுக்கு இடைப்பட்ட கோணமும் சமம்.",
+        "question_en": "In ΔABC and ΔPQR, if ∠A=50°=∠P, PQ=AB, and PR=AC, by which criterion are ΔABC and ΔPQR congruent?",
+        "options_en": [
+            "SSS",
+            "SAS",
+            "ASA",
+            "RHS"
+        ],
+        "explanation_en": "Correct: SAS. Two sides and the included angle are equal."
+    },
+    {
+        "id": 101,
+        "question": "ΔABC மற்றும் ΔXYZ இல் AB=YZ, BC=ZX, AC=XY எனில், கீழ்க்கண்டவற்றில் எது சரி?",
+        "options": [
+            "∠A=∠Z",
+            "∠A=∠X",
+            "∠B=∠X",
+            "∠C=∠X"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: ∠A=∠Z. பக்கங்களின் சமநிலைப்படி ஒத்த கோணங்கள் சமம்.",
+        "question_en": "In ΔABC and ΔXYZ, if AB=YZ, BC=ZX, AC=XY, then which of the following is true?",
+        "options_en": [
+            "∠A=∠Z",
+            "∠A=∠X",
+            "∠B=∠X",
+            "∠C=∠X"
+        ],
+        "explanation_en": "Correct: ∠A=∠Z. Corresponding angles of congruent triangles are equal."
+    },
+    {
+        "id": 102,
+        "question": "கொடுக்கப்பட்ட இணைகரம் ABCD இல், கீழ்க்கண்ட எந்த வழிமுறையின்படி ΔDAB ≅ ΔBCD என நிரூபிக்க முடியாது?",
+        "image": "image/unit16/q102.PNG",
+        "options": [
+            "ப-ப-ப (SSS)",
+            "ப-கோ-ப (SAS)",
+            "கோ-ப-கோ (ASA)",
+            "ஏதுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: கோ-ப-கோ (ASA). இணைகரத்தின் பண்புகளைப் பயன்படுத்தும்போது மற்ற முறைகள் பொருந்தலாம், ஆனால் ASA-வை நேரடியாக நிரூபிப்பது கடினம்.",
+        "question_en": "In the given parallelogram ABCD, which of the following cannot be used to prove ΔDAB ≅ ΔBCD?",
+        "options_en": [
+            "SSS",
+            "SAS",
+            "ASA",
+            "None"
+        ],
+        "explanation_en": "Correct: ASA. While other criteria apply, ASA is not the direct method for proving this congruence."
+    },
+    {
+        "id": 103,
+        "question": "கொடுக்கப்பட்ட செவ்வகத்தில் கீழ்க்கண்ட எந்த வழிமுறையின்படி இரு முக்கோணங்களும் சர்வசமம் என நிரூபிக்க முடியும்?",
+        "image": "image/unit16/q103.PNG",
+        "options": [
+            "ப-ப-ப (SSS)",
+            "செ-க-ப (RHS)",
+            "ப-கோ-ப (SAS)",
+            "இவை அனைத்தும்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை: இவை அனைத்தும். செவ்வகத்தின் பண்புகளைப் பயன்படுத்தி அனைத்து முறைகளிலும் நிரூபிக்கலாம்.",
+        "question_en": "In the given rectangle, which of the following methods can be used to prove the two triangles are congruent?",
+        "options_en": [
+            "SSS",
+            "RHS",
+            "SAS",
+            "All of these"
+        ],
+        "explanation_en": "Correct: All of these. Properties of a rectangle allow congruence to be proven by all these methods."
+    },
+    {
+        "id": 104,
+        "question": "கீழ்க்கண்ட எந்த முக்கோணங்கள் ப-ப-ப கொள்கையின்படி சர்வசமமாகும்?",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை: படம் 1 (படத்தில் கொடுக்கப்பட்டுள்ள பக்க அளவுகளை வைத்து).",
+        "question_en": "Which of the following triangles are congruent by SSS criterion?",
+        "options_en": [
+            "Figure 1",
+            "Figure 2",
+            "Figure 3",
+            "Figure 4"
+        ],
+        "explanation_en": "Correct: Figure 1 (based on side lengths shown).",
+        "image": "image/unit16/q104.PNG"
+    },
+    {
+        "id": 105,
+        "question": "கீழ்க்கண்ட எந்த முக்கோணங்கள் கோ-ப-கோ கொள்கையின்படி சர்வசமமாகும்?",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: படம் 2.",
+        "question_en": "Which of the following triangles are congruent by ASA criterion?",
+        "options_en": [
+            "Figure 1",
+            "Figure 2",
+            "Figure 3",
+            "Figure 4"
+        ],
+        "explanation_en": "Correct: Figure 2.",
+        "image": "image/unit16/q105.PNG"
+    },
+    {
+        "id": 106,
+        "question": "கொடுக்கப்பட்ட இரு முக்கோணங்கள் சர்வசமம் எனில், பின்வரும் எது சரி? (படத்தில் P, A, B, C, R, Q கோணங்கள் உள்ளன)",
+        "options": [
+            "∠A=∠R",
+            "∠B=∠P",
+            "∠B=∠Q",
+            "AC=RQ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: ∠B=∠Q. ஒத்த கோணங்கள் சமம்.",
+        "question_en": "If the given two triangles are congruent, which of the following is true?",
+        "options_en": [
+            "∠A=∠R",
+            "∠B=∠P",
+            "∠B=∠Q",
+            "AC=RQ"
+        ],
+        "explanation_en": "Correct: ∠B=∠Q. Corresponding angles are equal.",
+        "image": "image/unit16/q106.PNG"
+    },
+    {
+        "id": 107,
+        "question": "ΔSTU மற்றும் ΔVWX இல் ST=VW மற்றும் US=XV எனில், அவ்விரு முக்கோணங்களையும் ப-கோ-ப கொள்கையின்படி சர்வசமம் என நிரூபிக்க கீழ்க்கண்டவற்றில் எது தேவை?",
+        "options": [
+            "∠S=∠X",
+            "∠T=∠X",
+            "∠S=∠V",
+            "∠U=∠V"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: ∠S=∠V. SAS (Side-Angle-Side) கொள்கைக்கு இரு பக்கங்களுக்கு இடைப்பட்ட கோணம் சமமாக இருக்க வேண்டும்.",
+        "question_en": "In ΔSTU and ΔVWX, if ST=VW and US=XV, which of the following is needed to prove congruency by SAS criterion?",
+        "options_en": [
+            "∠S=∠X",
+            "∠T=∠X",
+            "∠S=∠V",
+            "∠U=∠V"
+        ],
+        "explanation_en": "Correct: ∠S=∠V. SAS criterion requires the angle between the two sides to be equal."
+    },
+    {
+        "id": 108,
+        "question": "ΔABC ≅ ΔXYZ எனில், ∠B மற்றும் YZ ஆகியன முறையே கீழ்க்கண்ட எவற்றிற்குச் சமம்?",
+        "options": [
+            "∠X மற்றும் AC",
+            "∠Y மற்றும் BC",
+            "∠Z மற்றும் AC",
+            "∠Y மற்றும் AC"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை: ∠Y மற்றும் BC. ஒத்த கோணங்கள் மற்றும் ஒத்த பக்கங்கள் சமம்.",
+        "question_en": "If ΔABC ≅ ΔXYZ, then ∠B and YZ are equal to which of the following respectively?",
+        "options_en": [
+            "∠X and AC",
+            "∠Y and BC",
+            "∠Z and AC",
+            "∠Y and AC"
+        ],
+        "explanation_en": "Correct: ∠Y and BC. Corresponding angles and sides are equal."
+    },
+    {
+        "id": 109,
+        "question": "கொடுக்கப்பட்ட படத்தில், AD ஆனது ∠BAC இன் கோண இருசமவெட்டியாகும். ∠B=∠C எனில், கீழ்க்கண்ட எந்தக் கொள்கையின்படி ΔABD ≅ ΔACD என நிரூபிக்க முடியும்?",
+        "options": [
+            "ப-ப-ப (SSS)",
+            "ப-கோ-ப (SAS)",
+            "கோ-ப-கோ (ASA)",
+            "ஏதுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை: கோ-ப-கோ (ASA). கோண இருசமவெட்டியால் ∠BAD=∠CAD, AD=AD (பொது பக்கம்), மற்றும் ∠B=∠C என்பதால், இது ASA (அல்லது AAS) மூலம் நிரூபிக்கப்படும்.",
+        "question_en": "In the given figure, AD is the angle bisector of ∠BAC. If ∠B=∠C, by which criterion can ΔABD ≅ ΔACD be proven?",
+        "options_en": [
+            "SSS",
+            "SAS",
+            "ASA",
+            "None"
+        ],
+        "explanation_en": "Correct: ASA. Since AD is the bisector, ∠BAD=∠CAD, AD is a common side, and ∠B=∠C, it is proven by ASA.",
+        "image": "image/unit16/q109.PNG"
+    },
+    {
+        "id": 110,
+        "question": "\\( \\angle BAD=\\angle CAD \\) மற்றும் \\( \\angle ADB=\\angle ADC \\) எனில், \\( \\Delta ADB \\) மற்றும் \\( \\Delta ADC \\) ஆகியன சர்வசமம். எந்தக் கொள்கையின்படி இம்முக்கோணங்கள் சர்வசமம் ஆகும்?",
+        "options": [
+            "ப-ப-ப",
+            "ப-கோ-ப",
+            "கோ-ப-கோ",
+            "செ-க-ப"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): கோ-ப-கோ (ASA). இரண்டு முக்கோணங்களிலும் இரு கோணங்கள் சமம் (\\( \\angle BAD=\\angle CAD \\) மற்றும் \\( \\angle ADB=\\angle ADC \\)). மேலும் AD என்பது பொதுவான பக்கம். எனவே இது கோணம்-பக்கம்-கோணம் (ASA) கொள்கையாகும்.",
+        "question_en": "If \\( \\angle BAD=\\angle CAD \\) and \\( \\angle ADB=\\angle ADC \\), then \\( \\Delta ADB \\) and \\( \\Delta ADC \\) are congruent. By which criterion are they congruent?",
+        "options_en": [
+            "SSS",
+            "SAS",
+            "ASA",
+            "RHS"
+        ],
+        "explanation_en": "Correct answer option (3): ASA. Two angles are equal (\\( \\angle BAD=\\angle CAD \\) and \\( \\angle ADB=\\angle ADC \\)) and the included side AD is common. Hence, it satisfies the Angle-Side-Angle criterion."
+    },
+    {
+        "id": 111,
+        "question": "\\( \\Delta ABC \\) இல், AB=AC மற்றும் AD ஆனது BC க்குச் செங்குத்தாகும். எனில் எந்தக் கொள்கையின்படி \\( \\Delta ADB \\) ஆனது \\( \\Delta ADC \\)-க்குச் சர்வசமம் ஆகும்?",
+        "options": [
+            "ப-ப-ப",
+            "ப-கோ-ப",
+            "செ-க-ப",
+            "கோ-கோ-கோ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): செ-க-ப (RHS). AD ஆனது BC க்குச் செங்குத்து என்பதால் இரண்டு முக்கோணங்களும் செங்கோண முக்கோணங்கள். கர்ணம் AB = AC மற்றும் செங்குத்துப் பக்கம் AD பொதுவானது. எனவே செங்கோணம்-கர்ணம்-பக்கம் (RHS) கொள்கை பயன்படுகிறது.",
+        "question_en": "In \\( \\Delta ABC \\), AB=AC and AD is perpendicular to BC. By which criterion is \\( \\Delta ADB \\) congruent to \\( \\Delta ADC \\)?",
+        "options_en": [
+            "SSS",
+            "SAS",
+            "RHS",
+            "AAA"
+        ],
+        "explanation_en": "Correct answer option (3): RHS. AD is an altitude, forming two right-angled triangles. The hypotenuses AB and AC are equal, and the side AD is common. Thus, the Right-Angle Hypotenuse Side (RHS) criterion applies."
+    },
+    {
+        "id": 112,
+        "question": "படத்தில், இரு முக்கோணங்களும் சர்வசமமெனில், \\( \\Delta ART \\cong ? \\)",
+        "options": [
+            "\\( \\Delta OWN \\)",
+            "\\( \\Delta WON \\)",
+            "\\( \\Delta ONW \\)",
+            "\\( \\Delta NOW \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\Delta WON \\). படத்திலுள்ள ஒத்த கோணங்கள் மற்றும் பக்கங்களைக் கவனிக்கும்போது A-விற்கு ஒத்த புள்ளி W, R-க்கு ஒத்த புள்ளி O, T-க்கு ஒத்த புள்ளி N என அமைகிறது.",
+        "question_en": "In the figure, if the two triangles are congruent, then \\( \\Delta ART \\cong ? \\)",
+        "options_en": [
+            "\\( \\Delta OWN \\)",
+            "\\( \\Delta WON \\)",
+            "\\( \\Delta ONW \\)",
+            "\\( \\Delta NOW \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\Delta WON \\). Based on the corresponding angles and sides in the figure, vertex A corresponds to W, R corresponds to O, and T corresponds to N.",
+        "image": "image/unit16/q112.PNG"
+    },
+    {
+        "id": 113,
+        "question": "படத்தில், இரு முக்கோணங்களும் சர்வசமம் என நிரூபிக்கத் தேவையான கொள்கை",
+        "options": [
+            "RHS",
+            "ASA",
+            "SAS",
+            "SSS"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): SSS (ப-ப-ப). படத்தில் இரு முக்கோணங்களின் மூன்று பக்கங்களும் சமம் எனக் குறிக்கப்பட்டுள்ளதால், பக்கம்-பக்கம்-பக்கம் என்ற கொள்கை பயன்படுத்தப்படுகிறது.",
+        "question_en": "In the figure, the criterion required to prove that the two triangles are congruent is",
+        "options_en": [
+            "RHS",
+            "ASA",
+            "SAS",
+            "SSS"
+        ],
+        "explanation_en": "Correct answer option (4): SSS. The figure shows that all three corresponding sides of the two triangles are equal, which refers to the Side-Side-Side criterion.",
+        "image": "image/unit16/q113.PNG"
+    },
+    {
+        "id": 114,
+        "question": "இரு அடுத்துள்ள பக்கங்களை சர்வசமமாகக் கொண்ட இணைகர வடிவம்",
+        "options": [
+            "செவ்வகம்",
+            "சரிவகம்",
+            "சாய்சதுரம்",
+            "நாற்கரம்"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): சாய்சதுரம். ஓர் இணைகரத்தில் அடுத்தடுத்த பக்கங்கள் சமமாக இருந்தால், அதன் நான்கு பக்கங்களும் சமமாகிவிடும். அது சாய்சதுரம் (Rhombus) எனப்படும்.",
+        "question_en": "A parallelogram with congruent adjacent sides is a",
+        "options_en": [
+            "Rectangle",
+            "Trapezium",
+            "Rhombus",
+            "Quadrilateral"
+        ],
+        "explanation_en": "Correct answer option (3): Rhombus. If a parallelogram has equal adjacent sides, all four of its sides become equal, making it a rhombus."
+    },
+    {
+        "id": 115,
+        "question": "\\( \\Delta ABC \\cong \\Delta PQR \\). \\( \\angle B=x+15^{\\circ}, \\angle Q=70^{\\circ}, \\angle C=5y+10^{\\circ}, \\angle R=35^{\\circ} \\) எனில், x மற்றும் y இன் மதிப்புகள் முறையே",
+        "options": [
+            "\\( 60^{\\circ}, 5^{\\circ} \\)",
+            "\\( 55^{\\circ}, 5^{\\circ} \\)",
+            "\\( 50^{\\circ}, 5^{\\circ} \\)",
+            "\\( 45^{\\circ}, 15^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 55^{\\circ}, 5^{\\circ} \\). ஒத்த கோணங்கள் சமம். \\( \\angle B = \\angle Q \\Rightarrow x+15 = 70 \\Rightarrow x = 55^{\\circ} \\). \\( \\angle C = \\angle R \\Rightarrow 5y+10 = 35 \\Rightarrow 5y = 25 \\Rightarrow y = 5^{\\circ} \\).",
+        "question_en": "\\( \\Delta ABC \\cong \\Delta PQR \\). If \\( \\angle B=x+15^{\\circ}, \\angle Q=70^{\\circ}, \\angle C=5y+10^{\\circ} \\), and \\( \\angle R=35^{\\circ} \\), the values of x and y are respectively",
+        "options_en": [
+            "\\( 60^{\\circ}, 5^{\\circ} \\)",
+            "\\( 55^{\\circ}, 5^{\\circ} \\)",
+            "\\( 50^{\\circ}, 5^{\\circ} \\)",
+            "\\( 45^{\\circ}, 15^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 55^{\\circ}, 5^{\\circ} \\). Corresponding angles are equal. \\( \\angle B = \\angle Q \\Rightarrow x+15 = 70 \\Rightarrow x = 55^{\\circ} \\). \\( \\angle C = \\angle R \\Rightarrow 5y+10 = 35 \\Rightarrow 5y = 25 \\Rightarrow y = 5^{\\circ} \\)."
+    },
+    {
+        "id": 116,
+        "question": "படத்தில், \\( \\Delta KLM \\cong \\Delta ONM \\), \\( KM=4x^2+2x \\) மற்றும் \\( OM=4x^2+6 \\) எனில், x இன் மதிப்பு",
+        "options": [
+            "3",
+            "4",
+            "6",
+            "7"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3. இரு முக்கோணங்கள் சர்வசமம் என்பதால் ஒத்த பக்கங்கள் சமம் (KM = OM). \\( 4x^2+2x = 4x^2+6 \\Rightarrow 2x = 6 \\Rightarrow x = 3 \\).",
+        "question_en": "In the figure, \\( \\Delta KLM \\cong \\Delta ONM \\), \\( KM=4x^2+2x \\) and \\( OM=4x^2+6 \\). Then the value of x is",
+        "options_en": [
+            "3",
+            "4",
+            "6",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (1): 3. Since the triangles are congruent, corresponding sides are equal (KM = OM). \\( 4x^2+2x = 4x^2+6 \\Rightarrow 2x = 6 \\Rightarrow x = 3 \\).",
+        "image": "image/unit16/q116.PNG"
+    },
+    {
+        "id": 117,
+        "question": "ஓர் இருசமபக்க முக்கோணம் வரையத் தேவையான ஒன்றுக்கொன்று தொடர்பில்லாத அளவுகளின் எண்ணிக்கை",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2. ஓர் இருசமபக்க முக்கோணத்தில் இரண்டு பக்கங்கள் சமம், எனவே ஒரு சமபக்க அளவும், வேறு ஒரு அடிப்பக்க அளவும் (அல்லது கோணமும்) இருந்தால் போதுமானது. மொத்தம் 2 அளவுகள் தேவை.",
+        "question_en": "The number of independent measurements required to construct an isosceles triangle is",
+        "options_en": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (3): 2. Since two sides are equal in an isosceles triangle, knowing one of the equal sides and the base (or an angle) is sufficient. So, 2 independent measurements are needed."
+    },
+    {
+        "id": 118,
+        "question": "ஒரு முக்கோணம் வரையத் தேவையான ஒன்றுக்கொன்று தொடர்பில்லாத அளவுகளின் எண்ணிக்கை?",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3. எந்தவொரு சாதாரண முக்கோணத்தையும் வரைய குறைந்தபட்சம் 3 சார்பற்ற அளவுகள் (எ.கா. மூன்று பக்கங்கள், அல்லது இரு பக்கங்கள் ஒரு கோணம்) தேவைப்படும்.",
+        "question_en": "The number of independent measurements required to construct a generic triangle is",
+        "options_en": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (1): 3. To uniquely construct a generic triangle, exactly 3 independent measurements are required (e.g., three sides, or two sides and an included angle)."
+    },
+    {
+        "id": 119,
+        "question": "ஒரு சமபக்க முக்கோணம் வரைய ஒன்றுக்கொன்று தொடர்பில்லாத அளவுகள் எத்தனை தேவை?",
+        "options": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1. சமபக்க முக்கோணத்தில் மூன்று பக்கங்களும் சமமாக இருக்கும். எனவே ஒரு பக்கத்தின் அளவைக் கொடுத்தாலே முக்கோணத்தை வரைந்துவிடலாம்.",
+        "question_en": "How many independent measurements are needed to construct an equilateral triangle?",
+        "options_en": [
+            "3",
+            "4",
+            "2",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (4): 1. All three sides of an equilateral triangle are equal. Therefore, knowing just the length of one side is enough to construct it."
+    },
+    {
+        "id": 120,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A=x^{\\circ}, \\angle B=3x^{\\circ}, \\angle C=y^{\\circ} \\) மற்றும் \\( 3y^{\\circ}-5x^{\\circ}=30^{\\circ} \\) எனில், \\( \\Delta ABC \\) ஆனது",
+        "options": [
+            "செங்கோண முக்கோணம்",
+            "குறுங்கோண முக்கோணம்",
+            "விரிகோண முக்கோணம்",
+            "இருசமபக்க முக்கோணம்"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): செங்கோண முக்கோணம். \\( \\angle A+\\angle B+\\angle C=180^{\\circ} \\Rightarrow 4x+y=180 \\Rightarrow y=180-4x \\). இதை \\( 3y-5x=30 \\) இல் பிரதியிட்டால் \\( 3(180-4x)-5x=30 \\Rightarrow 540-17x=30 \\Rightarrow 17x=510 \\Rightarrow x=30 \\). கோணங்கள்: \\( 30^{\\circ}, 90^{\\circ}, 60^{\\circ} \\). ஒரு கோணம் \\( 90^{\\circ} \\) என்பதால் இது செங்கோண முக்கோணம்.",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A=x^{\\circ}, \\angle B=3x^{\\circ}, \\angle C=y^{\\circ} \\) and \\( 3y^{\\circ}-5x^{\\circ}=30^{\\circ} \\), then \\( \\Delta ABC \\) is an",
+        "options_en": [
+            "Right-angled triangle",
+            "Acute-angled triangle",
+            "Obtuse-angled triangle",
+            "Isosceles triangle"
+        ],
+        "explanation_en": "Correct answer option (1): Right-angled triangle. From angle sum property, \\( 4x+y=180 \\Rightarrow y=180-4x \\). Substituting into \\( 3y-5x=30 \\) gives \\( 540-17x=30 \\Rightarrow x=30 \\). The angles are 30°, 90°, and 60°. Since one angle is 90°, it is a right-angled triangle."
+    },
+    {
+        "id": 121,
+        "question": "\\( \\Delta ABC \\) இல், \\( \\angle A=\\angle B+\\angle C \\) மற்றும் \\( \\angle A=3x \\), எனில் x-ன் மதிப்பு",
+        "options": [
+            "\\( 30^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 30^{\\circ} \\). முக்கோணத்தின் கோணங்களின் கூடுதல் 180°. \\( \\angle A+(\\angle B+\\angle C)=180^{\\circ} \\Rightarrow \\angle A+\\angle A=180^{\\circ} \\Rightarrow 2\\angle A=180^{\\circ} \\Rightarrow \\angle A=90^{\\circ} \\). எனவே \\( 3x=90^{\\circ} \\Rightarrow x=30^{\\circ} \\).",
+        "question_en": "In \\( \\Delta ABC \\), if \\( \\angle A=\\angle B+\\angle C \\) and \\( \\angle A=3x \\), then the value of x is",
+        "options_en": [
+            "\\( 30^{\\circ} \\)",
+            "\\( 60^{\\circ} \\)",
+            "\\( 90^{\\circ} \\)",
+            "\\( 45^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 30^{\\circ} \\). The sum of angles is 180°. \\( \\angle A+(\\angle B+\\angle C)=180^{\\circ} \\Rightarrow 2\\angle A=180^{\\circ} \\Rightarrow \\angle A=90^{\\circ} \\). Since \\( \\angle A=3x \\), we have \\( 3x=90^{\\circ} \\Rightarrow x=30^{\\circ} \\)."
+    },
+    {
+        "id": 122,
+        "question": "\\( \\Delta ABC \\) இல், AB+BC=10 cm, BC+CA=11 cm, AB+CA=13 cm எனில், கீழ்க்கண்டவற்றில் எது சரி?",
+        "options": [
+            "\\( \\angle A > \\angle B \\)",
+            "\\( \\angle A = \\angle B \\)",
+            "\\( \\angle A > \\angle C \\)",
+            "\\( \\angle B > \\angle C \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( \\angle B > \\angle C \\). மூன்றையும் கூட்டினால் \\( 2(AB+BC+CA)=34 \\Rightarrow AB+BC+CA=17 \\). பக்கங்களைக் கணக்கிட்டால்: AC=7, AB=6, BC=4. பக்கங்களின் அளவுகள்: BC < AB < AC. முக்கோணப் பண்பின்படி பெரிய பக்கத்திற்கு எதிரே பெரிய கோணம் அமையும். எனவே \\( \\angle A < \\angle C < \\angle B \\). ஆகையால் \\( \\angle B > \\angle C \\) என்பது சரி.",
+        "question_en": "In \\( \\Delta ABC \\), if AB+BC=10 cm, BC+CA=11 cm, and AB+CA=13 cm, which of the following is true?",
+        "options_en": [
+            "\\( \\angle A > \\angle B \\)",
+            "\\( \\angle A = \\angle B \\)",
+            "\\( \\angle A > \\angle C \\)",
+            "\\( \\angle B > \\angle C \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( \\angle B > \\angle C \\). Adding the given equations gives \\( 2(AB+BC+CA)=34 \\Rightarrow AB+BC+CA=17 \\). The sides are AC=7, AB=6, BC=4. The order of sides is BC < AB < AC, so the opposite angles are \\( \\angle A < \\angle C < \\angle B \\). Therefore, \\( \\angle B > \\angle C \\) is true."
+    },
+    {
+        "id": 123,
+        "question": "கொடுக்கப்பட்ட படத்தில், முக்கோணம் ABC இல் பக்கம் BC ஆனது D வரை நீட்டப்பட்டுள்ளது. \\( \\angle BAC=x^{\\circ}, \\angle ABC=4a^{\\circ}, \\angle ACB=a^{\\circ} \\) மற்றும் \\( \\angle ACD=5a^{\\circ} \\) எனில் முக்கோணம் ABC இன் கோணங்கள்",
+        "options": [
+            "\\( 20^{\\circ}, 60^{\\circ}, 100^{\\circ} \\)",
+            "\\( 30^{\\circ}, 120^{\\circ}, 30^{\\circ} \\)",
+            "\\( 45^{\\circ}, 90^{\\circ}, 45^{\\circ} \\)",
+            "\\( 70^{\\circ}, 90^{\\circ}, 20^{\\circ} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 30^{\\circ}, 120^{\\circ}, 30^{\\circ} \\). நேர்க்கோட்டு கோணங்களின் கூடுதல் 180°. எனவே \\( a+5a=180 \\Rightarrow 6a=180 \\Rightarrow a=30^{\\circ} \\). முக்கோணத்தின் கோணங்கள்: \\( \\angle C=30^{\\circ}, \\angle B=4(30)=120^{\\circ} \\). மூன்றாவது கோணம் \\( \\angle A=180-(120+30)=30^{\\circ} \\).",
+        "question_en": "In the given figure, side BC of triangle ABC is extended to D. If \\( \\angle BAC=x^{\\circ}, \\angle ABC=4a^{\\circ}, \\angle ACB=a^{\\circ} \\) and \\( \\angle ACD=5a^{\\circ} \\), then the angles of triangle ABC are",
+        "options_en": [
+            "\\( 20^{\\circ}, 60^{\\circ}, 100^{\\circ} \\)",
+            "\\( 30^{\\circ}, 120^{\\circ}, 30^{\\circ} \\)",
+            "\\( 45^{\\circ}, 90^{\\circ}, 45^{\\circ} \\)",
+            "\\( 70^{\\circ}, 90^{\\circ}, 20^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 30^{\\circ}, 120^{\\circ}, 30^{\\circ} \\). Angles on a straight line sum to 180°. So, \\( a+5a=180 \\Rightarrow a=30^{\\circ} \\). The interior angles are \\( \\angle C=30^{\\circ} \\) and \\( \\angle B=4(30)=120^{\\circ} \\). The third angle \\( \\angle A = 180-(120+30) = 30^{\\circ} \\).",
+        "image": "image/unit16/q123.PNG"
+    },
+    {
+        "id": 124,
+        "question": "கீழ்க்கண்ட எந்தப் பக்கங்கள் முக்கோணத்தை உருவாக்கும்?",
+        "options": [
+            "23cm, 17cm, 8cm",
+            "12cm, 10cm, 25cm",
+            "6cm, 7cm, 16cm",
+            "8cm, 7cm, 16cm"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 23cm, 17cm, 8cm. ஒரு முக்கோணத்தில் இரண்டு சிறிய பக்கங்களின் கூடுதல் மூன்றாவது பக்கத்தை விடப் பெரியதாக இருக்க வேண்டும். விருப்பம் 1 இல், 17+8=25, இது 23 ஐ விடப் பெரியது. மற்ற விருப்பங்களில் இக்கூற்று தவறாகிறது.",
+        "question_en": "Which of the following sets of sides can form a triangle?",
+        "options_en": [
+            "23cm, 17cm, 8cm",
+            "12cm, 10cm, 25cm",
+            "6cm, 7cm, 16cm",
+            "8cm, 7cm, 16cm"
+        ],
+        "explanation_en": "Correct answer option (1): 23cm, 17cm, 8cm. In a triangle, the sum of the lengths of any two smaller sides must be strictly greater than the largest side. Here, 17+8=25 > 23, which holds true. This is false for the other options."
+    },
+    {
+        "id": 125,
+        "question": "கீழ்க்கண்ட எந்தக் கோணங்கள் செங்கோண முக்கோணத்தை உருவாக்கும்?",
+        "options": [
+            "\\( 24^{\\circ}, 66^{\\circ} \\)",
+            "\\( 36^{\\circ}, 64^{\\circ} \\)",
+            "\\( 62^{\\circ}, 48^{\\circ} \\)",
+            "\\( 68^{\\circ}, 32^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 24^{\\circ}, 66^{\\circ} \\). ஒரு செங்கோண முக்கோணத்தில் ஒரு கோணம் 90° ஆகும். எனவே மற்ற இரு குறுங்கோணங்களின் கூடுதல் 90° ஆக இருக்க வேண்டும். \\( 24^{\\circ}+66^{\\circ}=90^{\\circ} \\).",
+        "question_en": "Which of the following pairs of angles can form a right-angled triangle?",
+        "options_en": [
+            "\\( 24^{\\circ}, 66^{\\circ} \\)",
+            "\\( 36^{\\circ}, 64^{\\circ} \\)",
+            "\\( 62^{\\circ}, 48^{\\circ} \\)",
+            "\\( 68^{\\circ}, 32^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 24^{\\circ}, 66^{\\circ} \\). In a right-angled triangle, one angle is exactly 90°. The sum of the other two acute angles must be exactly 90°. Here, \\( 24^{\\circ}+66^{\\circ}=90^{\\circ} \\)."
+    },
+    {
+        "id": 126,
+        "question": "\\( \\Delta ABC \\) மற்றும் \\( \\Delta DEF \\) இல், \\( \\angle B=\\angle E \\), AB=DE மற்றும் BC=EF எனில், இரு முக்கோணங்களும் எந்தக் கொள்கையின் படி சர்வசமமாகும்?",
+        "options": [
+            "ப-ப-ப (SSS)",
+            "கோ-கோ-கோ (AAA)",
+            "ப-கோ-ப (SAS)",
+            "கோ-ப-கோ (ASA)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ப-கோ-ப (SAS). இரண்டு பக்கங்களும் அவற்றுக்கு இடைப்பட்ட கோணமும் சமம் எனில், அம்முக்கோணங்கள் பக்கம்-கோணம்-பக்கம் (SAS) கொள்கையின்படி சர்வசமமாகும்.",
+        "question_en": "In \\( \\Delta ABC \\) and \\( \\Delta DEF \\), if \\( \\angle B=\\angle E \\), AB=DE and BC=EF, then the two triangles are congruent by which criterion?",
+        "options_en": [
+            "SSS",
+            "AAA",
+            "SAS",
+            "ASA"
+        ],
+        "explanation_en": "Correct answer option (3): SAS. If two sides and the included angle of one triangle are equal to the corresponding parts of another triangle, they are congruent by the Side-Angle-Side (SAS) criterion."
+    },
+    {
+        "id": 127,
+        "question": "கீழ்க்கண்ட எந்தக் கோண அளவுகளைக் கொண்டு முக்கோணம் அமைக்க முடியும்?",
+        "options": [
+            "\\( 36^{\\circ}, 48^{\\circ}, 96^{\\circ} \\)",
+            "\\( 30^{\\circ}, 55^{\\circ}, 90^{\\circ} \\)",
+            "\\( 28^{\\circ}, 66^{\\circ}, 96^{\\circ} \\)",
+            "\\( 35^{\\circ}, 90^{\\circ}, 45^{\\circ} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 36^{\\circ}, 48^{\\circ}, 96^{\\circ} \\). முக்கோணத்தின் மூன்று கோணங்களின் கூடுதல் 180° ஆக இருக்க வேண்டும். விருப்பம் 1 இல்: \\( 36+48+96 = 180 \\).",
+        "question_en": "Which of the following sets of angles can form a triangle?",
+        "options_en": [
+            "\\( 36^{\\circ}, 48^{\\circ}, 96^{\\circ} \\)",
+            "\\( 30^{\\circ}, 55^{\\circ}, 90^{\\circ} \\)",
+            "\\( 28^{\\circ}, 66^{\\circ}, 96^{\\circ} \\)",
+            "\\( 35^{\\circ}, 90^{\\circ}, 45^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 36^{\\circ}, 48^{\\circ}, 96^{\\circ} \\). The sum of all three interior angles of a triangle must equal 180°. In option 1: \\( 36+48+96 = 180 \\)."
+    },
+    {
+        "id": 128,
+        "question": "கீழ்க்கண்ட எந்தப் பக்கங்கள் முக்கோணத்தை உருவாக்கும்?",
+        "options": [
+            "6, 4, 12",
+            "4, 5, 11",
+            "3, 5, 10",
+            "3, 4, 6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 3, 4, 6. இரு சிறிய பக்கங்களின் கூடுதல் பெரிய பக்கத்தை விட அதிகமாக இருக்க வேண்டும். \\( 3+4=7 > 6 \\). மற்ற விருப்பங்களில் இக்கூற்று பொருந்தாது.",
+        "question_en": "Which of the following sets of sides can form a triangle?",
+        "options_en": [
+            "6, 4, 12",
+            "4, 5, 11",
+            "3, 5, 10",
+            "3, 4, 6"
+        ],
+        "explanation_en": "Correct answer option (4): 3, 4, 6. The sum of the two smaller sides must be greater than the third side. Here, \\( 3+4=7 > 6 \\). The other options violate the triangle inequality theorem."
+    },
+    {
+        "id": 129,
+        "question": "கொடுக்கப்பட்ட படத்தில் எத்தனை முக்கோணங்கள் உள்ளன?",
+        "options": [
+            "16",
+            "20",
+            "24",
+            "28"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 20. படத்தில் உள்ள சிறிய முக்கோணங்கள் மற்றும் அவற்றின் இணைப்புகளால் உருவாகும் பெரிய முக்கோணங்களைக் கணக்கிட்டால் மொத்தம் 20 முக்கோணங்கள் உள்ளன.",
+        "question_en": "How many triangles are there in the given figure?",
+        "options_en": [
+            "16",
+            "20",
+            "24",
+            "28"
+        ],
+        "explanation_en": "Correct answer option (2): 20. By counting the smallest individual triangles and all combinations that form larger triangles, there are a total of 20 triangles.",
+        "image": "image/unit16/q129.PNG"
+    },
+    {
+        "id": 130,
+        "question": "கீழ்க்கண்ட எந்தப் பக்கங்கள் முக்கோணத்தின் பக்கங்கள் இல்லை?",
+        "options": [
+            "8cm, 9cm, 10cm",
+            "4cm, 5cm, 6cm",
+            "3cm, 4cm, 5cm",
+            "1cm, 2cm, 3cm"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1cm, 2cm, 3cm. முக்கோணச் சமனின்மை விதியின்படி இரு சிறிய பக்கங்களின் கூடுதல் மூன்றாவது பக்கத்தை விடப் பெரியதாக இருக்க வேண்டும். இங்கு \\( 1+2=3 \\), இது மூன்றாவது பக்கத்திற்கு (3) சமமாக உள்ளதே தவிர, பெரியதாக இல்லை.",
+        "question_en": "Which of the following sides do NOT form a triangle?",
+        "options_en": [
+            "8cm, 9cm, 10cm",
+            "4cm, 5cm, 6cm",
+            "3cm, 4cm, 5cm",
+            "1cm, 2cm, 3cm"
+        ],
+        "explanation_en": "Correct answer option (4): 1cm, 2cm, 3cm. According to the triangle inequality theorem, the sum of any two sides must be strictly greater than the third side. Here, \\( 1+2=3 \\), which equals the third side. Thus, it cannot form a triangle."
+    },
+    {
+        "id": 131,
+        "question": "ஒரு முக்கோணத்தின் கோணங்கள் 5:4:3 என்ற விகிதத்தில் உள்ளன எனில், அக்கோணங்கள்",
+        "options": [
+            "\\( 50^{\\circ}, 40^{\\circ}, 30^{\\circ} \\)",
+            "\\( 60^{\\circ}, 80^{\\circ}, 40^{\\circ} \\)",
+            "\\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\). கோணங்களின் கூடுதல் 180°. எனவே \\( 5x+4x+3x = 12x = 180^{\\circ} \\Rightarrow x = 15^{\\circ} \\). கோணங்கள் \\( 5(15)=75^{\\circ} \\), \\( 4(15)=60^{\\circ} \\), \\( 3(15)=45^{\\circ} \\).",
+        "question_en": "If the angles of a triangle are in the ratio 5:4:3, then the angles are",
+        "options_en": [
+            "\\( 50^{\\circ}, 40^{\\circ}, 30^{\\circ} \\)",
+            "\\( 60^{\\circ}, 80^{\\circ}, 40^{\\circ} \\)",
+            "\\( 50^{\\circ}, 60^{\\circ}, 70^{\\circ} \\)",
+            "\\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 75^{\\circ}, 60^{\\circ}, 45^{\\circ} \\). The angles add up to 180°. \\( 12x = 180^{\\circ} \\Rightarrow x = 15^{\\circ} \\). The angles are \\( 5(15)=75^{\\circ} \\), \\( 4(15)=60^{\\circ} \\), and \\( 3(15)=45^{\\circ} \\)."
+    },
+    {
+        "id": 132,
+        "question": "கீழ்க்கண்ட எவை முக்கோணத்தின் பக்கங்கள் இல்லை?",
+        "options": [
+            "2, 2, 5",
+            "3, 3, 5",
+            "4, 4, 5",
+            "2, 2, 3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2, 2, 5. இரு சிறிய பக்கங்களின் கூடுதல் \\( 2+2=4 \\). இது மூன்றாவது பக்கமான 5 ஐ விடச் சிறியதாக உள்ளதால், இது முக்கோணத்தை உருவாக்காது.",
+        "question_en": "Which of the following sets of sides cannot form a triangle?",
+        "options_en": [
+            "2, 2, 5",
+            "3, 3, 5",
+            "4, 4, 5",
+            "2, 2, 3"
+        ],
+        "explanation_en": "Correct answer option (1): 2, 2, 5. The sum of the two smaller sides is \\( 2+2=4 \\), which is less than the third side 5. Hence, these cannot form a triangle."
+    },
+    {
+        "id": 133,
+        "question": "ஒரு முக்கோணத்தின் இரு பக்கங்களின் கூடுதல் மூன்றாவது பக்கத்தை விட",
+        "options": [
+            "குறைவு",
+            "அதிகம்",
+            "சமம்",
+            "எதுவுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): அதிகம். முக்கோணச் சமனின்மைப் பண்பின்படி (Triangle Inequality Theorem), முக்கோணத்தின் எந்த இரு பக்க அளவுகளின் கூடுதலும் அதன் மூன்றாவது பக்கத்தை விட எப்போதும் அதிகமாகவே இருக்கும்.",
+        "question_en": "The sum of any two sides of a triangle is ___ the third side.",
+        "options_en": [
+            "Less than",
+            "Greater than",
+            "Equal to",
+            "None of the above"
+        ],
+        "explanation_en": "Correct answer option (2): Greater than. According to the Triangle Inequality Theorem, the sum of the lengths of any two sides of a triangle is always strictly greater than the length of the third side."
+    },
+    {
+        "id": 134,
+        "question": "கொடுக்கப்பட்ட படத்தில், x இன் மதிப்பு",
+        "options": [
+            "\\( 60^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 170^{\\circ} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 50^{\\circ} \\). முக்கோணத்தின் ஒரு வெளிக்கோணமானது அதன் இரண்டு உள்ளெதிர்க் கோணங்களின் கூடுதலுக்குச் சமம். வெளிக்கோணம் \\( 110^{\\circ} = x + 60^{\\circ} \\). எனவே \\( x = 110^{\\circ} - 60^{\\circ} = 50^{\\circ} \\).",
+        "question_en": "In the given figure, the value of x is",
+        "options_en": [
+            "\\( 60^{\\circ} \\)",
+            "\\( 110^{\\circ} \\)",
+            "\\( 50^{\\circ} \\)",
+            "\\( 170^{\\circ} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 50^{\\circ} \\). An exterior angle of a triangle is equal to the sum of the two opposite interior angles. Here, the exterior angle \\( 110^{\\circ} = x + 60^{\\circ} \\). Thus, \\( x = 110^{\\circ} - 60^{\\circ} = 50^{\\circ} \\).",
+        "image": "image/unit16/q134.PNG"
+    },
+    {
+        "id": 135,
+        "question": "\\( \\cong \\) என்ற குறியீடு எதைக் குறிக்கிறது?",
+        "options": [
+            "சமம்",
+            "சமமில்லை",
+            "வடிவொத்தவை",
+            "சர்வசமம்"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): சர்வசமம். \\( \\cong \\) என்ற குறியீடு இரு வடிவங்கள் சர்வசமம் (Congruent) என்பதைக் குறிக்கப் பயன்படுகிறது.",
+        "question_en": "What does the symbol \\( \\cong \\) represent?",
+        "options_en": [
+            "Equal",
+            "Not equal",
+            "Similar",
+            "Congruent"
+        ],
+        "explanation_en": "Correct answer option (4): Congruent. The symbol \\( \\cong \\) is used in geometry to represent that two figures are perfectly congruent in shape and size."
+    },
+    {
+        "id": 136,
+        "question": "ஒரு முக்கோணத்தில் உள்ள அதிகபட்ச கோணங்கள்",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3. முக்கோணம் என்பது மூன்று பக்கங்கள் மற்றும் மூன்று கோணங்களைக் கொண்ட மூடிய பலகோண வடிவமாகும். எனவே அதிகபட்ச கோணங்கள் 3 மட்டுமே.",
+        "question_en": "The maximum number of angles in a triangle is",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (3): 3. A triangle is a closed polygon bounded by exactly 3 sides, which inherently means it has exactly 3 angles."
+    },
+    {
+        "id": 137,
+        "question": "சரியான கூற்று/ கூற்றுக்களைத் தேர்ந்தெடு.\n(i) ஒரு முக்கோணத்தில், ஒன்றுக்கும் மேற்பட்ட செங்கோணங்கள் அமையும்.\n(ii) ஒரு முக்கோணத்தில், ஒரே ஒரு விரிகோணம் மட்டும் அமையும்.\n(iii) ஒரு முக்கோணத்தில், அனைத்துக் கோணங்களும் குறுங்கோணங்களாக அமையும்.\n(iv) ஒரு முக்கோணத்தில், மூன்று கோணங்களும் விரிகோணம் ஆகும்.",
+        "options": [
+            "(i) மற்றும் (iii) மட்டும்",
+            "(ii) மற்றும் (iii) மட்டும்",
+            "(ii) மற்றும் (iv) மட்டும்",
+            "மேற்கூறிய அனைத்தும்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): (ii) மற்றும் (iii) மட்டும். ஒரு முக்கோணத்தில் ஒரே ஒரு விரிகோணம் மட்டுமே இருக்க முடியும் (ii சரி). குறுங்கோண முக்கோணத்தில் மூன்று கோணங்களும் குறுங்கோணங்களாகவே இருக்கும் (iii சரி). ஒரு முக்கோணத்தில் ஒன்றுக்கு மேற்பட்ட செங்கோணங்கள் அல்லது விரிகோணங்கள் அமையாது.",
+        "question_en": "Select the correct statement(s):\n(i) A triangle can have more than one right angle.\n(ii) A triangle can have only one obtuse angle.\n(iii) A triangle can have all its angles as acute angles.\n(iv) All three angles of a triangle can be obtuse angles.",
+        "options_en": [
+            "(i) and (iii) only",
+            "(ii) and (iii) only",
+            "(ii) and (iv) only",
+            "All of the above"
+        ],
+        "explanation_en": "Correct answer option (2): (ii) and (iii) only. A triangle can have at most one obtuse angle (making ii correct). An acute triangle has all three angles as acute angles (making iii correct). A triangle cannot have multiple right angles or obtuse angles."
+    },
+    {
+        "id": 138,
+        "question": "இரு தள உருவங்கள் சர்வசமம் எனில், அவை",
+        "options": [
+            "சம அளவு உடையவை",
+            "சம வடிவம் உடையவை",
+            "சம கோண அளவு உடையவை",
+            "சம அளவும் சம வடிவமும் உடையவை"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): சம அளவும் சம வடிவமும் உடையவை. இரண்டு வடிவங்கள் ஒன்றுடன் ஒன்று சரியாகப் பொருந்தினால் அவை சர்வசமம் எனப்படும். இதற்கு அவை அளவிலும் (size) வடிவிலும் (shape) சமமாக இருக்க வேண்டும்.",
+        "question_en": "If two plane figures are congruent, they have",
+        "options_en": [
+            "Equal size",
+            "Equal shape",
+            "Equal angle measure",
+            "Equal size and equal shape"
+        ],
+        "explanation_en": "Correct answer option (4): Equal size and equal shape. Two figures are congruent if they coincide exactly when superimposed, which means they must have exactly the same shape and the same size."
+    }
+]

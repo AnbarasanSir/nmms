@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "question": "கீழ்க்கண்டவற்றுள் பழங்கால நகரங்கள் ________.",
+    "options": [
+      "ஹரப்பா மற்றும் மொகஞ்சதாரோ",
+      "டெல்லி மற்றும் ஹைதராபாத்",
+      "பம்பாய் மற்றும் கொல்கத்தா",
+      "மேற்கண்ட எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following are ancient towns?",
+    "options_en": [
+      "Harappa and Mohenjodaro",
+      "Delhi and Hyderabad",
+      "Bombay and Kolkata",
+      "None of the above"
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் பழங்கால நகரங்கள் ஹரப்பா மற்றும் மொகஞ்சதாரோ.",
+    "explanation_en": "Harappa and Mohenjodaro are ancient towns."
+  },
+  {
+    "id": 2,
+    "question": "\"கோட்டை நகரங்கள்” என்று அழைக்கப்படுபவை ________.",
+    "options": [
+      "சூரத் மற்றும் டாமன்",
+      "கொச்சின் மற்றும் திருவனந்தபுரம்",
+      "டெல்லி மற்றும் ஹைதராபாத்",
+      "கோவா மற்றும் பாண்டிச்சேரி"
+    ],
+    "correct": 2,
+    "question_en": "Which are known as \"Fort towns\"?",
+    "options_en": [
+      "Surat and Daman",
+      "Cochin and Thiruvananthapuram",
+      "Delhi and Hyderabad",
+      "Goa and Pondicherry"
+    ],
+    "explanation": "\"கோட்டை நகரங்கள்” என்று அழைக்கப்படுபவை டெல்லி மற்றும் ஹைதராபாத்.",
+    "explanation_en": "Delhi and Hyderabad"
+  },
+  {
+    "id": 3,
+    "question": "மும்பை, சென்னை மற்றும் கொல்கத்தா ஆகிய நகரங்களை மையமாகக் கொண்டிருந்த ஐரோப்பியர்கள் ________.",
+    "options": [
+      "பிரெஞ்சுக்காரர்கள்",
+      "போர்ச்சுகீசியர்கள்",
+      "டச்சுக்காரர்கள்",
+      "ஆங்கிலேயர்கள்"
+    ],
+    "correct": 3,
+    "question_en": "The Europeans who had their centers in Mumbai, Chennai, and Kolkata were ________.",
+    "options_en": [
+      "French",
+      "Portuguese",
+      "Dutch",
+      "British"
+    ],
+    "explanation": "மும்பை, சென்னை மற்றும் கொல்கத்தா ஆகிய நகரங்களை மையமாகக் கொண்டிருந்த ஐரோப்பியர்கள் ஆங்கிலேயர்கள்.",
+    "explanation_en": "The Europeans who had their centers in Mumbai, Chennai, and Kolkata were British."
+  },
+  {
+    "id": 4,
+    "question": "புகழ்பெற்ற உற்பத்தி நகரங்களாக விளங்கியவை ________.",
+    "options": [
+      "டாக்கா",
+      "முர்ஷிதாபாத்",
+      "சூரத்",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Famous manufacturing towns were ________.",
+    "options_en": [
+      "Dacca",
+      "Murshidabad",
+      "Surat",
+      "All of the above"
+    ],
+    "explanation": "புகழ்பெற்ற உற்பத்தி நகரங்களாக விளங்கியவை மேற்கண்ட அனைத்தும்.",
+    "explanation_en": "Famous manufacturing towns were All of the above."
+  },
+  {
+    "id": 5,
+    "question": "இந்தியாவில் இருப்புப்பாதை அறிமுகப்படுத்தப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1854",
+      "1853",
+      "1852",
+      "1856"
+    ],
+    "correct": 1,
+    "question_en": "The year railways were introduced in India was ________.",
+    "options_en": [
+      "1854",
+      "1853",
+      "1852",
+      "1856"
+    ],
+    "explanation": "இந்தியாவில் இருப்புப்பாதை அறிமுகப்படுத்தப்பட்ட ஆண்டு 1853.",
+    "explanation_en": "The year railways were introduced in India was 1853."
+  },
+  {
+    "id": 6,
+    "question": "19 ஆம் நூற்றாண்டின் பிற்பகுதியில் தொடங்கிய, நகரமயமாக்கலின் ஒரு புதிய நடைமுறை எது?",
+    "options": [
+      "நீராவிப் போக்குவரத்து அறிமுகம்",
+      "ரயில்வே கட்டுமானம்",
+      "சூயஸ் கால்வாய் திறப்பு",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following was a new trend of urbanization that began in the latter half of the 19th century?",
+    "options_en": [
+      "Introduction of steam navigation",
+      "Construction of railways",
+      "Opening of Suez Canal",
+      "All of the above"
+    ],
+    "explanation": "19 ஆம் நூற்றாண்டின் பிற்பகுதியில் தொடங்கிய, நகரமயமாக்கலின் ஒரு புதிய நடைமுறை மேற்கண்ட அனைத்தும் ஆகும்.",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 7,
+    "question": "புனித வில்லியம் கோட்டை கட்டப்பட்ட இடம் எது?",
+    "options": [
+      "மும்பை",
+      "சென்னை",
+      "கொல்கத்தா",
+      "கடலூர்"
+    ],
+    "correct": 2,
+    "question_en": "Where was Fort William built?",
+    "options_en": [
+      "Mumbai",
+      "Chennai",
+      "Kolkata",
+      "Cuddalore"
+    ],
+    "explanation": "புனித வில்லியம் கோட்டை கட்டப்பட்ட இடம் கொல்கத்தா ஆகும்.",
+    "explanation_en": "Kolkata"
+  },
+  {
+    "id": 8,
+    "question": "இராணுவக் குடியிருப்பு நகரங்களை ஆங்கிலேயர்கள் உருவாக்கிய பகுதி ________.",
+    "options": [
+      "சென்னை",
+      "கராச்சி",
+      "கான்பூர்",
+      "ஹைதராபாத்"
+    ],
+    "correct": 2,
+    "question_en": "The area where the British established cantonment towns was ________.",
+    "options_en": [
+      "Chennai",
+      "Karachi",
+      "Kanpur",
+      "Hyderabad"
+    ],
+    "explanation": "இராணுவக் குடியிருப்பு நகரங்களை ஆங்கிலேயர்கள் உருவாக்கிய பகுதி கான்பூர்.",
+    "explanation_en": "The area where the British established cantonment towns was Kanpur."
+  },
+  {
+    "id": 9,
+    "question": "முகலாயர்களின் பொழுதுபோக்கு மையமாக இருந்த இடம் ________.",
+    "options": [
+      "ஸ்ரீநகர்",
+      "சிம்லா",
+      "உதகமண்டலம்",
+      "கேதார்நாத்"
+    ],
+    "correct": 0,
+    "question_en": "The place that served as a recreation center for the Mughals was ________.",
+    "options_en": [
+      "Srinagar",
+      "Shimla",
+      "Ootacamund",
+      "Kedarnath"
+    ],
+    "explanation": "முகலாயர்களின் பொழுதுபோக்கு மையமாக இருந்த இடம் ஸ்ரீநகர்.",
+    "explanation_en": "The place that served as a recreation center for the Mughals was Srinagar."
+  },
+  {
+    "id": 10,
+    "question": "ஐரோப்பியர்கள், யாருடன் நடைபெற்ற போரில் வெற்றி பெற்று, சிம்லா என்ற நகரத்தை உருவாக்கினர்?",
+    "options": [
+      "முகலாயர்களுடன்",
+      "கூர்க்கர்களுடன்",
+      "சிக்கிம் ஆட்சியாளர்களுடன்",
+      "மேற்கண்டவற்றில் எவருமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "After winning a war against whom did the Europeans establish the town of Shimla?",
+    "options_en": [
+      "Mughals",
+      "Gurkhas",
+      "Sikkim rulers",
+      "None of the above"
+    ],
+    "explanation": "கூர்க்கர்களுடன்",
+    "explanation_en": "Gurkhas"
+  },
+  {
+    "id": 11,
+    "question": "சிக்கிம் ஆட்சியாளரிடம் இருந்து 1835 இல் கைப்பற்றப்பட்ட மலைப்பிரதேசம் ________.",
+    "options": [
+      "சிம்லா",
+      "நைனிடால்",
+      "டார்ஜிலிங்",
+      "ஸ்ரீநகர்"
+    ],
+    "correct": 2,
+    "question_en": "The hill station annexed from the rulers of Sikkim in 1835 was ________.",
+    "options_en": [
+      "Shimla",
+      "Nainital",
+      "Darjeeling",
+      "Srinagar"
+    ],
+    "explanation": "சிக்கிம் ஆட்சியாளரிடம் இருந்து 1835 இல் கைப்பற்றப்பட்ட மலைப்பிரதேசம் டார்ஜிலிங்.",
+    "explanation_en": "The hill station annexed from the rulers of Sikkim in 1835 was Darjeeling."
+  },
+  {
+    "id": 12,
+    "question": "இந்தியாவில் நகராட்சி அரசாங்கம் முதன் முதலில் உருவான நகரம் ________.",
+    "options": [
+      "மும்பை",
+      "டெல்லி",
+      "கொல்கத்தா",
+      "சென்னை"
+    ],
+    "correct": 3,
+    "question_en": "The first city in India to have a municipal government was ________.",
+    "options_en": [
+      "Mumbai",
+      "Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "explanation": "இந்தியாவில் நகராட்சி அரசாங்கம் முதன் முதலில் உருவான நகரம் சென்னை.",
+    "explanation_en": "The first city in India to have a municipal government was Chennai."
+  },
+  {
+    "id": 13,
+    "question": "மாநகராட்சி உருவாவதற்குக் காரணமாக இருந்தவர் யார்?",
+    "options": [
+      "டல்ஹௌசி பிரபு",
+      "மெக்காலே",
+      "சர் ஜோசியா சைல்டு",
+      "மேற்கண்ட அனைவரும்"
+    ],
+    "correct": 2,
+    "question_en": "Who was responsible for the formation of the Municipal Corporation?",
+    "options_en": [
+      "Lord Dalhousie",
+      "Macaulay",
+      "Sir Josiah Child",
+      "All of the above"
+    ],
+    "explanation": "மாநகராட்சி உருவாவதற்குக் காரணமாக இருந்தவர் சர் ஜோசியா சைல்டு.",
+    "explanation_en": "Sir Josiah Child was responsible for the formation of the Municipal Corporation."
+  },
+  {
+    "id": 14,
+    "question": "எந்த ஆண்டு பட்டயச் சட்டம் நகராட்சி நிர்வாகத்தை நிறுவியது?",
+    "options": [
+      "1793",
+      "1850",
+      "1870",
+      "1688"
+    ],
+    "correct": 0,
+    "question_en": "Which year's Charter Act established municipal administration?",
+    "options_en": [
+      "1793",
+      "1850",
+      "1870",
+      "1688"
+    ],
+    "explanation": "1793",
+    "explanation_en": "1793"
+  },
+  {
+    "id": 15,
+    "question": "உள்ளாட்சி அமைப்பின் தந்தை என அழைக்கப்பட்டவர் ________.",
+    "options": [
+      "கானிங் பிரபு",
+      "கர்சன் பிரபு",
+      "ரிப்பன் பிரபு",
+      "மேயோ பிரபு"
+    ],
+    "correct": 2,
+    "question_en": "Who is known as the father of local self-government?",
+    "options_en": [
+      "Lord Canning",
+      "Lord Curzon",
+      "Lord Ripon",
+      "Lord Mayo"
+    ],
+    "explanation": "உள்ளாட்சி அமைப்பின் தந்தை என அழைக்கப்பட்டவர் ரிப்பன் பிரபு.",
+    "explanation_en": "Lord Ripon is known as the father of local self-government."
+  },
+  {
+    "id": 16,
+    "question": "மாகாணங்களில் இரட்டை ஆட்சிச் சட்டம், எந்த ஆண்டு இந்திய அரசு அறிவித்தது?",
+    "options": [
+      "1947",
+      "1935",
+      "1925",
+      "1919"
+    ],
+    "correct": 3,
+    "question_en": "In which year did the Government of India introduce the system of Dyarchy in the provinces?",
+    "options_en": [
+      "1947",
+      "1935",
+      "1925",
+      "1919"
+    ],
+    "explanation": "1919",
+    "explanation_en": "1919"
+  },
+  {
+    "id": 17,
+    "question": "புனித ஜார்ஜ் குடியிருப்பு உருவாவதற்குக் காரணமாக இருந்தவர்கள் ________.",
+    "options": [
+      "பிரான்சிஸ் டே",
+      "ஆண்ட்ரூ கோகன்",
+      "பெரி திம்மப்பா",
+      "மேற்கண்ட அனைவரும்"
+    ],
+    "correct": 3,
+    "question_en": "Those responsible for the formation of the Fort St. George settlement were ________.",
+    "options_en": [
+      "Francis Day",
+      "Andrew Cogan",
+      "Beri Thimmappa",
+      "All of the above"
+    ],
+    "explanation": "புனித ஜார்ஜ் குடியிருப்பு உருவாவதற்குக் காரணமாக இருந்தவர்கள் மேற்கண்ட அனைவரும்.",
+    "explanation_en": "Those responsible for the formation of the Fort St. George settlement were All of the above."
+  },
+  {
+    "id": 18,
+    "question": "வெள்ளை நகரம் என்று அழைக்கப்பட்ட பகுதி ________.",
+    "options": [
+      "சர் வில்லியம் கோட்டைப் பகுதி",
+      "புனித ஜார்ஜ் கோட்டைப் பகுதி",
+      "கோல்கொண்டா கோட்டை",
+      "வேலூர் கோட்டைப் பகுதி"
+    ],
+    "correct": 1,
+    "question_en": "The area called White Town was ________.",
+    "options_en": [
+      "Fort William area",
+      "Fort St. George area",
+      "Golconda Fort",
+      "Vellore Fort area"
+    ],
+    "explanation": "வெள்ளை நகரம் என்று அழைக்கப்பட்ட பகுதி புனித ஜார்ஜ் கோட்டைப் பகுதி.",
+    "explanation_en": "The area called White Town was Fort St. George area."
+  },
+  {
+    "id": 19,
+    "question": "கீழ்க்கண்ட நகரங்களில் எந்த நகரம் கருப்பு மற்றும் வெள்ளை நகரம் என்று அழைக்கப்படுகிறது?",
+    "options": [
+      "மும்பை",
+      "மதராஸ்",
+      "கொல்கத்தா",
+      "டெல்லி"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following cities is known as Black and White Town?",
+    "options_en": [
+      "Mumbai",
+      "Madras",
+      "Kolkata",
+      "Delhi"
+    ],
+    "explanation": "மதராஸ்",
+    "explanation_en": "Madras"
+  },
+  {
+    "id": 20,
+    "question": "தமர்லா வெங்கடபதி எந்த பட்டணத்தை மானியமாக வழங்கினார்?",
+    "options": [
+      "மசூலிப்பட்டிணம்",
+      "காயல்பட்டினம்",
+      "மதராசபட்டினம்",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Which town was granted as a lease by Damarla Venkatapathy?",
+    "options_en": [
+      "Masulipatnam",
+      "Kayalpatnam",
+      "Madrasapatnam",
+      "All of the above"
+    ],
+    "explanation": "மதராசபட்டினம்",
+    "explanation_en": "Madrasapatnam"
+  },
+  {
+    "id": 21,
+    "question": "புனித ஜார்ஜ் தினம் ________.",
+    "options": [
+      "ஏப்ரல் 23, 1640",
+      "ஏப்ரல் 24, 1640",
+      "ஏப்ரல் 23, 1641",
+      "ஏப்ரல் 24, 1641"
+    ],
+    "correct": 0,
+    "question_en": "St. George's Day is ________.",
+    "options_en": [
+      "April 23, 1640",
+      "April 24, 1640",
+      "April 23, 1641",
+      "April 24, 1641"
+    ],
+    "explanation": "புனித ஜார்ஜ் தினம் ஏப்ரல் 23, 1640.",
+    "explanation_en": "St. George's Day is April 23, 1640."
+  },
+  {
+    "id": 22,
+    "question": "தமிழக அரசின் தலைமையகமாக இருக்கும் இடம் ________.",
+    "options": [
+      "புனித வில்லியம் கோட்டை",
+      "புனித ஜார்ஜ் கோட்டை",
+      "ரிப்பன் மாளிகை",
+      "மேற்கண்டவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "The seat of the Government of Tamil Nadu is located at ________.",
+    "options_en": [
+      "Fort William",
+      "Fort St. George",
+      "Ripon Building",
+      "None of the above"
+    ],
+    "explanation": "தமிழக அரசின் தலைமையகமாக இருக்கும் இடம் புனித ஜார்ஜ் கோட்டை.",
+    "explanation_en": "The seat of the Government of Tamil Nadu is located at Fort St. George."
+  },
+  {
+    "id": 23,
+    "question": "யாருடைய வருகை, நகரங்களின் வளர்ச்சியில் புதிய மாற்றங்களைக் கொண்டு வந்தது?",
+    "options": [
+      "ஐரோப்பியர்கள்",
+      "சீனர்கள்",
+      "முகலாயர்கள்",
+      "அரேபியர்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Whose arrival brought new changes in the development of towns?",
+    "options_en": [
+      "Europeans",
+      "Chinese",
+      "Mughals",
+      "Arabs"
+    ],
+    "explanation": "ஐரோப்பியர்கள்",
+    "explanation_en": "Europeans"
+  },
+  {
+    "id": 24,
+    "question": "ஆங்கிலேயரின் நிருவாக தலைநகரங்களாகவும், வணிக மையங்களாகவும் இருந்த நகரங்கள் எவை?",
+    "options": [
+      "மும்பை",
+      "சென்னை",
+      "கொல்கத்தா",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which cities served as the administrative capitals and commercial centers of the British?",
+    "options_en": [
+      "Mumbai",
+      "Chennai",
+      "Kolkata",
+      "All of these"
+    ],
+    "explanation": "ஆங்கிலேயரின் நிருவாக தலைநகரங்களாகவும், வணிக மையங்களாகவும் இருந்த நகரங்கள் இவை அனைத்தும் ஆகும்.",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 25,
+    "question": "ஆங்கிலேயரின் ஆட்சியில் நகரமயமாக்கலின் தனித்துவங்கள் எவை?",
+    "options": [
+      "தொழில் முடக்கப்படுதல்",
+      "நகரமயமாதல்",
+      "புதிய நகர மையங்களின் வளர்ச்சி",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What were the unique features of urbanization during the British rule?",
+    "options_en": [
+      "De-industrialization",
+      "De-urbanization",
+      "Growth of new urban centers",
+      "All of the above"
+    ],
+    "explanation": "ஆங்கிலேயரின் ஆட்சியில் நகரமயமாக்கலின் தனித்துவங்கள் அனைத்தும் ஆகும்.",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 26,
+    "question": "கி.பி. _______ ஆம் நூற்றாண்டின் தொடக்கத்தில் ஆங்கிலேயர்களின் கொள்கைகள் நகரமயமாக்கலுக்கு எதிராக இருந்தது நிரூபணமானது.",
+    "options": [
+      "19",
+      "18",
+      "17",
+      "16"
+    ],
+    "correct": 1,
+    "question_en": "It was proved that the policies of the British were against urbanization in the early _______ century AD.",
+    "options_en": [
+      "19th",
+      "18th",
+      "17th",
+      "16th"
+    ],
+    "explanation": "கி.பி. 18 ஆம் நூற்றாண்டின் தொடக்கத்தில் ஆங்கிலேயர்களின் கொள்கைகள் நகரமயமாக்கலுக்கு எதிராக இருந்தது நிரூபணமானது.",
+    "explanation_en": "It was proved that the policies of the British were against urbanization in the early 18th century AD."
+  },
+  {
+    "id": 27,
+    "question": "பிளாசிப் போர் நடைபெற்ற ஆண்டு ________.",
+    "options": [
+      "1857",
+      "1757",
+      "1747",
+      "1758"
+    ],
+    "correct": 1,
+    "question_en": "The year the Battle of Plassey took place was ________.",
+    "options_en": [
+      "1857",
+      "1757",
+      "1747",
+      "1758"
+    ],
+    "explanation": "பிளாசிப் போர் நடைபெற்ற ஆண்டு 1757.",
+    "explanation_en": "The year the Battle of Plassey took place was 1757."
+  },
+  {
+    "id": 28,
+    "question": "பொருத்துக. நகரங்கள் - உருவாக்கப்பட்ட ஆண்டுகள்\na) மதராஸ் - i. 1661\nb) பம்பாய் - ii. 1690\nc) கொல்கத்தா - iii. 1639",
+    "options": [
+      "a) – ii, b) – iii, c) – i",
+      "a) – ii, b) – i, c) - iii",
+      "a) – iii, b) – i, c) – ii",
+      "a) – iii, b) – ii, c) - i"
+    ],
+    "correct": 2,
+    "question_en": "Match. Cities - Years formed\na) Madras - i. 1661\nb) Bombay - ii. 1690\nc) Kolkata - iii. 1639",
+    "options_en": [
+      "a) – ii, b) – iii, c) – i",
+      "a) – ii, b) – i, c) - iii",
+      "a) – iii, b) – i, c) – ii",
+      "a) – iii, b) – ii, c) - i"
+    ],
+    "explanation": "a) – iii, b) – i, c) – ii",
+    "explanation_en": "a) – iii, b) – i, c) – ii"
+  },
+  {
+    "id": 29,
+    "question": "நிருவாக நோக்கத்திற்காகக் காலனித்துவ இந்தியா எத்தனை மாகாணங்களாகப் பிரிக்கப்பட்டது?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "question_en": "For administrative purposes, colonial India was divided into how many presidencies?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "3",
+    "explanation_en": "For administrative purposes, colonial India was divided into 3 presidencies."
+  },
+  {
+    "id": 30,
+    "question": "இந்து சமய மையங்களாக இருந்த நகரம் / நகரங்கள் எது / எவை?",
+    "options": [
+      "கேதார்நாத்",
+      "பத்ரிநாத்",
+      "(1) மற்றும் (2)",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following was/were Hindu religious centers?",
+    "options_en": [
+      "Kedarnath",
+      "Badrinath",
+      "Both (1) and (2)",
+      "None"
+    ],
+    "explanation": "இந்து சமய மையங்களாக இருந்த நகரம் / நகரங்கள் எது / (1) மற்றும் (2) ஆகும்.",
+    "explanation_en": "Both (1) and (2)"
+  },
+  {
+    "id": 31,
+    "question": "_______ உடன் நடைபெற்ற போரின் போது சிம்லா நிறுவப்பட்டது.",
+    "options": [
+      "கூர்க்கர்கள்",
+      "சீனர்கள்",
+      "அரேபியர்கள்",
+      "ஹூணர்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Shimla was founded during the war with ________.",
+    "options_en": [
+      "Gurkhas",
+      "Chinese",
+      "Arabs",
+      "Huns"
+    ],
+    "explanation": "கூர்க்கர்கள் உடன் நடைபெற்ற போரின் போது சிம்லா நிறுவப்பட்டது.",
+    "explanation_en": "Shimla was founded during the war with Gurkhas."
+  },
+  {
+    "id": 32,
+    "question": "கூர்க்கர்களுடன் நடைபெற்ற போரின் காலம் ________.",
+    "options": [
+      "கி.பி 1812 - 1818",
+      "கி.பி 1816 – 1822",
+      "கி.பி 1814 - 1816",
+      "கி.பி 1822 - 1826"
+    ],
+    "correct": 2,
+    "question_en": "The period of the Gurkha war was ________.",
+    "options_en": [
+      "1812 - 1818 AD",
+      "1816 – 1822 AD",
+      "1814 - 1816 AD",
+      "1822 - 1826 AD"
+    ],
+    "explanation": "கூர்க்கர்களுடன் நடைபெற்ற போரின் காலம் கி.பி 1814 - 1816.",
+    "explanation_en": "The period of the Gurkha war was 1814 - 1816 AD."
+  },
+  {
+    "id": 33,
+    "question": "படைவீரர்கள் ஓய்வெடுக்கவும், நோய்களிலிருந்து மீள்வதற்கான இடமாகவும் இருந்தது எது?",
+    "options": [
+      "உதகமண்டலம்",
+      "நைனிடால்",
+      "சிம்லா",
+      "டார்ஜிலிங்"
+    ],
+    "correct": 3,
+    "question_en": "Which place served as a resting place and sanatorium for soldiers?",
+    "options_en": [
+      "Ootacamund",
+      "Nainital",
+      "Shimla",
+      "Darjeeling"
+    ],
+    "explanation": "படைவீரர்கள் ஓய்வெடுக்கவும், நோய்களிலிருந்து மீள்வதற்கான இடமாகவும் இருந்தது டார்ஜிலிங் ஆகும்.",
+    "explanation_en": "Darjeeling"
+  },
+  {
+    "id": 34,
+    "question": "மதராஸ் மாநகராட்சி எப்போது உருவாக்கப்பட்டது?",
+    "options": [
+      "கி.பி. 1688",
+      "கி.பி. 1676",
+      "கி.பி. 1674",
+      "கி.பி. 1671"
+    ],
+    "correct": 0,
+    "question_en": "When was the Madras Municipal Corporation formed?",
+    "options_en": [
+      "1688 AD",
+      "1676 AD",
+      "1674 AD",
+      "1671 AD"
+    ],
+    "explanation": "கி.பி. 1688",
+    "explanation_en": "1688 AD was the Madras Municipal Corporation formed."
+  },
+  {
+    "id": 35,
+    "question": "அயோத்தி மற்றும் பம்பாய் நகராட்சிகள் எந்த ஆண்டுச் சட்டப்படி அமைக்கப்பட்டன?",
+    "options": [
+      "கி.பி. 1870",
+      "கி.பி. 1798",
+      "கி.பி. 1789",
+      "கி.பி. 1850"
+    ],
+    "correct": 3,
+    "question_en": "Under which year's act were the Oudh and Bombay municipalities established?",
+    "options_en": [
+      "1870 AD",
+      "1798 AD",
+      "1789 AD",
+      "1850 AD"
+    ],
+    "explanation": "கி.பி. 1850",
+    "explanation_en": "1850 AD"
+  },
+  {
+    "id": 36,
+    "question": "மேயோ பிரபுவின் ________ ஆம் ஆண்டின் புகழ்பெற்ற தீர்மானம், உள்ளாட்சி அரசாங்கத்தின் வளர்ச்சிக்கான வாய்ப்புகளை வழங்குவதை நோக்கமாகக் கொண்டிருந்தது.",
+    "options": [
+      "கி.பி. 1870",
+      "கி.பி. 1789",
+      "கி.பி. 1850",
+      "கி.பி. 1845"
+    ],
+    "correct": 0,
+    "question_en": "Lord Mayo's famous resolution of ________ aimed to provide opportunities for the development of local self-government.",
+    "options_en": [
+      "1870 AD",
+      "1789 AD",
+      "1850 AD",
+      "1845 AD"
+    ],
+    "explanation": "மேயோ பிரபுவின் கி.பி. 1870 ஆம் ஆண்டின் புகழ்பெற்ற தீர்மானம், உள்ளாட்சி அரசாங்கத்தின் வளர்ச்சிக்கான வாய்ப்புகளை வழங்குவதை நோக்கமாகக் கொண்டிருந்தது.",
+    "explanation_en": "Lord Mayo's famous resolution of 1870 AD aimed to provide opportunities for the development of local self-government."
+  },
+  {
+    "id": 37,
+    "question": "யாருடைய தீர்மானம் \"உள்ளாட்சி அரசாங்கத்தின் மகாசாசனம்\" என்று அழைக்கப்படுகிறது?",
+    "options": [
+      "வில்லியம் பெண்டிங்",
+      "திப்பு சுல்தான்",
+      "கர்சன் பிரபு",
+      "ரிப்பன் பிரபு"
+    ],
+    "correct": 3,
+    "question_en": "Whose resolution is known as the \"Magna Carta of local self-government\"?",
+    "options_en": [
+      "William Bentinck",
+      "Tipu Sultan",
+      "Lord Curzon",
+      "Lord Ripon"
+    ],
+    "explanation": "ரிப்பன் பிரபு",
+    "explanation_en": "Lord Ripon"
+  },
+  {
+    "id": 38,
+    "question": "மாகாண சுயாட்சியை இந்திய அரசுச் சட்டம் அறிமுகப்படுத்திய ஆண்டு ________.",
+    "options": [
+      "கி.பி. 1919",
+      "கி.பி. 1935",
+      "கி.பி. 1939",
+      "கி.பி. 1941"
+    ],
+    "correct": 1,
+    "question_en": "The year the Government of India Act introduced Provincial Autonomy was ________.",
+    "options_en": [
+      "1919 AD",
+      "1935 AD",
+      "1939 AD",
+      "1941 AD"
+    ],
+    "explanation": "மாகாண சுயாட்சியை இந்திய அரசுச் சட்டம் அறிமுகப்படுத்திய ஆண்டு கி.பி. 1935.",
+    "explanation_en": "The year the Government of India Act introduced Provincial Autonomy was 1935 AD."
+  },
+  {
+    "id": 39,
+    "question": "ஆங்கிலேயக் கிழக்கிந்திய வணிகக்குழு தொடங்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "கி.பி. 1600",
+      "கி.பி. 1670",
+      "கி.பி. 1780",
+      "கி.பி. 1678"
+    ],
+    "correct": 0,
+    "question_en": "The year the English East India Company was founded was ________.",
+    "options_en": [
+      "1600 AD",
+      "1670 AD",
+      "1780 AD",
+      "1678 AD"
+    ],
+    "explanation": "ஆங்கிலேயக் கிழக்கிந்திய வணிகக்குழு தொடங்கப்பட்ட ஆண்டு கி.பி. 1600.",
+    "explanation_en": "The year the English East India Company was founded was 1600 AD."
+  },
+  {
+    "id": 40,
+    "question": "சந்திரகிரி அரசரின் பிரதிநிதி ________.",
+    "options": [
+      "தமர்லா வெங்கடபதி",
+      "திர்மாரி வெங்கடபதி",
+      "அருணாச்சல ரெட்டி",
+      "சாவித்ரி ரெட்டி"
+    ],
+    "correct": 0,
+    "question_en": "The representative of the Chandragiri king was ________.",
+    "options_en": [
+      "Damarla Venkatapathy",
+      "Thirmari Venkatapathy",
+      "Arunachala Reddy",
+      "Savithri Reddy"
+    ],
+    "explanation": "சந்திரகிரி அரசரின் பிரதிநிதி தமர்லா வெங்கடபதி.",
+    "explanation_en": "The representative of the Chandragiri king was Damarla Venkatapathy."
+  },
+  {
+    "id": 41,
+    "question": "டல்ஹௌசி சதுக்கம் உள்ள இடம் ________.",
+    "options": [
+      "கொல்கத்தா",
+      "குஜராத்",
+      "பீகார்",
+      "டெல்லி"
+    ],
+    "correct": 0,
+    "question_en": "The place where Dalhousie Square is located is ________.",
+    "options_en": [
+      "Kolkata",
+      "Gujarat",
+      "Bihar",
+      "Delhi"
+    ],
+    "explanation": "டல்ஹௌசி சதுக்கம் உள்ள இடம் கொல்கத்தா.",
+    "explanation_en": "The place where Dalhousie Square is located is Kolkata."
+  },
+  {
+    "id": 42,
+    "question": "மாநில மறுசீரமைப்புச் சட்டம் கொண்டு வரப்பட்ட ஆண்டு ________.",
+    "options": [
+      "கி.பி. 1957",
+      "கி.பி. 1956",
+      "கி.பி. 1961",
+      "கி.பி. 1959"
+    ],
+    "correct": 1,
+    "question_en": "The year the States Reorganisation Act was enacted was ________.",
+    "options_en": [
+      "1957 AD",
+      "1956 AD",
+      "1961 AD",
+      "1959 AD"
+    ],
+    "explanation": "மாநில மறுசீரமைப்புச் சட்டம் கொண்டு வரப்பட்ட ஆண்டு கி.பி. 1956.",
+    "explanation_en": "The year the States Reorganisation Act was enacted was 1956 AD."
+  },
+  {
+    "id": 43,
+    "question": "மதராஸ் மாநிலம், தமிழ்நாடு எனப் பெயர் மாற்றம் செய்யப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1978",
+      "1971",
+      "1969",
+      "1967"
+    ],
+    "correct": 2,
+    "question_en": "The year Madras State was renamed as Tamil Nadu was ________.",
+    "options_en": [
+      "1978",
+      "1971",
+      "1969",
+      "1967"
+    ],
+    "explanation": "மதராஸ் மாநிலம், தமிழ்நாடு எனப் பெயர் மாற்றம் செய்யப்பட்ட ஆண்டு 1969.",
+    "explanation_en": "The year Madras State was renamed as Tamil Nadu was 1969."
+  },
+  {
+    "id": 44,
+    "question": "மதராஸ், சென்னை எனப் பெயர் மாற்றம் செய்யப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1996 ஜூலை 17",
+      "1997 மார்ச் 22",
+      "1996 செப்டம்பர் 1",
+      "1999 அக்டோபர் 3"
+    ],
+    "correct": 0,
+    "question_en": "The year Madras was renamed as Chennai was ________.",
+    "options_en": [
+      "1996 July 17",
+      "1997 March 22",
+      "1996 September 1",
+      "1999 October 3"
+    ],
+    "explanation": "மதராஸ், சென்னை எனப் பெயர் மாற்றம் செய்யப்பட்ட ஆண்டு 1996 ஜூலை 17.",
+    "explanation_en": "The year Madras was renamed as Chennai was 1996 July 17."
+  },
+  {
+    "id": 45,
+    "question": "பம்பாய் எத்தனை தீவுகளைக் கொண்டது?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "question_en": "How many islands did Bombay consist of?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "7",
+    "explanation_en": "7 islands did Bombay consist of."
+  },
+  {
+    "id": 46,
+    "question": "ஆங்கிலேயக் கிழக்கிந்திய நிறுவனம், அதன் தலைமையகத்தைச் சூரத்திலிருந்து பம்பாய்க்கு மாற்றிய ஆண்டு ________.",
+    "options": [
+      "கி.பி. 1687",
+      "கி.பி. 1688",
+      "கி.பி. 1676",
+      "கி.பி. 1671"
+    ],
+    "correct": 0,
+    "question_en": "The year the English East India Company shifted its headquarters from Surat to Bombay was ________.",
+    "options_en": [
+      "1687 AD",
+      "1688 AD",
+      "1676 AD",
+      "1671 AD"
+    ],
+    "explanation": "ஆங்கிலேயக் கிழக்கிந்திய நிறுவனம், அதன் தலைமையகத்தைச் சூரத்திலிருந்து பம்பாய்க்கு மாற்றிய ஆண்டு கி.பி. 1687.",
+    "explanation_en": "The year the English East India Company shifted its headquarters from Surat to Bombay was 1687 AD."
+  },
+  {
+    "id": 47,
+    "question": "சரியான கூற்றைத் தேர்வு செய்க.\nகூற்று: இந்தியா, பிரிட்டனின் வேளாண்மைக் குடியேற்றமாக மாறியது.\nகாரணம்: பிரிட்டனின் ஒரு வழியிலான சுதந்திரமான வர்த்தகக் கொள்கை மற்றும் தொழிற்துறை புரட்சி, இந்திய உள்நாட்டு தொழில்களை அழித்தன.",
+    "options": [
+      "கூற்று சரி மற்றும் காரணம் தவறு",
+      "கூற்று தவறு மற்றும் காரணம் சரி",
+      "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்குகிறது",
+      "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்கவில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement.\nAssertion: India became an agricultural colony of Britain.\nReason: Britain's one-way free trade policy and industrial revolution destroyed Indian indigenous industries.",
+    "options_en": [
+      "Assertion is true and Reason is false",
+      "Assertion is false and Reason is true",
+      "Assertion is true and Reason explains the Assertion",
+      "Assertion is true but Reason does not explain the Assertion"
+    ],
+    "explanation": "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்குகிறது",
+    "explanation_en": "Assertion is true and Reason explains the Assertion"
+  },
+  {
+    "id": 48,
+    "question": "ஆங்கிலேயர்களால் உருவாக்கப்பட்ட கடலோர நகரம் / நகரங்கள்",
+    "options": [
+      "சூரத்",
+      "கோவா",
+      "பம்பாய்",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Coastal town(s) developed by the British was/were",
+    "options_en": [
+      "Surat",
+      "Goa",
+      "Bombay",
+      "All of the above"
+    ],
+    "explanation": "மேற்கண்ட அனைத்தும்",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 49,
+    "question": "19 ஆம் நூற்றாண்டின் பிற்பகுதியில் தொடங்கிய நகரமயமாக்கலின் ஒரு புதிய நடைமுறை அல்லாதது எது?",
+    "options": [
+      "சூயஸ் கால்வாய் திறப்பு",
+      "நீராவிப் போக்குவரத்து அறிமுகம்",
+      "ரயில்வே கட்டுமானம்",
+      "மேற்கண்ட எதுவுமில்லை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following was NOT a new trend of urbanization that began in the later half of the 19th century?",
+    "options_en": [
+      "Opening of Suez Canal",
+      "Introduction of steam navigation",
+      "Construction of railways",
+      "None of the above"
+    ],
+    "explanation": "19 ஆம் நூற்றாண்டின் பிற்பகுதியில் தொடங்கிய நகரமயமாக்கலின் ஒரு புதிய நடைமுறை அல்லாதது மேற்கண்ட எதுவுமில்லை ஆகும்.",
+    "explanation_en": "None of the above"
+  },
+  {
+    "id": 50,
+    "question": "ஆங்கிலேயர்கள் இந்தியாவுக்கு வருகை தந்தது ________.",
+    "options": [
+      "வர்த்தகத்திற்காக",
+      "தங்கள் சமயத்தைப் பரப்புவதற்காக",
+      "பணி புரிவதற்காக",
+      "ஆட்சி செய்வதற்காக"
+    ],
+    "correct": 2,
+    "question_en": "The British visited India ________.",
+    "options_en": [
+      "For trade",
+      "To spread their religion",
+      "For employment",
+      "To rule"
+    ],
+    "explanation": "ஆங்கிலேயர்கள் இந்தியாவுக்கு வருகை தந்தது பணி புரிவதற்காக.",
+    "explanation_en": "The British visited India For employment."
+  },
+  {
+    "id": 51,
+    "question": "புனிதஜார்ஜ் கோட்டை ஆங்கிலேயர்களால் கட்டப்பட்ட இடம் ________.",
+    "options": [
+      "பம்பாய்",
+      "கடலூர்",
+      "மதராஸ்",
+      "கல்கத்தா"
+    ],
+    "correct": 2,
+    "question_en": "Fort St. George was built by the British at ________.",
+    "options_en": [
+      "Bombay",
+      "Cuddalore",
+      "Madras",
+      "Calcutta"
+    ],
+    "explanation": "புனிதஜார்ஜ் கோட்டை ஆங்கிலேயர்களால் கட்டப்பட்ட இடம் மதராஸ்.",
+    "explanation_en": "Fort St. George was built by the British at Madras."
+  },
+  {
+    "id": 52,
+    "question": "பொருத்துக\ni. பம்பாய் - a) சமய மையம்\nii. இராணுவக் குடியிருப்புகள் - b) மலை வாழிடங்கள்\niii. டார்ஜிலிங் - c) ஏழு தீவு\niv. மதுரை – d) கான்பூர்",
+    "options": [
+      "i – a, ii – c, iii – d, iv – b",
+      "i – c, ii – d, iii – b, iv – a",
+      "i – d, ii – a, iii – b, iv – c",
+      "i – d, ii – b, iii – a, iv – c"
+    ],
+    "correct": 1,
+    "question_en": "Match\ni. Bombay - a) Religious center\nii. Cantonments - b) Hill stations\niii. Darjeeling - c) Seven islands\niv. Madurai - d) Kanpur",
+    "options_en": [
+      "i – a, ii – c, iii – d, iv – b",
+      "i – c, ii – d, iii – b, iv – a",
+      "i – d, ii – a, iii – b, iv – c",
+      "i – d, ii – b, iii – a, iv – c"
+    ],
+    "explanation": "i – c, ii – d, iii – b, iv – a",
+    "explanation_en": "i – c, ii – d, iii – b, iv – a"
+  },
+  {
+    "id": 53,
+    "question": "________ இல் பிரான்சிஸ் டே மற்றும் ஆண்ட்ரூ கோகன் ஆகியோர் மதராசப்பட்டினத்தில் ஒரு தொழிற்சாலை மற்றும் வர்த்தக நிறுவனத்தை நிறுவுவதற்கு அனுமதி பெற்றனர்.",
+    "options": [
+      "கி.பி. 1657",
+      "கி.பி. 1956",
+      "கி.பி. 1637",
+      "கி.பி. 1659"
+    ],
+    "correct": 2,
+    "question_en": "In ________, Francis Day and Andrew Cogan received permission to establish a factory and trading post at Madrasapatnam.",
+    "options_en": [
+      "1657 AD",
+      "1956 AD",
+      "1637 AD",
+      "1659 AD"
+    ],
+    "explanation": "கி.பி. 1637 இல் பிரான்சிஸ் டே மற்றும் ஆண்ட்ரூ கோகன் ஆகியோர் மதராசப்பட்டினத்தில் ஒரு தொழிற்சாலை மற்றும் வர்த்தக நிறுவனத்தை நிறுவுவதற்கு அனுமதி பெற்றனர்.",
+    "explanation_en": "In 1637 AD, Francis Day and Andrew Cogan received permission to establish a factory and trading post at Madrasapatnam."
+  },
+  {
+    "id": 54,
+    "question": "மாநகராட்சி உருவாவதற்குக் காரணமாக இருந்தவர் ________.",
+    "options": [
+      "பிரான்சிஸ் டே",
+      "ஆண்ட்ரூ கோகன்",
+      "பெரி திம்மப்பா",
+      "சர் ஜோசியா சைல்டு"
+    ],
+    "correct": 3,
+    "question_en": "Who was responsible for the formation of the municipal corporation?",
+    "options_en": [
+      "Francis Day",
+      "Andrew Cogan",
+      "Beri Thimmappa",
+      "Sir Josiah Child"
+    ],
+    "explanation": "மாநகராட்சி உருவாவதற்குக் காரணமாக இருந்தவர் சர் ஜோசியா சைல்டு.",
+    "explanation_en": "Sir Josiah Child was responsible for the formation of the municipal corporation."
+  },
+  {
+    "id": 55,
+    "question": "பின்வரும் எந்தஅறிக்கை / அறிக்கைகள் உண்மையற்றவை?\ni) ஸ்ரீரங்கராயலு ஆங்கிலேயர்களுக்கு மதராசப்பட்டினத்தை மானியமாக வழங்கினார்.\nii) பிரான்சிஸ் டே மற்றும் கோகன் ஆகிய இருவரும் புனித ஜார்ஜ் கோட்டை கட்டியதற்குப் பொறுப்பானவர்கள்.\niii) 1969 ஆம் ஆண்டில் மெட்ராஸ் மாநிலம் தமிழ்நாடு என பெயரிடப்பட்டது.",
+    "options": [
+      "i மட்டும்",
+      "i மற்றும் ii",
+      "ii மற்றும் iii",
+      "iii மட்டும்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statement(s) is/are incorrect?\ni) Srirangarayalu granted Madrasapatnam as a lease to the British.\nii) Francis Day and Cogan were both responsible for building Fort St. George.\niii) Madras state was renamed as Tamil Nadu in 1969.",
+    "options_en": [
+      "i only",
+      "i and ii",
+      "ii and iii",
+      "iii only"
+    ],
+    "explanation": "ii மற்றும் iii",
+    "explanation_en": "ii and iii"
+  },
+  {
+    "id": 56,
+    "question": "கூற்று: ஆங்கிலேயர்கள் தங்கள் மாற்றுத் தலைநகரங்களை மலைப்பாங்கான பகுதிகளில் அமைத்தனர்.\nகாரணம்: அவர்கள் இந்தியாவில் கோடைக்காலத்தில் வாழ்வது கடினம் என உணர்ந்தனர்.",
+    "options": [
+      "கூற்று சரி மற்றும் காரணம் தவறு.",
+      "கூற்று தவறு மற்றும் காரணம் சரி.",
+      "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்கவில்லை."
+    ],
+    "correct": 2,
+    "question_en": "Assertion: The British set up their alternative capitals in hilly areas.\nReason: They found it difficult to live in India during the summer.",
+    "options_en": [
+      "Assertion is true and Reason is false.",
+      "Assertion is false and Reason is true.",
+      "Assertion is true and Reason explains the Assertion.",
+      "Assertion is true but Reason does not explain the Assertion."
+    ],
+    "explanation": "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்குகிறது.",
+    "explanation_en": "Assertion is true and Reason explains the Assertion."
+  },
+  {
+    "id": 57,
+    "question": "பின்வருவனவற்றில் எது இந்தியாவின் பண்டைய நகரம் அல்ல?",
+    "options": [
+      "வாரணாசி",
+      "அலகாபாத்",
+      "மதுரை",
+      "டெல்லி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not an ancient city of India?",
+    "options_en": [
+      "Varanasi",
+      "Allahabad",
+      "Madurai",
+      "Delhi"
+    ],
+    "explanation": "டெல்லி",
+    "explanation_en": "Delhi is not an ancient city of India."
+  },
+  {
+    "id": 58,
+    "question": "இடைக்காலத்தில் எந்த நகரம், தலைமையகமாக உருவாக்கப்பட்டது?",
+    "options": [
+      "அலகாபாத்",
+      "மதுரை",
+      "டெல்லி",
+      "ஹரப்பா"
+    ],
+    "correct": 2,
+    "question_en": "Which city was developed as a headquarters during the medieval period?",
+    "options_en": [
+      "Allahabad",
+      "Madurai",
+      "Delhi",
+      "Harappa"
+    ],
+    "explanation": "டெல்லி",
+    "explanation_en": "Delhi"
+  },
+  {
+    "id": 59,
+    "question": "பின்வருவனவற்றில் நவீன கடற்கரை நகரம் எது?",
+    "options": [
+      "மும்பை",
+      "சூரத்",
+      "மதுரை",
+      "லக்னோ"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is a modern coastal city?",
+    "options_en": [
+      "Mumbai",
+      "Surat",
+      "Madurai",
+      "Lucknow"
+    ],
+    "explanation": "பின்வருவனவற்றில் நவீன கடற்கரை நகரம் மும்பை ஆகும்.",
+    "explanation_en": "Mumbai is a modern coastal city."
+  },
+  {
+    "id": 60,
+    "question": "வர்த்தகத்தில் முக்கியப் பங்கு வகித்தவை ______________ .",
+    "options": [
+      "பெருநகரங்கள்",
+      "நகரங்கள்",
+      "துறைமுகங்கள்",
+      "நகர்ப்புறங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "______________ played an important role in trade.",
+    "options_en": [
+      "Metropolises",
+      "Cities",
+      "Ports",
+      "Urban areas"
+    ],
+    "explanation": "வர்த்தகத்தில் முக்கியப் பங்கு வகித்தவை துறைமுகங்கள் .",
+    "explanation_en": "Ports played an important role in trade."
+  },
+  {
+    "id": 61,
+    "question": "டார்ஜிலிங்கின் மாற்றுத் தலைநகராக விளங்கியது எது?",
+    "options": [
+      "சிம்லா",
+      "டெல்லி",
+      "கொல்கத்தா",
+      "டேராடூன்"
+    ],
+    "correct": 2,
+    "question_en": "What served as the alternative capital to Darjeeling?",
+    "options_en": [
+      "Shimla",
+      "Delhi",
+      "Kolkata",
+      "Dehradun"
+    ],
+    "explanation": "டார்ஜிலிங்கின் மாற்றுத் தலைநகராக விளங்கியது கொல்கத்தா ஆகும்.",
+    "explanation_en": "Kolkata"
+  },
+  {
+    "id": 62,
+    "question": "டெல்லியின் மாற்றுத் தலைநகராக விளங்கியது எது?",
+    "options": [
+      "சிம்லா",
+      "டார்ஜிலிங்",
+      "கொல்கத்தா",
+      "டேராடூன்"
+    ],
+    "correct": 3,
+    "question_en": "What served as the alternative capital to Delhi?",
+    "options_en": [
+      "Shimla",
+      "Darjeeling",
+      "Kolkata",
+      "Dehradun"
+    ],
+    "explanation": "டெல்லியின் மாற்றுத் தலைநகராக விளங்கியது டேராடூன் ஆகும்.",
+    "explanation_en": "Dehradun"
+  },
+  {
+    "id": 63,
+    "question": "கீழ்க்கண்ட குழுவில், நவீன கால நகரம் எது?",
+    "options": [
+      "ஹைதராபாத்",
+      "நாக்பூர்",
+      "ஜெய்ப்பூர்",
+      "கொல்கத்தா"
+    ],
+    "correct": 3,
+    "question_en": "Among the following, which is a modern-day city?",
+    "options_en": [
+      "Hyderabad",
+      "Nagpur",
+      "Jaipur",
+      "Kolkata"
+    ],
+    "explanation": "கீழ்க்கண்ட குழுவில், நவீன கால நகரம் கொல்கத்தா ஆகும்.",
+    "explanation_en": "Among the following, Kolkata is a modern-day city."
+  },
+  {
+    "id": 64,
+    "question": "19 ஆம் நூற்றாண்டின் முதல் காலாண்டில் அழிக்கப்பட்ட, பேரரசின் தலைநகரமாக இருந்த நகரம் எது?",
+    "options": [
+      "ஆக்ரா",
+      "டெல்லி",
+      "சென்னை",
+      "கொல்கத்தா"
+    ],
+    "correct": 0,
+    "question_en": "Which city, once an imperial capital, was destroyed in the first quarter of the 19th century?",
+    "options_en": [
+      "Agra",
+      "Delhi",
+      "Chennai",
+      "Kolkata"
+    ],
+    "explanation": "19 ஆம் நூற்றாண்டின் முதல் காலாண்டில் அழிக்கப்பட்ட, பேரரசின் தலைநகரமாக இருந்த நகரம் ஆக்ரா ஆகும்.",
+    "explanation_en": "Agra"
+  },
+  {
+    "id": 65,
+    "question": "______________ போருக்குப் பின்னர் ஆங்கிலேயர்கள் படிப்படியாக அரசியல் ஆதிக்கம் பெற்றனர்.",
+    "options": [
+      "பக்சார்",
+      "மைசூர் போர்-III",
+      "கர்நாடகப் போர்",
+      "பிளாசி"
+    ],
+    "correct": 3,
+    "question_en": "After the Battle of ______________, the British gradually gained political dominance.",
+    "options_en": [
+      "Buxar",
+      "Mysore War III",
+      "Carnatic War",
+      "Plassey"
+    ],
+    "explanation": "பிளாசி போருக்குப் பின்னர் ஆங்கிலேயர்கள் படிப்படியாக அரசியல் ஆதிக்கம் பெற்றனர்.",
+    "explanation_en": "After the Battle of Plassey, the British gradually gained political dominance."
+  },
+  {
+    "id": 66,
+    "question": "இவற்றில் எவை உள்மாகாணங்களின் தலைநகராக விளங்கின?",
+    "options": [
+      "துறைமுக நகரங்கள்",
+      "இராணுவக் குடியிருப்புகள்",
+      "மலை வாழிடங்கள்",
+      "இரயில்வே நகரங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Which of these served as capitals of the inner provinces?",
+    "options_en": [
+      "Port cities",
+      "Cantonment towns",
+      "Hill stations",
+      "Railway towns"
+    ],
+    "explanation": "இராணுவக் குடியிருப்புகள்",
+    "explanation_en": "Cantonment towns"
+  },
+  {
+    "id": 67,
+    "question": "மதராஸ், பம்பாய், கொல்கத்தா போன்றவை __________________",
+    "options": [
+      "துறைமுக நகரங்கள்",
+      "இராணுவக் குடியிருப்புகள்",
+      "1 மற்றும் 4",
+      "இரயில்வே நகரங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Madras, Bombay, and Kolkata are __________________",
+    "options_en": [
+      "Port cities",
+      "Cantonment towns",
+      "1 and 4",
+      "Railway towns"
+    ],
+    "explanation": "மதராஸ், பம்பாய், கொல்கத்தா போன்றவை 1 மற்றும் 4",
+    "explanation_en": "Madras, Bombay, and Kolkata are 1 and 4"
+  },
+  {
+    "id": 68,
+    "question": "ஒரு நகர்ப்புறப் பகுதி என்பது.\ni. அதிக மக்கள் தொகை அடர்த்தியைப் பெற்றிருக்கும்.\nii. நன்கு கட்டமைக்கப்பட்ட சூழலில் வாழ்வது.\niii. முதல் நிலைத் தொழிலில் ஈடுபடும் மக்களைக் கொண்டிருக்கும்.\niv. உணவு உற்பத்தியல்லாத தொழில்களில் ஈடுபடும் மக்களைக் கொண்டிருக்கும்.",
+    "options": [
+      "i தவிர அனைத்தும்",
+      "iii தவிர அனைத்தும்",
+      "ii தவிர அனைத்தும்",
+      "iv தவிர அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "An urban area is one which:\ni. Has a high population density.\nii. Has people living in a well-built environment.\niii. Has people engaged in primary occupations.\niv. Has people engaged in non-food producing occupations.",
+    "options_en": [
+      "All except i",
+      "All except iii",
+      "All except ii",
+      "All except iv"
+    ],
+    "explanation": "iii தவிர அனைத்தும்",
+    "explanation_en": "All except iii"
+  },
+  {
+    "id": 69,
+    "question": "கிழக்குக் கடற்கரையில் தொழிற்சாலையைக் கட்டுவதற்கு, ஆங்கிலேயர்கள் அனுமதி பெற்ற முதல் இடம் __________________ .",
+    "options": [
+      "சென்னை",
+      "கொல்கத்தா",
+      "மசூலிப்பட்டினம்",
+      "தூத்துக்குடி"
+    ],
+    "correct": 2,
+    "question_en": "The first place where the British received permission to build a factory on the east coast was __________________ .",
+    "options_en": [
+      "Chennai",
+      "Kolkata",
+      "Masulipatnam",
+      "Thoothukudi"
+    ],
+    "explanation": "கிழக்குக் கடற்கரையில் தொழிற்சாலையைக் கட்டுவதற்கு, ஆங்கிலேயர்கள் அனுமதி பெற்ற முதல் இடம் மசூலிப்பட்டினம் .",
+    "explanation_en": "The first place where the British received permission to build a factory on the east coast was Masulipatnam ."
+  },
+  {
+    "id": 70,
+    "question": "கிழக்கிந்தியக் கம்பெனி தொடங்கிய எத்தனை ஆண்டுகளுக்குப் பின்னர் இந்தியாவில் தொழிற்சாலை அமைக்கப்பட்டது?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "12"
+    ],
+    "correct": 3,
+    "question_en": "How many years after the East India Company was formed, was a factory established in India?",
+    "options_en": [
+      "10",
+      "11",
+      "13",
+      "12"
+    ],
+    "explanation": "12",
+    "explanation_en": "12 years after the East India Company was formed, was a factory established in India."
+  },
+  {
+    "id": 71,
+    "question": "இவர்களில் சந்திரகிரியின் அரசராக இருந்தவர்/ இருந்தவர்கள்?",
+    "options": [
+      "தமர்லா வெங்கடபதி",
+      "வெங்கடபதி ராயலு",
+      "இவ்விருவரும்",
+      "இவர்களில் யாரும் இல்லை"
+    ],
+    "correct": 1,
+    "question_en": "Who among these was/were the king of Chandragiri?",
+    "options_en": [
+      "Damarla Venkatapathy",
+      "Venkatapathy Rayalu",
+      "Both of them",
+      "Neither of them"
+    ],
+    "explanation": "வெங்கடபதி ராயலு",
+    "explanation_en": "Venkatapathy Rayalu"
+  },
+  {
+    "id": 72,
+    "question": "சென்னப்ப நாயக்கரின் மகன் பெயர் ____________ .",
+    "options": [
+      "வெங்கடபதி",
+      "ஸ்ரீரங்கராயலு",
+      "ராமசாமி நாயக்கர்",
+      "பிரான்சிஸ் டே"
+    ],
+    "correct": 0,
+    "question_en": "The name of Chennappa Nayakkar's son is ____________ .",
+    "options_en": [
+      "Venkatapathy",
+      "Srirangarayalu",
+      "Ramasamy Nayakkar",
+      "Francis Day"
+    ],
+    "explanation": "சென்னப்ப நாயக்கரின் மகன் பெயர் வெங்கடபதி .",
+    "explanation_en": "The name of Chennappa Nayakkar's son is Venkatapathy ."
+  },
+  {
+    "id": 73,
+    "question": "புனித ஜார்ஜ் கோட்டைக்குள் கடல் நுழைவாயில் வழியாக நுழைந்தால், முதலில் காணப்படும் கட்டிடம் ____________ .",
+    "options": [
+      "கிளைவ் மாளிகை",
+      "சட்டமன்றம்",
+      "தமிழக அரசின் இருக்கை",
+      "சர்ச்"
+    ],
+    "correct": 2,
+    "question_en": "If you enter Fort St. George through the Sea Gate, the first building you see is ____________ .",
+    "options_en": [
+      "Clive House",
+      "Legislative Assembly",
+      "Seat of the Government of Tamil Nadu",
+      "Church"
+    ],
+    "explanation": "புனித ஜார்ஜ் கோட்டைக்குள் கடல் நுழைவாயில் வழியாக நுழைந்தால், முதலில் காணப்படும் கட்டிடம் தமிழக அரசின் இருக்கை .",
+    "explanation_en": "If you enter Fort St. George through the Sea Gate, the first building you see is Seat of the Government of Tamil Nadu ."
+  },
+  {
+    "id": 74,
+    "question": "புனித ஜார்ஜ் கோட்டையில் உள்ள, தமிழக அரசின் இருக்கைக் கட்டிடம் கட்டப்பட்ட ஆண்டு.",
+    "options": [
+      "1746-1763",
+      "1600-1857",
+      "1814-1816",
+      "1694-1732"
+    ],
+    "correct": 3,
+    "question_en": "The year the building of the seat of the Government of Tamil Nadu, located in Fort St. George, was built.",
+    "options_en": [
+      "1746-1763",
+      "1600-1857",
+      "1814-1816",
+      "1694-1732"
+    ],
+    "explanation": "1694-1732",
+    "explanation_en": "1694-1732"
+  },
+  {
+    "id": 75,
+    "question": "பிரிட்டிஷ் ஆட்சிக்காலத்தில், மதராஸ் மாகாணத்திற்குட்பட்ட பகுதிகள், கீழ்க்கண்டவற்றில் எவை?\ni. தமிழ்நாடு, ii. ராயலசீமா, iii. அந்தமான் நிக்கோபார் தீவுகள், iv. லட்சத்தீவுகள், v. தெற்கு ஒரிசா, vi. வடக்குக் கேரளா",
+    "options": [
+      "v, iii தவிர அனைத்தும்",
+      "iv, ii தவிர அனைத்தும்",
+      "iii தவிர அனைத்தும்",
+      "iv தவிர அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "During British rule, which of the following areas were part of the Madras Presidency?\ni. Tamil Nadu, ii. Rayalaseema, iii. Andaman and Nicobar Islands, iv. Lakshadweep, v. South Orissa, vi. North Kerala",
+    "options_en": [
+      "All except v, iii",
+      "All except iv, ii",
+      "All except iii",
+      "All except iv"
+    ],
+    "explanation": "பிரிட்டிஷ் ஆட்சிக்காலத்தில், மதராஸ் மாகாணத்திற்குட்பட்ட பகுதிகள், கீழ்க்கண்டவற்றில் iii தவிர அனைத்தும் ஆகும்.\ni. தமிழ்நாடு, ii. ராயலசீமா, iii. அந்தமான் நிக்கோபார் தீவுகள், iv. லட்சத்தீவுகள், v. தெற்கு ஒரிசா, vi. வடக்குக் கேரளா",
+    "explanation_en": "All except iii"
+  },
+  {
+    "id": 76,
+    "question": "பம்பாய், 1534லிருந்து யாருடைய கட்டுப்பாட்டில் இருந்தது?",
+    "options": [
+      "போர்ச்சுகீசியர்கள்",
+      "ஆங்கிலேயர்கள்",
+      "பிரெஞ்சுக்காரர்கள்",
+      "முகலாயர்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Under whose control was Bombay from 1534?",
+    "options_en": [
+      "Portuguese",
+      "British",
+      "French",
+      "Mughals"
+    ],
+    "explanation": "போர்ச்சுகீசியர்கள்",
+    "explanation_en": "Portuguese"
+  },
+  {
+    "id": 77,
+    "question": "போர்ச்சுகீசிய இளவரசியைத் திருமணம் செய்து கொண்டவர்?",
+    "options": [
+      "ஏழாம் எட்வர்டு",
+      "முதலாம் சார்லஸ்",
+      "இரண்டாம் சார்லஸ்",
+      "ஐந்தாம் ஜார்ஜ்"
+    ],
+    "correct": 2,
+    "question_en": "Who married the Portuguese princess?",
+    "options_en": [
+      "Edward VII",
+      "Charles I",
+      "Charles II",
+      "George V"
+    ],
+    "explanation": "இரண்டாம் சார்லஸ்",
+    "explanation_en": "Charles II"
+  },
+  {
+    "id": 78,
+    "question": "இந்தியாவில் மேயர் பதவி உருவாக்கப்பட்ட ஆண்டு எது?",
+    "options": [
+      "1688",
+      "1690",
+      "1639",
+      "1661"
+    ],
+    "correct": 0,
+    "question_en": "In which year was the post of Mayor created in India?",
+    "options_en": [
+      "1688",
+      "1690",
+      "1639",
+      "1661"
+    ],
+    "explanation": "இந்தியாவில் மேயர் பதவி உருவாக்கப்பட்ட ஆண்டு 1688 ஆகும்.",
+    "explanation_en": "1688"
+  }
+]

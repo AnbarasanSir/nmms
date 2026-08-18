@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "Botany : Plant :: Entomology : ?",
+    "options": [
+      "Snakes",
+      "Insects",
+      "Birds",
+      "Germs"
+    ],
+    "correct": 1,
+    "explanation": "Botany என்பது தாவரங்கள் பற்றிய அறிவியல் பிரிவு. அதேபோன்று Entomology என்பது பூச்சிகள் (Insects) பற்றிய அறிவியல் படிப்பு ஆகும்.",
+    "question_en": "Botany : Plant :: Entomology : ?",
+    "options_en": [
+      "Snakes",
+      "Insects",
+      "Birds",
+      "Germs"
+    ],
+    "explanation_en": "Botany is the branch of science dealing with plants. Similarly, Entomology is the scientific study of insects."
+  },
+  {
+    "id": 2,
+    "question": "Acting : Theatre :: Gambling : ?",
+    "options": [
+      "Casino",
+      "Club",
+      "Bar",
+      "Gym"
+    ],
+    "correct": 0,
+    "explanation": "திரையரங்குகளில் (Theatre) நடித்தல் (Acting) நடைபெறும். சூதாட்ட அரங்கில் (Casino), சூதாட்டம் (Gambling) நடைபெறும்.",
+    "question_en": "Acting : Theater :: Gambling : ?",
+    "options_en": [
+      "Casino",
+      "Club",
+      "Bar",
+      "Gym"
+    ],
+    "explanation_en": "Acting will take place in theatres. Gambling takes place in the casino."
+  },
+  {
+    "id": 3,
+    "question": "Menu : Food :: Catalogue : ?",
+    "options": [
+      "Rack",
+      "Newspaper",
+      "Library",
+      "Books"
+    ],
+    "correct": 3,
+    "explanation": "உணவகங்களில் உணவுப்பட்டியலை Menu என்போம். நூலகத்தில் புத்தகங்களின் பட்டியலை Catalogue என்போம்.",
+    "question_en": "Menu : Food :: Catalog : ?",
+    "options_en": [
+      "Rack",
+      "Newspaper",
+      "Library",
+      "Books"
+    ],
+    "explanation_en": "A menu in a restaurant is called a menu. A list of books in a library is called Catalogue."
+  },
+  {
+    "id": 4,
+    "question": "Mango : Fruit :: Potato : ?",
+    "options": [
+      "Root",
+      "Fruit",
+      "Stem",
+      "Flower"
+    ],
+    "correct": 2,
+    "explanation": "தாவரவியலின்படி Mango என்பது பழம் (Fruit). அதேபோன்று உருளை (Potato) என்பது தண்டு (Stem).",
+    "question_en": "Mango : Fruit :: Potato : ?",
+    "options_en": [
+      "Root",
+      "Fruit",
+      "Stem",
+      "Flower"
+    ],
+    "explanation_en": "Botanically Mango is Fruit. Similarly, potato is stem."
+  },
+  {
+    "id": 5,
+    "question": "Dog : Bark :: Goat : ?",
+    "options": [
+      "Bleat",
+      "Howl",
+      "Grunt",
+      "Bray"
+    ],
+    "correct": 0,
+    "explanation": "நாய் எழுப்பும் சப்தம் Bark. ஆடு எழுப்பும் சப்தம் Bleat.",
+    "question_en": "Dog : Bark :: Goat : ?",
+    "options_en": [
+      "Bleat",
+      "Howl",
+      "Grunt",
+      "Bray"
+    ],
+    "explanation_en": "Bark is the sound a dog makes. Bleat is the sound a goat makes."
+  },
+  {
+    "id": 6,
+    "question": "Food : Stomach :: Fuel : ?",
+    "options": [
+      "Plane",
+      "Truck",
+      "Engine",
+      "Automobile"
+    ],
+    "correct": 2,
+    "explanation": "உணவு (Food) வயிற்றில் (Stomach) செரிக்கப்பட்டு ஆற்றலைத் தருகிறது. அதேபோல் எரிபொருள் (Fuel) Engine-ல் உட்கிரகிக்கப்பட்டு ஆற்றலைத் தருகிறது.",
+    "question_en": "Food : Stomach :: Fuel : ?",
+    "options_en": [
+      "Plane",
+      "Truck",
+      "Engine",
+      "Automobile"
+    ],
+    "explanation_en": "Food is digested in stomach and gives energy. Similarly, fuel is absorbed into the engine and gives power."
+  },
+  {
+    "id": 7,
+    "question": "Moon : Satellite :: Earth : ?",
+    "options": [
+      "Sun",
+      "Planet",
+      "Solar System",
+      "Asteroid"
+    ],
+    "correct": 1,
+    "explanation": "நிலவு (Moon) என்பது துணைக்கோள் (Satellite). பூமி (Earth) என்பது கோள் (Planet) ஆகும்.",
+    "question_en": "Moon : Satellite :: Earth : ?",
+    "options_en": [
+      "Sun",
+      "Planet",
+      "Solar System",
+      "Asteroids"
+    ],
+    "explanation_en": "Moon is a satellite. Earth is a planet."
+  },
+  {
+    "id": 8,
+    "question": "Cricket : Bat :: Hockey : ?",
+    "options": [
+      "Field",
+      "Stick",
+      "Players",
+      "Bat"
+    ],
+    "correct": 1,
+    "explanation": "கிரிக்கெட் விளையாட்டில் Bat என்பது போல் ஹாக்கி விளையாட்டில் Stick என்று கூறுவோம்.",
+    "question_en": "Cricket : Bat :: Hockey : ?",
+    "options_en": [
+      "Field",
+      "Stick",
+      "Players",
+      "Bat"
+    ],
+    "explanation_en": "Let's say stick in hockey as bat in cricket."
+  },
+  {
+    "id": 9,
+    "question": "Smoke : Pollution :: War : ?",
+    "options": [
+      "Destruction",
+      "Treaty",
+      "Victory",
+      "Peace"
+    ],
+    "correct": 0,
+    "explanation": "புகையினால் மாசு (Pollution) ஏற்படுகிறது. போரினால் அழிவு (Destruction) ஏற்படுகிறது.",
+    "question_en": "Smoke : Pollution :: War : ?",
+    "options_en": [
+      "Destruction",
+      "Treaty",
+      "Victory",
+      "Peace"
+    ],
+    "explanation_en": "Pollution is caused by smoke. War causes destruction."
+  },
+  {
+    "id": 10,
+    "question": "Chennai : Tamilnadu :: Kochin : ?",
+    "options": [
+      "Karnataka",
+      "Kerala",
+      "Goa",
+      "Trivandram"
+    ],
+    "correct": 1,
+    "explanation": "சென்னை தமிழகத்தின் தலைநகரம், கொச்சின் கேரளத்தில் உள்ள முக்கிய நகரம் (விளக்கத்தின்படி கேரளாவுடன் தொடர்புடையது).",
+    "question_en": "Chennai : Tamilnadu :: Kochin : ?",
+    "options_en": [
+      "Karnataka",
+      "Kerala",
+      "Goa",
+      "Trivandrum"
+    ],
+    "explanation_en": "Chennai is the capital of Tamil Nadu, Cochin is the main city in Kerala (related to Kerala by definition)."
+  },
+  {
+    "id": 11,
+    "question": "Girl : Beautiful :: Boy : ?",
+    "options": [
+      "Smart",
+      "Heroic",
+      "Courageus",
+      "Handsome"
+    ],
+    "correct": 3,
+    "explanation": "பெண்களின் அழகை வர்ணிக்க Beautiful போன்று ஆண்களின் அழகை வர்ணிக்க Handsome என்று கூற வேண்டும்.",
+    "question_en": "Girl : Beautiful :: Boy : ?",
+    "options_en": [
+      "Smart",
+      "Heroic",
+      "Courageus",
+      "Handsome"
+    ],
+    "explanation_en": "Like Beautiful to describe the beauty of women, Handsome should be used to describe the beauty of men."
+  },
+  {
+    "id": 12,
+    "question": "Chair : Furniture :: Shoe : ?",
+    "options": [
+      "Socks",
+      "Footwear",
+      "Leather",
+      "Cobbles"
+    ],
+    "correct": 1,
+    "explanation": "Chair மரச்சாமான்கள் (Furniture) பிரிவில் வருகிறது. அது போன்று Shoe காலணி (Footwear) பிரிவில் வருகிறது.",
+    "question_en": "Chair : Furniture :: Shoe : ?",
+    "options_en": [
+      "Socks",
+      "Footwear",
+      "Leather",
+      "Cobbles"
+    ],
+    "explanation_en": "Chair comes under Furniture category. Similarly, Shoe comes under Footwear category."
+  },
+  {
+    "id": 13,
+    "question": "Typist : Typewriter :: Writer : ?",
+    "options": [
+      "Book",
+      "Paper",
+      "Script",
+      "Pen"
+    ],
+    "correct": 3,
+    "explanation": "Typist - Typewriter ஐ பயன்படுத்துவார். Writer - Pen ஐ பயன்படுத்துவார்.",
+    "question_en": "Typist : Typewriter :: Writer : ?",
+    "options_en": [
+      "Book",
+      "Paper",
+      "Script",
+      "Pen"
+    ],
+    "explanation_en": "Typist - Uses typewriter. Writer - Uses Pen."
+  },
+  {
+    "id": 14,
+    "question": "Book : Publisher :: Film : ?",
+    "options": [
+      "Producer",
+      "Director",
+      "Editor",
+      "Writer"
+    ],
+    "correct": 0,
+    "explanation": "Book ஐ தயாரித்து வெளியிடுபவர் Publisher. Film ஐ தயாரித்து வெளியிடுபவர் Producer.",
+    "question_en": "Book : Publisher :: Film : ?",
+    "options_en": [
+      "Producer",
+      "Director",
+      "Editor",
+      "Writer"
+    ],
+    "explanation_en": "Publisher is the person who prepares and publishes the book. Producer is the person who produces and releases the film."
+  },
+  {
+    "id": 15,
+    "question": "Haemoglobin : Iron :: Chlorophyll : ?",
+    "options": [
+      "Copper",
+      "Magnesium",
+      "Cobalt",
+      "Calcium"
+    ],
+    "correct": 1,
+    "explanation": "Haemoglobin -ன் முக்கிய பகுதிப்பொருள் Iron. Chlorophyll -ன் முக்கிய பகுதிப்பொருள் Magnesium.",
+    "question_en": "Haemoglobin : Iron :: Chlorophyll : ?",
+    "options_en": [
+      "Copper",
+      "Magnesium",
+      "Cobalt",
+      "Calcium"
+    ],
+    "explanation_en": "Iron is the main component of Haemoglobin. Magnesium is the main component of Chlorophyll."
+  },
+  {
+    "id": 16,
+    "question": "Thunder : Rain :: Evening : Night",
+    "options": [
+      "Evening",
+      "Dark",
+      "Day",
+      "Dusk"
+    ],
+    "correct": 0,
+    "explanation": "Rain ஐத் தொடர்ந்து Thunder வரும். அதுபோல Evening ஐத் தொடர்ந்து Night வரும்.",
+    "question_en": "Thunder : Rain :: Evening : Night",
+    "options_en": [
+      "Evening",
+      "Dark",
+      "Day",
+      "Dusk"
+    ],
+    "explanation_en": "Rain is followed by Thunder. Similarly Evening is followed by Night."
+  },
+  {
+    "id": 17,
+    "question": "Aryabhatta : Mathematician :: Varahamihira : ?",
+    "options": [
+      "Physician",
+      "Astronaut",
+      "Scientist",
+      "Architect"
+    ],
+    "correct": 0,
+    "explanation": "Aryabhatta - கணிதவியலாளர். Varahamihira - இயற்பியலாளர் (Physician).",
+    "question_en": "Aryabhatta : Mathematician :: Varahamihira : ?",
+    "options_en": [
+      "Physician",
+      "Astronaut",
+      "Scientist",
+      "Architect"
+    ],
+    "explanation_en": "Aryabhatta - Mathematician. Varahamihira - Physician."
+  },
+  {
+    "id": 18,
+    "question": "Leather : Cobbler :: Wood : ?",
+    "options": [
+      "Furniture",
+      "Goldsmith",
+      "Carpenter",
+      "Mason"
+    ],
+    "correct": 2,
+    "explanation": "Cobbler -க்கு தேவையான மூலப்பொருள் Leather. Carpenter -க்கு தேவையான மூலப்பொருள் Wood.",
+    "question_en": "Leather : Cobbler :: Wood : ?",
+    "options_en": [
+      "Furniture",
+      "Goldsmith",
+      "Carpenter",
+      "Mason"
+    ],
+    "explanation_en": "The raw material required for Cobbler is Leather. Wood is the required material for Carpenter."
+  },
+  {
+    "id": 19,
+    "question": "Air : Atmosphere :: Water : ?",
+    "options": [
+      "Hydrosphere",
+      "Ecosphere",
+      "Bioshpere",
+      "Stratosphere"
+    ],
+    "correct": 0,
+    "explanation": "காற்றின் தொகுதியை Atmosphere என்பது போன்று தண்ணீரின் தொகுதியை Hydrosphere என்போம்.",
+    "question_en": "Air : Atmosphere :: Water : ?",
+    "options_en": [
+      "Hydrosphere",
+      "Ecosphere",
+      "Bioshpere",
+      "Stratosphere"
+    ],
+    "explanation_en": "The volume of air is called Atmosphere and the volume of water is called Hydrosphere."
+  },
+  {
+    "id": 20,
+    "question": "Circle : Circumference :: Square : ?",
+    "options": [
+      "Volume",
+      "Area",
+      "Diagram",
+      "Perimeter"
+    ],
+    "correct": 3,
+    "explanation": "வட்டத்தின் சுற்றளவை Circumference என்போம். சதுரத்தின் சுற்றளவை Perimeter என்போம்.",
+    "question_en": "Circle : Circumference :: Square : ?",
+    "options_en": [
+      "Volume",
+      "Area",
+      "Diagram",
+      "Perimeter"
+    ],
+    "explanation_en": "Circumference is the circumference of a circle. The perimeter of a square is called Perimeter."
+  },
+  {
+    "id": 21,
+    "question": "Burn : Oinment :: Grief : ?",
+    "options": [
+      "Sorrow",
+      "Adversity",
+      "Consolation",
+      "Pity"
+    ],
+    "correct": 2,
+    "explanation": "தீப்புண்ணுக்கு Ointment போன்று துயரத்திற்கு (Grief) ஆறுதல் (Consolation) அவசியம்.",
+    "question_en": "Burn : Oinment :: Grief : ?",
+    "options_en": [
+      "Sorrow",
+      "Adversity",
+      "Consolation",
+      "Pity"
+    ],
+    "explanation_en": "Grief needs consolation like an ointment for a fire."
+  },
+  {
+    "id": 22,
+    "question": "Pen : Stationary :: Chair : ?",
+    "options": [
+      "Wood",
+      "Rest",
+      "Room",
+      "Furniture"
+    ],
+    "correct": 3,
+    "explanation": "Stationary -இல் Pen ஒரு பகுதி போன்று Furniture -இல் Chair ஒரு பகுதி ஆகும்.",
+    "question_en": "Pen : Stationary :: Chair : ?",
+    "options_en": [
+      "Wood",
+      "Rest",
+      "Room",
+      "Furniture"
+    ],
+    "explanation_en": "A Chair is a part of Furniture as a Pen is a part of Stationary."
+  },
+  {
+    "id": 23,
+    "question": "Dam : Water :: Godown : ?",
+    "options": [
+      "Sweets",
+      "Crab",
+      "Grain",
+      "Grass"
+    ],
+    "correct": 2,
+    "explanation": "Dam -ல் தண்ணீர் (Water) சேமித்து வைக்கப்படுகிறது. Godown -ல் தானியம் (Grain) சேமிக்கப்படுகிறது.",
+    "question_en": "Dam : Water :: Godown : ?",
+    "options_en": [
+      "Sweets",
+      "Crab",
+      "Grain",
+      "Grass"
+    ],
+    "explanation_en": "Water is stored in Dam. Grain is stored in Godown."
+  },
+  {
+    "id": 24,
+    "question": "Crime : Court :: Disease : ?",
+    "options": [
+      "Lawyer",
+      "Punishment",
+      "Hospital",
+      "Doctor"
+    ],
+    "correct": 2,
+    "explanation": "Crime - Court -ல் தீர்க்கப்படுகிறது. Disease - Hospital -ல் தீர்க்கப்படுகிறது.",
+    "question_en": "Crime : Court :: Disease : ?",
+    "options_en": [
+      "Lawyer",
+      "Punishment",
+      "Hospital",
+      "Dr"
+    ],
+    "explanation_en": "Crime is dealt with in Court. Disease - Solved in Hospital."
+  },
+  {
+    "id": 25,
+    "question": "Millionaire : Wealth :: Genius : ?",
+    "options": [
+      "Capability",
+      "Smartness",
+      "Intelligence",
+      "Awareness"
+    ],
+    "correct": 2,
+    "explanation": "Millionaire என்பவர் Wealth உடையவர். அதுபோன்று Genius என்பவர் Intelligence உடையவர்.",
+    "question_en": "Millionaire : Wealth :: Genius : ?",
+    "options_en": [
+      "Capability",
+      "Smartness",
+      "Intelligence",
+      "Awareness"
+    ],
+    "explanation_en": "A Millionaire is one who has Wealth. Similarly Genius has Intelligence."
+  },
+  {
+    "id": 26,
+    "question": "Page : Book :: Brick : ?",
+    "options": [
+      "Heap",
+      "Building",
+      "Clay",
+      "Mason"
+    ],
+    "correct": 1,
+    "explanation": "Book -ல் Page இருப்பது போன்று Building -ல் Brick உள்ளது.",
+    "question_en": "Page : Book :: Brick : ?",
+    "options_en": [
+      "Heap",
+      "Building",
+      "Clay",
+      "Mason"
+    ],
+    "explanation_en": "Brick is in Building as Page is in Book."
+  },
+  {
+    "id": 27,
+    "question": "Driving : Bus :: Flying : ?",
+    "options": [
+      "Air",
+      "Kite",
+      "Bird",
+      "Aeroplane"
+    ],
+    "correct": 3,
+    "explanation": "Bus ஐ இயக்குவது Driving என்போம். Aeroplane -ல் பயணிப்பது Flying என்போம்.",
+    "question_en": "Driving : Bus :: Flying : ?",
+    "options_en": [
+      "Air",
+      "Kite",
+      "Bird",
+      "Airplane"
+    ],
+    "explanation_en": "Running a bus is called Driving. Traveling in Airplane is called Flying."
+  },
+  {
+    "id": 28,
+    "question": "Bullet : Rifle :: Arrow : ?",
+    "options": [
+      "Archer",
+      "Bow",
+      "Target",
+      "Cord"
+    ],
+    "correct": 1,
+    "explanation": "Rifle இலிருந்து வருவது Bullet. Bow -ல் இருந்து வருவது Arrow.",
+    "question_en": "Bullet : Rifle :: Arrow : ?",
+    "options_en": [
+      "Archer",
+      "Bow",
+      "Target",
+      "Cord"
+    ],
+    "explanation_en": "Bullet comes from Rifle. Arrow comes from Bow."
+  },
+  {
+    "id": 29,
+    "question": "House : Mazon :: Furniture : ?",
+    "options": [
+      "Wood",
+      "Chair",
+      "Table",
+      "Carpentor"
+    ],
+    "correct": 3,
+    "explanation": "House ஐ கட்டுபவர் Mason. Furniture ஐ தயாரிப்பவர் Carpenter.",
+    "question_en": "House : Mazon :: Furniture : ?",
+    "options_en": [
+      "Wood",
+      "Chair",
+      "Table",
+      "Carpenter"
+    ],
+    "explanation_en": "Mason is the builder of the House. Furniture is made by Carpenter."
+  },
+  {
+    "id": 30,
+    "question": "Needle : Thread :: Pen : ?",
+    "options": [
+      "Write",
+      "Ink",
+      "Cap",
+      "Paper"
+    ],
+    "correct": 1,
+    "explanation": "Needle -ல் இருப்பது நூல் (Thread), Pen -ல் இருப்பது Ink.",
+    "question_en": "Needle : Thread :: Pen : ?",
+    "options_en": [
+      "Write",
+      "Ink",
+      "Cap",
+      "Paper"
+    ],
+    "explanation_en": "Thread is in Needle, Ink is in Pen."
+  },
+  {
+    "id": 31,
+    "question": "'Fish' is related to 'Water'. In the same way as 'Bird' is related to",
+    "options": [
+      "Water",
+      "Sky",
+      "Food",
+      "Air"
+    ],
+    "correct": 3,
+    "explanation": "Fish - Water (மீன் தண்ணீரில் நீந்தும்). Bird - Air (பறவை காற்றில் பறக்கும்).",
+    "question_en": "'Fish' is related to 'Water'. In the same way as 'Bird' is related to",
+    "options_en": [
+      "Water",
+      "Sky",
+      "Food",
+      "Air"
+    ],
+    "explanation_en": "Fish - Water (Fish swims in water). Bird - Air (Bird flies in the air)."
+  },
+  {
+    "id": 32,
+    "question": "'Soldier' is related to 'Army'. In the same way as 'Pupil' is related to",
+    "options": [
+      "Education",
+      "Teacher",
+      "Student",
+      "Class"
+    ],
+    "correct": 3,
+    "explanation": "Soldier - Army (Army-ல் உள்ளவரை Soldier என்போம்). Pupil - Class (Class-ல் உள்ளவரை Pupil என்போம்).",
+    "question_en": "'Soldier' ​​is related to 'Army'. In the same way as 'Pupil' is related to",
+    "options_en": [
+      "Education",
+      "Teacher",
+      "Student",
+      "Class"
+    ],
+    "explanation_en": "Soldier - Army (A person in Army is called Soldier). Pupil - Class (A person in Class is called Pupil)."
+  },
+  {
+    "id": 33,
+    "question": "'Medicine' is related to 'Patient'. In the same way as 'Education' is related to",
+    "options": [
+      "Teacher",
+      "School",
+      "Student",
+      "Tuition"
+    ],
+    "correct": 2,
+    "explanation": "Medicine - Patient (நோயாளிகளுக்கு மருந்து). Education - Student (மாணவனுக்கு கல்வி).",
+    "question_en": "'Medicine' is related to 'Patient'. In the same way as 'Education' is related to",
+    "options_en": [
+      "Teacher",
+      "School",
+      "Student",
+      "Tuition"
+    ],
+    "explanation_en": "Medicine - Patient. Education - Student."
+  },
+  {
+    "id": 34,
+    "question": "Ditch : Depth :: Mountain : ?",
+    "options": [
+      "Valley : Beauty",
+      "River : Blue water",
+      "Moon : Eclipse",
+      "Mountain : Height"
+    ],
+    "correct": 3,
+    "explanation": "Ditch - Depth (கால்வாய் என்றால் ஆழம்/பள்ளம்). Mountain - Height (மலை என்றால் உயரம்).",
+    "question_en": "Ditch : Depth :: Mountain : ?",
+    "options_en": [
+      "Valley: Beauty",
+      "River : Blue water",
+      "Moon: Eclipse",
+      "Mountain : Height"
+    ],
+    "explanation_en": "Ditch - Depth. Mountain - Height."
+  },
+  {
+    "id": 35,
+    "question": "Ocean : Water :: ?",
+    "options": [
+      "Mountain : Height",
+      "Glacier : Ice",
+      "Cave : Lion",
+      "Refrigerator : Milk"
+    ],
+    "correct": 1,
+    "explanation": "Ocean - Water (ஆழியில் நீர் இருக்கும்). Glacier - Ice (பனியாற்றில் பனிக்கட்டி இருக்கும்).",
+    "question_en": "Ocean : Water :: ?",
+    "options_en": [
+      "Mountain : Height",
+      "Glacier : Ice",
+      "Cave: Lion",
+      "Refrigerator : Milk"
+    ],
+    "explanation_en": "Ocean - Water. Glacier - Ice"
+  },
+  {
+    "id": 36,
+    "question": "Rest : Weary :: ?",
+    "options": [
+      "Water : River",
+      "Thoughts : Politics",
+      "Food : Hungry",
+      "Driving : Driver"
+    ],
+    "correct": 2,
+    "explanation": "Rest : Weary (சோர்வுற்றிருந்தால் தேவை ஓய்வு). Food : Hungry (பசியுற்றிருந்தால் தேவை உணவு).",
+    "question_en": "Rest : Weary :: ?",
+    "options_en": [
+      "Water: River",
+      "Thoughts: Politics",
+      "Food: Hungry",
+      "Driving : Driver"
+    ],
+    "explanation_en": "Rest : Weary. Food : Hungry."
+  },
+  {
+    "id": 37,
+    "question": "Cure : Disease :: Heal : ?",
+    "options": [
+      "Illness",
+      "Injury",
+      "Recover",
+      "Sick"
+    ],
+    "correct": 1,
+    "explanation": "Cure : Disease (நோயுற்றால் சிகிச்சை அளிப்போம்). Heal : Injury (காயம் ஏற்பட்டால் குணப்படுத்த வேண்டும்).",
+    "question_en": "Cure : Disease :: Heal : ?",
+    "options_en": [
+      "Illness",
+      "Injury",
+      "Recover",
+      "Sick"
+    ],
+    "explanation_en": "Cure : Disease. Heal : Injury"
+  },
+  {
+    "id": 38,
+    "question": "AFKP : ZUPK :: BGLQ : ?",
+    "options": [
+      "YUQM",
+      "XURO",
+      "YTOJ",
+      "YXWV"
+    ],
+    "correct": 2,
+    "explanation": "A(+5)F(+5)K(+5)P, Z(-5)U(-5)P(-5)K. B(+5)G(+5)L(+5)Q, Y(-5)T(-5)O(-5)J.",
+    "question_en": "AFKP : ZUPK :: BGLQ : ?",
+    "options_en": [
+      "YUQM",
+      "XURO",
+      "YTOJ",
+      "YXWV"
+    ],
+    "explanation_en": "A(+5)F(+5)K(+5)P, Z(-5)U(-5)P(-5)K. B(+5)G(+5)L(+5)Q, Y(-5)T(-5)O(-5)J."
+  },
+  {
+    "id": 39,
+    "question": "FILM : ADGH :: MILK : ?",
+    "options": [
+      "ADGF",
+      "HDGE",
+      "HDGF",
+      "HEGF"
+    ],
+    "correct": 2,
+    "explanation": "F-5=A, I-5=D, L-5=G, M-5=H. அதேபோல M-5=H, I-5=D, L-5=G, K-5=F.",
+    "question_en": "FILM : ADGH :: MILK : ?",
+    "options_en": [
+      "ADGF",
+      "HDGE",
+      "HDGF",
+      "HEGF"
+    ],
+    "explanation_en": "F-5=A, I-5=D, L-5=G, M-5=H. Similarly M-5=H, I-5=D, L-5=G, K-5=F."
+  },
+  {
+    "id": 40,
+    "question": "REASON : SFBTPO :: THINK : ?",
+    "options": [
+      "SHHMJ",
+      "UJKPM",
+      "UIJOL",
+      "UHINK"
+    ],
+    "correct": 2,
+    "explanation": "R+1=S, E+1=F, A+1=B, S+1=T, O+1=P, N+1=O. T+1=U, H+1=I, I+1=J, N+1=O, K+1=L.",
+    "question_en": "REASON : SFBTPO :: THINK : ?",
+    "options_en": [
+      "SHHMJ",
+      "UJKPM",
+      "UIJOL",
+      "UHINK"
+    ],
+    "explanation_en": "R+1=S, E+1=F, A+1=B, S+1=T, O+1=P, N+1=O. T+1=U, H+1=I, I+1=J, N+1=O, K+1=L."
+  },
+  {
+    "id": 41,
+    "question": "AZBY : CXDW :: EVFU : ?",
+    "options": [
+      "GTHS",
+      "GSTH",
+      "GHTS",
+      "TGSH"
+    ],
+    "correct": 0,
+    "explanation": "A+2=C, Z-2=X, B+2=D, Y-2=W. E+2=G, V-2=T, F+2=H, U-2=S. விடை GTHS.",
+    "question_en": "AZBY : CXDW :: EVFU : ?",
+    "options_en": [
+      "GTHS",
+      "GSTH",
+      "GHTS",
+      "TGSH"
+    ],
+    "explanation_en": "A+2=C, Z-2=X, B+2=D, Y-2=W. E+2=G, V-2=T, F+2=H, U-2=S. The answer is GTHS."
+  },
+  {
+    "id": 42,
+    "question": "Effort : Success :: ?",
+    "options": [
+      "Play : Cricket",
+      "Healthy : Vitamin",
+      "Climb : Mountain",
+      "Reading : Knowledge"
+    ],
+    "correct": 3,
+    "explanation": "Effort : Success - முயற்சித்தால் வெற்றி வரும். Reading : Knowledge - படித்தால் அறிவு வளரும்.",
+    "question_en": "Effort : Success :: ?",
+    "options_en": [
+      "Play : Cricket",
+      "Healthy : Vitamin",
+      "Climb : Mountain",
+      "Reading : Knowledge"
+    ],
+    "explanation_en": "Effort : Success - Success comes with effort. Reading : Knowledge - Reading develops knowledge."
+  },
+  {
+    "id": 43,
+    "question": "Earth : Moon :: ?",
+    "options": [
+      "Asia : India",
+      "Ship : Boat",
+      "Sun : Venus",
+      "School : Classroom"
+    ],
+    "correct": 0,
+    "explanation": "பூமியின் துணை கோள் நிலவு. ஆசியாவின் துணை கண்டம் இந்தியா.",
+    "question_en": "Earth : Moon :: ?",
+    "options_en": [
+      "Asia : India",
+      "Ship : Boat",
+      "Sun : Venus",
+      "School: Classroom"
+    ],
+    "explanation_en": "Earth's satellite moon. India is a subcontinent of Asia."
+  },
+  {
+    "id": 44,
+    "question": "Mountain : Height :: Ditch : Depth",
+    "options": [
+      "Valley : Beauty",
+      "River : Water",
+      "Moon : Shadow",
+      "Ditch : Depth"
+    ],
+    "correct": 3,
+    "explanation": "Mountain : Height - மலை என்றால் உயரம். Ditch : Depth - பள்ளம் என்றால் ஆழம்.",
+    "question_en": "Mountain : Height :: Ditch : Depth",
+    "options_en": [
+      "Valley: Beauty",
+      "River : Water",
+      "Moon: Shadow",
+      "Ditch : Depth"
+    ],
+    "explanation_en": "Mountain : Height - Mountain means height. Ditch : Depth - Ditch means depth."
+  },
+  {
+    "id": 45,
+    "question": "ABD : CDF :: MNP : ?",
+    "options": [
+      "LNO",
+      "OPR",
+      "KLM",
+      "VXY"
+    ],
+    "correct": 1,
+    "explanation": "A+2=C, B+2=D, D+2=F. M+2=O, N+2=P, P+2=R.",
+    "question_en": "ABD : CDF :: MNP : ?",
+    "options_en": [
+      "LNO",
+      "OPR",
+      "KLM",
+      "VXY"
+    ],
+    "explanation_en": "A+2=C, B+2=D, D+2=F. M+2=O, N+2=P, P+2=R."
+  },
+  {
+    "id": 46,
+    "question": "LNPQ : ACEF :: TVXY : ?",
+    "options": [
+      "MNPQ",
+      "OQRT",
+      "STVX",
+      "IKMN"
+    ],
+    "correct": 3,
+    "explanation": "L-11=A, N-11=C, P-11=E, Q-11=F. T-11=I, V-11=K, X-11=M, Y-11=N.",
+    "question_en": "LNPQ : ACEF :: TVXY : ?",
+    "options_en": [
+      "MNPQ",
+      "OQRT",
+      "STVX",
+      "IKMN"
+    ],
+    "explanation_en": "L-11=A, N-11=C, P-11=E, Q-11=F. T-11=I, V-11=K, X-11=M, Y-11=N."
+  },
+  {
+    "id": 47,
+    "question": "CDEF : fghi :: klmn : ?",
+    "options": [
+      "hijk",
+      "FGHI",
+      "HIJK",
+      "NOPQ"
+    ],
+    "correct": 3,
+    "explanation": "C+3=f, D+3=g, E+3=h, F+3=i. k+3=N, l+3=O, m+3=P, n+3=Q. (பெரிய எழுத்துக்களில் NOPQ).",
+    "question_en": "CDEF : fghi :: klmn : ?",
+    "options_en": [
+      "hijk",
+      "FGHI",
+      "HIJK",
+      "NOPQ"
+    ],
+    "explanation_en": "C+3=f, D+3=g, E+3=h, F+3=i. k+3=N, l+3=O, m+3=P, n+3=Q. (NOPQ in capital letters)."
+  },
+  {
+    "id": 48,
+    "question": "Iron : Copper : Zinc :: ?",
+    "options": [
+      "Ceramic",
+      "Carbon",
+      "Silver",
+      "Coal"
+    ],
+    "correct": 2,
+    "explanation": "Iron, Copper, Zinc, Silver - இவை அனைத்தும் உலோகங்கள்.",
+    "question_en": "Iron : Copper : Zinc :: ?",
+    "options_en": [
+      "Ceramic",
+      "Carbon",
+      "Silver",
+      "Coal"
+    ],
+    "explanation_en": "Iron, Copper, Zinc, Silver - these are all metals."
+  },
+  {
+    "id": 49,
+    "question": "Jute : Cotton : Wool :: ?",
+    "options": [
+      "Terylene",
+      "Silk",
+      "Rayon",
+      "Nylon"
+    ],
+    "correct": 1,
+    "explanation": "Jute, Cotton, Wool, Silk - இவை அனைத்தும் இயற்கை இழைகள்.",
+    "question_en": "Jute : Cotton : Wool :: ?",
+    "options_en": [
+      "Terylene",
+      "Silk",
+      "Rayon",
+      "Nylon"
+    ],
+    "explanation_en": "Jute, Cotton, Wool, Silk - these are all natural fibers."
+  },
+  {
+    "id": 50,
+    "question": "Grandfather : Father : Brother :: ?",
+    "options": [
+      "Son-in-law",
+      "Son",
+      "Father-in-law",
+      "Baby"
+    ],
+    "correct": 1,
+    "explanation": "Grandfather, Father, Brother, Son - இரத்த உறவுமுறைகள்.",
+    "question_en": "Grandfather : Father : Brother :: ?",
+    "options_en": [
+      "Son-in-law",
+      "Son",
+      "Father-in-law",
+      "Baby"
+    ],
+    "explanation_en": "Grandfather, Father, Brother, Son - blood relations."
+  },
+  {
+    "id": 51,
+    "question": "Ohm : Watt : Volt :: ?",
+    "options": [
+      "Light",
+      "Electricity",
+      "Hair",
+      "Ampere"
+    ],
+    "correct": 3,
+    "explanation": "Ohm, Watt, Volt, Ampere - Electricity அளக்கும் அளவீடுகளாகும்.",
+    "question_en": "Ohm : Watt : Volt :: ?",
+    "options_en": [
+      "Light",
+      "Electricity",
+      "Hair",
+      "Ampere"
+    ],
+    "explanation_en": "Ohm, Watt, Volt, Ampere - Measurements of Electricity."
+  },
+  {
+    "id": 52,
+    "question": "Pituitary : Thyroid : Pancreas :: ?",
+    "options": [
+      "Adrenal",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "correct": 0,
+    "explanation": "Pituitary, Thyroid, Pancreas, Adrenal - இவை நாளமில்லா சுரப்பிகள்.",
+    "question_en": "Pituitary : Thyroid : Pancreas :: ?",
+    "options_en": [
+      "Adrenal",
+      "Heart",
+      "Liver",
+      "Kidney"
+    ],
+    "explanation_en": "Pituitary, Thyroid, Pancreas, Adrenal - These are endocrine glands."
+  },
+  {
+    "id": 53,
+    "question": "Sodium : Potassium : Zinc :: ?",
+    "options": [
+      "Sulphur",
+      "Calcium",
+      "Water",
+      "Iodine"
+    ],
+    "correct": 1,
+    "explanation": "Sodium, Potassium, Zinc, Calcium - இவை உலோகங்கள்.",
+    "question_en": "Sodium : Potassium : Zinc :: ?",
+    "options_en": [
+      "Sulphur",
+      "Calcium",
+      "Water",
+      "Iodine"
+    ],
+    "explanation_en": "Sodium, Potassium, Zinc, Calcium - These are metals."
+  },
+  {
+    "id": 54,
+    "question": "Kanchanjunga : Anaimudi : Dhaulagiri :: ?",
+    "options": [
+      "Himadri",
+      "Zaskar",
+      "Nandadevi",
+      "Karakoram"
+    ],
+    "correct": 2,
+    "explanation": "Kanchanjunga, Anaimudi, Dhaulagiri, Nandadevi - இவை அனைத்தும் மலைகள்.",
+    "question_en": "Kanchanjunga : Anaimudi : Dhaulagiri :: ?",
+    "options_en": [
+      "Himadri",
+      "Zaskar",
+      "Nandadevi",
+      "Karakoram"
+    ],
+    "explanation_en": "Kanchanjunga, Anaimudi, Dhaulagiri, Nandadevi - these are all hills."
+  },
+  {
+    "id": 55,
+    "question": "Pathology : Cardiology : Radiology :: ?",
+    "options": [
+      "Geology",
+      "Zoology",
+      "Haemotology",
+      "Biology"
+    ],
+    "correct": 2,
+    "explanation": "Pathology, Cardiology, Radiology, Haemotology - இவை அனைத்தும் மருத்துவ நோயியல் பிரிவுகள்.",
+    "question_en": "Pathology : Cardiology : Radiology :: ?",
+    "options_en": [
+      "Geology",
+      "Zoology",
+      "Haematology",
+      "Biology"
+    ],
+    "explanation_en": "Pathology, Cardiology, Radiology, Haemotology - these are all clinical pathology departments."
+  },
+  {
+    "id": 56,
+    "question": "aCE : bDF :: fHJ : ?",
+    "options": [
+      "giK",
+      "ghK",
+      "dfH",
+      "fhL"
+    ],
+    "correct": 0,
+    "explanation": "a+1=b, C+1=D, E+1=F. f+1=g, H+1=I, J+1=K. விடை giK.",
+    "question_en": "aCE : bDF :: fHJ : ?",
+    "options_en": [
+      "giK",
+      "ghK",
+      "dfH",
+      "fhL"
+    ],
+    "explanation_en": "a+1=b, C+1=D, E+1=F. f+1=g, H+1=I, J+1=K. The answer is giK."
+  },
+  {
+    "id": 57,
+    "question": "DDa : aDD :: RRb : ?",
+    "options": [
+      "BBr",
+      "bRR",
+      "RRR",
+      "BrR"
+    ],
+    "correct": 1,
+    "explanation": "DDa வை திருப்பி எழுதினால் aDD. RRb வை திருப்பி எழுதினால் bRR.",
+    "question_en": "DDa : aDD :: RRb : ?",
+    "options_en": [
+      "BBr",
+      "bRR",
+      "RRR",
+      "BrR"
+    ],
+    "explanation_en": "DDa is rewritten as aDD. RRb is rewritten as bRR."
+  },
+  {
+    "id": 58,
+    "question": "CAT : DDY :: BIG : ?",
+    "options": [
+      "CLL",
+      "CLM",
+      "CML",
+      "CEP"
+    ],
+    "correct": 0,
+    "explanation": "C+1=D, A+3=D, T+5=Y. B+1=C, I+3=L, G+5=L.",
+    "question_en": "CAT : DDY :: BIG : ?",
+    "options_en": [
+      "CLL",
+      "CLM",
+      "CML",
+      "CEP"
+    ],
+    "explanation_en": "C+1=D, A+3=D, T+5=Y. B+1=C, I+3=L, G+5=L."
+  },
+  {
+    "id": 59,
+    "question": "MUMBAI : LTLAZH :: DELHI : ?",
+    "options": [
+      "CDKGG",
+      "IHLED",
+      "CDKGH",
+      "BCKGH"
+    ],
+    "correct": 2,
+    "explanation": "ஒவ்வொரு எழுத்தும் -1 என குறைகிறது. M-1=L ... I-1=H. D-1=C, E-1=D, L-1=K, H-1=G, I-1=H.",
+    "question_en": "MUMBAI : LTLAZH :: DELHI : ?",
+    "options_en": [
+      "CDKGG",
+      "IHLED",
+      "CDKGH",
+      "BCKGH"
+    ],
+    "explanation_en": "Each letter decrements by -1. M-1=L ... I-1=H. D-1=C, E-1=D, L-1=K, H-1=G, I-1=H."
+  },
+  {
+    "id": 60,
+    "question": "EIGHTY : GIEYTH :: OUTPUT : ?",
+    "options": [
+      "TUOTUP",
+      "TUOUTP",
+      "UTOPTU",
+      "UOTUPT"
+    ],
+    "correct": 0,
+    "explanation": "EIG HTY ஐ மூன்று மூன்றாக திருப்பி எழுதினால் GIE YTH. OUT PUT ஐ திருப்பி எழுதினால் TUO TUP.",
+    "question_en": "EIGHTY : GIETH :: OUTPUT : ?",
+    "options_en": [
+      "TUOTUP",
+      "TUOUTP",
+      "UTOPTU",
+      "UOTUPT"
+    ],
+    "explanation_en": "EIG HTY rewritten as triples is GIE YTH. TUO TUP if OUT PUT is rewritten."
+  }
+]

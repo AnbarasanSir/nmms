@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "தீபக்கின் சகோதரர் விமல். விமல் என்பவர் பிரேமின் மகன் ஆவார்.ராஜா என்பவர் பிரேமின் தந்தை ஆவார். விமல் என்பவர் ராஜாவிற்கு எவ்வகையில் உறவு?",
+    "options": [
+      "மகன்",
+      "பேரன்",
+      "சகோதரன்",
+      "தாத்தா"
+    ],
+    "correct": 1,
+    "explanation": "விமல் என்பவர் பிரேமின் மகன். பிரேம் என்பவர் ராஜாவின் மகன். எனவே விமல் என்பவர் ராஜாவிற்கு பேரன் ஆவார்.",
+    "question_en": "Deepak's brother Vimal. Vimal is the son of Prem. Raja is the father of Prem. How is Vimal related to Raja?",
+    "options_en": [
+      "son",
+      "Grandson",
+      "Brother",
+      "grandfather"
+    ],
+    "explanation_en": "Vimal is the son of Prem. Prem is the son of a king. So Vimal is the grandson of the king."
+  },
+  {
+    "id": 2,
+    "question": "நபர் B-ன் சகோதரர் A. மேலும் A-ன் தந்தையின் சகோதரி C. எனில், C என்பவர் B-க்கு எவ்வகையில் உறவு?",
+    "options": [
+      "பாட்டி",
+      "தாய்",
+      "அத்தை",
+      "உடன் பிறவா சகோதரி"
+    ],
+    "correct": 2,
+    "explanation": "A மற்றும் B சகோதரர்கள்/சகோதரிகள். A-ன் தந்தை B-க்கும் தந்தை. தந்தையின் சகோதரி (C) அத்தை ஆவார்.",
+    "question_en": "If person B is the brother of A. and C is the sister of A's father, how is C related to B?",
+    "options_en": [
+      "Grandmother",
+      "the mother",
+      "Aunt",
+      "Co-born sister"
+    ],
+    "explanation_en": "A and B are brothers/sisters. A's father is also B's father. Father's sister (C) is aunt."
+  },
+  {
+    "id": 3,
+    "question": "M-ன் மகன் Q, N-ஐ மணந்தார். N-ன் தங்கை O, P-ஐ மணந்தார். P என்பவர் Q-வின் சகோதரர். O-விற்கும் M-ற்கும் உள்ள உறவு என்ன?",
+    "options": [
+      "சகோதரி",
+      "மருமகள்",
+      "பேத்தி",
+      "மகள்"
+    ],
+    "correct": 1,
+    "explanation": "Q மற்றும் P சகோதரர்கள், M-ன் மகன்கள். P-ன் மனைவி O என்பவர் M-க்கு மருமகள் ஆவார்.",
+    "question_en": "M's son Q is married to N. N's younger sister O is married to P. P is brother of Q. What is the relationship between O and M?",
+    "options_en": [
+      "sister",
+      "daughter-in-law",
+      "granddaughter",
+      "daughter"
+    ],
+    "explanation_en": "Q and P are brothers, sons of M. P's wife O is the daughter-in-law of M."
+  },
+  {
+    "id": 4,
+    "question": "A-என்பவர் B மற்றும் C-யின் மகள். D என்பவர் A-ன் சகோதரி. A யின் அத்தை E. எனில், E-ன் சகோதரி:",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "போதுமான தகவல் இல்லை"
+    ],
+    "correct": 3,
+    "explanation": "E என்பவர் தந்தையின் சகோதரியாக இருக்கலாம். ஆனால் B மற்றும் C-ல் யார் தந்தை/தாய் என்று தெளிவாக இல்லை, மேலும் E-க்கு வேறு சகோதரிகள் உள்ளார்களா என்றும் தெரியவில்லை.",
+    "question_en": "A is the daughter of B and C. D is sister of A. If A's aunt is E. then E's sister is:",
+    "options_en": [
+      "D",
+      "B",
+      "C",
+      "Not enough information"
+    ],
+    "explanation_en": "E may be father's sister. But it is not clear who is the father/mother of B and C and it is also not known if E has other sisters."
+  },
+  {
+    "id": 5,
+    "question": "A-என்பவர் B-ன் சகோதரி. B என்பவர் C-ன் சகோதரி. C என்பவர் D-ன் மகன். D என்பவர் A என்பவருக்கு என்ன உறவு?",
+    "options": [
+      "மகன்",
+      "மகள்",
+      "மாமா",
+      "தாய்"
+    ],
+    "correct": 1,
+    "explanation": "D என்பவர் C-ன் தந்தை அல்லது தாய். C, B, A மூவரும் உடன்பிறந்தவர்கள். எனவே D என்பவர் A-க்கும் தந்தை/தாய் ஆவார். A என்பவர் பெண் (சகோதரி). எனவே D-க்கு A மகள் ஆவார். (கேள்வியில் 'A என்பவருக்கு என்ன உறவு' என்பதற்குப் பதிலாக 'A என்பவர் D-க்கு என்ன உறவு' என இருக்க வேண்டும்)",
+    "question_en": "A is sister of B. B is C's sister. C is the son of D. What is the relationship of D to A?",
+    "options_en": [
+      "son",
+      "daughter",
+      "uncle",
+      "the mother"
+    ],
+    "explanation_en": "D is father or mother of C. C, B, A are siblings. So D is also father/mother of A. A is female (sister). So A is daughter of D. (The question should read 'What is the relationship of A to D' instead of 'What is the relationship of A')"
+  },
+  {
+    "id": 6,
+    "question": "பாலா என்பவர் ராணியைக் குறித்து கூறும்போது “அவளுடைய தாயின் ஒரே மகள் எனக்கு தாய் ஆவார்” எனக் கூறினார். எனில், பாலா ராணிக்கு என்ன உறவு?",
+    "options": [
+      "சகோதரன்",
+      "மகன்",
+      "மருமகன்",
+      "உடன் பிறவா சகோதரன்"
+    ],
+    "correct": 1,
+    "explanation": "ராணியின் தாயின் ஒரே மகள் ராணி தான். ராணி பாலாவிற்கு தாய் என்றால், பாலா ராணிக்கு மகன் ஆவார்.",
+    "question_en": "\"Her mother's only daughter is my mother,\" said Bala, referring to the queen. So, what is the relationship with Bala Rani?",
+    "options_en": [
+      "Brother",
+      "son",
+      "son-in-law",
+      "Be born brother"
+    ],
+    "explanation_en": "Rani is the only daughter of Rani's mother. If Rani is Bala's mother, Bala is Rani's son."
+  },
+  {
+    "id": 7,
+    "question": "ஒரு நபரைப் பார்த்து ராமன், “அவன் என்னுடைய தாயின் தாய்மாமனின் மகன்”, எனக் கூறினான். எனில், ராமனுக்கு அவர் என்ன உறவு?",
+    "options": [
+      "சகோதரன்",
+      "சித்தப்பா/பெரியப்பா",
+      "உடன் பிறவா சகோதரன்",
+      "தாய்மாமன்"
+    ],
+    "correct": 1,
+    "explanation": "தாயின் தாய்மாமனின் மகன் என்பவர் தாய்க்கு மாமன் முறை (Cousin uncle), ராமனுக்கு சித்தப்பா/பெரியப்பா (Uncle) முறை ஆவார்.",
+    "question_en": "Raman saw a person and said, \"He is the son of my mother's mother's father.\" So, what is his relation to Rama?",
+    "options_en": [
+      "Brother",
+      "Grandfather/Grandfather",
+      "Be born brother",
+      "maternal uncle"
+    ],
+    "explanation_en": "Mother's paternal uncle's son is cousin to mother and uncle to Raman."
+  },
+  {
+    "id": 8,
+    "question": "ஒரு நபரைப் பார்த்து முருகன், “அவர் என் தந்தையின் மாமாவின் மகன்” எனக் கூறினார். எனில், அவர் முருகனுக்கு என்ன உறவு?",
+    "options": [
+      "சித்தப்பா/பெரியப்பா",
+      "சகோதரன்",
+      "மருமகன்",
+      "உடன் பிறவா சகோதரன்"
+    ],
+    "correct": 0,
+    "explanation": "தந்தையின் மாமாவின் மகன் என்பவர் தந்தைக்கு உடன் பிறவா சகோதரன். எனவே முருகனுக்கு அவர் சித்தப்பா/பெரியப்பா ஆவார்.",
+    "question_en": "Murugan saw a person and said, \"He is my father's uncle's son.\" If so, what is his relation to Murugan?",
+    "options_en": [
+      "Grandfather/Grandfather",
+      "Brother",
+      "son-in-law",
+      "Be born brother"
+    ],
+    "explanation_en": "Father's uncle's son is father's half-brother. So he is stepfather/grandfather to Murugan."
+  },
+  {
+    "id": 9,
+    "question": "A x B என்பது A என்பவர் B-ன் தாய். A / B என்பது A என்பவர் B-ன் சகோதரி. A + B என்பது A என்பவர் B-ன் மகன். A - B என்பது A என்பவர் B-ன் தந்தை. கீழ்கண்ட எது P என்பவர் Q-ன் பாட்டி என்பதைக் குறிக்கும்?",
+    "options": [
+      "P + Q - R",
+      "Q x R / P",
+      "P - R / Q",
+      "P x R x Q"
+    ],
+    "correct": 3,
+    "explanation": "P x R x Q என்றால் P என்பவர் R-ன் தாய், R என்பவர் Q-ன் தாய். எனவே P என்பவர் Q-ன் பாட்டி ஆவார்.",
+    "question_en": "A x B means A is the mother of B. A / B means A is sister of B. A + B means A is son of B. A - B means A is the father of B. Which of the following indicates that P is grandmother of Q?",
+    "options_en": [
+      "P + Q - R",
+      "Q x R / P",
+      "P - R / Q",
+      "P x R x Q"
+    ],
+    "explanation_en": "P x R x Q means P is mother of R and R is mother of Q. So P is grandmother of Q."
+  },
+  {
+    "id": 10,
+    "question": "கீழ்கண்ட எது P என்பவர் R-ன் சகோதரர் என்பதைக் குறிக்கும்? (குறிப்பு: A x B = தாய், A / B = சகோதரி, A + B = மகன், A - B = தந்தை)",
+    "options": [
+      "R + Q / P",
+      "P + R - P",
+      "P - Q - R",
+      "R / P - Q"
+    ],
+    "correct": 3,
+    "explanation": "R / P - Q என்றால் R என்பவர் P-ன் சகோதரி, P என்பவர் Q-ன் தந்தை. இதில் P ஆண் எனத் தெரிகிறது மற்றும் R-ன் சகோதரர் என அறிய முடிகிறது.",
+    "question_en": "Which of the following indicates that P is brother of R? (Hint: A x B = mother, A / B = sister, A + B = son, A - B = father)",
+    "options_en": [
+      "R + Q / P",
+      "P + R - P",
+      "P-Q-R",
+      "R / P - Q"
+    ],
+    "explanation_en": "R / P - Q means R is sister of P and P is father of Q. In which P appears to be male and can be identified as R's brother."
+  },
+  {
+    "id": 11,
+    "question": "M என்பவர் N -ன் சகோதரர். B என்பவர் N-ன் சகோதரர். M என்பவர் D-ன் சகோதரர். எனில், கீழ்கண்டவைகளில் உறுதியானதாக அமையும் உறவு எது?",
+    "options": [
+      "N என்பவர் B-ன் சகோதரர்.",
+      "N என்பவர் D-ன் சகோதரர்.",
+      "M என்பவர் B-ன் சகோதரர்.",
+      "D என்பவர் M-ன் சகோதரர்."
+    ],
+    "correct": 2,
+    "explanation": "M என்பவர் N-ன் சகோதரர் (M ஆண்). B என்பவர் N-ன் சகோதரர் (B ஆண்). எனவே M என்பவர் B-க்கும் சகோதரர் ஆவார். N மற்றும் D-ன் பாலினம் தெரியாததால் மற்றவை உறுதியல்ல.",
+    "question_en": "M is brother of N. B is brother of N. M is brother of D. If so, which of the following is a stable relationship?",
+    "options_en": [
+      "N is brother of B.",
+      "N is brother of D.",
+      "M is brother of B.",
+      "D is brother of M."
+    ],
+    "explanation_en": "M is brother of N (M is male). B is brother of N (B is male). Hence M is also brother of B. Others are uncertain as the genders of N and D are unknown."
+  },
+  {
+    "id": 12,
+    "question": "A என்பவர் B -ன் சகோதரி. C என்பவர் B -ன் சகோதரர் எனில்",
+    "options": [
+      "A என்பவர் எப்போதும் C-ன் சகோதரர்.",
+      "C என்பவர் எப்போதும் A-ன் சகோதரர்.",
+      "B என்பவர் எப்போதும் A-ன் சகோதரர்.",
+      "B என்பவர் எப்போதும் A-ன் சகோதரி."
+    ],
+    "correct": 1,
+    "explanation": "C என்பவர் B-ன் சகோதரர் (C ஆண்). A என்பவர் B-ன் சகோதரி. எனவே C என்பவர் A-க்கும் உறுதியாக சகோதரர் ஆவார். B-ன் பாலினம் உறுதியாகத் தெரியாது.",
+    "question_en": "A is sister of B. If C is brother of B",
+    "options_en": [
+      "A is always C's brother.",
+      "C is always A's brother.",
+      "B is always A's brother.",
+      "B is always A's sister."
+    ],
+    "explanation_en": "C is brother of B (C is male). A is sister of B. Hence C is definitely brother of A. B's gender is not known for sure."
+  },
+  {
+    "id": 13,
+    "question": "Q என்பவர் P -ன் கணவர். Q என்பவர் C-ன் தந்தை. S என்பவர் P-ன் மகன். எனில் S-க்கு C என்ன உறவு?",
+    "options": [
+      "மாமனார்",
+      "உறுதியாக கூற இயலாது",
+      "சகோதரர்",
+      "சகோதரி"
+    ],
+    "correct": 1,
+    "explanation": "Q மற்றும் P கணவன் மனைவி. இவர்களுக்கு C மற்றும் S இரு குழந்தைகளா. S என்பவர் மகன். ஆனால் C ஆணோ பெண்ணோ எனத் தெரியாததால், உறவை உறுதியாகக் கூற இயலாது.",
+    "question_en": "Q is the husband of P. Q is father of C. S is the son of P. So what is the relation of S to C?",
+    "options_en": [
+      "father-in-law",
+      "Can't be sure",
+      "brother",
+      "sister"
+    ],
+    "explanation_en": "Q and P are husband and wife. They have two children C and S. S is the son. But since it is not known whether C is male or female, it is impossible to say the relationship with certainty."
+  },
+  {
+    "id": 14,
+    "question": "சுரேஷ் ஒரு சிறுவனைக் காட்டி, அவன் என் தந்தையின் மனைவியின் ஒரே மகனின் மகன் எனக் கூறினார். சுரேஷிற்கு அச்சிறுவனிடம் உள்ள உறவு யாது?",
+    "options": [
+      "தாத்தா",
+      "மாமா",
+      "தந்தை",
+      "கொள்ளுத்தாத்தா"
+    ],
+    "correct": 2,
+    "explanation": "தந்தையின் மனைவி = தாய். தாயின் ஒரே மகன் = சுரேஷ். சுரேஷின் மகன் = அந்தச் சிறுவன். எனவே சுரேஷ் அச்சிறுவனுக்கு தந்தை.",
+    "question_en": "Suresh shows a boy and says he is the only son of my father's wife. What is Suresh's relationship with Achiruvan?",
+    "options_en": [
+      "grandfather",
+      "uncle",
+      "father",
+      "great grandfather"
+    ],
+    "explanation_en": "Father's wife = mother. Mother's only son = Suresh. Suresh's son = that boy. So Suresh is Achiruvan's father."
+  },
+  {
+    "id": 15,
+    "question": "x - என்பவர் Y -ஐ அறிமுகம் செய்யும் போது, அவர் என்னுடைய, தந்தையின் தந்தையினுடைய பேத்தியின் கணவர் எனக் கூறினார். எனில் x-ற்கு Y என்ன உறவு?",
+    "options": [
+      "சகோதரன்",
+      "மகன்",
+      "மைத்துனன்",
+      "மருமகன்"
+    ],
+    "correct": 2,
+    "explanation": "தந்தையின் தந்தை = தாத்தா. தாத்தாவின் பேத்தி = சகோதரி. சகோதரியின் கணவர் = மைத்துனன்.",
+    "question_en": "When x introduces Y, he says he is my father's father's granddaughter's husband. So what is the relationship of Y to x?",
+    "options_en": [
+      "Brother",
+      "son",
+      "brother-in-law",
+      "son-in-law"
+    ],
+    "explanation_en": "Father's father = grandfather. Grandfather's granddaughter = sister. Sister's husband = brother-in-law."
+  },
+  {
+    "id": 16,
+    "question": "A+B என்பது A என்பவர் B சகோதரர், A- B என்பது A என்பவர் B சகோதரி, A x B என்பது A என்பவர் B தந்தை, A / B என்பது A என்பவர் B தாய். எனில் கீழ்கண்டவற்றில் எது ‘F’ என்பவர் W-ன் தந்தை என குறிப்பிடுவதாக அமையும்?",
+    "options": [
+      "F / R + W",
+      "F + R x W",
+      "F x R - W",
+      "F x R / W"
+    ],
+    "correct": 2,
+    "explanation": "F x R - W என்றால் F என்பவர் R-ன் தந்தை, R என்பவர் W-ன் சகோதரி. எனவே F என்பவர் W-க்கும் தந்தை ஆவார்.",
+    "question_en": "A+B means A is brother of B, A- B means A is sister of B, A x B means A is father of B, A / B means A is mother of B. Which of the following would indicate that 'F' is the father of W?",
+    "options_en": [
+      "F / R + W",
+      "F + R x W",
+      "F x R - W",
+      "F x R / W"
+    ],
+    "explanation_en": "F x R - W means F is father of R and R is sister of W. So F is also father of W."
+  },
+  {
+    "id": 17,
+    "question": "F-ன் மகன் E, D-ன் மகன் ஆவார். P என்பவர் R-ன் மகள் ஆவார். N என்பவர் P-ன் சகோதரி மற்றும் E-ன் மகள் ஆவார். எனில் E- க்கு R உடன் உள்ள உறவு யாது?",
+    "options": [
+      "சகோதரன்",
+      "தந்தை",
+      "கணவர்",
+      "மாமா"
+    ],
+    "correct": 2,
+    "explanation": "E மற்றும் R ஆகியோரின் குழந்தைகள் P மற்றும் N. E என்பவர் ஆண் (F, D-ன் மகன்). எனவே E என்பவர் R-க்கு கணவர் ஆவார்.",
+    "question_en": "F's son E is D's son. P is daughter of R. N is sister of P and daughter of E. So what is the relation of E to R?",
+    "options_en": [
+      "Brother",
+      "father",
+      "Husband",
+      "uncle"
+    ],
+    "explanation_en": "Children of E and R are P and N. E is male (son of F, D). So E is husband of R."
+  },
+  {
+    "id": 18,
+    "question": "ஒரு பெண் குழந்தையைப்பார்த்து ராம், \"இவள் என்னுடைய தந்தையின் ஒரே குழந்தையின் மகள் ஆவார்” எனக் குறிப்பிடுகிறார். அவ்வாறெனில், ராமனின் மனைவியை அந்தப் பெண் குழந்தை எவ்வாறு அழைக்கும்?",
+    "options": [
+      "மகள்",
+      "அம்மா",
+      "பேத்தி",
+      "பாட்டி"
+    ],
+    "correct": 1,
+    "explanation": "தந்தையின் ஒரே குழந்தை = ராம். ராமின் மகள் = அந்தப் பெண் குழந்தை. ராமனின் மனைவியை அப்பெண் குழந்தை அம்மா என்று அழைக்கும்.",
+    "question_en": "Looking at a girl child, Ram mentions, \"She is the daughter of my father's only child.\" So, how will the girl child call Rama's wife?",
+    "options_en": [
+      "daughter",
+      "mother",
+      "granddaughter",
+      "Grandmother"
+    ],
+    "explanation_en": "Father's only child = Ram. Ram's daughter = that girl child. The girl calls Rama's wife mother."
+  },
+  {
+    "id": 19,
+    "question": "ஒரு பையனைப் பார்த்து கண்ணன், “இவன் என் தாயின் ஒரே மகளின் மகன்” என்று கூறுகின்றார். அவ்வாறெனில் கண்ணன், அந்த பையனுக்கு என்ன உறவு?",
+    "options": [
+      "மகன்",
+      "பேரன்",
+      "பாட்டன்",
+      "தந்தை"
+    ],
+    "correct": 3,
+    "explanation": "ஆங்கிலப் பதிப்பில் \"He is the son of my mother's only son\" என்றுள்ளது. தாயின் ஒரே மகன் = கண்ணன். கண்ணனின் மகன் = அந்தப் பையன். கண்ணன் அந்தப் பையனுக்கு தந்தை. (தமிழில் தட்டச்சு பிழையாக 'ஒரே மகளின் மகன்' என உள்ளது, ஆனால் விடை தந்தை என கொடுக்கப்பட்டுள்ளது).",
+    "question_en": "Seeing a boy, Kannan says, \"This is the son of my mother's only daughter.\" So Kannan, what is the relationship with that boy?",
+    "options_en": [
+      "son",
+      "Grandson",
+      "Patton",
+      "father"
+    ],
+    "explanation_en": "The English version says \"He is the son of my mother's only son\". Mother's only son = Kannan. Kannan's son = that boy. Kannan is the boy's father. (Typographical error in Tamil as 'son of only daughter', but the answer is given as father)."
+  },
+  {
+    "id": 20,
+    "question": "சினேகா புகைப்படத்தில் உள்ள நபரைக்காட்டி, “He is the father of my sister’s brother” எனக் கூறினாள். எனில், அந்த நபர், சினேகாவிற்கு என்ன உறவு?",
+    "options": [
+      "தாய்",
+      "தந்தை",
+      "தாய்மாமன்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "explanation": "சகோதரியின் சகோதரன் = தனது சகோதரன். சகோதரனின் தந்தை = தனது தந்தை.",
+    "question_en": "Sneha pointed to the person in the photo and said, “He is the father of my sister's brother”. So, what is that person's relationship to Seneca?",
+    "options_en": [
+      "the mother",
+      "father",
+      "maternal uncle",
+      "None of these"
+    ],
+    "explanation_en": "Sister's brother = own brother. Brother's father = his father."
+  },
+  {
+    "id": 21,
+    "question": "X - Z என்பது X என்பவர் Z-ன் தாய், X x Z என்பது X என்பவர் Z-ன் தந்தை, X + Z என்பது X என்பவர் Z-ன் மகள் எனில், M - N x T + Q என்பதற்கு கீழ்கண்ட எக்கூற்று சரியானது அல்ல?",
+    "options": [
+      "T என்பவர் N-ன் மகள்.",
+      "N என்பவர் Q-ன் மனைவி.",
+      "Q என்பவர் N-ன் மனைவி.",
+      "T என்பவர் M-ன் பாட்டி."
+    ],
+    "correct": 0,
+    "explanation": "M என்பவர் N-ன் தாய், N என்பவர் T-ன் தந்தை, T என்பவர் Q-ன் மகள். எனவே N என்பவர் Q-ன் கணவர் (Q மனைவி). T என்பவர் N மற்றும் Q-ன் மகள். T என்பவர் M-ன் பாட்டி என்பது தவறான கூற்று.",
+    "question_en": "If X - Z means X is mother of Z, X x Z means X is father of Z, X + Z means X is daughter of Z, then M - N x T + Q which of the following statements is not true?",
+    "options_en": [
+      "T is daughter of N.",
+      "N is wife of Q.",
+      "Q is wife of N.",
+      "T is M's grandmother."
+    ],
+    "explanation_en": "M is mother of N, N is father of T, T is daughter of Q. So N is Q's husband (Q is wife). T is daughter of N and Q. It is a false statement that T is the grandmother of M."
+  },
+  {
+    "id": 22,
+    "question": "A என்பவர் B-ன் சகோதரி, C என்பவர் B-ன் தாய், D என்பவர் C-ன் தந்தை, E என்பவர் D-ன் தாய். எனில் D- க்கு A-என்ன உறவு?",
+    "options": [
+      "பாட்டி",
+      "தாத்தா",
+      "மகள்",
+      "பேத்தி"
+    ],
+    "correct": 3,
+    "explanation": "C என்பவர் A-ன் தாய். D என்பவர் C-ன் தந்தை (A-ன் தாத்தா). எனவே D-க்கு A பேத்தி ஆவாள்.",
+    "question_en": "A is sister of B, C is mother of B, D is father of C, E is mother of D. So what is the relation of D to A?",
+    "options_en": [
+      "Grandmother",
+      "grandfather",
+      "daughter",
+      "granddaughter"
+    ],
+    "explanation_en": "C is A's mother. D is father of C (grandfather of A). So A is granddaughter of D."
+  },
+  {
+    "id": 23,
+    "question": "Q -ன் தாயார், P -ன் சகோதரி மற்றும் M -ன் மகள் ஆவார். S என்பவர் P-ன் மகள் மற்றும் T-ன் சகோதரி ஆவார் .T-க்கு M-என்ன உறவு எது?",
+    "options": [
+      "பாட்டி",
+      "தந்தை",
+      "தாத்தா",
+      "தாத்தா(Or) பாட்டி"
+    ],
+    "correct": 3,
+    "explanation": "M-ன் குழந்தைகள் P மற்றும் Q-ன் தாய். P-ன் குழந்தைகள் S மற்றும் T. எனவே T-க்கு M தாத்தா அல்லது பாட்டியாவார்.",
+    "question_en": "Q is mother, sister of P and daughter of M. S is daughter of P and sister of T. What is the relationship of T to M?",
+    "options_en": [
+      "Grandmother",
+      "father",
+      "grandfather",
+      "Grandfather(or) grandmother"
+    ],
+    "explanation_en": "M's children are P and Q's mother. P's children are S and T. Hence M is the grandparent of T."
+  },
+  {
+    "id": 24,
+    "question": "சக்திவேல் என்பவர், “கணேஷின் தாயார், என்னுடைய தாயின் ஒரே மகள்” எனக் கூறினார். எனில், சக்திவேலிற்கும் கணேஷிற்கும் உள்ள உறவு என்ன?",
+    "options": [
+      "தாத்தா",
+      "தந்தை",
+      "சகோதரன்",
+      "இவற்றில் எதுவுமில்லை"
+    ],
+    "correct": 3,
+    "explanation": "தாயின் ஒரே மகள் சக்திவேலின் சகோதரி. சகோதரியின் மகன் கணேஷ். சக்திவேல் கணேஷிற்கு தாய்மாமன் ஆவார். (விருப்பங்களில் இல்லை).",
+    "question_en": "Sakthivel said, \"Ganesh's mother is my mother's only daughter.\" So, what is the relationship between Sakthivel and Ganesh?",
+    "options_en": [
+      "grandfather",
+      "father",
+      "Brother",
+      "None of these"
+    ],
+    "explanation_en": "Mother's only daughter is Sakthivel's sister. Sister's son Ganesh. Sakthivel is Ganesh's maternal grandfather. (not in options)."
+  },
+  {
+    "id": 25,
+    "question": "A என்பவர் B -ன் சகோதரர் . B என்பவர் C-ன் சகோதரர். D என்பவர் A-ன் தந்தை. மேற்கண்ட வாக்கியங்களின் அடிப்படையில், கீழே கொடுக்கப்பட்ட வாக்கியங்களில் எது உறுதியான உறவுமுறை அல்ல?",
+    "options": [
+      "B என்பவர் A -ன் சகோதரர்",
+      "B என்பவர் D -ன் மகன்",
+      "C என்பவர் A -ன் சகோதரர்",
+      "A,B மற்றும் C ஆகியோர் D -ன் குழந்தைகள்."
+    ],
+    "correct": 2,
+    "explanation": "A மற்றும் B ஆண் (சகோதரர்கள்). ஆனால் C-ன் பாலினம் தெரியாததால், C என்பவர் A-ன் சகோதரரா அல்லது சகோதரியா என்பதை உறுதியாகக் கூற இயலாது.",
+    "question_en": "A is brother of B. B is C's brother. D is father of A. Based on the above sentences, which of the sentences given below is not a definite relation?",
+    "options_en": [
+      "B is brother of A",
+      "B is the son of D",
+      "C is A's brother",
+      "A, B and C are children of D."
+    ],
+    "explanation_en": "A and B are male (brothers). But since C's gender is unknown, it is impossible to say for sure whether C is A's brother or sister."
+  }
+]

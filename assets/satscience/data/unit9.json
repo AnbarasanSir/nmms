@@ -1,0 +1,2082 @@
+[
+  {
+    "id": 1,
+    "question": "பின்வருவனவற்றுள் மின்மூலம் எது?",
+    "options": [
+      "மின்விசிறி",
+      "காற்றாலை",
+      "மிக்ஸி",
+      "அனைத்தும்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a source of electricity?",
+    "options_en": [
+      "Fan",
+      "windmill",
+      "Mix",
+      "Everything."
+    ],
+    "explanation": "பின்வருவனவற்றுள் மின்மூலம் காற்றாலை ஆகும்.",
+    "explanation_en": "Windmill is a source of electricity."
+  },
+  {
+    "id": 2,
+    "question": "பின்வருவனவற்றுள் மின்மூலம் அல்லாதது எது?",
+    "options": [
+      "சூரிய மின்கலன்",
+      "காற்றாலை",
+      "நீர்மின் நிலையம்",
+      "மின்விசிறி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not an electrical source?",
+    "options_en": [
+      "Solar cell",
+      "windmill",
+      "Hydroelectric power station",
+      "Fan"
+    ],
+    "explanation": "பின்வருவனவற்றுள் மின்மூலம் அல்லாதது மின்விசிறி ஆகும்.",
+    "explanation_en": "Fan is not an electrical source."
+  },
+  {
+    "id": 3,
+    "question": "பின்வருவனவற்றுள் மின்மூலம் அல்லாதது எது?",
+    "options": [
+      "அனல்மின் நிலையம்",
+      "அணுமின் நிலையம்",
+      "நீர்மின் நிலையம்",
+      "மின்சலவைப்பெட்டி"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not an electrical source?",
+    "options_en": [
+      "Power station",
+      "Nuclear power plant",
+      "Hydroelectric power station",
+      "Electric washing machine"
+    ],
+    "explanation": "பின்வருவனவற்றுள் மின்மூலம் அல்லாதது மின்சலவைப்பெட்டி ஆகும்.",
+    "explanation_en": "Electric washing machine is not an electrical source."
+  },
+  {
+    "id": 4,
+    "question": "பின்வருவனவற்றுள் எங்கு டர்பைன் சக்கரத்தை சுழலச் செய்து மின் உற்பத்தி செய்யப்படுகிறது?",
+    "options": [
+      "காற்றாலை",
+      "அனல், அணுமின் நிலையம்",
+      "நீர்மின் நிலையம்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Where among the following is a turbine wheel rotated to produce electricity?",
+    "options_en": [
+      "windmill",
+      "Thermal, nuclear power plant",
+      "Hydroelectric power station",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 5,
+    "question": "பின்வருவனவற்றுள் எங்கு டர்பைன் சக்கரத்தை சுழலச் செய்து மின் உற்பத்தி செய்யப்படுவதில்லை?",
+    "options": [
+      "காற்றாலை",
+      "அனல், அணுமின் நிலையம்",
+      "சூரிய மின்பலகை",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following does not generate electricity by rotating a turbine wheel?",
+    "options_en": [
+      "windmill",
+      "Thermal, nuclear power plant",
+      "Solar panel",
+      "Everything"
+    ],
+    "explanation": "சூரிய மின்பலகை",
+    "explanation_en": "Solar panel"
+  },
+  {
+    "id": 6,
+    "question": "பொருத்துக.\n(i) அணுமின் நிலையம் - A. கன்னியாகுமரி, நாகர்கோவில்\n(ii) அனல்மின் நிலையம் - B. கல்பாக்கம், கூடங்குளம்\n(iii) நீர்மின் நிலையம் - C. இந்தியா, பூமத்திய ரேகை நாடுகள்\n(iv) காற்றாலை - D. நெய்வேலி, தூத்துக்குடி\n(v) சூரியமின் ஆற்றல் - E. மேட்டூர், குந்தா, பைகாரா",
+    "options": [
+      "i. A, ii. B, iii. C, iv. D, v. E",
+      "i. B, ii. D, iii. C, iv. A, v. E",
+      "i. B, ii. D, iii. E, iv. A, v. C",
+      "i. C, ii. D, iii. E, iv. A, v. B"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) Nuclear Power Plant - A. Kanyakumari, Nagercoil\n(ii) Thermal Power Station - B. Kalpakkam, Kudankulam\n(iii) Hydroelectric power station - C. India, Equatorial countries\n(iv) Windmill - D. Neyveli, Thoothukudi\n(v) Energy of Sun - E. Mettur, Kunta, Baikara",
+    "options_en": [
+      "i. A, ii. B, iii. C, iv. D, v. E",
+      "i. B, ii. D, iii. C, iv. A, v. E",
+      "i. B, ii. D, iii. E, iv. A, v. C",
+      "i. C, ii. D, iii. E, iv. A, v. B"
+    ],
+    "explanation": "i. B, ii. D, iii. E, iv. A, v. C",
+    "explanation_en": "i. B, ii. D, iii. E, iv. A, v. C"
+  },
+  {
+    "id": 7,
+    "question": "வேதி ஆற்றலை மின்னாற்றலாக மாற்றும் கருவி எது?",
+    "options": [
+      "மின்விசிறி",
+      "மின்கலன்",
+      "மின்மாற்றி",
+      "மின்சலவைப்பெட்டி"
+    ],
+    "correct": 1,
+    "question_en": "Which device converts chemical energy into electrical energy?",
+    "options_en": [
+      "Fan",
+      "Battery",
+      "Transformer",
+      "Electric washing machine"
+    ],
+    "explanation": "வேதி ஆற்றலை மின்னாற்றலாக மாற்றும் கருவி மின்கலன் ஆகும்.",
+    "explanation_en": "Battery"
+  },
+  {
+    "id": 8,
+    "question": "ஒருமுறை மட்டுமே பயன்படுத்தக்கூடிய மின்கலனின் வகை எது?",
+    "options": [
+      "முதன்மை மின்கலன்",
+      "துணை மின்கலன்",
+      "1 மற்றும் 2",
+      "எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "What is the type of disposable battery?",
+    "options_en": [
+      "Primary battery",
+      "Auxiliary battery",
+      "1 and 2",
+      "Nothing"
+    ],
+    "explanation": "ஒருமுறை மட்டுமே பயன்படுத்தக்கூடிய மின்கலனின் வகை முதன்மை மின்கலன் ஆகும்.",
+    "explanation_en": "Primary battery is the type of disposable battery."
+  },
+  {
+    "id": 9,
+    "question": "பலமுறை மின்னேற்றம் செய்து பயன்படுத்தக்கூடிய மின்கலனின் வகை எது?",
+    "options": [
+      "முதன்மை மின்கலன்",
+      "துணை மின்கலன்",
+      "லெக்லாஞ்சி மின்கலன்",
+      "உலர் மின்கலன்"
+    ],
+    "correct": 1,
+    "question_en": "Which type of rechargeable battery can be used multiple times?",
+    "options_en": [
+      "Primary battery",
+      "Auxiliary battery",
+      "Leclanchi Battery",
+      "Dry battery"
+    ],
+    "explanation": "பலமுறை மின்னேற்றம் செய்து பயன்படுத்தக்கூடிய மின்கலனின் வகை துணை மின்கலன் ஆகும்.",
+    "explanation_en": "Auxiliary battery"
+  },
+  {
+    "id": 10,
+    "question": "பின்வரும் கூற்றுகளில் தவறானது எது?",
+    "options": [
+      "முதன்மை மின்கலனில் நடைபெறும் வேதிவினை ஒரு மீளா வினை",
+      "முதன்மை மின்கலனில் நடைபெறும் வேதிவினை ஒரு மீள் வினை",
+      "துணை மின்கலனில் நடைபெறும் வேதிவினை ஒரு மீள் வினை",
+      "உலர் மின்கலன் முதன்மை மின்கலன் வகையைச் சார்ந்ததாகும்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is false?",
+    "options_en": [
+      "The chemical reaction that takes place in a primary battery is a reversible reaction",
+      "The chemical reaction that takes place in a primary battery is a reactive reaction",
+      "The chemical reaction that takes place in a secondary battery is a reactive reaction",
+      "Dry battery is a type of primary battery."
+    ],
+    "explanation": "முதன்மை மின்கலனில் நடைபெறும் வேதிவினை ஒரு மீள் வினை",
+    "explanation_en": "The chemical reaction that takes place in a primary battery is a reactive reaction"
+  },
+  {
+    "id": 11,
+    "question": "பின்வருவனவற்றுள் மின்கல அடுக்கை குறிப்பது எது?",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "அனைத்தும்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following represents a cell layer?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Everything."
+    ],
+    "explanation": "பின்வருவனவற்றுள் மின்கல அடுக்கை குறிப்பது படம் 3 ஆகும்.",
+    "explanation_en": "Figure 3"
+  },
+  {
+    "id": 12,
+    "question": "ஒரு மின்சுற்றில் மின்கலன்கள் எவ்வாறு அடுக்கப்பட்டால் மின்விளக்கு ஒளிரும்?",
+    "options": [
+      "(A) ல் உள்ளவாறு அடுக்கப்பட்டால்",
+      "(B) ல் உள்ளவாறு அடுக்கப்பட்டால்",
+      "(A) மற்றும் (B) ஆகிய இரண்டிலும் உள்ளவாறு அடுக்கப்பட்டால்",
+      "உறுதியாகக் கூற இயலாது."
+    ],
+    "correct": 0,
+    "question_en": "How do cells arranged in a circuit make a light bulb glow?",
+    "options_en": [
+      "If stacked as in (A).",
+      "If stacked as in (B).",
+      "If stacked as in both (A) and (B).",
+      "Can't be sure."
+    ],
+    "explanation": "(A) ல் உள்ளவாறு அடுக்கப்பட்டால்",
+    "explanation_en": "If stacked as in (A)."
+  },
+  {
+    "id": 13,
+    "question": "உலர் மின்கலத்தில் மின்பகுளியாக செயல்படுவது",
+    "options": [
+      "அமோனியம் குளோரைடு (NH4CI)",
+      "மாங்கனீசு டை ஆக்ஸைடு (MnO2)",
+      "துத்தநாகத் தகடு (Zn)",
+      "கார்பன் தண்டு (C)"
+    ],
+    "correct": 0,
+    "question_en": "Acting as an electrolyte in a dry cell",
+    "options_en": [
+      "Ammonium chloride (NH4CI)",
+      "Manganese Dioxide (MnO2)",
+      "Zinc Plate (Zn)",
+      "Carbon rod (C)"
+    ],
+    "explanation": "அமோனியம் குளோரைடு (NH4CI)",
+    "explanation_en": "Ammonium chloride (NH4CI)"
+  },
+  {
+    "id": 14,
+    "question": "உலர் மின்கலத்தில் எதிர் மின்வாய் (Anode) ஆக செயல்படுவது",
+    "options": [
+      "அமோனியம் குளோரைடு (NH4CI)",
+      "மாங்கனீசு டை ஆக்ஸைடு (MnO2)",
+      "துத்தநாகத் தகடு (Zn)",
+      "கார்பன் தண்டு (C)"
+    ],
+    "correct": 2,
+    "question_en": "Acting as an anode in a dry cell",
+    "options_en": [
+      "Ammonium chloride (NH4CI)",
+      "Manganese Dioxide (MnO2)",
+      "Zinc Plate (Zn)",
+      "Carbon rod (C)"
+    ],
+    "explanation": "துத்தநாகத் தகடு (Zn)",
+    "explanation_en": "Zinc Plate (Zn)"
+  },
+  {
+    "id": 15,
+    "question": "உலர் மின்கலத்தில் நேர் மின்வாய் (Cathode) ஆக செயல்படுவது",
+    "options": [
+      "அமோனியம் குளோரைடு (NH4CI)",
+      "மாங்கனீசு டை ஆக்ஸைடு (MnO2)",
+      "துத்தநாகத் தகடு (Zn)",
+      "கார்பன் தண்டு (C)"
+    ],
+    "correct": 3,
+    "question_en": "Acting as a cathode in a dry cell",
+    "options_en": [
+      "Ammonium chloride (NH4CI)",
+      "Manganese Dioxide (MnO2)",
+      "Zinc Plate (Zn)",
+      "Carbon rod (C)"
+    ],
+    "explanation": "கார்பன் தண்டு (C)",
+    "explanation_en": "Carbon rod (C)"
+  },
+  {
+    "id": 16,
+    "question": "உலர் மின்கலத்தில் மின்முனைவாக்கியாக செயல்படுவது",
+    "options": [
+      "அமோனியம் குளோரைடு (NH4CI)",
+      "மாங்கனீசு டை ஆக்ஸைடு (MnO2)",
+      "துத்தநாகத் தகடு (Zn)",
+      "கார்பன் தண்டு (C)"
+    ],
+    "correct": 1,
+    "question_en": "Acting as an electrode in a dry cell",
+    "options_en": [
+      "Ammonium chloride (NH4CI)",
+      "Manganese Dioxide (MnO2)",
+      "Zinc Plate (Zn)",
+      "Carbon rod (C)"
+    ],
+    "explanation": "மாங்கனீசு டை ஆக்ஸைடு (MnO2)",
+    "explanation_en": "Manganese Dioxide (MnO2)"
+  },
+  {
+    "id": 17,
+    "question": "தொடர்பற்றதைத் தேர்ந்தெடு.",
+    "options": [
+      "டேனியல் மின்கலன்",
+      "எடிசன் சேமக்கலன்",
+      "உலர் மின்கலன்",
+      "வோல்டா மின்கலன்"
+    ],
+    "correct": 1,
+    "question_en": "Select Irrelevant.",
+    "options_en": [
+      "DANIEL ELECTRONIC",
+      "Edison Semakalan",
+      "Dry battery",
+      "Volta battery"
+    ],
+    "explanation": "எடிசன் சேமக்கலன்",
+    "explanation_en": "Edison Semakalan"
+  },
+  {
+    "id": 18,
+    "question": "பொருத்துக.\n(i) - A. மின்கலன்\n(ii) - B. திறந்த சாவி\n(iii) - C. ஒளிரும் விளக்கு\n(iv) - D. ஒளிரா விளக்கு\n(v) - E. மின்கல அடுக்கு",
+    "options": [
+      "i. A, ii. B, iii. C, iv. D, v. E",
+      "i. B, ii. D, iii. C, iv. A, v. E",
+      "i. E, ii. D, iii. B, iv. C, v. A",
+      "i. C, ii. D, iii. E, iv. A, v. B"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) - A. Battery\n(ii) - B. Open Key\n(iii) - C. Incandescent lamp\n(iv) - D. Incandescent lamp\n(v) - E. Battery layer",
+    "options_en": [
+      "i. A, ii. B, iii. C, iv. D, v. E",
+      "i. B, ii. D, iii. C, iv. A, v. E",
+      "i. E, ii. D, iii. B, iv. C, v. A",
+      "i. C, ii. D, iii. E, iv. A, v. B"
+    ],
+    "explanation": "i. E, ii. D, iii. B, iv. C, v. A",
+    "explanation_en": "i. E, ii. D, iii. B, iv. C, v. A"
+  },
+  {
+    "id": 19,
+    "question": "மூடிய மின்சுற்றைக் குறிக்கும் படம் எது?",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "1, 2 ஆகிய இரண்டும் சரி",
+      "1, 2 ஆகிய இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Which figure represents a closed circuit?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Both 1 and 2 are correct",
+      "Both 1 and 2 are wrong"
+    ],
+    "explanation": "மூடிய மின்சுற்றைக் குறிக்கும் படம் படம் 2 ஆகும்.",
+    "explanation_en": "Figure 2"
+  },
+  {
+    "id": 20,
+    "question": "கொடுக்கப்பட்டுள்ள மின்சுற்றில், எந்த சாவியை (L,M அல்லது N) மூடினால் மின்விளக்கு எரியும்?",
+    "options": [
+      "சாவி L மட்டும்",
+      "சாவி M மட்டும்",
+      "சாவிகள் M மற்றும் N மட்டும்",
+      "சாவி L அல்லது M மற்றும் N"
+    ],
+    "correct": 3,
+    "question_en": "In the given circuit, closing which switch (L,M or N) will light the lamp?",
+    "options_en": [
+      "Key L only",
+      "Key M only",
+      "Keys M and N only",
+      "Key L or M and N"
+    ],
+    "explanation": "சாவி L அல்லது M மற்றும் N",
+    "explanation_en": "Key L or M and N"
+  },
+  {
+    "id": 21,
+    "question": "எளிய மின்சுற்றைக் குறிப்பிடுவது எது?",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "What represents a simple circuit?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Everything"
+    ],
+    "explanation": "எளிய மின்சுற்றைக் குறிப்பிடுவது படம் 1 ஆகும்.",
+    "explanation_en": "Figure 1"
+  },
+  {
+    "id": 22,
+    "question": "தொடர் மின்சுற்றைக் குறிப்பிடுவது எது?",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "What refers to series circuit?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Everything"
+    ],
+    "explanation": "தொடர் மின்சுற்றைக் குறிப்பிடுவது படம் 2 ஆகும்.",
+    "explanation_en": "Figure 2"
+  },
+  {
+    "id": 23,
+    "question": "பக்க மின்சுற்றைக் குறிப்பிடுவது எது?",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "What refers to side circuit?",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Everything"
+    ],
+    "explanation": "பக்க மின்சுற்றைக் குறிப்பிடுவது படம் 3 ஆகும்.",
+    "explanation_en": "Figure 3"
+  },
+  {
+    "id": 24,
+    "question": "கொடுக்கப்பட்டுள்ள மின்சுற்றைக் கவனி. சுற்றில் இரு மின்விளக்குகள் மட்டும் ஒளிர வேண்டும் எனில், பின்வரும் எந்தெந்த சாவிகள் மூடப்பட வேண்டும்?",
+    "options": [
+      "S1, S2 மற்றும் S4 மட்டும்",
+      "S1, S3 மற்றும் S5 மட்டும்",
+      "S2, S3 மற்றும் S4 மட்டும்",
+      "S2, S3 மற்றும் S5 மட்டும்"
+    ],
+    "correct": 2,
+    "question_en": "Observe the given circuit. If only two lamps in the circuit are to light, which of the following switches must be closed?",
+    "options_en": [
+      "S1, S2 and S4 only",
+      "S1, S3 and S5 only",
+      "S2, S3 and S4 only",
+      "S2, S3 and S5 only"
+    ],
+    "explanation": "S2, S3 மற்றும் S4 மட்டும்",
+    "explanation_en": "S2, S3 and S4 only"
+  },
+  {
+    "id": 25,
+    "question": "மூன்று மின்சுற்றுக்களைக்கவனி. ஒவ்வொன்றும் ஒரு கண்ணாடித் தண்டு (G), ஒரு ஸ்டீல் தண்டு (S) மற்றும் ஒரு மரக்கட்டைத் தண்டு (W) ஆகியவற்றைக் கொண்டுள்ளது. எனில், பின்வரும் எந்த மின்சுற்றுக்களின் மின்விளக்குகள் ஒளிராது?",
+    "options": [
+      "A மட்டும்",
+      "C மட்டும்",
+      "A மற்றும் B மட்டும்",
+      "A, B மற்றும் C"
+    ],
+    "correct": 1,
+    "question_en": "Consider three circuits. Each consists of a glass shaft (G), a steel shaft (S) and a wooden shaft (W). If so, which of the following circuits will not light the bulbs?",
+    "options_en": [
+      "A only",
+      "C only",
+      "A and B only",
+      "A, B and C"
+    ],
+    "explanation": "C மட்டும்",
+    "explanation_en": "C only"
+  },
+  {
+    "id": 26,
+    "question": "A மற்றும் B ஆகிய இரு மின்சுற்றுப்படங்களையும் உற்றுநோக்கி எதில் அனைத்து மின்விளக்குகளும் பிரகாசமாக ஒளிரும் என்பதை கண்டறிக",
+    "options": [
+      "A",
+      "B",
+      "A, B",
+      "மூன்று விளக்குகள் இருப்பதால் அனைத்தும் மங்கலாகவே ஒளிரும்."
+    ],
+    "correct": 1,
+    "question_en": "Look closely at both circuits A and B to find out which all the bulbs glow brightly.",
+    "options_en": [
+      "A",
+      "B",
+      "A, B",
+      "There are three lights and all are dimly lit."
+    ],
+    "explanation": "B",
+    "explanation_en": "B"
+  },
+  {
+    "id": 27,
+    "question": "A மற்றும் B ஆகிய இரு மின்சுற்றுப்படங்களையும் ஒப்பிட எதில் அனைத்து மின்விளக்குகளும் நீண்ட நேரம் ஒளிரும் என்பதை கண்டறிக.",
+    "options": [
+      "A",
+      "B",
+      "A, B",
+      "மூன்று விளக்குகள் இருப்பதால் அனைத்தும் சிறிது நேரமே ஒளிரும்."
+    ],
+    "correct": 0,
+    "question_en": "Compare the two circuits A and B and find in which all the bulbs glow longer.",
+    "options_en": [
+      "A",
+      "B",
+      "A, B",
+      "There are three lights and all are lit for a short time."
+    ],
+    "explanation": "A",
+    "explanation_en": "A"
+  },
+  {
+    "id": 28,
+    "question": "தவறான கூற்றைத் தேர்வு செய்க.",
+    "options": [
+      "தொடரிணைப்பில் மின்னழுத்தத்தை மட்டுமே பகிர்ந்து கொள்வதால் மின்கலன் நீண்ட நேரம் உழைக்கும்.",
+      "தொடரிணைப்பில் மின்னழுத்தத்தை பகிர்ந்து கொள்வதால் மின்விளக்குகள் சற்று மங்கலாகவே ஒளிரும்.",
+      "பக்க இணைப்பில் மின்னோட்டத்தை மட்டுமே பகிர்ந்து கொள்வதால் மின்கலன் நீண்ட நேரம் உழைக்கும்.",
+      "பக்க இணைப்பில் மின்னோட்டத்தை பகிர்ந்து கொள்வதால் மின்விளக்குகள் பிரகாசமாக ஒளிரும்."
+    ],
+    "correct": 0,
+    "question_en": "Choose the incorrect statement.",
+    "options_en": [
+      "As the battery only shares the voltage in series, it will last longer.",
+      "Sharing the voltage in series causes the bulbs to glow slightly dimmer.",
+      "The battery will last longer as it only shares current in the side connection.",
+      "The bulbs glow brighter because they share the current in the side connection."
+    ],
+    "explanation": "தொடரிணைப்பில் மின்னழுத்தத்தை மட்டுமே பகிர்ந்து கொள்வதால் மின்கலன் நீண்ட நேரம் உழைக்கும்.",
+    "explanation_en": "As the battery only shares the voltage in series, it will last longer."
+  },
+  {
+    "id": 29,
+    "question": "பின்வரும் கூற்றுகளில் தவறானது எது?",
+    "options": [
+      "தொடரிணைப்பில் மின்னழுத்தம் (V) சமமாக பகிர்ந்தளிக்கப்படும்.",
+      "பக்க இணைப்பில் மின்னோட்டம் (I) சமமாக பகிர்ந்தளிக்கப்படும்.",
+      "தொடரிணைப்பில் V = V1+V2+V3 ஆக இருக்கும்",
+      "பக்க இணைப்பில் 1 =  -12 -13 ஆக இருக்கும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following statements is false?",
+    "options_en": [
+      "The voltage (V) in series is equally distributed.",
+      "The current (I) in the side connection is equally distributed.",
+      "In series V = V1+V2+V3",
+      "1 = -12 -13 in side connection"
+    ],
+    "explanation": "பக்க இணைப்பில் 1 =  -12 -13 ஆக இருக்கும்",
+    "explanation_en": "1 = -12 -13 in side connection"
+  },
+  {
+    "id": 30,
+    "question": "ஒரு எளிய மின்சுற்றை அமைக்கத் தேவையான மின் கூறுகள் எவை?",
+    "options": [
+      "ஆற்றல் மூலம், மின்கலம், மின்தடை, சாவி",
+      "ஆற்றல் மூலம், மின்கம்பி, சாவி",
+      "ஆற்றல் மூலம், மின்கம்பி, சாவி",
+      "மின்கலம், மின்கம்பி, மின்தடை, சாவி"
+    ],
+    "correct": 3,
+    "question_en": "What are the electrical components required to construct a simple circuit?",
+    "options_en": [
+      "By energy, battery, resistor, key",
+      "By power, cord, key",
+      "By power, cord, key",
+      "Battery, wire, resistor, key"
+    ],
+    "explanation": "ஒரு எளிய மின்சுற்றை அமைக்கத் தேவையான மின் கூறுகள் மின்கலம், மின்கம்பி, மின்தடை, சாவி ஆகும்.",
+    "explanation_en": "Battery, wire, resistor, key"
+  },
+  {
+    "id": 31,
+    "question": "பொருத்துக.\nA. கால்வனோ மீட்டர் - (i) K\nB. வோல்ட் மீட்டர் - (ii) L\nC. அம்மீட்டர் - (iii) A\nD. விளக்கு - (iv) V\nE. சாவி - (v) G",
+    "options": [
+      "i. A, ii. B, iii. C, iv. D, v. E",
+      "i. E, ii. D, iii. C, iv. B, v. A",
+      "i. B, ii. D, iii. E, iv. A, v. C",
+      "i. C, ii. D, iii. E, iv. A, v. B"
+    ],
+    "correct": 1,
+    "question_en": "match\nA. Galvano meter – (i) K\nB. Volt meter – (ii) L\nC. Ammeter – (iii) A\nD. Lamp – (iv) V\nE. Key – (v) G",
+    "options_en": [
+      "i. A, ii. B, iii. C, iv. D, v. E",
+      "i. E, ii. D, iii. C, iv. B, v. A",
+      "i. B, ii. D, iii. E, iv. A, v. C",
+      "i. C, ii. D, iii. E, iv. A, v. B"
+    ],
+    "explanation": "i. E, ii. D, iii. C, iv. B, v. A",
+    "explanation_en": "i. E, ii. D, iii. C, iv. B, v. A"
+  },
+  {
+    "id": 32,
+    "question": "பின்வருவனவற்றுள் மின்கடத்தி எது?",
+    "options": [
+      "தூய நீர்",
+      "நெகிழி",
+      "உலோகம்",
+      "மரம்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is a conductor?",
+    "options_en": [
+      "Pure water",
+      "flexibility",
+      "Metal",
+      "tree"
+    ],
+    "explanation": "பின்வருவனவற்றுள் மின்கடத்தி உலோகம் ஆகும்.",
+    "explanation_en": "Metal is a conductor."
+  },
+  {
+    "id": 33,
+    "question": "பின்வருவனவற்றுள் அதிக மின்கடத்துத் திறன் பெற்றுள்ளது எது?",
+    "options": [
+      "வெள்ளி",
+      "இரும்பு",
+      "தாமிரம்",
+      "அலுமினியம்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following has the highest electrical conductivity?",
+    "options_en": [
+      "Friday",
+      "Iron",
+      "Copper",
+      "Aluminum"
+    ],
+    "explanation": "பின்வருவனவற்றுள் அதிக மின்கடத்துத் திறன் பெற்றுள்ளது வெள்ளி ஆகும்.",
+    "explanation_en": "Friday"
+  },
+  {
+    "id": 34,
+    "question": "பின்வருவனவற்றுள் காப்பான் எது?",
+    "options": [
+      "நீர்",
+      "நெகிழி",
+      "உலோகம்",
+      "கிராஃபைட்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a protector?",
+    "options_en": [
+      "Water",
+      "flexibility",
+      "Metal",
+      "Graphite"
+    ],
+    "explanation": "பின்வருவனவற்றுள் காப்பான் நெகிழி ஆகும்.",
+    "explanation_en": "Flexibility is a protector."
+  },
+  {
+    "id": 35,
+    "question": "ஒப்புமைப்படுத்துக\nதாமிரம் : கடத்தி :: மரக்கட்டை : _____",
+    "options": [
+      "எரியக்கூடியது",
+      "அரிதிற் கடத்தி",
+      "அலோகம்",
+      "நற்கடத்தி"
+    ],
+    "correct": 1,
+    "question_en": "Compare\nCopper : Conductor :: Lumber : _____",
+    "options_en": [
+      "Flammable",
+      "Rare conductor",
+      "Metal",
+      "good conductor"
+    ],
+    "explanation": "ஒப்புமைப்படுத்துக\nதாமிரம் : கடத்தி :: மரக்கட்டை : அரிதிற் கடத்தி",
+    "explanation_en": "Compare\nCopper : Conductor :: Lumber : Rare conductor"
+  },
+  {
+    "id": 36,
+    "question": "ஒப்புமைப்படுத்துக\nமின்னோட்டம் : அம்மீட்டர் :: மின்னழுத்த வேறுபாடு : _____",
+    "options": [
+      "ஓம் மீட்டர்",
+      "வோல்ட் மீட்டர்",
+      "மைக்ரோ அம்மீட்டர்",
+      "மில்லி அம்மீட்டர்"
+    ],
+    "correct": 1,
+    "question_en": "Compare\nமின்னோட்டம் : அம்மீட்டர் :: மின்னழுத்த வேறுபாடு : _____",
+    "options_en": [
+      "Ohm meter",
+      "Volt meter",
+      "Micro ammeter",
+      "Milli-ammeter"
+    ],
+    "explanation": "ஒப்புமைப்படுத்துக\nமின்னோட்டம் : அம்மீட்டர் :: மின்னழுத்த வேறுபாடு : வோல்ட் மீட்டர்",
+    "explanation_en": "Compare\nமின்னோட்டம் : அம்மீட்டர் :: மின்னழுத்த வேறுபாடு : Volt meter"
+  },
+  {
+    "id": 37,
+    "question": "ஒப்புமைப்படுத்துக\nமின் சமையற்கலன் : வெப்பக்கடத்தல் : : மின் கொதிகலன் : _____",
+    "options": [
+      "வெப்ப விளைவு",
+      "நிக்ரோம்",
+      "வெப்பச் சலனம்",
+      "நீர் சூடேற்றும் கலன்"
+    ],
+    "correct": 2,
+    "question_en": "Compare\nElectric Cooker : Conduction : : Electric Boiler : _____",
+    "options_en": [
+      "Thermal effect",
+      "Nichrome",
+      "Heatstroke",
+      "Water heater"
+    ],
+    "explanation": "ஒப்புமைப்படுத்துக\nமின் சமையற்கலன் : வெப்பக்கடத்தல் : : மின் கொதிகலன் : வெப்பச் சலனம்",
+    "explanation_en": "Compare\nElectric Cooker : Conduction : : Electric Boiler : Heatstroke"
+  },
+  {
+    "id": 38,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடு.",
+    "options": [
+      "பொதுவாக உலோகங்கள் அதிக மின் கடத்துத் திறனைப் பெற்றுள்ளன.",
+      "பொதுவாக உலோகங்களில் அதிக அளவில் கட்டுறா எலக்ட்ரான்களைப் பெற்றுள்ளன.",
+      "பெரும்பாலான அலோகங்கள் மின்னோட்டத்தைக் கடத்துவதில்லை",
+      "பொருட்களின் மின் கடத்து திறனானது, கட்டுறா எலக்ட்ரான்களின் எண்ணிக்கையைச் சார்ந்து அமைவதில்லை."
+    ],
+    "correct": 3,
+    "question_en": "Select the incorrect statement.",
+    "options_en": [
+      "Generally metals have high electrical conductivity.",
+      "Metals generally have a large number of unpaired electrons.",
+      "Most metals do not conduct electricity",
+      "The electrical conductivity of materials does not depend on the number of unpaired electrons."
+    ],
+    "explanation": "பொருட்களின் மின் கடத்து திறனானது, கட்டுறா எலக்ட்ரான்களின் எண்ணிக்கையைச் சார்ந்து அமைவதில்லை.",
+    "explanation_en": "The electrical conductivity of materials does not depend on the number of unpaired electrons."
+  },
+  {
+    "id": 39,
+    "question": "மின் அதிர்ச்சியின் போது செய்யக்கூடாதது எது?",
+    "options": [
+      "மின்னதிர்வு ஏற்படக்காரணமான மின் இணைப்பைத் துண்டிக்கவும்.",
+      "பதற்றமடையாமல் மின்னதிர்ச்சிக்குள்ளானவரை மின்கடத்தாப் பொருள் கொண்டு மின் இணைப்பில் இருந்து விடுவிக்க வேண்டும்.",
+      "மின்னதிர்ச்சிக்குள்ளானவரை விரைவாக கைகளால் பற்றி இழுத்துக் காப்பாற்ற வேண்டும்.",
+      "அவருக்கு முதலுதவி செய்ய வேண்டும்."
+    ],
+    "correct": 2,
+    "question_en": "What not to do during electric shock?",
+    "options_en": [
+      "Disconnect the power source that is causing the shock.",
+      "Do not panic and release the person from the electrical connection with an insulating material.",
+      "The electrocuted person should be quickly pulled by the hands and saved.",
+      "Give him first aid."
+    ],
+    "explanation": "மின் அதிர்ச்சியின் போது செய்யக்கூடாதது மின்னதிர்ச்சிக்குள்ளானவரை விரைவாக கைகளால் பற்றி இழுத்துக் காப்பாற்ற வேண்டும். ஆகும்.",
+    "explanation_en": "The electrocuted person should be quickly pulled by the hands and saved."
+  },
+  {
+    "id": 40,
+    "question": "அணுவிலுள்ள அடிப்படைத் துகள்கள் எது?",
+    "options": [
+      "புரோட்டான்",
+      "எலக்ட்ரான்",
+      "நியூட்ரான்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What are the fundamental particles in an atom?",
+    "options_en": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Everything"
+    ],
+    "explanation": "அணுவிலுள்ள அடிப்படைத் துகள்கள் அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 41,
+    "question": "அணுவிலுள்ள மின்சுமையற்ற துகள் எது?",
+    "options": [
+      "புரோட்டான்",
+      "எலக்ட்ரான்",
+      "நியூட்ரான்",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Which is the uncharged particle in an atom?",
+    "options_en": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Everything"
+    ],
+    "explanation": "அணுவிலுள்ள மின்சுமையற்ற துகள் நியூட்ரான் ஆகும்.",
+    "explanation_en": "Neutron is the uncharged particle in an atom."
+  },
+  {
+    "id": 42,
+    "question": "மின்னோட்டத்திற்கு காரணமான துகள் எது?",
+    "options": [
+      "புரோட்டான்",
+      "எலக்ட்ரான்",
+      "நியூட்ரான்",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Which particle is responsible for electric current?",
+    "options_en": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Everything"
+    ],
+    "explanation": "மின்னோட்டத்திற்கு காரணமான துகள் எலக்ட்ரான் ஆகும்.",
+    "explanation_en": "Electron"
+  },
+  {
+    "id": 43,
+    "question": "அணுக்கருவைச் சுற்றிவரும் துகள் எது?",
+    "options": [
+      "புரோட்டான்",
+      "எலக்ட்ரான்",
+      "நியூட்ரான்",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Which particle surrounds the nucleus?",
+    "options_en": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Everything"
+    ],
+    "explanation": "அணுக்கருவைச் சுற்றிவரும் துகள் எலக்ட்ரான் ஆகும்.",
+    "explanation_en": "Electron"
+  },
+  {
+    "id": 44,
+    "question": "மின்கலத்தில் எலக்ட்ரான் (e) நகர்வு எத்திசையில் அமையும்?",
+    "options": [
+      "மின்கலத்தின் எதிர்முனையிலிருந்து நேர்முனை நோக்கி",
+      "மின்கலத்தின் நேர்முனையிலிருந்து எதிர்முனை நோக்கி",
+      "இருமுனை நோக்கி மாறி மாறி அமையும்.",
+      "அனைத்தும்."
+    ],
+    "correct": 0,
+    "question_en": "The movement of electron (e) in a battery is in phase?",
+    "options_en": [
+      "From the negative end of the battery to the positive end",
+      "From the anode to the anode of the battery",
+      "Alternates towards bipolarity.",
+      "Everything."
+    ],
+    "explanation": "மின்கலத்தின் எதிர்முனையிலிருந்து நேர்முனை நோக்கி",
+    "explanation_en": "From the negative end of the battery to the positive end"
+  },
+  {
+    "id": 45,
+    "question": "கூற்றை ஆராய்க.\nகூற்று 1: எலக்ட்ரான்களின் ஓட்டமானது குறைந்த மின்னழுத்த பகுதியிலிருந்து அதிக மின்னழுத்தமுள்ள பகுதிக்குச் செல்கின்றன.\nகூற்று 2: எலக்ட்ரான்களின் ஓட்டமானது மின்னோட்டம் என அழைக்கப்படுகிறது",
+    "options": [
+      "கூற்று (1) தவறு கூற்று (2) சரி.",
+      "கூற்று (1) சரி கூற்று (2) தவறு",
+      "கூற்று (1) மற்றும் கூற்று (2) இரண்டும் சரி.",
+      "கூற்று (1) மற்றும் கூற்று (2) இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Examine the statement.\nStatement 1: The flow of electrons is from a region of low voltage to a region of high voltage.\nStatement 2: The flow of electrons is called current",
+    "options_en": [
+      "Statement (1) is false Statement (2) is correct.",
+      "Statement (1) is true Statement (2) is false",
+      "Both statement (1) and statement (2) are correct.",
+      "Both statement (1) and statement (2) are false"
+    ],
+    "explanation": "கூற்று (1) மற்றும் கூற்று (2) இரண்டும் சரி.",
+    "explanation_en": "Both statement (1) and statement (2) are correct."
+  },
+  {
+    "id": 46,
+    "question": "சரியான கூற்றை தேர்ந்தெடு",
+    "options": [
+      "மரபு மின்னோட்டம் குறைந்த மின்னழுத்த பகுதியிலிருந்து அதிக மின்னழுத்தமுள்ள பகுதிக்குச் செல்கின்றன.",
+      "எலக்ட்ரான்களின் ஓட்டமானது அதிக மின்னழுத்த பகுதியிலிருந்து குறைந்த மின்னழுத்தமுள்ள பகுதிக்குச் செல்கின்றன.",
+      "மரபு மின்னோட்டம் அதிக மின்னழுத்த பகுதியிலிருந்து குறைந்த மின்னழுத்தமுள்ள பகுதிக்குச் செல்கின்றன",
+      "எதிர்மின் துகள்கள் பாயும் திசை மரபு மின்னோட்டத்தின் திசையாகக் கருதப்படுகிறது."
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement",
+    "options_en": [
+      "Conventional current flows from a low voltage region to a high voltage region.",
+      "The flow of electrons is from a region of higher voltage to a region of lower voltage.",
+      "Conventional current flows from a higher voltage region to a lower voltage region",
+      "The direction in which the charge particles are flowing is considered to be the direction of conventional current."
+    ],
+    "explanation": "மரபு மின்னோட்டம் அதிக மின்னழுத்த பகுதியிலிருந்து குறைந்த மின்னழுத்தமுள்ள பகுதிக்குச் செல்கின்றன",
+    "explanation_en": "Conventional current flows from a higher voltage region to a lower voltage region"
+  },
+  {
+    "id": 47,
+    "question": "மின்கலத்தின் மின்னோட்ட வகை",
+    "options": [
+      "நேர்திசை",
+      "மாறுதிசை",
+      "எதிர்திசை",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Current type of battery",
+    "options_en": [
+      "Straightforward",
+      "Change direction",
+      "opposite direction",
+      "Everything"
+    ],
+    "explanation": "நேர்திசை",
+    "explanation_en": "Straightforward"
+  },
+  {
+    "id": 48,
+    "question": "வீடுகளில் பயன்படுத்தும் மின்னோட்ட வகை",
+    "options": [
+      "நேர்திசை",
+      "மாறுதிசை",
+      "எதிர்திசை",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Type of current used in homes",
+    "options_en": [
+      "Straightforward",
+      "Change direction",
+      "opposite direction",
+      "Everything"
+    ],
+    "explanation": "மாறுதிசை",
+    "explanation_en": "Change direction"
+  },
+  {
+    "id": 49,
+    "question": "பின்வரும் கூற்றுகளில் தவறானது எது?",
+    "options": [
+      "எலக்ட்ரான்களின் நகர்வே மின்னோட்டம்.",
+      "மின்னூட்டத்தின் நகர்வே மின்னோட்டம்.",
+      "மரபு மின்னோட்டத்தின் திசை எலக்ட்ரான்களின் ஓட்டத் திசையிலேயே அமையும்.",
+      "மரபு மின்னோட்டத்தின் திசை எலக்ட்ரான்களின் ஓட்டத்திசைக்கு எதிரானது."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements is false?",
+    "options_en": [
+      "Current is the movement of electrons.",
+      "Current is the movement of charge.",
+      "The direction of conventional current is in the direction of flow of electrons.",
+      "The direction of conventional current is opposite to the direction of flow of electrons."
+    ],
+    "explanation": "மரபு மின்னோட்டத்தின் திசை எலக்ட்ரான்களின் ஓட்டத் திசையிலேயே அமையும்.",
+    "explanation_en": "The direction of conventional current is in the direction of flow of electrons."
+  },
+  {
+    "id": 50,
+    "question": "பின்வரும் கூற்றுகளில் தவறானது எது?",
+    "options": [
+      "மின்னோட்டமானது அம்மீட்டரின் உதவியால் அளக்கப்படுகிறது.",
+      "ஒரு சுற்றில் அம்மீட்டரானது பக்க இணைப்பில் மட்டுமே இணைக்கப்பட வேண்டும்.",
+      "ஒரு சுற்றில் அம்மீட்டரானது தொடர் இணைப்பில் மட்டுமே இணைக்கப்பட வேண்டும்",
+      "மின்னழுத்த வேறுபாடு இருந்தால் மட்டுமே கடத்தியின் வழியே மின்னோட்டமானது செல்லும்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is false?",
+    "options_en": [
+      "Current is measured with the help of ammeter.",
+      "An ammeter in a circuit should be connected to the side connection only.",
+      "An ammeter should only be connected in series in a circuit",
+      "Current flows through a conductor only if there is a voltage difference"
+    ],
+    "explanation": "ஒரு சுற்றில் அம்மீட்டரானது பக்க இணைப்பில் மட்டுமே இணைக்கப்பட வேண்டும்.",
+    "explanation_en": "An ammeter in a circuit should be connected to the side connection only."
+  },
+  {
+    "id": 51,
+    "question": "மின்னழுத்த வேறுபாட்டை அளக்கப்பயன்படும் கருவி",
+    "options": [
+      "அம்மீட்டர்",
+      "வோல்ட் மீட்டர்",
+      "மில்லி அம்மீட்டர்",
+      "ஓம் - மீட்டர்"
+    ],
+    "correct": 1,
+    "question_en": "An instrument used to measure voltage difference",
+    "options_en": [
+      "Ammeter",
+      "Volt meter",
+      "Milli-ammeter",
+      "Ohm-meter"
+    ],
+    "explanation": "வோல்ட் மீட்டர்",
+    "explanation_en": "Volt meter"
+  },
+  {
+    "id": 52,
+    "question": "பின்வரும் கூற்றுகளில் சரியானது எது?",
+    "options": [
+      "குளத்தில் அல்லது வாய்க்காலில் தேங்கியுள்ள நீருடன் மின்னோட்டத்தை ஒப்பிட்டு நாம் புரிந்து கொள்ளலாம்.",
+      "ஆற்றில் அல்லது அருவிகளில் நீர் பாய்ந்தோடுவதை மின்னோட்டத்துடன் ஒப்பிட்டு நாம் புரிந்து கொள்ளலாம்",
+      "கோ-கோ விளையாட்டுடன் தொடர் இணைப்பு மின்சுற்றுடன் ஒப்பிட்டு நாம் புரிந்து கொள்ளலாம்",
+      "1, 2 மற்றும் 3 ஆகிய அனைத்தும் சரியான கூற்று"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is correct?",
+    "options_en": [
+      "We can understand the current by comparing it to water in a pond or canal.",
+      "We can understand the flow of water in a river or waterfall by comparing it to an electric current",
+      "We can understand by comparing series connection circuit with go-go game",
+      "1, 2 and 3 are all correct statements"
+    ],
+    "explanation": "ஆற்றில் அல்லது அருவிகளில் நீர் பாய்ந்தோடுவதை மின்னோட்டத்துடன் ஒப்பிட்டு நாம் புரிந்து கொள்ளலாம்",
+    "explanation_en": "We can understand the flow of water in a river or waterfall by comparing it to an electric current"
+  },
+  {
+    "id": 53,
+    "question": "மின்கடத்துத்திறனை தீர்மானிக்கும் காரணி எது?",
+    "options": [
+      "கட்டுறா எலக்ட்ரான்",
+      "மின்தடை",
+      "அயனியுறும் தன்மை",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which factor determines conductivity?",
+    "options_en": [
+      "The unpaired electron",
+      "electrical resistance",
+      "Ionization",
+      "Everything"
+    ],
+    "explanation": "மின்கடத்துத்திறனை தீர்மானிக்கும் காரணி அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 54,
+    "question": "ஒரு கூலூம் என்பது = ______ ன் மின்சுமைக்குச் சமம்.",
+    "options": [
+      "6.242×10^18 புரோட்டான்கள்",
+      "6.242×10^18 எலக்ட்ரான்கள்",
+      "6.242×10^18",
+      "6.242×10^18 புரோட்டான்கள் அல்லது எலக்ட்ரான்கள்"
+    ],
+    "correct": 3,
+    "question_en": "One coulomb is equal to a charge of = ______.",
+    "options_en": [
+      "6.242×10^18 protons",
+      "6.242×10^18 electrons",
+      "6.242×10^18",
+      "6.242×10^18 protons or electrons"
+    ],
+    "explanation": "ஒரு கூலூம் என்பது = 6.242×10^18 புரோட்டான்கள் அல்லது எலக்ட்ரான்கள் ன் மின்சுமைக்குச் சமம்.",
+    "explanation_en": "One coulomb is equal to a charge of = 6.242×10^18 protons or electrons."
+  },
+  {
+    "id": 55,
+    "question": "மின்னோட்டம் I =",
+    "options": [
+      "q/t",
+      "t/ q",
+      "q× t",
+      "t²/q"
+    ],
+    "correct": 0,
+    "question_en": "Current I =",
+    "options_en": [
+      "q/t",
+      "t/q",
+      "q × t",
+      "t²/q"
+    ],
+    "explanation": "q/t",
+    "explanation_en": "q/t"
+  },
+  {
+    "id": 56,
+    "question": "பொருத்துக.\n(i) மின்னோட்டம் (I) - A. கூலூம்\n(ii) மின்னூட்டம் (q) - B. A\n(iii) காலம் - C. ஆம்பியர்\n(iv) ஆம்பியர் - D. C\n(v) கூலூம் - E. t",
+    "options": [
+      "i. C, ii. A, iii. B, iv. D, v. E",
+      "i. C, ii. A, iii. D, iv. B, v. E",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. C, ii. A, iii. E, iv. D, v. B"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) Current (I) – A. Coulomb\n(ii) Charge (q) – B. A\n(iii) Duration – C. ampere\n(iv) Ampere – D. C\n(v) Coolum - E. t",
+    "options_en": [
+      "i. C, ii. A, iii. B, iv. D, v. E",
+      "i. C, ii. A, iii. D, iv. B, v. E",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. C, ii. A, iii. E, iv. D, v. B"
+    ],
+    "explanation": "i. C, ii. A, iii. E, iv. B, v. D",
+    "explanation_en": "i. C, ii. A, iii. E, iv. B, v. D"
+  },
+  {
+    "id": 57,
+    "question": "மின் கடத்துத் திறனின் அலகு",
+    "options": [
+      "ஓம்.மீட்டர்",
+      "சீமென்ஸ் / மீட்டர்",
+      "ஓம் / மீட்டர்",
+      "சீமென்ஸ். மீட்டர்"
+    ],
+    "correct": 1,
+    "question_en": "A unit of electrical conductivity",
+    "options_en": [
+      "Ohm meter",
+      "Siemens / Meter",
+      "Ohm / meter",
+      "Siemens. meter"
+    ],
+    "explanation": "சீமென்ஸ் / மீட்டர்",
+    "explanation_en": "Siemens / Meter"
+  },
+  {
+    "id": 58,
+    "question": "6.242×10^18 புரோட்டான்கள் அல்லது எலக்ட்ரான்களின் மின் சுமைக்குச் சமமான மின்னூட்டம்",
+    "options": [
+      "1 கூலூம்",
+      "1 ஆம்பியர்",
+      "1 வோல்ட்",
+      "1 மில்லி ஆம்பியர்"
+    ],
+    "correct": 0,
+    "question_en": "A charge equal to the electric charge of 6.242×10^18 protons or electrons.",
+    "options_en": [
+      "1 Cooloom",
+      "1 ampere",
+      "1 volt",
+      "1 milliampere"
+    ],
+    "explanation": "1 கூலூம்",
+    "explanation_en": "1 Cooloom"
+  },
+  {
+    "id": 59,
+    "question": "சிறும மின்னூட்டத்தின் மதிப்பு",
+    "options": [
+      "1.602×10^19",
+      "1.602×10^-19 ஆம்பியர்",
+      "1.602×10^-19",
+      "1.602×10^18"
+    ],
+    "correct": 2,
+    "question_en": "Value of small charge",
+    "options_en": [
+      "1.602×10^19",
+      "1.602×10^-19 ampere",
+      "1.602×10^-19",
+      "1.602×10^18"
+    ],
+    "explanation": "1.602×10^-19",
+    "explanation_en": "1.602×10^-19"
+  },
+  {
+    "id": 60,
+    "question": "பொருத்துக.\n(i) லூயி கால்வானி - A. கம்பியில்லா மின்சாரம்\n(ii) அலெக்ஸாண்ட்ரோ வோல்டா - B. கிராமஃபோன்\n(iii) தாமஸ் ஆல்வா எடிசன் - C. நவீன மின்கலன்\n(iv) மைக்கல் ஃபாரடே - D. தவளை சோதனை\n(v) டெஸ்லா - E. டைனமோ",
+    "options": [
+      "i. D, ii. C, iii. B, iv. E, v. A",
+      "i. C, ii. D, iii. E, iv. A, v. B",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. D, ii. C, iii. E, iv. B, v. A"
+    ],
+    "correct": 0,
+    "question_en": "match\n(i) Louis Galvani – A. Cordless Electricity\n(ii) Alexandro Volta - B. Gramophone\n(iii) Thomas Alva Edison – C. The Modern Electrician\n(iv) Michael Faraday – D. Frog experiment\n(v) Tesla - E. Dynamo",
+    "options_en": [
+      "i. D, ii. C, iii. B, iv. E, v. A",
+      "i. C, ii. D, iii. E, iv. A, v. B",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. D, ii. C, iii. E, iv. B, v. A"
+    ],
+    "explanation": "i. D, ii. C, iii. B, iv. E, v. A",
+    "explanation_en": "i. D, ii. C, iii. B, iv. E, v. A"
+  },
+  {
+    "id": 61,
+    "question": "மின்துகள்களின் இடமாற்றம் எம்முறைகளில் நடைபெறுகிறது?",
+    "options": [
+      "உராய்வு",
+      "கடத்துதல்",
+      "மின்தூண்டல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Transfer of electrons takes place in which ways?",
+    "options_en": [
+      "Friction",
+      "kidnapping",
+      "Induction",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 62,
+    "question": "எப்பொருள் உராய்வு முறையில் மின்துகள்கள் இடமாற்றமடைந்து அதாவது எலக்ட்ரான்களை இழந்து நேர் மின்னூட்டம் அடைகிறது?",
+    "options": [
+      "சீப்பு",
+      "கண்ணாடி",
+      "எபோனைட்",
+      "சீப்பு, எபோனைட்"
+    ],
+    "correct": 1,
+    "question_en": "In which material friction causes the particles to be displaced i.e. lose electrons and become positively charged?",
+    "options_en": [
+      "comb",
+      "Glass",
+      "Ebonite",
+      "Comb, ebonite"
+    ],
+    "explanation": "கண்ணாடி",
+    "explanation_en": "Glass"
+  },
+  {
+    "id": 63,
+    "question": "நிலைமின்காட்டியை (கி.பி 1600) முதன்முதலில் வடிவமைத்தவர்",
+    "options": [
+      "ஆபிரஹாம் லிங்கன்",
+      "ஆபிரஹாம் பெனட்",
+      "வில்லியம் கில்பர்ட்",
+      "ஃபிராங்க்ளின்"
+    ],
+    "correct": 2,
+    "question_en": "He was the first to design the potentiometer (1600 AD).",
+    "options_en": [
+      "Abraham Lincoln",
+      "Abraham Bennett",
+      "William Gilbert",
+      "Franklin"
+    ],
+    "explanation": "வில்லியம் கில்பர்ட்",
+    "explanation_en": "William Gilbert"
+  },
+  {
+    "id": 64,
+    "question": "நிலைமின்காட்டியின் தத்துவம்",
+    "options": [
+      "ஓரின மின் துகள்கள் ஒன்றையொன்று ஈர்க்கும்",
+      "ஓரின மின் துகள்கள் ஒன்றையொன்று விலக்கும்",
+      "மின் நடுநிலைத்தன்மை",
+      "மேற்கூறிய அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Principle of potentiometer",
+    "options_en": [
+      "Like electric particles attract each other",
+      "Like electric particles repel each other",
+      "Electrical neutrality",
+      "All of the above"
+    ],
+    "explanation": "ஓரின மின் துகள்கள் ஒன்றையொன்று விலக்கும்",
+    "explanation_en": "Like electric particles repel each other"
+  },
+  {
+    "id": 65,
+    "question": "பொருத்துக.\n(i) வில்லியம் கில்பர்ட் - A. I1+ I2 +I3\n(ii) ஃபிராங்க்ளின் - B. தங்கஇலை நிலைமின்காட்டி\n(iii) ஆபிரஹாம் பெனட் - C. வெர்சோரியம் நிலைமின்காட்டி\n(iv) - D. மின்னல் கடத்தி\n(v) மின்னோட்டம் (I) - E. 650 வாட்ஸ்",
+    "options": [
+      "i. D, ii. C, iii. B, iv. E, v. A",
+      "i. C, ii. D, iii. E, iv. A, v. B",
+      "i. C, ii. D, iii. B, iv. E, v. A",
+      "i. D, ii. C, iii. E, iv. B, v. A"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) William Gilbert - A. I1+ I2 +I3\n(ii) Franklin – B. Gold leaf potentiometer\n(iii) Abraham Bennett - C. versorium stabiliser\n(iv) - D. Lightning conductor\n(v) Current (I) – E. 650 watts",
+    "options_en": [
+      "i. D, ii. C, iii. B, iv. E, v. A",
+      "i. C, ii. D, iii. E, iv. A, v. B",
+      "i. C, ii. D, iii. B, iv. E, v. A",
+      "i. D, ii. C, iii. E, iv. B, v. A"
+    ],
+    "explanation": "i. C, ii. D, iii. B, iv. E, v. A",
+    "explanation_en": "i. C, ii. D, iii. B, iv. E, v. A"
+  },
+  {
+    "id": 66,
+    "question": "இடியோசைக்கு முன்பே மின்னலை காண்பதற்கு காரணம்",
+    "options": [
+      "மனிதக் கண்ணின் நுட்பம்",
+      "ஒளியின் திசைவேகத்தை விட ஒலியின் திசைவேகம் அதிகம்",
+      "ஒலியின் திசைவேகத்தை விட ஒளியின் திசைவேகம் அதிகம்",
+      "1 மற்றும் 2"
+    ],
+    "correct": 2,
+    "question_en": "Reason for seeing lightning before idiosyncrasy",
+    "options_en": [
+      "Techniques of the human eye",
+      "The speed of sound is faster than the speed of light",
+      "The speed of light is faster than the speed of sound",
+      "1 and 2"
+    ],
+    "explanation": "ஒலியின் திசைவேகத்தை விட ஒளியின் திசைவேகம் அதிகம்",
+    "explanation_en": "The speed of light is faster than the speed of sound"
+  },
+  {
+    "id": 67,
+    "question": "கீழ்க்காணும் கூற்றுகளில் சரியானது எது?",
+    "options": [
+      "மின்னலின் போது 30000 OF வெப்பம் உருவாகிறது",
+      "மின்னல் தாக்குதலடைந்த மரம் உறைந்து போகிறது",
+      "மேகங்களின் மேற்பகுதியில் நேர் மின்னூட்டம் நிறைந்திருக்கும்",
+      "மேகங்களின் மேற்பகுதியில் எதிர் மின்னூட்டம் நிறைந்திருக்கும்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements is correct?",
+    "options_en": [
+      "30000 OF heat is generated during lightning",
+      "A tree struck by lightning freezes",
+      "The tops of clouds are full of positive charge",
+      "The tops of clouds are charged with an opposite charge"
+    ],
+    "explanation": "மேகங்களின் மேற்பகுதியில் நேர் மின்னூட்டம் நிறைந்திருக்கும்",
+    "explanation_en": "The tops of clouds are full of positive charge"
+  },
+  {
+    "id": 68,
+    "question": "மின்காப்புறைகள் பழுதாகும் போது நம்மை மின் அதிர்ச்சியிலிருந்து காப்பதற்காக மின்சாதனங்களில் உள்ள அமைப்பு",
+    "options": [
+      "மின்னோட்டக் கம்பி",
+      "புவித்தொடுப்புக் கம்பி",
+      "நடுநிலைக் கம்பி",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Fuses are devices in electrical appliances to protect us from electric shock when they fail",
+    "options_en": [
+      "Current wire",
+      "Earthing wire",
+      "Neutral wire",
+      "Everything"
+    ],
+    "explanation": "புவித்தொடுப்புக் கம்பி",
+    "explanation_en": "Earthing wire"
+  },
+  {
+    "id": 69,
+    "question": "இடியுடன் கூடிய மழையின் போது நாம் செய்யக்கூடாதது எது?",
+    "options": [
+      "திறந்த வெளியாக இருக்கும்பொழுது வேகமாக ஓட வேண்டும்",
+      "மகிழுந்தில் பயணிக்கும் போது, மகிழுந்திலேயே அமர்தல்",
+      "தரையில் அமர்ந்து தலையைக் குனிந்து கொள்ளுதல்",
+      "வீட்டிலேயே பாதுகாப்பாக இருத்தல்"
+    ],
+    "correct": 0,
+    "question_en": "What should we not do during a thunderstorm?",
+    "options_en": [
+      "Run fast when there is an open field",
+      "While traveling in pleasure, sitting in pleasure",
+      "Sitting on the floor and bowing the head",
+      "Stay safe at home"
+    ],
+    "explanation": "இடியுடன் கூடிய மழையின் போது நாம் செய்யக்கூடாதது திறந்த வெளியாக இருக்கும்பொழுது வேகமாக ஓட வேண்டும் ஆகும்.",
+    "explanation_en": "Run fast when there is an open field"
+  },
+  {
+    "id": 70,
+    "question": "மின் உருகி, மின் சமையற்கலன், மின் கொதிகலன் மற்றும் மின் இஸ்திரிப் பெட்டி போன்ற கருவிகள் எதன் அடிப்படையில் செயல்படுகிறது?",
+    "options": [
+      "மின்வெப்ப விளைவு",
+      "மின்காந்த விளைவு",
+      "மின்வேதி விளைவு",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Appliances like electric fuse, electric cooker, electric boiler and electric iron work on what?",
+    "options_en": [
+      "Electrothermal effect",
+      "Electromagnetic effect",
+      "Electrochemical effect",
+      "Everything"
+    ],
+    "explanation": "மின்வெப்ப விளைவு",
+    "explanation_en": "Electrothermal effect"
+  },
+  {
+    "id": 71,
+    "question": "மின் உருகி என்பது ஒரு",
+    "options": [
+      "பாதுகாப்பு சாதனம்",
+      "அதிக உருகுநிலை கொண்ட ஒரு கம்பி",
+      "குறைந்த உருகுநிலை கொண்ட ஒரு கம்பி",
+      "குறுக்கு சுற்றை ஏற்படுத்த உதவும் சாதனம்"
+    ],
+    "correct": 0,
+    "question_en": "An electrical fuse is a",
+    "options_en": [
+      "Safety device",
+      "A wire with a high melting point",
+      "A wire with a low melting point",
+      "A device that helps to create a cross circuit"
+    ],
+    "explanation": "பாதுகாப்பு சாதனம்",
+    "explanation_en": "Safety device"
+  },
+  {
+    "id": 72,
+    "question": "மின்தூக்கி, மின்சாரமணி, தொலைபேசி போன்ற கருவிகள் எதன் அடிப்படையில் செயல்படுகிறது?",
+    "options": [
+      "மின்வெப்ப விளைவு",
+      "மின்காந்த விளைவு",
+      "மின்வேதி விளைவு",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "On what basis do the devices like elevator, electric bell, telephone work?",
+    "options_en": [
+      "Electrothermal effect",
+      "Electromagnetic effect",
+      "Electrochemical effect",
+      "Everything"
+    ],
+    "explanation": "மின்காந்த விளைவு",
+    "explanation_en": "Electromagnetic effect"
+  },
+  {
+    "id": 73,
+    "question": "மின்வேதி விளைவு எங்கு பயன்படுகிறது?",
+    "options": [
+      "தாதுக்களிலிருந்து உலோகங்களைப் பிரித்தெடுப்பதில்",
+      "மின்முலாம் பூசுதல்",
+      "கவரிங் நகைகள் தயாரிப்பில்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Where is electrochemical effect used?",
+    "options_en": [
+      "In the extraction of metals from ores",
+      "Electroplating",
+      "In the manufacture of covering jewellery",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 74,
+    "question": "கூற்று: மின் உருகி மின்சாதனங்களில் பொருத்தப்படுகின்றன.\nகாரணம்: இது தானாகவே மின் சுற்றைத் துண்டித்து, பின்னர் மின்சாரத்தை தானாக மீட்டெடுக்கும்.",
+    "options": [
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று காரணம் சரி",
+      "கூற்று காரணம் தவறு",
+      "கூற்று தவறு காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Electrical fuses are installed in electrical appliances.\nReason: It automatically disconnects the power circuit and then automatically restores the power.",
+    "options_en": [
+      "The statement is true and the reason is false",
+      "The statement is correct",
+      "The statement is false",
+      "The statement is false and the reason is correct"
+    ],
+    "explanation": "கூற்று சரி காரணம் தவறு",
+    "explanation_en": "The statement is true and the reason is false"
+  },
+  {
+    "id": 75,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடு.",
+    "options": [
+      "மின்னோட்டத்தின் காந்த விளைவின் ஒரு பயன்பாடு மின் உருகி ஆகும்.",
+      "மின்னோட்டம் பாய்வது நிறுத்தப்பட்டால் கம்பிச் சுருளானது தனது காந்தத் தன்மையை இழக்காது",
+      "தொலைபேசிகளில் மின்னோட்டத்தின் வேதிவிளைவு பயன்படுகிறது",
+      "மின்னோட்டம் பாயும் திசையைப் பொறுத்து கம்பிச் சுருளின் இரு முனைகளிலும் மின்முனைகள் மாற்றமடையும்."
+    ],
+    "correct": 3,
+    "question_en": "Choose the correct statement.",
+    "options_en": [
+      "One application of the magnetic effect of current is the electric fuse.",
+      "A coil of wire does not lose its magnetism when the current stops flowing",
+      "Telephones use the chemical reaction of electric current",
+      "Electrodes at both ends of the wire coil will change depending on the direction of current flow."
+    ],
+    "explanation": "மின்னோட்டம் பாயும் திசையைப் பொறுத்து கம்பிச் சுருளின் இரு முனைகளிலும் மின்முனைகள் மாற்றமடையும்.",
+    "explanation_en": "Electrodes at both ends of the wire coil will change depending on the direction of current flow."
+  },
+  {
+    "id": 76,
+    "question": "கம்பளத்தில் கால்களைத் தேய்த்துவிட்டு கதவின் கைப்பிடி அல்லது ஈரமான சுவரைத் தொடும்பொழுது மின்னதிர்ச்சி ஏற்படக் காரணமான நிகழ்வு",
+    "options": [
+      "மின்னிறக்கம்",
+      "மின்னேற்றம்",
+      "அயனியாக்கம்",
+      "மின்னாற் பகுத்தல்"
+    ],
+    "correct": 0,
+    "question_en": "A case of rubbing your feet on a carpet and touching a doorknob or wet wall can cause an electric shock.",
+    "options_en": [
+      "Discharge",
+      "charge",
+      "Ionization",
+      "Electrolysis"
+    ],
+    "explanation": "மின்னிறக்கம்",
+    "explanation_en": "Discharge"
+  },
+  {
+    "id": 77,
+    "question": "பொருத்துக.\ni. மின்னோட்டம் - A. 250 மில்லி ஆம்பியர்\nii. 1 மில்லி ஆம்பியர் (mA) - B. 2500000 மைக்ரோ ஆம்பியர்\niii. 1 மைக்ரோ ஆம்பியர் (µA) - C. q/t\niv. 0.25 ஆம்பியர் - D. 1/10³ A\nv. 2.5 ஆம்பியர் - E. 1/10⁶ A",
+    "options": [
+      "i. C, ii. A, iii. B, iv. D, v. E",
+      "i. C, ii. D, iii. E, iv. A, v. B",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. C, ii. D, iii. E, iv. B, v. A"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. Current – A. 250 milliampere\nii. 1 milliampere (mA) - B. 2500000 microampere\niii. 1 microampere (µA) - C. q/t\niv. 0.25 ampere - D. 1/10³ A\nv. 2.5 Ampere - E. 1/10⁶ A",
+    "options_en": [
+      "i. C, ii. A, iii. B, iv. D, v. E",
+      "i. C, ii. D, iii. E, iv. A, v. B",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. C, ii. D, iii. E, iv. B, v. A"
+    ],
+    "explanation": "i. C, ii. D, iii. E, iv. A, v. B",
+    "explanation_en": "i. C, ii. D, iii. E, iv. A, v. B"
+  },
+  {
+    "id": 78,
+    "question": "ஒரு கடத்தியின் வழியே ஒரு விநாடியில், ஒரு குறிப்பிட்ட புள்ளியை, 10 அலகுகள் கொண்ட மின்னூட்டம் கடந்து செல்கிறது. எனில் அக்கடத்தியின் வழியே செல்லும் மின்னோட்டத்தின் அளவு யாது?",
+    "options": [
+      "10 ஆம்பியர்",
+      "1 ஆம்பியர்",
+      "10 கூலூம்",
+      "1 வோல்ட்"
+    ],
+    "correct": 0,
+    "question_en": "A charge of 10 units passes through a conductor at a given point in one second. So what is the magnitude of the current passing through that conductor?",
+    "options_en": [
+      "10 ampere",
+      "1 ampere",
+      "10 Cooloom",
+      "1 volt"
+    ],
+    "explanation": "ஒரு கடத்தியின் வழியே ஒரு விநாடியில், ஒரு குறிப்பிட்ட புள்ளியை, 10 அலகுகள் கொண்ட மின்னூட்டம் கடந்து செல்கிறது. எனில் அக்கடத்தியின் வழியே செல்லும் மின்னோட்டத்தின் அளவு 10 ஆம்பியர் ஆகும்.",
+    "explanation_en": "A charge of 10 units passes through a conductor at a given point in one second. So 10 ampere is the magnitude of the current passing through that conductor."
+  },
+  {
+    "id": 79,
+    "question": "0.25 ஆம்பியர் (A) மின்னோட்டத்தை மில்லி ஆம்பியரில் (mA) கூறுக.",
+    "options": [
+      "2.5 mA",
+      "25 mA",
+      "250 mA",
+      "2500 mA"
+    ],
+    "correct": 2,
+    "question_en": "Express the current of 0.25 ampere (A) in milliampere (mA).",
+    "options_en": [
+      "2.5 mA",
+      "25 mA",
+      "250 mA",
+      "2500 mA"
+    ],
+    "explanation": "250 mA",
+    "explanation_en": "250 mA"
+  },
+  {
+    "id": 80,
+    "question": "பொருத்துக\ni. மின்கலம் - A. மின்சுற்றை திறக்க அல்லது மூட பயன்படுகிறது.\nii. சாவி - B. பாதுகாப்பு சாதனம்\niii. மின்சுற்று - C. வேதி ஆற்றலை மின் ஆற்றலாக மாற்றும்\niv. மின் உருகி - D. மின்னோட்டம் செல்லும் மூடிய பாதை",
+    "options": [
+      "i. A, ii. B, iii. C, iv. D",
+      "i. B, ii. D, iii. C, iv. A",
+      "i. C, ii. A, iii. D, iv. B",
+      "i. C, ii. D, iii. B, iv. A"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. Battery – A. Used to open or close an electric circuit.\nii. Key - B. Safety device\niii. Electric Circuit – C. Converts chemical energy into electrical energy\niv. Electrical fuse - D. Closed path for current flow",
+    "options_en": [
+      "i. A, ii. B, iii. C, iv. D",
+      "i. B, ii. D, iii. C, iv. A",
+      "i. C, ii. A, iii. D, iv. B",
+      "i. C, ii. D, iii. B, iv. A"
+    ],
+    "explanation": "i. C, ii. A, iii. D, iv. B",
+    "explanation_en": "i. C, ii. A, iii. D, iv. B"
+  },
+  {
+    "id": 81,
+    "question": "ஒப்புமைப்படுத்துக\nமில்லி ஆம்பியர் : 10⁻³ ஆம்பியர் :: மைக்ரோ ஆம்பியர் : _____",
+    "options": [
+      "10⁻⁵",
+      "10⁻⁶",
+      "10⁻⁷",
+      "10⁻⁸"
+    ],
+    "correct": 1,
+    "question_en": "Compare\nMilliampere : 10⁻³ Ampere :: Microampere : _____",
+    "options_en": [
+      "10⁻⁵",
+      "10⁻⁶",
+      "10⁻⁷",
+      "10⁻⁸"
+    ],
+    "explanation": "ஒப்புமைப்படுத்துக\nமில்லி ஆம்பியர் : 10⁻³ ஆம்பியர் :: மைக்ரோ ஆம்பியர் : 10⁻⁶",
+    "explanation_en": "Compare\nMilliampere : 10⁻³ Ampere :: Microampere : 10⁻⁶"
+  },
+  {
+    "id": 82,
+    "question": "பொருத்துக.\ni. இரு ஓரின மின்துகள்கள் - A. நேர் மின்னூட்டம்\nii. இரு வேறின மின்துகள்கள் - B. பாதுகாப்பு சாதனம்\niii. கண்ணாடித் துண்டை பட்டுத் துணியில் தேய்க்க - C. ஒன்றையொன்று விலக்கும்\niv. ரப்பர் தண்டை கம்பளியில் தேய்க்க - D. ஒன்றையொன்று கவரும்\nv. மின் உருகி - E. எதிர் மின்னூட்டம்",
+    "options": [
+      "i. D, ii. C, iii. B, iv. E, v. A",
+      "i. C, ii. D, iii. A, iv. E, v. B",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. D, ii. C, iii. E, iv. B, v. A"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. Two identical electrons - A. Positive charge\nii. Two different electrodes – B. Protective device\niii. To rub a piece of glass on a piece of silk – C. repel each other\niv. Rub the rubber rod on the wool – D. attract each other\nv. Electric fuse - E. Countercharge",
+    "options_en": [
+      "i. D, ii. C, iii. B, iv. E, v. A",
+      "i. C, ii. D, iii. A, iv. E, v. B",
+      "i. C, ii. A, iii. E, iv. B, v. D",
+      "i. D, ii. C, iii. E, iv. B, v. A"
+    ],
+    "explanation": "i. C, ii. D, iii. A, iv. E, v. B",
+    "explanation_en": "i. C, ii. D, iii. A, iv. E, v. B"
+  },
+  {
+    "id": 83,
+    "question": "கூற்று: மின்னலினால் பாதிக்கப்படும் மக்கள் கடுமையான மின்னதிர்ச்சியை உணர்வார்கள்.\nகாரணம்: மின்னல் அதிக மின்னழுத்ததைக் கொண்டிருக்கும்",
+    "options": [
+      "கூற்று, காரணம் சரி. மேலும் காரணம் கூற்றுக்கு சரியான விளக்கம்.",
+      "கூற்று, காரணம் சரி. ஆனால் காரணம் கூற்றுக்கு சரியான விளக்கம் அல்ல.",
+      "கூற்று, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: People who are struck by lightning will feel a severe shock.\nReason: Lightning carries high voltage",
+    "options_en": [
+      "The statement is correct. And reason is the correct explanation for the claim.",
+      "The statement is correct. But reason is not a valid explanation for the claim.",
+      "Statement, reason is wrong",
+      "The statement is wrong, the reason is right"
+    ],
+    "explanation": "கூற்று, காரணம் சரி. மேலும் காரணம் கூற்றுக்கு சரியான விளக்கம்.",
+    "explanation_en": "The statement is correct. And reason is the correct explanation for the claim."
+  },
+  {
+    "id": 84,
+    "question": "கூற்று: மின்னலின் போது உயரமான மரத்தின் அடியில் நிற்பது நல்லது.\nகாரணம்: அது உங்களை மின்னலுக்கான இலக்காக மாற்றும்",
+    "options": [
+      "கூற்று, காரணம் சரி. மேலும் காரணம் கூற்றுக்கு சரியான விளக்கம்.",
+      "கூற்று, காரணம் சரி. ஆனால் காரணம் கூற்றுக்கு சரியான விளக்கம் அல்ல.",
+      "கூற்று, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Proposition: It is better to stand under a tall tree during lightning.\nReason: It makes you a target for lightning",
+    "options_en": [
+      "The statement is correct. And reason is the correct explanation for the claim.",
+      "The statement is correct. But reason is not a valid explanation for the claim.",
+      "Statement, reason is wrong",
+      "The statement is wrong, the reason is right"
+    ],
+    "explanation": "கூற்று தவறு, காரணம் சரி",
+    "explanation_en": "The statement is wrong, the reason is right"
+  },
+  {
+    "id": 85,
+    "question": "மின்னியற்றியின் தத்துவம் (NMMS-2011)",
+    "options": [
+      "காந்தத் தூண்டல்",
+      "மின்காந்தத் தூண்டல்",
+      "மின் தூண்டல்",
+      "மின்னோட்டத்தின் வெப்ப விளைவு"
+    ],
+    "correct": 1,
+    "question_en": "Theory of Electricity (NMMS-2011)",
+    "options_en": [
+      "Magnetic induction",
+      "Electromagnetic induction",
+      "Electrical induction",
+      "Thermal effect of electric current"
+    ],
+    "explanation": "மின்காந்தத் தூண்டல்",
+    "explanation_en": "Electromagnetic induction"
+  },
+  {
+    "id": 86,
+    "question": "கீழ்காணும் மின்சுற்றில் பாயும் மின்னோட்டத்தின் அளவு (NMMS-2011)",
+    "options": [
+      "1.5 A",
+      "2.5 A",
+      "0.5 A",
+      "0.33 A"
+    ],
+    "correct": 0,
+    "question_en": "The magnitude of the current flowing in the circuit shown below (NMMS-2011)",
+    "options_en": [
+      "1.5 A",
+      "2.5 A",
+      "0.5A",
+      "0.33 A"
+    ],
+    "explanation": "1.5 A",
+    "explanation_en": "1.5 A"
+  },
+  {
+    "id": 87,
+    "question": "கீழ்க்காண்பவற்றுள் மின் கடத்தாப் பொருள் எது?",
+    "options": [
+      "காப்பர்",
+      "நெகிழி",
+      "கடல் நீர்",
+      "இரும்பு"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is an electrical conductor?",
+    "options_en": [
+      "Copper",
+      "flexibility",
+      "sea ​​water",
+      "Iron"
+    ],
+    "explanation": "கீழ்க்காண்பவற்றுள் மின் கடத்தாப் பொருள் நெகிழி ஆகும்.",
+    "explanation_en": "Flexibility is an electrical conductor."
+  },
+  {
+    "id": 88,
+    "question": "மின் கடத்தாப் பொருளுக்கு எடுத்துக்காட்டு [NMMS-2012]",
+    "options": [
+      "குளத்து நீர்",
+      "கடல் நீர்",
+      "வாலை வடிநீர்",
+      "கிணற்று நீர்"
+    ],
+    "correct": 2,
+    "question_en": "Example of Electrically Conductive Material [NMMS-2012]",
+    "options_en": [
+      "Pond water",
+      "sea ​​water",
+      "Tail drain",
+      "Well water"
+    ],
+    "explanation": "வாலை வடிநீர்",
+    "explanation_en": "Tail drain"
+  },
+  {
+    "id": 89,
+    "question": "சரியான பொருத்தம்.\n(i) குரோமியம் உலோகத்தால் மின்பூச்சு - (A) தானியங்கிகள்\n(ii) வெள்ளீயத்தாலான மின்பூச்சு - (B) கைக்கடிகாரம்\n(iii) தங்க முலாம் - (C) குளியலறை குழாய்கள்\n(iv) நிக்கல் முலாம் - (D) சாப்பாட்டு மேசையில் பயன்படும் பொருட்கள்",
+    "options": [
+      "(i)-(C), (ii)-(D), (iii)-(B), (iv)-(A)",
+      "(i)-(A), (ii)-(B), (iii)-(D), (iv)-(C)",
+      "(i)-(B), (ii)-(D), (iii)-(A), (iv)-(C)",
+      "(i)-(A), (ii)-(C), (iii)-(D), (iv)-(B)"
+    ],
+    "correct": 0,
+    "question_en": "Perfect fit.\n(i) Electroplating with chromium metal – (A) Automatics\n(ii) Silver plating - (B) Wrist watch\n(iii) Gold plating – (C) Bathroom faucets\n(iv) Nickel plating - (D) Tableware",
+    "options_en": [
+      "(i)-(C), (ii)-(D), (iii)-(B), (iv)-(A)",
+      "(i)-(A), (ii)-(B), (iii)-(D), (iv)-(C)",
+      "(i)-(B), (ii)-(D), (iii)-(A), (iv)-(C)",
+      "(i)-(A), (ii)-(C), (iii)-(D), (iv)-(B)"
+    ],
+    "explanation": "(i)-(C), (ii)-(D), (iii)-(B), (iv)-(A)",
+    "explanation_en": "(i)-(C), (ii)-(D), (iii)-(B), (iv)-(A)"
+  },
+  {
+    "id": 90,
+    "question": "பொருட்கள் மின்னூட்டம் பெறும்போது ஒரு பொருளிலிருந்து மற்றொரு பொருளுக்கு மாற்றப்படும் துகள் [NMMS-2012]",
+    "options": [
+      "எலக்ட்ரான்கள்",
+      "புரோட்டான்கள்",
+      "நியூட்ரான்கள்",
+      "அணுக்கள்"
+    ],
+    "correct": 0,
+    "question_en": "A particle transferred from one substance to another when the substance gains charge [NMMS-2012]",
+    "options_en": [
+      "Electrons",
+      "Protons",
+      "Neutrons",
+      "Atoms"
+    ],
+    "explanation": "எலக்ட்ரான்கள்",
+    "explanation_en": "Electrons"
+  },
+  {
+    "id": 91,
+    "question": "மின்னல் தாங்கியை கண்டுபிடித்தவர் [NMMS-2012] (NMMS -2015)",
+    "options": [
+      "பெஞ்சமின் ப்ராங்க்ளின்",
+      "ஜேம்ஸ் வாட்",
+      "ஜார்ஜ் சைமன் ஓம்",
+      "மைக்கேல் பாரடே"
+    ],
+    "correct": 0,
+    "question_en": "Inventor of lightning rod [NMMS-2012] (NMMS-2015)",
+    "options_en": [
+      "Benjamin Franklin",
+      "James Watt",
+      "George Simon Ohm",
+      "Michael Barade"
+    ],
+    "explanation": "பெஞ்சமின் ப்ராங்க்ளின்",
+    "explanation_en": "Benjamin Franklin"
+  },
+  {
+    "id": 92,
+    "question": "மின் சுற்றில் செல்லும் மின்னோட்டத்தைக் கண்டறியப் பயன்படும் கருவி [NMMS-2014]",
+    "options": [
+      "ஓடோமீட்டர்",
+      "கால்வனா மீட்டர்",
+      "வோல்ட் மீட்டர்",
+      "அம்மீட்டர்"
+    ],
+    "correct": 3,
+    "question_en": "Instrument used to detect current in an electrical circuit [NMMS-2014]",
+    "options_en": [
+      "Odometer",
+      "Galvan meter",
+      "Volt meter",
+      "Ammeter"
+    ],
+    "explanation": "அம்மீட்டர்",
+    "explanation_en": "Ammeter"
+  },
+  {
+    "id": 93,
+    "question": "வீடுகளில் இணைக்கப்படும் மின்சுற்று (NMMS 2015 2016)",
+    "options": [
+      "எளிய மின்சுற்று",
+      "பக்க இணைப்பு சுற்று",
+      "தொடர் இணைப்பு சுற்று",
+      "ஏதுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Household Connection (NMMS 2015 2016)",
+    "options_en": [
+      "Simple circuit",
+      "Side link circuit",
+      "Series connection circuit",
+      "Nothing"
+    ],
+    "explanation": "பக்க இணைப்பு சுற்று",
+    "explanation_en": "Side link circuit"
+  },
+  {
+    "id": 94,
+    "question": "மின்கலத்தில் நடைபெறும் ஆற்றல் மாற்றம் (NMMS 2015-2016)",
+    "options": [
+      "மின்னாற்றல் வேதியாற்றலாக மாற்றப்படுகிறது",
+      "வேதியாற்றல் மின்னாற்றலாக மாற்றப்படுகிறது",
+      "வெப்ப ஆற்றல் மின்னாற்றலாக மாற்றப்படுகிறது",
+      "ஒளியாற்றல் மின்னாற்றலாக மாற்றப்படுகிறது"
+    ],
+    "correct": 1,
+    "question_en": "Energy Conversion in a Battery (NMMS 2015-2016)",
+    "options_en": [
+      "Electrical energy is converted into chemical energy",
+      "Chemical energy is converted into electrical energy",
+      "Heat energy is converted into electrical energy",
+      "Light energy is converted into electricity"
+    ],
+    "explanation": "வேதியாற்றல் மின்னாற்றலாக மாற்றப்படுகிறது",
+    "explanation_en": "Chemical energy is converted into electrical energy"
+  },
+  {
+    "id": 95,
+    "question": "மின் நடுநிலையில் உள்ள ஒரு பொருளை மின்னூட்டம் பெற்ற ஒரு பொருளினால் தொடாமலேயே மின்னூட்டமடையச் செய்யும் முறை [NMMS-2016]",
+    "options": [
+      "உராய்வின் மூலம் மின்னோட்டம் பெறுதல்",
+      "கடத்தல் மூலம் மின்னோட்டம் அடையச் செய்தல்.",
+      "தூண்டுதல் மூலம் மின்னோட்டம் அடையச் செய்தல்.",
+      "காந்தத்தின் மூலம் மின்னோட்டம் அடையச் செய்தல்."
+    ],
+    "correct": 2,
+    "question_en": "A method of making an electrically neutral object charged without being touched by a charged object [NMMS-2016]",
+    "options_en": [
+      "Getting current through friction",
+      "Causing current through conduction.",
+      "Causing a current through an inductor.",
+      "Passing current through a magnet."
+    ],
+    "explanation": "தூண்டுதல் மூலம் மின்னோட்டம் அடையச் செய்தல்.",
+    "explanation_en": "Causing a current through an inductor."
+  },
+  {
+    "id": 96,
+    "question": "பொருந்தாததைக் கண்டுபிடிக்கவும் (NMMS EXAM 2015 2016)",
+    "options": [
+      "ரொட்டி சுடும் மின் அடுப்பு",
+      "மின் தேய்ப்பு பெட்டி",
+      "மின் விளக்கு",
+      "அறை வெப்ப மூட்டி"
+    ],
+    "correct": 2,
+    "question_en": "Find the Mismatch (NMMS EXAM 2015 2016)",
+    "options_en": [
+      "Electric toaster oven",
+      "Electric scrubber box",
+      "Electric light",
+      "Room heater"
+    ],
+    "explanation": "மின் விளக்கு",
+    "explanation_en": "Electric light"
+  },
+  {
+    "id": 97,
+    "question": "இரண்டு மின்கலம், இரண்டு மின்பல்புகள் மற்றும் சாவி இவை தொடர் இணைப்பில் இணைக்கப்படும் போது அதற்கான மின்சுற்றினை கீழ்க்குறிப்பிட்டுள்ள படங்களிலிருந்து தேர்ந்தெடுக்கவும். [NMMS-2016]",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "question_en": "Select the circuit from the following figures when two batteries, two light bulbs and a key are connected in series. [NMMS-2016]",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation": "படம் 1",
+    "explanation_en": "Figure 1"
+  },
+  {
+    "id": 98,
+    "question": "கீழ்காணும் கூற்று / கூற்றுகளில் சரியானவற்றைக் கண்டுபிடிக்கவும். முதன்மை மின்கலங்கள் (NMMS 2018)\n(i) மின்னேற்றம் செய்ய இயலாதவை\n(ii) மீண்டும் பயன்படுத்த முடியாதவை\n(iii) மின்னேற்றம் செய்யவோ மீண்டும் பயன்படுத்தவோ முடியாதவை",
+    "options": [
+      "(i) மட்டும் சரி",
+      "(ii) மட்டும் சரி",
+      "(i), (ii)",
+      "(iii)"
+    ],
+    "correct": 3,
+    "question_en": "Find the correct statement/statements below. Primary Batteries (NMMS 2018)\n(i) Non-chargeable\n(ii) Non-reusable\n(iii) Non-rechargeable or reusable",
+    "options_en": [
+      "(i) only is correct",
+      "(ii) only is correct",
+      "(i), (ii)",
+      "(iii)"
+    ],
+    "explanation": "(iii)",
+    "explanation_en": "(iii)"
+  },
+  {
+    "id": 99,
+    "question": "ஒளி உமிழ் டையோடு என்பது ______ பொருள்களால் செய்யப்பட்டது. (NMMS 2018)",
+    "options": [
+      "மின்கடத்தும்",
+      "குறைகடத்தி",
+      "மின்கடத்தா",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "A light emitting diode is made of ______ materials. (NMMS 2018)",
+    "options_en": [
+      "Conductive",
+      "semiconductor",
+      "Dielectric",
+      "All these"
+    ],
+    "explanation": "ஒளி உமிழ் டையோடு என்பது குறைகடத்தி பொருள்களால் செய்யப்பட்டது. (NMMS 2018)",
+    "explanation_en": "A light emitting diode is made of semiconductor materials. (NMMS 2018)"
+  },
+  {
+    "id": 100,
+    "question": "நாக முலாம் பூசுதல் என்பது (NMMS 2019-2020)",
+    "options": [
+      "குரோமியத்தை இரும்பின் மீது பூசுதல்.",
+      "இரும்பின் மீது துத்தநாகத்தைப் பூசுதல்.",
+      "வெள்ளிய உலோகத்தை இரும்பின் மீது பூசுதல்",
+      "வண்ணப்பூச்சு பூசுதல்"
+    ],
+    "correct": 1,
+    "question_en": "Naga Plating is (NMMS 2019-2020)",
+    "options_en": [
+      "Chromium plating on iron.",
+      "Zinc plating on iron.",
+      "Plating silver metal on iron",
+      "Applying paint"
+    ],
+    "explanation": "இரும்பின் மீது துத்தநாகத்தைப் பூசுதல்.",
+    "explanation_en": "Zinc plating on iron."
+  },
+  {
+    "id": 101,
+    "question": "கீழ்க்கண்ட குறியீடு குறிப்பது (NMMS 2019-2020)",
+    "options": [
+      "மின்கலம்",
+      "தொடுசாவி",
+      "மின்கல அடுக்கு",
+      "இணைப்புக் கம்பி"
+    ],
+    "correct": 2,
+    "question_en": "The following code indicates (NMMS 2019-2020)",
+    "options_en": [
+      "Battery",
+      "touch key",
+      "Battery layer",
+      "Connecting wire"
+    ],
+    "explanation": "மின்கல அடுக்கு",
+    "explanation_en": "Battery layer"
+  },
+  {
+    "id": 102,
+    "question": "பொருத்துக.\n(1) வெப்ப குடுவை - i. வில்லியம் கில்பர்ட்\n(2) கலோரி மீட்டர் - ii. சர் ஜேம்ஸ் திவார்\n(3) நிலை மின்காட்டி - iii. ஆப்ரஹாம் பென்னட்\n(4) தங்க இலை நிலைமின்காட்டி - iv. பியரே சைமன் லாப்லாஸ்",
+    "options": [
+      "(1)-ii, (2)-iv, (3)-i, (4)-iii",
+      "(1)-ii, (2)-iii, (3)-i, (4)-iv",
+      "(1)-i, (2)-iii, (3)-iv, (4)-ii",
+      "(1)-iii, (2)-ii, (3)-iv, (4)-i"
+    ],
+    "correct": 0,
+    "question_en": "match\n(1) Heating flask – i. William Gilbert\n(2) Calorie meter – ii. Sir James Dewar\n(3) Level indicator – iii. Abraham Bennett\n(4) Gold leaf potentiometer – iv. Pierre Simon Laplace",
+    "options_en": [
+      "(1)-ii, (2)-iv, (3)-i, (4)-iii",
+      "(1)-ii, (2)-iii, (3)-i, (4)-iv",
+      "(1)-i, (2)-iii, (3)-iv, (4)-ii",
+      "(1)-iii, (2)-ii, (3)-iv, (4)-i"
+    ],
+    "explanation": "(1)-ii, (2)-iv, (3)-i, (4)-iii",
+    "explanation_en": "(1)-ii, (2)-iv, (3)-i, (4)-iii"
+  },
+  {
+    "id": 103,
+    "question": "சிம்கார்டுகளில் பயன்படுத்தப்படும் சிப்புகள் சிலிக்கான் மற்றும் ஜெர்மானியத்தால் ஆனவை. ஏனெனில் அவற்றின் ______ நற்கடத்திகள் மற்றும் காப்பான்களுக்கு இடையில் அமைந்திருக்கும் (NMMS 2020-21)",
+    "options": [
+      "காந்தத் தூண்டல்",
+      "மின்னோட்டம்",
+      "மின்கடத்துத்திறன்",
+      "மின்தடை"
+    ],
+    "correct": 2,
+    "question_en": "The chips used in SIM cards are made of silicon and germanium. Because their ______ is located between conductors and insulators (NMMS 2020-21)",
+    "options_en": [
+      "Magnetic induction",
+      "current",
+      "Electrical conductivity",
+      "electrical resistance"
+    ],
+    "explanation": "சிம்கார்டுகளில் பயன்படுத்தப்படும் சிப்புகள் சிலிக்கான் மற்றும் ஜெர்மானியத்தால் ஆனவை. ஏனெனில் அவற்றின் மின்கடத்துத்திறன் நற்கடத்திகள் மற்றும் காப்பான்களுக்கு இடையில் அமைந்திருக்கும் (NMMS 2020-21)",
+    "explanation_en": "The chips used in SIM cards are made of silicon and germanium. Because their Electrical conductivity is located between conductors and insulators (NMMS 2020-21)"
+  },
+  {
+    "id": 104,
+    "question": "செயற்கை இழையால் ஆன ஒரு துண்டுத் துணியில் ஒரு காற்று நிரப்பப்பட்ட பலூனை தேய்த்து அதை ஒரு சுவற்றில் வைத்து அழுத்தினால், அந்த பலூனானது சுவற்றுடன் ஒட்டிக் கொள்வதை காணலாம். இதற்கு காரணமான விசை (NMMS 2018)",
+    "options": [
+      "காந்தவிசை",
+      "தொடு விசை",
+      "சுவற்றிற்கும், பலூனிற்கும் இடையே உள்ள அழுத்தம்",
+      "நிலை மின்னியல் விசை"
+    ],
+    "correct": 3,
+    "question_en": "If you rub an air-filled balloon on a piece of synthetic fiber and press it against a wall, you will see that the balloon sticks to the wall. The key to this (NMMS 2018)",
+    "options_en": [
+      "magnetism",
+      "Touch key",
+      "Pressure between the wall and the balloon",
+      "Electrostatic force"
+    ],
+    "explanation": "நிலை மின்னியல் விசை",
+    "explanation_en": "Electrostatic force"
+  }
+]

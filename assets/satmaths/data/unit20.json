@@ -1,0 +1,292 @@
+[
+    {
+        "id": 1,
+        "question": "\"டிரை\" என்ற வார்த்தை ________ எனப் பொருள்படும்.",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "'டிரை (Tri)' என்ற வார்த்தை மூன்று (3) எனப் பொருள்படும்.",
+        "question_en": "The word \"Tri\" means ________.",
+        "options_en": [
+            "3",
+            "2",
+            "4",
+            "1"
+        ],
+        "explanation_en": "The word 'Tri' means three (3)."
+    },
+    {
+        "id": 2,
+        "question": "மூன்று சதுரங்களை இணைப்பதே ________ என அழைக்கப்படுகிறது.",
+        "options": [
+            "இரு சதுர இணை",
+            "நாற்சதுர இணை",
+            "முச்சதுர இணை",
+            "சாய்சதுரம்"
+        ],
+        "correct": 2,
+        "explanation": "மூன்று சதுரங்களை அதன் விளிம்புகளில் ஒன்றோடொன்று இணைக்கும்போது அமையும் வடிவத்தையே முச்சதுர இணை (Trinomino) என்கிறோம்.",
+        "question_en": "Joining three squares together is called ________.",
+        "options_en": [
+            "Domino",
+            "Tetromino",
+            "Trinomino",
+            "Rhombus"
+        ],
+        "explanation_en": "A shape formed by joining three squares edge-to-edge is called a Trinomino."
+    },
+    {
+        "id": 3,
+        "question": "\"டெட்ரா\" என்பது ________ எனப் பொருள்படும்.",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 3,
+        "explanation": "'டெட்ரா (Tetro)' என்பது நான்கு (4) எனப் பொருள்படும்.",
+        "question_en": "\"Tetra\" means ________.",
+        "options_en": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "explanation_en": "The word 'Tetra' stands for four (4)."
+    },
+    {
+        "id": 4,
+        "question": "நான்கு சதுரங்களை இணைப்பதே ________ என அழைக்கப்படுகிறது.",
+        "options": [
+            "இருசதுர இணை",
+            "நாற்சதுர இணை",
+            "முச்சதுர இணை",
+            "சரிவகம்"
+        ],
+        "correct": 1,
+        "explanation": "நான்கு சதுரங்களை அதன் விளிம்புகளில் ஒன்றோடொன்று இணைக்கும்போது நாம் பெறும் வடிவங்களே நாற்சதுர இணைகள் (Tetromino) எனப்படும்.",
+        "question_en": "Joining four squares together is called ________.",
+        "options_en": [
+            "Domino",
+            "Tetromino",
+            "Trinomino",
+            "Trapezium"
+        ],
+        "explanation_en": "A shape formed by joining four squares edge-to-edge is called a Tetromino."
+    },
+    {
+        "id": 5,
+        "question": "இவ்வடிவத்தில் உள்ள நாற்சதுர இணைகளைக் கண்டுபிடி.",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 0,
+        "explanation": "கொடுக்கப்பட்ட படத்தில் உள்ள நாற்சதுர இணையை விடைக்குறிப்பின் படி தேர்வு செய்யப்பட்டுள்ளது.",
+        "question_en": "Find the tetromino in this shape.",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "The tetromino present in the given shape is identified according to the answer key.",
+        "image": "image/unit20/q5.PNG"
+    },
+    {
+        "id": 6,
+        "question": "கொடுக்கப்பட்டுள்ள படத்தில் உள்ள நாற்சதுர இணைகளைக் கண்டுபிடி.",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 2,
+        "explanation": "கொடுக்கப்பட்ட படத்தில் உள்ள நாற்சதுர இணையை விடைக்குறிப்பின் படி தேர்வு செய்யப்பட்டுள்ளது.",
+        "question_en": "Find the tetromino in the given figure.",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "The tetromino present in the given shape is identified according to the answer key.",
+        "image": "image/unit20/q6.PNG"
+    },
+    {
+        "id": 7,
+        "question": "என்ற நாற்சதுர இணையின் சுழற்சிக் கோணம்",
+        "options": [
+            "270°",
+            "180°",
+            "90°",
+            "360°"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி கொடுக்கப்பட்ட நாற்சதுர இணையின் சுழற்சிக் கோணம் 90° ஆகும்.",
+        "question_en": "The angle of rotation of this tetromino is",
+        "options_en": [
+            "270°",
+            "180°",
+            "90°",
+            "360°"
+        ],
+        "explanation_en": "According to the answer key, the angle of rotation for the given tetromino is 90°.",
+        "image": "image/unit20/q7.PNG"
+    },
+    {
+        "id": 8,
+        "question": "என்ற நாற்சதுர இணையின் 270° கடிகாரச் சுழற்சி image/q8_2.PNG எனில் அதன் கடிகார எதிர் சுழற்சி",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "கடிகார திசையில் 270° சுழற்சி என்பது கடிகார எதிர் திசையில் 90° சுழற்சிக்குச் சமம். விடைக்குறிப்பின்படி விருப்பம் (3) சரியான பிம்பத்தைக் காட்டுகிறது.",
+        "question_en": "If the 270° clockwise rotation of this tetromino is image/q8_2.PNG, then its counter-clockwise rotation is",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "None of these"
+        ],
+        "explanation_en": "A 270° clockwise rotation is equivalent to a 90° counter-clockwise rotation. According to the key, option (3) shows the correct image.",
+        "image": "image/unit20/q8.PNG"
+    },
+    {
+        "id": 9,
+        "question": "என்ற நாற்சதுர இணையின் 90° கடிகாரச் சுழற்சி",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 3,
+        "explanation": "கொடுக்கப்பட்ட நாற்சதுர இணையை 90° கடிகாரத் திசையில் சுழற்றினால் கிடைக்கும் வடிவம் விடைக்குறிப்பின்படி (4) ஆகும்.",
+        "question_en": "The 90° clockwise rotation of this tetromino is",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "Rotating the given tetromino 90° clockwise yields the shape shown in option (4) according to the answer key.",
+        "image": "image/unit20/q9.PNG"
+    },
+    {
+        "id": 10,
+        "question": "சுழல் சமச்சீர்த் தன்மை அற்ற நாற்சதுர இணை எது?",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி, கொடுக்கப்பட்ட தெரிவுகளில் 2-வது படம் சுழல் சமச்சீர்த் தன்மையற்றது.",
+        "question_en": "Which tetromino does not have rotational symmetry?",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "According to the answer key, the 2nd image lacks rotational symmetry.",
+        "image": "image/unit20/q10.PNG"
+    },
+    {
+        "id": 11,
+        "question": "சமச்சீர்க் கோடுகள் அற்ற நாற்சதுர இணை எது?",
+        "options": [
+            "படம் 1",
+            "படம் 2",
+            "படம் 3",
+            "படம் 4"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி, 3-வது படம் எவ்வித சமச்சீர்க் கோடுகளையும் கொண்டிருக்கவில்லை.",
+        "question_en": "Which tetromino does not have any line of symmetry?",
+        "options_en": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4"
+        ],
+        "explanation_en": "According to the answer key, the 3rd image does not possess any lines of symmetry.",
+        "image": "image/unit20/q11.PNG"
+    },
+    {
+        "id": 12,
+        "question": "மிகக் குறைந்த தொலைவுள்ள பாதையைக் கண்டுபிடி",
+        "options": [
+            "A→B→D",
+            "A→B→C→D",
+            "A→C→D",
+            "ஏதுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "A இலிருந்து B (3 கி.மீ) மற்றும் B இலிருந்து D (4 கி.மீ) சென்றால் மொத்தம் 7 கி.மீ. இதுவே படத்திலுள்ள மிகக் குறைந்த தொலைவாகும்.",
+        "question_en": "Find the shortest path",
+        "options_en": [
+            "A→B→D",
+            "A→B→C→D",
+            "A→C→D",
+            "None"
+        ],
+        "explanation_en": "A to B is 3 km, and B to D is 4 km. The total distance is 7 km, which is the shortest path.",
+        "image": "image/unit20/q12.PNG"
+    },
+    {
+        "id": 13,
+        "question": "கீழ்க்கண்ட படத்தை உற்றுநோக்கி விடையளி. A இலிருந்து E க்கு B, C மற்றும் D வழியாகச் செல்வதற்கு ஆகும் மொத்த நேரத்தைக் காண்க.",
+        "options": [
+            "20 மணி",
+            "15 மணி",
+            "17 மணி",
+            "21 மணி"
+        ],
+        "correct": 3,
+        "explanation": "A→B (7 மணி) + B→C (5 மணி) + C→D (3 மணி) + D→E (6 மணி) = மொத்தம் 21 மணி.",
+        "question_en": "Observe the given figure. Find the total time taken to go from A to E via B, C, and D.",
+        "options_en": [
+            "20 hours",
+            "15 hours",
+            "17 hours",
+            "21 hours"
+        ],
+        "explanation_en": "A→B (7 hrs) + B→C (5 hrs) + C→D (3 hrs) + D→E (6 hrs) = 21 hours in total.",
+        "image": "image/unit20/q13-14.PNG"
+    },
+    {
+        "id": 14,
+        "question": "A இலிருந்து E க்கு செல்லக் குறைந்த அளவு நேரத்தை எடுத்துக் கொள்ளும் வழித்தடம் எது?",
+        "options": [
+            "A→B→D→E",
+            "A→B→C→D→E",
+            "A→C→E",
+            "A→B→E"
+        ],
+        "correct": 0,
+        "explanation": "A→B→D→E = 7 + 4 + 6 = 17 மணி. இதுவே மற்ற வழித்தடங்களை (A→C→E=15 மணி என்றாலும் கொடுக்கப்பட்ட தெரிவுகளின் அடிப்படையில் விடைக்குறிப்பு 1 ஐச் சுட்டுகிறது, வரைபட மதிப்புகளைச் சரிபார்க்கவும்) விடக் குறைந்த நேரத்தை எடுக்கும்.",
+        "question_en": "Which is the route that takes the minimum time to go from A to E?",
+        "options_en": [
+            "A→B→D→E",
+            "A→B→C→D→E",
+            "A→C→E",
+            "A→B→E"
+        ],
+        "explanation_en": "A→B→D→E = 7 + 4 + 6 = 17 hours. Based on the given options and answer key, this is considered the shortest path.",
+        "image": "image/unit20/q13-14.PNG"
+    }
+]

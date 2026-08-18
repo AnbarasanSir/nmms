@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "SQUARE என்பது 1917211185 என உருவாக்கப்பட்டால், RECTANGLE என்பதன் உருவாக்கம் என்ன?",
+    "options": [
+      "1753201147125",
+      "1853201147125",
+      "1953201147125",
+      "1853201114126"
+    ],
+    "correct": 1,
+    "explanation": "A முதல் Z வரை எழுத்துக்களின் இடமதிப்பு: R=18, E=5, C=3, T=20, A=1, N=14, G=7, L=12, E=5 => 1853201147125.",
+    "question_en": "If SQUARE is formed as 1917211185, what is the formation of RECTANGLE?",
+    "options_en": [
+      "1753201147125",
+      "1853201147125",
+      "1953201147125",
+      "1853201114126"
+    ],
+    "explanation_en": "Space value of letters A to Z: R=18, E=5, C=3, T=20, A=1, N=14, G=7, L=12, E=5 => 1853201147125."
+  },
+  {
+    "id": 2,
+    "question": "PAINT என்பது 98765 எனவும், EXCEL என்பது 12314 எனவும், குறிடப்பட்டால், ACCEPT என்பது குறியிடப்படும் விதம்____",
+    "options": [
+      "766456",
+      "833195",
+      "834596",
+      "833598"
+    ],
+    "correct": 1,
+    "explanation": "P=9, A=8, I=7, N=6, T=5 மற்றும் E=1, X=2, C=3, E=1, L=4. எனவே ACCEPT = A(8) C(3) C(3) E(1) P(9) T(5) = 833195.",
+    "question_en": "If PAINT is 98765, EXCEL is 12314, and ACCEPT is coded as ____",
+    "options_en": [
+      "766456",
+      "833195",
+      "834596",
+      "833598"
+    ],
+    "explanation_en": "P=9, A=8, I=7, N=6, T=5 and E=1, X=2, C=3, E=1, L=4. So ACCEPT = A(8) C(3) C(3) E(1) P(9) T(5) = 833195."
+  },
+  {
+    "id": 3,
+    "question": "GOOD என்பது JRRG எனவும், JACK என்பது MDFN எனவும், எழுதப்பட்டால், FRUIT = ?",
+    "options": [
+      "IUYLW",
+      "IUXLW",
+      "IOXMW",
+      "IVXLW"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு 3-ஐக் கூட்டி குறியிடப்பட்டுள்ளது (+3). F(+3)=I, R(+3)=U, U(+3)=X, I(+3)=L, T(+3)=W => IUXLW.",
+    "question_en": "If GOOD is JRRG and JACK is MDFN, writing FRUIT = ?",
+    "options_en": [
+      "IUYLW",
+      "IUXLW",
+      "IOXMW",
+      "IVXLW"
+    ],
+    "explanation_en": "Each letter is coded by adding 3 to the corresponding number (+3). F(+3)=I, R(+3)=U, U(+3)=X, I(+3)=L, T(+3)=W => IUXLW."
+  },
+  {
+    "id": 4,
+    "question": "GOLD என்பது HOME எனவும், COME என்பது DONF எனவும், குறிடப்பட்டால், SONS என்பதைக் குறிக்கும் குறியீடு?",
+    "options": [
+      "TTOT",
+      "TOOT",
+      "TOOS",
+      "TONT"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு முறையே +1, 0, +1, +1-ஐக் கூட்டி குறியிடப்பட்டுள்ளது. S(+1)=T, O(+0)=O, N(+1)=O, S(+1)=T => TOOT. (புத்தகத்தில் +1, 0, +1, +1 என்று கொடுக்கப்பட்டுள்ளது).",
+    "question_en": "GOLD stands for HOME, COME stands for DONF, and if marked, SONS stands for ?",
+    "options_en": [
+      "TTOT",
+      "TOOT",
+      "TOOS",
+      "TONT"
+    ],
+    "explanation_en": "Each letter is coded by adding +1, 0, +1, +1 to the corresponding number respectively. S(+1)=T, O(+0)=O, N(+1)=O, S(+1)=T => TOOT. (Given as +1, 0, +1, +1 in the book)."
+  },
+  {
+    "id": 5,
+    "question": "ZA = YB எனில், XC=?",
+    "options": [
+      "WZ",
+      "NM",
+      "BC",
+      "WD"
+    ],
+    "correct": 3,
+    "explanation": "Z(-1)=Y, A(+1)=B. எனவே X(-1)=W, C(+1)=D => WD.",
+    "question_en": "If ZA = YB, then XC=?",
+    "options_en": [
+      "WZ",
+      "NM",
+      "BC",
+      "WD"
+    ],
+    "explanation_en": "Z(-1)=Y, A(+1)=B. So X(-1)=W, C(+1)=D => WD."
+  },
+  {
+    "id": 6,
+    "question": "TAMIL என்பது 55 எனில் ENGLISH = ?",
+    "options": [
+      "75",
+      "74",
+      "70",
+      "80"
+    ],
+    "correct": 1,
+    "explanation": "எழுத்துக்களின் இடமதிப்புகளின் கூடுதல். E(5) + N(14) + G(7) + L(12) + I(9) + S(19) + H(8) = 74.",
+    "question_en": "TAMIL is 55 if ENGLISH = ?",
+    "options_en": [
+      "75",
+      "74",
+      "70",
+      "80"
+    ],
+    "explanation_en": "Addition of character place values. E(5) + N(14) + G(7) + L(12) + I(9) + S(19) + H(8) = 74."
+  },
+  {
+    "id": 7,
+    "question": "T=2; F=5; S=6 என ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் எழுதப்பட்டுள்ளது. எனில் “8” என்ற எண் குறிப்பிடுவது யாது?",
+    "options": [
+      "E",
+      "I",
+      "H",
+      "G"
+    ],
+    "correct": 0,
+    "explanation": "TWO=2, FIVE=5, SIX=6, EIGHT=8. எனவே '8'-இன் முதல் எழுத்து E.",
+    "question_en": "T=2; F=5; S=6 is written in a particular code language. So what does the number “8” refer to?",
+    "options_en": [
+      "E",
+      "I",
+      "H",
+      "G"
+    ],
+    "explanation_en": "TWO=2, FIVE=5, SIX=6, EIGHT=8. So the first letter of '8' is E."
+  },
+  {
+    "id": 8,
+    "question": "NAGPUR என்பதை OBHQVS என குறியிடப்பட்டால், BENGALURU என்பதை எவ்வாறு குறியிடலாம்?",
+    "options": [
+      "DGPICMVSV",
+      "CFOHBMVSV",
+      "DGPICNWTW",
+      "CFOHBMVTV"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு +1 ஐக் கூட்டி குறியிடப்பட்டுள்ளது. B(+1)=C, E(+1)=F, N(+1)=O, ... => CFOHBMVSV.",
+    "question_en": "If NAGPUR is coded as OBHQVS, how can BENGALURU be coded?",
+    "options_en": [
+      "DGPICMVSV",
+      "CFOHBMVSV",
+      "DGPICNWTW",
+      "CFOHBMVTV"
+    ],
+    "explanation_en": "Each letter is coded by adding +1 to the corresponding number. B(+1)=C, E(+1)=F, N(+1)=O, ... => CFOHBMVSV."
+  },
+  {
+    "id": 9,
+    "question": "BACE என்பதை DACE என எழுதினால், FACE என்பது எழுதப்படும் விதம்_____",
+    "options": [
+      "HASE",
+      "LACE",
+      "HACE",
+      "CASE"
+    ],
+    "correct": 2,
+    "explanation": "முதல் எழுத்துடன் +2 கூட்டப்பட்டுள்ளது. B(+2)=D. F(+2)=H. எனவே HACE.",
+    "question_en": "If BACE is written as DACE, then FACE is written _____",
+    "options_en": [
+      "HASE",
+      "LACE",
+      "HACE",
+      "CASE"
+    ],
+    "explanation_en": "+2 is added to the first letter. B(+2)=D. F(+2)=H. Hence HACE."
+  },
+  {
+    "id": 10,
+    "question": "REASON என்பதன் எண்ணுரு 5, BELIEVED என்பதன் எண்ணுரு 7, எனில் GOVERNMENT என்பதன் எண்ணுரு __",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "வார்த்தையில் உள்ள எழுத்துக்களின் எண்ணிக்கை - 1. GOVERNMENT-ல் 10 எழுத்துக்கள் உள்ளன. 10 - 1 = 9.",
+    "question_en": "REASON is number 5, BELIEVED is 7 and GOVERNMENT is __",
+    "options_en": [
+      "6",
+      "8",
+      "10",
+      "9"
+    ],
+    "explanation_en": "Number of letters in the word - 1. GOVERNMENT has 10 letters. 10 - 1 = 9."
+  },
+  {
+    "id": 11,
+    "question": "DOG என்பது WLT எனவும் CAT என்பது XZG எனவும் குறியிடப்பட்டால், COW என்பது குறியிடப்படும் விதம் யாது?",
+    "options": [
+      "XLD",
+      "XLW",
+      "XLE",
+      "XDL"
+    ],
+    "correct": 0,
+    "explanation": "வலமிருந்து இடமாக எழுத்துக்களின் இடமதிப்பு (Reverse order). C->X, O->L, W->D => XLD.",
+    "question_en": "If DOG is coded as WLT and CAT as XZG, how is COW coded?",
+    "options_en": [
+      "XLD",
+      "XLW",
+      "XLE",
+      "XDL"
+    ],
+    "explanation_en": "Reverse order of letters from right to left. C->X, O->L, W->D => XLD."
+  },
+  {
+    "id": 12,
+    "question": "KILL என்பது 11IL12 என குறியிடப்பட்டால் GONE என்பது குறியிடப்படும் விதம்___",
+    "options": [
+      "22ONE",
+      "70N15",
+      "7ON5",
+      "75N5"
+    ],
+    "correct": 2,
+    "explanation": "முதல் மற்றும் கடைசி எழுத்துகளின் இடமதிப்பு எண்களாகவும் நடுவில் உள்ளவை எழுத்துக்களாகவும் உள்ளன. G(7) O N E(5) => 7ON5.",
+    "question_en": "If KILL is coded as 11IL12 then GONE is coded as___",
+    "options_en": [
+      "22ONE",
+      "70N15",
+      "7ON5",
+      "75N5"
+    ],
+    "explanation_en": "The place values ​​of the first and last letters are numbers and the middle ones are letters. G(7) O N E(5) => 7ON5."
+  },
+  {
+    "id": 13,
+    "question": "RUN=SWQ எனில், SHOOT=?",
+    "options": [
+      "TIPPS",
+      "TJQQN",
+      "TJRRY",
+      "TJRSY"
+    ],
+    "correct": 3,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு முறையே +1, +2, +3 ... என கூட்டி குறியிடப்பட்டுள்ளது. S(+1)=T, H(+2)=J, O(+3)=R, O(+4)=S, T(+5)=Y => TJRSY.",
+    "question_en": "IF RUN=SWQ, SHOOT=?",
+    "options_en": [
+      "TIPS",
+      "TJQQN",
+      "TJRRY",
+      "TJRSY"
+    ],
+    "explanation_en": "Each letter is coded with corresponding number +1, +2, +3 ... respectively. S(+1)=T, H(+2)=J, O(+3)=R, O(+4)=S, T(+5)=Y => TJRSY."
+  },
+  {
+    "id": 14,
+    "question": "`MATH` - ன் உருவாக்கம் NZVF, `TEST` - ன் உருவாக்கம் _______",
+    "options": [
+      "VDUR",
+      "VDUV",
+      "UDVU",
+      "VDUT"
+    ],
+    "correct": 0,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு முறையே +1, -1, +2, -2 - ஐக் கூட்டி குறியிடப்பட்டுள்ளது. (புத்தகத்தின்படி VDUR என விடை தரப்பட்டுள்ளது).",
+    "question_en": "Formation of `MATH' is NZVF, formation of `TEST' is _______",
+    "options_en": [
+      "VDUR",
+      "VDUV",
+      "UDVU",
+      "VDUT"
+    ],
+    "explanation_en": "Each letter is coded by adding +1, -1, +2, -2 - respectively to the corresponding number. (Answered as VDUR as per book)."
+  },
+  {
+    "id": 15,
+    "question": "ஒரு குறிப்பிட்ட குறியீட்டு மொழியில் MADE என்பது REGG என எழுதப்பட்டுள்ளது. எனில் IRON என்பதன் குறியீடு?",
+    "options": [
+      "NURQ",
+      "NVPR",
+      "NVRP",
+      "MVQO"
+    ],
+    "correct": 2,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு முறையே +5, +4, +3, +2 - ஐக் கூட்டி குறியிடப்பட்டுள்ளது. I(+5)=N, R(+4)=V, O(+3)=R, N(+2)=P => NVRP.",
+    "question_en": "In a certain coding language, MADE is written as REGG. So what is the code for IRON?",
+    "options_en": [
+      "NURQ",
+      "NVPR",
+      "NVRP",
+      "MVQO"
+    ],
+    "explanation_en": "Each letter is coded by adding +5, +4, +3, +2 - respectively to the corresponding number. I(+5)=N, R(+4)=V, O(+3)=R, N(+2)=P => NVRP."
+  },
+  {
+    "id": 16,
+    "question": "ANSWER = NAFJRE, எனில், ONLINE = ?",
+    "options": [
+      "BAYVAR",
+      "CBYUBR",
+      "BCYVCR",
+      "BAYUAT"
+    ],
+    "correct": 0,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு 13 ஐக் கூட்டி (அல்லது கழித்து) குறியிடப்பட்டுள்ளது. O(+13)=B, N(+13)=A, L(+13)=Y... => BAYVAR.",
+    "question_en": "IF ANSWER = NAFJRE, ONLINE = ?",
+    "options_en": [
+      "BAYVAR",
+      "CBYUBR",
+      "BCYVCR",
+      "BAYUAT"
+    ],
+    "explanation_en": "Each letter is coded by adding (or subtracting) 13 to the corresponding number. O(+13)=B, N(+13)=A, L(+13)=Y... => BAYVAR."
+  },
+  {
+    "id": 17,
+    "question": "ANSWER என்பதை NATURE எனகுறிவிட்டால், ONLINE என்பதை எவ்வாறு குறியிடலாம்?",
+    "options": [
+      "NOMGEN",
+      "ONMINE",
+      "NOMKEN",
+      "ONMJEN"
+    ],
+    "correct": 0,
+    "explanation": "முதல் மற்றும் கடைசி இரு எழுத்துக்கள் இடம் மாறியுள்ளன. நடுவில் உள்ளவைகளுக்கு +1, -2 செய்யப்பட்டுள்ளது. O,N இடம் மாறும் (NO). L(+1)=M, I(-2)=G. N,E இடம் மாறும் (EN). => NOMGEN.",
+    "question_en": "If ANSWER is coded as NATURE, how can ONLINE be coded?",
+    "options_en": [
+      "NOMGEN",
+      "ONMINE",
+      "NOMKEN",
+      "ONMJEN"
+    ],
+    "explanation_en": "The first and last two letters are swapped. +1, -2 is done for those in the middle. O,N replaces (NO). L(+1)=M, I(-2)=G. N,E will change location (EN). => NOMGEN."
+  },
+  {
+    "id": 18,
+    "question": "LION-ன் குறியீடு NGQL. PARROT-ன் குறியீடு யாது?",
+    "options": [
+      "NYPPMR",
+      "RCTTQV",
+      "NCPTMV",
+      "RYTPQR"
+    ],
+    "correct": 3,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு முறையே +2, -2 ஐக் கூட்டி குறியிடப்பட்டுள்ளது. P(+2)=R, A(-2)=Y, R(+2)=T, R(-2)=P, O(+2)=Q, T(-2)=R => RYTPQR.",
+    "question_en": "LION's symbol is NGQL. What is the code for PARROT?",
+    "options_en": [
+      "NYPPMR",
+      "RCTTQV",
+      "NCPTMV",
+      "RYTPQR"
+    ],
+    "explanation_en": "Each letter is coded by adding +2, -2 respectively to the corresponding number. P(+2)=R, A(-2)=Y, R(+2)=T, R(-2)=P, O(+2)=Q, T(-2)=R => RYTPQR."
+  },
+  {
+    "id": 19,
+    "question": "“WISH YOU A HAPPY JOURNEY” என்பது “YKUJ AQW C JCRRA LQWTPGA என உருவாக்கப்பட்டால், “SHOOT HIM” என்ற வார்த்தையில் இரண்டாம் வார்த்தையின் மூன்றாம் எழுத்தின் உருவாக்கம்_____",
+    "options": [
+      "J",
+      "N",
+      "O",
+      "P"
+    ],
+    "correct": 2,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு +2 ஐக் கூட்டி குறியிடப்பட்டுள்ளது. HIM வார்த்தையில் மூன்றாம் எழுத்து M. M(+2)=O.",
+    "question_en": "If “WISH YOU A HAPPY JOURNEY” is formed as “YKUJ AQW C JCRRA LQWTPGA, the formation of the third letter of the second word in the word “SHOOT HIM” is_____",
+    "options_en": [
+      "J",
+      "N",
+      "O",
+      "P"
+    ],
+    "explanation_en": "Each letter is coded by adding +2 to the corresponding number. The third letter in the word HIM is M. M(+2)=O."
+  },
+  {
+    "id": 20,
+    "question": "LOGIC என்பது BHFNK எனக் குறியிடப்பட்டால், CLERK என்பது குறியிடப்படும் விதம்________",
+    "options": [
+      "JQDKB",
+      "QBKJA",
+      "LPRTU",
+      "XVRPA"
+    ],
+    "correct": 0,
+    "explanation": "எழுத்துக்கள் வலமிருந்து இடமாக மாற்றப்பட்டு ஒவ்வொன்றுக்கும் -1 செய்யப்பட்டுள்ளது. K(-1)=J, R(-1)=Q, E(-1)=D, L(-1)=K, C(-1)=B => JQDKB.",
+    "question_en": "If LOGIC is coded as BHFNK, CLERK is coded as________",
+    "options_en": [
+      "JQDKB",
+      "QBKJA",
+      "LPRTU",
+      "XVRPA"
+    ],
+    "explanation_en": "The letters are shifted from right to left and -1 is done for each. K(-1)=J, R(-1)=Q, E(-1)=D, L(-1)=K, C(-1)=B => JQDKB."
+  },
+  {
+    "id": 21,
+    "question": "RESULT என்பது SULTRE என்று குறியிடப்பட்டால், IGHTBR என்பது எவ்வார்த்தையின் குறியீடாக அமையும்?",
+    "options": [
+      "BIRTH",
+      "GIRTH",
+      "RIGHT",
+      "BRIGHT"
+    ],
+    "correct": 3,
+    "explanation": "முதல் இரண்டு எழுத்துக்கள் கடைசியில் இடம் மாறியுள்ளன. BRIGHT என்ற வார்த்தையே IGHTBR என குறியிடப்படும்.",
+    "question_en": "If RESULT is coded as SULTRE, then IGHTBR is coded for which word?",
+    "options_en": [
+      "BIRTH",
+      "GIRTH",
+      "RIGHT",
+      "BRIGHT"
+    ],
+    "explanation_en": "The first two letters are swapped at the end. The word BRIGHT itself is encoded as IGHTBR."
+  },
+  {
+    "id": 22,
+    "question": "GOLFER என்பதன் குறியீடு HNMEFQ எனில் HUNGER என்பதன் குறியீடு?",
+    "options": [
+      "ITOFFQ",
+      "ITODFQ",
+      "IVOHFS",
+      "TIDOQF"
+    ],
+    "correct": 0,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு முறையே +1, -1 ஐக் கூட்டி குறியிடப்பட்டுள்ளது. H(+1)=I, U(-1)=T, N(+1)=O, G(-1)=F, E(+1)=F, R(-1)=Q => ITOFFQ.",
+    "question_en": "Code for GOLFER is HNMEFQ and code for HUNGER?",
+    "options_en": [
+      "ITOFFQ",
+      "ITODFQ",
+      "IVOHFS",
+      "TIDOQF"
+    ],
+    "explanation_en": "Each letter is coded by adding +1, -1 respectively to the corresponding number. H(+1)=I, U(-1)=T, N(+1)=O, G(-1)=F, E(+1)=F, R(-1)=Q => ITOFFQ."
+  },
+  {
+    "id": 23,
+    "question": "MOTHER = NNVFHO, எனில் SISTER-ன் குறியீடு யாது?",
+    "options": [
+      "TJURHO",
+      "THURHO",
+      "TJURHT",
+      "THRUHO"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு எழுத்திற்கும் உரிய எண்ணோடு முறையே +1,-1,+2,-2,+3,-3 - ஐக் கூட்டி குறியிடப்பட்டுள்ளது. S(+1)=T, I(-1)=H, S(+2)=U, T(-2)=R, E(+3)=H, R(-3)=O => THURHO.",
+    "question_en": "If MOTHER = NNVFHO, then what is the code of SISTER?",
+    "options_en": [
+      "TJURHO",
+      "THURHO",
+      "TJURHT",
+      "THRUHO"
+    ],
+    "explanation_en": "Each letter is coded by adding +1,-1,+2,-2,+3,-3 - respectively to the corresponding number. S(+1)=T, I(-1)=H, S(+2)=U, T(-2)=R, E(+3)=H, R(-3)=O => THURHO."
+  },
+  {
+    "id": 24,
+    "question": "ABOVE-ன் எண் உருவாக்கம் 225 எனில், GRADE-ன் எண் உருவாக்கம்?",
+    "options": [
+      "35",
+      "120",
+      "175",
+      "125"
+    ],
+    "correct": 2,
+    "explanation": "எழுத்துக்களின் இடமதிப்புகளின் கூடுதலை 5-ஆல் பெருக்க வேண்டும். GRADE = (7+18+1+4+5) × 5 = 35 × 5 = 175.",
+    "question_en": "If the number formation of ABOVE is 225, then the number formation of GRADE?",
+    "options_en": [
+      "35",
+      "120",
+      "175",
+      "125"
+    ],
+    "explanation_en": "The sum of the place values ​​of the letters must be multiplied by 5. GRADE = (7+18+1+4+5) × 5 = 35 × 5 = 175."
+  },
+  {
+    "id": 25,
+    "question": "Z=52, ACT=48 எனில், BAT= ?",
+    "options": [
+      "39",
+      "41",
+      "44",
+      "46"
+    ],
+    "correct": 3,
+    "explanation": "எழுத்துக்களின் இடமதிப்புகளின் கூடுதலை 2-ஆல் பெருக்க வேண்டும். BAT = (2+1+20) × 2 = 23 × 2 = 46.",
+    "question_en": "If Z=52, ACT=48, BAT= ?",
+    "options_en": [
+      "39",
+      "41",
+      "44",
+      "46"
+    ],
+    "explanation_en": "The sum of the place values ​​of the letters must be multiplied by 2. BAT = (2+1+20) × 2 = 23 × 2 = 46."
+  }
+]

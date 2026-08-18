@@ -1,0 +1,1803 @@
+[
+  {
+    "id": 91,
+    "question": "பின்வருவனவற்றுள் எது ஒரு முழுவைக் குறிக்காது?",
+    "options": [
+      "\\(0 \\div (-13)\\)",
+      "\\(36 \\div (-9)\\)",
+      "\\((-16) \\div 4\\)",
+      "\\(17 \\div 3\\)"
+    ],
+    "correct": 3,
+    "explanation": "\\(17 \\div 3\\) என்பது முழு எண் அல்ல, அது ஒரு பின்னமாகும்.",
+    "question_en": "Which of the following does not represent an integer?",
+    "options_en": [
+      "\\(0 \\div (-13)\\)",
+      "\\(36 \\div (-9)\\)",
+      "\\((-16) \\div 4\\)",
+      "\\(17 \\div 3\\)"
+    ],
+    "explanation_en": "\\(17 \\div 3\\) is not an integer, it is a fraction."
+  },
+  {
+    "id": 92,
+    "question": "___ என்பது மூடிய வடிவத்தின் அடைபட்ட சமதளப் பகுதியாகும்.",
+    "options": [
+      "பரப்பளவு",
+      "சுற்றளவு",
+      "அகலம்",
+      "நீளம்"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு மூடிய வடிவத்தின் உள்ளே அடைபட்ட பகுதி பரப்பளவு (Area) எனப்படும்.",
+    "question_en": "___ is the enclosed flat region of a closed figure.",
+    "options_en": [
+      "Area",
+      "Perimeter",
+      "Width",
+      "Length"
+    ],
+    "explanation_en": "The enclosed region inside a closed figure is called Area."
+  },
+  {
+    "id": 93,
+    "question": "அடுத்துள்ள பக்கங்கள் முறையே 4.2 செ.மீ. மற்றும் 3.8 செ.மீ. கொண்ட இணைகரத்தின் சுற்றளவு:",
+    "options": [
+      "12 cm",
+      "16 cm",
+      "24 cm",
+      "22 cm"
+    ],
+    "correct": 1,
+    "explanation": "சுற்றளவு = \\(2 \\times (a + b) = 2 \\times (4.2 + 3.8) = 16\\text{ cm}\\)",
+    "question_en": "The perimeter of a parallelogram whose adjacent sides are 4.2 cm and 3.8 cm respectively is:",
+    "options_en": [
+      "12 cm",
+      "16 cm",
+      "24 cm",
+      "22 cm"
+    ],
+    "explanation_en": "Perimeter = \\(2 \\times (a + b) = 2 \\times (4.2 + 3.8) = 16\\text{ cm}\\)"
+  },
+  {
+    "id": 94,
+    "question": "‘டயமண்ட் கிராசிங்' என்பது ___ வடிவத்தைக் குறிக்கும்.",
+    "options": [
+      "சதுரம்",
+      "இணைகரம்",
+      "சாய்சதுரம்",
+      "செவ்வகம்"
+    ],
+    "correct": 2,
+    "explanation": "ரயில்வே தண்டவாளங்களில் உள்ள 'டயமண்ட் கிராசிங்' சாய்சதுர (Rhombus) வடிவில் இருக்கும்.",
+    "question_en": "A 'Diamond Crossing' represents the shape of a ___.",
+    "options_en": [
+      "Square",
+      "Parallelogram",
+      "Rhombus",
+      "Rectangle"
+    ],
+    "explanation_en": "The 'Diamond Crossing' in railway tracks is in the shape of a Rhombus."
+  },
+  {
+    "id": 95,
+    "question": "மாறாத எண் மதிப்பைக் கொண்ட குறியீடு:",
+    "options": [
+      "மாறி",
+      "இயற்கணிதக் கோவை",
+      "ஒத்த உறுப்பு",
+      "மாறிலி"
+    ],
+    "correct": 3,
+    "explanation": "மாறிலி (Constant) என்பது மாறாத எண் மதிப்பைக் கொண்டது.",
+    "question_en": "A symbol having a fixed numerical value is called a:",
+    "options_en": [
+      "Variable",
+      "Algebraic expression",
+      "Like term",
+      "Constant"
+    ],
+    "explanation_en": "A constant has a fixed numerical value."
+  },
+  {
+    "id": 96,
+    "question": "a மற்றும் b - இன் கூடுதலின் ஐந்து மடங்கு என்னும் வாய்மொழிக் கூற்றுக்குப் பொருத்தமான இயற்கணிதக் கோவை:",
+    "options": [
+      "\\(5a+b\\)",
+      "\\(5+a+b\\)",
+      "\\(5(a+b)\\)",
+      "\\(5+ab\\)"
+    ],
+    "correct": 2,
+    "explanation": "கூடுதல் = (a+b). அதன் 5 மடங்கு = 5(a+b).",
+    "question_en": "The algebraic expression for the verbal statement \"five times the sum of a and b\" is:",
+    "options_en": [
+      "\\(5a+b\\)",
+      "\\(5+a+b\\)",
+      "\\(5(a+b)\\)",
+      "\\(5+ab\\)"
+    ],
+    "explanation_en": "Sum = (a+b). 5 times of it = 5(a+b)."
+  },
+  {
+    "id": 97,
+    "question": "இரண்டு விகிதங்களான a : b மற்றும் c : d ஆகியவை சமமாக இருந்தால், அவற்றை ___ இல் உள்ளன எனக் குறிப்பிடலாம்.",
+    "options": [
+      "வர்க்கம்",
+      "எதிர் விகிதம்",
+      "விகித சமம்",
+      "நேர் விகிதம்"
+    ],
+    "correct": 2,
+    "explanation": "இரண்டு விகிதங்கள் சமமாக இருந்தால் அது விகித சமம் (Proportion).",
+    "question_en": "If two ratios a : b and c : d are equal, they are said to be in ___.",
+    "options_en": [
+      "Square",
+      "Inverse proportion",
+      "Proportion",
+      "Direct proportion"
+    ],
+    "explanation_en": "If two ratios are equal, it is called Proportion."
+  },
+  {
+    "id": 98,
+    "question": "89 செ.மீ. என்பதன் மீட்டர் மற்றும் தசம வடிவம்:",
+    "options": [
+      "0.89",
+      "8.9",
+      "0.089",
+      "89"
+    ],
+    "correct": 1,
+    "explanation": "89 செ.மீ = 89 / 100 மீட்டர் = 0.89 மீ.",
+    "question_en": "The meter and decimal form of 89 cm is:",
+    "options_en": [
+      "0.89",
+      "8.9",
+      "0.089",
+      "89"
+    ],
+    "explanation_en": "89 cm = 89 / 100 meters = 0.89 m."
+  },
+  {
+    "id": 99,
+    "question": "103.092 என்பதில் 2-இன் இடமதிப்பு:",
+    "options": [
+      "பத்தில் ஒன்று",
+      "ஆயிரத்தில் ஒன்று",
+      "நூறில் ஒன்று",
+      "பத்து"
+    ],
+    "correct": 1,
+    "explanation": "புள்ளிக்கு வலதுபுறம் மூன்றாவது இலக்கம் (0.002) ஆயிரத்தில் ஒன்றைக் குறிக்கும்.",
+    "question_en": "The place value of 2 in 103.092 is:",
+    "options_en": [
+      "Tenths",
+      "Thousandths",
+      "Hundredths",
+      "Tens"
+    ],
+    "explanation_en": "The third digit to the right of the decimal point (0.002) represents thousandths."
+  },
+  {
+    "id": 100,
+    "question": "ஒரு வட்டத்தின் விட்டம் D எனில், அதன் சுற்றளவு:",
+    "options": [
+      "\\(2\\pi D\\)",
+      "\\(\\pi D\\)",
+      "\\(2\\pi r\\)",
+      "\\(\\pi r\\)"
+    ],
+    "correct": 1,
+    "explanation": "சுற்றளவு = \\(\\pi D\\) (இங்கு D = 2r).",
+    "question_en": "If D is the diameter of a circle, then its circumference is:",
+    "options_en": [
+      "\\(2\\pi D\\)",
+      "\\(\\pi D\\)",
+      "\\(2\\pi r\\)",
+      "\\(\\pi r\\)"
+    ],
+    "explanation_en": "Circumference = \\(\\pi D\\) (where D = 2r)."
+  },
+  {
+    "id": 101,
+    "question": "அடுக்குகளின் மற்றொரு பெயர்:",
+    "options": [
+      "மாறி",
+      "அடிமானம்",
+      "இண்டிசஸ் (Indices)",
+      "மாறிலி"
+    ],
+    "correct": 2,
+    "explanation": "அடுக்குகளை (Exponents) ஆங்கிலத்தில் Indices என்றும் கூறுவர்.",
+    "question_en": "Another name for exponents is:",
+    "options_en": [
+      "Variable",
+      "Base",
+      "Indices",
+      "Constant"
+    ],
+    "explanation_en": "Exponents are also called Indices in English."
+  },
+  {
+    "id": 102,
+    "question": "\\(9^{10}\\) என்பதின் ஒன்றாம் இலக்கம்:",
+    "options": [
+      "1",
+      "9",
+      "0",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "9-இன் அடுக்கு ஒற்றைப்படை எனில் 9 வரும், இரட்டைப்படை எனில் 1 வரும். 10 இரட்டைப்படை என்பதால் விடை 1.",
+    "question_en": "The unit digit of \\(9^{10}\\) is:",
+    "options_en": [
+      "1",
+      "9",
+      "0",
+      "8"
+    ],
+    "explanation_en": "If the power of 9 is odd, the unit digit is 9; if it is even, the unit digit is 1. Since 10 is an even number, the answer is 1."
+  },
+  {
+    "id": 103,
+    "question": "ஒரு முக்கோணத்தின் அதிகபட்ச கோணங்களின் எண்ணிக்கை:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு முக்கோணத்தில் அதிகபட்சமாக ஒரு கோணம் 3",
+    "question_en": "The maximum number of angles in a triangle is:",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation_en": "A triangle can have a maximum of 3 angle."
+  },
+  {
+    "id": 104,
+    "question": "≅ என்ற குறியீடு உணர்த்துவது:",
+    "options": [
+      "சமம்",
+      "அசமம்",
+      "ஒத்த",
+      "சர்வசமம்"
+    ],
+    "correct": 3,
+    "explanation": "= என்பது சமம் (Equal) என்பதைக் குறிக்கிறது.",
+    "question_en": "The symbol ≅ denotes:",
+    "options_en": [
+      "Equal",
+      "Unequal",
+      "Similar",
+      "Congruent"
+    ],
+    "explanation_en": "The symbol = denotes Equal."
+  },
+  {
+    "id": 105,
+    "question": "பின்வரும் அட்டவணையிலிருந்து x மற்றும் y-க்கு இடையேயுள்ள தொடர்பு:",
+    "image": "image/mat_2021/q105.PNG",
+    "options": [
+      "\\(y=2x+1\\)",
+      "\\(y=2x-1\\)",
+      "\\(y=2x\\)",
+      "\\(y=2x+5\\)"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு x மதிப்பிற்கும் y மதிப்பு \\(2x - 1\\) என்ற சமன்பாட்டை நிறைவு செய்கிறது.",
+    "question_en": "From the given table, the relationship between x and y is: (x:1, y:1), (x:2, y:3), (x:3, y:5)",
+    "options_en": [
+      "\\(y=2x+1\\)",
+      "\\(y=2x-1\\)",
+      "\\(y=2x\\)",
+      "\\(y=2x+5\\)"
+    ],
+    "explanation_en": "For each x value, the y value satisfies the equation \\(y = 2x - 1\\)."
+  },
+  {
+    "id": 106,
+    "question": "\\(\\frac{a}{b}\\) என்ற விகிதமுறு எண்ணில் \\(a \\neq b\\) எனில், அதன் பெருக்கல் நேர்மாறு:",
+    "options": [
+      "\\(\\frac{b}{a}\\)",
+      "\\(\\frac{a}{b}\\)",
+      "ab",
+      "ba"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு பின்னத்தின் பெருக்கல் நேர்மாறு அதன் தலைகீழி ஆகும்.",
+    "question_en": "For a rational number \\(\\frac{a}{b}\\) where \\(a \\neq b\\), its multiplicative inverse is:",
+    "options_en": [
+      "\\(\\frac{b}{a}\\)",
+      "\\(\\frac{a}{b}\\)",
+      "ab",
+      "ba"
+    ],
+    "explanation_en": "The multiplicative inverse of a fraction is its reciprocal."
+  },
+  {
+    "id": 107,
+    "question": "\\(\\frac{\\sqrt{98}}{\\sqrt{162}}\\) என்பதன் சுருக்கப்பட்ட மதிப்பு:",
+    "options": [
+      "7/9",
+      "6/9",
+      "8/7",
+      "8/6"
+    ],
+    "correct": 0,
+    "explanation": "\\(\\frac{\\sqrt{49 \\times 2}}{\\sqrt{81 \\times 2}} = \\frac{7\\sqrt{2}}{9\\sqrt{2}} = \\frac{7}{9}\\)",
+    "question_en": "The simplified value of \\(\\frac{\\sqrt{98}}{\\sqrt{162}}\\) is:",
+    "options_en": [
+      "7/9",
+      "6/9",
+      "8/7",
+      "8/6"
+    ],
+    "explanation_en": "\\(\\frac{\\sqrt{49 \\times 2}}{\\sqrt{81 \\times 2}} = \\frac{7\\sqrt{2}}{9\\sqrt{2}} = \\frac{7}{9}\\)"
+  },
+  {
+    "id": 108,
+    "question": "கார்ட்டீசியன் தளத்தில் \\(x=0\\) என்பது:",
+    "options": [
+      "y-அச்சு",
+      "x-அச்சு",
+      "முழு தளம்",
+      "x மற்றும் y அச்சு"
+    ],
+    "correct": 0,
+    "explanation": "\\(x = 0\\) என்ற சமன்பாடு y-அச்சைக் குறிக்கிறது.",
+    "question_en": "In a Cartesian plane, \\(x=0\\) represents:",
+    "options_en": [
+      "y-axis",
+      "x-axis",
+      "Whole plane",
+      "x and y axes"
+    ],
+    "explanation_en": "The equation \\(x = 0\\) represents the y-axis."
+  },
+  {
+    "id": 109,
+    "question": "ரவி ஒரு சட்டையை ₹480-க்கு விற்பதால் 25% நட்டமடைகிறார். அவர் 20% இலாபம் பெற சட்டையை என்ன விலைக்கு விற்க வேண்டும்?",
+    "options": [
+      "₹800",
+      "₹748",
+      "₹768",
+      "₹828"
+    ],
+    "correct": 2,
+    "explanation": "அடக்க விலை = \\(480 / 0.75 = 640\\). இலாப விலை = \\(640 \\times 1.20 = 768\\).",
+    "question_en": "Ravi incurs a loss of 25% by selling a shirt for ₹480. At what price should he sell it to gain a profit of 20%?",
+    "options_en": [
+      "₹800",
+      "₹748",
+      "₹768",
+      "₹828"
+    ],
+    "explanation_en": "Cost price = \\(480 / 0.75 = 640\\). Selling price for 20% profit = \\(640 \\times 1.20 = 768\\)."
+  },
+  {
+    "id": 110,
+    "question": "ஒரு பொருள், 360°-க்குக் குறைவான கோணத்திற்குச் சுழற்றிய பின்பும் ஒரே மாதிரியாகத் தோன்றினால் அப்பொருள் ___ தன்மையைக் கொண்டது.",
+    "options": [
+      "இடப்பெயர்வு சமச்சீர்",
+      "எதிரொளிப்பு சமச்சீர்",
+      "சுழல் சமச்சீர்",
+      "எதிரொளிப்புக் கோடு"
+    ],
+    "correct": 2,
+    "explanation": "இது சுழல் சமச்சீர் (Rotational Symmetry) எனப்படும்.",
+    "question_en": "If an object looks the same after being rotated by an angle less than 360°, it has ___ symmetry.",
+    "options_en": [
+      "Translational symmetry",
+      "Reflection symmetry",
+      "Rotational symmetry",
+      "Line of reflection"
+    ],
+    "explanation_en": "This is known as Rotational Symmetry."
+  },
+  {
+    "id": 111,
+    "question": "நமது சூரிய குடும்பத்திற்கு மிக அருகில் அமைந்துள்ள விண்மீன்:",
+    "options": [
+      "ப்ராக்சிமா சென்டாரி",
+      "ஆல்ஃபா சென்டாரி",
+      "பர்னார்ட் விண்மீன்",
+      "சிரியஸ்"
+    ],
+    "correct": 0,
+    "explanation": "ப்ராக்சிமா சென்டாரி (Proxima Centauri) சூரியனுக்கு மிக அருகில் உள்ளது.",
+    "question_en": "The star closest to our solar system is:",
+    "options_en": [
+      "Proxima Centauri",
+      "Alpha Centauri",
+      "Barnard's Star",
+      "Sirius"
+    ],
+    "explanation_en": "Proxima Centauri is located closest to the sun."
+  },
+  {
+    "id": 112,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடுக்கவும்: \n(i) கடந்த மொத்த நீளம் இடப்பெயர்ச்சி எனப்படும். \n(ii) இறுதி நிலைக்கும் ஆரம்ப நிலைக்கும் உள்ள குறைந்த நேர்கோட்டுத் தொலைவு இடப்பெயர்ச்சி. \n(iii) தொலைவு, இடப்பெயர்ச்சி இரண்டும் ஒரே அலகால் குறிக்கப்படும்.",
+    "options": [
+      "(i) மட்டும்",
+      "(iv) மட்டும்",
+      "(ii) மற்றும் (iii) மட்டும்",
+      "(i) மற்றும் (iv) மட்டும்"
+    ],
+    "correct": 2,
+    "explanation": "இடப்பெயர்ச்சி என்பது குறைந்தபட்ச நேர்கோட்டுத் தொலைவு. இரண்டுக்கும் அலகு மீட்டர் (m) ஆகும்.",
+    "question_en": "Choose the correct statement(s): \n(i) Total length covered is called displacement. \n(ii) The shortest straight line distance between initial and final position is displacement. \n(iii) Both distance and displacement have the same unit.",
+    "options_en": [
+      "(i) only",
+      "(iv) only",
+      "(ii) and (iii) only",
+      "(i) and (iv) only"
+    ],
+    "explanation_en": "Displacement is the shortest straight-line distance. The unit for both distance and displacement is the meter (m)."
+  },
+  {
+    "id": 113,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "45°C = 118°F",
+      "20°C = 68°F",
+      "100 K = 173°C",
+      "185°F = 86°C"
+    ],
+    "correct": 1,
+    "explanation": "\\(F = (C \\times 9/5) + 32 = (20 \\times 9/5) + 32 = 68°F\\).",
+    "question_en": "Choose the correct pair:",
+    "options_en": [
+      "45°C = 118°F",
+      "20°C = 68°F",
+      "100 K = 173°C",
+      "185°F = 86°C"
+    ],
+    "explanation_en": "\\(F = (C \\times 9/5) + 32 = (20 \\times 9/5) + 32 = 68°F\\)."
+  },
+  {
+    "id": 114,
+    "question": "பொருந்தாத ஒன்றைக் கண்டறியவும்:",
+    "options": [
+      "பொத்தான் மின்கலன்",
+      "கார/அமில மின்கலன்",
+      "மோட்டார் வாகன மின்கலன்",
+      "உலர் மின்கலன்"
+    ],
+    "correct": 3,
+    "explanation": "மோட்டார் வாகன மின்கலன் ஒரு துணை மின்கலன் (மின்னேற்றம் செய்யக்கூடியது). மற்றவை முதன்மை மின்கலன்கள்.",
+    "question_en": "Find the odd one out:",
+    "options_en": [
+      "Button cell",
+      "Alkaline/Acid cell",
+      "Automobile battery",
+      "Dry cell"
+    ],
+    "explanation_en": "An automobile battery is a secondary cell (rechargeable). The others are primary cells."
+  },
+  {
+    "id": 115,
+    "question": "பால்வளித் திரள் விண்மீன் திரள் வகையைச் சார்ந்தது.",
+    "options": [
+      "சுருள்",
+      "ஒழுங்கற்ற",
+      "கோடிட்ட சுருள்",
+      "நீள்வட்ட"
+    ],
+    "correct": 2,
+    "explanation": "நமது பால்வெளி அண்டம் கோடிட்ட சுருள் (Barred spiral galaxy) வடிவமாகும்.",
+    "question_en": "The Milky Way galaxy belongs to the type of galaxy.",
+    "options_en": [
+      "Spiral",
+      "Irregular",
+      "Barred spiral",
+      "Elliptical"
+    ],
+    "explanation_en": "Our Milky Way is a barred spiral galaxy."
+  },
+  {
+    "id": 116,
+    "question": "இந்தியாவின் முதல் செயற்கைக்கோள் எஸ்.எல்.வி.3 யைப் பயன்படுத்தி விண்ணில் செலுத்தப்பட்ட செயற்கைக்கோள்:",
+    "options": [
+      "ஆரியபட்டா",
+      "ரோகிணி 1",
+      "சந்திராயன்-2",
+      "பாஸ்கரா-II"
+    ],
+    "correct": 1,
+    "explanation": "SLV-3 மூலமாக முதன்முதலில் வெற்றிகரமாக செலுத்தப்பட்டது ரோகிணி-1.",
+    "question_en": "The first Indian satellite launched using SLV-3 was:",
+    "options_en": [
+      "Aryabhata",
+      "Rohini-1",
+      "Chandrayaan-2",
+      "Bhaskara-II"
+    ],
+    "explanation_en": "Rohini-1 was the first satellite successfully launched using SLV-3."
+  },
+  {
+    "id": 117,
+    "question": "ஓர் ஒளிக்கதிர் எதிரொளிப்புத் தளத்தில் பட்டு 37° கோணத்தைக் கிடைத்தளத்துடன் ஏற்படுத்துகிறது எனில், படுகதிருக்கும், எதிரொளிப்புக் கதிருக்கும் இடையே உள்ள கோணம்:",
+    "options": [
+      "74°",
+      "94°",
+      "106°",
+      "37°"
+    ],
+    "correct": 2,
+    "explanation": "படுகோணம் = 90-37 = 53°. மொத்த கோணம் = 53° + 53° = 106°.",
+    "question_en": "A ray of light strikes a reflecting surface making an angle of 37° with the horizontal. The angle between the incident ray and the reflected ray is:",
+    "options_en": [
+      "74°",
+      "94°",
+      "106°",
+      "37°"
+    ],
+    "explanation_en": "Angle of incidence = 90 - 37 = 53°. Total angle between incident and reflected ray = 53° + 53° = 106°."
+  },
+  {
+    "id": 118,
+    "question": "அடர்த்தியைப் பொருத்து ஏறுவரிசையில் வரிசைப்படுத்துக: (i) இரும்பு, (ii) நீர், (iii) தாமிரம், (iv) பாதரசம்",
+    "options": [
+      "(ii), (i), (iii), (iv)",
+      "(iii), (iv), (i), (ii)",
+      "(i), (iii), (ii), (iv)",
+      "(iii), (iv), (ii), (i)"
+    ],
+    "correct": 0,
+    "explanation": "நீர் (1000) < இரும்பு (7874) < தாமிரம் (8960) < பாதரசம் (13534).",
+    "question_en": "Arrange the following in ascending order of their density: (i) Iron, (ii) Water, (iii) Copper, (iv) Mercury",
+    "options_en": [
+      "(ii), (i), (iii), (iv)",
+      "(iii), (iv), (i), (ii)",
+      "(i), (iii), (ii), (iv)",
+      "(iii), (iv), (ii), (i)"
+    ],
+    "explanation_en": "Water (1000) < Iron (7874) < Copper (8960) < Mercury (13534)."
+  },
+  {
+    "id": 119,
+    "question": "5 கி.கி. பனிக்கட்டி உருக தேவைப்படும் வெப்ப ஆற்றல் (உள்ளுறை வெப்பம் = 336 J/g):",
+    "options": [
+      "336 J",
+      "1.6 J",
+      "1.68 \\times 10^6 J",
+      "5 \\times 10^5 J"
+    ],
+    "correct": 2,
+    "explanation": "Q = mL = 5000g \\times 336 = 1680000 J = 1.68 \\times 10^6 J.",
+    "question_en": "The heat energy required to melt 5 kg of ice is (latent heat of ice = 336 J/g):",
+    "options_en": [
+      "336 J",
+      "1.6 J",
+      "1.68 \\times 10^6 J",
+      "5 \\times 10^5 J"
+    ],
+    "explanation_en": "Q = mL = 5000g \\times 336 = 1680000 J = 1.68 \\times 10^6 J."
+  },
+  {
+    "id": 120,
+    "question": "ஃபெர்ரோ காந்தப் பொருளை பாரா காந்தப் பொருளாக மாற்றும் வெப்பநிலை:",
+    "options": [
+      "முக்கியமான வெப்பநிலை",
+      "கவனிக்கப்பட்ட வெப்பநிலை",
+      "கியூரி வெப்பநிலை",
+      "கொதிக்கும் வெப்பநிலை"
+    ],
+    "correct": 2,
+    "explanation": "இந்த வெப்பநிலை கியூரி வெப்பநிலை (Curie temperature) எனப்படும்.",
+    "question_en": "The temperature at which a ferromagnetic material becomes paramagnetic is called:",
+    "options_en": [
+      "Critical temperature",
+      "Observed temperature",
+      "Curie temperature",
+      "Boiling temperature"
+    ],
+    "explanation_en": "This temperature is called the Curie temperature."
+  },
+  {
+    "id": 121,
+    "question": "சூரிய மற்றும் சந்திர கிரகணங்கள் ஒளியின் ___ பண்பால் நிகழ்கின்றன.",
+    "options": [
+      "முழு அக எதிரொளிப்பு",
+      "நேர்கோட்டு",
+      "துருவ முனைப்பு",
+      "குறுக்கீட்டு"
+    ],
+    "correct": 1,
+    "explanation": "ஒளி நேர்கோட்டில் பயணிப்பதாலேயே நிழல்கள் மற்றும் கிரகணங்கள் உருவாகின்றன.",
+    "question_en": "Solar and lunar eclipses occur due to the ___ property of light.",
+    "options_en": [
+      "Total internal reflection",
+      "Rectilinear propagation",
+      "Polarization",
+      "Interference"
+    ],
+    "explanation_en": "Shadows and eclipses are formed because light travels in a straight line."
+  },
+  {
+    "id": 122,
+    "question": "சல்பர் - விவசாயம், காலியம் - ?",
+    "options": [
+      "கணினி சிப்",
+      "அலைபேசி",
+      "வெடிபொருள்",
+      "ஆபரணங்கள்"
+    ],
+    "correct": 1,
+    "explanation": "காலியம் (Gallium) அலைபேசி மற்றும் மின்னணு சாதனங்கள் தயாரிக்க பயன்படுகிறது.",
+    "question_en": "Sulfur - Agriculture, Gallium - ?",
+    "options_en": [
+      "Computer chip",
+      "Mobile phone",
+      "Explosives",
+      "Ornaments"
+    ],
+    "explanation_en": "Gallium is used to manufacture mobile phones and electronic devices."
+  },
+  {
+    "id": 123,
+    "question": "குறியீடுகளை தகுந்த முறையில் பயன்படுத்திய முதல் வேதியியல் அறிஞர்:",
+    "options": [
+      "ஜான் டால்டன்",
+      "பெர்சிலியஸ்",
+      "ராபர்ட் பாயில்",
+      "லவாய்சியர்"
+    ],
+    "correct": 0,
+    "explanation": "தனிமங்களுக்கு ஆங்கில எழுத்துக்களைக் கொண்டு குறியீடுகளை அமைத்தவர் பெர்சிலியஸ்.",
+    "question_en": "The first chemist to use symbols appropriately was:",
+    "options_en": [
+      "John Dalton",
+      "Berzelius",
+      "Robert Boyle",
+      "Lavoisier"
+    ],
+    "explanation_en": "Berzelius created symbols for elements using English letters."
+  },
+  {
+    "id": 124,
+    "question": "உருகுதல், கொதித்தல், உறைதல், குளிர்வித்தல் போன்ற செயல்களால் பொருளின் ___ நிலையில் மாற்றம் ஏற்படும்.",
+    "options": [
+      "இயற்பியல்",
+      "வேதியியல்",
+      "நிறை",
+      "பருமன்"
+    ],
+    "correct": 0,
+    "explanation": "இவை அனைத்தும் இயற்பியல் (Physical) மாற்றங்கள் ஆகும்.",
+    "question_en": "Processes like melting, boiling, freezing, and cooling cause a change in the ___ state of a substance.",
+    "options_en": [
+      "Physical",
+      "Chemical",
+      "Mass",
+      "Volume"
+    ],
+    "explanation_en": "All of these are physical changes."
+  },
+  {
+    "id": 125,
+    "question": "பலபடியாக்கலின்போது ஒற்றைப்படிகள் ___ பிணைப்புகளால் இணைகின்றன.",
+    "options": [
+      "அயனி",
+      "சகபிணைப்பு",
+      "ஒருங்கிணைவு",
+      "ஹைட்ரஜன்"
+    ],
+    "correct": 1,
+    "explanation": "பாலிமர்கள் சகபிணைப்புகளால் (Covalent bonds) இணைகின்றன.",
+    "question_en": "During polymerization, monomers are linked by ___ bonds.",
+    "options_en": [
+      "Ionic",
+      "Covalent",
+      "Coordinate",
+      "Hydrogen"
+    ],
+    "explanation_en": "Polymers are linked together by covalent bonds."
+  },
+  {
+    "id": 126,
+    "question": "பொருத்துக: (a) PVC (b) பாலியெஸ்டர் (c) LLDPE (d) EPS \nஉடன் (i) குடை (ii) பேனா (iii) தோல் (iv) செயற்கை புற்கள்",
+    "options": [
+      "(i), (iv), (ii), (iii)",
+      "(iv), (i), (ii), (iii)",
+      "(iii), (i), (iv), (ii)",
+      "(iii), (iv), (ii), (i)"
+    ],
+    "correct": 2,
+    "explanation": "PVC - செயற்கை தோல், பாலியெஸ்டர் - குடை, LLDPE - செயற்கை புற்கள், EPS - பேனா.",
+    "question_en": "Match the following: (a) PVC (b) Polyester (c) LLDPE (d) EPS \nwith (i) Umbrella (ii) Pen (iii) Leather (iv) Artificial grass",
+    "options_en": [
+      "(i), (iv), (ii), (iii)",
+      "(iv), (i), (ii), (iii)",
+      "(iii), (i), (iv), (ii)",
+      "(iii), (iv), (ii), (i)"
+    ],
+    "explanation_en": "PVC - Artificial leather, Polyester - Umbrella, LLDPE - Artificial grass, EPS - Pen."
+  },
+  {
+    "id": 127,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "டைஃபென்ஹைட்ரமைன்",
+      "டைக்ளோபினாக்",
+      "குளோர்ஃபெனிரமைன்",
+      "சிமெடிடின்"
+    ],
+    "correct": 1,
+    "explanation": "டைக்ளோபினாக் ஒரு வலி நிவாரணி, மற்றவை ஒவ்வாமை/அமிலத்தன்மை (Histamine) தடுப்பான்கள்.",
+    "question_en": "Choose the odd one out:",
+    "options_en": [
+      "Diphenhydramine",
+      "Diclofenac",
+      "Chlorpheniramine",
+      "Cimetidine"
+    ],
+    "explanation_en": "Diclofenac is a pain reliever, while the others are antihistamines/allergy inhibitors."
+  },
+  {
+    "id": 128,
+    "question": "எந்த வகையான தீயணைப்பான் 1000 வோல்ட் வரையான தீயை கையாளப் பயன்படுகிறது?",
+    "options": [
+      "உலர் தூள்",
+      "CO2",
+      "நுரை",
+      "நீர்"
+    ],
+    "correct": 0,
+    "explanation": "மின்சாதனங்களில் ஏற்படும் தீயை அணைக்க கார்பன் டை ஆக்சைடு பயன்படுகிறது.",
+    "question_en": "Which type of fire extinguisher is used to tackle fires up to 1000 Volts?",
+    "options_en": [
+      "Dry powder",
+      "CO2",
+      "Foam",
+      "Water"
+    ],
+    "explanation_en": "Carbon dioxide is used to extinguish fires involving electrical equipment."
+  },
+  {
+    "id": 129,
+    "question": "ஹைப்போதலாமஸ் பைரோஜன்களுக்கு எதிராக உடலின் வெப்பநிலையை அதிகரிக்க வெளியிடும் வேதிப்பொருள்:",
+    "options": [
+      "புரோஸ்டா கிளான்டின்",
+      "மெலனின்",
+      "தைராக்ஸின்",
+      "அட்ரீனலின்"
+    ],
+    "correct": 0,
+    "explanation": "காய்ச்சலின் போது வெப்பநிலையை அதிகரிக்க புரோஸ்டா கிளான்டின் (Prostaglandin) சுரக்கிறது.",
+    "question_en": "The chemical released by the hypothalamus to raise body temperature against pyrogens is:",
+    "options_en": [
+      "Prostaglandin",
+      "Melanin",
+      "Thyroxine",
+      "Adrenaline"
+    ],
+    "explanation_en": "Prostaglandin is secreted to raise body temperature during a fever."
+  },
+  {
+    "id": 130,
+    "question": "தானியங்கி வாகனங்களின் மின்கலன்களில் பயன்படுத்தப்படும் உலோகம்:",
+    "options": [
+      "தாமிரம்",
+      "வெள்ளி",
+      "காரீயம்",
+      "அலுமினியம்"
+    ],
+    "correct": 2,
+    "explanation": "வாகன பேட்டரிகளில் காரீயம் (Lead) பயன்படுத்தப்படுகிறது.",
+    "question_en": "The metal used in the batteries of automobiles is:",
+    "options_en": [
+      "Copper",
+      "Silver",
+      "Lead",
+      "Aluminum"
+    ],
+    "explanation_en": "Lead is used in vehicle batteries."
+  },
+  {
+    "id": 131,
+    "question": "ஆண்டிமணியின் குறியீடு:",
+    "options": [
+      "An",
+      "At",
+      "Sn",
+      "Sb"
+    ],
+    "correct": 3,
+    "explanation": "ஆண்டிமணியின் (Antimony) லத்தீன் பெயர் Stibium. எனவே குறியீடு Sb.",
+    "question_en": "The symbol for Antimony is:",
+    "options_en": [
+      "An",
+      "At",
+      "Sn",
+      "Sb"
+    ],
+    "explanation_en": "The Latin name for Antimony is Stibium. Hence, the symbol is Sb."
+  },
+  {
+    "id": 132,
+    "question": "பொருத்துக: (a) சல்பியூரிக் அமிலம் (b) சோடியம் ஹைட்ராக்சைடு (c) மெக்னீசியம் ஹைட்ராக்சைடு (d) பென்சாயிக் அமிலம்",
+    "options": [
+      "(iv), (i), (iii), (ii)",
+      "(iii), (iv), (ii), (i)",
+      "(iii), (i), (iv), (ii)",
+      "(ii), (iv), (i), (iii)"
+    ],
+    "correct": 1,
+    "explanation": "சல்பியூரிக் அமிலம் - நீர் நீக்கி, சோடியம் ஹைட்ராக்சைடு - ஆடை தொழிற்சாலை, மெக்னீசியம் - அமிலத்தன்மை நடுநிலையாக்கல், பென்சாயிக் அமிலம் - உணவு பாதுகாப்பு.",
+    "question_en": "Match the following: (a) Sulfuric acid (b) Sodium hydroxide (c) Magnesium hydroxide (d) Benzoic acid",
+    "options_en": [
+      "(iv), (i), (iii), (ii)",
+      "(iii), (iv), (ii), (i)",
+      "(iii), (i), (iv), (ii)",
+      "(ii), (iv), (i), (iii)"
+    ],
+    "explanation_en": "Sulfuric acid - Dehydrating agent, Sodium hydroxide - Textile industry, Magnesium hydroxide - Neutralization of acidity, Benzoic acid - Food preservation."
+  },
+  {
+    "id": 133,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "தரைகீழ் ஓடு தண்டு மண்ணிற்கடியில் சென்று புதிய தாவரத்தை உருவாக்கும்.",
+      "ஓடு தண்டுக்கு எடுத்துக்காட்டு காட்டு ஸ்ட்ராபெர்ரி.",
+      "ஸ்டோலனில் தண்டு வளைந்து மண்ணைத் தொட்டு புதிய தாவரத்தை உண்டாக்காது.",
+      "குட்டையான ஓடு தண்டு ஆங்காங்கே கொத்தான இலைகளையும் வேர்களையும் உருவாக்குகிறது."
+    ],
+    "correct": 3,
+    "explanation": "நீர்வாழ் தாவரங்களில் உள்ள குட்டையான ஓடு தண்டு (Offset) கொத்தான இலைகளையும் வேர்களையும் உருவாக்கும்.",
+    "question_en": "Choose the correct statement:",
+    "options_en": [
+      "Underground runner grows under the soil to form a new plant.",
+      "An example of a runner is wild strawberry.",
+      "In stolons, the stem bends to touch the soil and does not form a new plant.",
+      "An offset produces a tuft of leaves and a cluster of roots at intervals."
+    ],
+    "explanation_en": "The short offset in aquatic plants produces a tuft of leaves and a cluster of roots."
+  },
+  {
+    "id": 134,
+    "question": "கஸ்குட்டா தாவரங்கள் எந்த வேர்களின் மூலம் ஓம்புயிரித் தாவரத் திசுக்களைத் துளைத்து ஊட்டச்சத்தை உறிஞ்சுகின்றன?",
+    "options": [
+      "தொற்று வேர்கள்",
+      "ஹாஸ்டோரியா",
+      "தூண் வேர்கள்",
+      "பற்று வேர்கள்"
+    ],
+    "correct": 1,
+    "explanation": "ஒட்டுண்ணித் தாவரமான கஸ்குட்டா ஹாஸ்டோரியா (Haustoria) வேர்களைப் பயன்படுத்துகிறது.",
+    "question_en": "Through which roots do Cuscuta plants penetrate host plant tissues and absorb nutrients?",
+    "options_en": [
+      "Epiphytic roots",
+      "Haustoria",
+      "Prop roots",
+      "Clinging roots"
+    ],
+    "explanation_en": "The parasitic plant Cuscuta uses Haustoria roots."
+  },
+  {
+    "id": 135,
+    "question": "அகேஷியா ஆரிகுலிபார்மிஸ் தாவரத்தில் இலைக்காம்பு அகன்று ___ போல் மாறியுள்ளது.",
+    "options": [
+      "இலை",
+      "பூ",
+      "கனி",
+      "விதை"
+    ],
+    "correct": 0,
+    "explanation": "இலைக்காம்பு அகன்று இலை போல செயல்படுவதை பில்லோடு (Phyllode) என்பர்.",
+    "question_en": "In Acacia auriculiformis, the petiole has broadened to become like a ___.",
+    "options_en": [
+      "Leaf",
+      "Flower",
+      "Fruit",
+      "Seed"
+    ],
+    "explanation_en": "The petiole broadening and acting like a leaf is called a Phyllode."
+  },
+  {
+    "id": 136,
+    "question": "ஈஸ்ட் எதன் மூலம் இனப்பெருக்கம் செய்கிறது?",
+    "options": [
+      "ஸ்போர் உருவாதல்",
+      "மொட்டு விடுதல்",
+      "பாலில்லா இனப்பெருக்கம்",
+      "துண்டாதல்"
+    ],
+    "correct": 1,
+    "explanation": "ஈஸ்ட் மொட்டு விடுதல் (Budding) முறையில் இனப்பெருக்கம் செய்கிறது.",
+    "question_en": "Yeast reproduces by means of:",
+    "options_en": [
+      "Spore formation",
+      "Budding",
+      "Asexual reproduction",
+      "Fragmentation"
+    ],
+    "explanation_en": "Yeast reproduces by the budding method."
+  },
+  {
+    "id": 137,
+    "question": "பொருந்தாத ஒன்றைக் கண்டறியவும்:",
+    "options": [
+      "பசிடியோமைசீட்ஸ்",
+      "மிக்சோமைசீட்ஸ்",
+      "பைகோமைசீட்ஸ்",
+      "ஆஸ்கோமைசீட்ஸ்"
+    ],
+    "correct": 1,
+    "explanation": "மிக்சோமைசீட்ஸ் (Myxomycetes) என்பவை ஸ்லைம் மோல்டுகள், மற்றவை உண்மையான பூஞ்சைகள்.",
+    "question_en": "Find the odd one out:",
+    "options_en": [
+      "Basidiomycetes",
+      "Myxomycetes",
+      "Phycomycetes",
+      "Ascomycetes"
+    ],
+    "explanation_en": "Myxomycetes are slime molds, whereas the others are true fungi."
+  },
+  {
+    "id": 138,
+    "question": "அராவ்கேரியா பிட்வில்லீ என்பது ஒரு:",
+    "options": [
+      "அழகுத் தாவரம்",
+      "மருத்துவத் தாவரம்",
+      "பெரணி",
+      "நீர்வாழ் தாவரம்"
+    ],
+    "correct": 0,
+    "explanation": "இது ஒரு வகையான ஊசியிலை அழகுத் தாவரமாகும் (Ornamental plant).",
+    "question_en": "Araucaria bidwillii is an:",
+    "options_en": [
+      "Ornamental plant",
+      "Medicinal plant",
+      "Fern",
+      "Aquatic plant"
+    ],
+    "explanation_en": "This is a type of coniferous ornamental plant."
+  },
+  {
+    "id": 139,
+    "question": "பின்வருவனவற்றுள் சரியான வரிசை எது?",
+    "options": [
+      "உயிரினம், உறுப்பு மண்டலம், உறுப்பு, செல், திசு",
+      "செல், திசு, உறுப்பு, உறுப்பு மண்டலம், உயிரினம்",
+      "உறுப்பு, செல், உயிரினம், திசு, உறுப்பு மண்டலம்",
+      "உறுப்பு மண்டலம், திசு, உறுப்பு, செல், உயிரினம்"
+    ],
+    "correct": 1,
+    "explanation": "உயிரினங்களின் சரியான கட்டமைப்பு: Cell -> Tissue -> Organ -> Organ System -> Organism.",
+    "question_en": "Which of the following is the correct sequence?",
+    "options_en": [
+      "Organism, Organ system, Organ, Cell, Tissue",
+      "Cell, Tissue, Organ, Organ system, Organism",
+      "Organ, Cell, Organism, Tissue, Organ system",
+      "Organ system, Tissue, Organ, Cell, Organism"
+    ],
+    "explanation_en": "The correct structural sequence in organisms: Cell -> Tissue -> Organ -> Organ System -> Organism."
+  },
+  {
+    "id": 140,
+    "question": "___ புரோட்டீன் மற்றும் பாலிபெப்டைடுகளை ஒன்றிணைக்கிறது.",
+    "options": [
+      "பசுங்கணிகம்",
+      "ரிபோசோம்",
+      "எண்டோபிளாச வலைப்பின்னல்",
+      "சைட்டோபிளாசம்"
+    ],
+    "correct": 1,
+    "explanation": "ரிபோசோம்கள் புரத உற்பத்தியில் (Protein synthesis) முக்கிய பங்கு வகிக்கின்றன.",
+    "question_en": "___ synthesizes proteins and polypeptides.",
+    "options_en": [
+      "Chloroplast",
+      "Ribosome",
+      "Endoplasmic reticulum",
+      "Cytoplasm"
+    ],
+    "explanation_en": "Ribosomes play a major role in protein synthesis."
+  },
+  {
+    "id": 141,
+    "question": "___ ஆந்த்ராக்ஸ் நோயை குணப்படுத்த சிறந்த மருந்தாகக் கொடுக்கப்படுகிறது.",
+    "options": [
+      "சிப்ரேஃப்ளோக்சாசின்",
+      "இபுரூஃபன்",
+      "ஆஸ்பிரின்",
+      "வென்டோலின் HFA"
+    ],
+    "correct": 0,
+    "explanation": "ஆந்த்ராக்ஸ் பாக்டீரியா தொற்றை குணப்படுத்த சிப்ரேஃப்ளோக்சாசின் (Ciprofloxacin) பயன்படுகிறது.",
+    "question_en": "___ is given as the best medicine to cure Anthrax.",
+    "options_en": [
+      "Ciprofloxacin",
+      "Ibuprofen",
+      "Aspirin",
+      "Ventolin HFA"
+    ],
+    "explanation_en": "Ciprofloxacin is used to cure Anthrax bacterial infections."
+  },
+  {
+    "id": 142,
+    "question": "கம்பளி என்ற இழை எந்த குடும்பத்தைச் சார்ந்தது?",
+    "options": [
+      "அக்னதா",
+      "நிடேரியா",
+      "கேப்ரினே",
+      "ரோடென்டியா"
+    ],
+    "correct": 2,
+    "explanation": "கம்பளி தரும் ஆடுகள் கேப்ரினே (Caprinae) விலங்கு குடும்பத்தைச் சேர்ந்தவை.",
+    "question_en": "The fiber 'wool' belongs to which family?",
+    "options_en": [
+      "Agnatha",
+      "Cnidaria",
+      "Caprinae",
+      "Rodentia"
+    ],
+    "explanation_en": "Wool-producing sheep belong to the Caprinae animal family."
+  },
+  {
+    "id": 143,
+    "question": "பேசில்லி கால்மெட்டே குயூரின் (BCG) தடுப்பூசி எதைத் தடுப்பதற்காக வழங்கப்படுகிறது?",
+    "options": [
+      "தட்டம்மை",
+      "பிளேக்",
+      "போலியோ",
+      "காசநோய்"
+    ],
+    "correct": 3,
+    "explanation": "BCG தடுப்பூசி காசநோயைத் (Tuberculosis) தடுக்கப் பயன்படுகிறது.",
+    "question_en": "The Bacillus Calmette-Guerin (BCG) vaccine is given to prevent:",
+    "options_en": [
+      "Measles",
+      "Plague",
+      "Polio",
+      "Tuberculosis"
+    ],
+    "explanation_en": "The BCG vaccine is used to prevent Tuberculosis."
+  },
+  {
+    "id": 144,
+    "question": "சுருள் வடிவ பாக்டீரியாவிற்கு எடுத்துக்காட்டு:",
+    "options": [
+      "விப்ரியோ காலரா",
+      "ஹெலிகோபாக்டர் பைலோரி",
+      "ஸ்டபைலோகாக்கஸ் ஆரியஸ்",
+      "பேசில்லஸ் ஆந்த்ராசிஸ்"
+    ],
+    "correct": 1,
+    "explanation": "ஹெலிகோபாக்டர் பைலோரி சுருள் (Spiral) வடிவமுடையது.",
+    "question_en": "An example of a spiral-shaped bacterium is:",
+    "options_en": [
+      "Vibrio cholerae",
+      "Helicobacter pylori",
+      "Staphylococcus aureus",
+      "Bacillus anthracis"
+    ],
+    "explanation_en": "Helicobacter pylori has a spiral shape."
+  },
+  {
+    "id": 145,
+    "question": "தவறான கூற்றைத் தேர்ந்தெடுக்கவும். உட்சுவாசம் (Inhalation):",
+    "options": [
+      "உதரவிதானம் மேல்நோக்கி நகர்கிறது.",
+      "மார்பறையின் கொள்ளளவு அதிகரிக்கிறது.",
+      "காற்று மூக்கின் வழியாக நுரையீரலுக்குள் நுழைகிறது.",
+      "உதரவிதானத் தசைகள் சுருங்குகின்றன."
+    ],
+    "correct": 0,
+    "explanation": "உட்சுவாசத்தின் போது உதரவிதானம் கீழ்நோக்கி தட்டையாகும், மேல்நோக்கி அல்ல.",
+    "question_en": "Choose the incorrect statement regarding Inhalation:",
+    "options_en": [
+      "Diaphragm moves upwards.",
+      "The volume of the chest cavity increases.",
+      "Air enters the lungs through the nose.",
+      "Diaphragm muscles contract."
+    ],
+    "explanation_en": "During inhalation, the diaphragm flattens downwards, not upwards."
+  },
+  {
+    "id": 146,
+    "question": "விக்கிரமசீலா மடாலயம் யாரால் உருவாக்கப்பட்டது?",
+    "options": [
+      "கோபாலா",
+      "தர்மபாலா",
+      "தேவபாலா",
+      "மகிபாலா"
+    ],
+    "correct": 1,
+    "explanation": "பால வம்சத்தைச் சேர்ந்த தர்மபாலா இதை நிறுவினார்.",
+    "question_en": "Vikramashila Monastery was founded by whom?",
+    "options_en": [
+      "Gopala",
+      "Dharmapala",
+      "Devapala",
+      "Mahipala"
+    ],
+    "explanation_en": "Dharmapala of the Pala dynasty established this."
+  },
+  {
+    "id": 147,
+    "question": "பிரதிகார அரசர்களுள் முதலாவது மற்றும் முக்கியமான அரசர் யார்?",
+    "options": [
+      "மிகிரபோஜா",
+      "இரண்டாம் நாகபட்டர்",
+      "ராம்பத்ரா",
+      "முதலாம் நாகபட்டர்"
+    ],
+    "correct": 3,
+    "explanation": "முதலாம் நாகபட்டர் கூர்ஜர-பிரதிகார வம்சத்தின் முக்கிய அரசர்.",
+    "question_en": "Who was the first and prominent ruler among the Pratiharas?",
+    "options_en": [
+      "Mihira Bhoja",
+      "Nagabhata II",
+      "Rambhadra",
+      "Nagabhata I"
+    ],
+    "explanation_en": "Nagabhata I was a significant ruler of the Gurjara-Pratihara dynasty."
+  },
+  {
+    "id": 148,
+    "question": "கூற்று (A): காயல் துறைமுகத்தில் மாலிக்-உல்-இஸ்லாம் ஜமாலுதீன் என்னும் அராபிய வணிக நிறுவனம் செயல்பட்டது. காரணம் (R): பாண்டிய அரசர்களுக்கு ஆயுதங்கள் மற்றும் வெடிமருந்துகள் கிடைப்பதற்கான வசதிகளை இந்நிறுவனம் செய்தது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று சரி ஆனால் காரணம் கூற்றை விளக்கவில்லை",
+      "கூற்று சரி மற்றும் காரணம் கூற்றை விளக்குகிறது"
+    ],
+    "correct": 2,
+    "explanation": "வரலாற்றுப்படி அவர் குதிரைகளை தான் இறக்குமதி செய்தார், வெடிமருந்துகளை அல்ல.",
+    "question_en": "Assertion (A): An Arab trading agency named Malik-ul-Islam Jamal-ud-din operated in Kayal port.\nReason (R): This agency facilitated the supply of weapons and gunpowder to the Pandya kings.",
+    "options_en": [
+      "Assertion and Reason are correct",
+      "Assertion and Reason are wrong",
+      "Assertion is correct but Reason does not explain the Assertion",
+      "Assertion is correct and Reason explains the Assertion"
+    ],
+    "explanation_en": "Historically, he imported horses, not gunpowder."
+  },
+  {
+    "id": 149,
+    "question": "பால்பன் பாரசீகத்தைச் சேர்ந்த புகழ் பெற்ற கவிஞரான ___ என்பாரை ஆதரித்தார்.",
+    "options": [
+      "அமீர் குஸ்ரு",
+      "ஃபயஸ் அகமது ஃபயஸ்",
+      "வாலி டெக்கானி",
+      "ஃபிர்டெளசி"
+    ],
+    "correct": 0,
+    "explanation": "அமீர் குஸ்ருவை ஆதரித்தவர் சுல்தான் பால்பன்.",
+    "question_en": "Balban patronized the famous Persian poet ___.",
+    "options_en": [
+      "Amir Khusrau",
+      "Faiz Ahmad Faiz",
+      "Wali Deccani",
+      "Ferdowsi"
+    ],
+    "explanation_en": "Sultan Balban patronized Amir Khusrau."
+  },
+  {
+    "id": 150,
+    "question": "கிருஷ்ண தேவராயரைத் தொடர்ந்து அவருடைய இளைய சகோதரர் ___ ஆட்சிப் பொறுப்பேற்றார்.",
+    "options": [
+      "ராமராயர்",
+      "சதாசிவராயர்",
+      "திருமலைதேவராயர்",
+      "அச்சுதராயர்"
+    ],
+    "correct": 3,
+    "explanation": "கிருஷ்ணதேவராயருக்குப் பின் அச்சுதராயர் பதவியேற்றார்.",
+    "question_en": "Krishnadevaraya was succeeded by his younger brother ___.",
+    "options_en": [
+      "Ramaraya",
+      "Sadasivaraya",
+      "Tirumaladevaraya",
+      "Achyutaraya"
+    ],
+    "explanation_en": "Achyutaraya took over the reign after Krishnadevaraya."
+  },
+  {
+    "id": 151,
+    "question": "___ நதிகளின் வளமான பகுதிகளைக் கைப்பற்றுவது தொடர்பாக பாமினி மற்றும் விஜய நகர அரசுகளுக்கிடையே போர்கள் நடைபெற்றன.",
+    "options": [
+      "வேதவதி மற்றும் கோதாவரி",
+      "துங்கபத்திரா மற்றும் கோதாவரி",
+      "துங்கபத்திரா மற்றும் கிருஷ்ணா",
+      "கோதாவரி மற்றும் கிருஷ்ணா"
+    ],
+    "correct": 2,
+    "explanation": "கிருஷ்ணா மற்றும் துங்கபத்திரா நதிகளுக்கு இடைப்பட்ட ராய்ச்சூர் தோவாப் பகுதிக்காக போர் நடந்தது.",
+    "question_en": "Wars were fought between the Bahmani and Vijayanagara kingdoms to control the fertile regions between the ___ rivers.",
+    "options_en": [
+      "Vedavati and Godavari",
+      "Tungabhadra and Godavari",
+      "Tungabhadra and Krishna",
+      "Godavari and Krishna"
+    ],
+    "explanation_en": "Wars were fought for the Raichur Doab region located between the Krishna and Tungabhadra rivers."
+  },
+  {
+    "id": 152,
+    "question": "புதிய நகரான பதேபூர் சிக்ரியில் உள்ள இபாதத் கானா யாரால் கட்டப்பட்டது?",
+    "options": [
+      "பாபர்",
+      "ஹூமாயூன்",
+      "ஷாஜஹான்",
+      "அக்பர்"
+    ],
+    "correct": 3,
+    "explanation": "அனைத்து மத அறிஞர்களுடனும் விவாதிக்க அக்பரால் கட்டப்பட்டது இபாதத் கானா.",
+    "question_en": "Who built the Ibadat Khana in the new city of Fatehpur Sikri?",
+    "options_en": [
+      "Babur",
+      "Humayun",
+      "Shah Jahan",
+      "Akbar"
+    ],
+    "explanation_en": "The Ibadat Khana was built by Akbar to hold discussions with scholars of all religions."
+  },
+  {
+    "id": 153,
+    "question": "பொருத்துக: (a) வக்கீல் (b) வஜீர் (c) மீர் பாஷி (d) குவாஜி",
+    "options": [
+      "(iii), (iv), (ii), (i)",
+      "(i), (ii), (iv), (iii)",
+      "(iv), (iii), (i), (ii)",
+      "(ii), (iv), (i), (iii)"
+    ],
+    "correct": 0,
+    "explanation": "வக்கீல்-பிரதமர், வஜீர்-வருவாய், மீர் பாஷி-இராணுவம், குவாஜி-தலைமை நீதிபதி.",
+    "question_en": "Match: (a) Wakil (b) Wazir (c) Mir Bakshi (d) Qazi",
+    "options_en": [
+      "(iii), (iv), (ii), (i)",
+      "(i), (ii), (iv), (iii)",
+      "(iv), (iii), (i), (ii)",
+      "(ii), (iv), (i), (iii)"
+    ],
+    "explanation_en": "Wakil - Prime Minister, Wazir - Revenue, Mir Bakshi - Military, Qazi - Chief Justice."
+  },
+  {
+    "id": 154,
+    "question": "கபீரின் பாடல்கள் ___ மொழியோடு உருது மொழி கலந்து பாடப்பட்டவையாகும்.",
+    "options": [
+      "பாலி",
+      "பிராகிருதம்",
+      "போஜ்புரி",
+      "சமஸ்கிருதம்"
+    ],
+    "correct": 2,
+    "explanation": "கபீரின் பாடல்கள் போஜ்புரி மற்றும் உருது கலந்த மொழியில் அமைந்தன.",
+    "question_en": "Kabir's songs were sung in a mixture of Urdu and the ___ language.",
+    "options_en": [
+      "Pali",
+      "Prakrit",
+      "Bhojpuri",
+      "Sanskrit"
+    ],
+    "explanation_en": "Kabir's songs were composed in a mixture of Bhojpuri and Urdu."
+  },
+  {
+    "id": 155,
+    "question": "1984 - இல் எந்த நினைவுச் சின்னங்களும் கோவில்களும் உலகப் பாரம்பரிய இடமாக யுனெஸ்கோவால் அங்கீகரிக்கப்பட்டது?",
+    "options": [
+      "மாமல்லபுரம்",
+      "ஆனைமலை",
+      "சித்தன்னவாசல்",
+      "திருப்பரங்குன்றம்"
+    ],
+    "correct": 0,
+    "explanation": "மாமல்லபுரம் 1984 இல் யுனெஸ்கோ அங்கீகாரம் பெற்றது.",
+    "question_en": "Which monuments and temples were recognized as a World Heritage Site by UNESCO in 1984?",
+    "options_en": [
+      "Mamallapuram",
+      "Anaimalai",
+      "Sittanavasal",
+      "Thiruparankundram"
+    ],
+    "explanation_en": "Mamallapuram was recognized by UNESCO in 1984."
+  },
+  {
+    "id": 156,
+    "question": "காலகிரம வரிசைப்படி தேர்ந்தெடுக்கவும்: (a) வந்தவாசிப் போர் (b) பக்சார் போர் (c) ஆம்பூர் போர் (d) பிளாசிப் போர்",
+    "options": [
+      "(c), (d), (a), (b)",
+      "(a), (b), (c), (d)",
+      "(b), (a), (d), (c)",
+      "(d), (c), (b), (a)"
+    ],
+    "correct": 0,
+    "explanation": "ஆம்பூர்(1749), பிளாசி(1757), வந்தவாசி(1760), பக்சார்(1764).",
+    "question_en": "Arrange in chronological order: (a) Battle of Wandiwash (b) Battle of Buxar (c) Battle of Ambur (d) Battle of Plassey",
+    "options_en": [
+      "(c), (d), (a), (b)",
+      "(a), (b), (c), (d)",
+      "(b), (a), (d), (c)",
+      "(d), (c), (b), (a)"
+    ],
+    "explanation_en": "Ambur (1749), Plassey (1757), Wandiwash (1760), Buxar (1764)."
+  },
+  {
+    "id": 157,
+    "question": "பொருந்தாத இணையைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "பாரிஸ் உடன்படிக்கை - மூன்றாம் கர்நாடகப் போர்",
+      "மதராஸ் உடன்படிக்கை - இரண்டாம் ஆங்கிலேய-மைசூர் போர்",
+      "சால்பை உடன்படிக்கை - முதல் ஆங்கிலேய-மராத்திய போர்",
+      "ஸ்ரீரங்கப்பட்டிண உடன்படிக்கை - மூன்றாம் ஆங்கிலேய மைசூர் போர்"
+    ],
+    "correct": 1,
+    "explanation": "இரண்டாம் மைசூர் போர் மங்களூர் உடன்படிக்கையுடன் முடிந்தது. மதராஸ் உடன்படிக்கை முதல் போருக்கானது.",
+    "question_en": "Choose the mismatched pair:",
+    "options_en": [
+      "Treaty of Paris - Third Carnatic War",
+      "Treaty of Madras - Second Anglo-Mysore War",
+      "Treaty of Salbai - First Anglo-Maratha War",
+      "Treaty of Srirangapatna - Third Anglo-Mysore War"
+    ],
+    "explanation_en": "The Second Anglo-Mysore War ended with the Treaty of Mangalore. The Treaty of Madras was for the first war."
+  },
+  {
+    "id": 158,
+    "question": "பொருத்துக: (a) வில்லியம் பெண்டிங் (b) காரன்வாலிஸ் (c) தாமஸ் மன்றோ (d) இராபர்ட் கிளைவ்",
+    "options": [
+      "(iv), (iii), (i), (ii)",
+      "(iv), (i), (ii), (iii)",
+      "(iii), (i), (ii), (iv)",
+      "(i), (iv), (iii), (ii)"
+    ],
+    "correct": 0,
+    "explanation": "பெண்டிங்-மகல்வாரி, காரன்வாலிஸ்-நிலையான வருவாய், மன்றோ-இரயத்வாரி, கிளைவ்-ஓராண்டு வருவாய்.",
+    "question_en": "Match the following: (a) William Bentinck (b) Cornwallis (c) Thomas Munro (d) Robert Clive",
+    "options_en": [
+      "(iv), (iii), (i), (ii)",
+      "(iv), (i), (ii), (iii)",
+      "(iii), (i), (ii), (iv)",
+      "(i), (iv), (iii), (ii)"
+    ],
+    "explanation_en": "Bentinck - Mahalwari, Cornwallis - Permanent settlement, Munro - Ryotwari, Clive - One-year revenue."
+  },
+  {
+    "id": 159,
+    "question": "அரசுப் பணியைப் பற்றி ஆராய்வதற்காக யார் தலைமையில் ராயல் கமிஷன் நிறுவப்பட்டது?",
+    "options": [
+      "செம்ஸ்போர்டு",
+      "இஸ்லிங்டன் பிரபு",
+      "காரன்வாலிஸ் பிரபு",
+      "வில்லியம் பெண்டிங் பிரபு"
+    ],
+    "correct": 1,
+    "explanation": "Lord Islington தலைமையில் இஸ்லிங்டன் கமிஷன் அமைக்கப்பட்டது.",
+    "question_en": "Under whose leadership was the Royal Commission established to examine the public services?",
+    "options_en": [
+      "Chelmsford",
+      "Lord Islington",
+      "Lord Cornwallis",
+      "Lord William Bentinck"
+    ],
+    "explanation_en": "The Islington Commission was established under the leadership of Lord Islington."
+  },
+  {
+    "id": 160,
+    "question": "புவி மேலோடும், கவசமும் ___ என்ற எல்லை மூலம் பிரிக்கப்படுகிறது.",
+    "options": [
+      "வெய்சார்ட் குட்டன் பெர்க்",
+      "மென் அடுக்கு",
+      "புற உந்து சக்திகள்",
+      "மோஹோரோவிசிக்"
+    ],
+    "correct": 3,
+    "explanation": "இதை Mohorovičić discontinuity என்று அழைப்பர்.",
+    "question_en": "The earth's crust and mantle are separated by the boundary called ___.",
+    "options_en": [
+      "Weichert-Gutenberg",
+      "Asthenosphere",
+      "Exogenic forces",
+      "Mohorovicic"
+    ],
+    "explanation_en": "This is known as the Mohorovicic discontinuity."
+  },
+  {
+    "id": 161,
+    "question": "செயல்படும் எரிமலைகள் எந்த தீவுகளில் காணப்படுகின்றன?",
+    "options": [
+      "மலேசியா",
+      "இந்தோனேஷியா",
+      "ஹவாய்",
+      "ஜப்பான்"
+    ],
+    "correct": 1,
+    "explanation": "இந்தோனேஷியாவில் அதிக செயல்படும் எரிமலைகள் உள்ளன.",
+    "question_en": "In which islands are active volcanoes found?",
+    "options_en": [
+      "Malaysia",
+      "Indonesia",
+      "Hawaii",
+      "Japan"
+    ],
+    "explanation_en": "Indonesia has a high number of active volcanoes."
+  },
+  {
+    "id": 162,
+    "question": "பின்வருவனவற்றுள் எது அரித்தலினால் உண்டாகும் நிலத்தோற்றமல்ல?",
+    "options": [
+      "சர்க்",
+      "மொரைன்கள்",
+      "அரெட்டு",
+      "இன்செல்பர்க்"
+    ],
+    "correct": 1,
+    "explanation": "மொரைன்கள் (Moraines) என்பவை பனியாறுகளின் படிவுகளால் உண்டாகும் நிலத்தோற்றம்.",
+    "question_en": "Which of the following is not an erosional landform?",
+    "options_en": [
+      "Cirque",
+      "Moraines",
+      "Arete",
+      "Inselberg"
+    ],
+    "explanation_en": "Moraines are landforms created by glacial deposits."
+  },
+  {
+    "id": 163,
+    "question": "காற்றடி வண்டல் படிவுகள் காணப்படும் இடம்:",
+    "options": [
+      "கனடா",
+      "இலங்கை",
+      "சீனா",
+      "பிரான்ஸ்"
+    ],
+    "correct": 2,
+    "explanation": "சீனாவின் மஞ்சள் நதிப் படுகையில் இவை அதிகம் காணப்படுகின்றன.",
+    "question_en": "Where are loess deposits found?",
+    "options_en": [
+      "Canada",
+      "Sri Lanka",
+      "China",
+      "France"
+    ],
+    "explanation_en": "These are mostly found in the Yellow River basin in China."
+  },
+  {
+    "id": 164,
+    "question": "தாமிர உற்பத்தியில் உலக அளவில் முதலிடம் வகிக்கும் நாடு:",
+    "options": [
+      "சீனா",
+      "ஆஸ்திரேலியா",
+      "இந்தியா",
+      "சிலி"
+    ],
+    "correct": 3,
+    "explanation": "தென் அமெரிக்க நாடான சிலி (Chile) தாமிர உற்பத்தியில் முதலிடத்தில் உள்ளது.",
+    "question_en": "Which country ranks first in the world in copper production?",
+    "options_en": [
+      "China",
+      "Australia",
+      "India",
+      "Chile"
+    ],
+    "explanation_en": "The South American country Chile holds the first place in copper production."
+  },
+  {
+    "id": 165,
+    "question": "எந்த நீர்ச்சந்தி வட அமெரிக்காவை ஆசியாவிலிருந்து பிரிக்கிறது?",
+    "options": [
+      "பேரிங் நீர்ச்சந்தி",
+      "கபோட் நீர்ச்சந்தி",
+      "கேன்சோ நீர்ச்சந்தி",
+      "செபு நீர்ச்சந்தி"
+    ],
+    "correct": 0,
+    "explanation": "பேரிங் (Bering) நீர்ச்சந்தி ரஷ்யாவையும் அலாஸ்காவையும் பிரிக்கிறது.",
+    "question_en": "Which strait separates North America from Asia?",
+    "options_en": [
+      "Bering Strait",
+      "Cabot Strait",
+      "Canso Strait",
+      "Cebu Strait"
+    ],
+    "explanation_en": "The Bering Strait separates Russia and Alaska."
+  },
+  {
+    "id": 166,
+    "question": "அமேசான் வடிநிலப் பகுதியின் அட்சரேகையில் அமைந்திருந்தாலும் குவிடோ நிரந்தர வசந்த காலத்தை அனுபவிக்கிறது, ஏனெனில்:",
+    "options": [
+      "அதிக உயரத்தில் அமைந்துள்ளதால்",
+      "பூமத்திய ரேகை செல்வதால்",
+      "காடுகள் சூழ்ந்துள்ளதால்",
+      "கடலுக்கு அருகில் இருப்பதால்"
+    ],
+    "correct": 0,
+    "explanation": "குவிடோ (Quito) அதிக உயரத்தில் (Altitude) உள்ளதால் அங்கு குளிர்ந்த வானிலை நிலவுகிறது.",
+    "question_en": "Despite being located in the latitudes of the Amazon basin, Quito experiences perpetual spring because:",
+    "options_en": [
+      "It is situated at a high altitude",
+      "The equator passes through it",
+      "It is surrounded by forests",
+      "It is near the sea"
+    ],
+    "explanation_en": "Since Quito is located at a high altitude, it experiences a cool climate."
+  },
+  {
+    "id": 167,
+    "question": "வட அமெரிக்காவையும், தென் அமெரிக்காவையும் இணைக்கிறது:",
+    "options": [
+      "அட்லாண்டிக் பெருங்கடல்",
+      "பனாமா நிலச்சந்தி",
+      "டியாரா டெல் ஃபியூகோ தீவு",
+      "ஈக்வடார்"
+    ],
+    "correct": 1,
+    "explanation": "பனாமா நிலச்சந்தி (Isthmus of Panama) இரு கண்டங்களையும் இணைக்கிறது.",
+    "question_en": "What connects North America and South America?",
+    "options_en": [
+      "Atlantic Ocean",
+      "Isthmus of Panama",
+      "Tierra del Fuego Island",
+      "Ecuador"
+    ],
+    "explanation_en": "The Isthmus of Panama connects the two continents."
+  },
+  {
+    "id": 168,
+    "question": "சுனாமி என்பது:",
+    "options": [
+      "கடற்கரையை நோக்கி மேலெழுந்து சீறிவரும் பெரும் அலைகள்",
+      "கடல்பரப்பில் புவித்தட்டுகள் நகருதல்",
+      "பெருங்கடல்களில் உள்ள எரிமலை வெடித்தல்",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "புவித்தட்டுகள் நகர்தல், எரிமலை வெடிப்பு ஆகியவற்றால் சுனாமி ஏற்படுகிறது.",
+    "question_en": "A tsunami is:",
+    "options_en": [
+      "Huge waves rising and surging towards the coast",
+      "Movement of tectonic plates under the sea floor",
+      "Volcanic eruptions in the oceans",
+      "All of the above"
+    ],
+    "explanation_en": "Tsunamis are caused by the movement of tectonic plates and volcanic eruptions."
+  },
+  {
+    "id": 169,
+    "question": "மனிதனால் ஏற்படும் இடருக்கு எடுத்துக்காட்டு:",
+    "options": [
+      "ரசாயன வெடிப்பு",
+      "நில அதிர்வு",
+      "வெள்ளம்",
+      "எரிமலை வெடிப்புகள்"
+    ],
+    "correct": 0,
+    "explanation": "ரசாயன வெடிப்பு மட்டுமே மனிதச் செயல்பாடுகளால் (Anthropogenic hazard) ஏற்படுவது.",
+    "question_en": "An example of a human-induced hazard is:",
+    "options_en": [
+      "Chemical explosion",
+      "Earthquake",
+      "Flood",
+      "Volcanic eruptions"
+    ],
+    "explanation_en": "Only a chemical explosion is caused by human activities (Anthropogenic hazard)."
+  },
+  {
+    "id": 170,
+    "question": "பொருத்துக: (a) முதன்மைப் பாறைகள் (b) இக்னியஸ் பாறைகள் (c) உருகிய பாறைக்குழம்பு (d) அடியாழப் பாறைகள்",
+    "options": [
+      "(ii), (i), (iv), (iii)",
+      "(iv), (iii), (ii), (i)",
+      "(iii), (iv), (i), (ii)",
+      "(i), (iv), (ii), (iii)"
+    ],
+    "correct": 0,
+    "explanation": "முதன்மைப்பாறைகள்-தாய்ப்பாறைகள், இக்னியஸ்-தீ(Fire), உருகியகுழம்பு-லாவா, அடியாழப்பாறைகள்-பாதாளப்பாறைகள்.",
+    "question_en": "Match the following: (a) Primary rocks (b) Igneous rocks (c) Molten rock (d) Plutonic rocks",
+    "options_en": [
+      "(ii), (i), (iv), (iii)",
+      "(iv), (iii), (ii), (i)",
+      "(iii), (iv), (i), (ii)",
+      "(i), (iv), (ii), (iii)"
+    ],
+    "explanation_en": "Primary rocks - Parent rocks, Igneous - Fire, Molten rock - Lava, Plutonic rocks - Deep-seated rocks."
+  },
+  {
+    "id": 171,
+    "question": "வடமேற்கு ஆப்பிரிக்க நாடுகளான மொராக்கோ, அல்ஜீரியா, லிபியா, துனிசியா ஆகியவற்றின் குழு:",
+    "options": [
+      "மேக் ரெப்",
+      "எல்லை",
+      "விளிம்பு",
+      "காரூஸ்"
+    ],
+    "correct": 0,
+    "explanation": "அரபு மொழியில் இதனை 'மேக்ரெப்' (Maghreb) என்று அழைப்பர்.",
+    "question_en": "The group of Northwest African countries including Morocco, Algeria, Libya, and Tunisia is called:",
+    "options_en": [
+      "Maghreb",
+      "Border",
+      "Fringe",
+      "Karoo"
+    ],
+    "explanation_en": "In Arabic, this is called 'Maghreb'."
+  },
+  {
+    "id": 172,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "மைத்ரி",
+      "தட்சின் கங்கோத்ரி",
+      "மெக்முர்டோ",
+      "பாரதி"
+    ],
+    "correct": 2,
+    "explanation": "மெக்முர்டோ என்பது அமெரிக்காவின் ஆராய்ச்சி நிலையம், மற்றவை இந்தியாவின் நிலையங்கள்.",
+    "question_en": "Choose the odd one out:",
+    "options_en": [
+      "Maitri",
+      "Dakshin Gangotri",
+      "McMurdo",
+      "Bharati"
+    ],
+    "explanation_en": "McMurdo is an American research station, while the others are Indian stations."
+  },
+  {
+    "id": 173,
+    "question": "பொருத்துக: நதிகள் மற்றும் இடங்கள் (a) காங்கோ ஆறு (b) நைஜர் ஆறு (c) சாம்பசி ஆறு (d) முர்ரே நதி",
+    "options": [
+      "(i), (ii), (iv), (iii)",
+      "(ii), (i), (iii), (iv)",
+      "(iv), (iii), (ii), (i)",
+      "(iii), (iv), (ii), (i)"
+    ],
+    "correct": 2,
+    "explanation": "முர்ரே நதி ஆஸ்திரேலியாவில் உள்ளது. மற்ற ஆப்பிரிக்க நதிகள் அதற்குரிய இடங்களில் பொருந்துகின்றன.",
+    "question_en": "Match rivers and their locations: (a) Congo River (b) Niger River (c) Zambezi River (d) Murray River",
+    "options_en": [
+      "(i), (ii), (iv), (iii)",
+      "(ii), (i), (iii), (iv)",
+      "(iv), (iii), (ii), (i)",
+      "(iii), (iv), (ii), (i)"
+    ],
+    "explanation_en": "The Murray River is in Australia. The other African rivers match their respective locations."
+  },
+  {
+    "id": 174,
+    "question": "வாக்குரிமை என்பது ஒரு:",
+    "options": [
+      "சமூக சமத்துவம்",
+      "குடிமை சமத்துவம்",
+      "அரசியல் சமத்துவம்",
+      "பாலின சமத்துவம்"
+    ],
+    "correct": 2,
+    "explanation": "வாக்களிக்கும் உரிமை அரசியல் சமத்துவத்தின் கீழ் வருகிறது.",
+    "question_en": "The right to vote is a:",
+    "options_en": [
+      "Social equality",
+      "Civic equality",
+      "Political equality",
+      "Gender equality"
+    ],
+    "explanation_en": "The right to vote comes under political equality."
+  },
+  {
+    "id": 175,
+    "question": "பொருத்துக: (a) சட்டப்பிரிவு 15 (b) சட்டப்பிரிவு 16 (c) சட்டப்பிரிவு 17 (d) சட்டப்பிரிவு 18",
+    "options": [
+      "(iii), (iv), (ii), (i)",
+      "(i), (iii), (iv), (ii)",
+      "(ii), (iii), (iv), (i)",
+      "(ii), (i), (iv), (iii)"
+    ],
+    "correct": 2,
+    "explanation": "15-பாகுபாடு தடை, 16-வேலைவாய்ப்பில் சமத்துவம், 17-தீண்டாமை ஒழிப்பு, 18-பட்டங்கள் ஒழிப்பு.",
+    "question_en": "Match: (a) Article 15 (b) Article 16 (c) Article 17 (d) Article 18",
+    "options_en": [
+      "(iii), (iv), (ii), (i)",
+      "(i), (iii), (iv), (ii)",
+      "(ii), (iii), (iv), (i)",
+      "(ii), (i), (iv), (iii)"
+    ],
+    "explanation_en": "15 - Prohibition of discrimination, 16 - Equality of opportunity in employment, 17 - Abolition of untouchability, 18 - Abolition of titles."
+  },
+  {
+    "id": 176,
+    "question": "ஒரு கட்சி அங்கீகரிக்கப்பட எந்தக் கூற்றுகள் சரியானவை? \n(i) 5 ஆண்டுகள் அரசியல் செயல்பாடுகள். \n(ii) பொருளாதார வசதி. \n(iii) தேர்தலில் குறைந்தபட்சம் 6% வாக்குகள்.",
+    "options": [
+      "(i) மற்றும் (ii) மட்டும்",
+      "(i) மற்றும் (iii) மட்டும்",
+      "(ii) மற்றும் (iii) மட்டும்",
+      "(iii) மற்றும் (iv) மட்டும்"
+    ],
+    "correct": 1,
+    "explanation": "அரசியல் கட்சியானது 5 ஆண்டுகள் செயல்பட்டிருக்க வேண்டும் மற்றும் 6% வாக்குகள் பெற்றிருக்க வேண்டும்.",
+    "question_en": "Which statements are correct for a party to be recognized? \n(i) Political activity for 5 years. \n(ii) Economic stability. \n(iii) At least 6% of votes in an election.",
+    "options_en": [
+      "(i) and (ii) only",
+      "(i) and (iii) only",
+      "(ii) and (iii) only",
+      "(iii) and (iv) only"
+    ],
+    "explanation_en": "A political party must have been active for 5 years and secured at least 6% of the votes."
+  },
+  {
+    "id": 177,
+    "question": "மக்களவையின் எதிர்கட்சித் தலைவர் எந்த அந்தஸ்தைக் கொண்டிருப்பார்?",
+    "options": [
+      "முதலமைச்சர்",
+      "சபாநாயகர்",
+      "கேபினட் அமைச்சர்",
+      "மாநில அமைச்சர்"
+    ],
+    "correct": 2,
+    "explanation": "எதிர்கட்சித் தலைவருக்கு கேபினட் அமைச்சருக்கான (Cabinet Minister) அந்தஸ்து வழங்கப்படும்.",
+    "question_en": "What status does the Leader of the Opposition in the Lok Sabha enjoy?",
+    "options_en": [
+      "Chief Minister",
+      "Speaker",
+      "Cabinet Minister",
+      "Minister of State"
+    ],
+    "explanation_en": "The Leader of the Opposition is granted the status of a Cabinet Minister."
+  },
+  {
+    "id": 178,
+    "question": "உச்சநீதிமன்றம் அமைப்பதற்கு வழிவகுத்த சட்டம் எது?",
+    "options": [
+      "சாசனச் சட்டம், 1726",
+      "ஒழுங்கு முறைச் சட்டம், 1773",
+      "உரிமையியல் நடைமுறைச் சட்டம், 1859",
+      "இந்திய அரசுச் சட்டம், 1935"
+    ],
+    "correct": 1,
+    "explanation": "1773 ஆம் ஆண்டு ஒழுங்குமுறைச் சட்டத்தின்படி கல்கத்தாவில் உச்சநீதிமன்றம் அமைக்கப்பட்டது.",
+    "question_en": "Which act paved the way for the establishment of the Supreme Court?",
+    "options_en": [
+      "Charter Act, 1726",
+      "Regulating Act, 1773",
+      "Code of Civil Procedure, 1859",
+      "Government of India Act, 1935"
+    ],
+    "explanation_en": "The Supreme Court was established in Calcutta according to the Regulating Act of 1773."
+  },
+  {
+    "id": 179,
+    "question": "சரியான இணைகளைத் தேர்ந்தெடுக்கவும்: \n(i) பருமப்பொருள் மூலதனம் - பங்குகள் \n(ii) பங்கு மூலதனம் - வங்கி வைப்புகள் \n(iii) மனித மூலதனம் - சுகாதாரம்",
+    "options": [
+      "(i) மற்றும் (ii) மட்டும்",
+      "(ii) மற்றும் (iii) மட்டும்",
+      "(i) மற்றும் (iii) மட்டும்",
+      "மேற்காண் அனைத்தும்"
+    ],
+    "correct": 1,
+    "explanation": "பங்குகள் பருமப்பொருள் மூலதனம் அல்ல. மற்ற இரண்டும் சரி.",
+    "question_en": "Select the correct pairs: \n(i) Physical capital - Shares \n(ii) Share capital - Bank deposits \n(iii) Human capital - Health",
+    "options_en": [
+      "(i) and (ii) only",
+      "(ii) and (iii) only",
+      "(i) and (iii) only",
+      "All of the above"
+    ],
+    "explanation_en": "Shares are not physical capital. The other two pairs are correct."
+  },
+  {
+    "id": 180,
+    "question": "சமூகப் பொருளாதார முன்னேற்றத்தை அளவிட பயன்படாத குறியீடு:",
+    "options": [
+      "கருப்புப் பணம்",
+      "ஆயுட்காலம்",
+      "மொத்த உள்நாட்டு உற்பத்தி",
+      "வேலைவாய்ப்பு"
+    ],
+    "correct": 0,
+    "explanation": "கருப்புப் பணம் நாட்டின் முன்னேற்றத்தை அளவிட பயன்படாது.",
+    "question_en": "Which indicator is not used to measure socio-economic development?",
+    "options_en": [
+      "Black money",
+      "Life expectancy",
+      "Gross Domestic Product (GDP)",
+      "Employment"
+    ],
+    "explanation_en": "Black money is not used to measure the progress of a country."
+  }
+]

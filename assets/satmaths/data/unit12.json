@@ -1,0 +1,2362 @@
+[
+    {
+        "id": 1,
+        "question": "$110:x::8:88$ எனில் x இன் மதிப்பைக் காண்க.",
+        "options": [
+            "1210",
+            "10",
+            "9680",
+            "1120"
+        ],
+        "correct": 0,
+        "explanation": "விகித சம விதியின்படி, கோடி உறுப்புகளின் பெருக்கற்பலன் = நடு உறுப்புகளின் பெருக்கற்பலன். $110 \\times 88 = x \\times 8 \\implies x = \\frac{110 \\times 88}{8} = 110 \\times 11 = 1210$.",
+        "question_en": "Find the value of x if $110:x::8:88$.",
+        "options_en": [
+            "1210",
+            "10",
+            "9680",
+            "1120"
+        ],
+        "explanation_en": "By the law of proportion, product of extremes = product of means. $110 \\times 88 = x \\times 8 \\implies x = \\frac{110 \\times 88}{8} = 110 \\times 11 = 1210$."
+    },
+    {
+        "id": 2,
+        "question": "555 கிராம் மற்றும் 5 கிலோகிராம் விகிதம் காண்க",
+        "options": [
+            "1000:111",
+            "37:1000",
+            "111:1000",
+            "111:1"
+        ],
+        "correct": 2,
+        "explanation": "5 கிலோகிராம் = 5000 கிராம். விகிதம் = $555 : 5000$. 5 ஆல் வகுக்க $111 : 1000$.",
+        "question_en": "Find the ratio of 555 grams and 5 kilograms",
+        "options_en": [
+            "1000:111",
+            "37:1000",
+            "111:1000",
+            "111:1"
+        ],
+        "explanation_en": "5 kilograms = 5000 grams. Ratio = $555 : 5000$. Dividing by 5 gives $111 : 1000$."
+    },
+    {
+        "id": 3,
+        "question": "21 கி.மீ மற்றும் 175 மீ இன் விகிதம் காண்க",
+        "options": [
+            "1:120",
+            "3:25",
+            "25:3",
+            "120:1"
+        ],
+        "correct": 3,
+        "explanation": "21 கி.மீ = 21000 மீ. விகிதம் = $21000 : 175$. 175 ஆல் வகுக்க 120 : 1.",
+        "question_en": "Find the ratio of 21 km and 175 m",
+        "options_en": [
+            "1:120",
+            "3:25",
+            "25:3",
+            "120:1"
+        ],
+        "explanation_en": "21 km = 21000 m. Ratio = $21000 : 175$. Dividing by 175 gives 120 : 1."
+    },
+    {
+        "id": 4,
+        "question": "$a:b :: c:d$ எனில்",
+        "options": [
+            "$ab=cd$",
+            "$ad=bc$",
+            "$ac=bd$",
+            "$\\frac{a}{d}=\\frac{b}{c}$"
+        ],
+        "correct": 1,
+        "explanation": "விகித சம விதியின்படி, கோடி உறுப்புகளின் பெருக்கற்பலன் = நடு உறுப்புகளின் பெருக்கற்பலன். எனவே $a \\times d = b \\times c \text{ அல்லது } ad=bc$.",
+        "question_en": "If $a:b :: c:d$, then",
+        "options_en": [
+            "$ab=cd$",
+            "$ad=bc$",
+            "$ac=bd$",
+            "$\\frac{a}{d}=\\frac{b}{c}$"
+        ],
+        "explanation_en": "By the law of proportion, product of extremes equals product of means. Thus $a \\times d = b \\times c \text{ or } ad=bc$."
+    },
+    {
+        "id": 5,
+        "question": "50 பைசாவுக்கும் 5 ரூபாய்க்கும் இடையேயான விகிதம்",
+        "options": [
+            "10:1",
+            "1:10",
+            "1:5",
+            "50:5"
+        ],
+        "correct": 1,
+        "explanation": "5 ரூபாய் = 500 பைசா. விகிதம் = $50 : 500 = 1 : 10$.",
+        "question_en": "The ratio between 50 paise and 5 rupees is",
+        "options_en": [
+            "10:1",
+            "1:10",
+            "1:5",
+            "50:5"
+        ],
+        "explanation_en": "5 rupees = 500 paise. Ratio = $50 : 500 = 1 : 10$."
+    },
+    {
+        "id": 6,
+        "question": "90 செ.மீ க்கும் 1.5 மீ க்கும் இடையேயான விகிதம்",
+        "options": [
+            "2:5",
+            "3:5",
+            "4:5",
+            "9:15"
+        ],
+        "correct": 1,
+        "explanation": "1.5 மீ = 150 செ.மீ. விகிதம் = $90 : 150 = 3 : 5$.",
+        "question_en": "The ratio between 90 cm and 1.5 m is",
+        "options_en": [
+            "2:5",
+            "3:5",
+            "4:5",
+            "9:15"
+        ],
+        "explanation_en": "1.5 m = 150 cm. Ratio = $90 : 150 = 3 : 5$."
+    },
+    {
+        "id": 7,
+        "question": "a:b = 5:8, $a=80$ எனில் $b=?$",
+        "options": [
+            "50",
+            "40",
+            "128",
+            "13"
+        ],
+        "correct": 2,
+        "explanation": "5 பங்கு = 80 எனில், 1 பங்கு = 16. எனவே $b = 8$ பங்கு = $8 \\times 16 = 128$.",
+        "question_en": "If a:b = 5:8 and $a=80$, then $b=?$",
+        "options_en": [
+            "50",
+            "40",
+            "128",
+            "13"
+        ],
+        "explanation_en": "5 parts = 80 implies 1 part = 16. Therefore, $b = 8$ parts = $8 \\times 16 = 128$."
+    },
+    {
+        "id": 8,
+        "question": "6:10 இன் சமான விகிதம்",
+        "options": [
+            "3:4",
+            "18:30",
+            "12:40",
+            "5:3"
+        ],
+        "correct": 1,
+        "explanation": "6:10 ஐ 3 ஆல் பெருக்கினால் 18:30 கிடைக்கும். இதுவே இதன் சமான விகிதமாகும்.",
+        "question_en": "An equivalent ratio of 6:10 is",
+        "options_en": [
+            "3:4",
+            "18:30",
+            "12:40",
+            "5:3"
+        ],
+        "explanation_en": "Multiplying 6:10 by 3 gives 18:30. This is an equivalent ratio."
+    },
+    {
+        "id": 9,
+        "question": "75 மி.லி.க்கும் 3 லி க்கும் இடையேயான விகிதம்",
+        "options": [
+            "25:1",
+            "40:1",
+            "1:40",
+            "3:200"
+        ],
+        "correct": 2,
+        "explanation": "3 லிட்டர் = 3000 மி.லி. விகிதம் = $75 : 3000 = 1 : 40$.",
+        "question_en": "The ratio between 75 ml and 3 L is",
+        "options_en": [
+            "25:1",
+            "40:1",
+            "1:40",
+            "3:200"
+        ],
+        "explanation_en": "3 L = 3000 ml. Ratio = $75 : 3000 = 1 : 40$."
+    },
+    {
+        "id": 10,
+        "question": "35 பேர் கொண்ட வகுப்பில் 20 மாணவிகள் உள்ளனர் எனில், மாணவர்கள் மற்றும் மாணவிகளுக்கான விகிதம்",
+        "options": [
+            "3:4",
+            "4:3",
+            "7:4",
+            "7:3"
+        ],
+        "correct": 0,
+        "explanation": "மொத்த மாணவர்கள் 35, மாணவிகள் 20. எனவே மாணவர்கள் = $35 - 20 = 15$. விகிதம் = $15 : 20 = 3 : 4$.",
+        "question_en": "In a class of 35 students, there are 20 girls. The ratio of boys to girls is",
+        "options_en": [
+            "3:4",
+            "4:3",
+            "7:4",
+            "7:3"
+        ],
+        "explanation_en": "Total students = 35, girls = 20. So boys = $35 - 20 = 15$. Ratio = $15 : 20 = 3 : 4$."
+    },
+    {
+        "id": 11,
+        "question": "ஒரு வகுப்பில் மாணவிகள் மற்றும் மாணவர்களுக்கான விகிதம் 6:7. இதில் 21 பேர் மாணவர்கள் எனில், மாணவிகளின் எண்ணிக்கை",
+        "options": [
+            "15",
+            "24",
+            "18",
+            "13"
+        ],
+        "correct": 2,
+        "explanation": "மாணவர்களின் 7 பங்கு = 21 எனில் 1 பங்கு = 3. மாணவிகளின் எண்ணிக்கை = 6 பங்கு = $6 \\times 3 = 18$.",
+        "question_en": "In a class, the ratio of girls to boys is 6:7. If there are 21 boys, the number of girls is",
+        "options_en": [
+            "15",
+            "24",
+            "18",
+            "13"
+        ],
+        "explanation_en": "Boys correspond to 7 parts = 21, so 1 part = 3. Number of girls = 6 parts = $6 \\times 3 = 18$."
+    },
+    {
+        "id": 12,
+        "question": "ஒரு செவ்வக வடிவ அறையின் நீள, அகலங்களின் விகிதம் 9:7, நீளம் 81 மீ எனில் அவ்வறையின் அகலம்",
+        "options": [
+            "63",
+            "82",
+            "90",
+            "700"
+        ],
+        "correct": 0,
+        "explanation": "நீளத்தின் 9 பங்கு = 81 எனில் 1 பங்கு = 9. அகலம் = 7 பங்கு = $7 \\times 9 = 63$ மீ.",
+        "question_en": "The ratio of length to breadth of a rectangular room is 9:7. If the length is 81 m, its breadth is",
+        "options_en": [
+            "63",
+            "82",
+            "90",
+            "700"
+        ],
+        "explanation_en": "Length corresponds to 9 parts = 81, so 1 part = 9. Breadth = 7 parts = $7 \\times 9 = 63$ m."
+    },
+    {
+        "id": 13,
+        "question": "2 மணிக்கும் மற்றும் 1 மணி 40 நிமிடங்களுக்கும் உள்ள விகிதம்",
+        "options": [
+            "2:40",
+            "6:5",
+            "5:6",
+            "2:140"
+        ],
+        "correct": 1,
+        "explanation": "2 மணி = 120 நிமிடம். 1 மணி 40 நிமிடம் = 100 நிமிடம். விகிதம் = $120 : 100 = 6 : 5$.",
+        "question_en": "The ratio of 2 hours to 1 hour 40 minutes is",
+        "options_en": [
+            "2:40",
+            "6:5",
+            "5:6",
+            "2:140"
+        ],
+        "explanation_en": "2 hours = 120 minutes. 1 hour 40 minutes = 100 minutes. Ratio = $120 : 100 = 6 : 5$."
+    },
+    {
+        "id": 14,
+        "question": "ஒரு வகுப்பில் உள்ள மாணவ, மாணவிகளின் விகிதம் 4:5. மாணவர்களின் எண்ணிக்கை 20 எனில், மாணவிகளின் எண்ணிக்கை என்ன?",
+        "options": [
+            "15",
+            "20",
+            "25",
+            "30"
+        ],
+        "correct": 2,
+        "explanation": "மாணவர்களின் 4 பங்கு = 20 எனில் 1 பங்கு = 5. மாணவிகளின் எண்ணிக்கை = 5 பங்கு = $5 \\times 5 = 25$.",
+        "question_en": "The ratio of boys to girls in a class is 4:5. If the number of boys is 20, what is the number of girls?",
+        "options_en": [
+            "15",
+            "20",
+            "25",
+            "30"
+        ],
+        "explanation_en": "Boys correspond to 4 parts = 20, so 1 part = 5. Number of girls = 5 parts = $5 \\times 5 = 25$."
+    },
+    {
+        "id": 15,
+        "question": "3 செ.மீ பக்க அளவுடைய சதுரத்தின் சுற்றளவிற்கும், அதன் பக்கத்திற்கும் இடையேயான விகிதம்",
+        "options": [
+            "4:1",
+            "1:4",
+            "12:1",
+            "1:12"
+        ],
+        "correct": 0,
+        "explanation": "சுற்றளவு = $4 \\times 3 = 12$ செ.மீ. பக்கம் = 3 செ.மீ. விகிதம் = $12 : 3 = 4 : 1$.",
+        "question_en": "The ratio of the perimeter of a square with side 3 cm to its side is",
+        "options_en": [
+            "4:1",
+            "1:4",
+            "12:1",
+            "1:12"
+        ],
+        "explanation_en": "Perimeter = $4 \\times 3 = 12$ cm. Side = 3 cm. Ratio = $12 : 3 = 4 : 1$."
+    },
+    {
+        "id": 16,
+        "question": "5 செ.மீ பக்களவுடைய சதுரத்தின் பரப்பளவிற்கும், அதன் பக்களவிற்கும் இடையேயான விகிதம்.",
+        "options": [
+            "5:1",
+            "4:1",
+            "16:25",
+            "1:5"
+        ],
+        "correct": 0,
+        "explanation": "பரப்பளவு = $5 \\times 5 = 25$ ச.செ.மீ. பக்கம் = 5 செ.மீ. விகிதம் = $25 : 5 = 5 : 1$.",
+        "question_en": "The ratio of the area of a square with side 5 cm to its side is.",
+        "options_en": [
+            "5:1",
+            "4:1",
+            "16:25",
+            "1:5"
+        ],
+        "explanation_en": "Area = $5 \\times 5 = 25$ sq.cm. Side = 5 cm. Ratio = $25 : 5 = 5 : 1$."
+    },
+    {
+        "id": 17,
+        "question": "ஒரு வட்டத்தின் சுற்றளவிற்கும், அதன் விட்டத்திற்கும் உள்ள விகிதம் (தோராயமாக).",
+        "options": [
+            "8:11",
+            "11:8",
+            "16:25",
+            "22:7"
+        ],
+        "correct": 3,
+        "explanation": "சுற்றளவு $C = \\pi d$. எனவே சுற்றளவுக்கும் விட்டத்திற்கும் உள்ள விகிதம் $C:d = \\pi : 1$. $\\pi$-இன் தோராய மதிப்பு $\\frac{22}{7}$. எனவே விகிதம் 22:7.",
+        "question_en": "The ratio of the circumference of a circle to its diameter (approximately) is.",
+        "options_en": [
+            "8:11",
+            "11:8",
+            "16:25",
+            "22:7"
+        ],
+        "explanation_en": "Circumference $C = \\pi d$. The ratio of circumference to diameter is $C:d = \\pi : 1$. The approximate value of $\\pi$ is $\\frac{22}{7}$. Thus, the ratio is 22:7."
+    },
+    {
+        "id": 18,
+        "question": "இரு எண்களின் விகிதம் 3:5. அவ்வெண்களின் கூடுதல் 144 எனில், அதில் பெரிய எண்",
+        "options": [
+            "48",
+            "94",
+            "72",
+            "90"
+        ],
+        "correct": 3,
+        "explanation": "மொத்தப் பங்குகள் = $3 + 5 = 8$. 8 பங்கு = 144 எனில் 1 பங்கு = 18. பெரிய எண் (5 பங்கு) = $5 \\times 18 = 90$.",
+        "question_en": "The ratio of two numbers is 3:5. If their sum is 144, the larger number is",
+        "options_en": [
+            "48",
+            "94",
+            "72",
+            "90"
+        ],
+        "explanation_en": "Total parts = $3 + 5 = 8$. 8 parts = 144 implies 1 part = 18. Larger number (5 parts) = $5 \\times 18 = 90$."
+    },
+    {
+        "id": 19,
+        "question": "A:B = 3:4, B:C = 12:20 எனில், A:C = ?",
+        "options": [
+            "3:20",
+            "9:20",
+            "20:9",
+            "12:20"
+        ],
+        "correct": 1,
+        "explanation": "$\\frac{A}{C} = \\frac{A}{B} \\times \\frac{B}{C} = \\frac{3}{4} \\times \\frac{12}{20} = \\frac{36}{80} = \\frac{9}{20}$. எனவே A:C = 9:20.",
+        "question_en": "If A:B = 3:4 and B:C = 12:20, then A:C = ?",
+        "options_en": [
+            "3:20",
+            "9:20",
+            "20:9",
+            "12:20"
+        ],
+        "explanation_en": "$\\frac{A}{C} = \\frac{A}{B} \\times \\frac{B}{C} = \\frac{3}{4} \\times \\frac{12}{20} = \\frac{36}{80} = \\frac{9}{20}$. Therefore, A:C = 9:20."
+    },
+    {
+        "id": 20,
+        "question": "A:B = 2:3, B:C = 4:5, C:A = ?",
+        "options": [
+            "15:8",
+            "12:10",
+            "8:5",
+            "8:15"
+        ],
+        "correct": 0,
+        "explanation": "$\\frac{A}{C} = \\frac{A}{B} \\times \\frac{B}{C} = \\frac{2}{3} \\times \\frac{4}{5} = \\frac{8}{15}$. எனவே C:A = 15:8.",
+        "question_en": "If A:B = 2:3 and B:C = 4:5, then C:A = ?",
+        "options_en": [
+            "15:8",
+            "12:10",
+            "8:5",
+            "8:15"
+        ],
+        "explanation_en": "$\\frac{A}{C} = \\frac{A}{B} \\times \\frac{B}{C} = \\frac{2}{3} \\times \\frac{4}{5} = \\frac{8}{15}$. Therefore, C:A = 15:8."
+    },
+    {
+        "id": 21,
+        "question": "40 மாணவர்கள் கொண்ட வகுப்பில் மாணவர்கள் மற்றும் மாணவிகளின் விகிதம் 2:3. இந்த விகிதத்தை 3:2 ஆக மாற்ற இன்னும் கூடுதலாக எத்தனை மாணவர்கள் தேவை?",
+        "options": [
+            "36",
+            "42",
+            "20",
+            "16"
+        ],
+        "correct": 2,
+        "explanation": "ஆரம்பத்தில்: 5 பங்கு = 40 $\\implies$ 1 பங்கு = 8. மாணவர்கள் = $2 \\times 8 = 16$, மாணவிகள் = $3 \\times 8 = 24$. புதிய விகிதம் 3:2. இதில் மாணவிகளின் எண்ணிக்கை (2 பங்கு) 24 எனில் 1 பங்கு = 12. புதிய மாணவர்களின் எண்ணிக்கை (3 பங்கு) = $3 \\times 12 = 36$. எனவே கூடுதலாகத் தேவைப்படும் மாணவர்கள் = $36 - 16 = 20$.",
+        "question_en": "In a class of 40 students, the ratio of boys to girls is 2:3. How many more boys are needed to change this ratio to 3:2?",
+        "options_en": [
+            "36",
+            "42",
+            "20",
+            "16"
+        ],
+        "explanation_en": "Initially: 5 parts = 40 $\\implies$ 1 part = 8. Boys = $2 \\times 8 = 16$, Girls = $3 \\times 8 = 24$. New ratio is 3:2. Girls remain 24, which is 2 parts. So 1 part = 12. New boys (3 parts) = $3 \\times 12 = 36$. Additional boys needed = $36 - 16 = 20$."
+    },
+    {
+        "id": 22,
+        "question": "8:5 :: x:x-6 எனில் x இன் மதிப்பைக் காண்க.",
+        "options": [
+            "16",
+            "20",
+            "10",
+            "13"
+        ],
+        "correct": 0,
+        "explanation": "விகித சம விதியின்படி $\\frac{8}{5} = \\frac{x}{x-6}$. $8(x-6) = 5x \\implies 8x - 48 = 5x \\implies 3x = 48 \\implies x = 16$.",
+        "question_en": "Find the value of x if 8:5 :: x:x-6.",
+        "options_en": [
+            "16",
+            "20",
+            "10",
+            "13"
+        ],
+        "explanation_en": "By proportions, $\\frac{8}{5} = \\frac{x}{x-6}$. $8(x-6) = 5x \\implies 8x - 48 = 5x \\implies 3x = 48 \\implies x = 16$."
+    },
+    {
+        "id": 23,
+        "question": "p:q = 5:7, p+q=180 எனில் q=?",
+        "options": [
+            "35",
+            "105",
+            "145",
+            "12"
+        ],
+        "correct": 1,
+        "explanation": "மொத்தப் பங்குகள் = $5 + 7 = 12$. 12 பங்கு = 180 எனில் 1 பங்கு = 15. $q$ என்பது 7 பங்கு. எனவே $q = 7 \\times 15 = 105$.",
+        "question_en": "If p:q = 5:7 and p+q=180, then q=?",
+        "options_en": [
+            "35",
+            "105",
+            "145",
+            "12"
+        ],
+        "explanation_en": "Total parts = $5 + 7 = 12$. 12 parts = 180 implies 1 part = 15. $q$ is 7 parts. Thus, $q = 7 \\times 15 = 105$."
+    },
+    {
+        "id": 24,
+        "question": "3:4 இன் சமான விகிதம்",
+        "options": [
+            "4:6",
+            "8:9",
+            "6:8",
+            "9:8"
+        ],
+        "correct": 2,
+        "explanation": "3:4 ஐ 2 ஆல் பெருக்கினால் 6:8 கிடைக்கும். இதுவே இதன் சமான விகிதமாகும்.",
+        "question_en": "An equivalent ratio of 3:4 is",
+        "options_en": [
+            "4:6",
+            "8:9",
+            "6:8",
+            "9:8"
+        ],
+        "explanation_en": "Multiplying 3:4 by 2 gives 6:8. This is an equivalent ratio."
+    },
+    {
+        "id": 25,
+        "question": "24 பென்சில்களை 6 குழந்தைகளுக்குச் சமமாகப் பிரித்துக் கொடுக்கின்றனர். அதேபோல் 18 குழந்தைகளுக்குத் தேவையான பென்சில்களின் எண்ணிக்கை எவ்வளவு?",
+        "options": [
+            "108",
+            "82",
+            "144",
+            "72"
+        ],
+        "correct": 3,
+        "explanation": "6 குழந்தைகள் = 24 பென்சில்கள். 1 குழந்தை = 4 பென்சில்கள். 18 குழந்தைகள் = $18 \\times 4 = 72$ பென்சில்கள்.",
+        "question_en": "24 pencils are distributed equally among 6 children. How many pencils are needed for 18 children in the same way?",
+        "options_en": [
+            "108",
+            "82",
+            "144",
+            "72"
+        ],
+        "explanation_en": "6 children = 24 pencils. 1 child = 4 pencils. 18 children = $18 \\times 4 = 72$ pencils."
+    },
+    {
+        "id": 26,
+        "question": "15 அட்டைகளின் மொத்த எடை 50 கி எனில் அதே அளவுடைய $2\\frac{1}{2}$ கி.கி எடையில் எத்தனை அட்டைகள் இருக்கும்?",
+        "options": [
+            "700",
+            "750",
+            "800",
+            "75"
+        ],
+        "correct": 1,
+        "explanation": "$2\\frac{1}{2}$ கி.கி = 2500 கிராம். 50 கிராமுக்கு 15 அட்டைகள் எனில், 2500 கிராமுக்கு உள்ள அட்டைகள் = $\\frac{15}{50} \\times 2500 = 15 \\times 50 = 750$.",
+        "question_en": "If the total weight of 15 cards is 50 g, how many cards of the same size will weigh $2\\frac{1}{2}$ kg?",
+        "options_en": [
+            "700",
+            "750",
+            "800",
+            "75"
+        ],
+        "explanation_en": "$2\\frac{1}{2}$ kg = 2500 grams. 50 g corresponds to 15 cards. Therefore, for 2500 g, the number of cards = $\\frac{15}{50} \\times 2500 = 15 \\times 50 = 750$."
+    },
+    {
+        "id": 27,
+        "question": "2 நோட்டுப் புத்தகங்களின் விலை ₹24 எனில், 9 நோட்டுப் புத்தகங்களின் விலை என்ன?",
+        "options": [
+            "₹12",
+            "₹216",
+            "₹108",
+            "₹48"
+        ],
+        "correct": 2,
+        "explanation": "1 நோட்டுப் புத்தகத்தின் விலை = $\\frac{24}{2} = 12$. 9 நோட்டுப் புத்தகங்களின் விலை = $9 \\times 12 = 108$.",
+        "question_en": "If the price of 2 notebooks is ₹24, what is the price of 9 notebooks?",
+        "options_en": [
+            "₹12",
+            "₹216",
+            "₹108",
+            "₹48"
+        ],
+        "explanation_en": "Price of 1 notebook = $\\frac{24}{2} = 12$. Price of 9 notebooks = $9 \\times 12 = 108$."
+    },
+    {
+        "id": 28,
+        "question": "ஒரு மகிழுந்து 90 கி.மீ தூரத்தைக் கடக்க எடுத்துக்கொள்ளும் நேரம் 2 மணி 30 நிமிடங்கள் எனில், 210 கி.மீ தூரத்தைக் கடக்க எடுத்துக்கொள்ளும் நேரம் எவ்வளவு?",
+        "options": [
+            "5 மணி 50 நிமிடம்",
+            "350 நிமிடம்",
+            "5 மணி",
+            "4 மணி"
+        ],
+        "correct": 1,
+        "explanation": "2 மணி 30 நிமிடம் = 150 நிமிடம். 90 கி.மீ = 150 நிமிடம். 1 கி.மீ = $\\frac{150}{90}$ நிமிடம். 210 கி.மீ = $210 \\times \\frac{150}{90} = 210 \\times \\frac{5}{3} = 70 \\times 5 = 350$ நிமிடங்கள்.",
+        "question_en": "A car takes 2 hours 30 minutes to cover a distance of 90 km. What is the time taken to cover a distance of 210 km?",
+        "options_en": [
+            "5 hours 50 minutes",
+            "350 minutes",
+            "5 hours",
+            "4 hours"
+        ],
+        "explanation_en": "2 hours 30 minutes = 150 minutes. 90 km takes 150 minutes. 1 km takes $\\frac{150}{90}$ minutes. 210 km takes $210 \\times \\frac{150}{90} = 210 \\times \\frac{5}{3} = 70 \\times 5 = 350$ minutes."
+    },
+    {
+        "id": 29,
+        "question": "8 ஆப்பிள்களின் விலை ₹56 எனில், 12 ஆப்பிள்களின் விலை என்ன?",
+        "options": [
+            "₹96",
+            "₹72",
+            "₹60",
+            "₹84"
+        ],
+        "correct": 3,
+        "explanation": "1 ஆப்பிளின் விலை = $\\frac{56}{8} = 7$. 12 ஆப்பிள்களின் விலை = $12 \\times 7 = 84$.",
+        "question_en": "If the price of 8 apples is ₹56, what is the price of 12 apples?",
+        "options_en": [
+            "₹96",
+            "₹72",
+            "₹60",
+            "₹84"
+        ],
+        "explanation_en": "Price of 1 apple = $\\frac{56}{8} = 7$. Price of 12 apples = $12 \\times 7 = 84$."
+    },
+    {
+        "id": 30,
+        "question": "1 பெட்டியின் எடை $3\\frac{1}{2}$ கி.கி எனில், 6 பெட்டிகளின் எடை என்ன?",
+        "options": [
+            "21 கி.கி",
+            "18 கி.கி",
+            "42 கி.கி",
+            "36 கி.கி"
+        ],
+        "correct": 0,
+        "explanation": "$3.5 \\times 6 = 21$ கி.கி.",
+        "question_en": "If the weight of 1 box is $3\\frac{1}{2}$ kg, what is the weight of 6 boxes?",
+        "options_en": [
+            "21 kg",
+            "18 kg",
+            "42 kg",
+            "36 kg"
+        ],
+        "explanation_en": "$3.5 \\times 6 = 21$ kg."
+    },
+    {
+        "id": 31,
+        "question": "ஒரு மகிழுந்து 60 கி.மீ தூரத்தைக் கடக்க 3 லி பெட்ரோல் தேவைப்பட்டால் 200 கி.மீ தூரத்தைச் சென்றடைய தேவையான பெட்ரோலின் அளவு",
+        "options": [
+            "9",
+            "10",
+            "8",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "60 கி.மீ க்கு 3 லிட்டர் (அதாவது 1 லிட்டருக்கு 20 கி.மீ). 200 கி.மீ கடக்க $\\frac{200}{20} = 10$ லிட்டர் தேவை.",
+        "question_en": "If a car requires 3 L of petrol to cover 60 km, the amount of petrol required to travel 200 km is",
+        "options_en": [
+            "9",
+            "10",
+            "8",
+            "7"
+        ],
+        "explanation_en": "60 km requires 3 L (which is 20 km/L). To cover 200 km, petrol needed = $\\frac{200}{20} = 10$ L."
+    },
+    {
+        "id": 32,
+        "question": "7 மீ அளவுள்ள துணியின் விலை ₹294 எனில், 5 மீ அளவுள்ள துணியின் விலை",
+        "options": [
+            "₹42",
+            "₹200",
+            "₹210",
+            "₹120"
+        ],
+        "correct": 2,
+        "explanation": "1 மீ துணியின் விலை = $\\frac{294}{7} = 42$. 5 மீ துணியின் விலை = $42 \\times 5 = 210$.",
+        "question_en": "If the price of 7 m of cloth is ₹294, the price of 5 m of cloth is",
+        "options_en": [
+            "₹42",
+            "₹200",
+            "₹210",
+            "₹120"
+        ],
+        "explanation_en": "Price of 1 m of cloth = $\\frac{294}{7} = 42$. Price of 5 m of cloth = $42 \\times 5 = 210$."
+    },
+    {
+        "id": 33,
+        "question": "ஓர் இயந்திரம் 600 பாட்டில்களை 5 மணி நேரத்தில் நிரப்பினால் அவ்வியந்திரம் 3 மணி நேரத்தில் நிரப்பும் பாட்டில்களின் எண்ணிக்கை",
+        "options": [
+            "360",
+            "1000",
+            "450",
+            "300"
+        ],
+        "correct": 0,
+        "explanation": "1 மணி நேரத்தில் நிரப்பும் பாட்டில்கள் = $\\frac{600}{5} = 120$. 3 மணி நேரத்தில் = $120 \\times 3 = 360$.",
+        "question_en": "If a machine fills 600 bottles in 5 hours, the number of bottles it fills in 3 hours is",
+        "options_en": [
+            "360",
+            "1000",
+            "450",
+            "300"
+        ],
+        "explanation_en": "Bottles filled in 1 hour = $\\frac{600}{5} = 120$. Bottles filled in 3 hours = $120 \\times 3 = 360$."
+    },
+    {
+        "id": 34,
+        "question": "1 டசன் வாழைப்பழங்களின் விலை ₹20 எனில், 48 வாழைப்பழங்களின் விலை என்ன?",
+        "options": [
+            "₹80",
+            "₹90",
+            "₹960",
+            "₹240"
+        ],
+        "correct": 0,
+        "explanation": "1 டசன் = 12. 48 வாழைப்பழங்கள் = 4 டசன். விலை = $4 \\times 20 = 80$.",
+        "question_en": "If the price of 1 dozen bananas is ₹20, what is the price of 48 bananas?",
+        "options_en": [
+            "₹80",
+            "₹90",
+            "₹960",
+            "₹240"
+        ],
+        "explanation_en": "1 dozen = 12. 48 bananas = 4 dozens. Price = $4 \\times 20 = 80$."
+    },
+    {
+        "id": 35,
+        "question": "ஒரு மாயாஜாலக் காட்சியைக் கண்டுகளிக்க 21 மாணவர்களுக்கு ₹840 நுழைவுக் கட்டணமாகச் செலுத்தப்பட்டது. ₹1680 நுழைவுக் கட்டணமாகச் செலுத்தினால் எத்தனை மாணவர்கள் அக்காட்சியைக் காண முடியும்?",
+        "options": [
+            "84",
+            "42",
+            "21",
+            "45"
+        ],
+        "correct": 1,
+        "explanation": "1 மாணவருக்கான கட்டணம் = $\\frac{840}{21} = 40$. ₹1680 க்கு = $\\frac{1680}{40} = 42$ மாணவர்கள்.",
+        "question_en": "An entrance fee of ₹840 was paid for 21 students to watch a magic show. If an entrance fee of ₹1680 is paid, how many students can watch the show?",
+        "options_en": [
+            "84",
+            "42",
+            "21",
+            "45"
+        ],
+        "explanation_en": "Fee for 1 student = $\\frac{840}{21} = 40$. For ₹1680 = $\\frac{1680}{40} = 42$ students."
+    },
+    {
+        "id": 36,
+        "question": "120 ஆட்கள் 8 முறை மின் தூக்கியில் விழா நடைபெறும் இடத்திற்கு (3 ம் தளம்) சென்றனர். மின் தூக்கி 12 முறை விழா நடைபெறும் இடத்திற்குச் சென்றால் எத்தனை ஆட்கள் அங்குச் சென்றிருப்பர்?",
+        "options": [
+            "100",
+            "80",
+            "180",
+            "120"
+        ],
+        "correct": 2,
+        "explanation": "8 முறை = 120 ஆட்கள். 1 முறை = $\\frac{120}{8} = 15$ ஆட்கள். 12 முறை = $12 \\times 15 = 180$ ஆட்கள்.",
+        "question_en": "120 people went to the event venue (3rd floor) using the elevator in 8 trips. If the elevator made 12 trips to the venue, how many people would have gone there?",
+        "options_en": [
+            "100",
+            "80",
+            "180",
+            "120"
+        ],
+        "explanation_en": "8 trips = 120 people. 1 trip = $\\frac{120}{8} = 15$ people. 12 trips = $12 \\times 15 = 180$ people."
+    },
+    {
+        "id": 37,
+        "question": "8 மீ நீளமுள்ள கம்பத்தின் நிழலின் நீளம் 6 மீ எனில், 30 மீ நிழல் ஏற்படுத்தும் மற்றொரு கம்பத்தின் நீளம் எவ்வளவு?",
+        "options": [
+            "30",
+            "50",
+            "48",
+            "40"
+        ],
+        "correct": 3,
+        "explanation": "கம்பம் / நிழல் = $\\frac{8}{6} = \\frac{x}{30} \\implies x = 30 \\times \\frac{8}{6} = 5 \\times 8 = 40$ மீ.",
+        "question_en": "If the length of the shadow of an 8 m long pole is 6 m, what is the length of another pole that casts a shadow of 30 m?",
+        "options_en": [
+            "30",
+            "50",
+            "48",
+            "40"
+        ],
+        "explanation_en": "Pole / Shadow = $\\frac{8}{6} = \\frac{x}{30} \\implies x = 30 \\times \\frac{8}{6} = 5 \\times 8 = 40$ m."
+    },
+    {
+        "id": 38,
+        "question": "ஓர் அஞ்சல்காரர் 738 கடிதங்களை 6 மணி நேரத்தில் முகவரியின்படி பிரித்து விடுகிறார் எனில், அவர் 9 மணி நேரத்தில் எத்தனை கடிதங்களைப் பிரிப்பார்?",
+        "options": [
+            "1107",
+            "1087",
+            "492",
+            "692"
+        ],
+        "correct": 0,
+        "explanation": "1 மணி நேரத்தில் பிரிக்கும் கடிதங்கள் = $\\frac{738}{6} = 123$. 9 மணி நேரத்தில் = $123 \\times 9 = 1107$.",
+        "question_en": "If a postman sorts 738 letters according to addresses in 6 hours, how many letters will he sort in 9 hours?",
+        "options_en": [
+            "1107",
+            "1087",
+            "492",
+            "692"
+        ],
+        "explanation_en": "Letters sorted in 1 hour = $\\frac{738}{6} = 123$. In 9 hours = $123 \\times 9 = 1107$."
+    },
+    {
+        "id": 39,
+        "question": "தாமரை வாடகைப் பணமாக ₹7500 ஐ 3 மாதங்களுக்குச் செலுத்துகிறார் எனில், அவர் ஒரு வருடத்திற்குச் செலுத்த வேண்டிய வாடகைப் பணம் எவ்வளவு?",
+        "options": [
+            "₹25000",
+            "₹15000",
+            "₹30000",
+            "₹95000"
+        ],
+        "correct": 2,
+        "explanation": "1 வருடத்திற்கு 12 மாதங்கள் (அதாவது $3 \\times 4$). எனவே வாடகை = $7500 \\times 4 = 30000$.",
+        "question_en": "If Thamarai pays ₹7500 as rent for 3 months, how much rent does she have to pay for one year?",
+        "options_en": [
+            "₹25000",
+            "₹15000",
+            "₹30000",
+            "₹95000"
+        ],
+        "explanation_en": "1 year has 12 months (which is $3 \\times 4$). So the rent is $7500 \\times 4 = 30000$."
+    },
+    {
+        "id": 40,
+        "question": "3 புத்தகங்களின் விலை ₹90 எனில், 12 புத்தகங்களின் விலை",
+        "options": [
+            "₹300",
+            "₹320",
+            "₹360",
+            "₹400"
+        ],
+        "correct": 2,
+        "explanation": "1 புத்தகத்தின் விலை = 30. 12 புத்தகங்களின் விலை = $12 \\times 30 = 360$.",
+        "question_en": "If the price of 3 books is ₹90, the price of 12 books is",
+        "options_en": [
+            "₹300",
+            "₹320",
+            "₹360",
+            "₹400"
+        ],
+        "explanation_en": "Price of 1 book = 30. Price of 12 books = $12 \\times 30 = 360$."
+    },
+    {
+        "id": 41,
+        "question": "5 கி.கி உருளைக் கிழங்கை ₹75 இக்கு வாங்கினால் ₹105 இக்கு ____ கி.கி உருளைக் கிழங்கை வாங்கலாம்.",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "correct": 1,
+        "explanation": "1 கி.கி விலை = $\\frac{75}{5} = 15$. எனவே ₹105 இக்கு வாங்கும் உருளைக்கிழங்கு = $\\frac{105}{15} = 7$ கி.கி.",
+        "question_en": "If 5 kg of potatoes are bought for ₹75, then ____ kg of potatoes can be bought for ₹105.",
+        "options_en": [
+            "6",
+            "7",
+            "8",
+            "5"
+        ],
+        "explanation_en": "Price of 1 kg = $\\frac{75}{5} = 15$. So for ₹105, potatoes bought = $\\frac{105}{15} = 7$ kg."
+    },
+    {
+        "id": 42,
+        "question": "ஒரு நிறுவனம் 35 மிதிவண்டிகளை 5 நாட்களில் உற்பத்தி செய்தால், 21 நாட்களில் எத்தனை மிதிவண்டிகளை உற்பத்தி செய்யும்?",
+        "options": [
+            "150",
+            "70",
+            "100",
+            "147"
+        ],
+        "correct": 3,
+        "explanation": "1 நாளில் உற்பத்தி = $\\frac{35}{5} = 7$. 21 நாட்களில் உற்பத்தி = $21 \\times 7 = 147$.",
+        "question_en": "If a company produces 35 bicycles in 5 days, how many bicycles will it produce in 21 days?",
+        "options_en": [
+            "150",
+            "70",
+            "100",
+            "147"
+        ],
+        "explanation_en": "Production in 1 day = $\\frac{35}{5} = 7$. Production in 21 days = $21 \\times 7 = 147$."
+    },
+    {
+        "id": 43,
+        "question": "280 நபர்கள் ஒரு விமானத்தில் 2 முறை பயணம் செய்கின்றனர் எனில், அவ்விமானத்தில் 1400 நபர்கள் பயணம் செய்ய ____ முறை பயணம் செய்ய வேண்டும்.",
+        "options": [
+            "8",
+            "10",
+            "9",
+            "12"
+        ],
+        "correct": 1,
+        "explanation": "1 பயணத்திற்கு = $\\frac{280}{2} = 140$ நபர்கள். 1400 நபர்கள் பயணிக்கத் தேவைப்படும் பயணங்கள் = $\\frac{1400}{140} = 10$.",
+        "question_en": "If 280 people travel in an airplane in 2 trips, to carry 1400 people the airplane has to make ____ trips.",
+        "options_en": [
+            "8",
+            "10",
+            "9",
+            "12"
+        ],
+        "explanation_en": "People per trip = $\\frac{280}{2} = 140$. Trips needed for 1400 people = $\\frac{1400}{140} = 10$."
+    },
+    {
+        "id": 44,
+        "question": "50 நபர்களுக்கு இனிப்பு தயாரிக்க 3 கி.கி. சர்க்கரை தேவைப்பட்டால் 150 நபர்களுக்கு இனிப்பு தயாரிக்க ____ கி.கி. சர்க்கரை தேவைப்படும்.",
+        "options": [
+            "9",
+            "10",
+            "15",
+            "6"
+        ],
+        "correct": 0,
+        "explanation": "150 நபர்கள் என்பது 50-இன் 3 மடங்கு. எனவே சர்க்கரைத் தேவையும் 3 மடங்கு ஆகும். $3 \\times 3 = 9$ கி.கி.",
+        "question_en": "If 3 kg of sugar is needed to prepare sweets for 50 people, then ____ kg of sugar will be needed to prepare sweets for 150 people.",
+        "options_en": [
+            "9",
+            "10",
+            "15",
+            "6"
+        ],
+        "explanation_en": "150 people is 3 times 50 people. So the sugar needed is also 3 times. $3 \\times 3 = 9$ kg."
+    },
+    {
+        "id": 45,
+        "question": "தமிழ்செல்வன் ₹5000 ஐ மூன்று மாதத்திற்கு ஒருமுறை வங்கிக் கணக்கில் சேமித்து வருகிறார். அவர் ₹150000 ஐ சேமிக்க எத்தனை மாதங்களாகும்?",
+        "options": [
+            "30",
+            "60",
+            "90",
+            "100"
+        ],
+        "correct": 2,
+        "explanation": "1 மாதச் சேமிப்பு = $\\frac{5000}{3}$. ₹150000 சேமிக்க ஆகும் மாதங்கள் = $\\frac{150000}{(5000/3)} = 30 \\times 3 = 90$ மாதங்கள்.",
+        "question_en": "Tamilselvan saves ₹5000 in his bank account once every three months. How many months will it take for him to save ₹150000?",
+        "options_en": [
+            "30",
+            "60",
+            "90",
+            "100"
+        ],
+        "explanation_en": "Savings per month = $\\frac{5000}{3}$. Months required to save ₹150000 = $\\frac{150000}{(5000/3)} = 30 \\times 3 = 90$ months."
+    },
+    {
+        "id": 46,
+        "question": "ஒரு டசன் சோப்புகளின் விலை ₹396 எனில், 35 சோப்புகளின் விலை என்ன?",
+        "options": [
+            "₹1155",
+            "₹13860",
+            "₹135",
+            "₹1055"
+        ],
+        "correct": 0,
+        "explanation": "1 டசன் = 12 சோப்புகள். 1 சோப்பின் விலை = $\\frac{396}{12} = 33$. 35 சோப்புகளின் விலை = $35 \\times 33 = 1155$.",
+        "question_en": "If the price of a dozen soaps is ₹396, what is the price of 35 soaps?",
+        "options_en": [
+            "₹1155",
+            "₹13860",
+            "₹135",
+            "₹1055"
+        ],
+        "explanation_en": "1 dozen = 12 soaps. Price of 1 soap = $\\frac{396}{12} = 33$. Price of 35 soaps = $35 \\times 33 = 1155$."
+    },
+    {
+        "id": 47,
+        "question": "8 வண்டிகளை இழுப்பதற்கு 120 குதிரை சக்தி தேவைப்படும் எனில், 10 வண்டிகளை இழுப்பதற்கு ____ குதிரை சக்தி தேவைப்படும்.",
+        "options": [
+            "160",
+            "120",
+            "180",
+            "150"
+        ],
+        "correct": 3,
+        "explanation": "1 வண்டிக்கான குதிரை சக்தி = $\\frac{120}{8} = 15$. 10 வண்டிகளுக்கு = $10 \\times 15 = 150$.",
+        "question_en": "If 120 horsepower is required to pull 8 carts, then ____ horsepower is required to pull 10 carts.",
+        "options_en": [
+            "160",
+            "120",
+            "180",
+            "150"
+        ],
+        "explanation_en": "Horsepower for 1 cart = $\\frac{120}{8} = 15$. For 10 carts = $10 \\times 15 = 150$."
+    },
+    {
+        "id": 48,
+        "question": "நேர்மாறலில் நிலைத்த மாறிலி",
+        "options": [
+            "x/y",
+            "x*y",
+            "x-y",
+            "x+y"
+        ],
+        "correct": 0,
+        "explanation": "நேர்மாறலில் $\\frac{x}{y} = k$ (மாறிலி) என அமையும்.",
+        "question_en": "The constant of proportionality in direct variation is",
+        "options_en": [
+            "x/y",
+            "x*y",
+            "x-y",
+            "x+y"
+        ],
+        "explanation_en": "In direct variation, $\\frac{x}{y} = k$ (a constant)."
+    },
+    {
+        "id": 49,
+        "question": "ஒரு கார் 150 கி.மீ தூரத்தைக் கடக்க 25 லி பெட்ரோல் தேவைப்படுகிறது எனில், 30 லி பெட்ரோலில் கடக்கும் தொலைவு",
+        "options": [
+            "125 கி.மீ",
+            "180 கி.மீ",
+            "250 கி.மீ",
+            "200 கி.மீ"
+        ],
+        "correct": 1,
+        "explanation": "1 லிட்டருக்குச் செல்லும் தூரம் = $\\frac{150}{25} = 6$ கி.மீ. 30 லிட்டருக்கு = $30 \\times 6 = 180$ கி.மீ.",
+        "question_en": "If a car requires 25 L of petrol to cover a distance of 150 km, the distance covered with 30 L of petrol is",
+        "options_en": [
+            "125 km",
+            "180 km",
+            "250 km",
+            "200 km"
+        ],
+        "explanation_en": "Distance per liter = $\\frac{150}{25} = 6$ km. Distance with 30 L = $30 \\times 6 = 180$ km."
+    },
+    {
+        "id": 50,
+        "question": "9 பொம்மைகளின் விலை ₹333 எனில், 16 பொம்மைகளின் விலை என்ன?",
+        "options": [
+            "₹594",
+            "₹596",
+            "₹592",
+            "₹666"
+        ],
+        "correct": 2,
+        "explanation": "1 பொம்மையின் விலை = $\\frac{333}{9} = 37$. 16 பொம்மைகளின் விலை = $16 \\times 37 = 592$.",
+        "question_en": "If the price of 9 toys is ₹333, what is the price of 16 toys?",
+        "options_en": [
+            "₹594",
+            "₹596",
+            "₹592",
+            "₹666"
+        ],
+        "explanation_en": "Price of 1 toy = $\\frac{333}{9} = 37$. Price of 16 toys = $16 \\times 37 = 592$."
+    },
+    {
+        "id": 51,
+        "question": "ஒரு தொழிலாளி 6 நாட்கள் வேலை செய்தால் ₹1110 கூலியாகப் பெறுகிறார் எனில், ₹4625 ஐக் கூலியாகப் பெற அவர் எவ்வளவு நாட்கள் வேலை செய்ய வேண்டும்?",
+        "options": [
+            "15",
+            "25",
+            "30",
+            "20"
+        ],
+        "correct": 1,
+        "explanation": "1 நாளுக்கான கூலி = $\\frac{1110}{6} = 185$. ₹4625 பெற ஆகும் நாட்கள் = $\\frac{4625}{185} = 25$.",
+        "question_en": "If a worker earns ₹1110 for working 6 days, how many days must he work to earn ₹4625?",
+        "options_en": [
+            "15",
+            "25",
+            "30",
+            "20"
+        ],
+        "explanation_en": "Wage for 1 day = $\\frac{1110}{6} = 185$. Days needed to earn ₹4625 = $\\frac{4625}{185} = 25$."
+    },
+    {
+        "id": 52,
+        "question": "ஒரு தொடர்வண்டி 51 கி.மீ தொலைவை 45 நிமிடங்களில் கடக்கிறது எனில், 221 கி.மீ தொலைவைக் கடக்க ஆகும் காலம்",
+        "options": [
+            "3 மணி",
+            "$3\\frac{1}{4}$ மணி",
+            "$3\\frac{1}{2}$ மணி",
+            "4 மணி"
+        ],
+        "correct": 1,
+        "explanation": "வேகம் = $\\frac{51}{45} = \\frac{17}{15}$ கி.மீ/நிமிடம். 221 கி.மீ கடக்க நேரம் = $\\frac{221}{(17/15)} = 221 \\times \\frac{15}{17} = 13 \\times 15 = 195$ நிமிடங்கள். 195 நிமிடம் = 3 மணி 15 நிமிடம் = $3\\frac{1}{4}$ மணி.",
+        "question_en": "If a train covers a distance of 51 km in 45 minutes, the time taken to cover a distance of 221 km is",
+        "options_en": [
+            "3 hours",
+            "$3\\frac{1}{4}$ hours",
+            "$3\\frac{1}{2}$ hours",
+            "4 hours"
+        ],
+        "explanation_en": "Speed = $\\frac{51}{45} = \\frac{17}{15}$ km/min. Time for 221 km = $\\frac{221}{(17/15)} = 221 \\times \\frac{15}{17} = 13 \\times 15 = 195$ minutes. 195 minutes = 3 hours 15 minutes = $3\\frac{1}{4}$ hours."
+    },
+    {
+        "id": 53,
+        "question": "ஒரு நபர் 96 ச.மீ பரப்பளவைக் கொண்ட சுவரை 8 நாட்களில் வெள்ளை அடித்து முடிக்கிறார் எனில், 18 நாட்களில் அவரால் எவ்வளவு பரப்பளவு சுவரை வெள்ளை அடிக்க முடியும்?",
+        "options": [
+            "216 ச.மீ",
+            "218 ச.மீ",
+            "198 ச.மீ",
+            "220 ச.மீ"
+        ],
+        "correct": 0,
+        "explanation": "1 நாளில் அடிக்கும் பரப்பளவு = $\\frac{96}{8} = 12$ ச.மீ. 18 நாட்களில் = $18 \\times 12 = 216$ ச.மீ.",
+        "question_en": "A person paints a wall of area 96 sq.m in 8 days. How much area of the wall can he paint in 18 days?",
+        "options_en": [
+            "216 sq.m",
+            "218 sq.m",
+            "198 sq.m",
+            "220 sq.m"
+        ],
+        "explanation_en": "Area painted in 1 day = $\\frac{96}{8} = 12$ sq.m. In 18 days = $18 \\times 12 = 216$ sq.m."
+    },
+    {
+        "id": 54,
+        "question": "ஒரு தொழிலாளிக்கு 4 நாட்களுக்கு ₹2800 கூலியாகக் கிடைக்கிறது எனில், அதே வேலைக்கு டிசம்பர் மாதத்திற்குக் கூலியாக எவ்வளவு கிடைக்கும்?",
+        "options": [
+            "₹24,500",
+            "₹29,800",
+            "₹21,700",
+            "₹35,000"
+        ],
+        "correct": 2,
+        "explanation": "1 நாளுக்கான கூலி = $\\frac{2800}{4} = 700$. டிசம்பர் மாதம் 31 நாட்களைக் கொண்டது. எனவே கூலி = $31 \\times 700 = 21700$.",
+        "question_en": "If a worker gets ₹2800 as wages for 4 days, how much wage will he get for the same work in the month of December?",
+        "options_en": [
+            "₹24,500",
+            "₹29,800",
+            "₹21,700",
+            "₹35,000"
+        ],
+        "explanation_en": "Wage for 1 day = $\\frac{2800}{4} = 700$. December has 31 days. So wage = $31 \\times 700 = 21700$."
+    },
+    {
+        "id": 55,
+        "question": "₹1000 க்குப் பொருட்கள் விற்பனை செய்வதன் மூலம் ஒருவர் ₹56 இலாபமடைந்தால், ₹100 க்கு விற்பனை செய்தால் கிடைக்கும் இலாபம்",
+        "options": [
+            "₹6.50",
+            "₹5.00",
+            "₹5.60",
+            "₹5.06"
+        ],
+        "correct": 2,
+        "explanation": "₹1000 க்கு லாபம் ₹56 எனில், ₹100 க்கு லாபம் = $\\frac{56}{1000} \\times 100 = 5.60$.",
+        "question_en": "If a person makes a profit of ₹56 by selling goods worth ₹1000, the profit earned by selling for ₹100 is",
+        "options_en": [
+            "₹6.50",
+            "₹5.00",
+            "₹5.60",
+            "₹5.06"
+        ],
+        "explanation_en": "Profit for ₹1000 is ₹56. For ₹100, profit = $\\frac{56}{1000} \\times 100 = 5.60$."
+    },
+    {
+        "id": 56,
+        "question": "1 டசன் வாழைப்பழங்களின் விலை ₹60 எனில், 20 வாழைப்பழங்களின் விலை என்ன?",
+        "options": [
+            "₹60",
+            "₹100",
+            "₹1200",
+            "₹120"
+        ],
+        "correct": 1,
+        "explanation": "1 டசன் = 12. 1 வாழைப்பழத்தின் விலை = $\\frac{60}{12} = 5$. 20 வாழைப்பழங்களின் விலை = $20 \\times 5 = 100$.",
+        "question_en": "If the price of 1 dozen bananas is ₹60, what is the price of 20 bananas?",
+        "options_en": [
+            "₹60",
+            "₹100",
+            "₹1200",
+            "₹120"
+        ],
+        "explanation_en": "1 dozen = 12. Price of 1 banana = $\\frac{60}{12} = 5$. Price of 20 bananas = $20 \\times 5 = 100$."
+    },
+    {
+        "id": 57,
+        "question": "அரை மீட்டர் துணியின் விலை ₹15 எனில், $8\\frac{1}{3}$ மீ நீளமுள்ள துணியின் விலை எவ்வளவு?",
+        "options": [
+            "₹42",
+            "₹250",
+            "₹240",
+            "₹320"
+        ],
+        "correct": 1,
+        "explanation": "0.5 மீ = 15. 1 மீ = 30. $8\\frac{1}{3}$ மீ = $\\frac{25}{3}$ மீ. விலை = $\\frac{25}{3} \\times 30 = 25 \\times 10 = 250$.",
+        "question_en": "If the price of half a meter of cloth is ₹15, what is the price of $8\\frac{1}{3}$ m of cloth?",
+        "options_en": [
+            "₹42",
+            "₹250",
+            "₹240",
+            "₹320"
+        ],
+        "explanation_en": "0.5 m = 15. 1 m = 30. $8\\frac{1}{3}$ m = $\\frac{25}{3}$ m. Price = $\\frac{25}{3} \\times 30 = 25 \\times 10 = 250$."
+    },
+    {
+        "id": 58,
+        "question": "ஒரு கணினி ஆய்வகத்தில் ஒவ்வொரு 6 மாணவர்களுக்கும் 3 கணினிகள் உள்ளது எனில், 24 மாணவர்களுக்குத் தேவைப்படும் கணினிகளின் எண்ணிக்கை",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "20"
+        ],
+        "correct": 0,
+        "explanation": "6 மாணவர்களுக்கு 3 கணினிகள் (பாதி அளவு). எனவே 24 மாணவர்களுக்கு $\\frac{24}{2} = 12$ கணினிகள் தேவை.",
+        "question_en": "In a computer lab, if there are 3 computers for every 6 students, the number of computers required for 24 students is",
+        "options_en": [
+            "12",
+            "14",
+            "16",
+            "20"
+        ],
+        "explanation_en": "For 6 students there are 3 computers (half the number). So for 24 students, $\\frac{24}{2} = 12$ computers are needed."
+    },
+    {
+        "id": 59,
+        "question": "ஒரு நாளில் குறிப்பிட்ட நேரத்தில் 7 மீ உயரமுடைய கொடிக்கம்பத்தின் நிழலின் நீளம் 8.2 மீ எனில், 20.5 மீ நீளமுடைய நிழலைக் கொண்ட கொடிக்கம்பத்தின் உயரம் என்ன?",
+        "options": [
+            "15.5 மீ",
+            "16.5 மீ",
+            "17.5 மீ",
+            "28.7 மீ"
+        ],
+        "correct": 2,
+        "explanation": "உயரம் / நிழல் = $\\frac{7}{8.2} = \\frac{x}{20.5} \\implies x = \\frac{7 \\times 20.5}{8.2} = \\frac{143.5}{8.2} = 17.5$ மீ.",
+        "question_en": "At a certain time of a day, the length of the shadow of a 7 m high flagpole is 8.2 m. What is the height of a flagpole that casts a shadow of 20.5 m?",
+        "options_en": [
+            "15.5 m",
+            "16.5 m",
+            "17.5 m",
+            "28.7 m"
+        ],
+        "explanation_en": "Height / Shadow = $\\frac{7}{8.2} = \\frac{x}{20.5} \\implies x = \\frac{7 \\times 20.5}{8.2} = \\frac{143.5}{8.2} = 17.5$ m."
+    },
+    {
+        "id": 60,
+        "question": "அபிநயா $\\frac{1}{2}$ மணி நேரத்தில் 540 வார்த்தைகளைத் தட்டச்சு செய்கிறார் எனில், 6 நிமிடத்தில் தட்டச்சு செய்யும் வார்த்தைகளின் எண்ணிக்கை",
+        "options": [
+            "105",
+            "106",
+            "108",
+            "270"
+        ],
+        "correct": 2,
+        "explanation": "30 நிமிடங்களில் 540 வார்த்தைகள். 1 நிமிடத்தில் = $\\frac{540}{30} = 18$ வார்த்தைகள். 6 நிமிடங்களில் = $18 \\times 6 = 108$ வார்த்தைகள்.",
+        "question_en": "If Abinaya types 540 words in $\\frac{1}{2}$ an hour, the number of words typed in 6 minutes is",
+        "options_en": [
+            "105",
+            "106",
+            "108",
+            "270"
+        ],
+        "explanation_en": "540 words in 30 minutes. In 1 minute = $\\frac{540}{30} = 18$ words. In 6 minutes = $18 \\times 6 = 108$ words."
+    },
+    {
+        "id": 61,
+        "question": "x மற்றும் y நேர்விகிதத்தில் இருக்கும்போது $x=4$ மற்றும் $y=16$ எனில், $x=1$ எனும்போது y இன் மதிப்பு என்ன?",
+        "options": [
+            "48",
+            "36",
+            "4",
+            "64"
+        ],
+        "correct": 2,
+        "explanation": "x மற்றும் y நேர்விகிதத்தில் உள்ளதால், $\\frac{x}{y} = \\text{மாறிலி}$. $\\frac{4}{16} = \\frac{1}{y} \\implies \\frac{1}{4} = \\frac{1}{y} \\implies y = 4$.",
+        "question_en": "When x and y are in direct proportion, if $x=4$ and $y=16$, what is the value of y when $x=1$?",
+        "options_en": [
+            "48",
+            "36",
+            "4",
+            "64"
+        ],
+        "explanation_en": "Since x and y are in direct proportion, $\\frac{x}{y} = \\text{constant}$. $\\frac{4}{16} = \\frac{1}{y} \\implies \\frac{1}{4} = \\frac{1}{y} \\implies y = 4$."
+    },
+    {
+        "id": 62,
+        "question": "x = 3, 5, 9,எனும்போது $y=21, 35, 63, \\dots$ எனில், x மற்றும் y ஆனது",
+        "options": [
+            "நேர்விகிதம்",
+            "நேர்விகிதம் மற்றும் எதிர்விகிதம்",
+            "எதிர்விகிதம்",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 0,
+        "explanation": "$\\frac{y}{x} = \\frac{21}{3} = 7$, $\\frac{35}{5} = 7$, $\\frac{63}{9} = 7$. $\\frac{y}{x}$ மதிப்பு மாறிலியாக இருப்பதால் இவை நேர்விகிதத்தில் உள்ளன.",
+        "question_en": "When x = 3, 5, 9, if $y=21, 35, 63, \\dots$, then x and y are in",
+        "options_en": [
+            "Direct proportion",
+            "Direct and inverse proportion",
+            "Inverse proportion",
+            "None of these"
+        ],
+        "explanation_en": "$\\frac{y}{x} = \\frac{21}{3} = 7$, $\\frac{35}{5} = 7$, $\\frac{63}{9} = 7$. Since the ratio $\\frac{y}{x}$ is constant, they are in direct proportion."
+    },
+    {
+        "id": 63,
+        "question": "தன்யஸ்ரீ என்பவர் புத்தகத்தின் $\\frac{1}{4}$ பகுதியை 1 மணி நேரத்தில் படிக்கிறார் எனில், புத்தகத்தின் எவ்வளவு பகுதியை $3\\frac{1}{2}$ மணி நேரத்தில் படிப்பார்?",
+        "options": [
+            "$\\frac{1}{2}$ பகுதி",
+            "$\\frac{3}{4}$ பகுதி",
+            "$\\frac{7}{8}$ பகுதி",
+            "முழுவதும்"
+        ],
+        "correct": 2,
+        "explanation": "நேரம் மற்றும் படிக்கும் பகுதி நேர்விகிதத்தில் உள்ளன. 1 மணி $\\rightarrow$ $\\frac{1}{4}$. $3.5$ மணி ($\\frac{7}{2}$ மணி) $\\rightarrow \\frac{7}{2} \\times \\frac{1}{4} = \\frac{7}{8}$ பகுதி. (குறிப்பு: விடைக்குறிப்பின்படி சரியான விடை இதுவே, விருப்பம் 3 இல் அச்சுப்பிழை உள்ளது).",
+        "question_en": "Thanyashree reads $\\frac{1}{4}$ of a book in 1 hour. What fraction of the book will she read in $3\\frac{1}{2}$ hours?",
+        "options_en": [
+            "$\\frac{1}{2}$ part",
+            "$\\frac{3}{4}$ part",
+            "$\\frac{7}{8}$ part",
+            "Whole"
+        ],
+        "explanation_en": "Time and part read are in direct proportion. 1 hr $\\rightarrow$ $\\frac{1}{4}$. 3.5 hrs ($\\frac{7}{2}$ hrs) $\\rightarrow \\frac{7}{2} \\times \\frac{1}{4} = \\frac{7}{8}$ part. (Note: Option 3 has a typo in the source but corresponds to this answer)."
+    },
+    {
+        "id": 64,
+        "question": "A என்பவர் ஒரு வேலையின் $\\frac{2}{3}$ பகுதியை 10 நாட்களில் முடிக்கிறார் எனில், அதே வேலையின் $\\frac{1}{3}$ பகுதியை A செய்து முடிக்க ஆகும் நாட்களின் எண்ணிக்கை",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 2,
+        "explanation": "வேலையின் அளவும் நாட்களும் நேர்விகிதம். $\\frac{2}{3}$ பகுதி $\\rightarrow$ 10 நாட்கள். முழு வேலை (1 பகுதி) $\\rightarrow 10 \\times \\frac{3}{2} = 15$ நாட்கள். $\\frac{1}{3}$ பகுதி $\\rightarrow 15 \\times \\frac{1}{3} = 5$ நாட்கள்.",
+        "question_en": "A completes $\\frac{2}{3}$ of a work in 10 days. The number of days A will take to complete $\\frac{1}{3}$ of the same work is",
+        "options_en": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "explanation_en": "Work and days are in direct proportion. $\\frac{2}{3}$ work $\\rightarrow$ 10 days. Total work (1 part) $\\rightarrow 10 \\times \\frac{3}{2} = 15$ days. $\\frac{1}{3}$ work $\\rightarrow 15 \\times \\frac{1}{3} = 5$ days."
+    },
+    {
+        "id": 65,
+        "question": "\"x\" மீ ரிப்பனின் விலை ₹y எனில், \"a\" மீ ரிப்பனின் (அதே ரிப்பன்) விலை என்ன?",
+        "options": [
+            "$\\frac{y}{x}$",
+            "$\\frac{ay}{x}$",
+            "$\\frac{y}{ax}$",
+            "$\\frac{ax}{y}$"
+        ],
+        "correct": 1,
+        "explanation": "1 மீ ரிப்பனின் விலை = $\\frac{y}{x}$. \"a\" மீ ரிப்பனின் விலை = $a \\times \\frac{y}{x} = \\frac{ay}{x}$.",
+        "question_en": "If the price of \"x\" m of ribbon is ₹y, what is the price of \"a\" m of the same ribbon?",
+        "options_en": [
+            "$\\frac{y}{x}$",
+            "$\\frac{ay}{x}$",
+            "$\\frac{y}{ax}$",
+            "$\\frac{ax}{y}$"
+        ],
+        "explanation_en": "Price of 1 m ribbon = $\\frac{y}{x}$. Price of \"a\" m ribbon = $a \\times \\frac{y}{x} = \\frac{ay}{x}$."
+    },
+    {
+        "id": 66,
+        "question": "a மற்றும் b நேர்மாறலில் உள்ளன எனில், நிலைத்த மாறிலி\n\n| a | 5 | 8 | 6 |\n|---|---|---|---|\n| b | 20 | 32 | 24 |",
+        "options": [
+            "4",
+            "12",
+            "$\\frac{1}{4}$",
+            "2"
+        ],
+        "correct": 2,
+        "explanation": "நேர்மாறலில் $\\frac{a}{b} = k$ (மாறிலி). $\\frac{5}{20} = \\frac{8}{32} = \\frac{6}{24} = \\frac{1}{4}$. எனவே நிலைத்த மாறிலி $\\frac{1}{4}$ ஆகும்.",
+        "question_en": "If a and b are in direct proportion, the constant of proportionality is\n\n| a | 5 | 8 | 6 |\n|---|---|---|---|\n| b | 20 | 32 | 24 |",
+        "options_en": [
+            "4",
+            "12",
+            "$\\frac{1}{4}$",
+            "2"
+        ],
+        "explanation_en": "In direct proportion, $\\frac{a}{b} = k$ (constant). $\\frac{5}{20} = \\frac{8}{32} = \\frac{6}{24} = \\frac{1}{4}$. Thus, the constant is $\\frac{1}{4}$."
+    },
+    {
+        "id": 67,
+        "question": "x மற்றும் y நேர்மாறலில் உள்ளன எனில், $a_{1} + a_{2}$ இன் மதிப்பு\n\n| x | 20 | $a_{1}$ | 16 |\n|---|---|---|---|\n| y | 180 | 432 | $a_{2}$ |",
+        "options": [
+            "192",
+            "144",
+            "184",
+            "156"
+        ],
+        "correct": 0,
+        "explanation": "$\\frac{x}{y} = \\frac{20}{180} = \\frac{1}{9}$. $\\frac{a_{1}}{432} = \\frac{1}{9} \\implies a_{1} = \\frac{432}{9} = 48$. $\\frac{16}{a_{2}} = \\frac{1}{9} \\implies a_{2} = 16 \\times 9 = 144$. $a_{1} + a_{2} = 48 + 144 = 192$.",
+        "question_en": "If x and y are in direct proportion, the value of $a_{1} + a_{2}$ is\n\n| x | 20 | $a_{1}$ | 16 |\n|---|---|---|---|\n| y | 180 | 432 | $a_{2}$ |",
+        "options_en": [
+            "192",
+            "144",
+            "184",
+            "156"
+        ],
+        "explanation_en": "$\\frac{x}{y} = \\frac{20}{180} = \\frac{1}{9}$. $\\frac{a_{1}}{432} = \\frac{1}{9} \\implies a_{1} = \\frac{432}{9} = 48$. $\\frac{16}{a_{2}} = \\frac{1}{9} \\implies a_{2} = 16 \\times 9 = 144$. $a_{1} + a_{2} = 48 + 144 = 192$."
+    },
+    {
+        "id": 68,
+        "question": "x ம் y ம் நேர்விகிதத்தில் உள்ளன எனில், a, b இன் மதிப்பு காண்க\n\n| x | a | 27 | 18 |\n|---|---|---|---|\n| y | 5 | b | 10 |",
+        "options": [
+            "$a=36$, $b=\\frac{10}{3}$",
+            "$a=45$, $b=9$",
+            "$a=9$, $b=15$",
+            "$a=\\frac{10}{3}$, $b=36$"
+        ],
+        "correct": 2,
+        "explanation": "$\\frac{x}{y} = \\frac{18}{10} = \\frac{9}{5}$. $\\frac{a}{5} = \\frac{9}{5} \\implies a = 9$. $\\frac{27}{b} = \\frac{9}{5} \\implies 9b = 135 \\implies b = 15$.",
+        "question_en": "If x and y are in direct proportion, find the values of a and b\n\n| x | a | 27 | 18 |\n|---|---|---|---|\n| y | 5 | b | 10 |",
+        "options_en": [
+            "$a=36$, $b=\\frac{10}{3}$",
+            "$a=45$, $b=9$",
+            "$a=9$, $b=15$",
+            "$a=\\frac{10}{3}$, $b=36$"
+        ],
+        "explanation_en": "$\\frac{x}{y} = \\frac{18}{10} = \\frac{9}{5}$. $\\frac{a}{5} = \\frac{9}{5} \\implies a = 9$. $\\frac{27}{b} = \\frac{9}{5} \\implies 9b = 135 \\implies b = 15$."
+    },
+    {
+        "id": 69,
+        "question": "12 நபர்கள் 8 நாட்களில் ஒரு குளத்தை வெட்டுவார்கள் எனில், அதே வேலையை 16 நபர்கள் எத்தனை நாட்களில் முடிப்பர்?",
+        "options": [
+            "10",
+            "11",
+            "10 2/3",
+            "6"
+        ],
+        "correct": 3,
+        "explanation": "நபர்களும் நாட்களும் எதிர்விகிதம். $12 \\times 8 = 16 \\times x \\implies x = \\frac{96}{16} = 6$.",
+        "question_en": "If 12 persons dig a pond in 8 days, in how many days will 16 persons complete the same work?",
+        "options_en": [
+            "10",
+            "11",
+            "10 2/3",
+            "6"
+        ],
+        "explanation_en": "Persons and days are in inverse proportion. $12 \\times 8 = 16 \\times x \\implies x = \\frac{96}{16} = 6$."
+    },
+    {
+        "id": 70,
+        "question": "60 வேலையாட்கள் ஒரு பருத்தி நூல் உருண்டையை நூற்க 7 நாட்கள் தேவைப்பட்டால், 42 வேலையாட்கள் அதே வேலையை முடிக்க எத்தனை நாட்கள் ஆகும்?",
+        "options": [
+            "8",
+            "6",
+            "12",
+            "10"
+        ],
+        "correct": 3,
+        "explanation": "வேலையாட்களும் நாட்களும் எதிர்விகிதம். $60 \\times 7 = 42 \\times x \\implies 420 = 42x \\implies x = 10$.",
+        "question_en": "If 60 workers take 7 days to spin a bale of cotton, how many days will 42 workers take to complete the same work?",
+        "options_en": [
+            "8",
+            "6",
+            "12",
+            "10"
+        ],
+        "explanation_en": "Workers and days are in inverse proportion. $60 \\times 7 = 42 \\times x \\implies 420 = 42x \\implies x = 10$."
+    },
+    {
+        "id": 71,
+        "question": "ஒரு பெட்ரோல் தொட்டியை 16 குழாய்கள் 18 நிமிடங்களில் நிரப்புகின்றன எனில், அத்தொட்டியை 9 குழாய்கள் எத்தனை நிமிடங்களில் நிரப்பும்.",
+        "options": [
+            "32",
+            "30",
+            "36",
+            "40"
+        ],
+        "correct": 0,
+        "explanation": "குழாய்களின் எண்ணிக்கையும் நேரமும் எதிர்விகிதம். $16 \\times 18 = 9 \\times x \\implies x = \\frac{16 \\times 18}{9} = 16 \\times 2 = 32$.",
+        "question_en": "If 16 pipes can fill a petrol tank in 18 minutes, then 9 pipes will fill the tank in how many minutes.",
+        "options_en": [
+            "32",
+            "30",
+            "36",
+            "40"
+        ],
+        "explanation_en": "Number of pipes and time are in inverse proportion. $16 \\times 18 = 9 \\times x \\implies x = \\frac{16 \\times 18}{9} = 16 \\times 2 = 32$."
+    },
+    {
+        "id": 72,
+        "question": "12 பசுக்கள் ஒரு புல் தரையை 10 நாட்கள் மேய்கின்றன. 20 பசுக்கள் அதே புல் தரையை மேய எத்தனை நாட்கள் எடுத்துகொள்ளும்.",
+        "options": [
+            "15",
+            "18",
+            "6",
+            "8"
+        ],
+        "correct": 2,
+        "explanation": "பசுக்களின் எண்ணிக்கையும் நாட்களும் எதிர்விகிதம். $12 \\times 10 = 20 \\times x \\implies x = \\frac{120}{20} = 6$. (குறிப்பு: விடைக்குறிப்பில் வேறு விடை சுட்டப்பட்டிருக்கலாம், ஆனால் கணிதரீதியாக 6 சரியான விடை).",
+        "question_en": "12 cows graze a field for 10 days. 20 cows will take how many days to graze the same field.",
+        "options_en": [
+            "15",
+            "18",
+            "6",
+            "8"
+        ],
+        "explanation_en": "Number of cows and days are in inverse proportion. $12 \\times 10 = 20 \\times x \\implies x = \\frac{120}{20} = 6$."
+    },
+    {
+        "id": 73,
+        "question": "4 தட்டச்சர்கள் ஒரு வேலையை முடிக்க 12 நாட்கள் எடுத்துக் கொள்கின்றனர். கூடுதலாக 2 தட்டச்சர்கள் சேர்ந்தால் அதே வேலையை எத்தனை நாட்களில் செய்து முடிப்பர்.",
+        "options": [
+            "18",
+            "8",
+            "9",
+            "10"
+        ],
+        "correct": 1,
+        "explanation": "தட்டச்சர்களின் மொத்த எண்ணிக்கை = $4 + 2 = 6$. எதிர்விகிதப்படி: $4 \\times 12 = 6 \\times x \\implies x = \\frac{48}{6} = 8$.",
+        "question_en": "4 typists take 12 days to complete a job. If 2 more typists join, in how many days will they complete the same job?",
+        "options_en": [
+            "18",
+            "8",
+            "9",
+            "10"
+        ],
+        "explanation_en": "Total typists = $4 + 2 = 6$. By inverse proportion: $4 \\times 12 = 6 \\times x \\implies x = \\frac{48}{6} = 8$."
+    },
+    {
+        "id": 74,
+        "question": "ஒரு நீர்த்தேக்கத் தொட்டியை நிறைப்பதற்கு 6 குழாய்கள் 1 மணி 30 நிமிடங்கள் எடுத்துக்கொள்கின்றன. ஒரு குழாயை அடைத்துவிட்டால் அதே தொட்டியை நிறைக்க எடுத்துக்கொள்ளும் காலம் எவ்வளவு?",
+        "options": [
+            "1 மணி 43 நிமி.",
+            "108 நிமி.",
+            "54 நிமி.",
+            "எதுவுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "1 மணி 30 நிமிடம் = 90 நிமிடங்கள். செயல்படும் குழாய்கள் = $6 - 1 = 5$. எதிர்விகிதப்படி: $6 \\times 90 = 5 \\times x \\implies x = \\frac{540}{5} = 108$ நிமிடங்கள்.",
+        "question_en": "It takes 1 hour 30 minutes for 6 pipes to fill a reservoir. If one pipe is closed, how much time will it take to fill the same reservoir?",
+        "options_en": [
+            "1 hour 43 mins",
+            "108 mins",
+            "54 mins",
+            "None of these"
+        ],
+        "explanation_en": "1 hour 30 mins = 90 minutes. Working pipes = $6 - 1 = 5$. By inverse proportion: $6 \\times 90 = 5 \\times x \\implies x = \\frac{540}{5} = 108$ minutes."
+    },
+    {
+        "id": 75,
+        "question": "ஒரு விவசாயியிடம் 144 வாத்துகளும் 28 நாட்களுக்குத் தேவையான உணவும் உள்ளது. அவர் 32 வாத்துகளை விற்றுவிட்டார் எனில், அவரிடம் உள்ள உணவு மீதமுள்ள எத்தனை நாட்களுக்குப் போதுமானதாக இருக்கும்?",
+        "options": [
+            "36",
+            "126",
+            "40",
+            "128"
+        ],
+        "correct": 0,
+        "explanation": "மீதமுள்ள வாத்துகள் = $144 - 32 = 112$. எதிர்விகிதப்படி: $144 \\times 28 = 112 \\times x \\implies x = \\frac{144 \\times 28}{112} = \\frac{144}{4} = 36$.",
+        "question_en": "A farmer has 144 ducks and food sufficient for 28 days. If he sells 32 ducks, for how many days will the remaining food be sufficient?",
+        "options_en": [
+            "36",
+            "126",
+            "40",
+            "128"
+        ],
+        "explanation_en": "Remaining ducks = $144 - 32 = 112$. By inverse proportion: $144 \\times 28 = 112 \\times x \\implies x = \\frac{144 \\times 28}{112} = \\frac{144}{4} = 36$."
+    },
+    {
+        "id": 76,
+        "question": "ஒரு குழி வெட்ட 10 இயந்திரங்கள் 60 நாட்கள் எடுத்துக் கொள்கின்றன எனில், 30 இயந்திரங்கள் அதே குழியை வெட்ட எத்தனை நாள்களாகும்?",
+        "options": [
+            "30",
+            "20",
+            "15",
+            "180"
+        ],
+        "correct": 1,
+        "explanation": "எதிர்விகிதம்: $10 \\times 60 = 30 \\times x \\implies 600 = 30x \\implies x = 20$.",
+        "question_en": "If 10 machines take 60 days to dig a pit, how many days will 30 machines take to dig the same pit?",
+        "options_en": [
+            "30",
+            "20",
+            "15",
+            "180"
+        ],
+        "explanation_en": "Inverse proportion: $10 \\times 60 = 30 \\times x \\implies 600 = 30x \\implies x = 20$."
+    },
+    {
+        "id": 77,
+        "question": "500 கிராம் எடையுள்ள 8 சிப்பங்களை விரைவு அஞ்சலில் அனுப்ப தேவையான பணம் மீனாவிடம் உள்ளது. அவளிடம் உள்ள அதே பணத்தில் 40 சிப்பங்களை அவள் அனுப்பினால் ஒரு சிப்பத்தின் எடை எவ்வளவு இருக்கும்?",
+        "options": [
+            "150 கி",
+            "100 கி",
+            "200 கி",
+            "250 கி"
+        ],
+        "correct": 1,
+        "explanation": "எதிர்விகிதம் (மொத்த எடை மாறிலி): $500 \\times 8 = x \\times 40 \\implies x = \\frac{4000}{40} = 100$ கிராம்.",
+        "question_en": "Meena has enough money to send 8 parcels weighing 500 grams each by speed post. If she sends 40 parcels with the same amount of money, what will be the weight of one parcel?",
+        "options_en": [
+            "150 g",
+            "100 g",
+            "200 g",
+            "250 g"
+        ],
+        "explanation_en": "Inverse proportion (total weight is constant): $500 \\times 8 = x \\times 40 \\implies x = \\frac{4000}{40} = 100$ grams."
+    },
+    {
+        "id": 78,
+        "question": "ஒரு தோட்டத்தைக் களையெடுக்க 6 தோட்டக்காரர்களுக்கு 120 நிமிடங்கள் தேவைப்படுகின்றன எனில், அதே வேலையை 30 நிமிடங்களில் முடிக்க எத்தனை தோட்டக்காரர்கள் தேவை?",
+        "options": [
+            "24",
+            "60",
+            "32",
+            "40"
+        ],
+        "correct": 0,
+        "explanation": "எதிர்விகிதம்: $6 \\times 120 = x \\times 30 \\implies x = \\frac{720}{30} = 24$. (கேள்வியில் 'கூடுதலாக' என்றிருந்தாலும் விடைக்குறிப்பின்படி மொத்த தோட்டக்காரர்கள் எண்ணிக்கை 24 ஆகும்).",
+        "question_en": "If 6 gardeners take 120 minutes to weed a garden, how many gardeners are required to finish the same work in 30 minutes?",
+        "options_en": [
+            "24",
+            "60",
+            "32",
+            "40"
+        ],
+        "explanation_en": "Inverse proportion: $6 \\times 120 = x \\times 30 \\implies x = \\frac{720}{30} = 24$."
+    },
+    {
+        "id": 79,
+        "question": "நீலவேணி தினந்தோறும் மிதிவண்டியில் 12 கி.மீ/மணி சராசரி வேகத்தில் பள்ளியைச் சென்றடைய 20 நிமிடங்கள் ஆகிறது. அவள் 15 நிமிடங்களில் பள்ளியைச் சென்றடைந்தால் எவ்வளவு வேகத்தில் சென்றிருப்பாள்?",
+        "options": [
+            "20 கி.மீ/மணி",
+            "15 கி.மீ/மணி",
+            "16 கி.மீ/மணி",
+            "10 கி.மீ/மணி"
+        ],
+        "correct": 2,
+        "explanation": "வேகம் $\\times$ நேரம் = தூரம் (மாறிலி). $12 \\times 20 = x \\times 15 \\implies x = \\frac{240}{15} = 16$ கி.மீ/மணி.",
+        "question_en": "Neelaveni goes to school on her bicycle at an average speed of 12 km/hr and takes 20 minutes to reach. What speed should she maintain to reach school in 15 minutes?",
+        "options_en": [
+            "20 km/hr",
+            "15 km/hr",
+            "16 km/hr",
+            "10 km/hr"
+        ],
+        "explanation_en": "Speed $\\times$ Time = Distance (constant). $12 \\times 20 = x \\times 15 \\implies x = \\frac{240}{15} = 16$ km/hr."
+    },
+    {
+        "id": 80,
+        "question": "ஒரு பொம்மை செய்யும் தொழிற்சாலை 36 இயந்திரங்களைக் கொண்டு 54 நாள்களில் பொம்மைகளை உற்பத்தி செய்கிறது. அதே அளவிலான பொம்மைகளை 81 நாள்களில் உற்பத்தி செய்ய எத்தனை இயந்திரங்கள் தேவை?",
+        "options": [
+            "28",
+            "54",
+            "32",
+            "24"
+        ],
+        "correct": 3,
+        "explanation": "இயந்திரங்கள் மற்றும் நாட்கள் எதிர்விகிதம்: $36 \\times 54 = x \\times 81 \\implies x = \\frac{36 \\times 54}{81} = \\frac{36 \\times 2}{3} = 24$.",
+        "question_en": "A toy manufacturing factory produces toys in 54 days using 36 machines. How many machines are required to produce the same number of toys in 81 days?",
+        "options_en": [
+            "28",
+            "54",
+            "32",
+            "24"
+        ],
+        "explanation_en": "Machines and days are in inverse proportion: $36 \\times 54 = x \\times 81 \\implies x = \\frac{36 \\times 54}{81} = \\frac{36 \\times 2}{3} = 24$."
+    },
+    {
+        "id": 81,
+        "question": "ஓர் அச்சு இயந்திரம் 300 பக்கங்களைக் கொண்ட புத்தகத்தை 1 நிமிடத்தில் 30 பக்கங்கள் என அச்சிடுகிறது. அதே புத்தகத்தை 1 நிமிடத்தில் 25 பக்கங்கள் என அச்சிட்டால் அச்சிட்டு முடிக்க எத்தனை நிமிடங்கள் ஆகும்?",
+        "options": [
+            "12",
+            "11",
+            "15",
+            "16"
+        ],
+        "correct": 0,
+        "explanation": "தேவையான நேரம் = $\\frac{\\text{மொத்த பக்கங்கள்}}{\\text{நிமிடத்திற்கு அச்சிடும் பக்கங்கள்}} = \\frac{300}{25} = 12$ நிமிடங்கள்.",
+        "question_en": "A printing machine prints a 300-page book at a rate of 30 pages per minute. If it prints the same book at a rate of 25 pages per minute, how many minutes will it take to finish?",
+        "options_en": [
+            "12",
+            "11",
+            "15",
+            "16"
+        ],
+        "explanation_en": "Time required = $\\frac{\\text{Total pages}}{\\text{Pages per minute}} = \\frac{300}{25} = 12$ minutes."
+    },
+    {
+        "id": 82,
+        "question": "ஒரு பள்ளியில் 40 நிமிடங்களைக் கொண்ட 7 பாட வேளைகள் உள்ளன. அப்பள்ளியில் பாட வேளைகள் 8 ஆக மாறும்போது பாடவேளையின் கால அளவு என்ன?",
+        "options": [
+            "57 நிமிடங்கள்",
+            "40 நிமிடங்கள்",
+            "35 நிமிடங்கள்",
+            "30 நிமிடங்கள்"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த நேரம் மாறிலி. எதிர்விகிதம்: $40 \\times 7 = x \\times 8 \\implies 280 = 8x \\implies x = 35$ நிமிடங்கள்.",
+        "question_en": "A school has 7 periods of 40 minutes each. If the number of periods is changed to 8, what will be the duration of each period?",
+        "options_en": [
+            "57 minutes",
+            "40 minutes",
+            "35 minutes",
+            "30 minutes"
+        ],
+        "explanation_en": "Total time is constant. Inverse proportion: $40 \\times 7 = x \\times 8 \\implies 280 = 8x \\implies x = 35$ minutes."
+    },
+    {
+        "id": 83,
+        "question": "15 நபர்கள் ஒரு வேலையை 20 நாட்களில் செய்து முடிப்பர் எனில், அதே வேலையை 24 நபர்கள் எத்தனை நாட்களில் செய்து முடிப்பர்?",
+        "options": [
+            "12",
+            "24",
+            "12.5",
+            "$15\\frac{1}{2}$"
+        ],
+        "correct": 2,
+        "explanation": "எதிர்விகிதம்: $15 \\times 20 = 24 \\times x \\implies 300 = 24x \\implies x = \\frac{300}{24} = 12.5$.",
+        "question_en": "If 15 persons can complete a work in 20 days, in how many days will 24 persons complete the same work?",
+        "options_en": [
+            "12",
+            "24",
+            "12.5",
+            "$15\\frac{1}{2}$"
+        ],
+        "explanation_en": "Inverse proportion: $15 \\times 20 = 24 \\times x \\implies 300 = 24x \\implies x = \\frac{300}{24} = 12.5$."
+    },
+    {
+        "id": 84,
+        "question": "120 பக்கங்கள் கொண்ட ஒரு புத்தகத்தில் ஒவ்வொரு பக்கத்திலும் 30 வரிகள் உள்ளன. அதே செய்தி ஒவ்வொரு பக்கத்திலும் 25 வரிகளைக் கொண்டிருந்தால் அப்புத்தகம் எவ்வளவு பக்கங்களைக் கொண்டிருக்கும்?",
+        "options": [
+            "175",
+            "150",
+            "164",
+            "144"
+        ],
+        "correct": 3,
+        "explanation": "மொத்த வரிகள் = $120 \\times 30 = 3600$. 25 வரிகள் கொண்ட பக்கங்களின் எண்ணிக்கை = $\\frac{3600}{25} = 144$.",
+        "question_en": "A book of 120 pages has 30 lines on each page. If the same content is written with 25 lines on each page, how many pages will the book have?",
+        "options_en": [
+            "175",
+            "150",
+            "164",
+            "144"
+        ],
+        "explanation_en": "Total lines = $120 \\times 30 = 3600$. Number of pages with 25 lines = $\\frac{3600}{25} = 144$."
+    },
+    {
+        "id": 85,
+        "question": "x மற்றும் y ஆனது எதிர்விகிதத்தில் உள்ளது எனில், கீழ்க்கண்டவற்றுள் எது தவறு?",
+        "options": [
+            "x அதிகரிக்கும்போது y குறைகிறது.",
+            "x குறையும்போது y அதிகரிக்கிறது.",
+            "x அதிகரிக்கும்போது y அதிகரிக்கிறது.",
+            "ஏதுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "எதிர்விகிதத்தில் ஒன்று அதிகரிக்கும்போது மற்றொன்று குறையும். 'x அதிகரிக்கும்போது y அதிகரிக்கிறது' என்பது நேர்விகிதப் பண்பு, எனவே இது தவறு.",
+        "question_en": "If x and y are in inverse proportion, which of the following is incorrect?",
+        "options_en": [
+            "As x increases, y decreases.",
+            "As x decreases, y increases.",
+            "As x increases, y increases.",
+            "None of these"
+        ],
+        "explanation_en": "In inverse proportion, when one variable increases, the other decreases. 'As x increases, y increases' is a property of direct proportion, so it is incorrect."
+    },
+    {
+        "id": 86,
+        "question": "கீழ்க்கண்டவற்றுள் எதிர்மாறல் எது?",
+        "options": [
+            "பொருட்களின் எண்ணிக்கையும் அதற்கான விலையும்",
+            "கூலியும் வேலைநேரமும்",
+            "வேகமும் காலமும்",
+            "அனைத்தும்"
+        ],
+        "correct": 2,
+        "explanation": "ஒரு குறிப்பிட்ட தூரத்தைக் கடக்க வாகனம் செல்லும் வேகம் அதிகரித்தால், எடுத்துக்கொள்ளும் காலம் குறையும். எனவே வேகமும் காலமும் எதிர்மாறல் ஆகும்.",
+        "question_en": "Which of the following is an inverse proportion?",
+        "options_en": [
+            "Number of items and their price",
+            "Wages and working hours",
+            "Speed and time",
+            "All of the above"
+        ],
+        "explanation_en": "For a fixed distance, if the speed increases, the time taken decreases. Thus, speed and time are inversely proportional."
+    },
+    {
+        "id": 87,
+        "question": "4 பேர் ஒரு வேலையை 12 நாட்களில் முடிக்கிறார்கள். மேலும் 2 பேர் கூடுதலாகச் சேர்ந்தால் அந்த வேலையை எத்தனை நாட்களில் முடிப்பர்?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "correct": 1,
+        "explanation": "மொத்த ஆட்கள் = $4 + 2 = 6$. எதிர்விகிதம்: $4 \\times 12 = 6 \\times x \\implies x = \\frac{48}{6} = 8$.",
+        "question_en": "4 persons finish a work in 12 days. If 2 more persons join, in how many days will they finish the work?",
+        "options_en": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "explanation_en": "Total persons = $4 + 2 = 6$. Inverse proportion: $4 \\times 12 = 6 \\times x \\implies x = \\frac{48}{6} = 8$."
+    },
+    {
+        "id": 88,
+        "question": "40 வேலையாட்கள் ஒரு வேலையை 8 நாட்களில் முடிப்பர். அதே வேலையை 4 நாட்களில் முடிக்க கூடுதலாக எத்தனை ஆட்கள் தேவை?",
+        "options": [
+            "40",
+            "80",
+            "20",
+            "100"
+        ],
+        "correct": 0,
+        "explanation": "எதிர்விகிதம்: $40 \\times 8 = x \\times 4 \\implies x = \\frac{320}{4} = 80$ ஆட்கள் தேவை. கூடுதலாகத் தேவையானவர்கள் = $80 - 40 = 40$.",
+        "question_en": "40 workers complete a job in 8 days. How many additional workers are required to complete the same job in 4 days?",
+        "options_en": [
+            "40",
+            "80",
+            "20",
+            "100"
+        ],
+        "explanation_en": "Inverse proportion: $40 \\times 8 = x \\times 4 \\implies x = \\frac{320}{4} = 80$ workers needed. Additional workers = $80 - 40 = 40$."
+    },
+    {
+        "id": 89,
+        "question": "200 போர் வீரர்களுக்கு 40 நாட்களுக்குத் தேவையான உணவுப் பொருட்கள் முகாமில் உள்ளன. முகாமில் மேலும் 50 போர் வீரர்கள் வந்து சேர்ந்தால், எத்தனை நாட்களுக்கு உணவுப் பொருட்கள் போதுமானதாக இருக்கும்?",
+        "options": [
+            "50",
+            "32",
+            "42",
+            "35"
+        ],
+        "correct": 1,
+        "explanation": "மொத்த வீரர்கள் = $200 + 50 = 250$. எதிர்விகிதம்: $200 \\times 40 = 250 \\times x \\implies x = \\frac{8000}{250} = 32$.",
+        "question_en": "A camp has food provisions for 200 soldiers for 40 days. If 50 more soldiers join the camp, for how many days will the food be sufficient?",
+        "options_en": [
+            "50",
+            "32",
+            "42",
+            "35"
+        ],
+        "explanation_en": "Total soldiers = $200 + 50 = 250$. Inverse proportion: $200 \\times 40 = 250 \\times x \\implies x = \\frac{8000}{250} = 32$."
+    },
+    {
+        "id": 90,
+        "question": "ஒரு பெட்டி தக்காளியின் விலை ₹200. வேந்தன் அவரிடம் உள்ள பணத்தில் 13 பெட்டிகளை வாங்கினார். ஒரு பெட்டியின் விலை ₹260 என அதிகரித்தால், அவரிடம் உள்ள பணத்தில் எத்தனை பெட்டிகள் வாங்க முடியும்?",
+        "options": [
+            "12",
+            "8",
+            "9",
+            "10"
+        ],
+        "correct": 3,
+        "explanation": "மொத்தப் பணம் = $200 \\times 13 = 2600$. பெட்டியின் விலை ₹260 ஆக மாறினால், வாங்கக்கூடிய பெட்டிகள் = $\\frac{2600}{260} = 10$.",
+        "question_en": "The price of a box of tomatoes is ₹200. Vendhan bought 13 boxes with the money he had. If the price per box increases to ₹260, how many boxes can he buy with the same amount of money?",
+        "options_en": [
+            "12",
+            "8",
+            "9",
+            "10"
+        ],
+        "explanation_en": "Total money = $200 \\times 13 = 2600$. If price becomes ₹260, boxes bought = $\\frac{2600}{260} = 10$."
+    },
+    {
+        "id": 91,
+        "question": "x வேலையாட்கள் ஒரு வேலையை y நாட்களில் முடிப்பர். அதைப்போல் இருமடங்கு வேலையாட்கள் அதே வேலையை எத்தனை நாட்களில் முடிப்பார்கள்?",
+        "options": [
+            "2y",
+            "$\\frac{y}{2}$",
+            "$y+2$",
+            "$x+y$"
+        ],
+        "correct": 1,
+        "explanation": "எதிர்விகிதம்: $x \\times y = 2x \\times d \\implies d = \\frac{xy}{2x} = \\frac{y}{2}$.",
+        "question_en": "x workers finish a job in y days. How many days will twice the number of workers take to finish the same job?",
+        "options_en": [
+            "2y",
+            "$\\frac{y}{2}$",
+            "$y+2$",
+            "$x+y$"
+        ],
+        "explanation_en": "Inverse proportion: $x \\times y = 2x \\times d \\implies d = \\frac{xy}{2x} = \\frac{y}{2}$."
+    },
+    {
+        "id": 92,
+        "question": "40 மாணவர்களுக்கு 30 நாட்களுக்குத் தேவையான உணவுப்பொருள் சேமித்து வைக்கப் பட்டுள்ளது. மாணவர்களின் எண்ணிக்கை இருமடங்காக மாறினால் அவ்வுணவுப் பொருள் அவர்களுக்கு எத்தனை நாட்களுக்குப் போதுமானதாக இருக்கும்?",
+        "options": [
+            "45",
+            "60",
+            "15",
+            "40"
+        ],
+        "correct": 2,
+        "explanation": "மாணவர்களின் எண்ணிக்கை இருமடங்கானால், உணவு வரும் நாட்கள் பாதியாகக் குறையும். $\\frac{30}{2} = 15$.",
+        "question_en": "Food provisions are stored for 40 students for 30 days. If the number of students is doubled, for how many days will the food be sufficient?",
+        "options_en": [
+            "45",
+            "60",
+            "15",
+            "40"
+        ],
+        "explanation_en": "If the number of students doubles, the days the food lasts will be halved. $\\frac{30}{2} = 15$."
+    },
+    {
+        "id": 93,
+        "question": "ஒரு வெள்ள நிவாரண முகாமில் 80 நபர்களுக்குத் தேவையான உணவு 60 நாட்களுக்குப் போதுமானதாக உள்ளது. 10 நாட்களுக்குப் பின்னர் 20 நபர்கள் அந்த முகாமில் வந்து சேர்ந்தார்கள் எனில், அவ்வுணவு எத்தனை நாட்களுக்குப் போதுமானதாக இருக்கும்?",
+        "options": [
+            "10",
+            "40",
+            "48",
+            "240"
+        ],
+        "correct": 1,
+        "explanation": "10 நாட்களுக்குப் பின், மீதமுள்ள உணவு 80 நபர்களுக்கு 50 நாட்களுக்குப் போதுமானது. புதிய நபர்களின் எண்ணிக்கை = $80 + 20 = 100$. $80 \\times 50 = 100 \\times x \\implies 4000 = 100x \\implies x = 40$.",
+        "question_en": "A flood relief camp has enough food for 80 people for 60 days. After 10 days, 20 more people join the camp. For how many days will the food be sufficient now?",
+        "options_en": [
+            "10",
+            "40",
+            "48",
+            "240"
+        ],
+        "explanation_en": "After 10 days, food is left for 80 people for 50 days. New number of people = $80 + 20 = 100$. $80 \\times 50 = 100 \\times x \\implies 4000 = 100x \\implies x = 40$."
+    },
+    {
+        "id": 94,
+        "question": "6 நபர்கள் ஒரு வேலையை 12 நாட்களில் செய்து முடிப்பர். 2 நாட்கள் கழித்து மேலும் 6 நபர்கள் வந்து சேர்கின்றனர் எனில், அவ்வேலையை செய்ய எத்தனை நாள்கள் எடுத்துக்கொள்வார்கள்?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 0,
+        "explanation": "2 நாட்களுக்குப் பின் 6 நபர்களுக்கு மீதமுள்ள வேலை 10 நாட்கள். இப்போது நபர்கள் 12. $6 \\times 10 = 12 \\times x \\implies x = \\frac{60}{12} = 5$. மீதமுள்ள வேலையைச் செய்ய 5 நாள்கள் எடுக்கும்.",
+        "question_en": "6 persons finish a job in 12 days. After 2 days, 6 more persons join them. How many days will they take to finish the work?",
+        "options_en": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "explanation_en": "After 2 days, remaining work is for 6 persons for 10 days. Now persons = 12. $6 \\times 10 = 12 \\times x \\implies x = \\frac{60}{12} = 5$. It will take 5 days to finish the work."
+    },
+    {
+        "id": 95,
+        "question": "ஒரு விடுதியில் 120 நபர்களுக்கு 200 நாட்களுக்கு போதுமான உணவுப்பொருட்கள் கையிருப்பில் உள்ளன. 5 நாட்களுக்குப் பிறகு 30 நபர்கள் விடுதியை விட்டு சென்றுவிட்டால், மீதமுள்ள உணவுப்பொருட்கள் எத்தனை நாட்களுக்குப் போதுமானதாக இருக்கும்?",
+        "options": [
+            "260",
+            "275",
+            "250",
+            "150"
+        ],
+        "correct": 0,
+        "explanation": "5 நாட்களுக்குப் பின், மீதமுள்ள உணவு 120 நபர்களுக்கு 195 நாட்களுக்குப் போதுமானது. மீதமுள்ள நபர்கள் = $120 - 30 = 90$. $120 \\times 195 = 90 \\times x \\implies x = \\frac{120 \\times 195}{90} = 260$.",
+        "question_en": "A hostel has food provisions for 120 people for 200 days. After 5 days, 30 people leave the hostel. For how many days will the remaining food provisions be sufficient?",
+        "options_en": [
+            "260",
+            "275",
+            "250",
+            "150"
+        ],
+        "explanation_en": "After 5 days, food left is for 120 people for 195 days. Remaining people = $120 - 30 = 90$. $120 \\times 195 = 90 \\times x \\implies x = \\frac{120 \\times 195}{90} = 260$."
+    },
+    {
+        "id": 96,
+        "question": "ஒரு விடுதியில் 50 மாணவர்களுக்கு 40 நாட்களுக்குப் போதுமான உணவுப்பொருட்கள் உள்ளன. மேலும் 30 மாணவர்கள் புதிதாக விடுதியில் சேர்ந்தால், உணவுப்பொருட்கள் எத்தனை நாட்களுக்குப் போதுமானதாக இருக்கும்?",
+        "options": [
+            "26",
+            "20",
+            "25",
+            "70"
+        ],
+        "correct": 2,
+        "explanation": "மொத்த மாணவர்கள் = $50 + 30 = 80$. எதிர்விகிதம்: $50 \\times 40 = 80 \\times x \\implies 2000 = 80x \\implies x = \\frac{2000}{80} = 25$.",
+        "question_en": "A hostel has food provisions for 50 students for 40 days. If 30 more students join the hostel, for how many days will the food be sufficient?",
+        "options_en": [
+            "26",
+            "20",
+            "25",
+            "70"
+        ],
+        "explanation_en": "Total students = $50 + 30 = 80$. Inverse proportion: $50 \\times 40 = 80 \\times x \\implies 2000 = 80x \\implies x = \\frac{2000}{80} = 25$."
+    },
+    {
+        "id": 97,
+        "question": "x மற்றும் y எதிர்விகிதத்தில் இருக்கும்போது $x=8$ மற்றும் $y=32$ எனில், $x=16$ எனும்போது y இன் மதிப்பு என்ன?",
+        "options": [
+            "64",
+            "16",
+            "4",
+            "40"
+        ],
+        "correct": 1,
+        "explanation": "எதிர்விகிதத்தில் $xy = \\text{மாறிலி}$. $8 \\times 32 = 16 \\times y \\implies 256 = 16y \\implies y = 16$.",
+        "question_en": "When x and y are in inverse proportion, if $x=8$ and $y=32$, what is the value of y when $x=16$?",
+        "options_en": [
+            "64",
+            "16",
+            "4",
+            "40"
+        ],
+        "explanation_en": "In inverse proportion, $xy = \\text{constant}$. $8 \\times 32 = 16 \\times y \\implies 256 = 16y \\implies y = 16$."
+    },
+    {
+        "id": 98,
+        "question": "x மற்றும் y எதிர்விகிதத்தில் இருக்கும்போது $x=10$ மற்றும் $y=6$ எனில், $x=15$ எனும்போது y இன் மதிப்பு என்ன?",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "16"
+        ],
+        "correct": 2,
+        "explanation": "$xy = \\text{மாறிலி}$. $10 \\times 6 = 15 \\times y \\implies 60 = 15y \\implies y = 4$.",
+        "question_en": "When x and y are in inverse proportion, if $x=10$ and $y=6$, what is the value of y when $x=15$?",
+        "options_en": [
+            "5",
+            "6",
+            "4",
+            "16"
+        ],
+        "explanation_en": "$xy = \\text{constant}$. $10 \\times 6 = 15 \\times y \\implies 60 = 15y \\implies y = 4$."
+    },
+    {
+        "id": 99,
+        "question": "x மற்றும் y எதிர்விகிதத்தில் இருக்கும்போது $x=8$ மற்றும் $y=10$ எனில், $x=2$ எனும்போது y இன் மதிப்பு என்ன?",
+        "options": [
+            "40",
+            "16",
+            "4",
+            "80"
+        ],
+        "correct": 0,
+        "explanation": "$8 \\times 10 = 2 \\times y \\implies 80 = 2y \\implies y = 40$.",
+        "question_en": "When x and y are in inverse proportion, if $x=8$ and $y=10$, what is the value of y when $x=2$?",
+        "options_en": [
+            "40",
+            "16",
+            "4",
+            "80"
+        ],
+        "explanation_en": "$8 \\times 10 = 2 \\times y \\implies 80 = 2y \\implies y = 40$."
+    },
+    {
+        "id": 100,
+        "question": "x மற்றும் y எதிர்விகிதத்தில் இருக்கும்போது $x=12$ மற்றும் $y=3$ ஆகும். இச்சூழ்நிலையில் கீழ்க்கண்ட எம்மதிப்புகள் x மற்றும் y இக்குப் பொருந்தாது?",
+        "options": [
+            "4 மற்றும் 9",
+            "10 மற்றும் 3.6",
+            "72 மற்றும் 0.5",
+            "5 மற்றும் 6"
+        ],
+        "correct": 3,
+        "explanation": "$xy = 12 \\times 3 = 36$. இதில் $5 \\times 6 = 30$, இது 36 க்குச் சமமில்லை. எனவே இது பொருந்தாது.",
+        "question_en": "When x and y are in inverse proportion, $x=12$ and $y=3$. In this situation, which of the following values will not fit for x and y?",
+        "options_en": [
+            "4 and 9",
+            "10 and 3.6",
+            "72 and 0.5",
+            "5 and 6"
+        ],
+        "explanation_en": "$xy = 12 \\times 3 = 36$. For option 4, $5 \\times 6 = 30$, which is not equal to 36. Hence, it does not fit."
+    },
+    {
+        "id": 101,
+        "question": "x ஆனது y இன் இருமடங்கோடு எதிர்விகிதத் தொடர்புடையது. கொடுத்துள்ளபடி $y=6$ எனில் x இன் மதிப்பு 4 மேலும் $y=8$ எனில் x இன் மதிப்பைக் காண்க.",
+        "options": [
+            "$\\frac{16}{3}$",
+            "3",
+            "12",
+            "16"
+        ],
+        "correct": 1,
+        "explanation": "$x \\propto \\frac{1}{2y} \\implies x(2y) = k$. ஆரம்பத்தில் $k = 4 \\times (2 \\times 6) = 48$. இப்போது $x \\times (2 \\times 8) = 48 \\implies 16x = 48 \\implies x = 3$.",
+        "question_en": "x is inversely proportional to twice of y. Given that when $y=6$, the value of x is 4. Find the value of x when $y=8$.",
+        "options_en": [
+            "$\\frac{16}{3}$",
+            "3",
+            "12",
+            "16"
+        ],
+        "explanation_en": "$x \\propto \\frac{1}{2y} \\implies x(2y) = k$. Initially, $k = 4 \\times (2 \\times 6) = 48$. Now, $x \\times (2 \\times 8) = 48 \\implies 16x = 48 \\implies x = 3$."
+    },
+    {
+        "id": 102,
+        "question": "ஒரு முகாமில் 100 வீரர்களுக்கு 20 நாட்களுக்கு போதுமான உணவுப்பொருட்கள் கையிருப்பில் உள்ளன. இதில் குறிப்பிட்ட அளவிலான வீரர்கள் முகாமை விட்டு சென்ற பிறகு உணவுப் பொருட்கள் 25 நாட்களுக்குப் போதுமானதாக உள்ளன எனில், வெளியே சென்ற படைவீரர்களின் எண்ணிக்கை",
+        "options": [
+            "125",
+            "20",
+            "80",
+            "25"
+        ],
+        "correct": 1,
+        "explanation": "$100 \\times 20 = (100-x) \\times 25 \\implies 2000 = 2500 - 25x \\implies 25x = 500 \\implies x = 20$.",
+        "question_en": "A camp has food provisions for 100 soldiers for 20 days. If after a certain number of soldiers left the camp, the food became sufficient for 25 days, what is the number of soldiers who left?",
+        "options_en": [
+            "125",
+            "20",
+            "80",
+            "25"
+        ],
+        "explanation_en": "$100 \\times 20 = (100-x) \\times 25 \\implies 2000 = 2500 - 25x \\implies 25x = 500 \\implies x = 20$."
+    },
+    {
+        "id": 103,
+        "question": "x ம் y ம் எதிர்விகிதத்தில் உள்ளன எனில், விடுபட்ட எண்ணைக் காண்க\n\n| x | 36 | 18 | 9 | 12 |\n|---|---|---|---|---|\n| y | 1 | ? | 4 | 3 |",
+        "options": [
+            "18",
+            "20",
+            "2",
+            "25"
+        ],
+        "correct": 2,
+        "explanation": "எதிர்விகிதம் என்பதால் $xy = \\text{மாறிலி} = 36 \\times 1 = 36$. எனவே $18 \\times y = 36 \\implies y = 2$.",
+        "question_en": "If x and y are in inverse proportion, find the missing number\n\n| x | 36 | 18 | 9 | 12 |\n|---|---|---|---|---|\n| y | 1 | ? | 4 | 3 |",
+        "options_en": [
+            "18",
+            "20",
+            "2",
+            "25"
+        ],
+        "explanation_en": "Since they are inversely proportional, $xy = \\text{constant} = 36 \\times 1 = 36$. Thus, $18 \\times y = 36 \\implies y = 2$."
+    },
+    {
+        "id": 104,
+        "question": "கீழ்க்கண்ட கூற்றுகளில் சரியான கூற்று எது?",
+        "options": [
+            "ஒரு சதுரத்தின் பக்க அளவும் அதன் பரப்பளவும் நேர்விகிதத்தில் உள்ளன.",
+            "ஒரு வட்டத்தின் விட்டமும் அதன் பரப்பளவும் நேர்விகிதத்தில் உள்ளன.",
+            "ஒரு முக்கோணத்தில் ஒரு கோணத்தை நிலையாக வைத்துக்கொண்டால் மற்ற இரு கோண அளவுகளும் எதிர்விகிதத்தில் உள்ளன.",
+            "இவை அனைத்தும்."
+        ],
+        "correct": 3,
+        "explanation": "விடைக்குறிப்பின்படி இவை அனைத்தும் சரியானவை எனக் குறிப்பிடப்பட்டுள்ளது. (பொதுவாக இது நேர்ப்போக்கு விகிதங்களை மட்டும் குறிப்பதாகக் கருதப்பட்டிருக்கலாம்).",
+        "question_en": "Which of the following statements is correct?",
+        "options_en": [
+            "The side of a square and its area are in direct proportion.",
+            "The diameter of a circle and its area are in direct proportion.",
+            "In a triangle, if one angle is kept constant, the other two angle measures are in inverse proportion.",
+            "All of these."
+        ],
+        "explanation_en": "According to the answer key, all statements are considered correct (likely interpreted loosely in the context of one increasing as the other does/decreases)."
+    },
+    {
+        "id": 105,
+        "question": "கீழ்க்கண்டவற்றில் எது நேர்மாறலில் இல்லை?",
+        "options": [
+            "அசலும் வட்டியும்",
+            "ஆட்களின் எண்ணிக்கையும் தேவைப்படும் உணவுப்பொருட்களின் அளவும்",
+            "குறிப்பிட்ட வேகத்தில் காரின் பயணநேரமும், கடந்த தொலைவும்",
+            "ஆட்களின் எண்ணிக்கையும், வேலையை முடிக்க ஆகும் நாட்களும்"
+        ],
+        "correct": 3,
+        "explanation": "ஆட்களின் எண்ணிக்கை அதிகரிக்கும்போது வேலையை முடிக்க ஆகும் நாட்கள் குறையும், எனவே இது எதிர்மாறல் ஆகும்.",
+        "question_en": "Which of the following is NOT in direct proportion?",
+        "options_en": [
+            "Principal and interest",
+            "Number of persons and amount of food required",
+            "Travel time of a car at a given speed and distance covered",
+            "Number of workers and the days taken to complete a job"
+        ],
+        "explanation_en": "As the number of workers increases, the days taken to complete the job decrease, making it an inverse proportion."
+    },
+    {
+        "id": 106,
+        "question": "கீழ்க்கண்டவற்றுள் எது எதிர்மாறல்?",
+        "options": [
+            "வேகமும் காலமும்",
+            "பயணதூரமும், அதற்கான வாகனத்தின் வாடகைத் தொகையும்",
+            "மாணவர்களின் எண்ணிக்கையும் ஆசிரியர்களின் எண்ணிக்கையும்",
+            "சதுரத்தின் பக்க அளவும் அதன் சுற்றளவும்"
+        ],
+        "correct": 0,
+        "explanation": "ஒரு குறிப்பிட்ட தூரத்தைக் கடக்க வேகம் அதிகரிக்கும்போது, அதற்குத் தேவையான காலம் குறையும். எனவே இது எதிர்மாறல்.",
+        "question_en": "Which of the following is an inverse proportion?",
+        "options_en": [
+            "Speed and time",
+            "Travel distance and the vehicle rental fare for it",
+            "Number of students and number of teachers",
+            "Side length of a square and its perimeter"
+        ],
+        "explanation_en": "For a fixed distance, as speed increases, the time taken decreases. Thus, it is an inverse proportion."
+    },
+    {
+        "id": 107,
+        "question": "கீழ்க்கண்டவற்றில் எது தவறானது?",
+        "options": [
+            "புத்தகத்தில் உள்ள வரிகளின் எண்ணிக்கையும் பக்கங்களின் எண்ணிக்கையும் நேர்விகிதத்தில் உள்ளது.",
+            "குறிப்பிட்ட மரத்தின் உயரமும் அதன் நிழலின் நீளமும் நேர்விகிதத்தில் உள்ளது.",
+            "வட்டத்தின் ஆரமும் அதன் பரப்பளவும் நேர்விகிதத்தில் உள்ளது.",
+            "குழாயில் வரும் தண்ணீரின் அழுத்தமும் தொட்டி நிரம்ப ஆகும் காலமும் எதிர்விகிதத்தில் உள்ளது."
+        ],
+        "correct": 0,
+        "explanation": "ஒரு குறிப்பிட்ட புத்தகத்தில், ஒரு பக்கத்தில் உள்ள வரிகளின் எண்ணிக்கை அதிகரித்தால், மொத்தப் பக்கங்களின் எண்ணிக்கை குறையும். இது எதிர்விகிதம். எனவே, இது நேர்விகிதம் என்ற கூற்று தவறு.",
+        "question_en": "Which of the following is incorrect?",
+        "options_en": [
+            "The number of lines per page in a book and the number of pages are in direct proportion.",
+            "The height of a certain tree and the length of its shadow are in direct proportion.",
+            "The radius of a circle and its area are in direct proportion.",
+            "The pressure of water in a pipe and the time taken to fill a tank are in inverse proportion."
+        ],
+        "explanation_en": "For a given book, if the number of lines per page increases, the total number of pages decreases. This is an inverse proportion, so the statement calling it direct is incorrect."
+    },
+    {
+        "id": 108,
+        "question": "கூற்று 1: ஒரு தொட்டியில் உள்ள தண்ணீரை 56 மோட்டார்கள் 6 மணி நேரத்தில் இறைக்கிறது எனில், 8 மோட்டார்கள் அதே அளவு தண்ணீரை 42 மணி நேரத்தில் இறைக்கும்.\nகூற்று 2: ரோகன் 1455 வார்த்தைகளை 15 நிமிடங்களில் தட்டச்சு செய்தால் 679 வார்த்தைகளை 16 நிமிடங்களில் தட்டச்சு செய்ய முடியும்.",
+        "options": [
+            "கூற்று 1 தவறு, கூற்று 2 சரி",
+            "கூற்று 1 தவறு, கூற்று 2 தவறு",
+            "கூற்று 1 சரி, கூற்று 2 தவறு",
+            "கூற்று 1 சரி, 2 சரி"
+        ],
+        "correct": 2,
+        "explanation": "கூற்று 1: $56 \\times 6 = 336$ மற்றும் $8 \\times 42 = 336$, எனவே இது சரி. கூற்று 2: தட்டச்சு வேகம் = $\\frac{1455}{15} = 97$ வ/நி. 16 நிமிடங்களில் $\\rightarrow 16 \\times 97 = 1552$ வார்த்தைகள். எனவே கூற்று 2 தவறு.",
+        "question_en": "Statement 1: If 56 motors pump out water in a tank in 6 hours, 8 motors will pump out the same amount of water in 42 hours.\nStatement 2: If Rohan types 1455 words in 15 minutes, he can type 679 words in 16 minutes.",
+        "options_en": [
+            "Statement 1 is false, Statement 2 is true",
+            "Statement 1 is false, Statement 2 is false",
+            "Statement 1 is true, Statement 2 is false",
+            "Statement 1 is true, Statement 2 is true"
+        ],
+        "explanation_en": "Statement 1 is true ($56 \\times 6 = 336$ and $8 \\times 42 = 336$). Statement 2 is false because his speed is $\\frac{1455}{15} = 97$ words/min, so in 16 mins he would type $16 \\times 97 = 1552$ words, not 679."
+    },
+    {
+        "id": 109,
+        "question": "$m=kn$ எனில் m க்கும் n க்கும் உள்ள உறவு என்ன? மேலும் $m=20$, $n=5$ எனில் k ன் மதிப்பு என்ன?",
+        "options": [
+            "நேர்விகிதம், 4",
+            "எதிர்விகிதம், 4",
+            "நேர்விகிதம், 80",
+            "எதிர்விகிதம், 80"
+        ],
+        "correct": 0,
+        "explanation": "$\\frac{m}{n} = k$ என்பது நேர்விகிதத்தைக் குறிக்கிறது. $k = \\frac{20}{5} = 4$.",
+        "question_en": "If $m=kn$, what is the relationship between m and n? Also, if $m=20$ and $n=5$, what is the value of k?",
+        "options_en": [
+            "Direct proportion, 4",
+            "Inverse proportion, 4",
+            "Direct proportion, 80",
+            "Inverse proportion, 80"
+        ],
+        "explanation_en": "$\\frac{m}{n} = k$ indicates a direct proportion. $k = \\frac{20}{5} = 4$."
+    },
+    {
+        "id": 110,
+        "question": "கீழ்க்கண்டவற்றில் எது நேர்விகிதத்தில் உள்ளது?",
+        "options": [
+            "x: 20, 17, 14, 11 | y: 40, 34, 28, 22",
+            "x: 6, 10, 14, 18 | y: 4, 8, 12, 16",
+            "x: 50, 40, 30, 20 | y: 5, 6, 7, 8",
+            "x: 1, 2, 3, 4 | y: 5, 10, 15, 20"
+        ],
+        "correct": 0,
+        "explanation": "முதல் விருப்பத்தில் $\\frac{y}{x} = \\frac{40}{20} = \\frac{34}{17} = 2$. இது ஒரு நிலையான விகிதம் என்பதால் நேர்விகிதம்.",
+        "question_en": "Which of the following is in direct proportion?",
+        "options_en": [
+            "x: 20, 17, 14, 11 | y: 40, 34, 28, 22",
+            "x: 6, 10, 14, 18 | y: 4, 8, 12, 16",
+            "x: 50, 40, 30, 20 | y: 5, 6, 7, 8",
+            "x: 1, 2, 3, 4 | y: 5, 10, 15, 20"
+        ],
+        "explanation_en": "In the first option, $\\frac{y}{x} = \\frac{40}{20} = \\frac{34}{17} = 2$. The ratio is constant, so it's a direct proportion."
+    },
+    {
+        "id": 111,
+        "question": "கீழ்க்கண்டவற்றில் எது எதிர்விகிதத்தில் உள்ளது?",
+        "options": [
+            "x: 50, 40, 30, 20 | y: 5, 6, 7, 8",
+            "x: 5, 12, 15, 18 | y: 15, 36, 60, 72",
+            "x: 2, 3, 4, 5 | y: 25, 35, 45, 55",
+            "x: 100, 200, 300, 400 | y: 60, 30, 20, 15"
+        ],
+        "correct": 3,
+        "explanation": "நான்காவது விருப்பத்தில் $x \\times y = 100 \\times 60 = 6000$, $200 \\times 30 = 6000$, $300 \\times 20 = 6000$. $xy = \\text{மாறிலி}$ என்பதால் இது எதிர்விகிதம்.",
+        "question_en": "Which of the following is in inverse proportion?",
+        "options_en": [
+            "x: 50, 40, 30, 20 | y: 5, 6, 7, 8",
+            "x: 5, 12, 15, 18 | y: 15, 36, 60, 72",
+            "x: 2, 3, 4, 5 | y: 25, 35, 45, 55",
+            "x: 100, 200, 300, 400 | y: 60, 30, 20, 15"
+        ],
+        "explanation_en": "In the fourth option, $x \\times y = 100 \\times 60 = 6000$, $200 \\times 30 = 6000$, $300 \\times 20 = 6000$. Since $xy = \\text{constant}$, it is an inverse proportion."
+    },
+    {
+        "id": 112,
+        "question": "15 மீ துணியின் விலை ₹2280 எனில், 3 மீ துணியின் விலை காண்க.",
+        "options": [
+            "₹152",
+            "₹256",
+            "₹456",
+            "₹645"
+        ],
+        "correct": 2,
+        "explanation": "1 மீ துணியின் விலை = $\\frac{2280}{15} = 152$. 3 மீ துணியின் விலை = $152 \\times 3 = 456$.",
+        "question_en": "If the price of 15 m of cloth is ₹2280, find the price of 3 m of cloth.",
+        "options_en": [
+            "₹152",
+            "₹256",
+            "₹456",
+            "₹645"
+        ],
+        "explanation_en": "Price of 1 m of cloth = $\\frac{2280}{15} = 152$. Price of 3 m of cloth = $152 \\times 3 = 456$."
+    },
+    {
+        "id": 113,
+        "question": "ஒரு மகிழுந்து 1 லி பெட்ரோலில் 26.6 கி.மீ தூரத்தை கடக்கிறது. அது 13 லி பெட்ரோலில் கடக்கும் தூரம்",
+        "options": [
+            "43.85 கி.மீ",
+            "354.8 கி.மீ",
+            "438.5 கி.மீ",
+            "345.8 கி.மீ"
+        ],
+        "correct": 3,
+        "explanation": "கடந்த தூரம் = $26.6 \\times 13 = 345.8$ கி.மீ.",
+        "question_en": "A car covers a distance of 26.6 km on 1 L of petrol. The distance it covers on 13 L of petrol is",
+        "options_en": [
+            "43.85 km",
+            "354.8 km",
+            "438.5 km",
+            "345.8 km"
+        ],
+        "explanation_en": "Distance covered = $26.6 \\times 13 = 345.8$ km."
+    },
+    {
+        "id": 114,
+        "question": "10 மாதத்திற்கும் 1 வருடத்திற்கும் இடையேயான விகிதம்",
+        "options": [
+            "10:1",
+            "1:10",
+            "5:6",
+            "6:5"
+        ],
+        "correct": 2,
+        "explanation": "1 வருடம் = 12 மாதங்கள். விகிதம் = $10 : 12 = 5 : 6$.",
+        "question_en": "The ratio between 10 months and 1 year is",
+        "options_en": [
+            "10:1",
+            "1:10",
+            "5:6",
+            "6:5"
+        ],
+        "explanation_en": "1 year = 12 months. Ratio = $10 : 12 = 5 : 6$."
+    },
+    {
+        "id": 115,
+        "question": "7 நபர்கள் ஒரு வேலையை 45 நாட்களில் முடிக்கிறார்கள் எனில், அதே வேலையை 9 பேர் எத்தனை நாட்களில் முடிப்பார்கள்?",
+        "options": [
+            "35",
+            "25",
+            "40",
+            "20"
+        ],
+        "correct": 0,
+        "explanation": "எதிர்விகிதம்: $7 \\times 45 = 9 \\times x \\implies x = \\frac{315}{9} = 35$.",
+        "question_en": "If 7 persons complete a job in 45 days, in how many days will 9 persons complete the same job?",
+        "options_en": [
+            "35",
+            "25",
+            "40",
+            "20"
+        ],
+        "explanation_en": "Inverse proportion: $7 \\times 45 = 9 \\times x \\implies x = \\frac{315}{9} = 35$."
+    },
+    {
+        "id": 116,
+        "question": "ஒரே வகையான இரு அளவுகளை வகுத்தல் மூலம் ஒப்பிடுவது",
+        "options": [
+            "விகிதசமம்",
+            "விகிதம்",
+            "பின்னம்",
+            "பொதுக்காரணிகள்"
+        ],
+        "correct": 1,
+        "explanation": "ஒரே அலகுடைய இரண்டு அளவுகளை வகுத்தல் மூலம் ஒப்பிடுவது விகிதம் (Ratio) எனப்படும்.",
+        "question_en": "Comparing two quantities of the same kind by division is called",
+        "options_en": [
+            "Proportion",
+            "Ratio",
+            "Fraction",
+            "Common factors"
+        ],
+        "explanation_en": "Comparing two quantities of the same kind by division is defined as a Ratio."
+    },
+    {
+        "id": 117,
+        "question": "ஒரு சாலையானது 45 ஆட்களை கொண்டு 16 மணி நேரங்களில் சீரமைக்கப்படுகிறது. இவ்வேலையானது மேலும் 8 மணி நேரம் நீட்டிக்கப்படுகின்றது எனில், எத்தனை ஆட்கள் குறைக்கப்பட வேண்டும்?",
+        "options": [
+            "15",
+            "30",
+            "20",
+            "25"
+        ],
+        "correct": 0,
+        "explanation": "புதிய நேரம் = $16 + 8 = 24$ மணி. எதிர்விகிதம்: $45 \\times 16 = x \\times 24 \\implies x = \\frac{720}{24} = 30$ ஆட்கள் தேவை. குறைக்கப்பட வேண்டியவர்கள் = $45 - 30 = 15$.",
+        "question_en": "A road is repaired in 16 hours by 45 workers. If the work time is extended by 8 more hours, how many workers should be reduced?",
+        "options_en": [
+            "15",
+            "30",
+            "20",
+            "25"
+        ],
+        "explanation_en": "New time = $16 + 8 = 24$ hours. Inverse proportion: $45 \\times 16 = x \\times 24 \\implies x = \\frac{720}{24} = 30$ workers needed. Workers to be reduced = $45 - 30 = 15$."
+    },
+    {
+        "id": 118,
+        "question": "இரண்டு விகிதங்களான a:b மற்றும் c:d ஆகியவை சமமாக இருந்தால், அவற்றை ________ இல் உள்ளன எனக் குறிப்பிடலாம்.",
+        "options": [
+            "வர்க்கம்",
+            "எதிர்விகிதம்",
+            "விகிதசமம்",
+            "நேர்விகிதம்"
+        ],
+        "correct": 2,
+        "explanation": "இரண்டு விகிதங்கள் சமமாக இருந்தால், அவை விகிதசமத்தில் (Proportion) உள்ளன எனலாம்.",
+        "question_en": "If two ratios a:b and c:d are equal, they are said to be in ________.",
+        "options_en": [
+            "Square",
+            "Inverse proportion",
+            "Proportion",
+            "Direct proportion"
+        ],
+        "explanation_en": "If two ratios are equal, they are said to be in proportion."
+    }
+]

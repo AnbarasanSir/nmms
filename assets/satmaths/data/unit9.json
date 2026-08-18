@@ -1,0 +1,2723 @@
+[
+    {
+        "id": 1,
+        "question": "அடிமானம் 12, அடுக்கு 17 ஐக் கொண்டுள்ள அடுக்கு எண்ணின் வடிவம்",
+        "options": [
+            "\\( 17^{12} \\)",
+            "\\( 12^{17} \\)",
+            "\\( 12 \\times 17 \\)",
+            "\\( 12+17 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 12^{17} \\). அடிமானம் (Base) என்பது கீழே எழுதப்படும் எண், அடுக்கு (Power) என்பது மேலே எழுதப்படும் எண். எனவே, அடிமானம் 12 மற்றும் அடுக்கு 17 என்றால் அது \\( 12^{17} \\) ஆகும்.",
+        "question_en": "The exponential form of a number with base 12 and power 17 is",
+        "options_en": [
+            "\\( 17^{12} \\)",
+            "\\( 12^{17} \\)",
+            "\\( 12 \\times 17 \\)",
+            "\\( 12+17 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 12^{17} \\). The base is written at the bottom and the power is written as a superscript. Therefore, a base of 12 and a power of 17 is written as \\( 12^{17} \\)."
+    },
+    {
+        "id": 2,
+        "question": "\\( a \\times a \\times a \\times a \\times a \\) என்பது எதற்குச் சமம்?",
+        "options": [
+            "\\( a^5 \\)",
+            "\\( 5^a \\)",
+            "\\( 5a \\)",
+            "a+5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( a^5 \\). 'a' என்ற எண் 5 முறை தொடர்ந்து பெருக்கப்படுவதால், அதனை அடுக்கு வடிவில் \\( a^5 \\) என எழுதலாம்.",
+        "question_en": "\\( a \\times a \\times a \\times a \\times a \\) is equal to",
+        "options_en": [
+            "\\( a^5 \\)",
+            "\\( 5^a \\)",
+            "\\( 5a \\)",
+            "a+5"
+        ],
+        "explanation_en": "Correct answer option (1): \\( a^5 \\). Since the variable 'a' is multiplied by itself 5 times, it is written in exponential form as \\( a^5 \\)."
+    },
+    {
+        "id": 3,
+        "question": "\\( p^3q^2 \\) இன் விரிவுபடுத்தப்பட்ட வடிவம்",
+        "options": [
+            "\\( 3p \\times 2q \\)",
+            "\\( p \\times p \\times q \\times q \\times q \\)",
+            "p+p+p+q+q",
+            "\\( p \\times p \\times p \\times q \\times q \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( p \\times p \\times p \\times q \\times q \\). இங்கு p இன் அடுக்கு 3 (p மூன்று முறை பெருக்கப்படுகிறது) மற்றும் q இன் அடுக்கு 2 (q இரண்டு முறை பெருக்கப்படுகிறது).",
+        "question_en": "The expanded form of \\( p^3q^2 \\) is",
+        "options_en": [
+            "\\( 3p \\times 2q \\)",
+            "\\( p \\times p \\times q \\times q \\times q \\)",
+            "p+p+p+q+q",
+            "\\( p \\times p \\times p \\times q \\times q \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( p \\times p \\times p \\times q \\times q \\). Here, the power of p is 3 (p is multiplied 3 times) and the power of q is 2 (q is multiplied 2 times)."
+    },
+    {
+        "id": 4,
+        "question": "\\( a \\times 3 \\times a \\times 3 \\times 3 \\) என்பது எதற்குச் சமம்?",
+        "options": [
+            "\\( 3^2 \\times a^3 \\)",
+            "\\( a^2 \\times 3^2 \\)",
+            "\\( 3^3 \\times a^2 \\)",
+            "\\( a^3 \\times 3^3 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 3^3 \\times a^2 \\). கோவையில் 3 என்ற எண் 3 முறையும், 'a' என்ற மாறி 2 முறையும் பெருக்கப்படுகிறது. எனவே, விடை \\( 3^3 \\times a^2 \\).",
+        "question_en": "\\( a \\times 3 \\times a \\times 3 \\times 3 \\) is equal to",
+        "options_en": [
+            "\\( 3^2 \\times a^3 \\)",
+            "\\( a^2 \\times 3^2 \\)",
+            "\\( 3^3 \\times a^2 \\)",
+            "\\( a^3 \\times 3^3 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 3^3 \\times a^2 \\). The number 3 is multiplied 3 times, and the variable 'a' is multiplied 2 times. Hence it is \\( 3^3 \\times a^2 \\)."
+    },
+    {
+        "id": 5,
+        "question": "64 இன் அடுக்குக் குறியீடு",
+        "options": [
+            "\\( 4^4 \\)",
+            "\\( 2^6 \\)",
+            "\\( 8^2 \\)",
+            "\\( 2^3 \\times 3^2 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 2^6 \\). 64 ஐப் பகா காரணிப்படுத்தினால், \\( 64 = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 = 2^6 \\). (குறிப்பு: \\( 8^2 \\) என்பது சரியான மதிப்பு என்றாலும், விடைக்குறிப்பின்படி அடிப்படை பகா எண்ணான \\( 2^6 \\) விடையாகக் கொள்ளப்படுகிறது).",
+        "question_en": "The exponential form of 64 is",
+        "options_en": [
+            "\\( 4^4 \\)",
+            "\\( 2^6 \\)",
+            "\\( 8^2 \\)",
+            "\\( 2^3 \\times 3^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 2^6 \\). Prime factorizing 64 gives \\( 64 = 2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 = 2^6 \\). (Note: While \\( 8^2 \\) is also 64, prime base \\( 2^6 \\) is the standard answer per the key)."
+    },
+    {
+        "id": 6,
+        "question": "72 இன் அடுக்குக் குறியீடு",
+        "options": [
+            "\\( 7^2 \\)",
+            "\\( 2^7 \\)",
+            "\\( 2^2 \\times 3^3 \\)",
+            "\\( 2^3 \\times 3^2 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 2^3 \\times 3^2 \\). 72 ஐப் பகா காரணிப்படுத்தினால், \\( 72 = 8 \\times 9 = (2 \\times 2 \\times 2) \\times (3 \\times 3) = 2^3 \\times 3^2 \\).",
+        "question_en": "The exponential form of 72 is",
+        "options_en": [
+            "\\( 7^2 \\)",
+            "\\( 2^7 \\)",
+            "\\( 2^2 \\times 3^3 \\)",
+            "\\( 2^3 \\times 3^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 2^3 \\times 3^2 \\). Prime factorizing 72 gives \\( 72 = 8 \\times 9 = (2^3) \\times (3^2) \\)."
+    },
+    {
+        "id": 7,
+        "question": "பின்வருவனவற்றுள் எது 729 இன் அடுக்குக் குறியீடு வடிவம் இல்லை?",
+        "options": [
+            "\\( 27^2 \\)",
+            "\\( 3^5 \\)",
+            "\\( 9^3 \\)",
+            "\\( 3^6 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 3^5 \\). \\( 27^2 = 729 \\), \\( 9^3 = 729 \\), \\( 3^6 = 729 \\). ஆனால் \\( 3^5 = 243 \\) ஆகும். எனவே \\( 3^5 \\) என்பது 729 இன் வடிவம் அல்ல.",
+        "question_en": "Which of the following is NOT an exponential form of 729?",
+        "options_en": [
+            "\\( 27^2 \\)",
+            "\\( 3^5 \\)",
+            "\\( 9^3 \\)",
+            "\\( 3^6 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 3^5 \\). \\( 27^2 = 729 \\), \\( 9^3 = 729 \\), \\( 3^6 = 729 \\). But \\( 3^5 = 243 \\). Thus, \\( 3^5 \\) is not equal to 729."
+    },
+    {
+        "id": 8,
+        "question": "\\( 3^4 \\) இன் மதிப்பு",
+        "options": [
+            "27",
+            "243",
+            "81",
+            "64"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 81. \\( 3^4 = 3 \\times 3 \\times 3 \\times 3 = 81 \\).",
+        "question_en": "The value of \\( 3^4 \\) is",
+        "options_en": [
+            "27",
+            "243",
+            "81",
+            "64"
+        ],
+        "explanation_en": "Correct answer option (3): 81. \\( 3^4 = 3 \\times 3 \\times 3 \\times 3 = 81 \\)."
+    },
+    {
+        "id": 9,
+        "question": "\\( (-10)^4 \\) இன் மதிப்பு",
+        "options": [
+            "10000",
+            "100000",
+            "-10000",
+            "-100000"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 10000. குறை எண்ணின் அடுக்கு இரட்டைப்படை எண்ணாக இருந்தால் விடை மிகை எண்ணாக (Positive) வரும். \\( (-10)^4 = (-10) \\times (-10) \\times (-10) \\times (-10) = 10000 \\).",
+        "question_en": "The value of \\( (-10)^4 \\) is",
+        "options_en": [
+            "10000",
+            "100000",
+            "-10000",
+            "-100000"
+        ],
+        "explanation_en": "Correct answer option (1): 10000. A negative number raised to an even power results in a positive number. \\( (-10)^4 = 10000 \\)."
+    },
+    {
+        "id": 10,
+        "question": "\\( (-2)^5 \\) இன் மதிப்பு",
+        "options": [
+            "32",
+            "25",
+            "-64",
+            "-32"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): -32. குறை எண்ணின் அடுக்கு ஒற்றைப்படை எண்ணாக இருந்தால் விடை குறை எண்ணாக (Negative) வரும். \\( (-2)^5 = - (2 \\times 2 \\times 2 \\times 2 \\times 2) = -32 \\).",
+        "question_en": "The value of \\( (-2)^5 \\) is",
+        "options_en": [
+            "32",
+            "25",
+            "-64",
+            "-32"
+        ],
+        "explanation_en": "Correct answer option (4): -32. A negative number raised to an odd power results in a negative number. \\( (-2)^5 = -32 \\)."
+    },
+    {
+        "id": 11,
+        "question": "\\( -5^4 \\) இன் மதிப்பு",
+        "options": [
+            "625",
+            "-625",
+            "-125",
+            "125"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -625. இங்கு மைனஸ் (-) குறி அடைப்புக்குறிக்குள் இல்லை. எனவே இது \\( -(5 \\times 5 \\times 5 \\times 5) = -625 \\) ஆகும்.",
+        "question_en": "The value of \\( -5^4 \\) is",
+        "options_en": [
+            "625",
+            "-625",
+            "-125",
+            "125"
+        ],
+        "explanation_en": "Correct answer option (2): -625. Since the minus sign is outside any parentheses, the exponent only applies to 5. So, \\( -(5^4) = -625 \\)."
+    },
+    {
+        "id": 12,
+        "question": "\\( a^b=128 \\) எனில் a இன் மதிப்பு",
+        "options": [
+            "2",
+            "7",
+            "6",
+            "8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2. 128 ஐப் பகா காரணிப்படுத்தினால் \\( 2^7 = 128 \\). எனவே, அடிமானம் \\( a = 2 \\), அடுக்கு \\( b = 7 \\).",
+        "question_en": "If \\( a^b=128 \\), the value of a is",
+        "options_en": [
+            "2",
+            "7",
+            "6",
+            "8"
+        ],
+        "explanation_en": "Correct answer option (1): 2. Prime factorizing 128 gives \\( 2^7 = 128 \\). Comparing with \\( a^b \\), we get base \\( a = 2 \\)."
+    },
+    {
+        "id": 13,
+        "question": "\\( x^y=8 \\) எனில் \\( x+y \\) இன் மதிப்பு",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 5. 8 ஐ \\( 2^3 \\) என எழுதலாம். எனவே \\( x=2 \\) மற்றும் \\( y=3 \\). ஆகையால், \\( x+y = 2+3 = 5 \\).",
+        "question_en": "If \\( x^y=8 \\), the value of \\( x+y \\) is",
+        "options_en": [
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "explanation_en": "Correct answer option (3): 5. 8 can be expressed as \\( 2^3 \\). Thus, \\( x=2 \\) and \\( y=3 \\). The sum \\( x+y = 2+3 = 5 \\)."
+    },
+    {
+        "id": 14,
+        "question": "\\( 3^2+2^3 \\) இன் மதிப்பு",
+        "options": [
+            "31",
+            "13",
+            "17",
+            "35"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 17. \\( 3^2 = 9 \\) மற்றும் \\( 2^3 = 8 \\). இவற்றின் கூடுதல் \\( 9+8 = 17 \\).",
+        "question_en": "The value of \\( 3^2+2^3 \\) is",
+        "options_en": [
+            "31",
+            "13",
+            "17",
+            "35"
+        ],
+        "explanation_en": "Correct answer option (3): 17. \\( 3^2 = 9 \\) and \\( 2^3 = 8 \\). Their sum is \\( 9+8 = 17 \\)."
+    },
+    {
+        "id": 15,
+        "question": "\\( 3^4-4^3 \\) க்குச் சமமானது",
+        "options": [
+            "1",
+            "7",
+            "145",
+            "17"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 17. \\( 3^4 = 81 \\) மற்றும் \\( 4^3 = 64 \\). இவற்றின் வித்தியாசம் \\( 81-64 = 17 \\).",
+        "question_en": "\\( 3^4-4^3 \\) is equal to",
+        "options_en": [
+            "1",
+            "7",
+            "145",
+            "17"
+        ],
+        "explanation_en": "Correct answer option (4): 17. \\( 3^4 = 81 \\) and \\( 4^3 = 64 \\). The difference is \\( 81-64 = 17 \\)."
+    },
+    {
+        "id": 16,
+        "question": "\\( (-1)^6-4^3 \\) இன் மதிப்பு",
+        "options": [
+            "65",
+            "63",
+            "-63",
+            "-65"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -63. \\( (-1)^6 = 1 \\) (இரட்டைப்படை அடுக்கு). \\( 4^3 = 64 \\). எனவே \\( 1 - 64 = -63 \\).",
+        "question_en": "The value of \\( (-1)^6-4^3 \\) is",
+        "options_en": [
+            "65",
+            "63",
+            "-63",
+            "-65"
+        ],
+        "explanation_en": "Correct answer option (3): -63. \\( (-1)^6 = 1 \\) (since power is even) and \\( 4^3 = 64 \\). Thus, \\( 1 - 64 = -63 \\)."
+    },
+    {
+        "id": 17,
+        "question": "\\( 6^3+4^2-3^2 = \\)",
+        "options": [
+            "216",
+            "655",
+            "218",
+            "223"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 223. மதிப்புகளைக் கண்டுபிடித்தால்: \\( 6^3 = 216 \\), \\( 4^2 = 16 \\), \\( 3^2 = 9 \\). எனவே, \\( 216 + 16 - 9 = 232 - 9 = 223 \\).",
+        "question_en": "The value of \\( 6^3+4^2-3^2 \\) is",
+        "options_en": [
+            "216",
+            "655",
+            "218",
+            "223"
+        ],
+        "explanation_en": "Correct answer option (4): 223. Calculating the values: \\( 6^3 = 216 \\), \\( 4^2 = 16 \\), \\( 3^2 = 9 \\). So, \\( 216 + 16 - 9 = 232 - 9 = 223 \\)."
+    },
+    {
+        "id": 18,
+        "question": "\\( 2^2-3^3+5\\times4-2 \\) இன் மதிப்பு",
+        "options": [
+            "-5",
+            "-80",
+            "80",
+            "19"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): -5. BIDMAS விதியை பயன்படுத்தி சுருக்கினால்: \\( 4 - 27 + (5 \\times 4) - 2 = 4 - 27 + 20 - 2 \\). கூட்டல்: \\( 4 + 20 = 24 \\). கழித்தல்: \\( -27 - 2 = -29 \\). ஆக \\( 24 - 29 = -5 \\).",
+        "question_en": "The value of \\( 2^2-3^3+5\\times4-2 \\) is",
+        "options_en": [
+            "-5",
+            "-80",
+            "80",
+            "19"
+        ],
+        "explanation_en": "Correct answer option (1): -5. Using BIDMAS: \\( 4 - 27 + 20 - 2 \\). Combining positive and negative terms: \\( (4+20) - (27+2) = 24 - 29 = -5 \\)."
+    },
+    {
+        "id": 19,
+        "question": "கீழ்க்கண்டவற்றுள் எது பெரியது?",
+        "options": [
+            "\\( 4^3 \\)",
+            "\\( 3^4 \\)",
+            "\\( 2^5 \\)",
+            "\\( 1^8 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 3^4 \\). மதிப்புகளை ஒப்பிட்டால்: \\( 4^3 = 64 \\), \\( 3^4 = 81 \\), \\( 2^5 = 32 \\), \\( 1^8 = 1 \\). இவற்றில் 81 (அதாவது \\( 3^4 \\)) பெரியது.",
+        "question_en": "Which of the following is the greatest?",
+        "options_en": [
+            "\\( 4^3 \\)",
+            "\\( 3^4 \\)",
+            "\\( 2^5 \\)",
+            "\\( 1^8 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 3^4 \\). Evaluating the values: \\( 4^3 = 64 \\), \\( 3^4 = 81 \\), \\( 2^5 = 32 \\), \\( 1^8 = 1 \\). Here, 81 is the largest."
+    },
+    {
+        "id": 20,
+        "question": "\\( 5^4 \\) இக்குச் சமமானது?",
+        "options": [
+            "\\( 4^5 \\)",
+            "\\( 25^3 \\)",
+            "\\( 25^2 \\)",
+            "\\( 125^1 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 25^2 \\). \\( 5^4 = 5 \\times 5 \\times 5 \\times 5 = 625 \\). இதில் \\( 25^2 = 25 \\times 25 = 625 \\). எனவே இரண்டும் சமம்.",
+        "question_en": "\\( 5^4 \\) is equal to",
+        "options_en": [
+            "\\( 4^5 \\)",
+            "\\( 25^3 \\)",
+            "\\( 25^2 \\)",
+            "\\( 125^1 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 25^2 \\). \\( 5^4 = 625 \\). Checking the options, \\( 25^2 = 625 \\). Hence they are equal."
+    },
+    {
+        "id": 21,
+        "question": "a=3 மற்றும் b=2 எனில் \\( a^b+b^a \\) இன் மதிப்பு",
+        "options": [
+            "12",
+            "13",
+            "17",
+            "35"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 17. \\( a^b+b^a = 3^2 + 2^3 = 9 + 8 = 17 \\).",
+        "question_en": "If a=3 and b=2, the value of \\( a^b+b^a \\) is",
+        "options_en": [
+            "12",
+            "13",
+            "17",
+            "35"
+        ],
+        "explanation_en": "Correct answer option (3): 17. Substituting the values: \\( 3^2 + 2^3 = 9 + 8 = 17 \\)."
+    },
+    {
+        "id": 22,
+        "question": "a=3 மற்றும் b=2 எனில் \\( a^a-b^b \\) இன் மதிப்பு",
+        "options": [
+            "31",
+            "23",
+            "1",
+            "17"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 23. \\( a^a-b^b = 3^3 - 2^2 = 27 - 4 = 23 \\).",
+        "question_en": "If a=3 and b=2, the value of \\( a^a-b^b \\) is",
+        "options_en": [
+            "31",
+            "23",
+            "1",
+            "17"
+        ],
+        "explanation_en": "Correct answer option (2): 23. Substituting the values: \\( 3^3 - 2^2 = 27 - 4 = 23 \\)."
+    },
+    {
+        "id": 23,
+        "question": "a=3 மற்றும் b=2 எனில் \\( (a+b)^b \\) இன் மதிப்பு",
+        "options": [
+            "50",
+            "36",
+            "125",
+            "25"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 25. \\( (a+b)^b = (3+2)^2 = 5^2 = 25 \\).",
+        "question_en": "If a=3 and b=2, the value of \\( (a+b)^b \\) is",
+        "options_en": [
+            "50",
+            "36",
+            "125",
+            "25"
+        ],
+        "explanation_en": "Correct answer option (4): 25. Substituting the values: \\( (3+2)^2 = 5^2 = 25 \\)."
+    },
+    {
+        "id": 24,
+        "question": "a=3 மற்றும் b=2 எனில் \\( (a-b)^a \\) இன் மதிப்பு",
+        "options": [
+            "1",
+            "125",
+            "25",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1. \\( (a-b)^a = (3-2)^3 = 1^3 = 1 \\).",
+        "question_en": "If a=3 and b=2, the value of \\( (a-b)^a \\) is",
+        "options_en": [
+            "1",
+            "125",
+            "25",
+            "5"
+        ],
+        "explanation_en": "Correct answer option (1): 1. Substituting the values: \\( (3-2)^3 = 1^3 = 1 \\)."
+    },
+    {
+        "id": 25,
+        "question": "\\( y^4 \\times y^3 = \\)",
+        "options": [
+            "\\( y^{12} \\)",
+            "\\( (y^2)^{12} \\)",
+            "\\( y^7 \\)",
+            "\\( y^1 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( y^7 \\). அடுக்குகளின் பெருக்கல் விதிப்படி (Product Rule), அடிமானங்கள் சமமாக இருந்தால் அடுக்குகளை கூட்ட வேண்டும். எனவே, \\( y^{4+3} = y^7 \\).",
+        "question_en": "\\( y^4 \\times y^3 = \\)",
+        "options_en": [
+            "\\( y^{12} \\)",
+            "\\( (y^2)^{12} \\)",
+            "\\( y^7 \\)",
+            "\\( y^1 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( y^7 \\). According to the product rule of exponents, when bases are same, powers should be added. \\( y^{4+3} = y^7 \\)."
+    },
+    {
+        "id": 26,
+        "question": "\\( 2^6 \\div 2^3 = \\)",
+        "options": [
+            "\\( 2^2 \\)",
+            "\\( 2^3 \\)",
+            "\\( 2^9 \\)",
+            "\\( 1^2 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 2^3 \\). அடுக்குகளின் வகுத்தல் விதிப்படி (Quotient Rule), அடிமானங்கள் சமமாக இருந்தால் அடுக்குகளை கழிக்க வேண்டும். எனவே, \\( 2^{6-3} = 2^3 \\).",
+        "question_en": "\\( 2^6 \\div 2^3 = \\)",
+        "options_en": [
+            "\\( 2^2 \\)",
+            "\\( 2^3 \\)",
+            "\\( 2^9 \\)",
+            "\\( 1^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 2^3 \\). By the quotient rule of exponents, \\( a^m \\div a^n = a^{m-n} \\). So, \\( 2^{6-3} = 2^3 \\)."
+    },
+    {
+        "id": 27,
+        "question": "\\( [3^6]^2 = \\)",
+        "options": [
+            "\\( 3^{12} \\)",
+            "\\( 3^{36} \\)",
+            "\\( 3^8 \\)",
+            "\\( 3^3 \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 3^{12} \\). அடுக்கின் அடுக்கு விதிப்படி (Power Rule), \\( (a^m)^n = a^{m \\times n} \\). எனவே, \\( 3^{6 \\times 2} = 3^{12} \\).",
+        "question_en": "\\( [3^6]^2 = \\)",
+        "options_en": [
+            "\\( 3^{12} \\)",
+            "\\( 3^{36} \\)",
+            "\\( 3^8 \\)",
+            "\\( 3^3 \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 3^{12} \\). By the power rule of exponents, \\( (a^m)^n = a^{m \\times n} \\). Thus, \\( 3^{6 \\times 2} = 3^{12} \\)."
+    },
+    {
+        "id": 28,
+        "question": "\\( 8^3 \\times 2^3 = \\)",
+        "options": [
+            "\\( 10^3 \\)",
+            "\\( 16^6 \\)",
+            "\\( 16^9 \\)",
+            "\\( 16^3 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 16^3 \\). அடுக்குகள் சமமாக இருக்கும்போது அடிமானங்களைப் பெருக்கலாம்: \\( a^m \\times b^m = (a \\times b)^m \\). எனவே, \\( (8 \\times 2)^3 = 16^3 \\).",
+        "question_en": "\\( 8^3 \\times 2^3 = \\)",
+        "options_en": [
+            "\\( 10^3 \\)",
+            "\\( 16^6 \\)",
+            "\\( 16^9 \\)",
+            "\\( 16^3 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 16^3 \\). When exponents are the same, bases can be multiplied: \\( a^m \\times b^m = (ab)^m \\). So, \\( (8 \\times 2)^3 = 16^3 \\)."
+    },
+    {
+        "id": 29,
+        "question": "\\( (-8)^3 \\div (-8)^8 \\) க்குச் சமமானது",
+        "options": [
+            "\\( 8^5 \\)",
+            "\\( 8^{-5} \\)",
+            "\\( (-8)^5 \\)",
+            "\\( (-8)^{-5} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( (-8)^{-5} \\). வகுத்தல் விதிப்படி: \\( (-8)^{3-8} = (-8)^{-5} \\).",
+        "question_en": "\\( (-8)^3 \\div (-8)^8 \\) is equal to",
+        "options_en": [
+            "\\( 8^5 \\)",
+            "\\( 8^{-5} \\)",
+            "\\( (-8)^5 \\)",
+            "\\( (-8)^{-5} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( (-8)^{-5} \\). Using the quotient rule: \\( (-8)^{3-8} = (-8)^{-5} \\)."
+    },
+    {
+        "id": 30,
+        "question": "\\( 6^3 \\div (-2)^3 \\) இன் மதிப்பு",
+        "options": [
+            "\\( (-3)^3 \\)",
+            "\\( 3^3 \\)",
+            "\\( 4^3 \\)",
+            "\\( (-12)^3 \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( (-3)^3 \\). அடுக்குகள் சமமாக இருக்கும்போது அடிமானங்களை வகுக்கலாம்: \\( \\frac{a^m}{b^m} = (\\frac{a}{b})^m \\). எனவே, \\( (\\frac{6}{-2})^3 = (-3)^3 \\).",
+        "question_en": "The value of \\( 6^3 \\div (-2)^3 \\) is",
+        "options_en": [
+            "\\( (-3)^3 \\)",
+            "\\( 3^3 \\)",
+            "\\( 4^3 \\)",
+            "\\( (-12)^3 \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( (-3)^3 \\). Since the exponents are equal, we divide the bases: \\( (\\frac{6}{-2})^3 = (-3)^3 \\)."
+    },
+    {
+        "id": 31,
+        "question": "\\( p^0 \\) க்குச் சமமானது",
+        "options": [
+            "0",
+            "1",
+            "-1",
+            "p"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1. பூச்சியமற்ற எந்தவொரு எண்ணின் அடுக்கும் பூச்சியமாக இருந்தால், அதன் மதிப்பு 1 ஆகும் (\\( a^0 = 1 \\)).",
+        "question_en": "\\( p^0 \\) is equal to",
+        "options_en": [
+            "0",
+            "1",
+            "-1",
+            "p"
+        ],
+        "explanation_en": "Correct answer option (2): 1. Any non-zero number raised to the power of 0 equals 1 (\\( a^0 = 1 \\))."
+    },
+    {
+        "id": 32,
+        "question": "\\( (14 \\times 21)^0 \\) இன் மதிப்பு",
+        "options": [
+            "0",
+            "294",
+            "1",
+            "35"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1. அடைப்புக்குறிக்குள் உள்ள எண்ணின் மதிப்பு எதுவாக இருந்தாலும், மொத்த அடுக்கு பூச்சியம் (0) என்பதால் விடை 1 ஆகும்.",
+        "question_en": "The value of \\( (14 \\times 21)^0 \\) is",
+        "options_en": [
+            "0",
+            "294",
+            "1",
+            "35"
+        ],
+        "explanation_en": "Correct answer option (3): 1. Whatever the value inside the parenthesis is, since the overall power is 0, the result is 1."
+    },
+    {
+        "id": 33,
+        "question": "\\( (34 \\times 16+18-24)^0 \\) இன் மதிப்பு",
+        "options": [
+            "538",
+            "0",
+            "-1",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1. அடுக்கு விதிப்படி, சுழியற்ற எண்களின் 0 அடுக்கு எப்போதும் 1 ஐக் கொடுக்கும்.",
+        "question_en": "The value of \\( (34 \\times 16+18-24)^0 \\) is",
+        "options_en": [
+            "538",
+            "0",
+            "-1",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (4): 1. Based on the rule of exponents, any non-zero value to the power of 0 is always 1."
+    },
+    {
+        "id": 34,
+        "question": "\\( 8^3 \\times 8^2 \\times 8^{-5} \\) இன் மதிப்பு",
+        "options": [
+            "0",
+            "1",
+            "8",
+            "இவற்றில் எதுவுமில்லை"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1. அடுக்குகளின் பெருக்கல் விதிப்படி: \\( 8^{3+2-5} = 8^0 = 1 \\).",
+        "question_en": "The value of \\( 8^3 \\times 8^2 \\times 8^{-5} \\) is",
+        "options_en": [
+            "0",
+            "1",
+            "8",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (2): 1. Applying the product rule: \\( 8^{3+2-5} = 8^0 = 1 \\)."
+    },
+    {
+        "id": 35,
+        "question": "\\( 4^2 \\times 4^3 \\times 4^m=4^9 \\) எனில் m இன் மதிப்பு",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "3"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 4. அடிமானங்கள் சமம் எனவே அடுக்குகளை கூட்டலாம்: \\( 4^{2+3+m} = 4^9 \\). அதாவது \\( 5+m = 9 \\). எனவே \\( m=4 \\).",
+        "question_en": "If \\( 4^2 \\times 4^3 \\times 4^m=4^9 \\), the value of m is",
+        "options_en": [
+            "5",
+            "6",
+            "4",
+            "3"
+        ],
+        "explanation_en": "Correct answer option (3): 4. Summing the exponents on the left: \\( 2+3+m = 9 \\). Thus, \\( 5+m = 9 \\) which gives \\( m=4 \\)."
+    },
+    {
+        "id": 36,
+        "question": "\\( 5^m \\div 5^{-3}=5^5 \\) எனில் m இன் மதிப்பு",
+        "options": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2. வகுத்தல் விதிப்படி, \\( 5^{m - (-3)} = 5^5 \\). அதாவது \\( m+3 = 5 \\). எனவே \\( m=2 \\).",
+        "question_en": "If \\( 5^m \\div 5^{-3}=5^5 \\), the value of m is",
+        "options_en": [
+            "3",
+            "1",
+            "2",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (3): 2. Using the quotient rule, \\( 5^{m - (-3)} = 5^5 \\). Therefore \\( m+3 = 5 \\), which gives \\( m=2 \\)."
+    },
+    {
+        "id": 37,
+        "question": "\\( a^{13}=x^3 \\times a^{10} \\) என்னும் சமன்பாட்டை நிறைவு செய்யும் x இன் மதிப்பு",
+        "options": [
+            "a",
+            "13",
+            "3",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): a. சமன்பாட்டை சுருக்கினால்: \\( x^3 = \\frac{a^{13}}{a^{10}} = a^3 \\). ஆகவே \\( x = a \\).",
+        "question_en": "The value of x that satisfies the equation \\( a^{13}=x^3 \\times a^{10} \\) is",
+        "options_en": [
+            "a",
+            "13",
+            "3",
+            "10"
+        ],
+        "explanation_en": "Correct answer option (1): a. Solving for \\( x^3 \\), we get \\( x^3 = \\frac{a^{13}}{a^{10}} = a^3 \\). Thus, \\( x = a \\)."
+    },
+    {
+        "id": 38,
+        "question": "\\( (5^0 \\times 5^2 \\times 5^3) \\) இன் மதிப்பு",
+        "options": [
+            "\\( 5^4 \\)",
+            "\\( 5^{11} \\)",
+            "\\( 5^5 \\)",
+            "\\( 5^9 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 5^5 \\). பெருக்கல் விதிப்படி அடுக்குகளை கூட்ட வேண்டும்: \\( 5^{0+2+3} = 5^5 \\).",
+        "question_en": "The value of \\( (5^0 \\times 5^2 \\times 5^3) \\) is",
+        "options_en": [
+            "\\( 5^4 \\)",
+            "\\( 5^{11} \\)",
+            "\\( 5^5 \\)",
+            "\\( 5^9 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 5^5 \\). Using the product rule, add the exponents: \\( 5^{0+2+3} = 5^5 \\)."
+    },
+    {
+        "id": 39,
+        "question": "பின்வரும் கூற்றுகளில் எது சரியானது? \n(i) \\( 2^3 \\times 3^2=6^5 \\) \n(ii) \\( 2^9 \\times 3^2=(2 \\times 3)^{9 \\times 2} \\) \n(iii) \\( 2^0=(1000)^0 \\) \n(iv) \\( 2^3 < 3^2 \\)",
+        "options": [
+            "(i), (iii)",
+            "(ii), (iii)",
+            "(iii), (iv)",
+            "(ii), (iv)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): (iii), (iv). கூற்று (iii) சரி, ஏனெனில் \\( 2^0 = 1 \\) மற்றும் \\( 1000^0 = 1 \\). கூற்று (iv) சரி, ஏனெனில் \\( 2^3 = 8 \\) மற்றும் \\( 3^2 = 9 \\), ஆகையால் \\( 8 < 9 \\) சரியானது.",
+        "question_en": "Which of the following statements is correct? \n(i) \\( 2^3 \\times 3^2=6^5 \\) \n(ii) \\( 2^9 \\times 3^2=(2 \\times 3)^{9 \\times 2} \\) \n(iii) \\( 2^0=(1000)^0 \\) \n(iv) \\( 2^3 < 3^2 \\)",
+        "options_en": [
+            "(i), (iii)",
+            "(ii), (iii)",
+            "(iii), (iv)",
+            "(ii), (iv)"
+        ],
+        "explanation_en": "Correct answer option (3): (iii), (iv). Statement (iii) is true since \\( 2^0 = 1 \\) and \\( 1000^0 = 1 \\). Statement (iv) is true since \\( 2^3 = 8 \\) and \\( 3^2 = 9 \\), and \\( 8 < 9 \\)."
+    },
+    {
+        "id": 40,
+        "question": "\\( 2^5+2^5 \\) என்பது எதற்குச் சமம்?",
+        "options": [
+            "\\( 4^5 \\)",
+            "\\( 2^{10} \\)",
+            "\\( 2^6 \\)",
+            "\\( 4^{10} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 2^6 \\). \\( 2^5+2^5 \\) என்பதை \\( 2 \\times 2^5 \\) என எழுதலாம். அடுக்கு விதிப்படி இது \\( 2^{1+5} = 2^6 \\) ஆகும்.",
+        "question_en": "\\( 2^5+2^5 \\) is equal to",
+        "options_en": [
+            "\\( 4^5 \\)",
+            "\\( 2^{10} \\)",
+            "\\( 2^6 \\)",
+            "\\( 4^{10} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 2^6 \\). \\( 2^5+2^5 \\) is equal to adding two identical terms, meaning \\( 2 \\times 2^5 \\). Applying the power rule yields \\( 2^{1+5} = 2^6 \\)."
+    },
+    {
+        "id": 41,
+        "question": "\\( 2^{40}+2^{40} = \\)",
+        "options": [
+            "\\( 4^{40} \\)",
+            "\\( 2^{80} \\)",
+            "\\( 2^{41} \\)",
+            "\\( 4^{80} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 2^{41} \\). \\( 2^{40} + 2^{40} \\) என்பதை \\( 2 \\times 2^{40} \\) என எழுதலாம். அடுக்கு விதிப்படி இது \\( 2^{1+40} = 2^{41} \\) ஆகும்.",
+        "question_en": "\\( 2^{40}+2^{40} = \\)",
+        "options_en": [
+            "\\( 4^{40} \\)",
+            "\\( 2^{80} \\)",
+            "\\( 2^{41} \\)",
+            "\\( 4^{80} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 2^{41} \\). \\( 2^{40} + 2^{40} \\) can be written as \\( 2 \\times 2^{40} \\). By power rules, it is \\( 2^{1+40} = 2^{41} \\)."
+    },
+    {
+        "id": 42,
+        "question": "\\( 2^{50}+2^{50}+2^{50}+2^{50} = \\)",
+        "options": [
+            "\\( 2^{54} \\)",
+            "\\( 2^{52} \\)",
+            "\\( 2^{100} \\)",
+            "\\( 2^{200} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 2^{52} \\). நான்கு முறை கூட்டுவதால் இதை \\( 4 \\times 2^{50} \\) எனலாம். \\( 4 = 2^2 \\), எனவே \\( 2^2 \\times 2^{50} = 2^{52} \\).",
+        "question_en": "\\( 2^{50}+2^{50}+2^{50}+2^{50} = \\)",
+        "options_en": [
+            "\\( 2^{54} \\)",
+            "\\( 2^{52} \\)",
+            "\\( 2^{100} \\)",
+            "\\( 2^{200} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 2^{52} \\). Since it is added 4 times, it is \\( 4 \\times 2^{50} \\). As \\( 4 = 2^2 \\), it becomes \\( 2^2 \\times 2^{50} = 2^{52} \\)."
+    },
+    {
+        "id": 43,
+        "question": "\\( 2^{7}\\times(2^{6}+2^{6}) \\) இன் அடுக்குக்குறி வடிவம்",
+        "options": [
+            "\\( 2^{10} \\)",
+            "\\( 2^{13} \\)",
+            "\\( 2^{14} \\)",
+            "\\( 8^{14} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 2^{14} \\). அடைப்புக்குறிக்குள் \\( 2^6+2^6 = 2 \\times 2^6 = 2^7 \\). எனவே, \\( 2^7 \\times 2^7 = 2^{14} \\).",
+        "question_en": "The exponential form of \\( 2^{7}\\times(2^{6}+2^{6}) \\) is",
+        "options_en": [
+            "\\( 2^{10} \\)",
+            "\\( 2^{13} \\)",
+            "\\( 2^{14} \\)",
+            "\\( 8^{14} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 2^{14} \\). Inside the bracket, \\( 2^6+2^6 = 2 \\times 2^6 = 2^7 \\). Hence, \\( 2^7 \\times 2^7 = 2^{14} \\)."
+    },
+    {
+        "id": 44,
+        "question": "\\( p=q \\) எனில் \\( p^{a}\\times q^{b} \\) இன் மதிப்பு",
+        "options": [
+            "\\( a^{p+q} \\)",
+            "\\( b^{p+q} \\)",
+            "\\( p^{a+b} \\)",
+            "\\( q^{ab} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( p^{a+b} \\). q க்கு பதிலாக p ஐப் பிரதியிட்டால் \\( p^a \\times p^b = p^{a+b} \\).",
+        "question_en": "If \\( p=q \\), the value of \\( p^{a}\\times q^{b} \\) is",
+        "options_en": [
+            "\\( a^{p+q} \\)",
+            "\\( b^{p+q} \\)",
+            "\\( p^{a+b} \\)",
+            "\\( q^{ab} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( p^{a+b} \\). Substituting p for q, we get \\( p^a \\times p^b = p^{a+b} \\)."
+    },
+    {
+        "id": 45,
+        "question": "\\( (-2)^{3}\\times(-10)^{3} \\) இன் மதிப்பு",
+        "options": [
+            "\\( 20^{6} \\)",
+            "\\( -20^{3} \\)",
+            "-8000",
+            "8000"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 8000. அடுக்குகள் சமமாக இருப்பதால், அடிமானங்களைப் பெருக்கலாம்: \\( (-2 \\times -10)^3 = 20^3 = 8000 \\).",
+        "question_en": "The value of \\( (-2)^{3}\\times(-10)^{3} \\) is",
+        "options_en": [
+            "\\( 20^{6} \\)",
+            "\\( -20^{3} \\)",
+            "-8000",
+            "8000"
+        ],
+        "explanation_en": "Correct answer option (4): 8000. Since exponents are equal, bases can be multiplied: \\( (-2 \\times -10)^3 = 20^3 = 8000 \\)."
+    },
+    {
+        "id": 46,
+        "question": "பொருத்துக: (i) \\( (100^{4})^{2} \\) (ii) \\( 100^{30}\\times100^{14} \\) (iii) \\( \\frac{100^{52}}{100^{49}} \\) (iv) \\( (2\\times50)^{15} \\) \n(a) \\( 100^{3} \\) (b) \\( 50^{15}\\times2^{15} \\) (c) \\( 100^{44} \\) (d) \\( 100^{8} \\)",
+        "options": [
+            "i-b, ii-c, iii-a, iv-d",
+            "i-d, ii-c, iii-a, iv-b",
+            "i-d, ii-a, iii-c, iv-b",
+            "i-d, ii-b, iii-a, iv-c"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): i-d, ii-c, iii-a, iv-b. \n(i) \\( 100^{4 \\times 2} = 100^8 \\) (d).\n(ii) \\( 100^{30+14} = 100^{44} \\) (c).\n(iii) \\( 100^{52-49} = 100^3 \\) (a).\n(iv) \\( 100^{15} = 2^{15} \\times 50^{15} \\) (b).",
+        "question_en": "Match the following: (i) \\( (100^{4})^{2} \\) (ii) \\( 100^{30}\\times100^{14} \\) (iii) \\( \\frac{100^{52}}{100^{49}} \\) (iv) \\( (2\\times50)^{15} \\) \n(a) \\( 100^{3} \\) (b) \\( 50^{15}\\times2^{15} \\) (c) \\( 100^{44} \\) (d) \\( 100^{8} \\)",
+        "options_en": [
+            "i-b, ii-c, iii-a, iv-d",
+            "i-d, ii-c, iii-a, iv-b",
+            "i-d, ii-a, iii-c, iv-b",
+            "i-d, ii-b, iii-a, iv-c"
+        ],
+        "explanation_en": "Correct answer option (2): i-d, ii-c, iii-a, iv-b. \n(i) \\( (100^4)^2 = 100^8 \\) (d).\n(ii) \\( 100^{30} \\times 100^{14} = 100^{44} \\) (c).\n(iii) \\( 100^{52}/100^{49} = 100^3 \\) (a).\n(iv) \\( (2\\times50)^{15} = 100^{15} = 2^{15} \\times 50^{15} \\) (b)."
+    },
+    {
+        "id": 47,
+        "question": "பொருத்துக: (i) \\( 3^{6}\\times3^{5} \\) (ii) \\( \\frac{3^{6}}{3^2} \\) (iii) \\( (3\\times3)^{3} \\) (iv) \\( (3^{16})^{15} \\) \n(a) \\( 3^{4} \\) (b) \\( 3^{240} \\) (c) \\( 3^{11} \\) (d) \\( 3^{3}\\times3^{3} \\)",
+        "options": [
+            "i-c, ii-d, iii-b, iv-a",
+            "i-d, ii-c, iii-a, iv-b",
+            "i-c, ii-a, iii-d, iv-b",
+            "i-c, ii-b, iii-d, iv-a"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): i-c, ii-a, iii-d, iv-b.\n(i) \\( 3^{6+5} = 3^{11} \\) (c).\n(ii) \\( 3^{6-2} = 3^4 \\) (a).\n(iii) \\( (3\\times3)^3 = 3^3 \\times 3^3 \\) (d).\n(iv) \\( 3^{16 \\times 15} = 3^{240} \\) (b).",
+        "question_en": "Match the following: (i) \\( 3^{6}\\times3^{5} \\) (ii) \\( \\frac{3^{6}}{3^2} \\) (iii) \\( (3\\times3)^{3} \\) (iv) \\( (3^{16})^{15} \\) \n(a) \\( 3^{4} \\) (b) \\( 3^{240} \\) (c) \\( 3^{11} \\) (d) \\( 3^{3}\\times3^{3} \\)",
+        "options_en": [
+            "i-c, ii-d, iii-b, iv-a",
+            "i-d, ii-c, iii-a, iv-b",
+            "i-c, ii-a, iii-d, iv-b",
+            "i-c, ii-b, iii-d, iv-a"
+        ],
+        "explanation_en": "Correct answer option (3): i-c, ii-a, iii-d, iv-b.\n(i) \\( 3^{6+5} = 3^{11} \\) (c).\n(ii) \\( 3^{6-2} = 3^4 \\) (a).\n(iii) \\( (3\\times3)^3 = 3^3 \\times 3^3 \\) (d).\n(iv) \\( 3^{16 \\times 15} = 3^{240} \\) (b)."
+    },
+    {
+        "id": 48,
+        "question": "பின்வரும் கூற்றுகளில் எது சரியானது?\n(a) \\( (-1)^{n}=-1 \\), n ஓர் இரட்டை எண்\n(b) \\( 2^{10} \\) இல் பாதி \\( 2^9 \\)\n(c) \\( 3^{4}\\times3^{7}=3^{11} \\)\n(d) பண்டைய தமிழர்கள் 100 கோடியை \"அற்புதம்\" என்று பெயரிட்டு பயன்படுத்தினர்.",
+        "options": [
+            "b, c, d",
+            "a, b, c",
+            "b மட்டும்",
+            "a, b, c, d"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): b மட்டும் (குறிப்பு: விடைக்குறிப்பின்படி). (a) தவறு, n இரட்டை எண் எனில் விடை +1. (b) சரி, \\( 2^{10} \\div 2 = 2^9 \\). (c) சரி, \\( 3^{11} \\) ஆகும். (d) தவறு, 10 கோடியை அற்புதம் என்றனர்.",
+        "question_en": "Which of the following statements is correct?\n(a) \\( (-1)^{n}=-1 \\), n is an even number\n(b) Half of \\( 2^{10} \\) is \\( 2^9 \\)\n(c) \\( 3^{4}\\times3^{7}=3^{11} \\)\n(d) Ancient Tamils used the word \"Arputham\" to denote 100 crores.",
+        "options_en": [
+            "b, c, d",
+            "a, b, c",
+            "Only b",
+            "a, b, c, d"
+        ],
+        "explanation_en": "Correct answer option (3): Only b (as per answer key). (a) is False, if n is even it is +1. (b) is True, \\( 2^{10} / 2 = 2^9 \\). (c) is True, it is \\( 3^{11} \\). (d) is False, 10 crores was called Arputham."
+    },
+    {
+        "id": 49,
+        "question": "கீழ்க்காணும் கூற்றுகளில் எது தவறானது?\n(a) \\( (-1)^{n}=1 \\), n ஒற்றை எண்\n(b) \\( 3^{4}>4^{3} \\)\n(c) \\( a^{3}b^{2}=a^{2}b^{3} \\)\n(d) \\( (x^{m})^{0}=x^{m} \\)",
+        "options": [
+            "a, d",
+            "b, d",
+            "a, b",
+            "a, c, d"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): a, c, d தவறானவை. (a) n ஒற்றை எண் எனில் \\( (-1)^n = -1 \\). (c) உறுப்புகள் சமமல்ல. (d) சுழியற்ற எண்ணின் 0 அடுக்கு 1 ஆகும். (b) மட்டுமே சரி (81 > 64).",
+        "question_en": "Which of the following statements are incorrect?\n(a) \\( (-1)^{n}=1 \\), n is an odd number\n(b) \\( 3^{4}>4^{3} \\)\n(c) \\( a^{3}b^{2}=a^{2}b^{3} \\)\n(d) \\( (x^{m})^{0}=x^{m} \\)",
+        "options_en": [
+            "a, d",
+            "b, d",
+            "a, b",
+            "a, c, d"
+        ],
+        "explanation_en": "Correct answer option (4): a, c, d. (a) If n is odd, \\( (-1)^n = -1 \\). (c) The terms are not equal. (d) Any non-zero base to the power 0 is 1. Only (b) is true (81 > 64)."
+    },
+    {
+        "id": 50,
+        "question": "\\( 3x+y=3 \\) எனில் \\( 6x+2y = \\)",
+        "options": [
+            "5",
+            "6",
+            "8",
+            "10"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 6. கொடுக்கப்பட்ட சமன்பாட்டை 2 ஆல் பெருக்கினால், \\( 2(3x+y) = 2(3) \\Rightarrow 6x+2y = 6 \\).",
+        "question_en": "If \\( 3x+y=3 \\), then \\( 6x+2y = \\)",
+        "options_en": [
+            "5",
+            "6",
+            "8",
+            "10"
+        ],
+        "explanation_en": "Correct answer option (2): 6. Multiplying the given equation by 2 gives \\( 2(3x+y) = 2(3) \\Rightarrow 6x+2y = 6 \\)."
+    },
+    {
+        "id": 51,
+        "question": "'x' ன் எம்மதிப்பிற்கு \\( (3x-4) \\) மற்றும் \\( (2x+1) \\) என்ற கோவைகள் சமமாகும்?",
+        "options": [
+            "-3",
+            "0",
+            "5",
+            "1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 5. \\( 3x-4 = 2x+1 \\Rightarrow 3x - 2x = 1 + 4 \\Rightarrow x = 5 \\).",
+        "question_en": "For what value of 'x' are the expressions \\( (3x-4) \\) and \\( (2x+1) \\) equal?",
+        "options_en": [
+            "-3",
+            "0",
+            "5",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (3): 5. Solving \\( 3x-4 = 2x+1 \\Rightarrow 3x - 2x = 1 + 4 \\Rightarrow x = 5 \\)."
+    },
+    {
+        "id": 52,
+        "question": "\\( -\\frac{4}{3}y=-\\frac{3}{4} \\) எனில் y =",
+        "options": [
+            "\\( (\\frac{3}{4})^{-2} \\)",
+            "\\( \\frac{9}{16} \\)",
+            "\\( \\frac{16}{9} \\)",
+            "\\( (\\frac{4}{3})^2 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\frac{9}{16} \\). \\( y = (-\\frac{3}{4}) \\div (-\\frac{4}{3}) = (-\\frac{3}{4}) \\times (-\\frac{3}{4}) = \\frac{9}{16} \\).",
+        "question_en": "If \\( -\\frac{4}{3}y=-\\frac{3}{4} \\), then y =",
+        "options_en": [
+            "\\( (\\frac{3}{4})^{-2} \\)",
+            "\\( \\frac{9}{16} \\)",
+            "\\( \\frac{16}{9} \\)",
+            "\\( (\\frac{4}{3})^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\frac{9}{16} \\). Solving for y gives \\( y = (-\\frac{3}{4}) \\times (-\\frac{3}{4}) = \\frac{9}{16} \\)."
+    },
+    {
+        "id": 53,
+        "question": "\\( 100^{10} \\) இல் உள்ள பூச்சியங்களின் எண்ணிக்கை யாது?",
+        "options": [
+            "2",
+            "3",
+            "10",
+            "20"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 20. \\( 100 = 10^2 \\). எனவே \\( 100^{10} = (10^2)^{10} = 10^{20} \\). ஆகையால் 20 பூச்சியங்கள் உள்ளன.",
+        "question_en": "What is the number of zeros in \\( 100^{10} \\)?",
+        "options_en": [
+            "2",
+            "3",
+            "10",
+            "20"
+        ],
+        "explanation_en": "Correct answer option (4): 20. \\( 100 = 10^2 \\). So, \\( 100^{10} = (10^2)^{10} = 10^{20} \\). It contains 20 zeros."
+    },
+    {
+        "id": 54,
+        "question": "\\( (3\\times5)^{4}(2\\times7)^{5}(10)^{2} \\) இன் மொத்த பகாக் காரணிகளின் எண்ணிக்கை",
+        "options": [
+            "11",
+            "20",
+            "22",
+            "18"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 22. பகா காரணியாக்கினால்: \\( 3^4 \\times 5^4 \\times 2^5 \\times 7^5 \\times (2 \\times 5)^2 = 2^7 \\times 3^4 \\times 5^6 \\times 7^5 \\). மொத்த அடுக்குகள் = \\( 7+4+6+5 = 22 \\).",
+        "question_en": "The total number of prime factors in \\( (3\\times5)^{4}(2\\times7)^{5}(10)^{2} \\) is",
+        "options_en": [
+            "11",
+            "20",
+            "22",
+            "18"
+        ],
+        "explanation_en": "Correct answer option (3): 22. Prime factorizing gives: \\( 2^7 \\times 3^4 \\times 5^6 \\times 7^5 \\). The sum of exponents is \\( 7+4+6+5 = 22 \\)."
+    },
+    {
+        "id": 55,
+        "question": "\\( [\\{(-\\frac{1}{2})^{2}\\}^{-2}]^{-1} \\) க்குச் சமமானது",
+        "options": [
+            "\\( \\frac{1}{16} \\)",
+            "16",
+            "\\( \\frac{-1}{16} \\)",
+            "-16"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( \\frac{1}{16} \\). அடுக்குகளைப் பெருக்கினால்: \\( 2 \\times (-2) \\times (-1) = 4 \\). எனவே \\( (-\\frac{1}{2})^4 = \\frac{1}{16} \\).",
+        "question_en": "\\( [\\{(-\\frac{1}{2})^{2}\\}^{-2}]^{-1} \\) is equal to",
+        "options_en": [
+            "\\( \\frac{1}{16} \\)",
+            "16",
+            "\\( \\frac{-1}{16} \\)",
+            "-16"
+        ],
+        "explanation_en": "Correct answer option (1): \\( \\frac{1}{16} \\). Multiplying the powers gives \\( 2 \\times (-2) \\times (-1) = 4 \\). So, \\( (-\\frac{1}{2})^4 = \\frac{1}{16} \\)."
+    },
+    {
+        "id": 56,
+        "question": "\\( \\frac{a^{b}}{a^{c}}\\times\\frac{a^{c}}{a^{d}}\\times\\frac{a^{d}}{a^{b}} \\) இன் சுருக்கிய வடிவம்",
+        "options": [
+            "\\( a^{b+c+d} \\)",
+            "\\( a^{bcd} \\)",
+            "1",
+            "0"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1. \\( a^{b-c} \\times a^{c-d} \\times a^{d-b} = a^{(b-c) + (c-d) + (d-b)} = a^0 = 1 \\).",
+        "question_en": "The simplified form of \\( \\frac{a^{b}}{a^{c}}\\times\\frac{a^{c}}{a^{d}}\\times\\frac{a^{d}}{a^{b}} \\) is",
+        "options_en": [
+            "\\( a^{b+c+d} \\)",
+            "\\( a^{bcd} \\)",
+            "1",
+            "0"
+        ],
+        "explanation_en": "Correct answer option (3): 1. \\( a^{b-c} \\times a^{c-d} \\times a^{d-b} = a^{(b-c) + (c-d) + (d-b)} = a^0 = 1 \\)."
+    },
+    {
+        "id": 57,
+        "question": "\\( (\\frac{a^{p}}{a^{m}})^{n}\\times(\\frac{a^{m}}{a^{n}})^{p}\\times(\\frac{a^{n}}{a^{p}})^{m} \\) ஐச் சுருக்கக் கிடைப்பது",
+        "options": [
+            "1",
+            "\\( a^{mnp} \\)",
+            "\\( a^{m+n+p} \\)",
+            "\\( a^{m(n+p)} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1. \\( a^{(p-m)n} \\times a^{(m-n)p} \\times a^{(n-p)m} = a^{pn-mn + mp-np + nm-pm} = a^0 = 1 \\).",
+        "question_en": "Simplifying \\( (\\frac{a^{p}}{a^{m}})^{n}\\times(\\frac{a^{m}}{a^{n}})^{p}\\times(\\frac{a^{n}}{a^{p}})^{m} \\) gives",
+        "options_en": [
+            "1",
+            "\\( a^{mnp} \\)",
+            "\\( a^{m+n+p} \\)",
+            "\\( a^{m(n+p)} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): 1. The sum of all exponents becomes zero. Thus, \\( a^0 = 1 \\)."
+    },
+    {
+        "id": 58,
+        "question": "\\( \\frac{(27)^{5}(-1)^{1771}}{(9)^{7}} \\)",
+        "options": [
+            "3",
+            "-3",
+            "279",
+            "\\( \\frac{-1}{81} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -3. \\( 27^5 = (3^3)^5 = 3^{15} \\). \\( 9^7 = (3^2)^7 = 3^{14} \\). \\( (-1)^{1771} = -1 \\). எனவே \\( \\frac{3^{15} \\times -1}{3^{14}} = -3 \\).",
+        "question_en": "Evaluate \\( \\frac{(27)^{5}(-1)^{1771}}{(9)^{7}} \\)",
+        "options_en": [
+            "3",
+            "-3",
+            "279",
+            "\\( \\frac{-1}{81} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): -3. \\( 27^5 = 3^{15} \\) and \\( 9^7 = 3^{14} \\). \\( (-1)^{1771} = -1 \\). Hence, \\( (3^{15} \\times -1) / 3^{14} = -3 \\)."
+    },
+    {
+        "id": 59,
+        "question": "\\( ((625)^{1/2})^{1/2} \\) சமமானது (அடிப்படைக் கேள்வி அமைப்பின்படி)",
+        "options": [
+            "25",
+            "125",
+            "50",
+            "5"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 5. \\( 625^{1/4} = \\sqrt[4]{625} = 5 \\).",
+        "question_en": "\\( ((625)^{1/2})^{1/2} \\) is equal to",
+        "options_en": [
+            "25",
+            "125",
+            "50",
+            "5"
+        ],
+        "explanation_en": "Correct answer option (4): 5. \\( 625^{1/4} = 5 \\)."
+    },
+    {
+        "id": 60,
+        "question": "\\( 4^{-x}=16 \\) எனில் \\( x = \\)",
+        "options": [
+            "2",
+            "-2",
+            "0",
+            "4"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -2. \\( 16 = 4^2 \\). \\( 4^{-x} = 4^2 \\Rightarrow -x = 2 \\Rightarrow x = -2 \\).",
+        "question_en": "If \\( 4^{-x}=16 \\), then \\( x = \\)",
+        "options_en": [
+            "2",
+            "-2",
+            "0",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (2): -2. \\( 16 = 4^2 \\). Since bases are equal, \\( -x = 2 \\), so \\( x = -2 \\)."
+    },
+    {
+        "id": 61,
+        "question": "a மற்றும் b என்பவை மிகை முழுக்கள் மற்றும் \\( a^{b}=125 \\) எனில் \\( (a-b)^{a+b-4} = \\)",
+        "options": [
+            "25",
+            "125",
+            "625",
+            "16"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 16. \\( 125 = 5^3 \\) என்பதால், a=5, b=3. \\( (5-3)^{5+3-4} = 2^4 = 16 \\).",
+        "question_en": "If a and b are positive integers and \\( a^{b}=125 \\), then \\( (a-b)^{a+b-4} = \\)",
+        "options_en": [
+            "25",
+            "125",
+            "625",
+            "16"
+        ],
+        "explanation_en": "Correct answer option (4): 16. \\( 125 = 5^3 \\), so a=5, b=3. Substituting gives \\( (5-3)^{5+3-4} = 2^4 = 16 \\)."
+    },
+    {
+        "id": 62,
+        "question": "ஒரு மாணவன் \\( 2^{5}\\times9^{2} \\) இன் மதிப்பைக் கணக்கிடக் கேட்டுக் கொள்ளப்பட்டான். அவன் அதை 2592 என எழுதினான் எனில் அவனுக்குக் கிடைக்கப்பெற்ற மதிப்பிற்கும் உண்மையான மதிப்பிற்கும் இடையேயுள்ள வித்தியாசம்",
+        "options": [
+            "0",
+            "\\( 2\\times9^{2} \\)",
+            "\\( 2\\times9^{3} \\)",
+            "\\( 2^{3}\\times9^{4} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0. உண்மையான மதிப்பு: \\( 32 \\times 81 = 2592 \\). மாணவன் எழுதிய மதிப்பும் 2592 என்பதால் வித்தியாசம் 0.",
+        "question_en": "A student was asked to calculate the value of \\( 2^{5}\\times9^{2} \\). He wrote it as 2592. What is the difference between the value he obtained and the actual value?",
+        "options_en": [
+            "0",
+            "\\( 2\\times9^{2} \\)",
+            "\\( 2\\times9^{3} \\)",
+            "\\( 2^{3}\\times9^{4} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): 0. The actual value is \\( 32 \\times 81 = 2592 \\). Since the obtained value is also 2592, the difference is 0."
+    },
+    {
+        "id": 63,
+        "question": "\\( 2^{a}\\times3^{b}\\times7^{c}=3528 \\) எனில் a, b மற்றும் c இன் மதிப்புகள்",
+        "options": [
+            "a=3, b=3, c=2",
+            "a=2, b=3, c=2",
+            "a=2, b=2, c=3",
+            "a=3, b=2, c=2"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): a=3, b=2, c=2. 3528 ஐப் பகா காரணிப்படுத்தினால் \\( 2^3 \\times 3^2 \\times 7^2 \\) கிடைக்கும்.",
+        "question_en": "If \\( 2^{a}\\times3^{b}\\times7^{c}=3528 \\), the values of a, b, and c are",
+        "options_en": [
+            "a=3, b=3, c=2",
+            "a=2, b=3, c=2",
+            "a=2, b=2, c=3",
+            "a=3, b=2, c=2"
+        ],
+        "explanation_en": "Correct answer option (4): a=3, b=2, c=2. Prime factorizing 3528 gives \\( 2^3 \\times 3^2 \\times 7^2 \\)."
+    },
+    {
+        "id": 64,
+        "question": "\\( 2^{x}+2^{x}+2^{x}=192 \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "3",
+            "4",
+            "8",
+            "6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 6. \\( 3 \\times 2^x = 192 \\Rightarrow 2^x = 64 \\Rightarrow 2^x = 2^6 \\Rightarrow x=6 \\).",
+        "question_en": "If \\( 2^{x}+2^{x}+2^{x}=192 \\), the value of x is",
+        "options_en": [
+            "3",
+            "4",
+            "8",
+            "6"
+        ],
+        "explanation_en": "Correct answer option (4): 6. \\( 3 \\times 2^x = 192 \\Rightarrow 2^x = 64 = 2^6 \\Rightarrow x=6 \\)."
+    },
+    {
+        "id": 65,
+        "question": "\\( 3^{x}\\times3^{x}\\times9=27 \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "3",
+            "-3",
+            "1/2",
+            "-1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1/2. \\( 3^{2x} \\times 3^2 = 3^3 \\Rightarrow 2x+2 = 3 \\Rightarrow 2x = 1 \\Rightarrow x = 1/2 \\).",
+        "question_en": "If \\( 3^{x}\\times3^{x}\\times9=27 \\), the value of x is",
+        "options_en": [
+            "3",
+            "-3",
+            "1/2",
+            "-1"
+        ],
+        "explanation_en": "Correct answer option (3): 1/2. \\( 3^{2x} \\times 3^2 = 3^3 \\Rightarrow 2x+2 = 3 \\Rightarrow 2x = 1 \\Rightarrow x = 1/2 \\)."
+    },
+    {
+        "id": 66,
+        "question": "\\( (\\frac{2}{3})^{3}\\times(\\frac{2}{3})^{-6}=(\\frac{2}{3})^{2x-1} \\) என்ற கோவையில் x-ன் மதிப்பு",
+        "options": [
+            "x=2",
+            "x=0",
+            "x=-1",
+            "x=1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): x=-1. அடுக்கு விதிப்படி \\( 3-6 = -3 \\). எனவே \\( 2x-1 = -3 \\Rightarrow 2x = -2 \\Rightarrow x = -1 \\).",
+        "question_en": "In the expression \\( (\\frac{2}{3})^{3}\\times(\\frac{2}{3})^{-6}=(\\frac{2}{3})^{2x-1} \\), the value of x is",
+        "options_en": [
+            "x=2",
+            "x=0",
+            "x=-1",
+            "x=1"
+        ],
+        "explanation_en": "Correct answer option (3): x=-1. From the power rule, \\( 3-6 = 2x-1 \\Rightarrow -3 = 2x-1 \\Rightarrow 2x = -2 \\Rightarrow x = -1 \\)."
+    },
+    {
+        "id": 67,
+        "question": "\\( 15^{\\frac{3}{2}}\\times15^{\\frac{x}{2}}=15^{8} \\) எனில் x ன் மதிப்பு",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 13. அடுக்குகளைக் கூட்டினால் \\( \\frac{3+x}{2} = 8 \\Rightarrow 3+x = 16 \\Rightarrow x = 13 \\).",
+        "question_en": "If \\( 15^{\\frac{3}{2}}\\times15^{\\frac{x}{2}}=15^{8} \\), the value of x is",
+        "options_en": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "explanation_en": "Correct answer option (4): 13. Adding the exponents gives \\( (3+x)/2 = 8 \\Rightarrow 3+x = 16 \\Rightarrow x = 13 \\)."
+    },
+    {
+        "id": 68,
+        "question": "\\( 2^{x+13}=4^{x+2} \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "x=13",
+            "x=10",
+            "x=9",
+            "x=7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): x=9. \\( 4^{x+2} = 2^{2(x+2)} = 2^{2x+4} \\). எனவே \\( x+13 = 2x+4 \\Rightarrow x=9 \\).",
+        "question_en": "If \\( 2^{x+13}=4^{x+2} \\), the value of x is",
+        "options_en": [
+            "x=13",
+            "x=10",
+            "x=9",
+            "x=7"
+        ],
+        "explanation_en": "Correct answer option (3): x=9. \\( 4^{x+2} = 2^{2(x+2)} = 2^{2x+4} \\). So, \\( x+13 = 2x+4 \\Rightarrow x=9 \\)."
+    },
+    {
+        "id": 69,
+        "question": "பின்வருவனவற்றில் எது மிகப் பெரியது?",
+        "options": [
+            "\\( 3^{3^{3}} \\)",
+            "\\( (3^{3})^{7} \\)",
+            "\\( 3^{3^{2}} \\)",
+            "\\( ((3^{3})^{2})^3 \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 3^{3^{3}} \\). \\( 3^{3^3} = 3^{27} \\), இதுவே மற்ற அனைத்து தேர்வுகளை விடவும் மிகப் பெரியது.",
+        "question_en": "Which of the following is the greatest?",
+        "options_en": [
+            "\\( 3^{3^{3}} \\)",
+            "\\( (3^{3})^{7} \\)",
+            "\\( 3^{3^{2}} \\)",
+            "\\( ((3^{3})^{2})^3 \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 3^{3^{3}} \\). Evaluated, \\( 3^{3^3} = 3^{27} \\), which is the largest among the options."
+    },
+    {
+        "id": 70,
+        "question": "பின்வருவனவற்றில் எது பெரியது?",
+        "options": [
+            "\\( 2^{2^{2^{2}}} \\)",
+            "2222",
+            "\\( 222^{2} \\)",
+            "\\( [(2^{2})^{2}]^{2} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 2^{2^{2^{2}}} \\). இதைக் கணக்கிட்டால் \\( 2^{16} = 65536 \\) கிடைக்கும். இதுவே மற்ற தேர்வுகளை விடப் பெரியது.",
+        "question_en": "Which of the following is the largest?",
+        "options_en": [
+            "\\( 2^{2^{2^{2}}} \\)",
+            "2222",
+            "\\( 222^{2} \\)",
+            "\\( [(2^{2})^{2}]^{2} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 2^{2^{2^{2}}} \\). Calculating this gives \\( 2^{16} = 65536 \\), making it the largest."
+    },
+    {
+        "id": 71,
+        "question": "\\( x=1 \\) எனும் போது \\( 5x^{25}-3x^{32}-2x^{-12} \\) இன் மதிப்பானது",
+        "options": [
+            "0",
+            "4",
+            "+5",
+            "+1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0. x க்கு 1 எனப் பிரதியிட்டால், 1 இன் எந்த அடுக்கும் 1 தான். எனவே \\( 5(1) - 3(1) - 2(1) = 0 \\).",
+        "question_en": "When \\( x=1 \\), the value of \\( 5x^{25}-3x^{32}-2x^{-12} \\) is",
+        "options_en": [
+            "0",
+            "4",
+            "+5",
+            "+1"
+        ],
+        "explanation_en": "Correct answer option (1): 0. Substituting x=1, any power of 1 is 1. Thus, \\( 5 - 3 - 2 = 0 \\)."
+    },
+    {
+        "id": 72,
+        "question": "\\( m=8 \\) எனில் பின்வருவனவற்றில் எது சரியானது?",
+        "options": [
+            "\\( 5^{m}\\times\\frac{5^{-3}}{5^{2}}=5^{3} \\)",
+            "\\( 5^{m}\\times\\frac{5^{3}}{5^{-3}}=5^{2} \\)",
+            "\\( 5^{m}\\times\\frac{5^{2}}{5^{3}}=5^{3} \\)",
+            "\\( 5^{m}\\times\\frac{5^{-2}}{5^{2}}=5^{2} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 5^{m}\\times\\frac{5^{-3}}{5^{2}}=5^{3} \\). m=8 ஐப் பிரதியிட்டால் \\( 5^{8-3-2} = 5^3 \\) என்பது சரி.",
+        "question_en": "If \\( m=8 \\), which of the following is correct?",
+        "options_en": [
+            "\\( 5^{m}\\times\\frac{5^{-3}}{5^{2}}=5^{3} \\)",
+            "\\( 5^{m}\\times\\frac{5^{3}}{5^{-3}}=5^{2} \\)",
+            "\\( 5^{m}\\times\\frac{5^{2}}{5^{3}}=5^{3} \\)",
+            "\\( 5^{m}\\times\\frac{5^{-2}}{5^{2}}=5^{2} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 5^{m}\\times\\frac{5^{-3}}{5^{2}}=5^{3} \\). Substituting m=8 gives \\( 5^{8-3-2} = 5^3 \\)."
+    },
+    {
+        "id": 73,
+        "question": "\\( \\frac{2^{n}+2^{n-1}}{2^{n+1}-2^{n}} \\) இன் மதிப்பு",
+        "options": [
+            "\\( \\frac{2^{n-1}}{2^{n+1}} \\)",
+            "\\( \\frac{3}{2} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( 2^{n} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\frac{3}{2} \\). தொகுதியில் (numerator) \\( 2^{n-1} \\) ஐப் பொதுவில் எடுத்தால் \\( 2^{n-1}(2+1) = 3 \\times 2^{n-1} \\). பகுதியில் (denominator) \\( 2^n \\) ஐப் பொதுவில் எடுத்தால் \\( 2^n(2-1) = 2^n \\). எனவே விடை \\( \\frac{3}{2} \\).",
+        "question_en": "The value of \\( \\frac{2^{n}+2^{n-1}}{2^{n+1}-2^{n}} \\) is",
+        "options_en": [
+            "\\( \\frac{2^{n-1}}{2^{n+1}} \\)",
+            "\\( \\frac{3}{2} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( 2^{n} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\frac{3}{2} \\). Factoring the numerator gives \\( 2^{n-1}(2+1) = 3 \\times 2^{n-1} \\). Factoring the denominator gives \\( 2^n(2-1) = 2^n \\). The ratio is \\( \\frac{3}{2} \\)."
+    },
+    {
+        "id": 74,
+        "question": "\\( x=(-1)^{2020} \\), \\( y=(+1)^{2021} \\) மற்றும் \\( x+y=z \\) எனில் \\( (x+y+z)^{(x+y)} - 1 = \\)",
+        "options": [
+            "15",
+            "0",
+            "16",
+            "11"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 15. x = 1 (இரட்டை அடுக்கு), y = 1. எனவே z = 1+1=2. \\( x+y = 2 \\). \\( x+y+z = 4 \\). ஆகவே \\( 4^2 - 1 = 16 - 1 = 15 \\).",
+        "question_en": "If \\( x=(-1)^{2020} \\), \\( y=(+1)^{2021} \\) and \\( x+y=z \\), then \\( (x+y+z)^{(x+y)} - 1 = \\)",
+        "options_en": [
+            "15",
+            "0",
+            "16",
+            "11"
+        ],
+        "explanation_en": "Correct answer option (1): 15. x=1, y=1, so z=2. \\( x+y=2 \\), \\( x+y+z=4 \\). Thus \\( 4^2 - 1 = 15 \\)."
+    },
+    {
+        "id": 75,
+        "question": "\\( \\frac{5^{x}}{3+5^{x}}=\\frac{1}{2} \\) எனில் \\( 5^x \\) இன் மதிப்பு",
+        "options": [
+            "15",
+            "8",
+            "3",
+            "2"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3. குறுக்குப் பெருக்கல் செய்தால்: \\( 2(5^x) = 3 + 5^x \\Rightarrow 5^x = 3 \\).",
+        "question_en": "If \\( \\frac{5^{x}}{3+5^{x}}=\\frac{1}{2} \\), the value of \\( 5^x \\) is",
+        "options_en": [
+            "15",
+            "8",
+            "3",
+            "2"
+        ],
+        "explanation_en": "Correct answer option (3): 3. Cross multiplying gives \\( 2(5^x) = 3 + 5^x \\Rightarrow 5^x = 3 \\)."
+    },
+    {
+        "id": 76,
+        "question": "ஓர் எண்ணை \\( (-5)^7 \\) உடன் பெருக்கும் போது \\( (25)^4 \\) கிடைக்கிறது எனில் அவ்வெண்ணின் மதிப்பு",
+        "options": [
+            "-5",
+            "8",
+            "2",
+            "-10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): -5. \\( y \\times (-5)^7 = 25^4 = 5^8 \\). \\( y = 5^8 / (-5^7) = -5 \\).",
+        "question_en": "When a number is multiplied by \\( (-5)^7 \\), it gives \\( (25)^4 \\). The value of that number is",
+        "options_en": [
+            "-5",
+            "8",
+            "2",
+            "-10"
+        ],
+        "explanation_en": "Correct answer option (1): -5. \\( y \\times (-5)^7 = 5^8 \\Rightarrow y = 5^8 / -5^7 = -5 \\)."
+    },
+    {
+        "id": 77,
+        "question": "\\( 2^{5x-1}=4\\times2^{3x+1} \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "4",
+            "-3",
+            "2",
+            "-5"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2. \\( 4 = 2^2 \\), எனவே \\( 2^{5x-1} = 2^{3x+3} \\). அடுக்குகளை ஒப்பிட்டால் \\( 5x-1 = 3x+3 \\Rightarrow 2x = 4 \\Rightarrow x=2 \\).",
+        "question_en": "If \\( 2^{5x-1}=4\\times2^{3x+1} \\), the value of x is",
+        "options_en": [
+            "4",
+            "-3",
+            "2",
+            "-5"
+        ],
+        "explanation_en": "Correct answer option (3): 2. \\( 2^{5x-1} = 2^2 \\times 2^{3x+1} = 2^{3x+3} \\). Equating powers: \\( 5x-1 = 3x+3 \\Rightarrow x=2 \\)."
+    },
+    {
+        "id": 78,
+        "question": "a -க்கு எம்மதிப்பைப் பிரதியிட \\( 7^{1+a}+7^{1-a} \\) இன் மதிப்பானது 50 இக்குச் சமம் ஆகும்?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1. a=1 ஐப் பிரதியிட்டால் \\( 7^{1+1} + 7^{1-1} = 7^2 + 7^0 = 49 + 1 = 50 \\).",
+        "question_en": "For what value of a does the expression \\( 7^{1+a}+7^{1-a} \\) equal 50?",
+        "options_en": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "explanation_en": "Correct answer option (2): 1. Substituting a=1 gives \\( 7^2 + 7^0 = 49 + 1 = 50 \\)."
+    },
+    {
+        "id": 79,
+        "question": "\\( \\frac{1-x^{10}}{1-x}=0 \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "1",
+            "0",
+            "1/2",
+            "10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1. சமன்பாட்டின் அடிப்படையில் \\( 1-x^{10} = 0 \\Rightarrow x^{10}=1 \\Rightarrow x=1 \\). (பொதுப்படையாக, பகுதி சுழியாகக் கூடாது என்றாலும் விடைக்குறிப்புப்படி இதுவே விடை).",
+        "question_en": "If \\( \\frac{1-x^{10}}{1-x}=0 \\), the value of x is",
+        "options_en": [
+            "1",
+            "0",
+            "1/2",
+            "10"
+        ],
+        "explanation_en": "Correct answer option (1): 1. Solving \\( 1-x^{10}=0 \\) gives \\( x=1 \\)."
+    },
+    {
+        "id": 80,
+        "question": "\\( 2^{x+3}=2^{x}+28 \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "2",
+            "4",
+            "1",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 2. \\( 2^x \\times 2^3 - 2^x = 28 \\Rightarrow 2^x(8-1) = 28 \\Rightarrow 7 \\times 2^x = 28 \\Rightarrow 2^x = 4 \\Rightarrow x=2 \\).",
+        "question_en": "If \\( 2^{x+3}=2^{x}+28 \\), the value of x is",
+        "options_en": [
+            "2",
+            "4",
+            "1",
+            "3"
+        ],
+        "explanation_en": "Correct answer option (1): 2. \\( 2^x(2^3 - 1) = 28 \\Rightarrow 2^x \\times 7 = 28 \\Rightarrow 2^x = 4 \\Rightarrow x=2 \\)."
+    },
+    {
+        "id": 81,
+        "question": "\\( \\frac{x+0.7x}{2}=0.85 \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "2",
+            "-1",
+            "0",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1. \\( \\frac{1.7x}{2} = 0.85 \\Rightarrow 1.7x = 1.7 \\Rightarrow x = 1 \\).",
+        "question_en": "If \\( \\frac{x+0.7x}{2}=0.85 \\), the value of x is",
+        "options_en": [
+            "2",
+            "-1",
+            "0",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (4): 1. \\( \\frac{1.7x}{2} = 0.85 \\Rightarrow 1.7x = 1.7 \\Rightarrow x = 1 \\)."
+    },
+    {
+        "id": 82,
+        "question": "\\( \\frac{m}{2}-1=\\frac{m}{3}+4 \\) எனில் m இன் மதிப்பு",
+        "options": [
+            "20",
+            "24",
+            "30",
+            "42"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 30. உறுப்புகளை ஒருபுறம் கொண்டுவந்தால்: \\( \\frac{m}{2} - \\frac{m}{3} = 4 + 1 \\Rightarrow \\frac{3m - 2m}{6} = 5 \\Rightarrow \\frac{m}{6} = 5 \\Rightarrow m = 30 \\).",
+        "question_en": "If \\( \\frac{m}{2}-1=\\frac{m}{3}+4 \\), the value of m is",
+        "options_en": [
+            "20",
+            "24",
+            "30",
+            "42"
+        ],
+        "explanation_en": "Correct answer option (3): 30. Bringing terms to one side: \\( \\frac{m}{2} - \\frac{m}{3} = 5 \\Rightarrow \\frac{m}{6} = 5 \\Rightarrow m = 30 \\)."
+    },
+    {
+        "id": 83,
+        "question": "\\( \\frac{x}{7}+30=18 \\) இன் தீர்வு",
+        "options": [
+            "+84",
+            "-84",
+            "48",
+            "-48"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -84. \\( \\frac{x}{7} = 18 - 30 \\Rightarrow \\frac{x}{7} = -12 \\Rightarrow x = -12 \\times 7 = -84 \\).",
+        "question_en": "The solution for \\( \\frac{x}{7}+30=18 \\) is",
+        "options_en": [
+            "+84",
+            "-84",
+            "48",
+            "-48"
+        ],
+        "explanation_en": "Correct answer option (2): -84. \\( \\frac{x}{7} = 18 - 30 \\Rightarrow \\frac{x}{7} = -12 \\Rightarrow x = -84 \\)."
+    },
+    {
+        "id": 84,
+        "question": "\\( \\frac{x}{7} + \\frac{1}{7} = 3 \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "20",
+            "7",
+            "3",
+            "1"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 20. பகுதிகள் சமம், எனவே \\( \\frac{x+1}{7} = 3 \\Rightarrow x+1 = 21 \\Rightarrow x = 20 \\).",
+        "question_en": "If \\( \\frac{x}{7} + \\frac{1}{7} = 3 \\), the value of x is",
+        "options_en": [
+            "20",
+            "7",
+            "3",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (1): 20. Since denominators are equal, \\( \\frac{x+1}{7} = 3 \\Rightarrow x+1 = 21 \\Rightarrow x = 20 \\)."
+    },
+    {
+        "id": 85,
+        "question": "\\( \\frac{1}{x}+\\frac{1}{4}=\\frac{7}{12} \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "3",
+            "4",
+            "7",
+            "12"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3. \\( \\frac{1}{x} = \\frac{7}{12} - \\frac{1}{4} = \\frac{7 - 3}{12} = \\frac{4}{12} = \\frac{1}{3} \\). எனவே \\( x = 3 \\).",
+        "question_en": "If \\( \\frac{1}{x}+\\frac{1}{4}=\\frac{7}{12} \\), the value of x is",
+        "options_en": [
+            "3",
+            "4",
+            "7",
+            "12"
+        ],
+        "explanation_en": "Correct answer option (1): 3. \\( \\frac{1}{x} = \\frac{7}{12} - \\frac{1}{4} = \\frac{4}{12} = \\frac{1}{3} \\). So, \\( x = 3 \\)."
+    },
+    {
+        "id": 86,
+        "question": "\\( \\frac{2x+7}{5}=\\frac{3x+11}{2} \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "\\( \\frac{41}{11} \\)",
+            "\\( \\frac{-41}{11} \\)",
+            "\\( \\frac{11}{41} \\)",
+            "\\( \\frac{-11}{41} \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\frac{-41}{11} \\). குறுக்குப் பெருக்கல்: \\( 2(2x+7) = 5(3x+11) \\Rightarrow 4x+14 = 15x+55 \\Rightarrow 11x = -41 \\Rightarrow x = \\frac{-41}{11} \\).",
+        "question_en": "If \\( \\frac{2x+7}{5}=\\frac{3x+11}{2} \\), the value of x is",
+        "options_en": [
+            "\\( \\frac{41}{11} \\)",
+            "\\( \\frac{-41}{11} \\)",
+            "\\( \\frac{11}{41} \\)",
+            "\\( \\frac{-11}{41} \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\frac{-41}{11} \\). Cross multiplying: \\( 4x+14 = 15x+55 \\Rightarrow 11x = -41 \\Rightarrow x = \\frac{-41}{11} \\)."
+    },
+    {
+        "id": 87,
+        "question": "\\( \\frac{x}{y}=7 \\) எனில், \\( \\frac{x-y}{x+y} = \\)",
+        "options": [
+            "\\( \\frac{3}{7} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( \\frac{3}{4} \\)",
+            "\\( \\frac{4}{3} \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( \\frac{3}{4} \\). \\( x = 7y \\). இதைப் பிரதியிட்டால், \\( \\frac{7y-y}{7y+y} = \\frac{6y}{8y} = \\frac{6}{8} = \\frac{3}{4} \\).",
+        "question_en": "If \\( \\frac{x}{y}=7 \\), then \\( \\frac{x-y}{x+y} = \\)",
+        "options_en": [
+            "\\( \\frac{3}{7} \\)",
+            "\\( \\frac{2}{3} \\)",
+            "\\( \\frac{3}{4} \\)",
+            "\\( \\frac{4}{3} \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( \\frac{3}{4} \\). \\( x = 7y \\). Substituting: \\( \\frac{7y-y}{7y+y} = \\frac{6y}{8y} = \\frac{3}{4} \\)."
+    },
+    {
+        "id": 88,
+        "question": "பொருத்துக: (i) x+2=12, (ii) y-9=(-5)+7, (iii) 8m=-56, (iv) 2p/3=10, (v) -x+6=10\n(a) 11, (b) 15, (c) -4, (d) 10, (e) -7",
+        "options": [
+            "i-a, ii-d, iii-e, iv-b, v-c",
+            "i-d, ii-c, iii-a, iv-e, v-b",
+            "i-d, ii-e, iii-b, iv-a, v-c",
+            "i-d, ii-a, iii-e, iv-b, v-c"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): i-d, ii-a, iii-e, iv-b, v-c. \n(i) \\( x=10 \\) (d).\n(ii) \\( y-9 = 2 \\Rightarrow y=11 \\) (a).\n(iii) \\( m = -7 \\) (e).\n(iv) \\( 2p = 30 \\Rightarrow p=15 \\) (b).\n(v) \\( -x = 4 \\Rightarrow x=-4 \\) (c).",
+        "question_en": "Match the following: (i) x+2=12, (ii) y-9=(-5)+7, (iii) 8m=-56, (iv) 2p/3=10, (v) -x+6=10\n(a) 11, (b) 15, (c) -4, (d) 10, (e) -7",
+        "options_en": [
+            "i-a, ii-d, iii-e, iv-b, v-c",
+            "i-d, ii-c, iii-a, iv-e, v-b",
+            "i-d, ii-e, iii-b, iv-a, v-c",
+            "i-d, ii-a, iii-e, iv-b, v-c"
+        ],
+        "explanation_en": "Correct answer option (4): i-d, ii-a, iii-e, iv-b, v-c. \n(i) x=10. \n(ii) y=11. \n(iii) m=-7. \n(iv) p=15. \n(v) x=-4."
+    },
+    {
+        "id": 89,
+        "question": "x ஓர் இயல் எண் எனில், அதன் முன்னி",
+        "options": [
+            "x+1",
+            "x",
+            "x-1",
+            "எதுவுமில்லை"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): x-1. ஓர் எண்ணின் முன்னி (Predecessor) என்பது அந்த எண்ணிலிருந்து 1 ஐக் கழித்துப் பெறுவது.",
+        "question_en": "If x is a natural number, its predecessor is",
+        "options_en": [
+            "x+1",
+            "x",
+            "x-1",
+            "None of these"
+        ],
+        "explanation_en": "Correct answer option (3): x-1. The predecessor of a number is obtained by subtracting 1 from it."
+    },
+    {
+        "id": 90,
+        "question": "கீழ்க்கண்டவற்றுள் 8-இன் அடுத்தடுத்த மூன்று மடங்குகளைக் குறிப்பவை எவை?",
+        "options": [
+            "8x, x+8, x+16",
+            "8x, 8x+8, x+16",
+            "x, x+8, x+16",
+            "8x, 8(x+1), 8(x+2)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 8x, 8(x+1), 8(x+2). 8 இன் மடங்குகள் 8 ஆல் வகுபடும் எண்கள். \\( 8x \\), \\( 8x+8 = 8(x+1) \\), \\( 8x+16 = 8(x+2) \\) ஆகியவை சரியானவை.",
+        "question_en": "Which of the following represents three consecutive multiples of 8?",
+        "options_en": [
+            "8x, x+8, x+16",
+            "8x, 8x+8, x+16",
+            "x, x+8, x+16",
+            "8x, 8(x+1), 8(x+2)"
+        ],
+        "explanation_en": "Correct answer option (4): 8x, 8(x+1), 8(x+2). Consecutive multiples of 8 are obtained by adding 8 successively to an initial multiple 8x."
+    },
+    {
+        "id": 91,
+        "question": "பக்கம் 'a' அலகு உள்ள ஒரு சதுரத்தின் சுற்றளவு",
+        "options": [
+            "4a",
+            "3a",
+            "a×a",
+            "a+a"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4a. சதுரத்தின் சுற்றளவு நான்கு பக்கங்களின் கூடுதல் ஆகும். எனவே \\( a+a+a+a = 4a \\).",
+        "question_en": "The perimeter of a square with side 'a' units is",
+        "options_en": [
+            "4a",
+            "3a",
+            "a×a",
+            "a+a"
+        ],
+        "explanation_en": "Correct answer option (1): 4a. The perimeter of a square is the sum of its 4 sides, which is 4a."
+    },
+    {
+        "id": 92,
+        "question": "'z' வாரங்களில் உள்ள நாள்களின் எண்ணிக்கை",
+        "options": [
+            "30+z",
+            "30z",
+            "7+z",
+            "7z"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 7z. ஒரு வாரத்திற்கு 7 நாட்கள். எனவே 'z' வாரங்களுக்கு \\( 7 \\times z = 7z \\) நாட்கள்.",
+        "question_en": "The number of days in 'z' weeks is",
+        "options_en": [
+            "30+z",
+            "30z",
+            "7+z",
+            "7z"
+        ],
+        "explanation_en": "Correct answer option (4): 7z. There are 7 days in a week. So, for 'z' weeks it is \\( 7 \\times z = 7z \\)."
+    },
+    {
+        "id": 93,
+        "question": "'t' இலிருந்து 10 ஐக் கழிக்க 20 கிடைக்கிறது என்பதைக் குறிக்கும் இயற்கணிதச் சமன்பாடு?",
+        "options": [
+            "t-10=20",
+            "10-t=20",
+            "20-t=10",
+            "t-20=10"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): t-10=20. 't' இலிருந்து 10 ஐக் கழிப்பது 't-10' ஆகும். இதன் மதிப்பு 20.",
+        "question_en": "The algebraic equation representing \"Subtracting 10 from 't' gives 20\" is",
+        "options_en": [
+            "t-10=20",
+            "10-t=20",
+            "20-t=10",
+            "t-20=10"
+        ],
+        "explanation_en": "Correct answer option (1): t-10=20. Subtracting 10 from t is written as t-10. This equals 20."
+    },
+    {
+        "id": 94,
+        "question": "\"y மற்றும் z இன் கூடுதலின் இரண்டு மடங்கு\" என்பதைக் குறிக்கும் இயற்கணிதக் கோவை?",
+        "options": [
+            "2y+z",
+            "(2+y)z",
+            "2(y+z)",
+            "y+2z"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2(y+z). y மற்றும் z இன் கூடுதல் = \\( (y+z) \\). இதன் இரு மடங்கு = \\( 2(y+z) \\).",
+        "question_en": "The algebraic expression for \"Twice the sum of y and z\" is",
+        "options_en": [
+            "2y+z",
+            "(2+y)z",
+            "2(y+z)",
+            "y+2z"
+        ],
+        "explanation_en": "Correct answer option (3): 2(y+z). Sum of y and z is \\( (y+z) \\). Twice of that is \\( 2(y+z) \\)."
+    },
+    {
+        "id": 95,
+        "question": "\"x மற்றும் y இன் பெருக்கலில் இருந்து 5 குறைவு\" என்பதைக் குறிக்கும் இயற்கணிதக் கோவை",
+        "options": [
+            "x-5y",
+            "5x-y",
+            "5-xy",
+            "xy-5"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): xy-5. x மற்றும் y இன் பெருக்கல் = xy. இதில் இருந்து 5 குறைவு என்பது xy-5.",
+        "question_en": "The algebraic expression for \"5 less than the product of x and y\" is",
+        "options_en": [
+            "x-5y",
+            "5x-y",
+            "5-xy",
+            "xy-5"
+        ],
+        "explanation_en": "Correct answer option (4): xy-5. Product of x and y is xy. 5 less than that is xy-5."
+    },
+    {
+        "id": 96,
+        "question": "x மற்றும் y இன் கூடுதலின் மூன்று மடங்கு என்னும் வாய்மொழிக் கூற்றுக்குப் பொருத்தமான இயற்கணிதக் கோவை",
+        "options": [
+            "3(x+y)",
+            "3+x+y",
+            "3x+y",
+            "3+xy"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3(x+y). x மற்றும் y இன் கூடுதல் \\( (x+y) \\). இதன் மூன்று மடங்கு \\( 3(x+y) \\).",
+        "question_en": "The algebraic expression for the verbal statement \"Thrice the sum of x and y\" is",
+        "options_en": [
+            "3(x+y)",
+            "3+x+y",
+            "3x+y",
+            "3+xy"
+        ],
+        "explanation_en": "Correct answer option (1): 3(x+y). Sum of x and y is \\( (x+y) \\). Thrice of this is \\( 3(x+y) \\)."
+    },
+    {
+        "id": 97,
+        "question": "\"a மற்றும் b இன் கூடுதலை 20-இலிருந்து குறைக்க\" என்ற கூற்று குறிக்கும் இயற்கணிதக் கோவை",
+        "options": [
+            "20-a+b",
+            "(a+b)-20",
+            "20-(a+b)",
+            "(a+20)+(b-20)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 20-(a+b). கூடுதல் \\( (a+b) \\). இதை 20 இலிருந்து கழிப்பது \\( 20-(a+b) \\) ஆகும்.",
+        "question_en": "The algebraic expression for the statement \"Subtract the sum of a and b from 20\" is",
+        "options_en": [
+            "20-a+b",
+            "(a+b)-20",
+            "20-(a+b)",
+            "(a+20)+(b-20)"
+        ],
+        "explanation_en": "Correct answer option (3): 20-(a+b). The sum is \\( (a+b) \\). Subtracting it from 20 is written as \\( 20-(a+b) \\)."
+    },
+    {
+        "id": 98,
+        "question": "\"ஓர் எண்ணின் நான்கில் ஒரு பங்குடன் 3 ஐக் கூட்ட 7 கிடைக்கும்\" என்னும் வாய்மொழிக் கூற்றுக்கு இணையான இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "4x+3=7",
+            "x/4+3=7",
+            "x/4+7=3",
+            "4x+7=3"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): x/4+3=7. எண்ணை x என்க. நான்கில் ஒரு பங்கு = \\( \\frac{x}{4} \\). அதனுடன் 3 ஐக் கூட்டினால் \\( \\frac{x}{4} + 3 = 7 \\).",
+        "question_en": "The algebraic equation for \"Adding 3 to one-fourth of a number gives 7\" is",
+        "options_en": [
+            "4x+3=7",
+            "x/4+3=7",
+            "x/4+7=3",
+            "4x+7=3"
+        ],
+        "explanation_en": "Correct answer option (2): x/4+3=7. Let the number be x. One fourth is x/4. Adding 3 gives x/4 + 3 = 7."
+    },
+    {
+        "id": 99,
+        "question": "\"ஓர் ஆப்பிள் (a) மற்றும் இரு மாம்பழங்களின் (m) விலை ₹120\" என்ற கூற்றினைக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "2am=120",
+            "2a+m=120",
+            "a+2m=120",
+            "a+m=120"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): a+2m=120. ஓர் ஆப்பிள் a, இரண்டு மாம்பழங்கள் 2m. ஆக விலை a+2m=120.",
+        "question_en": "The algebraic equation for \"The cost of an apple (a) and two mangoes (m) is ₹120\" is",
+        "options_en": [
+            "2am=120",
+            "2a+m=120",
+            "a+2m=120",
+            "a+m=120"
+        ],
+        "explanation_en": "Correct answer option (3): a+2m=120. One apple is a, two mangoes are 2m. Total cost is a+2m=120."
+    },
+    {
+        "id": 100,
+        "question": "\"ஒரு செவ்வகத்தின் சுற்றளவு 50 செ.மீ.\" ஐக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "l×b=50",
+            "2l+b=50",
+            "l+2b=50",
+            "2(l+b)=50"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 2(l+b)=50. செவ்வகத்தின் சுற்றளவு சூத்திரம் 2(நீளம் + அகலம்) = 2(l+b). இது 50 என்பதால் 2(l+b)=50.",
+        "question_en": "The algebraic equation for \"The perimeter of a rectangle is 50 cm\" is",
+        "options_en": [
+            "l×b=50",
+            "2l+b=50",
+            "l+2b=50",
+            "2(l+b)=50"
+        ],
+        "explanation_en": "Correct answer option (4): 2(l+b)=50. The formula for the perimeter of a rectangle is 2(l+b). Equating it to 50 gives 2(l+b)=50."
+    },
+    {
+        "id": 101,
+        "question": "\"தாமரையின் வயது அவள் தங்கை செல்வியை விட 4 வயது அதிகம். மேலும் இருவரின் வயதுகளின் கூடுதல் 24\" என்பதைக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "x+4=24",
+            "2x+8=24",
+            "x+8=24",
+            "2x+4=24"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 2x+4=24. செல்வியின் வயது x என்க. தாமரையின் வயது x+4. கூடுதல் = x + (x+4) = 2x+4. இது 24 என்பதால் 2x+4=24.",
+        "question_en": "\"Thamarai's age is 4 years more than her younger sister Selvi. The sum of their ages is 24.\" The algebraic equation for this is",
+        "options_en": [
+            "x+4=24",
+            "2x+8=24",
+            "x+8=24",
+            "2x+4=24"
+        ],
+        "explanation_en": "Correct answer option (4): 2x+4=24. Let Selvi's age be x. Thamarai's age is x+4. The sum is x + x+4 = 2x+4 = 24."
+    },
+    {
+        "id": 102,
+        "question": "\"ஓர் எண்ணின் மூன்றில் ஒரு பங்குடன் 6-ஐக் கூட்டக் கிடைப்பது 10\" என்பதைக் குறிக்கும் சமன்பாடு",
+        "options": [
+            "3x+6=10",
+            "x/3+6=10",
+            "x/3+10=6",
+            "3x+10=6"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): x/3+6=10. ஓர் எண்ணை x என எடுத்தால் அதன் மூன்றில் ஒரு பங்கு x/3. அதனுடன் 6 கூட்ட கிடைப்பது 10 என்பதால் x/3+6=10.",
+        "question_en": "The equation for \"Adding 6 to one-third of a number gives 10\" is",
+        "options_en": [
+            "3x+6=10",
+            "x/3+6=10",
+            "x/3+10=6",
+            "3x+10=6"
+        ],
+        "explanation_en": "Correct answer option (2): x/3+6=10. If the number is x, one third is x/3. Adding 6 gives x/3 + 6 = 10."
+    },
+    {
+        "id": 103,
+        "question": "\"x இன் ஐந்து மடங்குடன் 3 ஐக் கூட்டக் கிடைப்பது 28\" என்பதைக் குறிக்கும் சமன்பாடு",
+        "options": [
+            "x+8=28",
+            "8x=28",
+            "x/5+3=28",
+            "5x+3=28"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 5x+3=28. x இன் 5 மடங்கு = 5x. அதனுடன் 3 கூட்டினால் 5x+3. இது 28 என்பதால் 5x+3=28.",
+        "question_en": "The equation for \"Adding 3 to five times x gives 28\" is",
+        "options_en": [
+            "x+8=28",
+            "8x=28",
+            "x/5+3=28",
+            "5x+3=28"
+        ],
+        "explanation_en": "Correct answer option (4): 5x+3=28. 5 times x is 5x. Adding 3 gives 5x+3 = 28."
+    },
+    {
+        "id": 104,
+        "question": "\"y இலிருந்து 8 ஐக் குறைத்தால் 11 கிடைக்கிறது\" என்பதைக் குறிக்கும் இயற்கணிதச் சமன்பாடு",
+        "options": [
+            "y-11=8",
+            "8-y=11",
+            "y-8=11",
+            "11-y=8"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): y-8=11. y இலிருந்து 8 ஐக் கழிப்பது y-8. இது 11 இக்குச் சமம் என்பதால் y-8=11.",
+        "question_en": "The algebraic equation for \"Reducing 8 from y gives 11\" is",
+        "options_en": [
+            "y-11=8",
+            "8-y=11",
+            "y-8=11",
+            "11-y=8"
+        ],
+        "explanation_en": "Correct answer option (3): y-8=11. Reducing 8 from y is y-8. This gives 11, so y-8=11."
+    },
+    {
+        "id": 105,
+        "question": "\"வெங்கட்டின் அம்மாவின் வயது வெங்கட் வயதின் 3 மடங்குடன் 7 ஐக் கூட்டக் கிடைப்பது ஆகும். அவனுடைய அம்மாவின் வயது 43 ஆகும்\" - என்பதைக் குறிக்கும் சமன்பாடு",
+        "options": [
+            "3x+7=43",
+            "7x+3=43",
+            "x+10=43",
+            "x+7=43"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3x+7=43. வெங்கட்டின் வயது x என்க. அதன் 3 மடங்கு 3x. அதனுடன் 7 கூட்டினால் 3x+7. அம்மாவின் வயது 43 என்பதால் 3x+7=43.",
+        "question_en": "The equation for \"Venkat's mother's age is 7 more than 3 times Venkat's age. His mother's age is 43\" is",
+        "options_en": [
+            "3x+7=43",
+            "7x+3=43",
+            "x+10=43",
+            "x+7=43"
+        ],
+        "explanation_en": "Correct answer option (1): 3x+7=43. Let Venkat's age be x. 3 times is 3x. 7 more is 3x+7 = 43."
+    },
+    {
+        "id": 106,
+        "question": "அடுத்தடுத்த இரு இயல் எண்களின் கூடுதல் 75 எனில் அவ்விரு எண்கள்",
+        "options": [
+            "36, 39",
+            "35, 40",
+            "37, 38",
+            "34, 41"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 37, 38. அந்த எண்களை x, x+1 என்க. x + x + 1 = 75. 2x = 74. x = 37. எனவே எண்கள் 37, 38.",
+        "question_en": "If the sum of two consecutive natural numbers is 75, those two numbers are",
+        "options_en": [
+            "36, 39",
+            "35, 40",
+            "37, 38",
+            "34, 41"
+        ],
+        "explanation_en": "Correct answer option (3): 37, 38. Let the numbers be x and x+1. x+x+1 = 75. 2x = 74, x=37. The numbers are 37, 38."
+    },
+    {
+        "id": 107,
+        "question": "கீழ்க்கண்டவற்றில் எவை 2x-5y=4 என்ற சமன்பாட்டின் தீர்வுகள் இல்லை?",
+        "options": [
+            "x=2, y=0",
+            "x=7, y=2",
+            "x=12, y=4",
+            "x=15, y=6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): x=15, y=6. பிரதியிட்டால் \\( 2(15) - 5(6) = 30 - 30 = 0 \\). ஆனால் நமக்கு 4 வர வேண்டும். எனவே இது தீர்வு அல்ல.",
+        "question_en": "Which of the following is not a solution to the equation 2x - 5y = 4?",
+        "options_en": [
+            "x=2, y=0",
+            "x=7, y=2",
+            "x=12, y=4",
+            "x=15, y=6"
+        ],
+        "explanation_en": "Correct answer option (4): x=15, y=6. Substituting gives \\( 2(15) - 5(6) = 30 - 30 = 0 \\), which is not equal to 4."
+    },
+    {
+        "id": 108,
+        "question": "ஒருவர் ₹960 இக்கு ₹1, ₹5 மற்றும் ₹10 ஆகிய மதிப்பிலான பணத் தாள்களை வைத்துள்ளார். இம்மூன்று மதிப்பிலுள்ள பணத்தாள்களின் எண்ணிக்கையும் சமமெனில், அவரிடமுள்ள பத்து ரூபாய் தாள்களின் எண்ணிக்கை",
+        "options": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 60. தாள்களின் எண்ணிக்கையை x என்க. \\( 1x + 5x + 10x = 960 \\Rightarrow 16x = 960 \\Rightarrow x = 60 \\).",
+        "question_en": "A person has currency notes of denominations ₹1, ₹5, and ₹10 amounting to ₹960. If the number of notes of all three denominations is equal, the number of ₹10 notes he has is",
+        "options_en": [
+            "50",
+            "60",
+            "70",
+            "80"
+        ],
+        "explanation_en": "Correct answer option (2): 60. Let the number of notes be x. Then \\( 1x + 5x + 10x = 960 \\Rightarrow 16x = 960 \\Rightarrow x=60 \\)."
+    },
+    {
+        "id": 109,
+        "question": "ஒரு தேர்வில், மாணவர் எழுதும் சரியான விடைக்கு 4 மதிப்பெண்கள் வழங்கப்படுகின்றன. மேலும், தவறான விடைக்கு 1 மதிப்பெண் குறைக்கப்படுகிறது. அத்தேர்வில், ஒருவன் மொத்தம் 60 வினாக்களுக்கு விடை எழுதி 130 மதிப்பெண்கள் பெற்றான் எனில், சரியான விடை எழுதிய வினாக்களின் எண்ணிக்கை",
+        "options": [
+            "40",
+            "38",
+            "48",
+            "28"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 38. சரியான விடைகள் x என்க. தவறான விடைகள் 60-x. சமன்பாடு: \\( 4x - 1(60-x) = 130 \\Rightarrow 4x - 60 + x = 130 \\Rightarrow 5x = 190 \\Rightarrow x = 38 \\).",
+        "question_en": "In a competitive exam, 4 marks are awarded for every correct answer, and 1 mark is deducted for every wrong answer. If a student answered 60 questions and scored 130 marks, the number of correctly answered questions is",
+        "options_en": [
+            "40",
+            "38",
+            "48",
+            "28"
+        ],
+        "explanation_en": "Correct answer option (2): 38. Let x be correct answers. Wrong are 60-x. Equation: \\( 4x - (60-x) = 130 \\Rightarrow 5x = 190 \\Rightarrow x=38 \\)."
+    },
+    {
+        "id": 110,
+        "question": "ஓர் எண்ணின் ஆறு மடங்கை 40-இலிருந்து கழித்தால் -8 கிடைக்கும் எனில் அந்த எண்ணைக் காண்க.",
+        "options": [
+            "3/16",
+            "8",
+            "16/3",
+            "16"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 8. எண்ணை x என்க. \\( 40 - 6x = -8 \\Rightarrow -6x = -48 \\Rightarrow x = 8 \\).",
+        "question_en": "If 6 times a number is subtracted from 40, it gives -8. Find the number.",
+        "options_en": [
+            "3/16",
+            "8",
+            "16/3",
+            "16"
+        ],
+        "explanation_en": "Correct answer option (2): 8. Let the number be x. \\( 40 - 6x = -8 \\Rightarrow -6x = -48 \\Rightarrow x=8 \\)."
+    },
+    {
+        "id": 111,
+        "question": "ஓர் எண்ணின் இரு மடங்குடன் 9 சேர்க்கப் படுகிறது. கிடைக்கும் விடையின் மும்மடங்கு 75 எனில் அந்த எண்ணைக் காண்க.",
+        "options": [
+            "3.5",
+            "6",
+            "8",
+            "7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8. எண்ணை x என்க. சமன்பாடு: \\( 3(2x + 9) = 75 \\Rightarrow 2x + 9 = 25 \\Rightarrow 2x = 16 \\Rightarrow x = 8 \\).",
+        "question_en": "9 is added to twice a number. If thrice the result is 75, find the number.",
+        "options_en": [
+            "3.5",
+            "6",
+            "8",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (3): 8. Equation: \\( 3(2x+9) = 75 \\Rightarrow 2x+9 = 25 \\Rightarrow 2x=16 \\Rightarrow x=8 \\)."
+    },
+    {
+        "id": 112,
+        "question": "இரண்டு அடுத்தடுத்த ஒற்றைப்படை எண்களின் கூடுதல் 200 எனில் அவற்றின் மிகப்பெரிய எண் எது?",
+        "options": [
+            "99",
+            "97",
+            "102",
+            "101"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 101. ஒற்றை எண்களை x, x+2 என்க. \\( x + x + 2 = 200 \\Rightarrow 2x = 198 \\Rightarrow x = 99 \\). பெரிய எண் = \\( 99+2 = 101 \\).",
+        "question_en": "If the sum of two consecutive odd numbers is 200, which is the largest number?",
+        "options_en": [
+            "99",
+            "97",
+            "102",
+            "101"
+        ],
+        "explanation_en": "Correct answer option (4): 101. Let numbers be x and x+2. \\( 2x+2=200 \\Rightarrow 2x=198 \\Rightarrow x=99 \\). Largest is 101."
+    },
+    {
+        "id": 113,
+        "question": "கொடுக்கப்பட்ட படத்தின் சுற்றளவு 60 cm எனில், x இன் மதிப்பு என்ன? (பக்கங்கள்: (x+4) cm மற்றும் (3x-2) cm)",
+        "options": [
+            "7",
+            "9",
+            "12",
+            "29"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 7. செவ்வகத்தின் சுற்றளவு = \\( 2(l+b) = 60 \\Rightarrow 2(x+4 + 3x-2) = 60 \\Rightarrow 4x+2 = 30 \\Rightarrow 4x = 28 \\Rightarrow x = 7 \\).",
+        "question_en": "If the perimeter of the given figure is 60 cm, what is the value of x? (Sides: (x+4) cm and (3x-2) cm)",
+        "options_en": [
+            "7",
+            "9",
+            "12",
+            "29"
+        ],
+        "explanation_en": "Correct answer option (1): 7. Perimeter = \\( 2((x+4)+(3x-2)) = 60 \\Rightarrow 4x+2=30 \\Rightarrow x=7 \\).",
+        "image": "image/unit8/q113.PNG"
+    },
+    {
+        "id": 114,
+        "question": "பின்வருவனவற்றுள் எது தவறானது?\n(a) 'x-1' ஓர் இயல் எண் எனில் 'x' அதன் தொடரியாகும்.\n(b) a-b+c மற்றும் -a+b-c-ன் கூடுதல் பூஜ்ஜியமாகும்.\n(c) 8x+3y மற்றும் 7x+2y ஆகிய கோவைகளைக் கூட்ட முடியாது.\n(d) x+5=7 என்னும் கோவையைத் தீர்க்க அதன் இருபுறமும் 7-ஐக் கழிக்க வேண்டும்",
+        "options": [
+            "a & b",
+            "c மட்டும்",
+            "d மட்டும்",
+            "c & d"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): c & d. (c) தவறு, ஏனெனில் கோவைகளை கூட்ட முடியும். (d) தவறு, சமன்பாட்டை தீர்க்க இருபுறமும் 5-ஐக் கழிக்க வேண்டும், 7-ஐ அல்ல.",
+        "question_en": "Which of the following is incorrect?\n(a) If 'x-1' is a natural number, 'x' is its successor.\n(b) The sum of a-b+c and -a+b-c is zero.\n(c) The expressions 8x+3y and 7x+2y cannot be added.\n(d) To solve x+5=7, 7 must be subtracted from both sides.",
+        "options_en": [
+            "a & b",
+            "Only c",
+            "Only d",
+            "c & d"
+        ],
+        "explanation_en": "Correct answer option (4): c & d. (c) is wrong as expressions can be added. (d) is wrong because you subtract 5, not 7."
+    },
+    {
+        "id": 115,
+        "question": "பின்வருவனவற்றுள் எது சரியானது?\n(a) ஒவ்வொரு இயற்கணிதக் கோவையும் ஒரு சமன்பாடு ஆகும்\n(b) x-இன் மதிப்பறியாத நிலையில், 7x + 1 என்னும் கோவையை மேலும் சுருக்கிய வடிவில் எழுத முடியாது\n(c) இரண்டு ஒத்த உறுப்புகளைக் கூட்டுவதற்கு அதன் கெழுக்களைக் கூட்ட வேண்டும்\n(d) -pq மற்றும் 3pq ஆகியவை ஒத்த உறுப்புகள்",
+        "options": [
+            "a, b, d",
+            "b, c, d",
+            "a, c, d",
+            "a, b, c"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): b, c, d. சமன்பாட்டிற்கு '=' குறி தேவை, எல்லா கோவைகளும் சமன்பாடுகள் அல்ல. எனவே (a) தவறு. மற்ற மூன்றும் சரியானவை.",
+        "question_en": "Which of the following is correct?\n(a) Every algebraic expression is an equation.\n(b) Without knowing the value of x, the expression 7x + 1 cannot be further simplified.\n(c) To add two like terms, their coefficients must be added.\n(d) -pq and 3pq are like terms.",
+        "options_en": [
+            "a, b, d",
+            "b, c, d",
+            "a, c, d",
+            "a, b, c"
+        ],
+        "explanation_en": "Correct answer option (2): b, c, d. (a) is wrong because equations need an '=' sign. Expressions do not."
+    },
+    {
+        "id": 116,
+        "question": "p=2, q=3 மற்றும் r=-5 எனில் p²q² + q²r + r²p இன் மதிப்பைக் காண்க.",
+        "options": [
+            "121",
+            "41",
+            "-59",
+            "-95"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 41. மதிப்புகளைப் பிரதியிட்டால்: \\( (4 \\times 9) + (9 \\times -5) + (25 \\times 2) = 36 - 45 + 50 = 41 \\).",
+        "question_en": "If p=2, q=3 and r=-5, find the value of p²q² + q²r + r²p.",
+        "options_en": [
+            "121",
+            "41",
+            "-59",
+            "-95"
+        ],
+        "explanation_en": "Correct answer option (2): 41. Substituting gives \\( (4 \\times 9) + (9 \\times -5) + (25 \\times 2) = 36 - 45 + 50 = 41 \\)."
+    },
+    {
+        "id": 117,
+        "question": "ஒரு போட்டித் தேர்வில் ஒவ்வொரு சரியான பதிலுக்கும் 5 மதிப்பெண்கள் வழங்கப்படுகின்றன. ஒவ்வொரு தவறான விடைக்கும் 2 மதிப்பெண்கள் குறைக்கப்படுகின்றன. ஒருவர் 25 வினாக்களுக்கு விடையளித்து 90 மதிப்பெண்கள் பெற்றார். எனில், அவர் சரியான விடையளித்த மற்றும் தவறாக விடையளித்த வினாக்களின் எண்ணிக்கை முறையே",
+        "options": [
+            "25, 4",
+            "15, 6",
+            "20, 5",
+            "18, 2"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 20, 5. சரியான விடை x, தவறான விடை y என்க. x+y=25 மற்றும் 5x-2y=90. தீர்த்தால் x=20, y=5 கிடைக்கும்.",
+        "question_en": "In a competitive exam, 5 marks are awarded for every correct answer. 2 marks are deducted for every wrong answer. A person answered 25 questions and scored 90 marks. The number of correctly and wrongly answered questions respectively is",
+        "options_en": [
+            "25, 4",
+            "15, 6",
+            "20, 5",
+            "18, 2"
+        ],
+        "explanation_en": "Correct answer option (3): 20, 5. Let x be correct and y be wrong. x+y=25, 5x-2y=90. Solving gives x=20, y=5."
+    },
+    {
+        "id": 118,
+        "question": "\\( \\frac{4}{5} - x = 1 \\frac{7}{40} \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "3/8",
+            "5/8",
+            "-3/8",
+            "-5/8"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -3/8. \\( 1\\frac{7}{40} = \\frac{47}{40} \\). எனவே \\( x = \\frac{4}{5} - \\frac{47}{40} = \\frac{32 - 47}{40} = \\frac{-15}{40} = \\frac{-3}{8} \\).",
+        "question_en": "If \\( \\frac{4}{5} - x = 1 \\frac{7}{40} \\), the value of x is",
+        "options_en": [
+            "3/8",
+            "5/8",
+            "-3/8",
+            "-5/8"
+        ],
+        "explanation_en": "Correct answer option (3): -3/8. \\( x = 4/5 - 47/40 = (32-47)/40 = -15/40 = -3/8 \\)."
+    },
+    {
+        "id": 119,
+        "question": "a=3, b=-2, c=-7 எனில் a² - 2b² + 3c² மதிப்பு",
+        "options": [
+            "125",
+            "148",
+            "164",
+            "111"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 148. மதிப்புகளைப் பிரதியிட்டால்: \\( 3^2 - 2(-2)^2 + 3(-7)^2 = 9 - 2(4) + 3(49) = 9 - 8 + 147 = 148 \\).",
+        "question_en": "If a=3, b=-2, c=-7, the value of a² - 2b² + 3c² is",
+        "options_en": [
+            "125",
+            "148",
+            "164",
+            "111"
+        ],
+        "explanation_en": "Correct answer option (2): 148. Substituting: \\( 9 - 2(4) + 3(49) = 9 - 8 + 147 = 148 \\)."
+    },
+    {
+        "id": 120,
+        "question": "மூன்று அடுத்தடுத்த ஒற்றை இயல் எண்களின் கூடுதல் 255 எனில், அவ்வெண்கள்",
+        "options": [
+            "55, 85, 115",
+            "83, 85, 87",
+            "215, 25, 15",
+            "91, 93, 95"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 83, 85, 87. எண்களை x, x+2, x+4 என்க. \\( 3x + 6 = 255 \\Rightarrow 3x = 249 \\Rightarrow x = 83 \\). எனவே எண்கள் 83, 85, 87.",
+        "question_en": "If the sum of three consecutive odd natural numbers is 255, those numbers are",
+        "options_en": [
+            "55, 85, 115",
+            "83, 85, 87",
+            "215, 25, 15",
+            "91, 93, 95"
+        ],
+        "explanation_en": "Correct answer option (2): 83, 85, 87. Let numbers be x, x+2, x+4. \\( 3x+6=255 \\Rightarrow 3x=249 \\Rightarrow x=83 \\)."
+    },
+    {
+        "id": 121,
+        "question": "\\( 19^{4} \\) என்பதன் விரிவாக்கத்தில் 1 ஆம் இடத்தில் அமையும் இலக்கம்",
+        "options": [
+            "8",
+            "6",
+            "9",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1. 9 இன் அடுக்கு இரட்டைப்படை எண்ணாக (4) இருந்தால், விரிவாக்கத்தின் ஒன்றாம் இலக்கம் 1 ஆக இருக்கும் (எ.கா: \\( 9^2=81 \\)).",
+        "question_en": "The unit digit in the expansion of \\( 19^{4} \\) is",
+        "options_en": [
+            "8",
+            "6",
+            "9",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (4): 1. If the base ends in 9 and the exponent is an even number (4), the unit digit is always 1 (e.g., \\( 9^2=81 \\))."
+    },
+    {
+        "id": 122,
+        "question": "\\( 2^{x}=16 \\) எனில் x இன் மதிப்பு",
+        "options": [
+            "4",
+            "8",
+            "32",
+            "5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 4. 16 ஐ 2 இன் அடுக்காக எழுதினால் \\( 2^4 = 16 \\). எனவே \\( 2^x = 2^4 \\Rightarrow x = 4 \\).",
+        "question_en": "If \\( 2^{x}=16 \\), the value of x is",
+        "options_en": [
+            "4",
+            "8",
+            "32",
+            "5"
+        ],
+        "explanation_en": "Correct answer option (1): 4. Expressing 16 as a power of 2 gives \\( 2^4 = 16 \\). So, \\( 2^x = 2^4 \\Rightarrow x = 4 \\)."
+    },
+    {
+        "id": 123,
+        "question": "\\( x^{2}-5x^{2}y^{3}+30x^{3}y^{4}-576xy \\) என்ற கோவையின் படி",
+        "options": [
+            "-576",
+            "4",
+            "5",
+            "7"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 7. கோவையின் படி என்பது அதிகபட்ச அடுக்குகளின் கூடுதல் ஆகும். \\( 30x^3y^4 \\) என்ற உறுப்பில் அடுக்குகளின் கூடுதல் \\( 3+4 = 7 \\). இதுவே அதிகபட்சம்.",
+        "question_en": "The degree of the expression \\( x^{2}-5x^{2}y^{3}+30x^{3}y^{4}-576xy \\) is",
+        "options_en": [
+            "-576",
+            "4",
+            "5",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (4): 7. The degree of an expression is the highest sum of exponents in any term. For \\( 30x^3y^4 \\), the sum is \\( 3+4 = 7 \\)."
+    },
+    {
+        "id": 124,
+        "question": "\\( p^{3}q^{3}+p^{2}q+p^{4} \\) என்ற கோவையின் படி",
+        "options": [
+            "3",
+            "6",
+            "2",
+            "4"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 6. முதல் உறுப்பான \\( p^3q^3 \\) இல் அடுக்குகளின் கூடுதல் \\( 3+3 = 6 \\). இதுவே அதிகபட்சம் என்பதால் கோவையின் படி 6 ஆகும்.",
+        "question_en": "The degree of the expression \\( p^{3}q^{3}+p^{2}q+p^{4} \\) is",
+        "options_en": [
+            "3",
+            "6",
+            "2",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (2): 6. In the term \\( p^3q^3 \\), the sum of exponents is \\( 3+3 = 6 \\), which is the highest. Thus, the degree is 6."
+    },
+    {
+        "id": 125,
+        "question": "\\( (-2.56 \\times 4.2)^0 = \\)",
+        "options": [
+            "0",
+            "1",
+            "10.752",
+            "-10.752"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1. எந்தவொரு சுழியற்ற எண்ணின் அடுக்கும் பூச்சியமாக (0) இருந்தால், அதன் மதிப்பு 1 ஆகும்.",
+        "question_en": "\\( (-2.56 \\times 4.2)^0 = \\)",
+        "options_en": [
+            "0",
+            "1",
+            "10.752",
+            "-10.752"
+        ],
+        "explanation_en": "Correct answer option (2): 1. Any non-zero base raised to the power of 0 is always equal to 1."
+    },
+    {
+        "id": 126,
+        "question": "\\( (\\frac{a^{11}}{a^{13}})^{\\frac{1}{143}} \\times (\\frac{a^{13}}{a^{7}})^{\\frac{1}{91}} \\times (\\frac{a^{7}}{a^{11}})^{\\frac{1}{77}} \\) இன் மதிப்பு",
+        "options": [
+            "1",
+            "-1",
+            "a",
+            "\\( \\frac{1}{a} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1. இது \\( (a^{-2})^{1/143} \\times (a^6)^{1/91} \\times (a^{-4})^{1/77} \\) என ஆகும். அடுக்குகளைச் சுருக்கினால் \\( a^0 \\) என வரும். எனவே மதிப்பு 1.",
+        "question_en": "The value of \\( (\\frac{a^{11}}{a^{13}})^{\\frac{1}{143}} \\times (\\frac{a^{13}}{a^{7}})^{\\frac{1}{91}} \\times (\\frac{a^{7}}{a^{11}})^{\\frac{1}{77}} \\) is",
+        "options_en": [
+            "1",
+            "-1",
+            "a",
+            "\\( \\frac{1}{a} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): 1. The expression simplifies to \\( a^{-2/143 + 6/91 - 4/77} \\). The sum of the exponents equals 0, so \\( a^0 = 1 \\)."
+    },
+    {
+        "id": 127,
+        "question": "a=3, b=2 எனில் \\( a^{b}-b^{a} \\) இன் மதிப்பு",
+        "options": [
+            "0",
+            "1",
+            "5",
+            "6"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1. மதிப்புகளைப் பிரதியிட்டால் \\( 3^2 - 2^3 = 9 - 8 = 1 \\).",
+        "question_en": "If a=3, b=2, the value of \\( a^{b}-b^{a} \\) is",
+        "options_en": [
+            "0",
+            "1",
+            "5",
+            "6"
+        ],
+        "explanation_en": "Correct answer option (2): 1. Substituting the values gives \\( 3^2 - 2^3 = 9 - 8 = 1 \\)."
+    },
+    {
+        "id": 128,
+        "question": "\\( 2 \\times 2 \\times 2 \\times 2 \\times 2... (n \\text{ முறை}) = 1024 \\) எனில் n இன் மதிப்பு",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 10. 1024 ஐ 2 இன் அடுக்காக எழுதினால் \\( 2^{10} = 1024 \\) கிடைக்கும். எனவே 2 ஐ 10 முறை பெருக்க வேண்டும்.",
+        "question_en": "If \\( 2 \\times 2 \\times 2 \\times 2 \\times 2... (n \\text{ times}) = 1024 \\), then n =",
+        "options_en": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "explanation_en": "Correct answer option (3): 10. Expressing 1024 as a power of 2 gives \\( 2^{10} = 1024 \\). Thus, 2 is multiplied 10 times."
+    },
+    {
+        "id": 129,
+        "question": "\\( 12^x - 12 = 132 \\) எனில் x-ன் மதிப்பு",
+        "options": [
+            "-3",
+            "3",
+            "2",
+            "1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 2. \\( 12^x = 132 + 12 = 144 \\). 144 ஐ \\( 12^2 \\) என எழுதலாம். எனவே \\( x = 2 \\).",
+        "question_en": "If \\( 12^x - 12 = 132 \\), the value of x is",
+        "options_en": [
+            "-3",
+            "3",
+            "2",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (3): 2. \\( 12^x = 132 + 12 = 144 \\). Since \\( 144 = 12^2 \\), \\( x = 2 \\)."
+    },
+    {
+        "id": 130,
+        "question": "\\( (3p^{2}+2q^{2})-(5q+6p^{2})+(7p^{2}-9p) \\) என்ற கோவையின் படி",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "0"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2. கொடுக்கப்பட்ட கோவையைச் சுருக்கினாலும், அதில் அதிகபட்ச அடுக்காக 2 தான் இருக்கும் (\\( p^2 \\) மற்றும் \\( q^2 \\)). எனவே படி 2.",
+        "question_en": "The degree of the expression \\( (3p^{2}+2q^{2})-(5q+6p^{2})+(7p^{2}-9p) \\) is",
+        "options_en": [
+            "3",
+            "2",
+            "1",
+            "0"
+        ],
+        "explanation_en": "Correct answer option (2): 2. Even after simplifying, the highest power of any variable in the expression is 2 (from \\( p^2 \\) and \\( q^2 \\)). So the degree is 2."
+    },
+    {
+        "id": 131,
+        "question": "\\( 124 \\times 36 \\times 980 \\) இன் 1 ஆம் இடத்தில் வரக் கூடிய எண்",
+        "options": [
+            "4",
+            "2",
+            "6",
+            "0"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 0. எண்களில் 980 இன் ஒன்றாம் இலக்கம் 0. பூச்சியத்தால் எந்த எண்ணைப் பெருக்கினாலும் ஒன்றாம் இலக்கம் 0 ஆகத்தான் முடியும்.",
+        "question_en": "The unit digit of \\( 124 \\times 36 \\times 980 \\) is",
+        "options_en": [
+            "4",
+            "2",
+            "6",
+            "0"
+        ],
+        "explanation_en": "Correct answer option (4): 0. The unit digit of 980 is 0. Multiplying any number by 0 results in a unit digit of 0."
+    },
+    {
+        "id": 132,
+        "question": "அடுக்குகளின் மற்றொரு பெயர்",
+        "options": [
+            "மாறி",
+            "அடிமானம்",
+            "இண்டிசஸ்",
+            "மாறிலி"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): இண்டிசஸ். அடுக்குகளை ஆங்கிலத்தில் 'Indices' என்று குறிப்பிடுவர் (BIDMAS முறையில் I என்பது Indices ஐக் குறிக்கும்).",
+        "question_en": "Another name for powers/exponents is",
+        "options_en": [
+            "Variable",
+            "Base",
+            "Indices",
+            "Constant"
+        ],
+        "explanation_en": "Correct answer option (3): Indices. In mathematics, powers are also referred to as indices (like the 'I' in BIDMAS)."
+    },
+    {
+        "id": 133,
+        "question": "\\( 9^{10} \\) என்பதின் ஒன்றாம் இலக்கம்",
+        "options": [
+            "1",
+            "9",
+            "0",
+            "8"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1. 9 இன் அடுக்கு இரட்டைப்படை எண்ணாக இருந்தால், அதன் ஒன்றாம் இலக்கம் எப்போதும் 1 ஆக இருக்கும்.",
+        "question_en": "The unit digit of \\( 9^{10} \\) is",
+        "options_en": [
+            "1",
+            "9",
+            "0",
+            "8"
+        ],
+        "explanation_en": "Correct answer option (1): 1. If the base ends in 9 and the exponent is an even number, the unit digit is always 1."
+    },
+    {
+        "id": 134,
+        "question": "\\( (30+x)^{4}=50625 \\) எனில், x-ன் மதிப்பு",
+        "options": [
+            "16",
+            "4",
+            "-15",
+            "-3"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -15. 50625 என்பது \\( 15^4 \\) ஆகும். எனவே \\( 30+x = 15 \\Rightarrow x = 15 - 30 = -15 \\).",
+        "question_en": "If \\( (30+x)^{4}=50625 \\), the value of x is",
+        "options_en": [
+            "16",
+            "4",
+            "-15",
+            "-3"
+        ],
+        "explanation_en": "Correct answer option (3): -15. 50625 is \\( 15^4 \\). Thus, \\( 30+x = 15 \\Rightarrow x = 15 - 30 = -15 \\)."
+    },
+    {
+        "id": 135,
+        "question": "\\( 10^{22}+10^{23}+10^{24} \\) என்ற கோவையின் ஒன்றாம் இலக்கம்",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 0. 10 இன் எந்த அடுக்காக இருந்தாலும் ஒன்றாம் இலக்கம் 0 தான். எனவே \\( 0 + 0 + 0 = 0 \\).",
+        "question_en": "The unit digit of the expression \\( 10^{22}+10^{23}+10^{24} \\) is",
+        "options_en": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "explanation_en": "Correct answer option (1): 0. Any power of 10 ends in 0. The sum of their unit digits is \\( 0 + 0 + 0 = 0 \\)."
+    },
+    {
+        "id": 136,
+        "question": "\\( (15 \\times 16 \\times 17)^{0} \\) இன் மதிப்பு",
+        "options": [
+            "0",
+            "1",
+            "15",
+            "17"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1. அடைப்புக்குறிக்குள் என்ன மதிப்பு வந்தாலும், அதன் அடுக்கு 0 ஆக இருப்பதால் முழு கோவையின் மதிப்பு 1 ஆகும்.",
+        "question_en": "The value of \\( (15 \\times 16 \\times 17)^{0} \\) is",
+        "options_en": [
+            "0",
+            "1",
+            "15",
+            "17"
+        ],
+        "explanation_en": "Correct answer option (2): 1. Any non-zero number raised to the power of 0 is always equal to 1, regardless of the value inside the bracket."
+    }
+]

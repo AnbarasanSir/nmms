@@ -1,0 +1,1806 @@
+[
+  {
+    "id": 91,
+    "question": "மாதவி ஒரு குறிப்பிட்ட தொகைக்கு 20% வட்டி வீதம் 4 ஆண்டுகளுக்கு ₹5,000-ஐத் தனிவட்டியாக செலுத்தினால் அசலைக் காண்க.",
+    "options": [
+      "₹6,000",
+      "₹6,250",
+      "₹7,250",
+      "₹7,000"
+    ],
+    "correct": 1,
+    "explanation": "P = (I × 100) / (N × R) = (5000 × 100) / (4 × 20) = 500000 / 80 = 6250.",
+    "question_en": "Madhavi paid ₹5,000 as simple interest for 4 years at an interest rate of 20%. Find the principal amount.",
+    "options_en": [
+      "₹6,000",
+      "₹6,250",
+      "₹7,250",
+      "₹7,000"
+    ],
+    "explanation_en": "P = (I × 100) / (N × R) = (5000 × 100) / (4 × 20) = 500000 / 80 = 6250."
+  },
+  {
+    "id": 92,
+    "question": "ஒரு பள்ளியில் 360 மாணாக்கர்கள் உள்ளனர். அவர்களில் 240 பேர் மாணவர்கள் எனில் மாணவிகளின் சதவீதம் காண்க.",
+    "options": [
+      "33%",
+      "33.6%",
+      "33.3%",
+      "30%"
+    ],
+    "correct": 2,
+    "explanation": "மாணவிகளின் எண்ணிக்கை = 360 - 240 = 120. சதவீதம் = (120 / 360) × 100 = 33.33%.",
+    "question_en": "A school has 360 students. If 240 of them are boys, find the percentage of girls.",
+    "options_en": [
+      "33%",
+      "33.6%",
+      "33.3%",
+      "30%"
+    ],
+    "explanation_en": "Number of girls = 360 - 240 = 120. Percentage = (120 / 360) × 100 = 33.33%."
+  },
+  {
+    "id": 93,
+    "question": "ஒரு முக்கோணத்தின் ஒரு வெளிக்கோணம் 110° மற்றும் அதன் உள்ளெதிர்க் கோணங்கள் சமமெனில், அம்முக்கோணத்தின் அனைத்து உட்கோணங்களையும் காண்க.",
+    "options": [
+      "80°, 45°, 45°",
+      "70°, 55°, 55°",
+      "50°, 65°, 65°",
+      "70°, 50°, 60°"
+    ],
+    "correct": 1,
+    "explanation": "உள்ளெதிர் கோணங்களின் கூடுதல் வெளிக்கோணத்திற்குச் சமம் (x + x = 110° => x = 55°). மூன்றாவது கோணம் = 180° - 110° = 70°.",
+    "question_en": "If an exterior angle of a triangle is 110° and its interior opposite angles are equal, find all the interior angles of the triangle.",
+    "options_en": [
+      "80°, 45°, 45°",
+      "70°, 55°, 55°",
+      "50°, 65°, 65°",
+      "70°, 50°, 60°"
+    ],
+    "explanation_en": "The sum of interior opposite angles is equal to the exterior angle (x + x = 110° => x = 55°). The third angle = 180° - 110° = 70°."
+  },
+  {
+    "id": 94,
+    "question": "பின்வரும் பாஸ்கல் முக்கோண அமைப்பில் விடுபட்டுள்ள எண்களை நிரப்புக. (படத்தில் உள்ளபடி)",
+    "image": "image/mat_2024/q94.PNG",
+    "options": [
+      "30, 100, 10",
+      "20, 21, 70",
+      "20, 70, 21",
+      "21, 20, 70"
+    ],
+    "correct": 1,
+    "explanation": "பாஸ்கல் முக்கோணம் மற்றும் அறுகோண அமைப்பின் விதிகளின் படி சரியான விடை 20, 21, 70.",
+    "question_en": "Fill in the missing numbers in the following Pascal's triangle arrangement. (As shown in the figure)",
+    "options_en": [
+      "30, 100, 10",
+      "20, 21, 70",
+      "20, 70, 21",
+      "21, 20, 70"
+    ],
+    "explanation_en": "According to the rules of Pascal's triangle and hexagonal arrangement, the correct answer is 20, 21, 70."
+  },
+  {
+    "id": 95,
+    "question": "10 மதிப்புகளின் கூட்டுச்சராசரி 60 எனக் கணக்கிடப்பட்டது. ஒரு மதிப்பு 11-க்குப் பதிலாக 51 என்று தவறாக எடுத்துக்கொள்ளப்பட்டது எனில், சரியான சராசரி யாது?",
+    "options": [
+      "56",
+      "65",
+      "54",
+      "51"
+    ],
+    "correct": 0,
+    "explanation": "தவறான கூடுதல் = 600. சரியான கூடுதல் = 600 - 51 + 11 = 560. சரியான சராசரி = 560 / 10 = 56.",
+    "question_en": "The arithmetic mean of 10 values was calculated as 60. If one value was mistakenly taken as 51 instead of 11, what is the correct mean?",
+    "options_en": [
+      "56",
+      "65",
+      "54",
+      "51"
+    ],
+    "explanation_en": "Incorrect sum = 600. Correct sum = 600 - 51 + 11 = 560. Correct mean = 560 / 10 = 56."
+  },
+  {
+    "id": 96,
+    "question": "60 வேலையாட்கள் ஒரு வேலையை 12 நாட்களில் முடிப்பார்கள் எனில், அதே வேலையை 5 நாட்களில் முடிக்கத் தேவையான வேலையாட்களின் எண்ணிக்கை:",
+    "options": [
+      "144",
+      "140",
+      "25",
+      "120"
+    ],
+    "correct": 0,
+    "explanation": "M1 × D1 = M2 × D2 => 60 × 12 = x × 5 => x = 720 / 5 = 144.",
+    "question_en": "If 60 workers can complete a job in 12 days, the number of workers required to complete the same job in 5 days is:",
+    "options_en": [
+      "144",
+      "140",
+      "25",
+      "120"
+    ],
+    "explanation_en": "M1 × D1 = M2 × D2 => 60 × 12 = x × 5 => x = 720 / 5 = 144."
+  },
+  {
+    "id": 97,
+    "question": "கோண அளவு 180°-க்கு மேல் 360°-க்குள் இருந்தால் அக்கோணம்:",
+    "options": [
+      "மிகை நிரப்புக் கோணம்",
+      "நிரப்புக் கோணம்",
+      "நேர்கோணம்",
+      "பின் வளைகோணம்"
+    ],
+    "correct": 3,
+    "explanation": "180° முதல் 360° வரை உள்ள கோணங்கள் பின் வளைகோணம் (Reflex Angle) எனப்படும்.",
+    "question_en": "If the angle measure is between 180° and 360°, the angle is:",
+    "options_en": [
+      "Supplementary angle",
+      "Complementary angle",
+      "Straight angle",
+      "Reflex angle"
+    ],
+    "explanation_en": "Angles between 180° and 360° are called Reflex Angles."
+  },
+  {
+    "id": 98,
+    "question": "\\(64x^2 + 144xy + 81y^2\\) என்பதன் காரணிகள்:",
+    "options": [
+      "\\((8x+9y)(8x+9y)\\)",
+      "\\((8x-9y)(8x+9y)\\)",
+      "\\((8x-9y)^2\\)",
+      "\\((9y-8x)^2\\)"
+    ],
+    "correct": 0,
+    "explanation": "இது \\(a^2 + 2ab + b^2 = (a+b)^2\\) என்ற வடிவில் உள்ளது. எனவே, விடை \\((8x+9y)^2\\).",
+    "question_en": "The factors of \\(64x^2 + 144xy + 81y^2\\) are:",
+    "options_en": [
+      "\\((8x+9y)(8x+9y)\\)",
+      "\\((8x-9y)(8x+9y)\\)",
+      "\\((8x-9y)^2\\)",
+      "\\((9y-8x)^2\\)"
+    ],
+    "explanation_en": "This is in the form \\(a^2 + 2ab + b^2 = (a+b)^2\\). Therefore, the answer is \\((8x+9y)^2\\)."
+  },
+  {
+    "id": 99,
+    "question": "வட்டத்தின் சுற்றளவு என்பது எப்போதும்:",
+    "options": [
+      "அதன் விட்டத்தைப் போல் 3 மடங்கு",
+      "அதன் விட்டத்தின் 3 மடங்கை விட அதிகம்",
+      "அதன் ஆரத்தின் 6 மடங்கைவிட குறைவு",
+      "அதன் ஆரத்தைப் போல 3 மடங்கு"
+    ],
+    "correct": 1,
+    "explanation": "சுற்றளவு = \\(\\pi \\times D\\). இங்கு \\(\\pi \\approx 3.14\\) என்பதால், இது விட்டத்தின் 3 மடங்கை விடச் சற்று அதிகம்.",
+    "question_en": "The circumference of a circle is always:",
+    "options_en": [
+      "3 times its diameter",
+      "more than 3 times its diameter",
+      "less than 6 times its radius",
+      "3 times its radius"
+    ],
+    "explanation_en": "Circumference = \\(\\pi \\times D\\). Since \\(\\pi \\approx 3.14\\), it is slightly more than 3 times the diameter."
+  },
+  {
+    "id": 100,
+    "question": "ஒரு இணைகரத்தின் அடிப்பக்கமானது அதன் உயரத்தைப் போல 6 மடங்காகவும், அதன் பரப்பளவு 1734 ச.செ.மீ ஆகவும் இருப்பின், அதன் அடிப்பக்கம் மற்றும் உயரம் முறையே:",
+    "options": [
+      "100 செ.மீ, 15 செ.மீ",
+      "102 செ.மீ, 17 செ.மீ",
+      "104 செ.மீ, 16 செ.மீ",
+      "101 செ.மீ, 18 செ.மீ"
+    ],
+    "correct": 1,
+    "explanation": "b = 6h. பரப்பளவு = b × h = 6h² = 1734 => h² = 289 => h = 17. b = 6 × 17 = 102.",
+    "question_en": "If the base of a parallelogram is 6 times its height, and its area is 1734 sq. cm, then its base and height are respectively:",
+    "options_en": [
+      "100 cm, 15 cm",
+      "102 cm, 17 cm",
+      "104 cm, 16 cm",
+      "101 cm, 18 cm"
+    ],
+    "explanation_en": "b = 6h. Area = b × h = 6h² = 1734 => h² = 289 => h = 17. b = 6 × 17 = 102."
+  },
+  {
+    "id": 101,
+    "question": "பெருக்கற்பலன் -63-ஐத் தரக்கூடிய எத்தனை சோடி முழுக்கள் உள்ளன?",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "(-1,63), (1,-63), (-3,21), (3,-21), (-7,9), (7,-9) என மொத்தம் 6 சோடிகள் உள்ளன.",
+    "question_en": "How many pairs of integers have a product of -63?",
+    "options_en": [
+      "5",
+      "4",
+      "2",
+      "6"
+    ],
+    "explanation_en": "There are a total of 6 pairs: (-1,63), (1,-63), (-3,21), (3,-21), (-7,9), (7,-9)."
+  },
+  {
+    "id": 102,
+    "question": "ஒரு நீர்மூழ்கிக் கப்பலானது கடல் மட்டத்திலிருந்து 123 அடிகள் கீழே உள்ளது. பிறகு 25 அடிகள் மேல்நோக்கி நகர்ந்து, மீண்டும் 18 அடிகள் கீழே இறங்குகிறது. தற்போது அதன் ஆழம்:",
+    "options": [
+      "+116",
+      "-80",
+      "-116",
+      "+130"
+    ],
+    "correct": 2,
+    "explanation": "-123 + 25 - 18 = -116 அடிகள் (கீழே).",
+    "question_en": "A submarine is 123 feet below sea level. It then moves 25 feet upwards and then descends 18 feet again. What is its current depth?",
+    "options_en": [
+      "+116",
+      "-80",
+      "-116",
+      "+130"
+    ],
+    "explanation_en": "-123 + 25 - 18 = -116 feet (below)."
+  },
+  {
+    "id": 103,
+    "question": "கடிகாரத்தில் 126 மி.மீ. நீளமுள்ள வினாடி முள்ளின் முனை ஒரு நிமிடத்தில் கடக்கும் தொலைவு:",
+    "options": [
+      "792 மி.மீ",
+      "972 மி.மீ",
+      "252 மி.மீ",
+      "396 மி.மீ"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு நிமிடத்தில் அது ஒரு முழு வட்டத்தை சுற்றும். சுற்றளவு = 2πr = 2 × (22/7) × 126 = 792 மி.மீ.",
+    "question_en": "The distance covered by the tip of a 126 mm long second hand of a clock in one minute is:",
+    "options_en": [
+      "792 mm",
+      "972 mm",
+      "252 mm",
+      "396 mm"
+    ],
+    "explanation_en": "In one minute, it completes a full circle. Circumference = 2πr = 2 × (22/7) × 126 = 792 mm."
+  },
+  {
+    "id": 104,
+    "question": "கி.மு. 421 மற்றும் கி.பி. 1537-க்கு இடையே எத்தனை வருடங்கள் உள்ளன?",
+    "options": [
+      "1598",
+      "1958",
+      "1588",
+      "1957"
+    ],
+    "correct": 1,
+    "explanation": "421 + 1537 = 1958.",
+    "question_en": "How many years are there between 421 BC and 1537 AD?",
+    "options_en": [
+      "1598",
+      "1958",
+      "1588",
+      "1957"
+    ],
+    "explanation_en": "421 + 1537 = 1958."
+  },
+  {
+    "id": 105,
+    "question": "14, -3, 0, -4, -21, 8, 13, -1, 7, 8 தரவுகளின் இடைநிலையைக் காண்க.",
+    "options": [
+      "-4",
+      "-0.5",
+      "-5",
+      "8"
+    ],
+    "correct": 1,
+    "explanation": "ஏறுவரிசைப் படுத்தினால் மைய எண்கள் -1 மற்றும் 0 வரும். சராசரி = -0.5.",
+    "question_en": "Find the median of the data: 14, -3, 0, -4, -21, 8, 13, -1, 7, 8.",
+    "options_en": [
+      "-4",
+      "-0.5",
+      "-5",
+      "8"
+    ],
+    "explanation_en": "Arranging in ascending order, the middle numbers are -1 and 0. Average = -0.5."
+  },
+  {
+    "id": 106,
+    "question": "ஒரு 3 மடிப்பு அழைப்பிதழ் அட்டையானது படத்தில் உள்ளவாறு சரிவக அளவுகளைக் கொண்டுள்ளது. அதன் பரப்பளவைக் காண்க.",
+    "image": "image/mat_2024/q106.PNG",
+    "options": [
+      "598 ச.செ.மீ",
+      "414 ச.செ.மீ",
+      "958 ச.செ.மீ",
+      "498 ச.செ.மீ"
+    ],
+    "correct": 1,
+    "explanation": "அனைத்து பகுதிகளின் பரப்பளவைக் கூட்டினால் 414 ச.செ.மீ கிடைக்கும்.",
+    "question_en": "A 3-fold invitation card has trapezoidal dimensions as shown in the figure. Find its area.",
+    "options_en": [
+      "598 sq. cm",
+      "414 sq. cm",
+      "958 sq. cm",
+      "498 sq. cm"
+    ],
+    "explanation_en": "Summing the areas of all parts gives 414 sq. cm."
+  },
+  {
+    "id": 107,
+    "question": "10 அடி நீளமுள்ள ஏணி, சுவரில் 6 அடி உயரத்தைத் தொடுமாறு வைக்கப்பட்டால், சுவரிலிருந்து ஏணியின் அடிப்பகுதி எவ்வளவு தூரத்தில் உள்ளது?",
+    "options": [
+      "8 அடி",
+      "9 அடி",
+      "7 அடி",
+      "5 அடி"
+    ],
+    "correct": 0,
+    "explanation": "பிதாகரஸ் தேற்றப்படி: அடிப்பக்கம் = √(10² - 6²) = √(100 - 36) = √64 = 8 அடி.",
+    "question_en": "A 10-foot ladder is placed against a wall, touching it at a height of 6 feet. How far is the base of the ladder from the wall?",
+    "options_en": [
+      "8 feet",
+      "9 feet",
+      "7 feet",
+      "5 feet"
+    ],
+    "explanation_en": "According to the Pythagorean theorem: Base = √(10² - 6²) = √(100 - 36) = √64 = 8 feet."
+  },
+  {
+    "id": 108,
+    "question": "x-ன் மதிப்பைக் காண்க: \\( \\frac{4x}{6} - 7 = \\frac{3x}{5} \\)",
+    "options": [
+      "100",
+      "105",
+      "115",
+      "125"
+    ],
+    "correct": 1,
+    "explanation": "(4x/6) - (3x/5) = 7 => (20x - 18x) / 30 = 7 => 2x = 210 => x = 105.",
+    "question_en": "Find the value of x: \\( \\frac{4x}{6} - 7 = \\frac{3x}{5} \\)",
+    "options_en": [
+      "100",
+      "105",
+      "115",
+      "125"
+    ],
+    "explanation_en": "(4x/6) - (3x/5) = 7 => (20x - 18x) / 30 = 7 => 2x = 210 => x = 105."
+  },
+  {
+    "id": 109,
+    "question": "படத்தில் தெரியாத மதிப்புகளைக் காண்க (கோணங்கள் X, Y, Z).",
+    "image": "image/mat_2024/q109.PNG",
+    "options": [
+      "20°, 60°, 100°",
+      "80°, 40°, 60°",
+      "100°, 40°, 40°",
+      "80°, 80°, 20°"
+    ],
+    "correct": 3,
+    "explanation": "வெளிக்கோணம் மற்றும் முக்கோண கோணங்களின் கூடுதல் விதியைப் பயன்படுத்தி கணக்கிட்டால் விடை 80°, 80°, 20°.",
+    "question_en": "Find the unknown values in the figure (angles X, Y, Z).",
+    "options_en": [
+      "20°, 60°, 100°",
+      "80°, 40°, 60°",
+      "100°, 40°, 40°",
+      "80°, 80°, 20°"
+    ],
+    "explanation_en": "Using the exterior angle theorem and the sum of angles in a triangle, the answer is 80°, 80°, 20°."
+  },
+  {
+    "id": 110,
+    "question": "பின்வரும் விகிதமுறு எண்களின் சரியான ஏறுவரிசையைத் தேர்ந்தெடுக்கவும்: -4/3, -7/12, 8/6, -13/15",
+    "options": [
+      "(பல்வேறு வரிசைகள்)",
+      "-4/3, -13/15, -7/12, 8/6",
+      "(பல்வேறு வரிசைகள்)",
+      "(பல்வேறு வரிசைகள்)"
+    ],
+    "correct": 1,
+    "explanation": "பகுதிகளை சமன் செய்து (மீ.சி.ம 60) ஏறுவரிசையில் அமைத்தால்: -80/60, -52/60, -35/60, +80/60.",
+    "question_en": "Select the correct ascending order of the following rational numbers: -4/3, -7/12, 8/6, -13/15",
+    "options_en": [
+      "(Various orders)",
+      "-4/3, -13/15, -7/12, 8/6",
+      "(Various orders)",
+      "(Various orders)"
+    ],
+    "explanation_en": "By equalizing the denominators (LCM 60) and arranging in ascending order: -80/60, -52/60, -35/60, +80/60."
+  },
+  {
+    "id": 111,
+    "question": "வெப்பமூட்டும் சாதனங்களில் பயன்படுத்தப்படும் அதிக உருகுநிலை கொண்ட பொருள்:",
+    "options": [
+      "தாமிரம்",
+      "காரீயம்",
+      "நிக்ரோம்",
+      "டங்ஸ்டன்"
+    ],
+    "correct": 2,
+    "explanation": "அதிக மின்தடை மற்றும் அதிக உருகுநிலை கொண்ட நிக்ரோம் (Nichrome) பயன்படுத்தப்படுகிறது.",
+    "question_en": "The material with a high melting point used in heating devices is:",
+    "options_en": [
+      "Copper",
+      "Lead",
+      "Nichrome",
+      "Tungsten"
+    ],
+    "explanation_en": "Nichrome, which has high resistance and a high melting point, is used."
+  },
+  {
+    "id": 112,
+    "question": "அறை வெப்பநிலையில் பொருட்களை அதன் அடர்த்தியின் அடிப்படையில் ஏறுவரிசையில் வரிசைப்படுத்துக:",
+    "options": [
+      "பாதரசம், மரம், நீர், மண்ணெண்ணெய், அலுமினியம்",
+      "மண்ணெண்ணெய், மரம், அலுமினியம், நீர், பாதரசம்",
+      "மரம், மண்ணெண்ணெய், நீர், அலுமினியம், பாதரசம்",
+      "அலுமினியம், பாதரசம், மண்ணெண்ணெய், மரம், நீர்"
+    ],
+    "correct": 2,
+    "explanation": "குறைந்த அடர்த்தியிலிருந்து அதிக அடர்த்தி: மரம் < மண்ணெண்ணெய் < நீர் < அலுமினியம் < பாதரசம்.",
+    "question_en": "Arrange the substances in ascending order of their density at room temperature:",
+    "options_en": [
+      "Mercury, Wood, Water, Kerosene, Aluminium",
+      "Kerosene, Wood, Aluminium, Water, Mercury",
+      "Wood, Kerosene, Water, Aluminium, Mercury",
+      "Aluminium, Mercury, Kerosene, Wood, Water"
+    ],
+    "explanation_en": "From lowest to highest density: Wood < Kerosene < Water < Aluminum < Mercury."
+  },
+  {
+    "id": 113,
+    "question": "கோல்ப் பந்து 18 மீ/வி லிருந்து 5 விநாடிகளில் 8 மீ/வி என்ற திசைவேகத்தை அடைகிறது. அதன் எதிர்முடுக்கம் (Deceleration) யாது?",
+    "options": [
+      "2 மீ/வி²",
+      "-2 மீ/வி²",
+      "-0.2 மீ/வி²",
+      "2.5 மீ/வி²"
+    ],
+    "correct": 1,
+    "explanation": "a = (v - u) / t = (8 - 18) / 5 = -2. எதிர்முடுக்கம் என கேட்பதால் அதன் மதிப்பு 2 மீ/வி².",
+    "question_en": "A golf ball changes its velocity from 18 m/s to 8 m/s in 5 seconds. What is its deceleration?",
+    "options_en": [
+      "2 m/s²",
+      "-2 m/s²",
+      "-0.2 m/s²",
+      "2.5 m/s²"
+    ],
+    "explanation_en": "a = (v - u) / t = (8 - 18) / 5 = -2. Since deceleration is asked, its value is 2 m/s²."
+  },
+  {
+    "id": 114,
+    "question": "-20°C வெப்பநிலைக்கு இணையான ஃபாரன்ஹீட் மற்றும் கெல்வின் மதிப்புகள்:",
+    "options": [
+      "253.15 K, -4°F",
+      "263.15 K, 4°F",
+      "293.15 K, -6°F",
+      "243.15 K, -5°F"
+    ],
+    "correct": 0,
+    "explanation": "F = (-20 × 9/5) + 32 = -4°F. K = -20 + 273.15 = 253.15 K.",
+    "question_en": "The Fahrenheit and Kelvin equivalents for -20°C temperature are:",
+    "options_en": [
+      "253.15 K, -4°F",
+      "263.15 K, 4°F",
+      "293.15 K, -6°F",
+      "243.15 K, -5°F"
+    ],
+    "explanation_en": "F = (-20 × 9/5) + 32 = -4°F. K = -20 + 273.15 = 253.15 K."
+  },
+  {
+    "id": 115,
+    "question": "பூமிக்கும் சூரியனுக்கும் இடையேயான சராசரித் தொலைவு:",
+    "options": [
+      "147.1 மில்லியன் கி.மீ.",
+      "152.1 மில்லியன் கி.மீ.",
+      "149.6 மில்லியன் கி.மீ.",
+      "148.6 மில்லியன் கி.மீ."
+    ],
+    "correct": 2,
+    "explanation": "சராசரித் தொலைவு (1 வானியல் அலகு) 149.6 மில்லியன் கி.மீ ஆகும்.",
+    "question_en": "The average distance between the Earth and the Sun is:",
+    "options_en": [
+      "147.1 million km",
+      "152.1 million km",
+      "149.6 million km",
+      "148.6 million km"
+    ],
+    "explanation_en": "The average distance (1 Astronomical Unit) is 149.6 million km."
+  },
+  {
+    "id": 116,
+    "question": "மின்கலன் : அலெஸாண்ட்ரோ வோல்டா :: கினெடாஸ்கோப் : _____",
+    "options": [
+      "லூயிகி கால்வானி",
+      "தாமஸ் ஆல்வா எடிசன்",
+      "ரிச்சர்டு பார்க்கர்",
+      "ஆல்பர்ட் ஐன்ஸ்டீன்"
+    ],
+    "correct": 1,
+    "explanation": "கினெடாஸ்கோப் (Kinetoscope) என்னும் திரைப்படக் கருவியைக் கண்டறிந்தவர் தாமஸ் ஆல்வா எடிசன்.",
+    "question_en": "Electric Battery : Alessandro Volta :: Kinetoscope : _____",
+    "options_en": [
+      "Luigi Galvani",
+      "Thomas Alva Edison",
+      "Richard Parker",
+      "Albert Einstein"
+    ],
+    "explanation_en": "The Kinetoscope, a motion picture device, was invented by Thomas Alva Edison."
+  },
+  {
+    "id": 117,
+    "question": "நிலவு இல்லாத கோள்கள்:",
+    "options": [
+      "புதன் மற்றும் வெள்ளி",
+      "புதன் மற்றும் செவ்வாய்",
+      "வெள்ளி மற்றும் யுரேனஸ்",
+      "யுரேனஸ் மற்றும் செவ்வாய்"
+    ],
+    "correct": 0,
+    "option": "நமது சூரிய குடும்பத்தில் புதன் (Mercury) மற்றும் வெள்ளி (Venus) கோள்களுக்கு துணைக்கோள்கள் இல்லை.",
+    "question_en": "Planets without moons:",
+    "options_en": [
+      "Mercury and Venus",
+      "Mercury and Mars",
+      "Venus and Uranus",
+      "Uranus and Mars"
+    ],
+    "explanation_en": ""
+  },
+  {
+    "id": 118,
+    "question": "சரியான கூற்று: (i) ஒளியை விட வேகமாக எந்தவொரு பொருளும் பயணிப்பதில்லை. (ii) நிழல் மூலம் பொருளின் தன்மையைக் கண்டறியலாம். (iii) ஊசித் துளை காமிரா பிம்பம் நேரானது. (iv) சமதள ஆடியில் தோன்றும் பிம்பமும் பொருளும் ஒரே அளவு.",
+    "options": [
+      "(ii) மற்றும் (iii)",
+      "(i) மற்றும் (iv)",
+      "(iii) மற்றும் (iv)",
+      "மேற்கூறிய அனைத்தும்"
+    ],
+    "correct": 1,
+    "explanation": "ஒளியின் வேகம் அதிகம் என்பது சரி. சமதள ஆடியில் பிம்பமும் பொருளும் ஒரே அளவு என்பது சரி.",
+    "question_en": "Correct statements: (i) No object travels faster than light. (ii) The nature of an object can be determined by its shadow. (iii) The image formed by a pinhole camera is erect. (iv) The image and object in a plane mirror are of the same size.",
+    "options_en": [
+      "(ii) and (iii)",
+      "(i) and (iv)",
+      "(iii) and (iv)",
+      "All of the above"
+    ],
+    "explanation_en": "The speed of light is high is correct. The image and object in a plane mirror are of the same size is correct."
+  },
+  {
+    "id": 119,
+    "question": "20 கூலும் மின்னூட்டம் ஒரு கடத்தியின் வழியாக 3 நிமிடங்களுக்குப் பாய்கிறது எனில், ஒரு வினாடியில் பாயும் மின்னோட்டத்தின் அளவு:",
+    "options": [
+      "0.11 A",
+      "0.10 A",
+      "0.01 A",
+      "0.001 A"
+    ],
+    "correct": 0,
+    "explanation": "I = Q / t = 20 / (3 × 60) = 20 / 180 = 0.111 A.",
+    "question_en": "If 20 Coulombs of charge flows through a conductor for 3 minutes, the amount of current flowing per second is:",
+    "options_en": [
+      "0.11 A",
+      "0.10 A",
+      "0.01 A",
+      "0.001 A"
+    ],
+    "explanation_en": "I = Q / t = 20 / (3 × 60) = 20 / 180 = 0.111 A."
+  },
+  {
+    "id": 120,
+    "question": "கூற்று: ஒவ்வொரு திரவமும் வெவ்வேறு வேகத்தில் நகர்கிறது. காரணம்: திரவ அடுக்குகளுக்கு இடையே உள்ள உராய்வு விசையானது அவ்வியக்கத்தை எதிர்க்கும்.",
+    "options": [
+      "இரண்டும் தவறு",
+      "கூற்று சரி, காரணம் விளக்கவில்லை",
+      "கூற்று சரி, காரணம் விளக்குகிறது",
+      "கூற்று சரி, காரணம் தவறு"
+    ],
+    "correct": 2,
+    "explanation": "பாகுநிலை (Viscosity) எனப்படும் திரவ உராய்வே இதன் காரணம்.",
+    "question_en": "Assertion: Every liquid moves at a different speed. Reason: The frictional force between liquid layers opposes this motion.",
+    "options_en": [
+      "Both are false",
+      "Assertion is true, reason does not explain",
+      "Assertion is true, reason explains",
+      "Assertion is true, reason is false"
+    ],
+    "explanation_en": "Viscosity, which is liquid friction, is the reason for this."
+  },
+  {
+    "id": 121,
+    "question": "2 கி.கி நீரின் வெப்பநிலையை 60°C லிருந்து 70°C ஆக உயர்த்தத் தேவைப்படும் வெப்ப ஆற்றலின் மதிப்பு (தன்வெப்ப ஏற்புத்திறன் = 4200 Jkg⁻¹K⁻¹):",
+    "options": [
+      "80000 J",
+      "42000 J",
+      "84000 J",
+      "48000 J"
+    ],
+    "correct": 2,
+    "explanation": "Q = mcΔT = 2 × 4200 × (70-60) = 84000 J.",
+    "question_en": "The amount of heat energy required to raise the temperature of 2 kg of water from 60°C to 70°C (specific heat capacity = 4200 Jkg⁻¹K⁻¹):",
+    "options_en": [
+      "80000 J",
+      "42000 J",
+      "84000 J",
+      "48000 J"
+    ],
+    "explanation_en": "Q = mcΔT = 2 × 4200 × (70-60) = 84000 J."
+  },
+  {
+    "id": 122,
+    "question": "மென்மையான உலோகம்:",
+    "options": [
+      "நிக்கல்",
+      "சோடியம்",
+      "கால்சியம்",
+      "அலுமினியம்"
+    ],
+    "correct": 1,
+    "explanation": "கத்தியால் வெட்டக்கூடிய அளவுக்கு மென்மையான உலோகம் சோடியம்.",
+    "question_en": "Soft metal:",
+    "options_en": [
+      "Nickel",
+      "Sodium",
+      "Calcium",
+      "Aluminum"
+    ],
+    "explanation_en": "Sodium is a soft metal that can be cut with a knife."
+  },
+  {
+    "id": 123,
+    "question": "மனித உடலின் 99% நிறையில் அடங்கியுள்ள ஆறு தனிமங்கள்:",
+    "options": [
+      "நைட்ரஜன், ஹைட்ரஜன், பொட்டாசியம், சல்பர், சோடியம், குளோரின்",
+      "ஆக்சிஜன், ஹைட்ரஜன், கால்சியம், சல்பர், குளோரின், மெக்னீசியம்",
+      "கார்பன், ஹைட்ரஜன், பாஸ்பரஸ், பொட்டாசியம், சோடியம், மெக்னீசியம்",
+      "ஆக்சிஜன், கார்பன், ஹைட்ரஜன், நைட்ரஜன், கால்சியம், பாஸ்பரஸ்"
+    ],
+    "correct": 3,
+    "explanation": "இந்த ஆறு தனிமங்களே நமது உடலின் பெரும்பான்மையான நிறையை உருவாக்குகின்றன.",
+    "question_en": "The six elements that make up 99% of the human body's mass:",
+    "options_en": [
+      "Nitrogen, Hydrogen, Potassium, Sulphur, Sodium, Chlorine",
+      "Oxygen, Hydrogen, Calcium, Sulphur, Chlorine, Magnesium",
+      "Carbon, Hydrogen, Phosphorus, Potassium, Sodium, Magnesium",
+      "Oxygen, Carbon, Hydrogen, Nitrogen, Calcium, Phosphorus"
+    ],
+    "explanation_en": "These six elements constitute the majority of our body's mass."
+  },
+  {
+    "id": 124,
+    "question": "தவறான கூற்றுகளைத் தேர்ந்தெடுக்கவும்: (i) நைட்ரஜன் அண்டத்தில் 2ஆம் இடம். (ii) அலோக ஆக்சைடுகள் காரத்தன்மை கொண்டவை. (iii) CFC பயன்பாட்டைக் குறைத்தல் பூமியைப் பாதுகாக்கும்.",
+    "options": [
+      "(ii) மற்றும் (iii)",
+      "(i) மற்றும் (ii)",
+      "(i) மட்டும்",
+      "(i) மற்றும் (iii)"
+    ],
+    "correct": 1,
+    "explanation": "ஹிலியம் தான் 2ஆம் இடம். அலோக ஆக்சைடுகள் அமிலத் தன்மை கொண்டவை.",
+    "question_en": "Select the incorrect statements: (i) Nitrogen is the 2nd most abundant element in the universe. (ii) Non-metallic oxides are basic in nature. (iii) Reducing CFC usage will protect the Earth.",
+    "options_en": [
+      "(ii) and (iii)",
+      "(i) and (ii)",
+      "(i) only",
+      "(i) and (iii)"
+    ],
+    "explanation_en": "Helium is the 2nd most abundant. Non-metallic oxides are acidic in nature."
+  },
+  {
+    "id": 125,
+    "question": "அணு எண் 19 மற்றும் அணுநிறை 39 கொண்ட தனிமம்:",
+    "options": [
+      "சல்பர்",
+      "பொட்டாசியம்",
+      "குளோரின்",
+      "கால்சியம்"
+    ],
+    "correct": 1,
+    "explanation": "அணு எண் 19 ஐக் கொண்ட தனிமம் பொட்டாசியம் (K) ஆகும்.",
+    "question_en": "Element with atomic number 19 and atomic mass 39:",
+    "options_en": [
+      "Sulfur",
+      "Potassium",
+      "Chlorine",
+      "Calcium"
+    ],
+    "explanation_en": "The element with atomic number 19 is Potassium (K)."
+  },
+  {
+    "id": 126,
+    "question": "பெரிலியம் என்பது _____ இணைதிறன் கொண்ட தனிமத்திற்கு எடுத்துக்காட்டு.",
+    "options": [
+      "நான்கு",
+      "இரட்டை",
+      "மும்மை",
+      "ஒற்றை"
+    ],
+    "correct": 1,
+    "explanation": "பெரிலியத்தின் (Be) இணைதிறன் 2 (Divalent) ஆகும்.",
+    "question_en": "Beryllium is an example of an element with _____ valency.",
+    "options_en": [
+      "four",
+      "divalent",
+      "trivalent",
+      "monovalent"
+    ],
+    "explanation_en": "The valency of Beryllium (Be) is 2 (Divalent)."
+  },
+  {
+    "id": 127,
+    "question": "பொருத்துக: (a) வெப்ப ஏற்பு மாற்றம் (b) வெப்ப உமிழ் மாற்றம் (c) பதங்கமாதல் (d) படிகமாக்குதல்",
+    "options": [
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+      "(a)-ii, (b)-iii, (c)-iv, (d)-i",
+      "(a)-iv, (b)-iii, (c)-i, (d)-ii",
+      "(a)-iv, (b)-i, (c)-ii, (d)-iii"
+    ],
+    "correct": 2,
+    "explanation": "குளுக்கோஸ் கரைதல்-வெப்ப ஏற்பு, Mg நாடா எரிதல்-வெப்ப உமிழ், அம்மோனியம் குளோரைடு-பதங்கமாதல்.",
+    "question_en": "Match the following: (a) Endothermic change (b) Exothermic change (c) Sublimation (d) Crystallization",
+    "options_en": [
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+      "(a)-ii, (b)-iii, (c)-iv, (d)-i",
+      "(a)-iv, (b)-iii, (c)-i, (d)-ii",
+      "(a)-iv, (b)-i, (c)-ii, (d)-iii"
+    ],
+    "explanation_en": "Dissolving glucose - Endothermic, Burning Mg ribbon - Exothermic, Ammonium chloride - Sublimation."
+  },
+  {
+    "id": 128,
+    "question": "பொருந்தாத ஒன்றைத் தேர்க:",
+    "options": [
+      "டி.என்.ஏ, நொதிகள்",
+      "புரோபைலீன், எத்திலீன்",
+      "பட்டு, தோல்",
+      "கைட்டின், லிக்னின்"
+    ],
+    "correct": 1,
+    "explanation": "புரோபைலீன், எத்திலீன் என்பவை ஒற்றைப்படிகள் (Monomers). மற்றவை பலபடிகள் (Polymers).",
+    "question_en": "Find the odd one out:",
+    "options_en": [
+      "DNA, Enzymes",
+      "Propylene, Ethylene",
+      "Silk, Leather",
+      "Chitin, Lignin"
+    ],
+    "explanation_en": "Propylene, Ethylene are monomers. The others are polymers."
+  },
+  {
+    "id": 129,
+    "question": "சரியான இணைகளைத் தேர்க (சுடர் நிறங்கள்):",
+    "options": [
+      "(i) மற்றும் (iii)",
+      "(ii) மற்றும் (iii)",
+      "(i) மற்றும் (iv)",
+      "(ii) மற்றும் (iv)"
+    ],
+    "correct": 2,
+    "explanation": "இது சுடர் பரிசோதனையில் வெளிப்படும் நிறங்கள் பற்றிய கேள்வி. (கால்சியம் செங்கல் சிவப்பு நிறம் தரும்).",
+    "question_en": "Select the correct pairs (Flame colors):",
+    "options_en": [
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(i) and (iv)",
+      "(ii) and (iv)"
+    ],
+    "explanation_en": "This question is about the colors emitted in a flame test. (Calcium gives a brick-red color)."
+  },
+  {
+    "id": 130,
+    "question": "திட நிலையிலுள்ள சேர்மங்களைக் கண்டறிக:",
+    "options": [
+      "பொட்டாசியம் ஹைட்ராக்ஸைடு, HCl",
+      "சிலிக்கா, SO2",
+      "துத்தநாக கார்பனேட், கந்தக அமிலம்",
+      "பொட்டாசியம் ஹைட்ராக்ஸைடு, சோடியம் ஹைட்ராக்ஸைடு"
+    ],
+    "correct": 3,
+    "explanation": "KOH மற்றும் NaOH ஆகிய இரண்டு காரங்களும் திட நிலையில் காணப்படுபவை.",
+    "question_en": "Identify the compounds in solid state:",
+    "options_en": [
+      "Potassium Hydroxide, HCl",
+      "Silica, SO2",
+      "Zinc Carbonate, Sulfuric Acid",
+      "Potassium Hydroxide, Sodium Hydroxide"
+    ],
+    "explanation_en": "Both KOH and NaOH are bases found in solid state."
+  },
+  {
+    "id": 131,
+    "question": "கூற்று: பட்டாசுகள் வெடிக்கின்றன. காரணம்: மூடிய கலனில் வாயுக்களை உருவாக்குவதால் அதன் அழுத்தம் குறைகிறது.",
+    "options": [
+      "இரண்டும் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "இரண்டும் தவறு",
+      "கூற்று சரி, காரணம் விளக்குகிறது"
+    ],
+    "correct": 1,
+    "explanation": "வாயுக்கள் உருவாவதால் அழுத்தம் அதிகரிக்கிறது (குறையாது). எனவே காரணம் தவறு.",
+    "question_en": "Assertion: Firecrackers explode. Reason: The pressure decreases due to the formation of gases in a closed container.",
+    "options_en": [
+      "Both are correct",
+      "Assertion is correct, reason is incorrect",
+      "Both are incorrect",
+      "Assertion is correct, reason explains it"
+    ],
+    "explanation_en": "Pressure increases due to the formation of gases (it does not decrease). Hence the reason is incorrect."
+  },
+  {
+    "id": 132,
+    "question": "பொருத்துக: (a) தன் மகரந்தச் சேர்க்கை, (b) அயல் மகரந்தச் சேர்க்கை, (c) உடல் இனப்பெருக்கம், (d) துண்டாதல்",
+    "options": [
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+      "(a)-ii, (b)-iii, (c)-iv, (d)-i",
+      "(a)-iv, (b)-ii, (c)-i, (d)-iii",
+      "(a)-iii, (b)-i, (c)-iv, (d)-ii"
+    ],
+    "correct": 3,
+    "explanation": "தன் மகரந்தம்-அவரை, அயல்-ப்ளம்ஸ், உடல்-கரும்பு, துண்டாதல்-ஸ்பைரோகைரா.",
+    "question_en": "Match the following: (a) Self-pollination, (b) Cross-pollination, (c) Vegetative reproduction, (d) Fragmentation",
+    "options_en": [
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+      "(a)-ii, (b)-iii, (c)-iv, (d)-i",
+      "(a)-iv, (b)-ii, (c)-i, (d)-iii",
+      "(a)-iii, (b)-i, (c)-iv, (d)-ii"
+    ],
+    "explanation_en": "Self-pollination - Bean, Cross-pollination - Plums, Vegetative reproduction - Sugarcane, Fragmentation - Spirogyra."
+  },
+  {
+    "id": 133,
+    "question": "கூற்று: கள்ளியில் இலைகள் முட்களாக மாறியுள்ளன. காரணம்: நீராவிப்போக்கை அதிகப்படுத்துவதற்காக.",
+    "options": [
+      "இரண்டும் தவறு",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று சரி, காரணம் விளக்குகிறது",
+      "கூற்று சரி, காரணம் விளக்கவில்லை"
+    ],
+    "correct": 1,
+    "explanation": "பாலைவன தாவரங்கள் நீராவிப்போக்கைக் குறைக்கவே இலைகளை முட்களாக மாற்றியுள்ளன.",
+    "question_en": "Assertion: In cactus, leaves have transformed into thorns. Reason: To increase transpiration.",
+    "options_en": [
+      "Both are incorrect",
+      "Assertion is correct, reason is incorrect",
+      "Assertion is correct, reason explains it",
+      "Assertion is correct, reason does not explain it"
+    ],
+    "explanation_en": "Desert plants have modified their leaves into thorns to reduce transpiration."
+  },
+  {
+    "id": 134,
+    "question": "சரியான கூற்றுகளைத் தேர்ந்தெடுக்கவும்: (i) ஓடுதண்டு - புதிய தாவரம் உருவாக்கம். (ii) தரைகீழ் ஓடுதண்டு - கீழ்நோக்கி வளர்தல். (iii) குட்டையான ஓடுதண்டு - கோணப்பகுதியிலிருந்து தோன்றுதல்.",
+    "options": [
+      "(ii) மற்றும் (iii)",
+      "(ii) மட்டும்",
+      "(i) மற்றும் (iii)",
+      "(i) மற்றும் (ii)"
+    ],
+    "correct": 2,
+    "explanation": "(i) மற்றும் (iii) சரியான கூற்றுகள் ஆகும்.",
+    "question_en": "Select the correct statements: (i) Runner - formation of new plant. (ii) Underground runner - grows downwards. (iii) Short runner - arises from the axillary bud.",
+    "options_en": [
+      "(ii) and (iii)",
+      "(ii) only",
+      "(i) and (iii)",
+      "(i) and (ii)"
+    ],
+    "explanation_en": "(i) and (iii) are correct statements."
+  },
+  {
+    "id": 135,
+    "question": "கீழ்க்காணும் செல் அமைப்பு வரைபடத்தில் குறிக்கப்பட்டுள்ள பாகங்களின் சரியான வரிசையைத் தேர்க.",
+    "image": "image/mat_2024/q135.PNG",
+    "options": [
+      "a-எண்டோபிளாச வலைப்பின்னல், b-பசுங்கணிகம், c-மைட்டோகாண்ட்ரியா, d-கோல்கை உடலங்கள்",
+      "a-கோல்கை உடலங்கள், b-பசுங்கணிகம், c-எண்டோபிளாச வலைப்பின்னல், d-மைட்டோகாண்ட்ரியா",
+      "a-பசுங்கணிகம், b-எண்டோபிளாச வலைப்பின்னல், c-மைட்டோகாண்ட்ரியா, d-கோல்கை உடலங்கள்",
+      "a-மைட்டோகாண்ட்ரியா, b-கோல்கை உடலங்கள், c-எண்டோபிளாச வலைப்பின்னல், d-பசுங்கணிகம்"
+    ],
+    "correct": 1,
+    "explanation": "பொதுவான தாவர செல் வரைபடத்தில் a-ER, b-Chloroplast, c-Nucleus, d-Mitochondria ஆக அமையும்.",
+    "question_en": "Select the order of the parts labelled in the following cell structure diagram.",
+    "options_en": [
+      "a-Endoplasmic reticulum, b-Chloroplast, c-Mitochondria, d-Golgi apparatus",
+      "a-Golgi apparatus, b-Chloroplast, c-Endoplasmic reticulum, d-Mitochondria",
+      "a-Chloroplast, b-Endoplasmic reticulum, c-Mitochondria, d-Golgi apparatus",
+      "a-Mitochondria, b-Golgi apparatus, c-Endoplasmic reticulum, d-Chloroplast"
+    ],
+    "explanation_en": "In a typical plant cell diagram, a-ER, b-Chloroplast, c-Nucleus, d-Mitochondria."
+  },
+  {
+    "id": 136,
+    "question": "முதுகுத்தண்டில் ஏற்படும் காயங்களைக் குணப்படுத்தவும், தடுக்கவும் எந்த செல்கள் பயன்படுகின்றன?",
+    "options": [
+      "நரம்பு செல்கள்",
+      "இரத்த சிவப்பு செல்கள்",
+      "மூலச் செல்கள்",
+      "தசைச் செல்கள்"
+    ],
+    "correct": 2,
+    "explanation": "மூலச் செல்கள் (Stem Cells) உடலில் உள்ள எந்தவொரு செல்லாகவும் மாறக்கூடிய திறன் பெற்றவை.",
+    "question_en": "Which cells are used to heal and prevent spinal cord injuries?",
+    "options_en": [
+      "Nerve cells",
+      "Red blood cells",
+      "Stem cells",
+      "Muscle cells"
+    ],
+    "explanation_en": "Stem Cells have the ability to differentiate into any type of cell in the body."
+  },
+  {
+    "id": 137,
+    "question": "செல் பகுப்பின் போது குரோமோசோம்களைப் பிரிக்க ___ உதவுகிறது.",
+    "options": [
+      "புரோட்டோபிளாசம்",
+      "லைசோசோம்",
+      "சைட்டோபிளாசம்",
+      "சென்ட்ரியோல்கள்"
+    ],
+    "correct": 3,
+    "explanation": "விலங்கு செல்களில் சென்ட்ரியோல்கள் செல் பகுப்பின் போது கதிர் இழைகளை உருவாக்கி குரோமோசோம்களைப் பிரிக்கின்றன.",
+    "question_en": "___ helps in separating chromosomes during cell division.",
+    "options_en": [
+      "Protoplasm",
+      "Lysosome",
+      "Cytoplasm",
+      "Centrioles"
+    ],
+    "explanation_en": "In animal cells, centrioles form spindle fibers during cell division to separate chromosomes."
+  },
+  {
+    "id": 138,
+    "question": "தாவரங்களில் சிட்ரஸ் கேன்கர் நோயை உண்டாக்கும் நுண்ணுயிரி:",
+    "options": [
+      "ஆப்தோ வைரஸ்",
+      "சாந்தோமோனாஸ் ஆக்ஸனோபோடிஸ்",
+      "பைட்டோபைத்தோரா",
+      "பேசில்லஸ் ஆந்த்ராசிஸ்"
+    ],
+    "correct": 1,
+    "explanation": "சிட்ரஸ் கேன்கர் நோய் ஒரு பாக்டீரியாவால் (Xanthomonas) ஏற்படுகிறது.",
+    "question_en": "The microorganism that causes Citrus Canker disease in plants:",
+    "options_en": [
+      "Aphthovirus",
+      "Xanthomonas axonopodis",
+      "Phytophthora",
+      "Bacillus anthracis"
+    ],
+    "explanation_en": "Citrus Canker disease is caused by a bacterium (Xanthomonas)."
+  },
+  {
+    "id": 139,
+    "question": "தவறாக பொருத்தப்பட்ட தாவர குடும்ப இணைகளைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "(i) மற்றும் (iii)",
+      "(ii) மற்றும் (iv)",
+      "(i), (ii) மற்றும் (iii)",
+      "(ii), (iii) மற்றும் (iv)"
+    ],
+    "correct": 1,
+    "explanation": "கற்றாழை (Aloe vera) மற்றும் வில்வம் (Aegle marmelos) தவறாகப் பொருத்தப்பட்டுள்ளன.",
+    "question_en": "Select the incorrectly matched plant family pairs:",
+    "options_en": [
+      "(i) and (iii)",
+      "(ii) and (iv)",
+      "(i), (ii) and (iii)",
+      "(ii), (iii) and (iv)"
+    ],
+    "explanation_en": "Aloe vera and Aegle marmelos are incorrectly matched."
+  },
+  {
+    "id": 140,
+    "question": "மாலைக்கண் நோய் : வைட்டமின் ஏ :: ஈறுகளில் இரத்தக் கசிவு : _____",
+    "options": [
+      "வைட்டமின் B",
+      "வைட்டமின் C",
+      "வைட்டமின் D",
+      "வைட்டமின் K"
+    ],
+    "correct": 1,
+    "explanation": "வைட்டமின் சி குறைபாட்டால் ஸ்கர்வி நோய் (ஈறுகளில் ரத்தம் வடிதல்) ஏற்படுகிறது.",
+    "question_en": "Night blindness : Vitamin A :: Bleeding gums : _____",
+    "options_en": [
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "explanation_en": "Scurvy (bleeding gums) is caused by Vitamin C deficiency."
+  },
+  {
+    "id": 141,
+    "question": "பாக்டீரியா தொற்றால் உண்டாகும் நோய்களைக் கண்டறிக:",
+    "options": [
+      "காசநோய், காலரா, டைபாய்டு",
+      "ரேபிஸ், கண்புரை, முன்கழுத்துக் கழலை",
+      "காசநோய், மஞ்சள் காமாலை, கண்புரை",
+      "காலரா, டைபாய்டு, முன்கழுத்துக் கழலை"
+    ],
+    "correct": 0,
+    "explanation": "காசநோய் (Mycobacterium), காலரா (Vibrio cholerae), டைபாய்டு (Salmonella) மூன்றும் பாக்டீரியா நோய்கள்.",
+    "question_en": "Identify the diseases caused by bacterial infection:",
+    "options_en": [
+      "Tuberculosis, Cholera, Typhoid",
+      "Rabies, Cataract, Goiter",
+      "Tuberculosis, Jaundice, Cataract",
+      "Cholera, Typhoid, Goiter"
+    ],
+    "explanation_en": "Tuberculosis (Mycobacterium), Cholera (Vibrio cholerae), Typhoid (Salmonella) are all bacterial diseases."
+  },
+  {
+    "id": 142,
+    "question": "பூஞ்சைகளால் கோழிகளுக்கு உண்டாகும் நோய்:",
+    "options": [
+      "ரானிக்கெட்",
+      "ஆஸ்பர்ஜில்லஸ்",
+      "சால்மோனெல்லோசிஸ்",
+      "ஆந்த்ராக்ஸ்"
+    ],
+    "correct": 1,
+    "explanation": "ஆஸ்பர்ஜில்லஸ் (Aspergillosis) ஒரு பூஞ்சைத் தொற்றாகும்.",
+    "question_en": "Disease caused by fungi in chickens:",
+    "options_en": [
+      "Ranikhet",
+      "Aspergillosis",
+      "Salmonellosis",
+      "Anthrax"
+    ],
+    "explanation_en": "Aspergillosis is a fungal infection."
+  },
+  {
+    "id": 143,
+    "question": "பட்டுப்பூச்சியின் முட்டைகள் அடை காக்கப்படுவதற்கு முன் எத்தனை நாட்கள் குளிர் வெப்பநிலையில் வைக்கப்பட வேண்டும்?",
+    "options": [
+      "6 வாரங்கள்",
+      "5 வாரங்கள்",
+      "2 வாரங்கள்",
+      "3 வாரங்கள்"
+    ],
+    "correct": 0,
+    "explanation": "சரியான வளர்ச்சிக்கு முட்டைகள் சுமார் 6 வாரங்கள் வரை குளிர்சாதனத்தில் வைக்கப்படும்.",
+    "question_en": "For how many days should silkworm eggs be kept at cold temperature before incubation?",
+    "options_en": [
+      "6 weeks",
+      "5 weeks",
+      "2 weeks",
+      "3 weeks"
+    ],
+    "explanation_en": "For proper development, eggs are kept in refrigeration for about 6 weeks."
+  },
+  {
+    "id": 144,
+    "question": "மனித உடலின் மிகச்சிறிய மற்றும் மிக நீண்ட செல்கள் முறையே:",
+    "options": [
+      "நரம்பு செல், இரத்த சிவப்பணுக்கள்",
+      "ஸ்டெம் செல், இரத்த வெள்ளையணுக்கள்",
+      "இரத்த சிவப்பணுக்கள், நரம்பு செல்",
+      "குருத்தெலும்பு செல், தசை செல்"
+    ],
+    "correct": 2,
+    "explanation": "மிகச்சிறியது RBC, மிக நீளமானது நரம்பு செல் (Neuron).",
+    "question_en": "The smallest and longest cells in the human body respectively are:",
+    "options_en": [
+      "Nerve cell, Red blood cells",
+      "Stem cell, White blood cells",
+      "Red blood cells, Nerve cell",
+      "Cartilage cell, Muscle cell"
+    ],
+    "explanation_en": "The smallest is RBC, the longest is the Nerve cell (Neuron)."
+  },
+  {
+    "id": 145,
+    "question": "பொருத்துக: (a) குருத்தெலும்பு மூட்டு, (b) சினோவியல் திரவம், (c) மூட்டு கேப்ஸ்யூல், (d) தசைநார்.",
+    "options": [
+      "(a)-ii, (b)-iii, (c)-iv, (d)-i",
+      "(a)-iv, (b)-i, (c)-ii, (d)-iii",
+      "(a)-iv, (b)-iii, (c)-i, (d)-ii",
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii"
+    ],
+    "correct": 2,
+    "explanation": "சரியான செயல்பாடு மற்றும் பண்புகளின் அடிப்படையில் இது பொருந்துகின்றது.",
+    "question_en": "Match the following: (a) Cartilaginous joint, (b) Synovial fluid, (c) Joint capsule, (d) Ligament.",
+    "options_en": [
+      "(a)-ii, (b)-iii, (c)-iv, (d)-i",
+      "(a)-iv, (b)-i, (c)-ii, (d)-iii",
+      "(a)-iv, (b)-iii, (c)-i, (d)-ii",
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii"
+    ],
+    "explanation_en": "This matches based on correct function and properties."
+  },
+  {
+    "id": 146,
+    "question": "11 ஆம் நூற்றாண்டில் ஒரு பௌத்தரால் இயற்றப்பட்ட இலக்கண நூல்:",
+    "options": [
+      "வீரசோழியம்",
+      "விசுத்திமக்கா",
+      "கல்பசூத்ரா",
+      "மகாபாஷ்யா"
+    ],
+    "correct": 0,
+    "explanation": "வீரசோழியம் என்ற தமிழ் இலக்கண நூலை புத்தமித்திரர் இயற்றினார்.",
+    "question_en": "A grammar book authored by a Buddhist in the 11th century:",
+    "options_en": [
+      "Viracholiyam",
+      "Visuddhimagga",
+      "Kalpasutra",
+      "Mahabhashya"
+    ],
+    "explanation_en": "The Tamil grammar book called Viracholiyam was authored by Buddhamitra."
+  },
+  {
+    "id": 147,
+    "question": "பாமினி அரசுடன் தொடர்பில்லாத இடத்தைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "அஹமதுநகர்",
+      "சிருங்கேரி",
+      "வாரங்கல்",
+      "குல்பர்கா"
+    ],
+    "correct": 1,
+    "explanation": "சிருங்கேரி இந்து மடம் மற்றும் விஜயநகரப் பேரரசுடன் தொடர்புடையது.",
+    "question_en": "Select the place not associated with the Bahmani Sultanate.",
+    "options_en": [
+      "Ahmednagar",
+      "Sringeri",
+      "Warangal",
+      "Gulbarga"
+    ],
+    "explanation_en": "Sringeri is associated with a Hindu monastery and the Vijayanagara Empire."
+  },
+  {
+    "id": 148,
+    "question": "சரியான கூற்றுகள்: (1) குடவரைக் கோவில்கள் மறைந்து கட்டுமானக் கோவில்கள் வந்தன. (2) சிற்பிகளுக்கு அதிக வாய்ப்பு தந்தது. (3) மாமல்லபுரம் கடற்கரைக் கோவில் குடவரைக்கு எடுத்துக்காட்டு.",
+    "options": [
+      "(1) சரி, (2), (3) தவறு",
+      "கூற்று (1), (2) சரி, (3) தவறு",
+      "மூன்றும் சரி",
+      "கூற்று (3) சரி, (1), (2) தவறு"
+    ],
+    "correct": 1,
+    "explanation": "மாமல்லபுரம் கடற்கரைக் கோவில் குடவரை கோவில் அல்ல, அது ஒரு கட்டுமானக் கோவில்.",
+    "question_en": "Correct statements: (1) Cave temples disappeared and structural temples emerged. (2) It provided more opportunities for sculptors. (3) Mamallapuram Shore Temple is an example of a cave temple.",
+    "options_en": [
+      "(1) correct, (2), (3) incorrect",
+      "Statements (1), (2) correct, (3) incorrect",
+      "All three are correct",
+      "Statement (3) correct, (1), (2) incorrect"
+    ],
+    "explanation_en": "Mamallapuram Shore Temple is not a cave temple; it is a structural temple."
+  },
+  {
+    "id": 149,
+    "question": "1912-இல் அமைக்கப்பட்ட ராயல் கமிஷனில் உறுப்பினர்களாக இடம்பெற்ற இந்தியர்கள்:",
+    "options": [
+      "சத்தியேந்திரநாத் தாகூர், ரமேஷ் சந்திர தத்",
+      "பிகாரிலால் குப்தா, கோபால கிருஷ்ண கோகலே",
+      "கோபால கிருஷ்ண கோகலே, சர் அப்துர் ரஹிம்",
+      "சத்தியேந்திரநாத் தாகூர், சர் அப்துர் ரஹிம்"
+    ],
+    "correct": 2,
+    "explanation": "இஸ்லிங்டன் பிரபு தலைமையிலான இந்த கமிஷனில் இவர்கள் இடம்பெற்றிருந்தனர்.",
+    "question_en": "Indians who were members of the Royal Commission formed in 1912:",
+    "options_en": [
+      "Satyendranath Tagore, Ramesh Chandra Dutt",
+      "Biharilal Gupta, Gopal Krishna Gokhale",
+      "Gopal Krishna Gokhale, Sir Abdur Rahim",
+      "Satyendranath Tagore, Sir Abdur Rahim"
+    ],
+    "explanation_en": "They were members of this commission headed by Lord Islington."
+  },
+  {
+    "id": 150,
+    "question": "யாருடைய படையெடுப்பிற்குப் பின் பாண்டிய நாடு பல அரசர்களால் பிரித்துக் கொள்ளப்பட்டது?",
+    "options": [
+      "கஜினி முகமது",
+      "மாலிக்கபூர்",
+      "ஜலாலுதீன் கில்ஜி",
+      "முகமது பின் துக்ளக்"
+    ],
+    "correct": 1,
+    "explanation": "அலாவுதீன் கில்ஜியின் தளபதியான மாலிக்கபூரின் தென்னிந்திய படையெடுப்பிற்குப் பின் இது நிகழ்ந்தது.",
+    "question_en": "After whose invasion was the Pandya kingdom divided among several rulers?",
+    "options_en": [
+      "Mahmud of Ghazni",
+      "Malik Kafur",
+      "Jalaluddin Khalji",
+      "Muhammad bin Tughlaq"
+    ],
+    "explanation_en": "This happened after the South Indian invasion by Malik Kafur, a general of Alauddin Khalji."
+  },
+  {
+    "id": 151,
+    "question": "காலக்கிரமப்படி வரிசைப்படுத்துக: (i) சூரத் சூறையாடல் (ii) 3ஆம் பானிபட் போர் (iii) கோண்டுவானா கைப்பற்றல் (iv) ஔரங்கசீப் தக்காணம் வருகை.",
+    "options": [
+      "(i), (iii), (ii), (iv)",
+      "(ii), (iii), (i), (iv)",
+      "(i), (iv), (ii), (iii)",
+      "(iii), (i), (iv), (ii)"
+    ],
+    "correct": 0,
+    "explanation": "சூரத் (1664) -> கோண்டுவானா -> ஔரங்கசீப் வருகை (1681) -> 3ஆம் பானிபட் போர் (1761).",
+    "question_en": "Arrange chronologically: (i) Sack of Surat (ii) Third Battle of Panipat (iii) Conquest of Gondwana (iv) Aurangzeb's arrival in Deccan.",
+    "options_en": [
+      "(i), (iii), (ii), (iv)",
+      "(ii), (iii), (i), (iv)",
+      "(i), (iv), (ii), (iii)",
+      "(iii), (i), (iv), (ii)"
+    ],
+    "explanation_en": "Sack of Surat (1664) -> Conquest of Gondwana -> Aurangzeb's arrival (1681) -> Third Battle of Panipat (1761)."
+  },
+  {
+    "id": 152,
+    "question": "முகலாயப் பேரரசர் ஜஹாங்கீரிடம் இந்தியாவில் வணிகம் செய்யும் உரிமையைப் பெறுவதில் வெற்றி கண்டவர்:",
+    "options": [
+      "ஜாப் சார்னாக்",
+      "தாமஸ் பெஸ்ட்",
+      "சர் தாமஸ் ரோ",
+      "நிக்கோலஸ் டவுண்டன்"
+    ],
+    "correct": 2,
+    "explanation": "இங்கிலாந்து மன்னர் முதலாம் ஜேம்சின் தூதரான சர் தாமஸ் ரோ வணிக உரிமையைப் பெற்றார்.",
+    "question_en": "The person who succeeded in obtaining the right to trade in India from the Mughal Emperor Jahangir:",
+    "options_en": [
+      "Job Charnock",
+      "Thomas Best",
+      "Sir Thomas Roe",
+      "Nicholas Downton"
+    ],
+    "explanation_en": "Sir Thomas Roe, ambassador of King James I of England, obtained the trading rights."
+  },
+  {
+    "id": 153,
+    "question": "அக்பரின் ஆட்சியைப் பற்றி அறிந்து கொள்ள உதவும் நூல்களுள் மிகவும் நம்பகத்தன்மை வாய்ந்ததாகக் கருதப்படும் நூல்:",
+    "options": [
+      "தாரிக்-இ-பதானி",
+      "தபகத்-இ-அக்பரி",
+      "அயினி அக்பரி",
+      "அக்பர் நாமா"
+    ],
+    "correct": 2,
+    "explanation": "அபுல் பாசல் எழுதிய 'அயினி அக்பரி' அக்பர் கால நிர்வாகத்தை மிகத் தெளிவாக விளக்குகிறது.",
+    "question_en": "The most reliable book among those that help to understand Akbar's reign:",
+    "options_en": [
+      "Tarikh-i-Badani",
+      "Tabakat-i-Akbari",
+      "Ain-i-Akbari",
+      "Akbarnama"
+    ],
+    "explanation_en": "'Ain-i-Akbari' written by Abul Fazl clearly explains the administration during Akbar's time."
+  },
+  {
+    "id": 154,
+    "question": "எந்த பாரசீக மன்னனின் உதவியுடன் ஹூமாயூன் 1555-இல் டெல்லியை மீண்டும் கைப்பற்றினார்?",
+    "options": [
+      "ஹசன் சூரி",
+      "முகமது கவான்",
+      "ஷா-தாமஸ்ப்",
+      "ஹசன் ஷா"
+    ],
+    "correct": 2,
+    "explanation": "பாரசீக (ஈரான்) மன்னரான ஷா-தாமஸ்ப் என்பவரின் உதவியால் இது சாத்தியமானது.",
+    "question_en": "With the help of which Persian king did Humayun recapture Delhi in 1555?",
+    "options_en": [
+      "Hasan Suri",
+      "Muhammad Gawan",
+      "Shah Tahmasp",
+      "Hasan Shah"
+    ],
+    "explanation_en": "This was made possible with the help of Shah Tahmasp, the Persian (Iranian) king."
+  },
+  {
+    "id": 155,
+    "question": "கூற்று: 1240-இல் துருக்கிய பிரபுக்கள் செய்த சதியால் ரஸ்ஸியா கொலையுண்டார். காரணம்: எத்தியோப்பிய அடிமையான யாகுத்தை அவர் பெரிதும் நம்பியது.",
+    "options": [
+      "கூற்று சரி, காரணம் விளக்கவில்லை",
+      "கூற்று சரி, காரணம் சரியான விளக்கம்",
+      "கூற்று சரி, காரணம் தவறு",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "explanation": "யாகுத்திற்கு அவர் அளித்த முக்கியத்துவம் துருக்கிய பிரபுக்களிடையே பெரும் அதிருப்தியை ஏற்படுத்தியது.",
+    "question_en": "Assertion: Razia was assassinated in 1240 due to a conspiracy by Turkish nobles. Reason: She greatly trusted Yakut, an Ethiopian slave.",
+    "options_en": [
+      "Assertion is correct, reason does not explain",
+      "Assertion is correct, reason is the correct explanation",
+      "Assertion is correct, reason is wrong",
+      "Both are wrong"
+    ],
+    "explanation_en": "The importance she gave to Yakut caused great dissatisfaction among the Turkish nobles."
+  },
+  {
+    "id": 156,
+    "question": "பொருத்துக: (a) சந்தால் கலகம், (b) இண்டிகோ கலகம், (c) பாப்னா கலகம், (d) பஞ்சாப் விவசாயிகள் இயக்கம்",
+    "options": [
+      "(a)-iii, (b)-ii, (c)-iv, (d)-i",
+      "(a)-ii, (b)-i, (c)-iv, (d)-iii",
+      "(a)-iv, (b)-iii, (c)-i, (d)-ii",
+      "(a)-i, (b)-iv, (c)-iii, (d)-ii"
+    ],
+    "correct": 1,
+    "explanation": "சந்தால்(1855-56), இண்டிகோ(1859-60), பாப்னா(1873-76), பஞ்சாப்(1890-1900).",
+    "question_en": "Match the following: (a) Santhal Rebellion, (b) Indigo Rebellion, (c) Pabna Rebellion, (d) Punjab Peasant Movement",
+    "options_en": [
+      "(a)-iii, (b)-ii, (c)-iv, (d)-i",
+      "(a)-ii, (b)-i, (c)-iv, (d)-iii",
+      "(a)-iv, (b)-iii, (c)-i, (d)-ii",
+      "(a)-i, (b)-iv, (c)-iii, (d)-ii"
+    ],
+    "explanation_en": "Santhal (1855-56), Indigo (1859-60), Pabna (1873-76), Punjab (1890-1900)."
+  },
+  {
+    "id": 157,
+    "question": "ராஜஸ்தானில், நகரை நோக்கிய வண்ணம், எளிதில் ஏறமுடியாத மலைப்பாறையின் மேல் அமைக்கப்பட்டுள்ளது:",
+    "options": [
+      "உதய்பூர் அரண்மனை",
+      "மான்சிங் அரண்மனை",
+      "ஆம்பர் கோட்டை",
+      "ஜோத்பூர் மாளிகை"
+    ],
+    "correct": 3,
+    "explanation": "ஜோத்பூரில் உள்ள மெஹ்ரான்கர் கோட்டை மிகவும் உயரமான பாறையின் மீது அமைந்துள்ளது.",
+    "question_en": "In Rajasthan, built on an inaccessible hilltop, facing the city, is:",
+    "options_en": [
+      "Udaipur Palace",
+      "Man Singh Palace",
+      "Amber Fort",
+      "Jodhpur Palace"
+    ],
+    "explanation_en": "Mehrangarh Fort in Jodhpur is situated on a very high rock."
+  },
+  {
+    "id": 158,
+    "question": "வேதாந்த பள்ளியின் அடிப்படை நூலான பிரம்ம சூத்திரத்திற்கு உரை எழுதியவர்:",
+    "options": [
+      "இராமானுஜர்",
+      "துக்காராம்",
+      "வல்லபாச்சாரியார்",
+      "ஆதிசங்கரர்"
+    ],
+    "correct": 3,
+    "explanation": "அத்வைத தத்துவத்தை போதித்த ஆதிசங்கரர் இதற்கு உரை எழுதியுள்ளார்.",
+    "question_en": "The person who wrote a commentary on the Brahma Sutras, the foundational text of the Vedanta school:",
+    "options_en": [
+      "Ramanuja",
+      "Tukaram",
+      "Vallabhacharya",
+      "Adi Shankara"
+    ],
+    "explanation_en": "Adi Shankara, who propagated Advaita philosophy, wrote a commentary on this."
+  },
+  {
+    "id": 159,
+    "question": "தீரன் சின்னமலையின் இயற்பெயர்:",
+    "options": [
+      "சிவகிரி",
+      "தீர்த்தகிரி",
+      "சிவசுப்பிரமணியம்",
+      "செவத்தையா"
+    ],
+    "correct": 1,
+    "explanation": "கொங்கு நாட்டைச் சேர்ந்த சுதந்திரப் போராட்ட வீரரான தீரன் சின்னமலையின் இயற்பெயர் தீர்த்தகிரி.",
+    "question_en": "The real name of Dheeran Chinnamalai:",
+    "options_en": [
+      "Sivagiri",
+      "Theerthagiri",
+      "Sivasubramaniam",
+      "Sevathaiya"
+    ],
+    "explanation_en": "The real name of Dheeran Chinnamalai, a freedom fighter from Kongu Nadu, is Theerthagiri."
+  },
+  {
+    "id": 160,
+    "question": "புவியின் உள் ஆழம் அதிகரிக்க, வெப்பமானது ஒவ்வொரு ___ மீட்டருக்கும் ___ செல்சியஸ் வீதம் உயர்ந்து வெப்பத்துடன் அழுத்தமும் அதிகரிக்கின்றது.",
+    "options": [
+      "32, 1°",
+      "33, 5°",
+      "36, 7°",
+      "35, 2°"
+    ],
+    "correct": 0,
+    "explanation": "பூமிக்கு அடியில் ஒவ்வொரு 32 மீட்டர் ஆழத்திற்கும் 1°C வெப்பநிலை அதிகரிக்கும்.",
+    "question_en": "As the depth inside the Earth increases, the temperature rises by ___ Celsius for every ___ meters, and along with temperature, pressure also increases.",
+    "options_en": [
+      "32, 1°",
+      "33, 5°",
+      "36, 7°",
+      "35, 2°"
+    ],
+    "explanation_en": "Below the Earth's surface, the temperature increases by 1°C for every 32 meters of depth."
+  },
+  {
+    "id": 161,
+    "question": "தவறான கூற்றுகளைக் கண்டறியவும்: (i) கண்டங்களின் மேற்பகுதி சியால், கீழ்ப்பகுதி சிமா. (ii) மையப்பகுதி பாறைக்கோளம். (iii) உட்கருவம் திரவ நிலையில் உள்ள நிக்கல், இரும்பு.",
+    "options": [
+      "(i) மற்றும் (ii)",
+      "(ii) மட்டும்",
+      "(ii) மற்றும் (iii)",
+      "(iii) மட்டும்"
+    ],
+    "correct": 2,
+    "explanation": "மையப்பகுதி கருவம் எனப்படும். உட்கருவம் திட நிலையிலும், வெளிக்கருவம் திரவ நிலையிலும் இருக்கும்.",
+    "question_en": "Identify the incorrect statements: (i) The upper part of continents is Sial, the lower part is Sima. (ii) The central part is the lithosphere. (iii) The inner core is liquid nickel and iron.",
+    "options_en": [
+      "(i) and (ii)",
+      "(ii) only",
+      "(ii) and (iii)",
+      "(iii) only"
+    ],
+    "explanation_en": "The central part is called the core. The inner core is solid, and the outer core is liquid."
+  },
+  {
+    "id": 162,
+    "question": "ஆறு தோன்றுமிடத்திலிருந்து முகத்துவாரம் வரை ஏற்படுத்தும் நிலத்தோற்றங்களின் சரியான வரிசையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "துணை ஆறு, நீர் வீழ்ச்சி, வெள்ளச் சமவெளி, டெல்டா, குதிரை குளம்பு ஏரி",
+      "நீர் வீழ்ச்சி, ஆற்று வளைவு, துணை ஆறு, குதிரை குளம்பு ஏரி, டெல்டா",
+      "நீர் வீழ்ச்சி, குதிரை குளம்பு ஏரி, ஆற்று வளைவு, வெள்ளச் சமவெளி, டெல்டா",
+      "குதிரை குளம்பு ஏரி, துணை ஆறு, நீர் வீழ்ச்சி, டெல்டா, வெள்ளச் சமவெளி"
+    ],
+    "correct": 2,
+    "explanation": "மலையில் நீர்வீழ்ச்சி -> சமவெளியில் வளைவு -> குதிரைகுளம்பு ஏரி -> கடலில் கலக்கும் இடத்தில் டெல்டா.",
+    "question_en": "Select the correct order of land forms created by the river from its source to the river mouth :",
+    "options_en": [
+      "Tributary, Waterfall, Flood plain, Delta, Oxbow lake",
+      "Waterfall, Meander, Tributary, Oxbow lake, Delta",
+      "Waterfall, Oxbow lake, Meander, Flood plain, Delta",
+      "Oxbow lake, Tributary, Waterfall, Delta, Flood plain"
+    ],
+    "explanation_en": "Waterfall in mountains -> Meander in plains -> Oxbow lake -> Delta at the confluence with the sea."
+  },
+  {
+    "id": 163,
+    "question": "பொருத்துக: கேன்டன், வதோதரா, குர்கான், சோலாப்பூர்",
+    "options": [
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+      "(a)-ii, (b)-iv, (c)-i, (d)-iii",
+      "(a)-iv, (b)-iii, (c)-ii, (d)-i",
+      "(a)-iii, (b)-i, (c)-iv, (d)-ii"
+    ],
+    "correct": 0,
+    "explanation": "வகைப்படுத்தப்பட்ட நகரங்களின் அடிப்படையில் இது அமைந்துள்ளது.",
+    "question_en": "Match the following: Canton, Vadodara, Gurgaon, Solapur",
+    "options_en": [
+      "(a)-iii, (b)-iv, (c)-i, (d)-ii",
+      "(a)-ii, (b)-iv, (c)-i, (d)-iii",
+      "(a)-iv, (b)-iii, (c)-ii, (d)-i",
+      "(a)-iii, (b)-i, (c)-iv, (d)-ii"
+    ],
+    "explanation_en": "This is based on the classification of cities."
+  },
+  {
+    "id": 164,
+    "question": "கூற்று: இரும்பு இன்ஜினியரிங் துறையில் முக்கியப் பங்கு வகிக்கிறது. காரணம்: தூய்மையான இரும்பு மென்மையானது, கார்பன் மற்றும் மாங்கனீசு சேர்ப்பதால் வலிமை பெறுகிறது.",
+    "options": [
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று சரி, காரணம் விளக்குகிறது",
+      "கூற்று சரி, காரணம் விளக்கவில்லை"
+    ],
+    "correct": 2,
+    "explanation": "எஃகு உற்பத்தியில் கார்பன் மற்றும் மாங்கனீசு சேர்க்கப்படுவதால் அது அதிக உறுதியைப் பெறுகிறது.",
+    "question_en": "Assertion: Iron plays a vital role in the engineering sector. Reason: Pure iron is soft, it gains strength by adding carbon and manganese.",
+    "options_en": [
+      "Assertion is wrong, reason is correct",
+      "Assertion is correct, reason is wrong",
+      "Assertion is correct, reason explains",
+      "Assertion is correct, reason does not explain"
+    ],
+    "explanation_en": "In steel production, the addition of carbon and manganese makes it stronger."
+  },
+  {
+    "id": 165,
+    "question": "மயானி பறவைகள் சரணாலயம் மற்றும் கான்ஹா தேசிய பூங்கா ஆகியவை அமைந்துள்ள மாநிலங்கள் முறையே:",
+    "options": [
+      "குஜராத், மஹாராஷ்டிரா",
+      "மஹாராஷ்டிரா, மத்தியப் பிரதேசம்",
+      "மத்தியப் பிரதேசம், அஸ்ஸாம்",
+      "இராஜஸ்தான், உத்திரப் பிரதேசம்"
+    ],
+    "correct": 1,
+    "explanation": "மயானி மகாராஷ்டிராவிலும், புகழ்பெற்ற கான்ஹா புலிகள் காப்பகம் மத்திய பிரதேசத்திலும் உள்ளன.",
+    "question_en": "Mayani Bird Sanctuary and Kanha National Park are located in the states respectively:",
+    "options_en": [
+      "Gujarat, Maharashtra",
+      "Maharashtra, Madhya Pradesh",
+      "Madhya Pradesh, Assam",
+      "Rajasthan, Uttar Pradesh"
+    ],
+    "explanation_en": "Mayani is in Maharashtra, and the famous Kanha Tiger Reserve is in Madhya Pradesh."
+  },
+  {
+    "id": 166,
+    "question": "வட அமெரிக்கக் காடுகள் தொடர்பான தவறான இணைகளைத் தேர்ந்தெடுக்கவும்: (i) டைகா-தேவதாரு, (ii) வெப்பமண்டல-அத்தி, கோயோடோ நாய், (iii) தூந்திர-குள்ள வில்லோ, (iv) மிதவெப்ப-யூக்கா, கரடி.",
+    "options": [
+      "(i) மற்றும் (iii)",
+      "(ii) மற்றும் (iii)",
+      "(ii) மற்றும் (iv)",
+      "(i) மற்றும் (iv)"
+    ],
+    "correct": 2,
+    "explanation": "கொடுக்கப்பட்ட வனவிலங்கு-தாவர இணைகளில் (ii) மற்றும் (iv) பிழையானவை.",
+    "question_en": "Select the incorrect pairs related to North American forests: (i) Taiga-Deodar, (ii) Tropical-Fig, Coyote dog, (iii) Tundra-Dwarf Willow, (iv) Temperate-Yucca, Bear.",
+    "options_en": [
+      "(i) and (iii)",
+      "(ii) and (iii)",
+      "(ii) and (iv)",
+      "(i) and (iv)"
+    ],
+    "explanation_en": "Among the given wildlife-plant pairs, (ii) and (iv) are incorrect."
+  },
+  {
+    "id": 167,
+    "question": "தென் அமெரிக்கக் கண்டத்தில் அமைந்துள்ள மிகச்சிறிய நாடு:",
+    "options": [
+      "உருகுவே",
+      "சுரிநாம்",
+      "கிரெனடா",
+      "பெரு"
+    ],
+    "correct": 1,
+    "explanation": "தென் அமெரிக்காவின் நிலப்பரப்பில் மிகச்சிறிய சுதந்திர நாடு சுரிநாம் (Suriname).",
+    "question_en": "The smallest country located in the South American continent:",
+    "options_en": [
+      "Uruguay",
+      "Suriname",
+      "Grenada",
+      "Peru"
+    ],
+    "explanation_en": "The smallest independent country by land area in South America is Suriname."
+  },
+  {
+    "id": 168,
+    "question": "தீ விபத்தின்போது தீயணைப்புத் துறையை தொடர்பு கொள்ள வேண்டிய உதவி எண்:",
+    "options": [
+      "108",
+      "101",
+      "100",
+      "102"
+    ],
+    "correct": 1,
+    "explanation": "100-காவல்துறை, 101-தீயணைப்பு, 108-அவசர ஆம்புலன்ஸ்.",
+    "question_en": "The emergency number to contact the fire department during a fire accident:",
+    "options_en": [
+      "108",
+      "101",
+      "100",
+      "102"
+    ],
+    "explanation_en": "100-Police, 101-Fire, 108-Emergency Ambulance."
+  },
+  {
+    "id": 169,
+    "question": "சரியான இணையைத் தேர்ந்தெடுக்கவும்:",
+    "options": [
+      "அடியாழப் பாறைகள் - டோலமைட்",
+      "இடையாழப் பாறைகள் - டொலிரைட்",
+      "உயிரினப் படிவுப் பாறைகள் - ஜிப்சம்",
+      "இரசாயன படிவுப் பாறைகள் - டயரைட்"
+    ],
+    "correct": 1,
+    "explanation": "பூமிக்கு அடியில் மிதமான ஆழத்தில் உருவாகும் இடையாழப் பாறைகளுக்கு (Hypabyssal) டொலிரைட் சிறந்த எடுத்துக்காட்டு.",
+    "question_en": "Select the correct pair:",
+    "options_en": [
+      "Plutonic rocks - Dolomite",
+      "Hypabyssal rocks - Dolerite",
+      "Organic sedimentary rocks - Gypsum",
+      "Chemical sedimentary rocks - Diorite"
+    ],
+    "explanation_en": "Dolerite is an excellent example of hypabyssal rocks, which form at moderate depths below the Earth's surface."
+  },
+  {
+    "id": 170,
+    "question": "சம அளவு சூரிய வெளிச்சம் உள்ள இடங்களை இணைக்கும் கோடு:",
+    "options": [
+      "ஐசெல்லோபார்",
+      "ஐசோக்ரைம்",
+      "ஐசோகெல்",
+      "ஐசோதெர்ம்"
+    ],
+    "correct": 2,
+    "explanation": "சம சூரிய வெளிச்சக் கோடுகள் ஐசோகெல் (Isohel) என அழைக்கப்படுகின்றன.",
+    "question_en": "The line connecting places with equal amounts of sunshine:",
+    "options_en": [
+      "Isallobar",
+      "Isocryme",
+      "Isohel",
+      "Isotherm"
+    ],
+    "explanation_en": "Lines of equal sunshine are called Isohels."
+  },
+  {
+    "id": 171,
+    "question": "பின்வருவனவற்றுள் எது இடம்பெயர்வுக்கான இழு காரணி (Pull Factor) அல்ல?",
+    "options": [
+      "உகந்த காலநிலை",
+      "அரசியல் பாதுகாப்பு",
+      "வேலைவாய்ப்பின்மை",
+      "சமூக ஒற்றுமை"
+    ],
+    "correct": 2,
+    "explanation": "வேலைவாய்ப்பின்மை என்பது மக்களை ஒரு இடத்தை விட்டு வெளியேற்றும் உந்து காரணி (Push factor) ஆகும்.",
+    "question_en": "Which of the following is NOT a pull factor for migration?",
+    "options_en": [
+      "Favorable climate",
+      "Political security",
+      "Unemployment",
+      "Social harmony"
+    ],
+    "explanation_en": "Unemployment is a push factor that drives people away from a place."
+  },
+  {
+    "id": 172,
+    "question": "ஆவியாதல் விகிதம் எப்போது அதிகரிக்கிறது?",
+    "options": [
+      "வெப்பநிலை குறையும் பொழுது",
+      "ஈரப்பதம் அதிகரிக்கும் பொழுது",
+      "காற்றின் வேகம் அதிகரிக்கும் பொழுது",
+      "நீர்நிலைகள் குறையும் பொழுது"
+    ],
+    "correct": 2,
+    "explanation": "காற்றின் வேகம் அதிகமாக இருக்கும்போது நீரின் மேற்பரப்பிலிருந்து ஆவியாதல் விரைவாக நடக்கும்.",
+    "question_en": "When does the rate of evaporation increase?",
+    "options_en": [
+      "When temperature decreases",
+      "When humidity increases",
+      "When wind speed increases",
+      "When water bodies decrease"
+    ],
+    "explanation_en": "When wind speed is high, evaporation from the water surface occurs rapidly."
+  },
+  {
+    "id": 173,
+    "question": "கூட்டுத்துறை (Joint Sector) தொழிலகங்களுக்கு எடுத்துக்காட்டு:",
+    "options": [
+      "பஜாஜ் ஆட்டோ",
+      "ஹிந்துஸ்தான் ஏரோநாட்டிக்ஸ் நிறுவனம்",
+      "ஆனந்த் பால் ஒன்றிய நிறுவனம்",
+      "இந்தியன் சிந்தட்டிக் இரப்பர் நிறுவனம்"
+    ],
+    "correct": 3,
+    "explanation": "இது அரசும் தனியார் துறையும் இணைந்து நடத்தும் தொழிலுக்கு எடுத்துக்காட்டாகும்.",
+    "question_en": "Example of Joint Sector industries:",
+    "options_en": [
+      "Bajaj Auto",
+      "Hindustan Aeronautics Limited",
+      "Anand Milk Union Limited",
+      "Indian Synthetic Rubber Private Limited"
+    ],
+    "explanation_en": "This is an example of an industry run jointly by the government and the private sector."
+  },
+  {
+    "id": 174,
+    "question": "ஒரு பொருளின் மதிப்பு ரூ.1200 மற்றும் அதன் மீது விதிக்கப்படும் GST 12% எனில் மத்திய மற்றும் மாநில அரசுகள் GST-லிருந்து பெறும் தொகை முறையே:",
+    "options": [
+      "ரூ.40, ரூ.100",
+      "ரூ.70, ரூ.70",
+      "ரூ.100, ரூ.44",
+      "ரூ.72, ரூ.72"
+    ],
+    "correct": 3,
+    "explanation": "மொத்த GST = 1200 × 12/100 = 144. இது CGST (பாதி) மற்றும் SGST (பாதி) என பிரிந்து 72, 72 ஆக அரசுக்குச் செல்லும்.",
+    "question_en": "If the value of an item is Rs.1200 and the GST levied on it is 12%, then the amount received by the Central and State governments from GST respectively:",
+    "options_en": [
+      "Rs.40, Rs.100",
+      "Rs.70, Rs.70",
+      "Rs.100, Rs.44",
+      "Rs.72, Rs.72"
+    ],
+    "explanation_en": "Total GST = 1200 × 12/100 = 144. This is divided into CGST (half) and SGST (half), going to the government as 72, 72."
+  },
+  {
+    "id": 175,
+    "question": "பொருளாதாரத்தில் கருப்பு பணத்தின் விளைவு அல்லாதது எது?",
+    "options": [
+      "ஆடம்பர நுகர்வு செலவு",
+      "வரி ஏமாற்றுதல் மூலம் அரசுக்கு வருவாய் இழப்பு",
+      "பணக்காரர் மற்றும் ஏழைகளிடையே இடைவெளி குறைதல்",
+      "சமத்துவம் வலுவிழத்தல்"
+    ],
+    "correct": 2,
+    "explanation": "கருப்புப் பணத்தால் ஏற்றத்தாழ்வு அதிகரிக்கும்; இடைவெளி குறையாது.",
+    "question_en": "Which of the following is NOT an effect of black money in the economy?",
+    "options_en": [
+      "Luxury consumption expenditure",
+      "Loss of government revenue through tax evasion",
+      "Reduction of gap between rich and poor",
+      "Weakening of equality"
+    ],
+    "explanation_en": "Black money increases inequality; the gap does not decrease."
+  },
+  {
+    "id": 176,
+    "question": "\"சமத்துவம் என்பது சமமாக நடத்துவது மட்டுமல்ல, வெகுமதி அளிப்பதிலும் சமத்துவம் இருப்பதாகும்\" என்று கூறியவர்:",
+    "options": [
+      "ஏ.வி. டைசி",
+      "பேகம் ருகேயா சகாவத் உசேன்",
+      "பேராசிரியர் லாஸ்கி",
+      "இராஜாராம் மோகன்ராய்"
+    ],
+    "correct": 2,
+    "explanation": "சமத்துவம் பற்றிய இந்த புகழ்பெற்ற கூற்று பேராசிரியர் லாஸ்கி (Prof. Laski) உடையது.",
+    "question_en": "The person who said: \"Equality is not merely treating everyone equally, but also equality in rewarding.\"",
+    "options_en": [
+      "A.V. Dicey",
+      "Begum Rokeya Sakhawat Hossain",
+      "Professor Laski",
+      "Raja Ram Mohan Roy"
+    ],
+    "explanation_en": "This famous quote about equality belongs to Professor Laski."
+  },
+  {
+    "id": 177,
+    "question": "ஒவ்வொரு வருடமும் இந்தியாவில் சாலைப் பாதுகாப்பு வாரம் கொண்டாடப்படும் மாதம்:",
+    "options": [
+      "ஜூன்",
+      "ஜூலை",
+      "மார்ச்",
+      "ஜனவரி"
+    ],
+    "correct": 3,
+    "explanation": "பொதுவாக ஜனவரி மாதத்தில் தேசிய சாலை பாதுகாப்பு வாரம் அனுசரிக்கப்படுகிறது.",
+    "question_en": "The month in which Road Safety Week is celebrated every year in India:",
+    "options_en": [
+      "June",
+      "July",
+      "March",
+      "January"
+    ],
+    "explanation_en": "National Road Safety Week is generally observed in January."
+  },
+  {
+    "id": 178,
+    "question": "தவறான விளம்பரத்திற்காக மத்திய நுகர்வோர் பாதுகாப்பு ஆணையம் ஒரு உற்பத்தியாளருக்கு அபராதமாக விதிக்கக்கூடிய அதிகபட்ச அளவு:",
+    "options": [
+      "ரூ.10 லட்சம், 3 மாதம் சிறை",
+      "ரூ.50 லட்சம், 1 வருடம் சிறை",
+      "ரூ.10 லட்சம், 2 வருடம் சிறை",
+      "ரூ.20 லட்சம், 6 மாதம் சிறை"
+    ],
+    "correct": 2,
+    "explanation": "முதல் முறை தவறுக்கு ரூ.10 லட்சம் அபராதம் மற்றும் 2 ஆண்டுகள் வரை சிறைத்தண்டனை விதிக்கலாம்.",
+    "question_en": "The maximum penalty that the Central Consumer Protection Authority can impose on a manufacturer for misleading advertisement:",
+    "options_en": [
+      "Rs.10 lakh, 3 months imprisonment",
+      "Rs.50 lakh, 1 year imprisonment",
+      "Rs.10 lakh, 2 years imprisonment",
+      "Rs.20 lakh, 6 months imprisonment"
+    ],
+    "explanation_en": "For the first offense, a fine of Rs.10 lakh and imprisonment up to 2 years can be imposed."
+  },
+  {
+    "id": 179,
+    "question": "சரியான கூற்று: (i) உயர்நீதிமன்ற நீதிபதிகளின் எண்ணிக்கை நிலையானதல்ல. (ii) 5 ஆண்டுகள் அனுபவம். (iii) ஓய்வுபெறும் வயது 65. (iv) குடியரசுத் தலைவர் நியமனம் செய்கிறார்.",
+    "options": [
+      "(i) மற்றும் (iv)",
+      "(iv) மட்டும்",
+      "(ii) மற்றும் (iii)",
+      "(i) மட்டும்"
+    ],
+    "correct": 0,
+    "explanation": "நீதிபதியாக 10 ஆண்டுகள் அனுபவம் தேவை. ஓய்வு பெறும் வயது 62.",
+    "question_en": "Correct statement: (i) The number of High Court judges is not fixed. (ii) 5 years of experience. (iii) Retirement age is 65. (iv) The President appoints them.",
+    "options_en": [
+      "(i) and (iv)",
+      "(iv) only",
+      "(ii) and (iii)",
+      "(i) only"
+    ],
+    "explanation_en": "10 years of experience is required to be a judge. The retirement age is 62."
+  },
+  {
+    "id": 180,
+    "question": "2004 டிசம்பர் 3-ஆம் நாள் முதல் வெளிநாட்டில் பிறந்தவர்கள் இந்திய வம்சாவளி குடியுரிமை பெற அவர்களுடைய பிறப்பினை இந்திய தூதரகத்தில் எத்தனை காலத்திற்குள் பதிவு செய்ய வேண்டும்?",
+    "options": [
+      "ஒரு வருடத்திற்குள்",
+      "6 மாதங்களுக்குள்",
+      "5 வருடங்களுக்குள்",
+      "1 மாதத்திற்குள்"
+    ],
+    "correct": 0,
+    "explanation": "பிறந்த ஒரு வருடத்திற்குள் இந்தியத் தூதரகத்தில் கட்டாயம் பதிவு செய்ய வேண்டும்.",
+    "question_en": "From December 3, 2004, within what period must those born abroad register their birth at an Indian consulate to obtain Indian citizenship by descent?",
+    "options_en": [
+      "Within one year",
+      "Within 6 months",
+      "Within 5 years",
+      "Within 1 month"
+    ],
+    "explanation_en": "It is mandatory to register at the Indian consulate within one year of birth."
+  }
+]

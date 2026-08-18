@@ -1,0 +1,2042 @@
+[
+  {
+    "id": 1,
+    "question": "மலைகள், பீடபூமிகள், சமவெளிகள் மற்றும் பள்ளத்தாக்குகள் போன்ற எண்ணற்ற வகையான நிலத்தோற்றங்களுடன் காணப்படுவது",
+    "options": [
+      "புவி",
+      "புவியின் மேற்பரப்பு",
+      "புவியின் உட்பரப்பு",
+      "பாலைவனம்"
+    ],
+    "correct": 1,
+    "question_en": "What is found with innumerable types of landforms like mountains, plateaus, plains and valleys?",
+    "options_en": [
+      "Earth",
+      "Surface of the earth",
+      "Interior of the earth",
+      "Desert"
+    ],
+    "explanation": "புவியின் மேற்பரப்பு",
+    "explanation_en": "Surface of the earth is found with innumerable types of landforms like mountains, plateaus, plains and valleys."
+  },
+  {
+    "id": 2,
+    "question": "புவியின் மேற்பரப்பில் பல இடங்களில் அகச் செயல்முறைகளால் ஏற்படுபவை",
+    "options": [
+      "உயர் நிலப்பகுதிகள்",
+      "தாழ்வு நிலப்பகுதிகள்",
+      "உயர் நிலப்பகுதிகள் மற்றும் தாழ்வு நிலப்பகுதிகள்",
+      "வானிலைச் சிதைவு"
+    ],
+    "correct": 2,
+    "question_en": "What are caused by endogenic processes in many places on the surface of the earth?",
+    "options_en": [
+      "Highlands",
+      "Lowlands",
+      "Highlands and lowlands",
+      "Weathering"
+    ],
+    "explanation": "உயர் நிலப்பகுதிகள் மற்றும் தாழ்வு நிலப்பகுதிகள்",
+    "explanation_en": "Highlands and lowlands"
+  },
+  {
+    "id": 3,
+    "question": "புவிப்பரப்பில் தொடர்ந்து ஏற்படும் அரித்தல் மற்றும் மறுக்கட்டமைத்தல் ஆகியன ஏற்படுவதற்கான காரணம்",
+    "options": [
+      "அகச் செயல்முறைகள்",
+      "புறச் செயல்முறைகள்",
+      "படிய வைத்தல்",
+      "கடல் அலைகள்"
+    ],
+    "correct": 1,
+    "question_en": "The reason for continuous erosion and rebuilding occurring on the earth's surface is",
+    "options_en": [
+      "Endogenic processes",
+      "Exogenic processes",
+      "Deposition",
+      "Ocean waves"
+    ],
+    "explanation": "புறச் செயல்முறைகள்",
+    "explanation_en": "Exogenic processes"
+  },
+  {
+    "id": 4,
+    "question": "உயர்நிலங்களை அரித்தல் மூலம் தாழ்நிலங்களாகவும், தாழ்நிலங்களை படியவைத்தல் மூலம் உயர்நிலங்களாகவும் மாற்றுவதற்கு ________ என்று பெயர்.",
+    "options": [
+      "வானிலைச் சிதைவு",
+      "சமவெளி",
+      "சமப்படுத்துதல்",
+      "நிலத்தோற்றங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Changing highlands into lowlands through erosion and lowlands into highlands through deposition is called ________.",
+    "options_en": [
+      "Weathering",
+      "Plain",
+      "Gradation",
+      "Landforms"
+    ],
+    "explanation": "உயர்நிலங்களை அரித்தல் மூலம் தாழ்நிலங்களாகவும், தாழ்நிலங்களை படியவைத்தல் மூலம் உயர்நிலங்களாகவும் மாற்றுவதற்கு சமப்படுத்துதல் என்று பெயர்.",
+    "explanation_en": "Changing highlands into lowlands through erosion and lowlands into highlands through deposition is called Gradation."
+  },
+  {
+    "id": 5,
+    "question": "நிலப்பரப்பானது இதன் மூலம் தொடர்ந்து தேய்மானத்திற்கு உட்படுத்தப்படுகின்றன.",
+    "options": [
+      "வானிலைச் சிதைவு மற்றும் அரித்தல்",
+      "படிய வைத்தல்",
+      "மறுகட்டமைத்தல்",
+      "அகவிசை, புறவிசை"
+    ],
+    "correct": 0,
+    "question_en": "The land surface is continuously subjected to wear and tear through this.",
+    "options_en": [
+      "Weathering and erosion",
+      "Deposition",
+      "Rebuilding",
+      "Internal force, external force"
+    ],
+    "explanation": "வானிலைச் சிதைவு மற்றும் அரித்தல்",
+    "explanation_en": "Weathering and erosion"
+  },
+  {
+    "id": 6,
+    "question": "புவிமேற்பரப்பில் பாறைகள் உடைந்து மற்றும் சிறுசிறு கற்களாகவும், துகள்களாகவும் சிதறுவது",
+    "options": [
+      "அரித்தல்",
+      "வானிலைச் சிதைவு",
+      "கடத்துதல்",
+      "படிய வைத்தல்"
+    ],
+    "correct": 1,
+    "question_en": "The breaking and shattering of rocks into small pebbles and particles on the earth's surface is",
+    "options_en": [
+      "Erosion",
+      "Weathering",
+      "Transportation",
+      "Deposition"
+    ],
+    "explanation": "வானிலைச் சிதைவு",
+    "explanation_en": "Weathering"
+  },
+  {
+    "id": 7,
+    "question": "நீர், காற்று, பனி மற்றும் கடல் அலைகள் எனப் பலவகைப்பட்ட காரணிகளால் புவியின் நிலத்தோற்றங்கள் அடித்துச் செல்லப்படுவது",
+    "options": [
+      "மறுகட்டமைத்தல்",
+      "சமப்படுத்துதல்",
+      "படிய வைத்தல்",
+      "அரித்தல்"
+    ],
+    "correct": 3,
+    "question_en": "The wearing away of the earth's landforms by various agents like water, wind, ice, and ocean waves is",
+    "options_en": [
+      "Rebuilding",
+      "Gradation",
+      "Deposition",
+      "Erosion"
+    ],
+    "explanation": "அரித்தல்",
+    "explanation_en": "Erosion"
+  },
+  {
+    "id": 8,
+    "question": "அரித்தல் மற்றும் படிய வைத்தல் முறைகளால் புவியின் மேற்பரப்பில் தோற்றுவிக்கப்படுபவை",
+    "options": [
+      "மலைகள்",
+      "பீடபூமிகள்",
+      "நிலத்தோற்றங்கள்",
+      "படியவைத்தல்"
+    ],
+    "correct": 2,
+    "question_en": "What are created on the surface of the earth by the processes of erosion and deposition?",
+    "options_en": [
+      "Mountains",
+      "Plateaus",
+      "Landforms",
+      "Deposition"
+    ],
+    "explanation": "நிலத்தோற்றங்கள்",
+    "explanation_en": "Landforms"
+  },
+  {
+    "id": 9,
+    "question": "ஒரு குறிப்பிட்ட பாதையில் தோன்றுமிடத்திலிருந்து முகத்துவாரம் வரை ஓடுகின்ற நீர் ________ எனப்படுகிறது.",
+    "options": [
+      "ஏரி",
+      "ஆறு",
+      "கடல்",
+      "அருவி"
+    ],
+    "correct": 1,
+    "question_en": "Water flowing in a definite course from its source to its mouth is called a ________.",
+    "options_en": [
+      "Lake",
+      "River",
+      "Sea",
+      "Waterfall"
+    ],
+    "explanation": "ஒரு குறிப்பிட்ட பாதையில் தோன்றுமிடத்திலிருந்து முகத்துவாரம் வரை ஓடுகின்ற நீர் ஆறு எனப்படுகிறது.",
+    "explanation_en": "Water flowing in a definite course from its source to its mouth is called a River."
+  },
+  {
+    "id": 10,
+    "question": "ஆறு தோன்றுமிடம் ஆற்றின் ________",
+    "options": [
+      "பிறப்பிடம்",
+      "ஊற்று",
+      "முகத்துவாரம்",
+      "மலைமுகடு"
+    ],
+    "correct": 0,
+    "question_en": "The place where a river originates is the river's ________",
+    "options_en": [
+      "Source",
+      "Spring",
+      "Mouth",
+      "Mountain peak"
+    ],
+    "explanation": "ஆறு தோன்றுமிடம் ஆற்றின் பிறப்பிடம்",
+    "explanation_en": "The place where a river originates is the river's Source"
+  },
+  {
+    "id": 11,
+    "question": "ஆறு ஒரு ஏரியிலோ, கடலிலோ அல்லது ஒரு பேராழியிலோ கலக்கும் இடம் ஆற்று ________",
+    "options": [
+      "பிறப்பிடம்",
+      "முகத்துவாரம்",
+      "பள்ளத்தாக்கு",
+      "கடற்கரை"
+    ],
+    "correct": 1,
+    "question_en": "The place where a river joins a lake, sea, or ocean is the river ________",
+    "options_en": [
+      "Source",
+      "Mouth",
+      "Valley",
+      "Beach"
+    ],
+    "explanation": "ஆறு ஒரு ஏரியிலோ, கடலிலோ அல்லது ஒரு பேராழியிலோ கலக்கும் இடம் ஆற்று முகத்துவாரம்",
+    "explanation_en": "The place where a river joins a lake, sea, or ocean is the river Mouth"
+  },
+  {
+    "id": 12,
+    "question": "ஆற்று நீரானது செங்குத்து சரிவைக் கொண்ட மலைப்பிரதேசத்தை அரிப்பதால் அங்கு ஆழமான பள்ளத்தாக்குகளை உருவாக்குகிறது.",
+    "options": [
+      "'U' வடிவ",
+      "'V' வடிவ",
+      "'T' வடிவ",
+      "மேற்கண்ட மூன்றும்"
+    ],
+    "correct": 1,
+    "question_en": "River water erodes the steep slopes of mountainous regions, creating deep valleys of this shape.",
+    "options_en": [
+      "'U' shaped",
+      "'V' shaped",
+      "'T' shaped",
+      "All the above three"
+    ],
+    "explanation": "'V' வடிவ",
+    "explanation_en": "'V' shaped"
+  },
+  {
+    "id": 13,
+    "question": "ஆற்று நீரானது ஒரு செங்குத்துப் பாறையின் வன்சரிவின் விளிம்பில் கீழ்நோக்கி வீழ்வது ________",
+    "options": [
+      "முகத்துவாரம்",
+      "சிற்றாறு",
+      "நீர்வீழ்ச்சி",
+      "பிறப்பிடம்"
+    ],
+    "correct": 2,
+    "question_en": "River water falling downwards over the edge of a steep rock with a steep slope is a ________",
+    "options_en": [
+      "Mouth",
+      "Streamlet",
+      "Waterfall",
+      "Source"
+    ],
+    "explanation": "ஆற்று நீரானது ஒரு செங்குத்துப் பாறையின் வன்சரிவின் விளிம்பில் கீழ்நோக்கி வீழ்வது நீர்வீழ்ச்சி",
+    "explanation_en": "River water falling downwards over the edge of a steep rock with a steep slope is a Waterfall"
+  },
+  {
+    "id": 14,
+    "question": "மென்பாறைகள் அரிக்கப்படுவதால் தோன்றுவது ________",
+    "options": [
+      "நீர்வீழ்ச்சி",
+      "பள்ளத்தாக்கு",
+      "டெல்டா",
+      "துணையாறு"
+    ],
+    "correct": 0,
+    "question_en": "What is formed by the erosion of soft rocks?",
+    "options_en": [
+      "Waterfall",
+      "Valley",
+      "Delta",
+      "Tributary"
+    ],
+    "explanation": "மென்பாறைகள் அரிக்கப்படுவதால் தோன்றுவது நீர்வீழ்ச்சி",
+    "explanation_en": "Waterfall is formed by the erosion of soft rocks."
+  },
+  {
+    "id": 15,
+    "question": "நீர்வீழ்ச்சி தோன்றுவதற்கான காரணம்",
+    "options": [
+      "மென்பாறைகள் அரிக்கப்படுதல்",
+      "கடினமான பாறைகள் அரிக்கப்படுதல்",
+      "நிலத்தடி நீர்மட்டம் உயர்தல்",
+      "கீழ்நோக்கி வீழ்வது"
+    ],
+    "correct": 0,
+    "question_en": "The reason for the formation of a waterfall",
+    "options_en": [
+      "Erosion of soft rocks",
+      "Erosion of hard rocks",
+      "Rise in groundwater level",
+      "Falling downwards"
+    ],
+    "explanation": "மென்பாறைகள் அரிக்கப்படுதல்",
+    "explanation_en": "Erosion of soft rocks"
+  },
+  {
+    "id": 16,
+    "question": "தமிழ்நாட்டில் சிற்றாற்றின் குறுக்கே உள்ளது ________",
+    "options": [
+      "ஆகாயகங்கை அருவி",
+      "ஒகேனக்கல் அருவி",
+      "கும்பக்கரை அருவி",
+      "குற்றால நீர்வீழ்ச்சி"
+    ],
+    "correct": 3,
+    "question_en": "Located across the Chittar river in Tamil Nadu is ________",
+    "options_en": [
+      "Agaya Gangai falls",
+      "Hogenakkal falls",
+      "Kumbakkarai falls",
+      "Courtallam falls"
+    ],
+    "explanation": "தமிழ்நாட்டில் சிற்றாற்றின் குறுக்கே உள்ளது குற்றால நீர்வீழ்ச்சி",
+    "explanation_en": "Located across the Chittar river in Tamil Nadu is Courtallam falls"
+  },
+  {
+    "id": 17,
+    "question": "நீர்வீழ்ச்சியின் கீழ்ப்பகுதியில் குழிவுறுதல் காரணமாக ஏற்படும் பெரும்பள்ளம் ________",
+    "options": [
+      "டெல்டா",
+      "ஆற்றுவளைவு",
+      "உட்பாய்வு தேக்கம்",
+      "படிவுகள்"
+    ],
+    "correct": 2,
+    "question_en": "A plunge pool caused by cavitation at the base of a waterfall is ________",
+    "options_en": [
+      "Delta",
+      "Meander",
+      "Plunge pool",
+      "Deposits"
+    ],
+    "explanation": "நீர்வீழ்ச்சியின் கீழ்ப்பகுதியில் குழிவுறுதல் காரணமாக ஏற்படும் பெரும்பள்ளம் உட்பாய்வு தேக்கம்",
+    "explanation_en": "A plunge pool caused by cavitation at the base of a waterfall is Plunge pool"
+  },
+  {
+    "id": 18,
+    "question": "ஆறு ஒரு சமவெளி பகுதியையோ அல்லது மலையடிவாரப் பகுதியையோ அடையும்போது படியும் படிவுகளை ________ என்கிறோம்.",
+    "options": [
+      "உட்பாய்வு தேக்கம்",
+      "வண்டல் விசிறிகள்",
+      "குழிவுறுதல்",
+      "வன்சரிவு"
+    ],
+    "correct": 1,
+    "question_en": "The deposits laid down when a river reaches a plain or the foothills of a mountain are called ________.",
+    "options_en": [
+      "Plunge pool",
+      "Alluvial fans",
+      "Cavitation",
+      "Steep slope"
+    ],
+    "explanation": "ஆறு ஒரு சமவெளி பகுதியையோ அல்லது மலையடிவாரப் பகுதியையோ அடையும்போது படியும் படிவுகளை வண்டல் விசிறிகள் என்கிறோம்.",
+    "explanation_en": "The deposits laid down when a river reaches a plain or the foothills of a mountain are called Alluvial fans."
+  },
+  {
+    "id": 19,
+    "question": "ஒரு நீரோடை அல்லது ஆறு தன் போக்கில் ஒரு முதன்மை ஆற்றுடன் இணைவது ________",
+    "options": [
+      "துணையாறு",
+      "கிளையாறு",
+      "சிற்றாறு",
+      "முதன்மை ஆறு"
+    ],
+    "correct": 0,
+    "question_en": "A stream or river that joins a main river in its course is a ________",
+    "options_en": [
+      "Tributary",
+      "Distributary",
+      "Streamlet",
+      "Main river"
+    ],
+    "explanation": "ஒரு நீரோடை அல்லது ஆறு தன் போக்கில் ஒரு முதன்மை ஆற்றுடன் இணைவது துணையாறு",
+    "explanation_en": "A stream or river that joins a main river in its course is a Tributary"
+  },
+  {
+    "id": 20,
+    "question": "ஆறு உருவாக்கும் நிலத்தோற்றங்களில் ஒன்று ________",
+    "options": [
+      "ஆற்றுவளைவு",
+      "சர்க்குகள்",
+      "டார்ன் ஏரிகள்",
+      "பேராழி"
+    ],
+    "correct": 0,
+    "question_en": "One of the landforms created by a river is ________",
+    "options_en": [
+      "Meander",
+      "Cirques",
+      "Tarn lakes",
+      "Ocean"
+    ],
+    "explanation": "ஆறு உருவாக்கும் நிலத்தோற்றங்களில் ஒன்று ஆற்றுவளைவு",
+    "explanation_en": "One of the landforms created by a river is Meander"
+  },
+  {
+    "id": 21,
+    "question": "உலகிலேயே மிக உயரமான நீர்வீழ்ச்சி",
+    "options": [
+      "விக்டோரியா நீர்வீழ்ச்சி",
+      "நயாகரா நீர்வீழ்ச்சி",
+      "ஜோக் நீர்வீழ்ச்சி",
+      "ஏஞ்சல் நீர்வீழ்ச்சி"
+    ],
+    "correct": 3,
+    "question_en": "The highest waterfall in the world",
+    "options_en": [
+      "Victoria Falls",
+      "Niagara Falls",
+      "Jog Falls",
+      "Angel Falls"
+    ],
+    "explanation": "ஏஞ்சல் நீர்வீழ்ச்சி",
+    "explanation_en": "Angel Falls"
+  },
+  {
+    "id": 22,
+    "question": "உலகிலேயே மிக உயரமான நீர்வீழ்ச்சி அமைந்துள்ள நாடு",
+    "options": [
+      "வெனிசுலா",
+      "பிரேசில்",
+      "கொலம்பியா",
+      "அர்ஜென்டினா"
+    ],
+    "correct": 0,
+    "question_en": "The country where the world's highest waterfall is located",
+    "options_en": [
+      "Venezuela",
+      "Brazil",
+      "Colombia",
+      "Argentina"
+    ],
+    "explanation": "வெனிசுலா",
+    "explanation_en": "Venezuela"
+  },
+  {
+    "id": 23,
+    "question": "நயாகரா நீர்வீழ்ச்சி அமைந்துள்ள கண்டம்",
+    "options": [
+      "தென்அமெரிக்கா",
+      "வடஅமெரிக்கா",
+      "அமெரிக்க ஐக்கியநாடுகள்",
+      "ஆப்பிரிக்கா"
+    ],
+    "correct": 1,
+    "question_en": "The continent where Niagara Falls is located",
+    "options_en": [
+      "South America",
+      "North America",
+      "United States of America",
+      "Africa"
+    ],
+    "explanation": "வடஅமெரிக்கா",
+    "explanation_en": "North America"
+  },
+  {
+    "id": 24,
+    "question": "கனடா, அமெரிக்க ஐக்கியநாடுகளின் எல்லையில் உள்ள நீர்வீழ்ச்சி",
+    "options": [
+      "கனடா நீர்வீழ்ச்சி",
+      "நயாகரா நீர்வீழ்ச்சி",
+      "விக்டோரியா நீர்வீழ்ச்சி",
+      "ஏஞ்சல் நீர்வீழ்ச்சி"
+    ],
+    "correct": 1,
+    "question_en": "The waterfall on the border of Canada and the United States of America",
+    "options_en": [
+      "Canada Falls",
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls"
+    ],
+    "explanation": "நயாகரா நீர்வீழ்ச்சி",
+    "explanation_en": "Niagara Falls"
+  },
+  {
+    "id": 25,
+    "question": "ஜாம்பியா மற்றும் ஜிம்பாப்வே நாடுகளின் எல்லையில் உள்ள நீர்வீழ்ச்சி",
+    "options": [
+      "விக்டோரியா நீர்வீழ்ச்சி",
+      "நயாகரா நீர்வீழ்ச்சி",
+      "ஏஞ்சல் நீர்வீழ்ச்சி",
+      "ஜோக் நீர்வீழ்ச்சி"
+    ],
+    "correct": 0,
+    "question_en": "The waterfall on the border of Zambia and Zimbabwe",
+    "options_en": [
+      "Victoria Falls",
+      "Niagara Falls",
+      "Angel Falls",
+      "Jog Falls"
+    ],
+    "explanation": "விக்டோரியா நீர்வீழ்ச்சி",
+    "explanation_en": "Victoria Falls"
+  },
+  {
+    "id": 26,
+    "question": "ஆறானது சமவெளிப்பகுதியை அடையும்போது நீரின் அலைதலால் ஆற்றில் தோன்றுபவை",
+    "options": [
+      "அலைகள்",
+      "வளைவுகள்",
+      "வண்டல்கள்",
+      "படிதல்"
+    ],
+    "correct": 1,
+    "question_en": "What appears in the river due to the meandering of water when it reaches the plain?",
+    "options_en": [
+      "Waves",
+      "Meanders/Bends",
+      "Alluvium",
+      "Deposition"
+    ],
+    "explanation": "வளைவுகள்",
+    "explanation_en": "Meanders/Bends"
+  },
+  {
+    "id": 27,
+    "question": "ஆறு வளைந்து மற்றும் சுழன்று செல்வதால் தோன்றும் பெரிய வளைவுகள்",
+    "options": [
+      "அரித்தல் மற்றும் படிதல்",
+      "குதிரைக் குளம்பு ஏரி",
+      "ஆற்று வளைவுகள்",
+      "ஏரிகள்"
+    ],
+    "correct": 2,
+    "question_en": "Large bends formed by the river twisting and turning",
+    "options_en": [
+      "Erosion and deposition",
+      "Ox-bow lake",
+      "Meanders",
+      "Lakes"
+    ],
+    "explanation": "ஆற்று வளைவுகள்",
+    "explanation_en": "Meanders"
+  },
+  {
+    "id": 28,
+    "question": "ஆற்று வளைவுகளின் இருபக்கங்களிலும் தொடர்ந்து அரித்தல் மற்றும் படிதல் ஏற்பட்டு ஆற்று வளைவின் கழுத்துப் பகுதி சுருங்கி, பின்னர் ஆற்றிலிருந்து துண்டிக்கப்பட்டு உருவாவது",
+    "options": [
+      "குதிரைக் குளம்பு ஏரி",
+      "'V' வடிவ பள்ளத்தாக்கு",
+      "ஆற்று வளைவு",
+      "வண்டல் படிவுகள்"
+    ],
+    "correct": 0,
+    "question_en": "Due to continuous erosion and deposition along the sides of the meander, the ends of the meander loop come closer and eventually cut off from the river, forming a",
+    "options_en": [
+      "Ox-bow lake",
+      "'V' shaped valley",
+      "Meander",
+      "Alluvial deposits"
+    ],
+    "explanation": "குதிரைக் குளம்பு ஏரி",
+    "explanation_en": "Ox-bow lake"
+  },
+  {
+    "id": 29,
+    "question": "தமிழ்நாட்டில் ஆற்று வளைவுகள் காணப்படும் இடம்",
+    "options": [
+      "காஞ்சிபுரத்தில் உள்ள அடையாறு",
+      "திருவண்ணாமலையில் உள்ள செய்யாறு",
+      "கடலூர் மாவட்டத்திலுள்ள சேத்தியாத்தோப்பு வெள்ளாற்றுப் படுகை",
+      "சிவகங்கை மாவட்டத்திலுள்ள மணிமுத்தாறு"
+    ],
+    "correct": 2,
+    "question_en": "The place where meanders are found in Tamil Nadu",
+    "options_en": [
+      "Adyar river in Kanchipuram",
+      "Cheyyar in Tiruvannamalai",
+      "Vellar river basin at Sethiyathope in Cuddalore district",
+      "Manimuthar in Sivaganga district"
+    ],
+    "explanation": "கடலூர் மாவட்டத்திலுள்ள சேத்தியாத்தோப்பு வெள்ளாற்றுப் படுகை",
+    "explanation_en": "Vellar river basin at Sethiyathope in Cuddalore district"
+  },
+  {
+    "id": 30,
+    "question": "'ஆற்றுவளைவு' என்ற சொல் உருவானதின் அடிப்படை",
+    "options": [
+      "மியாண்டர் ஆறு",
+      "வெள்ளாறு",
+      "செய்யாறு",
+      "மணிமுத்தாறு"
+    ],
+    "correct": 0,
+    "question_en": "The basis for the origin of the term 'Meander'",
+    "options_en": [
+      "Meander River",
+      "Vellar",
+      "Cheyyar",
+      "Manimuthar"
+    ],
+    "explanation": "மியாண்டர் ஆறு",
+    "explanation_en": "Meander River"
+  },
+  {
+    "id": 31,
+    "question": "'ஆசியா மைனர்' எனப்படுவது",
+    "options": [
+      "பிரான்ஸ்",
+      "துருக்கி",
+      "சீனா",
+      "ஜப்பான்"
+    ],
+    "correct": 1,
+    "question_en": "What is called 'Asia Minor'?",
+    "options_en": [
+      "France",
+      "Turkey",
+      "China",
+      "Japan"
+    ],
+    "explanation": "துருக்கி",
+    "explanation_en": "Turkey is called 'Asia Minor'."
+  },
+  {
+    "id": 32,
+    "question": "ஆற்றின் வெள்ளப்பெருக்கு நுண்துகள்கள், மண் மற்றும் இதர பொருட்கள் கரையை ஒட்டிய பகுதிகளில் அடுக்குகளாக படிந்துள்ளவை",
+    "options": [
+      "கடற்கரை",
+      "குதிரைக்குளம்பு ஏரி",
+      "ஆற்றுவளைவு",
+      "வண்டல் படிவுகள்"
+    ],
+    "correct": 3,
+    "question_en": "Fine soil and other material deposited in layers along the banks during river floods are",
+    "options_en": [
+      "Beach",
+      "Ox-bow lake",
+      "Meander",
+      "Alluvial deposits"
+    ],
+    "explanation": "வண்டல் படிவுகள்",
+    "explanation_en": "Alluvial deposits"
+  },
+  {
+    "id": 33,
+    "question": "வண்டல் படிவுகளால் உருவாக்கப்படுபவை",
+    "options": [
+      "வெள்ளச் சமவெளி",
+      "லெவீஸ்",
+      "உயர் அணை",
+      "இவை அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What are created by alluvial deposits?",
+    "options_en": [
+      "Flood plain",
+      "Levees",
+      "Raised banks",
+      "All of these"
+    ],
+    "explanation": "இவை அனைத்தும்",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 34,
+    "question": "லெவீஸ் எனப்படுவது",
+    "options": [
+      "உயர் அணை",
+      "ஆற்றுச் சமவெளி",
+      "மியாண்டர்",
+      "வண்டல் படிவுகள்"
+    ],
+    "correct": 0,
+    "question_en": "Levees are also known as",
+    "options_en": [
+      "Raised banks",
+      "River plain",
+      "Meander",
+      "Alluvial deposits"
+    ],
+    "explanation": "உயர் அணை",
+    "explanation_en": "Raised banks"
+  },
+  {
+    "id": 35,
+    "question": "ஆறு கடலை அடையும் போது, ஆற்று நீரின் வேகம் குறைந்து பல பிரிவுகளாக பிரிந்து செல்வது",
+    "options": [
+      "துணையாறுகள்",
+      "கிளையாறுகள்",
+      "ஆற்று வளைவுகள்",
+      "வெள்ளச் சமவெளி"
+    ],
+    "correct": 1,
+    "question_en": "When a river reaches the sea, the speed of its water decreases and it splits into many branches called",
+    "options_en": [
+      "Tributaries",
+      "Distributaries",
+      "Meanders",
+      "Flood plain"
+    ],
+    "explanation": "கிளையாறுகள்",
+    "explanation_en": "Distributaries"
+  },
+  {
+    "id": 36,
+    "question": "கிளையாற்றின் முகத்துவாரங்களில் தோற்றுவிக்கப்படும் படிவுகள் உருவாக்குபவை",
+    "options": [
+      "ஆற்றின் பிறப்பிடம்",
+      "வண்டல் விசிறிகள்",
+      "டெல்டாக்கள்",
+      "உயர் அணை"
+    ],
+    "correct": 2,
+    "question_en": "The deposits formed at the mouths of distributaries create",
+    "options_en": [
+      "River source",
+      "Alluvial fans",
+      "Deltas",
+      "Raised banks"
+    ],
+    "explanation": "டெல்டாக்கள்",
+    "explanation_en": "Deltas"
+  },
+  {
+    "id": 37,
+    "question": "உற்பத்தித்திறன் மிகுந்த மண் காணப்படுவது",
+    "options": [
+      "டெல்டாக்கள்",
+      "முகத்துவாரம்",
+      "வெள்ளச் சமவெளி",
+      "கடற்கரை"
+    ],
+    "correct": 0,
+    "question_en": "Highly productive soil is found in",
+    "options_en": [
+      "Deltas",
+      "Estuary / Mouth",
+      "Flood plain",
+      "Beach"
+    ],
+    "explanation": "டெல்டாக்கள்",
+    "explanation_en": "Deltas"
+  },
+  {
+    "id": 38,
+    "question": "உற்பத்தித்திறன் மிகுந்த மண் காணப்படும் இடம்",
+    "options": [
+      "காவிரி டெல்டா",
+      "கங்கை டெல்டா",
+      "மிசிசிபி டெல்டா",
+      "இவையனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Places where highly productive soil is found",
+    "options_en": [
+      "Cauvery Delta",
+      "Ganga Delta",
+      "Mississippi Delta",
+      "All of these"
+    ],
+    "explanation": "இவையனைத்தும்",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 39,
+    "question": "பனியாறு என்பது மலைச்சரிவில் ஈர்ப்பு விசை காரணமாக சரிவை நோக்கி மெல்ல நகரும் பெரிய",
+    "options": [
+      "பனி மலை",
+      "பனிக் குவியல்",
+      "பனிப் பொழிவு",
+      "பனிப் பிரதேசம்"
+    ],
+    "correct": 1,
+    "question_en": "A glacier is a large ________ moving slowly down a mountain slope due to gravity.",
+    "options_en": [
+      "Snow mountain",
+      "Mass of ice",
+      "Snowfall",
+      "Snow region"
+    ],
+    "explanation": "பனிக் குவியல்",
+    "explanation_en": "A glacier is a large Mass of ice moving slowly down a mountain slope due to gravity."
+  },
+  {
+    "id": 40,
+    "question": "கண்டப்பகுதியில் பெரும்பரப்பில் பரவிக் காணப்படும் அடர்ந்த பனிப்படலம்",
+    "options": [
+      "கண்டப் பனியாறு",
+      "பள்ளத்தாக்குப் பனியாறு",
+      "மலைப் பனியாறு",
+      "மலைச் சரிவு"
+    ],
+    "correct": 0,
+    "question_en": "A thick sheet of ice spread over a large area of a continent",
+    "options_en": [
+      "Continental glacier",
+      "Valley glacier",
+      "Mountain glacier",
+      "Mountain slope"
+    ],
+    "explanation": "கண்டப் பனியாறு",
+    "explanation_en": "Continental glacier"
+  },
+  {
+    "id": 41,
+    "question": "கண்டப் பனியாறு காணப்படும் இடங்கள்",
+    "options": [
+      "அண்டார்டிகா",
+      "கிரீன்லாந்து",
+      "வடஅமெரிக்கா",
+      "(1) மற்றும் (2)"
+    ],
+    "correct": 3,
+    "question_en": "Places where continental glaciers are found",
+    "options_en": [
+      "Antarctica",
+      "Greenland",
+      "North America",
+      "(1) and (2)"
+    ],
+    "explanation": "(1) மற்றும் (2)",
+    "explanation_en": "(1) and (2)"
+  },
+  {
+    "id": 42,
+    "question": "மலையிலிருந்து பள்ளத்தாக்கை நோக்கி நகரும் பனியாறு",
+    "options": [
+      "மலை முகடு",
+      "கண்டப் பனியாறு",
+      "பள்ளத்தாக்குப் பனியாறு",
+      "மலைச் சரிவு"
+    ],
+    "correct": 2,
+    "question_en": "A glacier that moves from a mountain towards a valley",
+    "options_en": [
+      "Mountain peak",
+      "Continental glacier",
+      "Valley glacier",
+      "Mountain slope"
+    ],
+    "explanation": "பள்ளத்தாக்குப் பனியாறு",
+    "explanation_en": "Valley glacier"
+  },
+  {
+    "id": 43,
+    "question": "பள்ளத்தாக்கு பனியாறுகள் சூழப்பட்டுள்ள பக்கங்கள்",
+    "options": [
+      "இணையானவை",
+      "செங்குத்தானவை",
+      "உயரமானவை",
+      "சரிவுகள்"
+    ],
+    "correct": 1,
+    "question_en": "The sides surrounding valley glaciers are",
+    "options_en": [
+      "Parallel",
+      "Steep",
+      "Tall",
+      "Slopes"
+    ],
+    "explanation": "செங்குத்தானவை",
+    "explanation_en": "Steep"
+  },
+  {
+    "id": 44,
+    "question": "பள்ளத்தாக்கு பனியாறுகள் காணப்படும் இடங்கள்",
+    "options": [
+      "இமயமலை மற்றும் ஆல்ப்ஸ் மலைப்பகுதி",
+      "ராக்கி மலைத்தொடர்",
+      "அட்லஸ் மலைத்தொடர்",
+      "ஆண்டிஸ் மலைப்பகுதி"
+    ],
+    "correct": 0,
+    "question_en": "Places where valley glaciers are found",
+    "options_en": [
+      "Himalayas and Alps mountain regions",
+      "Rocky Mountains",
+      "Atlas Mountains",
+      "Andes mountain region"
+    ],
+    "explanation": "இமயமலை மற்றும் ஆல்ப்ஸ் மலைப்பகுதி",
+    "explanation_en": "Himalayas and Alps mountain regions"
+  },
+  {
+    "id": 45,
+    "question": "மலைச் சரிவில் பனி அரிப்பால் ஏற்படுபவை",
+    "options": [
+      "பனி சரிவு",
+      "சர்க்குகள்",
+      "பனியாறு",
+      "பள்ளத்தாக்குகள்"
+    ],
+    "correct": 1,
+    "question_en": "What are formed by glacial erosion on a mountain slope?",
+    "options_en": [
+      "Avalanche",
+      "Cirques",
+      "Glacier",
+      "Valleys"
+    ],
+    "explanation": "சர்க்குகள்",
+    "explanation_en": "Cirques"
+  },
+  {
+    "id": 46,
+    "question": "பனியாறுகளால் அரிபடா பாறைகளில் தோன்றும் கை நாற்காலி போன்ற ஒரு நிலத்தோற்றம்",
+    "options": [
+      "டெல்டாக்கள்",
+      "குன்றுகள்",
+      "சர்க்குகள்",
+      "மலைச்சரிவுகள்"
+    ],
+    "correct": 2,
+    "question_en": "An armchair-like landform appearing in uneroded rocks due to glaciers",
+    "options_en": [
+      "Deltas",
+      "Hills",
+      "Cirques",
+      "Mountain slopes"
+    ],
+    "explanation": "சர்க்குகள்",
+    "explanation_en": "Cirques"
+  },
+  {
+    "id": 47,
+    "question": "அனைத்துப் பக்கமும் செங்குத்தாகவும், தலைப்பகுதி செங்குத்து சுவர் போன்றும் காணப்படும் பகுதி",
+    "options": [
+      "சர்க்குகள்",
+      "மலைச் சிகரங்கள்",
+      "மலைமுகடுகள்",
+      "செங்குத்துப் பாறைகள்"
+    ],
+    "correct": 0,
+    "question_en": "A feature that is steep on all sides and has a steep wall-like headwall",
+    "options_en": [
+      "Cirques",
+      "Mountain peaks",
+      "Mountain ridges",
+      "Steep rocks"
+    ],
+    "explanation": "சர்க்குகள்",
+    "explanation_en": "Cirques"
+  },
+  {
+    "id": 48,
+    "question": "பனி உருகும் போது சர்க் நீரால் நிரப்பப்பட்டு அழகான ஏரிகளாக தோற்றமளிக்கும் ஏரிகள்",
+    "options": [
+      "வெலிங்டன் ஏரி",
+      "டார்ன் ஏரி",
+      "புழல் ஏரி",
+      "எமரால்டு ஏரி"
+    ],
+    "correct": 1,
+    "question_en": "When ice melts, cirques are filled with water and look like beautiful lakes called",
+    "options_en": [
+      "Wellington Lake",
+      "Tarn Lake",
+      "Puzhal Lake",
+      "Emerald Lake"
+    ],
+    "explanation": "டார்ன் ஏரி",
+    "explanation_en": "Tarn Lake"
+  },
+  {
+    "id": 49,
+    "question": "இரண்டோ அல்லது அதற்கு மேற்பட்ட சர்க்குகள் ஒன்றை நோக்கி ஒன்று நகரும் போது மாற்றமடையும் குறுகிய, செங்குத்து மற்றும் சரிவான கத்திமுனைக் குன்றுகள்",
+    "options": [
+      "மலை முகடுகள்",
+      "டார்ன் ஏரிகள்",
+      "அரெட்டுகள்",
+      "இமயமலைத் தொடர்"
+    ],
+    "correct": 2,
+    "question_en": "Narrow, steep, and jagged knife-edge ridges formed when two or more cirques erode towards each other",
+    "options_en": [
+      "Mountain ridges",
+      "Tarn lakes",
+      "Arêtes",
+      "Himalayan range"
+    ],
+    "explanation": "அரெட்டுகள்",
+    "explanation_en": "Arêtes"
+  },
+  {
+    "id": 50,
+    "question": "‘U' வடிவபள்ளத்தாக்கு பின்வரும் எந்த பனியாற்றின் விளைவுகளால் ஏற்படுகின்றன?",
+    "options": [
+      "பக்கவாட்டு மற்றும் செங்குத்து அரிப்பு",
+      "ஆழப்படுத்துதல்",
+      "அகலப்படுத்துதல்",
+      "இவையனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "A 'U' shaped valley is caused by which of the following effects of a glacier?",
+    "options_en": [
+      "Lateral and vertical erosion",
+      "Deepening",
+      "Widening",
+      "All of these"
+    ],
+    "explanation": "இவையனைத்தும்",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 51,
+    "question": "பனியாற்றினால் கடத்தப்படும் பெரிய, சிறிய மணல் மற்றும் வண்டல் ஆகியவற்றால் படிய வைக்கப்படும் படிவுகள்",
+    "options": [
+      "பனியாறுகள்",
+      "பனி மலைகள்",
+      "அரெட்டுகள்",
+      "பனியாற்று மொரைன்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Deposits of large and small sand and silt carried and deposited by a glacier are",
+    "options_en": [
+      "Glaciers",
+      "Snow mountains",
+      "Arêtes",
+      "Glacial moraines"
+    ],
+    "explanation": "பனியாற்று மொரைன்கள்",
+    "explanation_en": "Glacial moraines"
+  },
+  {
+    "id": 52,
+    "question": "பாலைவனத்தில் அரித்தல் மற்றும் படியவைத்தல் செயல்முறைகளை வேகமாக செயல்படுத்தும் காரணி",
+    "options": [
+      "காற்று",
+      "நீர்",
+      "வெப்பம்",
+      "அலை"
+    ],
+    "correct": 0,
+    "question_en": "The active agent of erosion and deposition in a desert",
+    "options_en": [
+      "Wind",
+      "Water",
+      "Heat",
+      "Wave"
+    ],
+    "explanation": "காற்று",
+    "explanation_en": "Wind"
+  },
+  {
+    "id": 53,
+    "question": "பாறையின் மேற்பகுதியை விட கீழ்ப்பகுதியை காற்று வேகமாக அரிக்கின்ற காரணத்தினால் பாறைகள் மேற்பகுதி அகன்றும் மற்றும் அடிப்பகுதி குறுகலாகவும் காணப்படுகிற பாறைகள்",
+    "options": [
+      "படிவுப் பாறைகள்",
+      "உருமாறிய பாறைகள்",
+      "காளான் பாறைகள்",
+      "தீப்பாறைகள்"
+    ],
+    "correct": 2,
+    "question_en": "Rocks that appear broader at the top and narrower at the base because wind erodes the lower section of the rock faster than the upper part",
+    "options_en": [
+      "Sedimentary rocks",
+      "Metamorphic rocks",
+      "Mushroom rocks",
+      "Igneous rocks"
+    ],
+    "explanation": "காளான் பாறைகள்",
+    "explanation_en": "Mushroom rocks"
+  },
+  {
+    "id": 54,
+    "question": "பாலைவனப் பகுதியில் காணப்படும் பாறைகள்",
+    "options": [
+      "காளான் பாறைகள்",
+      "உருமாறிய பாறைகள்",
+      "படிவுப் பாறைகள்",
+      "தீப்பாறைகள்"
+    ],
+    "correct": 0,
+    "question_en": "Rocks found in desert regions",
+    "options_en": [
+      "Mushroom rocks",
+      "Metamorphic rocks",
+      "Sedimentary rocks",
+      "Igneous rocks"
+    ],
+    "explanation": "காளான் பாறைகள்",
+    "explanation_en": "Mushroom rocks"
+  },
+  {
+    "id": 55,
+    "question": "காளான் பாறைகள் காணப்படும் இடம்",
+    "options": [
+      "சமவெளிப் பகுதி",
+      "பாலைவனம்",
+      "மலைப்பிரதேசம்",
+      "கடலோரப் பகுதி"
+    ],
+    "correct": 1,
+    "question_en": "Places where mushroom rocks are found",
+    "options_en": [
+      "Plains",
+      "Deserts",
+      "Mountainous regions",
+      "Coastal areas"
+    ],
+    "explanation": "பாலைவனம்",
+    "explanation_en": "Deserts"
+  },
+  {
+    "id": 56,
+    "question": "ஒரு தனித்து விடப்பட்ட எஞ்சிய குன்று வட்டமான தலைப்பகுதியுடன் நிற்கும் ஒரு தூண் போன்று காட்சியளிப்பது",
+    "options": [
+      "மணல் குன்றுகள்",
+      "உருமாறிய பாறைகள்",
+      "காற்றரிப்புத் தனிக் குன்றுகள்",
+      "காளான் பாறைகள்"
+    ],
+    "correct": 2,
+    "question_en": "An isolated residual hill standing like a pillar with rounded tops is called",
+    "options_en": [
+      "Sand dunes",
+      "Metamorphic rocks",
+      "Inselbergs",
+      "Mushroom rocks"
+    ],
+    "explanation": "காற்றரிப்புத் தனிக் குன்றுகள்",
+    "explanation_en": "Inselbergs"
+  },
+  {
+    "id": 57,
+    "question": "காற்றரிப்புத் தனிக்குன்றுகள் காணப்படும் இடம்",
+    "options": [
+      "தென் ஆப்பிரிக்காவின் கலஹாரி பாலைவனம்",
+      "இந்தியாவின் தார் பாலைவனம்",
+      "வடஆப்பிரிக்காவின் சஹாரா பாலைவனம்",
+      "எகிப்தில் உள்ள புளூ பாலைவனம்"
+    ],
+    "correct": 0,
+    "question_en": "Place where inselbergs are found",
+    "options_en": [
+      "Kalahari Desert of South Africa",
+      "Thar Desert of India",
+      "Sahara Desert of North Africa",
+      "Blue Desert in Egypt"
+    ],
+    "explanation": "தென் ஆப்பிரிக்காவின் கலஹாரி பாலைவனம்",
+    "explanation_en": "Kalahari Desert of South Africa"
+  },
+  {
+    "id": 58,
+    "question": "பிறைச்சந்திர தோற்றத்துடன் கூடிய மணல் குன்றுகள்",
+    "options": [
+      "அரெட்டுகள்",
+      "பர்கான்கள்",
+      "வட்டவடிவக் குன்றுகள்",
+      "வண்டல் படிவுகள்"
+    ],
+    "correct": 1,
+    "question_en": "Crescent-shaped sand dunes",
+    "options_en": [
+      "Arêtes",
+      "Barchans",
+      "Circular hills",
+      "Alluvial deposits"
+    ],
+    "explanation": "பர்கான்கள்",
+    "explanation_en": "Barchans"
+  },
+  {
+    "id": 59,
+    "question": "பர்கான்கள் என்பவை",
+    "options": [
+      "வட்ட வடிவக் குன்றுகள்",
+      "கூம்பு வடிவ மணல் குன்றுகள்",
+      "பிறைச்சந்திர தோற்றமுடைய மணல் குன்றுகள்",
+      "காளான் பாறைகள்"
+    ],
+    "correct": 2,
+    "question_en": "Barchans are",
+    "options_en": [
+      "Circular hills",
+      "Cone-shaped sand dunes",
+      "Crescent-shaped sand dunes",
+      "Mushroom rocks"
+    ],
+    "explanation": "பிறைச்சந்திர தோற்றமுடைய மணல் குன்றுகள்",
+    "explanation_en": "Crescent-shaped sand dunes"
+  },
+  {
+    "id": 60,
+    "question": "மிக லேசாகவும் மற்றும் எடை குறைவாகவும் இருக்கும் மணல் துகள்கள் நீண்ட தொலைவிற்கு கடத்தப்பட்டு ஒரு பெரும்பரப்பில் படிவது",
+    "options": [
+      "பர்கான்கள்",
+      "காற்றடி வண்டல் படிவுகள்",
+      "வண்டல் விசிறிகள்",
+      "மணல் குன்றுகள்"
+    ],
+    "correct": 1,
+    "question_en": "When grains of sand are very fine and light, they are carried over very long distances and deposited in large areas, forming",
+    "options_en": [
+      "Barchans",
+      "Loess",
+      "Alluvial fans",
+      "Sand dunes"
+    ],
+    "explanation": "காற்றடி வண்டல் படிவுகள்",
+    "explanation_en": "Loess"
+  },
+  {
+    "id": 61,
+    "question": "காற்றடி வண்டல் படிவுகள் அதிகமாக காணப்படும் இடம்",
+    "options": [
+      "ஜப்பான்",
+      "ஆப்பிரிக்கா",
+      "இந்தியா",
+      "சீனா"
+    ],
+    "correct": 3,
+    "question_en": "Large deposits of loess are found in",
+    "options_en": [
+      "Japan",
+      "Africa",
+      "India",
+      "China"
+    ],
+    "explanation": "சீனா",
+    "explanation_en": "China"
+  },
+  {
+    "id": 62,
+    "question": "வடக்கு சீனாவில் படிந்துள்ள காற்றடி வண்டல் படிவுகள் எந்த பாலைவனத்திலிருந்து கடத்தப்பட்டவை?",
+    "options": [
+      "தார் பாலைவனம்",
+      "கோபி பாலைவனம்",
+      "சஹாரா பாலைவனம்",
+      "கலஹாரிப் பாலைவனம்"
+    ],
+    "correct": 1,
+    "question_en": "The loess deposits found in Northern China are transported from which desert?",
+    "options_en": [
+      "Thar Desert",
+      "Gobi Desert",
+      "Sahara Desert",
+      "Kalahari Desert"
+    ],
+    "explanation": "கோபி பாலைவனம்",
+    "explanation_en": "Gobi Desert"
+  },
+  {
+    "id": 63,
+    "question": "நிலத்தின் ஒரு பகுதி கடலை அடுத்தோ அல்லது ஒட்டியோ காணப்படுவது",
+    "options": [
+      "காடுகள்",
+      "கடற்கரை",
+      "மணல் குன்றுகள்",
+      "நகரங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "A part of the land adjoining or near the sea is called a",
+    "options_en": [
+      "Forests",
+      "Coast",
+      "Sand dunes",
+      "Cities"
+    ],
+    "explanation": "கடற்கரை",
+    "explanation_en": "Coast"
+  },
+  {
+    "id": 64,
+    "question": "கடல்நீரும், நிலமும் சந்திக்கின்ற இடம்",
+    "options": [
+      "கடற்கரை",
+      "சமவெளி",
+      "கடலோர எல்லை",
+      "துறைமுகம்"
+    ],
+    "correct": 2,
+    "question_en": "The place where the sea water and the land meet",
+    "options_en": [
+      "Beach",
+      "Plain",
+      "Coastline",
+      "Harbour"
+    ],
+    "explanation": "கடலோர எல்லை",
+    "explanation_en": "Coastline"
+  },
+  {
+    "id": 65,
+    "question": "அலைகளின் அரிப்பினாலும், படிதலாலும் மாற்றத்திற்கு உள்ளாவது",
+    "options": [
+      "கடற்கரை",
+      "துறைமுகம்",
+      "புவிப்பரப்பு",
+      "டெல்டாக்கள்"
+    ],
+    "correct": 0,
+    "question_en": "What gets modified by the erosion and deposition of waves?",
+    "options_en": [
+      "Coast",
+      "Harbour",
+      "Earth's surface",
+      "Deltas"
+    ],
+    "explanation": "கடற்கரை",
+    "explanation_en": "Coast"
+  },
+  {
+    "id": 66,
+    "question": "கடல் அலைகள் தொடர்ந்து தாக்கத்தை ஏற்படுத்துவதால் பாறையில் இது உருவாகும்.",
+    "options": [
+      "படிவுகள்",
+      "விரிசல்கள்",
+      "கடற்கரை",
+      "எரிமலைகள்"
+    ],
+    "correct": 1,
+    "question_en": "Continuous striking of sea waves on rocks develops this.",
+    "options_en": [
+      "Deposits",
+      "Cracks",
+      "Beach",
+      "Volcanoes"
+    ],
+    "explanation": "விரிசல்கள்",
+    "explanation_en": "Cracks"
+  },
+  {
+    "id": 67,
+    "question": "கடல் அலைகளின் அரிப்பினாலும் மற்றும் படிதலாலும் உருவாகுபவை",
+    "options": [
+      "கடற்கரை",
+      "நகரங்கள்",
+      "கடலோர நிலப்பரப்புகள்",
+      "கடலோர எல்லை"
+    ],
+    "correct": 2,
+    "question_en": "What are formed by the erosion and deposition of sea waves?",
+    "options_en": [
+      "Beach",
+      "Cities",
+      "Coastal landforms",
+      "Coastline"
+    ],
+    "explanation": "கடலோர நிலப்பரப்புகள்",
+    "explanation_en": "Coastal landforms"
+  },
+  {
+    "id": 68,
+    "question": "கடற்கரையை அடுத்துள்ள நிலம் அலைகளின் மோதலாலும், அரிப்பினாலும் கடலை நோக்கி செங்குத்தாக உயர்ந்து காணப்படும் பகுதி",
+    "options": [
+      "பாறை கடல் ஓங்கல்",
+      "செங்குத்துக் குன்றுகள்",
+      "படிவுகள்",
+      "கடலோர நிலப்பரப்புகள்"
+    ],
+    "correct": 0,
+    "question_en": "The steep rocky coast rising almost vertically above seawater due to wave erosion and impact",
+    "options_en": [
+      "Sea cliff",
+      "Steep hills",
+      "Deposits",
+      "Coastal landforms"
+    ],
+    "explanation": "பாறை கடல் ஓங்கல்",
+    "explanation_en": "Sea cliff"
+  },
+  {
+    "id": 69,
+    "question": "விரிசல்களால் செங்குத்துப் பாறையில் தோன்றும் வெற்றிடங்கள்",
+    "options": [
+      "வண்டல் மண்படிவுகள்",
+      "வெடிப்புகள்",
+      "பாறைச் சிதைவுகள்",
+      "கடற்குகைகள்"
+    ],
+    "correct": 3,
+    "question_en": "Hollow-like caves formed on the steep rocks due to cracks",
+    "options_en": [
+      "Alluvial deposits",
+      "Fissures",
+      "Weathered rocks",
+      "Sea caves"
+    ],
+    "explanation": "கடற்குகைகள்",
+    "explanation_en": "Sea caves"
+  },
+  {
+    "id": 70,
+    "question": "கடற்குகைகளின் உட்குழிவு பெரிதாகும்போது குகையின் மேற்கூரை மட்டும் எஞ்சி நின்று தோற்றுவிப்பது",
+    "options": [
+      "விரிசல்கள்",
+      "கடல் வளைவுகள்",
+      "குதிரை குளம்பு ஏரி",
+      "டெல்டாக்கள்"
+    ],
+    "correct": 1,
+    "question_en": "As cavities of sea caves become bigger and only the roof of the caves remain, they form",
+    "options_en": [
+      "Cracks",
+      "Sea arches",
+      "Ox-bow lake",
+      "Deltas"
+    ],
+    "explanation": "கடல் வளைவுகள்",
+    "explanation_en": "Sea arches"
+  },
+  {
+    "id": 71,
+    "question": "கடல்அலைகள் மேற்கூரையை அரிப்பதால் எஞ்சி நிற்கும் சுவர் போன்ற தோற்றங்கள்",
+    "options": [
+      "கடல் வளைவுகள்",
+      "விரிசல்கள்",
+      "கடற்குகைகள்",
+      "கடல் தூண்கள்"
+    ],
+    "correct": 3,
+    "question_en": "Wall-like features left behind when sea waves erode the roof",
+    "options_en": [
+      "Sea arches",
+      "Cracks",
+      "Sea caves",
+      "Stacks"
+    ],
+    "explanation": "கடல் தூண்கள்",
+    "explanation_en": "Stacks"
+  },
+  {
+    "id": 72,
+    "question": "கடல் அலைகளால் மணல் மற்றும் சரளைகள் படிந்துள்ள நீள்வட்ட வடிவ மணல் அல்லது சேறு",
+    "options": [
+      "மணல் திட்டுக்கள்",
+      "கடல் தூண்கள்",
+      "வண்டல் படிவுகள்",
+      "கடற்கரை"
+    ],
+    "correct": 0,
+    "question_en": "An elongated deposit of sand or shingle formed by sea waves",
+    "options_en": [
+      "Sand bars",
+      "Stacks",
+      "Alluvial deposits",
+      "Beach"
+    ],
+    "explanation": "மணல் திட்டுக்கள்",
+    "explanation_en": "Sand bars"
+  },
+  {
+    "id": 73,
+    "question": "கடற்கரையிலிருந்து பகுதியாகவோ அல்லது முற்றிலுமாக பிரிக்கப்பட்ட ஆழம் குறைவான நீர்தேக்கம்",
+    "options": [
+      "காயல்கள்",
+      "உப்பங்கழிகள்",
+      "லகூன்",
+      "இவையனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "A shallow body of water separated partly or completely from the sea",
+    "options_en": [
+      "Kayals",
+      "Backwaters",
+      "Lagoon",
+      "All of these"
+    ],
+    "explanation": "இவையனைத்தும்",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 74,
+    "question": "உலகிலேயே மிக நீளமான கடற்கரை அமைந்துள்ள நாடு",
+    "options": [
+      "இந்தியா",
+      "ஜப்பான்",
+      "அமெரிக்கா",
+      "இங்கிலாந்து"
+    ],
+    "correct": 2,
+    "question_en": "The country where the world's longest beach is located",
+    "options_en": [
+      "India",
+      "Japan",
+      "America",
+      "England"
+    ],
+    "explanation": "அமெரிக்கா",
+    "explanation_en": "America"
+  },
+  {
+    "id": 75,
+    "question": "உலகிலேயே மிக நீளமான கடற்கரை",
+    "options": [
+      "இந்தியா - சென்னை - மெரினா கடற்கரை",
+      "அமெரிக்கா -புளோரிடா - மியாமி கடற்கரை",
+      "இந்தியா - தமிழ்நாடு - மகாபலிபுரம் கடற்கரை",
+      "இந்தியா - கன்னியாகுமரி - கடற்கரை"
+    ],
+    "correct": 1,
+    "question_en": "The world's longest beach is",
+    "options_en": [
+      "India - Chennai - Marina Beach",
+      "America - Florida - Miami Beach",
+      "India - Tamil Nadu - Mahabalipuram Beach",
+      "India - Kanyakumari - Beach"
+    ],
+    "explanation": "அமெரிக்கா -புளோரிடா - மியாமி கடற்கரை",
+    "explanation_en": "America - Florida - Miami Beach"
+  },
+  {
+    "id": 76,
+    "question": "உலகிலேயே இரண்டாவது நீண்ட கடற்கரை",
+    "options": [
+      "அமெரிக்கா - புளோரிடா",
+      "மகாபலிபுரம் கடற்கரை",
+      "சென்னை - மெரினா கடற்கரை",
+      "கோவளம் கடற்கரை"
+    ],
+    "correct": 2,
+    "question_en": "The second longest beach in the world is",
+    "options_en": [
+      "America - Florida",
+      "Mahabalipuram Beach",
+      "Chennai - Marina Beach",
+      "Kovalam Beach"
+    ],
+    "explanation": "சென்னை - மெரினா கடற்கரை",
+    "explanation_en": "Chennai - Marina Beach"
+  },
+  {
+    "id": 77,
+    "question": "முதன்மை புறச் செயல்முறைகள் என்பது",
+    "options": [
+      "ஆறு, பனியாறு",
+      "காற்று",
+      "கடல்அலைகள்",
+      "இவையனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "The main exogenic processes include",
+    "options_en": [
+      "River, Glacier",
+      "Wind",
+      "Sea waves",
+      "All of these"
+    ],
+    "explanation": "இவையனைத்தும்",
+    "explanation_en": "All of these"
+  },
+  {
+    "id": 78,
+    "question": "வானிலைச்சிதைவு மற்றும் அரித்தல் செயல்கள் மூலம் தொடர்ந்து மறுவடிவமைப்பதால் தோன்றுபவை",
+    "options": [
+      "நிலத் தோற்றங்கள்",
+      "காலநிலை மாற்றங்கள்",
+      "வானிலை மாற்றங்கள்",
+      "பருவகால மாற்றங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "What are formed by continuous reshaping due to weathering and erosion?",
+    "options_en": [
+      "Landforms",
+      "Climatic changes",
+      "Weather changes",
+      "Seasonal changes"
+    ],
+    "explanation": "நிலத் தோற்றங்கள்",
+    "explanation_en": "Landforms"
+  },
+  {
+    "id": 79,
+    "question": "ஆறு, பனியாறு, காற்று மற்றும் கடல் அலைகள் ஆகியன",
+    "options": [
+      "அகச் செயல்முறைகள்",
+      "முதன்மை புறச் செயல்முறைகள்",
+      "நிலத்தோற்றங்கள்",
+      "வானிலைச் சிதைவு"
+    ],
+    "correct": 1,
+    "question_en": "River, glacier, wind, and sea waves are",
+    "options_en": [
+      "Endogenic processes",
+      "Main exogenic processes",
+      "Landforms",
+      "Weathering"
+    ],
+    "explanation": "முதன்மை புறச் செயல்முறைகள்",
+    "explanation_en": "Main exogenic processes"
+  },
+  {
+    "id": 80,
+    "question": "ஈர்ப்புவிசையின் காரணமாக மலைச்சரிவில் கீழ்நோக்கி மெல்ல நகரும் பெரும் பனிக் குவியல்கள்",
+    "options": [
+      "பனியாறுகள்",
+      "பனிக் குன்றுகள்",
+      "பனிச்சரிவு",
+      "பனிக்கட்டிகள்"
+    ],
+    "correct": 0,
+    "question_en": "Large masses of ice moving slowly down a mountain slope due to gravity",
+    "options_en": [
+      "Glaciers",
+      "Ice hills",
+      "Avalanche",
+      "Ice blocks"
+    ],
+    "explanation": "பனியாறுகள்",
+    "explanation_en": "Glaciers"
+  },
+  {
+    "id": 81,
+    "question": "மொரைன்கள் என்பவை",
+    "options": [
+      "வண்டல் படிவுகள்",
+      "வண்டல் விசிறிகள்",
+      "பனியாற்றுப் படிவுகள்",
+      "பனியாறுகள்"
+    ],
+    "correct": 2,
+    "question_en": "Moraines are",
+    "options_en": [
+      "Alluvial deposits",
+      "Alluvial fans",
+      "Glacial deposits",
+      "Glaciers"
+    ],
+    "explanation": "பனியாற்றுப் படிவுகள்",
+    "explanation_en": "Glacial deposits"
+  },
+  {
+    "id": 82,
+    "question": "பாலைவனத்தில் அரித்தல் மற்றும் படிய வைத்தலை ஏற்படுத்தும் முதன்மைக் காரணி",
+    "options": [
+      "காற்று",
+      "வெப்பம்",
+      "அரித்தல்",
+      "மணல்"
+    ],
+    "correct": 0,
+    "question_en": "The main agent of erosion and deposition in a desert",
+    "options_en": [
+      "Wind",
+      "Heat",
+      "Erosion",
+      "Sand"
+    ],
+    "explanation": "காற்று",
+    "explanation_en": "Wind"
+  },
+  {
+    "id": 83,
+    "question": "கடல் அலைகளால் மணல் மற்றும் சரளைகள் படிந்துள்ள கடலோரப் பகுதி",
+    "options": [
+      "மணற்பரப்பு",
+      "கடற்கரை",
+      "நகரங்கள்",
+      "இவையனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "The coastal area where sand and gravel are deposited by sea waves",
+    "options_en": [
+      "Sandy area",
+      "Beach",
+      "Cities",
+      "All of these"
+    ],
+    "explanation": "கடற்கரை",
+    "explanation_en": "Beach"
+  },
+  {
+    "id": 84,
+    "question": "உயர்நிலங்கள் அரிப்பு செயல்கள் மூலம் தாழ்நிலப்பகுதிகளாகவும், படியவைத்தல் செயல்கள் மூலம் உயர்நிலங்களாகவும் மாறுவது நிலமட்டம்",
+    "options": [
+      "சமமாக்கல்",
+      "உயரமாக்கல்",
+      "சிதைவடைதல்",
+      "உருமாறுதல்"
+    ],
+    "correct": 0,
+    "question_en": "The process of highlands being eroded into lowlands and lowlands being filled up to become highlands is land",
+    "options_en": [
+      "Gradation",
+      "Elevation",
+      "Degradation",
+      "Metamorphism"
+    ],
+    "explanation": "சமமாக்கல்",
+    "explanation_en": "Gradation"
+  },
+  {
+    "id": 85,
+    "question": "புவிமேற்பரப்பில் பாறைகள் உடைவதும் மற்றும் நொறுங்குவதும்",
+    "options": [
+      "பாறை உருமாறுதல்",
+      "மணல் உருவாக்கம்",
+      "பாறை சிதைவடைதல்",
+      "படிவுகள்"
+    ],
+    "correct": 2,
+    "question_en": "The breaking down and shattering of rocks on the earth's surface is",
+    "options_en": [
+      "Rock metamorphism",
+      "Sand formation",
+      "Weathering of rocks",
+      "Deposits"
+    ],
+    "explanation": "பாறை சிதைவடைதல்",
+    "explanation_en": "Weathering of rocks"
+  },
+  {
+    "id": 86,
+    "question": "ஆற்றினால் தோற்றுவிக்கப்படும் பெரிய விசிறி வடிவ படிவுகள்",
+    "options": [
+      "டெல்டாக்கள்",
+      "மொரைன்கள்",
+      "முகத்துவாரம்",
+      "இவையனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Large fan-shaped deposits created by a river",
+    "options_en": [
+      "Deltas",
+      "Moraines",
+      "Estuary/Mouth",
+      "All of these"
+    ],
+    "explanation": "டெல்டாக்கள்",
+    "explanation_en": "Deltas"
+  },
+  {
+    "id": 87,
+    "question": "பொருத்துக.\ni. வட அமெரிக்கா\na) ஏஞ்சல்\nii. அமெரிக்க ஐக்கியநாடுகள் எல்லை\nb) விக்டோரியா\niii. தென் அமெரிக்கா\nc) கனடா\niv. ஜாம்பியா, ஜிம்பாப்வே\nd) நயாகரா",
+    "options": [
+      "i - c ii - d iii - a iv - b",
+      "i - a ii - b iii - d iv - c",
+      "i - c ii - d iii - b iv - a",
+      "i - d ii - c iii - a iv - b"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\ni. North America - a) Angel\nii. USA Border - b) Victoria\niii. South America - c) Canada\niv. Zambia, Zimbabwe - d) Niagara",
+    "options_en": [
+      "i - c ii - d iii - a iv - b",
+      "i - a ii - b iii - d iv - c",
+      "i - c ii - d iii - b iv - a",
+      "i - d ii - c iii - a iv - b"
+    ],
+    "explanation": "i - c ii - d iii - a iv - b",
+    "explanation_en": "i - c ii - d iii - a iv - b"
+  },
+  {
+    "id": 88,
+    "question": "பொருத்துக.\ni. சேத்தியாத்தோப்பு\na) துருக்கி\nii. குதிரைக் குளம்பு ஏரி\nb) உயர் அணை\niii. ஆசியா மைனர்\nc) அரித்தல் மற்றும் படிதல்\niv. லெவீஸ்\nd) ஆற்று வளைவுகள்",
+    "options": [
+      "i - d ii - c iii - b iv - a",
+      "i - d ii - c iii - a iv - b",
+      "i - b ii - c iii - a iv - c",
+      "i - c ii - a iii - b iv - d"
+    ],
+    "correct": 1,
+    "question_en": "Match the following.\ni. Sethiyathope - a) Turkey\nii. Ox-bow lake - b) Raised banks / Levees\niii. Asia Minor - c) Erosion and deposition\niv. Levees - d) Meanders",
+    "options_en": [
+      "i - d ii - c iii - b iv - a",
+      "i - d ii - c iii - a iv - b",
+      "i - b ii - c iii - a iv - c",
+      "i - c ii - a iii - b iv - d"
+    ],
+    "explanation": "i - d ii - c iii - a iv - b",
+    "explanation_en": "i - d ii - c iii - a iv - b"
+  },
+  {
+    "id": 89,
+    "question": "பொருத்துக.\ni. பள்ளத்தாக்கு பனியாறுகள்\na) சர்க்குகள்\nii. பனி அரிப்பு\nb) கார்ரி சர்க்\niii. ஸ்காட்லாந்து\nc) கார் சர்க்\niv. ஜெர்மனி\nd) இமயமலை, ஆல்ப்ஸ் மலைப்பகுதி",
+    "options": [
+      "i - c ii - b iii - d iv - a",
+      "i - b ii - d iii - a iv - c",
+      "i - a ii - c iii - b iv - d",
+      "i - d ii - a iii - b iv - c"
+    ],
+    "correct": 3,
+    "question_en": "Match the following.\ni. Valley glaciers - a) Cirques\nii. Glacial erosion - b) Corrie cirque\niii. Scotland - c) Kar cirque\niv. Germany - d) Himalayas, Alps region",
+    "options_en": [
+      "i - c ii - b iii - d iv - a",
+      "i - b ii - d iii - a iv - c",
+      "i - a ii - c iii - b iv - d",
+      "i - d ii - a iii - b iv - c"
+    ],
+    "explanation": "i - d ii - a iii - b iv - c",
+    "explanation_en": "i - d ii - a iii - b iv - c"
+  },
+  {
+    "id": 90,
+    "question": "பொருத்துக.\ni. மொரைன்கள்\na) விரிசல்கள்\nii. பர்கான்கள்\nb) உப்பங்கழிகள்\niii. கடல் குகைகள்\nc) பனியாற்றுப் படிவுகள்\niv. காயல்கள்\nd) மணல் குன்றுகள்",
+    "options": [
+      "i - c ii - d iii - b iv - a",
+      "i - d ii - c iii - a iv - b",
+      "i - c ii - d iii - a iv - b",
+      "i - a ii - b iii - c iv - d"
+    ],
+    "correct": 2,
+    "question_en": "Match the following.\ni. Moraines - a) Cracks\nii. Barchans - b) Backwaters\niii. Sea caves - c) Glacial deposits\niv. Kayals - d) Sand dunes",
+    "options_en": [
+      "i - c ii - d iii - b iv - a",
+      "i - d ii - c iii - a iv - b",
+      "i - c ii - d iii - a iv - b",
+      "i - a ii - b iii - c iv - d"
+    ],
+    "explanation": "i - c ii - d iii - a iv - b",
+    "explanation_en": "i - c ii - d iii - a iv - b"
+  },
+  {
+    "id": 91,
+    "question": "பொருத்துக.\ni. ஒடிசா\na) வேம்பநாடு ஏரி\nii. கேரளா\nb) மியாமி கடற்கரை\niii. அமெரிக்கா\nc) மெரினா கடற்கரை\niv. சென்னை\nd) சிலிகா ஏரி",
+    "options": [
+      "i - d ii - a iii - b iv - c",
+      "i - d ii - a iii - c iv - b",
+      "i - c ii - b iii - d iv - a",
+      "i - b ii - d iii - a iv - c"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\ni. Odisha - a) Vembanad Lake\nii. Kerala - b) Miami Beach\niii. America - c) Marina Beach\niv. Chennai - d) Chilika Lake",
+    "options_en": [
+      "i - d ii - a iii - b iv - c",
+      "i - d ii - a iii - c iv - b",
+      "i - c ii - b iii - d iv - a",
+      "i - b ii - d iii - a iv - c"
+    ],
+    "explanation": "i - d ii - a iii - b iv - c",
+    "explanation_en": "i - d ii - a iii - b iv - c"
+  },
+  {
+    "id": 92,
+    "question": "கூற்று: கடற்கரை மாற்றத்திற்கு உட்பட்டது.\nகாரணம்: அலைகளின் அரிப்பும், படிதலும் கடலோர நிலப்பரப்புகளில் ஏற்படுகின்றன.",
+    "options": [
+      "காரணம் கூற்றை விளக்கவில்லை.",
+      "காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று தவறு, காரணம் சரி.",
+      "கூற்றும், காரணமும் தவறு."
+    ],
+    "correct": 1,
+    "question_en": "Assertion: The coast is subject to change.\nReason: Wave erosion and deposition occur in coastal landscapes.",
+    "options_en": [
+      "Reason does not explain the assertion.",
+      "Reason explains the assertion.",
+      "Assertion is wrong, reason is correct.",
+      "Both assertion and reason are wrong."
+    ],
+    "explanation": "காரணம் கூற்றை விளக்குகிறது.",
+    "explanation_en": "Reason explains the assertion."
+  },
+  {
+    "id": 93,
+    "question": "கூற்று: காற்றினால் மணல் ஒரு பெரும்பரப்பில் படிவது காற்றடி வண்டல் படிவுகள் எனப்படும்.\nகாரணம்: காற்று மணலை நீண்ட தொலைவிற்கு கடத்திச் செல்கிறது.",
+    "options": [
+      "காரணம் கூற்றை விளக்கவில்லை.",
+      "காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று மற்றும் காரணம் சரி.",
+      "கூற்றும், காரணமும் தவறு."
+    ],
+    "correct": 2,
+    "question_en": "Assertion: The deposition of sand over a large area by wind is called loess.\nReason: Wind transports sand over long distances.",
+    "options_en": [
+      "Reason does not explain the assertion.",
+      "Reason explains the assertion.",
+      "Both assertion and reason are correct.",
+      "Both assertion and reason are wrong."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி.",
+    "explanation_en": "Both assertion and reason are correct."
+  },
+  {
+    "id": 94,
+    "question": "கூற்று: கிளையாற்றின் முகத்துவாரங்களில் தோற்றுவிக்கப்படும் படிவுகள் டெல்டாக்கள்.\nகாரணம்: ஆறு, கடலை அடையும் போது கிளை ஆறுகள் பிரிவதில்லை.",
+    "options": [
+      "காரணம் கூற்றை விளக்குகிறது.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்றும், காரணமும் சரி.",
+      "கூற்றும், காரணமும் தவறு."
+    ],
+    "correct": 1,
+    "question_en": "Assertion: Deltas are deposits formed at the mouths of distributaries.\nReason: A river does not divide into distributaries when it reaches the sea.",
+    "options_en": [
+      "Reason explains the assertion.",
+      "Assertion is correct, reason is wrong.",
+      "Both assertion and reason are correct.",
+      "Both assertion and reason are wrong."
+    ],
+    "explanation": "கூற்று சரி, காரணம் தவறு.",
+    "explanation_en": "Assertion is correct, reason is wrong."
+  },
+  {
+    "id": 95,
+    "question": "பின்வருவனவற்றுள் கடல் அலை அரிப்புடன் தொடர்பற்றது",
+    "options": [
+      "கடல் ஓங்கல்",
+      "கடல் வளைவுகள்",
+      "கடல் தூண்",
+      "கடற்கரை"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not related to sea wave erosion?",
+    "options_en": [
+      "Sea cliff",
+      "Sea arches",
+      "Sea stack",
+      "Beach"
+    ],
+    "explanation": "கடற்கரை",
+    "explanation_en": "Beach is not related to sea wave erosion."
+  },
+  {
+    "id": 96,
+    "question": "கூற்று: முகத் துவாரப் பகுதியில் ஆறுகளால் டெல்டாக்கள் உருவாகின்றன.\nகாரணம்: கடல் பகுதியை ஆறு அடையும்போது ஆற்றின் வேகம் குறையும்.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று தவறு, காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Deltas are formed by rivers at their mouths.\nReason: The speed of the river decreases when it reaches the sea.",
+    "options_en": [
+      "Both assertion and reason are correct.",
+      "Assertion is correct, reason is wrong.",
+      "Assertion is wrong, reason is correct.",
+      "Both assertion and reason are wrong."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+    "explanation_en": "Both assertion and reason are correct."
+  },
+  {
+    "id": 97,
+    "question": "கூற்று: கடல் வளைவுகள் இறுதியில் கடல் தூண்களாகின்றன.\nகாரணம்: கடல் தூண்களின் அலைகளின் படிவுகளால் ஏற்படுகின்றன.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று தவறு, காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 1,
+    "question_en": "Assertion: Sea arches eventually become sea stacks.\nReason: Sea stacks are formed by the deposition of waves.",
+    "options_en": [
+      "Both assertion and reason are correct.",
+      "Assertion is correct, reason is wrong.",
+      "Assertion is wrong, reason is correct.",
+      "Both assertion and reason are wrong."
+    ],
+    "explanation": "கூற்று சரி, காரணம் தவறு.",
+    "explanation_en": "Assertion is correct, reason is wrong."
+  },
+  {
+    "id": 98,
+    "question": "பொருத்துக.\ni. கைவிடப்பட்ட மியாண்டர் வளைவுகள்\na) பனியாறுகள்\nii. நகரும் ஒரு பெரும் பனிக்குவியல்\nb) பிறை வடிவ மணற் குன்றுகள்\niii. பிறை வடிவ மணல் மேடுகள்\nc) காயல்\niv. வேம்பநாடு ஏரி\nd) குதிரைக் குளம்பு ஏரி",
+    "options": [
+      "i - d ii - a iii - b iv - c",
+      "i - d ii - a iii - c iv - b",
+      "i - c ii - b iii - d iv - a",
+      "i - b ii - d iii - a iv - c"
+    ],
+    "correct": 0,
+    "question_en": "Match the following.\ni. Abandoned meander loops - a) Glaciers\nii. A large moving mass of ice - b) Crescent-shaped sand dunes\niii. Crescent-shaped sand mounds - c) Kayal (Backwater)\niv. Vembanad Lake - d) Ox-bow lake",
+    "options_en": [
+      "i - d ii - a iii - b iv - c",
+      "i - d ii - a iii - c iv - b",
+      "i - c ii - b iii - d iv - a",
+      "i - b ii - d iii - a iv - c"
+    ],
+    "explanation": "i - d ii - a iii - b iv - c",
+    "explanation_en": "i - d ii - a iii - b iv - c"
+  },
+  {
+    "id": 99,
+    "question": "கடல் அலைகளால் உருவாக்கப்பட்ட நிலத்தோற்றம் (NMMS-2020-21)",
+    "options": [
+      "கடல் ஓங்கல்",
+      "கடற் குகைகள்",
+      "கடல் வளைவுகள்",
+      "மேற்காண் அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Landform created by sea waves (NMMS-2020-21)",
+    "options_en": [
+      "Sea cliff",
+      "Sea caves",
+      "Sea arches",
+      "All of the above"
+    ],
+    "explanation": "மேற்காண் அனைத்தும்",
+    "explanation_en": "All of the above"
+  },
+  {
+    "id": 100,
+    "question": "பொருத்துக (NMMS-2020-21)\na. சர்க்குகள்\ni. கலஹாரி\nb. காற்று அரிப்புத் தனிக் குன்றுகள்\nii. பழவேற்காடு\nc. காற்றடி வண்டல் படிவுகள்\niii. ஜெர்மனி\nd. உப்பங்கழிகள்\niv. சீனா",
+    "options": [
+      "(1) a - ii b - iv c - i d - iii",
+      "(2) a - i b - iii c - ii d - iv",
+      "(3) a - iii b - i c - iv d - ii",
+      "(4) a - iv b - i c - iii d - ii"
+    ],
+    "correct": 2,
+    "question_en": "Match (NMMS-2020-21)\na. Cirques - i. Kalahari\nb. Inselbergs - ii. Pulicat\nc. Loess deposits - iii. Germany\nd. Backwaters - iv. China",
+    "options_en": [
+      "(1) a - ii b - iv c - i d - iii",
+      "(2) a - i b - iii c - ii d - iv",
+      "(3) a - iii b - i c - iv d - ii",
+      "(4) a - iv b - i c - iii d - ii"
+    ],
+    "explanation": "(3) a - iii b - i c - iv d - ii",
+    "explanation_en": "(3) a - iii b - i c - iv d - ii"
+  },
+  {
+    "id": 101,
+    "question": "பீடப் பாறைகள் இப்படியும் அழைக்கப்படுகின்றன. (NMMS-2018)",
+    "options": [
+      "லோயஸ்",
+      "பர்கான்கள்",
+      "காளான் பாறைகள்",
+      "இன்சல்பார்க்குகள்"
+    ],
+    "correct": 2,
+    "question_en": "Pedestal rocks are also known as ________. (NMMS-2018)",
+    "options_en": [
+      "Loess",
+      "Barchans",
+      "Mushroom rocks",
+      "Inselbergs"
+    ],
+    "explanation": "காளான் பாறைகள்",
+    "explanation_en": "Pedestal rocks are also known as Mushroom rocks. (NMMS-2018)"
+  },
+  {
+    "id": 102,
+    "question": "பனியாறுகள் இல்லாத கண்டம் ________ (NMMS-2018)",
+    "options": [
+      "வட அமெரிக்கா",
+      "தென் அமெரிக்கா",
+      "ஆஸ்திரேலியா",
+      "ஆப்பிரிக்கா"
+    ],
+    "correct": 2,
+    "question_en": "The continent without glaciers is ________. (NMMS-2018)",
+    "options_en": [
+      "North America",
+      "South America",
+      "Australia",
+      "Africa"
+    ],
+    "explanation": "பனியாறுகள் இல்லாத கண்டம் ஆஸ்திரேலியா (NMMS-2018)",
+    "explanation_en": "The continent without glaciers is Australia. (NMMS-2018)"
+  }
+]

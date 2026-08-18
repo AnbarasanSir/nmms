@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: CHEMICAL",
+    "options": [
+      "CLICHE",
+      "CLINCHE",
+      "CHEMIST",
+      "MENACE"
+    ],
+    "correct": 0,
+    "explanation": "CHEMICAL என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CLICHE என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: CHEMICAL",
+    "options_en": [
+      "CLICHE",
+      "CLINCHE",
+      "CHEMIST",
+      "MENACE"
+    ],
+    "explanation_en": "The word CLICHE is formed from the letters in the word CHEMICAL."
+  },
+  {
+    "id": 2,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: UNION",
+    "options": [
+      "ONION",
+      "NOUN",
+      "NEON",
+      "NOON"
+    ],
+    "correct": 1,
+    "explanation": "UNION என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து NOUN என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: UNION",
+    "options_en": [
+      "ONION",
+      "NOUN",
+      "NEON",
+      "NOON"
+    ],
+    "explanation_en": "The word NOUN is formed from the letters in the word UNION."
+  },
+  {
+    "id": 3,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: PRINCIPAL",
+    "options": [
+      "LEAP",
+      "PEAR",
+      "PAIR",
+      "PRINCE"
+    ],
+    "correct": 2,
+    "explanation": "PRINCIPAL என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து PAIR என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: PRINCIPAL",
+    "options_en": [
+      "LEAP",
+      "PEAR",
+      "PAIR",
+      "PRINCE"
+    ],
+    "explanation_en": "The word PAIR is formed from the letters in the word PRINCIPAL."
+  },
+  {
+    "id": 4,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: TEASER",
+    "options": [
+      "REAL",
+      "EASY",
+      "ERASER",
+      "EASE"
+    ],
+    "correct": 3,
+    "explanation": "TEASER என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து EASE என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: TEASER",
+    "options_en": [
+      "REAL",
+      "EASY",
+      "ERASER",
+      "EASE"
+    ],
+    "explanation_en": "The word EASE is formed from the letters in the word TEASER."
+  },
+  {
+    "id": 5,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: ACTION",
+    "options": [
+      "ACTOR",
+      "NOTA",
+      "NEAT",
+      "NOTE"
+    ],
+    "correct": 1,
+    "explanation": "ACTION என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து NOTA என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: ACTION",
+    "options_en": [
+      "ACTOR",
+      "NOTE",
+      "NEAT",
+      "NOTE"
+    ],
+    "explanation_en": "The word NOTA is formed from the letters in the word ACTION."
+  },
+  {
+    "id": 6,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: PROJECT",
+    "options": [
+      "CROP",
+      "PEAT",
+      "TEAR",
+      "PEAR"
+    ],
+    "correct": 0,
+    "explanation": "PROJECT என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CROP என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: PROJECT",
+    "options_en": [
+      "CROP",
+      "PEAT",
+      "TEAR",
+      "PEAR"
+    ],
+    "explanation_en": "The word CROP is formed from the letters in the word PROJECT."
+  },
+  {
+    "id": 7,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: TENANT",
+    "options": [
+      "TEEN",
+      "NEAT",
+      "TEAR",
+      "RENT"
+    ],
+    "correct": 1,
+    "explanation": "TENANT என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து NEAT என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: TENANT",
+    "options_en": [
+      "TEEN",
+      "NEAT",
+      "TEAR",
+      "RENT"
+    ],
+    "explanation_en": "The word NEAT is formed from the letters in the word TENANT."
+  },
+  {
+    "id": 8,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: MANAGE",
+    "options": [
+      "AGENT",
+      "MENACE",
+      "MANE",
+      "GENE"
+    ],
+    "correct": 2,
+    "explanation": "MANAGE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து MANE என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: MANAGE",
+    "options_en": [
+      "AGENT",
+      "MENACE",
+      "MANE",
+      "GENE"
+    ],
+    "explanation_en": "The word MANE is formed from the letters in the word MANAGE."
+  },
+  {
+    "id": 9,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: INDIA",
+    "options": [
+      "AIM",
+      "AID",
+      "BID",
+      "INN"
+    ],
+    "correct": 1,
+    "explanation": "INDIA என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து AID என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: INDIA",
+    "options_en": [
+      "AIM",
+      "AIDS",
+      "BID",
+      "INN"
+    ],
+    "explanation_en": "The word AID is formed from the letters in the word INDIA."
+  },
+  {
+    "id": 10,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: WORLD",
+    "options": [
+      "DOG",
+      "LED",
+      "OWL",
+      "ROLE"
+    ],
+    "correct": 2,
+    "explanation": "WORLD என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து OWL என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: WORLD",
+    "options_en": [
+      "DOG",
+      "LED",
+      "OWL",
+      "ROLE"
+    ],
+    "explanation_en": "The word OWL is formed from the letters in the word WORLD."
+  },
+  {
+    "id": 11,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: LOCATION",
+    "options": [
+      "TALC",
+      "TALK",
+      "LOCAL",
+      "TOLL"
+    ],
+    "correct": 0,
+    "explanation": "LOCATION என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து TALC என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: LOCATION",
+    "options_en": [
+      "TALC",
+      "TALK",
+      "LOCAL",
+      "TOLL"
+    ],
+    "explanation_en": "The word TALC is formed from the letters in the word LOCATION."
+  },
+  {
+    "id": 12,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: REPUBLIC",
+    "options": [
+      "RUBY",
+      "CRUEL",
+      "REAP",
+      "REUSE"
+    ],
+    "correct": 1,
+    "explanation": "REPUBLIC என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CRUEL என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: REPUBLIC",
+    "options_en": [
+      "RUBY",
+      "CRUEL",
+      "REAP",
+      "REUSE"
+    ],
+    "explanation_en": "The word CRUEL is formed from the letters in the word REPUBLIC."
+  },
+  {
+    "id": 13,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: LOCATE",
+    "options": [
+      "GATE",
+      "LOCAL",
+      "CLOT",
+      "TALK"
+    ],
+    "correct": 2,
+    "explanation": "LOCATE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CLOT என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: LOCATE",
+    "options_en": [
+      "GATE",
+      "LOCAL",
+      "CLOT",
+      "TALK"
+    ],
+    "explanation_en": "The word CLOT is formed from the letters in the word LOCATE."
+  },
+  {
+    "id": 14,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: PLAYER",
+    "options": [
+      "PARLEY",
+      "LAWYER",
+      "DELAY",
+      "PLEAD"
+    ],
+    "correct": 0,
+    "explanation": "PLAYER என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து PARLEY என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: PLAYER",
+    "options_en": [
+      "PARLEY",
+      "LAWYER",
+      "DELAY",
+      "PLEAD"
+    ],
+    "explanation_en": "The word PARLEY is formed from the letters in the word PLAYER."
+  },
+  {
+    "id": 15,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: VANISH",
+    "options": [
+      "SHINE",
+      "SHE",
+      "AIM",
+      "VAIN"
+    ],
+    "correct": 3,
+    "explanation": "VANISH என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து VAIN என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: VANISH",
+    "options_en": [
+      "SHINE",
+      "SHE",
+      "AIM",
+      "VAIN"
+    ],
+    "explanation_en": "The word VAIN is formed from the letters in the word VANISH."
+  },
+  {
+    "id": 16,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: INITIAL",
+    "options": [
+      "NICE",
+      "LATIN",
+      "TEN",
+      "LEAN"
+    ],
+    "correct": 1,
+    "explanation": "INITIAL என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து LATIN என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: INITIAL",
+    "options_en": [
+      "NICE",
+      "LATIN",
+      "TEN",
+      "LEAN"
+    ],
+    "explanation_en": "The word LATIN is formed from the letters in the word INITIAL."
+  },
+  {
+    "id": 17,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: STICK",
+    "options": [
+      "SICK",
+      "SEAT",
+      "KITE",
+      "KICK"
+    ],
+    "correct": 0,
+    "explanation": "STICK என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து SICK என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: STICK",
+    "options_en": [
+      "SICK",
+      "SEAT",
+      "KITE",
+      "KICK"
+    ],
+    "explanation_en": "The word SICK is formed from the letters in the word STICK."
+  },
+  {
+    "id": 18,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: TEACHER",
+    "options": [
+      "HIRE",
+      "CREEP",
+      "HEATER",
+      "SEAT"
+    ],
+    "correct": 2,
+    "explanation": "TEACHER என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து HEATER என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: TEACHER",
+    "options_en": [
+      "HIRE",
+      "CREEP",
+      "HEATER",
+      "SEAT"
+    ],
+    "explanation_en": "The word HEATER is formed from the letters in the word TEACHER."
+  },
+  {
+    "id": 19,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: LEADER",
+    "options": [
+      "DEALT",
+      "ELDER",
+      "DEEP",
+      "BAD"
+    ],
+    "correct": 1,
+    "explanation": "LEADER என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து ELDER என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: LEADER",
+    "options_en": [
+      "DEALT",
+      "ELDER",
+      "DEEP",
+      "BAD"
+    ],
+    "explanation_en": "The word ELDER is formed from the letters in the word LEADER."
+  },
+  {
+    "id": 20,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: EDUCATION",
+    "options": [
+      "CATION",
+      "CANON",
+      "IRON",
+      "TEEN"
+    ],
+    "correct": 0,
+    "explanation": "EDUCATION என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CATION என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: EDUCATION",
+    "options_en": [
+      "CATION",
+      "CANON",
+      "IRON",
+      "TEEN"
+    ],
+    "explanation_en": "The word CATION is formed from the letters in the word EDUCATION."
+  },
+  {
+    "id": 21,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: BIOLOGY",
+    "options": [
+      "BOYLE",
+      "LOBBY",
+      "FOG",
+      "BOIL"
+    ],
+    "correct": 3,
+    "explanation": "BIOLOGY என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து BOIL என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: BIOLOGY",
+    "options_en": [
+      "BOYLE",
+      "LOBBY",
+      "FOG",
+      "BOIL"
+    ],
+    "explanation_en": "The word BOIL is formed from the letters in the word BIOLOGY."
+  },
+  {
+    "id": 22,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: COMMUNICATE",
+    "options": [
+      "ACTOR",
+      "CAUTION",
+      "MOCK",
+      "MOTION"
+    ],
+    "correct": 1,
+    "explanation": "COMMUNICATE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து CAUTION என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: COMMUNICATE",
+    "options_en": [
+      "ACTOR",
+      "CAUTION",
+      "MOCK",
+      "MOTION"
+    ],
+    "explanation_en": "The word CAUTION is formed from the letters in the word COMMUNICATE."
+  },
+  {
+    "id": 23,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: TECHNOLOGY",
+    "options": [
+      "TEACH",
+      "TOIL",
+      "LENGTHY",
+      "CLOTHES"
+    ],
+    "correct": 2,
+    "explanation": "TECHNOLOGY என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து LENGTHY என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: TECHNOLOGY",
+    "options_en": [
+      "TEACH",
+      "TOIL",
+      "LENGTHY",
+      "CLOTHES"
+    ],
+    "explanation_en": "The word LENGTHY is formed from the letters in the word TECHNOLOGY."
+  },
+  {
+    "id": 24,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: UNDERSTAND",
+    "options": [
+      "UNRATED",
+      "NATURAL",
+      "TAUNT",
+      "DANCE"
+    ],
+    "correct": 0,
+    "explanation": "UNDERSTAND என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து UNRATED என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: UNDERSTAND",
+    "options_en": [
+      "UNRATED",
+      "NATURAL",
+      "TAUNT",
+      "DANCE"
+    ],
+    "explanation_en": "The word UNRATED is formed from the letters in the word UNDERSTAND."
+  },
+  {
+    "id": 25,
+    "question": "கொடுக்கப்பட்ட வார்த்தையில் உள்ள எழுத்துக்களிலிருந்து உருவாக்கப்படக் கூடிய வார்த்தையினைத் தேர்ந்தெடுக்கவும்: KNOWLEDGE",
+    "options": [
+      "LEDGER",
+      "LEGEND",
+      "LEGACY",
+      "LEAD"
+    ],
+    "correct": 1,
+    "explanation": "KNOWLEDGE என்ற வார்த்தையில் உள்ள எழுத்துக்களில் இருந்து LEGEND என்ற வார்த்தை உருவாக்கப்பட்டுள்ளது.",
+    "question_en": "Choose the word that can be formed from the letters in the given word: KNOWLEDGE",
+    "options_en": [
+      "LEDGER",
+      "LEGEND",
+      "LEGACY",
+      "LEAD"
+    ],
+    "explanation_en": "The word LEGEND is formed from the letters in the word KNOWLEDGE."
+  }
+]

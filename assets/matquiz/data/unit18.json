@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "'+' என்பது '÷' ஐயும், '-' என்பது 'x' ஐயும், '÷' என்பது '+' ஐயும், 'x' என்பது '-' ஐயும் குறித்தால் \n 36 x 8 + 4 ÷ 6 + 2 - 3 = ?",
+    "options": [
+      "2",
+      "18",
+      "43",
+      "6 1/2"
+    ],
+    "correct": 2,
+    "explanation": "36 - 8 ÷ 4 + 6 ÷ 2 x 3 = 36 - 2 + 3 x 3 = 36 - 2 + 9 = 45 - 2 = 43",
+    "question_en": "If '+' denotes '÷', '-' denotes 'x', '÷' denotes '+' and 'x' denotes '-' \n 36 x 8 + 4 ÷ 6 + 2 - 3 = ?",
+    "options_en": [
+      "2",
+      "18",
+      "43",
+      "6 1/2"
+    ],
+    "explanation_en": "36 - 8 ÷ 4 + 6 ÷ 2 x 3 = 36 - 2 + 3 x 3 = 36 - 2 + 9 = 45 - 2 = 43"
+  },
+  {
+    "id": 2,
+    "question": "L என்பது 'x' ஐயும், M என்பது '÷' ஐயும், P என்பது '+' ஐயும், Q என்பது '-' ஐயும் குறித்தால் \n 8 P 36 M 6 Q 6 M 2 L 3 ன் மதிப்பு",
+    "options": [
+      "13/6",
+      "-1/6",
+      "14 1/2",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "8 + 36 ÷ 6 - 6 ÷ 2 x 3 = 8 + 6 - 3 x 3 = 8 + 6 - 9 = 14 - 9 = 5",
+    "question_en": "If L denotes 'x', M denotes '÷', P denotes '+' and Q denotes '-' \n Value of 8 P 36 M 6 Q 6 M 2 L 3",
+    "options_en": [
+      "13/6",
+      "-1/6",
+      "14 1/2",
+      "5"
+    ],
+    "explanation_en": "8 + 36 ÷ 6 - 6 ÷ 2 x 3 = 8 + 6 - 3 x 3 = 8 + 6 - 9 = 14 - 9 = 5"
+  },
+  {
+    "id": 3,
+    "question": "P = 6, J = 4, L = 8, M = 24 எனில் \n M x L ÷ P + J = ?",
+    "options": [
+      "8",
+      "36",
+      "16",
+      "18"
+    ],
+    "correct": 1,
+    "explanation": "24 x 8 ÷ 6 + 4 = 4 x 8 + 4 = 32 + 4 = 36",
+    "question_en": "If P = 6, J = 4, L = 8, M = 24 \n M x L ÷ P + J = ?",
+    "options_en": [
+      "8",
+      "36",
+      "16",
+      "18"
+    ],
+    "explanation_en": "24 x 8 ÷ 6 + 4 = 4 x 8 + 4 = 32 + 4 = 36"
+  },
+  {
+    "id": 4,
+    "question": "P என்பது '+' ஐயும், Q என்பது '-' ஐயும், R என்பது 'x' ஐயும், S என்பது '÷' ஐயும் குறித்தால் \n 16 R 12 P 49 S 7 Q 9 ன் மதிப்பு என்ன?",
+    "options": [
+      "100",
+      "190",
+      "110",
+      "182"
+    ],
+    "correct": 1,
+    "explanation": "16 x 12 + 49 ÷ 7 - 9 = 192 + 7 - 9 = 199 - 9 = 190",
+    "question_en": "If P denotes '+', Q denotes '-', R denotes 'x' and S denotes '÷' \n 16 R 12 P 49 S 7 Q What is the value of 9?",
+    "options_en": [
+      "100",
+      "190",
+      "110",
+      "182"
+    ],
+    "explanation_en": "16 x 12 + 49 ÷ 7 - 9 = 192 + 7 - 9 = 199 - 9 = 190"
+  },
+  {
+    "id": 5,
+    "question": "பின்வரும் சமன்பாட்டில் எந்த இரு குறியீடுகளை அல்லது எண்களை இடம் மாற்றினால் அச்சமன்பாடானது சரியாக அமையும்? \n 16 x 20 + 5 ÷ 2 = 90",
+    "options": [
+      "x மற்றும் ÷",
+      "20 மற்றும் 5",
+      "÷ மற்றும் =",
+      "16 மற்றும் 20"
+    ],
+    "correct": 1,
+    "explanation": "20 மற்றும் 5 ஐ இடமாற்றினால்: 16 x 5 + 20 ÷ 2 = 80 + 10 = 90",
+    "question_en": "Interchanging which two symbols or numbers in the following equation will make the equation correct? \n 16 x 20 + 5 ÷ 2 = 90",
+    "options_en": [
+      "x and ÷",
+      "20 and 5",
+      "÷ and =",
+      "16 and 20"
+    ],
+    "explanation_en": "Interchanging 20 and 5: 16 x 5 + 20 ÷ 2 = 80 + 10 = 90"
+  },
+  {
+    "id": 6,
+    "question": "பின்வரும் கணக்கில் எந்த இரு குறியீடுகளை இடம் மாற்றினால் கணக்கின் விடை சரியானதாக அமையும்? \n 5 + 3 x 8 - 12 ÷ 4 = 3",
+    "options": [
+      "- மற்றும் +",
+      "÷ மற்றும் -",
+      "x மற்றும் ÷",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "explanation": "÷ மற்றும் - ஐ இடமாற்றினால்: 5 + 3 x 8 ÷ 12 - 4 = 5 + 24/12 - 4 = 5 + 2 - 4 = 3",
+    "question_en": "Which two symbols in the following calculation can be interchanged to make the answer correct? \n 5 + 3 x 8 - 12 ÷ 4 = 3",
+    "options_en": [
+      "- and +",
+      "÷ and -",
+      "x and ÷",
+      "Nothing"
+    ],
+    "explanation_en": "By interchanging ÷ and - we get: 5 + 3 x 8 ÷ 12 - 4 = 5 + 24/12 - 4 = 5 + 2 - 4 = 3"
+  },
+  {
+    "id": 7,
+    "question": "குறிகளையும் எண்களையும் மாற்றியமைக்கும்பட்சத்தில் கீழே குறிப்பிட்டுள்ளவைகளில் எவை சரியானவை? \n மாற்றியமைக்கப்பட வேண்டிய குறிகள் : - , x \n மாற்றியமைக்கப்படவேண்டிய எண்கள் : 6 மற்றும் 8",
+    "options": [
+      "(8 - 4) ÷ 6 = 3",
+      "(6 x 12) - 8 = 36",
+      "(16 x 6) + 6 = 20",
+      "(25 - 4) ÷ 6 = 40"
+    ],
+    "correct": 0,
+    "explanation": "- ஐ x ஆகவும், x ஐ - ஆகவும், 6 ஐ 8 ஆகவும், 8 ஐ 6 ஆகவும் மாற்றியமைத்தால்: \n முதல் விருப்பம்: (6 x 4) ÷ 8 = 24 ÷ 8 = 3 என்பது சரியானது.",
+    "question_en": "Which of the following are correct if the signs and numbers are interchanged? \n Marks to be modified : - , x \n Numbers to be modified : 6 and 8",
+    "options_en": [
+      "(8 - 4) ÷ 6 = 3",
+      "(6 x 12) - 8 = 36",
+      "(16 x 6) + 6 = 20",
+      "(25 - 4) ÷ 6 = 40"
+    ],
+    "explanation_en": "Changing - to x, x to -, 6 to 8, 8 to 6: \n First option: (6 x 4) ÷ 8 = 24 ÷ 8 = 3 is correct."
+  },
+  {
+    "id": 8,
+    "question": "+ = ÷, ÷ = -, - = x, x = + எனில் \n 8 + 2 ÷ 1 - 6 x 4 ன் தீர்வு ------",
+    "options": [
+      "2",
+      "5",
+      "6",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "8 ÷ 2 - 1 x 6 + 4 = 4 - 6 + 4 = 8 - 6 = 2",
+    "question_en": "If + = ÷, ÷ = -, - = x, x = + \n Solution of 8 + 2 ÷ 1 - 6 x 4 ------",
+    "options_en": [
+      "2",
+      "5",
+      "6",
+      "9"
+    ],
+    "explanation_en": "8 ÷ 2 - 1 x 6 + 4 = 4 - 6 + 4 = 8 - 6 = 2"
+  },
+  {
+    "id": 9,
+    "question": "α என்பது + எனவும், β என்பது - எனவும், γ என்பது ÷ எனவும், δ என்பது x எனவும் கொண்டால் \n 100 δ 20 γ 20 β 15 α 5 என்பதன் மதிப்பு",
+    "options": [
+      "85",
+      "90",
+      "80",
+      "100"
+    ],
+    "correct": 1,
+    "explanation": "100 x 20 ÷ 20 - 15 + 5 = 100 - 15 + 5 = 105 - 15 = 90",
+    "question_en": "If α is +, β is -, γ is ÷ and δ is x \n 100 The value of δ 20 γ 20 β 15 α 5",
+    "options_en": [
+      "85",
+      "90",
+      "80",
+      "100"
+    ],
+    "explanation_en": "100 x 20 ÷ 20 - 15 + 5 = 100 - 15 + 5 = 105 - 15 = 90"
+  },
+  {
+    "id": 10,
+    "question": "+ என்பது கழித்தல், - என்பது பெருக்கல், ÷ என்பது கூட்டல், மற்றும் x என்பது வகுத்தல் எனில் \n 10 x 5 ÷ 3 - 2 + 3 = ?",
+    "options": [
+      "7",
+      "5",
+      "11 2/3",
+      "17 2/3"
+    ],
+    "correct": 1,
+    "explanation": "10 ÷ 5 + 3 x 2 - 3 = 2 + 6 - 3 = 8 - 3 = 5",
+    "question_en": "If + is subtraction, - is multiplication, ÷ is addition, and x is division \n 10 x 5 ÷ 3 - 2 + 3 = ?",
+    "options_en": [
+      "7",
+      "5",
+      "11 2/3",
+      "17 2/3"
+    ],
+    "explanation_en": "10 ÷ 5 + 3 x 2 - 3 = 2 + 6 - 3 = 8 - 3 = 5"
+  },
+  {
+    "id": 11,
+    "question": "+ என்பது - எனவும், - என்பது x எனவும், x என்பது ÷ எனவும், ÷ என்பது + எனவும், ↑ என்பது √ எனவும் கொண்டால் \n ( 100 - 2 + 60 ÷ 4 ) ↑ ன் மதிப்பு என்ன?",
+    "options": [
+      "12",
+      "40",
+      "20",
+      "6"
+    ],
+    "correct": 0,
+    "explanation": "√(100 x 2 - 60 + 4) = √(200 - 60 + 4) = √144 = 12",
+    "question_en": "If + is -, - is x, x is ÷, ÷ is +, ↑ is √ \n What is the value of ( 100 - 2 + 60 ÷ 4 ) ↑ ?",
+    "options_en": [
+      "12",
+      "40",
+      "20",
+      "6"
+    ],
+    "explanation_en": "√(100 x 2 - 60 + 4) = √(200 - 60 + 4) = √144 = 12"
+  },
+  {
+    "id": 12,
+    "question": "+ என்பது - எனவும், - என்பது x எனவும், x என்பது ÷ எனவும், ÷ என்பது + எனவும், ↑ என்பது √ எனவும் கொண்டால் \n ↑ 225 x 15 - 10 = ........",
+    "options": [
+      "215",
+      "10",
+      "11",
+      "20"
+    ],
+    "correct": 1,
+    "explanation": "√225 ÷ 15 x 10 = 15 ÷ 15 x 10 = 1 x 10 = 10",
+    "question_en": "If + is -, - is x, x is ÷, ÷ is +, ↑ is √ \n ↑ 225 x 15 - 10 = ........",
+    "options_en": [
+      "215",
+      "10",
+      "11",
+      "20"
+    ],
+    "explanation_en": "√225 ÷ 15 x 10 = 15 ÷ 15 x 10 = 1 x 10 = 10"
+  },
+  {
+    "id": 13,
+    "question": "+ என்பது - எனவும், - என்பது x எனவும், x என்பது ÷ எனவும், ÷ என்பது + எனவும், ↑ என்பது √ எனவும் கொண்டால் \n 10 + 10 - 10 x 10 ÷ 10 = .........",
+    "options": [
+      "0",
+      "1",
+      "10",
+      "50"
+    ],
+    "correct": 2,
+    "explanation": "10 - 10 x 10 ÷ 10 + 10 = 10 - 10 x 1 + 10 = 10 - 10 + 10 = 10",
+    "question_en": "If + is -, - is x, x is ÷, ÷ is +, ↑ is √ \n 10 + 10 - 10 x 10 ÷ 10 = .........",
+    "options_en": [
+      "0",
+      "1",
+      "10",
+      "50"
+    ],
+    "explanation_en": "10 - 10 x 10 ÷ 10 + 10 = 10 - 10 x 1 + 10 = 10 - 10 + 10 = 10"
+  },
+  {
+    "id": 14,
+    "question": "+ என்பது - எனவும், - என்பது x எனவும், x என்பது ÷ எனவும், ÷ என்பது + எனவும், ↑ என்பது √ எனவும் கொண்டால் \n 30 x 5 + 2 ÷ X = 8 எனில் X ன் மதிப்பு",
+    "options": [
+      "4",
+      "19",
+      "2",
+      "16"
+    ],
+    "correct": 0,
+    "explanation": "30 ÷ 5 - 2 + X = 8  =>  6 - 2 + X = 8  =>  4 + X = 8  =>  X = 4",
+    "question_en": "If + is -, - is x, x is ÷, ÷ is +, ↑ is √ \n 30 x 5 + 2 ÷ X = 8 is the value of X",
+    "options_en": [
+      "4",
+      "19",
+      "2",
+      "16"
+    ],
+    "explanation_en": "30 ÷ 5 - 2 + X = 8 => 6 - 2 + X = 8 => 4 + X = 8 => X = 4"
+  },
+  {
+    "id": 15,
+    "question": "+ என்பது - எனவும், - என்பது x எனவும், x என்பது ÷ எனவும், ÷ என்பது + எனவும், ↑ என்பது √ எனவும் கொண்டால் \n (10 x 2 - 4 ÷ 6 + 1) ↑ = .........",
+    "options": [
+      "4",
+      "11 / 3",
+      "5",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "√(10 ÷ 2 x 4 + 6 - 1) = √(5 x 4 + 6 - 1) = √(20 + 6 - 1) = √25 = 5",
+    "question_en": "If + is -, - is x, x is ÷, ÷ is +, ↑ is √ \n (10 x 2 - 4 ÷ 6 + 1) ↑ = .........",
+    "options_en": [
+      "4",
+      "11 / 3",
+      "5",
+      "1"
+    ],
+    "explanation_en": "√(10 ÷ 2 x 4 + 6 - 1) = √(5 x 4 + 6 - 1) = √(20 + 6 - 1) = √25 = 5"
+  },
+  {
+    "id": 16,
+    "question": "- என்பது கூட்டலாகவும், x என்பது வகுத்தலாகவும், ÷ என்பது பெருக்கலாகவும், = என்பது கழித்தலாகவும் பொருள் கொண்டால் \n 18 x 6 - 5 = 3 என்பதன் மதிப்பு",
+    "options": [
+      "5",
+      "-5",
+      "12",
+      "10"
+    ],
+    "correct": 0,
+    "explanation": "18 ÷ 6 + 5 - 3 = 3 + 5 - 3 = 8 - 3 = 5",
+    "question_en": "If - means addition, x means division, ÷ means multiplication and = means subtraction \n The value of 18 x 6 - 5 = 3",
+    "options_en": [
+      "5",
+      "-5",
+      "12",
+      "10"
+    ],
+    "explanation_en": "18 ÷ 6 + 5 - 3 = 3 + 5 - 3 = 8 - 3 = 5"
+  },
+  {
+    "id": 17,
+    "question": "- என்பது கூட்டலாகவும், x என்பது வகுத்தலாகவும், ÷ என்பது பெருக்கலாகவும், = என்பது கழித்தலாகவும் பொருள் கொண்டால் \n (52 = 12) x 8 ÷ 6 - 5 என்பதன் மதிப்பு",
+    "options": [
+      "40",
+      "36",
+      "35",
+      "42"
+    ],
+    "correct": 2,
+    "explanation": "(52 - 12) ÷ 8 x 6 + 5 = 40 ÷ 8 x 6 + 5 = 5 x 6 + 5 = 30 + 5 = 35",
+    "question_en": "If - means addition, x means division, ÷ means multiplication and = means subtraction \n The value of (52 = 12) x 8 ÷ 6 - 5",
+    "options_en": [
+      "40",
+      "36",
+      "35",
+      "42"
+    ],
+    "explanation_en": "(52 - 12) ÷ 8 x 6 + 5 = 40 ÷ 8 x 6 + 5 = 5 x 6 + 5 = 30 + 5 = 35"
+  },
+  {
+    "id": 18,
+    "question": "- என்பது கூட்டலாகவும், x என்பது வகுத்தலாகவும், ÷ என்பது பெருக்கலாகவும், = என்பது கழித்தலாகவும் பொருள் கொண்டால் \n 16 x ( 10 - 6 ) = 1 - 8 என்பதன் மதிப்பு",
+    "options": [
+      "- 6",
+      "6",
+      "- 8",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "16 ÷ (10 + 6) - 1 + 8 = 16 ÷ 16 - 1 + 8 = 1 - 1 + 8 = 8",
+    "question_en": "If - means addition, x means division, ÷ means multiplication and = means subtraction \n The value of 16 x ( 10 - 6 ) = 1 - 8",
+    "options_en": [
+      "- 6",
+      "6",
+      "- 8",
+      "8"
+    ],
+    "explanation_en": "16 ÷ (10 + 6) - 1 + 8 = 16 ÷ 16 - 1 + 8 = 1 - 1 + 8 = 8"
+  },
+  {
+    "id": 19,
+    "question": "- என்பது கூட்டலாகவும், x என்பது வகுத்தலாகவும், ÷ என்பது பெருக்கலாகவும், = என்பது கழித்தலாகவும் பொருள் கொண்டால் \n கீழ்வருவனவற்றுள் உண்மையான கூற்று எது?",
+    "options": [
+      "18 x 6 என்பது 3",
+      "2 x 10 என்பது 20",
+      "10 - 6 என்பது 4",
+      "16 ÷ 4 என்பது 4"
+    ],
+    "correct": 0,
+    "explanation": "18 x 6 என்பது 18 ÷ 6 = 3 எனப் பொருள்படும். எனவே இதுவே உண்மையான கூற்று.",
+    "question_en": "If - means addition, x means division, ÷ means multiplication and = means subtraction \n Which of the following statements is true?",
+    "options_en": [
+      "18 x 6 is 3",
+      "2 x 10 is 20",
+      "10 - 6 is 4",
+      "16 ÷ 4 is 4"
+    ],
+    "explanation_en": "18 x 6 means 18 ÷ 6 = 3. So this is the true statement."
+  },
+  {
+    "id": 20,
+    "question": "முக்கோணம் - சதுரம் = 4; முக்கோணம் + சதுரம் = 10; முக்கோணம் + சதுரம் + வட்டம் = 15; முக்கோணம் - சதுரம் - சாய்சதுரம் = 3; சதுரம் + வட்டம் + ஐங்கோணம் - முக்கோணம் = 7 என்ற தொடர்புகளில் இருந்து, \n வட்டம், ஐங்கோணம், சதுரம், முக்கோணம், சாய்சதுரம் என்பது",
+    "options": [
+      "5 3 6 7 1",
+      "6 5 3 1 7",
+      "5 7 6 3 1",
+      "5 6 3 7 1"
+    ],
+    "correct": 3,
+    "explanation": "முக்கோணம் = 7; சதுரம் = 3; வட்டம் = 5; சாய்சதுரம் = 1; ஐங்கோணம் = 6. எனவே 5 6 3 7 1.",
+    "question_en": "triangle - square = 4; triangle + square = 10; Triangle + Square + Circle = 15; Triangle - Square - Diagonal = 3; From the relation square + circle + pentagon - triangle = 7, \n Circle, pentagon, square, triangle, diagonal",
+    "options_en": [
+      "5 3 6 7 1",
+      "6 5 3 1 7",
+      "5 7 6 3 1",
+      "5 6 3 7 1"
+    ],
+    "explanation_en": "triangle = 7; square = 3; circle = 5; slope = 1; Pentagon = 6. So 5 6 3 7 1."
+  },
+  {
+    "id": 21,
+    "question": "முக்கோணம் = 7, சதுரம் = 3, வட்டம் = 5, சாய்சதுரம் = 1, ஐங்கோணம் = 6 எனில் \n 3 5 6 1 7 என்பதற்கு சமமானது",
+    "options": [
+      "சதுரம், ஐங்கோணம், வட்டம், சாய்சதுரம், முக்கோணம்",
+      "சதுரம், வட்டம், ஐங்கோணம், சாய்சதுரம், முக்கோணம்",
+      "வட்டம், ஐங்கோணம், சாய்சதுரம், சதுரம், முக்கோணம்",
+      "முக்கோணம், ஐங்கோணம், வட்டம், சாய்சதுரம், சதுரம்"
+    ],
+    "correct": 1,
+    "explanation": "3 = சதுரம், 5 = வட்டம், 6 = ஐங்கோணம், 1 = சாய்சதுரம், 7 = முக்கோணம்.",
+    "question_en": "If triangle = 7, square = 3, circle = 5, diagonal = 1, pentagon = 6 \n 3 is equivalent to 5 6 1 7",
+    "options_en": [
+      "Square, pentagon, circle, diagonal, triangle",
+      "Square, circle, pentagon, diagonal, triangle",
+      "Circle, pentagon, diagonal, square, triangle",
+      "Triangle, pentagon, circle, diagonal, square"
+    ],
+    "explanation_en": "3 = Square, 5 = Circle, 6 = Pentagon, 1 = Oblique, 7 = Triangle."
+  },
+  {
+    "id": 22,
+    "question": "முக்கோணம் = 7, சதுரம் = 3, வட்டம் = 5, சாய்சதுரம் = 1, ஐங்கோணம் = 6 எனில் \n 4 3 5 1 0 7 + 3 3 1 4 0 6 என்ற கூட்டலின் மதிப்பு",
+    "options": [
+      "முக்கோணம், ஐங்கோணம், வட்டம், ஐங்கோணம், சாய்சதுரம், சதுரம்",
+      "முக்கோணம், ஐங்கோணம், சாய்சதுரம், ஐங்கோணம், சதுரம், வட்டம்",
+      "முக்கோணம், ஐங்கோணம், ஐங்கோணம், வட்டம், சாய்சதுரம், சதுரம்",
+      "முக்கோணம், ஐங்கோணம், சதுரம், வட்டம், சாய்சதுரம், ஐங்கோணம்"
+    ],
+    "correct": 2,
+    "explanation": "435107 + 331406 = 766513. 7 = முக்கோணம், 6 = ஐங்கோணம், 6 = ஐங்கோணம், 5 = வட்டம், 1 = சாய்சதுரம், 3 = சதுரம்.",
+    "question_en": "If triangle = 7, square = 3, circle = 5, diagonal = 1, pentagon = 6 \n The value of the addition of 4 3 5 1 0 7 + 3 3 1 4 0 6",
+    "options_en": [
+      "Triangle, pentagon, circle, pentagon, diagonal, square",
+      "Triangle, pentagon, diagonal, pentagon, square, circle",
+      "Triangle, pentagon, pentagon, circle, diagonal, square",
+      "Triangle, pentagon, square, circle, diagonal, pentagon"
+    ],
+    "explanation_en": "435107 + 331406 = 766513. 7 = triangle, 6 = pentagon, 6 = pentagon, 5 = circle, 1 = diagonal, 3 = square."
+  },
+  {
+    "id": 23,
+    "question": "* குறியிட்ட இடங்களில் கொடுக்கப்பட்ட வினாக்களில் +, x, =, -, ÷ போன்ற குறிகளை தகுந்த வரிசையில் இடுவதன் மூலம் சரியான சமன்பாட்டை அமைக்க வேண்டும். அதனை கொடுக்கப்பட்ட 4 மாற்று விடைகளில் இருந்து கண்டுபிடி. \n 40 * 30 * 50 * 20",
+    "options": [
+      "+ , = , -",
+      "- , = , +",
+      "= , + , -",
+      "+ , - , ="
+    ],
+    "correct": 3,
+    "explanation": "40 + 30 - 50 = 20 என்பது சரியான சமன்பாடு.",
+    "question_en": "In the given questions in the places marked *, the correct equation should be set up by placing the signs like +, x, =, -, ÷ in the appropriate order. Find it from the given 4 alternative answers. \n 40 * 30 * 50 * 20",
+    "options_en": [
+      "+ , = , -",
+      "- , = , +",
+      "= , + , -",
+      "+ , - , ="
+    ],
+    "explanation_en": "40 + 30 - 50 = 20 is the correct equation."
+  },
+  {
+    "id": 24,
+    "question": "+, -, x, ÷ என்பதை முறையே -, +, ÷, x என்று குறி மாற்றி எழுதினால் \n (p+q) + (p+r) - (p x q) ÷ (p + q + r) என்பதை எழுதும் முறை",
+    "options": [
+      "(p-q) - (p-r) + (p ÷ q) x (p - q - r)",
+      "(p+q) - (p-r) + (p x q) ÷ (p - q - r)",
+      "(p+q) - (p+r) + (p ÷ q) ÷ (p - q - r)",
+      "(p-q) + (p+r) - (p x q) ÷ (p + q + r)"
+    ],
+    "correct": 0,
+    "explanation": "+ ஐ - ஆகவும், - ஐ + ஆகவும், x ஐ ÷ ஆகவும், ÷ ஐ x ஆகவும் மாற்றினால் (p-q) - (p-r) + (p ÷ q) x (p - q - r) என கிடைக்கும்.",
+    "question_en": "If +, -, x, ÷ are rewritten as -, +, ÷, x respectively \n (p+q) + (p+r) - (p x q) ÷ (p + q + r)",
+    "options_en": [
+      "(p-q) - (p-r) + (p ÷ q) x (p - q - r)",
+      "(p+q) - (p-r) + (p x q) ÷ (p - q - r)",
+      "(p+q) - (p+r) + (p ÷ q) ÷ (p - q - r)",
+      "(p-q) + (p+r) - (p x q) ÷ (p + q + r)"
+    ],
+    "explanation_en": "Changing + to -, - to +, x to ÷, and ÷ to x gives (p-q) - (p-r) + (p ÷ q) x (p - q - r)."
+  },
+  {
+    "id": 25,
+    "question": "வெவ்வேறு குறியீடுகள் கீழ்க்கண்டவாறு வரையறுக்கப்பட்டுள்ளன. A $ B என்பது A - B; A # B என்பது A + B; A * B என்பது A ÷ B; A @ B என்பது A x B எனில், \n (4 * 3), 4 $ - 3, 4 @ - 3, -2 # - 4 இல் சிறியது எது?",
+    "options": [
+      "4 * 3",
+      "4 $ - 3",
+      "4 @ - 3",
+      "-2 # - 4"
+    ],
+    "correct": 2,
+    "explanation": "4 * 3 = 1.33; 4 $ -3 = 4 - (-3) = 7; 4 @ -3 = 4 x -3 = -12; -2 # -4 = -2 + (-4) = -6. இதில் சிறியது -12 அதாவது 4 @ - 3.",
+    "question_en": "The different codes are defined as follows. A $ B is A - B; A # B is A + B; A * B is A ÷ B; If A @ B is A x B, then \n Which is smaller among (4 * 3), 4 $ - 3, 4 @ - 3, -2 # - 4?",
+    "options_en": [
+      "4 * 3",
+      "4 $ - 3",
+      "4 @ - 3",
+      "-2 # - 4"
+    ],
+    "explanation_en": "4 * 3 = 1.33; 4 $ -3 = 4 - (-3) = 7; 4 @ -3 = 4 x -3 = -12; -2 # -4 = -2 + (-4) = -6. The smaller of which is -12 i.e. 4 @ - 3."
+  }
+]

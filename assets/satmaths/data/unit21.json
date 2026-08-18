@@ -1,0 +1,769 @@
+[
+    {
+        "id": 1,
+        "question": "கீழே கொடுக்கப்பட்டுள்ள அட்டவணையினை உற்றுநோக்கி, $x=8$ எனில் y இன் மதிப்பைக் காண்க.\n\n| x | -2 | -1 | 0 | 1 | 2 | 8 |\n|---|---|---|---|---|---|---|\n| y | -4 | -2 | 0 | 2 | 4 | ? |",
+        "options": [
+            "10",
+            "4",
+            "2",
+            "16"
+        ],
+        "correct": 3,
+        "explanation": "அட்டவணையில் இருந்து $y = 2x$ என்பதை அறியலாம். எனவே $x = 8$ எனில், $y = 2(8) = 16$.",
+        "question_en": "Observe the given table and find the value of y if $x=8$.\n\n| x | -2 | -1 | 0 | 1 | 2 | 8 |\n|---|---|---|---|---|---|---|\n| y | -4 | -2 | 0 | 2 | 4 | ? |",
+        "options_en": [
+            "10",
+            "4",
+            "2",
+            "16"
+        ],
+        "explanation_en": "From the table, we can deduce that $y = 2x$. Therefore, if $x = 8$, $y = 2(8) = 16$."
+    },
+    {
+        "id": 2,
+        "question": "பாஸ்கல் முக்கோணத்தை உருவாக்கியவர்",
+        "options": [
+            "ஆரியபட்டர்",
+            "இராமானுஜம்",
+            "ப்லேஸ் பாஸ்கல்",
+            "யூக்ளிட்"
+        ],
+        "correct": 2,
+        "explanation": "பாஸ்கல் முக்கோணம் என்பது பிரெஞ்சு கணிதவியலாளரும் தத்துவஞானியுமான ப்லேஸ் பாஸ்கலினால் உருவாக்கப்பட்டது.",
+        "question_en": "The creator of Pascal's triangle is",
+        "options_en": [
+            "Aryabhata",
+            "Ramanujan",
+            "Blaise Pascal",
+            "Euclid"
+        ],
+        "explanation_en": "Pascal's triangle was created by the French mathematician and philosopher Blaise Pascal."
+    },
+    {
+        "id": 3,
+        "question": "தொடர்வரிசை 4, 16, 36, 64,... இன் பொது அமைப்பு",
+        "options": [
+            "$y=4n$",
+            "$y=4n^{2}$",
+            "$4n-1$",
+            "$4n^{2}+1$"
+        ],
+        "correct": 1,
+        "explanation": "$n=1$ எனில் $y=4(1)^2=4$; $n=2$ எனில் $y=4(2)^2=16$; $n=3$ எனில் $y=4(3)^2=36$. எனவே பொது அமைப்பு $y=4n^{2}$.",
+        "question_en": "The general form of the sequence 4, 16, 36, 64,... is",
+        "options_en": [
+            "$y=4n$",
+            "$y=4n^{2}$",
+            "$4n-1$",
+            "$4n^{2}+1$"
+        ],
+        "explanation_en": "If $n=1$, $y=4(1)^2=4$; if $n=2$, $y=4(2)^2=16$; if $n=3$, $y=4(3)^2=36$. Thus, the general form is $y=4n^{2}$."
+    },
+    {
+        "id": 4,
+        "question": "தொடர்வரிசை 5, 9, 13, 17,... இன் பொது அமைப்பு",
+        "options": [
+            "$y=4n-1$",
+            "$y=4n+1$",
+            "$4n^{2}$",
+            "5n"
+        ],
+        "correct": 1,
+        "explanation": "$n=1$ எனில் $4(1)+1=5$; $n=2$ எனில் $4(2)+1=9$. எனவே பொது அமைப்பு $y=4n+1$.",
+        "question_en": "The general form of the sequence 5, 9, 13, 17,... is",
+        "options_en": [
+            "$y=4n-1$",
+            "$y=4n+1$",
+            "$4n^{2}$",
+            "5n"
+        ],
+        "explanation_en": "If $n=1$, $4(1)+1=5$; if $n=2$, $4(2)+1=9$. Thus, the general form is $y=4n+1$."
+    },
+    {
+        "id": 5,
+        "question": "தொடர்வரிசை 3, 4, 5, 6,... இன் பொது அமைப்பு",
+        "options": [
+            "$y=n+2$",
+            "$y=3n$",
+            "$y=3n-1$",
+            "$y=3n^{2}$"
+        ],
+        "correct": 0,
+        "explanation": "$n=1$ எனில் $y=1+2=3$; $n=2$ எனில் $y=2+2=4$. எனவே பொது அமைப்பு $y=n+2$. (குறிப்பு: தெரிவுகளில் $y=x+2$ எனக் கொடுக்கப்பட்டுள்ளது, $x$ ஐ $n$ ஆகக் கருதலாம்).",
+        "question_en": "The general form of the sequence 3, 4, 5, 6,... is",
+        "options_en": [
+            "$y=n+2$",
+            "$y=3n$",
+            "$y=3n-1$",
+            "$y=3n^{2}$"
+        ],
+        "explanation_en": "If $n=1$, $y=1+2=3$; if $n=2$, $y=2+2=4$. Thus, the general form is $y=n+2$. (Note: Given as $y=x+2$ in options, treating $x$ as $n$)."
+    },
+    {
+        "id": 6,
+        "question": "தொடர்வரிசை 1, 4, 9, 16,... இன் பொது அமைப்பு",
+        "options": [
+            "$y=n^{2}-1$",
+            "$y=n^{2}$",
+            "$y=n+1$",
+            "$y=4n$"
+        ],
+        "correct": 1,
+        "explanation": "கொடுக்கப்பட்ட எண்கள் இயல் எண்களின் வர்க்கங்கள் ($1^2, 2^2, 3^2, 4^2...$). எனவே பொது அமைப்பு $y=n^2$.",
+        "question_en": "The general form of the sequence 1, 4, 9, 16,... is",
+        "options_en": [
+            "$y=n^{2}-1$",
+            "$y=n^{2}$",
+            "$y=n+1$",
+            "$y=4n$"
+        ],
+        "explanation_en": "The given numbers are squares of natural numbers ($1^2, 2^2, 3^2, 4^2...$). Thus, the general form is $y=n^2$."
+    },
+    {
+        "id": 7,
+        "question": "தொடர்வரிசை 2, 4, 6, 8,... இன் பொது அமைப்பு",
+        "options": [
+            "$y=n^{2}$",
+            "$y=n^{2}+1$",
+            "$y=2n$",
+            "$y=4n$"
+        ],
+        "correct": 2,
+        "explanation": "இது இரட்டைப்படை எண்களின் தொடர்வரிசை. எனவே இதன் பொது அமைப்பு $y=2n$.",
+        "question_en": "The general form of the sequence 2, 4, 6, 8,... is",
+        "options_en": [
+            "$y=n^{2}$",
+            "$y=n^{2}+1$",
+            "$y=2n$",
+            "$y=4n$"
+        ],
+        "explanation_en": "This is a sequence of even numbers. Therefore, its general form is $y=2n$."
+    },
+    {
+        "id": 8,
+        "question": "கொடுக்கப்பட்டுள்ள அட்டவணையின் மூலம் x மற்றும் y இன் மதிப்புகளுக்கிடையேயான சரியான தொடர்பைக் காண்க.\n\n| x | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| y | 4 | 8 | 12 | 16 |",
+        "options": [
+            "$y=4x$",
+            "$y=x+4$",
+            "$y=4$",
+            "$y=4\\times4$"
+        ],
+        "correct": 0,
+        "explanation": "ஒவ்வொரு x மதிப்பையும் 4 ஆல் பெருக்கினால் y கிடைக்கிறது. எனவே $y = 4x$.",
+        "question_en": "Find the correct relationship between the values of x and y from the given table.\n\n| x | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| y | 4 | 8 | 12 | 16 |",
+        "options_en": [
+            "$y=4x$",
+            "$y=x+4$",
+            "$y=4$",
+            "$y=4\\times4$"
+        ],
+        "explanation_en": "Multiplying each x value by 4 gives y. Therefore, $y = 4x$."
+    },
+    {
+        "id": 9,
+        "question": "பின்வரும் அட்டவணையிலிருந்து x மற்றும் y ஆகியவற்றிற்கிடையே உள்ள சரியான தொடர்பை அடையாளம் காண்க.\n\n| x | -2 | -1 | 0 | 1 | 2 |\n|---|---|---|---|---|---|\n| y | 6 | 3 | 0 | -3 | -6 |",
+        "options": [
+            "$y=-2x$",
+            "$y=+2x$",
+            "$y=3x$",
+            "$y=-3x$"
+        ],
+        "correct": 3,
+        "explanation": "ஒவ்வொரு x மதிப்பையும் -3 ஆல் பெருக்கினால் y கிடைக்கிறது (எ.கா. $-2 \\times -3 = 6$). எனவே $y = -3x$.",
+        "question_en": "Identify the correct relationship between x and y from the following table.\n\n| x | -2 | -1 | 0 | 1 | 2 |\n|---|---|---|---|---|---|\n| y | 6 | 3 | 0 | -3 | -6 |",
+        "options_en": [
+            "$y=-2x$",
+            "$y=+2x$",
+            "$y=3x$",
+            "$y=-3x$"
+        ],
+        "explanation_en": "Multiplying each x value by -3 gives y (e.g., $-2 \\times -3 = 6$). Therefore, $y = -3x$."
+    },
+    {
+        "id": 10,
+        "question": "பாஸ்கல் முக்கோணத்தில் 3 ஆவது சாய்வு வரிசையில் x என்பது எண் அமைந்துள்ள இடத்தையும், y என்பது அந்த எண்களையும் குறிக்கிறது எனில், x மற்றும் y இன் மதிப்புகளுக்கிடையேயான சரியான தொடர்பைக் காண்க.\n\n| x | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| y | 1 | 3 | 6 | 10 | 15 |",
+        "options": [
+            "$y=2x-1$",
+            "$y=\\frac{x(x+1)}{2}$",
+            "$y=\\frac{x^{2}}{2}$",
+            "$y=x^{2}+1$"
+        ],
+        "correct": 1,
+        "explanation": "3வது சாய்வு வரிசை எண்கள் முக்கோண எண்களாகும். முக்கோண எண்களின் பொது வடிவம் $y = \\frac{x(x+1)}{2}$.",
+        "question_en": "In Pascal's triangle, if x represents the position of a number in the 3rd diagonal row and y represents the number itself, find the correct relationship between the values of x and y.\n\n| x | 1 | 2 | 3 | 4 | 5 |\n|---|---|---|---|---|---|\n| y | 1 | 3 | 6 | 10 | 15 |",
+        "options_en": [
+            "$y=2x-1$",
+            "$y=\\frac{x(x+1)}{2}$",
+            "$y=\\frac{x^{2}}{2}$",
+            "$y=x^{2}+1$"
+        ],
+        "explanation_en": "The numbers in the 3rd diagonal are triangular numbers. The general formula for triangular numbers is $y = \\frac{x(x+1)}{2}$."
+    },
+    {
+        "id": 11,
+        "question": "கொடுக்கப்பட்டுள்ள அட்டவணையில் x என்பது பாஸ்கல் முக்கோணத்தின் வரிசைகளின் எண்ணிக்கையாகவும், y என்பது வரிசையில் உள்ள எண்களின் கூட்டுத்தொகையாகவும் உள்ளது. இதில் x மற்றும் y இன் மதிப்புகளுக்கிடையேயான தொடர்பைக் காண்க.\n\n| x | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|---|---|---|---|---|---|---|---|---|\n| y | 1 | 2 | 4 | 8 | 16 | 32 | 64 | 128 |",
+        "options": [
+            "$y=2^{x-1}$",
+            "$y=2x-1$",
+            "$y=2x+1$",
+            "$y=2x^{2}$"
+        ],
+        "correct": 0,
+        "explanation": "பாஸ்கல் முக்கோணத்தின் ஒவ்வொரு வரிசையிலும் உள்ள எண்களின் கூடுதல் 2 இன் அடுக்குகளாக அமையும். $x=1$ எனில் $2^{1-1} = 2^0 = 1$. $x=2$ எனில் $2^{2-1} = 2^1 = 2$. எனவே $y = 2^{x-1}$.",
+        "question_en": "In the given table, x represents the row number in Pascal's triangle, and y represents the sum of the numbers in that row. Find the relationship between x and y.\n\n| x | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|---|---|---|---|---|---|---|---|---|\n| y | 1 | 2 | 4 | 8 | 16 | 32 | 64 | 128 |",
+        "options_en": [
+            "$y=2^{x-1}$",
+            "$y=2x-1$",
+            "$y=2x+1$",
+            "$y=2x^{2}$"
+        ],
+        "explanation_en": "The sum of the numbers in each row of Pascal's triangle is a power of 2. If $x=1$, $2^{1-1} = 2^0 = 1$. If $x=2$, $2^{2-1} = 2^1 = 2$. Thus, $y = 2^{x-1}$."
+    },
+    {
+        "id": 12,
+        "question": "பாஸ்கல் முக்கோணத்தில் 3 வது சாய்வு வரிசையில் அடுத்தடுத்து வரும் எண்களுக்கிடையேயான வித்தியாசத்தைக் கண்டறிந்து விடுபட்டதை நிரப்புக.\n2, __, __",
+        "options": [
+            "3, 4",
+            "3, 5",
+            "2, 4",
+            "6, 10"
+        ],
+        "correct": 1,
+        "explanation": "விடைக்குறிப்பின்படி 3, 5 என்பது சரியான விடையாகும்.",
+        "question_en": "Find the difference between consecutive numbers in the 3rd diagonal row of Pascal's triangle and fill in the blanks.\n2, __, __",
+        "options_en": [
+            "3, 4",
+            "3, 5",
+            "2, 4",
+            "6, 10"
+        ],
+        "explanation_en": "According to the answer key, 3, 5 is the correct answer."
+    },
+    {
+        "id": 13,
+        "question": "பாஸ்கல் முக்கோணத்தில் 4 வது சாய்வு வரிசையில் அடுத்தடுத்து வரும் எண்களுக்கிடையேயான வித்தியாசத்தைக் கண்டறிந்து விடுபட்டதை நிரப்புக.\n3, __, __",
+        "options": [
+            "4, 12",
+            "5, 15",
+            "6, 12",
+            "6, 10"
+        ],
+        "correct": 3,
+        "explanation": "4 வது சாய்வு வரிசை எண்கள்: 1, 4, 10, 20... அவற்றின் வித்தியாசங்கள்: 3, 6, 10... எனவே விடுபட்டவை 6, 10.",
+        "question_en": "Find the difference between consecutive numbers in the 4th diagonal row of Pascal's triangle and fill in the blanks.\n3, __, __",
+        "options_en": [
+            "4, 12",
+            "5, 15",
+            "6, 12",
+            "6, 10"
+        ],
+        "explanation_en": "The numbers in the 4th diagonal are 1, 4, 10, 20... Their differences are 3, 6, 10... Thus, the missing numbers are 6, 10."
+    },
+    {
+        "id": 14,
+        "question": "பாஸ்கல் முக்கோணத்தின் 3 வது சாய்வு வரிசையை உற்றுநோக்கி விடுபட்டதை நிரப்புக.\n1, 3, __, 10, __, 21",
+        "options": [
+            "6, 15",
+            "3, 7",
+            "5, 15",
+            "4, 16"
+        ],
+        "correct": 0,
+        "explanation": "3-வது சாய்வு வரிசை எண்கள் (முக்கோண எண்கள்): 1, 3, 6, 10, 15, 21. எனவே விடுபட்ட எண்கள் 6, 15.",
+        "question_en": "Observe the 3rd diagonal row of Pascal's triangle and fill in the blanks.\n1, 3, __, 10, __, 21",
+        "options_en": [
+            "6, 15",
+            "3, 7",
+            "5, 15",
+            "4, 16"
+        ],
+        "explanation_en": "The numbers in the 3rd diagonal are triangular numbers: 1, 3, 6, 10, 15, 21. So the missing numbers are 6, 15."
+    },
+    {
+        "id": 15,
+        "question": "கொடுக்கப்பட்டுள்ள அட்டவணையின் மூலம் x மற்றும் y இன் மதிப்புகளுக்கு இடையேயான சரியான தொடர்பைக் கண்டுபிடி.\n\n| x | -2 | -1 | 0 | 1 | 2 |\n|---|---|---|---|---|---|\n| y | 4 | 5 | 6 | 7 | 8 |",
+        "options": [
+            "$y=x+4$",
+            "$y=x+5$",
+            "$y=x+6$",
+            "$y=x+7$"
+        ],
+        "correct": 2,
+        "explanation": "ஒவ்வொரு x மதிப்புடனும் 6 ஐக் கூட்டினால் y கிடைக்கிறது. எ.கா: $-2 + 6 = 4$, $0 + 6 = 6$. எனவே $y = x+6$.",
+        "question_en": "Find the correct relationship between the values of x and y from the given table.\n\n| x | -2 | -1 | 0 | 1 | 2 |\n|---|---|---|---|---|---|\n| y | 4 | 5 | 6 | 7 | 8 |",
+        "options_en": [
+            "$y=x+4$",
+            "$y=x+5$",
+            "$y=x+6$",
+            "$y=x+7$"
+        ],
+        "explanation_en": "Adding 6 to each x value gives y. E.g., $-2 + 6 = 4$, $0 + 6 = 6$. Thus, $y = x+6$."
+    },
+    {
+        "id": 16,
+        "question": "கீழே கொடுக்கப்பட்டுள்ள படத்தில் n என்பது படிகளின் எண்ணிக்கையையும், f(n) என்பது சம அளவிலான முக்கோணங்களின் எண்ணிக்கையையும் குறிக்கிறது எனில் n மற்றும் f(n) க்கு இடையிலான தொடர்பு ________ ஆகும்.",
+        "options": [
+            "$n^{2}$",
+            "$\\frac{n(n+1)}{2}$",
+            "$n+1$",
+            "2n"
+        ],
+        "correct": 1,
+        "explanation": "முதல் படியில் 1 முக்கோணம், 2வது படியில் 3, 3வது படியில் 6. இது முக்கோண எண்களின் தொடர். இதற்கான சூத்திரம் $\\frac{n(n+1)}{2}$ ஆகும்.",
+        "question_en": "In the given figure below, if n represents the number of steps and f(n) represents the number of equal-sized triangles, the relationship between n and f(n) is ________.",
+        "options_en": [
+            "$n^{2}$",
+            "$\\frac{n(n+1)}{2}$",
+            "$n+1$",
+            "2n"
+        ],
+        "explanation_en": "1 triangle in step 1, 3 in step 2, 6 in step 3. This is the sequence of triangular numbers, given by the formula $\\frac{n(n+1)}{2}$.",
+        "image": "image/unit21/q16.PNG"
+    },
+    {
+        "id": 17,
+        "question": "கீழே கொடுக்கப்பட்டுள்ள படத்தில் x என்பது படிகளின் எண்ணிக்கையையும் y என்பது பயன்படுத்தப்பட்ட தீக்குச்சிகளின் எண்ணிக்கையையும் குறிக்கிறது எனில் x, y க்கு இடையேயான தொடர்பு",
+        "options": [
+            "$y=2x+1$",
+            "$y=2x-1$",
+            "$y=3x-1$",
+            "$y=3x+1$"
+        ],
+        "correct": 3,
+        "explanation": "ஒரு சதுரத்தை உருவாக்க 4 தீக்குச்சிகள் தேவை, அடுத்தடுத்த சதுரங்களை இணைக்க தலா 3 குச்சிகள் தேவைப்படும். $x=1 \\implies 4$, $x=2 \\implies 7$, $x=3 \\implies 10$. எனவே $y = 3x+1$.",
+        "question_en": "In the figure given below, if x represents the number of steps and y represents the number of matchsticks used, the relationship between x and y is",
+        "options_en": [
+            "$y=2x+1$",
+            "$y=2x-1$",
+            "$y=3x-1$",
+            "$y=3x+1$"
+        ],
+        "explanation_en": "Forming 1 square needs 4 sticks, and each additional attached square needs 3 sticks. $x=1 \\implies 4$, $x=2 \\implies 7$, $x=3 \\implies 10$. Thus, $y = 3x+1$.",
+        "image": "image/unit21/q17.PNG"
+    },
+    {
+        "id": 18,
+        "question": "கீழே கொடுக்கப்பட்டுள்ள படத்தில் x என்பது படிகளின் எண்ணிக்கையையும் y என்பது பயன்படுத்தப்பட்ட தீக்குச்சிகளின் எண்ணிக்கையையும் குறிக்கிறது எனில் x, y க்கு இடையேயான தொடர்பு",
+        "options": [
+            "$y=2x-3$",
+            "$y=2x+3$",
+            "$y=3x+2$",
+            "$y=3x-2$"
+        ],
+        "correct": 2,
+        "explanation": "முதல் வடிவத்திற்கு 5 குச்சிகள் தேவை. அடுத்தடுத்த வடிவங்களுக்குத் தலா 3 குச்சிகள் கூடுதலாகத் தேவை. $x=1 \\implies 5$, $x=2 \\implies 8$, $x=3 \\implies 11$. எனவே $y = 3x+2$.",
+        "question_en": "In the figure given below, if x represents the number of steps and y represents the number of matchsticks used, the relationship between x and y is",
+        "options_en": [
+            "$y=2x-3$",
+            "$y=2x+3$",
+            "$y=3x+2$",
+            "$y=3x-2$"
+        ],
+        "explanation_en": "The first shape uses 5 sticks. Each subsequent shape needs 3 additional sticks. $x=1 \\implies 5$, $x=2 \\implies 8$, $x=3 \\implies 11$. Thus, $y = 3x+2$.",
+        "image": "image/unit21/q18.PNG"
+    },
+    {
+        "id": 19,
+        "question": "கொடுக்கப்பட்ட தீக்குச்சிகளாலான அமைப்பின் எண் தொடரைக் கண்டுபிடி",
+        "options": [
+            "1, 2, 3, 4, 5, ...",
+            "3, 4, 5, 6, ...",
+            "3, 5, 7, 9, 11, ...",
+            "1, 3, 5, 7, 9, ..."
+        ],
+        "correct": 2,
+        "explanation": "ஒரு முக்கோணத்தில் 3 குச்சிகள் உள்ளன. அடுத்து வரும் ஒவ்வொரு முக்கோணத்திற்கும் 2 குச்சிகள் கூடுதலாகத் தேவை. எனவே தொடர் 3, 5, 7, 9... என அமையும்.",
+        "question_en": "Find the number sequence for the given matchstick pattern",
+        "options_en": [
+            "1, 2, 3, 4, 5, ...",
+            "3, 4, 5, 6, ...",
+            "3, 5, 7, 9, 11, ...",
+            "1, 3, 5, 7, 9, ..."
+        ],
+        "explanation_en": "The first triangle has 3 matchsticks. Each subsequent triangle adds 2 matchsticks. Thus, the sequence is 3, 5, 7, 9...",
+        "image": "image/unit21/q19.PNG"
+    },
+    {
+        "id": 20,
+        "question": "1, 3, 5, 7, ... என்ற தொடரின் பொதுவடிவம்",
+        "options": [
+            "$2n-1$",
+            "$n+1$",
+            "$n+3$",
+            "2n"
+        ],
+        "correct": 0,
+        "explanation": "கொடுக்கப்பட்ட தொடர் ஒற்றைப்படை எண்களின் தொடர். இதன் பொதுவடிவம் $2n-1$ ஆகும் ($n=1, 2, 3...$).",
+        "question_en": "The general form of the sequence 1, 3, 5, 7, ... is",
+        "options_en": [
+            "$2n-1$",
+            "$n+1$",
+            "$n+3$",
+            "2n"
+        ],
+        "explanation_en": "The given sequence is of odd numbers. The general formula for odd numbers is $2n-1$ (for $n=1, 2, 3...$)."
+    },
+    {
+        "id": 21,
+        "question": "x, y க்கு இடையேயான தொடர்பு $y=2x-5$, $x=3$ எனில் y இன் மதிப்பு",
+        "options": [
+            "5",
+            "1",
+            "2",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "$y = 2x - 5$. $x=3$ ஐப் பிரதியிட, $y = 2(3) - 5 = 6 - 5 = 1$.",
+        "question_en": "The relationship between x and y is $y=2x-5$. If $x=3$, the value of y is",
+        "options_en": [
+            "5",
+            "1",
+            "2",
+            "7"
+        ],
+        "explanation_en": "$y = 2x - 5$. Substituting $x=3$, $y = 2(3) - 5 = 6 - 5 = 1$."
+    },
+    {
+        "id": 22,
+        "question": "1, 8, 27, 64, ... என்ற எண் தொடரின் பொதுவடிவம்",
+        "options": [
+            "$n^{2}$",
+            "$n^{3}$",
+            "$n+7$",
+            "3n"
+        ],
+        "correct": 1,
+        "explanation": "கொடுக்கப்பட்ட எண்கள் இயல் எண்களின் கனங்களாகும் ($1^3, 2^3, 3^3, 4^3...$). எனவே பொதுவடிவம் $n^3$.",
+        "question_en": "The general form of the sequence 1, 8, 27, 64, ... is",
+        "options_en": [
+            "$n^{2}$",
+            "$n^{3}$",
+            "$n+7$",
+            "3n"
+        ],
+        "explanation_en": "The given numbers are cubes of natural numbers ($1^3, 2^3, 3^3, 4^3...$). Thus, the general form is $n^3$."
+    },
+    {
+        "id": 23,
+        "question": "கீழுள்ள அட்டவணையிலிருந்து x, y க்கான சரியான தொடர்பைத் தேர்ந்தெடு.\n\n| உள்ளீடு (x) | 0 | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|---|\n| விளைவு (y) | 0 | 1 | 16 | 81 | 256 |",
+        "options": [
+            "$y=x^{4}$",
+            "$y=4x$",
+            "$y=x^{3}$",
+            "$y=x^{2}$"
+        ],
+        "correct": 0,
+        "explanation": "$x=2$ எனில் $y=16$ ($2^4=16$). $x=3$ எனில் $y=81$ ($3^4=81$). எனவே $y=x^4$.",
+        "question_en": "Select the correct relationship for x and y from the table below.\n\n| Input (x) | 0 | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|---|\n| Output (y) | 0 | 1 | 16 | 81 | 256 |",
+        "options_en": [
+            "$y=x^{4}$",
+            "$y=4x$",
+            "$y=x^{3}$",
+            "$y=x^{2}$"
+        ],
+        "explanation_en": "If $x=2$, $y=16$ ($2^4=16$). If $x=3$, $y=81$ ($3^4=81$). Therefore, $y=x^4$."
+    },
+    {
+        "id": 24,
+        "question": "கீழுள்ள அட்டவணையில் x, y இன் மதிப்புகள் கொடுக்கப்பட்டுள்ளன. x, y ஆகியவற்றிற்கிடையேயான தொடர்பு யாது?\n\n| x | -2 | -1 | 0 | 1 | 2 |\n|---|---|---|---|---|---|\n| y | 4 | 1 | 0 | 1 | 4 |",
+        "options": [
+            "$y=x^{3}$",
+            "$y=2x$",
+            "$y=x^{2}+1$",
+            "$y=x^{2}$"
+        ],
+        "correct": 3,
+        "explanation": "ஒவ்வொரு x மதிப்பையும் வர்க்கப்படுத்தினால் y கிடைக்கிறது. எ.கா: $(-2)^2=4$, $(-1)^2=1$. எனவே $y=x^2$.",
+        "question_en": "The values of x and y are given in the table below. What is the relationship between x and y?\n\n| x | -2 | -1 | 0 | 1 | 2 |\n|---|---|---|---|---|---|\n| y | 4 | 1 | 0 | 1 | 4 |",
+        "options_en": [
+            "$y=x^{3}$",
+            "$y=2x$",
+            "$y=x^{2}+1$",
+            "$y=x^{2}$"
+        ],
+        "explanation_en": "Squaring each x value gives y. E.g., $(-2)^2=4$, $(-1)^2=1$. Therefore, $y=x^2$."
+    },
+    {
+        "id": 25,
+        "question": "1, 4, 7, 10, ... என்ற எண் தொடரின் பொதுவடிவம் யாது?",
+        "options": [
+            "$3n-2$",
+            "$n^{2}$",
+            "$n+3$",
+            "$n+2$"
+        ],
+        "correct": 0,
+        "explanation": "$n=1$ எனில் $3(1)-2=1$; $n=2$ எனில் $3(2)-2=4$; $n=3$ எனில் $3(3)-2=7$. எனவே பொதுவடிவம் $3n-2$.",
+        "question_en": "What is the general form of the number sequence 1, 4, 7, 10, ...?",
+        "options_en": [
+            "$3n-2$",
+            "$n^{2}$",
+            "$n+3$",
+            "$n+2$"
+        ],
+        "explanation_en": "If $n=1$, $3(1)-2=1$; if $n=2$, $3(2)-2=4$; if $n=3$, $3(3)-2=7$. Thus, the general form is $3n-2$."
+    },
+    {
+        "id": 26,
+        "question": "பாஸ்கல் முக்கோணத்தில் 5 வது வரிசையில் உள்ள எண்கள்",
+        "options": [
+            "1, 5, 10, 5, 1",
+            "1, 3, 3, 1",
+            "1, 4, 6, 4, 1",
+            "1, 5, 5, 5, 1"
+        ],
+        "correct": 2,
+        "explanation": "பாஸ்கல் முக்கோணத்தில் (n=0 வது வரிசையிலிருந்து தொடங்கும் போது), 5-வது வரிசை எண்கள் 1, 4, 6, 4, 1 ஆகும்.",
+        "question_en": "The numbers in the 5th row of Pascal's triangle are",
+        "options_en": [
+            "1, 5, 10, 5, 1",
+            "1, 3, 3, 1",
+            "1, 4, 6, 4, 1",
+            "1, 5, 5, 5, 1"
+        ],
+        "explanation_en": "In Pascal's triangle (counting the top as the 1st row or n=0 depending on convention, but typically the 5th level down), the numbers are 1, 4, 6, 4, 1."
+    },
+    {
+        "id": 27,
+        "question": "பாஸ்கல் முக்கோணத்தில் 6 வது வரிசை",
+        "options": [
+            "1, 5, 5, 1",
+            "1, 5, 10, 10, 5, 1",
+            "1, 5, 5, 10, 5, 5, 1",
+            "1, 5, 10, 10, 5, 1"
+        ],
+        "correct": 3,
+        "explanation": "விடைக்குறிப்பின்படி, 6-வது வரிசை 1, 5, 10, 10, 5, 1 ஆகும்.",
+        "question_en": "The 6th row in Pascal's triangle is",
+        "options_en": [
+            "1, 5, 5, 1",
+            "1, 5, 10, 10, 5, 1",
+            "1, 5, 5, 10, 5, 5, 1",
+            "1, 5, 10, 10, 5, 1"
+        ],
+        "explanation_en": "According to the answer key, the 6th row is 1, 5, 10, 10, 5, 1."
+    },
+    {
+        "id": 28,
+        "question": "பாஸ்கல் முக்கோணத்தில் 5 வது சாய்வு வரிசையில் உள்ள அடுத்தடுத்த உறுப்புகளின் பொது வித்தியாசம்",
+        "options": [
+            "3, 6, 10, ...",
+            "4, 10, 20, ...",
+            "1, 4, 10, ...",
+            "1, 3, 6, ..."
+        ],
+        "correct": 1,
+        "explanation": "5-வது சாய்வு வரிசையில் உள்ள எண்கள் 1, 5, 15, 35, 70... இவற்றின் வித்தியாசங்கள்: $5-1=4$, $15-5=10$, $35-15=20$... எனவே 4, 10, 20...",
+        "question_en": "The common differences between consecutive terms in the 5th diagonal row of Pascal's triangle are",
+        "options_en": [
+            "3, 6, 10, ...",
+            "4, 10, 20, ...",
+            "1, 4, 10, ...",
+            "1, 3, 6, ..."
+        ],
+        "explanation_en": "The numbers in the 5th diagonal are 1, 5, 15, 35, 70... Their differences are $5-1=4$, $15-5=10$, $35-15=20$... Thus, 4, 10, 20..."
+    },
+    {
+        "id": 29,
+        "question": "பாஸ்கல் முக்கோணத்தில் 9 வது வரிசையில் உள்ள எண்களின் கூட்டுத்தொகை யாது?",
+        "options": [
+            "128",
+            "254",
+            "256",
+            "126"
+        ],
+        "correct": 2,
+        "explanation": "ஒவ்வொரு வரிசையின் கூட்டுத்தொகையும் $2^{n-1}$ ஆக இருக்கும். 9-வது வரிசைக்கு $2^{9-1} = 2^8 = 256$.",
+        "question_en": "What is the sum of the numbers in the 9th row of Pascal's triangle?",
+        "options_en": [
+            "128",
+            "254",
+            "256",
+            "126"
+        ],
+        "explanation_en": "The sum of the numbers in the $n$-th row is $2^{n-1}$. For the 9th row, $2^{9-1} = 2^8 = 256$."
+    },
+    {
+        "id": 30,
+        "question": "பாஸ்கல் முக்கோணத்தில் 3 ஆம் சாய்வு வரிசையில் உள்ள எண்கள் ________ என அழைக்கப்படுகின்றன.",
+        "options": [
+            "சதுர எண்கள்",
+            "முக்கோண எண்கள்",
+            "பின்ன எண்கள்",
+            "தசம எண்கள்"
+        ],
+        "correct": 1,
+        "explanation": "பாஸ்கல் முக்கோணத்தின் 3-வது சாய்வு வரிசை எண்கள் (1, 3, 6, 10...) முக்கோண எண்கள் (Triangular numbers) என அழைக்கப்படுகின்றன.",
+        "question_en": "The numbers in the 3rd diagonal row in Pascal's triangle are called ________.",
+        "options_en": [
+            "Square numbers",
+            "Triangular numbers",
+            "Fractional numbers",
+            "Decimal numbers"
+        ],
+        "explanation_en": "The numbers in the 3rd diagonal row of Pascal's triangle (1, 3, 6, 10...) are known as Triangular numbers."
+    },
+    {
+        "id": 31,
+        "question": "முக்கோண எண்கள் என அழைக்கப்படுபவை",
+        "options": [
+            "1, 3, 6, 10, ...",
+            "2, 4, 6, 8, ...",
+            "1, 4, 9, 16, ...",
+            "3, 6, 9, 12, ..."
+        ],
+        "correct": 0,
+        "explanation": "முக்கோண எண்கள் 1, 3, 6, 10, 15... என்ற வரிசையாகும்.",
+        "question_en": "Numbers called triangular numbers are",
+        "options_en": [
+            "1, 3, 6, 10, ...",
+            "2, 4, 6, 8, ...",
+            "1, 4, 9, 16, ...",
+            "3, 6, 9, 12, ..."
+        ],
+        "explanation_en": "Triangular numbers follow the sequence 1, 3, 6, 10, 15..."
+    },
+    {
+        "id": 32,
+        "question": "சதுர எண்கள் என அழைக்கப்படுபவை",
+        "options": [
+            "1, 4, 9, 16, ...",
+            "1, 3, 6, 9, ...",
+            "0, 2, 4, 6, ...",
+            "4, 8, 12, 16, ..."
+        ],
+        "correct": 0,
+        "explanation": "இயல் எண்களின் வர்க்கங்களே ($1^2, 2^2, 3^2, 4^2...$) சதுர எண்கள் என அழைக்கப்படுகின்றன. அவை: 1, 4, 9, 16...",
+        "question_en": "Numbers called square numbers are",
+        "options_en": [
+            "1, 4, 9, 16, ...",
+            "1, 3, 6, 9, ...",
+            "0, 2, 4, 6, ...",
+            "4, 8, 12, 16, ..."
+        ],
+        "explanation_en": "The squares of natural numbers ($1^2, 2^2, 3^2, 4^2...$) are called square numbers. They are: 1, 4, 9, 16..."
+    },
+    {
+        "id": 33,
+        "question": "பின்வரும் அறுங்கோண வடிவங்களில் உள்ள எண்களை உற்றுநோக்கி எந்தெந்த வடிவங்கள் பாஸ்கல் முக்கோணத்தில் இருந்து பெறப்பட்டவை எனக் கண்டுபிடி.",
+        "options": [
+            "1, 2, 3",
+            "2, 3, 4",
+            "3, 4, 1",
+            "4 மட்டும்"
+        ],
+        "correct": 0,
+        "explanation": "பாஸ்கல் முக்கோணப் பண்புகளின் அடிப்படையில் முதல் மூன்று அறுங்கோண அமைப்புகளும் (1, 2, 3) சரியாகும்.",
+        "question_en": "Observe the numbers in the following hexagonal shapes and identify which of them are derived from Pascal's triangle.",
+        "options_en": [
+            "1, 2, 3",
+            "2, 3, 4",
+            "3, 4, 1",
+            "4 only"
+        ],
+        "explanation_en": "Based on the properties of Pascal's triangle, the first three hexagonal patterns (1, 2, 3) are correct.",
+        "image": "image/unit21/q33.PNG"
+    },
+    {
+        "id": 34,
+        "question": "1, 5, 9, ... என்ற எண் தொடரின் பொதுவடிவம்",
+        "options": [
+            "$n+4$",
+            "$4n-3$",
+            "$2n-1$",
+            "$3n-2$"
+        ],
+        "correct": 1,
+        "explanation": "$n=1$ எனில் $4(1)-3=1$; $n=2$ எனில் $4(2)-3=5$; $n=3$ எனில் $4(3)-3=9$. எனவே பொதுவடிவம் $4n-3$.",
+        "question_en": "The general form of the number sequence 1, 5, 9, ... is",
+        "options_en": [
+            "$n+4$",
+            "$4n-3$",
+            "$2n-1$",
+            "$3n-2$"
+        ],
+        "explanation_en": "If $n=1$, $4(1)-3=1$; if $n=2$, $4(2)-3=5$; if $n=3$, $4(3)-3=9$. Thus, the general form is $4n-3$."
+    },
+    {
+        "id": 35,
+        "question": "பாஸ்கல் முக்கோணத்தின் ஒவ்வொரு நிரையின் கூடுதலையும் ________ இன் அடுக்காக எழுதலாம்.",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "correct": 3,
+        "explanation": "பாஸ்கல் முக்கோணத்தின் ஒவ்வொரு வரிசையிலும் (நிரை) உள்ள எண்களின் கூட்டுத்தொகையானது 2 இன் அடுக்குகளாக (powers of 2) அமையும்.",
+        "question_en": "The sum of each row in Pascal's triangle can be written as a power of ________.",
+        "options_en": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "explanation_en": "The sum of the numbers in any given row of Pascal's triangle is always a power of 2."
+    },
+    {
+        "id": 36,
+        "question": "பாஸ்கல் முக்கோணத்தில் இருந்து ஒரு பகுதி தரப்பட்டுள்ளது எனில், A, P, q, r ஆகியவற்றைக் காண்க.",
+        "options": [
+            "25, 20, 5, 20",
+            "4, 20, 5, 20",
+            "4, 6, 5, 20",
+            "10, 20, 5, 0"
+        ],
+        "correct": 2,
+        "explanation": "விடைக்குறிப்பின்படி, A=4, P=6, q=5, r=20 ஆகும்.",
+        "question_en": "If a part from Pascal's triangle is given, find the values of A, P, q, r.",
+        "options_en": [
+            "25, 20, 5, 20",
+            "4, 20, 5, 20",
+            "4, 6, 5, 20",
+            "10, 20, 5, 0"
+        ],
+        "explanation_en": "According to the answer key, the values are A=4, P=6, q=5, r=20.",
+        "image": "image/unit21/q36.PNG"
+    },
+    {
+        "id": 37,
+        "question": "பின்வரும் அறுங்கோண வடிவங்கள் பாஸ்கல் முக்கோணத்தின் பகுதியாக அமையும் எனில், x, y, z இன் மதிப்புகள் முறையே:",
+        "options": [
+            "6, 20, 28",
+            "10, 35, 10",
+            "6, 35, 28",
+            "6, 20, 35"
+        ],
+        "correct": 2,
+        "explanation": "பாஸ்கல் முக்கோணத்தின் விதிகளின்படி, x=6, y=35, z=28 ஆகும்.",
+        "question_en": "If the following hexagonal shapes form part of Pascal's triangle, the values of x, y, and z are respectively:",
+        "options_en": [
+            "6, 20, 28",
+            "10, 35, 10",
+            "6, 35, 28",
+            "6, 20, 35"
+        ],
+        "explanation_en": "Based on the rules of Pascal's triangle, the values are x=6, y=35, z=28.",
+        "image": "image/unit21/q37.PNG"
+    },
+    {
+        "id": 38,
+        "question": "பின்வரும் அட்டவணையிலிருந்து x மற்றும் y க்கு இடையேயுள்ள தொடர்பு\n\n| x | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| y | 1 | 3 | 5 | 7 |",
+        "options": [
+            "$y=2x+1$",
+            "$y=2x-1$",
+            "$y=2x$",
+            "$y=2x+5$"
+        ],
+        "correct": 1,
+        "explanation": "$x=1$ எனில் $y=2(1)-1=1$. $x=2$ எனில் $y=2(2)-1=3$. $x=3$ எனில் $y=2(3)-1=5$. எனவே தொடர்பு $y=2x-1$.",
+        "question_en": "The relationship between x and y from the following table is\n\n| x | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| y | 1 | 3 | 5 | 7 |",
+        "options_en": [
+            "$y=2x+1$",
+            "$y=2x-1$",
+            "$y=2x$",
+            "$y=2x+5$"
+        ],
+        "explanation_en": "If $x=1$, $y=2(1)-1=1$. If $x=2$, $y=2(2)-1=3$. If $x=3$, $y=2(3)-1=5$. Therefore, the relationship is $y=2x-1$."
+    }
+]

@@ -1,0 +1,2183 @@
+[
+    {
+        "id": 1,
+        "question": "\\( (p-q)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "\\( p^2+2pq+q^2 \\)",
+            "\\( p^2+q^2 \\)",
+            "\\( p^2-2pq+q^2 \\)",
+            "\\( p^2-q^2 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( p^2-2pq+q^2 \\). இயற்கணித முற்றொருமைப்படி, \\( (a-b)^2 = a^2 - 2ab + b^2 \\).",
+        "question_en": "\\( (p-q)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "\\( p^2+2pq+q^2 \\)",
+            "\\( p^2+q^2 \\)",
+            "\\( p^2-2pq+q^2 \\)",
+            "\\( p^2-q^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( p^2-2pq+q^2 \\). According to the algebraic identity, \\( (a-b)^2 = a^2 - 2ab + b^2 \\)."
+    },
+    {
+        "id": 2,
+        "question": "\\( (x+5) \\) மற்றும் \\( (x-5) \\) இன் பெருக்கற்பலன்",
+        "options": [
+            "\\( x^2-10x+25 \\)",
+            "\\( x^2-25 \\)",
+            "\\( x^2+25 \\)",
+            "\\( x^2+10x+25 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( x^2-25 \\). முற்றொருமை: \\( (a+b)(a-b) = a^2 - b^2 \\). எனவே, \\( (x+5)(x-5) = x^2 - 5^2 = x^2 - 25 \\).",
+        "question_en": "The product of \\( (x+5) \\) and \\( (x-5) \\) is",
+        "options_en": [
+            "\\( x^2-10x+25 \\)",
+            "\\( x^2-25 \\)",
+            "\\( x^2+25 \\)",
+            "\\( x^2+10x+25 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( x^2-25 \\). Using the identity \\( (a+b)(a-b) = a^2 - b^2 \\), we get \\( x^2 - 5^2 = x^2 - 25 \\)."
+    },
+    {
+        "id": 3,
+        "question": "\\( 24ab^2c^2 \\) என்ற உறுப்பின் காரணிப்படுத்தப்பட்ட பெருக்கற்பலன்",
+        "options": [
+            "\\( 2 \\times 2 \\times 2 \\times 3 \\times a \\times b \\times b \\times b \\times c \\times c \\)",
+            "\\( 8 \\times 3 \\times a \\times b \\times b \\times c \\times c \\times c \\)",
+            "\\( 2 \\times 2 \\times 2 \\times 3 \\times a \\times b \\times b \\times c \\times c \\)",
+            "\\( 6 \\times 4 \\times a \\times b \\times b \\times c \\times c \\times c \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 2 \\times 2 \\times 2 \\times 3 \\times a \\times b \\times b \\times c \\times c \\). எண்ணை பகா காரணிப்படுத்தினால் 24 = 2×2×2×3. மாறிகளை விரித்தால் \\( a \\times b \\times b \\times c \\times c \\).",
+        "question_en": "The factorized product of \\( 24ab^2c^2 \\) is",
+        "options_en": [
+            "\\( 2 \\times 2 \\times 2 \\times 3 \\times a \\times b \\times b \\times b \\times c \\times c \\)",
+            "\\( 8 \\times 3 \\times a \\times b \\times b \\times c \\times c \\times c \\)",
+            "\\( 2 \\times 2 \\times 2 \\times 3 \\times a \\times b \\times b \\times c \\times c \\)",
+            "\\( 6 \\times 4 \\times a \\times b \\times b \\times c \\times c \\times c \\)"
+        ],
+        "explanation_en": "Correct answer option (3): Prime factorizing 24 gives 2×2×2×3, and expanding the variables gives \\( a \\times b \\times b \\times c \\times c \\)."
+    },
+    {
+        "id": 4,
+        "question": "\\( (5+20)(-20-5) = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "-425",
+            "375",
+            "-625",
+            "0"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -625. \\( (5+20) = 25 \\). \\( (-20-5) = -25 \\). இவற்றை பெருக்கினால் \\( 25 \\times (-25) = -625 \\).",
+        "question_en": "\\( (5+20)(-20-5) = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "-425",
+            "375",
+            "-625",
+            "0"
+        ],
+        "explanation_en": "Correct answer option (3): -625. \\( (5+20) = 25 \\) and \\( (-20-5) = -25 \\). Multiplying them gives \\( 25 \\times (-25) = -625 \\)."
+    },
+    {
+        "id": 5,
+        "question": "\\( ax^2y \\), \\( bxy^2 \\) மற்றும் \\( cxyz \\) ஆகிய இயற்கணிதக் கோவைகளின் பொதுக் காரணி",
+        "options": [
+            "\\( x^2y \\)",
+            "\\( xy^2 \\)",
+            "xyz",
+            "xy"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): xy. மூன்றிலும் பொதுவாக உள்ள மாறிகள் x மற்றும் y. அவற்றின் குறைந்தபட்ச அடுக்கு 1. எனவே பொதுக்காரணி xy.",
+        "question_en": "The common factor of the algebraic expressions \\( ax^2y \\), \\( bxy^2 \\) and \\( cxyz \\) is",
+        "options_en": [
+            "\\( x^2y \\)",
+            "\\( xy^2 \\)",
+            "xyz",
+            "xy"
+        ],
+        "explanation_en": "Correct answer option (4): xy. The variables common to all three expressions are x and y, and their minimum power is 1. Thus, the common factor is xy."
+    },
+    {
+        "id": 6,
+        "question": "17abc, \\( 34ab^2 \\) மற்றும் \\( 51a^2b \\) ஆகியவற்றின் பொதுக்காரணி",
+        "options": [
+            "17ab",
+            "17ac",
+            "17abc",
+            "\\( 17a^2b^2c \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 17ab. எண்களில் 17, 34, 51 ஆகியவற்றின் பொது வகுத்தி 17. மாறிகளில் a மற்றும் b பொதுவாக உள்ளன. குறைந்தபட்ச அடுக்கு 1. எனவே 17ab.",
+        "question_en": "The common factor of 17abc, \\( 34ab^2 \\) and \\( 51a^2b \\) is",
+        "options_en": [
+            "17ab",
+            "17ac",
+            "17abc",
+            "\\( 17a^2b^2c \\)"
+        ],
+        "explanation_en": "Correct answer option (1): 17ab. The GCD of 17, 34, 51 is 17. The common variables are a and b with minimum power 1. So, 17ab."
+    },
+    {
+        "id": 7,
+        "question": "பின்வரும் கூற்றுகளில் எது தவறானது?",
+        "options": [
+            "\\( (7x+3)(7x-4)=49x^2-7x-12 \\)",
+            "\\( (a-1)^2=a^2-1 \\)",
+            "\\( (x^2+y^2)(y^2+x^2)=(x^2+y^2)^2 \\)",
+            "8pq இன் ஒரு காரணி 2p ஆகும்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (a-1)^2=a^2-1 \\) என்பது தவறு. முற்றொருமைப்படி, \\( (a-1)^2 = a^2 - 2a + 1 \\) ஆகும்.",
+        "question_en": "Which of the following statements is incorrect?",
+        "options_en": [
+            "\\( (7x+3)(7x-4)=49x^2-7x-12 \\)",
+            "\\( (a-1)^2=a^2-1 \\)",
+            "\\( (x^2+y^2)(y^2+x^2)=(x^2+y^2)^2 \\)",
+            "2p is a factor of 8pq"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (a-1)^2=a^2-1 \\) is incorrect. The correct expansion is \\( a^2 - 2a + 1 \\)."
+    },
+    {
+        "id": 8,
+        "question": "\\( (y+8)(y+6) \\) இன் பெருக்கற்பலன்",
+        "options": [
+            "\\( y^2+48y+48 \\)",
+            "\\( y^2+28y+48 \\)",
+            "\\( y^2+14y+48 \\)",
+            "\\( y^2-14y+48 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( y^2+14y+48 \\). முற்றொருமை \\( (x+a)(x+b) = x^2 + (a+b)x + ab \\). எனவே \\( y^2 + (8+6)y + (8 \\times 6) = y^2 + 14y + 48 \\).",
+        "question_en": "The product of \\( (y+8)(y+6) \\) is",
+        "options_en": [
+            "\\( y^2+48y+48 \\)",
+            "\\( y^2+28y+48 \\)",
+            "\\( y^2+14y+48 \\)",
+            "\\( y^2-14y+48 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( y^2+14y+48 \\). Using \\( (x+a)(x+b) = x^2 + (a+b)x + ab \\), we get \\( y^2 + 14y + 48 \\)."
+    },
+    {
+        "id": 9,
+        "question": "\\( (a^2-b^2)^2 \\) க்குச் சமமானது",
+        "options": [
+            "\\( (a^2+b^2)(a^2-b^2) \\)",
+            "\\( (a+b)^2(a-b)^2 \\)",
+            "\\( (a+b)^2(a-b) \\)",
+            "\\( (a-b)^2(a+b) \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (a+b)^2(a-b)^2 \\). \\( a^2-b^2 = (a+b)(a-b) \\). எனவே, \\( (a^2-b^2)^2 = [(a+b)(a-b)]^2 = (a+b)^2 (a-b)^2 \\).",
+        "question_en": "\\( (a^2-b^2)^2 \\) is equal to",
+        "options_en": [
+            "\\( (a^2+b^2)(a^2-b^2) \\)",
+            "\\( (a+b)^2(a-b)^2 \\)",
+            "\\( (a+b)^2(a-b) \\)",
+            "\\( (a-b)^2(a+b) \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (a+b)^2(a-b)^2 \\). Since \\( a^2-b^2 = (a+b)(a-b) \\), squaring it gives \\( (a+b)^2(a-b)^2 \\)."
+    },
+    {
+        "id": 10,
+        "question": "\\( (2x+5)^2 \\) இன் விரிவாக்கம்",
+        "options": [
+            "\\( 2x^2+10x+25 \\)",
+            "\\( 4x^2+20x+25 \\)",
+            "\\( 4x^2-20x-25 \\)",
+            "\\( 4x^2-25 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 4x^2+20x+25 \\). \\( (a+b)^2 = a^2 + 2ab + b^2 \\). \\( (2x)^2 + 2(2x)(5) + 5^2 = 4x^2 + 20x + 25 \\).",
+        "question_en": "The expansion of \\( (2x+5)^2 \\) is",
+        "options_en": [
+            "\\( 2x^2+10x+25 \\)",
+            "\\( 4x^2+20x+25 \\)",
+            "\\( 4x^2-20x-25 \\)",
+            "\\( 4x^2-25 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 4x^2+20x+25 \\). Using \\( (a+b)^2 = a^2 + 2ab + b^2 \\), we get \\( (2x)^2 + 2(2x)(5) + 5^2 = 4x^2 + 20x + 25 \\)."
+    },
+    {
+        "id": 11,
+        "question": "\\( (3x-5y)^2 \\) இன் விரிவாக்கம்",
+        "options": [
+            "\\( 9x^2-15xy+25y^2 \\)",
+            "\\( 9x^2+30xy+25y^2 \\)",
+            "\\( 9x^2-25y^2 \\)",
+            "\\( 9x^2-30xy+25y^2 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 9x^2-30xy+25y^2 \\). \\( (a-b)^2 = a^2 - 2ab + b^2 \\). எனவே \\( (3x)^2 - 2(3x)(5y) + (5y)^2 = 9x^2 - 30xy + 25y^2 \\).",
+        "question_en": "The expansion of \\( (3x-5y)^2 \\) is",
+        "options_en": [
+            "\\( 9x^2-15xy+25y^2 \\)",
+            "\\( 9x^2+30xy+25y^2 \\)",
+            "\\( 9x^2-25y^2 \\)",
+            "\\( 9x^2-30xy+25y^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 9x^2-30xy+25y^2 \\). Using \\( (a-b)^2 = a^2 - 2ab + b^2 \\)."
+    },
+    {
+        "id": 12,
+        "question": "\\( (3x+4)(3x-4) \\) இன் சுருக்கிய மதிப்பு",
+        "options": [
+            "\\( 9x^2-8x+16 \\)",
+            "\\( 9x^2+8x+16 \\)",
+            "\\( 9x^2-24x+16 \\)",
+            "\\( 9x^2-16 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 9x^2-16 \\). \\( (a+b)(a-b) = a^2 - b^2 \\). எனவே \\( (3x)^2 - 4^2 = 9x^2 - 16 \\).",
+        "question_en": "The simplified value of \\( (3x+4)(3x-4) \\) is",
+        "options_en": [
+            "\\( 9x^2-8x+16 \\)",
+            "\\( 9x^2+8x+16 \\)",
+            "\\( 9x^2-24x+16 \\)",
+            "\\( 9x^2-16 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 9x^2-16 \\). Using the identity \\( (a+b)(a-b) = a^2 - b^2 \\)."
+    },
+    {
+        "id": 13,
+        "question": "\\( m^2-(c+d)m+cd = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "\\( (m+c)^2 \\)",
+            "\\( (m+c)(m-d) \\)",
+            "\\( (m-c)(m+d) \\)",
+            "\\( (m-c)(m-d) \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( (m-c)(m-d) \\). இதை விரித்தால், \\( m^2 - md - mc + cd = m^2 - (c+d)m + cd \\).",
+        "question_en": "\\( m^2-(c+d)m+cd = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "\\( (m+c)^2 \\)",
+            "\\( (m+c)(m-d) \\)",
+            "\\( (m-c)(m+d) \\)",
+            "\\( (m-c)(m-d) \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( (m-c)(m-d) \\). Expanding it gives \\( m^2 - dm - cm + cd = m^2 - (c+d)m + cd \\)."
+    },
+    {
+        "id": 14,
+        "question": "\\( (4x+3y) \\) மற்றும் \\( (4x+5y) \\) இன் பெருக்கற்பலன்",
+        "options": [
+            "\\( 16x^2-32xy+15y^2 \\)",
+            "\\( 16x^2-15y^2 \\)",
+            "\\( 16x^2+32xy+15y^2 \\)",
+            "\\( 16x^2+15y^2 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 16x^2+32xy+15y^2 \\). \\( (ax+b)(ax+c) = a^2x^2 + a(b+c)x + bc \\). இங்கு \\( 16x^2 + 4x(3y+5y) + 15y^2 = 16x^2 + 32xy + 15y^2 \\).",
+        "question_en": "The product of \\( (4x+3y) \\) and \\( (4x+5y) \\) is",
+        "options_en": [
+            "\\( 16x^2-32xy+15y^2 \\)",
+            "\\( 16x^2-15y^2 \\)",
+            "\\( 16x^2+32xy+15y^2 \\)",
+            "\\( 16x^2+15y^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 16x^2+32xy+15y^2 \\). Expanding: \\( 16x^2 + 20xy + 12xy + 15y^2 = 16x^2 + 32xy + 15y^2 \\)."
+    },
+    {
+        "id": 15,
+        "question": "\\( (6a+9) \\) மற்றும் \\( (6a-5) \\) இன் பெருக்கற்பலன்",
+        "options": [
+            "\\( 36a^2-45 \\)",
+            "\\( 36a^2+24a-45 \\)",
+            "\\( 36a^2-24a-45 \\)",
+            "\\( 36a^2-24a+45 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 36a^2+24a-45 \\). \\( (6a)^2 + 6a(9-5) + (9)(-5) = 36a^2 + 24a - 45 \\).",
+        "question_en": "The product of \\( (6a+9) \\) and \\( (6a-5) \\) is",
+        "options_en": [
+            "\\( 36a^2-45 \\)",
+            "\\( 36a^2+24a-45 \\)",
+            "\\( 36a^2-24a-45 \\)",
+            "\\( 36a^2-24a+45 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 36a^2+24a-45 \\). Using \\( (x+a)(x+b) = x^2+(a+b)x+ab \\)."
+    },
+    {
+        "id": 16,
+        "question": "\\( (xyz-1)^2 \\) இன் விரிவாக்கம்",
+        "options": [
+            "\\( x^2y^2z^2+1 \\)",
+            "\\( x^2y^2z^2-2xyz-1 \\)",
+            "\\( x^2y^2z^2+2xyz+1 \\)",
+            "\\( x^2y^2z^2-2xyz+1 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( x^2y^2z^2-2xyz+1 \\). \\( (a-b)^2 = a^2 - 2ab + b^2 \\) என்ற முற்றொருமையைப் பயன்படுத்த, \\( (xyz)^2 - 2(xyz)(1) + 1^2 \\).",
+        "question_en": "The expansion of \\( (xyz-1)^2 \\) is",
+        "options_en": [
+            "\\( x^2y^2z^2+1 \\)",
+            "\\( x^2y^2z^2-2xyz-1 \\)",
+            "\\( x^2y^2z^2+2xyz+1 \\)",
+            "\\( x^2y^2z^2-2xyz+1 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( x^2y^2z^2-2xyz+1 \\). Using \\( (a-b)^2 = a^2 - 2ab + b^2 \\)."
+    },
+    {
+        "id": 17,
+        "question": "\\( (a+b)^2-4ab = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "\\( (a+b)^2 \\)",
+            "\\( a^2-6ab+b^2 \\)",
+            "\\( (a-b)^2 \\)",
+            "\\( a^2-b^2 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (a-b)^2 \\). \\( (a^2 + 2ab + b^2) - 4ab = a^2 - 2ab + b^2 = (a-b)^2 \\).",
+        "question_en": "\\( (a+b)^2-4ab = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "\\( (a+b)^2 \\)",
+            "\\( a^2-6ab+b^2 \\)",
+            "\\( (a-b)^2 \\)",
+            "\\( a^2-b^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (a-b)^2 \\). Expanding \\( (a+b)^2 \\) and subtracting 4ab gives \\( a^2 - 2ab + b^2 = (a-b)^2 \\)."
+    },
+    {
+        "id": 18,
+        "question": "\\( (m-n)^2+(m+n)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "\\( m^2+n^2 \\)",
+            "\\( 4(m^2+n^2) \\)",
+            "4mn",
+            "\\( 2(m^2+n^2) \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 2(m^2+n^2) \\). விரித்து எழுதினால் \\( (m^2 - 2mn + n^2) + (m^2 + 2mn + n^2) = 2m^2 + 2n^2 = 2(m^2+n^2) \\).",
+        "question_en": "\\( (m-n)^2+(m+n)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "\\( m^2+n^2 \\)",
+            "\\( 4(m^2+n^2) \\)",
+            "4mn",
+            "\\( 2(m^2+n^2) \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 2(m^2+n^2) \\). Expanding both gives \\( m^2 - 2mn + n^2 + m^2 + 2mn + n^2 = 2m^2 + 2n^2 \\)."
+    },
+    {
+        "id": 19,
+        "question": "\\( (6x+7y) \\) மற்றும் \\( (6x-7y) \\) இவற்றின் பெருக்கற்பலன்",
+        "options": [
+            "\\( 36x^2-42xy-49y^2 \\)",
+            "\\( 36x^2-49y^2 \\)",
+            "\\( 36x^2+42xy-49y^2 \\)",
+            "\\( 36x^2+49y^2 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 36x^2-49y^2 \\). முற்றொருமை \\( (a+b)(a-b) = a^2 - b^2 \\) ஐ பயன்படுத்த, \\( (6x)^2 - (7y)^2 = 36x^2 - 49y^2 \\).",
+        "question_en": "The product of \\( (6x+7y) \\) and \\( (6x-7y) \\) is",
+        "options_en": [
+            "\\( 36x^2-42xy-49y^2 \\)",
+            "\\( 36x^2-49y^2 \\)",
+            "\\( 36x^2+42xy-49y^2 \\)",
+            "\\( 36x^2+49y^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 36x^2-49y^2 \\). Using the identity \\( (a+b)(a-b) = a^2 - b^2 \\)."
+    },
+    {
+        "id": 20,
+        "question": "\\( (4-mn) \\), \\( (mn+4) \\) இவற்றின் பெருக்கற்பலன்",
+        "options": [
+            "\\( m^2n^2-16 \\)",
+            "\\( 16-m^2n^2 \\)",
+            "\\( m^2n^2-8mn-16 \\)",
+            "\\( m^2n^2+8mn+16 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( 16-m^2n^2 \\). \\( (4-mn)(4+mn) = 4^2 - (mn)^2 = 16 - m^2n^2 \\).",
+        "question_en": "The product of \\( (4-mn) \\) and \\( (mn+4) \\) is",
+        "options_en": [
+            "\\( m^2n^2-16 \\)",
+            "\\( 16-m^2n^2 \\)",
+            "\\( m^2n^2-8mn-16 \\)",
+            "\\( m^2n^2+8mn+16 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( 16-m^2n^2 \\). Rearranging the second term gives \\( (4-mn)(4+mn) = 4^2 - (mn)^2 \\)."
+    },
+    {
+        "id": 21,
+        "question": "\\( (1+3b)(3b-1) \\) இவற்றின் பெருக்கற்பலன்",
+        "options": [
+            "\\( 9b^2-6b-1 \\)",
+            "\\( 9b^2-6b+1 \\)",
+            "\\( 9b^2-1 \\)",
+            "\\( 1-9b^2 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( 9b^2-1 \\). \\( (3b+1)(3b-1) = (3b)^2 - 1^2 = 9b^2 - 1 \\).",
+        "question_en": "The product of \\( (1+3b)(3b-1) \\) is",
+        "options_en": [
+            "\\( 9b^2-6b-1 \\)",
+            "\\( 9b^2-6b+1 \\)",
+            "\\( 9b^2-1 \\)",
+            "\\( 1-9b^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( 9b^2-1 \\). Rewrite as \\( (3b+1)(3b-1) = (3b)^2 - 1^2 = 9b^2 - 1 \\)."
+    },
+    {
+        "id": 22,
+        "question": "\\( (a+b)^2-(a-b)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "\\( 2(a^2+b^2) \\)",
+            "-4ab",
+            "4ab",
+            "\\( 2(a^2-b^2) \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 4ab. \\( (a^2+2ab+b^2) - (a^2-2ab+b^2) = a^2+2ab+b^2 - a^2 + 2ab - b^2 = 4ab \\).",
+        "question_en": "\\( (a+b)^2-(a-b)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "\\( 2(a^2+b^2) \\)",
+            "-4ab",
+            "4ab",
+            "\\( 2(a^2-b^2) \\)"
+        ],
+        "explanation_en": "Correct answer option (3): 4ab. Expanding both squares and subtracting gives 4ab."
+    },
+    {
+        "id": 23,
+        "question": "\\( (x-y)(x+y)(x^2+y^2) = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "\\( (x^2+y^2)(x^2+y^2) \\)",
+            "\\( x^4+y^4 \\)",
+            "\\( (x^2-y^2)^2 \\)",
+            "\\( x^4-y^4 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( x^4-y^4 \\). முதலில் \\( (x-y)(x+y) = x^2-y^2 \\). பின்பு \\( (x^2-y^2)(x^2+y^2) = (x^2)^2 - (y^2)^2 = x^4-y^4 \\).",
+        "question_en": "\\( (x-y)(x+y)(x^2+y^2) = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "\\( (x^2+y^2)(x^2+y^2) \\)",
+            "\\( x^4+y^4 \\)",
+            "\\( (x^2-y^2)^2 \\)",
+            "\\( x^4-y^4 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( x^4-y^4 \\). First multiply \\( (x-y)(x+y) = x^2-y^2 \\). Then \\( (x^2-y^2)(x^2+y^2) = x^4-y^4 \\)."
+    },
+    {
+        "id": 24,
+        "question": "\\( (x+2y)^2-(x-2y)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options": [
+            "\\( 2x^2+8y^2 \\)",
+            "\\( 2x^2+4y^2 \\)",
+            "8xy",
+            "-8xy"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8xy. \\( (a+b)^2 - (a-b)^2 = 4ab \\) என்ற முற்றொருமையைப் பயன்படுத்த, a=x, b=2y எனும்போது \\( 4(x)(2y) = 8xy \\).",
+        "question_en": "\\( (x+2y)^2-(x-2y)^2 = \\_\\_\\_\\_\\_ \\)",
+        "options_en": [
+            "\\( 2x^2+8y^2 \\)",
+            "\\( 2x^2+4y^2 \\)",
+            "8xy",
+            "-8xy"
+        ],
+        "explanation_en": "Correct answer option (3): 8xy. Using the identity \\( (a+b)^2 - (a-b)^2 = 4ab \\) where a=x and b=2y, we get \\( 4(x)(2y) = 8xy \\)."
+    },
+    {
+        "id": 25,
+        "question": "\\( x^2+64 \\) என்ற கோவையை முழு வர்க்கமாக மாற்ற அதனுடன் பின்வருவனவற்றுள் எதைக் கூட்ட வேண்டும்?",
+        "options": [
+            "4x",
+            "16x",
+            "8x",
+            "-8x"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 16x. \\( x^2 + 64 \\) ஐ முழு வர்க்கமாக்க, \\( a^2+b^2 \\) உடன் 2ab ஐச் சேர்க்க வேண்டும். இங்கு \\( a=x, b=8 \\). எனவே \\( 2ab = 2(x)(8) = 16x \\). (அல்லது -16x, எனினும் விடைக்குறிப்பு படி 16x).",
+        "question_en": "Which of the following should be added to the expression \\( x^2+64 \\) to make it a perfect square?",
+        "options_en": [
+            "4x",
+            "16x",
+            "8x",
+            "-8x"
+        ],
+        "explanation_en": "Correct answer option (2): 16x. To make \\( x^2+8^2 \\) a perfect square, we need to add 2ab, which is \\( 2(x)(8) = 16x \\)."
+    },
+    {
+        "id": 26,
+        "question": "\\( (56)^2 - (41)^2 \\) ஐ மீதியின்றி வகுக்கும் எண்",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "7"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3. \\( a^2-b^2 = (a+b)(a-b) = (56+41)(56-41) = 97 \\times 15 \\). 15 ஆனது 3 ஆல் மீதியின்றி வகுபடும். எனவே பெருக்கற்பலனும் 3 ஆல் வகுபடும்.",
+        "question_en": "The number that divides \\( (56)^2 - (41)^2 \\) without a remainder is",
+        "options_en": [
+            "2",
+            "3",
+            "4",
+            "7"
+        ],
+        "explanation_en": "Correct answer option (2): 3. Expanding using difference of squares: \\( (56+41)(56-41) = 97 \\times 15 \\). Since 15 is divisible by 3, the entire product is divisible by 3."
+    },
+    {
+        "id": 27,
+        "question": "a+b=5 மற்றும் \\( a^2+b^2=13 \\) எனில் ab = ?",
+        "options": [
+            "12",
+            "6",
+            "5",
+            "13"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 6. \\( (a+b)^2 = a^2+b^2+2ab \\Rightarrow 5^2 = 13 + 2ab \\Rightarrow 25 - 13 = 2ab \\Rightarrow 12 = 2ab \\Rightarrow ab = 6 \\).",
+        "question_en": "If a+b=5 and \\( a^2+b^2=13 \\), then ab =",
+        "options_en": [
+            "12",
+            "6",
+            "5",
+            "13"
+        ],
+        "explanation_en": "Correct answer option (2): 6. \\( (a+b)^2 = a^2+b^2+2ab \\Rightarrow 25 = 13 + 2ab \\Rightarrow 2ab = 12 \\Rightarrow ab = 6 \\)."
+    },
+    {
+        "id": 28,
+        "question": "a+b=10 மற்றும் ab=18 எனில் \\( a^2+b^2 \\) இன் மதிப்பு",
+        "options": [
+            "82",
+            "64",
+            "118",
+            "136"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 64. \\( a^2+b^2 = (a+b)^2 - 2ab = 10^2 - 2(18) = 100 - 36 = 64 \\).",
+        "question_en": "If a+b=10 and ab=18, the value of \\( a^2+b^2 \\) is",
+        "options_en": [
+            "82",
+            "64",
+            "118",
+            "136"
+        ],
+        "explanation_en": "Correct answer option (2): 64. Using the formula \\( a^2+b^2 = (a+b)^2 - 2ab \\), we get \\( 100 - 36 = 64 \\)."
+    },
+    {
+        "id": 29,
+        "question": "\\( 4m^2+n^2=40 \\) மற்றும் mn=6 எனில் 2m+n இன் மதிப்பு",
+        "options": [
+            "10",
+            "6",
+            "8",
+            "4"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8. \\( (2m+n)^2 = 4m^2+n^2+4mn = 40 + 4(6) = 40 + 24 = 64 \\). எனவே \\( 2m+n = \\sqrt{64} = 8 \\).",
+        "question_en": "If \\( 4m^2+n^2=40 \\) and mn=6, the value of 2m+n is",
+        "options_en": [
+            "10",
+            "6",
+            "8",
+            "4"
+        ],
+        "explanation_en": "Correct answer option (3): 8. \\( (2m+n)^2 = 4m^2+n^2+4mn = 40 + 24 = 64 \\). So, \\( 2m+n = 8 \\)."
+    },
+    {
+        "id": 30,
+        "question": "x-y=5 மற்றும் xy=6 எனில் கீழ்க்கண்டவற்றில் x, y இன் மதிப்புகள் எவை?",
+        "options": [
+            "1, 6",
+            "3, 2",
+            "6, 1",
+            "3, -2"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 6, 1. கொடுக்கப்பட்ட தேர்வுகளில் 6 - 1 = 5 மற்றும் \\( 6 \\times 1 = 6 \\). எனவே x=6, y=1 சரியானவை.",
+        "question_en": "If x-y=5 and xy=6, which of the following are the values of x, y?",
+        "options_en": [
+            "1, 6",
+            "3, 2",
+            "6, 1",
+            "3, -2"
+        ],
+        "explanation_en": "Correct answer option (3): 6, 1. From the options, 6 - 1 = 5 and \\( 6 \\times 1 = 6 \\). So x=6 and y=1."
+    },
+    {
+        "id": 31,
+        "question": "x-y=2 மற்றும் \\( x^2+y^2=34 \\) எனில் xy இன் மதிப்பு",
+        "options": [
+            "15",
+            "-15",
+            "-2",
+            "30"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 15. \\( (x-y)^2 = x^2+y^2-2xy \\Rightarrow 2^2 = 34 - 2xy \\Rightarrow 4 = 34 - 2xy \\Rightarrow 2xy = 30 \\Rightarrow xy = 15 \\).",
+        "question_en": "If x-y=2 and \\( x^2+y^2=34 \\), the value of xy is",
+        "options_en": [
+            "15",
+            "-15",
+            "-2",
+            "30"
+        ],
+        "explanation_en": "Correct answer option (1): 15. Using \\( (x-y)^2 = x^2+y^2-2xy \\), we get \\( 4 = 34 - 2xy \\Rightarrow 2xy = 30 \\Rightarrow xy = 15 \\)."
+    },
+    {
+        "id": 32,
+        "question": "2x+3y=14 மற்றும் xy=3 எனில் \\( 4x^2+9y^2 \\) இன் மதிப்பானது",
+        "options": [
+            "120",
+            "140",
+            "160",
+            "180"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 160. \\( (2x+3y)^2 = 4x^2+9y^2+12xy \\Rightarrow 14^2 = 4x^2+9y^2+12(3) \\Rightarrow 196 = 4x^2+9y^2+36 \\Rightarrow 4x^2+9y^2 = 160 \\).",
+        "question_en": "If 2x+3y=14 and xy=3, the value of \\( 4x^2+9y^2 \\) is",
+        "options_en": [
+            "120",
+            "140",
+            "160",
+            "180"
+        ],
+        "explanation_en": "Correct answer option (3): 160. \\( (2x+3y)^2 = 4x^2+9y^2+12xy \\Rightarrow 196 = 4x^2+9y^2+36 \\Rightarrow 4x^2+9y^2 = 160 \\)."
+    },
+    {
+        "id": 33,
+        "question": "இயற்கணித முற்றொருமையைப் பயன்படுத்தி மதிப்பு காண்க: \\( 997^2 \\)",
+        "options": [
+            "1,006,009",
+            "994,009",
+            "996,009",
+            "994,109"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 994,009. \\( 997^2 = (1000-3)^2 = 1000^2 - 2(1000)(3) + 3^2 = 1000000 - 6000 + 9 = 994009 \\).",
+        "question_en": "Find the value using algebraic identity: \\( 997^2 \\)",
+        "options_en": [
+            "1,006,009",
+            "994,009",
+            "996,009",
+            "994,109"
+        ],
+        "explanation_en": "Correct answer option (2): 994,009. \\( (1000-3)^2 = 1000000 - 6000 + 9 = 994009 \\)."
+    },
+    {
+        "id": 34,
+        "question": "இயற்கணித முற்றொருமையைப் பயன்படுத்தி \\( 990 \\times 1010 \\) இன் மதிப்பு காண்க.",
+        "options": [
+            "999,900",
+            "1000100",
+            "10,020,100",
+            "980100"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 999,900. \\( (1000-10)(1000+10) = 1000^2 - 10^2 = 1000000 - 100 = 999900 \\).",
+        "question_en": "Find the value of \\( 990 \\times 1010 \\) using algebraic identity.",
+        "options_en": [
+            "999,900",
+            "1000100",
+            "10,020,100",
+            "980100"
+        ],
+        "explanation_en": "Correct answer option (1): 999,900. \\( (1000-10)(1000+10) = 1000^2 - 10^2 = 999900 \\)."
+    },
+    {
+        "id": 35,
+        "question": "\\( 297 \\times 303 \\) இன் பெருக்கற்பலனைப் பொருத்தமான முற்றொருமையைப் பயன்படுத்தி காணக் கிடைப்பது",
+        "options": [
+            "989991",
+            "90009",
+            "89991",
+            "91809"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 89991. \\( (300-3)(300+3) = 300^2 - 3^2 = 90000 - 9 = 89991 \\).",
+        "question_en": "The product of \\( 297 \\times 303 \\) using a suitable identity is",
+        "options_en": [
+            "989991",
+            "90009",
+            "89991",
+            "91809"
+        ],
+        "explanation_en": "Correct answer option (3): 89991. \\( (300-3)(300+3) = 90000 - 9 = 89991 \\)."
+    },
+    {
+        "id": 36,
+        "question": "\\( 103^2 \\) இன் மதிப்பை முற்றொருமையைப் பயன்படுத்திக் காண்க.",
+        "options": [
+            "100609",
+            "1609",
+            "10609",
+            "10909"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 10609. \\( (100+3)^2 = 100^2 + 2(100)(3) + 3^2 = 10000 + 600 + 9 = 10609 \\).",
+        "question_en": "Find the value of \\( 103^2 \\) using an identity.",
+        "options_en": [
+            "100609",
+            "1609",
+            "10609",
+            "10909"
+        ],
+        "explanation_en": "Correct answer option (3): 10609. \\( (100+3)^2 = 10000 + 600 + 9 = 10609 \\)."
+    },
+    {
+        "id": 37,
+        "question": "\\( (100.1)^2 \\) இன் மதிப்பை முற்றொருமையைப் பயன்படுத்திக் காண்க.",
+        "options": [
+            "9980.01",
+            "9999.99",
+            "1000.01",
+            "10020.01"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 10020.01. \\( (100+0.1)^2 = 100^2 + 2(100)(0.1) + 0.1^2 = 10000 + 20 + 0.01 = 10020.01 \\).",
+        "question_en": "Find the value of \\( (100.1)^2 \\) using an identity.",
+        "options_en": [
+            "9980.01",
+            "9999.99",
+            "1000.01",
+            "10020.01"
+        ],
+        "explanation_en": "Correct answer option (4): 10020.01. \\( (100+0.1)^2 = 10000 + 20 + 0.01 = 10020.01 \\)."
+    },
+    {
+        "id": 38,
+        "question": "\\( 1.9 \\times 2.1 \\) இன் மதிப்பை முற்றொருமையைப் பயன்படுத்திக் காண்க.",
+        "options": [
+            "3.99",
+            "4.01",
+            "4.41",
+            "3.61"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3.99. \\( (2-0.1)(2+0.1) = 2^2 - 0.1^2 = 4 - 0.01 = 3.99 \\).",
+        "question_en": "Find the value of \\( 1.9 \\times 2.1 \\) using an identity.",
+        "options_en": [
+            "3.99",
+            "4.01",
+            "4.41",
+            "3.61"
+        ],
+        "explanation_en": "Correct answer option (1): 3.99. \\( (2-0.1)(2+0.1) = 4 - 0.01 = 3.99 \\)."
+    },
+    {
+        "id": 39,
+        "question": "\\( 4.9^2 \\) இன் மதிப்பை முற்றொருமையைப் பயன்படுத்திக் காண்க.",
+        "options": [
+            "25.01",
+            "25.41",
+            "24.61",
+            "24.01"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 24.01. \\( (5-0.1)^2 = 5^2 - 2(5)(0.1) + 0.1^2 = 25 - 1 + 0.01 = 24.01 \\).",
+        "question_en": "Find the value of \\( 4.9^2 \\) using an identity.",
+        "options_en": [
+            "25.01",
+            "25.41",
+            "24.61",
+            "24.01"
+        ],
+        "explanation_en": "Correct answer option (4): 24.01. \\( (5-0.1)^2 = 25 - 1 + 0.01 = 24.01 \\)."
+    },
+    {
+        "id": 40,
+        "question": "ஒரு சதுர வடிவ நெல் வயலின் நடைபாதை 5 மீ அகலத்தில் வயலின் வெளிப்புறமாகச் செல்கிறது. வயலின் ஒரு பக்கத்தின் நீளம் 40 மீ எனில், அந்த நடைபாதையின் மொத்தப் பரப்பளவு",
+        "options": [
+            "425 ச.மீ",
+            "475 ச.மீ",
+            "900 ச.மீ",
+            "700 ச.மீ"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 900 ச.மீ. வெளிப்புறச் சதுரத்தின் பக்கம் = \\( 40 + 5 + 5 = 50 \\) மீ. நடைபாதையின் பரப்பளவு = வெளிப்புறச் சதுரத்தின் பரப்பு - உட்புறச் சதுரத்தின் பரப்பு = \\( 50^2 - 40^2 = 2500 - 1600 = 900 \\) ச.மீ.",
+        "question_en": "A pathway of 5m width runs outside a square paddy field. If the side of the field is 40m, the total area of the pathway is",
+        "options_en": [
+            "425 sq.m",
+            "475 sq.m",
+            "900 sq.m",
+            "700 sq.m"
+        ],
+        "explanation_en": "Correct answer option (3): 900 sq.m. Side of outer square = 40 + 5 + 5 = 50m. Area of path = \\( 50^2 - 40^2 = 2500 - 1600 = 900 \\) sq.m."
+    },
+    {
+        "id": 41,
+        "question": "ஒரு சதுர வடிவப் புல்வெளியைச் சுற்றி 2 மீ அகலமுள்ள நடைபாதை உள்ளது. நடைபாதையின் பரப்பளவு 136 மீ² எனில் புல்வெளியின் பரப்பளவு",
+        "options": [
+            "625 மீ²",
+            "225 மீ²",
+            "325 மீ²",
+            "361 மீ²"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 225 மீ². புல்வெளியின் பக்கம் 'a' என்க. நடைபாதையுடன் சேர்த்துப் பக்கம் = \\( a + 4 \\). நடைபாதையின் பரப்பு = \\( (a+4)^2 - a^2 = 136 \\Rightarrow a^2+8a+16-a^2 = 136 \\Rightarrow 8a = 120 \\Rightarrow a = 15 \\). புல்வெளியின் பரப்பு = \\( 15^2 = 225 \\).",
+        "question_en": "There is a 2 m wide path around a square lawn. If the area of the path is 136 sq.m, the area of the lawn is",
+        "options_en": [
+            "625 sq.m",
+            "225 sq.m",
+            "325 sq.m",
+            "361 sq.m"
+        ],
+        "explanation_en": "Correct answer option (2): 225 sq.m. Let the side of the lawn be 'a'. Side with path = \\( a + 4 \\). Area of path = \\( (a+4)^2 - a^2 = 136 \\Rightarrow 8a = 120 \\Rightarrow a = 15 \\). Area of lawn = \\( 15^2 = 225 \\)."
+    },
+    {
+        "id": 42,
+        "question": "48 மீ பக்க அளவுள்ள ஒரு சதுர வடிவ நெல் வயலைச் சுற்றி சீரான அகலத்தில் வரப்பு (நடைபாதை) அமைந்துள்ளது. வரப்பை உள்ளடக்கிய நிலத்தின் பக்க அளவு 52 மீ எனில் வரப்பின் பரப்பளவு எவ்வளவு?",
+        "options": [
+            "200 ச.மீ",
+            "400 ச.மீ",
+            "600 ச.மீ",
+            "800 ச.மீ"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 400 ச.மீ. வரப்பின் பரப்பளவு = வெளிப்புறச் சதுரத்தின் பரப்பு - உட்புறச் சதுரத்தின் பரப்பு = \\( 52^2 - 48^2 = (52+48)(52-48) = 100 \\times 4 = 400 \\) ச.மீ.",
+        "question_en": "A path of uniform width runs around a square paddy field of side 48 m. If the side of the land including the path is 52 m, what is the area of the path?",
+        "options_en": [
+            "200 sq.m",
+            "400 sq.m",
+            "600 sq.m",
+            "800 sq.m"
+        ],
+        "explanation_en": "Correct answer option (2): 400 sq.m. Area of path = Area of outer square - Area of inner square = \\( 52^2 - 48^2 = (52+48)(52-48) = 100 \\times 4 = 400 \\) sq.m."
+    },
+    {
+        "id": 43,
+        "question": "\\( X=a^2-1 \\) மற்றும் \\( Y=1-b^2 \\) எனில் \\( X+Y \\) இன் மதிப்பைக் காரணிப்படுத்தக் கிடைக்கும் காரணிகள்",
+        "options": [
+            "\\( (a+b)(a-b) \\)",
+            "\\( a^2+b^2 \\)",
+            "\\( (a+b)(a+b) \\)",
+            "\\( (a-b)(a-b) \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( (a+b)(a-b) \\). \\( X+Y = a^2-1+1-b^2 = a^2-b^2 \\). இதைக் காரணிப்படுத்தினால் \\( (a+b)(a-b) \\).",
+        "question_en": "If \\( X=a^2-1 \\) and \\( Y=1-b^2 \\), then the factors of \\( X+Y \\) are",
+        "options_en": [
+            "\\( (a+b)(a-b) \\)",
+            "\\( a^2+b^2 \\)",
+            "\\( (a+b)(a+b) \\)",
+            "\\( (a-b)(a-b) \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( (a+b)(a-b) \\). \\( X+Y = a^2-1+1-b^2 = a^2-b^2 = (a+b)(a-b) \\)."
+    },
+    {
+        "id": 44,
+        "question": "ஒரு சதுரத்தின் பரப்பளவு \\( (x^2+10x+25) \\) சதுர அலகுகள் எனில் அதன் பக்கத்தின் நீளம்",
+        "options": [
+            "\\( x+2 \\)",
+            "\\( x+5 \\)",
+            "\\( x+3 \\)",
+            "\\( x+4 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( x+5 \\). பரப்பளவு = \\( x^2+10x+25 = (x+5)^2 \\). எனவே பக்கத்தின் நீளம் \\( x+5 \\).",
+        "question_en": "If the area of a square is \\( (x^2+10x+25) \\) square units, its side length is",
+        "options_en": [
+            "\\( x+2 \\)",
+            "\\( x+5 \\)",
+            "\\( x+3 \\)",
+            "\\( x+4 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( x+5 \\). Area = \\( x^2+10x+25 = (x+5)^2 \\). Hence, the side is \\( x+5 \\)."
+    },
+    {
+        "id": 45,
+        "question": "\\( a^2+b^2=117 \\) மற்றும் \\( ab=54 \\) எனில் \\( \\frac{a+b}{a-b} \\) இன் மதிப்பு",
+        "options": [
+            "5",
+            "\\( \\frac{12}{3} \\)",
+            "7",
+            "\\( \\frac{11}{3} \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 5. \\( (a+b)^2 = a^2+b^2+2ab = 117+2(54) = 225 \\Rightarrow a+b = 15 \\). \\( (a-b)^2 = a^2+b^2-2ab = 117-108 = 9 \\Rightarrow a-b = 3 \\). எனவே \\( \\frac{15}{3} = 5 \\).",
+        "question_en": "If \\( a^2+b^2=117 \\) and \\( ab=54 \\), the value of \\( \\frac{a+b}{a-b} \\) is",
+        "options_en": [
+            "5",
+            "\\( \\frac{12}{3} \\)",
+            "7",
+            "\\( \\frac{11}{3} \\)"
+        ],
+        "explanation_en": "Correct answer option (1): 5. \\( (a+b)^2 = 117+108 = 225 \\Rightarrow a+b = 15 \\). \\( (a-b)^2 = 117-108 = 9 \\Rightarrow a-b = 3 \\). Thus, \\( \\frac{15}{3} = 5 \\)."
+    },
+    {
+        "id": 46,
+        "question": "\\( \\frac{18.2^2 - 11.8^2}{6.4} \\) இன் மதிப்பு",
+        "options": [
+            "24.6",
+            "30",
+            "6.4",
+            "20"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 30. \\( \\frac{(18.2+11.8)(18.2-11.8)}{6.4} = \\frac{30 \\times 6.4}{6.4} = 30 \\).",
+        "question_en": "The value of \\( \\frac{18.2^2 - 11.8^2}{6.4} \\) is",
+        "options_en": [
+            "24.6",
+            "30",
+            "6.4",
+            "20"
+        ],
+        "explanation_en": "Correct answer option (2): 30. Using the identity \\( a^2-b^2 \\), we get \\( \\frac{(18.2+11.8)(18.2-11.8)}{6.4} = \\frac{30 \\times 6.4}{6.4} = 30 \\)."
+    },
+    {
+        "id": 47,
+        "question": "\\( \\frac{(4356 \\times 4356) - (2171 \\times 2171)}{4356+2171} \\) இன் மதிப்பு",
+        "options": [
+            "0",
+            "2185",
+            "4356",
+            "2171"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2185. இது \\( \\frac{a^2-b^2}{a+b} = a-b \\) என்ற வடிவில் உள்ளது. எனவே, \\( 4356 - 2171 = 2185 \\).",
+        "question_en": "The value of \\( \\frac{(4356 \\times 4356) - (2171 \\times 2171)}{4356+2171} \\) is",
+        "options_en": [
+            "0",
+            "2185",
+            "4356",
+            "2171"
+        ],
+        "explanation_en": "Correct answer option (2): 2185. This is in the form \\( \\frac{a^2-b^2}{a+b} = a-b \\). Thus, \\( 4356 - 2171 = 2185 \\)."
+    },
+    {
+        "id": 48,
+        "question": "\\( \\frac{75983 \\times 75983 - 45983 \\times 45983}{30000} \\) இன் மதிப்பு",
+        "options": [
+            "45983",
+            "121966",
+            "120669",
+            "121196"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 121966. இது \\( \\frac{a^2-b^2}{a-b} = a+b \\) என்ற வடிவில் உள்ளது (ஏனெனில் 75983 - 45983 = 30000). எனவே விடை \\( 75983 + 45983 = 121966 \\).",
+        "question_en": "The value of \\( \\frac{75983 \\times 75983 - 45983 \\times 45983}{30000} \\) is",
+        "options_en": [
+            "45983",
+            "121966",
+            "120669",
+            "121196"
+        ],
+        "explanation_en": "Correct answer option (2): 121966. This is in the form \\( \\frac{a^2-b^2}{a-b} = a+b \\). Thus, \\( 75983 + 45983 = 121966 \\)."
+    },
+    {
+        "id": 49,
+        "question": "\\( \\frac{6.25 \\times 6.25 - 1.75 \\times 1.75}{4.5} \\) இன் மதிப்பு",
+        "options": [
+            "4.5",
+            "6",
+            "8",
+            "10.9"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 8. இது \\( \\frac{a^2-b^2}{a-b} = a+b \\) என்ற வடிவில் உள்ளது (ஏனெனில் 6.25 - 1.75 = 4.5). எனவே விடை \\( 6.25 + 1.75 = 8 \\).",
+        "question_en": "The value of \\( \\frac{6.25 \\times 6.25 - 1.75 \\times 1.75}{4.5} \\) is",
+        "options_en": [
+            "4.5",
+            "6",
+            "8",
+            "10.9"
+        ],
+        "explanation_en": "Correct answer option (3): 8. This is in the form \\( \\frac{a^2-b^2}{a-b} = a+b \\). Thus, \\( 6.25 + 1.75 = 8 \\)."
+    },
+    {
+        "id": 50,
+        "question": "\\( x+\\frac{1}{x}=6 \\) எனில் \\( x^2+\\frac{1}{x^2}= \\)",
+        "options": [
+            "39",
+            "32",
+            "34",
+            "36"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 34. இருபுறமும் வர்க்கப்படுத்தினால், \\( (x+\\frac{1}{x})^2 = 36 \\Rightarrow x^2+\\frac{1}{x^2}+2 = 36 \\Rightarrow x^2+\\frac{1}{x^2} = 34 \\).",
+        "question_en": "If \\( x+\\frac{1}{x}=6 \\), then \\( x^2+\\frac{1}{x^2}= \\)",
+        "options_en": [
+            "39",
+            "32",
+            "34",
+            "36"
+        ],
+        "explanation_en": "Correct answer option (3): 34. Squaring both sides gives \\( x^2+\\frac{1}{x^2}+2 = 36 \\Rightarrow x^2+\\frac{1}{x^2} = 34 \\)."
+    },
+    {
+        "id": 51,
+        "question": "\\( x^2+\\frac{1}{x^2}=102 \\) எனில் \\( (x-\\frac{1}{x}) \\) இன் மதிப்பு",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "13"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 10. \\( (x-\\frac{1}{x})^2 = x^2+\\frac{1}{x^2}-2 = 102 - 2 = 100 \\). எனவே, \\( x-\\frac{1}{x} = \\sqrt{100} = 10 \\).",
+        "question_en": "If \\( x^2+\\frac{1}{x^2}=102 \\), the value of \\( (x-\\frac{1}{x}) \\) is",
+        "options_en": [
+            "8",
+            "10",
+            "12",
+            "13"
+        ],
+        "explanation_en": "Correct answer option (2): 10. \\( (x-\\frac{1}{x})^2 = x^2+\\frac{1}{x^2}-2 = 102 - 2 = 100 \\). Therefore, \\( x-\\frac{1}{x} = \\sqrt{100} = 10 \\)."
+    },
+    {
+        "id": 52,
+        "question": "\\( x^2-4x+4 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (x+2)(x+2) \\)",
+            "\\( (x+4)(x+1) \\)",
+            "\\( (x-1)(x-4) \\)",
+            "\\( (x-2)(x-2) \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( (x-2)(x-2) \\). இது \\( a^2-2ab+b^2 = (a-b)^2 \\) என்ற வடிவில் உள்ளது. \\( x^2 - 2(x)(2) + 2^2 = (x-2)^2 \\).",
+        "question_en": "The factors of \\( x^2-4x+4 \\) are",
+        "options_en": [
+            "\\( (x+2)(x+2) \\)",
+            "\\( (x+4)(x+1) \\)",
+            "\\( (x-1)(x-4) \\)",
+            "\\( (x-2)(x-2) \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( (x-2)(x-2) \\). It is in the form \\( a^2-2ab+b^2 = (a-b)^2 \\), giving \\( (x-2)^2 \\)."
+    },
+    {
+        "id": 53,
+        "question": "\\( x^2-6x+9 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (x-3)(x-3) \\)",
+            "\\( (x-3)(x+3) \\)",
+            "\\( (x+3)(x+3) \\)",
+            "\\( (x-6)(x-9) \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( (x-3)(x-3) \\). \\( x^2 - 2(x)(3) + 3^2 = (x-3)^2 \\).",
+        "question_en": "The factors of \\( x^2-6x+9 \\) are",
+        "options_en": [
+            "\\( (x-3)(x-3) \\)",
+            "\\( (x-3)(x+3) \\)",
+            "\\( (x+3)(x+3) \\)",
+            "\\( (x-6)(x-9) \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( (x-3)(x-3) \\). \\( x^2 - 2(x)(3) + 3^2 = (x-3)^2 \\)."
+    },
+    {
+        "id": 54,
+        "question": "\\( 4x^2-9y^2 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (2x-3y)(2x-3y) \\)",
+            "\\( (2x+3y)(2x-3y) \\)",
+            "\\( (2x+3y)(2x+3y) \\)",
+            "\\( (4x-9y)(4x+9y) \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (2x+3y)(2x-3y) \\). இது \\( (2x)^2 - (3y)^2 \\) என எழுதலாம். \\( a^2-b^2 = (a+b)(a-b) \\) முற்றொருமைப்படி இது \\( (2x+3y)(2x-3y) \\) ஆகும்.",
+        "question_en": "The factors of \\( 4x^2-9y^2 \\) are",
+        "options_en": [
+            "\\( (2x-3y)(2x-3y) \\)",
+            "\\( (2x+3y)(2x-3y) \\)",
+            "\\( (2x+3y)(2x+3y) \\)",
+            "\\( (4x-9y)(4x+9y) \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (2x+3y)(2x-3y) \\). This is \\( (2x)^2 - (3y)^2 \\), which factors into \\( (2x+3y)(2x-3y) \\)."
+    },
+    {
+        "id": 55,
+        "question": "\\( a^2-1 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (a+1)(a+1) \\)",
+            "\\( (a+1)(a-1) \\)",
+            "\\( (a-1)(a-1) \\)",
+            "\\( (a^2+1)(a^2-1) \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (a+1)(a-1) \\). \\( a^2-1^2 = (a+1)(a-1) \\).",
+        "question_en": "The factors of \\( a^2-1 \\) are",
+        "options_en": [
+            "\\( (a+1)(a+1) \\)",
+            "\\( (a+1)(a-1) \\)",
+            "\\( (a-1)(a-1) \\)",
+            "\\( (a^2+1)(a^2-1) \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (a+1)(a-1) \\). \\( a^2-1^2 = (a+1)(a-1) \\)."
+    },
+    {
+        "id": 56,
+        "question": "\\( x^2-8x+16 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (x+4)(x-4) \\)",
+            "\\( (x-4)(x-4) \\)",
+            "\\( (x+4)(x+4) \\)",
+            "\\( (x-2)(x-8) \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (x-4)(x-4) \\). \\( x^2 - 2(x)(4) + 4^2 = (x-4)^2 \\).",
+        "question_en": "The factors of \\( x^2-8x+16 \\) are",
+        "options_en": [
+            "\\( (x+4)(x-4) \\)",
+            "\\( (x-4)(x-4) \\)",
+            "\\( (x+4)(x+4) \\)",
+            "\\( (x-2)(x-8) \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (x-4)(x-4) \\). \\( x^2 - 2(x)(4) + 4^2 = (x-4)^2 \\)."
+    },
+    {
+        "id": 57,
+        "question": "\\( y^2+20y+100 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (y+10)(y-10) \\)",
+            "\\( (y-10)(y-10) \\)",
+            "\\( (y+10)(y+10) \\)",
+            "\\( (y+4)(y+25) \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (y+10)(y+10) \\). \\( y^2 + 2(y)(10) + 10^2 = (y+10)^2 \\).",
+        "question_en": "The factors of \\( y^2+20y+100 \\) are",
+        "options_en": [
+            "\\( (y+10)(y-10) \\)",
+            "\\( (y-10)(y-10) \\)",
+            "\\( (y+10)(y+10) \\)",
+            "\\( (y+4)(y+25) \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (y+10)(y+10) \\). \\( y^2 + 2(y)(10) + 10^2 = (y+10)^2 \\)."
+    },
+    {
+        "id": 58,
+        "question": "\\( 36m^2+60m+25 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (6m+5)(6m-5) \\)",
+            "\\( (6m-5)(6m-5) \\)",
+            "\\( (6m+5)(6m+5) \\)",
+            "\\( 6(m+5)6(m+5) \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (6m+5)(6m+5) \\). \\( (6m)^2 + 2(6m)(5) + 5^2 = (6m+5)^2 \\).",
+        "question_en": "The factors of \\( 36m^2+60m+25 \\) are",
+        "options_en": [
+            "\\( (6m+5)(6m-5) \\)",
+            "\\( (6m-5)(6m-5) \\)",
+            "\\( (6m+5)(6m+5) \\)",
+            "\\( 6(m+5)6(m+5) \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (6m+5)(6m+5) \\). \\( (6m)^2 + 2(6m)(5) + 5^2 = (6m+5)^2 \\)."
+    },
+    {
+        "id": 59,
+        "question": "\\( 64x^2-112xy+49y^2 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (8x-7y)(8x-7y) \\)",
+            "\\( (8x+7y)(8x-7y) \\)",
+            "\\( (8x+7y)(8x+7y) \\)",
+            "\\( 8(x+7y)7(8x+y) \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( (8x-7y)(8x-7y) \\). \\( (8x)^2 - 2(8x)(7y) + (7y)^2 = (8x-7y)^2 \\).",
+        "question_en": "The factors of \\( 64x^2-112xy+49y^2 \\) are",
+        "options_en": [
+            "\\( (8x-7y)(8x-7y) \\)",
+            "\\( (8x+7y)(8x-7y) \\)",
+            "\\( (8x+7y)(8x+7y) \\)",
+            "\\( 8(x+7y)7(8x+y) \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( (8x-7y)(8x-7y) \\). \\( (8x)^2 - 2(8x)(7y) + (7y)^2 = (8x-7y)^2 \\)."
+    },
+    {
+        "id": 60,
+        "question": "\\( 64x^2-81y^2 \\) இன் காரணிகள்",
+        "options": [
+            "\\( 8(x-9y)8(x+9y) \\)",
+            "\\( (8x-9)y(8x+9)y \\)",
+            "\\( (8x-9y)(8x+9y) \\)",
+            "\\( (8x-9y)(8x-9y) \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (8x-9y)(8x+9y) \\). இது \\( (8x)^2 - (9y)^2 \\) ஆகும். முற்றொருமைப்படி \\( (8x+9y)(8x-9y) \\).",
+        "question_en": "The factors of \\( 64x^2-81y^2 \\) are",
+        "options_en": [
+            "\\( 8(x-9y)8(x+9y) \\)",
+            "\\( (8x-9)y(8x+9)y \\)",
+            "\\( (8x-9y)(8x+9y) \\)",
+            "\\( (8x-9y)(8x-9y) \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (8x-9y)(8x+9y) \\). This is \\( (8x)^2 - (9y)^2 \\), which factors as \\( (8x+9y)(8x-9y) \\)."
+    },
+    {
+        "id": 61,
+        "question": "\\( a^2+6ab+9b^2-c^2 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (a+3b+c)(a+3b+c) \\)",
+            "\\( (a-3b+c)(a-3b-c) \\)",
+            "\\( (a+3b-c)(a+3b+c) \\)",
+            "\\( (a+3b-c)(a-3b-c) \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (a+3b-c)(a+3b+c) \\). முதல் மூன்று உறுப்புகள் \\( (a+3b)^2 \\) ஆகும். எனவே, \\( (a+3b)^2 - c^2 = (a+3b+c)(a+3b-c) \\).",
+        "question_en": "The factors of \\( a^2+6ab+9b^2-c^2 \\) are",
+        "options_en": [
+            "\\( (a+3b+c)(a+3b+c) \\)",
+            "\\( (a-3b+c)(a-3b-c) \\)",
+            "\\( (a+3b-c)(a+3b+c) \\)",
+            "\\( (a+3b-c)(a-3b-c) \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (a+3b-c)(a+3b+c) \\). The first three terms form \\( (a+3b)^2 \\). Then \\( (a+3b)^2 - c^2 = (a+3b+c)(a+3b-c) \\)."
+    },
+    {
+        "id": 62,
+        "question": "\\( 9x^2+30xy+25y^2 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (3x+5y)(3x+5y) \\)",
+            "\\( (3x-5y)(3x+5y) \\)",
+            "\\( (3x-5y)(3x-5y) \\)",
+            "\\( (3x+5y)(3+5y) \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( (3x+5y)(3x+5y) \\). இது \\( (3x)^2 + 2(3x)(5y) + (5y)^2 = (3x+5y)^2 \\) ஆகும்.",
+        "question_en": "The factors of \\( 9x^2+30xy+25y^2 \\) are",
+        "options_en": [
+            "\\( (3x+5y)(3x+5y) \\)",
+            "\\( (3x-5y)(3x+5y) \\)",
+            "\\( (3x-5y)(3x-5y) \\)",
+            "\\( (3x+5y)(3+5y) \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( (3x+5y)(3x+5y) \\). This expands to \\( (3x)^2 + 2(3x)(5y) + (5y)^2 = (3x+5y)^2 \\)."
+    },
+    {
+        "id": 63,
+        "question": "\\( 4x^2-121y^2 \\) இன் ஒரு காரணி \\( 2x+11y \\) எனில் மற்றொரு காரணி",
+        "options": [
+            "\\( 2x-11y \\)",
+            "\\( 4x-121y \\)",
+            "\\( 4x+121y \\)",
+            "\\( 11y-2x \\)"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): \\( 2x-11y \\). \\( (2x)^2 - (11y)^2 = (2x+11y)(2x-11y) \\).",
+        "question_en": "If one factor of \\( 4x^2-121y^2 \\) is \\( 2x+11y \\), the other factor is",
+        "options_en": [
+            "\\( 2x-11y \\)",
+            "\\( 4x-121y \\)",
+            "\\( 4x+121y \\)",
+            "\\( 11y-2x \\)"
+        ],
+        "explanation_en": "Correct answer option (1): \\( 2x-11y \\). Expanding gives \\( (2x)^2 - (11y)^2 = (2x+11y)(2x-11y) \\)."
+    },
+    {
+        "id": 64,
+        "question": "\\( x^2+kx+12=0 \\) என்ற சமன்பாட்டில் \\( x=4 \\) எனில் k இன் மதிப்பு",
+        "options": [
+            "k=4",
+            "k=-4",
+            "k=7",
+            "k=-7"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): k=-7. சமன்பாட்டில் x=4 ஐப் பிரதியிட்டால், \\( 16 + 4k + 12 = 0 \\Rightarrow 4k = -28 \\Rightarrow k = -7 \\).",
+        "question_en": "In the equation \\( x^2+kx+12=0 \\), if x=4, the value of k is",
+        "options_en": [
+            "k=4",
+            "k=-4",
+            "k=7",
+            "k=-7"
+        ],
+        "explanation_en": "Correct answer option (4): k=-7. Substituting x=4 gives \\( 16 + 4k + 12 = 0 \\Rightarrow 4k = -28 \\Rightarrow k = -7 \\)."
+    },
+    {
+        "id": 65,
+        "question": "\\( x^4-y^4 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (x^2+y^2)^2 \\)",
+            "\\( (x^2+y^2)(x+y) \\)",
+            "\\( (x^2+y^2)(x-y) \\)",
+            "\\( (x^2+y^2)(x+y)(x-y) \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( (x^2+y^2)(x+y)(x-y) \\). முதலில் இதை \\( (x^2)^2 - (y^2)^2 = (x^2+y^2)(x^2-y^2) \\) என எழுதலாம். பிறகு \\( (x^2-y^2) \\) ஐ \\( (x+y)(x-y) \\) எனப் பிரிக்கலாம்.",
+        "question_en": "The factors of \\( x^4-y^4 \\) are",
+        "options_en": [
+            "\\( (x^2+y^2)^2 \\)",
+            "\\( (x^2+y^2)(x+y) \\)",
+            "\\( (x^2+y^2)(x-y) \\)",
+            "\\( (x^2+y^2)(x+y)(x-y) \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( (x^2+y^2)(x+y)(x-y) \\). This breaks down to \\( (x^2+y^2)(x^2-y^2) \\), and then further to \\( (x^2+y^2)(x+y)(x-y) \\)."
+    },
+    {
+        "id": 66,
+        "question": "\\( x^4-(y+z)^2 \\) இன் காரணிகள்",
+        "options": [
+            "\\( (x^2-y+z)(x^2-y-z) \\)",
+            "\\( (x^2+y+z)(x^2-y-z) \\)",
+            "\\( (x^2+y-z)(x^2-y-z) \\)",
+            "\\( (x^2+y+z)(x^2-y+z) \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (x^2+y+z)(x^2-y-z) \\). \\( (x^2)^2 - (y+z)^2 = (x^2 + y + z)(x^2 - (y+z)) = (x^2+y+z)(x^2-y-z) \\).",
+        "question_en": "The factors of \\( x^4-(y+z)^2 \\) are",
+        "options_en": [
+            "\\( (x^2-y+z)(x^2-y-z) \\)",
+            "\\( (x^2+y+z)(x^2-y-z) \\)",
+            "\\( (x^2+y-z)(x^2-y-z) \\)",
+            "\\( (x^2+y+z)(x^2-y+z) \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (x^2+y+z)(x^2-y-z) \\). \\( (x^2)^2 - (y+z)^2 = (x^2 + y + z)(x^2 - (y+z)) = (x^2+y+z)(x^2-y-z) \\)."
+    },
+    {
+        "id": 67,
+        "question": "\\( a^2+b^2-c^2-2ab \\) இன் காரணிகள்",
+        "options": [
+            "\\( (a-b-c)(a+b+c) \\)",
+            "\\( (a+b-c)(a-b-c) \\)",
+            "\\( (a-b+c)(a-b-c) \\)",
+            "\\( (a+b-c)(a-b+c) \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (a-b+c)(a-b-c) \\). \\( a^2 - 2ab + b^2 - c^2 = (a-b)^2 - c^2 = (a-b+c)(a-b-c) \\).",
+        "question_en": "The factors of \\( a^2+b^2-c^2-2ab \\) are",
+        "options_en": [
+            "\\( (a-b-c)(a+b+c) \\)",
+            "\\( (a+b-c)(a-b-c) \\)",
+            "\\( (a-b+c)(a-b-c) \\)",
+            "\\( (a+b-c)(a-b+c) \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (a-b+c)(a-b-c) \\). Rearranging gives \\( (a-b)^2 - c^2 \\), which factors into \\( (a-b+c)(a-b-c) \\)."
+    },
+    {
+        "id": 68,
+        "question": "\\( x \\le 7 \\), x என்பது ஓர் இயல் எண் என்ற அசமன்பாட்டின் தீர்வுகள்",
+        "options": [
+            "1, 2, 3, 4, 5, 6",
+            "1, 2, 3, 4, 5, 6, 7",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1, 2, 3, 4, 5, 6, 7. இயல் எண்கள் 1 இலிருந்து தொடங்கும். \\( \\le 7 \\) என்பதால் 7 உம் உள்ளடங்கும்.",
+        "question_en": "The solutions to the inequality \\( x \\le 7 \\), where x is a natural number, are",
+        "options_en": [
+            "1, 2, 3, 4, 5, 6",
+            "1, 2, 3, 4, 5, 6, 7",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6"
+        ],
+        "explanation_en": "Correct answer option (2): 1, 2, 3, 4, 5, 6, 7. Natural numbers start from 1, and since it is \\( \\le 7 \\), 7 is also included."
+    },
+    {
+        "id": 69,
+        "question": "\\( x-6 < 1 \\), x என்பது ஓர் இயல் எண் என்ற அசமன்பாட்டின் தீர்வுகள்",
+        "options": [
+            "1, 2, 3, 4, 5, 6, 7",
+            "1, 2, 3, 4, 5, 6",
+            "0, 1, 2, 6",
+            "0, 1, 2, 7"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1, 2, 3, 4, 5, 6. \\( x < 7 \\). இயல் எண்கள் 1 இலிருந்து தொடங்கி 7 ஐ விடச் சிறியதாக இருக்க வேண்டும்.",
+        "question_en": "The solutions to the inequality \\( x-6 < 1 \\), where x is a natural number, are",
+        "options_en": [
+            "1, 2, 3, 4, 5, 6, 7",
+            "1, 2, 3, 4, 5, 6",
+            "0, 1, 2, 6",
+            "0, 1, 2, 7"
+        ],
+        "explanation_en": "Correct answer option (2): 1, 2, 3, 4, 5, 6. \\( x < 7 \\). The natural numbers less than 7."
+    },
+    {
+        "id": 70,
+        "question": "\\( 3 \\le p \\le 6 \\) என்னும் அசமன்பாட்டின் தீர்வுகள் (இங்கு p என்பது ஓர் இயல் எண்)",
+        "options": [
+            "4, 5 மற்றும் 6",
+            "3, 4 மற்றும் 5",
+            "4 மற்றும் 5",
+            "3, 4, 5 மற்றும் 6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 3, 4, 5 மற்றும் 6. 3 மற்றும் 6 உள்ளடங்கும்.",
+        "question_en": "The solutions to the inequality \\( 3 \\le p \\le 6 \\) (where p is a natural number) are",
+        "options_en": [
+            "4, 5 and 6",
+            "3, 4 and 5",
+            "4 and 5",
+            "3, 4, 5 and 6"
+        ],
+        "explanation_en": "Correct answer option (4): 3, 4, 5 and 6. Both 3 and 6 are included."
+    },
+    {
+        "id": 71,
+        "question": "\\( k > -5 \\), இங்கு k என்பது ஒரு முழு எனில் k இன் தீர்வுகள்",
+        "options": [
+            "-5, -4, -3, ...",
+            "-4, -3, -2, -1, ...",
+            "-4, -3, -2, -1, 0",
+            "-6, -5, -4, -3, -2, -1"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): -4, -3, -2, -1, ... -5 ஐ விடப் பெரிய முழுக்கள் -4, -3, -2... எனத் தொடரும்.",
+        "question_en": "If \\( k > -5 \\) and k is an integer, the solutions for k are",
+        "options_en": [
+            "-5, -4, -3, ...",
+            "-4, -3, -2, -1, ...",
+            "-4, -3, -2, -1, 0",
+            "-6, -5, -4, -3, -2, -1"
+        ],
+        "explanation_en": "Correct answer option (2): -4, -3, -2, -1, ... Integers greater than -5 start from -4."
+    },
+    {
+        "id": 72,
+        "question": "\\( -7 < y \\), இங்கு y என்பது ஒரு குறை முழு எனில் y இன் தீர்வுகள்",
+        "options": [
+            "1, 2, 3, 4, 5, 6, ...",
+            "0, 1, 2, 3, 4, 5, 6, ...",
+            "-6, -5, -4, -3, -2, -1",
+            "-7, -6, -5, -4, -3, -2, -1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -6, -5, -4, -3, -2, -1. y ஆனது -7 ஐ விடப் பெரிய குறை முழு எண்களை (Negative Integers) குறிக்கிறது.",
+        "question_en": "If \\( -7 < y \\) and y is a negative integer, the solutions for y are",
+        "options_en": [
+            "1, 2, 3, 4, 5, 6, ...",
+            "0, 1, 2, 3, 4, 5, 6, ...",
+            "-6, -5, -4, -3, -2, -1",
+            "-7, -6, -5, -4, -3, -2, -1"
+        ],
+        "explanation_en": "Correct answer option (3): -6, -5, -4, -3, -2, -1. y must be a negative integer greater than -7."
+    },
+    {
+        "id": 73,
+        "question": "\\( -4 \\le x \\le 8 \\), இங்கு x என்பது ஒரு இயல் எண் எனில் x இன் தீர்வுகள்",
+        "options": [
+            "-4, -3, -2, -1, 0, 1, 2, ..., 8",
+            "0, 1, 2, 3, 4, 5, 6, 7, 8",
+            "1, 2, 3, 4, 5, 6, 7, 8",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1, 2, 3, 4, 5, 6, 7, 8. x இயல் எண் என்பதால் அது 1 இலிருந்து மட்டுமே தொடங்கும்.",
+        "question_en": "If \\( -4 \\le x \\le 8 \\) and x is a natural number, the solutions for x are",
+        "options_en": [
+            "-4, -3, -2, -1, 0, 1, 2, ..., 8",
+            "0, 1, 2, 3, 4, 5, 6, 7, 8",
+            "1, 2, 3, 4, 5, 6, 7, 8",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7"
+        ],
+        "explanation_en": "Correct answer option (3): 1, 2, 3, 4, 5, 6, 7, 8. Since x is a natural number, it must start from 1."
+    },
+    {
+        "id": 74,
+        "question": "\\( 3x+9 \\le 12 \\), இங்கு x என்பது முழுக்கள் எனில் x இன் தீர்வுகள்",
+        "options": [
+            "1, 2, 3, ...",
+            "1, 0, -1, -2, ...",
+            "-1, -2, -3, ...",
+            "0, -1, -2, ..."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1, 0, -1, -2, ... \\( 3x \\le 3 \\Rightarrow x \\le 1 \\). முழுக்கள் என்பதால் 1, 0, -1... எனச் செல்லும்.",
+        "question_en": "If \\( 3x+9 \\le 12 \\) and x is an integer, the solutions for x are",
+        "options_en": [
+            "1, 2, 3, ...",
+            "1, 0, -1, -2, ...",
+            "-1, -2, -3, ...",
+            "0, -1, -2, ..."
+        ],
+        "explanation_en": "Correct answer option (2): 1, 0, -1, -2, ... Solving gives \\( 3x \\le 3 \\Rightarrow x \\le 1 \\). Since x is an integer, it includes 1, 0, -1..."
+    },
+    {
+        "id": 75,
+        "question": "\\( 2a+3 \\le 13 \\), a என்பது ஒரு முழு எண். 'a' பெறும் மதிப்புகள்",
+        "options": [
+            "1, 2, 3, 4",
+            "1, 2, 3, 4, 5",
+            "0, 1, 2, 3, 4",
+            "0, 1, 2, 3, 4, 5"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 0, 1, 2, 3, 4, 5. \\( 2a \\le 10 \\Rightarrow a \\le 5 \\). முழு எண்கள் (Whole numbers) 0 இலிருந்து தொடங்கும்.",
+        "question_en": "If \\( 2a+3 \\le 13 \\) and a is a whole number. The values 'a' can take are",
+        "options_en": [
+            "1, 2, 3, 4",
+            "1, 2, 3, 4, 5",
+            "0, 1, 2, 3, 4",
+            "0, 1, 2, 3, 4, 5"
+        ],
+        "explanation_en": "Correct answer option (4): 0, 1, 2, 3, 4, 5. \\( 2a \\le 10 \\Rightarrow a \\le 5 \\). Whole numbers start from 0."
+    },
+    {
+        "id": 76,
+        "question": "\\( 6x-7 \\ge 35 \\), x என்பது ஒரு முழு எனில் x இன் தீர்வுகள்",
+        "options": [
+            "0, 1, 2, 3, 4, 5, 6, 7",
+            "0, 1, 2, 3, 4, 5, 6",
+            "7, 8, 9, 10, ...",
+            "-7, -6, -5, -4, -3, -2, -1"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 7, 8, 9, 10, ... \\( 6x \\ge 42 \\Rightarrow x \\ge 7 \\).",
+        "question_en": "If \\( 6x-7 \\ge 35 \\) and x is an integer, the solutions for x are",
+        "options_en": [
+            "0, 1, 2, 3, 4, 5, 6, 7",
+            "0, 1, 2, 3, 4, 5, 6",
+            "7, 8, 9, 10, ...",
+            "-7, -6, -5, -4, -3, -2, -1"
+        ],
+        "explanation_en": "Correct answer option (3): 7, 8, 9, 10, ... Solving gives \\( 6x \\ge 42 \\Rightarrow x \\ge 7 \\)."
+    },
+    {
+        "id": 77,
+        "question": "\\( 4x-9 > -33 \\), x என்பது ஒரு குறை முழு எனில்",
+        "options": [
+            "-5, -4, -3, -2, -1",
+            "-4, -3, -2, -1, 0",
+            "1, 2, 3, 4, 5",
+            "0, 1, 2, 3, 4, 5"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): -5, -4, -3, -2, -1. \\( 4x > -24 \\Rightarrow x > -6 \\). குறை முழுக்கள் என்பதால் -5 இலிருந்து -1 வரை.",
+        "question_en": "If \\( 4x-9 > -33 \\) and x is a negative integer, then",
+        "options_en": [
+            "-5, -4, -3, -2, -1",
+            "-4, -3, -2, -1, 0",
+            "1, 2, 3, 4, 5",
+            "0, 1, 2, 3, 4, 5"
+        ],
+        "explanation_en": "Correct answer option (1): -5, -4, -3, -2, -1. Solving gives \\( 4x > -24 \\Rightarrow x > -6 \\). The negative integers greater than -6 are -5 to -1."
+    },
+    {
+        "id": 78,
+        "question": "\\( 5-7x \\ge 33 \\), இங்கு x என்பது முழுக்கள் எனில்",
+        "options": [
+            "-3, -2, -1, ...",
+            "-5, -6, -7, ...",
+            "-4, -5, -6, ...",
+            "-4, -3, -2, -1, ..."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): -4, -5, -6, ... \\( -7x \\ge 28 \\Rightarrow x \\le -4 \\).",
+        "question_en": "If \\( 5-7x \\ge 33 \\) and x is an integer, then",
+        "options_en": [
+            "-3, -2, -1, ...",
+            "-5, -6, -7, ...",
+            "-4, -5, -6, ...",
+            "-4, -3, -2, -1, ..."
+        ],
+        "explanation_en": "Correct answer option (3): -4, -5, -6, ... Solving gives \\( -7x \\ge 28 \\Rightarrow x \\le -4 \\)."
+    },
+    {
+        "id": 79,
+        "question": "\\( 2x+4 < 18 \\), இங்கு x ஓர் இயல் எண் எனில், x பெறக்கூடிய மதிப்புகள்",
+        "options": [
+            "8, 9, 10, ...",
+            "7, 8, 9, 10, ...",
+            "1, 2, 3, 4",
+            "1, 2, 3, 4, 5, 6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1, 2, 3, 4, 5, 6. \\( 2x < 14 \\Rightarrow x < 7 \\). இயல் எண்கள் 1 இலிருந்து தொடங்கும்.",
+        "question_en": "If \\( 2x+4 < 18 \\) and x is a natural number, the values x can take are",
+        "options_en": [
+            "8, 9, 10, ...",
+            "7, 8, 9, 10, ...",
+            "1, 2, 3, 4",
+            "1, 2, 3, 4, 5, 6"
+        ],
+        "explanation_en": "Correct answer option (4): 1, 2, 3, 4, 5, 6. Solving gives \\( 2x < 14 \\Rightarrow x < 7 \\). The natural numbers less than 7 are 1 to 6."
+    },
+    {
+        "id": 80,
+        "question": "\\( -8 < 2x < 10 \\), இங்கு x என்பது ஓர் இயல் எண்",
+        "options": [
+            "-7, -6, ..., 8, 9",
+            "-5, -4, ..., 0",
+            "1, 2, 3, 4",
+            "-3, -2, -1, 0, 1, 2, 3, 4"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 1, 2, 3, 4. \\( -4 < x < 5 \\). x ஓர் இயல் எண் என்பதால் x ஆனது 1 இலிருந்து தொடங்கும். எனவே 1, 2, 3, 4.",
+        "question_en": "If \\( -8 < 2x < 10 \\) and x is a natural number, then",
+        "options_en": [
+            "-7, -6, ..., 8, 9",
+            "-5, -4, ..., 0",
+            "1, 2, 3, 4",
+            "-3, -2, -1, 0, 1, 2, 3, 4"
+        ],
+        "explanation_en": "Correct answer option (3): 1, 2, 3, 4. Dividing by 2 gives \\( -4 < x < 5 \\). Since x is a natural number, it must be greater than 0, resulting in 1, 2, 3, 4."
+    },
+    {
+        "id": 81,
+        "question": "\\( 5x+5 \\le 15 \\) என்னும் அசமன்பாட்டின் இயல் எண் தீர்வுகள்",
+        "options": [
+            "1 மற்றும் 2",
+            "0, 1 மற்றும் 2",
+            "2, 1, 0, -1, -2, ...",
+            "1, 2, 3, ..."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 1 மற்றும் 2. \\( 5x+5 \\le 15 \\Rightarrow 5x \\le 10 \\Rightarrow x \\le 2 \\). இயல் எண்கள் 1 இலிருந்து தொடங்குவதால், தீர்வுகள் 1 மற்றும் 2 மட்டுமே.",
+        "question_en": "The natural number solutions of the inequality \\( 5x+5 \\le 15 \\) are",
+        "options_en": [
+            "1 and 2",
+            "0, 1 and 2",
+            "2, 1, 0, -1, -2, ...",
+            "1, 2, 3, ..."
+        ],
+        "explanation_en": "Correct answer option (1): 1 and 2. \\( 5x \\le 10 \\Rightarrow x \\le 2 \\). Since natural numbers start from 1, the solutions are 1 and 2."
+    },
+    {
+        "id": 82,
+        "question": "\\( -2 \\le z+3 \\le 5 \\) என்னும் அசமன்பாட்டின் தீர்வுகள் (இங்கு z என்பது முழுக்கள்).",
+        "options": [
+            "-5, -4, -3, -2, -1",
+            "-5, -4, -3, -2, -1, 0",
+            "-4, -3, -2, -1, 0, 1",
+            "-5, -4, -3, -2, -1, 0, 1, 2"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): -5, -4, -3, -2, -1, 0, 1, 2. மூன்று புறமும் 3-ஐக் கழித்தால், \\( -5 \\le z \\le 2 \\) எனக் கிடைக்கும். z முழுக்கள் என்பதால், இத்தீர்வுகள் அமையும்.",
+        "question_en": "The solutions of the inequality \\( -2 \\le z+3 \\le 5 \\) (where z is an integer) are",
+        "options_en": [
+            "-5, -4, -3, -2, -1",
+            "-5, -4, -3, -2, -1, 0",
+            "-4, -3, -2, -1, 0, 1",
+            "-5, -4, -3, -2, -1, 0, 1, 2"
+        ],
+        "explanation_en": "Correct answer option (4): -5, -4, -3, -2, -1, 0, 1, 2. Subtracting 3 from all sides gives \\( -5 \\le z \\le 2 \\). Since z is an integer, these are the solutions."
+    },
+    {
+        "id": 83,
+        "question": "\\( 6y-5 \\le 2y+7 \\) இன் தீர்வுகள் (இங்கு y என்பது முழுக்கள்).",
+        "options": [
+            "3, 2, 1, 0, -1, -2, ...",
+            "3, 2, 1, 0, ...",
+            "2, 1, 0, -1, -2, ...",
+            "-1, -2, -3, ..."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): 3, 2, 1, 0, -1, -2, ... \\( 6y - 2y \\le 7 + 5 \\Rightarrow 4y \\le 12 \\Rightarrow y \\le 3 \\). முழுக்கள் (integers) என்பதால் 3 இலிருந்து குறைந்து கொண்டே செல்லும்.",
+        "question_en": "The solutions of \\( 6y-5 \\le 2y+7 \\) (where y is an integer) are",
+        "options_en": [
+            "3, 2, 1, 0, -1, -2, ...",
+            "3, 2, 1, 0, ...",
+            "2, 1, 0, -1, -2, ...",
+            "-1, -2, -3, ..."
+        ],
+        "explanation_en": "Correct answer option (1): 3, 2, 1, 0, -1, -2, ... Solving it gives \\( 4y \\le 12 \\Rightarrow y \\le 3 \\). For integers, the values are 3, 2, 1, 0, -1..."
+    },
+    {
+        "id": 84,
+        "question": "\\( 3m-5 \\le 2m+1 \\), இங்கு m என்பது இயல் எண் எனில் m இன் தீர்வுகள்",
+        "options": [
+            "0, 1, 2, 3, 4, 5, 6",
+            "1, 2, 3, 4, 5, 6",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6",
+            "..., -3, -2, -1, 0, 2, 3, 4, 5, 6"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 1, 2, 3, 4, 5, 6. \\( 3m - 2m \\le 1 + 5 \\Rightarrow m \\le 6 \\). விடைக்குறிப்பின்படி m இயல் எண் (Natural number) எனக் கருதினால், தீர்வுகள் 1 இலிருந்து 6 வரை அமையும்.",
+        "question_en": "If \\( 3m-5 \\le 2m+1 \\) and m is a natural number, the solutions for m are",
+        "options_en": [
+            "0, 1, 2, 3, 4, 5, 6",
+            "1, 2, 3, 4, 5, 6",
+            "-3, -2, -1, 0, 1, 2, 3, 4, 5, 6",
+            "..., -3, -2, -1, 0, 2, 3, 4, 5, 6"
+        ],
+        "explanation_en": "Correct answer option (2): 1, 2, 3, 4, 5, 6. Solving gives \\( m \\le 6 \\). Considering m as a natural number (based on the answer key), the solutions are 1 to 6."
+    },
+    {
+        "id": 85,
+        "question": "\\( 4n+7 \\ge 3n+10 \\), இங்கு n என்பது முழுக்கள் எனில் n இன் தீர்வுகள்",
+        "options": [
+            "4, 5, 6, ...",
+            "3, 4, 5, 6, ...",
+            "0, 1, 2, 3, ...",
+            "-3, -2, -1, 0, 1, 2, 3, ..."
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 3, 4, 5, 6, ... \\( 4n - 3n \\ge 10 - 7 \\Rightarrow n \\ge 3 \\). எனவே தீர்வுகள் 3 இலிருந்து தொடங்கும்.",
+        "question_en": "If \\( 4n+7 \\ge 3n+10 \\) and n is an integer, the solutions for n are",
+        "options_en": [
+            "4, 5, 6, ...",
+            "3, 4, 5, 6, ...",
+            "0, 1, 2, 3, ...",
+            "-3, -2, -1, 0, 1, 2, 3, ..."
+        ],
+        "explanation_en": "Correct answer option (2): 3, 4, 5, 6, ... Solving gives \\( n \\ge 3 \\). Since n is an integer, the sequence starts from 3."
+    },
+    {
+        "id": 86,
+        "question": "\\( 6(x+6) \\ge 5(x-3) \\), இங்கு x என்பது ஒரு முழு எண் எனில் x இன் மதிப்புகள்",
+        "options": [
+            "-51, -50, -49, ...",
+            "-21, -20, -19, ...",
+            "-51, 52, 53, ...",
+            "0, 1, 2, 3, ..."
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): -51, -50, -49, ... சமன்பாட்டை விரித்தால்: \\( 6x + 36 \\ge 5x - 15 \\Rightarrow 6x - 5x \\ge -15 - 36 \\Rightarrow x \\ge -51 \\).",
+        "question_en": "If \\( 6(x+6) \\ge 5(x-3) \\) and x is an integer, the values of x are",
+        "options_en": [
+            "-51, -50, -49, ...",
+            "-21, -20, -19, ...",
+            "-51, 52, 53, ...",
+            "0, 1, 2, 3, ..."
+        ],
+        "explanation_en": "Correct answer option (1): -51, -50, -49, ... Expanding gives \\( 6x + 36 \\ge 5x - 15 \\Rightarrow x \\ge -51 \\)."
+    },
+    {
+        "id": 87,
+        "question": "\\( -3 \\le 5x+2 \\le 32 \\), இங்கு x என்பது முழுக்கள் எனில் x இன் தீர்வுகள்",
+        "options": [
+            "1, 2, 3, 4, 5, 6",
+            "0, 1, 2, 3, 4, 5, 6",
+            "-2, -1, 0, 1, 2, 3, 4, 5",
+            "-1, 0, 1, 2, 3, 4, 5, 6"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): -1, 0, 1, 2, 3, 4, 5, 6. மூன்று புறமும் 2 ஐக் கழித்தால், \\( -5 \\le 5x \\le 30 \\). 5 ஆல் வகுத்தால், \\( -1 \\le x \\le 6 \\).",
+        "question_en": "If \\( -3 \\le 5x+2 \\le 32 \\) and x is an integer, the solutions for x are",
+        "options_en": [
+            "1, 2, 3, 4, 5, 6",
+            "0, 1, 2, 3, 4, 5, 6",
+            "-2, -1, 0, 1, 2, 3, 4, 5",
+            "-1, 0, 1, 2, 3, 4, 5, 6"
+        ],
+        "explanation_en": "Correct answer option (4): -1, 0, 1, 2, 3, 4, 5, 6. Subtracting 2 gives \\( -5 \\le 5x \\le 30 \\). Dividing by 5 gives \\( -1 \\le x \\le 6 \\)."
+    },
+    {
+        "id": 88,
+        "question": "\\( x \\ge y \\) எனுமாறு x, y தரப்பட்டுள்ளது. கொடுக்கப்பட்டுள்ள கட்டங்களில் பொருத்தமான அசமன்பாட்டுக் குறிகளால் நிரப்புக.\n(a) y [ ] x\n(b) -x [ ] -y\n(c) x-y [ ] 0\n(d) x^2 [ ] xy",
+        "options": [
+            "\\( <, \\le, <, \\ge \\)",
+            "\\( \\le, \\le, \\ge, \\ge \\)",
+            "\\( \\le, \\le, <, > \\)",
+            "\\( \\ge, <, \\ge, > \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( \\le, \\le, \\ge, \\ge \\). \n(a) \\( x \\ge y \\Rightarrow y \\le x \\).\n(b) மைனஸ் குறியால் பெருக்கினால் குறி மாறும்: \\( -x \\le -y \\).\n(c) y ஐ இடதுபுறம் கொண்டுவந்தால்: \\( x-y \\ge 0 \\).\n(d) இருபுறமும் x ஆல் பெருக்கினால் (x மிகை எண் எனில்): \\( x^2 \\ge xy \\).",
+        "question_en": "Given \\( x \\ge y \\), fill in the blanks with the appropriate inequality signs:\n(a) y [ ] x\n(b) -x [ ] -y\n(c) x-y [ ] 0\n(d) x^2 [ ] xy",
+        "options_en": [
+            "\\( <, \\le, <, \\ge \\)",
+            "\\( \\le, \\le, \\ge, \\ge \\)",
+            "\\( \\le, \\le, <, > \\)",
+            "\\( \\ge, <, \\ge, > \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( \\le, \\le, \\ge, \\ge \\). \n(a) \\( y \\le x \\).\n(b) Multiplying by -1 reverses the sign: \\( -x \\le -y \\).\n(c) Subtracting y from both sides: \\( x-y \\ge 0 \\).\n(d) Multiplying by x (assuming x is positive): \\( x^2 \\ge xy \\)."
+    },
+    {
+        "id": 89,
+        "question": "தொழிலாளி ஒருவர் ஒரு நாளுக்கு ₹200 ஐக் கூலியாகப் பெறுகிறார் எனில், ₹3,00,000 ஐக் கொண்டு ஒரு மாதத்திற்கு எத்தனை தொழிலாளர்களைப் பணியமர்த்த முடியும்?",
+        "options": [
+            "60",
+            "50",
+            "40",
+            "55"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 50. ஒரு மாதத்தை 30 நாட்கள் என எடுத்துக்கொண்டால், ஒரு தொழிலாளியின் மாதக்கூலி = \\( 200 \\times 30 = 6000 \\). ₹3,00,000-க்கு பணியமர்த்தக்கூடியவர்கள் = \\( 300000 / 6000 = 50 \\) தொழிலாளர்கள்.",
+        "question_en": "A worker earns ₹200 per day. How many workers can be employed for a month with ₹3,00,000?",
+        "options_en": [
+            "60",
+            "50",
+            "40",
+            "55"
+        ],
+        "explanation_en": "Correct answer option (2): 50. Assuming a month has 30 days, the monthly wage of one worker = \\( 200 \\times 30 = 6000 \\). Number of workers = \\( 300000 / 6000 = 50 \\)."
+    },
+    {
+        "id": 90,
+        "question": "ஒரு பேனாவின் விலை ₹8 ஆகும். மேலும் ஒரு பெட்டியானது 10 பேனாக்களை உள்ளடக்கியது. ஸ்வேதாவிடம் ₹500 மட்டுமே உள்ளது எனில், அவளால் அதிகபட்சம் எத்தனை பெட்டிகளை வாங்க முடியும்?",
+        "options": [
+            "10",
+            "5",
+            "6",
+            "8"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 6. ஒரு பெட்டியின் விலை = \\( 10 \\times 8 = 80 \\). ₹500-க்கு வாங்கக்கூடிய பெட்டிகள் = \\( 500 / 80 = 6.25 \\). முழுமையாக 6 பெட்டிகளை வாங்கலாம்.",
+        "question_en": "The cost of a pen is ₹8. A box contains 10 pens. If Swetha has only ₹500, what is the maximum number of boxes she can buy?",
+        "options_en": [
+            "10",
+            "5",
+            "6",
+            "8"
+        ],
+        "explanation_en": "Correct answer option (3): 6. The cost of one box = \\( 10 \\times 8 = 80 \\). Number of boxes she can buy = \\( 500 / 80 = 6.25 \\). So she can buy a maximum of 6 full boxes."
+    },
+    {
+        "id": 91,
+        "question": "பின்வரும் படத்திலுள்ள எண்கோடு எந்த அசமன்பாட்டினைக் குறிக்கிறது? (எண்கோட்டில் -4 முதல் 2 வரை உள்ளதைக் குறிக்கும் படம்)",
+        "image": "images/unit10/q91.PNG",
+        "options": [
+            "\\( -4 < x < 0 \\)",
+            "\\( -4 \\le x \\le 0 \\)",
+            "\\( -4 < x \\le 0 \\)",
+            "\\( -4 \\le x \\le 2 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( -4 \\le x \\le 2 \\). எண்கோட்டில் -4 இலிருந்து 2 வரை தீர்வுகள் குறிக்கப்பட்டிருந்தால், அது இந்த அசமன்பாட்டையே குறிக்கும்.",
+        "question_en": "Which inequality does the number line in the figure represent? (Assuming the figure marks from -4 to 2)",
+        "options_en": [
+            "\\( -4 < x < 0 \\)",
+            "\\( -4 \\le x \\le 0 \\)",
+            "\\( -4 < x \\le 0 \\)",
+            "\\( -4 \\le x \\le 2 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( -4 \\le x \\le 2 \\). If the number line highlights the region from -4 to 2 inclusively, this is the correct inequality."
+    },
+    {
+        "id": 92,
+        "question": "ஓர் ஓவியர் தூரிகையை வாங்குவதற்காக ₹80 லிருந்து ₹200 வரை செலவு செய்ய வேண்டும். ஒரு தூரிகையின் விலை ₹5. தூரிகைகள் 6 அடங்கிய மூடிய பெட்டிகளில் மட்டுமே கிடைக்கிறது எனில், அந்த ஓவியரால் எத்தனை பெட்டிகள் வாங்க முடியும்?",
+        "options": [
+            "4, 5",
+            "3, 4, 5",
+            "3, 4, 5, 6",
+            "4, 5, 6"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 3, 4, 5, 6. ஒரு பெட்டியின் விலை = \\( 6 \\times 5 = 30 \\). \\( 80 \\le 30x \\le 200 \\Rightarrow 2.67 \\le x \\le 6.67 \\). x ஒரு முழு எண் என்பதால், வாங்கக்கூடிய பெட்டிகள் 3, 4, 5, 6 ஆகும்.",
+        "question_en": "A painter wants to spend between ₹80 and ₹200 to buy brushes. The cost of one brush is ₹5. Brushes are only available in sealed boxes of 6. How many boxes can the painter buy?",
+        "options_en": [
+            "4, 5",
+            "3, 4, 5",
+            "3, 4, 5, 6",
+            "4, 5, 6"
+        ],
+        "explanation_en": "Correct answer option (3): 3, 4, 5, 6. Cost per box = \\( 6 \\times 5 = 30 \\). The condition is \\( 80 \\le 30x \\le 200 \\), which gives \\( 2.67 \\le x \\le 6.67 \\). Since x must be an integer, x can be 3, 4, 5, or 6."
+    },
+    {
+        "id": 93,
+        "question": "பின்வரும் கூற்றுகளில் எது சரியானது?",
+        "options": [
+            "நேரிய அசமன்பாடுகளுக்கு அதிகபட்சமாக ஒரேயொரு தீர்வு மட்டுமே இருக்க முடியும்.",
+            "x ஒரு முழுவாக இருக்கும்போது \\( x \\le 0 \\) இன் தீர்வுகள் 0, -1, -2, ... ஆகும்.",
+            "x ஒரு முழுவாக இருக்கும்போது \\( -3 < x < -1 \\) என்னும் அசமன்பாட்டின் தீர்வுகளை எண்கோட்டில் குறிக்க இயலாது",
+            "\\( x < -y \\) என்னும் அசமன்பாட்டை, \\( -y < x \\) எனுமாறு எழுதலாம்"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): x ஒரு முழுவாக இருக்கும்போது \\( x \\le 0 \\) இன் தீர்வுகள் 0, -1, -2, ... ஆகும். நேரிய அசமன்பாடுகளுக்கு எண்ணற்ற தீர்வுகள் இருக்கலாம், மேலும் \\( x < -y \\) என்பதை \\( -y > x \\) என்றுதான் எழுத வேண்டும்.",
+        "question_en": "Which of the following statements is correct?",
+        "options_en": [
+            "Linear inequalities can have a maximum of only one solution.",
+            "When x is an integer, the solutions of \\( x \\le 0 \\) are 0, -1, -2, ...",
+            "When x is an integer, the solutions of \\( -3 < x < -1 \\) cannot be plotted on a number line.",
+            "The inequality \\( x < -y \\) can be written as \\( -y < x \\)."
+        ],
+        "explanation_en": "Correct answer option (2): When x is an integer, the solutions of \\( x \\le 0 \\) are 0, -1, -2, ... Linear inequalities can have infinite solutions, and \\( x < -y \\) means \\( -y > x \\)."
+    },
+    {
+        "id": 94,
+        "question": "கீழ்க்கண்ட கூற்றுகளில் எது சரியானது?",
+        "options": [
+            "ஓர் அசமன்பாட்டை இருபுறமும் பூச்சியத்தால் பெருக்கினால் அதன் அசமத்தன்மை மாறாது.",
+            "ஒருறுப்புக் கோவைகளின் பெருக்கற்பலன் ஈருறுப்புக் கோவையாகும்.",
+            "\\( x^2+5x+4 \\) என்ற கோவையை முற்றொருமைகளைப் பயன்படுத்திக் காரணிப்படுத்த இயலாது",
+            "அசமன்பாடுகளை இடவலமாக மாற்றி எழுதும்போது அதன் அசமன்பாட்டுக் குறியை மாற்ற வேண்டும்."
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): அசமன்பாடுகளை இடவலமாக மாற்றி எழுதும்போது அதன் அசமன்பாட்டுக் குறியை மாற்ற வேண்டும். எ.கா: \\( x < y \\) என்பதை \\( y > x \\) என மாற்ற வேண்டும்.",
+        "question_en": "Which of the following statements is correct?",
+        "options_en": [
+            "Multiplying both sides of an inequality by zero does not change the inequality.",
+            "The product of monomials is a binomial.",
+            "The expression \\( x^2+5x+4 \\) cannot be factorized using identities.",
+            "When swapping the left and right sides of an inequality, the inequality sign must be reversed."
+        ],
+        "explanation_en": "Correct answer option (4): When swapping the left and right sides of an inequality, the inequality sign must be reversed. For example, \\( x < y \\) becomes \\( y > x \\)."
+    },
+    {
+        "id": 95,
+        "question": "கீழ்க்கண்ட கூற்றுகளில் எது தவறானது?",
+        "options": [
+            "ஓர் அசமன்பாட்டின் இருபுறமும் ஒரே எண்ணைக் கூட்டுவதால் அசமன்பாட்டின் அசமத்தன்மை மாறாது",
+            "ஒரே எண்ணை இருபுறமும் கழிப்பதாலும் அசமன்பாட்டின் அசமத்தன்மை மாறாது.",
+            "ஓர் அசமன்பாட்டின் இருபுறமும் பூச்சியமற்ற குறை எண்ணால் பெருக்கும்போதும், வகுக்கும்போதும் அந்த அசமன்பாட்டின் குறி மாறாது.",
+            "ஒரு சமன்பாட்டின் இருபுறமும் உள்ள கோவைகளை இடமாற்றி எழுதும்போது அந்தச் சமன்பாட்டில் மாற்றம் ஏற்படாது."
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): ஓர் அசமன்பாட்டின் இருபுறமும் பூச்சியமற்ற குறை எண்ணால் பெருக்கும்போதும், வகுக்கும்போதும் அந்த அசமன்பாட்டின் குறி மாறும். எனவே மாறாது என்பது தவறான கூற்று.",
+        "question_en": "Which of the following statements is incorrect?",
+        "options_en": [
+            "Adding the same number to both sides of an inequality does not change its nature.",
+            "Subtracting the same number from both sides of an inequality does not change its nature.",
+            "Multiplying or dividing both sides of an inequality by a non-zero negative number does not change the inequality sign.",
+            "Swapping the expressions on both sides of an equation does not change the equation."
+        ],
+        "explanation_en": "Correct answer option (3): Multiplying or dividing both sides of an inequality by a non-zero negative number reverses the inequality sign. Therefore, saying it does not change is incorrect."
+    },
+    {
+        "id": 96,
+        "question": "கீழ்க்கண்டவற்றுள் எது தவறானது?",
+        "options": [
+            "x ஓர் இயல் எண் எனும்போது \\( 2x+3 < 5 \\) அசமன்பாட்டிற்குத் தீர்வு இல்லை",
+            "\\( p < q \\) எனில் \\( -p^2 > -pq \\)",
+            "\\( (a+b)(ab) = a^2-b^2 \\) சுருக்கிய வடிவில் எழுதலாம்.",
+            "\\( [(a+b)+c][(a+b)-c] = (a+b)^2-c^2 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( (a+b)(ab) = a^2-b^2 \\) என்பது தவறு. சரியான முற்றொருமை \\( (a+b)(a-b) = a^2-b^2 \\) ஆகும்.",
+        "question_en": "Which of the following is incorrect?",
+        "options_en": [
+            "There is no solution for the inequality \\( 2x+3 < 5 \\) when x is a natural number.",
+            "If \\( p < q \\), then \\( -p^2 > -pq \\).",
+            "\\( (a+b)(ab) = a^2-b^2 \\) can be written in simplified form.",
+            "\\( [(a+b)+c][(a+b)-c] = (a+b)^2-c^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( (a+b)(ab) = a^2-b^2 \\) is incorrect. The correct identity is \\( (a+b)(a-b) = a^2-b^2 \\)."
+    },
+    {
+        "id": 97,
+        "question": "\\( x+\\frac{1}{x}=5 \\) எனில் \\( x^2+\\frac{1}{x^2} \\) இன் மதிப்பு",
+        "options": [
+            "25",
+            "22",
+            "23",
+            "20"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 23. \\( (x+\\frac{1}{x})^2 = x^2+\\frac{1}{x^2}+2 = 5^2 = 25 \\). எனவே \\( x^2+\\frac{1}{x^2} = 25 - 2 = 23 \\).",
+        "question_en": "If \\( x+\\frac{1}{x}=5 \\), the value of \\( x^2+\\frac{1}{x^2} \\) is",
+        "options_en": [
+            "25",
+            "22",
+            "23",
+            "20"
+        ],
+        "explanation_en": "Correct answer option (3): 23. \\( (x+\\frac{1}{x})^2 = x^2+\\frac{1}{x^2}+2 = 25 \\). Thus, \\( x^2+\\frac{1}{x^2} = 25 - 2 = 23 \\)."
+    },
+    {
+        "id": 98,
+        "question": "கீழ்க்காண்பவைகளில் எது முற்றொருமை இல்லை?",
+        "options": [
+            "\\( (a+b)^2 = a^2+b^2+2ab \\)",
+            "\\( (a-b)^2 = a^2+b^2-2ab \\)",
+            "\\( (a+b)(a-b) = a^2-b^2 \\)",
+            "\\( (a+b)(a+b) = 5 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( (a+b)(a+b) = 5 \\). முற்றொருமை (Identity) என்பது மாறிகளின் அனைத்து மதிப்புகளுக்கும் சமமாக இருக்க வேண்டும். இங்கு 5 என நிலையாகக் கொடுக்கப்பட்டுள்ளதால் இது முற்றொருமை அல்ல, ஒரு சாதாரண சமன்பாடு.",
+        "question_en": "Which of the following is not an identity?",
+        "options_en": [
+            "\\( (a+b)^2 = a^2+b^2+2ab \\)",
+            "\\( (a-b)^2 = a^2+b^2-2ab \\)",
+            "\\( (a+b)(a-b) = a^2-b^2 \\)",
+            "\\( (a+b)(a+b) = 5 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( (a+b)(a+b) = 5 \\). An identity must be true for all values of the variables. This is a specific equation, not an identity."
+    },
+    {
+        "id": 99,
+        "question": "\\( (0.9)^2+(0.1)^2+2(0.09) = \\)",
+        "options": [
+            "0.1",
+            "9",
+            "2",
+            "1"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 1. இது \\( a^2 + b^2 + 2ab \\) என்ற வடிவில் உள்ளது, இங்கு a=0.9, b=0.1. (கவனிக்க: \\( 2ab = 2(0.9)(0.1) = 2(0.09) \\)). எனவே விடை \\( (0.9 + 0.1)^2 = 1^2 = 1 \\).",
+        "question_en": "\\( (0.9)^2+(0.1)^2+2(0.09) = \\)",
+        "options_en": [
+            "0.1",
+            "9",
+            "2",
+            "1"
+        ],
+        "explanation_en": "Correct answer option (4): 1. This matches the identity \\( a^2 + b^2 + 2ab = (a+b)^2 \\), where a=0.9 and b=0.1. Thus, \\( (0.9 + 0.1)^2 = 1^2 = 1 \\)."
+    },
+    {
+        "id": 100,
+        "question": "\\( (x^2+6x+9)=(x+3)(x-a) \\) எனில் a இன் மதிப்பு",
+        "options": [
+            "-3",
+            "3",
+            "2",
+            "-2"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): -3. இடதுபுறக் கோவை \\( (x+3)^2 = (x+3)(x+3) \\). எனவே \\( x-a = x+3 \\Rightarrow -a = 3 \\Rightarrow a = -3 \\).",
+        "question_en": "If \\( (x^2+6x+9)=(x+3)(x-a) \\), the value of a is",
+        "options_en": [
+            "-3",
+            "3",
+            "2",
+            "-2"
+        ],
+        "explanation_en": "Correct answer option (1): -3. The left side is \\( (x+3)^2 = (x+3)(x+3) \\). Comparing this, \\( x-a = x+3 \\Rightarrow -a = 3 \\Rightarrow a = -3 \\)."
+    },
+    {
+        "id": 101,
+        "question": "\\( 9.6^2 = \\)",
+        "options": [
+            "9216",
+            "93.6",
+            "9.216",
+            "92.16"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): 92.16. இதை \\( (10 - 0.4)^2 = 100 - 2(10)(0.4) + 0.4^2 = 100 - 8 + 0.16 = 92.16 \\) எனக் கணக்கிடலாம்.",
+        "question_en": "\\( 9.6^2 = \\)",
+        "options_en": [
+            "9216",
+            "93.6",
+            "9.216",
+            "92.16"
+        ],
+        "explanation_en": "Correct answer option (4): 92.16. It can be calculated as \\( (10 - 0.4)^2 = 100 - 8 + 0.16 = 92.16 \\)."
+    },
+    {
+        "id": 102,
+        "question": "கீழ்க்குறிப்பிட்டவைகளில் எது \\( (x^2-1) \\) இன் காரணி அல்ல?",
+        "options": [
+            "\\( x-1 \\)",
+            "\\( x+1 \\)",
+            "1",
+            "\\( 1-x^2 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 1-x^2 \\). \\( (x^2-1) = (x-1)(x+1) \\). எனவே x-1, x+1 மற்றும் 1 ஆகியவை இதன் காரணிகளாகும். \\( 1-x^2 \\) காரணி அல்ல (இது ஒரு மைனஸ் குறியால் வேறுபடுகிறது).",
+        "question_en": "Which of the following is NOT a factor of \\( (x^2-1) \\)?",
+        "options_en": [
+            "\\( x-1 \\)",
+            "\\( x+1 \\)",
+            "1",
+            "\\( 1-x^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 1-x^2 \\). Since \\( x^2-1 = (x-1)(x+1) \\), its factors include \\( x-1 \\), \\( x+1 \\), and 1. \\( 1-x^2 \\) is not considered a direct positive polynomial factor."
+    },
+    {
+        "id": 103,
+        "question": "\\( a+b=8 \\) மற்றும் \\( a-b=7 \\) எனில் \\( a^2+b^2 = \\)",
+        "options": [
+            "56",
+            "65",
+            "\\( 65\\frac{1}{2} \\)",
+            "\\( 56\\frac{1}{2} \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( 56\\frac{1}{2} \\). சூத்திரம்: \\( 2(a^2+b^2) = (a+b)^2 + (a-b)^2 = 8^2 + 7^2 = 64 + 49 = 113 \\). எனவே \\( a^2+b^2 = 113 / 2 = 56.5 = 56\\frac{1}{2} \\).",
+        "question_en": "If \\( a+b=8 \\) and \\( a-b=7 \\), then \\( a^2+b^2 = \\)",
+        "options_en": [
+            "56",
+            "65",
+            "\\( 65\\frac{1}{2} \\)",
+            "\\( 56\\frac{1}{2} \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( 56\\frac{1}{2} \\). Using the formula \\( 2(a^2+b^2) = (a+b)^2 + (a-b)^2 = 64 + 49 = 113 \\). Thus, \\( a^2+b^2 = 113 / 2 = 56.5 = 56\\frac{1}{2} \\)."
+    },
+    {
+        "id": 104,
+        "question": "\\( x^2=y^2 \\) எனில்",
+        "options": [
+            "\\( x=y \\)",
+            "\\( x=-y \\)",
+            "\\( x=\\pm y \\)",
+            "\\( x=0, y=0 \\)"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): \\( x=\\pm y \\). இருபுறமும் வர்க்கமூலம் எடுக்கும்போது, ஒரு எண்ணின் வர்க்கம் மற்றொரு எண்ணின் வர்க்கத்திற்குச் சமமாக இருந்தால், அந்த எண்கள் சமமாகவோ அல்லது எதிர் குறியுடன் சமமாகவோ இருக்கலாம்.",
+        "question_en": "If \\( x^2=y^2 \\), then",
+        "options_en": [
+            "\\( x=y \\)",
+            "\\( x=-y \\)",
+            "\\( x=\\pm y \\)",
+            "\\( x=0, y=0 \\)"
+        ],
+        "explanation_en": "Correct answer option (3): \\( x=\\pm y \\). Taking the square root on both sides indicates that x can be equal to either positive or negative y."
+    },
+    {
+        "id": 105,
+        "question": "\\( (x+2l)(x-m)=x^2-4 \\) எனில் lm இன் மதிப்பு",
+        "options": [
+            "-2",
+            "2",
+            "4",
+            "-4"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): 2. \\( (x+2l)(x-m) = x^2 + (2l-m)x - 2lm \\). இதை \\( x^2-4 \\) உடன் ஒப்பிட்டால், x உறுப்பு இல்லாததால் \\( 2l-m = 0 \\Rightarrow m=2l \\). மற்றும் மாறிலி உறுப்பு \\( -2lm = -4 \\Rightarrow lm = 2 \\).",
+        "question_en": "If \\( (x+2l)(x-m)=x^2-4 \\), the value of lm is",
+        "options_en": [
+            "-2",
+            "2",
+            "4",
+            "-4"
+        ],
+        "explanation_en": "Correct answer option (2): 2. Expanding the left side gives \\( x^2 + (2l-m)x - 2lm \\). Comparing it with \\( x^2-4 \\), we have \\( -2lm = -4 \\Rightarrow lm = 2 \\)."
+    },
+    {
+        "id": 106,
+        "question": "\\( 998^2 = \\)",
+        "options": [
+            "96004",
+            "99660004",
+            "996004",
+            "100000"
+        ],
+        "correct": 2,
+        "explanation": "சரியான விடை விருப்பம் (3): 996004. முற்றொருமையைப் பயன்படுத்த: \\( (1000 - 2)^2 = 1000000 - 4000 + 4 = 996004 \\).",
+        "question_en": "\\( 998^2 = \\)",
+        "options_en": [
+            "96004",
+            "99660004",
+            "996004",
+            "100000"
+        ],
+        "explanation_en": "Correct answer option (3): 996004. Using identity: \\( (1000 - 2)^2 = 1000000 - 4000 + 4 = 996004 \\)."
+    },
+    {
+        "id": 107,
+        "question": "ஒரு செவ்வக வடிவ நிலத்தின் பரப்பளவு \\( (a^2-b^2) \\) சதுர அலகுகள் மற்றும் அகலம் \\( (a-b) \\) அலகுகள் எனில், அதன் நீளம்",
+        "options": [
+            "\\( (a-b) \\)",
+            "\\( (a+b) \\)",
+            "\\( (a^2-b) \\)",
+            "\\( a^2+b^2 \\)"
+        ],
+        "correct": 1,
+        "explanation": "சரியான விடை விருப்பம் (2): \\( (a+b) \\). நீளம் = பரப்பளவு / அகலம் = \\( \\frac{a^2-b^2}{a-b} = \\frac{(a+b)(a-b)}{a-b} = (a+b) \\).",
+        "question_en": "The area of a rectangular land is \\( (a^2-b^2) \\) square units and its breadth is \\( (a-b) \\) units. Its length is",
+        "options_en": [
+            "\\( (a-b) \\)",
+            "\\( (a+b) \\)",
+            "\\( (a^2-b) \\)",
+            "\\( a^2+b^2 \\)"
+        ],
+        "explanation_en": "Correct answer option (2): \\( (a+b) \\). Length = Area / Breadth = \\( \\frac{a^2-b^2}{a-b} = a+b \\)."
+    },
+    {
+        "id": 108,
+        "question": "\\( a+b=12 \\) மற்றும் \\( a^2-b^2=-24 \\) எனில் \\( a-b \\) இன் மதிப்பு",
+        "options": [
+            "-2",
+            "2",
+            "144",
+            "36"
+        ],
+        "correct": 0,
+        "explanation": "சரியான விடை விருப்பம் (1): -2. \\( a^2-b^2 = (a+b)(a-b) \\Rightarrow -24 = 12 \\times (a-b) \\Rightarrow a-b = -24 / 12 = -2 \\).",
+        "question_en": "If \\( a+b=12 \\) and \\( a^2-b^2=-24 \\), the value of \\( a-b \\) is",
+        "options_en": [
+            "-2",
+            "2",
+            "144",
+            "36"
+        ],
+        "explanation_en": "Correct answer option (1): -2. \\( a^2-b^2 = (a+b)(a-b) \\Rightarrow -24 = 12 \\times (a-b) \\Rightarrow a-b = -2 \\)."
+    },
+    {
+        "id": 109,
+        "question": "\\( 5m+15 \\le 20 \\) எனில்",
+        "options": [
+            "\\( m=0 \\)",
+            "\\( m \\ge 1 \\)",
+            "\\( m=1 \\)",
+            "\\( m \\le 1 \\)"
+        ],
+        "correct": 3,
+        "explanation": "சரியான விடை விருப்பம் (4): \\( m \\le 1 \\). \\( 5m \\le 20 - 15 \\Rightarrow 5m \\le 5 \\Rightarrow m \\le 1 \\).",
+        "question_en": "If \\( 5m+15 \\le 20 \\), then",
+        "options_en": [
+            "\\( m=0 \\)",
+            "\\( m \\ge 1 \\)",
+            "\\( m=1 \\)",
+            "\\( m \\le 1 \\)"
+        ],
+        "explanation_en": "Correct answer option (4): \\( m \\le 1 \\). Solving the inequality gives \\( 5m \\le 5 \\Rightarrow m \\le 1 \\)."
+    }
+]

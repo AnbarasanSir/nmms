@@ -1,0 +1,2222 @@
+[
+  {
+    "id": 1,
+    "question": "பாமினி அரசு மாநிலம் முழுவதும் பரவி இருந்தது.",
+    "options": [
+      "கர்நாடகா",
+      "மஹாராஷ்டிரா",
+      "கேரளா",
+      "தமிழ்நாடு"
+    ],
+    "correct": 1,
+    "question_en": "The Bamini government was spread across the state.",
+    "options_en": [
+      "Karnataka",
+      "Maharashtra",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "explanation": "மஹாராஷ்டிரா",
+    "explanation_en": "Maharashtra"
+  },
+  {
+    "id": 2,
+    "question": "பாமினி அரசு ஆண்டுகள் பதினெட்டு முடியரசர்களால் ஆளப்பட்டது.",
+    "options": [
+      "25",
+      "18",
+      "100",
+      "180"
+    ],
+    "correct": 3,
+    "question_en": "The Bamini kingdom was ruled by eighteen princes.",
+    "options_en": [
+      "25",
+      "18",
+      "100",
+      "180"
+    ],
+    "explanation": "180",
+    "explanation_en": "180"
+  },
+  {
+    "id": 3,
+    "question": "விஜயநகர அரசு வலுவான அரசாக ஆண்டுகள் ஆட்சி செய்தது.",
+    "options": [
+      "200",
+      "150",
+      "100",
+      "250"
+    ],
+    "correct": 0,
+    "question_en": "The Vijayanagara government ruled for years as a strong government.",
+    "options_en": [
+      "200",
+      "150",
+      "100",
+      "250"
+    ],
+    "explanation": "200",
+    "explanation_en": "200"
+  },
+  {
+    "id": 4,
+    "question": "ல் நிகழ்ந்த தலைக்கோட்டைப் போர் விஜயநகர அரசை வீழ்த்தியது",
+    "options": [
+      "1945",
+      "1564",
+      "1654",
+      "1565"
+    ],
+    "correct": 3,
+    "question_en": "The Battle of Thalikot took place in Vijayanagara",
+    "options_en": [
+      "1945",
+      "1564",
+      "1654",
+      "1565"
+    ],
+    "explanation": "1565",
+    "explanation_en": "1565"
+  },
+  {
+    "id": 5,
+    "question": "வெற்றியின் நகரம் என்றழைக்கப்படுவது",
+    "options": [
+      "அகமது நகர்",
+      "குல்பர்கா",
+      "பாமினி",
+      "விஜயநகரம்"
+    ],
+    "correct": 3,
+    "question_en": "Called the City of Victory",
+    "options_en": [
+      "Ahmed Nagar",
+      "Gulbarga",
+      "Bamini",
+      "Vijayanagaram"
+    ],
+    "explanation": "விஜயநகரம்",
+    "explanation_en": "Vijayanagaram"
+  },
+  {
+    "id": 6,
+    "question": "வித்யாநகர் என அழைக்கப்பட்ட நகரம்",
+    "options": [
+      "அகமது நகர்",
+      "குல்பர்கா",
+      "பாமினி",
+      "விஜயநகரம்"
+    ],
+    "correct": 3,
+    "question_en": "A city known as Vidyanagar",
+    "options_en": [
+      "Ahmed Nagar",
+      "Gulbarga",
+      "Bamini",
+      "Vijayanagaram"
+    ],
+    "explanation": "விஜயநகரம்",
+    "explanation_en": "Vijayanagaram"
+  },
+  {
+    "id": 7,
+    "question": "சிருங்கேரி சைவ மடத்தின் தலைவர்",
+    "options": [
+      "வித்யாரண்யர்",
+      "புக்கர்",
+      "ஹரிஹரர்",
+      "கிருஷ்ணதேவராயர்"
+    ],
+    "correct": 0,
+    "question_en": "Head of Sringeri Saiva Mutt",
+    "options_en": [
+      "Student",
+      "Booker",
+      "Harihar",
+      "Krishnadevaraya"
+    ],
+    "explanation": "வித்யாரண்யர்",
+    "explanation_en": "Student"
+  },
+  {
+    "id": 8,
+    "question": "விஜயநகரம் சகோதரர்களால் கர்நாடகத்தின் தென் பகுதியில் நிறுவப்பட்டது.",
+    "options": [
+      "ஹரிஹரர் - புக்கர்",
+      "வித்யாரண்யர் - ஹரிஹரர்",
+      "கிருஷ்ணதேவராயர் - புக்கர்",
+      "கிருஷ்ணதேவராயர் - வித்யாரண்யர்"
+    ],
+    "correct": 0,
+    "question_en": "Vijayanagaram was founded by the brothers in the southern part of Karnataka.",
+    "options_en": [
+      "Hariharar - Booker",
+      "Vidyaranyar - Hariharar",
+      "Krishnadevaraya - Booker",
+      "Krishnadevarayar - Vidyaranyar"
+    ],
+    "explanation": "ஹரிஹரர் - புக்கர்",
+    "explanation_en": "Hariharar - Booker"
+  },
+  {
+    "id": 9,
+    "question": "பொருத்துக\ni. சங்கம மரபு\nii. சாளுவ மரபு\niii. துளுவ மரபு\niv. ஆரவீடு மரபு\na. 1570 - 1646\nb. 1505 - 1570\nc. 1336 - 1485\nd. 1485 - 1505",
+    "options": [
+      "i-a ii- b iii- d iv - c",
+      "i-c ii- d iii- b iv - a",
+      "i-c ii- b iii- d iv - a",
+      "i-d ii- a iii- b iv- c"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. Sangam legacy\nii. Chaluva tradition\niii. Tuluva tradition\niv. Araveda tradition\na. 1570 - 1646\nb. 1505 - 1570\nc. 1336 - 1485\nd. 1485 - 1505",
+    "options_en": [
+      "i-a ii- b iii- d iv - c",
+      "i-c ii- d iii- b iv - a",
+      "i-c ii- b iii- d iv - a",
+      "i-d ii- a iii- b iv- c"
+    ],
+    "explanation": "i-c ii- d iii- b iv - a",
+    "explanation_en": "i-c ii- d iii- b iv - a"
+  },
+  {
+    "id": 10,
+    "question": "சங்கம வம்சத்தின் மிகச்சிறந்த ஆட்சியாளர்",
+    "options": [
+      "புக்கர்",
+      "தேவராயர்-II",
+      "ஹரிஹரர் - II",
+      "கிருஷ்ணதேவராயர்"
+    ],
+    "correct": 1,
+    "question_en": "Greatest ruler of the Sangama dynasty",
+    "options_en": [
+      "Booker",
+      "Devarayar-II",
+      "Hariharar - II",
+      "Krishnadevaraya"
+    ],
+    "explanation": "தேவராயர்-II",
+    "explanation_en": "Devarayar-II"
+  },
+  {
+    "id": 11,
+    "question": "பதினாறாம் நூற்றாண்டின் தொடக்கத்தில் விஜயநகரப் பேரரசு சுல்தானியங்களாகப் பிரிந்தது.",
+    "options": [
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து"
+    ],
+    "correct": 3,
+    "question_en": "By the early sixteenth century, the Vijayanagara Empire had broken up into sultanates.",
+    "options_en": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "explanation": "ஐந்து",
+    "explanation_en": "Five"
+  },
+  {
+    "id": 12,
+    "question": "விஜயநகர அரசு உருவாகிய ஆண்டுகளுக்குப் பின்னரே பாமினி அரசு நிறுவப்பட்டது.",
+    "options": [
+      "10",
+      "15",
+      "8",
+      "13"
+    ],
+    "correct": 0,
+    "question_en": "The Bamini government was established only years after the formation of the Vijayanagara government.",
+    "options_en": [
+      "10",
+      "15",
+      "8",
+      "13"
+    ],
+    "explanation": "10",
+    "explanation_en": "10"
+  },
+  {
+    "id": 13,
+    "question": "குமார கம்பணாவின் மனைவி கங்காதேவியால் எழுதப்பட்ட நூல்",
+    "options": [
+      "குமாரகாண்டம்",
+      "மதுரா விஜயம்",
+      "அமுக்தமால்யதா",
+      "ஜாம்பவதி கல்யாணம்"
+    ],
+    "correct": 1,
+    "question_en": "A book written by Kumara Kampana's wife Gangadevi",
+    "options_en": [
+      "Kumarakandam",
+      "Visit to Mathura",
+      "Amuktamalyada",
+      "Jambavati marriage"
+    ],
+    "explanation": "மதுரா விஜயம்",
+    "explanation_en": "Visit to Mathura"
+  },
+  {
+    "id": 14,
+    "question": "மதுரா விஜயம் எனும் நூல் கைப்பற்றப்பட்டதை விளக்குகிறது.",
+    "options": [
+      "விஜயநகரம்",
+      "பாமினி",
+      "மதுரை",
+      "ஹம்பி"
+    ],
+    "correct": 2,
+    "question_en": "The book Mathura Vijayam describes the capture.",
+    "options_en": [
+      "Vijayanagaram",
+      "Bamini",
+      "Madurai",
+      "Hampi"
+    ],
+    "explanation": "மதுரை",
+    "explanation_en": "Madurai"
+  },
+  {
+    "id": 15,
+    "question": "இரண்டாம் ஹரிஹரர் பாமினி அரசிடமிருந்து ஆகிய பகுதிகளைக் கைப்பற்றினார்.",
+    "options": [
+      "பீஜப்பூர், கோவா",
+      "பெல்காம், கோவா",
+      "பெல்காம், பீஜப்பூர்",
+      "பீஜப்பூர், ரெய்ச்சூர்"
+    ],
+    "correct": 1,
+    "question_en": "Harihara II conquered the territories from the Bamini kingdom.",
+    "options_en": [
+      "Bijapur, Goa",
+      "Belgaum, Goa",
+      "Belgaum, Bijapur",
+      "Bijapur, Raichur"
+    ],
+    "explanation": "பெல்காம், கோவா",
+    "explanation_en": "Belgaum, Goa"
+  },
+  {
+    "id": 16,
+    "question": "வம்சத்தின் தலைசிறந்த அரசர் இரண்டாம் தேவராயர்.",
+    "options": [
+      "சாளுவ",
+      "துளுவ",
+      "ஆரவீடு",
+      "சங்கம"
+    ],
+    "correct": 3,
+    "question_en": "The greatest king of the dynasty was Devaraya II.",
+    "options_en": [
+      "Chaluva",
+      "Tuluva",
+      "Araveed",
+      "confluence"
+    ],
+    "explanation": "சங்கம",
+    "explanation_en": "confluence"
+  },
+  {
+    "id": 17,
+    "question": "சங்கம வம்சத்தின் கடைசி அரசர் யார்?",
+    "options": [
+      "ராமராயர்",
+      "திருமலை தேவராயர்",
+      "இரண்டாம் தேவராயர்",
+      "இரண்டாம் விருபாக்சிராயர்"
+    ],
+    "correct": 3,
+    "question_en": "Who was the last king of Sangama Dynasty?",
+    "options_en": [
+      "Rama Raya",
+      "Tirumala Devarayar",
+      "Devaraya II",
+      "Virupakshirai II"
+    ],
+    "explanation": "சங்கம வம்சத்தின் கடைசி அரசர் இரண்டாம் விருபாக்சிராயர்.",
+    "explanation_en": "Virupakshirai II was the last king of Sangama Dynasty."
+  },
+  {
+    "id": 18,
+    "question": "கூற்றைக் காரணத்தோடு பொருத்துக:\nகூற்று: இரண்டாம் தேவராயர் சங்கம வம்சத்தின் தலைசிறந்த அரசராவார்.\nகாரணம் : இரண்டாம் தேவராயர் தம்முடைய படைகளுக்கு நவீனப் போர் முறை பயிற்சி அளிக்க இஸ்லாமிய வீரர்களை பணியமர்த்தினார்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Match the statement with the reason:\nClaim: Devaraya II was the greatest king of the Sangama Dynasty.\nReason: Devaraya II hired Muslim warriors to train his forces in modern warfare.",
+    "options_en": [
+      "The statement is right, the reason is wrong",
+      "The statement is wrong, the reason is wrong",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி",
+    "explanation_en": "The statement and reason are correct"
+  },
+  {
+    "id": 19,
+    "question": "முதலாம் தேவராயர் சேர்ந்த கஜபதி வம்ச அரசர்களை தோற்கடித்தார்.",
+    "options": [
+      "கர்நாடகா",
+      "மஹாராஷ்டிரா",
+      "ஒடிசா",
+      "குஜராத்"
+    ],
+    "correct": 2,
+    "question_en": "Devaraya I defeated the Gajapati dynasty kings.",
+    "options_en": [
+      "Karnataka",
+      "Maharashtra",
+      "Odisha",
+      "Gujarat"
+    ],
+    "explanation": "ஒடிசா",
+    "explanation_en": "Odisha"
+  },
+  {
+    "id": 20,
+    "question": "சரியான கூற்றைத் தேர்வு செய்யவும்.\n1. முதலாம் தேவராயருக்குப் பின்னர், விஜயநகர பேரரசு ஆபத்தான சூழலுக்கு உள்ளானது.\n2. சாளுவ நரசிம்மர் சங்கம வம்சத்தின் முதல் அரசரான இரண்டாம் விருபாக்சிராயரைக் கொலை செய்துவிட்டு, தம்மையே பேரரசராக அறிவித்துக் கொண்டார்.\n3. நரசநாயக்கர் சங்கம வம்சத்தின் முதல் அரசரான இரண்டாம் விருபாக்சிராயரைக் கொலை செய்துவிட்டு, தம்மையே பேரரசராக அறிவித்துக் கொண்டார்.\n4. நரசநாயக்கர் மரணத்துடன் துளுவ வம்சம் முடிவுக்கு வந்தது",
+    "options": [
+      "1. முதலாம் தேவராயருக்குப் பின்னர், விஜயநகர பேரரசு ஆபத்தான சூழலுக்கு உள்ளானது.",
+      "2. சாளுவ நரசிம்மர் சங்கம வம்சத்தின் முதல் அரசரான இரண்டாம் விருபாக்சிராயரைக் கொலை செய்துவிட்டு, தம்மையே பேரரசராக அறிவித்துக் கொண்டார்.",
+      "3. நரசநாயக்கர் சங்கம வம்சத்தின் முதல் அரசரான இரண்டாம் விருபாக்சிராயரைக் கொலை செய்துவிட்டு, தம்மையே பேரரசராக அறிவித்துக் கொண்டார்.",
+      "4. நரசநாயக்கர் மரணத்துடன் துளுவ வம்சம் முடிவுக்கு வந்தது"
+    ],
+    "correct": 1,
+    "question_en": "Choose the correct statement.\n1. After Devaraya I, the Vijayanagara empire was in a precarious situation.\n2. Chaluva Narasimha killed Virupakshiraya II, the first king of the Sangama dynasty, and proclaimed himself emperor.\n3. Narasanayaka killed Virupakshiraya II, the first king of the Sangama dynasty, and proclaimed himself emperor.\n4. The Tuluva dynasty came to an end with the death of Narasanayaka",
+    "options_en": [
+      "1. After Devaraya I, the Vijayanagara empire was in a precarious situation.",
+      "2. Chaluva Narasimha killed Virupakshiraya II, the first king of the Sangama dynasty, and proclaimed himself emperor.",
+      "3. Narasanayaka killed Virupakshiraya II, the first king of the Sangama dynasty, and proclaimed himself emperor.",
+      "4. The Tuluva dynasty came to an end with the death of Narasanayaka"
+    ],
+    "explanation": "2. சாளுவ நரசிம்மர் சங்கம வம்சத்தின் முதல் அரசரான இரண்டாம் விருபாக்சிராயரைக் கொலை செய்துவிட்டு, தம்மையே பேரரசராக அறிவித்துக் கொண்டார்.",
+    "explanation_en": "2. Chaluva Narasimha killed Virupakshiraya II, the first king of the Sangama dynasty, and proclaimed himself emperor."
+  },
+  {
+    "id": 21,
+    "question": "இரண்டாம் விருப்பாக்சிராயர் வம்சத்தின் கடைசி அரசர் ஆவார்.",
+    "options": [
+      "சாளுவ",
+      "துளுவ",
+      "ஆரவீடு",
+      "சங்கம"
+    ],
+    "correct": 3,
+    "question_en": "Vishwaksirayar II was the last king of the dynasty.",
+    "options_en": [
+      "Chaluva",
+      "Tuluva",
+      "Araveed",
+      "confluence"
+    ],
+    "explanation": "சங்கம",
+    "explanation_en": "confluence"
+  },
+  {
+    "id": 22,
+    "question": "சாளுவ வம்சத்தின் முடிவுக்கு பிறகு நரசநாயக்கர் வம்சத்தின் ஆட்சியைத் தொடங்கி வைத்தார்.",
+    "options": [
+      "சாளுவ",
+      "துளுவ",
+      "ஆரவீடு",
+      "சங்கம"
+    ],
+    "correct": 1,
+    "question_en": "After the end of the Chaluva dynasty, Narasanayaka started the reign of the dynasty.",
+    "options_en": [
+      "Chaluva",
+      "Tuluva",
+      "Araveed",
+      "confluence"
+    ],
+    "explanation": "துளுவ",
+    "explanation_en": "Tuluva"
+  },
+  {
+    "id": 23,
+    "question": "கிருஷ்ண தேவராயர் ஆண்டுகள் ஆட்சி புரிந்தார்.",
+    "options": [
+      "20",
+      "15",
+      "14",
+      "25"
+    ],
+    "correct": 0,
+    "question_en": "Krishna Devaraya ruled for years.",
+    "options_en": [
+      "20",
+      "15",
+      "14",
+      "25"
+    ],
+    "explanation": "20",
+    "explanation_en": "20"
+  },
+  {
+    "id": 24,
+    "question": "திறமை மிகுந்த படைத் தளபதியான அரியணையைக் கைப்பற்றித் துளுவ வம்சத்தின் ஆட்சியைத் தொடங்கி வைத்தார்.",
+    "options": [
+      "நரசநாயக்கர்",
+      "கிருஷ்ணதேவராயர்",
+      "புக்கர்",
+      "ஹரிஹரர்"
+    ],
+    "correct": 0,
+    "question_en": "A skilled military commander, he usurped the throne and started the rule of the Tuluva dynasty.",
+    "options_en": [
+      "Narasanayakar",
+      "Krishnadevaraya",
+      "Booker",
+      "Harihar"
+    ],
+    "explanation": "நரசநாயக்கர்",
+    "explanation_en": "Narasanayakar"
+  },
+  {
+    "id": 25,
+    "question": "துளுவ வம்ச அரசர்களுள் மிகவும் போற்றதலுக்கு உரியவர்",
+    "options": [
+      "கிருஷ்ணதேவராயர்",
+      "முதலாம் தேவராயர்",
+      "இரண்டாம் தேவராயர்",
+      "திருமலை தேவராயர்"
+    ],
+    "correct": 0,
+    "question_en": "He was the most admired among the Tuluva kings",
+    "options_en": [
+      "Krishnadevaraya",
+      "First Devarayara",
+      "Devaraya II",
+      "Tirumala Devarayar"
+    ],
+    "explanation": "கிருஷ்ணதேவராயர்",
+    "explanation_en": "Krishnadevaraya"
+  },
+  {
+    "id": 26,
+    "question": "கீழ்க்காணும் கூற்றுகளை ஆய்க.\nI. பச்சைக்கலந்த நீலவண்ணத்தைக் கொண்ட விலையுயர்ந்த கற்களால் ஆன அரியணை பாரசீக அரசர்களின் அரசவையை அலங்கரித்தன என பிர்தௌசி தன்னுடய ஷா நாமா எனும் நூலில் குறிப்பிட்டுள்ளார்.\nII. விஜயநகர, பாமினி அரசர்களுக்கிடையே மோதல்கள் ஏற்படுவதற்கு கிருஷ்ணா-துங்கபத்ரா நதிகளுக்கு இடைப்பட்ட செழிப்பான பகுதி மற்றும் கிருஷ்ணா- கோதாவரி நதிகளுக்கு இடைப்பட்ட கழிமுகப் பகுதியே காரணமாக அமைந்தன.\nIII. முதலாம் முகமது முல்தானில் கல்வி பயின்றார்.\nIV. முகமது கவான் மூன்றாம் முகமதுவின் கீழ் தனித்தன்மை மிக்க பிரதம அமைச்சராக பணியாற்றினார்.",
+    "options": [
+      "I மற்றும் || சரி",
+      "I, II மற்றும் III சரி",
+      "I, II மற்றும் IV சரி",
+      "III மற்றும் IV சரி"
+    ],
+    "correct": 2,
+    "question_en": "Examine the following statements.\nI. Firdausi mentions in Tannudaya Shah Nama that thrones made of precious stones of greenish-blue color adorned the courts of Persian kings.\nII. The fertile area between the Krishna-Tungapatra rivers and the estuary between the Krishna-Godavari rivers gave rise to conflicts between the Vijayanagara and Bamini kings.\nIII. Muhammad I was educated in Multan.\nIV. Mohammed Gavan served as the distinguished Prime Minister under Mohammed III.",
+    "options_en": [
+      "I and || ok",
+      "I, II and III are correct",
+      "I, II and IV are correct",
+      "III and IV are correct"
+    ],
+    "explanation": "I, II மற்றும் IV சரி",
+    "explanation_en": "I, II and IV are correct"
+  },
+  {
+    "id": 27,
+    "question": "கிருஷ்ண தேவராயர் ஒடிசாவை சேர்ந்த வம்ச அரசர் பிரதாப ருத்திரனோடு போர் புரிந்தார்.",
+    "options": [
+      "சாளுவ",
+      "துளுவ",
+      "ஆரவீடு",
+      "கஜபதி"
+    ],
+    "correct": 3,
+    "question_en": "Krishna Devaraya fought a war with Prataba Rudra, a dynastic king from Odisha.",
+    "options_en": [
+      "Chaluva",
+      "Tuluva",
+      "Araveed",
+      "Gajapati"
+    ],
+    "explanation": "கஜபதி",
+    "explanation_en": "Gajapati"
+  },
+  {
+    "id": 28,
+    "question": "கிருஷ்ண தேவராயர் பீரங்கிப்படை உதவியுடன் கோல்கொண்டா சுல்தானை தோற்கடித்தார் பின் பீஜப்பூர் சுல்தானிடமிருந்து ரெய்ச்சூரைக் கைப்பற்றினர்",
+    "options": [
+      "ஆங்கிலேயர்",
+      "முகலாயர்",
+      "போர்ச்சுகீசியர்",
+      "ஐரோப்பியர்"
+    ],
+    "correct": 2,
+    "question_en": "Krishna Devaraya defeated Golconda Sultan with the help of artillery then captured Raichur from Bijapur Sultan.",
+    "options_en": [
+      "Englishman",
+      "Mughal",
+      "Portuguese",
+      "European"
+    ],
+    "explanation": "போர்ச்சுகீசியர்",
+    "explanation_en": "Portuguese"
+  },
+  {
+    "id": 29,
+    "question": "ஆட்சிப் பொறுப்பை ஏற்றவுடன் துங்கபத்ரா நதிப்பள்ளத்தாக்குப் பகுதியில் சுதந்திரமாகச் செயல்பட்டு வந்த தலைவர்களை அடக்குவதே அவரின் முதற்கட்ட தலையாயப் பணியாக இருந்தது.",
+    "options": [
+      "ஹரிஹரர்",
+      "கிருஷ்ண தேவராயர்",
+      "புக்கர்",
+      "நரசநாயக்கர்"
+    ],
+    "correct": 1,
+    "question_en": "His first major task after assuming power was to suppress the leaders who were operating independently in the Tungabhadra river valley.",
+    "options_en": [
+      "Harihar",
+      "Krishna Devaraya",
+      "Booker",
+      "Narasanayakar"
+    ],
+    "explanation": "கிருஷ்ண தேவராயர்",
+    "explanation_en": "Krishna Devaraya"
+  },
+  {
+    "id": 30,
+    "question": "பொருந்தாதைக் கண்டுபிடி.\n1. இரண்டாம் தேவராயர்\n2. கிருஷ்ண தேவராயர்\n3. கிருஷ்ணசாமி கோவில்\n4. ராமசாமி கோவில்",
+    "options": [
+      "இரண்டாம் தேவராயர்",
+      "கிருஷ்ண தேவராயர்",
+      "கிருஷ்ணசாமி கோவில்",
+      "ராமசாமி கோவில்"
+    ],
+    "correct": 0,
+    "question_en": "Find a match.\n1. Devaraya II\n2. Krishna Devaraya\n3. Krishnasamy Temple\n4. Ramasamy Temple",
+    "options_en": [
+      "Devaraya II",
+      "Krishna Devaraya",
+      "Krishnasamy Temple",
+      "Ramasamy Temple"
+    ],
+    "explanation": "இரண்டாம் தேவராயர்",
+    "explanation_en": "Devaraya II"
+  },
+  {
+    "id": 31,
+    "question": "பாமினி சுல்தான் முகமதுஷாவை, மீண்டும் அரியணையில் அமர வைத்தவர்",
+    "options": [
+      "ஹரிஹரர்",
+      "கிருஷ்ண தேவராயர்",
+      "புக்கர்",
+      "நரசநாயக்கர்"
+    ],
+    "correct": 1,
+    "question_en": "Bamini Sultan who reinstated Muhammadusha on the throne",
+    "options_en": [
+      "Harihar",
+      "Krishna Devaraya",
+      "Booker",
+      "Narasanayakar"
+    ],
+    "explanation": "கிருஷ்ண தேவராயர்",
+    "explanation_en": "Krishna Devaraya"
+  },
+  {
+    "id": 32,
+    "question": "போரில் விஜயநகரம் தோற்கடிக்கப்பட்டது.",
+    "options": [
+      "பக்சார் போர்",
+      "தலைக்கோட்டை போர்",
+      "பாமினி போர்",
+      "முதல் விஜயநகர போர்"
+    ],
+    "correct": 1,
+    "question_en": "Vijayanagar was defeated in the war.",
+    "options_en": [
+      "Battle of Buxar",
+      "Battle of Talikot",
+      "Battle of Bamini",
+      "First Battle of Vijayanagara"
+    ],
+    "explanation": "தலைக்கோட்டை போர்",
+    "explanation_en": "Battle of Talikot"
+  },
+  {
+    "id": 33,
+    "question": "சரியான கூற்றை தேர்வு செய்:\n1. மழை நீரை சேமிப்பதற்காக நீர்ப்பாசனக் குளங்களையும், நீர்த்தேக்கங்களையும் உருவாக்கியவர் இரண்டாம் தேவராயர்.\n2. ராயகோபுரம் என்பது கோட்டைகளின் நுழைவாயில்களில் கோபுரங்களை கட்டுவது ஆகும்.\n3. கிருஷ்ண தேவராயர் மேற்கு கடற்கரையிலுள்ள கப்பல்கள் மூலம் அரேபியாவிலிருந்தும், ஈரானிலிருந்தும் குதிரைகளை விஜய நகர துறைமுகத்திற்கு கொண்டுவந்தார்.\n4. கிருஷ்ணதேவராயர் தலைநகரான ஒடிசாவில் கிருஷ்ணசாமி கோவில், ஹசாரா ராமசாமி கோவில், விட்டலாசுவாமி கோவில் போன்ற புகழ்பெற்ற கோவில்களைக் கட்டினார்.",
+    "options": [
+      "1. மழை நீரை சேமிப்பதற்காக நீர்ப்பாசனக் குளங்களையும், நீர்த்தேக்கங்களையும் உருவாக்கியவர் இரண்டாம் தேவராயர்.",
+      "2. ராயகோபுரம் என்பது கோட்டைகளின் நுழைவாயில்களில் கோபுரங்களை கட்டுவது ஆகும்.",
+      "3. கிருஷ்ண தேவராயர் மேற்கு கடற்கரையிலுள்ள கப்பல்கள் மூலம் அரேபியாவிலிருந்தும், ஈரானிலிருந்தும் குதிரைகளை விஜய நகர துறைமுகத்திற்கு கொண்டுவந்தார்.",
+      "4. கிருஷ்ணதேவராயர் தலைநகரான ஒடிசாவில் கிருஷ்ணசாமி கோவில், ஹசாரா ராமசாமி கோவில், விட்டலாசுவாமி கோவில் போன்ற புகழ்பெற்ற கோவில்களைக் கட்டினார்."
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct statement:\n1. Devaraya II created irrigation ponds and reservoirs to store rain water.\n2. Rayagopuram is the construction of towers at the entrances of forts.\n3. Krishna Devaraya brought horses from Arabia and Iran to the port of Vijayanagara through ships on the west coast.\n4. Krishnadevarayar built famous temples like Krishnasamy Temple, Hazara Ramasamy Temple, Vitthalaswamy Temple in the capital Odisha.",
+    "options_en": [
+      "1. Devaraya II created irrigation ponds and reservoirs to store rain water.",
+      "2. Rayagopuram is the construction of towers at the entrances of forts.",
+      "3. Krishna Devaraya brought horses from Arabia and Iran to the port of Vijayanagara through ships on the west coast.",
+      "4. Krishnadevarayar built famous temples like Krishnasamy Temple, Hazara Ramasamy Temple, Vitthalaswamy Temple in the capital Odisha."
+    ],
+    "explanation": "1. மழை நீரை சேமிப்பதற்காக நீர்ப்பாசனக் குளங்களையும், நீர்த்தேக்கங்களையும் உருவாக்கியவர் இரண்டாம் தேவராயர்.",
+    "explanation_en": "1. Devaraya II created irrigation ponds and reservoirs to store rain water."
+  },
+  {
+    "id": 34,
+    "question": "எட்டு இலக்கிய மேதைகள் என்று அழைக்கப்பட்டனர்.",
+    "options": [
+      "அஷ்டதிக்கஜங்கள்",
+      "கவிஞர்கள்",
+      "இலக்கிய மேதைகள்",
+      "போதகர்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Eight were called literary geniuses.",
+    "options_en": [
+      "Ashtadikajas",
+      "Poets",
+      "Literary geniuses",
+      "Pastors"
+    ],
+    "explanation": "அஷ்டதிக்கஜங்கள்",
+    "explanation_en": "Ashtadikajas"
+  },
+  {
+    "id": 35,
+    "question": "எட்டு இலக்கிய மேதைகளில் சிறந்த ஆளுமையாளர்",
+    "options": [
+      "தெனாலிராமன்",
+      "ஸ்ரீநாதர்",
+      "பெத்தண்ணா",
+      "துக்கண்ணா"
+    ],
+    "correct": 2,
+    "question_en": "The greatest personality among the eight literary geniuses",
+    "options_en": [
+      "Denali Raman",
+      "Srinath",
+      "Bethanna",
+      "Dukanna"
+    ],
+    "explanation": "பெத்தண்ணா",
+    "explanation_en": "Bethanna"
+  },
+  {
+    "id": 36,
+    "question": "கிருஷ்ண தேவராயரைத் தொடர்ந்து அவருடைய இளைய சகோதரர் ஆட்சிப் பொறுப்பேற்றார்.",
+    "options": [
+      "ராமராயர்",
+      "திருமலை தேவராயர்",
+      "அச்சுதராயர்",
+      "சதாசிவராயர்"
+    ],
+    "correct": 2,
+    "question_en": "Krishna Devaraya was succeeded by his younger brother.",
+    "options_en": [
+      "Rama Raya",
+      "Tirumala Devarayar",
+      "Printer",
+      "Satashivarayara"
+    ],
+    "explanation": "அச்சுதராயர்",
+    "explanation_en": "Printer"
+  },
+  {
+    "id": 37,
+    "question": "திருமலை தேவராயர் விலைமதிக்கமுடியா செல்வங்களோடு சந்திரகிரியில் வம்சத்தின் ஆட்சியைத் தொடங்கினார்.",
+    "options": [
+      "துளுவ",
+      "சாளுவ",
+      "ஆரவீடு",
+      "சங்கம"
+    ],
+    "correct": 2,
+    "question_en": "Thirumalai Devaraya started the dynasty at Chandragiri with inestimable wealth.",
+    "options_en": [
+      "Tuluva",
+      "Chaluva",
+      "Araveed",
+      "confluence"
+    ],
+    "explanation": "ஆரவீடு",
+    "explanation_en": "Araveed"
+  },
+  {
+    "id": 38,
+    "question": "பீஜப்பூர், கோல்கொண்டா சுல்தான்களின் சூழ்ச்சிகளால் விஜயநகர அரசு இல் இறுதியாக வீழ்ச்சியுற்றது.",
+    "options": [
+      "1625",
+      "1660",
+      "1634",
+      "1646"
+    ],
+    "correct": 3,
+    "question_en": "The Vijayanagara state finally fell due to the intrigues of the Bijapur and Golconda Sultans.",
+    "options_en": [
+      "1625",
+      "1660",
+      "1634",
+      "1646"
+    ],
+    "explanation": "1646",
+    "explanation_en": "1646"
+  },
+  {
+    "id": 39,
+    "question": "அரச உரிமையைச் சாளுவ நரசிம்மர் முறைகேடாகக் கைப்பற்றியதால், சங்கம வம்சம் முடிவுற்று வம்ச ஆட்சி தொடங்கியது",
+    "options": [
+      "துளுவ",
+      "சாளுவ",
+      "ஆரவீடு",
+      "சங்கம"
+    ],
+    "correct": 1,
+    "question_en": "As Chaluva Narasimha usurped the royal right, Sangama dynasty ended and dynastic rule began.",
+    "options_en": [
+      "Tuluva",
+      "Chaluva",
+      "Araveed",
+      "confluence"
+    ],
+    "explanation": "சாளுவ",
+    "explanation_en": "Chaluva"
+  },
+  {
+    "id": 40,
+    "question": "விஜயநகர அரசமைப்புப் பிரிக்கப்பட்டிருந்த முறை",
+    "options": [
+      "1. கிராமங்கள், ஸ்தலங்கள் (வட்டங்கள்), நாடுகள் (மாவட்டங்கள்), பேரரசு மண்டலங்கள் (மாநிலம்).",
+      "2. நாடுகள் (மாவட்டங்கள்), பேரரசு மண்டலங்கள் (மாநிலம்), ஸ்தலங்கள் (வட்டங்கள்), கிராமங்கள்.",
+      "3. பேரரசு மண்டலங்கள் (மாநிலம்), நாடுகள் (மாவட்டங்கள்), ஸ்தலங்கள் (வட்டங்கள்), ஊர்கள்.",
+      "4. பேரரசு மண்டலங்கள் (மாநிலம்), நாடுகள் (மாவட்டங்கள்), ஸ்தலங்கள் (வட்டங்கள்), கிராமங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "The system in which the Vijayanagara polity was divided",
+    "options_en": [
+      "1. Villages, places (circles), nations (districts), empires (states).",
+      "2. Countries (Districts), Empire Mandals (State), Sthalas (Circles), Villages.",
+      "3. Empire Mandals (States), States (Districts), Sthalas (Circles), Towns.",
+      "4. Empire Mandals (States), Nagaras (Districts), Sthalas (Circles), Villages"
+    ],
+    "explanation": "4. பேரரசு மண்டலங்கள் (மாநிலம்), நாடுகள் (மாவட்டங்கள்), ஸ்தலங்கள் (வட்டங்கள்), கிராமங்கள்",
+    "explanation_en": "4. Empire Mandals (States), Nagaras (Districts), Sthalas (Circles), Villages"
+  },
+  {
+    "id": 41,
+    "question": "விஜயநகரப் பேரரசர்கள் வராகன் என்னும் பெயரில் நாணயங்களை வெளியிட்டனர்.",
+    "options": [
+      "தங்கம்",
+      "வெள்ளி",
+      "வைரம்",
+      "செப்பு"
+    ],
+    "correct": 0,
+    "question_en": "The Vijayanagara emperors issued coins in the name of Varagan.",
+    "options_en": [
+      "Gold",
+      "Friday",
+      "Diamond",
+      "Copper"
+    ],
+    "explanation": "தங்கம்",
+    "explanation_en": "Gold"
+  },
+  {
+    "id": 42,
+    "question": "கீழ்க்காணும் கூற்றுகளை ஆராய்க.\n1. ஒவ்வொரு மண்டலமும் கௌடா என்ற ஆளுநரின் கீழிருந்தது.\n2. கிராமமே நிர்வாகத்தின் மிகச் சிறிய அலகாக இருந்தது.\n3. ஒவ்வொரு கிராமத்திலும் கிராமசபை என்ற அமைப்பிருந்தது.\n4. பேரரசின் இராணுவம் காலாட்படை, குதிரைப்படை, யானைப்படை ஆகிய பிரிவுகளைக் கொண்டிருந்தது.",
+    "options": [
+      "I மற்றும் || சரி",
+      "I, II மற்றும் III சரி",
+      "II, III மற்றும் IV சரி",
+      "III மற்றும் IV சரி"
+    ],
+    "correct": 2,
+    "question_en": "Examine the following statements.\n1. Each region was under a governor called Gauda.\n2. The village itself was the smallest unit of administration.\n3. Every village had a body called Gram Sabha.\n4. The army of the empire consisted of infantry, cavalry and elephants.",
+    "options_en": [
+      "I and || ok",
+      "I, II and III are correct",
+      "II, III and IV are correct",
+      "III and IV are correct"
+    ],
+    "explanation": "II, III மற்றும் IV சரி",
+    "explanation_en": "II, III and IV are correct"
+  },
+  {
+    "id": 43,
+    "question": "கைவினைஞர்களுக்கும் வர்த்தகர்களுக்கும் தனித்தனியே கில்டுகள் என்றழைக்கப்படும் தொழில்சார் அமைப்புகள் இருந்ததாக பாரசீகப் பயணியான குறிப்பிட்டுள்ளார்.",
+    "options": [
+      "அப்துர்ஷா",
+      "அப்துர் ரஸாக்",
+      "அலாவுதீன் ஹசன்",
+      "முகம்மது ரஸாக்"
+    ],
+    "correct": 1,
+    "question_en": "A Persian traveler mentions that artisans and traders had separate professional bodies called guilds.",
+    "options_en": [
+      "Abdursha",
+      "Abdur Razzaq",
+      "Alauddin Hasan",
+      "Mohammed Razzaq"
+    ],
+    "explanation": "அப்துர் ரஸாக்",
+    "explanation_en": "Abdur Razzaq"
+  },
+  {
+    "id": 44,
+    "question": "தவறான இணையைக் கண்டறியவும்:\n1. பட்டு - சீனா\n2. வாசனைப் பொருட்கள் - அரேபியா\n3. விலைமதிப்பற்ற கற்கள் - பர்மா\n4. மதுரா விஜயம் - கங்கா தேவி",
+    "options": [
+      "பட்டு - சீனா",
+      "வாசனைப் பொருட்கள் - அரேபியா",
+      "விலைமதிப்பற்ற கற்கள் - பர்மா",
+      "மதுரா விஜயம் - கங்கா தேவி"
+    ],
+    "correct": 1,
+    "question_en": "Find the wrong parallel:\n1. Silk - China\n2. Perfumery - Arabia\n3. Precious stones - Burma\n4. Visit Mathura - Goddess Ganga",
+    "options_en": [
+      "Silk - China",
+      "Perfumery - Arabia",
+      "Precious stones - Burma",
+      "Visit Mathura - Goddess Ganga"
+    ],
+    "explanation": "வாசனைப் பொருட்கள் - அரேபியா",
+    "explanation_en": "Perfumery - Arabia"
+  },
+  {
+    "id": 45,
+    "question": "கிருஷ்ண தேவராயர் அமுக்தமால்யதா என்னும் காவியத்தைத் மொழியில் இயற்றினார்.",
+    "options": [
+      "தமிழ்",
+      "தெலுங்கு",
+      "சமஸ்கிருதம்",
+      "பிராகிருதம்"
+    ],
+    "correct": 1,
+    "question_en": "Krishna Devaraya composed the epic poem Amuktamalayata in the language.",
+    "options_en": [
+      "Tamil",
+      "Telugu",
+      "Sanskrit",
+      "Prakrit"
+    ],
+    "explanation": "தெலுங்கு",
+    "explanation_en": "Telugu"
+  },
+  {
+    "id": 46,
+    "question": "கிருஷ்ண தேவராயர் மொழியில் ஜாம்பவதி கல்யாணம் என்னும் நாடக நூலையும் எழுதினார்.",
+    "options": [
+      "தமிழ்",
+      "தெலுங்கு",
+      "சமஸ்கிருதம்",
+      "பிராகிருதம்"
+    ],
+    "correct": 2,
+    "question_en": "Krishna Devaraya also wrote a drama called Jambavati Kalyanam in the language.",
+    "options_en": [
+      "Tamil",
+      "Telugu",
+      "Sanskrit",
+      "Prakrit"
+    ],
+    "explanation": "சமஸ்கிருதம்",
+    "explanation_en": "Sanskrit"
+  },
+  {
+    "id": 47,
+    "question": "அலாவுதீன் ஹசன் ஆண்டுகள் ஆட்சி புரிந்தார்",
+    "options": [
+      "11",
+      "15",
+      "16",
+      "18"
+    ],
+    "correct": 0,
+    "question_en": "Alauddin Hasan ruled for years",
+    "options_en": [
+      "11",
+      "15",
+      "16",
+      "18"
+    ],
+    "explanation": "11",
+    "explanation_en": "11"
+  },
+  {
+    "id": 48,
+    "question": "என்னும் நூலைத் தெனாலி ராமகிருஷ்ணா எழுதினார்.",
+    "options": [
+      "அமுக்தமால்யதா",
+      "பாண்டுரங்க மகாமத்தியம்",
+      "ஜாம்பவதி கல்யாணம்",
+      "மதுரா விஜயம்"
+    ],
+    "correct": 1,
+    "question_en": "Denali Ramakrishna wrote the book.",
+    "options_en": [
+      "Amuktamalyada",
+      "Banduranga Mahamadhyam",
+      "Jambavati marriage",
+      "Visit to Mathura"
+    ],
+    "explanation": "பாண்டுரங்க மகாமத்தியம்",
+    "explanation_en": "Banduranga Mahamadhyam"
+  },
+  {
+    "id": 49,
+    "question": "ஸ்ரீநாதர், பெத்தண்ணா, ஜக்கம்மா, துக்கண்ணா போன்ற புலவர்கள் சமஸ்கிருத, பிராகிருத மொழிகளில் எழுதப்பட்ட நூல்களைத் மொழியில் மொழியாக்கம் செய்தனர்.",
+    "options": [
+      "தமிழ்",
+      "தெலுங்கு",
+      "சமஸ்கிருதம்",
+      "பிராகிருதம்"
+    ],
+    "correct": 1,
+    "question_en": "Poets like Srinathar, Bethanna, Jakkamma, Tukkanna translated texts written in Sanskrit and Prakrit languages.",
+    "options_en": [
+      "Tamil",
+      "Telugu",
+      "Sanskrit",
+      "Prakrit"
+    ],
+    "explanation": "தெலுங்கு",
+    "explanation_en": "Telugu"
+  },
+  {
+    "id": 50,
+    "question": "விஜயநகர கட்டட தூண்களில் பெரும்பாலும் காணப்படும் விலங்கு எது?",
+    "options": [
+      "யானை",
+      "குதிரை",
+      "பசு",
+      "மான்"
+    ],
+    "correct": 1,
+    "question_en": "Which animal is mostly found on pillars of Vijayanagara?",
+    "options_en": [
+      "Elephant",
+      "Horse",
+      "the cow",
+      "Deer"
+    ],
+    "explanation": "விஜயநகர கட்டட தூண்களில் பெரும்பாலும் காணப்படும் விலங்கு குதிரை ஆகும்.",
+    "explanation_en": "Horse"
+  },
+  {
+    "id": 51,
+    "question": "அலாவுதீன் ஹசன் தமது அரசை நான்கு மாகாணங்களாகப் பிரித்தார். அவை என அழைக்கப்பட்டன.",
+    "options": [
+      "வட்டங்கள்",
+      "மண்டலங்கள்",
+      "தராப்",
+      "மாவட்டங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Alauddin Hasan divided his kingdom into four provinces. They were called",
+    "options_en": [
+      "Circles",
+      "Zones",
+      "Darab",
+      "Districts"
+    ],
+    "explanation": "தராப்",
+    "explanation_en": "Darab"
+  },
+  {
+    "id": 52,
+    "question": "பாமினி வம்சத்தில் அரசர்கள் இடம் பெற்றுள்ளனர்.",
+    "options": [
+      "13",
+      "15",
+      "18",
+      "10"
+    ],
+    "correct": 2,
+    "question_en": "Bamini dynasty has its kings.",
+    "options_en": [
+      "13",
+      "15",
+      "18",
+      "10"
+    ],
+    "explanation": "18",
+    "explanation_en": "18"
+  },
+  {
+    "id": 53,
+    "question": "1368 இல் வாரங்கல் அரசோடு போரிட்டு கோல்கொண்டா கோட்டை, பச்சை கலந்த நீல வண்ணக் கற்களால் செய்யப்பட்ட சிம்மாசனம் ஆகியவற்றை இழப்பீடாகப் பெற்றவர்",
+    "options": [
+      "அலாவுதீன் ஹசன்",
+      "தாவூத்",
+      "முதலாம் முகமது ஷா",
+      "முஜாகித்"
+    ],
+    "correct": 2,
+    "question_en": "In 1368 he fought the Warangal kingdom and received Golconda fort and throne made of greenish blue stones as compensation.",
+    "options_en": [
+      "Alauddin Hasan",
+      "Dawood",
+      "Muhammad Shah I",
+      "Mujakid"
+    ],
+    "explanation": "முதலாம் முகமது ஷா",
+    "explanation_en": "Muhammad Shah I"
+  },
+  {
+    "id": 54,
+    "question": "பாமினி அரசிற்கு வலுவான அடித்தளத்தை அமைத்துக் கொடுத்தவர்",
+    "options": [
+      "அலாவுதீன் ஹசன்",
+      "இரண்டாம் முகமது",
+      "முதலாம் முகமது ஷா",
+      "முஜாகித்"
+    ],
+    "correct": 2,
+    "question_en": "He laid a strong foundation for the Bamini kingdom",
+    "options_en": [
+      "Alauddin Hasan",
+      "Muhammad II",
+      "Muhammad Shah I",
+      "Mujakid"
+    ],
+    "explanation": "முதலாம் முகமது ஷா",
+    "explanation_en": "Muhammad Shah I"
+  },
+  {
+    "id": 55,
+    "question": "ஒலி தொடர்பான கட்டடக்கலை அம்சங்களுக்கு பெயர்பெற்ற கோட்டை",
+    "options": [
+      "கோல்கொண்டா கோட்டை",
+      "கள்ளிக்கோட்டை",
+      "தலைக்கோட்டை",
+      "பெனுகொண்டா கோட்டை"
+    ],
+    "correct": 0,
+    "question_en": "The fort is known for its architectural features related to sound",
+    "options_en": [
+      "Golconda Fort",
+      "Kallikottai",
+      "Talikotta",
+      "Benukonda Fort"
+    ],
+    "explanation": "கோல்கொண்டா கோட்டை",
+    "explanation_en": "Golconda Fort"
+  },
+  {
+    "id": 56,
+    "question": "அமீர்-இ-ஜூம்லா பாமினி அரசின் ஆவார்.",
+    "options": [
+      "நிதியமைச்சர்",
+      "பொருளாதார அமைச்சர்",
+      "கல்வி அமைச்சர்",
+      "அரச ஆலோசகர்"
+    ],
+    "correct": 0,
+    "question_en": "Amir-e-Jumla was the Bamini government.",
+    "options_en": [
+      "Finance Minister",
+      "Economic Minister",
+      "Minister of Education",
+      "State Counsel"
+    ],
+    "explanation": "நிதியமைச்சர்",
+    "explanation_en": "Finance Minister"
+  },
+  {
+    "id": 57,
+    "question": "பாமினி அரசின் தலைமை நீதிபதி ஆவார்.",
+    "options": [
+      "அமீர்-இ-ஜூம்லா",
+      "சதார்-இ-ஜஹான்",
+      "வஷிர்-இ-ஆசாரப்",
+      "நஷீர்"
+    ],
+    "correct": 1,
+    "question_en": "Bamini is the Chief Justice of the Government.",
+    "options_en": [
+      "Ameer-e-Jumla",
+      "Saddar-e-Jahan",
+      "Washir-e-Asarab",
+      "Nashir"
+    ],
+    "explanation": "சதார்-இ-ஜஹான்",
+    "explanation_en": "Saddar-e-Jahan"
+  },
+  {
+    "id": 58,
+    "question": "பாமினி அரசின் உதவி நிதி அமைச்சர் ஆவார்.",
+    "options": [
+      "அமீர்-இ-ஜூம்லா",
+      "சதார்-இ-ஜஹான்",
+      "வஷிர்-இ-ஆசாரப்",
+      "நஷீர்"
+    ],
+    "correct": 3,
+    "question_en": "Bamini is the Assistant Finance Minister of Govt.",
+    "options_en": [
+      "Ameer-e-Jumla",
+      "Saddar-e-Jahan",
+      "Washir-e-Asarab",
+      "Nashir"
+    ],
+    "explanation": "நஷீர்",
+    "explanation_en": "Nashir"
+  },
+  {
+    "id": 59,
+    "question": "பாமினி அரசின் வெளியுறவுத் துறை அமைச்சர்",
+    "options": [
+      "அமீர்-இ-ஜூம்லா",
+      "சதார்-இ-ஜஹான்",
+      "வஷிர்-இ-அசாரப்",
+      "நஷீர்"
+    ],
+    "correct": 2,
+    "question_en": "Minister of External Affairs of Bamini Govt",
+    "options_en": [
+      "Ameer-e-Jumla",
+      "Saddar-e-Jahan",
+      "Washir-e-Azarab",
+      "Nashir"
+    ],
+    "explanation": "வஷிர்-இ-அசாரப்",
+    "explanation_en": "Washir-e-Azarab"
+  },
+  {
+    "id": 60,
+    "question": "பாமினியரசின் வளர்ச்சிக்குப் பெரும் பங்களிப்பைச் செய்த பிரதம அமைச்சர்",
+    "options": [
+      "முஜாகித்",
+      "தாவூத்",
+      "முகமது கவான்",
+      "மகமது கவான்"
+    ],
+    "correct": 3,
+    "question_en": "The Prime Minister who contributed a lot to the development of Bamiyanyar",
+    "options_en": [
+      "Mujakid",
+      "Dawood",
+      "Mohammed Gavan",
+      "Mohammad Gavan"
+    ],
+    "explanation": "மகமது கவான்",
+    "explanation_en": "Mohammad Gavan"
+  },
+  {
+    "id": 61,
+    "question": "மதுரை சுல்தானிய அரசை முடிவுக்குக்கொண்டு வந்தவர்",
+    "options": [
+      "சாளுவநரசிம்மர்",
+      "இரண்டாம் தேவராயர்",
+      "குமார கம்பணா",
+      "திருமலை தேவராயர்"
+    ],
+    "correct": 2,
+    "question_en": "He brought an end to the Madurai Sultanate",
+    "options_en": [
+      "Chaluvanarasimhar",
+      "Devaraya II",
+      "Kumar Kampana",
+      "Tirumala Devarayar"
+    ],
+    "explanation": "குமார கம்பணா",
+    "explanation_en": "Kumar Kampana"
+  },
+  {
+    "id": 62,
+    "question": "பாமினி அரசில் சிறந்த மொழியறிஞராகவும், கவிஞராகவும் விளங்கியவர்",
+    "options": [
+      "அலாவுதீன் ஹசன் விரா",
+      "முகம்மது",
+      "சுல்தான் பெரோஸ்",
+      "முஜாஹித்"
+    ],
+    "correct": 2,
+    "question_en": "Bamini was a great linguist and poet in the kingdom",
+    "options_en": [
+      "Alauddin Hasan Vira",
+      "Mohammed",
+      "Sultan Peroz",
+      "Mujahid"
+    ],
+    "explanation": "சுல்தான் பெரோஸ்",
+    "explanation_en": "Sultan Peroz"
+  },
+  {
+    "id": 63,
+    "question": "பொருந்தாததைக் கண்டுபிடி:\n1. ஹரிஹரர் - ||\n2. மகமுது\n3. கிருஷ்ணதேவராயர்\n4. தேவராயர்",
+    "options": [
+      "ஹரிஹரர் - ||",
+      "மகமுது",
+      "கிருஷ்ணதேவராயர்",
+      "தேவராயர்"
+    ],
+    "correct": 1,
+    "question_en": "Find the mismatch:\n1. Hariharar - ||\n2. Mahamudu\n3. Krishnadevaraya\n4. Devarayar",
+    "options_en": [
+      "Hariharar - ||",
+      "Mahamudu",
+      "Krishnadevaraya",
+      "Devarayar"
+    ],
+    "explanation": "மகமுது",
+    "explanation_en": "Mahamudu"
+  },
+  {
+    "id": 64,
+    "question": "கூற்றைக் காரணத்தோடு பொருத்துக:\nகூற்று: இந்தியாவில் விஜயநகர அரசின் இராணுவம் அச்சுறுத்தக் கூடியதாக இருந்தது.\nகாரணம்: விஜயநகர இராணுவம் பீரங்கிபடை மற்றும் குதிரைப்படையைக் கொண்டிருந்தது.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல",
+      "காரணம் கூற்றிற்கான சரியான விளக்கம்",
+      "காரணம் மற்றும் கூற்று தவறு",
+      "காரணம் மற்றும் கூற்று சரி"
+    ],
+    "correct": 1,
+    "question_en": "Match the statement with the reason:\nAssertion: The army of the Vijayanagara government in India was formidable.\nReason: Vijayanagara army consisted of artillery and cavalry.",
+    "options_en": [
+      "Reason is not a valid explanation for the claim",
+      "A valid explanation for the causal statement",
+      "Reason and statement are false",
+      "Reason and statement are correct"
+    ],
+    "explanation": "காரணம் கூற்றிற்கான சரியான விளக்கம்",
+    "explanation_en": "A valid explanation for the causal statement"
+  },
+  {
+    "id": 65,
+    "question": "பொருத்துக\ni விஜயநகரம்\nii. பிரதாபருத்திரன்\niii. கிருஷ்ணதேவராயர்\niv. அப்துர் ரஸாக்\nv. தெனாலிராமகிருஷ்ணா\na. ஒடிசாவின் ஆட்சியாளர்\nb. அஷ்டதிக்கஜங்கள்\nc. பாண்டுரங்கமகாமத்தியம்\nd. வெற்றியின் நகரம்\ne. பாரசீக சிற்பக் கலைஞர்",
+    "options": [
+      "i a ii- b iii- e iv - c v - d",
+      "i b ii- e iii- c iv- d v-a",
+      "i- e ii- c iii- d iv - a v - b",
+      "i-d ii- a iii- b iv - e v-c"
+    ],
+    "correct": 3,
+    "question_en": "match\ni Vijayanagaram\nii. Prathaparudra\niii. Krishnadevaraya\niv. Abdur Razzaq\nv. Denali Ramakrishna\na. Ruler of Odisha\nb. Ashtadikajas\nc. Pandurangamagamathiyam\nd. City of Victory\ne. Persian sculptor",
+    "options_en": [
+      "i a ii- b iii- e iv - c v - d",
+      "i b ii- e iii- c iv- d v-a",
+      "i- e ii- c iii- d iv - a v - b",
+      "i-d ii- a iii- b iv - e v-c"
+    ],
+    "explanation": "i-d ii- a iii- b iv - e v-c",
+    "explanation_en": "i-d ii- a iii- b iv - e v-c"
+  },
+  {
+    "id": 66,
+    "question": "ஆரவீடு வம்சத்தின் தலைநகரம்",
+    "options": [
+      "குல்பர்கா",
+      "பெனுகொண்டா",
+      "பாமினி",
+      "விஜயநகரம்"
+    ],
+    "correct": 1,
+    "question_en": "The capital of the Aravid dynasty",
+    "options_en": [
+      "Gulbarga",
+      "Benukonda",
+      "Bamini",
+      "Vijayanagaram"
+    ],
+    "explanation": "பெனுகொண்டா",
+    "explanation_en": "Benukonda"
+  },
+  {
+    "id": 67,
+    "question": "விஜயநகர பேரரசர்களால் வெளியிடப்பட்ட நாணயங்களுக்கு என்று பெயர்",
+    "options": [
+      "வராகன்",
+      "ரூபாய்",
+      "தினார்",
+      "ரியால்"
+    ],
+    "correct": 0,
+    "question_en": "Coins issued by the Vijayanagara emperors were named",
+    "options_en": [
+      "Varagan",
+      "Rs",
+      "Dinar",
+      "Rial"
+    ],
+    "explanation": "வராகன்",
+    "explanation_en": "Varagan"
+  },
+  {
+    "id": 68,
+    "question": "மகமது கவான் வெடி மருந்து தயாரிக்கவும் அதனை பயன்படுத்துவது பற்றி விளங்குவதற்காகவும் வேதியியல் அறிஞர்களை வரச் செய்தார்.",
+    "options": [
+      "ஆங்கிலேய",
+      "பாரசீக",
+      "போர்ச்சுகீசிய",
+      "ஐரோப்பா"
+    ],
+    "correct": 1,
+    "question_en": "Mohammad Gavan brought in chemists to prepare and explain the use of explosives.",
+    "options_en": [
+      "English",
+      "Persian",
+      "Portuguese",
+      "Europe"
+    ],
+    "explanation": "பாரசீக",
+    "explanation_en": "Persian"
+  },
+  {
+    "id": 69,
+    "question": "ஹரிஹரர் - புக்கர் வம்சத்தை சேர்ந்தவர்கள்.",
+    "options": [
+      "சங்கம",
+      "சாளுவ",
+      "துளுவ",
+      "ஆரவீடு"
+    ],
+    "correct": 0,
+    "question_en": "Hariharar - Belongs to Bukar dynasty.",
+    "options_en": [
+      "confluence",
+      "Chaluva",
+      "Tuluva",
+      "Araveed"
+    ],
+    "explanation": "சங்கம",
+    "explanation_en": "confluence"
+  },
+  {
+    "id": 70,
+    "question": "கிருஷ்ண தேவராயரின் இரண்டாம் இலக்கு",
+    "options": [
+      "ரெய்ச்சூர்",
+      "தேவகிரி",
+      "குல்பர்க்கா",
+      "பீஜப்பூர்"
+    ],
+    "correct": 2,
+    "question_en": "Krishna Devaraya's second goal",
+    "options_en": [
+      "Raichur",
+      "Devagiri",
+      "Gulbarga",
+      "Bijapur"
+    ],
+    "explanation": "குல்பர்க்கா",
+    "explanation_en": "Gulbarga"
+  },
+  {
+    "id": 71,
+    "question": "குமார கம்பணாவின் மனைவி",
+    "options": [
+      "வஸிரி",
+      "ஜான்சிராணி",
+      "கங்காதேவி",
+      "மும்தாஜ்"
+    ],
+    "correct": 2,
+    "question_en": "Wife of Kumara Kampana",
+    "options_en": [
+      "Waziri",
+      "Jansirani",
+      "Gangadevi",
+      "Mumtaz"
+    ],
+    "explanation": "கங்காதேவி",
+    "explanation_en": "Gangadevi"
+  },
+  {
+    "id": 72,
+    "question": "விஜயநகரம் நதியின் கரையில் இருந்தது.",
+    "options": [
+      "கோதாவரி",
+      "யமுனை",
+      "கிருஷ்ணா",
+      "துங்கபத்ரா"
+    ],
+    "correct": 3,
+    "question_en": "Vijayanagara was on the banks of the river.",
+    "options_en": [
+      "Godavari",
+      "Yamuna",
+      "Krishna",
+      "Tungabhadra"
+    ],
+    "explanation": "துங்கபத்ரா",
+    "explanation_en": "Tungabhadra"
+  },
+  {
+    "id": 73,
+    "question": "விஜயநகரம் இருந்த இடம் தற்போது என அழைக்கப்படுகிறது.",
+    "options": [
+      "மும்பை",
+      "ஹம்பி",
+      "சென்னை",
+      "டெல்லி"
+    ],
+    "correct": 1,
+    "question_en": "The site of Vijayanagara is known as present.",
+    "options_en": [
+      "Mumbai",
+      "Hampi",
+      "Chennai",
+      "Delhi"
+    ],
+    "explanation": "ஹம்பி",
+    "explanation_en": "Hampi"
+  },
+  {
+    "id": 74,
+    "question": "ஹம்பியை பாரம்பரிய சின்னமாக அறிவித்தது.",
+    "options": [
+      "அமெரிக்கா",
+      "சீனா",
+      "ஜப்பான்",
+      "யுனெஸ்கோ"
+    ],
+    "correct": 3,
+    "question_en": "declared Hampi as a heritage symbol.",
+    "options_en": [
+      "America",
+      "China",
+      "Japan",
+      "UNESCO"
+    ],
+    "explanation": "யுனெஸ்கோ",
+    "explanation_en": "UNESCO"
+  },
+  {
+    "id": 75,
+    "question": "என்றழைக்கப்படும் தொழில்சார் அமைப்புகள் கைவினை, குடிசைத்தொழில்களை முறைப்படுத்தின.",
+    "options": [
+      "கில்டுகள்",
+      "கோல்கொண்டா",
+      "குல்பர்க்கா",
+      "சூரத்"
+    ],
+    "correct": 0,
+    "question_en": "So-called professional bodies formalized handicrafts and cottage industries.",
+    "options_en": [
+      "guilds",
+      "Golconda",
+      "Gulbarga",
+      "Surat"
+    ],
+    "explanation": "கில்டுகள்",
+    "explanation_en": "guilds"
+  },
+  {
+    "id": 76,
+    "question": "பிர்தௌசி எழுதிய நூல்",
+    "options": [
+      "மதுரா விஜயம்",
+      "ஹம்பி",
+      "அமுக்தமால்யதா",
+      "ஷா நாமா"
+    ],
+    "correct": 3,
+    "question_en": "A book written by Firdausi",
+    "options_en": [
+      "Visit to Mathura",
+      "Hampi",
+      "Amuktamalyada",
+      "Shah Nama"
+    ],
+    "explanation": "ஷா நாமா",
+    "explanation_en": "Shah Nama"
+  },
+  {
+    "id": 77,
+    "question": "கொல்கொண்டா கோட்டையின் மிக உயரமான இடம் ஆகும்.",
+    "options": [
+      "எவரெஸ்ட்",
+      "பாலஹிசார்",
+      "இமயமலை",
+      "ஹம்பி"
+    ],
+    "correct": 1,
+    "question_en": "Kolkonda is the highest point of the fort.",
+    "options_en": [
+      "Everest",
+      "Balahisar",
+      "The Himalayas",
+      "Hampi"
+    ],
+    "explanation": "பாலஹிசார்",
+    "explanation_en": "Balahisar"
+  },
+  {
+    "id": 78,
+    "question": "கிராமம் தொடர்பான விடயங்களைக் என்றழைக்கப்பட்ட கிராமத்தலைவர் நிர்வகித்தார்.",
+    "options": [
+      "கிராமணி",
+      "கௌடா",
+      "ஜமீன்தார்",
+      "சேர்மேன்"
+    ],
+    "correct": 1,
+    "question_en": "The affairs of the village were managed by a village headman.",
+    "options_en": [
+      "Villager",
+      "Gouda",
+      "Zamindar",
+      "Chairman"
+    ],
+    "explanation": "கௌடா",
+    "explanation_en": "Gouda"
+  },
+  {
+    "id": 79,
+    "question": "'அமுக்தமால்யதா' என்பது இலக்கியத்தின் தலைசிறந்த படைப்பாக கருதப்படுகிறது.",
+    "options": [
+      "தமிழ்",
+      "கன்னடம்",
+      "மலையாளம்",
+      "தெலுங்கு"
+    ],
+    "correct": 3,
+    "question_en": "'Amuktamalyata' is considered a masterpiece of literature.",
+    "options_en": [
+      "Tamil",
+      "Kannada",
+      "Malayalam",
+      "Telugu"
+    ],
+    "explanation": "தெலுங்கு",
+    "explanation_en": "Telugu"
+  },
+  {
+    "id": 80,
+    "question": "'தான் அணிந்த பின்னர் கொடுப்பவர்' என்ற பொருள் கொண்ட வார்த்தை",
+    "options": [
+      "வள்ளல்",
+      "அரசர்",
+      "அமுக்தமால்யதா",
+      "விஜயம்"
+    ],
+    "correct": 2,
+    "question_en": "A word meaning 'one who wears and gives'",
+    "options_en": [
+      "fall",
+      "the king",
+      "Amuktamalyada",
+      "the visit"
+    ],
+    "explanation": "அமுக்தமால்யதா",
+    "explanation_en": "Amuktamalyada"
+  },
+  {
+    "id": 81,
+    "question": "மூன்றாம் முகமது ஆண்டுகள் ஆட்சிபுரிந்தார்.",
+    "options": [
+      "10",
+      "18",
+      "20",
+      "19"
+    ],
+    "correct": 3,
+    "question_en": "Muhammad III reigned for years.",
+    "options_en": [
+      "10",
+      "18",
+      "20",
+      "19"
+    ],
+    "explanation": "19",
+    "explanation_en": "19"
+  },
+  {
+    "id": 82,
+    "question": "1367 ல் கட்டி முடிக்கப் பெற்ற முதல் மசூதி ஆகும்.",
+    "options": [
+      "ஜும்மா மசூதி",
+      "மகா மசூதி",
+      "குல்பர்கா மசூதி",
+      "பாபர் மசூதி"
+    ],
+    "correct": 1,
+    "question_en": "It was the first mosque to be completed in 1367.",
+    "options_en": [
+      "Jumma Masjid",
+      "Great Mosque",
+      "Gulbarga Mosque",
+      "Babri Masjid"
+    ],
+    "explanation": "மகா மசூதி",
+    "explanation_en": "Great Mosque"
+  },
+  {
+    "id": 83,
+    "question": "தலைக்கோட்டைப் போர் என்பது",
+    "options": [
+      "ஹம்பி",
+      "கோல்கொண்டா",
+      "ராக்சசதங்கடி",
+      "பாலஹிசார்"
+    ],
+    "correct": 2,
+    "question_en": "Battle of Talikot",
+    "options_en": [
+      "Hampi",
+      "Golconda",
+      "Raksasathanagadi",
+      "Balahisar"
+    ],
+    "explanation": "ராக்சசதங்கடி",
+    "explanation_en": "Raksasathanagadi"
+  },
+  {
+    "id": 84,
+    "question": "சாளுவ வம்சத்தை தோற்றுவித்தவர்",
+    "options": [
+      "ஹரிஹரர்",
+      "புக்கர்",
+      "அக்பர்",
+      "சாளுவ நரசிம்மர்"
+    ],
+    "correct": 3,
+    "question_en": "He was the founder of Chaluva dynasty",
+    "options_en": [
+      "Harihar",
+      "Booker",
+      "Akbar",
+      "Chaluva Narasimha"
+    ],
+    "explanation": "சாளுவ நரசிம்மர்",
+    "explanation_en": "Chaluva Narasimha"
+  },
+  {
+    "id": 85,
+    "question": "துளுவ வம்சத்தை தொடங்கியவர்",
+    "options": [
+      "அக்பர்",
+      "பாபர்",
+      "நரசநாயக்கர்",
+      "சாளுவ நரசிம்மர்"
+    ],
+    "correct": 2,
+    "question_en": "He started the Tuluva dynasty",
+    "options_en": [
+      "Akbar",
+      "Babar",
+      "Narasanayakar",
+      "Chaluva Narasimha"
+    ],
+    "explanation": "நரசநாயக்கர்",
+    "explanation_en": "Narasanayakar"
+  },
+  {
+    "id": 86,
+    "question": "கிருஷ்ண தேவராயரின் அவையை அலங்கரித்தவர் என அழைக்கப்பட்டனர்.",
+    "options": [
+      "அஷ்டதிக்கஜங்கள்",
+      "ஹம்பி",
+      "கில்டுகள்",
+      "அமுக்தமால்யதா"
+    ],
+    "correct": 0,
+    "question_en": "He was known as the one who decorated the court of Krishna Devaraya.",
+    "options_en": [
+      "Ashtadikajas",
+      "Hampi",
+      "guilds",
+      "Amuktamalyada"
+    ],
+    "explanation": "அஷ்டதிக்கஜங்கள்",
+    "explanation_en": "Ashtadikajas"
+  },
+  {
+    "id": 87,
+    "question": "ஆரவீடு வம்சத்தை தொடங்கியவர்",
+    "options": [
+      "ஹரிஹரர்",
+      "திருமலை தேவராயர்",
+      "நரசிம்மர்",
+      "அக்பர்"
+    ],
+    "correct": 1,
+    "question_en": "He started the Aravid Dynasty",
+    "options_en": [
+      "Harihar",
+      "Tirumala Devarayar",
+      "Narasimha",
+      "Akbar"
+    ],
+    "explanation": "திருமலை தேவராயர்",
+    "explanation_en": "Tirumala Devarayar"
+  },
+  {
+    "id": 88,
+    "question": "பாமினி அரசைத் தோற்றுவித்தவர்",
+    "options": [
+      "முகமது ஷா",
+      "அக்பர்",
+      "அலாவுதீன்ஹசன் பாமன்ஷா",
+      "நரசிம்மநாயக்கர்"
+    ],
+    "correct": 2,
+    "question_en": "Bamini was the founder of the kingdom",
+    "options_en": [
+      "Muhammad Shah",
+      "Akbar",
+      "Alauddin Hasan Bamanshah",
+      "Narasimhanayak"
+    ],
+    "explanation": "அலாவுதீன்ஹசன் பாமன்ஷா",
+    "explanation_en": "Alauddin Hasan Bamanshah"
+  },
+  {
+    "id": 89,
+    "question": "பாமினி அரசு தோற்றுவிக்கப்பட்ட ஆண்டு",
+    "options": [
+      "1447",
+      "1347",
+      "1314",
+      "1351"
+    ],
+    "correct": 1,
+    "question_en": "Year of formation of Bamini State",
+    "options_en": [
+      "1447",
+      "1347",
+      "1314",
+      "1351"
+    ],
+    "explanation": "1347",
+    "explanation_en": "1347"
+  },
+  {
+    "id": 90,
+    "question": "குமார கம்பண்ணாவின் தந்தை",
+    "options": [
+      "முதலாம் புக்கர்",
+      "முகமது",
+      "அக்பர்",
+      "பாபர்"
+    ],
+    "correct": 0,
+    "question_en": "Father of Kumara Kampanna",
+    "options_en": [
+      "Booker one",
+      "Mohammed",
+      "Akbar",
+      "Babar"
+    ],
+    "explanation": "முதலாம் புக்கர்",
+    "explanation_en": "Booker one"
+  },
+  {
+    "id": 91,
+    "question": "அலாவுதீன் ஹசன் பாமன்ஷா கல்வி பயின்ற இடம்",
+    "options": [
+      "ஹம்பி",
+      "மூல்தான்",
+      "குல்பர்க்கா",
+      "பாலஹிசார்"
+    ],
+    "correct": 1,
+    "question_en": "The place where Alauddin Hasan Bamanshah studied",
+    "options_en": [
+      "Hampi",
+      "It's the source",
+      "Gulbarga",
+      "Balahisar"
+    ],
+    "explanation": "மூல்தான்",
+    "explanation_en": "It's the source"
+  },
+  {
+    "id": 92,
+    "question": "முகமது கவானின் மதரசா கையெழுத்துப் பிரதிகளைக் கொண்ட பெரிய நூலகம் ஆகும்",
+    "options": [
+      "1000",
+      "2000",
+      "3000",
+      "5000"
+    ],
+    "correct": 2,
+    "question_en": "The madrasah of Mohammad Gavan is a large library of manuscripts",
+    "options_en": [
+      "1000",
+      "2000",
+      "3000",
+      "5000"
+    ],
+    "explanation": "3000",
+    "explanation_en": "3000"
+  },
+  {
+    "id": 93,
+    "question": "தலைக்கோட்டைப் போர் நடைபெற்ற ஆண்டு",
+    "options": [
+      "1550",
+      "1555",
+      "1560",
+      "1565"
+    ],
+    "correct": 3,
+    "question_en": "The year the Battle of Talikot took place",
+    "options_en": [
+      "1550",
+      "1555",
+      "1560",
+      "1565"
+    ],
+    "explanation": "1565",
+    "explanation_en": "1565"
+  },
+  {
+    "id": 94,
+    "question": "பாமினி அரசின் மாகாணங்கள் என்றழைக்கப்பட்டன.",
+    "options": [
+      "மாவட்டம்",
+      "நகரம்",
+      "தராப்",
+      "தலைநகர்"
+    ],
+    "correct": 2,
+    "question_en": "were called the provinces of the Bamini kingdom.",
+    "options_en": [
+      "District",
+      "city",
+      "Darab",
+      "Capital"
+    ],
+    "explanation": "தராப்",
+    "explanation_en": "Darab"
+  },
+  {
+    "id": 95,
+    "question": "சுல்தானிய அரசரின் அடக்குமுறை நடவடிக்கைகள் புதிய சுதந்திர அரசுகள் தோன்ற காரணமாயின.",
+    "options": [
+      "பால்பன்",
+      "அலாவுதீன் கில்ஜி",
+      "முகமது பின் துக்ளக்",
+      "பிரோஸ் துக்ளக்"
+    ],
+    "correct": 2,
+    "question_en": "The repressive measures of the Sultanate led to the emergence of new independent states.",
+    "options_en": [
+      "Balban",
+      "Alauddin Khilji",
+      "Muhammad bin Tughluq",
+      "Firoz Tughlaq"
+    ],
+    "explanation": "முகமது பின் துக்ளக்",
+    "explanation_en": "Muhammad bin Tughluq"
+  },
+  {
+    "id": 96,
+    "question": "கிருஷ்ண தேவராயரின் அரண்மனைக்கு வருகை புரிந்த பாரசீகக் கலைஞர்",
+    "options": [
+      "வாசுப்",
+      "மார்க்கோபோலோ",
+      "இபின்பதுதா",
+      "அப்துர் ரசாக்"
+    ],
+    "correct": 3,
+    "question_en": "A Persian artist who visited the palace of Krishna Devaraya",
+    "options_en": [
+      "Wasup",
+      "Marcopolo",
+      "After all",
+      "Abdur Razak"
+    ],
+    "explanation": "அப்துர் ரசாக்",
+    "explanation_en": "Abdur Razak"
+  },
+  {
+    "id": 97,
+    "question": "அமுக்தமால்யதாவை எழுதியவர்",
+    "options": [
+      "கிருஷ்ண தேவராயர்",
+      "தெனாலி ராமகிருஷ்ணா",
+      "அல்லசானி பெத்தண்ணா",
+      "துக்கண்ணா"
+    ],
+    "correct": 0,
+    "question_en": "Author of Amuktamalayata",
+    "options_en": [
+      "Krishna Devaraya",
+      "Denali Ramakrishna",
+      "Allasani Bethanna",
+      "Dukanna"
+    ],
+    "explanation": "கிருஷ்ண தேவராயர்",
+    "explanation_en": "Krishna Devaraya"
+  },
+  {
+    "id": 98,
+    "question": "பாமினி அரசின் எட்டாவது சுல்தான் ஆவார்",
+    "options": [
+      "மகமது கவான்",
+      "முகமது",
+      "ஜாபர்கான்",
+      "சுல்தான் பிரோஸ்"
+    ],
+    "correct": 3,
+    "question_en": "Bamini was the eighth Sultan of the kingdom",
+    "options_en": [
+      "Mohammad Gavan",
+      "Mohammed",
+      "Jafargaon",
+      "Sultan Firoz"
+    ],
+    "explanation": "சுல்தான் பிரோஸ்",
+    "explanation_en": "Sultan Firoz"
+  },
+  {
+    "id": 99,
+    "question": "இஸ்லாமிய வீரர்களை படையில் பணியமர்த்திய விஜயநகர அரசர்",
+    "options": [
+      "முதலாம் தேவராயர்",
+      "அக்பர்",
+      "பாபர்",
+      "கிருஷ்ண தேவராயர்"
+    ],
+    "correct": 0,
+    "question_en": "The king of Vijayanagara who employed Muslim soldiers in the army",
+    "options_en": [
+      "First Devarayara",
+      "Akbar",
+      "Babar",
+      "Krishna Devaraya"
+    ],
+    "explanation": "முதலாம் தேவராயர்",
+    "explanation_en": "First Devarayara"
+  },
+  {
+    "id": 100,
+    "question": "இராயகோபுரங்களை கட்டியவர்",
+    "options": [
+      "மகமதுகவான்",
+      "சுல்தான் பிரோஸ்",
+      "கிருஷ்ண தேவராயர்",
+      "பால்பன்"
+    ],
+    "correct": 2,
+    "question_en": "He built the Rayagopurams",
+    "options_en": [
+      "Mahamadugavan",
+      "Sultan Firoz",
+      "Krishna Devaraya",
+      "Balban"
+    ],
+    "explanation": "கிருஷ்ண தேவராயர்",
+    "explanation_en": "Krishna Devaraya"
+  },
+  {
+    "id": 101,
+    "question": "கிருஷ்ணதேவராயர் சமஸ்கிருதத்தில் எழுதிய புத்தகம் ஆகும்.",
+    "options": [
+      "ஜாம்பாவதி கல்யாணம்",
+      "அமுக்தமால்யதா",
+      "மதுரா விஜயம்",
+      "பொன்னியின் செல்வன்"
+    ],
+    "correct": 0,
+    "question_en": "It is a book written by Krishnadevaraya in Sanskrit.",
+    "options_en": [
+      "Jambavati marriage",
+      "Amuktamalyada",
+      "Visit to Mathura",
+      "Ponni's Selvan"
+    ],
+    "explanation": "ஜாம்பாவதி கல்யாணம்",
+    "explanation_en": "Jambavati marriage"
+  },
+  {
+    "id": 102,
+    "question": "கிருஷ்ண தேவராயருக்குப் பிறகு ஆட்சியில் அமர்ந்த பாமினி சுல்தான்",
+    "options": [
+      "அப்துர் ரசாக்",
+      "முகமது ஷா",
+      "பால்பன்",
+      "அலாவுதீன் கில்ஜி"
+    ],
+    "correct": 1,
+    "question_en": "Bamini Sultan succeeded Krishna Devaraya",
+    "options_en": [
+      "Abdur Razak",
+      "Muhammad Shah",
+      "Balban",
+      "Alauddin Khilji"
+    ],
+    "explanation": "முகமது ஷா",
+    "explanation_en": "Muhammad Shah"
+  },
+  {
+    "id": 103,
+    "question": "பொருத்துக\ni. பீடார்\nii. கங்காதேவி\niii. கோதைதேவி\niv. ஹம்பி\na மதுரா விஜயம்\nb. விஜயநகரம்\nc. மதரசா\nd அமுக்தமால்யதா",
+    "options": [
+      "i-c ii-a iii-d iv-b",
+      "i-c ii-a iii-b iv-d",
+      "i-d ii-c iii-a iv-b",
+      "i-b ii-d iii-a iv-c"
+    ],
+    "correct": 0,
+    "question_en": "match\ni. Petar\nii. Gangadevi\niii. Gothaidevi\niv. Hampi\na Visit to Mathura\nb. Vijayanagaram\nc. Madrasa\nd Amuktamalyada",
+    "options_en": [
+      "i-c ii-a iii-d iv-b",
+      "i-c ii-a iii-b iv-d",
+      "i-d ii-c iii-a iv-b",
+      "i-b ii-d iii-a iv-c"
+    ],
+    "explanation": "i-c ii-a iii-d iv-b",
+    "explanation_en": "i-c ii-a iii-d iv-b"
+  },
+  {
+    "id": 104,
+    "question": "பொருந்தாததைக் கண்டுபிடி\n1. முதலாம் முகமது\n2. முஜாகித்\n3. கவான்\n4. சிகாபுதீன் முகமது",
+    "options": [
+      "முதலாம் முகமது",
+      "முஜாகித்",
+      "கவான்",
+      "சிகாபுதீன் முகமது"
+    ],
+    "correct": 2,
+    "question_en": "Find the mismatch\n1. Mohammed I\n2. Mujaqid\n3. Gavan\n4. Sikabudin Muhammad",
+    "options_en": [
+      "Mohammed I",
+      "Mujakid",
+      "Gowan",
+      "Sikabudin Mohammed"
+    ],
+    "explanation": "கவான்",
+    "explanation_en": "Gowan"
+  },
+  {
+    "id": 105,
+    "question": "கூற்று மற்றும் காரணத்தை ஆராய்க\nகூற்று: பல வெளிநாட்டு பிரபுக்கள் தக்காணத்தை விட்டு வெளியேறினர்.\nகாரணம்: கவான் தூக்கிலிடப்பட்டார்.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான காரணம் அல்ல",
+      "காரணம் கூற்றிற்கான சரியான விளக்கம்",
+      "காரணம் மற்றும் கூற்று தவறு",
+      "காரணம் மற்றும் கூற்று சரி"
+    ],
+    "correct": 1,
+    "question_en": "Examine the claim and reasoning\nAssertion: Many foreign nobles left the Deccan.\nReason: Gavan was hanged.",
+    "options_en": [
+      "A reason is not a valid reason for a claim",
+      "A valid explanation for the causal statement",
+      "Reason and statement are false",
+      "Reason and statement are correct"
+    ],
+    "explanation": "காரணம் கூற்றிற்கான சரியான விளக்கம்",
+    "explanation_en": "A valid explanation for the causal statement"
+  },
+  {
+    "id": 106,
+    "question": "பாமினி அரசிற்கு வலுவான அடித்தளத்தை அமைத்து கொடுத்தவர்",
+    "options": [
+      "முதலாம் முகமது ஷா",
+      "முஜாகித்",
+      "இரண்டாம் முகமது ஷா",
+      "அலாவுதீன் ஹசன் பாமன் ஷா"
+    ],
+    "correct": 0,
+    "question_en": "He laid a strong foundation for the Bamini kingdom",
+    "options_en": [
+      "Muhammad Shah I",
+      "Mujakid",
+      "Muhammad Shah II",
+      "Alauddin Hasan Baman Shah"
+    ],
+    "explanation": "முதலாம் முகமது ஷா",
+    "explanation_en": "Muhammad Shah I"
+  },
+  {
+    "id": 107,
+    "question": "வராகன் என்னும் தங்க நாணயங்களை வெளியிட்டவர்கள்",
+    "options": [
+      "பாமினி சுல்தான்கள்",
+      "விஜயநகர பேரரசர்கள்",
+      "பாலர்கள்",
+      "பிரதிகாரர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Who issued gold coins called Varagan",
+    "options_en": [
+      "Bamini Sultans",
+      "Emperors of Vijayanagara",
+      "Preschoolers",
+      "Defendants"
+    ],
+    "explanation": "விஜயநகர பேரரசர்கள்",
+    "explanation_en": "Emperors of Vijayanagara"
+  },
+  {
+    "id": 108,
+    "question": "கி.பி 1565 இல் நடைபெற்ற தலைக்கோட்டைப் போரில் தோற்கடிக்கப்பட்டவர்",
+    "options": [
+      "ஹரிஹரர்",
+      "புக்கர்",
+      "கிருஷ்ண தேவராயர்",
+      "ராமராயர்"
+    ],
+    "correct": 3,
+    "question_en": "He was defeated in the Battle of Talikot in 1565 AD",
+    "options_en": [
+      "Harihar",
+      "Booker",
+      "Krishna Devaraya",
+      "Rama Raya"
+    ],
+    "explanation": "ராமராயர்",
+    "explanation_en": "Rama Raya"
+  },
+  {
+    "id": 109,
+    "question": "'லக்பாக்ஷா' என அழைக்கப்பட்டவர்",
+    "options": [
+      "குத்புதீன் ஐபெக்",
+      "இல்துமிஷ்",
+      "பால்பன்",
+      "சுல்தானா இரசியா"
+    ],
+    "correct": 0,
+    "question_en": "He was known as 'Lakpaksha'",
+    "options_en": [
+      "Qutbuddin Ibek",
+      "Iltumish",
+      "Balban",
+      "Sultana is Russia"
+    ],
+    "explanation": "குத்புதீன் ஐபெக்",
+    "explanation_en": "Qutbuddin Ibek"
+  },
+  {
+    "id": 110,
+    "question": "விட்டலசாமி கோவில் ஆட்சிக்காலத்தில் கட்டப்பட்டது.",
+    "options": [
+      "ஹரிஹரர்",
+      "இரண்டாம் தேவராயர்",
+      "முதலாம் தேவராயர்",
+      "கிருஷ்ண தேவராயர்"
+    ],
+    "correct": 3,
+    "question_en": "Vithalasamy temple was built during the reign of",
+    "options_en": [
+      "Harihar",
+      "Devaraya II",
+      "First Devarayara",
+      "Krishna Devaraya"
+    ],
+    "explanation": "கிருஷ்ண தேவராயர்",
+    "explanation_en": "Krishna Devaraya"
+  },
+  {
+    "id": 111,
+    "question": "கிருஷ்ண தேவராயர் ஆட்சிக் காலத்தில் கட்டப்பட்ட கோயில்",
+    "options": [
+      "சோமநாதர் கோயில்",
+      "கைலாசநாதர் கோயில்",
+      "ராமர் கோயில்",
+      "ஹசரா ராமசாமி கோயில்"
+    ],
+    "correct": 3,
+    "question_en": "The temple was built during the reign of Krishna Devaraya",
+    "options_en": [
+      "Somanath Temple",
+      "Kailasanathar Temple",
+      "Ram temple",
+      "Hazara Ramaswamy Temple"
+    ],
+    "explanation": "ஹசரா ராமசாமி கோயில்",
+    "explanation_en": "Hazara Ramaswamy Temple"
+  }
+]

@@ -1,0 +1,1004 @@
+[
+  {
+    "id": 1,
+    "question": "33 - x = 12 + 2x, x- ன் மதிப்பு என்ன ?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "21"
+    ],
+    "correct": 2,
+    "explanation": "33 - X = 12 + 2X\n33 - 12 = 2X + X\n21 = 3X\nX = 21 / 3\nX = 7",
+    "question_en": "33 - x = 12 + 2x, what is the value of x?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "21"
+    ],
+    "explanation_en": "33 - X = 12 + 2X\n33 - 12 = 2X + X\n21 = 3X\nX = 21 / 3\nX = 7"
+  },
+  {
+    "id": 2,
+    "question": "x + y = 8 ; x - y = 4 எனில் y = ?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "x + y = 8\nx - y = 4\n----------\n2y = 4 => y = 4 / 2 = 2",
+    "question_en": "x + y = 8 ; If x - y = 4 then y = ?",
+    "options_en": [
+      "2",
+      "4",
+      "6",
+      "1"
+    ],
+    "explanation_en": "x + y = 8\nx - y = 4\n----------\n2y = 4 => y = 4 / 2 = 2"
+  },
+  {
+    "id": 3,
+    "question": "$\\sqrt{169} + \\frac{24}{6} = ?$ (மதிப்பு காண்க)",
+    "options": [
+      "10",
+      "16",
+      "37",
+      "17"
+    ],
+    "correct": 3,
+    "explanation": "$\\sqrt{169} + \\frac{24}{6} = 13 + 4 = 17$",
+    "question_en": "$\\sqrt{169} + \\frac{24}{6} = ?$ (see value)",
+    "options_en": [
+      "10",
+      "16",
+      "37",
+      "17"
+    ],
+    "explanation_en": "$\\sqrt{169} + \\frac{24}{6} = 13 + 4 = 17$"
+  },
+  {
+    "id": 4,
+    "question": "$0.1 \\times 0.007 = ?$",
+    "options": [
+      "0.07",
+      "0.0007",
+      "7.0",
+      "0.007"
+    ],
+    "correct": 1,
+    "explanation": "$0.1 \\times 0.007 = 0.0007$",
+    "question_en": "$0.1 \\times 0.007 = ?$",
+    "options_en": [
+      "0.07",
+      "0.0007",
+      "7.0",
+      "0.007"
+    ],
+    "explanation_en": "$0.1 \\times 0.007 = 0.0007$"
+  },
+  {
+    "id": 5,
+    "question": "மதிப்பு காண்க : $\\frac{48^2 - 2^2}{46}$",
+    "options": [
+      "50",
+      "96",
+      "100",
+      "52"
+    ],
+    "correct": 0,
+    "explanation": "$\\frac{48^2 - 2^2}{46} = \\frac{(48 + 2)(48 - 2)}{46} = \\frac{50 \\times 46}{46} = 50$",
+    "question_en": "Find value : $\\frac{48^2 - 2^2}{46}$",
+    "options_en": [
+      "50",
+      "96",
+      "100",
+      "52"
+    ],
+    "explanation_en": "$\\frac{48^2 - 2^2}{46} = \\frac{(48 + 2)(48 - 2)}{46} = \\frac{50 \\times 46}{46} = 50$"
+  },
+  {
+    "id": 6,
+    "question": "இரட்டைப் பகா எண்களின் எண்ணிக்கை.",
+    "options": [
+      "2",
+      "1",
+      "5",
+      "எண்ணற்ற"
+    ],
+    "correct": 1,
+    "explanation": "2 என்ற எண் மட்டும்.",
+    "question_en": "Number of even prime numbers.",
+    "options_en": [
+      "2",
+      "1",
+      "5",
+      "Innumerable"
+    ],
+    "explanation_en": "Only the number 2."
+  },
+  {
+    "id": 7,
+    "question": "எந்த எண்ணின் 20% = 70 ஆக இருக்கும்?",
+    "options": [
+      "280",
+      "14",
+      "350",
+      "140"
+    ],
+    "correct": 2,
+    "explanation": "X x (20 / 100) = 70\nX = (70 x 100) / 20 = 350",
+    "question_en": "20% of which number = 70?",
+    "options_en": [
+      "280",
+      "14",
+      "350",
+      "140"
+    ],
+    "explanation_en": "X x (20 / 100) = 70\nX = (70 x 100) / 20 = 350"
+  },
+  {
+    "id": 8,
+    "question": "ஒரு சதுர வடிவ தளத்தின் பரப்பு $225 \\text{ செமீ}^2$ எனில் அதன் பக்கம் ?",
+    "options": [
+      "125 செ.மீ",
+      "15 செ.மீ",
+      "200 செ.மீ",
+      "30 செ.மீ"
+    ],
+    "correct": 1,
+    "explanation": "சதுர வடிவ தளத்தின் பரப்பு ($a^2$) = $225 \\text{ செமீ}^2$\nபக்கம் ($a$) = $\\sqrt{225} = 15$",
+    "question_en": "If the area of ​​a square base is $225 \\text{cm}^2$ then its side is ?",
+    "options_en": [
+      "125 cm",
+      "15 cm",
+      "200 cm",
+      "30 cm"
+    ],
+    "explanation_en": "Area of square base ($a^2$) = $225 \\text{cm}^2$\nSide ($a$) = $\\sqrt{225} = 15$"
+  },
+  {
+    "id": 9,
+    "question": "ரூபாய்.3000க்கு 5 ஆண்டுகளில் 3% வீதம் வட்டி எவ்வளவு ?",
+    "options": [
+      "ரூ.150",
+      "ரூ.90",
+      "ரூ.300",
+      "ரூ.450"
+    ],
+    "correct": 3,
+    "explanation": "வட்டி (I) = Pnr / 100\n= (3000 x 5 x 3) / 100 = 450",
+    "question_en": "What is the interest on Rs.3000 for 5 years at the rate of 3%?",
+    "options_en": [
+      "Rs.150",
+      "Rs.90",
+      "300 Rs",
+      "Rs.450"
+    ],
+    "explanation_en": "Interest (I) = Pnr / 100\n= (3000 x 5 x 3) / 100 = 450"
+  },
+  {
+    "id": 10,
+    "question": "ஆரம் 1 செ.மீ கொண்ட அரை வட்டத்தின் சுற்றளவு என்ன?",
+    "options": [
+      "$( \\pi + 2 )$ செ.மீ",
+      "$\\frac{\\pi r^2}{2}$ செ.மீ",
+      "22 / 7 செ.மீ",
+      "7 / 22 செ.மீ"
+    ],
+    "correct": 0,
+    "explanation": "சுற்றளவு = $(\\pi + 2)r$ அலகுகள் ; $r = 1$\nசுற்றளவு = $(\\pi + 2)$ செ.மீ",
+    "question_en": "What is the perimeter of a semicircle of radius 1 cm?",
+    "options_en": [
+      "$( \\pi + 2 )$ cm",
+      "$\\frac{\\pi r^2}{2}$ cm",
+      "22 / 7 cm",
+      "7 / 22 cm"
+    ],
+    "explanation_en": "Perimeter = $(\\pi + 2)r$ units ; $r = 1$\nPerimeter = $(\\pi + 2)$ cm"
+  },
+  {
+    "id": 11,
+    "question": "பரப்பளவு 90 மீ² கொண்ட செவ்வகத்தின் நீளம் 15 மீ எனில், அதன் அகலம் என்ன?",
+    "options": [
+      "75 மீ",
+      "6 மீ",
+      "105 மீ",
+      "60 மீ"
+    ],
+    "correct": 1,
+    "explanation": "பரப்பளவு = l x b = 90 மீ² ; l = 15 மீ\n90 = 15 x b ; b = 90 / 15\nb = 6",
+    "question_en": "If the length of a rectangle of area 90 m² is 15 m, what is its width?",
+    "options_en": [
+      "75 m",
+      "6 m",
+      "105 m",
+      "60 m"
+    ],
+    "explanation_en": "Area = l x b = 90 m² ; l = 15 m\n90 = 15 x b ; b = 90 / 15\nb = 6"
+  },
+  {
+    "id": 12,
+    "question": "மிகப்பெரிய ஈரிலக்க பகா எண் எது?",
+    "options": [
+      "10",
+      "19",
+      "99",
+      "97"
+    ],
+    "correct": 3,
+    "explanation": "மிகப்பெரிய ஈரிலக்க பகா எண் 97.",
+    "question_en": "What is the largest prime number?",
+    "options_en": [
+      "10",
+      "19",
+      "99",
+      "97"
+    ],
+    "explanation_en": "The largest Arithmetic prime number is 97."
+  },
+  {
+    "id": 13,
+    "question": "முதல் 7 ஒற்றை இயல் எண்களின் வீச்சு = ?",
+    "options": [
+      "12",
+      "6",
+      "10",
+      "14"
+    ],
+    "correct": 0,
+    "explanation": "முதல் 7 ஒற்றை இயல் எண்கள் = 1, 3, 5, 7, 9, 11, 13\nவீச்சு = L - S\nவீச்சு = 13 - 1 = 12",
+    "question_en": "Range of first 7 odd natural numbers = ?",
+    "options_en": [
+      "12",
+      "6",
+      "10",
+      "14"
+    ],
+    "explanation_en": "First 7 odd natural numbers = 1, 3, 5, 7, 9, 11, 13\nRange = L - S\nAmplitude = 13 - 1 = 12"
+  },
+  {
+    "id": 14,
+    "question": "இடைநிலை காண்க : 3, 7, 6, 9, 4.",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "ஏறு வரிசை: 3, 4, 6, 7, 9.\nமைய மதிப்பு = 6",
+    "question_en": "See Intermediate : 3, 7, 6, 9, 4.",
+    "options_en": [
+      "6",
+      "3",
+      "4",
+      "7"
+    ],
+    "explanation_en": "Ascending order: 3, 4, 6, 7, 9.\nCenter value = 6"
+  },
+  {
+    "id": 15,
+    "question": "$\\frac{0.5 \\times 1.0}{0.1} = ?$ (மதிப்பு காண்க)",
+    "options": [
+      "0.05",
+      "0.5",
+      "5",
+      "5.0"
+    ],
+    "correct": 2,
+    "explanation": "$\\frac{0.5 \\times 1.0}{0.1} = \\frac{0.5}{0.1} = 5$",
+    "question_en": "$\\frac{0.5 \\times 1.0}{0.1} = ?$ (view value)",
+    "options_en": [
+      "0.05",
+      "0.5",
+      "5",
+      "5.0"
+    ],
+    "explanation_en": "$\\frac{0.5 \\times 1.0}{0.1} = \\frac{0.5}{0.1} = 5$"
+  },
+  {
+    "id": 16,
+    "question": "ஒரு சதுரத்தின் பக்கம் 25% அதிகரிக்கும் எனில் அதன் பரப்பளவு அதிகரிக்கும் சதவீதம்",
+    "options": [
+      "65",
+      "65.25",
+      "56",
+      "56.25"
+    ],
+    "correct": 3,
+    "explanation": "பக்கம் அதிகரிக்கும் சதவீதம் = a + a x (25/100) = 5a/4\nபரப்பளவு = (5a/4) x (5a/4) = 25a²/16\nஅதிகரிக்கும் பரப்பளவு = (25a²/16) - a² = 9a²/16\nபரப்பளவு அதிகரிக்கும் சதவீதம் = (9a²/16) / a² x 100 = 900 / 16 = 56.25 %",
+    "question_en": "If the side of a square increases by 25% then its area increases by percentage",
+    "options_en": [
+      "65",
+      "65.25",
+      "56",
+      "56.25"
+    ],
+    "explanation_en": "Percentage of page increase = a + a x (25/100) = 5a/4\nArea = (5a/4) x (5a/4) = 25a²/16\nIncreasing area = (25a²/16) - a² = 9a²/16\nPercentage increase in area = (9a²/16) / a² x 100 = 900 / 16 = 56.25 %"
+  },
+  {
+    "id": 17,
+    "question": "5 பாடங்களுக்கு 420 மதிப்பெண்கள் வாங்கிய சதீஷ் கணித பாடத்தில் 82 மதிப்பெண்களுக்கு பதிலாக 92 மதிப்பெண் எடுத்திருந்தால் அவன் வாங்கும் சதவீதம் எவ்வளவு?",
+    "options": [
+      "86",
+      "80",
+      "94",
+      "90"
+    ],
+    "correct": 0,
+    "explanation": "புதிய கூடுதல் = 420 + 92 - 82 = 430\nசதவீதம் = 430 / 5 = 86",
+    "question_en": "If Sathish got 420 marks in 5 subjects and got 92 marks instead of 82 marks in Maths, what will be his percentage?",
+    "options_en": [
+      "86",
+      "80",
+      "94",
+      "90"
+    ],
+    "explanation_en": "New addition = 420 + 92 - 82 = 430\nPercentage = 430 / 5 = 86"
+  },
+  {
+    "id": 18,
+    "question": "$\\left( \\frac{-2}{3} \\times \\frac{3}{4} \\right)$ - ன் பெருக்கல் தலை கீழிலி.",
+    "options": [
+      "$\\frac{1}{2}$",
+      "-2",
+      "2",
+      "$\\frac{-1}{2}$"
+    ],
+    "correct": 1,
+    "explanation": "$\\left( \\frac{-2}{3} \\times \\frac{3}{4} \\right) = \\frac{-1}{2}$\nபெருக்கல் தலைகீழி = -2",
+    "question_en": "Multiplication of $\\left( \\frac{-2}{3} \\times \\frac{3}{4} \\right)$ -",
+    "options_en": [
+      "$\\frac{1}{2}$",
+      "-2",
+      "2",
+      "$\\frac{-1}{2}$"
+    ],
+    "explanation_en": "$\\left( \\frac{-2}{3} \\times \\frac{3}{4} \\right) = \\frac{-1}{2}$\nMultiplication inverse = -2"
+  },
+  {
+    "id": 19,
+    "question": "$\\frac{7}{10}$ ஐப் பெறுவதற்கு $\\frac{-3}{5}$ உடன் எதைக் கூட்ட வேண்டும்.",
+    "options": [
+      "$\\frac{4}{15}$",
+      "$\\frac{10}{15}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{13}{10}$"
+    ],
+    "correct": 3,
+    "explanation": "$x - \\frac{3}{5} = \\frac{7}{10} \\Rightarrow x = \\frac{7}{10} + \\frac{3}{5} = \\frac{7 + 6}{10} = \\frac{13}{10}$",
+    "question_en": "What must be added to $\\frac{-3}{5}$ to get $\\frac{7}{10}$ ?",
+    "options_en": [
+      "$\\frac{4}{15}$",
+      "$\\frac{10}{15}$",
+      "$\\frac{4}{5}$",
+      "$\\frac{13}{10}$"
+    ],
+    "explanation_en": "$x - \\frac{3}{5} = \\frac{7}{10} \\Rightarrow x = \\frac{7}{10} + \\frac{3}{5} = \\frac{7 + 6}{10} = \\frac{13}{10}$"
+  },
+  {
+    "id": 20,
+    "question": "ஒரு செங்கோண முக்கோணத்தின் ஒரு கோணம் 40° எனில் மற்ற இரு கோணங்கள்.",
+    "options": [
+      "80°, 60°",
+      "90°, 50°",
+      "40°, 90°",
+      "90°, 90°"
+    ],
+    "correct": 1,
+    "explanation": "செங்கோணம் = 90°\nமூன்று கோணங்களின் கூடுதல் = 180°\n40° + 90° + X = 180°\nX = 180° - 130° = 50°",
+    "question_en": "If one angle of a right triangle is 40° then the other two angles are 40°.",
+    "options_en": [
+      "80°, 60°",
+      "90°, 50°",
+      "40°, 90°",
+      "90°, 90°"
+    ],
+    "explanation_en": "Right angle = 90°\nSupplement of three angles = 180°\n40° + 90° + X = 180°\nX = 180° - 130° = 50°"
+  },
+  {
+    "id": 21,
+    "question": "இரண்டு அடுத்தடுத்துள்ள ஒற்றை எண்களின் கூடுதல் 96. எனில், அவ்வெண்கள் யாவை?",
+    "options": [
+      "47, 49",
+      "51, 53",
+      "45, 51",
+      "41, 45"
+    ],
+    "correct": 0,
+    "explanation": "எண்கள் X, X + 2 என்க.\nX + X + 2 = 96 => 2X = 94 => X = 47\nஅவ்வெண்கள் 47, 49.",
+    "question_en": "Addition of two consecutive odd numbers is 96. If so, what are those numbers?",
+    "options_en": [
+      "47, 49",
+      "51, 53",
+      "45, 51",
+      "41, 45"
+    ],
+    "explanation_en": "The numbers X, X + 2 are\nX + X + 2 = 96 => 2X = 94 => X = 47\nThose numbers are 47, 49."
+  },
+  {
+    "id": 22,
+    "question": "$\\frac{X}{7 - X} = \\frac{2}{5}$ எனில் X = ?",
+    "options": [
+      "1",
+      "3",
+      "$\\frac{7}{5}$",
+      "2"
+    ],
+    "correct": 3,
+    "explanation": "$\\frac{X}{7 - X} = \\frac{2}{5}$\n$5X = 2(7 - X)$\n$5X = 14 - 2X$\n$7X = 14 \\Rightarrow X = 2$",
+    "question_en": "$\\frac{X}{7 - X} = \\frac{2}{5}$ If X = ?",
+    "options_en": [
+      "1",
+      "3",
+      "$\\frac{7}{5}$",
+      "2"
+    ],
+    "explanation_en": "$\\frac{X}{7 - X} = \\frac{2}{5}$\n$5X = 2(7 - X)$\n$5X = 14 - 2X$\n$7X = 14 \\Rightarrow X = 2$"
+  },
+  {
+    "id": 23,
+    "question": "$\\sqrt{2} = 1.414$ எனில் $\\sqrt{8}$ -ன் மதிப்பு.",
+    "options": [
+      "22",
+      "2.828",
+      "5.656",
+      "3.14"
+    ],
+    "correct": 1,
+    "explanation": "$\\sqrt{8} = \\sqrt{4 \\times 2} = 2\\sqrt{2} = 2 \\times 1.414 = 2.828$",
+    "question_en": "If $\\sqrt{2} = 1.414$ then the value of $\\sqrt{8}$ is",
+    "options_en": [
+      "22",
+      "2.828",
+      "5.656",
+      "3.14"
+    ],
+    "explanation_en": "$\\sqrt{8} = \\sqrt{4 \\times 2} = 2\\sqrt{2} = 2 \\times 1.414 = 2.828$"
+  },
+  {
+    "id": 24,
+    "question": "18 இலிருந்து ஓர் எண்ணின் 4 மடங்கை கழித்தால் 10 கிடைக்கும் எனில் அவ்வெண் யாது?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correct": 2,
+    "explanation": "ஓர் எண் = X\n18 - 4X = 10\n4X = 18 - 10 = 8\nX = 8 / 4 = 2",
+    "question_en": "If subtracting 4 times a number from 18 gives 10, what is that number?",
+    "options_en": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "explanation_en": "A number = X\n18 - 4X = 10\n4X = 18 - 10 = 8\nX = 8 / 4 = 2"
+  },
+  {
+    "id": 25,
+    "question": "2X + 3 = 5 எனில் $X^2 + 3$ ன் மதிப்பு.",
+    "options": [
+      "4",
+      "11",
+      "7",
+      "28"
+    ],
+    "correct": 0,
+    "explanation": "$2X = 5 - 3 = 2 \\Rightarrow X = 1$\n$X^2 + 3 = 1^2 + 3 = 4$",
+    "question_en": "If 2X + 3 = 5 then the value of $X^2 + 3$ is",
+    "options_en": [
+      "4",
+      "11",
+      "7",
+      "28"
+    ],
+    "explanation_en": "$2X = 5 - 3 = 2 \\Rightarrow X = 1$\n$X^2 + 3 = 1^2 + 3 = 4$"
+  },
+  {
+    "id": 26,
+    "question": "8+5=6425, 7+3=4909 எனில், 6+2=",
+    "options": [
+      "3640",
+      "3604",
+      "3204",
+      "2636"
+    ],
+    "correct": 1,
+    "explanation": "8² + 5² = 6425\n7² + 3² = 4909\n6² + 2² = 3604",
+    "question_en": "If 8+5=6425, 7+3=4909, then 6+2=",
+    "options_en": [
+      "3640",
+      "3604",
+      "3204",
+      "2636"
+    ],
+    "explanation_en": "8² + 5² = 6425\n7² + 3² = 4909\n6² + 2² = 3604"
+  },
+  {
+    "id": 27,
+    "question": "85 x 46 = 4865 எனில் 13 X 29 = ?",
+    "options": [
+      "9123",
+      "1923",
+      "2319",
+      "2193"
+    ],
+    "correct": 3,
+    "explanation": "85 x 46ல் உள்ள எண்கள் மாற்றி எழுதப்பட்டுள்ளன (4865). அதேபோல் 13 x 29ல் உள்ள எண்கள் மாற்றி எழுதினால் 2193.",
+    "question_en": "85 x 46 = 4865 so 13 X 29 = ?",
+    "options_en": [
+      "9123",
+      "1923",
+      "2319",
+      "2193"
+    ],
+    "explanation_en": "The numbers in 85 x 46 are transposed (4865). Similarly, if the numbers in 13 x 29 are rewritten, it is 2193."
+  },
+  {
+    "id": 28,
+    "question": "ABCD என்ற ஒரு சதுரத்தின் பரப்பளவு M² எனில், மொத்த படத்தின் பரப்பளவு என்ன?",
+    "image": "image/unit20/q28.PNG",
+    "options": [
+      "13 M²",
+      "13M",
+      "11 M²",
+      "11 M"
+    ],
+    "correct": 0,
+    "explanation": "1 கட்டம் = M²\n13 கட்டங்கள் = 13M²",
+    "question_en": "If the area of ​​a square ABCD is M², what is the area of ​​the total image?",
+    "options_en": [
+      "13 m²",
+      "13M",
+      "11 m²",
+      "11 M"
+    ],
+    "explanation_en": "1 Phase = M²\n13 grids = 13M²"
+  },
+  {
+    "id": 29,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள படத்தில் வட்டத்தின் விட்டம் D எனில், ஒட்டுமொத்த சதுரத்தின் பரப்பு யாது?",
+    "image": "image/unit20/q29.PNG",
+    "options": [
+      "2D²",
+      "9D",
+      "9D²",
+      "$\\frac{9}{4}D^2$"
+    ],
+    "correct": 2,
+    "explanation": "சதுரத்தின் பக்கம் = D + D + D = 3D\nபரப்பளவு = பக்கம் $\\times$ பக்கம் = 3D $\\times$ 3D = 9D²",
+    "question_en": "If the diameter of the circle in the figure below is D, what is the area of ​​the entire square?",
+    "options_en": [
+      "2D²",
+      "9D",
+      "9D²",
+      "$\\frac{9}{4}D^2$"
+    ],
+    "explanation_en": "Side of square = D + D + D = 3D\nArea = Side $\\times$ Side = 3D $\\times$ 3D = 9D²"
+  },
+  {
+    "id": 30,
+    "question": "5 x 8 = 10, 6 x 6 = 9 எனில் 3 X 8 = ?",
+    "options": [
+      "3",
+      "8",
+      "6",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "5 x 8 = 40 / 4 = 10\n6 x 6 = 36 / 4 = 9\n3 x 8 = 24 / 4 = 6",
+    "question_en": "5 x 8 = 10, 6 x 6 = 9 so 3 X 8 = ?",
+    "options_en": [
+      "3",
+      "8",
+      "6",
+      "2"
+    ],
+    "explanation_en": "5 x 8 = 40 / 4 = 10\n6 x 6 = 36 / 4 = 9\n3 x 8 = 24 / 4 = 6"
+  },
+  {
+    "id": 31,
+    "question": "24 X 31 = 64, 51 X 62 = 68 எனில் 81 X 62 =?",
+    "options": [
+      "98",
+      "49",
+      "48",
+      "92"
+    ],
+    "correct": 0,
+    "explanation": "(2 + 4) x (3 + 1) = 6 x 4 = 24 (wait, given is 64). Pattern: (2+4) = 6, (3+1) = 4 => 64.\n(8+1) = 9, (6+2)=8 => 98.",
+    "question_en": "24 X 31 = 64, 51 X 62 = 68 so 81 X 62 =?",
+    "options_en": [
+      "98",
+      "49",
+      "48",
+      "92"
+    ],
+    "explanation_en": "(2 + 4) x (3 + 1) = 6 x 4 = 24 (wait, given is 64). Pattern: (2+4) = 6, (3+1) = 4 => 64.\n(8+1) = 9, (6+2)=8 => 98."
+  },
+  {
+    "id": 32,
+    "question": "15 - 11 = 24, 22 - 15 = 42 எனில், 30 - 21 = ?",
+    "options": [
+      "42",
+      "48",
+      "54",
+      "58"
+    ],
+    "correct": 2,
+    "explanation": "15 - 11 = 4 x 6 = 24\n22 - 15 = 7 x 6 = 42\n30 - 21 = 9 x 6 = 54",
+    "question_en": "If 15 - 11 = 24, 22 - 15 = 42, then 30 - 21 = ?",
+    "options_en": [
+      "42",
+      "48",
+      "54",
+      "58"
+    ],
+    "explanation_en": "15 - 11 = 4 x 6 = 24\n22 - 15 = 7 x 6 = 42\n30 - 21 = 9 x 6 = 54"
+  },
+  {
+    "id": 33,
+    "question": "$(115)^{40}$ ன் ஒற்றை இலக்க எண் யாது?",
+    "options": [
+      "5",
+      "0",
+      "1",
+      "0 (or) 5"
+    ],
+    "correct": 0,
+    "explanation": "5-ல் முடியும் எண்களின் எந்த அடுக்கின் ஒற்றை இலக்கமும் 5 ஆகத் தான் இருக்கும்.",
+    "question_en": "What is the single digit number of $(115)^{40}$?",
+    "options_en": [
+      "5",
+      "0",
+      "1",
+      "0 (or) 5"
+    ],
+    "explanation_en": "Any single digit in any sequence of numbers ending in 5 is 5."
+  },
+  {
+    "id": 34,
+    "question": "நான்கு இலக்க மிகப்பெரிய இரட்டைப்படை எண்ணிற்கும், நான்கு இலக்க மிகச்சிறிய ஒற்றைப்படை எண்ணிற்கும் உள்ள வித்தியாசம்?",
+    "options": [
+      "8999",
+      "8997",
+      "8998",
+      "8990"
+    ],
+    "correct": 1,
+    "explanation": "நான்கு இலக்க மிகப்பெரிய இரட்டை எண் = 9998\nநான்கு இலக்க மிகச்சிறிய ஒற்றை எண் = 1001\n9998 - 1001 = 8997",
+    "question_en": "What is the difference between the largest even number with four digits and the smallest odd number with four digits?",
+    "options_en": [
+      "8999",
+      "8997",
+      "8998",
+      "8990"
+    ],
+    "explanation_en": "Largest even number of four digits = 9998\nFour digit smallest single number = 1001\n9998 - 1001 = 8997"
+  },
+  {
+    "id": 35,
+    "question": "ஒரு எண்ணின் பாதி, 64-ன் கன மூலத்திற்கு சமம் எனில்",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correct": 1,
+    "explanation": "64-ன் கன மூலம் = 4\nஅரைப்பகுதி 4 என்றால் முழு எண் = 4 x 2 = 8",
+    "question_en": "If half of a number is equal to the cube root of 64",
+    "options_en": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "explanation_en": "Cube of 64 = 4\nIf half is 4 then whole number = 4 x 2 = 8"
+  },
+  {
+    "id": 36,
+    "question": "நான்கு இலக்க மிகச்சிறிய ஒற்றை எண்ணிற்கும், மூன்று இலக்க மிகப்பெரிய இரட்டை எண்ணிற்கும் உள்ள வேறுபாடு யாது?",
+    "options": [
+      "112",
+      "3",
+      "1",
+      "111"
+    ],
+    "correct": 1,
+    "explanation": "நான்கு இலக்க மிகச்சிறிய ஒற்றை எண் = 1001\nமூன்று இலக்க மிகப்பெரிய இரட்டை எண் = 998\n1001 - 998 = 3",
+    "question_en": "What is the difference between the smallest odd number of four digits and the largest even number of three digits?",
+    "options_en": [
+      "112",
+      "3",
+      "1",
+      "111"
+    ],
+    "explanation_en": "Four digit smallest single number = 1001\nThree digit largest even number = 998\n1001 - 998 = 3"
+  },
+  {
+    "id": 37,
+    "question": "2 X 4 = 36, 4 X 6 = 100 எனில் 5 X 6 =?",
+    "options": [
+      "900",
+      "30",
+      "11",
+      "121"
+    ],
+    "correct": 3,
+    "explanation": "$(2 + 4)^2 = 6^2 = 36$\n$(4 + 6)^2 = 10^2 = 100$\n$(5 + 6)^2 = 11^2 = 121$",
+    "question_en": "2 X 4 = 36, 4 X 6 = 100 then 5 X 6 =?",
+    "options_en": [
+      "900",
+      "30",
+      "11",
+      "121"
+    ],
+    "explanation_en": "$(2 + 4)^2 = 6^2 = 36$\n$(4 + 6)^2 = 10^2 = 100$\n$(5 + 6)^2 = 11^2 = 121$"
+  },
+  {
+    "id": 38,
+    "question": "2 X 1 = 41, 3 X 2 = 92, 2 X 5 = 45 எனில் 3 X 1 = ?",
+    "options": [
+      "19",
+      "3",
+      "91",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "முதல் எண்ணின் வர்க்கம் மற்றும் இரண்டாவது எண் ஆகியவை இணைந்து எழுதப்பட்டுள்ளன.\n$3^2 = 9, 1 \\Rightarrow 91$",
+    "question_en": "2 X 1 = 41, 3 X 2 = 92, 2 X 5 = 45 then 3 X 1 = ?",
+    "options_en": [
+      "19",
+      "3",
+      "91",
+      "16"
+    ],
+    "explanation_en": "The square of the first number and the square of the second number are written together.\n$3^2 = 9, 1 \\Rightarrow 91$"
+  },
+  {
+    "id": 39,
+    "question": "$(56)^{75}$ -ன் ஒன்றாம் இலக்க எண்.",
+    "options": [
+      "6",
+      "4",
+      "5",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "6-ல் முடியும் எந்த அடுக்கின் ஒன்றாம் இலக்கமும் 6-ஆகத் தான் இருக்கும்.",
+    "question_en": "$(56)^{75}$ is a one-digit number.",
+    "options_en": [
+      "6",
+      "4",
+      "5",
+      "0"
+    ],
+    "explanation_en": "Any stack ending in 6 has its first digit as a 6."
+  },
+  {
+    "id": 40,
+    "question": "x மற்றும் y பகா எண்கள் ஆகும். $x^2 + y^2 = 13$ எனில் x மற்றும் y-ன் மதிப்புகள்.",
+    "options": [
+      "1, 2",
+      "2, 3",
+      "3, 5",
+      "2, -3"
+    ],
+    "correct": 1,
+    "explanation": "$2^2 + 3^2 = 4 + 9 = 13$",
+    "question_en": "x and y are prime numbers. If $x^2 + y^2 = 13$ then the values ​​of x and y.",
+    "options_en": [
+      "1, 2",
+      "2, 3",
+      "3, 5",
+      "2, -3"
+    ],
+    "explanation_en": "$2^2 + 3^2 = 4 + 9 = 13$"
+  },
+  {
+    "id": 41,
+    "question": "4 X 3 = 13, 5 X 3 = 16 எனில் 6 X 3 =?",
+    "options": [
+      "9",
+      "18",
+      "19",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "(4 x 3) + 1 = 13\n(5 x 3) + 1 = 16\n(6 x 3) + 1 = 19",
+    "question_en": "4 X 3 = 13, 5 X 3 = 16 then 6 X 3 =?",
+    "options_en": [
+      "9",
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation_en": "(4 x 3) + 1 = 13\n(5 x 3) + 1 = 16\n(6 x 3) + 1 = 19"
+  },
+  {
+    "id": 42,
+    "question": "$(357)^{201}$ -ன் ஒற்றை இலக்க எண் எது?",
+    "options": [
+      "7",
+      "9",
+      "1",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "201 ஐ 4-ஆல் வகுக்க மீதி 1. எனவே $7^1 = 7$.",
+    "question_en": "What is the single digit number of $(357)^{201}$ ?",
+    "options_en": [
+      "7",
+      "9",
+      "1",
+      "3"
+    ],
+    "explanation_en": "Divide 201 by 4 and the remainder is 1. So $7^1 = 7$."
+  },
+  {
+    "id": 43,
+    "question": "ஒரு எண்ணின் கணத்திற்கும், வர்க்கத்திற்கும் உள்ள வித்தியாசம் 100 எனில், அந்த எண்",
+    "options": [
+      "25",
+      "16",
+      "6",
+      "5"
+    ],
+    "correct": 3,
+    "explanation": "$5^3 = 125 ; 5^2 = 25$\n125 - 25 = 100. எனவே அந்த எண் 5.",
+    "question_en": "If the difference between the moment and the square of a number is 100, then the number",
+    "options_en": [
+      "25",
+      "16",
+      "6",
+      "5"
+    ],
+    "explanation_en": "$5^3 = 125 ; 5^2 = 25$\n125 - 25 = 100. So that number is 5."
+  },
+  {
+    "id": 44,
+    "question": "$p = \\frac{3}{5}$, $q = \\frac{7}{9}$, $r = \\frac{5}{7}$ எனில்",
+    "options": [
+      "p < q < r",
+      "q < r < p",
+      "p < r < q",
+      "r < q < p"
+    ],
+    "correct": 2,
+    "explanation": "5, 9, 7 ன் மீ.சி.ம = 315.\n$p = \\frac{189}{315}$, $q = \\frac{245}{315}$, $r = \\frac{225}{315}$.\nஎனவே p < r < q.",
+    "question_en": "If $p = \\frac{3}{5}$, $q = \\frac{7}{9}$, $r = \\frac{5}{7}$",
+    "options_en": [
+      "p < q < r",
+      "q < r < p",
+      "p < r < q",
+      "r < q < p"
+    ],
+    "explanation_en": "mcm of 5, 9, 7 = 315.\n$p = \\frac{189}{315}$, $q = \\frac{245}{315}$, $r = \\frac{225}{315}$.\nHence p < r < q."
+  },
+  {
+    "id": 45,
+    "question": "$(16)^{1.75} = ?$ (மதிப்பு காண்க)",
+    "options": [
+      "64",
+      "281",
+      "138",
+      "128"
+    ],
+    "correct": 3,
+    "explanation": "$16^{1.75} = 16^{\\frac{175}{100}} = 16^{\\frac{7}{4}} = (2^4)^{\\frac{7}{4}} = 2^7 = 128$",
+    "question_en": "$(16)^{1.75} = ?$ (view value)",
+    "options_en": [
+      "64",
+      "281",
+      "138",
+      "128"
+    ],
+    "explanation_en": "$16^{1.75} = 16^{\\frac{175}{100}} = 16^{\\frac{7}{4}} = (2^4)^{\\frac{7}{4}} = 2^7 = 128$"
+  },
+  {
+    "id": 46,
+    "question": "ஒரு எண் மற்றும் அதன் பத்து மடங்கின் கூட்டுத்தொகை 264 எனில், அந்த எண்",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correct": 2,
+    "explanation": "X + 10X = 264\n11X = 264\nX = 24",
+    "question_en": "If the sum of a number and its tenfold is 264, then the number",
+    "options_en": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "explanation_en": "X + 10X = 264\n11X = 264\nX = 24"
+  },
+  {
+    "id": 47,
+    "question": "$3 \\frac{1}{4} + 4 \\frac{1}{6} + \\text{?} + \\frac{1}{4} = 10$",
+    "options": [
+      "$2 \\frac{1}{6}$",
+      "$4 \\frac{1}{3}$",
+      "$1 \\frac{1}{3}$",
+      "$2 \\frac{1}{3}$"
+    ],
+    "correct": 3,
+    "explanation": "$\\text{?} = 10 - \\left(3\\frac{1}{4} + 4\\frac{1}{6} + \\frac{1}{4}\\right)$\n$= 10 - \\left(\\frac{13}{4} + \\frac{25}{6} + \\frac{1}{4}\\right) = 10 - \\left(\\frac{14}{4} + \\frac{25}{6}\\right)$\n$= 10 - \\left(\\frac{7}{2} + \\frac{25}{6}\\right) = 10 - \\left(\\frac{21 + 25}{6}\\right)$\n$= 10 - \\frac{46}{6} = \\frac{60 - 46}{6} = \\frac{14}{6} = \\frac{7}{3} = 2\\frac{1}{3}$",
+    "question_en": "$3 \\frac{1}{4} + 4 \\frac{1}{6} + \\text{?} + \\frac{1}{4} = 10$",
+    "options_en": [
+      "$2 \\frac{1}{6}$",
+      "$4 \\frac{1}{3}$",
+      "$1 \\frac{1}{3}$",
+      "$2 \\frac{1}{3}$"
+    ],
+    "explanation_en": "$\\text{?} = 10 - \\left(3\\frac{1}{4} + 4\\frac{1}{6} + \\frac{1}{4}\\right)$\n$= 10 - \\left(\\frac{13}{4} + \\frac{25}{6} + \\frac{1}{4}\\right) = 10 - \\left(\\frac{14}{4} + \\frac{25}{6}\\right)$\n$= 10 - \\left(\\frac{7}{2} + \\frac{25}{6}\\right) = 10 - \\left(\\frac{21 + 25}{6}\\right)$\n$= 10 - \\frac{46}{6} = \\frac{60 - 46}{6} = \\frac{14}{6} = \\frac{7}{3} = 2\\frac{1}{3}$"
+  },
+  {
+    "id": 48,
+    "question": "இரு எண்களின் சராசரி M ஒரு எண் N எனில், மற்றொரு எண்",
+    "options": [
+      "2 N",
+      "2 M",
+      "M-N",
+      "2 M-N"
+    ],
+    "correct": 3,
+    "explanation": "(N + X) / 2 = M\nN + X = 2M\nX = 2M - N",
+    "question_en": "Average of two numbers M If one number is N, the other number is",
+    "options_en": [
+      "2 N",
+      "2 M",
+      "M-N",
+      "2 M-N"
+    ],
+    "explanation_en": "(N + X) / 2 = M\nN + X = 2M\nX = 2M - N"
+  },
+  {
+    "id": 49,
+    "question": "p : q = 3 : 4 மற்றும் q : r = 8 : 9 எனில் p : r என்பது ?",
+    "options": [
+      "1 : 3",
+      "2 : 3",
+      "2",
+      "1 : 2"
+    ],
+    "correct": 1,
+    "explanation": "p : q : r = (3x2) : (4x2) : 9 = 6 : 8 : 9\np : r = 6 : 9 = 2 : 3",
+    "question_en": "If p : q = 3 : 4 and q : r = 8 : 9 then p : r ?",
+    "options_en": [
+      "1 : 3",
+      "2:3",
+      "2",
+      "1 : 2"
+    ],
+    "explanation_en": "p : q : r = (3x2) : (4x2) : 9 = 6 : 8 : 9\np : r = 6 : 9 = 2 : 3"
+  },
+  {
+    "id": 50,
+    "question": "நாற்கரத்தில் உள்ள கோணங்களின் விகிதம் 1:2:3:4 எனில், நாற்கரத்தில் உள்ள மிகப்பெரிய கோணம்",
+    "options": [
+      "36°",
+      "72°",
+      "108°",
+      "144°"
+    ],
+    "correct": 3,
+    "explanation": "X + 2X + 3X + 4X = 360°\n10X = 360° => X = 36°\nமிகப்பெரிய கோணம் = 4 x 36° = 144°",
+    "question_en": "If the ratio of the angles in a quadrilateral is 1:2:3:4, then the largest angle in a quadrilateral is",
+    "options_en": [
+      "36°",
+      "72°",
+      "108°",
+      "144°"
+    ],
+    "explanation_en": "X + 2X + 3X + 4X = 360°\n10X = 360° => X = 36°\nLargest angle = 4 x 36° = 144°"
+  }
+]

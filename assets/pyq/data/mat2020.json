@@ -1,0 +1,1837 @@
+[
+  {
+    "id": 1,
+    "question": "9, 30, 51, 72, ?",
+    "options": [
+      "103",
+      "93",
+      "94",
+      "81"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு எண்ணுடனும் 21 கூட்டப்பட்டுள்ளது.\n72 + 21 = 93.",
+    "question_en": "9, 30, 51, 72, ?",
+    "options_en": [
+      "103",
+      "93",
+      "94",
+      "81"
+    ],
+    "explanation_en": "21 is added to each number.\n72 + 21 = 93."
+  },
+  {
+    "id": 2,
+    "question": "5, 4, 9, 13, 22, ?",
+    "options": [
+      "36",
+      "42",
+      "35",
+      "29"
+    ],
+    "correct": 2,
+    "explanation": "முந்தைய இரு எண்களின் கூடுதல் அடுத்த எண்ணாக வருகிறது (Fibonacci தொடர்).\n13 + 22 = 35.",
+    "question_en": "5, 4, 9, 13, 22, ?",
+    "options_en": [
+      "36",
+      "42",
+      "35",
+      "29"
+    ],
+    "explanation_en": "The sum of the previous two numbers gives the next number (Fibonacci series).\n13 + 22 = 35."
+  },
+  {
+    "id": 3,
+    "question": "3, 4, 12, 48, ?",
+    "options": [
+      "576",
+      "675",
+      "412",
+      "516"
+    ],
+    "correct": 0,
+    "explanation": "முந்தைய இரு எண்களின் பெருக்கற்பலன் அடுத்த எண்ணாக வருகிறது.\n12 × 48 = 576.",
+    "question_en": "3, 4, 12, 48, ?",
+    "options_en": [
+      "576",
+      "675",
+      "412",
+      "516"
+    ],
+    "explanation_en": "The product of the previous two numbers gives the next number.\n12 × 48 = 576."
+  },
+  {
+    "id": 4,
+    "question": "328, 164, 82, ?",
+    "options": [
+      "50",
+      "26",
+      "41",
+      "40"
+    ],
+    "correct": 2,
+    "explanation": "ஒவ்வொரு எண்ணும் 2 ஆல் வகுக்கப்பட்டுள்ளது (பாதியாகக் குறைகிறது).\n82 ÷ 2 = 41.",
+    "question_en": "328, 164, 82, ?",
+    "options_en": [
+      "50",
+      "26",
+      "41",
+      "40"
+    ],
+    "explanation_en": "Each number is divided by 2 (halved).\n82 ÷ 2 = 41."
+  },
+  {
+    "id": 5,
+    "question": "1, 4, 9, 16, 25, ?",
+    "options": [
+      "38",
+      "41",
+      "48",
+      "36"
+    ],
+    "correct": 3,
+    "explanation": "இது இயல் எண்களின் வர்க்கத் தொடர் ($1^2, 2^2, 3^2...$).\nஅடுத்து வருவது $6^2 = 36$.",
+    "question_en": "1, 4, 9, 16, 25, ?",
+    "options_en": [
+      "38",
+      "41",
+      "48",
+      "36"
+    ],
+    "explanation_en": "This is a series of squares of natural numbers ($1^2, 2^2, 3^2...$).\nThe next is $6^2 = 36$."
+  },
+  {
+    "id": 6,
+    "question": "$-\\frac{1}{5}$, 1, -5, 25, ?",
+    "options": [
+      "125",
+      "-125",
+      "75",
+      "-75"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு எண்ணும் (-5) ஆல் பெருக்கப்பட்டுள்ளது.\n25 × (-5) = -125.",
+    "question_en": "$-\\frac{1}{5}$, 1, -5, 25, ?",
+    "options_en": [
+      "125",
+      "-125",
+      "75",
+      "-75"
+    ],
+    "explanation_en": "Each number is multiplied by (-5).\n25 × (-5) = -125."
+  },
+  {
+    "id": 7,
+    "question": "5, 11, 23, 47, ?",
+    "options": [
+      "87",
+      "85",
+      "97",
+      "95"
+    ],
+    "correct": 3,
+    "explanation": "முந்தைய எண்ணை 2 ஆல் பெருக்கி 1 கூட்டப்பட்டுள்ளது ($\\times 2 + 1$).\n47 × 2 + 1 = 94 + 1 = 95.",
+    "question_en": "5, 11, 23, 47, ?",
+    "options_en": [
+      "87",
+      "85",
+      "97",
+      "95"
+    ],
+    "explanation_en": "The previous number is multiplied by 2 and 1 is added ($\\times 2 + 1$).\n47 × 2 + 1 = 94 + 1 = 95."
+  },
+  {
+    "id": 8,
+    "question": "A, D, G, J, ?",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "correct": 0,
+    "explanation": "ஆங்கில எழுத்துக்களில் 3 இடங்கள் தள்ளி (தாவி) வருகிறது.\nJ (+3) = M.",
+    "question_en": "A, D, G, J, ?",
+    "options_en": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "explanation_en": "Jumps 3 places forward in the English alphabet.\nJ (+3) = M."
+  },
+  {
+    "id": 9,
+    "question": "AZ, CX, EV, ?",
+    "options": [
+      "HR",
+      "GT",
+      "GS",
+      "HS"
+    ],
+    "correct": 1,
+    "explanation": "முதல் எழுத்து +2 (A, C, E, G).\nஇரண்டாம் எழுத்து -2 (Z, X, V, T). எனவே GT.",
+    "question_en": "AZ, CX, EV, ?",
+    "options_en": [
+      "HR",
+      "GT",
+      "GS",
+      "HS"
+    ],
+    "explanation_en": "First letter +2 (A, C, E, G).\nSecond letter -2 (Z, X, V, T). Hence GT."
+  },
+  {
+    "id": 10,
+    "question": "2Y, 5V, ?, 17J, 26A",
+    "options": [
+      "12S",
+      "7R",
+      "10Q",
+      "10R"
+    ],
+    "correct": 2,
+    "explanation": "எண்கள்: +3, +5, +7, +9 எனக் கூடுகிறது. 5+5=10.\nஎழுத்துக்கள்: -3, -5, -7, -9 எனக் குறைகிறது. V(-5) = Q. எனவே 10Q.",
+    "question_en": "2Y, 5V, ?, 17J, 26A",
+    "options_en": [
+      "12S",
+      "7R",
+      "10Q",
+      "10R"
+    ],
+    "explanation_en": "Numbers: increase by +3, +5, +7, +9. 5+5=10.\nLetters: decrease by -3, -5, -7, -9. V(-5) = Q. Therefore 10Q."
+  },
+  {
+    "id": 11,
+    "question": "'Gun' என்பது 'Soldier' என்பதுடன் தொடர்புடையது எனில், 'Needle' என்பது எதனுடன் தொடர்புடையது?",
+    "options": [
+      "Tailor",
+      "Thread",
+      "Weaver",
+      "Sewing Machine"
+    ],
+    "correct": 0,
+    "explanation": "துப்பாக்கி வீரருக்கு (Soldier) உதவுவது போல, ஊசி (Needle) தையல்காரருக்கு (Tailor) உதவும் கருவியாகும்.",
+    "question_en": "If 'Gun' is related to 'Soldier', then 'Needle' is related to:",
+    "options_en": [
+      "Tailor",
+      "Thread",
+      "Weaver",
+      "Sewing Machine"
+    ],
+    "explanation_en": "Just as a gun is a tool for a soldier, a needle is a tool for a tailor."
+  },
+  {
+    "id": 12,
+    "question": "'Man' என்பது 'Child' உடன் தொடர்புடையது எனில், 'Cow' என்பது எதனுடன் தொடர்புடையது?",
+    "options": [
+      "Calf",
+      "Bullock",
+      "Cub",
+      "Milk"
+    ],
+    "correct": 0,
+    "explanation": "மனிதனின் இளமைப்பருவம் குழந்தை (Child). பசுவின் இளமைப்பருவம் கன்றுக்குட்டி (Calf).",
+    "question_en": "If 'Man' is related to 'Child', then 'Cow' is related to:",
+    "options_en": [
+      "Calf",
+      "Bullock",
+      "Cub",
+      "Milk"
+    ],
+    "explanation_en": "The young form of a man is a child. The young form of a cow is a calf."
+  },
+  {
+    "id": 13,
+    "question": "Butter : Milk :: Book : ?",
+    "options": [
+      "Paper",
+      "Book : Paper",
+      "Book : Colour",
+      "Book : Pages"
+    ],
+    "correct": 0,
+    "explanation": "வெண்ணெய் (Butter) பாலில் (Milk) இருந்து பெறப்படுகிறது. புத்தகம் காகிதத்தால் (Paper) உருவாக்கப்படுகிறது.",
+    "question_en": "Butter : Milk :: Book : ?",
+    "options_en": [
+      "Paper",
+      "Book : Paper",
+      "Book : Colour",
+      "Book : Pages"
+    ],
+    "explanation_en": "Butter is obtained from milk. A book is made from paper."
+  },
+  {
+    "id": 14,
+    "question": "Water : Pipe :: Blood : ?",
+    "options": [
+      "Artery",
+      "Heart",
+      "Brain",
+      "Bone marrow"
+    ],
+    "correct": 0,
+    "explanation": "தண்ணீர் குழாய் (Pipe) வழியே பாய்வது போல, இரத்தம் தமனி (Artery) வழியே பாய்கிறது.",
+    "question_en": "Water : Pipe :: Blood : ?",
+    "options_en": [
+      "Artery",
+      "Heart",
+      "Brain",
+      "Bone marrow"
+    ],
+    "explanation_en": "Just as water flows through a pipe, blood flows through an artery."
+  },
+  {
+    "id": 15,
+    "question": "A : E :: I : ?",
+    "options": [
+      "Y",
+      "Z",
+      "O",
+      "B"
+    ],
+    "correct": 2,
+    "explanation": "ஆங்கில உயிரெழுத்துக்கள் (Vowels) A, E, I, O, U என்ற வரிசையில் அமைந்துள்ளன.",
+    "question_en": "A : E :: I : ?",
+    "options_en": [
+      "Y",
+      "Z",
+      "O",
+      "B"
+    ],
+    "explanation_en": "English vowels follow the order A, E, I, O, U."
+  },
+  {
+    "id": 16,
+    "question": "2 : 3 :: 7 : ?",
+    "options": [
+      "9",
+      "11",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "இவை தொடர்ச்சியான பகா எண்கள் (Prime numbers). 2-க்கு அடுத்த பகா எண் 3. அதுபோல 7-க்கு அடுத்த பகா எண் 11.",
+    "question_en": "2 : 3 :: 7 : ?",
+    "options_en": [
+      "9",
+      "11",
+      "5",
+      "6"
+    ],
+    "explanation_en": "These are consecutive prime numbers. The next prime after 2 is 3. Similarly, the next prime after 7 is 11."
+  },
+  {
+    "id": 17,
+    "question": "a _ a b _ b a _ a b என்ற தொடரில் விடுபட்ட எழுத்துக்கள்:",
+    "options": [
+      "bba",
+      "bab",
+      "aab",
+      "abb"
+    ],
+    "correct": 1,
+    "explanation": "தொடர் அமைப்பு 'a b a b / a b a b / a b' என வருகிறது. விடுபட்ட இடங்களில் b, a, b நிரப்பப்பட வேண்டும்.",
+    "question_en": "The missing letters in the series a _ a b _ b a _ a b are:",
+    "options_en": [
+      "bba",
+      "bab",
+      "aab",
+      "abb"
+    ],
+    "explanation_en": "The series follows the pattern 'a b a b / a b a b / a b'. The blanks should be filled with b, a, b."
+  },
+  {
+    "id": 18,
+    "question": "கீழே கொடுக்கப்பட்டவற்றில் வேறுபட்டதைக் கண்டுபிடிக்கவும்.",
+    "options": [
+      "தர்மபுரி",
+      "கன்னியாகுமரி",
+      "இராமநாதபுரம்",
+      "கடலூர்"
+    ],
+    "correct": 0,
+    "explanation": "தர்மபுரி தவிர மற்ற அனைத்தும் கடற்கரையை எல்லையாகக் கொண்ட மாவட்டங்களாகும்.",
+    "question_en": "Find the odd one out from the following.",
+    "options_en": [
+      "Dharmapuri",
+      "Kanyakumari",
+      "Ramanathapuram",
+      "Cuddalore"
+    ],
+    "explanation_en": "Except Dharmapuri, all others are coastal districts."
+  },
+  {
+    "id": 19,
+    "question": "கீழே கொடுக்கப்பட்டவற்றில் வேறுபட்டதைக் கண்டுபிடிக்கவும்.",
+    "options": [
+      "+",
+      "-",
+      "X",
+      "÷"
+    ],
+    "correct": 2,
+    "explanation": "+, -, ÷ ஆகியவை கணித குறியீடுகள். X என்பது ஓர் ஆங்கில எழுத்து.",
+    "question_en": "Find the odd one out from the following.",
+    "options_en": [
+      "+",
+      "-",
+      "X",
+      "÷"
+    ],
+    "explanation_en": "+, -, and ÷ are mathematical symbols. X is an English letter."
+  },
+  {
+    "id": 20,
+    "question": "'rain' என்பது 'water', 'water' என்பது 'sea', 'sea' என்பது 'cloud' எனவும் அழைக்கப்பட்டால், தாகம் எடுக்கும்போது அருந்துவது எது?",
+    "options": [
+      "water",
+      "sea",
+      "cloud",
+      "rain"
+    ],
+    "correct": 1,
+    "explanation": "தாகத்திற்கு நாம் அருந்துவது தண்ணீர் (water). இங்கு 'water' என்பது 'sea' என அழைக்கப்படுகிறது.",
+    "question_en": "If 'rain' is called 'water', 'water' is called 'sea', 'sea' is called 'cloud', what do we drink when thirsty?",
+    "options_en": [
+      "water",
+      "sea",
+      "cloud",
+      "rain"
+    ],
+    "explanation_en": "We drink water when thirsty. Here, 'water' is called 'sea'."
+  },
+  {
+    "id": 21,
+    "question": "ABC என்பது 262524 எனவும், XYZ என்பது 321 எனவும் குறியிடப்பட்டால் PQR என்பது :",
+    "options": [
+      "161718",
+      "181716",
+      "11109",
+      "91011"
+    ],
+    "correct": 2,
+    "explanation": "எழுத்துக்கள் Z=1, Y=2 என பின்னோக்கி எண்ணப்பட்டுள்ளன. P=11, Q=10, R=9.",
+    "question_en": "If ABC is coded as 262524 and XYZ as 321, then PQR is coded as:",
+    "options_en": [
+      "161718",
+      "181716",
+      "11109",
+      "91011"
+    ],
+    "explanation_en": "Letters are numbered backwards starting with Z=1, Y=2, etc. P=11, Q=10, R=9."
+  },
+  {
+    "id": 22,
+    "question": "'Cup Of Coffee' என்பது COC, 'Coffee Is Tasty' என்பது CIT எனில் 'Creamy Tasty Biscuit' என்பது:",
+    "options": [
+      "BTO",
+      "CTB",
+      "CBT",
+      "COT"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு வார்த்தையின் முதல் எழுத்தும் குறியீடாக அமைகிறது. Creamy Tasty Biscuit -> C T B.",
+    "question_en": "If 'Cup Of Coffee' is COC, 'Coffee Is Tasty' is CIT, then 'Creamy Tasty Biscuit' is:",
+    "options_en": [
+      "BTO",
+      "CTB",
+      "CBT",
+      "COT"
+    ],
+    "explanation_en": "The first letter of each word forms the code. Creamy Tasty Biscuit -> C T B."
+  },
+  {
+    "id": 23,
+    "question": "A=1, B=2, C=3... என்ற மதிப்பீட்டில், AB=0, BC=2, CD=6 எனில் ABC = ?",
+    "options": [
+      "3",
+      "2",
+      "0",
+      "6"
+    ],
+    "correct": 2,
+    "explanation": "A=0, B=1, C=2, D=3 எனில் $0\\times1=0$, $1\\times2=2$. எனவே ABC = $0\\times1\\times2 = 0$.",
+    "question_en": "If A=1, B=2, C=3... is modified such that AB=0, BC=2, CD=6, then ABC = ?",
+    "options_en": [
+      "3",
+      "2",
+      "0",
+      "6"
+    ],
+    "explanation_en": "The values are shifted: A=0, B=1, C=2, D=3. So $0\\times1=0$, $1\\times2=2$. Therefore ABC = $0\\times1\\times2 = 0$."
+  },
+  {
+    "id": 24,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள 4 வார்த்தைகளின் முறையான வரிசை:\nLearn, Exam, Result, Book",
+    "options": [
+      "Result, Exam, Book, Learn",
+      "Book, Learn, Exam, Result",
+      "Exam, Learn, Result, Book",
+      "Book, Exam, Learn, Result"
+    ],
+    "correct": 1,
+    "explanation": "புத்தகம் (Book) -> கற்றல் (Learn) -> தேர்வு (Exam) -> முடிவு (Result) என்பதே சரியான வரிசையாகும்.",
+    "question_en": "Logical order of the given 4 words:\nLearn, Exam, Result, Book",
+    "options_en": [
+      "Result, Exam, Book, Learn",
+      "Book, Learn, Exam, Result",
+      "Exam, Learn, Result, Book",
+      "Book, Exam, Learn, Result"
+    ],
+    "explanation_en": "Book -> Learn -> Exam -> Result is the correct sequence."
+  },
+  {
+    "id": 25,
+    "question": "கொடுக்கப்பட்ட நான்கு வார்த்தைகளின் ஆங்கில அகராதி வரிசை:\ncorporation, collar, coin, column",
+    "options": [
+      "collar, column, corporation, coin",
+      "coin, column, collar, corporation",
+      "column, coin, collar, corporation",
+      "coin, collar, column, corporation"
+    ],
+    "correct": 3,
+    "explanation": "அகராதிப்படி (Alphabetical): coin, collar, column, corporation.",
+    "question_en": "Dictionary order of the given four words:\ncorporation, collar, coin, column",
+    "options_en": [
+      "collar, column, corporation, coin",
+      "coin, column, collar, corporation",
+      "column, coin, collar, corporation",
+      "coin, collar, column, corporation"
+    ],
+    "explanation_en": "Alphabetical order: coin, collar, column, corporation."
+  },
+  {
+    "id": 26,
+    "question": "'objection' என்ற வார்த்தையில் உள்ள எழுத்துக்கள் மூலம் உருவாக்க இயலாத வார்த்தை:",
+    "options": [
+      "object",
+      "caution",
+      "net",
+      "jet"
+    ],
+    "correct": 1,
+    "explanation": "'caution' என்ற வார்த்தையில் உள்ள 'a' மற்றும் 'u' ஆகிய எழுத்துக்கள் 'objection'-ல் இல்லை.",
+    "question_en": "The word that cannot be formed from the letters of the word 'objection' is:",
+    "options_en": [
+      "object",
+      "caution",
+      "net",
+      "jet"
+    ],
+    "explanation_en": "The letters 'a' and 'u' in 'caution' are not present in 'objection'."
+  },
+  {
+    "id": 27,
+    "question": "nescod என்ற மாற்றியமைக்கப்பட்ட எழுத்துக்கள் மூலம் உருவாக்கப்படும் அர்த்தமுள்ள வார்த்தை:",
+    "options": [
+      "second",
+      "note",
+      "noise",
+      "score"
+    ],
+    "correct": 0,
+    "explanation": "எழுத்துக்களை முறைப்படுத்தினால் 'second' என்ற வார்த்தை கிடைக்கும்.",
+    "question_en": "The meaningful word formed by rearranging the letters 'nescod' is:",
+    "options_en": [
+      "second",
+      "note",
+      "noise",
+      "score"
+    ],
+    "explanation_en": "Rearranging the letters gives the word 'second'."
+  },
+  {
+    "id": 28,
+    "question": "ஆங்கில எழுத்து வரிசையில் ஐந்தாவது எழுத்திலிருந்து வலது பக்கம் உள்ள நான்காவது எழுத்து:",
+    "options": [
+      "I",
+      "J",
+      "H",
+      "E"
+    ],
+    "correct": 0,
+    "explanation": "5வது எழுத்து 'E'. அதிலிருந்து வலதுபுறம் 4வது எழுத்து 'I' (5+4=9வது எழுத்து).",
+    "question_en": "The 4th letter to the right of the 5th letter in the English alphabet series is:",
+    "options_en": [
+      "I",
+      "J",
+      "H",
+      "E"
+    ],
+    "explanation_en": "The 5th letter is 'E'. 4 letters to the right of it is 'I' (5+4=9th letter)."
+  },
+  {
+    "id": 29,
+    "question": "89679756976 என்ற எண் தொடரில் 9-ஐ முன்னதாகவும் 6-ஐ பின்னதாகவும் கொண்ட 7-களின் எண்ணிக்கை:",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "correct": 2,
+    "explanation": "976 என்ற அமைப்பு எங்கு வருகிறது எனப் பார்க்க வேண்டும். இறுதியில் '...6 9 7 6' என ஒரே ஒரு முறை மட்டுமே வருகிறது.",
+    "question_en": "In the number series 89679756976, the number of 7s preceded by 9 and followed by 6 is:",
+    "options_en": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "explanation_en": "We need to look for the sequence 976. It appears only once at the end as '...6 9 7 6'."
+  },
+  {
+    "id": 30,
+    "question": "கீழ்காண் எண்களில் பெரியது எது ?",
+    "options": [
+      "$(3\\times3\\times3)^{2}$",
+      "$(3+3+3)^{2}$",
+      "$3+3^{2}+[3^{2}]^{2}$",
+      "$[(3+3)^{2}]^{2}$"
+    ],
+    "correct": 3,
+    "explanation": "$[(3+3)^{2}]^{2} = [6^2]^2 = 36^2 = 1296$. இதுவே மிகப்பெரியது.",
+    "question_en": "Which of the following numbers is the largest?",
+    "options_en": [
+      "$(3\\times3\\times3)^{2}$",
+      "$(3+3+3)^{2}$",
+      "$3+3^{2}+[3^{2}]^{2}$",
+      "$[(3+3)^{2}]^{2}$"
+    ],
+    "explanation_en": "$[(3+3)^{2}]^{2} = [6^2]^2 = 36^2 = 1296$. This is the largest."
+  },
+  {
+    "id": 31,
+    "question": "ஒரு வகுப்பில் ஒரு மாணவரின் தரம் மேலிருந்து 12-ம் இடத்திலும், கீழிருந்து 23-வது இடத்திலும் இருந்தால் வகுப்பில் உள்ள மாணவர்களின் எண்ணிக்கை:",
+    "options": [
+      "34",
+      "35",
+      "32",
+      "11"
+    ],
+    "correct": 0,
+    "explanation": "மொத்த மாணவர்கள் = (மேலிருந்து தரம் + கீழிருந்து தரம்) - 1 = 12 + 23 - 1 = 34.",
+    "question_en": "In a class, if a student's rank is 12th from the top and 23rd from the bottom, the total number of students in the class is:",
+    "options_en": [
+      "34",
+      "35",
+      "32",
+      "11"
+    ],
+    "explanation_en": "Total students = (Rank from top + Rank from bottom) - 1 = 12 + 23 - 1 = 34."
+  },
+  {
+    "id": 32,
+    "question": "நேற்றைய தினத்திற்கு முந்தைய தினம் வெள்ளிக்கிழமையாக இருந்தால் நாளைய மறுநாள்:",
+    "options": [
+      "ஞாயிற்றுக்கிழமை",
+      "செவ்வாய்கிழமை",
+      "திங்கட்கிழமை",
+      "புதன்கிழமை"
+    ],
+    "correct": 1,
+    "explanation": "நேற்றுமுன்தினம் வெள்ளி என்றால், இன்று ஞாயிறு. நாளைய மறுநாள் செவ்வாய்க்கிழமை.",
+    "question_en": "If the day before yesterday was Friday, what will be the day after tomorrow?",
+    "options_en": [
+      "Sunday",
+      "Tuesday",
+      "Monday",
+      "Wednesday"
+    ],
+    "explanation_en": "If the day before yesterday was Friday, today is Sunday. The day after tomorrow will be Tuesday."
+  },
+  {
+    "id": 33,
+    "question": "ஒருவர் வடதிசை நோக்கி 30 மீ. நடந்து, வலது பக்கமாக $45^{\\circ}$ கோணத்தில் திரும்புகிறார் எனில், அவர் நடந்து கொண்டிருக்கும் திசை:",
+    "options": [
+      "தென்கிழக்கு",
+      "வடமேற்கு",
+      "வடகிழக்கு",
+      "தென் மேற்கு"
+    ],
+    "correct": 2,
+    "explanation": "வடக்கில் இருந்து வலதுபுறம் $45^{\\circ}$ திரும்பினால் வடகிழக்கு (North-East) திசை கிடைக்கும்.",
+    "question_en": "A person walks 30m towards the North and turns $45^{\\circ}$ to the right. The direction he is walking now is:",
+    "options_en": [
+      "South-East",
+      "North-West",
+      "North-East",
+      "South-West"
+    ],
+    "explanation_en": "Turning $45^{\\circ}$ to the right from North gives the North-East direction."
+  },
+  {
+    "id": 34,
+    "question": "மிதிவண்டியில் வடதிசையில் சென்ற சிறுவன், இடது பக்கம் திரும்பி 1 கி.மீ. சென்று, மீண்டும் இடது பக்கம் திரும்பி 2 கி.மீ. செல்கிறான். தற்போது அவன் புறப்பட்ட இடத்திலிருந்து நேர் மேற்கில் 1 கி.மீ. தூரத்தில் இருந்தால், முதலில் வடதிசையில் அவன் பயணித்த தூரம்:",
+    "options": [
+      "3 கி.மீ.",
+      "1 கி.மீ.",
+      "2 கி.மீ.",
+      "4 கி.மீ."
+    ],
+    "correct": 2,
+    "explanation": "அவன் புறப்பட்ட இடத்திற்கு நேர் மேற்கில் இருக்க வேண்டுமெனில், அவன் தெற்கில் பயணித்த தூரமும் (2 கிமீ) முதலில் வடக்கில் பயணித்த தூரமும் சமமாக இருக்க வேண்டும்.",
+    "question_en": "A boy riding a bicycle towards the North turns left and rides 1 km, then turns left again and rides 2 km. If he is now exactly 1 km West of his starting point, the distance he initially travelled towards the North is:",
+    "options_en": [
+      "3 km",
+      "1 km",
+      "2 km",
+      "4 km"
+    ],
+    "explanation_en": "To be exactly West of the starting point, the distance he travelled South (2 km) must equal his initial distance travelled North."
+  },
+  {
+    "id": 35,
+    "question": "ஒருவரிடம் ₹ 6,400-க்கு பத்து ரூபாய், ஐம்பது ரூபாய் மற்றும் நூறு ரூபாய் நோட்டுகள் சம எண்ணிக்கையில் இருந்தன. அவரிடமிருந்த மொத்த நோட்டுக்களின் எண்ணிக்கை:",
+    "options": [
+      "120",
+      "100",
+      "110",
+      "115"
+    ],
+    "correct": 0,
+    "explanation": "$10x + 50x + 100x = 6400 \\Rightarrow 160x = 6400 \\Rightarrow x = 40$.\nமொத்த நோட்டுகள் = $3x = 3 \\times 40 = 120$.",
+    "question_en": "A person has ₹6,400 in equal numbers of ten-rupee, fifty-rupee, and hundred-rupee notes. The total number of notes he has is:",
+    "options_en": [
+      "120",
+      "100",
+      "110",
+      "115"
+    ],
+    "explanation_en": "$10x + 50x + 100x = 6400 \\Rightarrow 160x = 6400 \\Rightarrow x = 40$.\nTotal notes = $3x = 3 \\times 40 = 120$."
+  },
+  {
+    "id": 36,
+    "question": "$36x^{36}$ என்பதன் வர்க்கமூலம் (Square root):",
+    "options": [
+      "$6x^{6}$",
+      "$6x^{12}$",
+      "$8x^{12}$",
+      "$6x^{18}$"
+    ],
+    "correct": 3,
+    "explanation": "$\\sqrt{36x^{36}} = 6 \\times x^{36/2} = 6x^{18}$.",
+    "question_en": "Square root of $36x^{36}$ is:",
+    "options_en": [
+      "$6x^{6}$",
+      "$6x^{12}$",
+      "$8x^{12}$",
+      "$6x^{18}$"
+    ],
+    "explanation_en": "$\\sqrt{36x^{36}} = 6 \\times x^{36/2} = 6x^{18}$."
+  },
+  {
+    "id": 37,
+    "question": "\"All the child are men\" மற்றும் \"All the men are women\" என்ற கூற்றுகளின்படி:",
+    "options": [
+      "all the men are child",
+      "all the women are child",
+      "all the women are men",
+      "all the child are women"
+    ],
+    "correct": 3,
+    "explanation": "குழந்தைகள் அனைவரும் ஆண்கள், ஆண்கள் அனைவரும் பெண்கள் என்றால், குழந்தைகள் அனைவரும் பெண்கள் (All the child are women) என்பதே சரியான முடிவு.",
+    "question_en": "According to the statements \"All the child are men\" and \"All the men are women\":",
+    "options_en": [
+      "all the men are child",
+      "all the women are child",
+      "all the women are men",
+      "all the child are women"
+    ],
+    "explanation_en": "If all children are men, and all men are women, then the logical conclusion is that all children are women."
+  },
+  {
+    "id": 38,
+    "question": "$5 * 6 \\Delta 7 = 23$ எனில்:",
+    "options": [
+      "* என்பது +, $\\Delta$ என்பது ÷",
+      "* என்பது ×, $\\Delta$ என்பது -",
+      "* என்பது ÷, $\\Delta$ என்பது +",
+      "* என்பது -, $\\Delta$ என்பது ×"
+    ],
+    "correct": 1,
+    "explanation": "$5 \\times 6 = 30$; $30 - 7 = 23$. எனவே * = $\\times$, $\\Delta$ = $-$",
+    "question_en": "If $5 * 6 \\Delta 7 = 23$, then:",
+    "options_en": [
+      "* is +, $\\Delta$ is ÷",
+      "* is ×, $\\Delta$ is -",
+      "* is ÷, $\\Delta$ is +",
+      "* is -, $\\Delta$ is ×"
+    ],
+    "explanation_en": "$5 \\times 6 = 30$; $30 - 7 = 23$. Therefore, * = $\\times$, $\\Delta$ = $-$"
+  },
+  {
+    "id": 39,
+    "question": "'+' என்பது '-', மற்றும் 'x' என்பது '+' எனில் $(8+5)\\times3$ =",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "குறியீடுகளை மாற்றினால்: $(8 - 5) + 3$? இல்லை, $(8 - 5) \\div 3 = 1$ (கேள்வியில் அச்சுப்பிழை இருக்கலாம், விடை 1 என்பது தர்க்கப்படி பொருந்துகிறது).",
+    "question_en": "If '+' means '-' and 'x' means '+', then $(8+5)\\times3$ =",
+    "options_en": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "explanation_en": "Changing symbols: $(8 - 5) + 3 = 6$. None of the options match perfectly unless 'x' means '÷' giving $(8-5)\\div3 = 1$. The closest logical answer provided by the key is 1."
+  },
+  {
+    "id": 40,
+    "question": "'-' என்பது '+' மற்றும் '÷' என்பது 'x' எனில் $16\\div5-5$ =",
+    "options": [
+      "85",
+      "90",
+      "80",
+      "95"
+    ],
+    "correct": 0,
+    "explanation": "குறியீடுகளை மாற்றினால்: $16 \\times 5 + 5 = 80 + 5 = 85$.",
+    "question_en": "If '-' means '+' and '÷' means 'x', then $16\\div5-5$ =",
+    "options_en": [
+      "85",
+      "90",
+      "80",
+      "95"
+    ],
+    "explanation_en": "Changing the signs: $16 \\times 5 + 5 = 80 + 5 = 85$."
+  },
+  {
+    "id": 41,
+    "question": "$2^{*}3=5$, $7^{*}4=11$ எனில் $6^{*}4=$",
+    "options": [
+      "1.5",
+      "2",
+      "10",
+      "24"
+    ],
+    "correct": 2,
+    "explanation": "இங்கு * என்பது கூட்டல் குறியைக் குறிக்கிறது. $6 + 4 = 10$.",
+    "question_en": "If $2^{*}3=5$ and $7^{*}4=11$, then $6^{*}4=$",
+    "options_en": [
+      "1.5",
+      "2",
+      "10",
+      "24"
+    ],
+    "explanation_en": "Here * represents addition. $6 + 4 = 10$."
+  },
+  {
+    "id": 42,
+    "question": "நேரம் 3 மணி 30 நிமிடங்களாக இருக்கும் போது, இரு முட்களுக்கும் இடைப்பட்ட கோணம்:",
+    "options": [
+      "$60^{\\circ}$",
+      "$72^{\\circ}$",
+      "$70^{\\circ}$",
+      "$75^{\\circ}$"
+    ],
+    "correct": 3,
+    "explanation": "கோணம் = $|30H - 5.5M| = |30(3) - 5.5(30)| = |90 - 165| = 75^{\\circ}$.",
+    "question_en": "The angle between the hands of a clock when the time is 3:30 is:",
+    "options_en": [
+      "$60^{\\circ}$",
+      "$72^{\\circ}$",
+      "$70^{\\circ}$",
+      "$75^{\\circ}$"
+    ],
+    "explanation_en": "Angle = $|30H - 5.5M| = |30(3) - 5.5(30)| = |90 - 165| = 75^{\\circ}$."
+  },
+  {
+    "id": 43,
+    "question": "ஒரு கடிகாரத்தில் நேரம் 12:05. கண்ணாடியில் அது காட்டும் நேரம்:",
+    "options": [
+      "1 மணி 50 நிமிடங்கள்",
+      "11 மணி 50 நிமிடங்கள்",
+      "1 மணி 55 நிமிடங்கள்",
+      "11 மணி 55 நிமிடங்கள்"
+    ],
+    "correct": 3,
+    "explanation": "கண்ணாடி பிம்ப நேரம் = 23:60 - 12:05 = 11:55.",
+    "question_en": "The time on a clock is 12:05. Its reflection in a mirror shows the time as:",
+    "options_en": [
+      "1 hour 50 minutes",
+      "11 hours 50 minutes",
+      "1 hour 55 minutes",
+      "11 hours 55 minutes"
+    ],
+    "explanation_en": "Mirror image time = 23:60 - 12:05 = 11:55."
+  },
+  {
+    "id": 44,
+    "question": "மஞ்சு 29.02.1984 -ல் பிறந்துள்ளார் எனில், 2020 வரை எத்தனை பிறந்த நாட்களைக் கொண்டாடியிருப்பார்?",
+    "options": [
+      "9",
+      "8",
+      "36",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "லீப் வருடங்கள் (Leap years): 1988, 92, 96, 2000, 04, 08, 12, 16, 20. மொத்தம் 9 நாட்கள்.",
+    "question_en": "Manju was born on 29.02.1984. How many birthdays would she have celebrated up to 2020?",
+    "options_en": [
+      "9",
+      "8",
+      "36",
+      "4"
+    ],
+    "explanation_en": "Leap years: 1988, 92, 96, 2000, 04, 08, 12, 16, 20. Total 9 birthdays."
+  },
+  {
+    "id": 45,
+    "question": "A என்பவர் B என்பவரின் சகோதரன் ஆனால் B என்பவர் A என்பவரின் சகோதரன் அல்ல எனில், A மற்றும் B உறவுமுறை:",
+    "options": [
+      "A- சகோதரன், B-சகோதரன்",
+      "A- சகோதரி, B-சகோதரன்",
+      "A- சகோதரி, B-சகோதரி",
+      "A-சகோதரன், B-சகோதரி"
+    ],
+    "correct": 3,
+    "explanation": "B சகோதரன் இல்லை என்றால், அவர் பெண்ணாக (சகோதரி) இருக்க வேண்டும்.",
+    "question_en": "A is the brother of B, but B is not the brother of A. The relationship between A and B is:",
+    "options_en": [
+      "A-Brother, B-Brother",
+      "A-Sister, B-Brother",
+      "A-Sister, B-Sister",
+      "A-Brother, B-Sister"
+    ],
+    "explanation_en": "If B is not a brother, B must be female (sister)."
+  },
+  {
+    "id": 46,
+    "question": "1 முதல் 100 வரையிலுள்ள எண்களில் 9 மற்றும் 6 ஆல் வகுபடும் எண்களின் எண்ணிக்கை:",
+    "options": [
+      "10",
+      "5",
+      "11",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "9 மற்றும் 6-ன் மீ.சி.ம 18. 100-க்குள் 18-ன் மடங்குகள்: 18, 36, 54, 72, 90. மொத்தம் 5 எண்கள்.",
+    "question_en": "The number of integers from 1 to 100 that are divisible by both 9 and 6 is:",
+    "options_en": [
+      "10",
+      "5",
+      "11",
+      "6"
+    ],
+    "explanation_en": "LCM of 9 and 6 is 18. Multiples of 18 up to 100 are: 18, 36, 54, 72, 90. Total 5 numbers."
+  },
+  {
+    "id": 47,
+    "question": "கொடுக்கப்பட்ட எண்களில் பகு எண் எது ?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "1 பகுஎண்ணும் அல்ல பகாஎண்ணும் அல்ல. 2, 3 பகா எண்கள். 4 என்பது முதல் பகு எண்ணாகும்.",
+    "question_en": "Which of the given numbers is a composite number?",
+    "options_en": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "explanation_en": "1 is neither prime nor composite. 2 and 3 are prime. 4 is the first composite number."
+  },
+  {
+    "id": 48,
+    "question": "1.732, 4, $\\frac{17}{4}$, $\\frac{22}{7}$, $\\frac{16}{5}$ ஆகிய எண்களை ஏறுவரிசையில் எழுதினால் நடுவில் வரும் எண்:",
+    "options": [
+      "$\\frac{17}{4}$",
+      "$\\frac{22}{7}$",
+      "4",
+      "$\\frac{16}{5}$"
+    ],
+    "correct": 3,
+    "explanation": "மதிப்புகள்: 1.732, 4, 4.25, 3.14, 3.20. ஏறுவரிசை: 1.732, 3.14, 3.20, 4, 4.25. நடுவில் 3.20 (அதாவது 16/5).",
+    "question_en": "If the numbers 1.732, 4, $\\frac{17}{4}$, $\\frac{22}{7}$, $\\frac{16}{5}$ are arranged in ascending order, the middle number is:",
+    "options_en": [
+      "$\\frac{17}{4}$",
+      "$\\frac{22}{7}$",
+      "4",
+      "$\\frac{16}{5}$"
+    ],
+    "explanation_en": "Values: 1.732, 4, 4.25, 3.14, 3.20. Ascending order: 1.732, 3.14, 3.20, 4, 4.25. Middle is 3.20 (which is 16/5)."
+  },
+  {
+    "id": 49,
+    "question": "If $4\\times8=16$; $3\\times6=9$; $5\\times6=15$, then $2\\times3=$",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "1"
+    ],
+    "correct": 1,
+    "explanation": "பெருக்குத்தொகையை 2-ஆல் வகுக்க வேண்டும். $2\\times3=6$, $6/2 = 3$.",
+    "question_en": "If $4\\times8=16$; $3\\times6=9$; $5\\times6=15$, then $2\\times3=$",
+    "options_en": [
+      "2",
+      "3",
+      "6",
+      "1"
+    ],
+    "explanation_en": "The product is divided by 2. $2\\times3=6$, $6/2 = 3$."
+  },
+  {
+    "id": 50,
+    "question": "$12\\div4=8$; $9\\div4=5$; $7\\div5=2$. '÷' குறியீட்டின் அர்த்தம்:",
+    "options": [
+      "கழித்தல்",
+      "கூட்டல்",
+      "பெருக்கல்",
+      "வகுத்தல்"
+    ],
+    "correct": 0,
+    "explanation": "$12-4=8, 9-4=5$. எனவே இங்கு ÷ என்பது கழித்தலைக் குறிக்கிறது.",
+    "question_en": "$12\\div4=8$; $9\\div4=5$; $7\\div5=2$. The meaning of '÷' is:",
+    "options_en": [
+      "Subtraction",
+      "Addition",
+      "Multiplication",
+      "Division"
+    ],
+    "explanation_en": "$12-4=8, 9-4=5$. So here, ÷ stands for subtraction."
+  },
+  {
+    "id": 51,
+    "question": "கொடுக்கப்பட்ட படத்தில் விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q51.png",
+    "options": [
+      "8",
+      "22",
+      "28",
+      "35"
+    ],
+    "correct": 0,
+    "explanation": "படங்களை உற்று நோக்கி சரியான தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing number in the given figure:",
+    "options_en": [
+      "8",
+      "22",
+      "28",
+      "35"
+    ],
+    "explanation_en": "Observe the figures to find the logical pattern."
+  },
+  {
+    "id": 52,
+    "question": "கொடுக்கப்பட்ட படத்தில் விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q52.png",
+    "options": [
+      "9",
+      "21",
+      "7",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "படங்களை உற்று நோக்கி சரியான தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing number in the given figure:",
+    "options_en": [
+      "9",
+      "21",
+      "7",
+      "16"
+    ],
+    "explanation_en": "Observe the figures to find the logical pattern."
+  },
+  {
+    "id": 53,
+    "question": "கொடுக்கப்பட்ட படத்தில் விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q53.png",
+    "options": [
+      "10",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "படங்களை உற்று நோக்கி சரியான தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing number in the given figure:",
+    "options_en": [
+      "10",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation_en": "Observe the figures to find the logical pattern."
+  },
+  {
+    "id": 54,
+    "question": "கொடுக்கப்பட்ட படத்தில் விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q54.png",
+    "options": [
+      "5",
+      "6",
+      "2",
+      "1"
+    ],
+    "correct": 0,
+    "explanation": "படங்களை உற்று நோக்கி சரியான தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing number in the given figure:",
+    "options_en": [
+      "5",
+      "6",
+      "2",
+      "1"
+    ],
+    "explanation_en": "Observe the figures to find the logical pattern."
+  },
+  {
+    "id": 55,
+    "question": "கொடுக்கப்பட்ட படத்தில் விடுபட்ட எண்ணைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q55.png",
+    "options": [
+      "7Y",
+      "6Y",
+      "6W",
+      "7W"
+    ],
+    "correct": 0,
+    "explanation": "படங்களை உற்று நோக்கி சரியான தர்க்க அமைப்பைக் கண்டறியவும்.",
+    "question_en": "Find the missing term in the given figure:",
+    "options_en": [
+      "7Y",
+      "6Y",
+      "6W",
+      "7W"
+    ],
+    "explanation_en": "Observe the figures to find the logical pattern."
+  },
+  {
+    "id": 56,
+    "question": "தொகுப்பு: ஒற்றைப்படை எண்கள், இரட்டைப்படை எண்கள், எண்கள்",
+    "image": "image/mat_q56.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "எண்கள் என்ற பெரிய வட்டத்திற்குள் ஒற்றை மற்றும் இரட்டை எண்கள் தனித்தனி வட்டங்களாக அமையும்.",
+    "question_en": "Group: Odd numbers, Even numbers, Numbers",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Inside the larger circle of Numbers, Odd and Even numbers will form separate distinct circles."
+  },
+  {
+    "id": 57,
+    "question": "தொகுப்பு: நாற்கரங்கள், முக்கோணங்கள், கோடுகள்",
+    "image": "image/mat_q57.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "நாற்கரங்களும் முக்கோணங்களும் கோடுகளால் ஆனவை, ஆனால் இரண்டும் வெவ்வேறானவை.",
+    "question_en": "Group: Quadrilaterals, Triangles, Lines",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Quadrilaterals and Triangles are made of Lines, but they are entirely different from each other."
+  },
+  {
+    "id": 58,
+    "question": "தொகுப்பு: உணவு, காய்கறிகள், கேரட்",
+    "image": "image/mat_q58.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "உணவுக்குள் காய்கறிகள், காய்கறிக்குள் கேரட்.",
+    "question_en": "Group: Food, Vegetables, Carrot",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Carrots are inside Vegetables, and Vegetables are inside Food."
+  },
+  {
+    "id": 59,
+    "question": "கலைஞர் மற்றும் பாடகர்களாக இருக்கும் மின்னியல் வல்லுநர்கள்:",
+    "image": "image/mat_q59.png",
+    "options": [
+      "2",
+      "5",
+      "7",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "மூன்று வட்டங்களும் சந்திக்கும் மையப்பகுதி 7.",
+    "question_en": "Electricians who are also artists and singers:",
+    "options_en": [
+      "2",
+      "5",
+      "7",
+      "4"
+    ],
+    "explanation_en": "The central part where all three circles intersect is 7."
+  },
+  {
+    "id": 60,
+    "question": "கலைஞர்களை மட்டும் குறிப்பிடும் பகுதி:",
+    "image": "image/mat_q60.png",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "கலைஞர்கள் வட்டத்தின் தனித்த பகுதி 3.",
+    "question_en": "The region representing only artists:",
+    "options_en": [
+      "2",
+      "3",
+      "7",
+      "5"
+    ],
+    "explanation_en": "The distinct part belonging only to the artists circle is 3."
+  },
+  {
+    "id": 61,
+    "question": "மின்னியல் வல்லுநர் மற்றும் கலைஞர்கள் அல்லாத பாடகர்கள்:",
+    "image": "image/mat_q61.png",
+    "options": [
+      "7",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 3,
+    "explanation": "பாடகர்கள் வட்டத்தின் தனித்த பகுதி 6.",
+    "question_en": "Singers who are neither electricians nor artists:",
+    "options_en": [
+      "7",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation_en": "The distinct part belonging only to the singers circle is 6."
+  },
+  {
+    "id": 62,
+    "question": "பாடகர்கள் அல்லாத கலைஞர்கள் மற்றும் மின்னியல் வல்லுநர்கள்:",
+    "image": "image/mat_q62.png",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "correct": 0,
+    "explanation": "மின்னியல் மற்றும் கலைஞர் வட்டங்கள் மட்டும் சந்திக்கும் பகுதி 2.",
+    "question_en": "Electricians and artists who are not singers:",
+    "options_en": [
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "explanation_en": "The intersection of only electricians and artists circles is 2."
+  },
+  {
+    "id": 63,
+    "question": "7-வது இடம் குறிப்பிடுவது:",
+    "image": "image/mat_q63.png",
+    "options": [
+      "அனைத்து மூன்று பிரிவினரும்",
+      "மின்னியல் வல்லுநர்கள் மற்றும் கலைஞர்கள்",
+      "பாடகர்கள் மற்றும் கலைஞர்கள்",
+      "மின்னியல் வல்லுநர்கள் மற்றும் பாடகர்கள்"
+    ],
+    "correct": 0,
+    "explanation": "7 என்ற பகுதி மூன்று வட்டங்களும் வெட்டிக்கொள்ளும் பொதுவான இடமாகும்.",
+    "question_en": "Region 7 represents:",
+    "options_en": [
+      "All three categories",
+      "Electricians and artists",
+      "Singers and artists",
+      "Electricians and singers"
+    ],
+    "explanation_en": "Region 7 is the common intersection of all three circles."
+  },
+  {
+    "id": 64,
+    "question": "A, B, C, D, E ஆகிய ஐவரின் நிற்கும் வரிசை:",
+    "options": [
+      "DABEC",
+      "ABCDE",
+      "BACDE",
+      "CDEBA"
+    ],
+    "correct": 0,
+    "explanation": "நிபந்தனைகளின்படி: E-க்கு வலப்புறம் C, A-க்கு இடப்புறம் D, A மற்றும் E-க்கு நடுவில் B. எனவே வரிசை: D A B E C.",
+    "question_en": "The standing order of the five persons A, B, C, D, E:",
+    "options_en": [
+      "DABEC",
+      "ABCDE",
+      "BACDE",
+      "CDEBA"
+    ],
+    "explanation_en": "As per conditions: C is right of E, D is left of A, B is between A and E. So the order is: D A B E C."
+  },
+  {
+    "id": 65,
+    "question": "D-க்கு இடப்புறம் உள்ளவர் யார்?",
+    "options": [
+      "A",
+      "எவருமில்லை",
+      "B",
+      "E"
+    ],
+    "correct": 1,
+    "explanation": "வரிசை D-யில் தொடங்குவதால் இடப்புறம் யாருமில்லை.",
+    "question_en": "Who is to the left of D?",
+    "options_en": [
+      "A",
+      "No one",
+      "B",
+      "E"
+    ],
+    "explanation_en": "Since the line starts with D, there is no one to the left."
+  },
+  {
+    "id": 66,
+    "question": "D-க்கு வலப்புறம் உள்ளவர் யார்?",
+    "options": [
+      "B",
+      "C",
+      "E",
+      "A"
+    ],
+    "correct": 3,
+    "explanation": "D A B E C என்ற வரிசையில் D-க்கு வலப்புறம் A உள்ளார்.",
+    "question_en": "Who is to the right of D?",
+    "options_en": [
+      "B",
+      "C",
+      "E",
+      "A"
+    ],
+    "explanation_en": "In the order D A B E C, A is to the right of D."
+  },
+  {
+    "id": 67,
+    "question": "C-க்கு இடப்புறம் உள்ளவர் யார்?",
+    "options": [
+      "A",
+      "B",
+      "E",
+      "D"
+    ],
+    "correct": 2,
+    "explanation": "C-க்கு இடப்புறம் E உள்ளார்.",
+    "question_en": "Who is to the left of C?",
+    "options_en": [
+      "A",
+      "B",
+      "E",
+      "D"
+    ],
+    "explanation_en": "E is to the left of C."
+  },
+  {
+    "id": 68,
+    "question": "நடுவில் நின்று கொண்டிருப்பவர் யார்?",
+    "options": [
+      "B",
+      "A",
+      "E",
+      "D"
+    ],
+    "correct": 0,
+    "explanation": "ஐவரில் நடுவில் (மூன்றாவதாக) இருப்பவர் B.",
+    "question_en": "Who is standing in the middle?",
+    "options_en": [
+      "B",
+      "A",
+      "E",
+      "D"
+    ],
+    "explanation_en": "B is standing in the middle (third person)."
+  },
+  {
+    "id": 69,
+    "question": "கொடுக்கப்பட்ட படத்தில் உள்ள முக்கோணங்களின் எண்ணிக்கை:",
+    "image": "image/mat_q69.png",
+    "options": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு செவ்வகத்தில் இரண்டு மூலைவிட்டங்கள் வெட்டிக்கொண்டால் 8 முக்கோணங்கள் உருவாகும்.",
+    "question_en": "Number of triangles in the given figure:",
+    "options_en": [
+      "8",
+      "4",
+      "6",
+      "2"
+    ],
+    "explanation_en": "When two diagonals intersect in a rectangle, 8 triangles are formed."
+  },
+  {
+    "id": 70,
+    "question": "கொடுக்கப்பட்ட படத்தில் உள்ள சதுரங்களின் எண்ணிக்கை:",
+    "image": "image/mat_q70.png",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு பெரிய சதுரம் மற்றும் அதனுள் 4 சிறிய சதுரங்கள். மொத்தம் 5.",
+    "question_en": "Number of squares in the given figure:",
+    "options_en": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "explanation_en": "One large square and 4 small squares inside it. Total 5."
+  },
+  {
+    "id": 71,
+    "question": "3 - குறியிடப்பட்டுள்ள பக்கத்திற்கு எதிர் பக்கத்தில் உள்ள எண்ணைக் கண்டறியவும்:",
+    "image": "image/mat_q71.png",
+    "options": [
+      "4",
+      "1",
+      "5",
+      "6"
+    ],
+    "correct": 1,
+    "explanation": "பகடைகளின் அமைப்பைக் கொண்டு பார்க்கும்போது 3-க்கு எதிரே 1 வரும்.",
+    "question_en": "Find the number on the face opposite to the face marked 3:",
+    "options_en": [
+      "4",
+      "1",
+      "5",
+      "6"
+    ],
+    "explanation_en": "By observing the dice positions, 1 comes opposite to 3."
+  },
+  {
+    "id": 72,
+    "question": "4S என்பதன் கண்ணாடி பிம்பம்:",
+    "image": "image/mat_q72.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கண்ணாடியில் எழுத்துக்கள் இடவலமாக மாறும்.",
+    "question_en": "Mirror image of 4S:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Letters are laterally inverted in a mirror."
+  },
+  {
+    "id": 73,
+    "question": "படத்தில் உள்ள உருவத்தின் கண்ணாடி பிம்பம்:",
+    "image": "image/mat_q73.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "கண்ணாடியில் வலது இடதாகத் தெரியும்.",
+    "question_en": "Mirror image of the figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Right appears left in a mirror."
+  },
+  {
+    "id": 74,
+    "question": "2L என்பதன் நீரியல் பிம்பம்:",
+    "image": "image/mat_q74.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "நீரில் பிம்பம் தலைகீழாக (Top-Bottom inverted) மாறும்.",
+    "question_en": "Water image of 2L:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The image gets inverted (Top-Bottom) in water."
+  },
+  {
+    "id": 75,
+    "question": "பின்வரும் படத்தின் நீரியல் பிம்பம்:",
+    "image": "image/mat_q75.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "வடிவங்கள் தலைகீழாக மாறும்.",
+    "question_en": "Water image of the following figure:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The shapes will be inverted upside down."
+  },
+  {
+    "id": 76,
+    "question": "கொடுக்கப்பட்ட நான்கு படங்களில் வேறுபட்ட படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q76.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "மற்ற மூன்றும் சமபக்க/இருசமபக்க முக்கோணங்கள், ஒன்று மட்டும் செங்கோண முக்கோணம்.",
+    "question_en": "Select the odd figure from the given four figures:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The other three are equilateral/isosceles triangles, while one is a right-angled triangle."
+  },
+  {
+    "id": 77,
+    "question": "வேறுபட்ட படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q77.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "வடிவங்களின் அமைப்பைக் கொண்டு மாறுபட்டதைக் கண்டறியவும்.",
+    "question_en": "Select the odd figure out:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Find the odd one out based on the arrangement of the shapes."
+  },
+  {
+    "id": 78,
+    "question": "வேறுபட்ட படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q78.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "கோடுகளின் எண்ணிக்கை அல்லது அமைப்பில் உள்ள வேறுபாடு.",
+    "question_en": "Select the odd figure out:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Difference in the number or arrangement of lines."
+  },
+  {
+    "id": 79,
+    "question": "வேறுபட்ட படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q79.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "உள்ளே இருக்கும் வடிவங்களின் திசை அல்லது நிழலைக் கவனிக்கவும்.",
+    "question_en": "Select the odd figure out:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Observe the direction or shading of the inner shapes."
+  },
+  {
+    "id": 80,
+    "question": "வேறுபட்ட படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q80.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "கோடுகளால் ஆன அமைப்பில் உள்ள மாறுபாடு.",
+    "question_en": "Select the odd figure out:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Variation in the pattern formed by lines."
+  },
+  {
+    "id": 81,
+    "question": "கீழே உள்ள மூன்று படங்களுக்கு அடுத்து வரவேண்டிய படத்தைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q81.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "கடிகார முள் சுழலும் திசையில் (Clockwise) சுழல்கிறது.",
+    "question_en": "Find the figure that should come next to the three figures below:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "It rotates in the clockwise direction."
+  },
+  {
+    "id": 82,
+    "question": "அடுத்து வரவேண்டிய படத்தைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q82.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "வடிவங்கள் ஒவ்வொன்றாக வளர்ந்து வருகின்றன.",
+    "question_en": "Find the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The shapes are growing one by one."
+  },
+  {
+    "id": 83,
+    "question": "அடுத்து வரவேண்டிய படத்தைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q83.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "உள்ளே உள்ள புள்ளிகள் மற்றும் கோடுகளின் சுழற்சியைக் கவனிக்கவும்.",
+    "question_en": "Find the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Observe the rotation of the dots and lines inside."
+  },
+  {
+    "id": 84,
+    "question": "அடுத்து வரவேண்டிய படத்தைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q84.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "கோடுகளின் எண்ணிக்கை படிப்படியாக அதிகரிக்கிறது.",
+    "question_en": "Find the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The number of lines gradually increases."
+  },
+  {
+    "id": 85,
+    "question": "அடுத்து வரவேண்டிய படத்தைக் கண்டுபிடிக்கவும்:",
+    "image": "image/mat_q85.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "X வடிவங்களின் எண்ணிக்கை முறைப்படி மாறுகிறது.",
+    "question_en": "Find the figure that should come next:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The number of X shapes changes in a specific order."
+  },
+  {
+    "id": 86,
+    "question": "A மற்றும் B படங்கள் ஒரு தொடர்பில் உள்ளன. அதே தொடர்பில் C-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q86.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "உள்ளே உள்ள வடிவம் வெளியே வருகிறது, வெளியே உள்ளது உள்ளே செல்கிறது.",
+    "question_en": "Figures A and B are related. Select figure D which has a similar relationship with C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The inner shape comes out, and the outer shape goes inside."
+  },
+  {
+    "id": 87,
+    "question": "C-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q87.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "வடிவங்கள் சரிபாதியாகப் பிரிக்கப்பட்டு இடம் மாறுகின்றன.",
+    "question_en": "Select figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The shapes are halved and swap positions."
+  },
+  {
+    "id": 88,
+    "question": "C-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q88.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "கோடுகளின் திசை $90^{\\circ}$ சுழல்கிறது.",
+    "question_en": "Select figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The direction of the lines rotates by $90^{\\circ}$."
+  },
+  {
+    "id": 89,
+    "question": "C-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q89.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 2,
+    "explanation": "இது நீர் பிம்பம் அல்லது கண்ணாடி பிம்பத்தின் அடிப்படையிலானது.",
+    "question_en": "Select figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "It is based on the water image or mirror image."
+  },
+  {
+    "id": 90,
+    "question": "C-க்கு இணையான D படத்தைத் தேர்ந்தெடுக்கவும்:",
+    "image": "image/mat_q90.png",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "உருவங்கள் எதிரெதிர் திசையில் சுழற்றப்பட்டுள்ளன.",
+    "question_en": "Select figure D equivalent to C:",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "The figures are rotated in opposite directions."
+  }
+]

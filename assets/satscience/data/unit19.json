@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "கடிதங்கள் மற்றும் அறிக்கைகள் உருவாக்கப் பயன்படும் செயலி ________.",
+    "options": [
+      "உரை ஆவணம்",
+      "அட்டவணைச் செயலி",
+      "நிகழ்த்துதல்",
+      "படங்கள் வரைதல்"
+    ],
+    "correct": 0,
+    "explanation": "கடிதங்கள் மற்றும் அறிக்கைகள் உருவாக்கப் பயன்படும் செயலி உரை ஆவணம்.",
+    "question_en": "A program used to create letters and reports is ________.",
+    "options_en": [
+      "text document",
+      "Schedule app",
+      "Performing",
+      "Drawing pictures"
+    ],
+    "explanation_en": "A program used to create letters and reports is text document."
+  },
+  {
+    "id": 2,
+    "question": "வரைபடங்கள் உருவாக்கப் பயன்படும் செயலி ________.",
+    "options": [
+      "உரை ஆவணம்",
+      "அட்டவணைச் செயலி",
+      "நிகழ்த்துதல்",
+      "படங்கள் வரைதல்"
+    ],
+    "correct": 1,
+    "explanation": "வரைபடங்கள் உருவாக்கப் பயன்படும் செயலி அட்டவணைச் செயலி.",
+    "question_en": "A program used to create graphs is ________.",
+    "options_en": [
+      "text document",
+      "Schedule app",
+      "Performing",
+      "Drawing pictures"
+    ],
+    "explanation_en": "A program used to create graphs is Schedule app."
+  },
+  {
+    "id": 3,
+    "question": "அசைவூட்டங்கள் உருவாக்கப் பயன்படும் செயலி ________.",
+    "options": [
+      "உரை ஆவணம்",
+      "அட்டவணைச் செயலி",
+      "நிகழ்த்துதல்",
+      "படங்கள் வரைதல்"
+    ],
+    "correct": 2,
+    "explanation": "அசைவூட்டங்கள் உருவாக்கப் பயன்படும் செயலி நிகழ்த்துதல்.",
+    "question_en": "A program used to create animations is ________.",
+    "options_en": [
+      "text document",
+      "Schedule app",
+      "Performing",
+      "Drawing pictures"
+    ],
+    "explanation_en": "A program used to create animations is Performing."
+  },
+  {
+    "id": 4,
+    "question": "படிவங்கள் அறிக்கைகள் மற்றும் வினவல்கள் உருவாக்கவும் திருத்தவும் பயன்படும் செயலி ________.",
+    "options": [
+      "உரை ஆவணம்",
+      "அட்டவணைச் செயலி",
+      "நிகழ்த்துதல்",
+      "தரவுத் தளம்"
+    ],
+    "correct": 3,
+    "explanation": "படிவங்கள் அறிக்கைகள் மற்றும் வினவல்கள் உருவாக்கவும் திருத்தவும் பயன்படும் செயலி தரவுத் தளம்.",
+    "question_en": "Forms A program used to create and edit reports and queries is ________.",
+    "options_en": [
+      "text document",
+      "Schedule app",
+      "Performing",
+      "Data base"
+    ],
+    "explanation_en": "Forms A program used to create and edit reports and queries is Data base."
+  },
+  {
+    "id": 5,
+    "question": "சமன்பாடுகள் உருவாக்கப் பயன்படும் செயலி ________.",
+    "options": [
+      "உரை ஆவணம்",
+      "அட்டவணைச் செயலி",
+      "நிகழ்த்துதல்",
+      "லிப்ரே ஆபீஸ் ஃபார்முலா"
+    ],
+    "correct": 3,
+    "explanation": "சமன்பாடுகள் உருவாக்கப் பயன்படும் செயலி லிப்ரே ஆபீஸ் ஃபார்முலா.",
+    "question_en": "A function used to create equations is ________.",
+    "options_en": [
+      "text document",
+      "Schedule app",
+      "Performing",
+      "LibreOffice Formula"
+    ],
+    "explanation_en": "A function used to create equations is LibreOffice Formula."
+  },
+  {
+    "id": 6,
+    "question": "ஒரு ஆவணத்தைத் திறக்க ________ விசைப்பலகைக் குறுக்கு வழி பயன்படுகிறது.",
+    "options": [
+      "Ctrl + O",
+      "Ctrl + N",
+      "Shift + O",
+      "Ctrl + P"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு ஆவணத்தைத் திறக்க Ctrl + O விசைப்பலகைக் குறுக்கு வழி பயன்படுகிறது.",
+    "question_en": "________ keyboard shortcut is used to open a document.",
+    "options_en": [
+      "Ctrl+O",
+      "Ctrl + N",
+      "Shift + O",
+      "Ctrl + P"
+    ],
+    "explanation_en": "Ctrl+O keyboard shortcut is used to open a document."
+  },
+  {
+    "id": 7,
+    "question": "ஒரு ஆவணத்தை மூட ________ பயன்படுகிறது.",
+    "options": [
+      "Edit → Paste",
+      "File → Save",
+      "File → Close",
+      "View → Task"
+    ],
+    "correct": 2,
+    "explanation": "ஒரு ஆவணத்தை மூட File → Close பயன்படுகிறது.",
+    "question_en": "________ is used to close a document.",
+    "options_en": [
+      "Edit → Paste",
+      "File → Save",
+      "File → Close",
+      "View → Task"
+    ],
+    "explanation_en": "File → Close is used to close a document."
+  },
+  {
+    "id": 8,
+    "question": "புதிய ஆவணத்தை உருவாக்க ________ விசைப்பலகைக் குறுக்கு வழி பயன்படுகிறது.",
+    "options": [
+      "Ctrl + A",
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + N"
+    ],
+    "correct": 3,
+    "explanation": "புதிய ஆவணத்தை உருவாக்க Ctrl + N விசைப்பலகைக் குறுக்கு வழி பயன்படுகிறது.",
+    "question_en": "The ________ keyboard shortcut is used to create a new document.",
+    "options_en": [
+      "Ctrl + A",
+      "Ctrl+C",
+      "Ctrl + V",
+      "Ctrl + N"
+    ],
+    "explanation_en": "The Ctrl + N keyboard shortcut is used to create a new document."
+  },
+  {
+    "id": 9,
+    "question": "தேர்ந்தெடுத்த உரையை வெட்ட ________ விசைப்பலகைக் குறுக்கு வழி பயன்படுகிறது.",
+    "options": [
+      "Ctrl + A",
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + X"
+    ],
+    "correct": 3,
+    "explanation": "தேர்ந்தெடுத்த உரையை வெட்ட Ctrl + X விசைப்பலகைக் குறுக்கு வழி பயன்படுகிறது.",
+    "question_en": "________ keyboard shortcut is used to cut selected text.",
+    "options_en": [
+      "Ctrl + A",
+      "Ctrl+C",
+      "Ctrl + V",
+      "Ctrl + X"
+    ],
+    "explanation_en": "Ctrl + X keyboard shortcut is used to cut selected text."
+  },
+  {
+    "id": 10,
+    "question": "லிப்ரே ஆபீஸ் ரைட்டரில் எத்தனை வகையான பக்க அமைவுகள் உள்ளன?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "2",
+    "question_en": "How many types of page layouts are there in LibreOffice Writer?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation_en": "2 types of page layouts are there in LibreOffice Writer."
+  },
+  {
+    "id": 11,
+    "question": "திரையில் ரூலர் தெரியாவிட்டால் ________ ஐக் கிளிக் செய்ய வேண்டும்.",
+    "options": [
+      "View → Ruler",
+      "View → Task",
+      "File → Save",
+      "Edit → Paste"
+    ],
+    "correct": 0,
+    "explanation": "திரையில் ரூலர் தெரியாவிட்டால் View → Ruler ஐக் கிளிக் செய்ய வேண்டும்.",
+    "question_en": "If you don't see the ruler on the screen, click ________.",
+    "options_en": [
+      "View → Ruler",
+      "View → Task",
+      "File → Save",
+      "Edit → Paste"
+    ],
+    "explanation_en": "If you don't see the ruler on the screen, click View → Ruler."
+  },
+  {
+    "id": 12,
+    "question": "ஆவணத்தைச் சேமிக்க ________ மெனு பயன்படுகிறது.",
+    "options": [
+      "File → Open",
+      "File → Print",
+      "File → Save",
+      "File → Close"
+    ],
+    "correct": 2,
+    "explanation": "ஆவணத்தைச் சேமிக்க File → Save மெனு பயன்படுகிறது.",
+    "question_en": "The ________ menu is used to save a document.",
+    "options_en": [
+      "File → Open",
+      "File → Print",
+      "File → Save",
+      "File → Close"
+    ],
+    "explanation_en": "The File → Save menu is used to save a document."
+  },
+  {
+    "id": 13,
+    "question": "கூற்று (i): நகர்த்துதல் என்பது தேர்ந்தெடுக்கப்பட்ட தரவை அதன் இடத்திலிருந்து நீக்கும்.\nகூற்று (ii): நகலெடுத்தல் என்பது தேர்ந்தெடுக்கப்பட்ட தரவின் அசலின் பிரதியை உருவாக்கும்.",
+    "options": [
+      "கூற்று (i) சரி கூற்று (ii) தவறு",
+      "கூற்று (i) மற்றும் கூற்று (ii) சரி",
+      "கூற்று (i) தவறு கூற்று (ii) சரி",
+      "கூற்று (i) மற்றும் கூற்று (ii) தவறு"
+    ],
+    "correct": 1,
+    "explanation": "கூற்று (i) மற்றும் கூற்று (ii) சரி",
+    "question_en": "Statement (i): Move removes the selected data from its location.\nAssertion (ii): Replication creates a copy of the original of the selected data.",
+    "options_en": [
+      "Statement (i) is true Statement (ii) is false",
+      "Statement (i) and statement (ii) are correct",
+      "Statement (i) is false Statement (ii) is correct",
+      "Statement (i) and statement (ii) are false"
+    ],
+    "explanation_en": "Statement (i) and statement (ii) are correct"
+  },
+  {
+    "id": 14,
+    "question": "கூற்று (i): எழுத்தினுடைய அளவு மிகவும் முக்கியமானது.\nகூற்று (ii): சட்ட ஆவணத்திற்கும், விளம்பர ஆவணத்திற்கும் ஒரே அளவிலான எழுத்துரு அளவைப் பயன்படுத்தலாம்.",
+    "options": [
+      "கூற்று (i) சரி கூற்று (ii) தவறு",
+      "கூற்று (i) மற்றும் கூற்று (ii) சரி",
+      "கூற்று (i) தவறு கூற்று (ii) சரி",
+      "கூற்று (i) மற்றும் கூற்று (ii) தவறு"
+    ],
+    "correct": 0,
+    "explanation": "கூற்று (i) சரி கூற்று (ii) தவறு",
+    "question_en": "Assertion (i): Font size is very important.\nAssertion (ii): Same font size can be used for legal document and advertising document.",
+    "options_en": [
+      "Statement (i) is true Statement (ii) is false",
+      "Statement (i) and statement (ii) are correct",
+      "Statement (i) is false Statement (ii) is correct",
+      "Statement (i) and statement (ii) are false"
+    ],
+    "explanation_en": "Statement (i) is true Statement (ii) is false"
+  },
+  {
+    "id": 15,
+    "question": "பொருத்துக:\na. ஆவணத்தை மூடுதல் - I. Ctrl + U\nb. அச்சு முன்னோட்டம் - II. Ctrl + B\nc. ஆவணத்தை அச்சிடுதல் - III. File + Close\nd. உரையை அடிக்கோடிடல் - IV. Ctrl + P\ne. உரையை தடிப்பாக்குதல் - V. Ctrl + Shift + O",
+    "options": [
+      "a - I, b - III, c - V, d - IV, e - II",
+      "a - III, b - V, c - IV, d - I, e - II",
+      "a - I, b - IV, c - V, d - II, e - III",
+      "a - II, b - V, c - IV, d - I, e - III"
+    ],
+    "correct": 1,
+    "explanation": "a - III, b - V, c - IV, d - I, e - II",
+    "question_en": "Match:\na. Closing the document - I. Ctrl + U\nb. Print preview - II. Ctrl+B\nc. Printing of Document - III. File + Close\nd. Underlining the Text – IV. Ctrl + P\ne. Make text bold - V. Ctrl + Shift + O",
+    "options_en": [
+      "a - I, b - III, c - V, d - IV, e - II",
+      "a - III, b - V, c - IV, d - I, e - II",
+      "a - I, b - IV, c - V, d - II, e - III",
+      "a - II, b - V, c - IV, d - I, e - III"
+    ],
+    "explanation_en": "a - III, b - V, c - IV, d - I, e - II"
+  },
+  {
+    "id": 16,
+    "question": "பின்வரும் வழிமுறைகளில் ஆவணத்தைத் திறக்க சரியான வழிமுறை எது?",
+    "options": [
+      "Menu → File → Open",
+      "Ctrl + O",
+      "Menu → File → Save",
+      "(1) மற்றும் (2)"
+    ],
+    "correct": 3,
+    "explanation": "பின்வரும் வழிமுறைகளில் ஆவணத்தைத் திறக்க சரியான வழிமுறை (1) மற்றும் (2) ஆகும்.",
+    "question_en": "Which of the following methods is the correct method to open a document?",
+    "options_en": [
+      "Menu → File → Open",
+      "Ctrl+O",
+      "Menu → File → Save",
+      "(1) and (2)"
+    ],
+    "explanation_en": "(1) and (2)"
+  },
+  {
+    "id": 17,
+    "question": "பின்வரும் வழிமுறைகளில் உரை ஆவணத்திலிருந்து வெளியேற சரியான வழிமுறை எது?",
+    "options": [
+      "Menu → File → Exit LibreOffice",
+      "Menu → File → Text",
+      "Menu → File → Open",
+      "மேற்கண்ட அனைத்தும்"
+    ],
+    "correct": 0,
+    "explanation": "பின்வரும் வழிமுறைகளில் உரை ஆவணத்திலிருந்து வெளியேற சரியான வழிமுறை Menu → File → Exit LibreOffice ஆகும்.",
+    "question_en": "Which of the following is the correct way to exit a text document?",
+    "options_en": [
+      "Menu → File → Exit LibreOffice",
+      "Menu → File → Text",
+      "Menu → File → Open",
+      "All of the above"
+    ],
+    "explanation_en": "Menu → File → Exit LibreOffice is the correct way to exit a text document."
+  },
+  {
+    "id": 18,
+    "question": "விசைப்பலகையின் மூலம் உரையைத் தேர்ந்தெடுத்தலில் தவறான செயல்பாடு எது?",
+    "options": [
+      "செருகும் இடத்தை தேர்ந்தெடுக்கப்பட வேண்டிய உரையின் தொடக்கத்தில் வைக்க வேண்டும்.",
+      "Shift பொத்தானை அழுத்தியவாறு நகர்வு பொத்தான்களைப் பயன்படுத்தி, தேவையான உரையை உயர்த்திக் (Highlight) காட்ட வேண்டும்.",
+      "தேவையான உரை தேர்ந்தெடுக்கப்பட்டபின் Shift பொத்தானை அழுத்துவதை விட்டு விட வேண்டும்.",
+      "தேவையான உரை தேர்ந்தெடுக்கப்பட்டபின் Shift பொத்தானை அழுத்த வேண்டும்."
+    ],
+    "correct": 3,
+    "explanation": "விசைப்பலகையின் மூலம் உரையைத் தேர்ந்தெடுத்தலில் தவறான செயல்பாடு தேவையான உரை தேர்ந்தெடுக்கப்பட்டபின் Shift பொத்தானை அழுத்த வேண்டும். ஆகும்.",
+    "question_en": "Which of the following is an incorrect function of selecting text using the keyboard?",
+    "options_en": [
+      "The insertion point must be placed at the beginning of the text to be selected.",
+      "Highlight the required text by using the movement buttons while pressing the Shift key.",
+      "Once the desired text is selected, release the Shift key.",
+      "After selecting the desired text press the Shift key."
+    ],
+    "explanation_en": "After selecting the desired text press the Shift key. is an incorrect function of selecting text using the keyboard."
+  },
+  {
+    "id": 19,
+    "question": "ஒரு ஆவணத்தை புதிய ஆவணமாக சேமிக்க ________ என்ற கட்டளையை பயன்படுத்த வேண்டும்.",
+    "options": [
+      "Save as",
+      "Save",
+      "Redo",
+      "Undo"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு ஆவணத்தை புதிய ஆவணமாக சேமிக்க Save as என்ற கட்டளையை பயன்படுத்த வேண்டும்.",
+    "question_en": "To save a document as a new document use the ________ command.",
+    "options_en": [
+      "Save as",
+      "Save",
+      "Redo",
+      "Undo"
+    ],
+    "explanation_en": "To save a document as a new document use the Save as command."
+  },
+  {
+    "id": 20,
+    "question": "தவறான இணையைக் தேர்ந்தெடு.",
+    "options": [
+      "தரவுதளம் - வினவல்கள்",
+      "நிகழ்த்துதல் - மல்டி மீடியா விளக்க காட்சி",
+      "அட்டவணைச் செயலி - வரைபடங்கள்",
+      "பாய்வு படங்கள் - உரை ஆவணம்"
+    ],
+    "correct": 3,
+    "explanation": "பாய்வு படங்கள் - உரை ஆவணம்",
+    "question_en": "Choose the wrong pair.",
+    "options_en": [
+      "Database - Queries",
+      "Perform - Multi-media presentation display",
+      "Schedule App - Graphs",
+      "Flowcharts - Text document"
+    ],
+    "explanation_en": "Flowcharts - Text document"
+  }
+]

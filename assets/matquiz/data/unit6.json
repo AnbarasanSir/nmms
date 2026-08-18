@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Goat\n2) Tiger\n3) Deer\n4) Cow",
+    "options": [
+      "Goat",
+      "Tiger",
+      "Deer",
+      "Cow"
+    ],
+    "correct": 1,
+    "explanation": "Tiger - ஊன் உண்ணி (மாறுபட்டது). Goat, Deer, Cow - தாவர உண்ணிகள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Goat\n2) Tiger\n3) Deer\n4) Cow",
+    "options_en": [
+      "Goat",
+      "Tiger",
+      "Deer",
+      "Cow"
+    ],
+    "explanation_en": "Tiger - Disability Tick (varied). Goat, Deer, Cow - Herbivores."
+  },
+  {
+    "id": 2,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Moon\n2) Earth\n3) Mars\n4) Jupiter",
+    "options": [
+      "Moon",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "correct": 0,
+    "explanation": "Moon - துணைக்கோள் (மாறுபட்டது). Earth, Mars, Jupiter - கோள்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Moon\n2) Earth\n3) Mars\n4) Jupiter",
+    "options_en": [
+      "Moon",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "explanation_en": "Moon - satellite (variable). Earth, Mars, Jupiter - planets."
+  },
+  {
+    "id": 3,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Z\n2) E\n3) M\n4) B",
+    "options": [
+      "Z",
+      "E",
+      "M",
+      "B"
+    ],
+    "correct": 1,
+    "explanation": "E - ஆங்கில உயிரெழுத்து (Vowels) (மாறுபட்டது). Z, M, B என்பன ஆங்கில மெய்யெழுத்துக்கள் (Consonants).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Z\n2) E\n3) M\n4) B",
+    "options_en": [
+      "Z",
+      "E",
+      "M",
+      "B"
+    ],
+    "explanation_en": "E - English Vowels (Variable). Z, M, B are English Consonants."
+  },
+  {
+    "id": 4,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Galaxy\n2) Jupiter\n3) Earth\n4) Uranus",
+    "options": [
+      "Galaxy",
+      "Jupiter",
+      "Earth",
+      "Uranus"
+    ],
+    "correct": 0,
+    "explanation": "Galaxy - விண்மீன் திரள்களின் கூட்டமைப்பு (பால்வெளி மண்டலம்) - மாறுபட்டது. Jupiter, Earth, Uranus - கோள்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Galaxy\n2) Jupiter\n3) Earth\n4) Uranus",
+    "options_en": [
+      "Galaxy",
+      "Jupiter",
+      "Earth",
+      "Uranus"
+    ],
+    "explanation_en": "Galaxy - A constellation of galaxies (Milky Way) - Diverse. Jupiter, Earth, Uranus - planets."
+  },
+  {
+    "id": 5,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Kaveri\n2) Vaigai\n3) Krishna\n4) Thamirabarani",
+    "options": [
+      "Kaveri",
+      "Vaigai",
+      "Krishna",
+      "Thamirabarani"
+    ],
+    "correct": 2,
+    "explanation": "Krishna - ஆந்திர மாநிலத்தில் ஓடும் ஆறு (மாறுபட்டது). Kaveri, Vaigai, Thamirabarani - தமிழக ஆறுகள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Kaveri\n2) Vaigai\n3) Krishna\n4) Thamirabarani",
+    "options_en": [
+      "Kaveri",
+      "Vaigai",
+      "Krishna",
+      "Thamirabarani"
+    ],
+    "explanation_en": "Krishna - A river in Andhra state (varied). Kaveri, Vaigai, Thamirabarani - rivers of Tamil Nadu."
+  },
+  {
+    "id": 6,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Bicycle\n2) Bus\n3) Aeroplane\n4) Ship",
+    "options": [
+      "Bicycle",
+      "Bus",
+      "Aeroplane",
+      "Ship"
+    ],
+    "correct": 0,
+    "explanation": "Bicycle - எரிபொருள் இன்றி இயங்குவது (மாறுபட்டது). Bus, Aeroplane, Ship - எரிபொருள் மூலம் இயங்குபவை.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Bicycle\n2) Bus\n3) Airplane\n4) Ship",
+    "options_en": [
+      "Bicycle",
+      "Bus",
+      "Airplane",
+      "Ship"
+    ],
+    "explanation_en": "Bicycle - Running without fuel (Variable). Bus, Airplane, Ship - which run on fuel."
+  },
+  {
+    "id": 7,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Ooty\n2) Yercaud\n3) Simla\n4) Kodaikanal",
+    "options": [
+      "Ooty",
+      "Yercaud",
+      "Simla",
+      "Kodaikanal"
+    ],
+    "correct": 2,
+    "explanation": "Simla - வட இந்தியாவில் உள்ள கோடை வாழிடம் (மாறுபட்டது). Ooty, Yercaud, Kodaikanal - தமிழக கோடை வாழிடங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Ooty\n2) Yercaud\n3) Simla\n4) Kodaikanal",
+    "options_en": [
+      "Ooty",
+      "Yercaud",
+      "Simla",
+      "Kodaikanal"
+    ],
+    "explanation_en": "Simla - Summer habitat in North India (variable). Ooty, Yercaud, Kodaikanal - summer resorts in Tamil Nadu."
+  },
+  {
+    "id": 8,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Iron\n2) Aluminium\n3) Mercury\n4) Gold",
+    "options": [
+      "Iron",
+      "Aluminium",
+      "Mercury",
+      "Gold"
+    ],
+    "correct": 2,
+    "explanation": "Mercury - திரவ உலோகம் (மாறுபட்டது). Iron, Aluminium, Gold - திட உலோகங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Iron\n2) Aluminium\n3) Mercury\n4) Gold",
+    "options_en": [
+      "Iron",
+      "Aluminium",
+      "Mercury",
+      "Gold"
+    ],
+    "explanation_en": "Mercury - liquid metal (variable). Iron, Aluminum, Gold - solid metals."
+  },
+  {
+    "id": 9,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) June\n2) July\n3) August\n4) December",
+    "options": [
+      "June",
+      "July",
+      "August",
+      "December"
+    ],
+    "correct": 0,
+    "explanation": "June - 30 நாட்கள் கொண்ட மாதம் (மாறுபட்டது). July, August, December என்பன 31 நாட்களை கொண்ட மாதங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) June\n2) July\n3) August\n4) December",
+    "options_en": [
+      "June",
+      "July",
+      "August",
+      "December"
+    ],
+    "explanation_en": "June - A month with 30 days (variable). July, August, December are months with 31 days."
+  },
+  {
+    "id": 10,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Onion\n2) Cauliflower\n3) Raddish\n4) Potato",
+    "options": [
+      "Onion",
+      "Cauliflower",
+      "Raddish",
+      "Potato"
+    ],
+    "correct": 1,
+    "explanation": "Cauliflower - தரைக்குமேல் விளைபவை (மாறுபட்டது). Onion, Raddish, Potato - தரைக்குக்கீழ் விளைபவை.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Onion\n2) Cauliflower\n3) Raddish\n4) Potato",
+    "options_en": [
+      "Onion",
+      "Cauliflower",
+      "Raddish",
+      "Potato"
+    ],
+    "explanation_en": "Cauliflower - Above Ground (Variable). Onion, Raddish, Potato - grown underground."
+  },
+  {
+    "id": 11,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) AYC\n2) EUG\n3) MMO\n4) IQJ",
+    "options": [
+      "AYC",
+      "EUG",
+      "MMO",
+      "IQJ"
+    ],
+    "correct": 3,
+    "explanation": "IQJ - (மாறுபட்டது). AYC, EUG, MMO - என்பவைகளில் 1, 3 வது எழுத்துக்கள் ஒரு எழுத்து விட்டு தொடர்ச்சியாக வந்துள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) AYC\n2) EUG\n3) MMO\n4) IQJ",
+    "options_en": [
+      "AYC",
+      "EUG",
+      "MMO",
+      "IQJ"
+    ],
+    "explanation_en": "IQJ - (Variable). AYC, EUG, MMO - 1st and 3rd letters are followed by one letter."
+  },
+  {
+    "id": 12,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) K12M\n2) G9I\n3) P17R\n4) E6G",
+    "options": [
+      "K12M",
+      "G9I",
+      "P17R",
+      "E6G"
+    ],
+    "correct": 1,
+    "explanation": "G 9 I - H க்கான எண் 8 வரவேண்டும். (மாறுபட்டது). K 12 M - KLM தொடர்ச்சியான எழுத்துக்கள், P 17 R - PQR தொடர்ச்சியான எழுத்துக்கள், E 6 G - EFG தொடர்ச்சியான எழுத்துக்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) K12M\n2) G9I\n3) P17R\n4) E6G",
+    "options_en": [
+      "K12M",
+      "G9I",
+      "P17R",
+      "E6G"
+    ],
+    "explanation_en": "Number 8 should come for G 9 I - H. (varied). K 12 M - KLM consecutive alphabet, P 17 R - PQR consecutive alphabet, E 6 G - EFG consecutive alphabet."
+  },
+  {
+    "id": 13,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) HJMQ\n2) PRTX\n3) MORV\n4) IKNR",
+    "options": [
+      "HJMQ",
+      "PRTX",
+      "MORV",
+      "IKNR"
+    ],
+    "correct": 1,
+    "explanation": "PRTX - மாறுபட்டது. (மற்றவைகளில் எழுத்துக்கள் +2, +3, +4 என்ற இடைவெளியில் அமைந்துள்ளன. PRTX இல் R-T +2 இடைவெளி உள்ளது).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) HJMQ\n2) PRTX\n3) MORV\n4) IKNR",
+    "options_en": [
+      "HJMQ",
+      "PRTX",
+      "MORV",
+      "IKNR"
+    ],
+    "explanation_en": "PRTX - Different. (Others have letters spaced +2, +3, +4. PRTX has R-T +2 space)."
+  },
+  {
+    "id": 14,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) D10F\n2) G20M\n3) K22M\n4) P36T",
+    "options": [
+      "D10F",
+      "G20M",
+      "K22M",
+      "P36T"
+    ],
+    "correct": 2,
+    "explanation": "D10F -> 4+6=10; G20M -> 7+13=20; P36T -> 16+20=36. K22M -> 11+13=24 (மாறுபட்டது).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) D10F\n2) G20M\n3) K22M\n4) P36T",
+    "options_en": [
+      "D10F",
+      "G20M",
+      "K22M",
+      "P36T"
+    ],
+    "explanation_en": "D10F -> 4+6=10; G20M -> 7+13=20; P36T -> 16+20=36. K22M -> 11+13=24 (Variable)."
+  },
+  {
+    "id": 15,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Chandighar\n2) Chennai\n3) Kolkatta\n4) Bengaluru",
+    "options": [
+      "Chandighar",
+      "Chennai",
+      "Kolkatta",
+      "Bengaluru"
+    ],
+    "correct": 0,
+    "explanation": "Chandighar - இரு மாநிலங்களுக்கு ஒரு தலைநகர்(மாறுபட்டது). Chennai, Kolkatta, Bengaluru - தனித்தனி மாநிலங்களின் தலைநகர்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Chandigarh\n2) Chennai\n3) Kolkata\n4) Bengaluru",
+    "options_en": [
+      "Chandigarh",
+      "Chennai",
+      "Kolkata",
+      "Bengaluru"
+    ],
+    "explanation_en": "Chandighar - A capital for two states (different). Chennai, Kolkatta, Bengaluru - Capital of individual states."
+  },
+  {
+    "id": 16,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Telephone\n2) Cellphone\n3) Television\n4) Tele Fax",
+    "options": [
+      "Telephone",
+      "Cellphone",
+      "Television",
+      "Tele Fax"
+    ],
+    "correct": 2,
+    "explanation": "Television - தகவல் தொடர்பு சாதனம் (மாறுபட்டது). Telephone, Cell Phone, Tele Fax என்பன மற்றவர்களுடன் தொடர்பு கொள்ள உதவும் சாதனங்கள் (தொலை தொடர்பு சாதனங்கள்).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Telephone\n2) Cellphone\n3) Television\n4) Telefax",
+    "options_en": [
+      "Telephone",
+      "Cellphone",
+      "Television",
+      "Telefax"
+    ],
+    "explanation_en": "Television - Communication Device (varied). Telephone, Cell Phone, Tele Fax are devices that help you communicate with others (telecommunication devices)."
+  },
+  {
+    "id": 17,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Bus\n2) Howercraft\n3) Ship\n4) Satellite",
+    "options": [
+      "Bus",
+      "Howercraft",
+      "Ship",
+      "Satellite"
+    ],
+    "correct": 3,
+    "explanation": "Satellite - (மாறுபட்டது). Bus, Ship, Howercraft - பயணம் செய்யப் பயன்படுவது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Bus\n2) Hovercraft\n3) Ship\n4) Satellite",
+    "options_en": [
+      "Bus",
+      "Hovercraft",
+      "Ship",
+      "Satellite"
+    ],
+    "explanation_en": "Satellite - (Variable). Bus, Ship, Hovercraft - Used to travel."
+  },
+  {
+    "id": 18,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Moscow\n2) New York\n3) Paris\n4) New Delhi",
+    "options": [
+      "Moscow",
+      "New York",
+      "Paris",
+      "New Delhi"
+    ],
+    "correct": 1,
+    "explanation": "New York - தலைநகரம் அல்ல (மாறுபட்டது). Moscow, Paris, New Delhi தலைநகரங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Moscow\n2) New York\n3) Paris\n4) New Delhi",
+    "options_en": [
+      "Moscow",
+      "New York",
+      "Paris",
+      "New Delhi"
+    ],
+    "explanation_en": "New York - not the capital (varied). Moscow, Paris, New Delhi are the capitals."
+  },
+  {
+    "id": 19,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) AF\n2) LQ\n3) WZ\n4) DI",
+    "options": [
+      "AF",
+      "LQ",
+      "WZ",
+      "DI"
+    ],
+    "correct": 2,
+    "explanation": "WZ - க்கு இடையில் 2 எழுத்துக்கள் (மாறுபட்டது). AF, LQ, DI - க்கு இடையில் 4 எழுத்துக்கள் உள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) AF\n2) LQ\n3) WZ\n4) DI",
+    "options_en": [
+      "AF",
+      "LQ",
+      "WZ",
+      "DI"
+    ],
+    "explanation_en": "2 letters between WZ - (Variable). AF, LQ, DI - have 4 letters in between."
+  },
+  {
+    "id": 20,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) X/Z\n2) A/D\n3) R/T\n4) D/F",
+    "options": [
+      "X/Z",
+      "A/D",
+      "R/T",
+      "D/F"
+    ],
+    "correct": 1,
+    "explanation": "A/D - A, D க்கு இடையில் 2 எழுத்துக்கள் (மாறுபட்டது). X/Z, R/T, D/F -க்கு இடையில் ஒரு எழுத்து உள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) X/Z\n2) A/D\n3) R/T\n4) D/F",
+    "options_en": [
+      "X/Z",
+      "A/D",
+      "R/T",
+      "D/F"
+    ],
+    "explanation_en": "A/D - 2 letters between A, D (variable). X/Z, R/T, D/F - There is a letter in between."
+  },
+  {
+    "id": 21,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) CEDF\n2) GIHJ\n3) KLMN\n4) OQPR",
+    "options": [
+      "CEDF",
+      "GIHJ",
+      "KLMN",
+      "OQPR"
+    ],
+    "correct": 2,
+    "explanation": "KLMN - எழுத்துக்கள் தொடர்ச்சியாக உள்ளன. (மாறுபட்டது). CEDF, GIHJ, OQPR - எழுத்துக்கள் இடம்மாறி அமைந்துள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) CEDF\n2) GIHJ\n3) KLMN\n4) OQPR",
+    "options_en": [
+      "CEDF",
+      "GIHJ",
+      "KLMN",
+      "OQPR"
+    ],
+    "explanation_en": "KLMN - Letters are consecutive. (varied). CEDF, GIHJ, OQPR - letters are transposed."
+  },
+  {
+    "id": 22,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) DFI\n2) JLP\n3) KMQ\n4) SUY",
+    "options": [
+      "DFI",
+      "JLP",
+      "KMQ",
+      "SUY"
+    ],
+    "correct": 0,
+    "explanation": "DFI (மாறுபட்டது). மற்றவைகளில் எழுத்துக்கள் +2, +4 என்ற இடைவெளியில் அமைந்துள்ளன.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) DFI\n2) JLP\n3) KMQ\n4) SUY",
+    "options_en": [
+      "DFI",
+      "JLP",
+      "KMQ",
+      "Suy"
+    ],
+    "explanation_en": "DFI (Different). In others the characters are spaced +2, +4."
+  },
+  {
+    "id": 23,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Thilak\n2) Gogale\n3) Nehru\n4) Gandhiji",
+    "options": [
+      "Thilak",
+      "Gogale",
+      "Nehru",
+      "Gandhiji"
+    ],
+    "correct": 0,
+    "explanation": "Thilak - இந்திய சுதந்திரப் போராட்டத்தில் ஈடுபட்ட தீவிரவாத தலைவர். Gogale, Nehru, Gandhiji - மிதவாத தலைவர்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Thilak\n2) Gogale\n3) Nehru\n4) Gandhiji",
+    "options_en": [
+      "Thilak",
+      "Gogale",
+      "Nehru",
+      "Gandhiji"
+    ],
+    "explanation_en": "Thilak - Extremist leader involved in Indian freedom struggle. Gogale, Nehru, Gandhiji - moderate leaders."
+  },
+  {
+    "id": 24,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Param Veer Chakra\n2) Bharat Rathna\n3) Padmashri\n4) Padmavibusan",
+    "options": [
+      "Param Veer Chakra",
+      "Bharat Rathna",
+      "Padmashri",
+      "Padmavibusan"
+    ],
+    "correct": 0,
+    "explanation": "Param Veera Chakra - பாதுகாப்புத்துறையில் வீரதீர செயல்களுக்கான உயரிய விருது (மாறுபட்டது). Bharat Ratna, Padmashri, Padmavibusan என்பன சேவை விருதுகள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Param Veer Chakra\n2) Bharat Rathna\n3) Padmashri\n4) Padmavibusan",
+    "options_en": [
+      "Param Veer Chakra",
+      "Bharat Rathna",
+      "Padmashri",
+      "Padmavibusan"
+    ],
+    "explanation_en": "Param Veera Chakra - The highest award for gallantry in defense (varied). Bharat Ratna, Padmashri, Padmavibusan are service awards."
+  },
+  {
+    "id": 25,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Kochi\n2) Visak\n3) Mumbai\n4) Tuticorin",
+    "options": [
+      "Kochi",
+      "Visak",
+      "Mumbai",
+      "Tuticorin"
+    ],
+    "correct": 2,
+    "explanation": "Mumbai - துறைமுகம் மற்றும் மாநில தலைநகர் (மாறுபட்டது). Kochi, Visak, Tuticorin என்பன துறைமுகங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Kochi\n2) Visak\n3) Mumbai\n4) Tuticorin",
+    "options_en": [
+      "Kochi",
+      "Visak",
+      "Mumbai",
+      "Tuticorin"
+    ],
+    "explanation_en": "Mumbai - Port and state capital (varies). Ports are Kochi, Visak, Tuticorin."
+  },
+  {
+    "id": 26,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) South Africa\n2) Saudi Arabia\n3) England\n4) India",
+    "options": [
+      "South Africa",
+      "Saudi Arabia",
+      "England",
+      "India"
+    ],
+    "correct": 2,
+    "explanation": "England - ஒரு தீவு (மாறுபட்டவை). South Africa, Saudi Arabia, India, என்பன தீபகற்பங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) South Africa\n2) Saudi Arabia\n3) England\n4) India",
+    "options_en": [
+      "South Africa",
+      "Saudi Arabia",
+      "England",
+      "India"
+    ],
+    "explanation_en": "England - an island (variables). South Africa, Saudi Arabia, India are peninsulas."
+  },
+  {
+    "id": 27,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) BXD\n2) EUG\n3) HRK\n4) KOM",
+    "options": [
+      "BXD",
+      "EUG",
+      "HRK",
+      "KOM"
+    ],
+    "correct": 2,
+    "explanation": "HRK - (மாறுபட்டது). மற்றவைகளில் முதல் மற்றும் கடைசி எழுத்துகளுக்கிடையே +2 வித்தியாசம் உள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) BXD\n2) EUG\n3) HRK\n4) KOM",
+    "options_en": [
+      "BXD",
+      "EUG",
+      "HRK",
+      "KOM"
+    ],
+    "explanation_en": "HRK - (varies). Others have a difference of +2 between the first and last letters."
+  },
+  {
+    "id": 28,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) CEHM\n2) MORV\n3) JLOS\n4) QSVZ",
+    "options": [
+      "CEHM",
+      "MORV",
+      "JLOS",
+      "QSVZ"
+    ],
+    "correct": 0,
+    "explanation": "CEHM - மாறுபட்டது. மற்றவைகளில் எழுத்துக்கள் +2, +3, +4 என்ற இடைவெளியில் அமைந்துள்ளன.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) CEHM\n2) MORV\n3) JLOS\n4) QSVZ",
+    "options_en": [
+      "CEHM",
+      "MORV",
+      "JLOS",
+      "QSVZ"
+    ],
+    "explanation_en": "CEHM - Different. In others the letters are spaced +2, +3, +4."
+  },
+  {
+    "id": 29,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) CRY\n2) IVY\n3) TRY\n4) STY",
+    "options": [
+      "CRY",
+      "IVY",
+      "TRY",
+      "STY"
+    ],
+    "correct": 1,
+    "explanation": "IVY - தாவரப் பேரினம் (மாறுபட்டது). CRY, TRY, STY - என்பன விலங்குகள் தொடர்புடையன.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) CRY\n2) IVY\n3) TRY\n4) STY",
+    "options_en": [
+      "CRY",
+      "IVY",
+      "TRY",
+      "STY"
+    ],
+    "explanation_en": "IVY - Plant Genus (Variable). CRY, TRY, STY - are associated with animals."
+  },
+  {
+    "id": 30,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) PKJQ\n2) WDBY\n3) RIGT\n4) FUSH",
+    "options": [
+      "PKJQ",
+      "WDBY",
+      "RIGT",
+      "FUSH"
+    ],
+    "correct": 0,
+    "explanation": "PKJQ - மாறுபட்டது. மற்றவைகளில் முதல் மற்றும் கடைசி எழுத்துகளுக்கிடையே +2 வித்தியாசம் உள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) PKJQ\n2) WDBY\n3) RIGT\n4) FUSH",
+    "options_en": [
+      "PKJQ",
+      "WDBY",
+      "RIGT",
+      "FUSH"
+    ],
+    "explanation_en": "PKJQ - Different. Others have a difference of +2 between the first and last letters."
+  },
+  {
+    "id": 31,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Triangle\n2) Trapazium\n3) Isoceles Trapazium\n4) Rhombus",
+    "options": [
+      "Triangle",
+      "Trapazium",
+      "Isoceles Trapazium",
+      "Rhombus"
+    ],
+    "correct": 0,
+    "explanation": "Triangle - 3 பக்கங்கள் தேவை (மாறுபட்டது). Trapazium, Isoceles, Rhombus க்கு 4 பக்கங்கள் தேவை.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Triangle\n2) Trapazium\n3) Isoceles Trapazium\n4) Rhombus",
+    "options_en": [
+      "Triangle",
+      "Trapazium",
+      "Isoceles Trapazium",
+      "Rhombus"
+    ],
+    "explanation_en": "Triangle - 3 sides required (variable). Trapazium, Isoceles, Rhombus require 4 sides."
+  },
+  {
+    "id": 32,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) sulphur\n2) Carbon\n3) Silver\n4) Phosphorus",
+    "options": [
+      "sulphur",
+      "Carbon",
+      "Silver",
+      "Phosphorus"
+    ],
+    "correct": 2,
+    "explanation": "Silver - உலோகம் (புறவேற்றுமை வடிவங்கள் இல்லை) (மாறுபட்டது). Sulphur, Carbon, Phosphorus - அலோகம் (புறவேற்றுமை வடிவங்கள் உண்டு).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) sulphur\n2) Carbon\n3) Silver\n4) Phosphorus",
+    "options_en": [
+      "sulphur",
+      "Carbon",
+      "Silver",
+      "Phosphorus"
+    ],
+    "explanation_en": "Silver - metal (no extraneous forms) (variable). Sulphur, Carbon, Phosphorus - Metals (there are different forms)."
+  },
+  {
+    "id": 33,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Kabadi\n2) Hockey\n3) Cricket\n4) Foot-ball",
+    "options": [
+      "Kabadi",
+      "Hockey",
+      "Cricket",
+      "Foot-ball"
+    ],
+    "correct": 0,
+    "explanation": "Kabadi - விளையாட 7 பேர் தேவை (மாறுபட்டது). Hockey, Cricket, Foot Ball- விளையாட 11 பேர் தேவை.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Kabaddi\n2) Hockey\n3) Cricket\n4) Foot-ball",
+    "options_en": [
+      "Kabaddi",
+      "Hockey",
+      "Cricket",
+      "Foot-ball"
+    ],
+    "explanation_en": "Kabadi – 7 players required to play (Varies). Hockey, Cricket, Foot Ball- 11 players are required to play."
+  },
+  {
+    "id": 34,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Lion - Roars\n2) Elephant - Trumpet\n3) Dog - Barks\n4) Fox - Mews",
+    "options": [
+      "Lion - Roars",
+      "Elephant - Trumpet",
+      "Dog - Barks",
+      "Fox - Mews"
+    ],
+    "correct": 3,
+    "explanation": "Fox - Mews தவறாக பொருந்தியுள்ளது. (மாறுபட்டது). Lion, Elephant, Dog - சரியாக பொருந்தியுள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Lion - Roars\n2) Elephant - Trumpet\n3) Dog - Barks\n4) Fox - Mews",
+    "options_en": [
+      "Lion - Roars",
+      "Elephant - Trumpet",
+      "Dog - Barks",
+      "Fox - Mews"
+    ],
+    "explanation_en": "Fox - Mews is incorrectly matched. (varied). Lion, Elephant, Dog - perfectly matched."
+  },
+  {
+    "id": 35,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) V. Anand - Chess\n2) Marykom - Boxing\n3) P.V. Sindhu - Table tennis\n4) Mithaliraj - Cricket",
+    "options": [
+      "V. Anand - Chess",
+      "Marykom - Boxing",
+      "P.V. Sindhu - Table tennis",
+      "Mithaliraj - Cricket"
+    ],
+    "correct": 2,
+    "explanation": "P.V. Sindhu - Table Tennis தவறாக பொருந்தியுள்ளது. (மாறுபட்டது). மற்றவர்கள் சரியாக பொருந்தியுள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) V. Anand - Chess\n2) Marykom - Boxing\n3) P.V. Sindhu - Table tennis\n4) Mithaliraj - Cricket",
+    "options_en": [
+      "V. Anand - Chess",
+      "Marykom - Boxing",
+      "P.V. Sindhu - Table tennis",
+      "Mithaliraj - Cricket"
+    ],
+    "explanation_en": "P.V. Sindhu - Table Tennis is wrongly matched. (varied). Others are perfectly matched."
+  },
+  {
+    "id": 36,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Rajaji\n2) Subash Chandra Bose\n3) Thilak\n4) Vallabai Patel",
+    "options": [
+      "Rajaji",
+      "Subash Chandra Bose",
+      "Thilak",
+      "Vallabai Patel"
+    ],
+    "correct": 0,
+    "explanation": "Rajaji - தமிழக சுதந்திர போராட்ட தலைவர் (மாறுபட்டது). மற்றவர்கள் வட இந்திய சுதந்திர போராட்ட தலைவர்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Rajaji\n2) Subash Chandra Bose\n3) Thilak\n4) Vallabai Patel",
+    "options_en": [
+      "Rajaji",
+      "Subash Chandra Bose",
+      "Thilak",
+      "Vallabhbhai Patel"
+    ],
+    "explanation_en": "Rajaji - Leader of Tamil Nadu Freedom Struggle (varied). Others were North Indian freedom struggle leaders."
+  },
+  {
+    "id": 37,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Shah Jahan\n2) Shersha\n3) Jahankir\n4) Bhabur",
+    "options": [
+      "Shah Jahan",
+      "Shersha",
+      "Jahankir",
+      "Bhabur"
+    ],
+    "correct": 1,
+    "explanation": "Shersha - சூர் வம்ச அரசர் (மாறுபட்டது). Shahjahan, Jakankir, Bhabur முகலாய அரசர்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Shah Jahan\n2) Shersha\n3) Jahankir\n4) Bhabur",
+    "options_en": [
+      "Shah Jahan",
+      "Shersha",
+      "Jahankir",
+      "Bhabur"
+    ],
+    "explanation_en": "Shersha - King of the Sur dynasty (varied). Shahjahan, Jakankir, Bhabur were Mughal kings."
+  },
+  {
+    "id": 38,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) China - Beijing\n2) France - London\n3) Russia - Moscow\n4) Japan - Tokyo",
+    "options": [
+      "China - Beijing",
+      "France - London",
+      "Russia - Moscow",
+      "Japan - Tokyo"
+    ],
+    "correct": 1,
+    "explanation": "France - London தவறாக பொருந்தியுள்ளது. (மாறுபட்டது). மற்றவைகள் சரியாக பொருந்தியுள்ளன.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) China - Beijing\n2) France - London\n3) Russia - Moscow\n4) Japan - Tokyo",
+    "options_en": [
+      "China - Beijing",
+      "France - London",
+      "Russia - Moscow",
+      "Japan - Tokyo"
+    ],
+    "explanation_en": "France - London is incorrectly matched. (varied). Others are perfectly matched."
+  },
+  {
+    "id": 39,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Atlantic Ocean\n2) Paciffic Ocean\n3) Mediterranean Sea\n4) Artic Ocean",
+    "options": [
+      "Atlantic Ocean",
+      "Paciffic Ocean",
+      "Mediterranean Sea",
+      "Artic Ocean"
+    ],
+    "correct": 2,
+    "explanation": "Mediterrnanean sea - (மாறுபட்டது). மற்றவைகள் பெருங்கடல்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Atlantic Ocean\n2) Pacific Ocean\n3) Mediterranean Sea\n4) Arctic Ocean",
+    "options_en": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Mediterranean Sea",
+      "Arctic Ocean"
+    ],
+    "explanation_en": "Mediterrnanean sea - (varied). Others are oceans."
+  },
+  {
+    "id": 40,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Mass - Kilogram\n2) Force - Joule\n3) Time - Second\n4) Electric current - Amphere",
+    "options": [
+      "Mass - Kilogram",
+      "Force - Joule",
+      "Time - Second",
+      "Electric current - Amphere"
+    ],
+    "correct": 1,
+    "explanation": "Force - Joule தவறாக உள்ளது. (விசையின் அலகு நியூட்டன்) மாறுபட்டது. மற்றவைகள் சரியாக பொருந்தியுள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Mass - Kilogram\n2) Force – Joule\n3) Time - Second\n4) Electric current - Ampere",
+    "options_en": [
+      "Mass - Kilogram",
+      "Force - Joule",
+      "Time - Second",
+      "Electric current - Ampere"
+    ],
+    "explanation_en": "Force - Joule is incorrect. (Unit of force is newton) variable. Others are perfectly matched."
+  },
+  {
+    "id": 41,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Ice\n2) Platinum\n3) Iron\n4) Silver",
+    "options": [
+      "Ice",
+      "Platinum",
+      "Iron",
+      "Silver"
+    ],
+    "correct": 0,
+    "explanation": "Ice - ஒரு சேர்மம் (மாறுபட்டது). மற்றவைகள் தனிமங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Ice\n2) Platinum\n3) Iron\n4) Silver",
+    "options_en": [
+      "Ice",
+      "Platinum",
+      "Iron",
+      "Silver"
+    ],
+    "explanation_en": "Ice - A compound (different). Others are elements."
+  },
+  {
+    "id": 42,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) CAT\n2) COW\n3) LION\n4) DOG",
+    "options": [
+      "CAT",
+      "COW",
+      "LION",
+      "DOG"
+    ],
+    "correct": 2,
+    "explanation": "Lion - காட்டுவிலங்கு (மாறுபட்டது). Cat, Cow, Dog என்பன வீட்டு விலங்குகள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) CAT\n2) COW\n3) LION\n4) DOG",
+    "options_en": [
+      "CAT",
+      "COW",
+      "LION",
+      "DOG"
+    ],
+    "explanation_en": "Lion - wild animal (different). Cat, Cow, Dog are domestic animals."
+  },
+  {
+    "id": 43,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Respiration\n2) Heart\n3) Lung\n4) Eye",
+    "options": [
+      "Respiration",
+      "Heart",
+      "Lung",
+      "Eye"
+    ],
+    "correct": 3,
+    "explanation": "Eye - பார்வை உறுப்பு (மாறுபட்டது). Respiration, Heart, Lungs - சுவாசித்தல் தொடர்புடையவை.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Respiration\n2) Heart\n3) Lung\n4) Eye",
+    "options_en": [
+      "Respiration",
+      "Heart",
+      "Lung",
+      "Eye"
+    ],
+    "explanation_en": "Eye - organ of vision (different). Respiration, Heart, Lungs - Related to breathing."
+  },
+  {
+    "id": 44,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Apple\n2) Groundnut\n3) Mango\n4) Banana",
+    "options": [
+      "Apple",
+      "Groundnut",
+      "Mango",
+      "Banana"
+    ],
+    "correct": 1,
+    "explanation": "Groundnut - தரைக்கு கீழ் (பூமிக்கடியில்) விளைபவை (மாறுபட்டது). Apple, Mango, Banana - தரைக்குமேல் விளைபவை (பழங்கள்).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Apple\n2) Groundnut\n3) Mango\n4) Banana",
+    "options_en": [
+      "Apple",
+      "Groundnut",
+      "Mango",
+      "Banana"
+    ],
+    "explanation_en": "Groundnut - Grows underground (vary). Apple, Mango, Banana - Above ground (fruits)."
+  },
+  {
+    "id": 45,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Humus\n2) Urea\n3) Ammonium phosphate\n4) NItrogen Phosphate",
+    "options": [
+      "Humus",
+      "Urea",
+      "Ammonium phosphate",
+      "NItrogen Phosphate"
+    ],
+    "correct": 0,
+    "explanation": "Humus - இயற்கை உரம், கரிம உரம் (மாறுபட்டது). Urea, Ammonium Phosphate, Nitrogen Phosphate - செயற்கை உரங்கள் (கனிம உரங்கள்).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Hummus\n2) Urea\n3) Ammonium phosphate\n4) Nitrogen Phosphate",
+    "options_en": [
+      "Hummus",
+      "Urea",
+      "Ammonium phosphate",
+      "Nitrogen Phosphate"
+    ],
+    "explanation_en": "Humus - natural compost, organic compost (different). Urea, Ammonium Phosphate, Nitrogen Phosphate - Synthetic fertilizers (mineral fertilizers)."
+  },
+  {
+    "id": 46,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Cancer\n2) T.B\n3) Diabetes\n4) Ghost effect",
+    "options": [
+      "Cancer",
+      "T.B",
+      "Diabetes",
+      "Ghost effect"
+    ],
+    "correct": 3,
+    "explanation": "Ghost effect - பய உணர்வு (மாறுபட்டது). Cancer, T.B., Diabets - நோய்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Cancer\n2) T.B\n3) Diabetes\n4) Ghost effect",
+    "options_en": [
+      "Cancer",
+      "T.B",
+      "Diabetes",
+      "Ghost effect"
+    ],
+    "explanation_en": "Ghost effect - sense of fear (varied). Cancer, T.B., Diabetes - diseases."
+  },
+  {
+    "id": 47,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Malaria\n2) Dengue\n3) Brain fever\n4) Typhoid",
+    "options": [
+      "Malaria",
+      "Dengue",
+      "Brain fever",
+      "Typhoid"
+    ],
+    "correct": 2,
+    "explanation": "Brain fever - (மாறுபட்டது). Malaria, Dengue, Typhoid - என்பன தொற்று நோய்கள் (பரவக்கூடியவை).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Malaria\n2) Dengue\n3) Brain fever\n4) Typhoid",
+    "options_en": [
+      "Malaria",
+      "Dengue",
+      "Brain fever",
+      "Typhoid"
+    ],
+    "explanation_en": "Brain fever - (varied). Malaria, Dengue, Typhoid - are infectious diseases (communicable)."
+  },
+  {
+    "id": 48,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Rainbow\n2) River\n3) Factory\n4) Tree",
+    "options": [
+      "Rainbow",
+      "River",
+      "Factory",
+      "Tree"
+    ],
+    "correct": 0,
+    "explanation": "Rainbow - சூரிய ஒளியின் சிதறல் மாயத்தோற்றம் (மாறுபட்டது). River, Factory, Tree - உண்மைத் தோற்றங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Rainbow\n2) River\n3) Factory\n4) Tree",
+    "options_en": [
+      "Rainbow",
+      "River",
+      "Factory",
+      "Tree"
+    ],
+    "explanation_en": "Rainbow - Sunlight Scattering Illusion (Variable). River, Factory, Tree - True appearances."
+  },
+  {
+    "id": 49,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Publisher\n2) Page\n3) Author\n4) Printing",
+    "options": [
+      "Publisher",
+      "Page",
+      "Author",
+      "Printing"
+    ],
+    "correct": 2,
+    "explanation": "Author - படைப்பாளி (மாறுபட்டது). Publisher, Page, Printing என்பன அச்சுத்துறை தொடர்புடையவை.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Publisher\n2) Page\n3) Author\n4) Printing",
+    "options_en": [
+      "Publisher",
+      "Page",
+      "Author",
+      "Printing"
+    ],
+    "explanation_en": "Author - कर्वाली (variable). Publisher, Page, Printing are related to printing industry."
+  },
+  {
+    "id": 50,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Plant\n2) Root\n3) Stem\n4) Leaf",
+    "options": [
+      "Plant",
+      "Root",
+      "Stem",
+      "Leaf"
+    ],
+    "correct": 0,
+    "explanation": "Plant - தாவரம் (மாறுபட்டது). Root, Stem, Leaf - தாவரத்தின் பாகங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Plant\n2) Root\n3) Stem\n4) Leaf",
+    "options_en": [
+      "Plant",
+      "Root",
+      "Stem",
+      "Leaf"
+    ],
+    "explanation_en": "Plant - plant (different). Root, Stem, Leaf - Parts of a plant."
+  },
+  {
+    "id": 51,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) March\n2) May\n3) February\n4) December",
+    "options": [
+      "March",
+      "May",
+      "February",
+      "December"
+    ],
+    "correct": 2,
+    "explanation": "February 28 (or) 29 நாட்களை உடையது. (மாறுபட்டது). March, May, December - 31 நாட்கள் உடைய மாதங்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) March\n2) May\n3) February\n4) December",
+    "options_en": [
+      "March",
+      "May",
+      "February",
+      "December"
+    ],
+    "explanation_en": "February 28 (or) has 29 days. (varied). March, May, December - Months with 31 days."
+  },
+  {
+    "id": 52,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Deer\n2) Fox\n3) Horse\n4) Jackal",
+    "options": [
+      "Deer",
+      "Fox",
+      "Horse",
+      "Jackal"
+    ],
+    "correct": 2,
+    "explanation": "Horse - வீட்டுவிலங்கு (மாறுபட்டது). Deer, Fox, Jackal - காட்டில் வசிக்கும் விலங்குகள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Deer\n2) Fox\n3) Horse\n4) Jackal",
+    "options_en": [
+      "Deer",
+      "Fox",
+      "Horse",
+      "Jackal"
+    ],
+    "explanation_en": "Horse - domestic animal (different). Deer, Fox, Jackal - animals living in the forest."
+  },
+  {
+    "id": 53,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Wood\n2) Cork\n3) Stone\n4) Paper",
+    "options": [
+      "Wood",
+      "Cork",
+      "Stone",
+      "Paper"
+    ],
+    "correct": 2,
+    "explanation": "Stone - கல் (மாறுபட்டது). Wood, Paper, Cork என்பன மரம் சார்ந்த பொருட்கள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Wood\n2) Cork\n3) Stone\n4) Paper",
+    "options_en": [
+      "Wood",
+      "Cork",
+      "Stone",
+      "Paper"
+    ],
+    "explanation_en": "Stone - stone (different). Wood, Paper, Cork are wood based products."
+  },
+  {
+    "id": 54,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Liver\n2) Lungs\n3) Kidney\n4) Ear",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Kidney",
+      "Ear"
+    ],
+    "correct": 3,
+    "explanation": "Ear - வெளி உறுப்பு (மாறுபட்டது). Liver, Lungs, Kidney உள் உறுப்புகள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Liver\n2) Lungs\n3) Kidney\n4) Ear",
+    "options_en": [
+      "Liver",
+      "Lungs",
+      "Kidney",
+      "Ear"
+    ],
+    "explanation_en": "Ear - external organ (different). Liver, Lungs, Kidney are internal organs."
+  },
+  {
+    "id": 55,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Teacher\n2) Principal\n3) Lecturer\n4) Student",
+    "options": [
+      "Teacher",
+      "Principal",
+      "Lecturer",
+      "Student"
+    ],
+    "correct": 3,
+    "explanation": "Principal, Teacher, Lecturer - கற்பித்தல் செயலுடன் தொடர்புடையவர்கள். Student - கற்றல் செயலுடன் தொடர்புடையவர் (மாறுபட்டது).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Teacher\n2) Principal\n3) Lecturer\n4) Students",
+    "options_en": [
+      "Teacher",
+      "Principal",
+      "Lecturer",
+      "Student"
+    ],
+    "explanation_en": "Principal, Teacher, Lecturer - Those concerned with the act of teaching. Student - person associated with the learning activity (variable)."
+  },
+  {
+    "id": 56,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) AOT\n2) CPA\n3) REB\n4) QUD",
+    "options": [
+      "AOT",
+      "CPA",
+      "REB",
+      "QUD"
+    ],
+    "correct": 2,
+    "explanation": "AOT = 1+15+20=36 (Even). CPA = 3+16+1=20 (Even). QUD = 17+21+4=42 (Even). REB = 18+5+2=25 (Odd) (மாறுபட்டது).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) AOT\n2) CPA\n3) REB\n4) QUD",
+    "options_en": [
+      "AOT",
+      "CPA",
+      "REB",
+      "QUD"
+    ],
+    "explanation_en": "AOT = 1+15+20=36 (Even). CPA = 3+16+1=20 (Even). QUD = 17+21+4=42 (Even). REB = 18+5+2=25 (Odd) (Variable)."
+  },
+  {
+    "id": 57,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) ABCO\n2) DEFG\n3) IJKL\n4) PQRS",
+    "options": [
+      "ABCO",
+      "DEFG",
+      "IJKL",
+      "PQRS"
+    ],
+    "correct": 0,
+    "explanation": "ABCO - மாறுபட்டது. DEFG, IJKL, PQRS தொடர்ச்சியான எழுத்துக்கள் கொண்டவை.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) ABCO\n2) DEFG\n3) IJKL\n4) PQRS",
+    "options_en": [
+      "ABCO",
+      "DEFG",
+      "IJKL",
+      "PQRS"
+    ],
+    "explanation_en": "ABCO - Different. DEFG, IJKL, PQRS are consecutive characters."
+  },
+  {
+    "id": 58,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) WTQ\n2) PMJ\n3) HEB\n4) TQO",
+    "options": [
+      "WTQ",
+      "PMJ",
+      "HEB",
+      "TQO"
+    ],
+    "correct": 3,
+    "explanation": "TQO மாறுபட்டது. (மற்றவைகளில் எழுத்துக்கள் -3, -3 என்ற இடைவெளியில் அமைந்துள்ளன).",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) WTQ\n2) PMJ\n3) HEB\n4) TQO",
+    "options_en": [
+      "WTQ",
+      "PMJ",
+      "HEB",
+      "TQO"
+    ],
+    "explanation_en": "TQO is variable. (In others the characters are spaced -3, -3)."
+  },
+  {
+    "id": 59,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) POLICE\n2) SUFFER\n3) MATTER\n4) ATTIRE",
+    "options": [
+      "POLICE",
+      "SUFFER",
+      "MATTER",
+      "ATTIRE"
+    ],
+    "correct": 0,
+    "explanation": "POLICE - வெவ்வேறு எழுத்துக்கள் (மாறுபட்டது). SUFFER, MATTER, ATTIRE என்பவைகளில் ஒரு எழுத்து அடுத்தடுத்து இருமுறை வந்துள்ளது.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) POLICE\n2) SUFFER\n3) MATTER\n4) Attire",
+    "options_en": [
+      "POLICE",
+      "SUFFER",
+      "MATTER",
+      "ATTIRE"
+    ],
+    "explanation_en": "POLICE - Different letters (Variable). In SUFFER, MATTER, ATTIRE one letter occurs twice in succession."
+  },
+  {
+    "id": 60,
+    "question": "கொடுக்கப்பட்ட 4 வார்த்தைகளில் தொடர்பற்றதாக உள்ள வார்த்தையை தேர்ந்தெடு.\n\n1) Ancient History\n2) Modern History\n3) History\n4) Medivial History",
+    "options": [
+      "Ancient History",
+      "Modern History",
+      "History",
+      "Medivial History"
+    ],
+    "correct": 2,
+    "explanation": "History - வரலாறு - ஒரு பாடம் (மாறுபட்டது). Ancient History, Modern History, Medivial History - என்பன வரலாற்றின் பிரிவுகள்.",
+    "question_en": "Choose the unrelated word from the given 4 words.\n\n1) Ancient History\n2) Modern History\n3) History\n4) Medieval History",
+    "options_en": [
+      "Ancient History",
+      "Modern History",
+      "History",
+      "Medieval History"
+    ],
+    "explanation_en": "History - A subject (varied). Ancient History, Modern History, Medieval History - are the divisions of history."
+  }
+]

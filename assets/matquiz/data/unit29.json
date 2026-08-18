@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "question": "ஒரு கன சதுர வடிவம் கொள்ளுமாறு கீழ்க்காணும் படம் அமைந்துள்ளது. எனில், அக்கனசதுரத்தில் 2-க்கு எதிரான பக்கத்தில் உள்ள எண்?",
+    "image": "image/unit29/q1.PNG",
+    "options": [
+      "6",
+      "4",
+      "1",
+      "3"
+    ],
+    "correct": 1,
+    "explanation": "நீளமான பகுதியில் ஒன்று விட்ட ஒன்று எதிரெதிர் பக்கங்களாக அமையும் என்பதால், 2 மற்றும் 4 ஒன்றுக்கொன்று எதிரெதிரே அமையும். 1 மற்றும் 5 எதிரெதிரே அமையும். எனவே எஞ்சிய 3 மற்றும் 6 எதிரெதிரே அமையும்.",
+    "question_en": "The figure below is arranged as a cube. So, the number on the side opposite to 2 in the cuboid?",
+    "options_en": [
+      "6",
+      "4",
+      "1",
+      "3"
+    ],
+    "explanation_en": "2 and 4 are opposite to each other, since one of the diagonals of the longest segment is opposite sides. 1 and 5 are opposite. So the remaining 3 and 6 are opposite."
+  },
+  {
+    "id": 2,
+    "question": "ஒரு கனசதுர வடிவம் கொள்ளுமாறு கீழ்க்காணும் படம் அமைந்துள்ளது. எனில், அக்கனசதுரத்தில் E-க்கு எதிரான பக்கத்தில் உள்ள எழுத்து?",
+    "image": "image/unit29/q2.PNG",
+    "options": [
+      "D",
+      "B",
+      "C",
+      "F"
+    ],
+    "correct": 2,
+    "explanation": "நீளமான பகுதியில் ஒன்று விட்ட ஒன்று எதிரெதிர் பக்கங்களாக அமையும் என்பதால், C மற்றும் E ஒன்றுக்கொன்று எதிரெதிரே அமையும். B மற்றும் F எதிரெதிரே அமையும். எனவே A மற்றும் D எதிரெதிரே அமையும்.",
+    "question_en": "The figure below is arranged as a cube. If the letter on the side opposite to E in the cuboid?",
+    "options_en": [
+      "D",
+      "B",
+      "C",
+      "F"
+    ],
+    "explanation_en": "C and E are opposite to each other since one diagonal is opposite sides of the longitudinal section. B and F are opposite. So A and D are opposite."
+  },
+  {
+    "id": 3,
+    "question": "ஒரு கனசதுர வடிவம் கொள்ளுமாறு கீழ்க்காணும் படம் அமைந்துள்ளது. எனில், அக்கனசதுரத்தில் எதிர் எதிரான பக்கத்தில் அமையும் எண்கள் ?",
+    "image": "image/unit29/q3.PNG",
+    "options": [
+      "7, 3; 4, 5 ; 9, 2",
+      "4, 3; 7, 5 ; 9, 2",
+      "4, 5; 7, 2 ; 9, 3",
+      "4, 7; 9, 2 ; 3, 5"
+    ],
+    "correct": 0,
+    "explanation": "ஒன்று விட்ட ஒன்று எதிரெதிர் பக்கமாக அமையும் என்பதால், 7 மற்றும் 3 எதிரெதிரே அமையும். 9 மற்றும் 2 எதிரெதிரே அமையும். எனவே எஞ்சிய 4 மற்றும் 5 எதிரெதிரே அமையும்.",
+    "question_en": "The figure below is arranged as a cube. If, the numbers are on the opposite sides of the cuboid?",
+    "options_en": [
+      "7, 3; 4, 5; 9, 2",
+      "4, 3; 7, 5; 9, 2",
+      "4, 5; 7, 2; 9, 3",
+      "4, 7; 9, 2; 3, 5"
+    ],
+    "explanation_en": "7 and 3 are opposites, since the left one is on the opposite side. 9 and 2 are opposite. So the remaining 4 and 5 are opposite."
+  },
+  {
+    "id": 4,
+    "question": "ஒரு கனசதுர வடிவம் கொள்ளுமாறு கீழ்க்காணும் படம் அமைந்துள்ளது. எனில், அக்கனசதுரத்தில் எதிர் எதிரான பக்கத்தில் அமையும் எழுத்துகள் ?",
+    "image": "image/unit29/q4.PNG",
+    "options": [
+      "a, b; c, e ; d, f",
+      "a, e; b, d ; c, f",
+      "a, d; c, f ; b, e",
+      "a, e; d, f ; b, c"
+    ],
+    "correct": 3,
+    "explanation": "ஒன்று விட்ட ஒன்று எதிரெதிர் பக்கமாக அமையும் என்பதால், d மற்றும் f எதிரெதிரே அமையும். a மற்றும் e எதிரெதிரே அமையும். எஞ்சிய c மற்றும் b எதிரெதிரே அமையும்.",
+    "question_en": "The figure below is arranged as a cube. So, the letters on the opposite sides of the akanasatura?",
+    "options_en": [
+      "a, b; c, e ; d, f",
+      "a, e; b, d; c, f",
+      "a, d; c, f ; b, e",
+      "a, e; d, f ; b, c"
+    ],
+    "explanation_en": "Since one of the diagonals is on the opposite side, d and f are opposite. a and e are opposite. Remainder c and b are opposite."
+  },
+  {
+    "id": 5,
+    "question": "ஒரு கனசதுர வடிவம் கொள்ளுமாறு கீழ்க்காணும் படம் மடிக்கப்பட்டால், நான்கு புள்ளிகள் கொண்ட முகத்திற்கு எதிராக எத்தனை புள்ளிகள் கொண்ட முகம் அமையும்?",
+    "image": "image/unit29/q5.PNG",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "நீளமான பகுதியில் ஒன்று விட்ட ஒன்று எதிரெதிர் பக்கங்களாக அமையும் என்பதால், 6 புள்ளிகள் மற்றும் 1 புள்ளி எதிரெதிரே அமையும். 4 மற்றும் 3 எதிரெதிரே அமையும். எஞ்சிய 5 மற்றும் 2 எதிரெதிரே அமையும்.",
+    "question_en": "If the figure below is folded to form a cube, how many dot faces will lie against four dot faces?",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation_en": "6 points and 1 point are opposite since one diagonal is on opposite sides of the longest segment. 4 and 3 are opposite. Remaining 5 and 2 are opposite."
+  },
+  {
+    "id": 6,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து கனசதுரமாக மாற்றும்போது எவ்வாறு தோன்றும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி",
+    "image": "image/unit29/q6.PNG",
+    "options": [
+      "A மற்றும் B",
+      "B மட்டும்",
+      "B மற்றும் D",
+      "C மற்றும் D"
+    ],
+    "correct": 1,
+    "explanation": "எதிரெதிர் பக்கங்கள் அடுத்தடுத்த பக்கங்களாக வர முடியாது. நிழலிடப்பட்ட முக்கோணங்களை வைத்துப் பார்த்தால் B என்ற கனசதுர உருவமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the figure below looks when folded into a cube",
+    "options_en": [
+      "A and B",
+      "B only",
+      "B and D",
+      "C and D"
+    ],
+    "explanation_en": "Opposite pages cannot be adjacent pages. Judging by the shaded triangles, the cube shape B is likely to be formed."
+  },
+  {
+    "id": 7,
+    "question": "கீழ்க்கண்ட படத்தை இடதுபுறமாக மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்வாறு தோன்றும் என்பதை மாற்று விடைகளில் இருந்து கண்டுபிடி.",
+    "image": "image/unit29/q7.PNG",
+    "options": [
+      "B மற்றும் C",
+      "C மட்டும்",
+      "A, C மற்றும் D",
+      "A மற்றும் D"
+    ],
+    "correct": 1,
+    "explanation": "1, 3 எதிரெதிர். 2, 5 எதிரெதிர். 4, 6 எதிரெதிர். இதை வைத்துப் பார்த்தால், C என்ற கனசதுர உருவம் மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers what the figure below looks like when it is folded to the left and turned into a cube.",
+    "options_en": [
+      "B and C",
+      "C only",
+      "A, C and D",
+      "A and D"
+    ],
+    "explanation_en": "1, 3 opposite. 2, 5 opposite. 4, 6 opposite. Given this, only the cubic form C is likely to form."
+  },
+  {
+    "id": 8,
+    "question": "கீழ்க்கண்ட படத்தை இடதுபுறமாக மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்வாறு தோன்றும் என்பதை மாற்று விடைகளில் இருந்து கண்டுபிடி",
+    "image": "image/unit29/q8.PNG",
+    "options": [
+      "A மட்டும்",
+      "B மட்டும்",
+      "A மற்றும் B",
+      "A, B, C மற்றும் D"
+    ],
+    "correct": 1,
+    "explanation": "6, 2 எதிரெதிர். 5, 3 எதிரெதிர். 1, 4 எதிரெதிர். B என்ற கனசதுர உருவம் மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers what the figure below looks like when it is folded to the left and turned into a cube",
+    "options_en": [
+      "A only",
+      "B only",
+      "A and B",
+      "A, B, C and D"
+    ],
+    "explanation_en": "6, 2 opposite. 5, 3 opposite. 1, 4 opposite. Only the cubic form B is likely to form."
+  },
+  {
+    "id": 9,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q9.PNG",
+    "options": [
+      "A மட்டும்",
+      "B மட்டும்",
+      "A மற்றும் B",
+      "A, B, C மற்றும் D"
+    ],
+    "correct": 0,
+    "explanation": "தர்க்கரீதியாக ஒன்றுக்கொன்று எதிரெதிர் பக்கங்களை அமைத்துப் பார்த்தால், A என்ற கனசதுர உருவம் மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "A only",
+      "B only",
+      "A and B",
+      "A, B, C and D"
+    ],
+    "explanation_en": "If the sides are logically opposite to each other, only the cube A can be formed."
+  },
+  {
+    "id": 10,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q10.PNG",
+    "options": [
+      "A, B மற்றும் C",
+      "A மற்றும் C",
+      "B மற்றும் D",
+      "C மட்டும்"
+    ],
+    "correct": 3,
+    "explanation": "C என்ற கனசதுர உருவம் மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "A, B and C",
+      "A and C",
+      "B and D",
+      "C only"
+    ],
+    "explanation_en": "Only the cubic form C is likely to form."
+  },
+  {
+    "id": 11,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q11.PNG",
+    "options": [
+      "A, B மற்றும் C",
+      "A மற்றும் C",
+      "B மற்றும் D",
+      "C மட்டும்"
+    ],
+    "correct": 0,
+    "explanation": "G மற்றும் B எதிரெதிர்; P மற்றும் W எதிரெதிர்; R மற்றும் Y எதிரெதிர். இதை வைத்துப் பார்த்தால் A, B, C ஆகிய மூன்று கனசதுர உருவங்களும் உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "A, B and C",
+      "A and C",
+      "B and D",
+      "C only"
+    ],
+    "explanation_en": "G and B are opposite; P and W are opposites; R and Y are opposite. Based on this, three cubic figures A, B and C are likely to be formed."
+  },
+  {
+    "id": 12,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q12.PNG",
+    "options": [
+      "A, B மற்றும் C",
+      "A மற்றும் B",
+      "B மற்றும் D",
+      "A மட்டும்"
+    ],
+    "correct": 1,
+    "explanation": "A, B என்ற கனசதுர உருவங்கள் உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "A, B and C",
+      "A and B",
+      "B and D",
+      "A only"
+    ],
+    "explanation_en": "Cubic shapes A and B are likely to be formed."
+  },
+  {
+    "id": 13,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q13.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 1,
+    "explanation": "படம் (2) மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Only figure (2) is likely to form."
+  },
+  {
+    "id": 14,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q14.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 3,
+    "explanation": "படம் (4) மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Only Figure (4) is likely to occur."
+  },
+  {
+    "id": 15,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q15.PNG",
+    "options": [
+      "A மற்றும் D",
+      "A மட்டும்",
+      "A, C மற்றும் D",
+      "A, B, C மற்றும் D"
+    ],
+    "correct": 0,
+    "explanation": "படம் (A) மற்றும் (D) மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "A and D",
+      "A only",
+      "A, C and D",
+      "A, B, C and D"
+    ],
+    "explanation_en": "Only images (A) and (D) are likely to form."
+  },
+  {
+    "id": 16,
+    "question": "கீழ்க்கண்ட படத்தை மடித்து ஒரு கனசதுரமாக மாற்றும்போது எவ்விதம் காட்சியளிக்கும் என்பதை மாற்று விடைகளில் இருந்து கண்டறி.",
+    "image": "image/unit29/q16.PNG",
+    "options": [
+      "படம் 1",
+      "படம் 2",
+      "படம் 3",
+      "படம் 4"
+    ],
+    "correct": 0,
+    "explanation": "படம் (1) மட்டுமே உருவாக வாய்ப்புள்ளது.",
+    "question_en": "Find out from the alternative answers how the image below would look when folded into a cube.",
+    "options_en": [
+      "Figure 1",
+      "Figure 2",
+      "Figure 3",
+      "Figure 4"
+    ],
+    "explanation_en": "Only Figure (1) is likely to form."
+  }
+]

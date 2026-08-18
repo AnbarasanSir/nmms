@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 91,
+    "question": "3, 6, 9, 12 மற்றும் 15 ஆகிய அனைத்து தரவுகளுடனும் 2 - ஐக் கூட்டினால் கிடைக்கும் புதிய தரவுகளின் சராசரி :",
+    "options": [
+      "9",
+      "11",
+      "55",
+      "45"
+    ],
+    "correct": 1,
+    "explanation": "பழைய தரவுகளின் சராசரி = (3+6+9+12+15) / 5 = 45 / 5 = 9.\nஅனைத்து தரவுகளுடனும் 2-ஐக் கூட்டினால், புதிய சராசரியும் 2 அதிகரிக்கும்.\nஎனவே, புதிய சராசரி = 9 + 2 = 11.",
+    "question_en": "The mean of the new data obtained by adding 2 to each of the data 3, 6, 9, 12, and 15 is:",
+    "options_en": [
+      "9",
+      "11",
+      "55",
+      "45"
+    ],
+    "explanation_en": "Old mean = (3+6+9+12+15) / 5 = 45 / 5 = 9.\nIf 2 is added to all the data, the new mean also increases by 2.\nTherefore, the new mean = 9 + 2 = 11."
+  },
+  {
+    "id": 92,
+    "question": "$(a+b)=12$ மற்றும் $a^{2}-b^{2}=-24$ எனில் $a-b$ -ன் மதிப்பு:",
+    "options": [
+      "-2",
+      "2",
+      "144",
+      "36"
+    ],
+    "correct": 0,
+    "explanation": "சூத்திரம்: $a^2 - b^2 = (a+b)(a-b)$\n$-24 = (12) \\times (a-b)$\n$a - b = -24 / 12 = -2$.",
+    "question_en": "If $(a+b)=12$ and $a^{2}-b^{2}=-24$, then the value of $a-b$ is:",
+    "options_en": [
+      "-2",
+      "2",
+      "144",
+      "36"
+    ],
+    "explanation_en": "Formula: $a^2 - b^2 = (a+b)(a-b)$\n$-24 = (12) \\times (a-b)$\n$a - b = -24 / 12 = -2$."
+  },
+  {
+    "id": 93,
+    "question": "தவறான கூற்றைக் கண்டறியவும்.",
+    "options": [
+      "ஒரு இணைகரத்தில் எதிரெதிர் உட்கோணங்கள் சமம்.",
+      "ஒரு இணைகரத்தில் உட்கோணங்களின் கூடுதல் $180^{\\circ}$.",
+      "ஒரு இணைகரத்தில் எதிரெதிர்ப் பக்கங்கள் சமம்.",
+      "ஒரு இணைகரத்தில் மூலை விட்டங்கள் ஒன்றுக்கொன்று இருசமக் கூறிடும்."
+    ],
+    "correct": 1,
+    "explanation": "ஒரு இணைகரத்தின் (Parallelogram) நான்கு உட்கோணங்களின் கூடுதல் $360^{\\circ}$ ஆகும். எனவே இரண்டாவது கூற்று தவறானது.",
+    "question_en": "Identify the incorrect statement.",
+    "options_en": [
+      "Opposite interior angles of a parallelogram are equal.",
+      "The sum of the interior angles of a parallelogram is $180^{\\circ}$.",
+      "Opposite sides of a parallelogram are equal.",
+      "The diagonals of a parallelogram bisect each other."
+    ],
+    "explanation_en": "The sum of the four interior angles of a parallelogram is $360^{\\circ}$. Therefore, the second statement is incorrect."
+  },
+  {
+    "id": 94,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள படத்தில், நிழலிடப்பட்ட பகுதியின் சதவீதத்தைக் காண்க. (ஒரு சதுரத்தினுள் அதன் மையப்புள்ளிகளை இணைத்து வரையப்பட்ட சாய்சதுரம்)",
+    "options": [
+      "50%",
+      "25%",
+      "100%",
+      "75%"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு சதுரத்தின் பக்கங்களின் மையப்புள்ளிகளை இணைத்து உருவாக்கப்படும் நாற்கரத்தின் (சாய்சதுரம்) பரப்பளவானது, அச்சதுரத்தின் பரப்பளவில் பாதியாக (50%) இருக்கும்.",
+    "question_en": "Find the percentage of the shaded region in the given figure. (A rhombus formed by joining the midpoints of the sides of a square)",
+    "options_en": [
+      "50%",
+      "25%",
+      "100%",
+      "75%"
+    ],
+    "explanation_en": "The area of the quadrilateral (rhombus) formed by joining the midpoints of the sides of a square is half (50%) of the area of the square."
+  },
+  {
+    "id": 95,
+    "question": "பின்வரும் அறுங்கோண வடிவங்கள் பாஸ்கல் முக்கோணத்தின் பகுதியாக அமையும் எனில், x, y மற்றும் z-ன் மதிப்புகள் முறையே :\nமேல்: x, 15 | நடு: 7, 21, y | கீழ்: z, 56",
+    "options": [
+      "6, 20, 28",
+      "10, 35, 10",
+      "6, 35, 28",
+      "6, 20, 35"
+    ],
+    "correct": 2,
+    "explanation": "பாஸ்கல் முக்கோணத்தின் விதிப்படி, ஒரு எண் அதன் மேலுள்ள இரண்டு எண்களின் கூடுதலுக்குச் சமம்.\n$x + 15 = 21 \\Rightarrow x = 6$.\n$21 + y = 56 \\Rightarrow y = 35$.\n$7 + 21 = z \\Rightarrow z = 28$.\nஎனவே மதிப்புகள்: 6, 35, 28.",
+    "question_en": "If the following hexagonal shapes form part of Pascal's triangle, then the values of x, y, and z are respectively:\nTop: x, 15 | Middle: 7, 21, y | Bottom: z, 56",
+    "options_en": [
+      "6, 20, 28",
+      "10, 35, 10",
+      "6, 35, 28",
+      "6, 20, 35"
+    ],
+    "explanation_en": "According to Pascal's triangle rule, a number is equal to the sum of the two numbers directly above it.\n$x + 15 = 21 \\Rightarrow x = 6$.\n$21 + y = 56 \\Rightarrow y = 35$.\n$7 + 21 = z \\Rightarrow z = 28$.\nHence the values are: 6, 35, 28."
+  },
+  {
+    "id": 96,
+    "question": "படத்தில் $\\Delta ABC$ -யில், வெளிக்கோணம் $B = 110^{\\circ}$, உட்கோணம் $C = 60^{\\circ}$ எனில், $A (x)$-ன் மதிப்பு:",
+    "options": [
+      "$60^{\\circ}$",
+      "$50^{\\circ}$",
+      "$110^{\\circ}$",
+      "$45^{\\circ}$"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு முக்கோணத்தின் வெளிக்கோணமானது, அதன் உள்ளெதிர் கோணங்களின் கூடுதலுக்குச் சமம்.\n$110^{\\circ} = x + 60^{\\circ}$\n$x = 110^{\\circ} - 60^{\\circ} = 50^{\\circ}$.",
+    "question_en": "In the figure of $\\Delta ABC$, if the exterior angle $B = 110^{\\circ}$ and the interior angle $C = 60^{\\circ}$, then the value of $A (x)$ is:",
+    "options_en": [
+      "$60^{\\circ}$",
+      "$50^{\\circ}$",
+      "$110^{\\circ}$",
+      "$45^{\\circ}$"
+    ],
+    "explanation_en": "The exterior angle of a triangle is equal to the sum of the two opposite interior angles.\n$110^{\\circ} = x + 60^{\\circ}$\n$x = 110^{\\circ} - 60^{\\circ} = 50^{\\circ}$."
+  },
+  {
+    "id": 97,
+    "question": "$(3p^{2}+2q^{2})-(5q+6p^{2})+(7p^{2}-9p)$ என்ற கோவையின் படி:",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct": 1,
+    "explanation": "சுருக்கும் போது: $3p^2 + 2q^2 - 5q - 6p^2 + 7p^2 - 9p = 4p^2 + 2q^2 - 9p - 5q$.\nஇதில் உள்ள அதிகபட்ச அடுக்கு 2 ஆகும். எனவே படி 2.",
+    "question_en": "The degree of the expression $(3p^{2}+2q^{2})-(5q+6p^{2})+(7p^{2}-9p)$ is:",
+    "options_en": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "explanation_en": "On simplifying: $3p^2 + 2q^2 - 5q - 6p^2 + 7p^2 - 9p = 4p^2 + 2q^2 - 9p - 5q$.\nThe highest power in this expression is 2. Therefore, the degree is 2."
+  },
+  {
+    "id": 98,
+    "question": "ஒரு அலுவலகத்தின் ஜன்னல் சாய்சதுர வடிவில் உள்ளது. அதன் பரப்பளவு 500 ச.செ.மீ. அந்த ஜன்னலானது மூலைவிட்ட அளவுகள் 10 செ.மீ மற்றும் 5 செ.மீ கொண்ட சிறுசிறு சாய்சதுர வடிவிலான கண்ணாடித் துண்டுகளால் அலங்கரிக்கப்பட்டது எனில் தேவைப்படும் துண்டுகளின் எண்ணிக்கை:",
+    "options": [
+      "25",
+      "20",
+      "10",
+      "50"
+    ],
+    "correct": 1,
+    "explanation": "ஒரு சிறு சாய்சதுரத்தின் பரப்பு = $\\frac{1}{2} \\times d_1 \\times d_2 = \\frac{1}{2} \\times 10 \\times 5 = 25$ ச.செ.மீ.\nதேவைப்படும் கண்ணாடிகளின் எண்ணிக்கை = $\\frac{500}{25} = 20$.",
+    "question_en": "A window in an office is in the shape of a rhombus. Its area is 500 sq. cm. If the window is decorated with small rhombus-shaped glass pieces with diagonals measuring 10 cm and 5 cm, the number of glass pieces required is:",
+    "options_en": [
+      "25",
+      "20",
+      "10",
+      "50"
+    ],
+    "explanation_en": "Area of a small rhombus glass piece = $\\frac{1}{2} \\times d_1 \\times d_2 = \\frac{1}{2} \\times 10 \\times 5 = 25$ sq. cm.\nNumber of glass pieces required = $\\frac{500}{25} = 20$."
+  },
+  {
+    "id": 99,
+    "question": "தந்தையின் வயது மற்றும் அவருடைய மகளின் வயது வித்தியாசம் 32. தந்தையின் வயது அவருடைய மகளின் வயதின் மூன்று மடங்கு எனில், தந்தையின் வயது:",
+    "options": [
+      "48",
+      "32",
+      "24",
+      "52"
+    ],
+    "correct": 0,
+    "explanation": "மகள் = $x$, தந்தை = $3x$.\n$3x - x = 32 \\Rightarrow 2x = 32 \\Rightarrow x = 16$.\nதந்தையின் வயது = $3 \\times 16 = 48$.",
+    "question_en": "The difference between the ages of a father and his daughter is 32. If the father's age is three times his daughter's age, then the father's age is:",
+    "options_en": [
+      "48",
+      "32",
+      "24",
+      "52"
+    ],
+    "explanation_en": "Daughter = $x$, Father = $3x$.\n$3x - x = 32 \\Rightarrow 2x = 32 \\Rightarrow x = 16$.\nFather's age = $3 \\times 16 = 48$."
+  },
+  {
+    "id": 100,
+    "question": "இரண்டு இணைகோடுகள் ஒரு குறுக்கு வெட்டியால் வெட்டப்படும் போது, குறுக்கு வெட்டியின் ஒரே பக்கம் அமைந்த வெளிக்கோணங்கள் :",
+    "options": [
+      "மிகை நிரப்புக் கோணங்கள்",
+      "நிரப்புக் கோணங்கள்",
+      "குறுங்கோணம்",
+      "செங்கோணம்"
+    ],
+    "correct": 0,
+    "explanation": "இணைகோடுகளை ஒரு குறுக்குவெட்டி வெட்டும்போது, அதன் ஒரே பக்கத்தில் அமையும் வெளிக்கோணங்களின் கூடுதல் $180^{\\circ}$ ஆகும். எனவே அவை மிகை நிரப்புக் கோணங்கள் (Supplementary) எனப்படும்.",
+    "question_en": "When two parallel lines are intersected by a transversal, the exterior angles on the same side of the transversal are:",
+    "options_en": [
+      "Supplementary angles",
+      "Complementary angles",
+      "Acute angles",
+      "Right angles"
+    ],
+    "explanation_en": "When a transversal intersects two parallel lines, the sum of the exterior angles on the same side is $180^{\\circ}$. Therefore, they are supplementary angles."
+  },
+  {
+    "id": 101,
+    "question": "ஒரு மாய முக்கோணத்தில் ஒவ்வொரு பக்கத்தில் உள்ள எண்களின் கூடுதல் -17 எனில், x, y மற்றும் z-ன் மதிப்புகள் முறையே (விடுபட்ட இடங்கள்: x, y, z):",
+    "options": [
+      "-9, -8, -7",
+      "-7, -9, -8",
+      "9, 8, 7",
+      "-7, -8, -9"
+    ],
+    "correct": 0,
+    "explanation": "முக்கோணத்தின் இடது பக்கம்: $-1 + x + (-5) + (-2) = -17 \\Rightarrow x - 8 = -17 \\Rightarrow x = -9$.\nஅடிப்பக்கம்: $-2 + (-4) + y + (-3) = -17 \\Rightarrow y - 9 = -17 \\Rightarrow y = -8$.\nவலது பக்கம்: $-1 + (-6) + z + (-3) = -17 \\Rightarrow z - 10 = -17 \\Rightarrow z = -7$.",
+    "question_en": "In a magic triangle, if the sum of the numbers on each side is -17, then the values of x, y, and z are respectively (missing places: x, y, z):",
+    "options_en": [
+      "-9, -8, -7",
+      "-7, -9, -8",
+      "9, 8, 7",
+      "-7, -8, -9"
+    ],
+    "explanation_en": "Left side of triangle: $-1 + x + (-5) + (-2) = -17 \\Rightarrow x - 8 = -17 \\Rightarrow x = -9$.\nBase: $-2 + (-4) + y + (-3) = -17 \\Rightarrow y - 9 = -17 \\Rightarrow y = -8$.\nRight side: $-1 + (-6) + z + (-3) = -17 \\Rightarrow z - 10 = -17 \\Rightarrow z = -7$."
+  },
+  {
+    "id": 102,
+    "question": "$m+n$ மற்றும் $3m-7n$ ஆகியவற்றை அடுத்தடுத்த பக்கங்களாகக் கொண்ட இணைகரத்தின் சுற்றளவு:",
+    "options": [
+      "$8m+16n$",
+      "$4m-6n$",
+      "$8m-16n$",
+      "$8m-12n$"
+    ],
+    "correct": 3,
+    "explanation": "இணைகரத்தின் சுற்றளவு = $2 \\times (a + b)$\n$= 2 \\times (m+n + 3m-7n) = 2 \\times (4m - 6n) = 8m - 12n$.",
+    "question_en": "The perimeter of a parallelogram whose adjacent sides are $m+n$ and $3m-7n$ is:",
+    "options_en": [
+      "$8m+16n$",
+      "$4m-6n$",
+      "$8m-16n$",
+      "$8m-12n$"
+    ],
+    "explanation_en": "Perimeter of parallelogram = $2 \\times (a + b)$\n$= 2 \\times (m+n + 3m-7n) = 2 \\times (4m - 6n) = 8m - 12n$."
+  },
+  {
+    "id": 103,
+    "question": "ஒரு போட்டித் தேர்வில் ஒவ்வொரு சரியான விடைக்கும் 1 மதிப்பெண் மற்றும் ஒவ்வொரு தவறான விடைக்கும் -1 மதிப்பெண் வழங்கப்படுகிறது. ஒரு மாணவர் அனைத்து வினாக்களுக்கும் விடையளித்தார். 126 வினாக்களுக்கு சரியான விடையளித்தபோதிலும் பெற்ற மதிப்பெண்கள் 94 எனில், தவறாக விடையளித்த வினாக்களின் எண்ணிக்கை :",
+    "options": [
+      "24",
+      "56",
+      "32",
+      "23"
+    ],
+    "correct": 2,
+    "explanation": "சரியான விடைகள் மூலம் கிடைத்த மதிப்பெண் = 126.\nஇறுதி மதிப்பெண் = 94.\nதவறான விடைகளால் குறைந்த மதிப்பெண் = $126 - 94 = 32$.\nஒவ்வொரு தவறான விடைக்கும் 1 மதிப்பெண் குறைவதால், தவறான விடைகளின் எண்ணிக்கை = 32.",
+    "question_en": "In a competitive exam, 1 mark is awarded for every correct answer and -1 mark for every wrong answer. A student answered all the questions. Despite answering 126 questions correctly, the marks obtained were 94. The number of incorrectly answered questions is:",
+    "options_en": [
+      "24",
+      "56",
+      "32",
+      "23"
+    ],
+    "explanation_en": "Marks obtained from correct answers = 126.\nFinal score = 94.\nMarks reduced due to incorrect answers = $126 - 94 = 32$.\nSince 1 mark is deducted for each wrong answer, the number of wrong answers = 32."
+  },
+  {
+    "id": 104,
+    "question": "முதல் 10 இயல் எண்களின் சராசரி :",
+    "options": [
+      "55",
+      "45",
+      "0.55",
+      "5.5"
+    ],
+    "correct": 3,
+    "explanation": "முதல் 10 இயல் எண்களின் கூடுதல் = $10 \\times \\frac{11}{2} = 55$.\nசராசரி = $\\frac{55}{10} = 5.5$.",
+    "question_en": "The average of the first 10 natural numbers is:",
+    "options_en": [
+      "55",
+      "45",
+      "0.55",
+      "5.5"
+    ],
+    "explanation_en": "Sum of the first 10 natural numbers = $10 \\times \\frac{11}{2} = 55$.\nAverage = $\\frac{55}{10} = 5.5$."
+  },
+  {
+    "id": 105,
+    "question": "$124\\times36\\times980$-ன் ஒன்றாம் இடத்தில் வரக் கூடிய எண்:",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "0"
+    ],
+    "correct": 3,
+    "explanation": "பெருக்கப்படும் எண்களில் ஒன்றான 980-ன் ஒன்றாம் இலக்கம் 0 என்பதால், ஒட்டுமொத்த பெருக்கற்பலனின் ஒன்றாம் இலக்கமும் 0 ஆகவே இருக்கும்.",
+    "question_en": "The digit in the units place of $124\\times36\\times980$ is:",
+    "options_en": [
+      "4",
+      "2",
+      "6",
+      "0"
+    ],
+    "explanation_en": "Since the unit digit of one of the multipliers (980) is 0, the overall product's unit digit will also be 0."
+  },
+  {
+    "id": 106,
+    "question": "ஒரு நாடாச் சுருளின் நீளம் $18\\frac{3}{4}$ மீ. ஆகும். 4 முழுச் சுருள்கள் மற்றும் ஒரு சுருளில் மூன்றில் ஒரு பகுதியின் (அதாவது $4\\frac{1}{3}$) மொத்த நீளம்:",
+    "options": [
+      "$81\\frac{1}{4}$ மீ",
+      "$82\\frac{1}{2}$ மீ",
+      "$80\\frac{1}{4}$ மீ",
+      "$80\\frac{1}{2}$ மீ"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு சுருளின் நீளம் = $\\frac{75}{4}$ மீ.\nதேவையான அளவு = $4\\frac{1}{3} = \\frac{13}{3}$ சுருள்கள்.\nமொத்த நீளம் = $\\frac{75}{4} \\times \\frac{13}{3} = \\frac{25 \\times 13}{4} = \\frac{325}{4} = 81\\frac{1}{4}$ மீ.",
+    "question_en": "The length of a ribbon roll is $18\\frac{3}{4}$ m. The total length of 4 full rolls and a one-third part of a roll (i.e., $4\\frac{1}{3}$ rolls) is:",
+    "options_en": [
+      "$81\\frac{1}{4}$ m",
+      "$82\\frac{1}{2}$ m",
+      "$80\\frac{1}{4}$ m",
+      "$80\\frac{1}{2}$ m"
+    ],
+    "explanation_en": "Length of one roll = $\\frac{75}{4}$ m.\nRequired quantity = $4\\frac{1}{3} = \\frac{13}{3}$ rolls.\nTotal length = $\\frac{75}{4} \\times \\frac{13}{3} = \\frac{25 \\times 13}{4} = \\frac{325}{4} = 81\\frac{1}{4}$ m."
+  },
+  {
+    "id": 107,
+    "question": "$[\\frac{4}{3}-(\\frac{-3}{2})]+[\\frac{-5}{3}\\div\\frac{30}{12}]+[\\frac{-12}{9}\\times\\frac{-27}{16}]$ -ன் சுருக்கப்பட்ட மதிப்பு :",
+    "options": [
+      "$\\frac{-53}{12}$",
+      "$\\frac{53}{12}$",
+      "$\\frac{-12}{53}$",
+      "$\\frac{12}{53}$"
+    ],
+    "correct": 1,
+    "explanation": "முதல் பகுதி: $\\frac{4}{3} + \\frac{3}{2} = \\frac{17}{6}$.\nஇரண்டாம் பகுதி: $\\frac{-5}{3} \\times \\frac{12}{30} = \\frac{-2}{3} = \\frac{-4}{6}$.\nமூன்றாம் பகுதி: $\\frac{-12}{9} \\times \\frac{-27}{16} = \\frac{9}{4} = \\frac{27}{12}$.\nமொத்தம் = $\\frac{17}{6} - \\frac{4}{6} + \\frac{27}{12} = \\frac{13}{6} + \\frac{27}{12} = \\frac{26}{12} + \\frac{27}{12} = \\frac{53}{12}$.",
+    "question_en": "The simplified value of $[\\frac{4}{3}-(\\frac{-3}{2})]+[\\frac{-5}{3}\\div\\frac{30}{12}]+[\\frac{-12}{9}\\times\\frac{-27}{16}]$ is:",
+    "options_en": [
+      "$\\frac{-53}{12}$",
+      "$\\frac{53}{12}$",
+      "$\\frac{-12}{53}$",
+      "$\\frac{12}{53}$"
+    ],
+    "explanation_en": "First part: $\\frac{4}{3} + \\frac{3}{2} = \\frac{17}{6}$.\nSecond part: $\\frac{-5}{3} \\times \\frac{12}{30} = \\frac{-2}{3} = \\frac{-4}{6}$.\nThird part: $\\frac{-12}{9} \\times \\frac{-27}{16} = \\frac{9}{4} = \\frac{27}{12}$.\nTotal = $\\frac{17}{6} - \\frac{4}{6} + \\frac{27}{12} = \\frac{13}{6} + \\frac{27}{12} = \\frac{26}{12} + \\frac{27}{12} = \\frac{53}{12}$."
+  },
+  {
+    "id": 108,
+    "question": "a, b, c ஆனது ஒரு பிதாகரஸ் மூன்றன் தொகுதி. மேலும் $a=m^{2}-n^{2}$ மற்றும் $b=2mn$ எனில் c -ன் மதிப்பு :",
+    "options": [
+      "$m^{2}-n^{2}$",
+      "$m^{2}n^{2}$",
+      "2mn",
+      "$m^{2}+n^{2}$"
+    ],
+    "correct": 3,
+    "explanation": "பிதாகரஸ் மூன்றன் தொகுதியின் பொதுவான வடிவம்: $m^2 - n^2$, $2mn$ மற்றும் $m^2 + n^2$ ஆகும். எனவே $c = m^2 + n^2$.",
+    "question_en": "If a, b, c form a Pythagorean triplet where $a=m^{2}-n^{2}$ and $b=2mn$, then the value of c is:",
+    "options_en": [
+      "$m^{2}-n^{2}$",
+      "$m^{2}n^{2}$",
+      "2mn",
+      "$m^{2}+n^{2}$"
+    ],
+    "explanation_en": "The general form of a Pythagorean triplet is: $m^2 - n^2$, $2mn$, and $m^2 + n^2$. Therefore, $c = m^2 + n^2$."
+  },
+  {
+    "id": 109,
+    "question": "$9^{2}$ -க்கும் $10^{2}$ -க்கும் இடையில் உள்ள இயல் எண்களின் எண்ணிக்கை :",
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "correct": 1,
+    "explanation": "இரண்டு அடுத்தடுத்த வர்க்க எண்களான $n^2$ மற்றும் $(n+1)^2$ க்கு இடையே உள்ள எண்களின் எண்ணிக்கை $2n$ ஆகும்.\nஇங்கு $n=9$, எனவே $2 \\times 9 = 18$ எண்கள் உள்ளன.",
+    "question_en": "The number of natural numbers lying between $9^{2}$ and $10^{2}$ is:",
+    "options_en": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "explanation_en": "The number of non-square natural numbers between consecutive square numbers $n^2$ and $(n+1)^2$ is $2n$.\nHere $n=9$, so there are $2 \\times 9 = 18$ numbers."
+  },
+  {
+    "id": 110,
+    "question": "2 ஆண்டுகளுக்கு கூட்டுவட்டிக்கும், தனிவட்டிக்கும் இடையேயுள்ள வித்தியாசம் :",
+    "options": [
+      "$P(\\frac{r}{100})$",
+      "$P(\\frac{r}{100})^{2}$",
+      "$A+I$",
+      "$P+I$"
+    ],
+    "correct": 1,
+    "explanation": "இரண்டு ஆண்டுகளுக்கான தனிவட்டி மற்றும் கூட்டுவட்டிக்கு இடையிலான வித்தியாசத்திற்கான நேரடி சூத்திரம்: $CI - SI = P\\left(\\frac{r}{100}\\right)^2$.",
+    "question_en": "The difference between compound interest and simple interest for 2 years is:",
+    "options_en": [
+      "$P(\\frac{r}{100})$",
+      "$P(\\frac{r}{100})^{2}$",
+      "$A+I$",
+      "$P+I$"
+    ],
+    "explanation_en": "The direct formula for the difference between CI and SI for 2 years is: $CI - SI = P\\left(\\frac{r}{100}\\right)^2$."
+  },
+  {
+    "id": 111,
+    "question": "மருத்துவ வெப்பநிலைமானியானது குறைந்தபட்ச வெப்பநிலையாக _______ வெப்பநிலையையும், அதிகபட்ச வெப்பநிலையாக _______ வெப்பநிலையையும் அளக்கக் கூடியது.",
+    "options": [
+      "$35^{\\circ}C, 42^{\\circ}C$",
+      "$36^{\\circ}C, 43^{\\circ}C$",
+      "$34^{\\circ}C, 41^{\\circ}C$",
+      "$0^{\\circ}C, 100^{\\circ}C$"
+    ],
+    "correct": 0,
+    "explanation": "மனித உடலின் வெப்பநிலையை அளக்கப் பயன்படும் மருத்துவ வெப்பநிலைமானிகள் பொதுவாக $35^{\\circ}C$ முதல் $42^{\\circ}C$ வரை அளவிடக் கூடியவை.",
+    "question_en": "A clinical thermometer can measure a minimum temperature of _______ and a maximum temperature of _______.",
+    "options_en": [
+      "$35^{\\circ}C, 42^{\\circ}C$",
+      "$36^{\\circ}C, 43^{\\circ}C$",
+      "$34^{\\circ}C, 41^{\\circ}C$",
+      "$0^{\\circ}C, 100^{\\circ}C$"
+    ],
+    "explanation_en": "Clinical thermometers used to measure human body temperature typically range from $35^{\\circ}C$ to $42^{\\circ}C$."
+  },
+  {
+    "id": 112,
+    "question": "ஒரு மாரத்தான் ஓட்டப்பந்தய வீரர் 42 கி.மீ. தூரத்தினை 6 மணி நேரத்தில் கடக்கிறார் எனில் அவரின் வேகம் :",
+    "options": [
+      "1.94 கி.மீ./மணி",
+      "1.94 மீ/வி",
+      "7 மீ/வி",
+      "7 கி.மீ./மணி"
+    ],
+    "correct": 1,
+    "explanation": "வேகம் = தூரம் / நேரம் = 42 / 6 = 7 கி.மீ / மணி.\nஇதனை SI அலகில் (மீ/வி) மாற்ற: $7 \\times \\frac{5}{18} = 1.944$ மீ/வி.",
+    "question_en": "If a marathon runner covers a distance of 42 km in 6 hours, his speed is:",
+    "options_en": [
+      "1.94 km/h",
+      "1.94 m/s",
+      "7 m/s",
+      "7 km/h"
+    ],
+    "explanation_en": "Speed = Distance / Time = 42 / 6 = 7 km/hr.\nTo convert this to SI unit (m/s): $7 \\times \\frac{5}{18} = 1.944$ m/s."
+  },
+  {
+    "id": 113,
+    "question": "சிம்கார்டுகளில் பயன்படுத்தப்படும் சிப்புகள் சிலிக்கான் மற்றும் ஜெர்மானியத்தால் ஆனவை. ஏனெனில் அவற்றின் ________ நற்கடத்திகள் மற்றும் காப்பான்களுக்கு இடையில் அமைந்திருக்கும்.",
+    "options": [
+      "காந்தத் தூண்டல்",
+      "மின்னோட்டம்",
+      "மின்கடத்துத்திறன்",
+      "மின்தடை"
+    ],
+    "correct": 2,
+    "explanation": "சிலிக்கான் மற்றும் ஜெர்மானியம் ஆகியவை குறைகடத்திகள் (Semiconductors). இவற்றின் மின்கடத்துத்திறன் (Electrical Conductivity) நற்கடத்திகளுக்கும் காப்பான்களுக்கும் இடையில் இருக்கும்.",
+    "question_en": "Chips used in SIM cards are made of silicon and germanium because their ________ lies between that of good conductors and insulators.",
+    "options_en": [
+      "Magnetic induction",
+      "Electric current",
+      "Electrical conductivity",
+      "Resistance"
+    ],
+    "explanation_en": "Silicon and germanium are semiconductors. Their electrical conductivity lies between that of good conductors and insulators."
+  },
+  {
+    "id": 114,
+    "question": "கூற்று I: அனைத்துப் பொருட்களும் நிழல்களை உருவாக்குவதில்லை.\nகூற்று II: நிழல்கள் எப்போதும் ஒளிமூலம் இருக்கும் திசைக்கு நேர்த்திசையில் உருவாகும்.",
+    "options": [
+      "கூற்று I மற்றும் II சரி",
+      "கூற்று I தவறு ஆனால் II சரி",
+      "கூற்று I மற்றும் II தவறு",
+      "கூற்று I சரி ஆனால் II தவறு"
+    ],
+    "correct": 3,
+    "explanation": "ஒளிபுகும் பொருட்கள் நிழலை உருவாக்காது, எனவே கூற்று I சரி. ஆனால் நிழல்கள் எப்போதும் ஒளிமூலத்திற்கு எதிர்த்திசையில்தான் (Opposite direction) உருவாகும், நேர்த்திசையில் அல்ல. எனவே கூற்று II தவறு.",
+    "question_en": "Statement I: Not all objects form shadows.\nStatement II: Shadows are always formed in the direct direction of the light source.",
+    "options_en": [
+      "Statements I and II are correct",
+      "Statement I is false but II is correct",
+      "Statements I and II are false",
+      "Statement I is correct but II is false"
+    ],
+    "explanation_en": "Transparent objects do not form shadows, so Statement I is true. But shadows are always formed in the direction opposite to the light source, not in the direct direction. Therefore, Statement II is false."
+  },
+  {
+    "id": 115,
+    "question": "பொருத்துக:\n(a) கூலூம் - (i) $\\sigma$\n(b) ஆம்பியர் - (ii) $\\Omega$\n(c) மின்கடத்துத் திறன் - (iii) I\n(d) ஓம் (Ohm) - (iv) q",
+    "options": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    ],
+    "correct": 1,
+    "explanation": "கூலூம் என்பது மின்னூட்டத்தின் அலகு (q).\nஆம்பியர் என்பது மின்னோட்டத்தின் அலகு (I).\nமின்கடத்துத் திறனின் குறியீடு சிக்மா ($\\sigma$).\nஓம் என்பது மின்தடையின் அலகு ($\\Omega$).",
+    "question_en": "Match the following:\n(a) Coulomb - (i) $\\sigma$\n(b) Ampere - (ii) $\\Omega$\n(c) Electrical Conductivity - (iii) I\n(d) Ohm - (iv) q",
+    "options_en": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    ],
+    "explanation_en": "Coulomb is the unit of electric charge (q).\nAmpere is the unit of electric current (I).\nThe symbol for electrical conductivity is sigma ($\\sigma$).\nOhm is the unit of electrical resistance ($\\Omega$)."
+  },
+  {
+    "id": 116,
+    "question": "மிகத் துல்லியத் தன்மை கொண்ட கடிகாரம்:",
+    "options": [
+      "அணுக் கடிகாரம்",
+      "எண்ணிலக்க கடிகாரம்",
+      "குவார்ட்ஸ் கடிகாரம்",
+      "சூரியக் கடிகாரம்"
+    ],
+    "correct": 0,
+    "explanation": "அணுக்களில் ஏற்படும் அதிர்வுகளை அடிப்படையாகக் கொண்டு செயல்படும் அணுக் கடிகாரங்களே (Atomic clocks) உலகிலேயே மிகத் துல்லியமானவை.",
+    "question_en": "The most accurate clock is:",
+    "options_en": [
+      "Atomic clock",
+      "Digital clock",
+      "Quartz clock",
+      "Sundial"
+    ],
+    "explanation_en": "Atomic clocks, which operate based on atomic vibrations, are the most accurate clocks in the world."
+  },
+  {
+    "id": 117,
+    "question": "பொருந்தாத ஒன்றைக் கண்டறியவும்:",
+    "options": [
+      "திரிசூல்",
+      "அக்னி",
+      "ரோகிணி",
+      "பிருத்வி"
+    ],
+    "correct": 2,
+    "explanation": "திரிசூல், அக்னி, பிருத்வி ஆகியவை இந்தியாவின் ஏவுகணைகள் (Missiles). ரோகிணி (Rohini) என்பது ஒரு செயற்கைக்கோள் (Satellite).",
+    "question_en": "Find the odd one out:",
+    "options_en": [
+      "Trishul",
+      "Agni",
+      "Rohini",
+      "Prithvi"
+    ],
+    "explanation_en": "Trishul, Agni, and Prithvi are Indian missiles. Rohini is a satellite."
+  },
+  {
+    "id": 118,
+    "question": "ஒரு பொருள் ஒரு நிமிடத்திற்கு 3000 அதிர்வுகளை ஏற்படுத்துகிறது. காற்றில் ஒலியின் வேகம் 331 மீ/வி எனில் அதன் அதிர்வெண் :",
+    "options": [
+      "60 Hz",
+      "100 Hz",
+      "50 Hz",
+      "75 Hz"
+    ],
+    "correct": 2,
+    "explanation": "அதிர்வெண் என்பது ஒரு வினாடியில் ஏற்படும் அதிர்வுகளின் எண்ணிக்கை.\nஒரு நிமிடத்திற்கு (60 வினாடி) = 3000 அதிர்வுகள்.\nஅதிர்வெண் = $3000 / 60 = 50$ அதிர்வுகள்/வினாடி = 50 Hz.",
+    "question_en": "An object makes 3000 vibrations per minute. If the speed of sound in air is 331 m/s, its frequency is:",
+    "options_en": [
+      "60 Hz",
+      "100 Hz",
+      "50 Hz",
+      "75 Hz"
+    ],
+    "explanation_en": "Frequency is the number of vibrations per second.\nVibrations per minute (60 seconds) = 3000 vibrations.\nFrequency = $3000 / 60 = 50$ vibrations/second = 50 Hz."
+  },
+  {
+    "id": 119,
+    "question": "ஒரு ஒளி ஊடுருவும் கண்ணாடியின் ஒளிவிலகல் எண் 1.5 எனில், அதன் வழியே செல்லும் ஒளியின் திசைவேகம் :",
+    "options": [
+      "$4\\times10^{8}ms^{-1}$",
+      "$2\\times10^{8}ms^{-1}$",
+      "$3\\times10^{8}ms^{-1}$",
+      "$1.9\\times10^{9}ms^{-1}$"
+    ],
+    "correct": 1,
+    "explanation": "ஒளிவிலகல் எண் $\\mu = \\frac{c}{v}$.\n$1.5 = \\frac{3 \\times 10^8}{v} \\Rightarrow v = \\frac{3 \\times 10^8}{1.5} = 2 \\times 10^8$ மீ/வி.",
+    "question_en": "If the refractive index of a transparent glass is 1.5, the velocity of light passing through it is:",
+    "options_en": [
+      "$4\\times10^{8}ms^{-1}$",
+      "$2\\times10^{8}ms^{-1}$",
+      "$3\\times10^{8}ms^{-1}$",
+      "$1.9\\times10^{9}ms^{-1}$"
+    ],
+    "explanation_en": "Refractive index $\\mu = \\frac{c}{v}$.\n$1.5 = \\frac{3 \\times 10^8}{v} \\Rightarrow v = \\frac{3 \\times 10^8}{1.5} = 2 \\times 10^8$ m/s."
+  },
+  {
+    "id": 120,
+    "question": "ஆடிகளில் தோன்றும் பிம்பங்களின் எண்ணிக்கை ஆடிகளுக்கிடையே உள்ள _________ சார்ந்தது.",
+    "options": [
+      "சாய்வுக் கோணத்தை",
+      "தளக் கோணத்தை",
+      "படு கோணத்தை",
+      "விலகுகோணத்தை"
+    ],
+    "correct": 0,
+    "explanation": "இரண்டு சமதள ஆடிகளுக்கு இடையே உள்ள சாய்வுக் கோணத்தைப் (Angle of inclination) பொறுத்தே தோன்றும் பிம்பங்களின் எண்ணிக்கை அமையும் ($n = \\frac{360}{\\theta} - 1$).",
+    "question_en": "The number of images formed in mirrors depends on the _________ between the mirrors.",
+    "options_en": [
+      "Angle of inclination",
+      "Plane angle",
+      "Angle of incidence",
+      "Angle of refraction"
+    ],
+    "explanation_en": "The number of images formed depends directly on the angle of inclination between two plane mirrors ($n = \\frac{360}{\\theta} - 1$)."
+  },
+  {
+    "id": 121,
+    "question": "ஒரு நேர்க்கோட்டுப் பாதையில் 36 கி.மீ./மணி என்ற திசைவேகத்தில் இயங்கிக் கொண்டிருக்கும் கார் 10 வினாடியில் 18 கி.மீ./மணி என்ற திசைவேகத்தினை அடைகிறது. சீரான எதிர் முடுக்கத்தினைக் கொண்டிருந்தால் அதன் எதிர் முடுக்கம் :",
+    "options": [
+      "-0.5 மீ/வி²",
+      "-1.8 மீ/வி²",
+      "-3.0 மீ/வி²",
+      "0.5 மீ/வி²"
+    ],
+    "correct": 3,
+    "explanation": "தொடக்க திசைவேகம் $u = 36$ கி.மீ/மணி = 10 மீ/வி.\nஇறுதி திசைவேகம் $v = 18$ கி.மீ/மணி = 5 மீ/வி.\nமுடுக்கம் $a = \\frac{v-u}{t} = \\frac{5 - 10}{10} = -0.5$ மீ/வி².\nகேட்கப்பட்டது எதிர் முடுக்கம் (Deceleration) என்பதால் மதிப்பு $0.5$ மீ/வி² ஆகும்.",
+    "question_en": "A car moving on a straight path with a velocity of 36 km/h reaches a velocity of 18 km/h in 10 seconds. Assuming uniform deceleration, its deceleration is:",
+    "options_en": [
+      "-0.5 m/s²",
+      "-1.8 m/s²",
+      "-3.0 m/s²",
+      "0.5 m/s²"
+    ],
+    "explanation_en": "Initial velocity $u = 36$ km/h = 10 m/s.\nFinal velocity $v = 18$ km/h = 5 m/s.\nAcceleration $a = \\frac{v-u}{t} = \\frac{5 - 10}{10} = -0.5$ m/s².\nSince deceleration is asked, the value is $0.5$ m/s²."
+  },
+  {
+    "id": 122,
+    "question": "பொருத்துக:\n(a) ஓரணு மூலக்கூறு - (i) சல்பர்\n(b) ஈரணு மூலக்கூறு - (ii) மந்த வாயுக்கள்\n(c) மூவணு மூலக்கூறு - (iii) ஆக்ஸிஜன்\n(d) பல் அணு மூலக்கூறு - (iv) ஓசோன்",
+    "options": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    ],
+    "correct": 0,
+    "explanation": "மந்த வாயுக்கள் ஓரணு மூலக்கூறுகள் (ii). ஆக்ஸிஜன் ($O_2$) ஈரணு மூலக்கூறு (iii). ஓசோன் ($O_3$) மூவணு மூலக்கூறு (iv). சல்பர் ($S_8$) பல் அணு மூலக்கூறு (i).",
+    "question_en": "Match the following:\n(a) Monoatomic molecule - (i) Sulfur\n(b) Diatomic molecule - (ii) Noble gases\n(c) Triatomic molecule - (iii) Oxygen\n(d) Polyatomic molecule - (iv) Ozone",
+    "options_en": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    ],
+    "explanation_en": "Noble gases are monoatomic molecules (ii). Oxygen ($O_2$) is a diatomic molecule (iii). Ozone ($O_3$) is a triatomic molecule (iv). Sulfur ($S_8$) is a polyatomic molecule (i)."
+  },
+  {
+    "id": 123,
+    "question": "பின்வருவனவற்றுள் எத்தனை இயற்பியல் மாற்றங்கள் உள்ளன ?\nஉருகுதல், உறைதல், துருப்பிடித்தல், கொதித்தல், நொதித்தல், தயிராதல், ஆவிசுருங்குதல்.",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correct": 2,
+    "explanation": "உருகுதல், உறைதல், கொதித்தல், ஆவிசுருங்குதல் ஆகிய நான்கும் (4) இயற்பியல் மாற்றங்கள் ஆகும். மீதமுள்ள துருப்பிடித்தல், நொதித்தல், தயிராதல் மூன்றும் வேதியியல் மாற்றங்கள்.",
+    "question_en": "How many of the following are physical changes?\nMelting, freezing, rusting, boiling, fermentation, curdling, condensation.",
+    "options_en": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "explanation_en": "Melting, freezing, boiling, and condensation are the four (4) physical changes. The remaining (rusting, fermentation, curdling) are chemical changes."
+  },
+  {
+    "id": 124,
+    "question": "ஈஸ்ட் என்பது ஒரு:",
+    "options": [
+      "பூஞ்சை",
+      "வினையூக்கி",
+      "நுண்ணுயிரி",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "ஈஸ்ட் என்பது ஒரு செல் பூஞ்சையாகும், இது ஒரு நுண்ணுயிரியும் கூட. மேலும் இது நொதித்தல் போன்ற வினைகளில் உயிரியல் வினையூக்கியாகவும் செயல்படுகிறது. எனவே அனைத்தும் சரி.",
+    "question_en": "Yeast is a:",
+    "options_en": [
+      "Fungus",
+      "Catalyst",
+      "Microorganism",
+      "All of these"
+    ],
+    "explanation_en": "Yeast is a single-celled fungus, which makes it a microorganism. It also acts as a biological catalyst in reactions like fermentation. Therefore, all options are correct."
+  },
+  {
+    "id": 125,
+    "question": "கூற்று (A): பனிக்கட்டி வெப்பத்தை ஏற்று உருகி நீராகிறது.\nகாரணம் (R): மேற்கண்ட நிகழ்வு வெப்பம் ஏற்கும் மாற்றம் ஆகும்.",
+    "options": [
+      "(A) மற்றும் (R) சரி.",
+      "(A) மற்றும் (R) தவறு.",
+      "(A) சரி ஆனால் (R), (A)-ஐ விளக்கவில்லை.",
+      "(A) சரி மற்றும் (R), (A)-ஐ விளக்குகிறது."
+    ],
+    "correct": 3,
+    "explanation": "திண்மம் திரவமாக மாறுவதற்கு சுற்றுப்புறத்தில் இருந்து வெப்பத்தை உறிஞ்ச வேண்டும். இது வெப்பம் ஏற்கும் (Endothermic) மாற்றமாகும். எனவே கூற்றும் காரணமும் சரி.",
+    "question_en": "Assertion (A): Ice absorbs heat and melts into water.\nReason (R): The above process is an endothermic change.",
+    "options_en": [
+      "Both (A) and (R) are correct.",
+      "Both (A) and (R) are incorrect.",
+      "(A) is correct but (R) does not explain (A).",
+      "(A) is correct and (R) explains (A)."
+    ],
+    "explanation_en": "For a solid to turn into a liquid, it must absorb heat from the surroundings. This is an endothermic change. Therefore, both assertion and reason are correct."
+  },
+  {
+    "id": 126,
+    "question": "பொருத்துக:\n(a) இயற்கை பலபடிகள் - (i) செல்லுலோஸ்\n(b) செயற்கை பலபடிகள் - (ii) தோல்\n(c) புரத பலபடிகள் - (iii) மனித உடல்\n(d) கார்போஹைட்ரேட் பலபடிகள் - (iv) பிளாஸ்டிக்",
+    "options": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    ],
+    "correct": 0,
+    "explanation": "இயற்கை பலபடிகள் - மனித உடல் (iii). செயற்கை பலபடிகள் - பிளாஸ்டிக் (iv). புரத பலபடிகள் - தோல், தசை (ii). கார்போஹைட்ரேட் பலபடிகள் - செல்லுலோஸ் (i).",
+    "question_en": "Match the following:\n(a) Natural polymers - (i) Cellulose\n(b) Synthetic polymers - (ii) Skin\n(c) Protein polymers - (iii) Human body\n(d) Carbohydrate polymers - (iv) Plastic",
+    "options_en": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    ],
+    "explanation_en": "Natural polymers - Human body (iii). Synthetic polymers - Plastic (iv). Protein polymers - Skin, Muscle (ii). Carbohydrate polymers - Cellulose (i)."
+  },
+  {
+    "id": 127,
+    "question": "நெகிழி (Plastic) உண்ணும் பாக்டீரியா:",
+    "options": [
+      "அசட்டோபாக்டர்",
+      "நைட்ரோசோமோனாஸ்",
+      "ஐடெனல்லா சகீயன்சிஸ்",
+      "சால்மோனெல்லா"
+    ],
+    "correct": 2,
+    "explanation": "ஐடெனல்லா சகீயன்சிஸ் (Ideonella sakaiensis) என்ற பாக்டீரியா PET வகையான பிளாஸ்டிக்குகளை சிதைத்து உண்ணும் திறன் கொண்டது என ஜப்பானிய அறிஞர்கள் கண்டுபிடித்தனர்.",
+    "question_en": "Plastic-eating bacteria:",
+    "options_en": [
+      "Acetobacter",
+      "Nitrosomonas",
+      "Ideonella sakaiensis",
+      "Salmonella"
+    ],
+    "explanation_en": "Japanese scientists discovered that the bacteria Ideonella sakaiensis has the ability to degrade and consume PET plastics."
+  },
+  {
+    "id": 128,
+    "question": "பொருந்தாத இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "நியூட்ரான் - ஜேம்ஸ் சாட்விக்",
+      "புரோட்டான் - ஜான் டால்டன்",
+      "நியூக்ளியஸ் - ஏர்னஸ்ட் ரூதர்ஃபோர்டு",
+      "எலக்ட்ரான் - ஜே.ஜே.தாம்சன்"
+    ],
+    "correct": 1,
+    "explanation": "புரோட்டானைக் கண்டுபிடித்தவர் கோல்ட்ஸ்டீன் (Goldstein), பெயரிட்டவர் ரூதர்ஃபோர்டு. ஜான் டால்டன் அணுக்கொள்கையை மட்டுமே வெளியிட்டார். எனவே இது தவறான இணை.",
+    "question_en": "Choose the incorrect pair.",
+    "options_en": [
+      "Neutron - James Chadwick",
+      "Proton - John Dalton",
+      "Nucleus - Ernest Rutherford",
+      "Electron - J.J. Thomson"
+    ],
+    "explanation_en": "Proton was discovered by Goldstein and named by Rutherford. John Dalton only proposed the atomic theory. Hence, this is the incorrect pair."
+  },
+  {
+    "id": 129,
+    "question": "கார்பன் மோனாக்சைடு எதற்கு வழி வகுக்கிறது?",
+    "options": [
+      "சுவாசப் பிரச்சினை",
+      "உலக வெப்பமயமாதல்",
+      "அமில மழை",
+      "வாந்தி"
+    ],
+    "correct": 0,
+    "explanation": "கார்பன் மோனாக்சைடு (CO) நச்சுத்தன்மை வாய்ந்தது. இது இரத்தத்தில் ஆக்ஸிஜன் செல்வதைத் தடுத்து கடுமையான சுவாசப் பிரச்சினைகளையும் மூச்சுத்திணறலையும் ஏற்படுத்தும்.",
+    "question_en": "Carbon monoxide leads to:",
+    "options_en": [
+      "Respiratory problems",
+      "Global warming",
+      "Acid rain",
+      "Vomiting"
+    ],
+    "explanation_en": "Carbon monoxide (CO) is highly toxic. It binds with hemoglobin, preventing oxygen transport in the blood, leading to severe respiratory problems and asphyxiation."
+  },
+  {
+    "id": 130,
+    "question": "$H_{3}PO_{4}$ -ன் எதிரயனி :",
+    "options": [
+      "PO",
+      "$PO_{4}^{3-}$",
+      "${PO_{4}}^{2-}$",
+      "$PO_{4}^{-}$"
+    ],
+    "correct": 1,
+    "explanation": "பாஸ்பாரிக் அமிலம் ($H_{3}PO_{4}$) அயனியாகப் பிரியும்போது மூன்று $H^+$ அயனிகளையும், ஒரு $PO_4^{3-}$ (பாஸ்பேட்) எதிரயனியையும் தரும்.",
+    "question_en": "The anion of $H_{3}PO_{4}$ is:",
+    "options_en": [
+      "PO",
+      "$PO_{4}^{3-}$",
+      "${PO_{4}}^{2-}$",
+      "$PO_{4}^{-}$"
+    ],
+    "explanation_en": "When phosphoric acid ($H_{3}PO_{4}$) dissociates into ions, it yields three $H^+$ cations and one $PO_4^{3-}$ (phosphate) anion."
+  },
+  {
+    "id": 131,
+    "question": "சரியான இணை/இணைகளைத் தேர்ந்தெடுக்கவும்.\n(a) அல்கலிகள் - நீரில் கரையும் காரங்கள்\n(b) காரங்கள் - நீல லிட்மஸ் தாளை சிவப்பாக மாற்றும்\n(c) அமிலங்கள் - மின்சாரத்தைக் கடத்தும்",
+    "options": [
+      "(a) மட்டும்",
+      "(b) மற்றும் (c) மட்டும்",
+      "(a) மற்றும் (c) மட்டும்",
+      "(c) மட்டும்"
+    ],
+    "correct": 2,
+    "explanation": "நீரில் கரையும் காரங்கள் அல்கலிகள் எனப்படும் (சரி). காரங்கள் சிவப்பு லிட்மஸை நீலமாக மாற்றும், நீலத்தை சிவப்பாக மாற்றுவது அமிலங்கள் (தவறு). அமிலங்கள் மின்சாரத்தைக் கடத்தும் (சரி).",
+    "question_en": "Select the correct pair(s).\n(a) Alkalis - Water-soluble bases\n(b) Bases - Turn blue litmus red\n(c) Acids - Conduct electricity",
+    "options_en": [
+      "(a) only",
+      "(b) and (c) only",
+      "(a) and (c) only",
+      "(c) only"
+    ],
+    "explanation_en": "Water-soluble bases are called alkalis (True). Bases turn red litmus blue; acids turn blue litmus red (False). Acids conduct electricity (True)."
+  },
+  {
+    "id": 132,
+    "question": "X-கதிர் இயந்திரங்களில் பயன்படுத்தப்படும் உலோகம் :",
+    "options": [
+      "தாமிரம்",
+      "வெள்ளி",
+      "காரீயம்",
+      "அலுமினியம்"
+    ],
+    "correct": 2,
+    "explanation": "X-கதிர்கள் மனித உடலைத் துளைத்துச் செல்லக்கூடியவை என்பதால், தேவையற்ற கதிர்வீச்சைத் தடுக்க காரீயம் (Lead) உலோகம் பாதுகாப்புத் திரையாகப் பயன்படுத்தப்படுகிறது.",
+    "question_en": "The metal used in X-ray machines is:",
+    "options_en": [
+      "Copper",
+      "Silver",
+      "Lead",
+      "Aluminum"
+    ],
+    "explanation_en": "Since X-rays can penetrate the human body, Lead is used as a protective shield to block unwanted radiation."
+  },
+  {
+    "id": 133,
+    "question": "பொருத்துக:\n(a) தூண் வேர் - (i) வெற்றிலை\n(b) முட்டு வேர் - (ii) ஆலமரம்\n(c) குமிழம் - (iii) கரும்பு\n(d) பற்று வேர் - (iv) பூண்டு",
+    "options": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    ],
+    "correct": 0,
+    "explanation": "ஆலமரம் - தூண் வேர் (ii). கரும்பு - முட்டு வேர் (iii). பூண்டு, வெங்காயம் - குமிழம் (iv). வெற்றிலை, மிளகு - பற்று வேர்கள் (i).",
+    "question_en": "Match the following:\n(a) Prop root - (i) Betel\n(b) Stilt root - (ii) Banyan tree\n(c) Bulb - (iii) Sugarcane\n(d) Climbing root - (iv) Garlic",
+    "options_en": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    ],
+    "explanation_en": "Banyan tree - Prop root (ii). Sugarcane - Stilt root (iii). Garlic, Onion - Bulb (iv). Betel, Pepper - Climbing roots (i)."
+  },
+  {
+    "id": 134,
+    "question": "தாவர உலகின் மிகச் சிறிய விதை :",
+    "options": [
+      "குரோட்டன்",
+      "ஆர்க்கிட்",
+      "டெரிடொபைட்",
+      "பூஞ்சை"
+    ],
+    "correct": 1,
+    "explanation": "ஆர்க்கிட் (Orchid) தாவரத்தின் விதைகளே தாவர உலகிலேயே மிகச் சிறிய மற்றும் எடை குறைவான விதைகளாகும் (சுமார் 35 மில்லியன் விதைகள் சேர்ந்தால் தான் 25 கிராம் இருக்கும்).",
+    "question_en": "The smallest seed in the plant kingdom is:",
+    "options_en": [
+      "Croton",
+      "Orchid",
+      "Pteridophyte",
+      "Fungi"
+    ],
+    "explanation_en": "Orchid seeds are the smallest and lightest seeds in the plant kingdom (it takes about 35 million seeds to weigh 25 grams)."
+  },
+  {
+    "id": 135,
+    "question": "கோழிகளுக்கு பூஞ்சையினால் உருவாகும் நோய் :",
+    "options": [
+      "சால்மோனெல்லோசிஸ்",
+      "ரானிக்கெட்",
+      "ஆந்த்ராக்ஸ்",
+      "ஆஸ்பர்ஜில்லஸ்"
+    ],
+    "correct": 3,
+    "explanation": "சால்மோனெல்லோசிஸ் - பாக்டீரியா நோய். ரானிக்கெட் - வைரஸ் நோய். கோழிகளைத் தாக்கும் பூஞ்சை நோய் ஆஸ்பர்ஜில்லோசிஸ் (Aspergillus) ஆகும்.",
+    "question_en": "The fungal disease in poultry is:",
+    "options_en": [
+      "Salmonellosis",
+      "Ranikhet",
+      "Anthrax",
+      "Aspergillosis"
+    ],
+    "explanation_en": "Salmonellosis is a bacterial disease. Ranikhet is a viral disease. The fungal disease affecting poultry is Aspergillosis (caused by Aspergillus)."
+  },
+  {
+    "id": 136,
+    "question": "ஈறுகளில் இரத்தக் கசிவுக்கு தீர்வு காண உண்ண வேண்டியது:",
+    "options": [
+      "ஆப்பிள்",
+      "மாம்பழம்",
+      "பலாப்பழம்",
+      "சிட்ரஸ் பழங்கள்"
+    ],
+    "correct": 3,
+    "explanation": "ஈறுகளில் ரத்தக்கசிவு ஏற்படுவது ஸ்கர்வி (Scurvy) எனப்படும் வைட்டமின் சி குறைபாட்டினால் ஆகும். வைட்டமின் சி அதிகம் உள்ள சிட்ரஸ் பழங்களை (எலுமிச்சை, நெல்லி) உண்ண வேண்டும்.",
+    "question_en": "To cure bleeding gums, one should consume:",
+    "options_en": [
+      "Apple",
+      "Mango",
+      "Jackfruit",
+      "Citrus fruits"
+    ],
+    "explanation_en": "Bleeding gums are a symptom of Scurvy, caused by Vitamin C deficiency. One should eat citrus fruits (lemon, amla) which are rich in Vitamin C."
+  },
+  {
+    "id": 137,
+    "question": "ஒவ்வொரு செல்லும் அதன் அருகில் உள்ள செல்களுடன் இணைத்துக் கொள்ளும் துவாரம்:",
+    "options": [
+      "சைக்ளோ டெஸ்மாட்டா",
+      "பிளாஸ்மோ டெஸ்மாட்டா",
+      "நியூக்ளியோ டெஸ்மாட்டா",
+      "புரோட்டோ டெஸ்மாட்டா"
+    ],
+    "correct": 1,
+    "explanation": "தாவர செல்களுக்கு இடையே பொருட்கள் பரிமாற்றம் நடைபெற செல் சுவரில் உள்ள நுண்ணிய இணைப்புக் குழாய்கள் பிளாஸ்மோடெஸ்மாட்டா (Plasmodesmata) எனப்படுகின்றன.",
+    "question_en": "The pore through which each cell connects with its adjacent cells is:",
+    "options_en": [
+      "Cyclodesmata",
+      "Plasmodesmata",
+      "Nucleodesmata",
+      "Protodesmata"
+    ],
+    "explanation_en": "The microscopic channels across the cell walls of plant cells that facilitate transport and communication are known as Plasmodesmata."
+  },
+  {
+    "id": 138,
+    "question": "தேங்காயின் தாவரவியல் பெயர்:",
+    "options": [
+      "அல்லியம் சட்டைவம்",
+      "ஒரைசா சட்டைவா",
+      "காக்கஸ் நியூசிபெரா",
+      "சிட்ரஸ் செனன்ஸிஸ்"
+    ],
+    "correct": 2,
+    "explanation": "தேங்காயின் தாவரவியல் பெயர் காக்கஸ் நியூசிபெரா (Cocos nucifera). அல்லியம் சட்டைவம் - பூண்டு, ஒரைசா சட்டைவா - நெல்.",
+    "question_en": "The botanical name of coconut is:",
+    "options_en": [
+      "Allium sativum",
+      "Oryza sativa",
+      "Cocos nucifera",
+      "Citrus sinensis"
+    ],
+    "explanation_en": "The botanical name of coconut is Cocos nucifera. Allium sativum is garlic; Oryza sativa is rice."
+  },
+  {
+    "id": 139,
+    "question": "பொருந்தாத இணை/இணைகளைக் கண்டறியவும்.\n(a) மெல்லுடலிகள் - கடினமான உடல் மற்றும் ஓடு இல்லாதவை\n(b) கணுக்காலிகள் - இணைப்புகள் இல்லா கால்கள்\n(c) தட்டைப்புழுக்கள் - சுடர் செல்கள்\n(d) வளைதசைக் கண்டப்புழுக்கள் - கண்டங்களால் ஆன உடல்",
+    "options": [
+      "(a) மட்டும்",
+      "(c) மற்றும் (d) மட்டும்",
+      "(c) மட்டும்",
+      "(a) மற்றும் (b) மட்டும்"
+    ],
+    "correct": 3,
+    "explanation": "மெல்லுடலிகள் (Molluscs) மிருதுவான உடலும் ஓடும் கொண்டவை (எனவே a தவறு). கணுக்காலிகள் (Arthropods) இணைப்புக் கால்களைக் கொண்டவை (எனவே b தவறு). தவறானவை a மற்றும் b.",
+    "question_en": "Find the mismatched pair(s).\n(a) Molluscs - Hard body and no shell\n(b) Arthropods - Unjointed legs\n(c) Flatworms - Flame cells\n(d) Annelids - Segmented body",
+    "options_en": [
+      "(a) only",
+      "(c) and (d) only",
+      "(c) only",
+      "(a) and (b) only"
+    ],
+    "explanation_en": "Molluscs have soft bodies and generally a shell (so (a) is wrong). Arthropods are characterized by jointed appendages (so (b) is wrong). Thus, (a) and (b) are incorrect pairs."
+  },
+  {
+    "id": 140,
+    "question": "இழை வடிவம் உடைய பாசி :",
+    "options": [
+      "ஸ்பைரோகைரா",
+      "வால்வாக்ஸ்",
+      "கிளாமிடோமோனாஸ்",
+      "குளோரெல்லா"
+    ],
+    "correct": 0,
+    "explanation": "ஸ்பைரோகைரா (Spirogyra) என்பது பல செல்கள் ஒன்றோடொன்று இணைந்து உருவான நூல் போன்ற இழை வடிவப் (Filamentous) பாசியாகும்.",
+    "question_en": "Filamentous algae:",
+    "options_en": [
+      "Spirogyra",
+      "Volvox",
+      "Chlamydomonas",
+      "Chlorella"
+    ],
+    "explanation_en": "Spirogyra is a filamentous green algae consisting of multiple cells joined end-to-end like a thread."
+  },
+  {
+    "id": 141,
+    "question": "உட்கருவின் உள்ளே உள்ள திரவம் _________ என்றும், வெளியே உள்ள திரவம் _________ என்றும் அழைக்கப்படுகிறது.",
+    "options": [
+      "சைட்டோபிளாசம், புரோட்டோபிளாசம்",
+      "பசுங்கணிகம், புரோட்டோபிளாஸ்ட்",
+      "நியூக்ளியோஃபிளாசம், சைட்டோபிளாசம்",
+      "ஜெர்ம்ப்ளாசம், என்டோபிளாசம்"
+    ],
+    "correct": 2,
+    "explanation": "உட்கருவின் (Nucleus) உள்ளே இருக்கும் திரவம் நியூக்ளியோபிளாசம் எனப்படும். உட்கருவுக்கும் செல்சவ்வுக்கும் இடையே உள்ள திரவம் சைட்டோபிளாசம் எனப்படும்.",
+    "question_en": "The fluid inside the nucleus is called _________ and the fluid outside it is called _________.",
+    "options_en": [
+      "Cytoplasm, Protoplasm",
+      "Chloroplast, Protoplast",
+      "Nucleoplasm, Cytoplasm",
+      "Germplasm, Endoplasm"
+    ],
+    "explanation_en": "The fluid present inside the nucleus is known as nucleoplasm. The fluid present between the nucleus and the cell membrane is known as cytoplasm."
+  },
+  {
+    "id": 142,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "ஜிங்கோ பைலோபா",
+      "பைனஸ்",
+      "சைலோட்டம்",
+      "சைக்கஸ்"
+    ],
+    "correct": 2,
+    "explanation": "சைலோட்டம் (Psilotum) என்பது விதைகளற்ற டெரிடோபைட் வகைத் தாவரமாகும். மற்ற மூன்றும் திறந்த விதைகளை உடைய ஜிம்னோஸ்பெர்ம்கள் ஆகும்.",
+    "question_en": "Select the odd one out.",
+    "options_en": [
+      "Ginkgo biloba",
+      "Pinus",
+      "Psilotum",
+      "Cycas"
+    ],
+    "explanation_en": "Psilotum is a seedless vascular plant (pteridophyte). The other three are gymnosperms (plants with naked seeds)."
+  },
+  {
+    "id": 143,
+    "question": "சரியான கூற்றுக்களைத் தேர்ந்தெடுக்கவும்.\n(a) பிரயான்கள் டி.என்.ஏ மற்றும் ஆர்.என்.ஏ-வை கொண்டிருக்கும்.\n(b) நுண்ணுயிரிகளால் நடைபெறும் நொதித்தல் நிகழ்வின் மூலம் கரிம அமிலங்கள், ஆல்கஹால் மற்றும் எஸ்டர்கள் உருவாகின்றன.\n(c) ஈஸ்ட்கள் லைப்பேஸ் என்னும் நொதியின் உதவியினால் நொதித்தலில் ஈடுபடுகின்றன.\n(d) கிளாமிடோமோனாஸில் பால் மற்றும் பாலிலா முறையில் இனப்பெருக்கம் நடைபெறுகிறது.",
+    "options": [
+      "(a), (b) மற்றும் (c) மட்டும்",
+      "(b) மற்றும் (d) மட்டும்",
+      "(a) மற்றும் (c) மட்டும்",
+      "(b), (c) மற்றும் (d) மட்டும்"
+    ],
+    "correct": 1,
+    "explanation": "பிரயான்களில் (Prions) மரபுப்பொருள் கிடையாது, அவை வெறும் புரதங்கள் (a தவறு). ஈஸ்ட் ஜைமேஸ் (Zymase) என்ற நொதி மூலம் நொதித்தலில் ஈடுபடும் (c தவறு). b மற்றும் d சரியானவை.",
+    "question_en": "Select the correct statements.\n(a) Prions contain DNA and RNA.\n(b) Fermentation by microorganisms produces organic acids, alcohol, and esters.\n(c) Yeasts undergo fermentation with the help of the enzyme lipase.\n(d) Chlamydomonas reproduces sexually and asexually.",
+    "options_en": [
+      "(a), (b) and (c) only",
+      "(b) and (d) only",
+      "(a) and (c) only",
+      "(b), (c) and (d) only"
+    ],
+    "explanation_en": "Prions are purely infectious proteins and contain no genetic material (a is false). Yeasts ferment using the enzyme zymase, not lipase (c is false). Statements b and d are correct."
+  },
+  {
+    "id": 144,
+    "question": "கண்ணின் லென்சுக்கும், விழி வெண்படலத்துக்கும் இடையே நிரம்பியுள்ள திரவம்:",
+    "options": [
+      "அக்குவஸ் திரவம்",
+      "விட்ரியஸ் திரவம்",
+      "கஞ்சக்டிவா",
+      "மாக்யுலர் எடிமா"
+    ],
+    "correct": 0,
+    "explanation": "கண்ணின் லென்சுக்கும் கார்னியாவிற்கும் (விழி வெண்படலம்) இடையே உள்ள முன் அறையில் நிரம்பியுள்ள திரவம் அக்குவஸ் திரவம் (Aqueous Humour) ஆகும்.",
+    "question_en": "The fluid filled between the eye lens and the cornea is:",
+    "options_en": [
+      "Aqueous humour",
+      "Vitreous humour",
+      "Conjunctiva",
+      "Macular edema"
+    ],
+    "explanation_en": "The clear fluid filling the space in the front of the eyeball between the lens and the cornea is called the Aqueous Humour."
+  },
+  {
+    "id": 145,
+    "question": "தவறான இணை/இணைகளைத் தேர்ந்தெடுக்கவும்.\n(a) கீல்மூட்டு - ஒரு திசையில் மட்டுமே இயக்கம்\n(b) முண்டணையா மூட்டு - மூன்று திசைகளில் இயக்கம்\n(c) பந்துக் கிண்ண மூட்டு - இரண்டு திசைகளில் இயக்கம்",
+    "options": [
+      "(a) மட்டும்",
+      "(c) மட்டும்",
+      "(a) மற்றும் (c) மட்டும்",
+      "(b) மற்றும் (c) மட்டும்"
+    ],
+    "correct": 3,
+    "explanation": "முண்டணையா மூட்டு (Condyloid joint) இரண்டு திசைகளில் மட்டுமே இயங்கும். பந்துக்கிண்ண மூட்டு (Ball and socket joint) அனைத்து (மூன்று) திசைகளிலும் இயங்கும். எனவே b மற்றும் c தவறு.",
+    "question_en": "Select the incorrect pair(s).\n(a) Hinge joint - Movement in one direction only\n(b) Condyloid joint - Movement in three directions\n(c) Ball and socket joint - Movement in two directions",
+    "options_en": [
+      "(a) only",
+      "(c) only",
+      "(a) and (c) only",
+      "(b) and (c) only"
+    ],
+    "explanation_en": "Condyloid joint allows movement in two directions. Ball and socket joint allows movement in all (three) directions. Therefore, (b) and (c) are incorrect."
+  },
+  {
+    "id": 146,
+    "question": "பொருத்துக:\n(a) திருவாலங்காடு செப்பேடு - (i) முகமது பின் துக்ளக்\n(b) அன்பில் செப்பேடு - (ii) இராஜேந்திர சோழன்\n(c) செப்பு நாணயங்கள் - (iii) இல்துமிஷ்\n(d) 'டங்கா' வெள்ளி நாணயங்கள் - (iv) சுந்தரச் சோழன்",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+    ],
+    "correct": 0,
+    "explanation": "திருவாலங்காடு செப்பேடுகள் - இராஜேந்திர சோழன் (ii). அன்பில் செப்பேடுகள் - சுந்தரச் சோழன் (iv). அடையாள செப்பு நாணயங்கள் - முகமது பின் துக்ளக் (i). டங்கா நாணயங்கள் - இல்துமிஷ் (iii).",
+    "question_en": "Match the following:\n(a) Thiruvalangadu plates - (i) Muhammad bin Tughlaq\n(b) Anbil plates - (ii) Rajendra Chola\n(c) Copper coins - (iii) Iltutmish\n(d) 'Tanka' silver coins - (iv) Sundara Chola",
+    "options_en": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+    ],
+    "explanation_en": "Thiruvalangadu copper plates - Rajendra Chola (ii). Anbil copper plates - Sundara Chola (iv). Token copper coins - Muhammad bin Tughlaq (i). Tanka silver coins - Iltutmish (iii)."
+  },
+  {
+    "id": 147,
+    "question": "வெனிஸ் நாட்டைச் சேர்ந்த புகழ்பெற்ற பயணியான _________ இரண்டு முறை காயலுக்கு வருகை தந்தார்.",
+    "options": [
+      "வாஸ்கோடகாமா",
+      "கிறிஸ்டோபர் கொலம்பஸ்",
+      "மார்க்கோ போலோ",
+      "பார்த்தலோமியா டயஸ்"
+    ],
+    "correct": 2,
+    "explanation": "பிற்கால பாண்டியர்களின் காலத்தில், இத்தாலியின் வெனிஸ் நகரப் பயணியான மார்க்கோ போலோ புகழ்பெற்ற துறைமுகமான காயலுக்கு இருமுறை வருகை தந்துள்ளார்.",
+    "question_en": "The famous traveler from Venice, _________, visited Kayal twice.",
+    "options_en": [
+      "Vasco da Gama",
+      "Christopher Columbus",
+      "Marco Polo",
+      "Bartholomeu Dias"
+    ],
+    "explanation_en": "During the later Pandya period, Marco Polo, a famous traveler from Venice, Italy, visited the prominent port city of Kayal twice."
+  },
+  {
+    "id": 148,
+    "question": "பெரிய வடிவிலான அலங்கார வேலைப்பாடுகளுடன் கூடிய ஒற்றைக் கல் தூண்கள் _________ -ன் தனித் தன்மை வாய்ந்த பணியாகும்.",
+    "options": [
+      "இடைக்காலப் பாண்டியர்கள்",
+      "முற்காலப் பாண்டியர்கள்",
+      "பிற்காலச் சோழர்கள்",
+      "முற்காலச் சோழர்கள்"
+    ],
+    "correct": 0,
+    "explanation": "குடைவரைக் கோயில்கள் மற்றும் ஒற்றைக்கல்லில் செதுக்கப்பட்ட அலங்காரப் பெரிய தூண்கள் இடைக்காலப் பாண்டியர்கள் (Medieval Pandyas) காலத்துக் கட்டிடக்கலையின் சிறப்பம்சங்களாகும்.",
+    "question_en": "Large monolithic pillars with decorative works are a unique feature of the _________.",
+    "options_en": [
+      "Medieval Pandyas",
+      "Early Pandyas",
+      "Later Cholas",
+      "Early Cholas"
+    ],
+    "explanation_en": "Rock-cut temples and large decorative monolithic pillars are the prominent architectural features of the Medieval Pandyas."
+  },
+  {
+    "id": 149,
+    "question": "கீழ்வருவனவற்றுள் சரியான கூற்று/கூற்றுகளைத் தேர்ந்தெடுக்கவும்.\n(a) இல்துமிஷ் தனது படைகளில் பணியாற்றியோர்க்கு இக்தாக்களை (நிலங்கள்) வழங்கினார்.\n(b) 'இக்தா' என்பது இராணுவ அதிகாரிகளுக்கு வழங்கப்பட வேண்டிய உயர்பதவிக்காக கொடுக்கப்பட்ட நிலமாகும்.\n(c) நிலத்தைப் பெற்றவர் இக்தாதார் அல்லது முக்தி என்றழைக்கப்பட்டார்.\n(d) இக்தாதார் தனக்கு வழங்கப்பட்ட நிலங்களிலிருந்து வரிவசூல் செய்து கொள்வார்.",
+    "options": [
+      "(a) மற்றும் (b) மட்டும்",
+      "(c) மற்றும் (d) மட்டும்",
+      "(b) மட்டும்",
+      "(a), (c) மற்றும் (d) மட்டும்"
+    ],
+    "correct": 3,
+    "explanation": "இக்தா என்பது ஊதியத்திற்கு (Salary) பதிலாக வழங்கப்பட்ட நிலமே தவிர, உயர்பதவிக்காக அல்ல. எனவே கூற்று (b) தவறு. மற்ற மூன்றும் சரி.",
+    "question_en": "Select the correct statement(s) among the following.\n(a) Iltutmish granted iqtas (lands) to those who served in his army.\n(b) 'Iqta' is land given to military officers in exchange for high-ranking positions.\n(c) The recipient of the land was called an Iqtadar or Muqti.\n(d) The Iqtadar would collect taxes from the land granted to him.",
+    "options_en": [
+      "(a) and (b) only",
+      "(c) and (d) only",
+      "(b) only",
+      "(a), (c) and (d) only"
+    ],
+    "explanation_en": "Iqta was land granted in lieu of salary, not for high-ranking positions. Thus, statement (b) is wrong. The other three are correct."
+  },
+  {
+    "id": 150,
+    "question": "மேவார் அரசரான ராணா உதயசிங்கை அக்பர் _________ -இல் தோற்கடித்து சித்தூரைக் கைப்பற்றினார்.",
+    "options": [
+      "1576",
+      "1569",
+      "1568",
+      "1556"
+    ],
+    "correct": 2,
+    "explanation": "கி.பி. 1568 ஆம் ஆண்டில், அக்பர் மேவார் மீது படையெடுத்து ராணா உதய்சிங்கைத் தோற்கடித்து அதன் தலைநகரான சித்தூர்கார் கோட்டையைக் கைப்பற்றினார்.",
+    "question_en": "Akbar defeated Rana Uday Singh of Mewar and captured Chittor in _________.",
+    "options_en": [
+      "1576",
+      "1569",
+      "1568",
+      "1556"
+    ],
+    "explanation_en": "In 1568 AD, Akbar invaded Mewar, defeated Rana Uday Singh, and captured its capital, the Chittorgarh fort."
+  },
+  {
+    "id": 151,
+    "question": "பின்வரும் நிகழ்வுகளை காலக்கிரமப் படி வரிசைப்படுத்தி சரியான விடையைத் தேர்ந்தெடுக்கவும்.\n(a) ஹால்டிகாட் போர்\n(b) கன்னோஜி போர்\n(c) இரண்டாம் பானிபட் போர்\n(d) தரைன் போர்",
+    "options": [
+      "(d)-(b)-(c)-(a)",
+      "(d)-(c)-(b)-(a)",
+      "(b)-(c)-(d)-(a)",
+      "(c)-(b)-(a)-(d)"
+    ],
+    "correct": 0,
+    "explanation": "தரைன் போர் (1191) $\\rightarrow$ கன்னோஜி போர் (1540) $\\rightarrow$ இரண்டாம் பானிபட் போர் (1556) $\\rightarrow$ ஹால்டிகாட் போர் (1576).",
+    "question_en": "Arrange the following events in chronological order and select the correct answer.\n(a) Battle of Haldighati\n(b) Battle of Kannauj\n(c) Second Battle of Panipat\n(d) Battle of Tarain",
+    "options_en": [
+      "(d)-(b)-(c)-(a)",
+      "(d)-(c)-(b)-(a)",
+      "(b)-(c)-(d)-(a)",
+      "(c)-(b)-(a)-(d)"
+    ],
+    "explanation_en": "Battle of Tarain (1191) $\\rightarrow$ Battle of Kannauj (1540) $\\rightarrow$ Second Battle of Panipat (1556) $\\rightarrow$ Battle of Haldighati (1576)."
+  },
+  {
+    "id": 152,
+    "question": "பாமினி அரசிற்கு வலுவான அடித்தளத்தை அமைத்து கொடுத்தவர்:",
+    "options": [
+      "முதலாம் முகமது ஷா",
+      "முஜாகித்",
+      "இரண்டாம் முகமது ஷா",
+      "அலாவுதீன் ஹசன் பாமன் ஷா"
+    ],
+    "correct": 0,
+    "explanation": "பாமினி பேரரசை நிறுவியவர் அலாவுதீன் ஹசன் பாமன் ஷா என்றாலும், அவ்வரசிற்கான வலுவான நிர்வாக மற்றும் ராணுவ அடித்தளத்தை அமைத்துக் கொடுத்தவர் முதலாம் முகமது ஷா ஆவார்.",
+    "question_en": "The one who laid a strong foundation for the Bahmani Kingdom was:",
+    "options_en": [
+      "Muhammad Shah I",
+      "Mujahid",
+      "Muhammad Shah II",
+      "Alauddin Hasan Bahman Shah"
+    ],
+    "explanation_en": "Although Alauddin Hasan Bahman Shah founded the Bahmani Empire, it was Muhammad Shah I who provided a strong administrative and military foundation for it."
+  },
+  {
+    "id": 153,
+    "question": "வராகன் என்னும் தங்க நாணயங்களை வெளியிட்டவர்கள் :",
+    "options": [
+      "பாமினி சுல்தான்கள்",
+      "விஜயநகர பேரரசர்கள்",
+      "பாலர்கள்",
+      "பிரதிகாரர்கள்"
+    ],
+    "correct": 1,
+    "explanation": "விஜயநகரப் பேரரசர்களின் காலத்தில் வணிகம் செழித்தோங்கியது, அவர்கள் தங்களின் அரசு முத்திரையுடன் கூடிய 'வராகன்' என்றழைக்கப்பட்ட தங்க நாணயங்களை வெளியிட்டனர்.",
+    "question_en": "The ones who issued gold coins called 'Varahan':",
+    "options_en": [
+      "Bahmani Sultans",
+      "Vijayanagara Emperors",
+      "Palas",
+      "Pratiharas"
+    ],
+    "explanation_en": "Trade flourished during the Vijayanagara Empire, and the emperors issued gold coins known as 'Varahan' featuring their royal insignia."
+  },
+  {
+    "id": 154,
+    "question": "ஆஜ்மீர் நகரைத் தோற்றுவித்தவர்:",
+    "options": [
+      "மகிபாலer",
+      "சிம்மராஜ்",
+      "சந்த பார்தை",
+      "பிருதிவிராஜ் சௌகான்"
+    ],
+    "correct": 1,
+    "explanation": "சௌகான் வம்சத்தைச் சேர்ந்த சிம்மராஜ் (Simharaji) என்பவரே புகழ் பெற்ற ஆஜ்மீர் நகரைத் தோற்றுவித்தவர் ஆவார்.",
+    "question_en": "The founder of the city of Ajmer was:",
+    "options_en": [
+      "Mahipala",
+      "Simharaj",
+      "Chand Bardai",
+      "Prithviraj Chauhan"
+    ],
+    "explanation_en": "Simharaj of the Chauhan dynasty was the founder of the famous city of Ajmer."
+  },
+  {
+    "id": 155,
+    "question": "தவறான இணையைக் கண்டறியவும்.",
+    "options": [
+      "குத்புதீன் ஐபக் - குவ்வத்-உல்-இஸ்லாம் மஸ்ஜித்",
+      "இல்துமிஷ் - குதுப்மினாருக்கு அடிக்கல் நாட்டியவர்",
+      "ஔரங்கசீப் - ஆலம்கிர்",
+      "முகமது கோரி மற்றும் பிருதிவிராஜ் சௌகான் - தரைன் போர்"
+    ],
+    "correct": 1,
+    "explanation": "டெல்லியில் உள்ள குதுப்மினாருக்கு அடிக்கல் நாட்டி அதன் கட்டுமானப் பணிகளைத் தொடங்கியவர் குத்புதீன் ஐபக் ஆவார் (இல்துமிஷ் அதை கட்டி முடித்தார்).",
+    "question_en": "Identify the incorrect pair.",
+    "options_en": [
+      "Qutbuddin Aibak - Quwwat-ul-Islam Masjid",
+      "Iltutmish - Laid the foundation for Qutub Minar",
+      "Aurangzeb - Alamgir",
+      "Muhammad Ghori and Prithviraj Chauhan - Battle of Tarain"
+    ],
+    "explanation_en": "Qutbuddin Aibak laid the foundation for Qutub Minar in Delhi and started its construction (Iltutmish completed it)."
+  },
+  {
+    "id": 156,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்று / கூற்றுகளைத் தேர்ந்தெடுக்கவும்.\n(a) பிரான்சிஸ்கோ-டி-அல்மெய்டா முதல் போர்த்துகீசிய ஆளுநர் ஆவார்.\n(b) அல்போன்சா-டி-அல்புகர்க் விஜயநகரப் பேரரசுடன் நட்புமுறையை மேற்கொண்டார்.\n(c) கோவா முதலில் போர்த்துகீசியர்களின் தலைநகரமாயிருந்தது, பிறகு கொச்சிக்கு மாற்றம் செய்யப்பட்டது.",
+    "options": [
+      "(c) மட்டும்",
+      "(a) மற்றும் (c) மட்டும்",
+      "(a) மற்றும் (b) மட்டும்",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "explanation": "போர்த்துகீசியர்களின் முதல் தலைநகரம் கொச்சி, பின்னரே அது கோவாவிற்கு மாற்றப்பட்டது. எனவே கூற்று (c) தவறு. a மற்றும் b சரியானவை.",
+    "question_en": "Select the correct statement(s) from the following.\n(a) Francisco de Almeida was the first Portuguese Governor.\n(b) Alfonso de Albuquerque maintained friendly relations with the Vijayanagara Empire.\n(c) Goa was initially the capital of the Portuguese, later shifted to Cochin.",
+    "options_en": [
+      "(c) only",
+      "(a) and (c) only",
+      "(a) and (b) only",
+      "All of the above"
+    ],
+    "explanation_en": "The first capital of the Portuguese was Cochin, which was later shifted to Goa. Hence, statement (c) is false. Both a and b are correct."
+  },
+  {
+    "id": 157,
+    "question": "வியாபாரத்திற்காக இந்தியாவிற்கு வருகைபுரிந்த கடைசி ஐரோப்பிய நாடு:",
+    "options": [
+      "இங்கிலாந்து",
+      "பிரான்சு",
+      "போர்த்துக்கல்",
+      "டென்மார்க்"
+    ],
+    "correct": 1,
+    "explanation": "இந்தியாவிற்கு வியாபாரத்திற்காக வந்த ஐரோப்பிய நாடுகளில் முதலாவது போர்த்துகீசியர்கள் (1498) மற்றும் கடைசியாக வந்தவர்கள் பிரெஞ்சுக்காரர்கள் (1664) ஆவர்.",
+    "question_en": "The last European country to arrive in India for trade was:",
+    "options_en": [
+      "England",
+      "France",
+      "Portugal",
+      "Denmark"
+    ],
+    "explanation_en": "Among the European countries that came to India for trade, the Portuguese were the first (1498) and the French were the last (1664)."
+  },
+  {
+    "id": 158,
+    "question": "1857-இல் இந்திய விடுதலைக்காக ஏற்பட்ட கலகத்தில் பங்குபெற்ற தலைவர் மற்றும் கலகத்தை அடக்கிய ஆங்கிலேய அதிகாரியையும் கொண்ட சரியான இணையை கண்டறிக.",
+    "options": [
+      "நானா சாகிப், சர் காலின் கேம்பெல்",
+      "கன்வர் சிங், ஜான் நிக்கல்சன்",
+      "லட்சுமிபாய், ஹென்றி லாரன்ஸ்",
+      "இரண்டாம் பகதூர் ஷா, வில்லியம் டைலர்"
+    ],
+    "correct": 0,
+    "explanation": "கான்பூரில் கிளர்ச்சிக்குத் தலைமை தாங்கியவர் நானா சாகிப். இக்கலகத்தை சர் காலின் கேம்ப்பெல் என்ற ஆங்கிலேய அதிகாரி முழுமையாக அடக்கினார்.",
+    "question_en": "Identify the correct pair of the leader who participated in the 1857 Indian rebellion and the British officer who suppressed the rebellion.",
+    "options_en": [
+      "Nana Saheb, Sir Colin Campbell",
+      "Kunwar Singh, John Nicholson",
+      "Lakshmibai, Henry Lawrence",
+      "Bahadur Shah II, William Taylor"
+    ],
+    "explanation_en": "Nana Saheb led the revolt in Kanpur. The rebellion there was fully suppressed by the British officer Sir Colin Campbell."
+  },
+  {
+    "id": 159,
+    "question": "பொருந்தாத ஒன்றைத்தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "சந்தா சாகிப்",
+      "முகமது அலி",
+      "நாசிர் ஜங்",
+      "முசாபர் ஜங்"
+    ],
+    "correct": 1,
+    "explanation": "கர்நாடகப் போரின் போது நாசிர் ஜங், முசாபர் ஜங், சந்தா சாகிப் மூவரும் ஒரு கூட்டணியாக (பிரெஞ்சு ஆதரவுடன்) செயல்பட்டனர். முகமது அலி ஆங்கிலேயர்களின் ஆதரவைப் பெற்றவர்.",
+    "question_en": "Choose the odd one out.",
+    "options_en": [
+      "Chanda Sahib",
+      "Muhammad Ali",
+      "Nasir Jung",
+      "Muzaffar Jung"
+    ],
+    "explanation_en": "During the Carnatic wars, Nasir Jung, Muzaffar Jung, and Chanda Sahib formed an alliance (with French support). Muhammad Ali was supported by the British."
+  },
+  {
+    "id": 160,
+    "question": "கடல் அலைகளால் உருவாக்கப்பட்ட நிலத்தோற்றம்:",
+    "options": [
+      "கடல் ஓங்கல்",
+      "கடற் குகைகள்",
+      "கடல் வளைவுகள்",
+      "மேற்காண் அனைத்தும்"
+    ],
+    "correct": 3,
+    "explanation": "தொடர்ச்சியான கடல் அலைகளின் அரிப்பினால் செங்குத்தான பாறைகள் அரிக்கப்பட்டு கடல் ஓங்கல்கள், குகைகள், வளைவுகள் மற்றும் கடல் தூண்கள் ஆகியவை உருவாகின்றன.",
+    "question_en": "Landforms created by sea waves:",
+    "options_en": [
+      "Sea cliffs",
+      "Sea caves",
+      "Sea arches",
+      "All of the above"
+    ],
+    "explanation_en": "Continuous erosion of steep rocks by sea waves leads to the formation of sea cliffs, caves, arches, and sea stacks."
+  },
+  {
+    "id": 161,
+    "question": "உலகிலேயே உயரமான நீர்வீழ்ச்சியான 'வெனிசுலாவின் ஏஞ்சல் நீர்வீழ்ச்சி' அமைந்துள்ள கண்டம் :",
+    "options": [
+      "தென் அமெரிக்கா",
+      "ஆப்ரிக்கா",
+      "வட அமெரிக்கா",
+      "ஐரோப்பா"
+    ],
+    "correct": 0,
+    "explanation": "உலகின் மிக உயரமான (979 மீட்டர்) ஏஞ்சல் நீர்வீழ்ச்சி (Angel Falls) தென் அமெரிக்கா கண்டத்தில் உள்ள வெனிசுலா நாட்டில் அமைந்துள்ளது.",
+    "question_en": "The continent in which 'Angel Falls of Venezuela', the highest waterfall in the world, is located:",
+    "options_en": [
+      "South America",
+      "Africa",
+      "North America",
+      "Europe"
+    ],
+    "explanation_en": "The world's highest (979 meters) waterfall, Angel Falls, is located in Venezuela in the continent of South America."
+  },
+  {
+    "id": 162,
+    "question": "நிலக்கரி உற்பத்தியில் உலகில் முன்னனி வகிக்கும் நாடு :",
+    "options": [
+      "அமெரிக்கா",
+      "ஆஸ்திரேலியா",
+      "சீனா",
+      "இந்தோனேசியா"
+    ],
+    "correct": 2,
+    "explanation": "உலகிலேயே அதிக அளவிலான நிலக்கரியை வெட்டியெடுத்து உற்பத்தி செய்யும் முன்னணி நாடாக சீனா விளங்குகிறது.",
+    "question_en": "The leading coal-producing country in the world is:",
+    "options_en": [
+      "USA",
+      "Australia",
+      "China",
+      "Indonesia"
+    ],
+    "explanation_en": "China is the leading country in the world in mining and producing the largest amount of coal."
+  },
+  {
+    "id": 163,
+    "question": "பின்வருவனவற்றுள் சூழல் சுற்றுலாவிற்கு (Eco-Tourism) தொடர்புடையது எது?",
+    "options": [
+      "ஜெருசலேம்",
+      "அங்கோர்வாட்",
+      "பிரம்மபுத்ரா நதியின் கட்டுமர மிதவை நதிபயணம்",
+      "அமேசான் மழைக்காடுகள்"
+    ],
+    "correct": 3,
+    "explanation": "சுற்றுச்சூழலுக்கும், அங்கு வாழும் உயிரினங்களுக்கும் எவ்வித பாதிப்பும் ஏற்படாமல் இயற்கையை ரசிக்கும் சுற்றுலா 'சூழல் சுற்றுலா' எனப்படும். அமேசான் மழைக்காடுகள் சிறந்த உதாரணம்.",
+    "question_en": "Which of the following is associated with Eco-Tourism?",
+    "options_en": [
+      "Jerusalem",
+      "Angkor Wat",
+      "Catamaran river cruise on Brahmaputra river",
+      "Amazon rainforests"
+    ],
+    "explanation_en": "Tourism directed toward natural environments intended to observe nature without harming the ecosystem and local organisms is called Eco-Tourism. Amazon rainforests are a prime example."
+  },
+  {
+    "id": 164,
+    "question": "IATA - ன் விரிவாக்கம்:",
+    "options": [
+      "International Aviation Travel Association",
+      "International Air Transportation Association",
+      "International Aviation and Tourism Association",
+      "International Air Travel Agency"
+    ],
+    "correct": 1,
+    "explanation": "IATA என்பது உலகளாவிய விமானப் போக்குவரத்து நிறுவனங்களை ஒன்றிணைக்கும் 'பன்னாட்டு வான் போக்குவரத்து சங்கம்' (International Air Transport/Transportation Association) ஆகும்.",
+    "question_en": "The expansion of IATA is:",
+    "options_en": [
+      "International Aviation Travel Association",
+      "International Air Transportation Association",
+      "International Aviation and Tourism Association",
+      "International Air Travel Agency"
+    ],
+    "explanation_en": "IATA stands for the 'International Air Transport(ation) Association', a global trade association of airlines."
+  },
+  {
+    "id": 165,
+    "question": "'மோஹோரோவிசிக்' (Mohorovicic discontinuity) என்பது எதனுடன் தொடர்புடையது?",
+    "options": [
+      "சியால்",
+      "சிமா",
+      "கவசம் (புவிக் கருவம்)",
+      "உள்ளகம் (Core)"
+    ],
+    "correct": 2,
+    "explanation": "பூமியின் மேலோட்டிற்கும் (Crust) அதன் கீழேயுள்ள கவசத்திற்கும் (Mantle) இடையே உள்ள எல்லையே மோஹோரோவிசிக் எல்லை எனப்படுகிறது.",
+    "question_en": "What is 'Mohorovicic discontinuity' associated with?",
+    "options_en": [
+      "Sial",
+      "Sima",
+      "Mantle",
+      "Core"
+    ],
+    "explanation_en": "The boundary between the Earth's crust and the underlying mantle is known as the Mohorovicic discontinuity."
+  },
+  {
+    "id": 166,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "பினாடுபோ",
+      "க்ரக்கடோவா",
+      "செயிண்ட் ஹெலன்",
+      "ஸ்ட்ராம்போலி"
+    ],
+    "correct": 2,
+    "explanation": "பினாடுபோ, க்ரக்கடோவா, ஸ்ட்ராம்போலி ஆகியவை வெடித்துச் சிதறும் எரிமலைகளுக்கு உதாரணங்கள். செயிண்ட் ஹெலனா (St. Helena) என்பது ஒரு எரிமலைத் தீவு ஆகும்.",
+    "question_en": "Select the odd one out.",
+    "options_en": [
+      "Pinatubo",
+      "Krakatoa",
+      "St. Helena",
+      "Stromboli"
+    ],
+    "explanation_en": "Pinatubo, Krakatoa, and Stromboli are examples of explosive volcanoes. St. Helena is a volcanic island."
+  },
+  {
+    "id": 167,
+    "question": "பொருத்துக:\n(a) சர்க்குகள் - (i) கலஹாரி\n(b) காற்று அரிப்புத் தனிக் குன்றுகள் - (ii) பழவேற்காடு\n(c) காற்றடி வண்டல் படிவுகள் - (iii) ஜெர்மனி\n(d) உப்பங்கழிகள் - (iv) சீனா",
+    "options": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    ],
+    "correct": 2,
+    "explanation": "சர்க்குகள் (Cirque) - ஜெர்மனி (iii)\nகாற்று அரிப்புத் தனிக்குன்றுகள் (Inselbergs) - கலஹாரி பாலைவனம் (i)\nகாற்றடி வண்டல் (Loess) - சீனா (iv)\nஉப்பங்கழிகள் (Lagoon) - பழவேற்காடு ஏரி (ii).",
+    "question_en": "Match the following:\n(a) Cirques - (i) Kalahari\n(b) Inselbergs - (ii) Pulicat\n(c) Loess deposits - (iii) Germany\n(d) Lagoons - (iv) China",
+    "options_en": [
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+    ],
+    "explanation_en": "Cirques - Germany (iii)\nInselbergs - Kalahari Desert (i)\nLoess deposits - China (iv)\nLagoons - Pulicat Lake (ii)."
+  },
+  {
+    "id": 168,
+    "question": "\"உலகின் நுரையீரல்\" என அழைக்கப்படுவது எது ?",
+    "options": [
+      "தென் அமெரிக்காவின் கிழக்கு உயர் நிலங்கள்",
+      "செல்வாஸ்",
+      "கிரான் சாக்கோ",
+      "ஆண்டிஸ் மலைச் சரிவுகள்"
+    ],
+    "correct": 1,
+    "explanation": "அமேசான் படுகையில் உள்ள பரந்த மற்றும் அடர்த்தியான வெப்பமண்டல மழைக்காடுகள் 'செல்வாஸ்' (Selvas) எனப்படுகின்றன. இவை உலகின் நுரையீரல் என்று போற்றப்படுகின்றன.",
+    "question_en": "Which of the following is called the \"Lungs of the World\"?",
+    "options_en": [
+      "Eastern highlands of South America",
+      "Selvas",
+      "Gran Chaco",
+      "Andes mountain slopes"
+    ],
+    "explanation_en": "The vast and dense tropical rainforests in the Amazon basin are known as 'Selvas'. They are hailed as the lungs of the world."
+  },
+  {
+    "id": 169,
+    "question": "உலகின் 'காபி பானை' என அழைக்கப்படுவது ________ மற்றும் ________ ஆகும்.",
+    "options": [
+      "கொலம்பியா மற்றும் வெனிசுலா",
+      "ஈகுவடார் மற்றும் கொலம்பியா",
+      "மினாஸ் கிராயஸ் மற்றும் சாவோ பாலோ",
+      "டைரா டெல் பியுகோ மற்றும் ஃபாக்லாந்து தீவுகள்"
+    ],
+    "correct": 2,
+    "explanation": "பிரேசில் நாடு காபி உற்பத்தியில் முன்னணியில் இருப்பதால் உலகின் காபி பானை எனப்படுகிறது. பிரேசிலில் உள்ள மினாஸ் கிராயஸ் மற்றும் சாவோ பாலோ முக்கிய காபி உற்பத்திப் பகுதிகள்.",
+    "question_en": "The 'Coffee Pot of the world' refers to ________ and ________.",
+    "options_en": [
+      "Colombia and Venezuela",
+      "Ecuador and Colombia",
+      "Minas Gerais and Sao Paulo",
+      "Tierra del Fuego and Falkland Islands"
+    ],
+    "explanation_en": "Brazil is the leading producer of coffee and is known as the coffee pot of the world. Minas Gerais and Sao Paulo are the major coffee-producing regions in Brazil."
+  },
+  {
+    "id": 170,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "தர்-இ-சலாம்",
+      "அபிட்ஜன்",
+      "அலெக்சாந்திரியா",
+      "ஆடிஸ் அபாபா"
+    ],
+    "correct": 3,
+    "explanation": "தர்-இ-சலாம், அபிட்ஜன், மற்றும் அலெக்சாந்திரியா மூன்றும் ஆப்பிரிக்காவில் உள்ள முக்கிய துறைமுக நகரங்கள் (Ports). ஆனால் ஆடிஸ் அபாபா எத்தியோப்பியாவின் நிலத்தால் சூழப்பட்ட தலைநகரமாகும்.",
+    "question_en": "Select the odd one out.",
+    "options_en": [
+      "Dar es Salaam",
+      "Abidjan",
+      "Alexandria",
+      "Addis Ababa"
+    ],
+    "explanation_en": "Dar es Salaam, Abidjan, and Alexandria are major port cities in Africa. However, Addis Ababa is the landlocked capital of Ethiopia."
+  },
+  {
+    "id": 171,
+    "question": "டாஸ்மேனியா ________ தீவு என்று அழைக்கப்படுகிறது.",
+    "options": [
+      "ஆப்பிள்",
+      "திராட்சை",
+      "ஆரஞ்சு",
+      "பாதாம்"
+    ],
+    "correct": 0,
+    "explanation": "ஆஸ்திரேலியாவுக்குத் தெற்கே உள்ள டாஸ்மேனியா (Tasmania) தீவு ஆப்பிள் உற்பத்தியில் சிறந்து விளங்குவதால் 'ஆப்பிள் தீவு' என அழைக்கப்படுகிறது.",
+    "question_en": "Tasmania is called the ________ Island.",
+    "options_en": [
+      "Apple",
+      "Grape",
+      "Orange",
+      "Almond"
+    ],
+    "explanation_en": "Tasmania, an island south of Australia, excels in apple production and is thus called the 'Apple Island'."
+  },
+  {
+    "id": 172,
+    "question": "சரியான கூற்றுக்களைத் தேர்ந்தெடுக்கவும்.\n(a) அதிக வெப்ப அழுத்தம் காரணமாக தீப்பாறைகளும், படிவுப் பாறைகளும் உருமாறிய பாறைகளாக மாறுகின்றன.\n(b) இந்தப் பாறைகள் கடினத் தன்மை உடையவை.\n(c) இப்பாறைகள் படிகங்களற்ற பாறைகளாக உள்ளன.\n(d) இந்தியாவில் உள்ள தாஜ்மஹால் உருமாறிய பாறைகளிலிருந்து உருவான வெள்ளை பளிங்குக் கற்களால் கட்டப்பட்டது.",
+    "options": [
+      "(a) மற்றும் (b)",
+      "(b) மற்றும் (c)",
+      "(c) மற்றும் (d)",
+      "(a) மற்றும் (d)"
+    ],
+    "correct": 3,
+    "explanation": "உருமாறிய பாறைகள் (Metamorphic rocks) படிகத்தன்மை (Crystalline) கொண்டவை. எனவே கூற்று (c) தவறு. மற்றவற்றுள் (a) மற்றும் (d) முற்றிலும் சரியான கூற்றுகளாகும்.",
+    "question_en": "Select the correct statements.\n(a) Igneous and sedimentary rocks change into metamorphic rocks due to high heat and pressure.\n(b) These rocks are hard in nature.\n(c) These rocks are non-crystalline in nature.\n(d) The Taj Mahal in India is built of white marbles derived from metamorphic rocks.",
+    "options_en": [
+      "(a) and (b)",
+      "(b) and (c)",
+      "(c) and (d)",
+      "(a) and (d)"
+    ],
+    "explanation_en": "Metamorphic rocks are crystalline in nature. Therefore, statement (c) is false. Among the others, (a) and (d) are completely correct statements."
+  },
+  {
+    "id": 173,
+    "question": " உலகின் ஆழமான மற்றும் அதிக நீளமான நன்னீர் ஏரி:",
+    "options": [
+      "துர்கானா",
+      "சுப்பீரியர்",
+      "டாங்கானிக்கா",
+      "விக்டோரியா"
+    ],
+    "correct": 2,
+    "explanation": "ஆப்பிரிக்காவில் உள்ள டாங்கானிக்கா (Lake Tanganyika) ஏரியே உலகின் மிக நீளமான மற்றும் பைக்கால் ஏரிக்கு அடுத்தபடியாக இரண்டாவது ஆழமான நன்னீர் ஏரியாகும்.",
+    "question_en": "The deepest and longest freshwater lake in the world is:",
+    "options_en": [
+      "Turkana",
+      "Superior",
+      "Tanganyika",
+      "Victoria"
+    ],
+    "explanation_en": "Lake Tanganyika in Africa is the longest freshwater lake in the world and the second deepest after Lake Baikal."
+  },
+  {
+    "id": 174,
+    "question": "மாநிலத்திலுள்ள பல்கலைக் கழகங்களின் வேந்தராகச் செயல்படுபவர் :",
+    "options": [
+      "முதலமைச்சர்",
+      "ஆளுநர்",
+      "மாநிலக் கல்வி அமைச்சர்",
+      "துணை முதலமைச்சர்"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு மாநிலத்திலும் உள்ள அனைத்து மாநில அரசுப் பல்கலைக்கழகங்களுக்கும் அந்தந்த மாநில ஆளுநரே (Governor) வேந்தராக (Chancellor) செயல்படுவார்.",
+    "question_en": "The person who acts as the Chancellor of the universities in a state is:",
+    "options_en": [
+      "Chief Minister",
+      "Governor",
+      "State Education Minister",
+      "Deputy Chief Minister"
+    ],
+    "explanation_en": "The Governor of each state acts as the Chancellor of all the state-run universities within that state."
+  },
+  {
+    "id": 175,
+    "question": "மோட்டார் வாகனச் சட்டம் நடைமுறைக்கு வந்த ஆண்டு:",
+    "options": [
+      "1978",
+      "1998",
+      "1988",
+      "1989"
+    ],
+    "correct": 3,
+    "explanation": "இந்தியாவில் சாலை பாதுகாப்பு மற்றும் போக்குவரத்து விதிமுறைகளை வரைமுறைப்படுத்திய 'மோட்டார் வாகன சட்டம்' 1988-ல் இயற்றப்பட்டு 1989-ல் நடைமுறைக்கு வந்தது.",
+    "question_en": "The Motor Vehicles Act came into force in the year:",
+    "options_en": [
+      "1978",
+      "1998",
+      "1988",
+      "1989"
+    ],
+    "explanation_en": "The 'Motor Vehicles Act', which regulated road safety and traffic rules in India, was passed in 1988 and came into force in 1989."
+  },
+  {
+    "id": 176,
+    "question": "இந்திய அரசியலமைப்பில் மேற்கொள்ளப்பட்ட முகவுரையில் \"சமயச் சார்பற்ற\" என்ற சொல் எந்தச் சட்டத் திருத்தத்தின் மூலம் சேர்க்கப்பட்டது ?",
+    "options": [
+      "42 - வது",
+      "44-வது",
+      "61-வது",
+      "103-வது"
+    ],
+    "correct": 0,
+    "explanation": "1976-ஆம் ஆண்டில் கொண்டுவரப்பட்ட புகழ்பெற்ற 42-வது அரசியலமைப்பு சட்ட திருத்தத்தின் மூலமே 'சமதர்ம, சமயச்சார்பற்ற மற்றும் ஒருமைப்பாடு' என்ற சொற்கள் முகவுரையில் சேர்க்கப்பட்டன.",
+    "question_en": "By which Constitutional Amendment was the word \"Secular\" added to the Preamble of the Indian Constitution?",
+    "options_en": [
+      "42nd",
+      "44th",
+      "61st",
+      "103rd"
+    ],
+    "explanation_en": "The words 'Socialist, Secular, and Integrity' were added to the Preamble by the famous 42nd Constitutional Amendment Act of 1976."
+  },
+  {
+    "id": 177,
+    "question": "ஒரு வட்டத்தினுள் 'X' குறியீடு (☑) வரையப்பட்டிருக்கும் சாலைப் போக்குவரத்து சின்னம் எதைக் குறிக்கிறது?",
+    "options": [
+      "பேருந்து நிறுத்தம்",
+      "வழி விடு",
+      "ஒலிப்பான்",
+      "நிற்கவோ அல்லது வாகனத்தை நிறுத்தவோ கூடாது"
+    ],
+    "correct": 3,
+    "explanation": "சிவப்பு நிற வட்டத்தினுள் 'X' போன்ற குறியீடு இடப்பட்டிருந்தால் அது அப்பகுதியில் எவ்விதமான வாகனங்களையும் நிறுத்தவோ ஓரமாக நிறுத்திவைக்கவோ கூடாது (No Stopping / No Standing) என்பதைக் குறிக்கும்.",
+    "question_en": "What does a road traffic sign with an 'X' mark inside a circle indicate?",
+    "options_en": [
+      "Bus stop",
+      "Give way",
+      "Horn",
+      "No stopping or standing"
+    ],
+    "explanation_en": "If there is an 'X' like mark inside a red circle, it indicates that vehicles are not allowed to stop or stand in that area."
+  },
+  {
+    "id": 178,
+    "question": "பொருந்தாத ஒன்றைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "பிரிவு 14",
+      "பிரிவு 16",
+      "பிரிவு 28",
+      "பிரிவு 18"
+    ],
+    "correct": 2,
+    "explanation": "சட்டப்பிரிவுகள் 14, 16, 18 ஆகியவை 'சமத்துவ உரிமைகள்' (Right to Equality) பிரிவின் கீழ் வருகின்றன. பிரிவு 28 சமய சுதந்திர உரிமையைக் குறிக்கும்.",
+    "question_en": "Select the odd one out.",
+    "options_en": [
+      "Article 14",
+      "Article 16",
+      "Article 28",
+      "Article 18"
+    ],
+    "explanation_en": "Articles 14, 16, and 18 come under the 'Right to Equality' category. Article 28 deals with the Right to Freedom of Religion."
+  },
+  {
+    "id": 179,
+    "question": "'சமுதாய மாற்றம் காணும் முகவர்' என யார் அழைக்கப் படுகிறார்?",
+    "options": [
+      "தொழில் முனைவோர்",
+      "முதலீட்டாளர்",
+      "நுகர்வோர்",
+      "உற்பத்தியாளர்"
+    ],
+    "correct": 0,
+    "explanation": "புதிய சிந்தனைகள், தொழில்கள் மூலம் சமூகத்தில் புதுமைகளையும் வளர்ச்சியையும் ஏற்படுத்துவதால் 'தொழில் முனைவோர்' (Entrepreneur) சமுதாய மாற்ற முகவர் எனப்படுகிறார்.",
+    "question_en": "Who is called the 'Agent of Social Change'?",
+    "options_en": [
+      "Entrepreneur",
+      "Investor",
+      "Consumer",
+      "Producer"
+    ],
+    "explanation_en": "Since they bring innovation and development to society through new ideas and businesses, an 'Entrepreneur' is called an agent of social change."
+  },
+  {
+    "id": 180,
+    "question": "'எதுவெல்லாம் பணமாகக் கருதப்படுகிறதோ அவை பணமாக பயன்படுத்தப்படுகிறது' என்பது யாருடைய கூற்று ?",
+    "options": [
+      "ஸ்டோவ்ஸ்கி",
+      "இரர்பர்ட்சன்",
+      "சர் ஜான் ஹிக்ஸ்",
+      "வாக்கர் (Walker)"
+    ],
+    "correct": 3,
+    "explanation": "பொருளாதார அறிஞர் பிரான்சிஸ் ஏ. வாக்கர் (F.A. Walker) என்பவர் 'பணம் எதைச் செய்கிறதோ அதுவே பணம்' (Money is what money does) என்று பணத்திற்கு இலக்கணம் வகுத்துள்ளார்.",
+    "question_en": "'Money is what money does' - whose statement is this?",
+    "options_en": [
+      "Scitovsky",
+      "Robertson",
+      "Sir John Hicks",
+      "Walker"
+    ],
+    "explanation_en": "Economist Francis A. Walker defined money by stating 'Money is that which money does' (Money is what money does)."
+  }
+]

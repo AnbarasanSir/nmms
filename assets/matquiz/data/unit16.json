@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Office 2) Late 3) Zone 4) Yellow",
+    "options": [
+      "Office",
+      "Late",
+      "Zone",
+      "Yellow"
+    ],
+    "correct": 1,
+    "explanation": "Office, Late, Zone, Yellow இவற்றில் அகராதி வரிசைப்படி L முதலில் வரும். எனவே Late என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Office 2) Late 3) Zone 4) Yellow",
+    "options_en": [
+      "Office",
+      "Late",
+      "Zone",
+      "Yellow"
+    ],
+    "explanation_en": "Office, Late, Zone, Yellow among which L comes first in dictionary order. So the word Late comes first."
+  },
+  {
+    "id": 2,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Short 2) Shore 3) Shirt 4) Shout",
+    "options": [
+      "Short",
+      "Shore",
+      "Shirt",
+      "Shout"
+    ],
+    "correct": 2,
+    "explanation": "Short, Shore, Shirt, Shout - இவற்றில் முதல் இரண்டு எழுத்துக்கள் (sh) அனைத்து வார்த்தைகளிலும் உள்ளது. எனவே, மூன்றாவது எழுத்துக்களான o, o, i, o ஆகியவற்றை பார்க்கவும். இதில் i என்ற எழுத்தே முதலில் அமையும். எனவே, Shirt என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Short 2) Shore 3) Shirt 4) Shout",
+    "options_en": [
+      "Short",
+      "Shore",
+      "Shirt",
+      "Shout"
+    ],
+    "explanation_en": "Short, Shore, Shirt, Shout - All words have the first two letters (sh) in them. So, look at the third letters o, o, i, o. In which the letter i comes first. So, the word shirt comes first."
+  },
+  {
+    "id": 3,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Race 2) Accident 3) Injury 4) Disability",
+    "options": [
+      "Race",
+      "Accident",
+      "Injury",
+      "Disability"
+    ],
+    "correct": 1,
+    "explanation": "Race, Accident, Injury, Disability இவற்றில் அகராதி வரிசைப்படி A முதலில் அமையும். எனவே Accident என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Race 2) Accident 3) Injury 4) Disability",
+    "options_en": [
+      "Race",
+      "Accident",
+      "Injury",
+      "Disability"
+    ],
+    "explanation_en": "Race, Accident, Injury, Disability A is first in dictionary order. So the word Accident comes first."
+  },
+  {
+    "id": 4,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Era 2) Ice 3) Car 4) Hill",
+    "options": [
+      "Era",
+      "Ice",
+      "Car",
+      "Hill"
+    ],
+    "correct": 2,
+    "explanation": "Era, Ice, Car, Hill - இவற்றில் அகராதி வரிசைப்படி C முதலில் அமையும். எனவே Car என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Era 2) Ice 3) Car 4) Hill",
+    "options_en": [
+      "Era",
+      "Ice",
+      "Car",
+      "Hill"
+    ],
+    "explanation_en": "Era, Ice, Car, Hill - C is first in lexical order. So the word Car comes first."
+  },
+  {
+    "id": 5,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Woman 2) Wood 3) World 4) Wound",
+    "options": [
+      "Woman",
+      "Wood",
+      "World",
+      "Wound"
+    ],
+    "correct": 0,
+    "explanation": "Woman, Wood, World, Wound - இவற்றில் W மற்றும் O ஆகிய முதல் இரு எழுத்துக்கள் அனைத்து வார்த்தைகளிலும் பொதுவாக உள்ளது. எனவே, மூன்றாவது எழுத்துக்களான m, o, r, u ஆகியவற்றை பார்க்கும்பொழுது m என்ற வார்த்தை முதலில் அமையும். எனவே, Woman என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Woman 2) Wood 3) World 4) Wound",
+    "options_en": [
+      "Woman",
+      "Wood",
+      "World",
+      "Wound"
+    ],
+    "explanation_en": "Woman, Wood, World, Wound - The first two letters of these, W and O, are common to all words. So, when looking at the third letters m, o, r, u, the word m comes first. So, the word Woman comes first."
+  },
+  {
+    "id": 6,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Yellow 2) Table 3) Apple 4) Plate",
+    "options": [
+      "Yellow",
+      "Table",
+      "Apple",
+      "Plate"
+    ],
+    "correct": 2,
+    "explanation": "Yellow, Table, Apple, Plate - இவற்றில் அகராதி வரிசைப்படி A முதலில் அமையும். எனவே Apple என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Yellow 2) Table 3) Apple 4) Plate",
+    "options_en": [
+      "Yellow",
+      "Table",
+      "Apple",
+      "Plate"
+    ],
+    "explanation_en": "Yellow, Table, Apple, Plate - A comes first in lexical order. So the word Apple comes first."
+  },
+  {
+    "id": 7,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Examination 2) Association 3) Legistation 4) Foundation",
+    "options": [
+      "Examination",
+      "Association",
+      "Legistation",
+      "Foundation"
+    ],
+    "correct": 1,
+    "explanation": "Examination, Association, Legistation, Foundation - இவற்றில் அகராதி வரிசைப்படி A முதலில் அமையும். எனவே Association என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Examination 2) Association 3) Legislation 4) Foundation",
+    "options_en": [
+      "Examination",
+      "Association",
+      "Legislation",
+      "Foundation"
+    ],
+    "explanation_en": "Examination, Association, Legislation, Foundation - A is first in dictionary order. So the word Association comes first."
+  },
+  {
+    "id": 8,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Instrument 2) Industry 3) Institution 4) Instructor",
+    "options": [
+      "Instrument",
+      "Industry",
+      "Institution",
+      "Instructor"
+    ],
+    "correct": 1,
+    "explanation": "Instrument, Industry, Institution, Instructor - இவற்றில் அனைத்தும் I மற்றும் n பொதுவாக உள்ளது. மூன்றாவது எழுத்துக்களாகிய s, d, s, s ஆகியவற்றை பார்க்கும்பொழுது d என்ற எழுத்து முதலில் அமையும். எனவே, Industry என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Instrument 2) Industry 3) Institution 4) Instructor",
+    "options_en": [
+      "Instrument",
+      "Industry",
+      "Institution",
+      "Instructor"
+    ],
+    "explanation_en": "Instrument, Industry, Institution, Instructor - All these have I and n in common. When looking at the third letters s, d, s, s, the letter d comes first. So, the word Industry comes first."
+  },
+  {
+    "id": 9,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Knowledge 2) Notice 3) Language 4) Infant",
+    "options": [
+      "Knowledge",
+      "Notice",
+      "Language",
+      "Infant"
+    ],
+    "correct": 3,
+    "explanation": "Knowledge, Notice, Language, Infant - இவற்றில் அகராதி வரிசைப்படி I என்ற எழுத்து முதலில் அமையும். எனவே Infant என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Knowledge 2) Notice 3) Language 4) Infant",
+    "options_en": [
+      "Knowledge",
+      "Notice",
+      "Language",
+      "Infant"
+    ],
+    "explanation_en": "Knowledge, Notice, Language, Infant - Among these the letter I is placed first in dictionary order. So the word Infant comes first."
+  },
+  {
+    "id": 10,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியின் அடிப்படையில் அகர வரிசையில் எழுதி முதலில் வரும் வார்த்தையைத் தேர்ந்தெடு: \n1) Hunter 2) Human 3) House 4) Humour",
+    "options": [
+      "Hunter",
+      "Human",
+      "House",
+      "Humour"
+    ],
+    "correct": 2,
+    "explanation": "Hunter, Human, House, Humour - இவற்றில் H, u, u, o, u என பார்க்கும்போது o முதலில் அமையும். எனவே House என்ற வார்த்தை முதலில் அமையும்.",
+    "question_en": "Write the given words in alphabetical order based on the English dictionary and choose the word that comes first: \n1) Hunter 2) Human 3) House 4) Humor",
+    "options_en": [
+      "Hunter",
+      "Human",
+      "House",
+      "Humor"
+    ],
+    "explanation_en": "Hunter, Human, House, Humor - In these H, u, u, o, u, o comes first. So the word House comes first."
+  },
+  {
+    "id": 11,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) German B) Christians C) Government D) Curriculum",
+    "options": [
+      "A, D, C, B",
+      "B, A, D, C",
+      "B, D, A, C",
+      "D, C, A, B"
+    ],
+    "correct": 2,
+    "explanation": "Christians, Curriculum, German, Government (B, D, A, C) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) German B) Christians C) Government D) Curriculum",
+    "options_en": [
+      "A, D, C, B",
+      "B, A, D, C",
+      "B, D, A, C",
+      "D, C, A, B"
+    ],
+    "explanation_en": "The correct order is Christians, Curriculum, German, Government (B, D, A, C)."
+  },
+  {
+    "id": 12,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Crucial B) Critical C) Criteria D) Criticism",
+    "options": [
+      "C, B, D, A",
+      "C, D, B, A",
+      "C, A, B, D",
+      "D, C, B, A"
+    ],
+    "correct": 0,
+    "explanation": "Criteria, Critical, Criticism, Crucial (C, B, D, A) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Crucial B) Critical C) Criteria D) Criticism",
+    "options_en": [
+      "C, B, D, A",
+      "C, D, B, A",
+      "C, A, B, D",
+      "D, C, B, A"
+    ],
+    "explanation_en": "The correct order is Criteria, Critical, Criticism, Crucial (C, B, D, A)."
+  },
+  {
+    "id": 13,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Occupation B) Palestinian C) Magizine D) Literature",
+    "options": [
+      "B, C, A, D",
+      "C, A, D, B",
+      "C, D, A, B",
+      "D, C, A, B"
+    ],
+    "correct": 3,
+    "explanation": "Literature, Magizine, Occupation, Palestinian (D, C, A, B) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Occupation B) Palestinian C) Magazine D) Literature",
+    "options_en": [
+      "B, C, A, D",
+      "C, A, D, B",
+      "C, D, A, B",
+      "D, C, A, B"
+    ],
+    "explanation_en": "The correct order is Literature, Magizine, Occupation, Palestinian (D, C, A, B)."
+  },
+  {
+    "id": 14,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Prescription B) Dimention C) Revolution D) Administration",
+    "options": [
+      "A, B, C, D",
+      "D, B, A, C",
+      "B, A, C, D",
+      "D, A, B, C"
+    ],
+    "correct": 1,
+    "explanation": "Administration, Dimention, Prescription, Revolution (D, B, A, C) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Prescription B) Dimension C) Revolution D) Administration",
+    "options_en": [
+      "A, B, C, D",
+      "D, B, A, C",
+      "B, A, C, D",
+      "D, A, B, C"
+    ],
+    "explanation_en": "The correct order is Administration, Dimension, Prescription, Revolution (D, B, A, C)."
+  },
+  {
+    "id": 15,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) African B) Ancient C) Anniversary D) Assessment",
+    "options": [
+      "A, C, B, D",
+      "A, B, D, C",
+      "A, B, C, D",
+      "A, C, D, B"
+    ],
+    "correct": 2,
+    "explanation": "African, Ancient, Anniversary, Assessment (A, B, C, D) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) African B) Ancient C) Anniversary D) Assessment",
+    "options_en": [
+      "A, C, B, D",
+      "A, B, D, C",
+      "A, B, C, D",
+      "A, C, D, B"
+    ],
+    "explanation_en": "The correct order is African, Ancient, Anniversary, Assessment (A, B, C, D)."
+  },
+  {
+    "id": 16,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Colleague B) Classroom C) Chocolate D) Commission",
+    "options": [
+      "C, B, A, D",
+      "B, C, D, A",
+      "C, A, D, B",
+      "D, C, B, A"
+    ],
+    "correct": 0,
+    "explanation": "Chocolate, Classroom, Colleague, Commission (C, B, A, D) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Colleague B) Classroom C) Chocolate D) Commission",
+    "options_en": [
+      "C, B, A, D",
+      "B, C, D, A",
+      "C, A, D, B",
+      "D, C, B, A"
+    ],
+    "explanation_en": "The correct order is Chocolate, Classroom, Colleague, Commission (C, B, A, D)."
+  },
+  {
+    "id": 17,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Ingredient B) Aircraft C) Helicopter D) Grandfather",
+    "options": [
+      "D, B, A, C",
+      "C, A, B, D",
+      "D, C, A, B",
+      "B, D, C, A"
+    ],
+    "correct": 3,
+    "explanation": "Aircraft, Grandfather, Helicopter, Ingredient (B, D, C, A) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Ingredient B) Aircraft C) Helicopter D) Grandfather",
+    "options_en": [
+      "D, B, A, C",
+      "C, A, B, D",
+      "D, C, A, B",
+      "B, D, C, A"
+    ],
+    "explanation_en": "The correct order is Aircraft, Grandfather, Helicopter, Ingredient (B, D, C, A)."
+  },
+  {
+    "id": 18,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Female B) Farmer C) Factor D) Fashion",
+    "options": [
+      "A, C, B, D",
+      "C, B, D, A",
+      "A, D, C, B",
+      "B, C, D, A"
+    ],
+    "correct": 1,
+    "explanation": "Factor, Farmer, Fashion, Female (C, B, D, A) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Female B) Farmer C) Factor D) Fashion",
+    "options_en": [
+      "A, C, B, D",
+      "C, B, D, A",
+      "A, D, C, B",
+      "B, C, D, A"
+    ],
+    "explanation_en": "The correct order is Factor, Farmer, Fashion, Female (C, B, D, A)."
+  },
+  {
+    "id": 19,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Software B) Russian C) Tablespoon D) Platform",
+    "options": [
+      "D, B, A, C",
+      "B, A, D, C",
+      "B, D, A, C",
+      "A, B, C, D"
+    ],
+    "correct": 0,
+    "explanation": "Platform, Russian, Software, Tablespoon (D, B, A, C) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Software B) Russian C) Tablespoon D) Platform",
+    "options_en": [
+      "D, B, A, C",
+      "B, A, D, C",
+      "B, D, A, C",
+      "A, B, C, D"
+    ],
+    "explanation_en": "The correct order is Platform, Russian, Software, Tablespoon (D, B, A, C)."
+  },
+  {
+    "id": 20,
+    "question": "ஆங்கில அகராதியின் அடிப்படையில் சரியான வரிசையைத் தேர்ந்தெடு: \nA) Plastic B) Poem C) Plant D) Pocket",
+    "options": [
+      "A, B, C, D",
+      "B, C, D, A",
+      "A, D, B, C",
+      "C, A, D, B"
+    ],
+    "correct": 3,
+    "explanation": "Plant, Plastic, Pocket, Poem (C, A, D, B) என்பதே சரியான வரிசை.",
+    "question_en": "Choose the correct order based on the English dictionary: \nA) Plastic B) Poem C) Plant D) Pocket",
+    "options_en": [
+      "A, B, C, D",
+      "B, C, D, A",
+      "A, D, B, C",
+      "C, A, D, B"
+    ],
+    "explanation_en": "The correct order is Plant, Plastic, Pocket, Poem (C, A, D, B)."
+  },
+  {
+    "id": 21,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியில் உள்ளதுபோல் அகர வரிசையில் எழுதி இறுதியில் அமையும் வார்த்தையைத் தேர்ந்தெடு: \n1) Enormous 2) Enroll 3) Enrichment 4) Enhance",
+    "options": [
+      "Enormous",
+      "Enroll",
+      "Enrichment",
+      "Enhance"
+    ],
+    "correct": 1,
+    "explanation": "Enhance, Enrichment, Enormous, Enroll என வரிசைப்படும். எனவே Enroll என்ற வார்த்தை கடைசியாக அமையும்.",
+    "question_en": "Write the given words alphabetically as in an English dictionary and choose the word that forms at the end: \n1) Enormous 2) Enroll 3) Enrichment 4) Enhance",
+    "options_en": [
+      "Enormous",
+      "Enroll",
+      "Enrichment",
+      "Enhance"
+    ],
+    "explanation_en": "Sorted as Enhance, Enrichment, Enormous, Enroll. So the word Enroll comes last."
+  },
+  {
+    "id": 22,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியில் உள்ளதுபோல் அகர வரிசையில் எழுதி இறுதியில் அமையும் வார்த்தையைத் தேர்ந்தெடு: \n1) Template 2) Tempering 3) Temple 4) Temperment",
+    "options": [
+      "Template",
+      "Tempering",
+      "Temple",
+      "Temperment"
+    ],
+    "correct": 2,
+    "explanation": "Tempering, Temperment, Template, Temple என வரிசைப்படும். எனவே Temple என்ற வார்த்தை கடைசியாக அமையும்.",
+    "question_en": "Write the given words alphabetically as in an English dictionary and choose the word that forms at the end: \n1) Template 2) Tempering 3) Temple 4) Temperment",
+    "options_en": [
+      "Template",
+      "Tempering",
+      "Temple",
+      "Temperament"
+    ],
+    "explanation_en": "Ordered as Tempering, Temperment, Template, Temple. So the word Temple comes last."
+  },
+  {
+    "id": 23,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியில் உள்ளதுபோல் அகர வரிசையில் எழுதி இறுதியில் அமையும் வார்த்தையைத் தேர்ந்தெடு: \n1) Reason 2) Review 3) Random 4) Recite",
+    "options": [
+      "Reason",
+      "Review",
+      "Random",
+      "Recite"
+    ],
+    "correct": 1,
+    "explanation": "Random, Reason, Recite, Review என வரிசைப்படும். எனவே Review என்ற வார்த்தை கடைசியாக அமையும்.",
+    "question_en": "Write the given words alphabetically as in an English dictionary and choose the word that forms at the end: \n1) Reason 2) Review 3) Random 4) Recite",
+    "options_en": [
+      "Reason",
+      "Review",
+      "Random",
+      "Recite"
+    ],
+    "explanation_en": "Sorted as Random, Reason, Recite, Review. So the word Review comes last."
+  },
+  {
+    "id": 24,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியில் உள்ளதுபோல் அகர வரிசையில் எழுதி இறுதியில் அமையும் வார்த்தையைத் தேர்ந்தெடு: \n1) Never 2) Nobal 3) Nodal 4) Neon",
+    "options": [
+      "Never",
+      "Nobal",
+      "Nodal",
+      "Neon"
+    ],
+    "correct": 2,
+    "explanation": "Neon, Never, Nobal, Nodal என வரிசைப்படும். எனவே Nodal என்ற வார்த்தை கடைசியாக அமையும்.",
+    "question_en": "Write the given words alphabetically as in an English dictionary and choose the word that forms at the end: \n1) Never 2) Nobal 3) Nodal 4) Neon",
+    "options_en": [
+      "Never",
+      "Noble",
+      "Nodal",
+      "Neon"
+    ],
+    "explanation_en": "Ordered as Neon, Never, Nobal, Nodal. So the word Nodal comes last."
+  },
+  {
+    "id": 25,
+    "question": "கொடுக்கப்பட்ட வார்த்தைகளை ஆங்கில அகராதியில் உள்ளதுபோல் அகர வரிசையில் எழுதி இறுதியில் அமையும் வார்த்தையைத் தேர்ந்தெடு: \n1) External 2) Examination 3) Exercise 4) Elegant",
+    "options": [
+      "External",
+      "Examination",
+      "Exercise",
+      "Elegant"
+    ],
+    "correct": 0,
+    "explanation": "Elegant, Examination, Exercise, External என வரிசைப்படும். எனவே External என்ற வார்த்தை கடைசியாக அமையும்.",
+    "question_en": "Write the given words alphabetically as in an English dictionary and choose the word that forms at the end: \n1) External 2) Examination 3) Exercise 4) Elegant",
+    "options_en": [
+      "External",
+      "Examination",
+      "Exercise",
+      "Elegant"
+    ],
+    "explanation_en": "Arranged as Elegant, Examination, Exercise, External. So the word External comes last."
+  }
+]

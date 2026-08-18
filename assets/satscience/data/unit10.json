@@ -1,0 +1,2342 @@
+[
+  {
+    "id": 1,
+    "question": "பொருத்துக.\na) உருகுதல் b) உறைதல் c) ஆவியாதல் d) ஆவி சுருங்குதல் e) பதங்கமாதல்\ni) திட நிலையிலிருந்து திரவமாதல் ii) வாயு நிலையிலிருந்து திரவமாதல் iii) திரவ நிலையிலிருந்து திடமாதல் iv) திரவ நிலையிலிருந்து வாயுவாதல் v) திட நிலையிலிருந்து வாயுவாதல்",
+    "options": [
+      "a-ii b-i c-iv d-iii e-v",
+      "a-iii b-i c-v d-i e-iv",
+      "a-iv b-i c-v d-iii e-ii",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "correct": 3,
+    "question_en": "match\na) Melting b) Freezing c) Evaporation d) Vapor shrinkage e) Sublimation\ni) Solid to liquid ii) Gas to liquid iii) Liquid to solid iv) Liquid to gas v) Solid to gas",
+    "options_en": [
+      "a-ii b-i c-iv d-iii e-v",
+      "a-iii b-i c-v d-i e-iv",
+      "a-iv b-i c-v d-iii e-ii",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "explanation": "a-i b-iii c-iv d-ii e-v",
+    "explanation_en": "a-i b-iii c-iv d-ii e-v"
+  },
+  {
+    "id": 2,
+    "question": "A என்ற பொருளானது உறைந்து, உருகி பின் ஆவியாகி B என்ற பொருளாக மாறுகிறது. எனில் A, B ன் நிலைகள் யாவை?",
+    "options": [
+      "A - திடப்பொருள், B - திரவப்பொருள்",
+      "A - திரவப்பொருள், B - வாயுப்பொருள்",
+      "A - திடப்பொருள், B வாயுப்பொருள்",
+      "A - திரவப்பொருள், B - திடப்பொருள்"
+    ],
+    "correct": 1,
+    "question_en": "Substance A freezes, melts and evaporates to form substance B. So what are the positions of A and B?",
+    "options_en": [
+      "A - Solid, B - Liquid",
+      "A - Liquid, B - Gas",
+      "A - solid, B gas",
+      "A - Liquid, B - Solid"
+    ],
+    "explanation": "A - திரவப்பொருள், B - வாயுப்பொருள்",
+    "explanation_en": "A - Liquid, B - Gas"
+  },
+  {
+    "id": 3,
+    "question": "கரைசல் என்பது",
+    "options": [
+      "கரைப்பான் + கரைபொருள்",
+      "கரைப்பான் + கரைசல்",
+      "கரைபொருள் + கரைசல்",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "The solution is",
+    "options_en": [
+      "Solvent + solute",
+      "Solvent + solute",
+      "solute + solute",
+      "Everything"
+    ],
+    "explanation": "கரைப்பான் + கரைபொருள்",
+    "explanation_en": "Solvent + solute"
+  },
+  {
+    "id": 4,
+    "question": "பின்வருவனவற்றுள் தவறான கூற்று எது?",
+    "options": [
+      "கரைகின்ற பொருள் கரைபொருளாகும்.",
+      "கரைபொருளைக் கரைப்பது கரைப்பான் ஆகும்.",
+      "கரைபொருளின் மூலக்கூறுகளுக்கு இடையே கரைப்பான் மூலக்கூறுகள் விரவி கரைசலை உருவாக்குகிறது.",
+      "அனைத்தும்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "A substance that dissolves is a solute.",
+      "A solvent is a solvent that dissolves a solute.",
+      "Solvent molecules diffuse between solute molecules to form a solution.",
+      "Everything."
+    ],
+    "explanation": "கரைபொருளின் மூலக்கூறுகளுக்கு இடையே கரைப்பான் மூலக்கூறுகள் விரவி கரைசலை உருவாக்குகிறது.",
+    "explanation_en": "Solvent molecules diffuse between solute molecules to form a solution. is a false statement."
+  },
+  {
+    "id": 5,
+    "question": "திண்மத் துகள்கள் தனித்தனி மூலக்கூறுகளாகப் பிரிந்து, திரவ மூலக்கூறுகளின் இடைவெளியில் மறைந்து உருவாவது",
+    "options": [
+      "கரைபொருள்",
+      "கரைசல்",
+      "கரைப்பான்",
+      "கரைதல்"
+    ],
+    "correct": 1,
+    "question_en": "Solid particles break up into individual molecules and form by disappearing into the interstices of liquid molecules",
+    "options_en": [
+      "solvent",
+      "solution",
+      "solvent",
+      "dissolution"
+    ],
+    "explanation": "கரைசல்",
+    "explanation_en": "solution"
+  },
+  {
+    "id": 6,
+    "question": "பின்வருவனவற்றுள் இயற்பியல் பண்பு எது?",
+    "options": [
+      "அடர்த்தி, நிறை",
+      "பளபளப்பு, கரைதிறன்",
+      "தகடாகுதல், பாகுத்தன்மை",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is a physical property?",
+    "options_en": [
+      "Density, mass",
+      "Luster, solubility",
+      "Thinning, Viscosity",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் இயற்பியல் பண்பு அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is a physical property."
+  },
+  {
+    "id": 7,
+    "question": "மாறா பருமனில் ஒரு பொருளின் அடர்த்தி அதிகரித்துள்ளது. எனில்,",
+    "options": [
+      "அப்பொருளின் நிறை அதிகரித்து இருக்கும்",
+      "அப்பொருளின் நிறை குறைந்து இருக்கும்.",
+      "அப்பொருளின் நிறை மாறாது இருக்கும்.",
+      "அப்பொருளின் நிறை அதிகரித்து குறையும்."
+    ],
+    "correct": 0,
+    "question_en": "The density of an object is increased by variable density. If,",
+    "options_en": [
+      "The mass of the object will increase",
+      "The mass of the object will decrease.",
+      "The mass of the object remains constant.",
+      "The mass of the object increases and decreases."
+    ],
+    "explanation": "அப்பொருளின் நிறை அதிகரித்து இருக்கும்",
+    "explanation_en": "The mass of the object will increase"
+  },
+  {
+    "id": 8,
+    "question": "ஒரு பொருளின் அடர்த்தி, கரைதிறனில் ஏற்படும் மாறுபாட்டைப் பொறுத்து அப்பொருள் ________ மாற்றமடைந்துள்ளது எனலாம்.",
+    "options": [
+      "கால ஒழுங்கு மாற்றம்",
+      "மீளா மாற்றம்",
+      "இயற்பியல் மாற்றம்",
+      "மெதுவான மாற்றம்."
+    ],
+    "correct": 2,
+    "question_en": "A change in density and solubility of a substance can mean that the substance has changed ________.",
+    "options_en": [
+      "Periodicity change",
+      "Change again",
+      "Physical change",
+      "Slow change."
+    ],
+    "explanation": "ஒரு பொருளின் அடர்த்தி, கரைதிறனில் ஏற்படும் மாறுபாட்டைப் பொறுத்து அப்பொருள் இயற்பியல் மாற்றம் மாற்றமடைந்துள்ளது எனலாம்.",
+    "explanation_en": "A change in density and solubility of a substance can mean that the substance has changed Physical change."
+  },
+  {
+    "id": 9,
+    "question": "பொருள்களை வெப்பப்படுத்த என்ன நிகழும்?",
+    "options": [
+      "மூலக்கூறுகளின் எண்ணிக்கை அதிகமாகும்",
+      "மூலக்கூறுகள் அதிர்வுறும்",
+      "மூலக்கூறுகள் இறுகும்",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "What happens to heat objects?",
+    "options_en": [
+      "The number of molecules increases",
+      "Molecules vibrate",
+      "Molecules are tight",
+      "Everything"
+    ],
+    "explanation": "மூலக்கூறுகள் அதிர்வுறும்",
+    "explanation_en": "Molecules vibrate"
+  },
+  {
+    "id": 10,
+    "question": "கூற்று 1: பொருள்களை வெப்பப்படுத்த மூலக்கூறுகள் வெப்ப ஆற்றலை உட்கவர்ந்து அதிர்கின்றன.\nகூற்று 2: ஒரு குறிப்பிட்ட வெப்பநிலையில் அவற்றின் அதிர்வு அதிதீவிரமடைந்து மூலக்கூறுகளுக்கிடையேயான ஈர்ப்புவிசை உடையுமளவிற்கு மூலக்கூறுகள் குதிக்க ஆரம்பிக்கின்றன.\nகூற்று 3: நீர் மூலக்கூறுகள் 100 °C ல் மூலக்கூறுகள் குதித்து வெளியேறும் வெப்பநிலையே நீரின் கொதிநிலை எனப்படுகிறது.",
+    "options": [
+      "அனைத்து கூற்றுகளும் சரி",
+      "கூற்று 1 மட்டும் சரி",
+      "கூற்று 2 மட்டும் சரி",
+      "கூற்று 1,2 சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion 1: Molecules absorb thermal energy and vibrate to heat objects.\nAssertion 2: At a certain temperature the molecules begin to jump to the extent that their vibration becomes so intense that the intermolecular forces of attraction break down.\nStatement 3: The boiling point of water is the temperature at which water molecules jump out at 100 °C.",
+    "options_en": [
+      "All statements are correct",
+      "Only statement 1 is correct",
+      "Only statement 2 is correct",
+      "Statement 1,2 are correct"
+    ],
+    "explanation": "அனைத்து கூற்றுகளும் சரி",
+    "explanation_en": "All statements are correct"
+  },
+  {
+    "id": 11,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்று எது?",
+    "options": [
+      "பொருள்களை வெப்பப்படுத்த மூலக்கூறுகள் வெப்ப ஆற்றலை உட்கவர்ந்து அதிர்கின்றன. ஆனால் ஒரு போதும் ஒன்றைவிட்டு ஒன்று விலகாது.",
+      "பொருள்களை வெப்பப்படுத்த மூலக்கூறுகள் வெப்ப ஆற்றலை உட்கவரும். ஆனால் ஒரு போதும் அதிராது, ஒன்றைவிட்டு ஒன்று விலகாது.",
+      "பொருள்களை வெப்பப்படுத்த அணுக்கள் வெப்ப ஆற்றலை உட்கவர்ந்து அதிர்கின்றன. ஒன்றைவிட்டு ஒன்று விலகும்.",
+      "அனைத்து கூறுகளும் சரி."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is the correct statement?",
+    "options_en": [
+      "Molecules absorb heat energy and vibrate to heat objects. But one never deviates from the other.",
+      "Molecules consume heat energy to heat objects. But never shakes, never deviates from one another.",
+      "Atoms absorb heat energy and vibrate to heat matter. One will deviate from the other.",
+      "All elements are correct."
+    ],
+    "explanation": "பொருள்களை வெப்பப்படுத்த அணுக்கள் வெப்ப ஆற்றலை உட்கவர்ந்து அதிர்கின்றன. ஒன்றைவிட்டு ஒன்று விலகும்.",
+    "explanation_en": "Atoms absorb heat energy and vibrate to heat matter. One will deviate from the other. is the correct statement."
+  },
+  {
+    "id": 12,
+    "question": "நீரை வெப்பப்படுத்த நீராவியாகிறது. இது",
+    "options": [
+      "மீள், வேதியியல் மாற்றம்.",
+      "மீள், இயற்பியல் மாற்றம்.",
+      "மீளா, இயற்பியல் மாற்றம்.",
+      "மீளா, வேதியியல் மாற்றம்."
+    ],
+    "correct": 1,
+    "question_en": "Water is heated to steam. This is",
+    "options_en": [
+      "Elasticity, chemical change.",
+      "Elastic, physical change.",
+      "Again, physical change.",
+      "Again, a chemical change."
+    ],
+    "explanation": "மீள், இயற்பியல் மாற்றம்.",
+    "explanation_en": "Elastic, physical change."
+  },
+  {
+    "id": 13,
+    "question": "பின்வருவனவற்றுள் தவறான கூற்று எது?",
+    "options": [
+      "அனைத்து வெப்பநிலைகளிலும் ஆவியாதல் நடைபெறும்",
+      "அனைத்து வெப்பநிலைகளிலும் கொதித்தல் நடைபெறும்",
+      "திரவத்தின் புறப்பரப்பில் மட்டுமே ஆவியாதல் நிகழும்.",
+      "அனைத்து திரவப் பொருள்களும் ஒரு குறிப்பிட்ட வெப்பநிலையில் கொதித்து ஆவியாக வெளியேறும்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "Evaporation takes place at all temperatures",
+      "Boiling takes place at all temperatures",
+      "Evaporation occurs only at the surface of the liquid.",
+      "All liquid substances boil at a certain temperature and evaporate."
+    ],
+    "explanation": "அனைத்து வெப்பநிலைகளிலும் கொதித்தல் நடைபெறும்",
+    "explanation_en": "Boiling takes place at all temperatures is a false statement."
+  },
+  {
+    "id": 14,
+    "question": "பின்வருவனவற்றுள் மீளா மாற்றம் எது?",
+    "options": [
+      "உயிரினங்கள் வளர்தல்",
+      "பலூன் வெடித்தல்",
+      "கண்ணாடி உடைதல்",
+      "அனைத்தும்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is reversible?",
+    "options_en": [
+      "Growth of organisms",
+      "Balloon burst",
+      "Glass breakage",
+      "Everything."
+    ],
+    "explanation": "பின்வருவனவற்றுள் மீளா மாற்றம் அனைத்தும். ஆகும்.",
+    "explanation_en": "Everything. is reversible."
+  },
+  {
+    "id": 15,
+    "question": "பின்வருவனவற்றுள் மீள் மாற்றம் எது?",
+    "options": [
+      "பெட்ரோல் எரிதல்",
+      "பால் தயிராதல்",
+      "கண்ணாடி உடைதல்",
+      "ரப்பர் வளையம் நீளுதல்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is an elastic change?",
+    "options_en": [
+      "Gasoline burning",
+      "Milk production",
+      "Glass breakage",
+      "Rubber ring elongation"
+    ],
+    "explanation": "பின்வருவனவற்றுள் மீள் மாற்றம் ரப்பர் வளையம் நீளுதல் ஆகும்.",
+    "explanation_en": "Rubber ring elongation is an elastic change."
+  },
+  {
+    "id": 16,
+    "question": "பின்வருவனவற்றுள் மீள் மாற்றம் எது?",
+    "options": [
+      "நீர் ஆவியாதல்",
+      "பனி உருகுதல்",
+      "ரப்பர் வளையம் நீளுதல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is an elastic change?",
+    "options_en": [
+      "Evaporation of water",
+      "Snow melting",
+      "Rubber ring elongation",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் மீள் மாற்றம் அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is an elastic change."
+  },
+  {
+    "id": 17,
+    "question": "பின்வருவனவற்றுள் இயற்பியல் மாற்றம் எது?",
+    "options": [
+      "நீர் ஆவியாதல்",
+      "பனி உருகுதல்",
+      "உப்பு நீரில் கரைதல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is a physical change?",
+    "options_en": [
+      "Evaporation of water",
+      "Snow melting",
+      "Solubility in salt water",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் இயற்பியல் மாற்றம் அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is a physical change."
+  },
+  {
+    "id": 18,
+    "question": "பின்வருவனவற்றுள் வேதி மாற்றம் எது?",
+    "options": [
+      "நறுக்கிய ஆப்பிள், உருளை நிறம் மாறி காட்சி தருதல்",
+      "பனி உருகுதல்",
+      "உப்பு நீரில் கரைதல்",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is a chemical change?",
+    "options_en": [
+      "Sliced ​​apple, cylindrical color changing display",
+      "Snow melting",
+      "Solubility in salt water",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் வேதி மாற்றம் நறுக்கிய ஆப்பிள், உருளை நிறம் மாறி காட்சி தருதல் ஆகும்.",
+    "explanation_en": "Sliced ​​apple, cylindrical color changing display is a chemical change."
+  },
+  {
+    "id": 19,
+    "question": "பின்வருவனவற்றுள் வேதி மாற்றம் எது?",
+    "options": [
+      "பால் கொதித்தல்",
+      "பால் தயிராதல்",
+      "தயிர் மோராதல்",
+      "அனைத்தும்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a chemical change?",
+    "options_en": [
+      "Boiling milk",
+      "Milk production",
+      "Curd curd",
+      "Everything."
+    ],
+    "explanation": "பின்வருவனவற்றுள் வேதி மாற்றம் பால் தயிராதல் ஆகும்.",
+    "explanation_en": "Milk production is a chemical change."
+  },
+  {
+    "id": 20,
+    "question": "இரும்பு துருப்பிடித்தல் என்பது ஓர் எரிதல் வினை. ஏனெனில் இரும்பு காற்றிலுள்ள ஆக்ஸிஜனுடன் வினையில் ஈடுபடுகிறது. இக்கூற்று சரியா? தவறா? மெதுவான மாற்றமா? வேகமான மாற்றமா?",
+    "options": [
+      "சரி. வேகமான மாற்றம்",
+      "தவறு மெதுவான மாற்றம்",
+      "சரி. மெதுவான மாற்றம்",
+      "தவறு. வேகமான மாற்றம்"
+    ],
+    "correct": 2,
+    "question_en": "Iron rusting is a combustion reaction. Because iron reacts with oxygen in the air. Is this statement correct? Is it wrong? Slow change? A quick change?",
+    "options_en": [
+      "ok Rapid change",
+      "The mistake is slow change",
+      "ok Slow change",
+      "wrong Rapid change"
+    ],
+    "explanation": "சரி. மெதுவான மாற்றம்",
+    "explanation_en": "ok Slow change"
+  },
+  {
+    "id": 21,
+    "question": "இரும்புத்துரு என்பது",
+    "options": [
+      "நீரேறிய ஃபெர்ரிக் ஆக்ஸைடு",
+      "நீரேறிய இரும்பு (III) ஆக்ஸைடு",
+      "Fe2O3.xH2O",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Iron rust is",
+    "options_en": [
+      "Dilute ferric oxide",
+      "Hydrous iron (III) oxide",
+      "Fe2O3.xH2O",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 22,
+    "question": "நீர் சுழற்சியின் காரணமாக மழை பொழிகிறது என்பதை நாம் அறிவோம். இந்நிகழ்வு பின்வரும் எவ்வகை மாற்றங்களுக்குள் அடங்கும்?\na. இயற்பியல் மாற்றம் b. வேதியியல் மாற்றம் c. பயனற்ற மாற்றம் d. பயனுள்ள மாற்றம் e. மெதுவான மாற்றம் f. வேகமான மாற்றம்",
+    "options": [
+      "a, b, c",
+      "a, d, e",
+      "a, c, e",
+      "b, d, e"
+    ],
+    "correct": 1,
+    "question_en": "We know that rain falls because of the water cycle. This event involves which of the following changes?\na. Physical change b. Chemical change c. Inefficient conversion d. effective change e. Slow change f. Rapid change",
+    "options_en": [
+      "a, b, c",
+      "a, d, e",
+      "a, c, e",
+      "b, d, e"
+    ],
+    "explanation": "a, d, e",
+    "explanation_en": "a, d, e"
+  },
+  {
+    "id": 23,
+    "question": "பதங்கமாதலுக்கு உட்படும் பொருள்களுக்கு உதாரணம் எது?",
+    "options": [
+      "கற்பூரம்",
+      "நாஃப்தலீன்",
+      "அமோனியம் குளோரைடு",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which is an example of sublimation?",
+    "options_en": [
+      "Camphor",
+      "Naphthalene",
+      "Ammonium chloride",
+      "Everything"
+    ],
+    "explanation": "பதங்கமாதலுக்கு உட்படும் பொருள்களுக்கு உதாரணம் அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is an example of sublimation."
+  },
+  {
+    "id": 24,
+    "question": "அமோனியம் குளோரைடு வாயுவை குளிர்விக்கும் பொழுது கிடைப்பது எது?",
+    "options": [
+      "அமோனியம் குளோரைடு ஆவி",
+      "திரவ அமோனியம் குளோரைடு",
+      "திட அமோனியம் குளோரைடு",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "What is obtained when ammonium chloride gas is cooled?",
+    "options_en": [
+      "Ammonium chloride spirit",
+      "Liquid ammonium chloride",
+      "Solid ammonium chloride",
+      "Everything"
+    ],
+    "explanation": "அமோனியம் குளோரைடு வாயுவை குளிர்விக்கும் பொழுது கிடைப்பது திட அமோனியம் குளோரைடு ஆகும்.",
+    "explanation_en": "Solid ammonium chloride is obtained when ammonium chloride gas is cooled."
+  },
+  {
+    "id": 25,
+    "question": "கற்பூரம் எரிதல் எவ்வகை மாற்றம்?",
+    "options": [
+      "இயற்பியல் மாற்றம். கற்பூரம் எரியும் பொழுது ஆக்ஸிஜனுடன் வினையில் ஈடுபட்டு புதிய பொருளான புகையை வெளித்தள்ளுகிறது.",
+      "இயற்பியல் மாற்றம். கற்பூரம் எரியும் பொழுது நைட்ரஜனுடன் வினையில் ஈடுபட்டு புதிய பொருளான புகையை வெளித்தள்ளுகிறது.",
+      "வேதி மாற்றம். கற்பூரம் எரியும் பொழுது ஆக்ஸிஜனுடன் வினையில் ஈடுபட்டு புதிய பொருளான புகையை வெளித்தள்ளுகிறது.",
+      "வேதி மாற்றம். கற்பூரம் எரியும் பொழுது நைட்ரஜனுடன் வினையில் ஈடுபட்டு புதிய பொருளான புகையை வெளித்தள்ளுகிறது."
+    ],
+    "correct": 2,
+    "question_en": "What kind of change does camphor burn?",
+    "options_en": [
+      "Physical change. When camphor burns, it reacts with oxygen to produce a new substance called smoke.",
+      "Physical change. When camphor burns, it reacts with nitrogen to produce a new substance called smoke.",
+      "chemical change. When camphor burns, it reacts with oxygen to produce a new substance called smoke.",
+      "chemical change. When camphor burns, it reacts with nitrogen to produce a new substance called smoke."
+    ],
+    "explanation": "வேதி மாற்றம். கற்பூரம் எரியும் பொழுது ஆக்ஸிஜனுடன் வினையில் ஈடுபட்டு புதிய பொருளான புகையை வெளித்தள்ளுகிறது.",
+    "explanation_en": "chemical change. When camphor burns, it reacts with oxygen to produce a new substance called smoke."
+  },
+  {
+    "id": 26,
+    "question": "அனைத்து எரிதல் வினைகளும் வேதி, மீளா மாற்றங்களாகும். இக்கூற்று சரியா? தவறா?",
+    "options": [
+      "100 %",
+      "100%",
+      "50 %",
+      "50 %"
+    ],
+    "correct": 0,
+    "question_en": "All combustion reactions are chemical, reversible changes. Is this statement correct? Is it wrong?",
+    "options_en": [
+      "100 %",
+      "100%",
+      "50 %",
+      "50 %"
+    ],
+    "explanation": "100 %",
+    "explanation_en": "100 %"
+  },
+  {
+    "id": 27,
+    "question": "பின்வருவனவற்றுள் சரியான கூற்று எது?",
+    "options": [
+      "அனைத்து வேதி மாற்றங்களின் பொழுதும் ஒரு புதிய பொருள் உருவாகும். மேலும் இவை நிரந்தர மாற்றம் மற்றும் மீளா மாற்றங்களாகும்.",
+      "அனைத்து வேதி மாற்றங்களின் பொழுதும் ஒரு புதிய பொருள் உருவாகாது. மேலும் இவை நிரந்தர மாற்றம் மற்றும் மீளா மாற்றங்களாகும்.",
+      "அனைத்து இயற்பியல் மாற்றங்களின் பொழுதும் ஒரு புதிய பொருள் உருவாகும். மேலும் இவை நிரந்தர மாற்றம் மற்றும் மீளா மாற்றங்களாகும்.",
+      "அனைத்து இயற்பியல் மாற்றங்களின் பொழுதும் ஒரு புதிய பொருள் உருவாகாது. மேலும் இவை நிரந்தர மாற்றம் மற்றும் மீளா மாற்றங்களாகும்."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is the correct statement?",
+    "options_en": [
+      "During all chemical changes a new substance is formed. And these are permanent changes and recurring changes.",
+      "Not all chemical reactions create a new substance. And these are permanent changes and recurring changes.",
+      "During all physical changes a new substance is formed. And these are permanent changes and recurring changes.",
+      "Not all physical changes create a new substance. And these are permanent changes and recurring changes."
+    ],
+    "explanation": "அனைத்து வேதி மாற்றங்களின் பொழுதும் ஒரு புதிய பொருள் உருவாகும். மேலும் இவை நிரந்தர மாற்றம் மற்றும் மீளா மாற்றங்களாகும்.",
+    "explanation_en": "During all chemical changes a new substance is formed. And these are permanent changes and recurring changes. is the correct statement."
+  },
+  {
+    "id": 28,
+    "question": "பின்வருவனவற்றுள் கால ஒழுங்கு மாற்றம் எது?",
+    "options": [
+      "புவி சுழலுதல்",
+      "பால் தயிராதல்",
+      "கண்ணாடி உடைதல்",
+      "பூகம்பம் ஏற்படுதல்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is a change in time order?",
+    "options_en": [
+      "Earth rotation",
+      "Milk production",
+      "Glass breakage",
+      "Earthquake occurrence"
+    ],
+    "explanation": "பின்வருவனவற்றுள் கால ஒழுங்கு மாற்றம் புவி சுழலுதல் ஆகும்.",
+    "explanation_en": "Earth rotation is a change in time order."
+  },
+  {
+    "id": 29,
+    "question": "பின்வருவனவற்றுள் கால ஒழுங்கற்ற மாற்றம் எது?",
+    "options": [
+      "புவி சுழலுதல்",
+      "இரவு பகல் தோன்றுதல்",
+      "பருவ கால மாற்றங்கள்",
+      "பூகம்பம் ஏற்படுதல்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is irregular change of period?",
+    "options_en": [
+      "Earth rotation",
+      "Day and night appearance",
+      "Seasonal changes",
+      "Earthquake occurrence"
+    ],
+    "explanation": "பின்வருவனவற்றுள் கால ஒழுங்கற்ற மாற்றம் பூகம்பம் ஏற்படுதல் ஆகும்.",
+    "explanation_en": "Earthquake occurrence is irregular change of period."
+  },
+  {
+    "id": 30,
+    "question": "இயற்பியல் மாற்றம் எனப்படுவது",
+    "options": [
+      "புதிய பொருள் உருவாகும் மாற்றம்",
+      "ஒரு நிரந்தர மாற்றம்.",
+      "இயைபில் மாற்றம் ஏற்படாத் மாற்றம்",
+      "ஒரு மீளாவினை"
+    ],
+    "correct": 2,
+    "question_en": "It is called physical change",
+    "options_en": [
+      "A change in which a new substance is formed",
+      "A permanent change.",
+      "A change in nature is a change that does not occur",
+      "A reaction"
+    ],
+    "explanation": "இயைபில் மாற்றம் ஏற்படாத் மாற்றம்",
+    "explanation_en": "A change in nature is a change that does not occur"
+  },
+  {
+    "id": 31,
+    "question": "தீக்குச்சி எரிதல் ஓர் / ஒரு",
+    "options": [
+      "இயற்பியல் மாற்றம். வெப்பம் மட்டுமே வெளிப்படுகிறது.",
+      "இயற்பியல் மாற்றம். வெப்பம், ஒளி வெளிப்படுகிறது.",
+      "வேதி மாற்றம் வெப்பம், ஒளி, புகை வெளிப்படுகிறது.",
+      "வேதி மாற்றம் வெப்பம், ஒளி வெளிப்படுகிறது."
+    ],
+    "correct": 2,
+    "question_en": "Match burning one / one",
+    "options_en": [
+      "Physical change. Only heat is emitted.",
+      "Physical change. Heat and light are emitted.",
+      "Chemical change produces heat, light, and smoke.",
+      "Chemical change produces heat and light."
+    ],
+    "explanation": "வேதி மாற்றம் வெப்பம், ஒளி, புகை வெளிப்படுகிறது.",
+    "explanation_en": "Chemical change produces heat, light, and smoke."
+  },
+  {
+    "id": 32,
+    "question": "அடர் சோடியம் குளோரைடு கரைசலுக்கு ________ என்று பெயர்.",
+    "options": [
+      "தரைன்",
+      "மரைன்",
+      "பிரைன்",
+      "கிரைன்"
+    ],
+    "correct": 2,
+    "question_en": "A concentrated sodium chloride solution is called ________.",
+    "options_en": [
+      "of the ground",
+      "Marine",
+      "Brian",
+      "Crane"
+    ],
+    "explanation": "அடர் சோடியம் குளோரைடு கரைசலுக்கு பிரைன் என்று பெயர்.",
+    "explanation_en": "A concentrated sodium chloride solution is called Brian."
+  },
+  {
+    "id": 33,
+    "question": "பொருத்துக.\na) சுட்ட சுண்ணாம்பு b) நீற்றுச் சுண்ணாம்பு c) வெள்ளி குளோரைடு d) வெள்ளி நைட்ரேட் e) சோடியம் குளோரைடு\ni) Ca(OH)2 ii) NaCl iii) AgNO3 iv) CaO v) AgCl",
+    "options": [
+      "a-ii b-i c-iv d-iii e-v",
+      "a-iii b-i c-v d-i e-iv",
+      "a-iv b-i c-v d-iii e-ii",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "correct": 2,
+    "question_en": "match\na) Quicklime b) Quicklime c) Silver chloride d) Silver nitrate e) Sodium chloride\ni) Ca(OH)2 ii) NaCl iii) AgNO3 iv) CaO v) AgCl",
+    "options_en": [
+      "a-ii b-i c-iv d-iii e-v",
+      "a-iii b-i c-v d-i e-iv",
+      "a-iv b-i c-v d-iii e-ii",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "explanation": "a-iv b-i c-v d-iii e-ii",
+    "explanation_en": "a-iv b-i c-v d-iii e-ii"
+  },
+  {
+    "id": 34,
+    "question": "சரியான கூற்றைத் தேர்வு செய்க.",
+    "options": [
+      "தொட்டால் சிணுங்கித் தாவரம் தொடுதலுக்கு துலங்கலை வெளிப்படுத்துதல் ஒரு மீளா மாற்றமாகும்.",
+      "பட்டாசு வெடித்தல் ஒரு மெதுவான மாற்றமாகும்.",
+      "கண்ணாடி உடைதல் ஒரு பயனற்ற, விரும்பத்தகா மாற்றமாகும்.",
+      "உருகுதல், உறைதல், ஆவியாதல், ஆவி சுருங்குதல் மற்றும் பதங்கமாதல் வேதியியல் மாற்றங்களாகும்."
+    ],
+    "correct": 2,
+    "question_en": "Choose the correct statement.",
+    "options_en": [
+      "A plant that squeaks to the touch is a reflex.",
+      "Fireworks are a slow change.",
+      "Glass breakage is a useless, desirable change.",
+      "Melting, freezing, evaporation, condensation and sublimation are chemical changes."
+    ],
+    "explanation": "கண்ணாடி உடைதல் ஒரு பயனற்ற, விரும்பத்தகா மாற்றமாகும்.",
+    "explanation_en": "Glass breakage is a useless, desirable change."
+  },
+  {
+    "id": 35,
+    "question": "பால் தயிராதல் பின்வரும் எம்மாற்றங்களுக்குள் வரும்?",
+    "options": [
+      "இயற்பியல், மீளா, வேகமான, விரும்பத்தக்க மாற்றங்களுக்குள் வரும்.",
+      "இயற்பியல், மீள், வேகமான, விரும்பத்தகாத மாற்றங்களுக்குள் வரும்.",
+      "வேதியியல், மீளா, மெதுவான, விரும்பத்தக்க மாற்றங்களுக்குள் வரும்.",
+      "வேதியியல், மீள், மெதுவான, விரும்பத்தகாத மாற்றங்களுக்குள் வரும்."
+    ],
+    "correct": 2,
+    "question_en": "Milk production falls under which of the following changes?",
+    "options_en": [
+      "Physical, elastic, rapid, and subject to desirable changes.",
+      "Physical, elastic, rapid, subject to undesirable changes.",
+      "Chemistry undergoes repeated, slow, desirable changes.",
+      "Chemistry, elastic, undergoes slow, undesirable changes."
+    ],
+    "explanation": "வேதியியல், மீளா, மெதுவான, விரும்பத்தக்க மாற்றங்களுக்குள் வரும்.",
+    "explanation_en": "Chemistry undergoes repeated, slow, desirable changes."
+  },
+  {
+    "id": 36,
+    "question": "இதயத்துடிப்பு பின்வரும் எம்மாற்றங்களுக்குள் வரும்?",
+    "options": [
+      "கால ஒழுங்கு, மீளா, வேகமான, விரும்பத்தக்க மாற்றங்களுக்குள் வரும்.",
+      "கால ஒழுங்கற்ற, மீள், வேகமான, விரும்பத்தகாத மாற்றங்களுக்குள் வரும்.",
+      "கால ஒழுங்கு, மீள், வேகமான, விரும்பத்தக்க மாற்றங்களுக்குள் வரும்.",
+      "கால ஒழுங்கு, மீளா, வேகமான, விரும்பத்தகாத மாற்றங்களுக்குள் வரும்."
+    ],
+    "correct": 2,
+    "question_en": "Heart rate undergoes which of the following changes?",
+    "options_en": [
+      "Periodicity is subject to frequent, rapid, desirable changes.",
+      "Periods are irregular, elastic, rapid, subject to unpleasant changes.",
+      "Periodicity is flexible, rapid, and subject to desirable changes.",
+      "Periodicity undergoes frequent, rapid, and undesirable changes."
+    ],
+    "explanation": "கால ஒழுங்கு, மீள், வேகமான, விரும்பத்தக்க மாற்றங்களுக்குள் வரும்.",
+    "explanation_en": "Periodicity is flexible, rapid, and subject to desirable changes."
+  },
+  {
+    "id": 37,
+    "question": "கூற்று: நீரில் கரையும் குளுக்கோஸ் மற்றும் பெட்ரோல் போன்ற பொருள்கள் நமது தோலில் படும்போது குளிர்ச்சியை உணர்கிறோம்.\nகாரணம்: பொருள்கள் வெப்பத்தை நம்மிடமிருந்து உறிஞ்சுவதால் குளிர்ச்சியாக இருப்பது போல் நாம் உணர்கிறோம்.",
+    "options": [
+      "கூற்றும் காரணமும் சரி",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று தவறு, காரணம் சரி",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: When water-soluble substances like glucose and gasoline rub on our skin, we feel cold.\nReason: Objects absorb heat from us so we feel cold.",
+    "options_en": [
+      "The statement and reason are correct",
+      "The statement is right, the reason is wrong",
+      "The statement is wrong, the reason is right",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி",
+    "explanation_en": "The statement and reason are correct"
+  },
+  {
+    "id": 38,
+    "question": "கூற்று 1: அனைத்து இயற்பியல் மாற்றங்களும் மீள் மாற்றங்களாகும்.\nகூற்று 2: அனைத்து இயற்பியல் மாற்றங்களும் மீளா மாற்றங்களாகும்.\nகூற்று 3: அனைத்து வேதி மாற்றங்களும் மீள் மாற்றங்களாகும்.\nகூற்று 4: அனைத்து வேதி மாற்றங்களும் மீளா மாற்றங்களாகும்.",
+    "options": [
+      "கூற்று 1,2,3 சரி. 4 தவறு",
+      "கூற்று 1,3 சரி. 2,4 தவறு",
+      "கூற்று 2,3 சரி. 1.4 தவறு",
+      "கூற்று 1,4 சரி. 2,3 தவறு"
+    ],
+    "correct": 3,
+    "question_en": "Assertion 1: All physical changes are elastic changes.\nAssertion 2: All physical changes are irreversible.\nStatement 3: All chemical changes are reversible.\nStatement 4: All chemical changes are irreversible.",
+    "options_en": [
+      "Statement 1,2,3 are correct. 4 is wrong",
+      "Statement 1,3 are correct. 2,4 is wrong",
+      "Statement 2,3 are correct. 1.4 Error",
+      "Statement 1,4 are correct. 2,3 is wrong"
+    ],
+    "explanation": "கூற்று 1,4 சரி. 2,3 தவறு",
+    "explanation_en": "Statement 1,4 are correct. 2,3 is wrong"
+  },
+  {
+    "id": 39,
+    "question": "கூற்று: நறுக்கிய ஆப்பிள் மற்றும் உருளைக் கிழங்கு சற்று நேரத்தில் நிறமாற்றம் அடைகிறது.\nகாரணம்: காற்றுடன் வினைபட்டு வேதி மாற்றமடைந்து புதிய பொருள் உருவாவதால் நிறமாற்றம் ஏற்படுகிறது.",
+    "options": [
+      "இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது",
+      "இரண்டும் தவறு",
+      "கூற்று சரி காரணம் தவறு.",
+      "கூற்று தவறு காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Claim: Chopped apples and yams discolor over time.\nReason: Discoloration occurs due to reaction with air and chemical change to form new material.",
+    "options_en": [
+      "Both are correct. Reason explains the statement",
+      "Both are wrong",
+      "The statement is true and the reason is false.",
+      "The statement is false and the reason is correct"
+    ],
+    "explanation": "இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது",
+    "explanation_en": "Both are correct. Reason explains the statement"
+  },
+  {
+    "id": 40,
+    "question": "நறுக்கிய ஆப்பிள், உருளைக் கிழங்கு நிறம் மாறக் காரணமான நிறமிப் பொருளுக்கு ________ பெயர்.",
+    "options": [
+      "குளோரோஃபில்",
+      "ஹீமோகுளோபின்",
+      "மெலனின்",
+      "சாந்தோஃபில்"
+    ],
+    "correct": 2,
+    "question_en": "________ is the name for the pigment that causes the color of chopped apples and tubers to change color.",
+    "options_en": [
+      "Chlorophyll",
+      "Hemoglobin",
+      "Melanin",
+      "Xanthophyll"
+    ],
+    "explanation": "நறுக்கிய ஆப்பிள், உருளைக் கிழங்கு நிறம் மாறக் காரணமான நிறமிப் பொருளுக்கு மெலனின் பெயர்.",
+    "explanation_en": "Melanin is the name for the pigment that causes the color of chopped apples and tubers to change color."
+  },
+  {
+    "id": 41,
+    "question": "ஒப்புமை தருக. பால் தயிராக மாறுதல் : மீளா மாற்றம் : : மேகம் உருவாதல் :?",
+    "options": [
+      "மீள் மாற்றம்",
+      "இயற்பியல் மாற்றம்",
+      "மெதுவான மாற்றம்",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Give an analogy. Conversion of milk to curd : Reconstitution : : Cloud formation : ?",
+    "options_en": [
+      "Elastic change",
+      "Physical change",
+      "Slow change",
+      "Everything"
+    ],
+    "explanation": "மீள் மாற்றம்",
+    "explanation_en": "Elastic change"
+  },
+  {
+    "id": 42,
+    "question": "ஒப்புமை தருக. தீக்குச்சி எரிதல் : வேகமான மாற்றம் :: மேகம் உருவாதல் :",
+    "options": [
+      "மீள் மாற்றம்",
+      "இயற்பியல் மாற்றம்",
+      "மெதுவான மாற்றம்",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Give an analogy. Combustion : Rapid change :: Cloud formation :",
+    "options_en": [
+      "Elastic change",
+      "Physical change",
+      "Slow change",
+      "Everything"
+    ],
+    "explanation": "மெதுவான மாற்றம்",
+    "explanation_en": "Slow change"
+  },
+  {
+    "id": 43,
+    "question": "பின்வருவனவற்றுள் பொருந்தாதது எது?\nகுழந்தை வளர்தல், கண் இமைத்தல், இரும்பு துருப்பிடித்தல், விதை முளைத்தல்.",
+    "options": [
+      "குழந்தை வளர்தல்",
+      "கண் இமைத்தல்",
+      "இரும்பு துருப்பிடித்தல்",
+      "விதை முளைத்தல்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is NOT true?\nChild growth, winking, rusting of iron, germination of seed.",
+    "options_en": [
+      "Child development",
+      "Blinking",
+      "Rusting of iron",
+      "Seed germination"
+    ],
+    "explanation": "பின்வருவனவற்றுள் பொருந்தாதது கண் இமைத்தல் ஆகும்.\nகுழந்தை வளர்தல், கண் இமைத்தல், இரும்பு துருப்பிடித்தல், விதை முளைத்தல்.",
+    "explanation_en": "Blinking is NOT true.\nChild growth, winking, rusting of iron, germination of seed."
+  },
+  {
+    "id": 44,
+    "question": "பின்வருவனவற்றுள் பொருந்தாதது எது?\nமுட்டை உடைதல், தீக்குச்சி எரிதல், காய் கனியாதல், ஒளிச்சேர்க்கை",
+    "options": [
+      "தீக்குச்சி எரிதல்",
+      "காய் கனியாதல்",
+      "முட்டை உடைதல்",
+      "ஒளிச் சேர்க்கை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is NOT true?\nEgg breaking, match burning, fruit ripening, photosynthesis",
+    "options_en": [
+      "Match burning",
+      "Fruiting",
+      "Egg cracking",
+      "Add light"
+    ],
+    "explanation": "பின்வருவனவற்றுள் பொருந்தாதது முட்டை உடைதல் ஆகும்.\nமுட்டை உடைதல், தீக்குச்சி எரிதல், காய் கனியாதல், ஒளிச்சேர்க்கை",
+    "explanation_en": "Egg cracking is NOT true.\nEgg breaking, match burning, fruit ripening, photosynthesis"
+  },
+  {
+    "id": 45,
+    "question": "பின்வருவனவற்றுள் பொருந்தாதது எது?\nமுட்டை உடைதல், நீராவி குளிர்தல், காய் கனியாதல், ஆடை நெய்தல்",
+    "options": [
+      "முட்டை உடைதல்",
+      "நீராவி குளிர்தல்",
+      "காய் கனியாதல்",
+      "ஆடை நெய்தல்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is NOT true?\nEgg breaking, Steam cooling, Fruit ripening, Garment weaving",
+    "options_en": [
+      "Egg cracking",
+      "Steam cooling",
+      "Fruiting",
+      "Garment weaving"
+    ],
+    "explanation": "பின்வருவனவற்றுள் பொருந்தாதது காய் கனியாதல் ஆகும்.\nமுட்டை உடைதல், நீராவி குளிர்தல், காய் கனியாதல், ஆடை நெய்தல்",
+    "explanation_en": "Fruiting is NOT true.\nEgg breaking, Steam cooling, Fruit ripening, Garment weaving"
+  },
+  {
+    "id": 46,
+    "question": "துருப்பிடித்தலை தடுக்கும் முறை எது?",
+    "options": [
+      "உலோகக் கலவையாக்கல்",
+      "நாகமுலாம் பூசுதல்",
+      "வண்ணம் பூசுதல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What is the method of preventing corrosion?",
+    "options_en": [
+      "Alloying",
+      "Dragon plating",
+      "Coloring",
+      "Everything"
+    ],
+    "explanation": "துருப்பிடித்தலை தடுக்கும் முறை அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is the method of preventing corrosion."
+  },
+  {
+    "id": 47,
+    "question": "உலோகக்கலவை என்பது ________ ஐ கலந்து அதன் வலிமையைக் கூட்டுவதோடு, தன்மையையும் மாற்றுவதாகும்.",
+    "options": [
+      "உலோகங்கள், உலோகங்கள்",
+      "அலோகங்களை மட்டும்",
+      "உலோகங்கள், அலோகங்கள்",
+      "1 மற்றும் 3"
+    ],
+    "correct": 3,
+    "question_en": "Alloying is the mixing of ________ to increase its strength and change its character.",
+    "options_en": [
+      "Metals, metals",
+      "Metals only",
+      "Metals, alloys",
+      "1 and 3"
+    ],
+    "explanation": "உலோகக்கலவை என்பது 1 மற்றும் 3 ஐ கலந்து அதன் வலிமையைக் கூட்டுவதோடு, தன்மையையும் மாற்றுவதாகும்.",
+    "explanation_en": "Alloying is the mixing of 1 and 3 to increase its strength and change its character."
+  },
+  {
+    "id": 48,
+    "question": "எந்தப் பொருளின் மீது மின்முலாம் பூசப்படவேண்டுமோ அப்பொருள் ________ முனையில் இணைக்கப்பட வேண்டும்.",
+    "options": [
+      "நேர்மின்வாய்",
+      "எதிர்மின்வாய்",
+      "நேர்மின்வாய் அல்லது எதிர்மின்வாய்",
+      "மேற்கண்ட எதுவுமில்லை."
+    ],
+    "correct": 1,
+    "question_en": "Any material to be electroplated should be connected to the ________ terminal.",
+    "options_en": [
+      "positive",
+      "countercurrent",
+      "positive current or negative current",
+      "None of the above."
+    ],
+    "explanation": "எந்தப் பொருளின் மீது மின்முலாம் பூசப்படவேண்டுமோ அப்பொருள் எதிர்மின்வாய் முனையில் இணைக்கப்பட வேண்டும்.",
+    "explanation_en": "Any material to be electroplated should be connected to the countercurrent terminal."
+  },
+  {
+    "id": 49,
+    "question": "இரும்பு சன்னல்களில் வண்ணம் பூச முதன்மையான காரணம் எது?",
+    "options": [
+      "காற்று உள்ளே வருவதற்கு ஏதுவாக",
+      "பூச்சிகள் உள்ளே வருவதை தடுக்க",
+      "துருப்பிடிக்காமல் இருக்க",
+      "மனதிற்கு பிடித்த வண்ணத்தில் மாற்ற."
+    ],
+    "correct": 2,
+    "question_en": "What is the primary reason for painting iron windows?",
+    "options_en": [
+      "Allow air to enter",
+      "To prevent insects from entering",
+      "To prevent rusting",
+      "Change to your favorite color."
+    ],
+    "explanation": "இரும்பு சன்னல்களில் வண்ணம் பூச முதன்மையான காரணம் துருப்பிடிக்காமல் இருக்க ஆகும்.",
+    "explanation_en": "To prevent rusting is the primary reason for painting iron windows."
+  },
+  {
+    "id": 50,
+    "question": "நம் வீட்டிலுள்ள எவர்சில்வர் பாத்திரம் துருப்பிடிக்காததற்கு காரணம் எது?",
+    "options": [
+      "பாத்திரத்தின் மேல் சில்வர் பூச்சு பூசப்பட்டுள்ளது.",
+      "பாத்திரம் நாகமுலாம் பூசப்பட்டுள்ளது.",
+      "பாத்திரம் உலோகக் கலவையாக்கல் முறையில் உருவாக்கப்பட்டுள்ளது",
+      "பாத்திரத்தின் சில்வர் நிறம் காரணமாக துருப்பிடிப்பதில்லை."
+    ],
+    "correct": 2,
+    "question_en": "What is the reason why the Eversilver vessel in our house does not rust?",
+    "options_en": [
+      "The top of the vessel is coated with a silver coating.",
+      "The vessel is copper plated.",
+      "The vessel is made by alloying method",
+      "Due to the silver color of the vessel it does not rust."
+    ],
+    "explanation": "நம் வீட்டிலுள்ள எவர்சில்வர் பாத்திரம் துருப்பிடிக்காததற்கு காரணம் பாத்திரம் உலோகக் கலவையாக்கல் முறையில் உருவாக்கப்பட்டுள்ளது ஆகும்.",
+    "explanation_en": "The vessel is made by alloying method is the reason why the Eversilver vessel in our house does not rust."
+  },
+  {
+    "id": 51,
+    "question": "இயல் நிலையில் நிகழாத வேதிமாற்றத்தை நிகழ்த்தத் தேவையான காரணி எது?",
+    "options": [
+      "வெப்பம், அழுத்தம்",
+      "மின்சாரத்தை செலுத்துதல், கரைசலாக்குதல்",
+      "ஒளி, வினைவேகமாற்றி",
+      "மேற்சொன்னவற்றுள் ஒன்று அல்லது அதற்கு மேற்பட்ட காரணிகள்."
+    ],
+    "correct": 3,
+    "question_en": "Which factor is required to carry out a chemical reaction that does not occur naturally?",
+    "options_en": [
+      "Heat, pressure",
+      "Conduction of electricity, dissolution",
+      "Light, catalytic converter",
+      "One or more of the above factors."
+    ],
+    "explanation": "இயல் நிலையில் நிகழாத வேதிமாற்றத்தை நிகழ்த்தத் தேவையான காரணி மேற்சொன்னவற்றுள் ஒன்று அல்லது அதற்கு மேற்பட்ட காரணிகள். ஆகும்.",
+    "explanation_en": "One or more of the above factors."
+  },
+  {
+    "id": 52,
+    "question": "பின்வருவனவற்றுள் இயல் நிலையில் நிகழும் வினை எது?",
+    "options": [
+      "சில்வர் நைட்ரேட் (AgNO3) + சோடியம் குளோரைடு (NaCl) வினைபடுதல்.",
+      "சுட்ட சுண்ணாம்பு (CaO) + நீர் (H2O) வினைபடுதல்.",
+      "நீர் மின்னாற்பகுப்படைந்து H2, O2 ஆகப் பிரிகையடைதல்.",
+      "லெட் நைட்ரேட் சிதைதல்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following verb occurs naturally?",
+    "options_en": [
+      "Reaction of silver nitrate (AgNO3) + sodium chloride (NaCl).",
+      "Reaction of quicklime (CaO) + water (H2O).",
+      "Electrolysis of water into H2, O2.",
+      "Decomposition of lead nitrate."
+    ],
+    "explanation": "பின்வருவனவற்றுள் இயல் நிலையில் நிகழும் வினை சுட்ட சுண்ணாம்பு (CaO) + நீர் (H2O) வினைபடுதல். ஆகும்.",
+    "explanation_en": "Reaction of quicklime (CaO) + water (H2O)."
+  },
+  {
+    "id": 53,
+    "question": "பின்வருவனவற்றுள் கரைசல் நிலையில் நிகழும்வினை எது?",
+    "options": [
+      "சில்வர் நைட்ரேட் (AgNO3) + சோடியம் குளோரைடு (NaCl) வினைபடுதல்.",
+      "சுட்ட சுண்ணாம்பு (CaO) + நீர் (H2O) வினைபடுதல்.",
+      "நீர் மின்னாற்பகுப்படைந்து H2, O2 ஆகப் பிரிகையடைதல்.",
+      "லெட் நைட்ரேட் சிதைதல்."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following reactions takes place in solution?",
+    "options_en": [
+      "Reaction of silver nitrate (AgNO3) + sodium chloride (NaCl).",
+      "Reaction of quicklime (CaO) + water (H2O).",
+      "Electrolysis of water into H2, O2.",
+      "Decomposition of lead nitrate."
+    ],
+    "explanation": "பின்வருவனவற்றுள் கரைசல் நிலையில் நிகழும்வினை சில்வர் நைட்ரேட் (AgNO3) + சோடியம் குளோரைடு (NaCl) வினைபடுதல். ஆகும்.",
+    "explanation_en": "Reaction of silver nitrate (AgNO3) + sodium chloride (NaCl)."
+  },
+  {
+    "id": 54,
+    "question": "பின்வருவனவற்றுள் மின்னாற்றலால் நிகழும் வினை எது?",
+    "options": [
+      "சில்வர் நைட்ரேட் (AgNO3) + சோடியம் குளோரைடு (NaCl) வினைபடுதல்.",
+      "சுட்ட சுண்ணாம்பு (CaO) + நீர் (H2O) வினைபடுதல்.",
+      "நீர் மின்னாற்பகுப்படைந்து H2, O2 ஆகப் பிரிகையடைதல்.",
+      "லெட் நைட்ரேட் சிதைதல்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following reactions is caused by electricity?",
+    "options_en": [
+      "Reaction of silver nitrate (AgNO3) + sodium chloride (NaCl).",
+      "Reaction of quicklime (CaO) + water (H2O).",
+      "Electrolysis of water into H2, O2.",
+      "Decomposition of lead nitrate."
+    ],
+    "explanation": "பின்வருவனவற்றுள் மின்னாற்றலால் நிகழும் வினை நீர் மின்னாற்பகுப்படைந்து H2, O2 ஆகப் பிரிகையடைதல். ஆகும்.",
+    "explanation_en": "Electrolysis of water into H2, O2."
+  },
+  {
+    "id": 55,
+    "question": "பின்வருவனவற்றுள் வெப்பப்படுத்தும் பொழுது நிகழும் வினை எது?",
+    "options": [
+      "சில்வர் நைட்ரேட் (AgNO3) + சோடியம் குளோரைடு (NaCl) வினைபடுதல்.",
+      "சுட்ட சுண்ணாம்பு (CaO) + நீர் (H2O) வினைபடுதல்.",
+      "நீர் மின்னாற்பகுப்படைந்து H2, O2 ஆகப் பிரிகையடைதல்.",
+      "லெட் நைட்ரேட் சிதைதல்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following reaction takes place during heating?",
+    "options_en": [
+      "Reaction of silver nitrate (AgNO3) + sodium chloride (NaCl).",
+      "Reaction of quicklime (CaO) + water (H2O).",
+      "Electrolysis of water into H2, O2.",
+      "Decomposition of lead nitrate."
+    ],
+    "explanation": "பின்வருவனவற்றுள் வெப்பப்படுத்தும் பொழுது நிகழும் வினை லெட் நைட்ரேட் சிதைதல். ஆகும்.",
+    "explanation_en": "Decomposition of lead nitrate."
+  },
+  {
+    "id": 56,
+    "question": "உப்பு சேர்க்கப்படாத இட்லி மாவில் தயாரிக்கப்பட்ட இட்லியின் மீது உப்பைத் தூவாமல், உப்புநீரை அம்மா தெளிக்கிறார். இக்கூற்றிலுள்ள அறிவியல் தத்துவம் எது?",
+    "options": [
+      "கரைசல் நிலையில் உப்பு நன்கு விரவும்.",
+      "உப்பு நீரில் கரையும்.",
+      "உப்பு இட்லியின் சுவையைக் கூட்டும்.",
+      "நம் உடலின் செயல்பாட்டுக்கு உப்பு அவசியம்."
+    ],
+    "correct": 0,
+    "question_en": "Amma sprinkles brine over idlis made from unsalted idli batter without sprinkling salt. What is the scientific principle in this statement?",
+    "options_en": [
+      "Salt dissolves well in solution.",
+      "Soluble in salt water.",
+      "Salt adds flavor to the idli.",
+      "Salt is essential for the functioning of our body."
+    ],
+    "explanation": "உப்பு சேர்க்கப்படாத இட்லி மாவில் தயாரிக்கப்பட்ட இட்லியின் மீது உப்பைத் தூவாமல், உப்புநீரை அம்மா தெளிக்கிறார். இக்கூற்றிலுள்ள அறிவியல் தத்துவம் கரைசல் நிலையில் உப்பு நன்கு விரவும். ஆகும்.",
+    "explanation_en": "Amma sprinkles brine over idlis made from unsalted idli batter without sprinkling salt. Salt dissolves well in solution. is the scientific principle in this statement."
+  },
+  {
+    "id": 57,
+    "question": "ஒளிச்சேர்க்கை ஒரு வேதிமாற்றம். இம்மாற்றம் நிகழத் தேவையான ஆற்றல் காரணி எது?",
+    "options": [
+      "வெப்ப ஆற்றல்",
+      "ஒலி ஆற்றல்",
+      "ஒளி ஆற்றல்",
+      "காந்த ஆற்றல்"
+    ],
+    "correct": 2,
+    "question_en": "Photosynthesis is a chemical transformation. What is the energy factor required for this change to occur?",
+    "options_en": [
+      "Heat energy",
+      "Sound energy",
+      "Light energy",
+      "Magnetic energy"
+    ],
+    "explanation": "ஒளிச்சேர்க்கை ஒரு வேதிமாற்றம். இம்மாற்றம் நிகழத் தேவையான ஆற்றல் காரணி ஒளி ஆற்றல் ஆகும்.",
+    "explanation_en": "Photosynthesis is a chemical transformation. Light energy is the energy factor required for this change to occur."
+  },
+  {
+    "id": 58,
+    "question": "பின்வருவனவற்றுள் ஒளி ஆற்றலால் நிகழும் வேதிவினை எது?",
+    "options": [
+      "தாவரங்கள் உணவு தயாரித்தல்.",
+      "ஹேபர் முறையில் அம்மோனியா தயாரித்தல்.",
+      "சூரிய தடுகளின் உதவியுடன் மின் உற்பத்தி செய்தல்",
+      "அனைத்தும்."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is a chemical reaction caused by light energy?",
+    "options_en": [
+      "Plants make food.",
+      "Preparation of ammonia by Haber method.",
+      "Generation of electricity with the help of solar panels",
+      "Everything."
+    ],
+    "explanation": "பின்வருவனவற்றுள் ஒளி ஆற்றலால் நிகழும் வேதிவினை தாவரங்கள் உணவு தயாரித்தல். ஆகும்.",
+    "explanation_en": "Plants make food. is a chemical reaction caused by light energy."
+  },
+  {
+    "id": 59,
+    "question": "சூரிய ஆற்றலை முதலில் பயன்படுத்தியவர்கள் / பயன்படுத்தியவை",
+    "options": [
+      "மனிதர்கள்",
+      "பூச்சிகள்",
+      "தாவரங்கள்",
+      "பூஞ்சைகள்"
+    ],
+    "correct": 2,
+    "question_en": "The first to use solar energy",
+    "options_en": [
+      "Human beings",
+      "Insects",
+      "Plants",
+      "fungi"
+    ],
+    "explanation": "தாவரங்கள்",
+    "explanation_en": "Plants"
+  },
+  {
+    "id": 60,
+    "question": "பின்வருவனவற்றுள் ஒளி வேதிவினை எது?",
+    "options": [
+      "அனைத்து வெப்பச் சிதைவு வினைகளும் ஒளி வேதிவினைகள் ஆகும்.",
+      "அனைத்து அமில - கார வினைகளும் ஒளி வேதிவினைகள் ஆகும்.",
+      "வளிமண்டலத்தில் ஓசோன் உருவாதல்.",
+      "அனைத்தும்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is photochemical?",
+    "options_en": [
+      "All thermal decomposition reactions are photochemical reactions.",
+      "All acid-base reactions are photochemical reactions.",
+      "Formation of ozone in the atmosphere.",
+      "Everything."
+    ],
+    "explanation": "பின்வருவனவற்றுள் ஒளி வேதிவினை வளிமண்டலத்தில் ஓசோன் உருவாதல். ஆகும்.",
+    "explanation_en": "Formation of ozone in the atmosphere. is photochemical."
+  },
+  {
+    "id": 61,
+    "question": "பின்வருவனவற்றுள் உயிரி வினைவேகமாற்றி எது?",
+    "options": [
+      "என்சைம் மற்றும் ஈஸ்ட்",
+      "இரும்பு.",
+      "நிக்கல்",
+      "பூஞ்சைகள்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is a biocatalyst?",
+    "options_en": [
+      "Enzyme and Yeast",
+      "Iron.",
+      "Nickel",
+      "fungi"
+    ],
+    "explanation": "பின்வருவனவற்றுள் உயிரி வினைவேகமாற்றி என்சைம் மற்றும் ஈஸ்ட் ஆகும்.",
+    "explanation_en": "Enzyme and Yeast is a biocatalyst."
+  },
+  {
+    "id": 62,
+    "question": "ஹேபர் முறையில் அமோனியா தயாரிக்கப் பயன்படும் வினைவேகமாற்றி எது?",
+    "options": [
+      "என்சைம் மற்றும் ஈஸ்ட்",
+      "இரும்பு.",
+      "நிக்கல்",
+      "பூஞ்சைகள்"
+    ],
+    "correct": 1,
+    "question_en": "Which catalyst is used to produce ammonia in Haber method?",
+    "options_en": [
+      "Enzyme and Yeast",
+      "Iron.",
+      "Nickel",
+      "fungi"
+    ],
+    "explanation": "ஹேபர் முறையில் அமோனியா தயாரிக்கப் பயன்படும் வினைவேகமாற்றி இரும்பு. ஆகும்.",
+    "explanation_en": "Iron."
+  },
+  {
+    "id": 63,
+    "question": "வேதிவினைகளால் ஏற்படும் விளைவுகள் எவை?",
+    "options": [
+      "உணவு கெட்டுப்போதல்",
+      "சுற்றுச்சூழல் மாசடைதல்",
+      "நிறம், நிலை மாறுதல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What are the effects of chemicals?",
+    "options_en": [
+      "Food spoilage",
+      "Environmental pollution",
+      "Change of color, state",
+      "Everything"
+    ],
+    "explanation": "வேதிவினைகளால் ஏற்படும் விளைவுகள் அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 64,
+    "question": "முட்டை அழுகும்பொழுது துர்நாற்றம் வீசக்காரணம் எது?",
+    "options": [
+      "ஹைட்ரஜன் சல்ஃபைடு வாயு உருவாதல் (H2S)",
+      "கார்பன் டை ஆக்ஸைடு வாயு உருவாதல் (CO2)",
+      "காற்றில் துர்நாற்றம் பரவுவதால்",
+      "அனைத்தும்."
+    ],
+    "correct": 0,
+    "question_en": "What causes rotten eggs to smell?",
+    "options_en": [
+      "Formation of hydrogen sulphide gas (H2S)",
+      "Formation of carbon dioxide gas (CO2)",
+      "Due to the stench in the air",
+      "Everything."
+    ],
+    "explanation": "முட்டை அழுகும்பொழுது துர்நாற்றம் வீசக்காரணம் ஹைட்ரஜன் சல்ஃபைடு வாயு உருவாதல் (H2S) ஆகும்.",
+    "explanation_en": "Formation of hydrogen sulphide gas (H2S)"
+  },
+  {
+    "id": 65,
+    "question": "மீன், இறைச்சியில் உள்ள ________ காற்று, ஒளி போன்றவற்றுடன் வேதிவினையில் ஈடுபடுவதால் துர்நாற்றம் வீசுகிறது.",
+    "options": [
+      "ஸ்டார்ச்",
+      "கொழுப்பு",
+      "நிறைவுறா கொழுப்பு அமிலங்கள்",
+      "விட்டமின்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Fish and meat emit foul odors due to the reaction of ________ with air, light etc.",
+    "options_en": [
+      "Starch",
+      "Fat",
+      "Unsaturated fatty acids",
+      "Vitamins"
+    ],
+    "explanation": "மீன், இறைச்சியில் உள்ள நிறைவுறா கொழுப்பு அமிலங்கள் காற்று, ஒளி போன்றவற்றுடன் வேதிவினையில் ஈடுபடுவதால் துர்நாற்றம் வீசுகிறது.",
+    "explanation_en": "Fish and meat emit foul odors due to the reaction of Unsaturated fatty acids with air, light etc."
+  },
+  {
+    "id": 66,
+    "question": "பழங்களிலுள்ள ________ காற்று, ஒளி போன்றவற்றுடன் வேதிவினையில் ஈடுபடுவதால் நிறம் மாறுகிறது.",
+    "options": [
+      "ஸ்டார்ச்",
+      "பாலி ஃபீனால் ஆகசிடேஸ்",
+      "டைரோசினேஸ்",
+      "ஃபீனாலிக் சேர்மங்கள்"
+    ],
+    "correct": 3,
+    "question_en": "The color changes due to the reaction of ________ in the fruit with air, light etc.",
+    "options_en": [
+      "Starch",
+      "Polyphenol oxidase",
+      "Tyrosinase",
+      "Phenolic compounds"
+    ],
+    "explanation": "பழங்களிலுள்ள ஃபீனாலிக் சேர்மங்கள் காற்று, ஒளி போன்றவற்றுடன் வேதிவினையில் ஈடுபடுவதால் நிறம் மாறுகிறது.",
+    "explanation_en": "The color changes due to the reaction of Phenolic compounds in the fruit with air, light etc."
+  },
+  {
+    "id": 67,
+    "question": "பழங்களிலுள்ள என்சைம் ________",
+    "options": [
+      "ஸ்டார்ச்",
+      "பாலி ஃபீனால் ஆக்சிடேஸ்",
+      "டைரோசினேஸ்",
+      "2 மற்றும் 3"
+    ],
+    "correct": 3,
+    "question_en": "The enzyme in fruits is ________",
+    "options_en": [
+      "Starch",
+      "Polyphenol oxidase",
+      "Tyrosinase",
+      "2 and 3"
+    ],
+    "explanation": "பழங்களிலுள்ள என்சைம் 2 மற்றும் 3",
+    "explanation_en": "The enzyme in fruits is 2 and 3"
+  },
+  {
+    "id": 68,
+    "question": "மழைக் காலங்களில் எரியத் தாமதமாகும் தீக்குச்சி, கோடைக் காலங்களில் உடனடியாக எரியக் காரணம் என்ன?",
+    "options": [
+      "கோடைக் காலங்களில் அறை வெப்பநிலை அதிகம்.",
+      "கோடைக் காலங்களில் அறை வெப்பநிலைக் குறைவு.",
+      "மழைக் காலங்களில் அறை வெப்பநிலை அதிகம்.",
+      "மழைக் காலங்களில் அறை வெப்பநிலைக் குறைவு."
+    ],
+    "correct": 0,
+    "question_en": "What is the reason why a match which is slow to burn in rainy season but burns instantly in summer season?",
+    "options_en": [
+      "Room temperature is high during summers.",
+      "Room temperature is low during summers.",
+      "Room temperature is high during rainy season.",
+      "Room temperature decreases during rainy season."
+    ],
+    "explanation": "கோடைக் காலங்களில் அறை வெப்பநிலை அதிகம்.",
+    "explanation_en": "Room temperature is high during summers. is the reason why a match which is slow to burn in rainy season but burns instantly in summer season."
+  },
+  {
+    "id": 69,
+    "question": "1 லிட்டர் நீரில் 100 கிராம் சர்க்கரை கரைக்க வேண்டும். அது எப்போது எளிதாகும்?",
+    "options": [
+      "1 லிட்டர் குளிர் நீரில் கரைப்பது எளிது.",
+      "1 லிட்டர் சுடுநீரில் கரைப்பது எளிது.",
+      "1 லிட்டர் அறை வெப்பநிலையிலுள்ள நீரில் கரைப்பது எளிது.",
+      "1 மற்றும் 3"
+    ],
+    "correct": 1,
+    "question_en": "Dissolve 100 grams of sugar in 1 liter of water. When will it get easier?",
+    "options_en": [
+      "Easy to dissolve in 1 liter of cold water.",
+      "Easy to dissolve in 1 liter of hot water.",
+      "Easily dissolves in 1 liter of room temperature water.",
+      "1 and 3"
+    ],
+    "explanation": "1 லிட்டர் சுடுநீரில் கரைப்பது எளிது.",
+    "explanation_en": "Easy to dissolve in 1 liter of hot water."
+  },
+  {
+    "id": 70,
+    "question": "அடுமனைகளில் (Bakkery) ஈஸ்ட்டைப் பயன்படுத்தி உடனடியாக ரொட்டி தயாரிக்கப்படுகிறது. இங்கு ஈஸ்ட் ________ ஆக செயல்படுகிறது.",
+    "options": [
+      "வெப்பநிலை உயர்த்தியாக",
+      "வெப்பத் தணிப்பி",
+      "உயிரி வினையூக்கி",
+      "அனைத்தும்."
+    ],
+    "correct": 2,
+    "question_en": "Instant bread is made using yeast in bakeries. Here yeast acts as ________.",
+    "options_en": [
+      "As the temperature rises",
+      "Heat sink",
+      "Bio catalyst",
+      "Everything."
+    ],
+    "explanation": "அடுமனைகளில் (Bakkery) ஈஸ்ட்டைப் பயன்படுத்தி உடனடியாக ரொட்டி தயாரிக்கப்படுகிறது. இங்கு ஈஸ்ட் உயிரி வினையூக்கி ஆக செயல்படுகிறது.",
+    "explanation_en": "Instant bread is made using yeast in bakeries. Here yeast acts as Bio catalyst."
+  },
+  {
+    "id": 71,
+    "question": "பின்வருவனவற்றுள் வெப்பக்கொள் மாற்றங்கள் எவை?",
+    "options": [
+      "குளிர்தல், உருகுதல்",
+      "குளிர்தல், உறைதல்",
+      "ஆவியாதல், உருகுதல்",
+      "ஆவியாதல், உறைதல்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following are thermal changes?",
+    "options_en": [
+      "Cooling, melting",
+      "Cooling, freezing",
+      "Evaporation, melting",
+      "Evaporation, freezing"
+    ],
+    "explanation": "பின்வருவனவற்றுள் வெப்பக்கொள் மாற்றங்கள் ஆவியாதல், உருகுதல் ஆகும்.",
+    "explanation_en": "Evaporation, melting are thermal changes."
+  },
+  {
+    "id": 72,
+    "question": "பின்வரும் காலங்களில் தாவரங்களில் ஒளிச்சேர்க்கை அதிகளவு நடைபெறுவது எப்போது?",
+    "options": [
+      "காலை 6 மணி முதல் 7 மணி வரை.",
+      "காலை 7 மணி முதல் 8 மணி வரை.",
+      "காலை 10 மணி முதல் 11 மணி வரை",
+      "மாலை 6 மணி முதல் 7 மணி வரை."
+    ],
+    "correct": 2,
+    "question_en": "During which of the following is the maximum amount of photosynthesis in plants?",
+    "options_en": [
+      "6 AM to 7 AM.",
+      "7 AM to 8 AM.",
+      "10 AM to 11 AM",
+      "6 pm to 7 pm."
+    ],
+    "explanation": "காலை 10 மணி முதல் 11 மணி வரை",
+    "explanation_en": "During 10 AM to 11 AM is the maximum amount of photosynthesis in plants."
+  },
+  {
+    "id": 73,
+    "question": "தீக்குச்சி கோடைக் காலங்களில் உடனடியாக எரிவதிலிருந்து சில வேதிவினைகள் நடைபெற ________ அவசியம் என்பதை அறியலாம்.",
+    "options": [
+      "ஒளி ஆற்றல்",
+      "வேதி ஆற்றல்",
+      "வெப்ப ஆற்றல்",
+      "வினைவேகமாற்றி"
+    ],
+    "correct": 2,
+    "question_en": "From the instantaneous burning of a match in hot summers, we can tell that ________ is necessary for certain chemical reactions to take place.",
+    "options_en": [
+      "Light energy",
+      "Chemical energy",
+      "Heat energy",
+      "Accelerator"
+    ],
+    "explanation": "தீக்குச்சி கோடைக் காலங்களில் உடனடியாக எரிவதிலிருந்து சில வேதிவினைகள் நடைபெற வெப்ப ஆற்றல் அவசியம் என்பதை அறியலாம்.",
+    "explanation_en": "From the instantaneous burning of a match in hot summers, we can tell that Heat energy is necessary for certain chemical reactions to take place."
+  },
+  {
+    "id": 74,
+    "question": "ஒரு பொருளின் இயைபில் மாற்றம் ஏற்பட்டால் அது ________ மாற்றமாகும்.",
+    "options": [
+      "இயற்பியல், மீள்",
+      "வேதி, மீள்",
+      "இயற்பியல், மீளா",
+      "வேதி, மீளா"
+    ],
+    "correct": 3,
+    "question_en": "A change in the price of a product is a ________ change.",
+    "options_en": [
+      "Phys., Rev",
+      "Chemicals, rubber",
+      "Physics, Rev",
+      "Vedhi, again"
+    ],
+    "explanation": "ஒரு பொருளின் இயைபில் மாற்றம் ஏற்பட்டால் அது வேதி, மீளா மாற்றமாகும்.",
+    "explanation_en": "A change in the price of a product is a Vedhi, again change."
+  },
+  {
+    "id": 75,
+    "question": "A என்ற பொருளானது B என்ற புதிய பொருளாக மாற்றமடைந்துள்ளது. ஆனால் நிலை மாறவில்லை. இக்கருத்தினைக் கொண்டு A ஆனது, எம்மாற்றமடைந்துள்ளது?",
+    "options": [
+      "மெதுவான",
+      "வேகமான",
+      "வேதி",
+      "கால ஒழுங்கற்ற"
+    ],
+    "correct": 1,
+    "question_en": "An object A is transformed into a new object B. But the situation did not change. With this concept, A has changed?",
+    "options_en": [
+      "Slow",
+      "fast",
+      "Chemical",
+      "Irregular term"
+    ],
+    "explanation": "வேகமான",
+    "explanation_en": "fast"
+  },
+  {
+    "id": 76,
+    "question": "கூற்று 1: அனைத்து நிற மாற்றங்களும் வேதி மாற்றமடைந்துள்ளதை உணர்த்தும்.\nகூற்று 2: அனைத்து இயைபு மாற்றங்களும் வேதி மாற்றமடைந்துள்ளதை உணர்த்தும்.",
+    "options": [
+      "கூற்று 1 தவறு, கூற்று 2 சரி",
+      "கூற்று 1 சரி, 2 தவறு.",
+      "கூற்று 1,2 சரி",
+      "கூற்று 1,2 தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Assertion 1: All color changes indicate a chemical change.\nStatement 2: All state changes imply chemical change.",
+    "options_en": [
+      "Statement 1 is false, statement 2 is correct",
+      "Statement 1 is true, 2 is false.",
+      "Statement 1,2 are correct",
+      "Statement 1,2 are false."
+    ],
+    "explanation": "கூற்று 1 தவறு, கூற்று 2 சரி",
+    "explanation_en": "Statement 1 is false, statement 2 is correct"
+  },
+  {
+    "id": 77,
+    "question": "ஒரு பொருளின் வடிவம், அளவு, நிறம் இவற்றில் மாறுபாடு அடைந்திருப்பின் அப்பொருள் ________ மாற்றமடைந்து இருக்கும்.",
+    "options": [
+      "மீளா",
+      "வெப்ப உமிழ்",
+      "இயற்பியல்",
+      "கால ஒழுங்கற்ற"
+    ],
+    "correct": 2,
+    "question_en": "If the shape, size, color of an object changes, the object is ________ changed.",
+    "options_en": [
+      "Again",
+      "Heat emission",
+      "Physics",
+      "Irregular term"
+    ],
+    "explanation": "ஒரு பொருளின் வடிவம், அளவு, நிறம் இவற்றில் மாறுபாடு அடைந்திருப்பின் அப்பொருள் இயற்பியல் மாற்றமடைந்து இருக்கும்.",
+    "explanation_en": "If the shape, size, color of an object changes, the object is Physics changed."
+  },
+  {
+    "id": 78,
+    "question": "கூற்று 1: அனைத்து கால ஒழுங்கு மாற்றங்களும் விரும்பத்தக்க மாற்றங்களாகும்.\nகூற்று 2: அனைத்து கால ஒழுங்கற்ற மாற்றங்களும் விரும்பத்தகா மாற்றங்களாகும்.\nகூற்று 3: அனைத்து வெப்பக்கொள் மாற்றங்களும் மீள் மாற்றங்களாகும்.\nகூற்று 4: அனைத்து வேதி மாற்றங்களும் மீளா மாற்றங்களாகும்.",
+    "options": [
+      "அனைத்து கூற்றுகளும் சரி",
+      "அனைத்து கூற்றுகளும் தவறு",
+      "கூற்று 4 மட்டும் சரி",
+      "கூற்று 1, 2 தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion 1: All periodic changes are desirable changes.\nAssertion 2: All periodic irregular changes are desirable changes.\nAssertion 3: All heat changes are elastic changes.\nStatement 4: All chemical changes are irreversible.",
+    "options_en": [
+      "All statements are correct",
+      "All statements are false",
+      "Only statement 4 is correct",
+      "Statements 1 and 2 are false"
+    ],
+    "explanation": "கூற்று 4 மட்டும் சரி",
+    "explanation_en": "Only statement 4 is correct"
+  },
+  {
+    "id": 79,
+    "question": "தாவரங்கள் பகல் பொழுதில் ஒளிச்சேர்க்கையில் ஈடுபடுவதிலிருந்து சில வேதிவினைகள் நடைபெற ________ அவசியம் என்பது தெளிவாகிறது.",
+    "options": [
+      "ஒளி ஆற்றல்",
+      "வேதி ஆற்றல்",
+      "வெப்ப ஆற்றல்",
+      "வினைவேகமாற்றி"
+    ],
+    "correct": 0,
+    "question_en": "Since plants engage in photosynthesis during the day, it is clear that ________ is necessary for certain chemical reactions to take place.",
+    "options_en": [
+      "Light energy",
+      "Chemical energy",
+      "Heat energy",
+      "Accelerator"
+    ],
+    "explanation": "தாவரங்கள் பகல் பொழுதில் ஒளிச்சேர்க்கையில் ஈடுபடுவதிலிருந்து சில வேதிவினைகள் நடைபெற ஒளி ஆற்றல் அவசியம் என்பது தெளிவாகிறது.",
+    "explanation_en": "Since plants engage in photosynthesis during the day, it is clear that Light energy is necessary for certain chemical reactions to take place."
+  },
+  {
+    "id": 80,
+    "question": "அடுமனைகளில் (Bakkery) ஈஸ்ட் பயன்படுத்தப்படுவதிலிருந்து சில வேதிவினைகள் நடைபெற ________ அவசியம் என்பதை அறியலாம்.",
+    "options": [
+      "ஒளி ஆற்றல்",
+      "வேதி ஆற்றல்",
+      "வெப்ப ஆற்றல்",
+      "வினைவேகமாற்றி"
+    ],
+    "correct": 3,
+    "question_en": "From the use of yeast in bakery, we know that ________ is necessary for some chemical reactions to take place.",
+    "options_en": [
+      "Light energy",
+      "Chemical energy",
+      "Heat energy",
+      "Accelerator"
+    ],
+    "explanation": "அடுமனைகளில் (Bakkery) ஈஸ்ட் பயன்படுத்தப்படுவதிலிருந்து சில வேதிவினைகள் நடைபெற வினைவேகமாற்றி அவசியம் என்பதை அறியலாம்.",
+    "explanation_en": "From the use of yeast in bakery, we know that Accelerator is necessary for some chemical reactions to take place."
+  },
+  {
+    "id": 81,
+    "question": "பின்வருவனவற்றுள் காற்று மாசுபாடு என்பது எதைக் குறிக்கிறது?",
+    "options": [
+      "காற்றில் ஆக்ஸிஜனின் அளவு அதிகரிப்பது.",
+      "காற்றின் இயைபில் மாறுவது",
+      "காற்றில் கார்பன் டை ஆக்ஸைடு அளவு அதிகரிப்பது.",
+      "காற்றில் நைட்ரஜன் அளவு மாறுபடுவது."
+    ],
+    "correct": 1,
+    "question_en": "Air pollution refers to which of the following?",
+    "options_en": [
+      "Increasing the amount of oxygen in the air.",
+      "Change in wind direction",
+      "An increase in the amount of carbon dioxide in the air.",
+      "Nitrogen levels in the air vary."
+    ],
+    "explanation": "காற்றின் இயைபில் மாறுவது",
+    "explanation_en": "Change in wind direction"
+  },
+  {
+    "id": 82,
+    "question": "தொடர்ந்து காற்றை மாசுபடுத்தும் வாயுக்கள் காற்றில் கலக்கும் பொழுது, அப்பகுதிகளில் ஆக்ஸிஜனின் சதவீதம்",
+    "options": [
+      "குறையும்",
+      "அதிகரிக்கும்",
+      "அதிகரித்து குறையும்",
+      "குறைந்து அதிகரிக்கும்"
+    ],
+    "correct": 0,
+    "question_en": "As air pollutants mix in the air, the percentage of oxygen in the air increases",
+    "options_en": [
+      "decrease",
+      "will increase",
+      "Increases and decreases",
+      "Decreases and increases"
+    ],
+    "explanation": "குறையும்",
+    "explanation_en": "decrease"
+  },
+  {
+    "id": 83,
+    "question": "காற்றை மாசுபடுத்துவது எது?",
+    "options": [
+      "கார்பன் மோனாக்ஸைடு, மீத்தேன்",
+      "சல்ஃபர், நைட்ரஜன் ஆக்ஸைடுகள்",
+      "குளோரோ ஃபுளூரோ கார்பன் (CFC)",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What pollutes the air?",
+    "options_en": [
+      "Carbon monoxide, methane",
+      "Sulfur and nitrogen oxides",
+      "Chloro Fluoro Carbon (CFC)",
+      "Everything"
+    ],
+    "explanation": "காற்றை மாசுபடுத்துவது அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 84,
+    "question": "நீரை மாசுபடுத்துவது எது?",
+    "options": [
+      "வேதிப்பொருள்கள் நீரில் கலத்தல்",
+      "டிடர்ஜெண்டுகள் நீரில் கலத்தல்",
+      "கச்சா எண்ணெய் நீரில் கலத்தல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What pollutes water?",
+    "options_en": [
+      "Mixing chemicals with water",
+      "Mixing detergents with water",
+      "Diluting crude oil with water",
+      "Everything"
+    ],
+    "explanation": "நீரை மாசுபடுத்துவது அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 85,
+    "question": "பின்வரும் எந்த நிகழ்வுகளினால் நீர் பெருமளவு மாசடைகிறது?",
+    "options": [
+      "துணி துவைத்தல்",
+      "கால்நடைகளை குளிப்பாட்டுதல்",
+      "எண்ணெய் கப்பல் விபத்துகளின் பொழுது கச்சா எண்ணெய் நீரில் கலத்தல்",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Water becomes heavily polluted due to which of the following events?",
+    "options_en": [
+      "Washing clothes",
+      "Bathing of cattle",
+      "Mixing of crude oil with water during oil tanker accidents",
+      "Everything"
+    ],
+    "explanation": "எண்ணெய் கப்பல் விபத்துகளின் பொழுது கச்சா எண்ணெய் நீரில் கலத்தல்",
+    "explanation_en": "Mixing of crude oil with water during oil tanker accidents"
+  },
+  {
+    "id": 86,
+    "question": "நிலத்தை மாசுபடுத்துவது எது?",
+    "options": [
+      "யூரியா போன்ற வேதி உரங்கள்",
+      "பூச்சிக்கொல்லிகள்",
+      "களைக்கொல்லிகள்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What pollutes land?",
+    "options_en": [
+      "Chemical fertilizers like urea",
+      "Pesticides",
+      "Herbicides",
+      "Everything"
+    ],
+    "explanation": "நிலத்தை மாசுபடுத்துவது அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 87,
+    "question": "செயற்கை வேதி உரங்கள், பூச்சிக்கொல்லிகள், களைக்கொல்லிகள் போன்றவற்றால்",
+    "options": [
+      "நன்மை அதிகம், தீமை குறைவு.",
+      "நன்மை குறைவு, தீமை அதிகம்.",
+      "நன்மை, தீமை குறைவு.",
+      "நன்மை, தீமை அதிகம்"
+    ],
+    "correct": 1,
+    "question_en": "Due to synthetic chemical fertilizers, pesticides, herbicides etc",
+    "options_en": [
+      "Good is more, evil is less.",
+      "Less good, more bad.",
+      "Pros and cons are less.",
+      "There are many pros and cons"
+    ],
+    "explanation": "நன்மை குறைவு, தீமை அதிகம்.",
+    "explanation_en": "Less good, more bad."
+  },
+  {
+    "id": 88,
+    "question": "காற்று மாசுபாட்டால் ஏற்படும் விளைவு எது?",
+    "options": [
+      "அமிலமழை",
+      "புவி வெப்பமடைதல்",
+      "சுவாசக் கோளாறுகள்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What is the effect of air pollution?",
+    "options_en": [
+      "acid rain",
+      "Global warming",
+      "Respiratory disorders",
+      "Everything"
+    ],
+    "explanation": "காற்று மாசுபாட்டால் ஏற்படும் விளைவு அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is the effect of air pollution."
+  },
+  {
+    "id": 89,
+    "question": "நிலம்,நீர்,காற்று போன்ற இயற்கை வளங்கள் பெருமளவு மாசுபட தனது பெரும்பங்கை ஆற்றுபவர் யார்?",
+    "options": [
+      "தாவரங்கள்",
+      "விலங்குகள்",
+      "மனிதர்கள்",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Who contributes to the pollution of natural resources such as land, water and air?",
+    "options_en": [
+      "Plants",
+      "Animals",
+      "Human beings",
+      "Everything"
+    ],
+    "explanation": "நிலம்,நீர்,காற்று போன்ற இயற்கை வளங்கள் பெருமளவு மாசுபட தனது பெரும்பங்கை ஆற்றுபவர் மனிதர்கள்.",
+    "explanation_en": "Human beings"
+  },
+  {
+    "id": 90,
+    "question": "மழைநீரில் நைட்ரஜன், சல்ஃபர் ஆக்ஸைடுகள் கரைந்து உருவாவது எது?",
+    "options": [
+      "அமில மழை",
+      "கார மழை",
+      "ஆலங்கட்டி மழை",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Nitrogen and sulfur oxides dissolve in rain water and what is formed?",
+    "options_en": [
+      "Acid rain",
+      "Alkaline rain",
+      "Hail",
+      "Everything"
+    ],
+    "explanation": "மழைநீரில் நைட்ரஜன், சல்ஃபர் ஆக்ஸைடுகள் கரைந்து உருவாவது அமில மழை ஆகும்.",
+    "explanation_en": "Nitrogen and sulfur oxides dissolve in rain water and Acid rain is formed."
+  },
+  {
+    "id": 91,
+    "question": "அமில மழை உருவாகக் காரணம் எது?",
+    "options": [
+      "தொழிற்சாலைகளிலிருந்து வெளிவரும் நச்சு வாயுக்கள்",
+      "எரிமலை வெடிப்பு",
+      "NO2, SO2",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What causes acid rain?",
+    "options_en": [
+      "Noxious gases from factories",
+      "Volcanic eruption",
+      "NO2, SO2",
+      "Everything"
+    ],
+    "explanation": "அமில மழை உருவாகக் காரணம் அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 92,
+    "question": "பின்வருவனவற்றுள் அமில மழையின் விளைவு எது?",
+    "options": [
+      "விவசாய பாதிப்பு",
+      "கட்டடங்களின் அரிமானம்",
+      "நீர்வாழ் உயிரினங்கள் பாதிக்கப்படுவது",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is an effect of acid rain?",
+    "options_en": [
+      "Agricultural damage",
+      "Erosion of buildings",
+      "Affecting aquatic life",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் அமில மழையின் விளைவு அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is an effect of acid rain."
+  },
+  {
+    "id": 93,
+    "question": "அமில மழை உருவாவதைத் தடுக்கும் வழிமுறை எது?",
+    "options": [
+      "படிம எரிபொருள்களை குறைவாகப் பயன்படுத்துதல்",
+      "தொழிற்சாலைக் கழிவுகளை சுத்திகரித்து வெளியேற்றுதல்",
+      "செயற்கை உரங்களைக் கட்டுப்படுத்துதல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Which mechanism prevents the formation of acid rain?",
+    "options_en": [
+      "Less use of fossil fuels",
+      "Treatment and disposal of industrial waste",
+      "Control of synthetic fertilizers",
+      "Everything"
+    ],
+    "explanation": "அமில மழை உருவாவதைத் தடுக்கும் வழிமுறை அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything"
+  },
+  {
+    "id": 94,
+    "question": "நீர் மாசுபாட்டால் ஏற்படும் விளைவு எது?",
+    "options": [
+      "நீரின் தரம் குறைதல்",
+      "தோல் நோய்கள்",
+      "நீர்வாழ் உயிரினங்கள் பாதித்தல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What is the effect of water pollution?",
+    "options_en": [
+      "Deterioration of water quality",
+      "Skin diseases",
+      "Affecting aquatic organisms",
+      "Everything"
+    ],
+    "explanation": "நீர் மாசுபாட்டால் ஏற்படும் விளைவு அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is the effect of water pollution."
+  },
+  {
+    "id": 95,
+    "question": "நில மாசுபாட்டால் ஏற்படும் விளைவு எது?",
+    "options": [
+      "விவசாயம் பாதித்தல்",
+      "சுவாச நோய்",
+      "புற்று நோய்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "What is the effect of land pollution?",
+    "options_en": [
+      "Affecting agriculture",
+      "Respiratory disease",
+      "Cancer",
+      "Everything"
+    ],
+    "explanation": "நில மாசுபாட்டால் ஏற்படும் விளைவு அனைத்தும் ஆகும்.",
+    "explanation_en": "Everything is the effect of land pollution."
+  },
+  {
+    "id": 96,
+    "question": "வேதிமாற்றம் அல்ல.",
+    "options": [
+      "அமோனியா நீரில் கரைவது",
+      "கார்பன் டை ஆக்ஸைடு நீரில் கரைவது",
+      "துருவப் பனிக்குமிழ்கள் உருகுவது",
+      "உலர் பனிக்கட்டி நீரில் கரைவது"
+    ],
+    "correct": 2,
+    "question_en": "Not metamorphosis.",
+    "options_en": [
+      "Ammonia dissolves in water",
+      "Carbon dioxide dissolves in water",
+      "Melting of polar ice caps",
+      "Dry ice dissolves in water"
+    ],
+    "explanation": "துருவப் பனிக்குமிழ்கள் உருகுவது",
+    "explanation_en": "Melting of polar ice caps"
+  },
+  {
+    "id": 97,
+    "question": "ஒப்புமை தருக. இயற்பியல் மாற்றம் : கொதித்தல் :: வேதியியல் மாற்றம் : ?",
+    "options": [
+      "எரிதல்",
+      "ஆவியாதல்",
+      "உருகுதல்",
+      "உறைதல்"
+    ],
+    "correct": 0,
+    "question_en": "Give an analogy. Physical Change : Boiling :: Chemical Change : ?",
+    "options_en": [
+      "Burning",
+      "Evaporation",
+      "Melting",
+      "freezing"
+    ],
+    "explanation": "எரிதல்",
+    "explanation_en": "Burning"
+  },
+  {
+    "id": 98,
+    "question": "கூற்று: பெட்ரோல் ஒரு துளியை உள்ளங்கையில் வைக்கும் பொழுது குளிர்ச்சியாக உணர்கிறோம்.\nகாரணம் : மேற்கூறிய நிகழ்வு வெப்பக்கொள் மாற்றமாகும்.",
+    "options": [
+      "கூற்று சரி. காரணம் தவறு",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Statement: When we put a drop of petrol on the palm we feel cold.\nReason: The above phenomenon is heat transfer.",
+    "options_en": [
+      "The statement is correct. The reason is wrong",
+      "The statement is false. The reason is correct",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி",
+    "explanation_en": "The statement and reason are correct"
+  },
+  {
+    "id": 99,
+    "question": "கூற்று : திரவநிலை நீர் வெப்பப்படுத்துவதால் அதன் வாயு நிலைக்கு மாறுவது கொதித்தல் எனப்படும்.\nகாரணம்: நீர் ஒளி ஊடுருவும் பொருள்.",
+    "options": [
+      "கூற்று சரி. காரணம் தவறு",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Assertion : The heating of liquid water to its gaseous state is called boiling.\nReason: Water is light penetrating material.",
+    "options_en": [
+      "The statement is correct. The reason is wrong",
+      "The statement is false. The reason is correct",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation": "கூற்று சரி. காரணம் தவறு",
+    "explanation_en": "The statement is correct. The reason is wrong"
+  },
+  {
+    "id": 100,
+    "question": "கூற்று: பட்டாசு வெடித்தல் ஒரு இயற்பியல் மாற்றம்.\nகாரணம்: அனைத்து இயற்பியல் மாற்றங்களும் மீள் மாற்றங்களாகும்.",
+    "options": [
+      "கூற்று சரி. காரணம் தவறு",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 1,
+    "question_en": "Assertion: The explosion of a firecracker is a physical change.\nReason: All physical changes are elastic changes.",
+    "options_en": [
+      "The statement is correct. The reason is wrong",
+      "The statement is false. The reason is correct",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation": "கூற்று தவறு. காரணம் சரி",
+    "explanation_en": "The statement is false. The reason is correct"
+  },
+  {
+    "id": 101,
+    "question": "கூற்று: மரக்கட்டையை எரித்து சாம்பலாக்குதல் ஒரு இயற்பியல் மாற்றம்\nகாரணம்: எரிந்த சாம்பலை மீண்டும் மரக்கட்டையாக மாற்ற இயலும்.",
+    "options": [
+      "கூற்று சரி. காரணம் தவறு",
+      "கூற்று தவறு. காரணம் சரி",
+      "கூற்று மற்றும் காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் சரி"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: Burning wood to ash is a physical change\nReason: Burnt ash can be converted back into wood.",
+    "options_en": [
+      "The statement is correct. The reason is wrong",
+      "The statement is false. The reason is correct",
+      "The statement and reason are false",
+      "The statement and reason are correct"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் தவறு",
+    "explanation_en": "The statement and reason are false"
+  },
+  {
+    "id": 102,
+    "question": "வெட்டப்பட்ட ஆப்பிள் பழுப்பாக மாறுவதற்குக் காரணமான நிறமி",
+    "options": [
+      "நீரேறிய இரும்பு (II) ஆக்ஸைடு",
+      "ஸ்டார்ச்",
+      "மெலனின்",
+      "ஓசோன்"
+    ],
+    "correct": 2,
+    "question_en": "The pigment that causes a cut apple to turn brown",
+    "options_en": [
+      "Hydrous iron (II) oxide",
+      "Starch",
+      "Melanin",
+      "Ozone"
+    ],
+    "explanation": "மெலனின்",
+    "explanation_en": "Melanin"
+  },
+  {
+    "id": 103,
+    "question": "பிரைன் என்பது ________ ன் அடர்க் கரைசல் ஆகும்.",
+    "options": [
+      "சோடியம் குளோரைடு",
+      "சோடியம் சல்ஃபைடு",
+      "சோடியம் புரோமைடு",
+      "கால்சியம் ஆக்ஸைடு"
+    ],
+    "correct": 0,
+    "question_en": "Brine is a dark solution of ________.",
+    "options_en": [
+      "Sodium Chloride",
+      "Sodium Sulfide",
+      "Sodium bromide",
+      "Calcium oxide"
+    ],
+    "explanation": "பிரைன் என்பது சோடியம் குளோரைடு ன் அடர்க் கரைசல் ஆகும்.",
+    "explanation_en": "Brine is a dark solution of Sodium Chloride."
+  },
+  {
+    "id": 104,
+    "question": "சுண்ணாம்புக்கல் ________ ஐ முதன்மையாகக் கொண்டுள்ளது.",
+    "options": [
+      "சோடியம் குளோரைடு",
+      "சோடியம் சல்ஃபைடு",
+      "கால்சியம் கார்பனேட்",
+      "கால்சியம் ஆக்ஸைடு"
+    ],
+    "correct": 2,
+    "question_en": "Limestone consists primarily of ________.",
+    "options_en": [
+      "Sodium Chloride",
+      "Sodium Sulfide",
+      "Calcium carbonate",
+      "Calcium oxide"
+    ],
+    "explanation": "சுண்ணாம்புக்கல் கால்சியம் கார்பனேட் ஐ முதன்மையாகக் கொண்டுள்ளது.",
+    "explanation_en": "Limestone consists primarily of Calcium carbonate."
+  },
+  {
+    "id": 105,
+    "question": "கீழ்காண்பவற்றுள் எது மின்னாற் பகுப்பைத் தூண்டுகிறது?",
+    "options": [
+      "மின்சாரம்",
+      "வெப்பம்",
+      "வினைவேகமாற்றி",
+      "ஒளி"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following causes electrolysis?",
+    "options_en": [
+      "Electricity",
+      "Heat",
+      "Accelerator",
+      "the light"
+    ],
+    "explanation": "மின்சாரம்",
+    "explanation_en": "Electricity"
+  },
+  {
+    "id": 106,
+    "question": "________ புவி வெப்பமயமாதலுக்குக் காரணமாகிறது.",
+    "options": [
+      "கார்பன் டை ஆக்ஸைடு",
+      "குளோரோ ஃபுளூரோ கார்பன்",
+      "மீத்தேன்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "________ causes global warming.",
+    "options_en": [
+      "Carbon dioxide",
+      "Chlorofluorocarbon",
+      "Methane",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும் புவி வெப்பமயமாதலுக்குக் காரணமாகிறது.",
+    "explanation_en": "Everything causes global warming."
+  },
+  {
+    "id": 107,
+    "question": "பொருத்துக.\na) துருப்பிடித்தல் b) மின்னாற்பகுத்தல் c) வெப்ப வேதிவினை d) ஒளி வேதிவினை e) வினைவேக மாற்றம்\ni) ஒளிச்சேர்க்கை ii) ஹேபர்முறை iii) இரும்பு iv) பிரைன் v) சுண்ணாம்புக்கல் சிதைவடைதல்",
+    "options": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-iv c-v d-i e-ii",
+      "a-i b-ii c-iv d-iii e-v",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "correct": 1,
+    "question_en": "match\na) Corrosion b) Electrolysis c) Thermochemistry d) Photochemistry e) Catalytic transformation\ni) Photosynthesis ii) Haber process iii) Iron iv) Brine v) Limestone weathering",
+    "options_en": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-iv c-v d-i e-ii",
+      "a-i b-ii c-iv d-iii e-v",
+      "a-i b-iii c-iv d-ii e-v"
+    ],
+    "explanation": "a-iii b-iv c-v d-i e-ii",
+    "explanation_en": "a-iii b-iv c-v d-i e-ii"
+  },
+  {
+    "id": 108,
+    "question": "பொருத்துக.\na) கெட்டுப்போதல் b) ஓசோன் c) இரும்பு d) ஈஸ்ட் e) கால்சியம் கார்பனேட்\ni) உயிரி வினையூக்கி ii) சிதைவடைதல் iii) உணவு iv) O3 v) துருப்பிடித்தல்",
+    "options": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-iv c-v d-i e-ii",
+      "a-i b-ii c-iv d-iii e-v",
+      "a-i b-iii c-iv d-i e-v"
+    ],
+    "correct": 1,
+    "question_en": "match\na) Spoilage b) Ozone c) Iron d) Yeast e) Calcium carbonate\ni) Biocatalysis ii) Degradation iii) Food iv) O3 v) Corrosion",
+    "options_en": [
+      "a-ii b-v c-iv d-i e-iii",
+      "a-iii b-iv c-v d-i e-ii",
+      "a-i b-ii c-iv d-iii e-v",
+      "a-i b-iii c-iv d-i e-v"
+    ],
+    "explanation": "a-iii b-iv c-v d-i e-ii",
+    "explanation_en": "a-iii b-iv c-v d-i e-ii"
+  },
+  {
+    "id": 109,
+    "question": "வெண்பாஸ்பரஸ், எவ்வகையான எரிதலுக்கு எடுத்துக்காட்டு?",
+    "options": [
+      "வேகமாக எரிதல்",
+      "தன்னிச்சையாக எரிதல்",
+      "முற்றுப்பெறா எரிதல்",
+      "மெதுவாக எரிதல்"
+    ],
+    "correct": 1,
+    "question_en": "White phosphorus is an example of which type of combustion?",
+    "options_en": [
+      "Fast burn",
+      "Spontaneous combustion",
+      "Inexhaustible combustion",
+      "Slow burn"
+    ],
+    "explanation": "தன்னிச்சையாக எரிதல்",
+    "explanation_en": "Spontaneous combustion"
+  },
+  {
+    "id": 110,
+    "question": "காய்கறிகள் மற்றும் பழங்களை வெட்டி காற்றில் வைக்கும் போது பழுப்புநிறமாக மாறக் காரணம்",
+    "options": [
+      "கெராட்டின்",
+      "கிரியாட்டினைன்",
+      "மெலானின்",
+      "டானின்"
+    ],
+    "correct": 2,
+    "question_en": "The reason vegetables and fruits turn brown when they are cut and exposed to air",
+    "options_en": [
+      "Keratin",
+      "Creatinine",
+      "Melanin",
+      "Tannin"
+    ],
+    "explanation": "மெலானின்",
+    "explanation_en": "Melanin"
+  },
+  {
+    "id": 111,
+    "question": "குடுவையிலுள்ள பனிக்கட்டி துண்டுகள் உருகும்போது, நீராக மாறும். இந்த இயற்பியல் மாற்றத்தின்போது, அதன் நிறை",
+    "options": [
+      "அதிகரிக்கும்",
+      "குறையும்",
+      "அதிகரிக்கலாம் அல்லது குறையலாம்",
+      "மாறாமல் இருக்கும்"
+    ],
+    "correct": 3,
+    "question_en": "As the ice cubes in the flask melt, they become water. During this physical change, its mass",
+    "options_en": [
+      "will increase",
+      "decrease",
+      "May increase or decrease",
+      "will remain unchanged"
+    ],
+    "explanation": "மாறாமல் இருக்கும்",
+    "explanation_en": "will remain unchanged"
+  },
+  {
+    "id": 112,
+    "question": "கீழ்க் குறிப்பிட்டுள்ள வினையை பூர்த்தி செய்யவும்.\nகுளுக்கோஸ் + உயிர்வளி ->",
+    "options": [
+      "ஆக்சிஜன் + நீர்",
+      "கரியமில வாயு + நீர்",
+      "எத்தில் ஆல்கஹால் + நீர்",
+      "கரியமில வாயு + ஆக்சிஜன்"
+    ],
+    "correct": 1,
+    "question_en": "Complete the verb given below.\nGlucose + Vitality ->",
+    "options_en": [
+      "Oxygen + water",
+      "Carbon dioxide + water",
+      "Ethyl alcohol + water",
+      "Carbon dioxide + oxygen"
+    ],
+    "explanation": "கரியமில வாயு + நீர்",
+    "explanation_en": "Carbon dioxide + water"
+  },
+  {
+    "id": 113,
+    "question": "எண்ணெய் தீப்பற்றி எரியும்போது ________ பயன்படுத்தக் கூடாது.",
+    "options": [
+      "மண்",
+      "நீர்",
+      "கார்பன்-டை-ஆக்சைடு",
+      "நுரைப்பான்"
+    ],
+    "correct": 1,
+    "question_en": "________ should not be used in case of oil fire.",
+    "options_en": [
+      "Soil",
+      "Water",
+      "Carbon-dioxide",
+      "Foamer"
+    ],
+    "explanation": "எண்ணெய் தீப்பற்றி எரியும்போது நீர் பயன்படுத்தக் கூடாது.",
+    "explanation_en": "Water should not be used in case of oil fire."
+  },
+  {
+    "id": 114,
+    "question": "இரும்பு துருப்பிடித்தல் என்பது ________ எரிதலுக்கு உதாரணம் ஆகும்.",
+    "options": [
+      "முற்றுப்பெறா",
+      "அதிவேகமாக",
+      "வேகமாக",
+      "மெதுவாக"
+    ],
+    "correct": 3,
+    "question_en": "Rusting of iron is an example of ________ combustion.",
+    "options_en": [
+      "Don't finish",
+      "exponentially",
+      "faster",
+      "Slowly"
+    ],
+    "explanation": "இரும்பு துருப்பிடித்தல் என்பது மெதுவாக எரிதலுக்கு உதாரணம் ஆகும்.",
+    "explanation_en": "Rusting of iron is an example of Slowly combustion."
+  },
+  {
+    "id": 115,
+    "question": "வேதியியல் மாற்றம் நிகழுவது",
+    "options": [
+      "பால் தயிராக மாறுவது",
+      "குச்சி ஐஸ் உருகுதல்",
+      "படிகமாக்குதல்",
+      "ஒரு காகிதத்தைத் துண்டுகளாக்குதல்"
+    ],
+    "correct": 0,
+    "question_en": "A chemical change occurs",
+    "options_en": [
+      "Turning milk into curd",
+      "Melting stick ice",
+      "crystallization",
+      "Shredding a paper"
+    ],
+    "explanation": "பால் தயிராக மாறுவது",
+    "explanation_en": "Turning milk into curd"
+  },
+  {
+    "id": 116,
+    "question": "பின்வருவனவற்றுள் எத்தனை இயற்பியல் மாற்றங்கள் உள்ளன?\nஉருகுதல், உறைதல், துருப்பிடித்தல், கொதித்தல், நொதித்தல், தயிராதல், ஆவிசுருங்குதல்",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correct": 2,
+    "question_en": "How many physical changes are involved in the following?\nMelting, Freezing, Corrosion, Boiling, Fermentation, Curing, Evaporation",
+    "options_en": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "explanation": "4",
+    "explanation_en": "4 physical changes are involved in the following.\nMelting, Freezing, Corrosion, Boiling, Fermentation, Curing, Evaporation"
+  },
+  {
+    "id": 117,
+    "question": "ஈஸ்ட் என்பது ஒரு",
+    "options": [
+      "பூஞ்சை",
+      "வினையூக்கி",
+      "நுண்ணுயிரி",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "Yeast is a",
+    "options_en": [
+      "Fungus",
+      "Catalyst",
+      "microorganism",
+      "Everything"
+    ],
+    "explanation": "அனைத்தும்",
+    "explanation_en": "Everything"
+  }
+]

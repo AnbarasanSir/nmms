@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "question": "\"புதிய உலகு\" என அழைக்கப்படும் கண்டங்களில் ஒன்று ________.",
+    "options": [
+      "ஐரோப்பா",
+      "ஆசியா",
+      "வட அமெரிக்கா",
+      "ஆப்பிரிக்கா"
+    ],
+    "correct": 2,
+    "question_en": "One of the continents known as the \"New World\" is ________.",
+    "options_en": [
+      "Europe",
+      "Asia",
+      "North America",
+      "Africa"
+    ],
+    "explanation": "\"புதிய உலகு\" என அழைக்கப்படும் கண்டங்களில் ஒன்று வட அமெரிக்கா.",
+    "explanation_en": "One of the continents known as the \"New World\" is North America."
+  },
+  {
+    "id": 2,
+    "question": "1492ஆம் ஆண்டு வட அமெரிக்காவை ________ என்பவர் கண்டுபிடித்தார்",
+    "options": [
+      "கிறிஸ்டோபர் கொலம்பஸ்",
+      "அமெரிக்கோ வெஸ்புகி",
+      "வாஸ்கோடகாமா",
+      "ஜோசப் வில்சன்"
+    ],
+    "correct": 0,
+    "question_en": "North America was discovered in 1492 by ________",
+    "options_en": [
+      "Christopher Columbus",
+      "Americo Vespucci",
+      "Vasco da Gama",
+      "Joseph Wilson"
+    ],
+    "explanation": "1492ஆம் ஆண்டு வட அமெரிக்காவை கிறிஸ்டோபர் கொலம்பஸ் என்பவர் கண்டுபிடித்தார்",
+    "explanation_en": "North America was discovered in 1492 by Christopher Columbus"
+  },
+  {
+    "id": 3,
+    "question": "ஆசியா, ஆப்பிரிக்காவிற்கு அடுத்தபடியாக மூன்றாவது பெரிய கண்டம் ________.",
+    "options": [
+      "ஆசியா",
+      "வட அமெரிக்கா",
+      "ஐரோப்பா",
+      "ஆப்பிரிக்கா"
+    ],
+    "correct": 1,
+    "question_en": "Asia is the third largest continent after Africa.",
+    "options_en": [
+      "Asia",
+      "North America",
+      "Europe",
+      "Africa"
+    ],
+    "explanation": "ஆசியா, ஆப்பிரிக்காவிற்கு அடுத்தபடியாக மூன்றாவது பெரிய கண்டம் வட அமெரிக்கா.",
+    "explanation_en": "North America"
+  },
+  {
+    "id": 4,
+    "question": "வட அமெரிக்காவையும் தென் அமெரிக்காவையும் இணைப்பது ________.",
+    "options": [
+      "பேரிங் நீர்ச்சந்தி",
+      "பனாமா நிலச்சந்தி",
+      "மிசிசிப்பி",
+      "மிசௌரி"
+    ],
+    "correct": 1,
+    "question_en": "Connecting North America and South America is ________.",
+    "options_en": [
+      "Baring Watershed",
+      "Panama border",
+      "Mississippi",
+      "Missouri"
+    ],
+    "explanation": "வட அமெரிக்காவையும் தென் அமெரிக்காவையும் இணைப்பது பனாமா நிலச்சந்தி.",
+    "explanation_en": "Connecting North America and South America is Panama border."
+  },
+  {
+    "id": 5,
+    "question": "வட அமெரிக்காவை ஆசியாவில் இருந்து பிரிப்பது ________.",
+    "options": [
+      "ஜிப்ரால்டர் நீர்சந்தி",
+      "பாக் நீர் சந்தி",
+      "பேரிங் நீர்ச்சந்தி",
+      "மலாக்கா நீர் சந்தி"
+    ],
+    "correct": 2,
+    "question_en": "Separating North America from Asia is ________.",
+    "options_en": [
+      "Strait of Gibraltar",
+      "Bach Neer Junction",
+      "Baring Watershed",
+      "Malacca Water Junction"
+    ],
+    "explanation": "வட அமெரிக்காவை ஆசியாவில் இருந்து பிரிப்பது பேரிங் நீர்ச்சந்தி.",
+    "explanation_en": "Separating North America from Asia is Baring Watershed."
+  },
+  {
+    "id": 6,
+    "question": "கீழ்க்கண்ட வாக்கியங்களில் சரியானது எது?\ni. இரண்டு மிகப் பெரிய நிலப்பகுதிகளை இணைக்கும் சிறிய துண்டு நிலச்சந்தி\nii. இரண்டு பெரிய நீர் பரப்புகளை இணைக்கும் சிறிய நீர்ப்பரப்பு நீர்ச்சந்தி",
+    "options": [
+      "i மட்டும் சரி",
+      "ii மட்டும் சரி",
+      "i, ii இரண்டும் சரி",
+      "மேற்கண்ட எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following sentences is correct?\ni. A small piece of land connecting two very large landmasses\nii. A watershed is a small body of water connecting two large bodies of water",
+    "options_en": [
+      "Only i is correct",
+      "Only ii is correct",
+      "Both i and ii are correct",
+      "None of the above"
+    ],
+    "explanation": "கீழ்க்கண்ட வாக்கியங்களில் சரியானது i, ii இரண்டும் சரி ஆகும்.\ni. இரண்டு மிகப் பெரிய நிலப்பகுதிகளை இணைக்கும் சிறிய துண்டு நிலச்சந்தி\nii. இரண்டு பெரிய நீர் பரப்புகளை இணைக்கும் சிறிய நீர்ப்பரப்பு நீர்ச்சந்தி",
+    "explanation_en": "Both i and ii are correct"
+  },
+  {
+    "id": 7,
+    "question": "வட அமெரிக்கா _________ நேரமண்டலங்களை உள்ளடக்கியுள்ளது",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "9"
+    ],
+    "correct": 2,
+    "question_en": "North America covers _________ time zones",
+    "options_en": [
+      "6",
+      "8",
+      "7",
+      "9"
+    ],
+    "explanation": "வட அமெரிக்கா 7 நேரமண்டலங்களை உள்ளடக்கியுள்ளது",
+    "explanation_en": "North America covers 7 time zones"
+  },
+  {
+    "id": 8,
+    "question": "வட அமெரிக்காவில் உள்ள கிரேட் ஏரிகள் ________ முக்கிய ஏரிகளை கொண்டுள்ளது",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "2"
+    ],
+    "correct": 1,
+    "question_en": "The Great Lakes in North America consist of ________ major lakes",
+    "options_en": [
+      "7",
+      "5",
+      "8",
+      "2"
+    ],
+    "explanation": "வட அமெரிக்காவில் உள்ள கிரேட் ஏரிகள் 5 முக்கிய ஏரிகளை கொண்டுள்ளது",
+    "explanation_en": "The Great Lakes in North America consist of 5 major lakes"
+  },
+  {
+    "id": 9,
+    "question": "மெக்ஸிகோவிற்கு தென் பகுதியில் அமைந்துள்ள ________ நாடுகள் கொண்ட பகுதி மத்திய அமெரிக்கா என அழைக்கப்படுகிறது",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 0,
+    "question_en": "Central America is the region of ________ countries south of Mexico",
+    "options_en": [
+      "7",
+      "6",
+      "8",
+      "10"
+    ],
+    "explanation": "மெக்ஸிகோவிற்கு தென் பகுதியில் அமைந்துள்ள 7 நாடுகள் கொண்ட பகுதி மத்திய அமெரிக்கா என அழைக்கப்படுகிறது",
+    "explanation_en": "Central America is the region of 7 countries south of Mexico"
+  },
+  {
+    "id": 10,
+    "question": "________ பயிர் ஐரோப்பிய குடியேற்றங்களால் வட அமெரிக்காவில் அறிமுகப்படுத்தப்பட்டது",
+    "options": [
+      "சோளம்",
+      "கம்பு",
+      "கரும்பு",
+      "கோதுமை"
+    ],
+    "correct": 3,
+    "question_en": "The ________ crop was introduced to North America by European settlers",
+    "options_en": [
+      "Corn",
+      "Rye",
+      "Cane",
+      "Wheat"
+    ],
+    "explanation": "கோதுமை பயிர் ஐரோப்பிய குடியேற்றங்களால் வட அமெரிக்காவில் அறிமுகப்படுத்தப்பட்டது",
+    "explanation_en": "The Wheat crop was introduced to North America by European settlers"
+  },
+  {
+    "id": 11,
+    "question": "வட அமெரிக்காவின் பூர்வீக மக்களின் முக்கிய உணவுப் பயிர் ________.",
+    "options": [
+      "சோளம்",
+      "கோதுமை",
+      "கம்பு",
+      "தினை"
+    ],
+    "correct": 0,
+    "question_en": "The main food crop of the native peoples of North America was ________.",
+    "options_en": [
+      "Corn",
+      "Wheat",
+      "Rye",
+      "Millet"
+    ],
+    "explanation": "வட அமெரிக்காவின் பூர்வீக மக்களின் முக்கிய உணவுப் பயிர் சோளம்.",
+    "explanation_en": "The main food crop of the native peoples of North America was Corn."
+  },
+  {
+    "id": 12,
+    "question": "வட அமெரிக்காவின் தெற்கு மற்றும் மேற்கு மாகாணங்களில் ________ நன்கு விளைகின்றது",
+    "options": [
+      "கோதுமை",
+      "பருத்தி",
+      "சோளம்",
+      "கம்பு"
+    ],
+    "correct": 1,
+    "question_en": "________ grows well in the southern and western states of North America",
+    "options_en": [
+      "Wheat",
+      "Cotton",
+      "Corn",
+      "Rye"
+    ],
+    "explanation": "வட அமெரிக்காவின் தெற்கு மற்றும் மேற்கு மாகாணங்களில் பருத்தி நன்கு விளைகின்றது",
+    "explanation_en": "Cotton grows well in the southern and western states of North America"
+  },
+  {
+    "id": 13,
+    "question": "இயற்கை அமைப்பு பிரிவுகளில் மிகப்பெரிய பன்முகத் தன்மையைக் கொண்ட கண்டம் ________.",
+    "options": [
+      "ஆப்பிரிக்கா",
+      "அண்டார்டிகா",
+      "ஆசியா",
+      "வட அமெரிக்கா"
+    ],
+    "correct": 3,
+    "question_en": "The continent with the greatest diversity of natural system divisions is ________.",
+    "options_en": [
+      "Africa",
+      "Antarctica",
+      "Asia",
+      "North America"
+    ],
+    "explanation": "இயற்கை அமைப்பு பிரிவுகளில் மிகப்பெரிய பன்முகத் தன்மையைக் கொண்ட கண்டம் வட அமெரிக்கா.",
+    "explanation_en": "The continent with the greatest diversity of natural system divisions is North America."
+  },
+  {
+    "id": 14,
+    "question": "வட அமெரிக்க கண்டத்தின் மிக ஆழமான பகுதி ________.",
+    "options": [
+      "மெக்கன்லீ",
+      "மரணப் பள்ளத்தாக்கு",
+      "லாப்ரடார்",
+      "லாரன்ஷியன்"
+    ],
+    "correct": 1,
+    "question_en": "The deepest part of the North American continent is ________.",
+    "options_en": [
+      "McConlee",
+      "Death Valley",
+      "Labrador",
+      "Laurentian"
+    ],
+    "explanation": "வட அமெரிக்க கண்டத்தின் மிக ஆழமான பகுதி மரணப் பள்ளத்தாக்கு.",
+    "explanation_en": "The deepest part of the North American continent is Death Valley."
+  },
+  {
+    "id": 15,
+    "question": "பூமியின் மிகவும் பழமையான மற்றும் இளமையான பாறைகள் கீழ்க்கண்டவற்றில் எங்குள்ளது?",
+    "options": [
+      "ராக்கி மலைகள்",
+      "மரணப் பள்ளத்தாக்கு",
+      "ஆண்டிஸ் மலை",
+      "அகான்காகுவா"
+    ],
+    "correct": 1,
+    "question_en": "Where among the following are the oldest and youngest rocks of the Earth?",
+    "options_en": [
+      "Rocky Mountains",
+      "Death Valley",
+      "Andes mountain",
+      "Aconcagua"
+    ],
+    "explanation": "மரணப் பள்ளத்தாக்கு",
+    "explanation_en": "Death Valley"
+  },
+  {
+    "id": 16,
+    "question": "வட அமெரிக்காவில் ராக்கி மலைப்பகுதி அமைந்துள்ள திசை ________.",
+    "options": [
+      "வடக்கு",
+      "கிழக்கு",
+      "மேற்கு",
+      "தெற்கு"
+    ],
+    "correct": 2,
+    "question_en": "The direction in which the Rocky Mountains are located in North America is ________.",
+    "options_en": [
+      "North",
+      "East",
+      "West",
+      "South"
+    ],
+    "explanation": "வட அமெரிக்காவில் ராக்கி மலைப்பகுதி அமைந்துள்ள திசை மேற்கு.",
+    "explanation_en": "The direction in which the Rocky Mountains are located in North America is West."
+  },
+  {
+    "id": 17,
+    "question": "பசிபிக் நெருப்பு வளையத்தின் ஒரு பகுதி மற்றும் பல இயங்கும் எரிமலைகளைக் கொண்டுள்ள பகுதி ________.",
+    "options": [
+      "வின்சின் மாசிப்",
+      "கார்டில் லெராஸ்",
+      "கிராண்ட் பேங்க்",
+      "அட்லாண்டா"
+    ],
+    "correct": 1,
+    "question_en": "Part of the Pacific Ring of Fire and containing many active volcanoes is ________.",
+    "options_en": [
+      "Vincenzo Masib",
+      "Leras on the card",
+      "Grand Bank",
+      "Atlanta"
+    ],
+    "explanation": "பசிபிக் நெருப்பு வளையத்தின் ஒரு பகுதி மற்றும் பல இயங்கும் எரிமலைகளைக் கொண்டுள்ள பகுதி கார்டில் லெராஸ்.",
+    "explanation_en": "Part of the Pacific Ring of Fire and containing many active volcanoes is Leras on the card."
+  },
+  {
+    "id": 18,
+    "question": "அண்டார்டிகா கண்டத்தின் உயரமான சிகரம் ________.",
+    "options": [
+      "எவரெஸ்ட்",
+      "கிளிமஞ்சாரோ",
+      "வின்சன் மாசிப்",
+      "காஸ்கியூஸ்கோ"
+    ],
+    "correct": 2,
+    "question_en": "The highest peak of the continent of Antarctica is ________.",
+    "options_en": [
+      "Everest",
+      "Kilimanjaro",
+      "Vinson Massif",
+      "Casciusco"
+    ],
+    "explanation": "அண்டார்டிகா கண்டத்தின் உயரமான சிகரம் வின்சன் மாசிப்.",
+    "explanation_en": "The highest peak of the continent of Antarctica is Vinson Massif."
+  },
+  {
+    "id": 19,
+    "question": "அமெரிக்காவின் அரிசோனா மாகாணத்தில் கொலராடோ ஆற்றினால் உருவாக்கப்பட்ட செங்குத்தான பக்கங்களைக் கொண்ட மிக ஆழமான பள்ளத்தாக்கு ________.",
+    "options": [
+      "கிராண்ட் கேன்யான்",
+      "கிராண்ட் பேங்க்",
+      "மரணப் பள்ளத்தாக்கு",
+      "செல்வாஸ்"
+    ],
+    "correct": 0,
+    "question_en": "________ is a steep-sided canyon formed by the Colorado River in the US state of Arizona.",
+    "options_en": [
+      "The Grand Canyon",
+      "Grand Bank",
+      "Death Valley",
+      "Selvas"
+    ],
+    "explanation": "அமெரிக்காவின் அரிசோனா மாகாணத்தில் கொலராடோ ஆற்றினால் உருவாக்கப்பட்ட செங்குத்தான பக்கங்களைக் கொண்ட மிக ஆழமான பள்ளத்தாக்கு கிராண்ட் கேன்யான்.",
+    "explanation_en": "The Grand Canyon is a steep-sided canyon formed by the Colorado River in the US state of Arizona."
+  },
+  {
+    "id": 20,
+    "question": "\"பெரிய சேற்று ஆறு\" என அழைக்கப்படுவது ________.",
+    "options": [
+      "மிசௌரி ஆறு",
+      "மிசிசிப்பி ஆறு",
+      "அமேசான்",
+      "நைல்"
+    ],
+    "correct": 1,
+    "question_en": "The so-called \"Big Muddy River\" is ________.",
+    "options_en": [
+      "Missouri River",
+      "Mississippi River",
+      "Amazon",
+      "Nile"
+    ],
+    "explanation": "\"பெரிய சேற்று ஆறு\" என அழைக்கப்படுவது மிசிசிப்பி ஆறு.",
+    "explanation_en": "The so-called \"Big Muddy River\" is Mississippi River."
+  },
+  {
+    "id": 21,
+    "question": "ஒன்டேரியோ ஏரியில் தன் பயணத்தை துவங்கி வடகிழக்காக பயணித்து அட்லாண்டிக் பெருங்கடலில் கலக்கும் ஆறு _______",
+    "options": [
+      "மெக்கன்ஸி ஆறு",
+      "மிசிசிப்பி",
+      "மிசௌரி",
+      "புனித லாரன்ஸ்"
+    ],
+    "correct": 3,
+    "question_en": "The river begins its journey in Lake Ontario and travels northeast to join the Atlantic Ocean _______",
+    "options_en": [
+      "Mackenzie River",
+      "Mississippi",
+      "Missouri",
+      "St. Lawrence"
+    ],
+    "explanation": "ஒன்டேரியோ ஏரியில் தன் பயணத்தை துவங்கி வடகிழக்காக பயணித்து அட்லாண்டிக் பெருங்கடலில் கலக்கும் ஆறு புனித லாரன்ஸ்",
+    "explanation_en": "The river begins its journey in Lake Ontario and travels northeast to join the Atlantic Ocean St. Lawrence"
+  },
+  {
+    "id": 22,
+    "question": "________ ஆறு ஆண்டின் எட்டு மாதங்களுக்கு உறைந்த நிலையிலேயே காணப்படுகிறது",
+    "options": [
+      "யூகான்",
+      "ரியோ கிரேன்டி",
+      "அமேசான்",
+      "தாபஜோஸ்"
+    ],
+    "correct": 0,
+    "question_en": "________ remains frozen for eight months out of six years",
+    "options_en": [
+      "Yukon",
+      "Rio Grande",
+      "Amazon",
+      "Tapajos"
+    ],
+    "explanation": "யூகான் ஆறு ஆண்டின் எட்டு மாதங்களுக்கு உறைந்த நிலையிலேயே காணப்படுகிறது",
+    "explanation_en": "Yukon remains frozen for eight months out of six years"
+  },
+  {
+    "id": 23,
+    "question": "பனாமா கால்வாய் வெட்டப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1914",
+      "1913",
+      "1926",
+      "1941"
+    ],
+    "correct": 0,
+    "question_en": "The year the Panama Canal was cut was ________.",
+    "options_en": [
+      "1914",
+      "1913",
+      "1926",
+      "1941"
+    ],
+    "explanation": "பனாமா கால்வாய் வெட்டப்பட்ட ஆண்டு 1914.",
+    "explanation_en": "The year the Panama Canal was cut was 1914."
+  },
+  {
+    "id": 24,
+    "question": "பொருத்துக\nகண்டங்கள் - உயரமான சிகரங்கள்\ni. வட அமெரிக்கா - a. காஸ்கியூஸ்கோ\nii. ஆஸ்திரேலியா - b. கிளிமஞ்சாரோ\niii. ஐரோப்பா - c. அகான்காகுவா\niv. ஆப்பிரிக்கா - d. மெக்கன்லீ\n- e. எல்பரஸ்",
+    "options": [
+      "i-a, ii-b, iii-c, iv-d",
+      "i-d, ii-c, iii-b, iv-e",
+      "i-a, ii-d, iii-b, iv-e",
+      "i-d, ii-a, iii-e, iv-b"
+    ],
+    "correct": 3,
+    "question_en": "match\nContinents - high peaks\ni. North America - a. Casciusco\nii. Australia – b. Kilimanjaro\niii. Europe - c. Aconcagua\niv. Africa - d. McConlee\n- e. Elberus",
+    "options_en": [
+      "i-a, ii-b, iii-c, iv-d",
+      "i-d, ii-c, iii-b, iv-e",
+      "i-a, ii-d, iii-b, iv-e",
+      "i-d, ii-a, iii-e, iv-b"
+    ],
+    "explanation": "i-d, ii-a, iii-e, iv-b",
+    "explanation_en": "i-d, ii-a, iii-e, iv-b"
+  },
+  {
+    "id": 25,
+    "question": "பனாமா கால்வாய் இணைக்கும் கடல்கள் ________.",
+    "options": [
+      "பசிபிக், ஆர்டிக்",
+      "அட்லாண்டிக், பசிபிக்",
+      "இந்தியப்பெருங்கடல், சாக்கடல்",
+      "ஆர்டிக், லாப்ரடன் கடல்"
+    ],
+    "correct": 1,
+    "question_en": "The seas connected by the Panama Canal are ________.",
+    "options_en": [
+      "Pacific, Arctic",
+      "Atlantic, Pacific",
+      "Indian Ocean, Dead Sea",
+      "Artic, Labretton Sea"
+    ],
+    "explanation": "பனாமா கால்வாய் இணைக்கும் கடல்கள் அட்லாண்டிக், பசிபிக்.",
+    "explanation_en": "The seas connected by the Panama Canal are Atlantic, Pacific."
+  },
+  {
+    "id": 26,
+    "question": "உலகின் மிகப்பெரிய இரயில்வே முனையம் எங்கு உள்ளது?",
+    "options": [
+      "நியூயார்க்",
+      "சிக்காகோ",
+      "கனடா",
+      "மெக்சிகோ"
+    ],
+    "correct": 1,
+    "question_en": "Where is the largest railway station in the world?",
+    "options_en": [
+      "New York",
+      "Chicago",
+      "Canada",
+      "Mexico"
+    ],
+    "explanation": "சிக்காகோ",
+    "explanation_en": "Chicago is the largest railway station in the world."
+  },
+  {
+    "id": 27,
+    "question": "வட மேற்கில் அலாஸ்காவையும், தெற்கில் பனாமாவையும் இணைக்கும் சாலை ________.",
+    "options": [
+      "பான் அமெரிக்கன் நெடுஞ்சாலை",
+      "நியூயார்க் நெடுஞ்சாலை",
+      "சிகாகோ சாலை",
+      "கனடா நெடுஞ்சாலை"
+    ],
+    "correct": 0,
+    "question_en": "The road connecting Alaska in the northwest and Panama in the south is ________.",
+    "options_en": [
+      "Pan American Highway",
+      "New York Highway",
+      "Chicago Road",
+      "Canada Highway"
+    ],
+    "explanation": "வட மேற்கில் அலாஸ்காவையும், தெற்கில் பனாமாவையும் இணைக்கும் சாலை பான் அமெரிக்கன் நெடுஞ்சாலை.",
+    "explanation_en": "The road connecting Alaska in the northwest and Panama in the south is Pan American Highway."
+  },
+  {
+    "id": 28,
+    "question": "\"உருகும் பானை\" என அழைக்கப்படுவது ________.",
+    "options": [
+      "ஐக்கிய அமெரிக்க நாடுகள்",
+      "வட அமெரிக்கா",
+      "கனடா",
+      "கிரீன்லாந்து"
+    ],
+    "correct": 0,
+    "question_en": "The so-called \"melting pot\" is ________.",
+    "options_en": [
+      "United States of America",
+      "North America",
+      "Canada",
+      "Greenland"
+    ],
+    "explanation": "\"உருகும் பானை\" என அழைக்கப்படுவது ஐக்கிய அமெரிக்க நாடுகள்.",
+    "explanation_en": "The so-called \"melting pot\" is United States of America."
+  },
+  {
+    "id": 29,
+    "question": "செயற்கை இழை தயாரிப்பில் உலகின் இரண்டாம் இடத்தை பெற்றுள்ள நாடு ________.",
+    "options": [
+      "மெக்ஸிகோ",
+      "ஆஸ்திரேலியா",
+      "இந்தியா",
+      "வட அமெரிக்கா"
+    ],
+    "correct": 3,
+    "question_en": "The world's second largest producer of synthetic fibers is ________.",
+    "options_en": [
+      "Mexico",
+      "Australia",
+      "India",
+      "North America"
+    ],
+    "explanation": "செயற்கை இழை தயாரிப்பில் உலகின் இரண்டாம் இடத்தை பெற்றுள்ள நாடு வட அமெரிக்கா.",
+    "explanation_en": "The world's second largest producer of synthetic fibers is North America."
+  },
+  {
+    "id": 30,
+    "question": "கனடாவிலுள்ள ________ இல் காகிதத் தொழிற்சாலைகள் அதிக அளவில் காணப்படுகின்றன",
+    "options": [
+      "உதா",
+      "நிவடா",
+      "ஒன்டாரியோ",
+      "கியூபெக்"
+    ],
+    "correct": 2,
+    "question_en": "Paper mills are mostly found in ________ in Canada",
+    "options_en": [
+      "E.g",
+      "Niwata",
+      "Ontario",
+      "Quebec"
+    ],
+    "explanation": "கனடாவிலுள்ள ஒன்டாரியோ இல் காகிதத் தொழிற்சாலைகள் அதிக அளவில் காணப்படுகின்றன",
+    "explanation_en": "Paper mills are mostly found in Ontario in Canada"
+  },
+  {
+    "id": 31,
+    "question": "உலகின் மிகச்சிறந்த மீன்பிடி தளம் ________.",
+    "options": [
+      "கிராண்ட் பேங்க்",
+      "கடோபாக்ஸி",
+      "ஹம்போல்ட்",
+      "பெரு"
+    ],
+    "correct": 0,
+    "question_en": "The best fishing ground in the world is ________.",
+    "options_en": [
+      "Grand Bank",
+      "Catopaxy",
+      "Humboldt",
+      "Peru"
+    ],
+    "explanation": "உலகின் மிகச்சிறந்த மீன்பிடி தளம் கிராண்ட் பேங்க்.",
+    "explanation_en": "The best fishing ground in the world is Grand Bank."
+  },
+  {
+    "id": 32,
+    "question": "வட அமெரிக்காவையும் ஆசியாவையும் ________ பிரிக்கிறது.",
+    "options": [
+      "பேரிங் நீர் சந்தி",
+      "பாக் நீர் சந்தி",
+      "மலாக்கா நீர் சந்தி",
+      "ஜிப்ரால்டர் நீர் சந்தி"
+    ],
+    "correct": 0,
+    "question_en": "________ separates North America and Asia.",
+    "options_en": [
+      "Bearing water junction",
+      "Bach Neer Junction",
+      "Malacca Water Junction",
+      "Gibraltar Water Junction"
+    ],
+    "explanation": "வட அமெரிக்காவையும் ஆசியாவையும் பேரிங் நீர் சந்தி பிரிக்கிறது.",
+    "explanation_en": "Bearing water junction separates North America and Asia."
+  },
+  {
+    "id": 33,
+    "question": "------------------வட அமெரிக்காவின் நீளமான ஆறுகள் ஆகும்.",
+    "options": [
+      "மிசிசிப்பி மற்றும் மிசௌரி",
+      "மெக்கன்ஸி ஆறு",
+      "புனித லாரன்சு ஆறு",
+      "கொலரடோ ஆறு"
+    ],
+    "correct": 0,
+    "question_en": "------------------Longest rivers in North America.",
+    "options_en": [
+      "Mississippi and Missouri",
+      "Mackenzie River",
+      "St. Lawrence River",
+      "Colorado River"
+    ],
+    "explanation": "மிசிசிப்பி மற்றும் மிசௌரி",
+    "explanation_en": "Mississippi and Missouri"
+  },
+  {
+    "id": 34,
+    "question": "பொருத்தமான பதிலைத் தேர்வு செய்க\nகூற்று : வட அமெரிக்காவின் தெற்கு மற்றும் மேற்கு மாநிலங்களில் பருத்தி நன்றாக வளருகிறது.\nகாரணம் : மழையுடன் கூடிய வெப்பமான கோடைகாலம் மற்றும் வளமான மண் ஆகியவை பருத்தி விளைவதற்கு ஏற்ற சூழல்களாக உள்ளன.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று தவறு ஆனால் காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Choose the appropriate answer\nAssertion : Cotton grows well in the southern and western states of North America.\nReason : Hot summers with rain and fertile soil are ideal conditions for cotton cultivation.",
+    "options_en": [
+      "Both statement and reason are correct.",
+      "The statement is right, the reason is wrong.",
+      "The statement is wrong but the reason is right.",
+      "Both the statement and the reason are false."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+    "explanation_en": "Both statement and reason are correct."
+  },
+  {
+    "id": 35,
+    "question": "மரணப் பள்ளத்தாக்கு கடல் மட்டத்திலிருந்து ________ மீட்டர் ஆழத்தில் உள்ளது.",
+    "options": [
+      "86",
+      "76",
+      "96",
+      "66"
+    ],
+    "correct": 0,
+    "question_en": "Death Valley is ________ meters below sea level.",
+    "options_en": [
+      "86",
+      "76",
+      "96",
+      "66"
+    ],
+    "explanation": "மரணப் பள்ளத்தாக்கு கடல் மட்டத்திலிருந்து 86 மீட்டர் ஆழத்தில் உள்ளது.",
+    "explanation_en": "Death Valley is 86 meters below sea level."
+  },
+  {
+    "id": 36,
+    "question": "ராக்கி மலைத்தொடரும் கடற்கரை மலைத்தொடரும் மேற்கத்திய ________ என அழைக்கப்படுகின்றன.",
+    "options": [
+      "லாப்ரடார்",
+      "லாரன்ஷியன்",
+      "அப்பலேஷியன்",
+      "கார்டில்லெராஸ்"
+    ],
+    "correct": 3,
+    "question_en": "The Rocky Mountain Range and the Coast Range are known as the Western ________.",
+    "options_en": [
+      "Labrador",
+      "Laurentian",
+      "Appalachian",
+      "Cordilleras"
+    ],
+    "explanation": "ராக்கி மலைத்தொடரும் கடற்கரை மலைத்தொடரும் மேற்கத்திய கார்டில்லெராஸ் என அழைக்கப்படுகின்றன.",
+    "explanation_en": "The Rocky Mountain Range and the Coast Range are known as the Western Cordilleras."
+  },
+  {
+    "id": 37,
+    "question": "பொருத்தமான பதிலைத் தேர்வு செய்க\nகூற்று : அப்பலேஷியன் உயர் நிலங்கள் உயரம் குறைந்து காணப்படுகின்றன.\nகாரணம் : வானிலை சிதைவு காரணமாக மடிப்பு மலைகள் சிதைந்து, மேற்கு உயர் நிலங்களை விட உயரம் குறைந்து காணப்படுகின்றன.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று தவறு ஆனால் காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Choose the appropriate answer\nAssertion: The Appalachian highlands are decreasing in elevation.\nCause: Due to weathering, the folded hills are eroded and lower in height than the western highlands.",
+    "options_en": [
+      "Both statement and reason are correct.",
+      "The statement is right, the reason is wrong.",
+      "The statement is wrong but the reason is right.",
+      "Both the statement and the reason are false."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி.",
+    "explanation_en": "Both statement and reason are correct."
+  },
+  {
+    "id": 38,
+    "question": "பொருத்துக\n(i) மேற்கத்திய காற்றுகள் - a. வால்வரின்\n(ii) தூந்திர காடுகள் - b. யூக்கா\n(iii) டைகா - c. எதிர் வர்த்தக காற்றுகள்\n(iv) பாலைவன காடுகள் - d. ஸ்புரூஸ்",
+    "options": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-a, (iv)-d",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "correct": 3,
+    "question_en": "match\n(i) Westerly Winds – a. Wolverine\n(ii) Dundra forests - b. Yucca\n(iii) Taiga – c. Headwinds of trade\n(iv) Desert forests - d. Spruce",
+    "options_en": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-a, (iv)-d",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "explanation": "(i)-c, (ii)-a, (iii)-d, (iv)-b",
+    "explanation_en": "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+  },
+  {
+    "id": 39,
+    "question": "பொருத்தமான பதிலைத் தேர்வு செய்க\nகூற்று (அ) : உலகின் மரக்கட்டை மொத்த உற்பத்தியில் சுமார் 20% வட அமெரிக்காவில் இருந்து வருகிறது.\nகூற்று (ஆ) : வட அமெரிக்காவின் பிரெய்ரி புல்வெளி நிலங்களில் கோதுமை பெருமளவில் விளைவிக்கப்படுகிறது.",
+    "options": [
+      "கூற்று (அ) மற்றும் (ஆ) இரண்டும் சரி",
+      "கூற்று (அ) மற்றும் (ஆ) இரண்டும் தவறு",
+      "கூற்று (அ) சரி ஆனால் (ஆ) தவறு",
+      "கூற்று (அ) தவறானது ஆனால் (ஆ) சரி"
+    ],
+    "correct": 0,
+    "question_en": "Choose the appropriate answer\nAssertion (a) : About 20% of the world's total lumber production comes from North America.\nAssertion (b) : Wheat is grown extensively in the prairie grasslands of North America.",
+    "options_en": [
+      "Both statement (a) and (b) are correct",
+      "Both statement (a) and (b) are false",
+      "Statement (a) is true but (b) is false",
+      "Statement (a) is false but (b) is correct"
+    ],
+    "explanation": "கூற்று (அ) மற்றும் (ஆ) இரண்டும் சரி",
+    "explanation_en": "Both statement (a) and (b) are correct"
+  },
+  {
+    "id": 40,
+    "question": "பொருத்தமான பதிலைத் தேர்வு செய்க\nகூற்று (1): ஐரோப்பா, ஜப்பான், சீனா மற்றும் இந்தியா போன்ற நாடுகள் வட அமெரிக்காவின் முக்கிய வர்த்தக நாடுகளாகும்.\nகூற்று (2) : பான் அமெரிக்கன் நெடுஞ்சாலை வட மேற்கில் அலாஸ்காவையும், தெற்கில் கனடாவையும் இணைக்கிறது.",
+    "options": [
+      "கூற்று (1) மற்றும் (2) இரண்டும் சரி.",
+      "கூற்று (1) மற்றும் (2) இரண்டும் தவறு.",
+      "கூற்று (1) சரி ஆனால் (2) தவறு",
+      "கூற்று (1) தவறானது ஆனால் (2) சரி."
+    ],
+    "correct": 2,
+    "question_en": "Choose the appropriate answer\nAssertion (1): Countries like Europe, Japan, China and India are major trading countries of North America.\nStatement (2) : The Pan American Highway connects Alaska in the northwest and Canada in the south.",
+    "options_en": [
+      "Both statement (1) and (2) are correct.",
+      "Both statements (1) and (2) are false.",
+      "Statement (1) is true but (2) is false",
+      "Statement (1) is false but (2) is correct."
+    ],
+    "explanation": "கூற்று (1) சரி ஆனால் (2) தவறு",
+    "explanation_en": "Statement (1) is true but (2) is false"
+  },
+  {
+    "id": 41,
+    "question": "செயற்கை இழைகள் மரக்கூழிலிருந்து கிடைக்கும் ------------------ மூலம் தயாரிக்கப்படுகிறது.",
+    "options": [
+      "செல்லுலோஸ்",
+      "ரப்பர்",
+      "தண்ணீர்",
+      "பசை"
+    ],
+    "correct": 0,
+    "question_en": "Synthetic fibers are made from wood pulp.",
+    "options_en": [
+      "Cellulose",
+      "Rubber",
+      "Water",
+      "Glue"
+    ],
+    "explanation": "செல்லுலோஸ்",
+    "explanation_en": "Cellulose"
+  },
+  {
+    "id": 42,
+    "question": "பொருத்துக\n(i) இரும்புத்தாது - a. மெக்ஸிகோ\n(ii) தங்கம் - b. மினசோட்டா\n(iii) பெட்ரோலியம் - c. நிவடா\n(iv) நிலக்கரி - d. பென்சில்வேனியா",
+    "options": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-a, (iv)-d",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) Iron ore – a. Mexico\n(ii) Gold – b. Minnesota\n(iii) Petroleum – c. Niwata\n(iv) Coal – d. Pennsylvania",
+    "options_en": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-c, (iii)-a, (iv)-d",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "explanation": "(i)-b, (ii)-c, (iii)-a, (iv)-d",
+    "explanation_en": "(i)-b, (ii)-c, (iii)-a, (iv)-d"
+  },
+  {
+    "id": 43,
+    "question": "பொருத்தமான பதிலைத் தேர்வு செய்க\nகூற்று : கனடாவின் நியூபவுண்ட்லாந்து தீவுக்கு அருகில் அமைந்துள்ள கிராண்ட் பேங்க் உலகின் மிகச்சிறந்த மீன்பிடி தளமாகும்.\nகாரணம் : கல்ப் வெப்ப நீரோட்டமும், லாப்ரடார் குளிர் நீரோட்டமும் சந்தித்துக் கொள்வதால் மீன்கள் வளர்வதற்கான ஏற்ற சூழல் கிராண்ட் பேங்கில் உருவாகிறது.",
+    "options": [
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் ஆகும்",
+      "கூற்று மற்றும் காரணம் இரண்டும் சரி ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் அல்ல.",
+      "கூற்று சரி ஆனால் காரணம் தவறு",
+      "கூற்று தவறானது ஆனால் காரணம் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Choose the appropriate answer\nClaim : Located near the island of Newfoundland, Canada, Grand Bank is one of the best fishing grounds in the world.\nReason: The meeting of the warm Gulf Current and the cold Labrador Current creates an ideal environment for fish to grow in the Grand Bank.",
+    "options_en": [
+      "Both the statement and the reason are correct but the reason is the correct explanation for the statement",
+      "Both the statement and the reason are correct but the reason is not the correct explanation for the statement.",
+      "The statement is correct but the reason is wrong",
+      "The statement is false but the reason is correct"
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் இரண்டும் சரி ஆனால், காரணம் கூற்றிற்கான சரியான விளக்கம் ஆகும்",
+    "explanation_en": "Both the statement and the reason are correct but the reason is the correct explanation for the statement"
+  },
+  {
+    "id": 44,
+    "question": "கிரேட் ஏரிகளில் மிகப்பெரிய ஏரியானது ________.",
+    "options": [
+      "சுப்பீரியர் ஏரி",
+      "நன்னீர் ஏரி",
+      "அதபாஸ்கா ஏரி",
+      "கிரேட் பேர் ஏரி"
+    ],
+    "correct": 0,
+    "question_en": "The largest of the Great Lakes is ________.",
+    "options_en": [
+      "Lake Superior",
+      "Fresh water lake",
+      "Lake Athabasca",
+      "Great Bear Lake"
+    ],
+    "explanation": "கிரேட் ஏரிகளில் மிகப்பெரிய ஏரியானது சுப்பீரியர் ஏரி.",
+    "explanation_en": "The largest of the Great Lakes is Lake Superior."
+  },
+  {
+    "id": 45,
+    "question": "உலகின் சர்க்கரை கிண்ணம் என அழைக்கப்படுவது ________.",
+    "options": [
+      "மெக்ஸிகோ",
+      "அமெரிக்கா",
+      "கனடா",
+      "கியூபா"
+    ],
+    "correct": 3,
+    "question_en": "________ is known as the sugar bowl of the world.",
+    "options_en": [
+      "Mexico",
+      "America",
+      "Canada",
+      "Cuba"
+    ],
+    "explanation": "உலகின் சர்க்கரை கிண்ணம் என அழைக்கப்படுவது கியூபா.",
+    "explanation_en": "Cuba is known as the sugar bowl of the world."
+  },
+  {
+    "id": 46,
+    "question": "பொருத்துக\n(i) கோதுமை - a. ஹமில்டன் நகரம்\n(ii) மிதவெப்ப மண்டல பயிர்கள் - b. பிரெய்ரி புல்வெளி\n(iii) லாரன்ஸ் பள்ளத்தாக்கு - c. பார்லி மற்றும் ஓட்ஸ்\n(iv) இரும்பு எஃகு தொழிற்சாலை - d. சிட்ரஸ் வகை பழங்கள்",
+    "options": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-a, (iii)-d, (iv)-b",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) Wheat – a. City of Hamilton\n(ii) Temperate crops – b. Prairie meadow\n(iii) Lawrence Valley – c. Barley and oats\n(iv) Iron and steel industry - d. Citrus fruits",
+    "options_en": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-a, (iii)-d, (iv)-b",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "explanation": "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+    "explanation_en": "(i)-b, (ii)-c, (iii)-d, (iv)-a"
+  },
+  {
+    "id": 47,
+    "question": "பொருத்துக\n(i) மெக்கன்லீ சிகரம் - a. பறக்க இயலாத பறவை\n(ii) கிராண்ட் கேன்யான் - b. 6194 மீ\n(iii) எபோனி - c. கொலரடோ ஆறு\n(iv) ரியா - d. பூமத்தியரேகை பகுதி",
+    "options": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-a, (iii)-d, (iv)-b",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "correct": 2,
+    "question_en": "match\n(i) McConlee Peak - a. A flightless bird\n(ii) Grand Canyon – b. 6194 m\n(iii) Ebony – c. Colorado River\n(iv) Rhea - d. equatorial region",
+    "options_en": [
+      "(i)-c, (ii)-b, (iii)-d, (iv)-a",
+      "(i)-b, (ii)-a, (iii)-d, (iv)-b",
+      "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+      "(i)-c, (ii)-a, (iii)-d, (iv)-b"
+    ],
+    "explanation": "(i)-b, (ii)-c, (iii)-d, (iv)-a",
+    "explanation_en": "(i)-b, (ii)-c, (iii)-d, (iv)-a"
+  },
+  {
+    "id": 48,
+    "question": "வட அமெரிக்காவின் எல்லைகளில் தவறானதைத் தேர்ந்தெடு.",
+    "options": [
+      "மேற்கில் பசிபிக் பெருங்கடல்",
+      "கிழக்கில் ஆஸ்திரேலியா",
+      "தெற்கில் தென் அமெரிக்கா",
+      "வடக்கில் ஆர்டிக் பெருங்கடல்"
+    ],
+    "correct": 1,
+    "question_en": "Select Incorrect The boundaries of North America.",
+    "options_en": [
+      "Pacific Ocean to the west",
+      "Australia in the east",
+      "South America in the south",
+      "Artic Ocean in the north"
+    ],
+    "explanation": "கிழக்கில் ஆஸ்திரேலியா",
+    "explanation_en": "Australia in the east"
+  },
+  {
+    "id": 49,
+    "question": "வட அமெரிக்காவின் ராக்கி மலைத்தொடரின் நீளம் ________.",
+    "options": [
+      "480 கி.மீ",
+      "110 கி.மீ",
+      "4800 கி.மீ",
+      "8848 மீ"
+    ],
+    "correct": 2,
+    "question_en": "The length of the Rocky Mountain range of North America is ________.",
+    "options_en": [
+      "480 km",
+      "110 km",
+      "4800 km",
+      "8848 m"
+    ],
+    "explanation": "வட அமெரிக்காவின் ராக்கி மலைத்தொடரின் நீளம் 4800 கி.மீ.",
+    "explanation_en": "The length of the Rocky Mountain range of North America is 4800 km."
+  },
+  {
+    "id": 50,
+    "question": "கஸ்தூரி எருது காணப்படும் வட அமெரிக்க காடுகள் ________.",
+    "options": [
+      "தூந்திர காடுகள்",
+      "பாலைவன காடுகள்",
+      "குளிர்ந்த மிதவெப்ப இலையுதிர்காடுகள்",
+      "மழைக்காடுகள்"
+    ],
+    "correct": 2,
+    "question_en": "The North American forests where the musk ox is found are ________.",
+    "options_en": [
+      "Dundra forests",
+      "Desert forests",
+      "Cool temperate autumns",
+      "Rain forests"
+    ],
+    "explanation": "கஸ்தூரி எருது காணப்படும் வட அமெரிக்க காடுகள் குளிர்ந்த மிதவெப்ப இலையுதிர்காடுகள்.",
+    "explanation_en": "The North American forests where the musk ox is found are Cool temperate autumns."
+  },
+  {
+    "id": 51,
+    "question": "உலகின் நான்காவது பெரிய கண்டம் ________.",
+    "options": [
+      "வட அமெரிக்கா",
+      "தென் அமெரிக்கா",
+      "ரஷ்யா",
+      "சீனா"
+    ],
+    "correct": 1,
+    "question_en": "The world's fourth largest continent is ________.",
+    "options_en": [
+      "North America",
+      "South America",
+      "Russia",
+      "China"
+    ],
+    "explanation": "உலகின் நான்காவது பெரிய கண்டம் தென் அமெரிக்கா.",
+    "explanation_en": "The world's fourth largest continent is South America."
+  },
+  {
+    "id": 52,
+    "question": "மத்திய அமெரிக்காவுடன் இணைத்து தென் அமெரிக்கா ________ என்று அழைக்கப்படுகிறது.",
+    "options": [
+      "லத்தீன் அமெரிக்கா",
+      "நன்னம்பிக்கை முனை",
+      "தீவுகள்",
+      "குன்றுகள்"
+    ],
+    "correct": 0,
+    "question_en": "South America combined with Central America is called ________.",
+    "options_en": [
+      "Latin America",
+      "Good faith node",
+      "Islands",
+      "hills"
+    ],
+    "explanation": "மத்திய அமெரிக்காவுடன் இணைத்து தென் அமெரிக்கா லத்தீன் அமெரிக்கா என்று அழைக்கப்படுகிறது.",
+    "explanation_en": "South America combined with Central America is called Latin America."
+  },
+  {
+    "id": 53,
+    "question": "தென் அமெரிக்காவையும், வட அமெரிக்காவையும் இணைப்பது ________.",
+    "options": [
+      "குமரி முனை",
+      "சூயஸ்கால்வாய்",
+      "பனாமா நிலச்சந்தி",
+      "சன் ஜார்ஜ் வளைகுடா"
+    ],
+    "correct": 2,
+    "question_en": "Connecting South America and North America is ________.",
+    "options_en": [
+      "Kumari Node",
+      "Suez Canal",
+      "Panama border",
+      "San George Bay"
+    ],
+    "explanation": "தென் அமெரிக்காவையும், வட அமெரிக்காவையும் இணைப்பது பனாமா நிலச்சந்தி.",
+    "explanation_en": "Connecting South America and North America is Panama border."
+  },
+  {
+    "id": 54,
+    "question": "அமேசான் ஆற்றின் முகத்துவாரத்தின் வழியாகச் செல்லும் ரேகை ________.",
+    "options": [
+      "பூமத்திய ரேகை",
+      "அட்சரேகை",
+      "தீர்க்கரேகை",
+      "கடகரேகை"
+    ],
+    "correct": 0,
+    "question_en": "A line passing through the mouth of the Amazon River is ________.",
+    "options_en": [
+      "Equator",
+      "latitude",
+      "Longitude",
+      "latitude"
+    ],
+    "explanation": "அமேசான் ஆற்றின் முகத்துவாரத்தின் வழியாகச் செல்லும் ரேகை பூமத்திய ரேகை.",
+    "explanation_en": "A line passing through the mouth of the Amazon River is Equator."
+  },
+  {
+    "id": 55,
+    "question": "தலைகீழ் முக்கோண வடிவிலான நிலப்பகுதி ________.",
+    "options": [
+      "வடஅமெரிக்கா",
+      "இந்தியா",
+      "ஆஸ்திரேலியா",
+      "தென் அமெரிக்கா"
+    ],
+    "correct": 3,
+    "question_en": "An inverted triangle shaped area is ________.",
+    "options_en": [
+      "North America",
+      "India",
+      "Australia",
+      "South America"
+    ],
+    "explanation": "தலைகீழ் முக்கோண வடிவிலான நிலப்பகுதி தென் அமெரிக்கா.",
+    "explanation_en": "An inverted triangle shaped area is South America."
+  },
+  {
+    "id": 56,
+    "question": "தென் அமெரிக்கா உலகின் மொத்த நிலப்பரப்பின் சதவீதம் ________.",
+    "options": [
+      "10%",
+      "15%",
+      "4%",
+      "18%"
+    ],
+    "correct": 1,
+    "question_en": "South America is ________ percent of the world's total land area.",
+    "options_en": [
+      "10%",
+      "15%",
+      "4%",
+      "18%"
+    ],
+    "explanation": "தென் அமெரிக்கா உலகின் மொத்த நிலப்பரப்பின் சதவீதம் 15%.",
+    "explanation_en": "South America is 15% percent of the world's total land area."
+  },
+  {
+    "id": 57,
+    "question": "உலகின் பழமையான மற்றும் இளைய பாறைகளால் ஆனப் பகுதி ________.",
+    "options": [
+      "இந்தியா",
+      "வடஅமெரிக்கா",
+      "தென் அமெரிக்கா",
+      "பாகிஸ்தான்"
+    ],
+    "correct": 2,
+    "question_en": "The world's oldest and youngest rock formations are ________.",
+    "options_en": [
+      "India",
+      "North America",
+      "South America",
+      "Pakistan"
+    ],
+    "explanation": "உலகின் பழமையான மற்றும் இளைய பாறைகளால் ஆனப் பகுதி தென் அமெரிக்கா.",
+    "explanation_en": "The world's oldest and youngest rock formations are South America."
+  },
+  {
+    "id": 58,
+    "question": "இமயமலையை போன்ற மடிப்பு மலைகளால் ஆன மலைத்தொடர் ________.",
+    "options": [
+      "பனாமா நிலச்சந்தி",
+      "கிரிப்ஸ் மலைத்தொடர்",
+      "ஆல்ப்ஸ் மலைத்தொடர்",
+      "ஆண்டிஸ் மலைத்தொடர்"
+    ],
+    "correct": 3,
+    "question_en": "________ is a mountain range made up of folded mountains like the Himalayas.",
+    "options_en": [
+      "Panama border",
+      "Cripps Range",
+      "Alps mountain range",
+      "Andes mountain range"
+    ],
+    "explanation": "இமயமலையை போன்ற மடிப்பு மலைகளால் ஆன மலைத்தொடர் ஆண்டிஸ் மலைத்தொடர்.",
+    "explanation_en": "Andes mountain range is a mountain range made up of folded mountains like the Himalayas."
+  },
+  {
+    "id": 59,
+    "question": "உலகின் மிக நீண்ட மலைத்தொடர் ________.",
+    "options": [
+      "ஆண்டிஸ் மலைத்தொடர்",
+      "கிரிப்ஸ் மலைத்தொடர்",
+      "சூயஸ்கால்வாய்",
+      "இமயமலை"
+    ],
+    "correct": 0,
+    "question_en": "The longest mountain range in the world is ________.",
+    "options_en": [
+      "Andes mountain range",
+      "Cripps Range",
+      "Suez Canal",
+      "The Himalayas"
+    ],
+    "explanation": "உலகின் மிக நீண்ட மலைத்தொடர் ஆண்டிஸ் மலைத்தொடர்.",
+    "explanation_en": "The longest mountain range in the world is Andes mountain range."
+  },
+  {
+    "id": 60,
+    "question": "ஆண்டிஸ் மலைத்தொடரின் நீளம் ________.",
+    "options": [
+      "6410 கி.மீ",
+      "6440 கி.மீ",
+      "5440 கி.மீ",
+      "6450 கி.மீ"
+    ],
+    "correct": 1,
+    "question_en": "The length of the Andes mountain range is ________.",
+    "options_en": [
+      "6410 km",
+      "6440 km",
+      "5440 km",
+      "6450 km"
+    ],
+    "explanation": "ஆண்டிஸ் மலைத்தொடரின் நீளம் 6440 கி.மீ.",
+    "explanation_en": "The length of the Andes mountain range is 6440 km."
+  },
+  {
+    "id": 61,
+    "question": "ஆண்டிஸ் மலைத்தொடரில் மிக உயர்ந்த சிகரம் ________.",
+    "options": [
+      "அகான்காகுவா",
+      "கிரிப்ஸ்",
+      "அமேசான்",
+      "மிசிசிபி"
+    ],
+    "correct": 0,
+    "question_en": "The highest peak in the Andes mountain range is ________.",
+    "options_en": [
+      "Aconcagua",
+      "Grips",
+      "Amazon",
+      "Mississippi"
+    ],
+    "explanation": "ஆண்டிஸ் மலைத்தொடரில் மிக உயர்ந்த சிகரம் அகான்காகுவா.",
+    "explanation_en": "The highest peak in the Andes mountain range is Aconcagua."
+  },
+  {
+    "id": 62,
+    "question": "ஆண்டிஸ் மலைத்தொடரில் சீரும் மலைத்தொடரின் பெயர் ________.",
+    "options": [
+      "அகான்காகுவா",
+      "கடோபாக்ஸி",
+      "சிலி",
+      "டாப்ஸி"
+    ],
+    "correct": 1,
+    "question_en": "The mountain range in the Andes mountain range is named ________.",
+    "options_en": [
+      "Aconcagua",
+      "Catopaxy",
+      "Chile",
+      "Topsy"
+    ],
+    "explanation": "ஆண்டிஸ் மலைத்தொடரில் சீரும் மலைத்தொடரின் பெயர் கடோபாக்ஸி.",
+    "explanation_en": "The mountain range in the Andes mountain range is named Catopaxy."
+  },
+  {
+    "id": 63,
+    "question": "பின்வரும் ஆண்டிஸ் மலைத்தொடரினைப் பற்றிய கருத்துக்களில் தவறான கூற்று எது?",
+    "options": [
+      "நிலநடுக்கம், எரிமலை வெடிப்புகள் அடிக்கடி ஏற்படுகின்றன",
+      "தாமிரம், தகரம், மரகதம் போன்ற உலோகங்கள் கிடைக்கின்றன",
+      "இது உலகின் மிக குறுகிய மலைத்தொடர் ஆகும்",
+      "இது மடிப்பு மலைகளில் ஒன்று"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following statements about the Andes mountain range is false?",
+    "options_en": [
+      "Earthquakes and volcanic eruptions are frequent",
+      "Metals like copper, tin, emerald are available",
+      "It is the shortest mountain range in the world",
+      "It is one of the folding mountains"
+    ],
+    "explanation": "இது உலகின் மிக குறுகிய மலைத்தொடர் ஆகும்",
+    "explanation_en": "It is the shortest mountain range in the world"
+  },
+  {
+    "id": 64,
+    "question": "அட்லாண்டிக் பெருங்கடலில் கலக்கும் மிகப்பெரிய ஆறு ________.",
+    "options": [
+      "அமேசான் ஆறு",
+      "மிசிசிபி",
+      "டாப்ஸி",
+      "சிலி"
+    ],
+    "correct": 0,
+    "question_en": "The largest river that flows into the Atlantic Ocean is the ________.",
+    "options_en": [
+      "Amazon River",
+      "Mississippi",
+      "Topsy",
+      "Chile"
+    ],
+    "explanation": "அட்லாண்டிக் பெருங்கடலில் கலக்கும் மிகப்பெரிய ஆறு அமேசான் ஆறு.",
+    "explanation_en": "The largest river that flows into the Atlantic Ocean is the Amazon River."
+  },
+  {
+    "id": 65,
+    "question": "அமேசான் ஆற்றுப்படுகையில் காணப்படும் மண் வகை ________.",
+    "options": [
+      "வண்டல் மண்",
+      "செம்மண்",
+      "சரளை மண்",
+      "கரிசல் மண்"
+    ],
+    "correct": 3,
+    "question_en": "The type of soil found in the Amazon River Basin is ________.",
+    "options_en": [
+      "Alluvial soil",
+      "red clay",
+      "Gravel soil",
+      "Karisal soil"
+    ],
+    "explanation": "அமேசான் ஆற்றுப்படுகையில் காணப்படும் மண் வகை கரிசல் மண்.",
+    "explanation_en": "The type of soil found in the Amazon River Basin is Karisal soil."
+  },
+  {
+    "id": 66,
+    "question": "கயானா உயர்நிலங்களில் காணப்படும் மிக உயரமான நீர்வீழ்ச்சி எது ________.",
+    "options": [
+      "ஏஞ்சல்",
+      "கிரிப்ஸ்",
+      "சிலி",
+      "கடோபாக்ஸி"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is the highest waterfall found in the Guyana Highlands?",
+    "options_en": [
+      "Angel",
+      "Grips",
+      "Chile",
+      "Catopaxy"
+    ],
+    "explanation": "கயானா உயர்நிலங்களில் காணப்படும் மிக உயரமான நீர்வீழ்ச்சி எது ஏஞ்சல்.",
+    "explanation_en": "Angel is the highest waterfall found in the Guyana Highlands."
+  },
+  {
+    "id": 67,
+    "question": "கிழக்கு கடற்கரையிலுள்ள செங்குத்தான பாறைகளைக் கொண்ட நிலப்பகுதி ________.",
+    "options": [
+      "பராகுவே",
+      "டார்ஜிலிங்",
+      "பிரேசிலியன்",
+      "ஏஞ்சல்"
+    ],
+    "correct": 2,
+    "question_en": "The steep rocky terrain on the east coast is ________.",
+    "options_en": [
+      "Paraguay",
+      "Darjeeling",
+      "Brazilian",
+      "Angel"
+    ],
+    "explanation": "கிழக்கு கடற்கரையிலுள்ள செங்குத்தான பாறைகளைக் கொண்ட நிலப்பகுதி பிரேசிலியன்.",
+    "explanation_en": "The steep rocky terrain on the east coast is Brazilian."
+  },
+  {
+    "id": 68,
+    "question": "தென் அமெரிக்காவில், நிரந்தரமான வசந்த காலத்தை அனுபவிக்கும் நகரம் ________.",
+    "options": [
+      "பராகுவே",
+      "பிரேசிலியன்",
+      "ஏஞ்சல்",
+      "குவிட்டோ"
+    ],
+    "correct": 3,
+    "question_en": "In South America, the city that experiences perpetual spring is ________.",
+    "options_en": [
+      "Paraguay",
+      "Brazilian",
+      "Angel",
+      "Quito"
+    ],
+    "explanation": "தென் அமெரிக்காவில், நிரந்தரமான வசந்த காலத்தை அனுபவிக்கும் நகரம் குவிட்டோ.",
+    "explanation_en": "In South America, the city that experiences perpetual spring is Quito."
+  },
+  {
+    "id": 69,
+    "question": "தென் அமெரிக்காவில் கோடைக்காலம் ________.",
+    "options": [
+      "நவம்பர் முதல் ஜனவரி",
+      "ஜனவரி முதல் மார்ச்",
+      "மே முதல் ஜூலை",
+      "ஜூலை முதல் செப்டம்பர்"
+    ],
+    "correct": 0,
+    "question_en": "Summer in South America is ________.",
+    "options_en": [
+      "November to January",
+      "January to March",
+      "May to July",
+      "July to September"
+    ],
+    "explanation": "தென் அமெரிக்காவில் கோடைக்காலம் நவம்பர் முதல் ஜனவரி.",
+    "explanation_en": "Summer in South America is November to January."
+  },
+  {
+    "id": 70,
+    "question": "தினந்தோறும் 4 மணி நேரம் மழைபெறும் பகுதி ________.",
+    "options": [
+      "கடகரேகை",
+      "பூமத்தியரேகை",
+      "மகரரேகை",
+      "தீர்க்க ரேகை"
+    ],
+    "correct": 1,
+    "question_en": "The area that receives 4 hours of rain daily is ________.",
+    "options_en": [
+      "latitude",
+      "Equator",
+      "Capricorn",
+      "solution line"
+    ],
+    "explanation": "தினந்தோறும் 4 மணி நேரம் மழைபெறும் பகுதி பூமத்தியரேகை.",
+    "explanation_en": "The area that receives 4 hours of rain daily is Equator."
+  },
+  {
+    "id": 71,
+    "question": "வெப்பச்சலன மழைக்கு மறுபெயர் ________.",
+    "options": [
+      "புயல்",
+      "சூறாவளி",
+      "திடீர் மழை",
+      "கடிகார மழை"
+    ],
+    "correct": 3,
+    "question_en": "Convection rain is renamed as ________.",
+    "options_en": [
+      "Storm",
+      "Cyclone",
+      "sudden rain",
+      "Hourly rain"
+    ],
+    "explanation": "வெப்பச்சலன மழைக்கு மறுபெயர் கடிகார மழை.",
+    "explanation_en": "Convection rain is renamed as Hourly rain."
+  },
+  {
+    "id": 72,
+    "question": "தென் அமெரிக்காவின் மிக நீண்ட ஆறு ________.",
+    "options": [
+      "ஏஞ்சல்",
+      "டார்ஜிலிங்",
+      "அமேசான் ஆறு",
+      "குவிட்டோ"
+    ],
+    "correct": 2,
+    "question_en": "The longest river in South America is ________.",
+    "options_en": [
+      "Angel",
+      "Darjeeling",
+      "Amazon River",
+      "Quito"
+    ],
+    "explanation": "தென் அமெரிக்காவின் மிக நீண்ட ஆறு அமேசான் ஆறு.",
+    "explanation_en": "The longest river in South America is Amazon River."
+  },
+  {
+    "id": 73,
+    "question": "அமேசான் ஆற்றின் நீளம் ________.",
+    "options": [
+      "6350 கி.மீ",
+      "6450 கி.மீ",
+      "6250 கி.மீ",
+      "6425 கி.மீ"
+    ],
+    "correct": 1,
+    "question_en": "The length of the Amazon River is ________.",
+    "options_en": [
+      "6350 km",
+      "6450 km",
+      "6250 km",
+      "6425 km"
+    ],
+    "explanation": "அமேசான் ஆற்றின் நீளம் 6450 கி.மீ.",
+    "explanation_en": "The length of the Amazon River is 6450 km."
+  },
+  {
+    "id": 74,
+    "question": "ஆயிரக்கணக்கான கிளை நதிகளைக் கொண்ட ஆறு ________.",
+    "options": [
+      "அமேசான்",
+      "காவேரி",
+      "ஏஞ்சல்",
+      "குவிட்டோ"
+    ],
+    "correct": 0,
+    "question_en": "A river with thousands of tributaries is ________.",
+    "options_en": [
+      "Amazon",
+      "Kaveri",
+      "Angel",
+      "Quito"
+    ],
+    "explanation": "ஆயிரக்கணக்கான கிளை நதிகளைக் கொண்ட ஆறு அமேசான்.",
+    "explanation_en": "A river with thousands of tributaries is Amazon."
+  },
+  {
+    "id": 75,
+    "question": "உலகின் மிகப்பெரிய வடிகால் அமைப்பு ________.",
+    "options": [
+      "சிலி",
+      "அமேசான்",
+      "டார்ஜிலிங்",
+      "கங்கை"
+    ],
+    "correct": 1,
+    "question_en": "The largest drainage system in the world is ________.",
+    "options_en": [
+      "Chile",
+      "Amazon",
+      "Darjeeling",
+      "Ganges"
+    ],
+    "explanation": "உலகின் மிகப்பெரிய வடிகால் அமைப்பு அமேசான்.",
+    "explanation_en": "The largest drainage system in the world is Amazon."
+  },
+  {
+    "id": 76,
+    "question": "இயற்கை தாவர பகுதிகள் ________ என அழைக்கப்படுகிறது",
+    "options": [
+      "பூந்தோட்டம்",
+      "ஆறுகள்",
+      "நதிகள்",
+      "செல்வாஸ்"
+    ],
+    "correct": 3,
+    "question_en": "Natural vegetation areas are called ________",
+    "options_en": [
+      "flower garden",
+      "Rivers",
+      "Rivers",
+      "Selvas"
+    ],
+    "explanation": "இயற்கை தாவர பகுதிகள் செல்வாஸ் என அழைக்கப்படுகிறது",
+    "explanation_en": "Natural vegetation areas are called Selvas"
+  },
+  {
+    "id": 77,
+    "question": "கீழ்கண்டவற்றில் எது அமேசான் காடுகளின் தவறான கூற்று?",
+    "options": [
+      "இது உலகின் நுரையீரல் என அழைக்கப்படுகிறது",
+      "உலகின் மிகப்பெரிய காடுகளில் இதுவும் ஒன்று",
+      "இது கடக ரேகை பகுதியில் காணப்படுகிறது",
+      "இங்கு கடினமான மரங்கள் வளர்கின்றன"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is a false statement about the Amazon rainforest?",
+    "options_en": [
+      "It is known as the lungs of the world",
+      "It is one of the largest forests in the world",
+      "It is found in coastal areas",
+      "Hard trees grow here"
+    ],
+    "explanation": "இது கடக ரேகை பகுதியில் காணப்படுகிறது",
+    "explanation_en": "It is found in coastal areas is a false statement about the Amazon rainforest."
+  },
+  {
+    "id": 78,
+    "question": "மலேரியாவிற்கு மருந்து தயாரிக்கப்பயன்படும் மரம் ________.",
+    "options": [
+      "கியூனைன்",
+      "ஈட்டி",
+      "கொய்னா",
+      "பனை"
+    ],
+    "correct": 0,
+    "question_en": "A tree used to make medicine for malaria is ________.",
+    "options_en": [
+      "Quinine",
+      "Spear",
+      "Koyna",
+      "Palm"
+    ],
+    "explanation": "மலேரியாவிற்கு மருந்து தயாரிக்கப்பயன்படும் மரம் கியூனைன்.",
+    "explanation_en": "A tree used to make medicine for malaria is Quinine."
+  },
+  {
+    "id": 79,
+    "question": "_________ மரத்தின் இலைகளைக் கொண்டு டீ பானத்தை தயாரிக்கலாம்.",
+    "options": [
+      "ஈட்டி",
+      "கியூனைன்",
+      "எர்பாமேட்",
+      "கொய்னா"
+    ],
+    "correct": 2,
+    "question_en": "A tea drink can be made from the leaves of the _________ tree.",
+    "options_en": [
+      "Spear",
+      "Quinine",
+      "Erpamate",
+      "Koyna"
+    ],
+    "explanation": "எர்பாமேட் மரத்தின் இலைகளைக் கொண்டு டீ பானத்தை தயாரிக்கலாம்.",
+    "explanation_en": "A tea drink can be made from the leaves of the Erpamate tree."
+  },
+  {
+    "id": 80,
+    "question": "தென் அமெரிக்காவின் அடர்ந்த இலையுதிர் காடுகளைக் கொண்ட பகுதி ________.",
+    "options": [
+      "கிரான்சாக்கோ",
+      "ஏஞ்சல்",
+      "குவிகுடா",
+      "பராகுவே"
+    ],
+    "correct": 0,
+    "question_en": "South America's densely forested area is ________.",
+    "options_en": [
+      "Gransacco",
+      "Angel",
+      "Cavicuta",
+      "Paraguay"
+    ],
+    "explanation": "தென் அமெரிக்காவின் அடர்ந்த இலையுதிர் காடுகளைக் கொண்ட பகுதி கிரான்சாக்கோ.",
+    "explanation_en": "South America's densely forested area is Gransacco."
+  },
+  {
+    "id": 81,
+    "question": "இலையுதிர் காடுகளில் காணப்படும் மிக கடினமான மரம் ________.",
+    "options": [
+      "தேக்கு",
+      "பைன்",
+      "கொய்னா",
+      "கியூபிராகோ"
+    ],
+    "correct": 3,
+    "question_en": "The hardest tree found in deciduous forests is ________.",
+    "options_en": [
+      "Teak",
+      "Pine",
+      "Koyna",
+      "Quebec"
+    ],
+    "explanation": "இலையுதிர் காடுகளில் காணப்படும் மிக கடினமான மரம் கியூபிராகோ.",
+    "explanation_en": "The hardest tree found in deciduous forests is Quebec."
+  },
+  {
+    "id": 82,
+    "question": "கோடாலி உடைப்பான் என பெயர் கொண்ட மரம் ________.",
+    "options": [
+      "கொய்னா",
+      "கியூபிராகோ",
+      "தேக்கு",
+      "பைன்"
+    ],
+    "correct": 1,
+    "question_en": "The tree named Ax Breaker is ________.",
+    "options_en": [
+      "Koyna",
+      "Quebec",
+      "Teak",
+      "Pine"
+    ],
+    "explanation": "கோடாலி உடைப்பான் என பெயர் கொண்ட மரம் கியூபிராகோ.",
+    "explanation_en": "The tree named Ax Breaker is Quebec."
+  },
+  {
+    "id": 83,
+    "question": "கியூபிராகோ மரத்திலிருந்து தயாரிக்கப்படும் டானின் ________ பதனிட பயன்படுகிறது.",
+    "options": [
+      "உரம்",
+      "மண்",
+      "தோல்",
+      "இலை"
+    ],
+    "correct": 2,
+    "question_en": "Tannin produced from the Cubarago tree is used for tanning ________.",
+    "options_en": [
+      "Fertilizer",
+      "Soil",
+      "skin",
+      "leaf"
+    ],
+    "explanation": "கியூபிராகோ மரத்திலிருந்து தயாரிக்கப்படும் டானின் தோல் பதனிட பயன்படுகிறது.",
+    "explanation_en": "Tannin produced from the Cubarago tree is used for tanning skin."
+  },
+  {
+    "id": 84,
+    "question": "ஆண்ட்ஸ் மலைச்சரிவுகளில் காணப்படும் காடுகள் ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "ஸ்புரூஸ்",
+      "மோண்டானா",
+      "ஆல்ப்ஸ்",
+      "ஊசியிலை"
+    ],
+    "correct": 1,
+    "question_en": "Forests found on the slopes of the Andes are known as ________.",
+    "options_en": [
+      "Spruce",
+      "Montana",
+      "The Alps",
+      "Coniferous"
+    ],
+    "explanation": "ஆண்ட்ஸ் மலைச்சரிவுகளில் காணப்படும் காடுகள் மோண்டானா என அழைக்கப்படுகிறது.",
+    "explanation_en": "Forests found on the slopes of the Andes are known as Montana."
+  },
+  {
+    "id": 85,
+    "question": "பொருத்துக\ni. செல்வாஸ் - 1. மோண்டானா\nii. காகிதம், காகித கூழ் - 2. குயினைன் மருந்து\niii. டானின் - 3. இயற்கை தாவர பகுதி\niv. ஈட்டி மரப்பட்டை - 4. தோல் பதனிடுதல்",
+    "options": [
+      "i-3, ii-2, iii-4, iv-1",
+      "i-3, ii-1, iii-4, iv-2",
+      "i-3, ii-1, iii-2, iv-4",
+      "i-1, ii-4, iii-2, iv-3"
+    ],
+    "correct": 1,
+    "question_en": "match\ni. Selvas - 1. Montana\nii. Paper, paper pulp - 2. Quinine drug\niii. Tannin - 3. Natural plant part\niv. Spear Bark - 4. Tanning",
+    "options_en": [
+      "i-3, ii-2, iii-4, iv-1",
+      "i-3, ii-1, iii-4, iv-2",
+      "i-3, ii-1, iii-2, iv-4",
+      "i-1, ii-4, iii-2, iv-3"
+    ],
+    "explanation": "i-3, ii-1, iii-4, iv-2",
+    "explanation_en": "i-3, ii-1, iii-4, iv-2"
+  },
+  {
+    "id": 86,
+    "question": "அமேசான் நதி படுகையில் காணப்படும் மிகப்பெரிய பறவை ________.",
+    "options": [
+      "கான்டோர்",
+      "கிளி",
+      "தேன்",
+      "சிட்டுக்குருவி"
+    ],
+    "correct": 0,
+    "question_en": "The largest bird found in the Amazon River basin is ________.",
+    "options_en": [
+      "Cantor",
+      "Parrot",
+      "Honey",
+      "sparrow"
+    ],
+    "explanation": "அமேசான் நதி படுகையில் காணப்படும் மிகப்பெரிய பறவை கான்டோர்.",
+    "explanation_en": "The largest bird found in the Amazon River basin is Cantor."
+  },
+  {
+    "id": 87,
+    "question": "உலகின் மிகப்பெரிய பாம்பு இனம் எது ________.",
+    "options": [
+      "நாகப்பாம்பு",
+      "சாரைப்பாம்பு",
+      "மலைப்பாம்பு",
+      "அனகோண்டா"
+    ],
+    "correct": 3,
+    "question_en": "Which is the largest species of snake in the world?",
+    "options_en": [
+      "Cobra",
+      "Rattlesnake",
+      "python",
+      "Anaconda"
+    ],
+    "explanation": "உலகின் மிகப்பெரிய பாம்பு இனம் எது அனகோண்டா.",
+    "explanation_en": "Anaconda is the largest species of snake in the world."
+  },
+  {
+    "id": 88,
+    "question": "தென் அமெரிக்காவின் சிறப்பு பெற்ற விலங்கு இனம் ________.",
+    "options": [
+      "புலி",
+      "காட்டெருமை",
+      "லாமாஸ்",
+      "சிங்கம்"
+    ],
+    "correct": 2,
+    "question_en": "South America's featured animal species is ________.",
+    "options_en": [
+      "tiger",
+      "Bison",
+      "Llamas",
+      "the lion"
+    ],
+    "explanation": "தென் அமெரிக்காவின் சிறப்பு பெற்ற விலங்கு இனம் லாமாஸ்.",
+    "explanation_en": "South America's featured animal species is Llamas."
+  },
+  {
+    "id": 89,
+    "question": "________ மீன் கடுமையான மாமிச உண்ணி வகையைச் சார்ந்தது.",
+    "options": [
+      "ரோகு",
+      "கட்லா",
+      "பிரன்ஹா",
+      "சுறா"
+    ],
+    "correct": 2,
+    "question_en": "________ fish are strict carnivores.",
+    "options_en": [
+      "Roku",
+      "Katla",
+      "Piranha",
+      "Shark"
+    ],
+    "explanation": "பிரன்ஹா மீன் கடுமையான மாமிச உண்ணி வகையைச் சார்ந்தது.",
+    "explanation_en": "Piranha fish are strict carnivores."
+  },
+  {
+    "id": 90,
+    "question": "பொருத்துக\ni. பூமத்திய ரேகை - 1. கலைமான்\nii. மிதவெப்ப மண்டல காடுகள் - 2. சிலந்தி, குரங்கு\niii. பாம்பாஸ் புல்வெளி - 3. முதலை மற்றும் கிளி\niv. சவானா புல்வெளி - 4. முள்ளம்பன்றி",
+    "options": [
+      "i-3, ii-4, iii-1, iv-2",
+      "i-3, ii-1, iii-4, iv-2",
+      "i-4, ii-1, iii-3, iv-2",
+      "i-3, ii-4, iii-1, iv-2"
+    ],
+    "correct": 0,
+    "question_en": "match\ni. Equator - 1. Reindeer\nii. Temperate forests - 2. Spider, monkey\niii. Pampas Grassland - 3. Crocodile and Parrot\niv. Savannah Grassland - 4. Porcupine",
+    "options_en": [
+      "i-3, ii-4, iii-1, iv-2",
+      "i-3, ii-1, iii-4, iv-2",
+      "i-4, ii-1, iii-3, iv-2",
+      "i-3, ii-4, iii-1, iv-2"
+    ],
+    "explanation": "i-3, ii-4, iii-1, iv-2",
+    "explanation_en": "i-3, ii-4, iii-1, iv-2"
+  },
+  {
+    "id": 91,
+    "question": "கீழ்கண்டவற்றில் எது தவறான கூற்று?",
+    "options": [
+      "பாம்பாஸ் புல்வெளி - குட்டையான புற்கள்",
+      "சவானா புல்வெளி - மர பாசிகள்",
+      "மத்திய தரைக் காடுகள் - கருவேல மரம்",
+      "பூமத்திய ரேகை காடுகள் - ரப்பர், சீமைத்தேக்கு"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a false statement?",
+    "options_en": [
+      "Pampas Grass - short grasses",
+      "Savanna Grassland - Tree mosses",
+      "Mediterranean forests - oak tree",
+      "Equatorial forests - rubber, sedum"
+    ],
+    "explanation": "சவானா புல்வெளி - மர பாசிகள்",
+    "explanation_en": "Savanna Grassland - Tree mosses is a false statement."
+  },
+  {
+    "id": 92,
+    "question": "அர்ஜென்டினாவின் _________ பகுதியில் கோதுமை அதிக அளவில் பயிரிடப்படுகிறது",
+    "options": [
+      "பாம்பாஸ்",
+      "பிராகுவே",
+      "சிலி",
+      "மத்திய பகுதி"
+    ],
+    "correct": 0,
+    "question_en": "Wheat is grown extensively in the _________ region of Argentina",
+    "options_en": [
+      "Pampas",
+      "Prague",
+      "Chile",
+      "Central region"
+    ],
+    "explanation": "அர்ஜென்டினாவின் பாம்பாஸ் பகுதியில் கோதுமை அதிக அளவில் பயிரிடப்படுகிறது",
+    "explanation_en": "Wheat is grown extensively in the Pampas region of Argentina"
+  },
+  {
+    "id": 93,
+    "question": "உலகின் முக்கிய கோதுமை உற்பத்தி மற்றும் ஏற்றுமதியாளராக விளங்குவது ________.",
+    "options": [
+      "ஆந்திரா",
+      "ஆஸ்திரேலியா",
+      "வடஅமெரிக்கா",
+      "அர்ஜென்டினா"
+    ],
+    "correct": 3,
+    "question_en": "________ is the world's major producer and exporter of wheat.",
+    "options_en": [
+      "Andhra",
+      "Australia",
+      "North America",
+      "Argentina"
+    ],
+    "explanation": "உலகின் முக்கிய கோதுமை உற்பத்தி மற்றும் ஏற்றுமதியாளராக விளங்குவது அர்ஜென்டினா.",
+    "explanation_en": "Argentina is the world's major producer and exporter of wheat."
+  },
+  {
+    "id": 94,
+    "question": "கரும்பு பயிரை மேற்கிந்திய தீவுகளுக்கு அறிமுகப்படுத்தியவர்கள் ________.",
+    "options": [
+      "சுல்தானியர்கள்",
+      "டச்சுக்காரர்கள்",
+      "போர்ச்சுகீசியர்கள்",
+      "அரேபியர்கள்"
+    ],
+    "correct": 2,
+    "question_en": "Sugarcane was introduced to the West Indies by ________.",
+    "options_en": [
+      "Sultans",
+      "The Dutch",
+      "The Portuguese",
+      "Arabs"
+    ],
+    "explanation": "கரும்பு பயிரை மேற்கிந்திய தீவுகளுக்கு அறிமுகப்படுத்தியவர்கள் போர்ச்சுகீசியர்கள்.",
+    "explanation_en": "Sugarcane was introduced to the West Indies by The Portuguese."
+  },
+  {
+    "id": 95,
+    "question": "தென் அமெரிக்காவில் அதிகளவில் சர்க்கரை உற்பத்தி செய்யும் நாடாகத் திகழ்வது ________.",
+    "options": [
+      "டென்மார்க்",
+      "அர்ஜென்டினா",
+      "பிராகுவே",
+      "பிரேசில்"
+    ],
+    "correct": 3,
+    "question_en": "________ is the largest sugar producing country in South America.",
+    "options_en": [
+      "Denmark",
+      "Argentina",
+      "Prague",
+      "Brazil"
+    ],
+    "explanation": "தென் அமெரிக்காவில் அதிகளவில் சர்க்கரை உற்பத்தி செய்யும் நாடாகத் திகழ்வது பிரேசில்.",
+    "explanation_en": "Brazil is the largest sugar producing country in South America."
+  },
+  {
+    "id": 96,
+    "question": "மழை பெய்யும் கோடை காலமும், வெப்பக் காலநிலையும் ________ உற்பத்திக்கு ஏற்றது",
+    "options": [
+      "கரும்பு",
+      "நெல்",
+      "சோளம்",
+      "கோதுமை"
+    ],
+    "correct": 2,
+    "question_en": "Rainy summers and warm climates are ideal for ________ production",
+    "options_en": [
+      "Cane",
+      "Paddy",
+      "Corn",
+      "Wheat"
+    ],
+    "explanation": "மழை பெய்யும் கோடை காலமும், வெப்பக் காலநிலையும் சோளம் உற்பத்திக்கு ஏற்றது",
+    "explanation_en": "Rainy summers and warm climates are ideal for Corn production"
+  },
+  {
+    "id": 97,
+    "question": "சோளம் உற்பத்தி மற்றும் ஏற்றுமதியில் முதன்மை நாடாக விளங்குவது ________.",
+    "options": [
+      "அர்ஜென்டினா",
+      "பிரேசில்",
+      "இந்தியா",
+      "ரஷ்யா"
+    ],
+    "correct": 0,
+    "question_en": "________ is the leading producer and exporter of corn.",
+    "options_en": [
+      "Argentina",
+      "Brazil",
+      "India",
+      "Russia"
+    ],
+    "explanation": "சோளம் உற்பத்தி மற்றும் ஏற்றுமதியில் முதன்மை நாடாக விளங்குவது அர்ஜென்டினா.",
+    "explanation_en": "Argentina is the leading producer and exporter of corn."
+  },
+  {
+    "id": 98,
+    "question": "அதிக வெப்பநிலையும், அடிக்கடி மழைபொழிவும் தேவைப்படும் பயிர் வகை ________.",
+    "options": [
+      "பருத்தி",
+      "காப்பி மற்றும் கொக்கோ",
+      "நெல்",
+      "கோதுமை"
+    ],
+    "correct": 1,
+    "question_en": "A type of crop that requires high temperature and frequent rainfall is ________.",
+    "options_en": [
+      "Cotton",
+      "Coffee and cocoa",
+      "Paddy",
+      "Wheat"
+    ],
+    "explanation": "அதிக வெப்பநிலையும், அடிக்கடி மழைபொழிவும் தேவைப்படும் பயிர் வகை காப்பி மற்றும் கொக்கோ.",
+    "explanation_en": "A type of crop that requires high temperature and frequent rainfall is Coffee and cocoa."
+  },
+  {
+    "id": 99,
+    "question": "காப்பி மற்றும் கொக்கோ ________ மண்ணில் நன்கு விளைகின்றன",
+    "options": [
+      "செம்மண்",
+      "வண்டல்மண்",
+      "சரளை மண்",
+      "மணல்"
+    ],
+    "correct": 0,
+    "question_en": "Coffee and cocoa grow well in ________ soils",
+    "options_en": [
+      "red clay",
+      "alluvial soil",
+      "Gravel soil",
+      "Sand"
+    ],
+    "explanation": "காப்பி மற்றும் கொக்கோ செம்மண் மண்ணில் நன்கு விளைகின்றன",
+    "explanation_en": "Coffee and cocoa grow well in red clay soils"
+  },
+  {
+    "id": 100,
+    "question": "பிரேசில் ________ உற்பத்தியில் உலகில் முதலிடம் பெறுகிறது",
+    "options": [
+      "நெல்",
+      "காபி",
+      "தேயிலை",
+      "மரங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Brazil ranks first in the world in production of ________",
+    "options_en": [
+      "Paddy",
+      "Coffee",
+      "Tea",
+      "Trees"
+    ],
+    "explanation": "பிரேசில் காபி உற்பத்தியில் உலகில் முதலிடம் பெறுகிறது",
+    "explanation_en": "Brazil ranks first in the world in production of Coffee"
+  },
+  {
+    "id": 101,
+    "question": "கொக்கோ உற்பத்தியில் மூன்றாம் இடத்தை பிடிக்கும் நாடு ________.",
+    "options": [
+      "ஜெர்மனி",
+      "இத்தாலி",
+      "அர்ஜென்டினா",
+      "பிரேசில்"
+    ],
+    "correct": 3,
+    "question_en": "________ is the third largest producer of cocoa.",
+    "options_en": [
+      "Germany",
+      "Italy",
+      "Argentina",
+      "Brazil"
+    ],
+    "explanation": "கொக்கோ உற்பத்தியில் மூன்றாம் இடத்தை பிடிக்கும் நாடு பிரேசில்.",
+    "explanation_en": "Brazil is the third largest producer of cocoa."
+  },
+  {
+    "id": 102,
+    "question": "உலகின் காபி பானை என்ற சிறப்பு பெயர் பெற்ற நாடு ________.",
+    "options": [
+      "அர்ஜென்டினா",
+      "பிரேசில்",
+      "ஜெர்மனி",
+      "ரஷ்யா"
+    ],
+    "correct": 1,
+    "question_en": "________ is a country that is famously known as the coffee pot of the world.",
+    "options_en": [
+      "Argentina",
+      "Brazil",
+      "Germany",
+      "Russia"
+    ],
+    "explanation": "உலகின் காபி பானை என்ற சிறப்பு பெயர் பெற்ற நாடு பிரேசில்.",
+    "explanation_en": "Brazil is a country that is famously known as the coffee pot of the world."
+  },
+  {
+    "id": 103,
+    "question": "தென் அமெரிக்காவின் முக்கியமான பணப்பயிர் ________.",
+    "options": [
+      "கோதுமை",
+      "பருத்தி",
+      "கம்பு",
+      "நெல்"
+    ],
+    "correct": 1,
+    "question_en": "An important cash crop of South America is ________.",
+    "options_en": [
+      "Wheat",
+      "Cotton",
+      "Rye",
+      "Paddy"
+    ],
+    "explanation": "தென் அமெரிக்காவின் முக்கியமான பணப்பயிர் பருத்தி.",
+    "explanation_en": "An important cash crop of South America is Cotton."
+  },
+  {
+    "id": 104,
+    "question": "வெப்ப காலநிலையும், அதிக மழை பொழிவும் தேவைப்படும் பயிர் வகை ________.",
+    "options": [
+      "கரும்பு",
+      "சணல்",
+      "நெல்",
+      "பருத்தி"
+    ],
+    "correct": 3,
+    "question_en": "A type of crop that requires hot weather and high rainfall is ________.",
+    "options_en": [
+      "Cane",
+      "Hemp",
+      "Paddy",
+      "Cotton"
+    ],
+    "explanation": "வெப்ப காலநிலையும், அதிக மழை பொழிவும் தேவைப்படும் பயிர் வகை பருத்தி.",
+    "explanation_en": "A type of crop that requires hot weather and high rainfall is Cotton."
+  },
+  {
+    "id": 105,
+    "question": "மித வெப்ப மண்டல காலநிலைகளில் நன்கு வளரும் பயிர் எது ________.",
+    "options": [
+      "பார்லி",
+      "கம்பு",
+      "சோளம்",
+      "நெல்"
+    ],
+    "correct": 0,
+    "question_en": "Which crop grows best in subtropical climates?",
+    "options_en": [
+      "Barley",
+      "Rye",
+      "Corn",
+      "Paddy"
+    ],
+    "explanation": "மித வெப்ப மண்டல காலநிலைகளில் நன்கு வளரும் பயிர் எது பார்லி.",
+    "explanation_en": "Barley"
+  },
+  {
+    "id": 106,
+    "question": "பல்வேறு நாடுகளில் கால்நடைகளின் முக்கியமான உணவாக கருதப்படுவது ________.",
+    "options": [
+      "கம்பு",
+      "பார்லி",
+      "ஓட்ஸ்",
+      "நெல்"
+    ],
+    "correct": 2,
+    "question_en": "________ is considered as an important livestock feed in various countries.",
+    "options_en": [
+      "Rye",
+      "Barley",
+      "Oats",
+      "Paddy"
+    ],
+    "explanation": "பல்வேறு நாடுகளில் கால்நடைகளின் முக்கியமான உணவாக கருதப்படுவது ஓட்ஸ்.",
+    "explanation_en": "Oats is considered as an important livestock feed in various countries."
+  },
+  {
+    "id": 107,
+    "question": "அர்ஜென்டினாவில் இறைச்சிக்காக கால்நடைகள் வளர்க்கப்படும் இடம் ________.",
+    "options": [
+      "ஈக்வடார்",
+      "பெரு",
+      "லானோஸ்",
+      "பாம்பாஸ்"
+    ],
+    "correct": 3,
+    "question_en": "The place where cattle are raised for meat in Argentina is ________.",
+    "options_en": [
+      "Ecuador",
+      "Peru",
+      "Llanos",
+      "Pampas"
+    ],
+    "explanation": "அர்ஜென்டினாவில் இறைச்சிக்காக கால்நடைகள் வளர்க்கப்படும் இடம் பாம்பாஸ்.",
+    "explanation_en": "The place where cattle are raised for meat in Argentina is Pampas."
+  },
+  {
+    "id": 108,
+    "question": "தென் அமெரிக்காவின் ________ பகுதியில் ஆடுகள் வளர்க்கப்படுகின்றன",
+    "options": [
+      "மேடான",
+      "பள்ளமான",
+      "குழியான",
+      "வறண்ட"
+    ],
+    "correct": 3,
+    "question_en": "Goats are raised in the ________ region of South America",
+    "options_en": [
+      "plateau",
+      "grooved",
+      "Hollow",
+      "dry"
+    ],
+    "explanation": "தென் அமெரிக்காவின் வறண்ட பகுதியில் ஆடுகள் வளர்க்கப்படுகின்றன",
+    "explanation_en": "Goats are raised in the dry region of South America"
+  },
+  {
+    "id": 109,
+    "question": "கால்நடைகள் வளரும் பெரும் புல்வெளிப் பகுதி ________ என அழைக்கப்படுகிறது",
+    "options": [
+      "எஸ்டான்சியாஸ்",
+      "க்ரயல்லோ",
+      "பெரு",
+      "சமவெளி"
+    ],
+    "correct": 0,
+    "question_en": "A large grassland area where cattle grow is called ________",
+    "options_en": [
+      "Estancias",
+      "Crayon",
+      "Peru",
+      "Plains"
+    ],
+    "explanation": "கால்நடைகள் வளரும் பெரும் புல்வெளிப் பகுதி எஸ்டான்சியாஸ் என அழைக்கப்படுகிறது",
+    "explanation_en": "A large grassland area where cattle grow is called Estancias"
+  },
+  {
+    "id": 110,
+    "question": "வெப்பமண்டல மீன் வகைகளின் மிகப்பெரிய உற்பத்தியாளராக விளங்குவது ________.",
+    "options": [
+      "சிலி",
+      "பிரேசில்",
+      "அர்ஜென்டினா",
+      "பெரு"
+    ],
+    "correct": 3,
+    "question_en": "The largest producer of tropical fish species is ________.",
+    "options_en": [
+      "Chile",
+      "Brazil",
+      "Argentina",
+      "Peru"
+    ],
+    "explanation": "வெப்பமண்டல மீன் வகைகளின் மிகப்பெரிய உற்பத்தியாளராக விளங்குவது பெரு.",
+    "explanation_en": "The largest producer of tropical fish species is Peru."
+  },
+  {
+    "id": 111,
+    "question": "மீன்பிடி துறைமுகங்களில் மிகவும் முக்கியமானது ________.",
+    "options": [
+      "பிரேசில்",
+      "பைட்டா கலோலோ",
+      "அர்ஜென்டினா",
+      "டிசம்பர்"
+    ],
+    "correct": 1,
+    "question_en": "The most important of fishing ports is ________.",
+    "options_en": [
+      "Brazil",
+      "Pytha Kalolo",
+      "Argentina",
+      "December"
+    ],
+    "explanation": "மீன்பிடி துறைமுகங்களில் மிகவும் முக்கியமானது பைட்டா கலோலோ.",
+    "explanation_en": "The most important of fishing ports is Pytha Kalolo."
+  },
+  {
+    "id": 112,
+    "question": "பல வகையான மீன்களின் மிகப்பெரிய அருங்காட்சியகம் எது ________.",
+    "options": [
+      "அமேசான்",
+      "பெரு",
+      "சிலி",
+      "அர்ஜென்டினா"
+    ],
+    "correct": 0,
+    "question_en": "Which is the largest museum of many species of fish ________.",
+    "options_en": [
+      "Amazon",
+      "Peru",
+      "Chile",
+      "Argentina"
+    ],
+    "explanation": "பல வகையான மீன்களின் மிகப்பெரிய அருங்காட்சியகம் எது அமேசான்.",
+    "explanation_en": "Which is the largest museum of many species of fish Amazon."
+  },
+  {
+    "id": 113,
+    "question": "உலகின் சோடியம் நைட்ரேட் படிவுகள் கிடைக்கும் ஒரே இடம் ________.",
+    "options": [
+      "தென் அமெரிக்கா",
+      "வட அமெரிக்கா",
+      "சீனா",
+      "ரஷ்யா"
+    ],
+    "correct": 0,
+    "question_en": "The only place in the world where sodium nitrate deposits are found is ________.",
+    "options_en": [
+      "South America",
+      "North America",
+      "China",
+      "Russia"
+    ],
+    "explanation": "உலகின் சோடியம் நைட்ரேட் படிவுகள் கிடைக்கும் ஒரே இடம் தென் அமெரிக்கா.",
+    "explanation_en": "The only place in the world where sodium nitrate deposits are found is South America."
+  },
+  {
+    "id": 114,
+    "question": "உலகின் இரும்புதாது ஏற்றுமதியில் ________ சதவீதம் பிரேசில் கொண்டுள்ளது",
+    "options": [
+      "10%",
+      "25%",
+      "5%",
+      "15%"
+    ],
+    "correct": 3,
+    "question_en": "Brazil accounts for ________ percent of the world's iron ore exports",
+    "options_en": [
+      "10%",
+      "25%",
+      "5%",
+      "15%"
+    ],
+    "explanation": "உலகின் இரும்புதாது ஏற்றுமதியில் 15% சதவீதம் பிரேசில் கொண்டுள்ளது",
+    "explanation_en": "Brazil accounts for 15% percent of the world's iron ore exports"
+  },
+  {
+    "id": 115,
+    "question": "உலகின் மிகப்பெரிய எண்ணெய் உற்பத்தி செய்யும் நாடு _______",
+    "options": [
+      "பிரேசில்",
+      "வெனிசுலா",
+      "ஜெர்மன்",
+      "அமெரிக்கா"
+    ],
+    "correct": 1,
+    "question_en": "The world's largest oil producing country is _______",
+    "options_en": [
+      "Brazil",
+      "Venezuela",
+      "German",
+      "America"
+    ],
+    "explanation": "உலகின் மிகப்பெரிய எண்ணெய் உற்பத்தி செய்யும் நாடு வெனிசுலா",
+    "explanation_en": "The world's largest oil producing country is Venezuela"
+  },
+  {
+    "id": 116,
+    "question": "தாமிரம் உற்பத்தியில் சிலி - யின் இடம் ________.",
+    "options": [
+      "முதல்",
+      "மூன்று",
+      "இரண்டு",
+      "10 வது"
+    ],
+    "correct": 2,
+    "question_en": "Chile's position in copper production is ________.",
+    "options_en": [
+      "First",
+      "Three",
+      "Two",
+      "10th"
+    ],
+    "explanation": "தாமிரம் உற்பத்தியில் சிலி - யின் இடம் இரண்டு.",
+    "explanation_en": "Chile's position in copper production is Two."
+  },
+  {
+    "id": 117,
+    "question": "சிலி நாட்டில் உற்பத்தியாகும் தாமிரத்தின் சதவீதம் ________.",
+    "options": [
+      "10%",
+      "20%",
+      "40%",
+      "30%"
+    ],
+    "correct": 1,
+    "question_en": "The percentage of copper produced in Chile is ________.",
+    "options_en": [
+      "10%",
+      "20%",
+      "40%",
+      "30%"
+    ],
+    "explanation": "சிலி நாட்டில் உற்பத்தியாகும் தாமிரத்தின் சதவீதம் 20%.",
+    "explanation_en": "The percentage of copper produced in Chile is 20%."
+  },
+  {
+    "id": 118,
+    "question": "பாக்சைட் உற்பத்தியில் மூன்றாவது இடம் வகிக்கும் நாடு ________.",
+    "options": [
+      "பிரேசில்",
+      "வெனிசுலா",
+      "அர்ஜென்டினா",
+      "ஜெர்மனி"
+    ],
+    "correct": 0,
+    "question_en": "________ is the third largest producer of bauxite.",
+    "options_en": [
+      "Brazil",
+      "Venezuela",
+      "Argentina",
+      "Germany"
+    ],
+    "explanation": "பாக்சைட் உற்பத்தியில் மூன்றாவது இடம் வகிக்கும் நாடு பிரேசில்.",
+    "explanation_en": "Brazil is the third largest producer of bauxite."
+  },
+  {
+    "id": 119,
+    "question": "உலகின் முக்கியமான பாக்சைட் சுரங்கம் ________ நதியில் அமைந்துள்ளது",
+    "options": [
+      "அமேசான்",
+      "பள்ளத்தாக்கு",
+      "வெனிசுலா",
+      "அர்ஜென்டினா"
+    ],
+    "correct": 0,
+    "question_en": "The world's most important bauxite mine is located on the ________ river",
+    "options_en": [
+      "Amazon",
+      "Valley",
+      "Venezuela",
+      "Argentina"
+    ],
+    "explanation": "உலகின் முக்கியமான பாக்சைட் சுரங்கம் அமேசான் நதியில் அமைந்துள்ளது",
+    "explanation_en": "The world's most important bauxite mine is located on the Amazon river"
+  },
+  {
+    "id": 120,
+    "question": "அலுமினியம் உற்பத்திக்கு மூலப்பொருளாக விளங்குவது ________.",
+    "options": [
+      "இரும்பு",
+      "தாமிரம்",
+      "வெள்ளி",
+      "பாக்சைட்"
+    ],
+    "correct": 3,
+    "question_en": "The raw material for aluminum production is ________.",
+    "options_en": [
+      "Iron",
+      "Copper",
+      "Friday",
+      "Bauxite"
+    ],
+    "explanation": "அலுமினியம் உற்பத்திக்கு மூலப்பொருளாக விளங்குவது பாக்சைட்.",
+    "explanation_en": "The raw material for aluminum production is Bauxite."
+  },
+  {
+    "id": 121,
+    "question": "பொருத்துக\ni. பிரேசில் - a. கம்பளி ஆடைகள்\nii. சிலி - b. ரசாயன உரம்\niii. பெரு - c. தாமிரம் உருக்குதல்\niv. வெனிசுலா - d. பருத்தி ஆடை",
+    "options": [
+      "i-d, ii-c, iii-a, iv-b",
+      "i-d, ii-a, iii-c, iv-b",
+      "i-c, ii-d, iii-b, iv-a",
+      "i-b, ii-d, iii-a, iv-c"
+    ],
+    "correct": 2,
+    "question_en": "match\ni. Brazil - a. Woolen clothes\nii. Chile - b. Chemical fertilizer\niii. Peru - c. Copper smelting\niv. Venezuela - d. Cotton clothing",
+    "options_en": [
+      "i-d, ii-c, iii-a, iv-b",
+      "i-d, ii-a, iii-c, iv-b",
+      "i-c, ii-d, iii-b, iv-a",
+      "i-b, ii-d, iii-a, iv-c"
+    ],
+    "explanation": "i-c, ii-d, iii-b, iv-a",
+    "explanation_en": "i-c, ii-d, iii-b, iv-a"
+  },
+  {
+    "id": 122,
+    "question": "தென் அமெரிக்காவின் பெரும்பாலான மக்கள் ________ நூற்றாண்டில் வருகை புரிந்தனர்",
+    "options": [
+      "10 ஆவது",
+      "15 ஆவது",
+      "18 ஆவது",
+      "11 ஆவது"
+    ],
+    "correct": 1,
+    "question_en": "Most people from South America arrived in the ________ century",
+    "options_en": [
+      "10th",
+      "15th",
+      "18th",
+      "11th"
+    ],
+    "explanation": "தென் அமெரிக்காவின் பெரும்பாலான மக்கள் 15 ஆவது நூற்றாண்டில் வருகை புரிந்தனர்",
+    "explanation_en": "Most people from South America arrived in the 15th century"
+  },
+  {
+    "id": 123,
+    "question": "பூர்வகுடி மக்கள் மற்றும் ஐரோப்பியர்களின் கலப்பினம் ________ என அழைக்கப்படுகிறது",
+    "options": [
+      "மெஸ்டிஜோ",
+      "முலாடோ",
+      "ஸ்பெயினர்",
+      "ரியோ"
+    ],
+    "correct": 0,
+    "question_en": "The interbreeding of indigenous peoples and Europeans is known as ________",
+    "options_en": [
+      "Mestizo",
+      "Mulato",
+      "Spaniard",
+      "Rio"
+    ],
+    "explanation": "பூர்வகுடி மக்கள் மற்றும் ஐரோப்பியர்களின் கலப்பினம் மெஸ்டிஜோ என அழைக்கப்படுகிறது",
+    "explanation_en": "The interbreeding of indigenous peoples and Europeans is known as Mestizo"
+  },
+  {
+    "id": 124,
+    "question": "ஐரோப்பியர் மற்றும் கருப்பர்களின் கலப்பினம் ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "மெஸ்டிஜோ",
+      "முலாடோ",
+      "ஸ்பெனிஷ்",
+      "ரியோ"
+    ],
+    "correct": 1,
+    "question_en": "The hybridization of Europeans and blacks is called ________.",
+    "options_en": [
+      "Mestizo",
+      "Mulato",
+      "Spanish",
+      "Rio"
+    ],
+    "explanation": "ஐரோப்பியர் மற்றும் கருப்பர்களின் கலப்பினம் முலாடோ என அழைக்கப்படுகிறது.",
+    "explanation_en": "The hybridization of Europeans and blacks is called Mulato."
+  },
+  {
+    "id": 125,
+    "question": "தென் அமெரிக்காவின் தற்போதைய மக்கள் தொகை ________.",
+    "options": [
+      "42.1 கோடி",
+      "42.16 கோடி",
+      "42.91 கோடி",
+      "42.90 கோடி"
+    ],
+    "correct": 2,
+    "question_en": "The current population of South America is ________.",
+    "options_en": [
+      "42.1 crore",
+      "42.16 crores",
+      "42.91 crore",
+      "42.90 crores"
+    ],
+    "explanation": "தென் அமெரிக்காவின் தற்போதைய மக்கள் தொகை 42.91 கோடி.",
+    "explanation_en": "The current population of South America is 42.91 crore."
+  },
+  {
+    "id": 126,
+    "question": "உலகின் மக்கள் தொகையில் தென் அமெரிக்காவின் இடம் ________.",
+    "options": [
+      "2 ஆவது",
+      "4 ஆவது",
+      "3 ஆவது",
+      "5 ஆவது"
+    ],
+    "correct": 3,
+    "question_en": "South America's place in world population is ________.",
+    "options_en": [
+      "2nd",
+      "4th",
+      "3rd",
+      "5th"
+    ],
+    "explanation": "உலகின் மக்கள் தொகையில் தென் அமெரிக்காவின் இடம் 5 ஆவது.",
+    "explanation_en": "South America's place in world population is 5th."
+  },
+  {
+    "id": 127,
+    "question": "தென் அமெரிக்காவின் பிரதான சமயம் எது ________.",
+    "options": [
+      "இந்து",
+      "கிறிஸ்துவம்",
+      "முஸ்லிம்",
+      "உருது"
+    ],
+    "correct": 1,
+    "question_en": "What is the main religion of South America?",
+    "options_en": [
+      "Hindu",
+      "Christianity",
+      "Muslim",
+      "Urdu"
+    ],
+    "explanation": "தென் அமெரிக்காவின் பிரதான சமயம் எது கிறிஸ்துவம்.",
+    "explanation_en": "Christianity is the main religion of South America."
+  },
+  {
+    "id": 128,
+    "question": "தென் அமெரிக்காவின் மிகச்சிறிய நாடு ________.",
+    "options": [
+      "சிலி",
+      "கொலம்பியா",
+      "ஈக்வடார்",
+      "சுரிநாம்"
+    ],
+    "correct": 3,
+    "question_en": "The smallest country in South America is ________.",
+    "options_en": [
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Surinam"
+    ],
+    "explanation": "தென் அமெரிக்காவின் மிகச்சிறிய நாடு சுரிநாம்.",
+    "explanation_en": "The smallest country in South America is Surinam."
+  },
+  {
+    "id": 129,
+    "question": "தென் அமெரிக்காவின் மிகப்பெரிய ஏரி ________.",
+    "options": [
+      "மராகாய்போ",
+      "மெடிரா",
+      "பரானா",
+      "அமேசான்"
+    ],
+    "correct": 0,
+    "question_en": "The largest lake in South America is ________.",
+    "options_en": [
+      "Maracaibo",
+      "Madeira",
+      "Parana",
+      "Amazon"
+    ],
+    "explanation": "தென் அமெரிக்காவின் மிகப்பெரிய ஏரி மராகாய்போ.",
+    "explanation_en": "The largest lake in South America is Maracaibo."
+  },
+  {
+    "id": 130,
+    "question": "தென் அமெரிக்காவின் முக்கிய பாலைவனம் ________.",
+    "options": [
+      "கிரேட் பேசின்",
+      "மோஜாவே",
+      "படகானியா",
+      "சொனோரான்"
+    ],
+    "correct": 2,
+    "question_en": "The major desert in South America is ________.",
+    "options_en": [
+      "Great Basin",
+      "Mojave",
+      "Patagonia",
+      "Sonoran"
+    ],
+    "explanation": "தென் அமெரிக்காவின் முக்கிய பாலைவனம் படகானியா.",
+    "explanation_en": "The major desert in South America is Patagonia."
+  }
+]

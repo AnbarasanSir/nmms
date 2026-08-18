@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "ஒரு பேருந்துக்கு முன்னால் 4 பேருந்துகள் உள்ளன. ஒரு பேருந்துக்குப் பின்னால் 4 பேருந்துகள் உள்ளன. ஒரு பேருந்து நடுவில் உள்ளது. எனில் மொத்த பேருந்துகள் எத்தனை?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "ஒரு வரிசையில் 5 பேருந்துகள் இருந்தால், கடைசிப் பேருந்துக்கு முன் 4 இருக்கும், முதல் பேருந்துக்குப் பின் 4 இருக்கும், நடுவிலும் ஒரு பேருந்து இருக்கும்.",
+    "question_en": "There are 4 buses in front of one bus. There are 4 buses behind one bus. A bus is in the middle. How many buses in total?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation_en": "If there are 5 buses in a row, there will be 4 before the last bus, 4 after the first bus and one bus in the middle."
+  },
+  {
+    "id": 2,
+    "question": "ஒரு சாலையில் மகிழுந்தும், மிதிவண்டியும் செல்கின்றன. அவற்றின் மொத்த எண்ணிக்கை 50 வருகிறது. மகிழுந்து மற்றும் மிதிவண்டி சக்கரங்களின் எண்ணிக்கை 164 எனில் எத்தனை மிதிவண்டிகள் உள்ளன.",
+    "options": [
+      "20",
+      "24",
+      "18",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "மகிழுந்து(x), மிதிவண்டி(y). x+y = 50. 4x+2y = 164. $4x+2(50-x) = 164 \\Rightarrow 2x+100 = 164 \\Rightarrow 2x = 64 \\Rightarrow x = 32$. எனவே மிதிவண்டிகள் $y = 50-32 = 18$.",
+    "question_en": "Enjoying and cycling on a road. Their total number comes to 50. How many bicycles are there if the number of wheels is 164?",
+    "options_en": [
+      "20",
+      "24",
+      "18",
+      "16"
+    ],
+    "explanation_en": "Enjoy(x), bicycle(y). x+y = 50. 4x+2y = 164. $4x+2(50-x) = 164 \\Rightarrow 2x+100 = 164 \\Rightarrow 2x = 64 \\Rightarrow x = 32$. So bicycles $y = 50-32 = 18$."
+  },
+  {
+    "id": 3,
+    "question": "சாரணிய கேப்டன்கள் மற்றும் சாரணியர்கள் உள்ளடங்கிய 1200 பேர் கொண்ட குழு பேரிடர் மீட்பிற்காக தொடர் வண்டியில் செல்கின்றனர். ஒவ்வொரு 19 சாரணியர்களுக்கும் ஒரு சாரணிய கேப்டன் உள்ளனர். எனில் அத்தொடர்வண்டியில் பயணம் செய்யும் சாரணிய கேப்டன்கள் எண்ணிக்கை என்ன?",
+    "options": [
+      "50",
+      "55",
+      "75",
+      "60"
+    ],
+    "correct": 3,
+    "explanation": "ஒரு குழு = 19 சாரணியர்கள் + 1 கேப்டன் = 20 பேர். 1200 பேரில் உள்ள குழுக்கள் = 1200 / 20 = 60. எனவே 60 கேப்டன்கள்.",
+    "question_en": "A team of 1200 including scout captains and scouts are going by train for disaster relief. There is a Scout Captain for every 19 Scouts. So what is the number of scout captains traveling in that train?",
+    "options_en": [
+      "50",
+      "55",
+      "75",
+      "60"
+    ],
+    "explanation_en": "A group = 19 scouts + 1 captain = 20 people. Groups of 1200 = 1200 / 20 = 60. So 60 captains."
+  },
+  {
+    "id": 4,
+    "question": "பிரியா என்ற அரசுப்பள்ளி மாணவி முதல் நாள் ஆலயத்தில் இறைவனுக்கு ஒரு ரோஜாப்பூ படைக்கின்றாள். இரண்டாம் நாள் மூன்று மடங்கு ரோஜாப்பூக்களைப் படைக்கின்றாள், எனில் ஐந்தாம் நாள் இறுதியில் இறைவனுக்கு எத்தனை பூக்களைப் படைத்திருப்பாள்?",
+    "options": [
+      "32",
+      "81",
+      "15",
+      "82"
+    ],
+    "correct": 1,
+    "explanation": "நாள் 1: 1, நாள் 2: 3, நாள் 3: 9, நாள் 4: 27, நாள் 5: $27 \\times 3 = 81$. (விடை 5-ஆம் நாள் படைக்கும் பூக்களின் எண்ணிக்கை என புத்தகத்தில் தரப்பட்டுள்ளது).",
+    "question_en": "A government school student named Priya offers a rose to the Lord on her first day at the temple. On the second day she creates three times as many roses, how many flowers will she have created for the Lord at the end of the fifth day?",
+    "options_en": [
+      "32",
+      "81",
+      "15",
+      "82"
+    ],
+    "explanation_en": "Day 1: 1, Day 2: 3, Day 3: 9, Day 4: 27, Day 5: $27 \\times 3 = 81$. (The answer is given in the book as the number of flowers produced on the 5th day)."
+  },
+  {
+    "id": 5,
+    "question": "இராமேஸ்வரத்திலிருந்து சென்னை செல்லும் சேது விரைவு தொடர் வண்டியில் 24 பெட்டிகள் இணைக்கப்பட்டுள்ளன. ஒவ்வொரு பெட்டியிலும் 90 இருக்கைகள் உள்ளன. இதில் இராமேஸ்வரத்திலிருந்து புறப்படும் போது 50% இருக்கைகள் நிரம்பி விட்டன. தொடர் வண்டி இராமநாதபுரம் வரும்பொழுது 10% பயணிகளும் திருச்சிராப்பள்ளியில் 7% பயணிகளும் விழுப்புரத்தில் 8% பயணிகளும் வண்டியில் ஏறுகின்றனர். விரைவு வண்டி சென்னை வரும்பொழுது தொடர்வண்டியில் இருக்கும் பயணிகளின் எண்ணிக்கை எத்தனை?",
+    "options": [
+      "2100",
+      "1620",
+      "1720",
+      "1800"
+    ],
+    "correct": 1,
+    "explanation": "மொத்த இருக்கைகள் = $24 \\times 90 = 2160$. நிரம்பிய சதவீதம் = 50% + 10% + 7% + 8% = 75%. பயணிகளின் எண்ணிக்கை = $2160 \\times 75/100 = 1620$.",
+    "question_en": "Rameswaram to Chennai Sethu Express has 24 coaches attached. Each compartment has 90 seats. Out of which 50% of the seats are full at the time of departure from Rameswaram. When the train arrives at Ramanathapuram, 10% passengers board the train, 7% passengers at Tiruchirappalli and 8% passengers at Villupuram. How many passengers are there in the express train when it reaches Chennai?",
+    "options_en": [
+      "2100",
+      "1620",
+      "1720",
+      "1800"
+    ],
+    "explanation_en": "Total seats = $24 \\times 90 = 2160$. Percent filled = 50% + 10% + 7% + 8% = 75%. Number of passengers = $2160 \\times 75/100 = 1620$."
+  },
+  {
+    "id": 6,
+    "question": "கபீர் என்பவருக்கு 4 மகள்கள் உள்ளனர். ஒவ்வொரு மகளுக்கும் ஒரு சகோதரர் உள்ளார். எனில் கபீருக்கு குறைந்தபட்சம் எத்தனை குழந்தைகள் உள்ளனர்.?",
+    "options": [
+      "8",
+      "4",
+      "5",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "4 மகள்களுக்கும் பொதுவாக ஒரு சகோதரன் இருந்தால் போதுமானது. எனவே $4+1 = 5$ குழந்தைகள்.",
+    "question_en": "Kabir has 4 daughters. Every daughter has a brother. So Kabir has at least how many children.?",
+    "options_en": [
+      "8",
+      "4",
+      "5",
+      "9"
+    ],
+    "explanation_en": "A brother is usually enough for all 4 daughters. So $4+1 = 5$ children."
+  },
+  {
+    "id": 7,
+    "question": "ஒரு கோபுரத்தில் உள்ள நான்கு மணிகள் முறையே 5, 7, 3 மற்றும் 12 வினாடிகள் இடைவெளியில் அடிக்கின்றன. அனைத்து மணிகளும் 5 a.m க்கு ஒன்றாக அடித்தன என்றால், அனைத்து மணிகளும் அடுத்து ஒன்றாக அடிக்கும் நேரம் :",
+    "options": [
+      "5.10 am",
+      "5.15 am",
+      "5.07 am",
+      "5.08 am"
+    ],
+    "correct": 2,
+    "explanation": "5, 7, 3, 12 ஆகியவற்றின் மீ.சி.ம = 420 வினாடிகள் = 7 நிமிடங்கள். எனவே அடுத்து 5.07 am க்கு ஒன்றாக அடிக்கும்.",
+    "question_en": "Four bells in a tower strike at intervals of 5, 7, 3 and 12 seconds respectively. If all the bells strike together at 5 a.m., then the next time all the bells strike together is :",
+    "options_en": [
+      "5.10 am",
+      "5.15 am",
+      "5.07 am",
+      "5.08 am"
+    ],
+    "explanation_en": "mcm of 5, 7, 3, 12 = 420 seconds = 7 minutes. So the next one will strike at 5.07 am."
+  },
+  {
+    "id": 8,
+    "question": "ஒரு வேலையாள் நாள் ஒன்றிற்கு ரூ.100 வீதம் சம்பளம் பெறுகிறார். அவர் வேலைக்கு வராமல் உள்ள நாள் ஒன்றிற்கு ரூ.50 வீதம் பிடித்தம் செய்யப்படுகிறது. அவர் 30 நாட்கள் கொண்ட மாதத்தில் ரூ.2400 சம்பளம் பெற்றார். எனில் எத்தனை நாள்கள் அவர் வேலைக்கு வராமல் இருந்திருப்பார்?",
+    "options": [
+      "12",
+      "8",
+      "6",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "30 நாளும் வந்திருந்தால் ரூ.3000. ஆனால் ரூ.2400 பெற்றதால் இழப்பு ரூ.600. (புத்தகத்தின்படி $600 / 50 = 12$ நாட்கள் என கணக்கிடப்பட்டுள்ளது. எனினும் உண்மையான இழப்பு ஒரு நாளுக்கு ரூ.150 ஆகும். ஆனால் விடைக் குறிப்பு 12 என உள்ளது).",
+    "question_en": "A worker earns Rs.100 per day. A deduction of Rs.50 per day of absence is made. He earned Rs.2400 in a month of 30 days. If so how many days would he have been absent from work?",
+    "options_en": [
+      "12",
+      "8",
+      "6",
+      "4"
+    ],
+    "explanation_en": "Rs. 3000 if it has arrived after 30 days. But having received Rs.2400 the loss is Rs.600. (According to the book it is calculated as $600 / 50 = 12$ days. However the actual loss is Rs.150 per day. But the answer note is 12)."
+  },
+  {
+    "id": 9,
+    "question": "ஒரு குழுவில் உள்ள ஒவ்வொரு உறுப்பினருக்கும் ஆறு ஆப்பிள்கள் பகிர்ந்து அளிக்கப்படும் போது ஒரு ஆப்பிள் மீதமுள்ளது. குழுவில் உள்ள ஒவ்வொருவருக்கும் 7ஆப்பிள்களை கொடுக்கும்போது, ஒருவருக்கு மட்டும் ஏதும் கிடைக்கவில்லை. எனில், அக்குழுவில் உள்ள உறுப்பினர்களின் எண்ணிக்கை?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "உறுப்பினர்கள் N எனில்: $6N + 1 = 7(N - 1) \\Rightarrow 6N + 1 = 7N - 7 \\Rightarrow N = 8$.",
+    "question_en": "When each member of a group shares six apples, one apple is left over. When each person in the group is given 7 apples, only one gets none. If so, the number of members in the group?",
+    "options_en": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "explanation_en": "If the members are N: $6N + 1 = 7(N - 1) \\Rightarrow 6N + 1 = 7N - 7 \\Rightarrow N = 8$."
+  },
+  {
+    "id": 10,
+    "question": "ஒரு சுற்றுலாவில், மாணவர்கள் தங்களுடைய புகைப்படங்களை ஒருவருக்கொருவர் மாற்றிக் கொள்கின்றனர். அங்கு 45 புகைப்படங்கள் பரிமாறிக் கொள்ளப்பட்டால், எத்தனை மாணவர்கள் அங்கு இருந்திருப்பார்?",
+    "options": [
+      "15",
+      "20",
+      "9",
+      "25"
+    ],
+    "correct": 2,
+    "explanation": "(குறிப்பு: இருவர் கைகுலுக்கும் $n(n-1)/2$ சூத்திரத்தை புகைப்படப் பரிமாற்றத்திற்கும் பயன்படுத்தி, $n(n-1)/2 = 45$ எனில் $n \\approx 10$ வரும். ஆனால் புத்தகத்தில் $n(n+1)/2$ என தவறாகக் கொண்டு 9 என விடையளிக்கப்பட்டுள்ளது).",
+    "question_en": "At a picnic, students exchange their photos with each other. If there were 45 photographs exchanged, how many students would have been there?",
+    "options_en": [
+      "15",
+      "20",
+      "9",
+      "25"
+    ],
+    "explanation_en": "(Note: Using the formula $n(n-1)/2$ for two handshakes and photo exchange, $n(n-1)/2 = 45$ gives $n \\approx 10$. But in the book, $n(n+1)/2$ is wrongly answered as 9)."
+  },
+  {
+    "id": 11,
+    "question": "ABCD என்ற செவ்வகத்தில் O என்பது ஒரு புள்ளி ஆகும். இப்புள்ளியிலிருந்து செங்குத்து OP, OQ, OR மற்றும் OS ஆகியவை செவ்வகத்தின் பக்கங்களிலிருந்து வரையப்படுகின்றன. OP, OQ, OR மற்றும் OS முறையே 8 செமீ, 12 செமீ, 6 செமீ மற்றும் 10 செமீ ஆக இருந்தால், செவ்வகத்தின் சுற்றளவு என்ன?",
+    "options": [
+      "48 செமீ",
+      "60 செமீ",
+      "72 செமீ",
+      "264 செமீ"
+    ],
+    "correct": 2,
+    "explanation": "நீளம் = 10+12 = 22, அகலம் = 6+8 = 14. சுற்றளவு = $2(22+14) = 72$ செமீ.",
+    "question_en": "O is a point in rectangle ABCD. From this point perpendiculars OP, OQ, OR and OS are drawn from the sides of the rectangle. If OP, OQ, OR and OS are 8 cm, 12 cm, 6 cm and 10 cm respectively, what is the perimeter of the rectangle?",
+    "options_en": [
+      "48 cm",
+      "60 cm",
+      "72 cm",
+      "264 cm"
+    ],
+    "explanation_en": "Length = 10+12 = 22, Breadth = 6+8 = 14. Circumference = $2(22+14) = 72$ cm."
+  },
+  {
+    "id": 12,
+    "question": "ஒரு குரங்கு 30மீட்டர் உயரமுள்ள கம்பத்தின் உச்சியில் ஏறுகின்றது. ஒவ்வொரு 4மீட்டர் ஏறும்போதும், 2 மீட்டர் சறுக்குகிறது. அது கம்பத்தின் உச்சியை அடைய எத்தனை முறை ஏறும்?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "உச்சியைத் தொட்டுவிட்டால் சறுக்காது. எனவே $(30 - 4) / (4 - 2) + 1 = 26/2 + 1 = 13 + 1 = 14$ முறை.",
+    "question_en": "A monkey climbs to the top of a 30m high pole. For every 4 meters of climbing, 2 meters of sliding. How many times will it climb to reach the top of the pole?",
+    "options_en": [
+      "14",
+      "15",
+      "16",
+      "18"
+    ],
+    "explanation_en": "If it touches the top it will not slide. So $(30 - 4) / (4 - 2) + 1 = 26/2 + 1 = 13 + 1 = 14$ times."
+  },
+  {
+    "id": 13,
+    "question": "கீழே கொடுக்கப்பட்டுள்ள பெருக்கல் கணக்கில் ‘C’-ன் மதிப்பு என்ன?\n5 C 7\n$\\times$ 2 A\n-------\n1 7 9 B\n1 1 9 4\n-------\n1 3 D 3 1",
+    "options": [
+      "8",
+      "3",
+      "7",
+      "9"
+    ],
+    "correct": 3,
+    "explanation": "$2 \\times 5C7 = 1194 \\Rightarrow 5C7 = 1194 / 2 = 597$. எனவே C = 9.",
+    "question_en": "What is the value of 'C' in the multiplication given below?\n5 C 7\n$\\times$ 2 A\n-------\n1 7 9 B\n1 1 9 4\n-------\n1 3 D 3 1",
+    "options_en": [
+      "8",
+      "3",
+      "7",
+      "9"
+    ],
+    "explanation_en": "$2 \\times 5C7 = 1194 \\Rightarrow 5C7 = 1194 / 2 = 597$. Hence C = 9."
+  },
+  {
+    "id": 14,
+    "question": "இரு எண்கள் உள்ளன. அவற்றுள் பெரிய எண் 9568. அவ்விரு எண்களுக்கிடையேயான வேறுபாடு 145. எனில், மற்றொரு எண் என்ன?",
+    "options": [
+      "9413",
+      "9421",
+      "9423",
+      "9123"
+    ],
+    "correct": 2,
+    "explanation": "சிறிய எண் = பெரிய எண் - வேறுபாடு = 9568 - 145 = 9423.",
+    "question_en": "There are two numbers. The larger number among them is 9568. The difference between the two numbers is 145. If so, what is the other number?",
+    "options_en": [
+      "9413",
+      "9421",
+      "9423",
+      "9123"
+    ],
+    "explanation_en": "Smaller number = Larger number - Difference = 9568 - 145 = 9423."
+  },
+  {
+    "id": 15,
+    "question": "மூன்று கோபுரங்களின் உயரங்களின் விகிதம் 3:5:7. ஒரு சிலந்தியானது 15 நிமிடங்களில் சிறிய கோபுரத்தின் உச்சியை அடைந்தால், பெரிய கோபுரத்தில் ஏற எவ்வளவு நேரம் எடுத்துக் கொள்ளும்?",
+    "options": [
+      "25 நிமிடங்கள்",
+      "30 நிமிடங்கள்",
+      "35 நிமிடங்கள்",
+      "45 நிமிடங்கள்"
+    ],
+    "correct": 2,
+    "explanation": "3 மடங்கு = 15 நிமிடம், எனவே 1 மடங்கு = 5 நிமிடம். பெரிய கோபுரம் (7 மடங்கு) = $7 \\times 5 = 35$ நிமிடங்கள்.",
+    "question_en": "The ratio of the heights of the three towers is 3:5:7. If a spider reaches the top of the smaller tower in 15 minutes, how long will it take to climb the larger tower?",
+    "options_en": [
+      "25 minutes",
+      "30 minutes",
+      "35 minutes",
+      "45 minutes"
+    ],
+    "explanation_en": "3 times = 15 min, so 1 time = 5 min. Big tower (7 times) = $7 \\times 5 = 35$ minutes."
+  },
+  {
+    "id": 16,
+    "question": "‘REGIONAL’ என்ற ஆங்கில வார்த்தையானது அகரவரிசைப்படி எழுதப்பட்டால், எத்தனை எழுத்துக்கள் தங்களின் நிலையை (Position) தக்க வைத்துக் கொள்ளும்?",
+    "options": [
+      "மூன்று",
+      "இரண்டு",
+      "நான்கு",
+      "ஒன்று"
+    ],
+    "correct": 2,
+    "explanation": "R E G I O N A L என்ற சொல்லை அகர வரிசைப்படி எழுதினால் A E G I L N O R என வரும். இதில் E, G, I, N ஆகிய 4 எழுத்துகள் அதே இடத்தில் இருக்கும்.",
+    "question_en": "If the English word 'REGIONAL' is written alphabetically, how many letters will retain their position?",
+    "options_en": [
+      "Three",
+      "Two",
+      "Four",
+      "One"
+    ],
+    "explanation_en": "If the word R E G I O N A L is spelled alphabetically it will be A E G I L N O R. In which 4 letters E, G, I, N are present in the same place."
+  },
+  {
+    "id": 17,
+    "question": "“UNIFORMITY”என்ற வார்த்தையில் முதல் மற்றும் ஆறாவது எழுத்தை இடம் மாற்றியும், இதேபோன்று இரண்டாவது மற்றும் ஏழாவது எழுத்தை இடம் மாற்றியமைத்தபின் வலது புற முனையில் இருந்து 4 வதாக அமையும் எழுத்து எது?",
+    "options": [
+      "I",
+      "U",
+      "N",
+      "M"
+    ],
+    "correct": 2,
+    "explanation": "UNIFO / RMITY ஐ மாற்றினால் RMITY / UNIFO என மாறும். இதில் வலமிருந்து 4-வது எழுத்து N.",
+    "question_en": "Which letter of the word “UNIFORMITY” is the 4th from the right-hand end after interchanging the first and sixth letters and similarly interchanging the second and seventh letters?",
+    "options_en": [
+      "I",
+      "U",
+      "N",
+      "M"
+    ],
+    "explanation_en": "Change UNIFO / RMITY to RMITY / UNIFO. The 4th letter from the right is N."
+  },
+  {
+    "id": 18,
+    "question": "A fan always has _________",
+    "options": [
+      "switch",
+      "current",
+      "roire (wire)",
+      "blades"
+    ],
+    "correct": 3,
+    "explanation": "மின்விசிறியில் எப்போதும் பிளேடுகள் (blades) இருக்கும்.",
+    "question_en": "A fan always has _________",
+    "options_en": [
+      "switch",
+      "current",
+      "roire (wire)",
+      "blades"
+    ],
+    "explanation_en": "A fan always has blades."
+  },
+  {
+    "id": 19,
+    "question": "1 முதல் 50 வரையிலான எண்களில் 4 ஆல் மீதியின்றி வகுபடக்கூடியதாகவும், 4 என்ற எண்ணை ஓர் எண்ணாகக் கொண்டும் உள்ள எண்கள் எத்தனை?",
+    "options": [
+      "7",
+      "10",
+      "20",
+      "21"
+    ],
+    "correct": 0,
+    "explanation": "(புத்தக விடைக் குறிப்பின்படி 1 முதல் 100 வரையிலான எண்களில் 7 எண்கள் உள்ளன (4, 24, 40, 44, 48, 64, 84). ஆனால் கேள்வி 1 முதல் 50 என்பதால் 5 எண்களே வரும். எனினும் விடை 7 எனத் தரப்பட்டுள்ளது).",
+    "question_en": "How many numbers from 1 to 50 are infinitely divisible by 4 and contain 4 as a prime?",
+    "options_en": [
+      "7",
+      "10",
+      "20",
+      "21"
+    ],
+    "explanation_en": "(According to the answer book there are 7 numbers from 1 to 100 (4, 24, 40, 44, 48, 64, 84). But since the question is 1 to 50 only 5 numbers will come. However the answer is given as 7)."
+  },
+  {
+    "id": 20,
+    "question": "ஒரு சிறுவன் அவனுடைய சகோதரர்களைவிட இரு மடங்கு சகோதரிகள் இருப்பதாக கூறுகின்றான். அவனுடைய சகோதரி, அவளுடைய சகோதரர்களின் எண்ணிக்கையும் சகோதரிகளின் எண்ணிக்கையும், சமமாக இருப்பதாக கூறுகின்றாள். எனில் எத்தனை சகோதரர்கள், எத்தனை சகோதரிகள் அங்கு உள்ளனர்.",
+    "options": [
+      "2 சகோதரர்கள், 2 சகோதரிகள்",
+      "2 சகோதரர்கள், 3 சகோதரிகள்",
+      "3 சகோதரர்கள், 4 சகோதரிகள்",
+      "3 சகோதரர்கள், 3 சகோதரிகள்"
+    ],
+    "correct": 2,
+    "explanation": "3 சகோதரர்கள், 4 சகோதரிகள் இருந்தால்: ஒரு பையனுக்கு 2 சகோதரர்கள், 4 சகோதரிகள் (இரண்டு மடங்கு). ஒரு பெண்ணுக்கு 3 சகோதரர்கள், 3 சகோதரிகள் (சமம்).",
+    "question_en": "A boy claims to have twice as many sisters as his brothers. His sister claims that her number of brothers and sisters are equal. So how many brothers and how many sisters are there?",
+    "options_en": [
+      "2 brothers, 2 sisters",
+      "2 brothers, 3 sisters",
+      "3 brothers, 4 sisters",
+      "3 brothers, 3 sisters"
+    ],
+    "explanation_en": "If there are 3 brothers, 4 sisters: A boy has 2 brothers, 4 sisters (double). A girl has 3 brothers, 3 sisters (equal)."
+  },
+  {
+    "id": 21,
+    "question": "திருமணமான ஒருவருக்கு, 4 திருமணமான மகன்களும், ஒவ்வொரு மகனுக்கும் 3 குழந்தைகளும் உள்ளனர். எனில் அக்குடும்பத்தில் உள்ள மொத்த உறுப்பினர்களின் எண்ணிக்கை?",
+    "options": [
+      "22",
+      "20",
+      "21",
+      "23"
+    ],
+    "correct": 0,
+    "explanation": "பெற்றோர் = 2, 4 மகன்கள் + 4 மனைவிகள் = 8, குழந்தைகள் = $4 \\times 3 = 12$. மொத்தம் = $2+8+12 = 22$.",
+    "question_en": "A married man has 4 married sons and each son has 3 children. So total number of members in the family?",
+    "options_en": [
+      "22",
+      "20",
+      "21",
+      "23"
+    ],
+    "explanation_en": "Parents = 2, 4 sons + 4 wives = 8, children = $4 \\times 3 = 12$. Total = $2+8+12 = 22$."
+  },
+  {
+    "id": 22,
+    "question": "ஒரு மருத்துவர், ஒரு நோயாளியிடம் 5 மாத்திரைகளைக் கொடுத்து ஒவ்வொரு 2 மணி நேரத்திற்கும் ஒரு மாத்திரையை விழுங்கக் கூறினார். அந்நோயாளி 9.00 am-க்கு முதல் மாத்திரையை எடுத்துக்கொண்டால், எத்தனை மணிக்கு கடைசி மாத்திரையை உட்கொள்வார்?",
+    "options": [
+      "12 noon",
+      "5 p.m",
+      "6 p.m",
+      "7 p.m"
+    ],
+    "correct": 1,
+    "explanation": "1 வது: 9am, 2 வது: 11am, 3 வது: 1pm, 4 வது: 3pm, 5 வது: 5pm.",
+    "question_en": "A doctor prescribed 5 tablets to a patient and asked him to swallow one tablet every 2 hours. If the patient takes the first pill at 9.00 am, at what time will he take the last pill?",
+    "options_en": [
+      "12 noon",
+      "5 p.m",
+      "6 p.m",
+      "7 p.m"
+    ],
+    "explanation_en": "1st: 9am, 2nd: 11am, 3rd: 1pm, 4th: 3pm, 5th: 5pm."
+  },
+  {
+    "id": 23,
+    "question": "ஆங்கில எழுத்துக்கள் வலமிருந்து இடமாக எழுதப்பட்டால், வலமிருந்து 20-வது எழுத்திற்கு இடதுபுறமாக 4 வதாக அமையும் எழுத்து?",
+    "options": [
+      "P",
+      "Q",
+      "X",
+      "V"
+    ],
+    "correct": 2,
+    "explanation": "வலமிருந்து இடமாக எழுதப்பட்டால் வலது முனையில் A இருக்கும். வலமிருந்து 20-வது T. அதற்கு இடப்புறம் 4-வது X.",
+    "question_en": "If the English alphabet is written from right to left, which letter is 4th from the left of the 20th letter from the right?",
+    "options_en": [
+      "P",
+      "Q",
+      "X",
+      "V"
+    ],
+    "explanation_en": "If written from right to left, A will be at the right end. 20th T from right. 4th X to its left."
+  },
+  {
+    "id": 24,
+    "question": "10.கி.மீ தூரம் கொண்ட ஒரு சாலையில் 500 மீட்டர் இடைவெளிகளில் தூண்கள் எழுப்பப்படுகிறது. எனில் அச்சாலையில் எழுப்பப்படும் தூண்களின் எண்ணிக்கை எத்தனை?",
+    "options": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "correct": 0,
+    "explanation": "மொத்த தூண்கள் = (10000 / 500) + 1 = 21. ஆனால் புத்தகத்தின் விடைக் குறிப்புப் படி 20 (தொடக்கப் புள்ளியை நீக்கி) என்று தரப்பட்டுள்ளது.",
+    "question_en": "Pillars are erected at 500 meter intervals on a 10 km road. So what is the number of pillars to be erected in Achala?",
+    "options_en": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "explanation_en": "Total number of pillars = (10000 / 500) + 1 = 21. But the answer in the book is given as 20 (remove the starting point)."
+  },
+  {
+    "id": 25,
+    "question": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 என்ற எண்ணை 4-ஆல் வகுக்கும்போது கிடைக்கும் மீதி.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 3,
+    "explanation": "ஒரு எண் 4-ஆல் வகுபடுமா என்பதை கடைசி 2 இலக்கங்களை வைத்து அறியலாம். 15 ஐ 4-ஆல் வகுத்தால் மீதி 3.",
+    "question_en": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Dividing a number by 4 is the remainder.",
+    "options_en": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "explanation_en": "Whether a number is divisible by 4 is known by looking at the last 2 digits. If 15 is divided by 4, the remainder is 3."
+  },
+  {
+    "id": 26,
+    "question": "கீழ்க்கண்ட கழித்தல் கணக்கில், எந்த எண் MORE என்ற வார்த்தையைக் குறிக்காதது?\nM O R E - O R E = 2 2 2",
+    "options": [
+      "8640",
+      "6420",
+      "7531",
+      "9753"
+    ],
+    "correct": 0,
+    "explanation": "8640 - 640 = 8000 $\\neq$ 222.",
+    "question_en": "In the following subtraction account, which number does not represent the word MORE?\nM O R E - O R E = 2 2 2",
+    "options_en": [
+      "8640",
+      "6420",
+      "7531",
+      "9753"
+    ],
+    "explanation_en": "8640 - 640 = 8000 $\\neq$ 222."
+  },
+  {
+    "id": 27,
+    "question": "ஒரு வாத்திற்கு முன்னால் இரு வாத்துக்கள் உள்ளன. ஒரு வாத்திற்கு பின்னால் இரு வாத்துக்கள் உள்ளன. இரு வாத்துக்களுக்கு நடுவில் ஒரு வாத்து உள்ளது. எனில் அங்குள்ள குறைந்தபட்ச வாத்துக்களின் எத்தனை?",
+    "options": [
+      "மூன்று",
+      "நான்கு",
+      "ஐந்து",
+      "ஏழு"
+    ],
+    "correct": 0,
+    "explanation": "3 வாத்துகள் ஒரே வரிசையில் சென்றால் இந்தக் கூற்று சரி.",
+    "question_en": "There are two geese in front of one duck. Behind one duck are two geese. Between two ducks there is a duck. So how many of the minimum number of geese are there?",
+    "options_en": [
+      "Three",
+      "Four",
+      "Five",
+      "Seven"
+    ],
+    "explanation_en": "This statement is true if 3 ducks go in a row."
+  },
+  {
+    "id": 28,
+    "question": "ஒருவன் பறவை வேட்டையாடி விட்டு வருகிறான். அவன் தன்னுடைய பையில் எவ்வளவு பறவைகள் உள்ளன என்று கூறினான். அவன் ‘They are all sparrows but six; all pigeons but six; and all doves but six' என்று கூறினான். எனில், அவனிடம் உள்ள பறவைகள் எத்தனை?",
+    "options": [
+      "18",
+      "9",
+      "126",
+      "36"
+    ],
+    "correct": 1,
+    "explanation": "மொத்தப் பறவைகள் x எனில் x-s=6, x-p=6, x-d=6. கூடினால் $3x - (s+p+d) = 18 \\Rightarrow 3x - x = 18 \\Rightarrow 2x = 18 \\Rightarrow x = 9$.",
+    "question_en": "A man returns from bird hunting. He said how many birds were in his bag. He said 'They are all sparrows but six; all pigeons but six; and all doves but six' he said. If so, how many birds does he have?",
+    "options_en": [
+      "18",
+      "9",
+      "126",
+      "36"
+    ],
+    "explanation_en": "If total number of birds is x then x-s=6, x-p=6, x-d=6. Add $3x - (s+p+d) = 18 \\Rightarrow 3x - x = 18 \\Rightarrow 2x = 18 \\Rightarrow x = 9$."
+  },
+  {
+    "id": 29,
+    "question": "ஒரு கருத்தரங்கில் பங்கேற்ற பத்து நபர்களும் தங்களுக்குள் ஒருவருக்கொருவர் கைகுலுக்கிக் கொண்டால், எத்தனை முறை கைகுலுக்கல்கள் அங்கு நடைபெற்றிருக்கும்?",
+    "options": [
+      "20",
+      "45",
+      "55",
+      "90"
+    ],
+    "correct": 1,
+    "explanation": "கைகுலுக்கல்களின் எண்ணிக்கை = $n(n-1)/2 = 10(9)/2 = 45$.",
+    "question_en": "If all ten participants in a seminar shake hands with each other, how many times will there be handshakes?",
+    "options_en": [
+      "20",
+      "45",
+      "55",
+      "90"
+    ],
+    "explanation_en": "Number of handshakes = $n(n-1)/2 = 10(9)/2 = 45$."
+  },
+  {
+    "id": 30,
+    "question": "ஒரு குடும்பத்தில் ஒரு குடும்பத்தலைவர், அவருடைய மனைவி, மூன்று மகன்கள் மற்றும் அவர்களுடைய மனைவிகள் உள்ளனர். ஒவ்வொரு மகனுக்கும் இரு மகன்கள் மற்றும் ஒரு மகள் உள்ளனர். எனில், அக்குடும்பத்தில் ஆண்கள் எத்தனை பேர்?",
+    "options": [
+      "4",
+      "10",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "குடும்பத் தலைவர் (1) + மகன்கள் (3) + பேரன்கள் ($3 \\times 2 = 6$) = 10 ஆண்கள்.",
+    "question_en": "A family consists of a head of the family, his wife, three sons and their wives. Each son has two sons and one daughter. If so, how many males are there in the family?",
+    "options_en": [
+      "4",
+      "10",
+      "8",
+      "12"
+    ],
+    "explanation_en": "Head of household (1) + sons (3) + grandsons ($3 \\times 2 = 6$) = 10 men."
+  }
+]

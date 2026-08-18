@@ -1,0 +1,942 @@
+[
+  {
+    "id": 1,
+    "question": "பொருட்சேதம், உயிரிழப்பு மற்றும் சுற்றுச்சூழலால் பெரிய மாற்றத்தை நிகழ்த்தும் ஒரு இயற்கை காரணி ________.",
+    "options": [
+      "இடர்",
+      "பேரிடர்",
+      "மீட்பு",
+      "கட்டுப்படுத்தல்"
+    ],
+    "correct": 0,
+    "question_en": "A natural factor that causes major damage, loss of life, and environmental change is ________.",
+    "options_en": [
+      "Risk",
+      "Disaster",
+      "Recovery",
+      "control"
+    ],
+    "explanation": "பொருட்சேதம், உயிரிழப்பு மற்றும் சுற்றுச்சூழலால் பெரிய மாற்றத்தை நிகழ்த்தும் ஒரு இயற்கை காரணி இடர்.",
+    "explanation_en": "A natural factor that causes major damage, loss of life, and environmental change is Risk."
+  },
+  {
+    "id": 2,
+    "question": "பேரிடரின் விளைவைக் குறைக்கும் செயல்பாடுகள் ________.",
+    "options": [
+      "தயார் நிலை",
+      "பதில்",
+      "கட்டுப்படுத்தல்",
+      "மீட்பு நிலை"
+    ],
+    "correct": 2,
+    "question_en": "Activities that reduce the effect of a disaster are ________.",
+    "options_en": [
+      "Ready state",
+      "Answer",
+      "control",
+      "recovery status"
+    ],
+    "explanation": "பேரிடரின் விளைவைக் குறைக்கும் செயல்பாடுகள் கட்டுப்படுத்தல்.",
+    "explanation_en": "Activities that reduce the effect of a disaster are control."
+  },
+  {
+    "id": 3,
+    "question": "ஒரு திடீர் நகர்வு அல்லது புவி மேலோட்டின் திடீர் நடுக்கம் ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "சுனாமி",
+      "புவிஅதிர்ச்சி",
+      "நிலநடுக்கம்",
+      "சூறாவளி"
+    ],
+    "correct": 2,
+    "question_en": "A sudden movement or sudden shaking of the Earth's crust is called ________.",
+    "options_en": [
+      "Tsunami",
+      "Earthquake",
+      "Earthquake",
+      "Cyclone"
+    ],
+    "explanation": "ஒரு திடீர் நகர்வு அல்லது புவி மேலோட்டின் திடீர் நடுக்கம் நிலநடுக்கம் என அழைக்கப்படுகிறது.",
+    "explanation_en": "A sudden movement or sudden shaking of the Earth's crust is called Earthquake."
+  },
+  {
+    "id": 4,
+    "question": "கனமழையினால் திடீரென அதிக நீர் வெளியேறுதல் ________ என அழைக்கப்படுகிறது.",
+    "options": [
+      "வெள்ளம்",
+      "சூறாவளி",
+      "வறட்சி",
+      "பருவ காலங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "Sudden discharge of large amounts of water due to heavy rainfall is called ________.",
+    "options_en": [
+      "flood",
+      "Cyclone",
+      "Drought",
+      "seasons"
+    ],
+    "explanation": "கனமழையினால் திடீரென அதிக நீர் வெளியேறுதல் வெள்ளம் என அழைக்கப்படுகிறது.",
+    "explanation_en": "Sudden discharge of large amounts of water due to heavy rainfall is called flood."
+  },
+  {
+    "id": 5,
+    "question": "________ வைத்துள்ளோரை வாகனம் ஓட்ட அனுமதித்தால் சாலை விபத்தினைத் தவிர்க்கலாம்.",
+    "options": [
+      "ரேஷன் அட்டை",
+      "ஓட்டுநர் உரிமம்",
+      "அனுமதி",
+      "ஆவணங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Road accidents can be avoided if people with ________ are allowed to drive.",
+    "options_en": [
+      "Ration card",
+      "Driving license",
+      "permission",
+      "Documents"
+    ],
+    "explanation": "ஓட்டுநர் உரிமம் வைத்துள்ளோரை வாகனம் ஓட்ட அனுமதித்தால் சாலை விபத்தினைத் தவிர்க்கலாம்.",
+    "explanation_en": "Road accidents can be avoided if people with Driving license are allowed to drive."
+  },
+  {
+    "id": 6,
+    "question": "பொருத்துக\n1) புவி அதிர்ச்சி - (1) கவனமின்மை\n2) சூறாவளி - (2) பிளவு\n3) சுனாமி - (3) புயலின் கண்\n4) தொழிற்சாலை விபத்து - (4) இராட்சத அலைகள்",
+    "options": [
+      "1 - a  2 - b  3 - c  4 - d",
+      "1 - b  2 - c  3 - d  4 - a",
+      "1 - d  2 - c  3 - b  4 - a",
+      "1 - c  2 - d  3 - a  4 - b"
+    ],
+    "correct": 1,
+    "question_en": "match\n1) Earth shock - (1) Inattention\n2) Tornado - (2) Split\n3) Tsunami - (3) Eye of the storm\n4) Factory accident - (4) Giant waves",
+    "options_en": [
+      "1 - a 2 - b 3 - c 4 - d",
+      "1 - b 2 - c 3 - d 4 - a",
+      "1 - d 2 - c 3 - b 4 - a",
+      "1 - c 2 - d 3 - a 4 - b"
+    ],
+    "explanation": "1 - b  2 - c  3 - d  4 - a",
+    "explanation_en": "1 - b 2 - c 3 - d 4 - a"
+  },
+  {
+    "id": 7,
+    "question": "அவசர கால மருத்துவ உதவிக்கு அழைக்க வேண்டிய எண் ________.",
+    "options": [
+      "100",
+      "101",
+      "108",
+      "1078"
+    ],
+    "correct": 2,
+    "question_en": "The number to call for emergency medical assistance is ________.",
+    "options_en": [
+      "100",
+      "101",
+      "108",
+      "1078"
+    ],
+    "explanation": "அவசர கால மருத்துவ உதவிக்கு அழைக்க வேண்டிய எண் 108.",
+    "explanation_en": "The number to call for emergency medical assistance is 108."
+  },
+  {
+    "id": 8,
+    "question": "தீ விபத்திற்கு அழைக்க வேண்டிய எண் ________.",
+    "options": [
+      "101",
+      "100",
+      "1078",
+      "108"
+    ],
+    "correct": 0,
+    "question_en": "The number to call in case of fire is ________.",
+    "options_en": [
+      "101",
+      "100",
+      "1078",
+      "108"
+    ],
+    "explanation": "தீ விபத்திற்கு அழைக்க வேண்டிய எண் 101.",
+    "explanation_en": "The number to call in case of fire is 101."
+  },
+  {
+    "id": 9,
+    "question": "சுனாமி என்னும் சொல் ________ மொழிச் சொல்.",
+    "options": [
+      "பானிய",
+      "ஜப்பானிய",
+      "ஆங்கில",
+      "கிரேக்க"
+    ],
+    "correct": 1,
+    "question_en": "The word Tsunami is a ________ language word.",
+    "options_en": [
+      "Drink",
+      "Japanese",
+      "English",
+      "Greek"
+    ],
+    "explanation": "சுனாமி என்னும் சொல் ஜப்பானிய மொழிச் சொல்.",
+    "explanation_en": "The word Tsunami is a Japanese language word."
+  },
+  {
+    "id": 10,
+    "question": "நிலநடுக்கத்தை பதிவு செய்யும் கருவி ________.",
+    "options": [
+      "சிஸ்மோகிராப்",
+      "வெர்னியர் அளவுகோல்",
+      "பாராமணி",
+      "வெப்பநிலைமானி"
+    ],
+    "correct": 0,
+    "question_en": "An instrument for recording earthquakes is ________.",
+    "options_en": [
+      "Seismograph",
+      "Vernier scale",
+      "Paramani",
+      "Thermometer"
+    ],
+    "explanation": "நிலநடுக்கத்தை பதிவு செய்யும் கருவி சிஸ்மோகிராப்.",
+    "explanation_en": "An instrument for recording earthquakes is Seismograph."
+  },
+  {
+    "id": 11,
+    "question": "உலகிலேயே மிக அதிக அடர்த்தியான நிலநடுக்கப் பகுதி ________.",
+    "options": [
+      "இந்தோனேசியா",
+      "இந்தியா",
+      "அமெரிக்கா",
+      "ஜப்பான்"
+    ],
+    "correct": 2,
+    "question_en": "The most dense earthquake zone in the world is ________.",
+    "options_en": [
+      "Indonesia",
+      "India",
+      "America",
+      "Japan"
+    ],
+    "explanation": "உலகிலேயே மிக அதிக அடர்த்தியான நிலநடுக்கப் பகுதி அமெரிக்கா.",
+    "explanation_en": "The most dense earthquake zone in the world is America."
+  },
+  {
+    "id": 12,
+    "question": "உலகிலேயே மிக அதிக நிலநடுக்கங்கள் ஏற்படுவது ________.",
+    "options": [
+      "ஜப்பான்",
+      "இந்தியா",
+      "சீனா",
+      "இந்தோனேசியா"
+    ],
+    "correct": 0,
+    "question_en": "Most earthquakes in the world occur in ________.",
+    "options_en": [
+      "Japan",
+      "India",
+      "China",
+      "Indonesia"
+    ],
+    "explanation": "உலகிலேயே மிக அதிக நிலநடுக்கங்கள் ஏற்படுவது ஜப்பான்.",
+    "explanation_en": "Most earthquakes in the world occur in Japan."
+  },
+  {
+    "id": 13,
+    "question": "சுனாமிக்கு காரணமான செயல் இல்லாதது எது?",
+    "options": [
+      "நிலநடுக்கம்",
+      "நிலச்சரிவு",
+      "எரிமலைவெடிப்பு",
+      "புயல்"
+    ],
+    "correct": 2,
+    "question_en": "What is non-action that causes a tsunami?",
+    "options_en": [
+      "Earthquake",
+      "Landslide",
+      "Volcanic eruption",
+      "Storm"
+    ],
+    "explanation": "சுனாமிக்கு காரணமான செயல் இல்லாதது எரிமலைவெடிப்பு ஆகும்.",
+    "explanation_en": "Volcanic eruption is non-action that causes a tsunami."
+  },
+  {
+    "id": 14,
+    "question": "போபால் விஷ வாயு கசிவு விபத்து ________ பேரிடர்.",
+    "options": [
+      "தீவிபத்து",
+      "தொழிற்சாலை விபத்து",
+      "சுனாமி",
+      "நிலநடுக்கம்"
+    ],
+    "correct": 1,
+    "question_en": "Bhopal poison gas leak accident was a ________ disaster.",
+    "options_en": [
+      "fire",
+      "Factory accident",
+      "Tsunami",
+      "Earthquake"
+    ],
+    "explanation": "போபால் விஷ வாயு கசிவு விபத்து தொழிற்சாலை விபத்து பேரிடர்.",
+    "explanation_en": "Bhopal poison gas leak accident was a Factory accident disaster."
+  },
+  {
+    "id": 15,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "நிலநடுக்கம்",
+      "சுனாமி",
+      "பனிச்சரிவு",
+      "போர்"
+    ],
+    "correct": 2,
+    "question_en": "Select none.",
+    "options_en": [
+      "Earthquake",
+      "Tsunami",
+      "Avalanche",
+      "War"
+    ],
+    "explanation": "பனிச்சரிவு",
+    "explanation_en": "Avalanche"
+  },
+  {
+    "id": 16,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "கூட்ட நெரிசல்",
+      "தீவிரவாதம்",
+      "தொழிற்சாலை விபத்து",
+      "சுனாமி"
+    ],
+    "correct": 1,
+    "question_en": "Select none.",
+    "options_en": [
+      "Congestion",
+      "Terrorism",
+      "Factory accident",
+      "Tsunami"
+    ],
+    "explanation": "தீவிரவாதம்",
+    "explanation_en": "Terrorism"
+  },
+  {
+    "id": 17,
+    "question": "தமிழ்நாட்டை சுனாமி தாக்கிய ஆண்டு ________.",
+    "options": [
+      "2008",
+      "2004",
+      "2018",
+      "2014"
+    ],
+    "correct": 1,
+    "question_en": "Tsunami hit Tamil Nadu in ________ year.",
+    "options_en": [
+      "2008",
+      "2004",
+      "2018",
+      "2014"
+    ],
+    "explanation": "தமிழ்நாட்டை சுனாமி தாக்கிய ஆண்டு 2004.",
+    "explanation_en": "Tsunami hit Tamil Nadu in 2004 year."
+  },
+  {
+    "id": 18,
+    "question": "NDMA என்பது ________.",
+    "options": [
+      "தேசிய பேரிடர் மீட்பு படை",
+      "தேசிய பேரிடர் மேலாண்மை ஆணையம்",
+      "தேசிய பேரிடர் மேலாண்மை நிறுவனம்",
+      "தேசிய மீட்பு படை"
+    ],
+    "correct": 1,
+    "question_en": "NDMA is ________.",
+    "options_en": [
+      "National Disaster Response Force",
+      "National Disaster Management Authority",
+      "National Disaster Management Agency",
+      "National Rescue Force"
+    ],
+    "explanation": "NDMA என்பது தேசிய பேரிடர் மேலாண்மை ஆணையம்.",
+    "explanation_en": "NDMA is National Disaster Management Authority."
+  },
+  {
+    "id": 19,
+    "question": "தமிழ்நாட்டை கஜா புயல் தாக்கிய ஆண்டு ________.",
+    "options": [
+      "2001",
+      "2011",
+      "2008",
+      "2018"
+    ],
+    "correct": 3,
+    "question_en": "The year when Gaja storm hit Tamilnadu was ________.",
+    "options_en": [
+      "2001",
+      "2011",
+      "2008",
+      "2018"
+    ],
+    "explanation": "தமிழ்நாட்டை கஜா புயல் தாக்கிய ஆண்டு 2018.",
+    "explanation_en": "The year when Gaja storm hit Tamilnadu was 2018."
+  },
+  {
+    "id": 20,
+    "question": "2004 சுனாமிக்கு பிறகு தமிழகத்தைத் தாக்கிய மிக மோசமான புயல் ________.",
+    "options": [
+      "நிஷா",
+      "வர்தா",
+      "ஒக்கி",
+      "கஜா"
+    ],
+    "correct": 3,
+    "question_en": "The worst storm to hit Tamil Nadu after the 2004 Tsunami was ________.",
+    "options_en": [
+      "Nisha",
+      "Varda",
+      "Okay",
+      "Gaja"
+    ],
+    "explanation": "2004 சுனாமிக்கு பிறகு தமிழகத்தைத் தாக்கிய மிக மோசமான புயல் கஜா.",
+    "explanation_en": "The worst storm to hit Tamil Nadu after the 2004 Tsunami was Gaja."
+  },
+  {
+    "id": 21,
+    "question": "கூற்று (A): நவீன உலகத்தில் அனுதினமும் மகிழ்ச்சியாக வாழ முடியாது\nகாரணம் (R): மாசடைதல் மற்றும் சுற்றுச்சூழல் சீரழிவின் காரணமாக இயற்கை இடர் மற்றும் பேரிடரை சந்தித்துக் கொண்டிருக்கிறோம்.",
+    "options": [
+      "கூற்று மற்றும் காரணம் சரி, கூற்று காரணத்தை விளக்குகிறது.",
+      "கூற்று மற்றும் காரணம் சரி, கூற்று காரணத்தை விளக்கவில்லை.",
+      "கூற்று தவறு காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Assertion (A): It is impossible to live happily every day in the modern world\nReason (R): We are facing natural hazard and calamity due to pollution and environmental degradation.",
+    "options_en": [
+      "Assertion and reason Correct, the statement explains the reason.",
+      "The statement and the reason are correct, the statement does not explain the reason.",
+      "The statement is false and the reason is correct.",
+      "Both the statement and the reason are false."
+    ],
+    "explanation": "கூற்று மற்றும் காரணம் சரி, கூற்று காரணத்தை விளக்குகிறது.",
+    "explanation_en": "Assertion and reason Correct, the statement explains the reason."
+  },
+  {
+    "id": 22,
+    "question": "கூற்று (A): திடீர் நகர்வு அல்லது பூமியின் மேலோட்டில் ஏற்படும் நடுக்கம் புவி அதிர்ச்சி ஆகும்.\nகாரணம் (R): டெக்டானிக் தட்டுகளின் நகர்வு, ஜனநெருக்கடி, பிளவு போன்றவை புவி அதிர்ச்சிக்கு காரணமாகின்றன.",
+    "options": [
+      "கூற்று, காரணம் சரி மற்றும் கூற்று காரணத்தை விளக்குகிறது.",
+      "கூற்று, காரணம் சரி, கூற்று காரணத்தை விளக்கவில்லை.",
+      "கூற்று தவறு காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 2,
+    "question_en": "Assertion (A): Earthshock is a sudden movement or tremor in the Earth's crust.\nReason (R): Movement of tectonic plates, subduction, rifting etc. cause earthquakes.",
+    "options_en": [
+      "The statement is true of the reason and the statement explains the reason.",
+      "The statement, the reason is correct, the statement does not explain the reason.",
+      "The statement is false and the reason is correct.",
+      "Both the statement and the reason are false."
+    ],
+    "explanation": "கூற்று தவறு காரணம் சரி.",
+    "explanation_en": "The statement is false and the reason is correct."
+  },
+  {
+    "id": 23,
+    "question": "கீழ்க்காண்பனவற்றில் ஒன்று பேரிடரைப் பொருத்தமட்டில் முதன்மை மீட்பு குழு இல்லை.",
+    "options": [
+      "காவலர்கள்",
+      "தீயணைப்புப் படையினர்",
+      "காப்பீட்டு முகவர்கள்",
+      "அவசர மருத்துவக்குழு"
+    ],
+    "correct": 2,
+    "question_en": "One of the following is the absence of a primary rescue team in the event of a disaster.",
+    "options_en": [
+      "Guards",
+      "Firefighters",
+      "Insurance agents",
+      "Emergency medical team"
+    ],
+    "explanation": "காப்பீட்டு முகவர்கள்",
+    "explanation_en": "Insurance agents"
+  },
+  {
+    "id": 24,
+    "question": "வெள்ளப்பெருக்கு காரணம் இல்லாத செயல் எது?",
+    "options": [
+      "கனமழை",
+      "புயல்",
+      "நிலச்சரிவு",
+      "சுனாமி"
+    ],
+    "correct": 2,
+    "question_en": "Which action is not a cause of flooding?",
+    "options_en": [
+      "heavy rain",
+      "Storm",
+      "Landslide",
+      "Tsunami"
+    ],
+    "explanation": "வெள்ளப்பெருக்கு காரணம் இல்லாத செயல் நிலச்சரிவு ஆகும்.",
+    "explanation_en": "Landslide"
+  },
+  {
+    "id": 25,
+    "question": "கீழ்க்காணும் சொற்றொடர்களில் எது நிலநடுக்கத்தை எதிர் கொள்வதோடு தொடர்புடையது?",
+    "options": [
+      "காவல் துறை மற்றும் பாதுகாப்புப் படையினர் பாதுகாப்புப் பணியில் ஈடுபட்டிருக்கும் பகுதிக்கு செல்லவேண்டாம்.",
+      "கடல் மட்டத்திலிருந்து உங்கள் தெரு எவ்வளவு உயரத்தில் உள்ளது மற்றும் கடலோரத்திலிருந்து எவ்வளவு தூரத்தில் அமைந்துள்ளது எனத் தெரிந்து கொள்ளவும்",
+      "கண்ணாடிச் சன்னல், வெளிக்கதவுகள், சுவர், எளிதில் விழக்கூடிய தொங்கு மின்விளக்குகள் மற்றும் மரச்சாமான்கள் போன்றவற்றிலிருந்து விலகியிருக்கவும்.",
+      "கதவைத் திறப்பதற்கு முன்பு புறங்கையால் கதவைத் தொட்டு வெப்பமாக உணர்ந்தால் கதவைத் திறக்க வேண்டாம்."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following phrases is related to earthquake resistance?",
+    "options_en": [
+      "Do not go to the area where the police department and security forces are on security duty.",
+      "Find out how high your street is above sea level and how far it is from the coast",
+      "Stay away from windowsills, exterior doors, walls, hanging light fixtures and furniture that can easily fall.",
+      "Do not open the door if you touch the door with your forearm and it feels hot before opening the door."
+    ],
+    "explanation": "கண்ணாடிச் சன்னல், வெளிக்கதவுகள், சுவர், எளிதில் விழக்கூடிய தொங்கு மின்விளக்குகள் மற்றும் மரச்சாமான்கள் போன்றவற்றிலிருந்து விலகியிருக்கவும்.",
+    "explanation_en": "Stay away from windowsills, exterior doors, walls, hanging light fixtures and furniture that can easily fall."
+  },
+  {
+    "id": 26,
+    "question": "நிலநடுக்கம், சுனாமி மற்றும் எரிமலை வெடிப்புகள் ________ இல் ஏற்படும் இயற்கை பேரிடராகும்.",
+    "options": [
+      "புவி உட்பகுதி",
+      "புவி மேற்பரப்பில்",
+      "வானிலை ஆய்வு / நீர் வளம்",
+      "சுகாதாரம்"
+    ],
+    "correct": 0,
+    "question_en": "Earthquakes, tsunamis, and volcanic eruptions are natural disasters that occur in ________.",
+    "options_en": [
+      "Earth's interior",
+      "on the earth's surface",
+      "Meteorology / Water Resources",
+      "Hygiene"
+    ],
+    "explanation": "நிலநடுக்கம், சுனாமி மற்றும் எரிமலை வெடிப்புகள் புவி உட்பகுதி இல் ஏற்படும் இயற்கை பேரிடராகும்.",
+    "explanation_en": "Earthquakes, tsunamis, and volcanic eruptions are natural disasters that occur in Earth's interior."
+  },
+  {
+    "id": 27,
+    "question": "நிலச்சரிவு மற்றும் பனிச்சரிவு ________ ஏற்படும் இயற்கை பேரிடராகும்.",
+    "options": [
+      "புவி உட்பகுதி",
+      "புவி மேற்பரப்பில்",
+      "வானிலை ஆய்வு / நீர் வளம்",
+      "சுகாதாரம்"
+    ],
+    "correct": 1,
+    "question_en": "Landslides and avalanches are natural disasters caused by ________.",
+    "options_en": [
+      "Earth's interior",
+      "on the earth's surface",
+      "Meteorology / Water Resources",
+      "Hygiene"
+    ],
+    "explanation": "நிலச்சரிவு மற்றும் பனிச்சரிவு புவி மேற்பரப்பில் ஏற்படும் இயற்கை பேரிடராகும்.",
+    "explanation_en": "Landslides and avalanches are natural disasters caused by on the earth's surface."
+  },
+  {
+    "id": 28,
+    "question": "புயல் காற்று, சூறாவளி, பனிமழை மற்றும் வெள்ளம் ஆகியவை ________ல் ஏற்படும் இயற்கை பேரிடராகும்.",
+    "options": [
+      "புவி உட்பகுதி",
+      "புவி மேற்பரப்பில்",
+      "வானிலை ஆய்வு / நீர் வளம்",
+      "சுகாதாரம்"
+    ],
+    "correct": 2,
+    "question_en": "Windstorms, hurricanes, hailstorms, and floods are natural disasters that occur in ________.",
+    "options_en": [
+      "Earth's interior",
+      "on the earth's surface",
+      "Meteorology / Water Resources",
+      "Hygiene"
+    ],
+    "explanation": "புயல் காற்று, சூறாவளி, பனிமழை மற்றும் வெள்ளம் ஆகியவை வானிலை ஆய்வு / நீர் வளம்ல் ஏற்படும் இயற்கை பேரிடராகும்.",
+    "explanation_en": "Windstorms, hurricanes, hailstorms, and floods are natural disasters that occur in Meteorology / Water Resources."
+  },
+  {
+    "id": 29,
+    "question": "கீழ்க்கண்டவற்றுள் எது மனிதனால் உருவாகும் பேரிடர்?",
+    "options": [
+      "சமூக தொழில்நுட்பம்",
+      "போர்",
+      "இரண்டும்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is a man-made disaster?",
+    "options_en": [
+      "Social technology",
+      "War",
+      "Both",
+      "Nothing"
+    ],
+    "explanation": "இரண்டும்",
+    "explanation_en": "Both is a man-made disaster."
+  },
+  {
+    "id": 30,
+    "question": "நிலநடுக்கத்திற்கு காரணம் ________.",
+    "options": [
+      "புவித்தட்டுகளின் நகர்வு",
+      "நிலச்சரிவு",
+      "மேற்பரப்பில் பிளவு",
+      "அனைத்தும் சரி"
+    ],
+    "correct": 3,
+    "question_en": "Earthquake is caused by ________.",
+    "options_en": [
+      "Movement of Earth's Plates",
+      "Landslide",
+      "Split on the surface",
+      "All right"
+    ],
+    "explanation": "நிலநடுக்கத்திற்கு காரணம் அனைத்தும் சரி.",
+    "explanation_en": "Earthquake is caused by All right."
+  },
+  {
+    "id": 31,
+    "question": "நிலநடுக்கத்தால் ஏற்படுவது ________.",
+    "options": [
+      "வெள்ளம், சுனாமி, நிலச்சரிவு",
+      "தீ, மின்சாரம் துண்டிக்கப்படுதல்",
+      "நீர்க்குழாய்கள் உடைதல்",
+      "அனைத்தும்"
+    ],
+    "correct": 3,
+    "question_en": "An earthquake is caused by ________.",
+    "options_en": [
+      "Flood, Tsunami, Landslide",
+      "Fire, power cut",
+      "Tubal rupture",
+      "Everything"
+    ],
+    "explanation": "நிலநடுக்கத்தால் ஏற்படுவது அனைத்தும்.",
+    "explanation_en": "An earthquake is caused by Everything."
+  },
+  {
+    "id": 32,
+    "question": "போபால் விஷவாயு கசிவு ஏற்பட்ட ஆண்டு ________.",
+    "options": [
+      "1983",
+      "1985",
+      "1984",
+      "1986"
+    ],
+    "correct": 2,
+    "question_en": "The year of Bhopal gas leak was ________.",
+    "options_en": [
+      "1983",
+      "1985",
+      "1984",
+      "1986"
+    ],
+    "explanation": "போபால் விஷவாயு கசிவு ஏற்பட்ட ஆண்டு 1984.",
+    "explanation_en": "The year of Bhopal gas leak was 1984."
+  },
+  {
+    "id": 33,
+    "question": "பேரிடர் மேலாண்மை ஆணையம் (NDMA) ________ அமைச்சகத்தின் கீழ் வரும்.",
+    "options": [
+      "பாதுகாப்பு",
+      "உள்துறை",
+      "வெளியுறவுத் துறை",
+      "போக்குவரத்து"
+    ],
+    "correct": 1,
+    "question_en": "Disaster Management Authority (NDMA) comes under the Ministry of ________.",
+    "options_en": [
+      "Security",
+      "Interior",
+      "Department of Foreign Affairs",
+      "Transportation"
+    ],
+    "explanation": "பேரிடர் மேலாண்மை ஆணையம் (NDMA) உள்துறை அமைச்சகத்தின் கீழ் வரும்.",
+    "explanation_en": "Disaster Management Authority (NDMA) comes under the Ministry of Interior."
+  },
+  {
+    "id": 34,
+    "question": "SDRF என்பது ________ போலீஸ் தனிப்படையுடன் அமைக்கப்பட்டது.",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correct": 3,
+    "question_en": "SDRF is constituted with ________ police force.",
+    "options_en": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "explanation": "SDRF என்பது 80 போலீஸ் தனிப்படையுடன் அமைக்கப்பட்டது.",
+    "explanation_en": "SDRF is constituted with 80 police force."
+  },
+  {
+    "id": 35,
+    "question": "பொருத்துக.\ni. நிஷா - (a) 2020\nii. வர்தா - (b) 2018\niii. நிவர் - (c) 2016\niv. கஜா - (d) 2008",
+    "options": [
+      "i - a  ii - b  iii - d  iv - c",
+      "i - c  ii - d  iii - b  iv - a",
+      "i - d  ii - a  iii - c  iv - b",
+      "i - d  ii - c  iii - a  iv - b"
+    ],
+    "correct": 3,
+    "question_en": "match\ni. Nisha – (a) 2020\nii. Wardha – (b) 2018\niii. Niver - (c) 2016\niv. GAJA - (d) 2008",
+    "options_en": [
+      "i - a ii - b iii - d iv - c",
+      "i - c ii - d iii - b iv - a",
+      "i - d ii - a iii - c iv - b",
+      "i - d ii - c iii - a iv - b"
+    ],
+    "explanation": "i - d  ii - c  iii - a  iv - b",
+    "explanation_en": "i - d ii - c iii - a iv - b"
+  },
+  {
+    "id": 36,
+    "question": "ஆற்றின் பாதையை மாற்றி அமைப்பது ________.",
+    "options": [
+      "தீ விபத்து",
+      "வெள்ளம்",
+      "நிலநடுக்கம்",
+      "புயல்"
+    ],
+    "correct": 2,
+    "question_en": "Changing the course of a river is ________.",
+    "options_en": [
+      "fire accident",
+      "flood",
+      "Earthquake",
+      "Storm"
+    ],
+    "explanation": "ஆற்றின் பாதையை மாற்றி அமைப்பது நிலநடுக்கம்.",
+    "explanation_en": "Changing the course of a river is Earthquake."
+  },
+  {
+    "id": 37,
+    "question": "தமிழகத்தில் தானே புயல் ஏற்பட்ட ஆண்டு ________.",
+    "options": [
+      "2011",
+      "2006",
+      "2008",
+      "2016"
+    ],
+    "correct": 0,
+    "question_en": "The year Thane storm occurred in Tamil Nadu was ________.",
+    "options_en": [
+      "2011",
+      "2006",
+      "2008",
+      "2016"
+    ],
+    "explanation": "தமிழகத்தில் தானே புயல் ஏற்பட்ட ஆண்டு 2011.",
+    "explanation_en": "The year Thane storm occurred in Tamil Nadu was 2011."
+  },
+  {
+    "id": 38,
+    "question": "கஜா புயல் ஏற்பட்ட மாதம் _________.",
+    "options": [
+      "அக்டோபர்",
+      "மார்ச்",
+      "நவம்பர்",
+      "டிசம்பர்"
+    ],
+    "correct": 2,
+    "question_en": "Gaja storm occurred in the month of _________.",
+    "options_en": [
+      "October",
+      "March",
+      "November",
+      "December"
+    ],
+    "explanation": "கஜா புயல் ஏற்பட்ட மாதம் நவம்பர்.",
+    "explanation_en": "Gaja storm occurred in the month of November."
+  },
+  {
+    "id": 39,
+    "question": "கஜா புயலின் வேகம் ________.",
+    "options": [
+      "100 கி.மீ",
+      "60 கி.மீ",
+      "120 கி.மீ",
+      "50 கி.மீ"
+    ],
+    "correct": 2,
+    "question_en": "The speed of Gaja storm is ________.",
+    "options_en": [
+      "100 km",
+      "60 km",
+      "120 km",
+      "50 km"
+    ],
+    "explanation": "கஜா புயலின் வேகம் 120 கி.மீ.",
+    "explanation_en": "The speed of Gaja storm is 120 km."
+  },
+  {
+    "id": 40,
+    "question": "மக்கள் கூட்டத்தில் திடீரென ஏற்படும் பாதிப்பு __________.",
+    "options": [
+      "வெள்ளம்",
+      "புயல்",
+      "கூட்ட நெரிசல்",
+      "தீ விபத்து"
+    ],
+    "correct": 2,
+    "question_en": "A sudden effect on a crowd of people is __________.",
+    "options_en": [
+      "flood",
+      "Storm",
+      "Congestion",
+      "fire accident"
+    ],
+    "explanation": "மக்கள் கூட்டத்தில் திடீரென ஏற்படும் பாதிப்பு கூட்ட நெரிசல்.",
+    "explanation_en": "A sudden effect on a crowd of people is Congestion."
+  },
+  {
+    "id": 41,
+    "question": "பேரிடரின் தாக்கம் என்பது __________.",
+    "options": [
+      "மழையளவு",
+      "கால அளவு",
+      "புயல்",
+      "தீ விபத்து"
+    ],
+    "correct": 1,
+    "question_en": "The impact of a disaster is __________.",
+    "options_en": [
+      "Rainfall",
+      "Duration",
+      "Storm",
+      "fire accident"
+    ],
+    "explanation": "பேரிடரின் தாக்கம் என்பது கால அளவு.",
+    "explanation_en": "The impact of a disaster is Duration."
+  },
+  {
+    "id": 42,
+    "question": "ஆபத்து நிலைமையை குறைப்பது _________.",
+    "options": [
+      "முன்னறிவிப்பு",
+      "பாதுகாப்பு",
+      "கட்டுப்படுத்துதல்",
+      "தங்கும் இடம் அளித்தல்"
+    ],
+    "correct": 2,
+    "question_en": "Reducing the risk situation is _________.",
+    "options_en": [
+      "forecast",
+      "Security",
+      "control",
+      "Providing accommodation"
+    ],
+    "explanation": "ஆபத்து நிலைமையை குறைப்பது கட்டுப்படுத்துதல்.",
+    "explanation_en": "Reducing the risk situation is control."
+  },
+  {
+    "id": 43,
+    "question": "தீ விபத்து ஏற்படும்போது நாம் செய்ய வேண்டியவை _________.",
+    "options": [
+      "மேஜையின் கீழ் தரையில் மண்டியிடுதல்",
+      "வேகமாக ஓடுதல்",
+      "தரையில் படுத்து உருளுதல்",
+      "டார்ச் லைட் பயன்படுத்துதல்"
+    ],
+    "correct": 2,
+    "question_en": "What we should do in case of fire is _________.",
+    "options_en": [
+      "Kneeling on the floor under the table",
+      "Running fast",
+      "Lying on the floor and rolling",
+      "Using torch light"
+    ],
+    "explanation": "தீ விபத்து ஏற்படும்போது நாம் செய்ய வேண்டியவை தரையில் படுத்து உருளுதல்.",
+    "explanation_en": "What we should do in case of fire is Lying on the floor and rolling."
+  },
+  {
+    "id": 44,
+    "question": "சாலை விபத்து ஏற்படக் காரணம் _________.",
+    "options": [
+      "வாகனங்களை சரியாகப் பராமரித்தல்",
+      "குறைவான வேகத்துடன் வாகனத்தை இயக்குதல்",
+      "ஓட்டுநர் உரிமமின்றி வாகனம் ஓட்டுதல்",
+      "தலைக் கவசம் இன்றி பயணித்தல்"
+    ],
+    "correct": 2,
+    "question_en": "Road accidents are caused by _________.",
+    "options_en": [
+      "Proper maintenance of vehicles",
+      "Driving at low speed",
+      "Driving without driving license",
+      "Traveling without helmet"
+    ],
+    "explanation": "சாலை விபத்து ஏற்படக் காரணம் ஓட்டுநர் உரிமமின்றி வாகனம் ஓட்டுதல்.",
+    "explanation_en": "Road accidents are caused by Driving without driving license."
+  },
+  {
+    "id": 45,
+    "question": "அதிகம் மற்றும் குறைந்த அலைவரிசையில் கிடைப்பது _________.",
+    "options": [
+      "TV அறிவிப்பு",
+      "ஒலி பெருக்கி",
+      "கம்பியில்லா வானிலை",
+      "டார்ச் லைட்"
+    ],
+    "correct": 2,
+    "question_en": "High and low bandwidth availability is _________.",
+    "options_en": [
+      "TV announcement",
+      "sound amplifier",
+      "Wireless weather",
+      "Torch light"
+    ],
+    "explanation": "அதிகம் மற்றும் குறைந்த அலைவரிசையில் கிடைப்பது கம்பியில்லா வானிலை.",
+    "explanation_en": "High and low bandwidth availability is Wireless weather."
+  },
+  {
+    "id": 46,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "குண்டுவெடிப்பு",
+      "எரிமலை வெடிப்பு",
+      "நில அதிர்வு",
+      "வறட்சி"
+    ],
+    "correct": 0,
+    "question_en": "Select the one that doesn't apply.",
+    "options_en": [
+      "Bomb blast",
+      "Volcanic eruption",
+      "earthquake",
+      "Drought"
+    ],
+    "explanation": "குண்டுவெடிப்பு",
+    "explanation_en": "Bomb blast"
+  },
+  {
+    "id": 47,
+    "question": "புயலின் கண் _____________ ஆகும்.",
+    "options": [
+      "கடலோரப் பகுதி",
+      "வெற்றிடம்",
+      "உயர் அழுத்த மண்டலம்",
+      "தாழ்வழுத்த மண்டலம்"
+    ],
+    "correct": 1,
+    "question_en": "The eye of the storm is _____________.",
+    "options_en": [
+      "Coastal area",
+      "void",
+      "High pressure zone",
+      "Low pressure zone"
+    ],
+    "explanation": "புயலின் கண் வெற்றிடம் ஆகும்.",
+    "explanation_en": "The eye of the storm is void."
+  }
+]

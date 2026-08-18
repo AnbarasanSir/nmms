@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n2\t3\t13\n4\t5\t41\n3\t4\t?",
+    "options": [
+      "7",
+      "21",
+      "25",
+      "44"
+    ],
+    "correct": 2,
+    "explanation": "2² + 3² = 4 + 9 = 13\n4² + 5² = 16 + 25 = 41\n3² + 4² = 9 + 16 = 25",
+    "question_en": "Given Number - Select the missing number from the array:\n\n2 3 13\n4 5 41\n3 4 ?",
+    "options_en": [
+      "7",
+      "21",
+      "25",
+      "44"
+    ],
+    "explanation_en": "2² + 3² = 4 + 9 = 13\n4² + 5² = 16 + 25 = 41\n3² + 4² = 9 + 16 = 25"
+  },
+  {
+    "id": 2,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n5\t7\t36\n11\t5\t64\n9\t1\t?",
+    "options": [
+      "30",
+      "50",
+      "40",
+      "25"
+    ],
+    "correct": 3,
+    "explanation": "(5 + 7) ÷ 2 = 6; 6² = 36\n(11 + 5) ÷ 2 = 8; 8² = 64\n(9 + 1) ÷ 2 = 5; 5² = 25",
+    "question_en": "Given Number - Select the missing number from the array:\n\n5 7 36\n11 5 64\n9 1 ?",
+    "options_en": [
+      "30",
+      "50",
+      "40",
+      "25"
+    ],
+    "explanation_en": "(5 + 7) ÷ 2 = 6; 6² = 36\n(11 + 5) ÷ 2 = 8; 8² = 64\n(9 + 1) ÷ 2 = 5; 5² = 25"
+  },
+  {
+    "id": 3,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n26\t32\t38\n13\t19\t25\n24\t?\t36",
+    "options": [
+      "30",
+      "36",
+      "38",
+      "51"
+    ],
+    "correct": 0,
+    "explanation": "(26 + 38) ÷ 2 = 32\n(13 + 25) ÷ 2 = 19\n(24 + 36) ÷ 2 = 30",
+    "question_en": "Given Number - Select the missing number from the array:\n\n26 32 38\n13 19 25\n24?\t36",
+    "options_en": [
+      "30",
+      "36",
+      "38",
+      "51"
+    ],
+    "explanation_en": "(26 + 38) ÷ 2 = 32\n(13 + 25) ÷ 2 = 19\n(24 + 36) ÷ 2 = 30"
+  },
+  {
+    "id": 4,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n9\t9\t9\n12\t6\t15\n14\t4\t?",
+    "options": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "correct": 3,
+    "explanation": "நிரல்களின் படி: \n1வது நிரல்: 9 + 3 = 12; 12 + 2 = 14\n2வது நிரல்: 9 - 3 = 6; 6 - 2 = 4\n3வது நிரல்: 9 + 6 = 15; 15 + 5 = 20",
+    "question_en": "Given Number - Select the missing number from the array:\n\n9 9 9\n12 6 15\n14 4 ?",
+    "options_en": [
+      "12",
+      "16",
+      "18",
+      "20"
+    ],
+    "explanation_en": "According to the programs: \n1st row: 9 + 3 = 12; 12 + 2 = 14\n2nd row: 9 - 3 = 6; 6 - 2 = 4\n3rd row: 9 + 6 = 15; 15 + 5 = 20"
+  },
+  {
+    "id": 5,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n25\t11\t6\n35\t29\t8\n46\t35\t?",
+    "options": [
+      "9",
+      "10",
+      "13",
+      "19"
+    ],
+    "correct": 0,
+    "explanation": "√(25 + 11) = √36 = 6\n√(35 + 29) = √64 = 8\n√(46 + 35) = √81 = 9",
+    "question_en": "Given Number - Select the missing number from the array:\n\n25 11 6\n35 29 8\n46 35 ?",
+    "options_en": [
+      "9",
+      "10",
+      "13",
+      "19"
+    ],
+    "explanation_en": "√(25 + 11) = √36 = 6\n√(35 + 29) = √64 = 8\n√(46 + 35) = √81 = 9"
+  },
+  {
+    "id": 6,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n20\t?\t40\n14\t5\t16\n24\t13\t36",
+    "options": [
+      "12",
+      "15",
+      "16",
+      "24"
+    ],
+    "correct": 2,
+    "explanation": "கீழிருந்து மேலாக:\n(24 - 14) x 2 = 20\n(13 - 5) x 2 = 16\n(36 - 16) x 2 = 40",
+    "question_en": "Given Number - Select the missing number from the array:\n\n20?\t40\n14 5 16\n24 13 36",
+    "options_en": [
+      "12",
+      "15",
+      "16",
+      "24"
+    ],
+    "explanation_en": "From bottom to top:\n(24 - 14) x 2 = 20\n(13 - 5) x 2 = 16\n(36 - 16) x 2 = 40"
+  },
+  {
+    "id": 7,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n15\t9\t13\n8\t4\t7\n?\t25\t36",
+    "options": [
+      "81",
+      "64",
+      "49",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "(15 - 8)² = 7² = 49\n(9 - 4)² = 5² = 25\n(13 - 7)² = 6² = 36",
+    "question_en": "Given Number - Select the missing number from the array:\n\n15 9 13\n8 4 7\n?\t25 36",
+    "options_en": [
+      "81",
+      "64",
+      "49",
+      "9"
+    ],
+    "explanation_en": "(15 - 8)² = 7² = 49\n(9 - 4)² = 5² = 25\n(13 - 7)² = 6² = 36"
+  },
+  {
+    "id": 8,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n8\t66\t7\n13\t124\t7\n17\t?\t9",
+    "options": [
+      "160",
+      "163",
+      "166",
+      "170"
+    ],
+    "correct": 3,
+    "explanation": "8 + 66 + 7 = 81 = 9²\n13 + 124 + 7 = 144 = 12²\n17 + 170 + 9 = 196 = 14² (விடுபட்ட எண் = 170)",
+    "question_en": "Given Number - Select the missing number from the array:\n\n8 66 7\n13 124 7\n17 ?\t9",
+    "options_en": [
+      "160",
+      "163",
+      "166",
+      "170"
+    ],
+    "explanation_en": "8 + 66 + 7 = 81 = 9²\n13 + 124 + 7 = 144 = 12²\n17 + 170 + 9 = 196 = 14² (missing number = 170)"
+  },
+  {
+    "id": 9,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n1\t2\t5\n9\t6\t?\n12\t10\t244",
+    "options": [
+      "93",
+      "117",
+      "123",
+      "129"
+    ],
+    "correct": 1,
+    "explanation": "1² + 2² = 1 + 4 = 5\n9² + 6² = 81 + 36 = 117\n12² + 10² = 144 + 100 = 244",
+    "question_en": "Given Number - Select the missing number from the array:\n\n1 2 5\n9 6 ?\n12 10 244",
+    "options_en": [
+      "93",
+      "117",
+      "123",
+      "129"
+    ],
+    "explanation_en": "1² + 2² = 1 + 4 = 5\n9² + 6² = 81 + 36 = 117\n12² + 10² = 144 + 100 = 244"
+  },
+  {
+    "id": 10,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n2\t5\t16\n4\t5\t?\n8\t5\t4",
+    "options": [
+      "8",
+      "19",
+      "32",
+      "2"
+    ],
+    "correct": 0,
+    "explanation": "√(8 x 2) = √16 = 4\n√(5 x 5) = √25 = 5\n√(4 x 16) = √64 = 8 (விடுபட்ட எண் = 8)",
+    "question_en": "Given Number - Select the missing number from the array:\n\n2 5 16\n4 5 ?\n8 5 4",
+    "options_en": [
+      "8",
+      "19",
+      "32",
+      "2"
+    ],
+    "explanation_en": "√(8 x 2) = √16 = 4\n√(5 x 5) = √25 = 5\n√(4 x 16) = √64 = 8 (missing number = 8)"
+  },
+  {
+    "id": 11,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n216\t343\t?\n2\t6\t2\n4\t1\t3",
+    "options": [
+      "125",
+      "228",
+      "112",
+      "218"
+    ],
+    "correct": 0,
+    "explanation": "(4 + 2)³ = 6³ = 216\n(1 + 6)³ = 7³ = 343\n(3 + 2)³ = 5³ = 125",
+    "question_en": "Given Number - Select the missing number from the array:\n\n216 343 ?\n2 6 2\n4 1 3",
+    "options_en": [
+      "125",
+      "228",
+      "112",
+      "218"
+    ],
+    "explanation_en": "(4 + 2)³ = 6³ = 216\n(1 + 6)³ = 7³ = 343\n(3 + 2)³ = 5³ = 125"
+  },
+  {
+    "id": 12,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n5\t8\t7\n11\t17\t15\n21\t33\t?",
+    "options": [
+      "25",
+      "26",
+      "28",
+      "29"
+    ],
+    "correct": 3,
+    "explanation": "5 x 2 = 10; 10 + 11 = 21\n8 x 2 = 16; 16 + 17 = 33\n7 x 2 = 14; 14 + 15 = 29",
+    "question_en": "Given Number - Select the missing number from the array:\n\n5 8 7\n11 17 15\n21 33 ?",
+    "options_en": [
+      "25",
+      "26",
+      "28",
+      "29"
+    ],
+    "explanation_en": "5 x 2 = 10; 10 + 11 = 21\n8 x 2 = 16; 16 + 17 = 33\n7 x 2 = 14; 14 + 15 = 29"
+  },
+  {
+    "id": 13,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n5\t11\t36\n11\t4\t125\n15\t?\t256",
+    "options": [
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "correct": 2,
+    "explanation": "5² + 11 = 25 + 11 = 36\n11² + 4 = 121 + 4 = 125\n15² + 31 = 225 + 31 = 256",
+    "question_en": "Given Number - Select the missing number from the array:\n\n5 11 36\n11 4 125\n15?\t256",
+    "options_en": [
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "explanation_en": "5² + 11 = 25 + 11 = 36\n11² + 4 = 121 + 4 = 125\n15² + 31 = 225 + 31 = 256"
+  },
+  {
+    "id": 14,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n6\t18\t24\n23\t73\t113\n11\t37\t?",
+    "options": [
+      "54",
+      "65",
+      "75",
+      "78"
+    ],
+    "correct": 1,
+    "explanation": "23 - (6 x 2) = 11\n73 - (18 x 2) = 37\n113 - (24 x 2) = 65",
+    "question_en": "Given Number - Select the missing number from the array:\n\n6 18 24\n23 73 113\n11 37 ?",
+    "options_en": [
+      "54",
+      "65",
+      "75",
+      "78"
+    ],
+    "explanation_en": "23 - (6 x 2) = 11\n73 - (18 x 2) = 37\n113 - (24 x 2) = 65"
+  },
+  {
+    "id": 15,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n4\t6\t8\n9\t?\t11\n14\t15\t16",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 3,
+    "explanation": "(4 + 8) ÷ 2 = 6\n(9 + 11) ÷ 2 = 10\n(14 + 16) ÷ 2 = 15",
+    "question_en": "Given Number - Select the missing number from the array:\n\n4 6 8\n9 ?\t11\n14 15 16",
+    "options_en": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation_en": "(4 + 8) ÷ 2 = 6\n(9 + 11) ÷ 2 = 10\n(14 + 16) ÷ 2 = 15"
+  },
+  {
+    "id": 16,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n12\t4\t24\n16\t5\t40\n18\t6\t?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "correct": 3,
+    "explanation": "(12 x 4) ÷ 2 = 24\n(16 x 5) ÷ 2 = 40\n(18 x 6) ÷ 2 = 54",
+    "question_en": "Given Number - Select the missing number from the array:\n\n12 4 24\n16 5 40\n18 6 ?",
+    "options_en": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "explanation_en": "(12 x 4) ÷ 2 = 24\n(16 x 5) ÷ 2 = 40\n(18 x 6) ÷ 2 = 54"
+  },
+  {
+    "id": 17,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n36\t64\t25\n49\t49\t27\n81\t?\t8",
+    "options": [
+      "30",
+      "36",
+      "46",
+      "48"
+    ],
+    "correct": 1,
+    "explanation": "36 + 64 + 25 = 125\n49 + 49 + 27 = 125\n81 + 36 + 8 = 125 (விடுபட்ட எண் = 36)",
+    "question_en": "Given Number - Select the missing number from the array:\n\n36 64 25\n49 49 27\n81 ?\t8",
+    "options_en": [
+      "30",
+      "36",
+      "46",
+      "48"
+    ],
+    "explanation_en": "36 + 64 + 25 = 125\n49 + 49 + 27 = 125\n81 + 36 + 8 = 125 (missing number = 36)"
+  },
+  {
+    "id": 18,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n6\t2\t32\n5\t3\t16\n7\t4\t?",
+    "options": [
+      "25",
+      "33",
+      "36",
+      "45"
+    ],
+    "correct": 1,
+    "explanation": "6² - 2² = 36 - 4 = 32\n5² - 3² = 25 - 9 = 16\n7² - 4² = 49 - 16 = 33",
+    "question_en": "Given Number - Select the missing number from the array:\n\n6 2 32\n5 3 16\n7 4 ?",
+    "options_en": [
+      "25",
+      "33",
+      "36",
+      "45"
+    ],
+    "explanation_en": "6² - 2² = 36 - 4 = 32\n5² - 3² = 25 - 9 = 16\n7² - 4² = 49 - 16 = 33"
+  },
+  {
+    "id": 19,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n9\t3\t18\n11\t7\t?\n20\t5\t45",
+    "options": [
+      "60",
+      "85",
+      "105",
+      "129"
+    ],
+    "correct": 0,
+    "explanation": "9 + 3² = 9 + 9 = 18\n11 + 7² = 11 + 49 = 60\n20 + 5² = 20 + 25 = 45",
+    "question_en": "Given Number - Select the missing number from the array:\n\n9 3 18\n11 7 ?\n20 5 45",
+    "options_en": [
+      "60",
+      "85",
+      "105",
+      "129"
+    ],
+    "explanation_en": "9 + 3² = 9 + 9 = 18\n11 + 7² = 11 + 49 = 60\n20 + 5² = 20 + 25 = 45"
+  },
+  {
+    "id": 20,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n6\t27\t4\n7\t59\t8\n5\t?\t9",
+    "options": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "correct": 3,
+    "explanation": "(6 x 4) + 3 = 27\n(7 x 8) + 3 = 59\n(5 x 9) + 3 = 48",
+    "question_en": "Given Number - Select the missing number from the array:\n\n6 27 4\n7 59 8\n5?\t9",
+    "options_en": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "explanation_en": "(6 x 4) + 3 = 27\n(7 x 8) + 3 = 59\n(5 x 9) + 3 = 48"
+  },
+  {
+    "id": 21,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n6\t3\t9\n8\t10\t4\n?\t109\t97",
+    "options": [
+      "90",
+      "100",
+      "101",
+      "116"
+    ],
+    "correct": 1,
+    "explanation": "6² + 8² = 36 + 64 = 100\n3² + 10² = 9 + 100 = 109\n9² + 4² = 81 + 16 = 97",
+    "question_en": "Given Number - Select the missing number from the array:\n\n6 3 9\n8 10 4\n?\t109 97",
+    "options_en": [
+      "90",
+      "100",
+      "101",
+      "116"
+    ],
+    "explanation_en": "6² + 8² = 36 + 64 = 100\n3² + 10² = 9 + 100 = 109\n9² + 4² = 81 + 16 = 97"
+  },
+  {
+    "id": 22,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n3\t6\t27\n6\t4\t72\n9\t10\t?",
+    "options": [
+      "109",
+      "405",
+      "415",
+      "425"
+    ],
+    "correct": 1,
+    "explanation": "3² x (6 ÷ 2) = 9 x 3 = 27\n6² x (4 ÷ 2) = 36 x 2 = 72\n9² x (10 ÷ 2) = 81 x 5 = 405",
+    "question_en": "Given Number - Select the missing number from the array:\n\n3 6 27\n6 4 72\n9 10 ?",
+    "options_en": [
+      "109",
+      "405",
+      "415",
+      "425"
+    ],
+    "explanation_en": "3² x (6 ÷ 2) = 9 x 3 = 27\n6² x (4 ÷ 2) = 36 x 2 = 72\n9² x (10 ÷ 2) = 81 x 5 = 405"
+  },
+  {
+    "id": 23,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n10\t4\t7\n5\t12\t8\n25\t?\t28",
+    "options": [
+      "24",
+      "23",
+      "22",
+      "21"
+    ],
+    "correct": 0,
+    "explanation": "(10 x 5) ÷ 2 = 25\n(4 x 12) ÷ 2 = 24\n(7 x 8) ÷ 2 = 28",
+    "question_en": "Given Number - Select the missing number from the array:\n\n10 4 7\n5 12 8\n25?\t28",
+    "options_en": [
+      "24",
+      "23",
+      "22",
+      "21"
+    ],
+    "explanation_en": "(10 x 5) ÷ 2 = 25\n(4 x 12) ÷ 2 = 24\n(7 x 8) ÷ 2 = 28"
+  },
+  {
+    "id": 24,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n5\t6\t8\n7\t8\t4\n5\t8\t?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 1,
+    "explanation": "5 + 6 + 8 = 19\n7 + 8 + 4 = 19\n5 + 8 + 6 = 19 (விடுபட்ட எண் = 6)",
+    "question_en": "Given Number - Select the missing number from the array:\n\n5 6 8\n7 8 4\n5 8 ?",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation_en": "5 + 6 + 8 = 19\n7 + 8 + 4 = 19\n5 + 8 + 6 = 19 (missing number = 6)"
+  },
+  {
+    "id": 25,
+    "question": "கொடுக்கப்பட்ட எண் - அணியிலிருந்து விடுபட்ட எண்ணைத் தேர்ந்தெடு:\n\n8\t18\t15\n3\t4\t6\n12\t36\t?",
+    "options": [
+      "21",
+      "45",
+      "72",
+      "90"
+    ],
+    "correct": 1,
+    "explanation": "(8 x 3) ÷ 2 = 12\n(18 x 4) ÷ 2 = 36\n(15 x 6) ÷ 2 = 45",
+    "question_en": "Given Number - Select the missing number from the array:\n\n8 18 15\n3 4 6\n12 36 ?",
+    "options_en": [
+      "21",
+      "45",
+      "72",
+      "90"
+    ],
+    "explanation_en": "(8 x 3) ÷ 2 = 12\n(18 x 4) ÷ 2 = 36\n(15 x 6) ÷ 2 = 45"
+  }
+]

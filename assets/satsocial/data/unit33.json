@@ -1,0 +1,922 @@
+[
+  {
+    "id": 1,
+    "question": "பருத்தி உற்பத்தியின் பிறப்பிடம் இந்தியா என்று கூறியவர் ________.",
+    "options": [
+      "தவர்னியர்",
+      "எட்வர்ட் பெயின்ஸ்",
+      "ஷாஜஹான்",
+      "பெர்னியர்"
+    ],
+    "correct": 1,
+    "question_en": "India was the origin of cotton production by ________.",
+    "options_en": [
+      "Tavernier",
+      "Edward Baines",
+      "Shah Jahan",
+      "Bernier"
+    ],
+    "explanation": "பருத்தி உற்பத்தியின் பிறப்பிடம் இந்தியா என்று கூறியவர் எட்வர்ட் பெயின்ஸ்.",
+    "explanation_en": "India was the origin of cotton production by Edward Baines."
+  },
+  {
+    "id": 2,
+    "question": "முகலாயப் பேரரசர் ஷாஜகான் ஆட்சியின்போது இந்தியாவிற்கு வருகை தந்த பிரெஞ்சு நாட்டு பயணி ________.",
+    "options": [
+      "பெர்னியர்",
+      "தவர்னியர்",
+      "எட்வர்ட் பெயின்ஸ்",
+      "மெக்காலே"
+    ],
+    "correct": 0,
+    "question_en": "A French traveler who visited India during the reign of Mughal Emperor Shah Jahan ________.",
+    "options_en": [
+      "Bernier",
+      "Tavernier",
+      "Edward Baines",
+      "Macaulay"
+    ],
+    "explanation": "முகலாயப் பேரரசர் ஷாஜகான் ஆட்சியின்போது இந்தியாவிற்கு வருகை தந்த பிரெஞ்சு நாட்டு பயணி பெர்னியர்.",
+    "explanation_en": "A French traveler who visited India during the reign of Mughal Emperor Shah Jahan Bernier."
+  },
+  {
+    "id": 3,
+    "question": "________ இந்திய மக்களின் வாழ்க்கையில் ஓர் ஒருங்கிணைந்த பகுதியாக இருந்தது.",
+    "options": [
+      "ஆடைகள் தயாரிப்பு",
+      "சணல் தயாரிப்பு",
+      "கைவினைப்பொருட்கள்",
+      "இரும்பு உருக்குதல்"
+    ],
+    "correct": 2,
+    "question_en": "________ was an integral part of Indian people's life.",
+    "options_en": [
+      "Manufacture of garments",
+      "Jute production",
+      "Handicrafts",
+      "Iron smelting"
+    ],
+    "explanation": "கைவினைப்பொருட்கள் இந்திய மக்களின் வாழ்க்கையில் ஓர் ஒருங்கிணைந்த பகுதியாக இருந்தது.",
+    "explanation_en": "Handicrafts was an integral part of Indian people's life."
+  },
+  {
+    "id": 4,
+    "question": "பின்வருவனவற்றில் மக்களின் எந்தச் செயல்பாடுகள் கைகளில் சாராதவை?",
+    "options": [
+      "கல்லில் இருந்து சிலையைச் செதுக்குதல்",
+      "கண்ணாடி வளையல் உருவாக்குதல்",
+      "பட்டு சேலை நெய்தல்",
+      "இரும்பை உருக்குதல்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following human activities are non-manual?",
+    "options_en": [
+      "Carving an idol from stone",
+      "Making a glass bangle",
+      "Silk saree weaving",
+      "Smelting of iron"
+    ],
+    "explanation": "இரும்பை உருக்குதல்",
+    "explanation_en": "Smelting of iron"
+  },
+  {
+    "id": 5,
+    "question": "________ தொழில் இந்தியாவின் பழமையான தொழில் ஆகும்.",
+    "options": [
+      "நெசவு",
+      "எஃகு",
+      "மின்சக்தி",
+      "உரங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "________ industry is the oldest industry in India.",
+    "options_en": [
+      "Weaving",
+      "Steel",
+      "power",
+      "Fertilizers"
+    ],
+    "explanation": "நெசவு தொழில் இந்தியாவின் பழமையான தொழில் ஆகும்.",
+    "explanation_en": "Weaving industry is the oldest industry in India."
+  },
+  {
+    "id": 6,
+    "question": "பருத்தி மற்றும் பட்டு ஆடைகளில் சிறந்த தரத்திற்கு பிரபலமான நாடு ________.",
+    "options": [
+      "அமெரிக்கா",
+      "இங்கிலாந்து",
+      "இந்தியா",
+      "ரஷ்யா"
+    ],
+    "correct": 2,
+    "question_en": "The country is famous for the best quality of cotton and silk clothes ________.",
+    "options_en": [
+      "America",
+      "England",
+      "India",
+      "Russia"
+    ],
+    "explanation": "பருத்தி மற்றும் பட்டு ஆடைகளில் சிறந்த தரத்திற்கு பிரபலமான நாடு இந்தியா.",
+    "explanation_en": "The country is famous for the best quality of cotton and silk clothes India."
+  },
+  {
+    "id": 7,
+    "question": "மணி தயாரிக்கப் பயன்படும் வெண்கல உலோகத்திற்கு புகழ்பெற்ற நகரம் ________.",
+    "options": [
+      "டாக்கா",
+      "சௌராஷ்டிரா",
+      "வங்காளம்",
+      "சென்னை"
+    ],
+    "correct": 1,
+    "question_en": "________ is a city famous for its bronze metal used for making bells.",
+    "options_en": [
+      "Dhaka",
+      "Saurashtra",
+      "Bengal",
+      "Chennai"
+    ],
+    "explanation": "மணி தயாரிக்கப் பயன்படும் வெண்கல உலோகத்திற்கு புகழ்பெற்ற நகரம் சௌராஷ்டிரா.",
+    "explanation_en": "Saurashtra is a city famous for its bronze metal used for making bells."
+  },
+  {
+    "id": 8,
+    "question": "தகர தொழிற்சாலைக்கு புகழ்பெற்ற நகரம் ________.",
+    "options": [
+      "டாக்கா",
+      "சென்னை",
+      "பம்பாய்",
+      "வங்காளம்"
+    ],
+    "correct": 3,
+    "question_en": "The city is famous for its tin factory ________.",
+    "options_en": [
+      "Dhaka",
+      "Chennai",
+      "Bombay",
+      "Bengal"
+    ],
+    "explanation": "தகர தொழிற்சாலைக்கு புகழ்பெற்ற நகரம் வங்காளம்.",
+    "explanation_en": "The city is famous for its tin factory Bengal."
+  },
+  {
+    "id": 9,
+    "question": "மஸ்லின் ஆடைகளுக்கு புகழ்பெற்ற நகரம் ________.",
+    "options": [
+      "டாக்கா",
+      "சென்னை",
+      "சௌராஷ்டிரா",
+      "வங்காளம்"
+    ],
+    "correct": 0,
+    "question_en": "The city famous for muslin dresses is ________.",
+    "options_en": [
+      "Dhaka",
+      "Chennai",
+      "Saurashtra",
+      "வங்காளம்"
+    ],
+    "explanation": "மஸ்லின் ஆடைகளுக்கு புகழ்பெற்ற நகரம் டாக்கா.",
+    "explanation_en": "The city famous for muslin dresses is Dhaka."
+  },
+  {
+    "id": 10,
+    "question": "ஒரு தீப்பெட்டிக்குள் எத்தனை மீட்டர் மஸ்லின் துணியை வைக்கலாம்?",
+    "options": [
+      "60 மீட்டர்",
+      "40 மீட்டர்",
+      "30 மீட்டர்",
+      "50 மீட்டர்"
+    ],
+    "correct": 3,
+    "question_en": "How many meters of muslin cloth can be put in a matchbox?",
+    "options_en": [
+      "60 meters",
+      "40 meters",
+      "30 meters",
+      "50 meters"
+    ],
+    "explanation": "50 மீட்டர்",
+    "explanation_en": "50 meters meters of muslin cloth can be put in a matchbox."
+  },
+  {
+    "id": 11,
+    "question": "எகிப்திய கல்லறைகளில் உள்ள மம்மிகள் மீது சுற்றப்பட்டிருக்கும் ஆடையின் வகை ________.",
+    "options": [
+      "நைலான்",
+      "மஸ்லீன் (பருத்தி)",
+      "பட்டு",
+      "கம்பளி"
+    ],
+    "correct": 1,
+    "question_en": "The type of clothing draped over mummies in Egyptian tombs is ________.",
+    "options_en": [
+      "Nylon",
+      "Muslin (Cotton)",
+      "Silk",
+      "Wool"
+    ],
+    "explanation": "எகிப்திய கல்லறைகளில் உள்ள மம்மிகள் மீது சுற்றப்பட்டிருக்கும் ஆடையின் வகை மஸ்லீன் (பருத்தி).",
+    "explanation_en": "The type of clothing draped over mummies in Egyptian tombs is Muslin (Cotton)."
+  },
+  {
+    "id": 12,
+    "question": "கம்பளி மற்றும் தோல் தொழிற்சாலைகள் காணப்படும் முக்கிய இடம் ________.",
+    "options": [
+      "பம்பாய்",
+      "அகமதாபாத்",
+      "கான்பூர்",
+      "டாக்கா"
+    ],
+    "correct": 2,
+    "question_en": "The main place where woolen and leather industries are found is ________.",
+    "options_en": [
+      "பம்பாய்",
+      "Ahmedabad",
+      "Kanpur",
+      "Dhaka"
+    ],
+    "explanation": "கம்பளி மற்றும் தோல் தொழிற்சாலைகள் காணப்படும் முக்கிய இடம் கான்பூர்.",
+    "explanation_en": "The main place where woolen and leather industries are found is Kanpur."
+  },
+  {
+    "id": 13,
+    "question": "செல்வச் சுரண்டல் கோட்பாட்டை முதலில் ஏற்றுக்கொண்டவர் ________.",
+    "options": [
+      "தாதாபாய் நௌரோஜி",
+      "பெர்னியர்",
+      "தவர்னியர்",
+      "ஷாஜஹான்"
+    ],
+    "correct": 0,
+    "question_en": "The first to adopt the theory of wealth exploitation was ________.",
+    "options_en": [
+      "Dadabhai Naoroji",
+      "Bernier",
+      "Tavernier",
+      "Shah Jahan"
+    ],
+    "explanation": "செல்வச் சுரண்டல் கோட்பாட்டை முதலில் ஏற்றுக்கொண்டவர் தாதாபாய் நௌரோஜி.",
+    "explanation_en": "The first to adopt the theory of wealth exploitation was Dadabhai Naoroji."
+  },
+  {
+    "id": 14,
+    "question": "அஸ்ஸாம் தேயிலை நிறுவனம் தொடங்கப்பட்ட ஆண்டு ________.",
+    "options": [
+      "1840",
+      "1839",
+      "1849",
+      "1829"
+    ],
+    "correct": 1,
+    "question_en": "Assam Tea Company was established in ________.",
+    "options_en": [
+      "1840",
+      "1839",
+      "1849",
+      "1829"
+    ],
+    "explanation": "அஸ்ஸாம் தேயிலை நிறுவனம் தொடங்கப்பட்ட ஆண்டு 1839.",
+    "explanation_en": "Assam Tea Company was established in 1839."
+  },
+  {
+    "id": 15,
+    "question": "கிழக்கிந்திய பகுதிகளில் மிக முக்கியமான தொழில் ________.",
+    "options": [
+      "சணல்",
+      "இரும்பு உருக்குதல்",
+      "தேயிலை",
+      "உரங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "The most important industry in the East Indies is ________.",
+    "options_en": [
+      "Hemp",
+      "Iron smelting",
+      "Tea",
+      "Fertilizers"
+    ],
+    "explanation": "கிழக்கிந்திய பகுதிகளில் மிக முக்கியமான தொழில் தேயிலை.",
+    "explanation_en": "The most important industry in the East Indies is Tea."
+  },
+  {
+    "id": 16,
+    "question": "பம்பாயில் பருத்தி நூற்பு ஆலை நிறுவிய ஆண்டு ________.",
+    "options": [
+      "1754",
+      "1954",
+      "1864",
+      "1854"
+    ],
+    "correct": 3,
+    "question_en": "Cotton Spinning Mill was established in Bombay in ________.",
+    "options_en": [
+      "1754",
+      "1954",
+      "1864",
+      "1854"
+    ],
+    "explanation": "பம்பாயில் பருத்தி நூற்பு ஆலை நிறுவிய ஆண்டு 1854.",
+    "explanation_en": "Cotton Spinning Mill was established in Bombay in 1854."
+  },
+  {
+    "id": 17,
+    "question": "1854 ஆம் ஆண்டு பருத்தி நூற்பு ஆலை நிறுவிய இடம் ________.",
+    "options": [
+      "பம்பாய்",
+      "சென்னை",
+      "டெல்லி",
+      "கல்கத்தா"
+    ],
+    "correct": 0,
+    "question_en": "In 1854 cotton spinning mill was established at ________.",
+    "options_en": [
+      "Bombay",
+      "Chennai",
+      "Delhi",
+      "Calcutta"
+    ],
+    "explanation": "1854 ஆம் ஆண்டு பருத்தி நூற்பு ஆலை நிறுவிய இடம் பம்பாய்.",
+    "explanation_en": "In 1854 cotton spinning mill was established at Bombay."
+  },
+  {
+    "id": 18,
+    "question": "கொல்கத்தா அருகில் உள்ள ஹூக்ளி பள்ளத்தாக்கில் ________ என்ற இடத்தில் சணல் தொழிலகம் ஆரம்பிக்கப்பட்டது.",
+    "options": [
+      "ஜாம்ஷெட்பூர்",
+      "ரிஷ்ரா",
+      "சூரத்",
+      "பாலிகன்ஜ்"
+    ],
+    "correct": 1,
+    "question_en": "A jute industry was started at ________ in the Hooghly valley near Kolkata.",
+    "options_en": [
+      "Jamshedpur",
+      "Rishra",
+      "சூரத்",
+      "Ballygunge"
+    ],
+    "explanation": "கொல்கத்தா அருகில் உள்ள ஹூக்ளி பள்ளத்தாக்கில் ரிஷ்ரா என்ற இடத்தில் சணல் தொழிலகம் ஆரம்பிக்கப்பட்டது.",
+    "explanation_en": "A jute industry was started at Rishra in the Hooghly valley near Kolkata."
+  },
+  {
+    "id": 19,
+    "question": "________ ஆண்டு கல்கத்தாவிற்கு அருகில் பாலிகன்ஜ் என்ற இடத்தில் காகித ஆலை தொடங்கப்பட்டது.",
+    "options": [
+      "1970",
+      "1670",
+      "1870",
+      "1570"
+    ],
+    "correct": 2,
+    "question_en": "A paper mill was started at Ballyganj near Calcutta in the year ________.",
+    "options_en": [
+      "1970",
+      "1670",
+      "1870",
+      "1570"
+    ],
+    "explanation": "1870 ஆண்டு கல்கத்தாவிற்கு அருகில் பாலிகன்ஜ் என்ற இடத்தில் காகித ஆலை தொடங்கப்பட்டது.",
+    "explanation_en": "A paper mill was started at Ballyganj near Calcutta in the year 1870."
+  },
+  {
+    "id": 20,
+    "question": "பருத்தி ஆலைகள் அதிகமாக தொடங்கப்பட்ட மாநிலங்கள் ________.",
+    "options": [
+      "கான்பூர் மற்றும் சென்னை",
+      "டெல்லி மற்றும் கல்கத்தா",
+      "பம்பாய் மற்றும் அகமதாபாத்",
+      "கான்பூர் மற்றும் டெல்லி"
+    ],
+    "correct": 2,
+    "question_en": "States where most cotton mills were started are ________.",
+    "options_en": [
+      "Kanpur and Chennai",
+      "Delhi and Calcutta",
+      "Bombay and Ahmedabad",
+      "Kanpur and Delhi"
+    ],
+    "explanation": "பருத்தி ஆலைகள் அதிகமாக தொடங்கப்பட்ட மாநிலங்கள் பம்பாய் மற்றும் அகமதாபாத்.",
+    "explanation_en": "States where most cotton mills were started are Bombay and Ahmedabad."
+  },
+  {
+    "id": 21,
+    "question": "கீழ்க்கண்டவற்றில் கனரக தொழில்களில் எவை அடங்கும்?",
+    "options": [
+      "இரும்பு மற்றும் எஃகு",
+      "நெசவு",
+      "தகரம்",
+      "தேயிலை"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following are heavy industries?",
+    "options_en": [
+      "Iron and steel",
+      "Weaving",
+      "Tin",
+      "Tea"
+    ],
+    "explanation": "இரும்பு மற்றும் எஃகு",
+    "explanation_en": "Iron and steel are heavy industries."
+  },
+  {
+    "id": 22,
+    "question": "1874 ஆம் ஆண்டு ________ என்ற இடத்தில் முதன்முறையாக நவீன முறையில் எஃகு தயாரிக்கப்பட்டது.",
+    "options": [
+      "ரிஷ்ரா",
+      "ஜாம்ஷெட்பூர்",
+      "குல்டி",
+      "பாலிகன்ஜ்"
+    ],
+    "correct": 2,
+    "question_en": "In 1874, the first modern steel was produced at ________.",
+    "options_en": [
+      "Rishra",
+      "Jamshedpur",
+      "Guldi",
+      "Ballygunge"
+    ],
+    "explanation": "1874 ஆம் ஆண்டு குல்டி என்ற இடத்தில் முதன்முறையாக நவீன முறையில் எஃகு தயாரிக்கப்பட்டது.",
+    "explanation_en": "In 1874, the first modern steel was produced at Guldi."
+  },
+  {
+    "id": 23,
+    "question": "இந்தியாவில் மிகப்பெரிய அளவில் எஃகு உற்பத்தியை மேம்படுத்திய பெருமைக்குரியவர் ________ ஆவார்.",
+    "options": [
+      "ஜாம்ஷெட்ஜி டாடா",
+      "தவர்னியர்",
+      "பெர்னியர்",
+      "அம்பானி"
+    ],
+    "correct": 0,
+    "question_en": "________ is credited with developing steel production on a large scale in India.",
+    "options_en": [
+      "Jamshedji Tata",
+      "Tavernier",
+      "Bernier",
+      "Ambani"
+    ],
+    "explanation": "இந்தியாவில் மிகப்பெரிய அளவில் எஃகு உற்பத்தியை மேம்படுத்திய பெருமைக்குரியவர் ஜாம்ஷெட்ஜி டாடா ஆவார்.",
+    "explanation_en": "Jamshedji Tata is credited with developing steel production on a large scale in India."
+  },
+  {
+    "id": 24,
+    "question": "1907 ஆம் ஆண்டு என்ற ________ இடத்தில் டாட்டா இரும்பு மற்றும் எஃகு நிறுவனம் அமைக்கப்பட்டது.",
+    "options": [
+      "ரிஷ்ரா",
+      "குல்டி",
+      "ஜாம்ஷெட்பூர்",
+      "கான்பூர்"
+    ],
+    "correct": 2,
+    "question_en": "Tata Iron and Steel Company was established in 1907 at ________.",
+    "options_en": [
+      "Rishra",
+      "Guldi",
+      "Jamshedpur",
+      "Kanpur"
+    ],
+    "explanation": "1907 ஆம் ஆண்டு என்ற ஜாம்ஷெட்பூர் இடத்தில் டாட்டா இரும்பு மற்றும் எஃகு நிறுவனம் அமைக்கப்பட்டது.",
+    "explanation_en": "Tata Iron and Steel Company was established in 1907 at Jamshedpur."
+  },
+  {
+    "id": 25,
+    "question": "TISCO நிறுவனம் 1911 ஆம் ஆண்டு ________ உற்பத்தி செய்தது.",
+    "options": [
+      "தகரம்",
+      "வார்ப்பு கட்டி",
+      "சணல்",
+      "தேனிரும்பு"
+    ],
+    "correct": 3,
+    "question_en": "TISCO company produced ________ in 1911.",
+    "options_en": [
+      "Tin",
+      "Casting block",
+      "Hemp",
+      "honey"
+    ],
+    "explanation": "TISCO நிறுவனம் 1911 ஆம் ஆண்டு தேனிரும்பு உற்பத்தி செய்தது.",
+    "explanation_en": "TISCO company produced honey in 1911."
+  },
+  {
+    "id": 26,
+    "question": "TISCO நிறுவனம் 1912 ஆம் ஆண்டு ________ உற்பத்தி செய்தது.",
+    "options": [
+      "உலோக வார்ப்புக் கட்டிகள்",
+      "தகரம்",
+      "தேனிரும்பு",
+      "சணல்"
+    ],
+    "correct": 0,
+    "question_en": "TISCO company produced ________ in 1912.",
+    "options_en": [
+      "Metal castings",
+      "Tin",
+      "honey",
+      "Hemp"
+    ],
+    "explanation": "TISCO நிறுவனம் 1912 ஆம் ஆண்டு உலோக வார்ப்புக் கட்டிகள் உற்பத்தி செய்தது.",
+    "explanation_en": "TISCO company produced Metal castings in 1912."
+  },
+  {
+    "id": 27,
+    "question": "________ ஐரோப்பாவிற்கும் இந்தியாவிற்கும் இடையே தூரத்தைக் குறைத்தது.",
+    "options": [
+      "ஹூக்ளி பள்ளத்தாக்கு",
+      "சூயஸ் கால்வாய்",
+      "ரிஷ்ரா",
+      "ஜாம்ஷெட்பூர்"
+    ],
+    "correct": 1,
+    "question_en": "________ reduced the distance between Europe and India.",
+    "options_en": [
+      "Hooghly Valley",
+      "Suez Canal",
+      "Rishra",
+      "Jamshedpur"
+    ],
+    "explanation": "சூயஸ் கால்வாய் ஐரோப்பாவிற்கும் இந்தியாவிற்கும் இடையே தூரத்தைக் குறைத்தது.",
+    "explanation_en": "Suez Canal reduced the distance between Europe and India."
+  },
+  {
+    "id": 28,
+    "question": "________ இயக்கத்தின் விளைவாக பருத்தி ஆலைகள் 194 இருந்து 273 ஆகவும் சணல் ஆலைகள் 36 லிருந்து 64 ஆகவும் அதிகரித்தன.",
+    "options": [
+      "தொழிற்புரட்சி",
+      "சுதேசி",
+      "மக்கள்",
+      "சோஷலிச"
+    ],
+    "correct": 1,
+    "question_en": "Cotton mills increased from 194 to 273 and jute mills from 36 to 64 as a result of the ________ movement.",
+    "options_en": [
+      "industrial revolution",
+      "Swadeshi",
+      "People",
+      "Socialist"
+    ],
+    "explanation": "சுதேசி இயக்கத்தின் விளைவாக பருத்தி ஆலைகள் 194 இருந்து 273 ஆகவும் சணல் ஆலைகள் 36 லிருந்து 64 ஆகவும் அதிகரித்தன.",
+    "explanation_en": "Cotton mills increased from 194 to 273 and jute mills from 36 to 64 as a result of the Swadeshi movement."
+  },
+  {
+    "id": 29,
+    "question": "CII ன் ஆங்கில விரிவாக்கம் ________.",
+    "options": [
+      "CONFIDENTIAL OF INDIAN INSTITUTE",
+      "CONSUMER OF INDIAN INDUSTRY",
+      "CONFEDERATION OF INDIAN INSTITUTE",
+      "CONFEDERATION OF INDIAN INDUSTRY"
+    ],
+    "correct": 3,
+    "question_en": "The English extension of CII is ________.",
+    "options_en": [
+      "CONFIDENTIAL OF INDIAN INSTITUTE",
+      "CONSUMER OF INDIAN INDUSTRY",
+      "CONFEDERATION OF INDIAN INSTITUTE",
+      "CONFEDERATION OF INDIAN INDUSTRY"
+    ],
+    "explanation": "CII ன் ஆங்கில விரிவாக்கம் CONFEDERATION OF INDIAN INDUSTRY.",
+    "explanation_en": "The English extension of CII is CONFEDERATION OF INDIAN INDUSTRY."
+  },
+  {
+    "id": 30,
+    "question": "இந்திய தொழில்துறை கூட்டமைப்பு ________ ஆண்டு நிறுவப்பட்டது.",
+    "options": [
+      "1975",
+      "1985",
+      "1995",
+      "1885"
+    ],
+    "correct": 1,
+    "question_en": "Confederation of Indian Industry was established in the year ________.",
+    "options_en": [
+      "1975",
+      "1985",
+      "1995",
+      "1885"
+    ],
+    "explanation": "இந்திய தொழில்துறை கூட்டமைப்பு 1985 ஆண்டு நிறுவப்பட்டது.",
+    "explanation_en": "Confederation of Indian Industry was established in the year 1985."
+  },
+  {
+    "id": 31,
+    "question": "இந்திய தொழில்துறை கூட்டமைப்பில் உள்ள உறுப்பினர்களின் மொத்த எண்ணிக்கை ________.",
+    "options": [
+      "70000",
+      "8000",
+      "90000",
+      "9000"
+    ],
+    "correct": 3,
+    "question_en": "The total number of members in Confederation of Indian Industry is ________.",
+    "options_en": [
+      "70000",
+      "8000",
+      "90000",
+      "9000"
+    ],
+    "explanation": "இந்திய தொழில்துறை கூட்டமைப்பில் உள்ள உறுப்பினர்களின் மொத்த எண்ணிக்கை 9000.",
+    "explanation_en": "The total number of members in Confederation of Indian Industry is 9000."
+  },
+  {
+    "id": 32,
+    "question": "இந்தியாவின் முதல் மூன்று, ஐந்தாண்டு திட்டங்களின் முக்கிய நோக்கமாக இருந்தது என்ன?",
+    "options": [
+      "மக்கள் தொகை வளர்ச்சியைக் கட்டுப்படுத்துதல்",
+      "எழுத்தறிவின்மையைக் குறைத்தல்",
+      "வலுவான தொழில்துறைத் தளத்தை உருவாக்குதல்",
+      "பெண்களுக்கு அதிகாரமளித்தல்"
+    ],
+    "correct": 2,
+    "question_en": "What was the main objective of India's first three and five year plans?",
+    "options_en": [
+      "Controlling population growth",
+      "Reducing illiteracy",
+      "Building a strong industrial base",
+      "Empowerment of women"
+    ],
+    "explanation": "வலுவான தொழில்துறைத் தளத்தை உருவாக்குதல்",
+    "explanation_en": "Building a strong industrial base"
+  },
+  {
+    "id": 33,
+    "question": "இந்தியாவில் தொழில்மயம் அழிதலுக்கு காரணம் அல்லாதது எது?",
+    "options": [
+      "ஆட்சியாளர்கள் ஆதரவின்மை",
+      "இயந்திரத்தால் தயாரிக்கப்பட்ட பொருட்களின் போட்டி",
+      "இந்தியாவின் தொழில்துறைக் கொள்கை",
+      "பிரிட்டிஷாரின் வர்த்தக கொள்கை"
+    ],
+    "correct": 2,
+    "question_en": "Which was not the reason for the destruction of industrialization in India?",
+    "options_en": [
+      "Rulers lack of support",
+      "Competition of machine-made products",
+      "Industrial Policy of India",
+      "British trade policy"
+    ],
+    "explanation": "இந்தியாவில் தொழில்மயம் அழிதலுக்கு காரணம் அல்லாதது இந்தியாவின் தொழில்துறைக் கொள்கை ஆகும்.",
+    "explanation_en": "Industrial Policy of India"
+  },
+  {
+    "id": 34,
+    "question": "பொருத்துக\ni. தவர்னியர் - a. செல்வச் சுரண்டல் கோட்பாடு\nii. டாக்கா - b. காகித ஆலை\niii. தாதாபாய் நௌரோஜி - c. பிரெஞ்சு பயணி\niv. பாலிகன்ஜ் - d. மஸ்லின் துணி",
+    "options": [
+      "i – c, ii – d, iii – a, iv – b",
+      "i – b, ii – a, iii – d, iv – c",
+      "i – d, ii – b, iii – c, iv – a",
+      "i – a, ii – c, iii – b, iv – d"
+    ],
+    "correct": 0,
+    "question_en": "match\ni. Tavernier - a. Theory of wealth exploitation\nii. Dhaka - b. Paper mill\niii. Dadabai Naoroji - c. French traveller\niv. Ballygunj - d. Muslin cloth",
+    "options_en": [
+      "i – c, ii – d, iii – a, iv – b",
+      "i – b, ii – a, iii – d, iv – c",
+      "i – d, ii – b, iii – c, iv – a",
+      "i – a, ii – c, iii – b, iv – d"
+    ],
+    "explanation": "i – c, ii – d, iii – a, iv – b",
+    "explanation_en": "i – c, ii – d, iii – a, iv – b"
+  },
+  {
+    "id": 35,
+    "question": "சரியான கூற்றை கண்டுபிடி\n(i) எட்வர்ட் பெயின்ஸ் கருத்துப்படி பருத்தி உற்பத்தியின் பிறப்பிடம் இங்கிலாந்து.\n(ii) இயந்திர மயமாக்கப்பட்ட தொழிற்சாலைக்கு முன்னால் இந்தியாவில் கிராம கைவினை தொழில் இரண்டாவது பெரிய தொழிற்சாலையாக அமைந்தது.\n(iii) சௌராஷ்டிரா தகர தொழிற்சாலைக்கு பெயர் பெற்றது.\n(iv) சூயஸ் கால்வாய் கட்டப்பட்டதால் இந்தியாவில் பிரிட்டிஷாரின் பொருட்கள் மலிவாக கிடைக்க வழிவகை உருவானது.",
+    "options": [
+      "(i) மற்றும் (ii) சரி",
+      "(ii) மற்றும் (iv) சரி",
+      "(iii) மற்றும் (iv) சரி",
+      "(i), (ii) மற்றும் (iii) சரி"
+    ],
+    "correct": 1,
+    "question_en": "Find the correct statement\n(i) England was the origin of cotton production according to Edward Baines.\n(ii) Village handicraft industry became the second largest industry in India ahead of mechanized industry.\n(iii) Saurashtra is known for tin industry.\n(iv) The construction of the Suez Canal enabled cheap access to British goods in India.",
+    "options_en": [
+      "(i) and (ii) are correct",
+      "(ii) and (iv) are correct",
+      "(iii) and (iv) are correct",
+      "(i), (ii) and (iii) are correct"
+    ],
+    "explanation": "(ii) மற்றும் (iv) சரி",
+    "explanation_en": "(ii) and (iv) are correct"
+  },
+  {
+    "id": 36,
+    "question": "கூற்று: இந்திய கைவினைஞர்கள் பிரிட்டிஷாரின் காலனி ஆதிக்கத்தில் நலிவுற்றனர்.\nகாரணம்: பிரிட்டிஷார் இந்தியாவை தனது மூலப்பொருள் தயாரிப்பாளராகவும் முடிவுற்ற பொருட்களுக்கான சந்தையாகவும் கருதினர்.",
+    "options": [
+      "கூற்று சரி. காரணம் கூற்றுக்கான விளக்கம்",
+      "கூற்று சரி. ஆனால் கூற்றுக்கான காரணம் சரியாக விளக்கவில்லை.",
+      "கூற்றும் காரணமும் சரி",
+      "கூற்றும் காரணமும் தவறானவை."
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Indian artisans languished under British colonial rule.\nReason: The British considered India as a producer of raw materials and a market for finished goods.",
+    "options_en": [
+      "The statement is correct. Explanation of reason statement",
+      "The statement is correct. But the reason for the claim is not well explained.",
+      "The statement and reason are correct",
+      "Both the statement and the reason are false."
+    ],
+    "explanation": "கூற்று சரி. காரணம் கூற்றுக்கான விளக்கம்",
+    "explanation_en": "The statement is correct. Explanation of reason statement"
+  },
+  {
+    "id": 37,
+    "question": "பின்வருவனவற்றுள் சரியாக பொருந்தாதது ஒன்று எது?",
+    "options": [
+      "பெர்னியர் - ஷாஜகான்",
+      "பருத்தி ஆலை - அகமதாபாத்",
+      "TISCO - ஜாம்ஷெட்பூர்",
+      "பொருளாதார தாராளமயமாக்கல் - 1980"
+    ],
+    "correct": 3,
+    "question_en": "Which one of the following is not correct?",
+    "options_en": [
+      "Bernier - Shahjahan",
+      "Cotton Mill - Ahmedabad",
+      "TISCO - Jamshedpur",
+      "Economic Liberalization – 1980"
+    ],
+    "explanation": "பின்வருவனவற்றுள் சரியாக பொருந்தாதது ஒன்று பொருளாதார தாராளமயமாக்கல் - 1980 ஆகும்.",
+    "explanation_en": "Economic Liberalization – 1980"
+  },
+  {
+    "id": 38,
+    "question": "இந்தியா மின்சார உற்பத்தியில் ஆசிய நாடுகளில் ________ மிகப்பெரிய நாடாக உருவாகி உள்ளது.",
+    "options": [
+      "ஒன்றாவது",
+      "இரண்டாவது",
+      "மூன்றாவது",
+      "நான்காவது"
+    ],
+    "correct": 2,
+    "question_en": "India has emerged as the ________ largest country in power generation in Asia.",
+    "options_en": [
+      "For one thing",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "explanation": "இந்தியா மின்சார உற்பத்தியில் ஆசிய நாடுகளில் மூன்றாவது மிகப்பெரிய நாடாக உருவாகி உள்ளது.",
+    "explanation_en": "India has emerged as the Third largest country in power generation in Asia."
+  },
+  {
+    "id": 39,
+    "question": "புகழ்பெற்ற ________ காலனித்துவ ஆட்சியில் சீர்குலைந்தன.",
+    "options": [
+      "பட்டுத் தொழில்",
+      "கைவினைப்பொருட்கள்",
+      "இரும்பு உருக்குதல்",
+      "சணல்"
+    ],
+    "correct": 1,
+    "question_en": "Famous ________ were disrupted under colonial rule.",
+    "options_en": [
+      "Silk industry",
+      "Handicrafts",
+      "Iron smelting",
+      "Hemp"
+    ],
+    "explanation": "புகழ்பெற்ற கைவினைப்பொருட்கள் காலனித்துவ ஆட்சியில் சீர்குலைந்தன.",
+    "explanation_en": "Famous Handicrafts were disrupted under colonial rule."
+  },
+  {
+    "id": 40,
+    "question": "தொழிற்துறையின் மீட்பு காலம் எனக் கருதப்படும் ஆண்டு ________.",
+    "options": [
+      "1990",
+      "1960",
+      "1970",
+      "1980"
+    ],
+    "correct": 3,
+    "question_en": "The year considered as the recovery period of the industry is ________.",
+    "options_en": [
+      "1990",
+      "1960",
+      "1970",
+      "1980"
+    ],
+    "explanation": "தொழிற்துறையின் மீட்பு காலம் எனக் கருதப்படும் ஆண்டு 1980.",
+    "explanation_en": "The year considered as the recovery period of the industry is 1980."
+  },
+  {
+    "id": 41,
+    "question": "________ ஆம் ஆண்டு பொருளாதார தாராளமயமாக்கல் ஒரு புதிய சகாப்தத்தை ஏற்படுத்தியது.",
+    "options": [
+      "1991",
+      "1981",
+      "1971",
+      "1961"
+    ],
+    "correct": 0,
+    "question_en": "________ ushered in a new era of economic liberalization.",
+    "options_en": [
+      "1991",
+      "1981",
+      "1971",
+      "1961"
+    ],
+    "explanation": "1991 ஆம் ஆண்டு பொருளாதார தாராளமயமாக்கல் ஒரு புதிய சகாப்தத்தை ஏற்படுத்தியது.",
+    "explanation_en": "1991 ushered in a new era of economic liberalization."
+  },
+  {
+    "id": 42,
+    "question": "________ ஆம் ஆண்டு தொழில்துறை கொள்கை தீர்மானத்தினால் அரசாங்கம் தொழில்துறையில் நேரடியாக பங்களிப்பினை வெளிப்படுத்துகிறது.",
+    "options": [
+      "1938",
+      "1958",
+      "1948",
+      "1968"
+    ],
+    "correct": 2,
+    "question_en": "The Government has shown direct involvement in the industry through the Industrial Policy Resolution of ________.",
+    "options_en": [
+      "1938",
+      "1958",
+      "1948",
+      "1968"
+    ],
+    "explanation": "1948 ஆம் ஆண்டு தொழில்துறை கொள்கை தீர்மானத்தினால் அரசாங்கம் தொழில்துறையில் நேரடியாக பங்களிப்பினை வெளிப்படுத்துகிறது.",
+    "explanation_en": "The Government has shown direct involvement in the industry through the Industrial Policy Resolution of 1948."
+  },
+  {
+    "id": 43,
+    "question": "1956 ஆம் ஆண்டு தொழில்துறை கொள்கை தீர்மானத்தின்படி தொழில் துறையானது ________ வகைகளாக வகைப்படுத்தப்பட்டுள்ளது.",
+    "options": [
+      "ஒன்று",
+      "இரண்டு",
+      "மூன்று",
+      "நான்கு"
+    ],
+    "correct": 1,
+    "question_en": "According to the Industrial Policy Resolution of 1956 the industrial sector is classified into ________ categories.",
+    "options_en": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "explanation": "1956 ஆம் ஆண்டு தொழில்துறை கொள்கை தீர்மானத்தின்படி தொழில் துறையானது இரண்டு வகைகளாக வகைப்படுத்தப்பட்டுள்ளது.",
+    "explanation_en": "According to the Industrial Policy Resolution of 1956 the industrial sector is classified into Two categories."
+  },
+  {
+    "id": 44,
+    "question": "தொழிற்புரட்சி நடைபெற்ற இடம் ________.",
+    "options": [
+      "இந்தியா",
+      "ரஷ்யா",
+      "இங்கிலாந்து",
+      "ஈரான்"
+    ],
+    "correct": 2,
+    "question_en": "Industrial Revolution took place in ________.",
+    "options_en": [
+      "India",
+      "Russia",
+      "England",
+      "Iran"
+    ],
+    "explanation": "தொழிற்புரட்சி நடைபெற்ற இடம் இங்கிலாந்து.",
+    "explanation_en": "Industrial Revolution took place in England."
+  },
+  {
+    "id": 45,
+    "question": "TISCO என்பதன் விரிவாக்கம் ________.",
+    "options": [
+      "Tata Iron and Sattellite Company Limited",
+      "Tata Iron and Silver Company Limited",
+      "Tata Iron and Steel Company Limited",
+      "Tata Iron and Sand Company Limited"
+    ],
+    "correct": 2,
+    "question_en": "TISCO is an extension of ________.",
+    "options_en": [
+      "Tata Iron and Satellite Company Limited",
+      "Tata Iron and Silver Company Limited",
+      "Tata Iron and Steel Company Limited",
+      "Tata Iron and Sand Company Limited"
+    ],
+    "explanation": "TISCO என்பதன் விரிவாக்கம் Tata Iron and Steel Company Limited.",
+    "explanation_en": "TISCO is an extension of Tata Iron and Steel Company Limited."
+  },
+  {
+    "id": 46,
+    "question": "________ ஆம் ஆண்டு ஜாம்ஷெட்பூரில் TISCO அமைக்கப்பட்டது.",
+    "options": [
+      "1907",
+      "1911",
+      "1912",
+      "1870"
+    ],
+    "correct": 0,
+    "question_en": "TISCO was set up in Jamshedpur in ________.",
+    "options_en": [
+      "1907",
+      "1911",
+      "1912",
+      "1870"
+    ],
+    "explanation": "1907 ஆம் ஆண்டு ஜாம்ஷெட்பூரில் TISCO அமைக்கப்பட்டது.",
+    "explanation_en": "TISCO was set up in Jamshedpur in 1907."
+  }
+]

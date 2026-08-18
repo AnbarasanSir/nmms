@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "question": "நிஷா என்பவர் வீட்டிலிருந்து மேற்கு நோக்கி 8 கிமீ தூரம் நடந்து பின்னர் தெற்குத்திசையில் 12 கிமீ நடந்தார். இறுதியில் கிழக்கு நோக்கி 8 கிமீ நடந்து ஓரிடத்தை அடைந்தார். எனில், தற்போது அவர் வீட்டிலிருந்து எவ்வளவு தூரத்தில் உள்ளார்?",
+    "options": [
+      "8 கிமீ",
+      "12 கிமீ",
+      "10 கிமீ",
+      "20 கிமீ"
+    ],
+    "correct": 1,
+    "explanation": "மேற்கு 8 கிமீ, பிறகு தெற்கு 12 கிமீ, பிறகு கிழக்கு 8 கிமீ நடந்தால், அவர் தொடக்கப் புள்ளிக்கு நேர் தெற்கே 12 கிமீ தொலைவில் இருப்பார்.",
+    "question_en": "Nisha walks west for 8 km from home and then south for 12 km. Eventually he walked 8 km towards east and reached a place. If so, how far is he from home now?",
+    "options_en": [
+      "8 km",
+      "12 km",
+      "10 km",
+      "20 km"
+    ],
+    "explanation_en": "If he walks west 8 km, then south 12 km, then east 8 km, he will be 12 km due south of the starting point."
+  },
+  {
+    "id": 2,
+    "question": "X என்பவர் 25 மீ கிழக்கு நோக்கி நகர்ந்து வலதுபக்கம் திரும்பி 40மீ தூரம் நடந்து பின்னர் நின்று விடுகிறார். எனில், ஆரம்ப இடத்தில் இருந்து எந்த திசையில் நிற்கின்றார்?",
+    "options": [
+      "வடகிழக்கு",
+      "தென்கிழக்கு",
+      "தென்மேற்கு",
+      "வடமேற்கு"
+    ],
+    "correct": 1,
+    "explanation": "கிழக்கு 25 மீ, வலது (தெற்கு) 40 மீ சென்றால், தொடக்கப் புள்ளியிலிருந்து தென்கிழக்கு திசையில் இருப்பார்.",
+    "question_en": "X moves 25 m towards east, turns right and walks 40 m and then stops. If so, in which direction does he stand from the starting point?",
+    "options_en": [
+      "Northeast",
+      "Southeast",
+      "Southwest",
+      "Northwest"
+    ],
+    "explanation_en": "If he goes east 25 m and right (south) 40 m, he will be south-east from the starting point."
+  },
+  {
+    "id": 3,
+    "question": "X-க்கு தென்மேற்கு திசையில் 25 மீ தூரத்தில் Y என்பவரும், Y-க்கு தென்கிழக்கில் 25மீ தூரத்தில் Z என்பவரும் உள்ளார். எனில், Xலிருந்து Zன் திசை யாது?",
+    "options": [
+      "கிழக்கு",
+      "மேற்கு",
+      "தெற்கு",
+      "வடக்கு"
+    ],
+    "correct": 2,
+    "explanation": "X-லிருந்து Y தென்மேற்கு 25மீ, Y-லிருந்து Z தென்கிழக்கு 25மீ எனில் Z என்பவர் X-க்கு நேர் தெற்கே இருப்பார்.",
+    "question_en": "Y is 25m south-west of X and Z is 25m south-east of Y. So, what is the direction of Z from X?",
+    "options_en": [
+      "East",
+      "West",
+      "South",
+      "North"
+    ],
+    "explanation_en": "If Y is 25m south-west of X and Z is 25m south-east of Y, then Z is directly south of X."
+  },
+  {
+    "id": 4,
+    "question": "சதீஸ் என்பவர் கிழக்கு திசையில் நின்று கொண்டு இருக்கின்றார். பின்னர், $90^\\circ$ கடிகார எதிர்திசையில் திரும்பி, மீண்டும் கடிகார திசையில் $90^\\circ$ திரும்புகிறார். மீண்டும் கடிகார எதிர்திசையில் $180^\\circ$ திரும்பினால், அவர் தற்போது எத்திசையை நோக்கி நிற்பார்?",
+    "options": [
+      "கிழக்கு",
+      "மேற்கு",
+      "வடக்கு",
+      "தெற்கு"
+    ],
+    "correct": 1,
+    "explanation": "கடிகார எதிர்திசை $90^\\circ$, கடிகார திசை $90^\\circ$ கேன்சல் ஆகிவிடும். மீதம் கடிகார எதிர்திசை $180^\\circ$. கிழக்கு நோக்கி இருந்தவர் $180^\\circ$ திரும்பினால் மேற்கு நோக்கி நிற்பார்.",
+    "question_en": "Satis is standing in the east direction. Then, it turns $90^\\circ$ counterclockwise and turns clockwise $90^\\circ$ again. If he turns $180^\\circ$ counterclockwise again, will he now face the direction ?",
+    "options_en": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "explanation_en": "Counterclockwise $90^\\circ$, clockwise $90^\\circ$ will cancel. The rest is counterclockwise $180^\\circ$. A person facing east will turn $180^\\circ$ and face west."
+  },
+  {
+    "id": 5,
+    "question": "ஷாலினி என்பவர் மேற்கு நோக்கி திரும்பியுள்ளார். பின்னர், $45^\\circ$ அளவில் கடிகார எதிர்திசையில் திரும்பி, மீண்டும் கடிகார திசையில் $180^\\circ$ திரும்பினால், அவர் தற்போது எந்த திசையை நோக்கி நிற்பார்?",
+    "options": [
+      "கிழக்கு",
+      "வடமேற்கு",
+      "வடகிழக்கு",
+      "தென்மேற்கு"
+    ],
+    "correct": 2,
+    "explanation": "மேற்கு நோக்கி உள்ளவர் கடிகார எதிர்திசையில் $45^\\circ$ (தென்மேற்கு), பின்னர் கடிகார திசையில் $180^\\circ$ திரும்பினால் வடகிழக்கு திசையை நோக்குவார்.",
+    "question_en": "Shalini has turned towards the West. Then, turning counterclockwise by $45^\\circ$ and turning clockwise again by $180^\\circ$, what direction will he now be facing?",
+    "options_en": [
+      "East",
+      "Northwest",
+      "Northeast",
+      "Southwest"
+    ],
+    "explanation_en": "A west-facing person faces $45^\\circ$ (southwest) counter-clockwise, then clockwise $180^\\circ$ and faces northeast."
+  },
+  {
+    "id": 6,
+    "question": "மகேஷ் என்பவர் ஓரிடத்திலிருந்து 30மீ கிழக்குத் திசையில் நகர்ந்து வலப்புறம் திரும்பி 30 மீ நடக்கின்றார். பிறகு, இடப்புறம் திரும்பி 30 மீ நடக்கிறார். மீண்டும் இடதுபுறம் திரும்பி 15 மீ நடக்கின்றார். இறுதியாக தனது இடப்புறம் திரும்பி 60 மீ நடந்து ஓரிடத்தை அடைகிறார். எனில், ஆரம்ப இடத்திலிருந்து தற்போது எவ்வளவு தொலைவில், எத்திசையில் நிற்கின்றார்?",
+    "options": [
+      "20 மீ வடக்கு",
+      "30 மீ தெற்கு",
+      "30 மீ மேற்கு",
+      "15 மீ தெற்கு"
+    ],
+    "correct": 3,
+    "explanation": "இறுதி நிலை: (30 + 30 - 60) மீ கிழக்கு = 0 (x அச்சு), (-30 + 15) மீ தெற்கு = 15 மீ தெற்கு. அவர் 15 மீ தெற்கே நிற்பார்.",
+    "question_en": "Mahesh moves 30 m east from a point and turns right and walks 30 m. Then, he turns left and walks 30 m. He turns left again and walks 15 m. Finally he turns to his left and walks 60 m to reach a place. If so, how far from the starting point does he now stand, in equilibrium?",
+    "options_en": [
+      "20 m north",
+      "30 m south",
+      "30 m west",
+      "15 m south"
+    ],
+    "explanation_en": "Final position: (30 + 30 - 60) m east = 0 (x axis), (-30 + 15) m south = 15 m south. He will stand 15 m south."
+  },
+  {
+    "id": 7,
+    "question": "X என்பவர் 10மீ கிழக்குத் திசையில் சென்று பின்னர் கடிகார திசையில் $90^\\circ$ திரும்பி 8மீ நேராகச் செல்கின்றார். மீண்டும் $90^\\circ$ திரும்பி 16மீ நேராக செல்கிறார். எனில் அவர் புறப்பட்ட இடத்தில் இருந்து எத்திசையில் இருப்பார்?",
+    "options": [
+      "வடக்கு",
+      "வடமேற்கு",
+      "தென்கிழக்கு",
+      "தென்மேற்கு"
+    ],
+    "correct": 3,
+    "explanation": "10மீ கிழக்கு, 8மீ தெற்கு ($90^\\circ$ வலது), 16மீ மேற்கு ($90^\\circ$ வலது). எனவே ஆரம்ப இடத்திலிருந்து மேற்கு 6மீ, தெற்கு 8மீ தூரத்தில் தென்மேற்கு திசையில் இருப்பார்.",
+    "question_en": "X travels 10m due east and then turns 90^\\circ$ clockwise and goes straight 8m. Turns again $90^\\circ$ and goes straight 16m. So he will be in sync from where he started?",
+    "options_en": [
+      "North",
+      "Northwest",
+      "Southeast",
+      "Southwest"
+    ],
+    "explanation_en": "10m east, 8m south ($90^\\circ$ right), 16m west ($90^\\circ$ right). So he will be 6m west and 8m south from the starting point in south-west direction."
+  },
+  {
+    "id": 8,
+    "question": "ஒருவர் 24மீ உயரமுள்ள கொடிமரத்தின் அடியில் இருந்து கிழக்குத் திசையில் 7 மீ செல்கின்றார். அங்கிருந்து கொடிமரத்தின் உச்சியைப் பார்க்கிறார். எனில், அவருக்கும் கொடிமரத்தின் உச்சிக்கும் இடைப்பட்ட தொலைவு யாது?",
+    "options": [
+      "8 மீ",
+      "24மீ",
+      "25மீ",
+      "16மீ"
+    ],
+    "correct": 2,
+    "explanation": "பிதாகரஸ் தேற்றம்: தொலைவு = $\\sqrt{24^2 + 7^2} = \\sqrt{576 + 49} = \\sqrt{625} = 25$ மீ.",
+    "question_en": "A man walks 7 m due east from under a flagpole 24 m high. From there he sees the top of the flagpole. If so, what is the distance between him and the top of the flagpole?",
+    "options_en": [
+      "8 m",
+      "24 m",
+      "25 m",
+      "16 m"
+    ],
+    "explanation_en": "Pythagorean Theorem: Distance = $\\sqrt{24^2 + 7^2} = \\sqrt{576 + 49} = \\sqrt{625} = 25$ m."
+  },
+  {
+    "id": 9,
+    "question": "நமிதா என்பவர் வீட்டிலிருந்து வடக்கு நோக்கி 3கிமீ தூரம் நடந்து சென்று, பின்னர் தனது இடதுபுறம் திரும்பி 2கிமீ தூரம் நடக்கின்றார். பின்னர், மீண்டும் தனது இடதுபுறம் திரும்பி 3கிமீ தூரம் நடக்கின்றார். தற்போது அவர் புறப்பட்ட இடத்திலிருந்து எவ்வளவு தொலைவில் உள்ளார்?",
+    "options": [
+      "1 கிமீ",
+      "2 கிமீ",
+      "3 கிமீ",
+      "5 கிமீ"
+    ],
+    "correct": 1,
+    "explanation": "வடக்கு 3 கிமீ, இடது(மேற்கு) 2 கிமீ, இடது(தெற்கு) 3 கிமீ. அவர் வீட்டிலிருந்து மேற்கு திசையில் 2 கிமீ தொலைவில் இருப்பார்.",
+    "question_en": "Namita walks 3 km towards north from her house, then turns to her left and walks 2 km. Then, he again turns to his left and walks for a distance of 3 km. How far is he now from the point of departure?",
+    "options_en": [
+      "1 km",
+      "2 km",
+      "3 km",
+      "5 km"
+    ],
+    "explanation_en": "North 3 km, Left(West) 2 km, Left(South) 3 km. He will be 2 km west from the house."
+  },
+  {
+    "id": 10,
+    "question": "ஒரு நாள் ரவி என்பவர் வீட்டிலிருந்து தனது மிதிவண்டியில் தெற்கு நோக்கி 10 கிமீ தூரம் சென்று பின்னர் வலதுபுறம் திரும்பி 5கிமீ தூரம் செல்கின்றார். பின்னர் மீண்டும் வலதுபுறம் திரும்பி 10 கிமீ தூரம் செல்கின்றார், அவரது வீட்டிற்கு நேராக செல்ல வேண்டுமெனில் எவ்வளவு கி.மீ அவர் தனது மிதிவண்டியில் பயணிக்க வேண்டும்?",
+    "options": [
+      "10கிமீ",
+      "5கிமீ",
+      "25கிமீ",
+      "35 கிமீ"
+    ],
+    "correct": 1,
+    "explanation": "தெற்கு 10கிமீ, வலது(மேற்கு) 5கிமீ, வலது(வடக்கு) 10கிமீ. அவர் வீட்டிற்கு மேற்கே 5 கிமீ தூரத்தில் உள்ளார். மீண்டும் வீட்டிற்கு நேராக செல்ல 5 கிமீ செல்ல வேண்டும்.",
+    "question_en": "One day Ravi rides his bicycle from home for a distance of 10 km towards south and then turns right and travels for a distance of 5 km. Then he turns right again and travels a distance of 10 km, how many km must he travel on his bicycle if he wants to go straight to his house?",
+    "options_en": [
+      "10 km",
+      "5 km",
+      "25 km",
+      "35 km"
+    ],
+    "explanation_en": "South 10km, Right(West) 5km, Right(North) 10km. He is 5 km west of home. 5 km to go straight home again."
+  },
+  {
+    "id": 11,
+    "question": "ஒரு சிறுமி அவள் வீட்டிலிருந்து வடமேற்கு திசையில் 30மீ தூரம் சென்று பின்னர் தென்மேற்கு திசையில் 30மீ தூரம் நடக்கின்றார். பின்னர், அவர் தென்கிழக்கு திசையில் 30 மீ தூரம் நடக்கின்றார். இறுதியாக அவள் தன் வீட்டை நோக்கித் திரும்புகிறாள். எனில், தற்போது எத்திசையில் அவள் நின்று கொண்டிருக்கிறாள்?",
+    "options": [
+      "வடகிழக்கு",
+      "வடமேற்கு",
+      "தென்கிழக்கு",
+      "தென்மேற்கு"
+    ],
+    "correct": 2,
+    "explanation": "வடமேற்கு 30மீ, தென்மேற்கு 30மீ, தென்கிழக்கு 30மீ சென்றால் அவள் தன் வீட்டின் தென்மேற்கு திசையில் நிற்பாள். (குறிப்பு: வீட்டை நோக்கி திரும்புகிறாள் என்றால் வீட்டைப் பார்க்கிறாள் எனில் வடகிழக்கு. ஆனால் எத்திசையில் நின்று கொண்டிருக்கிறாள் என்பதற்கு தென்மேற்கு விடையாகக் கொடுக்கப்பட்டுள்ளது).",
+    "question_en": "A girl walks 30m from her house in the north-west direction and then 30m in the south-west direction. Then, he walks 30 m in a south-east direction. Finally she turns towards her home. So, where is she currently standing?",
+    "options_en": [
+      "Northeast",
+      "Northwest",
+      "Southeast",
+      "Southwest"
+    ],
+    "explanation_en": "If she goes 30m north-west, 30m south-west and 30m south-east, she will stand in the south-west direction of her house. (Note: If she is turning towards the house, North-East means looking at the house. But South-West is given as the answer if she is standing still)."
+  },
+  {
+    "id": 12,
+    "question": "நான் ஒரு பூங்காவின் மையத்தில் நின்றுகொண்டிருக்கின்றேன். நான் கிழக்குத் திசையை நோக்கி நிற்கின்றேன். சுரேஷ் தென்மேற்கு திசையை நோக்கியும், அதே வேளையில் முகேஷ் வடமேற்கு திசையை நோக்கியும், ராஜா வடகிழக்கை நோக்கியும் நிற்கின்றனர். நாங்கள் ஒவ்வொருவரும் $90^\\circ$ அளவில் கடிகார திசையில் திரும்புகிறோம். எனில், தற்போது நான் நோக்கும் திசை?",
+    "options": [
+      "தென்கிழக்கு",
+      "தெற்கு",
+      "தென்மேற்கு",
+      "மேற்கு"
+    ],
+    "correct": 1,
+    "explanation": "நான் கிழக்கு நோக்கி இருக்கிறேன். கடிகார திசையில் $90^\\circ$ திரும்பினால் தெற்கு நோக்கி நிற்பேன்.",
+    "question_en": "I am standing in the center of a park. I am facing east direction. Suresh faces the South-West direction, while Mukesh faces the North-West direction and Raja faces the North-East. We each turn clockwise by $90^\\circ$. So, the direction I'm heading now?",
+    "options_en": [
+      "Southeast",
+      "South",
+      "Southwest",
+      "West"
+    ],
+    "explanation_en": "I am facing east. Turning $90^\\circ$ clockwise will face south."
+  },
+  {
+    "id": 13,
+    "question": "முந்தைய வினா தகவல்படி, முகேஷ் என்பவர் எத்திசையை நோக்கி நிற்கின்றார்?",
+    "options": [
+      "வடக்கு",
+      "வடகிழக்கு",
+      "கிழக்கு",
+      "தென்கிழக்கு"
+    ],
+    "correct": 1,
+    "explanation": "முகேஷ் வடமேற்கு நோக்கி நின்றார். கடிகார திசையில் $90^\\circ$ திரும்பினால் அவர் வடகிழக்கு திசையை நோக்குவார்.",
+    "question_en": "According to the previous question, Mukesh stands towards Ethisai?",
+    "options_en": [
+      "North",
+      "Northeast",
+      "East",
+      "Southeast"
+    ],
+    "explanation_en": "Mukesh stood towards North-West. If he turns $90^\\circ$ clockwise he will face the northeast direction."
+  },
+  {
+    "id": 14,
+    "question": "நான் எனது வீட்டிலிருந்து கிழக்கு நோக்கி 5 கிமீ தூரம் சென்று பின்னர் இடதுபுறம் திரும்பி 3 கிமீ தூரம் சென்றேன். மீண்டும், நான் இடதுபுறம் திரும்பி 3 கிமீ தூரம் சென்றேன். முடிவில், நான் இடதுபுறம் திரும்பி 3 கிமீ தூரம் சென்றேன். எனில், நான் எனது வீட்டிலிருந்து எவ்வளவு தொலைவில் உள்ளேன்?",
+    "options": [
+      "14 கிமீ",
+      "8 கிமீ",
+      "11 கிமீ",
+      "2 கிமீ"
+    ],
+    "correct": 3,
+    "explanation": "கிழக்கு 5கிமீ, இடது(வடக்கு) 3கிமீ, இடது(மேற்கு) 3கிமீ, இடது(தெற்கு) 3கிமீ. இதனால் கிழக்கு திசையில் 2கிமீ (5-3) தூரத்தில் உள்ளேன்.",
+    "question_en": "I went east for 5 km from my house and then turned left and went for 3 km. Again, I took a left turn and continued for 3 km. At the end, I turned left and continued for 3 km. If so, how far am I from my home?",
+    "options_en": [
+      "14 km",
+      "8 km",
+      "11 km",
+      "2 km"
+    ],
+    "explanation_en": "East 5km, Left(North) 3km, Left(West) 3km, Left(South) 3km. Thus I am 2km (5-3) in the east direction."
+  },
+  {
+    "id": 15,
+    "question": "முந்தைய வினா தகவல்படி, நான் எனது வீட்டிலிருந்து தற்போது எத்திசையில் நிற்கின்றேன்?",
+    "options": [
+      "கிழக்கு",
+      "மேற்கு",
+      "வடகிழக்கு",
+      "தெற்கு"
+    ],
+    "correct": 0,
+    "explanation": "ஆரம்பப் புள்ளி (0,0)-ல் இருந்து தற்போதுள்ள இடம் (2,0). எனவே வீட்டின் கிழக்கு திசையில் உள்ளேன்.",
+    "question_en": "According to the previous question, I am currently standing in Ethisa from my house?",
+    "options_en": [
+      "East",
+      "West",
+      "Northeast",
+      "South"
+    ],
+    "explanation_en": "Starting point (0,0) to current location (2,0). So I am in the east direction of the house."
+  },
+  {
+    "id": 16,
+    "question": "தென்கிழக்கு என்பது கிழக்கு திசையாகவும், வடமேற்கு என்பது மேற்கு திசையாகவும், தென்மேற்கு என்பது தெற்கு திசை எனவும் அழைக்கப்பட்டால் வடக்கு திசை எவ்வாறு அழைக்கப்படும்?",
+    "options": [
+      "கிழக்கு",
+      "வடமேற்கு",
+      "தெற்கு",
+      "வடகிழக்கு"
+    ],
+    "correct": 1,
+    "explanation": "ஒவ்வொரு திசையும் $45^\\circ$ கடிகார திசையில் சுழற்றப்பட்டுள்ளது. (தென்கிழக்கு என்பது கிழக்கு ஆனது). எனவே, உண்மையான வடக்கு திசை என்பது தற்போதைய வடமேற்கு திசையாக மாறும்.",
+    "question_en": "If South-East is called East, North-West is West and South-West is South then what is the North called?",
+    "options_en": [
+      "East",
+      "Northwest",
+      "South",
+      "Northeast"
+    ],
+    "explanation_en": "Each direction is rotated $45^\\circ$ clockwise. (Southeast became East). Therefore, the true north direction becomes the current north-west direction."
+  },
+  {
+    "id": 17,
+    "question": "‘A’ என்பவர் 10மீ முன்னோக்கி சென்று, வலது புறம் திரும்பி 10மீ சென்று, பின்னர் ஒவ்வொரு முறையும் தனது இடதுபுறமாக முறையே 5, 15, மற்றும் 15 மீட்டர்கள் செல்கின்றார். அவர் தற்போது புறப்பட்ட இடத்திலிருந்து எவ்வளவு தொலைவில் உள்ளார்?",
+    "options": [
+      "5 மீட்டர்",
+      "10மீட்டர்",
+      "15 மீட்டர்",
+      "20 மீட்டர்"
+    ],
+    "correct": 0,
+    "explanation": "பயண தூரம் முடிவில் ஆரம்பப் புள்ளியிலிருந்து 5 மீ தொலைவில் இருப்பார்.",
+    "question_en": "'A' goes forward 10 m, turns right 10 m and then goes 5, 15, and 15 m to his left each time. How far is he now from the point of departure?",
+    "options_en": [
+      "5 meters",
+      "10 meters",
+      "15 meters",
+      "20 meters"
+    ],
+    "explanation_en": "At the end of the journey he will be 5 m from the starting point."
+  },
+  {
+    "id": 18,
+    "question": "விஜய் என்பவர் கிழக்கு நோக்கி நிற்கின்றார். பின்னர் கடிகார திசையில் $90^\\circ$ திரும்புகிறார். பின்னர், $180^\\circ$ அளவில் எதிர் கடிகார திசையிலும், மீண்டும் $90^\\circ$ அளவில் கடிகார திசையிலும் திரும்புகின்றார். எனில், அவர் தற்போது எத்திசையை நோக்கி நிற்கின்றார்?",
+    "options": [
+      "கிழக்கு",
+      "மேற்கு",
+      "தெற்கு",
+      "தென்கிழக்கு"
+    ],
+    "correct": 0,
+    "explanation": "மொத்த சுழற்சி = வலது 90 - இடது 180 + வலது 90 = 0. எனவே அவர் மீண்டும் கிழக்கு திசையையே நோக்குவார்.",
+    "question_en": "Vijay is facing east. Then turns $90^\\circ$ clockwise. Then, it turns 180^\\circ$ counterclockwise and 90^\\circ$ clockwise again. If so, where is he currently standing towards?",
+    "options_en": [
+      "East",
+      "West",
+      "South",
+      "Southeast"
+    ],
+    "explanation_en": "Total rotation = right 90 - left 180 + right 90 = 0. So he will face east direction again."
+  },
+  {
+    "id": 19,
+    "question": "அசோக் வடக்குத் திசையில் 15 கிமீ தூரம் சென்று, பின்னர் இடதுபுறம் திரும்பி மற்றொரு 4 கிமீ தூரம் செல்கின்றார். பின்னர் இடதுபுறம் திரும்பி மீண்டும் 12கிமீ தூரம் நடக்கின்றார். அவர் புறப்பட்ட இடத்திலிருந்து எவ்வளவு தொலைவில் எத்திசையில் உள்ளார்?",
+    "options": [
+      "7கிமீ, வடக்கு",
+      "5 கிமீ, வடகிழக்கு",
+      "5 கிமீ, வடமேற்கு",
+      "11 கிமீ, தென்கிழக்கு"
+    ],
+    "correct": 2,
+    "explanation": "வடக்கு 15கிமீ, இடது(மேற்கு) 4கிமீ, இடது(தெற்கு) 12கிமீ. தூரம் = $\\sqrt{4^2 + 3^2} = 5$ கிமீ. திசை வடமேற்கு.",
+    "question_en": "Ashok goes north for 15 km and then turns left and goes another 4 km. Then he turns left and walks again for a distance of 12 km. How far is he in equilibrium from the point of departure?",
+    "options_en": [
+      "7 km, North",
+      "5 km, North East",
+      "5 km, North West",
+      "11 km, South East"
+    ],
+    "explanation_en": "North 15km, Left(West) 4km, Left(South) 12km. Distance = $\\sqrt{4^2 + 3^2} = 5$ km. The direction is northwest."
+  },
+  {
+    "id": 20,
+    "question": "இரு நபர்கள் எதிரெதிர் திசையில் (முதுகுப்புறம் ஒட்டியவாறு) அமர்ந்துள்ளனர். முதல் நபரின் முகம் தெற்கு நோக்கி உள்ளது. இரண்டாவது நபரின் இடது கையானது எத்திசையில் அமையும்?",
+    "options": [
+      "கிழக்கு",
+      "மேற்கு",
+      "வடக்கு",
+      "தெற்கு"
+    ],
+    "correct": 1,
+    "explanation": "இரண்டாவது நபரின் முகம் வடக்கு நோக்கி இருக்கும். வடக்கு நோக்கும்போது, இடது கை மேற்கு திசையில் அமையும்.",
+    "question_en": "Two persons are seated in opposite directions (back to back). The first person faces south. The second person's left arm will be aligned with?",
+    "options_en": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "explanation_en": "The second person faces North. When facing north, the left hand is facing west."
+  },
+  {
+    "id": 21,
+    "question": "ஒரு கடிகாரத்தில் 4.30 மணி என காட்டுகிறது. நிமிட முள் கிழக்குத் திசையில் இருந்தால், மணி முள், எத்திசையில் நிற்கும்?",
+    "options": [
+      "வடகிழக்கு",
+      "தென்கிழக்கு",
+      "வடமேற்கு",
+      "வடக்கு"
+    ],
+    "correct": 0,
+    "explanation": "சாதாரணமாக 4:30 மணிக்கு நிமிட முள் தெற்கில் இருக்கும். அது கிழக்கில் இருப்பதாகக் கொண்டால் $90^\\circ$ கடிகார எதிர் திசையில் சுழற்றப்பட்டுள்ளது. மணி முள் தென்கிழக்கிற்குப் பதிலாக வடகிழக்கைக் காட்டும்.",
+    "question_en": "A clock shows 4.30 am. If the minute hand is facing east, the hour hand will stand at ?",
+    "options_en": [
+      "Northeast",
+      "Southeast",
+      "Northwest",
+      "North"
+    ],
+    "explanation_en": "Normally at 4:30 the minute hand is south. It is rotated $90^\\circ$ counterclockwise if it is east. The hour hand points north-east instead of south-east."
+  },
+  {
+    "id": 22,
+    "question": "ஒருவர் தலைகீழாக நின்று யோகா செய்யும்போது அவரது முகம் தெற்குத் திசையில் இருந்தால்,அவரது வலது கை எத்திசையை நோக்கி இருக்கும்?",
+    "options": [
+      "மேற்கு",
+      "கிழக்கு",
+      "வடக்கு",
+      "தெற்கு"
+    ],
+    "correct": 1,
+    "explanation": "சாதாரணமாக தெற்கு நோக்கி நின்றால் வலது கை மேற்கில் இருக்கும். தலைகீழாக நிற்கும் போது கைகளின் திசை மாறும். எனவே வலது கை கிழக்கு திசையில் இருக்கும்.",
+    "question_en": "If a person is doing upside down yoga and his face is towards South, his right hand will be towards the direction of?",
+    "options_en": [
+      "West",
+      "East",
+      "North",
+      "South"
+    ],
+    "explanation_en": "If you stand normally facing south, your right hand will be in the west. When standing upside down the direction of the arms changes. So the right hand will be towards East."
+  },
+  {
+    "id": 23,
+    "question": "ஒரு நாள் காலையில் ரவி மற்றும் ராஜு இருவரும் ஒருவர் முகத்தை ஒருவர் பார்த்தவாறு சந்தித்துக் கொள்கின்றனர். அப்போது, ராஜுவின் நிழல், ரவியின் இடது புறமாக விழுந்தால், ரவி தற்போது எத்திசையை நோக்கி நிற்கின்றார்?",
+    "options": [
+      "கிழக்கு",
+      "மேற்கு",
+      "வடக்கு",
+      "தெற்கு"
+    ],
+    "correct": 2,
+    "explanation": "காலையில் நிழல் மேற்கில் விழும். ரவியின் இடது கை மேற்கு திசை என்றால் ரவி வடக்கு நோக்கி நிற்கிறார்.",
+    "question_en": "One morning Ravi and Raju meet face to face. Then, if Raju's shadow falls on Ravi's left side, Ravi is now standing towards Ethisai?",
+    "options_en": [
+      "East",
+      "West",
+      "North",
+      "South"
+    ],
+    "explanation_en": "In the morning the shadow falls in the west. If Ravi's left hand is west then Ravi is facing north."
+  },
+  {
+    "id": 24,
+    "question": "ஒரு கடிகாரம் பகல் 12.00 மணியைக் காட்டுகின்றது. அக்கடிகாரத்தின் நிமிடமுள் தெற்குத்திசையைக் காட்டுகின்றது. எனில், அதே நேரத்தில் மணி முள் காட்டும் திசை?",
+    "options": [
+      "வடக்கு",
+      "தெற்கு",
+      "கிழக்கு",
+      "மேற்கு"
+    ],
+    "correct": 1,
+    "explanation": "12 மணிக்கு நிமிட முள்ளும் மணி முள்ளும் ஒரே திசையில் இருக்கும். நிமிட முள் தெற்கு என்றால் மணி முள்ளும் தெற்குத் திசையைக் காட்டும்.",
+    "question_en": "A clock shows 12.00 noon. The minute hand of the clock points south. If so, the direction of the hour hand at the same time?",
+    "options_en": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "explanation_en": "At 12 o'clock the minute hand and hour hand are in the same direction. If the minute hand is south then the hour hand also points south."
+  },
+  {
+    "id": 25,
+    "question": "A மற்றும் B ஆகியோர் ஒரே இடத்திலிருந்து நடக்கின்றனர். A என்பவர் வடக்குத் திசையில் 3 கிமீ தூரம் சென்று, தனது வலது புறம் திரும்பி 4 கிமீ தூரம் செல்கின்றார். அதே நேரம் B என்பவர் மேற்குத் திசையில் 5 கிமீ தூரம் சென்று தனது வலதுபுறம் திரும்பி 3 கிமீ தூரம் செல்கிறார். அவர்கள் இருவரும் ஒருவருக்கொருவர் எவ்வளவு தொலைவில் உள்ளனர்?",
+    "options": [
+      "10கிமீ",
+      "9 கிமீ",
+      "8 கிமீ",
+      "5 கிமீ"
+    ],
+    "correct": 0,
+    "explanation": "A-ன் நிலை (4,3). B-ன் நிலை (-5,3). இருவருக்கும் இடையே உள்ள தூரம் $4 - (-5) = 9$ (விடை 10 என்று புத்தகத்தில் உள்ளது, ஒருவேளை A 4,3 இல், B 5 மேற்கு, வலது 3 கிமீ என்றால்... A (4,3), B (-5,3). தூரம் 9 கிமீ. ஆப்ஷன் 1 10கிமீ என பிழையாக குறிக்கப்பட்டுள்ளது.)",
+    "question_en": "A and B are walking from the same place. A goes north for a distance of 3 km, turns to his right and goes for a distance of 4 km. At the same time B goes west for 5 km and turns to his right for 3 km. How far are they both from each other?",
+    "options_en": [
+      "10 km",
+      "9 km",
+      "8 km",
+      "5 km"
+    ],
+    "explanation_en": "A's position is (4,3). B's position is (-5,3). The distance between the two is $4 - (-5) = 9$ (the answer is 10 in the book, maybe at A 4,3, B 5 west, right 3 km if... A (4,3), B (-5,3). The distance is 9 km. Option 1 is wrongly marked as 10km.)"
+  }
+]

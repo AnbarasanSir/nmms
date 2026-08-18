@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "question": "முதல் சமணப் பேரவைக் கூட்டம் நடைபெற்ற இடம் ________.",
+    "options": [
+      "மகாபலிபுரம்",
+      "காஞ்சிபுரம்",
+      "பாடலிபுத்திரம்",
+      "மதுரை"
+    ],
+    "correct": 2,
+    "question_en": "The first meeting of the Jain Assembly was held at ________.",
+    "options_en": [
+      "Mahabalipuram",
+      "Kanchipuram",
+      "Pataliputra",
+      "Madurai"
+    ],
+    "explanation": "முதல் சமணப் பேரவைக் கூட்டம் நடைபெற்ற இடம் பாடலிபுத்திரம்.",
+    "explanation_en": "The first meeting of the Jain Assembly was held at Pataliputra."
+  },
+  {
+    "id": 2,
+    "question": "அசெளர்யா என்பது ________.",
+    "options": [
+      "உண்மை",
+      "திருடாமை",
+      "அகிம்சை",
+      "ஆசையின்மை"
+    ],
+    "correct": 1,
+    "question_en": "Aselarya is ________.",
+    "options_en": [
+      "true",
+      "Non-stealing",
+      "Non-violence",
+      "lack of desire"
+    ],
+    "explanation": "அசெளர்யா என்பது திருடாமை.",
+    "explanation_en": "Aselarya is Non-stealing."
+  },
+  {
+    "id": 3,
+    "question": "ஆகம சூத்திர நூல்களின் எண்ணிக்கை ________.",
+    "options": [
+      "12",
+      "24",
+      "13",
+      "22"
+    ],
+    "correct": 0,
+    "question_en": "The number of Agama Sutra texts is ________.",
+    "options_en": [
+      "12",
+      "24",
+      "13",
+      "22"
+    ],
+    "explanation": "ஆகம சூத்திர நூல்களின் எண்ணிக்கை 12.",
+    "explanation_en": "The number of Agama Sutra texts is 12."
+  },
+  {
+    "id": 4,
+    "question": "சமண தீர்த்தங்கரர்களின் வாழ்க்கை வரலாற்றை விவரிக்கும் நூல் ________.",
+    "options": [
+      "மத்தவிலாசபிரகாசனம்",
+      "மணிமேகலை",
+      "சீவகசிந்தாமணி",
+      "ஜைனசரிதா"
+    ],
+    "correct": 3,
+    "question_en": "A book describing the biographies of Jain Tirthankaras is ________.",
+    "options_en": [
+      "Mathavilasaprakasanam",
+      "Hourglass",
+      "Sivakachintamani",
+      "Jain Charita"
+    ],
+    "explanation": "சமண தீர்த்தங்கரர்களின் வாழ்க்கை வரலாற்றை விவரிக்கும் நூல் ஜைனசரிதா.",
+    "explanation_en": "A book describing the biographies of Jain Tirthankaras is Jain Charita."
+  },
+  {
+    "id": 5,
+    "question": "கல்பசூத்ரா என்ற நூலின் ஆசிரியர் ________.",
+    "options": [
+      "பத்ரபாகு",
+      "புஷ்பசேனா",
+      "திருத்தக்க தேவர்",
+      "வஜ்ரபோதி"
+    ],
+    "correct": 0,
+    "question_en": "Author of Kalpasutra is ________.",
+    "options_en": [
+      "Bhadrabaku",
+      "Pushpa Sena",
+      "God to correct",
+      "Vajra Bodhi"
+    ],
+    "explanation": "கல்பசூத்ரா என்ற நூலின் ஆசிரியர் பத்ரபாகு.",
+    "explanation_en": "Author of Kalpasutra is Bhadrabaku."
+  },
+  {
+    "id": 6,
+    "question": "அறிவர் கோவில் என அழைக்கப்படுவது ________.",
+    "options": [
+      "பைரவ மலை",
+      "சந்திரபிரபா கோவில்",
+      "திரிலோக்கிய நாத ஜைன சுவாமி கோவில்",
+      "சித்தன்ன வாசல் குகை"
+    ],
+    "correct": 3,
+    "question_en": "The temple of knowledge is known as ________.",
+    "options_en": [
+      "Bhairava Hill",
+      "Chandraprabha Temple",
+      "Trilokhya Natha Jain Swami Temple",
+      "Siddanna Vasal Cave"
+    ],
+    "explanation": "அறிவர் கோவில் என அழைக்கப்படுவது சித்தன்ன வாசல் குகை.",
+    "explanation_en": "The temple of knowledge is known as Siddanna Vasal Cave."
+  },
+  {
+    "id": 7,
+    "question": "கழுகுமலை சமணர் கோவில் யாரால் உருவாக்கப்பட்டது ________.",
+    "options": [
+      "புத்த கோசா",
+      "பராந்தக நெடுஞ்சடையன்",
+      "யுவான் சுவாங்",
+      "மகேந்திரவர்மன்"
+    ],
+    "correct": 1,
+    "question_en": "Kalgukumalai Jain temple was built by ________.",
+    "options_en": [
+      "Buddha Gosa",
+      "Parantaka Nedunchadayan",
+      "Yuan Chuang",
+      "Mahendravarman"
+    ],
+    "explanation": "கழுகுமலை சமணர் கோவில் யாரால் உருவாக்கப்பட்டது பராந்தக நெடுஞ்சடையன்.",
+    "explanation_en": "Kalgukumalai Jain temple was built by Parantaka Nedunchadayan."
+  },
+  {
+    "id": 8,
+    "question": "விசுத்திமக்கா என்ற நூலின் ஆசிரியர் ________.",
+    "options": [
+      "புத்த கோசா",
+      "அசுவ கோசா",
+      "மிலிந்தா",
+      "புத்தர்"
+    ],
+    "correct": 0,
+    "question_en": "The author of Visudthimakha is ________.",
+    "options_en": [
+      "Buddha Gosa",
+      "Asuwa Gosa",
+      "Milinda",
+      "Buddha"
+    ],
+    "explanation": "விசுத்திமக்கா என்ற நூலின் ஆசிரியர் புத்த கோசா.",
+    "explanation_en": "The author of Visudthimakha is Buddha Gosa."
+  },
+  {
+    "id": 9,
+    "question": "சமணர்களின் கல்வி மையங்கள் ________.",
+    "options": [
+      "விகாரைகள்",
+      "பள்ளி",
+      "இல்லம்",
+      "குகைகள்"
+    ],
+    "correct": 1,
+    "question_en": "The educational centers of the Jains are ________.",
+    "options_en": [
+      "Strains",
+      "School",
+      "Home",
+      "Caves"
+    ],
+    "explanation": "சமணர்களின் கல்வி மையங்கள் பள்ளி.",
+    "explanation_en": "The educational centers of the Jains are School."
+  },
+  {
+    "id": 10,
+    "question": "மௌரியப் பேரரசர் அசோகரின் பேரன் ________.",
+    "options": [
+      "கனிஷ்கர்",
+      "ஹர்ஷர்",
+      "தசரதா",
+      "பத்ரபாகு"
+    ],
+    "correct": 2,
+    "question_en": "Mauryan Emperor Ashoka's grandson was ________.",
+    "options_en": [
+      "Kanishkar",
+      "Harsher",
+      "Dasaratha",
+      "Bhadrabaku"
+    ],
+    "explanation": "மௌரியப் பேரரசர் அசோகரின் பேரன் தசரதா.",
+    "explanation_en": "Mauryan Emperor Ashoka's grandson was Dasaratha."
+  },
+  {
+    "id": 11,
+    "question": "மௌரியப் பேரரசர் அசோகர் ஆதரித்த மதம் ________.",
+    "options": [
+      "சமணம்",
+      "பௌத்தம்",
+      "ஆசீவகம்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "The religion advocated by Mauryan Emperor Ashoka was ________.",
+    "options_en": [
+      "Jainism",
+      "Buddhism",
+      "blessing",
+      "Nothing"
+    ],
+    "explanation": "மௌரியப் பேரரசர் அசோகர் ஆதரித்த மதம் ஆசீவகம்.",
+    "explanation_en": "The religion advocated by Mauryan Emperor Ashoka was blessing."
+  },
+  {
+    "id": 12,
+    "question": "ஆசீவகப் பிரிவின் தலைவர் ________.",
+    "options": [
+      "கோசலா மன்காலிபுத்தா",
+      "அசோகர்",
+      "தசரதா",
+      "வஜ்ரபோதி"
+    ],
+    "correct": 0,
+    "question_en": "The Head of Blessing Division is ________.",
+    "options_en": [
+      "Kosala Mangaliputta",
+      "Ashoka",
+      "Dasaratha",
+      "Vajra Bodhi"
+    ],
+    "explanation": "ஆசீவகப் பிரிவின் தலைவர் கோசலா மன்காலிபுத்தா.",
+    "explanation_en": "The Head of Blessing Division is Kosala Mangaliputta."
+  },
+  {
+    "id": 13,
+    "question": "பௌத்த கல்வி மையங்களுக்குப் பெயர் ________.",
+    "options": [
+      "விகாரைகள்",
+      "பள்ளி",
+      "கல்லூரி",
+      "குகைகள்"
+    ],
+    "correct": 0,
+    "question_en": "Buddhist educational centers are named ________.",
+    "options_en": [
+      "Strains",
+      "School",
+      "College",
+      "Caves"
+    ],
+    "explanation": "பௌத்த கல்வி மையங்களுக்குப் பெயர் விகாரைகள்.",
+    "explanation_en": "Buddhist educational centers are named Strains."
+  },
+  {
+    "id": 14,
+    "question": "மத்தவிலாச பிரகாசனம் என்ற நூலின் ஆசிரியர் ________.",
+    "options": [
+      "கிருஷ்ண தேவராயர்",
+      "புத்த கோசா",
+      "ஹர்ஷர்",
+      "மகேந்திர வர்மன்"
+    ],
+    "correct": 3,
+    "question_en": "The author of Madthavilasa Prakasanam is ________.",
+    "options_en": [
+      "Krishna Devaraya",
+      "Buddha Gosa",
+      "Harsher",
+      "Mahendra Varman"
+    ],
+    "explanation": "மத்தவிலாச பிரகாசனம் என்ற நூலின் ஆசிரியர் மகேந்திர வர்மன்.",
+    "explanation_en": "The author of Madthavilasa Prakasanam is Mahendra Varman."
+  },
+  {
+    "id": 15,
+    "question": "முதல் பௌத்த உரையாசிரியர் ________.",
+    "options": [
+      "புத்தர்",
+      "மகாவீரர்",
+      "புத்தகோசா",
+      "நாகசேனர்"
+    ],
+    "correct": 2,
+    "question_en": "The first Buddhist textualist was ________.",
+    "options_en": [
+      "Buddha",
+      "Mahavira",
+      "Buddhaghosa",
+      "Nagasenar"
+    ],
+    "explanation": "முதல் பௌத்த உரையாசிரியர் புத்தகோசா.",
+    "explanation_en": "The first Buddhist textualist was Buddhaghosa."
+  },
+  {
+    "id": 16,
+    "question": "புத்தருடைய வாழ்க்கை தொடர்பான பல்வேறு கதைகளை கூறும் நூல் ________.",
+    "options": [
+      "புத்த வம்சா",
+      "மலிந்த பன்கா",
+      "ஜாதகங்கள்",
+      "தேவாரம்"
+    ],
+    "correct": 2,
+    "question_en": "A book that tells various stories related to the life of the Buddha is ________.",
+    "options_en": [
+      "Buddhist dynasty",
+      "Malintha Panka",
+      "Horoscopes",
+      "Devaram"
+    ],
+    "explanation": "புத்தருடைய வாழ்க்கை தொடர்பான பல்வேறு கதைகளை கூறும் நூல் ஜாதகங்கள்.",
+    "explanation_en": "A book that tells various stories related to the life of the Buddha is Horoscopes."
+  },
+  {
+    "id": 17,
+    "question": "புத்தர் தனது போதனைகளை பரப்புரை செய்த மொழி ________.",
+    "options": [
+      "சமஸ்கிருதம்",
+      "பிராகிருதம்",
+      "தமிழ்",
+      "பாலி"
+    ],
+    "correct": 1,
+    "question_en": "The language in which Buddha preached his teachings was ________.",
+    "options_en": [
+      "Sanskrit",
+      "Prakrit",
+      "Tamil",
+      "Bali"
+    ],
+    "explanation": "புத்தர் தனது போதனைகளை பரப்புரை செய்த மொழி பிராகிருதம்.",
+    "explanation_en": "The language in which Buddha preached his teachings was Prakrit."
+  },
+  {
+    "id": 18,
+    "question": "புத்த சரிதம் என்ற நூலின் ஆசிரியர் ________.",
+    "options": [
+      "அஸ்வகோஷர்",
+      "வசுமித்திரர்",
+      "வஜ்ரபோதி",
+      "கோசலா"
+    ],
+    "correct": 0,
+    "question_en": "The author of Buddha Charitam is ________.",
+    "options_en": [
+      "Ashwagoshar",
+      "Vasumitra",
+      "Vajra Bodhi",
+      "Kosala"
+    ],
+    "explanation": "புத்த சரிதம் என்ற நூலின் ஆசிரியர் அஸ்வகோஷர்.",
+    "explanation_en": "The author of Buddha Charitam is Ashwagoshar."
+  },
+  {
+    "id": 19,
+    "question": "சமண சமயம் யாருடைய ஆட்சிக் காலத்தில் செழித்தோங்கியது?",
+    "options": [
+      "சேரர்",
+      "சோழர்",
+      "பாண்டியர்",
+      "பல்லவர்"
+    ],
+    "correct": 3,
+    "question_en": "Jainism flourished during whose reign?",
+    "options_en": [
+      "will join",
+      "Chola",
+      "Ponder",
+      "Pallavar"
+    ],
+    "explanation": "பல்லவர்",
+    "explanation_en": "Pallavar"
+  },
+  {
+    "id": 20,
+    "question": "தவறான இணை எது?",
+    "options": [
+      "திருப்பருத்திக் குன்றம் - காஞ்சிபுரம்",
+      "கழுகு மலை - தூத்துக்குடி",
+      "திருமலை - சேலம்",
+      "பைரவ மலை - வேலூர்"
+    ],
+    "correct": 2,
+    "question_en": "Which is the wrong parallel?",
+    "options_en": [
+      "Thiruparuddhi Hill - Kancheepuram",
+      "Eagle Hill - Tuticorin",
+      "Tirumala - Salem",
+      "Bhairava Hill - Vellore"
+    ],
+    "explanation": "தவறான இணை திருமலை - சேலம் ஆகும்.",
+    "explanation_en": "Tirumala - Salem is the wrong parallel."
+  },
+  {
+    "id": 21,
+    "question": "பொருந்தாத ஒன்றைத்தேர்ந்தெடு.",
+    "options": [
+      "சீவக சிந்தாமணி",
+      "திருக்குறள்",
+      "நாலடியார்",
+      "மணிமேகலை"
+    ],
+    "correct": 3,
+    "question_en": "Select one that does not apply.",
+    "options_en": [
+      "Sivaka Chintamani",
+      "Thirukkural",
+      "Naladiyar",
+      "Hourglass"
+    ],
+    "explanation": "மணிமேகலை",
+    "explanation_en": "Hourglass"
+  },
+  {
+    "id": 22,
+    "question": "சரியான இணை எது?",
+    "options": [
+      "கல்பசூத்ரா - புத்த கோசா",
+      "விசுத்திமக்கா - சீத்தலை சாத்தனார்",
+      "மத்தவிலாச பிரகாசனம் - மகேந்திரவர்மன்",
+      "சீவக சிந்தாமணி - பத்ரபாகு"
+    ],
+    "correct": 2,
+    "question_en": "Which is the correct counterpart?",
+    "options_en": [
+      "Kalpasutra - Buddha Gosa",
+      "Vishuthimakha - Sitalai Satanar",
+      "Madhavilasa Prakasanam - Mahendravarman",
+      "Sivaka Chintamani - Bhadrabaku"
+    ],
+    "explanation": "சரியான இணை மத்தவிலாச பிரகாசனம் - மகேந்திரவர்மன் ஆகும்.",
+    "explanation_en": "Madhavilasa Prakasanam - Mahendravarman is the correct counterpart."
+  },
+  {
+    "id": 23,
+    "question": "பொருத்துக:\n(i) 22 வது தீர்த்தங்கரர் - a. இருகப்பா\n(ii) 24 வது தீர்த்தங்கரர் - b. நேமி நாதர்\n(iii) கீழக்குயில்குடி - c. மகாவீரர்\n(iv) புஷ்பசேனா - d. மதுரை",
+    "options": [
+      "i – c, ii – a, iii – d, iv – b",
+      "i – b, ii – c, iii – d, iv – a",
+      "i – d, ii – a, iii – c, iv – b",
+      "i – d, ii – c, iii – a, iv – b"
+    ],
+    "correct": 1,
+    "question_en": "Match:\n(i) 22nd Tirthankar - a. stay\n(ii) 24th Tirthankara - b. Nemi Nader\n(iii) Lower Quilgudi - c. Mahavira\n(iv) Pushpasena - d. Madurai",
+    "options_en": [
+      "i – c, ii – a, iii – d, iv – b",
+      "i – b, ii – c, iii – d, iv – a",
+      "i – d, ii – a, iii – c, iv – b",
+      "i – d, ii – c, iii – a, iv – b"
+    ],
+    "explanation": "i – b, ii – c, iii – d, iv – a",
+    "explanation_en": "i – b, ii – c, iii – d, iv – a"
+  },
+  {
+    "id": 24,
+    "question": "கீழ்க்கண்டவற்றுள் எது சரி?",
+    "options": [
+      "ASI என்பது மத்திய அரசு தொல்லியல் துறை",
+      "பொதுவாகத் தமிழர்கள் சுவேதாம்பரர் பிரிவைச் சார்ந்தவர்கள்",
+      "பெரும்பாலான அரசர்கள் பௌத்த மதத்தைச் சார்ந்தவர்கள்",
+      "திருவள்ளுவர் பௌத்த மதத்தைச் சார்ந்தவர்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is correct?",
+    "options_en": [
+      "ASI is the Central Government Department of Archaeology",
+      "Tamils ​​generally belong to the Suvedambara sect",
+      "Most of the kings were Buddhists",
+      "Thiruvalluvar belongs to Buddhism"
+    ],
+    "explanation": "ASI என்பது மத்திய அரசு தொல்லியல் துறை",
+    "explanation_en": "ASI is the Central Government Department of Archaeology is correct."
+  },
+  {
+    "id": 25,
+    "question": "கீழ்க்கண்டவற்றுள் எது தவறு?",
+    "options": [
+      "12 வது ஆகம சூத்திரம் தொலைந்து போனதாக கருதப்படுகிறது",
+      "பிகநிதயா என்பது சமண சமய நூல்",
+      "அர்த்த மகதி பிராகிருத மொழியில் எழுதப்பட்டது",
+      "சமணக் கோவில்களுக்கு மிகச் சிறந்த எடுத்துக்காட்டாக திகழ்வது கீழக்குயில்குடி கிராமம்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is wrong?",
+    "options_en": [
+      "The 12th Agama Sutra is thought to be lost",
+      "Bhikanithaya is a Jain religious text",
+      "Artha Magadhi is written in Prakrit language",
+      "One of the best examples of Jain temples is Keezakuilkudi village"
+    ],
+    "explanation": "பிகநிதயா என்பது சமண சமய நூல்",
+    "explanation_en": "Bhikanithaya is a Jain religious text is wrong."
+  },
+  {
+    "id": 26,
+    "question": "தமிழ்நாட்டிலுள்ள சமண சிலைகளில் மிக உயரமானதாக கருதப்படுவது ________.",
+    "options": [
+      "மகாவீரர் சிலை",
+      "நேமிநாதர் சிலை",
+      "புஷ்பசேனா சிலை",
+      "இவைகளில் எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "________ is considered to be the tallest of the Jain idols in Tamil Nadu.",
+    "options_en": [
+      "Statue of Mahavir",
+      "Statue of Neminatha",
+      "Idol of Pushpasena",
+      "None of these"
+    ],
+    "explanation": "தமிழ்நாட்டிலுள்ள சமண சிலைகளில் மிக உயரமானதாக கருதப்படுவது நேமிநாதர் சிலை.",
+    "explanation_en": "Statue of Neminatha is considered to be the tallest of the Jain idols in Tamil Nadu."
+  },
+  {
+    "id": 27,
+    "question": "திருப்பருத்திக் குன்றம் சமண ஜைன கோவில் எந்த மாவட்டத்தில் உள்ளது?",
+    "options": [
+      "தூத்துக்குடி",
+      "திருவண்ணாமலை",
+      "மதுரை",
+      "காஞ்சிபுரம்"
+    ],
+    "correct": 3,
+    "question_en": "In which district is the Tiruparutthi hill Jain temple located?",
+    "options_en": [
+      "Tuticorin",
+      "Thiruvannamalai",
+      "Madurai",
+      "Kanchipuram"
+    ],
+    "explanation": "காஞ்சிபுரம்",
+    "explanation_en": "Kanchipuram"
+  },
+  {
+    "id": 28,
+    "question": "பைரவ மலை அமைந்துள்ள மாவட்டம் ________.",
+    "options": [
+      "வேலூர்",
+      "மதுரை",
+      "தூத்துக்குடி",
+      "காஞ்சிபுரம்"
+    ],
+    "correct": 0,
+    "question_en": "The district where Bhairava Hill is located is ________.",
+    "options_en": [
+      "Vellore",
+      "Madurai",
+      "Tuticorin",
+      "Kanchipuram"
+    ],
+    "explanation": "பைரவ மலை அமைந்துள்ள மாவட்டம் வேலூர்.",
+    "explanation_en": "The district where Bhairava Hill is located is Vellore."
+  },
+  {
+    "id": 29,
+    "question": "புஷ்பசேனா என்னும் சமண முனிவரின் சீடர் ________.",
+    "options": [
+      "இருகப்பா",
+      "அசோகர்",
+      "நேமிநாதர்",
+      "பராந்தக நெடுஞ்சடையன்"
+    ],
+    "correct": 0,
+    "question_en": "A disciple of the Jain sage Pushpasena ________.",
+    "options_en": [
+      "stay",
+      "Ashoka",
+      "Neminathar",
+      "Parantaka Nedunchadayan"
+    ],
+    "explanation": "புஷ்பசேனா என்னும் சமண முனிவரின் சீடர் இருகப்பா.",
+    "explanation_en": "A disciple of the Jain sage Pushpasena stay."
+  },
+  {
+    "id": 30,
+    "question": "பௌத்த துறவிகளுக்கான விதிமுறைகளைப் பற்றி கூறுவது ________.",
+    "options": [
+      "சுத்த பிடகா",
+      "வினய பிடகா",
+      "அபிதம்ம பிடகா",
+      "எதுவுமில்லை"
+    ],
+    "correct": 1,
+    "question_en": "What is said about the rules for Buddhist monks is ________.",
+    "options_en": [
+      "Sheer Pitaka",
+      "Vinaya Pitaka",
+      "Abhidhamma Pitaka",
+      "Nothing"
+    ],
+    "explanation": "பௌத்த துறவிகளுக்கான விதிமுறைகளைப் பற்றி கூறுவது வினய பிடகா.",
+    "explanation_en": "What is said about the rules for Buddhist monks is Vinaya Pitaka."
+  },
+  {
+    "id": 31,
+    "question": "தாந்தீரிகச் சடங்குகளில் திறன் பெற்று விளங்கியவர் ________.",
+    "options": [
+      "ஸ்ரீவிஜயா",
+      "மகேந்திரவர்மன்",
+      "வஜ்ரபோதி",
+      "அஸ்வகோசர்"
+    ],
+    "correct": 2,
+    "question_en": "A person skilled in Tantric rituals is ________.",
+    "options_en": [
+      "Srivijaya",
+      "Mahendravarman",
+      "Vajra Bodhi",
+      "Ashwagandha"
+    ],
+    "explanation": "தாந்தீரிகச் சடங்குகளில் திறன் பெற்று விளங்கியவர் வஜ்ரபோதி.",
+    "explanation_en": "A person skilled in Tantric rituals is Vajra Bodhi."
+  },
+  {
+    "id": 32,
+    "question": "பௌத்தம் சரிவை சந்தித்துக் கொண்டிருக்கும் சமயமென எடுத்துரைக்கும் நூல் ________.",
+    "options": [
+      "தேவாரம்",
+      "மத்தவிலாச பிரகாசனம்",
+      "சீவக சிந்தாமணி",
+      "புத்தசரிதா"
+    ],
+    "correct": 1,
+    "question_en": "________ is a book that deals with the decline of Buddhism.",
+    "options_en": [
+      "Devaram",
+      "Religious brilliance",
+      "Sivaka Chintamani",
+      "Buddhacharita"
+    ],
+    "explanation": "பௌத்தம் சரிவை சந்தித்துக் கொண்டிருக்கும் சமயமென எடுத்துரைக்கும் நூல் மத்தவிலாச பிரகாசனம்.",
+    "explanation_en": "Religious brilliance is a book that deals with the decline of Buddhism."
+  },
+  {
+    "id": 33,
+    "question": "கர்மா, மறுபிறவி மற்றும் முன் தீர்மானம் ஆகிய கோட்பாடுகளில் நம்பிக்கை கொண்டிருந்தவர்கள் ________.",
+    "options": [
+      "சமணர்கள்",
+      "பௌத்தர்கள்",
+      "ஆசீவகர்கள்",
+      "1 மற்றும் 2"
+    ],
+    "correct": 2,
+    "question_en": "Those who believed in the theories of karma, reincarnation and predestination were ________.",
+    "options_en": [
+      "Jains",
+      "Buddhists",
+      "Blessings",
+      "1 and 2"
+    ],
+    "explanation": "கர்மா, மறுபிறவி மற்றும் முன் தீர்மானம் ஆகிய கோட்பாடுகளில் நம்பிக்கை கொண்டிருந்தவர்கள் ஆசீவகர்கள்.",
+    "explanation_en": "Those who believed in the theories of karma, reincarnation and predestination were Blessings."
+  },
+  {
+    "id": 34,
+    "question": "புத்தரின் போதனைகளை எடுத்துரைக்கும் நூல் ________.",
+    "options": [
+      "மகாவம்சம்",
+      "தீபவம்சம்",
+      "புத்த வம்சா",
+      "ஜாதகங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "A book that expounds the teachings of the Buddha is ________.",
+    "options_en": [
+      "Mahavamsa",
+      "Deepavamsa",
+      "Buddhist dynasty",
+      "Horoscopes"
+    ],
+    "explanation": "புத்தரின் போதனைகளை எடுத்துரைக்கும் நூல் தீபவம்சம்.",
+    "explanation_en": "A book that expounds the teachings of the Buddha is Deepavamsa."
+  },
+  {
+    "id": 35,
+    "question": "திரிபிடகா என்பதன் பொருள் ________.",
+    "options": [
+      "மூன்று கூடைகள்",
+      "மிலிந்தாவின் கேள்விகள்",
+      "அகிம்சை",
+      "பிரம்மச்சரியா"
+    ],
+    "correct": 0,
+    "question_en": "Tripitaka means ________.",
+    "options_en": [
+      "Three baskets",
+      "Milinda's questions",
+      "Non-violence",
+      "Brahmacharya"
+    ],
+    "explanation": "திரிபிடகா என்பதன் பொருள் மூன்று கூடைகள்.",
+    "explanation_en": "Tripitaka means Three baskets."
+  },
+  {
+    "id": 36,
+    "question": "கீழ்க்கண்டவற்றுள் எது களப்பிரர்களால் ஆதரிக்கப்பட்டது?",
+    "options": [
+      "புத்த மதம்",
+      "சமண மதம்",
+      "ஆசீவகம்",
+      "இந்து மதம்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following was advocated by field workers?",
+    "options_en": [
+      "Buddhism",
+      "Jainism",
+      "blessing",
+      "Hinduism"
+    ],
+    "explanation": "இந்து மதம்",
+    "explanation_en": "Hinduism"
+  },
+  {
+    "id": 37,
+    "question": "ஆகம சூத்திரங்கள் எந்த மொழியில் எழுதப்பட்டன?",
+    "options": [
+      "பாலி",
+      "சமஸ்கிருதம்",
+      "பிராகிருதம்",
+      "தமிழ்"
+    ],
+    "correct": 2,
+    "question_en": "In which language were the Agama Sutras written?",
+    "options_en": [
+      "Bali",
+      "Sanskrit",
+      "Prakrit",
+      "Tamil"
+    ],
+    "explanation": "பிராகிருதம்",
+    "explanation_en": "Prakrit"
+  },
+  {
+    "id": 38,
+    "question": "நிர்வாணா என்ற சொல்லின் பொருள் ________.",
+    "options": [
+      "அகிம்சை",
+      "திருடாமை",
+      "இயற்கை எய்துதல்",
+      "உண்மை"
+    ],
+    "correct": 2,
+    "question_en": "The meaning of the word Nirvana is ________.",
+    "options_en": [
+      "Non-violence",
+      "Non-stealing",
+      "Natural shooting",
+      "true"
+    ],
+    "explanation": "நிர்வாணா என்ற சொல்லின் பொருள் இயற்கை எய்துதல்.",
+    "explanation_en": "The meaning of the word Nirvana is Natural shooting."
+  },
+  {
+    "id": 39,
+    "question": "அபரிக்கிரகா என்பதன் பொருள் ________.",
+    "options": [
+      "உண்மை",
+      "அகிம்சை",
+      "ஆசை கொள்ளாமை",
+      "திருடாமை"
+    ],
+    "correct": 2,
+    "question_en": "Aparigraha means ________.",
+    "options_en": [
+      "true",
+      "Non-violence",
+      "Desirelessness",
+      "Non-stealing"
+    ],
+    "explanation": "அபரிக்கிரகா என்பதன் பொருள் ஆசை கொள்ளாமை.",
+    "explanation_en": "Aparigraha means Desirelessness."
+  },
+  {
+    "id": 40,
+    "question": "சமண சமயத்தை நிறுவியவர் ________.",
+    "options": [
+      "மகாவீரர்",
+      "பார்சவநாதர்",
+      "புத்தர்",
+      "பத்ரபாகு"
+    ],
+    "correct": 1,
+    "question_en": "Jainism was founded by ________.",
+    "options_en": [
+      "Mahavira",
+      "Parsavanatha",
+      "Buddha",
+      "Bhadrabaku"
+    ],
+    "explanation": "சமண சமயத்தை நிறுவியவர் பார்சவநாதர்.",
+    "explanation_en": "Jainism was founded by Parsavanatha."
+  },
+  {
+    "id": 41,
+    "question": "அறிவர் கோவில் அமைந்துள்ள மாவட்டம் ________.",
+    "options": [
+      "புதுக்கோட்டை",
+      "மதுரை",
+      "தூத்துக்குடி",
+      "காஞ்சிபுரம்"
+    ],
+    "correct": 0,
+    "question_en": "The district where Vikar Temple is located is ________.",
+    "options_en": [
+      "Pudukottai",
+      "Madurai",
+      "Tuticorin",
+      "Kanchipuram"
+    ],
+    "explanation": "அறிவர் கோவில் அமைந்துள்ள மாவட்டம் புதுக்கோட்டை.",
+    "explanation_en": "The district where Vikar Temple is located is Pudukottai."
+  },
+  {
+    "id": 42,
+    "question": "சீனப்பயணி யுவான்சுவாங் எந்த நூற்றாண்டு காஞ்சிக்கு வருகை புரிந்தார்?",
+    "options": [
+      "6",
+      "5",
+      "3",
+      "7"
+    ],
+    "correct": 3,
+    "question_en": "In which century did the Chinese traveler Yuanzhuang visit Kanji?",
+    "options_en": [
+      "6",
+      "5",
+      "3",
+      "7"
+    ],
+    "explanation": "7",
+    "explanation_en": "7"
+  },
+  {
+    "id": 43,
+    "question": "நேமிநாதர் சிலையின் உயரம் ________.",
+    "options": [
+      "10 மீ",
+      "26 மீ",
+      "36 மீ",
+      "16 மீ"
+    ],
+    "correct": 3,
+    "question_en": "The height of Neminatha statue is ________.",
+    "options_en": [
+      "10 m",
+      "26 m",
+      "36 m",
+      "16 m"
+    ],
+    "explanation": "நேமிநாதர் சிலையின் உயரம் 16 மீ.",
+    "explanation_en": "The height of Neminatha statue is 16 m."
+  },
+  {
+    "id": 44,
+    "question": "2011 ம் ஆண்டு கணக்கெடுப்பின் படி தமிழ்நாட்டில் சமணர்களின் எண்ணிக்கை ________.",
+    "options": [
+      "38,359",
+      "53,389",
+      "35,839",
+      "83,359"
+    ],
+    "correct": 3,
+    "question_en": "According to 2011 census the number of Jains in Tamil Nadu is ________.",
+    "options_en": [
+      "38,359",
+      "53,389",
+      "35,839",
+      "83,359"
+    ],
+    "explanation": "2011 ம் ஆண்டு கணக்கெடுப்பின் படி தமிழ்நாட்டில் சமணர்களின் எண்ணிக்கை 83,359.",
+    "explanation_en": "According to 2011 census the number of Jains in Tamil Nadu is 83,359."
+  },
+  {
+    "id": 45,
+    "question": "மணிமேகலையின் ஆசிரியர் ________.",
+    "options": [
+      "திருத்தக்க தேவர்",
+      "சீத்தலை சாத்தனார்",
+      "புத்த கோசா",
+      "மகேந்திர வர்மன்"
+    ],
+    "correct": 1,
+    "question_en": "The author of Manimegalai is ________.",
+    "options_en": [
+      "God to correct",
+      "Seethal satanar",
+      "Buddha Gosa",
+      "Mahendra Varman"
+    ],
+    "explanation": "மணிமேகலையின் ஆசிரியர் சீத்தலை சாத்தனார்.",
+    "explanation_en": "The author of Manimegalai is Seethal satanar."
+  },
+  {
+    "id": 46,
+    "question": "பொருத்துக.\n(i) கல்ப சூத்ரா - a. திருத்தக்க தேவர்\n(ii) சீவக சிந்தாமணி - b. மதுரை\n(iii) மிலிந்தபன்கா - c. பத்ரபாகு\n(iv) கீழக் குயில்குடி - d. நாகசேனர்",
+    "options": [
+      "i – c, ii – b, iii – d, iv – a",
+      "i – c, ii – a, iii – d, iv – b",
+      "i – d, ii – c, iii – b, iv – a",
+      "i – d, ii – c, iii – a, iv – b"
+    ],
+    "correct": 1,
+    "question_en": "match\n(i) Kalpa Sutra – a. God to correct\n(ii) Sivaka Chintamani - b. Madurai\n(iii) Milindabanga - c. Bhadrabaku\n(iv) Lower Quilgudi - d. Nagasenar",
+    "options_en": [
+      "i – c, ii – b, iii – d, iv – a",
+      "i – c, ii – a, iii – d, iv – b",
+      "i – d, ii – c, iii – b, iv – a",
+      "i – d, ii – c, iii – a, iv – b"
+    ],
+    "explanation": "i – c, ii – a, iii – d, iv – b",
+    "explanation_en": "i – c, ii – a, iii – d, iv – b"
+  },
+  {
+    "id": 47,
+    "question": "கீழ்க்கண்டவற்றுள் எது களப்பிரர்களால் ஆதரிக்கப்பட்டது?",
+    "options": [
+      "புத்த மதம்",
+      "சமண மதம்",
+      "ஆசீவகம்",
+      "இந்து மதம்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following was advocated by field workers?",
+    "options_en": [
+      "Buddhism",
+      "Jainism",
+      "blessing",
+      "Hinduism"
+    ],
+    "explanation": "சமண மதம்",
+    "explanation_en": "Jainism"
+  },
+  {
+    "id": 48,
+    "question": "கூற்றை ஆராய்க.\nகூற்று: பழைய மதங்களின் குருமார்களிடமிருந்து தான் கற்றுக் கொள்வதற்கு ஏதுமில்லை என கௌதமர் தெரிந்து கொண்டார்.\nகாரணம்: துறவு வாழ்க்கையை மேற்கொள்வதே முக்தி அடைவதற்கான ஒரே வழி என மதங்கள் அறிவித்தன.",
+    "options": [
+      "கூற்று சரி, காரணம் கூற்றுக்கான சரியான விளக்கம்",
+      "கூற்று சரி, காரணம் கூற்றுக்கான சரியான விளக்கமல்ல",
+      "கூற்று, காரணம் இரண்டுமே தவறு",
+      "கூற்று தவறு ஆனால் சரி"
+    ],
+    "correct": 0,
+    "question_en": "Examine the statement.\nStatement: Gautama realized that he had nothing to learn from the priests of the old religions.\nReason: Religions declared that asceticism was the only way to attain salvation.",
+    "options_en": [
+      "The statement is true, the reason is the correct explanation for the statement",
+      "The statement is correct, but the reason is not a valid explanation for the statement",
+      "Both the statement and the reason are false",
+      "The statement is false but true"
+    ],
+    "explanation": "கூற்று சரி, காரணம் கூற்றுக்கான சரியான விளக்கம்",
+    "explanation_en": "The statement is true, the reason is the correct explanation for the statement"
+  },
+  {
+    "id": 49,
+    "question": "சரியான கூற்றினைக் / கூற்றுக்களைக் காண்க.\nகூற்று (i): கி.மு. ஆறாம் நூற்றாண்டில் இந்தியாவில் வெவ்வேறுபட்ட 62 சமண சமயப் பள்ளிகள் செழிப்புற்று இருந்தன.\nகூற்று (ii): ‘பள்ளி’ என்பது புத்தமதத்தாரின் கல்வி மையமாகும்.\nகூற்று (iii): அரசர்கள் அளித்த ஆதரவினால், இஸ்லாமிய ஆட்சிக்கு முந்தைய இந்தியா, பல விகாரைகளைக் கொண்ட நாடாக விளங்கியது.\nகூற்று (iv): ஆசீவகம் பதினைந்தாம் நூற்றாண்டு வரை தொடர்ந்து செயல்பட்டது.",
+    "options": [
+      "கூற்று (i) மற்றும் (iii) சரி",
+      "கூற்று (i), (ii) மற்றும் (iv) சரி",
+      "கூற்று (i) மற்றும் (ii) சரி",
+      "கூற்று (i), (iii) மற்றும் (iv) சரி"
+    ],
+    "correct": 0,
+    "question_en": "Find the correct statement / statements.\nAssertion (i): B.C. Sixty-two different schools of Jainism flourished in India in the sixth century.\nAssertion (ii): 'School' is the educational center of Buddhists.\nAssertion (iii): Pre-Islamic India was a country of many viharas due to patronage by kings.\nAssertion (iv): Aashivaka continued to function till the fifteenth century.",
+    "options_en": [
+      "Statement (i) and (iii) are correct",
+      "Statement (i), (ii) and (iv) are correct",
+      "Statement (i) and (ii) are correct",
+      "Statement (i), (iii) and (iv) are correct"
+    ],
+    "explanation": "கூற்று (i) மற்றும் (iii) சரி",
+    "explanation_en": "Statement (i) and (iii) are correct"
+  },
+  {
+    "id": 50,
+    "question": "தவறான இணையைக் காண்க.",
+    "options": [
+      "பார்சவ நாதர் - 22 வது தீர்த்தங்கரர்",
+      "மகாபாஷ்யா - இலங்கையைச் சேர்ந்த வரலாற்றுத் தொகுப்பு",
+      "விசுத்திமக்கா - புத்தகோசா",
+      "புத்தர் - எண்வகை வழிகள்"
+    ],
+    "correct": 0,
+    "question_en": "View the wrong parallel.",
+    "options_en": [
+      "Parsava Nadhar - 22nd Tirthankar",
+      "Mahabhasya - Historical anthology from Sri Lanka",
+      "Visudthimakha - Buddhaghosa",
+      "Buddha - Numerical Paths"
+    ],
+    "explanation": "பார்சவ நாதர் - 22 வது தீர்த்தங்கரர்",
+    "explanation_en": "Parsava Nadhar - 22nd Tirthankar"
+  }
+]

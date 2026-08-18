@@ -1,0 +1,3702 @@
+[
+  {
+    "id": 1,
+    "question": "தனிமங்களின் மிகச்சிறிய துகள்களை எவ்வாறு அழைக்கிறோம்?",
+    "options": [
+      "அணு",
+      "மூலக்கூறு",
+      "துகள்",
+      "செல்"
+    ],
+    "correct": 0,
+    "question_en": "What do we call the smallest particles of the elements?",
+    "options_en": [
+      "Atomic",
+      "molecule",
+      "particle",
+      "Cell"
+    ],
+    "explanation": "அணு",
+    "explanation_en": "Atomic"
+  },
+  {
+    "id": 2,
+    "question": "அணுக்களுக்கு எக்காரணத்திற்காக அணு (Atom) என டால்டன் பெயரிட்டார்?",
+    "options": [
+      "உடைக்க இயலும் பெரிய துகள்",
+      "உடைக்க இயலாத சிறிய துகள்",
+      "உடைக்க இயலும் சிறிய துகள்",
+      "உடைக்க இயலாத பெரிய துகள்"
+    ],
+    "correct": 1,
+    "question_en": "Why Dalton named atoms as Atom?",
+    "options_en": [
+      "Large breakable particle",
+      "A small particle that cannot be broken",
+      "A small breakable particle",
+      "A large particle that cannot be broken"
+    ],
+    "explanation": "உடைக்க இயலாத சிறிய துகள்",
+    "explanation_en": "A small particle that cannot be broken"
+  },
+  {
+    "id": 3,
+    "question": "தற்காலத்தில் அணுக்களைப் பிரிக்க இயலுமா?",
+    "options": [
+      "இயலாது",
+      "இயலும்",
+      "எப்போதாவது இயலும்",
+      "கருத்தில்லை"
+    ],
+    "correct": 1,
+    "question_en": "Can atoms be split nowadays?",
+    "options_en": [
+      "can't",
+      "Can",
+      "Sometimes possible",
+      "Not considered"
+    ],
+    "explanation": "இயலும்",
+    "explanation_en": "Can"
+  },
+  {
+    "id": 4,
+    "question": "அணு அமைப்பை அறிய உதவும் நுண்ணோக்கி எது?",
+    "options": [
+      "எலக்ட்ரான் நுட்ப உருப்பெருக்கி",
+      "ஊடுபுழை எலக்ட்ரான் நுட்ப உருப்பெருக்கி",
+      "1 மற்றும் 2",
+      "எளிய உருப்பெருக்கி"
+    ],
+    "correct": 2,
+    "question_en": "Which microscope helps to know atomic structure?",
+    "options_en": [
+      "Electron magnifier",
+      "Penetration electron technique magnifier",
+      "1 and 2",
+      "Simple magnifier"
+    ],
+    "explanation": "அணு அமைப்பை அறிய உதவும் நுண்ணோக்கி 1 மற்றும் 2 ஆகும்.",
+    "explanation_en": "1 and 2"
+  },
+  {
+    "id": 5,
+    "question": "பின்வரும் கூற்றுகளுள் தனிமங்களை வரையறுக்காதது எது?",
+    "options": [
+      "எந்த ஒரு தூய பொருளை இயற்பியல் அல்லது வேதியியல் முறையினால் மேலும் பிரிக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "எந்த ஒரு தொடக்க நிலையிலுள்ள பருப்பொருள்களைச் சிறிய பொருளாக உடைக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "ஒரே வகை அணுக்களால் ஆனதே தனிமமாகும்.",
+      "வெவ்வேறு வகை அணுக்களால் ஆனதே தனிமமாகும்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following statements does not define elements?",
+    "options_en": [
+      "Any pure substance that cannot be further separated by physical or chemical methods is an element.",
+      "Any elementary matter that cannot be broken down into smaller substances is an element.",
+      "An element is made up of the same type of atoms.",
+      "An element is made up of different types of atoms."
+    ],
+    "explanation": "வெவ்வேறு வகை அணுக்களால் ஆனதே தனிமமாகும்.",
+    "explanation_en": "An element is made up of different types of atoms."
+  },
+  {
+    "id": 6,
+    "question": "பின்வரும் கூற்றுகளுள் தனிமங்களைப் பற்றிய பாயிலின் கூற்று எது?",
+    "options": [
+      "எந்த ஒரு தூய பொருளை இயற்பியல் அல்லது வேதியியல் முறையினால் மேலும் பிரிக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "எந்த ஒரு தொடக்க நிலையிலுள்ள பருப்பொருள்களைச் சிறிய பொருளாக உடைக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "ஒரே வகை அணுக்களால் ஆனதே தனிமமாகும்.",
+      "வெவ்வேறு வகை அணுக்களால் ஆனதே தனிமமாகும்."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following statements is Boyle's statement about the elements?",
+    "options_en": [
+      "Any pure substance that cannot be further separated by physical or chemical methods is an element.",
+      "Any elementary matter that cannot be broken down into smaller substances is an element.",
+      "An element is made up of the same type of atoms.",
+      "An element is made up of different types of atoms."
+    ],
+    "explanation": "எந்த ஒரு தூய பொருளை இயற்பியல் அல்லது வேதியியல் முறையினால் மேலும் பிரிக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+    "explanation_en": "Any pure substance that cannot be further separated by physical or chemical methods is an element."
+  },
+  {
+    "id": 7,
+    "question": "பின்வரும் கூற்றுகளுள் தனிமங்களைப் பற்றிய லவாய்சியரின் கூற்று எது?",
+    "options": [
+      "எந்த ஒரு தூய பொருளை இயற்பியல் அல்லது வேதியியல் முறையினால் மேலும் பிரிக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "எந்த ஒரு தொடக்க நிலையிலுள்ள பருப்பொருள்களைச் சிறிய பொருளாக உடைக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "ஒரே வகை அணுக்களால் ஆனதே தனிமமாகும்.",
+      "வெவ்வேறு வகை அணுக்களால் ஆனதே தனிமமாகும்."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following statements is true of Lavoisier about the elements?",
+    "options_en": [
+      "Any pure substance that cannot be further separated by physical or chemical methods is an element.",
+      "Any elementary matter that cannot be broken down into smaller substances is an element.",
+      "An element is made up of the same type of atoms.",
+      "An element is made up of different types of atoms."
+    ],
+    "explanation": "எந்த ஒரு தொடக்க நிலையிலுள்ள பருப்பொருள்களைச் சிறிய பொருளாக உடைக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+    "explanation_en": "Any elementary matter that cannot be broken down into smaller substances is an element."
+  },
+  {
+    "id": 8,
+    "question": "தற்கால அணுக்கொள்கையின்படி அணு எனப்படுவது",
+    "options": [
+      "எந்த ஒரு தூய பொருளை இயற்பியல் அல்லது வேதியியல் முறையினால் மேலும் பிரிக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "எந்த ஒரு தொடக்க நிலையிலுள்ள பருப்பொருள்களைச் சிறிய பொருளாக உடைக்க இயலாதோ அப்பொருளே தனிமமாகும்.",
+      "ஒரே வகை அணுக்களால் ஆனதே தனிமமாகும்.",
+      "வெவ்வேறு வகை அணுக்களால் ஆனதே தனிமமாகும்."
+    ],
+    "correct": 2,
+    "question_en": "According to the modern atomic theory, the atom is called",
+    "options_en": [
+      "Any pure substance that cannot be further separated by physical or chemical methods is an element.",
+      "Any elementary matter that cannot be broken down into smaller substances is an element.",
+      "An element is made up of the same type of atoms.",
+      "An element is made up of different types of atoms."
+    ],
+    "explanation": "ஒரே வகை அணுக்களால் ஆனதே தனிமமாகும்.",
+    "explanation_en": "An element is made up of the same type of atoms."
+  },
+  {
+    "id": 9,
+    "question": "பின்வருவனவற்றுள் தனிமமல்லாதது எது?",
+    "options": [
+      "தாமிரம்",
+      "தங்கம்",
+      "நீர்",
+      "ஹைட்ரஜன்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not an element?",
+    "options_en": [
+      "Copper",
+      "Gold",
+      "Water",
+      "Hydrogen"
+    ],
+    "explanation": "பின்வருவனவற்றுள் தனிமமல்லாதது நீர் ஆகும்.",
+    "explanation_en": "Water is not an element."
+  },
+  {
+    "id": 10,
+    "question": "பின்வருவனவற்றுள் சேர்மமல்லாதது எது?",
+    "options": [
+      "உப்பு",
+      "கார்பன்",
+      "நீர்",
+      "சர்க்கரை"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not a compound?",
+    "options_en": [
+      "Salt",
+      "Carbon",
+      "Water",
+      "Sugar"
+    ],
+    "explanation": "பின்வருவனவற்றுள் சேர்மமல்லாதது கார்பன் ஆகும்.",
+    "explanation_en": "Carbon is not a compound."
+  },
+  {
+    "id": 11,
+    "question": "சல்ஃபர் தனிமத்தில் காணப்படுவது",
+    "options": [
+      "சல்ஃபர் மற்றும் ஆக்ஸிஜன் அணுக்கள் மட்டும்.",
+      "சல்ஃபர் மற்றும் ஆக்ஸிஜன் மூலக்கூறுகள் மட்டும்.",
+      "சல்ஃபர் அணுக்கள் மட்டும்",
+      "ஆக்ஸிஜன் அணுக்கள் மட்டும்"
+    ],
+    "correct": 2,
+    "question_en": "Sulfur is found in the element",
+    "options_en": [
+      "Only sulfur and oxygen atoms.",
+      "Only sulfur and oxygen molecules.",
+      "Sulfur atoms only",
+      "Only oxygen atoms"
+    ],
+    "explanation": "சல்ஃபர் அணுக்கள் மட்டும்",
+    "explanation_en": "Sulfur atoms only"
+  },
+  {
+    "id": 12,
+    "question": "மின்கம்பி எதனால் ஆனது?",
+    "options": [
+      "இரும்பு",
+      "கார்பன்",
+      "தாமிரம்",
+      "தங்கம்"
+    ],
+    "correct": 2,
+    "question_en": "What is an electric wire made of?",
+    "options_en": [
+      "Iron",
+      "Carbon",
+      "Copper",
+      "Gold"
+    ],
+    "explanation": "தாமிரம்",
+    "explanation_en": "Copper is an electric wire made of."
+  },
+  {
+    "id": 13,
+    "question": "தாமிரத்தைக் குறிப்பிடாதது எது?",
+    "options": [
+      "செப்பு",
+      "காப்பர்",
+      "Cu",
+      "மயில்துத்தம்"
+    ],
+    "correct": 3,
+    "question_en": "Which one does not mention copper?",
+    "options_en": [
+      "Copper",
+      "Copper",
+      "Cu",
+      "Peacock"
+    ],
+    "explanation": "தாமிரத்தைக் குறிப்பிடாதது மயில்துத்தம் ஆகும்.",
+    "explanation_en": "Peacock"
+  },
+  {
+    "id": 14,
+    "question": "தாமிரத்தின் குறியீடு எது?",
+    "options": [
+      "CU",
+      "CU",
+      "Cu",
+      "cu"
+    ],
+    "correct": 2,
+    "question_en": "What is the symbol of copper?",
+    "options_en": [
+      "CU",
+      "CU",
+      "Cu",
+      "Cu"
+    ],
+    "explanation": "தாமிரத்தின் குறியீடு Cu ஆகும்.",
+    "explanation_en": "Cu is the symbol of copper."
+  },
+  {
+    "id": 15,
+    "question": "அணிகலன்கள் செய்யப் பயன்படாதது எது?",
+    "options": [
+      "Au",
+      "Cu",
+      "Ca",
+      "Pt"
+    ],
+    "correct": 2,
+    "question_en": "What is not used to make accessories?",
+    "options_en": [
+      "Au",
+      "Cu",
+      "Ca",
+      "Pt"
+    ],
+    "explanation": "அணிகலன்கள் செய்யப் பயன்படாதது Ca ஆகும்.",
+    "explanation_en": "Ca is not used to make accessories."
+  },
+  {
+    "id": 16,
+    "question": "நிலக்கரியில் மிகுதியாக கணப்படுவது எது?",
+    "options": [
+      "C",
+      "N",
+      "O",
+      "Cu"
+    ],
+    "correct": 0,
+    "question_en": "Which is found in abundance in coal?",
+    "options_en": [
+      "C",
+      "N",
+      "O",
+      "Cu"
+    ],
+    "explanation": "நிலக்கரியில் மிகுதியாக கணப்படுவது C ஆகும்.",
+    "explanation_en": "C is found in abundance in coal."
+  },
+  {
+    "id": 17,
+    "question": "மாறுபட்ட பருமனளவு மற்றும் உள்கட்டமைப்பைக் கொண்ட அணுக்களைப் பெற்றிருப்பவை",
+    "options": [
+      "ஒத்த தனிமங்கள்",
+      "வெவ்வேறு தனிமங்கள்",
+      "மூலக்கூறுகள்",
+      "கதிரியக்கத் தனிமங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "They have atoms of different sizes and structures",
+    "options_en": [
+      "Similar elements",
+      "Different elements",
+      "Molecules",
+      "Radioactive elements"
+    ],
+    "explanation": "வெவ்வேறு தனிமங்கள்",
+    "explanation_en": "Different elements"
+  },
+  {
+    "id": 18,
+    "question": "IUPAC என்பதன் விரிவாக்கம்",
+    "options": [
+      "Indian Union of Pure and Applied Chemistry",
+      "Indian Unity of Pure and Applied Chemistry",
+      "International Union of Pure and Applied Chemistry",
+      "International Unity of Pure and Applied Chemistry"
+    ],
+    "correct": 2,
+    "question_en": "Extension of IUPAC",
+    "options_en": [
+      "Indian Union of Pure and Applied Chemistry",
+      "Indian Unity of Pure and Applied Chemistry",
+      "International Union of Pure and Applied Chemistry",
+      "International Unity of Pure and Applied Chemistry"
+    ],
+    "explanation": "International Union of Pure and Applied Chemistry",
+    "explanation_en": "International Union of Pure and Applied Chemistry"
+  },
+  {
+    "id": 19,
+    "question": "இப்புவியில் 3/4 பங்கு காணப்படும் தனிமங்கள்",
+    "options": [
+      "O, N",
+      "O, Ne",
+      "O, Si",
+      "O, S"
+    ],
+    "correct": 2,
+    "question_en": "3/4 of the elements found in earth",
+    "options_en": [
+      "O, N",
+      "Oh, no",
+      "O, Si",
+      "Oh, S"
+    ],
+    "explanation": "O, Si",
+    "explanation_en": "O, Si"
+  },
+  {
+    "id": 20,
+    "question": "மனித உடலில் மிகையளவு காணப்படாத தனிமம்",
+    "options": [
+      "C",
+      "H",
+      "Si",
+      "O"
+    ],
+    "correct": 2,
+    "question_en": "An element that is not found in abundance in the human body",
+    "options_en": [
+      "C",
+      "H",
+      "Si",
+      "O"
+    ],
+    "explanation": "Si",
+    "explanation_en": "Si"
+  },
+  {
+    "id": 21,
+    "question": "பின்வருவனவற்றுள் மனித உடலில் மிகையளவு காணப்படும் தனிமம்",
+    "options": [
+      "O",
+      "Al",
+      "B",
+      "Fe"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is the most abundant element in the human body?",
+    "options_en": [
+      "O",
+      "Al",
+      "B",
+      "Fe"
+    ],
+    "explanation": "O",
+    "explanation_en": "O is the most abundant element in the human body."
+  },
+  {
+    "id": 22,
+    "question": "புவியில் ஆக்ஸிஜனுக்கு அடுத்தாற்போல் அதிகம் காணப்படும் தனிமம்",
+    "options": [
+      "O",
+      "Si",
+      "Al",
+      "Fe"
+    ],
+    "correct": 1,
+    "question_en": "It is the second most abundant element on earth after oxygen",
+    "options_en": [
+      "O",
+      "Si",
+      "Al",
+      "Fe"
+    ],
+    "explanation": "Si",
+    "explanation_en": "Si"
+  },
+  {
+    "id": 23,
+    "question": "கீழ்க்காணும் வரிசையில், புவியில் காணப்படும் தனிமங்களின் சரியான வரிசை எது?",
+    "options": [
+      "O < Si < Al < Fe",
+      "O > Si > Al > Fe",
+      "O > Si > Al < Fe",
+      "O < Si < Al > Fe"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is the correct order of elements found on Earth?",
+    "options_en": [
+      "O < Si < Al < Fe",
+      "O > Si > Al > Fe",
+      "O > Si > Al < Fe",
+      "O < Si < Al > Fe"
+    ],
+    "explanation": "கீழ்க்காணும் வரிசையில், புவியில் காணப்படும் தனிமங்களின் சரியான வரிசை O > Si > Al > Fe ஆகும்.",
+    "explanation_en": "O > Si > Al > Fe is the correct order of elements found on Earth."
+  },
+  {
+    "id": 24,
+    "question": "கீழ்க்காணும் வரிசையில், மனிதனில் காணப்படும் தனிமங்களின் சரியான வரிசை எது?",
+    "options": [
+      "O > C > H > N",
+      "N < C < O < H",
+      "O > C < H > N",
+      "O > C > H < N"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is the correct order of elements found in humans?",
+    "options_en": [
+      "O > C > H > N",
+      "N < C < O < H",
+      "O > C < H > N",
+      "O > C > H < N"
+    ],
+    "explanation": "கீழ்க்காணும் வரிசையில், மனிதனில் காணப்படும் தனிமங்களின் சரியான வரிசை N < C < O < H ஆகும்.",
+    "explanation_en": "N < C < O < H is the correct order of elements found in humans."
+  },
+  {
+    "id": 25,
+    "question": "கீழ்க்காணும் வரிசையில் மனிதனில் காணப்படும் தனிமங்களின் சரியான வரிசை எது?",
+    "options": [
+      "O > N < H < C",
+      "O > N > H < C",
+      "O > N < H > C",
+      "O < N < H < C"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is the correct order of elements found in humans?",
+    "options_en": [
+      "O > N < H < C",
+      "O > N > H < C",
+      "O > N < H > C",
+      "O < N < H < C"
+    ],
+    "explanation": "கீழ்க்காணும் வரிசையில் மனிதனில் காணப்படும் தனிமங்களின் சரியான வரிசை O > N < H < C ஆகும்.",
+    "explanation_en": "O > N < H < C is the correct order of elements found in humans."
+  },
+  {
+    "id": 26,
+    "question": "கீழ்க்காணும் வரிசையில், புவியில் காணப்படும் தனிமங்களின் சரியான வரிசை எது?",
+    "options": [
+      "O < Al > Si",
+      "Al < O > Si",
+      "Si > O > Al",
+      "Si < O < Al"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is the correct order of elements found on Earth?",
+    "options_en": [
+      "O < Al > Si",
+      "Al < O > Si",
+      "Si > O > Al",
+      "Si < O < Al"
+    ],
+    "explanation": "கீழ்க்காணும் வரிசையில், புவியில் காணப்படும் தனிமங்களின் சரியான வரிசை Al < O > Si ஆகும்.",
+    "explanation_en": "Al < O > Si is the correct order of elements found on Earth."
+  },
+  {
+    "id": 27,
+    "question": "மனித உடலில் காணப்படும் தனிமங்களின் அளவானது சதவீதத்தின் அடிப்படையில் கொடுக்கப்பட்டுள்ளது. இதில் தவறான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "N 78%",
+      "O 24%",
+      "C 12%",
+      "Ca 0.2%"
+    ],
+    "correct": 0,
+    "question_en": "The amounts of elements found in the human body are given in percentage terms. Choose the wrong parallel in this.",
+    "options_en": [
+      "N 78%",
+      "O 24%",
+      "C 12%",
+      "Ca 0.2%"
+    ],
+    "explanation": "N 78%",
+    "explanation_en": "N 78%"
+  },
+  {
+    "id": 28,
+    "question": "அண்டம் மற்றும் விண்மீன்களில் காணப்படும் மிக முக்கியமான தனிமங்கள்",
+    "options": [
+      "O, H",
+      "H, N",
+      "H, He",
+      "O, C"
+    ],
+    "correct": 2,
+    "question_en": "The most important elements found in the universe and galaxies",
+    "options_en": [
+      "Oh, H",
+      "H,N",
+      "H, He",
+      "Oh, C"
+    ],
+    "explanation": "H, He",
+    "explanation_en": "H, He"
+  },
+  {
+    "id": 29,
+    "question": "அறை வெப்பநிலையில் நீர்மமாக காணப்படாதது எது?",
+    "options": [
+      "Hg",
+      "Br",
+      "Cs",
+      "அனைத்தும்"
+    ],
+    "correct": 2,
+    "question_en": "Which is not liquid at room temperature?",
+    "options_en": [
+      "Hg",
+      "Br",
+      "Cs",
+      "Everything"
+    ],
+    "explanation": "அறை வெப்பநிலையில் நீர்மமாக காணப்படாதது Cs ஆகும்.",
+    "explanation_en": "Cs is not liquid at room temperature."
+  },
+  {
+    "id": 30,
+    "question": "அறை வெப்பநிலையில் வாயுவாக காணப்படாதது எது?",
+    "options": [
+      "Cl",
+      "O",
+      "H",
+      "Fe"
+    ],
+    "correct": 3,
+    "question_en": "Which is not found as a gas at room temperature?",
+    "options_en": [
+      "Cl",
+      "O",
+      "H",
+      "Fe"
+    ],
+    "explanation": "அறை வெப்பநிலையில் வாயுவாக காணப்படாதது Fe ஆகும்.",
+    "explanation_en": "Fe is not found as a gas at room temperature."
+  },
+  {
+    "id": 31,
+    "question": "அறை வெப்பநிலையில் திண்மமாக காணப்படுவது எது?",
+    "options": [
+      "C",
+      "N",
+      "Hg",
+      "CO2"
+    ],
+    "correct": 0,
+    "question_en": "Which is solid at room temperature?",
+    "options_en": [
+      "C",
+      "N",
+      "Hg",
+      "CO2"
+    ],
+    "explanation": "அறை வெப்பநிலையில் திண்மமாக காணப்படுவது C ஆகும்.",
+    "explanation_en": "C is solid at room temperature."
+  },
+  {
+    "id": 32,
+    "question": "அறை வெப்பநிலையில் வெவ்வேறு நிலைகளில் காணப்படும் இணையைத் தேர்ந்தெடுக்கவும்.",
+    "options": [
+      "O, Fe",
+      "Br, Hg",
+      "Cs, Ga",
+      "H, He"
+    ],
+    "correct": 0,
+    "question_en": "Select the counterpart found in different states at room temperature.",
+    "options_en": [
+      "O, Fe",
+      "Br, Hg",
+      "Cs, Ga",
+      "H, He"
+    ],
+    "explanation": "O, Fe",
+    "explanation_en": "O, Fe"
+  },
+  {
+    "id": 33,
+    "question": "தனிம வரிசை அட்டவணையில் 118 வது தனிமமாக நவ 28, 2016ல் சேர்க்கப்பட்ட தனிமம்",
+    "options": [
+      "Oganesson",
+      "Tennessine",
+      "Livermorium",
+      "Moscovium"
+    ],
+    "correct": 0,
+    "question_en": "The element was added on Nov 28, 2016 as the 118th element in the periodic table.",
+    "options_en": [
+      "Oganesson",
+      "Tennessee",
+      "Livermore",
+      "Moscovium"
+    ],
+    "explanation": "Oganesson",
+    "explanation_en": "Oganesson"
+  },
+  {
+    "id": 34,
+    "question": "இயற்கையில் காணப்படும் தனிமங்களில், அறை வெப்பநிலையில் திண்மமாக காணப்படும் தனிமங்கள் எத்தனை?",
+    "options": [
+      "112",
+      "118",
+      "77",
+      "24"
+    ],
+    "correct": 2,
+    "question_en": "Among the elements found in nature, how many elements are solid at room temperature?",
+    "options_en": [
+      "112",
+      "118",
+      "77",
+      "24"
+    ],
+    "explanation": "இயற்கையில் காணப்படும் தனிமங்களில், அறை வெப்பநிலையில் திண்மமாக காணப்படும் தனிமங்கள் 77 ஆகும்.",
+    "explanation_en": "Among the elements found in nature, 77 elements are solid at room temperature."
+  },
+  {
+    "id": 35,
+    "question": "இயற்கையில் காணப்படும் தனிமங்களில், அறை வெப்பநிலையில் வாயுவாக காணப்படும் தனிமங்கள் எத்தனை?",
+    "options": [
+      "12",
+      "11",
+      "14",
+      "15"
+    ],
+    "correct": 1,
+    "question_en": "Among the elements found in nature, how many elements exist as gases at room temperature?",
+    "options_en": [
+      "12",
+      "11",
+      "14",
+      "15"
+    ],
+    "explanation": "இயற்கையில் காணப்படும் தனிமங்களில், அறை வெப்பநிலையில் வாயுவாக காணப்படும் தனிமங்கள் 11 ஆகும்.",
+    "explanation_en": "Among the elements found in nature, 11 elements exist as gases at room temperature."
+  },
+  {
+    "id": 36,
+    "question": "தனிமங்களை அவற்றின் பண்புகளின் அடிப்படையில் வகைப்படுத்தப்படாதது எது?",
+    "options": [
+      "உலோகங்கள்",
+      "உலோகப் போலிகள்",
+      "அலோகங்கள்",
+      "அலோகப் போலிகள்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is NOT a classification of elements based on their properties?",
+    "options_en": [
+      "Metals",
+      "Metal forgings",
+      "Metals",
+      "Metal forgings"
+    ],
+    "explanation": "தனிமங்களை அவற்றின் பண்புகளின் அடிப்படையில் வகைப்படுத்தப்படாதது உலோகப் போலிகள் ஆகும்.",
+    "explanation_en": "Metal forgings is NOT a classification of elements based on their properties."
+  },
+  {
+    "id": 37,
+    "question": "ஒரு பொருளானது மிகக் கடினமாகவும், அதே வேளையில் கம்பியாக மற்றும் தகடாகவும் மாற்ற இயலும். பார்ப்பதற்கு பளபளப்பாக காணப்படும். அது மின்சாரத்தையும் கடத்தும் எனில் அப்பொருள் யாது?",
+    "options": [
+      "உலோகங்கள்",
+      "உலோகப் போலிகள்",
+      "அலோகங்கள்",
+      "அலோகப் போலிகள்"
+    ],
+    "correct": 0,
+    "question_en": "A material can be very hard, yet ductile and malleable. Looks shiny. What does it mean if it also conducts electricity?",
+    "options_en": [
+      "Metals",
+      "Metal forgings",
+      "Metals",
+      "Metal forgings"
+    ],
+    "explanation": "ஒரு பொருளானது மிகக் கடினமாகவும், அதே வேளையில் கம்பியாக மற்றும் தகடாகவும் மாற்ற இயலும். பார்ப்பதற்கு பளபளப்பாக காணப்படும். அது மின்சாரத்தையும் கடத்தும் எனில் அப்பொருள் உலோகங்கள் ஆகும்.",
+    "explanation_en": "Metals"
+  },
+  {
+    "id": 38,
+    "question": "ஒரு பொருளானது கடினமற்றதாகவும், கம்பியாக மற்றும் தகடாகவும் மாற்ற இயலாது. பார்ப்பதற்கு பளபளப்பற்றதாக காணப்படும். அது மின்சாரத்தையும் கடத்தாது. எனில், அப்பொருள் யாது?",
+    "options": [
+      "உலோகங்கள்",
+      "உலோகப் போலிகள்",
+      "அலோகங்கள்",
+      "அலோகப் போலிகள்"
+    ],
+    "correct": 2,
+    "question_en": "A material cannot be made rigid, wire and plate. Looks dull. It also does not conduct electricity. If so, what does that mean?",
+    "options_en": [
+      "Metals",
+      "Metal forgings",
+      "Metals",
+      "Metal forgings"
+    ],
+    "explanation": "ஒரு பொருளானது கடினமற்றதாகவும், கம்பியாக மற்றும் தகடாகவும் மாற்ற இயலாது. பார்ப்பதற்கு பளபளப்பற்றதாக காணப்படும். அது மின்சாரத்தையும் கடத்தாது. எனில், அப்பொருள் அலோகங்கள் ஆகும்.",
+    "explanation_en": "Metals"
+  },
+  {
+    "id": 39,
+    "question": "கீழ்க்காண்பவற்றுள் உலோகமல்லாதது எது?",
+    "options": [
+      "இரும்பு",
+      "தங்கம்",
+      "கார்பன்",
+      "வெள்ளி"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is a non-metal?",
+    "options_en": [
+      "Iron",
+      "Gold",
+      "Carbon",
+      "Friday"
+    ],
+    "explanation": "கீழ்க்காண்பவற்றுள் உலோகமல்லாதது கார்பன் ஆகும்.",
+    "explanation_en": "Carbon is a non-metal."
+  },
+  {
+    "id": 40,
+    "question": "கீழ்காண்பவற்றுள் அலோகமல்லாதது எது?",
+    "options": [
+      "ஹைட்ரஜன்",
+      "டைட்டேனியம்",
+      "ஆக்ஸிஜன்",
+      "புரோமின்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is a non-metal?",
+    "options_en": [
+      "Hydrogen",
+      "Titanium",
+      "Oxygen",
+      "Bromine"
+    ],
+    "explanation": "கீழ்காண்பவற்றுள் அலோகமல்லாதது டைட்டேனியம் ஆகும்.",
+    "explanation_en": "Titanium is a non-metal."
+  },
+  {
+    "id": 41,
+    "question": "கீழ்காண்பவற்றுள் எது உலோகப்போலி அல்ல?",
+    "options": [
+      "போரான்",
+      "நைட்ரஜன்",
+      "சிலிக்கான்",
+      "ஜெர்மேனியம்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not a forging?",
+    "options_en": [
+      "Boron",
+      "Nitrogen",
+      "Silicon",
+      "Germanium"
+    ],
+    "explanation": "நைட்ரஜன்",
+    "explanation_en": "Nitrogen is not a forging."
+  },
+  {
+    "id": 42,
+    "question": "புவியில் காணப்படும் ஆக்ஸிஜனில் 20% எங்கு காணப்படுகிறது?",
+    "options": [
+      "பெருங்கடல்கள்",
+      "நிலப்பகுதிகள்",
+      "வளிமண்டலம்",
+      "அமேசான் காடு"
+    ],
+    "correct": 3,
+    "question_en": "Where is 20% of the oxygen found on Earth found?",
+    "options_en": [
+      "Oceans",
+      "Lands",
+      "Atmosphere",
+      "Amazon forest"
+    ],
+    "explanation": "அமேசான் காடு",
+    "explanation_en": "Amazon forest"
+  },
+  {
+    "id": 43,
+    "question": "ஒரு அவுன்ஸ் தங்கத்தை எவ்வளவு நீளத்திற்கு கம்பியாக நீட்ட இயலும்?",
+    "options": [
+      "66 கிலோமீட்டர்",
+      "80 கிலோமீட்டர்",
+      "82 கிலோமீட்டர்",
+      "96 கிலோமீட்டர்"
+    ],
+    "correct": 1,
+    "question_en": "How long can one ounce of gold be stretched into a wire?",
+    "options_en": [
+      "66 kilometers",
+      "80 kilometers",
+      "82 kilometers",
+      "96 kilometers"
+    ],
+    "explanation": "80 கிலோமீட்டர்",
+    "explanation_en": "80 kilometers"
+  },
+  {
+    "id": 44,
+    "question": "9000 பென்சில்களைத் தயாரிக்கும் அளவிற்கு மனித உடலில் காணப்படுவது",
+    "options": [
+      "O",
+      "Ca",
+      "C",
+      "Cs"
+    ],
+    "correct": 2,
+    "question_en": "Found in the human body enough to make 9000 pencils",
+    "options_en": [
+      "O",
+      "Ca",
+      "C",
+      "Cs"
+    ],
+    "explanation": "C",
+    "explanation_en": "C"
+  },
+  {
+    "id": 45,
+    "question": "இயற்கையில் காணப்படும் மிகக் கடினமான பொருளான வைரத்தாலும் வெட்ட இயலாத பொருளை எதைக் கொண்டு வெட்டலாம்?",
+    "options": [
+      "ரம்பம்",
+      "அரிவாள்",
+      "கோடரி",
+      "செனான் லேசர்"
+    ],
+    "correct": 3,
+    "question_en": "What can be used to cut a material that cannot be cut even by diamond, the hardest material found in nature?",
+    "options_en": [
+      "Saw",
+      "scythe",
+      "axe",
+      "Xenon laser"
+    ],
+    "explanation": "செனான் லேசர்",
+    "explanation_en": "Xenon laser"
+  },
+  {
+    "id": 46,
+    "question": "சராசரியாக மனித உடலில் கணப்படும் உப்பின் அளவு",
+    "options": [
+      "250 மில்லிகிராம்",
+      "250 கிராம்",
+      "250 கிலோகிராம்",
+      "250 டன்"
+    ],
+    "correct": 1,
+    "question_en": "The amount of salt found in the average human body",
+    "options_en": [
+      "250 mg",
+      "250 grams",
+      "250 kg",
+      "250 tons"
+    ],
+    "explanation": "250 கிராம்",
+    "explanation_en": "250 grams"
+  },
+  {
+    "id": 47,
+    "question": "அதிக உருகுநிலையைக் (3410 °C) கொண்ட உலோகம்",
+    "options": [
+      "இரும்பு",
+      "குரோமியம்",
+      "டங்ஸ்டன்",
+      "டெலூரியம்"
+    ],
+    "correct": 2,
+    "question_en": "A metal with a high melting point (3410 °C).",
+    "options_en": [
+      "Iron",
+      "Chromium",
+      "Tungsten",
+      "Tellurium"
+    ],
+    "explanation": "டங்ஸ்டன்",
+    "explanation_en": "Tungsten"
+  },
+  {
+    "id": 48,
+    "question": "டங்ஸ்டனின் குறியீடு",
+    "options": [
+      "T",
+      "Ta",
+      "D",
+      "W"
+    ],
+    "correct": 3,
+    "question_en": "Tungsten's index",
+    "options_en": [
+      "T",
+      "Ta",
+      "D",
+      "W"
+    ],
+    "explanation": "W",
+    "explanation_en": "W"
+  },
+  {
+    "id": 49,
+    "question": "தனிமங்களுக்கு குறியீடுகள் உருவாக்கப்பட்டதற்கான காரணம் யாது?",
+    "options": [
+      "வேதியியல் வினையினை எளிமையாக விளக்குவதற்காக",
+      "தனிமங்களை சுருக்கமாக குறிப்பிட",
+      "மேற்கண்ட இரு காரணங்களும் சரி",
+      "குறிப்பிட்டு கூற இயலாது"
+    ],
+    "correct": 2,
+    "question_en": "Why are symbols created for elements?",
+    "options_en": [
+      "To explain the chemical reaction in simple terms",
+      "Briefly mention the elements",
+      "Both the above reasons are correct",
+      "Can't be specified"
+    ],
+    "explanation": "தனிமங்களுக்கு குறியீடுகள் உருவாக்கப்பட்டதற்கான காரணம் மேற்கண்ட இரு காரணங்களும் சரி ஆகும்.",
+    "explanation_en": "Both the above reasons are correct"
+  },
+  {
+    "id": 50,
+    "question": "இரும்பைத் தங்கமாக மாற்ற முயன்றவர்கள் எவ்வாறு அழைக்கப்படுகின்றனர்?",
+    "options": [
+      "அரசியல்வாதிகள்",
+      "இரசவாதிகள்",
+      "சுயநலவாதிகள்",
+      "வேதியியலாளர்கள்"
+    ],
+    "correct": 1,
+    "question_en": "What are those who try to turn iron into gold called?",
+    "options_en": [
+      "Politicians",
+      "Alchemists",
+      "Selfish people",
+      "Chemists"
+    ],
+    "explanation": "இரசவாதிகள்",
+    "explanation_en": "Alchemists"
+  },
+  {
+    "id": 51,
+    "question": "இரசவாதிகள் காலத்தில் குறியீடுகள் எவ்வாறு இருந்தது?",
+    "options": [
+      "எழுத்து வடிவில்",
+      "கோட்டுத்துண்டு வடிவில்",
+      "வரைபட வடிவில்",
+      "குறியீடுகளே அக்காலத்தில் இல்லை"
+    ],
+    "correct": 2,
+    "question_en": "How were symbols in the time of the alchemists?",
+    "options_en": [
+      "in written form",
+      "In the form of a strip",
+      "In diagram form",
+      "There were no codes at that time"
+    ],
+    "explanation": "வரைபட வடிவில்",
+    "explanation_en": "In diagram form"
+  },
+  {
+    "id": 52,
+    "question": "வரைபடக் குறியீட்டுக்கு பதிலாக ஆங்கில எழுத்துகளை குறியீடாக பயன்படுத்தும் முறை நடைமுறைப்படுத்துவதற்கு முன்னோடியாக அமைந்தவர்",
+    "options": [
+      "லவாய்சியர்",
+      "டால்டன்",
+      "தாம்ஸன்",
+      "பெர்சிலியஸ்"
+    ],
+    "correct": 3,
+    "question_en": "He pioneered the practice of using English letters as notation instead of graphical notation",
+    "options_en": [
+      "Lavoisier",
+      "Dalton",
+      "Thomson",
+      "Persilius"
+    ],
+    "explanation": "பெர்சிலியஸ்",
+    "explanation_en": "Persilius"
+  },
+  {
+    "id": 53,
+    "question": "எத்தனிமத்திற்கு டால்டன் குறியீடு மற்றும் பெர்சிலியஸ் குறியீடு ஒன்றுபோல் அமைந்துள்ளது?",
+    "options": [
+      "ஹைட்ரஜன்",
+      "ஆக்ஸிஜன்",
+      "கார்பன்",
+      "இரும்பு"
+    ],
+    "correct": 1,
+    "question_en": "Dalton code and Persilius code are similar for what element?",
+    "options_en": [
+      "Hydrogen",
+      "Oxygen",
+      "Carbon",
+      "Iron"
+    ],
+    "explanation": "ஆக்ஸிஜன்",
+    "explanation_en": "Oxygen"
+  },
+  {
+    "id": 54,
+    "question": "தனிமங்களுக்கு குறியீடு அளிக்கும் நடைமுறைகளுள் இல்லாதது எது?",
+    "options": [
+      "தனிமங்களின் ஆங்கிலம் / இலத்தீன் / கிரேக்கப் பெயரின் முதலெழுத்து குறியீடாக கருதப்படும்.",
+      "தனிமங்களின் ஆங்கிலம் / இலத்தீன் / கிரேக்கப் பெயரின் முதலெழுத்து மற்றும் 2ம் எழுத்து குறியீடாக கருதப்படும்.",
+      "தனிமங்களின் ஆங்கிலம் / இலத்தீன் / கிரேக்கப் பெயரின் முதலெழுத்து மற்றும் 3ம் எழுத்து குறியீடாக கருதப்படும்.",
+      "தனிமங்களின் ஆங்கிலம் / இலத்தீன் / கிரேக்கப் பெயரின் 2 மற்றும் 3ம் எழுத்து குறியீடாக கருதப்படும்."
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a procedure for coding elements?",
+    "options_en": [
+      "The initial letter of the English / Latin / Greek name of the element is considered as the symbol.",
+      "The first letter and the 2nd letter of the English / Latin / Greek name of the element are considered as symbols.",
+      "The first letter of the element's English / Latin / Greek name and the 3rd letter are considered symbols.",
+      "The 2nd and 3rd letters of the English / Latin / Greek name of the elements are considered as symbols."
+    ],
+    "explanation": "தனிமங்களுக்கு குறியீடு அளிக்கும் நடைமுறைகளுள் இல்லாதது தனிமங்களின் ஆங்கிலம் / இலத்தீன் / கிரேக்கப் பெயரின் 2 மற்றும் 3ம் எழுத்து குறியீடாக கருதப்படும். ஆகும்.",
+    "explanation_en": "The 2nd and 3rd letters of the English / Latin / Greek name of the elements are considered as symbols. is not a procedure for coding elements."
+  },
+  {
+    "id": 55,
+    "question": "கீழே தனிமங்களை (குறியீட்டின் படி) அவற்றிற்கிடையேயுள்ள ஒற்றுமையின் அடிப்படையில் அடுக்கி வைக்கப்பட்டுள்ளது. இதிலிருந்து தவறாக அடுக்கப்பட்டுள்ளதை தேர்ந்தெடுக்க.",
+    "options": [
+      "B, C, F, U",
+      "Al, Be, Li, Si",
+      "Ar, As, Cr, Mg",
+      "Si, Na, Mn, Am"
+    ],
+    "correct": 3,
+    "question_en": "Below are the elements (code wise) arranged in order of similarity between them. Select the wrong stack from this.",
+    "options_en": [
+      "B, C, F, U",
+      "Al, Be, Li, Si",
+      "Ar, As, Cr, Mg",
+      "Si, Na, Mn, Am"
+    ],
+    "explanation": "Si, Na, Mn, Am",
+    "explanation_en": "Si, Na, Mn, Am"
+  },
+  {
+    "id": 56,
+    "question": "பின்வருவனவற்றுள் பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "Ca",
+      "Co",
+      "S",
+      "Sb"
+    ],
+    "correct": 2,
+    "question_en": "Select the one that does not apply among the following.",
+    "options_en": [
+      "Ca",
+      "Co",
+      "S",
+      "Sb"
+    ],
+    "explanation": "S",
+    "explanation_en": "S"
+  },
+  {
+    "id": 57,
+    "question": "பின்வருவனவற்றுள் பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "N",
+      "Ga",
+      "U",
+      "Hg"
+    ],
+    "correct": 0,
+    "question_en": "Select the one that does not apply among the following.",
+    "options_en": [
+      "N",
+      "Ga",
+      "U",
+      "Hg"
+    ],
+    "explanation": "N",
+    "explanation_en": "N"
+  },
+  {
+    "id": 58,
+    "question": "பின்வருவனவற்றுள் பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "Pu",
+      "Ge",
+      "Np",
+      "Cd"
+    ],
+    "correct": 3,
+    "question_en": "Select the one that does not apply among the following.",
+    "options_en": [
+      "Pu",
+      "Ge",
+      "Np",
+      "Cd"
+    ],
+    "explanation": "Cd",
+    "explanation_en": "Cd"
+  },
+  {
+    "id": 59,
+    "question": "பின்வருவனவற்றுள் பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "U",
+      "Pu",
+      "Np",
+      "Am"
+    ],
+    "correct": 1,
+    "question_en": "Select the one that does not apply among the following.",
+    "options_en": [
+      "U",
+      "Pu",
+      "Np",
+      "Am"
+    ],
+    "explanation": "Pu",
+    "explanation_en": "Pu"
+  },
+  {
+    "id": 60,
+    "question": "பின்வருவனவற்றுள் பொருந்தாததைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "Hg",
+      "Cu",
+      "Mn",
+      "Mg"
+    ],
+    "correct": 0,
+    "question_en": "Select the one that does not apply among the following.",
+    "options_en": [
+      "Hg",
+      "Cu",
+      "Mn",
+      "Mg"
+    ],
+    "explanation": "Hg",
+    "explanation_en": "Hg"
+  },
+  {
+    "id": 61,
+    "question": "தனிமங்களுக்கு பெயரிடும் விதிகளில் தவறானதைத் தேர்ந்தெடுக்க.",
+    "options": [
+      "ஆங்கிலம் தவிர பிற மொழிகளில் குறியீடுகளை குறித்தல் கூடாது.",
+      "தனிமத்தின் குறியீட்டில் ஒரே ஒரு ஆங்கில எழுத்து மட்டும் இருந்தால் சிறிய எழுத்தால் குறிப்பிட வேண்டும்.",
+      "தனிமத்தின் குறியீட்டில் இரண்டு எழுத்துக்கள் இருந்தால் முதல் எழுத்து பெரிய எழுத்தால் குறிப்பிட வேண்டும்.",
+      "தனிமத்தின் குறியீட்டில் ஒரே ஒரு ஆங்கில எழுத்து மட்டும் இருந்தால் பெரிய எழுத்தால் குறிப்பிட வேண்டும்."
+    ],
+    "correct": 1,
+    "question_en": "To select false in element naming rules.",
+    "options_en": [
+      "Codes should not be marked in languages ​​other than English.",
+      "If the symbol of the element contains only one English letter, it should be indicated in lower case.",
+      "If the symbol of an element contains two letters, the first letter must be capitalized.",
+      "If the symbol of the element contains only one English letter, it must be capitalized."
+    ],
+    "explanation": "தனிமத்தின் குறியீட்டில் ஒரே ஒரு ஆங்கில எழுத்து மட்டும் இருந்தால் சிறிய எழுத்தால் குறிப்பிட வேண்டும்.",
+    "explanation_en": "If the symbol of the element contains only one English letter, it should be indicated in lower case."
+  },
+  {
+    "id": 62,
+    "question": "தனிமத்தின் மூலக்கூறு பற்றிய தவறான கருத்து எது?",
+    "options": [
+      "10 ற்கும் மேற்பட்ட அணுக்கள் உருவாவதே மூலக்கூறு ஆகும்.",
+      "ஓரணு மூலக்கூறுகள் காணப்படுகிறது.",
+      "ஈரணு மூலக்கூறுகள் காணப்படுகிறது.",
+      "4, 8 அணு மூலக்கூறுகள் காணப்படுகிறது."
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is a misconception about the molecular structure of an element?",
+    "options_en": [
+      "A molecule is made up of more than 10 atoms.",
+      "A single molecule is found.",
+      "Hepatic molecules are found.",
+      "4, 8 atomic molecules are found."
+    ],
+    "explanation": "தனிமத்தின் மூலக்கூறு பற்றிய தவறான கருத்து 10 ற்கும் மேற்பட்ட அணுக்கள் உருவாவதே மூலக்கூறு ஆகும். ஆகும்.",
+    "explanation_en": "A molecule is made up of more than 10 atoms. is a misconception about the molecular structure of an element."
+  },
+  {
+    "id": 63,
+    "question": "பின்வருவனவற்றுள் ஈரணு மூலக்கூறு அல்லாதது எது?",
+    "options": [
+      "ஓசோன்",
+      "ஆக்ஸிஜன்",
+      "நைட்ரஜன்",
+      "குளோரின்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is not a nuclear molecule?",
+    "options_en": [
+      "Ozone",
+      "Oxygen",
+      "Nitrogen",
+      "Chlorine"
+    ],
+    "explanation": "பின்வருவனவற்றுள் ஈரணு மூலக்கூறு அல்லாதது ஓசோன் ஆகும்.",
+    "explanation_en": "Ozone is not a nuclear molecule."
+  },
+  {
+    "id": 64,
+    "question": "பின்வருவனவற்றுள் எண்ம அணு மூலக்கூறுக்கு உதாரணம்",
+    "options": [
+      "ஆக்ஸிஜன்",
+      "சல்ஃபர்",
+      "நைட்ரஜன்",
+      "குளோரின்"
+    ],
+    "correct": 1,
+    "question_en": "The following is an example of an octahedral molecule",
+    "options_en": [
+      "Oxygen",
+      "Sulphur",
+      "Nitrogen",
+      "Chlorine"
+    ],
+    "explanation": "சல்ஃபர்",
+    "explanation_en": "Sulphur"
+  },
+  {
+    "id": 65,
+    "question": "கீழ்காண்பவற்றுள் சேர்மங்களல்லாதது எது?",
+    "options": [
+      "கரியமில வாயு",
+      "உப்பு",
+      "மணல்",
+      "ஓசோன்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is not a compound?",
+    "options_en": [
+      "Carbon dioxide",
+      "Salt",
+      "Sand",
+      "Ozone"
+    ],
+    "explanation": "கீழ்காண்பவற்றுள் சேர்மங்களல்லாதது ஓசோன் ஆகும்.",
+    "explanation_en": "Ozone is not a compound."
+  },
+  {
+    "id": 66,
+    "question": "சேர்மங்களின் எண்ணிக்கை",
+    "options": [
+      "112",
+      "118",
+      "247",
+      "எண்ணிலடங்காதவை"
+    ],
+    "correct": 3,
+    "question_en": "Number of compounds",
+    "options_en": [
+      "112",
+      "118",
+      "247",
+      "Countless"
+    ],
+    "explanation": "எண்ணிலடங்காதவை",
+    "explanation_en": "Countless"
+  },
+  {
+    "id": 67,
+    "question": "சேர்மங்களைப் பற்றிய தவறான கருத்து எது?",
+    "options": [
+      "இரு தனிமங்கள் குறிப்பிட்ட நிறை விகிதத்தில் இணைந்து சேர்மங்களை உருவாக்க இயலும்.",
+      "இரண்டிற்கும் மேற்பட்ட தனிமங்கள் குறிப்பிட்ட நிறை விகிதத்தில் இணைந்து சேர்மங்களை உருவாக்க இயலும்.",
+      "ஒரே தனிமமே குறிப்பிட்ட நிறை விகிதத்தில் இணைந்து சேர்மங்களை உருவாக்க இயலும்.",
+      "மூன்று தனிமங்கள் குறிப்பிட்ட நிறை விகிதத்தில் இணைந்து சேர்மங்களை உருவாக்க இயலும்."
+    ],
+    "correct": 2,
+    "question_en": "What is a misconception about compounds?",
+    "options_en": [
+      "Two elements can combine in specific mass ratios to form compounds.",
+      "More than two elements can combine in specific mass ratios to form compounds.",
+      "A single element can combine in a specific mass ratio to form compounds.",
+      "Three elements can combine in specific mass ratios to form compounds."
+    ],
+    "explanation": "சேர்மங்களைப் பற்றிய தவறான கருத்து ஒரே தனிமமே குறிப்பிட்ட நிறை விகிதத்தில் இணைந்து சேர்மங்களை உருவாக்க இயலும். ஆகும்.",
+    "explanation_en": "A single element can combine in a specific mass ratio to form compounds. is a misconception about compounds."
+  },
+  {
+    "id": 68,
+    "question": "கீழ்க்காண்பவற்றுள் சல்ஃபரைக் குறிக்காதது எது?",
+    "options": [
+      "கந்தகம்",
+      "S",
+      "வேதிப் பொருள்களின் அரசன்",
+      "பிரிம்ஸ்டோன்"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following does not represent sulphur?",
+    "options_en": [
+      "Sulphur",
+      "S",
+      "The king of chemicals",
+      "Brimstone"
+    ],
+    "explanation": "கீழ்க்காண்பவற்றுள் சல்ஃபரைக் குறிக்காதது வேதிப் பொருள்களின் அரசன் ஆகும்.",
+    "explanation_en": "The king of chemicals"
+  },
+  {
+    "id": 69,
+    "question": "நெடியுடைய வாயு எது?",
+    "options": [
+      "கார்பன் - டை ஆக்ஸைடு",
+      "கந்தக -டை ஆக்ஸைடு",
+      "ஓசோன் வாயு",
+      "ஹைட்ரஜன் வாயு"
+    ],
+    "correct": 1,
+    "question_en": "What is a noble gas?",
+    "options_en": [
+      "Carbon Dioxide",
+      "Sulfur dioxide",
+      "Ozone gas",
+      "Hydrogen gas"
+    ],
+    "explanation": "நெடியுடைய வாயு கந்தக -டை ஆக்ஸைடு ஆகும்.",
+    "explanation_en": "Sulfur dioxide is a noble gas."
+  },
+  {
+    "id": 70,
+    "question": "சேர்மங்களுக்கு பெயரிடும் பொழுது நேர் அயனியின் பெயரை எவ்வாறு எழுத வேண்டும்?",
+    "options": [
+      "எம்மாற்றமுமின்றி முழுமையாக தனிமத்தின் பெயரை எழுத வேண்டும்.",
+      "தனிமத்தின் பெயரின் முடிவில் 'ஐடு' என மாற்றி எழுத வேண்டும்.",
+      "தனிமத்தின் பெயரின் முடிவில் 'ஏட்' என மாற்றி எழுத வேண்டும்.",
+      "தனிமத்தின் பெயரின் முடிவில் 'இட்' என மாற்றி எழுத வேண்டும்."
+    ],
+    "correct": 0,
+    "question_en": "How to write the name of anion while naming compounds?",
+    "options_en": [
+      "The name of the element must be written in full without any change.",
+      "The end of the element name should be replaced with 'id'.",
+      "At the end of element name should be replaced with 'ate'.",
+      "The element name should be replaced with 'it' at the end."
+    ],
+    "explanation": "எம்மாற்றமுமின்றி முழுமையாக தனிமத்தின் பெயரை எழுத வேண்டும்.",
+    "explanation_en": "The name of the element must be written in full without any change."
+  },
+  {
+    "id": 71,
+    "question": "சேர்மங்களுக்கு பெயரிடும் பொழுது எதிர் அயனியின் பெயரை எவ்வாறு எழுத வேண்டும்?",
+    "options": [
+      "எம்மாற்றமுமின்றி முழுமையாக தனிமத்தின் பெயரை எழுத வேண்டும்.",
+      "தனிமத்தின் பெயரின் முடிவில் 'ஐடு அல்லது ஏட்' என மாற்றி எழுத வேண்டும்.",
+      "தனிமத்தின் பெயரின் முடிவில் 'இயம்' என மாற்றி எழுத வேண்டும்.",
+      "மேற்கண்ட எதுவுமில்லை."
+    ],
+    "correct": 1,
+    "question_en": "How to write the name of counterion while naming compounds?",
+    "options_en": [
+      "The name of the element must be written in full without any change.",
+      "The end of the element name should be replaced by 'Id or Aet'.",
+      "At the end of the name of the element, it should be changed to 'Iam'.",
+      "None of the above."
+    ],
+    "explanation": "தனிமத்தின் பெயரின் முடிவில் 'ஐடு அல்லது ஏட்' என மாற்றி எழுத வேண்டும்.",
+    "explanation_en": "The end of the element name should be replaced by 'Id or Aet'."
+  },
+  {
+    "id": 72,
+    "question": "அலுமினியம் மற்றும் அயோடின் வினைபுரிந்து உருவாகும் கருஞ்சாம்பல் நிற சேர்மம் எது?",
+    "options": [
+      "அலுமினிய அயோடின்",
+      "அலுமினோ அயோடின்",
+      "அலுமினியம் அயோடைடு",
+      "அலுமினைடு அயோடின்"
+    ],
+    "correct": 2,
+    "question_en": "Which dark gray compound is formed by the reaction of aluminum and iodine?",
+    "options_en": [
+      "Aluminum iodine",
+      "Alumino iodine",
+      "Aluminum iodide",
+      "Aluminide iodine"
+    ],
+    "explanation": "அலுமினியம் மற்றும் அயோடின் வினைபுரிந்து உருவாகும் கருஞ்சாம்பல் நிற சேர்மம் அலுமினியம் அயோடைடு ஆகும்.",
+    "explanation_en": "Aluminum iodide"
+  },
+  {
+    "id": 73,
+    "question": "கீழ்க்கண்டவற்றுள் சேர்மத்தின் பண்பு அல்லாதது எது?",
+    "options": [
+      "இரண்டு அல்லது அதற்கு மேற்பட்ட தனிமங்கள் குறிப்பிட்ட நிறை விகிதத்தில் வேதியியல் முறையில் இணைந்து சேர்மத்தை உருவாக்குகிறது.",
+      "சேர்மத்தில் உள்ள பகுதிப் பொருள்களை இயற்பியல் முறைப்படி பிரிக்க இயலாது.",
+      "சேர்மத்தில் உள்ள பகுதிப் பொருள்களை இயற்பியல் முறைப்படி பிரிக்க இயலும்.",
+      "ஒரு சேர்மம் உருவாகும் போது வெப்பம் வெளியிடுதலோ அல்லது உறிஞ்சுதலோ நிகழ்கிறது."
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is not a characteristic of a compound?",
+    "options_en": [
+      "Two or more elements combine chemically in a specific mass ratio to form a compound.",
+      "The constituents of a compound cannot be physically separated.",
+      "The constituents of a compound can be physically separated.",
+      "Heat is released or absorbed when a compound is formed."
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் சேர்மத்தின் பண்பு அல்லாதது சேர்மத்தில் உள்ள பகுதிப் பொருள்களை இயற்பியல் முறைப்படி பிரிக்க இயலும். ஆகும்.",
+    "explanation_en": "The constituents of a compound can be physically separated. is not a characteristic of a compound."
+  },
+  {
+    "id": 74,
+    "question": "கீழ்க்கண்டவற்றுள் சேர்மத்தின் பண்பு அல்லாதது எது?",
+    "options": [
+      "ஒரு சேர்மம் குறிப்பிட்ட உருகுநிலை மற்றும் கொதிநிலையைக் கொண்டுள்ளது.",
+      "சேர்மத்தின் பண்புகள் அதன் பகுதிப் பொருள்களின் பண்புகளை ஒத்துள்ளன.",
+      "சேர்மம் ஒரு படித்தானது.",
+      "சேர்மத்தின் பண்புகள் அதன் பகுதிப் பொருள்களின் பண்புகளிலிருந்து மாறுபடுகின்றன."
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not a characteristic of a compound?",
+    "options_en": [
+      "A compound has a specific melting point and boiling point.",
+      "The properties of the compound are similar to the properties of its component substances.",
+      "Compound is a read.",
+      "The properties of a compound differ from the properties of its component substances."
+    ],
+    "explanation": "கீழ்க்கண்டவற்றுள் சேர்மத்தின் பண்பு அல்லாதது சேர்மத்தின் பண்புகள் அதன் பகுதிப் பொருள்களின் பண்புகளை ஒத்துள்ளன. ஆகும்.",
+    "explanation_en": "The properties of the compound are similar to the properties of its component substances. is not a characteristic of a compound."
+  },
+  {
+    "id": 75,
+    "question": "பாறை, தாதுக்கள் போன்ற உயிரற்ற மூலங்களிலிருந்து பெறப்படும் சேர்மங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "கரிமச் சேர்மங்கள்",
+      "கனிமச் சேர்மங்கள்",
+      "உயிரற்ற சேர்மங்கள்",
+      "உயிருள்ள சேர்மங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "What are compounds obtained from non-living sources like rock, minerals called?",
+    "options_en": [
+      "Organic compounds",
+      "Mineral compounds",
+      "Non-living compounds",
+      "living compounds"
+    ],
+    "explanation": "கனிமச் சேர்மங்கள்",
+    "explanation_en": "Mineral compounds"
+  },
+  {
+    "id": 76,
+    "question": "சுண்ணக்கட்டி, பளிங்கு, சலவை சோடா போன்றவை எச்சேர்மங்களுக்கு உதாரணம்?",
+    "options": [
+      "கரிமச் சேர்மங்கள்",
+      "கனிமச் சேர்மங்கள்",
+      "அணைவுச் சேர்மங்கள்",
+      "அனைத்தும்"
+    ],
+    "correct": 1,
+    "question_en": "Limestone, marble, washing soda etc. are examples of enzymes?",
+    "options_en": [
+      "Organic compounds",
+      "Mineral compounds",
+      "Damping compounds",
+      "Everything"
+    ],
+    "explanation": "கனிமச் சேர்மங்கள்",
+    "explanation_en": "Mineral compounds"
+  },
+  {
+    "id": 77,
+    "question": "தாவரங்கள் மற்றும் விலங்குகள் போன்ற உயிருள்ள மூலங்களிலிருந்து பெறப்படும் சேர்மங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "options": [
+      "கரிமச் சேர்மங்கள்",
+      "கனிமச் சேர்மங்கள்",
+      "உயிரற்ற சேர்மங்கள்",
+      "உயிருள்ள சேர்மங்கள்"
+    ],
+    "correct": 0,
+    "question_en": "What are compounds obtained from living sources like plants and animals called?",
+    "options_en": [
+      "Organic compounds",
+      "Mineral compounds",
+      "Non-living compounds",
+      "living compounds"
+    ],
+    "explanation": "கரிமச் சேர்மங்கள்",
+    "explanation_en": "Organic compounds"
+  },
+  {
+    "id": 78,
+    "question": "(A): உயிரினங்களிலிருந்து பெறப்படும் சேர்மங்கள் கரிமச் சேர்மங்கள் என அழைக்கப்படுகின்றன. (B): புவியிலிருந்து பெறப்படும் சேர்மங்கள் கனிமச் சேர்மங்கள் என அழைக்கப்படுகின்றன.",
+    "options": [
+      "A, B இரண்டும் தவறு",
+      "A, B இரண்டும் சரி",
+      "A சரி B தவறு",
+      "A தவறு B சரி"
+    ],
+    "correct": 1,
+    "question_en": "(A): Compounds derived from living organisms are called organic compounds. (B): Compounds obtained from earth are called inorganic compounds.",
+    "options_en": [
+      "Both A and B are wrong",
+      "Both A and B are correct",
+      "A is correct B is incorrect",
+      "A is wrong B is right"
+    ],
+    "explanation": "A, B இரண்டும் சரி",
+    "explanation_en": "Both A and B are correct"
+  },
+  {
+    "id": 79,
+    "question": "பொதுவாக நெகிழிப் பொருள்கள் சிதைய ஆகும் காலம்",
+    "options": [
+      "500 ஆண்டுகள்",
+      "50 ஆண்டுகள்",
+      "750 ஆண்டுகள்",
+      "1000 ஆண்டுகள்"
+    ],
+    "correct": 3,
+    "question_en": "Usually the time it takes for elastic materials to degrade",
+    "options_en": [
+      "500 years",
+      "50 years",
+      "750 years",
+      "1000 years"
+    ],
+    "explanation": "1000 ஆண்டுகள்",
+    "explanation_en": "1000 years"
+  },
+  {
+    "id": 80,
+    "question": "பொருத்துக.\na) நீர் - i) சோடியம் குளோரைடு\nb) சாதாரண உப்பு - ii) சோடியம் கார்பனேட்\nc) சர்க்கரை - iii) ஹைட்ரஜன் ஆக்ஸைடு\nd) ரொட்டி சோடா - iv) சோடியம் பை கார்பனேட்\ne) சலவை சோடா - v) சுக்ரோஸ்",
+    "options": [
+      "a-iii, b-ii, c-iv, d-v, e-i",
+      "a-iii, b-i, c-v, d-iv, e-ii",
+      "a-iii, b-iv, c-ii, d-v, e-i",
+      "a-ii, b-ii, c-iv, d-v, e-i"
+    ],
+    "correct": 1,
+    "question_en": "match\na) Water – i) Sodium chloride\nb) Common salt – ii) Sodium carbonate\nc) Sugar – iii) Hydrogen oxide\nd) Baking Soda – iv) Sodium Bicarbonate\ne) Washing soda - v) Sucrose",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-v, e-i",
+      "a-iii, b-i, c-v, d-iv, e-ii",
+      "a-iii, b-iv, c-ii, d-v, e-i",
+      "a-ii, b-ii, c-iv, d-v, e-i"
+    ],
+    "explanation": "a-iii, b-i, c-v, d-iv, e-ii",
+    "explanation_en": "a-iii, b-i, c-v, d-iv, e-ii"
+  },
+  {
+    "id": 81,
+    "question": "பொருத்துக.\na) சலவைத் தூள் - i) கால்சியம் கார்பனேட்\nb) சுட்ட சுண்ணாம்பு - ii) கால்சியம் ஹைட்ராக்ஸைடு\nc) நீற்றிய சுண்ணாம்பு - iii) கால்சியம் ஆக்ஸைடு\nd) சுண்ணாம்புக் கல் - iv) கால்சியம் ஆக்ஸி குளோரைடு",
+    "options": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "correct": 3,
+    "question_en": "match\na) Washing powder – i) Calcium carbonate\nb) Quicklime - ii) Calcium hydroxide\nc) Slaked lime – iii) Calcium oxide\nd) Limestone – iv) Calcium oxychloride",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "explanation": "a-iv, b-iii, c-ii, d-i",
+    "explanation_en": "a-iv, b-iii, c-ii, d-i"
+  },
+  {
+    "id": 82,
+    "question": "பொருத்துக.\nf) நீர் - i) Na & Cl\ng) சாதாரண உப்பு - ii) Na, H, C & O\nh) சர்க்கரை - iii) H & O\ni) ரொட்டி சோடா - iv) Na, C & O\nj) சலவை சோடா - v) C, H & O",
+    "options": [
+      "f-iii, g-ii, h-iv, i-v, j-i",
+      "f-iii, g-i, h-v, i-ii, j-iv",
+      "f-ii, g-iv, h-ii, i-v, j-i",
+      "f-ii, g-iii, h-iv, i-v, j-i"
+    ],
+    "correct": 1,
+    "question_en": "match\nf) Water – i) Na & Cl\ng) Common salt – ii) Na, H, C & O\nh) Sugar – iii) H & O\ni) Bread soda - iv) Na, C & O\nj) Washing soda - v) C, H & O",
+    "options_en": [
+      "f-iii, g-ii, h-iv, i-v, j-i",
+      "f-iii, g-i, h-v, i-ii, j-iv",
+      "f-ii, g-iv, h-ii, i-v, j-i",
+      "f-ii, g-iii, h-iv, i-v, j-i"
+    ],
+    "explanation": "f-iii, g-i, h-v, i-ii, j-iv",
+    "explanation_en": "f-iii, g-i, h-v, i-ii, j-iv"
+  },
+  {
+    "id": 83,
+    "question": "பொருத்துக.\ne) சலவைத் தூள் - i) Ca, C, O\nf) சுட்ட சுண்ணாம்பு - ii) Ca, H, O\ng) நீற்றிய சுண்ணாம்பு - iii) Ca, O\nh) சுண்ணாம்புக் கல் - iv) Ca, O, Cl",
+    "options": [
+      "e-iii, f-i, g-iv, h-i",
+      "e-iii, f-i, g-ii, h-iv",
+      "e-iii, f-iv, g-ii, h-i",
+      "e-iv, f-iii, g-ii, h-i"
+    ],
+    "correct": 3,
+    "question_en": "match\ne) Washing powder – i) Ca, C, O\nf) Burnt lime - ii) Ca, H, O\ng) Slaked lime - iii) Ca,O\nh) Limestone - iv) Ca, O, Cl",
+    "options_en": [
+      "e-iii, f-i, g-iv, h-i",
+      "e-iii, f-i, g-ii, h-iv",
+      "e-iii, f-iv, g-ii, h-i",
+      "e-iv, f-iii, g-ii, h-i"
+    ],
+    "explanation": "e-iv, f-iii, g-ii, h-i",
+    "explanation_en": "e-iv, f-iii, g-ii, h-i"
+  },
+  {
+    "id": 84,
+    "question": "ஒரு ஹைட்ரஜன் குளோரைடு மூலக்கூறில் உள்ள ஹைட்ரஜன் மற்றும் குளோரின் அணுக்களின் எண்ணிக்கை",
+    "options": [
+      "1, 2",
+      "2, 1",
+      "1, 1",
+      "2, 2"
+    ],
+    "correct": 2,
+    "question_en": "The number of hydrogen and chlorine atoms in one hydrogen chloride molecule",
+    "options_en": [
+      "1, 2",
+      "2, 1",
+      "1, 1",
+      "2, 2"
+    ],
+    "explanation": "1, 1",
+    "explanation_en": "1, 1"
+  },
+  {
+    "id": 85,
+    "question": "நீர் மூலக்கூறில் உள்ள ஹைட்ரஜன் மற்றும் ஆக்ஸிஜன் அணுக்களின் எண்ணிக்கை",
+    "options": [
+      "1, 2",
+      "2, 1",
+      "1, 1",
+      "2, 2"
+    ],
+    "correct": 1,
+    "question_en": "The number of hydrogen and oxygen atoms in a water molecule",
+    "options_en": [
+      "1, 2",
+      "2, 1",
+      "1, 1",
+      "2, 2"
+    ],
+    "explanation": "2, 1",
+    "explanation_en": "2, 1"
+  },
+  {
+    "id": 86,
+    "question": "(A): ஓர் அணுவைக் குறிப்பிடப் பயன்படுவது வேதி குறியீடு பயன்படுகிறது. (B): ஓர் தனிமத்தைக் குறிப்பிட வேதிவாய்பாடு பயன்படுகிறது.",
+    "options": [
+      "A தவறு, B சரி",
+      "A சரி, B தவறு",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "(A): A chemical symbol is used to refer to an atom. (B): Nomenclature is used to refer to an element.",
+    "options_en": [
+      "A is wrong, B is right",
+      "A is correct, B is incorrect",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation": "இரண்டும் சரி",
+    "explanation_en": "Both are correct"
+  },
+  {
+    "id": 87,
+    "question": "H₂O ல் 2 என்பது எதைக் குறிக்கின்றது?",
+    "options": [
+      "ஹைட்ரஜன் மூலக்கூறுகளின் எண்ணிக்கை",
+      "ஹைட்ரஜன் அணுக்களின் எண்ணிக்கை",
+      "ஆக்ஸிஜன் மூலக்கூறுகளின் எண்ணிக்கை",
+      "ஆக்ஸிஜன் அணுக்களின் எண்ணிக்கை"
+    ],
+    "correct": 1,
+    "question_en": "What does 2 stand for in H₂O?",
+    "options_en": [
+      "Number of hydrogen molecules",
+      "Number of hydrogen atoms",
+      "Number of oxygen molecules",
+      "Number of oxygen atoms"
+    ],
+    "explanation": "ஹைட்ரஜன் அணுக்களின் எண்ணிக்கை",
+    "explanation_en": "Number of hydrogen atoms"
+  },
+  {
+    "id": 88,
+    "question": "இணைதிறனுக்கான வரையறை யாது?",
+    "options": [
+      "ஒரு தனிமம் மற்ற தனிமத்துடன் இணையக்கூடிய திறனே இணைதிறன் ஆகும்.",
+      "தனிமத்தின் ஓர் அணுவுடன் இணையக்கூடிய ஹைட்ரஜன் அணுக்களின் எண்ணிக்கையே இணைதிறன் ஆகும்.",
+      "இரண்டுமே இணைதிறனுக்கான வரையறை ஆகும்.",
+      "இரண்டுமே இணைதிறனுக்கான வரையறை அல்ல."
+    ],
+    "correct": 2,
+    "question_en": "What is the definition of co-efficiency?",
+    "options_en": [
+      "Compatibility is the ability of one element to bond with another element.",
+      "Covalent bond is the number of hydrogen atoms that can bond with one atom of the element.",
+      "Both are the definition of co-efficient.",
+      "Neither is the definition of co-efficient."
+    ],
+    "explanation": "இணைதிறனுக்கான வரையறை இரண்டுமே இணைதிறனுக்கான வரையறை ஆகும். ஆகும்.",
+    "explanation_en": "Both are the definition of co-efficient. is the definition of co-efficiency."
+  },
+  {
+    "id": 89,
+    "question": "கூற்று (A):ஹைட்ரஜன் எரியத் துணை புரியும் கூற்று (B): ஆக்ஸிஜன் எரியும்",
+    "options": [
+      "கூற்று A மற்றும் B இரண்டும் சரி",
+      "கூற்று A மற்றும் B இரண்டும் தவறு",
+      "கூற்று A சரி B தவறு",
+      "கூற்று A தவறு B சரி"
+    ],
+    "correct": 1,
+    "question_en": "Statement (A):Hydrogen helps to burn Statement (B):Oxygen burns",
+    "options_en": [
+      "Both statement A and B are correct",
+      "Both statements A and B are false",
+      "Statement A is true B is false",
+      "Statement A is false B is correct"
+    ],
+    "explanation": "கூற்று A மற்றும் B இரண்டும் தவறு",
+    "explanation_en": "Both statements A and B are false"
+  },
+  {
+    "id": 90,
+    "question": "பின்வருவனவற்றுள் தவறான இணை எது?",
+    "options": [
+      "ஹைட்ரஜன் - சூரியன் மற்றும் பிற விண்மீன்கள்",
+      "ஹீலியம் - பலூன்",
+      "நைட்ரஜன் - கொழுப்பு",
+      "ஆக்ஸிஜன் - காற்று"
+    ],
+    "correct": 2,
+    "question_en": "Which of the following is an incorrect pairing?",
+    "options_en": [
+      "Hydrogen - Sun and other stars",
+      "Helium - balloon",
+      "Nitrogen - fat",
+      "Oxygen - air"
+    ],
+    "explanation": "பின்வருவனவற்றுள் தவறான இணை நைட்ரஜன் - கொழுப்பு ஆகும்.",
+    "explanation_en": "Nitrogen - fat is an incorrect pairing."
+  },
+  {
+    "id": 91,
+    "question": "பின்வருவனவற்றுள் தவறான இணை எது?",
+    "options": [
+      "சோடியம் - உப்பு",
+      "இரும்பு - குளோரோஃபில்",
+      "கோபால்ட் - காந்தம்",
+      "நிக்கல் - நாணயம்"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is an incorrect pairing?",
+    "options_en": [
+      "Sodium - salt",
+      "Iron - Chlorophyll",
+      "Cobalt - Magnet",
+      "Nickel - Coin"
+    ],
+    "explanation": "பின்வருவனவற்றுள் தவறான இணை இரும்பு - குளோரோஃபில் ஆகும்.",
+    "explanation_en": "Iron - Chlorophyll is an incorrect pairing."
+  },
+  {
+    "id": 92,
+    "question": "பின்வருவனவற்றுள் தவறான இணை எது?",
+    "options": [
+      "புரோமின் - புகைப்படத் தொழில்",
+      "ஜெர்மேனியம் - குறைக்கடத்தி",
+      "வனேடியம் - கம்பிச்சுருள்",
+      "ரேடியம் - ஆபரணம்"
+    ],
+    "correct": 3,
+    "question_en": "Which of the following is an incorrect pairing?",
+    "options_en": [
+      "Bromine - Photographic Industry",
+      "Germanium - Semiconductor",
+      "Vanadium - wire coil",
+      "Radium - Jewelry"
+    ],
+    "explanation": "பின்வருவனவற்றுள் தவறான இணை ரேடியம் - ஆபரணம் ஆகும்.",
+    "explanation_en": "Radium - Jewelry is an incorrect pairing."
+  },
+  {
+    "id": 93,
+    "question": "மனித உடலில் காணப்படக்கூடிய தனிமங்கள்",
+    "options": [
+      "10",
+      "20 க்கு மேல்",
+      "12",
+      "13"
+    ],
+    "correct": 1,
+    "question_en": "Elements found in the human body",
+    "options_en": [
+      "10",
+      "More than 20",
+      "12",
+      "13"
+    ],
+    "explanation": "20 க்கு மேல்",
+    "explanation_en": "More than 20"
+  },
+  {
+    "id": 94,
+    "question": "மனித உடலில் காணப்படக்கூடிய மிகையளவு (99 %) தனிமங்கள்",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 3,
+    "question_en": "Most (99%) of the elements found in the human body",
+    "options_en": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "6",
+    "explanation_en": "6"
+  },
+  {
+    "id": 95,
+    "question": "வேறுபடும் தனிமத்தை தேர்ந்தெடுக்க.",
+    "options": [
+      "குளோரின்",
+      "நொபிலியம்",
+      "கால்சியம்",
+      "சிலிக்கான்"
+    ],
+    "correct": 1,
+    "question_en": "To select a different element.",
+    "options_en": [
+      "Chlorine",
+      "Nobileum",
+      "Calcium",
+      "Silicon"
+    ],
+    "explanation": "நொபிலியம்",
+    "explanation_en": "Nobileum"
+  },
+  {
+    "id": 96,
+    "question": "ஆங்கில எழுத்துகளில் குறியீடுகளைக் குறிக்கும் முறையினை அறிமுகப்படுத்தியவர் யார்?",
+    "options": [
+      "ரசவாதிகள்",
+      "டால்டன்",
+      "பெர்ஸீலியஸ்",
+      "லவாய்சியர்"
+    ],
+    "correct": 2,
+    "question_en": "Who introduced the system of notation of symbols in English alphabets?",
+    "options_en": [
+      "Alchemists",
+      "Dalton",
+      "Berzelius",
+      "Lavoisier"
+    ],
+    "explanation": "ஆங்கில எழுத்துகளில் குறியீடுகளைக் குறிக்கும் முறையினை அறிமுகப்படுத்தியவர் பெர்ஸீலியஸ்.",
+    "explanation_en": "Berzelius"
+  },
+  {
+    "id": 97,
+    "question": "வரைபடக் குறியீடுகள் அமையாத முறை எது?",
+    "options": [
+      "ரசவாதிகளின் முறை",
+      "பெர்சீலியஸ் முறை",
+      "டால்டன் முறை",
+      "1, 2 மற்றும் 3"
+    ],
+    "correct": 1,
+    "question_en": "Which of the following is not the pattern of graph symbols?",
+    "options_en": [
+      "The method of the alchemists",
+      "Berzelius method",
+      "Dalton method",
+      "1, 2 and 3"
+    ],
+    "explanation": "வரைபடக் குறியீடுகள் அமையாத முறை பெர்சீலியஸ் முறை ஆகும்.",
+    "explanation_en": "Berzelius method is not the pattern of graph symbols."
+  },
+  {
+    "id": 98,
+    "question": "நீர் மூலக்கூறுகளில் உள்ள ஆக்ஸிஜனின் எண்ணிக்கை",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "1, 2"
+    ],
+    "correct": 0,
+    "question_en": "Number of oxygens in water molecules",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "1, 2"
+    ],
+    "explanation": "1",
+    "explanation_en": "1"
+  },
+  {
+    "id": 99,
+    "question": "ஓசோன் மூலக்கூறுகளில் உள்ள ஆக்ஸிஜனின் எண்ணிக்கை",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "1, 2"
+    ],
+    "correct": 2,
+    "question_en": "Number of oxygen in ozone molecules",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "1, 2"
+    ],
+    "explanation": "3",
+    "explanation_en": "3"
+  },
+  {
+    "id": 100,
+    "question": "நீரின் மூலக்கூறு வாய்பாடு",
+    "options": [
+      "H2O",
+      "HO2",
+      "H2O",
+      "HO2"
+    ],
+    "correct": 0,
+    "question_en": "Molecular formula of water",
+    "options_en": [
+      "H2O",
+      "HO2",
+      "H2O",
+      "HO2"
+    ],
+    "explanation": "H2O",
+    "explanation_en": "H2O"
+  },
+  {
+    "id": 101,
+    "question": "பொருத்துக.\na) சோடியம் குளோரைடு - i) C6H12O6\nb) குளுக்கோஸ் - ii) CO2\nc) கார்பன் டை ஆக்ஸைடு - iii) NaCl\nd) அம்மோனியா - iv) NH3",
+    "options": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-ii, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "correct": 1,
+    "question_en": "match\na) Sodium chloride – i) C6H12O6\nb) Glucose – ii) CO2\nc) Carbon dioxide – iii) NaCl\nd) Ammonia – iv) NH3",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-ii, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "explanation": "a-iii, b-i, c-ii, d-iv",
+    "explanation_en": "a-iii, b-i, c-ii, d-iv"
+  },
+  {
+    "id": 102,
+    "question": "குறியீட்டின் அடிப்படையில் பொருத்துக.\na) இரும்பு - i) Al\nb) தாமிரம் - ii) Ni\nc) நிக்கல் - iii) Cu\nd) அலுமினியம் - iv) Fe",
+    "options": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "correct": 3,
+    "question_en": "Match by index.\na) Iron – i) Al\nb) Copper – ii) Ni\nc) Nickel – iii) Cu\nd) Aluminum – iv) Fe",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "explanation": "a-iv, b-iii, c-ii, d-i",
+    "explanation_en": "a-iv, b-iii, c-ii, d-i"
+  },
+  {
+    "id": 103,
+    "question": "குறியீட்டின் அடிப்படையில் பொருத்துக.\na) ஆர்கான் - i) Cr\nb) ஆர்சனிக் - ii) Ba\nc) பேரியம் - iii) As\nd) குரோமியம் - iv) Ar",
+    "options": [
+      "a-iii, b-i, c-iv, d-i",
+      "a-iii, b-i, c-i, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "correct": 3,
+    "question_en": "Match by index.\na) Argon - i) Cr\nb) Arsenic – ii) Ba\nc) Barium – iii) As\nd) Chromium – iv) Ar",
+    "options_en": [
+      "a-iii, b-i, c-iv, d-i",
+      "a-iii, b-i, c-i, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "explanation": "a-iv, b-iii, c-ii, d-i",
+    "explanation_en": "a-iv, b-iii, c-ii, d-i"
+  },
+  {
+    "id": 104,
+    "question": "குறியீட்டின் அடிப்படையில் பொருத்துக.\na) ஈயம் - i) I\nb) துத்தநாகம் - ii) C\nc) கார்பன் - iii) Pb\nd) அயோடின் - iv) Zn",
+    "options": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-1, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "correct": 2,
+    "question_en": "Match by index.\na) Lead – i) I\nb) Zinc – ii) C\nc) Carbon – iii) Pb\nd) Iodine – iv) Zn",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-1, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "explanation": "a-iii, b-iv, c-ii, d-i",
+    "explanation_en": "a-iii, b-iv, c-ii, d-i"
+  },
+  {
+    "id": 105,
+    "question": "குறியீட்டின் அடிப்படையில் பொருத்துக.\na) கோபால்ட் - i) Ne\nb) ஹீலியம் - ii) Mg\nc) மக்னீசியம் - iii) Co\nd) நியான் - iv) He",
+    "options": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-1, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "correct": 2,
+    "question_en": "Match by index.\na) Cobalt – i) Ne\nb) Helium – ii) Mg\nc) Magnesium – iii) Co\nd) Neon – iv) He",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-1, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "explanation": "a-iii, b-iv, c-ii, d-i",
+    "explanation_en": "a-iii, b-iv, c-ii, d-i"
+  },
+  {
+    "id": 106,
+    "question": "குறியீட்டின் அடிப்படையில் பொருத்துக.\na) காலியம் - i) Be\nb) சிலிக்கான் - ii) Si\nc) பிஸ்மத் - iii) Ga\nd) பெரிலியம் - iv) Bi",
+    "options": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-ii, c-ii, d-i"
+    ],
+    "correct": 0,
+    "question_en": "Match by index.\na) Vacancy – i) Be\nb) Silicon – ii) Si\nc) Bismuth – iii) Ga\nd) Beryllium – iv) Bi",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-ii, c-ii, d-i"
+    ],
+    "explanation": "a-iii, b-ii, c-iv, d-i",
+    "explanation_en": "a-iii, b-ii, c-iv, d-i"
+  },
+  {
+    "id": 107,
+    "question": "குறியீட்டின் அடிப்படையில் பொருத்துக.\na) ஃபுளூரின் - i) K\nb) பாஸ்பரஸ் - ii) P\nc) யுரேனியம் - iii) F\nd) பொட்டாசியம் - iv) U",
+    "options": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "correct": 0,
+    "question_en": "Match by index.\na) Fluorine – i) K\nb) Phosphorus – ii) P\nc) Uranium – iii) F\nd) Potassium – iv) U",
+    "options_en": [
+      "a-iii, b-ii, c-iv, d-i",
+      "a-iii, b-i, c-ii, d-iv",
+      "a-iii, b-iv, c-ii, d-i",
+      "a-iv, b-iii, c-ii, d-i"
+    ],
+    "explanation": "a-iii, b-ii, c-iv, d-i",
+    "explanation_en": "a-iii, b-ii, c-iv, d-i"
+  },
+  {
+    "id": 108,
+    "question": "தனிமம் என்ற சொல்லை முதலில் பயன்படுத்தியவர் யார்?",
+    "options": [
+      "லவாய்சியர்",
+      "ராபர்ட் பாயில்",
+      "ஐன்ஸ்டீன்",
+      "மென்டலீஃப்"
+    ],
+    "correct": 1,
+    "question_en": "Who first used the term element?",
+    "options_en": [
+      "Lavoisier",
+      "Robert Boyle",
+      "Einstein",
+      "Mental Leaf"
+    ],
+    "explanation": "தனிமம் என்ற சொல்லை முதலில் பயன்படுத்தியவர் ராபர்ட் பாயில்.",
+    "explanation_en": "Robert Boyle"
+  },
+  {
+    "id": 109,
+    "question": "பளபளப்பான மேற்பரப்பைக் கொண்டது எது?",
+    "options": [
+      "தனிமங்கள்",
+      "உலோகங்கள்",
+      "அலோகங்கள்",
+      "சேர்மங்கள்"
+    ],
+    "correct": 1,
+    "question_en": "Which has a shiny surface?",
+    "options_en": [
+      "elements",
+      "Metals",
+      "Metals",
+      "Compounds"
+    ],
+    "explanation": "பளபளப்பான மேற்பரப்பைக் கொண்டது உலோகங்கள் ஆகும்.",
+    "explanation_en": "Metals"
+  },
+  {
+    "id": 110,
+    "question": "அணுக்கட்டு எண் 1 பெற்றுள்ள தனிமம் எது?",
+    "options": [
+      "H",
+      "He",
+      "P",
+      "S"
+    ],
+    "correct": 1,
+    "question_en": "Which element has atomic number 1?",
+    "options_en": [
+      "H",
+      "He",
+      "P",
+      "S"
+    ],
+    "explanation": "அணுக்கட்டு எண் 1 பெற்றுள்ள தனிமம் He ஆகும்.",
+    "explanation_en": "He"
+  },
+  {
+    "id": 111,
+    "question": "அணுக்கட்டு எண் 2 பெற்றிராத தனிமம் எது?",
+    "options": [
+      "H",
+      "He",
+      "N",
+      "O"
+    ],
+    "correct": 1,
+    "question_en": "Which element does not have atomic number 2?",
+    "options_en": [
+      "H",
+      "He",
+      "N",
+      "O"
+    ],
+    "explanation": "அணுக்கட்டு எண் 2 பெற்றிராத தனிமம் He ஆகும்.",
+    "explanation_en": "He"
+  },
+  {
+    "id": 112,
+    "question": "அணுக்கட்டு எண் 8 பெற்றுள்ள தனிமம் எது?",
+    "options": [
+      "H",
+      "He",
+      "P",
+      "S"
+    ],
+    "correct": 3,
+    "question_en": "Which element has atomic number 8?",
+    "options_en": [
+      "H",
+      "He",
+      "P",
+      "S"
+    ],
+    "explanation": "அணுக்கட்டு எண் 8 பெற்றுள்ள தனிமம் S ஆகும்.",
+    "explanation_en": "S"
+  },
+  {
+    "id": 113,
+    "question": "பின்வருவனவற்றுள் நீரைக் குறிக்கும் இரசவாதிகளின் குறியீடு எது?",
+    "options": [
+      "தலைகீழ் முக்கோணம்",
+      "நேர் முக்கோணம்",
+      "H2O",
+      "அனைத்தும்"
+    ],
+    "correct": 0,
+    "question_en": "Which of the following is the alchemist's symbol for water?",
+    "options_en": [
+      "Inverted triangle",
+      "A right triangle",
+      "H2O",
+      "Everything"
+    ],
+    "explanation": "பின்வருவனவற்றுள் நீரைக் குறிக்கும் இரசவாதிகளின் குறியீடு தலைகீழ் முக்கோணம் ஆகும்.",
+    "explanation_en": "Inverted triangle is the alchemist's symbol for water."
+  },
+  {
+    "id": 114,
+    "question": "ஊதா நிறத்தைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் எது?",
+    "options": [
+      "Hg",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "correct": 1,
+    "question_en": "Which element is coded to represent the color purple?",
+    "options_en": [
+      "Hg",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "explanation": "ஊதா நிறத்தைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் I ஆகும்.",
+    "explanation_en": "I"
+  },
+  {
+    "id": 115,
+    "question": "கடவுள் பெயரினைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் எது?",
+    "options": [
+      "Hg",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "correct": 0,
+    "question_en": "Which element is symbolized to represent God's name?",
+    "options_en": [
+      "Hg",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "explanation": "கடவுள் பெயரினைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் Hg ஆகும்.",
+    "explanation_en": "Hg"
+  },
+  {
+    "id": 116,
+    "question": "கோள் பெயரினைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் எது?",
+    "options": [
+      "Eu",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "correct": 2,
+    "question_en": "Which element has the symbol representing the name of the planet?",
+    "options_en": [
+      "Eu",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "explanation": "கோள் பெயரினைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் Pu ஆகும்.",
+    "explanation_en": "Pu"
+  },
+  {
+    "id": 117,
+    "question": "அமெரிக்க நாட்டைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் எது?",
+    "options": [
+      "Eu",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "correct": 3,
+    "question_en": "Which element is coded to represent the US country?",
+    "options_en": [
+      "Eu",
+      "I",
+      "Pu",
+      "Am"
+    ],
+    "explanation": "அமெரிக்க நாட்டைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் Am ஆகும்.",
+    "explanation_en": "Am"
+  },
+  {
+    "id": 118,
+    "question": "ஆல்ஃபிரட் நோபல் பெயரினைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் எது?",
+    "options": [
+      "Eu",
+      "No",
+      "Pu",
+      "Am"
+    ],
+    "correct": 1,
+    "question_en": "Which element is coded to represent Alfred Nobel's name?",
+    "options_en": [
+      "Eu",
+      "No",
+      "Pu",
+      "Am"
+    ],
+    "explanation": "ஆல்ஃபிரட் நோபல் பெயரினைக் குறிக்கும் வகையில் குறியீட்டைப் பெற்றுள்ள தனிமம் No ஆகும்.",
+    "explanation_en": "No"
+  },
+  {
+    "id": 119,
+    "question": "திரிபுத்தாங்கும் தன்மை பெற்றிராதது எது?",
+    "options": [
+      "உலோகங்கள்",
+      "அலோகங்கள்",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Which is not a strain?",
+    "options_en": [
+      "Metals",
+      "Metals",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation": "திரிபுத்தாங்கும் தன்மை பெற்றிராதது அலோகங்கள் ஆகும்.",
+    "explanation_en": "Metals is not a strain."
+  },
+  {
+    "id": 120,
+    "question": "மின்கடத்துத்திறன் அடிப்படையில் அரிதிற்கடத்தி எது?",
+    "options": [
+      "உலோகங்கள்",
+      "அலோகங்கள்",
+      "இரண்டும் சரி",
+      "இரண்டும் தவறு"
+    ],
+    "correct": 1,
+    "question_en": "Which is a rare conductor in terms of electrical conductivity?",
+    "options_en": [
+      "Metals",
+      "Metals",
+      "Both are correct",
+      "Both are wrong"
+    ],
+    "explanation": "மின்கடத்துத்திறன் அடிப்படையில் அரிதிற்கடத்தி அலோகங்கள் ஆகும்.",
+    "explanation_en": "Metals is a rare conductor in terms of electrical conductivity."
+  },
+  {
+    "id": 121,
+    "question": "குறை மின்கடத்திகளாக செயல்படும் உலோகப்போலிகள் எது?",
+    "options": [
+      "Si, Ge",
+      "B, Si",
+      "Si, B",
+      "B, Po"
+    ],
+    "correct": 0,
+    "question_en": "Which of the metals act as low conductors?",
+    "options_en": [
+      "Si, Ge",
+      "B, Si",
+      "Si, B",
+      "B, Po"
+    ],
+    "explanation": "குறை மின்கடத்திகளாக செயல்படும் உலோகப்போலிகள் Si, Ge ஆகும்.",
+    "explanation_en": "Si, Ge"
+  },
+  {
+    "id": 122,
+    "question": "பட்டாசுத் தொழிற்சாலைகளிலும், ராக்கெட் எரிபொருளைப் பற்ற வைக்க உதவும் உலோகப்போலி எது?",
+    "options": [
+      "Si",
+      "B",
+      "Ge",
+      "Po"
+    ],
+    "correct": 1,
+    "question_en": "In firecrackers, which metal is used to ignite rocket fuel?",
+    "options_en": [
+      "Si",
+      "B",
+      "Ge",
+      "Po"
+    ],
+    "explanation": "பட்டாசுத் தொழிற்சாலைகளிலும், ராக்கெட் எரிபொருளைப் பற்ற வைக்க உதவும் உலோகப்போலி B ஆகும்.",
+    "explanation_en": "B"
+  },
+  {
+    "id": 123,
+    "question": "மின்னணுக் கருவிகளில் பயன்படுவது எது?",
+    "options": [
+      "Si",
+      "B",
+      "As",
+      "Po"
+    ],
+    "correct": 0,
+    "question_en": "What is used in electronic devices?",
+    "options_en": [
+      "Si",
+      "B",
+      "As",
+      "Po"
+    ],
+    "explanation": "மின்னணுக் கருவிகளில் பயன்படுவது Si ஆகும்.",
+    "explanation_en": "Si is used in electronic devices."
+  },
+  {
+    "id": 124,
+    "question": "பருப்பொருள் என்பது",
+    "options": [
+      "நிறை, நிறம்",
+      "நிறம்,எடை",
+      "நிறை, இடத்தை அடைத்துக் கொள்ளும் பண்பு உடையதாகும்.",
+      "நிறம், இடத்தை அடைத்துக் கொள்ளும் பண்பு"
+    ],
+    "correct": 2,
+    "question_en": "Subject matter is",
+    "options_en": [
+      "mass, color",
+      "Color, weight",
+      "Mass has the property of occupying space.",
+      "Color is the property of occupying space"
+    ],
+    "explanation": "நிறை, இடத்தை அடைத்துக் கொள்ளும் பண்பு உடையதாகும்.",
+    "explanation_en": "Mass has the property of occupying space."
+  },
+  {
+    "id": 125,
+    "question": "கந்தக அமிலத்தின் அணுக்கட்டு எண்",
+    "options": [
+      "7",
+      "6",
+      "4",
+      "3"
+    ],
+    "correct": 0,
+    "question_en": "Atomic number of sulfuric acid",
+    "options_en": [
+      "7",
+      "6",
+      "4",
+      "3"
+    ],
+    "explanation": "7",
+    "explanation_en": "7"
+  },
+  {
+    "id": 126,
+    "question": "நீரின் அணுக்கட்டு எண்",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct": 1,
+    "question_en": "Atomic number of water",
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "explanation": "3",
+    "explanation_en": "3"
+  },
+  {
+    "id": 127,
+    "question": "பாஸ்பரஸின் அணுக்கட்டு எண்",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "3"
+    ],
+    "correct": 1,
+    "question_en": "Atomic number of phosphorus",
+    "options_en": [
+      "2",
+      "4",
+      "6",
+      "3"
+    ],
+    "explanation": "4",
+    "explanation_en": "4"
+  },
+  {
+    "id": 128,
+    "question": "கூற்று (1) பொதுவாக ஒரு பொருள் வெப்பப்படுத்தும்போது விரிவடைகிறது. கூற்று (2): ஒரு பொருள் வெப்பப்படுத்தும்போது நிறையில் மாற்றம் ஏற்படுகிறது கூற்று (3): ஒரு பொருள் வெப்பப்படுத்தும்போது பரிமாணத்தில் எந்த மாற்றமும் ஏற்படுவதில்லை",
+    "options": [
+      "கூற்று 1, 2, 3 சரி",
+      "கூற்று 1, 2, சரி கூற்று 3 தவறு",
+      "கூற்று 1, 3, சரி கூற்று 2 தவறு",
+      "கூற்று 1, 2, 3 தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Statement (1) Generally a material expands on heating. Statement (2): A substance changes in mass when it is heated. Statement (3): A substance does not change in dimension when it is heated.",
+    "options_en": [
+      "Statement 1, 2, 3 are correct",
+      "Statements 1 and 2 are true and statement 3 is false",
+      "Statements 1 and 3 are true and statement 2 is false",
+      "Statement 1, 2, 3 are false"
+    ],
+    "explanation": "கூற்று 1, 3, சரி கூற்று 2 தவறு",
+    "explanation_en": "Statements 1 and 3 are true and statement 2 is false"
+  },
+  {
+    "id": 129,
+    "question": "கூற்று (1) காற்று ஒரு சேர்மம். கூற்று (2): நீர் ஒரு சேர்மம். கூற்று (3): காற்று ஒரு கலவை. கூற்று (4): ஹைட்ரஜன் வாயு ஒரு சேர்மம். கூற்று (5) ஹைட்ரஜன் வாயு ஒரு தனிமம்.",
+    "options": [
+      "கூற்று 1, 2, 3 சரி",
+      "கூற்று 2, 3, 4 சரி",
+      "கூற்று 2, 3, 5 சரி",
+      "கூற்று 1, 2, 5 சரி"
+    ],
+    "correct": 2,
+    "question_en": "Assertion (1) Air is a compound. Statement (2): Water is a compound. Statement (3): Air is a mixture. Statement (4): Hydrogen gas is a compound. Assertion (5) Hydrogen gas is an element.",
+    "options_en": [
+      "Statement 1, 2, 3 are correct",
+      "Statement 2, 3, 4 are correct",
+      "Statement 2, 3, 5 are correct",
+      "Statement 1, 2, 5 are correct"
+    ],
+    "explanation": "கூற்று 2, 3, 5 சரி",
+    "explanation_en": "Statement 2, 3, 5 are correct"
+  },
+  {
+    "id": 130,
+    "question": "கூற்று: வெப்பக் காற்று நிரப்பப்பட்ட பலூன் காற்றில் பறக்கிறது. காரணம் (1) பலூனில் உள்ள காற்றின் அடர்த்தியைவிட வெளிப்புறத்தில் உள்ள காற்றின் அடர்த்தி அதிகம். காரணம் (2): பலூனில் உள்ள காற்றின் அடர்த்தியைவிட வெளிப்புறத்தில் உள்ள காற்றின் அடர்த்தி குறைவு.",
+    "options": [
+      "கூற்று சரி காரணம் 2 கூற்றை சரியாக விளக்குகிறது",
+      "கூற்று சரி காரணம் 1 மற்றும் 2 கூற்றிற்கான சரியான விளக்கமில்லை",
+      "கூற்று சரி காரணம் 1 கூற்றை சரியாக விளக்குகிறது",
+      "கூற்று மற்றும் காரணம் ஆகிய இரண்டும் தவறு"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: A balloon filled with hot air flies in the air. Reason (1) The density of the air outside the balloon is greater than the density of the air inside the balloon. Reason (2): The density of the air outside is less than the density of the air inside the balloon.",
+    "options_en": [
+      "Statement Correct Reason 2 correctly explains the statement",
+      "The statement is correct because 1 and 2 are not correct explanations for the statement",
+      "Statement Correct Reason 1 correctly explains the statement",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்று சரி காரணம் 1 கூற்றை சரியாக விளக்குகிறது",
+    "explanation_en": "Statement Correct Reason 1 correctly explains the statement"
+  },
+  {
+    "id": 131,
+    "question": "நான்கு இயற்கை கூறுகளான நிலம், நீர், காற்று மற்றும் நெருப்பைக் குறிக்க வடிவியல் உருவங்களை பயன்படுத்தினர்.",
+    "options": [
+      "டால்டன்",
+      "கிரேக்கர்கள்",
+      "இரசவாதிகள்",
+      "பெர்சிலியஸ்"
+    ],
+    "correct": 1,
+    "question_en": "They used geometric figures to represent the four natural elements, earth, water, air and fire.",
+    "options_en": [
+      "Dalton",
+      "Greeks",
+      "Alchemists",
+      "Persilius"
+    ],
+    "explanation": "கிரேக்கர்கள்",
+    "explanation_en": "Greeks"
+  },
+  {
+    "id": 132,
+    "question": "மென்மையான உலோகம்",
+    "options": [
+      "வெள்ளி",
+      "பொன்",
+      "சோடியம்",
+      "இரும்பு"
+    ],
+    "correct": 2,
+    "question_en": "Soft metal",
+    "options_en": [
+      "Friday",
+      "Gold",
+      "Sodium",
+      "Iron"
+    ],
+    "explanation": "சோடியம்",
+    "explanation_en": "Sodium"
+  },
+  {
+    "id": 133,
+    "question": "ஒரு நாட்டின் பொருளாதாரம் அந்நாட்டில் இருப்பு வைக்கப்பட்டுள்ள அளவைக் கொண்டு அளவிடப்படுகிறது.",
+    "options": [
+      "இரும்பு",
+      "தங்கம்",
+      "தாமிரம்",
+      "நீர்"
+    ],
+    "correct": 1,
+    "question_en": "A country's economy is measured by the amount of stock held in that country.",
+    "options_en": [
+      "Iron",
+      "Gold",
+      "Copper",
+      "Water"
+    ],
+    "explanation": "தங்கம்",
+    "explanation_en": "Gold"
+  },
+  {
+    "id": 134,
+    "question": "கூற்று: வெப்பநிலைமானிகளில் பாதரசம் பயன்படுத்தப்படுகிறது. காரணம் 1: அதிக அடர்த்தி கொண்டுள்ளது. காரணம் 2: வெப்பநிலை அதிகரிக்கும் போது சீராக விரிவடையும்.",
+    "options": [
+      "கூற்று சரி, காரணம் 2 மட்டும் கூற்றை சரியாக விளக்குகிறது.",
+      "கூற்று சரி, காரணம் 1, 2 கூற்றை சரியாக விளக்குகின்றன.",
+      "கூற்று சரி, காரணம் 1 மட்டும் கூற்றை சரியாக விளக்குகிறது.",
+      "கூற்று மற்றும் காரணம் ஆகிய இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Assertion: Mercury is used in thermometers. Reason 1: Has high density. Reason 2: Expands steadily as temperature increases.",
+    "options_en": [
+      "The statement is correct, only reason 2 correctly explains the statement.",
+      "The statement is correct, Reason 1 and 2 explain the statement correctly.",
+      "The statement is correct, only reason 1 correctly explains the statement.",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்று சரி, காரணம் 2 மட்டும் கூற்றை சரியாக விளக்குகிறது.",
+    "explanation_en": "The statement is correct, only reason 2 correctly explains the statement."
+  },
+  {
+    "id": 135,
+    "question": "X- கதிர் எந்திரங்கள் தயாரிக்க பயன்படுகிறது.",
+    "options": [
+      "அலுமினியம்",
+      "காரீயம்",
+      "பாதரசம்",
+      "இரும்பு"
+    ],
+    "correct": 1,
+    "question_en": "Used to make X-ray machines.",
+    "options_en": [
+      "Aluminum",
+      "Business",
+      "mercury",
+      "Iron"
+    ],
+    "explanation": "காரீயம்",
+    "explanation_en": "Business"
+  },
+  {
+    "id": 136,
+    "question": "ராக்கெட் எரிபொருளாக பயன்படுகிறது.",
+    "options": [
+      "பெட்ரோல்",
+      "டீசல்",
+      "ஹைட்ரஜன்",
+      "ஆக்சிஜன்"
+    ],
+    "correct": 2,
+    "question_en": "Used as rocket fuel.",
+    "options_en": [
+      "Petrol",
+      "Diesel",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "explanation": "ஹைட்ரஜன்",
+    "explanation_en": "Hydrogen"
+  },
+  {
+    "id": 137,
+    "question": "வானூர்தி மற்றும் ராக்கெட்டின் பாகங்கள் தயாரிக்க பயன்படுகிறது.",
+    "options": [
+      "அலுமினியம்",
+      "காரீயம்",
+      "பாதரசம்",
+      "இரும்பு"
+    ],
+    "correct": 0,
+    "question_en": "Used to make parts of aircraft and rockets.",
+    "options_en": [
+      "Aluminum",
+      "Business",
+      "mercury",
+      "Iron"
+    ],
+    "explanation": "அலுமினியம்",
+    "explanation_en": "Aluminum"
+  },
+  {
+    "id": 138,
+    "question": "மற்றும் ஆகிய அலோகங்கள் அம்மோனியா தயாரிக்க பயன்படுகிறது.",
+    "options": [
+      "N, O",
+      "H, O",
+      "N, H",
+      "C, H"
+    ],
+    "correct": 2,
+    "question_en": "and metals are used to make ammonia.",
+    "options_en": [
+      "N,O",
+      "H,O",
+      "N,H",
+      "C, H"
+    ],
+    "explanation": "N, H",
+    "explanation_en": "N,H"
+  },
+  {
+    "id": 139,
+    "question": "துப்பாக்கித் தூள் தயாரிக்க பயன்படுகிறது.",
+    "options": [
+      "கார்பன்",
+      "நைட்ரஜன்",
+      "சல்ஃபர்",
+      "ஹைட்ரஜன்"
+    ],
+    "correct": 2,
+    "question_en": "Used to make gunpowder.",
+    "options_en": [
+      "Carbon",
+      "Nitrogen",
+      "Sulphur",
+      "Hydrogen"
+    ],
+    "explanation": "சல்ஃபர்",
+    "explanation_en": "Sulphur"
+  },
+  {
+    "id": 140,
+    "question": "ஒரு மூலக்கூறு நீரில் ஆக்சிஜன் அணுவும் இரு ஹைட்ரஜன் அணுக்களும் என்ற நிறை விகிதத்தில் இணைந்துள்ளன.",
+    "options": [
+      "1:2",
+      "2:1",
+      "8:1",
+      "1:8"
+    ],
+    "correct": 2,
+    "question_en": "A molecule of water has an oxygen atom and two hydrogen atoms combined in mass ratio.",
+    "options_en": [
+      "1:2",
+      "2:1",
+      "8:1",
+      "1:8"
+    ],
+    "explanation": "8:1",
+    "explanation_en": "8:1"
+  },
+  {
+    "id": 141,
+    "question": "ஒரு மூலக்கூறு நீரில் ஆக்சிஜன் அணுவும் இரு ஹைட்ரஜன் அணுக்களும் என்ற கனஅளவு விகிதத்தில் இணைந்துள்ளன.",
+    "options": [
+      "1:2",
+      "2:1",
+      "8:1",
+      "1:8"
+    ],
+    "correct": 0,
+    "question_en": "A molecule of water has an oxygen atom and two hydrogen atoms combined in a volume ratio of",
+    "options_en": [
+      "1:2",
+      "2:1",
+      "8:1",
+      "1:8"
+    ],
+    "explanation": "1:2",
+    "explanation_en": "1:2"
+  },
+  {
+    "id": 142,
+    "question": "காலமைன் என்று அழைக்கப்படுவது",
+    "options": [
+      "சோடியம் கார்பனேட்",
+      "பொட்டாசியம் கார்பனேட்",
+      "துத்தநாக கார்பனேட்",
+      "கால்சியம் கார்பனேட்"
+    ],
+    "correct": 2,
+    "question_en": "Called calamine",
+    "options_en": [
+      "Sodium carbonate",
+      "Potassium carbonate",
+      "Zinc carbonate",
+      "Calcium carbonate"
+    ],
+    "explanation": "துத்தநாக கார்பனேட்",
+    "explanation_en": "Zinc carbonate"
+  },
+  {
+    "id": 143,
+    "question": "வினிகரின் வேதியல் பெயர்",
+    "options": [
+      "சல்பியூரிக் அமிலம்",
+      "அசிட்டிக் அமிலம்",
+      "நைட்ரிக் அமிலம்",
+      "கார்போனிக் அமிலம்"
+    ],
+    "correct": 1,
+    "question_en": "Chemical name of vinegar",
+    "options_en": [
+      "Sulfuric acid",
+      "Acetic acid",
+      "Nitric acid",
+      "Carbonic acid"
+    ],
+    "explanation": "அசிட்டிக் அமிலம்",
+    "explanation_en": "Acetic acid"
+  },
+  {
+    "id": 144,
+    "question": "விட்ரியால் எண்ணெய் என்று அழைக்கப்படுவது",
+    "options": [
+      "சல்பியூரிக் அமிலம்",
+      "அசிட்டிக் அமிலம்",
+      "நைட்ரிக் அமிலம்",
+      "கார்போனிக் அமிலம்"
+    ],
+    "correct": 0,
+    "question_en": "The so-called oil of vitriol",
+    "options_en": [
+      "Sulfuric acid",
+      "Acetic acid",
+      "Nitric acid",
+      "Carbonic acid"
+    ],
+    "explanation": "சல்பியூரிக் அமிலம்",
+    "explanation_en": "Sulfuric acid"
+  },
+  {
+    "id": 145,
+    "question": "பச்சை துத்தம் என அழைக்கப்படுவது எது?",
+    "options": [
+      "தாமிர சல்பேட்",
+      "இரும்பு சல்பேட்",
+      "கால்சியம் சல்பேட்",
+      "கால்சியம் சல்பேட் ஹெமி ஹைட்ரேட்"
+    ],
+    "correct": 1,
+    "question_en": "What is called green zinc?",
+    "options_en": [
+      "Copper sulfate",
+      "Iron sulfate",
+      "Calcium sulfate",
+      "Calcium sulfate hemihydrate"
+    ],
+    "explanation": "பச்சை துத்தம் என அழைக்கப்படுவது இரும்பு சல்பேட் ஆகும்.",
+    "explanation_en": "Iron sulfate is called green zinc."
+  },
+  {
+    "id": 146,
+    "question": "மயில் துத்தம் என அழைக்கப்படுவது எது?",
+    "options": [
+      "தாமிர சல்பேட்",
+      "இரும்பு சல்பேட்",
+      "கால்சியம் சல்பேட்",
+      "கால்சியம் சல்பேட் ஹெமி ஹைட்ரேட்"
+    ],
+    "correct": 0,
+    "question_en": "What is called Peacock Tuttam?",
+    "options_en": [
+      "Copper sulfate",
+      "Iron sulfate",
+      "Calcium sulfate",
+      "Calcium sulfate hemihydrate"
+    ],
+    "explanation": "மயில் துத்தம் என அழைக்கப்படுவது தாமிர சல்பேட் ஆகும்.",
+    "explanation_en": "Copper sulfate is called Peacock Tuttam."
+  },
+  {
+    "id": 147,
+    "question": "பாரிஸ் சாந்து என அழைக்கப்படுவது எது?",
+    "options": [
+      "தாமிர சல்பேட்",
+      "இரும்பு சல்பேட்",
+      "கால்சியம் சல்பேட்",
+      "கால்சியம் சல்பேட் ஹெமி ஹைட்ரேட்"
+    ],
+    "correct": 3,
+    "question_en": "What is plaster of paris called?",
+    "options_en": [
+      "Copper sulfate",
+      "Iron sulfate",
+      "Calcium sulfate",
+      "Calcium sulfate hemihydrate"
+    ],
+    "explanation": "பாரிஸ் சாந்து என அழைக்கப்படுவது கால்சியம் சல்பேட் ஹெமி ஹைட்ரேட் ஆகும்.",
+    "explanation_en": "Calcium sulfate hemihydrate is plaster of paris called."
+  },
+  {
+    "id": 148,
+    "question": "உலோகங்களின் பண்பு ஆலய மணி தயாரிக்க பயன்படுகிறது.",
+    "options": [
+      "தகடாக மாறும் பண்பு",
+      "கம்பியாக நீளும் பண்பு",
+      "வெப்பத்தை கடத்தும் பண்பு",
+      "ஒலி எழுப்பும் பண்பு"
+    ],
+    "correct": 3,
+    "question_en": "Properties of metals used to make temple bells.",
+    "options_en": [
+      "Plate turning property",
+      "The property of stretching into a wire",
+      "Heat transfer property",
+      "Sounding property"
+    ],
+    "explanation": "ஒலி எழுப்பும் பண்பு",
+    "explanation_en": "Sounding property"
+  },
+  {
+    "id": 149,
+    "question": "தீயணைக்கும் சாதனங்களில் பயன்படும் வேதிப்பொருள்",
+    "options": [
+      "சோடியம் கார்பனேட்",
+      "சோடியம் பை கார்பனேட்",
+      "பொட்டாசியம் கார்பனேட்",
+      "கால்சியம் கார்பனேட்"
+    ],
+    "correct": 1,
+    "question_en": "A chemical used in fire extinguishers",
+    "options_en": [
+      "Sodium carbonate",
+      "Sodium bicarbonate",
+      "Potassium carbonate",
+      "Calcium carbonate"
+    ],
+    "explanation": "சோடியம் பை கார்பனேட்",
+    "explanation_en": "Sodium bicarbonate"
+  },
+  {
+    "id": 150,
+    "question": "கண்ணாடி தயாரிப்பில் பயன்படுகிறது.",
+    "options": [
+      "கால்சியம் ஆக்சைடு",
+      "கால்சியம் கார்பனேட்",
+      "கால்சியம் குளோரைடு",
+      "கால்சியம் ஆக்சி குளோரைடு"
+    ],
+    "correct": 0,
+    "question_en": "Used in glass making.",
+    "options_en": [
+      "Calcium oxide",
+      "Calcium carbonate",
+      "Calcium chloride",
+      "Calcium oxychloride"
+    ],
+    "explanation": "கால்சியம் ஆக்சைடு",
+    "explanation_en": "Calcium oxide"
+  },
+  {
+    "id": 151,
+    "question": "சுண்ணக்கட்டி தயாரிக்க பயன்படுவது",
+    "options": [
+      "கால்சியம் ஆக்சைடு",
+      "கால்சியம் கார்பனேட்",
+      "கால்சியம் குளோரைடு",
+      "கால்சியம் ஆக்சி குளோரைடு"
+    ],
+    "correct": 1,
+    "question_en": "Used to make chalk",
+    "options_en": [
+      "Calcium oxide",
+      "Calcium carbonate",
+      "Calcium chloride",
+      "Calcium oxychloride"
+    ],
+    "explanation": "கால்சியம் கார்பனேட்",
+    "explanation_en": "Calcium carbonate"
+  },
+  {
+    "id": 152,
+    "question": "கடின நீரை மென் நீராக்கப் பயன்படுவது",
+    "options": [
+      "சோடியம் கார்பனேட்",
+      "சோடியம் பை கார்பனேட்",
+      "பொட்டாசியம் கார்பனேட்",
+      "கால்சியம் கார்பனேட்"
+    ],
+    "correct": 0,
+    "question_en": "Used to soften hard water",
+    "options_en": [
+      "Sodium carbonate",
+      "Sodium bicarbonate",
+      "Potassium carbonate",
+      "Calcium carbonate"
+    ],
+    "explanation": "சோடியம் கார்பனேட்",
+    "explanation_en": "Sodium carbonate"
+  },
+  {
+    "id": 153,
+    "question": "வெடிகள் தயாரிக்க மற்றும் பயன்படுகிறது.",
+    "options": [
+      "Mg, C",
+      "P, C",
+      "Mg, P",
+      "C, S"
+    ],
+    "correct": 2,
+    "question_en": "Used to make explosives.",
+    "options_en": [
+      "Mg, C",
+      "P.C",
+      "Mg, P",
+      "C, S"
+    ],
+    "explanation": "Mg, P",
+    "explanation_en": "Mg, P"
+  },
+  {
+    "id": 154,
+    "question": "இரசவாதிகள் பயன்படுத்திய ஆர்சனிக் (Arsenic) குறியீடு",
+    "options": [
+      "வட்டம் இணைந்தவை",
+      "As",
+      "முக்கோணம்",
+      "வட்டம் மற்றும் புள்ளி"
+    ],
+    "correct": 0,
+    "question_en": "Arsenic symbol used by alchemists",
+    "options_en": [
+      "Circles are connected",
+      "As",
+      "Triangle",
+      "circle and point"
+    ],
+    "explanation": "வட்டம் இணைந்தவை",
+    "explanation_en": "Circles are connected"
+  },
+  {
+    "id": 155,
+    "question": "இயற்கையில் கிடைக்கும் 92 தனிமங்களில் எத்தனை தனிமங்கள் அலோகங்களாக உள்ளன ?",
+    "options": [
+      "16",
+      "72",
+      "26",
+      "36"
+    ],
+    "correct": 0,
+    "question_en": "How many of the 92 elements found in nature are metals?",
+    "options_en": [
+      "16",
+      "72",
+      "26",
+      "36"
+    ],
+    "explanation": "16",
+    "explanation_en": "16 of the 92 elements found in nature are metals."
+  },
+  {
+    "id": 156,
+    "question": "இயற்கையில் கிடைக்கும் 92 தனிமங்களில் எத்தனை தனிமங்கள் உலோகங்களாக உள்ளன?",
+    "options": [
+      "82",
+      "72",
+      "74",
+      "71"
+    ],
+    "correct": 1,
+    "question_en": "How many of the 92 naturally occurring elements are metals?",
+    "options_en": [
+      "82",
+      "72",
+      "74",
+      "71"
+    ],
+    "explanation": "72",
+    "explanation_en": "72 of the 92 naturally occurring elements are metals."
+  },
+  {
+    "id": 157,
+    "question": "நமக்குத் தெரிந்த மிக மென்மையான பொருள்",
+    "options": [
+      "டால்க்",
+      "சுண்ணாம்பு பவுடர்",
+      "மரத்தூள்",
+      "மண்"
+    ],
+    "correct": 0,
+    "question_en": "The softest material we know",
+    "options_en": [
+      "Talc",
+      "Lime powder",
+      "sawdust",
+      "Soil"
+    ],
+    "explanation": "டால்க்",
+    "explanation_en": "Talc"
+  },
+  {
+    "id": 158,
+    "question": "ஒப்புமை தருக. பாதரசம் :திரவம் ஆக்ஸிஜன் : ?",
+    "options": [
+      "திட",
+      "வாயு",
+      "திரவம்",
+      "கூழ்மம்"
+    ],
+    "correct": 1,
+    "question_en": "Give an analogy. Mercury :Liquid Oxygen : ?",
+    "options_en": [
+      "solid",
+      "gas",
+      "liquid",
+      "Colloidal"
+    ],
+    "explanation": "வாயு",
+    "explanation_en": "gas"
+  },
+  {
+    "id": 159,
+    "question": "ஒப்புமை தருக. மின்சாரத்தைக் கடத்தும் உலோகம் : தாமிரம் :: மின்சாரத்தைக் கடத்தும் அலோகம் : ?",
+    "options": [
+      "கிராஃபைட்",
+      "சல்ஃபர்",
+      "நைட்ரஜன்",
+      "ஹைட்ரஜன்"
+    ],
+    "correct": 0,
+    "question_en": "Give an analogy. Metal that conducts electricity : Copper :: Metal that conducts electricity : ?",
+    "options_en": [
+      "Graphite",
+      "Sulphur",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "explanation": "கிராஃபைட்",
+    "explanation_en": "Graphite"
+  },
+  {
+    "id": 160,
+    "question": "ஒப்புமை தருக. : தனிமங்களின் அடிப்படைத்துகள் : : தனிமம் : சேர்மங்களின் அடிப்படைத் துகள்",
+    "options": [
+      "மூலக்கூறு",
+      "அணு",
+      "சேர்மம்",
+      "கூழ்மம்"
+    ],
+    "correct": 1,
+    "question_en": "Give an analogy. : Basics of Elements : : Element : Basic particle of compounds",
+    "options_en": [
+      "molecule",
+      "Atomic",
+      "compound",
+      "Colloidal"
+    ],
+    "explanation": "அணு",
+    "explanation_en": "Atomic"
+  },
+  {
+    "id": 161,
+    "question": "மூலக்கூறுகளை அவற்றில் அடங்கியுள்ள தனிம அணுக்களின் குறியீடு மற்றும் அவற்றின் எண்ணிக்கையைக் கொண்டு குறிக்கும் முறைக்கு என்று பெயர்.",
+    "options": [
+      "வேதியியல் குறியீடு",
+      "கணிதக் குறியீடு",
+      "வேதியியல் வாய்பாடு",
+      "கணித வாய்பாடு"
+    ],
+    "correct": 2,
+    "question_en": "The system of representing molecules by the number and number of the atoms they contain is called",
+    "options_en": [
+      "Chemical symbol",
+      "Mathematical code",
+      "Chemical chance",
+      "Mathematical Proposition"
+    ],
+    "explanation": "வேதியியல் வாய்பாடு",
+    "explanation_en": "Chemical chance"
+  },
+  {
+    "id": 162,
+    "question": "கரிக்கோலில் (பென்சில்) இருப்பது",
+    "options": [
+      "வைரம்",
+      "கந்தகம்",
+      "கிராஃபைட்",
+      "அலுமினியம்"
+    ],
+    "correct": 2,
+    "question_en": "Being in charcoal (pencil).",
+    "options_en": [
+      "Diamond",
+      "Sulphur",
+      "Graphite",
+      "Aluminum"
+    ],
+    "explanation": "கிராஃபைட்",
+    "explanation_en": "Graphite"
+  },
+  {
+    "id": 163,
+    "question": "பொருத்துக.\na) இரும்பு - i) மின்கம்பிகள்\nb) தாமிரம் - ii) தையல் ஊசி\nc) டங்ஸ்டன் - iii) ராக்கெட் எரிபொருள் பற்றவைப்பானாக\nd) போரான் - iv) மின் இழைகள்",
+    "options": [
+      "a-ii, b-i, c-iv, d-iii",
+      "a-iii, b-i, c-iv, d-ii",
+      "a-i, b-ii, c-iv, d-iii",
+      "a-i, b-ii, c-iv, d-i"
+    ],
+    "correct": 0,
+    "question_en": "match\na) Iron – i) Electric wires\nb) Copper – ii) Sewing needle\nc) Tungsten – iii) As rocket fuel igniter\nd) Boron – iv) Electrical filaments",
+    "options_en": [
+      "a-ii, b-i, c-iv, d-iii",
+      "a-iii, b-i, c-iv, d-ii",
+      "a-i, b-ii, c-iv, d-iii",
+      "a-i, b-ii, c-iv, d-i"
+    ],
+    "explanation": "a-ii, b-i, c-iv, d-iii",
+    "explanation_en": "a-ii, b-i, c-iv, d-iii"
+  },
+  {
+    "id": 164,
+    "question": "பொருத்துக.\na) அணு - i) பருப்பொருள்களின் கட்டுமான அலகு\nb) தனிமம் - ii) பல்வேறு வகை அணுக்கள்\nc) சேர்மம் - iii) ஒரே வகை அணுக்கள்\nd) மூலக்கூறு - iv) பருப்பொருள்களின் மிகச்சிறிய அலகு",
+    "options": [
+      "a-ii, b-i, c-iv, d-iii",
+      "a-iii, b-i, c-iv, d-ii",
+      "a-i, b-iii, c-ii, d-iv",
+      "a-i, b-iii, c-ii, d-iv"
+    ],
+    "correct": 2,
+    "question_en": "match\na) Atom – i) Building unit of matter\nb) Element – ii) Different types of atoms\nc) Compound – iii) Same type of atoms\nd) Molecule – iv) Smallest unit of matter",
+    "options_en": [
+      "a-ii, b-i, c-iv, d-iii",
+      "a-iii, b-i, c-iv, d-ii",
+      "a-i, b-iii, c-ii, d-iv",
+      "a-i, b-iii, c-ii, d-iv"
+    ],
+    "explanation": "a-i, b-iii, c-ii, d-iv",
+    "explanation_en": "a-i, b-iii, c-ii, d-iv"
+  },
+  {
+    "id": 165,
+    "question": "அறுவை சிகிச்சை சாதனங்கள் தயாரிக்கப் பயன்படும் உலோகம்",
+    "options": [
+      "தாமிரம்",
+      "வெண்கலம்",
+      "துருப்பிடிக்காத எஃகு",
+      "டியூராலுமின்"
+    ],
+    "correct": 2,
+    "question_en": "A metal used to make surgical instruments",
+    "options_en": [
+      "Copper",
+      "Bronze",
+      "Stainless steel",
+      "duralumin"
+    ],
+    "explanation": "துருப்பிடிக்காத எஃகு",
+    "explanation_en": "Stainless steel"
+  },
+  {
+    "id": 166,
+    "question": "தனிமத்தின் மிகச்சிறிய துகள்",
+    "options": [
+      "மூலக்கூறு",
+      "அணு",
+      "அயனி",
+      "சேர்மம்"
+    ],
+    "correct": 1,
+    "question_en": "The smallest particle of an element",
+    "options_en": [
+      "molecule",
+      "Atomic",
+      "ion",
+      "compound"
+    ],
+    "explanation": "அணு",
+    "explanation_en": "Atomic"
+  },
+  {
+    "id": 167,
+    "question": "புவியில் அதிக அளவில் உள்ள தனிமம்",
+    "options": [
+      "அலுமினியம்",
+      "சிலிக்கான்",
+      "இரும்பு",
+      "ஆக்சிஜன்"
+    ],
+    "correct": 3,
+    "question_en": "Earth's most abundant element",
+    "options_en": [
+      "Aluminum",
+      "Silicon",
+      "Iron",
+      "Oxygen"
+    ],
+    "explanation": "ஆக்சிஜன்",
+    "explanation_en": "Oxygen"
+  },
+  {
+    "id": 168,
+    "question": "நீச்சல் குளத்தை சுத்தமாக வைத்திருக்க பயன்படும் வாயு",
+    "options": [
+      "ஹைட்ரஜன்",
+      "குளோரின்",
+      "ஆக்ஸிஜன்",
+      "நைட்ரஜன்"
+    ],
+    "correct": 1,
+    "question_en": "Gas used to keep swimming pool clean",
+    "options_en": [
+      "Hydrogen",
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "explanation": "குளோரின்",
+    "explanation_en": "Chlorine"
+  },
+  {
+    "id": 169,
+    "question": "ஆர்சனிக் என்ற தனிமத்தின் குறியீடு",
+    "options": [
+      "Al",
+      "As",
+      "Ar",
+      "A"
+    ],
+    "correct": 1,
+    "question_en": "Symbol of the element Arsenic",
+    "options_en": [
+      "Al",
+      "As",
+      "Ar",
+      "A"
+    ],
+    "explanation": "As",
+    "explanation_en": "As"
+  },
+  {
+    "id": 170,
+    "question": "ஓர் ஓசோன் மூலக்கூறில் இருப்பது",
+    "options": [
+      "ஒரு ஆக்சிஜன் அணு",
+      "இரண்டு ஆக்சிஜன் அணுக்கள்",
+      "மூன்று ஆக்சிஜன் அணுக்கள்",
+      "நான்கு ஆக்சிஜன் அணுக்கள்"
+    ],
+    "correct": 2,
+    "question_en": "The presence of an ozone molecule",
+    "options_en": [
+      "An oxygen atom",
+      "Two oxygen atoms",
+      "Three oxygen atoms",
+      "Four oxygen atoms"
+    ],
+    "explanation": "மூன்று ஆக்சிஜன் அணுக்கள்",
+    "explanation_en": "Three oxygen atoms"
+  },
+  {
+    "id": 171,
+    "question": "சுட்ட சுண்ணாம்பு என்பது",
+    "options": [
+      "கால்சியம் ஆக்ஸி குளோரைடு",
+      "கால்சியம் ஹைட்ராக்சைடு",
+      "கால்சியம் கார்பனேட்",
+      "கால்சியம் ஆக்சைடு"
+    ],
+    "correct": 3,
+    "question_en": "Burnt lime is",
+    "options_en": [
+      "Calcium oxychloride",
+      "Calcium hydroxide",
+      "Calcium carbonate",
+      "Calcium oxide"
+    ],
+    "explanation": "கால்சியம் ஆக்சைடு",
+    "explanation_en": "Calcium oxide"
+  },
+  {
+    "id": 172,
+    "question": "சோடியம் கார்பனேட் என்பதன் பொதுப்பெயர்",
+    "options": [
+      "ரொட்டிச் சோடா",
+      "பேக்கிங் பவுடர்",
+      "சலவை சோடா",
+      "சலவைத்தூள்"
+    ],
+    "correct": 2,
+    "question_en": "Generic name for sodium carbonate",
+    "options_en": [
+      "Baking soda",
+      "Baking powder",
+      "Washing soda",
+      "Washing powder"
+    ],
+    "explanation": "சலவை சோடா",
+    "explanation_en": "Washing soda"
+  },
+  {
+    "id": 173,
+    "question": "சரியான பொருத்தம் தனிமத்தின் பெயர் குறியீடு\n(i) தங்கம் (A) W\n(ii) வெள்ளி (B) Hg\n(iii) டங்ஸ்டன் (C) Ag\n(iv) மெர்குரி (D) Au",
+    "options": [
+      "(i)-C, (ii)-A, (iii)-B, (iv)-D",
+      "(i)-B, (ii)-C, (iii)-A, (iv)-D",
+      "(i)-D, (ii)-C, (iii)-A, (iv)-B",
+      "(i)-D, (ii)-C, (iii)-B, (iv)-A"
+    ],
+    "correct": 2,
+    "question_en": "An exact match is the name code of the element\n(i) Gold (A) W\n(ii) Silver (B) Hg\n(iii) Tungsten (C) Ag\n(iv) Mercury (D) Au",
+    "options_en": [
+      "(i)-C, (ii)-A, (iii)-B, (iv)-D",
+      "(i)-B, (ii)-C, (iii)-A, (iv)-D",
+      "(i)-D, (ii)-C, (iii)-A, (iv)-B",
+      "(i)-D, (ii)-C, (iii)-B, (iv)-A"
+    ],
+    "explanation": "(i)-D, (ii)-C, (iii)-A, (iv)-B",
+    "explanation_en": "(i)-D, (ii)-C, (iii)-A, (iv)-B"
+  },
+  {
+    "id": 174,
+    "question": "இல் மூலக்கூறுகளுக்கு இடையே உள்ள இடைவெளி குறைவு",
+    "options": [
+      "திண்மம்",
+      "நீர்மம்",
+      "வாயு",
+      "கூழ்மம்"
+    ],
+    "correct": 0,
+    "question_en": "The distance between the molecules in",
+    "options_en": [
+      "Solidity",
+      "liquid",
+      "gas",
+      "Colloidal"
+    ],
+    "explanation": "திண்மம்",
+    "explanation_en": "Solidity"
+  },
+  {
+    "id": 175,
+    "question": "தாவரங்கள் மற்றும் விலங்குகள் சில தனிமங்களால் உருவானவை. தனிமங்களுடன் அதன் சதவீதத்தைப் பொருத்துக.\n(a) ஆக்சிஜன் (i) 18%\n(b) கார்பன் (ii) 10%\n(c) நைட்ரஜன் (iii) 65%\n(d) ஹைட்ரஜன் (iv) 3%",
+    "options": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    ],
+    "correct": 0,
+    "question_en": "Plants and animals are made of certain elements. Match its percentage with elements.\n(a) Oxygen (i) 18%\n(b) Carbon (ii) 10%\n(c) Nitrogen (iii) 65%\n(d) Hydrogen (iv) 3%",
+    "options_en": [
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    ],
+    "explanation": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+    "explanation_en": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+  },
+  {
+    "id": 176,
+    "question": "புவியில் ஆக்ஸிஜனுக்கு அடுத்து அதிக அளவில் உள்ள தனிமம் எது?",
+    "options": [
+      "ஹைட்ரஜன்",
+      "சிலிக்கான்",
+      "கார்பன்",
+      "நைட்ரஜன்"
+    ],
+    "correct": 1,
+    "question_en": "Which is the most abundant element on earth after oxygen?",
+    "options_en": [
+      "Hydrogen",
+      "Silicon",
+      "Carbon",
+      "Nitrogen"
+    ],
+    "explanation": "புவியில் ஆக்ஸிஜனுக்கு அடுத்து அதிக அளவில் உள்ள தனிமம் சிலிக்கான் ஆகும்.",
+    "explanation_en": "Silicon is the most abundant element on earth after oxygen."
+  },
+  {
+    "id": 177,
+    "question": "ஆல் கெமிஸ்டின் காலத்தில் நீரினை குறிக்கும் குறியீடு எது?",
+    "options": [
+      "நேர் முக்கோணம்",
+      "இரட்டை வட்டம்",
+      "வட்டம் புள்ளி",
+      "தலைகீழ் முக்கோணம்"
+    ],
+    "correct": 3,
+    "question_en": "What was the symbol for water in Alchemist's time?",
+    "options_en": [
+      "A right triangle",
+      "Double circle",
+      "The circle is the point",
+      "Inverted triangle"
+    ],
+    "explanation": "ஆல் கெமிஸ்டின் காலத்தில் நீரினை குறிக்கும் குறியீடு தலைகீழ் முக்கோணம் ஆகும்.",
+    "explanation_en": "Inverted triangle"
+  },
+  {
+    "id": 178,
+    "question": "பற்களை வலிமையாக வைத்திருக்கப் பற்பசையில் பயன்படுத்தப்படும் வாயு",
+    "options": [
+      "ஆர்கான்",
+      "நியான்",
+      "ஃபுளூரின்",
+      "பாஸ்பரஸ்"
+    ],
+    "correct": 2,
+    "question_en": "A gas used in toothpaste to keep teeth strong",
+    "options_en": [
+      "Argon",
+      "Neon",
+      "Fluorine",
+      "Phosphorus"
+    ],
+    "explanation": "ஃபுளூரின்",
+    "explanation_en": "Fluorine"
+  },
+  {
+    "id": 179,
+    "question": "கூற்று (A): திண்மங்கள் நீரில் கரைகின்றன. காரணம் (R): பருப்பொருளில் உள்ள மூலக்கூறுகளுக்கு இடையே இடைவெளி உள்ளது.",
+    "options": [
+      "(A) சரி (R) தவறு",
+      "(A) தவறு (R) சரி",
+      "(A) மற்றும் (R) தவறு",
+      "(A) சரி, (R) - (A)-யை விளக்குகிறது"
+    ],
+    "correct": 3,
+    "question_en": "Statement (A): Solids dissolve in water. Reason (R): Space exists between molecules in matter.",
+    "options_en": [
+      "(A) True (R) False",
+      "(A) False (R) Correct",
+      "(A) and (R) are wrong",
+      "(A) is correct, (R) - explains (A)."
+    ],
+    "explanation": "(A) சரி, (R) - (A)-யை விளக்குகிறது",
+    "explanation_en": "(A) is correct, (R) - explains (A)."
+  },
+  {
+    "id": 180,
+    "question": "மின் சூடேற்றியில் பயன்படும் கம்பிச்சுருள் ஆல் ஆனது .",
+    "options": [
+      "டங்ஸ்டன்",
+      "காப்பர்",
+      "நிக்ரோம்",
+      "அலுமினியம்"
+    ],
+    "correct": 2,
+    "question_en": "A coil of wire used in electric heaters is made of .",
+    "options_en": [
+      "Tungsten",
+      "Copper",
+      "Nichrome",
+      "Aluminum"
+    ],
+    "explanation": "நிக்ரோம்",
+    "explanation_en": "Nichrome"
+  },
+  {
+    "id": 181,
+    "question": "மாறும்போது பருப்பொருள் ஒரு நிலையிலிருந்து மற்றொரு நிலைக்கு மாற்றம் அடையும்.",
+    "options": [
+      "அழுத்தம்",
+      "பருமன்",
+      "வெப்பநிலை",
+      "அடர்த்தி"
+    ],
+    "correct": 2,
+    "question_en": "In transition matter changes from one state to another.",
+    "options_en": [
+      "Pressure",
+      "Obese",
+      "temperature",
+      "density"
+    ],
+    "explanation": "வெப்பநிலை",
+    "explanation_en": "temperature"
+  },
+  {
+    "id": 182,
+    "question": "உலோகப் பண்புகளையும், அலோகப் பண்புகளையும் பெற்றுள்ள தனிமங்கள் அழைக்கப்படுகின்றன",
+    "options": [
+      "உலோகக் கலவை",
+      "உலோகப் போலிகள்",
+      "சேர்மங்கள்",
+      "உலோகவியல்"
+    ],
+    "correct": 1,
+    "question_en": "Elements that possess metallic properties are called nonmetals",
+    "options_en": [
+      "Metal alloy",
+      "Metal forgings",
+      "Compounds",
+      "Metallurgy"
+    ],
+    "explanation": "உலோகப் போலிகள்",
+    "explanation_en": "Metal forgings"
+  },
+  {
+    "id": 183,
+    "question": "பாய்மம் எனப்படுவது",
+    "options": [
+      "வாயுக்கள் மற்றும் திண்மங்கள்",
+      "நீர்மங்கள் மற்றும் திண்மங்கள்",
+      "வாயுக்கள் மற்றும் நீர்மங்கள்",
+      "வாயுக்கள், திண்மங்கள் மற்றும் நீர்மங்கள்"
+    ],
+    "correct": 2,
+    "question_en": "It is called flow",
+    "options_en": [
+      "Gases and solids",
+      "Liquids and solids",
+      "Gases and liquids",
+      "Gases, Solids and Liquids"
+    ],
+    "explanation": "வாயுக்கள் மற்றும் நீர்மங்கள்",
+    "explanation_en": "Gases and liquids"
+  },
+  {
+    "id": 184,
+    "question": "பொருத்துக\n(1) ஓரணு மூலக்கூறு i. சல்பர்\n(2) ஈரணு மூலக்கூறு ii. மந்தவாயுக்கள்\n(3) மூவணு மூலக்கூறு iii. ஆக்ஸிஜன்\n(4) பல் அணு மூலக்கூறு iv. ஓசோன்",
+    "options": [
+      "1-ii, 2-iii, 3-iv, 4-i",
+      "1-iii, 2-ii, 3-iv, 4-i",
+      "1-i, 2-ii, 3-iv, 4-iii",
+      "1-iv, 2-ii, 3-i, 4-iii"
+    ],
+    "correct": 0,
+    "question_en": "match\n(1) A single molecule i. Sulphur\n(2) Nuclear molecule ii. Inert gases\n(3) Ternary molecule iii. Oxygen\n(4) Dentonuclear molecule iv. Ozone",
+    "options_en": [
+      "1-ii, 2-iii, 3-iv, 4-i",
+      "1-iii, 2-ii, 3-iv, 4-i",
+      "1-i, 2-ii, 3-iv, 4-iii",
+      "1-iv, 2-ii, 3-i, 4-iii"
+    ],
+    "explanation": "1-ii, 2-iii, 3-iv, 4-i",
+    "explanation_en": "1-ii, 2-iii, 3-iv, 4-i"
+  },
+  {
+    "id": 185,
+    "question": "X - கதிர் இயந்திரங்களில் பயன்படுத்தப்படும் உலோகம்",
+    "options": [
+      "தாமிரம்",
+      "வெள்ளி",
+      "காரீயம்",
+      "அலுமினியம்"
+    ],
+    "correct": 2,
+    "question_en": "Metal used in X-ray machines",
+    "options_en": [
+      "Copper",
+      "Friday",
+      "Business",
+      "Aluminum"
+    ],
+    "explanation": "காரீயம்",
+    "explanation_en": "Business"
+  }
+]

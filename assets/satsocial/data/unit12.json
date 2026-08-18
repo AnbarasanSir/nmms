@@ -1,0 +1,2562 @@
+[
+  {
+    "id": 1,
+    "question": "இந்தியாவில் முகலாயப் பேரரசை நிறுவியவர் யார்?",
+    "options": [
+      "பாபர்",
+      "ஹுமாயூன்",
+      "அக்பர்",
+      "ஷெர்ஷா"
+    ],
+    "correct": 0,
+    "question_en": "Who founded the Mughal Empire in India?",
+    "options_en": [
+      "Babar",
+      "Humayun",
+      "Akbar",
+      "Shersha"
+    ],
+    "explanation": "இந்தியாவில் முகலாயப் பேரரசை நிறுவியவர் பாபர்.",
+    "explanation_en": "Babar"
+  },
+  {
+    "id": 2,
+    "question": "முதல் பானிப்பட் போரில் லோடி வம்ச கடைசி மன்னர் காபூல் மன்னன் போரிட்டனர்.",
+    "options": [
+      "இப்ராஹிம் லோடி, ஷெர்ஷா",
+      "திலாவார்கான் லோடி, பாபர்",
+      "இப்ராஹிம் லோடி, பாபர்",
+      "திலாவார்கான் லோடி, ஹுமாயூன்"
+    ],
+    "correct": 2,
+    "question_en": "King Kabul, the last king of the Lodi dynasty, fought in the First Battle of Panipat.",
+    "options_en": [
+      "Ibrahim Lodi, Shersha",
+      "Dilawargaon Lodi, Babar",
+      "Ibrahim Lodi, Babur",
+      "Dilawargaon Lodi, Humayun"
+    ],
+    "explanation": "இப்ராஹிம் லோடி, பாபர்",
+    "explanation_en": "Ibrahim Lodi, Babur"
+  },
+  {
+    "id": 3,
+    "question": "முதல் பானிப்பட் போர் நடைபெற்ற ஆண்டு",
+    "options": [
+      "1524",
+      "1526",
+      "1528",
+      "1556"
+    ],
+    "correct": 1,
+    "question_en": "Year of First Battle of Panipat",
+    "options_en": [
+      "1524",
+      "1526",
+      "1528",
+      "1556"
+    ],
+    "explanation": "1526",
+    "explanation_en": "1526"
+  },
+  {
+    "id": 4,
+    "question": "இரண்டாம் பானிப்பட் போர் நடைபெற்ற ஆண்டு",
+    "options": [
+      "1526",
+      "1528",
+      "1556",
+      "1558"
+    ],
+    "correct": 2,
+    "question_en": "Year of Second Battle of Panipat",
+    "options_en": [
+      "1526",
+      "1528",
+      "1556",
+      "1558"
+    ],
+    "explanation": "1556",
+    "explanation_en": "1556"
+  },
+  {
+    "id": 5,
+    "question": "பாபரின் மூத்த மகன்",
+    "options": [
+      "ஹுமாயூன்",
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்"
+    ],
+    "correct": 0,
+    "question_en": "Babur's eldest son",
+    "options_en": [
+      "Humayun",
+      "Akbar",
+      "Jahangir",
+      "Shahjahan"
+    ],
+    "explanation": "ஹுமாயூன்",
+    "explanation_en": "Humayun"
+  },
+  {
+    "id": 6,
+    "question": "கூற்று: ஹுமாயூன் 1555 இல் மீண்டும் டெல்லியைக் கைப்பற்றினார்.\nகாரணம்: பாரசீக அரசர், சபாவிட் வம்ச ஷா-தாமஸ்ப் உதவியதால் ஹுமாயூன் டெல்லியைக் கைப்பற்றினார்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு.",
+      "கூற்று தவறு, காரணம் சரி.",
+      "கூற்றும் காரணமும் சரி, கூற்று காரணத்தை விளக்குகிறது.",
+      "கூற்றும் காரணமும் சரி, கூற்று காரணத்தை விளக்கவில்லை."
+    ],
+    "correct": 2,
+    "question_en": "Claim: Humayun recaptured Delhi in 1555.\nReason: Humayun captured Delhi with the help of Persian king, Shah-Thomas of the Sabavid dynasty.",
+    "options_en": [
+      "The statement is right, the reason is wrong.",
+      "The statement is wrong, the reason is right.",
+      "The statement and the reason are correct, the statement explains the reason.",
+      "Both the statement and the reason are correct, the statement does not explain the reason."
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி, கூற்று காரணத்தை விளக்குகிறது.",
+    "explanation_en": "The statement and the reason are correct, the statement explains the reason."
+  },
+  {
+    "id": 7,
+    "question": "நில வருவாய் முறையையும், நாணயங்களையும் அறிமுகம் செய்தார்.",
+    "options": [
+      "ஷெர்ஷா",
+      "அக்பர்",
+      "பாபர்",
+      "ஷாஜகான்"
+    ],
+    "correct": 0,
+    "question_en": "He introduced the land revenue system and coins.",
+    "options_en": [
+      "Shersha",
+      "Akbar",
+      "Babar",
+      "Shahjahan"
+    ],
+    "explanation": "ஷெர்ஷா",
+    "explanation_en": "Shersha"
+  },
+  {
+    "id": 8,
+    "question": "அக்பர் தனது ஆம் வயதில் அரசரானார்.",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 3,
+    "question_en": "Akbar became king at his age.",
+    "options_en": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "explanation": "14",
+    "explanation_en": "14"
+  },
+  {
+    "id": 9,
+    "question": "அக்பரின் பகர ஆளுநர்",
+    "options": [
+      "ஜஹாங்கீர்",
+      "ஷெர்ஷா",
+      "ஹுமாயூன்",
+      "பைராம்கான்"
+    ],
+    "correct": 3,
+    "question_en": "Akbar's governor of Bagara",
+    "options_en": [
+      "Jahangir",
+      "Shersha",
+      "Humayun",
+      "Byramcon"
+    ],
+    "explanation": "பைராம்கான்",
+    "explanation_en": "Byramcon"
+  },
+  {
+    "id": 10,
+    "question": "அக்பருடன் ஹால்டிகாட் போரில் போரிட்டவர்",
+    "options": [
+      "ராணா உதய்சிங்",
+      "ராணா பிரதாப்",
+      "",
+      "பைராம்கான்"
+    ],
+    "correct": 0,
+    "question_en": "Fought with Akbar in the Battle of Haldicott",
+    "options_en": [
+      "Rana Uday Singh",
+      "Rana Pratap",
+      "",
+      "Byramcon"
+    ],
+    "explanation": "ராணா உதய்சிங்",
+    "explanation_en": "Rana Uday Singh"
+  },
+  {
+    "id": 11,
+    "question": "இந்துக்களின் மீதான புனிதப் பயண வரியையும், முஸ்லீம் அல்லாதோர் மீதான ஜிஸியா வரியையும் நீக்கியவர்",
+    "options": [
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 0,
+    "question_en": "He abolished the pilgrimage tax on Hindus and the jizya tax on non-Muslims",
+    "options_en": [
+      "Akbar",
+      "Jahangir",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "explanation": "அக்பர்",
+    "explanation_en": "Akbar"
+  },
+  {
+    "id": 12,
+    "question": "ஜிஸியா வரியையும், புனிதப்பயண வரியையும் மீண்டும் விதித்தவர்",
+    "options": [
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 3,
+    "question_en": "He reintroduced the Jizya tax and the pilgrimage tax",
+    "options_en": [
+      "Akbar",
+      "Jahangir",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "explanation": "ஔரங்கசீப்",
+    "explanation_en": "Aurangzeb"
+  },
+  {
+    "id": 13,
+    "question": "சூபி துறவியான சலீம் சிஸ்டியும், சீக்கிய குருவான ராம்தாசும் ன் அளவில்லா மதிப்பையும், மரியாதையையும் பெற்றிருந்தனர்.",
+    "options": [
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 0,
+    "question_en": "Sufi saint Salim Chisti and Sikh Guru Ramdas had immense esteem and respect.",
+    "options_en": [
+      "Akbar",
+      "Jahangir",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "explanation": "அக்பர்",
+    "explanation_en": "Akbar"
+  },
+  {
+    "id": 14,
+    "question": "சரியான வரிசைப்படி உள்ளனவற்றை கண்டுபிடி",
+    "options": [
+      "பாபர், அக்பர், ஷாஜகான், ஜஹாங்கீர், ஹுமாயூன்",
+      "பாபர், அக்பர், ஹுமாயூன், ஜஹாங்கீர், ஷாஜகான்,",
+      "பாபர், ஹுமாயூன், அக்பர், ஜஹாங்கீர், ஷாஜகான்,",
+      "பாபர், ஹுமாயூன், அக்பர், ஷாஜகான், ஜஹாங்கீர்"
+    ],
+    "correct": 2,
+    "question_en": "Find the ones in the correct order",
+    "options_en": [
+      "Babur, Akbar, Shah Jahan, Jahangir, Humayun",
+      "Babur, Akbar, Humayun, Jahangir, Shah Jahan,",
+      "Babur, Humayun, Akbar, Jahangir, Shahjahan,",
+      "Babur, Humayun, Akbar, Shahjahan, Jahangir"
+    ],
+    "explanation": "பாபர், ஹுமாயூன், அக்பர், ஜஹாங்கீர், ஷாஜகான்,",
+    "explanation_en": "Babur, Humayun, Akbar, Jahangir, Shahjahan,"
+  },
+  {
+    "id": 15,
+    "question": "சரியான இணையைக் கண்டுபிடி.",
+    "options": [
+      "பாபர் - இரண்டாம் பானிப்பட் போர்",
+      "அக்பர் - தீன் இலாஹி",
+      "ஹுமாயூன் - நாணயங்கள் அறிமுகம்",
+      "ஷெர்ஷா - தாஜ்மஹால்"
+    ],
+    "correct": 1,
+    "question_en": "Find the perfect match.",
+    "options_en": [
+      "Babur - Second Battle of Panipat",
+      "Akbar - Deen Elahi",
+      "Humayun - Introduction to Coins",
+      "Shersha - Taj Mahal"
+    ],
+    "explanation": "அக்பர் - தீன் இலாஹி",
+    "explanation_en": "Akbar - Deen Elahi"
+  },
+  {
+    "id": 16,
+    "question": "பதேப்பூர் சிக்ரியில் அக்பரால் கட்டப்பெற்ற என்னும் மண்டபத்தில் அனைத்து மதங்களின் அறிஞர்களும் ஒன்று கூடி உரையாடினர்.",
+    "options": [
+      "இபாதத்கானா",
+      "ஜும்மா மசூதி",
+      "செங்கோட்டை",
+      "புராணகிலா"
+    ],
+    "correct": 0,
+    "question_en": "Scholars of all religions gathered together and conversed in the hall built by Akbar at Badepur Sikri.",
+    "options_en": [
+      "Ibadatkhana",
+      "Jumma Masjid",
+      "red fort",
+      "Puranakila"
+    ],
+    "explanation": "இபாதத்கானா",
+    "explanation_en": "Ibadatkhana"
+  },
+  {
+    "id": 17,
+    "question": "அக்பரின் அவையில் இடம் பெற்றிருந்த பாடலாசிரியரும், இசை மேதையுமானவர்",
+    "options": [
+      "பீர்பால்",
+      "அபுல் பாசல்",
+      "அபுல் பைசி",
+      "தான்சேன்"
+    ],
+    "correct": 3,
+    "question_en": "He was a lyricist and musical genius who was in Akbar's court",
+    "options_en": [
+      "Birbal",
+      "Abul Basal",
+      "Abul Baisi",
+      "Tansen"
+    ],
+    "explanation": "தான்சேன்",
+    "explanation_en": "Tansen"
+  },
+  {
+    "id": 18,
+    "question": "சரியானவற்றை கண்டுபிடி:\ni. அக்பர் அவையில் கதையாசிரியராக பீர்பால் இருந்தார்.\nii. அக்பர் சீக்கிய மதத் தலைவர் குரு அர்ஜுன் சிங்கை தூக்கிலிடும்படி உத்தரவிட்டார்.\niii. அக்பரின் ஆட்சியில் ராஜா தோடர்மால், ராஜா மான்சிங், ராஜா பகவன் தாஸ் போன்ற திறமையான அதிகாரிகள் இருந்தனர்.\niv. அக்பர் மத்திய இந்தியப் பகுதி ராணி துர்காவதியையும், அகமது நகர் சந்த் பீவீயையும் தோற்கடித்தார்.",
+    "options": [
+      "i, ii, iii, iv சரி",
+      "i, ii, iv சரி",
+      "i, iii, iv சரி",
+      "ii, iii, iv சரி"
+    ],
+    "correct": 2,
+    "question_en": "Find the right ones:\ni. Birbal was the storyteller in Akbar's court.\nii. Akbar ordered the execution of Sikh leader Guru Arjun Singh.\niii. In Akbar's reign there were able officers like Raja Todarmal, Raja Mansingh, Raja Bhagwan Das.\niv. Akbar defeated the central Indian queen Durgavati and Ahmed Nagar Chand Bhiwi.",
+    "options_en": [
+      "i, ii, iii, iv are correct",
+      "i, ii, iv are correct",
+      "i, iii, iv OK",
+      "ii, iii, iv OK"
+    ],
+    "explanation": "i, iii, iv சரி",
+    "explanation_en": "i, iii, iv OK"
+  },
+  {
+    "id": 19,
+    "question": "அக்பரின் ராஜபுத்திர மனைவிக்கு பிறந்த ஜஹாங்கீரின் இயற்பெயர்",
+    "options": [
+      "குர்ரம்",
+      "ஜாகிருதீன்",
+      "சலீம் நூருதீன்",
+      "ஆலம் கீர்"
+    ],
+    "correct": 2,
+    "question_en": "Birth name of Jahangir, born to Akbar's Rajput wife",
+    "options_en": [
+      "Kurram",
+      "Jagirudin",
+      "Salim Nooruddin",
+      "Alam Keer"
+    ],
+    "explanation": "சலீம் நூருதீன்",
+    "explanation_en": "Salim Nooruddin"
+  },
+  {
+    "id": 20,
+    "question": "ஜஹாங்கீர் என்றால் என்று பொருள்.",
+    "options": [
+      "உலகத்தைக் கைப்பற்றியவர்",
+      "உலகை வென்றவர்",
+      "உலகின் அரசன்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Jahangir means.",
+    "options_en": [
+      "Conqueror of the world",
+      "Conqueror of the world",
+      "King of the world",
+      "Nothing"
+    ],
+    "explanation": "உலகத்தைக் கைப்பற்றியவர்",
+    "explanation_en": "Conqueror of the world"
+  },
+  {
+    "id": 21,
+    "question": "ஷாஜகான் என்ற பெயரின் பொருள்",
+    "options": [
+      "உலகத்தைக் கைப்பற்றியவர்",
+      "உலகை வென்றவர்",
+      "உலகின் அரசன்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 2,
+    "question_en": "Shahjahan name meaning",
+    "options_en": [
+      "Conqueror of the world",
+      "Conqueror of the world",
+      "King of the world",
+      "Nothing"
+    ],
+    "explanation": "உலகின் அரசன்",
+    "explanation_en": "King of the world"
+  },
+  {
+    "id": 22,
+    "question": "ஆலம்கீர் என்ற பட்டப்பெயரின் பொருள்",
+    "options": [
+      "உலகத்தைக் கைப்பற்றியவர்",
+      "உலகை வென்றவர்",
+      "உலகின் அரசன்",
+      "எதுவுமில்லை"
+    ],
+    "correct": 0,
+    "question_en": "Meaning of the title Alamgir",
+    "options_en": [
+      "Conqueror of the world",
+      "Conqueror of the world",
+      "King of the world",
+      "Nothing"
+    ],
+    "explanation": "உலகத்தைக் கைப்பற்றியவர்",
+    "explanation_en": "Conqueror of the world"
+  },
+  {
+    "id": 23,
+    "question": "தமக்கு எதிராக கலகம் செய்த தனது மகன் குஸ்ருவுக்கு ஆதரவாக செயல்பட்ட சீக்கியத் தலைவர் குருஅர்ஜுன் சிங்கை தூக்கிலிடும்படி உத்திரவிட்டவர்",
+    "options": [
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 1,
+    "question_en": "He ordered the execution of Guru Arjun Singh, a Sikh leader who had supported his son Khusru who had rebelled against him.",
+    "options_en": [
+      "Akbar",
+      "Jahangir",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "explanation": "ஜஹாங்கீர்",
+    "explanation_en": "Jahangir"
+  },
+  {
+    "id": 24,
+    "question": "ஜஹாங்கீர் ஆட்சிக்காலத்தில் நாட்டின் அரசர் முதலாம் ஜேம்ஸின் பிரதிநிதி டெல்லிக்கு வருகை புரிந்தார்.",
+    "options": [
+      "அமெரிக்கா",
+      "பிரான்ஸ்",
+      "டென்மார்க்",
+      "இங்கிலாந்து"
+    ],
+    "correct": 3,
+    "question_en": "During the reign of Jahangir, a representative of James I, the king of the country, visited Delhi.",
+    "options_en": [
+      "America",
+      "France",
+      "Denmark",
+      "England"
+    ],
+    "explanation": "இங்கிலாந்து",
+    "explanation_en": "England"
+  },
+  {
+    "id": 25,
+    "question": "ஆங்கிலேயரின் முதல் வணிக மையம் நிறுவப்பட்ட இடம்",
+    "options": [
+      "டெல்லி",
+      "கொச்சின்",
+      "சூரத்",
+      "மசூலிப்பட்டிணம்"
+    ],
+    "correct": 2,
+    "question_en": "The place where the first trading center of English was established",
+    "options_en": [
+      "Delhi",
+      "Cochin",
+      "Surat",
+      "Masulipattinam"
+    ],
+    "explanation": "சூரத்",
+    "explanation_en": "Surat"
+  },
+  {
+    "id": 26,
+    "question": "ஷாஜகானின் இயற்பெயர்",
+    "options": [
+      "குர்ரம்",
+      "ஜாகிருதீன்",
+      "சலீம் நூருதீன்",
+      "ஆலம்கீர்"
+    ],
+    "correct": 0,
+    "question_en": "Birth name of Shahjahan",
+    "options_en": [
+      "Kurram",
+      "Jagirudin",
+      "Salim Nooruddin",
+      "Alamgir"
+    ],
+    "explanation": "குர்ரம்",
+    "explanation_en": "Kurram"
+  },
+  {
+    "id": 27,
+    "question": "ஆட்சிக் காலத்தில் முகலாயர்களின் புகழ் உச்சத்தை எட்டியது.",
+    "options": [
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 2,
+    "question_en": "The popularity of the Mughals reached its peak during the reign.",
+    "options_en": [
+      "Akbar",
+      "Jahangir",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "explanation": "ஷாஜகான்",
+    "explanation_en": "Shahjahan"
+  },
+  {
+    "id": 28,
+    "question": "முகலாய மாமன்னர்களில் கடைசி திறமையான அரசர்",
+    "options": [
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 3,
+    "question_en": "The last able Mughal emperor",
+    "options_en": [
+      "Akbar",
+      "Jahangir",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "explanation": "ஔரங்கசீப்",
+    "explanation_en": "Aurangzeb"
+  },
+  {
+    "id": 29,
+    "question": "சரியான இணையைக் கண்டறி.",
+    "options": [
+      "ஷெர்ஷா - புராணகிலா",
+      "அக்பர் - செங்கோட்டை",
+      "ஜஹாங்கீர் - தாஜ்மஹால்",
+      "ஷாஜகான் - இபாதத்கானா"
+    ],
+    "correct": 0,
+    "question_en": "Find the correct counterpart.",
+    "options_en": [
+      "Shersha - Puranakila",
+      "Akbar - Red Fort",
+      "Jahangir - Taj Mahal",
+      "Shahjahan - Ibadatkhana"
+    ],
+    "explanation": "ஷெர்ஷா - புராணகிலா",
+    "explanation_en": "Shersha - Puranakila"
+  },
+  {
+    "id": 30,
+    "question": "பொருந்தாததைக் கண்டறி",
+    "options": [
+      "பாபர்",
+      "ஹுமாயூன்",
+      "ஷெர்ஷா",
+      "அக்பர்"
+    ],
+    "correct": 2,
+    "question_en": "Find a mismatch",
+    "options_en": [
+      "Babar",
+      "Humayun",
+      "Shersha",
+      "Akbar"
+    ],
+    "explanation": "ஷெர்ஷா",
+    "explanation_en": "Shersha"
+  },
+  {
+    "id": 31,
+    "question": "சரியான கூற்றுகளைக் காண்க.\ni. ஷாஜகான் தம் வாழ்நாளின் இறுதி எட்டு ஆண்டுகளை ஒரு கைதியாக கழித்தார்.\nii. ஷாஜகான் சமய சகிப்புத்தன்மையற்றவராக விளங்கினார்.\niii. ஷாஜகான் ஜிஸியா வரியை மீண்டும் விதித்தார்.\niv. ஷாஜகானின் இயற்பெயர் குர்ரம்.",
+    "options": [
+      "i, ii, iii, iv சரி",
+      "i, ii, iii சரி",
+      "i, ii, iv சரி",
+      "ii, iii, iv சரி"
+    ],
+    "correct": 2,
+    "question_en": "Find the correct statements.\ni. Shah Jahan spent the last eight years of his life as a prisoner.\nii. Shah Jahan was known to be religiously intolerant.\niii. Shah Jahan re-imposed the jizya tax.\niv. Shahjahan's original name was Khurram.",
+    "options_en": [
+      "i, ii, iii, iv are correct",
+      "i, ii, iii are correct",
+      "i, ii, iv are correct",
+      "ii, iii, iv OK"
+    ],
+    "explanation": "i, ii, iv சரி",
+    "explanation_en": "i, ii, iv are correct"
+  },
+  {
+    "id": 32,
+    "question": "கூற்று: முஸ்லீம் மதத்தைத் தவிர ஏனைய மதங்களை ஔரங்கசீப் சகித்துக் கொள்ளவில்லை.\nகாரணம்: ஒளரங்கசீப் இந்துக்களின் மீது மீண்டும் ஜிஸியா வரியை விதித்தார்.",
+    "options": [
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்றும் காரணமும் சரி",
+      "கூற்றும் காரணமும் சரி, கூற்று காரணத்தை விளக்கவில்லை",
+      "கூற்றும் காரணமும் சரி, கூற்றிற்கான சரியான விளக்கம்"
+    ],
+    "correct": 2,
+    "question_en": "Assertion: Aurangzeb did not tolerate religions other than Islam.\nReason: Aurangzeb re-imposed Jizya tax on Hindus.",
+    "options_en": [
+      "The statement is right, the reason is wrong",
+      "The statement and reason are correct",
+      "Both the statement and the reason are correct, the statement does not explain the reason",
+      "The statement and reason are correct and the explanation is correct for the statement"
+    ],
+    "explanation": "கூற்றும் காரணமும் சரி, கூற்று காரணத்தை விளக்கவில்லை",
+    "explanation_en": "Both the statement and the reason are correct, the statement does not explain the reason"
+  },
+  {
+    "id": 33,
+    "question": "தவறான இணையைக் கண்டறி.\nதந்தை மகன்\n(1) பாபர் - ஹுமாயூன்\n(2) அக்பர் - ஜஹாங்கீர்\n(3) ஷாஜகான் - ஜஹாங்கீர்\n(4) ஷாஜகான் - ஔரங்கசீப்",
+    "options": [
+      "பாபர் - ஹுமாயூன்",
+      "அக்பர் - ஜஹாங்கீர்",
+      "ஷாஜகான் - ஜஹாங்கீர்",
+      "ஷாஜகான் - ஔரங்கசீப்"
+    ],
+    "correct": 2,
+    "question_en": "Find the wrong parallel.\nfather son\n(1) Babur - Humayun\n(2) Akbar - Jahangir\n(3) Shah Jahan - Jahangir\n(4) Shahjahan - Aurangzeb",
+    "options_en": [
+      "Babur - Humayun",
+      "Akbar - Jahangir",
+      "Shah Jahan - Jahangir",
+      "Shahjahan - Aurangzeb"
+    ],
+    "explanation": "ஷாஜகான் - ஜஹாங்கீர்",
+    "explanation_en": "Shah Jahan - Jahangir"
+  },
+  {
+    "id": 34,
+    "question": "ஔரங்கசீப் ஆட்சியில் பிரெஞ்சுக்காரர்கள் வணிக மையத்தை ல் நிறுவினார்கள்.",
+    "options": [
+      "கொச்சின்",
+      "பாண்டிச்சேரி",
+      "சூரத்",
+      "தரங்கம்பாடி"
+    ],
+    "correct": 1,
+    "question_en": "During the reign of Aurangzeb, the French established a commercial centre.",
+    "options_en": [
+      "Cochin",
+      "Pondicherry",
+      "Surat",
+      "Tharangambadi"
+    ],
+    "explanation": "பாண்டிச்சேரி",
+    "explanation_en": "Pondicherry"
+  },
+  {
+    "id": 35,
+    "question": "மராட்டிய பேரரசர் ன் எழுச்சியை ஔரங்கசீப்பால் தடுக்க இயலவில்லை.",
+    "options": [
+      "சிவாஜி",
+      "சாம்பாஜி",
+      "இளவரசர் அக்பர்",
+      "சலீம்"
+    ],
+    "correct": 0,
+    "question_en": "Aurangzeb was unable to prevent the rise of the Maratha emperor.",
+    "options_en": [
+      "Shivaji",
+      "Sambhaji",
+      "Prince Akbar",
+      "Salim"
+    ],
+    "explanation": "சிவாஜி",
+    "explanation_en": "Shivaji"
+  },
+  {
+    "id": 36,
+    "question": "சரியான கூற்றைக் கண்டுபிடி\n(1) ஆலம்கீர் என்றால் உலகின் அரசன் என்று பொருள்.\n(2) ஔரங்கசீப் இந்துக்களின் மீதான ஜிஸியா வரியை நீக்கினார்.\n(3) ஔரங்கசீப் மகன் இளவரசர் அக்பர் ராஜபுத்திரர்களுடன் இணைந்து இடையூறு விளைவித்தார்.\n(4) ஔரங்கசீப் சிவாஜியின் மகன் சாம்பாஜியை அரண்மனைக்கு அழைத்து வாழ்த்தினார்.",
+    "options": [
+      "ஆலம்கீர் என்றால் உலகின் அரசன் என்று பொருள்.",
+      "ஔரங்கசீப் இந்துக்களின் மீதான ஜிஸியா வரியை நீக்கினார்.",
+      "ஔரங்கசீப் மகன் இளவரசர் அக்பர் ராஜபுத்திரர்களுடன் இணைந்து இடையூறு விளைவித்தார்.",
+      "ஔரங்கசீப் சிவாஜியின் மகன் சாம்பாஜியை அரண்மனைக்கு அழைத்து வாழ்த்தினார்."
+    ],
+    "correct": 2,
+    "question_en": "Find the correct statement\n(1) Alamgir means king of the world.\n(2) Aurangzeb abolished the Jizya tax on Hindus.\n(3) Aurangzeb's son Prince Akbar joined the Rajputs and created disturbances.\n(4) Aurangzeb invited Shivaji's son Sambhaji to the palace and greeted him.",
+    "options_en": [
+      "Alamgir means king of the world.",
+      "Aurangzeb abolished the Jizya tax on Hindus.",
+      "Aurangzeb's son Prince Akbar joined the Rajputs in causing disruption.",
+      "Aurangzeb invited Shivaji's son Sambhaji to the palace and greeted him."
+    ],
+    "explanation": "ஔரங்கசீப் மகன் இளவரசர் அக்பர் ராஜபுத்திரர்களுடன் இணைந்து இடையூறு விளைவித்தார்.",
+    "explanation_en": "Aurangzeb's son Prince Akbar joined the Rajputs in causing disruption."
+  },
+  {
+    "id": 37,
+    "question": "பொருந்தாததைக் காண்க.",
+    "options": [
+      "1527 - கன்வா போர்",
+      "1526 - முதல் பானிப்பட் போர்.",
+      "1556 - பக்ஸார் போர்.",
+      "1528 - சந்தேரிப் போர்."
+    ],
+    "correct": 2,
+    "question_en": "See what doesn't match.",
+    "options_en": [
+      "1527 - Battle of Kanwa",
+      "1526 – First Panipat War.",
+      "1556 - Battle of Buxar.",
+      "1528 – Battle of Chanderi."
+    ],
+    "explanation": "1556 - பக்ஸார் போர்.",
+    "explanation_en": "1556 - Battle of Buxar."
+  },
+  {
+    "id": 38,
+    "question": "முகலாயர்கள் நிர்வாக கட்டமைப்பின் உச்ச உயர்நிலைத் தலைவர்",
+    "options": [
+      "பேரரசர்",
+      "சுபேதார்",
+      "கொத்தவால்",
+      "மன்சப்தார்"
+    ],
+    "correct": 0,
+    "question_en": "The Mughals were the supreme head of the administrative structure",
+    "options_en": [
+      "Emperor",
+      "Subedar",
+      "by cluster",
+      "Mansapdar"
+    ],
+    "explanation": "பேரரசர்",
+    "explanation_en": "Emperor"
+  },
+  {
+    "id": 39,
+    "question": "அக்பரின் பேரரசில் நிலவரி வசூல் செய்த இராணுவ அல்லது சிவில் அதிகாரி என அழைக்கப்பட்டார்.",
+    "options": [
+      "சுபேதார்",
+      "ஜாகீர்தார்",
+      "கொத்தவால்",
+      "அமில் குஜார்"
+    ],
+    "correct": 1,
+    "question_en": "A military or civil officer who collected land in Akbar's empire.",
+    "options_en": [
+      "Subedar",
+      "Jagirdar",
+      "by cluster",
+      "Amil Gujar"
+    ],
+    "explanation": "ஜாகீர்தார்",
+    "explanation_en": "Jagirdar"
+  },
+  {
+    "id": 40,
+    "question": "தவறான இணையைத் தேர்ந்தெடுக்கவும்\n(1) மன்சப்தாரி முறையை அக்பர் அறிமுகம் செய்தார்.\n(2) சாட் என்பது மன்சப்தாரின் தகுதியைக் குறிக்கும்.\n(3) ஷாஜகானின் ஜப்தி எனும் முறை நீடிக்கப் பெறவில்லை.\n(4) குதிரைகளுக்கு முத்திரையிடும் முறை முகலாயப் பேரரசில் பின்பற்றப்பட்டது.",
+    "options": [
+      "மன்சப்தாரி முறையை அக்பர் அறிமுகம் செய்தார்.",
+      "சாட் என்பது மன்சப்தாரின் தகுதியைக் குறிக்கும்.",
+      "ஷாஜகானின் ஜப்தி எனும் முறை நீடிக்கப் பெறவில்லை.",
+      "குதிரைகளுக்கு முத்திரையிடும் முறை முகலாயப் பேரரசில் பின்பற்றப்பட்டது."
+    ],
+    "correct": 2,
+    "question_en": "Select the wrong counterpart\n(1) Akbar introduced the Mansabtari system.\n(2) Chat means qualification of Mansabdar.\n(3) Shahjahan's regime of confiscation was not sustained.\n(4) The system of branding horses was adopted in the Mughal Empire.",
+    "options_en": [
+      "Akbar introduced the Mansabtari system.",
+      "Chad stands for qualification of Mansabdar.",
+      "Shahjahan's system of confiscation did not last.",
+      "The method of branding horses was adopted in the Mughal Empire."
+    ],
+    "explanation": "ஷாஜகானின் ஜப்தி எனும் முறை நீடிக்கப் பெறவில்லை.",
+    "explanation_en": "Shahjahan's system of confiscation did not last."
+  },
+  {
+    "id": 41,
+    "question": "மாவட்ட அளவிலான வரி வசூல் அதிகாரி",
+    "options": [
+      "ஜாகீர்தார்",
+      "ஜமீன்தார்",
+      "அமில் குஜார்",
+      "சுபேதார்"
+    ],
+    "correct": 2,
+    "question_en": "District Level Tax Collector",
+    "options_en": [
+      "Jagirdar",
+      "Zamindar",
+      "Amil Gujar",
+      "Subedar"
+    ],
+    "explanation": "அமில் குஜார்",
+    "explanation_en": "Amil Gujar"
+  },
+  {
+    "id": 42,
+    "question": "நில உரிமையாளர்களிடமிருந்து நில வரியை வசூலிக்கப் பணியமர்த்தப்பட்டவர்களே ஆவர்.",
+    "options": [
+      "ஜாகீர்தார்",
+      "ஜமீன்தார்",
+      "அமில் குஜார்",
+      "சுபேதார்"
+    ],
+    "correct": 1,
+    "question_en": "They were employed to collect land tax from the land owners.",
+    "options_en": [
+      "Jagirdar",
+      "Zamindar",
+      "Amil Gujar",
+      "Subedar"
+    ],
+    "explanation": "ஜமீன்தார்",
+    "explanation_en": "Zamindar"
+  },
+  {
+    "id": 43,
+    "question": "பாபர் கட்டடக் கலை முறையை இந்தியாவில் அறிமுகப்படுத்தினார்.",
+    "options": [
+      "பாரசீக",
+      "ஐரோப்பிய",
+      "பிரெஞ்சு",
+      "இத்தாலி"
+    ],
+    "correct": 0,
+    "question_en": "Babur introduced architectural style in India.",
+    "options_en": [
+      "Persian",
+      "European",
+      "French",
+      "Italy"
+    ],
+    "explanation": "பாரசீக",
+    "explanation_en": "Persian"
+  },
+  {
+    "id": 44,
+    "question": "பேரரசர் அமர்வதற்கான விலையுயர்ந்த நவரத்தினக் கற்கள் பதிக்கபெற்ற மயிலாசனம் காலத்தில் தயாரிக்கப்பட்டது.",
+    "options": [
+      "பாபர்",
+      "அக்பர்",
+      "ஜஹாங்கீர்",
+      "ஷாஜகான்"
+    ],
+    "correct": 3,
+    "question_en": "Mayilasana was made during the precious Navaratna stone encrusted seating for the emperor.",
+    "options_en": [
+      "Babar",
+      "Akbar",
+      "Jahangir",
+      "Shahjahan"
+    ],
+    "explanation": "ஷாஜகான்",
+    "explanation_en": "Shahjahan"
+  },
+  {
+    "id": 45,
+    "question": "பொருத்துக\ni. செங்கோட்டை a. வெள்ளை பளிங்கு கற்கள்\nii. இப்ராஹிம் லோடி b. நம்பிக்கையைக் காப்பவர்\niii. தாஜ்மஹால் c. சிவப்பு பளிங்கு கற்கள்\niv. ஜாகிருதீன் d. டெல்லி கடைசி சுல்தான்",
+    "options": [
+      "i-c ii-d iii-a iv-b",
+      "i-c ii-d iii-b iv-a",
+      "i-d ii-c iii-b iv-a",
+      "i-d ii-b iii-c iv-a"
+    ],
+    "correct": 0,
+    "question_en": "match\ni. Red Fort a. White marble stones\nii. Ibrahim Lodi b. A keeper of faith\niii. Taj Mahal c. Red marble stones\niv. Jagiruddin d. The last Sultan of Delhi",
+    "options_en": [
+      "i-c ii-d iii-a iv-b",
+      "i-c ii-d iii-b iv-a",
+      "i-d ii-c iii-b iv-a",
+      "i-d ii-b iii-c iv-a"
+    ],
+    "explanation": "i-c ii-d iii-a iv-b",
+    "explanation_en": "i-c ii-d iii-a iv-b"
+  },
+  {
+    "id": 46,
+    "question": "ஷெர்ஷா வம்சத்தின் ஆட்சியை தொடங்கினார்.",
+    "options": [
+      "சூர்",
+      "சேர",
+      "சோழ",
+      "பாண்டிய"
+    ],
+    "correct": 0,
+    "question_en": "He began the reign of the Shersha dynasty.",
+    "options_en": [
+      "Sur",
+      "to join",
+      "Chola",
+      "Pandya"
+    ],
+    "explanation": "சூர்",
+    "explanation_en": "Sur"
+  },
+  {
+    "id": 47,
+    "question": "முகலாயர் ஆட்சி முதல் வரை நடைபெற்றது.",
+    "options": [
+      "1500 - 1515",
+      "1526 - 1707",
+      "1526 - 1700",
+      "1900 - 1919"
+    ],
+    "correct": 1,
+    "question_en": "It was held till the beginning of Mughal rule.",
+    "options_en": [
+      "1500 - 1515",
+      "1526 - 1707",
+      "1526 - 1700",
+      "1900 - 1919"
+    ],
+    "explanation": "1526 - 1707",
+    "explanation_en": "1526 - 1707"
+  },
+  {
+    "id": 48,
+    "question": "முகலாயப் பேரரசர்களின் புகழ் ல் பரவியது.",
+    "options": [
+      "சீனா, ரஷ்யா",
+      "அமெரிக்கா, ஜப்பான்",
+      "ஆசியா, ஐரோப்பா",
+      "இத்தாலி, ஜெர்மனி"
+    ],
+    "correct": 2,
+    "question_en": "The popularity of the Mughal emperors spread.",
+    "options_en": [
+      "China, Russia",
+      "America, Japan",
+      "Asia, Europe",
+      "Italy, Germany"
+    ],
+    "explanation": "ஆசியா, ஐரோப்பா",
+    "explanation_en": "Asia, Europe"
+  },
+  {
+    "id": 49,
+    "question": "பாபர் பிறந்த ஆண்டு",
+    "options": [
+      "1515",
+      "1583",
+      "1500",
+      "1483"
+    ],
+    "correct": 3,
+    "question_en": "Babur's birth year",
+    "options_en": [
+      "1515",
+      "1583",
+      "1500",
+      "1483"
+    ],
+    "explanation": "1483",
+    "explanation_en": "1483"
+  },
+  {
+    "id": 50,
+    "question": "பாபர் தந்தைவழியில் என்பவரின் கொள்ளுப்பேரன்.",
+    "options": [
+      "தைமூர்",
+      "அக்பர்",
+      "யூனிஸ்கான்",
+      "செங்கிஸ்கான்"
+    ],
+    "correct": 0,
+    "question_en": "Babur was his paternal great-grandson.",
+    "options_en": [
+      "Timur",
+      "Akbar",
+      "UNISCON",
+      "Genghis Khan"
+    ],
+    "explanation": "தைமூர்",
+    "explanation_en": "Timur"
+  },
+  {
+    "id": 51,
+    "question": "பாபர் மங்கோலிய அரசன் செங்கிஸ்கானின் தலைமுறை வாரிசு ஆவார்.",
+    "options": [
+      "பதினான்காவது",
+      "பதினைந்தாவது",
+      "இருபதாவது",
+      "பதின்மூன்றாவது"
+    ],
+    "correct": 3,
+    "question_en": "Babur was a descendant of the Mongol king Genghis Khan.",
+    "options_en": [
+      "Fourteenth",
+      "Fifteenth",
+      "Twentieth",
+      "Thirteenth"
+    ],
+    "explanation": "பதின்மூன்றாவது",
+    "explanation_en": "Thirteenth"
+  },
+  {
+    "id": 52,
+    "question": "ஜாகிருதீன் என்பதன் பொருள்",
+    "options": [
+      "நம்பிக்கையைக் காப்பவர்",
+      "உலகைக் கைப்பற்றியவர்",
+      "உலகின் அரசன்",
+      "உலகை வென்றவர்"
+    ],
+    "correct": 0,
+    "question_en": "Meaning of Zagirudin",
+    "options_en": [
+      "A keeper of faith",
+      "The conqueror of the world",
+      "King of the world",
+      "Conqueror of the world"
+    ],
+    "explanation": "நம்பிக்கையைக் காப்பவர்",
+    "explanation_en": "A keeper of faith"
+  },
+  {
+    "id": 53,
+    "question": "பாபர் காபூலைக் கைப்பற்றிய ஆண்டு",
+    "options": [
+      "1519",
+      "1505",
+      "1500",
+      "1524"
+    ],
+    "correct": 1,
+    "question_en": "The year Babur captured Kabul",
+    "options_en": [
+      "1519",
+      "1505",
+      "1500",
+      "1524"
+    ],
+    "explanation": "1505",
+    "explanation_en": "1505"
+  },
+  {
+    "id": 54,
+    "question": "பாபர் முதல் பானிப்பட் போரில் இப்ராகிம் லோடியைத் தோற்கடித்து மற்றும் ஐ கைப்பற்றினார்.",
+    "options": [
+      "டையூ, சூரத்",
+      "குல்பர்கா, பீஜப்பூர்",
+      "டெல்லி, ஆக்ரா",
+      "தலைக்கோட்டை, ஹம்பி"
+    ],
+    "correct": 2,
+    "question_en": "Babur defeated Ibrahim Lodi in the first battle of Panipat and captured I.",
+    "options_en": [
+      "Diu, Surat",
+      "Gulbarga, Bijapur",
+      "Delhi, Agra",
+      "Thalikotta, Hampi"
+    ],
+    "explanation": "டெல்லி, ஆக்ரா",
+    "explanation_en": "Delhi, Agra"
+  },
+  {
+    "id": 55,
+    "question": "பாபர் மொழிகளில் புலமை பெற்றவர்.",
+    "options": [
+      "தமிழ், தெலுங்கு",
+      "உருது, கன்னடம்",
+      "மலையாளம், பெங்காலி",
+      "துருக்கிய, பாரசீக"
+    ],
+    "correct": 3,
+    "question_en": "Babur was well versed in languages.",
+    "options_en": [
+      "Tamil, Telugu",
+      "Urdu, Kannada",
+      "Malayalam, Bengali",
+      "Turkish, Persian"
+    ],
+    "explanation": "துருக்கிய, பாரசீக",
+    "explanation_en": "Turkish, Persian"
+  },
+  {
+    "id": 56,
+    "question": "பாபரின் சுயசரிதையான ல் இந்துஸ்தான் பற்றி தனது கருத்தை கூறியுள்ளார்.",
+    "options": [
+      "இராவண காவியம்",
+      "குரான்",
+      "துசுக் - இ - பாபரி",
+      "அமுக்தமால்யதா"
+    ],
+    "correct": 2,
+    "question_en": "Babur's autobiography gave his opinion about Hindustan.",
+    "options_en": [
+      "The epic of Ravana",
+      "Koran",
+      "Tusuk-e-Babri",
+      "Amuktamalyada"
+    ],
+    "explanation": "துசுக் - இ - பாபரி",
+    "explanation_en": "Tusuk-e-Babri"
+  },
+  {
+    "id": 57,
+    "question": "பாபர் இயற்கை எய்திய ஆண்டு",
+    "options": [
+      "1514",
+      "1575",
+      "1600",
+      "1530"
+    ],
+    "correct": 3,
+    "question_en": "The year of Babur's death",
+    "options_en": [
+      "1514",
+      "1575",
+      "1600",
+      "1530"
+    ],
+    "explanation": "1530",
+    "explanation_en": "1530"
+  },
+  {
+    "id": 58,
+    "question": "சௌசா போர் நடைபெற்ற ஆண்டு",
+    "options": [
+      "1540",
+      "1530",
+      "1539",
+      "1527"
+    ],
+    "correct": 2,
+    "question_en": "The year the Sousa war took place",
+    "options_en": [
+      "1540",
+      "1530",
+      "1539",
+      "1527"
+    ],
+    "explanation": "1539",
+    "explanation_en": "1539"
+  },
+  {
+    "id": 59,
+    "question": "பாபர் தனது மூத்தமகனான ஐ வாரிசாக அறிவித்தார்.",
+    "options": [
+      "ஹுமாயூன்",
+      "கம்ரான்",
+      "ஹிண்டல்",
+      "அஸ்காரி"
+    ],
+    "correct": 0,
+    "question_en": "Babur declared his eldest son I as his successor.",
+    "options_en": [
+      "Humayun",
+      "Kamran",
+      "Hindle",
+      "Askari"
+    ],
+    "explanation": "ஹுமாயூன்",
+    "explanation_en": "Humayun"
+  },
+  {
+    "id": 60,
+    "question": "அக்பர் தோற்கடித்த மத்திய இந்தியப் பகுதி ராணி",
+    "options": [
+      "சந்த்பீவி",
+      "ராணி துர்காவதி",
+      "மும்தாஜ்",
+      "கங்காதேவி"
+    ],
+    "correct": 1,
+    "question_en": "Rani, the central Indian region defeated by Akbar",
+    "options_en": [
+      "Chandbivi",
+      "Queen Durgavati",
+      "Mumtaz",
+      "Gangadevi"
+    ],
+    "explanation": "ராணி துர்காவதி",
+    "explanation_en": "Queen Durgavati"
+  },
+  {
+    "id": 61,
+    "question": "அக்பரின் கல்லறை அமைக்கப்பட்ட இடம்",
+    "options": [
+      "ஹம்பி",
+      "மாளவம்",
+      "சிக்கந்தரா",
+      "பாட்னா"
+    ],
+    "correct": 2,
+    "question_en": "The place where Akbar's tomb is built",
+    "options_en": [
+      "Hampi",
+      "Malavam",
+      "Sikandar",
+      "Patna"
+    ],
+    "explanation": "சிக்கந்தரா",
+    "explanation_en": "Sikandar"
+  },
+  {
+    "id": 62,
+    "question": "அக்பரின் படையை வலுவாக எதிர்த்த ராணி",
+    "options": [
+      "ராணி துர்காவதி",
+      "ராணி சந்த் பீவி",
+      "கங்காதேவி",
+      "மும்தாஜ்"
+    ],
+    "correct": 1,
+    "question_en": "Rani strongly resisted Akbar's army",
+    "options_en": [
+      "Queen Durgavati",
+      "Rani Chand Bivi",
+      "Gangadevi",
+      "Mumtaz"
+    ],
+    "explanation": "ராணி சந்த் பீவி",
+    "explanation_en": "Rani Chand Bivi"
+  },
+  {
+    "id": 63,
+    "question": "அக்பரின் ஆட்சியில் சிறந்த கதை ஆசிரியராக இருந்தவர்",
+    "options": [
+      "தான்சேன்",
+      "தஷ்வந்த்",
+      "பீர்பால்",
+      "அபுல்பாசல்"
+    ],
+    "correct": 2,
+    "question_en": "He was the best narrator in Akbar's reign",
+    "options_en": [
+      "Tansen",
+      "Dashwant",
+      "Birbal",
+      "Abulbasal"
+    ],
+    "explanation": "பீர்பால்",
+    "explanation_en": "Birbal"
+  },
+  {
+    "id": 64,
+    "question": "அக்பரின் அவையில் இருந்த ஓவியர்",
+    "options": [
+      "தஷ்வந்த்",
+      "தான்சேன்",
+      "பீர்பால்",
+      "அபுல்பாசல்"
+    ],
+    "correct": 0,
+    "question_en": "Akbar's court painter",
+    "options_en": [
+      "Dashwant",
+      "Tansen",
+      "Birbal",
+      "Abulbasal"
+    ],
+    "explanation": "தஷ்வந்த்",
+    "explanation_en": "Dashwant"
+  },
+  {
+    "id": 65,
+    "question": "ஜஹாங்கீரின் மனைவி",
+    "options": [
+      "மும்தாஜ்",
+      "நூர்ஜஹான்",
+      "கங்காதேவி",
+      "துர்காவதி"
+    ],
+    "correct": 1,
+    "question_en": "Jahangir's wife",
+    "options_en": [
+      "Mumtaz",
+      "Noor Jahan",
+      "Gangadevi",
+      "Durgavati"
+    ],
+    "explanation": "நூர்ஜஹான்",
+    "explanation_en": "Noor Jahan"
+  },
+  {
+    "id": 66,
+    "question": "ஜஹாங்கீருக்குப் பின்னர் இளவரசர் குர்ரம் என்ற பட்டப்பெயருடன் ஆட்சிப் பொறுப்பேற்றார்.",
+    "options": [
+      "பாபர்",
+      "அக்பர்",
+      "ஷாஜகான்",
+      "ஷெர்ஷா"
+    ],
+    "correct": 2,
+    "question_en": "He succeeded Jahangir with the title Prince Khurram.",
+    "options_en": [
+      "Babar",
+      "Akbar",
+      "Shahjahan",
+      "Shersha"
+    ],
+    "explanation": "ஷாஜகான்",
+    "explanation_en": "Shahjahan"
+  },
+  {
+    "id": 67,
+    "question": "சிவாஜியின் தந்தை",
+    "options": [
+      "ஷாஜி பான்ஸ்லே",
+      "ஷெர்ஷா",
+      "பாபர்",
+      "அக்பர்"
+    ],
+    "correct": 0,
+    "question_en": "Father of Shivaji",
+    "options_en": [
+      "Shaji Bhansle",
+      "Shersha",
+      "Babar",
+      "Akbar"
+    ],
+    "explanation": "ஷாஜி பான்ஸ்லே",
+    "explanation_en": "Shaji Bhansle"
+  },
+  {
+    "id": 68,
+    "question": "ஷாஜகான் தன் வாழ்நாளின் இறுதி எட்டு ஆண்டுகளை கைதியாக கழித்த அரண்மனை",
+    "options": [
+      "ஹம்பி",
+      "ஷாபர்ஜ்",
+      "புராணகிலா",
+      "செங்கோட்டை"
+    ],
+    "correct": 1,
+    "question_en": "The palace where Shahjahan spent the last eight years of his life as a prisoner",
+    "options_en": [
+      "Hampi",
+      "Shaburg",
+      "Puranakila",
+      "red fort"
+    ],
+    "explanation": "ஷாபர்ஜ்",
+    "explanation_en": "Shaburg"
+  },
+  {
+    "id": 69,
+    "question": "தன் தந்தையை சிறைப்படுத்தி, தன் சகோதரர்களை கொன்று ஆட்சியை தொடங்கியவர்",
+    "options": [
+      "அக்பர்",
+      "பாபர்",
+      "ஷாஜகான்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 3,
+    "question_en": "He began his reign by imprisoning his father and killing his brothers",
+    "options_en": [
+      "Akbar",
+      "Babar",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "explanation": "ஔரங்கசீப்",
+    "explanation_en": "Aurangzeb"
+  },
+  {
+    "id": 70,
+    "question": "ஔரங்கசீப்பின் மகன்",
+    "options": [
+      "இளவரசர் அக்பர்",
+      "பாபர்",
+      "குர்ரம்",
+      "ஷெர்ஷா"
+    ],
+    "correct": 0,
+    "question_en": "Son of Aurangzeb",
+    "options_en": [
+      "Prince Akbar",
+      "Babar",
+      "Kurram",
+      "Shersha"
+    ],
+    "explanation": "இளவரசர் அக்பர்",
+    "explanation_en": "Prince Akbar"
+  },
+  {
+    "id": 71,
+    "question": "மன்சப்தாரி முறை அறிமுகம் செய்தவர்",
+    "options": [
+      "ஷெர்ஷா",
+      "பாபர்",
+      "அக்பர்",
+      "ஷாஜகான்"
+    ],
+    "correct": 2,
+    "question_en": "He introduced the Mansabdari system",
+    "options_en": [
+      "Shersha",
+      "Babar",
+      "Akbar",
+      "Shahjahan"
+    ],
+    "explanation": "அக்பர்",
+    "explanation_en": "Akbar"
+  },
+  {
+    "id": 72,
+    "question": "அக்பர் அனைத்து மதங்களிலும் உள்ள சிறந்த கொள்கைகளை ஒருங்கிணைத்து என்ற ஒரே மதத்தை உருவாக்க முயன்றார்.",
+    "options": [
+      "இந்துமதம்",
+      "புத்தமதம்",
+      "தீன் இலாஹி",
+      "இஸ்லாமிய மதம்"
+    ],
+    "correct": 2,
+    "question_en": "Akbar tried to create a single religion by integrating the best principles of all religions.",
+    "options_en": [
+      "Hinduism",
+      "Buddhism",
+      "Deen Elahi",
+      "Islamic religion"
+    ],
+    "explanation": "தீன் இலாஹி",
+    "explanation_en": "Deen Elahi"
+  },
+  {
+    "id": 73,
+    "question": "தீன் இலாஹி என்பதன் பொருள்",
+    "options": [
+      "உலகை வென்றவர்",
+      "உயர்ந்த குணம் உடையவர்",
+      "தெய்வீக மதம்",
+      "உலகின் அரசன்"
+    ],
+    "correct": 2,
+    "question_en": "The meaning of Deen Ilahi",
+    "options_en": [
+      "Conqueror of the world",
+      "He is of high character",
+      "Divine religion",
+      "King of the world"
+    ],
+    "explanation": "தெய்வீக மதம்",
+    "explanation_en": "Divine religion"
+  },
+  {
+    "id": 74,
+    "question": "புராண கிலாவைக் கட்டியவர்",
+    "options": [
+      "பாபர்",
+      "அக்பர்",
+      "ஔரங்கசீப்",
+      "ஷெர்ஷா"
+    ],
+    "correct": 3,
+    "question_en": "who built the Purana Kila",
+    "options_en": [
+      "Babar",
+      "Akbar",
+      "Aurangzeb",
+      "Shersha"
+    ],
+    "explanation": "ஷெர்ஷா",
+    "explanation_en": "Shersha"
+  },
+  {
+    "id": 75,
+    "question": "நதிக்கரையில் தாஜ்மஹால் கட்டப்பட்டது.",
+    "options": [
+      "கிருஷ்ணா",
+      "கோதாவரி",
+      "வைகை",
+      "யமுனை"
+    ],
+    "correct": 3,
+    "question_en": "The Taj Mahal was built on the banks of the river.",
+    "options_en": [
+      "Krishna",
+      "Godavari",
+      "put",
+      "Yamuna"
+    ],
+    "explanation": "யமுனை",
+    "explanation_en": "Yamuna"
+  },
+  {
+    "id": 76,
+    "question": "வரிவிலக்கு அளிக்கப்பட்ட நிலங்கள் என்றழைக்கப்பட்டன.",
+    "options": [
+      "தரிசு நிலம்",
+      "பண்ணை நிலம்",
+      "சுயயூர்கள்",
+      "விவசாய நிலம்"
+    ],
+    "correct": 2,
+    "question_en": "They were called tax-exempt lands.",
+    "options_en": [
+      "barren land",
+      "Farm land",
+      "self journeys",
+      "Agricultural land"
+    ],
+    "explanation": "சுயயூர்கள்",
+    "explanation_en": "self journeys"
+  },
+  {
+    "id": 77,
+    "question": "ஹுமாயூனின் டெல்லி அரண்மனையின் பெயர்",
+    "options": [
+      "ஷாபர்ஜ்",
+      "செங்கோட்டை",
+      "தாஜ்மஹால்",
+      "தீன்-இ-பானா"
+    ],
+    "correct": 3,
+    "question_en": "Name of Humayun's Delhi Palace",
+    "options_en": [
+      "Shaburg",
+      "red fort",
+      "The Taj Mahal",
+      "Deen-e-Bana"
+    ],
+    "explanation": "தீன்-இ-பானா",
+    "explanation_en": "Deen-e-Bana"
+  },
+  {
+    "id": 78,
+    "question": "முகலாயப் பேரரசர்களின் வாழிடமாக இருந்த கோட்டை",
+    "options": [
+      "திப்புசுல்தான் கோட்டை",
+      "தாஜ்மஹால்",
+      "தீன்-இ-பானா",
+      "டெல்லி செங்கோட்டை"
+    ],
+    "correct": 3,
+    "question_en": "The fort was the residence of the Mughal emperors",
+    "options_en": [
+      "Tippusultan Fort",
+      "The Taj Mahal",
+      "Deen-e-Bana",
+      "Delhi Red Fort"
+    ],
+    "explanation": "டெல்லி செங்கோட்டை",
+    "explanation_en": "Delhi Red Fort"
+  },
+  {
+    "id": 79,
+    "question": "டெல்லி செங்கோட்டையைக் கட்டியவர்",
+    "options": [
+      "பாபர்",
+      "ஷாஜகான்",
+      "ஷெர்ஷா",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 1,
+    "question_en": "He built the Red Fort of Delhi",
+    "options_en": [
+      "Babar",
+      "Shahjahan",
+      "Shersha",
+      "Aurangzeb"
+    ],
+    "explanation": "ஷாஜகான்",
+    "explanation_en": "Shahjahan"
+  },
+  {
+    "id": 80,
+    "question": "டெல்லியில் உள்ள மிகப்பெரிய மசூதி",
+    "options": [
+      "ஜூம்மா மசூதி",
+      "முத்து மசூதி",
+      "வெள்ளை மசூதி",
+      "பாபர் மசூதி"
+    ],
+    "correct": 0,
+    "question_en": "The largest mosque in Delhi",
+    "options_en": [
+      "Jumma Masjid",
+      "Pearl Mosque",
+      "White Mosque",
+      "Babri Masjid"
+    ],
+    "explanation": "ஜூம்மா மசூதி",
+    "explanation_en": "Jumma Masjid"
+  },
+  {
+    "id": 81,
+    "question": "லால் குய்லா என அழைக்கப்படுவது",
+    "options": [
+      "பாபர் மசூதி",
+      "திப்புசுல்தான் கோட்டை",
+      "டெல்லி செங்கோட்டை",
+      "கோல்கொண்டா கோட்டை"
+    ],
+    "correct": 2,
+    "question_en": "Known as Lal Quila",
+    "options_en": [
+      "Babri Masjid",
+      "Tippusultan Fort",
+      "Delhi Red Fort",
+      "Golconda Fort"
+    ],
+    "explanation": "டெல்லி செங்கோட்டை",
+    "explanation_en": "Delhi Red Fort"
+  },
+  {
+    "id": 82,
+    "question": "டெல்லி செங்கோட்டை கட்டப்பட்டுள்ளது.",
+    "options": [
+      "பளிங்கு கற்களால்",
+      "கிரானைட் கற்களால்",
+      "சிவப்பு நிற கற்களால்",
+      "கருங் கற்களால்"
+    ],
+    "correct": 2,
+    "question_en": "The Red Fort of Delhi is built.",
+    "options_en": [
+      "of marble",
+      "of granite stones",
+      "With red colored stones",
+      "Black stones"
+    ],
+    "explanation": "சிவப்பு நிற கற்களால்",
+    "explanation_en": "With red colored stones"
+  },
+  {
+    "id": 83,
+    "question": "ஔரங்கசீப்பின் மகன்",
+    "options": [
+      "ஷெர்ஷா",
+      "ஹீமாயூன்",
+      "ஆஜாம் ஷா",
+      "அக்பர்"
+    ],
+    "correct": 2,
+    "question_en": "Son of Aurangzeb",
+    "options_en": [
+      "Shersha",
+      "Hemayun",
+      "Azam Shah",
+      "Akbar"
+    ],
+    "explanation": "ஆஜாம் ஷா",
+    "explanation_en": "Azam Shah"
+  },
+  {
+    "id": 84,
+    "question": "ஷெர்ஷாவின் தந்தை",
+    "options": [
+      "பாபர்",
+      "அக்பர்",
+      "ஷாஜகான்",
+      "ஹசன் சூரி"
+    ],
+    "correct": 3,
+    "question_en": "Shersha's father",
+    "options_en": [
+      "Babar",
+      "Akbar",
+      "Shahjahan",
+      "Hasan Suri"
+    ],
+    "explanation": "ஹசன் சூரி",
+    "explanation_en": "Hasan Suri"
+  },
+  {
+    "id": 85,
+    "question": "பல கிராமங்களை உள்ளடக்கிய பிரிவே ஆகும்.",
+    "options": [
+      "மாநிலங்கள்",
+      "பேரூர்",
+      "பர்கானா",
+      "ஊர்"
+    ],
+    "correct": 2,
+    "question_en": "It is a division that includes many villages.",
+    "options_en": [
+      "States",
+      "Barur",
+      "Pargana",
+      "town"
+    ],
+    "explanation": "பர்கானா",
+    "explanation_en": "Pargana"
+  },
+  {
+    "id": 86,
+    "question": "ஷெர்ஷா டெல்லியில் அரண்மனையை அழித்தார்.",
+    "options": [
+      "பாபர்",
+      "ஹுமாயூன்",
+      "இப்ராகிம் லோடி",
+      "ஆலம்கான்"
+    ],
+    "correct": 1,
+    "question_en": "Sher Shah destroyed the palace in Delhi.",
+    "options_en": [
+      "Babar",
+      "Humayun",
+      "Ibrahim Lodi",
+      "Alam Khan"
+    ],
+    "explanation": "ஹுமாயூன்",
+    "explanation_en": "Humayun"
+  },
+  {
+    "id": 87,
+    "question": "அக்பரின் வருவாய்த் துறை அமைச்சர்",
+    "options": [
+      "பீர்பால்",
+      "ராஜா பகவன்தாஸ்",
+      "இராஜா தோடர்மால்",
+      "இராஜா மான்சிங்"
+    ],
+    "correct": 2,
+    "question_en": "Akbar's revenue minister",
+    "options_en": [
+      "Birbal",
+      "Raja Bhagwan Das",
+      "Raja Todarmal",
+      "Raja Mansingh"
+    ],
+    "explanation": "இராஜா தோடர்மால்",
+    "explanation_en": "Raja Todarmal"
+  },
+  {
+    "id": 88,
+    "question": "ராணா பிரதாப் குதிரையின் பெயர்",
+    "options": [
+      "கல்யாணி",
+      "சேத்தக்",
+      "ராஜா",
+      "நம்பி"
+    ],
+    "correct": 1,
+    "question_en": "Rana Pratap is the name of the horse",
+    "options_en": [
+      "Kalyani",
+      "Sethak",
+      "the king",
+      "trust"
+    ],
+    "explanation": "சேத்தக்",
+    "explanation_en": "Sethak"
+  },
+  {
+    "id": 89,
+    "question": "ஜப்தி எனும் முறை ஆட்சி காலத்தில் தக்காண மாகாணங்களுக்கும் நீட்டிக்கப் பெற்றது.",
+    "options": [
+      "அக்பர்",
+      "பாபர்",
+      "ஷெர்ஷா",
+      "ஷாஜகான்"
+    ],
+    "correct": 3,
+    "question_en": "The system of confiscation was extended to the Deccan provinces during the reign.",
+    "options_en": [
+      "Akbar",
+      "Babar",
+      "Shersha",
+      "Shahjahan"
+    ],
+    "explanation": "ஷாஜகான்",
+    "explanation_en": "Shahjahan"
+  },
+  {
+    "id": 90,
+    "question": "பொருத்துக\ni. பாபர் a. அகமது நகர்\nii. துர்க்காவதி b அஷ்ட திக்கஜம்\niii. ராணி சந்த் பீபி c அக்பர்\niv. தீன் - இலாஹி d சந்தேரி\nV. இராஜா மான்சிங் e. மத்திய மாகாணம்",
+    "options": [
+      "d e a C b",
+      "b C e a d",
+      "e C d b a",
+      "d e C b a"
+    ],
+    "correct": 0,
+    "question_en": "match\ni. Babar a. Ahmed Nagar\nii. Durgavati b Ashta Dikkajam\niii. Rani Chand Bibi c Akbar\niv. Deen - Ilahi d Chanderi\nV. Raja Mansingh e. Central Province",
+    "options_en": [
+      "d e a C b",
+      "b C e a d",
+      "e C d b a",
+      "d e C b a"
+    ],
+    "explanation": "d e a C b",
+    "explanation_en": "d e a C b"
+  },
+  {
+    "id": 91,
+    "question": "கீழ்க்கண்ட கூற்று மற்றும் காரணத்தை ஆராய்க\nகூற்று: ஆங்கிலேயர் தங்களது முதல் வணிக மையத்தை சூரத்தில் துவங்கினர்.\nகாரணம்: ஜஹாங்கீர் ஆங்கிலேயருக்கு வணிக உரிமையை வழங்கினார்.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான விளக்கம்.",
+      "காரணம் கூற்றிற்கான தவறான விளக்கம்",
+      "கூற்று தவறு காரணம் சரி.",
+      "கூற்று மற்றும் காரணம் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Examine the following statement and reason\nAssertion: The British established their first trading center at Surat.\nReason: Jahangir granted trading rights to the British.",
+    "options_en": [
+      "A valid explanation for the causal statement.",
+      "A false interpretation of the cause statement",
+      "The statement is false and the reason is correct.",
+      "The statement and reason are false."
+    ],
+    "explanation": "காரணம் கூற்றிற்கான சரியான விளக்கம்.",
+    "explanation_en": "A valid explanation for the causal statement."
+  },
+  {
+    "id": 92,
+    "question": "கீழ்க்கண்ட கூற்று மற்றும் காரணத்தை ஆராய்க\nகூற்று: ஒளரங்கசீப் மற்ற மதங்ளை வெறுத்ததனால் அவருக்கு அவப்பெயர் ஏற்பட்டது.\nகாரணம்: ஒளரங்கசீப் இந்துக்கள் மீது மீண்டும் ஜிஸியா மற்றும் பாதயாத்திரை வரியை விதித்தார்.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான விளக்கம்.",
+      "கூற்றிற்கான காரணம் சரியான விளக்கமல்ல.",
+      "கூற்று சரி காரணம் தவறு",
+      "கூற்று மற்றும் காரணம் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Examine the following statement and reason\nClaim: Olrangzeb was infamous for his hatred of other religions.\nReason: Olarangzeb again imposed jizya and padayatra tax on Hindus.",
+    "options_en": [
+      "A valid explanation for the causal statement.",
+      "The reason for the claim is not a valid explanation.",
+      "The statement is true and the reason is false",
+      "The statement and reason are false"
+    ],
+    "explanation": "காரணம் கூற்றிற்கான சரியான விளக்கம்.",
+    "explanation_en": "A valid explanation for the causal statement."
+  },
+  {
+    "id": 93,
+    "question": "சரியான வாக்கியத்தைத் தேர்ந்தெடுக்க\nI. கம்ரான் ஆப்கானியரின் மகனாவார், ஹசன் சூரி பீகாரில் உள்ள சசாரத்தின் ஆட்சியாளர் ஆவர்.\nII. அக்பர் இந்துக்களின் மீதான ஜிஸியா மற்றும் பாதயாத்திரை வரியை விதித்தார்.\nIII. ஔரங்கசீப் தனது மூன்று சகோதரர்களை கொன்றுவிட்டு, ஆட்சிக் கட்டிலில் அமர்ந்தார்.\nIV. இளவரசர் அக்பர், சிவாஜியின் மகனான சாம்பாஜியோடு தக்காணத்தில் ஒப்பந்தம் செய்து கொண்டார்.",
+    "options": [
+      "I, II மற்றும் III சரி",
+      "II, III மற்றும் IV சரி",
+      "I, III மற்றும் IV சரி",
+      "II, III, IV மற்றும் I சரி"
+    ],
+    "correct": 1,
+    "question_en": "Choose the correct sentence\nI. The son of Kamran Afghani, Hasan Suri was the ruler of Sasarat in Bihar.\nII. Akbar imposed jizya and padayatra tax on Hindus.\nIII. Aurangzeb killed his three brothers and ascended the throne.\nIV. Prince Akbar made a treaty with Shivaji's son Sambhaji in the Deccan.",
+    "options_en": [
+      "I, II and III are correct",
+      "II, III and IV are correct",
+      "I, III and IV are correct",
+      "II, III, IV and I are correct"
+    ],
+    "explanation": "II, III மற்றும் IV சரி",
+    "explanation_en": "II, III and IV are correct"
+  },
+  {
+    "id": 94,
+    "question": "கால வரிசைப்படி போர்களை வரிசைப்படுத்துக.\nI. கன்வா போர்\nII. சௌசா போர்\nIII. கன்னோசி போர்\nIV. சந்தேரி போர்",
+    "options": [
+      "I, IV, II, III",
+      "I, III, IV, II",
+      "IV, III, II, I",
+      "III, II, I, IV"
+    ],
+    "correct": 0,
+    "question_en": "Arrange the battles in chronological order.\nI. Battle of Kanwa\nII. Souza War\nIII. Battle of Gannosi\nIV. Chanderi War",
+    "options_en": [
+      "I, IV, II, III",
+      "I, III, IV, II",
+      "IV, III, II, I",
+      "III, II, I, IV"
+    ],
+    "explanation": "I, IV, II, III",
+    "explanation_en": "I, IV, II, III"
+  },
+  {
+    "id": 95,
+    "question": "கீழ்க்காணும் நிர்வாகப் பிரிவை இறங்குவரிசையில் அமைத்திடுக.\nI. சர்க்கார்\nII. பர்கானா\nIII. சுபா",
+    "options": [
+      "I, II, III",
+      "III, II, I",
+      "III, I, II",
+      "II, I, III"
+    ],
+    "correct": 2,
+    "question_en": "Arrange the admin section below in descending order.\nI. Sarkar\nII. Pargana\nIII. Suba",
+    "options_en": [
+      "I, II, III",
+      "III, II, I",
+      "III, I, II",
+      "II, I, III"
+    ],
+    "explanation": "III, I, II",
+    "explanation_en": "III, I, II"
+  },
+  {
+    "id": 96,
+    "question": "முகலாய நிர்வாகத்தில் பிரதம மந்திரி என அழைக்கப்பட்டார்.",
+    "options": [
+      "வக்கீல்",
+      "கொத்தவால்",
+      "சவார்",
+      "பேசுவா"
+    ],
+    "correct": 0,
+    "question_en": "He was called Prime Minister in the Mughal administration.",
+    "options_en": [
+      "Advocate",
+      "by cluster",
+      "Sawar",
+      "Talk"
+    ],
+    "explanation": "வக்கீல்",
+    "explanation_en": "Advocate"
+  },
+  {
+    "id": 97,
+    "question": "ஜஹாங்கீர் கொலை செய்த சீக்கிய குரு",
+    "options": [
+      "குரு ராம்தாஸ்",
+      "குரு தேஜ்பகதூர்",
+      "குரு கோவிந்த்சிங்",
+      "அர்ஜுன் தாஸ்"
+    ],
+    "correct": 3,
+    "question_en": "A Sikh Guru who was killed by Jahangir",
+    "options_en": [
+      "Guru Ramdas",
+      "Guru Tej Bahadur",
+      "Guru Govindsingh",
+      "Arjun Das"
+    ],
+    "explanation": "அர்ஜுன் தாஸ்",
+    "explanation_en": "Arjun Das"
+  },
+  {
+    "id": 98,
+    "question": "சீக்கியர்களின் ஹர்மிந்தர் சாகிப் கருவறை அமைந்துள்ள இடம்",
+    "options": [
+      "அமிர்தசரஸ்",
+      "ஹம்பி",
+      "மாளவம்",
+      "பதேபூர் சிக்ரி"
+    ],
+    "correct": 0,
+    "question_en": "Harminder Sahib sanctum sanctorum of the Sikhs is located",
+    "options_en": [
+      "Amritsar",
+      "Hampi",
+      "Malavam",
+      "Badepur Sikri"
+    ],
+    "explanation": "அமிர்தசரஸ்",
+    "explanation_en": "Amritsar"
+  },
+  {
+    "id": 99,
+    "question": "அக்பரால் கட்டப்பட்ட வழிபாட்டு மண்டபம்",
+    "options": [
+      "கோல்கொண்டா",
+      "இபாதக்கானா",
+      "டோலாப்பூர்",
+      "தாஜ்மகால்"
+    ],
+    "correct": 1,
+    "question_en": "Worship hall built by Akbar",
+    "options_en": [
+      "Golconda",
+      "Ibadakhana",
+      "Dolapur",
+      "The Taj Mahal"
+    ],
+    "explanation": "இபாதக்கானா",
+    "explanation_en": "Ibadakhana"
+  },
+  {
+    "id": 100,
+    "question": "பொருத்துக\nதந்தை மகன்\nI. அக்பர் a தில்வார் கான்\nII. தௌலத்கான் லோடி b. ராணா பிரதாப்\nIII. ஹசன் சூரி c. ஹுமாயூன்\nIV. பாபர் d. ஷெர்ஷா\nV. உதய்சிங் - e ஜஹாங்கீர்",
+    "options": [
+      "b C d a e",
+      "e d a b C",
+      "e a d C b",
+      "b d C a e"
+    ],
+    "correct": 2,
+    "question_en": "match\nfather son\nI. Akbar a Dilwar Khan\nII. Daulat Khan Lodi b. Rana Pratap\nIII. Hasan Suri c. Humayun\nIV. Babur d. Shersha\nV. Uday Singh - e Jahangir",
+    "options_en": [
+      "b C d a e",
+      "e d a b C",
+      "e a d C b",
+      "b d C a e"
+    ],
+    "explanation": "e a d C b",
+    "explanation_en": "e a d C b"
+  },
+  {
+    "id": 101,
+    "question": "தனது நூலகத்தின் படிக்கட்டுகளில் இடறிவிழுந்து மரணத்தைத் தழுவியவர்",
+    "options": [
+      "அக்பர்",
+      "ஷெர்ஷா",
+      "ஹுமாயூன்",
+      "பாபர்"
+    ],
+    "correct": 2,
+    "question_en": "He fell to his death on the stairs of his library",
+    "options_en": [
+      "Akbar",
+      "Shersha",
+      "Humayun",
+      "Babar"
+    ],
+    "explanation": "ஹுமாயூன்",
+    "explanation_en": "Humayun"
+  },
+  {
+    "id": 102,
+    "question": "பொருத்துக\nI. பாபர் 1. சௌசா போர்\nII. ஹுமாயூன் 2. ஆகோம் போர்\nIII. அக்பர் 3. சந்தேரிப் போர்\nIV. ஔரங்கசீப் 4. ஹால்டிகாட் போர்",
+    "options": [
+      "2 1 4 3",
+      "2 1 3 4",
+      "4 3 2 1",
+      "3 1 4 2"
+    ],
+    "correct": 3,
+    "question_en": "match\nI. Babur 1. Chausa War\nII. Humayun 2. Battle of Agam\nIII. Akbar 3. Battle of Chanderi\nIV. Aurangzeb 4. Battle of Haldicott",
+    "options_en": [
+      "2 1 4 3",
+      "2 1 3 4",
+      "4 3 2 1",
+      "3 1 4 2"
+    ],
+    "explanation": "3 1 4 2",
+    "explanation_en": "3 1 4 2"
+  },
+  {
+    "id": 103,
+    "question": "கீழ்க்காணும் கூற்று மற்றும் காரணத்தை ஆராய்க\nகூற்று: ஆப்கானிஸ்தான் பாரசீகம், மத்திய ஆசியா ஆகிய பகுதிகளுக்கான வணிகப் பாதைகளின் மீதான கட்டுப்பாட்டை முகலாயர்கள் இழந்தனர்.\nகாரணம்: முகலாயர்களுக்கும் சீக்கியர்களுக்கும் இடையே நெடுநாள் போர்கள் நடைபெற்றன.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான விளக்கம் இல்லை.",
+      "காரணம் கூற்றிற்கான சரியான விளக்கம்.",
+      "கூற்று தவறு காரணம் சரி.",
+      "கூற்றும் காரணமும் தவறு."
+    ],
+    "correct": 1,
+    "question_en": "Examine the following statement and reason\nAssertion: Mughals lost control over trade routes to Afghanistan, Persia, Central Asia.\nReason: There were long wars between Mughals and Sikhs.",
+    "options_en": [
+      "There is no correct explanation for the reason statement.",
+      "A valid explanation for the causal statement.",
+      "The statement is false and the reason is correct.",
+      "Both the statement and the reason are wrong."
+    ],
+    "explanation": "காரணம் கூற்றிற்கான சரியான விளக்கம்.",
+    "explanation_en": "A valid explanation for the causal statement."
+  },
+  {
+    "id": 104,
+    "question": "கீழ்க்காணும் கூற்று மற்றும் காரணத்தை ஆராய்க\nகூற்று: ஜஹாங்கீர் குரு அர்ஜுன் சிங்கை தூக்கிலிடும் படி உத்தரவிட்டார்.\nகாரணம்: குரு அர்ஜுன்சிங்கை சமய காரணங்களுக்காக ஜஹாங்கீர் கொல்ல உத்தரவிட்டார்.",
+    "options": [
+      "காரணம் கூற்றிற்கான சரியான விளக்கம் இல்லை.",
+      "காரணம் கூற்றிற்கான தவறான விளக்கம்.",
+      "கூற்று தவறு காரணம் சரி.",
+      "கூற்றும் காரணமும் தவறு."
+    ],
+    "correct": 0,
+    "question_en": "Examine the following statement and reason\nClaim: Jahangir ordered the execution of Guru Arjun Singh.\nReason: Jahangir ordered to kill Guru Arjun Singh on religious grounds.",
+    "options_en": [
+      "There is no correct explanation for the reason statement.",
+      "A false interpretation of the cause statement.",
+      "The statement is false and the reason is correct.",
+      "Both the statement and the reason are wrong."
+    ],
+    "explanation": "காரணம் கூற்றிற்கான சரியான விளக்கம் இல்லை.",
+    "explanation_en": "There is no correct explanation for the reason statement."
+  },
+  {
+    "id": 105,
+    "question": "பொருந்தாததை தேர்ந்தெடுக்க.",
+    "options": [
+      "பாபர்",
+      "ஹுமாயூன்",
+      "அக்பர்",
+      "ஷெர்ஷா"
+    ],
+    "correct": 1,
+    "question_en": "Select the one that does not apply.",
+    "options_en": [
+      "Babar",
+      "Humayun",
+      "Akbar",
+      "Shersha"
+    ],
+    "explanation": "ஹுமாயூன்",
+    "explanation_en": "Humayun"
+  },
+  {
+    "id": 106,
+    "question": "முகலாய வம்சத்தின் ஆட்சி ஐ தலைநகராகக் கொண்டு துவங்கியது.",
+    "options": [
+      "ஆக்ரா",
+      "டெல்லி",
+      "பர்கானா",
+      "காபூல்"
+    ],
+    "correct": 0,
+    "question_en": "The rule of the Mughal dynasty began with I as the capital.",
+    "options_en": [
+      "Agra",
+      "Delhi",
+      "Pargana",
+      "Kabul"
+    ],
+    "explanation": "ஆக்ரா",
+    "explanation_en": "Agra"
+  },
+  {
+    "id": 107,
+    "question": "சரியான கூற்றைத் தேர்ந்தெடு\nதிலாவார்கான் மற்றும் ஆலம்கான் காபூல் வரக் காரணம்",
+    "options": [
+      "இப்ராகிம் லோடியை பதவியை விட்டு நீக்க பாபரின் உதவியை கேட்பதற்கு.",
+      "காபூலின் மீது படையெடுப்பதற்கு.",
+      "டெல்லியையும் ஆக்ராவையும் கைப்பற்றுவதற்கு.",
+      "முதலாம் பானிபட் போரில் பங்கு பெறுவதற்கு."
+    ],
+    "correct": 0,
+    "question_en": "Choose the correct statement\nDilawar Khan and Alam Khan came to Kabul",
+    "options_en": [
+      "To seek Babur's help in removing Ibrahim Lodi from office.",
+      "to invade Kabul.",
+      "To conquer Delhi and Agra.",
+      "To take part in the First Battle of Panipat."
+    ],
+    "explanation": "இப்ராகிம் லோடியை பதவியை விட்டு நீக்க பாபரின் உதவியை கேட்பதற்கு.",
+    "explanation_en": "To seek Babur's help in removing Ibrahim Lodi from office."
+  },
+  {
+    "id": 108,
+    "question": "முதலாம் பானிபட் போரில் தோல்வியுற்றவர்",
+    "options": [
+      "ஹுமாயூன்",
+      "இப்ராஹிம் லோடி",
+      "பாபர்",
+      "அக்பர்"
+    ],
+    "correct": 1,
+    "question_en": "Defeated in the First Battle of Panipat",
+    "options_en": [
+      "Humayun",
+      "Ibrahim Lodi",
+      "Babar",
+      "Akbar"
+    ],
+    "explanation": "இப்ராஹிம் லோடி",
+    "explanation_en": "Ibrahim Lodi"
+  },
+  {
+    "id": 109,
+    "question": "கீழ்க்காணும் கூற்று மற்றும் காரணத்தை ஆராய்க.\nகூற்று: அரியணையில் இருந்து தூக்கிவீசப்பட்ட ஹுமாயூன் ஈரானுக்கு தப்பி ஓடினார்.\nகாரணம்: 1539 இல் சௌசா என்ற இடத்திலும் 1540 இல் கான்னோசியிலும் ஷெர்ஷாவிடம் ஹுமாயூன் தோற்றார்.",
+    "options": [
+      "கூற்று, காரணம் இரண்டும் சரி",
+      "காரணம் கூற்றை சரியாக விளக்கவில்லை",
+      "கூற்று சரி, காரணம் தவறு",
+      "கூற்று, காரணம் இரண்டும் தவறு"
+    ],
+    "correct": 0,
+    "question_en": "Examine the following statement and reason.\nClaim: Deposed from the throne, Humayun fled to Iran.\nReason: Humayun lost to Sher Shah at Souza in 1539 and Khannozi in 1540.",
+    "options_en": [
+      "Both statement and reason are correct",
+      "Reason does not explain the statement properly",
+      "The statement is right, the reason is wrong",
+      "Both the statement and the reason are false"
+    ],
+    "explanation": "கூற்று, காரணம் இரண்டும் சரி",
+    "explanation_en": "Both statement and reason are correct"
+  },
+  {
+    "id": 110,
+    "question": "ஹுமாயூனை ஆட்சியிழக்கச் செய்தவர்",
+    "options": [
+      "அக்பர்",
+      "ஷெர்ஷா",
+      "ராணா பிரதாப்சிங்",
+      "ஔரங்கசீப்"
+    ],
+    "correct": 1,
+    "question_en": "who overthrew Humayun",
+    "options_en": [
+      "Akbar",
+      "Shersha",
+      "Rana Pratapsingh",
+      "Aurangzeb"
+    ],
+    "explanation": "ஷெர்ஷா",
+    "explanation_en": "Shersha"
+  },
+  {
+    "id": 111,
+    "question": "ஷெர்ஷா சூர் வம்சத்தின் ஆட்சியை ல் தொடங்கினார்.",
+    "options": [
+      "டெல்லி",
+      "ஆக்ரா",
+      "வங்காளம்",
+      "மதராஸ்"
+    ],
+    "correct": 0,
+    "question_en": "Sher Shah began the reign of the Sur dynasty in",
+    "options_en": [
+      "Delhi",
+      "Agra",
+      "Bengal",
+      "Madras"
+    ],
+    "explanation": "டெல்லி",
+    "explanation_en": "Delhi"
+  },
+  {
+    "id": 112,
+    "question": "குறுகிய கால ஆட்சியில் வங்காளம் முதல் சிந்து வரை (காஷ்மீர் நீங்கலாக) பேரரசை உருவாக்கியவர்",
+    "options": [
+      "ஷாஜகான்",
+      "ஷெர்ஷா",
+      "ஔரங்கசீப்",
+      "அக்பர்"
+    ],
+    "correct": 1,
+    "question_en": "He created an empire from Bengal to Sindh (except Kashmir) in a short reign",
+    "options_en": [
+      "Shahjahan",
+      "Shersha",
+      "Aurangzeb",
+      "Akbar"
+    ],
+    "explanation": "ஷெர்ஷா",
+    "explanation_en": "Shersha"
+  },
+  {
+    "id": 113,
+    "question": "இரண்டாம் பானிபட் போரில் பங்கு பெற்றவர்கள்",
+    "options": [
+      "பாபர் மற்றும் இப்ராகிம் லோடி",
+      "அக்பர் மற்றும் ராணா உதய்சிங்",
+      "பைராம்கான் மற்றும் ஹெமு",
+      "ராணி துர்காவதி மற்றும் அக்பர்"
+    ],
+    "correct": 2,
+    "question_en": "Participated in the Second Battle of Panipat",
+    "options_en": [
+      "Babur and Ibrahim Lodi",
+      "Akbar and Rana Uday Singh",
+      "Pyramcan and Hemu",
+      "Queen Durgavati and Akbar"
+    ],
+    "explanation": "பைராம்கான் மற்றும் ஹெமு",
+    "explanation_en": "Pyramcan and Hemu"
+  },
+  {
+    "id": 114,
+    "question": "முகலாயப் படை என்பவருடன் அமைதி உடன்படிக்கை செய்து கொண்டது.",
+    "options": [
+      "ராணி சந்த் பீவி",
+      "துர்க்காதேவி",
+      "மெகருன்னிசா",
+      "சாம்பாஜி"
+    ],
+    "correct": 0,
+    "question_en": "A peace treaty was signed with the Mughal army.",
+    "options_en": [
+      "Rani Chand Bivi",
+      "Goddess Durga",
+      "Megarunnisa",
+      "Sambhaji"
+    ],
+    "explanation": "ராணி சந்த் பீவி",
+    "explanation_en": "Rani Chand Bivi"
+  },
+  {
+    "id": 115,
+    "question": "ராணா உதய்சிங் ன் அரசர்.",
+    "options": [
+      "இங்கிலாந்து",
+      "மேவார்",
+      "போர்ச்சுகல்",
+      "ஆப்கானிஸ்தான்"
+    ],
+    "correct": 1,
+    "question_en": "King of Rana Uday Singh.",
+    "options_en": [
+      "England",
+      "Mewar",
+      "Portugal",
+      "Afghanistan"
+    ],
+    "explanation": "மேவார்",
+    "explanation_en": "Mewar"
+  },
+  {
+    "id": 116,
+    "question": "கீழ்க்காணும் கூற்று மற்றும் காரணத்தை ஆராய்க.\nகூற்று: அக்பரின் தூண்டுதல் காரணமாக பைராம்கான் என்பர் குஜராத்தில் கொல்லப்பட்டார்.\nகாரணம்: பைராம்கானின் மேலாதிக்கத்தை அக்பரால் சகித்துக்கொள்ள இயலவில்லை.",
+    "options": [
+      "கூற்றிற்கு காரணம் சரியான விளக்கமல்ல.",
+      "கூற்று தவறு, காரணம் சரி.",
+      "கூற்றை காரணம் சரியாக விளக்குகிறது.",
+      "கூற்று, காரணம் இரண்டும் தவறு."
+    ],
+    "correct": 2,
+    "question_en": "Examine the following statement and reason.\nClaim: Bairam Khan was killed in Gujarat due to Akbar's instigation.\nReason: Akbar could not tolerate Bairam Khan's supremacy.",
+    "options_en": [
+      "The reason for the statement is not a valid explanation.",
+      "The statement is wrong, the reason is right.",
+      "Reason explains the statement correctly.",
+      "Both the statement and the reason are false."
+    ],
+    "explanation": "கூற்றை காரணம் சரியாக விளக்குகிறது.",
+    "explanation_en": "Reason explains the statement correctly."
+  },
+  {
+    "id": 117,
+    "question": "முஸ்லீம் அல்லாதோர் மீது விதிக்கப்பட்ட வரி",
+    "options": [
+      "நிலவரி",
+      "சொத்து வரி",
+      "ஜிஸியா",
+      "வேளாண் வரி"
+    ],
+    "correct": 2,
+    "question_en": "A tax imposed on non-Muslims",
+    "options_en": [
+      "Landlord",
+      "Property tax",
+      "Zizia",
+      "Agricultural Tax"
+    ],
+    "explanation": "ஜிஸியா",
+    "explanation_en": "Zizia"
+  },
+  {
+    "id": 118,
+    "question": "அனைத்து மத அறிஞர்களும் ஒன்று கூடி உரையாடும் இபாதத்கானா மண்டபம் உள்ள நகரம்",
+    "options": [
+      "பதேபூர் சிக்ரி",
+      "ஆக்ரா",
+      "அமிர்தசரஸ்",
+      "குவாலியர்"
+    ],
+    "correct": 0,
+    "question_en": "A city with an Ibadatkhana hall where all religious scholars gather and converse",
+    "options_en": [
+      "Badepur Sikri",
+      "Agra",
+      "Amritsar",
+      "Gwalior"
+    ],
+    "explanation": "பதேபூர் சிக்ரி",
+    "explanation_en": "Badepur Sikri"
+  },
+  {
+    "id": 119,
+    "question": "ஷாஜகான் அகமது நகரை இணைத்துக் கொண்ட ஆண்டு",
+    "options": [
+      "1632",
+      "1526",
+      "1569",
+      "1657"
+    ],
+    "correct": 0,
+    "question_en": "The year Shahjahan Ahmed annexed the city",
+    "options_en": [
+      "1632",
+      "1526",
+      "1569",
+      "1657"
+    ],
+    "explanation": "1632",
+    "explanation_en": "1632"
+  },
+  {
+    "id": 120,
+    "question": "ஷாஜகான் மற்றும் நான்கு மைந்தர்களுடன் ஆம் ஆண்டு வாரிசுரிமைப் போர் வெடித்தது.",
+    "options": [
+      "1576",
+      "1657",
+      "1556",
+      "1540"
+    ],
+    "correct": 1,
+    "question_en": "A war of succession broke out that year with Shah Jahan and the four Myndars.",
+    "options_en": [
+      "1576",
+      "1657",
+      "1556",
+      "1540"
+    ],
+    "explanation": "1657",
+    "explanation_en": "1657"
+  },
+  {
+    "id": 121,
+    "question": "வரிசைப்படுத்துக:\nI. பாரசீகம், ஆப்கானிஸ்தான் மற்றும் மத்திய ஆசிய பகுதிகளுக்கான வணிகப்பாதைகளின் கட்டுப்பாட்டை முகலாயர்கள் இழந்தனர்.\nII. சீக்கியத் தலைவர் குரு அர்ஜுன்சிங்கை தூக்கிலிடும் படி ஜஹாங்கீர் உத்தரவிட்டார்.\nIII. காந்தகாரை முகலாயர் இழந்தனர்.\nIV. முகலாயருக்கும் சீக்கியருக்கும் நெடுநாள் போர்கள் நடைபெற்றன.",
+    "options": [
+      "I, III, IV, II",
+      "II, IV, I, III",
+      "II, III, I, IV",
+      "IV, III, I, II"
+    ],
+    "correct": 1,
+    "question_en": "Sort:\nI. Mughals lost control of trade routes to Persia, Afghanistan and Central Asia.\nII. Jahangir ordered the execution of Sikh leader Guru Arjun Singh.\nIII. Mughals lost Kandahar.\nIV. Mughals and Sikhs fought long wars.",
+    "options_en": [
+      "I, III, IV, II",
+      "II, IV, I, III",
+      "II, III, I, IV",
+      "IV, III, I, II"
+    ],
+    "explanation": "II, IV, I, III",
+    "explanation_en": "II, IV, I, III"
+  },
+  {
+    "id": 122,
+    "question": "முகலாய நிர்வாகத்தின் இராணுவத் துறை அமைச்சர்",
+    "options": [
+      "வக்கீல்",
+      "திவான்",
+      "மீர்சமான்",
+      "மீர்பாக்ஷி"
+    ],
+    "correct": 3,
+    "question_en": "Minister of Military Affairs of the Mughal Administration",
+    "options_en": [
+      "Advocate",
+      "Diwan",
+      "Mirzaman",
+      "Mirbakshi"
+    ],
+    "explanation": "மீர்பாக்ஷி",
+    "explanation_en": "Mirbakshi"
+  },
+  {
+    "id": 123,
+    "question": "ஷாரியா என்பது",
+    "options": [
+      "இஸ்லாமிய சட்டங்கள்",
+      "வருவாய் மற்றும் செலவுகள்",
+      "பேரரசு",
+      "இராணுவம்"
+    ],
+    "correct": 0,
+    "question_en": "Sharia is",
+    "options_en": [
+      "Islamic laws",
+      "Revenue and expenses",
+      "Empire",
+      "Army"
+    ],
+    "explanation": "இஸ்லாமிய சட்டங்கள்",
+    "explanation_en": "Islamic laws"
+  },
+  {
+    "id": 124,
+    "question": "முகலாய நிர்வாகத்தில் இஸ்லாமிய சட்டங்களை நடைமுறைப்படுத்தியவர்",
+    "options": [
+      "சுபேதார்",
+      "சிவாஜி",
+      "மீர்பாக்ஷி",
+      "சதா-உஸ்-சுதூர்"
+    ],
+    "correct": 3,
+    "question_en": "Implemented Islamic laws in Mughal administration",
+    "options_en": [
+      "Subedar",
+      "Shivaji",
+      "Mirbakshi",
+      "Sada-us-Sudur"
+    ],
+    "explanation": "சதா-உஸ்-சுதூர்",
+    "explanation_en": "Sada-us-Sudur"
+  },
+  {
+    "id": 125,
+    "question": "மேவார் அரசரான ராணா உதய்சிங்கை அக்பர் இல் தோற்கடித்து சித்தூரைக் கைப்பற்றினார். (NMMS-2020-21)",
+    "options": [
+      "1576",
+      "1569",
+      "1568",
+      "1556"
+    ],
+    "correct": 2,
+    "question_en": "Akbar defeated Rana Udai Singh of Mewar and captured Chittoor. (NMMS-2020-21)",
+    "options_en": [
+      "1576",
+      "1569",
+      "1568",
+      "1556"
+    ],
+    "explanation": "1568",
+    "explanation_en": "1568"
+  },
+  {
+    "id": 126,
+    "question": "பின்வரும் நிகழ்வுகளை காலக்கிரமப்படி வரிசைப்படுத்தி சரியான விடையைத் தேர்ந்தெடுக்கவும். (NMMS-2020-21)\ni. ஹால்டிகார் போர்\nii. கன்னோஜி போர்\niii. இரண்டாம் பானிபட் போர்\niv. தரைன் போர்",
+    "options": [
+      "iv ii iii i",
+      "iv iii ii i",
+      "ii iii iv i",
+      "iii ii i iv"
+    ],
+    "correct": 0,
+    "question_en": "Arrange the following events in chronological order and choose the correct answer. (NMMS-2020-21)\ni. Battle of Haldikar\nii. Battle of Kannoji\niii. Second Battle of Panipat\niv. A ground war",
+    "options_en": [
+      "iv ii iii i",
+      "iv iii ii i",
+      "ii iii iv i",
+      "iii ii i iv"
+    ],
+    "explanation": "iv ii iii i",
+    "explanation_en": "iv ii iii i"
+  },
+  {
+    "id": 127,
+    "question": "பொருந்தாததைத் தேர்ந்தெடுக்கவும். (NMMS-2018)",
+    "options": [
+      "பாபர்",
+      "ஹுமாயூன்",
+      "அக்பர்",
+      "ஷெர்ஷா"
+    ],
+    "correct": 3,
+    "question_en": "Select the one that doesn't apply. (NMMS-2018)",
+    "options_en": [
+      "Babar",
+      "Humayun",
+      "Akbar",
+      "Shersha"
+    ],
+    "explanation": "ஷெர்ஷா",
+    "explanation_en": "Shersha"
+  },
+  {
+    "id": 128,
+    "question": "தாஜ்மஹாலைக் கட்டிய தலைமைச் சிற்பியின் பெயர் (NMMS-2018)",
+    "options": [
+      "ஜஹாங்கீர்",
+      "சர் தாமஸ் ரோ",
+      "மும்தாஜ்",
+      "உஸ்தாத் இஷா"
+    ],
+    "correct": 3,
+    "question_en": "Name of Chief Sculptor of Taj Mahal (NMMS-2018)",
+    "options_en": [
+      "Jahangir",
+      "Sir Thomas Roe",
+      "Mumtaz",
+      "Ustad Isha"
+    ],
+    "explanation": "உஸ்தாத் இஷா",
+    "explanation_en": "Ustad Isha"
+  }
+]
