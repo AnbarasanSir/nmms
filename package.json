@@ -7,7 +7,7 @@
     "dev": "tsx server.ts",
     "build": "vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
     "start": "node dist/server.cjs",
-    "build:cf": "vite build && powershell -Command \"Copy-Item -Path 'assets\\*' -Destination 'dist\\assets' -Recurse -Force\"",
+    "build:cf": "vite build && tsx copy-assets.ts",
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit"

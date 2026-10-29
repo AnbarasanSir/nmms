@@ -3,6 +3,9 @@ compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"
 
+[build]
+command = "npm run build:cf"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "nmms-exam-db"
