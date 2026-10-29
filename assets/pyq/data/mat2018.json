@@ -535,7 +535,7 @@
       "39"
     ],
     "correct": 0,
-    "image": "image/mat18q26.png",
+    "image": "image/mat_2018/q26.png",
     "explanation": "படங்களில் உள்ள எண்களுக்கிடையேயான தொடர் தர்க்கத்தின் அடிப்படையில் விடுபட்ட எண் கண்டறியப்பட்டுள்ளது.",
     "question_en": "Find the missing number.",
     "options_en": [
@@ -557,7 +557,7 @@
       "893"
     ],
     "correct": 1,
-    "image": "image/mat18q27.png",
+    "image": "image/mat_2018/q27.png",
     "explanation": "சுற்றுப்புற எண்களின் கணித செயல்பாடுகளின் அடிப்படையில் மைய எண் பெறப்படுகிறது.",
     "question_en": "Find the missing number.",
     "options_en": [
@@ -579,7 +579,7 @@
       "144"
     ],
     "correct": 1,
-    "image": "image/mat18q28.png",
+    "image": "image/mat_2018/q28.png",
     "explanation": "சுற்றியுள்ள எண்களின் கூட்டல்/பெருக்கல் தர்க்கத்தின் மூலம் நடுவில் உள்ள எண் கிடைக்கிறது.",
     "question_en": "Find the missing number.",
     "options_en": [
@@ -601,7 +601,7 @@
       "N"
     ],
     "correct": 0,
-    "image": "image/mat18q29.png",
+    "image": "image/mat_2018/q29.png",
     "explanation": "முதல் எழுத்துக்கள் (+1, +2), 2வது எழுத்துக்கள் (+2, +3), 3வது எழுத்துக்கள் (+3, +4) என்ற வரிசையில் கூடுகிறது. E(+3)=H, H(+4)=L.",
     "question_en": "Find the missing letter.",
     "options_en": [
@@ -623,7 +623,7 @@
       "34"
     ],
     "correct": 0,
-    "image": "image/mat18q30.png",
+    "image": "image/mat_2018/q30.png",
     "explanation": "எதிரெதிர் வட்டக் கோணப் பகுதிகளில் உள்ள எண்களின் தர்க்கம்: x மற்றும் (x * 2) + 1. 10 * 2 + 1 = 21.",
     "question_en": "Find the missing number.",
     "options_en": [
@@ -1065,7 +1065,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat18q51.png",
+    "image": "image/mat_2018/q51-55.png",
     "explanation": "Table மற்றும் Cot ஆகிய இரண்டும் வெவ்வேறு, ஆனால் இரண்டும் Furniture (அறைகலன்) வகையைச் சேர்ந்தவை.",
     "question_en": "Choose the correct Venn diagram: Table, Cot, Furniture",
     "options_en": [
@@ -1087,7 +1087,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat18q51.png",
+    "image": "image/mat_2018/q51-55.png",
     "explanation": "செங்கல் (Brick) கட்டிடம் (Building) மற்றும் பாலம் (Bridge) ஆகிய இரண்டிலும் பயன்படுத்தப்படுகிறது.",
     "question_en": "Choose the correct Venn diagram: Building, Brick, Bridge",
     "options_en": [
@@ -1109,7 +1109,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat18q51.png",
+    "image": "image/mat_2018/q51-55.png",
     "explanation": "மரத்தின் (Tree) ஒரு பகுதி கிளை (Branch), கிளையின் ஒரு பகுதி இலை (Leaf).",
     "question_en": "Choose the correct Venn diagram: Tree, Branch, Leaf",
     "options_en": [
@@ -1131,7 +1131,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat18q51.png",
+    "image": "image/mat_2018/q51-55.png",
     "explanation": "தங்கம் மற்றும் வெள்ளி இரண்டும் தனித்தனி உலோகங்கள், ஆனால் இரண்டையும் நகை (Jewellery) செய்ய பயன்படுத்தலாம்.",
     "question_en": "Choose the correct Venn diagram: Gold, Silver, Jewellery",
     "options_en": [
@@ -1153,7 +1153,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat18q51.png",
+    "image": "image/mat_2018/q51-55.png",
     "explanation": "ஆடு ஒரு பாலூட்டி (Mammal). மயில் (Peacock) ஒரு பறவை, எனவே அது பாலூட்டிகளில் சேராது.",
     "question_en": "Choose the correct Venn diagram: Goat, Mammal, Peacock",
     "options_en": [
@@ -1175,7 +1175,7 @@
       "வணிகம் செய்யாத விளையாட்டு வீரர்கள்"
     ],
     "correct": 2,
-    "image": "image/mat18q56.png",
+    "image": "image/mat_2018/q56-60.png",
     "explanation": "B என்பது செவ்வகம் (வணிகம்) மற்றும் முக்கோணம் (விளையாட்டு) ஆகிய இரண்டும் இணையும் பகுதி.",
     "question_en": "In the figure, B represents:",
     "options_en": [
@@ -1197,7 +1197,7 @@
       "C, D மற்றும் E"
     ],
     "correct": 2,
-    "image": "image/mat18q56.png",
+    "image": "image/mat_2018/q56-60.png",
     "explanation": "முக்கோணத்தில் (விளையாட்டு) இருக்க வேண்டும், ஆனால் செவ்வகத்தில் (வணிகம்) இருக்கக் கூடாது. C மற்றும் E இதற்குப் பொருந்தும்.",
     "question_en": "Code representing those engaged in sports and not in business:",
     "options_en": [
@@ -1219,7 +1219,7 @@
       "E"
     ],
     "correct": 3,
-    "image": "image/mat18q56.png",
+    "image": "image/mat_2018/q56-60.png",
     "explanation": "முக்கோணத்தில் மட்டும் இருக்க வேண்டும் (செவ்வகம் மற்றும் வட்டத்தில் வரக்கூடாது). குறியீடு E.",
     "question_en": "Code representing uneducated people engaged in sports and not in business:",
     "options_en": [
@@ -1241,7 +1241,7 @@
       "F"
     ],
     "correct": 1,
-    "image": "image/mat18q56.png",
+    "image": "image/mat_2018/q56-60.png",
     "explanation": "மூன்றும் (செவ்வகம், முக்கோணம், வட்டம்) ஒன்றிணையும் மையப் பகுதி C ஆகும்.",
     "question_en": "Code representing educated people engaged in business and sports:",
     "options_en": [
@@ -1263,7 +1263,7 @@
       "D"
     ],
     "correct": 0,
-    "image": "image/mat18q56.png",
+    "image": "image/mat_2018/q56-60.png",
     "explanation": "செவ்வகத்தில் மட்டும் இருக்க வேண்டும் (முக்கோணம் மற்றும் வட்டத்தில் வரக்கூடாது). குறியீடு A.",
     "question_en": "Businessmen who are uneducated and not engaged in sports:",
     "options_en": [
@@ -1278,7 +1278,7 @@
     "id": 61,
     "subject": "மனத்திறன்",
     "question": "C என்பவர் F-க்கு என்ன உறவு?",
-    "image": "image/mat18q60.png",
+    "image": "image/mat_2018/q60.png",
     "options": [
       "சகோதரர்",
       "சகோதரி",
@@ -1300,7 +1300,7 @@
     "id": 62,
     "subject": "மனத்திறன்",
     "question": "கீழ்க்கண்டவர்களில் எந்த ஜோடி தம்பதியர்கள் ஆவர்?",
-    "image": "image/mat18q60.png",
+    "image": "image/mat_2018/q60.png",
     "options": [
       "AD மற்றும் BC",
       "AB மற்றும் CD",
@@ -1322,7 +1322,7 @@
     "id": 63,
     "subject": "மனத்திறன்",
     "question": "கீழ்க்கண்டவர்களில் எழுத்தாளர் யார்?",
-    "image": "image/mat18q60.png",
+    "image": "image/mat_2018/q60.png",
     "options": [
       "A",
       "C",
@@ -1344,7 +1344,7 @@
     "id": 64,
     "subject": "மனத்திறன்",
     "question": "கீழ்க்கண்டவர்களில் புகைப்படக் கலைஞர் யார்?",
-    "image": "image/mat18q60.png",
+    "image": "image/mat_2018/q60.png",
     "options": [
       "A",
       "F",
@@ -1366,7 +1366,7 @@
     "id": 65,
     "subject": "மனத்திறன்",
     "question": "இவர்களில் ஆண் உறுப்பினர் என்று தெரியவருவது யார்?",
-    "image": "image/mat18q60.png",
+    "image": "image/mat_2018/q60.png",
     "options": [
       "A",
       "C",
@@ -1500,7 +1500,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat18q71.png",
+    "image": "image/mat_2018/q71.png",
     "explanation": "நீர் பிம்பத்தில் மேல் பகுதி கீழாகவும், கீழ் பகுதி மேலாகவும் தலைகீழாகத் தோன்றும்.",
     "question_en": "Water image of the number 6789:",
     "options_en": [
@@ -1522,7 +1522,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat18q72.png",
+    "image": "image/mat_2018/q72.png",
     "explanation": "நீர் பிம்பத்தில் எழுத்துக்கள் தலைகீழாக (Upside down) தோன்றும்.",
     "question_en": "Water image of the word TRAY:",
     "options_en": [
@@ -1544,7 +1544,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat18q73.png",
+    "image": "image/mat_2018/q73.png",
     "explanation": "கண்ணாடி பிம்பத்தில் வலது பகுதி இடதாகவும், இடது பகுதி வலதாகவும் மாறும்.",
     "question_en": "Mirror image of the number 4673:",
     "options_en": [
@@ -1566,7 +1566,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat18q74.png",
+    "image": "image/mat_2018/q74.png",
     "explanation": "கண்ணாடி பிம்பத்தில் வலது மற்றும் இடது பக்கங்கள் இடமாற்றம் அடையும்.",
     "question_en": "Mirror image of the word NTSE:",
     "options_en": [
@@ -1588,7 +1588,7 @@
       "1"
     ],
     "correct": 3,
-    "image": "image/mat18q75.png",
+    "image": "image/mat_2018/q75.png",
     "explanation": "இரு நிலைகளிலும் 4-க்கு அருகில் 2, 3, 5, 6 ஆகியவை வந்துள்ளன. எனவே 4-க்கு எதிர்ப்புறம் 1 மட்டுமே இருக்க முடியும்.",
     "question_en": "Two positions of a dice are given. The number opposite to '4' is:",
     "options_en": [
@@ -1610,7 +1610,7 @@
       "6"
     ],
     "correct": 0,
-    "image": "image/mat18q76.png",
+    "image": "image/mat_2018/q76.png",
     "explanation": "ஒவ்வொரு சிறிய பகுதியையும் சேர்த்து மொத்தம் 12 முக்கோணங்கள் உள்ளன.",
     "question_en": "Number of triangles in the figure:",
     "options_en": [
@@ -1632,7 +1632,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat18q77.png",
+    "image": "image/mat_2018/q77.png",
     "explanation": "கண்ணாடி பிம்பத்தில் வலது, இடது மாற்றமடையும்.",
     "question_en": "Mirror image of the figure:",
     "options_en": [
@@ -1654,7 +1654,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat18q78.png",
+    "image": "image/mat_2018/q78.png",
     "explanation": "நீர் பிம்பத்தில் மேல் மற்றும் கீழ் பகுதிகள் தலைகீழாக மாறும்.",
     "question_en": "Water image of the figure:",
     "options_en": [
@@ -1718,7 +1718,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat18q81.png",
+    "image": "image/mat_2018/q81.png",
     "explanation": "வடிவங்களின் சுழற்சி மற்றும் உள்ளமைப்பின் தர்க்க அடிப்படையில் விடை கண்டறியப்பட்டுள்ளது.",
     "question_en": "Select D based on the relationship between figures A and B.",
     "options_en": [
@@ -1740,7 +1740,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat18q82.png",
+    "image": "image/mat_2018/q82.png",
     "explanation": "வெளியே உள்ள வடிவம் உள்ளேயும், உள்ளே உள்ள வடிவம் வெளியேயும் என அமைப்புகள் இடமாற்றம் அடைகின்றன.",
     "question_en": "Select D based on the relationship between figures A and B.",
     "options_en": [
@@ -1762,7 +1762,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat18q83.png",
+    "image": "image/mat_2018/q83.png",
     "explanation": "வடிவங்களின் நேர் கோடுகள் நீக்கப்படுதல் அல்லது சேர்க்கப்படுதல் அடிப்படையில் தொடர்பு அமைந்துள்ளது.",
     "question_en": "Select D based on the relationship between figures A and B.",
     "options_en": [
@@ -1784,7 +1784,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat18q84.png",
+    "image": "image/mat_2018/q84.png",
     "explanation": "படம் A-ல் உள்ள வெற்று உருவம், B-ல் பல பிரிவுகளாகப் பிரிக்கப்படுகிறது. அதேபோல படம் C பிரிக்கப்பட்டால் D-க்கான விடை கிடைக்கும்.",
     "question_en": "Select D based on the relationship between figures A and B.",
     "options_en": [
@@ -1806,7 +1806,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat18q85.png",
+    "image": "image/mat_2018/q85.png",
     "explanation": "உள்ளே உள்ள வடிவத்தின் கோடுகள் எவ்வாறு சுழற்றப்பட்டுள்ளன என்பதைப் பொறுத்து விடை அமைகிறது.",
     "question_en": "Select D based on the relationship between figures A and B.",
     "options_en": [
@@ -1828,7 +1828,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat18q86.png",
+    "image": "image/mat_2018/q86.png",
     "explanation": "ஒவ்வொரு படியிலும் கோடுகளின் திசைகள் (மேல்நோக்கி/கீழ்நோக்கி) ஒரு குறிப்பிட்ட வரிசையில் மாறுகின்றன.",
     "question_en": "Select the figure that continues the series.",
     "options_en": [
@@ -1850,7 +1850,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat18q87.png",
+    "image": "image/mat_2018/q87.png",
     "explanation": "அம்புக்குறிகள் கடிகார முள் சுழலும் திசையிலோ (Clockwise) அல்லது எதிர் திசையிலோ 90° சுழல்கின்றன.",
     "question_en": "Select the figure that continues the series.",
     "options_en": [
@@ -1872,7 +1872,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat18q88.png",
+    "image": "image/mat_2018/q88.png",
     "explanation": "புள்ளிகள் உள்ள கோடுகளின் சுழற்சி மற்றும் இடமாற்றத்தின் அடிப்படையில் அடுத்த படம் கண்டறியப்பட்டுள்ளது.",
     "question_en": "Select the figure that continues the series.",
     "options_en": [
@@ -1894,7 +1894,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat18q89.png",
+    "image": "image/mat_2018/q89.png",
     "explanation": "முக்கோணம் மற்றும் வட்டத்தின் நிலைகள் (Positions) கட்டங்களுக்குள் கடிகார சுழற்சி முறையில் மாறுகின்றன.",
     "question_en": "Select the figure that continues the series.",
     "options_en": [
@@ -1916,7 +1916,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat18q90.png",
+    "image": "image/mat_2018/q90.png",
     "explanation": "வட்டத்தின் வெளியே உள்ள சிறு கோடுகள் (Projections) சுழலும் திசையின் அடிப்படையில் விடை அமைந்துள்ளது.",
     "question_en": "Select the figure that continues the series.",
     "options_en": [

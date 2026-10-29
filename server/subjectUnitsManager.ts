@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { Question, SubjectUnitSummary, NMMS_Subject, Quiz } from '../src/types';
+import { UnitOverrideModel, isMongoConnected } from './db';
 
 // Subject configurations and asset directory mapping
 export const SUBJECT_CONFIGS: Record<
@@ -190,9 +191,6 @@ export const UNIT_METADATA_MAP: Record<
   },
 };
 
-const DATA_DIR = path.join(process.cwd(), '.data');
-const OVERRIDES_FILE = path.join(DATA_DIR, 'unit_overrides.json');
-
 interface UnitStore {
   // Key format: `${subject}_${unitNumber}`
   overrides: Record<string, {
@@ -205,29 +203,72 @@ interface UnitStore {
 
 let unitStore: UnitStore = { overrides: {} };
 
-// Ensure data dir and load overrides
-export function initUnitStore() {
+// Ensure data dir and load overrides from MongoDB
+export async function initUnitStore() {
   try {
-    if (!fs.existsSync(DATA_DIR)) {
-      fs.mkdirSync(DATA_DIR, { recursive: true });
-    }
-    if (fs.existsSync(OVERRIDES_FILE)) {
-      unitStore = JSON.parse(fs.readFileSync(OVERRIDES_FILE, 'utf-8'));
-    } else {
-      fs.writeFileSync(OVERRIDES_FILE, JSON.stringify(unitStore, null, 2));
+    if (isMongoConnected()) {
+      const dbOverrides = await UnitOverrideModel.find({});
+      if (dbOverrides && dbOverrides.length > 0) {
+        unitStore.overrides = {};
+        for (const doc of dbOverrides) {
+          unitStore.overrides[doc.key] = {
+            metadata: doc.metadata,
+            questions: doc.questions,
+            isCustom: doc.isCustom,
+            lastUpdated: doc.lastUpdated,
+          };
+        }
+        console.log(`[MongoDB] Loaded ${dbOverrides.length} unit overrides from MongoDB.`);
+      }
     }
   } catch (err) {
-    console.error('Failed to init unit store:', err);
+    console.error('Failed to init unit store from MongoDB:', err);
   }
 }
 
-export function saveUnitStore() {
+export async function saveUnitStore(specificKey?: string) {
   try {
-    fs.writeFileSync(OVERRIDES_FILE, JSON.stringify(unitStore, null, 2));
+    if (isMongoConnected()) {
+      if (specificKey && unitStore.overrides[specificKey]) {
+        const data = unitStore.overrides[specificKey];
+        const [subject, unitNumStr] = specificKey.split('_');
+        await UnitOverrideModel.findOneAndUpdate(
+          { key: specificKey },
+          {
+            key: specificKey,
+            subject: subject || 'MAT',
+            unitNumber: parseInt(unitNumStr, 10) || 1,
+            metadata: data.metadata || {},
+            questions: data.questions || [],
+            isCustom: data.isCustom ?? true,
+            lastUpdated: data.lastUpdated || new Date().toISOString(),
+          },
+          { upsert: true, new: true }
+        );
+      } else if (!specificKey) {
+        for (const [key, data] of Object.entries(unitStore.overrides)) {
+          const [subject, unitNumStr] = key.split('_');
+          await UnitOverrideModel.findOneAndUpdate(
+            { key },
+            {
+              key,
+              subject: subject || 'MAT',
+              unitNumber: parseInt(unitNumStr, 10) || 1,
+              metadata: data.metadata || {},
+              questions: data.questions || [],
+              isCustom: data.isCustom ?? true,
+              lastUpdated: data.lastUpdated || new Date().toISOString(),
+            },
+            { upsert: true }
+          );
+        }
+      }
+    }
   } catch (err) {
-    console.error('Failed to save unit store:', err);
+    console.error('Failed to save unit store to MongoDB:', err);
   }
 }
+
 
 // Normalize image path for web rendering
 function normalizeImagePath(rawImg: string | undefined, subject: NMMS_Subject, unitNum: number): string | undefined {
@@ -491,7 +532,7 @@ export function addQuestionToUnit(
     isCustom: true,
     lastUpdated: new Date().toISOString(),
   };
-  saveUnitStore();
+  saveUnitStore(key);
 
   return { success: true, question: createdQuestion };
 }
@@ -518,7 +559,7 @@ export function deleteQuestionFromUnit(
     isCustom: true,
     lastUpdated: new Date().toISOString(),
   };
-  saveUnitStore();
+  saveUnitStore(key);
 
   return { success: true, remainingCount: questions.length };
 }
@@ -527,10 +568,14 @@ export function deleteQuestionFromUnit(
 export function resetUnitToDefault(subject: NMMS_Subject, unitNum: number): { success: boolean; questionCount: number } {
   const key = `${subject}_${unitNum}`;
   delete unitStore.overrides[key];
+  if (isMongoConnected()) {
+    UnitOverrideModel.deleteOne({ key }).catch((e) => console.error('Failed to delete unit override from MongoDB:', e));
+  }
   saveUnitStore();
   const resetQuestions = getUnitQuestions(subject, unitNum);
   return { success: true, questionCount: resetQuestions.length };
 }
+
 
 // Build a Quiz object from a Unit for deployment or student testing
 export function buildQuizFromUnit(

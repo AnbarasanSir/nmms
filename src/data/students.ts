@@ -1,7 +1,9 @@
 export interface AuthorizedStudent {
   examNumber: string;
   studentName: string;
+  school?: string;
 }
+
 
 export const AUTHORIZED_STUDENTS: AuthorizedStudent[] = [
   {

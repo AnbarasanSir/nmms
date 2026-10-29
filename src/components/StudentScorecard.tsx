@@ -24,6 +24,7 @@ interface StudentScorecardProps {
   attempt: StudentAttempt;
   questions: Question[];
   quizTitle?: string;
+  allowReview?: boolean;
   onRetake: () => void;
   onGoHome: () => void;
 }
@@ -32,6 +33,7 @@ export const StudentScorecard: React.FC<StudentScorecardProps> = ({
   attempt,
   questions,
   quizTitle,
+  allowReview = true,
   onRetake,
   onGoHome,
 }) => {
@@ -271,6 +273,7 @@ export const StudentScorecard: React.FC<StudentScorecardProps> = ({
       </div>
 
       {/* Answer Key & Step-by-Step Explanations */}
+      {allowReview && (
       <div>
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
           <h2 className="text-sm sm:text-base font-bold uppercase tracking-wider text-slate-900 dark:text-white flex items-center space-x-2">
@@ -453,6 +456,7 @@ export const StudentScorecard: React.FC<StudentScorecardProps> = ({
           })}
         </div>
       </div>
+      )}
 
       {/* Footer Retry Button Only */}
       <div className="pt-6 border-t border-slate-200 dark:border-slate-800 flex justify-center gap-3 print:hidden">

@@ -542,7 +542,7 @@
     {
         "id": 28,
         "question": "படத்தில், \\( \\angle A=60^{\\circ}, \\angle B=40^{\\circ} \\) எனில், பெரிய பக்கமானது ______________.",
-        "image": "image/unit16/q28.PNG",
+        "image": "image/unit16/q28.png",
         "options": [
             "AB",
             "BC",
@@ -583,7 +583,7 @@
     {
         "id": 30,
         "question": "கொடுக்கப்பட்ட படத்தில், x, y மற்றும் z ஆகியவை \\( \\Delta ABC \\) இன் வெளிக் கோணங்கள் எனில், x + y + z இன் மதிப்பானது ______________.",
-        "image": "image/unit16/q30.PNG",
+        "image": "image/unit16/q30.png",
         "options": [
             "\\( 180^{\\circ} \\)",
             "\\( 270^{\\circ} \\)",
@@ -680,7 +680,7 @@
             "\\( 62^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (2): \\( 68^{\\circ} \\). By applying parallel line and triangle properties to the given angles (64° and 48°), the missing angle is \\( 180^{\\circ} - 112^{\\circ} = 68^{\\circ} \\).",
-        "image": "image/unit16/q34.PNG"
+        "image": "image/unit16/q34.png"
     },
     {
         "id": 35,
@@ -701,7 +701,7 @@
             "\\( x+y+z=3(a+b+c) \\)"
         ],
         "explanation_en": "Correct answer option (3): \\( x+y+z=2(a+b+c) \\). The sum of exterior angles (x+y+z) is 360°. The sum of interior angles (a+b+c) is 180°. So, 360° = 2(180°).",
-        "image": "image/unit16/q35.PNG"
+        "image": "image/unit16/q35.png"
     },
     {
         "id": 36,
@@ -782,7 +782,7 @@
             "\\( 83^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (3): \\( 75^{\\circ} \\). Based on the isosceles triangle properties from the image, we solve for x and y to get their sum as 75°.",
-        "image": "image/unit16/q39.PNG"
+        "image": "image/unit16/q39.png"
     },
     {
         "id": 40,
@@ -803,7 +803,7 @@
             "\\( 2y=180-x \\)"
         ],
         "explanation_en": "Correct answer option (3): \\( 2x=180-y \\). If the interior angles of the triangle are x, x, and y, their sum is 180°. So, \\( 2x + y = 180^{\\circ} \\Rightarrow 2x = 180^{\\circ} - y \\).",
-        "image": "image/unit16/q40.PNG"
+        "image": "image/unit16/q40.png"
     },
     {
         "id": 41,
@@ -824,7 +824,7 @@
             "\\( 48^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (2): \\( 50^{\\circ} \\). Using properties of transversals and triangles, the angle \\( \\angle DCE \\) corresponds to \\( \\angle B \\), which is 50°.",
-        "image": "image/unit16/q41.PNG"
+        "image": "image/unit16/q41.png"
     },
     {
         "id": 42,
@@ -849,7 +849,7 @@
     {
         "id": 43,
         "question": "கொடுக்கப்பட்ட முக்கோணத்தில், \\( \\angle A=80^{\\circ} \\), AB=AC எனில், \\( \\angle B \\) மற்றும் \\( \\angle C \\) ஆகியவை ______________.",
-        "image": "image/unit16/q43.PNG",
+        "image": "image/unit16/q43.png",
         "options": [
             "\\( \\angle B=70^{\\circ}, \\angle C=70^{\\circ} \\)",
             "\\( \\angle B=60^{\\circ}, \\angle C=60^{\\circ} \\)",
@@ -886,7 +886,7 @@
             "\\( 30^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (2): \\( 60^{\\circ} \\). Derived from the geometric properties of the triangle shown in the figure.",
-        "image": "image/unit16/q44.PNG"
+        "image": "image/unit16/q44.png"
     },
     {
         "id": 45,
@@ -927,7 +927,7 @@
             "\\( 88^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (1): \\( 92^{\\circ} \\). Alternate interior angles give \\( \\angle CED = 35^{\\circ} \\). Inside triangle CDE, \\( \\angle DCE = 180^{\\circ} - (53^{\\circ} + 35^{\\circ}) = 92^{\\circ} \\).",
-        "image": "image/unit16/q46.PNG"
+        "image": "image/unit16/q46.png"
     },
     {
         "id": 47,
@@ -948,7 +948,7 @@
             "\\( 60^{\\circ}, 60^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (2): \\( 120^{\\circ}, 60^{\\circ} \\). Calculated using geometric properties from the given figure.",
-        "image": "image/unit16/q47.PNG"
+        "image": "image/unit16/q47.png"
     },
     {
         "id": 48,
@@ -969,7 +969,7 @@
             "\\( 80^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (4): \\( 80^{\\circ} \\). \\( \\angle B = 180^{\\circ} - (40^{\\circ}+60^{\\circ}) = 80^{\\circ} \\). Since PQ || AB, corresponding angle \\( \\angle PQC = \\angle B = 80^{\\circ} \\).",
-        "image": "image/unit16/q48.PNG"
+        "image": "image/unit16/q48.png"
     },
     {
         "id": 49,
@@ -990,7 +990,7 @@
             "\\( 70^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (1): \\( 40^{\\circ} \\). Derived from the properties of parallelograms and isosceles triangles.",
-        "image": "image/unit16/q49.PNG"
+        "image": "image/unit16/q49.png"
     },
     {
         "id": 50,
@@ -1011,7 +1011,7 @@
             "\\( 105^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (4): \\( 105^{\\circ} \\). Found using properties of parallel lines and transversals.",
-        "image": "image/unit16/q50.PNG"
+        "image": "image/unit16/q50.png"
     },
     {
         "id": 51,
@@ -1052,7 +1052,7 @@
             "\\( 95^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (1): \\( 215^{\\circ} \\). Derived using parallel line properties.",
-        "image": "image/unit16/q52.PNG"
+        "image": "image/unit16/q52.png"
     },
     {
         "id": 53,
@@ -1113,7 +1113,7 @@
             "\\( 80^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (1): \\( 15^{\\circ} \\). Base angle of PQR is 65°. Base angle of SQR is 50°. \\( \\angle PQS = 65^{\\circ} - 50^{\\circ} = 15^{\\circ} \\).",
-        "image": "image/unit16/q55.PNG"
+        "image": "image/unit16/q55.png"
     },
     {
         "id": 56,
@@ -1134,7 +1134,7 @@
             "\\( 100^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (3): \\( 80^{\\circ} \\). Based on the angle sum properties shown in the diagram.",
-        "image": "image/unit16/q56.PNG"
+        "image": "image/unit16/q56.png"
     },
     {
         "id": 57,
@@ -1155,7 +1155,7 @@
             "\\( 160^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (2): \\( 70^{\\circ} \\). Derived from the angles in the given figure.",
-        "image": "image/unit16/q57.PNG"
+        "image": "image/unit16/q57.png"
     },
     {
         "id": 58,
@@ -1176,7 +1176,7 @@
             "\\( 35^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (1): \\( 25^{\\circ} \\). Solved using triangle properties.",
-        "image": "image/unit16/q58.PNG"
+        "image": "image/unit16/q58.png"
     },
     {
         "id": 59,
@@ -1217,7 +1217,7 @@
             "\\( 270^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (1): \\( 360^{\\circ} \\). The figure is a hexagram formed by two overlapping triangles. The sum of all angles is \\( 2 \\times 180^{\\circ} = 360^{\\circ} \\).",
-        "image": "image/unit16/q60.PNG"
+        "image": "image/unit16/q60.png"
     },
     {
         "id": 61,
@@ -1358,7 +1358,7 @@
             "\\( 20^{\\circ} \\)"
         ],
         "explanation_en": "Correct: \\( 65^{\\circ} \\). (Calculated based on the geometry of the figure provided in the source).",
-        "image": "image/unit16/q67.PNG"
+        "image": "image/unit16/q67.png"
     },
     {
         "id": 68,
@@ -1379,7 +1379,7 @@
             "\\( 50^{\\circ} \\)"
         ],
         "explanation_en": "Correct: \\( 80^{\\circ} \\).",
-        "image": "image/unit16/q68.PNG"
+        "image": "image/unit16/q68.png"
     },
     {
         "id": 69,
@@ -1400,7 +1400,7 @@
             "\\( 110^{\\circ} \\)"
         ],
         "explanation_en": "Correct: \\( 40^{\\circ} \\).",
-        "image": "image/unit16/q69.PNG"
+        "image": "image/unit16/q69.png"
     },
     {
         "id": 70,
@@ -1461,7 +1461,7 @@
             "75°"
         ],
         "explanation_en": "Correct: 35°.",
-        "image": "image/unit16/q72.PNG"
+        "image": "image/unit16/q72.png"
     },
     {
         "id": 73,
@@ -1502,7 +1502,7 @@
             "100°"
         ],
         "explanation_en": "Correct: 105°.",
-        "image": "image/unit16/q74.PNG"
+        "image": "image/unit16/q74.png"
     },
     {
         "id": 75,
@@ -1523,7 +1523,7 @@
             "35°"
         ],
         "explanation_en": "Correct: 40°.",
-        "image": "image/unit16/q75.PNG"
+        "image": "image/unit16/q75.png"
     },
     {
         "id": 76,
@@ -1544,7 +1544,7 @@
             "25°"
         ],
         "explanation_en": "Correct: 30°.",
-        "image": "image/unit16/q76.PNG"
+        "image": "image/unit16/q76.png"
     },
     {
         "id": 77,
@@ -1565,7 +1565,7 @@
             "135°"
         ],
         "explanation_en": "Correct: 90°.",
-        "image": "image/unit16/q77.PNG"
+        "image": "image/unit16/q77.png"
     },
     {
         "id": 78,
@@ -1586,7 +1586,7 @@
             "140°"
         ],
         "explanation_en": "Correct: 80°. Exterior angle property: \\( x+y = \\text{ext angle} \\). Solving gives x=80°.",
-        "image": "image/unit16/q78.PNG"
+        "image": "image/unit16/q78.png"
     },
     {
         "id": 79,
@@ -1627,7 +1627,7 @@
             "100°"
         ],
         "explanation_en": "Correct: 100°. Calculated using the angle properties in the figure.",
-        "image": "image/unit16/q80.PNG"
+        "image": "image/unit16/q80.png"
     },
     {
         "id": 81,
@@ -1668,7 +1668,7 @@
             "75°"
         ],
         "explanation_en": "Correct: 55°. Using the properties of the isosceles triangle PR=PS, we get x=55°.",
-        "image": "image/unit16/q82.PNG"
+        "image": "image/unit16/q82.png"
     },
     {
         "id": 83,
@@ -1689,7 +1689,7 @@
             "120°"
         ],
         "explanation_en": "Correct: 100°. From the figure, in this isosceles triangle, A is 100°.",
-        "image": "image/unit16/q83.PNG"
+        "image": "image/unit16/q83.png"
     },
     {
         "id": 84,
@@ -1730,7 +1730,7 @@
             "40°"
         ],
         "explanation_en": "Correct: 35°.",
-        "image": "image/unit16/q85.PNG"
+        "image": "image/unit16/q85.png"
     },
     {
         "id": 86,
@@ -1751,7 +1751,7 @@
             "58°"
         ],
         "explanation_en": "Correct: 19°. Calculated using the angle relations in the figure.",
-        "image": "image/unit16/q86.PNG"
+        "image": "image/unit16/q86.png"
     },
     {
         "id": 87,
@@ -1792,7 +1792,7 @@
             "44°, 136°"
         ],
         "explanation_en": "Correct: 44°, 126°. Derived from angle relationships in the provided figure.",
-        "image": "image/unit16/q88.PNG"
+        "image": "image/unit16/q88.png"
     },
     {
         "id": 89,
@@ -1833,7 +1833,7 @@
             "36°"
         ],
         "explanation_en": "Correct: 36°. Using triangle properties and angle sums, ∠CED = 36°.",
-        "image": "image/unit16/q90.PNG"
+        "image": "image/unit16/q90.png"
     },
     {
         "id": 91,
@@ -1854,7 +1854,7 @@
             "65°, 80°"
         ],
         "explanation_en": "Correct: 65°, 65°. ΔPQR is isosceles with ∠P=50°. Remaining sum is 130°, so base angles x=y=65°.",
-        "image": "image/unit16/q91.PNG"
+        "image": "image/unit16/q91.png"
     },
     {
         "id": 92,
@@ -1875,7 +1875,7 @@
             "65°"
         ],
         "explanation_en": "Correct: 110°. Based on the given figure, ∠PRQ = 55°. Thus 2∠PRQ = 110°.",
-        "image": "image/unit16/q92.PNG"
+        "image": "image/unit16/q92.png"
     },
     {
         "id": 93,
@@ -2016,7 +2016,7 @@
             "AB=CD, AD=BC, BD=BD"
         ],
         "explanation_en": "Correct: ∠ADB=∠CDB, ∠ABD=∠CBD, BD=BD. (SSS criterion).",
-        "image": "image/unit16/q99.PNG"
+        "image": "image/unit16/q99.png"
     },
     {
         "id": 100,
@@ -2061,7 +2061,7 @@
     {
         "id": 102,
         "question": "கொடுக்கப்பட்ட இணைகரம் ABCD இல், கீழ்க்கண்ட எந்த வழிமுறையின்படி ΔDAB ≅ ΔBCD என நிரூபிக்க முடியாது?",
-        "image": "image/unit16/q102.PNG",
+        "image": "image/unit16/q102.png",
         "options": [
             "ப-ப-ப (SSS)",
             "ப-கோ-ப (SAS)",
@@ -2082,7 +2082,7 @@
     {
         "id": 103,
         "question": "கொடுக்கப்பட்ட செவ்வகத்தில் கீழ்க்கண்ட எந்த வழிமுறையின்படி இரு முக்கோணங்களும் சர்வசமம் என நிரூபிக்க முடியும்?",
-        "image": "image/unit16/q103.PNG",
+        "image": "image/unit16/q103.png",
         "options": [
             "ப-ப-ப (SSS)",
             "செ-க-ப (RHS)",
@@ -2119,7 +2119,7 @@
             "Figure 4"
         ],
         "explanation_en": "Correct: Figure 1 (based on side lengths shown).",
-        "image": "image/unit16/q104.PNG"
+        "image": "image/unit16/q104.png"
     },
     {
         "id": 105,
@@ -2140,7 +2140,7 @@
             "Figure 4"
         ],
         "explanation_en": "Correct: Figure 2.",
-        "image": "image/unit16/q105.PNG"
+        "image": "image/unit16/q105.png"
     },
     {
         "id": 106,
@@ -2161,7 +2161,7 @@
             "AC=RQ"
         ],
         "explanation_en": "Correct: ∠B=∠Q. Corresponding angles are equal.",
-        "image": "image/unit16/q106.PNG"
+        "image": "image/unit16/q106.png"
     },
     {
         "id": 107,
@@ -2222,7 +2222,7 @@
             "None"
         ],
         "explanation_en": "Correct: ASA. Since AD is the bisector, ∠BAD=∠CAD, AD is a common side, and ∠B=∠C, it is proven by ASA.",
-        "image": "image/unit16/q109.PNG"
+        "image": "image/unit16/q109.png"
     },
     {
         "id": 110,
@@ -2283,7 +2283,7 @@
             "\\( \\Delta NOW \\)"
         ],
         "explanation_en": "Correct answer option (2): \\( \\Delta WON \\). Based on the corresponding angles and sides in the figure, vertex A corresponds to W, R corresponds to O, and T corresponds to N.",
-        "image": "image/unit16/q112.PNG"
+        "image": "image/unit16/q112.png"
     },
     {
         "id": 113,
@@ -2304,7 +2304,7 @@
             "SSS"
         ],
         "explanation_en": "Correct answer option (4): SSS. The figure shows that all three corresponding sides of the two triangles are equal, which refers to the Side-Side-Side criterion.",
-        "image": "image/unit16/q113.PNG"
+        "image": "image/unit16/q113.png"
     },
     {
         "id": 114,
@@ -2365,7 +2365,7 @@
             "7"
         ],
         "explanation_en": "Correct answer option (1): 3. Since the triangles are congruent, corresponding sides are equal (KM = OM). \\( 4x^2+2x = 4x^2+6 \\Rightarrow 2x = 6 \\Rightarrow x = 3 \\).",
-        "image": "image/unit16/q116.PNG"
+        "image": "image/unit16/q116.png"
     },
     {
         "id": 117,
@@ -2506,7 +2506,7 @@
             "\\( 70^{\\circ}, 90^{\\circ}, 20^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (2): \\( 30^{\\circ}, 120^{\\circ}, 30^{\\circ} \\). Angles on a straight line sum to 180°. So, \\( a+5a=180 \\Rightarrow a=30^{\\circ} \\). The interior angles are \\( \\angle C=30^{\\circ} \\) and \\( \\angle B=4(30)=120^{\\circ} \\). The third angle \\( \\angle A = 180-(120+30) = 30^{\\circ} \\).",
-        "image": "image/unit16/q123.PNG"
+        "image": "image/unit16/q123.png"
     },
     {
         "id": 124,
@@ -2627,7 +2627,7 @@
             "28"
         ],
         "explanation_en": "Correct answer option (2): 20. By counting the smallest individual triangles and all combinations that form larger triangles, there are a total of 20 triangles.",
-        "image": "image/unit16/q129.PNG"
+        "image": "image/unit16/q129.png"
     },
     {
         "id": 130,
@@ -2728,7 +2728,7 @@
             "\\( 170^{\\circ} \\)"
         ],
         "explanation_en": "Correct answer option (3): \\( 50^{\\circ} \\). An exterior angle of a triangle is equal to the sum of the two opposite interior angles. Here, the exterior angle \\( 110^{\\circ} = x + 60^{\\circ} \\). Thus, \\( x = 110^{\\circ} - 60^{\\circ} = 50^{\\circ} \\).",
-        "image": "image/unit16/q134.PNG"
+        "image": "image/unit16/q134.png"
     },
     {
         "id": 135,

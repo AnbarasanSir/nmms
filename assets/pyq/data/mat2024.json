@@ -229,7 +229,7 @@
       "343"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q12.PNG",
+    "image": "image/mat_2024/q12.png",
     "explanation": "படத்திலுள்ள எண்களுக்கு இடையேயான தர்க்கம்: இரு எண்களின் கூடுதல் அல்லது பெருக்கலின் கனமூலம் (Cube) அல்லது வர்க்கம் (Square) மையத்தில் வரும்.",
     "question_en": "Find the missing number:",
     "options_en": [
@@ -250,7 +250,7 @@
       "15"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q13.PNG",
+    "image": "image/mat_2024/q13.png",
     "explanation": "வெளியே உள்ள எண்களைக் கூட்டி குறிப்பிட்ட எண்ணால் வகுக்க மைய எண் கிடைக்கும் தர்க்கம் இதில் பயன்படுத்தப்பட்டுள்ளது.",
     "question_en": "Find the missing number:",
     "options_en": [
@@ -271,7 +271,7 @@
       "26"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q14.PNG",
+    "image": "image/mat_2024/q14.png",
     "explanation": "மனித வடிவில் உள்ள எண்களில், கைகள் மற்றும் கால்களில் உள்ள எண்களைப் பெருக்கி/கழித்து தலைப்பகுதியில் உள்ள எண் கணக்கிடப்படுகிறது.",
     "question_en": "Find the missing number:",
     "options_en": [
@@ -392,7 +392,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q20-24.PNG",
+    "image": "image/mat_2024/q20-24.png",
     "explanation": "மனிதர்கள் (Men) விலங்குகள் (Animals) பிரிவுக்குள் வருவார்கள் (உள் வட்டம்). தாவரங்கள் (Plants) முற்றிலும் மாறுபட்டவை என்பதால் தனியாக ஒரு வட்டம் இருக்கும்.",
     "question_en": "Select the correct Venn diagram for: Plants, Animals, Men",
     "options_en": [
@@ -413,7 +413,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q20-24.PNG",
+    "image": "image/mat_2024/q20-24.png",
     "explanation": "அனைத்து தாய்மார்களும் பெண்கள் ஆவர் (உள் வட்டம்). தாய்மார்கள் மற்றும் பெண்களில் சிலர் மருத்துவர்களாக இருக்கலாம் (வெட்டும் வட்டம்).",
     "question_en": "Select the correct Venn diagram for: Mothers, Doctors, Women",
     "options_en": [
@@ -434,7 +434,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q20-24.PNG",
+    "image": "image/mat_2024/q20-24.png",
     "explanation": "நிமிடங்கள் நாட்களுக்குள்ளும், நாட்கள் மாதங்களுக்குள்ளும் அடங்கும் (ஒன்றினுள் ஒன்றாக அமைந்த மூன்று வட்டங்கள்).",
     "question_en": "Select the correct Venn diagram for: Minutes, Days, Months",
     "options_en": [
@@ -455,7 +455,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q20-24.PNG",
+    "image": "image/mat_2024/q20-24.png",
     "explanation": "சூரியன் (Sun) ஒரு விண்மீன் (Star) ஆகும் (உள் வட்டம்). சந்திரன் (Moon) ஒரு துணைக்கோள், எனவே அது முற்றிலும் தனியாக இருக்கும்.",
     "question_en": "Select the correct Venn diagram for: Star, Sun, Moon",
     "options_en": [
@@ -476,7 +476,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q20-24.PNG",
+    "image": "image/mat_2024/q20-24.png",
     "explanation": "திமிங்கலம் ஒரு பாலூட்டி, மீன் என்பது நீர்ப்பறவை இனம், முதலை என்பது ஊர்வன இனம். மூன்றும் முற்றிலும் வேறுபட்டவை (மூன்று தனித்தனி வட்டங்கள்).",
     "question_en": "Select the correct Venn diagram for: Whales, Fish, Crocodiles",
     "options_en": [
@@ -557,7 +557,7 @@
       "30"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q28.PNG",
+    "image": "image/mat_2024/q28.png",
     "explanation": "படத்தில் உள்ள சிறிய மற்றும் பெரிய இணைகரங்களை ஒவ்வொன்றாகக் கணக்கிட்டால் மொத்த எண்ணிக்கை 30 ஆகும்.",
     "question_en": "Number of parallelograms in the given figure:",
     "options_en": [
@@ -578,7 +578,7 @@
       "14"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q29.PNG",
+    "image": "image/mat_2024/q29.png",
     "explanation": "படத்தில் உள்ள கிடைமட்டக் கோடுகள், செங்குத்துக் கோடுகள் மற்றும் சாய்வுக் கோடுகளை எண்ணினால் குறைந்தபட்ச நேர்க்கோடுகள் 14 ஆகும்.",
     "question_en": "Minimum number of straight lines required to form the given figure:",
     "options_en": [
@@ -1001,7 +1001,7 @@
       "b"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q50-54.PNG",
+    "image": "image/mat_2024/q50-54.png",
     "explanation": "தொழிற்சாலை பணியாளர்கள் (முக்கோணம்) மற்றும் தொழிற்சங்க உறுப்பினர் (வட்டம்) ஆகிய இரண்டுக்கும் பொதுவானதும், சதுரத்திற்கு (கடின உழைப்பாளர்) வெளியே உள்ளதும் 'g' ஆகும்.",
     "question_en": "In the given figure, if the triangle represents factory workers, the circle represents trade union members, and the square represents hard workers, then answer the following questions. In the figure, who among the factory workers are trade union members but not hard workers?",
     "options_en": [
@@ -1022,7 +1022,7 @@
       "e"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q50-54.PNG",
+    "image": "image/mat_2024/q50-54.png",
     "explanation": "வட்டம் (தொழிற்சங்க உறுப்பினர்) மற்றும் சதுரத்திற்குப் (கடின உழைப்பாளர்) பொதுவானதும், முக்கோணத்திற்கு (பணியாளர்கள்) வெளியே உள்ளதும் 'd' ஆகும்.",
     "question_en": "In the given figure, if the triangle represents factory workers, the circle represents trade union members, and the square represents hard workers, then answer the following questions. In the figure, trade union members who are hard workers but not factory workers are:",
     "options_en": [
@@ -1043,7 +1043,7 @@
       "a"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q50-54.PNG",
+    "image": "image/mat_2024/q50-54.png",
     "explanation": "முக்கோணத்தில் (தொழிற்சாலை பணியாளர்) மட்டும் இருப்பதும், வட்டம் மற்றும் சதுரத்திற்குத் தொடர்பில்லாததும் 'a' ஆகும்.",
     "question_en": "In the given figure, if the triangle represents factory workers, the circle represents trade union members, and the square represents hard workers, then answer the following questions. Factory workers who are neither hard workers nor trade union members are:",
     "options_en": [
@@ -1064,7 +1064,7 @@
       "b"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q50-54.PNG",
+    "image": "image/mat_2024/q50-54.png",
     "explanation": "முக்கோணம், வட்டம் மற்றும் சதுரம் ஆகிய மூன்றிற்கும் பொதுவாக மையத்தில் அமைந்த பகுதி 'f' ஆகும்.",
     "question_en": "In the given figure, if the triangle represents factory workers, the circle represents trade union members, and the square represents hard workers, then answer the following questions. Hard workers among factory workers who are also trade union members are:",
     "options_en": [
@@ -1085,7 +1085,7 @@
       "d"
     ],
     "correct": 2,
-    "image": "image/mat_2024/q50-54.PNG",
+    "image": "image/mat_2024/q50-54.png",
     "explanation": "வட்டத்தில் (தொழிற்சங்க உறுப்பினர்) மட்டும் இருப்பதும், முக்கோணம் மற்றும் சதுரத்திற்கு வெளியே உள்ளதும் 'b' ஆகும்.",
     "question_en": "In the given figure, if the triangle represents factory workers, the circle represents trade union members, and the square represents hard workers, then answer the following questions. Trade union members who are neither hard workers nor factory workers are:",
     "options_en": [
@@ -1166,7 +1166,7 @@
       "1"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q58.PNG",
+    "image": "image/mat_2024/q58.png",
     "explanation": "பகடையின் படங்களை ஒப்பிட்டுப் பார்க்கும்போது, 2-க்கு எதிரான (மேல்) பக்கத்தில் 1 இருக்கும் என்பதை அறியலாம்.",
     "question_en": "If the bottom face of the dice is 2, then the number on the top face is:",
     "options_en": [
@@ -1387,7 +1387,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q69.PNG",
+    "image": "image/mat_2024/q69.png",
     "explanation": "படங்களில் உள்ள அமைப்புகள் ஒரு குறிப்பிட்ட கோணத்தில் கடிகாரத் திசையில் அல்லது எதிர்த்திசையில் சுழல்வதைக் கவனித்து அடுத்த படத்தைத் தேர்ந்தெடுக்க வேண்டும்.",
     "question_en": "Select the next figure in the series:",
     "options_en": [
@@ -1408,7 +1408,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q70.PNG",
+    "image": "image/mat_2024/q70.png",
     "explanation": "ஒவ்வொரு கட்டத்திலும் குறியீடுகளின் எண்ணிக்கை மாறுபடுவதையோ அல்லது அவற்றின் திசை மாறுவதையோ கவனித்து விடை காண வேண்டும்.",
     "question_en": "Select the next figure in the series:",
     "options_en": [
@@ -1429,7 +1429,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2024/q71.PNG",
+    "image": "image/mat_2024/q71.png",
     "explanation": "வரிசையாகப் பார்க்கும்போது குறியீடுகள் மேல்நோக்கி அல்லது கீழ்நோக்கி நகர்ந்து புதிய குறியீடுகள் தோன்றுவதைப் புரிந்துகொண்டு அடுத்ததைக் கணிக்கலாம்.",
     "question_en": "Select the next figure in the series:",
     "options_en": [
@@ -1450,7 +1450,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2024/q72.PNG",
+    "image": "image/mat_2024/q72.png",
     "explanation": "கிடைமட்ட மற்றும் செங்குத்து வரிசைகளில் உள்ள குறியீடுகளை கவனித்தால், ஒவ்வொரு நிரலிலும் குறிப்பிட்ட அமைப்புகள் மீண்டும் வருவது தெரியும்.",
     "question_en": "Select the next figure in the series:",
     "options_en": [
@@ -1471,7 +1471,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q73.PNG",
+    "image": "image/mat_2024/q73.png",
     "explanation": "வடிவங்களின் பக்கங்களின் எண்ணிக்கை மற்றும் கொடுக்கப்பட்ட எண்களுக்கு இடையேயான கணிதத் தொடர்பைக் கண்டறிய வேண்டும்.",
     "question_en": "Select the next figure in the series:",
     "options_en": [
@@ -1492,7 +1492,7 @@
       "(4)"
     ],
     "correct": 4,
-    "image": "image/mat_2024/q74.PNG",
+    "image": "image/mat_2024/q74.png",
     "explanation": "முதல் படத்திற்கும் இரண்டாம் படத்திற்கும் உள்ள தர்க்க ரீதியான மாற்றத்தை (சுழற்சி, இடமாற்றம், புதிய வடிவம்) மூன்றாவது படத்திற்குப் பயன்படுத்தினால் விடை கிடைக்கும்.",
     "question_en": "Select the missing one based on the relationship:",
     "options_en": [
@@ -1513,7 +1513,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q75.PNG",
+    "image": "image/mat_2024/q75.png",
     "explanation": "முதல் இரண்டு படங்களுக்கிடையே உள்ள வடிவ மாற்றத் தொடர்பைப் புரிந்து கொண்டு, விடுபட்ட 4-வது படத்தைக் கணிக்க வேண்டும்.",
     "question_en": "Select the missing one based on the relationship:",
     "options_en": [
@@ -1534,7 +1534,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2024/q76.PNG",
+    "image": "image/mat_2024/q76.png",
     "explanation": "படங்களின் சுழற்சி மற்றும் உள்ளே இருக்கும் சிறு குறியீடுகளின் இடமாற்றங்களை கவனித்து விடையளிக்க வேண்டும்.",
     "question_en": "Select the missing one based on the relationship:",
     "options_en": [
@@ -1555,7 +1555,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2024/q77.PNG",
+    "image": "image/mat_2024/q77.png",
     "explanation": "ஒப்புமை (Analogy) தர்க்கத்தின்படி, மூன்றாம் படத்தில் அதே மாற்றத்தை அப்ளை செய்து சரியான விடையைத் தேர்க.",
     "question_en": "Select the missing one based on the relationship:",
     "options_en": [
@@ -1576,7 +1576,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q78.PNG",
+    "image": "image/mat_2024/q78.png",
     "explanation": "கொடுக்கப்பட்ட படத்தின் அமைப்பை முழுமையாக்க, விடுபட்ட பகுதியில் உள்ள கோடுகள் மற்றும் வடிவங்கள் எவ்வாறு பொருந்த வேண்டும் எனப் பார்க்க வேண்டும்.",
     "question_en": "Select the missing part to complete the figure:",
     "options_en": [
@@ -1597,7 +1597,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q79.PNG",
+    "image": "image/mat_2024/q79.png",
     "explanation": "சமச்சீர் (Symmetry) தர்க்கத்தின் அடிப்படையில் மற்ற மூன்று கால்பகுதிகளைக் கொண்டு விடுபட்ட கால்பகுதியைக் கணிக்க வேண்டும்.",
     "question_en": "Select the missing part to complete the figure:",
     "options_en": [
@@ -1618,7 +1618,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q80.PNG",
+    "image": "image/mat_2024/q80.png",
     "explanation": "மையப்பகுதியை இணைக்கும் கோடுகளின் வடிவமைப்பைப் பொறுத்து எந்தப் படம் சரியாகப் பொருந்தும் எனக் கண்டறியலாம்.",
     "question_en": "Select the missing part to complete the figure:",
     "options_en": [
@@ -1639,7 +1639,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2024/q81.PNG",
+    "image": "image/mat_2024/q81.png",
     "explanation": "ஒரு பொருளைக் கண்ணாடியில் பார்க்கும்போது அதன் இடது மற்றும் வலது புறங்கள் இடம் மாறியிருக்கும். அதன்படி விடையைத் தேர்ந்தெடுக்கவும்.",
     "question_en": "Select the mirror image:",
     "options_en": [
@@ -1660,7 +1660,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q82.PNG",
+    "image": "image/mat_2024/q82.png",
     "explanation": "கண்ணாடிப் பிம்பத்தில் எழுத்துக்கள் அல்லது குறியீடுகள் இடவலமாக (Lateral inversion) மாறியிருப்பதை கவனிக்கவும்.",
     "question_en": "Select the mirror image:",
     "options_en": [
@@ -1681,7 +1681,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q83.PNG",
+    "image": "image/mat_2024/q83.png",
     "explanation": "தண்ணீர்ப் பிம்பத்தில் ஒரு பொருளின் மேல் பகுதி கீழாகவும், கீழ் பகுதி மேலாகவும் தலைகீழாகத் (Vertical inversion) தெரியும்.",
     "question_en": "Select the water image:",
     "options_en": [
@@ -1702,7 +1702,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q84.PNG",
+    "image": "image/mat_2024/q84.png",
     "explanation": "படத்தின் அடியில் உள்ள கோடுகள் மேல்நோக்கியும், மேல் உள்ளவை கீழ்நோக்கியும் தோன்றுவதைக் கொண்டு சரியான பிம்பத்தைக் கண்டறியலாம்.",
     "question_en": "Select the water image:",
     "options_en": [
@@ -1723,7 +1723,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2024/q85.PNG",
+    "image": "image/mat_2024/q85.png",
     "explanation": "நான்கு படங்களில் மூன்று படங்கள் ஒரு குறிப்பிட்ட பண்பில் ஒத்திருக்கும். விடைப் படம் மட்டும் வேறுபட்ட தர்க்கத்தைக் கொண்டிருக்கும்.",
     "question_en": "Select the odd one out:",
     "options_en": [
@@ -1744,7 +1744,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q86.PNG",
+    "image": "image/mat_2024/q86.png",
     "explanation": "படங்களில் உள்ள கோடுகளின் எண்ணிக்கை அல்லது சுழற்சியைக் கவனித்தால், ஒன்று மட்டும் அந்த பொதுவான விதியைப் பின்பற்றாது.",
     "question_en": "Select the odd one out:",
     "options_en": [
@@ -1765,7 +1765,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q87.PNG",
+    "image": "image/mat_2024/q87.png",
     "explanation": "வடிவமைப்புகளுக்கு உள்ளேயும் வெளியேயும் உள்ள குறியீடுகளின் தொடர்பைக் கொண்டு பொருந்தாததைக் கண்டுபிடிக்கலாம்.",
     "question_en": "Select the odd one out:",
     "options_en": [
@@ -1786,7 +1786,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2024/q88.PNG",
+    "image": "image/mat_2024/q88.png",
     "explanation": "படத்தில் கருப்படிக்கப்பட்ட (Shaded) பகுதிகள் எந்த வரிசையில் அமைந்துள்ளன என்பதைக் கவனித்தால் மாறுபட்ட ஒன்றைக் கண்டறியலாம்.",
     "question_en": "Select the odd one out:",
     "options_en": [
@@ -1807,7 +1807,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2024/q89.PNG",
+    "image": "image/mat_2024/q89.png",
     "explanation": "இதுவும் ஒரு Odd-One-Out கேள்வி. மூன்று படங்கள் சுழற்சி மூலம் ஒன்றையொன்று ஒத்திருக்கும், ஒன்று மட்டும் எதிர்ப்புறமாக இருக்கும்.",
     "question_en": "Select the odd one out:",
     "options_en": [
@@ -1828,7 +1828,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2024/q90.PNG",
+    "image": "image/mat_2024/q90.png",
     "explanation": "கேள்வியில் உள்ள (X) படமானது, கொடுக்கப்பட்டுள்ள நான்கு விடைப் படங்களில் ஏதேனும் ஒன்றிற்குள் உள்ளடக்கமாக (மறைந்து/Embedded) காணப்படுகிறது.",
     "question_en": "Select the figure in which figure (X) is embedded:",
     "options_en": [

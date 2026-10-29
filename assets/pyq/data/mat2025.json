@@ -9,7 +9,7 @@
       "D"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q1-5.PNG",
+    "image": "image/mat_2025/q1-5.png",
     "explanation": "தங்கம் மற்றும் துத்தநாகம் ஆகிய இரண்டும் உலோகங்கள். ஆனால், அவை இரண்டும் வெவ்வேறானவை. எனவே, ஒரு பெரிய வட்டத்தினுள் (உலோகம்) இரண்டு சிறிய தனித்தனி வட்டங்கள் (தங்கம், துத்தநாகம்) அமையும் (படம் C).",
     "question_en": "Gold, Metal, Zinc - Which Venn diagram represents the relationship between these?",
     "options_en": [
@@ -30,7 +30,7 @@
       "D"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q1-5.PNG",
+    "image": "image/mat_2025/q1-5.png",
     "explanation": "வினாக்கள் என்பது தேர்வுகள் மற்றும் பயிற்சிகள் ஆகிய இரண்டிலும் இடம்பெறும். எனவே, மூன்று வட்டங்களும் ஒன்றையொன்று வெட்டிக்கொள்ளும் அமைப்பாகும் (படம் B).",
     "question_en": "Exams, Questions, Exercises - Which Venn diagram represents the relationship between these?",
     "options_en": [
@@ -51,7 +51,7 @@
       "D"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q1-5.PNG",
+    "image": "image/mat_2025/q1-5.png",
     "explanation": "பின்னங்கள் மற்றும் முழுக்கள் ஆகிய இரண்டும் விகிதமுறு எண்கள் ஆகும். ஆனால் பின்னங்கள் வேறு, முழுக்கள் வேறு. எனவே, ஒரு பெரிய வட்டத்தினுள் இரு தனித்தனி வட்டங்கள் அமையும் (படம் C).",
     "question_en": "Rational numbers, Fractions, Integers - Which Venn diagram represents the relationship between these?",
     "options_en": [
@@ -72,7 +72,7 @@
       "E"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q1-5.PNG",
+    "image": "image/mat_2025/q1-5.png",
     "explanation": "மணல், நீர், காற்று ஆகிய மூன்றும் தங்களுக்குள் எந்தத் தொடர்பும் இல்லாத முற்றிலும் வெவ்வேறான பொருட்கள். எனவே, மூன்று தனித்தனி வட்டங்கள் அமையும் (படம் E).",
     "question_en": "Sand, Water, Air - Which Venn diagram represents the relationship between these?",
     "options_en": [
@@ -93,7 +93,7 @@
       "B"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q1-5.PNG",
+    "image": "image/mat_2025/q1-5.png",
     "explanation": "பள்ளிக்குள் வகுப்பறை இருக்கும், வகுப்பறையினுள் கரும்பலகை இருக்கும். எனவே, ஒன்றனுள் ஒன்றாக அமைந்த மூன்று வட்டங்கள் அமையும் (படம் A).",
     "question_en": "Classroom, Blackboard, School - Which Venn diagram represents the relationship between these?",
     "options_en": [
@@ -334,7 +334,7 @@
       "K"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q17.PNG",
+    "image": "image/mat_2025/q17.png",
     "explanation": "எழுத்துக்களின் இடமதிப்புகளைக் கூட்டினால் ஒரு குறிப்பிட்ட தர்க்கம் கிடைக்கும். (இப்படத்தில் உள்ள தர்க்கத்தின்படி விடை K ஆகும்).",
     "question_en": "Find the missing term: D I M / E F G H / S ?",
     "options_en": [
@@ -355,7 +355,7 @@
       "21"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q18.PNG",
+    "image": "image/mat_2025/q18.png",
     "explanation": "முக்கோணத்தின் வெளிப்புற எண்களைப் பெருக்கி/கூட்டி மைய எண்ணைக் காணும் தர்க்கம் பயன்படுத்தப்பட்டுள்ளது.",
     "question_en": "Find the missing number in the figure:",
     "options_en": [
@@ -436,7 +436,7 @@
       "503"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q22.PNG",
+    "image": "image/mat_2025/q22.png",
     "explanation": "வெளியே உள்ள எண்களின் வர்க்கம் அல்லது கனங்களைக் கூட்டி மைய எண்ணைக் காணும் தர்க்கம்.",
     "question_en": "Find the missing number in the figure:",
     "options_en": [
@@ -637,7 +637,7 @@
       "@%^"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q32-33.PNG",
+    "image": "image/mat_2025/q32-33.png",
     "explanation": "கொடுக்கப்பட்ட அட்டவணையிலிருந்து H, I, K, E ஆகிய எழுத்துக்களுக்கான நேர் குறியீடுகளைப் பிரதியிட வேண்டும்.",
     "question_en": "Find the code for HIKE:",
     "options_en": [
@@ -658,7 +658,7 @@
       "TECHA"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q32-33.PNG",
+    "image": "image/mat_2025/q32-33.png",
     "explanation": "கொடுக்கப்பட்ட குறியீடுகளை அட்டவணையுடன் ஒப்பிட்டு சரியான ஆங்கில வார்த்தையைக் கண்டறிய வேண்டும்.",
     "question_en": "Find the word equivalent to the given code:",
     "options_en": [
@@ -839,7 +839,7 @@
       "F"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q42-46.PNG",
+    "image": "image/mat_2025/q42-46.png",
     "explanation": "மூன்று வட்டங்களும் (நாடகம், ஓவியம், நடனம்) ஒன்றாக வெட்டிக்கொள்ளும் மையப்பகுதி 'E' ஆகும்.",
     "question_en": "The region representing students participating in all three competitions:",
     "options_en": [
@@ -860,7 +860,7 @@
       "H"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q42-46.PNG",
+    "image": "image/mat_2025/q42-46.png",
     "explanation": "நாடகம் என்ற வட்டத்தில் மட்டும் இருக்கும் (மற்ற வட்டங்களில் வெட்டாத) பகுதி 'A' ஆகும்.",
     "question_en": "The region representing students participating only in drama and not in dance or painting:",
     "options_en": [
@@ -881,7 +881,7 @@
       "B, D மற்றும் F"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q42-46.PNG",
+    "image": "image/mat_2025/q42-46.png",
     "explanation": "இரண்டு வட்டங்கள் மட்டும் வெட்டிக்கொள்ளும் பகுதிகள் B, D மற்றும் F ஆகும்.",
     "question_en": "The region representing students participating in exactly two competitions:",
     "options_en": [
@@ -902,7 +902,7 @@
       "E"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q42-46.PNG",
+    "image": "image/mat_2025/q42-46.png",
     "explanation": "நடனம் மற்றும் ஓவிய வட்டங்கள் மட்டும் வெட்டும் பகுதி (நாடக வட்டத்திற்கு வெளியே உள்ளது) 'D' ஆகும்.",
     "question_en": "The region representing students participating in dance and painting, but not in drama:",
     "options_en": [
@@ -923,7 +923,7 @@
       "H"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q42-46.PNG",
+    "image": "image/mat_2025/q42-46.png",
     "explanation": "மூன்று வட்டங்களுக்கும் வெளியே, ஆனால் கட்டத்திற்குள் உள்ள பகுதி 'H' ஆகும்.",
     "question_en": "The region representing students not participating in any competition:",
     "options_en": [
@@ -1004,7 +1004,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q50.PNG",
+    "image": "image/mat_2025/q50.png",
     "explanation": "திறந்த கனச்சதுர (Open Cube) விதிகளின்படி, ஒன்றுவிட்ட பக்கங்கள் எதிரெதிர் பக்கங்களாக அமையும். அதனடிப்படையில் மடித்தால் கிடைக்கும் சரியான வடிவம்.",
     "question_en": "Which cube is obtained when the given paper is folded?",
     "options_en": [
@@ -1165,7 +1165,7 @@
       "15-க்கும் மேல்"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q58.PNG",
+    "image": "image/mat_2025/q58.png",
     "explanation": "படத்தில் உள்ள சிறிய மற்றும் இணைந்த முக்கோணங்களை எண்ணினால் சரியான விடை கிடைக்கும்.",
     "question_en": "Number of triangles in the figure:",
     "options_en": [
@@ -1226,7 +1226,7 @@
       "15,000"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q61-65.PNG",
+    "image": "image/mat_2025/q61-65.png",
     "explanation": "பட்டை வரைபடத்தில் 2002 ஆம் ஆண்டிற்கான பட்டை 30,000 என்ற அளவை எட்டுகிறது.",
     "question_en": "Total number of students in the year 2002 according to the graph:",
     "options_en": [
@@ -1247,7 +1247,7 @@
       "10,000"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q61-65.PNG",
+    "image": "image/mat_2025/q61-65.png",
     "explanation": "2005-ல் அரசுப் பள்ளிகளைக் குறிக்கும் பகுதியின் அளவைக் கணக்கிட வேண்டும்.",
     "question_en": "Number of students in government schools in 2005:",
     "options_en": [
@@ -1268,7 +1268,7 @@
       "30,000"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q61-65.PNG",
+    "image": "image/mat_2025/q61-65.png",
     "explanation": "இரண்டு பள்ளிகளின் அளவுகளையும் வரைபடத்திலிருந்து கூட்டி விடை காண வேண்டும்.",
     "question_en": "Total students in government and private schools in 2001:",
     "options_en": [
@@ -1289,7 +1289,7 @@
       "2001"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q61-65.PNG",
+    "image": "image/mat_2025/q61-65.png",
     "explanation": "அரசுப் பள்ளிக்கான பட்டை எந்த வருடத்தில் அதிக உயரத்தைக் கொண்டுள்ளது என்பதை வரைபடத்தில் பார்க்கவும்.",
     "question_en": "The year with the highest number of students in government schools:",
     "options_en": [
@@ -1310,7 +1310,7 @@
       "5,000"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q61-65.PNG",
+    "image": "image/mat_2025/q61-65.png",
     "explanation": "இரண்டு பிரிவுகளின் மதிப்பைக் கழித்து விடையைக் கண்டறியலாம்.",
     "question_en": "Difference between students in government-aided and private schools in 2004:",
     "options_en": [
@@ -1431,7 +1431,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q71.PNG",
+    "image": "image/mat_2025/q71.png",
     "explanation": "கோடுகளின் அமைப்பு மற்றும் வடிவங்களின் சுழற்சியைக் கவனித்து அடுத்த படத்தைக் கண்டறியவும்.",
     "question_en": "Complete the given image series:",
     "options_en": [
@@ -1452,7 +1452,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q72.PNG",
+    "image": "image/mat_2025/q72.png",
     "explanation": "வடிவங்கள் ஒன்றன்பின் ஒன்றாக எவ்வாறு மாறுகின்றன என்பதைக் கவனிக்கவும்.",
     "question_en": "Complete the given image series:",
     "options_en": [
@@ -1473,7 +1473,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q73.PNG",
+    "image": "image/mat_2025/q73.png",
     "explanation": "படத்திலுள்ள குறியீடுகள் இடம் மாறுவதை அடிப்படையாகக் கொண்டது.",
     "question_en": "Complete the given image series:",
     "options_en": [
@@ -1494,7 +1494,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q74.PNG",
+    "image": "image/mat_2025/q74.png",
     "explanation": "கோடுகளின் எண்ணிக்கை ஒவ்வொரு படத்திலும் சீராக அதிகரிப்பதைக் காணலாம்.",
     "question_en": "Complete the given image series:",
     "options_en": [
@@ -1515,7 +1515,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q75.PNG",
+    "image": "image/mat_2025/q75.png",
     "explanation": "வடிவங்களின் சுழற்சியைப் பின்பற்றி விடையளிக்க வேண்டும்.",
     "question_en": "Complete the given image series:",
     "options_en": [
@@ -1536,7 +1536,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q76.PNG",
+    "image": "image/mat_2025/q76.png",
     "explanation": "மூன்று படங்கள் ஒரே சுழற்சி விதியைப் பின்பற்றும், ஒன்று மட்டும் மாறுபட்டு இருக்கும்.",
     "question_en": "Choose the odd one out from the given images:",
     "options_en": [
@@ -1557,7 +1557,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q77.PNG",
+    "image": "image/mat_2025/q77.png",
     "explanation": "உள்ளே இருக்கும் வடிவத்திற்கும் வெளியே இருக்கும் அமைப்பிற்கும் உள்ள தொடர்பு ஒன்றில் மட்டும் வேறுபடும்.",
     "question_en": "Choose the odd one out from the given images:",
     "options_en": [
@@ -1578,7 +1578,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q78.PNG",
+    "image": "image/mat_2025/q78.png",
     "explanation": "கருப்படிக்கப்பட்ட பகுதிகளின் அமைப்பைக் கொண்டு மாறுபட்டதைக் கண்டறியலாம்.",
     "question_en": "Choose the odd one out from the given images:",
     "options_en": [
@@ -1599,7 +1599,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q79.PNG",
+    "image": "image/mat_2025/q79.png",
     "explanation": "வடிவங்களின் சமச்சீர் (Symmetry) தன்மையைக் கொண்டு விடையளிக்கலாம்.",
     "question_en": "Choose the odd one out from the given images:",
     "options_en": [
@@ -1620,7 +1620,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q80.PNG",
+    "image": "image/mat_2025/q80.png",
     "explanation": "கோடுகளின் திசை மற்றும் அமைப்பு ஒன்றில் மட்டும் முரணாக இருக்கும்.",
     "question_en": "Choose the odd one out from the given images:",
     "options_en": [
@@ -1641,7 +1641,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q81.PNG",
+    "image": "image/mat_2025/q81.png",
     "explanation": "ஒப்புமை (Analogy) விதிப்படி முதல் இரண்டு படங்களுக்கு உள்ள அதே மாற்றத்தை அடுத்த படத்திற்கும் பயன்படுத்த வேண்டும்.",
     "question_en": "Based on the relationship between the given images, choose the missing one:",
     "options_en": [
@@ -1662,7 +1662,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q82.PNG",
+    "image": "image/mat_2025/q82.png",
     "explanation": "படங்களின் நிற மாற்றம் மற்றும் திசை மாற்றத்தைக் கவனிக்கவும்.",
     "question_en": "Based on the relationship between the given images, choose the missing one:",
     "options_en": [
@@ -1683,7 +1683,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q83.PNG",
+    "image": "image/mat_2025/q83.png",
     "explanation": "உள்ளே இருக்கும் வடிவங்கள் வெளியே வருவது போன்ற தர்க்கம்.",
     "question_en": "Based on the relationship between the given images, choose the missing one:",
     "options_en": [
@@ -1704,7 +1704,7 @@
       "(4)"
     ],
     "correct": 1,
-    "image": "image/mat_2025/q84.PNG",
+    "image": "image/mat_2025/q84.png",
     "explanation": "சுழற்சி மற்றும் நிழலிடப்பட்ட பகுதிகளின் இடமாற்றம்.",
     "question_en": "Based on the relationship between the given images, choose the missing one:",
     "options_en": [
@@ -1725,7 +1725,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q85.PNG",
+    "image": "image/mat_2025/q85.png",
     "explanation": "கோடுகளின் எண்ணிக்கை குறைதல் அல்லது அதிகரித்தல் தர்க்கம்.",
     "question_en": "Based on the relationship between the given images, choose the missing one:",
     "options_en": [
@@ -1746,7 +1746,7 @@
       "(4)"
     ],
     "correct": 3,
-    "image": "image/mat_2025/q86.PNG",
+    "image": "image/mat_2025/q86.png",
     "explanation": "கண்ணாடி பிம்பத்தில் இடது மற்றும் வலது புறங்கள் இடம் மாறியிருக்கும் (Lateral Inversion).",
     "question_en": "Which is the mirror image of the given figure?",
     "options_en": [
@@ -1767,7 +1767,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q87.PNG",
+    "image": "image/mat_2025/q87.png",
     "explanation": "நீர் பிம்பத்தில் மேல் மற்றும் கீழ் பகுதிகள் தலைகீழாக மாறியிருக்கும் (Vertical Inversion).",
     "question_en": "Which is the water image of the given figure?",
     "options_en": [
@@ -1788,7 +1788,7 @@
       "(4)"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q88.PNG",
+    "image": "image/mat_2025/q88.png",
     "explanation": "சமச்சீர் விதியின்படி விடுபட்ட வடிவத்தை நிரப்ப வேண்டும்.",
     "question_en": "Choose the correct figure (missing part):",
     "options_en": [
@@ -1809,7 +1809,7 @@
       "(4)"
     ],
     "correct": 0,
-    "image": "image/mat_2025/q89.PNG",
+    "image": "image/mat_2025/q89.png",
     "explanation": "அனைத்து மூலைகளிலும் உள்ள அமைப்புகளை ஒப்பிட்டு காலியாக உள்ள மூலைக்கான படத்தைத் தேர்க.",
     "question_en": "Choose the correct figure (missing part):",
     "options_en": [
@@ -1830,7 +1830,7 @@
       "34"
     ],
     "correct": 2,
-    "image": "image/mat_2025/q90.PNG",
+    "image": "image/mat_2025/q90.png",
     "explanation": "படத்தில் உள்ள 1x1, 2x2, மற்றும் 3x3 சதுரங்களை முறையாக எண்ணி கூட்ட வேண்டும்.",
     "question_en": "Number of squares in the given figure:",
     "options_en": [

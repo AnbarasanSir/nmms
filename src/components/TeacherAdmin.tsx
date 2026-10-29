@@ -4,8 +4,9 @@ import { AUTHORIZED_STUDENTS, AuthorizedStudent } from '../data/students';
 import { StudentScoreHistoryModal } from './StudentScoreHistoryModal';
 import { PreviousYearPapers } from './PreviousYearPapers';
 import { SubjectQuestionsTable } from './SubjectQuestionsTable';
-import { MathText } from './MathText';
+import { MathText, repairMangledLatex } from './MathText';
 import { formatSecondsToTime, formatDateTime } from '../utils/formatters';
+import { fetchJson, compressImageFile } from '../utils/api';
 import { 
   LayoutDashboard, 
   PlusCircle, 
@@ -56,12 +57,18 @@ import {
   Dices,
   Sliders,
   Hash,
-  Mail,
   ShieldCheck,
   ArrowLeft,
   Key,
   UserPlus,
-  UserMinus
+  UserMinus,
+  Database,
+  Server,
+  Activity,
+  FolderInput,
+  FolderOutput,
+  FileUp,
+  FileDown
 } from 'lucide-react';
 
 export interface UploadedImageItem {
@@ -121,22 +128,17 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     setIsDeletingAttempt(true);
     setAttemptDeleteError(null);
     try {
-      const res = await fetch(`/api/attempts/${attemptToDelete.id}`, {
+      await fetchJson(`/api/attempts/${attemptToDelete.id}`, {
         method: 'DELETE',
       });
-      if (res.ok) {
-        if (viewAttemptModal?.id === attemptToDelete.id) {
-          setViewAttemptModal(null);
-        }
-        setAttemptToDelete(null);
-        if (selectedQuizId) {
-          fetchAnalytics(selectedQuizId);
-        }
-        fetchRoster();
-      } else {
-        const err = await res.json();
-        setAttemptDeleteError(err.error || 'Failed to delete attempt');
+      if (viewAttemptModal?.id === attemptToDelete.id) {
+        setViewAttemptModal(null);
       }
+      setAttemptToDelete(null);
+      if (selectedQuizId) {
+        fetchAnalytics(selectedQuizId);
+      }
+      fetchRoster();
     } catch (err: any) {
       setAttemptDeleteError(err.message || 'Error deleting attempt');
     } finally {
@@ -183,7 +185,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
 
     setIsAddingStudent(true);
     try {
-      const res = await fetch('/api/students', {
+      const data = await fetchJson<any>('/api/students', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -193,8 +195,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         }),
       });
 
-      const data = await res.json();
-      if (res.ok && data.success) {
+      if (data && data.success) {
         setAddStudentSuccess(data.message || 'மாணவர் வெற்றிகரமாக சேர்க்கப்பட்டார்!');
         setNewExamNumber('');
         setNewStudentName('');
@@ -205,7 +206,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
           setAddStudentSuccess(null);
         }, 1200);
       } else {
-        setAddStudentError(data.error || 'மாணவரை சேர்க்க முடியவில்லை. பாதுகாப்பு PIN எண்ணை சரிபார்க்கவும்.');
+        setAddStudentError(data?.error || 'மாணவரை சேர்க்க முடியவில்லை. பாதுகாப்பு PIN எண்ணை சரிபார்க்கவும்.');
       }
     } catch (err: any) {
       setAddStudentError(err.message || 'இணைப்பு பிழை! மீண்டும் முயற்சிக்கவும்.');
@@ -228,7 +229,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
 
     setIsRemovingStudent(true);
     try {
-      const res = await fetch(`/api/students/${encodeURIComponent(studentToRemove.examNumber)}`, {
+      const data = await fetchJson<any>(`/api/students/${encodeURIComponent(studentToRemove.examNumber)}`, {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -236,8 +237,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         }),
       });
 
-      const data = await res.json();
-      if (res.ok && data.success) {
+      if (data && data.success) {
         setRemoveStudentSuccess(data.message || 'மாணவர் வெற்றிகரமாக நீக்கப்பட்டார்!');
         setRemoveStudentPin('');
         await fetchRoster();
@@ -246,7 +246,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
           setRemoveStudentSuccess(null);
         }, 1200);
       } else {
-        setRemoveStudentError(data.error || 'மாணவரை நீக்க முடியவில்லை. பாதுகாப்பு PIN எண்ணை சரிபார்க்கவும்.');
+        setRemoveStudentError(data?.error || 'மாணவரை நீக்க முடியவில்லை. பாதுகாப்பு PIN எண்ணை சரிபார்க்கவும்.');
       }
     } catch (err: any) {
       setRemoveStudentError(err.message || 'இணைப்பு பிழை! மீண்டும் முயற்சிக்கவும்.');
@@ -268,14 +268,13 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
 
     try {
       // Send to server verification
-      const res = await fetch('/api/admin/login', {
+      const data = await fetchJson<any>('/api/admin/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ password: adminPasswordInput.trim() }),
       });
 
-      const data = await res.json();
-      if (res.ok && data.authenticated) {
+      if (data && data.authenticated) {
         try {
           localStorage.setItem('nmms_admin_auth', 'true');
           sessionStorage.setItem('nmms_admin_auth', 'true');
@@ -298,7 +297,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
           setAuthError(null);
           setAdminPasswordInput('');
         } else {
-          setAuthError(data.error || 'தவறான கடவுச்சொல்! (Invalid admin password)');
+          setAuthError(data?.error || 'தவறான கடவுச்சொல்! (Invalid admin password)');
         }
       }
     } catch {
@@ -371,22 +370,21 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     setForgotSuccessMsg(null);
 
     try {
-      const res = await fetch('/api/admin/forgot-password/verify-pin', {
+      const data = await fetchJson<any>('/api/admin/forgot-password/verify-pin', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ pin: pinInput.trim() }),
       });
 
-      const data = await res.json();
-      if (res.ok && data.success && data.resetToken) {
+      if (data && data.success && data.resetToken) {
         setResetToken(data.resetToken);
         setForgotStep('reset');
         setForgotSuccessMsg('பாதுகாப்பு PIN சரிபார்க்கப்பட்டது! புதிய கடவுச்சொல்லை உள்ளிடவும்.');
       } else {
-        setForgotError(data.error || 'தவறான பாதுகாப்பு PIN எண்! தயவுசெய்து சரிபார்க்கவும்.');
+        setForgotError(data?.error || 'தவறான பாதுகாப்பு PIN எண்! தயவுசெய்து சரிபார்க்கவும்.');
       }
-    } catch {
-      setForgotError('இணைப்பு பிழை! PIN சரிபார்க்க முடியவில்லை.');
+    } catch (err: any) {
+      setForgotError(err.message || 'இணைப்பு பிழை! PIN சரிபார்க்க முடியவில்லை.');
     } finally {
       setIsVerifyingPin(false);
     }
@@ -410,7 +408,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     setForgotSuccessMsg(null);
 
     try {
-      const res = await fetch('/api/admin/forgot-password/reset-password', {
+      const data = await fetchJson<any>('/api/admin/forgot-password/reset-password', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -419,15 +417,14 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         }),
       });
 
-      const data = await res.json();
-      if (res.ok && data.success) {
+      if (data && data.success) {
         setForgotStep('success');
         setForgotSuccessMsg('கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது!');
       } else {
-        setForgotError(data.error || 'கடவுச்சொல் மாற்றுவதில் பிழை ஏற்பட்டது.');
+        setForgotError(data?.error || 'கடவுச்சொல் மாற்றுவதில் பிழை ஏற்பட்டது.');
       }
-    } catch {
-      setForgotError('இணைப்பு பிழை! கடவுச்சொல்லை புதுப்பிக்க முடியவில்லை.');
+    } catch (err: any) {
+      setForgotError(err.message || 'இணைப்பு பிழை! கடவுச்சொல்லை புதுப்பிக்க முடியவில்லை.');
     } finally {
       setIsResettingPassword(false);
     }
@@ -444,6 +441,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
   const [newQuizShuffleOptions, setNewQuizShuffleOptions] = useState<boolean>(true);
   const [newQuizEnableLimit, setNewQuizEnableLimit] = useState<boolean>(false);
   const [newQuizLimitCount, setNewQuizLimitCount] = useState<number | ''>(10);
+  const [newQuizAllowReview, setNewQuizAllowReview] = useState<boolean>(true);
   const [newQuizQuestions, setNewQuizQuestions] = useState<Question[]>([]);
   const [activeUrlInputIndex, setActiveUrlInputIndex] = useState<number | null>(null);
   const [imageUrlInputValue, setImageUrlInputValue] = useState<string>('');
@@ -479,16 +477,39 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     if (activeTab === 'roster') {
       fetchRoster();
     }
+    fetchDbStatus();
   }, [selectedQuizId, activeTab]);
+
+  // MongoDB Status Diagnostics State
+  const [dbStatus, setDbStatus] = useState<any>(null);
+  const [isLoadingDbStatus, setIsLoadingDbStatus] = useState<boolean>(false);
+  const [showDbModal, setShowDbModal] = useState<boolean>(false);
+
+  // Import / Export Questions State
+  const [showImportModal, setShowImportModal] = useState<boolean>(false);
+  const [importJsonText, setImportJsonText] = useState<string>('');
+  const [importMode, setImportMode] = useState<'replace' | 'append'>('replace');
+  const [selectedImportFileName, setSelectedImportFileName] = useState<string>('');
+  const [importStatusMsg, setImportStatusMsg] = useState<{ type: 'success' | 'error' | 'info'; text: string } | null>(null);
+  const importFileInputRef = React.useRef<HTMLInputElement>(null);
+
+  const fetchDbStatus = async () => {
+    setIsLoadingDbStatus(true);
+    try {
+      const data = await fetchJson<any>('/api/db-status');
+      setDbStatus(data);
+    } catch (err: any) {
+      setDbStatus({ connected: false, error: err.message || 'Error querying DB status' });
+    } finally {
+      setIsLoadingDbStatus(false);
+    }
+  };
 
   const fetchRoster = async () => {
     try {
-      const res = await fetch('/api/students/roster');
-      if (res.ok) {
-        const data = await res.json();
-        if (data.students && Array.isArray(data.students)) {
-          setRosterStudents(data.students);
-        }
+      const data = await fetchJson<any>('/api/students/roster');
+      if (data && data.students && Array.isArray(data.students)) {
+        setRosterStudents(data.students);
       }
     } catch (e) {
       console.error('Failed to fetch student roster status:', e);
@@ -498,9 +519,8 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
   const fetchAnalytics = async (quizId: string) => {
     setIsLoadingAnalytics(true);
     try {
-      const res = await fetch(`/api/quizzes/${quizId}/analytics`);
-      if (res.ok) {
-        const data = await res.json();
+      const data = await fetchJson<any>(`/api/quizzes/${quizId}/analytics`);
+      if (data) {
         setAnalytics(data);
       }
     } catch (e) {
@@ -527,20 +547,15 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     setIsDeletingQuiz(true);
     setDeleteError(null);
     try {
-      const res = await fetch(`/api/quizzes/${quizToDelete.id}`, {
+      await fetchJson(`/api/quizzes/${quizToDelete.id}`, {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
       });
-      if (res.ok) {
-        const deletedId = quizToDelete.id;
-        setQuizToDelete(null);
-        await onRefreshQuizzes();
-        if (selectedQuizId === deletedId) {
-          setSelectedQuizId('');
-        }
-      } else {
-        const data = await res.json();
-        setDeleteError(data.error || 'Failed to delete quiz');
+      const deletedId = quizToDelete.id;
+      setQuizToDelete(null);
+      await onRefreshQuizzes();
+      if (selectedQuizId === deletedId) {
+        setSelectedQuizId('');
       }
     } catch (e: any) {
       console.error('Failed to delete quiz:', e);
@@ -550,37 +565,23 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     }
   };
 
-  // Helper to process multiple image files into Base64 state
-  const processImageFiles = (files: FileList | File[]) => {
+  // Helper to process multiple image files with automatic compression into Base64 state
+  const processImageFiles = async (files: FileList | File[]) => {
     const fileList = Array.from(files).filter((f) => f.type.startsWith('image/'));
     if (fileList.length === 0) {
       setAiError('தயவுசெய்து படக்கோப்புகளை (JPG, PNG, WebP) மட்டும் தேர்ந்தெடுக்கவும்.');
       return;
     }
 
-    const readPromises = fileList.map((file) => {
-      return new Promise<UploadedImageItem>((resolve) => {
-        const reader = new FileReader();
-        reader.onload = () => {
-          const sizeFormatted =
-            file.size < 1024 * 1024
-              ? `${(file.size / 1024).toFixed(1)} KB`
-              : `${(file.size / (1024 * 1024)).toFixed(1)} MB`;
-          resolve({
-            id: `img-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`,
-            name: file.name,
-            size: sizeFormatted,
-            base64: reader.result as string,
-          });
-        };
-        reader.readAsDataURL(file);
-      });
-    });
-
-    Promise.all(readPromises).then((newImages) => {
-      setUploadedImages((prev) => [...prev, ...newImages]);
+    try {
+      const compressionPromises = fileList.map((file) => compressImageFile(file, 1600, 0.85));
+      const compressedImages = await Promise.all(compressionPromises);
+      setUploadedImages((prev) => [...prev, ...compressedImages]);
       setAiError(null);
-    });
+    } catch (e: any) {
+      console.error('Image compression error:', e);
+      setAiError('படங்களை செயலாக்குவதில் பிழை ஏற்பட்டது. தயவுசெய்து மீண்டும் முயற்சிக்கவும்.');
+    }
   };
 
   // Image Upload handler (supports multiple files)
@@ -699,16 +700,14 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         payload.content = pastedText;
       }
 
-      const res = await fetch('/api/ai/parse-questions', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload),
-      });
-
-      const data = await res.json();
-      if (!res.ok) {
-        throw new Error(data.error || 'AI Parsing failed');
-      }
+      const data = await fetchJson<{ success: boolean; count: number; questions: Question[] }>(
+        '/api/ai/parse-questions',
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(payload),
+        }
+      );
 
       if (data.questions && data.questions.length > 0) {
         setNewQuizQuestions((prev) => [...prev, ...data.questions]);
@@ -731,24 +730,22 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     setAiSuccessMsg(null);
 
     try {
-      const res = await fetch('/api/ai/generate-questions', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          subject: genSubject,
-          topic: genTopic,
-          count: Number(genCount) || 5,
-        }),
-      });
-
-      const data = await res.json();
-      if (!res.ok) {
-        throw new Error(data.error || 'Failed to generate questions');
-      }
+      const data = await fetchJson<{ success: boolean; count: number; questions: Question[] }>(
+        '/api/ai/generate-questions',
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            subject: genSubject,
+            topic: genTopic,
+            count: Number(genCount) || 5,
+          }),
+        }
+      );
 
       if (data.questions && data.questions.length > 0) {
         setNewQuizQuestions((prev) => [...prev, ...data.questions]);
-        setAiSuccessMsg(`Successfully generated ${data.questions.length} authentic NMMS questions!`);
+        setAiSuccessMsg(`வெற்றிகரமாக ${data.questions.length} மாதிரி NMMS வினாக்கள் உருவாக்கப்பட்டன! (Successfully generated ${data.questions.length} questions)`);
       }
     } catch (err: any) {
       console.error('Generation error:', err);
@@ -756,6 +753,193 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     } finally {
       setIsAiProcessing(false);
     }
+  };
+
+  // Normalize and parse any JSON format into valid Question[] array
+  const normalizeImportedQuestions = (raw: any): Question[] => {
+    let list: any[] = [];
+    if (Array.isArray(raw)) {
+      list = raw;
+    } else if (raw && Array.isArray(raw.questions)) {
+      list = raw.questions;
+    } else if (raw && typeof raw === 'object') {
+      list = [raw];
+    }
+
+    if (list.length === 0) {
+      throw new Error('JSON தரவில் வினாக்கள் எதுவும் கண்டறியப்படவில்லை (No question items found).');
+    }
+
+    return list.map((item, idx) => {
+      // Determine Subject
+      let subject: NMMS_Subject = defaultSubject || 'MAT';
+      if (item.subject) {
+        const s = String(item.subject).toUpperCase();
+        if (s === 'MAT' || s === 'SAT_MATHS' || s === 'SAT_SCIENCE' || s === 'SAT_SOCIAL') {
+          subject = s as NMMS_Subject;
+        }
+      }
+
+      // Determine Question text (supports questionText, question, or text)
+      const rawQuestionText = item.questionText || item.question || item.text || `Question ${idx + 1}`;
+      const questionText = repairMangledLatex(String(rawQuestionText));
+      const question_en = item.question_en 
+        ? repairMangledLatex(String(item.question_en))
+        : (typeof item.questionText_en === 'string' ? repairMangledLatex(String(item.questionText_en)) : undefined);
+
+      // Determine Options
+      let options: { id: 'A' | 'B' | 'C' | 'D'; text: string; image?: string }[] = [];
+      if (Array.isArray(item.options)) {
+        if (item.options.length > 0 && typeof item.options[0] === 'object' && item.options[0] !== null && 'id' in item.options[0]) {
+          options = item.options.map((opt: any, oIdx: number) => ({
+            id: (['A', 'B', 'C', 'D'][oIdx] || 'A') as 'A' | 'B' | 'C' | 'D',
+            text: repairMangledLatex(String(opt.text || opt.title || '')),
+            image: opt.image || undefined,
+          }));
+        } else {
+          // String array ["opt1", "opt2", "opt3", "opt4"]
+          const ids: ('A' | 'B' | 'C' | 'D')[] = ['A', 'B', 'C', 'D'];
+          options = ids.map((id, oIdx) => ({
+            id,
+            text: repairMangledLatex(String(item.options[oIdx] !== undefined ? item.options[oIdx] : '')),
+          }));
+        }
+      } else {
+        options = [
+          { id: 'A', text: '' },
+          { id: 'B', text: '' },
+          { id: 'C', text: '' },
+          { id: 'D', text: '' },
+        ];
+      }
+
+      // Ensure 4 options
+      while (options.length < 4) {
+        const ids: ('A' | 'B' | 'C' | 'D')[] = ['A', 'B', 'C', 'D'];
+        options.push({ id: ids[options.length], text: '' });
+      }
+
+      // Determine Correct Option ('A' | 'B' | 'C' | 'D' or 0-3 index)
+      let correctOption: 'A' | 'B' | 'C' | 'D' = 'A';
+      if (item.correctOption && ['A', 'B', 'C', 'D'].includes(String(item.correctOption).toUpperCase())) {
+        correctOption = String(item.correctOption).toUpperCase() as 'A' | 'B' | 'C' | 'D';
+      } else if (typeof item.correct === 'number' && item.correct >= 0 && item.correct <= 3) {
+        const map: ('A' | 'B' | 'C' | 'D')[] = ['A', 'B', 'C', 'D'];
+        correctOption = map[item.correct];
+      } else if (typeof item.correctAnswer === 'string') {
+        const ca = item.correctAnswer.trim().toUpperCase();
+        if (['A', 'B', 'C', 'D'].includes(ca)) {
+          correctOption = ca as 'A' | 'B' | 'C' | 'D';
+        }
+      }
+
+      const questionImage = item.questionImage || item.image || undefined;
+      const explanation = item.explanation ? repairMangledLatex(String(item.explanation)) : undefined;
+      const explanation_en = item.explanation_en ? repairMangledLatex(String(item.explanation_en)) : undefined;
+      const options_en = Array.isArray(item.options_en) ? item.options_en.map((o: any) => repairMangledLatex(String(o))) : undefined;
+      const marks = Number(item.marks) > 0 ? Number(item.marks) : 1;
+      const negativeMarks = Number(item.negativeMarks) || 0;
+      const topic = item.topic || 'General Topic';
+
+      return {
+        id: item.id ? String(item.id) : `q_imported_${Date.now()}_${idx}_${Math.random().toString(36).substring(2, 6)}`,
+        subject,
+        topic,
+        questionText,
+        question_en,
+        options,
+        options_en,
+        correctOption,
+        explanation,
+        explanation_en,
+        marks,
+        negativeMarks,
+        questionImage,
+      };
+    });
+  };
+
+  // Export questions queue to downloadable JSON file
+  const handleExportQuestions = () => {
+    if (newQuizQuestions.length === 0) {
+      alert('ஏற்றுமதி செய்ய வரிசையில் வினாக்கள் ஏதுமில்லை (No questions in queue to export).');
+      return;
+    }
+
+    const exportPayload = {
+      exportedAt: new Date().toISOString(),
+      quizTitle: newQuizTitle || 'NMMS Questions Export',
+      totalQuestions: newQuizQuestions.length,
+      questions: newQuizQuestions,
+    };
+
+    const jsonStr = JSON.stringify(exportPayload, null, 2);
+    const blob = new Blob([jsonStr], { type: 'application/json;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    const safeTitle = (newQuizTitle || 'nmms_questions').replace(/[^a-zA-Z0-9_-]/g, '_').toLowerCase();
+    link.href = url;
+    link.download = `${safeTitle}_${newQuizQuestions.length}q_${new Date().toISOString().slice(0, 10)}.json`;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+  };
+
+  // Process and apply imported questions
+  const handleProcessImport = (jsonData: any, mode: 'replace' | 'append') => {
+    try {
+      const parsed = normalizeImportedQuestions(jsonData);
+      if (mode === 'replace') {
+        setNewQuizQuestions(parsed);
+      } else {
+        setNewQuizQuestions((prev) => [...prev, ...parsed]);
+      }
+      setImportStatusMsg({
+        type: 'success',
+        text: `வெற்றிகரமாக ${parsed.length} வினாக்கள் ${mode === 'replace' ? 'மாற்றியமைக்கப்பட்டு' : 'சேர்க்கப்பட்டு'} வரிசையில் இணைக்கப்பட்டன!`,
+      });
+      setTimeout(() => {
+        setShowImportModal(false);
+        setImportStatusMsg(null);
+        setImportJsonText('');
+      }, 1200);
+    } catch (err: any) {
+      setImportStatusMsg({
+        type: 'error',
+        text: err.message || 'தவறான JSON கட்டமைப்பு (Invalid JSON structure).',
+      });
+    }
+  };
+
+  // Handle direct file input for JSON import
+  const handleImportFileInput = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = (event) => {
+      try {
+        const text = event.target?.result as string;
+        const parsed = JSON.parse(text);
+        const validated = normalizeImportedQuestions(parsed);
+        setSelectedImportFileName(file.name);
+        setImportJsonText(JSON.stringify(parsed, null, 2));
+        setImportStatusMsg({
+          type: 'info',
+          text: `📁 "${file.name}" கோப்பு வெற்றிகரமாக தேர்ந்தெடுக்கப்பட்டது (${validated.length} வினாக்கள் உள்ளன). வினாக்களை சேர்க்க கீழே உள்ள 'இறக்குமதி செய்' (Confirm Import) பொத்தானை அழுத்தவும்.`,
+        });
+      } catch (err: any) {
+        setSelectedImportFileName('');
+        setImportStatusMsg({
+          type: 'error',
+          text: `கோப்பை ஏற்றுவதில் பிழை: ${err.message || 'தவறான JSON வடிவம்'}.`,
+        });
+      }
+    };
+    reader.readAsText(file);
+    // reset file input
+    if (e.target) e.target.value = '';
   };
 
   // Add blank manual question
@@ -812,6 +996,7 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
     setNewQuizPassPct(quiz.passPercentage || 40);
     setNewQuizShuffleQuestions(quiz.shuffleQuestions !== false);
     setNewQuizShuffleOptions(quiz.shuffleOptions !== false);
+    setNewQuizAllowReview(quiz.allowReview !== false);
     setNewQuizEnableLimit(Boolean(quiz.enableQuestionLimit));
     setNewQuizLimitCount(quiz.questionsPerAttempt || 10);
     setNewQuizQuestions(JSON.parse(JSON.stringify(quiz.questions || [])));
@@ -860,31 +1045,26 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         enableQuestionLimit: Boolean(newQuizEnableLimit),
         questionsPerAttempt: newQuizEnableLimit ? Math.max(1, Number(newQuizLimitCount) || 10) : undefined,
         showResultsImmediately: true,
-        allowReview: true,
+        allowReview: Boolean(newQuizAllowReview),
         status: 'active',
         questions: newQuizQuestions,
       };
 
-      const res = await fetch('/api/quizzes', {
+      await fetchJson('/api/quizzes', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(quizPayload),
       });
 
-      if (res.ok) {
-        alert(
-          isEditing
-            ? `✅ வினாத்தாள் (${newQuizTitle.trim()}) வெற்றிகரமாக திருத்தப்பட்டு மறுவெளியீடு செய்யப்பட்டது!\n(Exam paper updated & republished successfully as the same exam!)`
-            : '✅ புதிய NMMS வினாத்தாள் வெற்றிகரமாக உருவாக்கப்பட்டது!\n(New Exam Paper published successfully!)'
-        );
-        setEditingQuizId(null);
-        setNewQuizQuestions([]);
-        onRefreshQuizzes();
-        setActiveTab('quizzes');
-      } else {
-        const err = await res.json();
-        alert(`Failed to save quiz: ${err.error || 'Unknown error'}`);
-      }
+      alert(
+        isEditing
+          ? `✅ வினாத்தாள் (${newQuizTitle.trim()}) வெற்றிகரமாக திருத்தப்பட்டு மறுவெளியீடு செய்யப்பட்டது!\n(Exam paper updated & republished successfully as the same exam!)`
+          : '✅ புதிய NMMS வினாத்தாள் வெற்றிகரமாக உருவாக்கப்பட்டது!\n(New Exam Paper published successfully!)'
+      );
+      setEditingQuizId(null);
+      setNewQuizQuestions([]);
+      onRefreshQuizzes();
+      setActiveTab('quizzes');
     } catch (e: any) {
       alert(`Error saving quiz: ${e.message}`);
     }
@@ -1294,6 +1474,24 @@ export const TeacherAdmin: React.FC<TeacherAdminProps> = ({
         >
           <UserCheck className="w-3.5 h-3.5" />
           <span>Roster ({AUTHORIZED_STUDENTS.length})</span>
+        </button>
+
+        {/* Database Diagnostic Status Button */}
+        <button
+          onClick={() => {
+            fetchDbStatus();
+            setShowDbModal(true);
+          }}
+          title="MongoDB Status & Diagnostics"
+          className={`flex items-center space-x-1.5 px-2.5 sm:px-3 py-1.5 rounded-lg text-xs font-bold transition-all whitespace-nowrap flex-shrink-0 border cursor-pointer ${
+            dbStatus?.connected
+              ? 'bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 border-emerald-300 dark:border-emerald-800/60 hover:bg-emerald-100 dark:hover:bg-emerald-900/40'
+              : 'bg-amber-50 dark:bg-amber-950/40 text-amber-700 dark:text-amber-300 border-amber-300 dark:border-amber-800/60 hover:bg-amber-100 dark:hover:bg-amber-900/40'
+          }`}
+        >
+          <Database className="w-3.5 h-3.5" />
+          <span>{dbStatus?.connected ? 'MongoDB: Active' : 'MongoDB: Standalone'}</span>
+          <span className={`w-2 h-2 rounded-full ${dbStatus?.connected ? 'bg-emerald-500 animate-pulse' : 'bg-amber-500'}`} />
         </button>
       </div>
 
@@ -2316,6 +2514,36 @@ ${shareUrl}`;
                     </div>
                   )}
                 </div>
+
+                {/* Switch 4: Show Question Review */}
+                <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-700/80 flex items-center justify-between gap-3">
+                  <div className="space-y-0.5">
+                    <div className="flex items-center space-x-1.5">
+                      <HelpCircle className="w-3.5 h-3.5 text-emerald-600" />
+                      <span className="text-xs font-bold text-slate-900 dark:text-white">
+                        Show Question Review & Solutions (விடைகளை சரிபார்த்தல்)
+                      </span>
+                    </div>
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400">
+                      Allow students to review their answers and see step-by-step solutions after the exam. If disabled, only the scorecard is shown.
+                    </p>
+                  </div>
+                  <button
+                    type="button"
+                    role="switch"
+                    aria-checked={newQuizAllowReview}
+                    onClick={() => setNewQuizAllowReview(!newQuizAllowReview)}
+                    className={`relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out focus:outline-none ${
+                      newQuizAllowReview ? 'bg-emerald-600' : 'bg-slate-300 dark:bg-slate-700'
+                    }`}
+                  >
+                    <span
+                      className={`pointer-events-none inline-block h-5 w-5 transform rounded-full bg-white shadow ring-0 transition duration-200 ease-in-out ${
+                        newQuizAllowReview ? 'translate-x-5' : 'translate-x-0'
+                      }`}
+                    />
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -2324,7 +2552,7 @@ ${shareUrl}`;
           <div className="lg:col-span-6 space-y-4">
             <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 shadow-sm border border-slate-200 dark:border-slate-800 flex flex-col justify-between min-h-[500px]">
               <div>
-                <div className="flex items-center justify-between border-b border-slate-100 dark:border-slate-800 pb-3 mb-4">
+                <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 dark:border-slate-800 pb-3 mb-4">
                   <div>
                     <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 dark:text-white">
                       Exam Questions Queue ({newQuizQuestions.length})
@@ -2334,14 +2562,58 @@ ${shareUrl}`;
                     </p>
                   </div>
 
-                  <button
-                    type="button"
-                    onClick={handleAddBlankQuestion}
-                    className="px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 text-xs font-semibold flex items-center space-x-1"
-                  >
-                    <PlusCircle className="w-3.5 h-3.5" />
-                    <span>Add Manual</span>
-                  </button>
+                  <div className="flex items-center space-x-1.5 sm:space-x-2">
+                    {/* Hidden file input for direct JSON file import */}
+                    <input
+                      type="file"
+                      ref={importFileInputRef}
+                      accept=".json,application/json"
+                      className="hidden"
+                      onChange={handleImportFileInput}
+                    />
+
+                    {/* Import Questions Button */}
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setImportJsonText('');
+                        setSelectedImportFileName('');
+                        setImportStatusMsg(null);
+                        setShowImportModal(true);
+                      }}
+                      className="px-2.5 sm:px-3 py-1.5 rounded-lg bg-indigo-50 dark:bg-indigo-950/50 hover:bg-indigo-100 dark:hover:bg-indigo-900/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200 dark:border-indigo-800/70 text-xs font-bold flex items-center space-x-1 transition-all cursor-pointer shadow-xs"
+                      title="வினாக்களை இறக்குமதி செய் (Import Questions JSON)"
+                    >
+                      <FolderInput className="w-3.5 h-3.5" />
+                      <span>Import</span>
+                    </button>
+
+                    {/* Export Questions Button */}
+                    <button
+                      type="button"
+                      onClick={handleExportQuestions}
+                      disabled={newQuizQuestions.length === 0}
+                      className={`px-2.5 sm:px-3 py-1.5 rounded-lg text-xs font-bold flex items-center space-x-1 transition-all shadow-xs ${
+                        newQuizQuestions.length === 0
+                          ? 'bg-slate-100 dark:bg-slate-800/40 text-slate-400 dark:text-slate-600 border border-slate-200 dark:border-slate-800 cursor-not-allowed'
+                          : 'bg-emerald-50 dark:bg-emerald-950/50 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800/70 cursor-pointer'
+                      }`}
+                      title={newQuizQuestions.length === 0 ? 'ஏற்றுமதி செய்ய வினாக்கள் இல்லை' : 'வினாக்களை ஏற்றுமதி செய் (Export Questions JSON)'}
+                    >
+                      <FolderOutput className="w-3.5 h-3.5" />
+                      <span>Export</span>
+                    </button>
+
+                    {/* Add Manual Button */}
+                    <button
+                      type="button"
+                      onClick={handleAddBlankQuestion}
+                      className="px-2.5 sm:px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 text-xs font-bold flex items-center space-x-1 cursor-pointer transition-all border border-slate-200 dark:border-slate-700"
+                    >
+                      <PlusCircle className="w-3.5 h-3.5" />
+                      <span>Add Manual</span>
+                    </button>
+                  </div>
                 </div>
 
                 {/* Questions List */}
@@ -2740,7 +3012,7 @@ ${shareUrl}`;
             <div className="py-20 text-center text-slate-400 text-xs">
               Loading real-time performance analytics...
             </div>
-          ) : analytics ? (
+          ) : analytics && analytics.totalAttempts > 0 ? (
             <div className="space-y-6">
               {/* Top Stats Cards */}
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
@@ -2912,15 +3184,24 @@ ${shareUrl}`;
               </select>
             </div>
 
-            <div className="relative w-full sm:w-auto">
-              <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
-              <input
-                type="text"
-                placeholder="Search candidate or roll no..."
-                value={searchFilter}
-                onChange={(e) => setSearchFilter(e.target.value)}
-                className="w-full sm:w-64 pl-8 pr-4 py-2 rounded-xl border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs text-slate-900 dark:text-white placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-indigo-500"
-              />
+            <div className="flex items-center space-x-2 w-full sm:w-auto">
+              <div className="relative w-full sm:w-auto">
+                <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
+                <input
+                  type="text"
+                  placeholder="Search candidate or roll no..."
+                  value={searchFilter}
+                  onChange={(e) => setSearchFilter(e.target.value)}
+                  className="w-full sm:w-64 pl-8 pr-4 py-2 rounded-xl border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-xs text-slate-900 dark:text-white placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                />
+              </div>
+              <button
+                onClick={handleExportCSV}
+                className="px-3.5 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 text-xs font-semibold flex items-center space-x-1.5 transition-colors flex-shrink-0"
+              >
+                <Download className="w-3.5 h-3.5" />
+                <span className="hidden sm:inline">Export</span>
+              </button>
             </div>
           </div>
 
@@ -3610,6 +3891,344 @@ ${shareUrl}`;
                 </button>
               </div>
             </form>
+          </div>
+        </div>
+      )}
+
+      {/* ------------------------------------------------------------- */}
+      {/* MONGODB DIAGNOSTIC MODAL */}
+      {/* ------------------------------------------------------------- */}
+      {showDbModal && (
+        <div className="fixed inset-0 z-50 bg-black/60 backdrop-blur-xs flex items-center justify-center p-3 sm:p-4 animate-in fade-in">
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-lg w-full p-4 sm:p-6 shadow-2xl space-y-4">
+            {/* Header */}
+            <div className="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-800">
+              <div className="flex items-center space-x-2.5">
+                <div className={`w-9 h-9 rounded-xl flex items-center justify-center ${
+                  dbStatus?.connected
+                    ? 'bg-emerald-500/10 text-emerald-500 border border-emerald-500/20'
+                    : 'bg-amber-500/10 text-amber-500 border border-amber-500/20'
+                }`}>
+                  <Database className="w-5 h-5" />
+                </div>
+                <div>
+                  <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white">
+                    MongoDB தரவுத்தள நிலை (Database Status)
+                  </h3>
+                  <p className="text-[11px] text-slate-500 dark:text-slate-400">
+                    Real-time MongoDB connection &amp; storage diagnostics
+                  </p>
+                </div>
+              </div>
+              <button
+                type="button"
+                onClick={() => setShowDbModal(false)}
+                className="p-1.5 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 cursor-pointer"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+
+            {/* Main Status Card */}
+            <div className={`p-4 rounded-xl border ${
+              dbStatus?.connected
+                ? 'bg-emerald-50/50 dark:bg-emerald-950/30 border-emerald-200 dark:border-emerald-800/60'
+                : 'bg-amber-50/50 dark:bg-amber-950/30 border-amber-200 dark:border-amber-800/60'
+            } space-y-2.5`}>
+              <div className="flex items-center justify-between">
+                <div className="flex items-center space-x-2">
+                  <span className={`w-3 h-3 rounded-full ${dbStatus?.connected ? 'bg-emerald-500 animate-pulse' : 'bg-amber-500'}`} />
+                  <span className="text-xs font-bold text-slate-900 dark:text-white uppercase tracking-wider">
+                    {dbStatus?.connected ? 'MongoDB இணைக்கப்பட்டுள்ளது (Operational)' : 'நினைவக நிலை (Standalone Memory)'}
+                  </span>
+                </div>
+                {dbStatus?.latencyMs && (
+                  <span className="text-[11px] font-mono px-2 py-0.5 rounded-full bg-emerald-100 dark:bg-emerald-900/60 text-emerald-700 dark:text-emerald-300 font-bold">
+                    {dbStatus.latencyMs} latency
+                  </span>
+                )}
+              </div>
+              <p className="text-xs text-slate-600 dark:text-slate-300">
+                {dbStatus?.message || (dbStatus?.connected ? 'MongoDB தரவுத்தளம் சரியாக இயங்குகிறது.' : 'உள்ளூர் தற்காலிக நினைவகத்தில் இயங்குகிறது.')}
+              </p>
+            </div>
+
+            {/* Collection Counters */}
+            {dbStatus?.collections ? (
+              <div className="space-y-2">
+                <h4 className="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">
+                  MongoDB சேகரிப்புகள் (Collections Count)
+                </h4>
+                <div className="grid grid-cols-2 gap-2.5">
+                  <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/60">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 font-medium">மாணவர்கள் (Students)</p>
+                    <p className="text-lg font-extrabold text-indigo-600 dark:text-indigo-400">
+                      {dbStatus.collections.students?.count ?? 0}
+                    </p>
+                  </div>
+                  <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/60">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 font-medium">வினாத்தாள்கள் (Quizzes)</p>
+                    <p className="text-lg font-extrabold text-blue-600 dark:text-blue-400">
+                      {dbStatus.collections.quizzes?.count ?? 0}
+                    </p>
+                  </div>
+                  <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/60">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 font-medium">முயற்சிகள் (Attempts)</p>
+                    <p className="text-lg font-extrabold text-emerald-600 dark:text-emerald-400">
+                      {dbStatus.collections.attempts?.count ?? 0}
+                    </p>
+                  </div>
+                  <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/60">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 font-medium">அலகு மாற்றங்கள் (Overrides)</p>
+                    <p className="text-lg font-extrabold text-purple-600 dark:text-purple-400">
+                      {dbStatus.collections.unitOverrides?.count ?? 0}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ) : (
+              <div className="space-y-2">
+                <h4 className="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">
+                  நினைவக தரவு எண்ணிக்கை (Active Memory Counts)
+                </h4>
+                <div className="grid grid-cols-2 gap-2.5">
+                  <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/60">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 font-medium">மாணவர்கள் (Students)</p>
+                    <p className="text-lg font-extrabold text-indigo-600 dark:text-indigo-400">
+                      {dbStatus?.memoryState?.totalStudents ?? AUTHORIZED_STUDENTS.length}
+                    </p>
+                  </div>
+                  <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700/60">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 font-medium">வினாத்தாள்கள் (Quizzes)</p>
+                    <p className="text-lg font-extrabold text-blue-600 dark:text-blue-400">
+                      {dbStatus?.memoryState?.totalQuizzes ?? quizzes.length}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {/* Actions */}
+            <div className="flex items-center justify-between pt-2 border-t border-slate-200 dark:border-slate-800">
+              <button
+                type="button"
+                disabled={isLoadingDbStatus}
+                onClick={fetchDbStatus}
+                className="inline-flex items-center space-x-1.5 px-3 py-1.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 text-xs font-bold transition-all cursor-pointer disabled:opacity-50"
+              >
+                <RefreshCw className={`w-3.5 h-3.5 ${isLoadingDbStatus ? 'animate-spin' : ''}`} />
+                <span>நிலை மறுசரிபார் (Refresh Status)</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => setShowDbModal(false)}
+                className="px-4 py-1.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white text-xs font-bold transition-all cursor-pointer"
+              >
+                சரி (Close)
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Import Questions Modal */}
+      {showImportModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/70 backdrop-blur-xs">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 max-w-xl w-full p-5 sm:p-6 space-y-4 max-h-[90vh] overflow-y-auto">
+            <div className="flex items-center justify-between border-b border-slate-100 dark:border-slate-800 pb-3">
+              <div className="flex items-center space-x-2.5">
+                <div className="w-8 h-8 rounded-xl bg-indigo-100 dark:bg-indigo-900/50 flex items-center justify-center text-indigo-600 dark:text-indigo-400">
+                  <FolderInput className="w-4 h-4" />
+                </div>
+                <div>
+                  <h3 className="text-sm font-bold text-slate-900 dark:text-white">
+                    வினாக்களை இறக்குமதி செய் (Import Questions)
+                  </h3>
+                  <p className="text-xs text-slate-400">
+                    JSON கோப்பு அல்லது குறியீட்டைப் பயன்படுத்தி வினாக்களை சேர்க்கவும்
+                  </p>
+                </div>
+              </div>
+              <button
+                type="button"
+                onClick={() => {
+                  setShowImportModal(false);
+                  setImportStatusMsg(null);
+                }}
+                className="p-1.5 rounded-lg text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+
+            {/* Import Mode Selector */}
+            <div className="space-y-1.5">
+              <label className="text-xs font-bold text-slate-700 dark:text-slate-300">
+                இறக்குமதி முறை (Import Mode):
+              </label>
+              <div className="grid grid-cols-2 gap-2">
+                <button
+                  type="button"
+                  onClick={() => setImportMode('replace')}
+                  className={`p-2.5 rounded-xl border text-xs font-semibold flex items-center space-x-2 transition-all cursor-pointer ${
+                    importMode === 'replace'
+                      ? 'bg-indigo-50 dark:bg-indigo-950/60 border-indigo-500 text-indigo-700 dark:text-indigo-300 ring-2 ring-indigo-500/20'
+                      : 'bg-slate-50 dark:bg-slate-800/40 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-400'
+                  }`}
+                >
+                  <RefreshCw className="w-3.5 h-3.5 text-indigo-500" />
+                  <div className="text-left">
+                    <p className="font-bold">மாற்றியமை (Replace)</p>
+                    <p className="text-[10px] opacity-75">தற்போதுள்ள {newQuizQuestions.length} வினாக்களை மாற்றும்</p>
+                  </div>
+                </button>
+
+                <button
+                  type="button"
+                  onClick={() => setImportMode('append')}
+                  className={`p-2.5 rounded-xl border text-xs font-semibold flex items-center space-x-2 transition-all cursor-pointer ${
+                    importMode === 'append'
+                      ? 'bg-emerald-50 dark:bg-emerald-950/60 border-emerald-500 text-emerald-700 dark:text-emerald-300 ring-2 ring-emerald-500/20'
+                      : 'bg-slate-50 dark:bg-slate-800/40 border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-400'
+                  }`}
+                >
+                  <PlusCircle className="w-3.5 h-3.5 text-emerald-500" />
+                  <div className="text-left">
+                    <p className="font-bold">கூடுதலாக இணை (Append)</p>
+                    <p className="text-[10px] opacity-75">தற்போதுள்ள {newQuizQuestions.length} உடன் சேர்க்கும்</p>
+                  </div>
+                </button>
+              </div>
+            </div>
+
+            {/* Option A: Upload JSON File */}
+            <div className="space-y-1.5">
+              <label className="text-xs font-bold text-slate-700 dark:text-slate-300">
+                1. JSON கோப்பைத் தேர்ந்தெடுக்கவும் (Upload .json file):
+              </label>
+              <div
+                onClick={() => importFileInputRef.current?.click()}
+                className={`border-2 border-dashed rounded-xl p-4 text-center cursor-pointer transition-all ${
+                  selectedImportFileName
+                    ? 'border-indigo-500 bg-indigo-50/40 dark:bg-indigo-950/30'
+                    : 'border-slate-300 dark:border-slate-700 hover:border-indigo-500 dark:hover:border-indigo-400 bg-slate-50/50 dark:bg-slate-800/30'
+                }`}
+              >
+                <FileUp className={`w-6 h-6 mx-auto mb-1 ${selectedImportFileName ? 'text-indigo-600 dark:text-indigo-400' : 'text-indigo-500'}`} />
+                {selectedImportFileName ? (
+                  <div>
+                    <p className="text-xs font-bold text-indigo-700 dark:text-indigo-300">
+                      தேர்ந்தெடுக்கப்பட்ட கோப்பு: {selectedImportFileName}
+                    </p>
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">
+                      வேறொரு கோப்பைத் தேர்ந்தெடுக்க மீண்டும் கிளிக் செய்யவும்
+                    </p>
+                  </div>
+                ) : (
+                  <div>
+                    <p className="text-xs font-semibold text-slate-700 dark:text-slate-300">
+                      JSON கோப்பை பதிவேற்ற கிளிக் செய்யவும் (Click to select .json file)
+                    </p>
+                    <p className="text-[11px] text-slate-400">
+                      ஆசிரியரால் சேமிக்கப்பட்ட அல்லது AI வினாக்களின் JSON கோப்பு
+                    </p>
+                  </div>
+                )}
+              </div>
+            </div>
+
+            {/* Option B: Direct Paste JSON */}
+            <div className="space-y-1.5">
+              <div className="flex items-center justify-between">
+                <label className="text-xs font-bold text-slate-700 dark:text-slate-300">
+                  2. அல்லது JSON குறியீட்டை நேரடியாக ஒட்டவும் (Or paste JSON text):
+                </label>
+                {importJsonText && (
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setImportJsonText('');
+                      setSelectedImportFileName('');
+                      setImportStatusMsg(null);
+                    }}
+                    className="text-[11px] text-rose-500 hover:underline"
+                  >
+                    Clear
+                  </button>
+                )}
+              </div>
+              <textarea
+                value={importJsonText}
+                onChange={(e) => {
+                  setImportJsonText(e.target.value);
+                  setImportStatusMsg(null);
+                }}
+                rows={5}
+                placeholder='[{"questionText": "...", "options": [...], "correctOption": "A"}] அல்லது {"questions": [...]}'
+                className="w-full p-2.5 rounded-xl border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white text-xs font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500/30"
+              />
+            </div>
+
+            {/* Status / Error feedback */}
+            {importStatusMsg && (
+              <div
+                className={`p-3 rounded-xl border text-xs font-semibold flex items-center space-x-2 ${
+                  importStatusMsg.type === 'success'
+                    ? 'bg-emerald-50 dark:bg-emerald-950/60 border-emerald-200 dark:border-emerald-800 text-emerald-700 dark:text-emerald-300'
+                    : importStatusMsg.type === 'info'
+                    ? 'bg-indigo-50 dark:bg-indigo-950/60 border-indigo-200 dark:border-indigo-800 text-indigo-700 dark:text-indigo-300'
+                    : 'bg-rose-50 dark:bg-rose-950/60 border-rose-200 dark:border-rose-800 text-rose-600 dark:text-rose-300'
+                }`}
+              >
+                {importStatusMsg.type === 'success' ? (
+                  <CheckCircle2 className="w-4 h-4 flex-shrink-0" />
+                ) : importStatusMsg.type === 'info' ? (
+                  <FileCheck2 className="w-4 h-4 flex-shrink-0" />
+                ) : (
+                  <AlertCircle className="w-4 h-4 flex-shrink-0" />
+                )}
+                <span>{importStatusMsg.text}</span>
+              </div>
+            )}
+
+            {/* Modal Actions */}
+            <div className="flex items-center justify-end space-x-2 pt-2 border-t border-slate-100 dark:border-slate-800">
+              <button
+                type="button"
+                onClick={() => {
+                  setShowImportModal(false);
+                  setImportStatusMsg(null);
+                  setSelectedImportFileName('');
+                }}
+                className="px-3.5 py-1.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 text-xs font-bold transition-all cursor-pointer"
+              >
+                ரத்து (Cancel)
+              </button>
+
+              <button
+                type="button"
+                disabled={!importJsonText.trim()}
+                onClick={() => {
+                  try {
+                    const parsed = JSON.parse(importJsonText.trim());
+                    handleProcessImport(parsed, importMode);
+                  } catch (e: any) {
+                    setImportStatusMsg({
+                      type: 'error',
+                      text: 'தவறான JSON வடிவம் (Invalid JSON syntax). சரிபார்த்து மீண்டும் முயற்சிக்கவும்.',
+                    });
+                  }
+                }}
+                className={`px-4 py-2 rounded-xl text-xs font-bold flex items-center space-x-1.5 transition-all cursor-pointer ${
+                  !importJsonText.trim()
+                    ? 'bg-slate-200 dark:bg-slate-800 text-slate-400 cursor-not-allowed'
+                    : 'bg-indigo-600 hover:bg-indigo-700 active:scale-95 text-white shadow-sm ring-2 ring-indigo-500/20'
+                }`}
+              >
+                <FolderInput className="w-3.5 h-3.5" />
+                <span>இறக்குமதி செய் (Confirm Import)</span>
+              </button>
+            </div>
           </div>
         </div>
       )}

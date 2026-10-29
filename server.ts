@@ -1,7 +1,4 @@
 import express, { Request, Response } from 'express';
-import dotenv from 'dotenv';
-dotenv.config({ path: '.env.local' });
-dotenv.config(); // fallback
 import path from 'path';
 import fs from 'fs';
 import { createServer as createViteServer } from 'vite';
@@ -22,9 +19,19 @@ import {
   SUBJECT_CONFIGS,
   UNIT_METADATA_MAP,
 } from './server/subjectUnitsManager';
+import {
+  connectMongoDB,
+  isMongoConnected,
+  QuizModel,
+  AttemptModel,
+  StudentModel,
+  AdminConfigModel,
+  UnitOverrideModel,
+} from './server/db';
+
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = 3000;
 
 // Body parsers with high limit for image/PDF base64 uploads
 app.use(express.json({ limit: '50mb' }));
@@ -49,15 +56,8 @@ const ai = new GoogleGenAI({
   },
 });
 
-// In-Memory & Persistent Storage
-const DATA_DIR = path.join(process.cwd(), '.data');
-const QUIZZES_FILE = path.join(DATA_DIR, 'quizzes.json');
-const ATTEMPTS_FILE = path.join(DATA_DIR, 'attempts.json');
+// In-Memory & MongoDB-backed Storage State
 const PYQ_DATA_DIR = path.join(process.cwd(), 'assets', 'pyq', 'data');
-
-if (!fs.existsSync(DATA_DIR)) {
-  fs.mkdirSync(DATA_DIR, { recursive: true });
-}
 
 let quizzes: Quiz[] = [];
 let attempts: StudentAttempt[] = [];
@@ -192,31 +192,140 @@ function loadAllPyqPapers() {
   console.log(`Successfully loaded ${pyqQuizzesMap.size} Previous Year Question Papers.`);
 }
 
-// Initial load of PYQ papers and Subject Unit Store
-loadAllPyqPapers();
-initUnitStore();
-
-// Load persisted data or default mocks
-const STUDENTS_FILE = path.join(process.cwd(), 'students.json');
+// Global data stores in memory and MongoDB
 let authorizedStudents: AuthorizedStudent[] = [];
+let currentAdminPassword = process.env.ADMIN_PASSWORD || 'nmms@2026';
+const ADMIN_SECURITY_PIN = process.env.ADMIN_SECURITY_PIN || '273464';
 
-try {
-  if (fs.existsSync(STUDENTS_FILE)) {
-    authorizedStudents = JSON.parse(fs.readFileSync(STUDENTS_FILE, 'utf-8'));
+// Asynchronous initialization directly from MongoDB
+export async function initDatabaseAndState() {
+  loadAllPyqPapers();
+
+  const mongoOk = await connectMongoDB();
+  if (mongoOk) {
+    // 1. Admin Config
+    try {
+      const adminDoc = await AdminConfigModel.findOne({ configKey: 'primary' });
+      if (adminDoc && adminDoc.adminPassword) {
+        currentAdminPassword = adminDoc.adminPassword;
+      } else {
+        await AdminConfigModel.create({
+          configKey: 'primary',
+          adminPassword: currentAdminPassword,
+          securityPin: ADMIN_SECURITY_PIN,
+          updatedAt: new Date().toISOString(),
+        });
+      }
+    } catch (e) {
+      console.warn('[MongoDB] Error loading AdminConfig:', e);
+    }
+
+    // 2. Students Roster
+    try {
+      const dbStudents = await StudentModel.find({});
+      if (dbStudents && dbStudents.length > 0) {
+        authorizedStudents = dbStudents.map((d: any) => ({
+          examNumber: d.examNumber,
+          studentName: d.studentName,
+          school: d.school || 'GHS Kadayam',
+        }));
+        console.log(`[MongoDB] Loaded ${authorizedStudents.length} students from MongoDB.`);
+      } else {
+        console.log(`[MongoDB] Seeding initial student roster to MongoDB...`);
+        const docs = AUTHORIZED_STUDENTS.map((s) => ({
+          examNumber: s.examNumber,
+          studentName: s.studentName,
+          school: s.school || 'GHS Kadayam',
+        }));
+        await StudentModel.insertMany(docs);
+        authorizedStudents = [...AUTHORIZED_STUDENTS];
+      }
+    } catch (e) {
+      console.warn('[MongoDB] Error loading Student roster:', e);
+      authorizedStudents = [...AUTHORIZED_STUDENTS];
+    }
+
+    // 3. Quizzes
+    try {
+      const dbQuizzes = await QuizModel.find({});
+      if (dbQuizzes && dbQuizzes.length > 0) {
+        quizzes = dbQuizzes.map((doc: any) => {
+          const raw = doc.toObject();
+          delete raw._id;
+          delete raw.__v;
+          return raw as Quiz;
+        });
+        console.log(`[MongoDB] Loaded ${quizzes.length} custom/deployed quizzes from MongoDB.`);
+      } else {
+        console.log(`[MongoDB] Seeding initial mock quizzes to MongoDB...`);
+        await QuizModel.insertMany(INITIAL_QUIZZES);
+        quizzes = [...INITIAL_QUIZZES];
+      }
+    } catch (e) {
+      console.warn('[MongoDB] Error loading Quizzes:', e);
+      quizzes = [...INITIAL_QUIZZES];
+    }
+
+    // 4. Attempts
+    try {
+      const dbAttempts = await AttemptModel.find({}).sort({ createdAt: -1 });
+      if (dbAttempts && dbAttempts.length > 0) {
+        attempts = dbAttempts.map((doc: any) => {
+          const raw = doc.toObject();
+          delete raw._id;
+          delete raw.__v;
+          return raw as StudentAttempt;
+        });
+        console.log(`[MongoDB] Loaded ${attempts.length} attempts from MongoDB.`);
+      } else if (INITIAL_ATTEMPTS.length > 0) {
+        console.log(`[MongoDB] Seeding initial mock attempts to MongoDB...`);
+        await AttemptModel.insertMany(INITIAL_ATTEMPTS);
+        attempts = [...INITIAL_ATTEMPTS];
+      }
+    } catch (e) {
+      console.warn('[MongoDB] Error loading Attempts:', e);
+      attempts = [...INITIAL_ATTEMPTS];
+    }
   } else {
+    // Initial in-memory state if MongoDB is not connected
     authorizedStudents = [...AUTHORIZED_STUDENTS];
-    fs.writeFileSync(STUDENTS_FILE, JSON.stringify(authorizedStudents, null, 2));
+    quizzes = [...INITIAL_QUIZZES];
+    attempts = [...INITIAL_ATTEMPTS];
   }
-} catch (e) {
-  console.warn('Error reading students.json, falling back to AUTHORIZED_STUDENTS:', e);
-  authorizedStudents = [...AUTHORIZED_STUDENTS];
+
+  await initUnitStore();
 }
 
-function saveStudents() {
+function saveStudents(specificStudent?: AuthorizedStudent) {
   try {
-    fs.writeFileSync(STUDENTS_FILE, JSON.stringify(authorizedStudents, null, 2));
+    if (isMongoConnected()) {
+      if (specificStudent) {
+        StudentModel.findOneAndUpdate(
+          { examNumber: specificStudent.examNumber },
+          {
+            examNumber: specificStudent.examNumber,
+            studentName: specificStudent.studentName,
+            school: specificStudent.school || 'GHS Kadayam',
+          },
+          { upsert: true }
+        ).catch((err: any) => console.error('[MongoDB] Error saving student:', err));
+      } else {
+        // Bulk upsert all students to MongoDB
+        authorizedStudents.forEach((student) => {
+          StudentModel.findOneAndUpdate(
+            { examNumber: student.examNumber },
+            {
+              examNumber: student.examNumber,
+              studentName: student.studentName,
+              school: student.school || 'GHS Kadayam',
+            },
+            { upsert: true }
+          ).catch((err: any) => console.error('[MongoDB] Error saving student:', err));
+        });
+      }
+    }
   } catch (e) {
-    console.error('Failed to save students:', e);
+    console.error('Failed to save students to MongoDB:', e);
   }
 }
 
@@ -228,26 +337,6 @@ function findStudent(inputCodeOrNumber: string): AuthorizedStudent | null {
       (s) => s.examNumber.toUpperCase() === clean || s.examNumber.toLowerCase() === clean.toLowerCase()
     ) || null
   );
-}
-
-try {
-  if (fs.existsSync(QUIZZES_FILE)) {
-    quizzes = JSON.parse(fs.readFileSync(QUIZZES_FILE, 'utf-8'));
-  } else {
-    quizzes = [...INITIAL_QUIZZES];
-    fs.writeFileSync(QUIZZES_FILE, JSON.stringify(quizzes, null, 2));
-  }
-
-  if (fs.existsSync(ATTEMPTS_FILE)) {
-    attempts = JSON.parse(fs.readFileSync(ATTEMPTS_FILE, 'utf-8'));
-  } else {
-    attempts = [...INITIAL_ATTEMPTS];
-    fs.writeFileSync(ATTEMPTS_FILE, JSON.stringify(attempts, null, 2));
-  }
-} catch (e) {
-  console.warn('Error reading persisted data, falling back to mocks:', e);
-  quizzes = [...INITIAL_QUIZZES];
-  attempts = [...INITIAL_ATTEMPTS];
 }
 
 // Helper to find any quiz in active list, PYQ repository, or dynamically from Subject Units
@@ -278,19 +367,46 @@ function getQuizById(id: string): Quiz | undefined {
   return undefined;
 }
 
-function saveQuizzes() {
+function saveQuizzes(specificQuiz?: Quiz) {
   try {
-    fs.writeFileSync(QUIZZES_FILE, JSON.stringify(quizzes, null, 2));
+    if (isMongoConnected()) {
+      if (specificQuiz) {
+        QuizModel.findOneAndUpdate(
+          { id: specificQuiz.id },
+          specificQuiz,
+          { upsert: true }
+        ).catch((err: any) => console.error('[MongoDB] Error saving quiz:', err));
+      } else {
+        // Bulk upsert all quizzes
+        quizzes.forEach((q) => {
+          QuizModel.findOneAndUpdate({ id: q.id }, q, { upsert: true }).catch((err: any) =>
+            console.error('[MongoDB] Error upserting quiz:', err)
+          );
+        });
+      }
+    }
   } catch (e) {
-    console.error('Failed to save quizzes:', e);
+    console.error('Failed to save quizzes to MongoDB:', e);
   }
 }
 
-function saveAttempts() {
+function saveAttempts(specificAttempt?: StudentAttempt) {
   try {
-    fs.writeFileSync(ATTEMPTS_FILE, JSON.stringify(attempts, null, 2));
+    if (isMongoConnected()) {
+      if (specificAttempt) {
+        AttemptModel.create(specificAttempt).catch((err: any) =>
+          console.error('[MongoDB] Error creating attempt:', err)
+        );
+      } else {
+        attempts.forEach((att) => {
+          AttemptModel.findOneAndUpdate({ id: att.id }, att, { upsert: true }).catch((err: any) =>
+            console.error('[MongoDB] Error upserting attempt:', err)
+          );
+        });
+      }
+    }
   } catch (e) {
-    console.error('Failed to save attempts:', e);
+    console.error('Failed to save attempts to MongoDB:', e);
   }
 }
 
@@ -473,60 +589,122 @@ function calculateScore(
 // API Endpoints
 // -------------------------------------------------------------
 
-// 1. Health check
+// 1. Health check & MongoDB diagnostics
 app.get('/api/health', (req: Request, res: Response) => {
-  res.json({ status: 'ok', serverTime: new Date().toISOString() });
+  res.json({
+    status: 'ok',
+    serverTime: new Date().toISOString(),
+    database: {
+      connected: isMongoConnected(),
+      type: 'MongoDB',
+    },
+  });
+});
+
+// 1-db. Dedicated MongoDB Status & Diagnostics API
+app.get('/api/db-status', async (req: Request, res: Response) => {
+  const uriConfigured = !!(process.env.MONGODB_URI || process.env.MONGO_URL || process.env.DATABASE_URL);
+  const connected = isMongoConnected();
+
+  if (!connected) {
+    return res.json({
+      connected: false,
+      status: 'Disconnected / Standalone Mode',
+      uriConfigured,
+      message: uriConfigured
+        ? 'MongoDB URI is configured but connection could not be established. Falling back to active in-memory state.'
+        : 'MONGODB_URI environment variable not set. Application is running smoothly with in-memory state.',
+      memoryState: {
+        totalStudents: authorizedStudents.length,
+        totalQuizzes: quizzes.length,
+        totalAttempts: attempts.length,
+        pyqPapersLoaded: pyqQuizzesMap.size,
+      },
+    });
+  }
+
+  try {
+    const startTime = Date.now();
+    const [studentsCount, quizzesCount, attemptsCount, overridesCount, adminConfig] = await Promise.all([
+      StudentModel.countDocuments(),
+      QuizModel.countDocuments(),
+      AttemptModel.countDocuments(),
+      UnitOverrideModel.countDocuments(),
+      AdminConfigModel.findOne({ configKey: 'primary' }),
+    ]);
+    const latencyMs = Date.now() - startTime;
+
+    return res.json({
+      connected: true,
+      status: 'Connected & Operational',
+      uriConfigured: true,
+      latencyMs: `${latencyMs}ms`,
+      message: 'MongoDB is actively connected and functioning properly.',
+      collections: {
+        students: {
+          count: studentsCount,
+          description: 'Authorized students roster',
+        },
+        quizzes: {
+          count: quizzesCount,
+          description: 'Custom & deployed quizzes',
+        },
+        attempts: {
+          count: attemptsCount,
+          description: 'Student test attempts & score records',
+        },
+        unitOverrides: {
+          count: overridesCount,
+          description: 'Custom subject unit question overrides',
+        },
+        adminConfig: {
+          exists: !!adminConfig,
+          lastUpdated: adminConfig?.updatedAt || null,
+        },
+      },
+      inMemoryStats: {
+        totalStudents: authorizedStudents.length,
+        totalQuizzes: quizzes.length,
+        totalAttempts: attempts.length,
+        pyqPapersLoaded: pyqQuizzesMap.size,
+      },
+    });
+  } catch (err: any) {
+    return res.status(500).json({
+      connected: false,
+      status: 'Error Querying MongoDB',
+      error: err.message,
+      memoryState: {
+        totalStudents: authorizedStudents.length,
+        totalQuizzes: quizzes.length,
+        totalAttempts: attempts.length,
+      },
+    });
+  }
 });
 
 // 1a. Admin Authentication & Dynamic Password Management
-const ADMIN_CONFIG_FILE = path.join(DATA_DIR, 'admin_config.json');
-
-let currentAdminPassword = process.env.ADMIN_PASSWORD || 'nmms@2026';
-try {
-  if (fs.existsSync(ADMIN_CONFIG_FILE)) {
-    const config = JSON.parse(fs.readFileSync(ADMIN_CONFIG_FILE, 'utf-8'));
-    if (config.adminPassword && typeof config.adminPassword === 'string') {
-      currentAdminPassword = config.adminPassword;
-    }
-  } else {
-    fs.writeFileSync(
-      ADMIN_CONFIG_FILE,
-      JSON.stringify(
-        {
-          adminPassword: currentAdminPassword,
-          updatedAt: new Date().toISOString(),
-        },
-        null,
-        2
-      )
-    );
-  }
-} catch (e) {
-  console.warn('Error reading admin config file:', e);
-}
-
 function saveAdminPassword(newPassword: string) {
   currentAdminPassword = newPassword;
   try {
-    fs.writeFileSync(
-      ADMIN_CONFIG_FILE,
-      JSON.stringify(
+    if (isMongoConnected()) {
+      AdminConfigModel.findOneAndUpdate(
+        { configKey: 'primary' },
         {
+          configKey: 'primary',
           adminPassword: newPassword,
+          securityPin: ADMIN_SECURITY_PIN,
           updatedAt: new Date().toISOString(),
         },
-        null,
-        2
-      )
-    );
-    console.log('Admin password updated and persisted successfully.');
+        { upsert: true }
+      ).catch((err: any) => console.error('[MongoDB] Error updating admin password:', err));
+    }
+    console.log('Admin password updated and persisted to MongoDB successfully.');
   } catch (e) {
-    console.error('Failed to persist admin password:', e);
+    console.error('Failed to persist admin password to MongoDB:', e);
   }
 }
 
-// In-Memory Password Reset Session Store (Security PIN: 273464)
-const ADMIN_SECURITY_PIN = process.env.ADMIN_SECURITY_PIN || '273464';
 
 interface AdminResetSession {
   resetToken: string;
@@ -689,16 +867,16 @@ app.get('/api/students/roster', (req: Request, res: Response) => {
 
     const totalAttempts = studentAttempts.length;
     const latest = studentAttempts[0] || null;
-    const bestScore = totalAttempts > 0 ? Math.max(...studentAttempts.map((a) => a.score.totalObtained)) : null;
-    const bestPercentage = totalAttempts > 0 ? Math.max(...studentAttempts.map((a) => a.score.percentage)) : null;
+    const bestScore = totalAttempts > 0 ? Math.max(...studentAttempts.map((a) => a.score?.totalObtained || 0)) : null;
+    const bestPercentage = totalAttempts > 0 ? Math.max(...studentAttempts.map((a) => a.score?.percentage || 0)) : null;
 
     return {
       ...s,
       totalAttempts,
       isCompleted: totalAttempts > 0,
       status: totalAttempts > 0 ? ('completed' as const) : ('pending' as const),
-      score: latest ? latest.score.totalObtained : null,
-      percentage: latest ? latest.score.percentage : null,
+      score: latest ? latest.score?.totalObtained || 0 : null,
+      percentage: latest ? latest.score?.percentage || 0 : null,
       bestScore,
       bestPercentage,
       submittedAt: latest ? latest.submittedAt : null,
@@ -733,8 +911,8 @@ app.get('/api/students/:examNumber/history', (req: Request, res: Response) => {
 
   const quizSummaries = Array.from(quizMap.entries()).map(([qId, atts]) => {
     const quiz = quizzes.find((q) => q.id === qId);
-    const scores = atts.map((a) => a.score.totalObtained);
-    const percentages = atts.map((a) => a.score.percentage);
+    const scores = atts.map((a) => a.score?.totalObtained || 0);
+    const percentages = atts.map((a) => a.score?.percentage || 0);
     const latest = atts[0];
 
     return {
@@ -742,10 +920,10 @@ app.get('/api/students/:examNumber/history', (req: Request, res: Response) => {
       quizTitle: quiz?.title || latest.quizTitle || 'NMMS Assessment',
       attemptCount: atts.length,
       bestScore: Math.max(...scores),
-      totalPossible: latest.score.totalPossible,
+      totalPossible: latest.score?.totalPossible || 0,
       bestPercentage: Math.max(...percentages),
-      latestScore: latest.score.totalObtained,
-      latestPercentage: latest.score.percentage,
+      latestScore: latest.score?.totalObtained || 0,
+      latestPercentage: latest.score?.percentage || 0,
       latestSubmittedAt: latest.submittedAt,
       attempts: atts,
     };
@@ -787,11 +965,11 @@ app.get('/api/students/:examNumber/history', (req: Request, res: Response) => {
   const overallAveragePercentage =
     totalAttempts > 0
       ? Math.round(
-          (studentAttempts.reduce((sum, a) => sum + a.score.percentage, 0) / totalAttempts) * 10
+          (studentAttempts.reduce((sum, a) => sum + a.score?.percentage || 0, 0) / totalAttempts) * 10
         ) / 10
       : 0;
   const overallBestScore =
-    totalAttempts > 0 ? Math.max(...studentAttempts.map((a) => a.score.totalObtained)) : 0;
+    totalAttempts > 0 ? Math.max(...studentAttempts.map((a) => a.score?.totalObtained || 0)) : 0;
 
   res.json({
     student,
@@ -854,7 +1032,7 @@ app.post('/api/students', (req: Request, res: Response) => {
   };
 
   authorizedStudents.push(newStudent);
-  saveStudents();
+  saveStudents(newStudent);
 
   console.log(`[STUDENT ROSTER] Added student: ${cleanExamNumber} - ${cleanStudentName}`);
 
@@ -905,7 +1083,13 @@ app.delete('/api/students/:examNumber', (req: Request, res: Response) => {
   }
 
   const removedStudent = authorizedStudents.splice(index, 1)[0];
+  if (isMongoConnected()) {
+    StudentModel.deleteOne({ examNumber: cleanExamNumber }).catch((e) =>
+      console.error('[MongoDB] Error deleting student:', e)
+    );
+  }
   saveStudents();
+
 
   console.log(`[STUDENT ROSTER] Removed student: ${removedStudent.examNumber} - ${removedStudent.studentName}`);
 
@@ -1060,13 +1244,14 @@ app.post('/api/pyq/deploy', (req: Request, res: Response) => {
     } else {
       quizzes.unshift(deployedQuiz);
     }
-    saveQuizzes();
+    saveQuizzes(deployedQuiz);
 
     res.json({
       success: true,
       message: `${paper.title} மாதிரித் தேர்வாக மாணவர் பயன்பாட்டிற்கு வெளியிடப்பட்டது!`,
       quiz: deployedQuiz,
     });
+
   } catch (err: any) {
     console.error('Failed to deploy PYQ paper:', err);
     res.status(500).json({ error: err.message || 'Failed to deploy PYQ paper' });
@@ -1327,13 +1512,14 @@ app.post('/api/subject-units/deploy', (req: Request, res: Response) => {
     } else {
       quizzes.unshift(quiz);
     }
-    saveQuizzes();
+    saveQuizzes(quiz);
 
     res.json({
       success: true,
       message: `"${quiz.title}" தேர்வாக மாணவர்களுக்கு வெற்றிகரமாக வெளியிடப்பட்டது! (Unit test deployed to students)`,
       quiz,
     });
+
   } catch (err: any) {
     console.error('Failed to deploy unit test:', err);
     res.status(500).json({ error: err.message || 'Failed to deploy unit test' });
@@ -1429,7 +1615,7 @@ app.post('/api/quizzes', (req: Request, res: Response) => {
     } else {
       quizzes.unshift(newQuiz);
     }
-    saveQuizzes();
+    saveQuizzes(newQuiz);
 
     res.status(201).json({ success: true, quiz: newQuiz });
   } catch (err: any) {
@@ -1445,6 +1631,9 @@ app.delete('/api/quizzes/:id', (req: Request, res: Response) => {
   quizzes = quizzes.filter((q) => q.id !== id);
   if (quizzes.length === initialLength) {
     return res.status(404).json({ error: 'Quiz not found' });
+  }
+  if (isMongoConnected()) {
+    QuizModel.deleteOne({ id }).catch((err: any) => console.error('[MongoDB] Error deleting quiz:', err));
   }
   saveQuizzes();
   res.json({ success: true, message: 'Quiz deleted successfully' });
@@ -1521,7 +1710,8 @@ app.post('/api/quizzes/:id/submit', (req: Request, res: Response) => {
     };
 
     attempts.unshift(attempt);
-    saveAttempts();
+    saveAttempts(attempt);
+
 
     res.status(201).json({
       success: true,
@@ -1578,10 +1768,10 @@ app.get('/api/quizzes/:id/analytics', (req: Request, res: Response) => {
   }
 
   const totalAttempts = quizAttempts.length;
-  const scores = quizAttempts.map((a) => a.score.totalObtained);
-  const percentages = quizAttempts.map((a) => a.score.percentage);
+  const scores = quizAttempts.map((a) => a.score?.totalObtained || 0);
+  const percentages = quizAttempts.map((a) => a.score?.percentage || 0);
   const times = quizAttempts.map((a) => a.timeTakenSeconds);
-  const passCount = quizAttempts.filter((a) => a.score.isEligible).length;
+  const passCount = quizAttempts.filter((a) => a.score?.isEligible).length;
 
   const averageScore = Math.round((scores.reduce((a, b) => a + b, 0) / totalAttempts) * 10) / 10;
   const averagePercentage = Math.round((percentages.reduce((a, b) => a + b, 0) / totalAttempts) * 10) / 10;
@@ -1592,10 +1782,10 @@ app.get('/api/quizzes/:id/analytics', (req: Request, res: Response) => {
 
   // Subject averages
   const subjectAverages = {
-    MAT: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score.subjectBreakdown.MAT?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
-    SAT_MATHS: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score.subjectBreakdown.SAT_MATHS?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
-    SAT_SCIENCE: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score.subjectBreakdown.SAT_SCIENCE?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
-    SAT_SOCIAL: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score.subjectBreakdown.SAT_SOCIAL?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
+    MAT: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score?.subjectBreakdown?.MAT?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
+    SAT_MATHS: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score?.subjectBreakdown?.SAT_MATHS?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
+    SAT_SCIENCE: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score?.subjectBreakdown?.SAT_SCIENCE?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
+    SAT_SOCIAL: Math.round((quizAttempts.reduce((sum, a) => sum + (a.score?.subjectBreakdown?.SAT_SOCIAL?.accuracy || 0), 0) / totalAttempts) * 10) / 10,
   };
 
   // Question-by-question analytics
@@ -1605,7 +1795,7 @@ app.get('/api/quizzes/:id/analytics', (req: Request, res: Response) => {
     let unattempted = 0;
 
     quizAttempts.forEach((a) => {
-      const ans = a.answers[q.id];
+      const ans = a.answers ? a.answers[q.id] : null;
       if (!ans) {
         unattempted++;
       } else if (ans === q.correctOption) {
@@ -1671,6 +1861,9 @@ app.delete('/api/attempts/:id', (req: Request, res: Response) => {
   if (attempts.length === prevCount) {
     return res.status(404).json({ error: 'Attempt record not found' });
   }
+  if (isMongoConnected()) {
+    AttemptModel.deleteOne({ id }).catch((err: any) => console.error('[MongoDB] Error deleting attempt:', err));
+  }
   saveAttempts();
   res.json({ success: true, message: 'தேர்வு முயற்சி வெற்றிகரமாக நீக்கப்பட்டது (Attempt deleted successfully)' });
 });
@@ -1691,6 +1884,12 @@ app.delete('/api/students/:examNumber/attempts', (req: Request, res: Response) =
   });
 
   const deletedCount = prevCount - attempts.length;
+  if (isMongoConnected()) {
+    const mongoFilter = quizId && typeof quizId === 'string'
+      ? { examNumber: new RegExp('^' + examNumber + '$', 'i'), quizId }
+      : { examNumber: new RegExp('^' + examNumber + '$', 'i') };
+    AttemptModel.deleteMany(mongoFilter).catch((err: any) => console.error('[MongoDB] Error deleting student attempts:', err));
+  }
   saveAttempts();
   res.json({
     success: true,
@@ -1698,6 +1897,7 @@ app.delete('/api/students/:examNumber/attempts', (req: Request, res: Response) =
     message: `${deletedCount} attempt records deleted successfully for ${examNumber}`,
   });
 });
+
 
 // -------------------------------------------------------------
 // Resilient Gemini Execution Helper with Backoff & Fallbacks
@@ -1733,6 +1933,10 @@ async function generateWithFallback(params: {
   contents: any;
   config?: any;
 }) {
+  if (!process.env.GEMINI_API_KEY) {
+    throw new Error('GEMINI_API_KEY is not configured on the server. Please check your environment configuration.');
+  }
+
   const modelsToTry = [PRIMARY_MODEL, ...FALLBACK_MODELS];
   let lastError: any = null;
 
@@ -1902,24 +2106,75 @@ Guidelines:
       },
     });
 
-    const parsedJson = JSON.parse(response.text?.trim() || '{"extractedQuestions": []}');
+    let parsedJson: any = { extractedQuestions: [] };
+    try {
+      const rawText = response.text?.trim() || '';
+      const cleanJson = rawText.replace(/^```json\s*/i, '').replace(/```$/i, '').trim();
+      parsedJson = JSON.parse(cleanJson || '{"extractedQuestions": []}');
+    } catch (parseErr) {
+      console.warn('Failed to parse Gemini response text as JSON:', response.text);
+      parsedJson = { extractedQuestions: [] };
+    }
+function repairMangledLatexServer(input: string): string {
+  if (!input || typeof input !== 'string') return '';
+  let text = input;
+  // Repair Formfeed (\x0c, \f, ⇡, ↑) before 'rac' or bare 'rac{'
+  text = text.replace(/[\x0c\f\u21e1\u2191]\s*rac/gi, '\\frac');
+  text = text.replace(/(^|[\s=+\-*\/_^({\[,])rac\{/gi, '$1\\frac{');
+  text = text.replace(/⇡rac/gi, '\\frac');
+  text = text.replace(/↑rac/gi, '\\frac');
+
+  // Repair Tab (\x09, \t) before 'ext{', 'imes', 'heta', 'riangle', 'an'
+  text = text.replace(/[\x09\t]\s*ext\{/gi, '\\text{');
+  text = text.replace(/(^|[\s0-9a-zA-Z\)\}])ext\{/gi, '$1\\text{');
+  text = text.replace(/[\x09\t]\s*imes/gi, '\\times');
+  text = text.replace(/(^|[\s0-9a-zA-Z\)\}])imes\b/gi, '$1\\times');
+  text = text.replace(/[\x09\t]\s*heta/gi, '\\theta');
+  text = text.replace(/[\x09\t]\s*riangle/gi, '\\triangle');
+  text = text.replace(/[\x09\t]\s*an\b/gi, '\\tan');
+
+  // Repair Carriage Return (\x0d, \r) before 'ightarrow', 'eftarrow', 'ight', 'eft'
+  text = text.replace(/[\x0d\r]\s*ightarrow/gi, '\\rightarrow');
+  text = text.replace(/(^|[\s0-9a-zA-Z\)\}])ightarrow/gi, '$1\\rightarrow');
+  text = text.replace(/[\x0d\r]\s*eftarrow/gi, '\\leftarrow');
+  text = text.replace(/(^|[\s0-9a-zA-Z\)\}])eftarrow/gi, '$1\\leftarrow');
+  text = text.replace(/[\x0d\r]\s*ight\b/gi, '\\right');
+
+  // Repair Backspace (\x08, \b) before 'eta', 'ar{', 'ox{'
+  text = text.replace(/[\x08]\s*eta\b/gi, '\\beta');
+  text = text.replace(/[\x08]\s*ar\{/gi, '\\bar{');
+  text = text.replace(/[\x08]\s*ox\{/gi, '\\box{');
+
+  // Repair Newline (\x0a, \n) before 'eq'
+  text = text.replace(/[\x0a\n]\s*eq\b/gi, ' \\neq ');
+
+  // Repair bare 'sqrt{' missing leading backslash
+  text = text.replace(/(^|[\s=+\-*\/_^({\[,])sqrt\{/gi, '$1\\sqrt{');
+
+  return text;
+}
+
     const formattedQuestions = (parsedJson.extractedQuestions || []).map((q: any, i: number) => ({
       id: `ai-ext-${Date.now()}-${i + 1}`,
       subject: ['MAT', 'SAT_MATHS', 'SAT_SCIENCE', 'SAT_SOCIAL'].includes(q.subject) ? q.subject : (defaultSubject || 'MAT'),
       topic: q.topic || 'பொதுத் தலைப்பு',
-      questionText: q.questionText,
-      options: q.options && q.options.length === 4 ? q.options : [
+      questionText: repairMangledLatexServer(q.questionText || ''),
+      options: (q.options && q.options.length === 4 ? q.options : [
         { id: 'A', text: q.options?.[0]?.text || 'விருப்பம் A' },
         { id: 'B', text: q.options?.[1]?.text || 'விருப்பம் B' },
         { id: 'C', text: q.options?.[2]?.text || 'விருப்பம் C' },
         { id: 'D', text: q.options?.[3]?.text || 'விருப்பம் D' },
-      ],
+      ]).map((opt: any, oIdx: number) => ({
+        id: (['A', 'B', 'C', 'D'][oIdx] || 'A') as 'A' | 'B' | 'C' | 'D',
+        text: repairMangledLatexServer(String(opt.text || '')),
+      })),
       correctOption: ['A', 'B', 'C', 'D'].includes(q.correctOption?.toUpperCase()) ? q.correctOption.toUpperCase() : 'A',
-      explanation: q.explanation || 'NMMS வினாத்தாள் பகுப்பாய்வு மூலம் பெறப்பட்ட படிமுறை தீர்வு.',
+      explanation: repairMangledLatexServer(q.explanation || 'NMMS வினாத்தாள் பகுப்பாய்வு மூலம் பெறப்பட்ட படிமுறை தீர்வு.'),
       marks: 1,
       negativeMarks: 0,
     }));
 
+    res.setHeader('Content-Type', 'application/json');
     res.json({
       success: true,
       count: formattedQuestions.length,
@@ -1941,6 +2196,7 @@ Guidelines:
       errorMessage = 'The AI model is currently experiencing high demand. Please click "Extract Questions with AI" to try again.';
     }
 
+    res.setHeader('Content-Type', 'application/json');
     res.status(500).json({ error: errorMessage });
   }
 });
@@ -2033,7 +2289,16 @@ Output Requirements:
       },
     });
 
-    const parsed = JSON.parse(response.text?.trim() || '{"questions": []}');
+    let parsed: any = { questions: [] };
+    try {
+      const rawText = response.text?.trim() || '';
+      const cleanJson = rawText.replace(/^```json\s*/i, '').replace(/```$/i, '').trim();
+      parsed = JSON.parse(cleanJson || '{"questions": []}');
+    } catch (parseErr) {
+      console.warn('Failed to parse Gemini generated response text as JSON:', response.text);
+      parsed = { questions: [] };
+    }
+
     const generated = (parsed.questions || []).map((q: any, i: number) => ({
       id: `ai-gen-${Date.now()}-${i + 1}`,
       subject: ['MAT', 'SAT_MATHS', 'SAT_SCIENCE', 'SAT_SOCIAL'].includes(q.subject) ? q.subject : (subject || 'MAT'),
@@ -2046,6 +2311,7 @@ Output Requirements:
       negativeMarks: 0,
     }));
 
+    res.setHeader('Content-Type', 'application/json');
     res.json({ success: true, count: generated.length, questions: generated });
   } catch (err: any) {
     console.error('AI question generation error:', err);
@@ -2063,14 +2329,35 @@ Output Requirements:
       errorMessage = 'The AI service is experiencing high temporary demand. Please click "Generate Questions with AI" to retry.';
     }
 
+    res.setHeader('Content-Type', 'application/json');
     res.status(500).json({ error: errorMessage });
   }
+});
+
+// -------------------------------------------------------------
+// Global Error Handler for Express / Body Parser errors
+// -------------------------------------------------------------
+app.use((err: any, req: Request, res: Response, next: any) => {
+  if (err) {
+    console.error('[Server Request Error]', err.type || err.name, err.message);
+    res.setHeader('Content-Type', 'application/json');
+    if (err.type === 'entity.too.large' || err.status === 413) {
+      return res.status(413).json({
+        error: 'பதிவேற்றப்பட்ட கோப்பின் அளவு மிகவும் அதிகமாக உள்ளது (Payload Too Large). தயவுசெய்து குறைந்த அளவிலான படங்களை பதிவேற்றவும்.',
+      });
+    }
+    return res.status(err.status || 500).json({
+      error: err.message || 'Internal Server Error',
+    });
+  }
+  next();
 });
 
 // -------------------------------------------------------------
 // Vite Middleware / Static Serving
 // -------------------------------------------------------------
 async function start() {
+  await initDatabaseAndState();
   if (process.env.NODE_ENV !== 'production') {
     const vite = await createViteServer({
       server: { middlewareMode: true },
@@ -2085,9 +2372,14 @@ async function start() {
     });
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
+  const server = app.listen(PORT, '0.0.0.0', () => {
     console.log(`NMMS Exam Portal server running on port ${PORT}`);
   });
+
+  // Keep-alive and timeout configuration to prevent Cloudflare/Proxy socket disconnects
+  server.setTimeout(180000); // 3 minutes
+  server.keepAliveTimeout = 65000;
+  server.headersTimeout = 66000;
 }
 
 start();

@@ -98,7 +98,7 @@
             "image 4"
         ],
         "explanation_en": "The tetromino present in the given shape is identified according to the answer key.",
-        "image": "image/unit20/q5.PNG"
+        "image": "image/unit20/q5.png"
     },
     {
         "id": 6,
@@ -119,7 +119,7 @@
             "image 4"
         ],
         "explanation_en": "The tetromino present in the given shape is identified according to the answer key.",
-        "image": "image/unit20/q6.PNG"
+        "image": "image/unit20/q6.png"
     },
     {
         "id": 7,
@@ -140,11 +140,11 @@
             "360°"
         ],
         "explanation_en": "According to the answer key, the angle of rotation for the given tetromino is 90°.",
-        "image": "image/unit20/q7.PNG"
+        "image": "image/unit20/q7.png"
     },
     {
         "id": 8,
-        "question": "என்ற நாற்சதுர இணையின் 270° கடிகாரச் சுழற்சி image/q8_2.PNG எனில் அதன் கடிகார எதிர் சுழற்சி",
+        "question": "என்ற நாற்சதுர இணையின் 270° கடிகாரச் சுழற்சி image/q8_2.png எனில் அதன் கடிகார எதிர் சுழற்சி",
         "options": [
             "படம் 1",
             "படம் 2",
@@ -153,7 +153,7 @@
         ],
         "correct": 2,
         "explanation": "கடிகார திசையில் 270° சுழற்சி என்பது கடிகார எதிர் திசையில் 90° சுழற்சிக்குச் சமம். விடைக்குறிப்பின்படி விருப்பம் (3) சரியான பிம்பத்தைக் காட்டுகிறது.",
-        "question_en": "If the 270° clockwise rotation of this tetromino is image/q8_2.PNG, then its counter-clockwise rotation is",
+        "question_en": "If the 270° clockwise rotation of this tetromino is image/q8_2.png, then its counter-clockwise rotation is",
         "options_en": [
             "image 1",
             "image 2",
@@ -161,7 +161,7 @@
             "None of these"
         ],
         "explanation_en": "A 270° clockwise rotation is equivalent to a 90° counter-clockwise rotation. According to the key, option (3) shows the correct image.",
-        "image": "image/unit20/q8.PNG"
+        "image": "image/unit20/q8.png"
     },
     {
         "id": 9,
@@ -182,7 +182,7 @@
             "image 4"
         ],
         "explanation_en": "Rotating the given tetromino 90° clockwise yields the shape shown in option (4) according to the answer key.",
-        "image": "image/unit20/q9.PNG"
+        "image": "image/unit20/q9.png"
     },
     {
         "id": 10,
@@ -203,7 +203,7 @@
             "image 4"
         ],
         "explanation_en": "According to the answer key, the 2nd image lacks rotational symmetry.",
-        "image": "image/unit20/q10.PNG"
+        "image": "image/unit20/q10.png"
     },
     {
         "id": 11,
@@ -224,7 +224,7 @@
             "image 4"
         ],
         "explanation_en": "According to the answer key, the 3rd image does not possess any lines of symmetry.",
-        "image": "image/unit20/q11.PNG"
+        "image": "image/unit20/q11.png"
     },
     {
         "id": 12,
@@ -245,7 +245,7 @@
             "None"
         ],
         "explanation_en": "A to B is 3 km, and B to D is 4 km. The total distance is 7 km, which is the shortest path.",
-        "image": "image/unit20/q12.PNG"
+        "image": "image/unit20/q12.png"
     },
     {
         "id": 13,
@@ -266,7 +266,7 @@
             "21 hours"
         ],
         "explanation_en": "A→B (7 hrs) + B→C (5 hrs) + C→D (3 hrs) + D→E (6 hrs) = 21 hours in total.",
-        "image": "image/unit20/q13-14.PNG"
+        "image": "image/unit20/q13-14.png"
     },
     {
         "id": 14,
@@ -287,6 +287,6 @@
             "A→B→E"
         ],
         "explanation_en": "A→B→D→E = 7 + 4 + 6 = 17 hours. Based on the given options and answer key, this is considered the shortest path.",
-        "image": "image/unit20/q13-14.PNG"
+        "image": "image/unit20/q13-14.png"
     }
 ]

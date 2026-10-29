@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { StudentFullHistory, StudentAttempt, SUBJECT_METADATA } from '../types';
 import { formatDateTime, formatSecondsToTime } from '../utils/formatters';
+import { fetchJson } from '../utils/api';
 import {
   Award,
   Calendar,
@@ -60,15 +61,12 @@ export const StudentScoreHistoryModal: React.FC<StudentScoreHistoryModalProps> =
     setIsLoading(true);
     setError(null);
     try {
-      const res = await fetch(`/api/students/${encodeURIComponent(examNumber)}/history`);
-      if (res.ok) {
-        const data: StudentFullHistory = await res.json();
-        setHistoryData(data);
-      } else {
-        setError('மாணவர் தேர்வு வரலாறு கிடைக்கவில்லை (No score history available yet).');
-      }
+      const data = await fetchJson<StudentFullHistory>(
+        `/api/students/${encodeURIComponent(examNumber)}/history`
+      );
+      setHistoryData(data);
     } catch (e: any) {
-      setError('வரலாறு தரவை ஏற்றுவதில் பிழை (Failed to load student history).');
+      setError(e.message || 'வரலாறு தரவை ஏற்றுவதில் பிழை (Failed to load student history).');
     } finally {
       setIsLoading(false);
     }
@@ -81,23 +79,18 @@ export const StudentScoreHistoryModal: React.FC<StudentScoreHistoryModalProps> =
   const handleDeleteSingleAttempt = async (attempt: StudentAttempt) => {
     setIsDeletingInProgress(true);
     try {
-      const res = await fetch(`/api/attempts/${attempt.id}`, {
+      await fetchJson(`/api/attempts/${attempt.id}`, {
         method: 'DELETE',
       });
-      if (res.ok) {
-        setActionSuccessMessage(`Attempt on ${formatDateTime(attempt.submittedAt)} deleted successfully.`);
-        setTimeout(() => setActionSuccessMessage(null), 3500);
-        setAttemptToDelete(null);
-        if (onAttemptDeleted) {
-          onAttemptDeleted(attempt.id);
-        }
-        await fetchHistory();
-      } else {
-        const err = await res.json();
-        alert(`Failed to delete attempt: ${err.error || 'Unknown error'}`);
+      setActionSuccessMessage(`Attempt on ${formatDateTime(attempt.submittedAt)} deleted successfully.`);
+      setTimeout(() => setActionSuccessMessage(null), 3500);
+      setAttemptToDelete(null);
+      if (onAttemptDeleted) {
+        onAttemptDeleted(attempt.id);
       }
+      await fetchHistory();
     } catch (err: any) {
-      alert(`Network error deleting attempt: ${err.message}`);
+      alert(`Error deleting attempt: ${err.message}`);
     } finally {
       setIsDeletingInProgress(false);
     }
@@ -110,23 +103,18 @@ export const StudentScoreHistoryModal: React.FC<StudentScoreHistoryModalProps> =
         ? `/api/students/${encodeURIComponent(examNumber)}/attempts?quizId=${encodeURIComponent(selectedQuizFilter)}`
         : `/api/students/${encodeURIComponent(examNumber)}/attempts`;
 
-      const res = await fetch(url, {
+      await fetchJson(url, {
         method: 'DELETE',
       });
-      if (res.ok) {
-        setActionSuccessMessage('அனைத்து தேர்வு முயற்சிகளும் வெற்றிகரமாக நீக்கப்பட்டன (All attempts deleted successfully).');
-        setTimeout(() => setActionSuccessMessage(null), 3500);
-        setIsDeletingAll(false);
-        if (onAttemptDeleted) {
-          onAttemptDeleted('all');
-        }
-        await fetchHistory();
-      } else {
-        const err = await res.json();
-        alert(`Failed to delete attempts: ${err.error || 'Unknown error'}`);
+      setActionSuccessMessage('அனைத்து தேர்வு முயற்சிகளும் வெற்றிகரமாக நீக்கப்பட்டன (All attempts deleted successfully).');
+      setTimeout(() => setActionSuccessMessage(null), 3500);
+      setIsDeletingAll(false);
+      if (onAttemptDeleted) {
+        onAttemptDeleted('all');
       }
+      await fetchHistory();
     } catch (err: any) {
-      alert(`Network error deleting attempts: ${err.message}`);
+      alert(`Error deleting attempts: ${err.message}`);
     } finally {
       setIsDeletingInProgress(false);
     }

@@ -1018,7 +1018,7 @@
             "136 sq.cm"
         ],
         "explanation_en": "Correct answer option (1): 71.5 sq.cm. The diagonals are given as 13 cm and 11 cm. Area = ½ × d₁ × d₂ = ½ × 13 × 11 = ½ × 143 = 71.5 sq.cm.",
-        "image": "image/unit5/q51.PNG"
+        "image": "image/unit5/q51.png"
     },
     {
         "id": 52,
@@ -1739,7 +1739,7 @@
             "2:3"
         ],
         "explanation_en": "Correct answer option (2): 2:1. A diagonal divides a parallelogram into two congruent triangles. Therefore, the area of the parallelogram is twice the area of the triangle, giving a 2:1 ratio.",
-        "image": "image/unit5/q87.PNG"
+        "image": "image/unit5/q87.png"
     },
     {
         "id": 88,
@@ -1760,7 +1760,7 @@
             "806 sq.cm"
         ],
         "explanation_en": "Correct answer option (2): 408 sq.cm. Area = 2 × (½ × base × height) = 2 × (½ × 34 × 12) = 408 sq.cm.",
-        "image": "image/unit5/q88.PNG"
+        "image": "image/unit5/q88.png"
     },
     {
         "id": 89,
@@ -1781,7 +1781,7 @@
             "6 cm"
         ],
         "explanation_en": "Correct answer option (3): 8 cm. Area = base × height. Area = AD × MC = 12 × 10 = 120. Also Area = AB × CL = 15 × CL = 120. Thus, CL = 120 / 15 = 8 cm.",
-        "image": "image/unit5/q89.PNG"
+        "image": "image/unit5/q89.png"
     },
     {
         "id": 90,
@@ -2042,7 +2042,7 @@
             "26 sq.cm"
         ],
         "explanation_en": "Correct answer option (4): 26 sq.cm. The base is 13 cm and height is 4 cm. Area = ½ × 13 × 4 = 26 sq.cm.",
-        "image": "image/unit5/q102.PNG"
+        "image": "image/unit5/q102.png"
     },
     {
         "id": 103,

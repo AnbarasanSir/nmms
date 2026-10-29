@@ -202,7 +202,7 @@
   {
     "id": 101,
     "question": "முக்கோணத்தின் வெளிக்கோணங்கள் $x, y, z$ மற்றும் உட்கோணங்கள் $a, b, c$ எனில், சரியான கூற்று எது?",
-    "image": "image/mat_2026/q101.PNG",
+    "image": "image/mat_2026/q101.png",
     "options": [
       "$x+y+z = 180^{\\circ}$",
       "$x+y+z = a+b+c$",
@@ -263,7 +263,7 @@
   {
     "id": 104,
     "question": "x மற்றும் y-க்கு இடையேயான சரியான தொடர்பு: x=(6, 12, 18, 24, 30), y=(2, 4, 6, 8, 10)",
-    "image": "image/mat_2026/q104.PNG",
+    "image": "image/mat_2026/q104.png",
     "options": [
       "$y = 3x$",
       "$y = \\frac{1}{3}x$",
@@ -404,7 +404,7 @@
   {
     "id": 111,
     "question": "பொருத்துக (மின்சுற்றுக் கூறுகள்):",
-    "image": "image/mat_2026/q111.PNG",
+    "image": "image/mat_2026/q111.png",
     "options": [
       "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",

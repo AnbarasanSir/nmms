@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Quiz, Question, PyqPaperSummary, NMMS_Subject, SUBJECT_METADATA } from '../types';
 import { MathText } from './MathText';
+import { fetchJson } from '../utils/api';
 import { 
   FileText, 
   Send, 
@@ -80,12 +81,9 @@ export const PreviousYearPapers: React.FC<PreviousYearPapersProps> = ({
   const fetchPyqPapers = async () => {
     setIsLoading(true);
     try {
-      const res = await fetch('/api/pyq/papers');
-      if (res.ok) {
-        const data = await res.json();
-        if (data.papers && Array.isArray(data.papers)) {
-          setPapers(data.papers);
-        }
+      const data = await fetchJson<{ papers: PyqPaperSummary[] }>('/api/pyq/papers');
+      if (data && data.papers && Array.isArray(data.papers)) {
+        setPapers(data.papers);
       }
     } catch (e) {
       console.error('Failed to load PYQ papers repository:', e);
@@ -102,9 +100,8 @@ export const PreviousYearPapers: React.FC<PreviousYearPapersProps> = ({
     setQuestionSearchInModal('');
 
     try {
-      const res = await fetch(`/api/pyq/papers/${paperId}`);
-      if (res.ok) {
-        const fullPaper: Quiz = await res.json();
+      const fullPaper = await fetchJson<Quiz>(`/api/pyq/papers/${paperId}`);
+      if (fullPaper && fullPaper.id) {
         setSelectedPaperDetails(fullPaper);
       }
     } catch (e) {
@@ -132,7 +129,7 @@ export const PreviousYearPapers: React.FC<PreviousYearPapersProps> = ({
     if (!deployModalPaper) return;
     setIsDeploying(true);
     try {
-      const res = await fetch('/api/pyq/deploy', {
+      await fetchJson('/api/pyq/deploy', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -147,20 +144,16 @@ export const PreviousYearPapers: React.FC<PreviousYearPapersProps> = ({
         }),
       });
 
-      if (res.ok) {
-        const deployedPaper = deployModalPaper;
-        setDeployModalPaper(null);
-        setShareModalPaper(deployedPaper);
-        setCopiedLink(false);
-        setDeploySuccessMsg(`"${deployedPaper.title}" மாதிரித் தேர்வாக மாணவர் பயன்பாட்டிற்கு வெளியிடப்பட்டது!`);
-        fetchPyqPapers();
-        onRefreshQuizzes();
-      } else {
-        alert('வெளியிடுவதில் பிழை ஏற்பட்டது.');
-      }
-    } catch (e) {
+      const deployedPaper = deployModalPaper;
+      setDeployModalPaper(null);
+      setShareModalPaper(deployedPaper);
+      setCopiedLink(false);
+      setDeploySuccessMsg(`"${deployedPaper.title}" மாதிரித் தேர்வாக மாணவர் பயன்பாட்டிற்கு வெளியிடப்பட்டது!`);
+      fetchPyqPapers();
+      onRefreshQuizzes();
+    } catch (e: any) {
       console.error('Failed to deploy PYQ paper:', e);
-      alert('வெளியிடுவதில் பிழை ஏற்பட்டது.');
+      alert(e.message || 'வெளியிடுவதில் பிழை ஏற்பட்டது.');
     } finally {
       setIsDeploying(false);
     }
@@ -198,9 +191,8 @@ ${shareUrl}`;
   // Load paper into Question Builder tab
   const handleLoadPaperToBuilder = async (paperId: string) => {
     try {
-      const res = await fetch(`/api/pyq/papers/${paperId}`);
-      if (res.ok) {
-        const fullPaper: Quiz = await res.json();
+      const fullPaper = await fetchJson<Quiz>(`/api/pyq/papers/${paperId}`);
+      if (fullPaper) {
         onImportToBuilder(fullPaper);
       }
     } catch (e) {

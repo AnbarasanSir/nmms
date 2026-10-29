@@ -75,12 +75,48 @@ export const ExamEngine: React.FC<ExamEngineProps> = ({
   const [showCheatingWarning, setShowCheatingWarning] = useState<boolean>(false);
   const [showSubmitModal, setShowSubmitModal] = useState<boolean>(false);
   const [mobilePaletteOpen, setMobilePaletteOpen] = useState<boolean>(false);
+  const [isWindowFocused, setIsWindowFocused] = useState<boolean>(true);
+  const [showFocusLostOverlay, setShowFocusLostOverlay] = useState<boolean>(false);
+  const [isConcluded, setIsConcluded] = useState<boolean>(false);
+  const [terminationMessage, setTerminationMessage] = useState<string | null>(null);
 
   const timerRef = useRef<NodeJS.Timeout | null>(null);
+  const wakeLockRef = useRef<any>(null);
 
   // Auto-request fullscreen on exam start
   useEffect(() => {
     requestFullscreen();
+  }, []);
+
+  // Screen Wake Lock to prevent screen from sleeping
+  useEffect(() => {
+    const requestWakeLock = async () => {
+      try {
+        if ('wakeLock' in navigator) {
+          wakeLockRef.current = await (navigator as any).wakeLock.request('screen');
+        }
+      } catch (err: any) {
+        console.warn(`Wake Lock error: ${err.name}, ${err.message}`);
+      }
+    };
+
+    requestWakeLock();
+
+    const handleVisibilityChange = () => {
+      if (wakeLockRef.current !== null && document.visibilityState === 'visible') {
+        requestWakeLock();
+      }
+    };
+
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+
+    return () => {
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+      if (wakeLockRef.current) {
+        wakeLockRef.current.release().catch(() => {});
+        wakeLockRef.current = null;
+      }
+    };
   }, []);
 
   // Filtered question list based on subject tab
@@ -93,6 +129,7 @@ export const ExamEngine: React.FC<ExamEngineProps> = ({
 
   // Auto-submit handler
   const handleFinalSubmit = useCallback(() => {
+    setIsConcluded(true);
     exitFullscreen();
     onSubmitExam({
       answers,
@@ -105,28 +142,37 @@ export const ExamEngine: React.FC<ExamEngineProps> = ({
   // Countdown timer effect
   useEffect(() => {
     timerRef.current = setInterval(() => {
-      setSecondsRemaining((prev) => {
-        if (prev <= 1) {
-          clearInterval(timerRef.current!);
-          handleFinalSubmit();
-          return 0;
-        }
-        return prev - 1;
-      });
+      setSecondsRemaining((prev) => (prev > 0 ? prev - 1 : 0));
       setTimeTakenSeconds((prev) => prev + 1);
     }, 1000);
 
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
     };
-  }, [handleFinalSubmit]);
+  }, []);
 
-  // Anti-cheating window blur detector
+  // Handle timeout
   useEffect(() => {
-    if (!quiz.enableAntiCheat) return;
+    if (secondsRemaining <= 0 && !isConcluded) {
+      if (timerRef.current) clearInterval(timerRef.current);
+      handleFinalSubmit();
+    }
+  }, [secondsRemaining, isConcluded, handleFinalSubmit]);
 
+  // Auto-submit if tab switch count >= 3
+  useEffect(() => {
+    if (tabSwitchCount >= 3 && !isConcluded) {
+      setTerminationMessage("நீங்கள் தேர்வில் இருந்து மூன்று முறைக்கு மேல் வெளியேறியதால், தேர்வு தானாகவே முடித்துக் கொள்ளப்பட்டது.");
+      handleFinalSubmit();
+    }
+  }, [tabSwitchCount, isConcluded, handleFinalSubmit]);
+
+  // Anti-cheating window blur detector & focus state
+  useEffect(() => {
     const handleVisibilityChange = () => {
-      if (document.hidden) {
+      setIsWindowFocused(!document.hidden);
+      if (document.hidden && quiz.enableAntiCheat) {
+        setShowFocusLostOverlay(true);
         setTabSwitchCount((prev) => {
           const next = prev + 1;
           setShowCheatingWarning(true);
@@ -136,21 +182,67 @@ export const ExamEngine: React.FC<ExamEngineProps> = ({
     };
 
     const handleBlur = () => {
-      setTabSwitchCount((prev) => {
-        const next = prev + 1;
-        setShowCheatingWarning(true);
-        return next;
-      });
+      setIsWindowFocused(false);
+      if (quiz.enableAntiCheat) {
+        setShowFocusLostOverlay(true);
+        setTabSwitchCount((prev) => {
+          const next = prev + 1;
+          setShowCheatingWarning(true);
+          return next;
+        });
+      }
+    };
+
+    const handleFocus = () => {
+      setIsWindowFocused(true);
     };
 
     document.addEventListener('visibilitychange', handleVisibilityChange);
     window.addEventListener('blur', handleBlur);
+    window.addEventListener('focus', handleFocus);
 
     return () => {
       document.removeEventListener('visibilitychange', handleVisibilityChange);
       window.removeEventListener('blur', handleBlur);
+      window.removeEventListener('focus', handleFocus);
     };
   }, [quiz.enableAntiCheat]);
+
+  // Block keyboard shortcuts for screen capture / copy
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      // PrintScreen key
+      if (e.key === 'PrintScreen' || e.keyCode === 44) {
+        e.preventDefault();
+        navigator.clipboard?.writeText('').catch(() => {});
+        setTerminationMessage("ஸ்கிரீன்ஷாட் எடுக்க முயன்றதால் பாதுகாப்பு காரணங்களுக்காக தேர்வு தானாகவே முடித்துக் கொள்ளப்பட்டது.");
+        handleFinalSubmit();
+      }
+      
+      // Ctrl+C, Cmd+C (Copy)
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'c') {
+        e.preventDefault();
+      }
+      
+      // Ctrl+P, Cmd+P (Print)
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'p') {
+        e.preventDefault();
+      }
+
+      // Mac screenshot shortcuts: Cmd+Shift+3, 4, 5 / Win+Shift+S
+      if ((e.ctrlKey || e.metaKey) && e.shiftKey && ['3', '4', '5', 's'].includes(e.key.toLowerCase())) {
+        e.preventDefault();
+        navigator.clipboard?.writeText('').catch(() => {});
+        setTerminationMessage("ஸ்கிரீன்ஷாட் எடுக்க முயன்றதால் பாதுகாப்பு காரணங்களுக்காக தேர்வு தானாகவே முடித்துக் கொள்ளப்பட்டது.");
+        handleFinalSubmit();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [handleFinalSubmit]);
 
   // Update question status on navigation
   const navigateToQuestion = (targetIndex: number) => {
@@ -268,8 +360,60 @@ export const ExamEngine: React.FC<ExamEngineProps> = ({
   const isWarningTime = secondsRemaining <= 600 && !isUrgentTime; // < 10 mins
 
   return (
-    <div className="min-h-[calc(100vh-3.5rem)] sm:min-h-[calc(100vh-4rem)] bg-slate-100 dark:bg-slate-950 flex flex-col pb-16 lg:pb-0">
-      {/* Top Test Navigation Bar */}
+    <>
+      {(isConcluded || isSubmitting) && (
+        <div className="fixed inset-0 z-[10000] bg-slate-900/95 backdrop-blur-sm text-white flex flex-col items-center justify-center p-6 text-center select-none transition-all duration-300">
+          {terminationMessage ? (
+            <>
+              <ShieldAlert className="w-16 h-16 text-rose-500 mb-6 animate-pulse" />
+              <h2 className="text-3xl font-bold mb-3 tracking-tight text-rose-500">பாதுகாப்பு எச்சரிக்கை (Security Alert)</h2>
+              <p className="text-slate-200 text-lg max-w-md mb-8">{terminationMessage}</p>
+              <div className="flex items-center gap-3 text-slate-400 text-sm">
+                <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-slate-400"></div>
+                உங்கள் பதில்கள் சமர்ப்பிக்கப்படுகின்றன...
+              </div>
+            </>
+          ) : (
+            <>
+              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-white mb-6"></div>
+              <h2 className="text-3xl font-bold mb-3 tracking-tight">தேர்வு முடிந்தது (Test Concluded)</h2>
+              <p className="text-slate-300 text-lg max-w-md">
+                காத்திருக்கவும்... உங்கள் பதில்கள் சரிபார்க்கப்பட்டு சமர்ப்பிக்கப்படுகின்றன.
+              </p>
+            </>
+          )}
+        </div>
+      )}
+      {(!isWindowFocused || showFocusLostOverlay) && (
+        <div className="fixed inset-0 z-[9999] bg-slate-900 text-white flex flex-col items-center justify-center p-6 text-center select-none">
+          <ShieldAlert className="w-16 h-16 text-rose-500 mb-4" />
+          <h2 className="text-2xl font-bold mb-2">கவனம் சிதறியது (Focus Lost)</h2>
+          <p className="text-slate-300 max-w-lg leading-relaxed mb-8">
+            பாதுகாப்பு காரணங்களுக்காக, நீங்கள் வேறு திரைக்கு சென்றதால் தேர்வு மறைக்கப்பட்டுள்ளது. மீண்டும் தேர்வைத் தொடர கீழே உள்ள பொத்தானை அழுத்தவும். 
+            <br/><br/>
+            <strong className="text-rose-400">எச்சரிக்கை:</strong> 3 முறைக்கு மேல் வெளியேறினால் தேர்வு தானாகவே சமர்ப்பிக்கப்படும். 
+            <br/>
+            (தற்போதைய எண்ணிக்கை: <span className="text-white font-bold">{tabSwitchCount} / 3</span>)
+          </p>
+          <button 
+            onClick={() => {
+              setIsWindowFocused(true);
+              setShowFocusLostOverlay(false);
+            }}
+            className="px-8 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold rounded-lg shadow-md transition-colors duration-200"
+          >
+            சரி (OK)
+          </button>
+        </div>
+      )}
+      <div 
+        className="min-h-[calc(100vh-3.5rem)] sm:min-h-[calc(100vh-4rem)] bg-slate-100 dark:bg-slate-950 flex flex-col pb-16 lg:pb-0 select-none"
+        onContextMenu={(e) => e.preventDefault()}
+        onCopy={(e) => e.preventDefault()}
+        onCut={(e) => e.preventDefault()}
+        onPaste={(e) => e.preventDefault()}
+      >
+        {/* Top Test Navigation Bar */}
       <div className="bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 px-3 sm:px-6 py-2.5 sm:py-3 sticky top-14 sm:top-16 z-30 shadow-sm">
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-2 sm:gap-3">
           {/* Candidate & Quiz Details */}
@@ -847,5 +991,6 @@ export const ExamEngine: React.FC<ExamEngineProps> = ({
         </div>
       )}
     </div>
+    </>
   );
 };

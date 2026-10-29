@@ -8,6 +8,7 @@ import {
   Quiz,
 } from '../types';
 import { MathText } from './MathText';
+import { fetchJson } from '../utils/api';
 import {
   BookOpen,
   Search,
@@ -95,14 +96,9 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
     setIsLoadingUnits(true);
     setUnitsLoadError(null);
     try {
-      const res = await fetch(`/api/subject-units?subject=${subject}`);
-      if (res.ok) {
-        const data = await res.json();
-        setUnitSummaries(data.units || []);
-        setUnitsLoadError(null);
-      } else {
-        throw new Error(`Server returned status ${res.status}`);
-      }
+      const data = await fetchJson<{ units: SubjectUnitSummary[] }>(`/api/subject-units?subject=${subject}`);
+      setUnitSummaries(data.units || []);
+      setUnitsLoadError(null);
     } catch (e: any) {
       console.warn(`Fetch units attempt failed (retries left: ${retries}):`, e);
       if (retries > 0) {
@@ -112,7 +108,7 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
         return;
       }
       console.error('Failed to fetch units:', e);
-      setUnitsLoadError('பாட அலகுகளை ஏற்றுவதில் பிழை ஏற்பட்டது. மீண்டும் முயற்சிக்கவும்.');
+      setUnitsLoadError(e.message || 'பாட அலகுகளை ஏற்றுவதில் பிழை ஏற்பட்டது. மீண்டும் முயற்சிக்கவும்.');
     } finally {
       setIsLoadingUnits(false);
     }
@@ -127,14 +123,9 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
     setActiveUnit(unit);
     setIsLoadingQuestions(true);
     try {
-      const res = await fetch(`/api/subject-units/${unit.subject}/${unit.unitNumber}`);
-      if (res.ok) {
-        const data = await res.json();
-        setUnitQuestions(data.questions || []);
-      } else {
-        throw new Error(`Server returned status ${res.status}`);
-      }
-    } catch (e) {
+      const data = await fetchJson<{ questions: Question[] }>(`/api/subject-units/${unit.subject}/${unit.unitNumber}`);
+      setUnitQuestions(data.questions || []);
+    } catch (e: any) {
       if (retries > 0) {
         setTimeout(() => {
           handleOpenUnitQuestions(unit, retries - 1);
@@ -142,7 +133,7 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
         return;
       }
       console.error('Failed to fetch unit questions:', e);
-      showNotification('error', 'வினாக்களை ஏற்றுவதில் பிழை ஏற்பட்டது.');
+      showNotification('error', e.message || 'வினாக்களை ஏற்றுவதில் பிழை ஏற்பட்டது.');
     } finally {
       setIsLoadingQuestions(false);
     }
@@ -223,27 +214,22 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
         : `/api/subject-units/${activeUnit.subject}/${activeUnit.unitNumber}/questions/${editingQuestion.id}`;
 
       const method = isNew ? 'POST' : 'PUT';
-      const res = await fetch(url, {
+      await fetchJson(url, {
         method,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(editingQuestion),
       });
 
-      if (res.ok) {
-        showNotification('success', isNew ? 'புதிய வினா வெற்றிகரமாக சேர்க்கப்பட்டது!' : 'வினா வெற்றிகரமாக புதுப்பிக்கப்பட்டது!');
-        setIsQuestionModalOpen(false);
-        setEditingQuestion(null);
-        // Refresh active unit questions & unit summary list
-        handleOpenUnitQuestions(activeUnit);
-        fetchUnits(selectedSubject);
-        onRefreshQuizzes();
-      } else {
-        const err = await res.json();
-        showNotification('error', err.error || 'வினாவை சேமிப்பதில் பிழை ஏற்பட்டது.');
-      }
-    } catch (e) {
+      showNotification('success', isNew ? 'புதிய வினா வெற்றிகரமாக சேர்க்கப்பட்டது!' : 'வினா வெற்றிகரமாக புதுப்பிக்கப்பட்டது!');
+      setIsQuestionModalOpen(false);
+      setEditingQuestion(null);
+      // Refresh active unit questions & unit summary list
+      handleOpenUnitQuestions(activeUnit);
+      fetchUnits(selectedSubject);
+      onRefreshQuizzes();
+    } catch (e: any) {
       console.error('Failed to save question:', e);
-      showNotification('error', 'வினாவை சேமிப்பதில் பிழை ஏற்பட்டது.');
+      showNotification('error', e.message || 'வினாவை சேமிப்பதில் பிழை ஏற்பட்டது.');
     } finally {
       setIsSavingQuestion(false);
     }
@@ -255,21 +241,17 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
     if (!confirm('இந்த வினாவை நிச்சயமாக நீக்க விரும்புகிறீர்களா?')) return;
 
     try {
-      const res = await fetch(
+      await fetchJson(
         `/api/subject-units/${activeUnit.subject}/${activeUnit.unitNumber}/questions/${qId}`,
         { method: 'DELETE' }
       );
-      if (res.ok) {
-        showNotification('success', 'வினா வெற்றிகரமாக நீக்கப்பட்டது.');
-        setUnitQuestions((prev) => prev.filter((q) => q.id !== qId));
-        fetchUnits(selectedSubject);
-        onRefreshQuizzes();
-      } else {
-        showNotification('error', 'வினாவை நீக்குவதில் பிழை ஏற்பட்டது.');
-      }
-    } catch (e) {
+      showNotification('success', 'வினா வெற்றிகரமாக நீக்கப்பட்டது.');
+      setUnitQuestions((prev) => prev.filter((q) => q.id !== qId));
+      fetchUnits(selectedSubject);
+      onRefreshQuizzes();
+    } catch (e: any) {
       console.error('Failed to delete question:', e);
-      showNotification('error', 'வினாவை நீக்குவதில் பிழை ஏற்பட்டது.');
+      showNotification('error', e.message || 'வினாவை நீக்குவதில் பிழை ஏற்பட்டது.');
     }
   };
 
@@ -279,21 +261,17 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
     if (!confirm('இந்த அலகின் அனைத்து வினாக்களையும் அசல் நிலைக்கு (Original Default) மீட்டமைக்க விரும்புகிறீர்களா? செய்யப்பட்ட மாற்றங்கள் நீக்கப்படும்.')) return;
 
     try {
-      const res = await fetch(
+      await fetchJson(
         `/api/subject-units/${activeUnit.subject}/${activeUnit.unitNumber}/reset`,
         { method: 'POST' }
       );
-      if (res.ok) {
-        showNotification('success', 'அலகு வினாக்கள் அசல் நிலைக்கு மீட்டமைக்கப்பட்டன!');
-        handleOpenUnitQuestions(activeUnit);
-        fetchUnits(selectedSubject);
-        onRefreshQuizzes();
-      } else {
-        showNotification('error', 'மீட்டமைப்பில் பிழை ஏற்பட்டது.');
-      }
-    } catch (e) {
+      showNotification('success', 'அலகு வினாக்கள் அசல் நிலைக்கு மீட்டமைக்கப்பட்டன!');
+      handleOpenUnitQuestions(activeUnit);
+      fetchUnits(selectedSubject);
+      onRefreshQuizzes();
+    } catch (e: any) {
       console.error('Failed to reset unit:', e);
-      showNotification('error', 'மீட்டமைப்பில் பிழை ஏற்பட்டது.');
+      showNotification('error', e.message || 'மீட்டமைப்பில் பிழை ஏற்பட்டது.');
     }
   };
 
@@ -315,7 +293,7 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
     if (!deployModalUnit) return;
     setIsDeploying(true);
     try {
-      const res = await fetch('/api/subject-units/deploy', {
+      await fetchJson('/api/subject-units/deploy', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -331,21 +309,16 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
         }),
       });
 
-      if (res.ok) {
-        showNotification(
-          'success',
-          `"${deployModalUnit.titleTa}" அலகு மாதிரித் தேர்வாக மாணவர் பயன்பாட்டிற்கு வெளியிடப்பட்டது!`
-        );
-        setDeployModalUnit(null);
-        fetchUnits(selectedSubject);
-        onRefreshQuizzes();
-      } else {
-        const err = await res.json();
-        showNotification('error', err.error || 'வெளியிடுவதில் பிழை ஏற்பட்டது.');
-      }
-    } catch (e) {
+      showNotification(
+        'success',
+        `"${deployModalUnit.titleTa}" அலகு மாதிரித் தேர்வாக மாணவர் பயன்பாட்டிற்கு வெளியிடப்பட்டது!`
+      );
+      setDeployModalUnit(null);
+      fetchUnits(selectedSubject);
+      onRefreshQuizzes();
+    } catch (e: any) {
       console.error('Failed to deploy unit:', e);
-      showNotification('error', 'வெளியிடுவதில் பிழை ஏற்பட்டது.');
+      showNotification('error', e.message || 'வெளியிடுவதில் பிழை ஏற்பட்டது.');
     } finally {
       setIsDeploying(false);
     }
@@ -357,22 +330,17 @@ export const SubjectQuestionsTable: React.FC<SubjectQuestionsTableProps> = ({
 
     setIsBulkDeploying(true);
     try {
-      const res = await fetch('/api/subject-units/deploy-all', {
+      const data = await fetchJson<any>('/api/subject-units/deploy-all', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ subject: selectedSubject }),
       });
-      if (res.ok) {
-        const data = await res.json();
-        showNotification('success', data.message || 'அனைத்து அலகுகளும் வெற்றிகரமாக வெளியிடப்பட்டன!');
-        fetchUnits(selectedSubject);
-        onRefreshQuizzes();
-      } else {
-        showNotification('error', 'வெளியிடுவதில் பிழை ஏற்பட்டது.');
-      }
-    } catch (e) {
+      showNotification('success', data?.message || 'அனைத்து அலகுகளும் வெற்றிகரமாக வெளியிடப்பட்டன!');
+      fetchUnits(selectedSubject);
+      onRefreshQuizzes();
+    } catch (e: any) {
       console.error('Failed to bulk deploy:', e);
-      showNotification('error', 'வெளியிடுவதில் பிழை ஏற்பட்டது.');
+      showNotification('error', e.message || 'வெளியிடுவதில் பிழை ஏற்பட்டது.');
     } finally {
       setIsBulkDeploying(false);
     }

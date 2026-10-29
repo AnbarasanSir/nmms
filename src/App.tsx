@@ -7,6 +7,7 @@ import { TeacherAdmin } from './components/TeacherAdmin';
 import { Quiz, StudentAttempt, Question } from './types';
 import { INITIAL_QUIZZES } from './data/mockQuizzes';
 import { requestFullscreen, exitFullscreen } from './utils/fullscreen';
+import { fetchJson } from './utils/api';
 
 export default function App() {
   // If ?quiz= or ?test= is in URL, open student test entry. Otherwise default strictly to teacher admin.
@@ -37,6 +38,7 @@ export default function App() {
     attempt: StudentAttempt;
     questions: Question[];
     quizTitle?: string;
+    allowReview?: boolean;
   } | null>(null);
   const [isSubmitting, setIsSubmitting] = useState<boolean>(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
@@ -44,24 +46,25 @@ export default function App() {
   // Fetch all quizzes on load
   const fetchQuizzes = async () => {
     try {
-      const res = await fetch('/api/quizzes');
-      if (res.ok) {
-        const data = await res.json();
-        if (Array.isArray(data)) {
-          if (data.length === 0) {
-            setQuizzes([]);
-            return;
-          }
-          // If we receive summary list, fetch full details for active quizzes
-          const fullQuizzesRes = await Promise.all(
-            data.map(async (item: any) => {
-              const qRes = await fetch(`/api/quizzes/${item.id}`);
-              return qRes.ok ? await qRes.json() : null;
-            })
-          );
-          const validFull = fullQuizzesRes.filter(Boolean);
-          setQuizzes(validFull);
+      const data = await fetchJson<any[]>('/api/quizzes');
+      if (Array.isArray(data)) {
+        if (data.length === 0) {
+          setQuizzes([]);
           return;
+        }
+        // If we receive summary list, fetch full details for active quizzes
+        const fullQuizzesRes = await Promise.all(
+          data.map(async (item: any) => {
+            try {
+              return await fetchJson<Quiz>(`/api/quizzes/${item.id}`);
+            } catch {
+              return null;
+            }
+          })
+        );
+        const validFull = fullQuizzesRes.filter(Boolean) as Quiz[];
+        if (validFull.length > 0) {
+          setQuizzes(validFull);
         }
       }
     } catch (e) {
@@ -80,10 +83,9 @@ export default function App() {
       setCurrentView('student_entry');
 
       // Fetch the specific quiz immediately if not loaded
-      fetch(`/api/quizzes/${quizParam}`)
-        .then((res) => (res.ok ? res.json() : null))
+      fetchJson<Quiz>(`/api/quizzes/${quizParam}`)
         .then((directQuiz) => {
-          if (directQuiz) {
+          if (directQuiz && directQuiz.id) {
             setQuizzes((prev) => {
               if (prev.some((q) => q.id === directQuiz.id)) return prev;
               return [directQuiz, ...prev];
@@ -104,11 +106,10 @@ export default function App() {
     requestFullscreen();
     try {
       // Fetch fresh exam questions for student (with security masking)
-      const res = await fetch(`/api/quizzes/${authData.quizId}?role=student`);
       let examQuiz: Quiz;
-      if (res.ok) {
-        examQuiz = await res.json();
-      } else {
+      try {
+        examQuiz = await fetchJson<Quiz>(`/api/quizzes/${authData.quizId}?role=student`);
+      } catch {
         const fallback = quizzes.find((q) => q.id === authData.quizId) || quizzes[0];
         examQuiz = fallback;
       }
@@ -140,7 +141,11 @@ export default function App() {
     setErrorMessage(null);
 
     try {
-      const res = await fetch(`/api/quizzes/${activeExamQuiz.id}/submit`, {
+      const data = await fetchJson<{
+        success: boolean;
+        attempt: StudentAttempt;
+        quizDetails: { id: string; title: string; questions?: Question[]; allowReview?: boolean };
+      }>(`/api/quizzes/${activeExamQuiz.id}/submit`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -154,18 +159,14 @@ export default function App() {
         }),
       });
 
-      const data = await res.json();
-      if (!res.ok) {
-        throw new Error(data.error || 'Failed to grade submission');
-      }
-
       // Exit fullscreen gracefully when exam finishes
       exitFullscreen();
 
       setScorecardData({
         attempt: data.attempt,
-        questions: data.quizDetails.questions || activeExamQuiz.questions,
-        quizTitle: data.quizDetails.title || activeExamQuiz.title,
+        questions: data.quizDetails?.questions || activeExamQuiz.questions,
+        quizTitle: data.quizDetails?.title || activeExamQuiz.title,
+        allowReview: data.quizDetails?.allowReview ?? activeExamQuiz.allowReview ?? true,
       });
 
       setCurrentView('scorecard');
@@ -183,6 +184,7 @@ export default function App() {
       attempt,
       questions,
       quizTitle: matchedQuiz?.title,
+      allowReview: matchedQuiz?.allowReview ?? true,
     });
     setCurrentView('scorecard');
   };
@@ -252,6 +254,7 @@ export default function App() {
             attempt={scorecardData.attempt}
             questions={scorecardData.questions}
             quizTitle={scorecardData.quizTitle}
+            allowReview={scorecardData.allowReview}
             onRetake={handleRetakeExam}
             onGoHome={() => setCurrentView('student_entry')}
           />
