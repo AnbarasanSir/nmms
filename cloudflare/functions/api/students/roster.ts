@@ -1,4 +1,4 @@
-import { Env, jsonResponse, errorResponse } from '../../../helpers';
+import { Env, jsonResponse, errorResponse } from '../../helpers';
 import { AUTHORIZED_STUDENTS } from '../../../src/data/students';
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {

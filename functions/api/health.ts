@@ -1,4 +1,4 @@
-import { Env, jsonResponse, errorResponse } from '../../helpers';
+import { Env, jsonResponse, errorResponse } from '../helpers';
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
   return jsonResponse({

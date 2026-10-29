@@ -1,5 +1,5 @@
 import { Env, jsonResponse, errorResponse } from '../../../../helpers';
-import { SUBJECT_CONFIGS, UNIT_METADATA_MAP } from '../../../subjectMetadata';
+import { SUBJECT_CONFIGS, UNIT_METADATA_MAP } from '../../../../subjectMetadata';
 import { NMMS_Subject } from '../../../../src/types';
 
 export const onRequestGet: PagesFunction<Env> = async (context) => {
